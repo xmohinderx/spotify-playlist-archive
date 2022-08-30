@@ -4,7 +4,7 @@
 
 > Taking you back to your favourite hall party classics from the Afrobeat scene.
 
-124 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/3PGD42xzaSO4O5kpwimiJs)
+125 songs - 8 hr 24 min - [published](https://open.spotify.com/playlist/3PGD42xzaSO4O5kpwimiJs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Africa Money](https://open.spotify.com/track/6zhfuaevbv2CGBmvLv11l6) | [Sidney Barima Oppong](https://open.spotify.com/artist/6flAiqO3WySVk4w8xAEu6W) | [Ghana Awake, Vol\. 1](https://open.spotify.com/album/7HzECIqKqXIIdXACUpzvKO) | 4:43 | 2020-11-06 | 2022-07-29 |
 | [African Queen](https://open.spotify.com/track/7FkT43Ziw1twchabx7AfOJ) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Face 2 Face \- Remix](https://open.spotify.com/album/24b98ZA7QXZ46a0CvZ1yCZ) | 4:20 | 2020-11-06 | 2022-07-29 |
 | [African Queen](https://open.spotify.com/track/4hM9jLSD1lgswviJTkHsPP) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.](https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV) | [Face 2 Face](https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw) | 4:22 | 2020-11-06 |  |
-| [Ahayede](https://open.spotify.com/track/0YcLMyZGhtAx1qYgQPbPkJ) | [Nana Boroo](https://open.spotify.com/artist/6okA9KLxPv9Za9RGkHSOk5), [SK Originale](https://open.spotify.com/artist/2z5uuIjNgQjzjwO3QVwHXP) | [Best of Nana Boroo](https://open.spotify.com/album/0FxMEwwFyYv70CkwvMpIUd) | 5:00 | 2020-11-06 |  |
+| [Ahayede](https://open.spotify.com/track/0YcLMyZGhtAx1qYgQPbPkJ) | [Nana Boroo](https://open.spotify.com/artist/6okA9KLxPv9Za9RGkHSOk5), [SK Originale](https://open.spotify.com/artist/2z5uuIjNgQjzjwO3QVwHXP) | [Best of Nana Boroo](https://open.spotify.com/album/0FxMEwwFyYv70CkwvMpIUd) | 5:00 | 2020-11-06 | 2022-08-30 |
 | [Ajeei \(feat\. Nana Boroo & Sarkodie\)](https://open.spotify.com/track/3dx6COHzPCAB1JFFMj58gW) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Nana Boroo](https://open.spotify.com/artist/6okA9KLxPv9Za9RGkHSOk5), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Refuse to Be Broke: Da Revolution 2](https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7) | 3:40 | 2020-11-06 |  |
 | [Akube](https://open.spotify.com/track/51f8NU4BLPeQE3UtuvjmEH) | [Dotman](https://open.spotify.com/artist/6qMGjGD3lmDJtzALZ8uS2z) | [Akube](https://open.spotify.com/album/5e5ujGdYJ523IE8TnRJe7i) | 3:44 | 2020-11-06 |  |
 | [Alingo](https://open.spotify.com/track/3ADcRFFSfs9aoakp9xKCtf) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Greatest Hits](https://open.spotify.com/album/1TYstIc5wsvjhINsDYqbTe) | 4:31 | 2020-11-06 | 2022-07-29 |
@@ -126,6 +126,7 @@
 | [Wengeze](https://open.spotify.com/track/1zWSf29jBrScFFxwhr1OLa) | [Eazzy](https://open.spotify.com/artist/0kLj779fKzLC2dxFJjsVXm) | [Bo Wonsem Ma Me](https://open.spotify.com/album/2TfKtb6WTtOybgGAwWPL7p) | 3:33 | 2020-11-06 | 2022-07-29 |
 | [Wo Onane No](https://open.spotify.com/track/2dguh4zWtrZK6VIJsEsXhe) | [Kwamz & Flava](https://open.spotify.com/artist/3RdldZQW8cYFLEDEH7haJe) | [DeYaaa](https://open.spotify.com/album/5sJDwsKEbIfoNwIT3sJ9bp) | 3:29 | 2020-11-06 |  |
 | [Yahooze](https://open.spotify.com/track/5uQdQMW0TshEPngJC0pPSg) | [Olu Maintain](https://open.spotify.com/artist/0MhOwPj45dpyuqe8pxKXoc) | [Olu Maintain](https://open.spotify.com/album/0D4NaOH0ucprHJAA870boc) | 4:15 | 2020-11-06 | 2022-08-20 |
+| [Yahooze](https://open.spotify.com/track/4vu5c3to9ytYGmEIMpWw4q) | [Olu Maintain](https://open.spotify.com/artist/0MhOwPj45dpyuqe8pxKXoc) | [Olu Maintain](https://open.spotify.com/album/2mUdcVpvhrP28q8jHnWdVx) | 4:15 | 2020-11-06 |  |
 | [Yes/No](https://open.spotify.com/track/0ZaMQuEmdsGaKQOXtiqrHn) | [Banky W.](https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3) | [R & BW](https://open.spotify.com/album/0n1PpUAHQ6DZvQ4mOiSztv) | 4:07 | 2020-11-06 | 2022-07-29 |
 | [Yes/No](https://open.spotify.com/track/47wpq9ChR1Oh4SgXuM0SwD) | [Banky W.](https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3) | [R & BW](https://open.spotify.com/album/1AsBBWRFndiye1Z4oPEXyt) | 4:07 | 2020-11-06 |  |
 | [Yori Yori](https://open.spotify.com/track/1zPbuWCj1bx0MyDUdFnTF8) | [Bracket](https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA) | [Least Expected](https://open.spotify.com/album/0CHBnB0nEDMhjNe1izWpoc) | 3:38 | 2020-11-06 |  |

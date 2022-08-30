@@ -2,7 +2,7 @@
 
 ### [Chilled R&B](https://open.spotify.com/playlist/37i9dQZF1DX2UgsUIg75Vg)
 
-> Chilled R&B jams for your most relaxed moods\. Cover: Thee Sacred Souls
+> Chilled R&B jams for your most relaxed moods.
 
 414 songs - 23 hr 57 min - [published](https://open.spotify.com/playlist/0z3nbjkWeZZbRZSs8bbW9u)
 

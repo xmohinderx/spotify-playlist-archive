@@ -889,6 +889,24 @@
     {
       "album": {
         "name": "Sones",
+        "url": "https://open.spotify.com/album/56QWjizDkOz0LQcwacfNYn"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Nuevo Tecalitlan",
+          "url": "https://open.spotify.com/artist/3KtTHCjZygtJHbR1yI2ugS"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184528,
+      "name": "El Mezcalito",
+      "url": "https://open.spotify.com/track/48ksr3js6Hb2cKdmUiZlzF"
+    },
+    {
+      "album": {
+        "name": "Sones",
         "url": "https://open.spotify.com/album/75GiM4BTQMPiLXCgmRkt0V"
       },
       "artists": [
@@ -899,7 +917,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 184528,
       "name": "El Mezcalito",
       "url": "https://open.spotify.com/track/62SI7G34pkpnjh9ES2gshV"
@@ -1347,6 +1365,24 @@
     {
       "album": {
         "name": "Sones",
+        "url": "https://open.spotify.com/album/56QWjizDkOz0LQcwacfNYn"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Nuevo Tecalitlan",
+          "url": "https://open.spotify.com/artist/3KtTHCjZygtJHbR1yI2ugS"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204538,
+      "name": "Fiesta Charra",
+      "url": "https://open.spotify.com/track/17Y6WieNYdlMAC5QKyzFOT"
+    },
+    {
+      "album": {
+        "name": "Sones",
         "url": "https://open.spotify.com/album/75GiM4BTQMPiLXCgmRkt0V"
       },
       "artists": [
@@ -1357,7 +1393,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 204538,
       "name": "Fiesta Charra",
       "url": "https://open.spotify.com/track/5YVxMf12hVXHLWoNssn1In"

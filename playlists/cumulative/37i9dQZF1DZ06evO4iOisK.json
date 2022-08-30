@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 307813,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/0V42vftKrkhKskoASUG13A"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 195933,
       "name": "BRING IT ON \u301cBattle of Rap\u301c",
       "url": "https://open.spotify.com/track/5l507Aa1hpzuGbivmeLYYl"
@@ -224,6 +224,24 @@
     },
     {
       "album": {
+        "name": "KINGDOM",
+        "url": "https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX"
+      },
+      "artists": [
+        {
+          "name": "SPYAIR",
+          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205640,
+      "name": "Don't Look Back",
+      "url": "https://open.spotify.com/track/2EYq8MSKm0q2SoYksSyy2R"
+    },
+    {
+      "album": {
         "name": "4",
         "url": "https://open.spotify.com/album/5But7Bof89100t1dGas3vE"
       },
@@ -235,7 +253,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-16",
+      "date_removed": null,
       "duration_ms": 242266,
       "name": "Far away",
       "url": "https://open.spotify.com/track/0qqO2Z3PDWYXGtbXcnl76h"
@@ -635,7 +653,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-25",
+      "date_removed": null,
       "duration_ms": 202906,
       "name": "PRIDE OF LIONS",
       "url": "https://open.spotify.com/track/66CGPgISLBlzp7hxdgvMrS"
@@ -761,7 +779,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 214000,
       "name": "STORY",
       "url": "https://open.spotify.com/track/3HXOjRUWG9aIFLj6OiLREp"

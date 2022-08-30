@@ -1,12 +1,12 @@
 {
   "description": "Female-identifying only tunes, with some of  <a href=\u201cspotify:artist:5rZUNweztKBI1Xy3XhYHoJ\u201d>Danielle Ponder's</a> personal picks. Cover: Danielle Ponder",
-  "num_followers": 19921,
+  "num_followers": 19915,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTU0NDk5OCwwMDAwMDAwMDUwNzZlNDA3M2NkN2RkNDBlMTdjMTk3ZjNhYmQzZmI4",
+  "snapshot_id": "MTY2MTc2MDA1MywwMDAwMDAwMGZiMzliNGI4MWFhZjM1MTcyZjI2NGRiNzZkODFjYTYy",
   "tracks": [
     {
       "added_at": "2022-08-26 19:29:14",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-08-03 04:00:00",
       "album": {
-        "name": "Post Party Trauma",
-        "url": "https://open.spotify.com/album/6vy8LmzdyUO6r0DmqCXutl"
-      },
-      "artists": [
-        {
-          "name": "Mckenna Grace",
-          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
-        }
-      ],
-      "duration_ms": 191266,
-      "name": "Post Party Trauma",
-      "url": "https://open.spotify.com/track/1tgAuknhoJhAtNFeXf0AZu"
-    },
-    {
-      "added_at": "2022-08-03 04:00:00",
-      "album": {
         "name": "3000\u00b0",
         "url": "https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 202755,
       "name": "I'm Baby (ft. Jvck James)",
       "url": "https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI"
+    },
+    {
+      "added_at": "2022-08-03 04:00:00",
+      "album": {
+        "name": "Post Party Trauma",
+        "url": "https://open.spotify.com/album/6vy8LmzdyUO6r0DmqCXutl"
+      },
+      "artists": [
+        {
+          "name": "Mckenna Grace",
+          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
+        }
+      ],
+      "duration_ms": 191266,
+      "name": "Post Party Trauma",
+      "url": "https://open.spotify.com/track/1tgAuknhoJhAtNFeXf0AZu"
     },
     {
       "added_at": "2022-08-03 04:00:00",
@@ -567,26 +567,6 @@
     {
       "added_at": "2022-08-03 04:00:00",
       "album": {
-        "name": "No One Dies From Love (The Remixes)",
-        "url": "https://open.spotify.com/album/4VPwf2tJMsGcV52TgihvYi"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        },
-        {
-          "name": "DJ_Dave",
-          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
-        }
-      ],
-      "duration_ms": 231111,
-      "name": "No One Dies From Love (DJ_Dave Edit)",
-      "url": "https://open.spotify.com/track/20q0OglvgOtzxH2YexMNXl"
-    },
-    {
-      "added_at": "2022-08-03 04:00:00",
-      "album": {
         "name": "Sugar Spice",
         "url": "https://open.spotify.com/album/0Ugvwj0WVE8HUBFHTzihME"
       },
@@ -619,18 +599,22 @@
     {
       "added_at": "2022-08-03 04:00:00",
       "album": {
-        "name": "Human Condition",
-        "url": "https://open.spotify.com/album/74ITqOAxrBRws1DJty5e85"
+        "name": "No One Dies From Love (The Remixes)",
+        "url": "https://open.spotify.com/album/4VPwf2tJMsGcV52TgihvYi"
       },
       "artists": [
         {
-          "name": "Pretty Sick",
-          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
         }
       ],
-      "duration_ms": 230381,
-      "name": "Human Condition",
-      "url": "https://open.spotify.com/track/3HPCA6J5A8kkcZzQxPieGW"
+      "duration_ms": 231111,
+      "name": "No One Dies From Love (DJ_Dave Edit)",
+      "url": "https://open.spotify.com/track/20q0OglvgOtzxH2YexMNXl"
     },
     {
       "added_at": "2022-08-03 04:00:00",
@@ -651,6 +635,22 @@
       "duration_ms": 213750,
       "name": "Crunk",
       "url": "https://open.spotify.com/track/4wiMZbsTLDkvaNZC3UL2GT"
+    },
+    {
+      "added_at": "2022-08-03 04:00:00",
+      "album": {
+        "name": "Human Condition",
+        "url": "https://open.spotify.com/album/74ITqOAxrBRws1DJty5e85"
+      },
+      "artists": [
+        {
+          "name": "Pretty Sick",
+          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
+        }
+      ],
+      "duration_ms": 230381,
+      "name": "Human Condition",
+      "url": "https://open.spotify.com/track/3HPCA6J5A8kkcZzQxPieGW"
     },
     {
       "added_at": "2022-08-03 04:00:00",

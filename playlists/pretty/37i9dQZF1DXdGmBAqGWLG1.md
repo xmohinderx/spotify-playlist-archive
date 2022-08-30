@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGmBAqGWLG1.md) - [plain]
 
 > Escuchá la banda de sonido de La Serie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,792 likes - 49 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,795 likes - 49 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGmBAqGWLG1.md) - [plain]
 | 36 | [Imposible](https://open.spotify.com/track/5Vrw8Br1PSD8OcjblU5BEV) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Presión](https://open.spotify.com/album/3Pr88tREtqKF9srgl21jGT) | 4:07 |
 | 37 | [Fuego \- En Vivo Luna Park](https://open.spotify.com/track/6WtFW6voAmKo5QOf3KTj6K) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Fuego \(En Vivo Luna Park\)](https://open.spotify.com/album/1V8ku6WhML2Z15eiLqIoHA) | 4:46 |
 | 38 | [Mi enfermedad](https://open.spotify.com/track/46bGEqzd7anKKovVOZ9bTF) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x), [Mariano Lopez](https://open.spotify.com/artist/5defwXHFW3smFGwOHJHalB) | [Algo mejor](https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ) | 3:21 |
-| 39 | [Había una Vez ...](https://open.spotify.com/track/2mjtPZJEuPaUn4YD2s0BC8) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Pajaritos, Bravos Muchachitos](https://open.spotify.com/album/71SBgWq7XwSn5ihSeCESn1) | 4:28 |
+| 39 | [Había una Vez ...](https://open.spotify.com/track/11cjhnNrlgv8O5nyDleb0I) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Pajaritos, Bravos Muchachitos](https://open.spotify.com/album/2JpW90SnK1AAOKjDFqQ9Cn) | 4:28 |
 | 40 | [Cansado de ser](https://open.spotify.com/track/25Ikcee1aOWfeL0n100TaR) | [El Bordo](https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg) | [En la Vereda de Enfrente](https://open.spotify.com/album/1KceNvU8vPId2H00ZulQYE) | 4:24 |
 | 41 | [Casi Nunca Lo Ves](https://open.spotify.com/track/6MO3xVnA1UIK9RgkfM1UQU) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Desde Cero](https://open.spotify.com/album/7dbBLrH3VJ3zrKHkL6vtUa) | 4:43 |
 | 42 | [Cruel](https://open.spotify.com/track/1r7vAaA9NGDMUJ6ZlGFtlY) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Chac Tu Chac](https://open.spotify.com/album/6kVObsiPuJyJbQfNh3zdfW) | 4:06 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGmBAqGWLG1.md) - [plain]
 | 48 | [Live And Let Die](https://open.spotify.com/track/0rFWuqFgHAfuzE8uSB9TWR) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 3:02 |
 | 49 | [Volviendo el sol](https://open.spotify.com/track/17ypCaGMiaf5zbsNztb6b9) | [El Bordo](https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg) | [Un Grito en el Viento](https://open.spotify.com/album/6xk8lyhsmfeNZ2pf0uF9hg) | 7:53 |
 
-Snapshot ID: `MTYwMDQzNzc5MSwwMDAwMDAwMDZlMTBlZTk0ODc3YWZmZjFmMjljN2U1N2RjMDFkMzll`
+Snapshot ID: `MTYwMDQzNzc5MSwwMDAwMDAwMDUzYTJlYzMyYTU5MGVjNmU1MjQwMzAxYjk4NzUwNDk4`

@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 6058,
+  "num_followers": 6131,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMDBjNmRmZGQ1MDU4ZjgxMjc2NWZlODFmMGMzMmFiYjhh",
+  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMDhmM2VlMTJjNDlhZmQ0ZTFhMTMxNDkzMDljMTAwNWZl",
   "tracks": [
     {
       "added_at": "2022-06-03 18:11:27",
@@ -93,24 +93,20 @@
       "url": "https://open.spotify.com/track/11fsAfyLE6m6j1Zay5hpvF"
     },
     {
-      "added_at": "2022-07-01 04:01:00",
+      "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "Da Fonk (feat. Joni)",
-        "url": "https://open.spotify.com/album/5t3QAcFlAa6hB08H976naz"
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/6WONhOrTC1hMcjVSPuAcr6"
       },
       "artists": [
         {
-          "name": "Mochakk",
-          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
-        },
-        {
-          "name": "Joni",
-          "url": "https://open.spotify.com/artist/6nZ4pcLtZYblB2ZwD7qvwe"
+          "name": "Hot Since 82",
+          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
         }
       ],
-      "duration_ms": 366141,
-      "name": "Da Fonk (feat. Joni)",
-      "url": "https://open.spotify.com/track/6ryPKHgiz6MSGJ1wYqn28b"
+      "duration_ms": 206378,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/1MeYeeJV7BUmp3Kf0wEmQe"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -157,20 +153,24 @@
       "url": "https://open.spotify.com/track/3FWy6mQGJt44v0YmLU6ieG"
     },
     {
-      "added_at": "2022-08-12 04:02:00",
+      "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/6WONhOrTC1hMcjVSPuAcr6"
+        "name": "Da Fonk (feat. Joni)",
+        "url": "https://open.spotify.com/album/5t3QAcFlAa6hB08H976naz"
       },
       "artists": [
         {
-          "name": "Hot Since 82",
-          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
+          "name": "Mochakk",
+          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+        },
+        {
+          "name": "Joni",
+          "url": "https://open.spotify.com/artist/6nZ4pcLtZYblB2ZwD7qvwe"
         }
       ],
-      "duration_ms": 206378,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/1MeYeeJV7BUmp3Kf0wEmQe"
+      "duration_ms": 366141,
+      "name": "Da Fonk (feat. Joni)",
+      "url": "https://open.spotify.com/track/6ryPKHgiz6MSGJ1wYqn28b"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -293,6 +293,34 @@
       "url": "https://open.spotify.com/track/2RcogvIEmlk7DoI1iDrySs"
     },
     {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Rizzla (Mochakk Remix)",
+        "url": "https://open.spotify.com/album/2blv3hfKbwCQubKJmCoNpw"
+      },
+      "artists": [
+        {
+          "name": "The Martinez Brothers",
+          "url": "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Mochakk",
+          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+        }
+      ],
+      "duration_ms": 321860,
+      "name": "Rizzla - Mochakk Remix",
+      "url": "https://open.spotify.com/track/3pE6Hl7fH4sbjmF9p8gzb5"
+    },
+    {
       "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Rudeboi",
@@ -365,34 +393,6 @@
       "url": "https://open.spotify.com/track/6rHyMTHlEn0ukuL4XRhG7X"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Rizzla (Mochakk Remix)",
-        "url": "https://open.spotify.com/album/2blv3hfKbwCQubKJmCoNpw"
-      },
-      "artists": [
-        {
-          "name": "The Martinez Brothers",
-          "url": "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Gordo",
-          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
-        },
-        {
-          "name": "Mochakk",
-          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
-        }
-      ],
-      "duration_ms": 321860,
-      "name": "Rizzla - Mochakk Remix",
-      "url": "https://open.spotify.com/track/3pE6Hl7fH4sbjmF9p8gzb5"
-    },
-    {
       "added_at": "2022-06-03 18:11:27",
       "album": {
         "name": "I Am Somebody",
@@ -409,22 +409,6 @@
       "url": "https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0"
     },
     {
-      "added_at": "2022-06-03 18:11:27",
-      "album": {
-        "name": "Alley Rave",
-        "url": "https://open.spotify.com/album/1yQU83J37P20ynvBDU31Cc"
-      },
-      "artists": [
-        {
-          "name": "Andrea Oliva",
-          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
-        }
-      ],
-      "duration_ms": 364099,
-      "name": "Alley Rave",
-      "url": "https://open.spotify.com/track/630fy1dTAKtfY1DJXLYyds"
-    },
-    {
       "added_at": "2022-07-08 17:12:43",
       "album": {
         "name": "Femme Tech",
@@ -439,6 +423,22 @@
       "duration_ms": 382439,
       "name": "Femme",
       "url": "https://open.spotify.com/track/3w2wq54qcswAGDr9CgRymT"
+    },
+    {
+      "added_at": "2022-06-03 18:11:27",
+      "album": {
+        "name": "Alley Rave",
+        "url": "https://open.spotify.com/album/1yQU83J37P20ynvBDU31Cc"
+      },
+      "artists": [
+        {
+          "name": "Andrea Oliva",
+          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
+        }
+      ],
+      "duration_ms": 364099,
+      "name": "Alley Rave",
+      "url": "https://open.spotify.com/track/630fy1dTAKtfY1DJXLYyds"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -497,22 +497,6 @@
       "url": "https://open.spotify.com/track/2THIz1r6q9mdeR9NcwHM6X"
     },
     {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Moody Fuse",
-        "url": "https://open.spotify.com/album/7KCjICJnDLfwOvGOLZZRlh"
-      },
-      "artists": [
-        {
-          "name": "Claude VonStroke",
-          "url": "https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd"
-        }
-      ],
-      "duration_ms": 411877,
-      "name": "Moody Fuse",
-      "url": "https://open.spotify.com/track/6MDaMEgEVbKk5POEdY3TN5"
-    },
-    {
       "added_at": "2022-06-03 18:11:27",
       "album": {
         "name": "Strung Up",
@@ -527,6 +511,58 @@
       "duration_ms": 200625,
       "name": "Strung Up",
       "url": "https://open.spotify.com/track/6vOr19HgqGzzCMv040ePVq"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Music4TheMasses (Andrea Oliva Remix)",
+        "url": "https://open.spotify.com/album/3nfx8zp8LAUEQcYBpqdWh9"
+      },
+      "artists": [
+        {
+          "name": "VNSSA",
+          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
+        },
+        {
+          "name": "Andrea Oliva",
+          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
+        }
+      ],
+      "duration_ms": 187652,
+      "name": "Music4TheMasses - Andrea Oliva Remix",
+      "url": "https://open.spotify.com/track/1q4SELBOdUcpYPvJp7iwDC"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Back To Me",
+        "url": "https://open.spotify.com/album/53jEoBJvKPpNoDrx1wwVfU"
+      },
+      "artists": [
+        {
+          "name": "Low Blow",
+          "url": "https://open.spotify.com/artist/4Jr5ULT8PKTOiBhTUZR9RQ"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Back To Me",
+      "url": "https://open.spotify.com/track/5MG3KRa0R0cx25ZQF0JMaf"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Moody Fuse",
+        "url": "https://open.spotify.com/album/7KCjICJnDLfwOvGOLZZRlh"
+      },
+      "artists": [
+        {
+          "name": "Claude VonStroke",
+          "url": "https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd"
+        }
+      ],
+      "duration_ms": 411877,
+      "name": "Moody Fuse",
+      "url": "https://open.spotify.com/track/6MDaMEgEVbKk5POEdY3TN5"
     },
     {
       "added_at": "2022-06-03 18:11:27",
@@ -577,24 +613,20 @@
       "url": "https://open.spotify.com/track/2LEO9efWacG85SkV3cah7q"
     },
     {
-      "added_at": "2022-07-01 04:01:00",
+      "added_at": "2022-06-03 18:11:27",
       "album": {
-        "name": "Music4TheMasses (Andrea Oliva Remix)",
-        "url": "https://open.spotify.com/album/3nfx8zp8LAUEQcYBpqdWh9"
+        "name": "Honey Bee",
+        "url": "https://open.spotify.com/album/6Q5TXCW5VO7fc5pdR1PBtX"
       },
       "artists": [
         {
-          "name": "VNSSA",
-          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
-        },
-        {
-          "name": "Andrea Oliva",
-          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
+          "name": "Ninetoes",
+          "url": "https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC"
         }
       ],
-      "duration_ms": 187652,
-      "name": "Music4TheMasses - Andrea Oliva Remix",
-      "url": "https://open.spotify.com/track/1q4SELBOdUcpYPvJp7iwDC"
+      "duration_ms": 263931,
+      "name": "Honey Bee - Edit",
+      "url": "https://open.spotify.com/track/7KJwlAWtpbQzTGkJSrBbnk"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -611,22 +643,6 @@
       "duration_ms": 204836,
       "name": "Fuck The Regs",
       "url": "https://open.spotify.com/track/3krO0tblKXMBuIsSg5Yijv"
-    },
-    {
-      "added_at": "2022-06-03 18:11:27",
-      "album": {
-        "name": "Honey Bee",
-        "url": "https://open.spotify.com/album/6Q5TXCW5VO7fc5pdR1PBtX"
-      },
-      "artists": [
-        {
-          "name": "Ninetoes",
-          "url": "https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC"
-        }
-      ],
-      "duration_ms": 263931,
-      "name": "Honey Bee - Edit",
-      "url": "https://open.spotify.com/track/7KJwlAWtpbQzTGkJSrBbnk"
     },
     {
       "added_at": "2022-06-03 18:11:27",
@@ -681,20 +697,20 @@
       "url": "https://open.spotify.com/track/5s5RKNozjSH616u91ZiqY7"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-06-17 04:01:00",
       "album": {
-        "name": "Back To Me",
-        "url": "https://open.spotify.com/album/53jEoBJvKPpNoDrx1wwVfU"
+        "name": "Kill The Soundboy",
+        "url": "https://open.spotify.com/album/19yhnnzXMUkzctGGijNagH"
       },
       "artists": [
         {
-          "name": "Low Blow",
-          "url": "https://open.spotify.com/artist/4Jr5ULT8PKTOiBhTUZR9RQ"
+          "name": "Denney",
+          "url": "https://open.spotify.com/artist/7vm3musYjzfqoMloVCEF7v"
         }
       ],
-      "duration_ms": 206400,
-      "name": "Back To Me",
-      "url": "https://open.spotify.com/track/5MG3KRa0R0cx25ZQF0JMaf"
+      "duration_ms": 404000,
+      "name": "Kill The Soundboy",
+      "url": "https://open.spotify.com/track/72AMbEMW0SGjL36DpLuYfY"
     },
     {
       "added_at": "2022-06-03 18:11:27",
@@ -713,20 +729,20 @@
       "url": "https://open.spotify.com/track/1BkVnW3EJByz6sbV8csgkL"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
+      "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Kill The Soundboy",
-        "url": "https://open.spotify.com/album/19yhnnzXMUkzctGGijNagH"
+        "name": "Take My Hand",
+        "url": "https://open.spotify.com/album/7iWe0c1Aw9a7MRix93uJwj"
       },
       "artists": [
         {
-          "name": "Denney",
-          "url": "https://open.spotify.com/artist/7vm3musYjzfqoMloVCEF7v"
+          "name": "Daniel Steinberg",
+          "url": "https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV"
         }
       ],
-      "duration_ms": 404000,
-      "name": "Kill The Soundboy",
-      "url": "https://open.spotify.com/track/72AMbEMW0SGjL36DpLuYfY"
+      "duration_ms": 317850,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/6kLVupUwnoBLmy0sNyVaBQ"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -777,22 +793,6 @@
       "url": "https://open.spotify.com/track/25jHZWxC5NFkaqT5Hb5uKS"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Take My Hand",
-        "url": "https://open.spotify.com/album/7iWe0c1Aw9a7MRix93uJwj"
-      },
-      "artists": [
-        {
-          "name": "Daniel Steinberg",
-          "url": "https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV"
-        }
-      ],
-      "duration_ms": 317850,
-      "name": "Take My Hand",
-      "url": "https://open.spotify.com/track/6kLVupUwnoBLmy0sNyVaBQ"
-    },
-    {
       "added_at": "2022-07-01 04:01:00",
       "album": {
         "name": "Welcome EP",
@@ -829,22 +829,6 @@
       "url": "https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9"
     },
     {
-      "added_at": "2022-06-10 14:45:01",
-      "album": {
-        "name": "Superfly",
-        "url": "https://open.spotify.com/album/7C9qqtM8RY29wFZE2BAQEJ"
-      },
-      "artists": [
-        {
-          "name": "Endor",
-          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
-        }
-      ],
-      "duration_ms": 177780,
-      "name": "Superfly",
-      "url": "https://open.spotify.com/track/55g2IGNdPK7dnOkFtttmOB"
-    },
-    {
       "added_at": "2022-06-03 18:11:27",
       "album": {
         "name": "Hydroponic EP",
@@ -859,22 +843,6 @@
       "duration_ms": 434000,
       "name": "Hydroponic",
       "url": "https://open.spotify.com/track/2DxIgWLfSqB8kfmPql4Hg8"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "The Mascot",
-        "url": "https://open.spotify.com/album/4UXxHyBwW1lOedH3vV9x4O"
-      },
-      "artists": [
-        {
-          "name": "Mihalis Safras",
-          "url": "https://open.spotify.com/artist/3m5g6NUg2akZ9Vv9D8GYBf"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "The Mascot",
-      "url": "https://open.spotify.com/track/0buZKE91rR2IQlUVYv6KMo"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -895,6 +863,38 @@
       "duration_ms": 362261,
       "name": "Sativa Jazz - Detlef Remix",
       "url": "https://open.spotify.com/track/1EZcxkIogFFysvmyxSOZDI"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Dilemma",
+        "url": "https://open.spotify.com/album/3Davr9dzq7S23vh9R7Fq2i"
+      },
+      "artists": [
+        {
+          "name": "Andrea Oliva",
+          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "Dilemma",
+      "url": "https://open.spotify.com/track/3yGIQywO2T8BK6ANMTrjcs"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Roxy's Sweat EP",
+        "url": "https://open.spotify.com/album/3s740hEDYRuSEjwnuw385t"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "duration_ms": 307865,
+      "name": "Roxy's Sweat - Original Mix",
+      "url": "https://open.spotify.com/track/42UvjYG1NPOnu9JKwOhdzi"
     }
   ],
   "unique_name": "Minimal Tech",

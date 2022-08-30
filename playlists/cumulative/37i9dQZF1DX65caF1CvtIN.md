@@ -4,7 +4,7 @@
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-116 songs - 5 hr 18 min - [published](https://open.spotify.com/playlist/6G5WCUYS9dgq5fbeEQzQHB)
+117 songs - 5 hr 21 min - [published](https://open.spotify.com/playlist/6G5WCUYS9dgq5fbeEQzQHB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Parc / парк / 公园](https://open.spotify.com/track/04vw8zznloH6w6L8JF1U7v) | [Michiel Borstlap](https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh) | [PACE](https://open.spotify.com/album/1ZWV1cpZ8FXdo15VFPAU1s) | 1:52 | 2022-08-03 |  |
 | [Persistence Of Lost Time](https://open.spotify.com/track/1tTWdpNyr5tlQpmRSkkWOe) | [How It All Ends](https://open.spotify.com/artist/78nAIN5HSq9vvW2NTsnv7j), [Arthur Baptista Galvão](https://open.spotify.com/artist/1Kf5YJ4yaDOSOBbkkzaQ2V) | [Persistence Of Lost Time](https://open.spotify.com/album/43inTGMMSmUjfbWzJ0rBzd) | 1:48 | 2022-08-03 |  |
 | [Plus Profond](https://open.spotify.com/track/7tEmaNEsEkAsYIcOvnPaa9) | [Nore April](https://open.spotify.com/artist/1kG5JVjVfcLdz5E97ZatfM) | [Plus Profond](https://open.spotify.com/album/7GksUrM626mfLSL5NFfFEY) | 1:54 | 2022-08-03 |  |
+| [Poets night](https://open.spotify.com/track/3tBaAnnYtDovnTsohJxGby) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Poets night](https://open.spotify.com/album/0WtuAtlDonPKHRCRCTJE7a) | 3:22 | 2022-08-29 |  |
 | [Quérete a ti mesmo](https://open.spotify.com/track/1LcIr9UrZgmkMGJ6U5aIIm) | [Coralia del Villar](https://open.spotify.com/artist/3gX9B2yu8e72aPFZTap45P) | [Quérete a ti mesmo](https://open.spotify.com/album/4eSIWgY6NHWPhw46vMa4R6) | 2:45 | 2022-08-03 |  |
 | [Radius](https://open.spotify.com/track/5HAJEsxD0fBSnbdWljzeFh) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Radius](https://open.spotify.com/album/62qUYNydgMlF5scn5Sy1Um) | 1:56 | 2022-08-26 |  |
 | [Remembering](https://open.spotify.com/track/1W8N95zUTtQNllHu8Ki0sP) | [Valentina Barbarella](https://open.spotify.com/artist/72dJh8lvMFa3XnK7JSHoBw) | [Remembering](https://open.spotify.com/album/3JMZ7hTq1NBXWp9C9OZUMa) | 2:19 | 2022-08-03 |  |

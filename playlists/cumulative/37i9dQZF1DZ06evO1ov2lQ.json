@@ -289,7 +289,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 308175,
       "name": "Black Lamb and Grey Falcon",
       "url": "https://open.spotify.com/track/0lhkLqfUNI2B4eCpsp12B8"
@@ -467,7 +467,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 259706,
       "name": "Drifter",
       "url": "https://open.spotify.com/track/5xgAiOzfGQIDB4H12rnFbL"
@@ -539,7 +539,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-28",
+      "date_removed": null,
       "duration_ms": 249672,
       "name": "Formanta",
       "url": "https://open.spotify.com/track/2EsksidmH4QLEEWxFH1X9I"
@@ -683,7 +683,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 211052,
       "name": "Green Reflections",
       "url": "https://open.spotify.com/track/2IydONo9wzrZ7aQLQVzHf9"
@@ -737,7 +737,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 398306,
       "name": "Iberia Eterea",
       "url": "https://open.spotify.com/track/64O74NcCUUafwf3wmoVisX"
@@ -791,7 +791,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 350528,
       "name": "In Triple Time",
       "url": "https://open.spotify.com/track/3ErEIn3vPI9PqwhRdtgGjm"
@@ -827,7 +827,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-25",
+      "date_removed": null,
       "duration_ms": 383000,
       "name": "Interval Signal",
       "url": "https://open.spotify.com/track/1WZcAa7lyALMxQHnq4mcCB"
@@ -889,7 +889,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-26",
+      "date_removed": null,
       "duration_ms": 410506,
       "name": "Katedra Botaniki",
       "url": "https://open.spotify.com/track/79QCazp5Yy0bmPx908uqbz"
@@ -1012,6 +1012,24 @@
     },
     {
       "album": {
+        "name": "Cirque",
+        "url": "https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64053,
+      "name": "Miniature Rock Dwellers",
+      "url": "https://open.spotify.com/track/0SrIBh7MBoZ741GpqZIgqO"
+    },
+    {
+      "album": {
         "name": "Patashnik",
         "url": "https://open.spotify.com/album/6UUS4WcqqD75JY1v3w83cx"
       },
@@ -1027,6 +1045,24 @@
       "duration_ms": 318577,
       "name": "Mir",
       "url": "https://open.spotify.com/track/0qelp5P9XttIUN7wyXBM5j"
+    },
+    {
+      "album": {
+        "name": "Cirque",
+        "url": "https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145320,
+      "name": "Moistened and Dried",
+      "url": "https://open.spotify.com/track/4nNsftfbVUOj8Q9b2pUl1F"
     },
     {
       "album": {
@@ -1239,7 +1275,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 480866,
       "name": "Sendai-1",
       "url": "https://open.spotify.com/track/222FcNSefEQFkhSHAr1vI0"
@@ -1387,7 +1423,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-27",
+      "date_removed": null,
       "duration_ms": 277183,
       "name": "Spindrift",
       "url": "https://open.spotify.com/track/5n0zWKEVxHx5rRSy6wJC1E"
@@ -1441,7 +1477,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 340974,
       "name": "Tan\u00df",
       "url": "https://open.spotify.com/track/4pycEDAeyKSWyumBrtnn3S"
@@ -1731,7 +1767,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 405880,
       "name": "When I Leave - Finely Tuned Version",
       "url": "https://open.spotify.com/track/64HnjUbbmrAzK8QnUmCtRR"

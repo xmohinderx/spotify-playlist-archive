@@ -1,12 +1,12 @@
 {
   "description": "\ubd80\ub4dc\ub7fd\uace0 \uace0\uae09\uc2a4\ub7ec\uc6b4 \uc7ac\uc988\ud5a5\uc774 \uac00\ubbf8\ub41c \ud799\ud569\uc74c\uc545\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 5693,
+  "num_followers": 5704,
   "original_name": "\uc7ac\uc988\ub9db \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ4MjMwOCwwMDAwMDAwMGY0YWU5YWJkN2MyOWFhMjY5NjRlZDIwNjRhMjU5MDM3",
+  "snapshot_id": "MTY1ODQ4MjMwOCwwMDAwMDAwMDY5MjkxNGQ4OGVjZjg5ODdlNmUyODI3NTlkMDNiMzlh",
   "tracks": [
     {
       "added_at": "2022-07-22 09:31:48",
@@ -219,6 +219,22 @@
     {
       "added_at": "2022-07-22 09:31:48",
       "album": {
+        "name": "u n u, Pt. 1",
+        "url": "https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq"
+      },
+      "artists": [
+        {
+          "name": "nafla",
+          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
+        }
+      ],
+      "duration_ms": 185013,
+      "name": "merlot",
+      "url": "https://open.spotify.com/track/1YXYleLFyTRQMMitfL2mdL"
+    },
+    {
+      "added_at": "2022-07-22 09:31:48",
+      "album": {
         "name": "Party Forever",
         "url": "https://open.spotify.com/album/3kC4LhI9UMzNAkch7aBQ9h"
       },
@@ -231,6 +247,22 @@
       "duration_ms": 202083,
       "name": "Party Forever",
       "url": "https://open.spotify.com/track/0kGnxJUOZgCemWBfpgVe6H"
+    },
+    {
+      "added_at": "2022-07-22 09:31:48",
+      "album": {
+        "name": "Epik High Is Here \u4e0b (Part 2)",
+        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "duration_ms": 246400,
+      "name": "Champagne",
+      "url": "https://open.spotify.com/track/7mxRhBvxm7zjMzSsO24kIq"
     },
     {
       "added_at": "2022-07-22 09:31:48",
@@ -259,34 +291,18 @@
     {
       "added_at": "2022-07-22 09:31:48",
       "album": {
-        "name": "u n u, Pt. 1",
-        "url": "https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq"
+        "name": "MOON AND BACK",
+        "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
       },
       "artists": [
         {
-          "name": "nafla",
-          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
+          "name": "BLOO",
+          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
         }
       ],
-      "duration_ms": 185013,
-      "name": "merlot",
-      "url": "https://open.spotify.com/track/1YXYleLFyTRQMMitfL2mdL"
-    },
-    {
-      "added_at": "2022-07-22 09:31:48",
-      "album": {
-        "name": "Epik High Is Here \u4e0b (Part 2)",
-        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
-      },
-      "artists": [
-        {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        }
-      ],
-      "duration_ms": 246400,
-      "name": "Champagne",
-      "url": "https://open.spotify.com/track/7mxRhBvxm7zjMzSsO24kIq"
+      "duration_ms": 240094,
+      "name": "Girl in New York (jazz)",
+      "url": "https://open.spotify.com/track/19IE0jlhDD1xpF4XWBTGN9"
     },
     {
       "added_at": "2022-07-22 09:31:48",
@@ -311,18 +327,18 @@
     {
       "added_at": "2022-07-22 09:31:48",
       "album": {
-        "name": "MOON AND BACK",
-        "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
+        "name": "u n u, Pt. 1",
+        "url": "https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq"
       },
       "artists": [
         {
-          "name": "BLOO",
-          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
+          "name": "nafla",
+          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
         }
       ],
-      "duration_ms": 240094,
-      "name": "Girl in New York (jazz)",
-      "url": "https://open.spotify.com/track/19IE0jlhDD1xpF4XWBTGN9"
+      "duration_ms": 200186,
+      "name": "gucci girl",
+      "url": "https://open.spotify.com/track/5CDTCUl3TD36C5Ezhdfr3C"
     },
     {
       "added_at": "2022-07-22 09:31:48",
@@ -339,22 +355,6 @@
       "duration_ms": 159386,
       "name": "Black & White Film (Prod. BOYCOLD)",
       "url": "https://open.spotify.com/track/0V9VGJZxsJYodarhAolMy9"
-    },
-    {
-      "added_at": "2022-07-22 09:31:48",
-      "album": {
-        "name": "RANDOM BOX",
-        "url": "https://open.spotify.com/album/51ea2XXI3WLPs5Vs0ou5a8"
-      },
-      "artists": [
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        }
-      ],
-      "duration_ms": 230173,
-      "name": "Roommate",
-      "url": "https://open.spotify.com/track/70EzzdKkfORRFG1P5A2A0D"
     },
     {
       "added_at": "2022-07-22 09:31:48",
@@ -383,38 +383,18 @@
     {
       "added_at": "2022-07-22 09:31:48",
       "album": {
-        "name": "u n u, Pt. 1",
-        "url": "https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq"
+        "name": "RANDOM BOX",
+        "url": "https://open.spotify.com/album/51ea2XXI3WLPs5Vs0ou5a8"
       },
       "artists": [
         {
-          "name": "nafla",
-          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
         }
       ],
-      "duration_ms": 200186,
-      "name": "gucci girl",
-      "url": "https://open.spotify.com/track/5CDTCUl3TD36C5Ezhdfr3C"
-    },
-    {
-      "added_at": "2022-07-22 09:31:48",
-      "album": {
-        "name": "PAID IN SEOUL",
-        "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
-      },
-      "artists": [
-        {
-          "name": "Don Malik",
-          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
-        },
-        {
-          "name": "DeVita",
-          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
-        }
-      ],
-      "duration_ms": 182013,
-      "name": "Chingchingching (Feat. DeVita)",
-      "url": "https://open.spotify.com/track/6jKbZh8WfA2dgkdZ6lPaI8"
+      "duration_ms": 230173,
+      "name": "Roommate",
+      "url": "https://open.spotify.com/track/70EzzdKkfORRFG1P5A2A0D"
     },
     {
       "added_at": "2022-07-22 09:31:48",
@@ -435,30 +415,6 @@
       "duration_ms": 274493,
       "name": "Stay Cool",
       "url": "https://open.spotify.com/track/2PTI0f4zBER1Rp87QnfrdS"
-    },
-    {
-      "added_at": "2022-07-22 09:31:48",
-      "album": {
-        "name": "Show Me The Money 9 Final",
-        "url": "https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq"
-      },
-      "artists": [
-        {
-          "name": "Layone",
-          "url": "https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ"
-        },
-        {
-          "name": "sogumm",
-          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
-        },
-        {
-          "name": "Woo",
-          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
-        }
-      ],
-      "duration_ms": 240520,
-      "name": "Daydreamin (Feat. sogumm & Woo) (Prod. Yosi & CODE KUNST)",
-      "url": "https://open.spotify.com/track/28xScSqQQDOHQKo4khhxcn"
     },
     {
       "added_at": "2022-07-22 09:31:48",
@@ -499,6 +455,50 @@
     {
       "added_at": "2022-07-22 09:31:48",
       "album": {
+        "name": "Show Me The Money 9 Final",
+        "url": "https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq"
+      },
+      "artists": [
+        {
+          "name": "Layone",
+          "url": "https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ"
+        },
+        {
+          "name": "sogumm",
+          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
+        },
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        }
+      ],
+      "duration_ms": 240520,
+      "name": "Daydreamin (Feat. sogumm & Woo) (Prod. Yosi & CODE KUNST)",
+      "url": "https://open.spotify.com/track/28xScSqQQDOHQKo4khhxcn"
+    },
+    {
+      "added_at": "2022-07-22 09:31:48",
+      "album": {
+        "name": "PAID IN SEOUL",
+        "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
+      },
+      "artists": [
+        {
+          "name": "Don Malik",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+        },
+        {
+          "name": "DeVita",
+          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
+        }
+      ],
+      "duration_ms": 182013,
+      "name": "Chingchingching (Feat. DeVita)",
+      "url": "https://open.spotify.com/track/6jKbZh8WfA2dgkdZ6lPaI8"
+    },
+    {
+      "added_at": "2022-07-22 09:31:48",
+      "album": {
         "name": "ROOM SERVICE",
         "url": "https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0"
       },
@@ -523,6 +523,22 @@
     {
       "added_at": "2022-07-22 09:31:48",
       "album": {
+        "name": "BLOO IN WONDERLAND 2",
+        "url": "https://open.spotify.com/album/5V3hJUzlxSMjbKUniQSf5J"
+      },
+      "artists": [
+        {
+          "name": "BLOO",
+          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
+        }
+      ],
+      "duration_ms": 306520,
+      "name": "Bloo Story",
+      "url": "https://open.spotify.com/track/2TkLBWRw5W05Sf1VdgJvTr"
+    },
+    {
+      "added_at": "2022-07-22 09:31:48",
+      "album": {
         "name": "Black & White Film",
         "url": "https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 175160,
       "name": "i (Feat. Jung Yup) (Prod. BOYCOLD)",
       "url": "https://open.spotify.com/track/6lANlfKORDVvUtn7TAODY3"
-    },
-    {
-      "added_at": "2022-07-22 09:31:48",
-      "album": {
-        "name": "BLOO IN WONDERLAND 2",
-        "url": "https://open.spotify.com/album/5V3hJUzlxSMjbKUniQSf5J"
-      },
-      "artists": [
-        {
-          "name": "BLOO",
-          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
-        }
-      ],
-      "duration_ms": 306520,
-      "name": "Bloo Story",
-      "url": "https://open.spotify.com/track/2TkLBWRw5W05Sf1VdgJvTr"
     },
     {
       "added_at": "2022-07-22 09:31:48",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-07-22 09:31:48",
       "album": {
-        "name": "In The Morning",
-        "url": "https://open.spotify.com/album/6EiWZ23G5KGSwPYO5kMztu"
-      },
-      "artists": [
-        {
-          "name": "YANGHONGWON",
-          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
-        }
-      ],
-      "duration_ms": 195083,
-      "name": "In The Morning (Feat. Bryn)",
-      "url": "https://open.spotify.com/track/3LqM4Ly49qhBej4C6AoiYo"
-    },
-    {
-      "added_at": "2022-07-22 09:31:48",
-      "album": {
         "name": "SS",
         "url": "https://open.spotify.com/album/009trYzXkJyK7YSoXpHOyR"
       },
@@ -675,18 +659,18 @@
     {
       "added_at": "2022-07-22 09:31:48",
       "album": {
-        "name": "My Original Sound Track",
-        "url": "https://open.spotify.com/album/4M7LxD3dkMj4O6NCddBQKm"
+        "name": "In The Morning",
+        "url": "https://open.spotify.com/album/6EiWZ23G5KGSwPYO5kMztu"
       },
       "artists": [
         {
-          "name": "Jung Jin Woo",
-          "url": "https://open.spotify.com/artist/5uVgoepJHC3fbOohI5gXc4"
+          "name": "YANGHONGWON",
+          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
         }
       ],
-      "duration_ms": 191480,
-      "name": "SOAP",
-      "url": "https://open.spotify.com/track/1mI5Nfw6iStTmKyhnJVi6k"
+      "duration_ms": 195083,
+      "name": "In The Morning (Feat. Bryn)",
+      "url": "https://open.spotify.com/track/3LqM4Ly49qhBej4C6AoiYo"
     },
     {
       "added_at": "2022-07-22 09:31:48",
@@ -711,6 +695,42 @@
       "duration_ms": 233376,
       "name": "Mannequin (Feat. Beenzino & SURAN)",
       "url": "https://open.spotify.com/track/6HTMdjQSnAebsMYEKM1vy2"
+    },
+    {
+      "added_at": "2022-07-22 09:31:48",
+      "album": {
+        "name": "My Original Sound Track",
+        "url": "https://open.spotify.com/album/4M7LxD3dkMj4O6NCddBQKm"
+      },
+      "artists": [
+        {
+          "name": "Jung Jin Woo",
+          "url": "https://open.spotify.com/artist/5uVgoepJHC3fbOohI5gXc4"
+        }
+      ],
+      "duration_ms": 191480,
+      "name": "SOAP",
+      "url": "https://open.spotify.com/track/1mI5Nfw6iStTmKyhnJVi6k"
+    },
+    {
+      "added_at": "2022-07-22 09:31:48",
+      "album": {
+        "name": "INSTANT (feat. SUMIN)",
+        "url": "https://open.spotify.com/album/6L6muVWjU1eq1StwzmNkV0"
+      },
+      "artists": [
+        {
+          "name": "Park Kyung",
+          "url": "https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j"
+        },
+        {
+          "name": "SUMIN",
+          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+        }
+      ],
+      "duration_ms": 178860,
+      "name": "INSTANT (feat. SUMIN)",
+      "url": "https://open.spotify.com/track/3EhrOTY5Xlb0OOc8miuZGN"
     },
     {
       "added_at": "2022-07-22 09:31:48",
@@ -751,26 +771,6 @@
     {
       "added_at": "2022-07-22 09:31:48",
       "album": {
-        "name": "INSTANT (feat. SUMIN)",
-        "url": "https://open.spotify.com/album/6L6muVWjU1eq1StwzmNkV0"
-      },
-      "artists": [
-        {
-          "name": "Park Kyung",
-          "url": "https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j"
-        },
-        {
-          "name": "SUMIN",
-          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
-        }
-      ],
-      "duration_ms": 178860,
-      "name": "INSTANT (feat. SUMIN)",
-      "url": "https://open.spotify.com/track/3EhrOTY5Xlb0OOc8miuZGN"
-    },
-    {
-      "added_at": "2022-07-22 09:31:48",
-      "album": {
         "name": "GOOD GIRL Episode 3",
         "url": "https://open.spotify.com/album/2iY5eEAH23aCB9JGCNZO5k"
       },
@@ -791,30 +791,6 @@
       "duration_ms": 220429,
       "name": "Money Serenade (Feat. Wonstein & Kim Seung Min)",
       "url": "https://open.spotify.com/track/1rZAKzPkA1VfkakGSszBg7"
-    },
-    {
-      "added_at": "2022-07-22 09:31:48",
-      "album": {
-        "name": "CHAPTER 1",
-        "url": "https://open.spotify.com/album/1fCeGGR50gRbs1k0saKDJU"
-      },
-      "artists": [
-        {
-          "name": "Iamdl",
-          "url": "https://open.spotify.com/artist/4vPZ9bJ0Jgu44Nbtm7iJUL"
-        },
-        {
-          "name": "Don Malik",
-          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
-        },
-        {
-          "name": "Hannah",
-          "url": "https://open.spotify.com/artist/69kcnEE47Kd8pe8thqWik9"
-        }
-      ],
-      "duration_ms": 203624,
-      "name": "Hair Style (feat. DON MALIK & Hannah)",
-      "url": "https://open.spotify.com/track/5Wwr9KJMb6QrF8CxeFp1RH"
     },
     {
       "added_at": "2022-07-22 09:31:48",
@@ -867,6 +843,30 @@
       "duration_ms": 210432,
       "name": "I Know",
       "url": "https://open.spotify.com/track/1jDHmJvfcfjbOMXRFR98zf"
+    },
+    {
+      "added_at": "2022-07-22 09:31:48",
+      "album": {
+        "name": "CHAPTER 1",
+        "url": "https://open.spotify.com/album/1fCeGGR50gRbs1k0saKDJU"
+      },
+      "artists": [
+        {
+          "name": "Iamdl",
+          "url": "https://open.spotify.com/artist/4vPZ9bJ0Jgu44Nbtm7iJUL"
+        },
+        {
+          "name": "Don Malik",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+        },
+        {
+          "name": "Hannah",
+          "url": "https://open.spotify.com/artist/69kcnEE47Kd8pe8thqWik9"
+        }
+      ],
+      "duration_ms": 203624,
+      "name": "Hair Style (feat. DON MALIK & Hannah)",
+      "url": "https://open.spotify.com/track/5Wwr9KJMb6QrF8CxeFp1RH"
     },
     {
       "added_at": "2022-07-22 09:31:48",

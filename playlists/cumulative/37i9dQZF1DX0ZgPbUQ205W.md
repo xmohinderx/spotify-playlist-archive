@@ -4,7 +4,7 @@
 
 > Calm and relaxing sounds of  jazz to help you unwind.
 
-180 songs - 14 hr 8 min - [published](https://open.spotify.com/playlist/4VFlkwzjI7ScFjbEAfcPrl)
+181 songs - 14 hr 15 min - [published](https://open.spotify.com/playlist/4VFlkwzjI7ScFjbEAfcPrl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Origin Of Species](https://open.spotify.com/track/1HywDfnuO3zXm7vNcCKxvX) | [Andy Sheppard Quartet](https://open.spotify.com/artist/57LkmRYAzvaq7lt1JI6oZb) | [Surrounded By Sea](https://open.spotify.com/album/6ARvpI1C3D2kyjPQUmiahD) | 5:06 | 2022-06-01 |  |
 | [Osmosis Part I](https://open.spotify.com/track/3LVDBYPP9jFUg2daGEZ3ZB) | [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX), [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5), [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf) | [I Have The Room Above Her](https://open.spotify.com/album/3b1HL44VlL1tniGvg6yDF3) | 3:28 | 2021-12-17 |  |
 | [Paa Hinside Ørken](https://open.spotify.com/track/2vM22BUosPBjTT1jAIpmA5) | [Ingebrigt Håker Flaten & Håkon Kornstad](https://open.spotify.com/artist/3dcXHjTOXqdvMG8TxapKUF) | [Elise](https://open.spotify.com/album/4kCZMjIuzw9VNaVPgirs5d) | 6:02 | 2021-12-17 |  |
+| [Peace Piece](https://open.spotify.com/track/3gi5sApfm4Wt6kVp7IWwsy) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Sean Shibe](https://open.spotify.com/artist/4EFuBkf11kth7fbFXIpre5) | [Lost & Found](https://open.spotify.com/album/2IwRPoM4pqAfv10x8YDiSt) | 6:42 | 2022-08-25 |  |
 | [Peace Piece](https://open.spotify.com/track/1yBXop1hdCvKFOOwZ8OlTB) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Peace Piece](https://open.spotify.com/album/2Jhm63LMXSxnD8EC7C5cos) | 4:13 | 2021-12-17 | 2022-06-01 |
 | [Petrus](https://open.spotify.com/track/56muRlT0rsMD0Mx18LFELG) | [Håkon Kornstad](https://open.spotify.com/artist/6rvXcIk2e2Xv8sZ5bP6pm2) | [Out of the Loop](https://open.spotify.com/album/0pR6sQfNeIgdyP7dnV34HD) | 7:59 | 2022-05-25 |  |
 | [Pleasewakeupalittlefaster please \. \. .](https://open.spotify.com/track/6iH9vNAyxDKzvy8z4ukHxX) | [Carlos Niño & Friends](https://open.spotify.com/artist/5Vp9z1lRUNMLQCXbwrIbDK), [Carlos Niño](https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu), [Jamael Dean](https://open.spotify.com/artist/2eoVP5QgTopsYgTS7H1CKs) | [Pleasewakeupalittlefaster please \. \. .](https://open.spotify.com/album/4qfgrZoQPbtKSrzaSFNppu) | 3:49 | 2021-12-17 | 2022-05-04 |
@@ -134,7 +135,7 @@
 | [Silence](https://open.spotify.com/track/2rDTR9jFXOnAWJMZkJHq6J) | [Anders Hagberg](https://open.spotify.com/artist/4EHq5kOSsWr0OxdUYA2KoJ), [Johannes Lundberg](https://open.spotify.com/artist/4e1gyH3KCIRfVPQ9YVIyEG) | [Silence](https://open.spotify.com/album/4uEd21Od3uAgOb6by5TPPQ) | 4:41 | 2022-03-17 |  |
 | [Silenced Wings](https://open.spotify.com/track/6Jvz580uudC0WWdkJQAe8h) | [Volker Goetze](https://open.spotify.com/artist/4Po5wr0Ul3royQBHA8oZdm), [Nick Dunston](https://open.spotify.com/artist/3DN6nBMAIh7wmKkuP2KC05), [Oran Etkin](https://open.spotify.com/artist/1UbVxOOCTpW3AZkRlvvEcO), [Richie Barshay](https://open.spotify.com/artist/008APzwhx1PzECrQTNatRS) | [Secret Island](https://open.spotify.com/album/0fILKf7zaIvUdPf85OoFaA) | 3:23 | 2021-12-17 |  |
 | [Sisyphe](https://open.spotify.com/track/6piXN2gputJdiVAXp2f2UP) | [Colin Vallon](https://open.spotify.com/artist/6JxElGpNj4ntaonkrLkG8N), [Patrice Moret](https://open.spotify.com/artist/0MTZfu5gIOffmUnu7hmrg1), [Julian Sartorius](https://open.spotify.com/artist/6uZnp5qm39fcS98jofdiHz) | [Danse](https://open.spotify.com/album/1QiKDbidxztMpY00OtQbLs) | 4:26 | 2022-05-25 |  |
-| [Skulde Jeg Min Gud Ei Prise](https://open.spotify.com/track/1HXwAUJtPHyERRMGktllqi) | [Ingebrigt Håker Flaten & Håkon Kornstad](https://open.spotify.com/artist/3dcXHjTOXqdvMG8TxapKUF) | [Elise](https://open.spotify.com/album/4kCZMjIuzw9VNaVPgirs5d) | 3:33 | 2021-12-17 |  |
+| [Skulde Jeg Min Gud Ei Prise](https://open.spotify.com/track/1HXwAUJtPHyERRMGktllqi) | [Ingebrigt Håker Flaten & Håkon Kornstad](https://open.spotify.com/artist/3dcXHjTOXqdvMG8TxapKUF) | [Elise](https://open.spotify.com/album/4kCZMjIuzw9VNaVPgirs5d) | 3:33 | 2021-12-17 | 2022-08-30 |
 | [Slaraffenland](https://open.spotify.com/track/1SAwlxxaYYz84K8gsjsdmN) | [Jakob Dinesen](https://open.spotify.com/artist/0zXQ9vdekvX8v0BlR5DuU0) | [One Kiss Too Many](https://open.spotify.com/album/7pvKPFlyHRbFXfk60pXdRM) | 3:20 | 2021-12-17 |  |
 | [Sleep Safe and Warm](https://open.spotify.com/track/3hJRy5BPeQ9a0aL0UPLByG) | [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope), [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi) | [Summerwind](https://open.spotify.com/album/4O3nk9VY0eisrO7ElPQguX) | 4:25 | 2022-05-25 |  |
 | [Song Dust](https://open.spotify.com/track/6xyDGPD0MeceKsXQ0OcZ8y) | [Karl Strømme](https://open.spotify.com/artist/5jw4NHPslG7CRCah8PbK7F) | [Song Dust](https://open.spotify.com/album/3gjZxipq6EELnrScGPc750) | 5:33 | 2022-02-03 |  |

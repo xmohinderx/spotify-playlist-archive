@@ -400,6 +400,24 @@
     },
     {
       "album": {
+        "name": "Dilemma",
+        "url": "https://open.spotify.com/album/3Davr9dzq7S23vh9R7Fq2i"
+      },
+      "artists": [
+        {
+          "name": "Andrea Oliva",
+          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "Dilemma",
+      "url": "https://open.spotify.com/track/3yGIQywO2T8BK6ANMTrjcs"
+    },
+    {
+      "album": {
         "name": "S\u00e9rial Noceur",
         "url": "https://open.spotify.com/album/580Qb2oZyp81gqru8v5jQH"
       },
@@ -1531,7 +1549,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-24",
+      "date_removed": null,
       "duration_ms": 307865,
       "name": "Roxy's Sweat - Original Mix",
       "url": "https://open.spotify.com/track/42UvjYG1NPOnu9JKwOhdzi"
@@ -1763,7 +1781,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 177780,
       "name": "Superfly",
       "url": "https://open.spotify.com/track/55g2IGNdPK7dnOkFtttmOB"
@@ -1919,7 +1937,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 195692,
       "name": "The Mascot",
       "url": "https://open.spotify.com/track/0buZKE91rR2IQlUVYv6KMo"

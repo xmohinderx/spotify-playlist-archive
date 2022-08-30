@@ -4,7 +4,7 @@
 
 > Håll det 100.
 
-532 songs - 23 hr 51 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
+533 songs - 23 hr 53 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [BENZEMA](https://open.spotify.com/track/4vBPe99GPe7xmU66muo0PM) | [Ivory](https://open.spotify.com/artist/3jmh6dena7pZQpjUnlKcrD), [Young Earth Sauce](https://open.spotify.com/artist/07uDVtXpkJl9IIqMRCwrOf) | [BENZEMA](https://open.spotify.com/album/7s5AG7Cuq4nKg1RmRkvCDh) | 2:15 | 2022-06-23 | 2022-07-08 |
 | [Better Day \(feat\. Jireel, Jelassi, Ricky Rich, Mona Masrour, A36\)](https://open.spotify.com/track/2OSc0qlU6hf6G08tvUcVgV) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt), [Jelassi](https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ), [Mona Masrour](https://open.spotify.com/artist/087cmrx63FD1wMFuYBN9gt) | [Better Day \(feat\. Jireel, Jelassi, Ricky Rich, Mona Masrour, A36\)](https://open.spotify.com/album/0VaDL5661g6QmDaOMbDUJJ) | 2:50 | 2021-12-16 | 2022-03-05 |
 | [Beyblade](https://open.spotify.com/track/0njgATLAgSORPAXNgqxHul) | [Romeo](https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D) | [Beyblade](https://open.spotify.com/album/0KGf9O3hCe5JbgUMCXh6Dv) | 2:12 | 2022-08-18 |  |
+| [Bienvenue](https://open.spotify.com/track/7MgNGyicnTFMmZSCy6eD2R) | [Karim Alger](https://open.spotify.com/artist/5fd1olImQGqWTqg1r0zqMW) | [Bienvenue](https://open.spotify.com/album/0uc15wvkhGpreMI6T9kO4z) | 2:30 | 2022-08-29 |  |
 | [BIRTHDAY](https://open.spotify.com/track/7brJxWOSabtVprDJgDLEID) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Masse](https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN) | [BIRTHDAY](https://open.spotify.com/album/5q0C9bAbbT2hWvZ49CGPYT) | 2:15 | 2022-01-20 | 2022-03-25 |
 | [Bla bla \- Intro](https://open.spotify.com/track/1RzLeCw0rSqGcH9QIYzYTg) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Selfmade](https://open.spotify.com/album/1pryp8bzTXFB0hiaKpiUYt) | 2:01 | 2022-06-23 | 2022-08-19 |
 | [BLACKOUT](https://open.spotify.com/track/6UbxtQGy5JyuOWvl04AWtW) | [T.O.](https://open.spotify.com/artist/0yl0pUgNYYtCwhaH4cBLu2) | [BLACKOUT](https://open.spotify.com/album/6ol7g7qmXd44N86GVpD20G) | 2:48 | 2022-05-12 | 2022-05-27 |

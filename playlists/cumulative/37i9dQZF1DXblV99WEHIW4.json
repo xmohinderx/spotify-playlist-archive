@@ -210,6 +210,24 @@
     },
     {
       "album": {
+        "name": "Bad At Love",
+        "url": "https://open.spotify.com/album/0nPFXbRDNvRH0297jTqgTh"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202253,
+      "name": "Bad At Love",
+      "url": "https://open.spotify.com/track/3MwjVy96d2KNl99nrFPxmh"
+    },
+    {
+      "album": {
         "name": "Be Alone",
         "url": "https://open.spotify.com/album/5SahpHDy9ILV71aslGyRVc"
       },
@@ -221,7 +239,7 @@
       ],
       "date_added": "2021-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 281080,
       "name": "Be Alone",
       "url": "https://open.spotify.com/track/59B6hcX22AYUIKifFwBbFp"

@@ -4,7 +4,7 @@
 
 > Les nouveautés francophones de la semaine\. Photo: Daniel Bélanger
 
-1,034 songs - 2 day 7 hr 30 min - [published](https://open.spotify.com/playlist/14BQdNO6xmXnKxtcZsp2FC)
+1,035 songs - 2 day 7 hr 33 min - [published](https://open.spotify.com/playlist/14BQdNO6xmXnKxtcZsp2FC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,7 +305,8 @@
 | [Fatiguées](https://open.spotify.com/track/7hOIIR20Djb2uHzAFi5jGJ) | [Roselle](https://open.spotify.com/artist/1ed5I5Y5G6Tn8CpI4LlKb3) | [Fatiguées](https://open.spotify.com/album/0eSZLG7NKcfARAFFnJFKRF) | 3:31 | 2022-05-06 | 2022-05-14 |
 | [Faux Soleil](https://open.spotify.com/track/0CM7NZiGAhkKKAFTOC53vD) | [Bozko](https://open.spotify.com/artist/55diYJnywqtU2R6FkjGGCS), [Taga](https://open.spotify.com/artist/3yb7X8fR1v1agIya64pWlr) | [Faux Soleil](https://open.spotify.com/album/2uHuenadoIMRD4Ss9b58aN) | 2:13 | 2022-05-27 | 2022-06-04 |
 | [Faya](https://open.spotify.com/track/4les0O6MtkBDgWlgrn3Q5j) | [J\-Ron](https://open.spotify.com/artist/2utc2XhGTLpg0RHMTtfQ9k) | [Faya](https://open.spotify.com/album/5GGK96cbzqshgbePSScGgs) | 3:05 | 2022-07-08 | 2022-07-30 |
-| [Feel Good \- Version Française](https://open.spotify.com/track/45tuTOKXtBO2FmvduuCIVX) | [Five Roses](https://open.spotify.com/artist/6MN4Gf274aRJNoPjj0GTok) | [Feel Good \(Version Française\)](https://open.spotify.com/album/6Y331C5BrOn4Lv1JuqvSrj) | 2:49 | 2022-08-12 |  |
+| [Feel Good \- Version Française](https://open.spotify.com/track/45tuTOKXtBO2FmvduuCIVX) | [Five Roses](https://open.spotify.com/artist/6MN4Gf274aRJNoPjj0GTok) | [Feel Good \(Version Française\)](https://open.spotify.com/album/6Y331C5BrOn4Lv1JuqvSrj) | 2:49 | 2022-08-12 | 2022-08-30 |
+| [Feel Good \- Version Française](https://open.spotify.com/track/740x2wsOM0avrDXBraTxDP) | [Five Roses](https://open.spotify.com/artist/6MN4Gf274aRJNoPjj0GTok) | [Jukebox Vibrations](https://open.spotify.com/album/2ZNOL1KznYYIwPEq4DIykD) | 2:49 | 2022-08-26 |  |
 | [Femme\-Lady](https://open.spotify.com/track/2oEL7zcZ6W2auzcj0BGwsp) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Femme\-Lady](https://open.spotify.com/album/4CHbXHghoxgeaav8crDiEc) | 3:33 | 2022-04-22 | 2022-05-07 |
 | [Feu](https://open.spotify.com/track/5Od9GgFwJUgowAfsyMcOgA) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Feu](https://open.spotify.com/album/2fGR2DEe5Ms1GwsXV0YZpg) | 2:53 | 2022-03-11 | 2022-03-26 |
 | [Feu intérieur](https://open.spotify.com/track/1r3C1vCD4e0S4SA29V4auY) | [Hey Major](https://open.spotify.com/artist/1J7P80ENkmZgSWEm7diAhV) | [Feu intérieur](https://open.spotify.com/album/5yHCrq24mQpZEfaYFcRfIU) | 3:33 | 2022-05-27 | 2022-06-04 |

@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Sasha Alex Sloan",
-  "num_followers": 72463,
+  "num_followers": 72511,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjQ2MCwwMDAwMDAwMGZjZDAzZmU0MWU1OTQ4ZDA2YWJmYTJkYzMzZTc3YWNh",
+  "snapshot_id": "MTY2MTQ4NjQ2MCwwMDAwMDAwMDMwNDdkYWY2MzMwNGZlMzdjNDRkYmU1YTM5NWMwOGVl",
   "tracks": [
     {
       "added_at": "2022-08-26 04:01:00",
@@ -283,6 +283,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Imagine Dragons (Spotify Sessions)",
+        "url": "https://open.spotify.com/album/0XMkrjoxpwaGgb6MYgv2gA"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 303433,
+      "name": "Blank Space/Stand By Me - Live From Spotify London",
+      "url": "https://open.spotify.com/track/3Dbgo1HE3DErIBNDIO4Hyd"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "Everywhere (BBC Children In Need)",
         "url": "https://open.spotify.com/album/6oR3FdaFqFAUJtQBQ0Lm3I"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 151116,
       "name": "My All",
       "url": "https://open.spotify.com/track/35CoDqsVF0P2w8Lgir7wrs"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Imagine Dragons (Spotify Sessions)",
-        "url": "https://open.spotify.com/album/0XMkrjoxpwaGgb6MYgv2gA"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 303433,
-      "name": "Blank Space/Stand By Me - Live From Spotify London",
-      "url": "https://open.spotify.com/track/3Dbgo1HE3DErIBNDIO4Hyd"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 184548,
-      "name": "ocean eyes - Recorded Live at Jungle City Studios",
-      "url": "https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "glimpse of us",
         "url": "https://open.spotify.com/album/3O5iR8V0ZK340xpIIcUCVQ"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 222000,
       "name": "glimpse of us",
       "url": "https://open.spotify.com/track/2ssJdfI0u93JYpIrxDmxE6"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 184548,
+      "name": "ocean eyes - Recorded Live at Jungle City Studios",
+      "url": "https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0zIDCWV5CF01beePYqSPub"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 224147,
-      "name": "Heartless - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/6S4vdF9ENvX8WN8PvJ6soA"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "When I'm Alone: The Piano Retrospective",
         "url": "https://open.spotify.com/album/1PUJhxsAbBe5UhYjxNbrYA"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 274992,
       "name": "Dreams - Piano Version",
       "url": "https://open.spotify.com/track/7lcUx8bgiwGEn0BHNo3O31"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0zIDCWV5CF01beePYqSPub"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 224147,
+      "name": "Heartless - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/6S4vdF9ENvX8WN8PvJ6soA"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -763,18 +763,18 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6KjX30XbUmMpQoek2DEHie"
+        "name": "Wouldn't It Be Nice",
+        "url": "https://open.spotify.com/album/0K1UyE6v9I3AnwN7trOWVW"
       },
       "artists": [
         {
-          "name": "Anderson East",
-          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+          "name": "Kate McGill",
+          "url": "https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d"
         }
       ],
-      "duration_ms": 254834,
-      "name": "Always Be My Baby - Recorded at Sound Stage Nashville",
-      "url": "https://open.spotify.com/track/3QSnkhUvoPS5QogonimPfk"
+      "duration_ms": 152181,
+      "name": "Wouldn't It Be Nice",
+      "url": "https://open.spotify.com/track/7GTpcLYxaSs1dg4NXZpscp"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -796,17 +796,17 @@
       "added_at": "2022-08-26 04:01:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0AccJ5bsbh5fiF4uPaQuyE"
+        "url": "https://open.spotify.com/album/6KjX30XbUmMpQoek2DEHie"
       },
       "artists": [
         {
-          "name": "James Barker Band",
-          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
         }
       ],
-      "duration_ms": 268840,
-      "name": "Never Be The Same - Recorded At Revolution Studios, Toronto",
-      "url": "https://open.spotify.com/track/4AL1lFrYg2RgSIGVjKOo2E"
+      "duration_ms": 254834,
+      "name": "Always Be My Baby - Recorded at Sound Stage Nashville",
+      "url": "https://open.spotify.com/track/3QSnkhUvoPS5QogonimPfk"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -827,18 +827,18 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Wouldn't It Be Nice",
-        "url": "https://open.spotify.com/album/0K1UyE6v9I3AnwN7trOWVW"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0AccJ5bsbh5fiF4uPaQuyE"
       },
       "artists": [
         {
-          "name": "Kate McGill",
-          "url": "https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d"
+          "name": "James Barker Band",
+          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
         }
       ],
-      "duration_ms": 152181,
-      "name": "Wouldn't It Be Nice",
-      "url": "https://open.spotify.com/track/7GTpcLYxaSs1dg4NXZpscp"
+      "duration_ms": 268840,
+      "name": "Never Be The Same - Recorded At Revolution Studios, Toronto",
+      "url": "https://open.spotify.com/track/4AL1lFrYg2RgSIGVjKOo2E"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Mirrors (Acoustic)",
-        "url": "https://open.spotify.com/album/0m5G4XqzE3BjpbtiLO4aUC"
-      },
-      "artists": [
-        {
-          "name": "Jonah Baker",
-          "url": "https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm"
-        }
-      ],
-      "duration_ms": 224170,
-      "name": "Mirrors - Acoustic",
-      "url": "https://open.spotify.com/track/4AYITlwiumljGdv0NIGR4T"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Head & Heart",
         "url": "https://open.spotify.com/album/5hfPG3jbnlrl5mu8KU7ZuG"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 167320,
       "name": "Head & Heart",
       "url": "https://open.spotify.com/track/27myNEFJ7BAeUStyFTHvuB"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Mirrors (Acoustic)",
+        "url": "https://open.spotify.com/album/0m5G4XqzE3BjpbtiLO4aUC"
+      },
+      "artists": [
+        {
+          "name": "Jonah Baker",
+          "url": "https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm"
+        }
+      ],
+      "duration_ms": 224170,
+      "name": "Mirrors - Acoustic",
+      "url": "https://open.spotify.com/track/4AYITlwiumljGdv0NIGR4T"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Fix You",
-        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 141160,
-      "name": "Fix You",
-      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 177261,
       "name": "Watermelon Sugar (featuring Avenue Beat)",
       "url": "https://open.spotify.com/track/6pPD1k342KK4fMU6xPHufi"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Fix You",
+        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 141160,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 274830,
-      "name": "everything i wanted",
-      "url": "https://open.spotify.com/track/3kHPYnFzwQCPF7RaJs8Ezv"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0IHfimWKQ6PMXKEekqHp36"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 221361,
       "name": "Let Me Love You - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1Ue0oCRGIs4ARyg3ucMmRJ"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 274830,
+      "name": "everything i wanted",
+      "url": "https://open.spotify.com/track/3kHPYnFzwQCPF7RaJs8Ezv"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Elliot's Song",
-        "url": "https://open.spotify.com/album/3rCeLP9YZJ8UXvbrS3EMyy"
-      },
-      "artists": [
-        {
-          "name": "Kina Grannis",
-          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
-        }
-      ],
-      "duration_ms": 153124,
-      "name": "Elliot's Song",
-      "url": "https://open.spotify.com/track/0ZpMlIPfnFzVn3qVNeMMev"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "A Thousand Miles",
         "url": "https://open.spotify.com/album/6AzueJX2gqemZr8bPpQaqs"
       },
@@ -1491,6 +1475,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Elliot's Song",
+        "url": "https://open.spotify.com/album/3rCeLP9YZJ8UXvbrS3EMyy"
+      },
+      "artists": [
+        {
+          "name": "Kina Grannis",
+          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+        }
+      ],
+      "duration_ms": 153124,
+      "name": "Elliot's Song",
+      "url": "https://open.spotify.com/track/0ZpMlIPfnFzVn3qVNeMMev"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "When You Love Someone",
         "url": "https://open.spotify.com/album/2zC9v0aYykenekxCJD9DRd"
       },
@@ -1503,6 +1503,22 @@
       "duration_ms": 225186,
       "name": "When You Love Someone",
       "url": "https://open.spotify.com/track/7bxcHHBpto3NgHAMeGCKFH"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M"
+      },
+      "artists": [
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        }
+      ],
+      "duration_ms": 167907,
+      "name": "bad guy - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/66wi6NRfwsula1n68bJEod"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1535,22 +1551,6 @@
       "duration_ms": 230306,
       "name": "Better Now - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4rf444Z5dWQd6Jg5okkpZl"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M"
-      },
-      "artists": [
-        {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
-        }
-      ],
-      "duration_ms": 167907,
-      "name": "bad guy - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/66wi6NRfwsula1n68bJEod"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1695,22 +1695,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Wedding Songs",
-        "url": "https://open.spotify.com/album/3e2GfHTpoxEbCUdCj5TRzl"
+        "name": "I'm With You",
+        "url": "https://open.spotify.com/album/3Omupu2Y8hvpJk9cinOi4a"
       },
       "artists": [
         {
-          "name": "Tommee Profitt",
-          "url": "https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU"
+          "name": "Alex Goot",
+          "url": "https://open.spotify.com/artist/66Fb5gJ9SX2WGlqDLUpjux"
         },
         {
-          "name": "Fleurie",
-          "url": "https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4"
+          "name": "Madilyn Bailey",
+          "url": "https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU"
         }
       ],
-      "duration_ms": 231308,
-      "name": "Anyone",
-      "url": "https://open.spotify.com/track/2vK25Z3YBFJ44agZlDz9GG"
+      "duration_ms": 173334,
+      "name": "I'm With You",
+      "url": "https://open.spotify.com/track/3zLsU8qJbhTnd2QUu7pLtJ"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1747,22 +1747,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "I'm With You",
-        "url": "https://open.spotify.com/album/3Omupu2Y8hvpJk9cinOi4a"
+        "name": "Wedding Songs",
+        "url": "https://open.spotify.com/album/3e2GfHTpoxEbCUdCj5TRzl"
       },
       "artists": [
         {
-          "name": "Alex Goot",
-          "url": "https://open.spotify.com/artist/66Fb5gJ9SX2WGlqDLUpjux"
+          "name": "Tommee Profitt",
+          "url": "https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU"
         },
         {
-          "name": "Madilyn Bailey",
-          "url": "https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU"
+          "name": "Fleurie",
+          "url": "https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4"
         }
       ],
-      "duration_ms": 173334,
-      "name": "I'm With You",
-      "url": "https://open.spotify.com/track/3zLsU8qJbhTnd2QUu7pLtJ"
+      "duration_ms": 231308,
+      "name": "Anyone",
+      "url": "https://open.spotify.com/track/2vK25Z3YBFJ44agZlDz9GG"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1819,18 +1819,18 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "No Letting Go",
-        "url": "https://open.spotify.com/album/6seIAuNr6A0YfzFsd0S2i7"
+        "name": "Praise You",
+        "url": "https://open.spotify.com/album/65CxUyETl0Q4A2u6dZtbiA"
       },
       "artists": [
         {
-          "name": "Dan Caplen",
-          "url": "https://open.spotify.com/artist/2U3FuHYvL3vhkbDAXm24Ep"
+          "name": "Hannah Grace",
+          "url": "https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB"
         }
       ],
-      "duration_ms": 200000,
-      "name": "No Letting Go - Acoustic",
-      "url": "https://open.spotify.com/track/2WxfUIhD2c7oUM2XHFQrpO"
+      "duration_ms": 169050,
+      "name": "Praise You",
+      "url": "https://open.spotify.com/track/56dOfIe8TCrSvPBnQduue9"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Praise You",
-        "url": "https://open.spotify.com/album/65CxUyETl0Q4A2u6dZtbiA"
-      },
-      "artists": [
-        {
-          "name": "Hannah Grace",
-          "url": "https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB"
-        }
-      ],
-      "duration_ms": 169050,
-      "name": "Praise You",
-      "url": "https://open.spotify.com/track/56dOfIe8TCrSvPBnQduue9"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Crush",
         "url": "https://open.spotify.com/album/6V820o63cpdpS7Jz9jXhhJ"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 242915,
       "name": "Crush",
       "url": "https://open.spotify.com/track/10zQ66l1AwcLtanGsv3Fav"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "No Letting Go",
+        "url": "https://open.spotify.com/album/6seIAuNr6A0YfzFsd0S2i7"
+      },
+      "artists": [
+        {
+          "name": "Dan Caplen",
+          "url": "https://open.spotify.com/artist/2U3FuHYvL3vhkbDAXm24Ep"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "No Letting Go - Acoustic",
+      "url": "https://open.spotify.com/track/2WxfUIhD2c7oUM2XHFQrpO"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1975,18 +1975,18 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Nothing Breaks Like A Heart",
-        "url": "https://open.spotify.com/album/26KH76C2A8lS48PEQ3JZHD"
+        "name": "the quarantine covers",
+        "url": "https://open.spotify.com/album/1UqChrYC7NGNDmf9nJx9xO"
       },
       "artists": [
         {
-          "name": "Sea Girls",
-          "url": "https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe"
+          "name": "Avenue Beat",
+          "url": "https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc"
         }
       ],
-      "duration_ms": 221400,
-      "name": "Nothing Breaks Like A Heart",
-      "url": "https://open.spotify.com/track/2ERicIur5ytRZhi554bMsr"
+      "duration_ms": 122074,
+      "name": "just the two of us",
+      "url": "https://open.spotify.com/track/505CNjW6Y9GwvW5sVgvdK9"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -2007,34 +2007,18 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "the quarantine covers",
-        "url": "https://open.spotify.com/album/1UqChrYC7NGNDmf9nJx9xO"
+        "name": "Dance In The Dark (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1ibvZu6jF8lo8BhLslS0SX"
       },
       "artists": [
         {
-          "name": "Avenue Beat",
-          "url": "https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc"
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 122074,
-      "name": "just the two of us",
-      "url": "https://open.spotify.com/track/505CNjW6Y9GwvW5sVgvdK9"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Montero (Call Me By Your Name)",
-        "url": "https://open.spotify.com/album/3dapk74ATaYIUGIYLZBnmG"
-      },
-      "artists": [
-        {
-          "name": "Years & Years",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        }
-      ],
-      "duration_ms": 141880,
-      "name": "Montero (Call Me By Your Name)",
-      "url": "https://open.spotify.com/track/6IhNb9Vd62Iov8Kmbf6EGL"
+      "duration_ms": 225366,
+      "name": "Dance In The Dark - Spotify Singles",
+      "url": "https://open.spotify.com/track/19aAGYe7PlYf6yfUrDGykW"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -2071,34 +2055,18 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Dance In The Dark (Spotify Singles)",
-        "url": "https://open.spotify.com/album/1ibvZu6jF8lo8BhLslS0SX"
+        "name": "Nothing Breaks Like A Heart",
+        "url": "https://open.spotify.com/album/26KH76C2A8lS48PEQ3JZHD"
       },
       "artists": [
         {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+          "name": "Sea Girls",
+          "url": "https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe"
         }
       ],
-      "duration_ms": 225366,
-      "name": "Dance In The Dark - Spotify Singles",
-      "url": "https://open.spotify.com/track/19aAGYe7PlYf6yfUrDGykW"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Night Changes",
-        "url": "https://open.spotify.com/album/5lZeOHZErhsowOy6Lc0aVk"
-      },
-      "artists": [
-        {
-          "name": "Anna Vaus",
-          "url": "https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1"
-        }
-      ],
-      "duration_ms": 225721,
-      "name": "Night Changes",
-      "url": "https://open.spotify.com/track/4Vd7XveTskuB0bZXIfvITy"
+      "duration_ms": 221400,
+      "name": "Nothing Breaks Like A Heart",
+      "url": "https://open.spotify.com/track/2ERicIur5ytRZhi554bMsr"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -2119,6 +2087,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Night Changes",
+        "url": "https://open.spotify.com/album/5lZeOHZErhsowOy6Lc0aVk"
+      },
+      "artists": [
+        {
+          "name": "Anna Vaus",
+          "url": "https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1"
+        }
+      ],
+      "duration_ms": 225721,
+      "name": "Night Changes",
+      "url": "https://open.spotify.com/track/4Vd7XveTskuB0bZXIfvITy"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "Take On Me",
         "url": "https://open.spotify.com/album/15j2HxHLy1N90wLlCno4Uw"
       },
@@ -2135,18 +2119,18 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/4sZ5bTIQJec8eqKBMEPPEL"
+        "name": "Montero (Call Me By Your Name)",
+        "url": "https://open.spotify.com/album/3dapk74ATaYIUGIYLZBnmG"
       },
       "artists": [
         {
-          "name": "V\u00c9RIT\u00c9",
-          "url": "https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc"
+          "name": "Years & Years",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
         }
       ],
-      "duration_ms": 275954,
-      "name": "Teenage Dream",
-      "url": "https://open.spotify.com/track/01I5I4ykvMQwplZIkO4SxX"
+      "duration_ms": 141880,
+      "name": "Montero (Call Me By Your Name)",
+      "url": "https://open.spotify.com/track/6IhNb9Vd62Iov8Kmbf6EGL"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -2163,6 +2147,22 @@
       "duration_ms": 261977,
       "name": "Don't Speak - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/0gzMEfErGPaCFbQJdb2HQb"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/4sZ5bTIQJec8eqKBMEPPEL"
+      },
+      "artists": [
+        {
+          "name": "V\u00c9RIT\u00c9",
+          "url": "https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc"
+        }
+      ],
+      "duration_ms": 275954,
+      "name": "Teenage Dream",
+      "url": "https://open.spotify.com/track/01I5I4ykvMQwplZIkO4SxX"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -2199,6 +2199,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Into You",
+        "url": "https://open.spotify.com/album/4gzNs2NUQpmboWO7CTbHGM"
+      },
+      "artists": [
+        {
+          "name": "Nick Wilson",
+          "url": "https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF"
+        }
+      ],
+      "duration_ms": 286506,
+      "name": "Into You",
+      "url": "https://open.spotify.com/track/0mzTvUqyQuXJ3J9KuVNFah"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "Chiquitita",
         "url": "https://open.spotify.com/album/0nWjKAEvqrQGbk9U2MzeHo"
       },
@@ -2231,18 +2247,18 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Into You",
-        "url": "https://open.spotify.com/album/4gzNs2NUQpmboWO7CTbHGM"
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/2k3Xk2QZPruEfsTnLXL4tv"
       },
       "artists": [
         {
-          "name": "Nick Wilson",
-          "url": "https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF"
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
         }
       ],
-      "duration_ms": 286506,
-      "name": "Into You",
-      "url": "https://open.spotify.com/track/0mzTvUqyQuXJ3J9KuVNFah"
+      "duration_ms": 266280,
+      "name": "Hold On, We're Going Home",
+      "url": "https://open.spotify.com/track/4QS7XNVxVCEMdsrUPqogTb"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -2263,34 +2279,18 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/2k3Xk2QZPruEfsTnLXL4tv"
+        "name": "Covers by Cannons",
+        "url": "https://open.spotify.com/album/72TswqpNqHygmzS47oS4v4"
       },
       "artists": [
         {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
         }
       ],
-      "duration_ms": 266280,
-      "name": "Hold On, We're Going Home",
-      "url": "https://open.spotify.com/track/4QS7XNVxVCEMdsrUPqogTb"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "luckie",
-        "url": "https://open.spotify.com/album/1XkHOCaHI4fqbB3tQ5nroU"
-      },
-      "artists": [
-        {
-          "name": "tiLLie",
-          "url": "https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN"
-        }
-      ],
-      "duration_ms": 174264,
-      "name": "luckie",
-      "url": "https://open.spotify.com/track/6bgEBtFnH3qRY2Jprc8OSY"
+      "duration_ms": 176508,
+      "name": "Golden - Originally Performed By Harry Styles",
+      "url": "https://open.spotify.com/track/6OPbfOqtL7y51EwpDIiqMm"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Covers by Cannons",
-        "url": "https://open.spotify.com/album/72TswqpNqHygmzS47oS4v4"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 176508,
-      "name": "Golden - Originally Performed By Harry Styles",
-      "url": "https://open.spotify.com/track/6OPbfOqtL7y51EwpDIiqMm"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Spotify Singles (Recorded At Sound Stage Nashville)",
         "url": "https://open.spotify.com/album/43ee2aSwzoXLwLx9tRtDKB"
       },
@@ -2339,6 +2323,22 @@
       "duration_ms": 243562,
       "name": "I Feel It Coming (Recorded At Sound Stage Nashville)",
       "url": "https://open.spotify.com/track/68sTjNvESuo7mQ37CfCJJj"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "luckie",
+        "url": "https://open.spotify.com/album/1XkHOCaHI4fqbB3tQ5nroU"
+      },
+      "artists": [
+        {
+          "name": "tiLLie",
+          "url": "https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN"
+        }
+      ],
+      "duration_ms": 174264,
+      "name": "luckie",
+      "url": "https://open.spotify.com/track/6bgEBtFnH3qRY2Jprc8OSY"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -2503,6 +2503,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "I\u2019m With You",
+        "url": "https://open.spotify.com/album/0lsB68u7qrrQLhYej5JD07"
+      },
+      "artists": [
+        {
+          "name": "Moncrieff",
+          "url": "https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC"
+        }
+      ],
+      "duration_ms": 235493,
+      "name": "I\u2019m With You",
+      "url": "https://open.spotify.com/track/4UiBMxmXRip1Er6xILD5Im"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "Killing Me Softly",
         "url": "https://open.spotify.com/album/3dzUlxbwuGbnH0p1TOOTdZ"
       },
@@ -2639,22 +2655,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "I\u2019m With You",
-        "url": "https://open.spotify.com/album/0lsB68u7qrrQLhYej5JD07"
-      },
-      "artists": [
-        {
-          "name": "Moncrieff",
-          "url": "https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC"
-        }
-      ],
-      "duration_ms": 235493,
-      "name": "I\u2019m With You",
-      "url": "https://open.spotify.com/track/4UiBMxmXRip1Er6xILD5Im"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Heat Waves (Acoustic)",
         "url": "https://open.spotify.com/album/6OV0ZnJFjoYz7cbNWPy8qx"
       },
@@ -2667,6 +2667,22 @@
       "duration_ms": 141265,
       "name": "Heat Waves (Acoustic)",
       "url": "https://open.spotify.com/track/2wZnPyFXOFw1zXU4G7y9ab"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/1oTvZ0EYr09AJsdliPbMd4"
+      },
+      "artists": [
+        {
+          "name": "Jennel Garcia",
+          "url": "https://open.spotify.com/artist/1Ff1cuzx8IrADaKnclXscN"
+        }
+      ],
+      "duration_ms": 175844,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/2VFW7dt49JbOgzVBwZOCwC"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -2691,22 +2707,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/1oTvZ0EYr09AJsdliPbMd4"
-      },
-      "artists": [
-        {
-          "name": "Jennel Garcia",
-          "url": "https://open.spotify.com/artist/1Ff1cuzx8IrADaKnclXscN"
-        }
-      ],
-      "duration_ms": 175844,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/2VFW7dt49JbOgzVBwZOCwC"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Stuck With U",
         "url": "https://open.spotify.com/album/6CpwPzeIRCFEb4ki1u17Va"
       },
@@ -2727,22 +2727,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Yellow",
-        "url": "https://open.spotify.com/album/5TPgXIw23OhumnoXjl7o81"
-      },
-      "artists": [
-        {
-          "name": "Ward Thomas",
-          "url": "https://open.spotify.com/artist/0xBhUB0EfzvchYnaIWkdBw"
-        }
-      ],
-      "duration_ms": 179333,
-      "name": "Yellow",
-      "url": "https://open.spotify.com/track/2BGPjTcB5KQBEuAeTzNJhC"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "The One That Got Away (Acoustic)",
         "url": "https://open.spotify.com/album/7HktipfMyjwIXMRCy5mCd3"
       },
@@ -2755,6 +2739,22 @@
       "duration_ms": 217884,
       "name": "The One That Got Away - Acoustic",
       "url": "https://open.spotify.com/track/5v4Yr3jEypWwq139f92zoP"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/5TPgXIw23OhumnoXjl7o81"
+      },
+      "artists": [
+        {
+          "name": "Ward Thomas",
+          "url": "https://open.spotify.com/artist/0xBhUB0EfzvchYnaIWkdBw"
+        }
+      ],
+      "duration_ms": 179333,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/2BGPjTcB5KQBEuAeTzNJhC"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -2839,22 +2839,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "All The Things She Said",
-        "url": "https://open.spotify.com/album/5ESAbhn6KetEUOmf5VOkkh"
-      },
-      "artists": [
-        {
-          "name": "Rebecca & Fiona",
-          "url": "https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75"
-        }
-      ],
-      "duration_ms": 199874,
-      "name": "All The Things She Said",
-      "url": "https://open.spotify.com/track/4EWfxnUb6TPQlaUjFgxnym"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "If I Were A Boy",
         "url": "https://open.spotify.com/album/7C7uRn4p2HhauHrzjb486u"
       },
@@ -2867,6 +2851,22 @@
       "duration_ms": 244906,
       "name": "If I Were A Boy",
       "url": "https://open.spotify.com/track/13dtX3TNkdeo126Ccib6CA"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "All The Things She Said",
+        "url": "https://open.spotify.com/album/5ESAbhn6KetEUOmf5VOkkh"
+      },
+      "artists": [
+        {
+          "name": "Rebecca & Fiona",
+          "url": "https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75"
+        }
+      ],
+      "duration_ms": 199874,
+      "name": "All The Things She Said",
+      "url": "https://open.spotify.com/track/4EWfxnUb6TPQlaUjFgxnym"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -3003,22 +3003,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Cover Sessions, Vol. 2",
-        "url": "https://open.spotify.com/album/3gQrQ8BQNEtaUXbr7vx9ss"
-      },
-      "artists": [
-        {
-          "name": "Laura Zocca",
-          "url": "https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7"
-        }
-      ],
-      "duration_ms": 212027,
-      "name": "Wildest Dreams",
-      "url": "https://open.spotify.com/track/7AgpN0aQSjp1rjWafXn8Xu"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Holiday",
         "url": "https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx"
       },
@@ -3031,6 +3015,22 @@
       "duration_ms": 248449,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/5o95cqHWLtaHToZnSS8j5Q"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Cover Sessions, Vol. 2",
+        "url": "https://open.spotify.com/album/3gQrQ8BQNEtaUXbr7vx9ss"
+      },
+      "artists": [
+        {
+          "name": "Laura Zocca",
+          "url": "https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7"
+        }
+      ],
+      "duration_ms": 212027,
+      "name": "Wildest Dreams",
+      "url": "https://open.spotify.com/track/7AgpN0aQSjp1rjWafXn8Xu"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -3051,6 +3051,22 @@
       "duration_ms": 163440,
       "name": "Sweet Dreams (Are Made of This) [Epic Mix]",
       "url": "https://open.spotify.com/track/3IxGrrXUhehYdSHrEkhzRh"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Undercover Heartbreak EP",
+        "url": "https://open.spotify.com/album/6KJAw3Oq1GxFudELGregkh"
+      },
+      "artists": [
+        {
+          "name": "Saibh Skelly",
+          "url": "https://open.spotify.com/artist/5W6LDY0Fa5qK8fbDTe58Kq"
+        }
+      ],
+      "duration_ms": 250765,
+      "name": "I Hate U, I Love U",
+      "url": "https://open.spotify.com/track/3JPkmsyibgVTfk8z5QabEs"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -3083,22 +3099,6 @@
       "duration_ms": 183272,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/0VF4TY3HJBHRmaKSY1bxpF"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Undercover Heartbreak EP",
-        "url": "https://open.spotify.com/album/6KJAw3Oq1GxFudELGregkh"
-      },
-      "artists": [
-        {
-          "name": "Saibh Skelly",
-          "url": "https://open.spotify.com/artist/5W6LDY0Fa5qK8fbDTe58Kq"
-        }
-      ],
-      "duration_ms": 250765,
-      "name": "I Hate U, I Love U",
-      "url": "https://open.spotify.com/track/3JPkmsyibgVTfk8z5QabEs"
     },
     {
       "added_at": "2022-08-26 04:01:00",

@@ -4,7 +4,7 @@
 
 > Releases from the legendary label.
 
-116 songs - 14 hr 2 min - [published](https://open.spotify.com/playlist/7CpzziVbgEL0BZqAASnsUi)
+117 songs - 14 hr 8 min - [published](https://open.spotify.com/playlist/7CpzziVbgEL0BZqAASnsUi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Dancin](https://open.spotify.com/track/5U1FlG1YtpjFtM2AHp9u3d) | [DJ Sneak](https://open.spotify.com/artist/5He9yPmPv0Du9hASUlTUjr) | [Dancin' EP](https://open.spotify.com/album/2xa9613s8FJNJ9pt22wQOS) | 12:11 | 2022-03-03 |  |
 | [Deep Inside](https://open.spotify.com/track/22eUyC9vOG2aoP5yHX8VxV) | [Hardrive](https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1) | [Deep Inside \(2009 Mixes\)](https://open.spotify.com/album/573BQbP4hPr12C32Np5XDW) | 6:30 | 2022-03-03 | 2022-08-29 |
 | [Deep Inside](https://open.spotify.com/track/5u27DT78hXMPlIfprPHGH9) | [Hardrive](https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1) | [Strictly Tiefschwarz \(DJ Edition \- Unmixed\)](https://open.spotify.com/album/4ycWyBEFfltLZc0pvk7Kud) | 6:30 | 2022-03-03 | 2022-07-29 |
+| [Deep Inside](https://open.spotify.com/track/1EYYoG6P9cQdYXG6Nv5mXu) | [Hardrive](https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1) | [Strictly Hardrive](https://open.spotify.com/album/14x3SHtMUuobFMVnzRO1rt) | 6:32 | 2022-03-03 |  |
 | [Equinox \- Henrik Schwarz Remix](https://open.spotify.com/track/2igWooAsZ36Kc7UjnfXMbl) | [Code 718](https://open.spotify.com/artist/4kSrRAfjG8flVU9ITYpVkW), [Henrik Schwarz](https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R) | [Equinox](https://open.spotify.com/album/33ohUpcVhPSPoxlUUCE2Jb) | 6:08 | 2022-03-03 |  |
 | [Evelin's Basement \- Groove Mix](https://open.spotify.com/track/5SfB9pv1Juab6fCDaqbrrF) | [Chronic Sounds](https://open.spotify.com/artist/0SfQ4KZdPPjsPCReuMBvV2) | [Evelin's Basement](https://open.spotify.com/album/2K8CaOeS6FTlIeuRIXsw00) | 8:18 | 2022-03-03 | 2022-07-29 |
 | [Everybody Dance \- M.A.S\. Club Vocal](https://open.spotify.com/track/71ccVLki17DA8sVO74XoSG) | [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Everybody Dance](https://open.spotify.com/album/3F5UONXKw1at69QdBsLnwr) | 7:59 | 2022-03-03 |  |
@@ -43,7 +44,7 @@
 | [Get Up](https://open.spotify.com/track/2zP57ODfOyIIGfjhfK4L5Q) | [Krimp](https://open.spotify.com/artist/74yPSAR6dtOKgE7ZJhCvXz) | [Get Up](https://open.spotify.com/album/7vEb16cbQRZ9EPywWeIgLK) | 6:50 | 2022-03-03 |  |
 | [Give A Little Love \- Photon's Deep Vocal Mix](https://open.spotify.com/track/6xIov8kouD1IwbquXX1tYF) | [Photon Inc.](https://open.spotify.com/artist/7zDNKiiS6xgYtgDUUgfRCP) | [Give A Little Love](https://open.spotify.com/album/1YMG0R1t7BKaFKNDRbztKz) | 6:17 | 2022-03-03 | 2022-08-25 |
 | [Give It All To You \- 92 Remix](https://open.spotify.com/track/49RSvh6silwveTzfQwSbLj) | [DV8](https://open.spotify.com/artist/3C2rdG9aJ0CBfFSKmdzcTf) | [C'mon](https://open.spotify.com/album/5eBXQcItnTE8LVg3CBIzCe) | 4:18 | 2022-03-03 | 2022-07-29 |
-| [Got Me Burning Up \- Pierre's Pitch Fo\-Yo Ass!](https://open.spotify.com/track/74jbq4DsGiXh8JzYurUk34) | [Maurice](https://open.spotify.com/artist/6ji89XTJxUyNUkRXnZuFSZ) | [The Lost Tapes: Pride 95 \(Mixed by Lil' Louis\) \[DJ Edition; Unmixed\]](https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I) | 12:10 | 2022-03-03 |  |
+| [Got Me Burning Up \- Pierre's Pitch Fo\-Yo Ass!](https://open.spotify.com/track/74jbq4DsGiXh8JzYurUk34) | [Maurice](https://open.spotify.com/artist/6ji89XTJxUyNUkRXnZuFSZ) | [The Lost Tapes: Pride 95 \(Mixed by Lil' Louis\) \[DJ Edition; Unmixed\]](https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I) | 12:10 | 2022-03-03 | 2022-08-30 |
 | [Hey! \- The Rhythm Hype Mix](https://open.spotify.com/track/1iaEun88QJb6k3MCe3PKve) | [Bass Hitt](https://open.spotify.com/artist/1AzJbkaxkRGTXx25UoVPbR) | [The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC \(Unmixed\)](https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr) | 7:07 | 2022-03-03 |  |
 | [Higher Love \- New Mix](https://open.spotify.com/track/3y9VOUP7FppfGcUNlAF9IJ) | [Winter Darling](https://open.spotify.com/artist/1alJyjLMuBTeOCDoW9FQjz) | [The Lost Tapes: Pride 95 \(Mixed by Lil' Louis\) \[DJ Edition; Unmixed\]](https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I) | 7:44 | 2022-03-03 | 2022-07-29 |
 | [Higher State of Consciousness \- DJ Wink's Hardhouse Mix](https://open.spotify.com/track/6ITUI4fHeZe0ZokTL8wlml) | [Josh Wink](https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H) | [Higher State Of Consciousness](https://open.spotify.com/album/4htflXo3O3hAac1OzNiz0S) | 8:39 | 2022-03-03 |  |

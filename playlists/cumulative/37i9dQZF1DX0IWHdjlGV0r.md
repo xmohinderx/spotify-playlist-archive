@@ -4,7 +4,7 @@
 
 > Certi amori bruciano di più\. Cover: Luchè
 
-81 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/0ub8fLPq50x7iJHKg2Rrfv)
+82 songs - 4 hr 20 min - [published](https://open.spotify.com/playlist/0ub8fLPq50x7iJHKg2Rrfv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Quando Sto Con Te](https://open.spotify.com/track/2FLuWGIR4WwxWbdwZ0GHwd) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Eclissi](https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S) | 3:01 | 2022-05-12 | 2022-06-03 |
 | [Quando tu mi baci](https://open.spotify.com/track/1SPbN6ppUSIcOTZAO2HoCf) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h), [Powv\_fsk](https://open.spotify.com/artist/0IPhGUowAYS8nr7nT9synf) | [Quando tu mi baci](https://open.spotify.com/album/3i8BJ5YnNat8a8zzUiM8gd) | 3:18 | 2022-05-03 | 2022-06-23 |
 | [Rose Nere](https://open.spotify.com/track/1PhB6n0TlYLSHn29v2vDXC) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Bravo Ragazzo \(Royal Edition\)](https://open.spotify.com/album/0LHWAAN1t9MHgpkPjdXrkW) | 4:32 | 2022-05-03 |  |
-| [Sei qui](https://open.spotify.com/track/2t0Bn0De4p0F9XCDv5ftVJ) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Dark Love EP](https://open.spotify.com/album/1AT2eHexB7x445IxuECZLW) | 2:26 | 2022-06-22 |  |
+| [Sei qui](https://open.spotify.com/track/2t0Bn0De4p0F9XCDv5ftVJ) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Dark Love EP](https://open.spotify.com/album/1AT2eHexB7x445IxuECZLW) | 2:26 | 2022-06-22 | 2022-08-30 |
+| [Sei qui](https://open.spotify.com/track/4eYTeB1NFdfEcWpAre8kbJ) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Dark Love EP](https://open.spotify.com/album/5Z5JxIgeTDnZdg6pLootUs) | 2:26 | 2022-08-22 |  |
 | [Si Baciano Tutti \(feat\. CoCo\)](https://open.spotify.com/track/7g0dmj4mrpVxa6rkm8gqYl) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ), [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM) | [Neverland](https://open.spotify.com/album/6dgoz9DGFVg97vGr0260sP) | 2:50 | 2022-05-03 |  |
 | [Silenzio](https://open.spotify.com/track/5Eay94uxOnd2XrnybXoDfm) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1) | [Eclissi](https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S) | 2:57 | 2022-05-12 |  |
 | [Soli \(Assieme\)](https://open.spotify.com/track/2opjdnFzcgsp5wt8IYj8oN) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Mercurio](https://open.spotify.com/album/3pXSt0UQJINOx5GP6NORLj) | 3:25 | 2022-05-03 |  |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMGEwMWQxY2I3MzZhY2M4NjZlMmY1OGExNWFlZTA3ZTFl",
+  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMGYzM2QwOGY5ZTlhZTE4ZmM4YjA0MDQ1YWY5ZWU5N2Jl",
   "tracks": [
     {
       "added_at": "2020-02-18 13:31:30",
@@ -155,6 +155,22 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
+        "name": "Woodstock",
+        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 163253,
+      "name": "Feel It Still",
+      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
         "name": "No.6 Collaborations Project",
         "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 204466,
       "name": "South of the Border (feat. Camila Cabello & Cardi B)",
       "url": "https://open.spotify.com/track/4vUmTMuQqjdnvlZmAH61Qk"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "Woodstock",
-        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 163253,
-      "name": "Feel It Still",
-      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -387,26 +387,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "This Is Acting (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 210226,
-      "name": "The Greatest (feat. Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/7xHWNBFm6ObGEQPaUxHuKO"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "Rather Be (feat. Jess Glynne)",
         "url": "https://open.spotify.com/album/4UB0J5V3JsZZtNR360pZ6r"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 227833,
       "name": "Rather Be (feat. Jess Glynne)",
       "url": "https://open.spotify.com/track/3s4U7OHV7gnj42VV72eSZ6"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "This Is Acting (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 210226,
+      "name": "The Greatest (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/7xHWNBFm6ObGEQPaUxHuKO"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -463,6 +463,22 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
+        "name": "Final Song",
+        "url": "https://open.spotify.com/album/2gcqSlK5xTxcpuLZ1iik3Z"
+      },
+      "artists": [
+        {
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        }
+      ],
+      "duration_ms": 235826,
+      "name": "Final Song",
+      "url": "https://open.spotify.com/track/4qqArAiTPueDxIp7cf87h7"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
         "name": "Thank You [Not So Bad]",
         "url": "https://open.spotify.com/album/6alQudvAYx6VZMye1BFgFK"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 197963,
       "name": "Thank You [Not So Bad]",
       "url": "https://open.spotify.com/track/4AqN8IdKCfItCSbuaFch81"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "Final Song",
-        "url": "https://open.spotify.com/album/2gcqSlK5xTxcpuLZ1iik3Z"
-      },
-      "artists": [
-        {
-          "name": "M\u00d8",
-          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
-        }
-      ],
-      "duration_ms": 235826,
-      "name": "Final Song",
-      "url": "https://open.spotify.com/track/4qqArAiTPueDxIp7cf87h7"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -519,6 +519,26 @@
       "duration_ms": 182623,
       "name": "Close To Me (with Diplo) (feat. Swae Lee)",
       "url": "https://open.spotify.com/track/5JEx7HbmvHQQswJCsoo9rA"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Forever Young",
+        "url": "https://open.spotify.com/album/1x9q23elJDl1E1PzmaoMS8"
+      },
+      "artists": [
+        {
+          "name": "UNDRESSD",
+          "url": "https://open.spotify.com/artist/6t9ucCmbp0yzfgKpSLl7XL"
+        },
+        {
+          "name": "Ellie May",
+          "url": "https://open.spotify.com/artist/4PoDl8ZLsbbdeNBrEC1eSH"
+        }
+      ],
+      "duration_ms": 201765,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/1J2EmhjTmHQxLShYQK7Xti"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -559,26 +579,6 @@
       "duration_ms": 215315,
       "name": "Carry On (from the Original Motion Picture \"POK\u00c9MON Detective Pikachu\")",
       "url": "https://open.spotify.com/track/3y3brCCecHC3Db18aIOnny"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "Forever Young",
-        "url": "https://open.spotify.com/album/1x9q23elJDl1E1PzmaoMS8"
-      },
-      "artists": [
-        {
-          "name": "UNDRESSD",
-          "url": "https://open.spotify.com/artist/6t9ucCmbp0yzfgKpSLl7XL"
-        },
-        {
-          "name": "Ellie May",
-          "url": "https://open.spotify.com/artist/4PoDl8ZLsbbdeNBrEC1eSH"
-        }
-      ],
-      "duration_ms": 201765,
-      "name": "Forever Young",
-      "url": "https://open.spotify.com/track/1J2EmhjTmHQxLShYQK7Xti"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -791,26 +791,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "TIM",
-        "url": "https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Joe Janiak",
-          "url": "https://open.spotify.com/artist/142TY556WknD1ZRV8XilJQ"
-        }
-      ],
-      "duration_ms": 205416,
-      "name": "Bad Reputation (feat. Joe Janiak)",
-      "url": "https://open.spotify.com/track/0HZgYFimoJG9Ijy8InUWcV"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "Lost In Japan (Remix)",
         "url": "https://open.spotify.com/album/3ynoYncFXzo2OfPT8j93Pw"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 201253,
       "name": "Lost In Japan - Remix",
       "url": "https://open.spotify.com/track/575NJxNUVDqwJGdzBrlLbv"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "TIM",
+        "url": "https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Joe Janiak",
+          "url": "https://open.spotify.com/artist/142TY556WknD1ZRV8XilJQ"
+        }
+      ],
+      "duration_ms": 205416,
+      "name": "Bad Reputation (feat. Joe Janiak)",
+      "url": "https://open.spotify.com/track/0HZgYFimoJG9Ijy8InUWcV"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -931,22 +931,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Solo Dance",
-        "url": "https://open.spotify.com/album/7J6SYqcOQ705IYA0DUec38"
-      },
-      "artists": [
-        {
-          "name": "Martin Jensen",
-          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
-        }
-      ],
-      "duration_ms": 174933,
-      "name": "Solo Dance",
-      "url": "https://open.spotify.com/track/3R6dPfF2yBO8mHySW1XDAa"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "All Star",
         "url": "https://open.spotify.com/album/2Es570t0nOuNYxQcdDfZXm"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 151278,
       "name": "All Star",
       "url": "https://open.spotify.com/track/7eqL9wlOJXQDwzdjUbhTT0"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Solo Dance",
+        "url": "https://open.spotify.com/album/7J6SYqcOQ705IYA0DUec38"
+      },
+      "artists": [
+        {
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+        }
+      ],
+      "duration_ms": 174933,
+      "name": "Solo Dance",
+      "url": "https://open.spotify.com/track/3R6dPfF2yBO8mHySW1XDAa"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1015,6 +1015,26 @@
       "duration_ms": 191248,
       "name": "Tough Love (feat. Agnes, Vargas & Lagola)",
       "url": "https://open.spotify.com/track/1yfyIdEw5U2bD5I6gxQCxW"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Snacks",
+        "url": "https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Ina Wroldsen",
+          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
+        }
+      ],
+      "duration_ms": 208106,
+      "name": "Breathe (feat. Ina Wroldsen)",
+      "url": "https://open.spotify.com/track/4Vbz3osCh6DwHYv5gVv5H2"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1119,22 +1139,22 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Snacks",
-        "url": "https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb"
+        "name": "Why Boy",
+        "url": "https://open.spotify.com/album/2POadj9PRm2V5QbVuVPDUo"
       },
       "artists": [
         {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+          "name": "Steff da Campo",
+          "url": "https://open.spotify.com/artist/7Bo6vpAmmhylCRWoHSBkcZ"
         },
         {
-          "name": "Ina Wroldsen",
-          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
+          "name": "Dave Crusher",
+          "url": "https://open.spotify.com/artist/23TjYnUK2xGyalo5ABFV5F"
         }
       ],
-      "duration_ms": 208106,
-      "name": "Breathe (feat. Ina Wroldsen)",
-      "url": "https://open.spotify.com/track/4Vbz3osCh6DwHYv5gVv5H2"
+      "duration_ms": 150005,
+      "name": "Why Boy",
+      "url": "https://open.spotify.com/track/2devxXJUTEIFmgt8cXaqmO"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1155,26 +1175,6 @@
       "duration_ms": 180000,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/7zhT90M07NLqJb2MsaqWhM"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "Why Boy",
-        "url": "https://open.spotify.com/album/2POadj9PRm2V5QbVuVPDUo"
-      },
-      "artists": [
-        {
-          "name": "Steff da Campo",
-          "url": "https://open.spotify.com/artist/7Bo6vpAmmhylCRWoHSBkcZ"
-        },
-        {
-          "name": "Dave Crusher",
-          "url": "https://open.spotify.com/artist/23TjYnUK2xGyalo5ABFV5F"
-        }
-      ],
-      "duration_ms": 150005,
-      "name": "Why Boy",
-      "url": "https://open.spotify.com/track/2devxXJUTEIFmgt8cXaqmO"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
+        "name": "Sylo Songs",
+        "url": "https://open.spotify.com/album/5q8Wc6yo9hQfLH9neXgXRR"
+      },
+      "artists": [
+        {
+          "name": "Sylo",
+          "url": "https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl"
+        }
+      ],
+      "duration_ms": 127268,
+      "name": "FOMO",
+      "url": "https://open.spotify.com/track/02zYabT1FTwMy8byKpd40O"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
         "name": "OK (The Remixes)",
         "url": "https://open.spotify.com/album/2ridyWvBRA24PXySJ2qeSS"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 184013,
       "name": "OK - Ofenbach Remix",
       "url": "https://open.spotify.com/track/1iPWXMClLL4AZtBuMD0lh3"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "Sylo Songs",
-        "url": "https://open.spotify.com/album/5q8Wc6yo9hQfLH9neXgXRR"
-      },
-      "artists": [
-        {
-          "name": "Sylo",
-          "url": "https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl"
-        }
-      ],
-      "duration_ms": 127268,
-      "name": "FOMO",
-      "url": "https://open.spotify.com/track/02zYabT1FTwMy8byKpd40O"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1527,6 +1527,26 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
+        "name": "Too Close",
+        "url": "https://open.spotify.com/album/1qndvyChhfvNmTWNi7eLiE"
+      },
+      "artists": [
+        {
+          "name": "Ria Mae",
+          "url": "https://open.spotify.com/artist/3QvuHlyW42Ei3AyGOO4AMT"
+        },
+        {
+          "name": "Dan Talevski",
+          "url": "https://open.spotify.com/artist/0Vu4A064M7J86SoMA0nrJH"
+        }
+      ],
+      "duration_ms": 147741,
+      "name": "Too Close",
+      "url": "https://open.spotify.com/track/4Gy6pnhY9GGE3nqD3d0CmU"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
         "name": "Thorns",
         "url": "https://open.spotify.com/album/57ATyOS7Gud3uEjzIbMp7Y"
       },
@@ -1539,26 +1559,6 @@
       "duration_ms": 186000,
       "name": "Thorns",
       "url": "https://open.spotify.com/track/6DuE8kXIDJ3oiCibWXmgeN"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "Long Way Home",
-        "url": "https://open.spotify.com/album/0gsRK96dxwHjosLKpHgns4"
-      },
-      "artists": [
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        },
-        {
-          "name": "Deepend",
-          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
-        }
-      ],
-      "duration_ms": 169781,
-      "name": "Long Way Home",
-      "url": "https://open.spotify.com/track/1zZPjx3m2M604sI7GpI2ZR"
     }
   ],
   "unique_name": "After Work",

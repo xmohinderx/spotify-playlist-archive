@@ -4,7 +4,7 @@
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-204 songs - 13 hr 10 min - [published](https://open.spotify.com/playlist/0zTna4IYVzsQVY4oHk0pH1)
+206 songs - 13 hr 17 min - [published](https://open.spotify.com/playlist/0zTna4IYVzsQVY4oHk0pH1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,11 +30,12 @@
 | [Baby, It's Cold Outside](https://open.spotify.com/track/0B3lVXeu3W5JrjI8hS4cZe) | [JP Maurice](https://open.spotify.com/artist/05ambhctJK0e4o4OtxHsTt), [Pyper Geddes](https://open.spotify.com/artist/7Bfhcpf9ajhLnwmHT2z1TQ) | [Baby, It's Cold Outside](https://open.spotify.com/album/6NHoiZIcnSvbWY2PKyJcvg) | 3:08 | 2021-11-19 |  |
 | [Back to the Start](https://open.spotify.com/track/4Na3IDBm27qhGq8dwz0ps2) | [Gordon Robertson](https://open.spotify.com/artist/2QOoyXdfUKSMCK1c7pDam5) | [Back to the Start](https://open.spotify.com/album/0NiWwfEyQTYgRltIOGJ0M6) | 3:16 | 2021-11-19 |  |
 | [Be That Someone](https://open.spotify.com/track/4szkIWrv3a1D9LhiozKTi2) | [Torun Eriksen](https://open.spotify.com/artist/355ri5bzRz85zOK6injNyn) | [Luxury and Waste](https://open.spotify.com/album/1N3wClxD2MZop9UDEzAd7B) | 3:53 | 2021-11-19 |  |
+| [Beautiful Stranger](https://open.spotify.com/track/7ndKgIPneFhibUEYdqK8YE) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/4YrAMk088p90boVlesCpOQ) | 3:21 | 2022-08-25 |  |
 | [Before I Do](https://open.spotify.com/track/2oSH6sOAP0YOq6qMuO0ZMK) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [You're Fine](https://open.spotify.com/album/7AnOsuntfZx3d3Vrnt2z3B) | 3:18 | 2021-11-19 |  |
 | [Begin Again](https://open.spotify.com/track/6YSCWDYNtZ6mZ8d71Tj0HR) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Begin Again](https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj) | 3:49 | 2021-11-19 |  |
 | [Benevolent Man](https://open.spotify.com/track/4APZ4IrqGZMMNjVrkIJJxM) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [Alone With My Faith](https://open.spotify.com/album/7gMSKwzQlQMV55DTf2mYbU) | 3:42 | 2022-02-08 |  |
 | [Best Time Of The Year](https://open.spotify.com/track/3hM4XcR3YV4YvF77FhqYXW) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG), [Budbud](https://open.spotify.com/artist/6nuMsxPeVPwxtuApXX53zF) | [Best Time Of The Year](https://open.spotify.com/album/1t9PkXJNNyLWCMUtE7fIgq) | 3:09 | 2021-11-19 |  |
-| [Birthday](https://open.spotify.com/track/4dumLEql3QNZfwVK4sTojD) | [The Scalicis](https://open.spotify.com/artist/1aXYGkJ7p5IUE8BbPFmkWV) | [Birthday](https://open.spotify.com/album/14KfV7dED8JuA3C6NYnoTR) | 3:00 | 2022-07-14 |  |
+| [Birthday](https://open.spotify.com/track/4dumLEql3QNZfwVK4sTojD) | [The Scalicis](https://open.spotify.com/artist/1aXYGkJ7p5IUE8BbPFmkWV) | [Birthday](https://open.spotify.com/album/14KfV7dED8JuA3C6NYnoTR) | 3:00 | 2022-07-14 | 2022-08-30 |
 | [Birthday](https://open.spotify.com/track/6tMUp2XBPBUtIVL5iue9In) | [The Scalicis](https://open.spotify.com/artist/1aXYGkJ7p5IUE8BbPFmkWV) | [Birthday](https://open.spotify.com/album/1WTsPT91gUr0tWNYPSWfjD) | 3:00 | 2021-11-19 | 2022-07-29 |
 | [bitterlove](https://open.spotify.com/track/2q5ug5CRRG0nBCLBTprsl6) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [a letter to my 17 year old](https://open.spotify.com/album/48SUVfdwm8K3U67cS5QC2h) | 3:30 | 2021-11-19 | 2022-02-09 |
 | [Blackbird \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3VukmzGvVbB4FyGyBPf0A7) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Spotify Singles](https://open.spotify.com/album/4Od3ObjvGfZybirpKZBrcg) | 4:27 | 2021-11-19 |  |
@@ -114,6 +115,7 @@
 | [Just a Little Bit](https://open.spotify.com/track/4urDvEJ9KbZiv8BszszXiB) | [Waltzing on Waves](https://open.spotify.com/artist/6NBm8u09fMrshjhu4f2quW) | [Just a Little Bit](https://open.spotify.com/album/0dBeEKGEg7rpeyYvTzgnou) | 3:26 | 2021-11-19 |  |
 | [Just A Little Lovin' \(Early In The Mornin'\)](https://open.spotify.com/track/0QLT2yy9khnCVaW1Q2vvmx) | [Quiana Lynell](https://open.spotify.com/artist/1VnqxwpVqjPPJ77ij1tE48) | [A Little Love](https://open.spotify.com/album/3s13EHpoHIY8NeksK7rakt) | 3:20 | 2022-07-14 |  |
 | [Just A Little Lovin' \(Early In The Mornin'\)](https://open.spotify.com/track/4VEApzvhECrSVK3v4tRDnX) | [Quiana Lynell](https://open.spotify.com/artist/1VnqxwpVqjPPJ77ij1tE48) | [Just A Little Lovin' \(Early In The Mornin'\)](https://open.spotify.com/album/5Itcp6z0DJ1F2DXQFk85gI) | 3:20 | 2021-11-19 | 2022-07-29 |
+| [Just Like Chet](https://open.spotify.com/track/3JCFkb1gVqjIT0hLFyX0Dc) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/4YrAMk088p90boVlesCpOQ) | 3:36 | 2022-08-25 |  |
 | [Kettle](https://open.spotify.com/track/0hDcNOCz9gXXs7akY5PZdD) | [Ella Frank](https://open.spotify.com/artist/73vkRuqONSf8tm9TaE9iEM) | [Kettle](https://open.spotify.com/album/2Lt4lgmQWlf1fzCOs699MG) | 4:24 | 2022-07-14 |  |
 | [Kettle](https://open.spotify.com/track/1cNgHg7pkufDZRT6A9zgaR) | [Ella Frank](https://open.spotify.com/artist/73vkRuqONSf8tm9TaE9iEM), [Intalekt](https://open.spotify.com/artist/0DyatUnzbcULupeMCfqumy), [R\-Kay](https://open.spotify.com/artist/4M5sR9GhVebERklwVPeEp2) | [Kettle](https://open.spotify.com/album/0G5T0KwJy5Psa57XIDR7qJ) | 4:24 | 2021-11-19 | 2022-07-29 |
 | [Leave Me Be](https://open.spotify.com/track/2Y7Hj6WOx5yZQgQzPNdowj) | [Dearest Sister](https://open.spotify.com/artist/0Rj4QSL8GRrkpJFlM2JNiY) | [Leave Me Be](https://open.spotify.com/album/5xzepLZ4dkvgdr0aJ1T7t0) | 4:41 | 2022-07-14 | 2022-08-12 |
@@ -188,7 +190,7 @@
 | [That's What Friends Are For](https://open.spotify.com/track/5Ho2diTtFka6q3a2VFpyYb) | [Steve Tyrell](https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B) | [That's What Friends Are For](https://open.spotify.com/album/2zt9qqNzNtu6ym7pkIUXPZ) | 3:43 | 2021-11-19 |  |
 | [The Birds and the Bees](https://open.spotify.com/track/5skQwY8m3gZ1LUg0ZXlpgb) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [You're Fine](https://open.spotify.com/album/7AnOsuntfZx3d3Vrnt2z3B) | 3:50 | 2021-11-19 |  |
 | [The Christmas Sweater](https://open.spotify.com/track/30QRKfHBopZn6UNqqSJQ9O) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe 10th Anniversary Edition\)](https://open.spotify.com/album/0FHpjWlnUmplF5ciL84Wpa) | 3:43 | 2021-11-19 | 2022-01-19 |
-| [The Light](https://open.spotify.com/track/32vvYSbLEh6ArgrO14b05N) | [A Blue Flame](https://open.spotify.com/artist/38HZpPrz1oAtH4g0pq1oUo) | [Love Rushes Past](https://open.spotify.com/album/50bndooKOa7btzN0Y4vNC0) | 2:40 | 2021-11-19 |  |
+| [The Light](https://open.spotify.com/track/32vvYSbLEh6ArgrO14b05N) | [A Blue Flame](https://open.spotify.com/artist/38HZpPrz1oAtH4g0pq1oUo) | [Love Rushes Past](https://open.spotify.com/album/50bndooKOa7btzN0Y4vNC0) | 2:40 | 2021-11-19 | 2022-08-30 |
 | [the road is narrow](https://open.spotify.com/track/3aqG3Xx1xOyKNVqWkppwoD) | [Jecca](https://open.spotify.com/artist/6OZZbpRmu88cPW77EiVjcg) | [The Road Is Narrow](https://open.spotify.com/album/7s0U8SQwkEy4E221cHJG2b) | 3:14 | 2021-11-19 |  |
 | [The Very Thought of You](https://open.spotify.com/track/2VCVI7kOR2LnRB4I3urO1i) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk) | [The Very Thought of You](https://open.spotify.com/album/4DqgZIfkIxAxOkERNB1Fuh) | 4:43 | 2021-11-19 | 2022-07-29 |
 | [The Very Thought Of You](https://open.spotify.com/track/5cEDAmOy6U1AF9CAU7FvAk) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk) | [This Is Not Jazz](https://open.spotify.com/album/5EExcDadXPrglslXW9lHEM) | 4:43 | 2022-07-14 |  |

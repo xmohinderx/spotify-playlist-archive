@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > Representin' +82 Korean Hip\-Hop's sickest rhymes and beats\. \(Cover: unofficialboyy\(언오피셜보이\)\) \(한국힙합을 대표하는 곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,961 likes - 57 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,414 likes - 57 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

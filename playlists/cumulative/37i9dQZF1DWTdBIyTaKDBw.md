@@ -4,7 +4,7 @@
 
 > Enjoy your happy eating time with Korean theme! \(사랑스러운 음악들과 행복한 식사 시간을 가져보세요!\)
 
-168 songs - 10 hr 41 min - [published](https://open.spotify.com/playlist/4JM95H8vsjsz2KMA6pkYt7)
+169 songs - 10 hr 45 min - [published](https://open.spotify.com/playlist/4JM95H8vsjsz2KMA6pkYt7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Maudie](https://open.spotify.com/track/7qcdtKc7dflDG35ieESgo9) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Forest part.1](https://open.spotify.com/album/3LlQxI5sqj7SGKwWGKtbMA) | 4:04 | 2022-05-03 | 2022-07-29 |
 | [Missing you](https://open.spotify.com/track/24UgvaHnAvKOysqdkZ1B8L) | [FLY TO THE SKY](https://open.spotify.com/artist/7rlMZAZYtRkjFg4HHhvYeC) | [Back in Time](https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt) | 4:32 | 2022-05-03 |  |
 | [Modern Times](https://open.spotify.com/track/5fClGwV57GC2efm64bJ5Mm) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Modern Times – Epilogue](https://open.spotify.com/album/56MqewtCUq5bplrqEYTVL0) | 3:25 | 2022-05-03 |  |
-| [My Journey](https://open.spotify.com/track/67STgZHPb0ShricGZvb1dg) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [My Journey](https://open.spotify.com/album/2mT65W98g0OtfHnj1OaOtG) | 3:23 | 2022-06-20 |  |
+| [My Journey](https://open.spotify.com/track/67STgZHPb0ShricGZvb1dg) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [My Journey](https://open.spotify.com/album/2mT65W98g0OtfHnj1OaOtG) | 3:23 | 2022-06-20 | 2022-08-30 |
 | [My Universe \(Seungmin, I.N Feat\. Changbin\)](https://open.spotify.com/track/4wMKQGoS7TwkGMvPk9lcHG) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/1fOJ6SHLXOLnsuuwiLyzft) | 3:23 | 2022-05-03 | 2022-07-29 |
 | [My Universe \(Seungmin, I.N\)](https://open.spotify.com/track/4a2TlUwtrzLwjcHe1vPvj9) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [Changbin](https://open.spotify.com/artist/5OTVNUu0UHn6ddPyEAi419) | [IN LIFE](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) | 3:23 | 2022-07-22 |  |
 | [No place to retreat \(Feat\. 10CM\)](https://open.spotify.com/track/0KaYLNGkiQ0IeEia3SIm9x) | [The BLANK Shop](https://open.spotify.com/artist/1EpuNC9xipj4L0GbEz6RJk), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Tailor](https://open.spotify.com/album/14g9BZeQyFfVOie1oKai3Z) | 4:20 | 2022-05-03 | 2022-07-28 |
@@ -166,6 +166,7 @@
 | [니 얘기 About you](https://open.spotify.com/track/73GHp8ZN40i564AfSV3Nv1) | [Bernard Park](https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv) | [탓 Blame \(Feat\. Changmo\)](https://open.spotify.com/album/1Q2teksS6QJgo804KZNw03) | 3:24 | 2022-06-13 | 2022-06-21 |
 | [달콤한 빈말 \(feat\. 바버렛츠\) Sweet lies \(feat\. The Barberettes\)](https://open.spotify.com/track/3F6eSiAXmjfZpR0vUOoOzN) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [Bittersweet](https://open.spotify.com/album/3GugXnQJXNFzXCBNTZb02q) | 3:25 | 2022-05-03 |  |
 | [백일몽](https://open.spotify.com/track/0STh4piQSDAjyxbcYHo8KM) | [강동훈](https://open.spotify.com/artist/0MpKG6kiILpu3fku0uKeHz) | [Daydream](https://open.spotify.com/album/2iHFF5PYkEPPv64M9fSBvr) | 4:01 | 2022-06-20 | 2022-07-27 |
+| [사랑을 믿어요](https://open.spotify.com/track/3Qxoh4asAlkbzk5QffZjIS) | [JINWOOCHUL](https://open.spotify.com/artist/4xvPog1scf67ui3Lrb5FYZ) | [사랑을 믿어요](https://open.spotify.com/album/1B2UTfGDOuENmhHGnySfrO) | 3:39 | 2022-08-12 |  |
 | [아낌없이 주는 나무](https://open.spotify.com/track/0bJVeUbO0iK5Z2yYg0DUt9) | [Lim Jae Bum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Coexistance](https://open.spotify.com/album/1ec5SZCtrIankVsKaLHx5Q) | 3:53 | 2022-06-20 | 2022-07-14 |
 | [아득하게 Here For Where](https://open.spotify.com/track/2XMJLRTBrA5l0BdPyN8ogI) | [Jo So Hyun](https://open.spotify.com/artist/4voH4qkhBVtoXgQbGOnfTF) | [스무살의 가을 Autumn](https://open.spotify.com/album/5COe5BZdAtmtdTh9s3jHOI) | 2:40 | 2022-05-03 | 2022-07-21 |
 | [안녕이라는 흔한 인사 Ordinary Goodbye](https://open.spotify.com/track/3uA7fLIyM0HgRoRiR9R3A3) | [Kwon Jin\-Won](https://open.spotify.com/artist/7IUA5dBy74xbR3laiFi5sE) | [Should We Kiss First? \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/6zewsmoZDQVeod1AAtQ13B) | 2:57 | 2022-05-03 | 2022-07-19 |

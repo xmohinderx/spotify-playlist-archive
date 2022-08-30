@@ -4,17 +4,18 @@
 
 > The best of electronic trap\. Cover: RL Grime
 
-221 songs - 12 hr 8 min - [published](https://open.spotify.com/playlist/6tpQ5fWn7pR2a6KV8Us5hN)
+222 songs - 12 hr 12 min - [published](https://open.spotify.com/playlist/6tpQ5fWn7pR2a6KV8Us5hN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Active](https://open.spotify.com/track/7jcP7f7Gol3IS01nfj7zbG) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [Active](https://open.spotify.com/album/23cA8OTwFVZZ4pIXgcDxJi) | 2:30 | 2021-11-19 |  |
 | [All of Me \(feat\. Logic, ROZES\)](https://open.spotify.com/track/3ISiZ0GzocM9ssIwqRn1AW) | [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Brighter Future](https://open.spotify.com/album/2j5Ie27rxisV2j51sm2mVA) | 3:48 | 2022-02-01 |  |
-| [All Through the Night](https://open.spotify.com/track/5MLNm8nsvpCWJ2YpurIGLp) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Paradise Lost](https://open.spotify.com/album/45IlRslbY2q1bvRMHSVDD9) | 3:30 | 2021-11-19 |  |
+| [All Through the Night](https://open.spotify.com/track/5MLNm8nsvpCWJ2YpurIGLp) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Paradise Lost](https://open.spotify.com/album/45IlRslbY2q1bvRMHSVDD9) | 3:30 | 2021-11-19 | 2022-08-30 |
 | [Angels Landing](https://open.spotify.com/track/7z8zdcW66DyZ931P6BjnX7) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [FrostTop](https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4) | [Angels Landing](https://open.spotify.com/album/6HmjU8l5u5jmG8Mtrp6jRn) | 3:53 | 2022-08-26 |  |
 | [Anthem](https://open.spotify.com/track/0wOx3pICvsNIwobd0XnUxb) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG) | [Anthem](https://open.spotify.com/album/1daFOzo9pAJi0nDoR03roY) | 2:15 | 2022-01-21 | 2022-02-01 |
 | [Anything](https://open.spotify.com/track/48fPdAwGVoSkGK8GSez9yx) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Anything](https://open.spotify.com/album/703aZZCaGU2kRGjo0pGzDL) | 3:46 | 2022-02-01 |  |
 | [Apocalyptic](https://open.spotify.com/track/3E5Go2swucT0A6NmqOEChM) | [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5) | [Apocalyptic](https://open.spotify.com/album/6QupCtenijUBkVdEJx7dar) | 3:24 | 2022-02-01 |  |
+| [Arena](https://open.spotify.com/track/1i0cgkisuJoGZOzdupqf1v) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [Arena](https://open.spotify.com/album/5eXLDkcVPBPQUSL24oedCO) | 3:26 | 2022-08-26 |  |
 | [Arena](https://open.spotify.com/track/5qBcafzXycpvGKiKCfTQjd) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [Arena](https://open.spotify.com/album/0LxtnMt80YF21NGZio7OLR) | 3:26 | 2022-02-01 | 2022-08-25 |
 | [ASTRAL](https://open.spotify.com/track/4xZs3f8uEyKtvuwlsQGGne) | [Hekler](https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh), [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [ASTRAL](https://open.spotify.com/album/1U5SnFdvdDd2ZyPwWgchUx) | 3:28 | 2021-11-19 | 2022-02-02 |
 | [Atom Mirror](https://open.spotify.com/track/2vV2bD9Iqf22nHuFzrzz28) | [sober rob](https://open.spotify.com/artist/532VhOtZQ47TWSTGwbZ4kF) | [Atom Mirror](https://open.spotify.com/album/1cwS6NQ9FAmexXEyziFsOL) | 2:48 | 2021-12-14 | 2022-02-02 |

@@ -4,7 +4,7 @@
 
 > The best new alternative rock tracks.
 
-173 songs - 10 hr 19 min - [published](https://open.spotify.com/playlist/5quM8neQlox9eNtsEIONeH)
+174 songs - 10 hr 22 min - [published](https://open.spotify.com/playlist/5quM8neQlox9eNtsEIONeH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Cleopatra](https://open.spotify.com/track/1vbu9CQdQQgYHPeqTn8WK0) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Cleopatra](https://open.spotify.com/album/79QALKmJRQgzHWHTutvg5O) | 3:30 | 2022-03-21 |  |
 | [Come Apart](https://open.spotify.com/track/7uDPHQ8ZRfeqwmYGDGYAio) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Come Apart](https://open.spotify.com/album/7HFKrcFsBxZTbDd6kTYowF) | 3:04 | 2022-07-31 |  |
 | [Coming Home](https://open.spotify.com/track/0Ezo65AK5eoUg6CZl75X0Q) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [Coming Home](https://open.spotify.com/album/6oZrOIZ4g01FSJkbWoxrKZ) | 3:24 | 2022-04-28 | 2022-07-29 |
-| [Coming Home](https://open.spotify.com/track/3NMl2nhvhEnUvwJswPHEYi) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [Coming Home](https://open.spotify.com/album/0uBGLU72sQe6eArUmzOMRc) | 3:24 | 2022-06-30 |  |
+| [Coming Home](https://open.spotify.com/track/3NMl2nhvhEnUvwJswPHEYi) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [Coming Home](https://open.spotify.com/album/0uBGLU72sQe6eArUmzOMRc) | 3:24 | 2022-06-30 | 2022-08-30 |
+| [Coming Home](https://open.spotify.com/track/6PPrhOoVydbr2lBlgE7G0h) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [Coming Home](https://open.spotify.com/album/0QvyrBqWBWJQgOdWEwcK7U) | 3:24 | 2022-07-31 |  |
 | [Core](https://open.spotify.com/track/3KQFoQcHhnVwt8x8CFD7Td) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [Core](https://open.spotify.com/album/3PcIsTBU9umNzP1Ejz3s2g) | 4:28 | 2022-02-10 |  |
 | [Cough Up Cherries](https://open.spotify.com/track/4Xyid6RWXc6zvgE20hQ2A6) | [Kills Birds](https://open.spotify.com/artist/4osJY6pXMgA3LezSpLSbkN) | [Cough Up Cherries](https://open.spotify.com/album/7bIjrTiG0YVJBjOBIVp03N) | 2:56 | 2021-12-16 | 2022-01-07 |
 | [Daddy's Boy](https://open.spotify.com/track/5xujNX1JdMNpN1Wcgd92vb) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [Daddy's Boy](https://open.spotify.com/album/3RbnFr6QtEazEHuAB2HwDM) | 3:46 | 2022-07-31 |  |

@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Richie Campbell
 
-86 songs - 5 hr 2 min - [published](https://open.spotify.com/playlist/0ZcjSUxcyp6vwIHuLPj7q0)
+87 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/0ZcjSUxcyp6vwIHuLPj7q0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [IBC](https://open.spotify.com/track/03jCCoBVLfE3uz0rIeQHwS) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru) | [IBC](https://open.spotify.com/album/5uzZIVVjB9Rwk87pNnyRuP) | 4:06 | 2022-08-18 |  |
 | [Imagina](https://open.spotify.com/track/2dWbucCC3cVXQWi6JaL7js) | [FRANKIEONTHEGUITAR](https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Imagina](https://open.spotify.com/album/2C1S5oONnsIYEgvaNf1KWh) | 3:43 | 2022-07-07 |  |
 | [Impec](https://open.spotify.com/track/37M00uZSz6smSxZ7pHchuh) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Deepak Looper](https://open.spotify.com/album/6fmSivCeFMAVtMGA2GRMZf) | 3:13 | 2022-07-07 |  |
-| [Jorge Mundo](https://open.spotify.com/track/249u6O2uBVavumgxEpQyWN) | [Reyz](https://open.spotify.com/artist/17NgBeR3LCYGxecmH0PTOl) | [Jorge Mundo](https://open.spotify.com/album/2jtgdgFSqKMJX2AuBIXnYA) | 3:27 | 2022-08-18 |  |
+| [Jorge Mundo](https://open.spotify.com/track/249u6O2uBVavumgxEpQyWN) | [Reyz](https://open.spotify.com/artist/17NgBeR3LCYGxecmH0PTOl) | [Jorge Mundo](https://open.spotify.com/album/2jtgdgFSqKMJX2AuBIXnYA) | 3:27 | 2022-08-18 | 2022-08-30 |
 | [Lagrimas na Chuva](https://open.spotify.com/track/51byFLUe5raxXpa0ev0sFU) | [Ndozzi](https://open.spotify.com/artist/7j54Jqg5u1ualZP093JHt2), [Famoso](https://open.spotify.com/artist/7Gyjz5usu308wBX2hZjbrc) | [Lagrimas na Chuva](https://open.spotify.com/album/6cknxnSfqXYtqNdSI0F3Yh) | 2:52 | 2022-07-07 | 2022-08-06 |
 | [Layah](https://open.spotify.com/track/7mHRrnFWPKD0a6fYrfsSYl) | [WAY 45](https://open.spotify.com/artist/5HecInQ5WBDHP4mkrU9TXv), [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef) | [Layah](https://open.spotify.com/album/5Q6KIhKt5QIkM02pzZ6fUS) | 2:49 | 2022-07-07 | 2022-07-22 |
 | [Lembra\-te](https://open.spotify.com/track/4kGx4Jl9U74iCUy9HfSnRl) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Desde a Origem](https://open.spotify.com/album/7i5xYoXAZRC9HONBaVyZTn) | 3:16 | 2022-07-07 |  |
@@ -67,6 +67,7 @@
 | [Não Me Enganas \(feat\. Ivandro & Nayr Faquira\)](https://open.spotify.com/track/6ghsknvRAMqCFmGlSfC7Tv) | [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Nayr Faquirá](https://open.spotify.com/artist/04UMTpKorelINdwYKsM9Tb) | [+ do Mesmo \- Parte 1](https://open.spotify.com/album/7DDasmVvLny9kVzO8AV3bD) | 4:48 | 2022-07-07 |  |
 | [Não Se Apaga](https://open.spotify.com/track/0LiKroEN7hpEbN7rhhPOR6) | [Dengaz](https://open.spotify.com/artist/4nT1hsAySSK78ycor1bVn0) | [Não Se Apaga](https://open.spotify.com/album/7hbucpKi4oPK6OxIY8MVoi) | 2:55 | 2022-07-21 |  |
 | [O Rosto Que Pintei](https://open.spotify.com/track/0cx5OGK0zwSrDucutxkxfT) | [DAYARAH](https://open.spotify.com/artist/0fAUWeQDp5d0fRfou2S55A) | [O Rosto Que Pintei](https://open.spotify.com/album/2oHx8LfFDgehTt0mursfCv) | 2:55 | 2022-07-07 | 2022-07-26 |
+| [Party](https://open.spotify.com/track/40jZDYCY0sTWYKWiB9sEZc) | [Octávio Cabuata](https://open.spotify.com/artist/1ic894GVX50YRMFUpuHrTQ), [Tennaz](https://open.spotify.com/artist/4rRsJzI4T5Q7LhNDUVAXmN) | [Party](https://open.spotify.com/album/4DGHUpkVXKS8O4bukjK46Y) | 2:42 | 2022-08-18 |  |
 | [Party Hard](https://open.spotify.com/track/3x1lrn6EKBSM6yRXQwgzQX) | [Cali John](https://open.spotify.com/artist/44LkKBh5Gk5KLl2C7jIl7I), [Dj Black Spygo](https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY) | [Party Hard](https://open.spotify.com/album/4UNhQRsBuhMbw5dL2C62Eo) | 3:36 | 2022-07-07 | 2022-08-05 |
 | [Por Enquanto](https://open.spotify.com/track/5fjD0vHh9XRL6b657FWe9C) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Por Enquanto](https://open.spotify.com/album/1uFTodamqWqlk5KwYkqy0n) | 2:22 | 2022-07-07 |  |
 | [PRA MIM](https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [PRA MIM](https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ) | 2:33 | 2022-07-07 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Rock that was on repeat during the summers of the 1970s.",
-  "num_followers": 20317,
+  "num_followers": 20327,
   "original_name": "70s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Mzk0MjI4OCwwMDAwMDAwMDcyYTUxYmFkMjFhNTBiOTJjYjdhODFhZGU0MGE0Yzg2",
+  "snapshot_id": "MTY1Mzk0MjI4OCwwMDAwMDAwMGJjZWFmNDFkZDg5NTNiNzRlNWM4MjYxZTE5YmNlNjll",
   "tracks": [
     {
       "added_at": "2021-04-09 06:45:34",
@@ -153,22 +153,6 @@
       "url": "https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU"
     },
     {
-      "added_at": "2022-04-08 19:40:07",
-      "album": {
-        "name": "Pronounced' Leh-'Nerd 'Skin-'Nerd",
-        "url": "https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs"
-      },
-      "artists": [
-        {
-          "name": "Lynyrd Skynyrd",
-          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
-        }
-      ],
-      "duration_ms": 547106,
-      "name": "Free Bird",
-      "url": "https://open.spotify.com/track/5EWPGh7jbTNO2wakv8LjUI"
-    },
-    {
       "added_at": "2021-04-09 06:45:34",
       "album": {
         "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
@@ -183,6 +167,22 @@
       "duration_ms": 254293,
       "name": "Starman - 2012 Remaster",
       "url": "https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq"
+    },
+    {
+      "added_at": "2022-04-08 19:40:07",
+      "album": {
+        "name": "Pronounced' Leh-'Nerd 'Skin-'Nerd",
+        "url": "https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs"
+      },
+      "artists": [
+        {
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+        }
+      ],
+      "duration_ms": 547106,
+      "name": "Free Bird",
+      "url": "https://open.spotify.com/track/5EWPGh7jbTNO2wakv8LjUI"
     },
     {
       "added_at": "2021-04-09 06:45:34",
@@ -235,22 +235,6 @@
     {
       "added_at": "2021-04-09 06:45:34",
       "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 223613,
-      "name": "Go Your Own Way - 2004 Remaster",
-      "url": "https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa"
-    },
-    {
-      "added_at": "2021-04-09 06:45:34",
-      "album": {
         "name": "Stranger In Town",
         "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
       },
@@ -283,6 +267,22 @@
     {
       "added_at": "2021-04-09 06:45:34",
       "album": {
+        "name": "Some Girls",
+        "url": "https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 265173,
+      "name": "Beast Of Burden - Remastered 1994",
+      "url": "https://open.spotify.com/track/77oU2rjC5XbjQfNe3bD6so"
+    },
+    {
+      "added_at": "2021-04-09 06:45:34",
+      "album": {
         "name": "Toys In The Attic",
         "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
       },
@@ -299,18 +299,18 @@
     {
       "added_at": "2021-04-09 06:45:34",
       "album": {
-        "name": "Some Girls",
-        "url": "https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS"
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
       },
       "artists": [
         {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 265173,
-      "name": "Beast Of Burden - Remastered 1994",
-      "url": "https://open.spotify.com/track/77oU2rjC5XbjQfNe3bD6so"
+      "duration_ms": 223613,
+      "name": "Go Your Own Way - 2004 Remaster",
+      "url": "https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa"
     },
     {
       "added_at": "2021-04-09 06:45:34",
@@ -347,22 +347,6 @@
     {
       "added_at": "2021-04-09 06:45:34",
       "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 193346,
-      "name": "Don't Stop - 2004 Remaster",
-      "url": "https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO"
-    },
-    {
-      "added_at": "2021-04-09 06:45:34",
-      "album": {
         "name": "The Dark Side of the Moon",
         "url": "https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 382834,
       "name": "Money",
       "url": "https://open.spotify.com/track/0vFOzaXqZHahrZp6enQwQb"
+    },
+    {
+      "added_at": "2021-04-09 06:45:34",
+      "album": {
+        "name": "The Captain and Me",
+        "url": "https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt"
+      },
+      "artists": [
+        {
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+        }
+      ],
+      "duration_ms": 207266,
+      "name": "Long Train Runnin'",
+      "url": "https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP"
     },
     {
       "added_at": "2022-04-08 19:40:07",
@@ -395,18 +395,34 @@
     {
       "added_at": "2021-04-09 06:45:34",
       "album": {
-        "name": "The Captain and Me",
-        "url": "https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt"
+        "name": "One of These Nights (2013 Remaster)",
+        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
       },
       "artists": [
         {
-          "name": "The Doobie Brothers",
-          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
         }
       ],
-      "duration_ms": 207266,
-      "name": "Long Train Runnin'",
-      "url": "https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP"
+      "duration_ms": 291685,
+      "name": "One of These Nights - 2013 Remaster",
+      "url": "https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF"
+    },
+    {
+      "added_at": "2021-04-09 06:45:34",
+      "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 193346,
+      "name": "Don't Stop - 2004 Remaster",
+      "url": "https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO"
     },
     {
       "added_at": "2022-05-30 20:24:48",
@@ -427,22 +443,6 @@
     {
       "added_at": "2021-04-09 06:45:34",
       "album": {
-        "name": "One of These Nights (2013 Remaster)",
-        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 291685,
-      "name": "One of These Nights - 2013 Remaster",
-      "url": "https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF"
-    },
-    {
-      "added_at": "2021-04-09 06:45:34",
-      "album": {
         "name": "Band On The Run (Standard)",
         "url": "https://open.spotify.com/album/257oomaawruFknt5wYCPDh"
       },
@@ -455,6 +455,22 @@
       "duration_ms": 313026,
       "name": "Band On The Run - Remastered 2010",
       "url": "https://open.spotify.com/track/1H4idkmruFoJBg1DvUv2tY"
+    },
+    {
+      "added_at": "2021-04-09 06:45:34",
+      "album": {
+        "name": "Hunky Dory (2015 Remaster)",
+        "url": "https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 235986,
+      "name": "Life on Mars? - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N"
     },
     {
       "added_at": "2021-04-09 06:45:34",
@@ -475,18 +491,34 @@
     {
       "added_at": "2021-04-09 06:45:34",
       "album": {
-        "name": "Hunky Dory (2015 Remaster)",
-        "url": "https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l"
+        "name": "Breakfast In America (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
       },
       "artists": [
         {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
         }
       ],
-      "duration_ms": 235986,
-      "name": "Life on Mars? - 2015 Remaster",
-      "url": "https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N"
+      "duration_ms": 159346,
+      "name": "Breakfast In America - 2010 Remastered",
+      "url": "https://open.spotify.com/track/4a5pNRjwmzYQuEY1E7O6pj"
+    },
+    {
+      "added_at": "2021-04-09 06:45:34",
+      "album": {
+        "name": "The Dark Side of the Moon",
+        "url": "https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "duration_ms": 413947,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/3TO7bbrUKrOSPGRTB5MeCz"
     },
     {
       "added_at": "2021-04-09 06:45:34",
@@ -523,38 +555,6 @@
     {
       "added_at": "2021-04-09 06:45:34",
       "album": {
-        "name": "The Dark Side of the Moon",
-        "url": "https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv"
-      },
-      "artists": [
-        {
-          "name": "Pink Floyd",
-          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
-        }
-      ],
-      "duration_ms": 413947,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/3TO7bbrUKrOSPGRTB5MeCz"
-    },
-    {
-      "added_at": "2021-04-09 06:45:34",
-      "album": {
-        "name": "Breakfast In America (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
-      },
-      "artists": [
-        {
-          "name": "Supertramp",
-          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
-        }
-      ],
-      "duration_ms": 159346,
-      "name": "Breakfast In America - 2010 Remastered",
-      "url": "https://open.spotify.com/track/4a5pNRjwmzYQuEY1E7O6pj"
-    },
-    {
-      "added_at": "2021-04-09 06:45:34",
-      "album": {
         "name": "School's Out",
         "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
       },
@@ -587,22 +587,6 @@
     {
       "added_at": "2021-04-09 06:45:34",
       "album": {
-        "name": "Cosmo's Factory (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 161466,
-      "name": "Up Around The Bend",
-      "url": "https://open.spotify.com/track/36gPq8WG7tDxrblyGVUCiT"
-    },
-    {
-      "added_at": "2021-04-09 06:45:34",
-      "album": {
         "name": "Fly Like An Eagle",
         "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 170173,
       "name": "Take The Money And Run",
       "url": "https://open.spotify.com/track/1ZhrREyOOeFV6TxDOyiPwu"
+    },
+    {
+      "added_at": "2021-04-09 06:45:34",
+      "album": {
+        "name": "Cosmo's Factory (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 161466,
+      "name": "Up Around The Bend",
+      "url": "https://open.spotify.com/track/36gPq8WG7tDxrblyGVUCiT"
     },
     {
       "added_at": "2021-04-09 06:45:34",
@@ -667,22 +667,6 @@
     {
       "added_at": "2021-04-09 06:45:34",
       "album": {
-        "name": "Who's Next (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 511400,
-      "name": "Won't Get Fooled Again - Original Album Version",
-      "url": "https://open.spotify.com/track/0cJPLFrlV7TTCyPLupHzcH"
-    },
-    {
-      "added_at": "2021-04-09 06:45:34",
-      "album": {
         "name": "Fandango! (Expanded 2006 Remaster)",
         "url": "https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 137933,
       "name": "Tush - 2006 Remaster",
       "url": "https://open.spotify.com/track/6zGDIDjfDkPyNxrEERO3XG"
+    },
+    {
+      "added_at": "2021-04-09 06:45:34",
+      "album": {
+        "name": "Who's Next (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 511400,
+      "name": "Won't Get Fooled Again - Original Album Version",
+      "url": "https://open.spotify.com/track/0cJPLFrlV7TTCyPLupHzcH"
     },
     {
       "added_at": "2022-04-08 19:40:07",
@@ -859,6 +859,22 @@
     {
       "added_at": "2021-04-09 06:45:34",
       "album": {
+        "name": "L.A. Woman",
+        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 198466,
+      "name": "Love Her Madly",
+      "url": "https://open.spotify.com/track/3MFFDRC4wTN9JNGtzXsZlN"
+    },
+    {
+      "added_at": "2021-04-09 06:45:34",
+      "album": {
         "name": "Electric Warrior [Expanded & Remastered]",
         "url": "https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 271093,
       "name": "Rikki Don't Lose That Number",
       "url": "https://open.spotify.com/track/18a9EGG4xhRELv7bgAw5hb"
-    },
-    {
-      "added_at": "2021-04-09 06:45:34",
-      "album": {
-        "name": "L.A. Woman",
-        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 198466,
-      "name": "Love Her Madly",
-      "url": "https://open.spotify.com/track/3MFFDRC4wTN9JNGtzXsZlN"
     },
     {
       "added_at": "2022-04-08 19:40:07",
@@ -969,22 +969,6 @@
       "url": "https://open.spotify.com/track/2eDdFHgqNJltzlvlZFVDWd"
     },
     {
-      "added_at": "2021-04-09 06:45:34",
-      "album": {
-        "name": "Double Vision (Expanded)",
-        "url": "https://open.spotify.com/album/6lu6DYE0eHHp1gd3QGUYhu"
-      },
-      "artists": [
-        {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
-        }
-      ],
-      "duration_ms": 268693,
-      "name": "Hot Blooded",
-      "url": "https://open.spotify.com/track/6xMHglHoafdDFGXS6qfwSH"
-    },
-    {
       "added_at": "2022-04-08 19:40:07",
       "album": {
         "name": "Bad Reputation (Expanded Edition)",
@@ -999,6 +983,22 @@
       "duration_ms": 204653,
       "name": "Dancing In The Moonlight (It's Caught Me In It's Spotlight)",
       "url": "https://open.spotify.com/track/6BmzbaB08O0FjHXeS0cR5b"
+    },
+    {
+      "added_at": "2021-04-09 06:45:34",
+      "album": {
+        "name": "Double Vision (Expanded)",
+        "url": "https://open.spotify.com/album/6lu6DYE0eHHp1gd3QGUYhu"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "duration_ms": 268693,
+      "name": "Hot Blooded",
+      "url": "https://open.spotify.com/track/6xMHglHoafdDFGXS6qfwSH"
     },
     {
       "added_at": "2021-04-09 06:45:34",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2021-04-09 06:45:34",
       "album": {
+        "name": "Songs Of Yesterday",
+        "url": "https://open.spotify.com/album/1V3HZsFh7CaYBQLA1af5CK"
+      },
+      "artists": [
+        {
+          "name": "Free",
+          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
+        }
+      ],
+      "duration_ms": 208933,
+      "name": "All Right Now",
+      "url": "https://open.spotify.com/track/5Yuvfj0aCUvWE01bnMWtjV"
+    },
+    {
+      "added_at": "2021-04-09 06:45:34",
+      "album": {
         "name": "Desolation Angels (2009 Remaster)",
         "url": "https://open.spotify.com/album/1yNIJqbC4vSPFcc8mKEWZp"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 280360,
       "name": "Back In the Saddle",
       "url": "https://open.spotify.com/track/0ZGLuduCPjgWY1n85ykgMe"
-    },
-    {
-      "added_at": "2021-04-09 06:45:34",
-      "album": {
-        "name": "Songs Of Yesterday",
-        "url": "https://open.spotify.com/album/1V3HZsFh7CaYBQLA1af5CK"
-      },
-      "artists": [
-        {
-          "name": "Free",
-          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
-        }
-      ],
-      "duration_ms": 208933,
-      "name": "All Right Now",
-      "url": "https://open.spotify.com/track/5Yuvfj0aCUvWE01bnMWtjV"
     },
     {
       "added_at": "2022-04-08 19:40:07",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2021-04-09 06:45:34",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Free",
-        "url": "https://open.spotify.com/album/0y1k7yzTo230VF9VPZhV1k"
-      },
-      "artists": [
-        {
-          "name": "Free",
-          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
-        }
-      ],
-      "duration_ms": 334000,
-      "name": "All Right Now",
-      "url": "https://open.spotify.com/track/2ZMEdXxVSRfMshCDBMjt0o"
-    },
-    {
-      "added_at": "2021-04-09 06:45:34",
-      "album": {
         "name": "Rattus Norvegicus",
         "url": "https://open.spotify.com/album/38lyLeszq1p2sck1lB53dq"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 245493,
       "name": "Peaches - 1996 Remaster",
       "url": "https://open.spotify.com/track/71Y7sPJm0DpCix0fHaAlhI"
+    },
+    {
+      "added_at": "2021-04-09 06:45:34",
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of Free",
+        "url": "https://open.spotify.com/album/0y1k7yzTo230VF9VPZhV1k"
+      },
+      "artists": [
+        {
+          "name": "Free",
+          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
+        }
+      ],
+      "duration_ms": 334000,
+      "name": "All Right Now",
+      "url": "https://open.spotify.com/track/2ZMEdXxVSRfMshCDBMjt0o"
     },
     {
       "added_at": "2021-04-09 06:45:34",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2021-04-09 06:45:34",
       "album": {
-        "name": "Suzi Quatro",
-        "url": "https://open.spotify.com/album/63KpMsxh6E1WJPcDeT2GH4"
-      },
-      "artists": [
-        {
-          "name": "Suzi Quatro",
-          "url": "https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ"
-        }
-      ],
-      "duration_ms": 233413,
-      "name": "48 Crash",
-      "url": "https://open.spotify.com/track/5mgZHaDo0dyTByF8pWu8Sj"
-    },
-    {
-      "added_at": "2021-04-09 06:45:34",
-      "album": {
         "name": "The Slider",
         "url": "https://open.spotify.com/album/5lL8N073N1d9ENpzM9Wtj5"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 302333,
       "name": "See My Baby Jive - 2006 Remaster",
       "url": "https://open.spotify.com/track/6cg3CWWHTui9KAew9dHIjT"
+    },
+    {
+      "added_at": "2021-04-09 06:45:34",
+      "album": {
+        "name": "Suzi Quatro",
+        "url": "https://open.spotify.com/album/63KpMsxh6E1WJPcDeT2GH4"
+      },
+      "artists": [
+        {
+          "name": "Suzi Quatro",
+          "url": "https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ"
+        }
+      ],
+      "duration_ms": 233413,
+      "name": "48 Crash",
+      "url": "https://open.spotify.com/track/5mgZHaDo0dyTByF8pWu8Sj"
     },
     {
       "added_at": "2021-04-09 06:45:34",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2021-04-09 06:45:34",
       "album": {
-        "name": "Dandy In The Underworld",
-        "url": "https://open.spotify.com/album/5aEVv5sSzit1hQVF5ASVKO"
-      },
-      "artists": [
-        {
-          "name": "T. Rex",
-          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
-        }
-      ],
-      "duration_ms": 135666,
-      "name": "I Love To Boogie",
-      "url": "https://open.spotify.com/track/7dc8lqKS2P4Zq59g0yThvH"
-    },
-    {
-      "added_at": "2021-04-09 06:45:34",
-      "album": {
         "name": "Best Of Sweet",
         "url": "https://open.spotify.com/album/7I5IWDrFPKeqhRSnd6QrXG"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 195533,
       "name": "Little Willy",
       "url": "https://open.spotify.com/track/5l7WMtIUfX4D2XsHYOp4zV"
+    },
+    {
+      "added_at": "2021-04-09 06:45:34",
+      "album": {
+        "name": "Dandy In The Underworld",
+        "url": "https://open.spotify.com/album/5aEVv5sSzit1hQVF5ASVKO"
+      },
+      "artists": [
+        {
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        }
+      ],
+      "duration_ms": 135666,
+      "name": "I Love To Boogie",
+      "url": "https://open.spotify.com/track/7dc8lqKS2P4Zq59g0yThvH"
     }
   ],
   "unique_name": "70s Summer Rock",

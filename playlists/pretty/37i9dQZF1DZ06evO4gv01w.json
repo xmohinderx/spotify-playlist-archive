@@ -1,15 +1,15 @@
 {
   "description": "This is Larkin Poe. The essential tracks, all in one playlist.",
-  "num_followers": 16204,
+  "num_followers": 16212,
   "original_name": "This Is Larkin Poe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc2OTQ5NzksMDAwMDAwMDA5YjVjNzA3Njg0MjIxZmVjODdjZWFjMmE1Y2U3MDEzZA==",
+  "snapshot_id": "Mjc2OTYzMzMsMDAwMDAwMDAzM2JiNjU5OTExMTM5YWU4MThkY2IwMThkZDcxNTBlYg==",
   "tracks": [
     {
-      "added_at": "2022-08-28 14:59:48",
+      "added_at": "2022-08-29 13:33:40",
       "album": {
         "name": "Holy Ghost Fire",
         "url": "https://open.spotify.com/album/4VBgT5PAWX8PmnDSvqbdht"
@@ -25,39 +25,7 @@
       "url": "https://open.spotify.com/track/3VuJi1qJ2gcL7XHjEJZuga"
     },
     {
-      "added_at": "2022-08-28 14:59:48",
-      "album": {
-        "name": "Fly Away",
-        "url": "https://open.spotify.com/album/4bEqT3WEG6xMGuHs5XPEbr"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 210989,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/1exxuu9LFRjU12jZFmYjc5"
-    },
-    {
-      "added_at": "2022-08-28 14:59:48",
-      "album": {
-        "name": "Venom & Faith",
-        "url": "https://open.spotify.com/album/4XflGGrR7ASWoMNVfy7txI"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 193444,
-      "name": "Bleach Blonde Bottle Blues",
-      "url": "https://open.spotify.com/track/087pkHhO4DtAZ3AzFtNZGo"
-    },
-    {
-      "added_at": "2022-08-28 14:59:48",
+      "added_at": "2022-08-29 13:33:40",
       "album": {
         "name": "Peach",
         "url": "https://open.spotify.com/album/0rvaC10w4nAe8NT8y2Zuwl"
@@ -73,7 +41,71 @@
       "url": "https://open.spotify.com/track/2oVDBaesJPlOsvr3FmRIFW"
     },
     {
-      "added_at": "2022-08-28 14:59:48",
+      "added_at": "2022-08-29 13:33:40",
+      "album": {
+        "name": "Venom & Faith",
+        "url": "https://open.spotify.com/album/4XflGGrR7ASWoMNVfy7txI"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 193444,
+      "name": "Bleach Blonde Bottle Blues",
+      "url": "https://open.spotify.com/track/087pkHhO4DtAZ3AzFtNZGo"
+    },
+    {
+      "added_at": "2022-08-29 13:33:40",
+      "album": {
+        "name": "Self Made Man",
+        "url": "https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 147588,
+      "name": "Danger Angel",
+      "url": "https://open.spotify.com/track/237ishmZPMHE8IZoMW5ARi"
+    },
+    {
+      "added_at": "2022-08-29 13:33:40",
+      "album": {
+        "name": "Fly Away",
+        "url": "https://open.spotify.com/album/4bEqT3WEG6xMGuHs5XPEbr"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 210989,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/1exxuu9LFRjU12jZFmYjc5"
+    },
+    {
+      "added_at": "2022-08-29 13:33:40",
+      "album": {
+        "name": "Peach",
+        "url": "https://open.spotify.com/album/0rvaC10w4nAe8NT8y2Zuwl"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 164106,
+      "name": "Black Betty",
+      "url": "https://open.spotify.com/track/14b07Oyy41Y243WaJJivSO"
+    },
+    {
+      "added_at": "2022-08-29 13:33:40",
       "album": {
         "name": "Kindred Spirits",
         "url": "https://open.spotify.com/album/31HGWFxU5AgjAoMZH1t5ft"
@@ -84,28 +116,12 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 220941,
-      "name": "Nights In White Satin",
-      "url": "https://open.spotify.com/track/5VuqRSDZ2qjA13Ngu8PDo0"
+      "duration_ms": 201526,
+      "name": "In The Air Tonight",
+      "url": "https://open.spotify.com/track/6FuMaMKyjOqSnpIu89M1UU"
     },
     {
-      "added_at": "2022-08-28 14:59:48",
-      "album": {
-        "name": "Georgia Off My Mind",
-        "url": "https://open.spotify.com/album/7oUCaDFalrYoXSNFASHgOl"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 234211,
-      "name": "Georgia off My Mind",
-      "url": "https://open.spotify.com/track/2FB5zzkM1KLBMPZ0il54lF"
-    },
-    {
-      "added_at": "2022-08-28 14:59:48",
+      "added_at": "2022-08-29 13:33:40",
       "album": {
         "name": "Venom & Faith",
         "url": "https://open.spotify.com/album/4XflGGrR7ASWoMNVfy7txI"
@@ -125,10 +141,10 @@
       "url": "https://open.spotify.com/track/0JsQSLUInJGc5RmWAOBs9p"
     },
     {
-      "added_at": "2022-08-28 14:59:48",
+      "added_at": "2022-08-29 13:33:40",
       "album": {
-        "name": "Peach",
-        "url": "https://open.spotify.com/album/0rvaC10w4nAe8NT8y2Zuwl"
+        "name": "Georgia Off My Mind",
+        "url": "https://open.spotify.com/album/7oUCaDFalrYoXSNFASHgOl"
       },
       "artists": [
         {
@@ -136,60 +152,12 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 164106,
-      "name": "Black Betty",
-      "url": "https://open.spotify.com/track/14b07Oyy41Y243WaJJivSO"
+      "duration_ms": 234211,
+      "name": "Georgia off My Mind",
+      "url": "https://open.spotify.com/track/2FB5zzkM1KLBMPZ0il54lF"
     },
     {
-      "added_at": "2022-08-28 14:59:48",
-      "album": {
-        "name": "Self Made Man",
-        "url": "https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 147588,
-      "name": "Danger Angel",
-      "url": "https://open.spotify.com/track/237ishmZPMHE8IZoMW5ARi"
-    },
-    {
-      "added_at": "2022-08-28 14:59:48",
-      "album": {
-        "name": "Reskinned",
-        "url": "https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 222733,
-      "name": "Trouble in Mind",
-      "url": "https://open.spotify.com/track/0e3ElMapLJIe0uIchrFVBt"
-    },
-    {
-      "added_at": "2022-08-28 14:59:48",
-      "album": {
-        "name": "Kindred Spirits",
-        "url": "https://open.spotify.com/album/31HGWFxU5AgjAoMZH1t5ft"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 201526,
-      "name": "In The Air Tonight",
-      "url": "https://open.spotify.com/track/6FuMaMKyjOqSnpIu89M1UU"
-    },
-    {
-      "added_at": "2022-08-28 14:59:48",
+      "added_at": "2022-08-29 13:33:40",
       "album": {
         "name": "She's A Self Made Man",
         "url": "https://open.spotify.com/album/6dzXBWjuzGjI5TQxJWBh7G"
@@ -205,7 +173,23 @@
       "url": "https://open.spotify.com/track/7Bu4ET2R5zKAeqM68l3Oqk"
     },
     {
-      "added_at": "2022-08-28 14:59:48",
+      "added_at": "2022-08-29 13:33:40",
+      "album": {
+        "name": "Reskinned",
+        "url": "https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 222733,
+      "name": "Trouble in Mind",
+      "url": "https://open.spotify.com/track/0e3ElMapLJIe0uIchrFVBt"
+    },
+    {
+      "added_at": "2022-08-29 13:33:40",
       "album": {
         "name": "Bad Spell",
         "url": "https://open.spotify.com/album/2h7ZuJxpRNLE2B2FQwSIuq"
@@ -221,7 +205,23 @@
       "url": "https://open.spotify.com/track/5cHukuRapWJdAY6EitrL2C"
     },
     {
-      "added_at": "2022-08-28 14:59:48",
+      "added_at": "2022-08-29 13:33:40",
+      "album": {
+        "name": "Kindred Spirits",
+        "url": "https://open.spotify.com/album/31HGWFxU5AgjAoMZH1t5ft"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 220941,
+      "name": "Nights In White Satin",
+      "url": "https://open.spotify.com/track/5VuqRSDZ2qjA13Ngu8PDo0"
+    },
+    {
+      "added_at": "2022-08-29 13:33:40",
       "album": {
         "name": "Self Made Man",
         "url": "https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP"
@@ -241,7 +241,7 @@
       "url": "https://open.spotify.com/track/3eAwGZfTnsKwE7k7OexXu7"
     },
     {
-      "added_at": "2022-08-28 14:59:48",
+      "added_at": "2022-08-29 13:33:40",
       "album": {
         "name": "Peach",
         "url": "https://open.spotify.com/album/0rvaC10w4nAe8NT8y2Zuwl"
@@ -257,71 +257,7 @@
       "url": "https://open.spotify.com/track/579GL5nioUg1vxV1ilSFRR"
     },
     {
-      "added_at": "2022-08-28 14:59:48",
-      "album": {
-        "name": "Blood Harmony",
-        "url": "https://open.spotify.com/album/3oghxFoXbe6RZup0thSLiz"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 245889,
-      "name": "Blood Harmony",
-      "url": "https://open.spotify.com/track/4O1FoNb9yC3B7Ts3KOMWt2"
-    },
-    {
-      "added_at": "2022-08-28 14:59:48",
-      "album": {
-        "name": "Kindred Spirits",
-        "url": "https://open.spotify.com/album/31HGWFxU5AgjAoMZH1t5ft"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 221613,
-      "name": "Bell Bottom Blues",
-      "url": "https://open.spotify.com/track/4rt1XgXMAoCT97MhMj8bou"
-    },
-    {
-      "added_at": "2022-08-28 14:59:48",
-      "album": {
-        "name": "Self Made Man",
-        "url": "https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 193389,
-      "name": "Keep Diggin\u2019",
-      "url": "https://open.spotify.com/track/2wD0XO7uJWtwdp7p3U1YwI"
-    },
-    {
-      "added_at": "2022-08-28 14:59:48",
-      "album": {
-        "name": "Kin",
-        "url": "https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 184173,
-      "name": "Don't",
-      "url": "https://open.spotify.com/track/53gcrsL88v3wfNiNqTZpxt"
-    },
-    {
-      "added_at": "2022-08-28 14:59:48",
+      "added_at": "2022-08-29 13:33:40",
       "album": {
         "name": "Venom & Faith",
         "url": "https://open.spotify.com/album/4XflGGrR7ASWoMNVfy7txI"
@@ -337,7 +273,71 @@
       "url": "https://open.spotify.com/track/32EakGEjZPjasCLjHN5ktx"
     },
     {
-      "added_at": "2022-08-28 14:59:48",
+      "added_at": "2022-08-29 13:33:40",
+      "album": {
+        "name": "Blood Harmony",
+        "url": "https://open.spotify.com/album/3oghxFoXbe6RZup0thSLiz"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 245889,
+      "name": "Blood Harmony",
+      "url": "https://open.spotify.com/track/4O1FoNb9yC3B7Ts3KOMWt2"
+    },
+    {
+      "added_at": "2022-08-29 13:33:40",
+      "album": {
+        "name": "Self Made Man",
+        "url": "https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 193389,
+      "name": "Keep Diggin\u2019",
+      "url": "https://open.spotify.com/track/2wD0XO7uJWtwdp7p3U1YwI"
+    },
+    {
+      "added_at": "2022-08-29 13:33:40",
+      "album": {
+        "name": "Kindred Spirits",
+        "url": "https://open.spotify.com/album/31HGWFxU5AgjAoMZH1t5ft"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 254258,
+      "name": "Rockin\u2019 In The Free World",
+      "url": "https://open.spotify.com/track/5PcXOrBmMkQ1iY77Hp7CXb"
+    },
+    {
+      "added_at": "2022-08-29 13:33:40",
+      "album": {
+        "name": "Kin",
+        "url": "https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 184173,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/53gcrsL88v3wfNiNqTZpxt"
+    },
+    {
+      "added_at": "2022-08-29 13:33:40",
       "album": {
         "name": "Peach",
         "url": "https://open.spotify.com/album/0rvaC10w4nAe8NT8y2Zuwl"
@@ -353,7 +353,7 @@
       "url": "https://open.spotify.com/track/1Ozg06SCQcx6yBoIie8Xo7"
     },
     {
-      "added_at": "2022-08-28 14:59:48",
+      "added_at": "2022-08-29 13:33:40",
       "album": {
         "name": "Self Made Man",
         "url": "https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP"
@@ -369,7 +369,7 @@
       "url": "https://open.spotify.com/track/1JbHMSiZowEjVrRhXh3XjZ"
     },
     {
-      "added_at": "2022-08-28 14:59:48",
+      "added_at": "2022-08-29 13:33:40",
       "album": {
         "name": "I Shall Be Released (feat. Larkin Poe)",
         "url": "https://open.spotify.com/album/21WX3fvuUwoP0k7GQo5NAo"
@@ -389,7 +389,7 @@
       "url": "https://open.spotify.com/track/6w6ZTXBkcf4JurAR0ruRU5"
     },
     {
-      "added_at": "2022-08-28 14:59:48",
+      "added_at": "2022-08-29 13:33:40",
       "album": {
         "name": "Kindred Spirits",
         "url": "https://open.spotify.com/album/31HGWFxU5AgjAoMZH1t5ft"
@@ -400,12 +400,12 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 254258,
-      "name": "Rockin\u2019 In The Free World",
-      "url": "https://open.spotify.com/track/5PcXOrBmMkQ1iY77Hp7CXb"
+      "duration_ms": 221613,
+      "name": "Bell Bottom Blues",
+      "url": "https://open.spotify.com/track/4rt1XgXMAoCT97MhMj8bou"
     },
     {
-      "added_at": "2022-08-28 14:59:48",
+      "added_at": "2022-08-29 13:33:40",
       "album": {
         "name": "Peach",
         "url": "https://open.spotify.com/album/0rvaC10w4nAe8NT8y2Zuwl"
@@ -421,10 +421,10 @@
       "url": "https://open.spotify.com/track/3Fs7ryKbs2I90v1BCYWet0"
     },
     {
-      "added_at": "2022-08-28 14:59:48",
+      "added_at": "2022-08-29 13:33:40",
       "album": {
-        "name": "Self Made Man",
-        "url": "https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP"
+        "name": "Kin",
+        "url": "https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92"
       },
       "artists": [
         {
@@ -432,12 +432,12 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 192351,
-      "name": "Tears Of Blue To Gold",
-      "url": "https://open.spotify.com/track/1Pcj2cc5mMvIUfZ7HgfHaD"
+      "duration_ms": 190306,
+      "name": "Crown of Fire",
+      "url": "https://open.spotify.com/track/3KVficEsEWertaGcY4r5ij"
     },
     {
-      "added_at": "2022-08-28 14:59:48",
+      "added_at": "2022-08-29 13:33:40",
       "album": {
         "name": "Venom & Faith",
         "url": "https://open.spotify.com/album/4XflGGrR7ASWoMNVfy7txI"
@@ -453,39 +453,7 @@
       "url": "https://open.spotify.com/track/2rtAiRiVR7flLVl1SDnNEF"
     },
     {
-      "added_at": "2022-08-28 14:59:48",
-      "album": {
-        "name": "Kindred Spirits",
-        "url": "https://open.spotify.com/album/31HGWFxU5AgjAoMZH1t5ft"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 179368,
-      "name": "Take What You Want",
-      "url": "https://open.spotify.com/track/7yzGHEaHdojlhWejgqwmkX"
-    },
-    {
-      "added_at": "2022-08-28 14:59:48",
-      "album": {
-        "name": "Spring",
-        "url": "https://open.spotify.com/album/39T4bgcPVXPhJorYSvErpp"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 228920,
-      "name": "To Myself",
-      "url": "https://open.spotify.com/track/69e8OlPGNV0yAZlOjbbsRy"
-    },
-    {
-      "added_at": "2022-08-28 14:59:48",
+      "added_at": "2022-08-29 13:33:40",
       "album": {
         "name": "Self Made Man",
         "url": "https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP"
@@ -496,60 +464,12 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 164340,
-      "name": "God Moves On The Water",
-      "url": "https://open.spotify.com/track/7nn5dN7SAEsHkxITB9Kki6"
+      "duration_ms": 192351,
+      "name": "Tears Of Blue To Gold",
+      "url": "https://open.spotify.com/track/1Pcj2cc5mMvIUfZ7HgfHaD"
     },
     {
-      "added_at": "2022-08-28 14:59:48",
-      "album": {
-        "name": "Reskinned",
-        "url": "https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 209720,
-      "name": "When God Closes a Door",
-      "url": "https://open.spotify.com/track/2wYVL5QawLgPamUCw87TQw"
-    },
-    {
-      "added_at": "2022-08-28 14:59:48",
-      "album": {
-        "name": "Venom & Faith",
-        "url": "https://open.spotify.com/album/4XflGGrR7ASWoMNVfy7txI"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 193063,
-      "name": "Hard Time Killing Floor Blues",
-      "url": "https://open.spotify.com/track/1zhltGZlmgZ2MAs5DZQD2q"
-    },
-    {
-      "added_at": "2022-08-28 14:59:48",
-      "album": {
-        "name": "Kin",
-        "url": "https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 228360,
-      "name": "Jailbreak",
-      "url": "https://open.spotify.com/track/1AHc7OT7yz3BY9IDDAVD4i"
-    },
-    {
-      "added_at": "2022-08-28 14:59:48",
+      "added_at": "2022-08-29 13:33:40",
       "album": {
         "name": "Peach",
         "url": "https://open.spotify.com/album/0rvaC10w4nAe8NT8y2Zuwl"
@@ -565,7 +485,39 @@
       "url": "https://open.spotify.com/track/73bHNhi5S8ms9XHJLEXbIn"
     },
     {
-      "added_at": "2022-08-28 14:59:48",
+      "added_at": "2022-08-29 13:33:40",
+      "album": {
+        "name": "Reskinned",
+        "url": "https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 209720,
+      "name": "When God Closes a Door",
+      "url": "https://open.spotify.com/track/2wYVL5QawLgPamUCw87TQw"
+    },
+    {
+      "added_at": "2022-08-29 13:33:40",
+      "album": {
+        "name": "Venom & Faith",
+        "url": "https://open.spotify.com/album/4XflGGrR7ASWoMNVfy7txI"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 193063,
+      "name": "Hard Time Killing Floor Blues",
+      "url": "https://open.spotify.com/track/1zhltGZlmgZ2MAs5DZQD2q"
+    },
+    {
+      "added_at": "2022-08-29 13:33:40",
       "album": {
         "name": "Paint The Roses (Live In Concert)",
         "url": "https://open.spotify.com/album/2rIe2vSV47OAhOBLNtCWmu"
@@ -585,107 +537,7 @@
       "url": "https://open.spotify.com/track/0on0Y3tC9iHoPGYPBoJgFY"
     },
     {
-      "added_at": "2022-08-28 14:59:48",
-      "album": {
-        "name": "Venom & Faith",
-        "url": "https://open.spotify.com/album/4XflGGrR7ASWoMNVfy7txI"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 213948,
-      "name": "Ain't Gonna Cry",
-      "url": "https://open.spotify.com/track/25YCqSHWQ98M6zo2qmF5RM"
-    },
-    {
-      "added_at": "2022-08-28 14:59:48",
-      "album": {
-        "name": "Reskinned",
-        "url": "https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 210040,
-      "name": "Sucker Puncher",
-      "url": "https://open.spotify.com/track/5RXqnZB37wzll5IPQLcBX4"
-    },
-    {
-      "added_at": "2022-08-28 14:59:48",
-      "album": {
-        "name": "The Sound of the Ocean Sound",
-        "url": "https://open.spotify.com/album/1R7itsLluYqsOGTDVVEeaV"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        },
-        {
-          "name": "Thom Hell",
-          "url": "https://open.spotify.com/artist/3KwfPMspVY0W2KRZLJqfWW"
-        }
-      ],
-      "duration_ms": 260493,
-      "name": "Shoulder to Shoulder",
-      "url": "https://open.spotify.com/track/2sEgt5bf7TT0FZK7l61Jnz"
-    },
-    {
-      "added_at": "2022-08-28 14:59:48",
-      "album": {
-        "name": "Kin",
-        "url": "https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 214800,
-      "name": "Banks of Allatoona",
-      "url": "https://open.spotify.com/track/1OQdBEEJHy4ALJxjzEz5ZI"
-    },
-    {
-      "added_at": "2022-08-28 14:59:48",
-      "album": {
-        "name": "Kindred Spirits",
-        "url": "https://open.spotify.com/album/31HGWFxU5AgjAoMZH1t5ft"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 163706,
-      "name": "Ramblin\u2019 Man",
-      "url": "https://open.spotify.com/track/259VJcGmSfzWzyR9sWxqTm"
-    },
-    {
-      "added_at": "2022-08-28 14:59:48",
-      "album": {
-        "name": "Reskinned",
-        "url": "https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 204426,
-      "name": "Blunt",
-      "url": "https://open.spotify.com/track/22KxHFvbIk1r3N5gK7Q5vD"
-    },
-    {
-      "added_at": "2022-08-28 14:59:48",
+      "added_at": "2022-08-29 13:33:40",
       "album": {
         "name": "The Sound of the Ocean Sound",
         "url": "https://open.spotify.com/album/1R7itsLluYqsOGTDVVEeaV"
@@ -705,10 +557,10 @@
       "url": "https://open.spotify.com/track/3qBOQ0NdjQyTUHJLhTv70H"
     },
     {
-      "added_at": "2022-08-28 14:59:48",
+      "added_at": "2022-08-29 13:33:40",
       "album": {
-        "name": "Kin",
-        "url": "https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92"
+        "name": "Self Made Man",
+        "url": "https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP"
       },
       "artists": [
         {
@@ -716,15 +568,15 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 190306,
-      "name": "Crown of Fire",
-      "url": "https://open.spotify.com/track/3KVficEsEWertaGcY4r5ij"
+      "duration_ms": 164340,
+      "name": "God Moves On The Water",
+      "url": "https://open.spotify.com/track/7nn5dN7SAEsHkxITB9Kki6"
     },
     {
-      "added_at": "2022-08-28 14:59:48",
+      "added_at": "2022-08-29 13:33:40",
       "album": {
-        "name": "Larkin Poe on Audiotree Live",
-        "url": "https://open.spotify.com/album/0OiEBU03Rq4OxtXL2M6VEy"
+        "name": "Venom & Faith",
+        "url": "https://open.spotify.com/album/4XflGGrR7ASWoMNVfy7txI"
       },
       "artists": [
         {
@@ -732,15 +584,15 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 211529,
-      "name": "Run for Your Money - Audiotree Live Version",
-      "url": "https://open.spotify.com/track/4FpDCiB4kVfrADT50s6GXq"
+      "duration_ms": 171256,
+      "name": "Blue Ridge Mountains",
+      "url": "https://open.spotify.com/track/0X6wrG9bGZl5mz8Af6AaC7"
     },
     {
-      "added_at": "2022-08-28 14:59:48",
+      "added_at": "2022-08-29 13:33:40",
       "album": {
-        "name": "Reskinned",
-        "url": "https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo"
+        "name": "Spring",
+        "url": "https://open.spotify.com/album/39T4bgcPVXPhJorYSvErpp"
       },
       "artists": [
         {
@@ -748,12 +600,12 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 203266,
-      "name": "P-R-O-B-L-E-M",
-      "url": "https://open.spotify.com/track/39H4oaLj3DgbkFmFSY76fY"
+      "duration_ms": 228920,
+      "name": "To Myself",
+      "url": "https://open.spotify.com/track/69e8OlPGNV0yAZlOjbbsRy"
     },
     {
-      "added_at": "2022-08-28 14:59:48",
+      "added_at": "2022-08-29 13:33:40",
       "album": {
         "name": "The Sound of the Ocean Sound",
         "url": "https://open.spotify.com/album/1R7itsLluYqsOGTDVVEeaV"
@@ -773,7 +625,23 @@
       "url": "https://open.spotify.com/track/7HPmVh2X2DWWyNUQJbszzN"
     },
     {
-      "added_at": "2022-08-28 14:59:48",
+      "added_at": "2022-08-29 13:33:40",
+      "album": {
+        "name": "Reskinned",
+        "url": "https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 210040,
+      "name": "Sucker Puncher",
+      "url": "https://open.spotify.com/track/5RXqnZB37wzll5IPQLcBX4"
+    },
+    {
+      "added_at": "2022-08-29 13:33:40",
       "album": {
         "name": "Kin",
         "url": "https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92"
@@ -784,12 +652,48 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 189453,
-      "name": "Sugar High",
-      "url": "https://open.spotify.com/track/2wSZEb1pCkYoZn0jJs0CGd"
+      "duration_ms": 228360,
+      "name": "Jailbreak",
+      "url": "https://open.spotify.com/track/1AHc7OT7yz3BY9IDDAVD4i"
     },
     {
-      "added_at": "2022-08-28 14:59:48",
+      "added_at": "2022-08-29 13:33:40",
+      "album": {
+        "name": "Kindred Spirits",
+        "url": "https://open.spotify.com/album/31HGWFxU5AgjAoMZH1t5ft"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 163706,
+      "name": "Ramblin\u2019 Man",
+      "url": "https://open.spotify.com/track/259VJcGmSfzWzyR9sWxqTm"
+    },
+    {
+      "added_at": "2022-08-29 13:33:40",
+      "album": {
+        "name": "The Sound of the Ocean Sound",
+        "url": "https://open.spotify.com/album/1R7itsLluYqsOGTDVVEeaV"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        },
+        {
+          "name": "Thom Hell",
+          "url": "https://open.spotify.com/artist/3KwfPMspVY0W2KRZLJqfWW"
+        }
+      ],
+      "duration_ms": 260493,
+      "name": "Shoulder to Shoulder",
+      "url": "https://open.spotify.com/track/2sEgt5bf7TT0FZK7l61Jnz"
+    },
+    {
+      "added_at": "2022-08-29 13:33:40",
       "album": {
         "name": "Larkin Poe on Audiotree Live",
         "url": "https://open.spotify.com/album/0OiEBU03Rq4OxtXL2M6VEy"
@@ -805,7 +709,87 @@
       "url": "https://open.spotify.com/track/6xRzcMt6n6rRENi85kreGF"
     },
     {
-      "added_at": "2022-08-28 14:59:48",
+      "added_at": "2022-08-29 13:33:40",
+      "album": {
+        "name": "Kin",
+        "url": "https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 189453,
+      "name": "Sugar High",
+      "url": "https://open.spotify.com/track/2wSZEb1pCkYoZn0jJs0CGd"
+    },
+    {
+      "added_at": "2022-08-29 13:33:40",
+      "album": {
+        "name": "Kindred Spirits",
+        "url": "https://open.spotify.com/album/31HGWFxU5AgjAoMZH1t5ft"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 179368,
+      "name": "Take What You Want",
+      "url": "https://open.spotify.com/track/7yzGHEaHdojlhWejgqwmkX"
+    },
+    {
+      "added_at": "2022-08-29 13:33:40",
+      "album": {
+        "name": "Reskinned",
+        "url": "https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 204426,
+      "name": "Blunt",
+      "url": "https://open.spotify.com/track/22KxHFvbIk1r3N5gK7Q5vD"
+    },
+    {
+      "added_at": "2022-08-29 13:33:40",
+      "album": {
+        "name": "Larkin Poe on Audiotree Live",
+        "url": "https://open.spotify.com/album/0OiEBU03Rq4OxtXL2M6VEy"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 211529,
+      "name": "Run for Your Money - Audiotree Live Version",
+      "url": "https://open.spotify.com/track/4FpDCiB4kVfrADT50s6GXq"
+    },
+    {
+      "added_at": "2022-08-29 13:33:40",
+      "album": {
+        "name": "Kin",
+        "url": "https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 209400,
+      "name": "Elephant",
+      "url": "https://open.spotify.com/track/19UCWFnyGHSE3DOOtdFPGn"
+    },
+    {
+      "added_at": "2022-08-29 13:33:40",
       "album": {
         "name": "Co-Starring",
         "url": "https://open.spotify.com/album/4vRwOE5KE82xb6n9uQi8ET"
@@ -825,7 +809,23 @@
       "url": "https://open.spotify.com/track/4dfRbmnFnT5yjjqHJ4mcdM"
     },
     {
-      "added_at": "2022-08-28 14:59:48",
+      "added_at": "2022-08-29 13:33:40",
+      "album": {
+        "name": "Reskinned",
+        "url": "https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 203266,
+      "name": "P-R-O-B-L-E-M",
+      "url": "https://open.spotify.com/track/39H4oaLj3DgbkFmFSY76fY"
+    },
+    {
+      "added_at": "2022-08-29 13:33:40",
       "album": {
         "name": "Kin",
         "url": "https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92"
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 209400,
-      "name": "Elephant",
-      "url": "https://open.spotify.com/track/19UCWFnyGHSE3DOOtdFPGn"
+      "duration_ms": 214800,
+      "name": "Banks of Allatoona",
+      "url": "https://open.spotify.com/track/1OQdBEEJHy4ALJxjzEz5ZI"
     }
   ],
   "unique_name": "This Is Larkin Poe",

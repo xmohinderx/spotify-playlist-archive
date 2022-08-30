@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 44479,
+  "num_followers": 44606,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDk2ODA2MCwwMDAwMDAwMDcxMzkxMGVmYzA5OGViMzg2YWE2MDE0NGU5YTBmZThi",
+  "snapshot_id": "MTY2MDk2ODA2MCwwMDAwMDAwMGFjNjA0YjBiNWJjMjQ4YjYwMTU4MmE0MWYxNWY1ZGU3",
   "tracks": [
     {
       "added_at": "2022-08-20 04:01:00",
@@ -547,6 +547,22 @@
     {
       "added_at": "2022-08-20 04:01:00",
       "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT"
+      },
+      "artists": [
+        {
+          "name": "La Bionda",
+          "url": "https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i"
+        }
+      ],
+      "duration_ms": 193893,
+      "name": "I Wanna Be Your Lover",
+      "url": "https://open.spotify.com/track/3LYvtDZSTCQv9WrUv15vyZ"
+    },
+    {
+      "added_at": "2022-08-20 04:01:00",
+      "album": {
         "name": "Barbara e altri Carella",
         "url": "https://open.spotify.com/album/21F0EWtwLcajf9MFKn1Tdo"
       },
@@ -559,6 +575,22 @@
       "duration_ms": 246293,
       "name": "Barbara",
       "url": "https://open.spotify.com/track/7vJs8fgxF2ONlzaIApPadv"
+    },
+    {
+      "added_at": "2022-08-20 04:01:00",
+      "album": {
+        "name": "The Hits Collection",
+        "url": "https://open.spotify.com/album/3KTH5Tquwf5kOkHA1KeQam"
+      },
+      "artists": [
+        {
+          "name": "Fun Fun",
+          "url": "https://open.spotify.com/artist/44NpcgfV0tBVBVNzmtUBhZ"
+        }
+      ],
+      "duration_ms": 246106,
+      "name": "Color My Love",
+      "url": "https://open.spotify.com/track/5zjZoxnYK6stTB2AxL0Fzp"
     },
     {
       "added_at": "2022-08-20 04:01:00",
@@ -595,22 +627,6 @@
     {
       "added_at": "2022-08-20 04:01:00",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT"
-      },
-      "artists": [
-        {
-          "name": "La Bionda",
-          "url": "https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i"
-        }
-      ],
-      "duration_ms": 193893,
-      "name": "I Wanna Be Your Lover",
-      "url": "https://open.spotify.com/track/3LYvtDZSTCQv9WrUv15vyZ"
-    },
-    {
-      "added_at": "2022-08-20 04:01:00",
-      "album": {
         "name": "I Need You Tonight / Tonight",
         "url": "https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 390127,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/6CTv5qKVvkxsvSRQfC6SjO"
-    },
-    {
-      "added_at": "2022-08-20 04:01:00",
-      "album": {
-        "name": "The Hits Collection",
-        "url": "https://open.spotify.com/album/3KTH5Tquwf5kOkHA1KeQam"
-      },
-      "artists": [
-        {
-          "name": "Fun Fun",
-          "url": "https://open.spotify.com/artist/44NpcgfV0tBVBVNzmtUBhZ"
-        }
-      ],
-      "duration_ms": 246106,
-      "name": "Color My Love",
-      "url": "https://open.spotify.com/track/5zjZoxnYK6stTB2AxL0Fzp"
     },
     {
       "added_at": "2022-08-20 04:01:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-08-20 04:01:00",
       "album": {
-        "name": "Challenger",
-        "url": "https://open.spotify.com/album/6EnJDtzIBJPRrlk0bn4QT1"
-      },
-      "artists": [
-        {
-          "name": "Babys Gang",
-          "url": "https://open.spotify.com/artist/3py6y6epZngSnsCHnCwQ7O"
-        }
-      ],
-      "duration_ms": 337733,
-      "name": "Happy Song(Clap Your Hands) (Remix)",
-      "url": "https://open.spotify.com/track/55QIoPBxFXVUydOz1OzB9B"
-    },
-    {
-      "added_at": "2022-08-20 04:01:00",
-      "album": {
         "name": "Eyes (2020 Remaster)",
         "url": "https://open.spotify.com/album/7mYiIebqgkhpysEFzboxIz"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 398733,
       "name": "Eyes - Prod. by Roberto Ferrante - 2020 Remaster",
       "url": "https://open.spotify.com/track/6nLXnqhVpNLiL41uImEvJM"
+    },
+    {
+      "added_at": "2022-08-20 04:01:00",
+      "album": {
+        "name": "Challenger",
+        "url": "https://open.spotify.com/album/6EnJDtzIBJPRrlk0bn4QT1"
+      },
+      "artists": [
+        {
+          "name": "Babys Gang",
+          "url": "https://open.spotify.com/artist/3py6y6epZngSnsCHnCwQ7O"
+        }
+      ],
+      "duration_ms": 337733,
+      "name": "Happy Song(Clap Your Hands) (Remix)",
+      "url": "https://open.spotify.com/track/55QIoPBxFXVUydOz1OzB9B"
     },
     {
       "added_at": "2022-08-20 04:01:00",
@@ -795,18 +795,18 @@
     {
       "added_at": "2022-08-20 04:01:00",
       "album": {
-        "name": "Disco Modernism (1983 - 2008)",
-        "url": "https://open.spotify.com/album/3DHgoo06BHHdHvtCBG9GJu"
+        "name": "Disco Fizz (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7Bq1EVEcBfVDP7rUQn10gk"
       },
       "artists": [
         {
-          "name": "Fred Ventura",
-          "url": "https://open.spotify.com/artist/4wJf9Xnypopb0m96Up3xtC"
+          "name": "Azoto",
+          "url": "https://open.spotify.com/artist/6vjdSVEAtbHLzrVbyLeGVn"
         }
       ],
-      "duration_ms": 371920,
-      "name": "Wind of Change",
-      "url": "https://open.spotify.com/track/3tqKM37OIFWC2ZOBakamr1"
+      "duration_ms": 185748,
+      "name": "San Salvador - Single Version",
+      "url": "https://open.spotify.com/track/1bbKMyqOonDvx4DWGowoMD"
     },
     {
       "added_at": "2022-08-20 04:01:00",
@@ -827,18 +827,18 @@
     {
       "added_at": "2022-08-20 04:01:00",
       "album": {
-        "name": "Disco Fizz (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7Bq1EVEcBfVDP7rUQn10gk"
+        "name": "Disco Modernism (1983 - 2008)",
+        "url": "https://open.spotify.com/album/3DHgoo06BHHdHvtCBG9GJu"
       },
       "artists": [
         {
-          "name": "Azoto",
-          "url": "https://open.spotify.com/artist/6vjdSVEAtbHLzrVbyLeGVn"
+          "name": "Fred Ventura",
+          "url": "https://open.spotify.com/artist/4wJf9Xnypopb0m96Up3xtC"
         }
       ],
-      "duration_ms": 185748,
-      "name": "San Salvador - Single Version",
-      "url": "https://open.spotify.com/track/1bbKMyqOonDvx4DWGowoMD"
+      "duration_ms": 371920,
+      "name": "Wind of Change",
+      "url": "https://open.spotify.com/track/3tqKM37OIFWC2ZOBakamr1"
     },
     {
       "added_at": "2022-08-20 04:01:00",
@@ -999,6 +999,26 @@
     {
       "added_at": "2022-08-20 04:01:00",
       "album": {
+        "name": "Under the Ice - Single",
+        "url": "https://open.spotify.com/album/3vMFalOaP1bCRm8HVFQOAk"
+      },
+      "artists": [
+        {
+          "name": "Topo",
+          "url": "https://open.spotify.com/artist/3atWGSgG787Lwz2HRvOsc3"
+        },
+        {
+          "name": "Roby",
+          "url": "https://open.spotify.com/artist/6GuBfLWCyZnUatyVaOQLX2"
+        }
+      ],
+      "duration_ms": 432404,
+      "name": "Under the Ice - Original 12 Inch Version",
+      "url": "https://open.spotify.com/track/2ue8ttSzbhnvhO7zc52NjC"
+    },
+    {
+      "added_at": "2022-08-20 04:01:00",
+      "album": {
         "name": "Future Disco: Visions of Love",
         "url": "https://open.spotify.com/album/2d2vxkPozwy5AIjqLnslJ4"
       },
@@ -1063,26 +1083,6 @@
     {
       "added_at": "2022-08-20 04:01:00",
       "album": {
-        "name": "Under the Ice - Single",
-        "url": "https://open.spotify.com/album/3vMFalOaP1bCRm8HVFQOAk"
-      },
-      "artists": [
-        {
-          "name": "Topo",
-          "url": "https://open.spotify.com/artist/3atWGSgG787Lwz2HRvOsc3"
-        },
-        {
-          "name": "Roby",
-          "url": "https://open.spotify.com/artist/6GuBfLWCyZnUatyVaOQLX2"
-        }
-      ],
-      "duration_ms": 432404,
-      "name": "Under the Ice - Original 12 Inch Version",
-      "url": "https://open.spotify.com/track/2ue8ttSzbhnvhO7zc52NjC"
-    },
-    {
-      "added_at": "2022-08-20 04:01:00",
-      "album": {
         "name": "Dancing on Townsquare",
         "url": "https://open.spotify.com/album/6gAB9n1Aa5DzJTuoeeBl7c"
       },
@@ -1095,22 +1095,6 @@
       "duration_ms": 210186,
       "name": "Il Veliero - Single Version",
       "url": "https://open.spotify.com/track/26u2CgXp9Qr0MtcEBWi2gv"
-    },
-    {
-      "added_at": "2022-08-20 04:01:00",
-      "album": {
-        "name": "Bambina c/o Bye Bye Mi Amor",
-        "url": "https://open.spotify.com/album/1fA8zx1Var0vhNP2uqMfcb"
-      },
-      "artists": [
-        {
-          "name": "David Lyme",
-          "url": "https://open.spotify.com/artist/7dkuwtOl8Y2O2fcWy1vtV1"
-        }
-      ],
-      "duration_ms": 331200,
-      "name": "Bambina (Original 12-Inch Version)",
-      "url": "https://open.spotify.com/track/4x4Ip4xOCRGIBNsts7GUBD"
     },
     {
       "added_at": "2022-08-20 04:01:00",
@@ -1131,6 +1115,22 @@
     {
       "added_at": "2022-08-20 04:01:00",
       "album": {
+        "name": "Bambina c/o Bye Bye Mi Amor",
+        "url": "https://open.spotify.com/album/1fA8zx1Var0vhNP2uqMfcb"
+      },
+      "artists": [
+        {
+          "name": "David Lyme",
+          "url": "https://open.spotify.com/artist/7dkuwtOl8Y2O2fcWy1vtV1"
+        }
+      ],
+      "duration_ms": 331200,
+      "name": "Bambina (Original 12-Inch Version)",
+      "url": "https://open.spotify.com/track/4x4Ip4xOCRGIBNsts7GUBD"
+    },
+    {
+      "added_at": "2022-08-20 04:01:00",
+      "album": {
         "name": "Caf\u00e8",
         "url": "https://open.spotify.com/album/1vv5SsVv82uIMDMme0ow28"
       },
@@ -1143,6 +1143,54 @@
       "duration_ms": 393773,
       "name": "Caf\u00e8 - Original 1979 Version",
       "url": "https://open.spotify.com/track/6bKOUB4zXxYFhG4a3x6JGZ"
+    },
+    {
+      "added_at": "2022-08-20 04:01:00",
+      "album": {
+        "name": "Pictures Old Days (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0jkXKoPmkFNE1mmRfvVpMt"
+      },
+      "artists": [
+        {
+          "name": "Scotch",
+          "url": "https://open.spotify.com/artist/7ECGnAVeg7U3WRPMjpJa9n"
+        }
+      ],
+      "duration_ms": 237013,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/0M2A5PBGMk0x0M2lrCZGsO"
+    },
+    {
+      "added_at": "2022-08-20 04:01:00",
+      "album": {
+        "name": "The Night (Original Remastered Version 2020)",
+        "url": "https://open.spotify.com/album/1Pf3wvHZSx6L3PTjEQNsZc"
+      },
+      "artists": [
+        {
+          "name": "Valerie Dore",
+          "url": "https://open.spotify.com/artist/6IwjxNTPn0EMh4U855D3qs"
+        }
+      ],
+      "duration_ms": 376621,
+      "name": "The Night - Original Remastered Version 2020",
+      "url": "https://open.spotify.com/track/4IKfk28YxL7xHOflgt3tr4"
+    },
+    {
+      "added_at": "2022-08-20 04:01:00",
+      "album": {
+        "name": "Italian Dance",
+        "url": "https://open.spotify.com/album/64cl4El2FwAO60rDuUxg33"
+      },
+      "artists": [
+        {
+          "name": "Gepy & Gepy",
+          "url": "https://open.spotify.com/artist/09FocFgY6iQKkQB91QPK5o"
+        }
+      ],
+      "duration_ms": 192866,
+      "name": "Body to Body",
+      "url": "https://open.spotify.com/track/75nh9TRQMQubdiK82BYdwL"
     },
     {
       "added_at": "2022-08-20 04:01:00",
@@ -1167,54 +1215,6 @@
     {
       "added_at": "2022-08-20 04:01:00",
       "album": {
-        "name": "Pictures Old Days (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0jkXKoPmkFNE1mmRfvVpMt"
-      },
-      "artists": [
-        {
-          "name": "Scotch",
-          "url": "https://open.spotify.com/artist/7ECGnAVeg7U3WRPMjpJa9n"
-        }
-      ],
-      "duration_ms": 237013,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/0M2A5PBGMk0x0M2lrCZGsO"
-    },
-    {
-      "added_at": "2022-08-20 04:01:00",
-      "album": {
-        "name": "Italian Dance",
-        "url": "https://open.spotify.com/album/64cl4El2FwAO60rDuUxg33"
-      },
-      "artists": [
-        {
-          "name": "Gepy & Gepy",
-          "url": "https://open.spotify.com/artist/09FocFgY6iQKkQB91QPK5o"
-        }
-      ],
-      "duration_ms": 192866,
-      "name": "Body to Body",
-      "url": "https://open.spotify.com/track/75nh9TRQMQubdiK82BYdwL"
-    },
-    {
-      "added_at": "2022-08-20 04:01:00",
-      "album": {
-        "name": "The Night (Original Remastered Version 2020)",
-        "url": "https://open.spotify.com/album/1Pf3wvHZSx6L3PTjEQNsZc"
-      },
-      "artists": [
-        {
-          "name": "Valerie Dore",
-          "url": "https://open.spotify.com/artist/6IwjxNTPn0EMh4U855D3qs"
-        }
-      ],
-      "duration_ms": 376621,
-      "name": "The Night - Original Remastered Version 2020",
-      "url": "https://open.spotify.com/track/4IKfk28YxL7xHOflgt3tr4"
-    },
-    {
-      "added_at": "2022-08-20 04:01:00",
-      "album": {
         "name": "Baby I Love You (Original) - Single",
         "url": "https://open.spotify.com/album/7LZpZKT1adV23tV8AJe44U"
       },
@@ -1227,22 +1227,6 @@
       "duration_ms": 503920,
       "name": "Baby I Love You",
       "url": "https://open.spotify.com/track/0GpbUTVkLhMb200mH8WBOW"
-    },
-    {
-      "added_at": "2022-08-20 04:01:00",
-      "album": {
-        "name": "Italo Disco - Essential Italian Disco Classics 1977-1985",
-        "url": "https://open.spotify.com/album/3ppNURvPDfACGhKHa3EAnA"
-      },
-      "artists": [
-        {
-          "name": "Gepy",
-          "url": "https://open.spotify.com/artist/1BDX9PXYrNeqP1gJPhZmZB"
-        }
-      ],
-      "duration_ms": 404247,
-      "name": "African Love Song",
-      "url": "https://open.spotify.com/track/2YqvhES7UxrkgvuP0tRz8m"
     },
     {
       "added_at": "2022-08-20 04:01:00",
@@ -1275,6 +1259,22 @@
       "duration_ms": 428946,
       "name": "Orient Express - Vocal",
       "url": "https://open.spotify.com/track/75Qt3OvjyUmOtEO3TpX7qV"
+    },
+    {
+      "added_at": "2022-08-20 04:01:00",
+      "album": {
+        "name": "Italo Disco - Essential Italian Disco Classics 1977-1985",
+        "url": "https://open.spotify.com/album/3ppNURvPDfACGhKHa3EAnA"
+      },
+      "artists": [
+        {
+          "name": "Gepy",
+          "url": "https://open.spotify.com/artist/1BDX9PXYrNeqP1gJPhZmZB"
+        }
+      ],
+      "duration_ms": 404247,
+      "name": "African Love Song",
+      "url": "https://open.spotify.com/track/2YqvhES7UxrkgvuP0tRz8m"
     },
     {
       "added_at": "2022-08-20 04:01:00",

@@ -4,7 +4,7 @@
 
 > Lo mejor del rock de aquí, como Jarabe de Palo.
 
-165 songs - 11 hr 14 min - [published](https://open.spotify.com/playlist/4AGuLAzZtz0hNpibnA51bn)
+166 songs - 11 hr 17 min - [published](https://open.spotify.com/playlist/4AGuLAzZtz0hNpibnA51bn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Bombero](https://open.spotify.com/track/4NwStwtcE02Rh64H4o3t9o) | [CHUS](https://open.spotify.com/artist/03Ti07lMY1vSVctkbIADLG) | [Bombero](https://open.spotify.com/album/5WJlH2OtY2ySr7brpJNffm) | 2:21 | 2022-06-24 | 2022-07-08 |
 | [Buscando en la basura](https://open.spotify.com/track/46Yp4JsZIh8ceg5WBqW1ZB) | [La Fuga](https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc) | [Negociando gasolina](https://open.spotify.com/album/1hCwejZJomHEdOP7sZmGUR) | 3:28 | 2022-05-26 |  |
 | [Busco Mi Sitio](https://open.spotify.com/track/3BIDS59HKFKR2SwRrSChsS) | [La Regadera](https://open.spotify.com/artist/6qO2fx56JkdCirbByg3Gko) | [Busco Mi Sitio](https://open.spotify.com/album/2pLyVi8jlhrbdXKvwmAUj3) | 3:18 | 2022-06-16 | 2022-07-08 |
-| [Caballos salvajes](https://open.spotify.com/track/7cFRBZUGXbVxrRhb5T2d7v) | [Sidecars](https://open.spotify.com/artist/1OxGzd3ks0V8CVWtXT1VMj) | [Caballos salvajes](https://open.spotify.com/album/2tEQxiD3EsLyRSduTqYyJN) | 4:41 | 2022-07-21 |  |
+| [Caballos salvajes](https://open.spotify.com/track/7cFRBZUGXbVxrRhb5T2d7v) | [Sidecars](https://open.spotify.com/artist/1OxGzd3ks0V8CVWtXT1VMj) | [Caballos salvajes](https://open.spotify.com/album/2tEQxiD3EsLyRSduTqYyJN) | 4:41 | 2022-07-21 | 2022-08-30 |
 | [Cada vez cadáver](https://open.spotify.com/track/5ZWAiGE89OaDTOwtRVngEe) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Cada vez cadáver](https://open.spotify.com/album/3It9KGCCGN7tJPVhc650Ru) | 5:37 | 2022-05-19 | 2022-07-29 |
 | [Cadillac solitario](https://open.spotify.com/track/3VNxbWlw9oVvxSnSbeiCBb) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Rock & Roll Star \- 30 años](https://open.spotify.com/album/24fPzeDiySM2lt3pvuLKGR) | 3:34 | 2022-05-19 |  |
 | [Calle Melancolía](https://open.spotify.com/track/3li6qqddV84LgSw9lgh0sG) | [Robe](https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK) | [Calle Melancolía](https://open.spotify.com/album/2RlCfIHnXz8h8sc76B8ACD) | 6:20 | 2022-05-26 | 2022-06-30 |
@@ -48,7 +48,7 @@
 | [Como un burro amarrado en la puerta del baile \- 2008 Remastered Version](https://open.spotify.com/track/6IMIx38wIqHoLTdGcBwyEC) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Las 100 mejores canciones del Pop Español, Vol\. 3](https://open.spotify.com/album/1gf951espzPzb9yxLsxP7T) | 3:38 | 2022-07-21 |  |
 | [Corazon de mimbre](https://open.spotify.com/track/6ScI1xf3RszISXvLGmitY3) | [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [Coces al Aire 1997\-2007](https://open.spotify.com/album/3mfnHHROaUAzdzmTZHI1YQ) | 5:37 | 2022-06-16 |  |
 | [Corazon de Tango](https://open.spotify.com/track/5Hep3JI0YhpNNpbcurrvSS) | [Doctor Deseo](https://open.spotify.com/artist/41h0P2FVHr6YTMfhjkrnhA) | [Fugitivos De Paraiso](https://open.spotify.com/album/07hX6jcfLjbSP2NtkpKRCk) | 3:51 | 2022-05-19 |  |
-| [Cruzando el paraíso](https://open.spotify.com/track/1i4IlPSIE1hDiAwVHyH2yp) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Balmoral](https://open.spotify.com/album/2KytedMiEQc7JbWZa2wTt7) | 4:58 | 2022-05-19 | 2022-08-19 |
+| [Cruzando el paraíso](https://open.spotify.com/track/1i4IlPSIE1hDiAwVHyH2yp) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Balmoral](https://open.spotify.com/album/2KytedMiEQc7JbWZa2wTt7) | 4:58 | 2022-05-19 |  |
 | [Cuando Brille el Sol](https://open.spotify.com/track/307jZeOmkkd7mKc7wgFglj) | [La Guardia](https://open.spotify.com/artist/5UYbCAN2H4Yr4f46tN5AeD) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 3:43 | 2022-05-26 |  |
 | [Dentro De La Ley](https://open.spotify.com/track/113AF9qdjqcBHaOABYca6S) | [Los Zigarros](https://open.spotify.com/artist/47U0TDHIE1H5t78HNVgR0M) | [A Todo Que Sí](https://open.spotify.com/album/7LXLPz8rJAGS1fxWVBSQjS) | 2:48 | 2022-05-19 | 2022-07-25 |
 | [Devil Came to Me](https://open.spotify.com/track/2Kmosqo7RmbvzziWLoy4gM) | [Dover](https://open.spotify.com/artist/5kdLOinhQnlSk4su7U6lyW) | [Devil Came to Me](https://open.spotify.com/album/31cccvot053zKCeLHnnic1) | 4:36 | 2022-07-21 |  |
@@ -102,6 +102,7 @@
 | [Lady Madrid](https://open.spotify.com/track/5NQw5WJwKRPaaSDHXD04Fs) | [Pereza](https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu) | [Aviones](https://open.spotify.com/album/5E2LBAl6sq7k4TdAPqSCMH) | 3:11 | 2022-07-21 |  |
 | [Las Flores](https://open.spotify.com/track/2pgdMqyq3byWFb2BGHUq4c) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [Las Flores](https://open.spotify.com/album/7ErRhhztsuwfajD1Ad15a2) | 4:07 | 2022-05-19 | 2022-06-10 |
 | [Lo difícil](https://open.spotify.com/track/78Tr4OatbnIyx9cwGp5vp1) | [Arco](https://open.spotify.com/artist/3HdW1zs4IHQSFa3gebmlGY) | [Uno](https://open.spotify.com/album/2Qjd3FONI5uY8A8BW5XcDl) | 3:08 | 2022-05-19 | 2022-07-29 |
+| [Lo que nunca te dije](https://open.spotify.com/track/2usK8iQmaHhP8xK4MDEiGY) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [Lo que nunca te dije](https://open.spotify.com/album/4DeVzia799oFvKCOLdwKID) | 2:40 | 2022-08-25 |  |
 | [Mala Vida](https://open.spotify.com/track/0UY0JLj9kxOlgF6FHogCmX) | [Mano Negra](https://open.spotify.com/artist/6jq7GptAwkoFiunDhZYqQ2) | [Patchanka](https://open.spotify.com/album/1i6RiKDCLS9KqgwfCQ1mRQ) | 2:54 | 2022-05-19 |  |
 | [Malas Noticias \(En Directo\)](https://open.spotify.com/track/0Z8d26MEynF542z5TIZGp7) | [Los Suaves](https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL), [Kutxi Romero](https://open.spotify.com/artist/3nFnQg8Kav6UMFFjQ1dspY) | [Malas Noticias \(En Directo\)](https://open.spotify.com/album/7rfiUVDE8q7b7YGbaVmjoY) | 3:24 | 2022-05-19 | 2022-06-17 |
 | [Manda Por Mí](https://open.spotify.com/track/5EzhL5zOgLLFx9Uo4YaG0t) | [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4) | [Mi Vida en Marte](https://open.spotify.com/album/6hOAD63p0gtDZ25wl7qGZ6) | 3:51 | 2022-05-19 | 2022-06-03 |
@@ -109,7 +110,7 @@
 | [Maneras de vivir \- Rosendo, Barricada y Aurora Beltrán directo 2008](https://open.spotify.com/track/3zgQxeKX6kj7Yrt5cRMxP3) | [Barricada](https://open.spotify.com/artist/5llr3wJl6JrJoHSJAR804R), [Rosendo](https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N) | [Otra noche sin dormir](https://open.spotify.com/album/753WFdgyz5M1h3ZQnSSQDL) | 4:42 | 2022-05-19 | 2022-07-28 |
 | [Mar adentro](https://open.spotify.com/track/1Oo6emBm60fXZJU2RCeWpH) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Mar No Cesa\- Edición Especial](https://open.spotify.com/album/1ybmfBatQowYBzowJxE74Y) | 4:01 | 2022-05-26 |  |
 | [Mar Antiguo \- En Directo](https://open.spotify.com/track/0kaXTiic9ZOOAxBc1cmO01) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Historia de una Banda \(En Directo\)](https://open.spotify.com/album/5yxWQnpSWZdXeiZ6YPOOlu) | 3:37 | 2022-06-30 |  |
-| [Masculino singular](https://open.spotify.com/track/52QD2RqoYu47mKA1gs4I3M) | [Rosendo](https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N) | [Veo Veo Mamoneo](https://open.spotify.com/album/7u66tmYVMMEgIRbSrvKNVI) | 4:03 | 2022-05-26 |  |
+| [Masculino singular](https://open.spotify.com/track/52QD2RqoYu47mKA1gs4I3M) | [Rosendo](https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N) | [Veo Veo Mamoneo](https://open.spotify.com/album/7u66tmYVMMEgIRbSrvKNVI) | 4:03 | 2022-05-26 | 2022-08-30 |
 | [Mañana](https://open.spotify.com/track/5aKA1rNc6fvBfa8m6grIos) | [Elefantes](https://open.spotify.com/artist/5ykyeZYA8wEGQ0WhhH8AKn) | [Mañana](https://open.spotify.com/album/1cmjNQAH15i7RZ8E71glVT) | 4:31 | 2022-06-02 | 2022-06-17 |
 | [Me equivocaría otra vez](https://open.spotify.com/track/5SMdW9cbM4wTMMPI8Ck08a) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Por la boca vive el pez](https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y) | 5:06 | 2022-05-19 |  |
 | [Me Quedo Contigo \(Si Me Das A Elegir\) \- Live Baïonarena](https://open.spotify.com/track/6u9GgwXbMs5jJlA29zGHu5) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Baïonarena \(Live\)](https://open.spotify.com/album/7i5eD0VAL2fdeUNO1IQBDj) | 4:48 | 2022-05-19 |  |

@@ -4,7 +4,7 @@
 
 > Listen to the women of AU & NZ at full volume\. Cover: Fazerdaze
 
-235 songs - 12 hr 51 min - [published](https://open.spotify.com/playlist/4PJNyPSll9BI9JEGTXEKxV)
+237 songs - 12 hr 58 min - [published](https://open.spotify.com/playlist/4PJNyPSll9BI9JEGTXEKxV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [Fight For Me](https://open.spotify.com/track/3Q5CNIOXwGVxkRvqDJBX3L) | [Barkaa](https://open.spotify.com/artist/7gGAAZB2j1TmXBwQYOQLwr), [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5) | [Blak Matriarchy](https://open.spotify.com/album/2mzKzKFYWgxSAy7tzXrUxY) | 3:02 | 2022-04-05 |  |
 | [Finest Quality](https://open.spotify.com/track/6WoUQDuKmRp0o08NBrSp1l) | [KYE](https://open.spotify.com/artist/7aD0vAhYP5JsPQPgrd76bp) | [Good Company \- EP](https://open.spotify.com/album/4yTvwbp957jWpDOSt2voOe) | 3:27 | 2022-04-05 |  |
 | [FLARE](https://open.spotify.com/track/16hxnA8hrQ7hT5cKzuRfUI) | [ASHWARYA](https://open.spotify.com/artist/4meOm0fRIyy8gmJ9QVpGpk) | [FLARE](https://open.spotify.com/album/3xTwXIBYS3w4LjFtIi7hIO) | 3:18 | 2022-02-03 | 2022-07-04 |
-| [Flood](https://open.spotify.com/track/5I9ZDKKGg6TTNHTeS6bJJc) | [Stella Donnelly](https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es) | [Flood](https://open.spotify.com/album/6HD4wqnJYMPX3v3guWqjG6) | 3:43 | 2022-07-31 |  |
+| [Flood](https://open.spotify.com/track/5I9ZDKKGg6TTNHTeS6bJJc) | [Stella Donnelly](https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es) | [Flood](https://open.spotify.com/album/6HD4wqnJYMPX3v3guWqjG6) | 3:43 | 2022-07-31 | 2022-08-30 |
+| [Flood](https://open.spotify.com/track/6WstYKyrp8qkVBNtpcvaO1) | [Stella Donnelly](https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es) | [Flood](https://open.spotify.com/album/3un2FDbZwuK5JidL4OFaTW) | 3:43 | 2022-07-31 |  |
 | [Foreign Obstacles](https://open.spotify.com/track/0h7dFugHT8mzD6BdfazMbC) | [Mvlholland](https://open.spotify.com/artist/1ETWowee1EG9irrWiKv7T9) | [Foreign Obstacles](https://open.spotify.com/album/4v5wgn29C8XXa1bcQlae35) | 3:47 | 2022-04-05 |  |
 | [Fuchsia](https://open.spotify.com/track/7ajZkDJdNaSW1sUfKw5eqs) | [Ngaiire](https://open.spotify.com/artist/0EMVeXueWGhcbbOvevDZPY) | [Fuchsia](https://open.spotify.com/album/2onOvDQi5KfgLHGMsxtd5f) | 3:24 | 2022-05-27 |  |
 | [Give It Hell](https://open.spotify.com/track/3HLfUZSknynfsgCRW9Tp2I) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Give It Hell](https://open.spotify.com/album/0nfZ5UQSjxfYF4MC5YFxC2) | 3:24 | 2022-02-03 | 2022-03-07 |
@@ -137,7 +138,8 @@
 | [Look Me In The Eyes](https://open.spotify.com/track/1kCKOjFILLIu0tlYJjBnPM) | [Bella Taylor Smith](https://open.spotify.com/artist/5KZN09Gq54DniaMMM7rKCQ) | [Look Me In The Eyes](https://open.spotify.com/album/7jdepYJ7EiTGVtrwtqz1mb) | 3:16 | 2022-04-05 | 2022-05-03 |
 | [Lose Myself](https://open.spotify.com/track/53luLYwmUbed7o5GyaapIo) | [Abby Wolfe](https://open.spotify.com/artist/3cawuvrU0C4K3p3trV7bPd) | [Lose Myself](https://open.spotify.com/album/6xebwTs10OktQp1jCuNpQ8) | 3:19 | 2022-02-03 | 2022-08-01 |
 | [Loser](https://open.spotify.com/track/0JGXmt0UISP8sttvwFvT76) | [Reyanna Maria](https://open.spotify.com/artist/7kRrkUEPgO3TRfAi7Gsw2i) | [Loser](https://open.spotify.com/album/1O1J9ZCRpjUfTVATGWoYUw) | 2:24 | 2022-02-03 |  |
-| [Love, Try Not To Let Go](https://open.spotify.com/track/7AfohcV7S7wKlDxunC251v) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Love, Try Not To Let Go](https://open.spotify.com/album/2AFqo1i5mkxgmDu5AofJJ6) | 3:43 | 2022-07-31 |  |
+| [Love, Try Not To Let Go](https://open.spotify.com/track/3deuNvlPWsdSSUmXt1xCG6) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/6TojjY9JPhsgR5U6r9g3ZC) | 3:43 | 2022-07-31 |  |
+| [Love, Try Not To Let Go](https://open.spotify.com/track/7AfohcV7S7wKlDxunC251v) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Love, Try Not To Let Go](https://open.spotify.com/album/2AFqo1i5mkxgmDu5AofJJ6) | 3:43 | 2022-07-31 | 2022-08-30 |
 | [Lover Be Brave](https://open.spotify.com/track/1jQIhBAiQjnHii3puL0NDL) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Ladder to the Moon](https://open.spotify.com/album/1o4oSjHsPdxJYurihyfI0i) | 3:15 | 2022-02-03 | 2022-07-04 |
 | [Mana\-Wā\-Hine](https://open.spotify.com/track/1fgAnaegajbOJ0MEy355jv) | [Anna Coddington](https://open.spotify.com/artist/0N4Wl36KNZ1bG2YelyeSlG) | [Mana\-Wā\-Hine](https://open.spotify.com/album/74NQaYnBRJzKlkfxJt8OAL) | 2:37 | 2022-02-03 | 2022-03-07 |
 | [Meet U Again](https://open.spotify.com/track/5olHyFqKwYuX4UNE1bHeBO) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [Meet U Again](https://open.spotify.com/album/3Wf8JA1DpgNWqFLJEItImP) | 2:35 | 2022-03-01 | 2022-05-28 |

@@ -622,6 +622,28 @@
     },
     {
       "album": {
+        "name": "Candela",
+        "url": "https://open.spotify.com/album/4ReNwrN1yAVgZl7xldnZZN"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Soler",
+          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
+        },
+        {
+          "name": "Nico Santos",
+          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147720,
+      "name": "Candela",
+      "url": "https://open.spotify.com/track/6iDf1hf6tSPIlLwnLZ5DUO"
+    },
+    {
+      "album": {
         "name": "Casualidad",
         "url": "https://open.spotify.com/album/2TMrMWOfJY01n2MRhANkWi"
       },
@@ -1351,7 +1373,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 141072,
       "name": "Guapetona",
       "url": "https://open.spotify.com/track/2TNXWnhVVDxC3Iyuo74mKS"

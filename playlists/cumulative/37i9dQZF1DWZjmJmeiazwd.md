@@ -4,7 +4,7 @@
 
 > Rock out while you game.
 
-396 songs - 23 hr 55 min - [published](https://open.spotify.com/playlist/4hjyqOv4pr58cwOYvnLuVE)
+397 songs - 23 hr 58 min - [published](https://open.spotify.com/playlist/4hjyqOv4pr58cwOYvnLuVE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -389,7 +389,8 @@
 | [Wild Horses](https://open.spotify.com/track/795gWShJqWUwxm3W6koQxg) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Wild Horses](https://open.spotify.com/album/5A0E0pI7SZOexTaL0B3ToI) | 3:13 | 2020-06-29 | 2022-04-20 |
 | [Wildfire \- LEC Version](https://open.spotify.com/track/0mCzRKDnu4ptPxnG28Gowz) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Wildfire](https://open.spotify.com/album/1EEFnTyINt6GLnTrNJH1zT) | 3:09 | 2022-01-14 | 2022-06-11 |
 | [Will Of The People](https://open.spotify.com/track/1bbyikfBqLFAMxzrAuGreh) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/3nJtclmCvKVlXMDV4uM5hV) | 3:18 | 2022-06-10 | 2022-07-29 |
-| [Will Of The People](https://open.spotify.com/track/3EDKy3jIiw1OJqqZcdOCxm) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/68J2rIUZze8X3hAa8ali4k) | 3:18 | 2022-07-28 |  |
+| [Will Of The People](https://open.spotify.com/track/2xO0NhSt9kzKBbNjNVixfC) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:18 | 2022-07-28 |  |
+| [Will Of The People](https://open.spotify.com/track/3EDKy3jIiw1OJqqZcdOCxm) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/68J2rIUZze8X3hAa8ali4k) | 3:18 | 2022-07-28 | 2022-08-30 |
 | [Wolves of Winter](https://open.spotify.com/track/276BiOUCz2cMLxAY8ERvEU) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Wolves of Winter](https://open.spotify.com/album/5P8cCo5waxwXloNB6eJ6EC) | 4:08 | 2020-06-29 | 2022-07-27 |
 | [Won’t Stand Down](https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Won’t Stand Down](https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS) | 3:29 | 2022-01-14 |  |
 | [Work](https://open.spotify.com/track/2u4fyu0QnU64T5euBxOHxZ) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Work](https://open.spotify.com/album/3deyZHgCqWH4hqbqVobQT1) | 3:54 | 2020-06-29 | 2022-07-29 |

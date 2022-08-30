@@ -7200,6 +7200,28 @@
     },
     {
       "album": {
+        "name": "Far Behind",
+        "url": "https://open.spotify.com/album/3k2AgNEkdykDDtt24qH9qP"
+      },
+      "artists": [
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234685,
+      "name": "Far Behind",
+      "url": "https://open.spotify.com/track/03nv4DOcmJMYdlJuKEO2x8"
+    },
+    {
+      "album": {
         "name": "Between Us",
         "url": "https://open.spotify.com/album/3BFj0MO4iiDBggZXcJ5k4D"
       },
@@ -17003,7 +17025,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 180000,
       "name": "One By One",
       "url": "https://open.spotify.com/track/4KWbK1q4wxaLRykcpy6tHK"
@@ -17539,7 +17561,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 194028,
       "name": "Ozon",
       "url": "https://open.spotify.com/track/0GK4ZRf8VCGhS9qtVSNjbj"
@@ -18545,6 +18567,28 @@
       "duration_ms": 354037,
       "name": "Rarely Pure, Never Simple - Club Edit",
       "url": "https://open.spotify.com/track/1vERMD4Q3l81FrpXOuSMvN"
+    },
+    {
+      "album": {
+        "name": "Raye",
+        "url": "https://open.spotify.com/album/55XutLIxmTUmwwFydXTBZ4"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290409,
+      "name": "Raye",
+      "url": "https://open.spotify.com/track/5tsVgtKdAfKGcVIcCHvyxe"
     },
     {
       "album": {

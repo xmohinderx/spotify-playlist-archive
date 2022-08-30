@@ -4,11 +4,11 @@
 
 > Todo el sonido indie de Chile\. Foto: Camila Moreno + Princesa Alba
 
-253 songs - 15 hr 26 min - [published](https://open.spotify.com/playlist/1gsuQWHZM7TnxSlSgVrIUw)
+254 songs - 15 hr 29 min - [published](https://open.spotify.com/playlist/1gsuQWHZM7TnxSlSgVrIUw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [200 Mph](https://open.spotify.com/track/6BvLzzz4ODMhfYtZY2BQR9) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [Traducciones](https://open.spotify.com/album/0aPvz0rCmRVUUWgPu11uem) | 2:13 | 2022-07-08 |  |
+| [200 Mph](https://open.spotify.com/track/6BvLzzz4ODMhfYtZY2BQR9) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [Traducciones](https://open.spotify.com/album/0aPvz0rCmRVUUWgPu11uem) | 2:13 | 2022-07-08 | 2022-08-30 |
 | [A Los Arboles \(feat\. Raag\)](https://open.spotify.com/track/2osY6sjuuMa3UYWWG2naiu) | [Valentina Marinkovic](https://open.spotify.com/artist/0XGcjQMRjxUa3QQxmxa4el), [Raag](https://open.spotify.com/artist/17TlDRAcjM6AW38ayDz5eF) | [Tejido](https://open.spotify.com/album/0DYNKGYbgS5EcX2sftjVgg) | 4:57 | 2022-04-15 | 2022-07-28 |
 | [A Toda Velocidad](https://open.spotify.com/track/556qCMc5Jvqc6i1NVMMJ5b) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [A Toda Velocidad](https://open.spotify.com/album/17mxHCWw5TEPMOhlxp1Pml) | 2:50 | 2022-04-15 |  |
 | [Abriendo Latidos](https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Abriendo Latidos](https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry) | 3:14 | 2022-04-15 |  |
@@ -140,6 +140,7 @@
 | [Maldita Primavera](https://open.spotify.com/track/72BwodBTqLkvm1pFqoBW6N) | [Javiera Parra](https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8), [Los Imposibles](https://open.spotify.com/artist/6znWM6UcbWBdTafliJGRgz) | [AM + bonus Tracks \(Edición Aniversario\)](https://open.spotify.com/album/4vGtwmxQqFEbG4FrGhuZel) | 3:45 | 2022-04-15 |  |
 | [Me Fuí a Caminar](https://open.spotify.com/track/6B7HKwT2sPj2XxmsslLbaS) | [Daniela Millaleo](https://open.spotify.com/artist/5t6HRqxLXUFgNXV4598nxz) | [Trafun](https://open.spotify.com/album/7pqYO0I8Jecb4hjJ7r0zTb) | 3:59 | 2022-04-15 | 2022-07-28 |
 | [Me Fuí a Caminar](https://open.spotify.com/track/1y4rKHGVBQ13OVFkjkH5Zp) | [Daniela Millaleo](https://open.spotify.com/artist/5t6HRqxLXUFgNXV4598nxz) | [Trafun](https://open.spotify.com/album/5pUXmmtKYOb0kPNXqB9HE0) | 3:59 | 2022-07-22 |  |
+| [Me Porto Bonito \- \(Post\-Punk\)](https://open.spotify.com/track/2xu9l5l3fm8noWonuDf3Cn) | [FrioLento](https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn) | [Me Porto Bonito \(Post\-Punk\)](https://open.spotify.com/album/6TFTyQvQ60ixcqoFM0VYqy) | 3:00 | 2022-08-26 |  |
 | [Me Puedo Morir](https://open.spotify.com/track/3nb9xSUUpEGdKuFtpgR91I) | [Juanita La O](https://open.spotify.com/artist/4E7BbNhnHWRifH0LUUsQoT) | [Me Puedo Morir](https://open.spotify.com/album/3BYhGn7oJWC1ML1Yvzp39c) | 4:04 | 2022-04-15 | 2022-08-04 |
 | [Mi Camino Es Apenas Una Huella](https://open.spotify.com/track/5wnn9v60XXqJIdP2e7yPHK) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [Mi Camino Es Apenas Una Huella](https://open.spotify.com/album/5YqfkhcnCPjF7JF5eBY2U0) | 3:18 | 2022-04-15 | 2022-08-03 |
 | [Mi querida tempestad \(en un vaso de agua\)](https://open.spotify.com/track/3szaRx7HP75ENQTXfchzOC) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Mi querida tempestad \(en un vaso de agua\)](https://open.spotify.com/album/0vdhJS8mJiBAocCggPFf7D) | 2:57 | 2022-08-26 |  |

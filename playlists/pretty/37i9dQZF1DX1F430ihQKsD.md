@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > La crème de la crème of Montréal's music scene\. Photo: Pomme
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,616 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,652 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [jardin](https://open.spotify.com/track/1QEcr57b4oSQuRk4ztmKkL) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [consolation](https://open.spotify.com/album/3fDL1MKPGRyXRHUkHK1fR1) | 4:52 |
 | 2 | [CNQDL](https://open.spotify.com/track/1pATaHaOYhL8Z7HNr2LH99) | [Clay and Friends](https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm), [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [CNQDL](https://open.spotify.com/album/7Cd3ZKbhCXofx7GwjvHWei) | 3:40 |
-| 3 | [Le matin](https://open.spotify.com/track/5EOzaKdYpIBMOQS16iben7) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Le matin](https://open.spotify.com/album/1KBxSKZYkIDt7eIyXpLpHM) | 2:48 |
+| 3 | [Trou d'eau](https://open.spotify.com/track/3eocwmTmeW2hA2fvhgpmo5) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [Grafignes](https://open.spotify.com/album/4apNI8EVLPBkQH1ceRRcFl) | 3:17 |
 | 4 | [Bigger Love \- Spotify Singles](https://open.spotify.com/track/2t02C7mGZnwv5rnMBEYts9) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW) | [Spotify Singles](https://open.spotify.com/album/3Xj4TtMdMydSBQTjCWobxp) | 3:48 |
 | 5 | [Neuf à cinq](https://open.spotify.com/track/5JCR88ZFSvTaackes4UtEX) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Vie d'ange](https://open.spotify.com/album/02sz0knMpefNYQB2vYLthH) | 3:21 |
-| 6 | [À bientôt](https://open.spotify.com/track/2hQqWfiludT87JzCvNVW5U) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [À bientôt](https://open.spotify.com/album/4nrDrQTrCS5re6HQNRoP6S) | 3:24 |
-| 7 | [Summertime](https://open.spotify.com/track/0WBBh6JTY5ckeZI2f6SIbz) | [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Summertime](https://open.spotify.com/album/6ybhLR9ftltyxSig8KsDXy) | 3:29 |
-| 8 | [Disco Cosmos](https://open.spotify.com/track/3xN6elAScxDFsN2EQu76K2) | [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF), [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Disco Cosmos](https://open.spotify.com/album/4y1G6f8XC2yK8dQX8TRkGN) | 3:42 |
-| 9 | [\[PNJ\]](https://open.spotify.com/track/2y68STO1ZviqnmzAvZdakw) | [Kirouac](https://open.spotify.com/artist/6w8havv68HkDeiH6Tei3bt), [Kodakludo](https://open.spotify.com/artist/52ScNDotCN180BnXLSFiiQ), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [\[PNJ\]](https://open.spotify.com/album/4NDTCOPoN7PzH3lLRaMKlh) | 2:48 |
-| 10 | [Trou d'eau](https://open.spotify.com/track/3eocwmTmeW2hA2fvhgpmo5) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [Grafignes](https://open.spotify.com/album/4apNI8EVLPBkQH1ceRRcFl) | 3:17 |
+| 6 | [Le matin](https://open.spotify.com/track/5EOzaKdYpIBMOQS16iben7) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Le matin](https://open.spotify.com/album/1KBxSKZYkIDt7eIyXpLpHM) | 2:48 |
+| 7 | [À bientôt](https://open.spotify.com/track/2hQqWfiludT87JzCvNVW5U) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [À bientôt](https://open.spotify.com/album/4nrDrQTrCS5re6HQNRoP6S) | 3:24 |
+| 8 | [Summertime](https://open.spotify.com/track/0WBBh6JTY5ckeZI2f6SIbz) | [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Summertime](https://open.spotify.com/album/6ybhLR9ftltyxSig8KsDXy) | 3:29 |
+| 9 | [Disco Cosmos](https://open.spotify.com/track/3xN6elAScxDFsN2EQu76K2) | [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF), [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Disco Cosmos](https://open.spotify.com/album/4y1G6f8XC2yK8dQX8TRkGN) | 3:42 |
+| 10 | [\[PNJ\]](https://open.spotify.com/track/2y68STO1ZviqnmzAvZdakw) | [Kirouac](https://open.spotify.com/artist/6w8havv68HkDeiH6Tei3bt), [Kodakludo](https://open.spotify.com/artist/52ScNDotCN180BnXLSFiiQ), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [\[PNJ\]](https://open.spotify.com/album/4NDTCOPoN7PzH3lLRaMKlh) | 2:48 |
 | 11 | [Hard to Let Go](https://open.spotify.com/track/7lKN7pik3CelVWHWGp6DfB) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Hard to Let Go](https://open.spotify.com/album/0PboTq5CUcoilt6IJS2SQo) | 4:07 |
 | 12 | [OCTEMBRE](https://open.spotify.com/track/6r1K8p3o3pqzGPiJ8tY21G) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj), [Bonnie Banane](https://open.spotify.com/artist/5krZkab66mF2eexXFJv0A6) | [PICTURA DE IPSE : Musique directe](https://open.spotify.com/album/5mAkGDBxvG3ZvwvVOBWLNu) | 3:32 |
 | 13 | [Pretty Ending](https://open.spotify.com/track/68dmD2jcpOGItqqfdFW1y1) | [Mayfly](https://open.spotify.com/artist/4VcvgYlholfTOH1dN15rSw) | [Pretty Ending](https://open.spotify.com/album/1iBfWU99HfFU9ZkTwdfzoM) | 2:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 99 | [Quand je veux je dors](https://open.spotify.com/track/2KXPeTD74nhijWrY9Qy539) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [Silicone Villeray](https://open.spotify.com/album/4oSRtnpRl3vQ7N2fEn8dUZ) | 2:32 |
 | 100 | [Tôt ou tard](https://open.spotify.com/track/0JYJz0PGXsAgxe5sOZfCSf) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [Pêle\-mêle](https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw) | 3:57 |
 
-Snapshot ID: `MTY2MTUzOTgyMSwwMDAwMDAwMDkyYWE5YzgzMmE3MTg4ZTA3MThkNDhlNjViOWVhMzQ1`
+Snapshot ID: `MTY2MTczNzAxMiwwMDAwMDAwMDIyNzZmYWM1ZWFjNjEyN2VmMTFhZmFiNDFhMGZiNDhl`

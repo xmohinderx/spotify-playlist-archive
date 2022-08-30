@@ -1,12 +1,12 @@
 {
   "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
-  "num_followers": 72037,
+  "num_followers": 72026,
   "original_name": "This is Gershwin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMGVjMGY5NGFmZjhlNThhZmMyOTcxNWQzNWVlYjhkNGUw",
+  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMGU2OWMzOGNmMmYwOGY5ZDRjMTJlOWZhOGZkOTk0NWE1",
   "tracks": [
     {
       "added_at": "2022-08-05 04:02:00",
@@ -655,6 +655,34 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
+        "name": "Mademoiselle in New York",
+        "url": "https://open.spotify.com/album/024Dffa0Le6qspFynJmMGU"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Lucienne Renaudin Vary",
+          "url": "https://open.spotify.com/artist/24GBjJEWkP0b1NiOTheF54"
+        },
+        {
+          "name": "Bill Elliott",
+          "url": "https://open.spotify.com/artist/3m37vbDpkiEDSUXQcJJhcZ"
+        },
+        {
+          "name": "BBC Concert Orchestra",
+          "url": "https://open.spotify.com/artist/3dIPaddbWppnquuPkcYVDg"
+        }
+      ],
+      "duration_ms": 238413,
+      "name": "Porgy and Bess, Act 2: I Loves You, Porgy",
+      "url": "https://open.spotify.com/track/4LWX33zyFJYbm0NQ0QJHFi"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
         "name": "Gershwin: Rhapsody in Blue; Piano Concerto in F; Catfish Row etc",
         "url": "https://open.spotify.com/album/5xOmD6lLCcDtmsj61EbxOi"
       },
@@ -683,34 +711,6 @@
       "duration_ms": 275720,
       "name": "Rialto Ripples (Rag)",
       "url": "https://open.spotify.com/track/0VEWcDQ9GHPKVlHT3CrGhR"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Mademoiselle in New York",
-        "url": "https://open.spotify.com/album/024Dffa0Le6qspFynJmMGU"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Lucienne Renaudin Vary",
-          "url": "https://open.spotify.com/artist/24GBjJEWkP0b1NiOTheF54"
-        },
-        {
-          "name": "Bill Elliott",
-          "url": "https://open.spotify.com/artist/3m37vbDpkiEDSUXQcJJhcZ"
-        },
-        {
-          "name": "BBC Concert Orchestra",
-          "url": "https://open.spotify.com/artist/3dIPaddbWppnquuPkcYVDg"
-        }
-      ],
-      "duration_ms": 238413,
-      "name": "Porgy and Bess, Act 2: I Loves You, Porgy",
-      "url": "https://open.spotify.com/track/4LWX33zyFJYbm0NQ0QJHFi"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -839,6 +839,26 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
+        "name": "Gershwin Take Two",
+        "url": "https://open.spotify.com/album/1eUkvcNIuj8xjJb38Cp5vY"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Simon Tedeschi",
+          "url": "https://open.spotify.com/artist/7oB8O1OribJYpFWTfRrbl6"
+        }
+      ],
+      "duration_ms": 131400,
+      "name": "Three-Quarter Blues",
+      "url": "https://open.spotify.com/track/0YOj32JKSgt2MQXz7yvpVS"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
         "name": "Gershwin: Rhapsody in Blue - Strike Up the Band: Overture - Promenade - Catfish Row",
         "url": "https://open.spotify.com/album/7BGSTg6EXyPHTuaFiJgz1V"
       },
@@ -867,26 +887,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin Take Two",
-        "url": "https://open.spotify.com/album/1eUkvcNIuj8xjJb38Cp5vY"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Simon Tedeschi",
-          "url": "https://open.spotify.com/artist/7oB8O1OribJYpFWTfRrbl6"
-        }
-      ],
-      "duration_ms": 131400,
-      "name": "Three-Quarter Blues",
-      "url": "https://open.spotify.com/track/0YOj32JKSgt2MQXz7yvpVS"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Rhapsody In Blue: Saint-S\u00e4ens, Ravel, Gershwin",
         "url": "https://open.spotify.com/album/4QYd77TXZufEvBsJYlBOgw"
       },
@@ -903,26 +903,6 @@
       "duration_ms": 239693,
       "name": "Love Walked In",
       "url": "https://open.spotify.com/track/06JM3tfixqVhSO48XbDRUJ"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Rhapsody - Gershwin Songbook: No. 5, I Got Rhythm",
-        "url": "https://open.spotify.com/album/5u6QPwcOgG1laRXdyvyaRe"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Martin James Bartlett",
-          "url": "https://open.spotify.com/artist/6zWfzjBaMu0anAw2kHMW0O"
-        }
-      ],
-      "duration_ms": 92533,
-      "name": "Gershwin: Gershwin's Songbook: No. 5, I Got Rhythm",
-      "url": "https://open.spotify.com/track/1mFkGv6RtoUQ01ls87TTJa"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -951,6 +931,26 @@
       "duration_ms": 826466,
       "name": "Piano Concerto in F Major: I. Allegro moderato - Cantabile - Poco meno scherzando",
       "url": "https://open.spotify.com/track/7ipGbrTaeuWvuRF3NYHeIk"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Rhapsody - Gershwin Songbook: No. 5, I Got Rhythm",
+        "url": "https://open.spotify.com/album/5u6QPwcOgG1laRXdyvyaRe"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Martin James Bartlett",
+          "url": "https://open.spotify.com/artist/6zWfzjBaMu0anAw2kHMW0O"
+        }
+      ],
+      "duration_ms": 92533,
+      "name": "Gershwin: Gershwin's Songbook: No. 5, I Got Rhythm",
+      "url": "https://open.spotify.com/track/1mFkGv6RtoUQ01ls87TTJa"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1083,34 +1083,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin Fantasy",
-        "url": "https://open.spotify.com/album/3ALYEbd3u0h6EIu7300FaR"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Joshua Bell",
-          "url": "https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        }
-      ],
-      "duration_ms": 1224000,
-      "name": "Fantasy for Violin and Orchestra on Porgy and Bess (excerpts)",
-      "url": "https://open.spotify.com/track/7s4gJpuzOOTsFkmrlhvsvy"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Gershwin: Piano Concerto/Copland: El sal\u00f3n Mexico, etc.",
         "url": "https://open.spotify.com/album/5S77nfKK1NxxwBaoLY7mWk"
       },
@@ -1135,6 +1107,34 @@
       "duration_ms": 799826,
       "name": "Piano Concerto in F: 2. Adagio",
       "url": "https://open.spotify.com/track/6pgaNRblhbixTnmoP6hOvn"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin Fantasy",
+        "url": "https://open.spotify.com/album/3ALYEbd3u0h6EIu7300FaR"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Joshua Bell",
+          "url": "https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "duration_ms": 1224000,
+      "name": "Fantasy for Violin and Orchestra on Porgy and Bess (excerpts)",
+      "url": "https://open.spotify.com/track/7s4gJpuzOOTsFkmrlhvsvy"
     },
     {
       "added_at": "2022-08-05 04:02:00",

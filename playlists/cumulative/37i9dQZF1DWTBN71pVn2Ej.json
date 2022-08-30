@@ -851,10 +851,28 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 204593,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/3NMl2nhvhEnUvwJswPHEYi"
+    },
+    {
+      "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/0QvyrBqWBWJQgOdWEwcK7U"
+      },
+      "artists": [
+        {
+          "name": "The Dangerous Summer",
+          "url": "https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj"
+        }
+      ],
+      "date_added": "2022-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204593,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/6PPrhOoVydbr2lBlgE7G0h"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > musica per quando non sai insomma come
 
-214 songs - 9 hr 48 min - [published](https://open.spotify.com/playlist/1k8A1gJChAu6YTOeCB3ZkM)
+215 songs - 9 hr 52 min - [published](https://open.spotify.com/playlist/1k8A1gJChAu6YTOeCB3ZkM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [in heat.](https://open.spotify.com/track/6T3sH1EuBMijU1MHe2WFJt) | [Hentai Xander](https://open.spotify.com/artist/7J67YP5oiObsKJkC7mrRWW) | [in heat.](https://open.spotify.com/album/0K4n11MU36fn5LewWZSOQ7) | 1:56 | 2022-05-06 | 2022-07-29 |
 | [IN THE CLUB](https://open.spotify.com/track/7vX0rvoGneCCOJ2QPruNNZ) | [Mishashi Sensei](https://open.spotify.com/artist/2kH0ycFAZXMJzpNems0mVK) | [IN THE CLUB](https://open.spotify.com/album/1nKcVRIapkprHO7oeNLyE4) | 2:19 | 2022-05-06 |  |
 | [Je M'appelle](https://open.spotify.com/track/6A3SB2C4U6JtCavQOXLYNN) | [Benzz](https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh) | [Je M'appelle](https://open.spotify.com/album/6T6uWGOSAUhvoZfLlIyDuJ) | 2:19 | 2022-05-27 |  |
-| [L$d](https://open.spotify.com/track/6f7jHMkHBJ9HVat7wjfkOr) | [Luclover](https://open.spotify.com/artist/6ehZYiWgZXXxjTbziiKj60) | [Deaf 2 Society](https://open.spotify.com/album/3ETv6ySY65z1GlHde1TGby) | 1:43 | 2022-08-25 | 2022-08-27 |
+| [L$d](https://open.spotify.com/track/6f7jHMkHBJ9HVat7wjfkOr) | [Luclover](https://open.spotify.com/artist/6ehZYiWgZXXxjTbziiKj60) | [Deaf 2 Society](https://open.spotify.com/album/3ETv6ySY65z1GlHde1TGby) | 1:43 | 2022-08-25 |  |
 | [La canzone del pane](https://open.spotify.com/track/4zIDZLcm7EkydNvVvpU0lj) | [I Camillas](https://open.spotify.com/artist/2qRou3tRPqy2p59UBDkQVC) | [Le politiche del prato](https://open.spotify.com/album/141LmYjk5WtxVEcGr56N9s) | 4:14 | 2022-05-06 | 2022-07-01 |
 | [Lasciami Qui](https://open.spotify.com/track/2iWJlpfCZpUUx2Pi5KO6Zr) | [Sxrrxwland](https://open.spotify.com/artist/1u55tvBnsxpf2DiFpg5nje) | [Buone Maniere Per Giovani Predatori](https://open.spotify.com/album/1bJeHVSLjPJKGglvWaSDgp) | 3:53 | 2022-05-06 | 2022-07-22 |
 | [Legghins di pelle](https://open.spotify.com/track/7aw1LKhEXhxNE16Y3hqDMI) | [Bello Figo](https://open.spotify.com/artist/59rqdbDiB9oXuZggah1syh) | [Leggins di pelle](https://open.spotify.com/album/63LwcPVHiaWhdMT5oSKDhx) | 2:12 | 2022-05-06 | 2022-07-29 |
@@ -155,7 +155,7 @@
 | [POLKA 3](https://open.spotify.com/track/2vAyFmd5LfkSCIHA8uuya1) | [Rosa Chemical](https://open.spotify.com/artist/5gYADZXuZoaJwrwfAPbKuH), [Bdope](https://open.spotify.com/artist/3SGb7Dlm2pmV7qIQHUzRtB) | [POLKA 3](https://open.spotify.com/album/01FptTpR6L414vPn4r6FKn) | 2:40 | 2022-06-03 | 2022-08-24 |
 | [Pop porno](https://open.spotify.com/track/2CWfkhYbrrwGhuT4ABAjPO) | [Il Genio](https://open.spotify.com/artist/0ID6sR0QSfJJU9nDNUCc4d) | [Il Genio \[Deluxe Edition\]](https://open.spotify.com/album/7EeeFdpPLy1jFS1pmTL9he) | 3:17 | 2022-05-06 | 2022-07-11 |
 | [Pretty Cvnt](https://open.spotify.com/track/0hz0bTQC2VVb4CEjLxmKiH) | [Sewerslvt](https://open.spotify.com/artist/30F64wQIHvLiFTGaNZ73nU) | [Sewer//slvt](https://open.spotify.com/album/4H8zRNpiAfbdJxCgWMqosu) | 3:40 | 2022-05-20 | 2022-07-22 |
-| [Primadonna](https://open.spotify.com/track/4sOX1nhpKwFWPvoMMExi3q) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Electra Heart \(Deluxe\)](https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf) | 3:41 | 2022-05-13 |  |
+| [Primadonna](https://open.spotify.com/track/4sOX1nhpKwFWPvoMMExi3q) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Electra Heart \(Deluxe\)](https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf) | 3:41 | 2022-05-13 | 2022-08-30 |
 | [prolly my spookiest beat](https://open.spotify.com/track/7bzZzwCiidSodNRK1Deyf2) | [prodby668](https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F) | [prolly my spookiest beat](https://open.spotify.com/album/56HClvGjV3yEhiNb2gy4Ba) | 1:59 | 2022-07-12 | 2022-07-29 |
 | [PYPPARE](https://open.spotify.com/track/2jDqFufZErKkm9JXgPc4lF) | [Taxi B](https://open.spotify.com/artist/5FkcU4BVzPptuB6AjobZIL) | [PYPPARE](https://open.spotify.com/album/246AxAt6mteMy8NmGHD23U) | 2:36 | 2022-07-21 | 2022-07-29 |
 | [Qualcuno che si esplode](https://open.spotify.com/track/1RfQm0T2ecgBhgZ6DG4nQJ) | [Tutti Fenomeni](https://open.spotify.com/artist/13jvLDXME7yplEwCweRivE) | [Merce Funebre](https://open.spotify.com/album/596fRdoCpJOtEHuhHHJX8M) | 2:49 | 2022-05-06 | 2022-07-23 |
@@ -185,7 +185,7 @@
 | [SNAP \- High and Fast](https://open.spotify.com/track/3TWHd23YOrfxx3yDYCE1WC) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof) | 2:15 | 2022-08-19 |  |
 | [soft spot](https://open.spotify.com/track/1mtLhZXbQqeU3qugQkuwhk) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [soft spot](https://open.spotify.com/album/2Z7lZGztugb0rCv7QveDIc) | 3:39 | 2022-05-06 | 2022-07-04 |
 | [Sono una truzza \- Original](https://open.spotify.com/track/7vjYAmgBSVp5MrcFizVyQa) | [Truzza](https://open.spotify.com/artist/3Ds8h4rQwAtnmhgsN6Nky6) | [Sono una truzza \(Tunz tunz tunz parapara tunz\)](https://open.spotify.com/album/2vOiTwWFIUL36tGWyrJJWp) | 3:46 | 2022-06-03 | 2022-06-27 |
-| [Sorry Bout That](https://open.spotify.com/track/4VHkjPgAis9JNfc1URn7zZ) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [4L](https://open.spotify.com/album/05QOSu1AEcQxM5jvZFuann) | 3:06 | 2022-05-06 |  |
+| [Sorry Bout That](https://open.spotify.com/track/4VHkjPgAis9JNfc1URn7zZ) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [4L](https://open.spotify.com/album/05QOSu1AEcQxM5jvZFuann) | 3:06 | 2022-05-06 | 2022-08-30 |
 | [Still Don't Know My Name](https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 2:33 | 2022-05-06 |  |
 | [Su di Te](https://open.spotify.com/track/7vYsSML4ffmNc3mwKPjGsk) | [Simone Panetti](https://open.spotify.com/artist/4lajcWQSiNMQ4b76eevJ5f), [G.bit](https://open.spotify.com/artist/0NmtgATbZcejMnRU5ixeSs), [Mike Lennon](https://open.spotify.com/artist/2g2ukiJJzYdcRJQ12D2bq7), [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi) | [Profondo Rosa](https://open.spotify.com/album/5kTqGC8BIuVebBnyCXFhTE) | 3:08 | 2022-05-06 | 2022-07-29 |
 | [SugarCrash!](https://open.spotify.com/track/2ePtv8MlBO9nuuXABqAfEX) | [ElyOtto](https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW) | [SugarCrash!](https://open.spotify.com/album/064pDjy5L2sQn0XLJj2wWx) | 1:20 | 2022-05-06 |  |
@@ -217,6 +217,7 @@
 | [Victoria’s Secret](https://open.spotify.com/track/4svaKoxMMP7ImmKrD5hfQu) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Victoria’s Secret](https://open.spotify.com/album/47eeG5ewIbO53gXZOkvHhg) | 2:56 | 2022-08-12 |  |
 | [Vogl Ij Abballà \- Alors On Danse Remix](https://open.spotify.com/track/00TxkSx9yNHs1QlKGuSmpR) | [Kid Lost](https://open.spotify.com/artist/4oGlqM93JwM3Bx5X0wvLTu), [Lil Tony](https://open.spotify.com/artist/5scZI5Lpqp6uijn5kCXCEZ) | [Vogl Ij Abballà \(Alors On Danse Remix\)](https://open.spotify.com/album/6FWRKlvvECWPawR4zHj9av) | 2:36 | 2022-06-10 | 2022-07-29 |
 | [Wait a Minute!](https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ARDIPITHECUS](https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h) | 3:16 | 2022-05-06 |  |
+| [Wannabe](https://open.spotify.com/track/5ACZOGjT6I5He0pDZED56Z) | [why mona](https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU) | [Wannabe](https://open.spotify.com/album/5VMaKMyX5OTgrmHwvOVJZ1) | 3:37 | 2022-08-29 |  |
 | [Washing Machine Heart](https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:08 | 2022-05-06 |  |
 | [XTC \(feat\. LA NIÑA & BigMama\)](https://open.spotify.com/track/6N0wZxSpYH5pm6XrubgxEy) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM), [LA NIÑA](https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj), [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [CLUB TOPPERIA](https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei) | 2:35 | 2022-06-03 | 2022-07-26 |
 | [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 | 2022-05-06 |  |

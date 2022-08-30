@@ -4,7 +4,7 @@
 
 > Home to all the latest indie jams\. Cover: Djo
 
-607 songs - 1 day 11 hr 58 min - [published](https://open.spotify.com/playlist/4hpfeoyJCUxj1W1YZOVAqm)
+608 songs - 1 day 12 hr 0 min - [published](https://open.spotify.com/playlist/4hpfeoyJCUxj1W1YZOVAqm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,7 @@
 | [Gone](https://open.spotify.com/track/4sgchJtqhlDKHXI5qfC15k) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod) | [Gone](https://open.spotify.com/album/60PbOGMe2c5w7ST3UpH3bU) | 6:58 | 2021-12-31 | 2022-02-05 |
 | [Good Kinda High \(feat\. U.S\. Girls\)](https://open.spotify.com/track/1yITtkfWioB4wVYfIzlhDJ) | [Glenn Gould](https://open.spotify.com/artist/3icthvgCtFQ9WHZHO5VWj1), [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Uninvited Guests \- Deluxe](https://open.spotify.com/album/659Zidfi4wFlIwI4kR2l10) | 2:48 | 2021-12-31 | 2022-01-22 |
 | [Good Time](https://open.spotify.com/track/3a7RkHS2uDovVFLHepHRRl) | [Young Guv](https://open.spotify.com/artist/1zEgVwAUxnTP5DDnmZbJnw) | [Good Time](https://open.spotify.com/album/2ZHmA5YprnZSfqQRZOA7ZL) | 3:07 | 2022-02-04 | 2022-03-12 |
-| [GOOD TIMES](https://open.spotify.com/track/1WeqJkPY5rDIfyOKWfyuf5) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [GOOD TIMES / PROBLEMZ](https://open.spotify.com/album/2j8Bsbbqb9EyS1ajAq3GME) | 3:01 | 2022-06-03 |  |
+| [GOOD TIMES](https://open.spotify.com/track/1WeqJkPY5rDIfyOKWfyuf5) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [GOOD TIMES / PROBLEMZ](https://open.spotify.com/album/2j8Bsbbqb9EyS1ajAq3GME) | 3:01 | 2022-06-03 | 2022-08-30 |
 | [Got Weird](https://open.spotify.com/track/5z1KeOpL9n1b3iFAJk91iu) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Got Weird](https://open.spotify.com/album/2NBdHnQrggzuLN3FgeO9Om) | 3:22 | 2022-07-29 |  |
 | [Gr8 Timing!](https://open.spotify.com/track/0R5RnMzKGJLLwlS8FAnDp3) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Gr8 Timing!](https://open.spotify.com/album/3WVOknczJMFhzYahdBbbAd) | 2:37 | 2022-03-04 | 2022-04-16 |
 | [Grab Your Guts](https://open.spotify.com/track/4CmhofthdXpRM1M2R9C2ce) | [Maylee Todd](https://open.spotify.com/artist/1fJYXB9ZFQbNduuZX4jyFl) | [Maloo](https://open.spotify.com/album/3yEjOZEqS72I0ykBEQ5YcO) | 3:02 | 2022-03-04 | 2022-04-09 |
@@ -615,5 +615,6 @@
 | [You Have Got to Be Kidding Me](https://open.spotify.com/track/3kai81vBptYiDfb0QXHv5X) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [You Have Got to Be Kidding Me](https://open.spotify.com/album/0e0c5rz0pMLFvqR7bDyXtc) | 3:36 | 2022-05-20 |  |
 | [You've Got a Woman](https://open.spotify.com/track/55tF86yLmOiGwoFgollNC6) | [Natalie Bergman](https://open.spotify.com/artist/6YP6iGwynI5kEyNYxfxVeC), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [You've Got a Woman](https://open.spotify.com/album/3DbIkUH1sh5HTPD8n65A3S) | 3:25 | 2021-12-31 | 2022-01-10 |
 | [Your Other Life](https://open.spotify.com/track/4sWZVIOHuTrQOt6mqzMiBE) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Long Lost \(Deluxe Edition\)](https://open.spotify.com/album/6yEdJA4H2O4VOi4pk14GdS) | 4:40 | 2022-05-27 | 2022-07-30 |
+| [YUKON \(INTERLUDE\)](https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi) | 2:21 | 2022-08-29 |  |
 
 \*This playlist was first scraped on 2022-01-01. Prior content cannot be recovered.

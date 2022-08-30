@@ -3018,6 +3018,24 @@
     },
     {
       "album": {
+        "name": "just like before",
+        "url": "https://open.spotify.com/album/0Z1PdgaM4I3cATEl9RgDam"
+      },
+      "artists": [
+        {
+          "name": "juno roome",
+          "url": "https://open.spotify.com/artist/75OmhmviEWTWkMBllWgdQv"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266573,
+      "name": "just like before",
+      "url": "https://open.spotify.com/track/2JAHDn2zTqHFsFmktmZ4Mt"
+    },
+    {
+      "album": {
         "name": "TWENTY FIVE",
         "url": "https://open.spotify.com/album/1mDaY48ESUPxGNBleBlTKg"
       },
@@ -4979,7 +4997,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 183360,
       "name": "solo",
       "url": "https://open.spotify.com/track/28WoBIA4EDVvxiraTv2KZ2"

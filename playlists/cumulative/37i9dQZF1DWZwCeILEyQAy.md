@@ -4,7 +4,7 @@
 
 > Real Rap\. All Pressure\. Cover: Big Boss Vette
 
-160 songs - 6 hr 43 min - [published](https://open.spotify.com/playlist/5y5tRmbESUW4REpQryCCFI)
+161 songs - 6 hr 45 min - [published](https://open.spotify.com/playlist/5y5tRmbESUW4REpQryCCFI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Fuck It Up](https://open.spotify.com/track/7FERnkDYqD9D9DJdNjQlnf) | [Bali Baby](https://open.spotify.com/artist/5hPcCMWgf6Qu9vUQVySwcY) | [Fuck It Up](https://open.spotify.com/album/7EYwhBDLAIwFBQQOqOfSuX) | 2:12 | 2022-02-04 | 2022-07-29 |
 | [Get TF Out My Face](https://open.spotify.com/track/0m0mtfrpVxsrXqgdCsURNd) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Get TF Out My Face](https://open.spotify.com/album/3EAlwCLd3mbD7cOZo1GIJv) | 2:13 | 2021-12-17 | 2022-07-26 |
 | [Girls in the Hood](https://open.spotify.com/track/7yiSvALPjMrBLDDrbcDRNy) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:34 | 2021-11-05 |  |
+| [Give U Some \(feat\. Rob49\)](https://open.spotify.com/track/4zM1EkVk8jfs969NYYSZ9x) | [Lebra Jolie](https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Give U Some \(feat\. Rob49\)](https://open.spotify.com/album/4ZCRbkgSa3MmQ8LX3Nf3k0) | 2:22 | 2022-08-19 |  |
 | [Gloss Up Broke Boy](https://open.spotify.com/track/1MfF2yFgnZxBUg7OajwaW3) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [Casino Jizzle](https://open.spotify.com/artist/2QS0MtUaiAa88MigAiNev9) | [Gloss Up Broke Boy](https://open.spotify.com/album/6kxg2gokrJkrFt8acYAL0o) | 3:01 | 2022-07-29 |  |
 | [Gloss Up Ms Bitch](https://open.spotify.com/track/4nrTlaJHJWyoiuSkAS0cA3) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Gloss Up Ms Bitch](https://open.spotify.com/album/7xp7HjMNl7Kjq0VQm9sbMV) | 2:42 | 2022-08-12 | 2022-08-20 |
 | [GodMother](https://open.spotify.com/track/6Jj2PqBk7RKh88pckutkL8) | [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6) | [GodMother](https://open.spotify.com/album/3aW6FJfy8Pp4qxhHQ3THYh) | 3:22 | 2021-11-05 | 2022-07-28 |
@@ -160,7 +161,7 @@
 | [Ungrateful \(feat\. Key Glock\)](https://open.spotify.com/track/6vA7RdHmU23h3ygUPPFXz5) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:34 | 2022-08-12 |  |
 | [Walk In](https://open.spotify.com/track/6NVp9jx6E5U3ueEfFxm9Bm) | [S3nsi Molly](https://open.spotify.com/artist/1BllYKfrGfZPGfUnL5MoSL) | [Walk In](https://open.spotify.com/album/7f2w303hV2NcEq5S7R34TB) | 1:36 | 2022-06-17 | 2022-07-28 |
 | [Want Sum](https://open.spotify.com/track/0sZVQUB6jYpTDAEKSbj4PE) | [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT) | [Want Sum](https://open.spotify.com/album/5se07VxKwmmum9LNtZdnZU) | 2:07 | 2021-11-05 | 2022-08-02 |
-| [Wat U Need](https://open.spotify.com/track/5K4zdrXD3WuDVBRsAIGCO9) | [E Chapo](https://open.spotify.com/artist/1B1yx0TYWWvufQuFoRqnL6) | [Wat U Need](https://open.spotify.com/album/0G3gjrxHd6QIbiSGxNBJ2h) | 2:01 | 2022-02-25 |  |
+| [Wat U Need](https://open.spotify.com/track/5K4zdrXD3WuDVBRsAIGCO9) | [E Chapo](https://open.spotify.com/artist/1B1yx0TYWWvufQuFoRqnL6) | [Wat U Need](https://open.spotify.com/album/0G3gjrxHd6QIbiSGxNBJ2h) | 2:01 | 2022-02-25 | 2022-08-30 |
 | [We Not Humping](https://open.spotify.com/track/0ypTgFheHb8nRVq4ygoQ3P) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [We Not Humping](https://open.spotify.com/album/5zdbJoOThfYjQhzDwpdF7B) | 2:24 | 2021-12-03 | 2022-03-18 |
 | [Weird 2 Me](https://open.spotify.com/track/6OMsBEvyWUh45xLPBMDqHU) | [Sally Sossa](https://open.spotify.com/artist/58q28H7IgX06YXkPvUtGgR) | [Weird 2 Me](https://open.spotify.com/album/0QZQFEKQX785N7Dr9XNa3D) | 2:06 | 2021-11-05 | 2022-02-02 |
 | [Westside Baby \(Gutta\)](https://open.spotify.com/track/3djbJUX2x2ZVqeoH22tOyN) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Westside Baby \(Gutta\)](https://open.spotify.com/album/4EmV4t1h2uMFlyIkk3qiz6) | 1:49 | 2022-07-01 | 2022-07-23 |

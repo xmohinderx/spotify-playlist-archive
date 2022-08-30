@@ -317,7 +317,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 154405,
       "name": "BALLAS RMX (feat. MamboLosco, Janga ODT)",
       "url": "https://open.spotify.com/track/61Tc6VFFrxANwYbKp9ZYWT"
@@ -1127,7 +1127,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 88235,
       "name": "Freestyle",
       "url": "https://open.spotify.com/track/2iu3TLcZuQwchIvhiN22ma"
@@ -1952,6 +1952,24 @@
     },
     {
       "album": {
+        "name": "Plaquette",
+        "url": "https://open.spotify.com/album/2VGAKLqF0nTWezZINNzccY"
+      },
+      "artists": [
+        {
+          "name": "Nabi",
+          "url": "https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158836,
+      "name": "Plaquette",
+      "url": "https://open.spotify.com/track/2r3tMClmk1Cw974ByW20ny"
+    },
+    {
+      "album": {
         "name": "PLAYA",
         "url": "https://open.spotify.com/album/4BooiX3rbdDNh6uzJUMfRE"
       },
@@ -2143,6 +2161,24 @@
       "duration_ms": 163053,
       "name": "Rozzi",
       "url": "https://open.spotify.com/track/3Y00k9cPoW8BnJesUEFoWn"
+    },
+    {
+      "album": {
+        "name": "RS6",
+        "url": "https://open.spotify.com/album/1g7JxBAsczHAacw7rFcayW"
+      },
+      "artists": [
+        {
+          "name": "SPOOKYPBL",
+          "url": "https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132660,
+      "name": "RS6",
+      "url": "https://open.spotify.com/track/61CNHYt7uT3l3NwDltun2K"
     },
     {
       "album": {

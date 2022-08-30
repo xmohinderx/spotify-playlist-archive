@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 
 > Mujeres a todo volumen\. En portada: The Warning
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,267 likes - 48 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,262 likes - 48 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,23 +38,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 28 | [Numb](https://open.spotify.com/track/3XMyREykeptNpvd0tE75xw) | [Meg Myers](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [Take Me To The Disco](https://open.spotify.com/album/1R5NwXzxNPMFcUQAeh0Tfn) | 4:22 |
 | 29 | [Otra Vez](https://open.spotify.com/track/0vA1RgkV2GqrwpkSiINgKR) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Otra Vez](https://open.spotify.com/album/3lnvmhXZWbfxH45nw7MvMp) | 6:26 |
 | 30 | [Inmortal](https://open.spotify.com/track/6J4udGIKWIekq6hmopunUo) | [Valsian](https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa) | [Inmortal](https://open.spotify.com/album/4h6seZ4nVUdZ2ahzfv83aK) | 3:18 |
-| 31 | [Cumbia Feminista](https://open.spotify.com/track/7M2mgKUSxmjHumNkwpjN2d) | [Las Decapitadas](https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ) | [Cumbia Feminista](https://open.spotify.com/album/51CRWf9nKbj5OWlKLudBuZ) | 3:53 |
-| 32 | [Ghost in the Machine](https://open.spotify.com/track/2T94eayr7lubesYiSs4kyT) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 2:25 |
-| 33 | [Better off Alone](https://open.spotify.com/track/48XRKpWl8V2eNL5T8LBBRE) | [Plush](https://open.spotify.com/artist/2f5Dgi7XqcHDkvfTprZkXL) | [Plush](https://open.spotify.com/album/07iiRoyWsHcRh6la5Ldkpk) | 3:33 |
-| 34 | [Dung Ding Dang](https://open.spotify.com/track/5OWxGgdDveGYp0iKvJN4H3) | [Estereomance](https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd) | [Estereomance](https://open.spotify.com/album/5BLPMwnHHRMq6JhrhjX62T) | 4:15 |
+| 31 | [Ghost in the Machine](https://open.spotify.com/track/2T94eayr7lubesYiSs4kyT) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 2:25 |
+| 32 | [Cumbia Feminista](https://open.spotify.com/track/7M2mgKUSxmjHumNkwpjN2d) | [Las Decapitadas](https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ) | [Cumbia Feminista](https://open.spotify.com/album/51CRWf9nKbj5OWlKLudBuZ) | 3:53 |
+| 33 | [Dung Ding Dang](https://open.spotify.com/track/5OWxGgdDveGYp0iKvJN4H3) | [Estereomance](https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd) | [Estereomance](https://open.spotify.com/album/5BLPMwnHHRMq6JhrhjX62T) | 4:15 |
+| 34 | [Better off Alone](https://open.spotify.com/track/48XRKpWl8V2eNL5T8LBBRE) | [Plush](https://open.spotify.com/artist/2f5Dgi7XqcHDkvfTprZkXL) | [Plush](https://open.spotify.com/album/07iiRoyWsHcRh6la5Ldkpk) | 3:33 |
 | 35 | [Miedo a Caer](https://open.spotify.com/track/56flcgaM3MdZS8jnzlabA5) | [Ruido Rosa](https://open.spotify.com/artist/4IeONiRUOE25VxShujSFuE) | [Ruido Rosa](https://open.spotify.com/album/411pxBTJ807CkrGZr2o3N0) | 3:05 |
 | 36 | [Abrepuertas](https://open.spotify.com/track/3i12ArneJgbkbDODqTVjy4) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Barro y Fauna](https://open.spotify.com/album/5JuaxO0pna8yVb8spF7xqp) | 2:31 |
 | 37 | [Venus](https://open.spotify.com/track/1h8YWUXSUn9PMbARBOeJXe) | [Neptuna](https://open.spotify.com/artist/6zucgTdBIrQ7ULFhw7MG1G) | [Venus](https://open.spotify.com/album/6gzn0iqicLtUSVKWW0rfqH) | 3:40 |
 | 38 | [Lilith](https://open.spotify.com/track/2Vnl0gMfZ9pct8LvLDm0KJ) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Lilith](https://open.spotify.com/album/1g3IB4r5OnU3guMehCPAie) | 2:48 |
 | 39 | [C'est Pas Moi](https://open.spotify.com/track/3ACO1KEw9UqlHQOvJ2DeHs) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Petite Amie](https://open.spotify.com/album/1lVmQ8Kz0ORsjDIqOilw9O) | 3:26 |
-| 40 | [Me Jodiste](https://open.spotify.com/track/5IpVwbuqd1RAdJCsV5GdWD) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [Me Jodiste](https://open.spotify.com/album/2l5menS7GnDZE1p4lArfAZ) | 2:46 |
+| 40 | [Gardenia Dreams](https://open.spotify.com/track/585X2YqQiRUD0OC5FrPyQh) | [Estereomance](https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd) | [What Do You Want It To Be?](https://open.spotify.com/album/0zj0QfL92o9OPwtKvwW5pL) | 4:02 |
 | 41 | [Lloro](https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 3:24 |
-| 42 | [Boni Naitó](https://open.spotify.com/track/0RJCShociFRKy8aP9szGKz) | [Myuné](https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT) | [Fuera de Lugar](https://open.spotify.com/album/3l8c1HAldEVWFfudlrr64f) | 4:43 |
-| 43 | [Casa de Naipes](https://open.spotify.com/track/0r75WOh3GTWVF1ZEUcqezo) | [Ruido Rosa](https://open.spotify.com/artist/4IeONiRUOE25VxShujSFuE) | [Casa de Naipes](https://open.spotify.com/album/4Y7A6pBHZmMPgXP5stE4Th) | 3:17 |
-| 44 | [Gardenia Dreams](https://open.spotify.com/track/585X2YqQiRUD0OC5FrPyQh) | [Estereomance](https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd) | [What Do You Want It To Be?](https://open.spotify.com/album/0zj0QfL92o9OPwtKvwW5pL) | 4:02 |
+| 42 | [Me Jodiste](https://open.spotify.com/track/5IpVwbuqd1RAdJCsV5GdWD) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [Me Jodiste](https://open.spotify.com/album/2l5menS7GnDZE1p4lArfAZ) | 2:46 |
+| 43 | [Boni Naitó](https://open.spotify.com/track/0RJCShociFRKy8aP9szGKz) | [Myuné](https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT) | [Fuera de Lugar](https://open.spotify.com/album/3l8c1HAldEVWFfudlrr64f) | 4:43 |
+| 44 | [Casa de Naipes](https://open.spotify.com/track/0r75WOh3GTWVF1ZEUcqezo) | [Ruido Rosa](https://open.spotify.com/artist/4IeONiRUOE25VxShujSFuE) | [Casa de Naipes](https://open.spotify.com/album/4Y7A6pBHZmMPgXP5stE4Th) | 3:17 |
 | 45 | [Caer](https://open.spotify.com/track/4ISBnFzh1VdY0lybDzFQxK) | [Silver Rose](https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP) | [Las Distancias](https://open.spotify.com/album/6iw6U4obwRM38eN7JZ33Dm) | 5:11 |
 | 46 | [Odio la Prepa](https://open.spotify.com/track/23MIUBh3IYTeWk76uL2XEh) | [Las Decapitadas](https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ) | [Odio la Prepa](https://open.spotify.com/album/0rgkiz47JbMVPhYyjPyG9s) | 1:12 |
 | 47 | [Golden Child](https://open.spotify.com/track/7FTbo2T1yZrn6EoSgy0eWT) | [Say Lou Lou](https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj) | [Immortelle](https://open.spotify.com/album/1J8qyiuSQ0LvDELnkvbEje) | 4:41 |
 | 48 | [Ikite Iru](https://open.spotify.com/track/5mJzC72lhxY3Bh9mlOfd5S) | [Neptuna](https://open.spotify.com/artist/6zucgTdBIrQ7ULFhw7MG1G) | [Ikite Iru](https://open.spotify.com/album/26U7D0QxDGkKhtw2sBCVRF) | 3:20 |
 
-Snapshot ID: `MTY1OTUwMDI4OCwwMDAwMDAwMDIzOGJmMDVhMzg4ZDMxNzExZWQxODE2ZDE1NWViN2Jj`
+Snapshot ID: `MTY1OTUwMDI4OCwwMDAwMDAwMDY1MWE0MTE5OTU0ZjhjOWRjYjczZWFmNzA0MjEwODI2`

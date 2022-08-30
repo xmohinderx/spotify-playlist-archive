@@ -4,7 +4,7 @@
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Slayer
 
-345 songs - 1 day 0 hr 35 min - [published](https://open.spotify.com/playlist/3zOnYu9mXXc9Jrakbf4dFr)
+346 songs - 1 day 0 hr 39 min - [published](https://open.spotify.com/playlist/3zOnYu9mXXc9Jrakbf4dFr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Certain Death](https://open.spotify.com/track/6K6bdBIpKj3pL0IrA4b1Kt) | [Sadus](https://open.spotify.com/artist/2J1GmSL3D47TR4TdFYs2hu) | [Chemical Exposure](https://open.spotify.com/album/7pWX1741ZblBq93ZAEPLQT) | 4:14 | 2022-07-13 |  |
 | [Chalice of Blood](https://open.spotify.com/track/2NnbfST2iUUUQ0ZJJWtcY0) | [Forbidden](https://open.spotify.com/artist/5MhPZVXE28sD9rXE3GU1uN) | [Forbidden Evil](https://open.spotify.com/album/5yjZpCAc80twY03yRI0hce) | 4:32 | 2022-07-13 |  |
 | [Chaos Possession](https://open.spotify.com/track/1DHf4SG3bLDoHXAstlcAWV) | [Dust Bolt](https://open.spotify.com/artist/4YTVF2l3v9pGQz1QbUfg2q) | [Chaos Possession](https://open.spotify.com/album/0vLCfHnHq5VcM8tt9gG8OP) | 3:53 | 2021-12-17 | 2022-07-28 |
+| [CHØKE ØN THE ASHES ØF YØUR HATE](https://open.spotify.com/track/5sykvfEJHupA8mjhhgylVk) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 4:06 | 2022-07-13 |  |
 | [CHØKE ØN THE ASHES ØF YØUR HATE](https://open.spotify.com/track/74Ijstyp0EXcdEZzyLOJy6) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [CHØKE ØN THE ASHES ØF YØUR HATE](https://open.spotify.com/album/6EhTaVPe67FETk9tIbi8nq) | 4:06 | 2022-04-15 | 2022-08-27 |
 | [Circle of the Tyrants](https://open.spotify.com/track/4PAsYAQCAm5pNPPtqIZmwF) | [Celtic Frost](https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG) | [Morbid Tales](https://open.spotify.com/album/2G2c7jjmwDaJVLfJc47859) | 4:28 | 2022-07-13 |  |
 | [Clickbait](https://open.spotify.com/track/0HpfDXJFYDF8ZZAWhTa7Aq) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [Clickbait](https://open.spotify.com/album/0Niay8TGkPcu9gm5DdtCi7) | 4:31 | 2021-12-17 | 2022-07-27 |
@@ -202,7 +203,7 @@
 | [My Time](https://open.spotify.com/track/7455R3ZkleZUXIl4qUrsEu) | [Exhorder](https://open.spotify.com/artist/5kuYamMO00pHPdRQcAXWTl) | [Mourn the Southern Skies](https://open.spotify.com/album/6Zv7TZNO5LrJH9dRUjouom) | 3:53 | 2022-07-13 |  |
 | [Napalm In The Morning](https://open.spotify.com/track/04vA6gMckJePW0RAxijZcm) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [M\-16](https://open.spotify.com/album/5calVaFQFKLSAg0LZ3FQqy) | 5:56 | 2022-07-13 | 2022-07-29 |
 | [Napalm in the Morning](https://open.spotify.com/track/58SUPk63baVqZ44Yko0wWL) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [M\-16](https://open.spotify.com/album/4z5S4xdou220mwTfA2mmZn) | 5:56 | 2022-07-13 |  |
-| [New World Beyond](https://open.spotify.com/track/1gjzvbjjMactmbWxuLxS84) | [Toxic Holocaust](https://open.spotify.com/artist/0WVXlaglIOtQueNbucPjZ0) | [Primal Future: 2019](https://open.spotify.com/album/3GC8hY4NnN4YDlHMJARwsD) | 4:14 | 2021-12-17 |  |
+| [New World Beyond](https://open.spotify.com/track/1gjzvbjjMactmbWxuLxS84) | [Toxic Holocaust](https://open.spotify.com/artist/0WVXlaglIOtQueNbucPjZ0) | [Primal Future: 2019](https://open.spotify.com/album/3GC8hY4NnN4YDlHMJARwsD) | 4:14 | 2021-12-17 | 2022-08-30 |
 | [Night of the Witch](https://open.spotify.com/track/3orHIz1YV1bmUHsi2fze48) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Titans of Creation](https://open.spotify.com/album/63dZKnLfVsHItoygbM7IJK) | 6:32 | 2022-07-13 |  |
 | [Night of the Witch](https://open.spotify.com/track/4TLsVTvwf3FXV13JdLmh1j) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Night of the Witch](https://open.spotify.com/album/4prdwVIIRKWXs8c4WcOT6y) | 6:32 | 2021-12-17 | 2022-07-28 |
 | [Nightmare Logic](https://open.spotify.com/track/127fndSSTEZrx2TV8cd3jM) | [Power Trip](https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT) | [Nightmare Logic](https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70) | 4:21 | 2021-12-17 |  |

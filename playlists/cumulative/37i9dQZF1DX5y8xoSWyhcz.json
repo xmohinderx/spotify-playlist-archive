@@ -7620,6 +7620,24 @@
     },
     {
       "album": {
+        "name": "Anxious Avoidant",
+        "url": "https://open.spotify.com/album/6yIPE5sUMMMh70i6ApdQCt"
+      },
+      "artists": [
+        {
+          "name": "Sophia Bel",
+          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257437,
+      "name": "I Won't Bite",
+      "url": "https://open.spotify.com/track/2xz8YcWZwMR3Dcds2QqFeJ"
+    },
+    {
+      "album": {
         "name": "EREZ",
         "url": "https://open.spotify.com/album/5ValAPJZMl7J1tBYMlSZnz"
       },
@@ -13137,7 +13155,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 185257,
       "name": "SICK",
       "url": "https://open.spotify.com/track/1vuNMMrJKt2l3oaUgre2rC"

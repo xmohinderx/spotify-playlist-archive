@@ -4,7 +4,7 @@
 
 > Fresh and recent tracks from the world of Prog Metal\. Cover: Architects
 
-542 songs - 1 day 23 hr 14 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
+543 songs - 1 day 23 hr 21 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,7 +218,7 @@
 | [House of Glass](https://open.spotify.com/track/66aHsvy60nqm36rpVf5Nd3) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [House of Glass](https://open.spotify.com/album/5TrLKsPJImV04vaVsHy8rD) | 4:20 | 2022-07-13 |  |
 | [Human](https://open.spotify.com/track/1se5sCo2wWKuXwaLXN5KfF) | [Astronoid](https://open.spotify.com/artist/2S13OV7nLeciVigE0Wxo7E) | [Human](https://open.spotify.com/album/4fTOR8l715RIfSawEooQK2) | 5:24 | 2022-05-20 | 2022-07-29 |
 | [Hypnosis](https://open.spotify.com/track/5YjzcTCorDbr34bngfQIIy) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/53PfSATgN0YM7IsfI2CDvs) | 5:35 | 2021-12-17 |  |
-| [Hyvästi](https://open.spotify.com/track/3uzzRIRcXP4x02Ow03ERP8) | [Kaunis Kuolematon](https://open.spotify.com/artist/325i7BW7vMnVBl9YWdT6zN) | [Syttyköön Toinen Aurinko](https://open.spotify.com/album/5Ybv90CJvFAn6ArETWRYbn) | 7:32 | 2021-12-17 | 2022-07-27 |
+| [Hyvästi](https://open.spotify.com/track/3uzzRIRcXP4x02Ow03ERP8) | [Kaunis Kuolematon](https://open.spotify.com/artist/325i7BW7vMnVBl9YWdT6zN) | [Syttyköön Toinen Aurinko](https://open.spotify.com/album/5Ybv90CJvFAn6ArETWRYbn) | 7:32 | 2021-12-17 |  |
 | [I](https://open.spotify.com/track/6hj4GDJEk1Fdpsdhe5s2s0) | [Hemina](https://open.spotify.com/artist/1DuzOaU8hyIpzzRQFpAO9b) | [Venus](https://open.spotify.com/album/6MpqORfwga08gHUyQLXAxW) | 10:41 | 2021-12-17 | 2022-01-28 |
 | [I Am That Thirst](https://open.spotify.com/track/6haPL5fAuRJ25u2E9PQyQx) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [I Am That Thirst](https://open.spotify.com/album/7hw65PGHpBFnDcZRdT3VBr) | 4:40 | 2022-03-25 |  |
 | [I'M STILL ALIVE](https://open.spotify.com/track/0E6eqvJimlRMS22gCLj6e3) | [Emigrate](https://open.spotify.com/artist/29fyAsYdzkCIH96xB40um1) | [THE PERSISTENCE OF MEMORY](https://open.spotify.com/album/0teeDL9hcPxBNXGOGGzfGf) | 3:00 | 2021-12-17 |  |
@@ -237,7 +237,7 @@
 | [Invisible Enemy](https://open.spotify.com/track/4gSokjaAfP1W9NTfkolzdJ) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Phantom Anthem](https://open.spotify.com/album/5raPbxzLIp6YJTN5jyyT2f) | 4:37 | 2022-07-13 |  |
 | [Invisible Monster](https://open.spotify.com/track/6l2ql6PfoDuaTtcjjPYGFL) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Invisible Monster](https://open.spotify.com/album/1p1GZyBV8zsBEW9I0LBQX7) | 6:30 | 2021-12-17 |  |
 | [Island Life](https://open.spotify.com/track/0YN619MC3m1tjJsnmWlJ4u) | [Frost\*](https://open.spotify.com/artist/1Ha9FtCeuoajMbOG4Kz2d7) | [Day And Age \(Deluxe Edition\)](https://open.spotify.com/album/4iNsIkR18NMo2chPsyfVnv) | 4:13 | 2021-12-17 | 2022-07-13 |
-| [It Hurts](https://open.spotify.com/track/0pmNiFoT6MwFbL1F2EjQ5a) | [No name faces](https://open.spotify.com/artist/1qe30odFQvnHMOTaBud0PH) | [It Hurts](https://open.spotify.com/album/7Bskjsvg1IJ5xI11YHEt5w) | 4:55 | 2022-02-11 |  |
+| [It Hurts](https://open.spotify.com/track/0pmNiFoT6MwFbL1F2EjQ5a) | [No name faces](https://open.spotify.com/artist/1qe30odFQvnHMOTaBud0PH) | [It Hurts](https://open.spotify.com/album/7Bskjsvg1IJ5xI11YHEt5w) | 4:55 | 2022-02-11 | 2022-08-30 |
 | [Judgement \(& Punishment\)](https://open.spotify.com/track/2Jba2VUVpZD7yr5AQl3z6K) | [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [Judgement \(& Punishment\)](https://open.spotify.com/album/1rdD03sOLqU6iqPOEsGAFN) | 4:19 | 2022-07-13 | 2022-07-29 |
 | [Judgement \(& Punishment\)](https://open.spotify.com/track/6CrjUrtl4s2fGErcFmNhHq) | [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [Macro](https://open.spotify.com/album/4cTjPXaFkUyaHr29G1PiT9) | 4:19 | 2022-07-13 |  |
 | [Juno](https://open.spotify.com/track/0AtM8eGmS8imRoJ9Y4La4E) | [TesseracT](https://open.spotify.com/artist/23ytwhG1pzX6DIVWRWvW1r) | [Sonder](https://open.spotify.com/album/2DNaVYXNrbGqhCTpkCAANH) | 5:12 | 2022-07-13 | 2022-07-29 |
@@ -246,7 +246,7 @@
 | [Kaleidoscope](https://open.spotify.com/track/5o3XLBNTiwYyLeC107DXtF) | [Amplifier](https://open.spotify.com/artist/1lCspmd05bYpPS814xw5nl) | [Record](https://open.spotify.com/album/5eXxQkFPgNwngv9U6k2aCt) | 5:50 | 2021-12-17 | 2022-01-29 |
 | [Katabasis](https://open.spotify.com/track/4AQSYo9ooWD3aHWBxAB8Yv) | [Persefone](https://open.spotify.com/artist/4wxyib7wQwVxwKNFBmOhAw) | [Katabasis](https://open.spotify.com/album/703y5eX545v5GdMr0bIK01) | 4:32 | 2022-01-14 | 2022-07-28 |
 | [Keep Me in the Dark](https://open.spotify.com/track/0KWmCXJtYoBNCNK0AI7bA7) | [Fiends](https://open.spotify.com/artist/59iJW8QarPpbSLWJVbsRoJ) | [Keep Me in the Dark](https://open.spotify.com/album/01WU9H7NkIFQKJ9GeBmePb) | 6:35 | 2021-12-17 | 2022-01-28 |
-| [Kijo](https://open.spotify.com/track/608RRgKIml4mVLlDDwqBv4) | [Memorist](https://open.spotify.com/artist/5iO99RO9AmhAr4rLgjZ1nn) | [Kijo](https://open.spotify.com/album/4DsmxRjsSuFWq1tgZPQzvb) | 3:42 | 2022-01-14 |  |
+| [Kijo](https://open.spotify.com/track/608RRgKIml4mVLlDDwqBv4) | [Memorist](https://open.spotify.com/artist/5iO99RO9AmhAr4rLgjZ1nn) | [Kijo](https://open.spotify.com/album/4DsmxRjsSuFWq1tgZPQzvb) | 3:42 | 2022-01-14 | 2022-08-30 |
 | [Kill Your Darlings](https://open.spotify.com/track/4fGs6MdXpOr48D8nn5V4nt) | [The Murder of My Sweet](https://open.spotify.com/artist/7B4zaOoCRV5xQg9ZUrl4B1) | [Kill Your Darlings](https://open.spotify.com/album/22gxet47WzD15dgYEsTCyy) | 5:08 | 2022-03-01 | 2022-04-21 |
 | [Kneel to Nothing](https://open.spotify.com/track/63tOiqREerOYZvJNYHSEjL) | [O.R.k.](https://open.spotify.com/artist/5rkJj1VYae5gFozDas6Dsg) | [Kneel to Nothing](https://open.spotify.com/album/60JeDpGTiuXDhDYNiXu8b3) | 4:38 | 2021-12-17 | 2022-07-01 |
 | [Lacquer](https://open.spotify.com/track/0Jv7Bkh389i8nFOPg31tyU) | [Katatonia](https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm) | [Lacquer](https://open.spotify.com/album/3rQuPBaqtwTwkNXSVf9YYj) | 4:42 | 2021-12-17 | 2022-07-29 |
@@ -269,6 +269,7 @@
 | [Lunatic Fringe](https://open.spotify.com/track/5aFvQjdc3KvJEvUkEHI7TL) | [Four Stroke Baron](https://open.spotify.com/artist/091cSUyhQCRgJreqXy17m5) | [Lunatic Fringe](https://open.spotify.com/album/5rrj2JXuTlR2QY3vtrSQTE) | 4:13 | 2021-12-17 | 2022-07-28 |
 | [Mahogany](https://open.spotify.com/track/1XJQgKs647fs99TP9ezrx0) | [Windrunner](https://open.spotify.com/artist/7GqHmgqt4wkWHZr8fcc9P7), [Sota](https://open.spotify.com/artist/6ePZyisYTEtSze2cCNS2Kb) | [Mahogany](https://open.spotify.com/album/2B6TPvaY8dSGRapwJCQDfJ) | 5:01 | 2021-12-17 | 2022-07-27 |
 | [Makeshift Harmony](https://open.spotify.com/track/5hT9plaY8kgBZSmCUpfV47) | [Monuments](https://open.spotify.com/artist/71IBhhBhtPLZ8OyVuXOw77) | [In Stasis](https://open.spotify.com/album/3Q0ElZiEA7GBDcqNyeF71r) | 4:30 | 2022-04-15 |  |
+| [Marigold](https://open.spotify.com/track/0xaN6B7xNJU9czMXELDyDM) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Periphery III: Select Difficulty](https://open.spotify.com/album/5L9ddlTFtgLj93nzy77MEO) | 7:19 | 2022-08-26 |  |
 | [Marigold](https://open.spotify.com/track/2YZZ8qsDdvC008LgtpMoI6) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Periphery III: Select Difficulty](https://open.spotify.com/album/1NBUh16Mfz7kNjIJKVO9sC) | 7:19 | 2022-07-13 | 2022-07-29 |
 | [Marigold](https://open.spotify.com/track/56g7gV4V3YvAmo4zbwnh3j) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Periphery III: Select Difficulty](https://open.spotify.com/album/45TYtX5PUFk1DlFB6m1N1M) | 7:19 | 2022-07-13 | 2022-08-28 |
 | [Martyrs](https://open.spotify.com/track/2mijuiOFHf4EJcS2QpUkrn) | [Soen](https://open.spotify.com/artist/38uWD5h115pdz278q4rwZW) | [Lotus](https://open.spotify.com/album/16v3Ule2sTTWT37VKUsH6F) | 6:08 | 2021-12-17 | 2022-07-01 |

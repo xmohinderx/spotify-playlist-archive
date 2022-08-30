@@ -1,12 +1,12 @@
 {
   "description": "P\u00e5 med fj\u00e4derboan och de gyllene skorna. Nu ska vi dansa i neon!",
-  "num_followers": 23624,
+  "num_followers": 23622,
   "original_name": "Schlagerfest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1MTM1ODY3OCwwMDAwMDAwMGIxNDJiMzRlY2VjMjhiNzE1NGY4MjY4ZDIzYTJmOGUz",
+  "snapshot_id": "MTU1MTM1ODY3OCwwMDAwMDAwMDk3NzRiMjU4YTEyODQ5NzM4ZjhhYTRkNzNkNGNkOTQ1",
   "tracks": [
     {
       "added_at": "2019-02-28 12:57:58",
@@ -107,22 +107,6 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "My Number One",
-        "url": "https://open.spotify.com/album/0JLlI8YNAvvrhHAwz5UCgI"
-      },
-      "artists": [
-        {
-          "name": "Helena Paparizou",
-          "url": "https://open.spotify.com/artist/7D7k550IB6EszWmzVVCJSK"
-        }
-      ],
-      "duration_ms": 175066,
-      "name": "My Number One",
-      "url": "https://open.spotify.com/track/6LkCvCc9oFoLDv4DLhzTox"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
         "name": "If I Were Sorry",
         "url": "https://open.spotify.com/album/7e5vrZ4iPy74CmBgbIpQKX"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 184060,
       "name": "If I Were Sorry",
       "url": "https://open.spotify.com/track/6oDkCmfVcSd9NXAKk1b4Ll"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "My Number One",
+        "url": "https://open.spotify.com/album/0JLlI8YNAvvrhHAwz5UCgI"
+      },
+      "artists": [
+        {
+          "name": "Helena Paparizou",
+          "url": "https://open.spotify.com/artist/7D7k550IB6EszWmzVVCJSK"
+        }
+      ],
+      "duration_ms": 175066,
+      "name": "My Number One",
+      "url": "https://open.spotify.com/track/6LkCvCc9oFoLDv4DLhzTox"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -235,22 +235,6 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "Bobbysocks / Let It Swing - The Best Of Bobbysocks",
-        "url": "https://open.spotify.com/album/1Y5N3dPwHgubECWrFqpG5T"
-      },
-      "artists": [
-        {
-          "name": "Bobbysocks",
-          "url": "https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs"
-        }
-      ],
-      "duration_ms": 176213,
-      "name": "La det swinge",
-      "url": "https://open.spotify.com/track/1D5JiCspnkQx8L57R3qpAb"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
         "name": "Ingenting att f\u00f6rlora",
         "url": "https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 184319,
       "name": "Jag ljuger s\u00e5 bra",
       "url": "https://open.spotify.com/track/4IV8dOSLi26stONnuQg8Kf"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "Bobbysocks / Let It Swing - The Best Of Bobbysocks",
+        "url": "https://open.spotify.com/album/1Y5N3dPwHgubECWrFqpG5T"
+      },
+      "artists": [
+        {
+          "name": "Bobbysocks",
+          "url": "https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs"
+        }
+      ],
+      "duration_ms": 176213,
+      "name": "La det swinge",
+      "url": "https://open.spotify.com/track/1D5JiCspnkQx8L57R3qpAb"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -363,22 +363,6 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "Ingenting att f\u00f6rlora",
-        "url": "https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l"
-      },
-      "artists": [
-        {
-          "name": "Linda Bengtzing",
-          "url": "https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV"
-        }
-      ],
-      "duration_ms": 169213,
-      "name": "Alla flickor",
-      "url": "https://open.spotify.com/track/6YGqMb6MmqcwIHaDSCA7Nq"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
         "name": "Ashes To Ashes",
         "url": "https://open.spotify.com/album/3PdI7t8cuGziQ76P2ooFpR"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 180883,
       "name": "Ashes To Ashes",
       "url": "https://open.spotify.com/track/1iqxk51n6yyc6OIXu7dX8o"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "Ingenting att f\u00f6rlora",
+        "url": "https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l"
+      },
+      "artists": [
+        {
+          "name": "Linda Bengtzing",
+          "url": "https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV"
+        }
+      ],
+      "duration_ms": 169213,
+      "name": "Alla flickor",
+      "url": "https://open.spotify.com/track/6YGqMb6MmqcwIHaDSCA7Nq"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -623,6 +623,22 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
+        "name": "Give Me Your Love",
+        "url": "https://open.spotify.com/album/6iG5QUazlcxTw6Inkf6DHR"
+      },
+      "artists": [
+        {
+          "name": "Fame",
+          "url": "https://open.spotify.com/artist/4cFizl8RUZEfXnkzw1Fiz6"
+        }
+      ],
+      "duration_ms": 182320,
+      "name": "Give Me Your Love",
+      "url": "https://open.spotify.com/track/2B60fzEh2F9Ds6xFtV8LWd"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
         "name": "40 \u00e5r 40 hits ett samlingsalbum 1972 - 2012",
         "url": "https://open.spotify.com/album/1kL5NFtluQyyzkjnBzPE7L"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 167346,
       "name": "Om om och om igen",
       "url": "https://open.spotify.com/track/1Lg5Qf47RERQQmfYbGZB43"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
-        "name": "Give Me Your Love",
-        "url": "https://open.spotify.com/album/6iG5QUazlcxTw6Inkf6DHR"
-      },
-      "artists": [
-        {
-          "name": "Fame",
-          "url": "https://open.spotify.com/artist/4cFizl8RUZEfXnkzw1Fiz6"
-        }
-      ],
-      "duration_ms": 182320,
-      "name": "Give Me Your Love",
-      "url": "https://open.spotify.com/track/2B60fzEh2F9Ds6xFtV8LWd"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -751,22 +751,6 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "Den l\u00e5ngsamma blomman",
-        "url": "https://open.spotify.com/album/42M4B14wexkW2YK3iJ1KeA"
-      },
-      "artists": [
-        {
-          "name": "Shirley Clamp",
-          "url": "https://open.spotify.com/artist/09AdawDC7B5zcphs18nRB7"
-        }
-      ],
-      "duration_ms": 181586,
-      "name": "Min k\u00e4rlek",
-      "url": "https://open.spotify.com/track/5dpkOqj8pVFn3nS8OvMJNG"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
         "name": "Busy Doin' Nothin'",
         "url": "https://open.spotify.com/album/4jfxzJriDt7pZMpzUtRhMo"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 173346,
       "name": "Busy Doin' Nothin'",
       "url": "https://open.spotify.com/track/1zSXQIah3KQsjvo5sRNRq7"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "Den l\u00e5ngsamma blomman",
+        "url": "https://open.spotify.com/album/42M4B14wexkW2YK3iJ1KeA"
+      },
+      "artists": [
+        {
+          "name": "Shirley Clamp",
+          "url": "https://open.spotify.com/artist/09AdawDC7B5zcphs18nRB7"
+        }
+      ],
+      "duration_ms": 181586,
+      "name": "Min k\u00e4rlek",
+      "url": "https://open.spotify.com/track/5dpkOqj8pVFn3nS8OvMJNG"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -835,18 +835,18 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "Blond",
-        "url": "https://open.spotify.com/album/6J8YOKLKvXK0xKrpW9pYv2"
+        "name": "Gamla Stan",
+        "url": "https://open.spotify.com/album/2Oi3P11a5suZr2JcKjuh9B"
       },
       "artists": [
         {
-          "name": "Blond",
-          "url": "https://open.spotify.com/artist/26oh4wmmILtoqcKZaLWYW5"
+          "name": "Magnus Carlsson",
+          "url": "https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB"
         }
       ],
-      "duration_ms": 183466,
-      "name": "Bara Hon \u00c4lskar Mig",
-      "url": "https://open.spotify.com/track/5dEHUYf0NkT1pZeEJOCMsW"
+      "duration_ms": 182727,
+      "name": "M\u00f6t mig i Gamla Stan",
+      "url": "https://open.spotify.com/track/5uYkCI6EcIKq4EGlah4NLu"
     }
   ],
   "unique_name": "Schlagerfest",

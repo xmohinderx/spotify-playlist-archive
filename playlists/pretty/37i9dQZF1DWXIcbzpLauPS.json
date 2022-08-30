@@ -1,12 +1,12 @@
 {
   "description": "This is the new Core at its finest. Cover: Bleed From Within",
-  "num_followers": 867998,
+  "num_followers": 866974,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUyMDMwNywwMDAwMDAwMDg4NWNhODhiZDgyMjRlOTdmZDg4N2Y2YzRhYjBmMDA2",
+  "snapshot_id": "MTY2MTUyMDMwNywwMDAwMDAwMDJmYTRjZWExNDcyOTI0ODNkZmExZTBkN2M4YmExNWZi",
   "tracks": [
     {
       "added_at": "2022-08-26 13:25:07",
@@ -275,22 +275,6 @@
     {
       "added_at": "2022-08-26 13:25:07",
       "album": {
-        "name": "Losing Control",
-        "url": "https://open.spotify.com/album/6ANgmUwBRAm45qW9yrhRQP"
-      },
-      "artists": [
-        {
-          "name": "Villain of the Story",
-          "url": "https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE"
-        }
-      ],
-      "duration_ms": 208920,
-      "name": "Losing Control",
-      "url": "https://open.spotify.com/track/2PjFzTXf8StVOYm25uWvW4"
-    },
-    {
-      "added_at": "2022-08-26 13:25:07",
-      "album": {
         "name": "Heretic",
         "url": "https://open.spotify.com/album/0lQqsnfP4Hwy8KoIg1H07y"
       },
@@ -311,6 +295,22 @@
     {
       "added_at": "2022-08-26 13:25:07",
       "album": {
+        "name": "Losing Control",
+        "url": "https://open.spotify.com/album/6ANgmUwBRAm45qW9yrhRQP"
+      },
+      "artists": [
+        {
+          "name": "Villain of the Story",
+          "url": "https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE"
+        }
+      ],
+      "duration_ms": 208920,
+      "name": "Losing Control",
+      "url": "https://open.spotify.com/track/2PjFzTXf8StVOYm25uWvW4"
+    },
+    {
+      "added_at": "2022-08-26 13:25:07",
+      "album": {
         "name": "Throne",
         "url": "https://open.spotify.com/album/66snwEHAdTrN5gw7z3mpoA"
       },
@@ -323,6 +323,22 @@
       "duration_ms": 207936,
       "name": "Throne",
       "url": "https://open.spotify.com/track/1IIHG2cRp9PBYSGLSKAdgD"
+    },
+    {
+      "added_at": "2022-08-26 13:25:07",
+      "album": {
+        "name": "Mass Produced",
+        "url": "https://open.spotify.com/album/48PMipn3cRGT6Ck9KCbV8w"
+      },
+      "artists": [
+        {
+          "name": "Oceano",
+          "url": "https://open.spotify.com/artist/79A0IUxQD9skV7LVjPq53s"
+        }
+      ],
+      "duration_ms": 181680,
+      "name": "Mass Produced",
+      "url": "https://open.spotify.com/track/2gq5XvSm3XrbKmyV4m3wSX"
     },
     {
       "added_at": "2022-08-26 13:25:07",
@@ -407,6 +423,22 @@
     {
       "added_at": "2022-08-26 13:25:07",
       "album": {
+        "name": "Hangfire",
+        "url": "https://open.spotify.com/album/2C7Caj4q2ImxfS717oEZYC"
+      },
+      "artists": [
+        {
+          "name": "Wind Walkers",
+          "url": "https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0"
+        }
+      ],
+      "duration_ms": 195217,
+      "name": "Hangfire",
+      "url": "https://open.spotify.com/track/3cYqU2pWI7VvoTX1PeKX94"
+    },
+    {
+      "added_at": "2022-08-26 13:25:07",
+      "album": {
         "name": "Nonnegative",
         "url": "https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V"
       },
@@ -423,18 +455,18 @@
     {
       "added_at": "2022-08-26 13:25:07",
       "album": {
-        "name": "Mass Produced",
-        "url": "https://open.spotify.com/album/48PMipn3cRGT6Ck9KCbV8w"
+        "name": "Anomaly",
+        "url": "https://open.spotify.com/album/3x0fD3AKsVdr63OInlGAXv"
       },
       "artists": [
         {
-          "name": "Oceano",
-          "url": "https://open.spotify.com/artist/79A0IUxQD9skV7LVjPq53s"
+          "name": "Aviana",
+          "url": "https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy"
         }
       ],
-      "duration_ms": 181680,
-      "name": "Mass Produced",
-      "url": "https://open.spotify.com/track/2gq5XvSm3XrbKmyV4m3wSX"
+      "duration_ms": 223050,
+      "name": "Anomaly",
+      "url": "https://open.spotify.com/track/4y2WxyFPLHaLoHkxymgNar"
     },
     {
       "added_at": "2022-08-26 13:25:07",
@@ -471,38 +503,6 @@
     {
       "added_at": "2022-08-26 13:25:07",
       "album": {
-        "name": "Anomaly",
-        "url": "https://open.spotify.com/album/3x0fD3AKsVdr63OInlGAXv"
-      },
-      "artists": [
-        {
-          "name": "Aviana",
-          "url": "https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy"
-        }
-      ],
-      "duration_ms": 223050,
-      "name": "Anomaly",
-      "url": "https://open.spotify.com/track/4y2WxyFPLHaLoHkxymgNar"
-    },
-    {
-      "added_at": "2022-08-26 13:25:07",
-      "album": {
-        "name": "Hangfire",
-        "url": "https://open.spotify.com/album/2C7Caj4q2ImxfS717oEZYC"
-      },
-      "artists": [
-        {
-          "name": "Wind Walkers",
-          "url": "https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0"
-        }
-      ],
-      "duration_ms": 195217,
-      "name": "Hangfire",
-      "url": "https://open.spotify.com/track/3cYqU2pWI7VvoTX1PeKX94"
-    },
-    {
-      "added_at": "2022-08-26 13:25:07",
-      "album": {
         "name": "Venenosa",
         "url": "https://open.spotify.com/album/6obCslVAsNkI4LfaYTH2G7"
       },
@@ -515,6 +515,22 @@
       "duration_ms": 190495,
       "name": "Venenosa",
       "url": "https://open.spotify.com/track/39Vg7SGvdJTeEq3rtKKwk2"
+    },
+    {
+      "added_at": "2022-08-26 13:25:07",
+      "album": {
+        "name": "Cross My Heart",
+        "url": "https://open.spotify.com/album/5ByL1dXjgnjKAEF6H63e5p"
+      },
+      "artists": [
+        {
+          "name": "Eyes Wide Open",
+          "url": "https://open.spotify.com/artist/1AYs2fxCu0pV8iKaguz4po"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Cross My Heart",
+      "url": "https://open.spotify.com/track/2icamhwuMDLOPIGcTq3qxg"
     },
     {
       "added_at": "2022-08-26 13:25:07",
@@ -551,22 +567,6 @@
     {
       "added_at": "2022-08-26 13:25:07",
       "album": {
-        "name": "Cross My Heart",
-        "url": "https://open.spotify.com/album/5ByL1dXjgnjKAEF6H63e5p"
-      },
-      "artists": [
-        {
-          "name": "Eyes Wide Open",
-          "url": "https://open.spotify.com/artist/1AYs2fxCu0pV8iKaguz4po"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Cross My Heart",
-      "url": "https://open.spotify.com/track/2icamhwuMDLOPIGcTq3qxg"
-    },
-    {
-      "added_at": "2022-08-26 13:25:07",
-      "album": {
         "name": "Hotel Underground",
         "url": "https://open.spotify.com/album/3GdgTYJ6MCD7nsQ8uZZly5"
       },
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-08-26 13:25:07",
       "album": {
-        "name": "Your Love I'll Never Need",
-        "url": "https://open.spotify.com/album/17yymNfb1oyI5bBn0BvXv2"
-      },
-      "artists": [
-        {
-          "name": "Ocean Sleeper",
-          "url": "https://open.spotify.com/artist/04LbaB3D3XOMbfPnWmObAi"
-        }
-      ],
-      "duration_ms": 200843,
-      "name": "Your Love I'll Never Need",
-      "url": "https://open.spotify.com/track/228ijND7JwCIpNt8sYlHYW"
-    },
-    {
-      "added_at": "2022-08-26 13:25:07",
-      "album": {
         "name": "Play Time",
         "url": "https://open.spotify.com/album/4VCY5HtkP5SU8AqSo36y9K"
       },
@@ -631,18 +615,18 @@
     {
       "added_at": "2022-08-26 13:25:07",
       "album": {
-        "name": "Spearmint Revolt",
-        "url": "https://open.spotify.com/album/23XEhKtJYPjK41dUrHl5Y2"
+        "name": "Your Love I'll Never Need",
+        "url": "https://open.spotify.com/album/17yymNfb1oyI5bBn0BvXv2"
       },
       "artists": [
         {
-          "name": "Norma Jean",
-          "url": "https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH"
+          "name": "Ocean Sleeper",
+          "url": "https://open.spotify.com/artist/04LbaB3D3XOMbfPnWmObAi"
         }
       ],
-      "duration_ms": 302258,
-      "name": "Spearmint Revolt",
-      "url": "https://open.spotify.com/track/2k3Vtbkr80qEkmGle4NK37"
+      "duration_ms": 200843,
+      "name": "Your Love I'll Never Need",
+      "url": "https://open.spotify.com/track/228ijND7JwCIpNt8sYlHYW"
     },
     {
       "added_at": "2022-08-26 13:25:07",
@@ -675,6 +659,22 @@
       "duration_ms": 190250,
       "name": "Dead Circus",
       "url": "https://open.spotify.com/track/4RJ2TLSVhIyHFaEVYKygGh"
+    },
+    {
+      "added_at": "2022-08-26 13:25:07",
+      "album": {
+        "name": "Spearmint Revolt",
+        "url": "https://open.spotify.com/album/23XEhKtJYPjK41dUrHl5Y2"
+      },
+      "artists": [
+        {
+          "name": "Norma Jean",
+          "url": "https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH"
+        }
+      ],
+      "duration_ms": 302258,
+      "name": "Spearmint Revolt",
+      "url": "https://open.spotify.com/track/2k3Vtbkr80qEkmGle4NK37"
     },
     {
       "added_at": "2022-08-26 13:25:07",
@@ -731,26 +731,6 @@
     {
       "added_at": "2022-08-26 13:25:07",
       "album": {
-        "name": "Enough",
-        "url": "https://open.spotify.com/album/6bqhEARnShL0e5LenCwvzk"
-      },
-      "artists": [
-        {
-          "name": "Glass Tides",
-          "url": "https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0"
-        },
-        {
-          "name": "Will King",
-          "url": "https://open.spotify.com/artist/4k3IKj51sqFK9nKz7qPdbM"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/46PbPFnjEgaUQtxiYh334k"
-    },
-    {
-      "added_at": "2022-08-26 13:25:07",
-      "album": {
         "name": "Forsaken",
         "url": "https://open.spotify.com/album/1AdoiciuD5DrLLBHHBQrq2"
       },
@@ -767,18 +747,22 @@
     {
       "added_at": "2022-08-26 13:25:07",
       "album": {
-        "name": "No Hope 'Til Now",
-        "url": "https://open.spotify.com/album/6q6eyYT6oipY8ixkers5Ed"
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/6bqhEARnShL0e5LenCwvzk"
       },
       "artists": [
         {
-          "name": "The Veer Union",
-          "url": "https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS"
+          "name": "Glass Tides",
+          "url": "https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0"
+        },
+        {
+          "name": "Will King",
+          "url": "https://open.spotify.com/artist/4k3IKj51sqFK9nKz7qPdbM"
         }
       ],
-      "duration_ms": 239571,
-      "name": "No Hope 'Til Now",
-      "url": "https://open.spotify.com/track/0rsn2sc8LlIfTyePLigY8w"
+      "duration_ms": 169000,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/46PbPFnjEgaUQtxiYh334k"
     },
     {
       "added_at": "2022-08-26 13:25:07",
@@ -803,22 +787,6 @@
     {
       "added_at": "2022-08-26 13:25:07",
       "album": {
-        "name": "Suffer",
-        "url": "https://open.spotify.com/album/2Km1B3OkljeuAyGAmnxZT2"
-      },
-      "artists": [
-        {
-          "name": "Dragged Under",
-          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
-        }
-      ],
-      "duration_ms": 203290,
-      "name": "Suffer",
-      "url": "https://open.spotify.com/track/66ZM0tKioRCiW5TyPUdfpl"
-    },
-    {
-      "added_at": "2022-08-26 13:25:07",
-      "album": {
         "name": "Quicksand",
         "url": "https://open.spotify.com/album/3vo077XHNBeAEVlnWGQUCG"
       },
@@ -839,6 +807,38 @@
       "duration_ms": 152000,
       "name": "Quicksand (feat. Michael Swank)",
       "url": "https://open.spotify.com/track/3B2lC0tHokLJuPOhKaLycU"
+    },
+    {
+      "added_at": "2022-08-26 13:25:07",
+      "album": {
+        "name": "Suffer",
+        "url": "https://open.spotify.com/album/2Km1B3OkljeuAyGAmnxZT2"
+      },
+      "artists": [
+        {
+          "name": "Dragged Under",
+          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
+        }
+      ],
+      "duration_ms": 203290,
+      "name": "Suffer",
+      "url": "https://open.spotify.com/track/66ZM0tKioRCiW5TyPUdfpl"
+    },
+    {
+      "added_at": "2022-08-26 13:25:07",
+      "album": {
+        "name": "No Hope 'Til Now",
+        "url": "https://open.spotify.com/album/6q6eyYT6oipY8ixkers5Ed"
+      },
+      "artists": [
+        {
+          "name": "The Veer Union",
+          "url": "https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS"
+        }
+      ],
+      "duration_ms": 239571,
+      "name": "No Hope 'Til Now",
+      "url": "https://open.spotify.com/track/0rsn2sc8LlIfTyePLigY8w"
     },
     {
       "added_at": "2022-08-26 13:25:07",
@@ -923,6 +923,22 @@
     {
       "added_at": "2022-08-26 13:25:07",
       "album": {
+        "name": "Miscreation",
+        "url": "https://open.spotify.com/album/6iVF7LgG1mjmMfBGF5jGP2"
+      },
+      "artists": [
+        {
+          "name": "The Anchor",
+          "url": "https://open.spotify.com/artist/2x583f2zJEjkiPd6IY4yfW"
+        }
+      ],
+      "duration_ms": 213401,
+      "name": "Miscreation",
+      "url": "https://open.spotify.com/track/5YcT4GfUGdJSuoiZwiv26Z"
+    },
+    {
+      "added_at": "2022-08-26 13:25:07",
+      "album": {
         "name": "Be Someone",
         "url": "https://open.spotify.com/album/3wHYbhls679gOOr45eAWZv"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 192360,
       "name": "Eden Will Drown",
       "url": "https://open.spotify.com/track/0wMsnJgY82QHiB0gQn6UAE"
-    },
-    {
-      "added_at": "2022-08-26 13:25:07",
-      "album": {
-        "name": "Miscreation",
-        "url": "https://open.spotify.com/album/6iVF7LgG1mjmMfBGF5jGP2"
-      },
-      "artists": [
-        {
-          "name": "The Anchor",
-          "url": "https://open.spotify.com/artist/2x583f2zJEjkiPd6IY4yfW"
-        }
-      ],
-      "duration_ms": 213401,
-      "name": "Miscreation",
-      "url": "https://open.spotify.com/track/5YcT4GfUGdJSuoiZwiv26Z"
     },
     {
       "added_at": "2022-08-26 13:25:07",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-08-26 13:25:07",
       "album": {
-        "name": "Break Me Down",
-        "url": "https://open.spotify.com/album/5rwNN6KSg9pngqKr3eu3wt"
-      },
-      "artists": [
-        {
-          "name": "Cemetery Sun",
-          "url": "https://open.spotify.com/artist/2LiLNsS5rRWmnOSQM5F8Zz"
-        }
-      ],
-      "duration_ms": 208228,
-      "name": "Break Me Down",
-      "url": "https://open.spotify.com/track/4Qgmwp20QeC0LFVK7cLo7v"
-    },
-    {
-      "added_at": "2022-08-26 13:25:07",
-      "album": {
         "name": "My World",
         "url": "https://open.spotify.com/album/7ofP8y54U5eTxJvncaykqv"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 191000,
       "name": "My World",
       "url": "https://open.spotify.com/track/7qHrBih3sKUkgimXd5J4z2"
+    },
+    {
+      "added_at": "2022-08-26 13:25:07",
+      "album": {
+        "name": "Break Me Down",
+        "url": "https://open.spotify.com/album/5rwNN6KSg9pngqKr3eu3wt"
+      },
+      "artists": [
+        {
+          "name": "Cemetery Sun",
+          "url": "https://open.spotify.com/artist/2LiLNsS5rRWmnOSQM5F8Zz"
+        }
+      ],
+      "duration_ms": 208228,
+      "name": "Break Me Down",
+      "url": "https://open.spotify.com/track/4Qgmwp20QeC0LFVK7cLo7v"
     },
     {
       "added_at": "2022-08-26 13:25:07",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-08-26 13:25:07",
       "album": {
-        "name": "A King To Rise",
-        "url": "https://open.spotify.com/album/4T9qyGOab2jMhedAUMMdJG"
-      },
-      "artists": [
-        {
-          "name": "Points of Conception",
-          "url": "https://open.spotify.com/artist/6wQON4XetnZiflTlfsrknf"
-        }
-      ],
-      "duration_ms": 188307,
-      "name": "A King To Rise",
-      "url": "https://open.spotify.com/track/4bc7Ag4yPuuUlLRmew6HjW"
-    },
-    {
-      "added_at": "2022-08-26 13:25:07",
-      "album": {
         "name": "Call It Home",
         "url": "https://open.spotify.com/album/65cX0qLgpscBtANqVWZs0Z"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 210128,
       "name": "Call It Home",
       "url": "https://open.spotify.com/track/1jdcRfcIYZuorAcGDmHapO"
+    },
+    {
+      "added_at": "2022-08-26 13:25:07",
+      "album": {
+        "name": "A King To Rise",
+        "url": "https://open.spotify.com/album/4T9qyGOab2jMhedAUMMdJG"
+      },
+      "artists": [
+        {
+          "name": "Points of Conception",
+          "url": "https://open.spotify.com/artist/6wQON4XetnZiflTlfsrknf"
+        }
+      ],
+      "duration_ms": 188307,
+      "name": "A King To Rise",
+      "url": "https://open.spotify.com/track/4bc7Ag4yPuuUlLRmew6HjW"
     }
   ],
   "unique_name": "The Core",

@@ -4,7 +4,7 @@
 
 > alternative songs and a good time.
 
-391 songs - 21 hr 55 min - [published](https://open.spotify.com/playlist/1Bj13TwCdIEL5pmYy3YM5V)
+392 songs - 21 hr 58 min - [published](https://open.spotify.com/playlist/1Bj13TwCdIEL5pmYy3YM5V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Give A Little Bit More \(Disaster\)](https://open.spotify.com/track/6P7FY8Cnf2sVbCgwlaMleA) | [Bleeker](https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv) | [Give A Little Bit More \(Disaster\)](https://open.spotify.com/album/774qmoBRcTPqlhRxjOSTJv) | 3:36 | 2022-03-11 | 2022-04-19 |
 | [Go Easy](https://open.spotify.com/track/4yoMMiRT5sXtIbSHKQfRqi) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Bank On The Funeral](https://open.spotify.com/album/3IQhe9N4j1tXTwKlhT2FsL) | 3:47 | 2021-03-10 |  |
 | [Golden Boy](https://open.spotify.com/track/6PQkriCkh2BjZGeK7qTC0q) | [Bryce Fox](https://open.spotify.com/artist/6g878dtAhjegRHVe5X0ALf) | [Golden Boy](https://open.spotify.com/album/1McymEd7UgLNxAuLe0vAwh) | 2:48 | 2022-03-11 | 2022-06-29 |
+| [Gone](https://open.spotify.com/track/7b5qjSnusll0Ll9vDdkuLh) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 2:57 | 2022-08-12 |  |
 | [Gone](https://open.spotify.com/track/3mxMrdo3fJjDbb64nagoXR) | [JR JR](https://open.spotify.com/artist/3VAxb3UskTNiHAKh4UeOEv) | [JR JR](https://open.spotify.com/album/3shFtH3EfvyztGl2sdsmHS) | 3:47 | 2022-03-11 |  |
 | [Gone \(with Jensen McRae\)](https://open.spotify.com/track/4r2dg3p484bp0XUoB88P3b) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Gone](https://open.spotify.com/album/2BCjIiPpmiElGDN52fLmzI) | 2:54 | 2021-07-16 | 2022-07-29 |
 | [Good](https://open.spotify.com/track/7sRdxkgNb3m3Ciai38ANmd) | [TWIN XL](https://open.spotify.com/artist/4OkceeWNJehKqXINqtVeX1) | [How To Talk To Strangers](https://open.spotify.com/album/2OQRvCNt3r4fO1MSBNbPQW) | 2:49 | 2021-03-10 | 2022-07-30 |
@@ -291,7 +292,7 @@
 | [sail away](https://open.spotify.com/track/6G8xvLFNkXy3HM5EbQI6c8) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [sail away](https://open.spotify.com/album/6JFD9WU1ZSYZOJlDpRtZ71) | 2:59 | 2022-06-27 |  |
 | [Saturdays \(feat\. HAIM\)](https://open.spotify.com/track/1B63r7wZYOff831F0ysehg) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb), [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Saturdays \(feat\. HAIM\)](https://open.spotify.com/album/70mHfmYEWVmIeaPnnn6c3F) | 3:25 | 2021-03-10 | 2022-07-29 |
 | [Saturdays \(feat\. HAIM\)](https://open.spotify.com/track/5ClqcvP4dYDDX6Zv3jPQD1) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb), [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Caer](https://open.spotify.com/album/5eIgu8uJ3H18h8vVqJYggZ) | 3:25 | 2022-06-27 |  |
-| [Say](https://open.spotify.com/track/0XRYPlTCTHtaNAU1reGbB9) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [Silver Dream](https://open.spotify.com/album/7y2IFkozp4IVZrh7PBrnrJ) | 3:09 | 2021-03-10 |  |
+| [Say](https://open.spotify.com/track/0XRYPlTCTHtaNAU1reGbB9) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [Silver Dream](https://open.spotify.com/album/7y2IFkozp4IVZrh7PBrnrJ) | 3:09 | 2021-03-10 | 2022-08-30 |
 | [scream!](https://open.spotify.com/track/4ns5zRv5YXKZTfiGx3qEE0) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [scream!](https://open.spotify.com/album/2sCqph9s39xDKrZBZVtlHY) | 3:19 | 2022-05-27 |  |
 | [scream!](https://open.spotify.com/track/7ht1CeMPNfLFPm5rrFvavq) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Revival](https://open.spotify.com/album/7jPYa8KUobduH8YFkep7AI) | 3:19 | 2022-06-27 | 2022-07-25 |
 | [Settling](https://open.spotify.com/track/6EEBiJswbgcLqnpKkuHM00) | [Ripe](https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT) | [Settling](https://open.spotify.com/album/6ZWVafX159Z2jQP3UW5PsR) | 3:08 | 2022-04-18 | 2022-07-29 |

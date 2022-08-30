@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 191506,
       "name": "Ain't That Good News",
       "url": "https://open.spotify.com/track/3C1dQBSyJTl1aSmIoj2ENS"
@@ -171,7 +171,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 223040,
       "name": "Devil's Hand",
       "url": "https://open.spotify.com/track/1GgXOtHDgL4eh6nmEq3yyP"
@@ -218,6 +218,24 @@
     },
     {
       "album": {
+        "name": "Outskirts of Love",
+        "url": "https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197466,
+      "name": "Drivin' Out Of Nashville",
+      "url": "https://open.spotify.com/track/4ULDew3F2uS29AWmUsNQUH"
+    },
+    {
+      "album": {
         "name": "Done Come Too Far",
         "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
       },
@@ -229,7 +247,7 @@
       ],
       "date_added": "2022-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 183478,
       "name": "Fried Catfish And Bibles",
       "url": "https://open.spotify.com/track/4pGSJx0gqo1HqadjSmXX1S"
@@ -515,7 +533,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-28",
+      "date_removed": null,
       "duration_ms": 365666,
       "name": "It's My Own Tears",
       "url": "https://open.spotify.com/track/3hEujxmbPHfblaCnUML6ow"
@@ -839,7 +857,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-26",
+      "date_removed": null,
       "duration_ms": 210800,
       "name": "Should Have Come Home",
       "url": "https://open.spotify.com/track/0k6YV1dH3v9ykL1XATPwsE"
@@ -947,7 +965,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 308093,
       "name": "The Fool You're Looking For",
       "url": "https://open.spotify.com/track/6OSTcwMHZyPJ8S62nXajYw"
@@ -983,7 +1001,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-25",
+      "date_removed": null,
       "duration_ms": 322688,
       "name": "The Talk",
       "url": "https://open.spotify.com/track/3pql8jcnsUaxCsvHochqGl"
@@ -1001,7 +1019,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 279640,
       "name": "Too Close",
       "url": "https://open.spotify.com/track/0opbokPzAGFGb950SHPzHq"
@@ -1145,7 +1163,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-21",
+      "date_removed": null,
       "duration_ms": 241093,
       "name": "Whole Lotta Water",
       "url": "https://open.spotify.com/track/16b5pT9Q1XRsqF41cpx3Fe"

@@ -1,12 +1,12 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: DNGDNGDNG",
-  "num_followers": 320931,
+  "num_followers": 320948,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTk5ODU2OSwwMDAwMDAwMDY1NmU4YWFjYmI0NWUyOWYzZTc2ZTZjMTk5MzBlZDJj",
+  "snapshot_id": "MTY0OTk5ODU2OSwwMDAwMDAwMGVjZWMxZDExNzYwOGFiNThjOTcyNmVjOWFlNmMzZmQ3",
   "tracks": [
     {
       "added_at": "2022-04-15 04:56:09",
@@ -275,6 +275,22 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
+        "name": "Batuco",
+        "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
+      },
+      "artists": [
+        {
+          "name": "Son Rompe Pera",
+          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
+        }
+      ],
+      "duration_ms": 220866,
+      "name": "P\u00e1jaro Cenzontle",
+      "url": "https://open.spotify.com/track/3QYQIrQ5ccLToSwFJ1cZcW"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
         "name": "Amansara",
         "url": "https://open.spotify.com/album/14DTBgOPUSBQwiK0DCzaLl"
       },
@@ -295,22 +311,6 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Batuco",
-        "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
-      },
-      "artists": [
-        {
-          "name": "Son Rompe Pera",
-          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
-        }
-      ],
-      "duration_ms": 220866,
-      "name": "P\u00e1jaro Cenzontle",
-      "url": "https://open.spotify.com/track/3QYQIrQ5ccLToSwFJ1cZcW"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
         "name": "Xaxoeira",
         "url": "https://open.spotify.com/album/0T1MHuHlxRGyGqZT1KGubi"
       },
@@ -323,6 +323,22 @@
       "duration_ms": 347600,
       "name": "1542",
       "url": "https://open.spotify.com/track/10glJ8ARN1G9ESFF9s00yk"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "Aire",
+        "url": "https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 273946,
+      "name": "Ahora",
+      "url": "https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -347,22 +363,6 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Aire",
-        "url": "https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 273946,
-      "name": "Ahora",
-      "url": "https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
         "name": "Cenotes (Deluxe Edition)",
         "url": "https://open.spotify.com/album/49SC0iDWnUvugi5UHZQuOQ"
       },
@@ -375,26 +375,6 @@
       "duration_ms": 240000,
       "name": "Ma\u00f1ana Tepotzlan",
       "url": "https://open.spotify.com/track/3SIvxOsX0OUlkhzSdQle6D"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
-        "name": "Amansara Remixed",
-        "url": "https://open.spotify.com/album/0DamnA2rzxSe94KwLwD3Hp"
-      },
-      "artists": [
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        },
-        {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        }
-      ],
-      "duration_ms": 239417,
-      "name": "Sueno en Paraguay - El Buho Remix",
-      "url": "https://open.spotify.com/track/421PeYBOflS19kvT0jqczs"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -451,6 +431,26 @@
       "duration_ms": 189569,
       "name": "Serpiente Dorada",
       "url": "https://open.spotify.com/track/1lAwqRBdQOnGltiX0oNm9I"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "Amansara Remixed",
+        "url": "https://open.spotify.com/album/0DamnA2rzxSe94KwLwD3Hp"
+      },
+      "artists": [
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        },
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        }
+      ],
+      "duration_ms": 239417,
+      "name": "Sueno en Paraguay - El Buho Remix",
+      "url": "https://open.spotify.com/track/421PeYBOflS19kvT0jqczs"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -611,6 +611,22 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
+        "name": "Conciencia",
+        "url": "https://open.spotify.com/album/3kEZQaZLXKbs0nljnRMRnc"
+      },
+      "artists": [
+        {
+          "name": "La Payara",
+          "url": "https://open.spotify.com/artist/4AIoRABXF7oeowVHCspvo8"
+        }
+      ],
+      "duration_ms": 210731,
+      "name": "Bogot\u00e1",
+      "url": "https://open.spotify.com/track/0OUM4ALGSMsPcQB56RFpd9"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
         "name": "Astral",
         "url": "https://open.spotify.com/album/11nP1vIstTbouhN9NoaTmh"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 348887,
       "name": "Astral",
       "url": "https://open.spotify.com/track/1H6ul0f4lJyhON3QXzoWf4"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
-        "name": "Conciencia",
-        "url": "https://open.spotify.com/album/3kEZQaZLXKbs0nljnRMRnc"
-      },
-      "artists": [
-        {
-          "name": "La Payara",
-          "url": "https://open.spotify.com/artist/4AIoRABXF7oeowVHCspvo8"
-        }
-      ],
-      "duration_ms": 210731,
-      "name": "Bogot\u00e1",
-      "url": "https://open.spotify.com/track/0OUM4ALGSMsPcQB56RFpd9"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -707,6 +707,22 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
+        "name": "Bye Bye",
+        "url": "https://open.spotify.com/album/3ZSoRUnuOmnGXhV359Jpir"
+      },
+      "artists": [
+        {
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        }
+      ],
+      "duration_ms": 271200,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/1S4sh25ZPqskyvoV0UlDGC"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
         "name": "Bleu de lune (El Buho Remix)",
         "url": "https://open.spotify.com/album/1NB4UnMNf4SOXCY7iIIdyZ"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 281100,
       "name": "Bleu de lune (El Buho Remix)",
       "url": "https://open.spotify.com/track/4FKT3e93KFlXf5KBh715EV"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
-        "name": "Bye Bye",
-        "url": "https://open.spotify.com/album/3ZSoRUnuOmnGXhV359Jpir"
-      },
-      "artists": [
-        {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
-        }
-      ],
-      "duration_ms": 271200,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/1S4sh25ZPqskyvoV0UlDGC"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -831,6 +831,22 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
+        "name": "De Aqu\u00ed Hasta Aqu\u00ed",
+        "url": "https://open.spotify.com/album/2IGTlMn6hFIJCilXryWOp3"
+      },
+      "artists": [
+        {
+          "name": "Federico Estevez",
+          "url": "https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41"
+        }
+      ],
+      "duration_ms": 144021,
+      "name": "Agujeros Blancos",
+      "url": "https://open.spotify.com/track/62fdnD6CHCJHQYwH2YOQw3"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
         "name": "Fuego Nuevo",
         "url": "https://open.spotify.com/album/3jXvU3BbxtNU9q5XG4BvDh"
       },
@@ -899,38 +915,6 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "T\u00fa Me Llevas",
-        "url": "https://open.spotify.com/album/1rR3l0T9K43s6FDWYyLCtG"
-      },
-      "artists": [
-        {
-          "name": "MO\u00dcGLI",
-          "url": "https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9"
-        }
-      ],
-      "duration_ms": 263650,
-      "name": "T\u00fa Me Llevas",
-      "url": "https://open.spotify.com/track/10OxrfJXZjNcWlbqvmxYs5"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
-        "name": "De Aqu\u00ed Hasta Aqu\u00ed",
-        "url": "https://open.spotify.com/album/2IGTlMn6hFIJCilXryWOp3"
-      },
-      "artists": [
-        {
-          "name": "Federico Estevez",
-          "url": "https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41"
-        }
-      ],
-      "duration_ms": 144021,
-      "name": "Agujeros Blancos",
-      "url": "https://open.spotify.com/track/62fdnD6CHCJHQYwH2YOQw3"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
         "name": "Enter the San",
         "url": "https://open.spotify.com/album/0jq4DsqKo31D8iRKXqfXxY"
       },
@@ -943,6 +927,58 @@
       "duration_ms": 199000,
       "name": "The Corsican",
       "url": "https://open.spotify.com/track/6Tr3FORhPcNYvbvsyytnL8"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "A Short Story of the Mahale Mountains",
+        "url": "https://open.spotify.com/album/1aDWcld5aEvnFUixZ3zfyO"
+      },
+      "artists": [
+        {
+          "name": "The Golden Islands",
+          "url": "https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf"
+        }
+      ],
+      "duration_ms": 162765,
+      "name": "A Short Story of the Mahale Mountains",
+      "url": "https://open.spotify.com/track/7ii2m9S4sHvuOIpHEx2ukF"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "Cuando Canto Grito",
+        "url": "https://open.spotify.com/album/4ZvHs6XyOHCVwWd1x0NGFP"
+      },
+      "artists": [
+        {
+          "name": "Cerrero",
+          "url": "https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6"
+        },
+        {
+          "name": "Luc\u00eda Pulido",
+          "url": "https://open.spotify.com/artist/3Nc4dbxJUlEmftLhLuXn3O"
+        }
+      ],
+      "duration_ms": 341074,
+      "name": "Cuando Canto Grito",
+      "url": "https://open.spotify.com/track/1t4gqrKnZ8TYjUAuyskN4Q"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "T\u00fa Me Llevas",
+        "url": "https://open.spotify.com/album/1rR3l0T9K43s6FDWYyLCtG"
+      },
+      "artists": [
+        {
+          "name": "MO\u00dcGLI",
+          "url": "https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9"
+        }
+      ],
+      "duration_ms": 263650,
+      "name": "T\u00fa Me Llevas",
+      "url": "https://open.spotify.com/track/10OxrfJXZjNcWlbqvmxYs5"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -975,58 +1011,6 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Cuando Canto Grito",
-        "url": "https://open.spotify.com/album/4ZvHs6XyOHCVwWd1x0NGFP"
-      },
-      "artists": [
-        {
-          "name": "Cerrero",
-          "url": "https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6"
-        },
-        {
-          "name": "Luc\u00eda Pulido",
-          "url": "https://open.spotify.com/artist/3Nc4dbxJUlEmftLhLuXn3O"
-        }
-      ],
-      "duration_ms": 341074,
-      "name": "Cuando Canto Grito",
-      "url": "https://open.spotify.com/track/1t4gqrKnZ8TYjUAuyskN4Q"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
-        "name": "A Short Story of the Mahale Mountains",
-        "url": "https://open.spotify.com/album/1aDWcld5aEvnFUixZ3zfyO"
-      },
-      "artists": [
-        {
-          "name": "The Golden Islands",
-          "url": "https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf"
-        }
-      ],
-      "duration_ms": 162765,
-      "name": "A Short Story of the Mahale Mountains",
-      "url": "https://open.spotify.com/track/7ii2m9S4sHvuOIpHEx2ukF"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
-        "name": "Kuru Kuru",
-        "url": "https://open.spotify.com/album/1VtknfjcZGa4thCJt9bcaP"
-      },
-      "artists": [
-        {
-          "name": "Maajo",
-          "url": "https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO"
-        }
-      ],
-      "duration_ms": 311141,
-      "name": "Soma",
-      "url": "https://open.spotify.com/track/1qA2L50nbrpDv9b53ifP88"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
         "name": "Semillero",
         "url": "https://open.spotify.com/album/4yjnNPa3bH1Vwrepclo6d4"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 348009,
       "name": "Pua",
       "url": "https://open.spotify.com/track/4b3bYGxsCzLnPwQ5CyRlQX"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "Kuru Kuru",
+        "url": "https://open.spotify.com/album/1VtknfjcZGa4thCJt9bcaP"
+      },
+      "artists": [
+        {
+          "name": "Maajo",
+          "url": "https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO"
+        }
+      ],
+      "duration_ms": 311141,
+      "name": "Soma",
+      "url": "https://open.spotify.com/track/1qA2L50nbrpDv9b53ifP88"
     },
     {
       "added_at": "2022-04-15 04:56:09",

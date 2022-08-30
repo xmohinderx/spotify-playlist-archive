@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2010s rock!  Cover: Papa Roach.
 
-516 songs - 1 day 8 hr 24 min - [published](https://open.spotify.com/playlist/6ihczCtWEYpK0uNMkSCVwY)
+517 songs - 1 day 8 hr 27 min - [published](https://open.spotify.com/playlist/6ihczCtWEYpK0uNMkSCVwY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [I Want to Live](https://open.spotify.com/track/7I6WAnAbCvA3LVzsjs6Ppe) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [I Want to Live](https://open.spotify.com/album/7p644n8sMsP1PLjWvEZ490) | 3:28 | 2022-05-25 | 2022-07-29 |
 | [I'll Follow You](https://open.spotify.com/track/0ILR5GMSzBRp2LrI8GX1Si) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Amaryllis](https://open.spotify.com/album/2WvIDc4wdKshyFh2EzLAs0) | 3:58 | 2022-05-25 |  |
 | [I'm Only Joking](https://open.spotify.com/track/3iag81mU7BylirRwRYXd8E) | [KONGOS](https://open.spotify.com/artist/58R5LHkK3vkmEyGUPOR5kS) | [Lunatic](https://open.spotify.com/album/71C65HI7THrlkpHHa24YJX) | 3:44 | 2022-05-25 | 2022-07-28 |
+| [I'm Shakin'](https://open.spotify.com/track/07AjyDeE85pDr4Dj8BzgWB) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Blunderbuss](https://open.spotify.com/album/6eSJ0lu0uwtiqXkP7Qrrno) | 3:00 | 2022-05-25 |  |
 | [If I Had a Tail](https://open.spotify.com/track/06hBdrgjUendZyH9U1WV22) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [...Like Clockwork](https://open.spotify.com/album/5T5NM01392dvvd4EhGrCnj) | 4:55 | 2022-05-25 |  |
 | [If You Have Ghosts](https://open.spotify.com/track/1sNSlzvQ5jPir46X5X1TeH) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [If You Have Ghost](https://open.spotify.com/album/08U01AsCXhbP7QdC7GABYw) | 3:34 | 2022-05-25 |  |
 | [If You Have Ghosts \- Bonus Track](https://open.spotify.com/track/1DhAs6AwQgjKMOs9EJ5AWY) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Infestissumam \(Redux\)](https://open.spotify.com/album/6wAdgEsc9xbvOKcaBG7T9f) | 3:33 | 2022-05-25 | 2022-07-24 |
@@ -411,7 +412,7 @@
 | [Sick](https://open.spotify.com/track/7q3vcf5XpYU6Y1iX4ZzHAk) | [Adelitas Way](https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk) | [Home School Valedictorian](https://open.spotify.com/album/4wphpmpU7otsQnFEjIHcMT) | 3:11 | 2022-05-25 | 2022-07-29 |
 | [Sick of It](https://open.spotify.com/track/6joJVMwHvK9ZC71jEb3yQw) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Sick of It](https://open.spotify.com/album/3kfwyfc1FMHBvtQhateolM) | 3:11 | 2022-05-25 | 2022-07-29 |
 | [Sirens](https://open.spotify.com/track/1cAMXz9mnvrqyQLSG4KeeE) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Lightning Bolt](https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M) | 5:40 | 2022-05-25 |  |
-| [Sixteen Saltines](https://open.spotify.com/track/3XBPCbTU9rSGuyuK7Xbj4B) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Blunderbuss](https://open.spotify.com/album/6eSJ0lu0uwtiqXkP7Qrrno) | 2:35 | 2022-05-25 |  |
+| [Sixteen Saltines](https://open.spotify.com/track/3XBPCbTU9rSGuyuK7Xbj4B) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Blunderbuss](https://open.spotify.com/album/6eSJ0lu0uwtiqXkP7Qrrno) | 2:35 | 2022-05-25 | 2022-08-30 |
 | [Sixteen Saltines](https://open.spotify.com/track/2GmMkODuUWlFZn87jdjbEy) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Blunderbuss](https://open.spotify.com/album/5Khz5tP9sdilu9YwlX8AE3) | 2:37 | 2022-05-25 | 2022-07-24 |
 | [Sober](https://open.spotify.com/track/6Uaqf3LCwuVebfm5u3ndq9) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [N.A.T.I.O.N.](https://open.spotify.com/album/1OSVLEGK6WXM1wPsF4v5M1) | 3:15 | 2022-05-25 |  |
 | [Soda](https://open.spotify.com/track/3PUnku87booODLtX6VVHwN) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Broken Machine \(Deluxe\)](https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq) | 3:56 | 2022-05-25 |  |

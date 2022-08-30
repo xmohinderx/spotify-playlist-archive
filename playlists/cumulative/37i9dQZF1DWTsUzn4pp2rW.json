@@ -428,6 +428,24 @@
     },
     {
       "album": {
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/4YrAMk088p90boVlesCpOQ"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201266,
+      "name": "Beautiful Stranger",
+      "url": "https://open.spotify.com/track/7ndKgIPneFhibUEYdqK8YE"
+    },
+    {
+      "album": {
         "name": "You're Fine",
         "url": "https://open.spotify.com/album/7AnOsuntfZx3d3Vrnt2z3B"
       },
@@ -515,7 +533,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 180000,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/4dumLEql3QNZfwVK4sTojD"
@@ -2044,6 +2062,24 @@
     },
     {
       "album": {
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/4YrAMk088p90boVlesCpOQ"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216453,
+      "name": "Just Like Chet",
+      "url": "https://open.spotify.com/track/3JCFkb1gVqjIT0hLFyX0Dc"
+    },
+    {
+      "album": {
         "name": "Kettle",
         "url": "https://open.spotify.com/album/2Lt4lgmQWlf1fzCOs699MG"
       },
@@ -3499,7 +3535,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 160629,
       "name": "The Light",
       "url": "https://open.spotify.com/track/32vvYSbLEh6ArgrO14b05N"

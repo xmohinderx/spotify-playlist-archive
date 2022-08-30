@@ -1,12 +1,12 @@
 {
   "description": "Miami me lo confirm\u00f3 featuring Nicky Jam.",
-  "num_followers": 36624,
+  "num_followers": 36661,
   "original_name": "Rompiendo: Miami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg5MDM4MywwMDAwMDAwMDkyYTJkZTY5NDk1NDA4MzRkNTE4ZDE0ZGEwMzg1MjJl",
+  "snapshot_id": "MTY2MDg5MDM4MywwMDAwMDAwMGI1MTVmNTRkZmVhYjYwZjdjY2NkYWI3MzcwZGFiNGIx",
   "tracks": [
     {
       "added_at": "2022-08-19 06:26:23",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-08-19 06:26:23",
       "album": {
-        "name": "Pepas",
-        "url": "https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 287120,
-      "name": "Pepas",
-      "url": "https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k"
-    },
-    {
-      "added_at": "2022-08-19 06:26:23",
-      "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
+    },
+    {
+      "added_at": "2022-08-19 06:26:23",
+      "album": {
+        "name": "Pepas",
+        "url": "https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 287120,
+      "name": "Pepas",
+      "url": "https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k"
     },
     {
       "added_at": "2022-08-19 06:26:23",
@@ -775,46 +775,6 @@
     {
       "added_at": "2022-08-19 06:26:23",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Jhay Cortez",
-          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
-        }
-      ],
-      "duration_ms": 237894,
-      "name": "Tarot",
-      "url": "https://open.spotify.com/track/41oY4WCTj5kccfesTVFnvN"
-    },
-    {
-      "added_at": "2022-08-19 06:26:23",
-      "album": {
-        "name": "Mi\u00e9nteme",
-        "url": "https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 165275,
-      "name": "Mi\u00e9nteme",
-      "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
-    },
-    {
-      "added_at": "2022-08-19 06:26:23",
-      "album": {
         "name": "KG0516",
         "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
       },
@@ -855,6 +815,26 @@
       "duration_ms": 219048,
       "name": "La Curiosidad",
       "url": "https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz"
+    },
+    {
+      "added_at": "2022-08-19 06:26:23",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Jhay Cortez",
+          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
+        }
+      ],
+      "duration_ms": 237894,
+      "name": "Tarot",
+      "url": "https://open.spotify.com/track/41oY4WCTj5kccfesTVFnvN"
     },
     {
       "added_at": "2022-08-19 06:26:23",
@@ -903,22 +883,22 @@
     {
       "added_at": "2022-08-19 06:26:23",
       "album": {
-        "name": "Pareja Del A\u00f1o",
-        "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
+        "name": "Mi\u00e9nteme",
+        "url": "https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg"
       },
       "artists": [
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
         },
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 195053,
-      "name": "Pareja Del A\u00f1o",
-      "url": "https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM"
+      "duration_ms": 165275,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
     },
     {
       "added_at": "2022-08-19 06:26:23",
@@ -939,18 +919,22 @@
     {
       "added_at": "2022-08-19 06:26:23",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+        "name": "Pareja Del A\u00f1o",
+        "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 230400,
-      "name": "Despu\u00e9s de la Playa",
-      "url": "https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2"
+      "duration_ms": 195053,
+      "name": "Pareja Del A\u00f1o",
+      "url": "https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM"
     },
     {
       "added_at": "2022-08-19 06:26:23",
@@ -975,6 +959,38 @@
     {
       "added_at": "2022-08-19 06:26:23",
       "album": {
+        "name": "SEJODIOTO",
+        "url": "https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 181106,
+      "name": "SEJODIOTO",
+      "url": "https://open.spotify.com/track/704LUEih663hiE3CnyUrFW"
+    },
+    {
+      "added_at": "2022-08-19 06:26:23",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Despu\u00e9s de la Playa",
+      "url": "https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2"
+    },
+    {
+      "added_at": "2022-08-19 06:26:23",
+      "album": {
         "name": "Qu\u00e9 M\u00e1s Pues?",
         "url": "https://open.spotify.com/album/53ul5SFjVUQCotbJhjCkkK"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 217773,
       "name": "Qu\u00e9 M\u00e1s Pues?",
       "url": "https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk8e"
-    },
-    {
-      "added_at": "2022-08-19 06:26:23",
-      "album": {
-        "name": "SEJODIOTO",
-        "url": "https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 181106,
-      "name": "SEJODIOTO",
-      "url": "https://open.spotify.com/track/704LUEih663hiE3CnyUrFW"
     },
     {
       "added_at": "2022-08-19 06:26:23",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2022-08-19 06:26:23",
       "album": {
-        "name": "KG0516",
-        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 219960,
-      "name": "CONTIGO VOY A MUERTE",
-      "url": "https://open.spotify.com/track/615XWyY2RPfk3iuYcU6qvi"
-    },
-    {
-      "added_at": "2022-08-19 06:26:23",
-      "album": {
         "name": "Que Cojones",
         "url": "https://open.spotify.com/album/1S4ZEZswAp0XrN5KuRNgbh"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 218106,
       "name": "Ella No Es Tuya - Remix",
       "url": "https://open.spotify.com/track/5YYW3yRktprLRr47WK219Y"
+    },
+    {
+      "added_at": "2022-08-19 06:26:23",
+      "album": {
+        "name": "KG0516",
+        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 219960,
+      "name": "CONTIGO VOY A MUERTE",
+      "url": "https://open.spotify.com/track/615XWyY2RPfk3iuYcU6qvi"
     },
     {
       "added_at": "2022-08-19 06:26:23",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2022-08-19 06:26:23",
       "album": {
-        "name": "En Mi Cuarto",
-        "url": "https://open.spotify.com/album/5Tb0I67ArZ6gI4tXJVIJ3h"
-      },
-      "artists": [
-        {
-          "name": "Jhay Cortez",
-          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        }
-      ],
-      "duration_ms": 196586,
-      "name": "En Mi Cuarto",
-      "url": "https://open.spotify.com/track/6Ee34qCOE6FBzEPRAGwSrn"
-    },
-    {
-      "added_at": "2022-08-19 06:26:23",
-      "album": {
         "name": "Always Dream",
         "url": "https://open.spotify.com/album/1LlyGFhg9ghr5zQsJ4vv9w"
       },
@@ -1527,6 +1507,26 @@
       "duration_ms": 211946,
       "name": "Por Fin",
       "url": "https://open.spotify.com/track/3bd1snLjdM5iTO9S8s5jtI"
+    },
+    {
+      "added_at": "2022-08-19 06:26:23",
+      "album": {
+        "name": "En Mi Cuarto",
+        "url": "https://open.spotify.com/album/5Tb0I67ArZ6gI4tXJVIJ3h"
+      },
+      "artists": [
+        {
+          "name": "Jhay Cortez",
+          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "duration_ms": 196586,
+      "name": "En Mi Cuarto",
+      "url": "https://open.spotify.com/track/6Ee34qCOE6FBzEPRAGwSrn"
     },
     {
       "added_at": "2022-08-19 06:26:23",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2022-08-19 06:26:23",
       "album": {
-        "name": "LA CANCI\u00d3N",
-        "url": "https://open.spotify.com/album/1mqXnDs578VdV5a6gRPpcN"
-      },
-      "artists": [
-        {
-          "name": "Zaucy",
-          "url": "https://open.spotify.com/artist/5DXdqxleQWNIESR33s0Bwv"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "LA CANCI\u00d3N",
-      "url": "https://open.spotify.com/track/4dC6muizwbm0zgzuSIP7kU"
-    },
-    {
-      "added_at": "2022-08-19 06:26:23",
-      "album": {
         "name": "Confesi\u00f3n",
         "url": "https://open.spotify.com/album/3o6SD5t7AH2NNHNVpABnTu"
       },
@@ -1663,22 +1647,38 @@
     {
       "added_at": "2022-08-19 06:26:23",
       "album": {
-        "name": "Habla Matador",
-        "url": "https://open.spotify.com/album/55fG4qzp3qcKL8MWlHxWPa"
+        "name": "LA CANCI\u00d3N",
+        "url": "https://open.spotify.com/album/1mqXnDs578VdV5a6gRPpcN"
       },
       "artists": [
         {
-          "name": "El Taiger",
-          "url": "https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf"
-        },
-        {
-          "name": "El Happy",
-          "url": "https://open.spotify.com/artist/2cEDvM2O93CC2TxsgJczos"
+          "name": "Zaucy",
+          "url": "https://open.spotify.com/artist/5DXdqxleQWNIESR33s0Bwv"
         }
       ],
-      "duration_ms": 163551,
-      "name": "Habla Matador",
-      "url": "https://open.spotify.com/track/2Irk3JNIVcCxOEdw3jod7v"
+      "duration_ms": 195000,
+      "name": "LA CANCI\u00d3N",
+      "url": "https://open.spotify.com/track/4dC6muizwbm0zgzuSIP7kU"
+    },
+    {
+      "added_at": "2022-08-19 06:26:23",
+      "album": {
+        "name": "Piensas En Mi",
+        "url": "https://open.spotify.com/album/48bOYyl6R4Osu0luA0RWoS"
+      },
+      "artists": [
+        {
+          "name": "Chesca",
+          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+        },
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Piensas En Mi",
+      "url": "https://open.spotify.com/track/4aZXV9vBzJlwAd54GGZdGY"
     },
     {
       "added_at": "2022-08-19 06:26:23",
@@ -1703,22 +1703,22 @@
     {
       "added_at": "2022-08-19 06:26:23",
       "album": {
-        "name": "Piensas En Mi",
-        "url": "https://open.spotify.com/album/48bOYyl6R4Osu0luA0RWoS"
+        "name": "Habla Matador",
+        "url": "https://open.spotify.com/album/55fG4qzp3qcKL8MWlHxWPa"
       },
       "artists": [
         {
-          "name": "Chesca",
-          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+          "name": "El Taiger",
+          "url": "https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf"
         },
         {
-          "name": "Alejo",
-          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+          "name": "El Happy",
+          "url": "https://open.spotify.com/artist/2cEDvM2O93CC2TxsgJczos"
         }
       ],
-      "duration_ms": 182400,
-      "name": "Piensas En Mi",
-      "url": "https://open.spotify.com/track/4aZXV9vBzJlwAd54GGZdGY"
+      "duration_ms": 163551,
+      "name": "Habla Matador",
+      "url": "https://open.spotify.com/track/2Irk3JNIVcCxOEdw3jod7v"
     },
     {
       "added_at": "2022-08-19 06:26:23",
@@ -1779,6 +1779,26 @@
     {
       "added_at": "2022-08-19 06:26:23",
       "album": {
+        "name": "Latest Hits",
+        "url": "https://open.spotify.com/album/3plQkSl64pHKKYHUYSYWz6"
+      },
+      "artists": [
+        {
+          "name": "Leoni Torres",
+          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
+        },
+        {
+          "name": "El Chacal",
+          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
+        }
+      ],
+      "duration_ms": 195157,
+      "name": "Si T\u00fa Me Dejas Solo",
+      "url": "https://open.spotify.com/track/3zZ7ijjkDuF4ZfTkXZyxru"
+    },
+    {
+      "added_at": "2022-08-19 06:26:23",
+      "album": {
         "name": "D\u00edmelo",
         "url": "https://open.spotify.com/album/59chl7fGmsBjN3KbUNg2JB"
       },
@@ -1799,26 +1819,6 @@
       "duration_ms": 162435,
       "name": "D\u00edmelo",
       "url": "https://open.spotify.com/track/0L2FkH5RUaRlkBajIhRpwK"
-    },
-    {
-      "added_at": "2022-08-19 06:26:23",
-      "album": {
-        "name": "Latest Hits",
-        "url": "https://open.spotify.com/album/3plQkSl64pHKKYHUYSYWz6"
-      },
-      "artists": [
-        {
-          "name": "Leoni Torres",
-          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
-        },
-        {
-          "name": "El Chacal",
-          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
-        }
-      ],
-      "duration_ms": 195157,
-      "name": "Si T\u00fa Me Dejas Solo",
-      "url": "https://open.spotify.com/track/3zZ7ijjkDuF4ZfTkXZyxru"
     },
     {
       "added_at": "2022-08-19 06:26:23",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2022-08-19 06:26:23",
       "album": {
-        "name": "GOTEO",
-        "url": "https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy"
-      },
-      "artists": [
-        {
-          "name": "Paty B",
-          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
-        }
-      ],
-      "duration_ms": 170666,
-      "name": "MIAMI",
-      "url": "https://open.spotify.com/track/61iXoesKYCN6TQKIUAPG5N"
-    },
-    {
-      "added_at": "2022-08-19 06:26:23",
-      "album": {
         "name": "OTRA COSA",
         "url": "https://open.spotify.com/album/00AVS4xDGxD61LgiIkDaN7"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 206533,
       "name": "Quiero Conocerte (feat. El Chacal)",
       "url": "https://open.spotify.com/track/5AyKLpNMh92tfAoiK3EVch"
+    },
+    {
+      "added_at": "2022-08-19 06:26:23",
+      "album": {
+        "name": "GOTEO",
+        "url": "https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy"
+      },
+      "artists": [
+        {
+          "name": "Paty B",
+          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
+        }
+      ],
+      "duration_ms": 170666,
+      "name": "MIAMI",
+      "url": "https://open.spotify.com/track/61iXoesKYCN6TQKIUAPG5N"
     },
     {
       "added_at": "2022-08-19 06:26:23",

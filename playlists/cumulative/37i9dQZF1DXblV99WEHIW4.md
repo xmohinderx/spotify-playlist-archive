@@ -4,7 +4,7 @@
 
 > Heavy music that understands.
 
-96 songs - 6 hr 25 min - [published](https://open.spotify.com/playlist/0Ngqpcl8RKKzJxWis2gA88)
+97 songs - 6 hr 28 min - [published](https://open.spotify.com/playlist/0Ngqpcl8RKKzJxWis2gA88)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Anthem](https://open.spotify.com/track/23Z6JttaqkoqxqbAWArFqO) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu), [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Seize the Power](https://open.spotify.com/album/2QgPGKzoN51qcEzGlHYk7j) | 3:48 | 2022-08-25 |  |
 | [ANTI\-SOCIAL](https://open.spotify.com/track/5XExne04zgnDeAN8aIvMvM) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [SO WHAT?](https://open.spotify.com/album/2jd0syXer1txxASx3W2oy0) | 4:14 | 2021-02-17 |  |
 | [Anxiety](https://open.spotify.com/track/0nSo7AFdw4vrz7nPGKMOWr) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [End of Suffering](https://open.spotify.com/album/1KS8HJ4sPoHFnryujTqXIf) | 3:38 | 2021-02-17 |  |
-| [Be Alone](https://open.spotify.com/track/59B6hcX22AYUIKifFwBbFp) | [Acres](https://open.spotify.com/artist/3y43zXffnLmhyQD1K4QCmD) | [Be Alone](https://open.spotify.com/album/5SahpHDy9ILV71aslGyRVc) | 4:41 | 2021-02-17 |  |
+| [Bad At Love](https://open.spotify.com/track/3MwjVy96d2KNl99nrFPxmh) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Bad At Love](https://open.spotify.com/album/0nPFXbRDNvRH0297jTqgTh) | 3:22 | 2022-08-25 |  |
+| [Be Alone](https://open.spotify.com/track/59B6hcX22AYUIKifFwBbFp) | [Acres](https://open.spotify.com/artist/3y43zXffnLmhyQD1K4QCmD) | [Be Alone](https://open.spotify.com/album/5SahpHDy9ILV71aslGyRVc) | 4:41 | 2021-02-17 | 2022-08-30 |
 | [Best of You](https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [In Your Honor](https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ) | 4:15 | 2021-02-17 |  |
 | [Biblical](https://open.spotify.com/track/2iA2pnDol3a471EFEBZf7h) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Opposites \(Deluxe\)](https://open.spotify.com/album/4kSwfTpSCG4xVZcEn3OGrY) | 3:57 | 2021-02-17 | 2022-07-29 |
 | [Biblical](https://open.spotify.com/track/4oFEus9krS5v57wAcggcEz) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Opposites \(Deluxe\)](https://open.spotify.com/album/3wKxJeyD60VukP9dBXN4ES) | 3:57 | 2021-02-17 | 2022-08-26 |

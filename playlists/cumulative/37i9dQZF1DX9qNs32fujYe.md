@@ -4,7 +4,7 @@
 
 > Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Megadeth
 
-642 songs - 2 day 0 hr 0 min - [published](https://open.spotify.com/playlist/6NpBTQ0b3N3b1zdtxQGNsV)
+644 songs - 2 day 0 hr 12 min - [published](https://open.spotify.com/playlist/6NpBTQ0b3N3b1zdtxQGNsV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Cowboys from Hell](https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Cowboys from Hell](https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe) | 4:03 | 2022-08-19 |  |
 | [Crazy Train](https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Blizzard Of Ozz \(40th Anniversary Expanded Edition\)](https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS) | 4:53 | 2022-07-29 |  |
 | [Creatures Of The Dark Realm](https://open.spotify.com/track/3pKt0cqu9kyUzftP41AXXh) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [Creatures Of The Dark Realm \(Japan Edition\)](https://open.spotify.com/album/1yETM7Cx0FFPiDAAcSOeAQ) | 4:08 | 2021-12-17 | 2022-07-29 |
-| [Crimson Skies](https://open.spotify.com/track/0kAeOySijs6f5J97cEP5uq) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Crimson Skies](https://open.spotify.com/album/0SsMZzgebkTGO5mduRB7ji) | 4:09 | 2022-07-13 |  |
+| [Crimson Skies](https://open.spotify.com/track/0kAeOySijs6f5J97cEP5uq) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Crimson Skies](https://open.spotify.com/album/0SsMZzgebkTGO5mduRB7ji) | 4:09 | 2022-07-13 | 2022-08-30 |
 | [Crossing the Blades](https://open.spotify.com/track/4diHw8YPlaaKbcqATN3WBd) | [Running Wild](https://open.spotify.com/artist/7954VFaZClkL503srfV5PE) | [Crossing the Blades](https://open.spotify.com/album/4FMF6kWNYex6Poy4GA8FQ3) | 5:26 | 2021-12-17 | 2022-05-11 |
 | [Crow Killer Blues](https://open.spotify.com/track/3LK0cE6zURQCFoiAzQiaUy) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Lunar Injection Kool Aid Eclipse Conspiracy](https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e) | 5:00 | 2022-07-13 |  |
 | [Crucify Me](https://open.spotify.com/track/6xh1HHGZPLN0FsGg68Gm1c) | [Primal Fear](https://open.spotify.com/artist/1yfiDL3YUEJlQCgb5Pun6g) | [Crucify Me](https://open.spotify.com/album/3Y76qo9r5o9YPfwEPuJV7Y) | 4:10 | 2022-03-02 | 2022-05-20 |
@@ -337,7 +337,7 @@
 | [Master of Puppets \(Remastered\)](https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master of Puppets \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j) | 8:35 | 2022-07-08 |  |
 | [Masters of War](https://open.spotify.com/track/4Avnu5FR70qWD9VxandTWe) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Masters of War](https://open.spotify.com/album/0w8qn4MsyCw0d8i98QiZTh) | 4:34 | 2021-12-17 |  |
 | [Maximus](https://open.spotify.com/track/1K39nmA9tBudF6jNiV1iO6) | [Warkings](https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E) | [Maximus](https://open.spotify.com/album/4FGuBSsKGaTw0MV7qBeq16) | 4:12 | 2021-12-17 | 2022-07-21 |
-| [Mean, Green, Killing Machine](https://open.spotify.com/track/0mIUS9GApGWW8wGxNI0CPE) | [Overkill](https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe) | [The Grinding Wheel](https://open.spotify.com/album/5XuskaRVS1oPwxEdjEfYoz) | 7:29 | 2022-03-22 |  |
+| [Mean, Green, Killing Machine](https://open.spotify.com/track/0mIUS9GApGWW8wGxNI0CPE) | [Overkill](https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe) | [The Grinding Wheel](https://open.spotify.com/album/5XuskaRVS1oPwxEdjEfYoz) | 7:29 | 2022-03-22 | 2022-08-30 |
 | [Memento Mori](https://open.spotify.com/track/1flcnqrtVKsluQXLEPfGJW) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/7FEBQOq6SXl4CsqR6wTTGy) | 5:48 | 2022-07-13 |  |
 | [Memento Mori](https://open.spotify.com/track/6V1tb8rFw1nPeOXX4sccTC) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Memento Mori](https://open.spotify.com/album/7jBx6OxyVMHSmAzLHxchIh) | 5:48 | 2021-12-17 | 2022-07-28 |
 | [Metal Division](https://open.spotify.com/track/6IHYWWmVyVXVk8b8rBYy9z) | [Mystic Prophecy](https://open.spotify.com/artist/5kUzPpkPyNpxRYd66c8nYG) | [Metal Division](https://open.spotify.com/album/0cVq9qXjU2QnlocsDrHrRr) | 3:29 | 2021-12-17 | 2022-07-25 |
@@ -356,6 +356,7 @@
 | [More Than Dreaming](https://open.spotify.com/track/7Lx46Dt2A9Dr9cSsm2okk0) | [Light The Torch](https://open.spotify.com/artist/6RIRplpyp79REfeBrvW8rH) | [You Will Be the Death of Me](https://open.spotify.com/album/3wB6kgbmfIEQQz7VOzuFpO) | 3:09 | 2022-07-08 |  |
 | [My Curse](https://open.spotify.com/track/6zKF4293k44ItKWJJgrhXv) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [As Daylight Dies \(Special Edition\)](https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z) | 4:04 | 2022-08-19 |  |
 | [My Dystopia](https://open.spotify.com/track/2nPs2kLCJQFwx62PrYcjts) | [Brainstorm](https://open.spotify.com/artist/6IlOclSCHgJ9Aix6QEktkO) | [Wall of Skulls](https://open.spotify.com/album/6iDBykFuBbSaHhnPzVH1y9) | 4:30 | 2021-12-17 | 2022-07-24 |
+| [MY HANDS ARE EMPTY](https://open.spotify.com/track/4RqYIpKL0gu6iCXhDwTVGz) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 5:29 | 2022-08-26 |  |
 | [MY HANDS ARE EMPTY](https://open.spotify.com/track/6uFfNpLvsIesv0dNzsQPvT) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [MY HANDS ARE EMPTY](https://open.spotify.com/album/66fbY55YzWvXGKIDEqxFAh) | 5:31 | 2022-07-13 | 2022-08-28 |
 | [My Midnight Things](https://open.spotify.com/track/6VDQFrgoZmTR0nKVCFXMtc) | [Lizzy Borden](https://open.spotify.com/artist/0ZdLFpb5MhkSrsHef7A3Bb) | [My Midnight Things](https://open.spotify.com/album/74BIJQijc2IChuwZnkGsm3) | 4:21 | 2021-12-17 | 2022-07-15 |
 | [My Own Summer \(Shove It\)](https://open.spotify.com/track/1158ckiB5S4cpsdYHDB9IF) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 3:34 | 2022-08-19 |  |
@@ -586,6 +587,7 @@
 | [Twilight Of The Gods](https://open.spotify.com/track/06HNCfXJcMnKHmRrkue97s) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Beyond The Red Mirror](https://open.spotify.com/album/5bH9q5EMi147oTykVETEZn) | 4:51 | 2022-03-22 | 2022-04-19 |
 | [Unbreakable](https://open.spotify.com/track/1IaQLINjiOCSv4INrrv0aS) | [Stratovarius](https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO) | [Nemesis](https://open.spotify.com/album/37qdr3nW8foSCx7SRHP5La) | 4:37 | 2021-12-17 | 2022-04-30 |
 | [Under Your Tattoos](https://open.spotify.com/track/6koYE3878OQT34mPMuGZ4X) | [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Aurora](https://open.spotify.com/album/27iMGsljLzEgyFU1rAR0bX) | 4:12 | 2022-07-13 | 2022-08-20 |
+| [UNHALLØWED](https://open.spotify.com/track/1vCZDcHV3VaL14O01iUQVQ) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 6:29 | 2022-08-26 |  |
 | [UNHALLØWED](https://open.spotify.com/track/7F50EgojtGvz0imM1Koix8) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [UNHALLØWED](https://open.spotify.com/album/59wKmvq4pGRszs2tKjDY7e) | 6:29 | 2022-06-24 | 2022-08-27 |
 | [Unstoppable](https://open.spotify.com/track/3GEt0KLFFxhX3LvF7JJtAV) | [Disconnected](https://open.spotify.com/artist/2r5XoOgWhsoHsAysRIyqIb) | [Unstoppable](https://open.spotify.com/album/5ZUQz4uaNKpoC3JY33bVkQ) | 3:42 | 2022-03-22 | 2022-04-16 |
 | [Until We Fall](https://open.spotify.com/track/3Afcf2YiMEpbCD85cAQ40k) | [Starkill](https://open.spotify.com/artist/7wBaXEIGEMxCJYguNjk5RW) | [Until We Fall](https://open.spotify.com/album/5EgokimLgkR4WX6vCDgnv6) | 3:31 | 2021-12-29 | 2022-07-22 |

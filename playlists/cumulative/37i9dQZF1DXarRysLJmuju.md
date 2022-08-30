@@ -2,9 +2,9 @@
 
 ### [Pop All Day](https://open.spotify.com/playlist/37i9dQZF1DXarRysLJmuju)
 
-> Keep up with all the latest pop hits\. Cover: Selena Gomez, Rema
+> Keep up with all the latest pop hits\. Cover: Rema, Selena Gomez
 
-511 songs - 1 day 2 hr 5 min - [published](https://open.spotify.com/playlist/72ei0AA5JxKKu1O5OfW8cY)
+512 songs - 1 day 2 hr 8 min - [published](https://open.spotify.com/playlist/72ei0AA5JxKKu1O5OfW8cY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -466,7 +466,7 @@
 | [Uh Oh](https://open.spotify.com/track/3H22B0hgj1YTiqalHYmlcd) | [Maggie Szabo](https://open.spotify.com/artist/1V5IVmwHG2veT0CUw3kb48) | [Uh Oh](https://open.spotify.com/album/01uvUQQX7kHhylGcUxviGD) | 3:01 | 2022-07-15 | 2022-08-20 |
 | [Undeniable \(feat\. X Ambassadors\)](https://open.spotify.com/track/71qB68guEJjbvtjlkZ8DF5) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Undeniable \(feat\. X Ambassadors\)](https://open.spotify.com/album/3SgXZqSc8UfHsbrseyYscm) | 3:00 | 2021-12-31 | 2022-02-26 |
 | [Unfinished Business](https://open.spotify.com/track/5CYUCj24HvoKfjraBQal0O) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Unfinished Business](https://open.spotify.com/album/4LCOSVdjQV8t1PZGia7CTR) | 3:29 | 2022-08-19 |  |
-| [UP](https://open.spotify.com/track/2ykXJ9QVwx9Li8nsW0h6b2) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [UP](https://open.spotify.com/album/2jA1exLaHCcpHtDrGLKTmy) | 2:28 | 2022-06-17 |  |
+| [UP](https://open.spotify.com/track/2ykXJ9QVwx9Li8nsW0h6b2) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [UP](https://open.spotify.com/album/2jA1exLaHCcpHtDrGLKTmy) | 2:28 | 2022-06-17 | 2022-08-30 |
 | [up at night \(feat\. justin bieber\)](https://open.spotify.com/track/4WghJOMjDpGdlk3b8aJIgy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [up at night \(feat\. justin bieber\)](https://open.spotify.com/album/3vnJxSrVldmInhRwtcUG89) | 3:02 | 2022-04-01 | 2022-05-07 |
 | [Upper Hand](https://open.spotify.com/track/4BIXStJCdslgGUnuoz87JC) | [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH), [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [No Love Is Ever Wasted](https://open.spotify.com/album/0riXZXCMgIwXMPmrJhXErZ) | 2:52 | 2022-06-10 |  |
 | [Used To Know Me](https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:25 | 2022-03-18 | 2022-05-07 |
@@ -497,6 +497,7 @@
 | [Where Did You Go? \(feat\. MNEK\)](https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Where Did You Go \(feat\. MNEK\)](https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL) | 2:57 | 2022-03-25 | 2022-08-06 |
 | [Where the Sidewalk Ends](https://open.spotify.com/track/7y93FcIlQj9c6xVHfKX3sA) | [Garrett Nash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw), [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [Where the Sidewalk Ends](https://open.spotify.com/album/1BfuiaHKsqRNxBgjpoJY3d) | 2:44 | 2022-06-10 | 2022-06-25 |
 | [Where you are \(feat\. WILLOW\)](https://open.spotify.com/track/4icnlpI5IbZcRO9mpixVVW) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Where you are \(feat\. WILLOW\)](https://open.spotify.com/album/1wFiFlS50SnyKPAIcBzAQN) | 2:33 | 2022-04-22 | 2022-05-14 |
+| [Wherever You Go](https://open.spotify.com/track/7Emwu6FcGIENbWKmDiD2ct) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Wherever You Go](https://open.spotify.com/album/33zJ4SIK5Tf8YXlYSsvelT) | 2:49 | 2022-08-29 |  |
 | [whose love](https://open.spotify.com/track/5NuABtgxyIFRZ3Y9PccU10) | [Lubalin](https://open.spotify.com/artist/6lt3CXKfhLXjYl2VFD6vN4) | [whose love](https://open.spotify.com/album/4KfAxRBT0Y3mjC1TspFEag) | 1:31 | 2022-06-10 | 2022-07-02 |
 | [Wild Ride](https://open.spotify.com/track/2vI1BaR12gW5RHz5onhKvO) | [Once A Tree](https://open.spotify.com/artist/0X76D1rqYL4kl2Jek2e5pQ) | [The Good, The Bad](https://open.spotify.com/album/2Qsp0jIthArLnsbEEgReDH) | 2:34 | 2021-12-31 | 2022-02-26 |
 | [Will It Ever Feel The Same?](https://open.spotify.com/track/2bsuvsOwkhIstFmn0IHkhG) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Will It Ever Feel The Same?](https://open.spotify.com/album/2FkJKUyeNKvWKhZJLdgTUd) | 3:00 | 2022-05-13 | 2022-06-11 |

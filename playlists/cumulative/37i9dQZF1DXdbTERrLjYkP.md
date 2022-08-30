@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: SAPPHIRE
 
-241 songs - 12 hr 50 min - [published](https://open.spotify.com/playlist/5yqeqnGwA3WW1b3xVN4nfp)
+242 songs - 12 hr 54 min - [published](https://open.spotify.com/playlist/5yqeqnGwA3WW1b3xVN4nfp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,8 @@
 | [Small Things](https://open.spotify.com/track/2kKGKGT7YySUdJ9s6SFzwD) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Small Things](https://open.spotify.com/album/33WitbRUYLqnDU2EYxAY4Z) | 2:57 | 2022-03-18 | 2022-06-04 |
 | [So My Darling \- Acoustic](https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling \(Acoustic\)](https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L) | 3:48 | 2022-02-18 | 2022-07-23 |
 | [Some friends and a place to call home](https://open.spotify.com/track/0zzcjPRxa26NDyex0GoJs2) | [Mōzi](https://open.spotify.com/artist/5w603RhGuKjuDtIlkQt3E4) | [Some friends and a place to call home](https://open.spotify.com/album/6LObxZbQLxl6dBVRfzVAFm) | 3:07 | 2022-01-14 | 2022-03-12 |
-| [Some Things Aren't Meant Forever](https://open.spotify.com/track/3rbOx276Sg54mKg1wtw3TZ) | [Tayler Buono](https://open.spotify.com/artist/5doPfvddXXjtQIJu9rQEz5) | [Some Things Aren't Meant Forever](https://open.spotify.com/album/6oXh4YBENKSxvNm1qwdwru) | 3:05 | 2022-05-27 |  |
+| [Some Things Aren't Meant Forever](https://open.spotify.com/track/3rbOx276Sg54mKg1wtw3TZ) | [Tayler Buono](https://open.spotify.com/artist/5doPfvddXXjtQIJu9rQEz5) | [Some Things Aren't Meant Forever](https://open.spotify.com/album/6oXh4YBENKSxvNm1qwdwru) | 3:05 | 2022-05-27 | 2022-08-30 |
+| [Some Things Aren't Meant Forever](https://open.spotify.com/track/7bIoxoBmjIIO5qazZNKXI1) | [Tayler Buono](https://open.spotify.com/artist/5doPfvddXXjtQIJu9rQEz5) | [Some Things Aren't Meant Forever](https://open.spotify.com/album/713FODmo5rvUqDtgPhOeYm) | 3:05 | 2022-08-12 |  |
 | [somebody](https://open.spotify.com/track/44qxpRkE9t5xutQB6zCpTF) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [i wonder if you wonder](https://open.spotify.com/album/3Mz1DFcunKLU3ki7iVX26t) | 3:45 | 2022-01-14 |  |
 | [Something Greater](https://open.spotify.com/track/7rHQU2YxurHZZv2KgH2bmu) | [Anna Bates](https://open.spotify.com/artist/4JLqUtfyFvInfcLILCOIJx) | [Something Greater](https://open.spotify.com/album/25KmIokaKnmcktRqyafh12) | 3:22 | 2022-04-22 | 2022-08-20 |
 | [Something I Hate](https://open.spotify.com/track/55yU2X0SZI3KFEz7B4YsMd) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Something I Hate](https://open.spotify.com/album/0sRyc5tDvYwBGm3Rgq5dHo) | 2:51 | 2022-06-24 |  |

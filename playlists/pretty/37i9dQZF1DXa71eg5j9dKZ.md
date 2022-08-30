@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > Alternative electronic gems\. Cover: George Fitzgerald
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,253 likes - 120 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,136 likes - 120 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > 빗방울대신 감성을 맞는 시간.
 
-184 songs - 11 hr 18 min - [published](https://open.spotify.com/playlist/05K73QU8xNffboBfRI8ruF)
+185 songs - 11 hr 21 min - [published](https://open.spotify.com/playlist/05K73QU8xNffboBfRI8ruF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Kind Of Confession \(Male Ver.\)](https://open.spotify.com/track/5w1sW9Gr8fBBy82f21uF0s) | [Kwak jineon](https://open.spotify.com/artist/5NBDM7OpuuyUNtlLLxTYWD) | [My Liberation Notes OST Part 9](https://open.spotify.com/album/19Ya0jFcV7U0opVyJqRHCV) | 3:56 | 2022-06-20 |  |
 | [Abnormal Climate](https://open.spotify.com/track/67dt4RsTHDhCTbnrqKzhX9) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/0XHinGNkFWk58KpzLxU5QF) | 4:06 | 2022-06-20 | 2022-08-10 |
 | [alarm](https://open.spotify.com/track/3rLJg6e2JKJBaQL1LTBHJO) | [saeneok](https://open.spotify.com/artist/0HFyqg6Dwupd1p9SbNDEzL) | [tinge](https://open.spotify.com/album/6PzWM3WP8bBlBlY1a90vjT) | 6:12 | 2022-07-04 | 2022-07-09 |
+| [Alive with you \(feat\. SFC.JGR\)](https://open.spotify.com/track/3jLd5QpiODmjFrZnDj32o4) | [Yel](https://open.spotify.com/artist/6vz9KUVgEo1gXIobqiwJ15), [SFC.JGR](https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ) | [Alive with you](https://open.spotify.com/album/7cQ8kH5jyOLLZuAJUhccUT) | 3:23 | 2022-08-19 |  |
 | [All Night Long \(She is My Type♡ X Car, the garden\)](https://open.spotify.com/track/797XRv2RhIp9qHeKG42HzD) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [All Night Long \(She is My Type♡ X Car, the garden\)](https://open.spotify.com/album/5P3m24aXWEmpq8LoYVzofm) | 3:19 | 2022-06-20 | 2022-08-14 |
 | [All the lies](https://open.spotify.com/track/7kJIOZI4WdcD8oOXCSjtBf) | [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [The Quest for Anxiety](https://open.spotify.com/album/1Jdr1Jz2MlBSrxavzxjEmy) | 4:35 | 2022-07-13 | 2022-07-19 |
 | [Alone At Night \(feat\. ByulHa\)](https://open.spotify.com/track/53OitzmAKmu0m9pdOurszx) | [SIM2](https://open.spotify.com/artist/6RuP6GVxx8trGK6dINhoUR), [ByulHa](https://open.spotify.com/artist/0206jPAMaD9eYyqADY140j) | [Alone At Night](https://open.spotify.com/album/5OloxqiMnBSs2kcthpVrFE) | 3:40 | 2022-07-04 | 2022-07-29 |
@@ -25,7 +26,7 @@
 | [Back](https://open.spotify.com/track/7Fh5m2ZoYoRcs8aNvDetIi) | [Horace](https://open.spotify.com/artist/3Gxy3MGYNEh4m4A2TlvEi5) | [To City](https://open.spotify.com/album/3svJwN8Efp7g9EfHuNG4WA) | 4:25 | 2022-06-20 | 2022-07-06 |
 | [Because](https://open.spotify.com/track/6dc6iZ6Htwg0T1b2m9PO2L) | [Night Off](https://open.spotify.com/artist/0MrJIVLnVbubveFG4zSy88) | [Because](https://open.spotify.com/album/2k5FNmZE4XTIf5h8W5sNsJ) | 3:28 | 2022-06-20 | 2022-06-28 |
 | [Because it's you](https://open.spotify.com/track/4R6vtch9Mb2a1xkZheaDZU) | [Seol Hoseung \(SURL\)](https://open.spotify.com/artist/74eigHxPC6nhip2jnAili4) | [You Are My Spring OST Part 2](https://open.spotify.com/album/0hDpePbI4nFXfX5VAgBO3J) | 3:46 | 2022-06-20 | 2022-07-23 |
-| [Beside](https://open.spotify.com/track/11xJzjqdO6as2OEBfn2Fl7) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [Beside](https://open.spotify.com/album/6rKWrHmwSip4xYYj6MPLAt) | 3:54 | 2022-06-20 |  |
+| [Beside](https://open.spotify.com/track/11xJzjqdO6as2OEBfn2Fl7) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [Beside](https://open.spotify.com/album/6rKWrHmwSip4xYYj6MPLAt) | 3:54 | 2022-06-20 | 2022-08-30 |
 | [bird](https://open.spotify.com/track/4My7LoAyoRjvqHWWM2i1R4) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [wave 0.01](https://open.spotify.com/album/2yXHoZzQiKV8WZZhG9V3pb) | 3:36 | 2022-06-20 | 2022-06-26 |
 | [bittersweet](https://open.spotify.com/track/3JqgRqxVfoZXfDWYosS9ef) | [Epitone Project](https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN) | [STOP OVER](https://open.spotify.com/album/6uDov9hyYO6A3IKH1bALL7) | 3:28 | 2022-06-20 | 2022-07-29 |
 | [Bloom](https://open.spotify.com/track/7IElhPx2i4MjnVgzOZVqrB) | [CHAI](https://open.spotify.com/artist/0zNxCxEjUGAsb6ygZd27fC) | [Bloom](https://open.spotify.com/album/1IXM5QxiYDAd4BwCUxOg95) | 3:24 | 2022-06-20 | 2022-07-29 |

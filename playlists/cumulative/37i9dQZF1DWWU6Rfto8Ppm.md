@@ -4,7 +4,7 @@
 
 > Acuérdate de estas canciones clásicas\. Foto: Wisin & Yandel, el Dúo de la Historia.
 
-338 songs - 20 hr 28 min - [published](https://open.spotify.com/playlist/5SgU8PR0wDw30k07Az00VU)
+339 songs - 20 hr 31 min - [published](https://open.spotify.com/playlist/5SgU8PR0wDw30k07Az00VU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Agresivo](https://open.spotify.com/track/2kGnzHH1Q6YaxjNylz68CM) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [La Calle Vol\. 1](https://open.spotify.com/album/30iJTNP5UbuT2QFDlOVwME) | 3:49 | 2021-12-17 |  |
 | [Agárrala \- Remix](https://open.spotify.com/track/43yyvWNjl3yWpghcrxZYkr) | [Trebol Clan](https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr) | [Los Bacatranes](https://open.spotify.com/album/6L3AvTd86IFDOEcPCLUmf7) | 2:32 | 2021-12-17 |  |
 | [Agárrale el Pantalón \(feat\. Zion & Lennox\)](https://open.spotify.com/track/3Wd4Yl2TjjTxkvlJCHWvB9) | [Alexis y Fido](https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [The Pitbulls](https://open.spotify.com/album/3OGa8iAHFfNXNT6wngG1eH) | 3:09 | 2021-12-17 | 2022-07-29 |
-| [Ahora \(feat\. Angel Doze\)](https://open.spotify.com/track/6xuCqLILMiXxugbUmuRVJi) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Motivando a la Yal](https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF) | 3:01 | 2022-07-27 |  |
+| [Ahora \(feat\. Angel Doze\)](https://open.spotify.com/track/6xuCqLILMiXxugbUmuRVJi) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Motivando a la Yal](https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF) | 3:01 | 2022-07-27 | 2022-08-30 |
 | [Al Desnudo](https://open.spotify.com/track/38Mzy2BNRAAHQ1kzMdoyGw) | [Erre XI](https://open.spotify.com/artist/3mqvfyOtukTRmUkZHuP1ed) | [Luny Tunes Presents ERRE XI](https://open.spotify.com/album/0PKXKZ0k8BPkxT4nOVFESl) | 3:08 | 2022-03-15 |  |
 | [Al Natural \(feat\. Yandel\)](https://open.spotify.com/track/49vwUeeauJgEQxDViXA01C) | [Tego Calderon](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [El Enemy de Los Guasíbiri](https://open.spotify.com/album/69rKlAM3KXEHw6vPtM6e9L) | 3:24 | 2021-12-17 |  |
 | [Algo Me Gusta De Ti](https://open.spotify.com/track/3nDNXKBb5fRTuQXpeowWTT) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Líderes](https://open.spotify.com/album/6tOFRRXAis3nniv1wG6Nae) | 4:35 | 2022-07-27 |  |
@@ -138,6 +138,7 @@
 | [Hoy \(feat\. Daddy Yankee, J\-Alvarez & Jory\)](https://open.spotify.com/track/2MrP2Sv5Zbj1qckTKD1pVn) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT) | [Hoy \(feat\. Daddy Yankee, J\-Alvarez & Jory\)](https://open.spotify.com/album/63KShmoudDQpMk8eFWBLjb) | 4:53 | 2021-12-17 |  |
 | [Igual Que Ayer](https://open.spotify.com/track/2WHctubxf8LzrGr62cLz3d) | [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [Masterpiece: Nuestra Obra Maestra](https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE) | 3:52 | 2021-12-17 |  |
 | [Juego de Niños](https://open.spotify.com/track/3OoW4gemvF4r5OjKpRaGwD) | [Golpe a Golpe](https://open.spotify.com/artist/0nqpXa8bkBlWgS9FKhNCuj) | [Mas Lunaticos](https://open.spotify.com/album/7EI3hMAmYWir6aVZtSxW5J) | 3:29 | 2021-12-17 | 2022-08-13 |
+| [Juego de Niños](https://open.spotify.com/track/6o0JDrRzJLMDnzazfw4GJ6) | [Golpe a Golpe](https://open.spotify.com/artist/0nqpXa8bkBlWgS9FKhNCuj) | [Más Lunáticos](https://open.spotify.com/album/27PjrmYvDUsl1MdTHvZsUR) | 3:29 | 2022-08-09 |  |
 | [Junto Al Amanecer](https://open.spotify.com/track/1HPzBInBPVJfSUDNLsTGGn) | [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY) | [El Movimiento: The Mixtape](https://open.spotify.com/album/2ouuoBa8BHjrwj68lftlaZ) | 4:10 | 2021-12-17 |  |
 | [La Calle Me Lo Pidio](https://open.spotify.com/track/2h2BxMOTXrYAApqWQ6ZqTy) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Tego Calderon](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [Quien Contra Mi](https://open.spotify.com/album/1xWGBUugmlHCwXH6AtpQCE) | 3:05 | 2021-12-17 |  |
 | [La Fuga](https://open.spotify.com/track/4fhjhwazrEfayRC7l52TZ0) | [Jiggy Drama](https://open.spotify.com/artist/2wJhXMulep4to8JaxUYjeY) | [Nerdside](https://open.spotify.com/album/34KerrXrPoanlVl1MtO2HG) | 4:00 | 2021-12-17 |  |

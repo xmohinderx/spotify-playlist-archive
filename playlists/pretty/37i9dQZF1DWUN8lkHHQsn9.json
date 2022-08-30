@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ3NzYxMCwwMDAwMDAwMDc5NjYyMDg2ZjBkODU3YjUyNzI2NDBkYWQ4MTlkYWYz",
+  "snapshot_id": "MTY1ODQ3NzYxMCwwMDAwMDAwMDFiZTNjYWZiNjIyZmIwZDI1MzVjYzBiNTcwNTllY2Qw",
   "tracks": [
     {
       "added_at": "2022-07-22 08:13:30",
@@ -163,42 +163,6 @@
     {
       "added_at": "2022-07-22 08:13:30",
       "album": {
-        "name": "GEJSZA",
-        "url": "https://open.spotify.com/album/6KsYGi1glRMS3AsAvSAJNl"
-      },
-      "artists": [
-        {
-          "name": "RUSKIEFAJKI",
-          "url": "https://open.spotify.com/artist/5YRNJ1S5R6pJIeb7PHkyna"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "GEJSZA",
-      "url": "https://open.spotify.com/track/1f5HTAc76fgz4rMcs6dmKv"
-    },
-    {
-      "added_at": "2022-07-22 08:13:30",
-      "album": {
-        "name": "Nic si\u0119 nie sta\u0142o",
-        "url": "https://open.spotify.com/album/4jYXCwiIrr18L06VZjiidT"
-      },
-      "artists": [
-        {
-          "name": "27.Fuckdemons",
-          "url": "https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw"
-        },
-        {
-          "name": "Szpaku",
-          "url": "https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99"
-        }
-      ],
-      "duration_ms": 173500,
-      "name": "Zesp\u00f3\u0142 Cotarda",
-      "url": "https://open.spotify.com/track/1ytF4G9s0S9PejbBUkAoYY"
-    },
-    {
-      "added_at": "2022-07-22 08:13:30",
-      "album": {
         "name": "tw\u00f3j zapach",
         "url": "https://open.spotify.com/album/6p3kfcHv9XXnvY0yTMyq4K"
       },
@@ -227,6 +191,58 @@
       "duration_ms": 216860,
       "name": "Bolt",
       "url": "https://open.spotify.com/track/2cdwgNThDAVnQxqzPwtpSY"
+    },
+    {
+      "added_at": "2022-07-22 08:13:30",
+      "album": {
+        "name": "Nic si\u0119 nie sta\u0142o",
+        "url": "https://open.spotify.com/album/4jYXCwiIrr18L06VZjiidT"
+      },
+      "artists": [
+        {
+          "name": "27.Fuckdemons",
+          "url": "https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw"
+        },
+        {
+          "name": "Szpaku",
+          "url": "https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99"
+        }
+      ],
+      "duration_ms": 173500,
+      "name": "Zesp\u00f3\u0142 Cotarda",
+      "url": "https://open.spotify.com/track/1ytF4G9s0S9PejbBUkAoYY"
+    },
+    {
+      "added_at": "2022-07-22 08:13:30",
+      "album": {
+        "name": "GEJSZA",
+        "url": "https://open.spotify.com/album/6KsYGi1glRMS3AsAvSAJNl"
+      },
+      "artists": [
+        {
+          "name": "RUSKIEFAJKI",
+          "url": "https://open.spotify.com/artist/5YRNJ1S5R6pJIeb7PHkyna"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "GEJSZA",
+      "url": "https://open.spotify.com/track/1f5HTAc76fgz4rMcs6dmKv"
+    },
+    {
+      "added_at": "2022-07-22 08:13:30",
+      "album": {
+        "name": "J\u0119zyk",
+        "url": "https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn"
+      },
+      "artists": [
+        {
+          "name": "sedguy",
+          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
+        }
+      ],
+      "duration_ms": 186468,
+      "name": "J\u0119zyk",
+      "url": "https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6"
     },
     {
       "added_at": "2022-07-22 08:13:30",
@@ -279,22 +295,6 @@
     {
       "added_at": "2022-07-22 08:13:30",
       "album": {
-        "name": "Mi\u0142o Ci\u0119 Pozna\u0107",
-        "url": "https://open.spotify.com/album/61ONsroY4Ugr0vBfByDIri"
-      },
-      "artists": [
-        {
-          "name": "Raf Skowro\u0144ski",
-          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
-        }
-      ],
-      "duration_ms": 211555,
-      "name": "Mi\u0142o Ci\u0119 Pozna\u0107",
-      "url": "https://open.spotify.com/track/4ayliH4aYbnJf4MpXvsmlT"
-    },
-    {
-      "added_at": "2022-07-22 08:13:30",
-      "album": {
         "name": "FOMO",
         "url": "https://open.spotify.com/album/0cP9ZrJM3O7XSUdJVRXoLJ"
       },
@@ -311,6 +311,22 @@
     {
       "added_at": "2022-07-22 08:13:30",
       "album": {
+        "name": "Mi\u0142o Ci\u0119 Pozna\u0107",
+        "url": "https://open.spotify.com/album/61ONsroY4Ugr0vBfByDIri"
+      },
+      "artists": [
+        {
+          "name": "Raf Skowro\u0144ski",
+          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
+        }
+      ],
+      "duration_ms": 211555,
+      "name": "Mi\u0142o Ci\u0119 Pozna\u0107",
+      "url": "https://open.spotify.com/track/4ayliH4aYbnJf4MpXvsmlT"
+    },
+    {
+      "added_at": "2022-07-22 08:13:30",
+      "album": {
         "name": "priorytetem",
         "url": "https://open.spotify.com/album/0vRIm5pGMLhANYjfNcopGB"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 190000,
       "name": "priorytetem",
       "url": "https://open.spotify.com/track/1mFqDcaUxiLXNTKDLXyiWD"
-    },
-    {
-      "added_at": "2022-07-22 08:13:30",
-      "album": {
-        "name": "J\u0119zyk",
-        "url": "https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn"
-      },
-      "artists": [
-        {
-          "name": "sedguy",
-          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
-        }
-      ],
-      "duration_ms": 186468,
-      "name": "J\u0119zyk",
-      "url": "https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6"
     },
     {
       "added_at": "2022-07-22 08:13:30",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-07-22 08:13:30",
       "album": {
-        "name": "DOM",
-        "url": "https://open.spotify.com/album/2PGFxvrz2d9GixdQRL8ziH"
-      },
-      "artists": [
-        {
-          "name": "Kamil Kowalski",
-          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
-        }
-      ],
-      "duration_ms": 243979,
-      "name": "Cie\u0144",
-      "url": "https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ"
-    },
-    {
-      "added_at": "2022-07-22 08:13:30",
-      "album": {
         "name": "BSoD",
         "url": "https://open.spotify.com/album/2nUamr4mpMpj0ARF90cMag"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 179986,
       "name": "BSoD",
       "url": "https://open.spotify.com/track/3Ry1yhZnlCYdwpiz3n2qat"
+    },
+    {
+      "added_at": "2022-07-22 08:13:30",
+      "album": {
+        "name": "DOM",
+        "url": "https://open.spotify.com/album/2PGFxvrz2d9GixdQRL8ziH"
+      },
+      "artists": [
+        {
+          "name": "Kamil Kowalski",
+          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
+        }
+      ],
+      "duration_ms": 243979,
+      "name": "Cie\u0144",
+      "url": "https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ"
     },
     {
       "added_at": "2022-07-22 08:13:30",
@@ -531,6 +531,38 @@
     {
       "added_at": "2022-07-22 08:13:30",
       "album": {
+        "name": "Tak\u0105 Polsk\u0119 lubi\u0119 nawet",
+        "url": "https://open.spotify.com/album/72jTsjvMjNn2xH1Ye9T3ER"
+      },
+      "artists": [
+        {
+          "name": "Cudowne Lata",
+          "url": "https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf"
+        }
+      ],
+      "duration_ms": 248202,
+      "name": "Tak\u0105 Polsk\u0119 lubi\u0119 nawet",
+      "url": "https://open.spotify.com/track/6sQG5iHLckuLzX1unBIRD1"
+    },
+    {
+      "added_at": "2022-07-22 08:13:30",
+      "album": {
+        "name": "Przed siebie",
+        "url": "https://open.spotify.com/album/08met7OFAeiVa1eiwRUiHi"
+      },
+      "artists": [
+        {
+          "name": "Oskar Kucmann",
+          "url": "https://open.spotify.com/artist/6QCsE5n2rSQiqzKS2DSQJK"
+        }
+      ],
+      "duration_ms": 183178,
+      "name": "Przed siebie",
+      "url": "https://open.spotify.com/track/5hqohFoXOJt3KO05HqBhy7"
+    },
+    {
+      "added_at": "2022-07-22 08:13:30",
+      "album": {
         "name": "OH WOW",
         "url": "https://open.spotify.com/album/0Z9kjE77CEY7cBz3oZ69hI"
       },
@@ -551,22 +583,6 @@
     {
       "added_at": "2022-07-22 08:13:30",
       "album": {
-        "name": "Tak\u0105 Polsk\u0119 lubi\u0119 nawet",
-        "url": "https://open.spotify.com/album/72jTsjvMjNn2xH1Ye9T3ER"
-      },
-      "artists": [
-        {
-          "name": "Cudowne Lata",
-          "url": "https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf"
-        }
-      ],
-      "duration_ms": 248202,
-      "name": "Tak\u0105 Polsk\u0119 lubi\u0119 nawet",
-      "url": "https://open.spotify.com/track/6sQG5iHLckuLzX1unBIRD1"
-    },
-    {
-      "added_at": "2022-07-22 08:13:30",
-      "album": {
         "name": "OLIMP",
         "url": "https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 207732,
       "name": "Jako\u015b To Przetrwamy",
       "url": "https://open.spotify.com/track/29RGuw6jKWzMUBQvku0aoS"
-    },
-    {
-      "added_at": "2022-07-22 08:13:30",
-      "album": {
-        "name": "Przed siebie",
-        "url": "https://open.spotify.com/album/08met7OFAeiVa1eiwRUiHi"
-      },
-      "artists": [
-        {
-          "name": "Oskar Kucmann",
-          "url": "https://open.spotify.com/artist/6QCsE5n2rSQiqzKS2DSQJK"
-        }
-      ],
-      "duration_ms": 183178,
-      "name": "Przed siebie",
-      "url": "https://open.spotify.com/track/5hqohFoXOJt3KO05HqBhy7"
     },
     {
       "added_at": "2022-07-22 08:13:30",
@@ -679,6 +679,22 @@
     {
       "added_at": "2022-07-22 08:13:30",
       "album": {
+        "name": "OLIMP",
+        "url": "https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb"
+      },
+      "artists": [
+        {
+          "name": "NIEB\u00d8",
+          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
+        }
+      ],
+      "duration_ms": 192557,
+      "name": "Tamto Lato",
+      "url": "https://open.spotify.com/track/6EEZGOaQrpIA8ItnjkxfFc"
+    },
+    {
+      "added_at": "2022-07-22 08:13:30",
+      "album": {
         "name": "VITAY (Avtomat Remix)",
         "url": "https://open.spotify.com/album/0RUK6e7Weucvg7AmeKYp6s"
       },
@@ -715,6 +731,22 @@
     {
       "added_at": "2022-07-22 08:13:30",
       "album": {
+        "name": "Przypadki",
+        "url": "https://open.spotify.com/album/3zTSTlliW1LwlJTQHvBuCG"
+      },
+      "artists": [
+        {
+          "name": "Zawadzki",
+          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
+        }
+      ],
+      "duration_ms": 190443,
+      "name": "Przypadki",
+      "url": "https://open.spotify.com/track/2fPkzFLaLi7ejMidEakhw2"
+    },
+    {
+      "added_at": "2022-07-22 08:13:30",
+      "album": {
         "name": "Dziewczyna z NASA",
         "url": "https://open.spotify.com/album/1Ght8K533HO0VfaltfaFdX"
       },
@@ -735,34 +767,18 @@
     {
       "added_at": "2022-07-22 08:13:30",
       "album": {
-        "name": "OLIMP",
-        "url": "https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb"
+        "name": "K\u00f3\u0142ko I Krzy\u017cyk",
+        "url": "https://open.spotify.com/album/1lTGKDGJZOFKBGwDKRU6ex"
       },
       "artists": [
         {
-          "name": "NIEB\u00d8",
-          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
+          "name": "Cudowne Lata",
+          "url": "https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf"
         }
       ],
-      "duration_ms": 192557,
-      "name": "Tamto Lato",
-      "url": "https://open.spotify.com/track/6EEZGOaQrpIA8ItnjkxfFc"
-    },
-    {
-      "added_at": "2022-07-22 08:13:30",
-      "album": {
-        "name": "Przypadki",
-        "url": "https://open.spotify.com/album/3zTSTlliW1LwlJTQHvBuCG"
-      },
-      "artists": [
-        {
-          "name": "Zawadzki",
-          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
-        }
-      ],
-      "duration_ms": 190443,
-      "name": "Przypadki",
-      "url": "https://open.spotify.com/track/2fPkzFLaLi7ejMidEakhw2"
+      "duration_ms": 169090,
+      "name": "Po Szkole",
+      "url": "https://open.spotify.com/track/1chndxFq6bSnakKnBO6UoU"
     },
     {
       "added_at": "2022-07-22 08:13:30",
@@ -779,22 +795,6 @@
       "duration_ms": 202419,
       "name": "Nie ma",
       "url": "https://open.spotify.com/track/3MFmVJjXCv6gQq5LkbMnqT"
-    },
-    {
-      "added_at": "2022-07-22 08:13:30",
-      "album": {
-        "name": "K\u00f3\u0142ko I Krzy\u017cyk",
-        "url": "https://open.spotify.com/album/1lTGKDGJZOFKBGwDKRU6ex"
-      },
-      "artists": [
-        {
-          "name": "Cudowne Lata",
-          "url": "https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf"
-        }
-      ],
-      "duration_ms": 169090,
-      "name": "Po Szkole",
-      "url": "https://open.spotify.com/track/1chndxFq6bSnakKnBO6UoU"
     },
     {
       "added_at": "2022-07-22 08:13:30",
@@ -847,6 +847,22 @@
     {
       "added_at": "2022-07-22 08:13:30",
       "album": {
+        "name": "Parlez Vous Francais",
+        "url": "https://open.spotify.com/album/2M8QV57i0i2GKoWe8ziAXA"
+      },
+      "artists": [
+        {
+          "name": "Julia Bosski",
+          "url": "https://open.spotify.com/artist/38qVvJz4fyKJhg08RqHhL2"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "Parlez Vous Francais",
+      "url": "https://open.spotify.com/track/1xQkNNDv2MpPpVDNcnFx32"
+    },
+    {
+      "added_at": "2022-07-22 08:13:30",
+      "album": {
         "name": "Technikolor",
         "url": "https://open.spotify.com/album/2sSazPeOiKE4nclKDMaZqc"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 230906,
       "name": "Technikolor",
       "url": "https://open.spotify.com/track/3vLyOAz1K81lxoIlKzwmAt"
-    },
-    {
-      "added_at": "2022-07-22 08:13:30",
-      "album": {
-        "name": "Parlez Vous Francais",
-        "url": "https://open.spotify.com/album/2M8QV57i0i2GKoWe8ziAXA"
-      },
-      "artists": [
-        {
-          "name": "Julia Bosski",
-          "url": "https://open.spotify.com/artist/38qVvJz4fyKJhg08RqHhL2"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "Parlez Vous Francais",
-      "url": "https://open.spotify.com/track/1xQkNNDv2MpPpVDNcnFx32"
     },
     {
       "added_at": "2022-07-22 08:13:30",

@@ -4,7 +4,7 @@
 
 > Need to get your energy level up? This will help!
 
-174 songs - 9 hr 46 min - [published](https://open.spotify.com/playlist/1j4xunjYrRGmcKs3OCqf0W)
+175 songs - 9 hr 49 min - [published](https://open.spotify.com/playlist/1j4xunjYrRGmcKs3OCqf0W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Minimum Wage](https://open.spotify.com/track/4ijajhHtBsOn91S4dgkhu7) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Minimum Wage](https://open.spotify.com/album/0fQJbMjhfuiiP9HAQtrJEX) | 3:48 | 2021-12-17 | 2022-07-29 |
 | [Minimum Wage](https://open.spotify.com/track/0Lavu1rppGgXfiK27cAMyU) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Body Language](https://open.spotify.com/album/0s1A44tg1Y21SLHDylmugR) | 3:48 | 2022-06-17 |  |
 | [Miss Me More](https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 3:12 | 2021-12-17 |  |
-| [More Than I Know](https://open.spotify.com/track/2BKcZtKFDWpvRkmr25EMNK) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 2:48 | 2021-12-17 |  |
+| [More Than I Know](https://open.spotify.com/track/2BKcZtKFDWpvRkmr25EMNK) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 2:48 | 2021-12-17 | 2022-08-30 |
 | [Mud On the Tires](https://open.spotify.com/track/2rQyI7A1yTvTXJ9J4qFmmN) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Hits Alive](https://open.spotify.com/album/10XgYRGRtKApBh2P1K9yHS) | 3:26 | 2021-12-17 |  |
 | [My Kinda Party](https://open.spotify.com/track/215FCyLSBcXeX0NASXEjyn) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [My Kinda Party](https://open.spotify.com/album/6gYk1JlSSmlUZGs1Lef1BI) | 4:44 | 2021-12-17 |  |
 | [My Maria](https://open.spotify.com/track/09qzRI951OVkXGCc33gzcT) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [\#1s ..\. and then some](https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO) | 3:28 | 2021-12-17 |  |
@@ -128,6 +128,7 @@
 | [One Of Them Girls](https://open.spotify.com/track/14GwnOeC9qYEKEA6uOZepa) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [One Of Them Girls](https://open.spotify.com/album/42Rl6aaMTG6EgYxzjP41qp) | 3:08 | 2021-12-17 |  |
 | [One Too Many](https://open.spotify.com/track/5NUXE8W12lWcUXgJRCjeEw) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [One Too Many](https://open.spotify.com/album/5j5ngp5GBH7zW3RhHljRK9) | 3:23 | 2021-12-17 |  |
 | [Out of Nowhere](https://open.spotify.com/track/0FvsPKamhZvkMPB8PX6rU9) | [Walker Montgomery](https://open.spotify.com/artist/5vAB5nEXC8gfRxudmFF9jl) | [Out of Nowhere](https://open.spotify.com/album/1lHNtXhtL3AsaLr4qxNges) | 2:52 | 2021-12-17 | 2022-07-29 |
+| [Out of Nowhere](https://open.spotify.com/track/0z6FqQVX5gJNCktHLGIIPe) | [Walker Montgomery](https://open.spotify.com/artist/5vAB5nEXC8gfRxudmFF9jl) | [Out of Nowhere](https://open.spotify.com/album/5cQayQxRlGQU8AztpuyLeJ) | 2:52 | 2022-06-17 |  |
 | [Parachute](https://open.spotify.com/track/5jROdl6MhcmP3O7h2sVgtw) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:13 | 2021-12-17 |  |
 | [Pick Me Up](https://open.spotify.com/track/7xNYZeFtrB05pi9tc6lEeb) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Pick Me Up](https://open.spotify.com/album/0AFaIppKjr2lO1pCjx1wK5) | 2:49 | 2021-12-17 |  |
 | [Pickin' Wildflowers](https://open.spotify.com/track/2GgIDaPLsowybB3WgxLWUj) | [Keith Anderson](https://open.spotify.com/artist/4AgQTHagFdBq8VL791lSXz) | [Three Chord Country and American Rock & Roll](https://open.spotify.com/album/3r8vRtmMzWdLYUQCgMk12y) | 3:05 | 2021-12-17 |  |

@@ -509,10 +509,28 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 174782,
       "name": "Before It's Too Late",
       "url": "https://open.spotify.com/track/7JsckAY0XjtXq3omyJOgOD"
+    },
+    {
+      "album": {
+        "name": "BEN 10",
+        "url": "https://open.spotify.com/album/3QMmU1Vi8l33RqWsZD6EJF"
+      },
+      "artists": [
+        {
+          "name": "N\u00cbSTR\u00c4",
+          "url": "https://open.spotify.com/artist/5ABikugX8BV6gZiF23y2br"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134116,
+      "name": "BEN 10",
+      "url": "https://open.spotify.com/track/7GRpzENjT2lPG1oGS7272V"
     },
     {
       "album": {
@@ -1249,7 +1267,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 275555,
       "name": "Connecting Flights",
       "url": "https://open.spotify.com/track/291YMp0vk3aXUzpBt11PVm"
@@ -1453,7 +1471,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 178364,
       "name": "Desire",
       "url": "https://open.spotify.com/track/5QeHXGAoBmYyFm3N4jpapp"
@@ -1765,7 +1783,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 189720,
       "name": "Feels Good",
       "url": "https://open.spotify.com/track/7uSNp1haKrnCqshAXZJGHZ"
@@ -2039,7 +2057,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 158955,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/7x2ZARlOe2Sjg5WM4VxdJF"
@@ -2699,7 +2717,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 166101,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/41CadRi4aZhMsFYbBob04v"
@@ -2816,6 +2834,28 @@
     },
     {
       "album": {
+        "name": "LOSING MY RELIGION",
+        "url": "https://open.spotify.com/album/4GEJsstPLNZ6fSLV91cOOo"
+      },
+      "artists": [
+        {
+          "name": "Xae Neptune",
+          "url": "https://open.spotify.com/artist/7iysPipkcsfGFVEgUMDzHQ"
+        },
+        {
+          "name": "Connect Zero",
+          "url": "https://open.spotify.com/artist/3k8lBDenIm90lWaSpAYQeH"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109367,
+      "name": "LOSING MY RELIGION",
+      "url": "https://open.spotify.com/track/5t4oa0XNO7DDYifb3SGibS"
+    },
+    {
+      "album": {
         "name": "Strictly off the Feeling...",
         "url": "https://open.spotify.com/album/0k9fxZPAIcOoKfBECTQV2L"
       },
@@ -2867,6 +2907,28 @@
       "duration_ms": 133288,
       "name": "MaMa",
       "url": "https://open.spotify.com/track/5WWLT8b7fCV4cO2SVSwNqX"
+    },
+    {
+      "album": {
+        "name": "The Black Tones - Jam in the Van (Full Set live in Los Angeles, CA 2022)",
+        "url": "https://open.spotify.com/album/17o9DumxmehGF9JFMMTGx7"
+      },
+      "artists": [
+        {
+          "name": "The Black Tones",
+          "url": "https://open.spotify.com/artist/756gZe3CRrsmKQGhCTmQ5J"
+        },
+        {
+          "name": "Jam in the Van",
+          "url": "https://open.spotify.com/artist/1CUVxHzaFXiqedLmCt1pKa"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257827,
+      "name": "Mama! There's a Spider in My Room",
+      "url": "https://open.spotify.com/track/65zSEyIOEs1Pw263tbiwex"
     },
     {
       "album": {
@@ -3085,7 +3147,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 223224,
       "name": "Mr. Mines",
       "url": "https://open.spotify.com/track/52QRva8GUiFsUnVseMwEU5"
@@ -3252,6 +3314,24 @@
     },
     {
       "album": {
+        "name": "Never Be Another You",
+        "url": "https://open.spotify.com/album/2qoj0CPCREjxav6tubdTje"
+      },
+      "artists": [
+        {
+          "name": "Shaina Shepherd",
+          "url": "https://open.spotify.com/artist/5npzoc47zU3PpCTF6ei389"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299093,
+      "name": "Never Be Another You",
+      "url": "https://open.spotify.com/track/4o2C1VqlXtKKkoree2Ubq8"
+    },
+    {
+      "album": {
         "name": "MADNESS!",
         "url": "https://open.spotify.com/album/6P0uP0GND1Ww4fIzLZ2J8i"
       },
@@ -3373,7 +3453,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 178775,
       "name": "No Rhythm",
       "url": "https://open.spotify.com/track/6rVx734V2JbkbTmu4pAJs2"
@@ -3614,6 +3694,28 @@
     },
     {
       "album": {
+        "name": "Pink and Orange",
+        "url": "https://open.spotify.com/album/524agqedwKwAQ4PSJ6p28F"
+      },
+      "artists": [
+        {
+          "name": "Livt",
+          "url": "https://open.spotify.com/artist/0y55D5fL0ywYdEpIQPbwJC"
+        },
+        {
+          "name": "EsePax",
+          "url": "https://open.spotify.com/artist/1nIqPVTvyR86vY004ttisz"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160007,
+      "name": "Over Due",
+      "url": "https://open.spotify.com/track/66qJubv7O2mhtodzvSengq"
+    },
+    {
+      "album": {
         "name": "Dmanic",
         "url": "https://open.spotify.com/album/43wchossWHZNY8WQP5tTzy"
       },
@@ -3669,7 +3771,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 177655,
       "name": "Performance",
       "url": "https://open.spotify.com/track/0J4u9FztKLtQVKdNjwMLiH"
@@ -4218,6 +4320,28 @@
     },
     {
       "album": {
+        "name": "Blood Cousins",
+        "url": "https://open.spotify.com/album/2RqrEJPPZPEVyM4WuiO82W"
+      },
+      "artists": [
+        {
+          "name": "MikeJack3200",
+          "url": "https://open.spotify.com/artist/1DsOlo169ovaAx19956vOb"
+        },
+        {
+          "name": "Maika Million",
+          "url": "https://open.spotify.com/artist/550nfGDwq7E0lxtarPhp2j"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169565,
+      "name": "Say Aye Aye",
+      "url": "https://open.spotify.com/track/09n1HXhWcBbTvEvwjUcSKr"
+    },
+    {
+      "album": {
         "name": "Scam Classic",
         "url": "https://open.spotify.com/album/5FkO5u7R5RBe0C16kW7hX4"
       },
@@ -4474,6 +4598,28 @@
     },
     {
       "album": {
+        "name": "WONDERLAND",
+        "url": "https://open.spotify.com/album/43RTm7LMLRwKjWEIL9dHOs"
+      },
+      "artists": [
+        {
+          "name": "Zay Wonder",
+          "url": "https://open.spotify.com/artist/70cjBubd83Tl2ZbAElgC1s"
+        },
+        {
+          "name": "Matondo",
+          "url": "https://open.spotify.com/artist/6SUEFGctih8RVTozozgmsz"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299381,
+      "name": "STAY THE NIGHT",
+      "url": "https://open.spotify.com/track/0w4g6OmPq9GrHFYqyFl2JJ"
+    },
+    {
+      "album": {
         "name": "Finishline",
         "url": "https://open.spotify.com/album/5hRPVy4NX8aS7v9aNlrjNz"
       },
@@ -4573,6 +4719,24 @@
       "duration_ms": 202900,
       "name": "Sugawater",
       "url": "https://open.spotify.com/track/09eV7FZA74XEw1y0EIqtEr"
+    },
+    {
+      "album": {
+        "name": "Im In The Kitchen",
+        "url": "https://open.spotify.com/album/4Q4dOPmkZpecoqdB2ZhUbU"
+      },
+      "artists": [
+        {
+          "name": "Feezle Man",
+          "url": "https://open.spotify.com/artist/4vYLKukf7aP66a33CR8rSD"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172848,
+      "name": "Sumn On Me",
+      "url": "https://open.spotify.com/track/1H2ZpDJ06Q0yHCUVgU2m7n"
     },
     {
       "album": {
@@ -4857,6 +5021,24 @@
       "duration_ms": 103549,
       "name": "The Oscars",
       "url": "https://open.spotify.com/track/72R4sofcAUU1IGctmDdc4y"
+    },
+    {
+      "album": {
+        "name": "Thru The Motions",
+        "url": "https://open.spotify.com/album/6kft5b8CUf5JEqrC07HH1O"
+      },
+      "artists": [
+        {
+          "name": "Lewie",
+          "url": "https://open.spotify.com/artist/7tvCXmeh7MlNtmfKMN2H8Q"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93913,
+      "name": "Thru The Motions",
+      "url": "https://open.spotify.com/track/7a6qoP4zfLtrAax3DCbx6m"
     },
     {
       "album": {

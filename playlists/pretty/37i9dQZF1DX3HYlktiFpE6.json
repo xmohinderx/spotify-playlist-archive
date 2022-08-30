@@ -1,12 +1,12 @@
 {
   "description": "Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more. Just sing it! Cover: Pentatonix",
-  "num_followers": 93520,
+  "num_followers": 93524,
   "original_name": "All A Cappella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDMyMjAwMCwwMDAwMDAwMGRkYzNhNWNmYzVjOWVkZDYwYzI5Y2Q5Y2QyMGJjYWE4",
+  "snapshot_id": "MTY0MDMyMjAwMCwwMDAwMDAwMGQxZGNjZDM3YTdmMzE3NmUyMTY1ZDQzZTY0YzQ5YTI5",
   "tracks": [
     {
       "added_at": "2021-12-24 05:00:00",
@@ -199,38 +199,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "PTX, Vol. 2",
-        "url": "https://open.spotify.com/album/12dPqNFIdjiVFSHvtsDmzJ"
-      },
-      "artists": [
-        {
-          "name": "Pentatonix",
-          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
-        }
-      ],
-      "duration_ms": 248560,
-      "name": "Daft Punk",
-      "url": "https://open.spotify.com/track/6ukvsBzq4d1vBsAUmz7ZVt"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Glee: The Music, Volume 1",
-        "url": "https://open.spotify.com/album/3bzOPF8mGdoW059DsGfMXj"
-      },
-      "artists": [
-        {
-          "name": "Glee Cast",
-          "url": "https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Don't Stop Believin' (Glee Cast Version) - Cover of Journey",
-      "url": "https://open.spotify.com/track/6rjnRocdCULjLF61x2NR5e"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "Ultimate Pitch Perfect (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U"
       },
@@ -255,18 +223,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Crazy Life",
-        "url": "https://open.spotify.com/album/7qn9BbiBucTH28IoyEGMyy"
+        "name": "Glee: The Music, Volume 1",
+        "url": "https://open.spotify.com/album/3bzOPF8mGdoW059DsGfMXj"
       },
       "artists": [
         {
-          "name": "Home Free",
-          "url": "https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7"
+          "name": "Glee Cast",
+          "url": "https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm"
         }
       ],
-      "duration_ms": 193733,
-      "name": "Wake Me Up",
-      "url": "https://open.spotify.com/track/60Q0ZSKKBea7otGijFgrQI"
+      "duration_ms": 232000,
+      "name": "Don't Stop Believin' (Glee Cast Version) - Cover of Journey",
+      "url": "https://open.spotify.com/track/6rjnRocdCULjLF61x2NR5e"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -287,8 +255,8 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "PTX Presents: Top Pop, Vol. I",
-        "url": "https://open.spotify.com/album/2viOlnLfhPLDgx7hvBqLwW"
+        "name": "PTX, Vol. 2",
+        "url": "https://open.spotify.com/album/12dPqNFIdjiVFSHvtsDmzJ"
       },
       "artists": [
         {
@@ -296,41 +264,25 @@
           "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
         }
       ],
-      "duration_ms": 198946,
-      "name": "Despacito x Shape Of You",
-      "url": "https://open.spotify.com/track/5cj54CVe4pQZ9cUKgbsZrG"
+      "duration_ms": 248560,
+      "name": "Daft Punk",
+      "url": "https://open.spotify.com/track/6ukvsBzq4d1vBsAUmz7ZVt"
     },
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Ultimate Pitch Perfect (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U"
+        "name": "Crazy Life",
+        "url": "https://open.spotify.com/album/7qn9BbiBucTH28IoyEGMyy"
       },
       "artists": [
         {
-          "name": "The Treblemakers",
-          "url": "https://open.spotify.com/artist/1T81IFRFywCJW0SNWMv3T1"
+          "name": "Home Free",
+          "url": "https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7"
         }
       ],
-      "duration_ms": 184560,
-      "name": "Don't Stop The Music",
-      "url": "https://open.spotify.com/track/7mwaAS5hqSuSxsFLpQh5NU"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Ultimate Pitch Perfect (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U"
-      },
-      "artists": [
-        {
-          "name": "The Barden Bellas",
-          "url": "https://open.spotify.com/artist/2BaKphge9AdjZIxQqv7WoQ"
-        }
-      ],
-      "duration_ms": 62613,
-      "name": "Party In The U.S.A.",
-      "url": "https://open.spotify.com/track/7c2KF18pPpaN8Hy5MiNNWs"
+      "duration_ms": 193733,
+      "name": "Wake Me Up",
+      "url": "https://open.spotify.com/track/60Q0ZSKKBea7otGijFgrQI"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -367,6 +319,38 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
+        "name": "Ultimate Pitch Perfect (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U"
+      },
+      "artists": [
+        {
+          "name": "The Treblemakers",
+          "url": "https://open.spotify.com/artist/1T81IFRFywCJW0SNWMv3T1"
+        }
+      ],
+      "duration_ms": 184560,
+      "name": "Don't Stop The Music",
+      "url": "https://open.spotify.com/track/7mwaAS5hqSuSxsFLpQh5NU"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Ultimate Pitch Perfect (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U"
+      },
+      "artists": [
+        {
+          "name": "The Barden Bellas",
+          "url": "https://open.spotify.com/artist/2BaKphge9AdjZIxQqv7WoQ"
+        }
+      ],
+      "duration_ms": 62613,
+      "name": "Party In The U.S.A.",
+      "url": "https://open.spotify.com/track/7c2KF18pPpaN8Hy5MiNNWs"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
         "name": "Peter Hollens",
         "url": "https://open.spotify.com/album/33UKIAvj9JIi9S1EMimWku"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 293920,
       "name": "I See Fire",
       "url": "https://open.spotify.com/track/1ZapqbVeMR92xHFDDJcTy3"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "PTX Presents: Top Pop, Vol. I",
+        "url": "https://open.spotify.com/album/2viOlnLfhPLDgx7hvBqLwW"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "duration_ms": 198946,
+      "name": "Despacito x Shape Of You",
+      "url": "https://open.spotify.com/track/5cj54CVe4pQZ9cUKgbsZrG"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -419,18 +419,38 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "PTX, Vol. 1",
-        "url": "https://open.spotify.com/album/5wGlP6EqF7akh6N3UGfKVZ"
+        "name": "The Greatest Showman Medley: The Greatest Show / A Million Dreams / Never Enough / Rewrite the Stars / This Is Me",
+        "url": "https://open.spotify.com/album/6EQTNhJYK0TUuvWiAomciS"
       },
       "artists": [
         {
-          "name": "Pentatonix",
-          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+          "name": "Anthem Lights",
+          "url": "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
         }
       ],
-      "duration_ms": 199360,
-      "name": "Somebody That I Used to Know",
-      "url": "https://open.spotify.com/track/5XPSElbh3y0S1Jl0ggpwQr"
+      "duration_ms": 246020,
+      "name": "The Greatest Showman Medley: The Greatest Show / A Million Dreams / Never Enough / Rewrite the Stars / This Is Me",
+      "url": "https://open.spotify.com/track/3yHbeOQLmNRo1KGfH0lNJz"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Pitch Perfect 2 - Special Edition (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE"
+      },
+      "artists": [
+        {
+          "name": "Rebel Wilson",
+          "url": "https://open.spotify.com/artist/2PBf6AHIDEgPtF2aJebmhq"
+        },
+        {
+          "name": "Adam Devine",
+          "url": "https://open.spotify.com/artist/44Z6QdihkJhFiGhyk1ISVI"
+        }
+      ],
+      "duration_ms": 214746,
+      "name": "We Belong - From \"Pitch Perfect 2\" Soundtrack",
+      "url": "https://open.spotify.com/track/2pnsJSwvm00f84JxPzHKUg"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -467,6 +487,22 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
+        "name": "PTX, Vol. 1",
+        "url": "https://open.spotify.com/album/5wGlP6EqF7akh6N3UGfKVZ"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "duration_ms": 199360,
+      "name": "Somebody That I Used to Know",
+      "url": "https://open.spotify.com/track/5XPSElbh3y0S1Jl0ggpwQr"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
         "name": "Ultimate Pitch Perfect (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U"
       },
@@ -499,42 +535,6 @@
       "duration_ms": 214893,
       "name": "I'm Yours / Somewhere over the Rainbow - EP Version",
       "url": "https://open.spotify.com/track/4g1NXho7CDYnWzwvQISprj"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "The Greatest Showman Medley: The Greatest Show / A Million Dreams / Never Enough / Rewrite the Stars / This Is Me",
-        "url": "https://open.spotify.com/album/6EQTNhJYK0TUuvWiAomciS"
-      },
-      "artists": [
-        {
-          "name": "Anthem Lights",
-          "url": "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
-        }
-      ],
-      "duration_ms": 246020,
-      "name": "The Greatest Showman Medley: The Greatest Show / A Million Dreams / Never Enough / Rewrite the Stars / This Is Me",
-      "url": "https://open.spotify.com/track/3yHbeOQLmNRo1KGfH0lNJz"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Pitch Perfect 2 - Special Edition (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE"
-      },
-      "artists": [
-        {
-          "name": "Rebel Wilson",
-          "url": "https://open.spotify.com/artist/2PBf6AHIDEgPtF2aJebmhq"
-        },
-        {
-          "name": "Adam Devine",
-          "url": "https://open.spotify.com/artist/44Z6QdihkJhFiGhyk1ISVI"
-        }
-      ],
-      "duration_ms": 214746,
-      "name": "We Belong - From \"Pitch Perfect 2\" Soundtrack",
-      "url": "https://open.spotify.com/track/2pnsJSwvm00f84JxPzHKUg"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Pitch Perfect 2 - Special Edition (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE"
-      },
-      "artists": [
-        {
-          "name": "The Barden Bellas",
-          "url": "https://open.spotify.com/artist/2BaKphge9AdjZIxQqv7WoQ"
-        }
-      ],
-      "duration_ms": 146346,
-      "name": "Kennedy Center Performance - From \"Pitch Perfect 2\" Soundtrack",
-      "url": "https://open.spotify.com/track/379pQhTWVBdSEe8cfUmlHy"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "Black & Red",
         "url": "https://open.spotify.com/album/0pXdLROrVJzxlxtWc77lW1"
       },
@@ -671,18 +655,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "The New Old Fashioned (Deluxe)",
-        "url": "https://open.spotify.com/album/4WqVsi6JHlj6w2cBbE8nS7"
+        "name": "Pitch Perfect 2 - Special Edition (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE"
       },
       "artists": [
         {
-          "name": "Straight No Chaser",
-          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
+          "name": "The Barden Bellas",
+          "url": "https://open.spotify.com/artist/2BaKphge9AdjZIxQqv7WoQ"
         }
       ],
-      "duration_ms": 167933,
-      "name": "Shut up and Dance",
-      "url": "https://open.spotify.com/track/4Q4G6wehDTKF8iHFC7L5pT"
+      "duration_ms": 146346,
+      "name": "Kennedy Center Performance - From \"Pitch Perfect 2\" Soundtrack",
+      "url": "https://open.spotify.com/track/379pQhTWVBdSEe8cfUmlHy"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -699,6 +683,38 @@
       "duration_ms": 276526,
       "name": "Bad Romance",
       "url": "https://open.spotify.com/track/7EZjj4CRzBfeEAVfQMDqWu"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "The New Old Fashioned (Deluxe)",
+        "url": "https://open.spotify.com/album/4WqVsi6JHlj6w2cBbE8nS7"
+      },
+      "artists": [
+        {
+          "name": "Straight No Chaser",
+          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
+        }
+      ],
+      "duration_ms": 167933,
+      "name": "Shut up and Dance",
+      "url": "https://open.spotify.com/track/4Q4G6wehDTKF8iHFC7L5pT"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Peter Hollens",
+        "url": "https://open.spotify.com/album/33UKIAvj9JIi9S1EMimWku"
+      },
+      "artists": [
+        {
+          "name": "Peter Hollens",
+          "url": "https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ"
+        }
+      ],
+      "duration_ms": 259026,
+      "name": "Misty Mountains",
+      "url": "https://open.spotify.com/track/2Wx6axM4v1d7sjfVFMYtTQ"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -731,22 +747,6 @@
       "duration_ms": 218386,
       "name": "Circle of Life/He Lives in You",
       "url": "https://open.spotify.com/track/4jf7aZoiQScwVWWv3SL1bN"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Peter Hollens",
-        "url": "https://open.spotify.com/album/33UKIAvj9JIi9S1EMimWku"
-      },
-      "artists": [
-        {
-          "name": "Peter Hollens",
-          "url": "https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ"
-        }
-      ],
-      "duration_ms": 259026,
-      "name": "Misty Mountains",
-      "url": "https://open.spotify.com/track/2Wx6axM4v1d7sjfVFMYtTQ"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Anthem Lights Covers",
-        "url": "https://open.spotify.com/album/4q15SF055uWNuLQVLDvcK7"
-      },
-      "artists": [
-        {
-          "name": "Anthem Lights",
-          "url": "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
-        }
-      ],
-      "duration_ms": 216087,
-      "name": "Give Your Heart a Break",
-      "url": "https://open.spotify.com/track/2ln351qfbbJuYjUx7gbsAn"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "Pitch Perfect (More Music From The Motion Picture) EP",
         "url": "https://open.spotify.com/album/7a2PTJIJdgJZPRoO1op0hS"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 75360,
       "name": "The Final Countdown",
       "url": "https://open.spotify.com/track/219eMYSoZBDsGb2ISHc5Xr"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Anthem Lights Covers",
+        "url": "https://open.spotify.com/album/4q15SF055uWNuLQVLDvcK7"
+      },
+      "artists": [
+        {
+          "name": "Anthem Lights",
+          "url": "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
+        }
+      ],
+      "duration_ms": 216087,
+      "name": "Give Your Heart a Break",
+      "url": "https://open.spotify.com/track/2ln351qfbbJuYjUx7gbsAn"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -911,6 +911,38 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
+        "name": "Bang",
+        "url": "https://open.spotify.com/album/3y7Sk6v8mTAv1KPNKO4pMV"
+      },
+      "artists": [
+        {
+          "name": "Rockapella",
+          "url": "https://open.spotify.com/artist/1AFSUleuDTapVhm5zUf4ix"
+        }
+      ],
+      "duration_ms": 141341,
+      "name": "A-Punk",
+      "url": "https://open.spotify.com/track/1sCN83vh7rzQ2d7UGAsoga"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Morning Warriors",
+        "url": "https://open.spotify.com/album/1ZdIwfFXaKiPolBEBp1kqs"
+      },
+      "artists": [
+        {
+          "name": "Hullabahoos",
+          "url": "https://open.spotify.com/artist/3S1DEHnGNfWmamdZEyLs8I"
+        }
+      ],
+      "duration_ms": 233266,
+      "name": "Pumped Up Kicks",
+      "url": "https://open.spotify.com/track/544Vnwfg8YSUP6An38yUsT"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
         "name": "Under the Influence: Holiday Edition",
         "url": "https://open.spotify.com/album/0fPXSeM8nko9aSxO6nM1zX"
       },
@@ -931,22 +963,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Bang",
-        "url": "https://open.spotify.com/album/3y7Sk6v8mTAv1KPNKO4pMV"
-      },
-      "artists": [
-        {
-          "name": "Rockapella",
-          "url": "https://open.spotify.com/artist/1AFSUleuDTapVhm5zUf4ix"
-        }
-      ],
-      "duration_ms": 141341,
-      "name": "A-Punk",
-      "url": "https://open.spotify.com/track/1sCN83vh7rzQ2d7UGAsoga"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "Disney's Broadway Is Back Medley",
         "url": "https://open.spotify.com/album/5BysJpeX62fHE7uU4rjXbh"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 148160,
       "name": "Disney's Broadway Is Back Medley",
       "url": "https://open.spotify.com/track/6SYixGuExn9SBVxgoBo5aD"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Morning Warriors",
-        "url": "https://open.spotify.com/album/1ZdIwfFXaKiPolBEBp1kqs"
-      },
-      "artists": [
-        {
-          "name": "Hullabahoos",
-          "url": "https://open.spotify.com/artist/3S1DEHnGNfWmamdZEyLs8I"
-        }
-      ],
-      "duration_ms": 233266,
-      "name": "Pumped Up Kicks",
-      "url": "https://open.spotify.com/track/544Vnwfg8YSUP6An38yUsT"
     },
     {
       "added_at": "2021-12-24 05:00:00",

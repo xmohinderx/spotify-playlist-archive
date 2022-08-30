@@ -4,7 +4,7 @@
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-104 songs - 12 hr 26 min - [published](https://open.spotify.com/playlist/6jyKNP769IPaxkOJDH7ZYq)
+105 songs - 12 hr 28 min - [published](https://open.spotify.com/playlist/6jyKNP769IPaxkOJDH7ZYq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Haiderium Qalandaram Mastam](https://open.spotify.com/track/3Z4EnyYxSXw62ENzxRxcgk) | [Hamza Akram Qawwal](https://open.spotify.com/artist/1SqOrcBazuYQ8pcw4UuseT), [Abdul Akram](https://open.spotify.com/artist/7h8qDn9P06lpRw7ARJxXnC), [Taimoor Akram](https://open.spotify.com/artist/1cwy0UsOCVBUtJcMq80gzq) | [Haiderium Qalandaram Mastam](https://open.spotify.com/album/5zDG8KiWgU6GyIoRp08hpK) | 5:45 | 2022-07-18 |  |
 | [Haji Peer](https://open.spotify.com/track/2gzhifaV7Dz7BsTFstmZOA) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Osman Mir](https://open.spotify.com/artist/20w1cujlzVI3LA0dItmMg1), [Raj Pandit](https://open.spotify.com/artist/3UOrPjiw3UxtqP8ZoKR908) | [Haji Peer](https://open.spotify.com/album/52tfxa4ThDUFALfmS7HcZR) | 4:11 | 2022-08-02 |  |
 | [Haq Ali](https://open.spotify.com/track/4KdVxITCH0jol5Dbq2x68H) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Raj Pandit](https://open.spotify.com/artist/3UOrPjiw3UxtqP8ZoKR908), [Salman Ali](https://open.spotify.com/artist/0ygVoSAqn4tgm4AgCuKQpF), [Vipul Mehta](https://open.spotify.com/artist/1dYfklXi4374JvN7XjNJ2a), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm) | [Haq Ali](https://open.spotify.com/album/0FJlpw4MuPuYh2STnJVHt7) | 6:47 | 2022-08-02 |  |
+| [Hum Dekhenge](https://open.spotify.com/track/68xwgHKBcFBdgNlwGaiQWD) | [Zeeshan Haider](https://open.spotify.com/artist/0c8E2S7cYBXqoo51XkVX3L) | [Hum Dekhenge](https://open.spotify.com/album/5AsrWbCKLj3AlZjddMn44O) | 1:58 | 2022-08-29 |  |
 | [Husn E Haqiqi](https://open.spotify.com/track/1Yi1XZNXOGk49Eh8WI5FGG) | [Darvesh](https://open.spotify.com/artist/1mPsFzgP5Zg6gdnfyKWMyJ) | [Husn E Haqiqi](https://open.spotify.com/album/402uZx2nCUK3MWpvqrVNxW) | 6:39 | 2022-06-21 |  |
 | [Irham Lana](https://open.spotify.com/track/7Bb1qUMVUrHSxV8UnOjwxy) | [Hamza Akram Qawwal](https://open.spotify.com/artist/1SqOrcBazuYQ8pcw4UuseT), [Taimoor Akram](https://open.spotify.com/artist/1cwy0UsOCVBUtJcMq80gzq), [Abdul Akram](https://open.spotify.com/artist/7h8qDn9P06lpRw7ARJxXnC) | [Irham Lana](https://open.spotify.com/album/4lVWBcqW0dOuNZ1jjcaAWb) | 7:11 | 2022-06-21 |  |
 | [Ishq Aap Bhe Awalla](https://open.spotify.com/track/0O0P91lDzZQAs8nNLiHNQW) | [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR) | [Ishq Aap Bhe Awalla](https://open.spotify.com/album/7AJV0qWSlzs6HsMQ7G5UUA) | 5:48 | 2022-08-02 |  |

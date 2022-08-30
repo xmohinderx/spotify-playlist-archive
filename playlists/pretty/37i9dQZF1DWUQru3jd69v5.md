@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Cover: Nabi
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,605 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,676 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 49 | [Street Fama](https://open.spotify.com/track/6CTYj58wisw6s6AJTbGdrE) | [Korbe](https://open.spotify.com/artist/4UpISNZSBbdGOIXWBwhfL7) | [Street Fama](https://open.spotify.com/album/7nRdzbjeBrcvh1PgxcikXA) | 1:31 |
 | 50 | [17ANNI](https://open.spotify.com/track/2EjjzbpzMZqhpHuyft3LRc) | [LA PLATA](https://open.spotify.com/artist/2Hb9O6tBkCp1zVmq1vR3KQ), [Silnyya](https://open.spotify.com/artist/0MTV1wG5r8M1hTexjolpA5) | [17ANNI](https://open.spotify.com/album/0sORJIrRbMnPOzPnwdtuiJ) | 2:30 |
 
-Snapshot ID: `MTY2MTUyMjA0NSwwMDAwMDAwMDA3MjM5ZTY1NzE2ODRkODBiYzQ1Zjc4MGY4ZTkwNDE2`
+Snapshot ID: `MTY2MTc2MDgwNywwMDAwMDAwMDgxZmY4OWJlZWYwYmNhNzc3ZGFhMzEwOGRhOWQ2ZDM3`

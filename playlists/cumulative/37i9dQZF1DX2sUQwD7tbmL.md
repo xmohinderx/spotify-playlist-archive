@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-463 songs - 1 day 2 hr 25 min - [published](https://open.spotify.com/playlist/34b8Kse0gQlLcdKWiNlqDt)
+464 songs - 1 day 2 hr 28 min - [published](https://open.spotify.com/playlist/34b8Kse0gQlLcdKWiNlqDt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Catch the Sun](https://open.spotify.com/track/3rF6stvHK5JrAN9AAfIczG) | [vern matz](https://open.spotify.com/artist/3ueZVX55ehCZVl46S1YTcj) | [A Treatise on the Rainbow](https://open.spotify.com/album/0zKdvj4RESPZAzDQ006MG3) | 2:25 | 2022-04-27 | 2022-06-14 |
 | [Cellophane \(Brain\)](https://open.spotify.com/track/4dVAjdLba7P8K5gtAc2Slt) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Cellophane \(Brain\)](https://open.spotify.com/album/6s2KPuyqgG5sZvKrQenE8U) | 3:30 | 2021-05-01 | 2022-03-21 |
 | [Chaise Longue](https://open.spotify.com/track/0nys6GusuHnjSYLW0PYYb7) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:16 | 2022-04-13 |  |
-| [Chamber Of Reflection](https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/2sij95QgjmgrhNv33achzn) | 3:51 | 2022-04-13 |  |
+| [Chamber Of Reflection](https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/2sij95QgjmgrhNv33achzn) | 3:51 | 2022-04-13 | 2022-08-30 |
 | [Change My Mind](https://open.spotify.com/track/1OAvHPLuZFfuMZE3IL9Pun) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Camp Nowhere](https://open.spotify.com/album/62bHJz7hoNQEtUvKRW8fzb) | 2:01 | 2022-04-13 | 2022-04-20 |
 | [Checkin' Out](https://open.spotify.com/track/0VUqkakeW5chSQ6eK621Rh) | [Born Ruffians](https://open.spotify.com/artist/7wGrLSB3v7jkV3fSsjYwtv) | [Checkin' Out](https://open.spotify.com/album/64eyblkVZVrbCwe4OKm62d) | 2:37 | 2021-05-01 | 2022-04-14 |
 | [Cheers](https://open.spotify.com/track/1o6AAprhFq448i4PVPKoZ6) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Cheers](https://open.spotify.com/album/1SZyOSR32ufm1Gdx6guwZR) | 3:15 | 2022-04-13 | 2022-06-09 |
@@ -189,10 +189,11 @@
 | [Heat Wave](https://open.spotify.com/track/3GrQGjwZj2K3nQMBamhRC1) | [Born Ruffians](https://open.spotify.com/artist/7wGrLSB3v7jkV3fSsjYwtv) | [Heat Wave / Husha](https://open.spotify.com/album/6C3uqoxRpkEmfhwEAePod2) | 4:32 | 2021-05-01 | 2022-04-12 |
 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 | 2022-04-13 |  |
 | [help herself](https://open.spotify.com/track/4YMc3A256xFBS0xcT77Qce) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5) | [help herself](https://open.spotify.com/album/1LeB4us5kQb6xoSXM1kws8) | 3:08 | 2022-05-11 |  |
+| [Here It Goes Again](https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD) | [OK Go](https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz) | [Oh No](https://open.spotify.com/album/1qN6qh1gwgrYTCdSq21gov) | 2:59 | 2022-08-29 |  |
 | [Hey Michael](https://open.spotify.com/track/7sUTbNjYpJkUhICiLEoYdf) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4), [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Hey Michael](https://open.spotify.com/album/28hQxdmFZYjRLEqeM5hZK0) | 2:59 | 2021-05-01 | 2022-07-29 |
 | [HIDE](https://open.spotify.com/track/1ZK4x9YUytJSgdu2yC39z7) | [Marko](https://open.spotify.com/artist/1gBpdTK92fXFog9vxL9eL5) | [HIDE](https://open.spotify.com/album/1utKbZcRFkm5ANR84UQBvk) | 2:47 | 2022-04-13 | 2022-07-29 |
 | [HIDE \(MYSELF BEHIND YOU\)](https://open.spotify.com/track/0ylk0gZbTofpSVCsNe18BB) | [Ron Gallo](https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg) | [HIDE \(MYSELF BEHIND YOU\)](https://open.spotify.com/album/0dFesGsi1a0RRccrnYoi29) | 2:58 | 2021-05-01 | 2022-03-14 |
-| [Hold Me Down](https://open.spotify.com/track/2e62x0Mhv46Zx1ph0W4B3d) | [The Happy Fits](https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ) | [What Could Be Better](https://open.spotify.com/album/7FhH5nGululV6EAqwf6X0c) | 3:43 | 2021-05-01 | 2022-07-29 |
+| [Hold Me Down](https://open.spotify.com/track/2e62x0Mhv46Zx1ph0W4B3d) | [The Happy Fits](https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ) | [What Could Be Better](https://open.spotify.com/album/7FhH5nGululV6EAqwf6X0c) | 3:43 | 2021-05-01 |  |
 | [Holidays](https://open.spotify.com/track/6jPJ8mwfq9A1j33ugXIL6I) | [Michl](https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN) | [Holidays](https://open.spotify.com/album/45uEr0o0PLezR8klDixbyp) | 3:15 | 2021-05-01 | 2022-04-14 |
 | [Homage](https://open.spotify.com/track/7DcJ6fEBb7BaKuYKTwiDxK) | [Mild High Club](https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG) | [Skiptracing](https://open.spotify.com/album/6O9YDn12I4WQxUBQE9tpnN) | 2:57 | 2022-07-22 |  |
 | [Homage](https://open.spotify.com/track/7pegxVesMmE2qK0o58xoFG) | [Mild High Club](https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG) | [Skiptracing](https://open.spotify.com/album/1qMDN9zRQreK81cJ9G1hed) | 2:57 | 2021-05-01 | 2022-04-20 |
@@ -293,7 +294,7 @@
 | [New Light](https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:37 | 2022-07-22 |  |
 | [nightmares](https://open.spotify.com/track/2hCOLHDVQhnu0qpLFV4ynj) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [nightmares](https://open.spotify.com/album/0y6NUCloXhKFoYGZ1m3P96) | 3:27 | 2021-05-01 | 2022-04-14 |
 | [No Going Back](https://open.spotify.com/track/4AKN68fSI8weZ1dbN35QLi) | [Yuno](https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa) | [No Going Back](https://open.spotify.com/album/53n71tD6F4I1afwJtjZCVS) | 3:28 | 2021-05-01 | 2022-07-29 |
-| [Nobody](https://open.spotify.com/track/2P5yIMu2DNeMXTyOANKS6k) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 3:13 | 2022-07-22 |  |
+| [Nobody](https://open.spotify.com/track/2P5yIMu2DNeMXTyOANKS6k) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 3:13 | 2022-07-22 | 2022-08-30 |
 | [Nobody](https://open.spotify.com/track/6bTn1ovliI0OkjUNkiMBJq) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD) | 3:13 | 2021-05-01 | 2022-04-21 |
 | [Nobody Gets Me \(Like You\)](https://open.spotify.com/track/6XjNM7KyApEaLwRZEZkb0X) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Virtual Aerobics](https://open.spotify.com/album/70QRj2miXV0LTLG887MgTp) | 2:37 | 2022-04-13 | 2022-04-19 |
 | [Not Dead Yet](https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Not Dead Yet](https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w) | 2:57 | 2021-05-01 | 2022-07-29 |
@@ -400,7 +401,7 @@
 | [Take You Back](https://open.spotify.com/track/5xjDVAPLOovtYtzswnCxRS) | [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [Take You Back](https://open.spotify.com/album/4KQ1bIDdoQgUILRQBxiWkB) | 3:36 | 2021-05-01 | 2022-04-12 |
 | [Tek It](https://open.spotify.com/track/63HHF9ZpCIisujKFk2rixR) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Running](https://open.spotify.com/album/4n42G2OKF6kxGugj2MMn5c) | 3:11 | 2022-04-11 | 2022-06-04 |
 | [Tek It](https://open.spotify.com/track/751srcHf5tUqcEa9pRCQwP) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Running](https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG) | 3:11 | 2022-07-22 |  |
-| [Tek It \- Sped Up](https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Tek It \(I Watch the Moon\)](https://open.spotify.com/album/3Bt2OtHQDRDXC10Flgm9Rv) | 2:46 | 2022-07-22 |  |
+| [Tek It \- Sped Up](https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Tek It \(I Watch the Moon\)](https://open.spotify.com/album/3Bt2OtHQDRDXC10Flgm9Rv) | 2:46 | 2022-07-22 | 2022-08-30 |
 | [Temper Temper](https://open.spotify.com/track/3DCU0R5FFaB9GKxZERb5wr) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Permanent Vacation](https://open.spotify.com/album/5YlzKbkGoIIFnBOnYwU3kl) | 3:28 | 2021-06-04 |  |
 | [The Adults Are Talking](https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) | 5:09 | 2022-04-13 |  |
 | [The Bottom of It](https://open.spotify.com/track/4bva6j9FaGs1rdCzScAqLk) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [The Bottom of It](https://open.spotify.com/album/1k4JXPaKc4ZSZPalFAoWRA) | 3:01 | 2021-05-01 | 2022-07-29 |
@@ -416,7 +417,7 @@
 | [The Sun](https://open.spotify.com/track/5UEZzRsrB4FKw1SIMoMD2y) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Born a Loser](https://open.spotify.com/album/6OQjfXsIharHjMAMbGYGNd) | 3:27 | 2022-07-22 |  |
 | [The Sun](https://open.spotify.com/track/4IY8Lz6j0sc2DuUva1KLNo) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [The Sun](https://open.spotify.com/album/4hI5JJDxanXbakx4MkFToA) | 3:30 | 2021-05-01 | 2022-04-21 |
 | [The Wall & I](https://open.spotify.com/track/3YopR9iqzcQei6l8DJ5Ylo) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Introduction, Presence](https://open.spotify.com/album/6ogsolFc2FCmP8ru8fBfgQ) | 5:04 | 2021-05-01 | 2022-04-19 |
-| [These Are The Days](https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [These Are The Days](https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz) | 3:42 | 2022-06-17 | 2022-08-23 |
+| [These Are The Days](https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [These Are The Days](https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz) | 3:42 | 2022-06-17 |  |
 | [Things I Thought Were Mine](https://open.spotify.com/track/3i10mtYVZPyoxorz6C19xE) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Happiness in Liquid Form](https://open.spotify.com/album/4hfnS7YAQNDiihGt70E3ei) | 3:13 | 2021-05-01 |  |
 | [This Life](https://open.spotify.com/track/4dRqYKhLVujxiBXcq50YzG) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Father of the Bride](https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ) | 4:28 | 2021-05-01 | 2022-01-08 |
 | [This Must Be the Place](https://open.spotify.com/track/5XNFqqY6uEeHecY4vkYfwC) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [This Must Be the Place](https://open.spotify.com/album/0c2l7sS8kYtPrUouP4dbos) | 3:39 | 2021-05-01 | 2022-07-29 |

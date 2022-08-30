@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 24215,
+  "num_followers": 24720,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUyNzY0MSwwMDAwMDAwMDA3YTIwZjEzZmE4YzcwMzk1ZDBkZjc2ZWNlOTE3MGEx",
+  "snapshot_id": "MTY2MTUyNzY0MSwwMDAwMDAwMGU1N2Y0ZDQ2ZmY3NzIzMGRiYzk4YzllN2Q5ZTRmNWNl",
   "tracks": [
     {
       "added_at": "2022-08-26 15:27:21",
@@ -367,6 +367,38 @@
     {
       "added_at": "2022-08-26 15:27:21",
       "album": {
+        "name": "Affection",
+        "url": "https://open.spotify.com/album/0Q62ehvfJy5DN51XOIVvfP"
+      },
+      "artists": [
+        {
+          "name": "Felix Kr\u00f6cher",
+          "url": "https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ"
+        }
+      ],
+      "duration_ms": 271729,
+      "name": "Affection - Radio Edit",
+      "url": "https://open.spotify.com/track/7dQWBRCRBhgbaRATAI6OqD"
+    },
+    {
+      "added_at": "2022-08-26 15:27:21",
+      "album": {
+        "name": "Hydro",
+        "url": "https://open.spotify.com/album/2CYt7WOUAFdAOBYwPuJGLL"
+      },
+      "artists": [
+        {
+          "name": "Filterheadz",
+          "url": "https://open.spotify.com/artist/6XqUjMGrl5jFwwyQ6hheit"
+        }
+      ],
+      "duration_ms": 405737,
+      "name": "Hydro",
+      "url": "https://open.spotify.com/track/0nmNR0KNc1in7qBGXmzEZY"
+    },
+    {
+      "added_at": "2022-08-26 15:27:21",
+      "album": {
         "name": "String Theory",
         "url": "https://open.spotify.com/album/64nnxFO6ZeVn19b7fGqOgN"
       },
@@ -391,22 +423,6 @@
     {
       "added_at": "2022-08-26 15:27:21",
       "album": {
-        "name": "Hydro",
-        "url": "https://open.spotify.com/album/2CYt7WOUAFdAOBYwPuJGLL"
-      },
-      "artists": [
-        {
-          "name": "Filterheadz",
-          "url": "https://open.spotify.com/artist/6XqUjMGrl5jFwwyQ6hheit"
-        }
-      ],
-      "duration_ms": 405737,
-      "name": "Hydro",
-      "url": "https://open.spotify.com/track/0nmNR0KNc1in7qBGXmzEZY"
-    },
-    {
-      "added_at": "2022-08-26 15:27:21",
-      "album": {
         "name": "ME/AN",
         "url": "https://open.spotify.com/album/501Goc9jbp4cFU1PN7HRVR"
       },
@@ -427,18 +443,34 @@
     {
       "added_at": "2022-08-26 15:27:21",
       "album": {
-        "name": "Affection",
-        "url": "https://open.spotify.com/album/0Q62ehvfJy5DN51XOIVvfP"
+        "name": "In Trance",
+        "url": "https://open.spotify.com/album/2kbVZWawvUewEVkbuNhri7"
       },
       "artists": [
         {
-          "name": "Felix Kr\u00f6cher",
-          "url": "https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ"
+          "name": "Dominik Saltevski",
+          "url": "https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN"
         }
       ],
-      "duration_ms": 271729,
-      "name": "Affection - Radio Edit",
-      "url": "https://open.spotify.com/track/7dQWBRCRBhgbaRATAI6OqD"
+      "duration_ms": 357305,
+      "name": "In Trance",
+      "url": "https://open.spotify.com/track/3YcuaBQ6HJGwPPmiJ2UEiL"
+    },
+    {
+      "added_at": "2022-08-26 15:27:21",
+      "album": {
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/6LLsf3g5lH1Up0v09IXajh"
+      },
+      "artists": [
+        {
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
+        }
+      ],
+      "duration_ms": 413538,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/110oOecgIEMdjl5kOLtPCd"
     },
     {
       "added_at": "2022-08-26 15:27:21",
@@ -463,22 +495,6 @@
       "duration_ms": 387807,
       "name": "Control - Original Mix",
       "url": "https://open.spotify.com/track/3cwXKrP3RuQ6vlwvwUMJcZ"
-    },
-    {
-      "added_at": "2022-08-26 15:27:21",
-      "album": {
-        "name": "In Trance",
-        "url": "https://open.spotify.com/album/2kbVZWawvUewEVkbuNhri7"
-      },
-      "artists": [
-        {
-          "name": "Dominik Saltevski",
-          "url": "https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN"
-        }
-      ],
-      "duration_ms": 357305,
-      "name": "In Trance",
-      "url": "https://open.spotify.com/track/3YcuaBQ6HJGwPPmiJ2UEiL"
     },
     {
       "added_at": "2022-08-26 15:27:21",
@@ -511,22 +527,6 @@
       "duration_ms": 392008,
       "name": "Hercules",
       "url": "https://open.spotify.com/track/56fFmIpNTFTcQSrfCNxeyu"
-    },
-    {
-      "added_at": "2022-08-26 15:27:21",
-      "album": {
-        "name": "Adrenaline",
-        "url": "https://open.spotify.com/album/6LLsf3g5lH1Up0v09IXajh"
-      },
-      "artists": [
-        {
-          "name": "Deborah de Luca",
-          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
-        }
-      ],
-      "duration_ms": 413538,
-      "name": "Adrenaline",
-      "url": "https://open.spotify.com/track/110oOecgIEMdjl5kOLtPCd"
     },
     {
       "added_at": "2022-08-26 15:27:21",
@@ -615,6 +615,22 @@
     {
       "added_at": "2022-08-26 15:27:21",
       "album": {
+        "name": "You Can't Stop Us",
+        "url": "https://open.spotify.com/album/2ysLpJ6RrQzrZQU3ZpO5rM"
+      },
+      "artists": [
+        {
+          "name": "Denise Schneider",
+          "url": "https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI"
+        }
+      ],
+      "duration_ms": 142153,
+      "name": "You Can't Stop Us",
+      "url": "https://open.spotify.com/track/39stAgopu3xQH0ZpEiNNw3"
+    },
+    {
+      "added_at": "2022-08-26 15:27:21",
+      "album": {
         "name": "Light + Shadow Remixes, Vol. 1",
         "url": "https://open.spotify.com/album/7aBnqZdnNzK0xvQ53vKpkO"
       },
@@ -655,6 +671,38 @@
     {
       "added_at": "2022-08-26 15:27:21",
       "album": {
+        "name": "Inside My Head",
+        "url": "https://open.spotify.com/album/4hviWBBIv5SqDae4nljvEc"
+      },
+      "artists": [
+        {
+          "name": "AKKI (DE)",
+          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
+        }
+      ],
+      "duration_ms": 419164,
+      "name": "Inside My Head",
+      "url": "https://open.spotify.com/track/3YR7XdHKPA21815NjqWZeB"
+    },
+    {
+      "added_at": "2022-08-26 15:27:21",
+      "album": {
+        "name": "Sex and the Machine",
+        "url": "https://open.spotify.com/album/6atDj6WJcP84s9nY88mkYe"
+      },
+      "artists": [
+        {
+          "name": "Pleasurekraft",
+          "url": "https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4"
+        }
+      ],
+      "duration_ms": 240123,
+      "name": "Sex and the Machine",
+      "url": "https://open.spotify.com/track/2H4l11D1fsfJ3WfyZ6XGe1"
+    },
+    {
+      "added_at": "2022-08-26 15:27:21",
+      "album": {
         "name": "Rush",
         "url": "https://open.spotify.com/album/1HNzqVzl0u8EuZIoQNAWeo"
       },
@@ -683,38 +731,6 @@
       "duration_ms": 371134,
       "name": "1981",
       "url": "https://open.spotify.com/track/63iBv67DSrEao8sDW3byIe"
-    },
-    {
-      "added_at": "2022-08-26 15:27:21",
-      "album": {
-        "name": "Sex and the Machine",
-        "url": "https://open.spotify.com/album/6atDj6WJcP84s9nY88mkYe"
-      },
-      "artists": [
-        {
-          "name": "Pleasurekraft",
-          "url": "https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4"
-        }
-      ],
-      "duration_ms": 240123,
-      "name": "Sex and the Machine",
-      "url": "https://open.spotify.com/track/2H4l11D1fsfJ3WfyZ6XGe1"
-    },
-    {
-      "added_at": "2022-08-26 15:27:21",
-      "album": {
-        "name": "You Can't Stop Us",
-        "url": "https://open.spotify.com/album/2ysLpJ6RrQzrZQU3ZpO5rM"
-      },
-      "artists": [
-        {
-          "name": "Denise Schneider",
-          "url": "https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI"
-        }
-      ],
-      "duration_ms": 142153,
-      "name": "You Can't Stop Us",
-      "url": "https://open.spotify.com/track/39stAgopu3xQH0ZpEiNNw3"
     },
     {
       "added_at": "2022-08-26 15:27:21",
@@ -751,6 +767,22 @@
     {
       "added_at": "2022-08-26 15:27:21",
       "album": {
+        "name": "Huys",
+        "url": "https://open.spotify.com/album/2sS1FtLIaTlF841XRlvtZK"
+      },
+      "artists": [
+        {
+          "name": "Anahit Vardanyan",
+          "url": "https://open.spotify.com/artist/3B0Z2WunAUciyiCc3DsnAa"
+        }
+      ],
+      "duration_ms": 440454,
+      "name": "Huys",
+      "url": "https://open.spotify.com/track/2gHhVQLkEn5HdKrfxMrXQM"
+    },
+    {
+      "added_at": "2022-08-26 15:27:21",
+      "album": {
         "name": "Addiction",
         "url": "https://open.spotify.com/album/3eVU8slwm0M3yv43Xvjk4F"
       },
@@ -771,54 +803,6 @@
     {
       "added_at": "2022-08-26 15:27:21",
       "album": {
-        "name": "Inside My Head",
-        "url": "https://open.spotify.com/album/4hviWBBIv5SqDae4nljvEc"
-      },
-      "artists": [
-        {
-          "name": "AKKI (DE)",
-          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
-        }
-      ],
-      "duration_ms": 419164,
-      "name": "Inside My Head",
-      "url": "https://open.spotify.com/track/3YR7XdHKPA21815NjqWZeB"
-    },
-    {
-      "added_at": "2022-08-26 15:27:21",
-      "album": {
-        "name": "Tribal Space",
-        "url": "https://open.spotify.com/album/4UeZWgfQSO0fsHpCDudHzs"
-      },
-      "artists": [
-        {
-          "name": "Sabura",
-          "url": "https://open.spotify.com/artist/7qciaYUulPvR4k8KMc4OTX"
-        }
-      ],
-      "duration_ms": 359250,
-      "name": "Tribal Space",
-      "url": "https://open.spotify.com/track/4VfF4RBRiKKV969cXUX8or"
-    },
-    {
-      "added_at": "2022-08-26 15:27:21",
-      "album": {
-        "name": "Huys",
-        "url": "https://open.spotify.com/album/2sS1FtLIaTlF841XRlvtZK"
-      },
-      "artists": [
-        {
-          "name": "Anahit Vardanyan",
-          "url": "https://open.spotify.com/artist/3B0Z2WunAUciyiCc3DsnAa"
-        }
-      ],
-      "duration_ms": 440454,
-      "name": "Huys",
-      "url": "https://open.spotify.com/track/2gHhVQLkEn5HdKrfxMrXQM"
-    },
-    {
-      "added_at": "2022-08-26 15:27:21",
-      "album": {
         "name": "Sense EP",
         "url": "https://open.spotify.com/album/6Jg01D0r46MbjuerQTRyp5"
       },
@@ -835,18 +819,18 @@
     {
       "added_at": "2022-08-26 15:27:21",
       "album": {
-        "name": "Obsession",
-        "url": "https://open.spotify.com/album/4srFUnzoyoRcBQl4mk9wXp"
+        "name": "Platia",
+        "url": "https://open.spotify.com/album/392IhxcdGrDfekRvmCREOl"
       },
       "artists": [
         {
-          "name": "Felix Kr\u00f6cher",
-          "url": "https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ"
+          "name": "FOVOS",
+          "url": "https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8"
         }
       ],
-      "duration_ms": 382045,
-      "name": "Obsession",
-      "url": "https://open.spotify.com/track/2FhFPJLuYfN1WAxseZf9qV"
+      "duration_ms": 192380,
+      "name": "Platia",
+      "url": "https://open.spotify.com/track/6wbYCyePXvS1XCsMigiZTI"
     },
     {
       "added_at": "2022-08-26 15:27:21",
@@ -871,18 +855,34 @@
     {
       "added_at": "2022-08-26 15:27:21",
       "album": {
-        "name": "Morphing",
-        "url": "https://open.spotify.com/album/4l2yMnT07CAmWjFRBtYeFQ"
+        "name": "Tribal Space",
+        "url": "https://open.spotify.com/album/4UeZWgfQSO0fsHpCDudHzs"
       },
       "artists": [
         {
-          "name": "Ramon Tapia",
-          "url": "https://open.spotify.com/artist/5BFl4h5TXYSSJsCteTX3s1"
+          "name": "Sabura",
+          "url": "https://open.spotify.com/artist/7qciaYUulPvR4k8KMc4OTX"
         }
       ],
-      "duration_ms": 292989,
-      "name": "Morphing",
-      "url": "https://open.spotify.com/track/6Y2OimS3u5eKd0LLco0Vlq"
+      "duration_ms": 359250,
+      "name": "Tribal Space",
+      "url": "https://open.spotify.com/track/4VfF4RBRiKKV969cXUX8or"
+    },
+    {
+      "added_at": "2022-08-26 15:27:21",
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/59WoCic1VzW9qox5cE3u0p"
+      },
+      "artists": [
+        {
+          "name": "Teenage Mutants",
+          "url": "https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA"
+        }
+      ],
+      "duration_ms": 400172,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/1c3OaOeSogCpXTa8BhnBEq"
     }
   ],
   "unique_name": "Techno Workout",

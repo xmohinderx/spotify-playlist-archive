@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs
 
-441 songs - 23 hr 48 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
+442 songs - 23 hr 51 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -432,6 +432,7 @@
 | [While We're Young \- Marze Remix](https://open.spotify.com/track/0B5jpdoINneNjnPZ8yAzCu) | [Josh Rivera](https://open.spotify.com/artist/1MPWHkKtgL5X61RI8JS6cn), [Marze](https://open.spotify.com/artist/6JoNplNFJPDvDHBB4WRq7T) | [While We're Young \(Marze Remix\)](https://open.spotify.com/album/62JCkNsrR5gweeEM5ySIWA) | 2:57 | 2022-08-26 |  |
 | [Who Will Save Us \- hyperforms Remix](https://open.spotify.com/track/4mBCcNSM2GDYVHTZlImRQJ) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4), [hyperforms](https://open.spotify.com/artist/0NreEgNG54pUbCtdJ7W7ub) | [The Remixes \(Vol\. 2\)](https://open.spotify.com/album/7o9Q8Gcu9ALGjs1gJ1hUcX) | 2:37 | 2022-01-25 | 2022-02-26 |
 | [Wild Love](https://open.spotify.com/track/6z4XNYoSj2gs0s2aAVpK5T) | [Sunni D](https://open.spotify.com/artist/6DRsCnHwpy638sR8fO1PTD), [Kindred](https://open.spotify.com/artist/401K7BRPwpumMzCLPInxaE) | [Wild Love](https://open.spotify.com/album/6RZ0UG0miL0MkFY1QDnxRF) | 3:14 | 2022-02-03 | 2022-02-16 |
+| [Wish You The Best](https://open.spotify.com/track/4j6sNySAJenxu4oG6q57dF) | [Culture Code](https://open.spotify.com/artist/2FF8wcGpikv5RFbAK1rvdZ), [Caslow](https://open.spotify.com/artist/40zwrE4brs61aEleZQ6SNq), [Nina Sung](https://open.spotify.com/artist/3IDGSw4dPbHMSnd93gkeXG) | [Wish You The Best](https://open.spotify.com/album/1I4A0gqLW5sRUcY5EzeTis) | 2:55 | 2022-08-29 |  |
 | [With Us](https://open.spotify.com/track/0h5hj2DLymMFFRxnotcc3w) | [Hoober](https://open.spotify.com/artist/32rfvsXfn7YDlDhG7Hh7Zd), [roseboy](https://open.spotify.com/artist/19XTIhkOL45VkvkjjGzD61), [Pbenz](https://open.spotify.com/artist/0iTL62LjPPI99dA62aW0Ir) | [With Us](https://open.spotify.com/album/3weu8g7iv2zYprfSDi18DB) | 3:20 | 2022-02-18 | 2022-03-26 |
 | [Without You](https://open.spotify.com/track/7hvpcyq2AkgqTGxTQ9Qif5) | [32Stitches](https://open.spotify.com/artist/4NH2deLFDDB0YeV3PNLjWQ) | [Without You](https://open.spotify.com/album/5sEaAJCCNJfbvzq21SmUZw) | 3:55 | 2022-02-03 | 2022-02-16 |
 | [Worth It](https://open.spotify.com/track/2SlQJGn5ZR0ZNO7M9sV7UT) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Essenger](https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE) | [Worth It](https://open.spotify.com/album/18xBXYF9HMCYwH97Ib4YUI) | 3:15 | 2022-01-14 | 2022-07-02 |

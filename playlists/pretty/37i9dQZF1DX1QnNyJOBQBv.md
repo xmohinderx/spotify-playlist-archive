@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QnNyJOBQBv.md) - [plain]
 
 > The hottest Latin pop hits right now\. Cover: Reik & Sech.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,824,157 likes - 81 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,824,133 likes - 81 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

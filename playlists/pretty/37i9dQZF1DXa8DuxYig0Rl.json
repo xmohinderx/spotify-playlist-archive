@@ -1,12 +1,12 @@
 {
   "description": "Tropical y refrescante. Con todo el sabor y tradici\u00f3n de M\u00e9xico.",
-  "num_followers": 11386,
+  "num_followers": 11407,
   "original_name": "Aguas Frescas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzEzODM1MSwwMDAwMDAwMDY2OTFlZGZiODZkNTM1MjU2OTU1YmFjMTU2NzViNDli",
+  "snapshot_id": "MTY0MzEzODM1MSwwMDAwMDAwMGQzZGYzZjA5OGQ1ODQ2ZjIzNWE1NmY1MmZjM2ZjMDkw",
   "tracks": [
     {
       "added_at": "2022-01-25 19:19:11",
@@ -127,22 +127,6 @@
     {
       "added_at": "2022-01-25 19:19:11",
       "album": {
-        "name": "Mis 50 Favoritas",
-        "url": "https://open.spotify.com/album/5zQzp3J2koawQcgkDIngE0"
-      },
-      "artists": [
-        {
-          "name": "Los Flamers",
-          "url": "https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq"
-        }
-      ],
-      "duration_ms": 193146,
-      "name": "Juana La Cubana",
-      "url": "https://open.spotify.com/track/54Lk2MxVaNuxkAw7j5mWkj"
-    },
-    {
-      "added_at": "2022-01-25 19:19:11",
-      "album": {
         "name": "Mambo No 5",
         "url": "https://open.spotify.com/album/1uTfiWvskpE7pQ7on5qnWi"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 162213,
       "name": "Mambo No 5",
       "url": "https://open.spotify.com/track/6fJnlY8rYqC37J2u2OeEMf"
+    },
+    {
+      "added_at": "2022-01-25 19:19:11",
+      "album": {
+        "name": "Mis 50 Favoritas",
+        "url": "https://open.spotify.com/album/5zQzp3J2koawQcgkDIngE0"
+      },
+      "artists": [
+        {
+          "name": "Los Flamers",
+          "url": "https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq"
+        }
+      ],
+      "duration_ms": 193146,
+      "name": "Juana La Cubana",
+      "url": "https://open.spotify.com/track/54Lk2MxVaNuxkAw7j5mWkj"
     },
     {
       "added_at": "2022-01-25 19:19:11",
@@ -175,18 +175,18 @@
     {
       "added_at": "2022-01-25 19:19:11",
       "album": {
-        "name": "Lo Mejor De Mike Laure",
-        "url": "https://open.spotify.com/album/4phadJG0y214V03sl93hIT"
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O"
       },
       "artists": [
         {
-          "name": "Mike Laure",
-          "url": "https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h"
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
         }
       ],
-      "duration_ms": 151417,
-      "name": "La Rajita De Canela",
-      "url": "https://open.spotify.com/track/4sSpxTtKhdASbBQVo14Sx8"
+      "duration_ms": 171546,
+      "name": "La Boa",
+      "url": "https://open.spotify.com/track/4UmKFyEKaew90RWzqbTalb"
     },
     {
       "added_at": "2022-01-25 19:19:11",
@@ -207,18 +207,18 @@
     {
       "added_at": "2022-01-25 19:19:11",
       "album": {
-        "name": "20 Exitos",
-        "url": "https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O"
+        "name": "Lo Mejor De Mike Laure",
+        "url": "https://open.spotify.com/album/4phadJG0y214V03sl93hIT"
       },
       "artists": [
         {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+          "name": "Mike Laure",
+          "url": "https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h"
         }
       ],
-      "duration_ms": 171546,
-      "name": "La Boa",
-      "url": "https://open.spotify.com/track/4UmKFyEKaew90RWzqbTalb"
+      "duration_ms": 151417,
+      "name": "La Rajita De Canela",
+      "url": "https://open.spotify.com/track/4sSpxTtKhdASbBQVo14Sx8"
     },
     {
       "added_at": "2022-01-25 19:19:11",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-01-25 19:19:11",
       "album": {
-        "name": "'S Continental",
-        "url": "https://open.spotify.com/album/2od6E7Hj5mVWeslfsRjtxq"
-      },
-      "artists": [
-        {
-          "name": "Ray Conniff",
-          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
-        }
-      ],
-      "duration_ms": 153333,
-      "name": "Tico-Tico",
-      "url": "https://open.spotify.com/track/2vMWnjMI89KfMKhvUq4OnP"
-    },
-    {
-      "added_at": "2022-01-25 19:19:11",
-      "album": {
         "name": "Lo Mejor De Mike Laure",
         "url": "https://open.spotify.com/album/4phadJG0y214V03sl93hIT"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 222191,
       "name": "Mazatl\u00e1n",
       "url": "https://open.spotify.com/track/4xUihGiAEgWDu1DPGGZyKt"
+    },
+    {
+      "added_at": "2022-01-25 19:19:11",
+      "album": {
+        "name": "'S Continental",
+        "url": "https://open.spotify.com/album/2od6E7Hj5mVWeslfsRjtxq"
+      },
+      "artists": [
+        {
+          "name": "Ray Conniff",
+          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
+        }
+      ],
+      "duration_ms": 153333,
+      "name": "Tico-Tico",
+      "url": "https://open.spotify.com/track/2vMWnjMI89KfMKhvUq4OnP"
     },
     {
       "added_at": "2022-01-25 19:19:11",
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-01-25 19:19:11",
       "album": {
-        "name": "Lo Mejor De Mike Laure",
-        "url": "https://open.spotify.com/album/4phadJG0y214V03sl93hIT"
-      },
-      "artists": [
-        {
-          "name": "Mike Laure",
-          "url": "https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h"
-        }
-      ],
-      "duration_ms": 195210,
-      "name": "La Banda Borracha",
-      "url": "https://open.spotify.com/track/2PffzUyZQeg5YTqVtzMjqb"
-    },
-    {
-      "added_at": "2022-01-25 19:19:11",
-      "album": {
         "name": "15 EXITOS",
         "url": "https://open.spotify.com/album/2CHM7kNjxlfUHpOj1BuxOs"
       },
@@ -451,22 +435,6 @@
     {
       "added_at": "2022-01-25 19:19:11",
       "album": {
-        "name": "Lo Mejor De Lo Mejor",
-        "url": "https://open.spotify.com/album/0xWIbLx7asBb35NBNNBHed"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
-        }
-      ],
-      "duration_ms": 154066,
-      "name": "Norma la de Guadalajara",
-      "url": "https://open.spotify.com/track/5GSxiQq6wuTKUTZqw73L99"
-    },
-    {
-      "added_at": "2022-01-25 19:19:11",
-      "album": {
         "name": "Aquellos Tiempos del Trio Matamoros",
         "url": "https://open.spotify.com/album/3BHKao5ijqNQq4eCj8m6Ij"
       },
@@ -479,6 +447,38 @@
       "duration_ms": 217053,
       "name": "Son de la Loma",
       "url": "https://open.spotify.com/track/1WUFibguVgCU5jjFRezexh"
+    },
+    {
+      "added_at": "2022-01-25 19:19:11",
+      "album": {
+        "name": "Lo Mejor De Mike Laure",
+        "url": "https://open.spotify.com/album/4phadJG0y214V03sl93hIT"
+      },
+      "artists": [
+        {
+          "name": "Mike Laure",
+          "url": "https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h"
+        }
+      ],
+      "duration_ms": 195210,
+      "name": "La Banda Borracha",
+      "url": "https://open.spotify.com/track/2PffzUyZQeg5YTqVtzMjqb"
+    },
+    {
+      "added_at": "2022-01-25 19:19:11",
+      "album": {
+        "name": "Lo Mejor De Lo Mejor",
+        "url": "https://open.spotify.com/album/0xWIbLx7asBb35NBNNBHed"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+        }
+      ],
+      "duration_ms": 154066,
+      "name": "Norma la de Guadalajara",
+      "url": "https://open.spotify.com/track/5GSxiQq6wuTKUTZqw73L99"
     },
     {
       "added_at": "2022-01-25 19:19:11",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-01-25 19:19:11",
       "album": {
-        "name": "El Ritmo De Chico Che Y La Crisis",
-        "url": "https://open.spotify.com/album/6oaUkOuzi3a61cT7hPnKKU"
-      },
-      "artists": [
-        {
-          "name": "Chico Che y La Crisis",
-          "url": "https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm"
-        }
-      ],
-      "duration_ms": 172643,
-      "name": "Uy que miedo",
-      "url": "https://open.spotify.com/track/1PsMejyv5k5cS24FNDuYy2"
-    },
-    {
-      "added_at": "2022-01-25 19:19:11",
-      "album": {
         "name": "Baila Como las Estrellas, Vol. 8: Mambo",
         "url": "https://open.spotify.com/album/5UmWXq6NeU6uZZSG6w63bY"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 178172,
       "name": "Chivirico",
       "url": "https://open.spotify.com/track/6D49ZemBfPYkBORAGXA6QG"
+    },
+    {
+      "added_at": "2022-01-25 19:19:11",
+      "album": {
+        "name": "El Ritmo De Chico Che Y La Crisis",
+        "url": "https://open.spotify.com/album/6oaUkOuzi3a61cT7hPnKKU"
+      },
+      "artists": [
+        {
+          "name": "Chico Che y La Crisis",
+          "url": "https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm"
+        }
+      ],
+      "duration_ms": 172643,
+      "name": "Uy que miedo",
+      "url": "https://open.spotify.com/track/1PsMejyv5k5cS24FNDuYy2"
     },
     {
       "added_at": "2022-01-25 19:19:11",
@@ -611,6 +611,22 @@
     {
       "added_at": "2022-01-25 19:19:11",
       "album": {
+        "name": "Antolog\u00eda. . .Marimba Cuquita de los Hermanos Narvaez",
+        "url": "https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb"
+      },
+      "artists": [
+        {
+          "name": "Marimba Cuquita de los Hermanos Narvaez",
+          "url": "https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm"
+        }
+      ],
+      "duration_ms": 191346,
+      "name": "La Cotorra Gorrona",
+      "url": "https://open.spotify.com/track/0e3IjmCKLzOxIQOQtBSwg0"
+    },
+    {
+      "added_at": "2022-01-25 19:19:11",
+      "album": {
         "name": "Canta Celia Cruz",
         "url": "https://open.spotify.com/album/6fARm1KlseDeikTw6xYIop"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 203786,
       "name": "Rigoletito",
       "url": "https://open.spotify.com/track/4L69BoE55Rl105sozTJNfK"
-    },
-    {
-      "added_at": "2022-01-25 19:19:11",
-      "album": {
-        "name": "Antolog\u00eda. . .Marimba Cuquita de los Hermanos Narvaez",
-        "url": "https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb"
-      },
-      "artists": [
-        {
-          "name": "Marimba Cuquita de los Hermanos Narvaez",
-          "url": "https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm"
-        }
-      ],
-      "duration_ms": 191346,
-      "name": "La Cotorra Gorrona",
-      "url": "https://open.spotify.com/track/0e3IjmCKLzOxIQOQtBSwg0"
     },
     {
       "added_at": "2022-01-25 19:19:11",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-01-25 19:19:11",
       "album": {
-        "name": "A Gozar!",
-        "url": "https://open.spotify.com/album/7EwEfGJqixrkf9Rx95h04K"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        }
-      ],
-      "duration_ms": 159520,
-      "name": "El Sonsonete",
-      "url": "https://open.spotify.com/track/5q8ZE4m9qxJFfJG2mlimIc"
-    },
-    {
-      "added_at": "2022-01-25 19:19:11",
-      "album": {
         "name": "Danzones a la Mexicana",
         "url": "https://open.spotify.com/album/5bIUtVLU1JwoqqgN3BOCGW"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 168653,
       "name": "La Diablesa del rock",
       "url": "https://open.spotify.com/track/4DOdwPPUnIDZETau5hO9P5"
+    },
+    {
+      "added_at": "2022-01-25 19:19:11",
+      "album": {
+        "name": "A Gozar!",
+        "url": "https://open.spotify.com/album/7EwEfGJqixrkf9Rx95h04K"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        }
+      ],
+      "duration_ms": 159520,
+      "name": "El Sonsonete",
+      "url": "https://open.spotify.com/track/5q8ZE4m9qxJFfJG2mlimIc"
     },
     {
       "added_at": "2022-01-25 19:19:11",
@@ -943,6 +943,22 @@
     {
       "added_at": "2022-01-25 19:19:11",
       "album": {
+        "name": "Danzones a la Manera del Campeon, Vol. 1",
+        "url": "https://open.spotify.com/album/0E0QZ36nhXb2vlD5WwYwPM"
+      },
+      "artists": [
+        {
+          "name": "Carlos Campos Y Orquesta",
+          "url": "https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU"
+        }
+      ],
+      "duration_ms": 251585,
+      "name": "Zacatlan",
+      "url": "https://open.spotify.com/track/1O6WPRh15WrrE01jmvDToB"
+    },
+    {
+      "added_at": "2022-01-25 19:19:11",
+      "album": {
         "name": "20 Exitos",
         "url": "https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O"
       },
@@ -975,22 +991,6 @@
     {
       "added_at": "2022-01-25 19:19:11",
       "album": {
-        "name": "Danzones a la Manera del Campeon, Vol. 1",
-        "url": "https://open.spotify.com/album/0E0QZ36nhXb2vlD5WwYwPM"
-      },
-      "artists": [
-        {
-          "name": "Carlos Campos Y Orquesta",
-          "url": "https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU"
-        }
-      ],
-      "duration_ms": 251585,
-      "name": "Zacatlan",
-      "url": "https://open.spotify.com/track/1O6WPRh15WrrE01jmvDToB"
-    },
-    {
-      "added_at": "2022-01-25 19:19:11",
-      "album": {
         "name": "Antolog\u00eda. . .Marimba Cuquita de los Hermanos Narvaez",
         "url": "https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb"
       },
@@ -1003,54 +1003,6 @@
       "duration_ms": 188946,
       "name": "Pancha Baila en Turcos",
       "url": "https://open.spotify.com/track/5PIPXjmhd1sApWvtnS4bKP"
-    },
-    {
-      "added_at": "2022-01-25 19:19:11",
-      "album": {
-        "name": "Epoca De Oro De La Orquesta Aragon",
-        "url": "https://open.spotify.com/album/4RWP2xolGJpzWAt3LEeL6a"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Arag\u00f3n",
-          "url": "https://open.spotify.com/artist/2jXlqT8v9XIJnKQYRgLvSr"
-        }
-      ],
-      "duration_ms": 159600,
-      "name": "Cachita",
-      "url": "https://open.spotify.com/track/1vQd06q85oRqunYmNTI1o7"
-    },
-    {
-      "added_at": "2022-01-25 19:19:11",
-      "album": {
-        "name": "La Belle Epoque",
-        "url": "https://open.spotify.com/album/6yfkDfG0OCtjIVVgjSx03g"
-      },
-      "artists": [
-        {
-          "name": "Salterio y Quinteto de Anta\u00f1o",
-          "url": "https://open.spotify.com/artist/2g7uqSdLoBuzN2MAiHlfGQ"
-        }
-      ],
-      "duration_ms": 189106,
-      "name": "Las Bicicletas",
-      "url": "https://open.spotify.com/track/43KGNTOAE6pX5hjqDG7yBg"
-    },
-    {
-      "added_at": "2022-01-25 19:19:11",
-      "album": {
-        "name": "Colecci\u00f3n Diamante",
-        "url": "https://open.spotify.com/album/1mzaWbfnxIq01Jyi23b96h"
-      },
-      "artists": [
-        {
-          "name": "Maria Luisa Landin",
-          "url": "https://open.spotify.com/artist/6xwRfnFKMKRoHL8LuLNBpf"
-        }
-      ],
-      "duration_ms": 194346,
-      "name": "Amor Perdido",
-      "url": "https://open.spotify.com/track/6kJrQyiydPbEiAgfU5Phrp"
     },
     {
       "added_at": "2022-01-25 19:19:11",
@@ -1071,18 +1023,50 @@
     {
       "added_at": "2022-01-25 19:19:11",
       "album": {
-        "name": "Cl\u00e1sicos de La M\u00fasica Cubana Volume 3",
-        "url": "https://open.spotify.com/album/7hPks3l2HPfGVdDrzeqAqH"
+        "name": "La Belle Epoque",
+        "url": "https://open.spotify.com/album/6yfkDfG0OCtjIVVgjSx03g"
       },
       "artists": [
         {
-          "name": "Celina Y Reutilio",
-          "url": "https://open.spotify.com/artist/5vah85L323LvoowZhyAMhD"
+          "name": "Salterio y Quinteto de Anta\u00f1o",
+          "url": "https://open.spotify.com/artist/2g7uqSdLoBuzN2MAiHlfGQ"
         }
       ],
-      "duration_ms": 173053,
-      "name": "Pedacito de Mi Vida",
-      "url": "https://open.spotify.com/track/2wbIlghub8hsIJiiDxPMAC"
+      "duration_ms": 189106,
+      "name": "Las Bicicletas",
+      "url": "https://open.spotify.com/track/43KGNTOAE6pX5hjqDG7yBg"
+    },
+    {
+      "added_at": "2022-01-25 19:19:11",
+      "album": {
+        "name": "Epoca De Oro De La Orquesta Aragon",
+        "url": "https://open.spotify.com/album/4RWP2xolGJpzWAt3LEeL6a"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Arag\u00f3n",
+          "url": "https://open.spotify.com/artist/2jXlqT8v9XIJnKQYRgLvSr"
+        }
+      ],
+      "duration_ms": 159600,
+      "name": "Cachita",
+      "url": "https://open.spotify.com/track/1vQd06q85oRqunYmNTI1o7"
+    },
+    {
+      "added_at": "2022-01-25 19:19:11",
+      "album": {
+        "name": "Colecci\u00f3n Diamante",
+        "url": "https://open.spotify.com/album/1mzaWbfnxIq01Jyi23b96h"
+      },
+      "artists": [
+        {
+          "name": "Maria Luisa Landin",
+          "url": "https://open.spotify.com/artist/6xwRfnFKMKRoHL8LuLNBpf"
+        }
+      ],
+      "duration_ms": 194346,
+      "name": "Amor Perdido",
+      "url": "https://open.spotify.com/track/6kJrQyiydPbEiAgfU5Phrp"
     },
     {
       "added_at": "2022-01-25 19:19:11",
@@ -1119,6 +1103,22 @@
     {
       "added_at": "2022-01-25 19:19:11",
       "album": {
+        "name": "Cl\u00e1sicos de La M\u00fasica Cubana Volume 3",
+        "url": "https://open.spotify.com/album/7hPks3l2HPfGVdDrzeqAqH"
+      },
+      "artists": [
+        {
+          "name": "Celina Y Reutilio",
+          "url": "https://open.spotify.com/artist/5vah85L323LvoowZhyAMhD"
+        }
+      ],
+      "duration_ms": 173053,
+      "name": "Pedacito de Mi Vida",
+      "url": "https://open.spotify.com/track/2wbIlghub8hsIJiiDxPMAC"
+    },
+    {
+      "added_at": "2022-01-25 19:19:11",
+      "album": {
         "name": "Aguanta Coraz\u00f3n (1955 -1959)",
         "url": "https://open.spotify.com/album/3vWOVb2soptTEz5vdUPY2c"
       },
@@ -1131,22 +1131,6 @@
       "duration_ms": 174393,
       "name": "Alma llanera",
       "url": "https://open.spotify.com/track/37uKoiJSNUeHiUVJmP4rWM"
-    },
-    {
-      "added_at": "2022-01-25 19:19:11",
-      "album": {
-        "name": "El Pasado",
-        "url": "https://open.spotify.com/album/6t03MjmuMMfP7o2QUi4qhC"
-      },
-      "artists": [
-        {
-          "name": "Chico Che y La Crisis",
-          "url": "https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm"
-        }
-      ],
-      "duration_ms": 170319,
-      "name": "El Restaurantito",
-      "url": "https://open.spotify.com/track/3S2U1ZoesGZi8ZTOkxxlS3"
     },
     {
       "added_at": "2022-01-25 19:19:11",
@@ -1167,18 +1151,18 @@
     {
       "added_at": "2022-01-25 19:19:11",
       "album": {
-        "name": "Serie Platino",
-        "url": "https://open.spotify.com/album/3fKm1pACTYGNXT5jWyYtYL"
+        "name": "El Pasado",
+        "url": "https://open.spotify.com/album/6t03MjmuMMfP7o2QUi4qhC"
       },
       "artists": [
         {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+          "name": "Chico Che y La Crisis",
+          "url": "https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm"
         }
       ],
-      "duration_ms": 192746,
-      "name": "Que Bueno Baila Usted",
-      "url": "https://open.spotify.com/track/0KeLEFyRObe9rVWUxWmkPM"
+      "duration_ms": 170319,
+      "name": "El Restaurantito",
+      "url": "https://open.spotify.com/track/3S2U1ZoesGZi8ZTOkxxlS3"
     },
     {
       "added_at": "2022-01-25 19:19:11",
@@ -1195,6 +1179,22 @@
       "duration_ms": 152093,
       "name": "Chapultepec",
       "url": "https://open.spotify.com/track/14jYjGfprvRyvSBq13pAn9"
+    },
+    {
+      "added_at": "2022-01-25 19:19:11",
+      "album": {
+        "name": "Serie Platino",
+        "url": "https://open.spotify.com/album/3fKm1pACTYGNXT5jWyYtYL"
+      },
+      "artists": [
+        {
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+        }
+      ],
+      "duration_ms": 192746,
+      "name": "Que Bueno Baila Usted",
+      "url": "https://open.spotify.com/track/0KeLEFyRObe9rVWUxWmkPM"
     },
     {
       "added_at": "2022-01-25 19:19:11",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2022-01-25 19:19:11",
       "album": {
+        "name": "The Best of Mexico",
+        "url": "https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM"
+      },
+      "artists": [
+        {
+          "name": "Trio Azteca",
+          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "El tilingo",
+      "url": "https://open.spotify.com/track/24qvEa0HyeHRQar9p8cHr3"
+    },
+    {
+      "added_at": "2022-01-25 19:19:11",
+      "album": {
         "name": "Latin-Esque",
         "url": "https://open.spotify.com/album/5piwsRmhY4MMhKdana79ES"
       },
@@ -1279,18 +1295,18 @@
     {
       "added_at": "2022-01-25 19:19:11",
       "album": {
-        "name": "The Best of Mexico",
-        "url": "https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM"
+        "name": "Mambos Boleros y Danzones",
+        "url": "https://open.spotify.com/album/1eXlFz9or8QRLWFggOojTs"
       },
       "artists": [
         {
-          "name": "Trio Azteca",
-          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
+          "name": "Marimba Nandayapa",
+          "url": "https://open.spotify.com/artist/6BNTYyi6vioSRcseOxQcC8"
         }
       ],
-      "duration_ms": 185600,
-      "name": "El tilingo",
-      "url": "https://open.spotify.com/track/24qvEa0HyeHRQar9p8cHr3"
+      "duration_ms": 247974,
+      "name": "La Sandunga",
+      "url": "https://open.spotify.com/track/4lpwghL9j13bln5Xua5ahN"
     },
     {
       "added_at": "2022-01-25 19:19:11",
@@ -1311,18 +1327,18 @@
     {
       "added_at": "2022-01-25 19:19:11",
       "album": {
-        "name": "Mambos Boleros y Danzones",
-        "url": "https://open.spotify.com/album/1eXlFz9or8QRLWFggOojTs"
+        "name": "Vamos A La Fiesta",
+        "url": "https://open.spotify.com/album/6AkQ14Roz7mOJVi6JRc9gZ"
       },
       "artists": [
         {
-          "name": "Marimba Nandayapa",
-          "url": "https://open.spotify.com/artist/6BNTYyi6vioSRcseOxQcC8"
+          "name": "Marimba Orquesta Perla De Chiapas",
+          "url": "https://open.spotify.com/artist/69lmWrPp9ZvKMJirt47VMP"
         }
       ],
-      "duration_ms": 247974,
-      "name": "La Sandunga",
-      "url": "https://open.spotify.com/track/4lpwghL9j13bln5Xua5ahN"
+      "duration_ms": 165301,
+      "name": "Zacazonapan",
+      "url": "https://open.spotify.com/track/1JxygrDpw5bLUMQsQqQuPN"
     },
     {
       "added_at": "2022-01-25 19:19:11",
@@ -1359,22 +1375,6 @@
       "duration_ms": 217813,
       "name": "Aguita de Coco",
       "url": "https://open.spotify.com/track/2uFL2daNnQgaBzFynQAvJo"
-    },
-    {
-      "added_at": "2022-01-25 19:19:11",
-      "album": {
-        "name": "Vamos A La Fiesta",
-        "url": "https://open.spotify.com/album/6AkQ14Roz7mOJVi6JRc9gZ"
-      },
-      "artists": [
-        {
-          "name": "Marimba Orquesta Perla De Chiapas",
-          "url": "https://open.spotify.com/artist/69lmWrPp9ZvKMJirt47VMP"
-        }
-      ],
-      "duration_ms": 165301,
-      "name": "Zacazonapan",
-      "url": "https://open.spotify.com/track/1JxygrDpw5bLUMQsQqQuPN"
     },
     {
       "added_at": "2022-01-25 19:19:11",

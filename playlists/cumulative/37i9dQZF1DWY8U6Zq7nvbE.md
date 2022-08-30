@@ -4,7 +4,7 @@
 
 > The best from the world of acoustic songs right now.
 
-139 songs - 7 hr 35 min - [published](https://open.spotify.com/playlist/4k2X8AujYuVA9s50gTmPB1)
+140 songs - 7 hr 38 min - [published](https://open.spotify.com/playlist/4k2X8AujYuVA9s50gTmPB1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [IDK You Yet](https://open.spotify.com/track/47EWMOElkkbMp5m9SBkx7d) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [IDK You Yet](https://open.spotify.com/album/2BcmdSV1kyss7KFuSpobeS) | 3:04 | 2021-03-11 | 2022-07-29 |
 | [If I Can't Have You](https://open.spotify.com/track/2QaTtQ3bvllhg2Ot5CpgtC) | [Emmie Reins](https://open.spotify.com/artist/0VmhvPRTiSbS9ndW7wjuDb) | [If I Can't Have You](https://open.spotify.com/album/4SDJD7TxUqwR7yvqkJ6VLF) | 3:29 | 2021-03-11 |  |
 | [If I'm Being Honest](https://open.spotify.com/track/4JizrXo9waLOAqSJoA6MsA) | [Tim Schou](https://open.spotify.com/artist/5XThsmRraC5gvRpetD2S1q) | [If I'm Being Honest](https://open.spotify.com/album/1xtPhACexlKPMpTO8YTMxc) | 3:51 | 2021-03-11 |  |
-| [If You Knew Better](https://open.spotify.com/track/0yWmKkenmsSXb7CIK40IOn) | [Dan Owen](https://open.spotify.com/artist/3wrdNgjTSLLQZ382sPyoA5) | [If You Knew Better](https://open.spotify.com/album/3nW8vls0RsII5CHzvfzhWI) | 2:25 | 2021-03-11 |  |
+| [If You Knew Better](https://open.spotify.com/track/0yWmKkenmsSXb7CIK40IOn) | [Dan Owen](https://open.spotify.com/artist/3wrdNgjTSLLQZ382sPyoA5) | [If You Knew Better](https://open.spotify.com/album/3nW8vls0RsII5CHzvfzhWI) | 2:25 | 2021-03-11 | 2022-08-30 |
 | [if you weren't you](https://open.spotify.com/track/0Orpd7icIIR6tp5cmJcHsu) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [If You Weren't You](https://open.spotify.com/album/34HGxfz7qE6dRtaKoYx4KU) | 4:09 | 2021-03-11 | 2022-07-29 |
 | [if you weren't you](https://open.spotify.com/track/6cMOfQIy91nuaGjQeHVDUG) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Moments that mattered](https://open.spotify.com/album/4fjTSlU3zj9tH4Doq38C3S) | 4:09 | 2021-03-11 |  |
 | [Joke's On You \- Acoustic](https://open.spotify.com/track/7sDO194LVW5x4vic4ZAjgy) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Joke's On You \(Acoustic\)](https://open.spotify.com/album/3q6Z33KE8wBWCDvvm2FrYQ) | 3:09 | 2021-03-11 |  |
@@ -100,6 +100,7 @@
 | [Most of Us Are Strangers](https://open.spotify.com/track/7jVRAVYEckMldApsscdFDn) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Most of Us Are Strangers](https://open.spotify.com/album/0xKjkqxLAx0gzBPhnnkQNe) | 3:42 | 2021-03-11 | 2022-07-29 |
 | [Never Let You Go \(Acoustic\)](https://open.spotify.com/track/6wWT4qlrKMl9AKMTEqWTer) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52), [Jane Decker](https://open.spotify.com/artist/6gwexMlbo78wmlBF8U2V6r) | [Landon Austin and Friends: Covers \(June 2019\)](https://open.spotify.com/album/1EuSVTxpUy95BsC9HRMxUh) | 3:04 | 2021-03-11 |  |
 | [Never Let You Go \- Acoustic](https://open.spotify.com/track/06VK1j4uZTHLb4SnpGY0Z8) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52), [Jane Decker](https://open.spotify.com/artist/6gwexMlbo78wmlBF8U2V6r) | [Never Let You Go](https://open.spotify.com/album/5bjptaMVXrsgzIjTjw2L24) | 3:04 | 2021-03-11 | 2022-07-29 |
+| [New Eyes \- Acoustic](https://open.spotify.com/track/4edFT7XYhwdnuRDECPQqGa) | [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5), [Jaclyn Davies](https://open.spotify.com/artist/5MKHjGZGjZ7mZV0JPs9iot) | [Acoustic Collections](https://open.spotify.com/album/7w7VRMggqPW7mcvsNR8xQd) | 2:53 | 2021-03-11 |  |
 | [New Eyes \- Acoustic](https://open.spotify.com/track/5DT4EK2kBjooW9mKACFodW) | [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5), [Jaclyn Davies](https://open.spotify.com/artist/5MKHjGZGjZ7mZV0JPs9iot) | [New Eyes \(Acoustic\)](https://open.spotify.com/album/3m0kHSihqqWRVj78F20nNv) | 2:53 | 2021-03-11 | 2022-08-22 |
 | [New Eyes \- Acoustic](https://open.spotify.com/track/5MAsjeKbEQcbethd7NB2uS) | [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5), [Jaclyn Davies](https://open.spotify.com/artist/5MKHjGZGjZ7mZV0JPs9iot) | [New Eyes \(Acoustic\)](https://open.spotify.com/album/3SCYO9Ke0FEXl9Kx0sD8SP) | 2:53 | 2021-03-11 | 2022-07-29 |
 | [OK](https://open.spotify.com/track/2gBYjMXW65daBB1elr68JK) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [OK](https://open.spotify.com/album/6N6OAhnaaEAzXT6nd3kq3A) | 3:32 | 2021-03-11 |  |

@@ -4,7 +4,7 @@
 
 > Hand\-curated cuts from the vault, no record player required.
 
-232 songs - 17 hr 3 min - [published](https://open.spotify.com/playlist/5AAqvpIoHyvDthNcBVV4BF)
+233 songs - 17 hr 9 min - [published](https://open.spotify.com/playlist/5AAqvpIoHyvDthNcBVV4BF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Deaf in Three Corners](https://open.spotify.com/track/4gWnXX7FXIHrXnE7vvLpRr) | [LA Timpa](https://open.spotify.com/artist/5Q6ahJqmdN5iYXkTujJIkC) | [Modern Antics in a Deserted Place](https://open.spotify.com/album/2yAbgYcYrEKDDVedvlH7nb) | 3:21 | 2021-12-03 | 2022-03-18 |
 | [Dearest Alfred \(MyJoy\)](https://open.spotify.com/track/09QrWF1BFYe8Inkh9Al5ye) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Mordechai Remixes](https://open.spotify.com/album/2WKWg3fF8dwCXt4qPDHdYG) | 3:15 | 2022-06-24 |  |
 | [Dearest Alfred \(MyJoy\)](https://open.spotify.com/track/6vzaMfWEWYJtfnoKlCY5xP) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Dearest Alfred \(MyJoy\)](https://open.spotify.com/album/0TqtywamjgAfAor5J7L6vo) | 3:15 | 2021-12-03 | 2022-07-29 |
-| [Deceptacon \(DFA Rmx\) By Tim Goldsworthy & James Murphy for the Dfa](https://open.spotify.com/track/305CEVdhAViS0CW2NCLvdR) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Remix](https://open.spotify.com/album/1yCWdLfE2KQAmcdS1YJQl6) | 6:24 | 2022-04-21 |  |
+| [Deceptacon \(DFA Rmx\) By Tim Goldsworthy & James Murphy for the Dfa](https://open.spotify.com/track/305CEVdhAViS0CW2NCLvdR) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Remix](https://open.spotify.com/album/1yCWdLfE2KQAmcdS1YJQl6) | 6:24 | 2022-04-21 | 2022-08-30 |
 | [Desenhos Animados](https://open.spotify.com/track/5o1uOQLCBYTwyoFpUlNF6S) | [A.k.Adrix](https://open.spotify.com/artist/7q1nY63lVBPXNuKJ7Igkjs) | [Código De Barras](https://open.spotify.com/album/4mxF4Y8yB3W2gZwUqE78X5) | 2:28 | 2021-12-03 | 2022-03-18 |
 | [Desert Mule](https://open.spotify.com/track/3ztjQ0GdMdbgoH3EGwqMxb) | [F.S\. Blumm](https://open.spotify.com/artist/4cHtgM7lauSNaau5uAm5Cc), [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Desert Mule](https://open.spotify.com/album/2Wjdk2beQr4hesuzDyJ2J8) | 5:24 | 2021-12-03 | 2022-07-28 |
 | [Desmond's Empire](https://open.spotify.com/track/57vEXvnoTpXlLi3wYES4uQ) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Aletheia](https://open.spotify.com/album/0RVj8aaUuoTOZ7pyGjll6b) | 4:36 | 2022-06-24 |  |
@@ -116,6 +116,7 @@
 | [Journey In Satchidananda](https://open.spotify.com/track/2gG3ivmsfylVXLyIJvLXyN) | [Alice Coltrane](https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr), [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Journey in Satchidananda](https://open.spotify.com/album/6zV55F6W8kh1qe8LHhqRbz) | 6:36 | 2022-06-24 |  |
 | [Julieta](https://open.spotify.com/track/1xQXbyDevs4LcPkOCaTvf5) | [Fantasy 15](https://open.spotify.com/artist/3ftdxnGZbwy4XpWZTKRdEH) | [Julieta](https://open.spotify.com/album/2gO1JF3heDQl9Mx0HOvZwY) | 2:35 | 2021-12-03 | 2022-07-29 |
 | [Kane Train](https://open.spotify.com/track/0EDAZsV2t4Lh42R0mhjmXj) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Kane Train / Ur2yung](https://open.spotify.com/album/19KltJ72feDxM0ncxqE4vb) | 2:16 | 2021-12-03 | 2022-05-25 |
+| [Kite Day](https://open.spotify.com/track/1NiGKtmRQclUgYHJY1TEJo) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Kite Day](https://open.spotify.com/album/2O8b1i8Ii2WOSSWa6z2Yc5) | 5:56 | 2022-08-29 |  |
 | [Koko](https://open.spotify.com/track/1Bfpf7s6E7doiTpVasSmgI) | [E.VAX](https://open.spotify.com/artist/12m4a5ljGoe6yyYPpVi7Hr) | [E.VAX](https://open.spotify.com/album/1VBiQl2RvoMZObKGMypUWF) | 2:35 | 2021-12-03 | 2022-07-29 |
 | [Kısasa Kısas](https://open.spotify.com/track/2GSAfjcioTeJ9kecoC1E5Y) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Kısasa Kısas b/w Erkilet Güzeli](https://open.spotify.com/album/6iHhK9eih54hFVVgdbXdY1) | 3:49 | 2021-12-03 | 2022-07-29 |
 | [L.D.R.A](https://open.spotify.com/track/3dE5JkCceos3FiuQmTKfOx) | [Shire T](https://open.spotify.com/artist/0AIim12jO78DuyyUYbHfAe), [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Wish & Fonda Rae](https://open.spotify.com/artist/4tlwGA9FRTxbAiBTW1rLJc) | [Tomorrow’s People](https://open.spotify.com/album/0qk4ovxWz0en2H2HIqz2wT) | 4:29 | 2021-12-03 | 2022-07-22 |

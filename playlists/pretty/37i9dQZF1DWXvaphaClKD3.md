@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvaphaClKD3.md) - [plain]
 
 > Novedades poderosas, perronas y llegadoras de la <a href="spotify:genre:0JQ5DAqbMKFDTEtSaS4R92"> Música Mexicana</a>\. Eden Muñoz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,207 likes - 48 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,617 likes - 48 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvaphaClKD3.md) - [plain]
 | 47 | [Por Las Cosas Que Sabía](https://open.spotify.com/track/3CTLDVPxApbPex3rcRzjGu) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Por Las Cosas Que Sabía](https://open.spotify.com/album/5E2ib4iqkinuhwD7z4ic19) | 3:41 |
 | 48 | [Cero Miedo \- En Vivo](https://open.spotify.com/track/6EHHA3r4hWElLYzbfhH17z) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD), [Bajo Perfil](https://open.spotify.com/artist/04CzckYeljqT6be7fR954D) | [Cero Miedo \(En Vivo\)](https://open.spotify.com/album/4m2VUgjvLILmcTBybpz9c4) | 3:57 |
 
-Snapshot ID: `MTY2MTUzMTI2OCwwMDAwMDAwMGE4ZGYyOWFjN2UyMmMwZTMwNjBiMjMwZmQyZWNjMTg0`
+Snapshot ID: `MTY2MTc5NTUyOCwwMDAwMDAwMGUxM2IwOTdhMjMyZWFkM2QzOTlhODIzMDg4NWRlYTk0`

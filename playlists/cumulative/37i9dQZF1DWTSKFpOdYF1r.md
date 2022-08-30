@@ -4,7 +4,7 @@
 
 > The songs that defined the other side of the 80s\. Cover: Kate Bush
 
-210 songs - 14 hr 9 min - [published](https://open.spotify.com/playlist/2H1LxPFJmPRXwu3yCnyOJK)
+211 songs - 14 hr 13 min - [published](https://open.spotify.com/playlist/2H1LxPFJmPRXwu3yCnyOJK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Love Buzz](https://open.spotify.com/track/4LzM58Gzcc0Wumj4djK1mX) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach: Deluxe Edition](https://open.spotify.com/album/2Lfy46M23IUeiDATnra0Bl) | 3:35 | 2021-11-17 | 2022-07-27 |
 | [Love Buzz](https://open.spotify.com/track/5muVpPu8Fj9fXfDbbqDdrZ) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach](https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7) | 3:35 | 2022-05-30 |  |
 | [Love Plus One](https://open.spotify.com/track/6QKM4Oh1qLrLisUxfnw09T) | [Haircut 100](https://open.spotify.com/artist/6imyM8T1Xbe8v2iZe41dR7) | [Pure..\. Alternative 80s](https://open.spotify.com/album/2c4fU9gAt1pV4ASJECJoYX) | 3:32 | 2021-11-17 | 2022-06-02 |
+| [Love Plus One](https://open.spotify.com/track/4vwLjB2NRtl9b34jRe6cWd) | [Haircut 100](https://open.spotify.com/artist/6imyM8T1Xbe8v2iZe41dR7) | [Pelican West Plus](https://open.spotify.com/album/6VIiHu2RCwWo4151YCG7ND) | 3:32 | 2022-05-30 |  |
 | [Love Will Tear Us Apart](https://open.spotify.com/track/2JO3HwMRPeya8bXbtbyPcf) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [The Best Of](https://open.spotify.com/album/0p8Zy0wEzDYiFDcSt07UHe) | 3:26 | 2021-11-17 | 2022-07-29 |
 | [Love Will Tear Us Apart \- 2020 Remaster](https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Love Will Tear Us Apart](https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G) | 3:28 | 2022-05-30 |  |
 | [Mad World](https://open.spotify.com/track/0Qv7xi6uPSqH2k82tOkGSt) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Hurting](https://open.spotify.com/album/3sIFpEctox1XOs3FEkqrgr) | 3:35 | 2022-05-30 |  |
@@ -184,7 +185,7 @@
 | [The Chauffeur](https://open.spotify.com/track/3ncm3RlvFkSevHb6sXykl9) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Alternative 80's](https://open.spotify.com/album/7FRbWtxabN5jApV5x2gXy0) | 5:21 | 2021-11-17 | 2022-07-29 |
 | [The Chauffeur \- 2009 Remaster](https://open.spotify.com/track/4kZOi9K2i06Syi2DiSfEqT) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Rio \(Collector's Edition\)](https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm) | 5:21 | 2022-05-30 | 2022-08-18 |
 | [The Cutter](https://open.spotify.com/track/5UrmKv9c4nau5uiW9Shz4N) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Alternative 80's](https://open.spotify.com/album/7FRbWtxabN5jApV5x2gXy0) | 3:52 | 2021-11-17 | 2022-07-26 |
-| [The Cutter](https://open.spotify.com/track/617ahruubznvqzv7Nas3QX) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Porcupine \(Expanded; 2004 Remaster\)](https://open.spotify.com/album/4brJ6hWYqPj1sccgk390dC) | 3:52 | 2021-11-17 |  |
+| [The Cutter](https://open.spotify.com/track/617ahruubznvqzv7Nas3QX) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Porcupine \(Expanded; 2004 Remaster\)](https://open.spotify.com/album/4brJ6hWYqPj1sccgk390dC) | 3:52 | 2021-11-17 | 2022-08-30 |
 | [The High Road](https://open.spotify.com/track/42qPwHyVPx26gdgXqY2LUE) | [The Feelies](https://open.spotify.com/artist/4UETUdF77BfyJ7fEFVztr3) | [The Good Earth](https://open.spotify.com/album/5pLXMKpukvYhaWW89pT0Kz) | 4:24 | 2021-11-17 | 2022-07-26 |
 | [The Killing Moon](https://open.spotify.com/track/15049rGLXHwrWtE4euUb5C) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Songs to Learn & Sing](https://open.spotify.com/album/0VYyqjM5H2sXj6z8ocAyjb) | 5:46 | 2021-11-17 |  |
 | [The Lebanon](https://open.spotify.com/track/5d4ZCmvSLvjMOSdIKkCyQ5) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Hysteria](https://open.spotify.com/album/0Jst3a86SKc0inDa2AKhXf) | 5:04 | 2021-11-17 | 2022-06-01 |

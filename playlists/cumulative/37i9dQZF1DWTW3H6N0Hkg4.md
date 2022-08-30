@@ -4,7 +4,7 @@
 
 > Cumbias de antaño para bailar.
 
-230 songs - 13 hr 49 min - [published](https://open.spotify.com/playlist/2fhHhOwZ66lJ05RKWGny0t)
+231 songs - 13 hr 54 min - [published](https://open.spotify.com/playlist/2fhHhOwZ66lJ05RKWGny0t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,7 @@
 | [Rumba Quimbumba](https://open.spotify.com/track/0trX1nThTl4NfJuctzJVA3) | [Grupo Kual?](https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX) | [El Poder De La Cumbia](https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m) | 4:57 | 2021-10-19 |  |
 | [Sabrosón](https://open.spotify.com/track/4LY1GUwkUJD8PotaMUrqtE) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Sabrosón](https://open.spotify.com/album/7DBUrKeXTQoiqWjwVXvRxt) | 2:54 | 2022-07-19 |  |
 | [Se Me Perdio La Cadenita](https://open.spotify.com/track/5VUR4MhJWAbp2ZHtSDvwJ7) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Paradas Continuas](https://open.spotify.com/album/3r4KvV3xbEN0VAHthWYnAE) | 2:37 | 2021-10-19 | 2022-07-16 |
-| [Se Me Perdió la Cadenita](https://open.spotify.com/track/7auOV3KMv5j1OZx1683jP1) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Lucho Argain](https://open.spotify.com/artist/69KQI0QMvoPN5OcpNgTC2b) | [14 Cañonazos Bailables, Vol\. 21](https://open.spotify.com/album/2ru5naPjFcgBRAQjNvB17L) | 2:35 | 2022-07-19 |  |
+| [Se Me Perdió la Cadenita](https://open.spotify.com/track/7auOV3KMv5j1OZx1683jP1) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Lucho Argain](https://open.spotify.com/artist/69KQI0QMvoPN5OcpNgTC2b) | [14 Cañonazos Bailables, Vol\. 21](https://open.spotify.com/album/2ru5naPjFcgBRAQjNvB17L) | 2:35 | 2022-07-19 | 2022-08-30 |
 | [Se Me Perdió la Cadenita](https://open.spotify.com/track/3zhQ74Oan1RIO78RmMr1F4) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Lucho Perez](https://open.spotify.com/artist/1FkShPhdyKcNIsGpxiYogj) | [Cumbias de Oro: 16 Grandes Éxitos](https://open.spotify.com/album/1lFsVuX8eLCcNU6PCG8MHY) | 2:35 | 2021-10-19 | 2022-07-29 |
 | [Se Parece Más A Ti](https://open.spotify.com/track/4bWdlExSeKAotB6uJwxFlf) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Separece A Ti](https://open.spotify.com/album/5Bdfuz8R1s29LQyU0UOyuw) | 4:08 | 2022-07-19 |  |
 | [Silbando](https://open.spotify.com/track/5fel4W1fI1okSmp7GwRG0l) | [Los Ribereños](https://open.spotify.com/artist/5Aw9mb3RWFOmi0IqxDyje9) | [Silbando](https://open.spotify.com/album/4AOhk71w9BIDc99SEKMj6W) | 3:07 | 2022-06-07 | 2022-06-09 |
@@ -227,6 +227,7 @@
 | [Un Sueño](https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG) | [Los Angeles De Charly](https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR) | [Un Sueño](https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp) | 3:45 | 2021-10-19 |  |
 | [Una Cerveza](https://open.spotify.com/track/3LNZSTiwQYL7BnTfHvIOII) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Una Cerveza](https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C) | 4:00 | 2022-07-19 |  |
 | [Una Ráfaga de Amor](https://open.spotify.com/track/4i5NFoPWqTqlsR4WyoVFtB) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Lo mejor de Ráfaga](https://open.spotify.com/album/4qECJweYNVyAPvZNT6fd1T) | 3:03 | 2022-07-19 |  |
+| [Una y Mil Veces](https://open.spotify.com/track/4FhMTZKmjbkIR9bazv8bFv) | [Los Forasteros](https://open.spotify.com/artist/6qBJpxk1RBoWp8XeYy8BmU) | [Cumbia Romántica](https://open.spotify.com/album/5tvgwdhzYB1qmYXZdGNXm0) | 4:31 | 2022-07-19 |  |
 | [Usted Que Haria](https://open.spotify.com/track/0l9S0ufiXdSXWGF4br3uZs) | [Sonido Condor](https://open.spotify.com/artist/4IVjseASdZdJJujgEilnEp) | [100% Poblano](https://open.spotify.com/album/52tQuXHttcfzw6ELaSMIvL) | 2:52 | 2021-10-19 | 2022-07-29 |
 | [Vestida De Blanco](https://open.spotify.com/track/1EwOtt45TzDHOHC2pho6t2) | [German Carreño Y Su Orquesta](https://open.spotify.com/artist/6Jd6ScenyoH7n1kvMeLmUY) | [Exitos Bailables](https://open.spotify.com/album/1n1QP3u4JAI4XkxMDd51Fo) | 4:42 | 2021-10-19 |  |
 | [Vida No Te Vayas](https://open.spotify.com/track/5Kai2HEyMEN12TyndhDyZn) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Corazoncito Pum Pum](https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP) | 3:48 | 2021-10-19 | 2022-07-29 |

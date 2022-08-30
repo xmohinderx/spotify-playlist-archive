@@ -336,6 +336,24 @@
     },
     {
       "album": {
+        "name": "Andromeda",
+        "url": "https://open.spotify.com/album/5DM8IdJ2G93YtTBObYnSWV"
+      },
+      "artists": [
+        {
+          "name": "Edwin Ellis",
+          "url": "https://open.spotify.com/artist/4maWMOC22tLkA4iF33SUbU"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197297,
+      "name": "Andromeda",
+      "url": "https://open.spotify.com/track/0qAeFviExQpYRdEP0KA2GV"
+    },
+    {
+      "album": {
         "name": "Another Life",
         "url": "https://open.spotify.com/album/1lBJzs7vKo2p5HL78MpvPD"
       },
@@ -750,6 +768,24 @@
     },
     {
       "album": {
+        "name": "Between Us",
+        "url": "https://open.spotify.com/album/0twGaRx2Ws80SYmuuCyBgw"
+      },
+      "artists": [
+        {
+          "name": "Maria Buehler",
+          "url": "https://open.spotify.com/artist/414bu4YqVabs17TyYuWzbt"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127680,
+      "name": "Between Us",
+      "url": "https://open.spotify.com/track/7aN5c4Faf6EI3u5gLojcRC"
+    },
+    {
+      "album": {
         "name": "Here On After",
         "url": "https://open.spotify.com/album/33Zg9HyZNO3OIqaqXsz5Y8"
       },
@@ -1017,6 +1053,24 @@
       "duration_ms": 136000,
       "name": "Calvaire",
       "url": "https://open.spotify.com/track/76IjkqtXsgh2VJMsymMD42"
+    },
+    {
+      "album": {
+        "name": "Caprices",
+        "url": "https://open.spotify.com/album/7rgQ2DAqWGBUWs1fCn4ZNd"
+      },
+      "artists": [
+        {
+          "name": "Eu Nice",
+          "url": "https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130394,
+      "name": "Caprices",
+      "url": "https://open.spotify.com/track/4K3o0HPO3OaGKWpR5h16J7"
     },
     {
       "album": {
@@ -1686,6 +1740,24 @@
     },
     {
       "album": {
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/2jxjPUO3rJTRyiJVxv1EwN"
+      },
+      "artists": [
+        {
+          "name": "Con Alma",
+          "url": "https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144639,
+      "name": "Delta",
+      "url": "https://open.spotify.com/track/4VdPG8QlGPHNpLsBq7BquA"
+    },
+    {
+      "album": {
         "name": "Det skal nok g\u00e5",
         "url": "https://open.spotify.com/album/4rM836vPb1QHflp8qWRwxs"
       },
@@ -1791,6 +1863,24 @@
       "duration_ms": 167124,
       "name": "Don't Ever Say Goodbye",
       "url": "https://open.spotify.com/track/0y35Vf7XEzB9wZUhDXrmR5"
+    },
+    {
+      "album": {
+        "name": "Dor\u00e9nevant",
+        "url": "https://open.spotify.com/album/68K0s9E4y7TKDuKZb5zs2Z"
+      },
+      "artists": [
+        {
+          "name": "\u00c9lise Aucoin",
+          "url": "https://open.spotify.com/artist/5cJiC80CILVJGun9PVO1mX"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148114,
+      "name": "Dor\u00e9nevant",
+      "url": "https://open.spotify.com/track/7lUXTcOSlWXNGN25wj7iNf"
     },
     {
       "album": {
@@ -2097,6 +2187,28 @@
       "duration_ms": 191195,
       "name": "Eternal Bloom",
       "url": "https://open.spotify.com/track/0OYDV3vHPSXFQkKmVdodFn"
+    },
+    {
+      "album": {
+        "name": "Ether",
+        "url": "https://open.spotify.com/album/4Hg9aMbQfviR7UjPFXHbHf"
+      },
+      "artists": [
+        {
+          "name": "Astrid Sky",
+          "url": "https://open.spotify.com/artist/1Kk2yuiHX31YmnpMTgrP4L"
+        },
+        {
+          "name": "Marcos Boza",
+          "url": "https://open.spotify.com/artist/443Yc7SeaW7ddTyVUMJ5ZX"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157170,
+      "name": "Ether",
+      "url": "https://open.spotify.com/track/0NInoCrExhcGEZFnRBBo0o"
     },
     {
       "album": {
@@ -2903,7 +3015,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 212911,
       "name": "Habito",
       "url": "https://open.spotify.com/track/48v3esP9iVCc7HBX0zGKpk"
@@ -2993,7 +3105,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 208500,
       "name": "Heartland",
       "url": "https://open.spotify.com/track/0M3DaTZsuttjClg5VG8exA"
@@ -4264,6 +4376,24 @@
     },
     {
       "album": {
+        "name": "Light in the Mist",
+        "url": "https://open.spotify.com/album/31IdUwRdn2d1hnFi43nnQU"
+      },
+      "artists": [
+        {
+          "name": "Anna Landstr\u00f6m",
+          "url": "https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240099,
+      "name": "Light in the Mist",
+      "url": "https://open.spotify.com/track/4Be0A7S5hA8MvzB7rbFuHc"
+    },
+    {
+      "album": {
         "name": "Like a Child",
         "url": "https://open.spotify.com/album/4RF4Nz20dvgZUk2iSXbddV"
       },
@@ -5226,6 +5356,42 @@
     },
     {
       "album": {
+        "name": "Old Friends",
+        "url": "https://open.spotify.com/album/0RwX2sJ91NUNGsEvaOiwLF"
+      },
+      "artists": [
+        {
+          "name": "Filomena",
+          "url": "https://open.spotify.com/artist/0OwBoRemK37STVdgFxC86k"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110954,
+      "name": "Old Friends",
+      "url": "https://open.spotify.com/track/7gK75qkpI8WjfL2Tpi3Z5C"
+    },
+    {
+      "album": {
+        "name": "on a sunday",
+        "url": "https://open.spotify.com/album/2gOIHBAYpR1tNN1zjj6rQw"
+      },
+      "artists": [
+        {
+          "name": "BARTH.",
+          "url": "https://open.spotify.com/artist/6oM4pj0cViaM9uaplSkKAl"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157786,
+      "name": "on a sunday",
+      "url": "https://open.spotify.com/track/6lxY62hG0v93kEc9uUTHrL"
+    },
+    {
+      "album": {
         "name": "On the Stairs",
         "url": "https://open.spotify.com/album/1y6ItDuTMzmJfIJ6Z4ghGu"
       },
@@ -5741,7 +5907,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 193250,
       "name": "Quiet",
       "url": "https://open.spotify.com/track/0mdIhRa6uUwlHmEuUuvuKA"
@@ -7080,6 +7246,24 @@
     },
     {
       "album": {
+        "name": "Story Time",
+        "url": "https://open.spotify.com/album/0v547nlB4ydYCt26HXGxIl"
+      },
+      "artists": [
+        {
+          "name": "Jackson Love",
+          "url": "https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129095,
+      "name": "Story Time",
+      "url": "https://open.spotify.com/track/0cDZCWdR8bTlp7QRaBXBYD"
+    },
+    {
+      "album": {
         "name": "Strosande",
         "url": "https://open.spotify.com/album/33zOUncyEjkebUlCAEuvtM"
       },
@@ -7624,6 +7808,24 @@
     },
     {
       "album": {
+        "name": "Time And Space",
+        "url": "https://open.spotify.com/album/5heWRSlZGM5hMAJodtKMlz"
+      },
+      "artists": [
+        {
+          "name": "Ron Adelaar",
+          "url": "https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132844,
+      "name": "Time And Space",
+      "url": "https://open.spotify.com/track/07ejQhAKkyJ0suOIuXsZjF"
+    },
+    {
+      "album": {
         "name": "Time Of Loneliness",
         "url": "https://open.spotify.com/album/7piDZM7pVnkIa5B8o3jL4g"
       },
@@ -7639,6 +7841,24 @@
       "duration_ms": 170500,
       "name": "Time Of Loneliness",
       "url": "https://open.spotify.com/track/4QMnY8yCam7Gjuo3DdRMA7"
+    },
+    {
+      "album": {
+        "name": "Time Passes Me By",
+        "url": "https://open.spotify.com/album/5WXxFxhIMOUPHxgoaj0qsv"
+      },
+      "artists": [
+        {
+          "name": "En Sollozos",
+          "url": "https://open.spotify.com/artist/3aGdDLCXYoZixmZbIriJoE"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Time Passes Me By",
+      "url": "https://open.spotify.com/track/0Orm7akGhYu09YPzKHZBpB"
     },
     {
       "album": {
@@ -8038,6 +8258,24 @@
     },
     {
       "album": {
+        "name": "Vejlefjord",
+        "url": "https://open.spotify.com/album/1gt84E4kL8DdnXW1XlclX4"
+      },
+      "artists": [
+        {
+          "name": "Rasmus H Thomsen",
+          "url": "https://open.spotify.com/artist/42jjk371b9jW9zsmrMls10"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134067,
+      "name": "Vejlefjord",
+      "url": "https://open.spotify.com/track/6ff7MgoSLL9Cxi3t2qYVnA"
+    },
+    {
+      "album": {
         "name": "Velez-Malaga",
         "url": "https://open.spotify.com/album/6bmGfliwOLuAcStJqB9sNl"
       },
@@ -8067,7 +8305,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 187588,
       "name": "Verba Aymara",
       "url": "https://open.spotify.com/track/2P9eiPf0MsHHCkf3FKNqEs"

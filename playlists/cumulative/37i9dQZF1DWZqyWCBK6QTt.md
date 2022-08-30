@@ -4,12 +4,12 @@
 
 > The songs you love, in ways you’ve never heard before\.  Cover: Zara Larsson, Jimmie Allen, and Ethel Cain.
 
-360 songs - 22 hr 18 min - [published](https://open.spotify.com/playlist/2xTD8zXhA6slKE04Bf9gwn)
+361 songs - 22 hr 21 min - [published](https://open.spotify.com/playlist/2xTD8zXhA6slKE04Bf9gwn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(What's So Funny Bout\) Peace, Love and Understanding? \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3Zd7oF8MH9j0zNEiIOPPNP) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Spotify Singles](https://open.spotify.com/album/1VSf2rThMsBiBira4kH0Ak) | 4:12 | 2021-09-24 | 2022-05-12 |
-| [\(You Make Me Feel Like\) a Natural Woman \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/252Js3mNvVOHzeiStTUTNM) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Spotify Singles](https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr) | 3:02 | 2021-09-24 |  |
+| [\(You Make Me Feel Like\) a Natural Woman \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/252Js3mNvVOHzeiStTUTNM) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Spotify Singles](https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr) | 3:02 | 2021-09-24 | 2022-08-30 |
 | [\- \- Recorded at Electric Lady Studios, New York](https://open.spotify.com/track/68H747D2LgwsPsPlVjFZUR) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Spotify Singles](https://open.spotify.com/album/0zKfApbjSv6TcWCvWtJf2q) | 2:25 | 2022-03-24 | 2022-04-21 |
 | [00000 Million \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1WnSNeXgZUs9lfEv3rAFXH) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Spotify Singles](https://open.spotify.com/album/7eIpt9EravnZoiZFzFJbli) | 2:50 | 2021-09-24 | 2022-07-24 |
 | [2 Degrees East, 3 Degrees West \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4BLTV5HjYNOssBnJwAgVex) | [Jazz At Lincoln Center Orchestra](https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb), [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Spotify Singles](https://open.spotify.com/album/5P0zD6LI6QX5gxlcceUUNT) | 8:05 | 2022-03-24 | 2022-04-21 |
@@ -31,6 +31,7 @@
 | [Amsterdam \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4muAGMNipTEtIoYfMa9QL0) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/774yLThHwXXqrrH2bgF912) | 3:13 | 2021-09-24 | 2022-07-29 |
 | [Androgynous \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1moVuTTH3Kh1FLMAJoriAz) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Spotify Singles](https://open.spotify.com/album/4deTc6TA47HuQPM9xnZCsL) | 2:55 | 2021-09-24 | 2022-07-28 |
 | [Angel \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/04LUiStvr9tzObQuyFEEaD) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [Spotify Singles](https://open.spotify.com/album/6ouu5a6YOUWJ6FfsxnjxB2) | 4:57 | 2021-09-24 | 2022-05-25 |
+| [As It Was \- Spotify Singles](https://open.spotify.com/track/7JBWagcdXEX1dDZTCKUo7R) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Spotify Singles](https://open.spotify.com/album/41E4ZK25y5hUaGB6NBzn5w) | 3:26 | 2022-08-24 |  |
 | [At Your Best \(You Are Love\) \- Spotify Singles](https://open.spotify.com/track/5OFoInHe162W9I97oVDzY8) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [At Your Best \(You Are Love\) \- Spotify Singles](https://open.spotify.com/album/5hRR7gwAw1b7XbJ3HCZHIn) | 5:17 | 2022-06-07 |  |
 | [Attention \- Recorded at Woodshed Recording Malibu](https://open.spotify.com/track/1FldaNEv6PQQetkRwB9DLR) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Spotify Singles](https://open.spotify.com/album/4zudMsniWNz0q2CKRI9Fuy) | 3:27 | 2021-09-24 | 2022-07-29 |
 | [Baby \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/51tCjB9xqCJyoe0KdqbdLr) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Spotify Singles](https://open.spotify.com/album/3R31GRbf0XVpBTfIzpkBHa) | 4:41 | 2021-09-24 | 2022-07-29 |

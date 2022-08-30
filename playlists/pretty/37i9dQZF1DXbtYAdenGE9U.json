@@ -1,12 +1,12 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 296617,
+  "num_followers": 296913,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTg2MjE5NywwMDAwMDAwMGQ1NmMwMjVjOGU2YjBkOTM2MWQzNWNkZmQ1Y2FiZjJl",
+  "snapshot_id": "MTY0OTg2MjE5NywwMDAwMDAwMDJkYjIwMWE3MmEzZjUxMWNiYzY5MmYzNWIzZjk4ZmVi",
   "tracks": [
     {
       "added_at": "2022-04-13 15:03:17",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-04-13 15:03:17",
       "album": {
-        "name": "Exploration of Space",
-        "url": "https://open.spotify.com/album/7LJlzaFq8LRFGGq2kijcHX"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Gate",
-          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
-        }
-      ],
-      "duration_ms": 216360,
-      "name": "Exploration of Space",
-      "url": "https://open.spotify.com/track/0P2sfcfRD0lWw4b8eXegmR"
-    },
-    {
-      "added_at": "2022-04-13 15:03:17",
-      "album": {
         "name": "The New Daylight (Radio Versions)",
         "url": "https://open.spotify.com/album/76AmfDmFp6G67x16si8mUR"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 230146,
       "name": "Till The Sky Falls Down",
       "url": "https://open.spotify.com/track/1YddMZzakt7WEZ9y1xGQgR"
+    },
+    {
+      "added_at": "2022-04-13 15:03:17",
+      "album": {
+        "name": "Exploration of Space",
+        "url": "https://open.spotify.com/album/7LJlzaFq8LRFGGq2kijcHX"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Gate",
+          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
+        }
+      ],
+      "duration_ms": 216360,
+      "name": "Exploration of Space",
+      "url": "https://open.spotify.com/track/0P2sfcfRD0lWw4b8eXegmR"
     },
     {
       "added_at": "2022-04-13 15:03:17",
@@ -807,6 +807,22 @@
     {
       "added_at": "2022-04-13 15:03:17",
       "album": {
+        "name": "If I Could Fly",
+        "url": "https://open.spotify.com/album/0asBvC8WrcVrNLZ5YkXI66"
+      },
+      "artists": [
+        {
+          "name": "Grace",
+          "url": "https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg"
+        }
+      ],
+      "duration_ms": 361893,
+      "name": "Not Over Yet",
+      "url": "https://open.spotify.com/track/4fmQizrUXpVXaubqpNp5CE"
+    },
+    {
+      "added_at": "2022-04-13 15:03:17",
+      "album": {
         "name": "The Whiteroom",
         "url": "https://open.spotify.com/album/58P4AdA5mi8Yfjlb5e8Maz"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 233848,
       "name": "The Whiteroom",
       "url": "https://open.spotify.com/track/64AwAe6HpIEGFjy0KoGsmH"
-    },
-    {
-      "added_at": "2022-04-13 15:03:17",
-      "album": {
-        "name": "If I Could Fly",
-        "url": "https://open.spotify.com/album/0asBvC8WrcVrNLZ5YkXI66"
-      },
-      "artists": [
-        {
-          "name": "Grace",
-          "url": "https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg"
-        }
-      ],
-      "duration_ms": 361893,
-      "name": "Not Over Yet",
-      "url": "https://open.spotify.com/track/4fmQizrUXpVXaubqpNp5CE"
     },
     {
       "added_at": "2022-04-13 15:03:17",
@@ -903,18 +903,18 @@
     {
       "added_at": "2022-04-13 15:03:17",
       "album": {
-        "name": "Bits N Pianos",
-        "url": "https://open.spotify.com/album/5ThZFZtXcEDqXzsu970pdd"
+        "name": "Trance Top 1000 - Ibiza Classics",
+        "url": "https://open.spotify.com/album/4JYyajxWZaOKHwNGDLRFvL"
       },
       "artists": [
         {
-          "name": "SDC",
-          "url": "https://open.spotify.com/artist/6qSmkoM4CdhOuo08wFdwDx"
+          "name": "Paul Oakenfold",
+          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
         }
       ],
-      "duration_ms": 329337,
-      "name": "Bits N Pianos",
-      "url": "https://open.spotify.com/track/6F85zMy5Ucjr1H6dsdZYYx"
+      "duration_ms": 171231,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/1tSaez12qgU8xkO478Tvgb"
     }
   ],
   "unique_name": "Trance Classics",

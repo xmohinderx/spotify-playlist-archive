@@ -2320,6 +2320,24 @@
     },
     {
       "album": {
+        "name": "We Were Cowboys",
+        "url": "https://open.spotify.com/album/3ZGZNsbL4jY4pnOxxlYOCG"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210266,
+      "name": "Granny's Got a Garden - For G'maw Jan",
+      "url": "https://open.spotify.com/track/481vOKAlV93O0kHSxEWpTy"
+    },
+    {
+      "album": {
         "name": "Mount Royal",
         "url": "https://open.spotify.com/album/6FouHmrNdwxJOiSafngC3Y"
       },
@@ -2801,7 +2819,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 225504,
       "name": "Hummingbird",
       "url": "https://open.spotify.com/track/4DlXQQanDfpRKxUSMOsxmL"
@@ -3165,6 +3183,24 @@
       "duration_ms": 169120,
       "name": "I\u2019ve Been A Long Time Leavin' (But I\u2019ll Be A Long Time Gone)",
       "url": "https://open.spotify.com/track/1xITcjwUzUJL4zoZmBB0PZ"
+    },
+    {
+      "album": {
+        "name": "Long Time To Be Gone",
+        "url": "https://open.spotify.com/album/6IG1OlL4Z6fV3zh0hRGqIc"
+      },
+      "artists": [
+        {
+          "name": "Nora Brown",
+          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120609,
+      "name": "Jenny Put the Kettle On",
+      "url": "https://open.spotify.com/track/1vHYLSFXktaPllAwMj4bmJ"
     },
     {
       "album": {
@@ -4377,6 +4413,24 @@
       "duration_ms": 194120,
       "name": "Old Home",
       "url": "https://open.spotify.com/track/79zKz94wRCF1xssD93m6zl"
+    },
+    {
+      "album": {
+        "name": "On the Highway",
+        "url": "https://open.spotify.com/album/6boMPNouaBFYwXU3dspEuh"
+      },
+      "artists": [
+        {
+          "name": "Trampled by Turtles",
+          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212106,
+      "name": "On the Highway",
+      "url": "https://open.spotify.com/track/2BMVIOP0O37s5K7OW9uW3b"
     },
     {
       "album": {
@@ -6447,7 +6501,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 204826,
       "name": "Unholy Water",
       "url": "https://open.spotify.com/track/2oEXzg6PzHXQ3Mt6Ar4fYt"
@@ -6807,7 +6861,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 189086,
       "name": "When It All Falls Apart",
       "url": "https://open.spotify.com/track/5TNZQdvoU9VixFZzKA7P8j"

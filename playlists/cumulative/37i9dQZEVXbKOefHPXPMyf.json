@@ -234,6 +234,24 @@
     },
     {
       "album": {
+        "name": "Abecedario",
+        "url": "https://open.spotify.com/album/764dtJDaxSNwH5bunCeGyD"
+      },
+      "artists": [
+        {
+          "name": "Maca & Gero",
+          "url": "https://open.spotify.com/artist/6u8guISpLd1Al1exxE6BtV"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192577,
+      "name": "Abecedario",
+      "url": "https://open.spotify.com/track/6FJM755ucsEsB5MMTzMxR6"
+    },
+    {
+      "album": {
         "name": "About Damn Time",
         "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
       },
@@ -837,7 +855,7 @@
       ],
       "date_added": "2022-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -1763,6 +1781,24 @@
       "duration_ms": 250533,
       "name": "Callaita",
       "url": "https://open.spotify.com/track/71wFwRo8xGc4lrcyKwsvba"
+    },
+    {
+      "album": {
+        "name": "Rave & Roses",
+        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219668,
+      "name": "Calm Down",
+      "url": "https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo"
     },
     {
       "album": {
@@ -3163,6 +3199,24 @@
       "duration_ms": 171466,
       "name": "El Torito",
       "url": "https://open.spotify.com/track/0xAcXqA1HFUz8AtxsXBp4n"
+    },
+    {
+      "album": {
+        "name": "Ele Te Bota Soca Soca",
+        "url": "https://open.spotify.com/album/06SOrEJslEzlBWq2y2ixoX"
+      },
+      "artists": [
+        {
+          "name": "Mc Rd",
+          "url": "https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181045,
+      "name": "Ele Te Bota Soca Soca",
+      "url": "https://open.spotify.com/track/6z7FLfYEQ5h2wkyEIgVibB"
     },
     {
       "album": {
@@ -7474,6 +7528,32 @@
     },
     {
       "album": {
+        "name": "No Me Conformo",
+        "url": "https://open.spotify.com/album/60qMDnkh443HxIVbZRImIu"
+      },
+      "artists": [
+        {
+          "name": "Koreko",
+          "url": "https://open.spotify.com/artist/7MAFjAqzB7cFssz84HSSlv"
+        },
+        {
+          "name": "Pusho",
+          "url": "https://open.spotify.com/artist/2qbEtwBVyobgpNP5KcHE9J"
+        },
+        {
+          "name": "Anonimus",
+          "url": "https://open.spotify.com/artist/62lbdm09j0QUbWB7SqCJvt"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281898,
+      "name": "No Me Conformo",
+      "url": "https://open.spotify.com/track/6t8OjozDxyWUprWqIB58IT"
+    },
+    {
+      "album": {
         "name": "Encanto (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF"
       },
@@ -9159,7 +9239,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 196784,
       "name": "Sex, Drugs, Etc.",
       "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
@@ -9393,7 +9473,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 243000,
       "name": "Shut Up and Listen",
       "url": "https://open.spotify.com/track/3PNaaKLGYYn1ULNZXyMuWM"
@@ -11875,7 +11955,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 217411,
       "name": "Wannabe",
       "url": "https://open.spotify.com/track/5ACZOGjT6I5He0pDZED56Z"

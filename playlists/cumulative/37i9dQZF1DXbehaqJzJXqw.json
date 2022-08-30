@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 271213,
       "name": "Aquarium",
       "url": "https://open.spotify.com/track/6nq8mMlQ2RKpG4SmqziE3j"
@@ -373,7 +373,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 186693,
       "name": "Chez Moi",
       "url": "https://open.spotify.com/track/16UdsCC8mjirUrtjA9HaG5"
@@ -553,7 +553,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 168800,
       "name": "Faire des ronds dans l'eau",
       "url": "https://open.spotify.com/track/7JFT6vfzNI3Qtyyza6J55R"
@@ -963,7 +963,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-22",
+      "date_removed": null,
       "duration_ms": 180139,
       "name": "J\u2019aime Paris au mois de mai",
       "url": "https://open.spotify.com/track/0uMw4hMaENumEX3US9t0cH"
@@ -1603,7 +1603,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 217960,
       "name": "Les jeux sont faits",
       "url": "https://open.spotify.com/track/0G7aymlLyV2F40F4YpDYDH"
@@ -1643,6 +1643,40 @@
       "duration_ms": 209853,
       "name": "Les vacances au bord de la mer",
       "url": "https://open.spotify.com/track/3X2ftfCn1a3EDugnYRptfH"
+    },
+    {
+      "album": {
+        "name": "Raconte-moi... (Bonus Edition)",
+        "url": "https://open.spotify.com/album/3afGgL2rBWMuLYEWXScDFb"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        },
+        {
+          "name": "Graham Harvey",
+          "url": "https://open.spotify.com/artist/1x7a6AcM8lS9mfpkzfIgAt"
+        },
+        {
+          "name": "Matt Skelton",
+          "url": "https://open.spotify.com/artist/1Ak5vW938xaMoVfXuHeZfA"
+        },
+        {
+          "name": "John Parricelli",
+          "url": "https://open.spotify.com/artist/55Ib86Ob0dKLELhJ1gvUri"
+        },
+        {
+          "name": "Jeremy Brown",
+          "url": "https://open.spotify.com/artist/2GryQVS8rv0VqHUGN4Ua3v"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209803,
+      "name": "Les vacances au bord de la mer",
+      "url": "https://open.spotify.com/track/0htMEthRuUTVgNRK1byxMj"
     },
     {
       "album": {
@@ -1919,7 +1953,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-22",
+      "date_removed": null,
       "duration_ms": 222840,
       "name": "Nuages - Studio recording",
       "url": "https://open.spotify.com/track/0ZozgJKoZhGJbkAtKzmzzM"
@@ -2013,7 +2047,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 211160,
       "name": "O\u00f9 veux-tu aller ?",
       "url": "https://open.spotify.com/track/5z3UJq95l8teAWcSmht6ff"
@@ -2245,7 +2279,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 163510,
       "name": "Que reste-t-il de nos amours ? - Bonus track",
       "url": "https://open.spotify.com/track/7vY7W8DL8JSaS6aBDFHGW3"
@@ -2283,7 +2317,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 222816,
       "name": "Raconte-moi...",
       "url": "https://open.spotify.com/track/2lvlrhaZrPws3DSoZ14hcL"
@@ -2609,7 +2643,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-11",
+      "date_removed": null,
       "duration_ms": 221413,
       "name": "Tu t'laisses aller",
       "url": "https://open.spotify.com/track/1zv0wKzFiSguxypzw67DgN"
@@ -2765,7 +2799,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 233426,
       "name": "\u00c0 La Tour Eiffel",
       "url": "https://open.spotify.com/track/71RkxMNJzFk80bo0p4OFnp"

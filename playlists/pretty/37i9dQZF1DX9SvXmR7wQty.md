@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Les nouveautés francophones de la semaine\. Photo: Daniel Bélanger
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,869 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,874 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 14 | [À présent](https://open.spotify.com/track/5WbdB8SuUJ1Rgyhh8Uyq3L) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [À présent](https://open.spotify.com/album/4yCghmiyhqVae5mRq402br) | 4:51 |
 | 15 | [40h semaine](https://open.spotify.com/track/45CNy4u2YDVrIAssuOHowr) | [Matiu](https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE) | [Tipatshimushtunan](https://open.spotify.com/album/2s2VMACiBYgAJGC5DGEvTy) | 4:05 |
 | 16 | [J'élimine](https://open.spotify.com/track/1U13A13YafzmqthKXiul91) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [J'élimine](https://open.spotify.com/album/4eHStY9TfFmHRV8iQCAgNo) | 2:17 |
-| 17 | [Feel Good \- Version Française](https://open.spotify.com/track/45tuTOKXtBO2FmvduuCIVX) | [Five Roses](https://open.spotify.com/artist/6MN4Gf274aRJNoPjj0GTok) | [Feel Good \(Version Française\)](https://open.spotify.com/album/6Y331C5BrOn4Lv1JuqvSrj) | 2:49 |
+| 17 | [Feel Good \- Version Française](https://open.spotify.com/track/740x2wsOM0avrDXBraTxDP) | [Five Roses](https://open.spotify.com/artist/6MN4Gf274aRJNoPjj0GTok) | [Jukebox Vibrations](https://open.spotify.com/album/2ZNOL1KznYYIwPEq4DIykD) | 2:49 |
 | 18 | [Il était une fois](https://open.spotify.com/track/3uLZL8cZl2Hr1lal1Cet3D) | [Die\-On](https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Il était une fois](https://open.spotify.com/album/2viKHkCMddUIbdI4EWbbTd) | 4:05 |
 | 19 | [FOTO](https://open.spotify.com/track/6L7mM6G8HBCP8lvHNoRrQn) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz), [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [FOTO](https://open.spotify.com/album/3G2ZCoy8vRhlbWngpG8jNn) | 3:40 |
 | 20 | [Bonita](https://open.spotify.com/track/4u5yF9901XzjO8TmccIE59) | [Ced Auger](https://open.spotify.com/artist/64wJH22II7dGiPX2c8ClZk), [Og Cyrus](https://open.spotify.com/artist/56FZAZpjwmjxBMYQTVSz5J), [Paranoize](https://open.spotify.com/artist/7HAc0ID4r7Z7divOc9pGQA) | [Bonita](https://open.spotify.com/album/2qwuTEQGT5TLBpG0KBPn4C) | 2:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 49 | [la fin n'arrive jamais](https://open.spotify.com/track/6ZlrnURXvV8PoT5tFeLVFU) | [Narcisse](https://open.spotify.com/artist/1GY5zIB9GwQQcjruxXLfCN) | [la fin n'arrive jamais](https://open.spotify.com/album/1dDABe9nkeGZgQ5ueQwTNm) | 3:35 |
 | 50 | [On aime le Whisky](https://open.spotify.com/track/5Rp5wEjVz1U7fId1K1BPsp) | [Vince Lemire](https://open.spotify.com/artist/1YzPsCwc1svqXcN5P0n7XN) | [On aime le Whisky](https://open.spotify.com/album/46mshE2kWCjtGpeIOA8OXd) | 2:28 |
 
-Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMGY2NjlmMGFjMTAyZDRkNjM4ODM5ODUxZDQwYTE1NGUz`
+Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMGE5OGE1ODhhMTYyYTdlMDMwNzk2ODM1OGNlNzc3ZDBi`

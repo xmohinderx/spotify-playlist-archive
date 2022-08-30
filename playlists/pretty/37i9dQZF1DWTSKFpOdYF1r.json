@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined the other side of the 80s. Cover: Kate Bush",
-  "num_followers": 797080,
+  "num_followers": 797340,
   "original_name": "Alternative 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Mzk0MTg0NiwwMDAwMDAwMDAxYTI3MWQ5NTlhNDZjMmNjNzIyNDBlNGQ3MjVkNmZk",
+  "snapshot_id": "MTY1Mzk0MTg0NiwwMDAwMDAwMDNlNTAyYjcwN2ZiM2Q5MjMyZmQ3YTcyNzhlMDgwNTA1",
   "tracks": [
     {
       "added_at": "2022-05-30 20:17:26",
@@ -131,22 +131,6 @@
     {
       "added_at": "2022-05-30 20:17:26",
       "album": {
-        "name": "The Smiths",
-        "url": "https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN"
-      },
-      "artists": [
-        {
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
-        }
-      ],
-      "duration_ms": 162920,
-      "name": "This Charming Man - 2011 Remaster",
-      "url": "https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ"
-    },
-    {
-      "added_at": "2022-05-30 20:17:26",
-      "album": {
         "name": "Combat Rock (Remastered)",
         "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 222426,
       "name": "Rock the Casbah - Remastered",
       "url": "https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N"
+    },
+    {
+      "added_at": "2022-05-30 20:17:26",
+      "album": {
+        "name": "Songs From The Big Chair",
+        "url": "https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5"
+      },
+      "artists": [
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        }
+      ],
+      "duration_ms": 393666,
+      "name": "Shout",
+      "url": "https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ"
     },
     {
       "added_at": "2022-05-30 20:17:26",
@@ -179,18 +179,18 @@
     {
       "added_at": "2022-05-30 20:17:26",
       "album": {
-        "name": "Songs From The Big Chair",
-        "url": "https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5"
+        "name": "The Smiths",
+        "url": "https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN"
       },
       "artists": [
         {
-          "name": "Tears For Fears",
-          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
         }
       ],
-      "duration_ms": 393666,
-      "name": "Shout",
-      "url": "https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ"
+      "duration_ms": 162920,
+      "name": "This Charming Man - 2011 Remaster",
+      "url": "https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ"
     },
     {
       "added_at": "2022-05-30 20:17:26",
@@ -243,22 +243,6 @@
     {
       "added_at": "2022-05-30 20:17:26",
       "album": {
-        "name": "Hatful of Hollow",
-        "url": "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
-      },
-      "artists": [
-        {
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
-        }
-      ],
-      "duration_ms": 408173,
-      "name": "How Soon Is Now? - 2011 Remaster",
-      "url": "https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU"
-    },
-    {
-      "added_at": "2022-05-30 20:17:26",
-      "album": {
         "name": "It's My Life",
         "url": "https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf"
       },
@@ -307,6 +291,38 @@
     {
       "added_at": "2022-05-30 20:17:26",
       "album": {
+        "name": "Hatful of Hollow",
+        "url": "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "duration_ms": 408173,
+      "name": "How Soon Is Now? - 2011 Remaster",
+      "url": "https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU"
+    },
+    {
+      "added_at": "2022-05-30 20:17:26",
+      "album": {
+        "name": "Never for Ever (2018 Remaster)",
+        "url": "https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 199226,
+      "name": "Babooshka - 2018 Remaster",
+      "url": "https://open.spotify.com/track/6VpNGCU2ig4NQmsLfALdJU"
+    },
+    {
+      "added_at": "2022-05-30 20:17:26",
+      "album": {
         "name": "Love Will Tear Us Apart",
         "url": "https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 208453,
       "name": "Love Will Tear Us Apart - 2020 Remaster",
       "url": "https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4"
-    },
-    {
-      "added_at": "2022-05-30 20:17:26",
-      "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 212226,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I"
     },
     {
       "added_at": "2022-05-30 20:17:26",
@@ -355,18 +355,18 @@
     {
       "added_at": "2022-05-30 20:17:26",
       "album": {
-        "name": "Never for Ever (2018 Remaster)",
-        "url": "https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt"
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K"
       },
       "artists": [
         {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 199226,
-      "name": "Babooshka - 2018 Remaster",
-      "url": "https://open.spotify.com/track/6VpNGCU2ig4NQmsLfALdJU"
+      "duration_ms": 212226,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I"
     },
     {
       "added_at": "2022-05-30 20:17:26",
@@ -483,22 +483,6 @@
     {
       "added_at": "2022-05-30 20:17:26",
       "album": {
-        "name": "Three Imaginary Boys (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7gPql7GFpBMOxeO80vMMsC"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 157533,
-      "name": "Boys Don't Cry - Single Version",
-      "url": "https://open.spotify.com/track/4dneV7C1yDt9UtyxrQY375"
-    },
-    {
-      "added_at": "2022-05-30 20:17:26",
-      "album": {
         "name": "The Hurting",
         "url": "https://open.spotify.com/album/3sIFpEctox1XOs3FEkqrgr"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 349186,
       "name": "I Know It's Over - 2011 Remaster",
       "url": "https://open.spotify.com/track/3M2bD9SMYnJIPdrTKUnBd3"
+    },
+    {
+      "added_at": "2022-05-30 20:17:26",
+      "album": {
+        "name": "Three Imaginary Boys (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7gPql7GFpBMOxeO80vMMsC"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 157533,
+      "name": "Boys Don't Cry - Single Version",
+      "url": "https://open.spotify.com/track/4dneV7C1yDt9UtyxrQY375"
     },
     {
       "added_at": "2022-05-30 20:17:26",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-05-30 20:17:26",
       "album": {
-        "name": "Talk Talk Talk",
-        "url": "https://open.spotify.com/album/2fwQTAo511xnTWUYJ1Gnrh"
-      },
-      "artists": [
-        {
-          "name": "The Psychedelic Furs",
-          "url": "https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe"
-        }
-      ],
-      "duration_ms": 238106,
-      "name": "Pretty in Pink",
-      "url": "https://open.spotify.com/track/1K1TFdBh7NrDyKiwiJEmsy"
-    },
-    {
-      "added_at": "2022-05-30 20:17:26",
-      "album": {
         "name": "More Songs About Buildings and Food (Deluxe Version)",
         "url": "https://open.spotify.com/album/01RJdKvXyz515O37itqMIJ"
       },
@@ -923,18 +907,18 @@
     {
       "added_at": "2022-05-30 20:17:26",
       "album": {
-        "name": "Hounds of Love (2018 Remaster)",
-        "url": "https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH"
+        "name": "Talk Talk Talk",
+        "url": "https://open.spotify.com/album/2fwQTAo511xnTWUYJ1Gnrh"
       },
       "artists": [
         {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+          "name": "The Psychedelic Furs",
+          "url": "https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe"
         }
       ],
-      "duration_ms": 309973,
-      "name": "Cloudbusting - 2018 Remaster",
-      "url": "https://open.spotify.com/track/0cuMpt0w9ahbhJl0R2fbkY"
+      "duration_ms": 238106,
+      "name": "Pretty in Pink",
+      "url": "https://open.spotify.com/track/1K1TFdBh7NrDyKiwiJEmsy"
     },
     {
       "added_at": "2022-05-30 20:17:26",
@@ -951,6 +935,22 @@
       "duration_ms": 323133,
       "name": "Are 'Friends' Electric?",
       "url": "https://open.spotify.com/track/3xfOF1wyjUZocifZ5WLeFx"
+    },
+    {
+      "added_at": "2022-05-30 20:17:26",
+      "album": {
+        "name": "Hounds of Love (2018 Remaster)",
+        "url": "https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 309973,
+      "name": "Cloudbusting - 2018 Remaster",
+      "url": "https://open.spotify.com/track/0cuMpt0w9ahbhJl0R2fbkY"
     },
     {
       "added_at": "2022-05-30 20:17:26",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2022-05-30 20:17:26",
       "album": {
-        "name": "Treasure",
-        "url": "https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62"
+        "name": "Pillow Lips",
+        "url": "https://open.spotify.com/album/6u6RKwjKjNbfSBMDgg83sv"
       },
       "artists": [
         {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+          "name": "Modern English",
+          "url": "https://open.spotify.com/artist/0fYPQBOx0vsRMmjUba9HgF"
         }
       ],
-      "duration_ms": 223266,
-      "name": "Lorelei",
-      "url": "https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH"
+      "duration_ms": 235933,
+      "name": "I Melt With You - Rerecorded",
+      "url": "https://open.spotify.com/track/78ocJAEFOYKVjYgXZ8fggD"
     },
     {
       "added_at": "2022-05-30 20:17:26",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2022-05-30 20:17:26",
       "album": {
-        "name": "Pillow Lips",
-        "url": "https://open.spotify.com/album/6u6RKwjKjNbfSBMDgg83sv"
+        "name": "Treasure",
+        "url": "https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62"
       },
       "artists": [
         {
-          "name": "Modern English",
-          "url": "https://open.spotify.com/artist/0fYPQBOx0vsRMmjUba9HgF"
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
         }
       ],
-      "duration_ms": 235933,
-      "name": "I Melt With You - Rerecorded",
-      "url": "https://open.spotify.com/track/78ocJAEFOYKVjYgXZ8fggD"
+      "duration_ms": 223266,
+      "name": "Lorelei",
+      "url": "https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH"
     },
     {
       "added_at": "2022-05-30 20:17:26",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-05-30 20:17:26",
       "album": {
-        "name": "It'll End In Tears (Remastered)",
-        "url": "https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j"
-      },
-      "artists": [
-        {
-          "name": "This Mortal Coil",
-          "url": "https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO"
-        }
-      ],
-      "duration_ms": 211093,
-      "name": "Song To The Siren - Remastered",
-      "url": "https://open.spotify.com/track/26uVYNtKahTAcZMDWiuBnt"
-    },
-    {
-      "added_at": "2022-05-30 20:17:26",
-      "album": {
         "name": "Upstairs At Eric's",
         "url": "https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V"
       },
@@ -1163,18 +1147,18 @@
     {
       "added_at": "2022-05-30 20:17:26",
       "album": {
-        "name": "ESP: The 808 State Effect",
-        "url": "https://open.spotify.com/album/0mwlWFUpsVDeDw5kkUlDzV"
+        "name": "It'll End In Tears (Remastered)",
+        "url": "https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j"
       },
       "artists": [
         {
-          "name": "808 State",
-          "url": "https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN"
+          "name": "This Mortal Coil",
+          "url": "https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO"
         }
       ],
-      "duration_ms": 351400,
-      "name": "Pacific State",
-      "url": "https://open.spotify.com/track/2h7w0KHwHbx4WbG6WxjO7U"
+      "duration_ms": 211093,
+      "name": "Song To The Siren - Remastered",
+      "url": "https://open.spotify.com/track/26uVYNtKahTAcZMDWiuBnt"
     },
     {
       "added_at": "2022-05-30 20:17:26",
@@ -1191,6 +1175,22 @@
       "duration_ms": 151693,
       "name": "Crash",
       "url": "https://open.spotify.com/track/4tPHC7YsU3LInUYcIe2UIi"
+    },
+    {
+      "added_at": "2022-05-30 20:17:26",
+      "album": {
+        "name": "ESP: The 808 State Effect",
+        "url": "https://open.spotify.com/album/0mwlWFUpsVDeDw5kkUlDzV"
+      },
+      "artists": [
+        {
+          "name": "808 State",
+          "url": "https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN"
+        }
+      ],
+      "duration_ms": 351400,
+      "name": "Pacific State",
+      "url": "https://open.spotify.com/track/2h7w0KHwHbx4WbG6WxjO7U"
     },
     {
       "added_at": "2022-05-30 20:17:26",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2022-05-30 20:17:26",
       "album": {
-        "name": "Porcupine (Expanded; 2004 Remaster)",
-        "url": "https://open.spotify.com/album/4brJ6hWYqPj1sccgk390dC"
+        "name": "Pelican West Plus",
+        "url": "https://open.spotify.com/album/6VIiHu2RCwWo4151YCG7ND"
       },
       "artists": [
         {
-          "name": "Echo & the Bunnymen",
-          "url": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
+          "name": "Haircut 100",
+          "url": "https://open.spotify.com/artist/6imyM8T1Xbe8v2iZe41dR7"
         }
       ],
-      "duration_ms": 232746,
-      "name": "The Cutter",
-      "url": "https://open.spotify.com/track/617ahruubznvqzv7Nas3QX"
+      "duration_ms": 212573,
+      "name": "Love Plus One",
+      "url": "https://open.spotify.com/track/4vwLjB2NRtl9b34jRe6cWd"
     }
   ],
   "unique_name": "Alternative 80s",

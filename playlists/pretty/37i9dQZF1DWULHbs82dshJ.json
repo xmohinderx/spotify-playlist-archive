@@ -1,12 +1,12 @@
 {
   "description": "A trilha sonora perfeita pra te fazer companhia nesse dia chuvoso.",
-  "num_followers": 45661,
+  "num_followers": 45676,
   "original_name": "Dia de Chuva",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTU4MjkzOSwwMDAwMDAwMDEzZDE3OWFmMTMxYjMzNGIxMDAwYjA0NjgyYjIzYmRi",
+  "snapshot_id": "MTYzOTU4MjkzOSwwMDAwMDAwMGY3MzU2ZmFmZjk1ODcwMzIwYjRmNjZkNzg3NWE2OGM3",
   "tracks": [
     {
       "added_at": "2021-12-15 15:42:19",
@@ -143,22 +143,6 @@
     {
       "added_at": "2021-12-15 15:42:19",
       "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 376169,
-      "name": "I Drink Wine",
-      "url": "https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A"
-    },
-    {
-      "added_at": "2021-12-15 15:42:19",
-      "album": {
         "name": "Ctrl",
         "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 239440,
       "name": "I Try",
       "url": "https://open.spotify.com/track/5TAf4lnZCZTLlZHNZMLFLi"
+    },
+    {
+      "added_at": "2021-12-15 15:42:19",
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 376169,
+      "name": "I Drink Wine",
+      "url": "https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A"
     },
     {
       "added_at": "2021-12-15 15:42:19",
@@ -323,22 +323,6 @@
     {
       "added_at": "2021-12-15 15:42:19",
       "album": {
-        "name": "Ella Mai",
-        "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 197182,
-      "name": "Naked - Bonus Track",
-      "url": "https://open.spotify.com/track/0SbOpoBzBBCqWIcvo94JeD"
-    },
-    {
-      "added_at": "2021-12-15 15:42:19",
-      "album": {
         "name": "Thriller 25 Super Deluxe Edition",
         "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 245560,
       "name": "Human Nature",
       "url": "https://open.spotify.com/track/35lAjvsvS9k9HHuP1fjDT8"
+    },
+    {
+      "added_at": "2021-12-15 15:42:19",
+      "album": {
+        "name": "Ella Mai",
+        "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 197182,
+      "name": "Naked - Bonus Track",
+      "url": "https://open.spotify.com/track/0SbOpoBzBBCqWIcvo94JeD"
     },
     {
       "added_at": "2021-12-15 15:42:19",
@@ -467,22 +467,6 @@
     {
       "added_at": "2021-12-15 15:42:19",
       "album": {
-        "name": "Corinne Bailey Rae",
-        "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
-      },
-      "artists": [
-        {
-          "name": "Corinne Bailey Rae",
-          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
-        }
-      ],
-      "duration_ms": 243213,
-      "name": "Like A Star",
-      "url": "https://open.spotify.com/track/5Anh8jULgeUgciLHCR25Mk"
-    },
-    {
-      "added_at": "2021-12-15 15:42:19",
-      "album": {
         "name": "Atlantic 60th: Soul, Sweat And Strut",
         "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 166826,
       "name": "(Sittin' On) the Dock of the Bay",
       "url": "https://open.spotify.com/track/50uGbeaQIxKiSc7jvRTjWx"
+    },
+    {
+      "added_at": "2021-12-15 15:42:19",
+      "album": {
+        "name": "Corinne Bailey Rae",
+        "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
+      },
+      "artists": [
+        {
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+        }
+      ],
+      "duration_ms": 243213,
+      "name": "Like A Star",
+      "url": "https://open.spotify.com/track/5Anh8jULgeUgciLHCR25Mk"
     },
     {
       "added_at": "2021-12-15 15:42:19",
@@ -527,6 +527,26 @@
       "duration_ms": 276093,
       "name": "Brown Eyes",
       "url": "https://open.spotify.com/track/1urmwhtXPiakhcqvqUi3rp"
+    },
+    {
+      "added_at": "2021-12-15 15:42:19",
+      "album": {
+        "name": "Project 11",
+        "url": "https://open.spotify.com/album/0aytGzjInPwluxhlSLxoot"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        }
+      ],
+      "duration_ms": 282329,
+      "name": "Carry Me Home",
+      "url": "https://open.spotify.com/track/6fracv4du3sDwo1XKcPrkw"
     },
     {
       "added_at": "2021-12-15 15:42:19",
@@ -595,58 +615,6 @@
     {
       "added_at": "2021-12-15 15:42:19",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 184548,
-      "name": "ocean eyes - Recorded Live at Jungle City Studios",
-      "url": "https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC"
-    },
-    {
-      "added_at": "2021-12-15 15:42:19",
-      "album": {
-        "name": "Project 11",
-        "url": "https://open.spotify.com/album/0aytGzjInPwluxhlSLxoot"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "Maverick Sabre",
-          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
-        }
-      ],
-      "duration_ms": 282329,
-      "name": "Carry Me Home",
-      "url": "https://open.spotify.com/track/6fracv4du3sDwo1XKcPrkw"
-    },
-    {
-      "added_at": "2021-12-15 15:42:19",
-      "album": {
-        "name": "Lioness: Hidden Treasures",
-        "url": "https://open.spotify.com/album/4xdRjOhY9NHmMpI7U3e2c3"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 166960,
-      "name": "The Girl From Ipanema",
-      "url": "https://open.spotify.com/track/7F5rIyOI88zk36AiBXC8xq"
-    },
-    {
-      "added_at": "2021-12-15 15:42:19",
-      "album": {
         "name": "Gumbo Unplugged (Live)",
         "url": "https://open.spotify.com/album/6au0qzMOjqEgc79ntU2bf6"
       },
@@ -667,18 +635,34 @@
     {
       "added_at": "2021-12-15 15:42:19",
       "album": {
-        "name": "Tim Maia 1970",
-        "url": "https://open.spotify.com/album/7HjYI9iWYOsEEvBhyCva66"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW"
       },
       "artists": [
         {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 243183,
-      "name": "Eu Amo Voc\u00ea",
-      "url": "https://open.spotify.com/track/04h9o3gtRD7fvGafF7ukJj"
+      "duration_ms": 184548,
+      "name": "ocean eyes - Recorded Live at Jungle City Studios",
+      "url": "https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC"
+    },
+    {
+      "added_at": "2021-12-15 15:42:19",
+      "album": {
+        "name": "Lioness: Hidden Treasures",
+        "url": "https://open.spotify.com/album/4xdRjOhY9NHmMpI7U3e2c3"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 166960,
+      "name": "The Girl From Ipanema",
+      "url": "https://open.spotify.com/track/7F5rIyOI88zk36AiBXC8xq"
     },
     {
       "added_at": "2021-12-15 15:42:19",
@@ -699,6 +683,22 @@
       "duration_ms": 242400,
       "name": "Forfeit. (ft. Lucky Daye)",
       "url": "https://open.spotify.com/track/4uMvvCwqs046uxyJiFJTT1"
+    },
+    {
+      "added_at": "2021-12-15 15:42:19",
+      "album": {
+        "name": "Tim Maia 1970",
+        "url": "https://open.spotify.com/album/7HjYI9iWYOsEEvBhyCva66"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 243183,
+      "name": "Eu Amo Voc\u00ea",
+      "url": "https://open.spotify.com/track/04h9o3gtRD7fvGafF7ukJj"
     },
     {
       "added_at": "2021-12-15 15:42:19",
@@ -755,26 +755,6 @@
     {
       "added_at": "2021-12-15 15:42:19",
       "album": {
-        "name": "The Electric Lady",
-        "url": "https://open.spotify.com/album/3bnHtSmmsgJiG82hGCmsq9"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        },
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 280080,
-      "name": "Primetime (feat. Miguel)",
-      "url": "https://open.spotify.com/track/5dzV75f9qVXVvdXLTqIG4L"
-    },
-    {
-      "added_at": "2021-12-15 15:42:19",
-      "album": {
         "name": "ALICIA",
         "url": "https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 234866,
       "name": "So Done (feat. Khalid)",
       "url": "https://open.spotify.com/track/0DC6yJLAPwIEeZh6EZpn1f"
+    },
+    {
+      "added_at": "2021-12-15 15:42:19",
+      "album": {
+        "name": "The Electric Lady",
+        "url": "https://open.spotify.com/album/3bnHtSmmsgJiG82hGCmsq9"
+      },
+      "artists": [
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 280080,
+      "name": "Primetime (feat. Miguel)",
+      "url": "https://open.spotify.com/track/5dzV75f9qVXVvdXLTqIG4L"
     },
     {
       "added_at": "2021-12-15 15:42:19",

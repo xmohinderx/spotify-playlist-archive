@@ -4797,7 +4797,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 206284,
       "name": "Mojo",
       "url": "https://open.spotify.com/track/70NxnUV2P0uOus3V5eL9gs"
@@ -7235,6 +7235,24 @@
       "duration_ms": 203664,
       "name": "Tengo Lo Que Tengo",
       "url": "https://open.spotify.com/track/1uu604md59h9zaP27tegVV"
+    },
+    {
+      "album": {
+        "name": "Tengo Lo Que Tengo",
+        "url": "https://open.spotify.com/album/3cBPxSdXfF1BGajgGm2QtE"
+      },
+      "artists": [
+        {
+          "name": "Jimena Angel",
+          "url": "https://open.spotify.com/artist/1K0Pin4AUnN7GVGJaS7z0E"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203664,
+      "name": "Tengo Lo Que Tengo",
+      "url": "https://open.spotify.com/track/21iJNBkKbsIwALHDEqiesL"
     },
     {
       "album": {

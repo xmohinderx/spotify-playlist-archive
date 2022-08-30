@@ -815,7 +815,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 228949,
       "name": "De Onde Eu Venho - Ao Vivo",
       "url": "https://open.spotify.com/track/5sBrPQKMisZePolGEXuGno"
@@ -1521,7 +1521,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 214500,
       "name": "Hugo Boss",
       "url": "https://open.spotify.com/track/1OfwTYZQrsImsfnhHWrJr1"
@@ -2996,6 +2996,32 @@
     },
     {
       "album": {
+        "name": "Quem N\u00e3o Conhece T\u00e1 Sem Internet",
+        "url": "https://open.spotify.com/album/5NHD24GC7W9uH2fdLzteGB"
+      },
+      "artists": [
+        {
+          "name": "MC Marks",
+          "url": "https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h"
+        },
+        {
+          "name": "DJ BOY",
+          "url": "https://open.spotify.com/artist/5ncITNKBT3RMa1U2NsuE7V"
+        },
+        {
+          "name": "Dj GM",
+          "url": "https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146823,
+      "name": "Quem N\u00e3o Conhece T\u00e1 Sem Internet",
+      "url": "https://open.spotify.com/track/5mJFh4iRzgmWuEVPG8257V"
+    },
+    {
+      "album": {
         "name": "Churrasquinho Menos \u00c9 Mais, Vol. 2",
         "url": "https://open.spotify.com/album/0ni6zhrp00jfoI0lswSrGv"
       },
@@ -3465,6 +3491,36 @@
       "duration_ms": 159146,
       "name": "Tipo Gin - Ao Vivo",
       "url": "https://open.spotify.com/track/4llr8mcoauwrHBtjGb7F9S"
+    },
+    {
+      "album": {
+        "name": "Toma Cuidado (feat. Gaab) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/0wVSusjTiklZXgGhhW27Qv"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        },
+        {
+          "name": "Rodriguinho",
+          "url": "https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq"
+        },
+        {
+          "name": "Mr. Dan",
+          "url": "https://open.spotify.com/artist/0tEbPIVxu2YOmZXOWAkJ52"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180937,
+      "name": "Toma Cuidado (feat. Gaab) - Ao Vivo",
+      "url": "https://open.spotify.com/track/1AInscpCS8KEdgjBhZFLBE"
     },
     {
       "album": {

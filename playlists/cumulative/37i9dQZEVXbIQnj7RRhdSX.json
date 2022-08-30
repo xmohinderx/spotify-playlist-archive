@@ -1153,7 +1153,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 159840,
       "name": "Auto tedesca",
       "url": "https://open.spotify.com/track/2dTjaUZFpnlohX8oZ5A2sy"
@@ -11819,10 +11819,28 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 166214,
       "name": "Niente da perdere",
       "url": "https://open.spotify.com/track/7hHdj3YuX1TExCY0Sx5zqb"
+    },
+    {
+      "album": {
+        "name": "Dark Love EP",
+        "url": "https://open.spotify.com/album/5Z5JxIgeTDnZdg6pLootUs"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166214,
+      "name": "Niente da perdere",
+      "url": "https://open.spotify.com/track/7mRHqbk9dgsJCXTBCWzbDX"
     },
     {
       "album": {
@@ -13077,7 +13095,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 165960,
       "name": "PARE (feat. Madame)",
       "url": "https://open.spotify.com/track/1WQxLQxEDMDwuaAmRXDHIw"
@@ -13329,6 +13347,24 @@
     {
       "album": {
         "name": "Dark Love EP",
+        "url": "https://open.spotify.com/album/5Z5JxIgeTDnZdg6pLootUs"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176245,
+      "name": "Pensando a lei",
+      "url": "https://open.spotify.com/track/2d0ZupCYQL3ME43vB3Dei3"
+    },
+    {
+      "album": {
+        "name": "Dark Love EP",
         "url": "https://open.spotify.com/album/1AT2eHexB7x445IxuECZLW"
       },
       "artists": [
@@ -13339,7 +13375,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 176245,
       "name": "Pensando a lei",
       "url": "https://open.spotify.com/track/48xCJ298GWpAtejk8uzBOr"

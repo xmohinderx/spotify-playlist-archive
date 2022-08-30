@@ -1,12 +1,12 @@
 {
   "description": "The sad side of soul. Cover: Harold Melvin.",
-  "num_followers": 59791,
+  "num_followers": 59867,
   "original_name": "Sad Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNjYzOTMzOCwwMDAwMDAwMDViYmJiZjI4NWQzYTY5NzBmYjc1MjhkYjg5M2E1MzU1",
+  "snapshot_id": "MTYzNjYzOTMzOCwwMDAwMDAwMGQ0ZDY1Y2Q2NGFhNzRmNmY5Y2QxMDg5MWQ2MzJhZWQ1",
   "tracks": [
     {
       "added_at": "2021-11-11 14:02:18",
@@ -195,22 +195,6 @@
     {
       "added_at": "2021-11-11 14:02:18",
       "album": {
-        "name": "TP (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 299120,
-      "name": "Love T.K.O.",
-      "url": "https://open.spotify.com/track/3IVaPHncIZWWNjfg29HVLq"
-    },
-    {
-      "added_at": "2021-11-11 14:02:18",
-      "album": {
         "name": "Let's Stay Together",
         "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
       },
@@ -227,34 +211,18 @@
     {
       "added_at": "2021-11-11 14:02:18",
       "album": {
-        "name": "Pain in My Heart",
-        "url": "https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3"
+        "name": "TP (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
       },
       "artists": [
         {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 154533,
-      "name": "These Arms of Mine",
-      "url": "https://open.spotify.com/track/4skknrc3sJqaPTtUr2cwFq"
-    },
-    {
-      "added_at": "2021-11-11 14:02:18",
-      "album": {
-        "name": "The Very Best of Solomon Burke",
-        "url": "https://open.spotify.com/album/6qnOfoAUz11fZ98GFilmKE"
-      },
-      "artists": [
-        {
-          "name": "Solomon Burke",
-          "url": "https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb"
-        }
-      ],
-      "duration_ms": 154906,
-      "name": "Cry to Me",
-      "url": "https://open.spotify.com/track/2sCf9tz6LHByczuVT7rqIx"
+      "duration_ms": 299120,
+      "name": "Love T.K.O.",
+      "url": "https://open.spotify.com/track/3IVaPHncIZWWNjfg29HVLq"
     },
     {
       "added_at": "2021-11-11 14:02:18",
@@ -275,6 +243,22 @@
     {
       "added_at": "2021-11-11 14:02:18",
       "album": {
+        "name": "Pain in My Heart",
+        "url": "https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 154533,
+      "name": "These Arms of Mine",
+      "url": "https://open.spotify.com/track/4skknrc3sJqaPTtUr2cwFq"
+    },
+    {
+      "added_at": "2021-11-11 14:02:18",
+      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 187666,
       "name": "Stormy Weather",
       "url": "https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR"
+    },
+    {
+      "added_at": "2021-11-11 14:02:18",
+      "album": {
+        "name": "The Very Best of Solomon Burke",
+        "url": "https://open.spotify.com/album/6qnOfoAUz11fZ98GFilmKE"
+      },
+      "artists": [
+        {
+          "name": "Solomon Burke",
+          "url": "https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb"
+        }
+      ],
+      "duration_ms": 154906,
+      "name": "Cry to Me",
+      "url": "https://open.spotify.com/track/2sCf9tz6LHByczuVT7rqIx"
     },
     {
       "added_at": "2021-11-11 14:02:18",
@@ -359,22 +359,6 @@
     {
       "added_at": "2021-11-11 14:02:18",
       "album": {
-        "name": "Don't Give Up On Me",
-        "url": "https://open.spotify.com/album/5fPt2yO2JG9ymtO1PNz5iK"
-      },
-      "artists": [
-        {
-          "name": "Solomon Burke",
-          "url": "https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb"
-        }
-      ],
-      "duration_ms": 225533,
-      "name": "Don't Give Up On Me",
-      "url": "https://open.spotify.com/track/4A11HoXH8oIUfWtJaTE34T"
-    },
-    {
-      "added_at": "2021-11-11 14:02:18",
-      "album": {
         "name": "Why Can't We Live Together",
         "url": "https://open.spotify.com/album/0HN6yWzRIaLKPnSFdeBtAO"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 117133,
       "name": "Sad Girl",
       "url": "https://open.spotify.com/track/1eAZTu3kRk98Exu0n92YMC"
+    },
+    {
+      "added_at": "2021-11-11 14:02:18",
+      "album": {
+        "name": "Don't Give Up On Me",
+        "url": "https://open.spotify.com/album/5fPt2yO2JG9ymtO1PNz5iK"
+      },
+      "artists": [
+        {
+          "name": "Solomon Burke",
+          "url": "https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb"
+        }
+      ],
+      "duration_ms": 225533,
+      "name": "Don't Give Up On Me",
+      "url": "https://open.spotify.com/track/4A11HoXH8oIUfWtJaTE34T"
     },
     {
       "added_at": "2021-11-11 14:02:18",
@@ -579,22 +579,6 @@
     {
       "added_at": "2021-11-11 14:02:18",
       "album": {
-        "name": "Chapter Two",
-        "url": "https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 249946,
-      "name": "Do What You Gotta Do",
-      "url": "https://open.spotify.com/track/2tF6qsoOtu92PzCTk4OKOf"
-    },
-    {
-      "added_at": "2021-11-11 14:02:18",
-      "album": {
         "name": "The Best of Sam & Dave",
         "url": "https://open.spotify.com/album/4IDa38FYTYlqHFbZM6rb5I"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 194106,
       "name": "When Something Is Wrong with My Baby",
       "url": "https://open.spotify.com/track/056rtilqF4cqLOgDQGqYqv"
+    },
+    {
+      "added_at": "2021-11-11 14:02:18",
+      "album": {
+        "name": "Chapter Two",
+        "url": "https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 249946,
+      "name": "Do What You Gotta Do",
+      "url": "https://open.spotify.com/track/2tF6qsoOtu92PzCTk4OKOf"
     },
     {
       "added_at": "2021-11-11 14:02:18",
@@ -643,6 +643,22 @@
     {
       "added_at": "2021-11-11 14:02:18",
       "album": {
+        "name": "At Peace with Woman",
+        "url": "https://open.spotify.com/album/2iDdYPZqTAFwyE0SqSuNCI"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 288720,
+      "name": "When I'm Gone",
+      "url": "https://open.spotify.com/track/1iA4JW1NzmcYNG8ZASIjdH"
+    },
+    {
+      "added_at": "2021-11-11 14:02:18",
+      "album": {
         "name": "I'm In Love Again",
         "url": "https://open.spotify.com/album/2PcZjItgjHSkKFIiW44hHy"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 262773,
       "name": "When Am I Gonna Find True Love",
       "url": "https://open.spotify.com/track/4EoksISB2vqoRmbKyFms3x"
-    },
-    {
-      "added_at": "2021-11-11 14:02:18",
-      "album": {
-        "name": "Living All Alone",
-        "url": "https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD"
-      },
-      "artists": [
-        {
-          "name": "Phyllis Hyman",
-          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
-        }
-      ],
-      "duration_ms": 307786,
-      "name": "Living All Alone",
-      "url": "https://open.spotify.com/track/4nugpdIdJurNQXCDVei9WS"
     }
   ],
   "unique_name": "Sad Soul",

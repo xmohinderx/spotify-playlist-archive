@@ -4,7 +4,7 @@
 
 > Psyched\-out bands from the four corners of the world.
 
-228 songs - 18 hr 32 min - [published](https://open.spotify.com/playlist/2RHGcfs46V7xV3q5UtJeL9)
+230 songs - 18 hr 40 min - [published](https://open.spotify.com/playlist/2RHGcfs46V7xV3q5UtJeL9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,11 +60,12 @@
 | [Eclipse](https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [V.](https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk) | 6:23 | 2021-11-12 |  |
 | [Egypt](https://open.spotify.com/track/3vX1OAHdl2R8XAWDxffrqy) | [KYANOS](https://open.spotify.com/artist/3cUDiKFw3eDH0KnAoJBPGD) | [Egypt](https://open.spotify.com/album/31ZG86kVsR9TpKp80LaBLc) | 4:21 | 2022-04-12 |  |
 | [Ejefjallajökull](https://open.spotify.com/track/4gE0qgEcL3lxiiCnnenhC4) | [Flowers Must Die](https://open.spotify.com/artist/27P1oHX79UqesBdT17z28I) | [Där blommor dör](https://open.spotify.com/album/7jVX2uZskYhrvViAPqEQVq) | 8:49 | 2021-11-12 | 2022-07-23 |
+| [El Tiempo](https://open.spotify.com/track/2uKO2bIP3AtFxCZrUDmGlC) | [Flores](https://open.spotify.com/artist/25Wl3sHyhxXW8BsgcbpYSt) | [El Tiempo](https://open.spotify.com/album/0tchM8Ti4qw4TU7VjQC5Su) | 4:37 | 2022-08-29 |  |
 | [El Valle](https://open.spotify.com/track/20mxHuTlg65fP3sFB2zqBr) | [Derby Motoreta’s Burrito Kachimba](https://open.spotify.com/artist/1nRVWZrJJCFAfkRWtFFPj4) | [El Valle](https://open.spotify.com/album/7gN1tO9yniNjUwdJC3HBSa) | 3:05 | 2021-11-12 | 2022-07-29 |
-| [El Vehículo de las Transformaciones](https://open.spotify.com/track/7F4GU3OKcPJOgeLG1jrSrx) | [Mirror Revelations](https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9) | [El Vehículo de las Transformaciones](https://open.spotify.com/album/4gAHX2JkEm6RWRLw9cp4xd) | 5:52 | 2022-08-19 |  |
+| [El Vehículo de las Transformaciones](https://open.spotify.com/track/7F4GU3OKcPJOgeLG1jrSrx) | [Mirror Revelations](https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9) | [El Vehículo de las Transformaciones](https://open.spotify.com/album/4gAHX2JkEm6RWRLw9cp4xd) | 5:52 | 2022-08-19 | 2022-08-30 |
 | [Elephant](https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:31 | 2022-04-12 |  |
 | [End of the Night](https://open.spotify.com/track/1KHQli7MSz6ZdmR2M7uNxk) | [A Place To Bury Strangers](https://open.spotify.com/artist/3kx1S2P2Qq3a9bG4DGsAjR) | [End of the Night](https://open.spotify.com/album/3dmTLrm4e636PHdYIJHT0N) | 5:26 | 2021-11-12 | 2022-07-29 |
-| [Escultura Misterio](https://open.spotify.com/track/110XHKXij8NsQYcDiZk0cD) | [Tarik Rahim](https://open.spotify.com/artist/6G8dH1AvGAD1TOldBpAolN) | [Escultura Misterio](https://open.spotify.com/album/0JZld6b73MsZUKI1bg8KSc) | 2:53 | 2022-08-13 |  |
+| [Escultura Misterio](https://open.spotify.com/track/110XHKXij8NsQYcDiZk0cD) | [Tarik Rahim](https://open.spotify.com/artist/6G8dH1AvGAD1TOldBpAolN) | [Escultura Misterio](https://open.spotify.com/album/0JZld6b73MsZUKI1bg8KSc) | 2:53 | 2022-08-13 | 2022-08-30 |
 | [Estratagema](https://open.spotify.com/track/0hqCVbE0yN4Ta5o8wJSbOY) | [Strange Color](https://open.spotify.com/artist/31AXponRbJJncqwRJy8CEX) | [Estratagema](https://open.spotify.com/album/1uusJlOWHPGktNiwcNhUEG) | 6:39 | 2021-11-12 | 2022-07-16 |
 | [Eventually](https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 5:18 | 2022-03-18 |  |
 | [Fanfare for Effective Freedom](https://open.spotify.com/track/3oVZYXAb0rzN6MELLiFXPa) | [Horse Lords](https://open.spotify.com/artist/0Oslq5zLftqRVwKseBJ7MV) | [The Common Task](https://open.spotify.com/album/4K3Dv0nnMK10uxpphFNCco) | 7:21 | 2021-11-12 | 2022-07-29 |
@@ -90,7 +91,7 @@
 | [Honestly, I Wish That I Knew](https://open.spotify.com/track/0ituf2R01F0FCxNd2txq55) | [The Smoking Trees](https://open.spotify.com/artist/3ezwxaw7oMvs8MbjzhHkRJ) | [The Adventure Continues...](https://open.spotify.com/album/3BSMZ41ccuLGbR0lcmo8uD) | 2:40 | 2021-11-12 | 2022-07-20 |
 | [Honey](https://open.spotify.com/track/01IuTsgAlgKlgrvPhZ2c95) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Honey](https://open.spotify.com/album/0dEEs01PwyL7KQbhJsNJKQ) | 4:33 | 2021-11-12 | 2022-07-29 |
 | [Honey](https://open.spotify.com/track/0nObOnIxnz6PlPf04tZh1g) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [K.G.](https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo) | 4:33 | 2021-11-12 |  |
-| [Hours](https://open.spotify.com/track/6Yf4SLG6BFUMsPvm6Vol6o) | [Volleyball](https://open.spotify.com/artist/4Z6IMhEg0jI9fQe8VcXAok) | [Hours](https://open.spotify.com/album/316QBDbmZR0iwmLWKQf48Y) | 3:05 | 2022-08-13 |  |
+| [Hours](https://open.spotify.com/track/6Yf4SLG6BFUMsPvm6Vol6o) | [Volleyball](https://open.spotify.com/artist/4Z6IMhEg0jI9fQe8VcXAok) | [Hours](https://open.spotify.com/album/316QBDbmZR0iwmLWKQf48Y) | 3:05 | 2022-08-13 | 2022-08-30 |
 | [hua\(3\)](https://open.spotify.com/track/57znaLsNhGo2dNMK2oPiZu) | [Eupholks](https://open.spotify.com/artist/2yYhno6kAd33lPC1lLyS1o) | [hua\(3\)](https://open.spotify.com/album/60fPszZFgxX6fpYz3vYINi) | 3:00 | 2022-04-01 | 2022-07-26 |
 | [Human Touch](https://open.spotify.com/track/6bO1ZRc6JEvIhBgVQH4VPh) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Human Touch](https://open.spotify.com/album/7mTPROFhQbXPcVobbPXV3h) | 3:20 | 2021-11-12 | 2022-07-29 |
 | [I Fucked up I Was a Child](https://open.spotify.com/track/3Gv8uENEjjly7JASxPZ0GK) | [Les Big Byrd](https://open.spotify.com/artist/3g2slv6elrXxGnXqy7Q2ap) | [I Fucked up I Was a Child](https://open.spotify.com/album/2NqiM1M6rO9YxFFs2jJJgr) | 4:43 | 2021-11-12 | 2022-07-28 |
@@ -183,8 +184,9 @@
 | [Smoke and Mirrors](https://open.spotify.com/track/5skAQdEOEjdRVBcNtMtExs) | [Kikagaku Moyo](https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq) | [Forest of Lost Children](https://open.spotify.com/album/2dwNxD6zrwPkRJlr08WOKA) | 7:16 | 2021-11-12 |  |
 | [Snö\-Golem](https://open.spotify.com/track/2VAkRcPecdWmnZ658FAMdN) | [Les Big Byrd](https://open.spotify.com/artist/3g2slv6elrXxGnXqy7Q2ap) | [Snö\-Golem](https://open.spotify.com/album/0dXPcrmLcpF77e5waLyTh7) | 4:16 | 2021-11-12 | 2022-07-18 |
 | [Space Camel](https://open.spotify.com/track/432hUaMgylN4s4aqwn9KY5) | [Ouzo Bazooka](https://open.spotify.com/artist/2y1Se69lBJcw9GPYEJKQVj) | [Space Camel](https://open.spotify.com/album/6LrxA6OjDfJt7sGXvtyaFB) | 6:37 | 2021-11-12 | 2022-07-29 |
-| [Space Camel](https://open.spotify.com/track/6RKoe7UCtdONhVdo6625Lt) | [Ouzo Bazooka](https://open.spotify.com/artist/2y1Se69lBJcw9GPYEJKQVj) | [Transporter](https://open.spotify.com/album/6GSwsFG6B9fT0Ue7nnWuxe) | 6:37 | 2021-11-12 | 2022-08-01 |
+| [Space Camel](https://open.spotify.com/track/6RKoe7UCtdONhVdo6625Lt) | [Ouzo Bazooka](https://open.spotify.com/artist/2y1Se69lBJcw9GPYEJKQVj) | [Transporter](https://open.spotify.com/album/6GSwsFG6B9fT0Ue7nnWuxe) | 6:37 | 2021-11-12 |  |
 | [Spin](https://open.spotify.com/track/18Werbtn3J54qXLZO2dKyo) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Running](https://open.spotify.com/album/2HyRggDYNOCkvoB3bOlkCY) | 3:32 | 2022-04-22 | 2022-08-22 |
+| [Spin](https://open.spotify.com/track/31MLGEYrKwoTmMoH50JDEw) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Spin](https://open.spotify.com/album/6GejDhVjHKAmQnPkyW6csf) | 3:32 | 2022-04-22 |  |
 | [Spin](https://open.spotify.com/track/4dkszdiuRSiCj34twbJfT8) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Spin](https://open.spotify.com/album/1fj0ZE8UczqCmDhmBmS1kX) | 3:32 | 2022-04-22 | 2022-06-08 |
 | [Starlight](https://open.spotify.com/track/72LGBrJEnmMDFheT4xmjyS) | [Chad VanGaalen](https://open.spotify.com/artist/597yzFFRvWnxCtDInHwciZ) | [World's Most Stressed Out Gardener](https://open.spotify.com/album/4BxMHL4cGOv8gQad8pcJ43) | 3:59 | 2021-11-12 | 2022-07-26 |
 | [Station Europa](https://open.spotify.com/track/59jMq3TSZF3dhlCbbpNOtL) | [10 000 Russos](https://open.spotify.com/artist/2pkZFQGkxsNYlJK5jO4z3L) | [Station Europa](https://open.spotify.com/album/2spbDrHyznrc7jNtAJJp0j) | 5:18 | 2021-11-12 | 2022-07-14 |

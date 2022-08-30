@@ -4,7 +4,7 @@
 
 > Get up\. Stand up\. Be the revolution.
 
-129 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/3LESta3mpzYXIV0Vy0jKwT)
+131 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/3LESta3mpzYXIV0Vy0jKwT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Mercy](https://open.spotify.com/track/1QmhRaPMEMuYKRutxt9ond) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | [Mercy](https://open.spotify.com/album/1pw5musYA2A2FWpswW9rzK) | 3:25 | 2021-02-05 | 2022-07-29 |
 | [Mercy](https://open.spotify.com/track/4OSWIup9gKCkIdVvdkLEOE) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | [Child Of The State](https://open.spotify.com/album/7GGIqGci2fE3pMFdD8dI1y) | 3:25 | 2022-07-01 |  |
 | [Middle Fingers](https://open.spotify.com/track/1RgvTl4vQN4qECtnO1guEp) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [Loner](https://open.spotify.com/album/08iSi4GIyoDt2zSvNyru7M) | 3:35 | 2020-08-19 |  |
+| [Mirrors](https://open.spotify.com/track/4esDZrFzW7QEYBgYyFkd6y) | [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG) | [Fear](https://open.spotify.com/album/2fTbjcKyLjNYISmeXNMrn8) | 3:06 | 2022-07-01 |  |
 | [Mirrors](https://open.spotify.com/track/4oFyfXZgrirMQCwjhXGnj6) | [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG) | [Fear](https://open.spotify.com/album/4fu1vGlLFL0UVFnqZh6OB1) | 3:06 | 2020-08-19 | 2022-08-25 |
 | [Music in My Head](https://open.spotify.com/track/4K5DVRPZZ1ODCwHSNhIshu) | [KillRadio](https://open.spotify.com/artist/3ClupI4Qihar6Edme6SMFr) | [Election Year](https://open.spotify.com/album/4pT7zvZRbbZa20c3JVbIAI) | 3:23 | 2021-04-16 | 2022-06-01 |
 | [N.I.G.G.a\. \(Not OK\)](https://open.spotify.com/track/3GgT9XmJMThUxcRYaI58Kg) | [Radkey](https://open.spotify.com/artist/1egsOeSvcQyacni1rL6c4C) | [Cat & Mouse](https://open.spotify.com/album/5qEZVA8hye6yQrSXZY5WGO) | 3:54 | 2022-01-14 | 2022-05-31 |
@@ -96,13 +97,14 @@
 | [Power \(feat\. Frank Carter\)](https://open.spotify.com/track/1hoNvw0gHJTRYWuFRGuk8I) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU), [Frank Carter](https://open.spotify.com/artist/1DzJ1Edw9hfy8sVnkAnhCf) | [Foreign Language](https://open.spotify.com/album/60awL9wRAPqkETLzNgVGvi) | 1:52 | 2022-07-01 |  |
 | [Prophets Of Rage](https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg) | [Prophets Of Rage](https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY) | [Prophets Of Rage](https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j) | 3:10 | 2020-08-19 |  |
 | [Psycho](https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 5:16 | 2020-08-19 |  |
-| [Resistance](https://open.spotify.com/track/0pu3lMc2n982gfrBOy5880) | [Powerflo](https://open.spotify.com/artist/4s3biD1bXEb7I6QKsmKGZ3) | [Powerflo](https://open.spotify.com/album/5k4RJf18UyFQDsXaYsD1Cv) | 3:26 | 2020-08-19 |  |
+| [Resistance](https://open.spotify.com/track/0pu3lMc2n982gfrBOy5880) | [Powerflo](https://open.spotify.com/artist/4s3biD1bXEb7I6QKsmKGZ3) | [Powerflo](https://open.spotify.com/album/5k4RJf18UyFQDsXaYsD1Cv) | 3:26 | 2020-08-19 | 2022-08-30 |
 | [REV001](https://open.spotify.com/track/1848Fg5mU5Dk14CaahuasP) | [Refused](https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb) | [REV001](https://open.spotify.com/album/0zIkU9A6r0UjwIaIs2qMCg) | 3:10 | 2020-08-19 | 2022-07-29 |
 | [Revolt](https://open.spotify.com/track/6OpJmZltXIDFtdAroRWr0g) | [Fear No Empire](https://open.spotify.com/artist/3LwnLoAjOLhXnEyyQqCDuk) | [Revolt](https://open.spotify.com/album/66D9J9GPQ6r188tGdqyuw1) | 2:34 | 2020-08-19 | 2022-07-29 |
 | [Revolution](https://open.spotify.com/track/0ueQD7R66pzETMuAdKHKAc) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Imaginary Enemy](https://open.spotify.com/album/4IvMdTOYrnKv0a5edr6vVu) | 4:04 | 2020-08-19 | 2022-07-29 |
 | [Revolution](https://open.spotify.com/track/3er2yurebKOKZJR6H3IFTo) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Imaginary Enemy](https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT) | 4:04 | 2022-07-01 |  |
 | [Revolution Radio](https://open.spotify.com/track/3oqYMRKQcwyNmFn1VD2ukD) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Revolution Radio](https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV) | 3:00 | 2020-08-19 |  |
 | [Riot!](https://open.spotify.com/track/0RLasXfUaq0alAJVYhQ9s8) | [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG) | [Fear](https://open.spotify.com/album/4fu1vGlLFL0UVFnqZh6OB1) | 3:24 | 2020-08-19 | 2022-08-25 |
+| [Riot!](https://open.spotify.com/track/6dtEw6NRpYgHJ5PwnU5U1k) | [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG) | [Fear](https://open.spotify.com/album/2fTbjcKyLjNYISmeXNMrn8) | 3:24 | 2022-07-01 |  |
 | [Rise](https://open.spotify.com/track/7yniOnkRyjMmFXleGkG1ON) | [Sixx:A.M.](https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6) | [Prayers for the Damned](https://open.spotify.com/album/0hMPPqOR9n6XSia99Rw6t7) | 3:53 | 2020-08-19 |  |
 | [Rise Up](https://open.spotify.com/track/4B9xwFIN58Nn8ZtvssOqKf) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Rise Up](https://open.spotify.com/album/426j4dLXzZygBoi0rAzE0a) | 3:50 | 2020-08-19 |  |
 | [Save Us](https://open.spotify.com/track/2Y4lgpOT0sPU1TiTmsbpZh) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Save Us](https://open.spotify.com/album/6K7LntaUHeQnHdQZbOYWGT) | 2:21 | 2020-10-23 |  |
@@ -133,7 +135,7 @@
 | [We Fight](https://open.spotify.com/track/6hv6d8YnlBPuSnueUjxXny) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Crooked Shadows](https://open.spotify.com/album/0qByP4IV1nNHhLs3RfDrGB) | 3:24 | 2020-08-19 |  |
 | [We The People....](https://open.spotify.com/track/3wUX7HpXS382s1DHTRouVk) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [We got it from Here..\. Thank You 4 Your service](https://open.spotify.com/album/3WvQpufOsPzkZvcSuynCf3) | 2:52 | 2022-07-01 |  |
 | [We Won’t Go Back](https://open.spotify.com/track/1IdQoRuVaRyJlU5YwTLG3F) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8), [BIIANCO](https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt), [Autumn Rowe](https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH), [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [We Won’t Go Back](https://open.spotify.com/album/1CUsQWiNWr3LmAfB56Kpmm) | 3:20 | 2022-07-01 |  |
-| [Weather Strike](https://open.spotify.com/track/7o2Vk2ozntHju6LqFsXMjc) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [Weather Strike](https://open.spotify.com/album/5eEafds3DN8BfUNkojLR9Q) | 3:31 | 2021-04-30 |  |
+| [Weather Strike](https://open.spotify.com/track/7o2Vk2ozntHju6LqFsXMjc) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [Weather Strike](https://open.spotify.com/album/5eEafds3DN8BfUNkojLR9Q) | 3:31 | 2021-04-30 | 2022-08-30 |
 | [Won’t Stand Down](https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Won’t Stand Down](https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS) | 3:29 | 2022-01-14 |  |
 | [WRONG GENERATION](https://open.spotify.com/track/5NxcwsJjimdAoE7UtZm9Qd) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [WRONG GENERATION](https://open.spotify.com/album/0ENzm2HTf7mfFjWZ7CaB5u) | 2:22 | 2020-10-23 |  |
 | [WWYDF](https://open.spotify.com/track/52jC5QLj1sazMXPIxl68l0) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [You Will Not Be Saved](https://open.spotify.com/album/5Fv7nPEq5xHavK28lt8K5F) | 2:55 | 2020-08-19 |  |

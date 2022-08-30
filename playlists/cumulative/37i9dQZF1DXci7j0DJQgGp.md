@@ -4,14 +4,14 @@
 
 > The perfect playlist to just sit back and chill out with.
 
-337 songs - 21 hr 30 min - [published](https://open.spotify.com/playlist/1RrVDe6f3GZDanuaRyNhUC)
+338 songs - 21 hr 33 min - [published](https://open.spotify.com/playlist/1RrVDe6f3GZDanuaRyNhUC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(What's So Funny 'Bout\) Peace, Love and Understanding?](https://open.spotify.com/track/4QORWVieqLfAYYdbAdScHL) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe), [Josh Homme](https://open.spotify.com/artist/03xb2BUdIFzuRQ6o88yfCB) | [\(What's So Funny 'Bout\) Peace, Love and Understanding?](https://open.spotify.com/album/5MXBqDesl1ZcPL5ZilerUp) | 4:26 | 2021-12-17 | 2022-07-27 |
 | [00000 Million](https://open.spotify.com/track/2lJNtl3CiHlGlW9OJHftZo) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [22, A Million](https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl) | 3:53 | 2022-06-10 |  |
 | [00000 Million](https://open.spotify.com/track/7BdtdBfrIufJOOCdA0CeJC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [22, A Million](https://open.spotify.com/album/1PgfRdl3lPyACfUGH4pquG) | 3:53 | 2022-03-25 | 2022-04-21 |
-| [97 Avalon](https://open.spotify.com/track/37f1s7mlrRXKoHmFn53wmY) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [97 Avalon](https://open.spotify.com/album/1J7dujPQV4tAQpObLon2hb) | 6:04 | 2022-03-25 |  |
+| [97 Avalon](https://open.spotify.com/track/37f1s7mlrRXKoHmFn53wmY) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [97 Avalon](https://open.spotify.com/album/1J7dujPQV4tAQpObLon2hb) | 6:04 | 2022-03-25 | 2022-08-30 |
 | [Across That Fine Line](https://open.spotify.com/track/0naG5PyrfwJQ0xtuQ1BGCM) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [A Way Forward](https://open.spotify.com/album/2hPnsq6HZHcgkFlLclKrvv) | 5:25 | 2022-03-25 | 2022-04-21 |
 | [Alaska](https://open.spotify.com/track/3jfYDfrnp0dseGWZfa3jqt) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Alaska](https://open.spotify.com/album/4rFxEoG9PEDkONioOInJhy) | 2:05 | 2022-03-25 | 2022-04-20 |
 | [All About Our Love](https://open.spotify.com/track/6XVLpAZOhf5JebXLNJ7ozr) | [Mapache](https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO) | [All About Our Love](https://open.spotify.com/album/6YHWv7JPfofZCXBbh9xP5V) | 3:56 | 2021-12-17 | 2022-07-29 |
@@ -326,6 +326,7 @@
 | [Wake Up](https://open.spotify.com/track/2JLhVqWY3tzTwtjZXbUdnQ) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Wake Up](https://open.spotify.com/album/635iu3VXqCVPvUJvOoCDB9) | 3:36 | 2022-08-01 |  |
 | [Was Magician](https://open.spotify.com/track/20xcvYtUr0U0W6dZTxiRKv) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/0BophHCa4MkK5zg0oTZ0v4) | 4:26 | 2021-12-17 | 2022-04-21 |
 | [Wasted](https://open.spotify.com/track/097mtSzsgYwypHXRae7pNH) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Projections](https://open.spotify.com/album/6GfhbITp0mFMnuGVqzHxlJ) | 2:29 | 2021-12-17 | 2022-07-28 |
+| [Wasted](https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Projections](https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS) | 2:29 | 2022-08-01 |  |
 | [Waterfalls](https://open.spotify.com/track/6p8ZhmQS4fia0j93S2M3Fj) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [The Georgia EP](https://open.spotify.com/album/3stEKyV4hKU1G5yXtmDOaN) | 4:24 | 2021-12-17 |  |
 | [Way I Go](https://open.spotify.com/track/6v0X2SMVKK9gXHH9y6ilA4) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Way I Go](https://open.spotify.com/album/5YqVZuseoRLBTC5xoYVvFj) | 4:07 | 2022-06-10 | 2022-07-29 |
 | [We Don't Eat](https://open.spotify.com/track/6iS7MJoJZepa61CamN17v6) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Early In The Morning](https://open.spotify.com/album/5unOlor1gcgB9RudFRQul7) | 4:55 | 2022-03-25 | 2022-04-21 |

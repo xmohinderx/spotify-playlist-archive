@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest, freshest R&B tunes\.  Cover: CKAY
 
-[Spotify](https://open.spotify.com/user/spotify) - 920,307 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 920,524 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 73 | [trust \(feat\. RINI\)](https://open.spotify.com/track/6GJv5FTWGHWgl4uPdpc6O2) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [trust \(feat\. RINI\)](https://open.spotify.com/album/2p01yIsIKueoaEQ8SKG7Bh) | 3:17 |
 | 74 | [What I Want \(feat\. Jacquees\)](https://open.spotify.com/track/00E8NOIw0fzADMNrzyQfEY) | [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [What I Want \(feat\. Jacquees\)](https://open.spotify.com/album/35SGTgFnncFTZQ4RJyFfoU) | 3:29 |
 | 75 | [Is It Enough](https://open.spotify.com/track/5CiwHSUDf9C1Uv0r4nUVLd) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Is It Enough](https://open.spotify.com/album/6zmkcJhd5cv7pBrQYPDYfY) | 2:33 |
-| 76 | [Rollercoaster](https://open.spotify.com/track/4sciT4OOWK3iD41rtkrTYY) | [Jade Novah](https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Rollercoaster](https://open.spotify.com/album/6bTIVYkJDjjsSakD5nfLNa) | 3:33 |
+| 76 | [Rollercoaster](https://open.spotify.com/track/5nDNj7aBdekBb9X7h2Nugi) | [Jade Novah](https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Rollercoaster](https://open.spotify.com/album/4iS0UU37Huv1EJCRoZ0Ppx) | 3:33 |
 | 77 | [Odds](https://open.spotify.com/track/3gDIzJLAOIiFqcCXjcz8hp) | [Dave B.](https://open.spotify.com/artist/5bfqwcEcRrMhtY9smw3IeJ), [Da\-P](https://open.spotify.com/artist/4PKHlnz8cQ79kQ6kd3GufJ) | [it's not that deep](https://open.spotify.com/album/438o26Y0oRAh6vpyboYWQP) | 2:52 |
 | 78 | [2NLuv \(feat\. Benziboy\)](https://open.spotify.com/track/1UlkeNTAI6j9xon4RcEVT2) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq), [Benziboy](https://open.spotify.com/artist/2HVYZvpEGdadr91TCxyPW2) | [2NLuv \(feat\. Benziboy\)](https://open.spotify.com/album/6n4GEw9B0ssEHzRw19bdsg) | 2:50 |
 | 79 | [Alarming](https://open.spotify.com/track/2UoJrCdK3wjkRO5eI2Nq6E) | [Ojerime](https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0) | [Alarming](https://open.spotify.com/album/5kXCZPGdySsOUx6xhpVKFG) | 2:55 |
 | 80 | [Face Down](https://open.spotify.com/track/78XffyRIuVtqiYAZY6VzyW) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I) | [Face Down](https://open.spotify.com/album/4HHcIQeI1O1QouiYCzROZN) | 2:48 |
 
-Snapshot ID: `MTY2MTQ4NjY1MiwwMDAwMDAwMDk1ZDdlNGM2OGEzZWJiNTMzMzRjZDhhZWMyNzEyYmQ0`
+Snapshot ID: `MTY2MTQ4NjY1MiwwMDAwMDAwMGJiODgzODc4OWNlMzU0OGExODg3MGM3Mzc4Y2E5OWFi`

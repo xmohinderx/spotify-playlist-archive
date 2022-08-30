@@ -4,7 +4,7 @@
 
 > como en una nube\. Bedroom pop vibes featuring Clara Yolks.
 
-153 songs - 8 hr 38 min - [published](https://open.spotify.com/playlist/5bz3k8QNNTUrWUgar676qo)
+154 songs - 8 hr 41 min - [published](https://open.spotify.com/playlist/5bz3k8QNNTUrWUgar676qo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Anestesia](https://open.spotify.com/track/3gWes8gpaT8XOMLrr9eGyd) | [Norwayy](https://open.spotify.com/artist/2Oco3IVZNWcII3kGXRaNaU) | [Anestesia](https://open.spotify.com/album/0BdNIWzUx5QaG7VyfXE6QY) | 4:21 | 2022-03-25 | 2022-07-04 |
 | [aunque quisiera, no podría](https://open.spotify.com/track/2Eem56vLTyF2pi2T19AmvG) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [fuera de lugar](https://open.spotify.com/album/6Z73rP80ugJPA7zEhCitar) | 4:22 | 2022-03-25 | 2022-08-27 |
 | [Aura](https://open.spotify.com/track/3FcNx0xneevygzqjZaSDIo) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Aura](https://open.spotify.com/album/1i3MA9Eamgjk3SKYFo0zdn) | 3:27 | 2022-07-11 |  |
-| [Axis](https://open.spotify.com/track/3pvEEzySFpo6jsZ1W2cNOS) | [Natalia Spiner](https://open.spotify.com/artist/1sZOtmJhnHfBgjvkuW7sK6) | [Axis](https://open.spotify.com/album/00q0x8KcLoNQr5B5pLfPaT) | 3:53 | 2022-07-19 |  |
+| [Axis](https://open.spotify.com/track/3pvEEzySFpo6jsZ1W2cNOS) | [Natalia Spiner](https://open.spotify.com/artist/1sZOtmJhnHfBgjvkuW7sK6) | [Axis](https://open.spotify.com/album/00q0x8KcLoNQr5B5pLfPaT) | 3:53 | 2022-07-19 | 2022-08-30 |
 | [Bien](https://open.spotify.com/track/3WLeXmLujC9lnlT44aTvGR) | [Ev](https://open.spotify.com/artist/21EczEifDKebasemX58Jp8) | [Okay!](https://open.spotify.com/album/3ZYoorCmWoiAD8DgxrcrTW) | 4:02 | 2022-03-25 |  |
 | [Bijoux](https://open.spotify.com/track/2HAyheU6dVyB9YaokB56SW) | [Soap](https://open.spotify.com/artist/1XlQX9RnsbZuOm7gByAyIB) | [Bijoux](https://open.spotify.com/album/7gxGCdVpkDisfbfPfOD1qC) | 4:22 | 2022-03-25 |  |
 | [Bugambilias,](https://open.spotify.com/track/1zTt6hBP6e6SGJ1VZr4yvA) | [princesa cereza](https://open.spotify.com/artist/607kbpXirULyTo1jdRtooo) | [Bugambilias](https://open.spotify.com/album/3jYF4JJTog7jo3ihIq4y1c) | 4:06 | 2022-07-11 | 2022-08-11 |
@@ -151,6 +151,7 @@
 | [Unstoppable](https://open.spotify.com/track/47pbvBtWtt7aMHENsw8ehQ) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [Polaroid Paradise](https://open.spotify.com/album/10NBQIh2ZteCveetOTwx01) | 2:00 | 2022-07-25 |  |
 | [Veintidós](https://open.spotify.com/track/4rkbz2urwX685ssmVPmaoV) | [Casster](https://open.spotify.com/artist/46gSZfO9YHEQKTpKWrphhT) | [Veintidós](https://open.spotify.com/album/0qv7DYr1gbBZfpfnUH478t) | 3:11 | 2022-04-22 | 2022-07-17 |
 | [Verde Artificial](https://open.spotify.com/track/4ISo0mSJfcDi9tx2WBDCq9) | [raquel](https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB) | [Verde Artificial](https://open.spotify.com/album/5uzeX8BMNL4p4jDiRDJ9dF) | 4:04 | 2022-08-26 |  |
+| [Volver A Empezar](https://open.spotify.com/track/2UuR56kahTzNGArpn3PWEF) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Volver A Empezar](https://open.spotify.com/album/2u7Y1Qyval9xBgqWo26ivN) | 2:55 | 2022-08-26 |  |
 | [Vuelta en U](https://open.spotify.com/track/2uSQpyjWJpSaoxjc27VAZ3) | [Señor Kino](https://open.spotify.com/artist/2W0kFBz6nHARNF7A5KlWYG), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [Vuelta en U](https://open.spotify.com/album/2XQUbze1bkSR86N8XbAOEy) | 3:02 | 2022-04-18 |  |
 | [Vuelvo A Ti](https://open.spotify.com/track/0a5pyR7iQFtlRMBzHh8XQH) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Vuelvo A Ti](https://open.spotify.com/album/401HbqKVOPSIsIHCKIpKkp) | 3:07 | 2022-03-25 | 2022-06-25 |
 | [x 1 minuto](https://open.spotify.com/track/3br3NQQzQ6gyBNO87qimqN) | [Yellow Dudes](https://open.spotify.com/artist/2vy5oloPxplakUsZR3chVY) | [x 1 minuto](https://open.spotify.com/album/3zN9jgURM2rejkuctjl4W2) | 3:37 | 2022-03-25 | 2022-07-28 |

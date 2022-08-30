@@ -7826,6 +7826,28 @@
     },
     {
       "album": {
+        "name": "Mujer\u00f3n",
+        "url": "https://open.spotify.com/album/7yY1iOFMzA5Zv0cDvOJgjX"
+      },
+      "artists": [
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        },
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170721,
+      "name": "Mujer\u00f3n",
+      "url": "https://open.spotify.com/track/2F2kre9J0uxhoap5iQyCV0"
+    },
+    {
+      "album": {
         "name": "Mungkin Hari Ini Esok Atau Nanti",
         "url": "https://open.spotify.com/album/5b4SezUzb7AZedcatFbgcC"
       },
@@ -9365,7 +9387,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 221461,
       "name": "Plut\u00e3o",
       "url": "https://open.spotify.com/track/3ydmNkAyYq0AKtG8sTfE9P"
@@ -13901,7 +13923,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 225000,
       "name": "\u0e44\u0e14\u0e42\u0e19\u0e40\u0e2a\u0e32\u0e23\u0e4c\u0e44\u0e02\u0e48\u0e14\u0e32\u0e27\u0e1b\u0e32\u0e08\u0e31\u0e07\u0e01\u0e35\u0e49",
       "url": "https://open.spotify.com/track/7e285rnQ9CFxZaMmEtMuwG"
@@ -14331,7 +14353,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-27",
+      "date_removed": null,
       "duration_ms": 220962,
       "name": "\u5931\u91cd\u524d\u5e78\u798f",
       "url": "https://open.spotify.com/track/3SJgTyb8a7z66suw0kBZ0T"

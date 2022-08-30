@@ -1,12 +1,12 @@
 {
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
-  "num_followers": 73550,
+  "num_followers": 73530,
   "original_name": "Good People Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5OTE5MjEyMCwwMDAwMDAwMGJhZDBlMWY4N2QwY2NhYmU2NTYyZjBmMjI5MGM0YTg5",
+  "snapshot_id": "MTU5OTE5MjEyMCwwMDAwMDAwMGUwNmQyM2QwMzFkMGQzYzJmODE4MmNmNTM1N2FjYWY1",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -283,6 +283,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/3ZU0AW8kgxxyR48yUFUiK5"
+      },
+      "artists": [
+        {
+          "name": "Johnnyswim",
+          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
+        }
+      ],
+      "duration_ms": 216315,
+      "name": "Bridges",
+      "url": "https://open.spotify.com/track/3VPFV5Xj8QjXDJKl2rVce7"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Dragons",
         "url": "https://open.spotify.com/album/2eQQ5hpGJHFQW76nobnF31"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 209426,
       "name": "When Creation Was Young",
       "url": "https://open.spotify.com/track/4ZkZeQaJjmKuUPr7SOIjhU"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/3ZU0AW8kgxxyR48yUFUiK5"
-      },
-      "artists": [
-        {
-          "name": "Johnnyswim",
-          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
-        }
-      ],
-      "duration_ms": 216315,
-      "name": "Bridges",
-      "url": "https://open.spotify.com/track/3VPFV5Xj8QjXDJKl2rVce7"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Waters",
-        "url": "https://open.spotify.com/album/20gTNgwCNIZeIM08IstOmi"
-      },
-      "artists": [
-        {
-          "name": "Junior Garr",
-          "url": "https://open.spotify.com/artist/2wRZSDRny0AhA1Cup3sAh2"
-        }
-      ],
-      "duration_ms": 240630,
-      "name": "Waters",
-      "url": "https://open.spotify.com/track/44p22nZcu3acWIW8q7Qil8"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Jacob/HTBY",
         "url": "https://open.spotify.com/album/0N1w3fLvgtLH5h8lduHEVe"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 241066,
       "name": "Jacob",
       "url": "https://open.spotify.com/track/1UecChUYn2gXqlA8dDVRqO"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Waters",
+        "url": "https://open.spotify.com/album/20gTNgwCNIZeIM08IstOmi"
+      },
+      "artists": [
+        {
+          "name": "Junior Garr",
+          "url": "https://open.spotify.com/artist/2wRZSDRny0AhA1Cup3sAh2"
+        }
+      ],
+      "duration_ms": 240630,
+      "name": "Waters",
+      "url": "https://open.spotify.com/track/44p22nZcu3acWIW8q7Qil8"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "City of Black & White Revisited",
-        "url": "https://open.spotify.com/album/2QpByGx95I9XzccW9aNVtM"
-      },
-      "artists": [
-        {
-          "name": "Mat Kearney",
-          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
-        }
-      ],
-      "duration_ms": 225837,
-      "name": "City of Black & White",
-      "url": "https://open.spotify.com/track/33dVEqsu2V7zvCIgid8PnF"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Like Myself",
         "url": "https://open.spotify.com/album/3lP01xLRL4vQG0ZdeHAFuv"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 148571,
       "name": "Like Myself",
       "url": "https://open.spotify.com/track/05JvxrmX4XHchNxipO9Ssj"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "City of Black & White Revisited",
+        "url": "https://open.spotify.com/album/2QpByGx95I9XzccW9aNVtM"
+      },
+      "artists": [
+        {
+          "name": "Mat Kearney",
+          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
+        }
+      ],
+      "duration_ms": 225837,
+      "name": "City of Black & White",
+      "url": "https://open.spotify.com/track/33dVEqsu2V7zvCIgid8PnF"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -575,6 +575,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/6UQ4DtMNWgxw6ufVxjdXHF"
+      },
+      "artists": [
+        {
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+        }
+      ],
+      "duration_ms": 297506,
+      "name": "Harmony Hall",
+      "url": "https://open.spotify.com/track/2uoITMIoM5gCEpt3JucVmF"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Giants",
         "url": "https://open.spotify.com/album/2ik2fFjv7xdAAK3VP9P779"
       },
@@ -595,22 +611,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/6UQ4DtMNWgxw6ufVxjdXHF"
-      },
-      "artists": [
-        {
-          "name": "Switchfoot",
-          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
-        }
-      ],
-      "duration_ms": 297506,
-      "name": "Harmony Hall",
-      "url": "https://open.spotify.com/track/2uoITMIoM5gCEpt3JucVmF"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Pep Talks",
         "url": "https://open.spotify.com/album/5CuJb813nzBM4FMfTNByH9"
       },
@@ -627,22 +627,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/3iGGESom06TuNUHu6xIQJd"
-      },
-      "artists": [
-        {
-          "name": "Aalok Bala",
-          "url": "https://open.spotify.com/artist/5Uu7rkbI8eNOsGWFCp5sSM"
-        }
-      ],
-      "duration_ms": 201487,
-      "name": "I Love It",
-      "url": "https://open.spotify.com/track/5RE1GkL0Zt9Soasbt1R1xx"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "THRESHOLDS",
         "url": "https://open.spotify.com/album/5LBLcdPMnr1mwBRldKb3vs"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 211880,
       "name": "Go with You",
       "url": "https://open.spotify.com/track/4QVB1ZS4a15oz6md6YiSZV"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/3iGGESom06TuNUHu6xIQJd"
+      },
+      "artists": [
+        {
+          "name": "Aalok Bala",
+          "url": "https://open.spotify.com/artist/5Uu7rkbI8eNOsGWFCp5sSM"
+        }
+      ],
+      "duration_ms": 201487,
+      "name": "I Love It",
+      "url": "https://open.spotify.com/track/5RE1GkL0Zt9Soasbt1R1xx"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "God Who Sees Me",
-        "url": "https://open.spotify.com/album/0kaaq4b14mpk8kl4H0OUFE"
-      },
-      "artists": [
-        {
-          "name": "The Hedgerow Folk",
-          "url": "https://open.spotify.com/artist/3LBXtcf7iF5hyveaDJolc6"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "God Who Sees Me",
-      "url": "https://open.spotify.com/track/25NALshm4GZZkXd0gFmCLL"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Autumn Love",
         "url": "https://open.spotify.com/album/677rERahjwbsZZQNrg1tN4"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 295120,
       "name": "Autumn Love",
       "url": "https://open.spotify.com/track/2zzM0GO6lGiy4mXDZ7eEca"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "God Who Sees Me",
+        "url": "https://open.spotify.com/album/0kaaq4b14mpk8kl4H0OUFE"
+      },
+      "artists": [
+        {
+          "name": "The Hedgerow Folk",
+          "url": "https://open.spotify.com/artist/3LBXtcf7iF5hyveaDJolc6"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "God Who Sees Me",
+      "url": "https://open.spotify.com/track/25NALshm4GZZkXd0gFmCLL"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/2srdHwegmNXJf9g68h5vhs"
-      },
-      "artists": [
-        {
-          "name": "Emily Brimlow",
-          "url": "https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj"
-        }
-      ],
-      "duration_ms": 188092,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/0mT0NsnCx7jydlJ6bAKyyK"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Radiant (Shine Like Diamonds)",
         "url": "https://open.spotify.com/album/5G2zZlIJhCqKAT5Pjoqr2Y"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 241031,
       "name": "Radiant (Shine Like Diamonds)",
       "url": "https://open.spotify.com/track/1y6A6uJmgWWXyD9sO7iCtp"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/2srdHwegmNXJf9g68h5vhs"
+      },
+      "artists": [
+        {
+          "name": "Emily Brimlow",
+          "url": "https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj"
+        }
+      ],
+      "duration_ms": 188092,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/0mT0NsnCx7jydlJ6bAKyyK"
     },
     {
       "added_at": "2020-09-04 04:02:00",

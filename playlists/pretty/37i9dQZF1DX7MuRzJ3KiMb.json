@@ -1,12 +1,12 @@
 {
   "description": "el amor es <3",
-  "num_followers": 29879,
+  "num_followers": 29947,
   "original_name": "cursi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODI1Mjk4NCwwMDAwMDAwMGU2NTc1ZGQ1ODYwMWMyMjU3MWUwMjg4NzlhZmI0NTg1",
+  "snapshot_id": "MTY1ODI1Mjk4NCwwMDAwMDAwMDA3NDdjMThjMzI4MzA2MThjZTUyMzg1ZjI3M2I2NmM2",
   "tracks": [
     {
       "added_at": "2022-07-19 17:49:44",
@@ -715,6 +715,22 @@
     {
       "added_at": "2022-07-19 17:49:44",
       "album": {
+        "name": "El Mejor Lugar",
+        "url": "https://open.spotify.com/album/7FaJGC4pNapPjJaZlrqIme"
+      },
+      "artists": [
+        {
+          "name": "Juan Vegas",
+          "url": "https://open.spotify.com/artist/5JPAV8i80oNekuSSZoFQ1G"
+        }
+      ],
+      "duration_ms": 175214,
+      "name": "El Mejor Lugar",
+      "url": "https://open.spotify.com/track/6icYplg6aqvnUqNnYkHbbS"
+    },
+    {
+      "added_at": "2022-07-19 17:49:44",
+      "album": {
         "name": "Para Verte",
         "url": "https://open.spotify.com/album/43b9yizo1mckUfWgItr7nk"
       },
@@ -747,6 +763,22 @@
     {
       "added_at": "2022-07-19 17:49:44",
       "album": {
+        "name": "Bolero Estelar",
+        "url": "https://open.spotify.com/album/5m0fMRnEneLg8pZaoL9F4E"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 238406,
+      "name": "Bolero Estelar",
+      "url": "https://open.spotify.com/track/46ZNN9JUQFl0LXiTLKKkMZ"
+    },
+    {
+      "added_at": "2022-07-19 17:49:44",
+      "album": {
         "name": "En Vivo Desde Tu Nostalgia",
         "url": "https://open.spotify.com/album/56mFqd2JHQKSnOhiS6qVed"
       },
@@ -763,6 +795,22 @@
       "duration_ms": 224965,
       "name": "Diez Pasos Hacia Ti - En Vivo",
       "url": "https://open.spotify.com/track/0ROD7JL2jEvfmq2HdeINUH"
+    },
+    {
+      "added_at": "2022-07-19 17:49:44",
+      "album": {
+        "name": "Lugares Imaginarios",
+        "url": "https://open.spotify.com/album/6rNBDcsHr2MgGzkcDSKenA"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Campos",
+          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
+        }
+      ],
+      "duration_ms": 191141,
+      "name": "Amen\u00e1bar",
+      "url": "https://open.spotify.com/track/0xAwIlQCT43PGCe0BLnzr5"
     },
     {
       "added_at": "2022-07-19 17:49:44",
@@ -787,38 +835,6 @@
     {
       "added_at": "2022-07-19 17:49:44",
       "album": {
-        "name": "Lugares Imaginarios",
-        "url": "https://open.spotify.com/album/6rNBDcsHr2MgGzkcDSKenA"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Campos",
-          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
-        }
-      ],
-      "duration_ms": 191141,
-      "name": "Amen\u00e1bar",
-      "url": "https://open.spotify.com/track/0xAwIlQCT43PGCe0BLnzr5"
-    },
-    {
-      "added_at": "2022-07-19 17:49:44",
-      "album": {
-        "name": "Bolero Estelar",
-        "url": "https://open.spotify.com/album/5m0fMRnEneLg8pZaoL9F4E"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 238406,
-      "name": "Bolero Estelar",
-      "url": "https://open.spotify.com/track/46ZNN9JUQFl0LXiTLKKkMZ"
-    },
-    {
-      "added_at": "2022-07-19 17:49:44",
-      "album": {
         "name": "A Mi Ritmo",
         "url": "https://open.spotify.com/album/0kZuOQA9W3hC6j3nhYxuUX"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 186883,
       "name": "A Mi Ritmo",
       "url": "https://open.spotify.com/track/51h83YT521kYxTLng0FyRv"
-    },
-    {
-      "added_at": "2022-07-19 17:49:44",
-      "album": {
-        "name": "El Mejor Lugar",
-        "url": "https://open.spotify.com/album/7FaJGC4pNapPjJaZlrqIme"
-      },
-      "artists": [
-        {
-          "name": "Juan Vegas",
-          "url": "https://open.spotify.com/artist/5JPAV8i80oNekuSSZoFQ1G"
-        }
-      ],
-      "duration_ms": 175214,
-      "name": "El Mejor Lugar",
-      "url": "https://open.spotify.com/track/6icYplg6aqvnUqNnYkHbbS"
     },
     {
       "added_at": "2022-07-19 17:49:44",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-07-19 17:49:44",
       "album": {
-        "name": "L\u00ednea Recta",
-        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        }
-      ],
-      "duration_ms": 182760,
-      "name": "Pasatiempo",
-      "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
-    },
-    {
-      "added_at": "2022-07-19 17:49:44",
-      "album": {
         "name": "Se\u00f1orita",
         "url": "https://open.spotify.com/album/6j6DsW88KYbKSe7qrzJLPE"
       },
@@ -903,22 +887,6 @@
       "duration_ms": 209866,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/7IOwZ2dsEZCg2NCeX7MCsm"
-    },
-    {
-      "added_at": "2022-07-19 17:49:44",
-      "album": {
-        "name": "Eres T\u00fa (Cap. 6: Miedo a la Soledad)",
-        "url": "https://open.spotify.com/album/41a1fgIzvZXpIas6XdsxsZ"
-      },
-      "artists": [
-        {
-          "name": "Kari",
-          "url": "https://open.spotify.com/artist/4g995OkDaX98GUjFyZyuRu"
-        }
-      ],
-      "duration_ms": 182542,
-      "name": "Eres T\u00fa (Cap. 6: Miedo a la Soledad)",
-      "url": "https://open.spotify.com/track/0D259G1Rm5x1r0YWept67t"
     },
     {
       "added_at": "2022-07-19 17:49:44",
@@ -939,6 +907,38 @@
       "duration_ms": 176042,
       "name": "NTDDP",
       "url": "https://open.spotify.com/track/2qcwhO9GA5CgOtgtvWW0Wa"
+    },
+    {
+      "added_at": "2022-07-19 17:49:44",
+      "album": {
+        "name": "L\u00ednea Recta",
+        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "duration_ms": 182760,
+      "name": "Pasatiempo",
+      "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
+    },
+    {
+      "added_at": "2022-07-19 17:49:44",
+      "album": {
+        "name": "Eres T\u00fa (Cap. 6: Miedo a la Soledad)",
+        "url": "https://open.spotify.com/album/41a1fgIzvZXpIas6XdsxsZ"
+      },
+      "artists": [
+        {
+          "name": "Kari",
+          "url": "https://open.spotify.com/artist/4g995OkDaX98GUjFyZyuRu"
+        }
+      ],
+      "duration_ms": 182542,
+      "name": "Eres T\u00fa (Cap. 6: Miedo a la Soledad)",
+      "url": "https://open.spotify.com/track/0D259G1Rm5x1r0YWept67t"
     },
     {
       "added_at": "2022-07-19 17:49:44",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-07-19 17:49:44",
       "album": {
-        "name": "Flor De Michoac\u00e1n",
-        "url": "https://open.spotify.com/album/71f7JogsMnad5Leg4XeZr9"
-      },
-      "artists": [
-        {
-          "name": "Menny Flores",
-          "url": "https://open.spotify.com/artist/5iV6pocuYqWg9Cx5JQNyJV"
-        }
-      ],
-      "duration_ms": 181373,
-      "name": "Nada Me Falta (Welcome To Tijuana)",
-      "url": "https://open.spotify.com/track/09jNjdtBWKxSFLaIMN85mv"
-    },
-    {
-      "added_at": "2022-07-19 17:49:44",
-      "album": {
         "name": "Navegando",
         "url": "https://open.spotify.com/album/1dExVI7g7HBba3243F7XRy"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 236013,
       "name": "La Del Campo De Fresas",
       "url": "https://open.spotify.com/track/21xwVpmT4Jp9DcJHsm5AoG"
+    },
+    {
+      "added_at": "2022-07-19 17:49:44",
+      "album": {
+        "name": "Flor De Michoac\u00e1n",
+        "url": "https://open.spotify.com/album/71f7JogsMnad5Leg4XeZr9"
+      },
+      "artists": [
+        {
+          "name": "Menny Flores",
+          "url": "https://open.spotify.com/artist/5iV6pocuYqWg9Cx5JQNyJV"
+        }
+      ],
+      "duration_ms": 181373,
+      "name": "Nada Me Falta (Welcome To Tijuana)",
+      "url": "https://open.spotify.com/track/09jNjdtBWKxSFLaIMN85mv"
     },
     {
       "added_at": "2022-07-19 17:49:44",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2022-07-19 17:49:44",
       "album": {
+        "name": "Alguien Como T\u00fa",
+        "url": "https://open.spotify.com/album/1iTbNUit81UbxYbMRteBlL"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 237978,
+      "name": "Alguien Como T\u00fa",
+      "url": "https://open.spotify.com/track/29c3Pm5ChGMesIzZFUsCpE"
+    },
+    {
+      "added_at": "2022-07-19 17:49:44",
+      "album": {
         "name": "Mientras Duermes",
         "url": "https://open.spotify.com/album/5Gv3HrGr085Rv4Fc2uuMm3"
       },
@@ -1079,6 +1095,22 @@
       "duration_ms": 219610,
       "name": "Mientras Duermes",
       "url": "https://open.spotify.com/track/1HZNMsGylrBnAuHkRMLl8O"
+    },
+    {
+      "added_at": "2022-07-19 17:49:44",
+      "album": {
+        "name": "Florecer",
+        "url": "https://open.spotify.com/album/2YnrkkeJjgfytLHTHFn1h9"
+      },
+      "artists": [
+        {
+          "name": "Nicoletta Spinelli",
+          "url": "https://open.spotify.com/artist/69hYMQ2gjsvpxbOwUNzwLj"
+        }
+      ],
+      "duration_ms": 203104,
+      "name": "Florecer",
+      "url": "https://open.spotify.com/track/2SklPsEziKcI9DffEW65Vz"
     },
     {
       "added_at": "2022-07-19 17:49:44",
@@ -1103,22 +1135,6 @@
     {
       "added_at": "2022-07-19 17:49:44",
       "album": {
-        "name": "Florecer",
-        "url": "https://open.spotify.com/album/2YnrkkeJjgfytLHTHFn1h9"
-      },
-      "artists": [
-        {
-          "name": "Nicoletta Spinelli",
-          "url": "https://open.spotify.com/artist/69hYMQ2gjsvpxbOwUNzwLj"
-        }
-      ],
-      "duration_ms": 203104,
-      "name": "Florecer",
-      "url": "https://open.spotify.com/track/2SklPsEziKcI9DffEW65Vz"
-    },
-    {
-      "added_at": "2022-07-19 17:49:44",
-      "album": {
         "name": "Manu",
         "url": "https://open.spotify.com/album/1AHtUvxkQIQa1DoG2E12BX"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 174301,
       "name": "Quiero",
       "url": "https://open.spotify.com/track/3xTsbdwJXLYuIusD0gM2Ue"
-    },
-    {
-      "added_at": "2022-07-19 17:49:44",
-      "album": {
-        "name": "Alguien Como T\u00fa",
-        "url": "https://open.spotify.com/album/1iTbNUit81UbxYbMRteBlL"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 237978,
-      "name": "Alguien Como T\u00fa",
-      "url": "https://open.spotify.com/track/29c3Pm5ChGMesIzZFUsCpE"
     },
     {
       "added_at": "2022-07-19 17:49:44",

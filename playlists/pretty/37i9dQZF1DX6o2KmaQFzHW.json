@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicos del folklore argentino de la mano de sus m\u00e1s grandes int\u00e9rpretes. Foto: Chaque\u00f1o Palavecino.",
-  "num_followers": 147045,
+  "num_followers": 147078,
   "original_name": "Folklore de Siempre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjI2NywwMDAwMDAwMDJlNmZkNWZjM2UwN2VhMmY5NTE1MDM2Njc2MDQyYTY3",
+  "snapshot_id": "MTY1MDkxNjI2NywwMDAwMDAwMDhjNmIyNDQ4MWE0YTNkZDRlNThlM2U0ZjE3OTAyMjg1",
   "tracks": [
     {
       "added_at": "2022-02-21 19:44:42",
@@ -155,6 +155,26 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
+        "name": "Cantora",
+        "url": "https://open.spotify.com/album/0GEdAkGPf0hOqaHtg6arIl"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        },
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        }
+      ],
+      "duration_ms": 302453,
+      "name": "Zamba para Olvidarte (with Diego Torres)",
+      "url": "https://open.spotify.com/track/6LLOYYePoJZs8Gy7FmoZ7o"
+    },
+    {
+      "added_at": "2022-02-21 19:44:42",
+      "album": {
         "name": "Amor Salvaje",
         "url": "https://open.spotify.com/album/6GtBjRg2ZceYWVd7KJjSG7"
       },
@@ -207,26 +227,6 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
-        "name": "Cantora",
-        "url": "https://open.spotify.com/album/0GEdAkGPf0hOqaHtg6arIl"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        },
-        {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
-        }
-      ],
-      "duration_ms": 302453,
-      "name": "Zamba para Olvidarte (with Diego Torres)",
-      "url": "https://open.spotify.com/track/6LLOYYePoJZs8Gy7FmoZ7o"
-    },
-    {
-      "added_at": "2022-02-21 19:44:42",
-      "album": {
         "name": "\u00c9xitos Sin Fronteras",
         "url": "https://open.spotify.com/album/3SGF45hToDUlV5Gvurtmp7"
       },
@@ -259,34 +259,18 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
-        "name": "Horacio Guarany",
-        "url": "https://open.spotify.com/album/7aD2UhWw7u2wqK23hVKpsT"
+        "name": "Chaque\u00f1adas",
+        "url": "https://open.spotify.com/album/6R49gTlWLOhwKDnw95olcP"
       },
       "artists": [
         {
-          "name": "Horacio Guarany",
-          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
+          "name": "Chaque\u00f1o Palavecino",
+          "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
         }
       ],
-      "duration_ms": 207320,
-      "name": "Del Chucaro",
-      "url": "https://open.spotify.com/track/2WHKDp4K8OXB6zsmZ7yIGu"
-    },
-    {
-      "added_at": "2022-02-21 19:44:42",
-      "album": {
-        "name": "Navega",
-        "url": "https://open.spotify.com/album/6EnBUygxpoTiTTA6z0xhCx"
-      },
-      "artists": [
-        {
-          "name": "Jorge Fandermole",
-          "url": "https://open.spotify.com/artist/4l6qncc7ne4yU7z9i1Mtet"
-        }
-      ],
-      "duration_ms": 306586,
-      "name": "Oraci\u00f3n del remanso",
-      "url": "https://open.spotify.com/track/2RJgedUGuVZTMRRjQzRnWd"
+      "duration_ms": 149346,
+      "name": "A Don Amancio",
+      "url": "https://open.spotify.com/track/4S7TxyUNJzGNg9asjU954f"
     },
     {
       "added_at": "2022-02-21 19:44:42",
@@ -307,18 +291,18 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
-        "name": "La Llave",
-        "url": "https://open.spotify.com/album/3FhFLJcOQ3xuECoy24Dpe6"
+        "name": "Horacio Guarany",
+        "url": "https://open.spotify.com/album/7aD2UhWw7u2wqK23hVKpsT"
       },
       "artists": [
         {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+          "name": "Horacio Guarany",
+          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
         }
       ],
-      "duration_ms": 230093,
-      "name": "Todo Est\u00e1 en Vos",
-      "url": "https://open.spotify.com/track/3m0iTs6YcT467EhgWMequG"
+      "duration_ms": 207320,
+      "name": "Del Chucaro",
+      "url": "https://open.spotify.com/track/2WHKDp4K8OXB6zsmZ7yIGu"
     },
     {
       "added_at": "2022-02-21 19:44:42",
@@ -343,22 +327,6 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
-        "name": "Chaque\u00f1adas",
-        "url": "https://open.spotify.com/album/6R49gTlWLOhwKDnw95olcP"
-      },
-      "artists": [
-        {
-          "name": "Chaque\u00f1o Palavecino",
-          "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
-        }
-      ],
-      "duration_ms": 149346,
-      "name": "A Don Amancio",
-      "url": "https://open.spotify.com/track/4S7TxyUNJzGNg9asjU954f"
-    },
-    {
-      "added_at": "2022-02-21 19:44:42",
-      "album": {
         "name": "Signos",
         "url": "https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q"
       },
@@ -371,6 +339,22 @@
       "duration_ms": 161160,
       "name": "Chacarera Del Rancho",
       "url": "https://open.spotify.com/track/7FxhDl2TtdtWa7P490QGTS"
+    },
+    {
+      "added_at": "2022-02-21 19:44:42",
+      "album": {
+        "name": "Navega",
+        "url": "https://open.spotify.com/album/6EnBUygxpoTiTTA6z0xhCx"
+      },
+      "artists": [
+        {
+          "name": "Jorge Fandermole",
+          "url": "https://open.spotify.com/artist/4l6qncc7ne4yU7z9i1Mtet"
+        }
+      ],
+      "duration_ms": 306586,
+      "name": "Oraci\u00f3n del remanso",
+      "url": "https://open.spotify.com/track/2RJgedUGuVZTMRRjQzRnWd"
     },
     {
       "added_at": "2022-02-21 19:44:42",
@@ -395,66 +379,18 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
-        "name": "Idolo De Multitudes",
-        "url": "https://open.spotify.com/album/6Vz1jhm0zmxs7oz2OOadaN"
+        "name": "La Llave",
+        "url": "https://open.spotify.com/album/3FhFLJcOQ3xuECoy24Dpe6"
       },
       "artists": [
         {
-          "name": "Horacio Guarany",
-          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
         }
       ],
-      "duration_ms": 250120,
-      "name": "La Villerita",
-      "url": "https://open.spotify.com/track/4lfw4m1ovrPVi2OeaY9FEh"
-    },
-    {
-      "added_at": "2022-02-21 19:44:42",
-      "album": {
-        "name": "Poncho Al Viento",
-        "url": "https://open.spotify.com/album/5lE01dF2K4sLVwlVfoP124"
-      },
-      "artists": [
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-        }
-      ],
-      "duration_ms": 155120,
-      "name": "Entre A Mi Pago Sin Golpear",
-      "url": "https://open.spotify.com/track/6W5nrs6SqETt1et20bTtFa"
-    },
-    {
-      "added_at": "2022-02-21 19:44:42",
-      "album": {
-        "name": "La Fiesta del Violinero",
-        "url": "https://open.spotify.com/album/63O1KYHdzlbS66klVJbXiL"
-      },
-      "artists": [
-        {
-          "name": "N\u00e9stor Garnica",
-          "url": "https://open.spotify.com/artist/5MJFjxBEw8HCzFvYhYMs5w"
-        }
-      ],
-      "duration_ms": 180640,
-      "name": "El Olvidao",
-      "url": "https://open.spotify.com/track/5nWttGi56oq0TQjSfW6vnV"
-    },
-    {
-      "added_at": "2022-02-21 19:44:42",
-      "album": {
-        "name": "30 a\u00f1os",
-        "url": "https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        }
-      ],
-      "duration_ms": 145321,
-      "name": "Duerme, Negrito",
-      "url": "https://open.spotify.com/track/63T6KFdH7wzrwXGjNrHQM8"
+      "duration_ms": 230093,
+      "name": "Todo Est\u00e1 en Vos",
+      "url": "https://open.spotify.com/track/3m0iTs6YcT467EhgWMequG"
     },
     {
       "added_at": "2022-02-21 19:44:42",
@@ -475,18 +411,18 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
-        "name": "Hernan Figueroa Reyes El Unico",
-        "url": "https://open.spotify.com/album/1R1AaAeSP5aOfX6Sai5Lk7"
+        "name": "Poncho Al Viento",
+        "url": "https://open.spotify.com/album/5lE01dF2K4sLVwlVfoP124"
       },
       "artists": [
         {
-          "name": "Hernan Figueroa Reyes",
-          "url": "https://open.spotify.com/artist/4uIoOdivSAzUdJB8CTfP8S"
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
         }
       ],
-      "duration_ms": 168948,
-      "name": "El Corralero",
-      "url": "https://open.spotify.com/track/4aQnqYqxg3JlDz2CyS1aap"
+      "duration_ms": 155120,
+      "name": "Entre A Mi Pago Sin Golpear",
+      "url": "https://open.spotify.com/track/6W5nrs6SqETt1et20bTtFa"
     },
     {
       "added_at": "2022-02-21 19:44:42",
@@ -507,6 +443,54 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
+        "name": "La Fiesta del Violinero",
+        "url": "https://open.spotify.com/album/63O1KYHdzlbS66klVJbXiL"
+      },
+      "artists": [
+        {
+          "name": "N\u00e9stor Garnica",
+          "url": "https://open.spotify.com/artist/5MJFjxBEw8HCzFvYhYMs5w"
+        }
+      ],
+      "duration_ms": 180640,
+      "name": "El Olvidao",
+      "url": "https://open.spotify.com/track/5nWttGi56oq0TQjSfW6vnV"
+    },
+    {
+      "added_at": "2022-02-21 19:44:42",
+      "album": {
+        "name": "Idolo De Multitudes",
+        "url": "https://open.spotify.com/album/6Vz1jhm0zmxs7oz2OOadaN"
+      },
+      "artists": [
+        {
+          "name": "Horacio Guarany",
+          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
+        }
+      ],
+      "duration_ms": 250120,
+      "name": "La Villerita",
+      "url": "https://open.spotify.com/track/4lfw4m1ovrPVi2OeaY9FEh"
+    },
+    {
+      "added_at": "2022-02-21 19:44:42",
+      "album": {
+        "name": "30 a\u00f1os",
+        "url": "https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "duration_ms": 145321,
+      "name": "Duerme, Negrito",
+      "url": "https://open.spotify.com/track/63T6KFdH7wzrwXGjNrHQM8"
+    },
+    {
+      "added_at": "2022-02-21 19:44:42",
+      "album": {
         "name": "Serie Platino",
         "url": "https://open.spotify.com/album/6dOjBEMjKsBu498Zxs2a5f"
       },
@@ -523,18 +507,34 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
-        "name": "Horacio Guarany",
-        "url": "https://open.spotify.com/album/7aD2UhWw7u2wqK23hVKpsT"
+        "name": "Hernan Figueroa Reyes El Unico",
+        "url": "https://open.spotify.com/album/1R1AaAeSP5aOfX6Sai5Lk7"
       },
       "artists": [
         {
-          "name": "Horacio Guarany",
-          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
+          "name": "Hernan Figueroa Reyes",
+          "url": "https://open.spotify.com/artist/4uIoOdivSAzUdJB8CTfP8S"
         }
       ],
-      "duration_ms": 131066,
-      "name": "Caballo Que No Galopa",
-      "url": "https://open.spotify.com/track/2CljEveFdykiGGUOgg7djM"
+      "duration_ms": 168948,
+      "name": "El Corralero",
+      "url": "https://open.spotify.com/track/4aQnqYqxg3JlDz2CyS1aap"
+    },
+    {
+      "added_at": "2022-02-21 19:44:42",
+      "album": {
+        "name": "30 A\u00f1os Con el Canto",
+        "url": "https://open.spotify.com/album/10WOUoHlzhyTLKhMJdVP0x"
+      },
+      "artists": [
+        {
+          "name": "Los Manseros Santiague\u00f1os",
+          "url": "https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2"
+        }
+      ],
+      "duration_ms": 173733,
+      "name": "Para los Ojos M\u00e1s Bellos",
+      "url": "https://open.spotify.com/track/4w9ax8d0trOBzXX36a9rEe"
     },
     {
       "added_at": "2022-02-21 19:44:42",
@@ -551,6 +551,22 @@
       "duration_ms": 210400,
       "name": "El Arriero",
       "url": "https://open.spotify.com/track/0DDk5QBU6Fsj4OtaDNHtfa"
+    },
+    {
+      "added_at": "2022-02-21 19:44:42",
+      "album": {
+        "name": "Este Destino Cantor",
+        "url": "https://open.spotify.com/album/0vWwV6hypRxfLP77X58CI3"
+      },
+      "artists": [
+        {
+          "name": "Jorge Cafrune",
+          "url": "https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38"
+        }
+      ],
+      "duration_ms": 214386,
+      "name": "Mi Luna Cautiva",
+      "url": "https://open.spotify.com/track/10md0ULrtvH4fGhPKmknPq"
     },
     {
       "added_at": "2022-02-21 19:44:42",
@@ -579,66 +595,18 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
-        "name": "30 A\u00f1os Con el Canto",
-        "url": "https://open.spotify.com/album/10WOUoHlzhyTLKhMJdVP0x"
+        "name": "Juan de la Calle",
+        "url": "https://open.spotify.com/album/5iyWMUhjSEU7av1IYKLJ1a"
       },
       "artists": [
         {
-          "name": "Los Manseros Santiague\u00f1os",
-          "url": "https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2"
+          "name": "Chaque\u00f1o Palavecino",
+          "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
         }
       ],
-      "duration_ms": 173733,
-      "name": "Para los Ojos M\u00e1s Bellos",
-      "url": "https://open.spotify.com/track/4w9ax8d0trOBzXX36a9rEe"
-    },
-    {
-      "added_at": "2022-02-21 19:44:42",
-      "album": {
-        "name": "Este Destino Cantor",
-        "url": "https://open.spotify.com/album/0vWwV6hypRxfLP77X58CI3"
-      },
-      "artists": [
-        {
-          "name": "Jorge Cafrune",
-          "url": "https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38"
-        }
-      ],
-      "duration_ms": 214386,
-      "name": "Mi Luna Cautiva",
-      "url": "https://open.spotify.com/track/10md0ULrtvH4fGhPKmknPq"
-    },
-    {
-      "added_at": "2022-02-21 19:44:42",
-      "album": {
-        "name": "Para Que Vuelvas",
-        "url": "https://open.spotify.com/album/1YzBnvHJKVVTHvJqnmyL3n"
-      },
-      "artists": [
-        {
-          "name": "Hernan Figueroa Reyes",
-          "url": "https://open.spotify.com/artist/4uIoOdivSAzUdJB8CTfP8S"
-        }
-      ],
-      "duration_ms": 182200,
-      "name": "Criollita Santiague\u00f1a",
-      "url": "https://open.spotify.com/track/5rux26qMQRfEEO4W3eJS9X"
-    },
-    {
-      "added_at": "2022-02-21 19:44:42",
-      "album": {
-        "name": "Chango",
-        "url": "https://open.spotify.com/album/1gNaGgEmk8a9rH2eRExnKV"
-      },
-      "artists": [
-        {
-          "name": "Raly Barrionuevo",
-          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
-        }
-      ],
-      "duration_ms": 231733,
-      "name": "Zamba de Abril",
-      "url": "https://open.spotify.com/track/71l747KWxSIlCOiKbtBokH"
+      "duration_ms": 192026,
+      "name": "Juan de la Calle",
+      "url": "https://open.spotify.com/track/5IX9B2J3JzHw3xyzCk266i"
     },
     {
       "added_at": "2022-02-21 19:44:42",
@@ -659,18 +627,50 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
-        "name": "Juan de la Calle",
-        "url": "https://open.spotify.com/album/5iyWMUhjSEU7av1IYKLJ1a"
+        "name": "Horacio Guarany",
+        "url": "https://open.spotify.com/album/7aD2UhWw7u2wqK23hVKpsT"
       },
       "artists": [
         {
-          "name": "Chaque\u00f1o Palavecino",
-          "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
+          "name": "Horacio Guarany",
+          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
         }
       ],
-      "duration_ms": 192026,
-      "name": "Juan de la Calle",
-      "url": "https://open.spotify.com/track/5IX9B2J3JzHw3xyzCk266i"
+      "duration_ms": 131066,
+      "name": "Caballo Que No Galopa",
+      "url": "https://open.spotify.com/track/2CljEveFdykiGGUOgg7djM"
+    },
+    {
+      "added_at": "2022-02-21 19:44:42",
+      "album": {
+        "name": "Chango",
+        "url": "https://open.spotify.com/album/1gNaGgEmk8a9rH2eRExnKV"
+      },
+      "artists": [
+        {
+          "name": "Raly Barrionuevo",
+          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
+        }
+      ],
+      "duration_ms": 231733,
+      "name": "Zamba de Abril",
+      "url": "https://open.spotify.com/track/71l747KWxSIlCOiKbtBokH"
+    },
+    {
+      "added_at": "2022-02-21 19:44:42",
+      "album": {
+        "name": "Para Que Vuelvas",
+        "url": "https://open.spotify.com/album/1YzBnvHJKVVTHvJqnmyL3n"
+      },
+      "artists": [
+        {
+          "name": "Hernan Figueroa Reyes",
+          "url": "https://open.spotify.com/artist/4uIoOdivSAzUdJB8CTfP8S"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "Criollita Santiague\u00f1a",
+      "url": "https://open.spotify.com/track/5rux26qMQRfEEO4W3eJS9X"
     },
     {
       "added_at": "2022-02-21 19:44:42",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
-        "name": "Zambas Inolvidables Y Una Canci\u00f3n Al Vino",
-        "url": "https://open.spotify.com/album/1EpLxDhlOpSzCCg6FiZ1Wz"
-      },
-      "artists": [
-        {
-          "name": "Horacio Guarany",
-          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
-        }
-      ],
-      "duration_ms": 177720,
-      "name": "Cuando Ya Nadie Te Nombre",
-      "url": "https://open.spotify.com/track/5RyS7JpzPMacnkKzQIpeka"
-    },
-    {
-      "added_at": "2022-02-21 19:44:42",
-      "album": {
         "name": "Las Voces de Or\u00e1n",
         "url": "https://open.spotify.com/album/6kzs4QXD6lHK3ZzuGbU5Zi"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 130106,
       "name": "La Chicharra Cantora",
       "url": "https://open.spotify.com/track/3wlP4yvynVOq292A1C7jq1"
+    },
+    {
+      "added_at": "2022-02-21 19:44:42",
+      "album": {
+        "name": "Zambas Inolvidables Y Una Canci\u00f3n Al Vino",
+        "url": "https://open.spotify.com/album/1EpLxDhlOpSzCCg6FiZ1Wz"
+      },
+      "artists": [
+        {
+          "name": "Horacio Guarany",
+          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
+        }
+      ],
+      "duration_ms": 177720,
+      "name": "Cuando Ya Nadie Te Nombre",
+      "url": "https://open.spotify.com/track/5RyS7JpzPMacnkKzQIpeka"
     },
     {
       "added_at": "2022-02-21 19:44:42",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
-        "name": "Paisaje",
-        "url": "https://open.spotify.com/album/6Q34gyyCVKMjD5GVFEMF1a"
-      },
-      "artists": [
-        {
-          "name": "Duo Coplanacu",
-          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
-        }
-      ],
-      "duration_ms": 255400,
-      "name": "Agitando Pa\u00f1uelos",
-      "url": "https://open.spotify.com/track/5nIWvFvfmVxmF379f5WUP3"
-    },
-    {
-      "added_at": "2022-02-21 19:44:42",
-      "album": {
         "name": "Antolog\u00eda III 1936-1989",
         "url": "https://open.spotify.com/album/2sjqPvxZ3VVKgF5iaRVU6E"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 416573,
       "name": "Candombe del Olvido",
       "url": "https://open.spotify.com/track/6fdZSdKd2ukOJ9rYH559ru"
+    },
+    {
+      "added_at": "2022-02-21 19:44:42",
+      "album": {
+        "name": "Paisaje",
+        "url": "https://open.spotify.com/album/6Q34gyyCVKMjD5GVFEMF1a"
+      },
+      "artists": [
+        {
+          "name": "Duo Coplanacu",
+          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
+        }
+      ],
+      "duration_ms": 255400,
+      "name": "Agitando Pa\u00f1uelos",
+      "url": "https://open.spotify.com/track/5nIWvFvfmVxmF379f5WUP3"
     },
     {
       "added_at": "2022-02-21 19:44:42",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
-        "name": "Los 3 Del R\u00edo",
-        "url": "https://open.spotify.com/album/4BMvkK3SHicB9fj05q4s0Q"
-      },
-      "artists": [
-        {
-          "name": "Los 3 Del R\u00edo",
-          "url": "https://open.spotify.com/artist/36d5z1gYjS3JTSkG7qh61z"
-        }
-      ],
-      "duration_ms": 284769,
-      "name": "El Preso N\u00ba 9",
-      "url": "https://open.spotify.com/track/3GeFKVsojFAPxafcfnCsxX"
-    },
-    {
-      "added_at": "2022-02-21 19:44:42",
-      "album": {
         "name": "Romance De Luna Y Flor",
         "url": "https://open.spotify.com/album/4jSATA7cTYomI3uNw1Jpfe"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 183600,
       "name": "Zamba Del Negro Alegre",
       "url": "https://open.spotify.com/track/7surOH29RMSvRAdInzGhLU"
+    },
+    {
+      "added_at": "2022-02-21 19:44:42",
+      "album": {
+        "name": "Eternamente Tucu",
+        "url": "https://open.spotify.com/album/1V4WLmq5o6xGosgKdLpq2f"
+      },
+      "artists": [
+        {
+          "name": "Los Tucu Tucu",
+          "url": "https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU"
+        }
+      ],
+      "duration_ms": 200040,
+      "name": "Luna Tucumana",
+      "url": "https://open.spotify.com/track/3LIXsWXmk8csGYiIuALBxZ"
     },
     {
       "added_at": "2022-02-21 19:44:42",
@@ -1187,18 +1187,50 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
-        "name": "Eternamente Tucu",
-        "url": "https://open.spotify.com/album/1V4WLmq5o6xGosgKdLpq2f"
+        "name": "His Great Songs",
+        "url": "https://open.spotify.com/album/4q6egD1rqbJXSaDyoVqVZX"
       },
       "artists": [
         {
-          "name": "Los Tucu Tucu",
-          "url": "https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU"
+          "name": "Atahualpa Yupanqui",
+          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
         }
       ],
-      "duration_ms": 200040,
+      "duration_ms": 188066,
       "name": "Luna Tucumana",
-      "url": "https://open.spotify.com/track/3LIXsWXmk8csGYiIuALBxZ"
+      "url": "https://open.spotify.com/track/7x22SRygRje0FD7A3jiYmz"
+    },
+    {
+      "added_at": "2022-02-21 19:44:42",
+      "album": {
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/07R9tu4qZnWCviNTWHKvNS"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "duration_ms": 227533,
+      "name": "C\u00f3rdoba Sin Ti",
+      "url": "https://open.spotify.com/track/6astyRCNHin1Fabs9ZeOQm"
+    },
+    {
+      "added_at": "2022-02-21 19:44:42",
+      "album": {
+        "name": "Los 3 Del R\u00edo",
+        "url": "https://open.spotify.com/album/4BMvkK3SHicB9fj05q4s0Q"
+      },
+      "artists": [
+        {
+          "name": "Los 3 Del R\u00edo",
+          "url": "https://open.spotify.com/artist/36d5z1gYjS3JTSkG7qh61z"
+        }
+      ],
+      "duration_ms": 284769,
+      "name": "El Preso N\u00ba 9",
+      "url": "https://open.spotify.com/track/3GeFKVsojFAPxafcfnCsxX"
     },
     {
       "added_at": "2022-02-21 19:44:42",
@@ -1227,22 +1259,6 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/07R9tu4qZnWCviNTWHKvNS"
-      },
-      "artists": [
-        {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
-        }
-      ],
-      "duration_ms": 227533,
-      "name": "C\u00f3rdoba Sin Ti",
-      "url": "https://open.spotify.com/track/6astyRCNHin1Fabs9ZeOQm"
-    },
-    {
-      "added_at": "2022-02-21 19:44:42",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/3ccvDDuAXDgTBcEJsrotLV"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 196773,
       "name": "Guitarra de Medianoche",
       "url": "https://open.spotify.com/track/3MFZmrTRante4uZegBgzbt"
-    },
-    {
-      "added_at": "2022-02-21 19:44:42",
-      "album": {
-        "name": "His Great Songs",
-        "url": "https://open.spotify.com/album/4q6egD1rqbJXSaDyoVqVZX"
-      },
-      "artists": [
-        {
-          "name": "Atahualpa Yupanqui",
-          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
-        }
-      ],
-      "duration_ms": 188066,
-      "name": "Luna Tucumana",
-      "url": "https://open.spotify.com/track/7x22SRygRje0FD7A3jiYmz"
     },
     {
       "added_at": "2022-02-21 19:44:42",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
-        "name": "Romance De Luna Y Flor",
-        "url": "https://open.spotify.com/album/4jSATA7cTYomI3uNw1Jpfe"
-      },
-      "artists": [
-        {
-          "name": "Los Fronterizos",
-          "url": "https://open.spotify.com/artist/3JY4oF6rBQ45FSVUJtXixb"
-        }
-      ],
-      "duration_ms": 192480,
-      "name": "L\u00f3pez Pereyra",
-      "url": "https://open.spotify.com/track/2VExU73m6bsHkCvPBtnNdf"
-    },
-    {
-      "added_at": "2022-02-21 19:44:42",
-      "album": {
         "name": "Confiter\u00eda Europea 100 A\u00f1os",
         "url": "https://open.spotify.com/album/3wcwbHnuDa07nEFmK3qmua"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 181386,
       "name": "Romance de Plumas Verdes",
       "url": "https://open.spotify.com/track/2UTFw7lafwlYmFk3NEHhag"
+    },
+    {
+      "added_at": "2022-02-21 19:44:42",
+      "album": {
+        "name": "Romance De Luna Y Flor",
+        "url": "https://open.spotify.com/album/4jSATA7cTYomI3uNw1Jpfe"
+      },
+      "artists": [
+        {
+          "name": "Los Fronterizos",
+          "url": "https://open.spotify.com/artist/3JY4oF6rBQ45FSVUJtXixb"
+        }
+      ],
+      "duration_ms": 192480,
+      "name": "L\u00f3pez Pereyra",
+      "url": "https://open.spotify.com/track/2VExU73m6bsHkCvPBtnNdf"
     },
     {
       "added_at": "2022-02-21 19:44:42",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
-        "name": "El Canto De La Tierra",
-        "url": "https://open.spotify.com/album/5K60VXc8jWyqiMK7QM1GBb"
-      },
-      "artists": [
-        {
-          "name": "Atahualpa Yupanqui",
-          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
-        }
-      ],
-      "duration_ms": 211533,
-      "name": "La Pastorcita Perdida",
-      "url": "https://open.spotify.com/track/36wpfInAPheD9NuswqTR3f"
-    },
-    {
-      "added_at": "2022-02-21 19:44:42",
-      "album": {
         "name": "Para Cantar He Nacido",
         "url": "https://open.spotify.com/album/38hLzv8jhDNS99eGb8d3XR"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 181506,
       "name": "No Te Puedo Olvidar",
       "url": "https://open.spotify.com/track/0aGS8vkuScHGUomEiUo2ri"
+    },
+    {
+      "added_at": "2022-02-21 19:44:42",
+      "album": {
+        "name": "El Canto De La Tierra",
+        "url": "https://open.spotify.com/album/5K60VXc8jWyqiMK7QM1GBb"
+      },
+      "artists": [
+        {
+          "name": "Atahualpa Yupanqui",
+          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
+        }
+      ],
+      "duration_ms": 211533,
+      "name": "La Pastorcita Perdida",
+      "url": "https://open.spotify.com/track/36wpfInAPheD9NuswqTR3f"
     }
   ],
   "unique_name": "Folklore de Siempre",

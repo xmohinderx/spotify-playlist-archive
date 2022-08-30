@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: 秋山璃月
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,435 likes - 55 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,440 likes - 55 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 54 | [signal](https://open.spotify.com/track/5SAVeDv2tKYyfPm7NJ6zTr) | [AKIRA](https://open.spotify.com/artist/6ssW8So4tdpbto3NUOktqv), [SPENSR](https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO) | [signal](https://open.spotify.com/album/0kT3niMIXUSdbzd7dLDO81) | 3:39 |
 | 55 | [live for](https://open.spotify.com/track/2fCMmuCKN42oGQIsHUpPg4) | [RQNY](https://open.spotify.com/artist/5G395u0vEWgpDykp47OjSP) | [live for](https://open.spotify.com/album/2Kd3QKMN5r9RIH7vS0ClHV) | 3:11 |
 
-Snapshot ID: `MTY2MTQzOTYwMCwwMDAwMDAwMDZhY2JiZDQwMDk0NzI2MTA4Y2VkOTQ0NjZlYjE4ZTE3`
+Snapshot ID: `MTY2MTc0NDgzNywwMDAwMDAwMDBjOWE5NzZiYTVkMzYwYzU3ZGRjNDE0ZjQ5ZTc1NDVj`

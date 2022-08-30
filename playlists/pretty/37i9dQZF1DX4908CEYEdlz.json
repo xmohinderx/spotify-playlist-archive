@@ -1,12 +1,12 @@
 {
   "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: Slipknot",
-  "num_followers": 704350,
+  "num_followers": 704426,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4Mjg2MCwwMDAwMDAwMGFkN2U3NDFjZTI2MjExNGM5ODAyOTc4NDFhMzI3OTU4",
+  "snapshot_id": "MTY2MTQ4Mjg2MCwwMDAwMDAwMDRlZGYzMmMyM2FkODI5NDc5ZDQ5YzYxMjNmYzZkYjNh",
   "tracks": [
     {
       "added_at": "2022-08-26 03:01:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "Kill The Noise",
-        "url": "https://open.spotify.com/album/5Ob0D7DLOzpHe0KcZb67Ky"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 188127,
-      "name": "Kill The Noise",
-      "url": "https://open.spotify.com/track/3xr0ZIYqXVKogVu00fJRBX"
-    },
-    {
-      "added_at": "2022-08-26 03:01:00",
-      "album": {
         "name": "Requiem",
         "url": "https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0"
       },
@@ -387,18 +371,18 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "Planet Zero",
-        "url": "https://open.spotify.com/album/2p732bJ3OshHkiQGJfz1Jo"
+        "name": "Kill The Noise",
+        "url": "https://open.spotify.com/album/5Ob0D7DLOzpHe0KcZb67Ky"
       },
       "artists": [
         {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
         }
       ],
-      "duration_ms": 222738,
-      "name": "Planet Zero",
-      "url": "https://open.spotify.com/track/3GL1RQKHV0TDRq8EXHMhGq"
+      "duration_ms": 188127,
+      "name": "Kill The Noise",
+      "url": "https://open.spotify.com/track/3xr0ZIYqXVKogVu00fJRBX"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -419,22 +403,18 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "EXPLOSIONS",
-        "url": "https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG"
+        "name": "Planet Zero",
+        "url": "https://open.spotify.com/album/2p732bJ3OshHkiQGJfz1Jo"
       },
       "artists": [
         {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
-        },
-        {
-          "name": "Lukas Rossi",
-          "url": "https://open.spotify.com/artist/419YiM0RHQExEtnMTMaIID"
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
         }
       ],
-      "duration_ms": 197253,
-      "name": "Neurotic (feat. Lukas Rossi)",
-      "url": "https://open.spotify.com/track/6JfNf81zML3XVFXZbbtyZ8"
+      "duration_ms": 222738,
+      "name": "Planet Zero",
+      "url": "https://open.spotify.com/track/3GL1RQKHV0TDRq8EXHMhGq"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -451,6 +431,26 @@
       "duration_ms": 294426,
       "name": "Soldier On!",
       "url": "https://open.spotify.com/track/7spRyvnK00GrJ3f4iJrkvt"
+    },
+    {
+      "added_at": "2022-08-26 03:01:00",
+      "album": {
+        "name": "EXPLOSIONS",
+        "url": "https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        },
+        {
+          "name": "Lukas Rossi",
+          "url": "https://open.spotify.com/artist/419YiM0RHQExEtnMTMaIID"
+        }
+      ],
+      "duration_ms": 197253,
+      "name": "Neurotic (feat. Lukas Rossi)",
+      "url": "https://open.spotify.com/track/6JfNf81zML3XVFXZbbtyZ8"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "No More Tears To Cry",
-        "url": "https://open.spotify.com/album/0aAcMNWv3LRwqpRa6rb7X0"
-      },
-      "artists": [
-        {
-          "name": "Bullet For My Valentine",
-          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
-        }
-      ],
-      "duration_ms": 221433,
-      "name": "No More Tears To Cry",
-      "url": "https://open.spotify.com/track/11beGBTthT9XhdQXYFkajZ"
-    },
-    {
-      "added_at": "2022-08-26 03:01:00",
-      "album": {
         "name": "More Than Machines",
         "url": "https://open.spotify.com/album/3h4MWIFNt3pb3IHaifAW83"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 201541,
       "name": "More Than Machines",
       "url": "https://open.spotify.com/track/1y1l61KJCj8EDE35iS4ZgC"
+    },
+    {
+      "added_at": "2022-08-26 03:01:00",
+      "album": {
+        "name": "No More Tears To Cry",
+        "url": "https://open.spotify.com/album/0aAcMNWv3LRwqpRa6rb7X0"
+      },
+      "artists": [
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        }
+      ],
+      "duration_ms": 221433,
+      "name": "No More Tears To Cry",
+      "url": "https://open.spotify.com/track/11beGBTthT9XhdQXYFkajZ"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "Start The Healing",
-        "url": "https://open.spotify.com/album/0u1tbNPEpP0a6it8o6KeOH"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 208053,
-      "name": "Start The Healing",
-      "url": "https://open.spotify.com/track/42qa1IoXDeSt0zzWTOuwyG"
-    },
-    {
-      "added_at": "2022-08-26 03:01:00",
-      "album": {
         "name": "Dad Vibes",
         "url": "https://open.spotify.com/album/7tadqEjXzmv9fgy21AelkR"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 132206,
       "name": "Dad Vibes",
       "url": "https://open.spotify.com/track/3XM6V7K5nbZf5AQz20fDDb"
+    },
+    {
+      "added_at": "2022-08-26 03:01:00",
+      "album": {
+        "name": "Start The Healing",
+        "url": "https://open.spotify.com/album/0u1tbNPEpP0a6it8o6KeOH"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 208053,
+      "name": "Start The Healing",
+      "url": "https://open.spotify.com/track/42qa1IoXDeSt0zzWTOuwyG"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -779,6 +779,22 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
+        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
+        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 258465,
+      "name": "N\u00d8 G\u00d8DS, N\u00d8 MASTERS",
+      "url": "https://open.spotify.com/track/7nJMvNlDpJShN4HJNJ97Gh"
+    },
+    {
+      "added_at": "2022-08-26 03:01:00",
+      "album": {
         "name": "Ready For Something",
         "url": "https://open.spotify.com/album/0kybYEkeYAZJDCzxqmrtvE"
       },
@@ -807,6 +823,22 @@
       "duration_ms": 221148,
       "name": "The Saints Of Violence And Innuendo",
       "url": "https://open.spotify.com/track/3qdTM1rNjRUvmbuF4d82Mv"
+    },
+    {
+      "added_at": "2022-08-26 03:01:00",
+      "album": {
+        "name": "Typhoons",
+        "url": "https://open.spotify.com/album/547UjN7nCN4L5rQgolzHQn"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 236933,
+      "name": "Typhoons",
+      "url": "https://open.spotify.com/track/6BsZx9FarJrLddTNu2k6pU"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -843,22 +875,6 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "Walk The Sky",
-        "url": "https://open.spotify.com/album/3CDDZa8pfzfxfDdtm7g84B"
-      },
-      "artists": [
-        {
-          "name": "Alter Bridge",
-          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
-        }
-      ],
-      "duration_ms": 229940,
-      "name": "Wouldn't You Rather",
-      "url": "https://open.spotify.com/track/2BJrrLbxGDM26fTpWqBMKU"
-    },
-    {
-      "added_at": "2022-08-26 03:01:00",
-      "album": {
         "name": "Delta Kream",
         "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
       },
@@ -875,18 +891,18 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "Typhoons",
-        "url": "https://open.spotify.com/album/547UjN7nCN4L5rQgolzHQn"
+        "name": "Walk The Sky",
+        "url": "https://open.spotify.com/album/3CDDZa8pfzfxfDdtm7g84B"
       },
       "artists": [
         {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+          "name": "Alter Bridge",
+          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
         }
       ],
-      "duration_ms": 236933,
-      "name": "Typhoons",
-      "url": "https://open.spotify.com/track/6BsZx9FarJrLddTNu2k6pU"
+      "duration_ms": 229940,
+      "name": "Wouldn't You Rather",
+      "url": "https://open.spotify.com/track/2BJrrLbxGDM26fTpWqBMKU"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -959,18 +975,22 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "BURIED ALIVE",
-        "url": "https://open.spotify.com/album/7jM3UEuq5ybIxtzliHZiKL"
+        "name": "4 (feat. Myles Kennedy and The Conspirators)",
+        "url": "https://open.spotify.com/album/5hEFdC1iEWOjgQgiRqdtXQ"
       },
       "artists": [
         {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+          "name": "Slash",
+          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
+        },
+        {
+          "name": "Myles Kennedy And The Conspirators",
+          "url": "https://open.spotify.com/artist/1J0FSEQhWSMHcYqaapIjY6"
         }
       ],
-      "duration_ms": 213774,
-      "name": "BURIED ALIVE",
-      "url": "https://open.spotify.com/track/6sSxm01OMK2yfX7bfTiFXl"
+      "duration_ms": 241954,
+      "name": "Actions Speak Louder Than Words (feat. Myles Kennedy and The Conspirators)",
+      "url": "https://open.spotify.com/track/3pg8FGqUihrwtsPxmBf8NJ"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -991,22 +1011,18 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "4 (feat. Myles Kennedy and The Conspirators)",
-        "url": "https://open.spotify.com/album/5hEFdC1iEWOjgQgiRqdtXQ"
+        "name": "BURIED ALIVE",
+        "url": "https://open.spotify.com/album/7jM3UEuq5ybIxtzliHZiKL"
       },
       "artists": [
         {
-          "name": "Slash",
-          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
-        },
-        {
-          "name": "Myles Kennedy And The Conspirators",
-          "url": "https://open.spotify.com/artist/1J0FSEQhWSMHcYqaapIjY6"
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
         }
       ],
-      "duration_ms": 241954,
-      "name": "Actions Speak Louder Than Words (feat. Myles Kennedy and The Conspirators)",
-      "url": "https://open.spotify.com/track/3pg8FGqUihrwtsPxmBf8NJ"
+      "duration_ms": 213774,
+      "name": "BURIED ALIVE",
+      "url": "https://open.spotify.com/track/6sSxm01OMK2yfX7bfTiFXl"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -1191,22 +1207,6 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "Looking Tragic / Begging For Trouble",
-        "url": "https://open.spotify.com/album/1hKjd2OnD0fXSWVsl80M74"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 157894,
-      "name": "Looking Tragic",
-      "url": "https://open.spotify.com/track/3Sacn9UUjr7ksQaTAoYIKg"
-    },
-    {
-      "added_at": "2022-08-26 03:01:00",
-      "album": {
         "name": "Daddy's Coming Home",
         "url": "https://open.spotify.com/album/2Mfu4FHHdKiW6hBII5KtQ1"
       },
@@ -1219,6 +1219,22 @@
       "duration_ms": 189507,
       "name": "Daddy's Coming Home",
       "url": "https://open.spotify.com/track/3hEPgYSujPEuatqzNybeAH"
+    },
+    {
+      "added_at": "2022-08-26 03:01:00",
+      "album": {
+        "name": "Looking Tragic / Begging For Trouble",
+        "url": "https://open.spotify.com/album/1hKjd2OnD0fXSWVsl80M74"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 157894,
+      "name": "Looking Tragic",
+      "url": "https://open.spotify.com/track/3Sacn9UUjr7ksQaTAoYIKg"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -1271,22 +1287,6 @@
       "duration_ms": 221226,
       "name": "Keep It Away",
       "url": "https://open.spotify.com/track/4PBj43xrepBtpGDcrVewUf"
-    },
-    {
-      "added_at": "2022-08-26 03:01:00",
-      "album": {
-        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
-        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 258465,
-      "name": "N\u00d8 G\u00d8DS, N\u00d8 MASTERS",
-      "url": "https://open.spotify.com/track/7nJMvNlDpJShN4HJNJ97Gh"
     }
   ],
   "unique_name": "Volume M\u00e1ximo",

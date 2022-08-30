@@ -181,6 +181,28 @@
     {
       "album": {
         "name": "Arena",
+        "url": "https://open.spotify.com/album/5eXLDkcVPBPQUSL24oedCO"
+      },
+      "artists": [
+        {
+          "name": "Fabian Mazur",
+          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
+        },
+        {
+          "name": "Snavs",
+          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "Arena",
+      "url": "https://open.spotify.com/track/1i0cgkisuJoGZOzdupqf1v"
+    },
+    {
+      "album": {
+        "name": "Arena",
         "url": "https://open.spotify.com/album/0LxtnMt80YF21NGZio7OLR"
       },
       "artists": [
@@ -4813,7 +4835,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 147378,
       "name": "Trap Anthem",
       "url": "https://open.spotify.com/track/3x2djB2lM7twnO8D2M6A0C"

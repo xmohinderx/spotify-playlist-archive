@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vYju3i0lNX.md) - [plain]
 
 > Mellow jazz to stay focused or unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 721,754 likes - 199 songs - 12 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 721,315 likes - 199 songs - 12 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vYju3i0lNX.md) - [plain]
 | 198 | [Deep In A Dream](https://open.spotify.com/track/0P0YUfbBRKa1GSCSWmFd2p) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Deep In A Dream](https://open.spotify.com/album/5FhqZM4vl2D8B3yF0EiDtK) | 4:42 |
 | 199 | [Simple Things](https://open.spotify.com/track/4oOkC6iNHVNtJJWHD8fqiL) | [Loft Trio](https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI) | [Dave’s Waltz](https://open.spotify.com/album/2wZOolV02qRIJjOI71L8F1) | 3:06 |
 
-Snapshot ID: `MTY1NjQwODY0NiwwMDAwMDAwMDBjYjY5YjBmOTE3MGNjOTc3MmM0OTA5YzQ1OWQ2Mzg1`
+Snapshot ID: `MTY2MTc4Mzc3NSwwMDAwMDAwMDE3YjViNzUyYzk4YmI3NTJlMmNlYzc2NzMxMTFlOTJm`

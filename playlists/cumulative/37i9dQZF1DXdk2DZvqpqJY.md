@@ -4,7 +4,7 @@
 
 > Jazzy sounds with soft beats for relaxing and unwinding.
 
-209 songs - 13 hr 28 min - [published](https://open.spotify.com/playlist/6x5bLDuTDrk1dE08PCXWyO)
+210 songs - 13 hr 32 min - [published](https://open.spotify.com/playlist/6x5bLDuTDrk1dE08PCXWyO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A Slice Of The Top](https://open.spotify.com/track/6FYkE7YkOeTXc4m6tc2em6) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Deciphering The Message](https://open.spotify.com/album/3yrDdyKK5WdYFAHUNmradZ) | 3:11 | 2022-02-17 | 2022-04-22 |
 | [Absence](https://open.spotify.com/track/1v8Yegje2XmBIt3M948R7x) | [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv), [The E\-Collective](https://open.spotify.com/artist/3mLYbLsEXzIgdvikrVRK46), [Turtle Island String Quartet](https://open.spotify.com/artist/5ofemHoNWTjeADvzFTAhy2) | [Absence](https://open.spotify.com/album/0d7MJP0WObWccm55hV1e7w) | 6:54 | 2022-02-17 | 2022-04-22 |
 | [Admas](https://open.spotify.com/track/1qiTJroqF1E7E3g86DFzGA) | [Jazzbois](https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul) | [Admas](https://open.spotify.com/album/1BCQEZMyrDv7N5sXdamtGD) | 3:49 | 2022-02-17 |  |
-| [Adrian, Ali and Gregory](https://open.spotify.com/track/17wNarAwouBJco5zx1LDKb) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [João Donato JID007](https://open.spotify.com/album/03q6oK9euB25TGC2Jp8uPZ) | 2:23 | 2022-06-22 |  |
+| [Adrian, Ali and Gregory](https://open.spotify.com/track/17wNarAwouBJco5zx1LDKb) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [João Donato JID007](https://open.spotify.com/album/03q6oK9euB25TGC2Jp8uPZ) | 2:23 | 2022-06-22 | 2022-08-30 |
 | [Adrian, Ali and Gregory](https://open.spotify.com/track/1nATM2if0c7XcpkpFYeMsq) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [Adrian, Ali and Gregory](https://open.spotify.com/album/4DU5AJbx04Q04DCcrn6NpS) | 2:23 | 2022-02-17 | 2022-07-29 |
 | [All We Know](https://open.spotify.com/track/43P9ATR9KbSpDlqsp2sGKW) | [Chelsea Carmichael](https://open.spotify.com/artist/6vbGW1gdI14163OQECQs5d) | [The River Doesn’t Like Strangers](https://open.spotify.com/album/0rMRVTA8NJBbQAa4FcFgpV) | 7:25 | 2022-02-17 | 2022-04-23 |
 | [Altered Time](https://open.spotify.com/track/1swgntnR8aAPm23U1bBcM0) | [Knick](https://open.spotify.com/artist/4JeYrBePUtaLKFSWP1BqZX), [Nico Harris](https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM) | [Altered Time](https://open.spotify.com/album/3ewzyQrB4kCYON9KVE5eVN) | 2:10 | 2022-06-02 |  |
@@ -66,6 +66,7 @@
 | [EL\-JO](https://open.spotify.com/track/4aL0EnsQkY3DvzJ2ZjRIr5) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [EL\-JO](https://open.spotify.com/album/32Bv56MOZIWuknJR8mOIhA) | 3:53 | 2022-02-17 | 2022-02-22 |
 | [Electric Eclectic](https://open.spotify.com/track/4B2xWDcBUtyiifvBnXxOnE) | [Moralify](https://open.spotify.com/artist/4Ld9jKPphcNhjVH0LT2vQV) | [Electric Eclectic](https://open.spotify.com/album/6dZKFcUf0qHvfTERa5i7ZF) | 3:46 | 2022-03-03 | 2022-06-03 |
 | [Elegance](https://open.spotify.com/track/6aafuZXImh9Yvgix3ZhMIf) | [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [Elegance](https://open.spotify.com/album/1QF0DKX7Qa1BTzXI04N5MR) | 2:27 | 2022-08-18 |  |
+| [Elephant & Ivory \- Vanilla's Version](https://open.spotify.com/track/7eDl54jBPJL295eBq95GIH) | [Les Loups](https://open.spotify.com/artist/3U6FqAuXdKYRrGUIyv9MWa), [Vanilla](https://open.spotify.com/artist/7pnSUizGuS2tAW2yCAhafn) | [Elephant & Ivory \(Vanilla's Version\)](https://open.spotify.com/album/1SmtfuffGWMdf6MXUp8ITM) | 3:28 | 2022-08-25 |  |
 | [Enlightened](https://open.spotify.com/track/26EckqdKwbnLgXPoiUgaEo) | [Joona Toivanen Trio](https://open.spotify.com/artist/7lkzHd6Tzt9hQJSnIYkVrl) | [Both Only](https://open.spotify.com/album/2e06pqph69m1CCBkKNiBQQ) | 5:50 | 2022-04-22 |  |
 | [Everybody Loves the Sunshine](https://open.spotify.com/track/31kkgCImsQJjSGDVzxJN4R) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [Between Days](https://open.spotify.com/album/3LKXTSlaDYPRyUiApj5G8X) | 5:22 | 2022-06-02 |  |
 | [Feelm](https://open.spotify.com/track/6xWxeW72ywpygla3hHwlb1) | [Underground Canopy](https://open.spotify.com/artist/7k7AFLI13ChqpIlQGI1lJo) | [Feelm](https://open.spotify.com/album/7IUXAEy1XizpVDGROtNkgG) | 4:06 | 2022-06-02 |  |

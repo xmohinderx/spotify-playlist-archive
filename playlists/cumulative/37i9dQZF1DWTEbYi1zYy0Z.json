@@ -833,7 +833,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 260398,
       "name": "Chicago Morning",
       "url": "https://open.spotify.com/track/2E6pU3PbdItkREHN9IYCJb"
@@ -4865,6 +4865,24 @@
       "duration_ms": 257186,
       "name": "Tonic",
       "url": "https://open.spotify.com/track/6cgKf3UVdiMaFqDSaNDwnA"
+    },
+    {
+      "album": {
+        "name": "Tribute",
+        "url": "https://open.spotify.com/album/7Io45dFofkBVEzQdMTXxsl"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245426,
+      "name": "Tribute",
+      "url": "https://open.spotify.com/track/50MtaTholYQZwggn6EvbTl"
     },
     {
       "album": {

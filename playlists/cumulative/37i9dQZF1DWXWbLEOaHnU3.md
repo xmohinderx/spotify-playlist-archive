@@ -4,7 +4,7 @@
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-188 songs - 17 hr 19 min - [published](https://open.spotify.com/playlist/2a7pWapwJkvE7k2BSyXseH)
+189 songs - 17 hr 26 min - [published](https://open.spotify.com/playlist/2a7pWapwJkvE7k2BSyXseH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Mountain Told Me](https://open.spotify.com/track/3j41oMxuWlmLLDGdIsi8ZF) | [Krama](https://open.spotify.com/artist/6fz3m9HgQ3s7171AZHvk0j) | [A Mountain Told Me](https://open.spotify.com/album/4XbEEymjllRINpMPy3JUMw) | 9:16 | 2022-04-15 | 2022-08-06 |
 | [Abducted by Aliens \- Original Mix](https://open.spotify.com/track/3mrlDJmGdbW7wZxnvLJXo5) | [Atromna](https://open.spotify.com/artist/1u11cHfaKyffkPQ6i8sFLW), [Misaya](https://open.spotify.com/artist/0uMYB7w6oXQDdyVKNoxtQD) | [Psychedelic Dimensions](https://open.spotify.com/album/0XdJUFA5QeWlK4TXSMimGE) | 8:43 | 2022-04-15 | 2022-07-20 |
 | [Aftermath](https://open.spotify.com/track/5Mfs9l7PBSu1cQUHRg7vFP) | [Durs](https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs) | [Aftermath](https://open.spotify.com/album/2MADUxhXoaX6pJ4IrQy619) | 5:15 | 2022-04-15 | 2022-07-29 |
+| [Alive](https://open.spotify.com/track/0L2OtCTNiFNno0AmugkBEi) | [Gottinari](https://open.spotify.com/artist/7fd4ocP25Ava07zgL5L3UE), [Harmonika](https://open.spotify.com/artist/2mbshn7PMiWfICvtzY0JbI) | [Alive](https://open.spotify.com/album/6d9rp3aNNvxOAU3J9bJeQY) | 7:10 | 2022-08-25 |  |
 | [Aliyu](https://open.spotify.com/track/6UO97Q5Rbg7iLAcIiAIZHr) | [Zafrir](https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX), [Billx](https://open.spotify.com/artist/0Ldjd0Z66CJ0rChWXx0jzB), [Anna Timofei](https://open.spotify.com/artist/4srvcFuQaZHS0KyBvFApWG) | [Aliyu](https://open.spotify.com/album/7LN85I2vF2ogylhUePHpsY) | 3:51 | 2022-04-15 |  |
 | [All Gone](https://open.spotify.com/track/6imZUICpik2ZVecP0MO3aF) | [Durs](https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs), [Jacob](https://open.spotify.com/artist/5IRGhffWFbNGJqS7wc7UDN) | [All Gone](https://open.spotify.com/album/3h9i8vXutqHGH5QkxUEG6o) | 3:49 | 2022-08-11 |  |
 | [All The Lights](https://open.spotify.com/track/0UIUbB6k3gtYvqvHJ1J1Zm) | [Harlekin](https://open.spotify.com/artist/4VxfRdFYSShHLld3Wl1dl8) | [All The Lights](https://open.spotify.com/album/1rae8TeKdgDmPQKP0v8OVu) | 3:37 | 2022-06-16 | 2022-06-30 |
@@ -110,7 +111,7 @@
 | [Nasty](https://open.spotify.com/track/74fwN6K31SM39qanJOfDxd) | [Memento Mori](https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR), [Massivebass](https://open.spotify.com/artist/5p9GQuGCJcfovjMcDk3ZyI), [Max Tase](https://open.spotify.com/artist/1TciVq9gxOXxCUKcR05O8m) | [Nasty](https://open.spotify.com/album/2YIxJt6k9uC6ep6krFNuJG) | 3:39 | 2022-06-03 |  |
 | [Natural Connection](https://open.spotify.com/track/72eKr4Y8oTl3N6YowhUmgI) | [Phaxe](https://open.spotify.com/artist/4Pgbnc1zRPquMFR4iPH3MN), [Morten Granau](https://open.spotify.com/artist/49loZrPArxoDvk5XKyugw0) | [Natural Connection](https://open.spotify.com/album/7fdd3jpfhZQR3sLn5HLQ3V) | 6:59 | 2022-08-11 |  |
 | [Never Be The Same](https://open.spotify.com/track/2QOlkqwaKI6JHVoAFvyfnm) | [Jacob](https://open.spotify.com/artist/5IRGhffWFbNGJqS7wc7UDN), [Dzp](https://open.spotify.com/artist/5Nkd6PHu2lOqCnCboV3x3D) | [Never Be The Same](https://open.spotify.com/album/1F46HHbNF6r8ANbJfnkCas) | 4:51 | 2022-04-15 | 2022-04-23 |
-| [Novo Mundo](https://open.spotify.com/track/04qez0ficd7e4SdHjkxoMq) | [Querox](https://open.spotify.com/artist/6As8Iapr8t7LdWNBIGlTtn), [Synesthetic](https://open.spotify.com/artist/3pj3146DprJSQuMVAKrfY6) | [Novo Mundo](https://open.spotify.com/album/1Xo9Exo6vF4R8uy7odTUsj) | 6:13 | 2022-04-15 |  |
+| [Novo Mundo](https://open.spotify.com/track/04qez0ficd7e4SdHjkxoMq) | [Querox](https://open.spotify.com/artist/6As8Iapr8t7LdWNBIGlTtn), [Synesthetic](https://open.spotify.com/artist/3pj3146DprJSQuMVAKrfY6) | [Novo Mundo](https://open.spotify.com/album/1Xo9Exo6vF4R8uy7odTUsj) | 6:13 | 2022-04-15 | 2022-08-30 |
 | [Obsession](https://open.spotify.com/track/5FM2LQo6zItfKqSPmDluYO) | [Jacob](https://open.spotify.com/artist/5IRGhffWFbNGJqS7wc7UDN), [PIRAMD](https://open.spotify.com/artist/4ecOJ792RmcIiw2eJXPGAS), [Tropic Sound](https://open.spotify.com/artist/1bgdt86bM98eGqdbZjww7H) | [Obsession](https://open.spotify.com/album/5zAgAIwAQeBPDIb7LPu9Tt) | 4:27 | 2022-04-22 | 2022-07-24 |
 | [Ocean](https://open.spotify.com/track/00Y4T8p3xKyO1xMadFmTeD) | [Freenomo](https://open.spotify.com/artist/1Q2oj082PSYEwcI8H6NXS9) | [Ocean](https://open.spotify.com/album/5uLnCiu8PvYkPW6YarnkUO) | 4:45 | 2022-04-22 | 2022-06-09 |
 | [Odyssey](https://open.spotify.com/track/0FDGlQi6bwXJWEzJAeCnSv) | [Morten Granau](https://open.spotify.com/artist/49loZrPArxoDvk5XKyugw0) | [Odyssey](https://open.spotify.com/album/5aQOe7KveXqTr7h2DqTgu2) | 6:57 | 2022-04-15 | 2022-07-28 |

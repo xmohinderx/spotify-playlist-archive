@@ -1,12 +1,12 @@
 {
   "description": "The best from the world of acoustic songs right now.",
-  "num_followers": 1118519,
+  "num_followers": 1118503,
   "original_name": "Hot Acoustics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNTUwMzcyMCwwMDAwMDAwMDdiODQ3NTY0MWNlMzhmZDQ2NzZjYWIzM2MwMjZmOThm",
+  "snapshot_id": "MTYxNTUwMzcyMCwwMDAwMDAwMDVlZmJlNjc0MWFkZWI2MGViNTBmYWQ0NTE4ZDZmZjM0",
   "tracks": [
     {
       "added_at": "2021-03-11 23:02:00",
@@ -575,6 +575,22 @@
     {
       "added_at": "2021-03-11 23:02:00",
       "album": {
+        "name": "Wood Fire",
+        "url": "https://open.spotify.com/album/1fYNhQcBUClkEmqnuF9ant"
+      },
+      "artists": [
+        {
+          "name": "Cocoon",
+          "url": "https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD"
+        }
+      ],
+      "duration_ms": 187400,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/72usYeVMCh8uc3h2Z5K3JF"
+    },
+    {
+      "added_at": "2021-03-11 23:02:00",
+      "album": {
         "name": "Covers with Friends",
         "url": "https://open.spotify.com/album/6XBy6IeZBCHz5D1Frv6jGY"
       },
@@ -595,22 +611,6 @@
     {
       "added_at": "2021-03-11 23:02:00",
       "album": {
-        "name": "Wood Fire",
-        "url": "https://open.spotify.com/album/1fYNhQcBUClkEmqnuF9ant"
-      },
-      "artists": [
-        {
-          "name": "Cocoon",
-          "url": "https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD"
-        }
-      ],
-      "duration_ms": 187400,
-      "name": "Colors",
-      "url": "https://open.spotify.com/track/72usYeVMCh8uc3h2Z5K3JF"
-    },
-    {
-      "added_at": "2021-03-11 23:02:00",
-      "album": {
         "name": "Bruises EP",
         "url": "https://open.spotify.com/album/3bAq5agU2IUDfDuO4w50aR"
       },
@@ -627,22 +627,6 @@
     {
       "added_at": "2021-03-11 23:02:00",
       "album": {
-        "name": "Wait & See",
-        "url": "https://open.spotify.com/album/1JGX9VVxDcCLbJlokLloon"
-      },
-      "artists": [
-        {
-          "name": "Mabes",
-          "url": "https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su"
-        }
-      ],
-      "duration_ms": 174267,
-      "name": "Wait & See",
-      "url": "https://open.spotify.com/track/3nv8Krxy4YzauAdpSoLt8C"
-    },
-    {
-      "added_at": "2021-03-11 23:02:00",
-      "album": {
         "name": "Always On My Mind",
         "url": "https://open.spotify.com/album/6fEji3YIRWFLPtBM8UCULk"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 193779,
       "name": "Always On My Mind",
       "url": "https://open.spotify.com/track/3VeCrupHghYMiLQNhsIeCn"
+    },
+    {
+      "added_at": "2021-03-11 23:02:00",
+      "album": {
+        "name": "Wait & See",
+        "url": "https://open.spotify.com/album/1JGX9VVxDcCLbJlokLloon"
+      },
+      "artists": [
+        {
+          "name": "Mabes",
+          "url": "https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su"
+        }
+      ],
+      "duration_ms": 174267,
+      "name": "Wait & See",
+      "url": "https://open.spotify.com/track/3nv8Krxy4YzauAdpSoLt8C"
     },
     {
       "added_at": "2021-03-11 23:02:00",
@@ -727,30 +727,6 @@
     {
       "added_at": "2021-03-11 23:02:00",
       "album": {
-        "name": "We Used To",
-        "url": "https://open.spotify.com/album/6dX82RtIYbiZBXHJmhlYM1"
-      },
-      "artists": [
-        {
-          "name": "Heather Sommer",
-          "url": "https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV"
-        },
-        {
-          "name": "Kunis",
-          "url": "https://open.spotify.com/artist/6S3DzPANfTWOacHiKfOsEX"
-        },
-        {
-          "name": "Richie Nuzz",
-          "url": "https://open.spotify.com/artist/5oRdpu7dD17viMa3uhXMk2"
-        }
-      ],
-      "duration_ms": 158313,
-      "name": "We Used To",
-      "url": "https://open.spotify.com/track/5UNCOsLJ9I45AmOwrKjHPK"
-    },
-    {
-      "added_at": "2021-03-11 23:02:00",
-      "album": {
         "name": "The Acoustic Sessions",
         "url": "https://open.spotify.com/album/3GV2TdiVjl8E5XXBEuiiyX"
       },
@@ -779,6 +755,30 @@
       "duration_ms": 253686,
       "name": "I Still Haven't Found Found What I'm Looking For",
       "url": "https://open.spotify.com/track/1gnOyb8vuF9bXz5eyjoBxh"
+    },
+    {
+      "added_at": "2021-03-11 23:02:00",
+      "album": {
+        "name": "We Used To",
+        "url": "https://open.spotify.com/album/6dX82RtIYbiZBXHJmhlYM1"
+      },
+      "artists": [
+        {
+          "name": "Heather Sommer",
+          "url": "https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV"
+        },
+        {
+          "name": "Kunis",
+          "url": "https://open.spotify.com/artist/6S3DzPANfTWOacHiKfOsEX"
+        },
+        {
+          "name": "Richie Nuzz",
+          "url": "https://open.spotify.com/artist/5oRdpu7dD17viMa3uhXMk2"
+        }
+      ],
+      "duration_ms": 158313,
+      "name": "We Used To",
+      "url": "https://open.spotify.com/track/5UNCOsLJ9I45AmOwrKjHPK"
     },
     {
       "added_at": "2021-03-11 23:02:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2021-03-11 23:02:00",
       "album": {
-        "name": "Memories (Acoustic)",
-        "url": "https://open.spotify.com/album/0wNdH4MR2O0YvIa41x7v3Y"
-      },
-      "artists": [
-        {
-          "name": "Ben Woodward",
-          "url": "https://open.spotify.com/artist/142VT1MtWzaD13CnOiKFDn"
-        }
-      ],
-      "duration_ms": 183337,
-      "name": "Memories (Acoustic)",
-      "url": "https://open.spotify.com/track/1m3Lsbhkn6yL8apzsCiukd"
-    },
-    {
-      "added_at": "2021-03-11 23:02:00",
-      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/5SOx3JrYf5fHDde9CscIDw"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 219378,
       "name": "Angel",
       "url": "https://open.spotify.com/track/30kLC24uAzd0WJCyutcV0t"
+    },
+    {
+      "added_at": "2021-03-11 23:02:00",
+      "album": {
+        "name": "Memories (Acoustic)",
+        "url": "https://open.spotify.com/album/0wNdH4MR2O0YvIa41x7v3Y"
+      },
+      "artists": [
+        {
+          "name": "Ben Woodward",
+          "url": "https://open.spotify.com/artist/142VT1MtWzaD13CnOiKFDn"
+        }
+      ],
+      "duration_ms": 183337,
+      "name": "Memories (Acoustic)",
+      "url": "https://open.spotify.com/track/1m3Lsbhkn6yL8apzsCiukd"
     },
     {
       "added_at": "2021-03-11 23:02:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2021-03-11 23:02:00",
       "album": {
-        "name": "Ransom",
-        "url": "https://open.spotify.com/album/0ZnQWH4dODWvFsYnEYriFb"
-      },
-      "artists": [
-        {
-          "name": "NTMY",
-          "url": "https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR"
-        }
-      ],
-      "duration_ms": 166698,
-      "name": "Ransom",
-      "url": "https://open.spotify.com/track/4XpWM2KLvxXf3Me4kw74Eb"
-    },
-    {
-      "added_at": "2021-03-11 23:02:00",
-      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/5wAKEeRp8jjJNuR8cIFqpu"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 186128,
       "name": "Voices",
       "url": "https://open.spotify.com/track/5vuWnrXHFlKMQVcVu9fmRd"
+    },
+    {
+      "added_at": "2021-03-11 23:02:00",
+      "album": {
+        "name": "Ransom",
+        "url": "https://open.spotify.com/album/0ZnQWH4dODWvFsYnEYriFb"
+      },
+      "artists": [
+        {
+          "name": "NTMY",
+          "url": "https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR"
+        }
+      ],
+      "duration_ms": 166698,
+      "name": "Ransom",
+      "url": "https://open.spotify.com/track/4XpWM2KLvxXf3Me4kw74Eb"
     },
     {
       "added_at": "2021-03-11 23:02:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2021-03-11 23:02:00",
       "album": {
-        "name": "Strangers EP Unplugged",
-        "url": "https://open.spotify.com/album/139IHc8keqLycMck1EvMTz"
-      },
-      "artists": [
-        {
-          "name": "Seafret",
-          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
-        }
-      ],
-      "duration_ms": 242581,
-      "name": "Girl I Wish I Didn't Know - Acoustic",
-      "url": "https://open.spotify.com/track/2Zmt6TqxG2UGDxg4SjNVkA"
-    },
-    {
-      "added_at": "2021-03-11 23:02:00",
-      "album": {
         "name": "Moments that mattered",
         "url": "https://open.spotify.com/album/4fjTSlU3zj9tH4Doq38C3S"
       },
@@ -1319,18 +1303,18 @@
     {
       "added_at": "2021-03-11 23:02:00",
       "album": {
-        "name": "Congratulations (Acoustic)",
-        "url": "https://open.spotify.com/album/1I34ylW68rDFgyyjQz2k8E"
+        "name": "Strangers EP Unplugged",
+        "url": "https://open.spotify.com/album/139IHc8keqLycMck1EvMTz"
       },
       "artists": [
         {
-          "name": "Sunset & Highland",
-          "url": "https://open.spotify.com/artist/11gRZ3XWWyqrY8LUdV5EZT"
+          "name": "Seafret",
+          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
         }
       ],
-      "duration_ms": 237251,
-      "name": "Congratulations - Acoustic",
-      "url": "https://open.spotify.com/track/1dZyuawBYgIUKKevMXr8St"
+      "duration_ms": 242581,
+      "name": "Girl I Wish I Didn't Know - Acoustic",
+      "url": "https://open.spotify.com/track/2Zmt6TqxG2UGDxg4SjNVkA"
     },
     {
       "added_at": "2021-03-11 23:02:00",
@@ -1347,6 +1331,22 @@
       "duration_ms": 195657,
       "name": "Bigger Picture",
       "url": "https://open.spotify.com/track/2ty3xfjlNMJZHYHyloUrxV"
+    },
+    {
+      "added_at": "2021-03-11 23:02:00",
+      "album": {
+        "name": "Congratulations (Acoustic)",
+        "url": "https://open.spotify.com/album/1I34ylW68rDFgyyjQz2k8E"
+      },
+      "artists": [
+        {
+          "name": "Sunset & Highland",
+          "url": "https://open.spotify.com/artist/11gRZ3XWWyqrY8LUdV5EZT"
+        }
+      ],
+      "duration_ms": 237251,
+      "name": "Congratulations - Acoustic",
+      "url": "https://open.spotify.com/track/1dZyuawBYgIUKKevMXr8St"
     },
     {
       "added_at": "2021-03-11 23:02:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2021-03-11 23:02:00",
       "album": {
-        "name": "Joke's On You (Acoustic)",
-        "url": "https://open.spotify.com/album/3q6Z33KE8wBWCDvvm2FrYQ"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Lawrence",
-          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
-        }
-      ],
-      "duration_ms": 189729,
-      "name": "Joke's On You - Acoustic",
-      "url": "https://open.spotify.com/track/7sDO194LVW5x4vic4ZAjgy"
-    },
-    {
-      "added_at": "2021-03-11 23:02:00",
-      "album": {
         "name": "Keep It Simple (feat. Wilder Woods) [Acoustic]",
         "url": "https://open.spotify.com/album/25uDrMlNrw9SXufzkVl0jF"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 156315,
       "name": "Keep It Simple (feat. Wilder Woods) - Acoustic",
       "url": "https://open.spotify.com/track/4utWb5IGy6JGSOYd1Ie7Lv"
+    },
+    {
+      "added_at": "2021-03-11 23:02:00",
+      "album": {
+        "name": "Joke's On You (Acoustic)",
+        "url": "https://open.spotify.com/album/3q6Z33KE8wBWCDvvm2FrYQ"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Lawrence",
+          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
+        }
+      ],
+      "duration_ms": 189729,
+      "name": "Joke's On You - Acoustic",
+      "url": "https://open.spotify.com/track/7sDO194LVW5x4vic4ZAjgy"
     },
     {
       "added_at": "2021-03-11 23:02:00",
@@ -1579,6 +1579,42 @@
       "duration_ms": 231924,
       "name": "If I'm Being Honest",
       "url": "https://open.spotify.com/track/4JizrXo9waLOAqSJoA6MsA"
+    },
+    {
+      "added_at": "2021-03-11 23:02:00",
+      "album": {
+        "name": "Acoustic Collections",
+        "url": "https://open.spotify.com/album/7w7VRMggqPW7mcvsNR8xQd"
+      },
+      "artists": [
+        {
+          "name": "Megan Davies",
+          "url": "https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5"
+        },
+        {
+          "name": "Jaclyn Davies",
+          "url": "https://open.spotify.com/artist/5MKHjGZGjZ7mZV0JPs9iot"
+        }
+      ],
+      "duration_ms": 173400,
+      "name": "New Eyes - Acoustic",
+      "url": "https://open.spotify.com/track/4edFT7XYhwdnuRDECPQqGa"
+    },
+    {
+      "added_at": "2021-03-11 23:02:00",
+      "album": {
+        "name": "The Wave EP (Acoustic, Pt. 2)",
+        "url": "https://open.spotify.com/album/1jN9d28anuaMCN1zwv1NPw"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 145217,
+      "name": "Whiplash - Acoustic",
+      "url": "https://open.spotify.com/track/28dE98TER0FDRbPgXEvPAI"
     },
     {
       "added_at": "2021-03-11 23:02:00",
@@ -1687,22 +1723,6 @@
     {
       "added_at": "2021-03-11 23:02:00",
       "album": {
-        "name": "The Wave EP (Acoustic, Pt. 2)",
-        "url": "https://open.spotify.com/album/1jN9d28anuaMCN1zwv1NPw"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 145217,
-      "name": "Whiplash - Acoustic",
-      "url": "https://open.spotify.com/track/28dE98TER0FDRbPgXEvPAI"
-    },
-    {
-      "added_at": "2021-03-11 23:02:00",
-      "album": {
         "name": "HIGHEST IN THE ROOM",
         "url": "https://open.spotify.com/album/6xElOEltTrQ9AaULllcMxI"
       },
@@ -1715,22 +1735,6 @@
       "duration_ms": 158846,
       "name": "HIGHEST IN THE ROOM",
       "url": "https://open.spotify.com/track/4anqzBjFjQENRM1LpuQUjD"
-    },
-    {
-      "added_at": "2021-03-11 23:02:00",
-      "album": {
-        "name": "If You Knew Better",
-        "url": "https://open.spotify.com/album/3nW8vls0RsII5CHzvfzhWI"
-      },
-      "artists": [
-        {
-          "name": "Dan Owen",
-          "url": "https://open.spotify.com/artist/3wrdNgjTSLLQZ382sPyoA5"
-        }
-      ],
-      "duration_ms": 145346,
-      "name": "If You Knew Better",
-      "url": "https://open.spotify.com/track/0yWmKkenmsSXb7CIK40IOn"
     }
   ],
   "unique_name": "Hot Acoustics",

@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Cloonee
 
-567 songs - 1 day 8 hr 36 min - [published](https://open.spotify.com/playlist/78BxbIkAGKnzKUXystZiu3)
+568 songs - 1 day 8 hr 39 min - [published](https://open.spotify.com/playlist/78BxbIkAGKnzKUXystZiu3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -394,6 +394,7 @@
 | [Pink Shoes](https://open.spotify.com/track/6dSJ3T3dMTGMvMdAkvEBxl) | [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6), [Lee Wilson](https://open.spotify.com/artist/0kgsfMP7coSEX8bwUQVivr) | [Pink Shoes](https://open.spotify.com/album/4NEHGFE8a44yBMA4Dy5qwK) | 3:51 | 2022-05-20 | 2022-06-25 |
 | [Play \- Illyus & Barrientos Refix Edit](https://open.spotify.com/track/1UwdoU7jFkBoy8Y471jvap) | [N\-You\-Up](https://open.spotify.com/artist/0XQcADWLrtubMCp5DOXDE7), [LATASHÁ](https://open.spotify.com/artist/2lW1SPnxy7JqGV84TcSINi), [Illyus & Barrientos](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C) | [Play \(Illyus & Barrientos Remixes\)](https://open.spotify.com/album/0EvAnwj2I0QqwEyRE8U10Y) | 3:58 | 2022-08-12 |  |
 | [Play By My Rules](https://open.spotify.com/track/01xowIJrmShI6X9Q1WXqAd) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Play By My Rules](https://open.spotify.com/album/1FBavf0FlcPMSm1OaByO2p) | 3:37 | 2022-01-07 | 2022-02-26 |
+| [Play Me \(feat\. Everyone You Know\)](https://open.spotify.com/track/3QiokeqGnSusb9wbl7rtsV) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [Everyone You Know](https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM) | [Play Me \(feat\. Everyone You Know\)](https://open.spotify.com/album/44XyYHHyZUyRuisxaX5Xvo) | 2:55 | 2022-08-29 |  |
 | [Poison \(feat\. Darla Jade\)](https://open.spotify.com/track/7wNny3grnsHDuHxCrrcpgF) | [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Poison \(feat\. Darla Jade\)](https://open.spotify.com/album/7wUWLFKic6z5SDcTk8LIoA) | 3:03 | 2022-01-14 | 2022-04-23 |
 | [POPPIN](https://open.spotify.com/track/2zQDHAgYLtXRLhxY2gVc1N) | [Space Rangers](https://open.spotify.com/artist/25o5gyj3kk1DUaRkkcEkZy), [Danny Quest](https://open.spotify.com/artist/3F3uRvVluLsFqBrGaeJP3p) | [POPPIN](https://open.spotify.com/album/5G7GKIuDwEPmiqBHKoSnkM) | 3:07 | 2021-11-26 | 2022-05-07 |
 | [POSE](https://open.spotify.com/track/6f3rbcq9FuNFNrQBzhVmLu) | [Turtleneck \(UK\)](https://open.spotify.com/artist/5jIzXYWBUAzr2ztaTHD2fp) | [POSE](https://open.spotify.com/album/18RnXxo8DJeNW7obkHEL4Z) | 3:23 | 2021-11-26 | 2022-01-06 |
@@ -544,7 +545,7 @@
 | [Wasteland \(feat\. Little Boots\)](https://open.spotify.com/track/4DgTU3kxMj4VdDDTFqlIf0) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Wasteland \(feat\. Little Boots\)](https://open.spotify.com/album/4rDSanKbdv6i3X9xgCVYbP) | 3:01 | 2021-11-26 | 2022-03-26 |
 | [Wasting Time](https://open.spotify.com/track/7qIU50XAzFBYENwo5L5AeV) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Wasting Time](https://open.spotify.com/album/4CuSM5CQQKVwm29LXBnvEo) | 3:43 | 2022-04-08 | 2022-06-25 |
 | [Watch That Tongue](https://open.spotify.com/track/6o2XzOSxZTZwup8tqX0PXW) | [Cloverdale](https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB) | [Watch That Tongue](https://open.spotify.com/album/3CQWlc3iNFGxUb2kXP7mwe) | 3:55 | 2021-11-26 | 2022-02-26 |
-| [Watchout Now \- Edit](https://open.spotify.com/track/3xE2stSQacoD0Czsqvvvnw) | [Gettoblaster](https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG) | [Watchout Now](https://open.spotify.com/album/7ejGwT8P1gs3EhN3qnNpjx) | 2:52 | 2022-08-12 |  |
+| [Watchout Now \- Edit](https://open.spotify.com/track/3xE2stSQacoD0Czsqvvvnw) | [Gettoblaster](https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG) | [Watchout Now](https://open.spotify.com/album/7ejGwT8P1gs3EhN3qnNpjx) | 2:52 | 2022-08-12 | 2022-08-30 |
 | [We Don’t Need \- Club Edit](https://open.spotify.com/track/3hp1sx2wqHipS9fanoPrzV) | [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB) | [We Don’t Need \(Club Edit\)](https://open.spotify.com/album/5aW2wXp4q8UKrVEbBRt2g7) | 2:38 | 2022-03-25 | 2022-08-13 |
 | [We Got The Fire](https://open.spotify.com/track/4KGBFbXNCKNC6ZPwdhx0eq) | [FREAK ON](https://open.spotify.com/artist/2KujQ1kiORdmd4GCruc4sZ) | [We Got The Fire](https://open.spotify.com/album/2YvvywJmJkenbmYQAAkkzy) | 3:21 | 2022-08-26 |  |
 | [We Make It Pop](https://open.spotify.com/track/4VH8x8g1v3BfERMMEHpudm) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady), [The Shooters](https://open.spotify.com/artist/1RJGNOlgGHlD8vl0uire0y) | [We Make It Pop](https://open.spotify.com/album/1xSKqKJAjZseHGYhBnVXgw) | 2:16 | 2022-08-19 |  |

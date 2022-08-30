@@ -1,12 +1,12 @@
 {
   "description": "The best of modern blues rock. Cover: Anthony Gomes",
-  "num_followers": 132534,
+  "num_followers": 132566,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMDkzODE0MjhjNTYxZWI4ZTQ1MTdiMzVjY2E3YzAxYWY1",
+  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMGJhMGM2NTU5M2UwMTViOTZkODQ2ODU1NGVkMzllMmYw",
   "tracks": [
     {
       "added_at": "2022-08-26 04:02:00",
@@ -203,22 +203,6 @@
     {
       "added_at": "2020-10-16 04:02:00",
       "album": {
-        "name": "This Land",
-        "url": "https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 258200,
-      "name": "Low Down Rolling Stone",
-      "url": "https://open.spotify.com/track/59oXRNRnmmTbwgkZkV7l4g"
-    },
-    {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
         "name": "WAYS",
         "url": "https://open.spotify.com/album/061tBOltEwYjdHA9zKpC0m"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 181218,
       "name": "Any Way the Wind Blows",
       "url": "https://open.spotify.com/track/7rYi1fmfdWnC2dZJ3acnoW"
+    },
+    {
+      "added_at": "2020-10-16 04:02:00",
+      "album": {
+        "name": "This Land",
+        "url": "https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "duration_ms": 258200,
+      "name": "Low Down Rolling Stone",
+      "url": "https://open.spotify.com/track/59oXRNRnmmTbwgkZkV7l4g"
     },
     {
       "added_at": "2021-10-22 04:02:00",
@@ -379,6 +379,22 @@
     {
       "added_at": "2020-10-16 04:02:00",
       "album": {
+        "name": "Feral Roots",
+        "url": "https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu"
+      },
+      "artists": [
+        {
+          "name": "Rival Sons",
+          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
+        }
+      ],
+      "duration_ms": 284786,
+      "name": "Too Bad",
+      "url": "https://open.spotify.com/track/6CCkq87g6MxHZ5uCYCqdk1"
+    },
+    {
+      "added_at": "2020-10-16 04:02:00",
+      "album": {
         "name": "Good for Sumthin'",
         "url": "https://open.spotify.com/album/63jgqHjUAGRvbK1KWkMUMk"
       },
@@ -397,22 +413,6 @@
       "url": "https://open.spotify.com/track/211wEoUVThC6SoFSYLKUHa"
     },
     {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "Black Holes",
-        "url": "https://open.spotify.com/album/6ESjsIQSb9iKqCkDo3S2sc"
-      },
-      "artists": [
-        {
-          "name": "The Blue Stones",
-          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
-        }
-      ],
-      "duration_ms": 219586,
-      "name": "The Drop",
-      "url": "https://open.spotify.com/track/34uOD5RJT1kL2L3SCgNuRY"
-    },
-    {
       "added_at": "2021-05-14 04:01:00",
       "album": {
         "name": "Hardware",
@@ -427,6 +427,22 @@
       "duration_ms": 153760,
       "name": "My Lucky Card",
       "url": "https://open.spotify.com/track/4Ri5DZQb98Ho6SbRuDvB4b"
+    },
+    {
+      "added_at": "2020-10-16 04:02:00",
+      "album": {
+        "name": "Black Holes",
+        "url": "https://open.spotify.com/album/6ESjsIQSb9iKqCkDo3S2sc"
+      },
+      "artists": [
+        {
+          "name": "The Blue Stones",
+          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
+        }
+      ],
+      "duration_ms": 219586,
+      "name": "The Drop",
+      "url": "https://open.spotify.com/track/34uOD5RJT1kL2L3SCgNuRY"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -465,20 +481,20 @@
       "url": "https://open.spotify.com/track/3VuJi1qJ2gcL7XHjEJZuga"
     },
     {
-      "added_at": "2020-10-16 04:02:00",
+      "added_at": "2022-04-29 04:02:00",
       "album": {
-        "name": "Feral Roots",
-        "url": "https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu"
+        "name": "Mojo Hand",
+        "url": "https://open.spotify.com/album/1RKJoxtfx1GmCD3Mi1u31g"
       },
       "artists": [
         {
-          "name": "Rival Sons",
-          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
         }
       ],
-      "duration_ms": 284786,
-      "name": "Too Bad",
-      "url": "https://open.spotify.com/track/6CCkq87g6MxHZ5uCYCqdk1"
+      "duration_ms": 184676,
+      "name": "Mojo Hand",
+      "url": "https://open.spotify.com/track/1zG6mxl8KZE8Q4FBymh466"
     },
     {
       "added_at": "2020-10-16 04:02:00",
@@ -527,22 +543,6 @@
       "duration_ms": 328093,
       "name": "The Waltz",
       "url": "https://open.spotify.com/track/4WcFtmdPfCKal88DL3emL4"
-    },
-    {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Mojo Hand",
-        "url": "https://open.spotify.com/album/1RKJoxtfx1GmCD3Mi1u31g"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 184676,
-      "name": "Mojo Hand",
-      "url": "https://open.spotify.com/track/1zG6mxl8KZE8Q4FBymh466"
     },
     {
       "added_at": "2021-02-26 05:01:00",
@@ -641,22 +641,6 @@
       "url": "https://open.spotify.com/track/02V2PwXfovnT03QPHpp1SF"
     },
     {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "El Dorado",
-        "url": "https://open.spotify.com/album/0twx7uqxPQtmtpeURTlZB0"
-      },
-      "artists": [
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 234546,
-      "name": "Say You Will",
-      "url": "https://open.spotify.com/track/15vRL4NwrNpgTwFY5rPnNf"
-    },
-    {
       "added_at": "2021-07-23 04:01:00",
       "album": {
         "name": "Notches",
@@ -671,6 +655,22 @@
       "duration_ms": 423666,
       "name": "Notches",
       "url": "https://open.spotify.com/track/4aDBXR6cHLtxaO37iaQPml"
+    },
+    {
+      "added_at": "2020-10-16 04:02:00",
+      "album": {
+        "name": "El Dorado",
+        "url": "https://open.spotify.com/album/0twx7uqxPQtmtpeURTlZB0"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "duration_ms": 234546,
+      "name": "Say You Will",
+      "url": "https://open.spotify.com/track/15vRL4NwrNpgTwFY5rPnNf"
     },
     {
       "added_at": "2022-05-13 04:02:00",

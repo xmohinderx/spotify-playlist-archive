@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Ir Sais, Manuel Turizo\n",
-  "num_followers": 97414,
+  "num_followers": 97443,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzIzNDgwMCwwMDAwMDAwMGQ0ZGU1MGQxNGFlYzY3YWJiNDhjOGJhNDk2NjQ0ZDgy",
+  "snapshot_id": "MTY1NzIzNDgwMCwwMDAwMDAwMGFkMzhkYmU2NWYyNzBlZTc2YmFjMWM0MzFlOTdlMWJh",
   "tracks": [
     {
       "added_at": "2022-05-12 19:39:03",
@@ -255,26 +255,6 @@
     {
       "added_at": "2022-05-12 19:39:03",
       "album": {
-        "name": "Djadja (feat. Maluma) [Remix]",
-        "url": "https://open.spotify.com/album/0hUQJNECak9L5Baf75HfeV"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 166850,
-      "name": "Djadja (feat. Maluma) - Remix",
-      "url": "https://open.spotify.com/track/6AzKhCHOms83jvNVLsz0Bt"
-    },
-    {
-      "added_at": "2022-05-12 19:39:03",
-      "album": {
         "name": "Dream Girl (Remix)",
         "url": "https://open.spotify.com/album/0BeosbWOaMfZ5itwYQfw86"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 192452,
       "name": "Dream Girl - Remix",
       "url": "https://open.spotify.com/track/099tjv6oy2opbpCOA3nBwX"
+    },
+    {
+      "added_at": "2022-05-12 19:39:03",
+      "album": {
+        "name": "Djadja (feat. Maluma) [Remix]",
+        "url": "https://open.spotify.com/album/0hUQJNECak9L5Baf75HfeV"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 166850,
+      "name": "Djadja (feat. Maluma) - Remix",
+      "url": "https://open.spotify.com/track/6AzKhCHOms83jvNVLsz0Bt"
     },
     {
       "added_at": "2022-05-12 19:39:03",
@@ -663,26 +663,6 @@
     {
       "added_at": "2022-05-12 19:39:03",
       "album": {
-        "name": "Don't Rush (Remix)",
-        "url": "https://open.spotify.com/album/7F360hzRX7Ig1r5sQPc3db"
-      },
-      "artists": [
-        {
-          "name": "Young T & Bugsey",
-          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 201013,
-      "name": "Don't Rush - Remix",
-      "url": "https://open.spotify.com/track/4ltz90zE6hPqE12EGHDMDu"
-    },
-    {
-      "added_at": "2022-05-12 19:39:03",
-      "album": {
         "name": "Drogba (Joanna) [Global Latin Version]",
         "url": "https://open.spotify.com/album/1zVgKFneyzt9OMn0Bg8oBq"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 197214,
       "name": "Drogba (Joanna) - Global Latin Version",
       "url": "https://open.spotify.com/track/6P1lijcRsH94klfkw7zEUj"
+    },
+    {
+      "added_at": "2022-05-12 19:39:03",
+      "album": {
+        "name": "Don't Rush (Remix)",
+        "url": "https://open.spotify.com/album/7F360hzRX7Ig1r5sQPc3db"
+      },
+      "artists": [
+        {
+          "name": "Young T & Bugsey",
+          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 201013,
+      "name": "Don't Rush - Remix",
+      "url": "https://open.spotify.com/track/4ltz90zE6hPqE12EGHDMDu"
     },
     {
       "added_at": "2022-05-12 19:39:03",
@@ -1133,6 +1133,26 @@
       "url": "https://open.spotify.com/track/401WZ0HpjqSVtpCp6uVtij"
     },
     {
+      "added_at": "2022-05-12 19:39:03",
+      "album": {
+        "name": "Estrella",
+        "url": "https://open.spotify.com/album/2J0nrljwYK59zr9Fl3cRwb"
+      },
+      "artists": [
+        {
+          "name": "Kevin Roldan",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        },
+        {
+          "name": "Ayo Jay",
+          "url": "https://open.spotify.com/artist/1V6rvT87qMQvo6HAixjlpY"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "Estrella",
+      "url": "https://open.spotify.com/track/5sU7NsHPwHF991Gir4ovn5"
+    },
+    {
       "added_at": "2022-06-03 04:01:17",
       "album": {
         "name": "Ladies First",
@@ -1155,22 +1175,18 @@
     {
       "added_at": "2022-05-12 19:39:03",
       "album": {
-        "name": "Estrella",
-        "url": "https://open.spotify.com/album/2J0nrljwYK59zr9Fl3cRwb"
+        "name": "YA LLORARE(MOS)",
+        "url": "https://open.spotify.com/album/0njj27EsXU1J1G3OTt5Jqk"
       },
       "artists": [
         {
-          "name": "Kevin Roldan",
-          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
-        },
-        {
-          "name": "Ayo Jay",
-          "url": "https://open.spotify.com/artist/1V6rvT87qMQvo6HAixjlpY"
+          "name": "Aissa",
+          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
         }
       ],
-      "duration_ms": 205400,
-      "name": "Estrella",
-      "url": "https://open.spotify.com/track/5sU7NsHPwHF991Gir4ovn5"
+      "duration_ms": 230967,
+      "name": "YA LLORARE(MOS)",
+      "url": "https://open.spotify.com/track/1FM64gZzMzOxLKbv93SDws"
     },
     {
       "added_at": "2022-05-12 19:39:03",
@@ -1195,22 +1211,6 @@
       "duration_ms": 155368,
       "name": "iluminada",
       "url": "https://open.spotify.com/track/6C6tPNyzg9yEFKl2z2bEpx"
-    },
-    {
-      "added_at": "2022-05-12 19:39:03",
-      "album": {
-        "name": "YA LLORARE(MOS)",
-        "url": "https://open.spotify.com/album/0njj27EsXU1J1G3OTt5Jqk"
-      },
-      "artists": [
-        {
-          "name": "Aissa",
-          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
-        }
-      ],
-      "duration_ms": 230967,
-      "name": "YA LLORARE(MOS)",
-      "url": "https://open.spotify.com/track/1FM64gZzMzOxLKbv93SDws"
     },
     {
       "added_at": "2022-05-12 19:39:03",
@@ -1307,6 +1307,30 @@
     {
       "added_at": "2022-05-12 19:39:03",
       "album": {
+        "name": "iluminada",
+        "url": "https://open.spotify.com/album/50HmpTkK9ryM9PMnIRAOGr"
+      },
+      "artists": [
+        {
+          "name": "Zubi",
+          "url": "https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY"
+        },
+        {
+          "name": "Andrew Ace",
+          "url": "https://open.spotify.com/artist/00lZW5mZJvO9cXMz2nZ3DG"
+        },
+        {
+          "name": "anatu",
+          "url": "https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw"
+        }
+      ],
+      "duration_ms": 145909,
+      "name": "lo siento",
+      "url": "https://open.spotify.com/track/3UoaastAGLCnmL8kghw7uR"
+    },
+    {
+      "added_at": "2022-05-12 19:39:03",
+      "album": {
         "name": "Son of the City",
         "url": "https://open.spotify.com/album/7sQ6TFEEb8N88lvV6NE8OS"
       },
@@ -1383,30 +1407,6 @@
     {
       "added_at": "2022-05-12 19:39:03",
       "album": {
-        "name": "iluminada",
-        "url": "https://open.spotify.com/album/50HmpTkK9ryM9PMnIRAOGr"
-      },
-      "artists": [
-        {
-          "name": "Zubi",
-          "url": "https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY"
-        },
-        {
-          "name": "Andrew Ace",
-          "url": "https://open.spotify.com/artist/00lZW5mZJvO9cXMz2nZ3DG"
-        },
-        {
-          "name": "anatu",
-          "url": "https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw"
-        }
-      ],
-      "duration_ms": 145909,
-      "name": "lo siento",
-      "url": "https://open.spotify.com/track/3UoaastAGLCnmL8kghw7uR"
-    },
-    {
-      "added_at": "2022-05-12 19:39:03",
-      "album": {
         "name": "LOML (feat. Olamide)",
         "url": "https://open.spotify.com/album/5ti4HTub24sdxO98BEy0LH"
       },
@@ -1461,6 +1461,26 @@
       "url": "https://open.spotify.com/track/0X48LLpHYxS1u4JcBeq9m3"
     },
     {
+      "added_at": "2022-05-12 19:39:03",
+      "album": {
+        "name": "Popor\u00f3",
+        "url": "https://open.spotify.com/album/3JN06AJeeSNLxhpjSR4pLx"
+      },
+      "artists": [
+        {
+          "name": "Preto Show",
+          "url": "https://open.spotify.com/artist/4YlvKlWWHJl1TuXvrk94OW"
+        },
+        {
+          "name": "Teo No Beat",
+          "url": "https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2"
+        }
+      ],
+      "duration_ms": 169396,
+      "name": "Popor\u00f3",
+      "url": "https://open.spotify.com/track/5cTwelN24Ur09iRRqy43Oz"
+    },
+    {
       "added_at": "2022-05-19 23:00:00",
       "album": {
         "name": "A Little Bit",
@@ -1479,30 +1499,6 @@
       "duration_ms": 182449,
       "name": "A Little Bit (feat. Idahams)",
       "url": "https://open.spotify.com/track/5Fgu8nTqg5CtXxGJrZ0RH1"
-    },
-    {
-      "added_at": "2022-05-12 19:39:03",
-      "album": {
-        "name": "Don't Go (feat. Becky G and Mr. Eazi)",
-        "url": "https://open.spotify.com/album/2aK4sd781oVE0mFnHdrtZU"
-      },
-      "artists": [
-        {
-          "name": "Vice",
-          "url": "https://open.spotify.com/artist/0q4NrXqJnc367PieejuROJ"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 203598,
-      "name": "Don't Go (feat. Becky G and Mr. Eazi)",
-      "url": "https://open.spotify.com/track/3owxTeAZ7UXqQjeGloHGKg"
     }
   ],
   "unique_name": "Afro Ritmo",

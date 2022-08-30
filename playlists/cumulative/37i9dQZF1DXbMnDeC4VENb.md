@@ -4,7 +4,7 @@
 
 > Una eufórica dosis de urbano romántico en español.
 
-72 songs - 4 hr 17 min - [published](https://open.spotify.com/playlist/4Ype6nCuECr0BMyLCT7KVD)
+73 songs - 4 hr 21 min - [published](https://open.spotify.com/playlist/4Ype6nCuECr0BMyLCT7KVD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Sol](https://open.spotify.com/track/1Z2rizszFDMFwhAUIVjgnj) | [Teeam Revolver](https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK) | [Sol](https://open.spotify.com/album/3THBtFwKBwIdIEw7Nc044G) | 3:43 | 2022-05-25 |  |
 | [Sonríes Como Nadie](https://open.spotify.com/track/35upFzxLHai3PhYbZlF90f) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Sonríes Como Nadie](https://open.spotify.com/album/3HPEQMPNdF7YdcdxECYBPy) | 3:16 | 2022-05-25 |  |
 | [Stupid Love Story](https://open.spotify.com/track/1VIQPJc3fGfX23S6SD651l) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX), [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Apa y Can](https://open.spotify.com/album/4Qk0GRWSaErdxCk5jXXtlx) | 4:42 | 2022-05-25 |  |
-| [Suerte De Tenerte](https://open.spotify.com/track/6LxJtSZTMKkqNAwbDBcGl1) | [Santa Suerte](https://open.spotify.com/artist/1eblaVtbXUDGr90qMXfqAa), [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5), [Triser](https://open.spotify.com/artist/4QCe0145cBGKFqWhRTIVMK) | [Vivir Sedado](https://open.spotify.com/album/2TiNW2lvbrSwrSuhBlR2Mo) | 3:24 | 2022-05-25 |  |
+| [Suerte De Tenerte](https://open.spotify.com/track/65wQipmC5Q19Zr5TPfmqNS) | [Santa Suerte](https://open.spotify.com/artist/1eblaVtbXUDGr90qMXfqAa), [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5), [Triser](https://open.spotify.com/artist/4QCe0145cBGKFqWhRTIVMK) | [Vivir Sedado](https://open.spotify.com/album/0cTNsrShoaqo42T37tr4T1) | 3:24 | 2022-08-15 |  |
+| [Suerte De Tenerte](https://open.spotify.com/track/6LxJtSZTMKkqNAwbDBcGl1) | [Santa Suerte](https://open.spotify.com/artist/1eblaVtbXUDGr90qMXfqAa), [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5), [Triser](https://open.spotify.com/artist/4QCe0145cBGKFqWhRTIVMK) | [Vivir Sedado](https://open.spotify.com/album/2TiNW2lvbrSwrSuhBlR2Mo) | 3:24 | 2022-05-25 | 2022-08-30 |
 | [Sólo Si Es Contigo](https://open.spotify.com/track/6GTZrTCYaK60pZYvgaOw5Y) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Sólo Si Es Contigo](https://open.spotify.com/album/0QItw3Hx1o9LhCj8iJdzon) | 3:59 | 2022-05-25 |  |
 | [Te Marqué Pedo](https://open.spotify.com/track/4JfWJOuhXu0QVnev3jgC9S) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Te Marqué Pedo](https://open.spotify.com/album/5whw8haonqjs15S7DzG4Pv) | 3:36 | 2022-05-25 | 2022-07-29 |
 | [Te Marqué Pedo](https://open.spotify.com/track/4hAYQuavbB0FYhyxBTbVal) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Te Marqué Pedo](https://open.spotify.com/album/5RY8g4VHQsgPDxewtnPIEX) | 3:36 | 2022-06-27 |  |

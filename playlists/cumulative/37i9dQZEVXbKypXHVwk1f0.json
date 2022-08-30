@@ -518,6 +518,24 @@
     },
     {
       "album": {
+        "name": "Al Final",
+        "url": "https://open.spotify.com/album/6cf2JIz11JajgZwFQq6tpP"
+      },
+      "artists": [
+        {
+          "name": "Chris Jonex",
+          "url": "https://open.spotify.com/artist/3tLXPx5dsnZtsodGSf6t8E"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135409,
+      "name": "Al Final",
+      "url": "https://open.spotify.com/track/4KaR08ACjLPf3YGPSfNNeI"
+    },
+    {
+      "album": {
         "name": "Sauce Boyz 2",
         "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
       },
@@ -1647,7 +1665,7 @@
       ],
       "date_added": "2022-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 127053,
       "name": "Completa",
       "url": "https://open.spotify.com/track/6mCzElWVPTZMNPA2jjbFuJ"
@@ -1665,7 +1683,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 186953,
       "name": "CONSENTIRTE",
       "url": "https://open.spotify.com/track/5SRi5RHKLeq2KUhcLpRpZc"
@@ -6301,7 +6319,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-29",
+      "date_removed": null,
       "duration_ms": 142500,
       "name": "Noche de Perreo",
       "url": "https://open.spotify.com/track/1fqWQzieotsSQISAQPVntq"
@@ -6437,6 +6455,28 @@
       "duration_ms": 224626,
       "name": "Nrolo (Remix)",
       "url": "https://open.spotify.com/track/7jnFMhLxOzEjnepIGwlOJc"
+    },
+    {
+      "album": {
+        "name": "Nunca Digas Jam\u00e1s",
+        "url": "https://open.spotify.com/album/68eOK9YTfbG2IUEt3BH7Zm"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Rojo",
+          "url": "https://open.spotify.com/artist/0SMyQijONSkk6q5UseJXEN"
+        },
+        {
+          "name": "Aleks Syntek",
+          "url": "https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213189,
+      "name": "Nunca Digas Jam\u00e1s",
+      "url": "https://open.spotify.com/track/40V8awZXT0DdTcYOzRHH61"
     },
     {
       "album": {
@@ -9789,7 +9829,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-29",
+      "date_removed": null,
       "duration_ms": 155492,
       "name": "Work",
       "url": "https://open.spotify.com/track/5HnyFhrOuU5ykgXkowDkBK"
@@ -9811,7 +9851,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 192477,
       "name": "X \u00daLTIMA VEZ",
       "url": "https://open.spotify.com/track/48AJSd42lXpicsGqcgopof"
@@ -9887,7 +9927,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 230704,
       "name": "Yo No Soy Celoso",
       "url": "https://open.spotify.com/track/5kVZxyMY1gfdCLiChsfjn1"

@@ -1271,10 +1271,28 @@
       ],
       "date_added": "2022-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 223000,
       "name": "Flood",
       "url": "https://open.spotify.com/track/5I9ZDKKGg6TTNHTeS6bJJc"
+    },
+    {
+      "album": {
+        "name": "Flood",
+        "url": "https://open.spotify.com/album/3un2FDbZwuK5JidL4OFaTW"
+      },
+      "artists": [
+        {
+          "name": "Stella Donnelly",
+          "url": "https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es"
+        }
+      ],
+      "date_added": "2022-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "Flood",
+      "url": "https://open.spotify.com/track/6WstYKyrp8qkVBNtpcvaO1"
     },
     {
       "album": {
@@ -2386,6 +2404,24 @@
     },
     {
       "album": {
+        "name": "PRE PLEASURE",
+        "url": "https://open.spotify.com/album/6TojjY9JPhsgR5U6r9g3ZC"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "date_added": "2022-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223720,
+      "name": "Love, Try Not To Let Go",
+      "url": "https://open.spotify.com/track/3deuNvlPWsdSSUmXt1xCG6"
+    },
+    {
+      "album": {
         "name": "Love, Try Not To Let Go",
         "url": "https://open.spotify.com/album/2AFqo1i5mkxgmDu5AofJJ6"
       },
@@ -2397,7 +2433,7 @@
       ],
       "date_added": "2022-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 223720,
       "name": "Love, Try Not To Let Go",
       "url": "https://open.spotify.com/track/7AfohcV7S7wKlDxunC251v"

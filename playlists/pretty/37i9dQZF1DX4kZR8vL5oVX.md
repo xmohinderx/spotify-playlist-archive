@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Photo : Pomme
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,923 likes - 39 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,886 likes - 39 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

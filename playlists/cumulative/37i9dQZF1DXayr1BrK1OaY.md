@@ -4,7 +4,7 @@
 
 > let the dj set u free
 
-167 songs - 11 hr 34 min - [published](https://open.spotify.com/playlist/0U0cw4q8cHAIGrBJksfsst)
+168 songs - 11 hr 38 min - [published](https://open.spotify.com/playlist/0U0cw4q8cHAIGrBJksfsst)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Better \(feat\. Teddy Swims\)](https://open.spotify.com/track/5MnmuLgPmsAFkmG5n85cna) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Better \(feat\. Teddy Swims\)](https://open.spotify.com/album/0sZCthcwNebNdmwpXXmMKI) | 3:02 | 2022-07-15 |  |
 | [Better Place](https://open.spotify.com/track/2whKl8r9QCy1rZNBaLTMfN) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [Non Binary Place](https://open.spotify.com/album/2ZH8IpoBY4rSq3QB6Oez9u) | 3:46 | 2021-04-02 | 2022-07-29 |
 | [Bicameral \- Edit](https://open.spotify.com/track/3r12xxC2Euv8MWsK7eSXUv) | [The Range](https://open.spotify.com/artist/5xsSdtWHooM9IL5WnDWTdD) | [Bicameral](https://open.spotify.com/album/1jBjVvxPhEnT8xG6Mjx79y) | 3:26 | 2022-02-04 | 2022-07-29 |
+| [Black Mascara](https://open.spotify.com/track/2MdoVJfbVNOsZx9AQ7Eqjh) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Black Mascara](https://open.spotify.com/album/08Yy2hYrWdfYD6SsWLlixb) | 4:01 | 2022-08-26 |  |
 | [Body Back \(feat\. Maia Wright\)](https://open.spotify.com/track/57DJaoHdeeRrg7MWthNnee) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Gravity](https://open.spotify.com/album/2IAVHJdaRPFA6MQqXHoG75) | 3:34 | 2021-04-06 |  |
 | [Both Of Us \- Edit](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 3:49 | 2021-04-02 |  |
 | [Breathing](https://open.spotify.com/track/1MvLmHeLkaNgUScgbUVnWJ) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Breathing](https://open.spotify.com/album/1bgPsKJwqED6DoNaZNdM42) | 3:42 | 2021-09-24 |  |
@@ -162,7 +163,7 @@
 | [Toi et moi](https://open.spotify.com/track/5yzlBpUNflMjcwAryoo2zJ) | [Paradis](https://open.spotify.com/artist/1JV4iC1UhplRE8RFr8Q9n9) | [Toi Et Moi](https://open.spotify.com/album/72ykeilNg1F8LtbeZbmxs8) | 3:41 | 2021-04-02 | 2022-04-11 |
 | [Turn The Table](https://open.spotify.com/track/70HsIqEK1ATmos8ZAz4wHC) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Save Me](https://open.spotify.com/album/5jhFVn3MgAIVsTKv4YibYI) | 2:51 | 2022-06-24 | 2022-08-09 |
 | [Underwater](https://open.spotify.com/track/6Iw43Wm8LRMwCfgkKEed0u) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Messing With Magic](https://open.spotify.com/album/7uZGulWnnHuNfRkzGZ2yEa) | 2:57 | 2021-04-02 | 2022-06-24 |
-| [Untroubled](https://open.spotify.com/track/28WFDBPuVavZOK0KxkYSd7) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [Cold Water](https://open.spotify.com/album/5h8uwG3AnNcrJt3Jhx7i7y) | 4:00 | 2021-08-13 |  |
+| [Untroubled](https://open.spotify.com/track/28WFDBPuVavZOK0KxkYSd7) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [Cold Water](https://open.spotify.com/album/5h8uwG3AnNcrJt3Jhx7i7y) | 4:00 | 2021-08-13 | 2022-08-30 |
 | [UR Heart](https://open.spotify.com/track/1aLZxUcQtwSmGlcZuNjWpW) | [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46) | [UR Heart](https://open.spotify.com/album/2yZnnAxCi0BNCpjNwLvf2Z) | 3:21 | 2022-03-25 | 2022-04-02 |
 | [Us](https://open.spotify.com/track/63yVhTOpbvjkA4kvH1O2yi) | [Juno Mamba](https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL) | [Us](https://open.spotify.com/album/6pCGV4BvvjWT4uQJethJXF) | 4:51 | 2022-07-08 |  |
 | [Violence \- Club Mix](https://open.spotify.com/track/5oOlKEj3vJeivb5QGYJFKt) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [i\_o](https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG) | [Miss Anthropocene](https://open.spotify.com/album/6PVARuXkH97DKHlhI5wzgq) | 4:12 | 2021-04-02 | 2022-06-01 |

@@ -4,7 +4,7 @@
 
 > Músicas acústicas para acompanhar sua sessão de pilates.
 
-156 songs - 8 hr 48 min - [published](https://open.spotify.com/playlist/1MGkYmGQ7StCIsRe8pezD4)
+158 songs - 8 hr 54 min - [published](https://open.spotify.com/playlist/1MGkYmGQ7StCIsRe8pezD4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [All the Pretty Girls](https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 4:29 | 2022-07-26 |  |
 | [All the Pretty Girls](https://open.spotify.com/track/2eiY8qXiV6yReXSeuoplns) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [All the Pretty Girls](https://open.spotify.com/album/4Q4O06TIoYrl7zzVIOq3OF) | 4:29 | 2022-01-12 | 2022-07-29 |
 | [Annie’s Song](https://open.spotify.com/track/25FlnyyFGyuinq9s0o4KMG) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Annie's Song](https://open.spotify.com/album/3BdPldIWLfVrHDMUcANP5o) | 2:55 | 2022-08-03 |  |
-| [Anyone](https://open.spotify.com/track/0erax2xIkZnmkY4ou3XFPJ) | [April Darby](https://open.spotify.com/artist/3hYoiohAx0QaaQ6bKfBmyq) | [Anyone](https://open.spotify.com/album/5akH4weBEv1KwHrFw8A6Mu) | 3:50 | 2022-01-12 |  |
+| [Anyone](https://open.spotify.com/track/0erax2xIkZnmkY4ou3XFPJ) | [April Darby](https://open.spotify.com/artist/3hYoiohAx0QaaQ6bKfBmyq) | [Anyone](https://open.spotify.com/album/5akH4weBEv1KwHrFw8A6Mu) | 3:50 | 2022-01-12 | 2022-08-30 |
 | [Anyone](https://open.spotify.com/track/3SbLU4hAQHmdvHFDMVhAf9) | [Reason](https://open.spotify.com/artist/1afLcYZN3PBlA09Bw2P6e6) | [Anyone](https://open.spotify.com/album/2cPbdPF0OhQXxL6PFbXbxg) | 3:08 | 2022-01-12 |  |
 | [Arcade](https://open.spotify.com/track/1h80wgwF7yRWVL8hhcECwy) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Arcade](https://open.spotify.com/album/0c5J1SUFA3rPbIZhK1kj62) | 2:28 | 2022-01-12 |  |
 | [As It Was](https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [As It Was](https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V) | 2:56 | 2022-06-03 |  |
@@ -43,7 +43,7 @@
 | [Don't Start Now](https://open.spotify.com/track/3HHzqOZpEHA7jc1zSaaGPJ) | [Malen](https://open.spotify.com/artist/4IdTbZsJ8z00CNjZDdyV4g) | [Don't Start Now](https://open.spotify.com/album/0lg04Mk7Y1oTsG1UaOD5Wj) | 3:31 | 2022-07-26 |  |
 | [drivers license](https://open.spotify.com/track/66V40iz2mphPbYvuJVj13i) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [drivers license](https://open.spotify.com/album/4YhRWYWS8ntXFgQwvEIUrB) | 4:06 | 2022-01-12 |  |
 | [Dust in the Wind](https://open.spotify.com/track/61xloqK2WobSa8A9HhxR1T) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Dust in the Wind](https://open.spotify.com/album/58D2WGUEH9zfhjOBfwBy39) | 3:15 | 2022-01-12 |  |
-| [Dust On The Ground](https://open.spotify.com/track/3fyOzUoRQJmGxzJ0dPR1KW) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Flaws](https://open.spotify.com/album/6LZpRofbNxPgc8eXvw0j1S) | 4:03 | 2022-01-12 |  |
+| [Dust On The Ground](https://open.spotify.com/track/3fyOzUoRQJmGxzJ0dPR1KW) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Flaws](https://open.spotify.com/album/6LZpRofbNxPgc8eXvw0j1S) | 4:03 | 2022-01-12 | 2022-08-30 |
 | [Dynamite](https://open.spotify.com/track/3NJfUFlW79oBXVK7RTzGtV) | [Treadlights](https://open.spotify.com/artist/75lqw9jUFPanWhAqLVYIIK) | [Dynamite](https://open.spotify.com/album/5rq44uXnXAJ7ksLYjc4jvU) | 2:31 | 2022-05-06 |  |
 | [Easy From Now On](https://open.spotify.com/track/1zKF9MlZymZ5uuMVv4Us1G) | [Nicole Morenno](https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T) | [Easy From Now On](https://open.spotify.com/album/27eQoki17KCvSJWtta6xlq) | 3:18 | 2022-06-03 |  |
 | [Elliot's Song](https://open.spotify.com/track/0ZpMlIPfnFzVn3qVNeMMev) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Elliot's Song](https://open.spotify.com/album/3rCeLP9YZJ8UXvbrS3EMyy) | 2:33 | 2022-08-03 |  |
@@ -89,6 +89,7 @@
 | [I'll Be Here In The Morning](https://open.spotify.com/track/1ixqz9BFlp0UFVU7qHpgLq) | [Zoe De La Sera](https://open.spotify.com/artist/4bpDG5rmsYxLQHvRbIhSdx) | [I'll Be Here In The Morning](https://open.spotify.com/album/2nW7jJPpAPCgmscjywyL11) | 3:07 | 2022-06-03 |  |
 | [I'll Be There for You](https://open.spotify.com/track/4YV0dYmHFCMrnWNG47IJVd) | [Edith Whiskers](https://open.spotify.com/artist/15K8w0bfYieOr55vhSMgJN) | [Stop Stealing The Covers!](https://open.spotify.com/album/7mCxkaPLj0IGKmbBuLDYah) | 3:20 | 2022-01-12 | 2022-06-04 |
 | [In The Meantime](https://open.spotify.com/track/36bfoyLUV3h3UXZ7thFMhb) | [Nora Levario](https://open.spotify.com/artist/43F7L6jcGu1F0TpEmS27mw) | [In The Meantime](https://open.spotify.com/album/1th9BtaPuSyzyXHcXvqIZk) | 2:58 | 2022-01-12 |  |
+| [Iris](https://open.spotify.com/track/3Ebx5xEUEoB6iod7vSak8R) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Iris](https://open.spotify.com/album/4qKG2mFsVCwHvIzLOVwVox) | 2:45 | 2022-08-29 |  |
 | [Is This Love](https://open.spotify.com/track/0fBJCJyrMSnX7vZrvXKovG) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Is This Love](https://open.spotify.com/album/49R4sdFgr1sHH6RXXRdhPU) | 4:04 | 2022-01-12 | 2022-08-04 |
 | [It Aint me \- Acoustic](https://open.spotify.com/track/18ZK9RiSZdZVTkzVFw0yin) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [It Aint me \(Acoustic\)](https://open.spotify.com/album/0yXs7bd41x7RHD8cbLDpbV) | 3:12 | 2022-01-12 |  |
 | [jesus christ 2005 god bless america \(live\)](https://open.spotify.com/track/7uUmhF2T52mfYZryoHrz8D) | [SoSo!](https://open.spotify.com/artist/71aIra258gd74xusYNlIfO) | [jesus christ 2005 god bless america \(live\)](https://open.spotify.com/album/0yUHXSc7Ze9iusKBfBQi1x) | 3:56 | 2022-01-12 |  |
@@ -139,9 +140,10 @@
 | [Slow Hands \- Acoustic](https://open.spotify.com/track/7tAPTpA6VmKAeu3S5w9RVW) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Slow Hands \(Acoustic\)](https://open.spotify.com/album/3Uab8u2BzV3lvjD6LsUBVo) | 2:40 | 2022-01-12 | 2022-07-29 |
 | [Solo Dance](https://open.spotify.com/track/53QyxJU2t8lqlpIpNEl7I4) | [Amoll](https://open.spotify.com/artist/4V7hsAvT9RV1tkrexdrl00), [Oke](https://open.spotify.com/artist/2iYuQedAM3oShovJ0KK1Lo) | [Solo Dance](https://open.spotify.com/album/0Qo80uf5060lQafB7ACdtU) | 2:34 | 2022-01-12 |  |
 | [Someone You Loved](https://open.spotify.com/track/6o49CIQox7lfuEpxDw0FRN) | [SixForty1](https://open.spotify.com/artist/4dcnHUWXWZAHfA8FvQBtJS) | [Acoustic Sessions](https://open.spotify.com/album/0nlQDrmzmr6aLzw3TkkEze) | 3:25 | 2022-01-12 |  |
-| [Song For You](https://open.spotify.com/track/6okQlv5v9VaJEzoxBUAx4S) | [Alexi Murdoch](https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw) | [Four Songs](https://open.spotify.com/album/0n87tWacgsscFwyZgbnfRW) | 4:17 | 2022-01-12 |  |
+| [Song For You](https://open.spotify.com/track/6okQlv5v9VaJEzoxBUAx4S) | [Alexi Murdoch](https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw) | [Four Songs](https://open.spotify.com/album/0n87tWacgsscFwyZgbnfRW) | 4:17 | 2022-01-12 | 2022-08-30 |
 | [Sparks](https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 3:47 | 2022-01-12 | 2022-08-04 |
 | [Stay](https://open.spotify.com/track/3FDkUi2PPTBNGZRVyS19Gi) | [The Fretless](https://open.spotify.com/artist/76PwEGLUAzcEv43JTSxO2F), [Nuela Charles](https://open.spotify.com/artist/54l7IHesYhtkP9Dm4jN4Zl) | [Stay](https://open.spotify.com/album/1B6OjPf4sMsav2FSysIvJT) | 3:29 | 2022-01-12 |  |
+| [Stay with Me](https://open.spotify.com/track/3JQ71NtViPEp9utyY349ut) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [Stay with Me](https://open.spotify.com/album/4tpkRxlOxQaNMPlxczThF1) | 3:10 | 2022-08-29 |  |
 | [Sunday Best \- Acoustic Version](https://open.spotify.com/track/5OfJhmXJMOrmRqNqYWkXBk) | [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK) | [Sunday Best \(Acoustic Version\)](https://open.spotify.com/album/0RlzFvBDjmOP8LGXvOoJhu) | 2:30 | 2022-01-12 |  |
 | [Svag \(English\)](https://open.spotify.com/track/4EpjsroU2oIiG1LkbJU4Be) | [Kim Karlsson](https://open.spotify.com/artist/7nwmNkTPe1qgRs7cAYiWFm) | [Svag \(English\)](https://open.spotify.com/album/1weAnKrU2vl9XAdL8w7M22) | 3:10 | 2022-01-12 | 2022-05-07 |
 | [Sweet Creature](https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 3:44 | 2022-01-12 | 2022-08-04 |

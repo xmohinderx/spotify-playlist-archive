@@ -4,7 +4,7 @@
 
 > Claim your space with the newest songs from LGBTQIA+ artists\. Cover: Tsatsamis
 
-388 songs - 21 hr 3 min - [published](https://open.spotify.com/playlist/6zK7hnGvgZc1PZ34TAWzzK)
+390 songs - 21 hr 11 min - [published](https://open.spotify.com/playlist/6zK7hnGvgZc1PZ34TAWzzK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,8 +172,9 @@
 | [Higher \(feat\. Alex Newell\)](https://open.spotify.com/track/3nhbFjFcmVGyQGEAf1XzRX) | [VINCINT](https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd), [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN), [Princess Precious](https://open.spotify.com/artist/5Cdoa6dKizFjnWY3uHyBAw) | [Higher \(feat\. Alex Newell\)](https://open.spotify.com/album/2UOtOn2QEI35LNi1bCuyz7) | 3:07 | 2021-12-17 | 2022-01-29 |
 | [Higher \(Ty Sunderland Remix\)](https://open.spotify.com/track/3hJnH01oKI2NQKNp4x1ZrM) | [VINCINT](https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd), [Ty Sunderland](https://open.spotify.com/artist/31JqNN8V3p95rXgJ7WjeOI) | [Higher \(Ty Sunderland Remix\)](https://open.spotify.com/album/5n6ZV6vOBb1pOmVWJ1MLNj) | 3:40 | 2022-06-24 | 2022-07-26 |
 | [Hold The Girl](https://open.spotify.com/track/3Scmiyh1EaCkOmi3Ru86F1) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0ua112UCbolB2roGsqtsXw) | 4:05 | 2022-07-31 | 2022-08-20 |
-| [Hollywood Forever Cemetery](https://open.spotify.com/track/4JQAMpCvcTXg64unLqoDjf) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Shaking Hands With Elvis](https://open.spotify.com/album/3q8zi9mKfPybw6geOqHbI3) | 3:29 | 2022-06-10 |  |
+| [Hollywood Forever Cemetery](https://open.spotify.com/track/4JQAMpCvcTXg64unLqoDjf) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Shaking Hands With Elvis](https://open.spotify.com/album/3q8zi9mKfPybw6geOqHbI3) | 3:29 | 2022-06-10 | 2022-08-30 |
 | [Holy Water](https://open.spotify.com/track/2FcbwSTgbQeweZv0bA9hI7) | [Noah Davis](https://open.spotify.com/artist/7lVbD38aVBVACNzgta9awX) | [Holy Water](https://open.spotify.com/album/0IzNmO6dTVd1jebYlk6t41) | 3:20 | 2022-06-17 |  |
+| [Homerun Hitter](https://open.spotify.com/track/5tHalhXKz1l1rCJAMzx0PG) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Homerun Hitter](https://open.spotify.com/album/7KRLrC9FUfJDXC7p2E4q11) | 4:32 | 2022-08-26 |  |
 | [Honey Understand](https://open.spotify.com/track/3q5eBVe8qOa1x3f24xoBkc) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Honey Understand](https://open.spotify.com/album/5fNeCyH1z4hzntsX0bfRrM) | 4:01 | 2022-01-28 | 2022-07-09 |
 | [Hot & Heavy](https://open.spotify.com/track/2HqJI083DX9UDxNYGGAImf) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Hot & Heavy](https://open.spotify.com/album/3oInRchbCmQzKxmDdozxwu) | 4:10 | 2021-12-17 | 2022-01-26 |
 | [House Burn Down](https://open.spotify.com/track/48oBIuYRNSsKPigKQAQzXp) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [House Burn Down](https://open.spotify.com/album/5hoJlHBaY7391kmYXbV4zu) | 3:10 | 2021-12-17 | 2022-01-15 |
@@ -220,9 +221,10 @@
 | [Late Bloomer](https://open.spotify.com/track/0dTgjND9WVIfk9M2jHbzjr) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Late Bloomer](https://open.spotify.com/album/3s1OBLlL9gLOVl5Dtc5RHs) | 2:54 | 2021-12-24 | 2022-05-28 |
 | [Late To Da Party \(F\*CK BET\) \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/3GbQcjKWT7eVpUfzqwUjxv) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Late To Da Party \(F\*CK BET\) \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/album/0KmzOXbNJa5oTpxdCBhmHd) | 3:00 | 2022-06-24 | 2022-08-01 |
 | [Lavender Forever](https://open.spotify.com/track/3LlvRrcCyEGfI88ztZQM5r) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Lavender Forever](https://open.spotify.com/album/0lXxR8m9ZxXlxl8DLinruW) | 2:54 | 2022-03-25 |  |
+| [Leave It On The Dancefloor](https://open.spotify.com/track/30ae9cv36eD4Q6Zc8PVF8v) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Leave It On The Dancefloor](https://open.spotify.com/album/07Vt92F3DMX0GHMKSJ6A3o) | 2:55 | 2022-08-26 |  |
 | [Legs](https://open.spotify.com/track/4uP0hLJCQCm8PkXXCLw9Js) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [My Friend Mica](https://open.spotify.com/album/2ff0HOIQXJNMwAuKCuRXh8) | 2:53 | 2022-05-27 | 2022-07-29 |
 | [LEILÃO](https://open.spotify.com/track/2eFsVynOiCxtI4kvX0XClm) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LEILÃO](https://open.spotify.com/album/6yTozUPMJplNbIMrm1mlBL) | 3:07 | 2021-12-24 |  |
-| [Lesbionic](https://open.spotify.com/track/35Kejpttob4ICouzMYjZg1) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP) | [Lesbionic](https://open.spotify.com/album/6SnfGH3zgu3MILSTpPMHhu) | 2:41 | 2022-07-01 |  |
+| [Lesbionic](https://open.spotify.com/track/35Kejpttob4ICouzMYjZg1) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP) | [Lesbionic](https://open.spotify.com/album/6SnfGH3zgu3MILSTpPMHhu) | 2:41 | 2022-07-01 | 2022-08-30 |
 | [Let Them \(It's All Love\)](https://open.spotify.com/track/0BCdgJr5KgYGpsZYIEMLdj) | [Tom Aspaul](https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54) | [Let Them \(It's All Love\)](https://open.spotify.com/album/4YF87wW7YFhdQBg3FZxagR) | 3:03 | 2022-01-05 | 2022-07-19 |
 | [Let Us Die](https://open.spotify.com/track/5uDo40mspcWNHDCLlKTLoJ) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 3:53 | 2022-07-31 |  |
 | [Let's Try Being In Love \- Edit](https://open.spotify.com/track/7k77DeziPdXaF8uU4Wd7JP) | [Darren Hayes](https://open.spotify.com/artist/0ihJnGEjNnbM6uuTn3RHMo) | [Let's Try Being In Love](https://open.spotify.com/album/5JmCV3FO8KbWS9GxeTJkrA) | 4:00 | 2022-01-28 | 2022-07-15 |

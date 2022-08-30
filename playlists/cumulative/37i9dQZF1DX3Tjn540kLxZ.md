@@ -4,7 +4,7 @@
 
 > bops you can always rely on ◡̈
 
-329 songs - 18 hr 37 min - [published](https://open.spotify.com/playlist/4HyXgaWQ9jg50Del0ne7dK)
+330 songs - 18 hr 39 min - [published](https://open.spotify.com/playlist/4HyXgaWQ9jg50Del0ne7dK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Luna](https://open.spotify.com/track/1EuICIqrNGfq6RRiCcdUMi) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [So Long, See You Tomorrow](https://open.spotify.com/album/5ooUI8aNeCOW06ojMhx35b) | 3:10 | 2022-03-31 | 2022-04-18 |
 | [Mad](https://open.spotify.com/track/49U0v3W8dVb48l1Dd2DtyG) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Mad](https://open.spotify.com/album/268yQJnYEw2Zdu8ZPwyifa) | 3:48 | 2021-12-22 | 2022-06-29 |
 | [Marlboro Nights 2](https://open.spotify.com/track/397Pd8UMAQoqPk0ME1pLeW) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Marlboro Nights 2](https://open.spotify.com/album/2IkPJKUWx7Vp7mhGMlhQYB) | 2:29 | 2022-03-31 | 2022-04-21 |
+| [Marlboro Nights 2](https://open.spotify.com/track/5YSoAMG654oXW5Cz4VkFvL) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Marlboro Nights 2](https://open.spotify.com/album/5X1U12yQ1wgaf0PUuSMUJd) | 2:29 | 2022-07-04 |  |
 | [Maybe](https://open.spotify.com/track/2WharvxRQJWtEF8dcf7qkz) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Maybe](https://open.spotify.com/album/2XtDVJNzLpqWD1KpzgePzb) | 3:00 | 2021-12-22 | 2022-07-29 |
 | [Me Myself and Dollar Hell](https://open.spotify.com/track/3hU4FbUWQee85XY2cRFbRR) | [Mild High Club](https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG) | [Going Going Gone](https://open.spotify.com/album/0c4lcf4DqYasZzNz8n2VBl) | 3:00 | 2021-12-22 | 2022-06-21 |
 | [Me Myself and Dollar Hell](https://open.spotify.com/track/4N5JhudHz0Wlj9r3FDpGyi) | [Mild High Club](https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG) | [Me Myself and Dollar Hell](https://open.spotify.com/album/3vZXuT5lKdbUFKNhXLtN81) | 3:00 | 2021-12-22 | 2022-07-17 |
@@ -293,7 +294,7 @@
 | [The Birthday Party](https://open.spotify.com/track/3wFPsw1WQJevCFoKpoLyTF) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 4:45 | 2021-12-22 | 2022-07-22 |
 | [The King](https://open.spotify.com/track/4M6XHrTc4RtdgKN9gzEAM6) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [The King](https://open.spotify.com/album/7jLKIQhOF5Umjmo99VY9AM) | 3:26 | 2021-12-22 |  |
 | [The Kiss Of Venus \(Dominic Fike\)](https://open.spotify.com/track/3gCYle76USfbHa7VDTDg5V) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [The Kiss Of Venus \(Dominic Fike\)](https://open.spotify.com/album/2GtO6b1fzw82cCdbp4CGQv) | 2:23 | 2021-12-22 | 2022-07-29 |
-| [The Mission](https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [The Mission](https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn) | 3:11 | 2021-12-22 |  |
+| [The Mission](https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [The Mission](https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn) | 3:11 | 2021-12-22 | 2022-08-30 |
 | [The Modern Age](https://open.spotify.com/track/6uzUiybCLM0jYozLSvQZBo) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/5yIIxsXGdQucmqHN82xGig) | 3:32 | 2022-03-31 | 2022-04-16 |
 | [The Night](https://open.spotify.com/track/6Pi2UMOtnJJqEUD3Jdalyu) | [Finn Foxell](https://open.spotify.com/artist/1PK0iReBf7u59diWAXC3wR) | [The Night](https://open.spotify.com/album/0VO3UbmFTG70b27lk5N9p0) | 3:24 | 2022-03-31 | 2022-07-08 |
 | [The Rush](https://open.spotify.com/track/3sBpAPxT5vYbj0haQEr5lA) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [The Rush](https://open.spotify.com/album/4zXVhFAp2JpAv4iUOfEugv) | 3:18 | 2022-03-31 | 2022-07-07 |

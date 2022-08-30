@@ -4,7 +4,7 @@
 
 > The sweet sounds of Tunisia.
 
-76 songs - 4 hr 40 min - [published](https://open.spotify.com/playlist/62mwpd1Oiz7ftZFyQ4kKDf)
+77 songs - 4 hr 44 min - [published](https://open.spotify.com/playlist/62mwpd1Oiz7ftZFyQ4kKDf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Khamsa Wekhmis](https://open.spotify.com/track/1WfIwSm6R98vRKPvFol0hN) | [Master Sina](https://open.spotify.com/artist/50YiAJFQLuv0Ncrl9zuhZq), [Artmasta](https://open.spotify.com/artist/5nIOjs6hpgOxasVYbKOAui), [Si Lemhaf](https://open.spotify.com/artist/3wOVvUvge4HJNiAgSMPNox), [Kemo](https://open.spotify.com/artist/4LUDVIU6K7ViaJHlFSpPCs) | [Khamsa Wekhmis](https://open.spotify.com/album/2u0bXhsQ5cZgPLpYORW0F2) | 4:05 | 2022-01-24 |  |
 | [KI NKHAMMEM FIK](https://open.spotify.com/track/1IfYpioyU828cGgXJK44Bi) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [KI NKHAMMEM FIK](https://open.spotify.com/album/3957FwIBCahzUaxaboTkLO) | 4:06 | 2022-07-11 |  |
 | [KIMPEMBE](https://open.spotify.com/track/3c0VZLITP4HxbAzjgzz19e) | [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa), [John Six](https://open.spotify.com/artist/3GmOYEzhVHdhjo5aPfqdKv) | [NOISE CANCELLING](https://open.spotify.com/album/4h14WZbl7k6Tkm5GW0TCfU) | 3:57 | 2022-07-11 |  |
+| [La Loum](https://open.spotify.com/track/7pL1hO8qcS60CqWNqGAsZX) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [La Loum](https://open.spotify.com/album/3V5xcUcgTtSELeMEplZYO9) | 3:53 | 2022-08-29 |  |
 | [Lamma](https://open.spotify.com/track/76dTTUyLKgEuKRuImvjlQj) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Lamma](https://open.spotify.com/album/2qtvzn4F3p3I7tQcq8xtNF) | 3:25 | 2021-12-30 | 2022-07-12 |
 | [Ma Nabni](https://open.spotify.com/track/09L0R9oOyNyC6X8c2aKLtW) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Ma Nabni](https://open.spotify.com/album/0TlqqkCP5JzdgFHCJzuXwO) | 3:35 | 2021-12-10 |  |
 | [Ma Nebrach](https://open.spotify.com/track/5KjZ8cJusT3Y1NKbT0QtMA) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia), [G.G.A.](https://open.spotify.com/artist/7pvvxlzqdqSuBFOq5urhx5) | [Ma Nebrach](https://open.spotify.com/album/5PPzwGXpRP7UPCRLRW7Mb3) | 3:28 | 2021-12-10 | 2022-01-21 |
@@ -82,7 +83,7 @@
 | [Yammi](https://open.spotify.com/track/4kMMvrtAPcSRax1kZg49eg) | [Akram Mag](https://open.spotify.com/artist/2RN3sars5oJnOWYJYLFzU1) | [Yammi](https://open.spotify.com/album/3bjWzuvIOn8LIKZX0U7txb) | 3:41 | 2021-12-10 | 2022-06-19 |
 | [Zydi](https://open.spotify.com/track/1r2iFBeekSLVyHetVvfTpy) | [Dhaf](https://open.spotify.com/artist/5nl9XGwpeR6xL7UCNuUgk4), [Rayen Youssef](https://open.spotify.com/artist/3rN1K1PmBAEbbdg2sOP2Pk), [Tati G13](https://open.spotify.com/artist/0U33TLQaAlL1uLccEYAXnI) | [Zydi](https://open.spotify.com/album/2gijwfmnPlKT61VSEUOFxY) | 4:59 | 2022-06-18 |  |
 | [عشقك](https://open.spotify.com/track/5If25yKGs9cTAFNemTRzZK) | [Kemo](https://open.spotify.com/artist/2xfujkJKqTg2T4b1vbLKdY), [Si Lemhaf](https://open.spotify.com/artist/3wOVvUvge4HJNiAgSMPNox) | [عشقك](https://open.spotify.com/album/3nimuc0tltTLt71sJzkryF) | 2:53 | 2022-07-11 |  |
-| [يا مالي البيت](https://open.spotify.com/track/28hkUg6xp4S4VIWw5jdqiq) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [يا مالي البيت](https://open.spotify.com/album/35K9946pjbcu35cfcBMEUk) | 3:19 | 2022-05-13 |  |
+| [يا مالي البيت](https://open.spotify.com/track/28hkUg6xp4S4VIWw5jdqiq) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [يا مالي البيت](https://open.spotify.com/album/35K9946pjbcu35cfcBMEUk) | 3:19 | 2022-05-13 | 2022-08-30 |
 | [يامالي عليا](https://open.spotify.com/track/7DP29ns5AsjtWC12ld2IiC) | [Artmasta](https://open.spotify.com/artist/5nIOjs6hpgOxasVYbKOAui), [Kemo](https://open.spotify.com/artist/4LUDVIU6K7ViaJHlFSpPCs) | [يامالي عليا](https://open.spotify.com/album/4K6RK8yyrTiwFglvCHFt1p) | 3:44 | 2021-12-10 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

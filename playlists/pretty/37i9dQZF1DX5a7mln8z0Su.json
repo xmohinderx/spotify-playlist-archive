@@ -1,12 +1,12 @@
 {
   "description": "\ubb34\uc5b8\uac00 \uc774\uc0c1\ud55c \ub9c8\uc74c \uc18d \uc77c\ub801\uc784\uc744 \ub178\ub798\ub85c \ub290\uaef4\ubcf4\uc138\uc694.",
-  "num_followers": 3716,
+  "num_followers": 3730,
   "original_name": "\uad1c\ud788 \uc13c\uce58\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg5NDgzMCwwMDAwMDAwMGNjOGQ5ZDg5M2E0MjU5ZmQ3NDcwOTcxZGViM2VhNjUz",
+  "snapshot_id": "MTY2MDg5NDgzMCwwMDAwMDAwMDg3ZjBiM2Y2YjFiNGNjZTRhZTk5ZjljODFlYzc1Zjg3",
   "tracks": [
     {
       "added_at": "2022-08-19 07:40:30",
@@ -95,22 +95,6 @@
     {
       "added_at": "2022-08-19 07:40:30",
       "album": {
-        "name": "NewJeans 1st EP 'New Jeans'",
-        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 177946,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd"
-    },
-    {
-      "added_at": "2022-08-19 07:40:30",
-      "album": {
         "name": "Undo",
         "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
       },
@@ -131,6 +115,22 @@
     {
       "added_at": "2022-08-19 07:40:30",
       "album": {
+        "name": "Sun Dance",
+        "url": "https://open.spotify.com/album/7MBB4KRCEBlm48WhJwxSDd"
+      },
+      "artists": [
+        {
+          "name": "COOING",
+          "url": "https://open.spotify.com/artist/2NMLIfATxdqFuhx2jHcir8"
+        }
+      ],
+      "duration_ms": 217106,
+      "name": "Sun Dance",
+      "url": "https://open.spotify.com/track/0H7gG3rXd8ktRNAYhYOagP"
+    },
+    {
+      "added_at": "2022-08-19 07:40:30",
+      "album": {
         "name": "Syndrome",
         "url": "https://open.spotify.com/album/4YDtoADrhBQr4Epq57JRKX"
       },
@@ -143,6 +143,22 @@
       "duration_ms": 221146,
       "name": "Syndrome",
       "url": "https://open.spotify.com/track/1hZ2dSvv2O6HQo6p3gDtVO"
+    },
+    {
+      "added_at": "2022-08-19 07:40:30",
+      "album": {
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 177946,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd"
     },
     {
       "added_at": "2022-08-19 07:40:30",
@@ -179,22 +195,6 @@
       "duration_ms": 225320,
       "name": "Take Me (with 11Kitties)",
       "url": "https://open.spotify.com/track/00qHTh5I15qb1IToZI6PoZ"
-    },
-    {
-      "added_at": "2022-08-19 07:40:30",
-      "album": {
-        "name": "Sun Dance",
-        "url": "https://open.spotify.com/album/7MBB4KRCEBlm48WhJwxSDd"
-      },
-      "artists": [
-        {
-          "name": "COOING",
-          "url": "https://open.spotify.com/artist/2NMLIfATxdqFuhx2jHcir8"
-        }
-      ],
-      "duration_ms": 217106,
-      "name": "Sun Dance",
-      "url": "https://open.spotify.com/track/0H7gG3rXd8ktRNAYhYOagP"
     },
     {
       "added_at": "2022-08-19 07:40:30",
@@ -251,6 +251,22 @@
     {
       "added_at": "2022-08-19 07:40:30",
       "album": {
+        "name": "BOKE",
+        "url": "https://open.spotify.com/album/2Q3r9Ax0rqp8VGdMA4RUpD"
+      },
+      "artists": [
+        {
+          "name": "CIKI",
+          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
+        }
+      ],
+      "duration_ms": 184510,
+      "name": "BOKE",
+      "url": "https://open.spotify.com/track/3Rt7BjFHnJ4QxBGT897Vs2"
+    },
+    {
+      "added_at": "2022-08-19 07:40:30",
+      "album": {
         "name": "Drivin'",
         "url": "https://open.spotify.com/album/1y02gJR3gmhHjBl8zX3yAL"
       },
@@ -275,18 +291,22 @@
     {
       "added_at": "2022-08-19 07:40:30",
       "album": {
-        "name": "BOKE",
-        "url": "https://open.spotify.com/album/2Q3r9Ax0rqp8VGdMA4RUpD"
+        "name": "Sool",
+        "url": "https://open.spotify.com/album/1afTZ3mebjnJsWkg8n8WS7"
       },
       "artists": [
         {
-          "name": "CIKI",
-          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
+          "name": "snzae",
+          "url": "https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc"
+        },
+        {
+          "name": "THAMA",
+          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
         }
       ],
-      "duration_ms": 184510,
-      "name": "BOKE",
-      "url": "https://open.spotify.com/track/3Rt7BjFHnJ4QxBGT897Vs2"
+      "duration_ms": 230560,
+      "name": "Sool (Feat. THAMA)",
+      "url": "https://open.spotify.com/track/2wLsNE3k1TGAMm5JSqsYUX"
     },
     {
       "added_at": "2022-08-19 07:40:30",
@@ -323,26 +343,6 @@
       "duration_ms": 236703,
       "name": "Tictoc Tictoc Tictoc (with Beenzino)",
       "url": "https://open.spotify.com/track/69XHRP8AyobIbFELKSdOHp"
-    },
-    {
-      "added_at": "2022-08-19 07:40:30",
-      "album": {
-        "name": "Sool",
-        "url": "https://open.spotify.com/album/1afTZ3mebjnJsWkg8n8WS7"
-      },
-      "artists": [
-        {
-          "name": "snzae",
-          "url": "https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc"
-        },
-        {
-          "name": "THAMA",
-          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
-        }
-      ],
-      "duration_ms": 230560,
-      "name": "Sool (Feat. THAMA)",
-      "url": "https://open.spotify.com/track/2wLsNE3k1TGAMm5JSqsYUX"
     },
     {
       "added_at": "2022-08-19 07:40:30",
@@ -491,6 +491,22 @@
     {
       "added_at": "2022-08-19 07:40:30",
       "album": {
+        "name": "Undo",
+        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 202120,
+      "name": "Love is alone",
+      "url": "https://open.spotify.com/track/2X5DVuUYZvP4CwmPwnHSTD"
+    },
+    {
+      "added_at": "2022-08-19 07:40:30",
+      "album": {
         "name": "PAGE",
         "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
       },
@@ -523,22 +539,6 @@
     {
       "added_at": "2022-08-19 07:40:30",
       "album": {
-        "name": "Happy Birthday",
-        "url": "https://open.spotify.com/album/0NKjnMeZCTbRLZrMsbuMYg"
-      },
-      "artists": [
-        {
-          "name": "Son Dong Woon",
-          "url": "https://open.spotify.com/artist/5UzpNJd6zHGN9syxBN8fRY"
-        }
-      ],
-      "duration_ms": 186293,
-      "name": "Today's Weather",
-      "url": "https://open.spotify.com/track/5qFmtbxP5KjekiXwv0axsh"
-    },
-    {
-      "added_at": "2022-08-19 07:40:30",
-      "album": {
         "name": "Blank",
         "url": "https://open.spotify.com/album/5b0a08boLJNUaIdegaixqk"
       },
@@ -559,18 +559,34 @@
     {
       "added_at": "2022-08-19 07:40:30",
       "album": {
-        "name": "Undo",
-        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
+        "name": "Happy Birthday",
+        "url": "https://open.spotify.com/album/0NKjnMeZCTbRLZrMsbuMYg"
       },
       "artists": [
         {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+          "name": "Son Dong Woon",
+          "url": "https://open.spotify.com/artist/5UzpNJd6zHGN9syxBN8fRY"
         }
       ],
-      "duration_ms": 202120,
-      "name": "Love is alone",
-      "url": "https://open.spotify.com/track/2X5DVuUYZvP4CwmPwnHSTD"
+      "duration_ms": 186293,
+      "name": "Today's Weather",
+      "url": "https://open.spotify.com/track/5qFmtbxP5KjekiXwv0axsh"
+    },
+    {
+      "added_at": "2022-08-19 07:40:30",
+      "album": {
+        "name": "#mood",
+        "url": "https://open.spotify.com/album/5d5K0Jmy6346yBH2WGBatk"
+      },
+      "artists": [
+        {
+          "name": "CIKI",
+          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
+        }
+      ],
+      "duration_ms": 181120,
+      "name": "#mood",
+      "url": "https://open.spotify.com/track/4e1Fkgr0liTavbc4ReUJF4"
     },
     {
       "added_at": "2022-08-19 07:40:30",
@@ -591,18 +607,22 @@
     {
       "added_at": "2022-08-19 07:40:30",
       "album": {
-        "name": "#mood",
-        "url": "https://open.spotify.com/album/5d5K0Jmy6346yBH2WGBatk"
+        "name": "Hold tight",
+        "url": "https://open.spotify.com/album/2pjhKRc0AbbPEGZL2DzWpQ"
       },
       "artists": [
         {
-          "name": "CIKI",
-          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+        },
+        {
+          "name": "Jaw",
+          "url": "https://open.spotify.com/artist/3G71Qx8OKLTUCaPibXyNbn"
         }
       ],
-      "duration_ms": 181120,
-      "name": "#mood",
-      "url": "https://open.spotify.com/track/4e1Fkgr0liTavbc4ReUJF4"
+      "duration_ms": 174975,
+      "name": "Hold tight",
+      "url": "https://open.spotify.com/track/7oCyRPCxIT75x7nmEy3spP"
     },
     {
       "added_at": "2022-08-19 07:40:30",
@@ -643,6 +663,42 @@
     {
       "added_at": "2022-08-19 07:40:30",
       "album": {
+        "name": "Undo",
+        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 134026,
+      "name": "Traveler",
+      "url": "https://open.spotify.com/track/5vr62SPe4vI8p3WROSB5zY"
+    },
+    {
+      "added_at": "2022-08-19 07:40:30",
+      "album": {
+        "name": "BOKE (Remix) (feat. kojikoji)",
+        "url": "https://open.spotify.com/album/5P7rM2lWFsXTnWAU4kNgBV"
+      },
+      "artists": [
+        {
+          "name": "CIKI",
+          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
+        },
+        {
+          "name": "kojikoji",
+          "url": "https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs"
+        }
+      ],
+      "duration_ms": 184510,
+      "name": "BOKE (Remix) (feat. kojikoji)",
+      "url": "https://open.spotify.com/track/7He1dYoaMiB90dQQvN1vlJ"
+    },
+    {
+      "added_at": "2022-08-19 07:40:30",
+      "album": {
         "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
         "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
       },
@@ -675,18 +731,54 @@
     {
       "added_at": "2022-08-19 07:40:30",
       "album": {
-        "name": "Undo",
-        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
+        "name": "Beautiful struggle",
+        "url": "https://open.spotify.com/album/17X67myikY9mktuS1UHAyx"
       },
       "artists": [
         {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+          "name": "CHOMINWOO",
+          "url": "https://open.spotify.com/artist/1mISG0BUcXpI7kJKtRqthM"
+        },
+        {
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
         }
       ],
-      "duration_ms": 134026,
-      "name": "Traveler",
-      "url": "https://open.spotify.com/track/5vr62SPe4vI8p3WROSB5zY"
+      "duration_ms": 198875,
+      "name": "Love like a bouquet,",
+      "url": "https://open.spotify.com/track/7es4VhC71wFHRaVjkdQ5rK"
+    },
+    {
+      "added_at": "2022-08-19 07:40:30",
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/2wD9q03no4yJClNcp9HbTZ"
+      },
+      "artists": [
+        {
+          "name": "OoOo",
+          "url": "https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb"
+        }
+      ],
+      "duration_ms": 183281,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/3b68cnOtUujowS1vKK7klK"
+    },
+    {
+      "added_at": "2022-08-19 07:40:30",
+      "album": {
+        "name": "24\u2103",
+        "url": "https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 176759,
+      "name": "20MIN",
+      "url": "https://open.spotify.com/track/1Wl9MPBkb50b4uevY6sxkA"
     },
     {
       "added_at": "2022-08-19 07:40:30",
@@ -711,22 +803,6 @@
     {
       "added_at": "2022-08-19 07:40:30",
       "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/2wD9q03no4yJClNcp9HbTZ"
-      },
-      "artists": [
-        {
-          "name": "OoOo",
-          "url": "https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb"
-        }
-      ],
-      "duration_ms": 183281,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/3b68cnOtUujowS1vKK7klK"
-    },
-    {
-      "added_at": "2022-08-19 07:40:30",
-      "album": {
         "name": "theme park",
         "url": "https://open.spotify.com/album/5Tltw8nlbaJhFiavrLIh6i"
       },
@@ -739,126 +815,6 @@
       "duration_ms": 229500,
       "name": "theme park",
       "url": "https://open.spotify.com/track/7wxmAq4BHKdqsDZLIzMfaD"
-    },
-    {
-      "added_at": "2022-08-19 07:40:30",
-      "album": {
-        "name": "24\u2103",
-        "url": "https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5"
-      },
-      "artists": [
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "duration_ms": 176759,
-      "name": "20MIN",
-      "url": "https://open.spotify.com/track/1Wl9MPBkb50b4uevY6sxkA"
-    },
-    {
-      "added_at": "2022-08-19 07:40:30",
-      "album": {
-        "name": "BOKE (Remix) (feat. kojikoji)",
-        "url": "https://open.spotify.com/album/5P7rM2lWFsXTnWAU4kNgBV"
-      },
-      "artists": [
-        {
-          "name": "CIKI",
-          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
-        },
-        {
-          "name": "kojikoji",
-          "url": "https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs"
-        }
-      ],
-      "duration_ms": 184510,
-      "name": "BOKE (Remix) (feat. kojikoji)",
-      "url": "https://open.spotify.com/track/7He1dYoaMiB90dQQvN1vlJ"
-    },
-    {
-      "added_at": "2022-08-19 07:40:30",
-      "album": {
-        "name": "Hold tight",
-        "url": "https://open.spotify.com/album/2pjhKRc0AbbPEGZL2DzWpQ"
-      },
-      "artists": [
-        {
-          "name": "Mingginyu",
-          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
-        },
-        {
-          "name": "Jaw",
-          "url": "https://open.spotify.com/artist/3G71Qx8OKLTUCaPibXyNbn"
-        }
-      ],
-      "duration_ms": 174975,
-      "name": "Hold tight",
-      "url": "https://open.spotify.com/track/7oCyRPCxIT75x7nmEy3spP"
-    },
-    {
-      "added_at": "2022-08-19 07:40:30",
-      "album": {
-        "name": "SPACE MULAN",
-        "url": "https://open.spotify.com/album/1GHYvCUVTfIiKoB3qGRKV9"
-      },
-      "artists": [
-        {
-          "name": "B\u00c9BE YANA",
-          "url": "https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2"
-        },
-        {
-          "name": "Eelittlee",
-          "url": "https://open.spotify.com/artist/0wrqnbFtOGgYllDGFr8JPA"
-        }
-      ],
-      "duration_ms": 197306,
-      "name": "GO! (feat. Eelittlee)",
-      "url": "https://open.spotify.com/track/6Qxyowsn90zcO5guo9vwl1"
-    },
-    {
-      "added_at": "2022-08-19 07:40:30",
-      "album": {
-        "name": "New Edition 42",
-        "url": "https://open.spotify.com/album/0V3R0jOLSn5K6jqSdPMEAM"
-      },
-      "artists": [
-        {
-          "name": "015B",
-          "url": "https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7"
-        },
-        {
-          "name": "Kim Yuna",
-          "url": "https://open.spotify.com/artist/7jZIyFyyKxgPjelZN2nepI"
-        }
-      ],
-      "duration_ms": 164288,
-      "name": "Eunha Store (feat. KIM YUNA)",
-      "url": "https://open.spotify.com/track/30O9nIW0UhMSCmb7z3DOjm"
-    },
-    {
-      "added_at": "2022-08-19 07:40:30",
-      "album": {
-        "name": "To us (feat. wave to earth & WAVY)",
-        "url": "https://open.spotify.com/album/6XG56vDIbGbimJg3OiZJq3"
-      },
-      "artists": [
-        {
-          "name": "APRO",
-          "url": "https://open.spotify.com/artist/779Q9oJXqbVHN4DbtTYa6O"
-        },
-        {
-          "name": "wave to earth",
-          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
-        },
-        {
-          "name": "WAVY",
-          "url": "https://open.spotify.com/artist/1OFmtxGqmk075mMtlKWVRV"
-        }
-      ],
-      "duration_ms": 254826,
-      "name": "To us (feat. wave to earth & WAVY)",
-      "url": "https://open.spotify.com/track/1EsJBtBizwxkRdnf8w6lZc"
     },
     {
       "added_at": "2022-08-19 07:40:30",
@@ -883,18 +839,54 @@
     {
       "added_at": "2022-08-19 07:40:30",
       "album": {
-        "name": "Far From the Madding City",
-        "url": "https://open.spotify.com/album/0MVU7WcAUsxJso0To80KRy"
+        "name": "New Edition 42",
+        "url": "https://open.spotify.com/album/0V3R0jOLSn5K6jqSdPMEAM"
       },
       "artists": [
         {
-          "name": "OOHYO",
-          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
+          "name": "015B",
+          "url": "https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7"
+        },
+        {
+          "name": "Kim Yuna",
+          "url": "https://open.spotify.com/artist/7jZIyFyyKxgPjelZN2nepI"
         }
       ],
-      "duration_ms": 274582,
-      "name": "TENNIS",
-      "url": "https://open.spotify.com/track/3D2w1uW57boDEssh53zZWB"
+      "duration_ms": 164288,
+      "name": "Eunha Store (feat. KIM YUNA)",
+      "url": "https://open.spotify.com/track/30O9nIW0UhMSCmb7z3DOjm"
+    },
+    {
+      "added_at": "2022-08-19 07:40:30",
+      "album": {
+        "name": "Song of the rain",
+        "url": "https://open.spotify.com/album/7eFVeMo0jlFmx14ftSxTfn"
+      },
+      "artists": [
+        {
+          "name": "Bambiroyalprince",
+          "url": "https://open.spotify.com/artist/1bbfITRJAsyYTnyzhK67Xa"
+        }
+      ],
+      "duration_ms": 214556,
+      "name": "Song of the rain",
+      "url": "https://open.spotify.com/track/2o01gSDPP32gRfs53ImwVK"
+    },
+    {
+      "added_at": "2022-08-19 07:40:30",
+      "album": {
+        "name": "Hate this love",
+        "url": "https://open.spotify.com/album/4IYWYTgPE6Axo41x2G7MjD"
+      },
+      "artists": [
+        {
+          "name": "JERO",
+          "url": "https://open.spotify.com/artist/4ZT4Uk077lxYVzmVQhMLE9"
+        }
+      ],
+      "duration_ms": 183896,
+      "name": "Hate this love",
+      "url": "https://open.spotify.com/track/216Q6SYsRfTCU5FOZWedT0"
     }
   ],
   "unique_name": "\uad1c\ud788 \uc13c\uce58\ud574",

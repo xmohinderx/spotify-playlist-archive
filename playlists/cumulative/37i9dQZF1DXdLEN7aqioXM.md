@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-338 songs - 1 day 0 hr 30 min - [published](https://open.spotify.com/playlist/24oMtAVzB5ucnLKOOsTNft)
+340 songs - 1 day 0 hr 39 min - [published](https://open.spotify.com/playlist/24oMtAVzB5ucnLKOOsTNft)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,10 +14,11 @@
 | [A Glowing Light, a Promise](https://open.spotify.com/track/1KjBsubnUzAU1dvxIEUky4) | [Makeup And Vanity Set](https://open.spotify.com/artist/5iJnzz8Lfh1U3XQpBw95J3) | [88:88](https://open.spotify.com/album/2j4ro7dtXWPrSjjE7mdKqY) | 5:33 | 2022-04-01 |  |
 | [a ti y a mi nos quieren hacer daño](https://open.spotify.com/track/6XhDdfzt0TIv4g9jlFzqCq) | [Fran Laoren](https://open.spotify.com/artist/2g1W9bFVmdIyxvktrdDiO4) | [a ti y a mi nos quieren hacer daño](https://open.spotify.com/album/4nWVVZDWGn1M25LblFJHFg) | 3:08 | 2022-04-01 | 2022-04-08 |
 | [Aether](https://open.spotify.com/track/4OnuNLwvIgroDdTXX2k5dF) | [Virtual Mage](https://open.spotify.com/artist/1gEHdJ4DIEL2JuyRnNfMkt) | [Aether](https://open.spotify.com/album/1wI6LtwwxH0RU5eX2agIxe) | 3:26 | 2021-10-15 |  |
-| [After Hours](https://open.spotify.com/track/4qg3M8Ml85iliPG2WRQ3FM) | [Sunset Neon](https://open.spotify.com/artist/7LpQ9EjCi2klKhDUhAUa1s) | [Starlight \(Deluxe Edition\)](https://open.spotify.com/album/6o57o477VyFrubOJqTMwUV) | 4:00 | 2021-10-15 |  |
+| [After Hours](https://open.spotify.com/track/4qg3M8Ml85iliPG2WRQ3FM) | [Sunset Neon](https://open.spotify.com/artist/7LpQ9EjCi2klKhDUhAUa1s) | [Starlight \(Deluxe Edition\)](https://open.spotify.com/album/6o57o477VyFrubOJqTMwUV) | 4:00 | 2021-10-15 | 2022-08-30 |
 | [After Hours Run](https://open.spotify.com/track/2PZrXkW8QNsJwYdG9lgTmB) | [Mitch Murder](https://open.spotify.com/artist/7eOzCiTklgHxfpf6Mb3D2e) | [After Hours](https://open.spotify.com/album/1EBKGI7RyqrGScoPmqxzc1) | 3:40 | 2021-10-15 |  |
-| [Afterburner](https://open.spotify.com/track/3zeS75ZBNbUoAZW9eKUk4f) | [Moondragon](https://open.spotify.com/artist/30V9HnHJWlepVciwL4CHub) | [Man and Machine](https://open.spotify.com/album/6uGoWSuQIru4ShNEKc3KyP) | 4:00 | 2022-04-01 |  |
+| [Afterburner](https://open.spotify.com/track/3zeS75ZBNbUoAZW9eKUk4f) | [Moondragon](https://open.spotify.com/artist/30V9HnHJWlepVciwL4CHub) | [Man and Machine](https://open.spotify.com/album/6uGoWSuQIru4ShNEKc3KyP) | 4:00 | 2022-04-01 | 2022-08-30 |
 | [Aftershock](https://open.spotify.com/track/6gniSmkKkkwdjqBbUH3ebT) | [admo](https://open.spotify.com/artist/6azdwGecDNGbIpCpOOdWsG) | [77](https://open.spotify.com/album/6Ow6ZKzYPjeTCR2HcqJi3v) | 2:20 | 2021-10-15 |  |
+| [Align](https://open.spotify.com/track/5gLbWMM5KEp6IKqx0m0AtK) | [Voyage](https://open.spotify.com/artist/6aAXBSjwLUEukyVDhOuKNO) | [Align](https://open.spotify.com/album/4xhLEnoyZwuRFzMlP4VgeO) | 3:39 | 2022-08-26 |  |
 | [American Cars](https://open.spotify.com/track/2ybIQegkNqVdUMhLAtqv4d) | [Annie](https://open.spotify.com/artist/7zt6Af78CalxaPDqORfw8L) | [Dark Hearts](https://open.spotify.com/album/79w7ntjrEgNuWW1OziZ0zZ) | 3:46 | 2022-07-22 |  |
 | [American Cars](https://open.spotify.com/track/4J2fJp9BPeXZKjL3iCzVQy) | [Annie](https://open.spotify.com/artist/7zt6Af78CalxaPDqORfw8L) | [American Cars](https://open.spotify.com/album/0T3inf6wyoQqegxC1oojP3) | 3:46 | 2022-04-01 | 2022-04-18 |
 | [Anywhere](https://open.spotify.com/track/7KxyDBiAiTnb1vz62ZlH88) | [Jordan F](https://open.spotify.com/artist/1qSGsjM9uWGLbH1PWUPV7A), [Zealyn](https://open.spotify.com/artist/0ORcnlg4NMByo3oPEjaPae) | [Anywhere](https://open.spotify.com/album/2dwabGQ19mCQ16GhQL4BzA) | 3:35 | 2022-04-01 | 2022-08-04 |
@@ -47,6 +48,7 @@
 | [Choose Love \- Gerd Janson Remix](https://open.spotify.com/track/6v5cHVwMYQMDvAIlfr2Kwa) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Choose Love \(Gerd Janson Remix\)](https://open.spotify.com/album/4zYngChJ5qPNtbxb6Z3MSo) | 3:44 | 2022-04-01 | 2022-04-16 |
 | [City Lights](https://open.spotify.com/track/0LiyqVSNN07YMBKdnPhI8A) | [FM Attack](https://open.spotify.com/artist/6nPggL1KGOD5Ba0yK0cxmb) | [City Lights](https://open.spotify.com/album/3mw1X0nqWBSSWlGrbBYkCc) | 3:20 | 2022-07-29 |  |
 | [Closer](https://open.spotify.com/track/6pB59ef67FGX7zALUxATo4) | [JODA](https://open.spotify.com/artist/5KS3RbR9m98HkNQzJy7dZJ), [Robyn Sherwell](https://open.spotify.com/artist/6vjYF7rDvsWBtHnPgBmJvs), [Jono Grant](https://open.spotify.com/artist/3Cs2Bm3Qwc9It4om0KVK8E), [Darren Tate](https://open.spotify.com/artist/16330UNmPRfGUXZC6flXqI) | [Closer](https://open.spotify.com/album/1x7e6XjzMelvkqSJVMkQve) | 4:59 | 2022-07-29 |  |
+| [Coming Alive](https://open.spotify.com/track/3TBC8LrdpJCQ1yn07K1yMV) | [JODA](https://open.spotify.com/artist/5KS3RbR9m98HkNQzJy7dZJ), [Jono Grant](https://open.spotify.com/artist/3Cs2Bm3Qwc9It4om0KVK8E), [Darren Tate](https://open.spotify.com/artist/16330UNmPRfGUXZC6flXqI) | [JODA](https://open.spotify.com/album/5QoX8eEaLS9XKFFzYcFC6B) | 4:45 | 2022-08-26 |  |
 | [Communication](https://open.spotify.com/track/4C9lZarwkYUM0eQZysI4lI) | [Shook](https://open.spotify.com/artist/3JKd43oYlE7ifoodXetsuw) | [Communication](https://open.spotify.com/album/6sIU7SxKLLjjXkZ0jn33WO) | 3:17 | 2021-10-15 | 2022-07-29 |
 | [Communication](https://open.spotify.com/track/7iNcWFcBzOuUpw7S80nl1M) | [Shook](https://open.spotify.com/artist/3JKd43oYlE7ifoodXetsuw) | [Start Computer](https://open.spotify.com/album/0li071U8F6zngkai5EMZNI) | 3:17 | 2022-07-22 | 2022-08-03 |
 | [Contact](https://open.spotify.com/track/1j7YLlEbojw8RGhpqRSv0z) | [Downtown Binary](https://open.spotify.com/artist/0H4t3GcGse8cqfL222mfbv) | [Contact](https://open.spotify.com/album/3lzJ3fjoEil0E1K5VuI1aP) | 3:57 | 2022-07-08 | 2022-07-29 |

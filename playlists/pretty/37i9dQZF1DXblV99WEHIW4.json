@@ -1,12 +1,12 @@
 {
   "description": "Heavy music that understands.",
-  "num_followers": 128484,
+  "num_followers": 128615,
   "original_name": "Blood, Shred & Tears",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMGZjMjk5MTZmNDc1YmE5MmM2NzhhNjRjZDg1ZDhjODdm",
+  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMGJlYzkxY2EyNTcxYWRiNjA4OWUxYWE4MTExODBiNTA5",
   "tracks": [
     {
       "added_at": "2022-08-25 23:00:00",
@@ -267,22 +267,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "POST HUMAN: SURVIVAL HORROR",
-        "url": "https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 215003,
-      "name": "Teardrops",
-      "url": "https://open.spotify.com/track/3WATWS2Ywo5HeHtG0bE2iZ"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Getting Away With Murder",
         "url": "https://open.spotify.com/album/1OO7kdJ4OzWbjcroJEpfTH"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 208199,
       "name": "Scars",
       "url": "https://open.spotify.com/track/3TAtUJc4Sj913Cs5gBUeu0"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "POST HUMAN: SURVIVAL HORROR",
+        "url": "https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 215003,
+      "name": "Teardrops",
+      "url": "https://open.spotify.com/track/3WATWS2Ywo5HeHtG0bE2iZ"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -347,6 +347,22 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
+        "name": "The Black",
+        "url": "https://open.spotify.com/album/399w1uaOvKhnkczdMMZYoy"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "duration_ms": 229600,
+      "name": "I Won't Give In",
+      "url": "https://open.spotify.com/track/5MuWGLrqeqYEcpqWMq5M1w"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
         "name": "The Drug In Me Is Reimagined",
         "url": "https://open.spotify.com/album/6jYHiDFvM3aRaUVhd0FZkk"
       },
@@ -379,22 +395,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "The Black",
-        "url": "https://open.spotify.com/album/399w1uaOvKhnkczdMMZYoy"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        }
-      ],
-      "duration_ms": 229600,
-      "name": "I Won't Give In",
-      "url": "https://open.spotify.com/track/5MuWGLrqeqYEcpqWMq5M1w"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "A War You Cannot Win",
         "url": "https://open.spotify.com/album/2OhPQMXOtJ00nrffxY9B3W"
       },
@@ -423,6 +423,22 @@
       "duration_ms": 211430,
       "name": "Hated",
       "url": "https://open.spotify.com/track/2NRa4W3rH4e5GKQMN5Qwyr"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Dark Before Dawn",
+        "url": "https://open.spotify.com/album/09asAAZJ7rXedp9J8wqvBR"
+      },
+      "artists": [
+        {
+          "name": "Breaking Benjamin",
+          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
+        }
+      ],
+      "duration_ms": 214853,
+      "name": "Failure",
+      "url": "https://open.spotify.com/track/4wh0E9OwMCxcaIKTg0Mts9"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -479,22 +495,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Dark Before Dawn",
-        "url": "https://open.spotify.com/album/09asAAZJ7rXedp9J8wqvBR"
-      },
-      "artists": [
-        {
-          "name": "Breaking Benjamin",
-          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
-        }
-      ],
-      "duration_ms": 214853,
-      "name": "Failure",
-      "url": "https://open.spotify.com/track/4wh0E9OwMCxcaIKTg0Mts9"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "From Death To Destiny",
         "url": "https://open.spotify.com/album/3yPGBS6p3GyFb9EySzFyYi"
       },
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Evolution (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 284293,
-      "name": "A Reason to Fight",
-      "url": "https://open.spotify.com/track/1IbaGRC0Yrovu3MP1ipf1u"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Light Me Up",
         "url": "https://open.spotify.com/album/2vv6A1vmzEcnzaIkrKveJy"
       },
@@ -539,6 +523,38 @@
       "duration_ms": 235653,
       "name": "Make Me Wanna Die",
       "url": "https://open.spotify.com/track/2opyAm6zOyjR0An5LkblfN"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Dear Agony",
+        "url": "https://open.spotify.com/album/0mBvlBWI6TMDrWvQ8bKOKV"
+      },
+      "artists": [
+        {
+          "name": "Breaking Benjamin",
+          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
+        }
+      ],
+      "duration_ms": 256746,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/5r95yxmemjPfVSjCoSeAP4"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Evolution (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 284293,
+      "name": "A Reason to Fight",
+      "url": "https://open.spotify.com/track/1IbaGRC0Yrovu3MP1ipf1u"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -607,22 +623,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Dear Agony",
-        "url": "https://open.spotify.com/album/0mBvlBWI6TMDrWvQ8bKOKV"
-      },
-      "artists": [
-        {
-          "name": "Breaking Benjamin",
-          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
-        }
-      ],
-      "duration_ms": 256746,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/5r95yxmemjPfVSjCoSeAP4"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "weird!",
         "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
       },
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": ".5: The Gray Chapter (Special Edition)",
-        "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 275133,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/0GXmTWQBqvNZwpcfNeijlt"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Hold Me Down",
         "url": "https://open.spotify.com/album/5FakgYrhpMRNbQ9OaAP9YU"
       },
@@ -703,18 +687,18 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "SO WHAT?",
-        "url": "https://open.spotify.com/album/2jd0syXer1txxASx3W2oy0"
+        "name": ".5: The Gray Chapter (Special Edition)",
+        "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
       },
       "artists": [
         {
-          "name": "While She Sleeps",
-          "url": "https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a"
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         }
       ],
-      "duration_ms": 254500,
-      "name": "ANTI-SOCIAL",
-      "url": "https://open.spotify.com/track/5XExne04zgnDeAN8aIvMvM"
+      "duration_ms": 275133,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/0GXmTWQBqvNZwpcfNeijlt"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -731,6 +715,22 @@
       "duration_ms": 70602,
       "name": "Nobody, Not Even the Rain",
       "url": "https://open.spotify.com/track/4A5umEOMtQUqgMwREx1sI6"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "SO WHAT?",
+        "url": "https://open.spotify.com/album/2jd0syXer1txxASx3W2oy0"
+      },
+      "artists": [
+        {
+          "name": "While She Sleeps",
+          "url": "https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a"
+        }
+      ],
+      "duration_ms": 254500,
+      "name": "ANTI-SOCIAL",
+      "url": "https://open.spotify.com/track/5XExne04zgnDeAN8aIvMvM"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "SUCKAPUNCH",
-        "url": "https://open.spotify.com/album/1QjSCSvRARExE1aFFycrPz"
-      },
-      "artists": [
-        {
-          "name": "You Me At Six",
-          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
-        }
-      ],
-      "duration_ms": 339760,
-      "name": "Glasgow",
-      "url": "https://open.spotify.com/track/0mAgOUcUmplfqf610W5DVU"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Sap",
         "url": "https://open.spotify.com/album/4b0EWRIWecUztiLiaoEN4K"
       },
@@ -943,6 +927,22 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
+        "name": "SUCKAPUNCH",
+        "url": "https://open.spotify.com/album/1QjSCSvRARExE1aFFycrPz"
+      },
+      "artists": [
+        {
+          "name": "You Me At Six",
+          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
+        }
+      ],
+      "duration_ms": 339760,
+      "name": "Glasgow",
+      "url": "https://open.spotify.com/track/0mAgOUcUmplfqf610W5DVU"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
         "name": "Deftones",
         "url": "https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP"
       },
@@ -955,6 +955,22 @@
       "duration_ms": 237333,
       "name": "Anniversary of an Uninteresting Event",
       "url": "https://open.spotify.com/track/27gb40S6AIpP5lrhLxlfXj"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Nothing Left to Love",
+        "url": "https://open.spotify.com/album/3DJc8AdPpDbE2SRYXBB4p2"
+      },
+      "artists": [
+        {
+          "name": "Counterparts",
+          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
+        }
+      ],
+      "duration_ms": 277969,
+      "name": "Nothing Left to Love",
+      "url": "https://open.spotify.com/track/4VfMtL53N1ZBXbIl2qrKnX"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1003,22 +1019,6 @@
       "duration_ms": 215186,
       "name": "Toothpick",
       "url": "https://open.spotify.com/track/6mJcgp0qBS1sGqgYsOIpvr"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "Nothing Left to Love",
-        "url": "https://open.spotify.com/album/3DJc8AdPpDbE2SRYXBB4p2"
-      },
-      "artists": [
-        {
-          "name": "Counterparts",
-          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
-        }
-      ],
-      "duration_ms": 277969,
-      "name": "Nothing Left to Love",
-      "url": "https://open.spotify.com/track/4VfMtL53N1ZBXbIl2qrKnX"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Crescent-Shaped Depression",
-        "url": "https://open.spotify.com/album/0yReIcLlaod3FUytt1cN5o"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 144650,
-      "name": "Crescent-Shaped Depression",
-      "url": "https://open.spotify.com/track/1Ly3zw0kDRbWPwv9P9f6aq"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Holding Absence",
         "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 328133,
       "name": "Perish",
       "url": "https://open.spotify.com/track/2SsrRygE0VPkjFrtcV4PL8"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Crescent-Shaped Depression",
+        "url": "https://open.spotify.com/album/0yReIcLlaod3FUytt1cN5o"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 144650,
+      "name": "Crescent-Shaped Depression",
+      "url": "https://open.spotify.com/track/1Ly3zw0kDRbWPwv9P9f6aq"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Be Alone",
-        "url": "https://open.spotify.com/album/5SahpHDy9ILV71aslGyRVc"
+        "name": "Bad At Love",
+        "url": "https://open.spotify.com/album/0nPFXbRDNvRH0297jTqgTh"
       },
       "artists": [
         {
-          "name": "Acres",
-          "url": "https://open.spotify.com/artist/3y43zXffnLmhyQD1K4QCmD"
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
         }
       ],
-      "duration_ms": 281080,
-      "name": "Be Alone",
-      "url": "https://open.spotify.com/track/59B6hcX22AYUIKifFwBbFp"
+      "duration_ms": 202253,
+      "name": "Bad At Love",
+      "url": "https://open.spotify.com/track/3MwjVy96d2KNl99nrFPxmh"
     },
     {
       "added_at": "2022-08-25 23:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Have a quiet morning with this mix of something familiar and something new.",
-  "num_followers": 486119,
+  "num_followers": 486116,
   "original_name": "Mellow Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMDU3NjNkMjRjZDE1MDRiYTZmNDE3NzI1NmUyN2JmODY5",
+  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMDBkNjIyOTM3M2ZiOGNmZmQ0Y2FlOTlkODBhYWUyODk3",
   "tracks": [
     {
       "added_at": "2022-08-26 04:02:00",
@@ -229,22 +229,6 @@
       "url": "https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ"
     },
     {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
-        "name": "someone will love you better",
-        "url": "https://open.spotify.com/album/6j7jltAZFcJnnPPIJf9ZbP"
-      },
-      "artists": [
-        {
-          "name": "Johnny Orlando",
-          "url": "https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW"
-        }
-      ],
-      "duration_ms": 171213,
-      "name": "someone will love you better",
-      "url": "https://open.spotify.com/track/1wyAGxisJ8eiOdfFMSxBu7"
-    },
-    {
       "added_at": "2020-10-17 03:18:49",
       "album": {
         "name": "13 Reasons Why (Season 2)",
@@ -297,6 +281,22 @@
       "url": "https://open.spotify.com/track/54obxWf8kRI8TGtbX52YyJ"
     },
     {
+      "added_at": "2022-04-22 04:01:00",
+      "album": {
+        "name": "someone will love you better",
+        "url": "https://open.spotify.com/album/6j7jltAZFcJnnPPIJf9ZbP"
+      },
+      "artists": [
+        {
+          "name": "Johnny Orlando",
+          "url": "https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW"
+        }
+      ],
+      "duration_ms": 171213,
+      "name": "someone will love you better",
+      "url": "https://open.spotify.com/track/1wyAGxisJ8eiOdfFMSxBu7"
+    },
+    {
       "added_at": "2021-10-12 18:48:19",
       "album": {
         "name": "Keep Your Head Up Princess",
@@ -313,22 +313,6 @@
       "url": "https://open.spotify.com/track/19pChrR4hwdINqoOFUo2Hj"
     },
     {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Songs of Sonder",
-        "url": "https://open.spotify.com/album/5o1yAsAo4mvlgYptShBCow"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 181266,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/2jv3f5GKP8ibGI0kvSQJc2"
-    },
-    {
       "added_at": "2020-10-17 03:18:49",
       "album": {
         "name": "\u00f7 (Deluxe)",
@@ -343,6 +327,22 @@
       "duration_ms": 248413,
       "name": "Hearts Don't Break Around Here",
       "url": "https://open.spotify.com/track/2dfHh7ECGxfNqZTQno09Vk"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Songs of Sonder",
+        "url": "https://open.spotify.com/album/5o1yAsAo4mvlgYptShBCow"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 181266,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/2jv3f5GKP8ibGI0kvSQJc2"
     },
     {
       "added_at": "2020-10-17 03:18:49",
@@ -525,22 +525,6 @@
       "url": "https://open.spotify.com/track/2IssBpPtHcViZL5vYQNHhA"
     },
     {
-      "added_at": "2020-10-17 03:18:49",
-      "album": {
-        "name": "Lady Like",
-        "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 194786,
-      "name": "Lady Like",
-      "url": "https://open.spotify.com/track/7c3Y6INQrmNXDAOquinyw4"
-    },
-    {
       "added_at": "2022-04-08 04:01:00",
       "album": {
         "name": "I Was Born To Love You",
@@ -559,6 +543,22 @@
       "duration_ms": 265843,
       "name": "I Was Born To Love You",
       "url": "https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv"
+    },
+    {
+      "added_at": "2020-10-17 03:18:49",
+      "album": {
+        "name": "Lady Like",
+        "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 194786,
+      "name": "Lady Like",
+      "url": "https://open.spotify.com/track/7c3Y6INQrmNXDAOquinyw4"
     },
     {
       "added_at": "2020-10-17 03:18:49",
@@ -595,22 +595,6 @@
     {
       "added_at": "2020-10-17 03:18:49",
       "album": {
-        "name": "To Let A Good Thing Die",
-        "url": "https://open.spotify.com/album/5ON0EY1YuVEJPwj17yYtwO"
-      },
-      "artists": [
-        {
-          "name": "Bruno Major",
-          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
-        }
-      ],
-      "duration_ms": 199903,
-      "name": "Old Fashioned",
-      "url": "https://open.spotify.com/track/0j7sWqI2qyFaVSdcwzcb9N"
-    },
-    {
-      "added_at": "2020-10-17 03:18:49",
-      "album": {
         "name": "Real Estate",
         "url": "https://open.spotify.com/album/6nViscFT0UsASEnVlpObPI"
       },
@@ -627,18 +611,18 @@
     {
       "added_at": "2020-10-17 03:18:49",
       "album": {
-        "name": "Encore",
-        "url": "https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d"
+        "name": "To Let A Good Thing Die",
+        "url": "https://open.spotify.com/album/5ON0EY1YuVEJPwj17yYtwO"
       },
       "artists": [
         {
-          "name": "Anderson East",
-          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
         }
       ],
-      "duration_ms": 222400,
-      "name": "This Too Shall Last",
-      "url": "https://open.spotify.com/track/0CuXzMEgFzuQhLEYQHYas4"
+      "duration_ms": 199903,
+      "name": "Old Fashioned",
+      "url": "https://open.spotify.com/track/0j7sWqI2qyFaVSdcwzcb9N"
     },
     {
       "added_at": "2021-12-10 05:01:00",
@@ -661,6 +645,22 @@
       "url": "https://open.spotify.com/track/5HphhcOuLFWBj9IghbrKJB"
     },
     {
+      "added_at": "2020-10-17 03:18:49",
+      "album": {
+        "name": "Encore",
+        "url": "https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d"
+      },
+      "artists": [
+        {
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "This Too Shall Last",
+      "url": "https://open.spotify.com/track/0CuXzMEgFzuQhLEYQHYas4"
+    },
+    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "Meet The Moonlight",
@@ -675,74 +675,6 @@
       "duration_ms": 305607,
       "name": "Meet The Moonlight",
       "url": "https://open.spotify.com/track/6M70kLblnAfCQ9uj8BdcUR"
-    },
-    {
-      "added_at": "2022-05-20 04:01:00",
-      "album": {
-        "name": "The Way That Lovers Do",
-        "url": "https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA"
-      },
-      "artists": [
-        {
-          "name": "Prateek Kuhad",
-          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
-        }
-      ],
-      "duration_ms": 153693,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/47hXMyQDGW8sA1NGqmFL7h"
-    },
-    {
-      "added_at": "2020-10-17 03:18:49",
-      "album": {
-        "name": "Funeral Singers",
-        "url": "https://open.spotify.com/album/3sxhYvPOJo2WYjEhvCaA2n"
-      },
-      "artists": [
-        {
-          "name": "Sylvan Esso",
-          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
-        },
-        {
-          "name": "Collections Of Colonies Of Bees",
-          "url": "https://open.spotify.com/artist/4mGXknIZtImmEXjSQfGGQp"
-        }
-      ],
-      "duration_ms": 219374,
-      "name": "Funeral Singers",
-      "url": "https://open.spotify.com/track/5Y42u37PlyQXegnuI1Hpo1"
-    },
-    {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 197453,
-      "name": "Petrified",
-      "url": "https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz"
-    },
-    {
-      "added_at": "2020-10-17 03:18:49",
-      "album": {
-        "name": "Patrick Droney",
-        "url": "https://open.spotify.com/album/3tdnCuYNUXbWjeTEfFFZ31"
-      },
-      "artists": [
-        {
-          "name": "Patrick Droney",
-          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
-        }
-      ],
-      "duration_ms": 251161,
-      "name": "High Hope",
-      "url": "https://open.spotify.com/track/51hx5VSyIkTzwRrs5DJjQ3"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -765,20 +697,56 @@
       "url": "https://open.spotify.com/track/2dNGIZvZF71AR72OHpo3CE"
     },
     {
-      "added_at": "2022-07-29 04:02:00",
+      "added_at": "2020-10-17 03:18:49",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h"
+        "name": "Funeral Singers",
+        "url": "https://open.spotify.com/album/3sxhYvPOJo2WYjEhvCaA2n"
       },
       "artists": [
         {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+        },
+        {
+          "name": "Collections Of Colonies Of Bees",
+          "url": "https://open.spotify.com/artist/4mGXknIZtImmEXjSQfGGQp"
         }
       ],
-      "duration_ms": 201541,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN"
+      "duration_ms": 219374,
+      "name": "Funeral Singers",
+      "url": "https://open.spotify.com/track/5Y42u37PlyQXegnuI1Hpo1"
+    },
+    {
+      "added_at": "2022-05-20 04:01:00",
+      "album": {
+        "name": "The Way That Lovers Do",
+        "url": "https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "duration_ms": 153693,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/47hXMyQDGW8sA1NGqmFL7h"
+    },
+    {
+      "added_at": "2020-10-17 03:18:49",
+      "album": {
+        "name": "Patrick Droney",
+        "url": "https://open.spotify.com/album/3tdnCuYNUXbWjeTEfFFZ31"
+      },
+      "artists": [
+        {
+          "name": "Patrick Droney",
+          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
+        }
+      ],
+      "duration_ms": 251161,
+      "name": "High Hope",
+      "url": "https://open.spotify.com/track/51hx5VSyIkTzwRrs5DJjQ3"
     },
     {
       "added_at": "2020-10-17 03:18:49",
@@ -797,6 +765,22 @@
       "url": "https://open.spotify.com/track/3XITcXbaKS08ardf8ahKqM"
     },
     {
+      "added_at": "2022-04-08 04:01:00",
+      "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 197453,
+      "name": "Petrified",
+      "url": "https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz"
+    },
+    {
       "added_at": "2020-10-17 03:18:49",
       "album": {
         "name": "After All",
@@ -811,6 +795,22 @@
       "duration_ms": 195360,
       "name": "I Tried",
       "url": "https://open.spotify.com/track/7nce2oQRyKkRb9OCkyKq8u"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 201541,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN"
     },
     {
       "added_at": "2020-10-17 03:18:49",
@@ -1013,6 +1013,22 @@
       "url": "https://open.spotify.com/track/2fHOiCZWlGwLCEJx1Mpn3z"
     },
     {
+      "added_at": "2020-10-17 03:18:49",
+      "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "duration_ms": 312613,
+      "name": "Out Of The Blue",
+      "url": "https://open.spotify.com/track/3aV4xJGmhJHnyRhnzx5iHE"
+    },
+    {
       "added_at": "2022-04-22 04:01:00",
       "album": {
         "name": "Masquerades",
@@ -1033,22 +1049,6 @@
       "url": "https://open.spotify.com/track/6be7birJOF85i9dL0wUrBg"
     },
     {
-      "added_at": "2020-10-17 03:18:49",
-      "album": {
-        "name": "Expectations",
-        "url": "https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP"
-      },
-      "artists": [
-        {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
-        }
-      ],
-      "duration_ms": 312613,
-      "name": "Out Of The Blue",
-      "url": "https://open.spotify.com/track/3aV4xJGmhJHnyRhnzx5iHE"
-    },
-    {
       "added_at": "2022-03-11 05:02:00",
       "album": {
         "name": "once in a moon",
@@ -1063,6 +1063,22 @@
       "duration_ms": 245175,
       "name": "once in a moon",
       "url": "https://open.spotify.com/track/4ZlHqeXbItX1qC86aFUax1"
+    },
+    {
+      "added_at": "2021-07-30 04:01:00",
+      "album": {
+        "name": "Growth",
+        "url": "https://open.spotify.com/album/4pCquj67SkPo5SNpJ5Rsjs"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 170434,
+      "name": "Cross My Mind",
+      "url": "https://open.spotify.com/track/6TKMXuPoDlPZYEkpS5CMB7"
     },
     {
       "added_at": "2021-11-19 15:05:45",
@@ -1083,22 +1099,6 @@
       "duration_ms": 175413,
       "name": "(Wish I Didn't Have to) Lie [feat. JORDY]",
       "url": "https://open.spotify.com/track/0HXEPlkF9FrfuuDBCbsEAO"
-    },
-    {
-      "added_at": "2021-07-30 04:01:00",
-      "album": {
-        "name": "Growth",
-        "url": "https://open.spotify.com/album/4pCquj67SkPo5SNpJ5Rsjs"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 170434,
-      "name": "Cross My Mind",
-      "url": "https://open.spotify.com/track/6TKMXuPoDlPZYEkpS5CMB7"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -1133,22 +1133,6 @@
       "url": "https://open.spotify.com/track/6ffJ9jgxnipGi0SBzDAbqY"
     },
     {
-      "added_at": "2021-07-16 04:01:00",
-      "album": {
-        "name": "Why Don't You Touch Me",
-        "url": "https://open.spotify.com/album/04NUa9SytI8eol6ylIS9ai"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 197746,
-      "name": "Why Don't You Touch Me",
-      "url": "https://open.spotify.com/track/7wnV2fCAoOMkFCMGFxUmsM"
-    },
-    {
       "added_at": "2022-04-08 04:01:00",
       "album": {
         "name": "Box of Regrets",
@@ -1163,6 +1147,22 @@
       "duration_ms": 196731,
       "name": "Box of Regrets",
       "url": "https://open.spotify.com/track/242BGnQ7Mul1jcRYyyfWko"
+    },
+    {
+      "added_at": "2021-07-16 04:01:00",
+      "album": {
+        "name": "Why Don't You Touch Me",
+        "url": "https://open.spotify.com/album/04NUa9SytI8eol6ylIS9ai"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 197746,
+      "name": "Why Don't You Touch Me",
+      "url": "https://open.spotify.com/track/7wnV2fCAoOMkFCMGFxUmsM"
     },
     {
       "added_at": "2020-10-17 03:18:49",
@@ -1189,6 +1189,26 @@
       "url": "https://open.spotify.com/track/2yCT259s8awbxVuW9bBS31"
     },
     {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "about time",
+        "url": "https://open.spotify.com/album/5vMVHkJ4komTyjWLIax60u"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        },
+        {
+          "name": "Takahiro Izumikawa",
+          "url": "https://open.spotify.com/artist/4CJAJc3P508XZPuIOi1c8D"
+        }
+      ],
+      "duration_ms": 193047,
+      "name": "about time",
+      "url": "https://open.spotify.com/track/2khJckZKgm10rTK583uKuQ"
+    },
+    {
       "added_at": "2020-10-17 03:18:49",
       "album": {
         "name": "Free Yourself Up",
@@ -1203,22 +1223,6 @@
       "duration_ms": 346400,
       "name": "Musta Been Something",
       "url": "https://open.spotify.com/track/0Vr6vFlxGoAMs6RPA5vJZY"
-    },
-    {
-      "added_at": "2022-07-08 04:02:00",
-      "album": {
-        "name": "Us",
-        "url": "https://open.spotify.com/album/2J8gElhzAsvDSeU6kJvdZY"
-      },
-      "artists": [
-        {
-          "name": "Laura Marano",
-          "url": "https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT"
-        }
-      ],
-      "duration_ms": 187105,
-      "name": "Smoke Alarm",
-      "url": "https://open.spotify.com/track/3DO4Uwb1rmC5vNntGSmTBI"
     }
   ],
   "unique_name": "Mellow Morning",

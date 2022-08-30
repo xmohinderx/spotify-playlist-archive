@@ -1,12 +1,12 @@
 {
   "description": "Glimmering, warm, and bright memories: Broadcast on the cover.",
-  "num_followers": 303165,
+  "num_followers": 303379,
   "original_name": "Dreampop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDAwNDkyMiwwMDAwMDAwMDVkMGI4NGMwOWIwOWE4Yzc1YmFmNDgzMzc5NDkwYmZl",
+  "snapshot_id": "MTY2MDAwNDkyMiwwMDAwMDAwMGU5NjFlM2U3MjFmNmYyNzlmY2RmMDk3N2QzOWUxNjU5",
   "tracks": [
     {
       "added_at": "2021-10-01 10:38:06",
@@ -139,6 +139,38 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
+        "name": "Heaven or Las Vegas",
+        "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        }
+      ],
+      "duration_ms": 298400,
+      "name": "Heaven or Las Vegas",
+      "url": "https://open.spotify.com/track/0AxZUYeQ9bZwSdt1LmZuok"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
+        "name": "Souvlaki",
+        "url": "https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z"
+      },
+      "artists": [
+        {
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        }
+      ],
+      "duration_ms": 230986,
+      "name": "Alison",
+      "url": "https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
         "name": "Melody of Certain Damaged Lemons",
         "url": "https://open.spotify.com/album/6wRDKCpKw3ap6dhkpdXNIN"
       },
@@ -187,18 +219,34 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "Heaven or Las Vegas",
-        "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
+        "name": "Halcyon Digest",
+        "url": "https://open.spotify.com/album/3a3Yp0PRguSTH3dBOeWRyZ"
       },
       "artists": [
         {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+          "name": "Deerhunter",
+          "url": "https://open.spotify.com/artist/38zTZcuN7nFvVJ6auhc6V3"
         }
       ],
-      "duration_ms": 298400,
-      "name": "Heaven or Las Vegas",
-      "url": "https://open.spotify.com/track/0AxZUYeQ9bZwSdt1LmZuok"
+      "duration_ms": 133666,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/1k7lK8tjU5BPsXez7WEpg0"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
+        "name": "Slowdive",
+        "url": "https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa"
+      },
+      "artists": [
+        {
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        }
+      ],
+      "duration_ms": 270918,
+      "name": "Sugar for the Pill",
+      "url": "https://open.spotify.com/track/0eVz3hV2xOXdneGpnWDFpb"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -219,34 +267,18 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "Halcyon Digest",
-        "url": "https://open.spotify.com/album/3a3Yp0PRguSTH3dBOeWRyZ"
+        "name": "Treasure",
+        "url": "https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62"
       },
       "artists": [
         {
-          "name": "Deerhunter",
-          "url": "https://open.spotify.com/artist/38zTZcuN7nFvVJ6auhc6V3"
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
         }
       ],
-      "duration_ms": 133666,
-      "name": "Revival",
-      "url": "https://open.spotify.com/track/1k7lK8tjU5BPsXez7WEpg0"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
-        "name": "Souvlaki",
-        "url": "https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z"
-      },
-      "artists": [
-        {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
-        }
-      ],
-      "duration_ms": 230986,
-      "name": "Alison",
-      "url": "https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX"
+      "duration_ms": 223266,
+      "name": "Lorelei",
+      "url": "https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -315,22 +347,6 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "Treasure",
-        "url": "https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62"
-      },
-      "artists": [
-        {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
-        }
-      ],
-      "duration_ms": 223266,
-      "name": "Lorelei",
-      "url": "https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
         "name": "Days",
         "url": "https://open.spotify.com/album/1iKJd6McKWLpeWNotqfZDz"
       },
@@ -363,54 +379,6 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "It'll End In Tears (Remastered)",
-        "url": "https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j"
-      },
-      "artists": [
-        {
-          "name": "This Mortal Coil",
-          "url": "https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO"
-        }
-      ],
-      "duration_ms": 209093,
-      "name": "Kangaroo - Remastered",
-      "url": "https://open.spotify.com/track/2HsOICaAi5bwnqyG7uO1Fo"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
-        "name": "Slowdive",
-        "url": "https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa"
-      },
-      "artists": [
-        {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
-        }
-      ],
-      "duration_ms": 270918,
-      "name": "Sugar for the Pill",
-      "url": "https://open.spotify.com/track/0eVz3hV2xOXdneGpnWDFpb"
-    },
-    {
-      "added_at": "2022-03-18 05:40:30",
-      "album": {
-        "name": "Maida Vale Sessions",
-        "url": "https://open.spotify.com/album/3SIC8gQNPxgqjax8o204Nx"
-      },
-      "artists": [
-        {
-          "name": "Broadcast",
-          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
-        }
-      ],
-      "duration_ms": 203848,
-      "name": "Come On Let's Go",
-      "url": "https://open.spotify.com/track/60unSmULyw8lqCI5CoP0fF"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
         "name": "The Waves",
         "url": "https://open.spotify.com/album/2GrLKfN6dTb4o7Eoz6pqSG"
       },
@@ -423,54 +391,6 @@
       "duration_ms": 220760,
       "name": "Love Fade",
       "url": "https://open.spotify.com/track/0p6JvwRK6RqC1SyRVKP6cN"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
-        "name": "Melody's Echo Chamber",
-        "url": "https://open.spotify.com/album/2FKVlcqyS9nzKEHrOzbuwb"
-      },
-      "artists": [
-        {
-          "name": "Melody's Echo Chamber",
-          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
-        }
-      ],
-      "duration_ms": 226400,
-      "name": "Some Time Alone, Alone",
-      "url": "https://open.spotify.com/track/6G7rDUqMhnmXFVwRRQ7azu"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
-        "name": "Split",
-        "url": "https://open.spotify.com/album/6cgDNdc8SN9PJ12tqse69N"
-      },
-      "artists": [
-        {
-          "name": "Lush",
-          "url": "https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg"
-        }
-      ],
-      "duration_ms": 459173,
-      "name": "Desire Lines",
-      "url": "https://open.spotify.com/track/7Bv26qd7JX525wGCmhrPtj"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
-        "name": "Passive Aggressive",
-        "url": "https://open.spotify.com/album/6hPFLCX84m3LzdOJDQlkTZ"
-      },
-      "artists": [
-        {
-          "name": "The Radio Dept.",
-          "url": "https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG"
-        }
-      ],
-      "duration_ms": 201066,
-      "name": "Pulling Our Weight",
-      "url": "https://open.spotify.com/track/6HhqiKpkJ37qa98TiuYla3"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -491,6 +411,38 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
+        "name": "It'll End In Tears (Remastered)",
+        "url": "https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j"
+      },
+      "artists": [
+        {
+          "name": "This Mortal Coil",
+          "url": "https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO"
+        }
+      ],
+      "duration_ms": 209093,
+      "name": "Kangaroo - Remastered",
+      "url": "https://open.spotify.com/track/2HsOICaAi5bwnqyG7uO1Fo"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
+        "name": "Passive Aggressive",
+        "url": "https://open.spotify.com/album/6hPFLCX84m3LzdOJDQlkTZ"
+      },
+      "artists": [
+        {
+          "name": "The Radio Dept.",
+          "url": "https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG"
+        }
+      ],
+      "duration_ms": 201066,
+      "name": "Pulling Our Weight",
+      "url": "https://open.spotify.com/track/6HhqiKpkJ37qa98TiuYla3"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
         "name": "Glider",
         "url": "https://open.spotify.com/album/3oSLMALBuos75AqBHPdLrJ"
       },
@@ -507,6 +459,22 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
+        "name": "Split",
+        "url": "https://open.spotify.com/album/6cgDNdc8SN9PJ12tqse69N"
+      },
+      "artists": [
+        {
+          "name": "Lush",
+          "url": "https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg"
+        }
+      ],
+      "duration_ms": 459173,
+      "name": "Desire Lines",
+      "url": "https://open.spotify.com/track/7Bv26qd7JX525wGCmhrPtj"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
         "name": "Winks & Kisses: Melted",
         "url": "https://open.spotify.com/album/3WG7osXmDwUsMt3QGNoYll"
       },
@@ -519,6 +487,22 @@
       "duration_ms": 566466,
       "name": "In Your Room",
       "url": "https://open.spotify.com/track/7l5XWtUfIclO2xCTFvts8V"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
+        "name": "Melody's Echo Chamber",
+        "url": "https://open.spotify.com/album/2FKVlcqyS9nzKEHrOzbuwb"
+      },
+      "artists": [
+        {
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+        }
+      ],
+      "duration_ms": 226400,
+      "name": "Some Time Alone, Alone",
+      "url": "https://open.spotify.com/track/6G7rDUqMhnmXFVwRRQ7azu"
     },
     {
       "added_at": "2022-01-11 02:58:41",
@@ -569,6 +553,22 @@
       "url": "https://open.spotify.com/track/5740WNrWQZEiXK6yoPp2q4"
     },
     {
+      "added_at": "2022-03-18 05:40:30",
+      "album": {
+        "name": "Maida Vale Sessions",
+        "url": "https://open.spotify.com/album/3SIC8gQNPxgqjax8o204Nx"
+      },
+      "artists": [
+        {
+          "name": "Broadcast",
+          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
+        }
+      ],
+      "duration_ms": 203848,
+      "name": "Come On Let's Go",
+      "url": "https://open.spotify.com/track/60unSmULyw8lqCI5CoP0fF"
+    },
+    {
       "added_at": "2021-10-01 10:38:06",
       "album": {
         "name": "Blood (Remastered)",
@@ -587,22 +587,6 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "The Noise Made By People",
-        "url": "https://open.spotify.com/album/4vm6U9WwZvHUKaCNYRj9Bv"
-      },
-      "artists": [
-        {
-          "name": "Broadcast",
-          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Echo's Answer",
-      "url": "https://open.spotify.com/track/3ZB8WOTt7p9cSia9iG0TMz"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
         "name": "The Comforts of Madness",
         "url": "https://open.spotify.com/album/3YZJ5Uiyy1vCMubtZDG7a2"
       },
@@ -615,26 +599,6 @@
       "duration_ms": 337600,
       "name": "Sight of You",
       "url": "https://open.spotify.com/track/7fectUUMiPjZijOJIJaN3S"
-    },
-    {
-      "added_at": "2022-02-18 20:00:47",
-      "album": {
-        "name": "The Crow Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
-      },
-      "artists": [
-        {
-          "name": "Medicine",
-          "url": "https://open.spotify.com/artist/61uYVpJPgBq9dNrfUy6kTp"
-        },
-        {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
-        }
-      ],
-      "duration_ms": 231226,
-      "name": "Time Baby III",
-      "url": "https://open.spotify.com/track/5tujK4iuRbqaDQv94ZRH98"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -671,6 +635,22 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
+        "name": "Gala",
+        "url": "https://open.spotify.com/album/1UBjGsLtSkSMHlBkCc2OI4"
+      },
+      "artists": [
+        {
+          "name": "Lush",
+          "url": "https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg"
+        }
+      ],
+      "duration_ms": 317093,
+      "name": "Sweetness and Light",
+      "url": "https://open.spotify.com/track/1Pr2b8WV0rFkSAjrnzUeDc"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
         "name": "Morning Light",
         "url": "https://open.spotify.com/album/3BcDdBU8cdW1iaBuWBQ9lk"
       },
@@ -685,20 +665,24 @@
       "url": "https://open.spotify.com/track/4eCgoHGTLuZshiHWitgAtT"
     },
     {
-      "added_at": "2021-10-01 10:38:06",
+      "added_at": "2022-02-18 20:00:47",
       "album": {
-        "name": "Gala",
-        "url": "https://open.spotify.com/album/1UBjGsLtSkSMHlBkCc2OI4"
+        "name": "The Crow Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
       },
       "artists": [
         {
-          "name": "Lush",
-          "url": "https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg"
+          "name": "Medicine",
+          "url": "https://open.spotify.com/artist/61uYVpJPgBq9dNrfUy6kTp"
+        },
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
         }
       ],
-      "duration_ms": 317093,
-      "name": "Sweetness and Light",
-      "url": "https://open.spotify.com/track/1Pr2b8WV0rFkSAjrnzUeDc"
+      "duration_ms": 231226,
+      "name": "Time Baby III",
+      "url": "https://open.spotify.com/track/5tujK4iuRbqaDQv94ZRH98"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -735,6 +719,22 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
+        "name": "The Noise Made By People",
+        "url": "https://open.spotify.com/album/4vm6U9WwZvHUKaCNYRj9Bv"
+      },
+      "artists": [
+        {
+          "name": "Broadcast",
+          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Echo's Answer",
+      "url": "https://open.spotify.com/track/3ZB8WOTt7p9cSia9iG0TMz"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
         "name": "Isn't Anything",
         "url": "https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo"
       },
@@ -751,22 +751,6 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "Sub Versions",
-        "url": "https://open.spotify.com/album/0Hwtd4hmlTu6aG3bFHVQ7z"
-      },
-      "artists": [
-        {
-          "name": "YACHT",
-          "url": "https://open.spotify.com/artist/57anmI1X2hXWPrNagFdzZr"
-        }
-      ],
-      "duration_ms": 130063,
-      "name": "Avril 14th",
-      "url": "https://open.spotify.com/track/4BN4eqlL0VzTBW0QUo9ChQ"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
         "name": "Melody of Certain Damaged Lemons",
         "url": "https://open.spotify.com/album/6wRDKCpKw3ap6dhkpdXNIN"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 365533,
       "name": "In Particular",
       "url": "https://open.spotify.com/track/4rz3AwWL2wbJoye11pbULz"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
+        "name": "Sub Versions",
+        "url": "https://open.spotify.com/album/0Hwtd4hmlTu6aG3bFHVQ7z"
+      },
+      "artists": [
+        {
+          "name": "YACHT",
+          "url": "https://open.spotify.com/artist/57anmI1X2hXWPrNagFdzZr"
+        }
+      ],
+      "duration_ms": 130063,
+      "name": "Avril 14th",
+      "url": "https://open.spotify.com/track/4BN4eqlL0VzTBW0QUo9ChQ"
     },
     {
       "added_at": "2021-10-01 10:38:06",

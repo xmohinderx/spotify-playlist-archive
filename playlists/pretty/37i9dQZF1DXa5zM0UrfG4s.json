@@ -1,12 +1,12 @@
 {
   "description": "Spillelisten som byr p\u00e5 en rekke b\u00f8gdebangers du liker \u00e5 spelle i kjerra! Cover: Den BB & Oskar Westerlin",
-  "num_followers": 87523,
+  "num_followers": 87544,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ2NDg2MCwwMDAwMDAwMGJmMzI1NGQ5NDZmNjNiZjkwZDU1Y2M2ZDBmM2QwM2Jm",
+  "snapshot_id": "MTY2MTQ2NDg2MCwwMDAwMDAwMGNlNmMxYzkwOTUyMTI1M2Y2Yjc3OTdmZmUyOGY3ZmZi",
   "tracks": [
     {
       "added_at": "2022-08-25 22:01:00",
@@ -299,6 +299,26 @@
     {
       "added_at": "2022-08-25 22:01:00",
       "album": {
+        "name": "Kj\u00e6re Alkohol feat. Roc Boyz (Hall of Fame)",
+        "url": "https://open.spotify.com/album/6d0YHvx8Sq39C1c2j8kpXy"
+      },
+      "artists": [
+        {
+          "name": "Ballinciaga",
+          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
+        },
+        {
+          "name": "Roc Boyz",
+          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
+        }
+      ],
+      "duration_ms": 120312,
+      "name": "Kj\u00e6re Alkohol feat. Roc Boyz (Hall of Fame)",
+      "url": "https://open.spotify.com/track/35Wj4BI93AUX20ZIXsKJHy"
+    },
+    {
+      "added_at": "2022-08-25 22:01:00",
+      "album": {
         "name": "Den Samme J\u00e6vla Sangen",
         "url": "https://open.spotify.com/album/3fXnuFvgiZvjCRef5uPmDt"
       },
@@ -331,42 +351,6 @@
       "duration_ms": 180393,
       "name": "Konge p\u00e5 b\u00f8gda",
       "url": "https://open.spotify.com/track/1UJAtQo720sOej8mfEjck3"
-    },
-    {
-      "added_at": "2022-08-25 22:01:00",
-      "album": {
-        "name": "En g\u00e5ng till",
-        "url": "https://open.spotify.com/album/2g1GNjRGreJp22uF1ZUIAy"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        }
-      ],
-      "duration_ms": 163346,
-      "name": "En g\u00e5ng till",
-      "url": "https://open.spotify.com/track/0FupHylTHhYVgWAwzq5h58"
-    },
-    {
-      "added_at": "2022-08-25 22:01:00",
-      "album": {
-        "name": "Kj\u00e6re Alkohol feat. Roc Boyz (Hall of Fame)",
-        "url": "https://open.spotify.com/album/6d0YHvx8Sq39C1c2j8kpXy"
-      },
-      "artists": [
-        {
-          "name": "Ballinciaga",
-          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
-        },
-        {
-          "name": "Roc Boyz",
-          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
-        }
-      ],
-      "duration_ms": 120312,
-      "name": "Kj\u00e6re Alkohol feat. Roc Boyz (Hall of Fame)",
-      "url": "https://open.spotify.com/track/35Wj4BI93AUX20ZIXsKJHy"
     },
     {
       "added_at": "2022-08-25 22:01:00",
@@ -415,6 +399,22 @@
     {
       "added_at": "2022-08-25 22:01:00",
       "album": {
+        "name": "En g\u00e5ng till",
+        "url": "https://open.spotify.com/album/2g1GNjRGreJp22uF1ZUIAy"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "duration_ms": 163346,
+      "name": "En g\u00e5ng till",
+      "url": "https://open.spotify.com/track/0FupHylTHhYVgWAwzq5h58"
+    },
+    {
+      "added_at": "2022-08-25 22:01:00",
+      "album": {
         "name": "Denne Sommer\u00b4n",
         "url": "https://open.spotify.com/album/25oxLnwPO9oZQvmdHcQxNl"
       },
@@ -427,6 +427,22 @@
       "duration_ms": 160720,
       "name": "Denne Sommer\u00b4n",
       "url": "https://open.spotify.com/track/0dYIw6tvRSscoGrBzXBZa2"
+    },
+    {
+      "added_at": "2022-08-25 22:01:00",
+      "album": {
+        "name": "Stavangerkameratene",
+        "url": "https://open.spotify.com/album/6HqEADSkVz5d70ZQgtfUUk"
+      },
+      "artists": [
+        {
+          "name": "Stavangerkameratene",
+          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
+        }
+      ],
+      "duration_ms": 210093,
+      "name": "Bare s\u00e5 du vett det",
+      "url": "https://open.spotify.com/track/7yRrAsBprcsSDtiENWVQds"
     },
     {
       "added_at": "2022-08-25 22:01:00",
@@ -451,34 +467,22 @@
     {
       "added_at": "2022-08-25 22:01:00",
       "album": {
-        "name": "Stavangerkameratene",
-        "url": "https://open.spotify.com/album/6HqEADSkVz5d70ZQgtfUUk"
+        "name": "B\u00f8gda",
+        "url": "https://open.spotify.com/album/2FlHmlFjUImjvasA84suRu"
       },
       "artists": [
         {
-          "name": "Stavangerkameratene",
-          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
-        }
-      ],
-      "duration_ms": 210093,
-      "name": "Bare s\u00e5 du vett det",
-      "url": "https://open.spotify.com/track/7yRrAsBprcsSDtiENWVQds"
-    },
-    {
-      "added_at": "2022-08-25 22:01:00",
-      "album": {
-        "name": "N\u00e5 Koser Vi Oss",
-        "url": "https://open.spotify.com/album/4xXIxalm2k3gzYDPxBUgaF"
-      },
-      "artists": [
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        },
         {
-          "name": "TIX",
-          "url": "https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9"
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
         }
       ],
-      "duration_ms": 169466,
-      "name": "N\u00e5 Koser Vi Oss",
-      "url": "https://open.spotify.com/track/6bZHVGx3Qj0zoUUSZjextf"
+      "duration_ms": 164127,
+      "name": "B\u00f8gda",
+      "url": "https://open.spotify.com/track/1MpCvOlkM8VbH50AL7mAUm"
     },
     {
       "added_at": "2022-08-25 22:01:00",
@@ -519,70 +523,18 @@
     {
       "added_at": "2022-08-25 22:01:00",
       "album": {
-        "name": "Sju Fjell",
-        "url": "https://open.spotify.com/album/6G4i1PIp6o7sFrLThlIilQ"
+        "name": "N\u00e5 Koser Vi Oss",
+        "url": "https://open.spotify.com/album/4xXIxalm2k3gzYDPxBUgaF"
       },
       "artists": [
         {
-          "name": "El Papi",
-          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
+          "name": "TIX",
+          "url": "https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9"
         }
       ],
-      "duration_ms": 178171,
-      "name": "Sju Fjell",
-      "url": "https://open.spotify.com/track/04k0QThdHEp7kg3FpXVh0Q"
-    },
-    {
-      "added_at": "2022-08-25 22:01:00",
-      "album": {
-        "name": "B\u00f8gda",
-        "url": "https://open.spotify.com/album/2FlHmlFjUImjvasA84suRu"
-      },
-      "artists": [
-        {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        },
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        }
-      ],
-      "duration_ms": 164127,
-      "name": "B\u00f8gda",
-      "url": "https://open.spotify.com/track/1MpCvOlkM8VbH50AL7mAUm"
-    },
-    {
-      "added_at": "2022-08-25 22:01:00",
-      "album": {
-        "name": "Kompis",
-        "url": "https://open.spotify.com/album/1VzzEbtAMX3anDMFlIWWeE"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 161493,
-      "name": "Kompis",
-      "url": "https://open.spotify.com/track/0S1czUi29BRmzhNHO84EHf"
-    },
-    {
-      "added_at": "2022-08-25 22:01:00",
-      "album": {
-        "name": "Fredag (Digg \u00e5 v\u00e6re norsk)",
-        "url": "https://open.spotify.com/album/57GAgDviI8h3PrV5QCHqFy"
-      },
-      "artists": [
-        {
-          "name": "Mr Melk",
-          "url": "https://open.spotify.com/artist/2sfYCaSe6ZMDYZxmhA0ujD"
-        }
-      ],
-      "duration_ms": 133457,
-      "name": "Fredag - Digg \u00e5 v\u00e6re norsk",
-      "url": "https://open.spotify.com/track/3EzeIilO4QWtrGRqG9TVqB"
+      "duration_ms": 169466,
+      "name": "N\u00e5 Koser Vi Oss",
+      "url": "https://open.spotify.com/track/6bZHVGx3Qj0zoUUSZjextf"
     },
     {
       "added_at": "2022-08-25 22:01:00",
@@ -607,6 +559,86 @@
       "duration_ms": 140245,
       "name": "EFTERFEST P\u00c5 V\u00c5R BALKONG",
       "url": "https://open.spotify.com/track/2mb8CyNT8vw2UjOxfGwX60"
+    },
+    {
+      "added_at": "2022-08-25 22:01:00",
+      "album": {
+        "name": "Sju Fjell",
+        "url": "https://open.spotify.com/album/6G4i1PIp6o7sFrLThlIilQ"
+      },
+      "artists": [
+        {
+          "name": "El Papi",
+          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
+        }
+      ],
+      "duration_ms": 178171,
+      "name": "Sju Fjell",
+      "url": "https://open.spotify.com/track/04k0QThdHEp7kg3FpXVh0Q"
+    },
+    {
+      "added_at": "2022-08-25 22:01:00",
+      "album": {
+        "name": "Kompis",
+        "url": "https://open.spotify.com/album/1VzzEbtAMX3anDMFlIWWeE"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 161493,
+      "name": "Kompis",
+      "url": "https://open.spotify.com/track/0S1czUi29BRmzhNHO84EHf"
+    },
+    {
+      "added_at": "2022-08-25 22:01:00",
+      "album": {
+        "name": "\u00c6rbesk\u00e6r",
+        "url": "https://open.spotify.com/album/2Wq5na5n7xXDAjeybcS8Ds"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        }
+      ],
+      "duration_ms": 135542,
+      "name": "\u00c6rbesk\u00e6r",
+      "url": "https://open.spotify.com/track/1KKqiE7UtShqsjZwYvWpm8"
+    },
+    {
+      "added_at": "2022-08-25 22:01:00",
+      "album": {
+        "name": "Flaska",
+        "url": "https://open.spotify.com/album/6OI7fl4jpZBEiEGWwTyK9I"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "duration_ms": 151304,
+      "name": "Flaska",
+      "url": "https://open.spotify.com/track/5PIXzeI6g83I0QkD7z7orD"
+    },
+    {
+      "added_at": "2022-08-25 22:01:00",
+      "album": {
+        "name": "Fredag (Digg \u00e5 v\u00e6re norsk)",
+        "url": "https://open.spotify.com/album/57GAgDviI8h3PrV5QCHqFy"
+      },
+      "artists": [
+        {
+          "name": "Mr Melk",
+          "url": "https://open.spotify.com/artist/2sfYCaSe6ZMDYZxmhA0ujD"
+        }
+      ],
+      "duration_ms": 133457,
+      "name": "Fredag - Digg \u00e5 v\u00e6re norsk",
+      "url": "https://open.spotify.com/track/3EzeIilO4QWtrGRqG9TVqB"
     },
     {
       "added_at": "2022-08-25 22:01:00",
@@ -659,34 +691,38 @@
     {
       "added_at": "2022-08-25 22:01:00",
       "album": {
-        "name": "\u00c6rbesk\u00e6r",
-        "url": "https://open.spotify.com/album/2Wq5na5n7xXDAjeybcS8Ds"
+        "name": "Rull\u00e6r",
+        "url": "https://open.spotify.com/album/54JEprViU1skzpmEgO32A1"
       },
       "artists": [
         {
           "name": "Hagle",
           "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        },
+        {
+          "name": "Den BB",
+          "url": "https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651"
         }
       ],
-      "duration_ms": 135542,
-      "name": "\u00c6rbesk\u00e6r",
-      "url": "https://open.spotify.com/track/1KKqiE7UtShqsjZwYvWpm8"
+      "duration_ms": 147934,
+      "name": "Rull\u00e6r",
+      "url": "https://open.spotify.com/track/5VgttQMiU6fOHxUwmJZ5QQ"
     },
     {
       "added_at": "2022-08-25 22:01:00",
       "album": {
-        "name": "Flaska",
-        "url": "https://open.spotify.com/album/6OI7fl4jpZBEiEGWwTyK9I"
+        "name": "R\u00f6d Chevrolet",
+        "url": "https://open.spotify.com/album/5urzDMt0XkBEwmGAZCtxYB"
       },
       "artists": [
         {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+          "name": "Lasse Stefanz",
+          "url": "https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu"
         }
       ],
-      "duration_ms": 151304,
-      "name": "Flaska",
-      "url": "https://open.spotify.com/track/5PIXzeI6g83I0QkD7z7orD"
+      "duration_ms": 222533,
+      "name": "Det regnar och regnar",
+      "url": "https://open.spotify.com/track/6Id0DbZqrV9Vy64WlxU1ce"
     },
     {
       "added_at": "2022-08-25 22:01:00",
@@ -711,18 +747,18 @@
     {
       "added_at": "2022-08-25 22:01:00",
       "album": {
-        "name": "R\u00f6d Chevrolet",
-        "url": "https://open.spotify.com/album/5urzDMt0XkBEwmGAZCtxYB"
+        "name": "Clubber Oppi France (Kaotisk Eleganse 2023)",
+        "url": "https://open.spotify.com/album/2pDbtRGzSNxwqt4PFGB9bm"
       },
       "artists": [
         {
-          "name": "Lasse Stefanz",
-          "url": "https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu"
+          "name": "Ballinciaga",
+          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
         }
       ],
-      "duration_ms": 222533,
-      "name": "Det regnar och regnar",
-      "url": "https://open.spotify.com/track/6Id0DbZqrV9Vy64WlxU1ce"
+      "duration_ms": 130000,
+      "name": "Clubber Oppi France (Kaotisk Eleganse 2023)",
+      "url": "https://open.spotify.com/track/2bO1TODqaomL2OduuDKSGZ"
     },
     {
       "added_at": "2022-08-25 22:01:00",
@@ -743,22 +779,6 @@
       "duration_ms": 132480,
       "name": "Kursiv",
       "url": "https://open.spotify.com/track/0YyED0H9S499O2c8U7ydtV"
-    },
-    {
-      "added_at": "2022-08-25 22:01:00",
-      "album": {
-        "name": "Clubber Oppi France (Kaotisk Eleganse 2023)",
-        "url": "https://open.spotify.com/album/2pDbtRGzSNxwqt4PFGB9bm"
-      },
-      "artists": [
-        {
-          "name": "Ballinciaga",
-          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "Clubber Oppi France (Kaotisk Eleganse 2023)",
-      "url": "https://open.spotify.com/track/2bO1TODqaomL2OduuDKSGZ"
     },
     {
       "added_at": "2022-08-25 22:01:00",
@@ -851,26 +871,6 @@
     {
       "added_at": "2022-08-25 22:01:00",
       "album": {
-        "name": "Rull\u00e6r",
-        "url": "https://open.spotify.com/album/54JEprViU1skzpmEgO32A1"
-      },
-      "artists": [
-        {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        },
-        {
-          "name": "Den BB",
-          "url": "https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651"
-        }
-      ],
-      "duration_ms": 147934,
-      "name": "Rull\u00e6r",
-      "url": "https://open.spotify.com/track/5VgttQMiU6fOHxUwmJZ5QQ"
-    },
-    {
-      "added_at": "2022-08-25 22:01:00",
-      "album": {
         "name": "Jag Vill Vara Din Margareta",
         "url": "https://open.spotify.com/album/6QJVx7H5M4barKMggXATqm"
       },
@@ -923,22 +923,22 @@
     {
       "added_at": "2022-08-25 22:01:00",
       "album": {
-        "name": "Hytta Mi",
-        "url": "https://open.spotify.com/album/5JRkrEQSgGTQqjSYDDk4Oc"
+        "name": "Svensk i kv\u00e4ll",
+        "url": "https://open.spotify.com/album/4XdVxdRjQoooI2KSapG1YX"
       },
       "artists": [
         {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+          "name": "Helene Olafsen",
+          "url": "https://open.spotify.com/artist/74LbOioJUqae6mkQ9wDiDN"
         },
         {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+          "name": "Norges Nye Megahit",
+          "url": "https://open.spotify.com/artist/35kBMx0nauaGZIhWESWrc5"
         }
       ],
-      "duration_ms": 138454,
-      "name": "Hytta Mi",
-      "url": "https://open.spotify.com/track/7y2Zz2AytRttQLdCjwRQ15"
+      "duration_ms": 124661,
+      "name": "Svensk i kv\u00e4ll",
+      "url": "https://open.spotify.com/track/0C2UfLRDNB0oOt8nYyJRYu"
     },
     {
       "added_at": "2022-08-25 22:01:00",
@@ -959,26 +959,6 @@
       "duration_ms": 120812,
       "name": "MILLION",
       "url": "https://open.spotify.com/track/1BN63Kxnw30peKSp5xLVNl"
-    },
-    {
-      "added_at": "2022-08-25 22:01:00",
-      "album": {
-        "name": "Svensk i kv\u00e4ll",
-        "url": "https://open.spotify.com/album/4XdVxdRjQoooI2KSapG1YX"
-      },
-      "artists": [
-        {
-          "name": "Helene Olafsen",
-          "url": "https://open.spotify.com/artist/74LbOioJUqae6mkQ9wDiDN"
-        },
-        {
-          "name": "Norges Nye Megahit",
-          "url": "https://open.spotify.com/artist/35kBMx0nauaGZIhWESWrc5"
-        }
-      ],
-      "duration_ms": 124661,
-      "name": "Svensk i kv\u00e4ll",
-      "url": "https://open.spotify.com/track/0C2UfLRDNB0oOt8nYyJRYu"
     },
     {
       "added_at": "2022-08-25 22:01:00",
@@ -1015,26 +995,38 @@
     {
       "added_at": "2022-08-25 22:01:00",
       "album": {
-        "name": "Muggene Er Megasv\u00e6re (Elsker \u00d8l)",
-        "url": "https://open.spotify.com/album/4wURA9nH08GrDdKEdw1pkw"
+        "name": "Hytta Mi",
+        "url": "https://open.spotify.com/album/5JRkrEQSgGTQqjSYDDk4Oc"
       },
       "artists": [
-        {
-          "name": "DJ Anton",
-          "url": "https://open.spotify.com/artist/3MPjnETEr8lNQAEk05Pxg8"
-        },
         {
           "name": "Staysman",
           "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
         },
         {
-          "name": "Staysman & Lazz",
-          "url": "https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq"
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
         }
       ],
-      "duration_ms": 172272,
-      "name": "Muggene Er Megasv\u00e6re (Elsker \u00d8l)",
-      "url": "https://open.spotify.com/track/2WGnDmEVAhElhPH9WGtmGK"
+      "duration_ms": 138454,
+      "name": "Hytta Mi",
+      "url": "https://open.spotify.com/track/7y2Zz2AytRttQLdCjwRQ15"
+    },
+    {
+      "added_at": "2022-08-25 22:01:00",
+      "album": {
+        "name": "Vakker og vill",
+        "url": "https://open.spotify.com/album/3Cfg2JAQxBaLTMDfecHAGj"
+      },
+      "artists": [
+        {
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+        }
+      ],
+      "duration_ms": 226946,
+      "name": "Vakker og vill",
+      "url": "https://open.spotify.com/track/3GDZfYNvBVFfh3DER8F4iW"
     },
     {
       "added_at": "2022-08-25 22:01:00",
@@ -1059,8 +1051,64 @@
     {
       "added_at": "2022-08-25 22:01:00",
       "album": {
-        "name": "Vakker og vill",
-        "url": "https://open.spotify.com/album/3Cfg2JAQxBaLTMDfecHAGj"
+        "name": "Besseggen",
+        "url": "https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 165612,
+      "name": "Besseggen",
+      "url": "https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8"
+    },
+    {
+      "added_at": "2022-08-25 22:01:00",
+      "album": {
+        "name": "Muggene Er Megasv\u00e6re (Elsker \u00d8l)",
+        "url": "https://open.spotify.com/album/4wURA9nH08GrDdKEdw1pkw"
+      },
+      "artists": [
+        {
+          "name": "DJ Anton",
+          "url": "https://open.spotify.com/artist/3MPjnETEr8lNQAEk05Pxg8"
+        },
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        },
+        {
+          "name": "Staysman & Lazz",
+          "url": "https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq"
+        }
+      ],
+      "duration_ms": 172272,
+      "name": "Muggene Er Megasv\u00e6re (Elsker \u00d8l)",
+      "url": "https://open.spotify.com/track/2WGnDmEVAhElhPH9WGtmGK"
+    },
+    {
+      "added_at": "2022-08-25 22:01:00",
+      "album": {
+        "name": "18 \u00c5R (Vennepunktet)",
+        "url": "https://open.spotify.com/album/1SfB3H7a92iIff63XWUOz3"
+      },
+      "artists": [
+        {
+          "name": "Den BB",
+          "url": "https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "18 \u00c5R (Vennepunktet)",
+      "url": "https://open.spotify.com/track/2NIFOonQvvqYNWzObCFFh8"
+    },
+    {
+      "added_at": "2022-08-25 22:01:00",
+      "album": {
+        "name": "Aldri tilbake",
+        "url": "https://open.spotify.com/album/2MkG4qjOniaUJCUbmIPE3O"
       },
       "artists": [
         {
@@ -1068,9 +1116,9 @@
           "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
         }
       ],
-      "duration_ms": 226946,
-      "name": "Vakker og vill",
-      "url": "https://open.spotify.com/track/3GDZfYNvBVFfh3DER8F4iW"
+      "duration_ms": 201920,
+      "name": "Aldri tilbake",
+      "url": "https://open.spotify.com/track/6qBJhWis1EGlcDvC74PTyS"
     },
     {
       "added_at": "2022-08-25 22:01:00",
@@ -1099,50 +1147,22 @@
     {
       "added_at": "2022-08-25 22:01:00",
       "album": {
-        "name": "Besseggen",
-        "url": "https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw"
+        "name": "Evig vandring",
+        "url": "https://open.spotify.com/album/6AY7A80QxX3IXnsd3DmeXE"
       },
       "artists": [
         {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 165612,
-      "name": "Besseggen",
-      "url": "https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8"
-    },
-    {
-      "added_at": "2022-08-25 22:01:00",
-      "album": {
-        "name": "18 \u00c5R (Vennepunktet)",
-        "url": "https://open.spotify.com/album/1SfB3H7a92iIff63XWUOz3"
-      },
-      "artists": [
+          "name": "Kjetil Nordfjeld",
+          "url": "https://open.spotify.com/artist/2eoGNggcBAhOgj4yoEgFBO"
+        },
         {
-          "name": "Den BB",
-          "url": "https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651"
+          "name": "Christiania",
+          "url": "https://open.spotify.com/artist/4qVDyvfYIuFduBWEAvuEhu"
         }
       ],
-      "duration_ms": 177600,
-      "name": "18 \u00c5R (Vennepunktet)",
-      "url": "https://open.spotify.com/track/2NIFOonQvvqYNWzObCFFh8"
-    },
-    {
-      "added_at": "2022-08-25 22:01:00",
-      "album": {
-        "name": "Levva Livet!",
-        "url": "https://open.spotify.com/album/00m8339CymX4adXiATrT7e"
-      },
-      "artists": [
-        {
-          "name": "\u00c5ge Aleksandersen",
-          "url": "https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz"
-        }
-      ],
-      "duration_ms": 274053,
-      "name": "Levva Livet",
-      "url": "https://open.spotify.com/track/56C8jz11WNH1PM677aq6ez"
+      "duration_ms": 170135,
+      "name": "Evig vandring",
+      "url": "https://open.spotify.com/track/7Hk8n5KY7Npva23Nk03bOr"
     },
     {
       "added_at": "2022-08-25 22:01:00",
@@ -1163,18 +1183,18 @@
     {
       "added_at": "2022-08-25 22:01:00",
       "album": {
-        "name": "Aldri tilbake",
-        "url": "https://open.spotify.com/album/2MkG4qjOniaUJCUbmIPE3O"
+        "name": "Levva Livet!",
+        "url": "https://open.spotify.com/album/00m8339CymX4adXiATrT7e"
       },
       "artists": [
         {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+          "name": "\u00c5ge Aleksandersen",
+          "url": "https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz"
         }
       ],
-      "duration_ms": 201920,
-      "name": "Aldri tilbake",
-      "url": "https://open.spotify.com/track/6qBJhWis1EGlcDvC74PTyS"
+      "duration_ms": 274053,
+      "name": "Levva Livet",
+      "url": "https://open.spotify.com/track/56C8jz11WNH1PM677aq6ez"
     },
     {
       "added_at": "2022-08-25 22:01:00",
@@ -1199,26 +1219,6 @@
       "duration_ms": 185884,
       "name": "En Siste Gang",
       "url": "https://open.spotify.com/track/6tt3Na8Vjw1H2fCUcUivi5"
-    },
-    {
-      "added_at": "2022-08-25 22:01:00",
-      "album": {
-        "name": "GUTTA (feat. Plumbo)",
-        "url": "https://open.spotify.com/album/1yypZTOVKtFi9Lnkb08H9x"
-      },
-      "artists": [
-        {
-          "name": "Ole Hartz",
-          "url": "https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI"
-        },
-        {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
-        }
-      ],
-      "duration_ms": 158866,
-      "name": "GUTTA (feat. Plumbo)",
-      "url": "https://open.spotify.com/track/5DXX1gqh2B9pvK042sb3mE"
     },
     {
       "added_at": "2022-08-25 22:01:00",
@@ -1255,6 +1255,26 @@
     {
       "added_at": "2022-08-25 22:01:00",
       "album": {
+        "name": "GUTTA (feat. Plumbo)",
+        "url": "https://open.spotify.com/album/1yypZTOVKtFi9Lnkb08H9x"
+      },
+      "artists": [
+        {
+          "name": "Ole Hartz",
+          "url": "https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI"
+        },
+        {
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+        }
+      ],
+      "duration_ms": 158866,
+      "name": "GUTTA (feat. Plumbo)",
+      "url": "https://open.spotify.com/track/5DXX1gqh2B9pvK042sb3mE"
+    },
+    {
+      "added_at": "2022-08-25 22:01:00",
+      "album": {
         "name": "Du f\u00e5r aldri se meg naken igjen",
         "url": "https://open.spotify.com/album/4SVHYtGKfALHqpFnBqIKsX"
       },
@@ -1267,26 +1287,6 @@
       "duration_ms": 167991,
       "name": "Du f\u00e5r aldri se meg naken igjen",
       "url": "https://open.spotify.com/track/4GABBQMuh1RMA2VPe1Uzud"
-    },
-    {
-      "added_at": "2022-08-25 22:01:00",
-      "album": {
-        "name": "Evig vandring",
-        "url": "https://open.spotify.com/album/6AY7A80QxX3IXnsd3DmeXE"
-      },
-      "artists": [
-        {
-          "name": "Kjetil Nordfjeld",
-          "url": "https://open.spotify.com/artist/2eoGNggcBAhOgj4yoEgFBO"
-        },
-        {
-          "name": "Christiania",
-          "url": "https://open.spotify.com/artist/4qVDyvfYIuFduBWEAvuEhu"
-        }
-      ],
-      "duration_ms": 170135,
-      "name": "Evig vandring",
-      "url": "https://open.spotify.com/track/7Hk8n5KY7Npva23Nk03bOr"
     },
     {
       "added_at": "2022-08-25 22:01:00",

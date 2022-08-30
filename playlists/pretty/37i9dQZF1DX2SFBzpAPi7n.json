@@ -1,12 +1,12 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: LUCY) (\ud56b\ud55c \uad6d\ub0b4 \ub85d\uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 187394,
+  "num_followers": 187111,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg5NDY3OSwwMDAwMDAwMDk5YzJiZDU5NzkwZmUzMjljNDg5N2U3NGM0M2UwYjQ3",
+  "snapshot_id": "MTY2MDg5NDY3OSwwMDAwMDAwMGMzMDNkNzhiMmQ2ODliOGE2MDhlNzE0YTJlNTdmNmY3",
   "tracks": [
     {
       "added_at": "2022-08-19 07:37:59",
@@ -271,6 +271,22 @@
     {
       "added_at": "2022-08-19 07:37:59",
       "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/6D48tHXsa6LzoViDIACdkt"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 215476,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/7zmrZMinkTMJ2kZgM9Kqgp"
+    },
+    {
+      "added_at": "2022-08-19 07:37:59",
+      "album": {
         "name": "ITAEWON CLASS (Original Television Soundtrack) Pt.2",
         "url": "https://open.spotify.com/album/4AgCiUejVvU6729YAJwRH9"
       },
@@ -307,22 +323,6 @@
     {
       "added_at": "2022-08-19 07:37:59",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/6D48tHXsa6LzoViDIACdkt"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 215476,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/7zmrZMinkTMJ2kZgM9Kqgp"
-    },
-    {
-      "added_at": "2022-08-19 07:37:59",
-      "album": {
         "name": "LEGEND",
         "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
       },
@@ -335,38 +335,6 @@
       "duration_ms": 265000,
       "name": "for lovers who hesitate",
       "url": "https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk"
-    },
-    {
-      "added_at": "2022-08-19 07:37:59",
-      "album": {
-        "name": "minisode1 : Blue Hour",
-        "url": "https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 191788,
-      "name": "Wishlist",
-      "url": "https://open.spotify.com/track/4A6f3zMLDDAUgkGTLtpMc3"
-    },
-    {
-      "added_at": "2022-08-19 07:37:59",
-      "album": {
-        "name": "[Apocalypse : Save us]",
-        "url": "https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5"
-      },
-      "artists": [
-        {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
-        }
-      ],
-      "duration_ms": 185733,
-      "name": "MAISON",
-      "url": "https://open.spotify.com/track/1fdlTXD7obDyqOpx96BEL9"
     },
     {
       "added_at": "2022-08-19 07:37:59",
@@ -387,6 +355,22 @@
     {
       "added_at": "2022-08-19 07:37:59",
       "album": {
+        "name": "minisode1 : Blue Hour",
+        "url": "https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 191788,
+      "name": "Wishlist",
+      "url": "https://open.spotify.com/track/4A6f3zMLDDAUgkGTLtpMc3"
+    },
+    {
+      "added_at": "2022-08-19 07:37:59",
+      "album": {
         "name": "Love Yourself \u7d50 'Answer'",
         "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 238494,
       "name": "FAKE LOVE - Rocking Vibe Mix",
       "url": "https://open.spotify.com/track/1WjGvMbHE23jEipydV80Mu"
+    },
+    {
+      "added_at": "2022-08-19 07:37:59",
+      "album": {
+        "name": "[Apocalypse : Save us]",
+        "url": "https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "duration_ms": 185733,
+      "name": "MAISON",
+      "url": "https://open.spotify.com/track/1fdlTXD7obDyqOpx96BEL9"
     },
     {
       "added_at": "2022-08-19 07:37:59",
@@ -451,6 +451,22 @@
     {
       "added_at": "2022-08-19 07:37:59",
       "album": {
+        "name": "MOONRISE",
+        "url": "https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 218737,
+      "name": "\ub204\uad70\uac00 \ud544\uc694\ud574 I Need Somebody",
+      "url": "https://open.spotify.com/track/4aceMabp5rzZYoKKXsUffr"
+    },
+    {
+      "added_at": "2022-08-19 07:37:59",
+      "album": {
         "name": "20",
         "url": "https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 194866,
       "name": "Wi Ing Wi Ing",
       "url": "https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI"
-    },
-    {
-      "added_at": "2022-08-19 07:37:59",
-      "album": {
-        "name": "1st Album [Dystopia : The Tree of Language]",
-        "url": "https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB"
-      },
-      "artists": [
-        {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
-        }
-      ],
-      "duration_ms": 204293,
-      "name": "Scream",
-      "url": "https://open.spotify.com/track/3vPHCKu5UhbGLe9rs8dBGr"
     },
     {
       "added_at": "2022-08-19 07:37:59",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-08-19 07:37:59",
       "album": {
-        "name": "NAN CHUN \ub09c\ucd98",
-        "url": "https://open.spotify.com/album/5aMMzZZNRZ1yBr6aArv4Dh"
-      },
-      "artists": [
-        {
-          "name": "SE SO NEON",
-          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
-        }
-      ],
-      "duration_ms": 229493,
-      "name": "NAN CHUN \ub09c\ucd98",
-      "url": "https://open.spotify.com/track/320twJYO0LC64eWCuCC5vj"
-    },
-    {
-      "added_at": "2022-08-19 07:37:59",
-      "album": {
         "name": "5.3 (Gradation)",
         "url": "https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG"
       },
@@ -531,8 +515,56 @@
     {
       "added_at": "2022-08-19 07:37:59",
       "album": {
-        "name": "MOONRISE",
-        "url": "https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG"
+        "name": "NAN CHUN \ub09c\ucd98",
+        "url": "https://open.spotify.com/album/5aMMzZZNRZ1yBr6aArv4Dh"
+      },
+      "artists": [
+        {
+          "name": "SE SO NEON",
+          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
+        }
+      ],
+      "duration_ms": 229493,
+      "name": "NAN CHUN \ub09c\ucd98",
+      "url": "https://open.spotify.com/track/320twJYO0LC64eWCuCC5vj"
+    },
+    {
+      "added_at": "2022-08-19 07:37:59",
+      "album": {
+        "name": "1st Album [Dystopia : The Tree of Language]",
+        "url": "https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "duration_ms": 204293,
+      "name": "Scream",
+      "url": "https://open.spotify.com/track/3vPHCKu5UhbGLe9rs8dBGr"
+    },
+    {
+      "added_at": "2022-08-19 07:37:59",
+      "album": {
+        "name": "Void",
+        "url": "https://open.spotify.com/album/58njxSTVkyBNIuCpAmmAJc"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 213217,
+      "name": "I.L.Y.",
+      "url": "https://open.spotify.com/track/3XE1R53gdbfHjLNa8hJ8hr"
+    },
+    {
+      "added_at": "2022-08-19 07:37:59",
+      "album": {
+        "name": "The Book of Us : Entropy",
+        "url": "https://open.spotify.com/album/2vnlVtSs6PP1iKvcTWtX2h"
       },
       "artists": [
         {
@@ -540,9 +572,9 @@
           "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
         }
       ],
-      "duration_ms": 218737,
-      "name": "\ub204\uad70\uac00 \ud544\uc694\ud574 I Need Somebody",
-      "url": "https://open.spotify.com/track/4aceMabp5rzZYoKKXsUffr"
+      "duration_ms": 227240,
+      "name": "Sweet Chaos",
+      "url": "https://open.spotify.com/track/499qjESUqiZjlNI7XQhyLp"
     },
     {
       "added_at": "2022-08-19 07:37:59",
@@ -579,38 +611,6 @@
     {
       "added_at": "2022-08-19 07:37:59",
       "album": {
-        "name": "Void",
-        "url": "https://open.spotify.com/album/58njxSTVkyBNIuCpAmmAJc"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 213217,
-      "name": "I.L.Y.",
-      "url": "https://open.spotify.com/track/3XE1R53gdbfHjLNa8hJ8hr"
-    },
-    {
-      "added_at": "2022-08-19 07:37:59",
-      "album": {
-        "name": "Raid of Dream",
-        "url": "https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs"
-      },
-      "artists": [
-        {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
-        }
-      ],
-      "duration_ms": 224760,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/7uvW1F97LfVbOF6bzHs3nO"
-    },
-    {
-      "added_at": "2022-08-19 07:37:59",
-      "album": {
         "name": "Verse 2",
         "url": "https://open.spotify.com/album/3njOv3C2UJ9fqjGhj4O4cN"
       },
@@ -623,22 +623,6 @@
       "duration_ms": 235068,
       "name": "\ub0b4\uc77c, \uc624\ub298 Tomorrow, Today",
       "url": "https://open.spotify.com/track/0pBjBL0a6gcLfwgtFsuw10"
-    },
-    {
-      "added_at": "2022-08-19 07:37:59",
-      "album": {
-        "name": "Grey Suit - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/7tZyxlG9PNEBwrxMbIJdoB"
-      },
-      "artists": [
-        {
-          "name": "SUHO",
-          "url": "https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m"
-        }
-      ],
-      "duration_ms": 222893,
-      "name": "Grey Suit",
-      "url": "https://open.spotify.com/track/40wEuG76R9nFumrBp6PHwm"
     },
     {
       "added_at": "2022-08-19 07:37:59",
@@ -659,6 +643,38 @@
     {
       "added_at": "2022-08-19 07:37:59",
       "album": {
+        "name": "Raid of Dream",
+        "url": "https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "duration_ms": 224760,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/7uvW1F97LfVbOF6bzHs3nO"
+    },
+    {
+      "added_at": "2022-08-19 07:37:59",
+      "album": {
+        "name": "Grey Suit - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/7tZyxlG9PNEBwrxMbIJdoB"
+      },
+      "artists": [
+        {
+          "name": "SUHO",
+          "url": "https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m"
+        }
+      ],
+      "duration_ms": 222893,
+      "name": "Grey Suit",
+      "url": "https://open.spotify.com/track/40wEuG76R9nFumrBp6PHwm"
+    },
+    {
+      "added_at": "2022-08-19 07:37:59",
+      "album": {
         "name": "DIVE",
         "url": "https://open.spotify.com/album/4uyM4cCQB9dS18W7YQ1MaH"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 199600,
       "name": "DIVE",
       "url": "https://open.spotify.com/track/7CBnUjo3qL7c8p129PFqzb"
-    },
-    {
-      "added_at": "2022-08-19 07:37:59",
-      "album": {
-        "name": "The Book of Us : Entropy",
-        "url": "https://open.spotify.com/album/2vnlVtSs6PP1iKvcTWtX2h"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "duration_ms": 227240,
-      "name": "Sweet Chaos",
-      "url": "https://open.spotify.com/track/499qjESUqiZjlNI7XQhyLp"
     },
     {
       "added_at": "2022-08-19 07:37:59",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-08-19 07:37:59",
       "album": {
-        "name": "C.I.T.T (Cheese in the Trap)",
-        "url": "https://open.spotify.com/album/0EE8K1IGciwDPMiURGtEBf"
-      },
-      "artists": [
-        {
-          "name": "Moon Byul",
-          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
-        }
-      ],
-      "duration_ms": 177400,
-      "name": "C.I.T.T (Cheese in the Trap)",
-      "url": "https://open.spotify.com/track/0wp8u1swtx3sVvJw3dxXmY"
-    },
-    {
-      "added_at": "2022-08-19 07:37:59",
-      "album": {
         "name": "22",
         "url": "https://open.spotify.com/album/5JMSzU0FPsOut85jmhHbfw"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 228320,
       "name": "Comes and Goes",
       "url": "https://open.spotify.com/track/0Nld5ohgWfoPueMEtYNbgE"
+    },
+    {
+      "added_at": "2022-08-19 07:37:59",
+      "album": {
+        "name": "MOONRISE",
+        "url": "https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 234534,
+      "name": "I Loved You",
+      "url": "https://open.spotify.com/track/780nTLMKXf6kX1B2yq1dFa"
     },
     {
       "added_at": "2022-08-19 07:37:59",
@@ -755,6 +755,22 @@
     {
       "added_at": "2022-08-19 07:37:59",
       "album": {
+        "name": "The Book of Us : Gluon - Nothing Can Tear Us Apart",
+        "url": "https://open.spotify.com/album/2ozuUEt58hDK0PX8mjKOvc"
+      },
+      "artists": [
+        {
+          "name": "DAY6 (Even of Day)",
+          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
+        }
+      ],
+      "duration_ms": 257752,
+      "name": "Where the sea sleeps",
+      "url": "https://open.spotify.com/track/5eiCYAQ7K7pob2Ev9nfBXO"
+    },
+    {
+      "added_at": "2022-08-19 07:37:59",
+      "album": {
         "name": "Nevertheless, (Original Television Soundtrack, Pt. 8)",
         "url": "https://open.spotify.com/album/7uuHf9rwmvlkUS9AlxK6D2"
       },
@@ -767,6 +783,22 @@
       "duration_ms": 268453,
       "name": "So Tender",
       "url": "https://open.spotify.com/track/1Qhcx4uDQ4RFy9m4mKdzUN"
+    },
+    {
+      "added_at": "2022-08-19 07:37:59",
+      "album": {
+        "name": "C.I.T.T (Cheese in the Trap)",
+        "url": "https://open.spotify.com/album/0EE8K1IGciwDPMiURGtEBf"
+      },
+      "artists": [
+        {
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+        }
+      ],
+      "duration_ms": 177400,
+      "name": "C.I.T.T (Cheese in the Trap)",
+      "url": "https://open.spotify.com/track/0wp8u1swtx3sVvJw3dxXmY"
     },
     {
       "added_at": "2022-08-19 07:37:59",
@@ -787,22 +819,6 @@
     {
       "added_at": "2022-08-19 07:37:59",
       "album": {
-        "name": "The Book of Us : Gluon - Nothing Can Tear Us Apart",
-        "url": "https://open.spotify.com/album/2ozuUEt58hDK0PX8mjKOvc"
-      },
-      "artists": [
-        {
-          "name": "DAY6 (Even of Day)",
-          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
-        }
-      ],
-      "duration_ms": 257752,
-      "name": "Where the sea sleeps",
-      "url": "https://open.spotify.com/track/5eiCYAQ7K7pob2Ev9nfBXO"
-    },
-    {
-      "added_at": "2022-08-19 07:37:59",
-      "album": {
         "name": "Tree",
         "url": "https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 232558,
       "name": "Tree",
       "url": "https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ"
-    },
-    {
-      "added_at": "2022-08-19 07:37:59",
-      "album": {
-        "name": "MOONRISE",
-        "url": "https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "duration_ms": 234534,
-      "name": "I Loved You",
-      "url": "https://open.spotify.com/track/780nTLMKXf6kX1B2yq1dFa"
     }
   ],
   "unique_name": "Cool K'IDs Rock",

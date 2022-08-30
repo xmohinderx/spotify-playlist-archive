@@ -4,7 +4,7 @@
 
 > Dive into the women of folk and roots music—from Americana icons to roots rock, singer\-songwriter, and indie\-folk favorites\. Cover: Allison Russell
 
-331 songs - 20 hr 14 min - [published](https://open.spotify.com/playlist/189GjBlA83HumNay4qpApT)
+332 songs - 20 hr 17 min - [published](https://open.spotify.com/playlist/189GjBlA83HumNay4qpApT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,7 +226,7 @@
 | [Porch Light](https://open.spotify.com/track/3fUle3MRHVnEspDxGMrvNQ) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [In The Magic Hour](https://open.spotify.com/album/3ntBsLDs4YznKmxScj8K4f) | 3:17 | 2021-03-05 | 2022-07-25 |
 | [Portland](https://open.spotify.com/track/1eDkdK7CVn0NRAvKM6xBiY) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Old Country](https://open.spotify.com/album/39SFOAucYDD4aYKJ6Ymza9) | 3:48 | 2021-03-05 | 2022-03-09 |
 | [Pretty Bird \(feat\. Linda Ronstadt\)](https://open.spotify.com/track/6aViDQHPdw0UUYDGIKV8k1) | [Laurie Lewis](https://open.spotify.com/artist/4TFUM3dwVVxsJ6vCnMDVCb), [The Right Hands](https://open.spotify.com/artist/5HX5Sobk5iJykT62FXMOvw), [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [The Hazel and Alice Sessions](https://open.spotify.com/album/13onfRu5O11Vp0pR9muCjQ) | 2:38 | 2021-03-05 | 2022-07-27 |
-| [Proserpina](https://open.spotify.com/track/3yKvqrD8fT9IvEQ4q4eUlC) | [Martha Wainwright](https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R) | [Come Home to Mama](https://open.spotify.com/album/54qkrDwwkVHPp3GncPG8EZ) | 4:05 | 2021-03-05 |  |
+| [Proserpina](https://open.spotify.com/track/3yKvqrD8fT9IvEQ4q4eUlC) | [Martha Wainwright](https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R) | [Come Home to Mama](https://open.spotify.com/album/54qkrDwwkVHPp3GncPG8EZ) | 4:05 | 2021-03-05 | 2022-08-30 |
 | [Proserpina](https://open.spotify.com/track/64FfMJwpzCT8VF5OtEDzgj) | [Martha Wainwright](https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R) | [Come Home To Mama](https://open.spotify.com/album/0lhN2tVqKWIxWk0x4lTpFE) | 4:05 | 2021-03-05 | 2022-07-29 |
 | [Quasheba, Quasheba](https://open.spotify.com/track/1Ksgx6hc1sXyIWmUMa2wKJ) | [Our Native Daughters](https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW), [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Songs of Our Native Daughters](https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A) | 4:42 | 2021-03-05 |  |
 | [Queen Jane Approximately](https://open.spotify.com/track/6x8GZhkP0rOLQJSkhWR27Y) | [Emma Swift](https://open.spotify.com/artist/3H6AuhYMI6U7kxuC7pfG3R) | [Blonde On The Tracks \(Deluxe Edition\)](https://open.spotify.com/album/7ybHj4IkUqoN3NOCsFBO4i) | 4:36 | 2022-03-08 |  |
@@ -285,6 +285,7 @@
 | [The Wave](https://open.spotify.com/track/71Cqtvc1JltT8qRnnDd0RY) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Waysides](https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri) | 3:45 | 2022-03-08 |  |
 | [The Way Back Home](https://open.spotify.com/track/5hpIHKqPatT8Jd6CGWLaB5) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [The Way Back Home](https://open.spotify.com/album/6k3Uyv6sAkRALbzPpYXQvk) | 3:34 | 2022-03-08 | 2022-07-27 |
 | [The Way I Talk](https://open.spotify.com/track/6sti49HKNKWmgbi3lPMp6j) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [The Way I Talk](https://open.spotify.com/album/4mKhS2G5pdVqXjHQYZHGZp) | 3:37 | 2021-03-05 | 2022-07-29 |
+| [The Way I Talk](https://open.spotify.com/track/11LF71gzwF15dEduLexVg3) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Old Time Feeling](https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT) | 3:37 | 2021-03-05 |  |
 | [The Way It Goes](https://open.spotify.com/track/6jx8L9ng94zKcw4xbbQFjC) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [The Harrow & The Harvest](https://open.spotify.com/album/5uz9hkZeN7l5KHtmMDqgR0) | 4:01 | 2021-03-05 |  |
 | [The Wheel of Fortune](https://open.spotify.com/track/4FAVJ8AfeH4odA0b6HX46v) | [Josephine Foster](https://open.spotify.com/artist/1fVyf1LbeIEE4DUT4dZhHL) | [No Harm Done](https://open.spotify.com/album/4UY3cFIjG1ykhZ8LwZs7nC) | 5:11 | 2021-03-05 | 2022-07-28 |
 | [This Ace I've Burned](https://open.spotify.com/track/0mGqBz2FcLYyUFkfKn4FX3) | [Ellen And The Escapades](https://open.spotify.com/artist/2v0e1UUQYJ5GYQqT0SCKWe) | [This Ace I've Burned](https://open.spotify.com/album/6B0xaSvUB7252D10sriu4z) | 3:12 | 2021-03-05 | 2022-01-20 |

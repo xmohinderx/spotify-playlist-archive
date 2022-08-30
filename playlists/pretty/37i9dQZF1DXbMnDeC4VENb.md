@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 
 > Una eufórica dosis de urbano romántico en español.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,631 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,727 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 | 53 | [Borracho](https://open.spotify.com/track/3Q1vXXDsg2k6cgEbE18UuT) | [Stilo](https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9) | [Borracho](https://open.spotify.com/album/6VW9tAwq1pWd9V18jfKs8i) | 3:39 |
 | 54 | [No Cambia Nada](https://open.spotify.com/track/6cX8ZEnR2fNMnHPIrzPz6l) | [Skiper Rmz](https://open.spotify.com/artist/6imih1pxfJwOV593lYH68M) | [No Cambia Nada](https://open.spotify.com/album/1vVX4IcLrWY262TBNRUbtz) | 2:44 |
 | 55 | [La Única](https://open.spotify.com/track/4trQa6ufHreQUiHMXsPIOt) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j) | [La Única](https://open.spotify.com/album/0ZDzH2PWcA9yvAzFIFpabv) | 3:47 |
-| 56 | [Suerte De Tenerte](https://open.spotify.com/track/6LxJtSZTMKkqNAwbDBcGl1) | [Santa Suerte](https://open.spotify.com/artist/1eblaVtbXUDGr90qMXfqAa), [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5), [Triser](https://open.spotify.com/artist/4QCe0145cBGKFqWhRTIVMK) | [Vivir Sedado](https://open.spotify.com/album/2TiNW2lvbrSwrSuhBlR2Mo) | 3:24 |
+| 56 | [Suerte De Tenerte](https://open.spotify.com/track/65wQipmC5Q19Zr5TPfmqNS) | [Santa Suerte](https://open.spotify.com/artist/1eblaVtbXUDGr90qMXfqAa), [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5), [Triser](https://open.spotify.com/artist/4QCe0145cBGKFqWhRTIVMK) | [Vivir Sedado](https://open.spotify.com/album/0cTNsrShoaqo42T37tr4T1) | 3:24 |
 | 57 | [Balada](https://open.spotify.com/track/4i1AQRFGt5pMeXDi7WL0xT) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1) | [Bitácoras Callejeras, Vol\. 2](https://open.spotify.com/album/72UUDbcdajvOVAvKgRnhIS) | 4:20 |
 | 58 | [Entendí](https://open.spotify.com/track/1Irew14HVrUqhLJFt31NYr) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Entendí](https://open.spotify.com/album/60fBhH5X0kY5d8moClLTZg) | 2:56 |
 | 59 | [Sol](https://open.spotify.com/track/1Z2rizszFDMFwhAUIVjgnj) | [Teeam Revolver](https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK) | [Sol](https://open.spotify.com/album/3THBtFwKBwIdIEw7Nc044G) | 3:43 |
 | 60 | [Para Toda La Vida](https://open.spotify.com/track/31Rbj4gvq87oBt9EuQFABG) | [Chato 473](https://open.spotify.com/artist/7zvcqoLiInqmSmPzX0gwfp), [Yoky Barrios](https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj) | [Para Toda La Vida](https://open.spotify.com/album/56nijUIQ3etVw5dJDxz9dS) | 3:48 |
 
-Snapshot ID: `MTY2MDYwMTcxNSwwMDAwMDAwMDI5NTE4MmQyMDgyMDQ5MGE2M2ZlNWIwODhkNDQ1MDMz`
+Snapshot ID: `MTY2MDYwMTcxNSwwMDAwMDAwMDY1ODRjZTM0YTg1OTIwNzczYTRhNmJiOTBkOTdhNzhk`

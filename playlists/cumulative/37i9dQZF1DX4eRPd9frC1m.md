@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-240 songs - 13 hr 14 min - [published](https://open.spotify.com/playlist/5pR45Pbz8RKqZerXlydxiz)
+241 songs - 13 hr 17 min - [published](https://open.spotify.com/playlist/5pR45Pbz8RKqZerXlydxiz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [All I Need \- VIP](https://open.spotify.com/track/7cpnqcFMN6Z7yiSOZyzGMU) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [All I Need \(VIP\)](https://open.spotify.com/album/2tfC2UydNyC7Y0jz6FoEKv) | 3:15 | 2021-11-19 |  |
 | [Anthem](https://open.spotify.com/track/0wOx3pICvsNIwobd0XnUxb) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG) | [Anthem](https://open.spotify.com/album/1daFOzo9pAJi0nDoR03roY) | 2:15 | 2022-01-14 |  |
 | [Apocalyptic](https://open.spotify.com/track/3E5Go2swucT0A6NmqOEChM) | [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5) | [Apocalyptic](https://open.spotify.com/album/6QupCtenijUBkVdEJx7dar) | 3:24 | 2021-11-19 | 2022-01-08 |
+| [Arena](https://open.spotify.com/track/1i0cgkisuJoGZOzdupqf1v) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [Arena](https://open.spotify.com/album/5eXLDkcVPBPQUSL24oedCO) | 3:26 | 2022-08-26 |  |
 | [Arena](https://open.spotify.com/track/5qBcafzXycpvGKiKCfTQjd) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [Arena](https://open.spotify.com/album/0LxtnMt80YF21NGZio7OLR) | 3:26 | 2022-07-22 | 2022-08-25 |
 | [Asking For](https://open.spotify.com/track/1YIkj75IPsfW4fzPB6qNlE) | [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n), [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [Asking For](https://open.spotify.com/album/6oSxomsicif0h0fb8dzdFy) | 2:55 | 2022-04-15 | 2022-07-24 |
 | [Assault](https://open.spotify.com/track/4SbMVULuT6l7iN7d40PCNJ) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [Assault](https://open.spotify.com/album/0qTtqa02EU5tpRhVNMek92) | 4:44 | 2022-01-07 | 2022-06-16 |
@@ -225,7 +226,7 @@
 | [Time](https://open.spotify.com/track/37hoHtZNUuIbJSHkyII0zx) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [EDDIE](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd) | [Spiral](https://open.spotify.com/album/59d750ai99PfyZ5zTUQWfY) | 4:00 | 2022-01-07 | 2022-07-20 |
 | [Trailblazer](https://open.spotify.com/track/19ht9Lhp2fHgQi00izzrKE) | [Chee](https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA), [Tsuruda](https://open.spotify.com/artist/7CCrWKLbAto1EXI2eoG9Vu) | [Trailblazer](https://open.spotify.com/album/281Xce4HZtECtLwdx57kvK) | 3:24 | 2021-11-19 | 2022-04-27 |
 | [Trampoline \- Jauz Remix](https://open.spotify.com/track/68Rnp6Cev6ESnEwlpQI2Ll) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR), [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8) | [Trampoline \(Jauz Remix\)](https://open.spotify.com/album/0zEgfSceFqevzVPCzcQDb0) | 3:56 | 2021-11-19 | 2022-06-04 |
-| [Trap Anthem](https://open.spotify.com/track/3x2djB2lM7twnO8D2M6A0C) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [Trap Anthem](https://open.spotify.com/album/2w12DfrAjOlweziwmo0W1P) | 2:27 | 2021-11-19 |  |
+| [Trap Anthem](https://open.spotify.com/track/3x2djB2lM7twnO8D2M6A0C) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [Trap Anthem](https://open.spotify.com/album/2w12DfrAjOlweziwmo0W1P) | 2:27 | 2021-11-19 | 2022-08-30 |
 | [Trenches](https://open.spotify.com/track/6s4T0UEJs5kX6EsEjvfXpw) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Trenches](https://open.spotify.com/album/0BIuPX2XzG3P7Bir90cpP4) | 2:49 | 2021-11-19 |  |
 | [Trials \(feat\. IDK\)](https://open.spotify.com/track/2rathjWuM0Hr7TAn57jCnt) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Trials \(feat\. IDK\)](https://open.spotify.com/album/3aKN8T2FwLCnJa3eau7QDg) | 2:13 | 2022-08-05 |  |
 | [Turn Up](https://open.spotify.com/track/0oyutiBE89NpGtAdo3cA5Y) | [Chee](https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA) | [Turn Up](https://open.spotify.com/album/7Ig6Dn3DjDgJC9dAk2FJ8M) | 3:00 | 2021-11-19 | 2022-01-08 |

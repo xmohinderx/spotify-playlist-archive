@@ -4,7 +4,7 @@
 
 > The home of today’s cutting edge Ambient, Atmospheric and Neo Classical music\. Erland Cooper on cover.
 
-595 songs - 1 day 22 hr 40 min - [published](https://open.spotify.com/playlist/2VJZyunnZCFnCPLdfBtZ7N)
+596 songs - 1 day 22 hr 43 min - [published](https://open.spotify.com/playlist/2VJZyunnZCFnCPLdfBtZ7N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,6 +335,7 @@
 | [Music For Growing Flowers \- Pt\. 2](https://open.spotify.com/track/3N7Co5WOgZ1xWBaFdXiGJH) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD) | 3:38 | 2022-08-19 |  |
 | [Music For Growing Flowers \- Pt\. 2](https://open.spotify.com/track/71dSoY9stxFkrx7z9HcOwS) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/4ivhFfoUuBby0JKvbAuOeE) | 3:38 | 2022-08-12 | 2022-08-26 |
 | [Music For Growing Flowers \- Pt\. 5](https://open.spotify.com/track/1HoCiBasSm8HLDQ6TIyZlL) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/4ivhFfoUuBby0JKvbAuOeE) | 2:44 | 2022-08-12 | 2022-08-25 |
+| [Music For Growing Flowers \- Pt\. 5](https://open.spotify.com/track/6Ud2eoIWr1PlHZjBulf0fG) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD) | 2:44 | 2022-08-19 |  |
 | [Music For Growing Flowers \- Pt\. 5](https://open.spotify.com/track/7JDWgXllpyJqPlxGnaY80u) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers – Pt\. 5](https://open.spotify.com/album/3KTMP9GcFuVttRKCzWf3T6) | 2:44 | 2022-07-01 | 2022-08-11 |
 | [Music For Growing Flowers \- Pt\. 7](https://open.spotify.com/track/3I2zndi9j1FAt30rA8ZHaz) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/4ivhFfoUuBby0JKvbAuOeE) | 4:55 | 2022-08-12 | 2022-08-26 |
 | [Music For Growing Flowers \- Pt\. 7](https://open.spotify.com/track/5OHJBp26mPT2GoemMDAFsg) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD) | 4:55 | 2022-08-19 |  |
@@ -574,7 +575,7 @@
 | [Warped Vectors](https://open.spotify.com/track/7yF66wMI4LHRZd1jE4f33N) | [Krell](https://open.spotify.com/artist/0D6r7KnJpwcCFIbxUGJLkX) | [Warped Vectors](https://open.spotify.com/album/1WfOdgb06RaCEIeYoVFEfj) | 4:26 | 2022-01-21 | 2022-03-10 |
 | [watching the stars](https://open.spotify.com/track/321PCApeQiLLrf03k83cCb) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [watching the stars](https://open.spotify.com/album/3bfpLvhbLmO5tekoSz2rWo) | 1:39 | 2022-08-12 |  |
 | [Waves \- Oliver Doerell & Helga Raimondi Rework](https://open.spotify.com/track/5oXGS29Qa8Pv7ITfKLm9X4) | [Vetle Nærø](https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf) | [Waves \(Oliver Doerell & Helga Raimondi Rework\)](https://open.spotify.com/album/5t2W6cCG2GjfC1gRVZv1eB) | 5:14 | 2022-01-21 | 2022-02-19 |
-| [Wawa by the Ocean](https://open.spotify.com/track/2S7slBXVQLbQUVW1ICWlvK) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Collected Pieces: 2015\-2020](https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP) | 10:28 | 2022-02-04 |  |
+| [Wawa by the Ocean](https://open.spotify.com/track/2S7slBXVQLbQUVW1ICWlvK) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Collected Pieces: 2015\-2020](https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP) | 10:28 | 2022-02-04 | 2022-08-30 |
 | [We Lay Down in a Field of Orange Flowers and We Listened to the Birds](https://open.spotify.com/track/25np9YI8L2IWtcxDoTFgoG) | [Dylan Henner](https://open.spotify.com/artist/1L9mUjZqdG9QZnys4EDI7C) | [Flues of Forgotten Sands](https://open.spotify.com/album/7mXP8hv5XTR0PkY7J4gbOp) | 19:33 | 2022-07-15 |  |
 | [We Wave From Our Boats](https://open.spotify.com/track/0udjSw7JY1kClm50cqndkN) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [We Wave From Our Boats](https://open.spotify.com/album/2b88GjZr8IKcCHBQTv5zyj) | 3:50 | 2021-12-24 |  |
 | [Wealth](https://open.spotify.com/track/6DEVAhgo6OLAK8pdTFKBFo) | [Jogging House](https://open.spotify.com/artist/250gyZr9YqxIpI3UNi9yka) | [perhaps](https://open.spotify.com/album/1Sh24GpqhOxOD87EnXnNz8) | 9:47 | 2021-12-24 | 2022-01-17 |

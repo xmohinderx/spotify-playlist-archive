@@ -1420,6 +1420,24 @@
     },
     {
       "album": {
+        "name": "Poets night",
+        "url": "https://open.spotify.com/album/0WtuAtlDonPKHRCRCTJE7a"
+      },
+      "artists": [
+        {
+          "name": "Lara Di Umbra",
+          "url": "https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202731,
+      "name": "Poets night",
+      "url": "https://open.spotify.com/track/3tBaAnnYtDovnTsohJxGby"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9rete a ti mesmo",
         "url": "https://open.spotify.com/album/4eSIWgY6NHWPhw46vMa4R6"
       },

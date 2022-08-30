@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0N3eAirRjZ.md) - [plain]
 
 > From slack\-key masters to songwriting royals, Native Hawaiians have been behind the isles' most memorable music\. Cover: <a href="spotify:artist:69NjH5MsRLr0CX0zSlGmN3">Jake Shimabukuro</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,193 likes - 53 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,232 likes - 53 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

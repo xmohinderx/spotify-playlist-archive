@@ -1,12 +1,12 @@
 {
   "description": "Conforto para beber gin t\u00f4nica, mojito ou caipirinha sem precisar levantar do sof\u00e1.",
-  "num_followers": 105957,
+  "num_followers": 105965,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3Mzk5MiwwMDAwMDAwMDBkYzM3MGYwNWM1MjQ1ZGM5OTVlMDM0MDk3Y2U0ZDE1",
+  "snapshot_id": "MTY2MDI3Mzk5MiwwMDAwMDAwMDUxN2UxYTM5MWE0NjgwYmQwOWNlOGIwNTE0NTIxMWFi",
   "tracks": [
     {
       "added_at": "2022-08-12 03:13:12",
@@ -131,6 +131,22 @@
     {
       "added_at": "2022-08-12 03:13:12",
       "album": {
+        "name": "Hot Pink",
+        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 237893,
+      "name": "Say So",
+      "url": "https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ"
+    },
+    {
+      "added_at": "2022-08-12 03:13:12",
+      "album": {
         "name": "Happier Than Ever",
         "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 216000,
       "name": "My Favorite Part",
       "url": "https://open.spotify.com/track/66wkCYWlXzSTQAfnsPBptt"
-    },
-    {
-      "added_at": "2022-08-12 03:13:12",
-      "album": {
-        "name": "Hot Pink",
-        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 237893,
-      "name": "Say So",
-      "url": "https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ"
     },
     {
       "added_at": "2022-08-12 03:13:12",
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-08-12 03:13:12",
       "album": {
-        "name": "Watch This Liquid Pour Itself",
-        "url": "https://open.spotify.com/album/4XKkD3p3SXmeJRcvioWaQQ"
-      },
-      "artists": [
-        {
-          "name": "Okay Kaya",
-          "url": "https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb"
-        }
-      ],
-      "duration_ms": 93737,
-      "name": "Mother Nature's Bitch",
-      "url": "https://open.spotify.com/track/3vy3ld7my2hDUTv4u7KIJR"
-    },
-    {
-      "added_at": "2022-08-12 03:13:12",
-      "album": {
         "name": "Odyss\u00e9e - EP",
         "url": "https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 248892,
       "name": "Agitations tropicales",
       "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
+    },
+    {
+      "added_at": "2022-08-12 03:13:12",
+      "album": {
+        "name": "Watch This Liquid Pour Itself",
+        "url": "https://open.spotify.com/album/4XKkD3p3SXmeJRcvioWaQQ"
+      },
+      "artists": [
+        {
+          "name": "Okay Kaya",
+          "url": "https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb"
+        }
+      ],
+      "duration_ms": 93737,
+      "name": "Mother Nature's Bitch",
+      "url": "https://open.spotify.com/track/3vy3ld7my2hDUTv4u7KIJR"
     },
     {
       "added_at": "2022-08-12 03:13:12",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-08-12 03:13:12",
       "album": {
-        "name": "3:33am",
-        "url": "https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 214578,
-      "name": "Lose My Cool",
-      "url": "https://open.spotify.com/track/3G9zeErd0kMx012kmYUrm7"
-    },
-    {
-      "added_at": "2022-08-12 03:13:12",
-      "album": {
         "name": "Keeping Me Under",
         "url": "https://open.spotify.com/album/0pim63nTKBI42Cm7FVeCMu"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 218926,
       "name": "Keeping Me Under",
       "url": "https://open.spotify.com/track/79ZQoLroAAQYHM9sJ1kbGh"
+    },
+    {
+      "added_at": "2022-08-12 03:13:12",
+      "album": {
+        "name": "3:33am",
+        "url": "https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 214578,
+      "name": "Lose My Cool",
+      "url": "https://open.spotify.com/track/3G9zeErd0kMx012kmYUrm7"
     },
     {
       "added_at": "2022-08-12 03:13:12",
@@ -719,42 +719,6 @@
     {
       "added_at": "2022-08-12 03:13:12",
       "album": {
-        "name": "Collapsed In Sunbeams",
-        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Too Good",
-      "url": "https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8"
-    },
-    {
-      "added_at": "2022-08-12 03:13:12",
-      "album": {
-        "name": "Broken Hearts Club",
-        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
-      },
-      "artists": [
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 203036,
-      "name": "Out Loud (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
-    },
-    {
-      "added_at": "2022-08-12 03:13:12",
-      "album": {
         "name": "BUBBA",
         "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
       },
@@ -791,18 +755,38 @@
     {
       "added_at": "2022-08-12 03:13:12",
       "album": {
-        "name": "Keep Moving",
-        "url": "https://open.spotify.com/album/2RfWbfIULVPJq4Ng554eyX"
+        "name": "Broken Hearts Club",
+        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
       },
       "artists": [
         {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 240880,
-      "name": "Keep Moving",
-      "url": "https://open.spotify.com/track/6a88fc0zSrVWGPdoj445nJ"
+      "duration_ms": 203036,
+      "name": "Out Loud (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
+    },
+    {
+      "added_at": "2022-08-12 03:13:12",
+      "album": {
+        "name": "Collapsed In Sunbeams",
+        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Too Good",
+      "url": "https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8"
     },
     {
       "added_at": "2022-08-12 03:13:12",
@@ -819,6 +803,22 @@
       "duration_ms": 186781,
       "name": "Bedroom",
       "url": "https://open.spotify.com/track/3LH6EfPCeySeuymuK2gWAO"
+    },
+    {
+      "added_at": "2022-08-12 03:13:12",
+      "album": {
+        "name": "Keep Moving",
+        "url": "https://open.spotify.com/album/2RfWbfIULVPJq4Ng554eyX"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 240880,
+      "name": "Keep Moving",
+      "url": "https://open.spotify.com/track/6a88fc0zSrVWGPdoj445nJ"
     },
     {
       "added_at": "2022-08-12 03:13:12",
@@ -879,6 +879,38 @@
     {
       "added_at": "2022-08-12 03:13:12",
       "album": {
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/6GbWNeR3P9MTCmSyPVHgb1"
+    },
+    {
+      "added_at": "2022-08-12 03:13:12",
+      "album": {
+        "name": "For Ever",
+        "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 196138,
+      "name": "Cherry",
+      "url": "https://open.spotify.com/track/5k44yc5bXO1XRedzjaugdQ"
+    },
+    {
+      "added_at": "2022-08-12 03:13:12",
+      "album": {
         "name": "Featuring Ty Dolla $ign",
         "url": "https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8"
       },
@@ -903,22 +935,6 @@
     {
       "added_at": "2022-08-12 03:13:12",
       "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "Taste",
-      "url": "https://open.spotify.com/track/6GbWNeR3P9MTCmSyPVHgb1"
-    },
-    {
-      "added_at": "2022-08-12 03:13:12",
-      "album": {
         "name": "Acid Dreams",
         "url": "https://open.spotify.com/album/5k1l2dCZ6WnBrIUMYC5jZk"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 183930,
       "name": "Acid Dreams",
       "url": "https://open.spotify.com/track/3XEdqQtGHAM5huMrs3RaKN"
-    },
-    {
-      "added_at": "2022-08-12 03:13:12",
-      "album": {
-        "name": "For Ever",
-        "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 196138,
-      "name": "Cherry",
-      "url": "https://open.spotify.com/track/5k44yc5bXO1XRedzjaugdQ"
     },
     {
       "added_at": "2022-08-12 03:13:12",
@@ -975,6 +975,22 @@
     {
       "added_at": "2022-08-12 03:13:12",
       "album": {
+        "name": "Made In Lagos: Deluxe Edition",
+        "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
+      },
+      "artists": [
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 181360,
+      "name": "Anoti",
+      "url": "https://open.spotify.com/track/60lUecrFeE2t6QMJ1Nmsve"
+    },
+    {
+      "added_at": "2022-08-12 03:13:12",
+      "album": {
         "name": "The Lion King: The Gift",
         "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
       },
@@ -991,18 +1007,18 @@
     {
       "added_at": "2022-08-12 03:13:12",
       "album": {
-        "name": "Made In Lagos: Deluxe Edition",
-        "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
+        "name": "Art",
+        "url": "https://open.spotify.com/album/5VKMuDNl95bLr3xsfU2Owm"
       },
       "artists": [
         {
-          "name": "WizKid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
         }
       ],
-      "duration_ms": 181360,
-      "name": "Anoti",
-      "url": "https://open.spotify.com/track/60lUecrFeE2t6QMJ1Nmsve"
+      "duration_ms": 252133,
+      "name": "Big Brown Eyes",
+      "url": "https://open.spotify.com/track/19ovZMFSIQvehxLmvrRbBS"
     },
     {
       "added_at": "2022-08-12 03:13:12",
@@ -1039,38 +1055,6 @@
     {
       "added_at": "2022-08-12 03:13:12",
       "album": {
-        "name": "Art",
-        "url": "https://open.spotify.com/album/5VKMuDNl95bLr3xsfU2Owm"
-      },
-      "artists": [
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
-        }
-      ],
-      "duration_ms": 252133,
-      "name": "Big Brown Eyes",
-      "url": "https://open.spotify.com/track/19ovZMFSIQvehxLmvrRbBS"
-    },
-    {
-      "added_at": "2022-08-12 03:13:12",
-      "album": {
-        "name": "Collapsed In Sunbeams",
-        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 270066,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/23bwujVYKeGdbcLd2LQxVo"
-    },
-    {
-      "added_at": "2022-08-12 03:13:12",
-      "album": {
         "name": "33 000 FT.",
         "url": "https://open.spotify.com/album/1DP1CM6GndWiLkYKMudhek"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 321853,
       "name": "Come Over",
       "url": "https://open.spotify.com/track/2hPNuVVSV1tqiD2uPlfehz"
+    },
+    {
+      "added_at": "2022-08-12 03:13:12",
+      "album": {
+        "name": "Collapsed In Sunbeams",
+        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 270066,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/23bwujVYKeGdbcLd2LQxVo"
     }
   ],
   "unique_name": "Drinks no Sof\u00e1",

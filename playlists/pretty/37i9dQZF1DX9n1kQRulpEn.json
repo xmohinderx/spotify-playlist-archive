@@ -1,12 +1,12 @@
 {
   "description": "A swinging jazz soundtrack for your drive time.",
-  "num_followers": 28722,
+  "num_followers": 28711,
   "original_name": "Jazz in the Car",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUwODQ5OCwwMDAwMDAwMGEzMjQ3Yjg0NmI2NjA3OWZhNTZmNmIxMjM2NzZhMWUw",
+  "snapshot_id": "MTY2MTUwODQ5OCwwMDAwMDAwMGFiZTNiYjc3N2I4Nzg2YzMxNzhmYTNhZjRjY2JkNTU0",
   "tracks": [
     {
       "added_at": "2022-08-26 10:08:18",
@@ -191,34 +191,18 @@
     {
       "added_at": "2022-08-26 10:08:18",
       "album": {
-        "name": "Auditorium",
-        "url": "https://open.spotify.com/album/3gUTxP8aVrkNBG6lB2GTAf"
+        "name": "Six Pieces Of Silver",
+        "url": "https://open.spotify.com/album/2p4ipY0YJS0JSDuc1uamxE"
       },
       "artists": [
         {
-          "name": "Julian Lage",
-          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+          "name": "Horace Silver Quintet",
+          "url": "https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y"
         }
       ],
-      "duration_ms": 268626,
-      "name": "Auditorium",
-      "url": "https://open.spotify.com/track/2DPEXrjPvhTMD30TqMOzRs"
-    },
-    {
-      "added_at": "2022-08-26 10:08:18",
-      "album": {
-        "name": "Soul Station",
-        "url": "https://open.spotify.com/album/731OW49heGHCMrMOREHYlY"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 385866,
-      "name": "This I Dig Of You - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/5f0n6K8hW2RIVXuZjxO0bu"
+      "duration_ms": 372080,
+      "name": "Tippin' - Remastered 2000/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/2yVOF2movPBYvUt1vdpv5k"
     },
     {
       "added_at": "2022-08-26 10:08:18",
@@ -239,18 +223,34 @@
     {
       "added_at": "2022-08-26 10:08:18",
       "album": {
-        "name": "Six Pieces Of Silver",
-        "url": "https://open.spotify.com/album/2p4ipY0YJS0JSDuc1uamxE"
+        "name": "Soul Station",
+        "url": "https://open.spotify.com/album/731OW49heGHCMrMOREHYlY"
       },
       "artists": [
         {
-          "name": "Horace Silver Quintet",
-          "url": "https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y"
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
         }
       ],
-      "duration_ms": 372080,
-      "name": "Tippin' - Remastered 2000/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/2yVOF2movPBYvUt1vdpv5k"
+      "duration_ms": 385866,
+      "name": "This I Dig Of You - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/5f0n6K8hW2RIVXuZjxO0bu"
+    },
+    {
+      "added_at": "2022-08-26 10:08:18",
+      "album": {
+        "name": "Auditorium",
+        "url": "https://open.spotify.com/album/3gUTxP8aVrkNBG6lB2GTAf"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        }
+      ],
+      "duration_ms": 268626,
+      "name": "Auditorium",
+      "url": "https://open.spotify.com/track/2DPEXrjPvhTMD30TqMOzRs"
     },
     {
       "added_at": "2022-08-26 10:08:18",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-08-26 10:08:18",
       "album": {
-        "name": "Goin' Up",
-        "url": "https://open.spotify.com/album/0NU6BhJliKCq8jTPvFsTdP"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 419600,
-      "name": "Blues For Brenda - 1997 Remastered",
-      "url": "https://open.spotify.com/track/1z0PVtIa2c2ydASf2CqEYd"
-    },
-    {
-      "added_at": "2022-08-26 10:08:18",
-      "album": {
         "name": "Elastic",
         "url": "https://open.spotify.com/album/0Im2cH3mUaIEIsVzMeV7un"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 403640,
       "name": "Jazz Crimes",
       "url": "https://open.spotify.com/track/4fpOXKIU9yRBoYkMhgJ24k"
+    },
+    {
+      "added_at": "2022-08-26 10:08:18",
+      "album": {
+        "name": "Goin' Up",
+        "url": "https://open.spotify.com/album/0NU6BhJliKCq8jTPvFsTdP"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 419600,
+      "name": "Blues For Brenda - 1997 Remastered",
+      "url": "https://open.spotify.com/track/1z0PVtIa2c2ydASf2CqEYd"
     },
     {
       "added_at": "2022-08-26 10:08:18",
@@ -467,6 +467,22 @@
       "duration_ms": 320226,
       "name": "Just Friends",
       "url": "https://open.spotify.com/track/795N79I1xfTR1FnfL7J8pp"
+    },
+    {
+      "added_at": "2022-08-26 10:08:18",
+      "album": {
+        "name": "Ode",
+        "url": "https://open.spotify.com/album/2HJHKIUdO0f4QlKwznVC3e"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau Trio",
+          "url": "https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX"
+        }
+      ],
+      "duration_ms": 402013,
+      "name": "Bee Blues",
+      "url": "https://open.spotify.com/track/6keKDGemOj5o7VJHNVaeYl"
     },
     {
       "added_at": "2022-08-26 10:08:18",
@@ -535,38 +551,6 @@
     {
       "added_at": "2022-08-26 10:08:18",
       "album": {
-        "name": "Ode",
-        "url": "https://open.spotify.com/album/2HJHKIUdO0f4QlKwznVC3e"
-      },
-      "artists": [
-        {
-          "name": "Brad Mehldau Trio",
-          "url": "https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX"
-        }
-      ],
-      "duration_ms": 402013,
-      "name": "Bee Blues",
-      "url": "https://open.spotify.com/track/6keKDGemOj5o7VJHNVaeYl"
-    },
-    {
-      "added_at": "2022-08-26 10:08:18",
-      "album": {
-        "name": "Ready For Freddie (Rudy Van Gelder Remaster Edition)",
-        "url": "https://open.spotify.com/album/1WW55eOxlZCvPWJDYmhZXD"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 401560,
-      "name": "Arietis - Remastered 2003/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/2rvlhyiUa082VRTa3OFgmh"
-    },
-    {
-      "added_at": "2022-08-26 10:08:18",
-      "album": {
         "name": "Bluesy Burrell",
         "url": "https://open.spotify.com/album/3AlZ0JVd44GuMrx0RVrzzF"
       },
@@ -587,6 +571,38 @@
       "duration_ms": 284373,
       "name": "Montono Blues",
       "url": "https://open.spotify.com/track/5CVm6NEFOwGKa5QraGTUUH"
+    },
+    {
+      "added_at": "2022-08-26 10:08:18",
+      "album": {
+        "name": "Ready For Freddie (Rudy Van Gelder Remaster Edition)",
+        "url": "https://open.spotify.com/album/1WW55eOxlZCvPWJDYmhZXD"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 401560,
+      "name": "Arietis - Remastered 2003/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/2rvlhyiUa082VRTa3OFgmh"
+    },
+    {
+      "added_at": "2022-08-26 10:08:18",
+      "album": {
+        "name": "Workout",
+        "url": "https://open.spotify.com/album/2prCz4HRmedo4uyhAtXX9Q"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 647946,
+      "name": "Uh Huh - Remastered 2005",
+      "url": "https://open.spotify.com/track/1ifrzoPqpThdTHnktdPTyu"
     },
     {
       "added_at": "2022-08-26 10:08:18",
@@ -619,22 +635,6 @@
       "duration_ms": 334786,
       "name": "63rd Street Theme",
       "url": "https://open.spotify.com/track/0kFEFWOd5bNB1PuHYaXooo"
-    },
-    {
-      "added_at": "2022-08-26 10:08:18",
-      "album": {
-        "name": "Workout",
-        "url": "https://open.spotify.com/album/2prCz4HRmedo4uyhAtXX9Q"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 647946,
-      "name": "Uh Huh - Remastered 2005",
-      "url": "https://open.spotify.com/track/1ifrzoPqpThdTHnktdPTyu"
     },
     {
       "added_at": "2022-08-26 10:08:18",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-08-26 10:08:18",
       "album": {
-        "name": "No Room For Squares (Remastered 2000 / Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/3qer0IWDm6mSLUJy4ji0Oi"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 511853,
-      "name": "Up A Step - Remastered 2000 / Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/3ltk3yU2BcHXixu1ykWsCo"
-    },
-    {
-      "added_at": "2022-08-26 10:08:18",
-      "album": {
         "name": "Light-Foot",
         "url": "https://open.spotify.com/album/4TUkYB55C23uHCxyLjGAaR"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 379866,
       "name": "Hog Maw",
       "url": "https://open.spotify.com/track/01thTnhmHoaLk7AgQ7BO26"
+    },
+    {
+      "added_at": "2022-08-26 10:08:18",
+      "album": {
+        "name": "No Room For Squares (Remastered 2000 / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3qer0IWDm6mSLUJy4ji0Oi"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 511853,
+      "name": "Up A Step - Remastered 2000 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/3ltk3yU2BcHXixu1ykWsCo"
     },
     {
       "added_at": "2022-08-26 10:08:18",
@@ -867,6 +867,22 @@
     {
       "added_at": "2022-08-26 10:08:18",
       "album": {
+        "name": "African Waltz",
+        "url": "https://open.spotify.com/album/5sl60zyjldirYBI1kKxN9f"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "This Here",
+      "url": "https://open.spotify.com/track/73ywxvRTfXvgj2WP33Ud3Y"
+    },
+    {
+      "added_at": "2022-08-26 10:08:18",
+      "album": {
         "name": "No Room For Squares (Remastered 2000 / Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/3qer0IWDm6mSLUJy4ji0Oi"
       },
@@ -883,18 +899,18 @@
     {
       "added_at": "2022-08-26 10:08:18",
       "album": {
-        "name": "African Waltz",
-        "url": "https://open.spotify.com/album/5sl60zyjldirYBI1kKxN9f"
+        "name": "Six Pieces Of Silver",
+        "url": "https://open.spotify.com/album/2p4ipY0YJS0JSDuc1uamxE"
       },
       "artists": [
         {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+          "name": "Horace Silver Quintet",
+          "url": "https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y"
         }
       ],
-      "duration_ms": 180266,
-      "name": "This Here",
-      "url": "https://open.spotify.com/track/73ywxvRTfXvgj2WP33Ud3Y"
+      "duration_ms": 265893,
+      "name": "Camouflage - Remastered 1998/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/3OANaB4dlcU6CjFE1geQhz"
     },
     {
       "added_at": "2022-08-26 10:08:18",
@@ -931,18 +947,18 @@
     {
       "added_at": "2022-08-26 10:08:18",
       "album": {
-        "name": "Six Pieces Of Silver",
-        "url": "https://open.spotify.com/album/2p4ipY0YJS0JSDuc1uamxE"
+        "name": "The Stylings Of Silver (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/7qaTLsGB0H8AJPvUs98CcO"
       },
       "artists": [
         {
-          "name": "Horace Silver Quintet",
-          "url": "https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y"
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
         }
       ],
-      "duration_ms": 265893,
-      "name": "Camouflage - Remastered 1998/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/3OANaB4dlcU6CjFE1geQhz"
+      "duration_ms": 376666,
+      "name": "Soulville - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/7b3V9eMh7z0iucPQHwAVtm"
     },
     {
       "added_at": "2022-08-26 10:08:18",
@@ -959,22 +975,6 @@
       "duration_ms": 619733,
       "name": "Blue Minor - Rudy Van Gelder Edition/1998 Remaster",
       "url": "https://open.spotify.com/track/4K2wcfSfyNYIJNhoCvVnbP"
-    },
-    {
-      "added_at": "2022-08-26 10:08:18",
-      "album": {
-        "name": "The Stylings Of Silver (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/7qaTLsGB0H8AJPvUs98CcO"
-      },
-      "artists": [
-        {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
-        }
-      ],
-      "duration_ms": 376666,
-      "name": "Soulville - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/7b3V9eMh7z0iucPQHwAVtm"
     },
     {
       "added_at": "2022-08-26 10:08:18",
@@ -1023,6 +1023,22 @@
       "duration_ms": 357866,
       "name": "Blues-Blues-Blues - Digital Remaster/2007",
       "url": "https://open.spotify.com/track/5ZdiptWvOuvw0W73ZuqGte"
+    },
+    {
+      "added_at": "2022-08-26 10:08:18",
+      "album": {
+        "name": "Blues-A-Plenty",
+        "url": "https://open.spotify.com/album/43tAFmiohGIyehQQdd3Fps"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hodges & His Orchestra",
+          "url": "https://open.spotify.com/artist/586u2f7H540oCefUIazflT"
+        }
+      ],
+      "duration_ms": 203280,
+      "name": "Blues-A-Plenty",
+      "url": "https://open.spotify.com/track/5MugYa0pStOS1JywExcCo3"
     },
     {
       "added_at": "2022-08-26 10:08:18",
@@ -1079,18 +1095,18 @@
     {
       "added_at": "2022-08-26 10:08:18",
       "album": {
-        "name": "Blues-A-Plenty",
-        "url": "https://open.spotify.com/album/43tAFmiohGIyehQQdd3Fps"
+        "name": "Prime",
+        "url": "https://open.spotify.com/album/0dpDKGE9JbqbpEMzVTkHWq"
       },
       "artists": [
         {
-          "name": "Johnny Hodges & His Orchestra",
-          "url": "https://open.spotify.com/artist/586u2f7H540oCefUIazflT"
+          "name": "Bart-Jan Hogenhuis",
+          "url": "https://open.spotify.com/artist/7m6f9S82i8F66yr6Efpgjk"
         }
       ],
-      "duration_ms": 203280,
-      "name": "Blues-A-Plenty",
-      "url": "https://open.spotify.com/track/5MugYa0pStOS1JywExcCo3"
+      "duration_ms": 302466,
+      "name": "Coffee Break",
+      "url": "https://open.spotify.com/track/48Zzx8FS8tF8pzw6ZqQYaX"
     },
     {
       "added_at": "2022-08-26 10:08:18",
@@ -1107,22 +1123,6 @@
       "duration_ms": 383320,
       "name": "Sound the Trumpet, Beat the Drum - Welcome Ode for James II",
       "url": "https://open.spotify.com/track/3kZnRnwj66Ye6UYwm7y0iT"
-    },
-    {
-      "added_at": "2022-08-26 10:08:18",
-      "album": {
-        "name": "Prime",
-        "url": "https://open.spotify.com/album/0dpDKGE9JbqbpEMzVTkHWq"
-      },
-      "artists": [
-        {
-          "name": "Bart-Jan Hogenhuis",
-          "url": "https://open.spotify.com/artist/7m6f9S82i8F66yr6Efpgjk"
-        }
-      ],
-      "duration_ms": 302466,
-      "name": "Coffee Break",
-      "url": "https://open.spotify.com/track/48Zzx8FS8tF8pzw6ZqQYaX"
     },
     {
       "added_at": "2022-08-26 10:08:18",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2022-08-26 10:08:18",
       "album": {
-        "name": "Man From Two Worlds",
-        "url": "https://open.spotify.com/album/2N6zxHMBYAJq6e1GZYk81M"
-      },
-      "artists": [
-        {
-          "name": "Chico Hamilton",
-          "url": "https://open.spotify.com/artist/31NF3yc9DoAdh2bgR6mY04"
-        }
-      ],
-      "duration_ms": 274533,
-      "name": "Blues For O.T.",
-      "url": "https://open.spotify.com/track/4D4vqh8aun2oRFHDCEUEIQ"
-    },
-    {
-      "added_at": "2022-08-26 10:08:18",
-      "album": {
         "name": "It's Time",
         "url": "https://open.spotify.com/album/2DEbRTEPlHdqclwzhto4Aa"
       },
@@ -1363,6 +1347,22 @@
     {
       "added_at": "2022-08-26 10:08:18",
       "album": {
+        "name": "Man From Two Worlds",
+        "url": "https://open.spotify.com/album/2N6zxHMBYAJq6e1GZYk81M"
+      },
+      "artists": [
+        {
+          "name": "Chico Hamilton",
+          "url": "https://open.spotify.com/artist/31NF3yc9DoAdh2bgR6mY04"
+        }
+      ],
+      "duration_ms": 274533,
+      "name": "Blues For O.T.",
+      "url": "https://open.spotify.com/track/4D4vqh8aun2oRFHDCEUEIQ"
+    },
+    {
+      "added_at": "2022-08-26 10:08:18",
+      "album": {
         "name": "Warna",
         "url": "https://open.spotify.com/album/1AxMJlX259UQmCRRsD5jl5"
       },
@@ -1375,22 +1375,6 @@
       "duration_ms": 435986,
       "name": "Inner Urge",
       "url": "https://open.spotify.com/track/35DNc0UGHEBHXGFoNBpioc"
-    },
-    {
-      "added_at": "2022-08-26 10:08:18",
-      "album": {
-        "name": "Volume Two",
-        "url": "https://open.spotify.com/album/7JJjXLVOKnpL94UVRIKksn"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 345400,
-      "name": "Why Don't I - Rudy Van Gelder Edition/1999 Remaster/24 Bit Mastering",
-      "url": "https://open.spotify.com/track/2IYmbJbzZjdKrs4xtVd2Mr"
     },
     {
       "added_at": "2022-08-26 10:08:18",
@@ -1423,6 +1407,22 @@
     {
       "added_at": "2022-08-26 10:08:18",
       "album": {
+        "name": "Volume Two",
+        "url": "https://open.spotify.com/album/7JJjXLVOKnpL94UVRIKksn"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 345400,
+      "name": "Why Don't I - Rudy Van Gelder Edition/1999 Remaster/24 Bit Mastering",
+      "url": "https://open.spotify.com/track/2IYmbJbzZjdKrs4xtVd2Mr"
+    },
+    {
+      "added_at": "2022-08-26 10:08:18",
+      "album": {
         "name": "53",
         "url": "https://open.spotify.com/album/4Z5gPQXauPwNq1XhzpwKA9"
       },
@@ -1435,6 +1435,30 @@
       "duration_ms": 182677,
       "name": "Jump !",
       "url": "https://open.spotify.com/track/5ZfjTUMHcnvRKy0FBxd6gs"
+    },
+    {
+      "added_at": "2022-08-26 10:08:18",
+      "album": {
+        "name": "Sun Blowing",
+        "url": "https://open.spotify.com/album/25n7RtSqchU8ESw2ZuaOiz"
+      },
+      "artists": [
+        {
+          "name": "Lars Danielsson",
+          "url": "https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope"
+        },
+        {
+          "name": "Marius Neset",
+          "url": "https://open.spotify.com/artist/2hG8VlQmj1un8dl8fbRPQi"
+        },
+        {
+          "name": "Morten Lund",
+          "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
+        }
+      ],
+      "duration_ms": 282762,
+      "name": "Little Jump",
+      "url": "https://open.spotify.com/track/5e1PSFh6Qrcr8K89Iy2vCm"
     },
     {
       "added_at": "2022-08-26 10:08:18",
@@ -1467,30 +1491,6 @@
     {
       "added_at": "2022-08-26 10:08:18",
       "album": {
-        "name": "Sun Blowing",
-        "url": "https://open.spotify.com/album/25n7RtSqchU8ESw2ZuaOiz"
-      },
-      "artists": [
-        {
-          "name": "Lars Danielsson",
-          "url": "https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope"
-        },
-        {
-          "name": "Marius Neset",
-          "url": "https://open.spotify.com/artist/2hG8VlQmj1un8dl8fbRPQi"
-        },
-        {
-          "name": "Morten Lund",
-          "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
-        }
-      ],
-      "duration_ms": 282762,
-      "name": "Little Jump",
-      "url": "https://open.spotify.com/track/5e1PSFh6Qrcr8K89Iy2vCm"
-    },
-    {
-      "added_at": "2022-08-26 10:08:18",
-      "album": {
         "name": "It's All Right!",
         "url": "https://open.spotify.com/album/14CbMw1lBMs4xI2JacW9ad"
       },
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-08-26 10:08:18",
       "album": {
-        "name": "A Swingin' Affair",
-        "url": "https://open.spotify.com/album/2MDFi0jt8SnjYIFwgtU2Q3"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 343653,
-      "name": "McSplivens - Remastered",
-      "url": "https://open.spotify.com/track/0BmK8bVHfOTZVg9QZPfjUS"
-    },
-    {
-      "added_at": "2022-08-26 10:08:18",
-      "album": {
         "name": "Time Is Of The Essence",
         "url": "https://open.spotify.com/album/11BqBzTknzIbxaM55xf2Zu"
       },
@@ -1535,22 +1519,6 @@
       "duration_ms": 473693,
       "name": "Half Past Late",
       "url": "https://open.spotify.com/track/5zmOsIXvpZh1RUiGL4kDan"
-    },
-    {
-      "added_at": "2022-08-26 10:08:18",
-      "album": {
-        "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
-        "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
-      },
-      "artists": [
-        {
-          "name": "Johnny Griffin",
-          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
-        }
-      ],
-      "duration_ms": 379893,
-      "name": "The Way You Look Tonight - Remastered 2006/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/6js3N3Q5TEFIxhzSxgPt8K"
     },
     {
       "added_at": "2022-08-26 10:08:18",
@@ -1587,6 +1555,38 @@
     {
       "added_at": "2022-08-26 10:08:18",
       "album": {
+        "name": "A Swingin' Affair",
+        "url": "https://open.spotify.com/album/2MDFi0jt8SnjYIFwgtU2Q3"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 343653,
+      "name": "McSplivens - Remastered",
+      "url": "https://open.spotify.com/track/0BmK8bVHfOTZVg9QZPfjUS"
+    },
+    {
+      "added_at": "2022-08-26 10:08:18",
+      "album": {
+        "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
+        "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
+      },
+      "artists": [
+        {
+          "name": "Johnny Griffin",
+          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
+        }
+      ],
+      "duration_ms": 379893,
+      "name": "The Way You Look Tonight - Remastered 2006/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/6js3N3Q5TEFIxhzSxgPt8K"
+    },
+    {
+      "added_at": "2022-08-26 10:08:18",
+      "album": {
         "name": "Free Form (Remastered / Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/490Ui9cZvDXuv9bRf5mdB4"
       },
@@ -1599,6 +1599,22 @@
       "duration_ms": 403960,
       "name": "Pentecostal Feelin' - Rudy Van Gelder Edition/2003 Remaster",
       "url": "https://open.spotify.com/track/49DPLHCTEYgJrMcq88N138"
+    },
+    {
+      "added_at": "2022-08-26 10:08:18",
+      "album": {
+        "name": "Afro-Cuban (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/6sfAnBHbBbI8Z4NEDpXycZ"
+      },
+      "artists": [
+        {
+          "name": "Kenny Dorham",
+          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
+        }
+      ],
+      "duration_ms": 371706,
+      "name": "K.D.'s Cab Ride - Rudy Van Gelder Edition; 2007 Digital Remaster",
+      "url": "https://open.spotify.com/track/753tWMTGOJLzWAsFtwGZLN"
     },
     {
       "added_at": "2022-08-26 10:08:18",
@@ -1623,22 +1639,6 @@
     {
       "added_at": "2022-08-26 10:08:18",
       "album": {
-        "name": "Afro-Cuban (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/6sfAnBHbBbI8Z4NEDpXycZ"
-      },
-      "artists": [
-        {
-          "name": "Kenny Dorham",
-          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
-        }
-      ],
-      "duration_ms": 371706,
-      "name": "K.D.'s Cab Ride - Rudy Van Gelder Edition; 2007 Digital Remaster",
-      "url": "https://open.spotify.com/track/753tWMTGOJLzWAsFtwGZLN"
-    },
-    {
-      "added_at": "2022-08-26 10:08:18",
-      "album": {
         "name": "Jubilation! Celebrating Cannonball Adderley",
         "url": "https://open.spotify.com/album/7kEkIBO5Yd62koWjRR3j01"
       },
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2022-08-26 10:08:18",
       "album": {
-        "name": "Why Am I Treated So Bad!",
-        "url": "https://open.spotify.com/album/4CPAyHrIV0POXPCdWICY7o"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        }
-      ],
-      "duration_ms": 315893,
-      "name": "One For Newk - 2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/3f3wxyntMNxbDB6ij3tJLz"
-    },
-    {
-      "added_at": "2022-08-26 10:08:18",
-      "album": {
         "name": "Flyger",
         "url": "https://open.spotify.com/album/2cu6eKTA5JvJiE9wOroGhn"
       },
@@ -1691,6 +1675,22 @@
     {
       "added_at": "2022-08-26 10:08:18",
       "album": {
+        "name": "Why Am I Treated So Bad!",
+        "url": "https://open.spotify.com/album/4CPAyHrIV0POXPCdWICY7o"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        }
+      ],
+      "duration_ms": 315893,
+      "name": "One For Newk - 2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/3f3wxyntMNxbDB6ij3tJLz"
+    },
+    {
+      "added_at": "2022-08-26 10:08:18",
+      "album": {
         "name": "Hero Trio",
         "url": "https://open.spotify.com/album/3FF9NPwv2gznqYaLbilwaX"
       },
@@ -1703,6 +1703,22 @@
       "duration_ms": 282165,
       "name": "The Windup",
       "url": "https://open.spotify.com/track/4OCZosYvqSIZ0iU55mxhV1"
+    },
+    {
+      "added_at": "2022-08-26 10:08:18",
+      "album": {
+        "name": "Friday the 13th",
+        "url": "https://open.spotify.com/album/3sC8dI76VM7jMY8FiD8Mr6"
+      },
+      "artists": [
+        {
+          "name": "Stephen Riley",
+          "url": "https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD"
+        }
+      ],
+      "duration_ms": 398920,
+      "name": "Hoe Down",
+      "url": "https://open.spotify.com/track/21yAA8fIZEYrfITyQqcL3U"
     },
     {
       "added_at": "2022-08-26 10:08:18",
@@ -1735,22 +1751,6 @@
       "duration_ms": 305655,
       "name": "Night Drive with Ornette",
       "url": "https://open.spotify.com/track/4jLv4eukwFEYArA4CehonQ"
-    },
-    {
-      "added_at": "2022-08-26 10:08:18",
-      "album": {
-        "name": "Friday the 13th",
-        "url": "https://open.spotify.com/album/3sC8dI76VM7jMY8FiD8Mr6"
-      },
-      "artists": [
-        {
-          "name": "Stephen Riley",
-          "url": "https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD"
-        }
-      ],
-      "duration_ms": 398920,
-      "name": "Hoe Down",
-      "url": "https://open.spotify.com/track/21yAA8fIZEYrfITyQqcL3U"
     }
   ],
   "unique_name": "Jazz in the Car",

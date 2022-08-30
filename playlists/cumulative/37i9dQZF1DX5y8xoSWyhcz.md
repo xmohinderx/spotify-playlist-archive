@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\)\. \~\~\~ cover: magdalena bay
 
-934 songs - 1 day 23 hr 48 min - [published](https://open.spotify.com/playlist/4lgMQu4P2ziouf8Qz9MR8Q)
+935 songs - 1 day 23 hr 52 min - [published](https://open.spotify.com/playlist/4lgMQu4P2ziouf8Qz9MR8Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -416,6 +416,7 @@
 | [I Still Love You](https://open.spotify.com/track/5J3lwdkgC0D8wBuEgsvGJp) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [I Still Love You](https://open.spotify.com/album/0CL2R1h6ovr4IcaXSqouYZ) | 2:55 | 2022-03-25 | 2022-04-02 |
 | [i think i saw a ghost](https://open.spotify.com/track/29XWWxrDuVcKVPfCaGDGXT) | [One Hope](https://open.spotify.com/artist/1UyepeXL7LRzhk7a9p3Glj) | [i think i saw a ghost](https://open.spotify.com/album/1qIZPiM3lKihjfq4V6tOMc) | 2:55 | 2021-11-20 | 2022-04-23 |
 | [i walk this earth all by myself](https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i walk this earth all by myself](https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG) | 2:25 | 2021-03-06 | 2021-06-05 |
+| [I Won't Bite](https://open.spotify.com/track/2xz8YcWZwMR3Dcds2QqFeJ) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Anxious Avoidant](https://open.spotify.com/album/6yIPE5sUMMMh70i6ApdQCt) | 4:17 | 2022-08-29 |  |
 | [I Wonder](https://open.spotify.com/track/2jAQ2aimRlA9Mh91HbZffx) | [Sally Boy](https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf) | [EREZ](https://open.spotify.com/album/5ValAPJZMl7J1tBYMlSZnz) | 2:34 | 2020-11-07 | 2020-11-18 |
 | [I! Only! Wanna! Live! Forever!](https://open.spotify.com/track/2fHRtDFVqV5KCgl5LnG8Bv) | [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [I! Only! Wanna! Live! Forever!](https://open.spotify.com/album/2xG3Whos27zHMLCzcgv0Xp) | 3:13 | 2022-02-18 | 2022-07-23 |
 | [I'd Rather Be Alone](https://open.spotify.com/track/3VhBPtQ81n2AHO5jrmGnuC) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [I'd Rather Be Alone](https://open.spotify.com/album/4hXCB2Qgpqj6DP3wjOLpSo) | 3:25 | 2021-05-03 | 2021-09-18 |
@@ -709,7 +710,7 @@
 | [Show Runner 99](https://open.spotify.com/track/4G5bnCpOB99DIcOQa6QVYw) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Show Runner 99](https://open.spotify.com/album/1ixXFuKaljRwvI8IEupLeQ) | 3:26 | 2021-08-28 | 2021-11-10 |
 | [Shut It Up!](https://open.spotify.com/track/7MvZSYL3SmiaHIXcjfhAvM) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS) | [Shut It Up!](https://open.spotify.com/album/0uz9UTudURoUl1B7elaXMw) | 1:52 | 2022-03-11 | 2022-04-02 |
 | [si rose](https://open.spotify.com/track/2afbvWy02QHOd7PSyBp1A5) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg) | [postcard from Paris](https://open.spotify.com/album/6wRJKg7Vnp3YDtwWXRcmxr) | 3:28 | 2022-06-10 |  |
-| [SICK](https://open.spotify.com/track/1vuNMMrJKt2l3oaUgre2rC) | [Saya](https://open.spotify.com/artist/5M60ox9b9C4RSPOYYQLTae) | [SICK](https://open.spotify.com/album/2ERQ2STtX9I7TdZOU94uBz) | 3:05 | 2022-04-08 |  |
+| [SICK](https://open.spotify.com/track/1vuNMMrJKt2l3oaUgre2rC) | [Saya](https://open.spotify.com/artist/5M60ox9b9C4RSPOYYQLTae) | [SICK](https://open.spotify.com/album/2ERQ2STtX9I7TdZOU94uBz) | 3:05 | 2022-04-08 | 2022-08-30 |
 | [Sidelines](https://open.spotify.com/track/2O8GAg2e0odKtTlPklQZ07) | [golda may](https://open.spotify.com/artist/37twljvcr2zd46xUUZlnl6) | [Sidelines](https://open.spotify.com/album/5Bb1KAdfxmz6ZaPurgva1H) | 2:46 | 2021-02-06 | 2021-03-19 |
 | [Silk Chiffon \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/0BLY78hYpsH9NqP6X0N8CX) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Silk Chiffon \(feat\. Phoebe Bridgers\)](https://open.spotify.com/album/0tVci75UxNB1H29bpj86tj) | 3:26 | 2021-09-11 | 2022-01-29 |
 | [Silver Lining](https://open.spotify.com/track/1yLYOqEaafdA6LzWpfzFIL) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Silver Lining](https://open.spotify.com/album/2OieKLUZmHUcwMqtLpHoBg) | 3:39 | 2022-06-03 |  |

@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop đã đơm hoa trên những khúc ca này\. Ảnh bìa: Phương Ly
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,887 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,958 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ném Câu Yêu Vào Không Trung](https://open.spotify.com/track/4RwQ5UUOgphhjBM8zF62RQ) | [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [Yên](https://open.spotify.com/album/5NGMQL0k9iQim4fcGjMnUv) | 3:56 |
-| 2 | [Chậm Lại](https://open.spotify.com/track/067J8jL5iPDzVBH0jClJpI) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs) | [Chậm Lại](https://open.spotify.com/album/4sGS3UYEjJtBi4MuiOwGKV) | 3:43 |
-| 3 | [ThichThich](https://open.spotify.com/track/3wUp8eCTshIrJcYbjWaoyP) | [Phuong Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9) | [ThichThich](https://open.spotify.com/album/4AitP1QgqnYpEpx8KY07IA) | 4:01 |
-| 4 | [3107 4 \(feat\. Erik, Nâu\)](https://open.spotify.com/track/45PPoUgqs3JrhkZGEzSUHT) | [W/N](https://open.spotify.com/artist/6NF9Oa4ThQWCj6mogFSrVD), [ERIK](https://open.spotify.com/artist/1L1VfizWn4DkFt602yD80U), [Nau](https://open.spotify.com/artist/38QautgC2LNYKiu10BB0sF) | [3107 4 \(feat\. Erik, Nâu\)](https://open.spotify.com/album/6uBnpHfSuZsVHjuTmrd0Y8) | 3:33 |
-| 5 | [Vì Anh Đâu Có Biết](https://open.spotify.com/track/6VXVYATpQXEIoZ97NnWCmn) | [Madihu](https://open.spotify.com/artist/1OIYKbmhG0RxPXvVPNj3NN), [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs) | [Vì Anh Đâu Có Biết](https://open.spotify.com/album/3C5z2dMU7D6VLpnNtYujPJ) | 4:01 |
-| 6 | [Chuyện Đôi Ta \(feat\. Muộii\)](https://open.spotify.com/track/4CUvVaAYuXtvYURLFz7EIL) | [Emcee L \(Da LAB\)](https://open.spotify.com/artist/4bPYvyUn1mWwUwIW57oST2), [Muộii](https://open.spotify.com/artist/1Tdy7LZnrufTyuEbgDi1D8) | [Chuyện Đôi Ta \(feat\. Muộii\)](https://open.spotify.com/album/5tFSjs5VsM2EwoA2Px6jqo) | 3:28 |
+| 1 | [Chậm Lại](https://open.spotify.com/track/067J8jL5iPDzVBH0jClJpI) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs) | [Chậm Lại](https://open.spotify.com/album/4sGS3UYEjJtBi4MuiOwGKV) | 3:43 |
+| 2 | [ThichThich](https://open.spotify.com/track/3wUp8eCTshIrJcYbjWaoyP) | [Phuong Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9) | [ThichThich](https://open.spotify.com/album/4AitP1QgqnYpEpx8KY07IA) | 4:01 |
+| 3 | [Ném Câu Yêu Vào Không Trung](https://open.spotify.com/track/4RwQ5UUOgphhjBM8zF62RQ) | [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [Yên](https://open.spotify.com/album/5NGMQL0k9iQim4fcGjMnUv) | 3:56 |
+| 4 | [Chuyện Đôi Ta \(feat\. Muộii\)](https://open.spotify.com/track/4CUvVaAYuXtvYURLFz7EIL) | [Emcee L \(Da LAB\)](https://open.spotify.com/artist/4bPYvyUn1mWwUwIW57oST2), [Muộii](https://open.spotify.com/artist/1Tdy7LZnrufTyuEbgDi1D8) | [Chuyện Đôi Ta \(feat\. Muộii\)](https://open.spotify.com/album/5tFSjs5VsM2EwoA2Px6jqo) | 3:28 |
+| 5 | [3107 4 \(feat\. Erik, Nâu\)](https://open.spotify.com/track/45PPoUgqs3JrhkZGEzSUHT) | [W/N](https://open.spotify.com/artist/6NF9Oa4ThQWCj6mogFSrVD), [ERIK](https://open.spotify.com/artist/1L1VfizWn4DkFt602yD80U), [Nau](https://open.spotify.com/artist/38QautgC2LNYKiu10BB0sF) | [3107 4 \(feat\. Erik, Nâu\)](https://open.spotify.com/album/6uBnpHfSuZsVHjuTmrd0Y8) | 3:33 |
+| 6 | [Vì Anh Đâu Có Biết](https://open.spotify.com/track/6VXVYATpQXEIoZ97NnWCmn) | [Madihu](https://open.spotify.com/artist/1OIYKbmhG0RxPXvVPNj3NN), [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs) | [Vì Anh Đâu Có Biết](https://open.spotify.com/album/3C5z2dMU7D6VLpnNtYujPJ) | 4:01 |
 | 7 | [Bên Trên Tầng Lầu](https://open.spotify.com/track/0Cy7uOfTjJrmHkNEPBBZxf) | [Tăng Duy Tân](https://open.spotify.com/artist/1n9JKdEdLxrbgJiqz1WZFJ) | [Bên Trên Tầng Lầu](https://open.spotify.com/album/3YTsTxFi7qKmDx2TqlpYKG) | 3:04 |
 | 8 | [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/track/25h0TqC9H3BcMA7KjK5nHK) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/album/5Gu0Ldddj2f6a0q5gitIok) | 3:45 |
 | 9 | [Chìm Sâu](https://open.spotify.com/track/4ih9noxBfg7euMjCPO0qNH) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [Chìm Sâu](https://open.spotify.com/album/2AZXUAGWs90yNEUC4biubs) | 2:36 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 59 | [Ghé Qua](https://open.spotify.com/track/0pQ67Kp2kED4ISy1ieGPEq) | [TaynguyenSound](https://open.spotify.com/artist/5ayWRfrcpObgDDlzheJ2Gr), [Tofu](https://open.spotify.com/artist/0Ux2qIQbEeqvv7uYLgHhDH), [PC](https://open.spotify.com/artist/3HD3V1nGFPwepBO7064Ij0), [Dick](https://open.spotify.com/artist/1tikl40deDgJWS57GTKiVh) | [Ghé Qua](https://open.spotify.com/album/5UFpxFhOmg3nb3wWd3p48D) | 3:57 |
 | 60 | [See Tình](https://open.spotify.com/track/3bZGGKrMQLDGg18y2QqKFF) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [See Tình](https://open.spotify.com/album/1AttOIOFrGkOPNSq5mB4pd) | 3:05 |
 
-Snapshot ID: `MTY2MTQ3MTk0MCwwMDAwMDAwMGFlZmQyNDY5MTYwZTVmNWJkMmU1ZmY0YzY4YmMwODky`
+Snapshot ID: `MTY2MTc1MDc4OSwwMDAwMDAwMDEwN2ViNTcxYTc5ZjRlNWY5MGFhNGQyZmJhYmE4YWZl`

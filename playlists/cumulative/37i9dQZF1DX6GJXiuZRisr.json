@@ -2889,7 +2889,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 289672,
       "name": "Kochi",
       "url": "https://open.spotify.com/track/3qda6E8ABSxAXfyxQtdtwF"
@@ -3880,6 +3880,28 @@
     },
     {
       "album": {
+        "name": "Out Of Control",
+        "url": "https://open.spotify.com/album/3k9PBFjo8FHjGzV2EvsRUk"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168387,
+      "name": "Out Of Control",
+      "url": "https://open.spotify.com/track/44fFj5FWWuFseMDEvToXCn"
+    },
+    {
+      "album": {
         "name": "Out Of My Mind",
         "url": "https://open.spotify.com/album/5KCN7V6r76Cux45ozatVYW"
       },
@@ -4737,7 +4759,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 437463,
       "name": "Sleepless Nights",
       "url": "https://open.spotify.com/track/7hVkwBCfwGJ442dBh1G5Dv"
@@ -4759,7 +4781,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 186480,
       "name": "So Far So Good",
       "url": "https://open.spotify.com/track/6NzM2e5qsOoCn4TG5XX2Mx"
@@ -5411,6 +5433,32 @@
       "duration_ms": 217515,
       "name": "The World You See",
       "url": "https://open.spotify.com/track/4TQgbkv9CF1Qy4GIfpZeSO"
+    },
+    {
+      "album": {
+        "name": "This Feeling (Yotto Remix)",
+        "url": "https://open.spotify.com/album/1TGyeiQObQ1tBNuXNUUM5m"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        },
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236078,
+      "name": "This Feeling - Yotto Remix",
+      "url": "https://open.spotify.com/track/19LE5SbXV0A4UFRJvz91Eq"
     },
     {
       "album": {
@@ -6137,6 +6185,24 @@
       "duration_ms": 411964,
       "name": "Womaa",
       "url": "https://open.spotify.com/track/5JFrgSCrW4aSeYKSK9MyyC"
+    },
+    {
+      "album": {
+        "name": "You Can't Stop Me",
+        "url": "https://open.spotify.com/album/59IhytiO3MDX4ogjV22Zcf"
+      },
+      "artists": [
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189843,
+      "name": "You Can't Stop Me",
+      "url": "https://open.spotify.com/track/5PsoWaIrI0S398z8pTy7BW"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 
 > Lasers, lights & euphoric beats \- all your favorite trance anthems!
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,617 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,913 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 | 17 | [For An Angel \- PVD Angel In Heaven Radio Edit](https://open.spotify.com/track/2zI4py4xY6v4vIrAlR6GtP) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR) | [For An Angel](https://open.spotify.com/album/0EKap5LIE39RLZoknkiZOl) | 3:53 |
 | 18 | [The Launch \- Radio Edit](https://open.spotify.com/track/6FP4peicCGnib7asns71fs) | [DJ Jean](https://open.spotify.com/artist/73MDPnjHtoqOexpBNe4FPl) | [The Launch](https://open.spotify.com/album/2mf2kFapmGUkmAVWvjjzr0) | 3:40 |
 | 19 | [Beachball \- Vocal Radio Edit](https://open.spotify.com/track/6iyxF36JnQYzqMbpQD861R) | [Nalin & Kane](https://open.spotify.com/artist/6JUsbe4yjY4fZbXTtpyfh6) | [Beachball](https://open.spotify.com/album/5twL3A9cQUR61zLddNP6cf) | 3:54 |
-| 20 | [Exploration of Space](https://open.spotify.com/track/0P2sfcfRD0lWw4b8eXegmR) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS) | [Exploration of Space](https://open.spotify.com/album/7LJlzaFq8LRFGGq2kijcHX) | 3:36 |
-| 21 | [Till The Sky Falls Down](https://open.spotify.com/track/1YddMZzakt7WEZ9y1xGQgR) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri) | [The New Daylight \(Radio Versions\)](https://open.spotify.com/album/76AmfDmFp6G67x16si8mUR) | 3:50 |
+| 20 | [Till The Sky Falls Down](https://open.spotify.com/track/1YddMZzakt7WEZ9y1xGQgR) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri) | [The New Daylight \(Radio Versions\)](https://open.spotify.com/album/76AmfDmFp6G67x16si8mUR) | 3:50 |
+| 21 | [Exploration of Space](https://open.spotify.com/track/0P2sfcfRD0lWw4b8eXegmR) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS) | [Exploration of Space](https://open.spotify.com/album/7LJlzaFq8LRFGGq2kijcHX) | 3:36 |
 | 22 | [On The Beach \- Mauro Picotto's CRW Remix](https://open.spotify.com/track/1YsZB1pLIXR0YgiOxUG9cv) | [York](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q), [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp), [CRW](https://open.spotify.com/artist/14tToftzUXlFOnrR5ojQxu) | [On The Beach](https://open.spotify.com/album/6VFOyyn3IVAWkeoJzBOCV9) | 3:17 |
 | 23 | [Touch Me](https://open.spotify.com/track/2LGrLtvYEHrd3Nnot4Hxuw) | [Rui Da Silva](https://open.spotify.com/artist/1kx78nQhmITF7OFvivyN4v) | [Produced & Remixed](https://open.spotify.com/album/7slnTp1JuFDHosCeCCGPrI) | 8:35 |
 | 24 | [Insomnia \- Monster Mix](https://open.spotify.com/track/2FH3BLTMhJlCH1Dmkua5DW) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE), [Rollo Armstrong](https://open.spotify.com/artist/6hFSukEzqXAkCIcXNnctZ4), [Sister Bliss](https://open.spotify.com/artist/4tc9NREea7ncB7JzqdBsj5), [Goetz](https://open.spotify.com/artist/1HT9jeorSqkirZ9bcMQuKv) | [Faithless 2.0](https://open.spotify.com/album/5USqWtDnrzYSN7oh1wPl2O) | 8:38 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 | 42 | [Superstring \- RANK 1's Radio Edit](https://open.spotify.com/track/39TCsy3tu2xSPYEo6excU7) | [Cygnus X](https://open.spotify.com/artist/2D507sfeGL9YBBsF5P2XcG), [Rank 1](https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ) | [Superstring](https://open.spotify.com/album/1wM9cCJ9JxT4RarsN6V0G3) | 3:07 |
 | 43 | [Everyday \- Extended Mix](https://open.spotify.com/track/4ApMz0VzAlMf7EAR1Nn3I5) | [Agnelli & Nelson](https://open.spotify.com/artist/25fXoLpROrtnNtQ1ifr8oN) | [Hudson Street](https://open.spotify.com/album/2Uxdu2VRsTj2AIUI38VNfD) | 6:57 |
 | 44 | [Universal Nation](https://open.spotify.com/track/1u8gw65yb6kRCBqNDFSwHj) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR) | [Trance Top 1000 \- The Best Of](https://open.spotify.com/album/1KCiWQIQtagNrWcJvPTiNe) | 3:45 |
-| 45 | [The Whiteroom](https://open.spotify.com/track/64AwAe6HpIEGFjy0KoGsmH) | [Andy Moor](https://open.spotify.com/artist/0Fn4agIyGMwQsKHrx1i8Dn), [Adam White](https://open.spotify.com/artist/3OYcRF1SOf0sR3NRsgMI3R), [Whiteroom](https://open.spotify.com/artist/1JerCKWsimcVvghLc1Kwib) | [The Whiteroom](https://open.spotify.com/album/58P4AdA5mi8Yfjlb5e8Maz) | 3:53 |
-| 46 | [Not Over Yet](https://open.spotify.com/track/4fmQizrUXpVXaubqpNp5CE) | [Grace](https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg) | [If I Could Fly](https://open.spotify.com/album/0asBvC8WrcVrNLZ5YkXI66) | 6:01 |
+| 45 | [Not Over Yet](https://open.spotify.com/track/4fmQizrUXpVXaubqpNp5CE) | [Grace](https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg) | [If I Could Fly](https://open.spotify.com/album/0asBvC8WrcVrNLZ5YkXI66) | 6:01 |
+| 46 | [The Whiteroom](https://open.spotify.com/track/64AwAe6HpIEGFjy0KoGsmH) | [Andy Moor](https://open.spotify.com/artist/0Fn4agIyGMwQsKHrx1i8Dn), [Adam White](https://open.spotify.com/artist/3OYcRF1SOf0sR3NRsgMI3R), [Whiteroom](https://open.spotify.com/artist/1JerCKWsimcVvghLc1Kwib) | [The Whiteroom](https://open.spotify.com/album/58P4AdA5mi8Yfjlb5e8Maz) | 3:53 |
 | 47 | [Saltwater](https://open.spotify.com/track/4qWKqaTPkpjRmrKjkDuHb4) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD), [Moya Brennan](https://open.spotify.com/artist/3ZvmmlF8EMEpnnK90jfuJv) | [The Best Of Chicane 1996 \- 2009](https://open.spotify.com/album/4HA4lHmngXl9auznchWqlf) | 3:22 |
 | 48 | [Out Of The Blue](https://open.spotify.com/track/0jJtOt57bhFAz7ccgGkxWJ) | [System F](https://open.spotify.com/artist/2ZpwFriFFPaGFC4qYQQJ1i) | [Out Of The Blue \(Ilan Bluestone Remix\)](https://open.spotify.com/album/7wL2zH4KkHxWQe74ne1UnF) | 3:53 |
 | 49 | [Follow Me \- Radio Edit](https://open.spotify.com/track/2Q3GYtZYSMZF02UiCzDZ7U) | [Lange](https://open.spotify.com/artist/0zgmzl8NLEOsqYNOQcSmAA), [The Morrighan](https://open.spotify.com/artist/1MebLqs1g2o2M8bpd55V5S) | [100% Clubland Trance](https://open.spotify.com/album/2dnbvXUaQDczid713Ahagb) | 3:43 |
-| 50 | [Bits N Pianos](https://open.spotify.com/track/6F85zMy5Ucjr1H6dsdZYYx) | [SDC](https://open.spotify.com/artist/6qSmkoM4CdhOuo08wFdwDx) | [Bits N Pianos](https://open.spotify.com/album/5ThZFZtXcEDqXzsu970pdd) | 5:29 |
+| 50 | [Amsterdam](https://open.spotify.com/track/1tSaez12qgU8xkO478Tvgb) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq) | [Trance Top 1000 \- Ibiza Classics](https://open.spotify.com/album/4JYyajxWZaOKHwNGDLRFvL) | 2:51 |
 
-Snapshot ID: `MTY0OTg2MjE5NywwMDAwMDAwMGQ1NmMwMjVjOGU2YjBkOTM2MWQzNWNkZmQ1Y2FiZjJl`
+Snapshot ID: `MTY0OTg2MjE5NywwMDAwMDAwMDJkYjIwMWE3MmEzZjUxMWNiYzY5MmYzNWIzZjk4ZmVi`

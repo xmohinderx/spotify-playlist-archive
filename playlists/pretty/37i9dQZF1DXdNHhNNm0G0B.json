@@ -1,12 +1,12 @@
 {
   "description": "Relax to the sounds of acoustic blues and folk...",
-  "num_followers": 61776,
+  "num_followers": 61824,
   "original_name": "Backporch Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgyMTg1MCwwMDAwMDAwMGU5YTk1OTE4YWFhNjM0Y2U4MjA3ZGExYTI5ZTgxYWNl",
+  "snapshot_id": "MTY2MDgyMTg1MCwwMDAwMDAwMGRhMjcyMWViMjA3NDRjYTM4MzZiOWVmN2QwMjI1NDFk",
   "tracks": [
     {
       "added_at": "2022-08-18 11:24:10",
@@ -31,22 +31,6 @@
     {
       "added_at": "2022-08-18 11:24:10",
       "album": {
-        "name": "The Legend Of Blind Joe Death",
-        "url": "https://open.spotify.com/album/5dPdHCE2QcT3FZqNAfMJO8"
-      },
-      "artists": [
-        {
-          "name": "John Fahey",
-          "url": "https://open.spotify.com/artist/4js8BDiQwnHLlDmT1shPH7"
-        }
-      ],
-      "duration_ms": 185400,
-      "name": "Sligo River Blues - Original Recording",
-      "url": "https://open.spotify.com/track/5U9mObciLrrnJC0hE84SIu"
-    },
-    {
-      "added_at": "2022-08-18 11:24:10",
-      "album": {
         "name": "Heavy Load Blues",
         "url": "https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 438840,
       "name": "Heavy Load",
       "url": "https://open.spotify.com/track/4ZgLOQB66wNk4VNB9H98E2"
+    },
+    {
+      "added_at": "2022-08-18 11:24:10",
+      "album": {
+        "name": "The Legend Of Blind Joe Death",
+        "url": "https://open.spotify.com/album/5dPdHCE2QcT3FZqNAfMJO8"
+      },
+      "artists": [
+        {
+          "name": "John Fahey",
+          "url": "https://open.spotify.com/artist/4js8BDiQwnHLlDmT1shPH7"
+        }
+      ],
+      "duration_ms": 185400,
+      "name": "Sligo River Blues - Original Recording",
+      "url": "https://open.spotify.com/track/5U9mObciLrrnJC0hE84SIu"
     },
     {
       "added_at": "2022-08-18 11:24:10",
@@ -95,6 +95,22 @@
     {
       "added_at": "2022-08-18 11:24:10",
       "album": {
+        "name": "Sleeping Operator",
+        "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
+      },
+      "artists": [
+        {
+          "name": "The Barr Brothers",
+          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
+        }
+      ],
+      "duration_ms": 124560,
+      "name": "Static Orphans",
+      "url": "https://open.spotify.com/track/0tdhaGcTo8XtIpizS2sXm9"
+    },
+    {
+      "added_at": "2022-08-18 11:24:10",
+      "album": {
         "name": "Guitar Music",
         "url": "https://open.spotify.com/album/45GOwuG1VZqnLfdvPuZ2oj"
       },
@@ -107,30 +123,6 @@
       "duration_ms": 164200,
       "name": "Tumbling Tumbleweeds",
       "url": "https://open.spotify.com/track/6nHsZuDMPSyRQ90gBhaXoS"
-    },
-    {
-      "added_at": "2022-08-18 11:24:10",
-      "album": {
-        "name": "Shapes of the Fall",
-        "url": "https://open.spotify.com/album/4DWP3Ck7TsDJQH8OP2uiUU"
-      },
-      "artists": [
-        {
-          "name": "Piers Faccini",
-          "url": "https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd"
-        },
-        {
-          "name": "Abdelkebir Merchane",
-          "url": "https://open.spotify.com/artist/7iiuXYxFPuc2tMe000sxe4"
-        },
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        }
-      ],
-      "duration_ms": 211600,
-      "name": "All Aboard",
-      "url": "https://open.spotify.com/track/0BjnY6fLR9XNGIMmXnYXGG"
     },
     {
       "added_at": "2022-08-18 11:24:10",
@@ -167,6 +159,30 @@
     {
       "added_at": "2022-08-18 11:24:10",
       "album": {
+        "name": "Shapes of the Fall",
+        "url": "https://open.spotify.com/album/4DWP3Ck7TsDJQH8OP2uiUU"
+      },
+      "artists": [
+        {
+          "name": "Piers Faccini",
+          "url": "https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd"
+        },
+        {
+          "name": "Abdelkebir Merchane",
+          "url": "https://open.spotify.com/artist/7iiuXYxFPuc2tMe000sxe4"
+        },
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        }
+      ],
+      "duration_ms": 211600,
+      "name": "All Aboard",
+      "url": "https://open.spotify.com/track/0BjnY6fLR9XNGIMmXnYXGG"
+    },
+    {
+      "added_at": "2022-08-18 11:24:10",
+      "album": {
         "name": "Days of Being Wild",
         "url": "https://open.spotify.com/album/4OUF3bDg60cOEqlHLsLDA0"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 50014,
       "name": "Twins",
       "url": "https://open.spotify.com/track/0SeCA3vPHuXGP6sizB05ZA"
-    },
-    {
-      "added_at": "2022-08-18 11:24:10",
-      "album": {
-        "name": "Sleeping Operator",
-        "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
-      },
-      "artists": [
-        {
-          "name": "The Barr Brothers",
-          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
-        }
-      ],
-      "duration_ms": 124560,
-      "name": "Static Orphans",
-      "url": "https://open.spotify.com/track/0tdhaGcTo8XtIpizS2sXm9"
     },
     {
       "added_at": "2022-08-18 11:24:10",
@@ -247,22 +247,6 @@
     {
       "added_at": "2022-08-18 11:24:10",
       "album": {
-        "name": "Nothing We Say - EP",
-        "url": "https://open.spotify.com/album/5iHIUbynfBik6g0Ik3zhl7"
-      },
-      "artists": [
-        {
-          "name": "Courtney Hartman",
-          "url": "https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7"
-        }
-      ],
-      "duration_ms": 133026,
-      "name": "Cumberland Gap",
-      "url": "https://open.spotify.com/track/1W3WoQ2ECZzQnpOEt3XZVK"
-    },
-    {
-      "added_at": "2022-08-18 11:24:10",
-      "album": {
         "name": "Mercury",
         "url": "https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 96840,
       "name": "Mesquite Shade",
       "url": "https://open.spotify.com/track/39vGhSkzHBGwEnSi5PNKNn"
+    },
+    {
+      "added_at": "2022-08-18 11:24:10",
+      "album": {
+        "name": "Nothing We Say - EP",
+        "url": "https://open.spotify.com/album/5iHIUbynfBik6g0Ik3zhl7"
+      },
+      "artists": [
+        {
+          "name": "Courtney Hartman",
+          "url": "https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7"
+        }
+      ],
+      "duration_ms": 133026,
+      "name": "Cumberland Gap",
+      "url": "https://open.spotify.com/track/1W3WoQ2ECZzQnpOEt3XZVK"
     },
     {
       "added_at": "2022-08-18 11:24:10",
@@ -295,22 +295,6 @@
     {
       "added_at": "2022-08-18 11:24:10",
       "album": {
-        "name": "Preachin' Blues",
-        "url": "https://open.spotify.com/album/2jBR825FVmX6BelMes5U4G"
-      },
-      "artists": [
-        {
-          "name": "Son House",
-          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
-        }
-      ],
-      "duration_ms": 316360,
-      "name": "Preachin' Blues",
-      "url": "https://open.spotify.com/track/4YEoVkvvzx5eavtE2u5qG0"
-    },
-    {
-      "added_at": "2022-08-18 11:24:10",
-      "album": {
         "name": "Dust My Broom",
         "url": "https://open.spotify.com/album/4wvZ1QR3tMnLNDzzxxn1pj"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 215662,
       "name": "Dust My Broom",
       "url": "https://open.spotify.com/track/3OGfvgASu7KjQn8whfBALw"
+    },
+    {
+      "added_at": "2022-08-18 11:24:10",
+      "album": {
+        "name": "Preachin' Blues",
+        "url": "https://open.spotify.com/album/2jBR825FVmX6BelMes5U4G"
+      },
+      "artists": [
+        {
+          "name": "Son House",
+          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
+        }
+      ],
+      "duration_ms": 316360,
+      "name": "Preachin' Blues",
+      "url": "https://open.spotify.com/track/4YEoVkvvzx5eavtE2u5qG0"
     },
     {
       "added_at": "2022-08-18 11:24:10",
@@ -375,6 +375,22 @@
     {
       "added_at": "2022-08-18 11:24:10",
       "album": {
+        "name": "Mercury",
+        "url": "https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv"
+      },
+      "artists": [
+        {
+          "name": "Marisa Anderson",
+          "url": "https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW"
+        }
+      ],
+      "duration_ms": 203880,
+      "name": "Deep Gap",
+      "url": "https://open.spotify.com/track/35VC12PD25DXOSOYf4Eg7N"
+    },
+    {
+      "added_at": "2022-08-18 11:24:10",
+      "album": {
         "name": "Hooray For Another Day",
         "url": "https://open.spotify.com/album/112NAVwlA1JezzCXNrVlgx"
       },
@@ -407,34 +423,18 @@
     {
       "added_at": "2022-08-18 11:24:10",
       "album": {
-        "name": "Live in Forl\u00ec, Italy 1982",
-        "url": "https://open.spotify.com/album/6jJ64hMG1uwafIGiltuNNZ"
+        "name": "Down in Mississippi",
+        "url": "https://open.spotify.com/album/1FhadZKvoH6Kh4SroqVJTP"
       },
       "artists": [
         {
-          "name": "Robbie Basho",
-          "url": "https://open.spotify.com/artist/1bB0hKohfWkczaTMQLQdlR"
+          "name": "Bobby Rush",
+          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
         }
       ],
-      "duration_ms": 282981,
-      "name": "Clair de lune (For Twelve-String) [Live]",
-      "url": "https://open.spotify.com/track/18ul6LoGQ7Fg9yOKLxxWZx"
-    },
-    {
-      "added_at": "2022-08-18 11:24:10",
-      "album": {
-        "name": "Mercury",
-        "url": "https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv"
-      },
-      "artists": [
-        {
-          "name": "Marisa Anderson",
-          "url": "https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW"
-        }
-      ],
-      "duration_ms": 203880,
-      "name": "Deep Gap",
-      "url": "https://open.spotify.com/track/35VC12PD25DXOSOYf4Eg7N"
+      "duration_ms": 203453,
+      "name": "Down in Mississippi",
+      "url": "https://open.spotify.com/track/3ArBqpsJ4pyrnKtHZYl6ZJ"
     },
     {
       "added_at": "2022-08-18 11:24:10",
@@ -455,6 +455,22 @@
     {
       "added_at": "2022-08-18 11:24:10",
       "album": {
+        "name": "Live in Forl\u00ec, Italy 1982",
+        "url": "https://open.spotify.com/album/6jJ64hMG1uwafIGiltuNNZ"
+      },
+      "artists": [
+        {
+          "name": "Robbie Basho",
+          "url": "https://open.spotify.com/artist/1bB0hKohfWkczaTMQLQdlR"
+        }
+      ],
+      "duration_ms": 282981,
+      "name": "Clair de lune (For Twelve-String) [Live]",
+      "url": "https://open.spotify.com/track/18ul6LoGQ7Fg9yOKLxxWZx"
+    },
+    {
+      "added_at": "2022-08-18 11:24:10",
+      "album": {
         "name": "Dark Was The Night (Mojo Workin'- Blues For The Next Generation)",
         "url": "https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 188373,
       "name": "Let Your Light Shine on Me",
       "url": "https://open.spotify.com/track/51qp3WsYjiDuBhzR7AON69"
-    },
-    {
-      "added_at": "2022-08-18 11:24:10",
-      "album": {
-        "name": "Down in Mississippi",
-        "url": "https://open.spotify.com/album/1FhadZKvoH6Kh4SroqVJTP"
-      },
-      "artists": [
-        {
-          "name": "Bobby Rush",
-          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
-        }
-      ],
-      "duration_ms": 203453,
-      "name": "Down in Mississippi",
-      "url": "https://open.spotify.com/track/3ArBqpsJ4pyrnKtHZYl6ZJ"
     },
     {
       "added_at": "2022-08-18 11:24:10",
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-08-18 11:24:10",
       "album": {
-        "name": "Willow Witchin' (Hot Take)",
-        "url": "https://open.spotify.com/album/3DO5TaKuot0DPdfrDxZxZl"
-      },
-      "artists": [
-        {
-          "name": "Nat Myers",
-          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
-        }
-      ],
-      "duration_ms": 150941,
-      "name": "Willow Witchin' (Hot Take)",
-      "url": "https://open.spotify.com/track/6QaEUzzNtspNmCAdG4OUb6"
-    },
-    {
-      "added_at": "2022-08-18 11:24:10",
-      "album": {
         "name": "Mood",
         "url": "https://open.spotify.com/album/32rsKcNx5IT9vOMo35Dg0R"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 154924,
       "name": "New Anthem",
       "url": "https://open.spotify.com/track/6EY4naa1RCQkdfSL7DC0jI"
+    },
+    {
+      "added_at": "2022-08-18 11:24:10",
+      "album": {
+        "name": "Willow Witchin' (Hot Take)",
+        "url": "https://open.spotify.com/album/3DO5TaKuot0DPdfrDxZxZl"
+      },
+      "artists": [
+        {
+          "name": "Nat Myers",
+          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
+        }
+      ],
+      "duration_ms": 150941,
+      "name": "Willow Witchin' (Hot Take)",
+      "url": "https://open.spotify.com/track/6QaEUzzNtspNmCAdG4OUb6"
     },
     {
       "added_at": "2022-08-18 11:24:10",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-08-18 11:24:10",
       "album": {
-        "name": "Modern Country",
-        "url": "https://open.spotify.com/album/64esKG7wBOEr573Zp77cUT"
-      },
-      "artists": [
-        {
-          "name": "William Tyler",
-          "url": "https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py"
-        }
-      ],
-      "duration_ms": 367570,
-      "name": "Gone Clear",
-      "url": "https://open.spotify.com/track/7LlduV4mdMfYtzSpbal1yg"
-    },
-    {
-      "added_at": "2022-08-18 11:24:10",
-      "album": {
         "name": "Shake It for Me",
         "url": "https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av"
       },
@@ -595,22 +579,6 @@
       "duration_ms": 222199,
       "name": "Shake It for Me",
       "url": "https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU"
-    },
-    {
-      "added_at": "2022-08-18 11:24:10",
-      "album": {
-        "name": "A Place at the Table (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4xrTVoyCakeF37VsnaLMQP"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars & T Bone Burnett",
-          "url": "https://open.spotify.com/artist/1H4NiejcEF0JfHRyLXtdME"
-        }
-      ],
-      "duration_ms": 141066,
-      "name": "Focus (Rosie's Theme)",
-      "url": "https://open.spotify.com/track/3MRN6jyUxfffTdOEaHwDOE"
     },
     {
       "added_at": "2022-08-18 11:24:10",
@@ -631,6 +599,38 @@
     {
       "added_at": "2022-08-18 11:24:10",
       "album": {
+        "name": "Modern Country",
+        "url": "https://open.spotify.com/album/64esKG7wBOEr573Zp77cUT"
+      },
+      "artists": [
+        {
+          "name": "William Tyler",
+          "url": "https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py"
+        }
+      ],
+      "duration_ms": 367570,
+      "name": "Gone Clear",
+      "url": "https://open.spotify.com/track/7LlduV4mdMfYtzSpbal1yg"
+    },
+    {
+      "added_at": "2022-08-18 11:24:10",
+      "album": {
+        "name": "A Place at the Table (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4xrTVoyCakeF37VsnaLMQP"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars & T Bone Burnett",
+          "url": "https://open.spotify.com/artist/1H4NiejcEF0JfHRyLXtdME"
+        }
+      ],
+      "duration_ms": 141066,
+      "name": "Focus (Rosie's Theme)",
+      "url": "https://open.spotify.com/track/3MRN6jyUxfffTdOEaHwDOE"
+    },
+    {
+      "added_at": "2022-08-18 11:24:10",
+      "album": {
         "name": "Presenting Blind Willie McTell",
         "url": "https://open.spotify.com/album/3CwFKuklZs4BJKkwqIR46z"
       },
@@ -643,22 +643,6 @@
       "duration_ms": 152853,
       "name": "Statesboro Blues",
       "url": "https://open.spotify.com/track/2T3YfMI0xRk93bmVMuJcKu"
-    },
-    {
-      "added_at": "2022-08-18 11:24:10",
-      "album": {
-        "name": "Blue River Rising",
-        "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
-      },
-      "artists": [
-        {
-          "name": "Michael van Merwyk",
-          "url": "https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF"
-        }
-      ],
-      "duration_ms": 152106,
-      "name": "Lonely Days",
-      "url": "https://open.spotify.com/track/0PtXPKTg2CWsWSNit3zXS5"
     },
     {
       "added_at": "2022-08-18 11:24:10",
@@ -691,6 +675,22 @@
       "duration_ms": 209400,
       "name": "Shake Sugaree",
       "url": "https://open.spotify.com/track/2oYPKt6eHzJwI9AaILvYl2"
+    },
+    {
+      "added_at": "2022-08-18 11:24:10",
+      "album": {
+        "name": "Blue River Rising",
+        "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
+      },
+      "artists": [
+        {
+          "name": "Michael van Merwyk",
+          "url": "https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF"
+        }
+      ],
+      "duration_ms": 152106,
+      "name": "Lonely Days",
+      "url": "https://open.spotify.com/track/0PtXPKTg2CWsWSNit3zXS5"
     },
     {
       "added_at": "2022-08-18 11:24:10",
@@ -811,18 +811,18 @@
     {
       "added_at": "2022-08-18 11:24:10",
       "album": {
-        "name": "Orange County Serenade",
-        "url": "https://open.spotify.com/album/5MX3706iqptzAKSur97vbT"
+        "name": "Imaginational Anthem",
+        "url": "https://open.spotify.com/album/0Aht6TMCyVgToFJGKR22VO"
       },
       "artists": [
         {
-          "name": "Daniel Bachman",
-          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
+          "name": "Kaki King",
+          "url": "https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/1FyHEp3lOHlnSbZkENr2mq"
+      "duration_ms": 214786,
+      "name": "Night After Sidewalk",
+      "url": "https://open.spotify.com/track/6aEKWnhMVr2rdaqSdNha6U"
     }
   ],
   "unique_name": "Backporch Blues",

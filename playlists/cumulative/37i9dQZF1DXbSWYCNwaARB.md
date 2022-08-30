@@ -2,9 +2,9 @@
 
 ### [Girl Krush](https://open.spotify.com/playlist/37i9dQZF1DXbSWYCNwaARB)
 
-> All your girl crushes\(걸크러쉬\) in one place\. Cover: KWON EUN BI \(권은비\)
+> All your girl crushes\(걸크러쉬\) in one place\. Cover: Honey J \(허니제이\)
 
-315 songs - 17 hr 4 min - [published](https://open.spotify.com/playlist/1NPspPN8vwoPb2Vd2JfxrK)
+316 songs - 17 hr 6 min - [published](https://open.spotify.com/playlist/1NPspPN8vwoPb2Vd2JfxrK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Hocus Pocus](https://open.spotify.com/track/4X0kjAmFgu6zX5Uwl4lnwa) | [BVNDIT](https://open.spotify.com/artist/5dEBuZjTtE68uDgCs23Kuv) | [BVNDIT, BE AMBITIOUS!](https://open.spotify.com/album/1HAL8eTzvFRxaMGjYybRG5) | 3:27 | 2021-03-01 | 2022-04-13 |
 | [HOME](https://open.spotify.com/track/7KrThgzyyulBjY9vEbqceh) | [YEZI](https://open.spotify.com/artist/6LPOT9C3gvGQHxlZtMLHHg) | [HOME](https://open.spotify.com/album/3npgimYVYM64IDAiLytb2l) | 3:16 | 2021-01-16 | 2022-05-07 |
 | [HONEY](https://open.spotify.com/track/7JDiC68AKimlvMCmZQuA9n) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [容 : FACE](https://open.spotify.com/album/6eSFX12WIqUtmGsD8UO3FT) | 2:47 | 2022-03-16 | 2022-07-28 |
+| [Honey Drop \(Feat\. Lil Cherry\)](https://open.spotify.com/track/6oDLaTN3k2g8n74Cyup2FO) | [Honey J](https://open.spotify.com/artist/7GLNucMzWyvNW8FAabALKi), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [Honey Drop](https://open.spotify.com/album/5kdXxKUQ3VaGOPEU8C3Hb5) | 2:38 | 2022-08-29 |  |
 | [How You Like That](https://open.spotify.com/track/3vAn0qZzdyuHamcrpkfiX3) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [How You Like That](https://open.spotify.com/album/19LMUlWN7xU2NW80pZSeuH) | 3:01 | 2020-10-13\* | 2022-05-21 |
 | [How You Like That](https://open.spotify.com/track/4SFknyjLcyTLJFPKD2m96o) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:02 | 2022-07-25 |  |
 | [HWAA](https://open.spotify.com/track/5FiXhM80sP4yg6tEnHkZZn) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I burn](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) | 3:17 | 2021-01-18 | 2022-07-29 |
@@ -163,7 +164,7 @@
 | [Lazy day 게으른 하루](https://open.spotify.com/track/0Xoq73JrzDbjyu4KtOHmUv) | [Tymee](https://open.spotify.com/artist/5Gak8iUhMTqCXFtfP86jug) | [Lazy day 게으른 하루](https://open.spotify.com/album/08WG8s70uvIKaUMpFL3fiV) | 3:45 | 2020-10-13\* | 2022-04-21 |
 | [Let Me Know](https://open.spotify.com/track/50Vcv9VMLMujdoax9yqksy) | [PIXY](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) | [Fairy forest : Bravery](https://open.spotify.com/album/4W3aVIWMoOWqtslubCeeUA) | 3:42 | 2021-11-12 | 2022-04-18 |
 | [LIE 또 LIE](https://open.spotify.com/track/2DfvzJVYKGkVivy7daH4P8) | [FAVORITE](https://open.spotify.com/artist/3o0wQ9s18mlYobc9ZqOs8i) | [LIE 또 LIE](https://open.spotify.com/album/6VGpIcK1i8QIiwNpnRy8Iu) | 3:30 | 2021-03-11 | 2022-04-20 |
-| [LIGHT KPOP CTzen \(Original Soundtrack\)](https://open.spotify.com/track/3CTJWAJWLBorkucMrZPfl1) | [KWON EUN BI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [KPOP CTzen \(Original Soundtrack\)](https://open.spotify.com/album/04FgEHE61flLSN6VbOs3a5) | 3:42 | 2022-08-18 |  |
+| [LIGHT KPOP CTzen \(Original Soundtrack\)](https://open.spotify.com/track/3CTJWAJWLBorkucMrZPfl1) | [KWON EUN BI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [KPOP CTzen \(Original Soundtrack\)](https://open.spotify.com/album/04FgEHE61flLSN6VbOs3a5) | 3:42 | 2022-08-18 | 2022-08-30 |
 | [LIKE IT](https://open.spotify.com/track/79nTeC32Z1euThOZ9uzkYx) | [Chic Angel](https://open.spotify.com/artist/1jb6ngRlyfpOiQkBMCFz9n) | [LIKE IT](https://open.spotify.com/album/2ygRg32Y8KtmTgyx4Q930M) | 3:16 | 2021-01-17 | 2022-07-21 |
 | [Like It Hot](https://open.spotify.com/track/0sZ0QRe8BFNPOJ2k80adu1) | [GWSN](https://open.spotify.com/artist/5fI4xffqGRGQvICSlJreMF) | [THE OTHER SIDE OF THE MOON](https://open.spotify.com/album/4W9vkO9c1K2oVvLTNsjWv7) | 3:22 | 2021-10-10 | 2022-04-19 |
 | [LION](https://open.spotify.com/track/4TArUx34wOehwpnbXlKBQY) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Queendom < FINAL Comeback >](https://open.spotify.com/album/1x2QsojG3m0e0jkLzP1rGr) | 3:30 | 2021-01-15 | 2022-07-28 |

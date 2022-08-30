@@ -1,12 +1,12 @@
 {
   "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: Nahee(\ub098\ud788)) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 27313,
+  "num_followers": 27427,
   "original_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMyOTMyNywwMDAwMDAwMDg2YTNiNWY1NjRlNjU1ZGFkY2RiZGFjNGY2ZjIzOGVk",
+  "snapshot_id": "MTY2MDMyOTMyNywwMDAwMDAwMGZjNDkxOTlmMWU4ZTVhMGE2ODgwODQzNjVlOTI2Nzlm",
   "tracks": [
     {
       "added_at": "2022-08-12 18:35:27",
@@ -307,22 +307,6 @@
     {
       "added_at": "2022-08-12 18:35:27",
       "album": {
-        "name": "MORE & MORE",
-        "url": "https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 191986,
-      "name": "SWEET SUMMER DAY",
-      "url": "https://open.spotify.com/track/6UrML9LyuaBWgZV3nFLLGl"
-    },
-    {
-      "added_at": "2022-08-12 18:35:27",
-      "album": {
         "name": "\uce74\ub77c(KARA) 6th Mini Album [Day&Night]",
         "url": "https://open.spotify.com/album/3emUMd2AU3S4jF5ryo3CKr"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 212950,
       "name": "Mamma Mia",
       "url": "https://open.spotify.com/track/1jbHCJ8EtvoKfMMYy3bAlN"
+    },
+    {
+      "added_at": "2022-08-12 18:35:27",
+      "album": {
+        "name": "Love & Evil",
+        "url": "https://open.spotify.com/album/2o19HGYWURILfZ9BSNw4ue"
+      },
+      "artists": [
+        {
+          "name": "LOO\u03a0\u0394 1/3",
+          "url": "https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy"
+        }
+      ],
+      "duration_ms": 187703,
+      "name": "You and Me Together",
+      "url": "https://open.spotify.com/track/5K8aKuDFrWIHyNiPH1slWv"
     },
     {
       "added_at": "2022-08-12 18:35:27",
@@ -355,18 +355,18 @@
     {
       "added_at": "2022-08-12 18:35:27",
       "album": {
-        "name": "Seoul Check-in OST Part 5",
-        "url": "https://open.spotify.com/album/2deDzuHfGo5kH9tKBvm8jD"
+        "name": "MORE & MORE",
+        "url": "https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv"
       },
       "artists": [
         {
-          "name": "Seori",
-          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
         }
       ],
-      "duration_ms": 200460,
-      "name": "Beautiful Night",
-      "url": "https://open.spotify.com/track/6w5I5eJCuNSNa3FdEq4sfs"
+      "duration_ms": 191986,
+      "name": "SWEET SUMMER DAY",
+      "url": "https://open.spotify.com/track/6UrML9LyuaBWgZV3nFLLGl"
     },
     {
       "added_at": "2022-08-12 18:35:27",
@@ -387,18 +387,18 @@
     {
       "added_at": "2022-08-12 18:35:27",
       "album": {
-        "name": "Love & Evil",
-        "url": "https://open.spotify.com/album/2o19HGYWURILfZ9BSNw4ue"
+        "name": "Seoul Check-in OST Part 5",
+        "url": "https://open.spotify.com/album/2deDzuHfGo5kH9tKBvm8jD"
       },
       "artists": [
         {
-          "name": "LOO\u03a0\u0394 1/3",
-          "url": "https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy"
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
         }
       ],
-      "duration_ms": 187703,
-      "name": "You and Me Together",
-      "url": "https://open.spotify.com/track/5K8aKuDFrWIHyNiPH1slWv"
+      "duration_ms": 200460,
+      "name": "Beautiful Night",
+      "url": "https://open.spotify.com/track/6w5I5eJCuNSNa3FdEq4sfs"
     },
     {
       "added_at": "2022-08-12 18:35:27",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-08-12 18:35:27",
       "album": {
-        "name": "SOUL LADY",
-        "url": "https://open.spotify.com/album/5rsgGy09HIAwtIy5oF5MhF"
-      },
-      "artists": [
-        {
-          "name": "YUKIKA",
-          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
-        }
-      ],
-      "duration_ms": 215693,
-      "name": "SOUL LADY",
-      "url": "https://open.spotify.com/track/6at6MpTibyLqAYnBee95Ev"
-    },
-    {
-      "added_at": "2022-08-12 18:35:27",
-      "album": {
         "name": "\u90fd\u5e02\u5973\u5b50",
         "url": "https://open.spotify.com/album/3HOdnNDpkFdzt3TamAUm9m"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 213480,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/6UNRjSjhTNTu4b8fNEhDya"
+    },
+    {
+      "added_at": "2022-08-12 18:35:27",
+      "album": {
+        "name": "SOUL LADY",
+        "url": "https://open.spotify.com/album/5rsgGy09HIAwtIy5oF5MhF"
+      },
+      "artists": [
+        {
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+        }
+      ],
+      "duration_ms": 215693,
+      "name": "SOUL LADY",
+      "url": "https://open.spotify.com/track/6at6MpTibyLqAYnBee95Ev"
     },
     {
       "added_at": "2022-08-12 18:35:27",
@@ -603,38 +603,6 @@
       "duration_ms": 223006,
       "name": "These Nights",
       "url": "https://open.spotify.com/track/2n0oy8RGDpy6WGcLImTteI"
-    },
-    {
-      "added_at": "2022-08-12 18:35:27",
-      "album": {
-        "name": "SOUL LADY",
-        "url": "https://open.spotify.com/album/5rsgGy09HIAwtIy5oF5MhF"
-      },
-      "artists": [
-        {
-          "name": "YUKIKA",
-          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
-        }
-      ],
-      "duration_ms": 146373,
-      "name": "NEON 1989",
-      "url": "https://open.spotify.com/track/1Uc1gpLGKiW2OyM7SF9WLW"
-    },
-    {
-      "added_at": "2022-08-12 18:35:27",
-      "album": {
-        "name": "Elastic Love",
-        "url": "https://open.spotify.com/album/5SCdzFlU1PZvvWjQiKmDOC"
-      },
-      "artists": [
-        {
-          "name": "Choi HEART",
-          "url": "https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m"
-        }
-      ],
-      "duration_ms": 218880,
-      "name": "Elastic Love",
-      "url": "https://open.spotify.com/track/1M1ra01EyWZXFP1hdvvcPJ"
     },
     {
       "added_at": "2022-08-12 18:35:27",
@@ -691,6 +659,38 @@
     {
       "added_at": "2022-08-12 18:35:27",
       "album": {
+        "name": "SOUL LADY",
+        "url": "https://open.spotify.com/album/5rsgGy09HIAwtIy5oF5MhF"
+      },
+      "artists": [
+        {
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+        }
+      ],
+      "duration_ms": 146373,
+      "name": "NEON 1989",
+      "url": "https://open.spotify.com/track/1Uc1gpLGKiW2OyM7SF9WLW"
+    },
+    {
+      "added_at": "2022-08-12 18:35:27",
+      "album": {
+        "name": "Elastic Love",
+        "url": "https://open.spotify.com/album/5SCdzFlU1PZvvWjQiKmDOC"
+      },
+      "artists": [
+        {
+          "name": "Choi HEART",
+          "url": "https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m"
+        }
+      ],
+      "duration_ms": 218880,
+      "name": "Elastic Love",
+      "url": "https://open.spotify.com/track/1M1ra01EyWZXFP1hdvvcPJ"
+    },
+    {
+      "added_at": "2022-08-12 18:35:27",
+      "album": {
         "name": "REBOOT",
         "url": "https://open.spotify.com/album/6uZUsBaw4hH7TPa60A1W3a"
       },
@@ -739,7 +739,7 @@
     {
       "added_at": "2022-08-12 18:35:27",
       "album": {
-        "name": "Naturalness",
+        "name": "The 9th Mini Album 'Naturalness'",
         "url": "https://open.spotify.com/album/7ajKOgmGaCCrqSVIgxbnNf"
       },
       "artists": [
@@ -749,7 +749,7 @@
         }
       ],
       "duration_ms": 200767,
-      "name": "Someone Like U",
+      "name": "Someone like U",
       "url": "https://open.spotify.com/track/5zbxw72g850H4fNMFEO7PC"
     },
     {
@@ -767,22 +767,6 @@
       "duration_ms": 210042,
       "name": "All Night",
       "url": "https://open.spotify.com/track/2YtNFUkfxnYtg6ts8zfq93"
-    },
-    {
-      "added_at": "2022-08-12 18:35:27",
-      "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/7vZ0v0ZUX9KSCdZgCrtovy"
-      },
-      "artists": [
-        {
-          "name": "EXID",
-          "url": "https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O"
-        }
-      ],
-      "duration_ms": 198414,
-      "name": "Night Rather Than Day",
-      "url": "https://open.spotify.com/track/3ekdsWPG0ZtVrvEUPe2Djv"
     },
     {
       "added_at": "2022-08-12 18:35:27",
@@ -807,6 +791,22 @@
       "duration_ms": 250951,
       "name": "After a long time(Digging Club Seoul Ver.)",
       "url": "https://open.spotify.com/track/3Kb84HFyDf5YRCt3GbbywY"
+    },
+    {
+      "added_at": "2022-08-12 18:35:27",
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/7vZ0v0ZUX9KSCdZgCrtovy"
+      },
+      "artists": [
+        {
+          "name": "EXID",
+          "url": "https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O"
+        }
+      ],
+      "duration_ms": 198414,
+      "name": "Night Rather Than Day",
+      "url": "https://open.spotify.com/track/3ekdsWPG0ZtVrvEUPe2Djv"
     },
     {
       "added_at": "2022-08-12 18:35:27",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-08-12 18:35:27",
       "album": {
-        "name": "WJ STAY?",
-        "url": "https://open.spotify.com/album/0ty0TBeM5B8HU6hzOdjz4f"
-      },
-      "artists": [
-        {
-          "name": "WJSN",
-          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
-        }
-      ],
-      "duration_ms": 214847,
-      "name": "You Got",
-      "url": "https://open.spotify.com/track/4RCstQ4YjgYnjGEu0X2BxP"
-    },
-    {
-      "added_at": "2022-08-12 18:35:27",
-      "album": {
         "name": "Pink Tape - The 2nd Album",
         "url": "https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z"
       },
@@ -1015,6 +999,22 @@
     {
       "added_at": "2022-08-12 18:35:27",
       "album": {
+        "name": "WJ STAY?",
+        "url": "https://open.spotify.com/album/0ty0TBeM5B8HU6hzOdjz4f"
+      },
+      "artists": [
+        {
+          "name": "WJSN",
+          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
+        }
+      ],
+      "duration_ms": 214847,
+      "name": "You Got",
+      "url": "https://open.spotify.com/track/4RCstQ4YjgYnjGEu0X2BxP"
+    },
+    {
+      "added_at": "2022-08-12 18:35:27",
+      "album": {
         "name": "Beautiful Night - The 4th Mini Album",
         "url": "https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T"
       },
@@ -1027,6 +1027,54 @@
       "duration_ms": 219240,
       "name": "Beautiful Night",
       "url": "https://open.spotify.com/track/0AIrMQasS9IuMi517vgrUs"
+    },
+    {
+      "added_at": "2022-08-12 18:35:27",
+      "album": {
+        "name": "\ube5b\uacfc \uc18c\uae08",
+        "url": "https://open.spotify.com/album/43StLW2LdY30M1GIf7xSh7"
+      },
+      "artists": [
+        {
+          "name": "Light & Salt",
+          "url": "https://open.spotify.com/artist/0jhgI3xU8n2o1W6EOw9dIf"
+        }
+      ],
+      "duration_ms": 227369,
+      "name": "\uc0f4\ud478\uc758 \uc694\uc815",
+      "url": "https://open.spotify.com/track/6V9C5rcCQkf3eJSmcAkCf4"
+    },
+    {
+      "added_at": "2022-08-12 18:35:27",
+      "album": {
+        "name": "& New",
+        "url": "https://open.spotify.com/album/1p8YgPgFCXInpT5uM4PZoi"
+      },
+      "artists": [
+        {
+          "name": "Eyedi",
+          "url": "https://open.spotify.com/artist/48BSHaU3lXnM3pYHyeqLXN"
+        }
+      ],
+      "duration_ms": 248078,
+      "name": "& New",
+      "url": "https://open.spotify.com/track/49U6ijIBwe6XZ2d2H7VDDe"
+    },
+    {
+      "added_at": "2022-08-12 18:35:27",
+      "album": {
+        "name": "Sunday Seoul Ep.1",
+        "url": "https://open.spotify.com/album/6ZW5WYi1P6odIEMJDH4xBC"
+      },
+      "artists": [
+        {
+          "name": "uju",
+          "url": "https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92"
+        }
+      ],
+      "duration_ms": 190363,
+      "name": "Give Me The Light",
+      "url": "https://open.spotify.com/track/63K56gwJ3ALMJsIwiOq4CF"
     },
     {
       "added_at": "2022-08-12 18:35:27",
@@ -1051,22 +1099,6 @@
     {
       "added_at": "2022-08-12 18:35:27",
       "album": {
-        "name": "& New",
-        "url": "https://open.spotify.com/album/1p8YgPgFCXInpT5uM4PZoi"
-      },
-      "artists": [
-        {
-          "name": "Eyedi",
-          "url": "https://open.spotify.com/artist/48BSHaU3lXnM3pYHyeqLXN"
-        }
-      ],
-      "duration_ms": 248078,
-      "name": "& New",
-      "url": "https://open.spotify.com/track/49U6ijIBwe6XZ2d2H7VDDe"
-    },
-    {
-      "added_at": "2022-08-12 18:35:27",
-      "album": {
         "name": "\u2018The ReVe Festival\u2019 Day 2",
         "url": "https://open.spotify.com/album/3DXz6ItR9DzIw9S0h3Cxfc"
       },
@@ -1079,22 +1111,6 @@
       "duration_ms": 236746,
       "name": "Ladies Night",
       "url": "https://open.spotify.com/track/73pkNaWK4N5QfkjabwW40s"
-    },
-    {
-      "added_at": "2022-08-12 18:35:27",
-      "album": {
-        "name": "\ube5b\uacfc \uc18c\uae08",
-        "url": "https://open.spotify.com/album/43StLW2LdY30M1GIf7xSh7"
-      },
-      "artists": [
-        {
-          "name": "Light & Salt",
-          "url": "https://open.spotify.com/artist/0jhgI3xU8n2o1W6EOw9dIf"
-        }
-      ],
-      "duration_ms": 227369,
-      "name": "\uc0f4\ud478\uc758 \uc694\uc815",
-      "url": "https://open.spotify.com/track/6V9C5rcCQkf3eJSmcAkCf4"
     },
     {
       "added_at": "2022-08-12 18:35:27",
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2022-08-12 18:35:27",
       "album": {
-        "name": "Sunday Seoul Ep.1",
-        "url": "https://open.spotify.com/album/6ZW5WYi1P6odIEMJDH4xBC"
-      },
-      "artists": [
-        {
-          "name": "uju",
-          "url": "https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92"
-        }
-      ],
-      "duration_ms": 190363,
-      "name": "Give Me The Light",
-      "url": "https://open.spotify.com/track/63K56gwJ3ALMJsIwiOq4CF"
-    },
-    {
-      "added_at": "2022-08-12 18:35:27",
-      "album": {
         "name": "Ending",
         "url": "https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD"
       },
@@ -1143,6 +1143,22 @@
       "duration_ms": 226453,
       "name": "A day of weather",
       "url": "https://open.spotify.com/track/21hBj9FtDyTISSXrTuApaw"
+    },
+    {
+      "added_at": "2022-08-12 18:35:27",
+      "album": {
+        "name": "Onstage Digging Club Seoul Part.03",
+        "url": "https://open.spotify.com/album/1fXC4LbehObaNhUu48huCC"
+      },
+      "artists": [
+        {
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "It's Beautiful",
+      "url": "https://open.spotify.com/track/1ylAph6SIdV5Q5SQUWf8dX"
     },
     {
       "added_at": "2022-08-12 18:35:27",
@@ -1163,22 +1179,6 @@
       "duration_ms": 235293,
       "name": "A song from the past",
       "url": "https://open.spotify.com/track/1EPUAXzisSkCcUTEU94cch"
-    },
-    {
-      "added_at": "2022-08-12 18:35:27",
-      "album": {
-        "name": "Onstage Digging Club Seoul Part.03",
-        "url": "https://open.spotify.com/album/1fXC4LbehObaNhUu48huCC"
-      },
-      "artists": [
-        {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "It's Beautiful",
-      "url": "https://open.spotify.com/track/1ylAph6SIdV5Q5SQUWf8dX"
     },
     {
       "added_at": "2022-08-12 18:35:27",
@@ -1231,38 +1231,6 @@
     {
       "added_at": "2022-08-12 18:35:27",
       "album": {
-        "name": "Onstage Digging Club Seoul THEME 01",
-        "url": "https://open.spotify.com/album/45jJuM9HOtrpzx1k3p1bGd"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 252798,
-      "name": "Suddenly - Digging Club Seoul Version",
-      "url": "https://open.spotify.com/track/7Iae3TKL6i9q1U3I7mS372"
-    },
-    {
-      "added_at": "2022-08-12 18:35:27",
-      "album": {
-        "name": "REBOOT",
-        "url": "https://open.spotify.com/album/6uZUsBaw4hH7TPa60A1W3a"
-      },
-      "artists": [
-        {
-          "name": "Wonder Girls",
-          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
-        }
-      ],
-      "duration_ms": 233306,
-      "name": "\uc0ac\ub791\uc774 \ub5a0\ub098\ub824 \ud560 \ub54c Faded Love",
-      "url": "https://open.spotify.com/track/6c1PYAfNfZ6rWUwFNciOMw"
-    },
-    {
-      "added_at": "2022-08-12 18:35:27",
-      "album": {
         "name": "\uac15\uc218\uc9c0 BEST ALBUM",
         "url": "https://open.spotify.com/album/1cNgGqmtg1009Ij9opel30"
       },
@@ -1279,6 +1247,22 @@
     {
       "added_at": "2022-08-12 18:35:27",
       "album": {
+        "name": "Onstage Digging Club Seoul THEME 01",
+        "url": "https://open.spotify.com/album/45jJuM9HOtrpzx1k3p1bGd"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 252798,
+      "name": "Suddenly - Digging Club Seoul Version",
+      "url": "https://open.spotify.com/track/7Iae3TKL6i9q1U3I7mS372"
+    },
+    {
+      "added_at": "2022-08-12 18:35:27",
+      "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/4Kek3o8zZRFpaNXyIMwJWp"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 210136,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/6dCukzSNFujNeSHe8KnKnV"
+    },
+    {
+      "added_at": "2022-08-12 18:35:27",
+      "album": {
+        "name": "REBOOT",
+        "url": "https://open.spotify.com/album/6uZUsBaw4hH7TPa60A1W3a"
+      },
+      "artists": [
+        {
+          "name": "Wonder Girls",
+          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
+        }
+      ],
+      "duration_ms": 233306,
+      "name": "\uc0ac\ub791\uc774 \ub5a0\ub098\ub824 \ud560 \ub54c Faded Love",
+      "url": "https://open.spotify.com/track/6c1PYAfNfZ6rWUwFNciOMw"
     },
     {
       "added_at": "2022-08-12 18:35:27",
@@ -1363,34 +1363,18 @@
     {
       "added_at": "2022-08-12 18:35:27",
       "album": {
-        "name": "Weki Meki 3rd Mini Album [HIDE and SEEK]",
-        "url": "https://open.spotify.com/album/6Y01uMzamISHuBPyhSiDZ3"
+        "name": "Cherry Blossom",
+        "url": "https://open.spotify.com/album/6OLVSFzXGaiehp5qMHSa1E"
       },
       "artists": [
         {
-          "name": "Weki Meki",
-          "url": "https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx"
+          "name": "Rainbow note",
+          "url": "https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17"
         }
       ],
-      "duration_ms": 176333,
-      "name": "The Paradise",
-      "url": "https://open.spotify.com/track/3fh3F3FSb9PBnVSurLpoGa"
-    },
-    {
-      "added_at": "2022-08-12 18:35:27",
-      "album": {
-        "name": "GFRIEND The 7th Mini Album `FEVER SEASON`",
-        "url": "https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR"
-      },
-      "artists": [
-        {
-          "name": "GFRIEND",
-          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/6SI48qGuImxXM3RuxQoAzT"
+      "duration_ms": 219666,
+      "name": "Cherry Blossom",
+      "url": "https://open.spotify.com/track/60LIER0taABmwhdgi5a5Jc"
     },
     {
       "added_at": "2022-08-12 18:35:27",
@@ -1411,18 +1395,34 @@
     {
       "added_at": "2022-08-12 18:35:27",
       "album": {
-        "name": "Cherry Blossom",
-        "url": "https://open.spotify.com/album/6OLVSFzXGaiehp5qMHSa1E"
+        "name": "GFRIEND The 7th Mini Album `FEVER SEASON`",
+        "url": "https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR"
       },
       "artists": [
         {
-          "name": "Rainbow note",
-          "url": "https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17"
+          "name": "GFRIEND",
+          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
         }
       ],
-      "duration_ms": 219666,
-      "name": "Cherry Blossom",
-      "url": "https://open.spotify.com/track/60LIER0taABmwhdgi5a5Jc"
+      "duration_ms": 208000,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/6SI48qGuImxXM3RuxQoAzT"
+    },
+    {
+      "added_at": "2022-08-12 18:35:27",
+      "album": {
+        "name": "Weki Meki 3rd Mini Album [HIDE and SEEK]",
+        "url": "https://open.spotify.com/album/6Y01uMzamISHuBPyhSiDZ3"
+      },
+      "artists": [
+        {
+          "name": "Weki Meki",
+          "url": "https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx"
+        }
+      ],
+      "duration_ms": 176333,
+      "name": "The Paradise",
+      "url": "https://open.spotify.com/track/3fh3F3FSb9PBnVSurLpoGa"
     },
     {
       "added_at": "2022-08-12 18:35:27",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2022-08-12 18:35:27",
       "album": {
+        "name": "#TUSM",
+        "url": "https://open.spotify.com/album/60CuCZCEUJ8wQQCpAR9lf3"
+      },
+      "artists": [
+        {
+          "name": "Yubin",
+          "url": "https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE"
+        }
+      ],
+      "duration_ms": 191587,
+      "name": "\ubcf4\ub0b4\uc904\uac8c Let You Go",
+      "url": "https://open.spotify.com/track/0SF7fd1Qb3L9K8K2HVIvrI"
+    },
+    {
+      "added_at": "2022-08-12 18:35:27",
+      "album": {
         "name": "New Wave City",
         "url": "https://open.spotify.com/album/7axvOyqRDBKkk2sc3CPRMV"
       },
@@ -1479,22 +1495,6 @@
     {
       "added_at": "2022-08-12 18:35:27",
       "album": {
-        "name": "#TUSM",
-        "url": "https://open.spotify.com/album/60CuCZCEUJ8wQQCpAR9lf3"
-      },
-      "artists": [
-        {
-          "name": "Yubin",
-          "url": "https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE"
-        }
-      ],
-      "duration_ms": 191587,
-      "name": "\ubcf4\ub0b4\uc904\uac8c Let You Go",
-      "url": "https://open.spotify.com/track/0SF7fd1Qb3L9K8K2HVIvrI"
-    },
-    {
-      "added_at": "2022-08-12 18:35:27",
-      "album": {
         "name": "THE PARK IN THE NIGHT part three",
         "url": "https://open.spotify.com/album/00YQEfKRNuz3GNQLUSX3Ut"
       },
@@ -1511,18 +1511,22 @@
     {
       "added_at": "2022-08-12 18:35:27",
       "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/08HS95j5F5FTAVBBFXZ603"
+        "name": "When My Loneliness Calls You (From The Original TV Show \"Live On\")",
+        "url": "https://open.spotify.com/album/1UjN6iS3t6X7TiBpZynE2l"
       },
       "artists": [
         {
-          "name": "Kim Areum",
-          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+        },
+        {
+          "name": "Bronze",
+          "url": "https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7"
         }
       ],
-      "duration_ms": 234856,
-      "name": "Line",
-      "url": "https://open.spotify.com/track/5nzNROKcMSGmtTsVHIg5tc"
+      "duration_ms": 257031,
+      "name": "When My Loneliness Calls You",
+      "url": "https://open.spotify.com/track/61fkpzyUvPX7PMz9PnuHTF"
     },
     {
       "added_at": "2022-08-12 18:35:27",
@@ -1559,22 +1563,18 @@
     {
       "added_at": "2022-08-12 18:35:27",
       "album": {
-        "name": "When My Loneliness Calls You (From The Original TV Show \"Live On\")",
-        "url": "https://open.spotify.com/album/1UjN6iS3t6X7TiBpZynE2l"
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/08HS95j5F5FTAVBBFXZ603"
       },
       "artists": [
         {
-          "name": "Hoody",
-          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
-        },
-        {
-          "name": "Bronze",
-          "url": "https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7"
+          "name": "Kim Areum",
+          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
         }
       ],
-      "duration_ms": 257031,
-      "name": "When My Loneliness Calls You",
-      "url": "https://open.spotify.com/track/61fkpzyUvPX7PMz9PnuHTF"
+      "duration_ms": 234856,
+      "name": "Line",
+      "url": "https://open.spotify.com/track/5nzNROKcMSGmtTsVHIg5tc"
     },
     {
       "added_at": "2022-08-12 18:35:27",

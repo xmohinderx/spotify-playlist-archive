@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 ### [Chilled R&B](https://open.spotify.com/playlist/37i9dQZF1DX2UgsUIg75Vg)
 
-> Chilled R&B jams for your most relaxed moods\. Cover: Thee Sacred Souls
+> Chilled R&B jams for your most relaxed moods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,264,241 likes - 84 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,264,143 likes - 84 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 83 | [Unloyal \(with Ari Lennox\)](https://open.spotify.com/track/081Shn2hU3YxvQmGaCPegr) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:27 |
 | 84 | [Love Again](https://open.spotify.com/track/3pxplvRVhnOXT7H7C4JkAH) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Love Again](https://open.spotify.com/album/2D2BkKNfNhLHnBAz6kNlVN) | 2:34 |
 
-Snapshot ID: `MTY2MTQ4NjY3MSwwMDAwMDAwMDU3YTYzNjE2M2UwMDgzYmI2OWQ1Zjk2M2U2ODkwNjRi`
+Snapshot ID: `MTY2MTc4NDI4MywwMDAwMDAwMDQ3MzlmOTRjMzc0YmZiZDQzY2JhYWVkMTBiZDMwMjBj`

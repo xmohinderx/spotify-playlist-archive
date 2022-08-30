@@ -4,7 +4,7 @@
 
 > The essential indie dance, featuring Little Dragon
 
-556 songs - 1 day 12 hr 3 min - [published](https://open.spotify.com/playlist/6jBSzkiPzz4z9EGB6tLdZW)
+557 songs - 1 day 12 hr 6 min - [published](https://open.spotify.com/playlist/6jBSzkiPzz4z9EGB6tLdZW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Corsica '80](https://open.spotify.com/track/29ciyzjusw1w1UL22GKS67) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O) | [Corsica '80](https://open.spotify.com/album/0TW4O57pYbKTXblJlctE1u) | 4:23 | 2021-08-27 | 2022-05-11 |
 | [Cracker Island \(feat\. Thundercat\)](https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Cracker Island \(feat\. Thundercat\)](https://open.spotify.com/album/3488fiYQcGSfkKKpr3ttCD) | 3:33 | 2022-06-24 |  |
 | [Cry Again](https://open.spotify.com/track/5LfYC98Zc9hsPTPzz9gltB) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i), [Gavriel](https://open.spotify.com/artist/53wGx0J5eu3GdlChMeO8RJ) | [Cry Again](https://open.spotify.com/album/1AnstNZSetOGm24TQA5GHB) | 3:02 | 2021-12-24 | 2022-02-10 |
-| [Dance When You Cry](https://open.spotify.com/track/67yOsRrqyxkSttB5y3dC6T) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Dance When You Cry](https://open.spotify.com/album/5SYrSxBRPN8VDdzDf2IshW) | 2:52 | 2022-05-20 |  |
+| [Dance When You Cry](https://open.spotify.com/track/67yOsRrqyxkSttB5y3dC6T) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Dance When You Cry](https://open.spotify.com/album/5SYrSxBRPN8VDdzDf2IshW) | 2:52 | 2022-05-20 | 2022-08-30 |
 | [Dark Rain](https://open.spotify.com/track/6nFeqs4DACn0ldbumEshsg) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Dark Rain](https://open.spotify.com/album/0qAXFwj59i4PcQyyYMiPP5) | 3:01 | 2021-10-22 | 2022-02-12 |
 | [De Tecidos](https://open.spotify.com/track/5VN37zj6J0yQfTLzKGyFsQ) | [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm) | [self\-care](https://open.spotify.com/album/3xTy5AFpBDL2qzWoZrNtgz) | 3:05 | 2021-08-20 | 2022-07-19 |
 | [Dhollandia](https://open.spotify.com/track/4PmAhw3ZnYGM6fWbsDoU8u) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Dhollandia / Circles](https://open.spotify.com/album/5NadYxqel92ecOc1gd3PDr) | 6:18 | 2021-09-03 | 2022-07-28 |
@@ -356,6 +356,7 @@
 | [Nova](https://open.spotify.com/track/7dYjEwbLJ1B5reoz3lWra0) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Nova / Moth](https://open.spotify.com/album/17nT2QOQmMPEETOsNDK1Bp) | 5:42 | 2022-02-11 |  |
 | [Ocean](https://open.spotify.com/track/1qOWl2foJb594pmyCtxOqK) | [Effemar](https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB) | [Ocean](https://open.spotify.com/album/4ugI62TomlTqbBQXVb4Zn8) | 3:40 | 2022-04-08 | 2022-05-19 |
 | [Off You](https://open.spotify.com/track/3b2pfV1sGo8ni5lhF6IQRM) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV), [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [Off You](https://open.spotify.com/album/2ZyTafX0z6gvqgf3nuVgJo) | 3:21 | 2021-08-06 | 2022-04-16 |
+| [Oh, Lover \- Edit](https://open.spotify.com/track/4WnASAjxOLAW4J4ZeAtKq3) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Oh, Lover](https://open.spotify.com/album/3gk7WjSt7KKF6SNezrQc4I) | 3:33 | 2022-08-19 |  |
 | [On My Mind \- Short Version](https://open.spotify.com/track/72f2k9lWpfT95o7KaWkj7Z) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [On My Mind / About U](https://open.spotify.com/album/556C4ye37wUq6bKWjR14vg) | 3:57 | 2021-08-06 | 2022-07-27 |
 | [On My Way](https://open.spotify.com/track/284dZP2uHiNlX2NitwREww) | [The Kount](https://open.spotify.com/artist/24OnVX6EYwtu7P3jpMenPY), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ) | [On My Way](https://open.spotify.com/album/62ei8HXiUIMF8QNG0AbZiT) | 2:41 | 2022-02-11 | 2022-07-19 |
 | [Only Love](https://open.spotify.com/track/21QJJMA4SjQ7qXfTVE7wlw) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [Only Love](https://open.spotify.com/album/0SJMPs8zuMPWZQfvypjpfE) | 4:45 | 2021-07-16 | 2022-07-26 |

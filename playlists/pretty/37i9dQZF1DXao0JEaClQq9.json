@@ -1,12 +1,12 @@
 {
   "description": "if it feels ethereal, it's here. cover: Montell Fish ",
-  "num_followers": 305680,
+  "num_followers": 305735,
   "original_name": "Ethereal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDU4MTY5OCwwMDAwMDAwMGQzZTkyMGNiODRiNDYyYzA3YjZlZTdmNzQ5MDIzOGIy",
+  "snapshot_id": "MTY2MDU4MTY5OCwwMDAwMDAwMDhmOGViMzc0NjZjNDcxNTFjNDY1NzBmZWI5YTkzNGVk",
   "tracks": [
     {
       "added_at": "2022-08-15 16:41:38",
@@ -455,6 +455,22 @@
     {
       "added_at": "2022-08-15 16:41:38",
       "album": {
+        "name": "Girl of My Dreams",
+        "url": "https://open.spotify.com/album/11rLG3oF7eWzP079JDQUg3"
+      },
+      "artists": [
+        {
+          "name": "Guti",
+          "url": "https://open.spotify.com/artist/6BYc2AlVqCvVqTpTvz792O"
+        }
+      ],
+      "duration_ms": 222981,
+      "name": "Girl of My Dreams",
+      "url": "https://open.spotify.com/track/5ERQFMCgW9JO5EWqwWGpmO"
+    },
+    {
+      "added_at": "2022-08-15 16:41:38",
+      "album": {
         "name": "Heaven or Las Vegas",
         "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
       },
@@ -523,38 +539,6 @@
     {
       "added_at": "2022-08-15 16:41:38",
       "album": {
-        "name": "JAMIE",
-        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 139805,
-      "name": "Talk 2 Me",
-      "url": "https://open.spotify.com/track/6pPLhloHxLWiMlAT5Xn1gw"
-    },
-    {
-      "added_at": "2022-08-15 16:41:38",
-      "album": {
-        "name": "Girl of My Dreams",
-        "url": "https://open.spotify.com/album/11rLG3oF7eWzP079JDQUg3"
-      },
-      "artists": [
-        {
-          "name": "Guti",
-          "url": "https://open.spotify.com/artist/6BYc2AlVqCvVqTpTvz792O"
-        }
-      ],
-      "duration_ms": 222981,
-      "name": "Girl of My Dreams",
-      "url": "https://open.spotify.com/track/5ERQFMCgW9JO5EWqwWGpmO"
-    },
-    {
-      "added_at": "2022-08-15 16:41:38",
-      "album": {
         "name": "A New Kind Of Love (Demo)",
         "url": "https://open.spotify.com/album/484SKRaXGq7m9VV0rmSyeb"
       },
@@ -595,6 +579,22 @@
     {
       "added_at": "2022-08-15 16:41:38",
       "album": {
+        "name": "JAMIE",
+        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 139805,
+      "name": "Talk 2 Me",
+      "url": "https://open.spotify.com/track/6pPLhloHxLWiMlAT5Xn1gw"
+    },
+    {
+      "added_at": "2022-08-15 16:41:38",
+      "album": {
         "name": "Modus Vivendi",
         "url": "https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU"
       },
@@ -607,22 +607,6 @@
       "duration_ms": 213333,
       "name": "Guilty Conscience",
       "url": "https://open.spotify.com/track/0smgkpVia3VCXgY4qhVJvp"
-    },
-    {
-      "added_at": "2022-08-15 16:41:38",
-      "album": {
-        "name": "Call U Tomorrow",
-        "url": "https://open.spotify.com/album/7pdP0BWJ8Faz6ZbWb3UCGc"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Call U Tomorrow",
-      "url": "https://open.spotify.com/track/1kPee0zC6xh3DT1mlG5a82"
     },
     {
       "added_at": "2022-08-15 16:41:38",
@@ -667,22 +651,6 @@
     {
       "added_at": "2022-08-15 16:41:38",
       "album": {
-        "name": "Ungodly Hour",
-        "url": "https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS"
-      },
-      "artists": [
-        {
-          "name": "Chloe x Halle",
-          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
-        }
-      ],
-      "duration_ms": 255893,
-      "name": "Ungodly Hour",
-      "url": "https://open.spotify.com/track/4SJRgLsuBKTEBEl9n6JsNu"
-    },
-    {
-      "added_at": "2022-08-15 16:41:38",
-      "album": {
         "name": "Killshot (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/4Ey0ngdLf4iXL84gdv0zjA"
       },
@@ -699,22 +667,34 @@
     {
       "added_at": "2022-08-15 16:41:38",
       "album": {
-        "name": "HYPNOS",
-        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
+        "name": "Ungodly Hour",
+        "url": "https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS"
       },
       "artists": [
         {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+          "name": "Chloe x Halle",
+          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
         }
       ],
-      "duration_ms": 227000,
-      "name": "Skin Tight (feat. Steve Lacy)",
-      "url": "https://open.spotify.com/track/4KVSdwwJ67JHu5s9vIA0zi"
+      "duration_ms": 255893,
+      "name": "Ungodly Hour",
+      "url": "https://open.spotify.com/track/4SJRgLsuBKTEBEl9n6JsNu"
+    },
+    {
+      "added_at": "2022-08-15 16:41:38",
+      "album": {
+        "name": "Heligoland",
+        "url": "https://open.spotify.com/album/1F8y2bg9V9nRoy8zuxo3Jt"
+      },
+      "artists": [
+        {
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+        }
+      ],
+      "duration_ms": 297774,
+      "name": "Paradise Circus",
+      "url": "https://open.spotify.com/track/2BndJYJQ17UcEeUFJP5JmY"
     },
     {
       "added_at": "2022-08-15 16:41:38",
@@ -743,18 +723,22 @@
     {
       "added_at": "2022-08-15 16:41:38",
       "album": {
-        "name": "Heligoland",
-        "url": "https://open.spotify.com/album/1F8y2bg9V9nRoy8zuxo3Jt"
+        "name": "HYPNOS",
+        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
       },
       "artists": [
         {
-          "name": "Massive Attack",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
         }
       ],
-      "duration_ms": 297774,
-      "name": "Paradise Circus",
-      "url": "https://open.spotify.com/track/2BndJYJQ17UcEeUFJP5JmY"
+      "duration_ms": 227000,
+      "name": "Skin Tight (feat. Steve Lacy)",
+      "url": "https://open.spotify.com/track/4KVSdwwJ67JHu5s9vIA0zi"
     },
     {
       "added_at": "2022-08-15 16:41:38",
@@ -775,6 +759,22 @@
     {
       "added_at": "2022-08-15 16:41:38",
       "album": {
+        "name": "Call U Tomorrow",
+        "url": "https://open.spotify.com/album/7pdP0BWJ8Faz6ZbWb3UCGc"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Call U Tomorrow",
+      "url": "https://open.spotify.com/track/1kPee0zC6xh3DT1mlG5a82"
+    },
+    {
+      "added_at": "2022-08-15 16:41:38",
+      "album": {
         "name": "Guilty Conscience (Tame Impala Remix)",
         "url": "https://open.spotify.com/album/0YklB1LaVFTWaEub2I3tiW"
       },
@@ -791,22 +791,6 @@
       "duration_ms": 214986,
       "name": "Guilty Conscience - Tame Impala Remix",
       "url": "https://open.spotify.com/track/5i5fCpsnqDJ9AfeObgd0gW"
-    },
-    {
-      "added_at": "2022-08-15 16:41:38",
-      "album": {
-        "name": "True Romance",
-        "url": "https://open.spotify.com/album/6kPYPazaW34fsXAgVGQxxZ"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 245708,
-      "name": "True Romance",
-      "url": "https://open.spotify.com/track/7G4aD9GSe262y5lisfaIGy"
     },
     {
       "added_at": "2022-08-15 16:41:38",
@@ -843,6 +827,22 @@
     {
       "added_at": "2022-08-15 16:41:38",
       "album": {
+        "name": "True Romance",
+        "url": "https://open.spotify.com/album/6kPYPazaW34fsXAgVGQxxZ"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 245708,
+      "name": "True Romance",
+      "url": "https://open.spotify.com/track/7G4aD9GSe262y5lisfaIGy"
+    },
+    {
+      "added_at": "2022-08-15 16:41:38",
+      "album": {
         "name": "Letter Blue",
         "url": "https://open.spotify.com/album/2EfIa1JzzYjckiiEbtM7g3"
       },
@@ -855,22 +855,6 @@
       "duration_ms": 216635,
       "name": "Clementine",
       "url": "https://open.spotify.com/track/4eQHehdMKD9zoHDrzWViHF"
-    },
-    {
-      "added_at": "2022-08-15 16:41:38",
-      "album": {
-        "name": "Hollow Lover",
-        "url": "https://open.spotify.com/album/6oU83NRccLBCqr1JI92MLi"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 187636,
-      "name": "Hollow Lover",
-      "url": "https://open.spotify.com/track/0wqfPpcKewaI7muAVNzo2x"
     },
     {
       "added_at": "2022-08-15 16:41:38",
@@ -919,6 +903,22 @@
       "duration_ms": 266721,
       "name": "Another Lover",
       "url": "https://open.spotify.com/track/5duZe3kHUqNENd97WYqmYL"
+    },
+    {
+      "added_at": "2022-08-15 16:41:38",
+      "album": {
+        "name": "Hollow Lover",
+        "url": "https://open.spotify.com/album/6oU83NRccLBCqr1JI92MLi"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 187636,
+      "name": "Hollow Lover",
+      "url": "https://open.spotify.com/track/0wqfPpcKewaI7muAVNzo2x"
     },
     {
       "added_at": "2022-08-15 16:41:38",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-08-15 16:41:38",
       "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/6NLWgp3R9U9v8KMueE6i9C"
-      },
-      "artists": [
-        {
-          "name": "Kelsey Lu",
-          "url": "https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5"
-        }
-      ],
-      "duration_ms": 414466,
-      "name": "I'm Not In Love",
-      "url": "https://open.spotify.com/track/7InHgiDyJ0GtvnIVslWNPK"
-    },
-    {
-      "added_at": "2022-08-15 16:41:38",
-      "album": {
         "name": "Unbothered",
         "url": "https://open.spotify.com/album/4FFxpvJlrYnJeOhcCIawKr"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 124954,
       "name": "Unbothered",
       "url": "https://open.spotify.com/track/4p1Er46wDz4zGQI7Sxor3W"
+    },
+    {
+      "added_at": "2022-08-15 16:41:38",
+      "album": {
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/6NLWgp3R9U9v8KMueE6i9C"
+      },
+      "artists": [
+        {
+          "name": "Kelsey Lu",
+          "url": "https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5"
+        }
+      ],
+      "duration_ms": 414466,
+      "name": "I'm Not In Love",
+      "url": "https://open.spotify.com/track/7InHgiDyJ0GtvnIVslWNPK"
     },
     {
       "added_at": "2022-08-15 16:41:38",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-08-15 16:41:38",
       "album": {
-        "name": "See you Soon",
-        "url": "https://open.spotify.com/album/7K4sR6OiINBpj00mFmiLoG"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 206600,
-      "name": "See you Soon",
-      "url": "https://open.spotify.com/track/5W5N23Xz1Zk6Qi8wkP8UPM"
-    },
-    {
-      "added_at": "2022-08-15 16:41:38",
-      "album": {
         "name": "color theory",
         "url": "https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 246733,
       "name": "NICE OUT",
       "url": "https://open.spotify.com/track/47k1Ox90yk7EicCAd3QDhc"
+    },
+    {
+      "added_at": "2022-08-15 16:41:38",
+      "album": {
+        "name": "See you Soon",
+        "url": "https://open.spotify.com/album/7K4sR6OiINBpj00mFmiLoG"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 206600,
+      "name": "See you Soon",
+      "url": "https://open.spotify.com/track/5W5N23Xz1Zk6Qi8wkP8UPM"
     },
     {
       "added_at": "2022-08-15 16:41:38",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-08-15 16:41:38",
       "album": {
-        "name": "The One",
-        "url": "https://open.spotify.com/album/1wjFYIGn9tsz6egrNisZj1"
-      },
-      "artists": [
-        {
-          "name": "M.I.A.",
-          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
-        }
-      ],
-      "duration_ms": 145750,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/55tQMd3wlWyiB51q6CGZgS"
-    },
-    {
-      "added_at": "2022-08-15 16:41:38",
-      "album": {
         "name": "Hold It Together",
         "url": "https://open.spotify.com/album/06ToGOGFYkUkABJgpx3Mbb"
       },
@@ -1243,6 +1227,38 @@
     {
       "added_at": "2022-08-15 16:41:38",
       "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/1wjFYIGn9tsz6egrNisZj1"
+      },
+      "artists": [
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+        }
+      ],
+      "duration_ms": 145750,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/55tQMd3wlWyiB51q6CGZgS"
+    },
+    {
+      "added_at": "2022-08-15 16:41:38",
+      "album": {
+        "name": "Duality",
+        "url": "https://open.spotify.com/album/10P8sK3sWqq3IIleoguOmC"
+      },
+      "artists": [
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        }
+      ],
+      "duration_ms": 198466,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/661ahmgEHrphIbXHYqxq5n"
+    },
+    {
+      "added_at": "2022-08-15 16:41:38",
+      "album": {
         "name": "Billions",
         "url": "https://open.spotify.com/album/4DpAPqdJ1jVhoWZrxWLRH5"
       },
@@ -1255,26 +1271,6 @@
       "duration_ms": 296554,
       "name": "Billions",
       "url": "https://open.spotify.com/track/4gsdYgnktO0jmKEVoL8kfm"
-    },
-    {
-      "added_at": "2022-08-15 16:41:38",
-      "album": {
-        "name": "The Other Lover (Little Dragon & Moses Sumney)",
-        "url": "https://open.spotify.com/album/5aCUZAQz1bDC3txTnqDm5N"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        },
-        {
-          "name": "Moses Sumney",
-          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
-        }
-      ],
-      "duration_ms": 244883,
-      "name": "The Other Lover (Little Dragon & Moses Sumney)",
-      "url": "https://open.spotify.com/track/3U12nxwFolQ6hsG6zcyEqc"
     }
   ],
   "unique_name": "Ethereal",

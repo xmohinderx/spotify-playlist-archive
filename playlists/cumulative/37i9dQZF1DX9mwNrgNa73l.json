@@ -824,6 +824,24 @@
     },
     {
       "album": {
+        "name": "Hum Dekhenge",
+        "url": "https://open.spotify.com/album/5AsrWbCKLj3AlZjddMn44O"
+      },
+      "artists": [
+        {
+          "name": "Zeeshan Haider",
+          "url": "https://open.spotify.com/artist/0c8E2S7cYBXqoo51XkVX3L"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118500,
+      "name": "Hum Dekhenge",
+      "url": "https://open.spotify.com/track/68xwgHKBcFBdgNlwGaiQWD"
+    },
+    {
+      "album": {
         "name": "Husn E Haqiqi",
         "url": "https://open.spotify.com/album/402uZx2nCUK3MWpvqrVNxW"
       },

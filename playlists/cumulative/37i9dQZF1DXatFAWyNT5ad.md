@@ -4,7 +4,7 @@
 
 > Let's mix it.
 
-501 songs - 1 day 2 hr 16 min - [published](https://open.spotify.com/playlist/7btkhvftx7WY0w5vxyn75X)
+502 songs - 1 day 2 hr 19 min - [published](https://open.spotify.com/playlist/7btkhvftx7WY0w5vxyn75X)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Dancing in the Mirror](https://open.spotify.com/track/4h0lirk2bZfueiTWUQ0UYh) | [Glades](https://open.spotify.com/artist/14rP13jdQNgQvuPA2AkBgm) | [Dancing in the Mirror](https://open.spotify.com/album/2LXpyMZDLUB9IcrIhHWWBB) | 3:04 | 2022-03-24 | 2022-04-21 |
 | [Daydream](https://open.spotify.com/track/778JDHI6qfgQ1HBEKP1FZu) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Daydream](https://open.spotify.com/album/1FsnruavnbrVGEesSSiKEE) | 2:30 | 2022-03-24 | 2022-04-20 |
 | [Daydreams](https://open.spotify.com/track/7d0zWiniNwO2Bsex8jRDYa) | [Walden](https://open.spotify.com/artist/7IspetvXSZ5EjAymJEGJTF) | [Daydreams](https://open.spotify.com/album/1j79OR9z9uQarwcxPOBTcw) | 3:52 | 2022-03-24 | 2022-04-15 |
+| [dead inside](https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [in loving memory](https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau) | 3:02 | 2022-08-26 |  |
 | [death wish](https://open.spotify.com/track/5YOPTy4ENCgM0JZnJrkXXF) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [death wish](https://open.spotify.com/album/17QnupwzhTXpi5H00qtPvE) | 3:17 | 2022-03-17 | 2022-07-28 |
 | [debbie downer](https://open.spotify.com/track/6VTzauIrG2hjKtKFYFJfMT) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0), [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [debbie downer](https://open.spotify.com/album/4jxtbLNDuxXJwXk8D9EhS6) | 2:39 | 2022-03-24 | 2022-07-29 |
 | [Deep](https://open.spotify.com/track/1Qd0jDJKlgBTuCNqlM4GWO) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [Deep](https://open.spotify.com/album/3UVA6Nxe9gBBRVmbZwwIld) | 3:00 | 2022-03-24 | 2022-04-20 |
@@ -471,7 +472,7 @@
 | [ultraviolet.tragedies \(with Terrell Hines\)](https://open.spotify.com/track/2qP3VifO2gnLn7sj5md688) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Terrell Hines](https://open.spotify.com/artist/2jhjHaG1p2SMn6cDyhwhjQ) | [ultraviolet.tragedies \(with Terrell Hines\)](https://open.spotify.com/album/1xeTGwmriV3NHmNgMzvPav) | 2:57 | 2022-03-24 | 2022-04-17 |
 | [Uncharted \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/2cOwUzjqyk9S4PsAW7BycC) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Spotify Singles](https://open.spotify.com/album/5YcB3oSnzUImqETGH3jqeq) | 3:57 | 2022-03-24 | 2022-04-10 |
 | [Up From A Dream](https://open.spotify.com/track/3MKdPWUmCXymXVGKf2Njdr) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/6NtEjhPWfZcvJQuvjGX4bk) | 3:17 | 2022-03-24 | 2022-04-16 |
-| [ur just horny](https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [ur just horny](https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A) | 2:58 | 2022-03-17 |  |
+| [ur just horny](https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [ur just horny](https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A) | 2:58 | 2022-03-17 | 2022-08-30 |
 | [Velvet](https://open.spotify.com/track/1wwM5H5qpU0PfHEDsFEiJW) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [VELVET](https://open.spotify.com/album/3x2eQlp6uoy5E5uuI1zcdg) | 2:58 | 2022-03-24 | 2022-04-20 |
 | [Vertigo](https://open.spotify.com/track/4N6KMuOIpoCE97UiXOml1S) | [Glades](https://open.spotify.com/artist/14rP13jdQNgQvuPA2AkBgm) | [Vertigo](https://open.spotify.com/album/4Ee1r6lPG1neAJZUT6Drz7) | 2:19 | 2022-03-24 | 2022-04-19 |
 | [Violence and Spiders](https://open.spotify.com/track/7aiXJBwHyTFGnmIqjoGbYG) | [SAINT PHNX](https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk) | [DDMN](https://open.spotify.com/album/7BDGpfMw87xBmeNeZE681g) | 4:03 | 2022-03-24 | 2022-04-18 |

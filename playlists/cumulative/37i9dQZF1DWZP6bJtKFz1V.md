@@ -4,7 +4,7 @@
 
 > alternative hits of today, tomorrow, and then some\. Cover: The Backseat Lovers
 
-383 songs - 19 hr 54 min - [published](https://open.spotify.com/playlist/1wVw7z1lWnvceI3e0NeFmp)
+385 songs - 19 hr 59 min - [published](https://open.spotify.com/playlist/1wVw7z1lWnvceI3e0NeFmp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Basement Superstar](https://open.spotify.com/track/3zN7XaUqoJcpKk70QdBNiK) | [London Mars](https://open.spotify.com/artist/2R765Ip6o2SEw6HfxkxD2y) | [Basement Superstar](https://open.spotify.com/album/4gR3bkt2iYBDhG4n8xmWwB) | 2:50 | 2022-04-01 | 2022-07-08 |
 | [BATSHIT](https://open.spotify.com/track/1uPTkRxSbOfEENBoJEb5X9) | [William Bolton](https://open.spotify.com/artist/1NPkkY0RutjrXakIihpIiS) | [BATSHIT](https://open.spotify.com/album/2Bca9BClGvA5WzB6tAv1to) | 2:49 | 2022-05-06 | 2022-05-21 |
 | [Beach Boy](https://open.spotify.com/track/7AEWEYnWHPqXTExnIfxzsT) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Beach Boy](https://open.spotify.com/album/4u5BWJputhCmihtUEWQ3ll) | 3:12 | 2022-02-04 | 2022-03-12 |
-| [Beautiful World](https://open.spotify.com/track/2dPhaqqNSBsmlxVknA2M6F) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4), [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Beautiful World \- Echo in the Dark, Pt\. II](https://open.spotify.com/album/1hyrW80YTGDz5fWS5kXzuH) | 3:03 | 2022-04-22 |  |
+| [Beautiful World](https://open.spotify.com/track/2dPhaqqNSBsmlxVknA2M6F) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4), [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Beautiful World \- Echo in the Dark, Pt\. II](https://open.spotify.com/album/1hyrW80YTGDz5fWS5kXzuH) | 3:03 | 2022-04-22 | 2022-08-30 |
 | [Becky’s So Hot](https://open.spotify.com/track/6ehrvwZ8JHaLahNRpDGlkD) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Becky’s So Hot](https://open.spotify.com/album/1hL17hGKMW1UqEAvCX4wpE) | 2:42 | 2022-07-22 |  |
 | [Bentley Coupe](https://open.spotify.com/track/7aksJRV1H0pCds7FSiZ8ZI) | [Social House](https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl) | [Bentley Coupe](https://open.spotify.com/album/4Zn6SD7Y9nDM2MEFjEj8Sp) | 2:54 | 2022-06-24 | 2022-07-23 |
 | [Better Now \(feat\. MARO\)](https://open.spotify.com/track/1iSuktdIdWrdfq0slQ4auO) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Better Now \(feat\. MARO\)](https://open.spotify.com/album/2Yf834YZ8vDNN7mcjJ0FEo) | 3:14 | 2022-03-11 |  |
@@ -89,6 +89,7 @@
 | [crashing down](https://open.spotify.com/track/120gZpbcyjQZ7KNKJxZXnx) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [crashing down](https://open.spotify.com/album/4JHJFHkQfDDimJ8TJamEXf) | 2:19 | 2022-02-04 | 2022-04-16 |
 | [Crawl \(feat\. Anna Shoemaker\)](https://open.spotify.com/track/2tyh6kMjnlUsAfyvrYwIDE) | [Richie Quake](https://open.spotify.com/artist/5RmZclxIWvmctw5DNBJyo6), [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4) | [Crawl \(feat\. Anna Shoemaker\)](https://open.spotify.com/album/09X44dWv4yXjDk7c0EvoPS) | 2:15 | 2022-04-15 | 2022-07-29 |
 | [Crocodile Tears](https://open.spotify.com/track/1Ogx9hdaApNyMTDLIYLh4L) | [Baseball Game](https://open.spotify.com/artist/1z94OBX5O0uAp1Uz6viKxK) | [Crocodile Tears](https://open.spotify.com/album/50z98bFMiIfpH5ZoTfhTTG) | 4:03 | 2022-04-01 | 2022-07-29 |
+| [cross your mind](https://open.spotify.com/track/09gqiE8sqspbkfdr2x0CBs) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [cross your mind](https://open.spotify.com/album/0Fbrqq0fBxXMgavgOfsG37) | 2:40 | 2022-08-26 |  |
 | [Cry in the Mirror](https://open.spotify.com/track/4cL8QGCssHgLZPW3QmKuT6) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB) | [Cry in the Mirror](https://open.spotify.com/album/00GclxcCqONAQMm39T3Ir0) | 3:45 | 2022-03-11 | 2022-04-09 |
 | [Cry Neon](https://open.spotify.com/track/3kpZ8rSJNbykRYorGiDXsG) | [Nox Holloway](https://open.spotify.com/artist/5f7qMHuc0PN9XOIMbejFlj) | [Cry Neon](https://open.spotify.com/album/4u3ZE0EQkAKptJIp4L5XaV) | 3:23 | 2022-05-20 | 2022-07-19 |
 | [Deadbeat \(feat\. Teddy Failure\)](https://open.spotify.com/track/7DmzMHbyO4EwP9OIULiFP9) | [Oscar Scheller](https://open.spotify.com/artist/6BToM88XrzNI6VL5GxazUq), [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [Deadbeat \(feat\. Teddy Failure\)](https://open.spotify.com/album/2DfN0hg9I3shFHJXoU7EYN) | 1:56 | 2022-07-01 | 2022-07-05 |
@@ -152,6 +153,7 @@
 | [Hold Me Down](https://open.spotify.com/track/3nfC5ikuvw3mxDEE10c7EA) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Hold Me Down](https://open.spotify.com/album/2L7xcRtVXalWzgyT76W2Xj) | 2:42 | 2022-02-04 | 2022-05-14 |
 | [Hot Crush Lover](https://open.spotify.com/track/2cBvJkneFRqK62VDL3yr0c) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Hot Crush Lover](https://open.spotify.com/album/1KAtsKpFLwng34JEyge2hs) | 3:13 | 2022-04-01 | 2022-07-23 |
 | [Hot Tea](https://open.spotify.com/track/1utCtRS9AKwl9Kj2jVD1Cr) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Give Me Your Shoulders, Pt\. 1](https://open.spotify.com/album/07Ac7q2KMqblFcVfyWPmig) | 2:54 | 2022-02-11 | 2022-03-12 |
+| [how deep?](https://open.spotify.com/track/0VcWp30A3hSJrPjdDEHeNE) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [how deep?](https://open.spotify.com/album/4vaxABro6oVySHD5okB7QE) | 2:34 | 2022-08-26 |  |
 | [How Do I Know?](https://open.spotify.com/track/4mzRgafmXg0S1FBwGdwFXC) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [How Do I Know?](https://open.spotify.com/album/2hsNeLymE4V8YTHPWLaAxf) | 3:18 | 2022-02-04 | 2022-03-12 |
 | [Hush](https://open.spotify.com/track/04kybb0HCt1uaTBgYkSgwQ) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Hush](https://open.spotify.com/album/5r1bbn7yCvl1CrBjfGM6eq) | 3:01 | 2022-02-04 | 2022-02-26 |
 | [I Can't Help But Feel](https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [I Can't Help But Feel](https://open.spotify.com/album/7rzTGJdNOe2W5h7pZaSWOr) | 2:58 | 2022-04-01 |  |
@@ -387,7 +389,7 @@
 | [Wonderful Life \- Edit](https://open.spotify.com/track/3CrDdihSYMmQxSRUuLsPdY) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Wonderful Life](https://open.spotify.com/album/3Ja3WF7ybMFGiRFNZG3Xz7) | 3:05 | 2022-07-22 |  |
 | [Wonderful Life \- edit](https://open.spotify.com/track/4xcTOmWUBUOKbsa7UewmLH) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Wonderful Life](https://open.spotify.com/album/2xH369QbqwYtRNDhJZvbuF) | 3:05 | 2022-06-17 | 2022-07-29 |
 | [Wretched](https://open.spotify.com/track/6lKlCsBcsiPky4LP0DRmQd) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Wretched](https://open.spotify.com/album/2Ehu1KE6isCk03znJL0LWS) | 3:49 | 2022-06-24 | 2022-07-29 |
-| [Yellow](https://open.spotify.com/track/3AsPDfysPpXHXm8JK85F3W) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Yellow](https://open.spotify.com/album/46x6iizcB1N1WdwHO7EO7e) | 3:48 | 2022-07-22 |  |
+| [Yellow](https://open.spotify.com/track/3AsPDfysPpXHXm8JK85F3W) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Yellow](https://open.spotify.com/album/46x6iizcB1N1WdwHO7EO7e) | 3:48 | 2022-07-22 | 2022-08-30 |
 | [YES MOM](https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [YES MOM](https://open.spotify.com/album/3vE82WGpKX2oHOC8qbCjOS) | 2:42 | 2022-02-18 | 2022-06-07 |
 | [You Lose!](https://open.spotify.com/track/0tP8FKhJsar5y4JcOH4Rjp) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY) | 3:24 | 2022-03-22 | 2022-06-28 |
 | [You Ruined Nirvana](https://open.spotify.com/track/6HdZ8l3sHVYgrcAAXTugKK) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [You Ruined Nirvana](https://open.spotify.com/album/0AvEawbGpZQ1Nv2BqaNvJT) | 2:53 | 2022-04-22 | 2022-07-08 |

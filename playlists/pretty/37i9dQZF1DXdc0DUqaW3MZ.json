@@ -1,12 +1,12 @@
 {
   "description": "Soul, R'n'B all with a tinge of electronic goodness. Cover: Jitwam",
-  "num_followers": 281818,
+  "num_followers": 281691,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMDMzZDVlODM4ZjFhZTAwNmNhODA4NzhmZmIyMmQ2YmNi",
+  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMDYwNzRjNjg5ZTI5N2VlZTFmNGI0YTk3YjU4MDc3ZTcx",
   "tracks": [
     {
       "added_at": "2022-06-20 14:19:42",
@@ -423,22 +423,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Lucid",
-        "url": "https://open.spotify.com/album/5zM1YPLVNvxe6S8I3MIAbg"
-      },
-      "artists": [
-        {
-          "name": "Raveena",
-          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
-        }
-      ],
-      "duration_ms": 261238,
-      "name": "Still Dreaming",
-      "url": "https://open.spotify.com/track/2GWMfWHvLixgTo9s5NGn3w"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "Kosmos",
         "url": "https://open.spotify.com/album/47WMGg3UQBQAGn8cVnPdiW"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 61280,
       "name": "Apocalypse",
       "url": "https://open.spotify.com/track/66y1fdK0PkqdhD8yOleDBD"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "Lucid",
+        "url": "https://open.spotify.com/album/5zM1YPLVNvxe6S8I3MIAbg"
+      },
+      "artists": [
+        {
+          "name": "Raveena",
+          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
+        }
+      ],
+      "duration_ms": 261238,
+      "name": "Still Dreaming",
+      "url": "https://open.spotify.com/track/2GWMfWHvLixgTo9s5NGn3w"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -851,18 +851,22 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "LoveConfusion",
-        "url": "https://open.spotify.com/album/1KKBhVD7u0bD0EdvHI7BeP"
+        "name": "LowKey (feat. Jayd Ink)",
+        "url": "https://open.spotify.com/album/5IymapBkxovOp4ELc4sQNy"
       },
       "artists": [
         {
-          "name": "Karnaval Blues",
-          "url": "https://open.spotify.com/artist/4APHks5GcW1GrlfnSvL5O3"
+          "name": "Full Crate",
+          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
+        },
+        {
+          "name": "Jayd Ink",
+          "url": "https://open.spotify.com/artist/6TfJcKCr5hFsYZkq2k1Pac"
         }
       ],
-      "duration_ms": 258333,
-      "name": "LoveConfusion",
-      "url": "https://open.spotify.com/track/38xyC5uryAeiprkzLbNF6W"
+      "duration_ms": 173420,
+      "name": "LowKey (feat. Jayd Ink)",
+      "url": "https://open.spotify.com/track/1esyt62pq02xPShuaK5OpA"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -903,22 +907,18 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "LowKey (feat. Jayd Ink)",
-        "url": "https://open.spotify.com/album/5IymapBkxovOp4ELc4sQNy"
+        "name": "LoveConfusion",
+        "url": "https://open.spotify.com/album/1KKBhVD7u0bD0EdvHI7BeP"
       },
       "artists": [
         {
-          "name": "Full Crate",
-          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
-        },
-        {
-          "name": "Jayd Ink",
-          "url": "https://open.spotify.com/artist/6TfJcKCr5hFsYZkq2k1Pac"
+          "name": "Karnaval Blues",
+          "url": "https://open.spotify.com/artist/4APHks5GcW1GrlfnSvL5O3"
         }
       ],
-      "duration_ms": 173420,
-      "name": "LowKey (feat. Jayd Ink)",
-      "url": "https://open.spotify.com/track/1esyt62pq02xPShuaK5OpA"
+      "duration_ms": 258333,
+      "name": "LoveConfusion",
+      "url": "https://open.spotify.com/track/38xyC5uryAeiprkzLbNF6W"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -959,26 +959,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Summer Lovin'",
-        "url": "https://open.spotify.com/album/0biYlETukeDyF2Gu51y1BS"
-      },
-      "artists": [
-        {
-          "name": "49th & Main",
-          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
-        },
-        {
-          "name": "KEHLI",
-          "url": "https://open.spotify.com/artist/1l6JUvRJkj7kHhWhMUp3AA"
-        }
-      ],
-      "duration_ms": 186782,
-      "name": "Summer Lovin'",
-      "url": "https://open.spotify.com/track/5TzW5wlm4qaJ2hwhJWIbTx"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "FVR105 (p-rallel Remix)",
         "url": "https://open.spotify.com/album/6LMCxZc1m2uTJ1ZSNwgjYz"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 193000,
       "name": "FVR105 - p-rallel Remix",
       "url": "https://open.spotify.com/track/5F4jNQAtcorOBctGgpcjNh"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "Summer Lovin'",
+        "url": "https://open.spotify.com/album/0biYlETukeDyF2Gu51y1BS"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        },
+        {
+          "name": "KEHLI",
+          "url": "https://open.spotify.com/artist/1l6JUvRJkj7kHhWhMUp3AA"
+        }
+      ],
+      "duration_ms": 186782,
+      "name": "Summer Lovin'",
+      "url": "https://open.spotify.com/track/5TzW5wlm4qaJ2hwhJWIbTx"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Super Good Times",
-        "url": "https://open.spotify.com/album/68cDaUqXV1gBfUTikzcpwj"
-      },
-      "artists": [
-        {
-          "name": "Suray Sertin",
-          "url": "https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP"
-        }
-      ],
-      "duration_ms": 221217,
-      "name": "Super Good Times",
-      "url": "https://open.spotify.com/track/0evxHcyCVN4f88IDipmvge"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "It Is What It Is",
         "url": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 194177,
       "name": "Unrequited Love",
       "url": "https://open.spotify.com/track/55odIfJy7sm2HkHf3n9Gha"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "Super Good Times",
+        "url": "https://open.spotify.com/album/68cDaUqXV1gBfUTikzcpwj"
+      },
+      "artists": [
+        {
+          "name": "Suray Sertin",
+          "url": "https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP"
+        }
+      ],
+      "duration_ms": 221217,
+      "name": "Super Good Times",
+      "url": "https://open.spotify.com/track/0evxHcyCVN4f88IDipmvge"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
+        "name": "Heart-Shaped Box",
+        "url": "https://open.spotify.com/album/3WPDRb3GzyeFL2a08MqGZz"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 169626,
+      "name": "Heart-Shaped Box",
+      "url": "https://open.spotify.com/track/3t9UffGSsulotQbSLrQTWY"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
         "name": "Big Bad Mood (feat. Miraa May)",
         "url": "https://open.spotify.com/album/4kpdV2LSaUGLSPLZWz7cEJ"
       },
@@ -1199,22 +1215,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Heart-Shaped Box",
-        "url": "https://open.spotify.com/album/3WPDRb3GzyeFL2a08MqGZz"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 169626,
-      "name": "Heart-Shaped Box",
-      "url": "https://open.spotify.com/track/3t9UffGSsulotQbSLrQTWY"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "Without You",
         "url": "https://open.spotify.com/album/0ounACjKD0M8EjnTxAF3UW"
       },
@@ -1227,6 +1227,22 @@
       "duration_ms": 177560,
       "name": "Without You",
       "url": "https://open.spotify.com/track/4fkgjkCqxOsjePLSpHZbpa"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "When We Stay Alive",
+        "url": "https://open.spotify.com/album/7IBhWoqJNbJtTityLHPYaT"
+      },
+      "artists": [
+        {
+          "name": "POLI\u00c7A",
+          "url": "https://open.spotify.com/artist/34vLhockmYhf3LgznwyNaQ"
+        }
+      ],
+      "duration_ms": 180133,
+      "name": "Sea Without Blue",
+      "url": "https://open.spotify.com/track/1Qsdx0D4zH9bqvMyYhpV96"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1275,34 +1291,18 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "When We Stay Alive",
-        "url": "https://open.spotify.com/album/7IBhWoqJNbJtTityLHPYaT"
+        "name": "Leslie EP",
+        "url": "https://open.spotify.com/album/7KFVE1klBqsA9fiqte3Ks8"
       },
       "artists": [
         {
-          "name": "POLI\u00c7A",
-          "url": "https://open.spotify.com/artist/34vLhockmYhf3LgznwyNaQ"
+          "name": "Jacob Groening",
+          "url": "https://open.spotify.com/artist/4Mlxc3DHm3Qr5XTaEXHT6f"
         }
       ],
-      "duration_ms": 180133,
-      "name": "Sea Without Blue",
-      "url": "https://open.spotify.com/track/1Qsdx0D4zH9bqvMyYhpV96"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
-        "name": "Raining Colours",
-        "url": "https://open.spotify.com/album/0npVoozR4fmwTB9JkE16pN"
-      },
-      "artists": [
-        {
-          "name": "mustbejohn",
-          "url": "https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc"
-        }
-      ],
-      "duration_ms": 192703,
-      "name": "Raining Colours",
-      "url": "https://open.spotify.com/track/4Dv5Nf2EWuiXS4wbrz5XhP"
+      "duration_ms": 446590,
+      "name": "Leslie",
+      "url": "https://open.spotify.com/track/6NzAnIRwtBKacxkLzva4e7"
     }
   ],
   "unique_name": "Soultronic",

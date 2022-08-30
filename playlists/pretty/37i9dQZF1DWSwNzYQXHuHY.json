@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 3817,
+  "num_followers": 3842,
   "original_name": "\uc378",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgzMjYyNSwwMDAwMDAwMDc0NDQ2Mzc3ZTEyMDU4YjU3YWZhYmQyNGQ1NzhhNzRh",
+  "snapshot_id": "MTY2MDgzMjYyNSwwMDAwMDAwMDlhNGFhYmFmOTZhODVkNGNkZDYxMmU1OWE2MDhmMGM0",
   "tracks": [
     {
       "added_at": "2022-08-18 14:23:45",
@@ -119,26 +119,6 @@
     {
       "added_at": "2022-08-18 14:23:45",
       "album": {
-        "name": "The Hyena on the Keyboard, Pt. 4",
-        "url": "https://open.spotify.com/album/50dXh98sRsMOrf9D5QMb77"
-      },
-      "artists": [
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        },
-        {
-          "name": "Hwa Sa",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
-        }
-      ],
-      "duration_ms": 231654,
-      "name": "Don\u2019t",
-      "url": "https://open.spotify.com/track/4MidkNeonif4PcWSjkwOb7"
-    },
-    {
-      "added_at": "2022-08-18 14:23:45",
-      "album": {
         "name": "Love, Maybe (A Business Proposal OST Bonus Track)",
         "url": "https://open.spotify.com/album/7I3EMy3n72e6ABSq4Ubhoz"
       },
@@ -179,18 +159,22 @@
     {
       "added_at": "2022-08-18 14:23:45",
       "album": {
-        "name": "Dear my X",
-        "url": "https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej"
+        "name": "The Hyena on the Keyboard, Pt. 4",
+        "url": "https://open.spotify.com/album/50dXh98sRsMOrf9D5QMb77"
       },
       "artists": [
         {
-          "name": "KyoungSeo",
-          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Hwa Sa",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
         }
       ],
-      "duration_ms": 187733,
-      "name": "Dear my X",
-      "url": "https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R"
+      "duration_ms": 231654,
+      "name": "Don\u2019t",
+      "url": "https://open.spotify.com/track/4MidkNeonif4PcWSjkwOb7"
     },
     {
       "added_at": "2022-08-18 14:23:45",
@@ -207,6 +191,22 @@
       "duration_ms": 186573,
       "name": "Kiss",
       "url": "https://open.spotify.com/track/3pNcAmfGXKeKvsSG2h1teI"
+    },
+    {
+      "added_at": "2022-08-18 14:23:45",
+      "album": {
+        "name": "Dear my X",
+        "url": "https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej"
+      },
+      "artists": [
+        {
+          "name": "KyoungSeo",
+          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+        }
+      ],
+      "duration_ms": 187733,
+      "name": "Dear my X",
+      "url": "https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R"
     },
     {
       "added_at": "2022-08-18 14:23:45",
@@ -343,22 +343,6 @@
     {
       "added_at": "2022-08-18 14:23:45",
       "album": {
-        "name": "START-UP (Original Television Soundtrack) Pt. 6",
-        "url": "https://open.spotify.com/album/7wzFqr0yCbjdcjjKpfBi1B"
-      },
-      "artists": [
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 183320,
-      "name": "Where Is Dream",
-      "url": "https://open.spotify.com/track/1hFOLJ9bQfZu3tlbHaLCGf"
-    },
-    {
-      "added_at": "2022-08-18 14:23:45",
-      "album": {
         "name": "You, Who?",
         "url": "https://open.spotify.com/album/2VJD2d4spfkILWzOmHEd4i"
       },
@@ -379,18 +363,34 @@
     {
       "added_at": "2022-08-18 14:23:45",
       "album": {
-        "name": "CYAN",
-        "url": "https://open.spotify.com/album/54mKbSh20yke318bPZMsjb"
+        "name": "Minamdang (Original Television Soundtrack, Pt. 6)",
+        "url": "https://open.spotify.com/album/2zIS0T0Kegw9sOh0YQXxqF"
       },
       "artists": [
         {
-          "name": "KANGDANIEL",
-          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+          "name": "Seo In Guk",
+          "url": "https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1"
         }
       ],
-      "duration_ms": 195253,
-      "name": "2U",
-      "url": "https://open.spotify.com/track/00S4PrcWUb3f3dQ9PuC0uy"
+      "duration_ms": 178373,
+      "name": "I like you",
+      "url": "https://open.spotify.com/track/0X5xuP3hkIMo86LpTCFGdb"
+    },
+    {
+      "added_at": "2022-08-18 14:23:45",
+      "album": {
+        "name": "START-UP (Original Television Soundtrack) Pt. 6",
+        "url": "https://open.spotify.com/album/7wzFqr0yCbjdcjjKpfBi1B"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 183320,
+      "name": "Where Is Dream",
+      "url": "https://open.spotify.com/track/1hFOLJ9bQfZu3tlbHaLCGf"
     },
     {
       "added_at": "2022-08-18 14:23:45",
@@ -415,38 +415,42 @@
     {
       "added_at": "2022-08-18 14:23:45",
       "album": {
-        "name": "Under the Oak Tree (Original Soundtrack), Part. 4",
-        "url": "https://open.spotify.com/album/5zJVeHgHrwJ3m24sSMSrTV"
+        "name": "UH-RA? with KozyPop",
+        "url": "https://open.spotify.com/album/7JWfmdSg7VBvgi2gQA9Xib"
       },
       "artists": [
         {
-          "name": "Yang Yoseob",
-          "url": "https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd"
+          "name": "CHOI YOOJUNG",
+          "url": "https://open.spotify.com/artist/1ygbGmBWGTX0llbLrD9648"
         },
         {
-          "name": "EUNHA",
-          "url": "https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk"
+          "name": "Ahn byeong woong",
+          "url": "https://open.spotify.com/artist/6cJ883ebXg0pWAwlzMcBxe"
+        },
+        {
+          "name": "dress",
+          "url": "https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z"
         }
       ],
-      "duration_ms": 192493,
-      "name": "Telepathy",
-      "url": "https://open.spotify.com/track/1xbxSb7zTHysqWZmjFdJ2n"
+      "duration_ms": 217320,
+      "name": "UH-RA? (feat. dress)",
+      "url": "https://open.spotify.com/track/7nqpSc48taCt7DpPX8XTI9"
     },
     {
       "added_at": "2022-08-18 14:23:45",
       "album": {
-        "name": "Minamdang (Original Television Soundtrack, Pt. 6)",
-        "url": "https://open.spotify.com/album/2zIS0T0Kegw9sOh0YQXxqF"
+        "name": "CYAN",
+        "url": "https://open.spotify.com/album/54mKbSh20yke318bPZMsjb"
       },
       "artists": [
         {
-          "name": "Seo In Guk",
-          "url": "https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1"
+          "name": "KANGDANIEL",
+          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
         }
       ],
-      "duration_ms": 178373,
-      "name": "I like you",
-      "url": "https://open.spotify.com/track/0X5xuP3hkIMo86LpTCFGdb"
+      "duration_ms": 195253,
+      "name": "2U",
+      "url": "https://open.spotify.com/track/00S4PrcWUb3f3dQ9PuC0uy"
     },
     {
       "added_at": "2022-08-18 14:23:45",
@@ -463,6 +467,26 @@
       "duration_ms": 212493,
       "name": "Dive into you",
       "url": "https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4"
+    },
+    {
+      "added_at": "2022-08-18 14:23:45",
+      "album": {
+        "name": "Under the Oak Tree (Original Soundtrack), Part. 4",
+        "url": "https://open.spotify.com/album/5zJVeHgHrwJ3m24sSMSrTV"
+      },
+      "artists": [
+        {
+          "name": "Yang Yoseob",
+          "url": "https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd"
+        },
+        {
+          "name": "EUNHA",
+          "url": "https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk"
+        }
+      ],
+      "duration_ms": 192493,
+      "name": "Telepathy",
+      "url": "https://open.spotify.com/track/1xbxSb7zTHysqWZmjFdJ2n"
     },
     {
       "added_at": "2022-08-18 14:23:45",
@@ -499,22 +523,6 @@
     {
       "added_at": "2022-08-18 14:23:45",
       "album": {
-        "name": "bimil:ier vol.1 \"so this is love\"",
-        "url": "https://open.spotify.com/album/5uGkgOzshdeNMMsR34kucM"
-      },
-      "artists": [
-        {
-          "name": "DAY6 (Even of Day)",
-          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
-        }
-      ],
-      "duration_ms": 203425,
-      "name": "so this is love",
-      "url": "https://open.spotify.com/track/18xXVZwosvArMOJOs7wd6S"
-    },
-    {
-      "added_at": "2022-08-18 14:23:45",
-      "album": {
         "name": "Q",
         "url": "https://open.spotify.com/album/18QFWd8sXbRzeviP7ND7mr"
       },
@@ -531,6 +539,22 @@
     {
       "added_at": "2022-08-18 14:23:45",
       "album": {
+        "name": "bimil:ier vol.1 \"so this is love\"",
+        "url": "https://open.spotify.com/album/5uGkgOzshdeNMMsR34kucM"
+      },
+      "artists": [
+        {
+          "name": "DAY6 (Even of Day)",
+          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
+        }
+      ],
+      "duration_ms": 203425,
+      "name": "so this is love",
+      "url": "https://open.spotify.com/track/18xXVZwosvArMOJOs7wd6S"
+    },
+    {
+      "added_at": "2022-08-18 14:23:45",
+      "album": {
         "name": "Maybe",
         "url": "https://open.spotify.com/album/1rzf2NYL9t1iA9HE6MYYvs"
       },
@@ -543,30 +567,6 @@
       "duration_ms": 221333,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/4PoMMt1P8TAIRbeAcY8PN3"
-    },
-    {
-      "added_at": "2022-08-18 14:23:45",
-      "album": {
-        "name": "UH-RA? with KozyPop",
-        "url": "https://open.spotify.com/album/7JWfmdSg7VBvgi2gQA9Xib"
-      },
-      "artists": [
-        {
-          "name": "CHOI YOOJUNG",
-          "url": "https://open.spotify.com/artist/1ygbGmBWGTX0llbLrD9648"
-        },
-        {
-          "name": "Ahn byeong woong",
-          "url": "https://open.spotify.com/artist/6cJ883ebXg0pWAwlzMcBxe"
-        },
-        {
-          "name": "dress",
-          "url": "https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z"
-        }
-      ],
-      "duration_ms": 217320,
-      "name": "UH-RA? (feat. dress)",
-      "url": "https://open.spotify.com/track/7nqpSc48taCt7DpPX8XTI9"
     },
     {
       "added_at": "2022-08-18 14:23:45",
@@ -607,26 +607,6 @@
     {
       "added_at": "2022-08-18 14:23:45",
       "album": {
-        "name": "SSOOK DDOONG (feat. CHOI YOOJUNG)",
-        "url": "https://open.spotify.com/album/31T5angQfNXokneuSdQq56"
-      },
-      "artists": [
-        {
-          "name": "BOOKKU DDOONG",
-          "url": "https://open.spotify.com/artist/3dy8YhuMdQX2iwO1CaurGw"
-        },
-        {
-          "name": "CHOI YOOJUNG",
-          "url": "https://open.spotify.com/artist/1ygbGmBWGTX0llbLrD9648"
-        }
-      ],
-      "duration_ms": 167800,
-      "name": "SSOOK DDOONG (feat. CHOI YOOJUNG)",
-      "url": "https://open.spotify.com/track/0bh107oicEpxI1RiAz59Wb"
-    },
-    {
-      "added_at": "2022-08-18 14:23:45",
-      "album": {
         "name": "Our Love is Great",
         "url": "https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW"
       },
@@ -643,34 +623,22 @@
     {
       "added_at": "2022-08-18 14:23:45",
       "album": {
-        "name": "3rd Digital Single 'Not In Public'",
-        "url": "https://open.spotify.com/album/4LX6PAK8lwgaKtC00wFGcy"
+        "name": "SSOOK DDOONG (feat. CHOI YOOJUNG)",
+        "url": "https://open.spotify.com/album/31T5angQfNXokneuSdQq56"
       },
       "artists": [
         {
-          "name": "SUMMER CAKE",
-          "url": "https://open.spotify.com/artist/00tfbtz9VWPIzJmHPojKgm"
-        }
-      ],
-      "duration_ms": 171560,
-      "name": "Not In Public",
-      "url": "https://open.spotify.com/track/6WQE9m9BhyKcsXZXWeGBqD"
-    },
-    {
-      "added_at": "2022-08-18 14:23:45",
-      "album": {
-        "name": "Pong Dang",
-        "url": "https://open.spotify.com/album/1pFgxq13Tw9ZU7owb3BTP2"
-      },
-      "artists": [
+          "name": "BOOKKU DDOONG",
+          "url": "https://open.spotify.com/artist/3dy8YhuMdQX2iwO1CaurGw"
+        },
         {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+          "name": "CHOI YOOJUNG",
+          "url": "https://open.spotify.com/artist/1ygbGmBWGTX0llbLrD9648"
         }
       ],
-      "duration_ms": 233026,
-      "name": "Pong Dang",
-      "url": "https://open.spotify.com/track/1z4RuGHHajj2eRK8IMbxMw"
+      "duration_ms": 167800,
+      "name": "SSOOK DDOONG (feat. CHOI YOOJUNG)",
+      "url": "https://open.spotify.com/track/0bh107oicEpxI1RiAz59Wb"
     },
     {
       "added_at": "2022-08-18 14:23:45",
@@ -695,34 +663,34 @@
     {
       "added_at": "2022-08-18 14:23:45",
       "album": {
-        "name": "Jinxed at First (Original Television Soundtrack), Pt.2",
-        "url": "https://open.spotify.com/album/2fe7Nm865FuJYBn0L2sjw8"
+        "name": "Pong Dang",
+        "url": "https://open.spotify.com/album/1pFgxq13Tw9ZU7owb3BTP2"
       },
       "artists": [
         {
-          "name": "SEOHYUN",
-          "url": "https://open.spotify.com/artist/5uM1Et50auro2hTS6ZLcmT"
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
         }
       ],
-      "duration_ms": 176866,
-      "name": "Milky Way",
-      "url": "https://open.spotify.com/track/1BcokUlDjWwaTPu05OarRG"
+      "duration_ms": 233026,
+      "name": "Pong Dang",
+      "url": "https://open.spotify.com/track/1z4RuGHHajj2eRK8IMbxMw"
     },
     {
       "added_at": "2022-08-18 14:23:45",
       "album": {
-        "name": "NDGGA",
-        "url": "https://open.spotify.com/album/3UZvC0lIUCeLscHzuIojxg"
+        "name": "3rd Digital Single 'Not In Public'",
+        "url": "https://open.spotify.com/album/4LX6PAK8lwgaKtC00wFGcy"
       },
       "artists": [
         {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+          "name": "SUMMER CAKE",
+          "url": "https://open.spotify.com/artist/00tfbtz9VWPIzJmHPojKgm"
         }
       ],
-      "duration_ms": 175412,
-      "name": "NDGGA",
-      "url": "https://open.spotify.com/track/15beUhJeOn4YdMOYW34AVJ"
+      "duration_ms": 171560,
+      "name": "Not In Public",
+      "url": "https://open.spotify.com/track/6WQE9m9BhyKcsXZXWeGBqD"
     },
     {
       "added_at": "2022-08-18 14:23:45",
@@ -743,18 +711,34 @@
     {
       "added_at": "2022-08-18 14:23:45",
       "album": {
-        "name": "Oh My Boy",
-        "url": "https://open.spotify.com/album/3wB6o7osE6fIGUBNG4dk1F"
+        "name": "NDGGA",
+        "url": "https://open.spotify.com/album/3UZvC0lIUCeLscHzuIojxg"
       },
       "artists": [
         {
-          "name": "KWON EUN BI",
-          "url": "https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm"
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
         }
       ],
-      "duration_ms": 183853,
-      "name": "Oh My Boy",
-      "url": "https://open.spotify.com/track/3qsxjwVRHAu69j7LoglBEz"
+      "duration_ms": 175412,
+      "name": "NDGGA",
+      "url": "https://open.spotify.com/track/15beUhJeOn4YdMOYW34AVJ"
+    },
+    {
+      "added_at": "2022-08-18 14:23:45",
+      "album": {
+        "name": "Jinxed at First (Original Television Soundtrack), Pt.2",
+        "url": "https://open.spotify.com/album/2fe7Nm865FuJYBn0L2sjw8"
+      },
+      "artists": [
+        {
+          "name": "SEOHYUN",
+          "url": "https://open.spotify.com/artist/5uM1Et50auro2hTS6ZLcmT"
+        }
+      ],
+      "duration_ms": 176866,
+      "name": "Milky Way",
+      "url": "https://open.spotify.com/track/1BcokUlDjWwaTPu05OarRG"
     },
     {
       "added_at": "2022-08-18 14:23:45",
@@ -771,6 +755,22 @@
       "duration_ms": 189093,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/3B4AOfW6nDbCPb1pIEczJQ"
+    },
+    {
+      "added_at": "2022-08-18 14:23:45",
+      "album": {
+        "name": "Oh My Boy",
+        "url": "https://open.spotify.com/album/3wB6o7osE6fIGUBNG4dk1F"
+      },
+      "artists": [
+        {
+          "name": "KWON EUN BI",
+          "url": "https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm"
+        }
+      ],
+      "duration_ms": 183853,
+      "name": "Oh My Boy",
+      "url": "https://open.spotify.com/track/3qsxjwVRHAu69j7LoglBEz"
     },
     {
       "added_at": "2022-08-18 14:23:45",
@@ -807,6 +807,42 @@
     {
       "added_at": "2022-08-18 14:23:45",
       "album": {
+        "name": "A New Decade",
+        "url": "https://open.spotify.com/album/4mYVg4U1xnQyBA3hbH1DB4"
+      },
+      "artists": [
+        {
+          "name": "DINDIN",
+          "url": "https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z"
+        }
+      ],
+      "duration_ms": 219813,
+      "name": "Should Not Love You",
+      "url": "https://open.spotify.com/track/0Er9o2H59VVOmgMB4VG4fk"
+    },
+    {
+      "added_at": "2022-08-18 14:23:45",
+      "album": {
+        "name": "My First June",
+        "url": "https://open.spotify.com/album/7DeVjzaqs8JcuHetuERgE7"
+      },
+      "artists": [
+        {
+          "name": "JUNIEL",
+          "url": "https://open.spotify.com/artist/0F8gvxccUYPndXVsyLmCi6"
+        },
+        {
+          "name": "Jung Yong Hwa",
+          "url": "https://open.spotify.com/artist/6zhAP0FoDccL9kuETOC20q"
+        }
+      ],
+      "duration_ms": 230661,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/4EIJ8e7f0104nDFFVhWg0x"
+    },
+    {
+      "added_at": "2022-08-18 14:23:45",
+      "album": {
         "name": "Weekday is long, Weekend is gone",
         "url": "https://open.spotify.com/album/2P4txqRH8hlDQLBoMnXlIl"
       },
@@ -831,22 +867,6 @@
     {
       "added_at": "2022-08-18 14:23:45",
       "album": {
-        "name": "A New Decade",
-        "url": "https://open.spotify.com/album/4mYVg4U1xnQyBA3hbH1DB4"
-      },
-      "artists": [
-        {
-          "name": "DINDIN",
-          "url": "https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z"
-        }
-      ],
-      "duration_ms": 219813,
-      "name": "Should Not Love You",
-      "url": "https://open.spotify.com/track/0Er9o2H59VVOmgMB4VG4fk"
-    },
-    {
-      "added_at": "2022-08-18 14:23:45",
-      "album": {
         "name": "Farmers (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4imnAiy9VXoGhPYoqdns9j"
       },
@@ -859,26 +879,6 @@
       "duration_ms": 157386,
       "name": "Strawberry Smoothie",
       "url": "https://open.spotify.com/track/4Fa5yirnUwGuELJ3t054mz"
-    },
-    {
-      "added_at": "2022-08-18 14:23:45",
-      "album": {
-        "name": "My First June",
-        "url": "https://open.spotify.com/album/7DeVjzaqs8JcuHetuERgE7"
-      },
-      "artists": [
-        {
-          "name": "JUNIEL",
-          "url": "https://open.spotify.com/artist/0F8gvxccUYPndXVsyLmCi6"
-        },
-        {
-          "name": "Jung Yong Hwa",
-          "url": "https://open.spotify.com/artist/6zhAP0FoDccL9kuETOC20q"
-        }
-      ],
-      "duration_ms": 230661,
-      "name": "Fool",
-      "url": "https://open.spotify.com/track/4EIJ8e7f0104nDFFVhWg0x"
     }
   ],
   "unique_name": "\uc378",

@@ -4,7 +4,7 @@
 
 > Country Music that ROCKS!!  <br/>Cover: Whiskey Myers
 
-181 songs - 10 hr 41 min - [published](https://open.spotify.com/playlist/7v4qYnm74BZdCShzbtN9G4)
+182 songs - 10 hr 44 min - [published](https://open.spotify.com/playlist/7v4qYnm74BZdCShzbtN9G4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Never Go Home](https://open.spotify.com/track/3K3uXpgYfvX8jMHH51tsaY) | [Payton Howie](https://open.spotify.com/artist/4jkH4JituXJ9PS9Xu18WtV) | [Never Go Home](https://open.spotify.com/album/3FwRXqtlSKysLuH8R94fYi) | 3:29 | 2021-11-01 | 2022-07-26 |
 | [Old School’s In](https://open.spotify.com/track/50wplGw8gfqUx04sZQOzve) | [Heath Sanders](https://open.spotify.com/artist/1hxrG4rJjRjciMdtODcxEP) | [Common Ground](https://open.spotify.com/album/1JWulolmgjMc4BQAQ9RyNJ) | 3:53 | 2021-11-01 | 2022-08-27 |
 | [On the Run](https://open.spotify.com/track/4Kt1bb3fWGhgRsoRgZCAJ8) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [On the Run](https://open.spotify.com/album/7GNCgw56WhQtEoAiQzny55) | 3:45 | 2021-11-01 | 2022-03-26 |
+| [One Hell of an Angel](https://open.spotify.com/track/1SniaPt656Q2RJFOh5QBPK) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [One Hell of an Angel](https://open.spotify.com/album/4qngZnFUHmu4I3cGpENpWF) | 3:31 | 2022-08-26 |  |
 | [Out of the Blue](https://open.spotify.com/track/5oR3HK1s3V8eOjwZWSVjQr) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [Out of the Blue](https://open.spotify.com/album/5UMROMw2d3KYIjuhEkm9Oy) | 4:24 | 2021-11-01 | 2022-07-29 |
 | [Outlaws & Outsiders](https://open.spotify.com/track/4NJjWHBLbon4OjbCfVMWkh) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv), [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2), [Ivan Moody](https://open.spotify.com/artist/0IkXJjOYzNVtC7JByRI2cD), [Mick Mars](https://open.spotify.com/artist/5zSvn5I6wIFwEgFxIIaqJc) | [Who I Am](https://open.spotify.com/album/1AmO83yyDpjLjQuPdMsf3Y) | 3:17 | 2021-11-01 |  |
 | [Over Me By Now](https://open.spotify.com/track/3ZPkLItrom6ntZ3ZKWMFIr) | [Sam Grow](https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs) | [Over Me By Now](https://open.spotify.com/album/35E0ok8zLcSoYhUGQG8EeW) | 2:41 | 2022-08-26 |  |
@@ -164,7 +165,7 @@
 | [Trailer Park](https://open.spotify.com/track/5rUC54BQV0Zhj0iIxcNYne) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Greenbroke](https://open.spotify.com/album/4Y0V2f8zZ53O0mF9nL1ine) | 3:38 | 2022-03-11 |  |
 | [Train](https://open.spotify.com/track/1ytcL1DNTMly6tmYUrAdPl) | [Manny Blu](https://open.spotify.com/artist/7aJZYok9DZVunBme9WSJbA) | [Train](https://open.spotify.com/album/7DTwUXHYldOBfkGqbyGgGZ) | 2:57 | 2021-11-01 |  |
 | [Trouble With Angels](https://open.spotify.com/track/3BaVluQUA7ajqvFIp1iSkl) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [Trouble With Angels](https://open.spotify.com/album/30PgSxZ5SpbUlJB6RjDmfo) | 3:15 | 2021-11-01 | 2022-07-09 |
-| [Truck In The Yard](https://open.spotify.com/track/2kQ0IAbyOu2OEI9qGwkqbQ) | [Sam Grow](https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs) | [Truck In The Yard](https://open.spotify.com/album/5NCiBKLmmjt6mU7OrOrPoZ) | 3:02 | 2022-07-08 |  |
+| [Truck In The Yard](https://open.spotify.com/track/2kQ0IAbyOu2OEI9qGwkqbQ) | [Sam Grow](https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs) | [Truck In The Yard](https://open.spotify.com/album/5NCiBKLmmjt6mU7OrOrPoZ) | 3:02 | 2022-07-08 | 2022-08-30 |
 | [Tumbling Down](https://open.spotify.com/track/2xSyFh6jZSMxzK0yoQGglx) | [Nashvillains](https://open.spotify.com/artist/72zURLJbsKSs1i89kP8ZaL) | [Tumbling Down](https://open.spotify.com/album/3V0czn2onTZVwPrQtdCDfe) | 3:43 | 2021-11-01 | 2022-07-27 |
 | [Up to Me](https://open.spotify.com/track/45eogTRy1OqfhJ2KQaOL2W) | [Cole Barnhill](https://open.spotify.com/artist/5GSj8dI3aMmrgvirpf0oOs) | [Up to Me](https://open.spotify.com/album/5vqC9GDUqWT1f6PDzPjwO4) | 4:02 | 2022-02-11 | 2022-07-22 |
 | [Up To No Good](https://open.spotify.com/track/1ONzSL8Plw5xoFmmDPl0zA) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Up To No Good](https://open.spotify.com/album/0kqS0orSS5DX8QseZAPAQW) | 2:13 | 2022-07-22 |  |

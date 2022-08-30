@@ -4,7 +4,7 @@
 
 > Keep it low\-key with all of today's chill pop\. Cover: Benjamin Gibbard & Noah Cyrus
 
-1,032 songs - 2 day 6 hr 43 min - [published](https://open.spotify.com/playlist/6isU2kXFblpGeacMELfavp)
+1,033 songs - 2 day 6 hr 46 min - [published](https://open.spotify.com/playlist/6isU2kXFblpGeacMELfavp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -753,6 +753,7 @@
 | [rest in peace](https://open.spotify.com/track/20ACQf24bEwSVnKAhVfH5u) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [rest in peace](https://open.spotify.com/album/0sE1YP1nRz29DgpaogCRsE) | 3:11 | 2022-05-20 | 2022-08-06 |
 | [Rockland](https://open.spotify.com/track/2fooMOezILHFlxkCqq3RRm) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Rockland](https://open.spotify.com/album/58I32Uh5uNYLKSkrzIufBo) | 3:37 | 2021-10-23 | 2022-01-15 |
 | [Roll The Dice](https://open.spotify.com/track/3CDtSNMuw0ZCPrEONSgMwQ) | [Julyan](https://open.spotify.com/artist/10ifu6MiIcrhdrUEWJsACG) | [Roll The Dice](https://open.spotify.com/album/2qeJ4NanCcjwDPBjEsA1uB) | 4:02 | 2020-12-04 | 2021-01-15 |
+| [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-08-29 |  |
 | [Rooftops](https://open.spotify.com/track/0M8LvMw5ARqPvBGALIBLoM) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Rooftops](https://open.spotify.com/album/60j4yeYZl6vPOcDGtWIxVc) | 3:00 | 2022-07-29 |  |
 | [Room in the Desert](https://open.spotify.com/track/0dWNMfDfQaEayowTkCSXj8) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Room in the Desert](https://open.spotify.com/album/0Cyk0SwGH4voYoT9o10U74) | 2:57 | 2022-01-21 | 2022-07-02 |
 | [ROSS AND RACHEL](https://open.spotify.com/track/24T8Hsoq9cYvGRD1Elei93) | [Jake Miller](https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t) | [ROSS AND RACHEL](https://open.spotify.com/album/5Rilc7td7EyqCvtLJWgUAG) | 3:12 | 2020-08-21 | 2020-12-04 |
@@ -842,7 +843,7 @@
 | [Stealing All My Friends](https://open.spotify.com/track/5UiBcv3HW0hIshBrOQxY2q) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Stealing All My Friends](https://open.spotify.com/album/5gOHjDCfex1LV4MbKIUM97) | 2:41 | 2020-06-29 | 2020-07-31 |
 | [Step On Flowers](https://open.spotify.com/track/7156NTCsRSyw7A2si4sm5e) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [CHAPTER 3: The Burning](https://open.spotify.com/album/4mqEv4XT01WQm45HTqgOEK) | 3:33 | 2022-07-15 | 2022-08-13 |
 | [Stick Season](https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju) | 3:02 | 2022-07-20 |  |
-| [Still Something](https://open.spotify.com/track/1ZpcmirRaGcNWhvhkg3nYX) | [Suriel Hess](https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G) | [Still Something](https://open.spotify.com/album/010yX6iIbqs59x29SwwUaG) | 3:08 | 2022-01-07 |  |
+| [Still Something](https://open.spotify.com/track/1ZpcmirRaGcNWhvhkg3nYX) | [Suriel Hess](https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G) | [Still Something](https://open.spotify.com/album/010yX6iIbqs59x29SwwUaG) | 3:08 | 2022-01-07 | 2022-08-30 |
 | [Still the Same \(feat\. Boy In Space\)](https://open.spotify.com/track/0f8xPdFJ6SdlHJwkxpdw2Q) | [SHY Martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM), [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Still the Same \(feat\. Boy In Space\)](https://open.spotify.com/album/15a2L2owp0WoKIMfcwncLc) | 2:58 | 2020-05-16 | 2020-10-09 |
 | [Stoned at the Nail Salon](https://open.spotify.com/track/0WLVSnKqQBK4UPom1TESHK) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Stoned at the Nail Salon](https://open.spotify.com/album/1LPqrRp0TeRO7hO1SYF08y) | 4:26 | 2021-07-24 | 2021-09-11 |
 | [Stop](https://open.spotify.com/track/1iCVw7fVBPdEzPibIQ0JCv) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [STOP](https://open.spotify.com/album/6BqOPE7vLLZaFNUtUuZGGy) | 2:57 | 2021-04-10 | 2021-06-12 |

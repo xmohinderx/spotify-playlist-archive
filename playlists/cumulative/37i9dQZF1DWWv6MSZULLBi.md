@@ -4,7 +4,7 @@
 
 > A laid\-back trip in the folk scene\. Cover: Ocie Elliott
 
-180 songs - 10 hr 43 min - [published](https://open.spotify.com/playlist/5U0EeaLNxWf1VoBuo6txNc)
+181 songs - 10 hr 47 min - [published](https://open.spotify.com/playlist/5U0EeaLNxWf1VoBuo6txNc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Coming Home](https://open.spotify.com/track/3cThhPUrZb0kCyMP16wuCq) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Coming Home](https://open.spotify.com/album/4eYQjUjsAlXey57Roncuyk) | 3:11 | 2022-05-13 | 2022-05-20 |
 | [Coming Like A Storm](https://open.spotify.com/track/21ZZoNpWAzqYgiTJdAZ23X) | [Reuben And The Dark](https://open.spotify.com/artist/6eXJslu7IJJ6Ej8Czbd0iO) | [Coming Like A Storm](https://open.spotify.com/album/6EzioNrB5s89cA1CSYao1i) | 3:21 | 2022-06-10 |  |
 | [Coming Up](https://open.spotify.com/track/6kLUzaC1PDhDwxe2zIrp6i) | [Close Kicks](https://open.spotify.com/artist/3pQw5S2Z06nDHl0s2p7Ooq) | [Coming Up](https://open.spotify.com/album/1J6XWZjv2b4aqpnQl6h5bd) | 4:21 | 2022-05-13 | 2022-08-20 |
+| [complex \(demo\)](https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex \(demo\)](https://open.spotify.com/album/4iHBCJPZUha2xs84jNZ4jc) | 4:16 | 2022-08-29 |  |
 | [Cracks](https://open.spotify.com/track/2vovZwFq9eACQxg13nf0FM) | [Carsen Gray](https://open.spotify.com/artist/2Rghdsv4GA0dvKqLAnAWZs) | [Cracks](https://open.spotify.com/album/3UCB6Yiedq3l9dMVo9ouCZ) | 3:25 | 2022-05-13 | 2022-06-11 |
 | [Cry to Me](https://open.spotify.com/track/6I3c7dNXtPrt0xucHpYtCS) | [Carsen Gray](https://open.spotify.com/artist/2Rghdsv4GA0dvKqLAnAWZs) | [Cry to Me](https://open.spotify.com/album/6pR5d6Noj2nN4tXc0h8KOd) | 3:12 | 2022-08-26 |  |
 | [Curbside Panic Attack](https://open.spotify.com/track/1W6saqdXAZm7QParxRP0zy) | [Ten Kills the Pack](https://open.spotify.com/artist/73avNAcHbfmgcSGEjKit9l) | [Curbside Panic Attack](https://open.spotify.com/album/2lSqcmYDu27FvxDXh2fCuG) | 3:26 | 2022-05-20 | 2022-08-06 |
@@ -85,7 +86,7 @@
 | [Leave When You Go](https://open.spotify.com/track/0SXeE6kClNXeYd4o5blyZZ) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti), [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Big Hurt Boy](https://open.spotify.com/album/7h0oaV6ce42bamO6hkywcz) | 3:30 | 2022-05-13 | 2022-06-25 |
 | [Leave You Lonely](https://open.spotify.com/track/4rMaibSlgAUHJD9myTJrKD) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Leave You Lonely](https://open.spotify.com/album/19bm8NFFMHcj3QaqBfq9Es) | 4:24 | 2022-08-19 |  |
 | [Left Behind](https://open.spotify.com/track/1YtdAhBzYibqmqc6uILz8w) | [Noah Reid](https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT) | [Adjustments](https://open.spotify.com/album/4yUmdXZO5MItU75tgCDdaA) | 3:37 | 2022-06-24 |  |
-| [Let Go](https://open.spotify.com/track/6C4iAGKybEdevddZklaxpX) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Let Go](https://open.spotify.com/album/24lCE3skRS14egP6xhAIjr) | 3:02 | 2022-05-13 |  |
+| [Let Go](https://open.spotify.com/track/6C4iAGKybEdevddZklaxpX) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Let Go](https://open.spotify.com/album/24lCE3skRS14egP6xhAIjr) | 3:02 | 2022-05-13 | 2022-08-30 |
 | [Let Me Drown](https://open.spotify.com/track/62hBYWGwzo2fb4THTsNnKA) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco](https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I) | 3:19 | 2022-05-13 | 2022-08-27 |
 | [Lost In The Water](https://open.spotify.com/track/3sW1rJ2twqyUKXu5iHqgGK) | [Adam Wendler](https://open.spotify.com/artist/3ea4XDPCrAm68rpImApb94) | [Lost In The Water](https://open.spotify.com/album/5nG0Wogo87eozwXnKHjXJ4) | 3:10 | 2022-07-01 |  |
 | [Lotusland](https://open.spotify.com/track/3sK6qdQsZvPjRkua3UrSGD) | [Jordan Klassen](https://open.spotify.com/artist/70QS2gTlkKW2rNjlmMBNp8) | [Glossolalia](https://open.spotify.com/album/66hCqmyDrUMjZrooeuG1PM) | 3:21 | 2022-05-13 |  |

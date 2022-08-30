@@ -4,7 +4,7 @@
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。毎週月曜日更新。Cover: yama
 
-433 songs - 1 day 3 hr 8 min - [published](https://open.spotify.com/playlist/2sQ5Fh8iNKxcYtrG1CztwE)
+434 songs - 1 day 3 hr 11 min - [published](https://open.spotify.com/playlist/2sQ5Fh8iNKxcYtrG1CztwE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [kabin](https://open.spotify.com/track/4jUywzQdvP3CJjJ4BfeDif) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [NEW BORN GHOST](https://open.spotify.com/album/0iRuZp1ClTJ1HIKPihHv8s) | 3:27 | 2022-07-25 | 2022-08-01 |
 | [Landscape](https://open.spotify.com/track/1cvluyKT1Iw1NZGGUgQ8u4) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Landscape](https://open.spotify.com/album/1MwodpSl0YAbklUKWwqitl) | 3:51 | 2022-01-02 | 2022-01-24 |
 | [Le Penseur](https://open.spotify.com/track/0FTuYACjywpTTY5IyEJKv5) | [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ) | [Le Penseur](https://open.spotify.com/album/4fqkW8OxKluaCiDPmVSDbB) | 2:50 | 2022-01-02 | 2022-01-15 |
+| [Let Me Let You Go \- Japanese Version](https://open.spotify.com/track/4kvYYgoKbVblOo7lPfJWf2) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Let Me Let You Go](https://open.spotify.com/album/4DSQT7lIc5Unlz6LoyBPzI) | 3:00 | 2022-08-29 |  |
 | [Life still goes on](https://open.spotify.com/track/6gtvI5tGM2H4jpg5kNvULL) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [Life still goes on](https://open.spotify.com/album/1s10852zhLGEoWZCFAU7Jl) | 3:27 | 2022-01-16 | 2022-02-14 |
 | [Link Up](https://open.spotify.com/track/08fh3LXCZvDV6jgGwC2Usf) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [Queendom](https://open.spotify.com/album/4jj5K8UuV6fBOHj4nOCOON) | 3:44 | 2022-04-06 | 2022-04-25 |
 | [Live in the Moment](https://open.spotify.com/track/0191FF9MiuL3tYETgZp3hq) | [MORISAKI WIN](https://open.spotify.com/artist/289Ot2yPeAD9g1epQ6NBwi) | [Live in the Moment](https://open.spotify.com/album/3PUeayunw146ZQ70afPmhw) | 3:00 | 2022-03-06 | 2022-04-04 |
@@ -155,7 +156,7 @@
 | [Rock The World](https://open.spotify.com/track/0esOEHmStYyPNMEU3HwBza) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [Rock The World](https://open.spotify.com/album/1yto3mv5m93z2D70KxP8mw) | 4:29 | 2022-02-13 | 2022-03-21 |
 | [Sakura Melody](https://open.spotify.com/track/58X0wJ6zRO6IVTte6sAoI3) | [Noriyuki Makihara](https://open.spotify.com/artist/3vVDusnDA0LcPH3NvZpoyM) | [Bespoke](https://open.spotify.com/album/2v2RisWi4IYonFZppS8tSD) | 5:01 | 2022-03-06 | 2022-03-28 |
 | [Save Yourself](https://open.spotify.com/track/1B04DTxiZUA5QW9Zxe1IEJ) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Save Yourself](https://open.spotify.com/album/00h2yL9yVQdjxPqC3n3Qqw) | 3:17 | 2022-06-26 | 2022-07-29 |
-| [Save Yourself \- Japanese Version](https://open.spotify.com/track/2noRPwBUD3h98s09YuxHf9) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Save Yourself](https://open.spotify.com/album/1xs19Gxdqwyb3jfNQlEOUo) | 3:17 | 2022-07-25 |  |
+| [Save Yourself \- Japanese Version](https://open.spotify.com/track/2noRPwBUD3h98s09YuxHf9) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Save Yourself](https://open.spotify.com/album/1xs19Gxdqwyb3jfNQlEOUo) | 3:17 | 2022-07-25 | 2022-08-30 |
 | [Sayonara Sunset](https://open.spotify.com/track/03HdMAmtwmkM4fA0nF1Eyp) | [RIP SLYME](https://open.spotify.com/artist/5kgH3qVSSDPPmKnQfrkblH), [Emi Okamoto](https://open.spotify.com/artist/20RZYpmOiZTCdkl4c5u4li) | [Sayonara Sunset](https://open.spotify.com/album/5NSvUnrSHQTbzzrNJKFAms) | 4:19 | 2022-08-07 | 2022-08-29 |
 | [SCIENTIST \- Japanese ver.](https://open.spotify.com/track/0oFE8NlomVrCxhgVZ5FsuE) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [SCIENTIST \(Japanese ver.\)](https://open.spotify.com/album/4Fv22ltDAUSeyboT0e7xnK) | 3:16 | 2022-03-06 | 2022-03-21 |
 | [Scratch](https://open.spotify.com/track/1ydPcEQXyiTD5FrK4oD7w8) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS), [Koshi Inaba](https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls) | [Scratch](https://open.spotify.com/album/0OXWfiuTWqxgavDwqPfSLC) | 4:25 | 2022-02-20 | 2022-03-21 |

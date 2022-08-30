@@ -2,7 +2,7 @@
 
 ### [Indie Favourites](https://open.spotify.com/playlist/37i9dQZF1DXcZ6y0ulQ9Gz)
 
-> Those songs you just love to love\. Cover: Arcade Fire
+> Those songs you just love to love\. Cover: Men I Trust
 
 575 songs - 1 day 11 hr 1 min - [published](https://open.spotify.com/playlist/6qnKxviUrnCHtUvVMRpVlO)
 

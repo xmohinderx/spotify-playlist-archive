@@ -1,28 +1,32 @@
 {
   "description": "The best in classic and new UK Funky. Cover: Roska",
-  "num_followers": 95722,
+  "num_followers": 95711,
   "original_name": "UK Funky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTg2MjE4MiwwMDAwMDAwMDM1OTQ4MjVlZDFhNWQ4MTY2NTdhMmU2ZjQ5ZmVmZWFj",
+  "snapshot_id": "MTY0OTg2MjE4MiwwMDAwMDAwMDZlNmIxNmQzMmYxOTUxMWJmMTkyNzY1MzEwZjM0MDQz",
   "tracks": [
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
-        "name": "Turn Me On / Come To Me",
-        "url": "https://open.spotify.com/album/2wVWjbRa5CuecQyf9Iu6en"
+        "name": "The Cure & The Cause (Radio Edit)",
+        "url": "https://open.spotify.com/album/4O082xEh8tgidqkcNKrVEN"
       },
       "artists": [
         {
-          "name": "Black Coffee",
-          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+          "name": "Fish Go Deep",
+          "url": "https://open.spotify.com/artist/0fOlkKkWVb6gOtwUXL2i0y"
+        },
+        {
+          "name": "Tracey K",
+          "url": "https://open.spotify.com/artist/2RG9WXLhvCaeGE3gFaAAZg"
         }
       ],
-      "duration_ms": 445746,
-      "name": "Turn Me On",
-      "url": "https://open.spotify.com/track/7aUlBqAHppttybHHYrefZk"
+      "duration_ms": 157040,
+      "name": "The Cure & The Cause - Radio Edit",
+      "url": "https://open.spotify.com/track/2aYryJEl86lIZWCS6X1CUm"
     },
     {
       "added_at": "2022-04-13 15:03:02",
@@ -47,22 +51,18 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
-        "name": "The Cure & The Cause (Radio Edit)",
-        "url": "https://open.spotify.com/album/4O082xEh8tgidqkcNKrVEN"
+        "name": "Turn Me On / Come To Me",
+        "url": "https://open.spotify.com/album/2wVWjbRa5CuecQyf9Iu6en"
       },
       "artists": [
         {
-          "name": "Fish Go Deep",
-          "url": "https://open.spotify.com/artist/0fOlkKkWVb6gOtwUXL2i0y"
-        },
-        {
-          "name": "Tracey K",
-          "url": "https://open.spotify.com/artist/2RG9WXLhvCaeGE3gFaAAZg"
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
         }
       ],
-      "duration_ms": 157040,
-      "name": "The Cure & The Cause - Radio Edit",
-      "url": "https://open.spotify.com/track/2aYryJEl86lIZWCS6X1CUm"
+      "duration_ms": 445746,
+      "name": "Turn Me On",
+      "url": "https://open.spotify.com/track/7aUlBqAHppttybHHYrefZk"
     },
     {
       "added_at": "2022-04-13 15:03:02",
@@ -623,18 +623,22 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
-        "name": "Logic1000",
-        "url": "https://open.spotify.com/album/7fZTnHD6lSqDSJdKw1bHGn"
+        "name": "Bongo Jam",
+        "url": "https://open.spotify.com/album/6xWb3uW2YtedtmnBWYKUMN"
       },
       "artists": [
         {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+          "name": "Crazy Cousinz",
+          "url": "https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr"
+        },
+        {
+          "name": "Calista",
+          "url": "https://open.spotify.com/artist/6A2nY049pOVi16IhBf5Ui2"
         }
       ],
-      "duration_ms": 247402,
-      "name": "Baddie Part Two",
-      "url": "https://open.spotify.com/track/6E7XIQi34rNTNfyNPOK59l"
+      "duration_ms": 461960,
+      "name": "Bongo Jam - Club Mix",
+      "url": "https://open.spotify.com/track/43MvSFYL99yAvRi4a3Ln8U"
     },
     {
       "added_at": "2022-04-13 15:03:02",
@@ -659,22 +663,18 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
-        "name": "Bongo Jam",
-        "url": "https://open.spotify.com/album/6xWb3uW2YtedtmnBWYKUMN"
+        "name": "Logic1000",
+        "url": "https://open.spotify.com/album/7fZTnHD6lSqDSJdKw1bHGn"
       },
       "artists": [
         {
-          "name": "Crazy Cousinz",
-          "url": "https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr"
-        },
-        {
-          "name": "Calista",
-          "url": "https://open.spotify.com/artist/6A2nY049pOVi16IhBf5Ui2"
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
         }
       ],
-      "duration_ms": 461960,
-      "name": "Bongo Jam - Club Mix",
-      "url": "https://open.spotify.com/track/43MvSFYL99yAvRi4a3Ln8U"
+      "duration_ms": 247402,
+      "name": "Baddie Part Two",
+      "url": "https://open.spotify.com/track/6E7XIQi34rNTNfyNPOK59l"
     },
     {
       "added_at": "2022-04-13 15:03:02",
@@ -719,6 +719,22 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
+        "name": "Narst / Love Dub",
+        "url": "https://open.spotify.com/album/14AlAp96M3GOiLoGSdeAYu"
+      },
+      "artists": [
+        {
+          "name": "Cooly G",
+          "url": "https://open.spotify.com/artist/0XfcR8jVPEm77dOJEN9tvq"
+        }
+      ],
+      "duration_ms": 215706,
+      "name": "Love Dub",
+      "url": "https://open.spotify.com/track/2T4eUTOuEXnUWsQVyPzdGf"
+    },
+    {
+      "added_at": "2022-04-13 15:03:02",
+      "album": {
         "name": "My Circle (Remix)",
         "url": "https://open.spotify.com/album/3IrXZ0zBVpZCk62OaQg4AS"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 260000,
       "name": "My Circle - Remix",
       "url": "https://open.spotify.com/track/7gDEIbmCStEGzICfqOTWeJ"
-    },
-    {
-      "added_at": "2022-04-13 15:03:02",
-      "album": {
-        "name": "Narst / Love Dub",
-        "url": "https://open.spotify.com/album/14AlAp96M3GOiLoGSdeAYu"
-      },
-      "artists": [
-        {
-          "name": "Cooly G",
-          "url": "https://open.spotify.com/artist/0XfcR8jVPEm77dOJEN9tvq"
-        }
-      ],
-      "duration_ms": 215706,
-      "name": "Love Dub",
-      "url": "https://open.spotify.com/track/2T4eUTOuEXnUWsQVyPzdGf"
     },
     {
       "added_at": "2022-04-13 15:03:02",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
-        "name": "Party Hard",
-        "url": "https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV"
-      },
-      "artists": [
-        {
-          "name": "Donae'o",
-          "url": "https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp"
-        }
-      ],
-      "duration_ms": 258866,
-      "name": "African Warrior",
-      "url": "https://open.spotify.com/track/6dL3LxoLp1NBK4DsoE6phw"
-    },
-    {
-      "added_at": "2022-04-13 15:03:02",
-      "album": {
         "name": "3:33",
         "url": "https://open.spotify.com/album/6DzzvDoOqxVBuUmAniObKb"
       },
@@ -931,22 +915,6 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
-        "name": "Firepower EP",
-        "url": "https://open.spotify.com/album/4o2FL2jtRxupHPOGX7Af5U"
-      },
-      "artists": [
-        {
-          "name": "DJ Naughty",
-          "url": "https://open.spotify.com/artist/5SThGnsHuNHE99IzvbfKgo"
-        }
-      ],
-      "duration_ms": 439466,
-      "name": "Quicktime - Roska Remix",
-      "url": "https://open.spotify.com/track/1FDicxg7GVUtCqhF4xgdcI"
-    },
-    {
-      "added_at": "2022-04-13 15:03:02",
-      "album": {
         "name": "Best Of Bizzle",
         "url": "https://open.spotify.com/album/6Kdsrh31egVDwdWFNKb6XW"
       },
@@ -963,6 +931,38 @@
       "duration_ms": 212500,
       "name": "Go Hard",
       "url": "https://open.spotify.com/track/4K9QL2YtsACZbgSePiGnvj"
+    },
+    {
+      "added_at": "2022-04-13 15:03:02",
+      "album": {
+        "name": "Party Hard",
+        "url": "https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV"
+      },
+      "artists": [
+        {
+          "name": "Donae'o",
+          "url": "https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp"
+        }
+      ],
+      "duration_ms": 258866,
+      "name": "African Warrior",
+      "url": "https://open.spotify.com/track/6dL3LxoLp1NBK4DsoE6phw"
+    },
+    {
+      "added_at": "2022-04-13 15:03:02",
+      "album": {
+        "name": "Firepower EP",
+        "url": "https://open.spotify.com/album/4o2FL2jtRxupHPOGX7Af5U"
+      },
+      "artists": [
+        {
+          "name": "DJ Naughty",
+          "url": "https://open.spotify.com/artist/5SThGnsHuNHE99IzvbfKgo"
+        }
+      ],
+      "duration_ms": 439466,
+      "name": "Quicktime - Roska Remix",
+      "url": "https://open.spotify.com/track/1FDicxg7GVUtCqhF4xgdcI"
     },
     {
       "added_at": "2022-04-13 15:03:02",

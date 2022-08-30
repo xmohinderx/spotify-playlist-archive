@@ -4,7 +4,7 @@
 
 > Feel\-good Afropop from Europe and Africa\. Cover:  Fireboy DML
 
-202 songs - 10 hr 32 min - [published](https://open.spotify.com/playlist/1dEBeASsRuQMcB6nFV6Y3W)
+203 songs - 10 hr 35 min - [published](https://open.spotify.com/playlist/1dEBeASsRuQMcB6nFV6Y3W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Méchante](https://open.spotify.com/track/5k5duWxo5HqhetBe6ucgZJ) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Méchante](https://open.spotify.com/album/1k6MS0e5EMEkCDZ88fiLQ5) | 2:51 | 2022-06-30 | 2022-08-26 |
 | [Mélodie](https://open.spotify.com/track/2kDTpQZdRcBVNXJVyVePAy) | [Sifoor](https://open.spotify.com/artist/0dSAqgiskNQy5Kr6aRDiZj) | [O'bosso, Vol\. 2 \(Afro Swing Don Edition\)](https://open.spotify.com/album/3FgQafXs5a8qM9ZuhUF4RH) | 2:49 | 2022-03-10 | 2022-03-16 |
 | [Mélodie \(Tatami\)](https://open.spotify.com/track/78cYGQUXUNS5LZuNRzeqk7) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Ronisia](https://open.spotify.com/album/5T2XIptVJAJM0KIs6aWxWo) | 2:20 | 2022-02-10 | 2022-06-24 |
+| [No No No](https://open.spotify.com/track/6m7iJFdgcvd200qJtSa8Wx) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [No No No](https://open.spotify.com/album/2RLByuKYaFE5awZkpjK03m) | 2:35 | 2022-08-29 |  |
 | [No Wahala](https://open.spotify.com/track/4vHy2IHzf3EabEa7oMpUZB) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Original Vibe Machine](https://open.spotify.com/album/4lPTjESEvOe5pvtLbralQ3) | 2:42 | 2022-01-13 | 2022-07-22 |
 | [Nzoto](https://open.spotify.com/track/2TXxYgXnKnq3qJTXclJHTj) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Nzoto](https://open.spotify.com/album/5g1MSyNcRhNKQroEZ8MKOR) | 4:38 | 2021-12-27 | 2022-02-04 |
 | [o'dun](https://open.spotify.com/track/5e6Em24aptMFZaDCsvBJpu) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [God's Timing’s the Best](https://open.spotify.com/album/24dNVB3ThSVZWsTO5KhBc7) | 2:35 | 2022-06-02 | 2022-07-29 |

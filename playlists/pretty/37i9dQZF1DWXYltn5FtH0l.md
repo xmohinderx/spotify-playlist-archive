@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYltn5FtH0l.md) - [plain]
 
 > Feel 'New Establish Style Tempo' in here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,149 likes - 74 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,148 likes - 74 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYltn5FtH0l.md) - [plain]
 | 40 | [EMOTION](https://open.spotify.com/track/1uTan6HW4hpzjIj4pCvmnQ) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [Q is.](https://open.spotify.com/album/1yEqdlEIUIU2SBrsenDYIv) | 4:00 |
 | 41 | [Pretty \(feat.YOOARA \(HELLOVENUS\)\)](https://open.spotify.com/track/2zrjUMPxZP12xRIcHkZbPN) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ), [YOOARA](https://open.spotify.com/artist/5iAn0QrNJEo8uYvHPfdYzi) | [THE 3rd MINI ALBUM / Sleep Talking](https://open.spotify.com/album/4RH9G7CTNObHGVty9cHkPH) | 3:17 |
 | 42 | [Special message from BAEKHO](https://open.spotify.com/track/1m6QuuLaNPLhB2PDgp9xyD) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [Romanticize \- Special Message](https://open.spotify.com/album/659HbB1fY1fl4eQzmHhIEr) | 0:23 |
-| 43 | [Daybreak](https://open.spotify.com/track/0hK90i73D6LlCXrSIVw70e) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The 5th Mini Album 'CANVAS'](https://open.spotify.com/album/2kol4AtxVszuo0MJoqoJ5R) | 3:41 |
+| 43 | [Daybreak \(Minhyun&JR\)](https://open.spotify.com/track/0hK90i73D6LlCXrSIVw70e) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The 5th Mini Album 'CANVAS'](https://open.spotify.com/album/2kol4AtxVszuo0MJoqoJ5R) | 3:41 |
 | 44 | [ONE TWO THREE](https://open.spotify.com/track/3RUQVCoM6AZh7eJcZS8Mgk) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The Table](https://open.spotify.com/album/3Xe14CrDVjcP5ZSbQJ1q1r) | 3:23 |
 | 45 | [Best Summer \(with Spoonz\)](https://open.spotify.com/track/04P2jFQ31gFglK4vYwYUJA) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [Best Summer \(with Spoonz\)](https://open.spotify.com/album/0G5AtGOvDgO9or0J9sj9kp) | 3:34 |
 | 46 | [LOVE ME](https://open.spotify.com/track/0KgTsGLSsbCL69K91pCQ9k) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The Table](https://open.spotify.com/album/3Xe14CrDVjcP5ZSbQJ1q1r) | 3:03 |

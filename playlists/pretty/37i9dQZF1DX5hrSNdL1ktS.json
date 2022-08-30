@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX. Foto: Big Soto, Be\u00e9le",
-  "num_followers": 55131,
+  "num_followers": 55139,
   "original_name": "Urbano Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMDk5MzcyMTY0MDM4OWIyZjQ5YTNiYmM3ZTY1ODUwZTEz",
+  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMDQxNDQ3NmYxYmI0ZWE2N2MzYTE5YWYyODBjOWY2Njkz",
   "tracks": [
     {
       "added_at": "2022-08-26 04:02:00",
@@ -211,22 +211,18 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Pa' Eso Se Hizo",
-        "url": "https://open.spotify.com/album/5pZsQEEC6uSa7zvJst7tSN"
+        "name": "INESTABLE",
+        "url": "https://open.spotify.com/album/2m45lXuEtPji0HTrS3Vdw3"
       },
       "artists": [
         {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+          "name": "Callejo",
+          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
         }
       ],
-      "duration_ms": 149600,
-      "name": "Pa' Eso Se Hizo",
-      "url": "https://open.spotify.com/track/1LdMkXElKMDTB8mvgyvTKe"
+      "duration_ms": 148000,
+      "name": "INESTABLE",
+      "url": "https://open.spotify.com/track/4Uxd6PAp9jeau7FfA22RIc"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -247,22 +243,6 @@
       "duration_ms": 246780,
       "name": "Equivocado",
       "url": "https://open.spotify.com/track/371Q3sLN68N4rwkw4ObnTp"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "INESTABLE",
-        "url": "https://open.spotify.com/album/2m45lXuEtPji0HTrS3Vdw3"
-      },
-      "artists": [
-        {
-          "name": "Callejo",
-          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "INESTABLE",
-      "url": "https://open.spotify.com/track/4Uxd6PAp9jeau7FfA22RIc"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -299,42 +279,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Uy K Raro",
-        "url": "https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn"
-      },
-      "artists": [
-        {
-          "name": "Mont",
-          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
-        }
-      ],
-      "duration_ms": 127264,
-      "name": "Uy K Raro",
-      "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Ya No Somos",
-        "url": "https://open.spotify.com/album/5CGjusSMsLJwCCe0rn2cv8"
-      },
-      "artists": [
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 189152,
-      "name": "Ya No Somos",
-      "url": "https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "Necesito un Break de Tanta Pendejad*",
         "url": "https://open.spotify.com/album/3Xk7qVeD5ygv9rr8kokjUT"
       },
@@ -355,6 +299,26 @@
       "duration_ms": 178741,
       "name": "Necesito un Break de Tanta Pendejad*",
       "url": "https://open.spotify.com/track/3gLTUkkHiWnbvG49FByvp2"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Pa' Eso Se Hizo",
+        "url": "https://open.spotify.com/album/5pZsQEEC6uSa7zvJst7tSN"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        }
+      ],
+      "duration_ms": 149600,
+      "name": "Pa' Eso Se Hizo",
+      "url": "https://open.spotify.com/track/1LdMkXElKMDTB8mvgyvTKe"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -411,22 +375,18 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Salvaje",
-        "url": "https://open.spotify.com/album/52ZUclHV8eBvrdRMsfGjkb"
+        "name": "Uy K Raro",
+        "url": "https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn"
       },
       "artists": [
         {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Ely Blancarte",
-          "url": "https://open.spotify.com/artist/1IncEJiDn0fbUO0rDQkqB2"
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
         }
       ],
-      "duration_ms": 177570,
-      "name": "Salvaje",
-      "url": "https://open.spotify.com/track/0KLIB8E9BhIE9FTqFeu3a7"
+      "duration_ms": 127264,
+      "name": "Uy K Raro",
+      "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -451,18 +411,22 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Las Gatas",
-        "url": "https://open.spotify.com/album/56FZSurIclX1C9JLm9px0n"
+        "name": "Ya No Somos",
+        "url": "https://open.spotify.com/album/5CGjusSMsLJwCCe0rn2cv8"
       },
       "artists": [
         {
-          "name": "Mont",
-          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
         }
       ],
-      "duration_ms": 146303,
-      "name": "Las Gatas",
-      "url": "https://open.spotify.com/track/1QCSrngkMfPKJJN88VbXhH"
+      "duration_ms": 189152,
+      "name": "Ya No Somos",
+      "url": "https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -543,6 +507,34 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
+        "name": "Me Doli\u00f3",
+        "url": "https://open.spotify.com/album/6bXPqEZYKWCRzZrq5a44Z2"
+      },
+      "artists": [
+        {
+          "name": "Alan Jacques",
+          "url": "https://open.spotify.com/artist/1fcB4CTiWJ7MSN1oJHQbBE"
+        },
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Kid Gallo",
+          "url": "https://open.spotify.com/artist/1dpQRfqTZe2OmBhR01lD0c"
+        },
+        {
+          "name": "Amador",
+          "url": "https://open.spotify.com/artist/6qZVFsb2jVenTxZ3NBGnNv"
+        }
+      ],
+      "duration_ms": 163608,
+      "name": "Me Doli\u00f3",
+      "url": "https://open.spotify.com/track/6GohKuqUmoVmuZJ148PEjN"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
         "name": "hembrismo",
         "url": "https://open.spotify.com/album/1BI2alnlw8r7uaFFjDGZur"
       },
@@ -571,6 +563,42 @@
       "duration_ms": 223000,
       "name": "hebilla",
       "url": "https://open.spotify.com/track/5JWnIfs6jmUAJzx1HKJlEr"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Las Gatas",
+        "url": "https://open.spotify.com/album/56FZSurIclX1C9JLm9px0n"
+      },
+      "artists": [
+        {
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+        }
+      ],
+      "duration_ms": 146303,
+      "name": "Las Gatas",
+      "url": "https://open.spotify.com/track/1QCSrngkMfPKJJN88VbXhH"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Salvaje",
+        "url": "https://open.spotify.com/album/52ZUclHV8eBvrdRMsfGjkb"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Ely Blancarte",
+          "url": "https://open.spotify.com/artist/1IncEJiDn0fbUO0rDQkqB2"
+        }
+      ],
+      "duration_ms": 177570,
+      "name": "Salvaje",
+      "url": "https://open.spotify.com/track/0KLIB8E9BhIE9FTqFeu3a7"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -615,34 +643,6 @@
       "duration_ms": 183956,
       "name": "Dm",
       "url": "https://open.spotify.com/track/2HMCrWscGOkbUel0sCW0Bp"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Me Doli\u00f3",
-        "url": "https://open.spotify.com/album/6bXPqEZYKWCRzZrq5a44Z2"
-      },
-      "artists": [
-        {
-          "name": "Alan Jacques",
-          "url": "https://open.spotify.com/artist/1fcB4CTiWJ7MSN1oJHQbBE"
-        },
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "Kid Gallo",
-          "url": "https://open.spotify.com/artist/1dpQRfqTZe2OmBhR01lD0c"
-        },
-        {
-          "name": "Amador",
-          "url": "https://open.spotify.com/artist/6qZVFsb2jVenTxZ3NBGnNv"
-        }
-      ],
-      "duration_ms": 163608,
-      "name": "Me Doli\u00f3",
-      "url": "https://open.spotify.com/track/6GohKuqUmoVmuZJ148PEjN"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Como Antes",
-        "url": "https://open.spotify.com/album/7rNprFES6lD2zMTaK2Vf2A"
-      },
-      "artists": [
-        {
-          "name": "st. Pedro",
-          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
-        }
-      ],
-      "duration_ms": 170494,
-      "name": "Como Antes",
-      "url": "https://open.spotify.com/track/1zX8ub9Zy31pkCgb2xBr4E"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "\u00daltima Cena",
         "url": "https://open.spotify.com/album/0W1PJOeAVyvlXNfarlgzw6"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 139026,
       "name": "Pa' Siempre",
       "url": "https://open.spotify.com/track/5vfTt52xIBWcTvYLYmcWuz"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Como Antes",
+        "url": "https://open.spotify.com/album/7rNprFES6lD2zMTaK2Vf2A"
+      },
+      "artists": [
+        {
+          "name": "st. Pedro",
+          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
+        }
+      ],
+      "duration_ms": 170494,
+      "name": "Como Antes",
+      "url": "https://open.spotify.com/track/1zX8ub9Zy31pkCgb2xBr4E"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -887,6 +887,22 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
+        "name": "14",
+        "url": "https://open.spotify.com/album/7jWHBDXnMcb9dG72nODTBI"
+      },
+      "artists": [
+        {
+          "name": "Siho Villalobos",
+          "url": "https://open.spotify.com/artist/5eab0u4WjbuWHcmLhvmkso"
+        }
+      ],
+      "duration_ms": 196744,
+      "name": "14",
+      "url": "https://open.spotify.com/track/7g4K0u8y6MV4t5669khiVw"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
         "name": "Mal Acompa\u00f1ada",
         "url": "https://open.spotify.com/album/6whBPpJGLiL39sq4C7p17G"
       },
@@ -903,6 +919,30 @@
       "duration_ms": 201496,
       "name": "Mal Acompa\u00f1ada",
       "url": "https://open.spotify.com/track/4RJlsx582twGDbz7H0M8XI"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "DEJA VU",
+        "url": "https://open.spotify.com/album/2C6zo81kZcH4cyp8YUMLJe"
+      },
+      "artists": [
+        {
+          "name": "Fano",
+          "url": "https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1"
+        },
+        {
+          "name": "Callejo",
+          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
+        },
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        }
+      ],
+      "duration_ms": 171690,
+      "name": "DEJA VU",
+      "url": "https://open.spotify.com/track/2w2M7YfBSDqcigZFmMpoLL"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -939,6 +979,22 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
+        "name": "Termin\u00e9 Contigo",
+        "url": "https://open.spotify.com/album/0yI1O48KJZVhmQV4mhXdf9"
+      },
+      "artists": [
+        {
+          "name": "Lamentablemente Flow",
+          "url": "https://open.spotify.com/artist/5b6Hl206aXLFcGUPx7DLSk"
+        }
+      ],
+      "duration_ms": 174629,
+      "name": "Termin\u00e9 Contigo",
+      "url": "https://open.spotify.com/track/17gA2iojI2oeb7DCiMlHCo"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
         "name": "Swipe Up",
         "url": "https://open.spotify.com/album/2nSrXIdqNv7xbENHUjYZqZ"
       },
@@ -959,62 +1015,6 @@
       "duration_ms": 212093,
       "name": "Swipe Up",
       "url": "https://open.spotify.com/track/4ShtXgPGZ6Xj0xGoK8mvkD"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "DEJA VU",
-        "url": "https://open.spotify.com/album/2C6zo81kZcH4cyp8YUMLJe"
-      },
-      "artists": [
-        {
-          "name": "Fano",
-          "url": "https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1"
-        },
-        {
-          "name": "Callejo",
-          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
-        },
-        {
-          "name": "DAAZ",
-          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
-        }
-      ],
-      "duration_ms": 171690,
-      "name": "DEJA VU",
-      "url": "https://open.spotify.com/track/2w2M7YfBSDqcigZFmMpoLL"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "14",
-        "url": "https://open.spotify.com/album/7jWHBDXnMcb9dG72nODTBI"
-      },
-      "artists": [
-        {
-          "name": "Siho Villalobos",
-          "url": "https://open.spotify.com/artist/5eab0u4WjbuWHcmLhvmkso"
-        }
-      ],
-      "duration_ms": 196744,
-      "name": "14",
-      "url": "https://open.spotify.com/track/7g4K0u8y6MV4t5669khiVw"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Termin\u00e9 Contigo",
-        "url": "https://open.spotify.com/album/0yI1O48KJZVhmQV4mhXdf9"
-      },
-      "artists": [
-        {
-          "name": "Lamentablemente Flow",
-          "url": "https://open.spotify.com/artist/5b6Hl206aXLFcGUPx7DLSk"
-        }
-      ],
-      "duration_ms": 174629,
-      "name": "Termin\u00e9 Contigo",
-      "url": "https://open.spotify.com/track/17gA2iojI2oeb7DCiMlHCo"
     },
     {
       "added_at": "2022-08-26 04:02:00",

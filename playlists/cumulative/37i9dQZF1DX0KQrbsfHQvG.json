@@ -1295,6 +1295,24 @@
     {
       "album": {
         "name": "Fear",
+        "url": "https://open.spotify.com/album/2fTbjcKyLjNYISmeXNMrn8"
+      },
+      "artists": [
+        {
+          "name": "Arrested Youth",
+          "url": "https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186475,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/4esDZrFzW7QEYBgYyFkd6y"
+    },
+    {
+      "album": {
+        "name": "Fear",
         "url": "https://open.spotify.com/album/4fu1vGlLFL0UVFnqZh6OB1"
       },
       "artists": [
@@ -1667,7 +1685,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 206373,
       "name": "Resistance",
       "url": "https://open.spotify.com/track/0pu3lMc2n982gfrBOy5880"
@@ -1779,6 +1797,24 @@
       "duration_ms": 204240,
       "name": "Riot!",
       "url": "https://open.spotify.com/track/0RLasXfUaq0alAJVYhQ9s8"
+    },
+    {
+      "album": {
+        "name": "Fear",
+        "url": "https://open.spotify.com/album/2fTbjcKyLjNYISmeXNMrn8"
+      },
+      "artists": [
+        {
+          "name": "Arrested Youth",
+          "url": "https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204240,
+      "name": "Riot!",
+      "url": "https://open.spotify.com/track/6dtEw6NRpYgHJ5PwnU5U1k"
     },
     {
       "album": {
@@ -2365,7 +2401,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 211026,
       "name": "Weather Strike",
       "url": "https://open.spotify.com/track/7o2Vk2ozntHju6LqFsXMjc"

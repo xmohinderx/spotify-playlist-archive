@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni da gridareee 🗣 blackbear in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,263 likes - 77 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,282 likes - 77 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3A421vEQpsl.md) - [plain]
 
 > Bollywood hits repackaged just for you\. Cover\- Ayushmann Khurrana, Vani kapoor, & Guru Randhawa
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,960 likes - 71 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,045 likes - 71 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3A421vEQpsl.md) - [plain]
 | 70 | [Dheere Dheere](https://open.spotify.com/track/4fyR24BKznXBLNkK8LwWla) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Dheere Dheere](https://open.spotify.com/album/5shKctJ4loVT41X1nxYkx2) | 3:32 |
 | 71 | [Tamma Tamma Again](https://open.spotify.com/track/5sqPE9h98DkO5ms20NUiUg) | [Bappi Lahiri](https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN), [Anuradha Paudwal](https://open.spotify.com/artist/4hkB2bR5ek6lJChj6aunCn), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Badrinath Ki Dulhania](https://open.spotify.com/album/26ska1StQhwbWADLTg2hky) | 3:19 |
 
-Snapshot ID: `MTY1NjkzNTg1OSwwMDAwMDAwMDdlY2VkMDU2Nzg5YjFkMWVkNzk5N2VjYTI4MTNkYTEz`
+Snapshot ID: `MTY2MTc4MjYyNCwwMDAwMDAwMDJjOTZkNzY5NWI0OTYxNzA0MWU4YTYxOTg0NTZiMDZk`

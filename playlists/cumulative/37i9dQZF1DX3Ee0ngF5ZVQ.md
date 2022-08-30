@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Pat Green
 
-346 songs - 20 hr 41 min - [published](https://open.spotify.com/playlist/4X9VlF1gslCvOG5f1Uvt9a)
+347 songs - 20 hr 45 min - [published](https://open.spotify.com/playlist/4X9VlF1gslCvOG5f1Uvt9a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Drink Straight](https://open.spotify.com/track/2FdCMLvUosqCi5ABtfNL8F) | [Colby Keeling](https://open.spotify.com/artist/2cdVR4tZs4ErwejZVTqcnL) | [Drink Straight](https://open.spotify.com/album/4kVar6beWi8Q9e4l0lv3l4) | 3:21 | 2022-05-20 | 2022-07-15 |
 | [Drink to That](https://open.spotify.com/track/5bS0EQrItTRmdNCAmdTIpG) | [Palmer Anthony](https://open.spotify.com/artist/412iPDYOYPA2pcGgdlLh5s) | [Drink to That](https://open.spotify.com/album/6JBWJvkpMTe4vxTQRT5Kqe) | 3:47 | 2021-12-17 | 2022-06-25 |
 | [Dust](https://open.spotify.com/track/3zzVwSuO5x5KB3u5gl3r5w) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Dust](https://open.spotify.com/album/63EXg2Q9oW2ZeGEpMlUtdw) | 3:06 | 2022-02-04 |  |
-| [Easy as Hello](https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Easy as Hello](https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm) | 4:39 | 2022-07-22 |  |
+| [Easy as Hello](https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Easy as Hello](https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm) | 4:39 | 2022-07-22 | 2022-08-30 |
 | [Easy on the Eyes](https://open.spotify.com/track/0xMz97Xa2QhmY6mAZqGTf5) | [Texas Hill](https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq) | [Heaven Down Here](https://open.spotify.com/album/3BRywwUQdsv5iFBZ9LajTg) | 3:35 | 2022-05-27 |  |
 | [El Paso](https://open.spotify.com/track/20UUqgUjpiEZWKW0wujOVP) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [El Paso](https://open.spotify.com/album/5MKHbKywea52kWXdbB78PD) | 3:21 | 2022-05-06 | 2022-07-29 |
 | [Empty Rooms](https://open.spotify.com/track/0QNV9mVU06bMQKiD38Nc1I) | [Justin Clyde Williams](https://open.spotify.com/artist/2os6M8Uk9phzs6NOxQrNnc) | [Empty Rooms](https://open.spotify.com/album/4OPidLkgqBWApKYlr0LV0w) | 4:08 | 2021-12-17 | 2022-03-19 |
@@ -176,7 +176,7 @@
 | [I Just Want You](https://open.spotify.com/track/2RAuxKLHNvjn9fBRJVTGqi) | [Chad Cooke Band](https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H) | [I Just Want You](https://open.spotify.com/album/7cdDtUoGbIgVDEkFaS3rA6) | 3:44 | 2022-01-28 |  |
 | [I Will Find You](https://open.spotify.com/track/05KJqisYJmofxTbwY5qWWM) | [Walt Wilkins](https://open.spotify.com/artist/7ibIGIariNNiQyafUQ6Oqg), [Tip Jar](https://open.spotify.com/artist/0efqZTMypVgrLzEb7syIOT) | [I Will Find You](https://open.spotify.com/album/2n5ktGzFUxyj8zOogB0929) | 3:24 | 2021-12-31 | 2022-03-19 |
 | [I'm Going Home](https://open.spotify.com/track/3nvZXA6csYuvqr1Y8cbkWw) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [Miles and Miles of You](https://open.spotify.com/album/07OEAlxXv9Sp0vdWYanpau) | 3:29 | 2022-08-26 |  |
-| [I'm Not Him](https://open.spotify.com/track/6nuOYIRmlyQIBZZ11Zmmr0) | [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [I'm Not Him](https://open.spotify.com/album/5WIjwjbdNGAbATC0iSnyO7) | 3:15 | 2022-06-10 |  |
+| [I'm Not Him](https://open.spotify.com/track/6nuOYIRmlyQIBZZ11Zmmr0) | [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [I'm Not Him](https://open.spotify.com/album/5WIjwjbdNGAbATC0iSnyO7) | 3:15 | 2022-06-10 | 2022-08-30 |
 | [If I Know You](https://open.spotify.com/track/66Owg4vn0ZoqbMwrwqj4Eo) | [Hayden McBride](https://open.spotify.com/artist/5OprlGplkFPge47AnclgTq), [Holly Beth](https://open.spotify.com/artist/0N1Mo7HAAXKXmkNGlpDpsq) | [Worth the Wait](https://open.spotify.com/album/7AnxH98jDzr062djBBa4ko) | 3:44 | 2021-12-17 | 2022-07-29 |
 | [If I Lived Here](https://open.spotify.com/track/2jc2BVAr4FPqYowcXoDTlD) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [The Last Resort: Greetings From](https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag) | 3:49 | 2022-05-06 |  |
 | [If It Don't Have a Honky Tonk](https://open.spotify.com/track/1cb6MOfdZffj4i0e681VGL) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [If It Don't Have a Honky Tonk](https://open.spotify.com/album/2qcBsICzPfGOWyKDyoxhK5) | 3:24 | 2022-07-15 |  |
@@ -218,6 +218,7 @@
 | [Meet Me in Texas \(feat\. Graycie York\)](https://open.spotify.com/track/4PrAYzzAdz8XJoMFe1Ejpj) | [Palmer Anthony](https://open.spotify.com/artist/412iPDYOYPA2pcGgdlLh5s), [Graycie York](https://open.spotify.com/artist/1xJprUmeoe1iyVDl9vb552) | [Meet Me in Texas \(feat\. Graycie York\)](https://open.spotify.com/album/6gf38KGaKKYZL4BTSyntMB) | 3:21 | 2022-01-14 | 2022-07-30 |
 | [Miles and Miles of You](https://open.spotify.com/track/4pkdRtBzxstB8Li7iuLZtz) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [Miles and Miles of You](https://open.spotify.com/album/5G5NGWji2d6bSjnNzpxr90) | 4:01 | 2022-01-21 | 2022-07-29 |
 | [Mind On You](https://open.spotify.com/track/7rr3gguU3TcVnLZD9VzASE) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [Mind On You](https://open.spotify.com/album/0FVH9WJPHicjhOLfsPpnxL) | 2:57 | 2022-08-05 |  |
+| [Mountain Song](https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Mountain Song](https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy) | 4:09 | 2022-08-26 |  |
 | [Movin' On](https://open.spotify.com/track/0JPRXF8h2ysd2qXJQQa4GK) | [Keller Cox](https://open.spotify.com/artist/7kxALHF5FOUlUZz3g67T1u) | [Movin' On](https://open.spotify.com/album/73tJeurEWxJl6mWH3udrha) | 3:26 | 2022-05-13 | 2022-07-29 |
 | [My First Rodeo](https://open.spotify.com/track/2hUnTBO3xdwXyB0Kwdmur5) | [Savanna Chestnut](https://open.spotify.com/artist/25Q8chabmr7xmJgVsdDErq) | [My First Rodeo](https://open.spotify.com/album/6ILAL65oJ9IMH31DEBTGNh) | 3:28 | 2021-12-17 | 2022-08-27 |
 | [My Guitar](https://open.spotify.com/track/2R8J4w7gU2jdhE19Eq353x) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [My Guitar](https://open.spotify.com/album/6SrueBxY4VCFGfWmPzxM6S) | 3:06 | 2022-06-24 | 2022-07-21 |
@@ -350,7 +351,7 @@
 | [Wined Up](https://open.spotify.com/track/0NLwOe6wZ99podY10F7VkC) | [Kristen Foreman](https://open.spotify.com/artist/1Vj1bZDumDGeiyAu3GkGsJ) | [Wined Up](https://open.spotify.com/album/4YzcaqRbHihzGyPSEGklbh) | 3:09 | 2022-04-01 | 2022-07-16 |
 | [Wish It Was You](https://open.spotify.com/track/67QeP29uBpp9FRM6OqrCIT) | [Shawn David](https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2) | [Wish It Was You](https://open.spotify.com/album/2W6gl0v91b8jbLKwcQYiRw) | 4:06 | 2021-12-17 | 2022-03-19 |
 | [With You](https://open.spotify.com/track/1hx6d28pvkstw3plMK6AnG) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [SÕL Sessions](https://open.spotify.com/album/5RSKBMC7PnUwY4BUibWNEX) | 4:26 | 2021-12-17 | 2022-07-29 |
-| [With You](https://open.spotify.com/track/48QruqVpJwCpgKOmQtjewC) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [SÕL Sessions](https://open.spotify.com/album/1e2EDJwPez79eKupUecgD6) | 4:26 | 2022-08-12 | 2022-08-27 |
+| [With You](https://open.spotify.com/track/48QruqVpJwCpgKOmQtjewC) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [SÕL Sessions](https://open.spotify.com/album/1e2EDJwPez79eKupUecgD6) | 4:26 | 2022-08-12 |  |
 | [You In A Honky Tonk](https://open.spotify.com/track/76DhLVnoczE6umkHKR2Ec6) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [You In A Honky Tonk](https://open.spotify.com/album/4UQUjGOmIqVh7mg0c7hYeJ) | 3:03 | 2021-12-17 |  |
 | [Young Man's Game](https://open.spotify.com/track/1fvnxdH0nEoDFNJPIjdVCN) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [Young Man's Game](https://open.spotify.com/album/7d1ev8ZOIejEvyeNxIs6mL) | 3:34 | 2022-02-11 | 2022-03-19 |
 | [Your Bar Now](https://open.spotify.com/track/4ZZK3Nud5Ax5ZExoFZYhGq) | [Tyler Halverson](https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai), [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4) | [Your Bar Now](https://open.spotify.com/album/3N6z7QHV628Lbz0ocbzOhR) | 3:34 | 2022-05-13 |  |

@@ -1452,6 +1452,24 @@
     },
     {
       "album": {
+        "name": "Bienvenue",
+        "url": "https://open.spotify.com/album/0uc15wvkhGpreMI6T9kO4z"
+      },
+      "artists": [
+        {
+          "name": "Karim Alger",
+          "url": "https://open.spotify.com/artist/5fd1olImQGqWTqg1r0zqMW"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150859,
+      "name": "Bienvenue",
+      "url": "https://open.spotify.com/track/7MgNGyicnTFMmZSCy6eD2R"
+    },
+    {
+      "album": {
         "name": "BIRTHDAY",
         "url": "https://open.spotify.com/album/5q0C9bAbbT2hWvZ49CGPYT"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Laid back electronic soundscapes rooted in experimental and ambient sensibilities.",
-  "num_followers": 75079,
+  "num_followers": 75008,
   "original_name": "Refractions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTMwNDQ1OSwwMDAwMDAwMDcyYzhiZjA2OWUwYmU2MTA0Y2ZiNDEwZTdmNGFkNDIz",
+  "snapshot_id": "MTY2MTMwNDQ1OSwwMDAwMDAwMDQ4ZmNiYjA5YzU5NzBlZjFkZmI5ZTRiNTI2NTZmZGJl",
   "tracks": [
     {
       "added_at": "2021-10-06 04:42:05",
@@ -111,6 +111,22 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
+        "name": "AZD",
+        "url": "https://open.spotify.com/album/7BgZb2snTbs5xpRHlQ8VYt"
+      },
+      "artists": [
+        {
+          "name": "Actress",
+          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
+        }
+      ],
+      "duration_ms": 145946,
+      "name": "FALLING RIZLAS",
+      "url": "https://open.spotify.com/track/2KeaniyEzZlYZzR1qodSso"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
         "name": "Angel's Flight",
         "url": "https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 471786,
       "name": "A Ghost At Noon",
       "url": "https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "AZD",
-        "url": "https://open.spotify.com/album/7BgZb2snTbs5xpRHlQ8VYt"
-      },
-      "artists": [
-        {
-          "name": "Actress",
-          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
-        }
-      ],
-      "duration_ms": 145946,
-      "name": "FALLING RIZLAS",
-      "url": "https://open.spotify.com/track/2KeaniyEzZlYZzR1qodSso"
     },
     {
       "added_at": "2022-08-13 02:22:47",
@@ -323,22 +323,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "These Days Don't Exist",
-        "url": "https://open.spotify.com/album/35KsUlRwLpWdta35Pknegr"
-      },
-      "artists": [
-        {
-          "name": "Nutrition",
-          "url": "https://open.spotify.com/artist/7lAeHqMt2kZ5A81tT9767x"
-        }
-      ],
-      "duration_ms": 225136,
-      "name": "Dream Walk",
-      "url": "https://open.spotify.com/track/7rO0THNPmucJEdOaMhAHgy"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "No Mind",
         "url": "https://open.spotify.com/album/42O0cmAeYHzzaTZ6qqrvhB"
       },
@@ -371,6 +355,22 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/1zeLCQaCe1WudTjd1Dr4a9"
+      },
+      "artists": [
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        }
+      ],
+      "duration_ms": 209806,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/28NaP6iuy1B4on1UJKw7vs"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
         "name": "Sleep Through the Storm",
         "url": "https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7"
       },
@@ -387,18 +387,34 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/1zeLCQaCe1WudTjd1Dr4a9"
+        "name": "These Days Don't Exist",
+        "url": "https://open.spotify.com/album/35KsUlRwLpWdta35Pknegr"
       },
       "artists": [
         {
-          "name": "Jacques Greene",
-          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+          "name": "Nutrition",
+          "url": "https://open.spotify.com/artist/7lAeHqMt2kZ5A81tT9767x"
         }
       ],
-      "duration_ms": 209806,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/28NaP6iuy1B4on1UJKw7vs"
+      "duration_ms": 225136,
+      "name": "Dream Walk",
+      "url": "https://open.spotify.com/track/7rO0THNPmucJEdOaMhAHgy"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Panspermia",
+        "url": "https://open.spotify.com/album/4TfQg8g5FV1VvZao3Mj94D"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Panspermia",
+      "url": "https://open.spotify.com/track/6YQ0EXjwQWT263njOeoe8S"
     },
     {
       "added_at": "2022-08-03 02:34:20",
@@ -419,38 +435,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Coral Jazz",
-        "url": "https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Coral Jazz",
-      "url": "https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Amber",
-        "url": "https://open.spotify.com/album/7EfhvG3RwdhzXrFlkDVxg4"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 397000,
-      "name": "Yulquen",
-      "url": "https://open.spotify.com/track/3PGYnbU4HJDUw01PrME2pz"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Pure, Impure",
         "url": "https://open.spotify.com/album/7C3flv2nzeBoNHVrptYz6o"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 457000,
       "name": "Time To Find Me - AFX Fast Mix",
       "url": "https://open.spotify.com/track/4JT4orneDAvaWkjUTuwShZ"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Amber",
+        "url": "https://open.spotify.com/album/7EfhvG3RwdhzXrFlkDVxg4"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 397000,
+      "name": "Yulquen",
+      "url": "https://open.spotify.com/track/3PGYnbU4HJDUw01PrME2pz"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -517,6 +517,22 @@
       "url": "https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12"
     },
     {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Homescreen Glow",
+        "url": "https://open.spotify.com/album/7w6JZ6HjbBRDxAaCYOoeGr"
+      },
+      "artists": [
+        {
+          "name": "Brin",
+          "url": "https://open.spotify.com/artist/0V7s0eS6etON5MepcZeHgp"
+        }
+      ],
+      "duration_ms": 326829,
+      "name": "Soft Gaiden",
+      "url": "https://open.spotify.com/track/3I6IMWZJ9FkTcUCKBrzlkh"
+    },
+    {
       "added_at": "2022-01-12 02:35:30",
       "album": {
         "name": "This Is An Advertisement",
@@ -537,54 +553,6 @@
       "url": "https://open.spotify.com/track/1Ef4AmovzJ5RhoUOqj1iZn"
     },
     {
-      "added_at": "2022-08-03 02:50:08",
-      "album": {
-        "name": "For You Only",
-        "url": "https://open.spotify.com/album/5xpcLzvU7tdIkDkRwrTEJr"
-      },
-      "artists": [
-        {
-          "name": "Isa Gordon",
-          "url": "https://open.spotify.com/artist/2dA8VFOWjWex4ypqqepKwH"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Second Love",
-      "url": "https://open.spotify.com/track/0jaYsfrSaAGb4d81qE5APl"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Panspermia",
-        "url": "https://open.spotify.com/album/4TfQg8g5FV1VvZao3Mj94D"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Panspermia",
-      "url": "https://open.spotify.com/track/6YQ0EXjwQWT263njOeoe8S"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Homescreen Glow",
-        "url": "https://open.spotify.com/album/7w6JZ6HjbBRDxAaCYOoeGr"
-      },
-      "artists": [
-        {
-          "name": "Brin",
-          "url": "https://open.spotify.com/artist/0V7s0eS6etON5MepcZeHgp"
-        }
-      ],
-      "duration_ms": 326829,
-      "name": "Soft Gaiden",
-      "url": "https://open.spotify.com/track/3I6IMWZJ9FkTcUCKBrzlkh"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Dusting For Smoke",
@@ -601,6 +569,38 @@
       "url": "https://open.spotify.com/track/4n0Hki3RG2Fa35s5PORLIq"
     },
     {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Coral Jazz",
+        "url": "https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Coral Jazz",
+      "url": "https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM"
+    },
+    {
+      "added_at": "2022-08-03 02:50:08",
+      "album": {
+        "name": "For You Only",
+        "url": "https://open.spotify.com/album/5xpcLzvU7tdIkDkRwrTEJr"
+      },
+      "artists": [
+        {
+          "name": "Isa Gordon",
+          "url": "https://open.spotify.com/artist/2dA8VFOWjWex4ypqqepKwH"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Second Love",
+      "url": "https://open.spotify.com/track/0jaYsfrSaAGb4d81qE5APl"
+    },
+    {
       "added_at": "2021-11-25 22:12:36",
       "album": {
         "name": "Patterns Of Consciousness",
@@ -615,6 +615,22 @@
       "duration_ms": 947500,
       "name": "Gravity that Binds",
       "url": "https://open.spotify.com/track/7dS9nthl03XLZySLWLuSRh"
+    },
+    {
+      "added_at": "2022-02-25 03:33:17",
+      "album": {
+        "name": "Exotic Contents / Pulse at the Centre of Being",
+        "url": "https://open.spotify.com/album/0I0azaQfHlf1JEIJuwHF5a"
+      },
+      "artists": [
+        {
+          "name": "Max Cooper",
+          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
+        }
+      ],
+      "duration_ms": 346588,
+      "name": "Exotic Contents",
+      "url": "https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -655,38 +671,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Oquo",
-        "url": "https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 231529,
-      "name": "Oquo Quooon",
-      "url": "https://open.spotify.com/track/7tzV9VZueBi1IrRwrhCgs5"
-    },
-    {
-      "added_at": "2022-02-25 03:33:17",
-      "album": {
-        "name": "Exotic Contents / Pulse at the Centre of Being",
-        "url": "https://open.spotify.com/album/0I0azaQfHlf1JEIJuwHF5a"
-      },
-      "artists": [
-        {
-          "name": "Max Cooper",
-          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
-        }
-      ],
-      "duration_ms": 346588,
-      "name": "Exotic Contents",
-      "url": "https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Street Talk",
         "url": "https://open.spotify.com/album/5kQMsWzWservF6GC2lJ3cv"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 293294,
       "name": "Insight",
       "url": "https://open.spotify.com/track/3RlKU8y6NXxhPN9JmKraDA"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Oquo",
+        "url": "https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 231529,
+      "name": "Oquo Quooon",
+      "url": "https://open.spotify.com/track/7tzV9VZueBi1IrRwrhCgs5"
     },
     {
       "added_at": "2022-02-16 00:42:21",
@@ -747,22 +747,6 @@
       "duration_ms": 283200,
       "name": "l'empelt",
       "url": "https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Sleep Through the Storm",
-        "url": "https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7"
-      },
-      "artists": [
-        {
-          "name": "A Lily",
-          "url": "https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS"
-        }
-      ],
-      "duration_ms": 293026,
-      "name": "Endless Jasmine",
-      "url": "https://open.spotify.com/track/60HCwP0zHfb2NjXplszK2J"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -817,6 +801,22 @@
       "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
     },
     {
+      "added_at": "2022-01-21 20:27:00",
+      "album": {
+        "name": "Some Way",
+        "url": "https://open.spotify.com/album/439OHyChz5bHWMVzU2YnSv"
+      },
+      "artists": [
+        {
+          "name": "Holodec",
+          "url": "https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3"
+        }
+      ],
+      "duration_ms": 217494,
+      "name": "Some Way",
+      "url": "https://open.spotify.com/track/0WBycRtItbpOgbxura7SJR"
+    },
+    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "L'\u00e9treinte Imaginaire",
@@ -831,6 +831,54 @@
       "duration_ms": 393717,
       "name": "Promise You'll Haunt Me",
       "url": "https://open.spotify.com/track/3ZNoKpRGsNc2xK7yPbg5aI"
+    },
+    {
+      "added_at": "2022-01-13 02:57:00",
+      "album": {
+        "name": "Azure",
+        "url": "https://open.spotify.com/album/2QWRgZxiKk6WqR7I5C75y4"
+      },
+      "artists": [
+        {
+          "name": "Sky H1",
+          "url": "https://open.spotify.com/artist/4PWm0R7GT00XJa3TIFoUT4"
+        }
+      ],
+      "duration_ms": 246604,
+      "name": "Elysian Heights",
+      "url": "https://open.spotify.com/track/1IEHhrdBcjiZ4tZ5CiDGb3"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Sleep Through the Storm",
+        "url": "https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7"
+      },
+      "artists": [
+        {
+          "name": "A Lily",
+          "url": "https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS"
+        }
+      ],
+      "duration_ms": 293026,
+      "name": "Endless Jasmine",
+      "url": "https://open.spotify.com/track/60HCwP0zHfb2NjXplszK2J"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Weather the Storm",
+        "url": "https://open.spotify.com/album/7j30PlQmG0gZod9ptHZdAm"
+      },
+      "artists": [
+        {
+          "name": "Pye Corner Audio",
+          "url": "https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "Weather the Storm",
+      "url": "https://open.spotify.com/track/6ls8JBd8DVecHSDZ2ArxsX"
     },
     {
       "added_at": "2022-02-25 05:11:21",
@@ -851,54 +899,6 @@
       "duration_ms": 260006,
       "name": "April Dub (Koyas Mix)",
       "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
-    },
-    {
-      "added_at": "2022-01-21 20:27:00",
-      "album": {
-        "name": "Some Way",
-        "url": "https://open.spotify.com/album/439OHyChz5bHWMVzU2YnSv"
-      },
-      "artists": [
-        {
-          "name": "Holodec",
-          "url": "https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3"
-        }
-      ],
-      "duration_ms": 217494,
-      "name": "Some Way",
-      "url": "https://open.spotify.com/track/0WBycRtItbpOgbxura7SJR"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Weather the Storm",
-        "url": "https://open.spotify.com/album/7j30PlQmG0gZod9ptHZdAm"
-      },
-      "artists": [
-        {
-          "name": "Pye Corner Audio",
-          "url": "https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "Weather the Storm",
-      "url": "https://open.spotify.com/track/6ls8JBd8DVecHSDZ2ArxsX"
-    },
-    {
-      "added_at": "2022-01-13 02:57:00",
-      "album": {
-        "name": "Azure",
-        "url": "https://open.spotify.com/album/2QWRgZxiKk6WqR7I5C75y4"
-      },
-      "artists": [
-        {
-          "name": "Sky H1",
-          "url": "https://open.spotify.com/artist/4PWm0R7GT00XJa3TIFoUT4"
-        }
-      ],
-      "duration_ms": 246604,
-      "name": "Elysian Heights",
-      "url": "https://open.spotify.com/track/1IEHhrdBcjiZ4tZ5CiDGb3"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -923,22 +923,18 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Treat Em Right (Boards Of Canada Remix)",
-        "url": "https://open.spotify.com/album/3biP5TpmbP1eQBjnMVo2cm"
+        "name": "Fragments",
+        "url": "https://open.spotify.com/album/2WcSpIMRYszQtLIsDIKMrV"
       },
       "artists": [
         {
-          "name": "Nevermen",
-          "url": "https://open.spotify.com/artist/09P3wPH0MvtLnhwfbtzrRq"
-        },
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+          "name": "The Black Dog",
+          "url": "https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq"
         }
       ],
-      "duration_ms": 269987,
-      "name": "Treat Em Right - Boards of Canada Remix Instrumental",
-      "url": "https://open.spotify.com/track/3AETAMXWqZTE1ezv2G8bzG"
+      "duration_ms": 210655,
+      "name": "Cup Noodle",
+      "url": "https://open.spotify.com/track/48ieq4orqgVGclzC5dEMy3"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -957,22 +953,6 @@
       "url": "https://open.spotify.com/track/5TCKrAOgiVCHEgUEgUBL1Q"
     },
     {
-      "added_at": "2022-03-30 04:41:43",
-      "album": {
-        "name": "Chamas Do Cerrado",
-        "url": "https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h"
-      },
-      "artists": [
-        {
-          "name": "LAZA",
-          "url": "https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D"
-        }
-      ],
-      "duration_ms": 213708,
-      "name": "Vale Da Lua",
-      "url": "https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz"
-    },
-    {
       "added_at": "2022-03-29 02:05:38",
       "album": {
         "name": "QUAKENBR\u00dcCK [Version]",
@@ -987,22 +967,6 @@
       "duration_ms": 279601,
       "name": "Quakenbr\u00fcck - version",
       "url": "https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Auroras",
-        "url": "https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt"
-      },
-      "artists": [
-        {
-          "name": "Aeromancias",
-          "url": "https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw"
-        }
-      ],
-      "duration_ms": 154838,
-      "name": "Boreal",
-      "url": "https://open.spotify.com/track/4SfLJ0ZO8LTbrgxqNKnzys"
     },
     {
       "added_at": "2022-04-12 01:36:14",
@@ -1023,18 +987,54 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Ficciones Del Tr\u00f3pico",
-        "url": "https://open.spotify.com/album/04TdkcgVzFBAEzW4T7b6eV"
+        "name": "Treat Em Right (Boards Of Canada Remix)",
+        "url": "https://open.spotify.com/album/3biP5TpmbP1eQBjnMVo2cm"
       },
       "artists": [
         {
-          "name": "Molero",
-          "url": "https://open.spotify.com/artist/3ItdobbGrJbtjPPZegnSEZ"
+          "name": "Nevermen",
+          "url": "https://open.spotify.com/artist/09P3wPH0MvtLnhwfbtzrRq"
+        },
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
         }
       ],
-      "duration_ms": 269142,
-      "name": "Phasma Gigas",
-      "url": "https://open.spotify.com/track/2PyLeLsjsVAGzEUPiWIiPm"
+      "duration_ms": 269987,
+      "name": "Treat Em Right - Boards of Canada Remix Instrumental",
+      "url": "https://open.spotify.com/track/3AETAMXWqZTE1ezv2G8bzG"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Auroras",
+        "url": "https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt"
+      },
+      "artists": [
+        {
+          "name": "Aeromancias",
+          "url": "https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw"
+        }
+      ],
+      "duration_ms": 154838,
+      "name": "Boreal",
+      "url": "https://open.spotify.com/track/4SfLJ0ZO8LTbrgxqNKnzys"
+    },
+    {
+      "added_at": "2022-03-30 04:41:43",
+      "album": {
+        "name": "Chamas Do Cerrado",
+        "url": "https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h"
+      },
+      "artists": [
+        {
+          "name": "LAZA",
+          "url": "https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D"
+        }
+      ],
+      "duration_ms": 213708,
+      "name": "Vale Da Lua",
+      "url": "https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1051,6 +1051,38 @@
       "duration_ms": 338734,
       "name": "Every Since And Then",
       "url": "https://open.spotify.com/track/1RNe4viqCD97PgAChQers4"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Ficciones Del Tr\u00f3pico",
+        "url": "https://open.spotify.com/album/04TdkcgVzFBAEzW4T7b6eV"
+      },
+      "artists": [
+        {
+          "name": "Molero",
+          "url": "https://open.spotify.com/artist/3ItdobbGrJbtjPPZegnSEZ"
+        }
+      ],
+      "duration_ms": 269142,
+      "name": "Phasma Gigas",
+      "url": "https://open.spotify.com/track/2PyLeLsjsVAGzEUPiWIiPm"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Blooms",
+        "url": "https://open.spotify.com/album/1kpy3gVhdV8VmstOxIVBIz"
+      },
+      "artists": [
+        {
+          "name": "Sau Poler",
+          "url": "https://open.spotify.com/artist/0l8zZZXgZJ11aGj4P2psXu"
+        }
+      ],
+      "duration_ms": 346479,
+      "name": "Blooms",
+      "url": "https://open.spotify.com/track/6xan1MjlzLAtVosllpvCjA"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1075,54 +1107,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Fragments",
-        "url": "https://open.spotify.com/album/2WcSpIMRYszQtLIsDIKMrV"
-      },
-      "artists": [
-        {
-          "name": "The Black Dog",
-          "url": "https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq"
-        }
-      ],
-      "duration_ms": 210655,
-      "name": "Cup Noodle",
-      "url": "https://open.spotify.com/track/48ieq4orqgVGclzC5dEMy3"
-    },
-    {
-      "added_at": "2022-07-15 05:19:54",
-      "album": {
-        "name": "K\u00fcbler-Ross",
-        "url": "https://open.spotify.com/album/0A0ZbSG5YvybVXyLFwhAAH"
-      },
-      "artists": [
-        {
-          "name": "K\u00fcbler-Ross",
-          "url": "https://open.spotify.com/artist/3zPzwe9nrdhQLEu3SB7pRy"
-        }
-      ],
-      "duration_ms": 258174,
-      "name": "Victims of Victimless Crimes",
-      "url": "https://open.spotify.com/track/0sOipgMTgqhBSq3dYkR2OE"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Blooms",
-        "url": "https://open.spotify.com/album/1kpy3gVhdV8VmstOxIVBIz"
-      },
-      "artists": [
-        {
-          "name": "Sau Poler",
-          "url": "https://open.spotify.com/artist/0l8zZZXgZJ11aGj4P2psXu"
-        }
-      ],
-      "duration_ms": 346479,
-      "name": "Blooms",
-      "url": "https://open.spotify.com/track/6xan1MjlzLAtVosllpvCjA"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Square One",
         "url": "https://open.spotify.com/album/2m4Et0BnKCV3SoJCeJVmSZ"
       },
@@ -1139,22 +1123,6 @@
       "duration_ms": 425417,
       "name": "Arthur",
       "url": "https://open.spotify.com/track/7AFNqxLKcSL0LpNpOgmhKt"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "The Alias Sessions",
-        "url": "https://open.spotify.com/album/2tCcGzGEsrsYSgGW7mqFNI"
-      },
-      "artists": [
-        {
-          "name": "Murcof",
-          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
-        }
-      ],
-      "duration_ms": 320933,
-      "name": "Underwater Lament",
-      "url": "https://open.spotify.com/track/5x85aXgAob5cPgjiiLTcah"
     },
     {
       "added_at": "2022-01-11 02:28:09",
@@ -1175,6 +1143,22 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
+        "name": "The Alias Sessions",
+        "url": "https://open.spotify.com/album/2tCcGzGEsrsYSgGW7mqFNI"
+      },
+      "artists": [
+        {
+          "name": "Murcof",
+          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
+        }
+      ],
+      "duration_ms": 320933,
+      "name": "Underwater Lament",
+      "url": "https://open.spotify.com/track/5x85aXgAob5cPgjiiLTcah"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
         "name": "The Crucible",
         "url": "https://open.spotify.com/album/7CqhUdzJZzxFwvaogHVdv2"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 207407,
       "name": "Green Phase, Part One",
       "url": "https://open.spotify.com/track/4DCWEaax6GREKHy9XeldmI"
+    },
+    {
+      "added_at": "2022-07-15 05:19:54",
+      "album": {
+        "name": "K\u00fcbler-Ross",
+        "url": "https://open.spotify.com/album/0A0ZbSG5YvybVXyLFwhAAH"
+      },
+      "artists": [
+        {
+          "name": "K\u00fcbler-Ross",
+          "url": "https://open.spotify.com/artist/3zPzwe9nrdhQLEu3SB7pRy"
+        }
+      ],
+      "duration_ms": 258174,
+      "name": "Victims of Victimless Crimes",
+      "url": "https://open.spotify.com/track/0sOipgMTgqhBSq3dYkR2OE"
     },
     {
       "added_at": "2022-02-25 03:47:46",
@@ -1205,22 +1205,6 @@
       "url": "https://open.spotify.com/track/3kilgBTpr97Ef1v3x6rTeJ"
     },
     {
-      "added_at": "2022-03-09 04:41:23",
-      "album": {
-        "name": "Octo",
-        "url": "https://open.spotify.com/album/0HdRPxogDtNU20MGQQlkzQ"
-      },
-      "artists": [
-        {
-          "name": "Tim Sean-Lee",
-          "url": "https://open.spotify.com/artist/40vMsJdhfhZFajVGMWsG5I"
-        }
-      ],
-      "duration_ms": 289041,
-      "name": "Raw Cutz",
-      "url": "https://open.spotify.com/track/5IMdkWtrs8auJnx0ntGlFC"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Seelen",
@@ -1235,22 +1219,6 @@
       "duration_ms": 275271,
       "name": "Seele III",
       "url": "https://open.spotify.com/track/3TRb8Wm644PAarRbXklzCc"
-    },
-    {
-      "added_at": "2022-08-03 02:49:30",
-      "album": {
-        "name": "6\u00b030\u203233.372\u2033N 3\u00b022\u20320.66\u2033E",
-        "url": "https://open.spotify.com/album/5ORagktp2f72d9tqOAxz49"
-      },
-      "artists": [
-        {
-          "name": "Emeka Ogboh",
-          "url": "https://open.spotify.com/artist/3wogpkBUlSTZrtz3fq4qG7"
-        }
-      ],
-      "duration_ms": 339469,
-      "name": "Verbal Drift",
-      "url": "https://open.spotify.com/track/12zhpmYyhxlxgoDZTFo88c"
     },
     {
       "added_at": "2022-03-11 06:16:07",
@@ -1319,54 +1287,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Articulation",
-        "url": "https://open.spotify.com/album/6gcAUc2LUZfbHwZZJLgvtm"
-      },
-      "artists": [
-        {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
-        }
-      ],
-      "duration_ms": 219820,
-      "name": "Melodica",
-      "url": "https://open.spotify.com/track/77m3CO9cDi94PkxKF3X4wg"
-    },
-    {
-      "added_at": "2022-01-21 20:11:31",
-      "album": {
-        "name": "Jord\u00e3o",
-        "url": "https://open.spotify.com/album/0GPBTClGuLZ4Z1aGGOqVWi"
-      },
-      "artists": [
-        {
-          "name": "Niagara",
-          "url": "https://open.spotify.com/artist/7v9653L6WJv9pZKYEKdcDz"
-        }
-      ],
-      "duration_ms": 263800,
-      "name": "Jord\u00e3o",
-      "url": "https://open.spotify.com/track/4DBVvRxw7iCF0Os4KqKB2l"
-    },
-    {
-      "added_at": "2022-04-29 18:23:46",
-      "album": {
-        "name": "Cruda",
-        "url": "https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH"
-      },
-      "artists": [
-        {
-          "name": "Siete Catorce",
-          "url": "https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr"
-        }
-      ],
-      "duration_ms": 329596,
-      "name": "Cheve",
-      "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Muckbirth",
         "url": "https://open.spotify.com/album/5CRO1vqjhQFgwsYyVzwn6Y"
       },
@@ -1379,6 +1299,22 @@
       "duration_ms": 197142,
       "name": "Muckbirth",
       "url": "https://open.spotify.com/track/7tMe5bFiL485sPdkT6VDXZ"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Articulation",
+        "url": "https://open.spotify.com/album/6gcAUc2LUZfbHwZZJLgvtm"
+      },
+      "artists": [
+        {
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+        }
+      ],
+      "duration_ms": 219820,
+      "name": "Melodica",
+      "url": "https://open.spotify.com/track/77m3CO9cDi94PkxKF3X4wg"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1399,6 +1335,86 @@
       "duration_ms": 252000,
       "name": "Komorebi",
       "url": "https://open.spotify.com/track/7ELFgIC6BEMI1BgEA3xDE5"
+    },
+    {
+      "added_at": "2022-08-03 02:49:30",
+      "album": {
+        "name": "6\u00b030\u203233.372\u2033N 3\u00b022\u20320.66\u2033E",
+        "url": "https://open.spotify.com/album/5ORagktp2f72d9tqOAxz49"
+      },
+      "artists": [
+        {
+          "name": "Emeka Ogboh",
+          "url": "https://open.spotify.com/artist/3wogpkBUlSTZrtz3fq4qG7"
+        }
+      ],
+      "duration_ms": 339469,
+      "name": "Verbal Drift",
+      "url": "https://open.spotify.com/track/12zhpmYyhxlxgoDZTFo88c"
+    },
+    {
+      "added_at": "2022-03-09 04:41:23",
+      "album": {
+        "name": "Octo",
+        "url": "https://open.spotify.com/album/0HdRPxogDtNU20MGQQlkzQ"
+      },
+      "artists": [
+        {
+          "name": "Tim Sean-Lee",
+          "url": "https://open.spotify.com/artist/40vMsJdhfhZFajVGMWsG5I"
+        }
+      ],
+      "duration_ms": 289041,
+      "name": "Raw Cutz",
+      "url": "https://open.spotify.com/track/5IMdkWtrs8auJnx0ntGlFC"
+    },
+    {
+      "added_at": "2022-04-29 18:23:46",
+      "album": {
+        "name": "Cruda",
+        "url": "https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH"
+      },
+      "artists": [
+        {
+          "name": "Siete Catorce",
+          "url": "https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr"
+        }
+      ],
+      "duration_ms": 329596,
+      "name": "Cheve",
+      "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
+    },
+    {
+      "added_at": "2022-01-21 20:11:31",
+      "album": {
+        "name": "Jord\u00e3o",
+        "url": "https://open.spotify.com/album/0GPBTClGuLZ4Z1aGGOqVWi"
+      },
+      "artists": [
+        {
+          "name": "Niagara",
+          "url": "https://open.spotify.com/artist/7v9653L6WJv9pZKYEKdcDz"
+        }
+      ],
+      "duration_ms": 263800,
+      "name": "Jord\u00e3o",
+      "url": "https://open.spotify.com/track/4DBVvRxw7iCF0Os4KqKB2l"
+    },
+    {
+      "added_at": "2022-03-18 05:04:05",
+      "album": {
+        "name": "Trusted EP",
+        "url": "https://open.spotify.com/album/3fXh9MA7D3t2T4ir3R2tB9"
+      },
+      "artists": [
+        {
+          "name": "mach\u00ecna",
+          "url": "https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn"
+        }
+      ],
+      "duration_ms": 335210,
+      "name": "Ensemble Room",
+      "url": "https://open.spotify.com/track/08Mt5WdgdBkEWwX5vn15ss"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1431,22 +1447,6 @@
       "duration_ms": 311783,
       "name": "Park Line",
       "url": "https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs"
-    },
-    {
-      "added_at": "2022-03-18 05:04:05",
-      "album": {
-        "name": "Trusted EP",
-        "url": "https://open.spotify.com/album/3fXh9MA7D3t2T4ir3R2tB9"
-      },
-      "artists": [
-        {
-          "name": "mach\u00ecna",
-          "url": "https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn"
-        }
-      ],
-      "duration_ms": 335210,
-      "name": "Ensemble Room",
-      "url": "https://open.spotify.com/track/08Mt5WdgdBkEWwX5vn15ss"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Fir Wave",
-        "url": "https://open.spotify.com/album/4oz4ZcrNgPZknFklLYUQMV"
-      },
-      "artists": [
-        {
-          "name": "Hannah Peel",
-          "url": "https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o"
-        }
-      ],
-      "duration_ms": 263750,
-      "name": "Emergence in Nature",
-      "url": "https://open.spotify.com/track/3Si3HzFpu7BEAxc3nh4gQ2"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Translate",
         "url": "https://open.spotify.com/album/0Sn4h3jqTAWbVvoFHqG2Od"
       },
@@ -1547,58 +1531,6 @@
       "duration_ms": 108237,
       "name": "Roses",
       "url": "https://open.spotify.com/track/0hUuWN9s7a0zpDeFG2v2zm"
-    },
-    {
-      "added_at": "2022-02-16 03:15:58",
-      "album": {
-        "name": "Aural Drift (T.Raumschmiere Remix)",
-        "url": "https://open.spotify.com/album/1txyyFVgTh2zuMAObmT8W7"
-      },
-      "artists": [
-        {
-          "name": "Martin Merz",
-          "url": "https://open.spotify.com/artist/0lIOPkFJhKVldKHdz9zsTb"
-        },
-        {
-          "name": "T.Raumschmiere",
-          "url": "https://open.spotify.com/artist/58ZRFHI9f72MNGA77F6OCA"
-        }
-      ],
-      "duration_ms": 347276,
-      "name": "Aural Drift - T.Raumschmiere Remix",
-      "url": "https://open.spotify.com/track/5f9weZ5oyuZRKA1riM5vpu"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "SoulCity EP",
-        "url": "https://open.spotify.com/album/1u8OYI31zSwRKa8uzjAEvI"
-      },
-      "artists": [
-        {
-          "name": "Two Shell",
-          "url": "https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3"
-        }
-      ],
-      "duration_ms": 356293,
-      "name": "Blobject",
-      "url": "https://open.spotify.com/track/2fo83TJRtbirzVwANgZvTo"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "SIGN",
-        "url": "https://open.spotify.com/album/1KBFcrlvo6vDVOSrWoYy3K"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 356813,
-      "name": "F7",
-      "url": "https://open.spotify.com/track/3s8PqUjMSpcJkfPdb2Fucf"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1628,9 +1560,61 @@
           "url": "https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Ecovocative",
-      "url": "https://open.spotify.com/track/2xWeaTsQkzeQ5RDahoLmdn"
+      "duration_ms": 263750,
+      "name": "Emergence in Nature",
+      "url": "https://open.spotify.com/track/3Si3HzFpu7BEAxc3nh4gQ2"
+    },
+    {
+      "added_at": "2022-02-16 03:15:58",
+      "album": {
+        "name": "Aural Drift (T.Raumschmiere Remix)",
+        "url": "https://open.spotify.com/album/1txyyFVgTh2zuMAObmT8W7"
+      },
+      "artists": [
+        {
+          "name": "Martin Merz",
+          "url": "https://open.spotify.com/artist/0lIOPkFJhKVldKHdz9zsTb"
+        },
+        {
+          "name": "T.Raumschmiere",
+          "url": "https://open.spotify.com/artist/58ZRFHI9f72MNGA77F6OCA"
+        }
+      ],
+      "duration_ms": 347276,
+      "name": "Aural Drift - T.Raumschmiere Remix",
+      "url": "https://open.spotify.com/track/5f9weZ5oyuZRKA1riM5vpu"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "SIGN",
+        "url": "https://open.spotify.com/album/1KBFcrlvo6vDVOSrWoYy3K"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 356813,
+      "name": "F7",
+      "url": "https://open.spotify.com/track/3s8PqUjMSpcJkfPdb2Fucf"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "SoulCity EP",
+        "url": "https://open.spotify.com/album/1u8OYI31zSwRKa8uzjAEvI"
+      },
+      "artists": [
+        {
+          "name": "Two Shell",
+          "url": "https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3"
+        }
+      ],
+      "duration_ms": 356293,
+      "name": "Blobject",
+      "url": "https://open.spotify.com/track/2fo83TJRtbirzVwANgZvTo"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1679,6 +1663,22 @@
       "duration_ms": 229811,
       "name": "Felt compute, might delete",
       "url": "https://open.spotify.com/track/4euYmucoRKixWMTtg2Yan7"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Fir Wave",
+        "url": "https://open.spotify.com/album/4oz4ZcrNgPZknFklLYUQMV"
+      },
+      "artists": [
+        {
+          "name": "Hannah Peel",
+          "url": "https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Ecovocative",
+      "url": "https://open.spotify.com/track/2xWeaTsQkzeQ5RDahoLmdn"
     },
     {
       "added_at": "2022-02-18 05:43:49",

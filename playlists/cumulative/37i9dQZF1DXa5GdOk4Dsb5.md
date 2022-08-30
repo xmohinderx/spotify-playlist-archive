@@ -4,7 +4,7 @@
 
 > Para ahogar las penas en el fondo de una botella.
 
-248 songs - 13 hr 16 min - [published](https://open.spotify.com/playlist/3TYdhPxDiPoy7PDMRCl5B2)
+249 songs - 13 hr 19 min - [published](https://open.spotify.com/playlist/3TYdhPxDiPoy7PDMRCl5B2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,7 +239,7 @@
 | [Tu Cárcel](https://open.spotify.com/track/2rVqPwDeW6n5VdC5hCjdk1) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Íconos 25 Éxitos](https://open.spotify.com/album/0v9v7pb0P5SVc4RRmhioiy) | 3:31 | 2022-06-08 | 2022-07-29 |
 | [Tu Cárcel](https://open.spotify.com/track/0LNn2O06dvsZqvWaS870xJ) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Me Volvi A Acordar De Ti](https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy) | 3:32 | 2022-06-08 |  |
 | [Tu Veneno](https://open.spotify.com/track/6baqa74IoPWJPy8grAX8CF) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [Tu Veneno](https://open.spotify.com/album/2XyvYzcMMxKo28UAh6IQAy) | 2:35 | 2022-06-08 | 2022-07-28 |
-| [Tus Desprecios](https://open.spotify.com/track/6gyPojQkJawXsMryAeu5Se) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Tus Desprecios](https://open.spotify.com/album/3si2q6g6Mw94o5wsftqXH6) | 2:22 | 2022-06-08 |  |
+| [Tus Desprecios](https://open.spotify.com/track/6gyPojQkJawXsMryAeu5Se) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Tus Desprecios](https://open.spotify.com/album/3si2q6g6Mw94o5wsftqXH6) | 2:22 | 2022-06-08 | 2022-08-30 |
 | [Tú](https://open.spotify.com/track/1nLs8r6K4YN0avBwUmmTnr) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados \(Live Vol\. 1\)](https://open.spotify.com/album/6zXEcqqa4uHq4rg62M0Fxj) | 4:06 | 2022-06-08 | 2022-07-29 |
 | [Un Millón de Primaveras](https://open.spotify.com/track/6j5LtifAnuTjTYvml61yFZ) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 2:53 | 2022-06-08 |  |
 | [Usted No Me Olvida](https://open.spotify.com/track/4gE4qvNzrjB1htVTCw8n4x) | [Joaquin Guiller](https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c) | [Usted No Me Olvida](https://open.spotify.com/album/1pZ3vJWhIYpzOvXbl62giM) | 3:13 | 2022-06-08 |  |
@@ -249,6 +249,7 @@
 | [Volver Volver](https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Arriba Huentitan](https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9) | 3:00 | 2022-06-08 |  |
 | [Voy A Conquistarte](https://open.spotify.com/track/3ykJeceAqPKiwnFPpzUNUq) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Mexicano Hasta Las Pampas](https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q) | 2:54 | 2022-06-08 |  |
 | [Vuelve y Me Pasa](https://open.spotify.com/track/2D6EXB657fhCYrBK35UTf2) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Con el Corazón](https://open.spotify.com/album/1qP4XLfcb3gW0bQiK2MQfV) | 3:17 | 2022-06-08 | 2022-07-27 |
+| [Ya No Mi Amor](https://open.spotify.com/track/7qbPQqOYYMPdQqRqv7bNin) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Todo de Mi \(Vol\. 4\)](https://open.spotify.com/album/07PyHnjYzUmaQAjKK5WtCk) | 3:20 | 2022-06-08 |  |
 | [Ya No Mi Amor!](https://open.spotify.com/track/3Sx0SpMveMpN7eZzeamZQl) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Ya No Mi Amor!](https://open.spotify.com/album/63Syl4oLAlYKu2X5ojLKVm) | 3:20 | 2022-06-08 | 2022-07-29 |
 | [Ya Viene Amaneciendo](https://open.spotify.com/track/7mSAko5rYKEaU3jaeAk4ZG) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar](https://open.spotify.com/album/7Ed2u1RL16YZTKbew4O6HS) | 3:11 | 2022-06-08 | 2022-07-29 |
 | [Yo Te Necesito \- En vivo](https://open.spotify.com/track/6Yjh5hEKRWoQRM3ltyBOIt) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 2 \(En vivo\)](https://open.spotify.com/album/7drHvS63o9Crp4k85GNo9D) | 3:08 | 2022-06-08 |  |

@@ -192,6 +192,24 @@
     },
     {
       "album": {
+        "name": "Salvatore",
+        "url": "https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159840,
+      "name": "Auto tedesca",
+      "url": "https://open.spotify.com/track/2dTjaUZFpnlohX8oZ5A2sy"
+    },
+    {
+      "album": {
         "name": "LISTA 47",
         "url": "https://open.spotify.com/album/3MMMbRt5PJf5zXmFoe94D4"
       },
@@ -1471,7 +1489,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 137514,
       "name": "LOCO",
       "url": "https://open.spotify.com/track/3lN2jXIlpMJETk3zzFkoAy"
@@ -1761,10 +1779,32 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 161739,
       "name": "Mujer (feat. Madame)",
       "url": "https://open.spotify.com/track/2B2jQ2cdbrsWs1XmjVhdrU"
+    },
+    {
+      "album": {
+        "name": "Dark Love EP",
+        "url": "https://open.spotify.com/album/5Z5JxIgeTDnZdg6pLootUs"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Madame",
+          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161739,
+      "name": "Mujer (feat. Madame)",
+      "url": "https://open.spotify.com/track/4jrroLcBiR5ZCT5C7Itd28"
     },
     {
       "album": {
@@ -2343,10 +2383,28 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 146086,
       "name": "Sei qui",
       "url": "https://open.spotify.com/track/2t0Bn0De4p0F9XCDv5ftVJ"
+    },
+    {
+      "album": {
+        "name": "Dark Love EP",
+        "url": "https://open.spotify.com/album/5Z5JxIgeTDnZdg6pLootUs"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146086,
+      "name": "Sei qui",
+      "url": "https://open.spotify.com/track/4eYTeB1NFdfEcWpAre8kbJ"
     },
     {
       "album": {

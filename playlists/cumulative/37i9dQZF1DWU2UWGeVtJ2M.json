@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 205760,
       "name": "A Moment Of Mystery (feat. Toro y Moi)",
       "url": "https://open.spotify.com/track/5OmzLQz8dsXSvEcZ2gSsQ4"
@@ -1811,7 +1811,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 190075,
       "name": "Heat",
       "url": "https://open.spotify.com/track/02RqY5iTPIVXmiHCwnWyEk"
@@ -3694,6 +3694,24 @@
     },
     {
       "album": {
+        "name": "Some Place Else",
+        "url": "https://open.spotify.com/album/7G6KMFNhuWlwwn4zGZTmk9"
+      },
+      "artists": [
+        {
+          "name": "MorMor",
+          "url": "https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214885,
+      "name": "Some Place Else",
+      "url": "https://open.spotify.com/track/5Hu24z7izB3LKi6pHaPq3C"
+    },
+    {
+      "album": {
         "name": "Something to Feel",
         "url": "https://open.spotify.com/album/02dq5KH5htRQNedTyplLu8"
       },
@@ -4471,6 +4489,28 @@
       "duration_ms": 216961,
       "name": "What About Me (feat. Sosamann)",
       "url": "https://open.spotify.com/track/3JX0dOCIAiaR8MP3ryXWuM"
+    },
+    {
+      "album": {
+        "name": "what would you say to your lost self",
+        "url": "https://open.spotify.com/album/6qOGpqm3j0NzEhtHCJ9Law"
+      },
+      "artists": [
+        {
+          "name": "Thomas Ng",
+          "url": "https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc"
+        },
+        {
+          "name": "DVRLENE",
+          "url": "https://open.spotify.com/artist/1Rc0NV88mREBY1ZOP2lYq1"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170320,
+      "name": "what would you say to your lost self",
+      "url": "https://open.spotify.com/track/07jgeBRRxIA2FICXUouW5v"
     },
     {
       "album": {

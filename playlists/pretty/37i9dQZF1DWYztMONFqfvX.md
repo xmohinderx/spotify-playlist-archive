@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYztMONFqfvX.md) - [plain]
 
 > The Bollywood crooner's best songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 554,220 likes - 81 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 554,812 likes - 81 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYztMONFqfvX.md) - [plain]
 | 50 | [Pal](https://open.spotify.com/track/79hQvdTHNBkq2fp2ZrM8b2) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Jalebi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2XSR5WDCh2PIYE0fp7C3cN) | 4:07 |
 | 51 | [Samjhawan](https://open.spotify.com/track/4LO5DjN6Tp3UkUvgESuy2t) | [Jawad Ahmad](https://open.spotify.com/artist/2gXOOKY8mmJG6iwHrTq9gp), [Shaarib Toshi](https://open.spotify.com/artist/0FJz7XR37hH69traaHLijA), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Humpty Sharma Ki Dulhania \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5jqOPaSXkGQv3IH62dHoUE) | 4:29 |
 | 52 | [Teri Meri Kahaani](https://open.spotify.com/track/14eFqoEf1NBm7kh2jWc3TU) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Palak Muchhal](https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr) | [Gabbar Is Back](https://open.spotify.com/album/0pCSIpQw2LzncVyGVnoAul) | 5:31 |
-| 53 | [Dekha Hazaro Dafaa](https://open.spotify.com/track/7AV1hh76pC1mg4iSH796Vp) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Palak Muchhal](https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr) | [Rustom](https://open.spotify.com/album/1TK8mLZQbWPe4sRmkcWrIu) | 3:27 |
+| 53 | [Dekha Hazaro Dafaa](https://open.spotify.com/track/7AV1hh76pC1mg4iSH796Vp) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Palak Muchhal](https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr), [Jeet Gannguli](https://open.spotify.com/artist/2kkQthS9OLpK4UqNWYqoVl) | [Rustom \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1TK8mLZQbWPe4sRmkcWrIu) | 3:27 |
 | 54 | [Aaj Se Teri](https://open.spotify.com/track/4ws4fIFJDtQAjNQ53KYVl2) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Padman](https://open.spotify.com/album/0UmtPWWsNVt38OQu8LcVLM) | 5:12 |
 | 55 | [Ae Watan \(Male\)](https://open.spotify.com/track/4wNLPh3T8dxrJwC32MzIUd) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Raazi](https://open.spotify.com/album/0RdCVt41cIwQe5pVPH2Z8B) | 3:43 |
 | 56 | [Hawayein](https://open.spotify.com/track/0l6g8Z8mqGbGXFOjigYetD) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Jab Harry Met Sejal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4I39l0YJ7tmSBXZGZamN5E) | 4:49 |

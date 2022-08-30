@@ -1,12 +1,12 @@
 {
   "description": "Ya Wailee! Get ready for some serious 90s nostalgia. Cover : Amr Diab",
-  "num_followers": 70079,
+  "num_followers": 70121,
   "original_name": "90s Arabic Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMzkxNzYzNywwMDAwMDAwMGNhYjZjOGI1OTM1OWUyZDk4OGJmNDk1MzVjYzk4NWNi",
+  "snapshot_id": "MTYxMzkxNzYzNywwMDAwMDAwMDM1MGExNmY0NmMzOTU2MWMzZWZmMzcyZmM1MGI0ZDc0",
   "tracks": [
     {
       "added_at": "2021-02-21 14:27:17",
@@ -159,6 +159,22 @@
     {
       "added_at": "2021-02-21 14:27:17",
       "album": {
+        "name": "Mish Kayan Hayek T'Koun",
+        "url": "https://open.spotify.com/album/2ghb9Yy8zjyrgamm3SRzdI"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "duration_ms": 350800,
+      "name": "Sallimleh Alayh",
+      "url": "https://open.spotify.com/track/2gVHZ9GmBjUX76jaI2syD7"
+    },
+    {
+      "added_at": "2021-02-21 14:27:17",
+      "album": {
         "name": "Alby Eshekha",
         "url": "https://open.spotify.com/album/75u5u50zTx0gw9RwVtwt90"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 259666,
       "name": "A\u00efcha - Version Mixte",
       "url": "https://open.spotify.com/track/59TEwguuXqdtjUrdG5trEa"
-    },
-    {
-      "added_at": "2021-02-21 14:27:17",
-      "album": {
-        "name": "Mish Kayan Hayek T'Koun",
-        "url": "https://open.spotify.com/album/2ghb9Yy8zjyrgamm3SRzdI"
-      },
-      "artists": [
-        {
-          "name": "Fairuz",
-          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
-        }
-      ],
-      "duration_ms": 350800,
-      "name": "Sallimleh Alayh",
-      "url": "https://open.spotify.com/track/2gVHZ9GmBjUX76jaI2syD7"
     },
     {
       "added_at": "2021-02-21 14:27:17",
@@ -383,22 +383,6 @@
     {
       "added_at": "2021-02-21 14:27:17",
       "album": {
-        "name": "Nour El Ein",
-        "url": "https://open.spotify.com/album/3qZ0kZ8d3F8EpvEyx0yemA"
-      },
-      "artists": [
-        {
-          "name": "Amr Diab",
-          "url": "https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M"
-        }
-      ],
-      "duration_ms": 275553,
-      "name": "Nafs El Makan",
-      "url": "https://open.spotify.com/track/2XPnzYLx2hLHVLz6REezsr"
-    },
-    {
-      "added_at": "2021-02-21 14:27:17",
-      "album": {
         "name": "1, 2, 3 Soleils",
         "url": "https://open.spotify.com/album/6z2xalLZtysIZqpQJNkRUO"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 259613,
       "name": "Sahrany",
       "url": "https://open.spotify.com/track/0Ky7MMa6YeAXNofU3F1hoe"
+    },
+    {
+      "added_at": "2021-02-21 14:27:17",
+      "album": {
+        "name": "Nour El Ein",
+        "url": "https://open.spotify.com/album/3qZ0kZ8d3F8EpvEyx0yemA"
+      },
+      "artists": [
+        {
+          "name": "Amr Diab",
+          "url": "https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M"
+        }
+      ],
+      "duration_ms": 275553,
+      "name": "Nafs El Makan",
+      "url": "https://open.spotify.com/track/2XPnzYLx2hLHVLz6REezsr"
     },
     {
       "added_at": "2021-02-21 14:27:17",
@@ -567,6 +567,22 @@
     {
       "added_at": "2021-02-21 14:27:17",
       "album": {
+        "name": "Ya Leila",
+        "url": "https://open.spotify.com/album/651XwngqHNHNhwEsvOUL10"
+      },
+      "artists": [
+        {
+          "name": "Hisham Abbas",
+          "url": "https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG"
+        }
+      ],
+      "duration_ms": 291383,
+      "name": "Layali El Shouq",
+      "url": "https://open.spotify.com/track/1qQzDpRp5r54W6qdCWW0VX"
+    },
+    {
+      "added_at": "2021-02-21 14:27:17",
+      "album": {
         "name": "Roh Alby",
         "url": "https://open.spotify.com/album/09iSw6kGLKGL65mTxXUHp9"
       },
@@ -583,18 +599,18 @@
     {
       "added_at": "2021-02-21 14:27:17",
       "album": {
-        "name": "Ya Leila",
-        "url": "https://open.spotify.com/album/651XwngqHNHNhwEsvOUL10"
+        "name": "Sahrany",
+        "url": "https://open.spotify.com/album/5uHM1w5ArPnv1foKaRqoiI"
       },
       "artists": [
         {
-          "name": "Hisham Abbas",
-          "url": "https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG"
+          "name": "Ehab Tawfik",
+          "url": "https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C"
         }
       ],
-      "duration_ms": 291383,
-      "name": "Layali El Shouq",
-      "url": "https://open.spotify.com/track/1qQzDpRp5r54W6qdCWW0VX"
+      "duration_ms": 225346,
+      "name": "El Ayam El Helwa",
+      "url": "https://open.spotify.com/track/2tVmbxRx2W0SN3OVXZfIGL"
     },
     {
       "added_at": "2021-02-21 14:27:17",
@@ -647,22 +663,6 @@
     {
       "added_at": "2021-02-21 14:27:17",
       "album": {
-        "name": "Sahrany",
-        "url": "https://open.spotify.com/album/5uHM1w5ArPnv1foKaRqoiI"
-      },
-      "artists": [
-        {
-          "name": "Ehab Tawfik",
-          "url": "https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C"
-        }
-      ],
-      "duration_ms": 225346,
-      "name": "El Ayam El Helwa",
-      "url": "https://open.spotify.com/track/2tVmbxRx2W0SN3OVXZfIGL"
-    },
-    {
-      "added_at": "2021-02-21 14:27:17",
-      "album": {
         "name": "Hayel",
         "url": "https://open.spotify.com/album/7aNsmE7MTPD6xH4QVCB5NW"
       },
@@ -695,18 +695,18 @@
     {
       "added_at": "2021-02-21 14:27:17",
       "album": {
-        "name": "Ahla Hekaya",
-        "url": "https://open.spotify.com/album/0UEaqW4PgIau35th1V7Ahv"
+        "name": "Esa'aly",
+        "url": "https://open.spotify.com/album/08Xmbnzwl0qmaui4ystYRJ"
       },
       "artists": [
         {
-          "name": "Amr Tantawy",
-          "url": "https://open.spotify.com/artist/3CGtuA8TxzMGjJ3BSyPII3"
+          "name": "Mohamed Fouad & Haggag Abdul Rahman",
+          "url": "https://open.spotify.com/artist/2C6nBdNa0zhNWDYGtBNh6U"
         }
       ],
-      "duration_ms": 242369,
-      "name": "Asheq",
-      "url": "https://open.spotify.com/track/2oru5RAnipKp3ABLrZodNM"
+      "duration_ms": 254955,
+      "name": "Esa'aly",
+      "url": "https://open.spotify.com/track/2BDA9qmy0Kp47nCsWWIy8O"
     },
     {
       "added_at": "2021-02-21 14:27:17",
@@ -727,18 +727,18 @@
     {
       "added_at": "2021-02-21 14:27:17",
       "album": {
-        "name": "Esa'aly",
-        "url": "https://open.spotify.com/album/08Xmbnzwl0qmaui4ystYRJ"
+        "name": "Ahla Hekaya",
+        "url": "https://open.spotify.com/album/0UEaqW4PgIau35th1V7Ahv"
       },
       "artists": [
         {
-          "name": "Mohamed Fouad & Haggag Abdul Rahman",
-          "url": "https://open.spotify.com/artist/2C6nBdNa0zhNWDYGtBNh6U"
+          "name": "Amr Tantawy",
+          "url": "https://open.spotify.com/artist/3CGtuA8TxzMGjJ3BSyPII3"
         }
       ],
-      "duration_ms": 254955,
-      "name": "Esa'aly",
-      "url": "https://open.spotify.com/track/2BDA9qmy0Kp47nCsWWIy8O"
+      "duration_ms": 242369,
+      "name": "Asheq",
+      "url": "https://open.spotify.com/track/2oru5RAnipKp3ABLrZodNM"
     },
     {
       "added_at": "2021-02-21 14:27:17",
@@ -791,22 +791,6 @@
     {
       "added_at": "2021-02-21 14:27:17",
       "album": {
-        "name": "Law Kent",
-        "url": "https://open.spotify.com/album/7p1TAYfTv8WNTOuBz9LQXc"
-      },
-      "artists": [
-        {
-          "name": "Angham",
-          "url": "https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg"
-        }
-      ],
-      "duration_ms": 227440,
-      "name": "Law Kent",
-      "url": "https://open.spotify.com/track/65iXruEgoZEcCThhLWAmgU"
-    },
-    {
-      "added_at": "2021-02-21 14:27:17",
-      "album": {
         "name": "Sahrany",
         "url": "https://open.spotify.com/album/7lSz0EJJ5fAABoP7CVIPN5"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 283924,
       "name": "Baheboh",
       "url": "https://open.spotify.com/track/2UuStUhhyOOOXISDgn0lMp"
+    },
+    {
+      "added_at": "2021-02-21 14:27:17",
+      "album": {
+        "name": "Law Kent",
+        "url": "https://open.spotify.com/album/7p1TAYfTv8WNTOuBz9LQXc"
+      },
+      "artists": [
+        {
+          "name": "Angham",
+          "url": "https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg"
+        }
+      ],
+      "duration_ms": 227440,
+      "name": "Law Kent",
+      "url": "https://open.spotify.com/track/65iXruEgoZEcCThhLWAmgU"
     }
   ],
   "unique_name": "90s Arabic Hits",

@@ -1,12 +1,12 @@
 {
   "description": "Productores latinos underground para bailar con aud\u00edfonos.",
-  "num_followers": 120313,
+  "num_followers": 120321,
   "original_name": "Escena Electr\u00f3nica Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg2NTM0OSwwMDAwMDAwMGQ3ZTRlZjEwMjJkZjBkNzY1ZWRmZDc4ZGEyYjdkMmM5",
+  "snapshot_id": "MTY2MDg2NTM0OSwwMDAwMDAwMGUyZWRjNmU0MGRiZTE3MmJmNDcyMDg3OTI4NjE2ODU1",
   "tracks": [
     {
       "added_at": "2022-08-18 23:29:09",
@@ -95,26 +95,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Estaci\u00f3n Esperanza",
-        "url": "https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        },
-        {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
-        }
-      ],
-      "duration_ms": 316721,
-      "name": "Estaci\u00f3n Esperanza",
-      "url": "https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Goteo",
         "url": "https://open.spotify.com/album/0bSLm9NcV2xx1cXNyQpy24"
       },
@@ -143,26 +123,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Bemb\u00e9",
-        "url": "https://open.spotify.com/album/4gvhsXGJz2vzI16PJuFznV"
-      },
-      "artists": [
-        {
-          "name": "PAUZA",
-          "url": "https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N"
-        },
-        {
-          "name": "Machiran",
-          "url": "https://open.spotify.com/artist/2G9YVfs6LKoJeFnGj4K3yx"
-        }
-      ],
-      "duration_ms": 197560,
-      "name": "Bemb\u00e9",
-      "url": "https://open.spotify.com/track/0yNL4Rma8wSmtBH39UuEUG"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Nuestra Forma",
         "url": "https://open.spotify.com/album/1Vr6Mf9IkYR5GEwjLyfxMq"
       },
@@ -179,22 +139,6 @@
       "duration_ms": 347073,
       "name": "No Puedo Funcionar",
       "url": "https://open.spotify.com/track/5ovjlgDlwy3fDfAWDh1Pki"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Puk",
-        "url": "https://open.spotify.com/album/4s2pQPbpvmtDTV2lecbqvi"
-      },
-      "artists": [
-        {
-          "name": "Turning Torso",
-          "url": "https://open.spotify.com/artist/6j5BxXSPPlGZIMeWjMoIPQ"
-        }
-      ],
-      "duration_ms": 204148,
-      "name": "Puk",
-      "url": "https://open.spotify.com/track/06nGBVYjH9ajxhrGQ2xfvV"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -219,18 +163,58 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Sarita Colonia",
-        "url": "https://open.spotify.com/album/0ku4piLs17h4xD7e92FEf6"
+        "name": "Estaci\u00f3n Esperanza",
+        "url": "https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ"
       },
       "artists": [
         {
           "name": "Sofia Kourtesis",
           "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        },
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
         }
       ],
-      "duration_ms": 227317,
-      "name": "Sarita Colonia - Edit",
-      "url": "https://open.spotify.com/track/0VNtKhOQZConLZc1GjQckk"
+      "duration_ms": 316721,
+      "name": "Estaci\u00f3n Esperanza",
+      "url": "https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Puk",
+        "url": "https://open.spotify.com/album/4s2pQPbpvmtDTV2lecbqvi"
+      },
+      "artists": [
+        {
+          "name": "Turning Torso",
+          "url": "https://open.spotify.com/artist/6j5BxXSPPlGZIMeWjMoIPQ"
+        }
+      ],
+      "duration_ms": 204148,
+      "name": "Puk",
+      "url": "https://open.spotify.com/track/06nGBVYjH9ajxhrGQ2xfvV"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Bemb\u00e9",
+        "url": "https://open.spotify.com/album/4gvhsXGJz2vzI16PJuFznV"
+      },
+      "artists": [
+        {
+          "name": "PAUZA",
+          "url": "https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N"
+        },
+        {
+          "name": "Machiran",
+          "url": "https://open.spotify.com/artist/2G9YVfs6LKoJeFnGj4K3yx"
+        }
+      ],
+      "duration_ms": 197560,
+      "name": "Bemb\u00e9",
+      "url": "https://open.spotify.com/track/0yNL4Rma8wSmtBH39UuEUG"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -335,6 +319,22 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
+        "name": "Sarita Colonia",
+        "url": "https://open.spotify.com/album/0ku4piLs17h4xD7e92FEf6"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 227317,
+      "name": "Sarita Colonia - Edit",
+      "url": "https://open.spotify.com/track/0VNtKhOQZConLZc1GjQckk"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
         "name": "Cruda",
         "url": "https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH"
       },
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Fuego Nuevo",
-        "url": "https://open.spotify.com/album/3jXvU3BbxtNU9q5XG4BvDh"
-      },
-      "artists": [
-        {
-          "name": "Nicola Cruz",
-          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
-        }
-      ],
-      "duration_ms": 298448,
-      "name": "Limon Pelado",
-      "url": "https://open.spotify.com/track/4AObAZOnmRqCET9CgdzoeD"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Illusions of Shameless Abundance",
         "url": "https://open.spotify.com/album/7xULtQ7JrUi2t7fD2sn0B0"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 546693,
       "name": "Alucinao",
       "url": "https://open.spotify.com/track/6bkbxLo2NwGu7jP5quwsMq"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Fuego Nuevo",
+        "url": "https://open.spotify.com/album/3jXvU3BbxtNU9q5XG4BvDh"
+      },
+      "artists": [
+        {
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
+        }
+      ],
+      "duration_ms": 298448,
+      "name": "Limon Pelado",
+      "url": "https://open.spotify.com/track/4AObAZOnmRqCET9CgdzoeD"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -683,6 +683,26 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
+        "name": "Bufebe",
+        "url": "https://open.spotify.com/album/1BU2ah2FQ4SbswByhQonrO"
+      },
+      "artists": [
+        {
+          "name": "Bufi",
+          "url": "https://open.spotify.com/artist/0ckrHQgGWuXzYxRM0jLOZZ"
+        },
+        {
+          "name": "Kubebe",
+          "url": "https://open.spotify.com/artist/05EKr75TBeDGYstwAKRMpH"
+        }
+      ],
+      "duration_ms": 324444,
+      "name": "Corrado",
+      "url": "https://open.spotify.com/track/0ulKl0MCIn9mYHmxK8DLA2"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
         "name": "Collateral",
         "url": "https://open.spotify.com/album/25hxlT3FXHFLHzBBwZOUOV"
       },
@@ -715,42 +735,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Bufebe",
-        "url": "https://open.spotify.com/album/1BU2ah2FQ4SbswByhQonrO"
-      },
-      "artists": [
-        {
-          "name": "Bufi",
-          "url": "https://open.spotify.com/artist/0ckrHQgGWuXzYxRM0jLOZZ"
-        },
-        {
-          "name": "Kubebe",
-          "url": "https://open.spotify.com/artist/05EKr75TBeDGYstwAKRMpH"
-        }
-      ],
-      "duration_ms": 324444,
-      "name": "Corrado",
-      "url": "https://open.spotify.com/track/0ulKl0MCIn9mYHmxK8DLA2"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Mala Hierba",
-        "url": "https://open.spotify.com/album/2gUpydA3UPgqBkpjGbCCOy"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda y Jos\u00e9",
-          "url": "https://open.spotify.com/artist/6DsIWcjlRh4a01ig2mutYX"
-        }
-      ],
-      "duration_ms": 215111,
-      "name": "Mala Hierba",
-      "url": "https://open.spotify.com/track/1QjfhdsjAMgXKR78X7NUXr"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Ananda",
         "url": "https://open.spotify.com/album/458iq3ckasP86d5CoLlyJb"
       },
@@ -771,6 +755,22 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
+        "name": "Mala Hierba",
+        "url": "https://open.spotify.com/album/2gUpydA3UPgqBkpjGbCCOy"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda y Jos\u00e9",
+          "url": "https://open.spotify.com/artist/6DsIWcjlRh4a01ig2mutYX"
+        }
+      ],
+      "duration_ms": 215111,
+      "name": "Mala Hierba",
+      "url": "https://open.spotify.com/track/1QjfhdsjAMgXKR78X7NUXr"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
         "name": "Manila",
         "url": "https://open.spotify.com/album/7rwOOLEqFtz8cIsmW9UC91"
       },
@@ -783,26 +783,6 @@
       "duration_ms": 233200,
       "name": "Manila",
       "url": "https://open.spotify.com/track/1uo9jMH4Z3DrpPGi6jm9E4"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Sol de Invierno",
-        "url": "https://open.spotify.com/album/4LeJLxTUE07aLB6GBtYYIp"
-      },
-      "artists": [
-        {
-          "name": "Onda Mundial",
-          "url": "https://open.spotify.com/artist/5c5oay9VCy0a9RzFw1S8Dp"
-        },
-        {
-          "name": "Quixosis",
-          "url": "https://open.spotify.com/artist/1kBj1OQBW8iSmYbxIIQgcA"
-        }
-      ],
-      "duration_ms": 395452,
-      "name": "Sol de Invierno",
-      "url": "https://open.spotify.com/track/6dIbDu0GaRGODv9t7YvRnN"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -827,6 +807,50 @@
       "duration_ms": 267067,
       "name": "Tu Mirada",
       "url": "https://open.spotify.com/track/2iYy3bF7epY1Phd2ovqkbU"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Sol de Invierno",
+        "url": "https://open.spotify.com/album/4LeJLxTUE07aLB6GBtYYIp"
+      },
+      "artists": [
+        {
+          "name": "Onda Mundial",
+          "url": "https://open.spotify.com/artist/5c5oay9VCy0a9RzFw1S8Dp"
+        },
+        {
+          "name": "Quixosis",
+          "url": "https://open.spotify.com/artist/1kBj1OQBW8iSmYbxIIQgcA"
+        }
+      ],
+      "duration_ms": 395452,
+      "name": "Sol de Invierno",
+      "url": "https://open.spotify.com/track/6dIbDu0GaRGODv9t7YvRnN"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Pebbles Mind Horrors",
+        "url": "https://open.spotify.com/album/2IwGCkhGFRnn0ojOZRyESl"
+      },
+      "artists": [
+        {
+          "name": "Theus Mago",
+          "url": "https://open.spotify.com/artist/5AmmljbTOeKJcfoTd6QCd3"
+        },
+        {
+          "name": "Mijo",
+          "url": "https://open.spotify.com/artist/4cLXwxOqso1lUoR0SIk0jl"
+        },
+        {
+          "name": "Rocco Desentis",
+          "url": "https://open.spotify.com/artist/6VhNyPvKFaJAzTe5sqPz89"
+        }
+      ],
+      "duration_ms": 370886,
+      "name": "Pebbles Mind Horrors",
+      "url": "https://open.spotify.com/track/3FJQL59dUXL0Xq6dJTMXXL"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -863,30 +887,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Pebbles Mind Horrors",
-        "url": "https://open.spotify.com/album/2IwGCkhGFRnn0ojOZRyESl"
-      },
-      "artists": [
-        {
-          "name": "Theus Mago",
-          "url": "https://open.spotify.com/artist/5AmmljbTOeKJcfoTd6QCd3"
-        },
-        {
-          "name": "Mijo",
-          "url": "https://open.spotify.com/artist/4cLXwxOqso1lUoR0SIk0jl"
-        },
-        {
-          "name": "Rocco Desentis",
-          "url": "https://open.spotify.com/artist/6VhNyPvKFaJAzTe5sqPz89"
-        }
-      ],
-      "duration_ms": 370886,
-      "name": "Pebbles Mind Horrors",
-      "url": "https://open.spotify.com/track/3FJQL59dUXL0Xq6dJTMXXL"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Dune Dune",
         "url": "https://open.spotify.com/album/4O80Saj92IWtbX9mio39oj"
       },
@@ -903,18 +903,18 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Drum Temple",
-        "url": "https://open.spotify.com/album/5yqrk9yWU3kk8OwfWSgMnc"
+        "name": "Tiburon",
+        "url": "https://open.spotify.com/album/25kGnhGZgaWHsvlrcOaYL4"
       },
       "artists": [
         {
-          "name": "Omaar",
-          "url": "https://open.spotify.com/artist/6HYCLQ4rq3A3VSXBWIMUsW"
+          "name": "Dany F",
+          "url": "https://open.spotify.com/artist/4E0D8VmVgWeyOtSZozgEYV"
         }
       ],
-      "duration_ms": 387673,
-      "name": "Arriba y Abajo",
-      "url": "https://open.spotify.com/track/5VQtGffW8zgmAF5nRKoSv2"
+      "duration_ms": 294625,
+      "name": "Tiburon",
+      "url": "https://open.spotify.com/track/4luglnusaGpm8FhNjDmMpg"
     }
   ],
   "unique_name": "Escena Electr\u00f3nica Experimental",

@@ -1,12 +1,12 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Sia.",
-  "num_followers": 3323617,
+  "num_followers": 3323346,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjQ2MCwwMDAwMDAwMDkyNmU4MGE2OWI1ZDgxYmI5ZjNhYzgyZWYzOTEzZmQ4",
+  "snapshot_id": "MTY2MTQ4NjQ2MCwwMDAwMDAwMDBjMzM4NjIwOGJiZDg4ODVmMmIxZWZhNTZkZDI5Mjcz",
   "tracks": [
     {
       "added_at": "2022-08-26 04:01:00",
@@ -291,26 +291,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "More Than A Woman (SG's Paradise Edit)",
-        "url": "https://open.spotify.com/album/2iTmTEm55PIjLdYjDCKh96"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        },
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        }
-      ],
-      "duration_ms": 357936,
-      "name": "More Than A Woman - SG's Paradise Edit",
-      "url": "https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Another Love (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/1QltVGlNGbK94CKgUsYZGa"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 185365,
       "name": "Another Love - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/4Et6tUEO7biKxZEfJXpNj1"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "More Than A Woman (SG's Paradise Edit)",
+        "url": "https://open.spotify.com/album/2iTmTEm55PIjLdYjDCKh96"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        },
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "duration_ms": 357936,
+      "name": "More Than A Woman - SG's Paradise Edit",
+      "url": "https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -419,30 +419,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Titanium (feat. Sia) [David Guetta & MORTEN Future Rave Remix]",
-        "url": "https://open.spotify.com/album/2Eke7bWyUPKdFx3UdQh4rI"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 211428,
-      "name": "Titanium (feat. Sia) - David Guetta & MORTEN Future Rave Remix",
-      "url": "https://open.spotify.com/track/5072hCBK3Z15qRnTEzd8fy"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "How Do I Make You Love Me? (Sebastian Ingrosso & Salvatore Ganacci Remix)",
         "url": "https://open.spotify.com/album/181WKxuhHzTyjMcYdI7UUe"
       },
@@ -483,6 +459,50 @@
       "duration_ms": 171265,
       "name": "Don't Go Yet - Major Lazer Remix",
       "url": "https://open.spotify.com/track/5Ay8r4qxJ1OYLS91tWysRf"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Titanium (feat. Sia) [David Guetta & MORTEN Future Rave Remix]",
+        "url": "https://open.spotify.com/album/2Eke7bWyUPKdFx3UdQh4rI"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 211428,
+      "name": "Titanium (feat. Sia) - David Guetta & MORTEN Future Rave Remix",
+      "url": "https://open.spotify.com/track/5072hCBK3Z15qRnTEzd8fy"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Go (Remixes)",
+        "url": "https://open.spotify.com/album/1kGbwOHke3PrRnZAmlkoOu"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        },
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        }
+      ],
+      "duration_ms": 192514,
+      "name": "go - goddard. Remix",
+      "url": "https://open.spotify.com/track/6RZo8T7GY9EoWZXC5i2587"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -551,30 +571,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "edamame (feat. Rich Brian) [Diplo Remix]",
-        "url": "https://open.spotify.com/album/2pcFjaO7Eouy8DiDV9mmjW"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        },
-        {
-          "name": "Rich Brian",
-          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        }
-      ],
-      "duration_ms": 175309,
-      "name": "edamame (feat. Rich Brian) - Diplo Remix",
-      "url": "https://open.spotify.com/track/1fvEC5ksBfgjGWVNP9eJ2t"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Moth To A Flame (Adriatique Remix)",
         "url": "https://open.spotify.com/album/0lyIECV269U9MTTCc3gOkC"
       },
@@ -599,26 +595,26 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "My Universe (Galantis Remix)",
-        "url": "https://open.spotify.com/album/7eMHMiz2uvtDDMbvKRJxlP"
+        "name": "edamame (feat. Rich Brian) [Diplo Remix]",
+        "url": "https://open.spotify.com/album/2pcFjaO7Eouy8DiDV9mmjW"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
         },
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
         },
         {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
         }
       ],
-      "duration_ms": 224908,
-      "name": "My Universe - Galantis Remix",
-      "url": "https://open.spotify.com/track/1DlczmjByrS4qxRVfGjpqN"
+      "duration_ms": 175309,
+      "name": "edamame (feat. Rich Brian) - Diplo Remix",
+      "url": "https://open.spotify.com/track/1fvEC5ksBfgjGWVNP9eJ2t"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -647,22 +643,26 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Go (Remixes)",
-        "url": "https://open.spotify.com/album/1kGbwOHke3PrRnZAmlkoOu"
+        "name": "My Universe (Galantis Remix)",
+        "url": "https://open.spotify.com/album/7eMHMiz2uvtDDMbvKRJxlP"
       },
       "artists": [
         {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         },
         {
-          "name": "goddard.",
-          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
         }
       ],
-      "duration_ms": 192514,
-      "name": "go - goddard. Remix",
-      "url": "https://open.spotify.com/track/6RZo8T7GY9EoWZXC5i2587"
+      "duration_ms": 224908,
+      "name": "My Universe - Galantis Remix",
+      "url": "https://open.spotify.com/track/1DlczmjByrS4qxRVfGjpqN"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -711,26 +711,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Shivers (Dillon Francis Remix)",
-        "url": "https://open.spotify.com/album/1IhjAej4bFQdXNh9yRwE7B"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        }
-      ],
-      "duration_ms": 127766,
-      "name": "Shivers (Dillon Francis Remix) [Main Mix]",
-      "url": "https://open.spotify.com/track/59zbXPD0j7JxsVVm480g3b"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Dawn FM (Alternate World)",
         "url": "https://open.spotify.com/album/3esNgb0dchNmQ3MhlUVaa7"
       },
@@ -751,6 +731,26 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Shivers (Dillon Francis Remix)",
+        "url": "https://open.spotify.com/album/1IhjAej4bFQdXNh9yRwE7B"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "duration_ms": 127766,
+      "name": "Shivers (Dillon Francis Remix) [Main Mix]",
+      "url": "https://open.spotify.com/track/59zbXPD0j7JxsVVm480g3b"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "Sunshine. The EP",
         "url": "https://open.spotify.com/album/0XXoRMuytQq5EFiNmMXL6c"
       },
@@ -767,30 +767,6 @@
       "duration_ms": 188825,
       "name": "Sunshine - MOTi Remix",
       "url": "https://open.spotify.com/track/1zgV7obuDgU0DEaNCmPw8u"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Attention (with Justin Bieber) [Disclosure Remix]",
-        "url": "https://open.spotify.com/album/1ERLtCOCCebS12VHYTq3cF"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        },
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 256644,
-      "name": "Attention (with Justin Bieber) - Disclosure Remix",
-      "url": "https://open.spotify.com/track/1xx7iMgSyLnbDUi170lVbb"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -823,6 +799,30 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Attention (with Justin Bieber) [Disclosure Remix]",
+        "url": "https://open.spotify.com/album/1ERLtCOCCebS12VHYTq3cF"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 256644,
+      "name": "Attention (with Justin Bieber) - Disclosure Remix",
+      "url": "https://open.spotify.com/track/1xx7iMgSyLnbDUi170lVbb"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "My Head & My Heart (Claptone Remix)",
         "url": "https://open.spotify.com/album/5t9BpDVQZu6T7H7qZPqlth"
       },
@@ -843,50 +843,30 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "So Good (Jax Jones Remix)",
-        "url": "https://open.spotify.com/album/05HiKYFzAQ196KJ6MpnEui"
+        "name": "Si Es Trucho Es Trucho (feat. El Alfa & Farruko) [Ti\u00ebsto Remix]",
+        "url": "https://open.spotify.com/album/6eV4MyQxYM4BApNtVuutdt"
       },
       "artists": [
         {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+          "name": "Axel Rulay",
+          "url": "https://open.spotify.com/artist/7ur9H6w9OqIgWrmM2GUWuB"
         },
         {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 189143,
-      "name": "So Good - Jax Jones Remix",
-      "url": "https://open.spotify.com/track/5K2wtWyngZwbkrvqHc1YM8"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Crazy What Love Can (with Becky Hill & Ella Henderson) [David Guetta & James Hype Remix]",
-        "url": "https://open.spotify.com/album/3FG6RcLianncdEUF6ydMPt"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        }
-      ],
-      "duration_ms": 160563,
-      "name": "Crazy What Love Can (with Becky Hill & Ella Henderson) - David Guetta & James Hype Remix",
-      "url": "https://open.spotify.com/track/3WxudMmNMRRect1cLF5KuO"
+      "duration_ms": 146000,
+      "name": "Si Es Trucho Es Trucho (feat. El Alfa & Farruko) - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/2myCSCZ8dbZmtSJs6xOWbN"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -955,6 +935,78 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Hallucination (Navos Remix)",
+        "url": "https://open.spotify.com/album/0WKL2d7faG0lR3HLJuvT6v"
+      },
+      "artists": [
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        },
+        {
+          "name": "Years & Years",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        },
+        {
+          "name": "Navos",
+          "url": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
+        }
+      ],
+      "duration_ms": 150040,
+      "name": "Hallucination - Navos Remix",
+      "url": "https://open.spotify.com/track/5VrfQqPD5hymxVQzd5pkkw"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Crazy What Love Can (with Becky Hill & Ella Henderson) [David Guetta & James Hype Remix]",
+        "url": "https://open.spotify.com/album/3FG6RcLianncdEUF6ydMPt"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "duration_ms": 160563,
+      "name": "Crazy What Love Can (with Becky Hill & Ella Henderson) - David Guetta & James Hype Remix",
+      "url": "https://open.spotify.com/track/3WxudMmNMRRect1cLF5KuO"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "So Good (Jax Jones Remix)",
+        "url": "https://open.spotify.com/album/05HiKYFzAQ196KJ6MpnEui"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        }
+      ],
+      "duration_ms": 189143,
+      "name": "So Good - Jax Jones Remix",
+      "url": "https://open.spotify.com/track/5K2wtWyngZwbkrvqHc1YM8"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "Out Of Time (Remix Bundle)",
         "url": "https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ"
       },
@@ -991,30 +1043,6 @@
       "duration_ms": 224649,
       "name": "Message In A Bottle (Fat Max G Remix) (Taylor\u2019s Version)",
       "url": "https://open.spotify.com/track/3tGq7hWDCtrnL83y5OGual"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Hallucination (Navos Remix)",
-        "url": "https://open.spotify.com/album/0WKL2d7faG0lR3HLJuvT6v"
-      },
-      "artists": [
-        {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
-        },
-        {
-          "name": "Years & Years",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        },
-        {
-          "name": "Navos",
-          "url": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
-        }
-      ],
-      "duration_ms": 150040,
-      "name": "Hallucination - Navos Remix",
-      "url": "https://open.spotify.com/track/5VrfQqPD5hymxVQzd5pkkw"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1091,6 +1119,34 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Caught Up (Remixes)",
+        "url": "https://open.spotify.com/album/0wUpf9fuf6jPQ5vKsUOjN6"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Olivia O'Brien",
+          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
+        },
+        {
+          "name": "Zack Martino",
+          "url": "https://open.spotify.com/artist/2US2mjK9hW7QGSBNpprlbu"
+        },
+        {
+          "name": "Leondis",
+          "url": "https://open.spotify.com/artist/0wxqz8uaPaewwCEqsYQHn8"
+        }
+      ],
+      "duration_ms": 159375,
+      "name": "Caught Up (feat. Olivia O'Brien) - Zack Martino x Leondis Remix",
+      "url": "https://open.spotify.com/track/6Jb25vR1uk3wm7DTirf1Uh"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "Good Ones (Joel Corry Remix)",
         "url": "https://open.spotify.com/album/6gSdPxoDUwQ7ClDwEsq7gv"
       },
@@ -1131,30 +1187,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Caught Up (Remixes)",
-        "url": "https://open.spotify.com/album/0wUpf9fuf6jPQ5vKsUOjN6"
+        "name": "Original Sin (Felix Jaehn Remix)",
+        "url": "https://open.spotify.com/album/77FbpXGyS9pbEaiHymovlP"
       },
       "artists": [
         {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
         },
         {
-          "name": "Olivia O'Brien",
-          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
-        },
-        {
-          "name": "Zack Martino",
-          "url": "https://open.spotify.com/artist/2US2mjK9hW7QGSBNpprlbu"
-        },
-        {
-          "name": "Leondis",
-          "url": "https://open.spotify.com/artist/0wxqz8uaPaewwCEqsYQHn8"
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
         }
       ],
-      "duration_ms": 159375,
-      "name": "Caught Up (feat. Olivia O'Brien) - Zack Martino x Leondis Remix",
-      "url": "https://open.spotify.com/track/6Jb25vR1uk3wm7DTirf1Uh"
+      "duration_ms": 187923,
+      "name": "Original Sin - Felix Jaehn Remix",
+      "url": "https://open.spotify.com/track/0bczsNCHpJzjUnI45UShrx"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1179,42 +1227,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Original Sin (Felix Jaehn Remix)",
-        "url": "https://open.spotify.com/album/77FbpXGyS9pbEaiHymovlP"
+        "name": "Summertime Sadness (Imanbek Remix)",
+        "url": "https://open.spotify.com/album/5XRtJEsQ1jLvOkQZdBjPZZ"
       },
       "artists": [
         {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         },
         {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
         }
       ],
-      "duration_ms": 187923,
-      "name": "Original Sin - Felix Jaehn Remix",
-      "url": "https://open.spotify.com/track/0bczsNCHpJzjUnI45UShrx"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "this is what falling in love feels like (R3HAB Remix)",
-        "url": "https://open.spotify.com/album/1lz0KrBP6HQtgv3A6w7fap"
-      },
-      "artists": [
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "this is what falling in love feels like - R3HAB Remix",
-      "url": "https://open.spotify.com/track/1oUisglJjlTLsSd9OFqSf2"
+      "duration_ms": 265997,
+      "name": "Summertime - Imanbek Remix",
+      "url": "https://open.spotify.com/track/0f3cLpriwmAnZu5kRrssc5"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1243,22 +1271,42 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Summertime Sadness (Imanbek Remix)",
-        "url": "https://open.spotify.com/album/5XRtJEsQ1jLvOkQZdBjPZZ"
+        "name": "this is what falling in love feels like (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/1lz0KrBP6HQtgv3A6w7fap"
       },
       "artists": [
         {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
         },
         {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
         }
       ],
-      "duration_ms": 265997,
-      "name": "Summertime - Imanbek Remix",
-      "url": "https://open.spotify.com/track/0f3cLpriwmAnZu5kRrssc5"
+      "duration_ms": 132000,
+      "name": "this is what falling in love feels like - R3HAB Remix",
+      "url": "https://open.spotify.com/track/1oUisglJjlTLsSd9OFqSf2"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Easy Lover (Four Tet Remix)",
+        "url": "https://open.spotify.com/album/7Hi2jinZs7a7dWwoBK2LES"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 251581,
+      "name": "Easy Lover - Four Tet Remix",
+      "url": "https://open.spotify.com/track/08LkoUvYs9AtUTp9RZZvBI"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1379,26 +1427,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Easy Lover (Four Tet Remix)",
-        "url": "https://open.spotify.com/album/7Hi2jinZs7a7dWwoBK2LES"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        },
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 251581,
-      "name": "Easy Lover - Four Tet Remix",
-      "url": "https://open.spotify.com/track/08LkoUvYs9AtUTp9RZZvBI"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Green Green Grass (Sam Feldt Remix)",
         "url": "https://open.spotify.com/album/5pV6QQhxoKOEI9keLU3YFV"
       },
@@ -1439,30 +1467,26 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Good Luck (D.O.D Remix)",
-        "url": "https://open.spotify.com/album/0SwhUVYIId1xWWjk02CY4g"
+        "name": "Numb (Remixes)",
+        "url": "https://open.spotify.com/album/3Q2Ay2Zq5NbpDWqtendJK9"
       },
       "artists": [
         {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
         },
         {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         },
         {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+          "name": "DJ YUKI",
+          "url": "https://open.spotify.com/artist/4FMFA5iNrEH3pJGnolicsB"
         }
       ],
-      "duration_ms": 172413,
-      "name": "Good Luck - D.O.D Remix",
-      "url": "https://open.spotify.com/track/2iDejv4THvGsopBwdmWbXd"
+      "duration_ms": 154838,
+      "name": "Numb - DJ YUKI Remix",
+      "url": "https://open.spotify.com/track/1M2eYYojjNSeFbVPnh20zF"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1491,6 +1515,34 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Good Luck (D.O.D Remix)",
+        "url": "https://open.spotify.com/album/0SwhUVYIId1xWWjk02CY4g"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        }
+      ],
+      "duration_ms": 172413,
+      "name": "Good Luck - D.O.D Remix",
+      "url": "https://open.spotify.com/track/2iDejv4THvGsopBwdmWbXd"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "Discoteca (Deorro Remix)",
         "url": "https://open.spotify.com/album/4hbQnVsOamBrrAhYFzw4Fj"
       },
@@ -1515,26 +1567,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Jungle (Rico Nasty Remix)",
-        "url": "https://open.spotify.com/album/6dEwlsUtkc8WRN8oYejxH2"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 213133,
-      "name": "Jungle - Rico Nasty Remix",
-      "url": "https://open.spotify.com/track/1c4R7VEZSRIqO2eGR9LKXX"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Late Night Feels (Jonasu Remix)",
         "url": "https://open.spotify.com/album/37OtGHLXF2cn1OtwQCGEzB"
       },
@@ -1555,6 +1587,50 @@
       "duration_ms": 164292,
       "name": "Late Night Feels (Jonasu Remix)",
       "url": "https://open.spotify.com/track/7zJI79rADQwgirQDrJ4kOR"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Jungle (Rico Nasty Remix)",
+        "url": "https://open.spotify.com/album/6dEwlsUtkc8WRN8oYejxH2"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 213133,
+      "name": "Jungle - Rico Nasty Remix",
+      "url": "https://open.spotify.com/track/1c4R7VEZSRIqO2eGR9LKXX"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "All That Really Matters (Will Clarke Remix)",
+        "url": "https://open.spotify.com/album/4PXFoJesZ5XrO4mmwTSNfm"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        },
+        {
+          "name": "Will Clarke",
+          "url": "https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi"
+        }
+      ],
+      "duration_ms": 229663,
+      "name": "All That Really Matters - Will Clarke Remix",
+      "url": "https://open.spotify.com/track/67stT9mRSOt6eO1bjB2AlH"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1587,50 +1663,6 @@
       "duration_ms": 233462,
       "name": "Let You Go - Sebastian Ingrosso & Desembra Remix",
       "url": "https://open.spotify.com/track/0nMwQVS9TDSMdg9cI0HCzA"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "All That Really Matters (Will Clarke Remix)",
-        "url": "https://open.spotify.com/album/4PXFoJesZ5XrO4mmwTSNfm"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        },
-        {
-          "name": "Will Clarke",
-          "url": "https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi"
-        }
-      ],
-      "duration_ms": 229663,
-      "name": "All That Really Matters - Will Clarke Remix",
-      "url": "https://open.spotify.com/track/67stT9mRSOt6eO1bjB2AlH"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "On My Way (Marry Me) [TELYKast Remix]",
-        "url": "https://open.spotify.com/album/14irOjLIV5xNvGmO2c66qr"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "TELYKast",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        }
-      ],
-      "duration_ms": 218209,
-      "name": "On My Way (Marry Me) - TELYKast Remix",
-      "url": "https://open.spotify.com/track/0ldyOpAYtavIapulYOwGfz"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1675,6 +1707,26 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "On My Way (Marry Me) [TELYKast Remix]",
+        "url": "https://open.spotify.com/album/14irOjLIV5xNvGmO2c66qr"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "TELYKast",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        }
+      ],
+      "duration_ms": 218209,
+      "name": "On My Way (Marry Me) - TELYKast Remix",
+      "url": "https://open.spotify.com/track/0ldyOpAYtavIapulYOwGfz"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "Don\u2019t Wake Me Up (Sevenn Remix)",
         "url": "https://open.spotify.com/album/4CI8CduQt7feuYZeSyTuZi"
       },
@@ -1695,6 +1747,26 @@
       "duration_ms": 236065,
       "name": "Don\u2019t Wake Me Up - Sevenn Remix",
       "url": "https://open.spotify.com/track/6k5vdsmeY5yFWLcKhMBIsN"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Clarity (Chris Malinchak Mix)",
+        "url": "https://open.spotify.com/album/5heZ44v5LJyE8xBe4BBir9"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        },
+        {
+          "name": "Chris Malinchak",
+          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
+        }
+      ],
+      "duration_ms": 230395,
+      "name": "Clarity - Chris Malinchak Mix",
+      "url": "https://open.spotify.com/track/0Mv64uPH8nm7yZPPAj8HYe"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1811,6 +1883,26 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Nothing Hurts (Afrojack Remix)",
+        "url": "https://open.spotify.com/album/4z7l1cSAwCcaDoaxXwNZ9x"
+      },
+      "artists": [
+        {
+          "name": "Minelli",
+          "url": "https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc"
+        },
+        {
+          "name": "Afrojack",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 186856,
+      "name": "Nothing Hurts (Afrojack Remix)",
+      "url": "https://open.spotify.com/track/58680i3qsAwKYecyD2zwgq"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "i hope ur miserable until ur dead (Jauz Remix)",
         "url": "https://open.spotify.com/album/0hy69B5DiAkwSeQGhVhWrG"
       },
@@ -1831,22 +1923,26 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Nothing Hurts (Afrojack Remix)",
-        "url": "https://open.spotify.com/album/4z7l1cSAwCcaDoaxXwNZ9x"
+        "name": "Diplo (Deluxe)",
+        "url": "https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7"
       },
       "artists": [
         {
-          "name": "Minelli",
-          "url": "https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc"
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
         },
         {
-          "name": "Afrojack",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
         }
       ],
-      "duration_ms": 186856,
-      "name": "Nothing Hurts (Afrojack Remix)",
-      "url": "https://open.spotify.com/track/58680i3qsAwKYecyD2zwgq"
+      "duration_ms": 210000,
+      "name": "Don't Forget My Love - John Summit Remix",
+      "url": "https://open.spotify.com/track/1iKiLPkFnYhbCm5uvaDwjS"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1959,30 +2055,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Diplo (Deluxe)",
-        "url": "https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        },
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Don't Forget My Love - John Summit Remix",
-      "url": "https://open.spotify.com/track/1iKiLPkFnYhbCm5uvaDwjS"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "In The Dark (Oliver Heldens Remix)",
         "url": "https://open.spotify.com/album/01bWDraeObhoL70kivgdOA"
       },
@@ -2007,6 +2079,38 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Deep Down (feat. Never Dull) [Nathan Dawe Remix]",
+        "url": "https://open.spotify.com/album/0pTxtBYmfKmTqlMdJkQOhx"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Ella Eyre",
+          "url": "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
+        },
+        {
+          "name": "Kenny Dope",
+          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
+        },
+        {
+          "name": "Never Dull",
+          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
+        },
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        }
+      ],
+      "duration_ms": 166463,
+      "name": "Deep Down (feat. Never Dull) - Nathan Dawe Remix",
+      "url": "https://open.spotify.com/track/6Ku2dAf2mm5ne7tT7QUbdF"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "What, Me Worry? (A-Trak Remix)",
         "url": "https://open.spotify.com/album/2JVRZc2yaAmXj89hYQS8oT"
       },
@@ -2023,6 +2127,50 @@
       "duration_ms": 207107,
       "name": "What, Me Worry? - A-Trak Remix",
       "url": "https://open.spotify.com/track/5Et1Ou9NJaX3f6vuWcsJDm"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Follow Me (Sick Individuals Remix)",
+        "url": "https://open.spotify.com/album/2DmvFfaBJeA9hy0yDQGuhf"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        },
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        }
+      ],
+      "duration_ms": 166865,
+      "name": "Follow Me - Sick Individuals Remix",
+      "url": "https://open.spotify.com/track/6BtVqI4JYCYi6mPmkzr5Rv"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Sway (Devault Remix)",
+        "url": "https://open.spotify.com/album/1aTsk8WDk9Gt9HPaiuJRKF"
+      },
+      "artists": [
+        {
+          "name": "Fitz and The Tantrums",
+          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
+        },
+        {
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "Sway - Devault Remix",
+      "url": "https://open.spotify.com/track/2x6JiPZP4myMTa0mqhWwNR"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -2067,26 +2215,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "See-Line Woman (Riton Remix)",
-        "url": "https://open.spotify.com/album/5TgdVipR636imv6aQaUnns"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        },
-        {
-          "name": "Riton",
-          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
-        }
-      ],
-      "duration_ms": 244413,
-      "name": "See-Line Woman - Riton Remix",
-      "url": "https://open.spotify.com/track/2BnoxYpCeEiDQSUNx1TZpf"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "All My Loving (Madism Remix)",
         "url": "https://open.spotify.com/album/2rG9uRu9tDlroe32vss7oM"
       },
@@ -2103,126 +2231,6 @@
       "duration_ms": 177929,
       "name": "All My Loving - Madism Remix",
       "url": "https://open.spotify.com/track/6iW66aukghrIFDU1uqLZYf"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Maybe You\u2019re The Problem (Crush Club Remix)",
-        "url": "https://open.spotify.com/album/3BGR19MUXT96YufDDLI52q"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        },
-        {
-          "name": "Crush Club",
-          "url": "https://open.spotify.com/artist/3xxRhjD7z41Q0hnNEjIifc"
-        }
-      ],
-      "duration_ms": 182578,
-      "name": "Maybe You\u2019re The Problem - Crush Club Remix",
-      "url": "https://open.spotify.com/track/0Si1vYQbl3IHbMkukfEHir"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Still Dancing (Kito Remix)",
-        "url": "https://open.spotify.com/album/4gwW16lbnbPPkPU16JwF30"
-      },
-      "artists": [
-        {
-          "name": "R\u00eave",
-          "url": "https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx"
-        },
-        {
-          "name": "Kito",
-          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
-        }
-      ],
-      "duration_ms": 188031,
-      "name": "Still Dancing - Kito Remix",
-      "url": "https://open.spotify.com/track/1XttwTKO9oQAPnAwiLrK2S"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Show Me Love (Dubdogz Remix)",
-        "url": "https://open.spotify.com/album/1X7xUwILj1IwRsTT8pRVv2"
-      },
-      "artists": [
-        {
-          "name": "Steve Angello",
-          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
-        },
-        {
-          "name": "Laidback Luke",
-          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
-        },
-        {
-          "name": "Robin S",
-          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
-        },
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        }
-      ],
-      "duration_ms": 189677,
-      "name": "Show Me Love - Dubdogz Remix",
-      "url": "https://open.spotify.com/track/3rawuN6ZSevOzM5FiAFRIO"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Sway (Devault Remix)",
-        "url": "https://open.spotify.com/album/1aTsk8WDk9Gt9HPaiuJRKF"
-      },
-      "artists": [
-        {
-          "name": "Fitz and The Tantrums",
-          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
-        },
-        {
-          "name": "Devault",
-          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "Sway - Devault Remix",
-      "url": "https://open.spotify.com/track/2x6JiPZP4myMTa0mqhWwNR"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Deep Down (feat. Never Dull) [Nathan Dawe Remix]",
-        "url": "https://open.spotify.com/album/0pTxtBYmfKmTqlMdJkQOhx"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Ella Eyre",
-          "url": "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
-        },
-        {
-          "name": "Kenny Dope",
-          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
-        },
-        {
-          "name": "Never Dull",
-          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
-        },
-        {
-          "name": "Nathan Dawe",
-          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
-        }
-      ],
-      "duration_ms": 166463,
-      "name": "Deep Down (feat. Never Dull) - Nathan Dawe Remix",
-      "url": "https://open.spotify.com/track/6Ku2dAf2mm5ne7tT7QUbdF"
     }
   ],
   "unique_name": "Pop Remix",

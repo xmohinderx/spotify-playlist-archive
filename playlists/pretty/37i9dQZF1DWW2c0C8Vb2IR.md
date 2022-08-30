@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 
 > All new, all jazz\. <a href="spotify:genre:0JQ5IMCbQBLmUyU8VyapEr">Click here for more new jazz.</a> Cover: Ezra Collective
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,629 likes - 44 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,590 likes - 44 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

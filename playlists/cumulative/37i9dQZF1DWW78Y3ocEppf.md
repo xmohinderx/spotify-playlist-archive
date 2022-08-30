@@ -4,7 +4,7 @@
 
 > The feelings you can't put into words...only songs\. Cover: Brent Faiyaz
 
-299 songs - 16 hr 29 min - [published](https://open.spotify.com/playlist/2kdisFoq51qaCb3npEXTAg)
+300 songs - 16 hr 32 min - [published](https://open.spotify.com/playlist/2kdisFoq51qaCb3npEXTAg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Clear My Mind](https://open.spotify.com/track/47zF41JzRRdJEJQPXlDQvz) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Clear My Mind](https://open.spotify.com/album/7DWz3qJP7YjXwhoEknFpz0) | 2:35 | 2021-12-15 | 2022-04-18 |
 | [Closure](https://open.spotify.com/track/3mxyrGa83man2oab7bQWCq) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Just Called To Say](https://open.spotify.com/album/71cmPnGco8aZf43LoNPW4X) | 2:02 | 2021-12-15 | 2022-06-19 |
 | [Closure \(feat\. H.E.R.\)](https://open.spotify.com/track/4QZlnnZzr2ikWn4jdiyFfk) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Breezy](https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM) | 3:03 | 2022-07-01 |  |
-| [Come First](https://open.spotify.com/track/0j6q1acgHc1gNkTiepU5LV) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Come First](https://open.spotify.com/album/7LWDRZYElyvnUydfYQ8poL) | 3:28 | 2022-08-05 |  |
+| [Come First](https://open.spotify.com/track/0j6q1acgHc1gNkTiepU5LV) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Come First](https://open.spotify.com/album/7LWDRZYElyvnUydfYQ8poL) | 3:28 | 2022-08-05 | 2022-08-30 |
 | [Comeback.](https://open.spotify.com/track/4i1sWZe3erL8QVRCdwMoxT) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Comeback.](https://open.spotify.com/album/0YPxsm4lh9nFvkGYNSYXsa) | 3:03 | 2021-12-15 | 2022-07-02 |
 | [Coming Down \(with Ari Lennox\)](https://open.spotify.com/track/3p2HpO3ZgvFs97L15hGZOn) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [D\-Day: A Gangsta Grillz Mixtape](https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy) | 2:36 | 2022-04-04 | 2022-07-29 |
 | [COMPLEX OF KILLING A MAN](https://open.spotify.com/track/6ihpg1nZjVS5N7rLIWeEXn) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [COMPLEX OF KILLING A MAN](https://open.spotify.com/album/0kroCqy4KxlRc6gRT9PneG) | 3:11 | 2022-06-10 | 2022-07-22 |
@@ -83,6 +83,7 @@
 | [DON'T PLAY WITH MY HEART](https://open.spotify.com/track/6pJhTkXKlGR3WZI7Mqbeem) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [DON'T PLAY WITH MY HEART](https://open.spotify.com/album/4ObdfMfycjd0NIuX6IcO5I) | 3:39 | 2021-12-15 | 2022-07-29 |
 | [Don't Wanna Pretend](https://open.spotify.com/track/1H89H0hdMKjj7Q2I5vYM0V) | [Shantel May](https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0) | [Don't Wanna Pretend](https://open.spotify.com/album/6c4oI3p1JhWsJVUlVDuA3s) | 3:45 | 2021-12-15 | 2022-05-08 |
 | [Don't You Know](https://open.spotify.com/track/6NstAfTbr3F6PnvGuis1YK) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q) | [Don't You Know](https://open.spotify.com/album/6QrAdAhJl3x79EGgBkKAtv) | 3:14 | 2022-03-25 | 2022-04-21 |
+| [Drunk Love](https://open.spotify.com/track/7cJbE0NrwtCE6hYC3YXvGp) | [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [ON THE ROCKS](https://open.spotify.com/album/0uGmnnclrvN2ucqgpgpdyz) | 2:56 | 2022-08-05 |  |
 | [DYING 4 YOUR LOVE](https://open.spotify.com/track/1Yx1TbWg1zbl6gQ3SCOFCN) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 3:24 | 2022-07-15 |  |
 | [DYING 4 YOUR LOVE](https://open.spotify.com/track/5d6qTZOLnj4zbgFGRoJiNz) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [DYING 4 YOUR LOVE](https://open.spotify.com/album/1EUCSZciwmAutnu9M8lqZW) | 3:26 | 2021-12-15 | 2022-07-29 |
 | [Earth Is Ghetto](https://open.spotify.com/track/4NHSCdUJmAqmyBaegp3NJj) | [Aliah Sheffield](https://open.spotify.com/artist/6qQANHDxlpq5OEz47UBzMJ) | [Earth Is Ghetto](https://open.spotify.com/album/6SnB0wtaNfB5hApKghuQSR) | 2:23 | 2022-04-29 | 2022-07-19 |

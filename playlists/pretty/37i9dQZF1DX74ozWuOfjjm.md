@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 
 > Listen to the women of AU & NZ at full volume\. Cover: Fazerdaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,915 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,906 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,13 +14,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 4 | [Alone](https://open.spotify.com/track/5nTpXk3qblGyziiRbu3TVd) | [AACACIA](https://open.spotify.com/artist/3asBhUZPp0r1Hzw2DlT4My) | [AACACIA](https://open.spotify.com/album/3Nj1iPvgZ2bj8bGIZ7I3yx) | 3:41 |
 | 5 | [Storm](https://open.spotify.com/track/3JMdlDm0x13FHmzIN9S7Hv) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Storm](https://open.spotify.com/album/1vlDZjBF1i3tAEP0OC1ITB) | 3:39 |
 | 6 | [Faith](https://open.spotify.com/track/6WpBZsVkUcbMxfknuZGdCx) | [Georgia Lines](https://open.spotify.com/artist/6mLG8h9CeWZ2QsuHIgka3c) | [Human](https://open.spotify.com/album/2q89RJTipv3bg26HbgkRHV) | 3:25 |
-| 7 | [Love, Try Not To Let Go](https://open.spotify.com/track/7AfohcV7S7wKlDxunC251v) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Love, Try Not To Let Go](https://open.spotify.com/album/2AFqo1i5mkxgmDu5AofJJ6) | 3:43 |
+| 7 | [Love, Try Not To Let Go](https://open.spotify.com/track/3deuNvlPWsdSSUmXt1xCG6) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/6TojjY9JPhsgR5U6r9g3ZC) | 3:43 |
 | 8 | [Ur So Annoying](https://open.spotify.com/track/0qwsNyrQFx5hXt9mxmOHzw) | [Jupita](https://open.spotify.com/artist/20dEUQqgrMGEybe0K79QpF) | [Ur So Annoying](https://open.spotify.com/album/3ameCWDwidBX4sVAmbahMc) | 2:38 |
 | 9 | [Expert In A Dying Field](https://open.spotify.com/track/7FxEMjLh4toXn1fVZAvT1O) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/6NxZFLWv5D3rr5Wom4HUvU) | 4:11 |
 | 10 | [We Don't Make Sense](https://open.spotify.com/track/1F0oe1ZtAHpLeg457RYsNQ) | [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m) | [We Don't Make Sense](https://open.spotify.com/album/7HhVrpvyofmC92EVWNRgqy) | 3:51 |
 | 11 | [is forever off the table?](https://open.spotify.com/track/1po8cEXRIOGcmDt2Ag8IU4) | [Carla Wehbe](https://open.spotify.com/artist/7G8jUNhcaie5DslhcoCB9w) | [is forever off the table?](https://open.spotify.com/album/0zyKAMlAh2zpnWtIk3A5ft) | 3:29 |
 | 12 | [Closer](https://open.spotify.com/track/3OBpUFjf9F2fLtYkHg7T3w) | [Haywood](https://open.spotify.com/artist/3rFhVqmS6XqZl4LcGLDzAu) | [Pressure On My Heart](https://open.spotify.com/album/6WZmNEImJwmXCbQGuvuHj5) | 3:05 |
-| 13 | [Flood](https://open.spotify.com/track/5I9ZDKKGg6TTNHTeS6bJJc) | [Stella Donnelly](https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es) | [Flood](https://open.spotify.com/album/6HD4wqnJYMPX3v3guWqjG6) | 3:43 |
+| 13 | [Flood](https://open.spotify.com/track/6WstYKyrp8qkVBNtpcvaO1) | [Stella Donnelly](https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es) | [Flood](https://open.spotify.com/album/3un2FDbZwuK5JidL4OFaTW) | 3:43 |
 | 14 | [Only Love](https://open.spotify.com/track/5a4LapS7L0iMuic84bXigB) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Only Love](https://open.spotify.com/album/5HSPiHE3WHEjLfjVl8sIc1) | 3:05 |
 | 15 | [Inhuman](https://open.spotify.com/track/0ncQ9YbooDMouzuq5SJOts) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Inhuman](https://open.spotify.com/album/6TiXS3ESOjoZWt3ZwhqbF6) | 3:42 |
 | 16 | [Never Forget \[Feat\. Chef 187, Tio Nason, Mwanjé\]](https://open.spotify.com/track/4pBr2SjDVIxfGkUwvOJLx7) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Chef 187](https://open.spotify.com/artist/26fSO7cYQ1Txtb8xNi8byv), [Tio Nason](https://open.spotify.com/artist/44vOrGC9wQuBCQIeBUNc1O), [Mwanje](https://open.spotify.com/artist/3BM1y5iZJFNwGFZC8ivubP) | [Never Forget](https://open.spotify.com/album/1TGT83DEhv2ovTITDUQA2q) | 3:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 99 | [Selfish](https://open.spotify.com/track/625zvGkOpwTNi4tZ54bdZH) | [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [Self Preservation](https://open.spotify.com/album/4F1hweOR3EvXq0VxMm6bUF) | 2:08 |
 | 100 | [Clueless In Suburbia](https://open.spotify.com/track/36Q7tpoLycNGNivepuUFxT) | [Yen Strange](https://open.spotify.com/artist/7lSQYcw1enXJdFHw678LAq) | [Clueless In Suburbia](https://open.spotify.com/album/1BMcInMvgt6NOxxcWvv1hz) | 3:17 |
 
-Snapshot ID: `MTY1OTMwOTU0MywwMDAwMDAwMGQ1NDVmZTk4MmQ3MWIwYTM1MzM4MTVkNTY3Yjk0YzE1`
+Snapshot ID: `MTY1OTMwOTU0MywwMDAwMDAwMDI1NzFlZDA3NThkZGNmMmExZGI2ZjI1YjUyNDRiMWZk`

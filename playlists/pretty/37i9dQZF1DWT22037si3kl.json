@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: Salaga, Clara Lima",
-  "num_followers": 54353,
+  "num_followers": 54477,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUyMzA5OSwwMDAwMDAwMGNkNWMwNWUxNzJmOTNhYWIzYzZlMDhiZTdjZGNjYWJm",
+  "snapshot_id": "MTY2MTUyMzA5OSwwMDAwMDAwMGUwNmJlYzVmMzliYzgwZDg1Y2NlNTc5ZjVmMGE2ZThl",
   "tracks": [
     {
       "added_at": "2022-08-26 14:11:39",
@@ -395,6 +395,34 @@
     {
       "added_at": "2022-08-26 14:11:39",
       "album": {
+        "name": "Hugo Boss",
+        "url": "https://open.spotify.com/album/0xoScocnUYyr9f49aCbsho"
+      },
+      "artists": [
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "Gabb MC",
+          "url": "https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "duration_ms": 214500,
+      "name": "Hugo Boss",
+      "url": "https://open.spotify.com/track/1OfwTYZQrsImsfnhHWrJr1"
+    },
+    {
+      "added_at": "2022-08-26 14:11:39",
+      "album": {
         "name": "Vlife",
         "url": "https://open.spotify.com/album/47on59OkWHDwxyP2zBjhwd"
       },
@@ -443,34 +471,6 @@
     {
       "added_at": "2022-08-26 14:11:39",
       "album": {
-        "name": "Hugo Boss",
-        "url": "https://open.spotify.com/album/0xoScocnUYyr9f49aCbsho"
-      },
-      "artists": [
-        {
-          "name": "Mc Paiva ZS",
-          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
-        },
-        {
-          "name": "Gabb MC",
-          "url": "https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2"
-        },
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 214500,
-      "name": "Hugo Boss",
-      "url": "https://open.spotify.com/track/1OfwTYZQrsImsfnhHWrJr1"
-    },
-    {
-      "added_at": "2022-08-26 14:11:39",
-      "album": {
         "name": "Facilitei",
         "url": "https://open.spotify.com/album/0b7ZE4V0Mxam2npJu2nYJC"
       },
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-08-26 14:11:39",
       "album": {
-        "name": "Progresso",
-        "url": "https://open.spotify.com/album/3dgya99ntx0TtotTsXnoFN"
-      },
-      "artists": [
-        {
-          "name": "Dfideliz",
-          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
-        }
-      ],
-      "duration_ms": 161311,
-      "name": "Progresso",
-      "url": "https://open.spotify.com/track/0tLRlU39HHqJ2BX4DN4qnm"
-    },
-    {
-      "added_at": "2022-08-26 14:11:39",
-      "album": {
         "name": "Abusad\u00e3o",
         "url": "https://open.spotify.com/album/0vlgBzPeKCjpXXVEN2D6a6"
       },
@@ -523,6 +507,50 @@
       "duration_ms": 176814,
       "name": "Abusad\u00e3o",
       "url": "https://open.spotify.com/track/63jalJVpyyGPYvDuTEaFi9"
+    },
+    {
+      "added_at": "2022-08-26 14:11:39",
+      "album": {
+        "name": "Progresso",
+        "url": "https://open.spotify.com/album/3dgya99ntx0TtotTsXnoFN"
+      },
+      "artists": [
+        {
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+        }
+      ],
+      "duration_ms": 161311,
+      "name": "Progresso",
+      "url": "https://open.spotify.com/track/0tLRlU39HHqJ2BX4DN4qnm"
+    },
+    {
+      "added_at": "2022-08-26 14:11:39",
+      "album": {
+        "name": "Lideran\u00e7a",
+        "url": "https://open.spotify.com/album/1VnaJPgFvfAzcQaegraRDc"
+      },
+      "artists": [
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "KIB7",
+          "url": "https://open.spotify.com/artist/7lSYO6wq6ueSYYIEUbF92u"
+        }
+      ],
+      "duration_ms": 210445,
+      "name": "Lideran\u00e7a",
+      "url": "https://open.spotify.com/track/7dKz6xy1ZMywmrrP5HMw8u"
     },
     {
       "added_at": "2022-08-26 14:11:39",
@@ -587,34 +615,6 @@
       "duration_ms": 170400,
       "name": "Pitbull",
       "url": "https://open.spotify.com/track/4BbZUFzlbx4mVR1r0Z35x2"
-    },
-    {
-      "added_at": "2022-08-26 14:11:39",
-      "album": {
-        "name": "Lideran\u00e7a",
-        "url": "https://open.spotify.com/album/1VnaJPgFvfAzcQaegraRDc"
-      },
-      "artists": [
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "KIB7",
-          "url": "https://open.spotify.com/artist/7lSYO6wq6ueSYYIEUbF92u"
-        }
-      ],
-      "duration_ms": 210445,
-      "name": "Lideran\u00e7a",
-      "url": "https://open.spotify.com/track/7dKz6xy1ZMywmrrP5HMw8u"
     },
     {
       "added_at": "2022-08-26 14:11:39",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-08-26 14:11:39",
       "album": {
-        "name": "Corte do Jaca",
-        "url": "https://open.spotify.com/album/6ZQNfwK2DagQENxZhXkuOj"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        }
-      ],
-      "duration_ms": 152812,
-      "name": "Corte do Jaca",
-      "url": "https://open.spotify.com/track/2a2GuHAYjmIVAPVaG9Nh7u"
-    },
-    {
-      "added_at": "2022-08-26 14:11:39",
-      "album": {
         "name": "Desce A\u00ed (Flow Drake)",
         "url": "https://open.spotify.com/album/2aYuVO6GqSpFokJTuWoSiI"
       },
@@ -727,26 +711,42 @@
     {
       "added_at": "2022-08-26 14:11:39",
       "album": {
-        "name": "Quadriciclo",
-        "url": "https://open.spotify.com/album/4HsEBX999Dg4OHYPAWULJC"
+        "name": "Corte do Jaca",
+        "url": "https://open.spotify.com/album/6ZQNfwK2DagQENxZhXkuOj"
       },
       "artists": [
         {
-          "name": "PL Quest",
-          "url": "https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
         }
       ],
-      "duration_ms": 156521,
-      "name": "Quadriciclo",
-      "url": "https://open.spotify.com/track/0J8LV0mKp1a2mBeiJTv1xZ"
+      "duration_ms": 152812,
+      "name": "Corte do Jaca",
+      "url": "https://open.spotify.com/track/2a2GuHAYjmIVAPVaG9Nh7u"
+    },
+    {
+      "added_at": "2022-08-26 14:11:39",
+      "album": {
+        "name": "Panamera",
+        "url": "https://open.spotify.com/album/63pxCSJJWJScWObD1R2Wzm"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Jovem Dex",
+          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+        },
+        {
+          "name": "AMUSIK",
+          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
+        }
+      ],
+      "duration_ms": 157777,
+      "name": "Panamera",
+      "url": "https://open.spotify.com/track/1z61dHpzFnpbLQFZl8GjLH"
     },
     {
       "added_at": "2022-08-26 14:11:39",
@@ -779,26 +779,46 @@
     {
       "added_at": "2022-08-26 14:11:39",
       "album": {
-        "name": "Panamera",
-        "url": "https://open.spotify.com/album/63pxCSJJWJScWObD1R2Wzm"
+        "name": "Quadriciclo",
+        "url": "https://open.spotify.com/album/4HsEBX999Dg4OHYPAWULJC"
       },
       "artists": [
         {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+          "name": "PL Quest",
+          "url": "https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM"
         },
         {
-          "name": "Jovem Dex",
-          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
         },
         {
-          "name": "AMUSIK",
-          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
         }
       ],
-      "duration_ms": 157777,
-      "name": "Panamera",
-      "url": "https://open.spotify.com/track/1z61dHpzFnpbLQFZl8GjLH"
+      "duration_ms": 156521,
+      "name": "Quadriciclo",
+      "url": "https://open.spotify.com/track/0J8LV0mKp1a2mBeiJTv1xZ"
+    },
+    {
+      "added_at": "2022-08-26 14:11:39",
+      "album": {
+        "name": "Bandido N\u00e3o Dan\u00e7a BB",
+        "url": "https://open.spotify.com/album/4BHeptNqGFzDkXnwDHU1LC"
+      },
+      "artists": [
+        {
+          "name": "OG BEBEL",
+          "url": "https://open.spotify.com/artist/00DTlsaKlzH3JrAjgU61Ha"
+        },
+        {
+          "name": "Young World",
+          "url": "https://open.spotify.com/artist/3xryEc7ue6lV1kr3dp5PXY"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "Bandido N\u00e3o Dan\u00e7a BB",
+      "url": "https://open.spotify.com/track/2YRPuiScVNaKAyNRu03ste"
     },
     {
       "added_at": "2022-08-26 14:11:39",
@@ -855,22 +875,26 @@
     {
       "added_at": "2022-08-26 14:11:39",
       "album": {
-        "name": "Bandido N\u00e3o Dan\u00e7a BB",
-        "url": "https://open.spotify.com/album/4BHeptNqGFzDkXnwDHU1LC"
+        "name": "Preto e Dinheiro",
+        "url": "https://open.spotify.com/album/1nLXyI7gsmzdfU3Il7kaTk"
       },
       "artists": [
         {
-          "name": "OG BEBEL",
-          "url": "https://open.spotify.com/artist/00DTlsaKlzH3JrAjgU61Ha"
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
         },
         {
-          "name": "Young World",
-          "url": "https://open.spotify.com/artist/3xryEc7ue6lV1kr3dp5PXY"
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
         }
       ],
-      "duration_ms": 133333,
-      "name": "Bandido N\u00e3o Dan\u00e7a BB",
-      "url": "https://open.spotify.com/track/2YRPuiScVNaKAyNRu03ste"
+      "duration_ms": 197380,
+      "name": "Preto e Dinheiro",
+      "url": "https://open.spotify.com/track/3kHxuY36nCmcKJ4GddBjIe"
     },
     {
       "added_at": "2022-08-26 14:11:39",
@@ -895,30 +919,6 @@
       "duration_ms": 183272,
       "name": "Nois faz a moda",
       "url": "https://open.spotify.com/track/29cJDWOBQqeDPdYbu4kwki"
-    },
-    {
-      "added_at": "2022-08-26 14:11:39",
-      "album": {
-        "name": "Preto e Dinheiro",
-        "url": "https://open.spotify.com/album/1nLXyI7gsmzdfU3Il7kaTk"
-      },
-      "artists": [
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Dfideliz",
-          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        }
-      ],
-      "duration_ms": 197380,
-      "name": "Preto e Dinheiro",
-      "url": "https://open.spotify.com/track/3kHxuY36nCmcKJ4GddBjIe"
     },
     {
       "added_at": "2022-08-26 14:11:39",
@@ -995,6 +995,30 @@
       "duration_ms": 206281,
       "name": "Melhor Gest\u00e3o",
       "url": "https://open.spotify.com/track/22yszoADkRxUuvJosP9hNg"
+    },
+    {
+      "added_at": "2022-08-26 14:11:39",
+      "album": {
+        "name": ".38",
+        "url": "https://open.spotify.com/album/0mJJ8TX7LK2MCa8TIHapaO"
+      },
+      "artists": [
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        },
+        {
+          "name": "Jovem Dex",
+          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        }
+      ],
+      "duration_ms": 126678,
+      "name": ".38",
+      "url": "https://open.spotify.com/track/3nobSbq9rggHUEbRBoZaDg"
     },
     {
       "added_at": "2022-08-26 14:11:39",
@@ -1103,30 +1127,6 @@
       "duration_ms": 140689,
       "name": "Imaginar",
       "url": "https://open.spotify.com/track/5LfkX8BcsESakxgyGEB1vX"
-    },
-    {
-      "added_at": "2022-08-26 14:11:39",
-      "album": {
-        "name": ".38",
-        "url": "https://open.spotify.com/album/0mJJ8TX7LK2MCa8TIHapaO"
-      },
-      "artists": [
-        {
-          "name": "M\u00e3olee",
-          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
-        },
-        {
-          "name": "Jovem Dex",
-          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        }
-      ],
-      "duration_ms": 126678,
-      "name": ".38",
-      "url": "https://open.spotify.com/track/3nobSbq9rggHUEbRBoZaDg"
     },
     {
       "added_at": "2022-08-26 14:11:39",

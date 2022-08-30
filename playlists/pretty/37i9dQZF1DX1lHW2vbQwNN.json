@@ -1,12 +1,12 @@
 {
   "description": "Taking it back to the 2000s. Cover: Lil Wayne",
-  "num_followers": 33125,
+  "num_followers": 33293,
   "original_name": "I Love My 2000s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzA4OTU5NiwwMDAwMDAwMGRjNmJjYmFjMTRiOTAwNzllMmU2ZmRkMjZmM2U2OTYz",
+  "snapshot_id": "MTY1MzA4OTU5NiwwMDAwMDAwMDMwMmQzZWVhYTZmZmZlNTkzNzQ2MGZhOGE3NTI5Njg0",
   "tracks": [
     {
       "added_at": "2022-05-20 23:33:16",
@@ -147,26 +147,6 @@
     {
       "added_at": "2022-05-20 23:33:16",
       "album": {
-        "name": "Graduation",
-        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Dwele",
-          "url": "https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU"
-        }
-      ],
-      "duration_ms": 237506,
-      "name": "Flashing Lights",
-      "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"
-    },
-    {
-      "added_at": "2022-05-20 23:33:16",
-      "album": {
         "name": "The Documentary",
         "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
       },
@@ -183,22 +163,6 @@
       "duration_ms": 206400,
       "name": "Hate It Or Love It",
       "url": "https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R"
-    },
-    {
-      "added_at": "2022-05-20 23:33:16",
-      "album": {
-        "name": "The Marshall Mathers LP",
-        "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 284200,
-      "name": "The Real Slim Shady",
-      "url": "https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR"
     },
     {
       "added_at": "2022-05-20 23:33:16",
@@ -239,22 +203,6 @@
     {
       "added_at": "2022-05-20 23:33:16",
       "album": {
-        "name": "So Far Gone",
-        "url": "https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 257690,
-      "name": "Best I Ever Had",
-      "url": "https://open.spotify.com/track/3QLjDkgLh9AOEHlhQtDuhs"
-    },
-    {
-      "added_at": "2022-05-20 23:33:16",
-      "album": {
         "name": "The Massacre",
         "url": "https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH"
       },
@@ -275,6 +223,22 @@
     {
       "added_at": "2022-05-20 23:33:16",
       "album": {
+        "name": "The Marshall Mathers LP",
+        "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 284200,
+      "name": "The Real Slim Shady",
+      "url": "https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR"
+    },
+    {
+      "added_at": "2022-05-20 23:33:16",
+      "album": {
         "name": "Graduation",
         "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
       },
@@ -282,11 +246,31 @@
         {
           "name": "Kanye West",
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Dwele",
+          "url": "https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU"
         }
       ],
-      "duration_ms": 271600,
-      "name": "Can't Tell Me Nothing",
-      "url": "https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM"
+      "duration_ms": 237506,
+      "name": "Flashing Lights",
+      "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"
+    },
+    {
+      "added_at": "2022-05-20 23:33:16",
+      "album": {
+        "name": "So Far Gone",
+        "url": "https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 257690,
+      "name": "Best I Ever Had",
+      "url": "https://open.spotify.com/track/3QLjDkgLh9AOEHlhQtDuhs"
     },
     {
       "added_at": "2022-05-20 23:33:16",
@@ -331,26 +315,6 @@
     {
       "added_at": "2022-05-20 23:33:16",
       "album": {
-        "name": "Paper Trail",
-        "url": "https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC"
-      },
-      "artists": [
-        {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        },
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 338853,
-      "name": "Live Your Life",
-      "url": "https://open.spotify.com/track/3jlbL2OTD5YmIunYzgQTAN"
-    },
-    {
-      "added_at": "2022-05-20 23:33:16",
-      "album": {
         "name": "The Eminem Show",
         "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
       },
@@ -391,6 +355,26 @@
     {
       "added_at": "2022-05-20 23:33:16",
       "album": {
+        "name": "Paper Trail",
+        "url": "https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 338853,
+      "name": "Live Your Life",
+      "url": "https://open.spotify.com/track/3jlbL2OTD5YmIunYzgQTAN"
+    },
+    {
+      "added_at": "2022-05-20 23:33:16",
+      "album": {
         "name": "souljaboytellem.com",
         "url": "https://open.spotify.com/album/5wFQi4xOTXILQSKQr0Ft8s"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 221933,
       "name": "Crank That (Soulja Boy)",
       "url": "https://open.spotify.com/track/66TRwr5uJwPt15mfFkzhbi"
+    },
+    {
+      "added_at": "2022-05-20 23:33:16",
+      "album": {
+        "name": "Graduation",
+        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 271600,
+      "name": "Can't Tell Me Nothing",
+      "url": "https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM"
     },
     {
       "added_at": "2022-05-20 23:33:16",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-05-20 23:33:16",
       "album": {
-        "name": "The College Dropout",
-        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 221226,
-      "name": "Through The Wire",
-      "url": "https://open.spotify.com/track/4mmkhcEm1Ljy1U9nwtsxUo"
-    },
-    {
-      "added_at": "2022-05-20 23:33:16",
-      "album": {
         "name": "Pain Is Love",
         "url": "https://open.spotify.com/album/2wMavIKnu6feFNOeQ1hVwf"
       },
@@ -459,6 +443,42 @@
       "duration_ms": 245133,
       "name": "Always On Time",
       "url": "https://open.spotify.com/track/4hrae8atte6cRlSC9a7VCO"
+    },
+    {
+      "added_at": "2022-05-20 23:33:16",
+      "album": {
+        "name": "Stankonia",
+        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 240026,
+      "name": "So Fresh, So Clean",
+      "url": "https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4"
+    },
+    {
+      "added_at": "2022-05-20 23:33:16",
+      "album": {
+        "name": "The Marshall Mathers LP",
+        "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Dido",
+          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
+        }
+      ],
+      "duration_ms": 404106,
+      "name": "Stan",
+      "url": "https://open.spotify.com/track/3UmaczJpikHgJFyBTAJVoz"
     },
     {
       "added_at": "2022-05-20 23:33:16",
@@ -483,18 +503,18 @@
     {
       "added_at": "2022-05-20 23:33:16",
       "album": {
-        "name": "Stankonia",
-        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
+        "name": "The College Dropout",
+        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
       },
       "artists": [
         {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 240026,
-      "name": "So Fresh, So Clean",
-      "url": "https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4"
+      "duration_ms": 221226,
+      "name": "Through The Wire",
+      "url": "https://open.spotify.com/track/4mmkhcEm1Ljy1U9nwtsxUo"
     },
     {
       "added_at": "2022-05-20 23:33:16",
@@ -511,46 +531,6 @@
       "duration_ms": 268866,
       "name": "Party Up",
       "url": "https://open.spotify.com/track/0LWkaEyQRkF0XAms8Bg1fC"
-    },
-    {
-      "added_at": "2022-05-20 23:33:16",
-      "album": {
-        "name": "Graduation",
-        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/4ZPdLEztrlZqbJkgHNw54L"
-    },
-    {
-      "added_at": "2022-05-20 23:33:16",
-      "album": {
-        "name": "The Marshall Mathers LP",
-        "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Dido",
-          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
-        }
-      ],
-      "duration_ms": 404106,
-      "name": "Stan",
-      "url": "https://open.spotify.com/track/3UmaczJpikHgJFyBTAJVoz"
     },
     {
       "added_at": "2022-05-20 23:33:16",
@@ -583,6 +563,22 @@
       "duration_ms": 263226,
       "name": "Work It",
       "url": "https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF"
+    },
+    {
+      "added_at": "2022-05-20 23:33:16",
+      "album": {
+        "name": "The Marshall Mathers LP",
+        "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 290426,
+      "name": "The Way I Am",
+      "url": "https://open.spotify.com/track/23wfXwnsPZYe5A1xXRHb3J"
     },
     {
       "added_at": "2022-05-20 23:33:16",
@@ -643,18 +639,22 @@
     {
       "added_at": "2022-05-20 23:33:16",
       "album": {
-        "name": "The Marshall Mathers LP",
-        "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
+        "name": "Graduation",
+        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
       },
       "artists": [
         {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
         }
       ],
-      "duration_ms": 290426,
-      "name": "The Way I Am",
-      "url": "https://open.spotify.com/track/23wfXwnsPZYe5A1xXRHb3J"
+      "duration_ms": 207000,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/4ZPdLEztrlZqbJkgHNw54L"
     },
     {
       "added_at": "2022-05-20 23:33:16",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-05-20 23:33:16",
       "album": {
-        "name": "Port Of Miami",
-        "url": "https://open.spotify.com/album/42T8qfRs7jdpInsSk6nDJk"
-      },
-      "artists": [
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        }
-      ],
-      "duration_ms": 254093,
-      "name": "Hustlin'",
-      "url": "https://open.spotify.com/track/3hQCHzkE5oSA3F1xM8bpcM"
-    },
-    {
-      "added_at": "2022-05-20 23:33:16",
-      "album": {
         "name": "Speakerboxxx/The Love Below",
         "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 234000,
       "name": "The Way You Move (feat. Sleepy Brown)",
       "url": "https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD"
+    },
+    {
+      "added_at": "2022-05-20 23:33:16",
+      "album": {
+        "name": "Port Of Miami",
+        "url": "https://open.spotify.com/album/42T8qfRs7jdpInsSk6nDJk"
+      },
+      "artists": [
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "duration_ms": 254093,
+      "name": "Hustlin'",
+      "url": "https://open.spotify.com/track/3hQCHzkE5oSA3F1xM8bpcM"
     },
     {
       "added_at": "2022-05-20 23:33:16",
@@ -827,6 +827,26 @@
     {
       "added_at": "2022-05-20 23:33:16",
       "album": {
+        "name": "New Joc City",
+        "url": "https://open.spotify.com/album/1Lr1TMh8vcdD3OvrzQTGVn"
+      },
+      "artists": [
+        {
+          "name": "Yung Joc",
+          "url": "https://open.spotify.com/artist/23LbwefIODbyGdRbAz3urj"
+        },
+        {
+          "name": "Nitti",
+          "url": "https://open.spotify.com/artist/5jx1ZcYEEgdi86Gzc4T7Jq"
+        }
+      ],
+      "duration_ms": 241840,
+      "name": "It's Goin' Down (feat. Nitti)",
+      "url": "https://open.spotify.com/track/05Sgj1Hx03ZXc57gsV1kfX"
+    },
+    {
+      "added_at": "2022-05-20 23:33:16",
+      "album": {
         "name": "True Story",
         "url": "https://open.spotify.com/album/0NTYMm0B7adXejff1phD3F"
       },
@@ -847,26 +867,6 @@
       "duration_ms": 247426,
       "name": "Lean Back",
       "url": "https://open.spotify.com/track/2Ozc0me9PV5vlt8cokwdvI"
-    },
-    {
-      "added_at": "2022-05-20 23:33:16",
-      "album": {
-        "name": "New Joc City",
-        "url": "https://open.spotify.com/album/1Lr1TMh8vcdD3OvrzQTGVn"
-      },
-      "artists": [
-        {
-          "name": "Yung Joc",
-          "url": "https://open.spotify.com/artist/23LbwefIODbyGdRbAz3urj"
-        },
-        {
-          "name": "Nitti",
-          "url": "https://open.spotify.com/artist/5jx1ZcYEEgdi86Gzc4T7Jq"
-        }
-      ],
-      "duration_ms": 241840,
-      "name": "It's Goin' Down (feat. Nitti)",
-      "url": "https://open.spotify.com/track/05Sgj1Hx03ZXc57gsV1kfX"
     },
     {
       "added_at": "2022-05-20 23:33:16",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-05-20 23:33:16",
       "album": {
-        "name": "Word Of Mouf",
-        "url": "https://open.spotify.com/album/1GMj0Rx5Q6EyBYbi9Eu7Vr"
-      },
-      "artists": [
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
-        }
-      ],
-      "duration_ms": 296586,
-      "name": "Rollout (My Business)",
-      "url": "https://open.spotify.com/track/4SyadrABZJIjeND1HPJS31"
-    },
-    {
-      "added_at": "2022-05-20 23:33:16",
-      "album": {
         "name": "Tha Carter",
         "url": "https://open.spotify.com/album/5POcKy926GgzFHZpGptJac"
       },
@@ -1147,22 +1131,6 @@
     {
       "added_at": "2022-05-20 23:33:16",
       "album": {
-        "name": "Urban Legend",
-        "url": "https://open.spotify.com/album/1oFucub5OjyG4XPsDUzhil"
-      },
-      "artists": [
-        {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "Bring Em Out",
-      "url": "https://open.spotify.com/track/3CcvahnsiArpTHYQEWV2Au"
-    },
-    {
-      "added_at": "2022-05-20 23:33:16",
-      "album": {
         "name": "My Ghetto Report Card",
         "url": "https://open.spotify.com/album/3VqKqWHOHYfZqttJ0WwQHl"
       },
@@ -1183,6 +1151,38 @@
       "duration_ms": 202720,
       "name": "U and Dat (feat. T. Pain & Kandi Girl)",
       "url": "https://open.spotify.com/track/7g7M96UGiA7OR79H86gV4m"
+    },
+    {
+      "added_at": "2022-05-20 23:33:16",
+      "album": {
+        "name": "Word Of Mouf",
+        "url": "https://open.spotify.com/album/1GMj0Rx5Q6EyBYbi9Eu7Vr"
+      },
+      "artists": [
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "duration_ms": 296586,
+      "name": "Rollout (My Business)",
+      "url": "https://open.spotify.com/track/4SyadrABZJIjeND1HPJS31"
+    },
+    {
+      "added_at": "2022-05-20 23:33:16",
+      "album": {
+        "name": "Urban Legend",
+        "url": "https://open.spotify.com/album/1oFucub5OjyG4XPsDUzhil"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "Bring Em Out",
+      "url": "https://open.spotify.com/track/3CcvahnsiArpTHYQEWV2Au"
     },
     {
       "added_at": "2022-05-20 23:33:16",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2022-05-20 23:33:16",
       "album": {
-        "name": "Light Poles And Pine Trees",
-        "url": "https://open.spotify.com/album/4ZIvx3lm0ytWm06bH8DAwR"
-      },
-      "artists": [
-        {
-          "name": "Field Mob",
-          "url": "https://open.spotify.com/artist/0Uo6kyjrbQoZBlcXsMb8Vm"
-        },
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "So What",
-      "url": "https://open.spotify.com/track/0Uc706myy6Th7I6KQ9xA1x"
-    },
-    {
-      "added_at": "2022-05-20 23:33:16",
-      "album": {
         "name": "Definition of Real",
         "url": "https://open.spotify.com/album/4XYeXtHzp0x7wzgUyasKBA"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 240760,
       "name": "Bust It Baby, Pt. 2 (feat. Ne-Yo)",
       "url": "https://open.spotify.com/track/0exb0K7vsjf5bXWLJJhAuF"
+    },
+    {
+      "added_at": "2022-05-20 23:33:16",
+      "album": {
+        "name": "Light Poles And Pine Trees",
+        "url": "https://open.spotify.com/album/4ZIvx3lm0ytWm06bH8DAwR"
+      },
+      "artists": [
+        {
+          "name": "Field Mob",
+          "url": "https://open.spotify.com/artist/0Uo6kyjrbQoZBlcXsMb8Vm"
+        },
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/0Uc706myy6Th7I6KQ9xA1x"
     },
     {
       "added_at": "2022-05-20 23:33:16",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2022-05-20 23:33:16",
       "album": {
-        "name": "Let's Get Free",
-        "url": "https://open.spotify.com/album/7gXuElmegVReY7imkb5bf8"
-      },
-      "artists": [
-        {
-          "name": "Dead Prez",
-          "url": "https://open.spotify.com/artist/2UBt0GWBuPVXlPisRvWzlD"
-        }
-      ],
-      "duration_ms": 214066,
-      "name": "Hip-Hop",
-      "url": "https://open.spotify.com/track/2HoDr1yVksl19omOhc1zWy"
-    },
-    {
-      "added_at": "2022-05-20 23:33:16",
-      "album": {
         "name": "Thug Misses (Digitally Remastered)",
         "url": "https://open.spotify.com/album/4Xa2dq99gQqzGj4vq0rGoV"
       },
@@ -1327,22 +1311,18 @@
     {
       "added_at": "2022-05-20 23:33:16",
       "album": {
-        "name": "The Real Testament",
-        "url": "https://open.spotify.com/album/3NoUdjYUcUuRMpOzyapnYW"
+        "name": "Let's Get Free",
+        "url": "https://open.spotify.com/album/7gXuElmegVReY7imkb5bf8"
       },
       "artists": [
         {
-          "name": "Plies",
-          "url": "https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j"
-        },
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+          "name": "Dead Prez",
+          "url": "https://open.spotify.com/artist/2UBt0GWBuPVXlPisRvWzlD"
         }
       ],
-      "duration_ms": 255413,
-      "name": "Shawty (feat. T Pain)",
-      "url": "https://open.spotify.com/track/0mYoKqA23wUUj7BTEgNzjg"
+      "duration_ms": 214066,
+      "name": "Hip-Hop",
+      "url": "https://open.spotify.com/track/2HoDr1yVksl19omOhc1zWy"
     },
     {
       "added_at": "2022-05-20 23:33:16",
@@ -1363,6 +1343,26 @@
       "duration_ms": 303026,
       "name": "Area Codes",
       "url": "https://open.spotify.com/track/3lcC9CnN7Rpo1ugATzmYjY"
+    },
+    {
+      "added_at": "2022-05-20 23:33:16",
+      "album": {
+        "name": "The Real Testament",
+        "url": "https://open.spotify.com/album/3NoUdjYUcUuRMpOzyapnYW"
+      },
+      "artists": [
+        {
+          "name": "Plies",
+          "url": "https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "duration_ms": 255413,
+      "name": "Shawty (feat. T Pain)",
+      "url": "https://open.spotify.com/track/0mYoKqA23wUUj7BTEgNzjg"
     },
     {
       "added_at": "2022-05-20 23:33:16",
@@ -1419,62 +1419,6 @@
     {
       "added_at": "2022-05-20 23:33:16",
       "album": {
-        "name": "Purple Haze",
-        "url": "https://open.spotify.com/album/4k6ci0PJUSV8CeQDTBfm44"
-      },
-      "artists": [
-        {
-          "name": "Cam\u2019ron",
-          "url": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Syleena Johnson",
-          "url": "https://open.spotify.com/artist/1lE6SEy8f84Zhjvp7r8yTD"
-        }
-      ],
-      "duration_ms": 248626,
-      "name": "Down And Out",
-      "url": "https://open.spotify.com/track/5mEwhCsqadBZIE7SSrv1gC"
-    },
-    {
-      "added_at": "2022-05-20 23:33:16",
-      "album": {
-        "name": "Joe Budden",
-        "url": "https://open.spotify.com/album/5qvTf1qIYr2vkIjFnj8gYD"
-      },
-      "artists": [
-        {
-          "name": "Joe Budden",
-          "url": "https://open.spotify.com/artist/1SAugjIcuwNPKS4urSB7A6"
-        }
-      ],
-      "duration_ms": 251373,
-      "name": "Pump It Up",
-      "url": "https://open.spotify.com/track/7tDbbfzB1d52lWP8rq8zRZ"
-    },
-    {
-      "added_at": "2022-05-20 23:33:16",
-      "album": {
-        "name": "What The Game's Been Missing!",
-        "url": "https://open.spotify.com/album/1UnAHcFabsZQnZbPQRuwq8"
-      },
-      "artists": [
-        {
-          "name": "Juelz Santana",
-          "url": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
-        }
-      ],
-      "duration_ms": 180493,
-      "name": "There It Go (The Whistle Song)",
-      "url": "https://open.spotify.com/track/50UkypyQJbSQLaXHke5Yep"
-    },
-    {
-      "added_at": "2022-05-20 23:33:16",
-      "album": {
         "name": "Detroit Deli (A Taste Of Detroit)",
         "url": "https://open.spotify.com/album/2mpzeA7pHNIDAPii4EEKsB"
       },
@@ -1495,6 +1439,62 @@
       "duration_ms": 225400,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/7sZCAHP2duHwr5M5K7lHsb"
+    },
+    {
+      "added_at": "2022-05-20 23:33:16",
+      "album": {
+        "name": "What The Game's Been Missing!",
+        "url": "https://open.spotify.com/album/1UnAHcFabsZQnZbPQRuwq8"
+      },
+      "artists": [
+        {
+          "name": "Juelz Santana",
+          "url": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
+        }
+      ],
+      "duration_ms": 180493,
+      "name": "There It Go (The Whistle Song)",
+      "url": "https://open.spotify.com/track/50UkypyQJbSQLaXHke5Yep"
+    },
+    {
+      "added_at": "2022-05-20 23:33:16",
+      "album": {
+        "name": "Joe Budden",
+        "url": "https://open.spotify.com/album/5qvTf1qIYr2vkIjFnj8gYD"
+      },
+      "artists": [
+        {
+          "name": "Joe Budden",
+          "url": "https://open.spotify.com/artist/1SAugjIcuwNPKS4urSB7A6"
+        }
+      ],
+      "duration_ms": 251373,
+      "name": "Pump It Up",
+      "url": "https://open.spotify.com/track/7tDbbfzB1d52lWP8rq8zRZ"
+    },
+    {
+      "added_at": "2022-05-20 23:33:16",
+      "album": {
+        "name": "Purple Haze",
+        "url": "https://open.spotify.com/album/4k6ci0PJUSV8CeQDTBfm44"
+      },
+      "artists": [
+        {
+          "name": "Cam\u2019ron",
+          "url": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Syleena Johnson",
+          "url": "https://open.spotify.com/artist/1lE6SEy8f84Zhjvp7r8yTD"
+        }
+      ],
+      "duration_ms": 248626,
+      "name": "Down And Out",
+      "url": "https://open.spotify.com/track/5mEwhCsqadBZIE7SSrv1gC"
     },
     {
       "added_at": "2022-05-20 23:33:16",
@@ -1539,26 +1539,6 @@
     {
       "added_at": "2022-05-20 23:33:16",
       "album": {
-        "name": "Me, Myself & I",
-        "url": "https://open.spotify.com/album/7L3ybS1mQpWwAiZm4FuNwn"
-      },
-      "artists": [
-        {
-          "name": "Fat Joe",
-          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 247413,
-      "name": "Make It Rain",
-      "url": "https://open.spotify.com/track/4JPCdSaqs9dJd7RatFSHww"
-    },
-    {
-      "added_at": "2022-05-20 23:33:16",
-      "album": {
         "name": "The People's Champ",
         "url": "https://open.spotify.com/album/4LfEslRqPOv2ZOrW6KhhWr"
       },
@@ -1579,30 +1559,22 @@
     {
       "added_at": "2022-05-20 23:33:16",
       "album": {
-        "name": "Come Home With Me",
-        "url": "https://open.spotify.com/album/59AeQUlVYT08dOenfLmTWS"
+        "name": "Me, Myself & I",
+        "url": "https://open.spotify.com/album/7L3ybS1mQpWwAiZm4FuNwn"
       },
       "artists": [
         {
-          "name": "Cam\u2019ron",
-          "url": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+          "name": "Fat Joe",
+          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
         },
         {
-          "name": "Juelz Santana",
-          "url": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
-        },
-        {
-          "name": "Freekey Zeekey",
-          "url": "https://open.spotify.com/artist/6EjZmcZTs67OVOG511gGn3"
-        },
-        {
-          "name": "Toya",
-          "url": "https://open.spotify.com/artist/02ehFoytLUjat0JMYpYsml"
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 230080,
-      "name": "Hey Ma",
-      "url": "https://open.spotify.com/track/6a8lMvYwJBwV4OtmdI1aDb"
+      "duration_ms": 247413,
+      "name": "Make It Rain",
+      "url": "https://open.spotify.com/track/4JPCdSaqs9dJd7RatFSHww"
     },
     {
       "added_at": "2022-05-20 23:33:16",
@@ -1643,6 +1615,34 @@
       "duration_ms": 254400,
       "name": "I'm a Thug",
       "url": "https://open.spotify.com/track/6j2aNuhJJUnRj6UHcvn5PI"
+    },
+    {
+      "added_at": "2022-05-20 23:33:16",
+      "album": {
+        "name": "Come Home With Me",
+        "url": "https://open.spotify.com/album/59AeQUlVYT08dOenfLmTWS"
+      },
+      "artists": [
+        {
+          "name": "Cam\u2019ron",
+          "url": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+        },
+        {
+          "name": "Juelz Santana",
+          "url": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
+        },
+        {
+          "name": "Freekey Zeekey",
+          "url": "https://open.spotify.com/artist/6EjZmcZTs67OVOG511gGn3"
+        },
+        {
+          "name": "Toya",
+          "url": "https://open.spotify.com/artist/02ehFoytLUjat0JMYpYsml"
+        }
+      ],
+      "duration_ms": 230080,
+      "name": "Hey Ma",
+      "url": "https://open.spotify.com/track/6a8lMvYwJBwV4OtmdI1aDb"
     },
     {
       "added_at": "2022-05-20 23:33:16",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2022-05-20 23:33:16",
       "album": {
-        "name": "Lord Willin'",
-        "url": "https://open.spotify.com/album/1Q83nQO2QG81TVa10hW7LX"
-      },
-      "artists": [
-        {
-          "name": "Clipse",
-          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
-        }
-      ],
-      "duration_ms": 264760,
-      "name": "Grindin'",
-      "url": "https://open.spotify.com/track/3XrvEifl0hIzgBGUa5jBLS"
-    },
-    {
-      "added_at": "2022-05-20 23:33:16",
-      "album": {
         "name": "U.S.A. (United State of Atlanta)",
         "url": "https://open.spotify.com/album/0tkYbxsTPQ5kTVdrvj4S3f"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 249040,
       "name": "Dipset Anthem",
       "url": "https://open.spotify.com/track/3rvM0obwHthpskrZKQxYLa"
+    },
+    {
+      "added_at": "2022-05-20 23:33:16",
+      "album": {
+        "name": "Lord Willin'",
+        "url": "https://open.spotify.com/album/1Q83nQO2QG81TVa10hW7LX"
+      },
+      "artists": [
+        {
+          "name": "Clipse",
+          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+        }
+      ],
+      "duration_ms": 264760,
+      "name": "Grindin'",
+      "url": "https://open.spotify.com/track/3XrvEifl0hIzgBGUa5jBLS"
     }
   ],
   "unique_name": "I Love My 2000s Hip-Hop",

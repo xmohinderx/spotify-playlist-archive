@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Music City must-hears. Cover: Kameron Marlowe",
+  "description": "Music City must-hears. Cover: Conner Smith",
   "name": "Next From Nashville",
   "published_playlist_ids": [
     "6guBJqgtXaO0mvdeL4JtNk"
@@ -9445,6 +9445,24 @@
       "duration_ms": 234771,
       "name": "Open the Gate",
       "url": "https://open.spotify.com/track/3Ngp6vv1OGyAaQLcNbqRMz"
+    },
+    {
+      "album": {
+        "name": "Orange And White",
+        "url": "https://open.spotify.com/album/70tPDXm2rmrGf4scGgjNdv"
+      },
+      "artists": [
+        {
+          "name": "Conner Smith",
+          "url": "https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209560,
+      "name": "Orange And White",
+      "url": "https://open.spotify.com/track/1VuBxXWxRfWGOZAg6ysqgX"
     },
     {
       "album": {

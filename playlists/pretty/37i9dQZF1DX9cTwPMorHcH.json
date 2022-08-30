@@ -1,12 +1,12 @@
 {
   "description": "Blues - new and old - to accompany your drive. Cover: B.B. King",
-  "num_followers": 44754,
+  "num_followers": 44813,
   "original_name": "Blues Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjA4ODI0MywwMDAwMDAwMDkyOTNkMGRjYmY4YTNhYWJlYjhkZWVkM2M5ZTM3MThh",
+  "snapshot_id": "MTY1NjA4ODI0MywwMDAwMDAwMDAyY2QxNDdhODBiMDc2MzRiYmYzNWJhMTk5ODMyZDQx",
   "tracks": [
     {
       "added_at": "2021-03-03 17:28:10",
@@ -107,6 +107,22 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
+        "name": "Layla And Other Assorted Love Songs (Remastered 2010)",
+        "url": "https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM"
+      },
+      "artists": [
+        {
+          "name": "Derek & The Dominos",
+          "url": "https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z"
+        }
+      ],
+      "duration_ms": 301720,
+      "name": "Bell Bottom Blues",
+      "url": "https://open.spotify.com/track/2YJgM8lj4u5YEZRSHSfL60"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
         "name": "Completely Well",
         "url": "https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 175240,
       "name": "Right Place Wrong Time",
       "url": "https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Layla And Other Assorted Love Songs (Remastered 2010)",
-        "url": "https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM"
-      },
-      "artists": [
-        {
-          "name": "Derek & The Dominos",
-          "url": "https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z"
-        }
-      ],
-      "duration_ms": 301720,
-      "name": "Bell Bottom Blues",
-      "url": "https://open.spotify.com/track/2YJgM8lj4u5YEZRSHSfL60"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -439,6 +439,22 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
+        "name": "Indianola Mississippi Seeds",
+        "url": "https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 293733,
+      "name": "Chains And Things",
+      "url": "https://open.spotify.com/track/5x7Oxaa9EEIx9nw17CC5yW"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
         "name": "Feels Like Rain",
         "url": "https://open.spotify.com/album/2GXqcjyaSAMRnmFuvHM2Bd"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 251306,
       "name": "Lie To Me",
       "url": "https://open.spotify.com/track/6DCALWbYX0BCOAGy0hMmRs"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Indianola Mississippi Seeds",
-        "url": "https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 293733,
-      "name": "Chains And Things",
-      "url": "https://open.spotify.com/track/5x7Oxaa9EEIx9nw17CC5yW"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -575,22 +575,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Damn Right, I've Got The Blues",
-        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 271653,
-      "name": "Damn Right, I've Got the Blues",
-      "url": "https://open.spotify.com/track/2FtX5tOFUVOyjcGQiuGR8f"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Nick Of Time",
         "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 232866,
       "name": "Nick Of Time",
       "url": "https://open.spotify.com/track/1gqk2dawfdLdn4XamF27cx"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Damn Right, I've Got The Blues",
+        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 271653,
+      "name": "Damn Right, I've Got the Blues",
+      "url": "https://open.spotify.com/track/2FtX5tOFUVOyjcGQiuGR8f"
     },
     {
       "added_at": "2022-02-25 05:02:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Se\u00f1or Blues",
-        "url": "https://open.spotify.com/album/1J4901NnEbPx0sTbfQlahA"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 280080,
-      "name": "Queen Bee",
-      "url": "https://open.spotify.com/track/6kqXaZrIDOmA177KL9LHHf"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Give It Up (2008 Remaster)",
         "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
       },
@@ -771,18 +755,18 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/2FiJglbmAD9roZsCwKJYIb"
+        "name": "Se\u00f1or Blues",
+        "url": "https://open.spotify.com/album/1J4901NnEbPx0sTbfQlahA"
       },
       "artists": [
         {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
         }
       ],
-      "duration_ms": 272640,
-      "name": "Carry You",
-      "url": "https://open.spotify.com/track/6ffJ9jgxnipGi0SBzDAbqY"
+      "duration_ms": 280080,
+      "name": "Queen Bee",
+      "url": "https://open.spotify.com/track/6kqXaZrIDOmA177KL9LHHf"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -799,6 +783,22 @@
       "duration_ms": 143226,
       "name": "The House Is Rockin'",
       "url": "https://open.spotify.com/track/4BYmnYGNVBVm2JHVxFNMXj"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/2FiJglbmAD9roZsCwKJYIb"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 272640,
+      "name": "Carry You",
+      "url": "https://open.spotify.com/track/6ffJ9jgxnipGi0SBzDAbqY"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -851,6 +851,22 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
+        "name": "Couldn't Stand The Weather (Legacy Edition)",
+        "url": "https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 240986,
+      "name": "Cold Shot",
+      "url": "https://open.spotify.com/track/3QwDN08fGnGfRrsn5wLTej"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
         "name": "My Feeling For the Blues",
         "url": "https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 227751,
       "name": "Trouble No More",
       "url": "https://open.spotify.com/track/2hv2NiSq8p4pgL28pxcqAJ"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Couldn't Stand The Weather (Legacy Edition)",
-        "url": "https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 240986,
-      "name": "Cold Shot",
-      "url": "https://open.spotify.com/track/3QwDN08fGnGfRrsn5wLTej"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1013,22 +1013,6 @@
       "url": "https://open.spotify.com/track/1b44sEBiYyl35EbYDgNGfk"
     },
     {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Play Loud",
-        "url": "https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk"
-      },
-      "artists": [
-        {
-          "name": "The Record Company",
-          "url": "https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX"
-        }
-      ],
-      "duration_ms": 192840,
-      "name": "How High",
-      "url": "https://open.spotify.com/track/0UqNIatgH3yQrJwqajOM2G"
-    },
-    {
       "added_at": "2021-03-03 17:28:10",
       "album": {
         "name": "Don't Explain",
@@ -1047,6 +1031,22 @@
       "duration_ms": 300880,
       "name": "Your Heart Is As Black As Night",
       "url": "https://open.spotify.com/track/5pjQtnAoVLWChCwIZEL2C1"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Play Loud",
+        "url": "https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk"
+      },
+      "artists": [
+        {
+          "name": "The Record Company",
+          "url": "https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX"
+        }
+      ],
+      "duration_ms": 192840,
+      "name": "How High",
+      "url": "https://open.spotify.com/track/0UqNIatgH3yQrJwqajOM2G"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1081,6 +1081,22 @@
       "url": "https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3"
     },
     {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Johnny Winter",
+        "url": "https://open.spotify.com/album/5RNAJslV8AaTq2gM5JJ9Ch"
+      },
+      "artists": [
+        {
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+        }
+      ],
+      "duration_ms": 232453,
+      "name": "Mean Mistreater",
+      "url": "https://open.spotify.com/track/0tYJ6uY0ETQOtOM8KySMSp"
+    },
+    {
       "added_at": "2021-07-23 04:01:00",
       "album": {
         "name": "Delta Kream",
@@ -1099,22 +1115,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Johnny Winter",
-        "url": "https://open.spotify.com/album/5RNAJslV8AaTq2gM5JJ9Ch"
-      },
-      "artists": [
-        {
-          "name": "Johnny Winter",
-          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
-        }
-      ],
-      "duration_ms": 232453,
-      "name": "Mean Mistreater",
-      "url": "https://open.spotify.com/track/0tYJ6uY0ETQOtOM8KySMSp"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "The Baddest Of George Thorogood And The Destroyers",
         "url": "https://open.spotify.com/album/5vliZHMdEeEHpTOZC2XcBw"
       },
@@ -1127,6 +1127,26 @@
       "duration_ms": 258800,
       "name": "Move It On Over",
       "url": "https://open.spotify.com/track/2bgsFbiStgVqxOtQ4UK3Uf"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Power Of The Pontchartrain",
+        "url": "https://open.spotify.com/album/0jfaR6Gbk36L1UF8ba8ufm"
+      },
+      "artists": [
+        {
+          "name": "Tab Benoit",
+          "url": "https://open.spotify.com/artist/3ODYbknLzVe3cWQzVfbzGB"
+        },
+        {
+          "name": "Louisiana's LeRoux",
+          "url": "https://open.spotify.com/artist/6055P8DekQCGx47sckcoIF"
+        }
+      ],
+      "duration_ms": 304933,
+      "name": "Shelter Me",
+      "url": "https://open.spotify.com/track/0Wv8SrR4kycxh3GIpl2adV"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1163,22 +1183,18 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Power Of The Pontchartrain",
-        "url": "https://open.spotify.com/album/0jfaR6Gbk36L1UF8ba8ufm"
+        "name": "Fast Fingers",
+        "url": "https://open.spotify.com/album/6lcVXsUyWa9WvgBMTuLz5l"
       },
       "artists": [
         {
-          "name": "Tab Benoit",
-          "url": "https://open.spotify.com/artist/3ODYbknLzVe3cWQzVfbzGB"
-        },
-        {
-          "name": "Louisiana's LeRoux",
-          "url": "https://open.spotify.com/artist/6055P8DekQCGx47sckcoIF"
+          "name": "Jimmy Dawkins",
+          "url": "https://open.spotify.com/artist/69mMUlfVNVGQsw733rBShc"
         }
       ],
-      "duration_ms": 304933,
-      "name": "Shelter Me",
-      "url": "https://open.spotify.com/track/0Wv8SrR4kycxh3GIpl2adV"
+      "duration_ms": 239266,
+      "name": "Little Angel Child",
+      "url": "https://open.spotify.com/track/512gC8sU5PxZAFrskHEfzk"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1203,18 +1219,18 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Fast Fingers",
-        "url": "https://open.spotify.com/album/6lcVXsUyWa9WvgBMTuLz5l"
+        "name": "Genuine Houserocking Music",
+        "url": "https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe"
       },
       "artists": [
         {
-          "name": "Jimmy Dawkins",
-          "url": "https://open.spotify.com/artist/69mMUlfVNVGQsw733rBShc"
+          "name": "Hound Dog Taylor",
+          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
         }
       ],
-      "duration_ms": 239266,
-      "name": "Little Angel Child",
-      "url": "https://open.spotify.com/track/512gC8sU5PxZAFrskHEfzk"
+      "duration_ms": 210493,
+      "name": "Ain't Got Nobody",
+      "url": "https://open.spotify.com/track/4lbqUtqgX3dITgYJMBjCDS"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1235,22 +1251,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Genuine Houserocking Music",
-        "url": "https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe"
-      },
-      "artists": [
-        {
-          "name": "Hound Dog Taylor",
-          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
-        }
-      ],
-      "duration_ms": 210493,
-      "name": "Ain't Got Nobody",
-      "url": "https://open.spotify.com/track/4lbqUtqgX3dITgYJMBjCDS"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Cold Snap (Remastered)",
         "url": "https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9"
       },
@@ -1263,22 +1263,6 @@
       "duration_ms": 247400,
       "name": "I Ain't Drunk - Remastered",
       "url": "https://open.spotify.com/track/1pPrO5Lcx9UXNebcloGeHE"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Please Don't Be Dead",
-        "url": "https://open.spotify.com/album/4EdNTjVzjIxYqEUGPiyiZS"
-      },
-      "artists": [
-        {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
-        }
-      ],
-      "duration_ms": 217451,
-      "name": "Plastic Hamburgers",
-      "url": "https://open.spotify.com/track/3lWwsRSWeSTXUBTJeuRPPg"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1315,6 +1299,22 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
+        "name": "Please Don't Be Dead",
+        "url": "https://open.spotify.com/album/4EdNTjVzjIxYqEUGPiyiZS"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        }
+      ],
+      "duration_ms": 217451,
+      "name": "Plastic Hamburgers",
+      "url": "https://open.spotify.com/track/3lWwsRSWeSTXUBTJeuRPPg"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
         "name": "Venom & Faith",
         "url": "https://open.spotify.com/album/4XflGGrR7ASWoMNVfy7txI"
       },
@@ -1347,38 +1347,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Texas Bluesman",
-        "url": "https://open.spotify.com/album/2xw1vOxRhhr9iywYKcI18h"
-      },
-      "artists": [
-        {
-          "name": "Zuzu Bollin",
-          "url": "https://open.spotify.com/artist/4T7XsMXUOYlL1FlvqL3SIQ"
-        }
-      ],
-      "duration_ms": 174133,
-      "name": "Why Don't You Eat Where You Slept Last Night?",
-      "url": "https://open.spotify.com/track/2WdjmV6o9JeFqQIKQvF2ej"
-    },
-    {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "Amen",
-        "url": "https://open.spotify.com/album/2utrZ7q63fuv9T4Q7AMgeI"
-      },
-      "artists": [
-        {
-          "name": "War & Pierce",
-          "url": "https://open.spotify.com/artist/1YPZK8wRkpV1pyTD3OsgBh"
-        }
-      ],
-      "duration_ms": 247478,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/59pMk1hZKKYQw1itapEMCI"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "TajMo",
         "url": "https://open.spotify.com/album/3NF642glRZZKf3Ng96eMfX"
       },
@@ -1397,36 +1365,20 @@
       "url": "https://open.spotify.com/track/1pDwZmpFoPyPTApIgCLwHS"
     },
     {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "War In My Mind",
-        "url": "https://open.spotify.com/album/2Eo7sjkI3fKanrJY4rtena"
-      },
-      "artists": [
-        {
-          "name": "Beth Hart",
-          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
-        }
-      ],
-      "duration_ms": 215911,
-      "name": "Bad Woman Blues",
-      "url": "https://open.spotify.com/track/0rOzFVPfQiJShjum8zpfu9"
-    },
-    {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
+        "name": "Texas Bluesman",
+        "url": "https://open.spotify.com/album/2xw1vOxRhhr9iywYKcI18h"
       },
       "artists": [
         {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+          "name": "Zuzu Bollin",
+          "url": "https://open.spotify.com/artist/4T7XsMXUOYlL1FlvqL3SIQ"
         }
       ],
-      "duration_ms": 268160,
-      "name": "Honey, Hush aka Talking Woman Blues",
-      "url": "https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA"
+      "duration_ms": 174133,
+      "name": "Why Don't You Eat Where You Slept Last Night?",
+      "url": "https://open.spotify.com/track/2WdjmV6o9JeFqQIKQvF2ej"
     },
     {
       "added_at": "2021-07-23 04:01:00",
@@ -1449,20 +1401,36 @@
       "url": "https://open.spotify.com/track/7edVi9jsBJZWucczN03kXW"
     },
     {
-      "added_at": "2021-07-23 04:01:00",
+      "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Chosen Line",
-        "url": "https://open.spotify.com/album/40qZJVfOO3lXWaXIHVTXqn"
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
       },
       "artists": [
         {
-          "name": "Benny Walker",
-          "url": "https://open.spotify.com/artist/7vkMTeJB89xakcCt1kaU0W"
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
         }
       ],
-      "duration_ms": 230620,
-      "name": "Money and Fools",
-      "url": "https://open.spotify.com/track/76iRpYJl2cL7B6VCJ8Qkie"
+      "duration_ms": 268160,
+      "name": "Honey, Hush aka Talking Woman Blues",
+      "url": "https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA"
+    },
+    {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "War In My Mind",
+        "url": "https://open.spotify.com/album/2Eo7sjkI3fKanrJY4rtena"
+      },
+      "artists": [
+        {
+          "name": "Beth Hart",
+          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
+        }
+      ],
+      "duration_ms": 215911,
+      "name": "Bad Woman Blues",
+      "url": "https://open.spotify.com/track/0rOzFVPfQiJShjum8zpfu9"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1479,6 +1447,38 @@
       "duration_ms": 177906,
       "name": "Take It All",
       "url": "https://open.spotify.com/track/2H0s28N3rendfnepsj48C6"
+    },
+    {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "Amen",
+        "url": "https://open.spotify.com/album/2utrZ7q63fuv9T4Q7AMgeI"
+      },
+      "artists": [
+        {
+          "name": "War & Pierce",
+          "url": "https://open.spotify.com/artist/1YPZK8wRkpV1pyTD3OsgBh"
+        }
+      ],
+      "duration_ms": 247478,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/59pMk1hZKKYQw1itapEMCI"
+    },
+    {
+      "added_at": "2021-07-23 04:01:00",
+      "album": {
+        "name": "Chosen Line",
+        "url": "https://open.spotify.com/album/40qZJVfOO3lXWaXIHVTXqn"
+      },
+      "artists": [
+        {
+          "name": "Benny Walker",
+          "url": "https://open.spotify.com/artist/7vkMTeJB89xakcCt1kaU0W"
+        }
+      ],
+      "duration_ms": 230620,
+      "name": "Money and Fools",
+      "url": "https://open.spotify.com/track/76iRpYJl2cL7B6VCJ8Qkie"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1513,22 +1513,6 @@
       "url": "https://open.spotify.com/track/3VuJi1qJ2gcL7XHjEJZuga"
     },
     {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Magnolia Blues",
-        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
-      },
-      "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        }
-      ],
-      "duration_ms": 208546,
-      "name": "Magnolia Blues",
-      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
-    },
-    {
       "added_at": "2021-03-03 17:28:10",
       "album": {
         "name": "I Wanna Get Funky",
@@ -1543,6 +1527,22 @@
       "duration_ms": 247426,
       "name": "I Wanna Get Funky",
       "url": "https://open.spotify.com/track/2KaiZgGRtgeETwv52tn5rK"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Magnolia Blues",
+        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "duration_ms": 208546,
+      "name": "Magnolia Blues",
+      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1577,6 +1577,26 @@
       "url": "https://open.spotify.com/track/6iy2u83vc4L95HS3JYxSQs"
     },
     {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "Blues Comin' On",
+        "url": "https://open.spotify.com/album/3nToFx6LGlS7AUa01g1KCa"
+      },
+      "artists": [
+        {
+          "name": "Joe Louis Walker",
+          "url": "https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD"
+        },
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "duration_ms": 317819,
+      "name": "Old Time Used to Be",
+      "url": "https://open.spotify.com/track/5qORQA2LGzwmmCjLgHtHS6"
+    },
+    {
       "added_at": "2021-03-03 17:28:10",
       "album": {
         "name": "Peach",
@@ -1609,24 +1629,20 @@
       "url": "https://open.spotify.com/track/3N8YmS2jHNmziUhqTR7Wk4"
     },
     {
-      "added_at": "2022-02-25 05:02:00",
+      "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Blues Comin' On",
-        "url": "https://open.spotify.com/album/3nToFx6LGlS7AUa01g1KCa"
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/7tQFiUboN0vnK7Wavscmdb"
       },
       "artists": [
         {
-          "name": "Joe Louis Walker",
-          "url": "https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD"
-        },
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
         }
       ],
-      "duration_ms": 317819,
-      "name": "Old Time Used to Be",
-      "url": "https://open.spotify.com/track/5qORQA2LGzwmmCjLgHtHS6"
+      "duration_ms": 160666,
+      "name": "How Blue Can You Get?",
+      "url": "https://open.spotify.com/track/1zuVsc5gf2S2Fp5achygUi"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1643,22 +1659,6 @@
       "duration_ms": 260733,
       "name": "Don't Cha Know",
       "url": "https://open.spotify.com/track/4nFUyC6eDW1wJsYSYLMqZd"
-    },
-    {
-      "added_at": "2021-05-14 04:01:00",
-      "album": {
-        "name": "Benton County Relic",
-        "url": "https://open.spotify.com/album/6N2kgU28H4AZWrsnw8IVeu"
-      },
-      "artists": [
-        {
-          "name": "Cedric Burnside",
-          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
-        }
-      ],
-      "duration_ms": 214613,
-      "name": "We Made It",
-      "url": "https://open.spotify.com/track/4tYceKEtQBXxRQfLxuDRYb"
     }
   ],
   "unique_name": "Blues Drive",

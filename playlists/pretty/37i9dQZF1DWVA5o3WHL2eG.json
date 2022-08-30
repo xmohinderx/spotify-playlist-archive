@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTg3ODIzNSwwMDAwMDAwMDJjYTM2NDNkOWU0ZTUzOWM0ZjI1NjUxNTlhZWE1NzEy",
+  "snapshot_id": "MTY1OTg3ODIzNSwwMDAwMDAwMDM3ZjUzOTNmZmIwZmJiZWZhNTViODBhODA2YTg4MThl",
   "tracks": [
     {
       "added_at": "2022-08-07 13:17:15",
@@ -187,22 +187,6 @@
     {
       "added_at": "2022-08-07 13:17:15",
       "album": {
-        "name": "BLOSSOM IN THE DARK",
-        "url": "https://open.spotify.com/album/16LKoRq5Ly38HAbxDMiLzc"
-      },
-      "artists": [
-        {
-          "name": "Diana Goldberg",
-          "url": "https://open.spotify.com/artist/0FSc1VcYTT0NQ5u9f5Hmpk"
-        }
-      ],
-      "duration_ms": 151428,
-      "name": "BLOSSOM IN THE DARK",
-      "url": "https://open.spotify.com/track/7z1NP2Xn0TWI2B09Tmj4mB"
-    },
-    {
-      "added_at": "2022-08-07 13:17:15",
-      "album": {
         "name": "Copy, Paste",
         "url": "https://open.spotify.com/album/0IS70RIfgYxZsTWHQx1DGy"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 148123,
       "name": "Vermisst",
       "url": "https://open.spotify.com/track/7joS0l48aJRAtQxONzkdix"
+    },
+    {
+      "added_at": "2022-08-07 13:17:15",
+      "album": {
+        "name": "BLOSSOM IN THE DARK",
+        "url": "https://open.spotify.com/album/16LKoRq5Ly38HAbxDMiLzc"
+      },
+      "artists": [
+        {
+          "name": "Diana Goldberg",
+          "url": "https://open.spotify.com/artist/0FSc1VcYTT0NQ5u9f5Hmpk"
+        }
+      ],
+      "duration_ms": 151428,
+      "name": "BLOSSOM IN THE DARK",
+      "url": "https://open.spotify.com/track/7z1NP2Xn0TWI2B09Tmj4mB"
     },
     {
       "added_at": "2022-08-07 13:17:15",
@@ -283,6 +283,22 @@
     {
       "added_at": "2022-08-07 13:17:15",
       "album": {
+        "name": "La La Land",
+        "url": "https://open.spotify.com/album/5g9Roqumsdd0n5Dx8H4CuX"
+      },
+      "artists": [
+        {
+          "name": "NO\u00d8N",
+          "url": "https://open.spotify.com/artist/5L4RPnN1Gx46twMqymBpP4"
+        }
+      ],
+      "duration_ms": 174698,
+      "name": "La La Land",
+      "url": "https://open.spotify.com/track/1RrloIOveHED4mOH4YIloD"
+    },
+    {
+      "added_at": "2022-08-07 13:17:15",
+      "album": {
         "name": "Untypisch",
         "url": "https://open.spotify.com/album/3H4GeHhsMBrXIWD9Oj3dKF"
       },
@@ -299,18 +315,18 @@
     {
       "added_at": "2022-08-07 13:17:15",
       "album": {
-        "name": "La La Land",
-        "url": "https://open.spotify.com/album/5g9Roqumsdd0n5Dx8H4CuX"
+        "name": "Born Digital",
+        "url": "https://open.spotify.com/album/0Rc7DxnxrgAUZhS9xw1pYb"
       },
       "artists": [
         {
-          "name": "NO\u00d8N",
-          "url": "https://open.spotify.com/artist/5L4RPnN1Gx46twMqymBpP4"
+          "name": "Pretty Pink",
+          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
         }
       ],
-      "duration_ms": 174698,
-      "name": "La La Land",
-      "url": "https://open.spotify.com/track/1RrloIOveHED4mOH4YIloD"
+      "duration_ms": 209280,
+      "name": "Born Digital",
+      "url": "https://open.spotify.com/track/0vJDUTcjwCclZhE3oqNCiV"
     },
     {
       "added_at": "2022-08-07 13:17:15",
@@ -363,22 +379,6 @@
     {
       "added_at": "2022-08-07 13:17:15",
       "album": {
-        "name": "Smth In My Eye",
-        "url": "https://open.spotify.com/album/3u7fLwb5cbUBRxBP5h0qH0"
-      },
-      "artists": [
-        {
-          "name": "lina-mariah",
-          "url": "https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav"
-        }
-      ],
-      "duration_ms": 152926,
-      "name": "Smth In My Eye",
-      "url": "https://open.spotify.com/track/2sbInlrs1dvw08JwC03NDn"
-    },
-    {
-      "added_at": "2022-08-07 13:17:15",
-      "album": {
         "name": "Flame under a glass",
         "url": "https://open.spotify.com/album/1QwC2BShEy7Fb9Vwq2VgPK"
       },
@@ -391,6 +391,22 @@
       "duration_ms": 155893,
       "name": "Flame under a glass",
       "url": "https://open.spotify.com/track/15BNF8PZ0ahX9CfhNluiZJ"
+    },
+    {
+      "added_at": "2022-08-07 13:17:15",
+      "album": {
+        "name": "Smth In My Eye",
+        "url": "https://open.spotify.com/album/3u7fLwb5cbUBRxBP5h0qH0"
+      },
+      "artists": [
+        {
+          "name": "lina-mariah",
+          "url": "https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav"
+        }
+      ],
+      "duration_ms": 152926,
+      "name": "Smth In My Eye",
+      "url": "https://open.spotify.com/track/2sbInlrs1dvw08JwC03NDn"
     },
     {
       "added_at": "2022-08-07 13:17:15",
@@ -411,18 +427,18 @@
     {
       "added_at": "2022-08-07 13:17:15",
       "album": {
-        "name": "Born Digital",
-        "url": "https://open.spotify.com/album/0Rc7DxnxrgAUZhS9xw1pYb"
+        "name": "born in the teens",
+        "url": "https://open.spotify.com/album/7yrGizIEOMJb4ytbCOKhPn"
       },
       "artists": [
         {
-          "name": "Pretty Pink",
-          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
+          "name": "Philippa Kinsky",
+          "url": "https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0"
         }
       ],
-      "duration_ms": 209280,
-      "name": "Born Digital",
-      "url": "https://open.spotify.com/track/0vJDUTcjwCclZhE3oqNCiV"
+      "duration_ms": 193017,
+      "name": "heartache in july",
+      "url": "https://open.spotify.com/track/42rTk25vRoiJUpBayPRaOR"
     },
     {
       "added_at": "2022-08-07 13:17:15",
@@ -443,18 +459,18 @@
     {
       "added_at": "2022-08-07 13:17:15",
       "album": {
-        "name": "born in the teens",
-        "url": "https://open.spotify.com/album/7yrGizIEOMJb4ytbCOKhPn"
+        "name": "Alles Scheisse",
+        "url": "https://open.spotify.com/album/2WVwilXGM4HrUAfZVVAg6J"
       },
       "artists": [
         {
-          "name": "Philippa Kinsky",
-          "url": "https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0"
+          "name": "SERPENTIN",
+          "url": "https://open.spotify.com/artist/5OqZTCIS0UcVN7tPiUtGEF"
         }
       ],
-      "duration_ms": 193017,
-      "name": "heartache in july",
-      "url": "https://open.spotify.com/track/42rTk25vRoiJUpBayPRaOR"
+      "duration_ms": 177464,
+      "name": "Alles Scheisse",
+      "url": "https://open.spotify.com/track/3H1zM1uFstYvyEy8l0bisr"
     },
     {
       "added_at": "2022-08-07 13:17:15",
@@ -471,22 +487,6 @@
       "duration_ms": 186454,
       "name": "Rhododendron",
       "url": "https://open.spotify.com/track/4C6b2z8CSgTwQPJzqtG7mL"
-    },
-    {
-      "added_at": "2022-08-07 13:17:15",
-      "album": {
-        "name": "Alles Scheisse",
-        "url": "https://open.spotify.com/album/2WVwilXGM4HrUAfZVVAg6J"
-      },
-      "artists": [
-        {
-          "name": "SERPENTIN",
-          "url": "https://open.spotify.com/artist/5OqZTCIS0UcVN7tPiUtGEF"
-        }
-      ],
-      "duration_ms": 177464,
-      "name": "Alles Scheisse",
-      "url": "https://open.spotify.com/track/3H1zM1uFstYvyEy8l0bisr"
     },
     {
       "added_at": "2022-08-07 13:17:15",
@@ -523,6 +523,22 @@
     {
       "added_at": "2022-08-07 13:17:15",
       "album": {
+        "name": "Shouldn't This Feel Easy?",
+        "url": "https://open.spotify.com/album/15cubvXFZezkvHcVF4b5RU"
+      },
+      "artists": [
+        {
+          "name": "VILLFORTH",
+          "url": "https://open.spotify.com/artist/5zZFUqzTf5EItusaDuzmXG"
+        }
+      ],
+      "duration_ms": 169459,
+      "name": "Shouldn't This Feel Easy?",
+      "url": "https://open.spotify.com/track/05h7Pyi60LUWXJJVBpouah"
+    },
+    {
+      "added_at": "2022-08-07 13:17:15",
+      "album": {
         "name": "Toxic",
         "url": "https://open.spotify.com/album/6ixkDI2gLa23HxH41GodvN"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 178285,
       "name": "Reise",
       "url": "https://open.spotify.com/track/3aJ2lOHSNiBbRXzqk46L2M"
-    },
-    {
-      "added_at": "2022-08-07 13:17:15",
-      "album": {
-        "name": "Shouldn't This Feel Easy?",
-        "url": "https://open.spotify.com/album/15cubvXFZezkvHcVF4b5RU"
-      },
-      "artists": [
-        {
-          "name": "VILLFORTH",
-          "url": "https://open.spotify.com/artist/5zZFUqzTf5EItusaDuzmXG"
-        }
-      ],
-      "duration_ms": 169459,
-      "name": "Shouldn't This Feel Easy?",
-      "url": "https://open.spotify.com/track/05h7Pyi60LUWXJJVBpouah"
     },
     {
       "added_at": "2022-08-07 13:17:15",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-08-07 13:17:15",
       "album": {
-        "name": "Shaded",
-        "url": "https://open.spotify.com/album/4Zdv3BNkfH0lBNjlBmOvrY"
-      },
-      "artists": [
-        {
-          "name": "Xades",
-          "url": "https://open.spotify.com/artist/2hrJX5VA0aLhBgRMrGAqHz"
-        }
-      ],
-      "duration_ms": 173129,
-      "name": "Shaded",
-      "url": "https://open.spotify.com/track/2b3Oy0UcRS7sHaJfedEs5L"
-    },
-    {
-      "added_at": "2022-08-07 13:17:15",
-      "album": {
         "name": "Lips",
         "url": "https://open.spotify.com/album/3zhdIuDGIW8mctvaJaHpMA"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 172435,
       "name": "Lips",
       "url": "https://open.spotify.com/track/0cKMA2YicFxfLdSYAzPzQX"
+    },
+    {
+      "added_at": "2022-08-07 13:17:15",
+      "album": {
+        "name": "Shaded",
+        "url": "https://open.spotify.com/album/4Zdv3BNkfH0lBNjlBmOvrY"
+      },
+      "artists": [
+        {
+          "name": "Xades",
+          "url": "https://open.spotify.com/artist/2hrJX5VA0aLhBgRMrGAqHz"
+        }
+      ],
+      "duration_ms": 173129,
+      "name": "Shaded",
+      "url": "https://open.spotify.com/track/2b3Oy0UcRS7sHaJfedEs5L"
     },
     {
       "added_at": "2022-08-07 13:17:15",

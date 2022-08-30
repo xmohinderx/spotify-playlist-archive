@@ -4,7 +4,7 @@
 
 > The newest, freshest R&B tunes\.  Cover: CKAY
 
-389 songs - 21 hr 14 min - [published](https://open.spotify.com/playlist/2y3HQxunEcE7pPAyHu4buJ)
+390 songs - 21 hr 17 min - [published](https://open.spotify.com/playlist/2y3HQxunEcE7pPAyHu4buJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,7 +311,8 @@
 | [Rich Kids](https://open.spotify.com/track/7n7ZuzfTUJEvo7cZJVvCwd) | [Aiyana\-Lee](https://open.spotify.com/artist/2IZXxSIGhFtkHJyMh6UTln) | [Rich Kids](https://open.spotify.com/album/7xKUg94LStzFMZzbVBlWkK) | 3:18 | 2021-12-17 | 2022-02-12 |
 | [Ridin' Shotgun](https://open.spotify.com/track/6akhN7c2f1pDq1cSv5MEym) | [TYuS](https://open.spotify.com/artist/5J7URjIP8aFmeSn2QwF9Au) | [Ridin' Shotgun](https://open.spotify.com/album/4ZSgLjI6LADrkJrCKbmR5K) | 1:53 | 2022-02-04 | 2022-03-22 |
 | [Risk It All](https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y3](https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj) | 3:38 | 2022-07-08 | 2022-07-30 |
-| [Rollercoaster](https://open.spotify.com/track/4sciT4OOWK3iD41rtkrTYY) | [Jade Novah](https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Rollercoaster](https://open.spotify.com/album/6bTIVYkJDjjsSakD5nfLNa) | 3:33 | 2022-07-09 |  |
+| [Rollercoaster](https://open.spotify.com/track/4sciT4OOWK3iD41rtkrTYY) | [Jade Novah](https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Rollercoaster](https://open.spotify.com/album/6bTIVYkJDjjsSakD5nfLNa) | 3:33 | 2022-07-09 | 2022-08-30 |
+| [Rollercoaster](https://open.spotify.com/track/5nDNj7aBdekBb9X7h2Nugi) | [Jade Novah](https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Rollercoaster](https://open.spotify.com/album/4iS0UU37Huv1EJCRoZ0Ppx) | 3:33 | 2022-07-09 |  |
 | [Rose \- Stripped](https://open.spotify.com/track/6v7VKACk6oVhfX7vw4kVLo) | [Gemaine](https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03), [Charlie Heat](https://open.spotify.com/artist/0bbguzUos4LO6NikkdXdzw), [Ymtk](https://open.spotify.com/artist/1qGA73vOmiGDs08cvGo6rV), [Gregory Edwards](https://open.spotify.com/artist/6DZH1JLOEFPPxXUu5Gj1fD) | [Rose \(Stripped\)](https://open.spotify.com/album/5J7uK1xTiq5Osg6nNXOzwz) | 3:47 | 2022-07-29 | 2022-08-27 |
 | [Roster](https://open.spotify.com/track/7ydDdvP0VpVLvaK8iG63HH) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Heaux Tales, Mo' Tales: The Deluxe](https://open.spotify.com/album/4cogt2uqKoSyL61tzWaQei) | 3:39 | 2022-02-11 | 2022-03-18 |
 | [Say Yea](https://open.spotify.com/track/72kAhVS63uHIQV7drmjjHZ) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Say Yea](https://open.spotify.com/album/7LRIPWJaK4kQfrfD94zTzS) | 3:25 | 2022-05-20 | 2022-06-25 |

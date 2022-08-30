@@ -449,7 +449,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 281880,
       "name": "Caballos salvajes",
       "url": "https://open.spotify.com/track/7cFRBZUGXbVxrRhb5T2d7v"
@@ -759,7 +759,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 298706,
       "name": "Cruzando el para\u00edso",
       "url": "https://open.spotify.com/track/1i4IlPSIE1hDiAwVHyH2yp"
@@ -1824,6 +1824,24 @@
     },
     {
       "album": {
+        "name": "Lo que nunca te dije",
+        "url": "https://open.spotify.com/album/4DeVzia799oFvKCOLdwKID"
+      },
+      "artists": [
+        {
+          "name": "Charlie USG",
+          "url": "https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160632,
+      "name": "Lo que nunca te dije",
+      "url": "https://open.spotify.com/track/2usK8iQmaHhP8xK4MDEiGY"
+    },
+    {
+      "album": {
         "name": "Patchanka",
         "url": "https://open.spotify.com/album/1i6RiKDCLS9KqgwfCQ1mRQ"
       },
@@ -1969,7 +1987,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 243040,
       "name": "Masculino singular",
       "url": "https://open.spotify.com/track/52QD2RqoYu47mKA1gs4I3M"

@@ -1,12 +1,12 @@
 {
   "description": "Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  We The Kingdom",
-  "num_followers": 81699,
+  "num_followers": 81725,
   "original_name": "Sing A New Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzY3NDg2NCwwMDAwMDAwMDBiOGI3YWUyMzA1ZGNkMDkwNDk1M2M1YTNhYTE0NDYw",
+  "snapshot_id": "MTY1MzY3NDg2NCwwMDAwMDAwMGFiZGM0MmI5NGE4NWVhMDU1MjhjMjU0NGUwOTZlYTdl",
   "tracks": [
     {
       "added_at": "2022-05-27 18:07:44",
@@ -247,38 +247,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Plans",
-        "url": "https://open.spotify.com/album/5p3ZxGjxM3xnGi8gzHLU6f"
-      },
-      "artists": [
-        {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
-        }
-      ],
-      "duration_ms": 222985,
-      "name": "Plans",
-      "url": "https://open.spotify.com/track/7ylUm6UwDblnxBNFq1E0nh"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
-        "name": "God Thing",
-        "url": "https://open.spotify.com/album/1A45aq1ogAeLMNtS7ldJhW"
-      },
-      "artists": [
-        {
-          "name": "Anne Wilson",
-          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
-        }
-      ],
-      "duration_ms": 199093,
-      "name": "God Thing",
-      "url": "https://open.spotify.com/track/0SI39fe6eJtLtLezge9veM"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Be Alright (Remix)",
         "url": "https://open.spotify.com/album/5CZSvhDtNjRA7kU0FFHxY7"
       },
@@ -299,6 +267,38 @@
       "duration_ms": 222854,
       "name": "Be Alright - Remix",
       "url": "https://open.spotify.com/track/1Uj2EIkCWdfe6XMOscRqBr"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "God Thing",
+        "url": "https://open.spotify.com/album/1A45aq1ogAeLMNtS7ldJhW"
+      },
+      "artists": [
+        {
+          "name": "Anne Wilson",
+          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
+        }
+      ],
+      "duration_ms": 199093,
+      "name": "God Thing",
+      "url": "https://open.spotify.com/track/0SI39fe6eJtLtLezge9veM"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Plans",
+        "url": "https://open.spotify.com/album/5p3ZxGjxM3xnGi8gzHLU6f"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "duration_ms": 222985,
+      "name": "Plans",
+      "url": "https://open.spotify.com/track/7ylUm6UwDblnxBNFq1E0nh"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -423,18 +423,18 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Good Feeling (Radio Version)",
-        "url": "https://open.spotify.com/album/3kT4i3tkyT8FmcuAYUPJjJ"
+        "name": "You Can Rest",
+        "url": "https://open.spotify.com/album/6fsxOCp5oNmARaxQ1lVymF"
       },
       "artists": [
         {
-          "name": "Austin French",
-          "url": "https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU"
+          "name": "Hillary Scott",
+          "url": "https://open.spotify.com/artist/0Sk6yoUQnccty5iMhVhz9D"
         }
       ],
-      "duration_ms": 161583,
-      "name": "Good Feeling - Radio Version",
-      "url": "https://open.spotify.com/track/7L3dULJxns4VDBBgItRVR6"
+      "duration_ms": 288658,
+      "name": "You Can Rest",
+      "url": "https://open.spotify.com/track/4ZeHjRfWTpESYD0XarSXit"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -455,6 +455,22 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
+        "name": "Good Feeling (Radio Version)",
+        "url": "https://open.spotify.com/album/3kT4i3tkyT8FmcuAYUPJjJ"
+      },
+      "artists": [
+        {
+          "name": "Austin French",
+          "url": "https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU"
+        }
+      ],
+      "duration_ms": 161583,
+      "name": "Good Feeling - Radio Version",
+      "url": "https://open.spotify.com/track/7L3dULJxns4VDBBgItRVR6"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
         "name": "Wide Awake",
         "url": "https://open.spotify.com/album/68V8xLeZJHQHqRFHKqsjjk"
       },
@@ -471,18 +487,18 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "You Can Rest",
-        "url": "https://open.spotify.com/album/6fsxOCp5oNmARaxQ1lVymF"
+        "name": "Good Mood",
+        "url": "https://open.spotify.com/album/6p5sAqadaOyuHTiuhGujJx"
       },
       "artists": [
         {
-          "name": "Hillary Scott",
-          "url": "https://open.spotify.com/artist/0Sk6yoUQnccty5iMhVhz9D"
+          "name": "RICHLIN",
+          "url": "https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb"
         }
       ],
-      "duration_ms": 288658,
-      "name": "You Can Rest",
-      "url": "https://open.spotify.com/track/4ZeHjRfWTpESYD0XarSXit"
+      "duration_ms": 191905,
+      "name": "Good Mood",
+      "url": "https://open.spotify.com/track/0he118W7JdHcfV0ooMYt7X"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -499,22 +515,6 @@
       "duration_ms": 203752,
       "name": "Jesus Did",
       "url": "https://open.spotify.com/track/1HhUXOuE3wbuvXk00AaOSj"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
-        "name": "Good Mood",
-        "url": "https://open.spotify.com/album/6p5sAqadaOyuHTiuhGujJx"
-      },
-      "artists": [
-        {
-          "name": "RICHLIN",
-          "url": "https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb"
-        }
-      ],
-      "duration_ms": 191905,
-      "name": "Good Mood",
-      "url": "https://open.spotify.com/track/0he118W7JdHcfV0ooMYt7X"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Landslide",
-        "url": "https://open.spotify.com/album/5l9dMNKG2h8bLir0fcNxDF"
-      },
-      "artists": [
-        {
-          "name": "The Young Escape",
-          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/0FFTRMgjLI5LSbTeJTnrv1"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Long Way Home (From The Motion Picture \u201cFather Stu\u201d)",
         "url": "https://open.spotify.com/album/0vb3fPI1GAyhGbYklc5Nvi"
       },
@@ -711,18 +695,18 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Still",
-        "url": "https://open.spotify.com/album/0JQnzBVhMcoqXnUV83l3rl"
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/5l9dMNKG2h8bLir0fcNxDF"
       },
       "artists": [
         {
-          "name": "Steven Curtis Chapman",
-          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
+          "name": "The Young Escape",
+          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
         }
       ],
-      "duration_ms": 210599,
-      "name": "Still",
-      "url": "https://open.spotify.com/track/6REtbD1sDtPfL788VWoFZ5"
+      "duration_ms": 184000,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/0FFTRMgjLI5LSbTeJTnrv1"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -743,6 +727,38 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/0JQnzBVhMcoqXnUV83l3rl"
+      },
+      "artists": [
+        {
+          "name": "Steven Curtis Chapman",
+          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
+        }
+      ],
+      "duration_ms": 210599,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/6REtbD1sDtPfL788VWoFZ5"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Well Done",
+        "url": "https://open.spotify.com/album/4HwR3J7H9aOLHhSGOGhAoq"
+      },
+      "artists": [
+        {
+          "name": "Caitie Hurst",
+          "url": "https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b"
+        }
+      ],
+      "duration_ms": 222693,
+      "name": "Well Done",
+      "url": "https://open.spotify.com/track/5b3I2jCJm3FklJ5ui1uU77"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
         "name": "God Is Real",
         "url": "https://open.spotify.com/album/15WYTz5xlfGzNacurKTrqW"
       },
@@ -755,6 +771,22 @@
       "duration_ms": 177235,
       "name": "Never Not God",
       "url": "https://open.spotify.com/track/6zWdaANy7zVHGPqzv1fZeT"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "HELP!",
+        "url": "https://open.spotify.com/album/0sVketRXWDWlozs5jNopci"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 183720,
+      "name": "HELP!",
+      "url": "https://open.spotify.com/track/0NYrbgMEKFplv2l4Rzv4hN"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -791,54 +823,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Well Done",
-        "url": "https://open.spotify.com/album/4HwR3J7H9aOLHhSGOGhAoq"
-      },
-      "artists": [
-        {
-          "name": "Caitie Hurst",
-          "url": "https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b"
-        }
-      ],
-      "duration_ms": 222693,
-      "name": "Well Done",
-      "url": "https://open.spotify.com/track/5b3I2jCJm3FklJ5ui1uU77"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
-        "name": "HELP!",
-        "url": "https://open.spotify.com/album/0sVketRXWDWlozs5jNopci"
-      },
-      "artists": [
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 183720,
-      "name": "HELP!",
-      "url": "https://open.spotify.com/track/0NYrbgMEKFplv2l4Rzv4hN"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/2Wo9jqoYH9NfVqsdvp2Vgw"
-      },
-      "artists": [
-        {
-          "name": "Rachael Nemiroff",
-          "url": "https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t"
-        }
-      ],
-      "duration_ms": 226442,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/4GcSp6MeitSVubtS27ykaw"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Church",
         "url": "https://open.spotify.com/album/30cPB00t2FzvXPQLtSNJF8"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 174216,
       "name": "HEY GOD",
       "url": "https://open.spotify.com/track/4JehmSn8qjxB3BSQSHkiwr"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/2Wo9jqoYH9NfVqsdvp2Vgw"
+      },
+      "artists": [
+        {
+          "name": "Rachael Nemiroff",
+          "url": "https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t"
+        }
+      ],
+      "duration_ms": 226442,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/4GcSp6MeitSVubtS27ykaw"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Future",
-        "url": "https://open.spotify.com/album/250asL6HXVThavIF7t9rBc"
-      },
-      "artists": [
-        {
-          "name": "WE ARE ONE",
-          "url": "https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd"
-        }
-      ],
-      "duration_ms": 205377,
-      "name": "Future",
-      "url": "https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Who You Want Me To Be",
         "url": "https://open.spotify.com/album/2QX3GyZIXeWsJog7XwWV03"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 196746,
       "name": "Who You Want Me To Be",
       "url": "https://open.spotify.com/track/5VXVRtAzzsHT2KQbeOdnlz"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Future",
+        "url": "https://open.spotify.com/album/250asL6HXVThavIF7t9rBc"
+      },
+      "artists": [
+        {
+          "name": "WE ARE ONE",
+          "url": "https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd"
+        }
+      ],
+      "duration_ms": 205377,
+      "name": "Future",
+      "url": "https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "My King and My Defender",
-        "url": "https://open.spotify.com/album/52qXEqHIba35MnWdE4XHp1"
-      },
-      "artists": [
-        {
-          "name": "Nate Gardiner",
-          "url": "https://open.spotify.com/artist/7xXcCbR0mR4tBTJnLODynI"
-        }
-      ],
-      "duration_ms": 320981,
-      "name": "My King and My Defender",
-      "url": "https://open.spotify.com/track/1gHCQFLyvxrJPJTmRTsm7U"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "I Was Loved",
         "url": "https://open.spotify.com/album/6vky6IC6laXzH5ZViLAJ68"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 281880,
       "name": "I Was Loved",
       "url": "https://open.spotify.com/track/1bVIWSmlFhGU5pAjY7weXM"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "My King and My Defender",
+        "url": "https://open.spotify.com/album/52qXEqHIba35MnWdE4XHp1"
+      },
+      "artists": [
+        {
+          "name": "Nate Gardiner",
+          "url": "https://open.spotify.com/artist/7xXcCbR0mR4tBTJnLODynI"
+        }
+      ],
+      "duration_ms": 320981,
+      "name": "My King and My Defender",
+      "url": "https://open.spotify.com/track/1gHCQFLyvxrJPJTmRTsm7U"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1195,38 +1195,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Thank God!",
-        "url": "https://open.spotify.com/album/6D0WTJd0pUdQNy7VWfgftm"
-      },
-      "artists": [
-        {
-          "name": "Tracy Nitschke",
-          "url": "https://open.spotify.com/artist/3MFePrlHaLPnHIHkbAw3RW"
-        }
-      ],
-      "duration_ms": 142151,
-      "name": "Thank God!",
-      "url": "https://open.spotify.com/track/67nHwqqhRlR4cxbjJSOmkz"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
-        "name": "Let Me In",
-        "url": "https://open.spotify.com/album/2snKHr51NGLh7FegyNPjW3"
-      },
-      "artists": [
-        {
-          "name": "Tori Harper",
-          "url": "https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i"
-        }
-      ],
-      "duration_ms": 209017,
-      "name": "Let Me In",
-      "url": "https://open.spotify.com/track/28yR8znzFWGvvTGa5bgD6D"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Better View, Part II",
         "url": "https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy"
       },
@@ -1243,6 +1211,22 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
+        "name": "Thank God!",
+        "url": "https://open.spotify.com/album/6D0WTJd0pUdQNy7VWfgftm"
+      },
+      "artists": [
+        {
+          "name": "Tracy Nitschke",
+          "url": "https://open.spotify.com/artist/3MFePrlHaLPnHIHkbAw3RW"
+        }
+      ],
+      "duration_ms": 142151,
+      "name": "Thank God!",
+      "url": "https://open.spotify.com/track/67nHwqqhRlR4cxbjJSOmkz"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
         "name": "He Is Not Worried",
         "url": "https://open.spotify.com/album/7IDS7l5JGzDfdnBY1P90st"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 269986,
       "name": "He Is Not Worried",
       "url": "https://open.spotify.com/track/64bufFeb5iQoZhEhFPVJCb"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Let Me In",
+        "url": "https://open.spotify.com/album/2snKHr51NGLh7FegyNPjW3"
+      },
+      "artists": [
+        {
+          "name": "Tori Harper",
+          "url": "https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i"
+        }
+      ],
+      "duration_ms": 209017,
+      "name": "Let Me In",
+      "url": "https://open.spotify.com/track/28yR8znzFWGvvTGa5bgD6D"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Arise",
-        "url": "https://open.spotify.com/album/0x1dt3vWR5dfxcVj4SSfnk"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Cain",
-          "url": "https://open.spotify.com/artist/6APhaZEvvKh99J2c3TVM3i"
-        }
-      ],
-      "duration_ms": 234185,
-      "name": "Roar",
-      "url": "https://open.spotify.com/track/6DHIjsUc8GcoouCCb0DWd0"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Jesus Victorious (Jezus Overwinnaar)",
         "url": "https://open.spotify.com/album/5dt12Hf53YydCqmQT5hnEq"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 336628,
       "name": "Jesus Victorious (Jezus Overwinnaar)",
       "url": "https://open.spotify.com/track/7HPI24EvtUi1BBnOB8SLph"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Arise",
+        "url": "https://open.spotify.com/album/0x1dt3vWR5dfxcVj4SSfnk"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Cain",
+          "url": "https://open.spotify.com/artist/6APhaZEvvKh99J2c3TVM3i"
+        }
+      ],
+      "duration_ms": 234185,
+      "name": "Roar",
+      "url": "https://open.spotify.com/track/6DHIjsUc8GcoouCCb0DWd0"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "From the Ballroom",
-        "url": "https://open.spotify.com/album/5H7qkvj9OItrJcvT4r2XxN"
-      },
-      "artists": [
-        {
-          "name": "Shamina",
-          "url": "https://open.spotify.com/artist/2fgTVQWUfT8Mz9B9baFjMb"
-        }
-      ],
-      "duration_ms": 290579,
-      "name": "God Who Saves",
-      "url": "https://open.spotify.com/track/4uIlq5zbKVweM4MM94orVe"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "King of Love",
         "url": "https://open.spotify.com/album/4MQY7rqK8vJK6wLiDuQb74"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 232000,
       "name": "King of Love",
       "url": "https://open.spotify.com/track/5shWIh3eSLiACdpeN9zWJe"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "From the Ballroom",
+        "url": "https://open.spotify.com/album/5H7qkvj9OItrJcvT4r2XxN"
+      },
+      "artists": [
+        {
+          "name": "Shamina",
+          "url": "https://open.spotify.com/artist/2fgTVQWUfT8Mz9B9baFjMb"
+        }
+      ],
+      "duration_ms": 290579,
+      "name": "God Who Saves",
+      "url": "https://open.spotify.com/track/4uIlq5zbKVweM4MM94orVe"
     }
   ],
   "unique_name": "Sing A New Song",

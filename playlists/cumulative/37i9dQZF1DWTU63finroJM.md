@@ -4,7 +4,7 @@
 
 > From across the globe\. New artists on the horizon.
 
-797 songs - 1 day 20 hr 55 min - [published](https://open.spotify.com/playlist/5vCFU5jLGp753wsXFermer)
+798 songs - 1 day 20 hr 58 min - [published](https://open.spotify.com/playlist/5vCFU5jLGp753wsXFermer)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -417,6 +417,7 @@
 | [Mother May I Sleep With Danger?](https://open.spotify.com/track/6rZtlYru44l92npSBTbUN7) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Influence EP](https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv) | 3:27 | 2022-03-24 | 2022-04-19 |
 | [mucho texto](https://open.spotify.com/track/52bveGvtg6PtlEVxtxH5T4) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [mucho texto](https://open.spotify.com/album/5yL8fe4bb8GLP3lCUHmWba) | 3:21 | 2022-03-24 | 2022-04-14 |
 | [Muero Contigo](https://open.spotify.com/track/70bhGUvqkCfJxoNyX85Szu) | [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [Amor Roma](https://open.spotify.com/album/2pbBhYiSdgcWhuUFAzPru0) | 3:00 | 2022-03-24 | 2022-04-21 |
+| [Mujerón](https://open.spotify.com/track/2F2kre9J0uxhoap5iQyCV0) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Mujerón](https://open.spotify.com/album/7yY1iOFMzA5Zv0cDvOJgjX) | 2:50 | 2022-08-26 |  |
 | [Mungkin Hari Ini Esok Atau Nanti](https://open.spotify.com/track/7n5nvulc1oW1ErpeTrNezI) | [Anneth](https://open.spotify.com/artist/2UHBgxDvOBaIY7hQ8CEAmW) | [Mungkin Hari Ini Esok Atau Nanti](https://open.spotify.com/album/5b4SezUzb7AZedcatFbgcC) | 3:50 | 2022-02-03 | 2022-08-14 |
 | [music](https://open.spotify.com/track/1my6WsRdwWkB8rNRL9U0wi) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4), [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [music](https://open.spotify.com/album/74f2abiQasJUuM0HlRTjM8) | 3:41 | 2022-04-07 | 2022-08-02 |
 | [Mustang Preto](https://open.spotify.com/track/6Vgn3IEUkWs3d6og029Gtm) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Mustang Preto](https://open.spotify.com/album/6fhHEgPoz6jfgZvwlH9jBA) | 3:03 | 2022-03-24 |  |
@@ -497,7 +498,7 @@
 | [Pioggia di CBD](https://open.spotify.com/track/5eL7azGDSAndUemSxGm79B) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Pioggia di CBD](https://open.spotify.com/album/4UcG471p9uZwNJUGLRG4Ib) | 3:10 | 2022-03-24 | 2022-04-19 |
 | [Pit A Pat](https://open.spotify.com/track/79KjJGfIVfbkwHBxHqohTT) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Pit A Pat](https://open.spotify.com/album/6dFBPAA4Ip65F50LOKwwDD) | 3:40 | 2022-06-23 | 2022-06-26 |
 | [plany](https://open.spotify.com/track/0K5Cr8OvLVvhG87CsSjZsM) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d), [Lackluster](https://open.spotify.com/artist/4pRNijkEptvEeyfVWSfOaY) | [plany](https://open.spotify.com/album/0cxuO8WpinhRMKElDqUtfR) | 2:39 | 2022-08-01 | 2022-08-03 |
-| [Plutão](https://open.spotify.com/track/3ydmNkAyYq0AKtG8sTfE9P) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Plutão](https://open.spotify.com/album/2sZzCGg7xCNdWQwoVaFuro) | 3:41 | 2022-04-07 |  |
+| [Plutão](https://open.spotify.com/track/3ydmNkAyYq0AKtG8sTfE9P) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Plutão](https://open.spotify.com/album/2sZzCGg7xCNdWQwoVaFuro) | 3:41 | 2022-04-07 | 2022-08-30 |
 | [pocket locket](https://open.spotify.com/track/0SWVKG9dVSv0s1qdJKxp5c) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [parallel universe pt\. 1](https://open.spotify.com/album/4hKWAWw7dOBJvPiwghGWC5) | 3:08 | 2022-02-03 | 2022-03-11 |
 | [Polytics](https://open.spotify.com/track/29DpuCxcRK8igslbq7RSD4) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Polytics](https://open.spotify.com/album/3znffL5bZo1Fkjj5j2xKjj) | 2:35 | 2022-03-24 | 2022-08-02 |
 | [popstar](https://open.spotify.com/track/6C2xaC4vv2eRwLqcy564vw) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [popstar](https://open.spotify.com/album/3QHPerVUNjQTLaEXilaMjE) | 3:08 | 2022-03-24 | 2022-04-17 |
@@ -733,7 +734,7 @@
 | [แฟนเก่าคนโปรด](https://open.spotify.com/track/0AQkjLgo2ATGnv8EO2xKyJ) | [SLAPKISS](https://open.spotify.com/artist/6GBIcdZ5aBhhsd7Y6c3O3g) | [แฟนเก่าคนโปรด](https://open.spotify.com/album/1DNoigGZ9lI8p4lbjGd86P) | 3:36 | 2022-02-03 |  |
 | [ใครคิดถึงก่อนคนนั้นแพ้](https://open.spotify.com/track/3fgZmdk4bvYyMuIanDoFKf) | [LOSTBOYS](https://open.spotify.com/artist/35Ion6GBXviFXe5AzHduxb) | [ใครคิดถึงก่อนคนนั้นแพ้](https://open.spotify.com/album/5UnGIM1LOtSJA7Q9OlVUhQ) | 4:24 | 2022-02-10 | 2022-06-14 |
 | [ให้ลืมได้ไง](https://open.spotify.com/track/2hT18XXbbUSPuu8jRWzIhj) | [SLAPKISS](https://open.spotify.com/artist/6GBIcdZ5aBhhsd7Y6c3O3g) | [ให้ลืมได้ไง](https://open.spotify.com/album/15wHbinXVWnLH0n2NgQ4EI) | 4:18 | 2022-02-03 | 2022-08-02 |
-| [ไดโนเสาร์ไข่ดาวปาจังกี้](https://open.spotify.com/track/7e285rnQ9CFxZaMmEtMuwG) | [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [ไดโนเสาร์ไข่ดาวปาจังกี้](https://open.spotify.com/album/2lByhjQW64vPra5SUV3AFI) | 3:45 | 2022-08-26 |  |
+| [ไดโนเสาร์ไข่ดาวปาจังกี้](https://open.spotify.com/track/7e285rnQ9CFxZaMmEtMuwG) | [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [ไดโนเสาร์ไข่ดาวปาจังกี้](https://open.spotify.com/album/2lByhjQW64vPra5SUV3AFI) | 3:45 | 2022-08-26 | 2022-08-30 |
 | [ได้แต่นึกถึง](https://open.spotify.com/track/6SaADaULbCkQ2NZPYD9vaF) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [ได้แต่นึกถึง](https://open.spotify.com/album/35dG27p89W1PxkG4YTPQof) | 4:24 | 2022-03-24 |  |
 | [きらり](https://open.spotify.com/track/3ciqhcLmXP4hVGBD98QlEj) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [きらり](https://open.spotify.com/album/1fokTD5rDI2bHnFH1QSbPy) | 3:51 | 2022-02-03 | 2022-03-18 |
 | [グッドバイソング](https://open.spotify.com/track/2ZrnJgMf5FZftiFtBJW9sP) | [Ritsuki Akiyama](https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9) | [DREAM DROPPER](https://open.spotify.com/album/6Jzn1Cni94VChGWzQH2Eqh) | 2:37 | 2022-03-24 | 2022-08-02 |
@@ -756,7 +757,7 @@
 | [句号想念问号](https://open.spotify.com/track/7ka7lf2RSsKpBncHGrxE3A) | [Soph T.](https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP) | [句号想念问号](https://open.spotify.com/album/37RjBAZMoEQAnmbOC3BRJF) | 2:59 | 2022-03-21 | 2022-08-02 |
 | [只要妳喜歡](https://open.spotify.com/track/451RJJ6kEmtr4uM3Ygw0Be) | [DripO](https://open.spotify.com/artist/4UDaKqA1HCtrgZBlzcTAIk), [Juice Boy](https://open.spotify.com/artist/2PRHe0bqimdQP9pSORGE6H) | [只要妳喜歡](https://open.spotify.com/album/7IArK90rR0kDA5XWOehxUv) | 3:02 | 2022-03-24 | 2022-03-28 |
 | [各就各位!預備!](https://open.spotify.com/track/26GJ3VhzsYhhdKB7E2Q7F5) | [吳霏](https://open.spotify.com/artist/2q5HrJWKwU4iHaTTSKGZC4) | [各就各位!預備!](https://open.spotify.com/album/5V1WgnpWAL3wYsNqwXCAcP) | 3:22 | 2022-03-21 | 2022-08-02 |
-| [失重前幸福](https://open.spotify.com/track/3SJgTyb8a7z66suw0kBZ0T) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [I](https://open.spotify.com/album/26yqvFjCkJ4W69WDtnnz6f) | 3:40 | 2022-02-03 | 2022-08-27 |
+| [失重前幸福](https://open.spotify.com/track/3SJgTyb8a7z66suw0kBZ0T) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [I](https://open.spotify.com/album/26yqvFjCkJ4W69WDtnnz6f) | 3:40 | 2022-02-03 |  |
 | [如何忘記你 \- 戲劇<網紅的瘋狂世界>片尾曲](https://open.spotify.com/track/7nZhXTJKFFKF49vRFKgSCz) | [張若凡](https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk) | [dopaMINE 我,她](https://open.spotify.com/album/52S6rk20AFlIRBmOd214NN) | 4:58 | 2022-02-03 | 2022-03-17 |
 | [如果的事](https://open.spotify.com/track/6fPYtE9uTtOBeg15ITkHas) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH), [許維芳](https://open.spotify.com/artist/5bDxJPbf1x9lOl5f17sb9e) | [如果的事](https://open.spotify.com/album/3tfKXY8skGNiJKXKBtSNgT) | 3:44 | 2022-02-03 | 2022-03-16 |
 | [妳是我寶貝ㄟ](https://open.spotify.com/track/09XPFGKSR0HbbfbSt7GSox) | [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [妳是我寶貝ㄟ](https://open.spotify.com/album/73mY6P6FZN0jVcLDn9hOAl) | 3:32 | 2022-03-21 | 2022-03-27 |

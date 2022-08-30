@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes to soundtrack your weekend. Cover: The Tragically Hip",
-  "num_followers": 49279,
+  "num_followers": 49280,
   "original_name": "Canadian Weekend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTUxNTQwMCwwMDAwMDAwMDBkNjYwMjNhNWIyZjJhZmJjZDU5Y2IzMmM5ZDM2NDg0",
+  "snapshot_id": "MTY1MTUxNTQwMCwwMDAwMDAwMDMzOTM2ZDc5ODU0MzI3OTU1NGMzMTYyZDQxY2Y3NzQ1",
   "tracks": [
     {
       "added_at": "2022-05-02 18:16:39",
@@ -139,6 +139,22 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
+        "name": "All Killer, No Filler",
+        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 178266,
+      "name": "Fat Lip",
+      "url": "https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN"
+    },
+    {
+      "added_at": "2022-05-02 18:16:39",
+      "album": {
         "name": "Stunt (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/0DuFDnZcj7B4R0Jik1aDmY"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 221000,
       "name": "Working for the Weekend",
       "url": "https://open.spotify.com/track/35k31HZI4z9PbBOioaI4dZ"
-    },
-    {
-      "added_at": "2022-05-02 18:16:39",
-      "album": {
-        "name": "All Killer, No Filler",
-        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 178266,
-      "name": "Fat Lip",
-      "url": "https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN"
     },
     {
       "added_at": "2022-05-02 18:16:39",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
-        "name": "Bachman-Turner Overdrive II",
-        "url": "https://open.spotify.com/album/1p2tbwfEfN8kZNOi4F3bGH"
-      },
-      "artists": [
-        {
-          "name": "Bachman-Turner Overdrive",
-          "url": "https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5"
-        }
-      ],
-      "duration_ms": 289893,
-      "name": "Takin' Care Of Business",
-      "url": "https://open.spotify.com/track/0lzNXoZINVBLHWNIxKxWOo"
-    },
-    {
-      "added_at": "2022-05-02 18:16:39",
-      "album": {
         "name": "Steppenwolf",
         "url": "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 212893,
       "name": "Born To Be Wild - Single Version",
       "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
+    },
+    {
+      "added_at": "2022-05-02 18:16:39",
+      "album": {
+        "name": "Bachman-Turner Overdrive II",
+        "url": "https://open.spotify.com/album/1p2tbwfEfN8kZNOi4F3bGH"
+      },
+      "artists": [
+        {
+          "name": "Bachman-Turner Overdrive",
+          "url": "https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5"
+        }
+      ],
+      "duration_ms": 289893,
+      "name": "Takin' Care Of Business",
+      "url": "https://open.spotify.com/track/0lzNXoZINVBLHWNIxKxWOo"
     },
     {
       "added_at": "2022-05-02 18:16:39",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
-        "name": "The Collection (Standard Edition)",
-        "url": "https://open.spotify.com/album/4N7LuZYpstQrtcHIoOKzqg"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 228573,
-      "name": "Ironic",
-      "url": "https://open.spotify.com/track/29YBihzQOmat0U74k4ukdx"
-    },
-    {
-      "added_at": "2022-05-02 18:16:39",
-      "album": {
         "name": "Metro Music",
         "url": "https://open.spotify.com/album/3XyR0jp0zJGjhLJjnltNaX"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 219866,
       "name": "Echo Beach",
       "url": "https://open.spotify.com/track/49wHCjiu34kM3VRgumQ1tJ"
+    },
+    {
+      "added_at": "2022-05-02 18:16:39",
+      "album": {
+        "name": "The Collection (Standard Edition)",
+        "url": "https://open.spotify.com/album/4N7LuZYpstQrtcHIoOKzqg"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 228573,
+      "name": "Ironic",
+      "url": "https://open.spotify.com/track/29YBihzQOmat0U74k4ukdx"
     },
     {
       "added_at": "2022-05-02 18:16:39",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
-        "name": "Phantom Power",
-        "url": "https://open.spotify.com/album/3HWQXn3dGZPSnIhVkvHIOz"
-      },
-      "artists": [
-        {
-          "name": "The Tragically Hip",
-          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
-        }
-      ],
-      "duration_ms": 295357,
-      "name": "Bobcaygeon",
-      "url": "https://open.spotify.com/track/2oPzisApHGH3hbcu4C9UJS"
-    },
-    {
-      "added_at": "2022-05-02 18:16:39",
-      "album": {
         "name": "Seasons In The Sun (Expanded Edition)",
         "url": "https://open.spotify.com/album/6qKGMVfcz7HxHeXnhUsK9J"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 208853,
       "name": "Seasons in the Sun",
       "url": "https://open.spotify.com/track/7pGMRy91RcQT9oHdPgYz3A"
+    },
+    {
+      "added_at": "2022-05-02 18:16:39",
+      "album": {
+        "name": "Phantom Power",
+        "url": "https://open.spotify.com/album/3HWQXn3dGZPSnIhVkvHIOz"
+      },
+      "artists": [
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        }
+      ],
+      "duration_ms": 295357,
+      "name": "Bobcaygeon",
+      "url": "https://open.spotify.com/track/2oPzisApHGH3hbcu4C9UJS"
     },
     {
       "added_at": "2022-05-02 18:16:39",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
-        "name": "Up To Here",
-        "url": "https://open.spotify.com/album/4gmKiB0dtmPWjzbDM5N7Jv"
-      },
-      "artists": [
-        {
-          "name": "The Tragically Hip",
-          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
-        }
-      ],
-      "duration_ms": 257440,
-      "name": "New Orleans Is Sinking",
-      "url": "https://open.spotify.com/track/6v4pemwpkW7msCbBtSJf15"
-    },
-    {
-      "added_at": "2022-05-02 18:16:39",
-      "album": {
         "name": "Boy In The Box",
         "url": "https://open.spotify.com/album/5WrZRRqfnVPr9EbNSqG0cN"
       },
@@ -747,6 +731,22 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
+        "name": "Up To Here",
+        "url": "https://open.spotify.com/album/4gmKiB0dtmPWjzbDM5N7Jv"
+      },
+      "artists": [
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        }
+      ],
+      "duration_ms": 257440,
+      "name": "New Orleans Is Sinking",
+      "url": "https://open.spotify.com/track/6v4pemwpkW7msCbBtSJf15"
+    },
+    {
+      "added_at": "2022-05-02 18:16:39",
+      "album": {
         "name": "The World According To Gob",
         "url": "https://open.spotify.com/album/5W9KaweYXnOVDlG7UjIbCb"
       },
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
-        "name": "Trouble At The Henhouse",
-        "url": "https://open.spotify.com/album/5mMBYPBUI6jHW40ASk1ekn"
-      },
-      "artists": [
-        {
-          "name": "The Tragically Hip",
-          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
-        }
-      ],
-      "duration_ms": 223133,
-      "name": "Ahead By A Century",
-      "url": "https://open.spotify.com/track/2SVEOxPGB8Z8WikO4DppNA"
-    },
-    {
-      "added_at": "2022-05-02 18:16:39",
-      "album": {
         "name": "Clumsy",
         "url": "https://open.spotify.com/album/4qR92pgYZPRNV6GA9gC7OC"
       },
@@ -807,22 +791,6 @@
       "duration_ms": 255400,
       "name": "Superman's Dead",
       "url": "https://open.spotify.com/track/1612JQ4JxS8bm5ky53N3bH"
-    },
-    {
-      "added_at": "2022-05-02 18:16:39",
-      "album": {
-        "name": "Waiting For A Miracle",
-        "url": "https://open.spotify.com/album/5LY3NOVnOe2H5jcZ3FFIG2"
-      },
-      "artists": [
-        {
-          "name": "Bruce Cockburn",
-          "url": "https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz"
-        }
-      ],
-      "duration_ms": 223826,
-      "name": "Wondering Where The Lions Are",
-      "url": "https://open.spotify.com/track/0v1lnGbN08YjocXp3SvJXP"
     },
     {
       "added_at": "2022-05-02 18:16:39",
@@ -859,6 +827,22 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
+        "name": "Waiting For A Miracle",
+        "url": "https://open.spotify.com/album/5LY3NOVnOe2H5jcZ3FFIG2"
+      },
+      "artists": [
+        {
+          "name": "Bruce Cockburn",
+          "url": "https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz"
+        }
+      ],
+      "duration_ms": 223826,
+      "name": "Wondering Where The Lions Are",
+      "url": "https://open.spotify.com/track/0v1lnGbN08YjocXp3SvJXP"
+    },
+    {
+      "added_at": "2022-05-02 18:16:39",
+      "album": {
         "name": "Bring Me Your Love (Special Edition)",
         "url": "https://open.spotify.com/album/1GYDVFWPK1HFI3TRWmj7hr"
       },
@@ -891,22 +875,6 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
-        "name": "You Forgot It In People",
-        "url": "https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ"
-      },
-      "artists": [
-        {
-          "name": "Broken Social Scene",
-          "url": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
-        }
-      ],
-      "duration_ms": 275693,
-      "name": "Anthems For A Seventeen Year-Old Girl",
-      "url": "https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g"
-    },
-    {
-      "added_at": "2022-05-02 18:16:39",
-      "album": {
         "name": "Knock 'Em Dead Kid",
         "url": "https://open.spotify.com/album/4lRGegSdH4MiZGY0dCCIDQ"
       },
@@ -923,18 +891,18 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
-        "name": "Honeymoon Suite",
-        "url": "https://open.spotify.com/album/30S6ZGFNC9KcUZeOqxuq3n"
+        "name": "Trouble At The Henhouse",
+        "url": "https://open.spotify.com/album/5mMBYPBUI6jHW40ASk1ekn"
       },
       "artists": [
         {
-          "name": "Honeymoon Suite",
-          "url": "https://open.spotify.com/artist/7kFyhQTV7cbd3iSYW2yt1Q"
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
         }
       ],
-      "duration_ms": 216693,
-      "name": "New Girl Now",
-      "url": "https://open.spotify.com/track/1grnSNpTAe14gjtqfArZan"
+      "duration_ms": 223133,
+      "name": "Ahead By A Century",
+      "url": "https://open.spotify.com/track/2SVEOxPGB8Z8WikO4DppNA"
     },
     {
       "added_at": "2022-05-02 18:16:39",
@@ -951,6 +919,38 @@
       "duration_ms": 222466,
       "name": "Innocent",
       "url": "https://open.spotify.com/track/5mFyCVEII6mp5YPPYQfTck"
+    },
+    {
+      "added_at": "2022-05-02 18:16:39",
+      "album": {
+        "name": "You Forgot It In People",
+        "url": "https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ"
+      },
+      "artists": [
+        {
+          "name": "Broken Social Scene",
+          "url": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
+        }
+      ],
+      "duration_ms": 275693,
+      "name": "Anthems For A Seventeen Year-Old Girl",
+      "url": "https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g"
+    },
+    {
+      "added_at": "2022-05-02 18:16:39",
+      "album": {
+        "name": "Honeymoon Suite",
+        "url": "https://open.spotify.com/album/30S6ZGFNC9KcUZeOqxuq3n"
+      },
+      "artists": [
+        {
+          "name": "Honeymoon Suite",
+          "url": "https://open.spotify.com/artist/7kFyhQTV7cbd3iSYW2yt1Q"
+        }
+      ],
+      "duration_ms": 216693,
+      "name": "New Girl Now",
+      "url": "https://open.spotify.com/track/1grnSNpTAe14gjtqfArZan"
     },
     {
       "added_at": "2022-05-02 18:16:39",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
+        "name": "Naveed",
+        "url": "https://open.spotify.com/album/5Kcy45Vd27PmOoSPgi9siS"
+      },
+      "artists": [
+        {
+          "name": "Our Lady Peace",
+          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
+        }
+      ],
+      "duration_ms": 244040,
+      "name": "Starseed",
+      "url": "https://open.spotify.com/track/4et8vIjMkwvHvtaBp1yh70"
+    },
+    {
+      "added_at": "2022-05-02 18:16:39",
+      "album": {
         "name": "Thick As Thieves",
         "url": "https://open.spotify.com/album/4LyTOb4shQjOLSwE0zUpk0"
       },
@@ -1015,6 +1031,22 @@
       "duration_ms": 222426,
       "name": "Raise A Little Hell",
       "url": "https://open.spotify.com/track/1yNz3A4ubmE5IEvpNFkjdc"
+    },
+    {
+      "added_at": "2022-05-02 18:16:39",
+      "album": {
+        "name": "The State",
+        "url": "https://open.spotify.com/album/3jl1TcvE91Mnu6zjKkklAb"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 210840,
+      "name": "Leader of Men",
+      "url": "https://open.spotify.com/track/4Vf9v7ohVz5i8PeZBliwb5"
     },
     {
       "added_at": "2022-05-02 18:16:39",
@@ -1047,38 +1079,6 @@
       "duration_ms": 196106,
       "name": "Paint It Black",
       "url": "https://open.spotify.com/track/7ybIcMrSGMNBlZk0FLkvls"
-    },
-    {
-      "added_at": "2022-05-02 18:16:39",
-      "album": {
-        "name": "Naveed",
-        "url": "https://open.spotify.com/album/5Kcy45Vd27PmOoSPgi9siS"
-      },
-      "artists": [
-        {
-          "name": "Our Lady Peace",
-          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
-        }
-      ],
-      "duration_ms": 244040,
-      "name": "Starseed",
-      "url": "https://open.spotify.com/track/4et8vIjMkwvHvtaBp1yh70"
-    },
-    {
-      "added_at": "2022-05-02 18:16:39",
-      "album": {
-        "name": "The State",
-        "url": "https://open.spotify.com/album/3jl1TcvE91Mnu6zjKkklAb"
-      },
-      "artists": [
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        }
-      ],
-      "duration_ms": 210840,
-      "name": "Leader of Men",
-      "url": "https://open.spotify.com/track/4Vf9v7ohVz5i8PeZBliwb5"
     },
     {
       "added_at": "2022-05-02 18:16:39",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
-        "name": "Share The Land",
-        "url": "https://open.spotify.com/album/3zlRX163Z3F9H0MWPmtiBV"
-      },
-      "artists": [
-        {
-          "name": "The Guess Who",
-          "url": "https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc"
-        }
-      ],
-      "duration_ms": 235600,
-      "name": "Share the Land",
-      "url": "https://open.spotify.com/track/51krF0CyHT5AEuh81K0t0z"
-    },
-    {
-      "added_at": "2022-05-02 18:16:39",
-      "album": {
         "name": "Dreams, Dreams, Dreams",
         "url": "https://open.spotify.com/album/0HFcnY7LMUaE0PsCg9W1KI"
       },
@@ -1195,18 +1179,18 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
-        "name": "Furiosity",
-        "url": "https://open.spotify.com/album/671q4kHo2y178Q6VvDd6ER"
+        "name": "Share The Land",
+        "url": "https://open.spotify.com/album/3zlRX163Z3F9H0MWPmtiBV"
       },
       "artists": [
         {
-          "name": "Monster Truck",
-          "url": "https://open.spotify.com/artist/0slSgjqTuj6hcod6IcG6zu"
+          "name": "The Guess Who",
+          "url": "https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc"
         }
       ],
-      "duration_ms": 229945,
-      "name": "Sweet Mountain River",
-      "url": "https://open.spotify.com/track/2g2st70xvu7DYGlfVircnf"
+      "duration_ms": 235600,
+      "name": "Share the Land",
+      "url": "https://open.spotify.com/track/51krF0CyHT5AEuh81K0t0z"
     },
     {
       "added_at": "2022-05-02 18:16:39",
@@ -1223,6 +1207,22 @@
       "duration_ms": 190133,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/1BWNpziDWyAMfGdKC2ydS6"
+    },
+    {
+      "added_at": "2022-05-02 18:16:39",
+      "album": {
+        "name": "Furiosity",
+        "url": "https://open.spotify.com/album/671q4kHo2y178Q6VvDd6ER"
+      },
+      "artists": [
+        {
+          "name": "Monster Truck",
+          "url": "https://open.spotify.com/artist/0slSgjqTuj6hcod6IcG6zu"
+        }
+      ],
+      "duration_ms": 229945,
+      "name": "Sweet Mountain River",
+      "url": "https://open.spotify.com/track/2g2st70xvu7DYGlfVircnf"
     },
     {
       "added_at": "2022-05-02 18:16:39",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
-        "name": "House of Ill Fame (Bonus Live Cut Edition)",
-        "url": "https://open.spotify.com/album/5gQedR7N5Upa5UD2R0C0gd"
-      },
-      "artists": [
-        {
-          "name": "The Trews",
-          "url": "https://open.spotify.com/artist/2mCd5QO8EUB5rmbGUbCrTJ"
-        }
-      ],
-      "duration_ms": 183853,
-      "name": "Not Ready to Go",
-      "url": "https://open.spotify.com/track/1NGH22lTbPAkuj7gLdCcJW"
-    },
-    {
-      "added_at": "2022-05-02 18:16:39",
-      "album": {
         "name": "Reunion Tour",
         "url": "https://open.spotify.com/album/1RIXytPt0J9WcBOvsklInr"
       },
@@ -1351,34 +1335,18 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
-        "name": "Blink Once",
-        "url": "https://open.spotify.com/album/49JNEHi48l2G1EvAppNWLT"
+        "name": "House of Ill Fame (Bonus Live Cut Edition)",
+        "url": "https://open.spotify.com/album/5gQedR7N5Upa5UD2R0C0gd"
       },
       "artists": [
         {
-          "name": "Arkells",
-          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
+          "name": "The Trews",
+          "url": "https://open.spotify.com/artist/2mCd5QO8EUB5rmbGUbCrTJ"
         }
       ],
-      "duration_ms": 177606,
-      "name": "Years In The Making",
-      "url": "https://open.spotify.com/track/6oqg3JVXv3ocNkLlAVfEFN"
-    },
-    {
-      "added_at": "2022-05-02 18:16:39",
-      "album": {
-        "name": "Snow In June",
-        "url": "https://open.spotify.com/album/51UDRztqnNOkq3WLIDKGAa"
-      },
-      "artists": [
-        {
-          "name": "The Northern Pikes",
-          "url": "https://open.spotify.com/artist/2BLAzgwe8OzvLOPTZDBCtw"
-        }
-      ],
-      "duration_ms": 163773,
-      "name": "She Ain't Pretty",
-      "url": "https://open.spotify.com/track/3lQl6N5vnASpox2hdHpH2w"
+      "duration_ms": 183853,
+      "name": "Not Ready to Go",
+      "url": "https://open.spotify.com/track/1NGH22lTbPAkuj7gLdCcJW"
     },
     {
       "added_at": "2022-05-02 18:16:39",
@@ -1399,6 +1367,22 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
+        "name": "Blink Once",
+        "url": "https://open.spotify.com/album/49JNEHi48l2G1EvAppNWLT"
+      },
+      "artists": [
+        {
+          "name": "Arkells",
+          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
+        }
+      ],
+      "duration_ms": 177606,
+      "name": "Years In The Making",
+      "url": "https://open.spotify.com/track/6oqg3JVXv3ocNkLlAVfEFN"
+    },
+    {
+      "added_at": "2022-05-02 18:16:39",
+      "album": {
         "name": "Wide Awake Bored",
         "url": "https://open.spotify.com/album/0AYMaqYA1iUckwV5lFLKCu"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 204573,
       "name": "American Psycho",
       "url": "https://open.spotify.com/track/7kHMq0z0nKPYDDIXltRzij"
+    },
+    {
+      "added_at": "2022-05-02 18:16:39",
+      "album": {
+        "name": "Snow In June",
+        "url": "https://open.spotify.com/album/51UDRztqnNOkq3WLIDKGAa"
+      },
+      "artists": [
+        {
+          "name": "The Northern Pikes",
+          "url": "https://open.spotify.com/artist/2BLAzgwe8OzvLOPTZDBCtw"
+        }
+      ],
+      "duration_ms": 163773,
+      "name": "She Ain't Pretty",
+      "url": "https://open.spotify.com/track/3lQl6N5vnASpox2hdHpH2w"
     },
     {
       "added_at": "2022-05-02 18:16:39",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
-        "name": "Young Beauties and Fools",
-        "url": "https://open.spotify.com/album/7bauAaXGIb5m0O5zliJKwE"
-      },
-      "artists": [
-        {
-          "name": "The Glorious Sons",
-          "url": "https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH"
-        }
-      ],
-      "duration_ms": 193325,
-      "name": "Everything Is Alright",
-      "url": "https://open.spotify.com/track/42lrhaZzqJqCYHlfQTGozP"
-    },
-    {
-      "added_at": "2022-05-02 18:16:39",
-      "album": {
         "name": "Five Days in July",
         "url": "https://open.spotify.com/album/38xKbwxuitwGAgjTPoEnWm"
       },
@@ -1463,18 +1447,18 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
-        "name": "Reconstruction Site",
-        "url": "https://open.spotify.com/album/14gpuI6JNy9gekaT0p6m9N"
+        "name": "Young Beauties and Fools",
+        "url": "https://open.spotify.com/album/7bauAaXGIb5m0O5zliJKwE"
       },
       "artists": [
         {
-          "name": "The Weakerthans",
-          "url": "https://open.spotify.com/artist/1US3cA3tVZ50O7n4xE1o0K"
+          "name": "The Glorious Sons",
+          "url": "https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH"
         }
       ],
-      "duration_ms": 229666,
-      "name": "Plea from a Cat Named Virtute",
-      "url": "https://open.spotify.com/track/6FfMiOK3Ma2GNAbjbGxFVn"
+      "duration_ms": 193325,
+      "name": "Everything Is Alright",
+      "url": "https://open.spotify.com/track/42lrhaZzqJqCYHlfQTGozP"
     },
     {
       "added_at": "2022-05-02 18:16:39",
@@ -1495,6 +1479,22 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
+        "name": "Reconstruction Site",
+        "url": "https://open.spotify.com/album/14gpuI6JNy9gekaT0p6m9N"
+      },
+      "artists": [
+        {
+          "name": "The Weakerthans",
+          "url": "https://open.spotify.com/artist/1US3cA3tVZ50O7n4xE1o0K"
+        }
+      ],
+      "duration_ms": 229666,
+      "name": "Plea from a Cat Named Virtute",
+      "url": "https://open.spotify.com/track/6FfMiOK3Ma2GNAbjbGxFVn"
+    },
+    {
+      "added_at": "2022-05-02 18:16:39",
+      "album": {
         "name": "Time Capsule",
         "url": "https://open.spotify.com/album/0NIV4KxIC0ed3d5PTdlPYQ"
       },
@@ -1507,6 +1507,22 @@
       "duration_ms": 231373,
       "name": "Highway of Heroes - Remastered",
       "url": "https://open.spotify.com/track/30NBRD11nWJX2lRMVC2hDI"
+    },
+    {
+      "added_at": "2022-05-02 18:16:39",
+      "album": {
+        "name": "Harmony (Deluxe)",
+        "url": "https://open.spotify.com/album/41GCX8kXBOD5gJbv9d2BD7"
+      },
+      "artists": [
+        {
+          "name": "Serena Ryder",
+          "url": "https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j"
+        }
+      ],
+      "duration_ms": 221746,
+      "name": "Stompa",
+      "url": "https://open.spotify.com/track/3zIEvMYvCM0jiszho8jaFH"
     },
     {
       "added_at": "2022-05-02 18:16:39",
@@ -1527,22 +1543,6 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
-        "name": "Sittin' Heavy",
-        "url": "https://open.spotify.com/album/1xPJIBohk5DtRCXwdmAZAd"
-      },
-      "artists": [
-        {
-          "name": "Monster Truck",
-          "url": "https://open.spotify.com/artist/0slSgjqTuj6hcod6IcG6zu"
-        }
-      ],
-      "duration_ms": 266093,
-      "name": "Don't Tell Me How to Live",
-      "url": "https://open.spotify.com/track/3vvNbg3Z5fQYk4FKkDK6V7"
-    },
-    {
-      "added_at": "2022-05-02 18:16:39",
-      "album": {
         "name": "The Future",
         "url": "https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo"
       },
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
-        "name": "Harmony (Deluxe)",
-        "url": "https://open.spotify.com/album/41GCX8kXBOD5gJbv9d2BD7"
+        "name": "Sittin' Heavy",
+        "url": "https://open.spotify.com/album/1xPJIBohk5DtRCXwdmAZAd"
       },
       "artists": [
         {
-          "name": "Serena Ryder",
-          "url": "https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j"
+          "name": "Monster Truck",
+          "url": "https://open.spotify.com/artist/0slSgjqTuj6hcod6IcG6zu"
         }
       ],
-      "duration_ms": 221746,
-      "name": "Stompa",
-      "url": "https://open.spotify.com/track/3zIEvMYvCM0jiszho8jaFH"
+      "duration_ms": 266093,
+      "name": "Don't Tell Me How to Live",
+      "url": "https://open.spotify.com/track/3vvNbg3Z5fQYk4FKkDK6V7"
     },
     {
       "added_at": "2022-05-02 18:16:39",

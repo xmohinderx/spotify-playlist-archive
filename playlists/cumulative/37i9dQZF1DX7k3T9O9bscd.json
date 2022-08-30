@@ -988,6 +988,24 @@
     },
     {
       "album": {
+        "name": "El Tiempo",
+        "url": "https://open.spotify.com/album/0tchM8Ti4qw4TU7VjQC5Su"
+      },
+      "artists": [
+        {
+          "name": "Flores",
+          "url": "https://open.spotify.com/artist/25Wl3sHyhxXW8BsgcbpYSt"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277443,
+      "name": "El Tiempo",
+      "url": "https://open.spotify.com/track/2uKO2bIP3AtFxCZrUDmGlC"
+    },
+    {
+      "album": {
         "name": "El Valle",
         "url": "https://open.spotify.com/album/7gN1tO9yniNjUwdJC3HBSa"
       },
@@ -1017,7 +1035,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 352542,
       "name": "El Veh\u00edculo de las Transformaciones",
       "url": "https://open.spotify.com/track/7F4GU3OKcPJOgeLG1jrSrx"
@@ -1071,7 +1089,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 173862,
       "name": "Escultura Misterio",
       "url": "https://open.spotify.com/track/110XHKXij8NsQYcDiZk0cD"
@@ -1539,7 +1557,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 185226,
       "name": "Hours",
       "url": "https://open.spotify.com/track/6Yf4SLG6BFUMsPvm6Vol6o"
@@ -3245,7 +3263,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-01",
+      "date_removed": null,
       "duration_ms": 397813,
       "name": "Space Camel",
       "url": "https://open.spotify.com/track/6RKoe7UCtdONhVdo6625Lt"
@@ -3267,6 +3285,24 @@
       "duration_ms": 212203,
       "name": "Spin",
       "url": "https://open.spotify.com/track/18Werbtn3J54qXLZO2dKyo"
+    },
+    {
+      "album": {
+        "name": "Spin",
+        "url": "https://open.spotify.com/album/6GejDhVjHKAmQnPkyW6csf"
+      },
+      "artists": [
+        {
+          "name": "Triathalon",
+          "url": "https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212203,
+      "name": "Spin",
+      "url": "https://open.spotify.com/track/31MLGEYrKwoTmMoH50JDEw"
     },
     {
       "album": {

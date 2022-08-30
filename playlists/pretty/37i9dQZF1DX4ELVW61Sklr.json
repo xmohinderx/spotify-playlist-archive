@@ -1,12 +1,12 @@
 {
   "description": "A collection of soul, rnb and gospel flavored takes on the most beloved Christmas songs.",
-  "num_followers": 140546,
+  "num_followers": 140531,
   "original_name": "Soulful Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTU4OTQyOSwwMDAwMDAwMGE2ZjA4YzQzZjljZTQ4Yzk1YWM3YzM3MjFmNjA3YTlh",
+  "snapshot_id": "MTYzOTU4OTQyOSwwMDAwMDAwMDE4OWM0NmYzYjE4MzE0Yjk2ODQzNzk2ZThkYjA4MmYx",
   "tracks": [
     {
       "added_at": "2021-12-15 17:30:29",
@@ -295,6 +295,22 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
+        "name": "Christmas Album",
+        "url": "https://open.spotify.com/album/5M8U1qYKvRQHJJVHmPY7QD"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "duration_ms": 318533,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/5e0ZoBIiEcB883wyjRDD8g"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
         "name": "Comin Home",
         "url": "https://open.spotify.com/album/4H47oOA1uIrHQOaUKUTjoh"
       },
@@ -311,38 +327,22 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "Home For The Holidays",
-        "url": "https://open.spotify.com/album/36FCfBWbs9gwznVCWC4gg4"
+        "name": "One Wish / The Holiday Album",
+        "url": "https://open.spotify.com/album/7bEbn6yaqOzXmb3eAXDRbU"
       },
       "artists": [
         {
-          "name": "Love Renaissance (LVRN)",
-          "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         },
         {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "The Georgia Mass Choir",
+          "url": "https://open.spotify.com/artist/1CdyK67jEL4DXXsmp8vFfN"
         }
       ],
-      "duration_ms": 140140,
-      "name": "Santa Baby (with Summer Walker)",
-      "url": "https://open.spotify.com/track/20u1JM0k85WDXSYfmy92Km"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "Christmas Album",
-        "url": "https://open.spotify.com/album/5M8U1qYKvRQHJJVHmPY7QD"
-      },
-      "artists": [
-        {
-          "name": "The Jackson 5",
-          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
-        }
-      ],
-      "duration_ms": 318533,
-      "name": "Have Yourself A Merry Little Christmas",
-      "url": "https://open.spotify.com/track/5e0ZoBIiEcB883wyjRDD8g"
+      "duration_ms": 281933,
+      "name": "Joy to the World (with Georgia Mass Choir)",
+      "url": "https://open.spotify.com/track/2HwaTkbNED2nZfSijP9TLF"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -391,6 +391,26 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
+        "name": "Home For The Holidays",
+        "url": "https://open.spotify.com/album/36FCfBWbs9gwznVCWC4gg4"
+      },
+      "artists": [
+        {
+          "name": "Love Renaissance (LVRN)",
+          "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 140140,
+      "name": "Santa Baby (with Summer Walker)",
+      "url": "https://open.spotify.com/track/20u1JM0k85WDXSYfmy92Km"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
         "name": "Love You More At Christmas Time",
         "url": "https://open.spotify.com/album/5W8s1TYePfVqbIQcWQHAye"
       },
@@ -403,26 +423,6 @@
       "duration_ms": 205008,
       "name": "Love You More At Christmas Time",
       "url": "https://open.spotify.com/track/76jef0QPcSa0tY1Vu8ekhv"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "One Wish / The Holiday Album",
-        "url": "https://open.spotify.com/album/7bEbn6yaqOzXmb3eAXDRbU"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        },
-        {
-          "name": "The Georgia Mass Choir",
-          "url": "https://open.spotify.com/artist/1CdyK67jEL4DXXsmp8vFfN"
-        }
-      ],
-      "duration_ms": 281933,
-      "name": "Joy to the World (with Georgia Mass Choir)",
-      "url": "https://open.spotify.com/track/2HwaTkbNED2nZfSijP9TLF"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -627,26 +627,6 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "Christmas with PJ Morton (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/32VazC4iXirlSWkid3rJTo"
-      },
-      "artists": [
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        },
-        {
-          "name": "Shel\u00e9a",
-          "url": "https://open.spotify.com/artist/1zsGxUuw9Ge4O0ZxT40RPG"
-        }
-      ],
-      "duration_ms": 203207,
-      "name": "Have Yourself A Merry Little Christmas (feat. Shel\u00e9a)",
-      "url": "https://open.spotify.com/track/1MV2OvYpxJgSZA9jAHp1Qy"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
         "name": "The Very Best Of Sounds Of Blackness & Ann Nesby",
         "url": "https://open.spotify.com/album/6Hf7mK9rJuoZ0VTMkdkWsM"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 263866,
       "name": "Jingle Bells",
       "url": "https://open.spotify.com/track/3ELnSVxVNuwK2PSqjseSLu"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Christmas with PJ Morton (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/32VazC4iXirlSWkid3rJTo"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        },
+        {
+          "name": "Shel\u00e9a",
+          "url": "https://open.spotify.com/artist/1zsGxUuw9Ge4O0ZxT40RPG"
+        }
+      ],
+      "duration_ms": 203207,
+      "name": "Have Yourself A Merry Little Christmas (feat. Shel\u00e9a)",
+      "url": "https://open.spotify.com/track/1MV2OvYpxJgSZA9jAHp1Qy"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -771,26 +771,6 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "Christmas Soul 2020",
-        "url": "https://open.spotify.com/album/2HV3jydrtlPP5QcltzokYd"
-      },
-      "artists": [
-        {
-          "name": "India.Arie",
-          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
-        },
-        {
-          "name": "Joe Sample",
-          "url": "https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE"
-        }
-      ],
-      "duration_ms": 154920,
-      "name": "Let It Snow",
-      "url": "https://open.spotify.com/track/0xRAkJaeQ9K705z2M8gPdb"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
         "name": "Christmas After Midnight",
         "url": "https://open.spotify.com/album/6o4pzR1SeFzgVtUcAyTDJ2"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 251040,
       "name": "Christmas Time Is Here",
       "url": "https://open.spotify.com/track/2v3o68jkmZhT9KxEHTCXAJ"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Christmas Soul 2020",
+        "url": "https://open.spotify.com/album/2HV3jydrtlPP5QcltzokYd"
+      },
+      "artists": [
+        {
+          "name": "India.Arie",
+          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
+        },
+        {
+          "name": "Joe Sample",
+          "url": "https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE"
+        }
+      ],
+      "duration_ms": 154920,
+      "name": "Let It Snow",
+      "url": "https://open.spotify.com/track/0xRAkJaeQ9K705z2M8gPdb"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -891,18 +891,18 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "His Gift",
-        "url": "https://open.spotify.com/album/5Pb7QphQDuUK7racwIN8fd"
+        "name": "Christmas With Babyface",
+        "url": "https://open.spotify.com/album/7pFCwYQFqLkxovAZvYpbKK"
       },
       "artists": [
         {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
         }
       ],
-      "duration_ms": 250266,
-      "name": "Glory To The King - His Gift Version",
-      "url": "https://open.spotify.com/track/6e4u9vjkE1qpd9sZiXSVWc"
+      "duration_ms": 193400,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/4PtLsREXfoclvux4y7CFZC"
     }
   ],
   "unique_name": "Soulful Christmas",

@@ -4,7 +4,7 @@
 
 > A musical celebration of women in R&amp;B, from its earliest acts to its newest stars\. Cover: Mary J\. Blige
 
-93 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/4Hyc8FBwGAkz0KJlOJzNHJ)
+94 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/4Hyc8FBwGAkz0KJlOJzNHJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,13 +36,14 @@
 | [Girls Need Love \(with Drake\) \- Remix](https://open.spotify.com/track/14SaZBTjxlorHJQxXh01Hu) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:42 | 2022-03-08 |  |
 | [Good Days](https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Good Days](https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7) | 4:39 | 2021-03-01 |  |
 | [Hard Place \- Single Version](https://open.spotify.com/track/56Rmib5mhCfiaSJqhLgEdW) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Hard Place](https://open.spotify.com/album/0EaFVtpOZwiLHalJrHAAMf) | 3:30 | 2021-03-01 | 2022-07-24 |
+| [Hey Mr\. D.J.](https://open.spotify.com/track/6eB35pgMXdfhz5Z0WjwF1O) | [Zhané](https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is) | [Pronounced Jah\-Nay](https://open.spotify.com/album/4Rj3sxQFk2chQQqfad4siz) | 4:12 | 2022-03-08 |  |
 | [Hey Mr\. DJ](https://open.spotify.com/track/4Mm3eNo7eb6SM5TS6yLvwJ) | [Zhané](https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is) | [Soul Sisters](https://open.spotify.com/album/5VljSlqVFj6AlttWE82WC2) | 4:12 | 2021-03-01 | 2022-05-25 |
 | [HMU](https://open.spotify.com/track/4EtQN9yZJuiLQwaZhhAYPq) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [HMU](https://open.spotify.com/album/1XpWSa8q6uJ2UmPxzPRSFu) | 2:33 | 2021-03-01 | 2022-07-29 |
 | [Hold On](https://open.spotify.com/track/3ZqjDpr3qCZnZBPcd0Hpj2) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [Born to Sing](https://open.spotify.com/album/5G7LmJHqy7cLklwTm1ARYa) | 5:04 | 2021-03-01 | 2022-03-04 |
 | [How Many Ways](https://open.spotify.com/track/4cVWa9vuwfPOukSIZN9012) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Toni Braxton](https://open.spotify.com/album/73ojqvZakvdkBxSg9pyPqz) | 4:48 | 2021-03-01 | 2022-07-29 |
 | [Hrs & Hrs](https://open.spotify.com/track/3M5azWqeZbfoVkGXygatlb) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/2ngrG39dI2ofhCxjmFnKv5) | 3:24 | 2022-03-08 |  |
 | [Hrs and Hrs](https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0) | 3:24 | 2022-03-08 | 2022-07-29 |
-| [I Can't Stand the Rain](https://open.spotify.com/track/0CcL4kSHKIEwF3IW0BGgb6) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [I Can't Stand the Rain](https://open.spotify.com/album/67Sjm7EwrWbnnyojmhP4KL) | 2:30 | 2022-03-08 |  |
+| [I Can't Stand the Rain](https://open.spotify.com/track/0CcL4kSHKIEwF3IW0BGgb6) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [I Can't Stand the Rain](https://open.spotify.com/album/67Sjm7EwrWbnnyojmhP4KL) | 2:30 | 2022-03-08 | 2022-08-30 |
 | [I Feel for You](https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [I Feel for You](https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU) | 5:43 | 2021-03-01 |  |
 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 | 2022-03-08 |  |
 | [I Wanna Be Down \(feat\. Queen Latifah, Yoyo & McLyte\) \- Remix](https://open.spotify.com/track/5HQwoi47vjLNqaOc329VNM) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w), [Yo\-Yo](https://open.spotify.com/artist/6kL8ioxe4mWK945hvcHLkS), [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt) | [The Best Of Brandy \(with bonus track\)](https://open.spotify.com/album/3Wp3pDoipERYHTH020cbQk) | 4:16 | 2021-03-01 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Big bands, big sounds.",
-  "num_followers": 371002,
+  "num_followers": 370982,
   "original_name": "Big Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ2MjUyMCwwMDAwMDAwMDJjNTlhNmEyMTU2MzMxMzNjZGU1YjFiNjY3ZTg4NGI3",
+  "snapshot_id": "MTY1ODQ2MjUyMCwwMDAwMDAwMDE0ODU3ZjE5NzlmOTJhNTBiMTMxMTZmMmQ1ZTk4ZWYy",
   "tracks": [
     {
       "added_at": "2022-07-22 04:02:00",
@@ -39,22 +39,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Best Of The Big Bands",
-        "url": "https://open.spotify.com/album/3XY108i3c6uQg4b9GABoyi"
-      },
-      "artists": [
-        {
-          "name": "Harry James",
-          "url": "https://open.spotify.com/artist/5MpELOfAiq7aIBTij30phD"
-        }
-      ],
-      "duration_ms": 203773,
-      "name": "It's Been a Long, Long Time",
-      "url": "https://open.spotify.com/track/52XDumqYDUXX16R7FM5fpV"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "Dean Martin: The Capitol Recordings, Vol. 11 (1960-1961)",
         "url": "https://open.spotify.com/album/3LGVxGRKwi4WfDnhMaBygF"
       },
@@ -67,6 +51,22 @@
       "duration_ms": 147293,
       "name": "Ain't That A Kick In The Head",
       "url": "https://open.spotify.com/track/7fQ3PYTYdu208fQ3JEm2U7"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Best Of The Big Bands",
+        "url": "https://open.spotify.com/album/3XY108i3c6uQg4b9GABoyi"
+      },
+      "artists": [
+        {
+          "name": "Harry James",
+          "url": "https://open.spotify.com/artist/5MpELOfAiq7aIBTij30phD"
+        }
+      ],
+      "duration_ms": 203773,
+      "name": "It's Been a Long, Long Time",
+      "url": "https://open.spotify.com/track/52XDumqYDUXX16R7FM5fpV"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -183,22 +183,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "When Harry Met Sally... Music From The Motion Picture",
-        "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 147066,
-      "name": "I Could Write a Book",
-      "url": "https://open.spotify.com/track/2zSnnXvex1yMcPUn4mg27H"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "The Essential Frank Sinatra with the Tommy Dorsey Orchestra (with Frank Sinatra)",
         "url": "https://open.spotify.com/album/6mcP2ZPyrpMIOrXvSDNQ3g"
       },
@@ -235,34 +219,18 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Big Band Classics",
-        "url": "https://open.spotify.com/album/5eoOfLW71UCbeNNNzA9Pcm"
+        "name": "When Harry Met Sally... Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
       },
       "artists": [
         {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
         }
       ],
-      "duration_ms": 149986,
-      "name": "Perhaps",
-      "url": "https://open.spotify.com/track/5crzhw9xiWFMF2NDZzk6eb"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
-        "name": "The Essential Benny Goodman",
-        "url": "https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK"
-      },
-      "artists": [
-        {
-          "name": "Benny Goodman",
-          "url": "https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve"
-        }
-      ],
-      "duration_ms": 520293,
-      "name": "Sing, Sing, Sing",
-      "url": "https://open.spotify.com/track/5L8ta4ECl5zeA6bGqY7G38"
+      "duration_ms": 147066,
+      "name": "I Could Write a Book",
+      "url": "https://open.spotify.com/track/2zSnnXvex1yMcPUn4mg27H"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -279,6 +247,22 @@
       "duration_ms": 131426,
       "name": "I've Got The World On A String",
       "url": "https://open.spotify.com/track/7IUCPpANzL2yY7ippXe09f"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Big Band Classics",
+        "url": "https://open.spotify.com/album/5eoOfLW71UCbeNNNzA9Pcm"
+      },
+      "artists": [
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        }
+      ],
+      "duration_ms": 149986,
+      "name": "Perhaps",
+      "url": "https://open.spotify.com/track/5crzhw9xiWFMF2NDZzk6eb"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -315,6 +299,22 @@
       "duration_ms": 166960,
       "name": "Let's Fall In Love",
       "url": "https://open.spotify.com/track/1b9gNirS4wUJwYg8X8l9jK"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "The Essential Benny Goodman",
+        "url": "https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK"
+      },
+      "artists": [
+        {
+          "name": "Benny Goodman",
+          "url": "https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve"
+        }
+      ],
+      "duration_ms": 520293,
+      "name": "Sing, Sing, Sing",
+      "url": "https://open.spotify.com/track/5L8ta4ECl5zeA6bGqY7G38"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -427,22 +427,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "The Big Band Era , Volume 1 - The Passing Of An Era",
-        "url": "https://open.spotify.com/album/2XB8gzQ41ScpEhwY6vgdOH"
-      },
-      "artists": [
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        }
-      ],
-      "duration_ms": 187453,
-      "name": "Rusty Dusty Blues",
-      "url": "https://open.spotify.com/track/1ywNBYgKTyu9VpNGkeEbmG"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "Blues On Parade",
         "url": "https://open.spotify.com/album/28V0dxj4vb8blEfyvx5Bvp"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 194026,
       "name": "Woodchopper's Ball",
       "url": "https://open.spotify.com/track/4rHjZlNFyBhY6CgjlR5y5W"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "The Big Band Era , Volume 1 - The Passing Of An Era",
+        "url": "https://open.spotify.com/album/2XB8gzQ41ScpEhwY6vgdOH"
+      },
+      "artists": [
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "duration_ms": 187453,
+      "name": "Rusty Dusty Blues",
+      "url": "https://open.spotify.com/track/1ywNBYgKTyu9VpNGkeEbmG"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -479,26 +479,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
-        "url": "https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-        }
-      ],
-      "duration_ms": 404880,
-      "name": "Take The \"A\" Train",
-      "url": "https://open.spotify.com/track/5OjlWOb1Iilm0QFLh17j3U"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "Djangologie Vol.4 / 1937",
         "url": "https://open.spotify.com/album/46Ffy1LBhLRzUAz53jMIVI"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 166826,
       "name": "Honeysuckle Rose",
       "url": "https://open.spotify.com/track/10Hiskp06jZeXKjiYbkuj7"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
+        "url": "https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "duration_ms": 404880,
+      "name": "Take The \"A\" Train",
+      "url": "https://open.spotify.com/track/5OjlWOb1Iilm0QFLh17j3U"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -843,22 +843,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Birks Works: The Verve Big-Band Sessions",
-        "url": "https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
-        }
-      ],
-      "duration_ms": 235866,
-      "name": "Doodlin'",
-      "url": "https://open.spotify.com/track/2jb1Abu8FOdpIAICSnV6C6"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "Exotic Sounds from a Space Age Bachelor Pad",
         "url": "https://open.spotify.com/album/3QykPSqLRpwOGiHIQxA6d0"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 101882,
       "name": "Moonlight on the Ganges",
       "url": "https://open.spotify.com/track/2sbS1rpnQUjxwuVBCFpktO"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Birks Works: The Verve Big-Band Sessions",
+        "url": "https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        }
+      ],
+      "duration_ms": 235866,
+      "name": "Doodlin'",
+      "url": "https://open.spotify.com/track/2jb1Abu8FOdpIAICSnV6C6"
     },
     {
       "added_at": "2021-02-26 05:01:00",
@@ -887,6 +887,22 @@
       "duration_ms": 184506,
       "name": "Luck Be a Lady",
       "url": "https://open.spotify.com/track/5HiCP97aBMKcaNJdp8CAPq"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Presenting Thad Jones-Mel Lewis & The Jazz Orchestra",
+        "url": "https://open.spotify.com/album/0GVZOTR7vm9mYlZrbKTDPh"
+      },
+      "artists": [
+        {
+          "name": "Thad Jones-Mel Lewis Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/486Xo5PeXA3TAkK0hisOtc"
+        }
+      ],
+      "duration_ms": 348733,
+      "name": "Three In One",
+      "url": "https://open.spotify.com/track/5NdEAODwKFtl1ZJ0Bjyk9h"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -907,22 +923,6 @@
       "duration_ms": 565293,
       "name": "Echelon",
       "url": "https://open.spotify.com/track/0GHiAT0RLCsrikRft0KWVC"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
-        "name": "Presenting Thad Jones-Mel Lewis & The Jazz Orchestra",
-        "url": "https://open.spotify.com/album/0GVZOTR7vm9mYlZrbKTDPh"
-      },
-      "artists": [
-        {
-          "name": "Thad Jones-Mel Lewis Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/486Xo5PeXA3TAkK0hisOtc"
-        }
-      ],
-      "duration_ms": 348733,
-      "name": "Three In One",
-      "url": "https://open.spotify.com/track/5NdEAODwKFtl1ZJ0Bjyk9h"
     }
   ],
   "unique_name": "Big Band",

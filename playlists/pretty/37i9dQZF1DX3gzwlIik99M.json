@@ -1,12 +1,12 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 205734,
+  "num_followers": 205742,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMzUxMDczMSwwMDAwMDAwMGNlYjM2YzA2YTZiYTkwZmVlNDk3NWUxMzlkZDVkMTMw",
+  "snapshot_id": "MTYwMzUxMDczMSwwMDAwMDAwMDYyZDRiZjY0OWJhYjE4MmY4Mjk2NjNmNGQxNGIwMGNm",
   "tracks": [
     {
       "added_at": "2020-10-24 03:38:51",
@@ -107,22 +107,6 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/0vZFmEVF9HyhtkYy5ZHAIN"
-      },
-      "artists": [
-        {
-          "name": "Bar\u00f3n Rojo",
-          "url": "https://open.spotify.com/artist/0R5dtryP4tKLlMZA0vhBvF"
-        }
-      ],
-      "duration_ms": 259733,
-      "name": "Los Rockeros Van al Infierno",
-      "url": "https://open.spotify.com/track/2uvkYLYqFTHh5n0q0cISNX"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
         "name": "Hijo de Puta",
         "url": "https://open.spotify.com/album/41LThpy6UEts4rovGtg4gl"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 179440,
       "name": "Hijo de Puta",
       "url": "https://open.spotify.com/track/2GEzC3xMzHAJHXTDgMC8Ov"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/0vZFmEVF9HyhtkYy5ZHAIN"
+      },
+      "artists": [
+        {
+          "name": "Bar\u00f3n Rojo",
+          "url": "https://open.spotify.com/artist/0R5dtryP4tKLlMZA0vhBvF"
+        }
+      ],
+      "duration_ms": 259733,
+      "name": "Los Rockeros Van al Infierno",
+      "url": "https://open.spotify.com/track/2uvkYLYqFTHh5n0q0cISNX"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -251,22 +251,6 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Beneath the Remains",
-        "url": "https://open.spotify.com/album/3BDZvMYxZ6E8IuSQL2ew6Z"
-      },
-      "artists": [
-        {
-          "name": "Sepultura",
-          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
-        }
-      ],
-      "duration_ms": 265853,
-      "name": "Mass Hypnosis",
-      "url": "https://open.spotify.com/track/4NcNgZPCLDmOQQKnHvQ3w7"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
         "name": "El Nuevo Camino del Hombre",
         "url": "https://open.spotify.com/album/5YoYz3KN6jGFuH9qiCI72f"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 202647,
       "name": "A Toda Madre",
       "url": "https://open.spotify.com/track/5ENXT56BbduQWWHCX0FI3G"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Beneath the Remains",
+        "url": "https://open.spotify.com/album/3BDZvMYxZ6E8IuSQL2ew6Z"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "duration_ms": 265853,
+      "name": "Mass Hypnosis",
+      "url": "https://open.spotify.com/track/4NcNgZPCLDmOQQKnHvQ3w7"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -351,22 +351,6 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Deceitful Idols",
-        "url": "https://open.spotify.com/album/4qBeMQFxxHVqL8MThlr0iw"
-      },
-      "artists": [
-        {
-          "name": "Anima Tempo",
-          "url": "https://open.spotify.com/artist/6lBAIZGZ3aHv3eS53wOPF5"
-        }
-      ],
-      "duration_ms": 331013,
-      "name": "Deceitful Idols",
-      "url": "https://open.spotify.com/track/3sday56iSsKePe8emJf9Gz"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
         "name": "Un Paso Mas en la Batalla",
         "url": "https://open.spotify.com/album/0zHdtlc987CwJR3Pr5TV5z"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 316413,
       "name": "Deseando Destruir y Matar",
       "url": "https://open.spotify.com/track/2zumIZU09Iz2eGRJ5UXHms"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Deceitful Idols",
+        "url": "https://open.spotify.com/album/4qBeMQFxxHVqL8MThlr0iw"
+      },
+      "artists": [
+        {
+          "name": "Anima Tempo",
+          "url": "https://open.spotify.com/artist/6lBAIZGZ3aHv3eS53wOPF5"
+        }
+      ],
+      "duration_ms": 331013,
+      "name": "Deceitful Idols",
+      "url": "https://open.spotify.com/track/3sday56iSsKePe8emJf9Gz"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -431,22 +431,6 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Lleva Tu Mente al Limite",
-        "url": "https://open.spotify.com/album/394QJVw2uXdfwi31NcXj9H"
-      },
-      "artists": [
-        {
-          "name": "Plan 4",
-          "url": "https://open.spotify.com/artist/1MDbZWN49HRGDTkcIKTT54"
-        }
-      ],
-      "duration_ms": 189053,
-      "name": "En la Eternidad",
-      "url": "https://open.spotify.com/track/1qdL50KCmGmGjKTT0bT8Kd"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
         "name": "Bajo la Cruz",
         "url": "https://open.spotify.com/album/66dGx46zunw5g7zcaAJ2Fj"
       },
@@ -463,6 +447,22 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
+        "name": "Lleva Tu Mente al Limite",
+        "url": "https://open.spotify.com/album/394QJVw2uXdfwi31NcXj9H"
+      },
+      "artists": [
+        {
+          "name": "Plan 4",
+          "url": "https://open.spotify.com/artist/1MDbZWN49HRGDTkcIKTT54"
+        }
+      ],
+      "duration_ms": 189053,
+      "name": "En la Eternidad",
+      "url": "https://open.spotify.com/track/1qdL50KCmGmGjKTT0bT8Kd"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
         "name": "Venas De Acero",
         "url": "https://open.spotify.com/album/469b4h0JOhjXeInWRBjyDl"
       },
@@ -475,6 +475,22 @@
       "duration_ms": 286653,
       "name": "Pueblo Motoquero",
       "url": "https://open.spotify.com/track/3Qwk2xcvEh6VDp5QiKdmS4"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Rebeli\u00f3n En El Chiquero",
+        "url": "https://open.spotify.com/album/4ZbNHiuVBbHU47EIWzWPwR"
+      },
+      "artists": [
+        {
+          "name": "Marraneitors",
+          "url": "https://open.spotify.com/artist/4AfocMBJSpoWTgjXGTyVXs"
+        }
+      ],
+      "duration_ms": 150602,
+      "name": "Eres Tan Mala Como la Carne de Puerco",
+      "url": "https://open.spotify.com/track/3mKil8CbR3556RMA3AkK2z"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -543,22 +559,6 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Rebeli\u00f3n En El Chiquero",
-        "url": "https://open.spotify.com/album/4ZbNHiuVBbHU47EIWzWPwR"
-      },
-      "artists": [
-        {
-          "name": "Marraneitors",
-          "url": "https://open.spotify.com/artist/4AfocMBJSpoWTgjXGTyVXs"
-        }
-      ],
-      "duration_ms": 150602,
-      "name": "Eres Tan Mala Como la Carne de Puerco",
-      "url": "https://open.spotify.com/track/3mKil8CbR3556RMA3AkK2z"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
         "name": "Basado en Hechos Reales",
         "url": "https://open.spotify.com/album/6lzY4nvVAMGKkdLJDJjqcS"
       },
@@ -591,22 +591,6 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Plan Mundial Para La Destrucci\u00f3n",
-        "url": "https://open.spotify.com/album/7fBKqH6kZsrgY2RJWkaiC5"
-      },
-      "artists": [
-        {
-          "name": "Logos",
-          "url": "https://open.spotify.com/artist/4aCWTRWrh5lyIaZTVCP6ja"
-        }
-      ],
-      "duration_ms": 257773,
-      "name": "Darse Cuenta",
-      "url": "https://open.spotify.com/track/41ijCwVP2PQmGCRxwhKbkH"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
         "name": "Khafra",
         "url": "https://open.spotify.com/album/57ahaslQPdMhhiXqzSVjsO"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 182323,
       "name": "Esquizofrenia",
       "url": "https://open.spotify.com/track/3MLJZTcoiDcC0Je4SRinT9"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Plan Mundial Para La Destrucci\u00f3n",
+        "url": "https://open.spotify.com/album/7fBKqH6kZsrgY2RJWkaiC5"
+      },
+      "artists": [
+        {
+          "name": "Logos",
+          "url": "https://open.spotify.com/artist/4aCWTRWrh5lyIaZTVCP6ja"
+        }
+      ],
+      "duration_ms": 257773,
+      "name": "Darse Cuenta",
+      "url": "https://open.spotify.com/track/41ijCwVP2PQmGCRxwhKbkH"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -755,6 +755,22 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
+        "name": "Panel Optico",
+        "url": "https://open.spotify.com/album/2KP2oD1mCpxXhG1dr0KlRT"
+      },
+      "artists": [
+        {
+          "name": "Bandera de Niebla",
+          "url": "https://open.spotify.com/artist/1LBfCW0dn2CH3zMuv6QN7L"
+        }
+      ],
+      "duration_ms": 87302,
+      "name": "Macho Alfa",
+      "url": "https://open.spotify.com/track/25dYbynikHEdEZBqlfGZpv"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
         "name": "Llora Chiapas",
         "url": "https://open.spotify.com/album/36qF2Whdrufy2jQwiQ2GBL"
       },
@@ -787,38 +803,18 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Panel Optico",
-        "url": "https://open.spotify.com/album/2KP2oD1mCpxXhG1dr0KlRT"
+        "name": "El Sangriento",
+        "url": "https://open.spotify.com/album/614yYarWjW9kGJ7HApmS0Y"
       },
       "artists": [
         {
-          "name": "Bandera de Niebla",
-          "url": "https://open.spotify.com/artist/1LBfCW0dn2CH3zMuv6QN7L"
+          "name": "Avernal",
+          "url": "https://open.spotify.com/artist/0Pk6A0iFcoDjG1w0P1OMU2"
         }
       ],
-      "duration_ms": 87302,
-      "name": "Macho Alfa",
-      "url": "https://open.spotify.com/track/25dYbynikHEdEZBqlfGZpv"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
-        "name": "El Nuevo Camino del Hombre",
-        "url": "https://open.spotify.com/album/5YoYz3KN6jGFuH9qiCI72f"
-      },
-      "artists": [
-        {
-          "name": "A.N.I.M.A.L.",
-          "url": "https://open.spotify.com/artist/6eoz7BtTcC5Q303xQtSgj9"
-        },
-        {
-          "name": "Mario Altamirano and A.N.I.M.A.L.",
-          "url": "https://open.spotify.com/artist/5Szv9SK8b5cY40jhN0mV5m"
-        }
-      ],
-      "duration_ms": 198893,
-      "name": "Pueblos erguidos",
-      "url": "https://open.spotify.com/track/7fpEq4VraGYZZWXfWLk3sP"
+      "duration_ms": 160106,
+      "name": "Hoy Podes Pudrirte",
+      "url": "https://open.spotify.com/track/4taoA7P7oh1whE2Z4EHJGc"
     }
   ],
   "unique_name": "Metal del Nuestro",

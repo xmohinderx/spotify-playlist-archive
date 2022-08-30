@@ -4,7 +4,7 @@
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Stephen Sanchez
 
-223 songs - 12 hr 58 min - [published](https://open.spotify.com/playlist/4CdXUQqY69Nj0IMKyxyk64)
+224 songs - 13 hr 2 min - [published](https://open.spotify.com/playlist/4CdXUQqY69Nj0IMKyxyk64)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Misnomer](https://open.spotify.com/track/7wy7FXfzZFAbsrpcM924nw) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Misnomer](https://open.spotify.com/album/0aNMzqcyM7xXdSiPGgix7m) | 3:42 | 2021-11-12 |  |
 | [Missing Piece](https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Missing Piece](https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3) | 3:37 | 2021-11-12 |  |
 | [Momentum](https://open.spotify.com/track/5EatYjkKnohEHke2G5VKhL) | [Blake Ruby](https://open.spotify.com/artist/6t2qGTjfjde2jbklcpoF3Z) | [Momentum](https://open.spotify.com/album/5f06ywJzKO1RLnojyQ1Vij) | 3:42 | 2021-11-12 | 2022-07-25 |
+| [Monochrome](https://open.spotify.com/track/6ERbOSiVlLgwYcKsN3kmY6) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Monochrome](https://open.spotify.com/album/2nXzlL3Zhd3LnZkAMyvesX) | 3:28 | 2022-08-19 |  |
 | [Muse](https://open.spotify.com/track/5PAd8j7jtOnTVvqmN2ELf2) | [Simon and the Island](https://open.spotify.com/artist/5SQFUf8WwN1HmEx366givT) | [Simon and the Island](https://open.spotify.com/album/1KxHY8j8mguMqfX3pqPYNB) | 3:12 | 2021-11-12 | 2022-07-07 |
 | [My Ego Dies At The End](https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [My Ego Dies At The End](https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8) | 4:02 | 2022-02-21 |  |
 | [My Repair](https://open.spotify.com/track/4dxzf0bWuBb0AYs25VNL3y) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Already Gone](https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE) | 3:05 | 2022-03-12 |  |
@@ -193,7 +194,7 @@
 | [The Season of Singing](https://open.spotify.com/track/17Itiw6emEwOfS7pYSnU3e) | [Platon Karataev](https://open.spotify.com/artist/1ekcGfPOk3wgHb4viyPQab) | [For Her LP \- part I](https://open.spotify.com/album/6HaDOPvQvMU9UMM9wwYU05) | 3:38 | 2021-11-12 | 2022-01-25 |
 | [The Worst Of You](https://open.spotify.com/track/06rX4GEEjsVTSbRBWycs2U) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [People Don't Change](https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ) | 3:29 | 2021-11-12 |  |
 | [The Worth Of The Wait](https://open.spotify.com/track/4ngv7whSPSAwD8ZP3zMHsd) | [Ivan & Alyosha](https://open.spotify.com/artist/3D1IyJznpDnWnnFrzjuWnh) | [The Worth Of The Wait](https://open.spotify.com/album/0jNqBHYpxtWq8CfHQxA7Rd) | 2:51 | 2021-11-12 |  |
-| [These Cold Nights](https://open.spotify.com/track/6sT74ZUI79YngZKOE5mbux) | [Oshima Brothers](https://open.spotify.com/artist/349lepk5mVwAKROMAP13Mg) | [These Cold Nights](https://open.spotify.com/album/3VFxogXEXNQQXQeAMlTbn9) | 3:36 | 2021-11-12 |  |
+| [These Cold Nights](https://open.spotify.com/track/6sT74ZUI79YngZKOE5mbux) | [Oshima Brothers](https://open.spotify.com/artist/349lepk5mVwAKROMAP13Mg) | [These Cold Nights](https://open.spotify.com/album/3VFxogXEXNQQXQeAMlTbn9) | 3:36 | 2021-11-12 | 2022-08-30 |
 | [Thinking 'Bout Love](https://open.spotify.com/track/3d3LHam2Lc5ADEyJxG3fXE) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Songs to Break Up To](https://open.spotify.com/album/7cbcg2z1LuCJ2rxAtBRxHt) | 3:19 | 2021-11-12 | 2022-07-29 |
 | [Thinking 'Bout Love](https://open.spotify.com/track/42UaitnwvuKqNcD5Oa2HlD) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Songs to Break Up To](https://open.spotify.com/album/5OVxLrOoXXD2HSKkQNqhQW) | 3:19 | 2022-03-12 |  |
 | [This Could Be Good](https://open.spotify.com/track/3QQE11HFATxA6PnlixpMcg) | [Morningsiders](https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl) | [This Could Be Good](https://open.spotify.com/album/3RnoFLcycTpSUc675Iwqjv) | 3:00 | 2021-11-12 | 2022-07-29 |

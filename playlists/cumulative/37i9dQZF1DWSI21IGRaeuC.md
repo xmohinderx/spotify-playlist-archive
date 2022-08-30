@@ -4,7 +4,7 @@
 
 > Dive into the deep end of the tech house spectrum.
 
-109 songs - 10 hr 2 min - [published](https://open.spotify.com/playlist/2MGDejgSLmj2L39yQz6FnP)
+110 songs - 10 hr 5 min - [published](https://open.spotify.com/playlist/2MGDejgSLmj2L39yQz6FnP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Da Fonk \(feat\. Joni\)](https://open.spotify.com/track/6ryPKHgiz6MSGJ1wYqn28b) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [Joni](https://open.spotify.com/artist/6nZ4pcLtZYblB2ZwD7qvwe) | [Da Fonk \(feat\. Joni\)](https://open.spotify.com/album/5t3QAcFlAa6hB08H976naz) | 6:06 | 2022-07-01 |  |
 | [Dance Of The Shaman](https://open.spotify.com/track/2zGULLp2IsYlWeRaF0ZV13) | [Darius Syrossian](https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf) | [Dance Of The Shaman](https://open.spotify.com/album/16gssDflHOT9uFtZh7AJsv) | 7:02 | 2022-06-03 | 2022-07-27 |
 | [Dangerous \- Bailey Ibbs Remix](https://open.spotify.com/track/4LocLlqHWsmiS9GqaevYF0) | [Michael Dangerous](https://open.spotify.com/artist/4HSRGJTvC1MxEQTVeqTiti), [Bailey Ibbs](https://open.spotify.com/artist/4eD3dYFqa3RmNZlAlVHFjO) | [Dangerous](https://open.spotify.com/album/5bIb9T2gF7fRJlKjGKj2w5) | 5:31 | 2022-06-17 | 2022-07-23 |
+| [Dilemma](https://open.spotify.com/track/3yGIQywO2T8BK6ANMTrjcs) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Dilemma](https://open.spotify.com/album/3Davr9dzq7S23vh9R7Fq2i) | 3:05 | 2022-08-12 |  |
 | [Distress](https://open.spotify.com/track/5fiDIqVrR0l9P1pdO5Sr5C) | [Natalia Roth](https://open.spotify.com/artist/62ukgypcwfh2mbtvRcXPK8) | [Sérial Noceur](https://open.spotify.com/album/580Qb2oZyp81gqru8v5jQH) | 6:39 | 2022-07-15 | 2022-07-28 |
 | [DJ Lover \- Original Mix](https://open.spotify.com/track/186UsZ2lMmYMwDA9UzQEfA) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Welcome EP](https://open.spotify.com/album/1dpQcHaazDFmLzLzz0VsEh) | 6:47 | 2022-07-01 |  |
 | [Encoding](https://open.spotify.com/track/2fnS9uEeunmh1NwlkmSGqb) | [Classmatic](https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m), [Gabe](https://open.spotify.com/artist/0WoUrE9CjbROyWCMMdGMqu) | [Encoding EP](https://open.spotify.com/album/7m526KE380DYpcaItIMVad) | 6:03 | 2022-06-03 | 2022-07-29 |
@@ -86,7 +87,7 @@
 | [Rock Your Body](https://open.spotify.com/track/5EUwuAkfYwO25Yq9lJWjQO) | [Scarda](https://open.spotify.com/artist/0IDb0RLWCibAJ6hV7By04g) | [Rock Your Body](https://open.spotify.com/album/1l0T2RCpVpDhfJV5jRbdpQ) | 6:57 | 2022-07-08 | 2022-07-26 |
 | [Rok The House](https://open.spotify.com/track/1A6KKdSY4hpCBqJOmeQEWQ) | [Ben Sterling](https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL) | [Rok The House](https://open.spotify.com/album/03T4gaOwcdDyEkmznuaYq1) | 4:15 | 2022-06-03 | 2022-08-15 |
 | [Roll Play](https://open.spotify.com/track/4szwPQ7ajXpyqykjtv6RLE) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [Roll Play](https://open.spotify.com/album/20pvV7NCcoCn9kPlCxOB1s) | 3:23 | 2022-06-03 |  |
-| [Roxy's Sweat \- Original Mix](https://open.spotify.com/track/42UvjYG1NPOnu9JKwOhdzi) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Roxy's Sweat EP](https://open.spotify.com/album/3s740hEDYRuSEjwnuw385t) | 5:07 | 2022-07-01 | 2022-08-24 |
+| [Roxy's Sweat \- Original Mix](https://open.spotify.com/track/42UvjYG1NPOnu9JKwOhdzi) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Roxy's Sweat EP](https://open.spotify.com/album/3s740hEDYRuSEjwnuw385t) | 5:07 | 2022-07-01 |  |
 | [Rudeboi](https://open.spotify.com/track/3oUkoGYPWVxt3NrohcoMHY) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Rudeboi](https://open.spotify.com/album/3aFcW1f1Deq9F7cwJDkbd5) | 3:01 | 2022-06-24 |  |
 | [Samba Drone \- Paco Osuna Remix](https://open.spotify.com/track/69pq8Gkwg6IeqfyhbgqESi) | [Rony Seikaly](https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB), [Paco Osuna](https://open.spotify.com/artist/6vdIozDDsH4uJEAHN8tyS3) | [Samba Drone](https://open.spotify.com/album/6YXJp70sOxhBtGJ1xjZ0xa) | 7:10 | 2022-07-15 | 2022-08-27 |
 | [Sativa Jazz \- Detlef Remix](https://open.spotify.com/track/1EZcxkIogFFysvmyxSOZDI) | [Abana](https://open.spotify.com/artist/50IriuukwhBFpJS9WOk2a1), [Detlef](https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI) | [Sativa Jazz \(Detlef Remix\)](https://open.spotify.com/album/1qfo60yjGAwfXQ9CUK1uz2) | 6:02 | 2022-08-12 |  |
@@ -98,7 +99,7 @@
 | [Strung Up](https://open.spotify.com/track/6vOr19HgqGzzCMv040ePVq) | [Sorley](https://open.spotify.com/artist/3apneou0OdagGBkXZxmpaj) | [Strung Up](https://open.spotify.com/album/66FblVKMFIsHhvIB6mRt5p) | 3:20 | 2022-06-03 |  |
 | [Stutter](https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9) | [Jansons](https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY), [Notelle](https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U) | [Stutter EP](https://open.spotify.com/album/6S3BbGBdXGll07mJj5i6UV) | 3:53 | 2022-06-03 |  |
 | [Summer Of Love](https://open.spotify.com/track/0HMWBMDhQiMcuBH8PQmZqq) | [Fleur Shore](https://open.spotify.com/artist/7GyRA9n7JVslQGcbo72Dil) | [Summer Of Love](https://open.spotify.com/album/7duYShW24ZnlYT08ovEadQ) | 5:41 | 2022-06-17 | 2022-07-29 |
-| [Superfly](https://open.spotify.com/track/55g2IGNdPK7dnOkFtttmOB) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Superfly](https://open.spotify.com/album/7C9qqtM8RY29wFZE2BAQEJ) | 2:57 | 2022-06-10 |  |
+| [Superfly](https://open.spotify.com/track/55g2IGNdPK7dnOkFtttmOB) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Superfly](https://open.spotify.com/album/7C9qqtM8RY29wFZE2BAQEJ) | 2:57 | 2022-06-10 | 2022-08-30 |
 | [Take Me Back](https://open.spotify.com/track/2LEO9efWacG85SkV3cah7q) | [Fallon](https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR) | [Take Me Back](https://open.spotify.com/album/50cYbqeQKDmSXTBxpq6ofq) | 3:17 | 2022-06-17 |  |
 | [Take My Hand](https://open.spotify.com/track/6kLVupUwnoBLmy0sNyVaBQ) | [Daniel Steinberg](https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV) | [Take My Hand](https://open.spotify.com/album/7iWe0c1Aw9a7MRix93uJwj) | 5:17 | 2022-08-19 |  |
 | [Testimony](https://open.spotify.com/track/702TT2q83VQlC75h807I1J) | [Prok & Fitch](https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys) | [Testimony](https://open.spotify.com/album/000z99zZbT9Gfabqyw1THb) | 6:41 | 2022-06-03 | 2022-07-29 |
@@ -106,7 +107,7 @@
 | [The Attention Deficit Track \- Edit](https://open.spotify.com/track/4Quui2la1NwpqLDXUgi5tm) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Jackmaster](https://open.spotify.com/artist/1VQgvnkH9rOB2YkNr1ovuB) | [The Attention Deficit Track](https://open.spotify.com/album/20PFDRbltmy3mHCn7vPl2Y) | 3:48 | 2022-06-24 |  |
 | [The Ciggie](https://open.spotify.com/track/1r8ZqfggYqW1R2JjiDGBQV) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [The Ciggie](https://open.spotify.com/album/5TijfininJwDUX6P1iSyf7) | 6:13 | 2022-06-03 |  |
 | [The Key](https://open.spotify.com/track/1JqC0dklBZxfMeiqtsuUqP) | [Umberto Pagliaroli](https://open.spotify.com/artist/4wShOgYAKFtg2grzqostEI), [Calypse](https://open.spotify.com/artist/5AlXpYWCJe4VSQmk7up88A), [Grasso & Maxim](https://open.spotify.com/artist/2CEohVbXylc1fCqUlGh2Rk) | [Movements, Pt.3](https://open.spotify.com/album/0zkmWtgsX7D4Jkslo3qHX2) | 6:40 | 2022-06-10 | 2022-07-29 |
-| [The Mascot](https://open.spotify.com/track/0buZKE91rR2IQlUVYv6KMo) | [Mihalis Safras](https://open.spotify.com/artist/3m5g6NUg2akZ9Vv9D8GYBf) | [The Mascot](https://open.spotify.com/album/4UXxHyBwW1lOedH3vV9x4O) | 3:15 | 2022-07-15 |  |
+| [The Mascot](https://open.spotify.com/track/0buZKE91rR2IQlUVYv6KMo) | [Mihalis Safras](https://open.spotify.com/artist/3m5g6NUg2akZ9Vv9D8GYBf) | [The Mascot](https://open.spotify.com/album/4UXxHyBwW1lOedH3vV9x4O) | 3:15 | 2022-07-15 | 2022-08-30 |
 | [The Source](https://open.spotify.com/track/0IGSz0dzwfcon4rI6kyLTU) | [Seb Zito](https://open.spotify.com/artist/2IwfvuKftX9D7CFF4qCTM8) | [The Source](https://open.spotify.com/album/4770p58faNGmjvEwsafhXX) | 7:54 | 2022-06-03 | 2022-07-14 |
 | [The Truth](https://open.spotify.com/track/2D5nRs0qDWXwcHveTsMHmE) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh) | [The True Secrets](https://open.spotify.com/album/6b3y486Y43QZ5VFmaNI5WH) | 6:24 | 2022-07-15 | 2022-08-23 |
 | [Tonight](https://open.spotify.com/track/2THIz1r6q9mdeR9NcwHM6X) | [Latmun](https://open.spotify.com/artist/2z9DWWfNONyl2nyy1GNSi0) | [Tonight EP](https://open.spotify.com/album/4cxn8FB1FyzCBrZlDeMN1Y) | 5:52 | 2022-06-24 |  |

@@ -4,7 +4,7 @@
 
 > Let your stress melt away while you work up a sweat.
 
-156 songs - 8 hr 45 min - [published](https://open.spotify.com/playlist/0gAp2fhS8FFQOA7HtJ1tbD)
+158 songs - 8 hr 51 min - [published](https://open.spotify.com/playlist/0gAp2fhS8FFQOA7HtJ1tbD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,11 +83,12 @@
 | [I'll Be Here In The Morning](https://open.spotify.com/track/1ixqz9BFlp0UFVU7qHpgLq) | [Zoe De La Sera](https://open.spotify.com/artist/4bpDG5rmsYxLQHvRbIhSdx) | [I'll Be Here In The Morning](https://open.spotify.com/album/2nW7jJPpAPCgmscjywyL11) | 3:07 | 2022-06-03 |  |
 | [ILYSB \- STRIPPED](https://open.spotify.com/track/3Dkvp3L4w0uJFYfIPa8E9H) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Make Out](https://open.spotify.com/album/4sldmS76FbpIaO2sEsZlBh) | 4:04 | 2022-03-03 |  |
 | [In The Meantime](https://open.spotify.com/track/36bfoyLUV3h3UXZ7thFMhb) | [Nora Levario](https://open.spotify.com/artist/43F7L6jcGu1F0TpEmS27mw) | [In The Meantime](https://open.spotify.com/album/1th9BtaPuSyzyXHcXvqIZk) | 2:58 | 2022-03-03 |  |
-| [Iris](https://open.spotify.com/track/31Nyfw6uXmIB6qPUMHZs9N) | [Michael Constantino](https://open.spotify.com/artist/5RIA0Nu4LvmOvomuo99oIJ) | [Iris](https://open.spotify.com/album/3IPuJNlxmL7CVT3DA0TBth) | 3:24 | 2022-06-03 |  |
+| [Iris](https://open.spotify.com/track/3Ebx5xEUEoB6iod7vSak8R) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Iris](https://open.spotify.com/album/4qKG2mFsVCwHvIzLOVwVox) | 2:45 | 2022-08-29 |  |
+| [Iris](https://open.spotify.com/track/31Nyfw6uXmIB6qPUMHZs9N) | [Michael Constantino](https://open.spotify.com/artist/5RIA0Nu4LvmOvomuo99oIJ) | [Iris](https://open.spotify.com/album/3IPuJNlxmL7CVT3DA0TBth) | 3:24 | 2022-06-03 | 2022-08-30 |
 | [Iris](https://open.spotify.com/track/6yNdyVqnK95Tw4yZCEZBIX) | [Michael Constantino](https://open.spotify.com/artist/5RIA0Nu4LvmOvomuo99oIJ) | [Iris](https://open.spotify.com/album/1iELy8aDaoOv1DE3Zl2oUi) | 3:24 | 2022-03-03 | 2022-07-29 |
 | [It Aint me \- Acoustic](https://open.spotify.com/track/18ZK9RiSZdZVTkzVFw0yin) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [It Aint me \(Acoustic\)](https://open.spotify.com/album/0yXs7bd41x7RHD8cbLDpbV) | 3:12 | 2022-05-06 |  |
 | [jesus christ 2005 god bless america \(live\)](https://open.spotify.com/track/7uUmhF2T52mfYZryoHrz8D) | [SoSo!](https://open.spotify.com/artist/71aIra258gd74xusYNlIfO) | [jesus christ 2005 god bless america \(live\)](https://open.spotify.com/album/0yUHXSc7Ze9iusKBfBQi1x) | 3:56 | 2022-03-03 |  |
-| [Kiss the Girl](https://open.spotify.com/track/3ES0Q2d2dvNyPNGAtJVUqe) | [Brent Morgan](https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV) | [Kiss the Girl](https://open.spotify.com/album/6Rti5BJQ6LO7psnYtmUSI8) | 2:10 | 2022-03-03 |  |
+| [Kiss the Girl](https://open.spotify.com/track/3ES0Q2d2dvNyPNGAtJVUqe) | [Brent Morgan](https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV) | [Kiss the Girl](https://open.spotify.com/album/6Rti5BJQ6LO7psnYtmUSI8) | 2:10 | 2022-03-03 | 2022-08-30 |
 | [Landslide](https://open.spotify.com/track/5Pz3fsfmozPwGTXOZzVt1L) | [Cattle & Cane](https://open.spotify.com/artist/6a1PrMzNmhNE8HrO8burHc) | [& Covers](https://open.spotify.com/album/78Fl6oqSvF7jm7QuDsLOo2) | 3:38 | 2022-06-03 |  |
 | [Landslide](https://open.spotify.com/track/7uy3S1s88VGFJeKRW5Q60r) | [Cattle & Cane](https://open.spotify.com/artist/6a1PrMzNmhNE8HrO8burHc) | [& Covers](https://open.spotify.com/album/6VtuhzqA2GKC9JJz9egSyN) | 3:38 | 2022-03-03 | 2022-07-29 |
 | [Let Her Go](https://open.spotify.com/track/5D0vkvek3pOkxk0udva7Yw) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [Let Her Go](https://open.spotify.com/album/60gcs78L51eAsxVEAulxJc) | 2:55 | 2022-03-03 |  |
@@ -143,6 +144,7 @@
 | [So Hot You're Hurting My Feelings \- Acoustic](https://open.spotify.com/track/0F0xMIT47P5VpCOH5eajwO) | [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Acoustic](https://open.spotify.com/album/0WExxQj254CORDRL682MBN) | 2:46 | 2022-03-03 |  |
 | [Someone You Loved](https://open.spotify.com/track/6o49CIQox7lfuEpxDw0FRN) | [SixForty1](https://open.spotify.com/artist/4dcnHUWXWZAHfA8FvQBtJS) | [Acoustic Sessions](https://open.spotify.com/album/0nlQDrmzmr6aLzw3TkkEze) | 3:25 | 2022-03-03 |  |
 | [Stay](https://open.spotify.com/track/3FDkUi2PPTBNGZRVyS19Gi) | [The Fretless](https://open.spotify.com/artist/76PwEGLUAzcEv43JTSxO2F), [Nuela Charles](https://open.spotify.com/artist/54l7IHesYhtkP9Dm4jN4Zl) | [Stay](https://open.spotify.com/album/1B6OjPf4sMsav2FSysIvJT) | 3:29 | 2022-03-03 |  |
+| [Stay with Me](https://open.spotify.com/track/3JQ71NtViPEp9utyY349ut) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [Stay with Me](https://open.spotify.com/album/4tpkRxlOxQaNMPlxczThF1) | 3:10 | 2022-08-29 |  |
 | [Stay With Me \- Live From Spotify Berlin](https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Spotify Sessions](https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU) | 2:54 | 2022-06-03 |  |
 | [Stay With Me \- Live From Spotify Berlin](https://open.spotify.com/track/6itWAD2WxmAVQgWuk85yXx) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Spotify Sessions](https://open.spotify.com/album/5ota1DtixKfUcrsiazzgcK) | 2:54 | 2022-03-03 | 2022-07-29 |
 | [Take A Picture](https://open.spotify.com/track/2lSGH56F0FIgPRGsMFy676) | [Luisita Peixoto](https://open.spotify.com/artist/2TrYrkiXtIfLGRb0kmgDRN) | [Take A Picture](https://open.spotify.com/album/6AB3Pfl1BXmLpTp3Z3ADk1) | 3:12 | 2022-03-03 | 2022-08-04 |
@@ -156,7 +158,7 @@
 | [The Way](https://open.spotify.com/track/7hbJo8ip78Q9UHdnSFYN80) | [Donata Antoni](https://open.spotify.com/artist/1JTQHAw7cydv6H6suv2Qo4) | [The Way](https://open.spotify.com/album/7dLvF0lRQWU1ublnAvB0Ro) | 3:09 | 2022-03-03 |  |
 | [Thirteen](https://open.spotify.com/track/7tC8zRlPX5uauU8s3BaCkR) | [Joshua Speers](https://open.spotify.com/artist/7KlIBAc2EPCSzwvrLftuch) | [Thirteen](https://open.spotify.com/album/6HD1GX5h9MI6WGVtepGVHn) | 2:39 | 2022-03-03 |  |
 | [Thunder](https://open.spotify.com/track/0rRtQsqQAaS45dgHfd8t1l) | [The Freed](https://open.spotify.com/artist/1kU8z1cAsNbINQt3ZyFka8) | [Thunder](https://open.spotify.com/album/0yCicHSIShiIcJLkpyxKIC) | 3:24 | 2022-03-03 |  |
-| [Time](https://open.spotify.com/track/0FjTazWaBSHBVWm2PAGghQ) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj) | 3:56 | 2022-06-03 |  |
+| [Time](https://open.spotify.com/track/0FjTazWaBSHBVWm2PAGghQ) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj) | 3:56 | 2022-06-03 | 2022-08-30 |
 | [Time](https://open.spotify.com/track/4oU6HYNtuW2DzjgyYrOy8J) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/0H3WQSbJ7SgZtB35BEOP9P) | 3:56 | 2022-03-03 | 2022-07-29 |
 | [u are my sunshine](https://open.spotify.com/track/69aQlycGbzRbcY2gPTSQsh) | [creamy](https://open.spotify.com/artist/2uSVRVjYZ0PlJPdFHnBETu), [untrusted](https://open.spotify.com/artist/31mtcsgS3CJW5dEPlG83E7), [11:11 Music Group](https://open.spotify.com/artist/2MDj296KJIfgWDNBtHzeFi) | [u are my sunshine](https://open.spotify.com/album/4xIKwtgVoRggtMXiv9ySOu) | 2:05 | 2022-06-03 |  |
 | [What A Wonderful World \(Acoustic\)](https://open.spotify.com/track/5Ysx3C9VySsyDDlW6KilCi) | [Reuben And The Dark](https://open.spotify.com/artist/6eXJslu7IJJ6Ej8Czbd0iO), [TRVSTFALL](https://open.spotify.com/artist/5QYpBlaFFA7AZhFYmlxL1g) | [What A Wonderful World \(Acoustic\)](https://open.spotify.com/album/0HPbhzPpUXn2ZGmik4A76D) | 2:19 | 2022-03-03 | 2022-05-07 |

@@ -4,7 +4,7 @@
 
 > This is Los Dos Carnales\. The essential tracks, all in one playlist.
 
-55 songs - 2 hr 53 min - [published](https://open.spotify.com/playlist/2kkSEsHAzAQ1p3kVQ4SJCU)
+56 songs - 2 hr 55 min - [published](https://open.spotify.com/playlist/2kkSEsHAzAQ1p3kVQ4SJCU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,11 +36,12 @@
 | [El Sonriente de Durango](https://open.spotify.com/track/228HXstwnWg37RvInNo4Xr) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Sonriente de Durango](https://open.spotify.com/album/4ZNbEmbsJXMihgWHz8GowR) | 2:39 | 2022-06-01 |  |
 | [Francisco Cortez](https://open.spotify.com/track/1mZ6sMIKzvV4ji1vwV91sr) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Borracho](https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta) | 2:46 | 2022-06-01 |  |
 | [Home Run](https://open.spotify.com/track/4RpMlYxvcb2jIWhQzZOOsZ) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Home Run](https://open.spotify.com/album/2r3lhz9lFzhX9eWZTivN7t) | 2:48 | 2022-06-01 |  |
-| [Imperio Beltrán Leyva](https://open.spotify.com/track/2oBh1SZ6c6SPl8FIEJiMFP) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Te Lo Dije](https://open.spotify.com/album/5qls46F3B2bIBWtN3U6Jpq) | 3:37 | 2022-06-01 |  |
+| [Imperio Beltrán Leyva](https://open.spotify.com/track/2oBh1SZ6c6SPl8FIEJiMFP) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Te Lo Dije](https://open.spotify.com/album/5qls46F3B2bIBWtN3U6Jpq) | 3:37 | 2022-06-01 | 2022-08-30 |
 | [La Fiesta](https://open.spotify.com/track/0JazIfsytYrcSkoK8EhLaR) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Boleros de Hoy](https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox) | 2:41 | 2022-06-01 |  |
 | [La Parca](https://open.spotify.com/track/6RL2LfHexgiFXFEb3yJEdK) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [La Parca](https://open.spotify.com/album/4Wyq5S8SygjS92CA5MrXLG) | 3:13 | 2022-06-01 | 2022-08-22 |
 | [La Pregunta del Millón](https://open.spotify.com/track/0yyRKwW4pQ11Kiyuk5Pkmf) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [La Pregunta del Millón](https://open.spotify.com/album/2aXc82vWmLxSKj44zEgshL) | 3:23 | 2022-06-01 | 2022-07-08 |
 | [La Pregunta del Millón](https://open.spotify.com/track/6IEo2pVIGEwGd5ZL2ffiR0) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Boleros de Hoy](https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox) | 3:23 | 2022-07-07 |  |
+| [La Propina](https://open.spotify.com/track/3MNizqH3Vgli5czbnBDCie) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [La Propina](https://open.spotify.com/album/5Fe9UKkyuhIZQLkx0MnrqL) | 2:22 | 2022-08-29 |  |
 | [La Tóxica](https://open.spotify.com/track/24MhzcEo2Ud8eYFbJcps7y) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Boleros de Hoy](https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox) | 2:32 | 2022-06-01 |  |
 | [Los Caminos de la Vida \- Spotify Singles](https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Los Caminos de la Vida \(Spotify Singles\)](https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5) | 5:28 | 2022-06-01 |  |
 | [Los Dos Amigos \- En Vivo](https://open.spotify.com/track/5pjpZf1TXXqpCNS7WTuAeB) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [En Vivo Desde las Cañas](https://open.spotify.com/album/55jSMGuJVYVcRV3TyIrNhx) | 3:14 | 2022-06-01 |  |

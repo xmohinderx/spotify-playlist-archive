@@ -2327,7 +2327,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 149990,
       "name": "A\u0301tica",
       "url": "https://open.spotify.com/track/07g8nWc95mnGgPfRlRq075"
@@ -7325,7 +7325,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 154374,
       "name": "Everlasting",
       "url": "https://open.spotify.com/track/6U0Rth9EM8xwmg7rtrKV3t"
@@ -12500,6 +12500,24 @@
     },
     {
       "album": {
+        "name": "La Vie",
+        "url": "https://open.spotify.com/album/7xmt9O9FKI2sLhQuA3ON2o"
+      },
+      "artists": [
+        {
+          "name": "Amandine Moulin",
+          "url": "https://open.spotify.com/artist/0sVyGAiXwDz3NKBLpwY69j"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109228,
+      "name": "La Vie",
+      "url": "https://open.spotify.com/track/7yGdwiZ84hot8b9PqRtOzV"
+    },
+    {
+      "album": {
         "name": "La v\u00e9rit\u00e9 sera dite",
         "url": "https://open.spotify.com/album/3rJbQjEYzWlfZa5F51PFEx"
       },
@@ -16433,7 +16451,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 172000,
       "name": "Ocean Heart",
       "url": "https://open.spotify.com/track/4TXzJ0L5gMumCwrlEgyRZL"
@@ -18146,6 +18164,24 @@
     },
     {
       "album": {
+        "name": "Quand vous souriez",
+        "url": "https://open.spotify.com/album/0a2MWbnNqbDan6OcOwRLuv"
+      },
+      "artists": [
+        {
+          "name": "Libor Kolman",
+          "url": "https://open.spotify.com/artist/5GWhfNzngahL2GIFq3NwHT"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118250,
+      "name": "Quand vous souriez",
+      "url": "https://open.spotify.com/track/3VM35337X7Ro1tesUHnZ95"
+    },
+    {
+      "album": {
         "name": "Quando gli alberi incontrano il vento",
         "url": "https://open.spotify.com/album/5gC9wVZoOL4bJNSo9eoclI"
       },
@@ -19428,6 +19464,24 @@
     },
     {
       "album": {
+        "name": "Sand Time",
+        "url": "https://open.spotify.com/album/28SEqjm9hHXPYpljuQJx5B"
+      },
+      "artists": [
+        {
+          "name": "Emil Negri",
+          "url": "https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178585,
+      "name": "Sand Time",
+      "url": "https://open.spotify.com/track/0npBzVrDKbhg6khGMBuFzQ"
+    },
+    {
+      "album": {
         "name": "Sans Toi",
         "url": "https://open.spotify.com/album/0avKp2QPHyrlKayO32H0Qa"
       },
@@ -20573,7 +20627,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 123114,
       "name": "Skymning",
       "url": "https://open.spotify.com/track/2jRlPB32YMnpz1qcIY97oY"
@@ -21291,6 +21345,24 @@
       "duration_ms": 247250,
       "name": "Speck of Dust",
       "url": "https://open.spotify.com/track/0M7gRVPeVUAUDbS8N0kmdb"
+    },
+    {
+      "album": {
+        "name": "Relaxing Piano (Neoclassical Sessions)",
+        "url": "https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj"
+      },
+      "artists": [
+        {
+          "name": "Kalen Elmsley",
+          "url": "https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184220,
+      "name": "Spheroidal",
+      "url": "https://open.spotify.com/track/00PnFrg2QQzPqkeuxGxcz9"
     },
     {
       "album": {

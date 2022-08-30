@@ -1,12 +1,12 @@
 {
   "description": "Det enda som vi bryr oss i \u00e4r att bli kanon!",
-  "num_followers": 99256,
+  "num_followers": 99561,
   "original_name": "30 km/h",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTY4Mzc3NiwwMDAwMDAwMDY0MGU0NjIyMjkxOTZiMmNiM2VhNWE2ZmRhMTBiMDdi",
+  "snapshot_id": "MTY2MTY4Mzc3NiwwMDAwMDAwMDY3MDBkNjUwZGM1NTAyYmE1MzY5YWE5YzY0ZGM4MjNj",
   "tracks": [
     {
       "added_at": "2022-08-25 22:01:00",
@@ -195,18 +195,22 @@
     {
       "added_at": "2022-08-25 22:01:00",
       "album": {
-        "name": "Dum",
-        "url": "https://open.spotify.com/album/0zGsicnETkTL5A9UIqwXeG"
+        "name": "Fakk Min X",
+        "url": "https://open.spotify.com/album/3cuW2BUGrCXLsK1xGLCVSJ"
       },
       "artists": [
         {
-          "name": "Bolaget",
-          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
+          "name": "Ballinciaga",
+          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
+        },
+        {
+          "name": "Kamelen",
+          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
         }
       ],
-      "duration_ms": 168827,
-      "name": "Dum",
-      "url": "https://open.spotify.com/track/3fd8cxZvehZNFD8KUri30T"
+      "duration_ms": 111608,
+      "name": "Fakk Min X",
+      "url": "https://open.spotify.com/track/0lJCvh6IJQ7vedN2zgW9ws"
     },
     {
       "added_at": "2022-08-25 22:01:00",
@@ -227,18 +231,18 @@
     {
       "added_at": "2022-08-25 22:01:00",
       "album": {
-        "name": "MDMA",
-        "url": "https://open.spotify.com/album/283DpmSSsjHAafXO5zfd4G"
+        "name": "Dum",
+        "url": "https://open.spotify.com/album/0zGsicnETkTL5A9UIqwXeG"
       },
       "artists": [
         {
-          "name": "Little Sis Nora",
-          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
+          "name": "Bolaget",
+          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
         }
       ],
-      "duration_ms": 128713,
-      "name": "MDMA",
-      "url": "https://open.spotify.com/track/4c1TXKNAh4yb5cb0zE3x1X"
+      "duration_ms": 168827,
+      "name": "Dum",
+      "url": "https://open.spotify.com/track/3fd8cxZvehZNFD8KUri30T"
     },
     {
       "added_at": "2022-08-25 22:01:00",
@@ -283,6 +287,22 @@
     {
       "added_at": "2022-08-25 22:01:00",
       "album": {
+        "name": "MDMA",
+        "url": "https://open.spotify.com/album/283DpmSSsjHAafXO5zfd4G"
+      },
+      "artists": [
+        {
+          "name": "Little Sis Nora",
+          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
+        }
+      ],
+      "duration_ms": 128713,
+      "name": "MDMA",
+      "url": "https://open.spotify.com/track/4c1TXKNAh4yb5cb0zE3x1X"
+    },
+    {
+      "added_at": "2022-08-25 22:01:00",
+      "album": {
         "name": "MISSF\u00d6RST\u00c5TT (Roc Boyz Remix)",
         "url": "https://open.spotify.com/album/0MKKTiQSyTr116fbPq79vf"
       },
@@ -303,22 +323,18 @@
     {
       "added_at": "2022-08-25 22:01:00",
       "album": {
-        "name": "Fakk Min X",
-        "url": "https://open.spotify.com/album/3cuW2BUGrCXLsK1xGLCVSJ"
+        "name": "Fingrarna i halsen",
+        "url": "https://open.spotify.com/album/6xELbiSTUzXsradJS2oMH9"
       },
       "artists": [
         {
-          "name": "Ballinciaga",
-          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
-        },
-        {
-          "name": "Kamelen",
-          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
+          "name": "Bolaget",
+          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
         }
       ],
-      "duration_ms": 111608,
-      "name": "Fakk Min X",
-      "url": "https://open.spotify.com/track/0lJCvh6IJQ7vedN2zgW9ws"
+      "duration_ms": 180413,
+      "name": "Fingrarna i halsen",
+      "url": "https://open.spotify.com/track/2JPEh0GTJA9SULAojbMjp4"
     },
     {
       "added_at": "2022-08-25 22:01:00",
@@ -335,38 +351,6 @@
       "duration_ms": 203076,
       "name": "MEDVETSL\u00d6S",
       "url": "https://open.spotify.com/track/5KZ9BpVURYDoUNp04DBte6"
-    },
-    {
-      "added_at": "2022-08-25 22:01:00",
-      "album": {
-        "name": "Melocoton (The Donka Donk Song)",
-        "url": "https://open.spotify.com/album/7eYzzr5h4LfeiZlrkBNTRi"
-      },
-      "artists": [
-        {
-          "name": "Subwoolfer",
-          "url": "https://open.spotify.com/artist/633Va8wlM3hrqQ4xjqRfOf"
-        }
-      ],
-      "duration_ms": 142853,
-      "name": "Melocoton (The Donka Donk Song)",
-      "url": "https://open.spotify.com/track/1Gkb6eAZmdZdvZPd3VorQU"
-    },
-    {
-      "added_at": "2022-08-25 22:01:00",
-      "album": {
-        "name": "Fingrarna i halsen",
-        "url": "https://open.spotify.com/album/6xELbiSTUzXsradJS2oMH9"
-      },
-      "artists": [
-        {
-          "name": "Bolaget",
-          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
-        }
-      ],
-      "duration_ms": 180413,
-      "name": "Fingrarna i halsen",
-      "url": "https://open.spotify.com/track/2JPEh0GTJA9SULAojbMjp4"
     },
     {
       "added_at": "2022-08-25 22:01:00",
@@ -423,22 +407,6 @@
     {
       "added_at": "2022-08-25 22:01:00",
       "album": {
-        "name": "BALENCIAGA",
-        "url": "https://open.spotify.com/album/0c2qecYSSiW9ibtBlFyRWI"
-      },
-      "artists": [
-        {
-          "name": "FILV",
-          "url": "https://open.spotify.com/artist/438DEJaM9KJdqbBUPnVYB0"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "BALENCIAGA",
-      "url": "https://open.spotify.com/track/17NCOO2YdoHdtziSV9AoJo"
-    },
-    {
-      "added_at": "2022-08-25 22:01:00",
-      "album": {
         "name": "Br\u00e4nde hela l\u00f6nen",
         "url": "https://open.spotify.com/album/124ufu0VnZSSJH93Z3a11e"
       },
@@ -459,6 +427,54 @@
     {
       "added_at": "2022-08-25 22:01:00",
       "album": {
+        "name": "Melocoton (The Donka Donk Song)",
+        "url": "https://open.spotify.com/album/7eYzzr5h4LfeiZlrkBNTRi"
+      },
+      "artists": [
+        {
+          "name": "Subwoolfer",
+          "url": "https://open.spotify.com/artist/633Va8wlM3hrqQ4xjqRfOf"
+        }
+      ],
+      "duration_ms": 142853,
+      "name": "Melocoton (The Donka Donk Song)",
+      "url": "https://open.spotify.com/track/1Gkb6eAZmdZdvZPd3VorQU"
+    },
+    {
+      "added_at": "2022-08-25 22:01:00",
+      "album": {
+        "name": "BALENCIAGA",
+        "url": "https://open.spotify.com/album/0c2qecYSSiW9ibtBlFyRWI"
+      },
+      "artists": [
+        {
+          "name": "FILV",
+          "url": "https://open.spotify.com/artist/438DEJaM9KJdqbBUPnVYB0"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "BALENCIAGA",
+      "url": "https://open.spotify.com/track/17NCOO2YdoHdtziSV9AoJo"
+    },
+    {
+      "added_at": "2022-08-25 22:01:00",
+      "album": {
+        "name": "Raggarbil",
+        "url": "https://open.spotify.com/album/6FdDyRhsoCoQlCVg1B6QYn"
+      },
+      "artists": [
+        {
+          "name": "Albatraoz",
+          "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
+        }
+      ],
+      "duration_ms": 135227,
+      "name": "Raggarbil",
+      "url": "https://open.spotify.com/track/5Gltinn48NXDSsIwCuIRmK"
+    },
+    {
+      "added_at": "2022-08-25 22:01:00",
+      "album": {
         "name": "POLERS",
         "url": "https://open.spotify.com/album/0ABOpblTw4qpuhvZpIkbbj"
       },
@@ -471,6 +487,22 @@
       "duration_ms": 193359,
       "name": "POLERS",
       "url": "https://open.spotify.com/track/3L2N1sejA5EKPKB1JOHCsX"
+    },
+    {
+      "added_at": "2022-08-25 22:01:00",
+      "album": {
+        "name": "N\u00e5gon annan (efter fem)",
+        "url": "https://open.spotify.com/album/2uLEsGITJoOOYvkzfELW6Q"
+      },
+      "artists": [
+        {
+          "name": "Bolaget",
+          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
+        }
+      ],
+      "duration_ms": 141898,
+      "name": "N\u00e5gon annan (efter fem)",
+      "url": "https://open.spotify.com/track/0PoBA7LXHHc2maknAn7wEW"
     },
     {
       "added_at": "2022-08-25 22:01:00",
@@ -491,22 +523,6 @@
       "duration_ms": 186692,
       "name": "MEDVETSL\u00d6S - Ringnes-Ronny Remix",
       "url": "https://open.spotify.com/track/6GgK6y4XRp2D4hNO5oj7Bt"
-    },
-    {
-      "added_at": "2022-08-25 22:01:00",
-      "album": {
-        "name": "Raggarbil",
-        "url": "https://open.spotify.com/album/6FdDyRhsoCoQlCVg1B6QYn"
-      },
-      "artists": [
-        {
-          "name": "Albatraoz",
-          "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
-        }
-      ],
-      "duration_ms": 135227,
-      "name": "Raggarbil",
-      "url": "https://open.spotify.com/track/5Gltinn48NXDSsIwCuIRmK"
     },
     {
       "added_at": "2022-08-25 22:01:00",
@@ -563,38 +579,6 @@
     {
       "added_at": "2022-08-25 22:01:00",
       "album": {
-        "name": "Namn & Nummer",
-        "url": "https://open.spotify.com/album/6KZycHubSS6ZY9CuMFGkhP"
-      },
-      "artists": [
-        {
-          "name": "Perikles",
-          "url": "https://open.spotify.com/artist/2WjMknfXoWEZL4X5QbGd3z"
-        }
-      ],
-      "duration_ms": 220240,
-      "name": "Var Ska Vi Sova Inatt",
-      "url": "https://open.spotify.com/track/454J9ZekfjmjWbfcpFaur3"
-    },
-    {
-      "added_at": "2022-08-25 22:01:00",
-      "album": {
-        "name": "N\u00e5gon annan (efter fem)",
-        "url": "https://open.spotify.com/album/2uLEsGITJoOOYvkzfELW6Q"
-      },
-      "artists": [
-        {
-          "name": "Bolaget",
-          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
-        }
-      ],
-      "duration_ms": 141898,
-      "name": "N\u00e5gon annan (efter fem)",
-      "url": "https://open.spotify.com/track/0PoBA7LXHHc2maknAn7wEW"
-    },
-    {
-      "added_at": "2022-08-25 22:01:00",
-      "album": {
         "name": "Du kan inte f\u00e5 min \u00f6l",
         "url": "https://open.spotify.com/album/5mC9mcXhQFXcGUuyyuMdcN"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 136100,
       "name": "Du kan inte f\u00e5 min \u00f6l",
       "url": "https://open.spotify.com/track/5htxjeCzsfkps5rh8ZiCd6"
+    },
+    {
+      "added_at": "2022-08-25 22:01:00",
+      "album": {
+        "name": "Namn & Nummer",
+        "url": "https://open.spotify.com/album/6KZycHubSS6ZY9CuMFGkhP"
+      },
+      "artists": [
+        {
+          "name": "Perikles",
+          "url": "https://open.spotify.com/artist/2WjMknfXoWEZL4X5QbGd3z"
+        }
+      ],
+      "duration_ms": 220240,
+      "name": "Var Ska Vi Sova Inatt",
+      "url": "https://open.spotify.com/track/454J9ZekfjmjWbfcpFaur3"
     },
     {
       "added_at": "2022-08-25 22:01:00",
@@ -647,26 +647,6 @@
     {
       "added_at": "2022-08-25 22:01:00",
       "album": {
-        "name": "Trombone",
-        "url": "https://open.spotify.com/album/6VPECzab2eRuuUBRtBmvUT"
-      },
-      "artists": [
-        {
-          "name": "AronChupa",
-          "url": "https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh"
-        },
-        {
-          "name": "Little Sis Nora",
-          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
-        }
-      ],
-      "duration_ms": 166440,
-      "name": "Trombone",
-      "url": "https://open.spotify.com/track/3vYP0NDCcoPiUHpmtq9YIq"
-    },
-    {
-      "added_at": "2022-08-25 22:01:00",
-      "album": {
         "name": "IN I DIMMAN",
         "url": "https://open.spotify.com/album/0R8t3ww2gmqP8YXW7zY87x"
       },
@@ -687,18 +667,22 @@
     {
       "added_at": "2022-08-25 22:01:00",
       "album": {
-        "name": "R\u00e4tt stuk",
-        "url": "https://open.spotify.com/album/0mCkxwfQqeZw72kKV59TfW"
+        "name": "Trombone",
+        "url": "https://open.spotify.com/album/6VPECzab2eRuuUBRtBmvUT"
       },
       "artists": [
         {
-          "name": "Attack",
-          "url": "https://open.spotify.com/artist/7xDHTY5TFdVXbIt961koTh"
+          "name": "AronChupa",
+          "url": "https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh"
+        },
+        {
+          "name": "Little Sis Nora",
+          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
         }
       ],
-      "duration_ms": 253440,
-      "name": "Ooa hela natten",
-      "url": "https://open.spotify.com/track/2pa73fbZD7ltJ09AB0Teox"
+      "duration_ms": 166440,
+      "name": "Trombone",
+      "url": "https://open.spotify.com/track/3vYP0NDCcoPiUHpmtq9YIq"
     },
     {
       "added_at": "2022-08-25 22:01:00",
@@ -739,22 +723,18 @@
     {
       "added_at": "2022-08-25 22:01:00",
       "album": {
-        "name": "Nu tar vi nya tag (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2g973QdyTS21AKuObwBRX2"
+        "name": "R\u00e4tt stuk",
+        "url": "https://open.spotify.com/album/0mCkxwfQqeZw72kKV59TfW"
       },
       "artists": [
         {
-          "name": "Fernandoz",
-          "url": "https://open.spotify.com/artist/3HMZ4Ui5A6SEFgTkWzaMhv"
-        },
-        {
-          "name": "J.O.X",
-          "url": "https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9"
+          "name": "Attack",
+          "url": "https://open.spotify.com/artist/7xDHTY5TFdVXbIt961koTh"
         }
       ],
-      "duration_ms": 149000,
-      "name": "Varje g\u00e5ng jag ser dig - Ullared - EPA Remix - Dansbandsrave",
-      "url": "https://open.spotify.com/track/1c4ux2SjsIZ2Z2mH8SFaCQ"
+      "duration_ms": 253440,
+      "name": "Ooa hela natten",
+      "url": "https://open.spotify.com/track/2pa73fbZD7ltJ09AB0Teox"
     },
     {
       "added_at": "2022-08-25 22:01:00",
@@ -775,6 +755,26 @@
     {
       "added_at": "2022-08-25 22:01:00",
       "album": {
+        "name": "Nu tar vi nya tag (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2g973QdyTS21AKuObwBRX2"
+      },
+      "artists": [
+        {
+          "name": "Fernandoz",
+          "url": "https://open.spotify.com/artist/3HMZ4Ui5A6SEFgTkWzaMhv"
+        },
+        {
+          "name": "J.O.X",
+          "url": "https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Varje g\u00e5ng jag ser dig - Ullared - EPA Remix - Dansbandsrave",
+      "url": "https://open.spotify.com/track/1c4ux2SjsIZ2Z2mH8SFaCQ"
+    },
+    {
+      "added_at": "2022-08-25 22:01:00",
+      "album": {
         "name": "Piga & dr\u00e4ng",
         "url": "https://open.spotify.com/album/7cuJlIPSxVVZu6kTOJZAJr"
       },
@@ -787,6 +787,22 @@
       "duration_ms": 178377,
       "name": "Piga & dr\u00e4ng",
       "url": "https://open.spotify.com/track/0fXANVK5oDCujoed5II6La"
+    },
+    {
+      "added_at": "2022-08-25 22:01:00",
+      "album": {
+        "name": "Danspunk",
+        "url": "https://open.spotify.com/album/6A1xmfg6FIEavYK0mmEswK"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "VI SKA BLI FULLA",
+      "url": "https://open.spotify.com/track/37EyJVC84SzAVpSf3h4792"
     },
     {
       "added_at": "2022-08-25 22:01:00",
@@ -815,6 +831,50 @@
     {
       "added_at": "2022-08-25 22:01:00",
       "album": {
+        "name": "Booty Call",
+        "url": "https://open.spotify.com/album/1arVLyiIrvLgfFzvCG6N3I"
+      },
+      "artists": [
+        {
+          "name": "AronChupa",
+          "url": "https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh"
+        },
+        {
+          "name": "Little Sis Nora",
+          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
+        }
+      ],
+      "duration_ms": 126500,
+      "name": "Booty Call",
+      "url": "https://open.spotify.com/track/41kMShsVIBgBYl3dIu6I0L"
+    },
+    {
+      "added_at": "2022-08-28 10:49:36",
+      "album": {
+        "name": "SOMMARK\u00c5T",
+        "url": "https://open.spotify.com/album/3nHqS01Sd7dd3KP57BCbNS"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "Raggarligan",
+          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
+        },
+        {
+          "name": "FR\u00d6KEN SNUSK",
+          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
+        }
+      ],
+      "duration_ms": 147272,
+      "name": "SOMMARK\u00c5T",
+      "url": "https://open.spotify.com/track/3yZxrABRefj5Wp9iq6DeGl"
+    },
+    {
+      "added_at": "2022-08-25 22:01:00",
+      "album": {
         "name": "SNABB",
         "url": "https://open.spotify.com/album/3Of7CxWmAnTswawayj6X6I"
       },
@@ -839,26 +899,6 @@
     {
       "added_at": "2022-08-25 22:01:00",
       "album": {
-        "name": "Booty Call",
-        "url": "https://open.spotify.com/album/1arVLyiIrvLgfFzvCG6N3I"
-      },
-      "artists": [
-        {
-          "name": "AronChupa",
-          "url": "https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh"
-        },
-        {
-          "name": "Little Sis Nora",
-          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
-        }
-      ],
-      "duration_ms": 126500,
-      "name": "Booty Call",
-      "url": "https://open.spotify.com/track/41kMShsVIBgBYl3dIu6I0L"
-    },
-    {
-      "added_at": "2022-08-25 22:01:00",
-      "album": {
         "name": "Fira Varje Stund",
         "url": "https://open.spotify.com/album/2bSvAoUsUv0mdFz1sN9AeD"
       },
@@ -871,42 +911,6 @@
       "duration_ms": 222222,
       "name": "Fira Varje Stund",
       "url": "https://open.spotify.com/track/4vO6quHgxfRW1lpSKPYfGv"
-    },
-    {
-      "added_at": "2022-08-25 22:01:00",
-      "album": {
-        "name": "Ragga runt (EPA Remix)",
-        "url": "https://open.spotify.com/album/0mktOSV7ZQ9pxPebTuz8f0"
-      },
-      "artists": [
-        {
-          "name": "Eddie Meduza",
-          "url": "https://open.spotify.com/artist/3cMEiDsx9VpGvF71hUGswS"
-        },
-        {
-          "name": "N!NE",
-          "url": "https://open.spotify.com/artist/0RF3teBjUzbf1SDpnuR8Ro"
-        }
-      ],
-      "duration_ms": 143120,
-      "name": "Ragga runt - N!NE EPA Remix",
-      "url": "https://open.spotify.com/track/5j0HTlOCde9GOlgyP9lpM7"
-    },
-    {
-      "added_at": "2022-08-25 22:01:00",
-      "album": {
-        "name": "Danspunk",
-        "url": "https://open.spotify.com/album/6A1xmfg6FIEavYK0mmEswK"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "VI SKA BLI FULLA",
-      "url": "https://open.spotify.com/track/37EyJVC84SzAVpSf3h4792"
     }
   ],
   "unique_name": "30 km/h",

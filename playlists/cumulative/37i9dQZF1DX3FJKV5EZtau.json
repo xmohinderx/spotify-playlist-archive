@@ -1464,6 +1464,24 @@
     },
     {
       "album": {
+        "name": "Euphoria Engine",
+        "url": "https://open.spotify.com/album/29a1h5zxbINlqQuDIwl6rU"
+      },
+      "artists": [
+        {
+          "name": "Sublab",
+          "url": "https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231529,
+      "name": "Euphoria Engine",
+      "url": "https://open.spotify.com/track/2Ptn9lZlYbWXfpiJllzleH"
+    },
+    {
+      "album": {
         "name": "Everything Goes On",
         "url": "https://open.spotify.com/album/0j4PaZDmzAJ4PlS89zcHbW"
       },
@@ -1575,7 +1593,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 189080,
       "name": "Fall to Me - helloworld Remix",
       "url": "https://open.spotify.com/track/6AY5MIVCmf8KOpZep8ybbs"
@@ -3798,6 +3816,24 @@
     },
     {
       "album": {
+        "name": "Overthinker",
+        "url": "https://open.spotify.com/album/1eCYiLDLT6ZLzCeThN90UF"
+      },
+      "artists": [
+        {
+          "name": "INZO",
+          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "Overthinker",
+      "url": "https://open.spotify.com/track/7qGoMOzR9pJ1bPl4bFmTN7"
+    },
+    {
+      "album": {
         "name": "Overworld",
         "url": "https://open.spotify.com/album/1FPjwnlRHtICNVyKL4SNbf"
       },
@@ -4697,7 +4733,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 242000,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/7qXFLa1RfT8aYBVvTHcfzH"

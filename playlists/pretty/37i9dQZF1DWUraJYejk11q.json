@@ -1,12 +1,12 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 451027,
+  "num_followers": 450680,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTMwNDU1MCwwMDAwMDAwMGVlNTEyMzlmMmZmOTkzMmM0OGMwM2E2ZDRkOTg5MmUw",
+  "snapshot_id": "MTY2MTMwNDU1MCwwMDAwMDAwMDg2ZjFmNzc0N2M1NWE4Mjk5Y2Q3OThjZjVkZmNiMWE3",
   "tracks": [
     {
       "added_at": "2022-08-11 19:36:53",
@@ -281,6 +281,22 @@
       "url": "https://open.spotify.com/track/4p6enMEejlz6hcigMPdNh6"
     },
     {
+      "added_at": "2022-01-13 02:05:11",
+      "album": {
+        "name": "Sweat Sonic",
+        "url": "https://open.spotify.com/album/5mY0769AayndoWAuTG0LWY"
+      },
+      "artists": [
+        {
+          "name": "Closet Yi",
+          "url": "https://open.spotify.com/artist/1iqgi3aRUSccnZK8K0oIGp"
+        }
+      ],
+      "duration_ms": 382487,
+      "name": "Sweat Sonic",
+      "url": "https://open.spotify.com/track/37Uy4OBd93yP89ZhCj5je2"
+    },
+    {
       "added_at": "2022-01-13 02:26:31",
       "album": {
         "name": "Sequenza",
@@ -321,54 +337,6 @@
       "url": "https://open.spotify.com/track/1Ef4AmovzJ5RhoUOqj1iZn"
     },
     {
-      "added_at": "2022-01-21 20:14:08",
-      "album": {
-        "name": "Leave Here",
-        "url": "https://open.spotify.com/album/5CmJspuJM6slYqdFEbvBX0"
-      },
-      "artists": [
-        {
-          "name": "Jacques Greene",
-          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
-        }
-      ],
-      "duration_ms": 297585,
-      "name": "Leave Here",
-      "url": "https://open.spotify.com/track/5FdiUDLORFvwxzTvqqOrcC"
-    },
-    {
-      "added_at": "2022-01-13 02:05:11",
-      "album": {
-        "name": "Sweat Sonic",
-        "url": "https://open.spotify.com/album/5mY0769AayndoWAuTG0LWY"
-      },
-      "artists": [
-        {
-          "name": "Closet Yi",
-          "url": "https://open.spotify.com/artist/1iqgi3aRUSccnZK8K0oIGp"
-        }
-      ],
-      "duration_ms": 382487,
-      "name": "Sweat Sonic",
-      "url": "https://open.spotify.com/track/37Uy4OBd93yP89ZhCj5je2"
-    },
-    {
-      "added_at": "2022-08-03 02:49:15",
-      "album": {
-        "name": "Shallots",
-        "url": "https://open.spotify.com/album/1rKFlOuwvqORkzO0tQiyPw"
-      },
-      "artists": [
-        {
-          "name": "Frequent",
-          "url": "https://open.spotify.com/artist/71Q5SkUpc26h0swrRjrGEc"
-        }
-      ],
-      "duration_ms": 221298,
-      "name": "Shallots",
-      "url": "https://open.spotify.com/track/3un8NWwFpSvbN0m0JZ29da"
-    },
-    {
       "added_at": "2022-07-08 04:48:31",
       "album": {
         "name": "Closer (Daniel Avery Edit)",
@@ -389,6 +357,38 @@
       "url": "https://open.spotify.com/track/57Vf7VMA5QSahRghyzywIa"
     },
     {
+      "added_at": "2022-02-25 03:39:39",
+      "album": {
+        "name": "Exotic Contents / Pulse at the Centre of Being",
+        "url": "https://open.spotify.com/album/0I0azaQfHlf1JEIJuwHF5a"
+      },
+      "artists": [
+        {
+          "name": "Max Cooper",
+          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
+        }
+      ],
+      "duration_ms": 346588,
+      "name": "Exotic Contents",
+      "url": "https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P"
+    },
+    {
+      "added_at": "2022-01-21 20:14:08",
+      "album": {
+        "name": "Leave Here",
+        "url": "https://open.spotify.com/album/5CmJspuJM6slYqdFEbvBX0"
+      },
+      "artists": [
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        }
+      ],
+      "duration_ms": 297585,
+      "name": "Leave Here",
+      "url": "https://open.spotify.com/track/5FdiUDLORFvwxzTvqqOrcC"
+    },
+    {
       "added_at": "2022-07-15 18:13:54",
       "album": {
         "name": "Eden Portal",
@@ -405,20 +405,20 @@
       "url": "https://open.spotify.com/track/0ihmZ14TyzjrjO390cP1Oo"
     },
     {
-      "added_at": "2022-02-25 03:39:39",
+      "added_at": "2022-08-03 02:49:15",
       "album": {
-        "name": "Exotic Contents / Pulse at the Centre of Being",
-        "url": "https://open.spotify.com/album/0I0azaQfHlf1JEIJuwHF5a"
+        "name": "Shallots",
+        "url": "https://open.spotify.com/album/1rKFlOuwvqORkzO0tQiyPw"
       },
       "artists": [
         {
-          "name": "Max Cooper",
-          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
+          "name": "Frequent",
+          "url": "https://open.spotify.com/artist/71Q5SkUpc26h0swrRjrGEc"
         }
       ],
-      "duration_ms": 346588,
-      "name": "Exotic Contents",
-      "url": "https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P"
+      "duration_ms": 221298,
+      "name": "Shallots",
+      "url": "https://open.spotify.com/track/3un8NWwFpSvbN0m0JZ29da"
     },
     {
       "added_at": "2021-10-15 03:56:52",
@@ -537,20 +537,20 @@
       "url": "https://open.spotify.com/track/3M8CoZcFebNLowVqgYuahA"
     },
     {
-      "added_at": "2022-07-28 05:59:17",
+      "added_at": "2021-10-15 03:56:52",
       "album": {
-        "name": "lexicon",
-        "url": "https://open.spotify.com/album/3cDhDjibmMoTD4n6n1E7l9"
+        "name": "Sofia Kourtesis",
+        "url": "https://open.spotify.com/album/6xgwDjQ5Z1oXMVQIoRMnqY"
       },
       "artists": [
         {
-          "name": "lynyn",
-          "url": "https://open.spotify.com/artist/5OW8ofHCXltPKgzTdSe1l8"
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
         }
       ],
-      "duration_ms": 293495,
-      "name": "uja end",
-      "url": "https://open.spotify.com/track/0keT02CFNOmvH95UmhBMef"
+      "duration_ms": 398232,
+      "name": "Trains & Airports",
+      "url": "https://open.spotify.com/track/4nLYuqQrjVZu6zVNqmsTfI"
     },
     {
       "added_at": "2022-03-30 04:42:42",
@@ -569,20 +569,20 @@
       "url": "https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz"
     },
     {
-      "added_at": "2021-10-15 03:56:52",
+      "added_at": "2022-07-28 05:59:17",
       "album": {
-        "name": "Sofia Kourtesis",
-        "url": "https://open.spotify.com/album/6xgwDjQ5Z1oXMVQIoRMnqY"
+        "name": "lexicon",
+        "url": "https://open.spotify.com/album/3cDhDjibmMoTD4n6n1E7l9"
       },
       "artists": [
         {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+          "name": "lynyn",
+          "url": "https://open.spotify.com/artist/5OW8ofHCXltPKgzTdSe1l8"
         }
       ],
-      "duration_ms": 398232,
-      "name": "Trains & Airports",
-      "url": "https://open.spotify.com/track/4nLYuqQrjVZu6zVNqmsTfI"
+      "duration_ms": 293495,
+      "name": "uja end",
+      "url": "https://open.spotify.com/track/0keT02CFNOmvH95UmhBMef"
     },
     {
       "added_at": "2022-05-13 16:20:12",
@@ -617,54 +617,6 @@
       "url": "https://open.spotify.com/track/4z4XTugxaVap8Ndp8QI5T7"
     },
     {
-      "added_at": "2022-04-12 02:09:40",
-      "album": {
-        "name": "Minena",
-        "url": "https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H"
-      },
-      "artists": [
-        {
-          "name": "Ranma Entero",
-          "url": "https://open.spotify.com/artist/779eiS92bExNWIAWxmiWIB"
-        }
-      ],
-      "duration_ms": 275574,
-      "name": "Minena",
-      "url": "https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa"
-    },
-    {
-      "added_at": "2022-01-21 20:12:04",
-      "album": {
-        "name": "Jord\u00e3o",
-        "url": "https://open.spotify.com/album/0GPBTClGuLZ4Z1aGGOqVWi"
-      },
-      "artists": [
-        {
-          "name": "Niagara",
-          "url": "https://open.spotify.com/artist/7v9653L6WJv9pZKYEKdcDz"
-        }
-      ],
-      "duration_ms": 263800,
-      "name": "Jord\u00e3o",
-      "url": "https://open.spotify.com/track/4DBVvRxw7iCF0Os4KqKB2l"
-    },
-    {
-      "added_at": "2022-04-29 18:24:26",
-      "album": {
-        "name": "Cruda",
-        "url": "https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH"
-      },
-      "artists": [
-        {
-          "name": "Siete Catorce",
-          "url": "https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr"
-        }
-      ],
-      "duration_ms": 329596,
-      "name": "Cheve",
-      "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
-    },
-    {
       "added_at": "2021-10-15 03:56:52",
       "album": {
         "name": "So",
@@ -681,20 +633,36 @@
       "url": "https://open.spotify.com/track/55CCxcBWmurfDqbrJfphD0"
     },
     {
-      "added_at": "2022-03-30 05:37:06",
+      "added_at": "2022-04-12 02:09:40",
       "album": {
-        "name": "Paranormal Phenomena \u2013 The Icelandic Expedition",
-        "url": "https://open.spotify.com/album/7of3FJV3PXkHQ1bWyiFqup"
+        "name": "Minena",
+        "url": "https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H"
       },
       "artists": [
         {
-          "name": "Modula",
-          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
+          "name": "Ranma Entero",
+          "url": "https://open.spotify.com/artist/779eiS92bExNWIAWxmiWIB"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Diamond Beach",
-      "url": "https://open.spotify.com/track/5O77vZjVt78PbW6nCKItQq"
+      "duration_ms": 275574,
+      "name": "Minena",
+      "url": "https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa"
+    },
+    {
+      "added_at": "2022-04-29 18:24:26",
+      "album": {
+        "name": "Cruda",
+        "url": "https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH"
+      },
+      "artists": [
+        {
+          "name": "Siete Catorce",
+          "url": "https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr"
+        }
+      ],
+      "duration_ms": 329596,
+      "name": "Cheve",
+      "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
     },
     {
       "added_at": "2022-03-11 06:17:20",
@@ -715,6 +683,38 @@
       "duration_ms": 333279,
       "name": "Static Doesn't Exist - Kode9 Remix",
       "url": "https://open.spotify.com/track/4FYk5LHj60CiV5TmPDbA5I"
+    },
+    {
+      "added_at": "2022-03-30 05:37:06",
+      "album": {
+        "name": "Paranormal Phenomena \u2013 The Icelandic Expedition",
+        "url": "https://open.spotify.com/album/7of3FJV3PXkHQ1bWyiFqup"
+      },
+      "artists": [
+        {
+          "name": "Modula",
+          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Diamond Beach",
+      "url": "https://open.spotify.com/track/5O77vZjVt78PbW6nCKItQq"
+    },
+    {
+      "added_at": "2022-01-21 20:12:04",
+      "album": {
+        "name": "Jord\u00e3o",
+        "url": "https://open.spotify.com/album/0GPBTClGuLZ4Z1aGGOqVWi"
+      },
+      "artists": [
+        {
+          "name": "Niagara",
+          "url": "https://open.spotify.com/artist/7v9653L6WJv9pZKYEKdcDz"
+        }
+      ],
+      "duration_ms": 263800,
+      "name": "Jord\u00e3o",
+      "url": "https://open.spotify.com/track/4DBVvRxw7iCF0Os4KqKB2l"
     },
     {
       "added_at": "2022-03-30 05:10:26",
@@ -805,22 +805,6 @@
       "url": "https://open.spotify.com/track/0lX858dF2YgUxNEUcgN8Gi"
     },
     {
-      "added_at": "2022-01-19 22:44:25",
-      "album": {
-        "name": "Fwd: Re: late (Ref.: karoshi)",
-        "url": "https://open.spotify.com/album/73UuLb3FaidlmvkZLe8z2s"
-      },
-      "artists": [
-        {
-          "name": "Brainwaltzera",
-          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
-        }
-      ],
-      "duration_ms": 361386,
-      "name": "Fwd: Re: late (Ref.: karoshi)",
-      "url": "https://open.spotify.com/track/2d2IGL8Q7a4a4uKMDXOx2n"
-    },
-    {
       "added_at": "2022-02-14 05:58:50",
       "album": {
         "name": "Subscribe",
@@ -867,6 +851,22 @@
       "duration_ms": 242784,
       "name": "Yesterday Faded - Edit",
       "url": "https://open.spotify.com/track/0WLrMIT6Pi7AzvEdvfP7yP"
+    },
+    {
+      "added_at": "2022-01-19 22:44:25",
+      "album": {
+        "name": "Fwd: Re: late (Ref.: karoshi)",
+        "url": "https://open.spotify.com/album/73UuLb3FaidlmvkZLe8z2s"
+      },
+      "artists": [
+        {
+          "name": "Brainwaltzera",
+          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
+        }
+      ],
+      "duration_ms": 361386,
+      "name": "Fwd: Re: late (Ref.: karoshi)",
+      "url": "https://open.spotify.com/track/2d2IGL8Q7a4a4uKMDXOx2n"
     }
   ],
   "unique_name": "Genre Glitch",

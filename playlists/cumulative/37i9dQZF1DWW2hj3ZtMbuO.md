@@ -4,7 +4,7 @@
 
 > Sapphic songs that defined your music taste as "yearning"
 
-258 songs - 15 hr 23 min - [published](https://open.spotify.com/playlist/5xkrtz2ZNtOUjV3wvR4itN)
+260 songs - 15 hr 33 min - [published](https://open.spotify.com/playlist/5xkrtz2ZNtOUjV3wvR4itN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Blossom \(Wasting All My Time\)](https://open.spotify.com/track/4yhAcg6xUHtZgt731WsFl1) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Clean](https://open.spotify.com/album/36NLDBi2kX7XRHnyLzLOS8) | 3:12 | 2021-12-15 | 2022-07-06 |
 | [Blue Hippo](https://open.spotify.com/track/1kKHlRNEXpIkYARjFXGmnm) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Blue Hippo](https://open.spotify.com/album/1zo8HozcWbmjMfcn9T3LYH) | 3:19 | 2021-12-15 | 2022-07-29 |
 | [Built To Spill](https://open.spotify.com/track/4waleULtpyAttZiusnOuKG) | [Scarlet Rae](https://open.spotify.com/artist/06v4QDLJOrIz62gsU9lN3K) | [Built To Spill](https://open.spotify.com/album/6TLLO4Oh4ndwKlnkXNoCUV) | 3:44 | 2022-04-14 | 2022-04-18 |
-| [Butterfly's Repose](https://open.spotify.com/track/36c2NifUp0GDnoOQT5unhR) | [Zabawa](https://open.spotify.com/artist/4n9AMW1w0pXszeQcKFo13r) | [Butterfly's Repose](https://open.spotify.com/album/4TwVv7Kou1ehIMonPLZBAR) | 5:09 | 2022-01-08 |  |
+| [Butterfly's Repose](https://open.spotify.com/track/36c2NifUp0GDnoOQT5unhR) | [Zabawa](https://open.spotify.com/artist/4n9AMW1w0pXszeQcKFo13r) | [Butterfly's Repose](https://open.spotify.com/album/4TwVv7Kou1ehIMonPLZBAR) | 5:09 | 2022-01-08 | 2022-08-30 |
 | [Call It Fate, Call It Karma](https://open.spotify.com/track/3Y4rUyw7XBCK6hGHCOt6rp) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Comedown Machine](https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV) | 3:24 | 2021-12-15 |  |
 | [cherry blossom](https://open.spotify.com/track/3PT3dmokgfqJSsZxv4Njw5) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:04 | 2021-12-15 | 2022-02-25 |
 | [Child Psychology](https://open.spotify.com/track/68lYnrHMQlCNmVpvyeVfrq) | [Black Box Recorder](https://open.spotify.com/artist/6Hd3xhv1sj3rlojjvGLkGR) | [England Made Me](https://open.spotify.com/album/6iVmyoxtAHZ0hfOiHetcpf) | 4:08 | 2022-04-06 | 2022-07-26 |
@@ -47,6 +47,7 @@
 | [Come Over \(Again\)](https://open.spotify.com/track/4PDJDIdWxNN1AlnbrKkoPf) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Crawlers \- EP](https://open.spotify.com/album/4wePwIhGnXxJ3tRFAusMAE) | 4:14 | 2022-01-08 |  |
 | [Coming Down](https://open.spotify.com/track/62o5ETvaR1U8CqxVYancy4) | [Dum Dum Girls](https://open.spotify.com/artist/65ewrL6LvcNGMMRVlksNGS) | [Only in Dreams](https://open.spotify.com/album/5AeNEoouOMNiWvDwpKzVml) | 6:29 | 2022-01-08 | 2022-06-11 |
 | [Coming Soon](https://open.spotify.com/track/40TPv4i9TiKD611hmd3qyO) | [Annie DiRusso](https://open.spotify.com/artist/58jk0945bnQBG9xfij6hHw) | [Coming Soon](https://open.spotify.com/album/4q69cIjJfaDSeQQOBAIGgB) | 3:15 | 2021-12-15 | 2022-07-29 |
+| [complex \(demo\)](https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex \(demo\)](https://open.spotify.com/album/4iHBCJPZUha2xs84jNZ4jc) | 4:16 | 2022-08-26 |  |
 | [could this be love?](https://open.spotify.com/track/480aVmwDIBeTSpSZORyhO0) | [saturn 17](https://open.spotify.com/artist/1h1CNvurvYYLyzLbpeqaLq) | [could this be love?](https://open.spotify.com/album/66y1UjaZs11vwnhBgP0sjf) | 3:28 | 2021-12-15 | 2022-07-29 |
 | [Crazy \- Single Version](https://open.spotify.com/track/3zpj9dvJABiyMrmLCPw6i8) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [Showcase](https://open.spotify.com/album/54Ykk8Gg8TuHjLbYvErsKh) | 2:44 | 2022-03-19 | 2022-04-07 |
 | [Cry Me A River](https://open.spotify.com/track/7f6AAixCrVar1ZY7RPHDfM) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Julie Is Her Name](https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P) | 2:58 | 2022-02-24 | 2022-06-01 |
@@ -178,6 +179,7 @@
 | [Pisces](https://open.spotify.com/track/6Umxdv8kjwvR0KchTq4yDh) | [Rebecka Reinhard](https://open.spotify.com/artist/3zqeFxDDi7N3NtvxSllocG) | [Pisces](https://open.spotify.com/album/1scbm7wlHGCzWVY51ui0o0) | 4:13 | 2022-06-01 |  |
 | [PISTOLWHIP](https://open.spotify.com/track/5me5yFJlnKZr2spcxSbCTW) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [PISTOLWHIP](https://open.spotify.com/album/6pxLfWRnzSTLXt6HIDz5oI) | 2:05 | 2022-01-08 | 2022-02-16 |
 | [Playground Love](https://open.spotify.com/track/052z2UsE2wPrHsBJ9tly0g) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ), [Gordon Tracks](https://open.spotify.com/artist/4DWl8U58uYeeTtlvbrLEY6) | [The Virgin Suicides \(Original Motion Picture Score\)](https://open.spotify.com/album/2E1q8eohZZ1BUQ7Bq5WUIY) | 3:31 | 2021-12-15 | 2022-08-27 |
+| [Possibility](https://open.spotify.com/track/39Odj4vLKRarATkCA31gaW) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [The Twilight Saga: New Moon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2PDlvc7K51qC4Bkali3q0R) | 5:06 | 2022-08-29 |  |
 | [prom dress](https://open.spotify.com/track/2xCGBWfzTe8l2kvHpgvB6M) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade](https://open.spotify.com/album/5mNk0mLiGcJHLGiT0mjHmX) | 3:17 | 2021-12-15 |  |
 | [Punisher](https://open.spotify.com/track/5LJ4ig9cMvjui3li1mrNRl) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:09 | 2022-07-29 |  |
 | [Re Call](https://open.spotify.com/track/4RtGeiTcO58fSwp7mzHpAD) | [Addy](https://open.spotify.com/artist/7cc7EzaAyipwvm874dCrVC) | [Re Call](https://open.spotify.com/album/2ZWuf18h8wXWExcCYYsIRU) | 5:13 | 2022-02-11 | 2022-02-25 |
@@ -258,7 +260,7 @@
 | [Wish I Was You](https://open.spotify.com/track/2wbY4rxFUCDyvK7mksf5HG) | [EXES](https://open.spotify.com/artist/39R87tT1qaTxHwu5m87USa) | [Wish I Was You](https://open.spotify.com/album/5E8qV4Xas0bLhhZJiNbPoq) | 3:07 | 2022-02-04 | 2022-02-12 |
 | [Work](https://open.spotify.com/track/1knUACOt5yfNAYn7gnYQVt) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [CDW](https://open.spotify.com/album/6gCycQSo1Yp503MXyvzSF9) | 3:44 | 2022-06-10 |  |
 | [Work](https://open.spotify.com/track/5T1xKMA4xA7MDX4EiB8Cup) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Work](https://open.spotify.com/album/1OzNHYZsbugdZIvC4cv1IT) | 3:44 | 2022-01-08 | 2022-04-21 |
-| [Yards / Gardens](https://open.spotify.com/track/6suniHkw9kWbCWMta68RxR) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Yards / Gardens](https://open.spotify.com/album/2Z7WFypYB4NdZBX4EKoPOQ) | 2:21 | 2022-07-20 |  |
+| [Yards / Gardens](https://open.spotify.com/track/6suniHkw9kWbCWMta68RxR) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Yards / Gardens](https://open.spotify.com/album/2Z7WFypYB4NdZBX4EKoPOQ) | 2:21 | 2022-07-20 | 2022-08-30 |
 | [yellow is the color of her eyes](https://open.spotify.com/track/5EDBVVqd2ogoG89XVQOvsn) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [color theory](https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez) | 7:15 | 2021-12-15 | 2022-07-29 |
 | [You](https://open.spotify.com/track/1iLBI0xUhGKZQM1DresHuj) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [On The Street / You](https://open.spotify.com/album/1lJC5KM0Gle2KBpiQeNbLE) | 3:10 | 2022-03-03 | 2022-04-17 |
 | [you ruined phoebe bridgers](https://open.spotify.com/track/1wbqhfq7CIN9Q5FL8CL90r) | [Anya Gupta](https://open.spotify.com/artist/6SHpQ6QnVZdoPVhQa3A2sL) | [i \(don't\) know you](https://open.spotify.com/album/3Vyl6gXOqLsiaao9xxUpn7) | 2:46 | 2022-06-10 | 2022-07-15 |

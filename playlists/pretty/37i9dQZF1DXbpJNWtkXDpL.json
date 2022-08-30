@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Presentamos a Kevin Kaarl, nuestro artista Radar!",
-  "num_followers": 59327,
+  "num_followers": 59345,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ5MDAwMCwwMDAwMDAwMDAxZmQ2YWQ0MzAwMDE4N2U5OTcxZWU3YThlNDNjYjlm",
+  "snapshot_id": "MTY2MTQ5MDAwMCwwMDAwMDAwMGU4ZmU1NDYxOTU5MTE2NDk3ODQ3Y2ZlYjA4NjIzZjBj",
   "tracks": [
     {
       "added_at": "2022-08-26 05:00:00",
@@ -131,6 +131,22 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
+        "name": "Obsessed (Deluxe)",
+        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "duration_ms": 189750,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/2sVM0on2db42X3aH5hrx7o"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
         "name": "Soy de Sinaloa",
         "url": "https://open.spotify.com/album/2RirpFu0iqptAyM5eARyl2"
       },
@@ -143,6 +159,22 @@
       "duration_ms": 161690,
       "name": "Soy de Sinaloa",
       "url": "https://open.spotify.com/track/0G8UX6rA6OLal4OXPZLv5K"
+    },
+    {
+      "added_at": "2022-08-01 05:00:00",
+      "album": {
+        "name": "Hasta el Fin Del Mundo",
+        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 179094,
+      "name": "V\u00e1monos a Marte",
+      "url": "https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -165,20 +197,52 @@
       "url": "https://open.spotify.com/track/1ewVg7ZtI4rliY9kAaNQWt"
     },
     {
-      "added_at": "2022-08-01 05:00:00",
+      "added_at": "2022-06-07 05:00:00",
       "album": {
-        "name": "Hasta el Fin Del Mundo",
-        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
+        "name": "Y Te Lo Digo Yo",
+        "url": "https://open.spotify.com/album/5c1Tq06BqlqyiMlFZKGlxg"
       },
       "artists": [
         {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+          "name": "Nicole Favre",
+          "url": "https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1"
         }
       ],
-      "duration_ms": 179094,
-      "name": "V\u00e1monos a Marte",
-      "url": "https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh"
+      "duration_ms": 137400,
+      "name": "Olvidarte",
+      "url": "https://open.spotify.com/track/1sq5yMUQfFvrJ62WfBUSNW"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "Mientras Duermes",
+        "url": "https://open.spotify.com/album/3MZAzqL04CpxMuymwFdA8j"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 187447,
+      "name": "Mientras Duermes",
+      "url": "https://open.spotify.com/track/22PH5e4SxE8EPI5YVc0Zin"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/5gJw1zTAjkuHH0g5tgChln"
+      },
+      "artists": [
+        {
+          "name": "Lauri Garcia",
+          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
+        }
+      ],
+      "duration_ms": 148370,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/7mEjQJxrT6jaukzzYMeHVG"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -207,40 +271,72 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/5gJw1zTAjkuHH0g5tgChln"
+        "name": "Lluvia De Micheladas",
+        "url": "https://open.spotify.com/album/03OMTESg6ZdhYChtszcfxw"
       },
       "artists": [
         {
-          "name": "Lauri Garcia",
-          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Smi-Lee",
+          "url": "https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA"
+        },
+        {
+          "name": "Profeta Yao Yao",
+          "url": "https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb"
+        },
+        {
+          "name": "Riko Mix",
+          "url": "https://open.spotify.com/artist/4tLNdBKmqrgKBjgcnKCdeP"
         }
       ],
-      "duration_ms": 148370,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/7mEjQJxrT6jaukzzYMeHVG"
+      "duration_ms": 222275,
+      "name": "Lluvia De Micheladas",
+      "url": "https://open.spotify.com/track/1YAqv5QidJkRcwZo1FV6s1"
     },
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "Obsessed (Deluxe)",
-        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
+        "name": "\u00bfPor Qu\u00e9 Me Dejaste de Querer?",
+        "url": "https://open.spotify.com/album/6957JkC44ERGeUABWH6ssX"
       },
       "artists": [
         {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
         }
       ],
-      "duration_ms": 189750,
-      "name": "Esta Noche",
-      "url": "https://open.spotify.com/track/2sVM0on2db42X3aH5hrx7o"
+      "duration_ms": 196363,
+      "name": "\u00bfPor Qu\u00e9 Me Dejaste de Querer?",
+      "url": "https://open.spotify.com/track/3A0EC7X2FGSnbFDOCb8ZoT"
+    },
+    {
+      "added_at": "2022-06-07 05:00:00",
+      "album": {
+        "name": "Rep\u00edtelo",
+        "url": "https://open.spotify.com/album/1DNsExIHCqxBbQci0Qc5h3"
+      },
+      "artists": [
+        {
+          "name": "Nicole Favre",
+          "url": "https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1"
+        },
+        {
+          "name": "Joey Montana",
+          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
+        }
+      ],
+      "duration_ms": 201066,
+      "name": "Rep\u00edtelo",
+      "url": "https://open.spotify.com/track/5IDjFFu1TMknvgKVAQ1CRX"
     },
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "Mientras Duermes",
-        "url": "https://open.spotify.com/album/3MZAzqL04CpxMuymwFdA8j"
+        "name": "H\u00edbrido",
+        "url": "https://open.spotify.com/album/165Qn8sAYgcxfNvDKFD9kv"
       },
       "artists": [
         {
@@ -248,9 +344,9 @@
           "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
         }
       ],
-      "duration_ms": 187447,
-      "name": "Mientras Duermes",
-      "url": "https://open.spotify.com/track/22PH5e4SxE8EPI5YVc0Zin"
+      "duration_ms": 174286,
+      "name": "Hoy Voy a Olvidarte",
+      "url": "https://open.spotify.com/track/7jKegvohKUhAEh0PxoKnxG"
     },
     {
       "added_at": "2022-08-01 05:00:00",
@@ -283,66 +379,6 @@
       "duration_ms": 222693,
       "name": "Todo Porque Te Amo",
       "url": "https://open.spotify.com/track/42xGhi8vZ7cowI55hWgYzP"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "Lluvia De Micheladas",
-        "url": "https://open.spotify.com/album/03OMTESg6ZdhYChtszcfxw"
-      },
-      "artists": [
-        {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        },
-        {
-          "name": "Smi-Lee",
-          "url": "https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA"
-        },
-        {
-          "name": "Profeta Yao Yao",
-          "url": "https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb"
-        },
-        {
-          "name": "Riko Mix",
-          "url": "https://open.spotify.com/artist/4tLNdBKmqrgKBjgcnKCdeP"
-        }
-      ],
-      "duration_ms": 222275,
-      "name": "Lluvia De Micheladas",
-      "url": "https://open.spotify.com/track/1YAqv5QidJkRcwZo1FV6s1"
-    },
-    {
-      "added_at": "2022-06-07 05:00:00",
-      "album": {
-        "name": "Y Te Lo Digo Yo",
-        "url": "https://open.spotify.com/album/5c1Tq06BqlqyiMlFZKGlxg"
-      },
-      "artists": [
-        {
-          "name": "Nicole Favre",
-          "url": "https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1"
-        }
-      ],
-      "duration_ms": 137400,
-      "name": "Olvidarte",
-      "url": "https://open.spotify.com/track/1sq5yMUQfFvrJ62WfBUSNW"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "\u00bfPor Qu\u00e9 Me Dejaste de Querer?",
-        "url": "https://open.spotify.com/album/6957JkC44ERGeUABWH6ssX"
-      },
-      "artists": [
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "\u00bfPor Qu\u00e9 Me Dejaste de Querer?",
-      "url": "https://open.spotify.com/track/3A0EC7X2FGSnbFDOCb8ZoT"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -399,42 +435,6 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "H\u00edbrido",
-        "url": "https://open.spotify.com/album/165Qn8sAYgcxfNvDKFD9kv"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 174286,
-      "name": "Hoy Voy a Olvidarte",
-      "url": "https://open.spotify.com/track/7jKegvohKUhAEh0PxoKnxG"
-    },
-    {
-      "added_at": "2022-06-07 05:00:00",
-      "album": {
-        "name": "Rep\u00edtelo",
-        "url": "https://open.spotify.com/album/1DNsExIHCqxBbQci0Qc5h3"
-      },
-      "artists": [
-        {
-          "name": "Nicole Favre",
-          "url": "https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1"
-        },
-        {
-          "name": "Joey Montana",
-          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
-        }
-      ],
-      "duration_ms": 201066,
-      "name": "Rep\u00edtelo",
-      "url": "https://open.spotify.com/track/5IDjFFu1TMknvgKVAQ1CRX"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
         "name": "No Lo Pod\u00eda Hacer Mejor",
         "url": "https://open.spotify.com/album/6k964PchdjqpKVlAuoYvfL"
       },
@@ -447,6 +447,26 @@
       "duration_ms": 178980,
       "name": "No Lo Pod\u00eda Hacer Mejor",
       "url": "https://open.spotify.com/track/0miQuUmnk0hQ0HaviDOrUA"
+    },
+    {
+      "added_at": "2022-06-03 15:10:16",
+      "album": {
+        "name": "El Tony",
+        "url": "https://open.spotify.com/album/7duHunpgpGBzL1v1xVJIBu"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        },
+        {
+          "name": "Daniel Vazquez",
+          "url": "https://open.spotify.com/artist/4kh6gKONPBfkCCd818b1PS"
+        }
+      ],
+      "duration_ms": 165442,
+      "name": "El Tony",
+      "url": "https://open.spotify.com/track/3SdIpwt0PjEstHUi1e0d7i"
     },
     {
       "added_at": "2022-06-03 15:10:16",
@@ -471,22 +491,6 @@
       "duration_ms": 179760,
       "name": "Salud Por Eso",
       "url": "https://open.spotify.com/track/44aafvQtAsQ8FcVDne725k"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "En Ciudades 878",
-        "url": "https://open.spotify.com/album/58MFyeFtgjKRbpZ9klzzx3"
-      },
-      "artists": [
-        {
-          "name": "Jauria Santa",
-          "url": "https://open.spotify.com/artist/662f8mEv1eRLXE9DzBy4vV"
-        }
-      ],
-      "duration_ms": 257782,
-      "name": "Un Porro",
-      "url": "https://open.spotify.com/track/6Mhqj9OEN4w77nwDrX2w89"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -529,24 +533,24 @@
       "url": "https://open.spotify.com/track/6CwnSxlEYLdfmPGFlY61XC"
     },
     {
-      "added_at": "2022-06-03 15:10:16",
+      "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "El Tony",
-        "url": "https://open.spotify.com/album/7duHunpgpGBzL1v1xVJIBu"
+        "name": "Barbie Ven",
+        "url": "https://open.spotify.com/album/5RBZzebEyuHEx3nHy0YhgD"
       },
       "artists": [
         {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
         },
         {
-          "name": "Daniel Vazquez",
-          "url": "https://open.spotify.com/artist/4kh6gKONPBfkCCd818b1PS"
+          "name": "Nando Produce",
+          "url": "https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI"
         }
       ],
-      "duration_ms": 165442,
-      "name": "El Tony",
-      "url": "https://open.spotify.com/track/3SdIpwt0PjEstHUi1e0d7i"
+      "duration_ms": 160942,
+      "name": "Barbie Ven",
+      "url": "https://open.spotify.com/track/2FnzbCfyXlz6pgPLkptZbr"
     },
     {
       "added_at": "2022-08-08 18:21:16",
@@ -571,26 +575,6 @@
       "duration_ms": 149647,
       "name": "Morena",
       "url": "https://open.spotify.com/track/7z1q1J4zcB1d736GJZUkLa"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "Barbie Ven",
-        "url": "https://open.spotify.com/album/5RBZzebEyuHEx3nHy0YhgD"
-      },
-      "artists": [
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Nando Produce",
-          "url": "https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI"
-        }
-      ],
-      "duration_ms": 160942,
-      "name": "Barbie Ven",
-      "url": "https://open.spotify.com/track/2FnzbCfyXlz6pgPLkptZbr"
     },
     {
       "added_at": "2022-06-07 05:00:00",
@@ -619,8 +603,8 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "Que Si Fumo Tanto",
-        "url": "https://open.spotify.com/album/3SBkf0nDvsHIITpG9LLkRL"
+        "name": "En Ciudades 878",
+        "url": "https://open.spotify.com/album/58MFyeFtgjKRbpZ9klzzx3"
       },
       "artists": [
         {
@@ -628,9 +612,25 @@
           "url": "https://open.spotify.com/artist/662f8mEv1eRLXE9DzBy4vV"
         }
       ],
-      "duration_ms": 220009,
-      "name": "Que Si Fumo Tanto",
-      "url": "https://open.spotify.com/track/02NMSq5GXpSPCAD2tQgJQM"
+      "duration_ms": 257782,
+      "name": "Un Porro",
+      "url": "https://open.spotify.com/track/6Mhqj9OEN4w77nwDrX2w89"
+    },
+    {
+      "added_at": "2022-08-26 05:00:00",
+      "album": {
+        "name": "Dinero, Fama y Poder",
+        "url": "https://open.spotify.com/album/0trMnLMQ6UW9XiOkwqLrhL"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 154115,
+      "name": "Dinero, Fama y Poder",
+      "url": "https://open.spotify.com/track/6DVZzhCzexaB2Bs73c7CM3"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "Uh La La",
-        "url": "https://open.spotify.com/album/37E856Cum11u0LJognB6Xp"
-      },
-      "artists": [
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        }
-      ],
-      "duration_ms": 210857,
-      "name": "Uh La La",
-      "url": "https://open.spotify.com/track/238haksMvqT5hcKtznBLop"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
         "name": "Laura Itandehui",
         "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
       },
@@ -699,42 +683,6 @@
       "duration_ms": 171750,
       "name": "Yo no Necesito de Mucho",
       "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "no me caigo tan bien",
-        "url": "https://open.spotify.com/album/4au2XrsSvknKfEX76fwfFI"
-      },
-      "artists": [
-        {
-          "name": "Carlos Colosio",
-          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
-        }
-      ],
-      "duration_ms": 208443,
-      "name": "no me caigo tan bien",
-      "url": "https://open.spotify.com/track/5cRxATH6YHeZ6MMlYF47vQ"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "911",
-        "url": "https://open.spotify.com/album/18J0q27mMOs2kvlxH2Kqci"
-      },
-      "artists": [
-        {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        },
-        {
-          "name": "Dj Yaso",
-          "url": "https://open.spotify.com/artist/6tt7Ubp6rzh4lqATTvdOmd"
-        }
-      ],
-      "duration_ms": 166173,
-      "name": "R9 Aleteo",
-      "url": "https://open.spotify.com/track/037VJbDruLmBcxzlEks9oa"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -755,6 +703,54 @@
       "duration_ms": 183956,
       "name": "Dm",
       "url": "https://open.spotify.com/track/2HMCrWscGOkbUel0sCW0Bp"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "Uh La La",
+        "url": "https://open.spotify.com/album/37E856Cum11u0LJognB6Xp"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "duration_ms": 210857,
+      "name": "Uh La La",
+      "url": "https://open.spotify.com/track/238haksMvqT5hcKtznBLop"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "no me caigo tan bien",
+        "url": "https://open.spotify.com/album/4au2XrsSvknKfEX76fwfFI"
+      },
+      "artists": [
+        {
+          "name": "Carlos Colosio",
+          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
+        }
+      ],
+      "duration_ms": 208443,
+      "name": "no me caigo tan bien",
+      "url": "https://open.spotify.com/track/5cRxATH6YHeZ6MMlYF47vQ"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "Que Si Fumo Tanto",
+        "url": "https://open.spotify.com/album/3SBkf0nDvsHIITpG9LLkRL"
+      },
+      "artists": [
+        {
+          "name": "Jauria Santa",
+          "url": "https://open.spotify.com/artist/662f8mEv1eRLXE9DzBy4vV"
+        }
+      ],
+      "duration_ms": 220009,
+      "name": "Que Si Fumo Tanto",
+      "url": "https://open.spotify.com/track/02NMSq5GXpSPCAD2tQgJQM"
     },
     {
       "added_at": "2022-08-08 18:21:16",
@@ -779,18 +775,22 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "Tumbando Avi\u00f3n",
-        "url": "https://open.spotify.com/album/0EFOk4KGhVB8zIozX6wW2m"
+        "name": "911",
+        "url": "https://open.spotify.com/album/18J0q27mMOs2kvlxH2Kqci"
       },
       "artists": [
         {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Dj Yaso",
+          "url": "https://open.spotify.com/artist/6tt7Ubp6rzh4lqATTvdOmd"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Tumbando Avi\u00f3n",
-      "url": "https://open.spotify.com/track/3twvxdFxeR1VCWkoR60gKW"
+      "duration_ms": 166173,
+      "name": "R9 Aleteo",
+      "url": "https://open.spotify.com/track/037VJbDruLmBcxzlEks9oa"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -827,74 +827,6 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "Se\u00f1ales",
-        "url": "https://open.spotify.com/album/79rbLkI6PIg2VmANXERMqB"
-      },
-      "artists": [
-        {
-          "name": "Sobrino",
-          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
-        },
-        {
-          "name": "Ana Mancebo",
-          "url": "https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd"
-        }
-      ],
-      "duration_ms": 183997,
-      "name": "Se\u00f1ales",
-      "url": "https://open.spotify.com/track/4JxWLbQM9XrPDK1vghEjaY"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "Caf\u00e9 Conmigo",
-        "url": "https://open.spotify.com/album/22jSbACBDtGXlqMbZPeIu5"
-      },
-      "artists": [
-        {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
-        }
-      ],
-      "duration_ms": 176238,
-      "name": "Caf\u00e9 Conmigo",
-      "url": "https://open.spotify.com/track/3X6zoxS109LGpWrz7WysW0"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "Por Eso T\u00fa",
-        "url": "https://open.spotify.com/album/47ozRi9t0GGajhkEFFeuDv"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
-        }
-      ],
-      "duration_ms": 192677,
-      "name": "Por Eso T\u00fa",
-      "url": "https://open.spotify.com/track/73Op2YIk2Ea5kJ9uHd99QH"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "Glommy Afternoon",
-        "url": "https://open.spotify.com/album/4k34ZmgvcK8b1ljA27Uu4d"
-      },
-      "artists": [
-        {
-          "name": "Prismatic Shapes",
-          "url": "https://open.spotify.com/artist/17HimzcvF4HNWP8YqBRu8q"
-        }
-      ],
-      "duration_ms": 176470,
-      "name": "Empty Process",
-      "url": "https://open.spotify.com/track/3nV6TxijHm8BJwZl7wjck8"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
         "name": "M\u00e1s Tarde (Remix)",
         "url": "https://open.spotify.com/album/73YYxkYl0FlBgD2uhfeTHR"
       },
@@ -915,6 +847,74 @@
       "duration_ms": 206000,
       "name": "M\u00e1s Tarde (Remix)",
       "url": "https://open.spotify.com/track/46kwFYNCjWyNtc92c8ShxN"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "Se\u00f1ales",
+        "url": "https://open.spotify.com/album/79rbLkI6PIg2VmANXERMqB"
+      },
+      "artists": [
+        {
+          "name": "Sobrino",
+          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
+        },
+        {
+          "name": "Ana Mancebo",
+          "url": "https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd"
+        }
+      ],
+      "duration_ms": 183997,
+      "name": "Se\u00f1ales",
+      "url": "https://open.spotify.com/track/4JxWLbQM9XrPDK1vghEjaY"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "Voy A Superarte (En Vivo)",
+        "url": "https://open.spotify.com/album/6tMFnDvudKXUOlsfkefgdx"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "duration_ms": 165746,
+      "name": "Voy A Superarte - En Vivo",
+      "url": "https://open.spotify.com/track/4j0gW8CD4w9qiX3JBvVcei"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "Tumbando Avi\u00f3n",
+        "url": "https://open.spotify.com/album/0EFOk4KGhVB8zIozX6wW2m"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Tumbando Avi\u00f3n",
+      "url": "https://open.spotify.com/track/3twvxdFxeR1VCWkoR60gKW"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "Caf\u00e9 Conmigo",
+        "url": "https://open.spotify.com/album/22jSbACBDtGXlqMbZPeIu5"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        }
+      ],
+      "duration_ms": 176238,
+      "name": "Caf\u00e9 Conmigo",
+      "url": "https://open.spotify.com/track/3X6zoxS109LGpWrz7WysW0"
     }
   ],
   "unique_name": "RADAR M\u00e9xico",

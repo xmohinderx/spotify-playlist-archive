@@ -1,12 +1,12 @@
 {
   "description": "The hottest music from the hottest desert. Cover: Tinariwen.",
-  "num_followers": 189674,
+  "num_followers": 189760,
   "original_name": "Sahara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzUwNjc1MywwMDAwMDAwMDA5ZTk3ODYzNjExZDM3Zjc2OThhZmE2NjM4NWI3NTA1",
+  "snapshot_id": "MTY1MzUwNjc1MywwMDAwMDAwMDEyZDdkOTg5ZDc5ZjM2NDY0ZjkwZTZhNGQzMzE0NmFj",
   "tracks": [
     {
       "added_at": "2022-03-07 18:43:15",
@@ -47,22 +47,6 @@
     {
       "added_at": "2022-03-07 18:43:15",
       "album": {
-        "name": "Mogoya",
-        "url": "https://open.spotify.com/album/43euCDOikmefRS29Y55pLX"
-      },
-      "artists": [
-        {
-          "name": "Oumou Sangar\u00e9",
-          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
-        }
-      ],
-      "duration_ms": 210773,
-      "name": "Mogoya",
-      "url": "https://open.spotify.com/track/3aPOQ6TdIuAW8m1KZid1Hv"
-    },
-    {
-      "added_at": "2022-03-07 18:43:15",
-      "album": {
         "name": "Moune\u00efssa",
         "url": "https://open.spotify.com/album/21Tj95e18stlS6SetlwqAa"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 386973,
       "name": "Laidu",
       "url": "https://open.spotify.com/track/05CF4ATpqROLTQVYABNZ3W"
+    },
+    {
+      "added_at": "2022-03-07 18:43:15",
+      "album": {
+        "name": "Mogoya",
+        "url": "https://open.spotify.com/album/43euCDOikmefRS29Y55pLX"
+      },
+      "artists": [
+        {
+          "name": "Oumou Sangar\u00e9",
+          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
+        }
+      ],
+      "duration_ms": 210773,
+      "name": "Mogoya",
+      "url": "https://open.spotify.com/track/3aPOQ6TdIuAW8m1KZid1Hv"
     },
     {
       "added_at": "2022-03-07 18:43:15",
@@ -95,22 +95,6 @@
     {
       "added_at": "2022-03-07 18:43:15",
       "album": {
-        "name": "Afrique Victime",
-        "url": "https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2"
-      },
-      "artists": [
-        {
-          "name": "Mdou Moctar",
-          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
-        }
-      ],
-      "duration_ms": 298969,
-      "name": "Chismiten",
-      "url": "https://open.spotify.com/track/5RHN9R3BqScU4Jzu84U7pZ"
-    },
-    {
-      "added_at": "2022-03-07 18:43:15",
-      "album": {
         "name": "Nomad",
         "url": "https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 279346,
       "name": "Tamiditine",
       "url": "https://open.spotify.com/track/2st24VONuY9hqiGAPkhyua"
+    },
+    {
+      "added_at": "2022-03-07 18:43:15",
+      "album": {
+        "name": "Afrique Victime",
+        "url": "https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2"
+      },
+      "artists": [
+        {
+          "name": "Mdou Moctar",
+          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
+        }
+      ],
+      "duration_ms": 298969,
+      "name": "Chismiten",
+      "url": "https://open.spotify.com/track/5RHN9R3BqScU4Jzu84U7pZ"
     },
     {
       "added_at": "2022-03-07 18:43:15",
@@ -287,6 +287,54 @@
     {
       "added_at": "2022-03-07 18:43:15",
       "album": {
+        "name": "Tin Hinane",
+        "url": "https://open.spotify.com/album/58tahxJBcMrtsbp0s3amh2"
+      },
+      "artists": [
+        {
+          "name": "Kel Assouf",
+          "url": "https://open.spotify.com/artist/5mu6VL20oyfrkqOW61w7p9"
+        }
+      ],
+      "duration_ms": 304080,
+      "name": "Akaline",
+      "url": "https://open.spotify.com/track/0V9DjtOmk3yxz8HeEyxYsY"
+    },
+    {
+      "added_at": "2022-03-07 18:43:15",
+      "album": {
+        "name": "Imarhan",
+        "url": "https://open.spotify.com/album/2aLKNhNF3szhUQY3AJoGgL"
+      },
+      "artists": [
+        {
+          "name": "Imarhan",
+          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
+        }
+      ],
+      "duration_ms": 186346,
+      "name": "Tarha Tadagh",
+      "url": "https://open.spotify.com/track/2LQwuRI1h4Q4qk4HzK9zE2"
+    },
+    {
+      "added_at": "2022-03-07 18:43:15",
+      "album": {
+        "name": "Fadma",
+        "url": "https://open.spotify.com/album/0Z9wLDw2m6M5EvfTpdCWQp"
+      },
+      "artists": [
+        {
+          "name": "TASUTA N-IMAL",
+          "url": "https://open.spotify.com/artist/5FTU4No8pkcpeybO0CeVXz"
+        }
+      ],
+      "duration_ms": 249673,
+      "name": "Fadma",
+      "url": "https://open.spotify.com/track/7MAA4bp5bTd3bO5m2uJea7"
+    },
+    {
+      "added_at": "2022-03-07 18:43:15",
+      "album": {
         "name": "Talking Timbuktu (with Ry Cooder)",
         "url": "https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9"
       },
@@ -307,34 +355,18 @@
     {
       "added_at": "2022-03-07 18:43:15",
       "album": {
-        "name": "Tin Hinane",
-        "url": "https://open.spotify.com/album/58tahxJBcMrtsbp0s3amh2"
+        "name": "Jamm",
+        "url": "https://open.spotify.com/album/4sh5kAaYaucu6sFbAakF2y"
       },
       "artists": [
         {
-          "name": "Kel Assouf",
-          "url": "https://open.spotify.com/artist/5mu6VL20oyfrkqOW61w7p9"
+          "name": "Cheikh L\u00f4",
+          "url": "https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h"
         }
       ],
-      "duration_ms": 304080,
-      "name": "Akaline",
-      "url": "https://open.spotify.com/track/0V9DjtOmk3yxz8HeEyxYsY"
-    },
-    {
-      "added_at": "2022-03-07 18:43:15",
-      "album": {
-        "name": "Fadma",
-        "url": "https://open.spotify.com/album/0Z9wLDw2m6M5EvfTpdCWQp"
-      },
-      "artists": [
-        {
-          "name": "TASUTA N-IMAL",
-          "url": "https://open.spotify.com/artist/5FTU4No8pkcpeybO0CeVXz"
-        }
-      ],
-      "duration_ms": 249673,
-      "name": "Fadma",
-      "url": "https://open.spotify.com/track/7MAA4bp5bTd3bO5m2uJea7"
+      "duration_ms": 270560,
+      "name": "Il n'est jamais trop tard",
+      "url": "https://open.spotify.com/track/2YEs2mLzFu8RcdAHFQghhv"
     },
     {
       "added_at": "2022-03-07 18:43:15",
@@ -371,22 +403,6 @@
     {
       "added_at": "2022-03-07 18:43:15",
       "album": {
-        "name": "Imarhan",
-        "url": "https://open.spotify.com/album/2aLKNhNF3szhUQY3AJoGgL"
-      },
-      "artists": [
-        {
-          "name": "Imarhan",
-          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
-        }
-      ],
-      "duration_ms": 186346,
-      "name": "Tarha Tadagh",
-      "url": "https://open.spotify.com/track/2LQwuRI1h4Q4qk4HzK9zE2"
-    },
-    {
-      "added_at": "2022-03-07 18:43:15",
-      "album": {
         "name": "Natt",
         "url": "https://open.spotify.com/album/2hyXbgiRlM3PORB5GEAkLw"
       },
@@ -399,38 +415,6 @@
       "duration_ms": 263440,
       "name": "Tadieu Bone",
       "url": "https://open.spotify.com/track/1XMr0CfVAuZ5ueoDe8yUNq"
-    },
-    {
-      "added_at": "2022-03-07 18:43:15",
-      "album": {
-        "name": "Chatma",
-        "url": "https://open.spotify.com/album/0VI8LrJKHMN1S9hloXGMlU"
-      },
-      "artists": [
-        {
-          "name": "Tamikrest",
-          "url": "https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872"
-        }
-      ],
-      "duration_ms": 290800,
-      "name": "Tisnant an Chatma",
-      "url": "https://open.spotify.com/track/32ORiXJSpjsxEBh53n03U4"
-    },
-    {
-      "added_at": "2022-03-07 18:43:15",
-      "album": {
-        "name": "Jamm",
-        "url": "https://open.spotify.com/album/4sh5kAaYaucu6sFbAakF2y"
-      },
-      "artists": [
-        {
-          "name": "Cheikh L\u00f4",
-          "url": "https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h"
-        }
-      ],
-      "duration_ms": 270560,
-      "name": "Il n'est jamais trop tard",
-      "url": "https://open.spotify.com/track/2YEs2mLzFu8RcdAHFQghhv"
     },
     {
       "added_at": "2022-03-07 18:43:15",
@@ -451,6 +435,22 @@
       "duration_ms": 273949,
       "name": "Rachid Ouiguini",
       "url": "https://open.spotify.com/track/6py8BqF0Lk1P8YoXXTRw5P"
+    },
+    {
+      "added_at": "2022-03-07 18:43:15",
+      "album": {
+        "name": "Chatma",
+        "url": "https://open.spotify.com/album/0VI8LrJKHMN1S9hloXGMlU"
+      },
+      "artists": [
+        {
+          "name": "Tamikrest",
+          "url": "https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872"
+        }
+      ],
+      "duration_ms": 290800,
+      "name": "Tisnant an Chatma",
+      "url": "https://open.spotify.com/track/32ORiXJSpjsxEBh53n03U4"
     },
     {
       "added_at": "2022-03-07 18:43:15",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-03-07 18:43:15",
       "album": {
-        "name": "Samba",
-        "url": "https://open.spotify.com/album/4nMZahJAJVwPJxFT8d9rbN"
-      },
-      "artists": [
-        {
-          "name": "Vieux Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
-        }
-      ],
-      "duration_ms": 338292,
-      "name": "Bonheur",
-      "url": "https://open.spotify.com/track/5kViRh5yrBIftTjX44FMwJ"
-    },
-    {
-      "added_at": "2022-03-07 18:43:15",
-      "album": {
         "name": "Nour",
         "url": "https://open.spotify.com/album/6KGuLkvq9MNHbK4ttF0vx3"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 305320,
       "name": "Yarab",
       "url": "https://open.spotify.com/track/4DdoInAoNy6cT6Z1AAj6vX"
+    },
+    {
+      "added_at": "2022-03-07 18:43:15",
+      "album": {
+        "name": "Samba",
+        "url": "https://open.spotify.com/album/4nMZahJAJVwPJxFT8d9rbN"
+      },
+      "artists": [
+        {
+          "name": "Vieux Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
+        }
+      ],
+      "duration_ms": 338292,
+      "name": "Bonheur",
+      "url": "https://open.spotify.com/track/5kViRh5yrBIftTjX44FMwJ"
     },
     {
       "added_at": "2022-03-07 18:43:15",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-03-07 18:43:15",
       "album": {
-        "name": "Chatma",
-        "url": "https://open.spotify.com/album/0VI8LrJKHMN1S9hloXGMlU"
-      },
-      "artists": [
-        {
-          "name": "Tamikrest",
-          "url": "https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872"
-        }
-      ],
-      "duration_ms": 313480,
-      "name": "Toumast anlet",
-      "url": "https://open.spotify.com/track/09n4VZqxSvFJfdtyV0HbCV"
-    },
-    {
-      "added_at": "2022-03-07 18:43:15",
-      "album": {
         "name": "Albala",
         "url": "https://open.spotify.com/album/2ATFSmZ538NkNHgLM95YFH"
       },
@@ -787,6 +771,22 @@
     {
       "added_at": "2022-03-07 18:43:15",
       "album": {
+        "name": "Chatma",
+        "url": "https://open.spotify.com/album/0VI8LrJKHMN1S9hloXGMlU"
+      },
+      "artists": [
+        {
+          "name": "Tamikrest",
+          "url": "https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872"
+        }
+      ],
+      "duration_ms": 313480,
+      "name": "Toumast anlet",
+      "url": "https://open.spotify.com/track/09n4VZqxSvFJfdtyV0HbCV"
+    },
+    {
+      "added_at": "2022-03-07 18:43:15",
+      "album": {
         "name": "Emmaar (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3Dg5g42nMxdrJIuxhXxFTH"
       },
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-03-07 18:43:15",
       "album": {
-        "name": "Deran",
-        "url": "https://open.spotify.com/album/2Gm3Wy05MApR47NZmRo1DW"
-      },
-      "artists": [
-        {
-          "name": "Bombino",
-          "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
-        }
-      ],
-      "duration_ms": 222821,
-      "name": "Midiwan",
-      "url": "https://open.spotify.com/track/3uQZlQyED9BvADK1JWXIzl"
-    },
-    {
-      "added_at": "2022-03-07 18:43:15",
-      "album": {
         "name": "Black Tenere",
         "url": "https://open.spotify.com/album/2szNhyx4lm9LoUU8KnUN6b"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 281120,
       "name": "Fransa",
       "url": "https://open.spotify.com/track/3N6ddWSmrMFvZkGFBU4Ike"
+    },
+    {
+      "added_at": "2022-03-07 18:43:15",
+      "album": {
+        "name": "Deran",
+        "url": "https://open.spotify.com/album/2Gm3Wy05MApR47NZmRo1DW"
+      },
+      "artists": [
+        {
+          "name": "Bombino",
+          "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
+        }
+      ],
+      "duration_ms": 222821,
+      "name": "Midiwan",
+      "url": "https://open.spotify.com/track/3uQZlQyED9BvADK1JWXIzl"
     },
     {
       "added_at": "2022-03-07 18:43:15",

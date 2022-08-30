@@ -1,12 +1,12 @@
 {
   "description": "Songs about the iconic city. Welcome to the Big Apple!",
-  "num_followers": 112008,
+  "num_followers": 112000,
   "original_name": "I Love NYC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIzOTE0NiwwMDAwMDAwMDUxMWU1ZGM5NTZjNjI1YTUxYWFkNWFkNzIyZjY1NTY3",
+  "snapshot_id": "MTY2MDIzOTE0NiwwMDAwMDAwMDg5YTBmNDRhMmE5YzNjMjMwM2VhZmExY2YzNDc4MTFi",
   "tracks": [
     {
       "added_at": "2022-01-24 23:45:18",
@@ -143,6 +143,22 @@
     {
       "added_at": "2022-01-24 23:45:18",
       "album": {
+        "name": "An Innocent Man",
+        "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 197706,
+      "name": "Uptown Girl",
+      "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
         "name": "Transformer",
         "url": "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 246933,
       "name": "No Sleep Till Brooklyn",
       "url": "https://open.spotify.com/track/5qxChyzKLEyoPJ5qGrdurN"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
-        "name": "An Innocent Man",
-        "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 197706,
-      "name": "Uptown Girl",
-      "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
     },
     {
       "added_at": "2022-01-24 23:45:18",
@@ -295,22 +295,6 @@
     {
       "added_at": "2022-01-24 23:45:18",
       "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 238413,
-      "name": "The Only Living Boy in New York",
-      "url": "https://open.spotify.com/track/5MbXzXGbqobR8xPVPs8OXA"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
         "name": "I And Love And You",
         "url": "https://open.spotify.com/album/2PPFtYUnnqMYflIEn3b7ON"
       },
@@ -359,22 +343,6 @@
     {
       "added_at": "2022-01-24 23:45:18",
       "album": {
-        "name": "The Ultimate Petula Clark",
-        "url": "https://open.spotify.com/album/4pvPAWiVRHdnVXkOt49sKk"
-      },
-      "artists": [
-        {
-          "name": "Petula Clark",
-          "url": "https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8"
-        }
-      ],
-      "duration_ms": 187760,
-      "name": "Downtown",
-      "url": "https://open.spotify.com/track/0ZQ6ckgerHYM5mOUxTl99Q"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
         "name": "The End Of The Innocence",
         "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
       },
@@ -387,6 +355,38 @@
       "duration_ms": 395400,
       "name": "New York Minute",
       "url": "https://open.spotify.com/track/2jxqu3v4AZAhUNvdAbDGet"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 238413,
+      "name": "The Only Living Boy in New York",
+      "url": "https://open.spotify.com/track/5MbXzXGbqobR8xPVPs8OXA"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
+        "name": "The Ultimate Petula Clark",
+        "url": "https://open.spotify.com/album/4pvPAWiVRHdnVXkOt49sKk"
+      },
+      "artists": [
+        {
+          "name": "Petula Clark",
+          "url": "https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8"
+        }
+      ],
+      "duration_ms": 187760,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/0ZQ6ckgerHYM5mOUxTl99Q"
     },
     {
       "added_at": "2022-01-24 23:45:18",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-01-24 23:45:18",
       "album": {
-        "name": "Patrick Droney",
-        "url": "https://open.spotify.com/album/3tdnCuYNUXbWjeTEfFFZ31"
-      },
-      "artists": [
-        {
-          "name": "Patrick Droney",
-          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
-        }
-      ],
-      "duration_ms": 227292,
-      "name": "Brooklyn",
-      "url": "https://open.spotify.com/track/0gvGXQK14CIGLssQhruY8E"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
         "name": "Born To Run",
         "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
       },
@@ -523,18 +507,18 @@
     {
       "added_at": "2022-01-24 23:45:18",
       "album": {
-        "name": "Sound of Silver",
-        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
+        "name": "Patrick Droney",
+        "url": "https://open.spotify.com/album/3tdnCuYNUXbWjeTEfFFZ31"
       },
       "artists": [
         {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+          "name": "Patrick Droney",
+          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
         }
       ],
-      "duration_ms": 335480,
-      "name": "New York, I Love You but You're Bringing Me Down",
-      "url": "https://open.spotify.com/track/5rAff9XfcWx7rguN3t0fkW"
+      "duration_ms": 227292,
+      "name": "Brooklyn",
+      "url": "https://open.spotify.com/track/0gvGXQK14CIGLssQhruY8E"
     },
     {
       "added_at": "2022-01-24 23:45:18",
@@ -555,6 +539,22 @@
     {
       "added_at": "2022-01-24 23:45:18",
       "album": {
+        "name": "Sound of Silver",
+        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 335480,
+      "name": "New York, I Love You but You're Bringing Me Down",
+      "url": "https://open.spotify.com/track/5rAff9XfcWx7rguN3t0fkW"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
         "name": "Rain Dogs",
         "url": "https://open.spotify.com/album/5bbb7E51zaDCuD85uLyFkK"
       },
@@ -567,6 +567,22 @@
       "duration_ms": 230000,
       "name": "Downtown Train",
       "url": "https://open.spotify.com/track/3fPqUl4lPDUQmY0T7dKUv2"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
+        "name": "Wednesday Morning, 3 A.M.",
+        "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 163680,
+      "name": "Bleecker Street",
+      "url": "https://open.spotify.com/track/4c0ecVwn17owdwpIBL07wC"
     },
     {
       "added_at": "2022-01-24 23:45:18",
@@ -603,22 +619,6 @@
       "duration_ms": 287040,
       "name": "The Rising",
       "url": "https://open.spotify.com/track/2czBvzOv3TvnyoW7Ozo7fP"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
-        "name": "Wednesday Morning, 3 A.M.",
-        "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 163680,
-      "name": "Bleecker Street",
-      "url": "https://open.spotify.com/track/4c0ecVwn17owdwpIBL07wC"
     },
     {
       "added_at": "2022-01-24 23:45:18",
@@ -703,6 +703,22 @@
     {
       "added_at": "2022-01-24 23:45:18",
       "album": {
+        "name": "Dear Catastrophe Waitress",
+        "url": "https://open.spotify.com/album/7HNrDkHNFopKBXGWf0UZML"
+      },
+      "artists": [
+        {
+          "name": "Belle and Sebastian",
+          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
+        }
+      ],
+      "duration_ms": 183493,
+      "name": "Piazza, New York Catcher",
+      "url": "https://open.spotify.com/track/12eefUObewFbvXYQ3bN7E4"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
         "name": "Wonder Where We Land",
         "url": "https://open.spotify.com/album/4J9gt4YOazmavlYw4hMrfY"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 180575,
       "name": "NEW DORP. NEW YORK",
       "url": "https://open.spotify.com/track/2QFHyK2SV2YWyJzu6kpGhk"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
-        "name": "Dear Catastrophe Waitress",
-        "url": "https://open.spotify.com/album/7HNrDkHNFopKBXGWf0UZML"
-      },
-      "artists": [
-        {
-          "name": "Belle and Sebastian",
-          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
-        }
-      ],
-      "duration_ms": 183493,
-      "name": "Piazza, New York Catcher",
-      "url": "https://open.spotify.com/track/12eefUObewFbvXYQ3bN7E4"
     },
     {
       "added_at": "2022-01-24 23:45:18",

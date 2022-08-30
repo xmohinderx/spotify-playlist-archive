@@ -4,7 +4,7 @@
 
 > Brighten your morning with these indie, folk and acoustic sounds.
 
-112 songs - 7 hr 39 min - [published](https://open.spotify.com/playlist/4QEboiTQ5FZpURd879PG5r)
+113 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/4QEboiTQ5FZpURd879PG5r)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Nothing from Nothing](https://open.spotify.com/track/2gdHmwbF3n5X905DBLOJxn) | [The Ghost of Paul Revere](https://open.spotify.com/artist/30fXKjFrJ6I9tfwia1ZZMG) | [Field Notes, Vol\. 2](https://open.spotify.com/album/5rfOpBzZyeTRRds7r8TzFl) | 2:25 | 2020-01-14 | 2022-07-29 |
 | [Nothing No\. 1](https://open.spotify.com/track/4l9VMZjlMEb6tmlAAPid8m) | [Skyway Man](https://open.spotify.com/artist/5QaXPOeFBhSwhLxrmU2ghj), [Andy Jenkins](https://open.spotify.com/artist/7grGoDIxuUQFN3OwCuPXmN), [Molly Sarlé](https://open.spotify.com/artist/4XLoKwIIoARkhaKuZocq5d) | [Nothing No\. 1](https://open.spotify.com/album/6srxOnrouewRU6qafieOTF) | 3:56 | 2022-06-17 | 2022-07-29 |
 | [On the Road](https://open.spotify.com/track/0Ja8hGjNaq22wMUmLYhSxm) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [From the Hills Below the City](https://open.spotify.com/album/2eaQyM7iQvIuvNlyj1QSrC) | 2:26 | 2020-01-14 | 2022-07-29 |
+| [On the Road](https://open.spotify.com/track/6J5s4zugz7DxSgAWHKtmfV) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [From the Hills Below the City](https://open.spotify.com/album/0UJ1pJYJqAt9kDYZ1WGgpS) | 2:26 | 2022-06-17 |  |
 | [Our Hearts Are Wrong](https://open.spotify.com/track/6Wf0dbrqvBkEUSe12cRsps) | [Jessica Lea Mayfield](https://open.spotify.com/artist/3SmFJf7fxX3J0xXP0IlwK5) | [Tell Me](https://open.spotify.com/album/61X8msx06YFzh8cKZosD5X) | 3:06 | 2020-01-14 | 2022-07-29 |
 | [Penny, Heads Up](https://open.spotify.com/track/7xRS8ys6YvFAcAuVc1ZqQg) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [By and By](https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM) | 3:27 | 2020-01-14 | 2022-08-24 |
 | [People Need A Melody](https://open.spotify.com/track/5tlu2nA8GxkDx8UTKG1rLV) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Living Mirage](https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT) | 4:12 | 2020-01-14 |  |
@@ -115,7 +116,7 @@
 | [When My Time Comes](https://open.spotify.com/track/6y9Jj7NVcBOCsnn9Ps2CPN) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [North Hills](https://open.spotify.com/album/3ca8rTTGzriBOcq2JnHchZ) | 5:08 | 2022-06-17 | 2022-08-01 |
 | [When U Love Somebody](https://open.spotify.com/track/68Euox5QCQrf0sMI847CfC) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Mouthfuls](https://open.spotify.com/album/1Wx4ud28ypU7HAWuOHkmQ2) | 4:31 | 2022-03-08 |  |
 | [When You're Away](https://open.spotify.com/track/3K3FSV1E7Lh10uX7AYexMH) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [Texas Piano Man](https://open.spotify.com/album/5EMqbcSQgub9fRFwmcfxa9) | 3:26 | 2020-01-14 | 2022-07-29 |
-| [Why Do You Let Me Stay Here?](https://open.spotify.com/track/1ZHYoYfWMYnGAzlwOi2XP4) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume One](https://open.spotify.com/album/2qIu18hUz5c6BzY3Rh6fIJ) | 2:30 | 2022-06-17 |  |
+| [Why Do You Let Me Stay Here?](https://open.spotify.com/track/1ZHYoYfWMYnGAzlwOi2XP4) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume One](https://open.spotify.com/album/2qIu18hUz5c6BzY3Rh6fIJ) | 2:30 | 2022-06-17 | 2022-08-30 |
 | [Why Do You Let Me Stay Here?](https://open.spotify.com/track/6e7TwT8TUE3BHN7aokBKfq) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume One](https://open.spotify.com/album/5FHgJlXkHfMP4vwK0hDN0i) | 2:30 | 2020-01-14 | 2022-07-07 |
 | [Yellow Eyes](https://open.spotify.com/track/3HOXNIj8NjlgjQiBd3YVIi) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Imaginary Man](https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor) | 3:50 | 2022-06-17 |  |
 | [You're Too Weird](https://open.spotify.com/track/33ezCcBwVw2SsAvOsFyJSG) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Tripper](https://open.spotify.com/album/3K2sY2hmvoNszRzFCEf9fE) | 3:46 | 2020-01-14 | 2022-07-29 |

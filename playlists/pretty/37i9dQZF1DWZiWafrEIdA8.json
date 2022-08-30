@@ -1,12 +1,12 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \ub2f9\uc2e0\uc744 \uc704\ub85c\ud558\ub294 \uac00\uc0ac\uc640 \ub530\ub73b\ud55c \ube44\ud2b8.",
-  "num_followers": 4591,
+  "num_followers": 4599,
   "original_name": "\ud790\ub9c1 \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTIyNjM3MCwwMDAwMDAwMDJjNTA2YzdmZGQ2OGIyOTkwZWQyZGRlMGJiNTRiMmNk",
+  "snapshot_id": "MTY2MTIyNjM3MCwwMDAwMDAwMDM1NWE0ODA4OThhNTc1MTg0MDQ4MzdkYTlhNmQ3NGU3",
   "tracks": [
     {
       "added_at": "2022-08-23 03:46:09",
@@ -135,50 +135,6 @@
     {
       "added_at": "2022-08-23 03:46:09",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/5JEYiTvQmOPfMpiUoXq2U8"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "DUT2",
-          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
-        }
-      ],
-      "duration_ms": 239960,
-      "name": "Freedom (Feat. DUT2) (Prod. Way Ched)",
-      "url": "https://open.spotify.com/track/70DaoUGYskTAJeYGgH5mAh"
-    },
-    {
-      "added_at": "2022-08-23 03:46:09",
-      "album": {
-        "name": "Show Me The Money 9 Episode 3",
-        "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
-      },
-      "artists": [
-        {
-          "name": "lIlBOI",
-          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
-        },
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        },
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 276152,
-      "name": "Tomorrow (Feat. GIRIBOY, BIG Naughty)",
-      "url": "https://open.spotify.com/track/7K31QxS2DmTBxdYldd8yqf"
-    },
-    {
-      "added_at": "2022-08-23 03:46:09",
-      "album": {
         "name": "WATERFALL",
         "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
       },
@@ -195,6 +151,26 @@
       "duration_ms": 194111,
       "name": "Daydream (feat. LeeHi)",
       "url": "https://open.spotify.com/track/3dpXHWngKfsQ7YbyiC3VpH"
+    },
+    {
+      "added_at": "2022-08-23 03:46:09",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/5JEYiTvQmOPfMpiUoXq2U8"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "DUT2",
+          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
+        }
+      ],
+      "duration_ms": 239960,
+      "name": "Freedom (Feat. DUT2) (Prod. Way Ched)",
+      "url": "https://open.spotify.com/track/70DaoUGYskTAJeYGgH5mAh"
     },
     {
       "added_at": "2022-08-23 03:46:09",
@@ -287,6 +263,30 @@
     {
       "added_at": "2022-08-23 03:46:09",
       "album": {
+        "name": "Show Me The Money 9 Episode 3",
+        "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
+      },
+      "artists": [
+        {
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
+        },
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 276152,
+      "name": "Tomorrow (Feat. GIRIBOY, BIG Naughty)",
+      "url": "https://open.spotify.com/track/7K31QxS2DmTBxdYldd8yqf"
+    },
+    {
+      "added_at": "2022-08-23 03:46:09",
+      "album": {
         "name": "WATERFALL",
         "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
       },
@@ -319,74 +319,6 @@
       "duration_ms": 241333,
       "name": "Cold (Feat. SUPERBEE) (Prod. Way Ched)",
       "url": "https://open.spotify.com/track/187yTccJjpINpPGWH1qtDy"
-    },
-    {
-      "added_at": "2022-08-23 03:46:09",
-      "album": {
-        "name": "Show Me The Money 9 Final",
-        "url": "https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq"
-      },
-      "artists": [
-        {
-          "name": "lIlBOI",
-          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
-        },
-        {
-          "name": "YUMDDA",
-          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
-        },
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        },
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        }
-      ],
-      "duration_ms": 247718,
-      "name": "CREDIT (Feat. YUMDDA, GIRIBOY, Zion.T)",
-      "url": "https://open.spotify.com/track/2lHmx4nJOTGHx2PkEFMADF"
-    },
-    {
-      "added_at": "2022-08-23 03:46:09",
-      "album": {
-        "name": "TOYSTORY3",
-        "url": "https://open.spotify.com/album/2g9x0qCPJGKzfxqrVcgrVy"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "TOIL",
-          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
-        },
-        {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
-        }
-      ],
-      "duration_ms": 234306,
-      "name": "Never Ending Story (Feat. Dynamicduo)",
-      "url": "https://open.spotify.com/track/2kIvvkzrcrFqVdPGSHtKYO"
-    },
-    {
-      "added_at": "2022-08-23 03:46:09",
-      "album": {
-        "name": "X (Butterfly)",
-        "url": "https://open.spotify.com/album/3e2okh8YnoNB96g31VWF0O"
-      },
-      "artists": [
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 193622,
-      "name": "X (Butterfly)",
-      "url": "https://open.spotify.com/track/0igz9eQ1yNnb8RG8gkuSOS"
     },
     {
       "added_at": "2022-08-23 03:46:09",
@@ -431,26 +363,70 @@
     {
       "added_at": "2022-08-23 03:46:09",
       "album": {
-        "name": "Primary and Pphk Pt.1",
-        "url": "https://open.spotify.com/album/5CCVroCLwjRk4GDTwCaX4t"
+        "name": "TOYSTORY3",
+        "url": "https://open.spotify.com/album/2g9x0qCPJGKzfxqrVcgrVy"
       },
       "artists": [
         {
-          "name": "Primary",
-          "url": "https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep"
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
         },
         {
-          "name": "Pphk",
-          "url": "https://open.spotify.com/artist/7Aj5YhBa3fybV1CotHRftv"
+          "name": "TOIL",
+          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
         },
         {
-          "name": "\ub2e4\uc774\ub098\ubbf9 \ub4c0\uc624",
-          "url": "https://open.spotify.com/artist/16cRWWcs7lg0DxKweabRhf"
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
         }
       ],
-      "duration_ms": 248000,
-      "name": "Seat Belt (Feat. Dynamic Duo)",
-      "url": "https://open.spotify.com/track/2WcMriAJ84pN5ZW8cBiUnQ"
+      "duration_ms": 234306,
+      "name": "Never Ending Story (Feat. Dynamicduo)",
+      "url": "https://open.spotify.com/track/2kIvvkzrcrFqVdPGSHtKYO"
+    },
+    {
+      "added_at": "2022-08-23 03:46:09",
+      "album": {
+        "name": "X (Butterfly)",
+        "url": "https://open.spotify.com/album/3e2okh8YnoNB96g31VWF0O"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 193622,
+      "name": "X (Butterfly)",
+      "url": "https://open.spotify.com/track/0igz9eQ1yNnb8RG8gkuSOS"
+    },
+    {
+      "added_at": "2022-08-23 03:46:09",
+      "album": {
+        "name": "Show Me The Money 9 Final",
+        "url": "https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq"
+      },
+      "artists": [
+        {
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
+        },
+        {
+          "name": "YUMDDA",
+          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
+        },
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        },
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "duration_ms": 247718,
+      "name": "CREDIT (Feat. YUMDDA, GIRIBOY, Zion.T)",
+      "url": "https://open.spotify.com/track/2lHmx4nJOTGHx2PkEFMADF"
     },
     {
       "added_at": "2022-08-23 03:46:09",
@@ -471,6 +447,30 @@
       "duration_ms": 185808,
       "name": "Sleepless (feat. Heize)",
       "url": "https://open.spotify.com/track/3JsiJGVbCJM7cIb1YnlG96"
+    },
+    {
+      "added_at": "2022-08-23 03:46:09",
+      "album": {
+        "name": "Primary and Pphk Pt.1",
+        "url": "https://open.spotify.com/album/5CCVroCLwjRk4GDTwCaX4t"
+      },
+      "artists": [
+        {
+          "name": "Primary",
+          "url": "https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep"
+        },
+        {
+          "name": "Pphk",
+          "url": "https://open.spotify.com/artist/7Aj5YhBa3fybV1CotHRftv"
+        },
+        {
+          "name": "\ub2e4\uc774\ub098\ubbf9 \ub4c0\uc624",
+          "url": "https://open.spotify.com/artist/16cRWWcs7lg0DxKweabRhf"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Seat Belt (Feat. Dynamic Duo)",
+      "url": "https://open.spotify.com/track/2WcMriAJ84pN5ZW8cBiUnQ"
     },
     {
       "added_at": "2022-08-23 03:46:09",
@@ -555,30 +555,6 @@
     {
       "added_at": "2022-08-23 03:46:09",
       "album": {
-        "name": "Kang's Kitchen3",
-        "url": "https://open.spotify.com/album/6I5jZ0dOJLoyyiPvYEtbst"
-      },
-      "artists": [
-        {
-          "name": "MINO",
-          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
-        },
-        {
-          "name": "P.O",
-          "url": "https://open.spotify.com/artist/6mTcXVXmCixpsVnYDUpCnY"
-        },
-        {
-          "name": "KYUHYUN",
-          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
-        }
-      ],
-      "duration_ms": 182671,
-      "name": "Pat Pat",
-      "url": "https://open.spotify.com/track/6lejhkABV4Hns2v1ZJjPwJ"
-    },
-    {
-      "added_at": "2022-08-23 03:46:09",
-      "album": {
         "name": "FLOWER",
         "url": "https://open.spotify.com/album/5YfesWCO8uudoafLv2rQGQ"
       },
@@ -591,22 +567,6 @@
       "duration_ms": 247287,
       "name": "FLOWER (Prod. by AVIN)",
       "url": "https://open.spotify.com/track/0nUo9akDwQ5lHUZRjnlFE5"
-    },
-    {
-      "added_at": "2022-08-23 03:46:09",
-      "album": {
-        "name": "Epik High Is Here \u4e0b (Part 2)",
-        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
-      },
-      "artists": [
-        {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        }
-      ],
-      "duration_ms": 195373,
-      "name": "I Hated Myself (Tablo's Word)",
-      "url": "https://open.spotify.com/track/0I7O7S20w94zngDmDQolW1"
     },
     {
       "added_at": "2022-08-23 03:46:09",
@@ -631,6 +591,46 @@
     {
       "added_at": "2022-08-23 03:46:09",
       "album": {
+        "name": "Epik High Is Here \u4e0b (Part 2)",
+        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "duration_ms": 195373,
+      "name": "I Hated Myself (Tablo's Word)",
+      "url": "https://open.spotify.com/track/0I7O7S20w94zngDmDQolW1"
+    },
+    {
+      "added_at": "2022-08-23 03:46:09",
+      "album": {
+        "name": "Kang's Kitchen3",
+        "url": "https://open.spotify.com/album/6I5jZ0dOJLoyyiPvYEtbst"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        },
+        {
+          "name": "P.O",
+          "url": "https://open.spotify.com/artist/6mTcXVXmCixpsVnYDUpCnY"
+        },
+        {
+          "name": "KYUHYUN",
+          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
+        }
+      ],
+      "duration_ms": 182671,
+      "name": "Pat Pat",
+      "url": "https://open.spotify.com/track/6lejhkABV4Hns2v1ZJjPwJ"
+    },
+    {
+      "added_at": "2022-08-23 03:46:09",
+      "album": {
         "name": "2 4 : 2 6",
         "url": "https://open.spotify.com/album/7eaR08LzRS8EOKXBWMzaqV"
       },
@@ -643,22 +643,6 @@
       "duration_ms": 257919,
       "name": "If I Die Tomorrow",
       "url": "https://open.spotify.com/track/0XAjKGJBKFVfiG3XvGwIcH"
-    },
-    {
-      "added_at": "2022-08-23 03:46:09",
-      "album": {
-        "name": "DARKROOM : roommates only",
-        "url": "https://open.spotify.com/album/1BDiXHZ4Neq8jwC1lTcBzE"
-      },
-      "artists": [
-        {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
-        }
-      ],
-      "duration_ms": 209086,
-      "name": "home sh*t home",
-      "url": "https://open.spotify.com/track/3di8ahVaBcZg9OPq1JYa85"
     },
     {
       "added_at": "2022-08-23 03:46:09",
@@ -731,6 +715,22 @@
     {
       "added_at": "2022-08-23 03:46:09",
       "album": {
+        "name": "DARKROOM : roommates only",
+        "url": "https://open.spotify.com/album/1BDiXHZ4Neq8jwC1lTcBzE"
+      },
+      "artists": [
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        }
+      ],
+      "duration_ms": 209086,
+      "name": "home sh*t home",
+      "url": "https://open.spotify.com/track/3di8ahVaBcZg9OPq1JYa85"
+    },
+    {
+      "added_at": "2022-08-23 03:46:09",
+      "album": {
         "name": "WHISTLE",
         "url": "https://open.spotify.com/album/5UpN1ZUe7a4HMEl6pMnqM6"
       },
@@ -763,26 +763,6 @@
     {
       "added_at": "2022-08-23 03:46:09",
       "album": {
-        "name": "HELLP",
-        "url": "https://open.spotify.com/album/1XV4Tae3eibi8dM3igtbgM"
-      },
-      "artists": [
-        {
-          "name": "RYNO",
-          "url": "https://open.spotify.com/artist/5rIOZ6g7qSlq60wITUUle2"
-        },
-        {
-          "name": "MELOH",
-          "url": "https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg"
-        }
-      ],
-      "duration_ms": 206625,
-      "name": "HELLP",
-      "url": "https://open.spotify.com/track/2D3rC3VmUhf3fVZeRbAwcC"
-    },
-    {
-      "added_at": "2022-08-23 03:46:09",
-      "album": {
         "name": "Epik High Is Here \u4e0b (Part 2)",
         "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
       },
@@ -803,18 +783,22 @@
     {
       "added_at": "2022-08-23 03:46:09",
       "album": {
-        "name": "Still",
-        "url": "https://open.spotify.com/album/1hn2ZGbHCcJE8AsAVph2QI"
+        "name": "HELLP",
+        "url": "https://open.spotify.com/album/1XV4Tae3eibi8dM3igtbgM"
       },
       "artists": [
         {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+          "name": "RYNO",
+          "url": "https://open.spotify.com/artist/5rIOZ6g7qSlq60wITUUle2"
+        },
+        {
+          "name": "MELOH",
+          "url": "https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg"
         }
       ],
-      "duration_ms": 276612,
-      "name": "Still (feat.Crush)",
-      "url": "https://open.spotify.com/track/6z7gU9SBoBdqEaMi4jPKc2"
+      "duration_ms": 206625,
+      "name": "HELLP",
+      "url": "https://open.spotify.com/track/2D3rC3VmUhf3fVZeRbAwcC"
     },
     {
       "added_at": "2022-08-23 03:46:09",
@@ -835,18 +819,18 @@
     {
       "added_at": "2022-08-23 03:46:09",
       "album": {
-        "name": "Future Boy",
-        "url": "https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0"
+        "name": "Still",
+        "url": "https://open.spotify.com/album/1hn2ZGbHCcJE8AsAVph2QI"
       },
       "artists": [
         {
-          "name": "Juju B. Goode",
-          "url": "https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY"
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
         }
       ],
-      "duration_ms": 124263,
-      "name": "Future Boy",
-      "url": "https://open.spotify.com/track/2kbMfNEAfPuKwinUIj5opm"
+      "duration_ms": 276612,
+      "name": "Still (feat.Crush)",
+      "url": "https://open.spotify.com/track/6z7gU9SBoBdqEaMi4jPKc2"
     },
     {
       "added_at": "2022-08-23 03:46:09",
@@ -867,6 +851,22 @@
       "duration_ms": 229467,
       "name": "HERE (Prod. by CODE KUNST)",
       "url": "https://open.spotify.com/track/0CLJv5Pc0DZbuo78MqLyrG"
+    },
+    {
+      "added_at": "2022-08-23 03:46:09",
+      "album": {
+        "name": "Future Boy",
+        "url": "https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0"
+      },
+      "artists": [
+        {
+          "name": "Juju B. Goode",
+          "url": "https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY"
+        }
+      ],
+      "duration_ms": 124263,
+      "name": "Future Boy",
+      "url": "https://open.spotify.com/track/2kbMfNEAfPuKwinUIj5opm"
     },
     {
       "added_at": "2022-08-23 03:46:09",

@@ -1,12 +1,12 @@
 {
   "description": "Musica che, come la primavera, rende tutto pi\u00f9 bello.",
-  "num_followers": 55643,
+  "num_followers": 55641,
   "original_name": "Primavera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNDYwNjgwMywwMDAwMDAwMDcwMTdmMWExMTk1NzJkMWFiNmVhYjc4ZDUwZDY4Yzg2",
+  "snapshot_id": "MTYyNDYwNjgwMywwMDAwMDAwMGI5N2E0OGE3MDZjMzQ0ODViOTYzMmM2OWQyZTZlZmY0",
   "tracks": [
     {
       "added_at": "2021-06-25 07:40:03",
@@ -155,22 +155,6 @@
     {
       "added_at": "2021-06-25 07:40:03",
       "album": {
-        "name": "California 37",
-        "url": "https://open.spotify.com/album/5zseibu9WEsPaZmkJUMkz1"
-      },
-      "artists": [
-        {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-        }
-      ],
-      "duration_ms": 195973,
-      "name": "Drive By",
-      "url": "https://open.spotify.com/track/0KAiuUOrLTIkzkpfpn9jb9"
-    },
-    {
-      "added_at": "2021-06-25 07:40:03",
-      "album": {
         "name": "A/B",
         "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 201287,
       "name": "Shotgun",
       "url": "https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC"
+    },
+    {
+      "added_at": "2021-06-25 07:40:03",
+      "album": {
+        "name": "California 37",
+        "url": "https://open.spotify.com/album/5zseibu9WEsPaZmkJUMkz1"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "duration_ms": 195973,
+      "name": "Drive By",
+      "url": "https://open.spotify.com/track/0KAiuUOrLTIkzkpfpn9jb9"
     },
     {
       "added_at": "2021-06-25 07:40:03",
@@ -515,6 +515,22 @@
     {
       "added_at": "2021-06-25 07:40:03",
       "album": {
+        "name": "A Head Full of Dreams",
+        "url": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 405320,
+      "name": "Up&Up",
+      "url": "https://open.spotify.com/track/31L9yLXSj6LpCFupyMV6CR"
+    },
+    {
+      "added_at": "2021-06-25 07:40:03",
+      "album": {
         "name": "Up From Below (10th Anniversary Edition) [2019 - Remaster]",
         "url": "https://open.spotify.com/album/71eRIPUemoGlRpNryhlZjU"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 221093,
       "name": "Hold Up",
       "url": "https://open.spotify.com/track/0rzNMzZsubFcXSEh7dnem7"
-    },
-    {
-      "added_at": "2021-06-25 07:40:03",
-      "album": {
-        "name": "A Head Full of Dreams",
-        "url": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 405320,
-      "name": "Up&Up",
-      "url": "https://open.spotify.com/track/31L9yLXSj6LpCFupyMV6CR"
     },
     {
       "added_at": "2021-06-25 07:40:03",
@@ -843,26 +843,6 @@
     {
       "added_at": "2021-06-25 07:40:03",
       "album": {
-        "name": "Love To Lose",
-        "url": "https://open.spotify.com/album/1K5uj6UM29p2LCqUm0kv1Q"
-      },
-      "artists": [
-        {
-          "name": "Sandro Cavazza",
-          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
-        },
-        {
-          "name": "Georgia Ku",
-          "url": "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
-        }
-      ],
-      "duration_ms": 177731,
-      "name": "Love To Lose",
-      "url": "https://open.spotify.com/track/11lFSEnkj3810ojPLj53RO"
-    },
-    {
-      "added_at": "2021-06-25 07:40:03",
-      "album": {
         "name": "Father of the Bride",
         "url": "https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 156505,
       "name": "parachute",
       "url": "https://open.spotify.com/track/3orJ0XpgXRG1LTA521BpDz"
+    },
+    {
+      "added_at": "2021-06-25 07:40:03",
+      "album": {
+        "name": "Love To Lose",
+        "url": "https://open.spotify.com/album/1K5uj6UM29p2LCqUm0kv1Q"
+      },
+      "artists": [
+        {
+          "name": "Sandro Cavazza",
+          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
+        },
+        {
+          "name": "Georgia Ku",
+          "url": "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
+        }
+      ],
+      "duration_ms": 177731,
+      "name": "Love To Lose",
+      "url": "https://open.spotify.com/track/11lFSEnkj3810ojPLj53RO"
     },
     {
       "added_at": "2021-06-25 07:40:03",
@@ -975,6 +975,22 @@
     {
       "added_at": "2021-06-25 07:40:03",
       "album": {
+        "name": "The Art Of Celebration",
+        "url": "https://open.spotify.com/album/5wqj3h35WV6FxeoFs6981b"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "duration_ms": 224169,
+      "name": "My Lighthouse",
+      "url": "https://open.spotify.com/track/5AcdaSVQfLcUKMaqchfBie"
+    },
+    {
+      "added_at": "2021-06-25 07:40:03",
+      "album": {
         "name": "Pride",
         "url": "https://open.spotify.com/album/3P3zn45t3NEjaFILRIsybN"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 169453,
       "name": "Pride (with mxmtoon)",
       "url": "https://open.spotify.com/track/708HrtYYClY6j6EOiToEBy"
-    },
-    {
-      "added_at": "2021-06-25 07:40:03",
-      "album": {
-        "name": "The Art Of Celebration",
-        "url": "https://open.spotify.com/album/5wqj3h35WV6FxeoFs6981b"
-      },
-      "artists": [
-        {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
-        }
-      ],
-      "duration_ms": 224169,
-      "name": "My Lighthouse",
-      "url": "https://open.spotify.com/track/5AcdaSVQfLcUKMaqchfBie"
     },
     {
       "added_at": "2021-06-25 07:40:03",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2021-06-25 07:40:03",
       "album": {
-        "name": "TMRW",
-        "url": "https://open.spotify.com/album/6dgQDrfjCOe7E8ruh1ruWa"
-      },
-      "artists": [
-        {
-          "name": "Luke Christopher",
-          "url": "https://open.spotify.com/artist/787bCXOIvGeBw0Bc4kEjhD"
-        }
-      ],
-      "duration_ms": 248337,
-      "name": "Lot to Learn",
-      "url": "https://open.spotify.com/track/3TRFq09DUgYj1mug6RRqJW"
-    },
-    {
-      "added_at": "2021-06-25 07:40:03",
-      "album": {
         "name": "1.22.03 Acoustic",
         "url": "https://open.spotify.com/album/0BCjGDBIymcwf4etd4KBgu"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 254853,
       "name": "Sunday Morning - Acoustic",
       "url": "https://open.spotify.com/track/3bXhtg6H8lOMWaLZttQF6F"
+    },
+    {
+      "added_at": "2021-06-25 07:40:03",
+      "album": {
+        "name": "TMRW",
+        "url": "https://open.spotify.com/album/6dgQDrfjCOe7E8ruh1ruWa"
+      },
+      "artists": [
+        {
+          "name": "Luke Christopher",
+          "url": "https://open.spotify.com/artist/787bCXOIvGeBw0Bc4kEjhD"
+        }
+      ],
+      "duration_ms": 248337,
+      "name": "Lot to Learn",
+      "url": "https://open.spotify.com/track/3TRFq09DUgYj1mug6RRqJW"
     },
     {
       "added_at": "2021-06-25 07:40:03",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2021-06-25 07:40:03",
       "album": {
-        "name": "Soul (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
-      },
-      "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        }
-      ],
-      "duration_ms": 170186,
-      "name": "It's All Right",
-      "url": "https://open.spotify.com/track/4gzwK4RdSK9M43vPY68J2Y"
-    },
-    {
-      "added_at": "2021-06-25 07:40:03",
-      "album": {
         "name": "Look For The Good",
         "url": "https://open.spotify.com/album/4eTkXKtjSt3N5FqFhu2GZy"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 239697,
       "name": "Look For The Good - Single Version",
       "url": "https://open.spotify.com/track/4XI5GjQ6zcJXsDnuyOGGEa"
+    },
+    {
+      "added_at": "2021-06-25 07:40:03",
+      "album": {
+        "name": "Soul (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 170186,
+      "name": "It's All Right",
+      "url": "https://open.spotify.com/track/4gzwK4RdSK9M43vPY68J2Y"
     },
     {
       "added_at": "2021-06-25 07:40:03",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2021-06-25 07:40:03",
       "album": {
+        "name": "Long Way Down (Deluxe)",
+        "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 182720,
+      "name": "Grow Old with Me",
+      "url": "https://open.spotify.com/track/6xjxMWGsprmtUVMDaMhgH0"
+    },
+    {
+      "added_at": "2021-06-25 07:40:03",
+      "album": {
         "name": "love + everything else",
         "url": "https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5"
       },
@@ -1207,6 +1223,26 @@
       "duration_ms": 199169,
       "name": "cheap sunglasses",
       "url": "https://open.spotify.com/track/2FwP6d7xG5Hch65LBsa7Zi"
+    },
+    {
+      "added_at": "2021-06-25 07:40:03",
+      "album": {
+        "name": "Don't Let Me Down",
+        "url": "https://open.spotify.com/album/1q5yqfGMptiI6uTXKxXT1o"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        },
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 200391,
+      "name": "Don't Let Me Down",
+      "url": "https://open.spotify.com/track/4hoNqOv7FRMefk6yC83yqP"
     },
     {
       "added_at": "2021-06-25 07:40:03",
@@ -1243,42 +1279,6 @@
       "duration_ms": 238000,
       "name": "Posso (feat. Max Gazz\u00e9)",
       "url": "https://open.spotify.com/track/5N0nmOmc0MqPZTYKw4fVV6"
-    },
-    {
-      "added_at": "2021-06-25 07:40:03",
-      "album": {
-        "name": "Don't Let Me Down",
-        "url": "https://open.spotify.com/album/1q5yqfGMptiI6uTXKxXT1o"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        },
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 200391,
-      "name": "Don't Let Me Down",
-      "url": "https://open.spotify.com/track/4hoNqOv7FRMefk6yC83yqP"
-    },
-    {
-      "added_at": "2021-06-25 07:40:03",
-      "album": {
-        "name": "Long Way Down (Deluxe)",
-        "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 182720,
-      "name": "Grow Old with Me",
-      "url": "https://open.spotify.com/track/6xjxMWGsprmtUVMDaMhgH0"
     },
     {
       "added_at": "2021-06-25 07:40:03",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2021-06-25 07:40:03",
       "album": {
-        "name": "Ticket To Ride",
-        "url": "https://open.spotify.com/album/12uAbTxdZt1fKkHZVx5iCq"
-      },
-      "artists": [
-        {
-          "name": "KAWALA",
-          "url": "https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL"
-        }
-      ],
-      "duration_ms": 182066,
-      "name": "Ticket To Ride",
-      "url": "https://open.spotify.com/track/4AGjD3R8ch6JmvDLAwFw7P"
-    },
-    {
-      "added_at": "2021-06-25 07:40:03",
-      "album": {
         "name": "Relaxing Bossa Lounge 4",
         "url": "https://open.spotify.com/album/7FsSg66ihkEh20WpiGN2wg"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 264092,
       "name": "Green Light (Bossa Version)",
       "url": "https://open.spotify.com/track/22YXs3a3c8c6mOqUvi4Z98"
+    },
+    {
+      "added_at": "2021-06-25 07:40:03",
+      "album": {
+        "name": "Ticket To Ride",
+        "url": "https://open.spotify.com/album/12uAbTxdZt1fKkHZVx5iCq"
+      },
+      "artists": [
+        {
+          "name": "KAWALA",
+          "url": "https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL"
+        }
+      ],
+      "duration_ms": 182066,
+      "name": "Ticket To Ride",
+      "url": "https://open.spotify.com/track/4AGjD3R8ch6JmvDLAwFw7P"
     },
     {
       "added_at": "2021-06-25 07:40:03",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2021-06-25 07:40:03",
       "album": {
-        "name": "If You Need Me",
-        "url": "https://open.spotify.com/album/4eeHl4rHfVSo0IDTSZ2ECq"
-      },
-      "artists": [
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 216080,
-      "name": "If You Need Me",
-      "url": "https://open.spotify.com/track/3dqcHUPGMQD5baOC5Ylp7L"
-    },
-    {
-      "added_at": "2021-06-25 07:40:03",
-      "album": {
         "name": "Saint Cloud",
         "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 195600,
       "name": "Lilacs",
       "url": "https://open.spotify.com/track/69Akwuscu16hdYN637eTis"
+    },
+    {
+      "added_at": "2021-06-25 07:40:03",
+      "album": {
+        "name": "If You Need Me",
+        "url": "https://open.spotify.com/album/4eeHl4rHfVSo0IDTSZ2ECq"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 216080,
+      "name": "If You Need Me",
+      "url": "https://open.spotify.com/track/3dqcHUPGMQD5baOC5Ylp7L"
     },
     {
       "added_at": "2021-06-25 07:40:03",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2021-06-25 07:40:03",
       "album": {
+        "name": "Pretty Picture, Dirty Brush",
+        "url": "https://open.spotify.com/album/6gRMw9HleQT2CGc7gIPPdj"
+      },
+      "artists": [
+        {
+          "name": "The Harmaleighs",
+          "url": "https://open.spotify.com/artist/0JpiOyzO3e8FYCsDe8EaUN"
+        }
+      ],
+      "duration_ms": 156360,
+      "name": "I Keep Ticking On",
+      "url": "https://open.spotify.com/track/1Etp6DlUsn2P5im8f7J9HP"
+    },
+    {
+      "added_at": "2021-06-25 07:40:03",
+      "album": {
         "name": "Off",
         "url": "https://open.spotify.com/album/6i4QFrfQpEZhSlGjFcCMP8"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 165604,
       "name": "Off",
       "url": "https://open.spotify.com/track/73Ilcr8ZN7m1tKXRGax5JO"
-    },
-    {
-      "added_at": "2021-06-25 07:40:03",
-      "album": {
-        "name": "A Larum",
-        "url": "https://open.spotify.com/album/4si1HNK1gPFAYfONE19eih"
-      },
-      "artists": [
-        {
-          "name": "Johnny Flynn",
-          "url": "https://open.spotify.com/artist/1UQRtt7eHW6Bt4INNTUtb3"
-        }
-      ],
-      "duration_ms": 247080,
-      "name": "The Wrote & The Writ",
-      "url": "https://open.spotify.com/track/1vLH58T2L3uHryV2JAT8rk"
     },
     {
       "added_at": "2021-06-25 07:40:03",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2021-06-25 07:40:03",
       "album": {
-        "name": "Pretty Picture, Dirty Brush",
-        "url": "https://open.spotify.com/album/6gRMw9HleQT2CGc7gIPPdj"
-      },
-      "artists": [
-        {
-          "name": "The Harmaleighs",
-          "url": "https://open.spotify.com/artist/0JpiOyzO3e8FYCsDe8EaUN"
-        }
-      ],
-      "duration_ms": 156360,
-      "name": "I Keep Ticking On",
-      "url": "https://open.spotify.com/track/1Etp6DlUsn2P5im8f7J9HP"
-    },
-    {
-      "added_at": "2021-06-25 07:40:03",
-      "album": {
         "name": "ASYLUM",
         "url": "https://open.spotify.com/album/1qnAzDoa24ZYCZDzmP74sL"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 188587,
       "name": "Find Someone",
       "url": "https://open.spotify.com/track/3nZBR8LOcyeKa9GO7ZdDoG"
+    },
+    {
+      "added_at": "2021-06-25 07:40:03",
+      "album": {
+        "name": "A Larum",
+        "url": "https://open.spotify.com/album/4si1HNK1gPFAYfONE19eih"
+      },
+      "artists": [
+        {
+          "name": "Johnny Flynn",
+          "url": "https://open.spotify.com/artist/1UQRtt7eHW6Bt4INNTUtb3"
+        }
+      ],
+      "duration_ms": 247080,
+      "name": "The Wrote & The Writ",
+      "url": "https://open.spotify.com/track/1vLH58T2L3uHryV2JAT8rk"
     },
     {
       "added_at": "2021-06-25 07:40:03",

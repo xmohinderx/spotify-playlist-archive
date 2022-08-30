@@ -1,12 +1,12 @@
 {
   "description": "feel it all. Cover: My Chemical Romance",
-  "num_followers": 1338403,
+  "num_followers": 1338342,
   "original_name": "Emo Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTIwNDg2NywwMDAwMDAwMDg3ZmVmNmVjMjA5MmM0N2RmZDIzZTcwMDgwNzk2OWY3",
+  "snapshot_id": "MTY2MTIwNDg2NywwMDAwMDAwMDk4MDBiYTQ3NTI0NGIxYjE2NTQ3YmU4ZWU1YzVmOGY3",
   "tracks": [
     {
       "added_at": "2022-08-02 18:47:58",
@@ -107,6 +107,22 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
+        "name": "The Black Parade",
+        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 161920,
+      "name": "Teenagers",
+      "url": "https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0"
+    },
+    {
+      "added_at": "2022-08-02 18:47:58",
+      "album": {
         "name": "Rise And Fall, Rage And Grace",
         "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
       },
@@ -139,6 +155,22 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
+        "name": "The Silence In Black And White (Re-Issue)",
+        "url": "https://open.spotify.com/album/6ypfxw9fHuwow6dkcA4y1z"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 244480,
+      "name": "Ohio Is For Lovers",
+      "url": "https://open.spotify.com/track/23DHUWJ7iEieNPMPKvjzBV"
+    },
+    {
+      "added_at": "2022-08-02 18:47:58",
+      "album": {
         "name": "Collide With The Sky",
         "url": "https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk"
       },
@@ -159,38 +191,6 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
-        "name": "The Silence In Black And White (Re-Issue)",
-        "url": "https://open.spotify.com/album/6ypfxw9fHuwow6dkcA4y1z"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 244480,
-      "name": "Ohio Is For Lovers",
-      "url": "https://open.spotify.com/track/23DHUWJ7iEieNPMPKvjzBV"
-    },
-    {
-      "added_at": "2022-08-02 18:47:58",
-      "album": {
-        "name": "The Black Parade",
-        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 161920,
-      "name": "Teenagers",
-      "url": "https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0"
-    },
-    {
-      "added_at": "2022-08-02 18:47:58",
-      "album": {
         "name": "Bleed American",
         "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
       },
@@ -207,18 +207,18 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
-        "name": "Smash",
-        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
+        "name": "Riot!",
+        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
       },
       "artists": [
         {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 257826,
-      "name": "Self Esteem",
-      "url": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"
+      "duration_ms": 211520,
+      "name": "Misery Business",
+      "url": "https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU"
     },
     {
       "added_at": "2022-08-22 21:47:47",
@@ -235,22 +235,6 @@
       "duration_ms": 156666,
       "name": "Bury Me in Black - Demo",
       "url": "https://open.spotify.com/track/0uwM67BScty5fvQLUZneX5"
-    },
-    {
-      "added_at": "2022-08-02 18:47:58",
-      "album": {
-        "name": "Riot!",
-        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 211520,
-      "name": "Misery Business",
-      "url": "https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU"
     },
     {
       "added_at": "2022-08-02 18:47:58",
@@ -283,6 +267,22 @@
       "duration_ms": 192000,
       "name": "Face Down",
       "url": "https://open.spotify.com/track/4wzjNqjKAKDU82e8uMhzmr"
+    },
+    {
+      "added_at": "2022-08-02 18:47:58",
+      "album": {
+        "name": "Smash",
+        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 257826,
+      "name": "Self Esteem",
+      "url": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"
     },
     {
       "added_at": "2022-08-02 18:47:58",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
-        "name": "Three Cheers for Sweet Revenge",
-        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 204733,
-      "name": "Helena",
-      "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
-    },
-    {
-      "added_at": "2022-08-02 18:47:58",
-      "album": {
         "name": "The Young and The Hopeless",
         "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 175093,
       "name": "The Anthem",
       "url": "https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu"
+    },
+    {
+      "added_at": "2022-08-02 18:47:58",
+      "album": {
+        "name": "Three Cheers for Sweet Revenge",
+        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 204733,
+      "name": "Helena",
+      "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
     },
     {
       "added_at": "2022-08-02 18:47:58",
@@ -431,18 +431,18 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
-        "name": "Homesick",
-        "url": "https://open.spotify.com/album/6MEv8dNtVbKDW1WG4Hk6WZ"
+        "name": "The Black Parade",
+        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
       },
       "artists": [
         {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         }
       ],
-      "duration_ms": 209093,
-      "name": "The Downfall Of Us All",
-      "url": "https://open.spotify.com/track/1KHKeIouP04dDtl0EetgED"
+      "duration_ms": 299226,
+      "name": "Famous Last Words",
+      "url": "https://open.spotify.com/track/2d6m2F4I7wCuAKtSsdhh83"
     },
     {
       "added_at": "2022-08-02 18:47:58",
@@ -463,6 +463,22 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
+        "name": "Homesick",
+        "url": "https://open.spotify.com/album/6MEv8dNtVbKDW1WG4Hk6WZ"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 209093,
+      "name": "The Downfall Of Us All",
+      "url": "https://open.spotify.com/track/1KHKeIouP04dDtl0EetgED"
+    },
+    {
+      "added_at": "2022-08-02 18:47:58",
+      "album": {
         "name": "Louder Now (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 208280,
       "name": "MakeDamnSure",
       "url": "https://open.spotify.com/track/6fTgbkBiMITtHUmik95ClX"
-    },
-    {
-      "added_at": "2022-08-02 18:47:58",
-      "album": {
-        "name": "The Black Parade",
-        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 299226,
-      "name": "Famous Last Words",
-      "url": "https://open.spotify.com/track/2d6m2F4I7wCuAKtSsdhh83"
     },
     {
       "added_at": "2022-08-02 18:47:58",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
-        "name": "Homesick",
-        "url": "https://open.spotify.com/album/6MEv8dNtVbKDW1WG4Hk6WZ"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 243226,
-      "name": "If It Means A Lot To You",
-      "url": "https://open.spotify.com/track/3rEwGRmPVVudVjqdgv0tRR"
-    },
-    {
-      "added_at": "2022-08-02 18:47:58",
-      "album": {
         "name": "A Lesson In Romantics",
         "url": "https://open.spotify.com/album/0UtenXp3qVbWedKEaNRAp9"
       },
@@ -571,22 +555,6 @@
       "duration_ms": 216000,
       "name": "Jamie All Over",
       "url": "https://open.spotify.com/track/05qCCJQJiOwvPQBb7akf1R"
-    },
-    {
-      "added_at": "2022-08-02 18:47:58",
-      "album": {
-        "name": "Brand New Eyes",
-        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 253946,
-      "name": "Brick by Boring Brick",
-      "url": "https://open.spotify.com/track/1a9YW7fATU351ok4zWjU7a"
     },
     {
       "added_at": "2022-08-02 18:47:58",
@@ -607,34 +575,18 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
-        "name": "Palm Trees and Power Lines",
-        "url": "https://open.spotify.com/album/5pCXe1ZrHEUZeYhMCe0pLX"
+        "name": "Brand New Eyes",
+        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
       },
       "artists": [
         {
-          "name": "Sugarcult",
-          "url": "https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW"
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 226080,
-      "name": "Memory",
-      "url": "https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J"
-    },
-    {
-      "added_at": "2022-08-02 18:47:58",
-      "album": {
-        "name": "Dying Is Your Latest Fashion",
-        "url": "https://open.spotify.com/album/01ufkmZ5R6UvEqKWfuNotw"
-      },
-      "artists": [
-        {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
-        }
-      ],
-      "duration_ms": 187880,
-      "name": "Situations",
-      "url": "https://open.spotify.com/track/1Fu9o08qEKVEwzU8siVcig"
+      "duration_ms": 253946,
+      "name": "Brick by Boring Brick",
+      "url": "https://open.spotify.com/track/1a9YW7fATU351ok4zWjU7a"
     },
     {
       "added_at": "2022-08-02 18:47:58",
@@ -655,18 +607,34 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
-        "name": "Give Up (Deluxe 10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5MoaDbFw4nrm2P7Om1on3b"
+        "name": "Dying Is Your Latest Fashion",
+        "url": "https://open.spotify.com/album/01ufkmZ5R6UvEqKWfuNotw"
       },
       "artists": [
         {
-          "name": "The Postal Service",
-          "url": "https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj"
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
         }
       ],
-      "duration_ms": 266506,
-      "name": "Such Great Heights - Remastered",
-      "url": "https://open.spotify.com/track/4G21jWo0Cm6lOIUNnZ2mUI"
+      "duration_ms": 187880,
+      "name": "Situations",
+      "url": "https://open.spotify.com/track/1Fu9o08qEKVEwzU8siVcig"
+    },
+    {
+      "added_at": "2022-08-02 18:47:58",
+      "album": {
+        "name": "Homesick",
+        "url": "https://open.spotify.com/album/6MEv8dNtVbKDW1WG4Hk6WZ"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 243226,
+      "name": "If It Means A Lot To You",
+      "url": "https://open.spotify.com/track/3rEwGRmPVVudVjqdgv0tRR"
     },
     {
       "added_at": "2022-08-02 18:47:58",
@@ -683,6 +651,38 @@
       "duration_ms": 193653,
       "name": "Dirty Little Secret",
       "url": "https://open.spotify.com/track/5ZdzNVOmCSp5HFLk0EgvJS"
+    },
+    {
+      "added_at": "2022-08-02 18:47:58",
+      "album": {
+        "name": "Palm Trees and Power Lines",
+        "url": "https://open.spotify.com/album/5pCXe1ZrHEUZeYhMCe0pLX"
+      },
+      "artists": [
+        {
+          "name": "Sugarcult",
+          "url": "https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW"
+        }
+      ],
+      "duration_ms": 226080,
+      "name": "Memory",
+      "url": "https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J"
+    },
+    {
+      "added_at": "2022-08-02 18:47:58",
+      "album": {
+        "name": "Give Up (Deluxe 10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5MoaDbFw4nrm2P7Om1on3b"
+      },
+      "artists": [
+        {
+          "name": "The Postal Service",
+          "url": "https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj"
+        }
+      ],
+      "duration_ms": 266506,
+      "name": "Such Great Heights - Remastered",
+      "url": "https://open.spotify.com/track/4G21jWo0Cm6lOIUNnZ2mUI"
     },
     {
       "added_at": "2022-08-02 18:47:58",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
-        "name": "Sing The Sorrow",
-        "url": "https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 190493,
-      "name": "Girl's Not Grey",
-      "url": "https://open.spotify.com/track/3fttmSWGThBQTNkuHMoCTN"
-    },
-    {
-      "added_at": "2022-08-02 18:47:58",
-      "album": {
         "name": "Never Take Friendship Personal",
         "url": "https://open.spotify.com/album/7F1dp39OljDwaJes2ruO0w"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 207360,
       "name": "The Feel Good Drag",
       "url": "https://open.spotify.com/track/5sTVykpRs4eiZKn96bZogj"
+    },
+    {
+      "added_at": "2022-08-02 18:47:58",
+      "album": {
+        "name": "Sing The Sorrow",
+        "url": "https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 190493,
+      "name": "Girl's Not Grey",
+      "url": "https://open.spotify.com/track/3fttmSWGThBQTNkuHMoCTN"
     },
     {
       "added_at": "2022-08-02 18:47:58",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
-        "name": "Dusk And Summer",
-        "url": "https://open.spotify.com/album/6HNDip6KYIQapVTDziA91U"
-      },
-      "artists": [
-        {
-          "name": "Dashboard Confessional",
-          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
-        }
-      ],
-      "duration_ms": 201346,
-      "name": "Vindicated",
-      "url": "https://open.spotify.com/track/1EotcFbWTbMCXeKFVEtX6Y"
-    },
-    {
-      "added_at": "2022-08-02 18:47:58",
-      "album": {
         "name": "Free Your Mind",
         "url": "https://open.spotify.com/album/58Jc2HiAkRzpBQlbknJbtP"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 219266,
       "name": "The Artist In The Ambulance",
       "url": "https://open.spotify.com/track/0arNrzPygksLY2pEbRgBjw"
+    },
+    {
+      "added_at": "2022-08-02 18:47:58",
+      "album": {
+        "name": "Dusk And Summer",
+        "url": "https://open.spotify.com/album/6HNDip6KYIQapVTDziA91U"
+      },
+      "artists": [
+        {
+          "name": "Dashboard Confessional",
+          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
+        }
+      ],
+      "duration_ms": 201346,
+      "name": "Vindicated",
+      "url": "https://open.spotify.com/track/1EotcFbWTbMCXeKFVEtX6Y"
     },
     {
       "added_at": "2022-08-02 18:47:58",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
-        "name": "Is a Real Boy",
-        "url": "https://open.spotify.com/album/6V00weqCQp55eUDYewW1cG"
-      },
-      "artists": [
-        {
-          "name": "Say Anything",
-          "url": "https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4"
-        }
-      ],
-      "duration_ms": 255175,
-      "name": "Alive With the Glory of Love",
-      "url": "https://open.spotify.com/track/1va84KD7DrxZ8U09Per4L8"
-    },
-    {
-      "added_at": "2022-08-02 18:47:58",
-      "album": {
         "name": "Discovering The Waterfront",
         "url": "https://open.spotify.com/album/6j7O6N9Tp2Tac9hkEpt0zZ"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 207586,
       "name": "My Heroine",
       "url": "https://open.spotify.com/track/6NDoBIaqTHdcudaR8RDJNw"
+    },
+    {
+      "added_at": "2022-08-02 18:47:58",
+      "album": {
+        "name": "Is a Real Boy",
+        "url": "https://open.spotify.com/album/6V00weqCQp55eUDYewW1cG"
+      },
+      "artists": [
+        {
+          "name": "Say Anything",
+          "url": "https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4"
+        }
+      ],
+      "duration_ms": 255175,
+      "name": "Alive With the Glory of Love",
+      "url": "https://open.spotify.com/track/1va84KD7DrxZ8U09Per4L8"
     },
     {
       "added_at": "2022-08-02 18:47:58",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
-        "name": "The Used",
-        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 242133,
-      "name": "Buried Myself Alive",
-      "url": "https://open.spotify.com/track/746bHsY27aWTMYpoxqECOm"
-    },
-    {
-      "added_at": "2022-08-02 18:47:58",
-      "album": {
         "name": "A Lesson In Romantics",
         "url": "https://open.spotify.com/album/0UtenXp3qVbWedKEaNRAp9"
       },
@@ -1199,18 +1183,34 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
-        "name": "Saosin",
-        "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
+        "name": "Fast Times At Barrington High",
+        "url": "https://open.spotify.com/album/2IEGo0H1J8AihVqaf5ghkJ"
       },
       "artists": [
         {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+          "name": "The Academy Is...",
+          "url": "https://open.spotify.com/artist/3jwm6OBdUY5xzFiFIPhMHu"
         }
       ],
-      "duration_ms": 217524,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/71U9X93wy4BQGyvmjFqApv"
+      "duration_ms": 210333,
+      "name": "About a Girl",
+      "url": "https://open.spotify.com/track/5johpJIVjqU2Ki03DOA7Jr"
+    },
+    {
+      "added_at": "2022-08-02 18:47:58",
+      "album": {
+        "name": "The Used",
+        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 242133,
+      "name": "Buried Myself Alive",
+      "url": "https://open.spotify.com/track/746bHsY27aWTMYpoxqECOm"
     }
   ],
   "unique_name": "Emo Forever",

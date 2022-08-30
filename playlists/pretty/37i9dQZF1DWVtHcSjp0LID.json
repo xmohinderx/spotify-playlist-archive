@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 43849,
+  "num_followers": 43874,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMGJkNDIxNjA3MWE5MWFhOWRlNzU4MTYwODQxYzM1NTc4",
+  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMDQ4MjYwZGY2ZDgwNjMxY2E4NzRiOWJiNTVlOTRiMjlm",
   "tracks": [
     {
       "added_at": "2022-07-15 17:34:15",
@@ -131,6 +131,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "Anatolia",
+        "url": "https://open.spotify.com/album/6dITVz5ayEYI52QZ6Oy8rq"
+      },
+      "artists": [
+        {
+          "name": "Thylacine",
+          "url": "https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn"
+        }
+      ],
+      "duration_ms": 309847,
+      "name": "Anatolia",
+      "url": "https://open.spotify.com/track/636ieo1frTLl9XvQwalG1o"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "Opal (Four Tet Remix)",
         "url": "https://open.spotify.com/album/2cPmeKiyUBdYDyFG3nbPpN"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 494256,
       "name": "Opal - Four Tet Remix",
       "url": "https://open.spotify.com/track/3VtTuQ6lypMoOBcm6VMzdh"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Anatolia",
-        "url": "https://open.spotify.com/album/6dITVz5ayEYI52QZ6Oy8rq"
-      },
-      "artists": [
-        {
-          "name": "Thylacine",
-          "url": "https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn"
-        }
-      ],
-      "duration_ms": 309847,
-      "name": "Anatolia",
-      "url": "https://open.spotify.com/track/636ieo1frTLl9XvQwalG1o"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Mellowdramatic",
-        "url": "https://open.spotify.com/album/2I95PYKCg7XXV6yHKVOtW3"
-      },
-      "artists": [
-        {
-          "name": "A Forest Mighty Black",
-          "url": "https://open.spotify.com/artist/0kvh70DV0fgXwIVVtwNs9y"
-        }
-      ],
-      "duration_ms": 439160,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/4appx9msZbhhFpSrKOlVz1"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Epoch",
         "url": "https://open.spotify.com/album/2hgVjzYQb3Yb5FHT8smg4T"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 345387,
       "name": "Epoch",
       "url": "https://open.spotify.com/track/18xvedQqps2lWmU3PKsBoY"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Mellowdramatic",
+        "url": "https://open.spotify.com/album/2I95PYKCg7XXV6yHKVOtW3"
+      },
+      "artists": [
+        {
+          "name": "A Forest Mighty Black",
+          "url": "https://open.spotify.com/artist/0kvh70DV0fgXwIVVtwNs9y"
+        }
+      ],
+      "duration_ms": 439160,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/4appx9msZbhhFpSrKOlVz1"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -451,26 +451,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Blurred",
-        "url": "https://open.spotify.com/album/6buz46xNMKBZ5xItTu5rDK"
-      },
-      "artists": [
-        {
-          "name": "Kiasmos",
-          "url": "https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD"
-        },
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 361160,
-      "name": "Blurred - Bonobo Remix",
-      "url": "https://open.spotify.com/track/4uayzCHBoZ1cpTSpMmdMXB"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Caturne V - EP",
         "url": "https://open.spotify.com/album/0ZBsAyv2qM5cNaYSYAdSQ1"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 95973,
       "name": "Bocuma",
       "url": "https://open.spotify.com/track/4Hmc81ZS9s2WlTvOsuoiTQ"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Blurred",
+        "url": "https://open.spotify.com/album/6buz46xNMKBZ5xItTu5rDK"
+      },
+      "artists": [
+        {
+          "name": "Kiasmos",
+          "url": "https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD"
+        },
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 361160,
+      "name": "Blurred - Bonobo Remix",
+      "url": "https://open.spotify.com/track/4uayzCHBoZ1cpTSpMmdMXB"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -835,6 +835,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "Warped",
+        "url": "https://open.spotify.com/album/6XCDqHX603iScKjeb9ffAG"
+      },
+      "artists": [
+        {
+          "name": "Joyhauser",
+          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
+        }
+      ],
+      "duration_ms": 450457,
+      "name": "Warped",
+      "url": "https://open.spotify.com/track/3jgpE2RhPNOD98t5PoYTrT"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "What I Saw That Night",
         "url": "https://open.spotify.com/album/2aivF6gzeacxE64m0jvfGU"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 420465,
       "name": "What I Saw That Night",
       "url": "https://open.spotify.com/track/4ApOByOlG6mFtAtn7TjEs1"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Warped",
-        "url": "https://open.spotify.com/album/6XCDqHX603iScKjeb9ffAG"
-      },
-      "artists": [
-        {
-          "name": "Joyhauser",
-          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
-        }
-      ],
-      "duration_ms": 450457,
-      "name": "Warped",
-      "url": "https://open.spotify.com/track/3jgpE2RhPNOD98t5PoYTrT"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Aerial",
-        "url": "https://open.spotify.com/album/3uV2tuCayo5bl19yAPav89"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9pe",
-          "url": "https://open.spotify.com/artist/07AMonlLsjj4dHFU2pRjdZ"
-        }
-      ],
-      "duration_ms": 369714,
-      "name": "As Long as There's Sunset",
-      "url": "https://open.spotify.com/track/5eQ2YObncpEg7yizNJFQsW"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Moons",
         "url": "https://open.spotify.com/album/3tIgTO7IeJfRd4rUDyxAUb"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 217411,
       "name": "Moons",
       "url": "https://open.spotify.com/track/4t4uk0wS8mvGwuAsGW9TB8"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Aerial",
+        "url": "https://open.spotify.com/album/3uV2tuCayo5bl19yAPav89"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9pe",
+          "url": "https://open.spotify.com/artist/07AMonlLsjj4dHFU2pRjdZ"
+        }
+      ],
+      "duration_ms": 369714,
+      "name": "As Long as There's Sunset",
+      "url": "https://open.spotify.com/track/5eQ2YObncpEg7yizNJFQsW"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -987,22 +987,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "When the Rain",
-        "url": "https://open.spotify.com/album/2dwUpYD9rU1rVMBst4Dy66"
-      },
-      "artists": [
-        {
-          "name": "Trudge",
-          "url": "https://open.spotify.com/artist/52mz9PgySAnFsUn6YoW8YG"
-        }
-      ],
-      "duration_ms": 400327,
-      "name": "Deep Eyes Blue Skies",
-      "url": "https://open.spotify.com/track/6suIXGZs9DIIxcUzl4Ilot"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "like me",
         "url": "https://open.spotify.com/album/3b5GMe23M4eZ8uqOplgPup"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 311186,
       "name": "like me",
       "url": "https://open.spotify.com/track/6CJwIcJNQStg1cgRBMLM76"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "When the Rain",
+        "url": "https://open.spotify.com/album/2dwUpYD9rU1rVMBst4Dy66"
+      },
+      "artists": [
+        {
+          "name": "Trudge",
+          "url": "https://open.spotify.com/artist/52mz9PgySAnFsUn6YoW8YG"
+        }
+      ],
+      "duration_ms": 400327,
+      "name": "Deep Eyes Blue Skies",
+      "url": "https://open.spotify.com/track/6suIXGZs9DIIxcUzl4Ilot"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1119,22 +1119,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Thunderstorm EP",
-        "url": "https://open.spotify.com/album/6R30YrcG8zrQwb5IpPsmWS"
+        "name": "Ibb & Obb (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/727kXExYDKMWSzYwJH7Dg6"
       },
       "artists": [
         {
-          "name": "Dok & Martin",
-          "url": "https://open.spotify.com/artist/1rV7LSzJ2ZzL3FicYplmLX"
-        },
-        {
-          "name": "Carlos P\u00e9rez",
-          "url": "https://open.spotify.com/artist/6L9nhBLgFJjNsV6BJDhqRr"
+          "name": "Kettel",
+          "url": "https://open.spotify.com/artist/0R879eeczZPVAwTrbKXREp"
         }
       ],
-      "duration_ms": 417246,
-      "name": "Immortal",
-      "url": "https://open.spotify.com/track/3Y7kUkLjiY70JafNJnC31R"
+      "duration_ms": 154781,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/4qjCPbyCkFsEwHaZu1m6EO"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1151,6 +1147,26 @@
       "duration_ms": 344978,
       "name": "Trivia",
       "url": "https://open.spotify.com/track/3RdmKETgOJTBvNH8DBH5ND"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Thunderstorm EP",
+        "url": "https://open.spotify.com/album/6R30YrcG8zrQwb5IpPsmWS"
+      },
+      "artists": [
+        {
+          "name": "Dok & Martin",
+          "url": "https://open.spotify.com/artist/1rV7LSzJ2ZzL3FicYplmLX"
+        },
+        {
+          "name": "Carlos P\u00e9rez",
+          "url": "https://open.spotify.com/artist/6L9nhBLgFJjNsV6BJDhqRr"
+        }
+      ],
+      "duration_ms": 417246,
+      "name": "Immortal",
+      "url": "https://open.spotify.com/track/3Y7kUkLjiY70JafNJnC31R"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1203,22 +1219,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Ibb & Obb (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/727kXExYDKMWSzYwJH7Dg6"
-      },
-      "artists": [
-        {
-          "name": "Kettel",
-          "url": "https://open.spotify.com/artist/0R879eeczZPVAwTrbKXREp"
-        }
-      ],
-      "duration_ms": 154781,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/4qjCPbyCkFsEwHaZu1m6EO"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Foans",
         "url": "https://open.spotify.com/album/3TGK3p8EtGd4NeK80rXXWn"
       },
@@ -1247,22 +1247,6 @@
       "duration_ms": 447340,
       "name": "Beirut",
       "url": "https://open.spotify.com/track/3Yfs5ZmkP7FgMzREvrgS07"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Frekk EP",
-        "url": "https://open.spotify.com/album/1OEm5cnudsYGee21Ic1nYE"
-      },
-      "artists": [
-        {
-          "name": "Async",
-          "url": "https://open.spotify.com/artist/5PZlBEt3wsD3kAw6i7Mz0t"
-        }
-      ],
-      "duration_ms": 474009,
-      "name": "Deepart 8.0",
-      "url": "https://open.spotify.com/track/1TmgIqBZJsMvs4p96tEWrI"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1311,6 +1295,22 @@
       "duration_ms": 315733,
       "name": "Overhead",
       "url": "https://open.spotify.com/track/1QuON1epjuRDg6PbGGLKCb"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Frekk EP",
+        "url": "https://open.spotify.com/album/1OEm5cnudsYGee21Ic1nYE"
+      },
+      "artists": [
+        {
+          "name": "Async",
+          "url": "https://open.spotify.com/artist/5PZlBEt3wsD3kAw6i7Mz0t"
+        }
+      ],
+      "duration_ms": 474009,
+      "name": "Deepart 8.0",
+      "url": "https://open.spotify.com/track/1TmgIqBZJsMvs4p96tEWrI"
     },
     {
       "added_at": "2022-07-15 17:34:15",

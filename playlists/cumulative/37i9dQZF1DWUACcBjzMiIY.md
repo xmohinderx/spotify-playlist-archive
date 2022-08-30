@@ -4,7 +4,7 @@
 
 > Easy listening for a pleasant drive.
 
-338 songs - 21 hr 37 min - [published](https://open.spotify.com/playlist/1d47Qc11bpmTvpUoDV1dDf)
+340 songs - 21 hr 44 min - [published](https://open.spotify.com/playlist/1d47Qc11bpmTvpUoDV1dDf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Home](https://open.spotify.com/track/3lyLqIn8mybyEFTs8JJaLf) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [It's Time](https://open.spotify.com/album/1f9vWKabhNPNQnHLleExSh) | 3:45 | 2019-06-21 | 2022-07-29 |
 | [Home](https://open.spotify.com/track/4wLZ4zPM9c4oe1VV8ejdWV) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [It's Time](https://open.spotify.com/album/2koUTBXkwUt2uJYv0uezHx) | 3:45 | 2019-06-21 |  |
 | [Home](https://open.spotify.com/track/2ZQyksYO4zzhyHNcueL0CP) | [Phillip Phillips](https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4) | [Home](https://open.spotify.com/album/3ZZ8jN93SBl4v8lF79eVzS) | 3:29 | 2019-06-21 | 2022-07-29 |
+| [Home](https://open.spotify.com/track/1EAgPzRbK9YmdOESSMUm6P) | [Phillip Phillips](https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4) | [The World From The Side Of The Moon](https://open.spotify.com/album/0zIb6xazDd72sVT8OtPX3E) | 3:30 | 2019-06-21 |  |
 | [Home](https://open.spotify.com/track/4rsW3WCZBGwhHfJWuHRwyT) | [Phillip Phillips](https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4) | [The World From The Side Of The Moon \(Deluxe\)](https://open.spotify.com/album/773GsAWk3z8mGgMDeR7n1A) | 3:30 | 2019-06-21 | 2022-08-25 |
 | [Honest](https://open.spotify.com/track/6KjbNLbRjuoa8rEq5yNA6H) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Memories...Do Not Open](https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr) | 3:28 | 2019-06-21 |  |
 | [Honeybee](https://open.spotify.com/track/5CalS8Gn69OOrR9aiw0ZO9) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Living Mirage](https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT) | 3:16 | 2019-06-21 |  |
@@ -189,7 +190,7 @@
 | [Magic](https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 4:45 | 2019-06-21 |  |
 | [Make It To Me](https://open.spotify.com/track/2VZ8vDGBVKW5shpP3ytWSz) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Deluxe\)](https://open.spotify.com/album/48Q27KoyKp38caYPuy0KXD) | 2:42 | 2019-06-21 | 2022-07-29 |
 | [Make It To Me](https://open.spotify.com/track/2uCMaUojwuqr8CRGsLoPa6) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x) | 2:42 | 2019-06-21 |  |
-| [Make You Feel My Love](https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0) | 3:32 | 2019-06-21 |  |
+| [Make You Feel My Love](https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0) | 3:32 | 2019-06-21 | 2022-08-30 |
 | [Make You Feel My Love](https://open.spotify.com/track/7rPLZ8Krm6CZIbraFUlnWZ) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/6Pb3K1oPXdhsqFXtzKe3Z1) | 3:32 | 2019-06-21 | 2022-07-29 |
 | [Malibu](https://open.spotify.com/track/2habSXqcJGExM6JJyskY7O) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Malibu](https://open.spotify.com/album/7CUczABBlsbd5fqng9mjxo) | 3:51 | 2019-06-21 | 2022-07-29 |
 | [Malibu](https://open.spotify.com/track/1UZOjK1BwmwWU14Erba9CZ) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Younger Now](https://open.spotify.com/album/5xG9gJcs9ut3qDWezHUlsX) | 3:51 | 2019-06-21 |  |
@@ -244,6 +245,7 @@
 | [Say Something](https://open.spotify.com/track/78TKtlSLWK8pZAKKW3MyQL) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Say Something](https://open.spotify.com/album/0cHs4eStEKsSiDNxzu9ut5) | 3:49 | 2019-06-21 | 2022-07-29 |
 | [Say You Love Me](https://open.spotify.com/track/2hcPE11xSLCNHt5PYidj5U) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Say You Love Me](https://open.spotify.com/album/5ibkHQmhFSGfaCqMT0z7QR) | 4:17 | 2019-06-21 | 2022-07-29 |
 | [Say You Won't Let Go](https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:31 | 2019-06-21 |  |
+| [Send My Love \(To Your New Lover\)](https://open.spotify.com/track/0t7fVeEJxO2Xi4H2K5Svc9) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 3:43 | 2019-06-21 |  |
 | [Send My Love \(To Your New Lover\)](https://open.spotify.com/track/3LGxef3inmn5jMLGDz9lqw) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Send My Love \(To Your New Lover\)](https://open.spotify.com/album/7xX2GJWXXgIwamzN2vxXy0) | 3:43 | 2019-06-21 | 2022-07-29 |
 | [September Song](https://open.spotify.com/track/0zbzrhfVS9S2TszW3wLQZ7) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:40 | 2019-06-21 |  |
 | [Set Fire to the Rain](https://open.spotify.com/track/3CKCZ9pfwAfoMZlMncA1Nc) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/1azUkThwd2HfUDdeNeT147) | 4:01 | 2019-06-21 | 2022-07-27 |
@@ -267,7 +269,7 @@
 | [Someone Like You](https://open.spotify.com/track/4kflIGfjdZJW4ot2ioixTB) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/1azUkThwd2HfUDdeNeT147) | 4:45 | 2019-06-21 | 2022-07-29 |
 | [Someone Like You](https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 4:45 | 2019-06-21 |  |
 | [Someone Like You](https://open.spotify.com/track/4dp8cI4USaMlFzJ5MeBsVs) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [New Acoustic Sessions, Vol\. 3](https://open.spotify.com/album/4gU5s9CPcYF1qDt5zCePiU) | 4:36 | 2019-06-21 | 2022-07-20 |
-| [Someone Like You](https://open.spotify.com/track/6VtoP2sJt5oCmPOQIve2sf) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Cover Sessions, Vol\. 2](https://open.spotify.com/album/7hh9qCfFuLlaMpjCMzTiZz) | 4:36 | 2019-06-21 |  |
+| [Someone Like You](https://open.spotify.com/track/6VtoP2sJt5oCmPOQIve2sf) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Cover Sessions, Vol\. 2](https://open.spotify.com/album/7hh9qCfFuLlaMpjCMzTiZz) | 4:36 | 2019-06-21 | 2022-08-30 |
 | [Somewhere Only We Know](https://open.spotify.com/track/1mvfvDZOybiEgS1ecJxt9W) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Sheezus](https://open.spotify.com/album/5Swr80WlTTC0PKExtoU4jU) | 3:28 | 2019-06-21 | 2022-07-29 |
 | [Speed Limit \(Acoustic\)](https://open.spotify.com/track/6M1f126jYXwFo3eUMrOmem) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [No Limits](https://open.spotify.com/album/22nQUXuJAYDf4xRhZmvTmZ) | 3:50 | 2019-06-21 | 2022-07-29 |
 | [Stand and Deliver](https://open.spotify.com/track/26UtMfMsdOlhADitgUuqCG) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Patrick Droney](https://open.spotify.com/album/3tdnCuYNUXbWjeTEfFFZ31) | 3:43 | 2019-06-21 | 2022-07-29 |

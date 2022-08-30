@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists\. Cover: Dylan Fraser
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,906 likes - 122 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,894 likes - 122 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

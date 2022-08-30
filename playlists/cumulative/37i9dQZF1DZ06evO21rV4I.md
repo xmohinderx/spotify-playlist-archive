@@ -4,7 +4,7 @@
 
 > This is WizKid\. The essential tracks, all in one playlist.
 
-73 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/3NgCcemLv1S1XcSzkm8aIh)
+74 songs - 4 hr 23 min - [published](https://open.spotify.com/playlist/3NgCcemLv1S1XcSzkm8aIh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [In My Bed](https://open.spotify.com/track/002qGVBq254LJPG0t5uNv8) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Ayo](https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq) | 3:50 | 2022-08-06 | 2022-08-20 |
 | [In My Bed](https://open.spotify.com/track/4yFQ8dqrFKghN8uGfQoUca) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Ayo](https://open.spotify.com/album/2O8egayngzl1fm5dcE4VX9) | 3:50 | 2021-12-28 | 2022-03-21 |
 | [Jaiye Jaiye](https://open.spotify.com/track/2gRzl3pbDoFoHfzRsmkQhf) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Femi Kuti](https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb) | [Ayo](https://open.spotify.com/album/2O8egayngzl1fm5dcE4VX9) | 4:06 | 2021-12-28 | 2022-06-16 |
-| [Jaiye Jaiye](https://open.spotify.com/track/2vXJl10Kiu3IqMo8moFBFK) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Femi Kuti](https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb) | [Ayo](https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq) | 4:06 | 2022-06-23 |  |
+| [Jaiye Jaiye](https://open.spotify.com/track/2vXJl10Kiu3IqMo8moFBFK) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Femi Kuti](https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb) | [Ayo](https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq) | 4:06 | 2022-06-23 | 2022-08-30 |
 | [Joro](https://open.spotify.com/track/3Yt1ovsh3v3VEzRuhI1TL5) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Joro](https://open.spotify.com/album/1Mj4mLvCC9P4b167keUsRh) | 4:22 | 2021-12-28 |  |
 | [KANA](https://open.spotify.com/track/3uTe5oVxtAO1cnsJm4uFCJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [KANA](https://open.spotify.com/album/7atwkbkL6GTv6w3ksI1BYC) | 3:27 | 2021-12-28 |  |
 | [Longtime \(feat\. Skepta\)](https://open.spotify.com/track/1JiR4RJaZlbZ5b3HG8jkeL) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:59 | 2021-12-28 |  |
@@ -55,6 +55,7 @@
 | [Ma Lo](https://open.spotify.com/track/6U9jxxdQ6TNzjshIpwWMTf) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Spellz](https://open.spotify.com/artist/5fOppW3chS7Mz6MAoFaN7J) | [Sugarcane](https://open.spotify.com/album/15Sj69bAIyYGBLuh1UhZKo) | 3:02 | 2021-12-28 |  |
 | [Majo \(feat\. Wizkid, Alpha P and Tay Iwar\)](https://open.spotify.com/track/0KLY7SCQuVA4Hk1nzk61p4) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Alpha P](https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Majo \(feat\. Wizkid, Alpha P and Tay Iwar\)](https://open.spotify.com/album/3Rz3SAnhOnXaf2llHOBDCo) | 2:33 | 2022-08-27 |  |
 | [Mamacita \(feat\. Wizkid\)](https://open.spotify.com/track/5lZ8wDFNEFnFq3ahC08yBX) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Mamacita \(feat\. Wizkid\)](https://open.spotify.com/album/5MLHZ8Z3GltBClK999iEEb) | 3:39 | 2021-12-28 |  |
+| [Many Ways \(feat\. Wizkid\)](https://open.spotify.com/track/0lWW0X74IvjNlgY5glykvY) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 3:47 | 2022-08-29 |  |
 | [Master Groove](https://open.spotify.com/track/6NynQjhojcFZ9iYhuezO6B) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Master Groove](https://open.spotify.com/album/6533uOhO0WDdMzgsd8LWyK) | 2:59 | 2021-12-29 |  |
 | [Mood \(feat\. Buju\)](https://open.spotify.com/track/6jdTkoEaer7XNGSblczoSu) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 3:29 | 2021-12-28 |  |
 | [My Love \(feat\. Major Lazer, WizKid, Dua Lipa\)](https://open.spotify.com/track/7rfiXyFb5M9BqdkvKvVEiB) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Shine](https://open.spotify.com/album/3X1Ljgkvf2cLwi8mMjhvKy) | 3:48 | 2021-12-28 |  |

@@ -4,7 +4,7 @@
 
 > The best of today's pop worship music\.  Turn the beat up! Cover: Switch
 
-163 songs - 9 hr 45 min - [published](https://open.spotify.com/playlist/3TGj756pi2TgmaL4E5mf1J)
+164 songs - 9 hr 48 min - [published](https://open.spotify.com/playlist/3TGj756pi2TgmaL4E5mf1J)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Chasing You](https://open.spotify.com/track/5vqHYRtng6GFvuLa2gnUUC) | [Harbourside Worship](https://open.spotify.com/artist/6ETre4091YtKqRtqElsUpl) | [Chasing You](https://open.spotify.com/album/4fTCKtczYVEirhpOFaVnl7) | 3:59 | 2021-12-31 | 2022-07-25 |
 | [Choose To Praise \- Reinvented](https://open.spotify.com/track/7EkvI5wcwayleQvmpd4ZfI) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW) | [Choose to Praise \(Reinvented\)](https://open.spotify.com/album/0eyqPa96JLeqNSbjejlfcL) | 2:30 | 2021-12-31 |  |
 | [Dance Like It's Done \- Live](https://open.spotify.com/track/0tsl7mJ2LP74j4kE9rLyug) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Just the Cross](https://open.spotify.com/album/65KqQX0qvfrNL0kDQ9FkpQ) | 4:35 | 2021-12-31 | 2022-07-21 |
-| [Daylight](https://open.spotify.com/track/6ky2UiOAQkmA1XSKPs11XH) | [Holly Starr](https://open.spotify.com/artist/69vBlxIY9x67fklDVSdpr7) | [Daylight](https://open.spotify.com/album/5eCUUhkGwTF8ovQ0UN3TGa) | 3:20 | 2021-12-31 |  |
+| [Daylight](https://open.spotify.com/track/6ky2UiOAQkmA1XSKPs11XH) | [Holly Starr](https://open.spotify.com/artist/69vBlxIY9x67fklDVSdpr7) | [Daylight](https://open.spotify.com/album/5eCUUhkGwTF8ovQ0UN3TGa) | 3:20 | 2021-12-31 | 2022-08-30 |
 | [Devotion](https://open.spotify.com/track/1KkHP4XsCdH3e8d2rrntHA) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [Devotion](https://open.spotify.com/album/6O3f8tfqgEyfNeW2AQYaBH) | 3:42 | 2021-12-31 |  |
 | [Devotion](https://open.spotify.com/track/6isD7JA7wF5TV6E3cVxcgD) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [Devotion](https://open.spotify.com/album/0zWoD0T4iBYL1qWso6n8fc) | 3:42 | 2021-12-31 | 2022-07-03 |
 | [Diamonds \(Something Beautiful\)](https://open.spotify.com/track/5YYfRoURZob8PAsw0gzwjF) | [NP / NIGHTS](https://open.spotify.com/artist/0d2DE8EogxlmaEDA9LhMSL) | [Diamonds \(Something Beautiful\)](https://open.spotify.com/album/4NKrnSZo8kbQ7rpghQvOrA) | 3:47 | 2021-12-31 | 2022-07-28 |
@@ -63,6 +63,7 @@
 | [Grip of Grace](https://open.spotify.com/track/1krkicizq4r7FIsqYiTjwo) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [Grip of Grace](https://open.spotify.com/album/4ZtCH3TpeVc0MWIpEC1se0) | 5:07 | 2021-12-31 | 2022-07-20 |
 | [Hands High](https://open.spotify.com/track/6Hv6JPMfjyHa73pmuiRR05) | [Equippers Revolution](https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY) | [Hands High](https://open.spotify.com/album/2PQlsFpLR3e8BeT2aSD5Vm) | 3:43 | 2021-12-31 |  |
 | [HAPPY](https://open.spotify.com/track/3ujkAJ4EMZzgMgM1RXqpCJ) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [EXIT](https://open.spotify.com/album/23hocB8tXBHfvImk7SNPnv) | 2:04 | 2021-12-31 |  |
+| [Hear Your Heart](https://open.spotify.com/track/1zI297SasSVNI2TLh3Ypm7) | [myChurch Music](https://open.spotify.com/artist/0kUjsG9rypTopBusbPm43B) | [Hear Your Heart](https://open.spotify.com/album/6zvijC2Xfhb47tuRsEjDkI) | 3:04 | 2021-12-31 |  |
 | [Heartache](https://open.spotify.com/track/2BTcliAvvJroPJVB8hlfV5) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [The Free World, Vol\. 1](https://open.spotify.com/album/6JARfJLhC6szyYXRwtiWQg) | 3:28 | 2021-12-31 | 2022-07-29 |
 | [Higher Than Mine \(Remix\)](https://open.spotify.com/track/7nOD4RtNzWbUlYchguMhr7) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK) | [Clouds Are Clearing: Mixtape 1A](https://open.spotify.com/album/3saIlADNT5151AhQnPxEIQ) | 2:39 | 2021-12-31 |  |
 | [Highest Praise](https://open.spotify.com/track/0h13SlJtBTJZvuNNL9GQmM) | [C3LA Music](https://open.spotify.com/artist/2VwsmAPLES2nOaqkg8iKBA) | [Highest Praise](https://open.spotify.com/album/4qzym8XbAyFHXwJkot786Z) | 4:03 | 2021-12-31 | 2022-07-29 |

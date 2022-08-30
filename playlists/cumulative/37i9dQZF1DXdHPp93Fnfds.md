@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: Delfina Campos
 
-429 songs - 1 day 0 hr 56 min - [published](https://open.spotify.com/playlist/3HX8jFotLiNc9gbpMw8vKv)
+430 songs - 1 day 0 hr 59 min - [published](https://open.spotify.com/playlist/3HX8jFotLiNc9gbpMw8vKv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Casa](https://open.spotify.com/track/3v1wgEVzX2SUrHrdzBCO7P) | [Ninja](https://open.spotify.com/artist/1aEDZ5whyuDHTQxdrPiJYE), [Media Hermana](https://open.spotify.com/artist/0oa0TL1V6tfg7ERfm2sMiE) | [RUSIA](https://open.spotify.com/album/1Oq780XyJNTi9BAGySxECi) | 3:19 | 2022-01-21 | 2022-07-24 |
 | [Casamiento](https://open.spotify.com/track/0XVUtVdcxvYLmJw0ExUy4R) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Atasco](https://open.spotify.com/album/5Yh2mHQcwx2NdSLIDGgzbr) | 3:44 | 2022-01-21 | 2022-07-22 |
 | [Casi Extraños](https://open.spotify.com/track/58JNMqizRanibWoYGKZkZL) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Casi Extraños](https://open.spotify.com/album/0dCUpjzMpccpLGYcIvxetm) | 3:47 | 2022-01-21 | 2022-07-29 |
-| [Casi Extraños](https://open.spotify.com/track/7naPTVNgsAApx8BflqUd7m) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Casi Extraños](https://open.spotify.com/album/5WXpA7EHSaSDjOWg45CetC) | 3:47 | 2022-07-29 |  |
+| [Casi Extraños](https://open.spotify.com/track/7naPTVNgsAApx8BflqUd7m) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Casi Extraños](https://open.spotify.com/album/5WXpA7EHSaSDjOWg45CetC) | 3:47 | 2022-07-29 | 2022-08-30 |
 | [Casi Nunca Entiendo Nada](https://open.spotify.com/track/5DCMmMGHptS0nOmN97kIAV) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH), [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs), [Esmeralda Escalante](https://open.spotify.com/artist/56WOnFwq68Q0pn9mUnrdOC) | [Casi Nunca Entiendo Nada](https://open.spotify.com/album/7dAANS4Pwlb9OkkkmadzsV) | 3:13 | 2022-02-11 | 2022-07-16 |
 | [Cerca](https://open.spotify.com/track/3DXx8TguDQQ1Y2g5XQ7Msx) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Cerca](https://open.spotify.com/album/6OcxdF2MWCXFBYHDUD8o3e) | 4:07 | 2022-01-21 | 2022-07-29 |
 | [Chica](https://open.spotify.com/track/5En1tLtPLGsgZ0KnzkjDXv) | [Puebla](https://open.spotify.com/artist/1PqKs6dNaJFy6qNgXEVCpm) | [Chica](https://open.spotify.com/album/2squYvCPxYVekcmOJqPz3D) | 3:12 | 2022-01-21 | 2022-07-25 |
@@ -109,6 +109,7 @@
 | [Desciende el Norte](https://open.spotify.com/track/6BRU6Lgo7D6FEXwYT5RJWv) | [Amanda Pujó](https://open.spotify.com/artist/54vFZr8ppOc3Gq2LrcboZC), [Nanocristal](https://open.spotify.com/artist/63Wff8jItaKpHdl5Obbi2K) | [Nuevos Silencios](https://open.spotify.com/album/0HsZpQ6L8DJgSUFNSazZoG) | 3:45 | 2022-01-21 | 2022-05-19 |
 | [Destreza](https://open.spotify.com/track/1zlmsJWuCd335XoZASXQLs) | [Agua Florida](https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq) | [Destreza](https://open.spotify.com/album/0q1QjCaEGQJA3zUFIEpoKN) | 3:38 | 2022-06-03 | 2022-06-18 |
 | [Desvelo](https://open.spotify.com/track/5ZB7rbNjnJ8lMZ4KTuh55F) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Desvelo](https://open.spotify.com/album/5Ik4DBNjzxeCdawBwHyxFI) | 4:34 | 2022-03-09 | 2022-07-28 |
+| [Detonación \- Remix](https://open.spotify.com/track/0rZwPrDw6xcWdGTSvsbLYA) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [Detonación \(Remix\)](https://open.spotify.com/album/5cFYndbz33WMXaEeE3JFGx) | 3:52 | 2022-08-26 |  |
 | [Diabla](https://open.spotify.com/track/2uqXBgxoOsYMkNcJzLtJUw) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Diabla](https://open.spotify.com/album/4Dc5yBqil6itL5cVBQsFQE) | 2:51 | 2022-01-21 | 2022-07-27 |
 | [DIAS DE PAJA](https://open.spotify.com/track/78GT2hT82AWRJq2kwXJAI5) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [DIAS DE PAJA](https://open.spotify.com/album/1j1tnRVfGpSzgjiOLE1dtX) | 3:53 | 2022-01-14 | 2022-07-29 |
 | [Dicen](https://open.spotify.com/track/5Xe5N5HvbXvFYe4I87aQa3) | [Rocío Gal](https://open.spotify.com/artist/4AfambG94sVb235ZxRKGWL) | [Inventario de Ecos](https://open.spotify.com/album/6qnpV0UwXRnGcUOGeRToCw) | 3:09 | 2022-05-06 | 2022-07-26 |

@@ -1,12 +1,12 @@
 {
   "description": "The best of Christian Hip Hop today.  Cover: nobigdyl.",
-  "num_followers": 105244,
+  "num_followers": 105263,
   "original_name": "The Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTg0NzExMiwwMDAwMDAwMDA3OTczNmUyZjJhM2RmMzQyODYzOGQ4M2E2NTQ2MmMx",
+  "snapshot_id": "MTY1OTg0NzExMiwwMDAwMDAwMDJlY2JlZjVhNTU4NzRmZmExZWViN2IwMTZhN2RjYTQ1",
   "tracks": [
     {
       "added_at": "2022-08-06 04:47:39",
@@ -511,6 +511,26 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
+        "name": "GOD IS THE BEST",
+        "url": "https://open.spotify.com/album/3mLwour0Ztv8lWH3lf0YNy"
+      },
+      "artists": [
+        {
+          "name": "Ty Brasel",
+          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
+        },
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        }
+      ],
+      "duration_ms": 179033,
+      "name": "GOD IS THE BEST",
+      "url": "https://open.spotify.com/track/4RUxJBJ786qMifZHVJBaoa"
+    },
+    {
+      "added_at": "2022-08-06 04:47:39",
+      "album": {
         "name": "Tree",
         "url": "https://open.spotify.com/album/54wHmXPZMHh54mWa1cHHgY"
       },
@@ -531,26 +551,6 @@
       "duration_ms": 242564,
       "name": "Red Light Green Light",
       "url": "https://open.spotify.com/track/7vhLO7AIWYlMjLk2aAED7x"
-    },
-    {
-      "added_at": "2022-08-06 04:47:39",
-      "album": {
-        "name": "GOD IS THE BEST",
-        "url": "https://open.spotify.com/album/3mLwour0Ztv8lWH3lf0YNy"
-      },
-      "artists": [
-        {
-          "name": "Ty Brasel",
-          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
-        },
-        {
-          "name": "1K Phew",
-          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
-        }
-      ],
-      "duration_ms": 179033,
-      "name": "GOD IS THE BEST",
-      "url": "https://open.spotify.com/track/4RUxJBJ786qMifZHVJBaoa"
     },
     {
       "added_at": "2022-08-06 04:47:39",
@@ -591,6 +591,22 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
+        "name": "Pray 2 God",
+        "url": "https://open.spotify.com/album/5Wl3TpMmeWfY47wOWdbaec"
+      },
+      "artists": [
+        {
+          "name": "2'Live Bre",
+          "url": "https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F"
+        }
+      ],
+      "duration_ms": 156781,
+      "name": "Pray 2 God",
+      "url": "https://open.spotify.com/track/5fKmS8idOTmtI3x9hWbHhk"
+    },
+    {
+      "added_at": "2022-08-06 04:47:39",
+      "album": {
         "name": "Hit My Line",
         "url": "https://open.spotify.com/album/0CK7KNfyrFlRvTygSeiJA5"
       },
@@ -607,6 +623,22 @@
       "duration_ms": 147492,
       "name": "Hit My Line",
       "url": "https://open.spotify.com/track/6OfQAAc5Bempqs62jzatMv"
+    },
+    {
+      "added_at": "2022-08-06 04:47:39",
+      "album": {
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/0vgyfVzdBJNG67jjjqVENC"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 150169,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/3DjPqQPooCrDf7b2TaAfdP"
     },
     {
       "added_at": "2022-08-06 04:47:39",
@@ -643,38 +675,6 @@
       "duration_ms": 193685,
       "name": "Good News",
       "url": "https://open.spotify.com/track/2MZrUgL0lk5qvGsWvH7uK4"
-    },
-    {
-      "added_at": "2022-08-06 04:47:39",
-      "album": {
-        "name": "Glory",
-        "url": "https://open.spotify.com/album/0vgyfVzdBJNG67jjjqVENC"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 150169,
-      "name": "Glory",
-      "url": "https://open.spotify.com/track/3DjPqQPooCrDf7b2TaAfdP"
-    },
-    {
-      "added_at": "2022-08-06 04:47:39",
-      "album": {
-        "name": "Pray 2 God",
-        "url": "https://open.spotify.com/album/5Wl3TpMmeWfY47wOWdbaec"
-      },
-      "artists": [
-        {
-          "name": "2'Live Bre",
-          "url": "https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F"
-        }
-      ],
-      "duration_ms": 156781,
-      "name": "Pray 2 God",
-      "url": "https://open.spotify.com/track/5fKmS8idOTmtI3x9hWbHhk"
     },
     {
       "added_at": "2022-08-06 04:47:39",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
-        "name": "Choose You",
-        "url": "https://open.spotify.com/album/1KoVTcluwzGUCo1xMPqqZA"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 185211,
-      "name": "Choose You",
-      "url": "https://open.spotify.com/track/2rUNWlmyWYeViuhqb4QQc6"
-    },
-    {
-      "added_at": "2022-08-06 04:47:39",
-      "album": {
         "name": "SET IT OFF",
         "url": "https://open.spotify.com/album/5scwM6Xd2qBEZk6ma6MdsS"
       },
@@ -815,6 +799,22 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
+        "name": "Choose You",
+        "url": "https://open.spotify.com/album/1KoVTcluwzGUCo1xMPqqZA"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 185211,
+      "name": "Choose You",
+      "url": "https://open.spotify.com/track/2rUNWlmyWYeViuhqb4QQc6"
+    },
+    {
+      "added_at": "2022-08-06 04:47:39",
+      "album": {
         "name": "Underdogs",
         "url": "https://open.spotify.com/album/79zwjuwYBzmNCb02pzfqU6"
       },
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
-        "name": "PRESSURE",
-        "url": "https://open.spotify.com/album/5vrLASRbLFy32QQpAvLkEL"
-      },
-      "artists": [
-        {
-          "name": "Toyalove",
-          "url": "https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6"
-        }
-      ],
-      "duration_ms": 157675,
-      "name": "PRESSURE",
-      "url": "https://open.spotify.com/track/1hqAriaUctIMv62hDNBLWi"
-    },
-    {
-      "added_at": "2022-08-06 04:47:39",
-      "album": {
         "name": "WINGS OF AN ANGEL",
         "url": "https://open.spotify.com/album/1zCJAhBmfNosFaEUxB4D1R"
       },
@@ -883,6 +867,22 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
+        "name": "PRESSURE",
+        "url": "https://open.spotify.com/album/5vrLASRbLFy32QQpAvLkEL"
+      },
+      "artists": [
+        {
+          "name": "Toyalove",
+          "url": "https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6"
+        }
+      ],
+      "duration_ms": 157675,
+      "name": "PRESSURE",
+      "url": "https://open.spotify.com/track/1hqAriaUctIMv62hDNBLWi"
+    },
+    {
+      "added_at": "2022-08-06 04:47:39",
+      "album": {
         "name": "PEACE OF MIND",
         "url": "https://open.spotify.com/album/5QbUbmlbHdRAnNT3fhAWwZ"
       },
@@ -895,6 +895,26 @@
       "duration_ms": 207876,
       "name": "PEACE OF MIND",
       "url": "https://open.spotify.com/track/0nPTcCYwX5ObfRk4crSy0d"
+    },
+    {
+      "added_at": "2022-08-06 04:47:39",
+      "album": {
+        "name": "Praise",
+        "url": "https://open.spotify.com/album/7w5z53GPI298MihIj0CDZ3"
+      },
+      "artists": [
+        {
+          "name": "Lj the Messenger",
+          "url": "https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB"
+        },
+        {
+          "name": "Hyper Fenton",
+          "url": "https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2"
+        }
+      ],
+      "duration_ms": 123478,
+      "name": "Praise",
+      "url": "https://open.spotify.com/track/6wbvE1aVv9d112MiP6sGkE"
     },
     {
       "added_at": "2022-08-06 04:47:39",
@@ -927,26 +947,6 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
-        "name": "Praise",
-        "url": "https://open.spotify.com/album/7w5z53GPI298MihIj0CDZ3"
-      },
-      "artists": [
-        {
-          "name": "Lj the Messenger",
-          "url": "https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB"
-        },
-        {
-          "name": "Hyper Fenton",
-          "url": "https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2"
-        }
-      ],
-      "duration_ms": 123478,
-      "name": "Praise",
-      "url": "https://open.spotify.com/track/6wbvE1aVv9d112MiP6sGkE"
-    },
-    {
-      "added_at": "2022-08-06 04:47:39",
-      "album": {
         "name": "ON THA SEAT",
         "url": "https://open.spotify.com/album/1dYQWKJn9d0JRapMeQ93Qk"
       },
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
-        "name": "Backslide",
-        "url": "https://open.spotify.com/album/22XnIqlTbgEse4XimFOS3F"
-      },
-      "artists": [
-        {
-          "name": "Red Tips",
-          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
-        }
-      ],
-      "duration_ms": 150875,
-      "name": "Backslide",
-      "url": "https://open.spotify.com/track/0xSmgLMebPwho7od9B4Jsw"
-    },
-    {
-      "added_at": "2022-08-06 04:47:39",
-      "album": {
         "name": "CEMENT",
         "url": "https://open.spotify.com/album/53vr8FfzSeDiHXkQSiPRy0"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 153495,
       "name": "CEMENT",
       "url": "https://open.spotify.com/track/6Effoyth74yU2TCd6dduDJ"
+    },
+    {
+      "added_at": "2022-08-06 04:47:39",
+      "album": {
+        "name": "Backslide",
+        "url": "https://open.spotify.com/album/22XnIqlTbgEse4XimFOS3F"
+      },
+      "artists": [
+        {
+          "name": "Red Tips",
+          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
+        }
+      ],
+      "duration_ms": 150875,
+      "name": "Backslide",
+      "url": "https://open.spotify.com/track/0xSmgLMebPwho7od9B4Jsw"
     },
     {
       "added_at": "2022-08-06 04:47:39",
@@ -1015,6 +1015,22 @@
       "duration_ms": 156309,
       "name": "Swerve That",
       "url": "https://open.spotify.com/track/6IRXMRAckv2A7lB7rrFzrP"
+    },
+    {
+      "added_at": "2022-08-06 04:47:39",
+      "album": {
+        "name": "BLESSINGS",
+        "url": "https://open.spotify.com/album/6ow7uliwOAfoz3q7c95zd6"
+      },
+      "artists": [
+        {
+          "name": "MTM Isaiah",
+          "url": "https://open.spotify.com/artist/3cPHYFWU14POI3ky9F4mNy"
+        }
+      ],
+      "duration_ms": 172313,
+      "name": "BLESSINGS",
+      "url": "https://open.spotify.com/track/4mvgPHLTLG2sOfPXgzpQmN"
     },
     {
       "added_at": "2022-08-06 04:47:39",
@@ -1059,22 +1075,6 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
-        "name": "BLESSINGS",
-        "url": "https://open.spotify.com/album/6ow7uliwOAfoz3q7c95zd6"
-      },
-      "artists": [
-        {
-          "name": "MTM Isaiah",
-          "url": "https://open.spotify.com/artist/3cPHYFWU14POI3ky9F4mNy"
-        }
-      ],
-      "duration_ms": 172313,
-      "name": "BLESSINGS",
-      "url": "https://open.spotify.com/track/4mvgPHLTLG2sOfPXgzpQmN"
-    },
-    {
-      "added_at": "2022-08-06 04:47:39",
-      "album": {
         "name": "Mobbin'",
         "url": "https://open.spotify.com/album/3QJPfHaj6f6KUJiGYNM09z"
       },
@@ -1087,6 +1087,22 @@
       "duration_ms": 158522,
       "name": "Mobbin'",
       "url": "https://open.spotify.com/track/0Zkf62cIbqiRhDMB2GYOaY"
+    },
+    {
+      "added_at": "2022-08-06 04:47:39",
+      "album": {
+        "name": "believe",
+        "url": "https://open.spotify.com/album/0y47M4ia6gXB0QCJ7tz012"
+      },
+      "artists": [
+        {
+          "name": "Sajan Nauriyal",
+          "url": "https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6"
+        }
+      ],
+      "duration_ms": 155094,
+      "name": "believe",
+      "url": "https://open.spotify.com/track/7cwcU3UHeJs4RejjIhDoKt"
     },
     {
       "added_at": "2022-08-06 04:47:39",
@@ -1115,30 +1131,6 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
-        "name": "Be A Legend",
-        "url": "https://open.spotify.com/album/7oA2MPtEJ9eznXrdAQUUTw"
-      },
-      "artists": [
-        {
-          "name": "Nu Tone",
-          "url": "https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA"
-        },
-        {
-          "name": "Kaleb Mitchell",
-          "url": "https://open.spotify.com/artist/5HfuDsFVNaxn4NAW00HqbH"
-        },
-        {
-          "name": "Ray Knowledge",
-          "url": "https://open.spotify.com/artist/6rC0wm1tZX8cq6vGsUNxad"
-        }
-      ],
-      "duration_ms": 158261,
-      "name": "Be A Legend",
-      "url": "https://open.spotify.com/track/75p5NhL7PoweYeCNK4UGFw"
-    },
-    {
-      "added_at": "2022-08-06 04:47:39",
-      "album": {
         "name": "Tricky",
         "url": "https://open.spotify.com/album/2L7aO5sMbn0jSFj2ZQpdnB"
       },
@@ -1151,42 +1143,6 @@
       "duration_ms": 132635,
       "name": "Tricky",
       "url": "https://open.spotify.com/track/1X6R3SpHPB4ySRMF5kzdtw"
-    },
-    {
-      "added_at": "2022-08-06 04:47:39",
-      "album": {
-        "name": "polaroids.",
-        "url": "https://open.spotify.com/album/5Prj7tghns9XY626lMR3LL"
-      },
-      "artists": [
-        {
-          "name": "Wes Harris",
-          "url": "https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2"
-        },
-        {
-          "name": "Sarah Nathali\u00e9",
-          "url": "https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni"
-        }
-      ],
-      "duration_ms": 155688,
-      "name": "who.",
-      "url": "https://open.spotify.com/track/4nz2Tku7f6FyEE0WZfd2mZ"
-    },
-    {
-      "added_at": "2022-08-06 04:47:39",
-      "album": {
-        "name": "believe",
-        "url": "https://open.spotify.com/album/0y47M4ia6gXB0QCJ7tz012"
-      },
-      "artists": [
-        {
-          "name": "Sajan Nauriyal",
-          "url": "https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6"
-        }
-      ],
-      "duration_ms": 155094,
-      "name": "believe",
-      "url": "https://open.spotify.com/track/7cwcU3UHeJs4RejjIhDoKt"
     },
     {
       "added_at": "2022-08-06 04:47:39",
@@ -1211,6 +1167,50 @@
       "duration_ms": 219574,
       "name": "Father Forgive Us",
       "url": "https://open.spotify.com/track/7ATNyYHU8764aIFAA6aJ14"
+    },
+    {
+      "added_at": "2022-08-06 04:47:39",
+      "album": {
+        "name": "polaroids.",
+        "url": "https://open.spotify.com/album/5Prj7tghns9XY626lMR3LL"
+      },
+      "artists": [
+        {
+          "name": "Wes Harris",
+          "url": "https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2"
+        },
+        {
+          "name": "Sarah Nathali\u00e9",
+          "url": "https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni"
+        }
+      ],
+      "duration_ms": 155688,
+      "name": "who.",
+      "url": "https://open.spotify.com/track/4nz2Tku7f6FyEE0WZfd2mZ"
+    },
+    {
+      "added_at": "2022-08-06 04:47:39",
+      "album": {
+        "name": "Be A Legend",
+        "url": "https://open.spotify.com/album/7oA2MPtEJ9eznXrdAQUUTw"
+      },
+      "artists": [
+        {
+          "name": "Nu Tone",
+          "url": "https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA"
+        },
+        {
+          "name": "Kaleb Mitchell",
+          "url": "https://open.spotify.com/artist/5HfuDsFVNaxn4NAW00HqbH"
+        },
+        {
+          "name": "Ray Knowledge",
+          "url": "https://open.spotify.com/artist/6rC0wm1tZX8cq6vGsUNxad"
+        }
+      ],
+      "duration_ms": 158261,
+      "name": "Be A Legend",
+      "url": "https://open.spotify.com/track/75p5NhL7PoweYeCNK4UGFw"
     },
     {
       "added_at": "2022-08-06 04:47:39",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
-        "name": "Run A Bag",
-        "url": "https://open.spotify.com/album/2jT7lbecAOaO708xio98qC"
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/0YtOj7ckJtghcUUxmVh2Gt"
       },
       "artists": [
         {
-          "name": "Mission",
-          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+          "name": "Sansone",
+          "url": "https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU"
         }
       ],
-      "duration_ms": 185779,
-      "name": "Run A Bag",
-      "url": "https://open.spotify.com/track/3TIGNuFMoOD6B3VP6mHVO3"
+      "duration_ms": 196373,
+      "name": "Never Scared",
+      "url": "https://open.spotify.com/track/4ArXK7w8xQlAd6cixC0b1I"
     },
     {
       "added_at": "2022-08-06 04:47:39",
@@ -1415,34 +1415,18 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/0YtOj7ckJtghcUUxmVh2Gt"
+        "name": "Run A Bag",
+        "url": "https://open.spotify.com/album/2jT7lbecAOaO708xio98qC"
       },
       "artists": [
         {
-          "name": "Sansone",
-          "url": "https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU"
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
         }
       ],
-      "duration_ms": 196373,
-      "name": "Never Scared",
-      "url": "https://open.spotify.com/track/4ArXK7w8xQlAd6cixC0b1I"
-    },
-    {
-      "added_at": "2022-08-06 04:47:39",
-      "album": {
-        "name": "Never Be the Same",
-        "url": "https://open.spotify.com/album/2pi1Q19Ktl2hoyBJH6QkRH"
-      },
-      "artists": [
-        {
-          "name": "Vic Lucas",
-          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
-        }
-      ],
-      "duration_ms": 153601,
-      "name": "Never Be the Same",
-      "url": "https://open.spotify.com/track/3Fxxsx248FVmrQXUwNhVoD"
+      "duration_ms": 185779,
+      "name": "Run A Bag",
+      "url": "https://open.spotify.com/track/3TIGNuFMoOD6B3VP6mHVO3"
     },
     {
       "added_at": "2022-08-06 04:47:39",
@@ -1491,6 +1475,22 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
+        "name": "Never Be the Same",
+        "url": "https://open.spotify.com/album/2pi1Q19Ktl2hoyBJH6QkRH"
+      },
+      "artists": [
+        {
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+        }
+      ],
+      "duration_ms": 153601,
+      "name": "Never Be the Same",
+      "url": "https://open.spotify.com/track/3Fxxsx248FVmrQXUwNhVoD"
+    },
+    {
+      "added_at": "2022-08-06 04:47:39",
+      "album": {
         "name": "Motive",
         "url": "https://open.spotify.com/album/6BwDhZVaF5BiXi9pLnP8rH"
       },
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
-        "name": "Where Do We Go?",
-        "url": "https://open.spotify.com/album/0GV40hHjZG1GAxk05U2H0m"
+        "name": "Bad Kid Great God",
+        "url": "https://open.spotify.com/album/68IZc6DL32U0hzOyFINoZf"
       },
       "artists": [
         {
-          "name": "Sho Baraka",
-          "url": "https://open.spotify.com/artist/3dpswct31rsudWf8ZASWZe"
+          "name": "Adriel Cruz",
+          "url": "https://open.spotify.com/artist/1aBDTgXnbKTDCUubYLbtoa"
         }
       ],
-      "duration_ms": 214773,
-      "name": "Where Do We Go?",
-      "url": "https://open.spotify.com/track/1l1RKCVgp6qn4UNpgasHhY"
+      "duration_ms": 156004,
+      "name": "Bad Kid Great God",
+      "url": "https://open.spotify.com/track/5Jr5UZSwkkbv6iqdI046rA"
     },
     {
       "added_at": "2022-08-06 04:47:39",
@@ -1535,6 +1535,94 @@
       "duration_ms": 147000,
       "name": "Be Real",
       "url": "https://open.spotify.com/track/3IyDfQUM8Dvk67b0hO6or9"
+    },
+    {
+      "added_at": "2022-08-06 04:47:39",
+      "album": {
+        "name": "INNER CITY GOSPEL",
+        "url": "https://open.spotify.com/album/2gsf9Nax7eO3tnjPSC4YqP"
+      },
+      "artists": [
+        {
+          "name": "IAMOPB",
+          "url": "https://open.spotify.com/artist/18MYQNripiW2Lljs4AhW3Z"
+        },
+        {
+          "name": "Anthone Ray",
+          "url": "https://open.spotify.com/artist/2STifIFLtVoY6rj4hc4vVv"
+        }
+      ],
+      "duration_ms": 169874,
+      "name": "TUNNEL VISION",
+      "url": "https://open.spotify.com/track/6C6s0bb9k6KfmRms8l6WE1"
+    },
+    {
+      "added_at": "2022-08-06 04:47:39",
+      "album": {
+        "name": "DAY ONES",
+        "url": "https://open.spotify.com/album/3hM9N5646a6RPl9IlX6muD"
+      },
+      "artists": [
+        {
+          "name": "outr.cty",
+          "url": "https://open.spotify.com/artist/44p6xbyBk8khm2UotlfH2w"
+        },
+        {
+          "name": "DJLC",
+          "url": "https://open.spotify.com/artist/7CjRSmKXaquhcaBcOO9SQQ"
+        }
+      ],
+      "duration_ms": 192062,
+      "name": "DAY ONES",
+      "url": "https://open.spotify.com/track/1aazpUqKkCSHqZ09O8rVHT"
+    },
+    {
+      "added_at": "2022-08-06 04:47:39",
+      "album": {
+        "name": "Who?",
+        "url": "https://open.spotify.com/album/17edQSfcZhL56obIskbP2I"
+      },
+      "artists": [
+        {
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+        }
+      ],
+      "duration_ms": 211540,
+      "name": "Who?",
+      "url": "https://open.spotify.com/track/0L5eYwDd5OwRmoRkeMrkbL"
+    },
+    {
+      "added_at": "2022-08-06 04:47:39",
+      "album": {
+        "name": "CELEBRATE",
+        "url": "https://open.spotify.com/album/0CxfDSY6xqyagbrgAYWPJ3"
+      },
+      "artists": [
+        {
+          "name": "Mystro Productions",
+          "url": "https://open.spotify.com/artist/3xPvqSwcmpA8ytvPa9oskQ"
+        }
+      ],
+      "duration_ms": 224658,
+      "name": "CELEBRATE",
+      "url": "https://open.spotify.com/track/21LvTVPTfwMOu7gPLJ1fd6"
+    },
+    {
+      "added_at": "2022-08-06 04:47:39",
+      "album": {
+        "name": "Where Do We Go?",
+        "url": "https://open.spotify.com/album/0GV40hHjZG1GAxk05U2H0m"
+      },
+      "artists": [
+        {
+          "name": "Sho Baraka",
+          "url": "https://open.spotify.com/artist/3dpswct31rsudWf8ZASWZe"
+        }
+      ],
+      "duration_ms": 214773,
+      "name": "Where Do We Go?",
+      "url": "https://open.spotify.com/track/1l1RKCVgp6qn4UNpgasHhY"
     },
     {
       "added_at": "2022-08-06 04:47:39",
@@ -1563,110 +1651,6 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
-        "name": "CELEBRATE",
-        "url": "https://open.spotify.com/album/0CxfDSY6xqyagbrgAYWPJ3"
-      },
-      "artists": [
-        {
-          "name": "Mystro Productions",
-          "url": "https://open.spotify.com/artist/3xPvqSwcmpA8ytvPa9oskQ"
-        }
-      ],
-      "duration_ms": 224658,
-      "name": "CELEBRATE",
-      "url": "https://open.spotify.com/track/21LvTVPTfwMOu7gPLJ1fd6"
-    },
-    {
-      "added_at": "2022-08-06 04:47:39",
-      "album": {
-        "name": "DAY ONES",
-        "url": "https://open.spotify.com/album/3hM9N5646a6RPl9IlX6muD"
-      },
-      "artists": [
-        {
-          "name": "outr.cty",
-          "url": "https://open.spotify.com/artist/44p6xbyBk8khm2UotlfH2w"
-        },
-        {
-          "name": "DJLC",
-          "url": "https://open.spotify.com/artist/7CjRSmKXaquhcaBcOO9SQQ"
-        }
-      ],
-      "duration_ms": 192062,
-      "name": "DAY ONES",
-      "url": "https://open.spotify.com/track/1aazpUqKkCSHqZ09O8rVHT"
-    },
-    {
-      "added_at": "2022-08-06 04:47:39",
-      "album": {
-        "name": "INNER CITY GOSPEL",
-        "url": "https://open.spotify.com/album/2gsf9Nax7eO3tnjPSC4YqP"
-      },
-      "artists": [
-        {
-          "name": "IAMOPB",
-          "url": "https://open.spotify.com/artist/18MYQNripiW2Lljs4AhW3Z"
-        },
-        {
-          "name": "Anthone Ray",
-          "url": "https://open.spotify.com/artist/2STifIFLtVoY6rj4hc4vVv"
-        }
-      ],
-      "duration_ms": 169874,
-      "name": "TUNNEL VISION",
-      "url": "https://open.spotify.com/track/6C6s0bb9k6KfmRms8l6WE1"
-    },
-    {
-      "added_at": "2022-08-06 04:47:39",
-      "album": {
-        "name": "Who?",
-        "url": "https://open.spotify.com/album/17edQSfcZhL56obIskbP2I"
-      },
-      "artists": [
-        {
-          "name": "Vic Lucas",
-          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
-        }
-      ],
-      "duration_ms": 211540,
-      "name": "Who?",
-      "url": "https://open.spotify.com/track/0L5eYwDd5OwRmoRkeMrkbL"
-    },
-    {
-      "added_at": "2022-08-06 04:47:39",
-      "album": {
-        "name": "Bad Kid Great God",
-        "url": "https://open.spotify.com/album/68IZc6DL32U0hzOyFINoZf"
-      },
-      "artists": [
-        {
-          "name": "Adriel Cruz",
-          "url": "https://open.spotify.com/artist/1aBDTgXnbKTDCUubYLbtoa"
-        }
-      ],
-      "duration_ms": 156004,
-      "name": "Bad Kid Great God",
-      "url": "https://open.spotify.com/track/5Jr5UZSwkkbv6iqdI046rA"
-    },
-    {
-      "added_at": "2022-08-06 04:47:39",
-      "album": {
-        "name": "Angels",
-        "url": "https://open.spotify.com/album/0k2Yd33uJ3BEpn7Pdcq3LA"
-      },
-      "artists": [
-        {
-          "name": "Reconcile",
-          "url": "https://open.spotify.com/artist/205ryRzLS0HTtASNep0wUm"
-        }
-      ],
-      "duration_ms": 185257,
-      "name": "Angels",
-      "url": "https://open.spotify.com/track/7vzOi9isfDmRaeITHUsM5C"
-    },
-    {
-      "added_at": "2022-08-06 04:47:39",
-      "album": {
         "name": "I'm Home",
         "url": "https://open.spotify.com/album/204YFT7a78NcDohIL0TuSp"
       },
@@ -1683,18 +1667,38 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
-        "name": "NOW OR LATER",
-        "url": "https://open.spotify.com/album/1RGWKAn8tGkKdPkAXbe8ZV"
+        "name": "FOCUS",
+        "url": "https://open.spotify.com/album/3yW2C4eWLfphNLPMTbs53w"
       },
       "artists": [
         {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+          "name": "Prince Von",
+          "url": "https://open.spotify.com/artist/0O0xVzL5CCE9OjYbDChRE5"
+        },
+        {
+          "name": "DEON",
+          "url": "https://open.spotify.com/artist/4kt0dkHxgthY7GMdG4G5dh"
         }
       ],
-      "duration_ms": 171428,
-      "name": "NOW OR LATER",
-      "url": "https://open.spotify.com/track/4crJ7ROSNR6ej7GPDFCspX"
+      "duration_ms": 114172,
+      "name": "FOCUS",
+      "url": "https://open.spotify.com/track/07yw8zM7JYRXTJmJ3Qm3wQ"
+    },
+    {
+      "added_at": "2022-08-06 04:47:39",
+      "album": {
+        "name": "Angels",
+        "url": "https://open.spotify.com/album/0k2Yd33uJ3BEpn7Pdcq3LA"
+      },
+      "artists": [
+        {
+          "name": "Reconcile",
+          "url": "https://open.spotify.com/artist/205ryRzLS0HTtASNep0wUm"
+        }
+      ],
+      "duration_ms": 185257,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/7vzOi9isfDmRaeITHUsM5C"
     },
     {
       "added_at": "2022-08-06 04:47:39",
@@ -1719,22 +1723,18 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
-        "name": "FOCUS",
-        "url": "https://open.spotify.com/album/3yW2C4eWLfphNLPMTbs53w"
+        "name": "NOW OR LATER",
+        "url": "https://open.spotify.com/album/1RGWKAn8tGkKdPkAXbe8ZV"
       },
       "artists": [
         {
-          "name": "Prince Von",
-          "url": "https://open.spotify.com/artist/0O0xVzL5CCE9OjYbDChRE5"
-        },
-        {
-          "name": "DEON",
-          "url": "https://open.spotify.com/artist/4kt0dkHxgthY7GMdG4G5dh"
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
         }
       ],
-      "duration_ms": 114172,
-      "name": "FOCUS",
-      "url": "https://open.spotify.com/track/07yw8zM7JYRXTJmJ3Qm3wQ"
+      "duration_ms": 171428,
+      "name": "NOW OR LATER",
+      "url": "https://open.spotify.com/track/4crJ7ROSNR6ej7GPDFCspX"
     },
     {
       "added_at": "2022-08-06 04:47:39",
@@ -1795,6 +1795,34 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
+        "name": "BEST NIGHT",
+        "url": "https://open.spotify.com/album/4unZ0GkcZuI9qWIdF77eiL"
+      },
+      "artists": [
+        {
+          "name": "RAY G",
+          "url": "https://open.spotify.com/artist/1mGgGsYIUyBrrYQNL9XD5C"
+        },
+        {
+          "name": "OnBeatMusic",
+          "url": "https://open.spotify.com/artist/19DgE5CQNujdohCwPmYddj"
+        },
+        {
+          "name": "Joey Vantes",
+          "url": "https://open.spotify.com/artist/7hJoApA9cwgCqWGvIhbCyc"
+        },
+        {
+          "name": "A. Ruiz",
+          "url": "https://open.spotify.com/artist/5chrjHIlDZQyVadLbWzgbO"
+        }
+      ],
+      "duration_ms": 161965,
+      "name": "BEST NIGHT",
+      "url": "https://open.spotify.com/track/5gwjlmywKglmE8y4lVBV0j"
+    },
+    {
+      "added_at": "2022-08-06 04:47:39",
+      "album": {
         "name": "Broken",
         "url": "https://open.spotify.com/album/5TpxwY3a4V0rUwYiZWchBC"
       },
@@ -1835,46 +1863,18 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
-        "name": "BEST NIGHT",
-        "url": "https://open.spotify.com/album/4unZ0GkcZuI9qWIdF77eiL"
+        "name": "More",
+        "url": "https://open.spotify.com/album/7JPufJYJz7Wx5xH1MsyxtM"
       },
       "artists": [
         {
-          "name": "RAY G",
-          "url": "https://open.spotify.com/artist/1mGgGsYIUyBrrYQNL9XD5C"
-        },
-        {
-          "name": "OnBeatMusic",
-          "url": "https://open.spotify.com/artist/19DgE5CQNujdohCwPmYddj"
-        },
-        {
-          "name": "Joey Vantes",
-          "url": "https://open.spotify.com/artist/7hJoApA9cwgCqWGvIhbCyc"
-        },
-        {
-          "name": "A. Ruiz",
-          "url": "https://open.spotify.com/artist/5chrjHIlDZQyVadLbWzgbO"
+          "name": "Dee-1",
+          "url": "https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox"
         }
       ],
-      "duration_ms": 161965,
-      "name": "BEST NIGHT",
-      "url": "https://open.spotify.com/track/5gwjlmywKglmE8y4lVBV0j"
-    },
-    {
-      "added_at": "2022-08-06 04:47:39",
-      "album": {
-        "name": "No Tears",
-        "url": "https://open.spotify.com/album/1o8jzoKIAg5oUjzD9pGJvy"
-      },
-      "artists": [
-        {
-          "name": "Xay Hill",
-          "url": "https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6"
-        }
-      ],
-      "duration_ms": 141215,
-      "name": "No Tears",
-      "url": "https://open.spotify.com/track/37ezr5roTjXV7zM5E3zcUX"
+      "duration_ms": 173016,
+      "name": "More",
+      "url": "https://open.spotify.com/track/69k98mkjWWy0YLDCt61i6h"
     }
   ],
   "unique_name": "The Flow",

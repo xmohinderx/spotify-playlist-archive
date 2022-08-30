@@ -4,7 +4,7 @@
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-163 songs - 7 hr 16 min - [published](https://open.spotify.com/playlist/45GUeEFxAxvkdu2cCo0Edr)
+164 songs - 7 hr 19 min - [published](https://open.spotify.com/playlist/45GUeEFxAxvkdu2cCo0Edr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Born to Rock](https://open.spotify.com/track/6YT4nf1aNlJrKiTSsrqaaz) | [Snakebite](https://open.spotify.com/artist/1CHz4uPXCOAXMmjWXzPcJj) | [Rockin' up a Storm](https://open.spotify.com/album/6TxGY2mBLLsRjmHM4KCZs1) | 3:03 | 2022-05-06 | 2022-07-29 |
 | [Break Up](https://open.spotify.com/track/0oi84isjcRWATK9B98tzrt) | [The Buckaroos](https://open.spotify.com/artist/74wE2KMCkSnUpjtgKF9cUr) | [The Buckaroos](https://open.spotify.com/album/5DSYQZQI4Hrv9Pkvf1T2ZN) | 2:16 | 2022-05-06 | 2022-06-22 |
 | [Bring That Money Honey](https://open.spotify.com/track/6BWuyU46e5AKYt2fmechag) | [Kingen](https://open.spotify.com/artist/4xF1WqgmgWBbLEXUWZZxne) | [It´s All About Groove](https://open.spotify.com/album/1VQOqXUST7DGn3GVAYABNu) | 2:50 | 2022-05-06 | 2022-07-10 |
-| [Can´t Get It out of My Mind](https://open.spotify.com/track/56ViwfGK5zU5UoUXup1Lqv) | [Emmy Lou and The Rhythm Boys](https://open.spotify.com/artist/0VAO3FEhPxiR9e1nAlFzbr) | [Bip Bop Boom!](https://open.spotify.com/album/5p5AoSQkBhNtmWYESALu5x) | 2:52 | 2022-07-05 |  |
+| [Can´t Get It out of My Mind](https://open.spotify.com/track/56ViwfGK5zU5UoUXup1Lqv) | [Emmy Lou and The Rhythm Boys](https://open.spotify.com/artist/0VAO3FEhPxiR9e1nAlFzbr) | [Bip Bop Boom!](https://open.spotify.com/album/5p5AoSQkBhNtmWYESALu5x) | 2:52 | 2022-07-05 | 2022-08-30 |
 | [Can´t Get It Out of My Mind](https://open.spotify.com/track/5Z1sGA3c1XbY1Qu8Ku9Yz1) | [Emmy Lou and The Rhythm Boys](https://open.spotify.com/artist/0VAO3FEhPxiR9e1nAlFzbr) | [Bip Bop Boom!](https://open.spotify.com/album/4E35ZgomU7H1ktEB1GtWba) | 2:52 | 2022-05-06 | 2022-07-29 |
 | [Chalk It Up to the Blues](https://open.spotify.com/track/3GjdLiQyrIDArRUHHsE93v) | [Big Sandy & His Fly\-Rite Boys](https://open.spotify.com/artist/2LOf1HpUxBqvz3WIdNPdBv) | [It's Time!](https://open.spotify.com/album/0F9FXQPcSj82bp4SnDeA7A) | 3:12 | 2022-05-06 |  |
 | [Chantilly Lace](https://open.spotify.com/track/25hrRL7AzlYSLtttKIoY5l) | [The Big Bopper](https://open.spotify.com/artist/2gNK2HAaLVz5DZoD2moDQj) | [The Big Bopper's Greatest Hits](https://open.spotify.com/album/3TQUtTuwtG9vDtRprrifqC) | 2:21 | 2022-05-06 | 2022-06-10 |
@@ -159,6 +159,7 @@
 | [Tiger Twist \- 2007 Remaster](https://open.spotify.com/track/0WZiGJT2NawjIySdHLzhMx) | [Teddy & The Tigers](https://open.spotify.com/artist/1vKtKEWbJ3NcT14A49sBbb) | [Burn It Up](https://open.spotify.com/album/7mqE83mgUVFGH58PShzMBg) | 2:05 | 2022-05-06 |  |
 | [Tutti Frutti](https://open.spotify.com/track/0JLR1Y2HdwzNrt3UTqujwg) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [The Very Best Of Little Richard](https://open.spotify.com/album/3LXNSUpx48PQxUn2StRqfu) | 2:24 | 2022-05-06 | 2022-07-29 |
 | [Tutti Frutti](https://open.spotify.com/track/2iXcvnD3d1gfLBum0cE5Eg) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Here's Little Richard \(Deluxe Edition\)](https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8) | 2:24 | 2022-07-05 |  |
+| [Umbrella](https://open.spotify.com/track/6evNakVewSYjoUmEIEEHLi) | [The Baseballs](https://open.spotify.com/artist/3Ek1EdkcbRFvSDJj9j5JXQ) | [Strike!](https://open.spotify.com/album/6fCk4dWzSKBJeIC3RKSxF7) | 3:06 | 2022-08-12 |  |
 | [Umbrella](https://open.spotify.com/track/0BGFXKfJ8Dpjxfn86HLhYz) | [The Baseballs](https://open.spotify.com/artist/3Ek1EdkcbRFvSDJj9j5JXQ) | [Strike!](https://open.spotify.com/album/5uXZ0RyZE3IGWz4ZEHUZG9) | 3:07 | 2022-07-05 | 2022-08-25 |
 | [We the Boys Will Rock Ya](https://open.spotify.com/track/5X0Bw8bVxSm274py1RyosM) | [The Big Six](https://open.spotify.com/artist/3yBtTnMApmLbCCRUWq0bgP) | [We Will Rock You](https://open.spotify.com/album/73Wnm7tH3Potmwl8dQSPdB) | 3:32 | 2022-05-06 | 2022-06-01 |
 | [We Wanna Boogie](https://open.spotify.com/track/6QeidKP5ydccQtr3SBqkON) | [Sonny Burgess](https://open.spotify.com/artist/0wYcRO9uOuCpQZ8qrQ1uRT) | [Red Headed Woman / We Wanna Boogie](https://open.spotify.com/album/0yhlMMYB5mGpdlbtWvqDe9) | 2:24 | 2022-05-06 | 2022-07-12 |

@@ -4,7 +4,7 @@
 
 > The freshest smooth jazz\. Cover: Nick Colionne
 
-264 songs - 18 hr 43 min - [published](https://open.spotify.com/playlist/73Eg864FGRS3gdmYP6IVUV)
+265 songs - 18 hr 47 min - [published](https://open.spotify.com/playlist/73Eg864FGRS3gdmYP6IVUV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Catalina Nights](https://open.spotify.com/track/1P0QSIHqHQVMQXsm7zX1c6) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Catalina Nights](https://open.spotify.com/album/0qAGgRZUQlLzmIHww3hz97) | 4:04 | 2022-04-08 |  |
 | [Change the World](https://open.spotify.com/track/4AOWSlCyRoSKG0psP8U3ak) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Simple Things](https://open.spotify.com/album/5johDkRr09Mayqa0V7Ik8X) | 3:44 | 2022-05-20 |  |
 | [Chasing the Dream](https://open.spotify.com/track/7DoHYeSKTtlvvu0bjybY2f) | [Tony Saunders](https://open.spotify.com/artist/5OLFOdnwdWsZry0VUo3b2Q), [Nils](https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB), [Jeff Ryan](https://open.spotify.com/artist/0cjzOb6JYN5AOg4WVA9miY) | [Sexy Somethin](https://open.spotify.com/album/3bmCfOCQF2wsR7L7XwvMwa) | 4:34 | 2021-01-22 | 2022-03-18 |
-| [Chicago Morning](https://open.spotify.com/track/2E6pU3PbdItkREHN9IYCJb) | [Spontaneous Groovin' Combustion](https://open.spotify.com/artist/48jWgkXNkHqn6SVQZniYe5) | [Chicago Morning](https://open.spotify.com/album/32yiS9sXWBCJvOvCLU276N) | 4:20 | 2022-03-18 |  |
+| [Chicago Morning](https://open.spotify.com/track/2E6pU3PbdItkREHN9IYCJb) | [Spontaneous Groovin' Combustion](https://open.spotify.com/artist/48jWgkXNkHqn6SVQZniYe5) | [Chicago Morning](https://open.spotify.com/album/32yiS9sXWBCJvOvCLU276N) | 4:20 | 2022-03-18 | 2022-08-30 |
 | [Chill@Will](https://open.spotify.com/track/0rPQtEYEBPRzjdwqg9UIjH) | [Gabriel Mark Hasselbach](https://open.spotify.com/artist/4YCL2MVhmQLfNMDXz2of4L), [Bob Baldwin](https://open.spotify.com/artist/6URFeH3cWWv6tj2RazL9IP) | [Chill@Will](https://open.spotify.com/album/6HZKfoekNmLbY2KuxQxTzD) | 4:29 | 2021-05-07 | 2022-03-18 |
 | [City Night Flower](https://open.spotify.com/track/2USwEUEiOOnObrAC8jsGRl) | [Alfonso Gugliucci](https://open.spotify.com/artist/7o2w7PcKeBdqCg0uvvKbgJ), [Lenny Sendersky](https://open.spotify.com/artist/72xyMrVI7xrI9EChbkiMUZ) | [City Night Flower](https://open.spotify.com/album/7jsclENEXlVWKEJyewTYA5) | 3:42 | 2021-05-28 | 2022-03-18 |
 | [Close to You](https://open.spotify.com/track/4wzsbI8mdiRmP7aFYSB9IZ) | [Jesse Thompson](https://open.spotify.com/artist/6gaTtx4sTEvLIX01paATf5), [Justin Young](https://open.spotify.com/artist/49OldsHGWhHHWNKdkHdx7B) | [Close to You](https://open.spotify.com/album/0UzEtJFEp0E7sP6ls6Dro3) | 3:41 | 2021-10-01 | 2022-07-26 |
@@ -252,6 +252,7 @@
 | [Think Critically](https://open.spotify.com/track/7td9QhTIGCmNMP1UCNIWdp) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Arun Shenoy](https://open.spotify.com/artist/2z4Hre9Bs3HgruyY01zYwU), [Douglas Lira](https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI), [Jonathan Wesley](https://open.spotify.com/artist/4PzdAdVyRd6Un66vHOD6st) | [Think Critically](https://open.spotify.com/album/3yqlMgLOD7vcIr709YGGt5) | 4:11 | 2022-02-18 |  |
 | [Ticket to Pittsburgh](https://open.spotify.com/track/108rbeIEFrj81JWNXXWsX4) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S), [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [Ticket to Pittsburgh](https://open.spotify.com/album/3OTI2McvDpATafqL7qxUq7) | 5:23 | 2022-04-29 |  |
 | [Tonic](https://open.spotify.com/track/6cgKf3UVdiMaFqDSaNDwnA) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Solid](https://open.spotify.com/album/1YcK4A5I2wdtgDJZ8Cht0F) | 4:17 | 2020-10-30 | 2022-03-18 |
+| [Tribute](https://open.spotify.com/track/50MtaTholYQZwggn6EvbTl) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Tribute](https://open.spotify.com/album/7Io45dFofkBVEzQdMTXxsl) | 4:05 | 2022-08-26 |  |
 | [Tried and True](https://open.spotify.com/track/5nBPBnrLdedTDobt38Ysmn) | [Dan Siegel](https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd) | [Faraway Place](https://open.spotify.com/album/1HrezZYFI96JpaFUMZwMb1) | 4:08 | 2021-07-30 | 2022-07-29 |
 | [Tried and True](https://open.spotify.com/track/2eQO1G2jfHGNgGxqkLZUX9) | [Dee Lucas](https://open.spotify.com/artist/2QD4KsUc6Dyg2JMNWXSdgb), [David P Stevens](https://open.spotify.com/artist/50Q09II7EoYJdcgK3UJhBl) | [Tried and True](https://open.spotify.com/album/7wW56huPgJM6uMla5gEOgW) | 3:42 | 2020-10-30 | 2022-03-18 |
 | [Trust and Faith](https://open.spotify.com/track/2fooyGgpvP6IfAmueqdEBP) | [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz), [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [Trust and Faith](https://open.spotify.com/album/3B0Tscyvv4uOmn7HpB3XiL) | 4:18 | 2020-10-30 | 2022-02-28 |

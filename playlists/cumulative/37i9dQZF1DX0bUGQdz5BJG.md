@@ -2,9 +2,9 @@
 
 ### [Next From Nashville](https://open.spotify.com/playlist/37i9dQZF1DX0bUGQdz5BJG)
 
-> Music City must\-hears\. Cover: Kameron Marlowe
+> Music City must\-hears\. Cover: Conner Smith
 
-785 songs - 1 day 17 hr 53 min - [published](https://open.spotify.com/playlist/6guBJqgtXaO0mvdeL4JtNk)
+786 songs - 1 day 17 hr 56 min - [published](https://open.spotify.com/playlist/6guBJqgtXaO0mvdeL4JtNk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -516,6 +516,7 @@
 | [One Of These Days](https://open.spotify.com/track/4aiB7B1oOzaGFzQ0ks5HED) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [One Of These Days](https://open.spotify.com/album/1VeyxagAmvjW7vKqtKa5zD) | 3:27 | 2022-03-18 | 2022-05-20 |
 | [One, Too](https://open.spotify.com/track/6760P0VTIHIiJLpyw9iu4i) | [Makenzie Schriner](https://open.spotify.com/artist/5Z9ZOYc8dwjeD054CUqbBu) | [One, Too](https://open.spotify.com/album/5yUPtSW75ZsOKRWkLD3zGe) | 3:55 | 2021-12-31 | 2022-02-12 |
 | [Open the Gate](https://open.spotify.com/track/3Ngp6vv1OGyAaQLcNbqRMz) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Open the Gate](https://open.spotify.com/album/1BlxSkd0XuXeU15NKhFfDc) | 3:54 | 2022-05-06 | 2022-06-04 |
+| [Orange And White](https://open.spotify.com/track/1VuBxXWxRfWGOZAg6ysqgX) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [Orange And White](https://open.spotify.com/album/70tPDXm2rmrGf4scGgjNdv) | 3:29 | 2022-08-29 |  |
 | [Out in the Middle](https://open.spotify.com/track/2Dacmfq3VLY1miVcU2SMIt) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Comeback](https://open.spotify.com/album/3HAqDprp8YxHEguHkCcfOC) | 2:46 | 2022-01-21 | 2022-02-05 |
 | [Out Yonder](https://open.spotify.com/track/6qD87YEMuF9pY4g3MtSeiG) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Out Yonder](https://open.spotify.com/album/6tUQwE1bKzyW54f7vkEg4P) | 3:22 | 2022-03-18 | 2022-06-04 |
 | [Over Me](https://open.spotify.com/track/0jXKRePIfoF4Cx85AySGv0) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH) | [Over Me](https://open.spotify.com/album/4cbl9hNkpawd8VCyGe8IiB) | 3:25 | 2022-02-11 | 2022-06-04 |

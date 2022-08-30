@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: SAPPHIRE
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,387 likes - 85 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,462 likes - 85 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 56 | [Devil's Work](https://open.spotify.com/track/0RRZVMWLdovT58YKbVG4sV) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [Devil's Work](https://open.spotify.com/album/5E0v1l0J7Nd3smRv9NYMKk) | 3:30 |
 | 57 | [Fall In Love Alone](https://open.spotify.com/track/5xwBIieMMFUmLDgvG4DjFe) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Fall In Love Alone](https://open.spotify.com/album/0ASnNAycI0eu91gMm9Jfe4) | 3:25 |
 | 58 | [Astronaut](https://open.spotify.com/track/7oC2PFdQllzwRhsaTWQUAX) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [Astronaut](https://open.spotify.com/album/1lvviZbYiV4VJpawVDcXVm) | 4:29 |
-| 59 | [Some Things Aren't Meant Forever](https://open.spotify.com/track/3rbOx276Sg54mKg1wtw3TZ) | [Tayler Buono](https://open.spotify.com/artist/5doPfvddXXjtQIJu9rQEz5) | [Some Things Aren't Meant Forever](https://open.spotify.com/album/6oXh4YBENKSxvNm1qwdwru) | 3:05 |
+| 59 | [Some Things Aren't Meant Forever](https://open.spotify.com/track/7bIoxoBmjIIO5qazZNKXI1) | [Tayler Buono](https://open.spotify.com/artist/5doPfvddXXjtQIJu9rQEz5) | [Some Things Aren't Meant Forever](https://open.spotify.com/album/713FODmo5rvUqDtgPhOeYm) | 3:05 |
 | 60 | [Younger Self](https://open.spotify.com/track/6URJ4SjwwDw8XOFwYN6rY5) | [Nancy Daines](https://open.spotify.com/artist/4OJNnbwrNhUSPNJGvL71jR) | [Younger Self](https://open.spotify.com/album/6AkBIRxlFJ7lW4gcjl3aNe) | 3:23 |
 | 61 | [the sky looked nice today](https://open.spotify.com/track/1R0WKnVaUrZbEyJNHSVlgX) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [when the sun came up](https://open.spotify.com/album/2MrUkSTLolgDJTboaxwCXl) | 3:19 |
 | 62 | [die with my friends](https://open.spotify.com/track/3fVNNTKNNZr7qkoxk6frOL) | [Lindsey Lomis](https://open.spotify.com/artist/7qY2O8bWspXlSwQl5JAkvn) | [die with my friends](https://open.spotify.com/album/4p0YtcDjEjfDcQ1CDclkY2) | 2:37 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 84 | [I GUESS I'M IN LOVE](https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [I GUESS I'M IN LOVE](https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP) | 3:24 |
 | 85 | [Hostage](https://open.spotify.com/track/1ndqHrik6dcm5ZIu7bZUY0) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [Satellite](https://open.spotify.com/album/7cTthdPgZAHv44s7VCar46) | 3:49 |
 
-Snapshot ID: `MTY2MTQ4NjQ2MCwwMDAwMDAwMGFmZjM4YmU5M2E0NTU5YTM4MTEwNDg1NTQyMWU0NTA0`
+Snapshot ID: `MTY2MTQ4NjQ2MCwwMDAwMDAwMGYzMWQxN2Q5ZTRlNmQ5OTNlNThiZGNjY2RiYmM5YmEw`
