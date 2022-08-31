@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New releases, driving the current\. Cover: Offset
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,931 likes - 99 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,000 likes - 99 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 27 | [i want to die in your arms](https://open.spotify.com/track/08KjCNJAIG6Y41ssp19yTn) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i want to die in your arms](https://open.spotify.com/album/4TdNXt2F6mfD6ViYi2vt7f) | 2:16 |
 | 28 | ["Filthy"](https://open.spotify.com/track/2KkglYERoV6dGi9ME4iYsw) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | ["Filthy"](https://open.spotify.com/album/0Br6de1bBO1f2FStNS2Vl5) | 3:01 |
 | 29 | [Bang](https://open.spotify.com/track/7MQxN4lV9BC6Y5qgx4Inxc) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 3:22 |
-| 30 | [Real Bitch \(feat\. Gloss Up\)](https://open.spotify.com/track/4zH4kR30s4Cx6HMvodrf32) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Gloss Up](https://open.spotify.com/artist/0i5emUaPMWG7O3rAoXvvq8) | [Real Bitch \(feat\. Gloss Up\)](https://open.spotify.com/album/6MUUM532DEcR697rck5n90) | 2:04 |
+| 30 | [Real Bitch \(feat\. Gloss Up\)](https://open.spotify.com/track/4zH4kR30s4Cx6HMvodrf32) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Real Bitch \(feat\. Gloss Up\)](https://open.spotify.com/album/6MUUM532DEcR697rck5n90) | 2:04 |
 | 31 | [From Nothing](https://open.spotify.com/track/5RtOqP26S4KrWexNolBaQc) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [From Nothing](https://open.spotify.com/album/1aDPMtE5pS8cNUKC3FnoIH) | 2:49 |
 | 32 | [Fire Proof](https://open.spotify.com/track/3QANNgnNhT17Ll4xbPPKpY) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Fire Proof](https://open.spotify.com/album/1lkXpwEqvshMPhGFLm8gJI) | 2:02 |
 | 33 | [Free Slime](https://open.spotify.com/track/4Wgu0FPMdz24m4TBc7kyk2) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [W13](https://open.spotify.com/album/2UQ8TnK4dXTwd66W9bQZz9) | 3:14 |

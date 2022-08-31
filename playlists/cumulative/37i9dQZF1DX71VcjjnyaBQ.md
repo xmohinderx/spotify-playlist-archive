@@ -4,7 +4,7 @@
 
 > Jazz for breakfast to start your day right.
 
-140 songs - 12 hr 19 min - [published](https://open.spotify.com/playlist/00KxmXWSXPzcN3QrlgmEa1)
+141 songs - 12 hr 23 min - [published](https://open.spotify.com/playlist/00KxmXWSXPzcN3QrlgmEa1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Boo's Blues](https://open.spotify.com/track/69eOQr9N0AQm8lGJMBHyAr) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Boo's Blues](https://open.spotify.com/album/7cLgwx3J525qJrIbYOohuU) | 3:25 | 2022-02-10 |  |
 | [Bubbles](https://open.spotify.com/track/3GGslX17J2F3IzVE5yIiRJ) | [Jacob Karlzon](https://open.spotify.com/artist/3R4vdaqhh9jn2fOCned9nM) | [Jacob Karlzon Trio: Today](https://open.spotify.com/album/10ZG1HoTjvzHzq7kvATtMm) | 5:06 | 2022-06-30 |  |
 | [Bubbles](https://open.spotify.com/track/2pRpSND6CcxuZYfBlccZXN) | [Jacob Karlzon Trio](https://open.spotify.com/artist/1ap7d4ByxAHY8C3QnedJH7) | [Jacob Karlzon Trio: Today](https://open.spotify.com/album/30xxXhILNDBzUMneKkd1BA) | 5:06 | 2021-12-21 | 2022-07-29 |
-| [Bye Bye Blackbird \- Live](https://open.spotify.com/track/6uOOsk7EiY6KUPOrrZZ3T1) | [Jim Snidero](https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv) | [Bye Bye Blackbird \(Live\)](https://open.spotify.com/album/7MvX7YVbUIvaIqUJi4wQnE) | 7:02 | 2022-02-10 |  |
+| [Bye Bye Blackbird \- Live](https://open.spotify.com/track/6uOOsk7EiY6KUPOrrZZ3T1) | [Jim Snidero](https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv) | [Bye Bye Blackbird \(Live\)](https://open.spotify.com/album/7MvX7YVbUIvaIqUJi4wQnE) | 7:02 | 2022-02-10 | 2022-08-31 |
 | [Cloudland](https://open.spotify.com/track/32GV4ifruoiDEoLVe0c1k7) | [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope), [Grégory Privat](https://open.spotify.com/artist/0mmRcGkPj9s4Hq0xFrMBPh), [John Parricelli](https://open.spotify.com/artist/55Ib86Ob0dKLELhJ1gvUri), [Magnus Öström](https://open.spotify.com/artist/1ZPtjLlwSZjToQXcq2JVy2), [Arve Henriksen](https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7) | [Cloudland](https://open.spotify.com/album/0fm7uQgAG7FIMzrKZfKMng) | 4:34 | 2022-02-10 |  |
 | [Compromises](https://open.spotify.com/track/6teUPQnEbgYScxhKjVNcOc) | [Arne Torvik Trio](https://open.spotify.com/artist/7wIjlaL576ezBXdBuC3rGZ), [Arne Torvik](https://open.spotify.com/artist/3T69SoM3RxKdkpQd2gn2iv), [Bjørnar Kaldefoss Tveite](https://open.spotify.com/artist/6UlcsS6DYRuJmx1keoSc66), [Øystein Aarnes Vik](https://open.spotify.com/artist/4j7webqY2iLUDsHzMjgd9u) | [Compromises](https://open.spotify.com/album/7MkYND1u4Y9ytafBECXxPM) | 3:05 | 2021-12-21 |  |
 | [Cononbridge](https://open.spotify.com/track/7eTxWRSvauWm5L3FblGk2h) | [Matt Carmichael](https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0) | [Cononbridge](https://open.spotify.com/album/1Hu3K4n6IhaGGqCT5Hf1sj) | 4:58 | 2022-02-10 |  |
@@ -141,6 +141,7 @@
 | [Velvet Gloves & Spit](https://open.spotify.com/track/28nqRn3qpWokvnhGfXwbEf) | [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS) | [Velvet Gloves & Spit](https://open.spotify.com/album/4xAd50gOzhbIldhrmYAJWK) | 2:43 | 2021-12-21 | 2022-07-29 |
 | [Velvet Gloves & Spit](https://open.spotify.com/track/5AbvIJTlfp52S6b9WipNBC) | [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS) | [Mondenkind](https://open.spotify.com/album/1s27PprVQ7RNFHxsWa6RhQ) | 2:43 | 2022-06-30 |  |
 | [When I Fell for You](https://open.spotify.com/track/5o7zflAK8LxDYuqpSDmwhM) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [When I Fell for You](https://open.spotify.com/album/6v6O5lQqx8E3PqENPC7hAk) | 5:22 | 2022-02-10 |  |
+| [Where or When](https://open.spotify.com/track/3b1J3QbTTDXcxB4EmIWY17) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [Where or When](https://open.spotify.com/album/1qYy2VgAlQ0yPQf4C5TWDo) | 3:50 | 2022-08-29 |  |
 | [Where We Belong](https://open.spotify.com/track/4LRIGcp9jELNiscAhEc2XI) | [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph), [Lars Jansson](https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS), [Paul Svanberg](https://open.spotify.com/artist/7KfU9kgLyulNPcW5ZBlPRX) | [Where We Belong](https://open.spotify.com/album/1klyqyo9Ychh0ItzQDgrox) | 6:11 | 2021-12-21 |  |
 | [Will You Still Be Mine?](https://open.spotify.com/track/7FoszDSSSG1bFxDl6QDZ0l) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Jimmy Cobb](https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ), [John Webber](https://open.spotify.com/artist/2DcPd1TuEWKCjnokl3EIO5) | [A Drums Comes True](https://open.spotify.com/album/6bey4hwrgdVRopI07dKfsr) | 5:53 | 2021-12-21 |  |
 | [Without Deception](https://open.spotify.com/track/503UAqvRFIcoNaUYZM2WUZ) | [Kenny Barron](https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3), [Dave Holland Trio](https://open.spotify.com/artist/7fFLGyDMrSHUmuY6wdAcXe), [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Without Deception](https://open.spotify.com/album/6LUlAvbrFf5GdxXAO0Fznc) | 6:35 | 2021-12-21 |  |

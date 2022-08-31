@@ -4,7 +4,7 @@
 
 > Soak up the serenity with these beautiful melodies.
 
-450 songs - 1 day 1 hr 18 min - [published](https://open.spotify.com/playlist/2JotmOf77AlDkIMaQkg9OK)
+451 songs - 1 day 1 hr 21 min - [published](https://open.spotify.com/playlist/2JotmOf77AlDkIMaQkg9OK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,7 +366,8 @@
 | [Slow](https://open.spotify.com/track/1Ia95g66IhlAJ3qVI4qI8W) | [SHY Martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Slow](https://open.spotify.com/album/6u4ZwK6xSWHhREBVzhjQg6) | 2:43 | 2020-01-10 | 2021-01-28 |
 | [Slow Dive](https://open.spotify.com/track/7ApDE6AnzlJQfbINLPg8PW) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2), [Paige](https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7) | [Almost Feel Good Mixtape](https://open.spotify.com/album/4i80X9vxBn2Yv6dYJ0n9i0) | 3:50 | 2019-08-02 | 2019-08-30 |
 | [slower](https://open.spotify.com/track/1bd4heB3yXc5iFTPoOMPuo) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [slower](https://open.spotify.com/album/4NwShGLn0PyyJ7AC7cEqBz) | 3:07 | 2021-03-06 | 2021-08-20 |
-| [Small Talk](https://open.spotify.com/track/5J17jC78SZXMPfcoCvs0Uk) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Small Talk](https://open.spotify.com/album/7iuROt2yxUMHIrFFni6pyh) | 3:08 | 2022-06-30 |  |
+| [Small Talk](https://open.spotify.com/track/2up2rf3OEktoapyXEzxhMa) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Handle with Care](https://open.spotify.com/album/05hWw0s7A5YHErAUE3OMXu) | 3:08 | 2022-08-25 |  |
+| [Small Talk](https://open.spotify.com/track/5J17jC78SZXMPfcoCvs0Uk) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Small Talk](https://open.spotify.com/album/7iuROt2yxUMHIrFFni6pyh) | 3:08 | 2022-06-30 | 2022-08-31 |
 | [smiling when i die](https://open.spotify.com/track/7yCyhsU75MYdbeqRLhLY51) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [smiling when i die](https://open.spotify.com/album/5bHqzyMbrdJTLui0HQdRG0) | 3:26 | 2019-09-27 | 2020-06-19 |
 | [So We Remain](https://open.spotify.com/track/07rSgUwp4YTZH5bCYya7Xv) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv) | [So We Remain](https://open.spotify.com/album/3auQEEvgNqTzRw8XVDdhjR) | 2:39 | 2022-05-12 |  |
 | [Soft Landing](https://open.spotify.com/track/03sDUI44L3nlJoSoGgMRQ8) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Dangerous Levels of Introspection \(Deluxe Edition\)](https://open.spotify.com/album/0jgLrnhzlL9o4z9TyEt2ih) | 2:27 | 2021-11-12 |  |

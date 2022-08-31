@@ -972,6 +972,24 @@
     },
     {
       "album": {
+        "name": "NEVER LOSE, MY RULE",
+        "url": "https://open.spotify.com/album/5vNWgs4IRclxjr6vj64jgm"
+      },
+      "artists": [
+        {
+          "name": "\u0179OO\u013b",
+          "url": "https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282960,
+      "name": "NEVER LOSE, MY RULE",
+      "url": "https://open.spotify.com/track/6ppmAfQF2yqhBEksloIB07"
+    },
+    {
+      "album": {
         "name": "NO DOUBT",
         "url": "https://open.spotify.com/album/4rWk8ApWuufjAhA6KuXveM"
       },
@@ -1653,7 +1671,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 288000,
       "name": "\u30ca\u30ca\u30c4\u30a4\u30ed REALiZE",
       "url": "https://open.spotify.com/track/54IcYBsKHecx4MgZyqF8TB"

@@ -1,12 +1,12 @@
 {
   "description": "Iconic instrumentals from the history of Blues.",
-  "num_followers": 16518,
+  "num_followers": 16583,
   "original_name": "Instrumental Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTEwNTUzMiwwMDAwMDAwMDAyMmM0YTFlZjE5OWNhMDNjODUyZjVhZjc4YzgzMjIw",
+  "snapshot_id": "MTY1OTEwNTUzMiwwMDAwMDAwMDRlMWI3ZGMzMTAyNmUxMThiOGVjZjMzODhlODI3NTUz",
   "tracks": [
     {
       "added_at": "2022-07-29 14:38:52",
@@ -507,6 +507,22 @@
     {
       "added_at": "2022-07-29 14:38:52",
       "album": {
+        "name": "Blues On The South Side",
+        "url": "https://open.spotify.com/album/0gf11Wt8uQxan5JN6DWIvC"
+      },
+      "artists": [
+        {
+          "name": "Homesick James",
+          "url": "https://open.spotify.com/artist/4XlRNWTeM8KRfRrvxXSsgP"
+        }
+      ],
+      "duration_ms": 254133,
+      "name": "Homesick's Shuffle",
+      "url": "https://open.spotify.com/track/3eIZeCBB7xQc4ZfKDVsNih"
+    },
+    {
+      "added_at": "2022-07-29 14:38:52",
+      "album": {
         "name": "King Of The Blues Guitar (Reissue)",
         "url": "https://open.spotify.com/album/4btZS65kvBlUlw7xSnzehz"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 205400,
       "name": "Tribute To Elmore James",
       "url": "https://open.spotify.com/track/0RGJg8HUx82PSbIKjbips5"
-    },
-    {
-      "added_at": "2022-07-29 14:38:52",
-      "album": {
-        "name": "Blues On The South Side",
-        "url": "https://open.spotify.com/album/0gf11Wt8uQxan5JN6DWIvC"
-      },
-      "artists": [
-        {
-          "name": "Homesick James",
-          "url": "https://open.spotify.com/artist/4XlRNWTeM8KRfRrvxXSsgP"
-        }
-      ],
-      "duration_ms": 254133,
-      "name": "Homesick's Shuffle",
-      "url": "https://open.spotify.com/track/3eIZeCBB7xQc4ZfKDVsNih"
     },
     {
       "added_at": "2022-07-29 14:38:52",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-07-29 14:38:52",
       "album": {
-        "name": "The Paul Butterfield Blues Band",
-        "url": "https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG"
-      },
-      "artists": [
-        {
-          "name": "The Paul Butterfield Blues Band",
-          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
-        }
-      ],
-      "duration_ms": 276933,
-      "name": "Screamin'",
-      "url": "https://open.spotify.com/track/5wQPmEoKg2Z05jV9FI0Z6p"
-    },
-    {
-      "added_at": "2022-07-29 14:38:52",
-      "album": {
         "name": "Hoodoo Man Blues",
         "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 500586,
       "name": "Overall Junction",
       "url": "https://open.spotify.com/track/1mRpxrgL9La7awQ8LvlHGF"
+    },
+    {
+      "added_at": "2022-07-29 14:38:52",
+      "album": {
+        "name": "The Paul Butterfield Blues Band",
+        "url": "https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG"
+      },
+      "artists": [
+        {
+          "name": "The Paul Butterfield Blues Band",
+          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
+        }
+      ],
+      "duration_ms": 276933,
+      "name": "Screamin'",
+      "url": "https://open.spotify.com/track/5wQPmEoKg2Z05jV9FI0Z6p"
     },
     {
       "added_at": "2022-07-29 14:38:52",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-07-29 14:38:52",
       "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 159626,
-      "name": "Avalanche",
-      "url": "https://open.spotify.com/track/4XtHlG9bac0BxNGSJkuK3J"
-    },
-    {
-      "added_at": "2022-07-29 14:38:52",
-      "album": {
         "name": "Screamin' the Blues",
         "url": "https://open.spotify.com/album/6N4DLp1wZDmJyV08vB9vHY"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 188800,
       "name": "Sweet Ginny",
       "url": "https://open.spotify.com/track/4zV9LoMlAnPeHS1kvKJ2ea"
+    },
+    {
+      "added_at": "2022-07-29 14:38:52",
+      "album": {
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 159626,
+      "name": "Avalanche",
+      "url": "https://open.spotify.com/track/4XtHlG9bac0BxNGSJkuK3J"
     },
     {
       "added_at": "2022-07-29 14:38:52",

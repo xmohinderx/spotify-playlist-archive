@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Ananda, Hotelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,430 likes - 74 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,434 likes - 74 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

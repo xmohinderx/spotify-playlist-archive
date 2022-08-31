@@ -3765,7 +3765,7 @@
     {
       "album": {
         "name": "The Biggest 6",
-        "url": "https://open.spotify.com/album/3IfzYLYuf4ilq1zeBy6z9O"
+        "url": "https://open.spotify.com/album/1IyesdAqIGoe92UBLnFm0Z"
       },
       "artists": [
         {
@@ -3776,6 +3776,24 @@
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 155928,
+      "name": "Freak Block Tales",
+      "url": "https://open.spotify.com/track/3Oz4YqNsVLjiGaV37hrt7Y"
+    },
+    {
+      "album": {
+        "name": "The Biggest 6",
+        "url": "https://open.spotify.com/album/3IfzYLYuf4ilq1zeBy6z9O"
+      },
+      "artists": [
+        {
+          "name": "Dwalk",
+          "url": "https://open.spotify.com/artist/6eTtN1ArNtkXCPZJ8riM0T"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-31",
       "duration_ms": 155943,
       "name": "Freak Block Tales",
       "url": "https://open.spotify.com/track/07Zt48FGHUkljvK0gdB4Gz"

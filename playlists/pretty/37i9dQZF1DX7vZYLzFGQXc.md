@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent talents are here\. \(Cover: COOING\(쿠잉\)\) \(프레쉬한 한국의 인디펜던트 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,473 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,500 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 28 | [I still can't believe it](https://open.spotify.com/track/74GRNRNGzmV6v9PC7nCCDR) | [KOYO](https://open.spotify.com/artist/14eB522leOXARuY6M8Gxcz) | [Bravo, My Life \(Original Soundtrack\), Pt.34](https://open.spotify.com/album/4C9xyKM41a9DLqCWqewSSJ) | 4:16 |
 | 29 | [Bad guy](https://open.spotify.com/track/0wydkgdfOJcb9gOx2L0wkV) | [영둥이](https://open.spotify.com/artist/6WNQgcI0bd9sNw8EznPOgF) | [Bad guy](https://open.spotify.com/album/5o8e4tkBjUNLBwXMSsIiFK) | 3:09 |
 | 30 | [We Talk](https://open.spotify.com/track/3dAo93NPkYNZcrVTYQN3PN) | [Band Minha](https://open.spotify.com/artist/18lZ5mKgExa7KKLBHoDMrJ) | [We Talk](https://open.spotify.com/album/2lWLxM3pYeILU3PTWqoEVQ) | 3:26 |
-| 31 | [Like my groove](https://open.spotify.com/track/2LpUmnpyrdsrGwjxFkUBVp) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx), [The Orchard](https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI) | [Like my groove](https://open.spotify.com/album/7kcDdPNGDvR88xrU41QWlz) | 3:07 |
+| 31 | [Like my groove](https://open.spotify.com/track/2LpUmnpyrdsrGwjxFkUBVp) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx), [the orchard](https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI) | [Like my groove](https://open.spotify.com/album/7kcDdPNGDvR88xrU41QWlz) | 3:07 |
 | 32 | [help](https://open.spotify.com/track/0vxcf5Ust5Qm6T0LA1uAr4) | [Chilloud](https://open.spotify.com/artist/7IInvecim7bgtuDf8yWP9S), [sane](https://open.spotify.com/artist/5AXWOrizattZ8pIPbxfpUz), [yaon](https://open.spotify.com/artist/0ybwk04kHgOgtrL8GVw9gy), [Lil Kintexx](https://open.spotify.com/artist/05GiFsy2bdPTpl3oyJyZic), [GOLDBUUDA](https://open.spotify.com/artist/1C6mRx44pGqKBwZKotODDV), [Lil Kirby](https://open.spotify.com/artist/0AyTTFMP8EFKZJ9VUNEBq1) | [help](https://open.spotify.com/album/3s4yc0Gvz7a9Py5Qe04wt4) | 3:20 |
 | 33 | [The One I Love](https://open.spotify.com/track/6C1e3Fl3BHzlRNZk6ubm6C) | [Siyoon](https://open.spotify.com/artist/3dLG806ZDpPYdtXXTnCrAU) | [The One I Love](https://open.spotify.com/album/7IWphRN26CJeRDB6BjnYBl) | 2:56 |
 | 34 | [Sound Sleep \(feat\. Mabinc\)](https://open.spotify.com/track/6fu9R8kbhpABqj12soV73s) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [Mabinc](https://open.spotify.com/artist/7gOu3iix5zisrsJCPvWu8Z) | [Attitude \#1](https://open.spotify.com/album/1FJw2Gh31WNocjV5wv5WOB) | 3:09 |

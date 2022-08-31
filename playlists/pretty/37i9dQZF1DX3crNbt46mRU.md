@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Elton John, Britney Spears
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,048 likes - 110 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,054 likes - 110 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 61 | [Dangerous](https://open.spotify.com/track/3DpxSpi0jot0XH73uZmlul) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Dangerous](https://open.spotify.com/album/7rH6ZOH1ZnbYqUfXEJW3xP) | 3:47 |
 | 62 | [CODE \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/5uVW9FWVaQde0lfF4hYs4C) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [CODE \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/42jB9RVqk28zOVbbKhSMX1) | 3:12 |
 | 63 | [Get Up Off The Floor](https://open.spotify.com/track/00TNno8mzugrcej0FqJvrW) | [FORTELLA](https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9) | [Get Up Off The Floor](https://open.spotify.com/album/3hWpTTQXIhRZy9Ln14ZlNt) | 2:35 |
-| 64 | [Can’t Lock the Dance](https://open.spotify.com/track/12qSQtSe3L5RdscUsnVy0o) | [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Can’t Lock the Dance](https://open.spotify.com/album/6KZy2bilOEX5e62JqOZBNw) | 2:39 |
+| 64 | [Can’t Lock the Dance](https://open.spotify.com/track/5ncNfN17c0IkMeyNMq34AH) | [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Can’t Lock the Dance](https://open.spotify.com/album/2IiBLXAzvboyIEzqvJlTsD) | 2:39 |
 | 65 | [Schritt für Schritt](https://open.spotify.com/track/5ysbk9weqgfXddHcDMwMmg) | [YAEL](https://open.spotify.com/artist/3kJ7c6rBMrQaLAXIFb61vp) | [Sweet Summer Love EP](https://open.spotify.com/album/4MKUTwhSr7hpdKdcQ3dWbn) | 3:04 |
 | 66 | [Closing Time](https://open.spotify.com/track/4V5OXRGuvskptvPp4Ty1VK) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [Matluck](https://open.spotify.com/artist/5CieAewiroqzWWxdsWuoNu) | [Closing Time](https://open.spotify.com/album/0JERqErfZosNVy4N9TBOVH) | 3:22 |
 | 67 | [Einer dieser Tage](https://open.spotify.com/track/5Q1Rtxbw5bHDO5ddg45Iel) | [Philipp Dittberner](https://open.spotify.com/artist/7oaSITFPadI3fnIxbv7hTa) | [Einer dieser Tage](https://open.spotify.com/album/3xETzGXWTlQTvlJ2a3oZKq) | 2:46 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 76 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 |
 | 77 | [Sunglasses](https://open.spotify.com/track/6qkGYZyzSy5JJn345Vyhur) | [Glasperlenspiel](https://open.spotify.com/artist/2UFKXTZgKtOTHSqMSyAcLO) | [Sunglasses](https://open.spotify.com/album/07l0rLWvKhrTjRPXbsDNif) | 2:38 |
 | 78 | [Bailando](https://open.spotify.com/track/4zaQ25KZ6jYzlTmHkbGm5X) | [Raaban](https://open.spotify.com/artist/4cSYNpczcvTUpnPMFDLsIc), [Space Primates](https://open.spotify.com/artist/20RYWcdxVryQ6rcjxnsEtc), [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Bailando](https://open.spotify.com/album/1zSLjxJiQYekSdva3wpH4p) | 2:29 |
-| 79 | [Urlaub](https://open.spotify.com/track/1IJlqjNuVEpiDZYrgu5yml) | [Julian le Play](https://open.spotify.com/artist/5xW9faV2hqlLG0rp7CTBof) | [Urlaub](https://open.spotify.com/album/6Ks6nhayWui93xuidjOxv7) | 2:30 |
+| 79 | [Urlaub](https://open.spotify.com/track/1IJlqjNuVEpiDZYrgu5yml) | [Julian le Play](https://open.spotify.com/artist/5xW9faV2hqlLG0rp7CTBof) | [Urlaub](https://open.spotify.com/album/6Ks6nhayWui93xuidjOxv7) | 2:31 |
 | 80 | [Beautiful Stranger](https://open.spotify.com/track/7ndKgIPneFhibUEYdqK8YE) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/4YrAMk088p90boVlesCpOQ) | 3:21 |
 | 81 | [Happier](https://open.spotify.com/track/50YBK8OKWYxD4eBNRwT7Qz) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Happier](https://open.spotify.com/album/0jpoehkF7UvSWtLwDuGd5X) | 3:00 |
 | 82 | [Rosé](https://open.spotify.com/track/0AUQCsU2vl14ksqSfCxP3k) | [Opération Zéro](https://open.spotify.com/artist/3ZsHilbh98OAs15IYU4bEP) | [Rosé](https://open.spotify.com/album/5L2dG68litmEVDp6XVqn40) | 2:43 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 109 | [Sehnsucht](https://open.spotify.com/track/1l68KfP3E4i6tliInpTfrQ) | [K\-Fly](https://open.spotify.com/artist/4jDdEv3oafVcJfrywVDi4p), [McN](https://open.spotify.com/artist/4Zt20mwx0XIcvxUglIfCDR) | [Sehnsucht](https://open.spotify.com/album/0zvagnodFvGPG91Sk2p3We) | 2:51 |
 | 110 | [Sahara](https://open.spotify.com/track/7olTQ8Xn5lPVjA8MNQTi4b) | [2 Engel & Charlie](https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA) | [Sahara](https://open.spotify.com/album/2bOSstfJ5XEj7mzHd8dolI) | 2:20 |
 
-Snapshot ID: `MTY2MTQ5NDY0MSwwMDAwMDAwMDE1N2QyMTg0MDg5MGFjZjM1MTYzMjMyZjFkNzJhODEy`
+Snapshot ID: `MTY2MTQ5NDY0MSwwMDAwMDAwMDkzNzNmZDRmYzE4NDA0MDBlZmU3ZThhZjZhMTVhNjBj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Alfredo Olivas en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,468 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,994 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,12 +20,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 | 10 | [Ni Volviendo a Nacer](https://open.spotify.com/track/1mQ20WIB5sGmvqaiHm5mw5) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Ni Volviendo a Nacer](https://open.spotify.com/album/4iIj1mXav2SUNKXS0yR57W) | 2:46 |
 | 11 | [El Ruddy](https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO) | 3:03 |
 | 12 | [Yo Perdí](https://open.spotify.com/track/0QKr9qO91FbCUDaNsXkZ5T) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Yo Perdí](https://open.spotify.com/album/7qIFqS4tLfjag7YkyPwecJ) | 2:44 |
-| 13 | [Hublot](https://open.spotify.com/track/5qKsIal7JJZ2bqXHPKdyVb) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm) | [Hublot](https://open.spotify.com/album/2VPiPeLG36iLMPIQOk1NgG) | 3:45 |
-| 14 | [No Se Va](https://open.spotify.com/track/5TXLMRrIet3CQxkyBZc3yE) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Se Va](https://open.spotify.com/album/4doKN48F7hHYG3WOujGP0F) | 3:14 |
+| 13 | [No Se Va](https://open.spotify.com/track/5TXLMRrIet3CQxkyBZc3yE) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Se Va](https://open.spotify.com/album/4doKN48F7hHYG3WOujGP0F) | 3:14 |
+| 14 | [Alaska](https://open.spotify.com/track/607ZGkxOxHJUVDEU3MZl86) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Alaska](https://open.spotify.com/album/6un8b7BMCwlYBFxbf3rSnZ) | 4:01 |
 | 15 | [Diviertete](https://open.spotify.com/track/211zWlnWWhycTO5T30Dxgu) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [Diviertete](https://open.spotify.com/album/7fNa6l9OLAL1dj68Nr8mu4) | 3:43 |
-| 16 | [Se Fue La Pantera](https://open.spotify.com/track/7G3h22znCIwaN07Q2s1ukR) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [De Boca En Boca](https://open.spotify.com/album/01olKgKJsavApHa7QJNT29) | 3:07 |
-| 17 | [El Vago De Los Nike](https://open.spotify.com/track/3MdhvQ8BprBhd4lYlgtPt2) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ) | [Vive Y Dejame Vivir](https://open.spotify.com/album/7obSSQZvfcaXki0vc6U847) | 2:56 |
-| 18 | [Alaska](https://open.spotify.com/track/607ZGkxOxHJUVDEU3MZl86) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Alaska](https://open.spotify.com/album/6un8b7BMCwlYBFxbf3rSnZ) | 4:01 |
+| 16 | [Hublot](https://open.spotify.com/track/5qKsIal7JJZ2bqXHPKdyVb) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm) | [Hublot](https://open.spotify.com/album/2VPiPeLG36iLMPIQOk1NgG) | 3:45 |
+| 17 | [Se Fue La Pantera](https://open.spotify.com/track/7G3h22znCIwaN07Q2s1ukR) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [De Boca En Boca](https://open.spotify.com/album/01olKgKJsavApHa7QJNT29) | 3:07 |
+| 18 | [El Vago De Los Nike](https://open.spotify.com/track/3MdhvQ8BprBhd4lYlgtPt2) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ) | [Vive Y Dejame Vivir](https://open.spotify.com/album/7obSSQZvfcaXki0vc6U847) | 2:56 |
 | 19 | [El Fat Tony](https://open.spotify.com/track/3viZLBs5sOsNFL9JMfuqZN) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [La Clase](https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY) | 2:54 |
 | 20 | [Soy El Ratón](https://open.spotify.com/track/4NQa7zNbJtY2QvnGpzM8Gz) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Soy El Ratón](https://open.spotify.com/album/4NjpIS3YKvFw4LxQ40Ysoz) | 3:42 |
 | 21 | [Terrenal](https://open.spotify.com/track/1Uy7p71RYE0uRvA6Kirr3O) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Lo Intentes](https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0) | 3:57 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 | 83 | [Popurri Boleros Cadetes \- En Vivo](https://open.spotify.com/track/7LJKlA3EIT2UmMujVquf5S) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [En Vivo Desde la Paz](https://open.spotify.com/album/0b6lw7RY7naWJ42VJfmbtN) | 7:38 |
 | 84 | [Te Mereces](https://open.spotify.com/track/7MOsxXYlhSoQUSJhR09QGB) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Jalas o No Jalas, Vol.2](https://open.spotify.com/album/1W2Atto04JwV3G32tP5rPO) | 2:38 |
 | 85 | [Por Sentimental](https://open.spotify.com/track/6VhVObyMiMZFF9tsByo6F3) | [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w) | [Por Sentimental](https://open.spotify.com/album/6U7OGnl3pRGlKRKf8MuTra) | 2:55 |
-| 86 | [Amandote](https://open.spotify.com/track/1YloxcHYgx9UHpJGSY5dPx) | [Los Dorados](https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI) | [Amandote](https://open.spotify.com/album/1WPvIsp1abq1FA6uMZR0M1) | 2:47 |
-| 87 | [Ojala y te animes](https://open.spotify.com/track/0gdHT6RFfRvrjnnFbKzfL1) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [De Parranda Lives Vol\. 2/3](https://open.spotify.com/album/2qI4lRalMMAEAY7vOkd9Q1) | 3:28 |
+| 86 | [Ojala y te animes](https://open.spotify.com/track/0gdHT6RFfRvrjnnFbKzfL1) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [De Parranda Lives Vol\. 2/3](https://open.spotify.com/album/2qI4lRalMMAEAY7vOkd9Q1) | 3:28 |
+| 87 | [Amandote](https://open.spotify.com/track/1YloxcHYgx9UHpJGSY5dPx) | [Los Dorados](https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI) | [Amandote](https://open.spotify.com/album/1WPvIsp1abq1FA6uMZR0M1) | 2:47 |
 | 88 | [Por Ella Tomo](https://open.spotify.com/track/0FkATCT3LOTcMaDh6nwFsl) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Por Ella Tomo](https://open.spotify.com/album/0a5Wnsr4Z7LHcqzONGR1XY) | 3:05 |
 | 89 | [San Juditas](https://open.spotify.com/track/5WqylHMUJGQ1Me46J2trNh) | [Grupo Nuevo Equipo](https://open.spotify.com/artist/3FBG6TxCmYEDgwXai20GAl) | [San Juditas](https://open.spotify.com/album/69h4MhqmusnrGzuaxIG5Nx) | 3:01 |
 | 90 | [Especial](https://open.spotify.com/track/08ckx6TnHaRZlp7fZdxxPj) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Especial](https://open.spotify.com/album/5l4olNshYhYbGE5D5rOS9J) | 3:07 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 | 94 | [Cuando Me Importabas](https://open.spotify.com/track/0ihv6gQs9XoIr7me3M9sCy) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Cuando Me Importabas](https://open.spotify.com/album/1yEZEZ575OrXSneXTDDsWD) | 3:12 |
 | 95 | [Cuéntame](https://open.spotify.com/track/2zJ1zCoUtHb6dt7C5Q7LqT) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Cuéntame](https://open.spotify.com/album/4z8sLfNnAf8Th8B8EwcTQ4) | 2:46 |
 | 96 | [Bola De Envidiosos](https://open.spotify.com/track/7Ke15MvpKaBJ1cdsVst69S) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Bola De Envidiosos](https://open.spotify.com/album/5G4dgSw1uii6SvLTofW2AQ) | 2:23 |
-| 97 | [Las Dos Cruces](https://open.spotify.com/track/3smZXzA9dK9vtp8FCdmcWu) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Las Dos Cruces](https://open.spotify.com/album/03bmyBTbfySmUISLdPPdMj) | 4:05 |
-| 98 | [Agarra La Onda](https://open.spotify.com/track/74TXCLIJTGoVB9EuhW9nxD) | [El Predilecto](https://open.spotify.com/artist/41uIUL5E0w74f7sFzDKrcr) | [El Predilecto](https://open.spotify.com/album/0c5A0h5ZCKMHjKfSTmUINy) | 3:06 |
+| 97 | [Agarra La Onda](https://open.spotify.com/track/74TXCLIJTGoVB9EuhW9nxD) | [El Predilecto](https://open.spotify.com/artist/41uIUL5E0w74f7sFzDKrcr) | [El Predilecto](https://open.spotify.com/album/0c5A0h5ZCKMHjKfSTmUINy) | 3:06 |
+| 98 | [Las Dos Cruces](https://open.spotify.com/track/3smZXzA9dK9vtp8FCdmcWu) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Las Dos Cruces](https://open.spotify.com/album/03bmyBTbfySmUISLdPPdMj) | 4:05 |
 | 99 | [Cuando Me Besas](https://open.spotify.com/track/6ZdXJXmzxsKFB4nKfpne5D) | [La Fe Norteña De Toño Aranda](https://open.spotify.com/artist/6MMoDGT2Mm3lz5sfVcd3Ck) | [Cuando Me Besas](https://open.spotify.com/album/3iy4zgwoDyLZ9kLRza45nx) | 2:59 |
 | 100 | [Sindrome De Estocolmo](https://open.spotify.com/track/5EJ3ZjHeXeVQezMhQuzvn7) | [Don Zares](https://open.spotify.com/artist/1qDZG8dXTf2EBxHUACVPdf) | [Sindrome De Estocolmo](https://open.spotify.com/album/0pLGZyin7yXLHfXsAK2H0k) | 3:51 |
 
-Snapshot ID: `MTY2MTc5NjM1MywwMDAwMDAwMDkwMWFhN2NkZmYzZjAyOWU4YjIxN2Y0NTY1Y2I3YTc0`
+Snapshot ID: `MTY2MTc5NjM1MywwMDAwMDAwMDUzOGIxODMyNGQ5MThkMTFhZWJlYWI5YzRlNzZhMGY3`

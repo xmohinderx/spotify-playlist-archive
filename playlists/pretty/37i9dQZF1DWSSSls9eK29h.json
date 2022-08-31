@@ -1,12 +1,12 @@
 {
   "description": "So smooth, so classic. Cover: George Benson",
-  "num_followers": 78138,
+  "num_followers": 78226,
   "original_name": "Smooth Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTc4MzY2MSwwMDAwMDAwMGQ2NGI3MjE1NDE2YjhlZDQ1MjNkMjYwM2E2MmY3ZWIy",
+  "snapshot_id": "MTY2MTc4MzY2MSwwMDAwMDAwMGM4MGIzYTZkZTk3NWZmMGUwMGNhMTMzNzc3OWZjZGE2",
   "tracks": [
     {
       "added_at": "2020-08-19 00:00:21",
@@ -619,22 +619,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/02jDT0AUMqKosTjyqwHMx5"
-      },
-      "artists": [
-        {
-          "name": "Everette Harp",
-          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
-        }
-      ],
-      "duration_ms": 320973,
-      "name": "I Just Can't Stop Thinking About You",
-      "url": "https://open.spotify.com/track/1rAgECH4JpRZbYQkCQTCzm"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Straight To You",
         "url": "https://open.spotify.com/album/3op9EBV5dm6aicJFlTCAP9"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 316466,
       "name": "Pamela",
       "url": "https://open.spotify.com/track/5SCZ6ciVRjDMXn7trnq3Np"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/02jDT0AUMqKosTjyqwHMx5"
+      },
+      "artists": [
+        {
+          "name": "Everette Harp",
+          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
+        }
+      ],
+      "duration_ms": 320973,
+      "name": "I Just Can't Stop Thinking About You",
+      "url": "https://open.spotify.com/track/1rAgECH4JpRZbYQkCQTCzm"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -715,22 +715,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/3qOAwlkElkDqpZQjkSsVov"
-      },
-      "artists": [
-        {
-          "name": "Nelson Rangell",
-          "url": "https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88"
-        }
-      ],
-      "duration_ms": 291533,
-      "name": "The Way To You",
-      "url": "https://open.spotify.com/track/71KSuKGd1R316tNUSp89eP"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "First View",
         "url": "https://open.spotify.com/album/3LoIE2A91sVmLYx5O2YSO8"
       },
@@ -747,18 +731,18 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "East",
-        "url": "https://open.spotify.com/album/7Jaivw1fpoOhaCVQ9uHJKT"
+        "name": "Always",
+        "url": "https://open.spotify.com/album/3qOAwlkElkDqpZQjkSsVov"
       },
       "artists": [
         {
-          "name": "Hiroshima",
-          "url": "https://open.spotify.com/artist/5ZoVY6c0cokQrn448eRqSc"
+          "name": "Nelson Rangell",
+          "url": "https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88"
         }
       ],
-      "duration_ms": 327733,
-      "name": "Daydreamer",
-      "url": "https://open.spotify.com/track/5JIxKHTZNGtlD809RTew19"
+      "duration_ms": 291533,
+      "name": "The Way To You",
+      "url": "https://open.spotify.com/track/71KSuKGd1R316tNUSp89eP"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -779,18 +763,18 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Undercover",
-        "url": "https://open.spotify.com/album/1CSrrFRXhHIPUKJY5zvfOp"
+        "name": "East",
+        "url": "https://open.spotify.com/album/7Jaivw1fpoOhaCVQ9uHJKT"
       },
       "artists": [
         {
-          "name": "Art Porter",
-          "url": "https://open.spotify.com/artist/47nj6OsTDQIuMjmsml6OLu"
+          "name": "Hiroshima",
+          "url": "https://open.spotify.com/artist/5ZoVY6c0cokQrn448eRqSc"
         }
       ],
-      "duration_ms": 309466,
-      "name": "There's Only You",
-      "url": "https://open.spotify.com/track/4PujvqHuv3ECCVJXdMazGW"
+      "duration_ms": 327733,
+      "name": "Daydreamer",
+      "url": "https://open.spotify.com/track/5JIxKHTZNGtlD809RTew19"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -807,6 +791,22 @@
       "duration_ms": 308400,
       "name": "Follow Your Bliss",
       "url": "https://open.spotify.com/track/6vem3VzPJAcOKvblO5dIwY"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Undercover",
+        "url": "https://open.spotify.com/album/1CSrrFRXhHIPUKJY5zvfOp"
+      },
+      "artists": [
+        {
+          "name": "Art Porter",
+          "url": "https://open.spotify.com/artist/47nj6OsTDQIuMjmsml6OLu"
+        }
+      ],
+      "duration_ms": 309466,
+      "name": "There's Only You",
+      "url": "https://open.spotify.com/track/4PujvqHuv3ECCVJXdMazGW"
     },
     {
       "added_at": "2020-08-19 00:00:21",

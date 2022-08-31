@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQyIF4v1Ra3.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,431 likes - 34 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,455 likes - 34 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQyIF4v1Ra3.md) - [plain]
 | 6 | [Kamariya](https://open.spotify.com/track/5HJvDTnAaDWqhsE841I1QR) | [Lijo George](https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh), [Dj Chetas](https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN), [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Mitron \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0jhDiAfzNalPhA0YmgI4df) | 4:11 |
 | 7 | [Mitron Dandiya Mashup \- From "Mitron"](https://open.spotify.com/track/6Kv46e61xHg53PmddVy9mT) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Raja Hasan](https://open.spotify.com/artist/6ID2zdEFxXLChwiqQzf3ZA), [Dj Kiran Kamath](https://open.spotify.com/artist/76DiXwbDvK690KWyvU5JoP) | [Mitron Dandiya Mashup \(From "Mitron"\)](https://open.spotify.com/album/6UrwEDbHH1IayjvdOKAiaU) | 4:02 |
 | 8 | [Tara Vina Shyam Mane](https://open.spotify.com/track/6Y57YYVjD7CwK0602GQaxG) | [Kishore Manraja](https://open.spotify.com/artist/3ZFpN9rFHLxElJpqyABkMt) | [Bamboo Beats \(Disco Dandiya Hits\)](https://open.spotify.com/album/7hyZTOovgclhqA7iQdoUMl) | 8:24 |
-| 9 | [Lahu Munh Lag Gaya](https://open.spotify.com/track/33XC6PPmZ9Y9oJ5MdugOhw) | [Shail Hada](https://open.spotify.com/artist/73oabrcxZFkgjgeJBP5uJC) | [Goliyon Ki Raasleela Ram\-Leela](https://open.spotify.com/album/7LnYqdYYp4ge2tvKmxNDsg) | 5:00 |
+| 9 | [](https://open.spotify.com/track/33XC6PPmZ9Y9oJ5MdugOhw) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7LnYqdYYp4ge2tvKmxNDsg) | 0:00 |
 | 10 | [Teri Aankhon Mein](https://open.spotify.com/track/3wmI2n0Whs6kg4MT8jFRU1) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh) | [Teri Aankhon Mein](https://open.spotify.com/album/77dwEKk1JI2JN9L5tg8d7t) | 4:21 |
 | 11 | [Char Char Bangdi Vali](https://open.spotify.com/track/3aJ4TCaUebbNZRncpKAK4V) | [Kinjal Dave](https://open.spotify.com/artist/26qILArN7gTOjFRTbOTKbJ) | [DJ Jonadiyo, Pt\. 3](https://open.spotify.com/album/0E5L2euYlsDPOtDpRe1ubb) | 3:05 |
 | 12 | [Nahi Melu Re](https://open.spotify.com/track/1RQ1riJJB108HSJ2lXJp0Q) | [Nisha Upadhyay](https://open.spotify.com/artist/2p1DsSadSk9fUqpwlZVcOF) | [Bamboo Beats \(Disco Dandiya Hits\)](https://open.spotify.com/album/7hyZTOovgclhqA7iQdoUMl) | 5:22 |

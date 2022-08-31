@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44QTuU3AFB6.md) - [plain]
 
 > ¡Rolas pa' pistear con Panchito Arredondo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,661 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,660 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44QTuU3AFB6.md) - [plain]
 | 52 | [Tragos Amargos](https://open.spotify.com/track/7f8qPvIL7fRM28L7XAuFKX) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Antología De Un Rey \- 30 Joyas Musicales](https://open.spotify.com/album/22zGSXwVHPmZqSrMXaZkNk) | 2:44 |
 | 53 | [Dos Botellas de Mezcal \- En Vivo Desde Monterrey 2012](https://open.spotify.com/track/0sojGEPLBkMw0x2PzijAR5) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [1969 \- Siempre en Vivo Desde Monterrey, Parte 1](https://open.spotify.com/album/34y1fpvbIDLpFoarLds4vo) | 2:59 |
 | 54 | [La Mesa Del Rincón](https://open.spotify.com/track/1FrXO0TFnw6g0ygHxhiZ3p) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Los Dos Plebes](https://open.spotify.com/album/2cIEIezxCUx2ifez04CwCK) | 3:23 |
-| 55 | [Me Falta Un Pecado](https://open.spotify.com/track/0QhwvpguVpCNet2Ne9Ge42) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Me Falta Un Pecado](https://open.spotify.com/album/76JfsOgIreZQjJqBzFdcqc) | 3:11 |
-| 56 | [La Carta](https://open.spotify.com/track/61Ym6uMASRkhoKFxMb2Nof) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Carta](https://open.spotify.com/album/34DGEwnP4bY9pXnF1Hsq5r) | 4:25 |
+| 55 | [La Carta](https://open.spotify.com/track/61Ym6uMASRkhoKFxMb2Nof) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Carta](https://open.spotify.com/album/34DGEwnP4bY9pXnF1Hsq5r) | 4:25 |
+| 56 | [Me Falta Un Pecado](https://open.spotify.com/track/0QhwvpguVpCNet2Ne9Ge42) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Me Falta Un Pecado](https://open.spotify.com/album/76JfsOgIreZQjJqBzFdcqc) | 3:11 |
 | 57 | [Jefe De Jefes](https://open.spotify.com/track/0pzSFbqT7lNJJdvmTvGS66) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Jefe De Jefes](https://open.spotify.com/album/5C507x88aYeTv00Ydv0maH) | 3:34 |
 | 58 | [El Sucesor](https://open.spotify.com/track/23sSBzFbf7TLaOBQsRNVaf) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Jefe De Jefes](https://open.spotify.com/album/5C507x88aYeTv00Ydv0maH) | 3:02 |
 | 59 | [Por Debajo Del Agua](https://open.spotify.com/track/4nJPAEl70w6VjOfetvZGQn) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Jefe De Jefes](https://open.spotify.com/album/5C507x88aYeTv00Ydv0maH) | 3:17 |
 | 60 | [El Dolor De Un Padre](https://open.spotify.com/track/2yNs1b9zHRLJGitOGXEijK) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Jefe De Jefes](https://open.spotify.com/album/5C507x88aYeTv00Ydv0maH) | 3:37 |
 
-Snapshot ID: `MTY1OTY3MjA2MCwwMDAwMDAwMDViNzQyNTVlM2NiODUzOGYzOTMzOTE3ZTI0ZmNlZDI1`
+Snapshot ID: `MTY1OTY3MjA2MCwwMDAwMDAwMDgzYTAwOGRhNjZlMGY0YzEzM2Y0NThiYjkzYmFlY2Q0`

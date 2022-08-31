@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > Chique e confortável como a realeza do Trap\. Foto: Salaga, Clara Lima
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,477 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,599 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 31 | [Corte do Jaca](https://open.spotify.com/track/2a2GuHAYjmIVAPVaG9Nh7u) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [Corte do Jaca](https://open.spotify.com/album/6ZQNfwK2DagQENxZhXkuOj) | 2:32 |
 | 32 | [Panamera](https://open.spotify.com/track/1z61dHpzFnpbLQFZl8GjLH) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl) | [Panamera](https://open.spotify.com/album/63pxCSJJWJScWObD1R2Wzm) | 2:37 |
 | 33 | [Luisa Sonza](https://open.spotify.com/track/1KTBGSbVagQL2auTnNgmoR) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK), [DatBoyTwnty](https://open.spotify.com/artist/0akggygiwaeyMsg0yQ13wy) | [Luisa Sonza](https://open.spotify.com/album/7DKaKvHaWIr1jsQOT5csOq) | 3:07 |
-| 34 | [Quadriciclo](https://open.spotify.com/track/0J8LV0mKp1a2mBeiJTv1xZ) | [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Quadriciclo](https://open.spotify.com/album/4HsEBX999Dg4OHYPAWULJC) | 2:36 |
-| 35 | [Bandido Não Dança BB](https://open.spotify.com/track/2YRPuiScVNaKAyNRu03ste) | [OG BEBEL](https://open.spotify.com/artist/00DTlsaKlzH3JrAjgU61Ha), [Young World](https://open.spotify.com/artist/3xryEc7ue6lV1kr3dp5PXY) | [Bandido Não Dança BB](https://open.spotify.com/album/4BHeptNqGFzDkXnwDHU1LC) | 2:13 |
+| 34 | [Bandido Não Dança BB](https://open.spotify.com/track/2YRPuiScVNaKAyNRu03ste) | [OG BEBEL](https://open.spotify.com/artist/00DTlsaKlzH3JrAjgU61Ha), [Young World](https://open.spotify.com/artist/3xryEc7ue6lV1kr3dp5PXY) | [Bandido Não Dança BB](https://open.spotify.com/album/4BHeptNqGFzDkXnwDHU1LC) | 2:13 |
+| 35 | [Quadriciclo](https://open.spotify.com/track/0J8LV0mKp1a2mBeiJTv1xZ) | [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Quadriciclo](https://open.spotify.com/album/4HsEBX999Dg4OHYPAWULJC) | 2:36 |
 | 36 | [Rolex](https://open.spotify.com/track/5WSELUpi4GjDx3nRolKvSy) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ) | [Rolex](https://open.spotify.com/album/7b9U1Cg7hZvDj3vDTbdzFQ) | 3:14 |
 | 37 | [Contando Dinheiro](https://open.spotify.com/track/1jeg6gX21ljllOryvi9SJh) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh) | [Intocável](https://open.spotify.com/album/0tPRn8Y8Xmj6xErQPnuExw) | 2:54 |
 | 38 | [Preto e Dinheiro](https://open.spotify.com/track/3kHxuY36nCmcKJ4GddBjIe) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Preto e Dinheiro](https://open.spotify.com/album/1nLXyI7gsmzdfU3Il7kaTk) | 3:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 49 | [Pelo Menos](https://open.spotify.com/track/7xDJNNmC7AAEVQ3L8oUmlL) | [Jotapê](https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM), [JayA Luuck](https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Pelo Menos](https://open.spotify.com/album/7wNqJIviCTyNGuWTzigUrU) | 3:07 |
 | 50 | [Santa Fé](https://open.spotify.com/track/5EYTdBSpwwdKjfswFez9xI) | [SoudCrime](https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg), [Nenz](https://open.spotify.com/artist/1wYaQmaQqve7ig9GK8sO9Y), [Vilãodubeat](https://open.spotify.com/artist/1QgZKfMoBYqm2LIArWWJ9W) | [Santa Fé](https://open.spotify.com/album/3NeXJUqKg4iFpz3gGQQET6) | 2:49 |
 
-Snapshot ID: `MTY2MTUyMzA5OSwwMDAwMDAwMGUwNmJlYzVmMzliYzgwZDg1Y2NlNTc5ZjVmMGE2ZThl`
+Snapshot ID: `MTY2MTUyMzA5OSwwMDAwMDAwMDUwNTI1YWNjZDc4OThiYTliYzMzNTUzZjg1M2ZhZDdj`

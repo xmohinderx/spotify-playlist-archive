@@ -1,12 +1,12 @@
 {
   "description": "Heartbreaking and sad jazz songs.",
-  "num_followers": 32420,
+  "num_followers": 32450,
   "original_name": "Heartbreak Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDczMDEwMywwMDAwMDAwMDJhMTQ5MzQ2N2QwOTlmZDg1MGFhOGFjMDI4ZGZhOGNh",
+  "snapshot_id": "MTY2MDczMDEwMywwMDAwMDAwMDUwMDQ3MGRkMGJhMDcwOTQ4OTljZTkzNTBhZmE1OTZl",
   "tracks": [
     {
       "added_at": "2022-08-17 09:55:03",
@@ -799,6 +799,22 @@
     {
       "added_at": "2022-08-17 09:55:03",
       "album": {
+        "name": "Dear Lonely Hearts",
+        "url": "https://open.spotify.com/album/6knZwJ3Qp0uBe7NEiDIrTw"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 145240,
+      "name": "Why Should I Cry Over You?",
+      "url": "https://open.spotify.com/track/0JXSCwJzN40D5z0hyGAXFZ"
+    },
+    {
+      "added_at": "2022-08-17 09:55:03",
+      "album": {
         "name": "Pointless Nostalgic",
         "url": "https://open.spotify.com/album/4AD8H57Um3MlSuuqN4fZNv"
       },
@@ -847,26 +863,6 @@
     {
       "added_at": "2022-08-17 09:55:03",
       "album": {
-        "name": "Duets An American Classic",
-        "url": "https://open.spotify.com/album/0RPgKTqFhjUD8KEf9vR7jX"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 201586,
-      "name": "The Boulevard of Broken Dreams (with Sting)",
-      "url": "https://open.spotify.com/track/5bG5GUKVJztKR5nff1CwUp"
-    },
-    {
-      "added_at": "2022-08-17 09:55:03",
-      "album": {
         "name": "Billie Holiday",
         "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
       },
@@ -883,18 +879,22 @@
     {
       "added_at": "2022-08-17 09:55:03",
       "album": {
-        "name": "Dear Lonely Hearts",
-        "url": "https://open.spotify.com/album/6knZwJ3Qp0uBe7NEiDIrTw"
+        "name": "Duets An American Classic",
+        "url": "https://open.spotify.com/album/0RPgKTqFhjUD8KEf9vR7jX"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
         }
       ],
-      "duration_ms": 145240,
-      "name": "Why Should I Cry Over You?",
-      "url": "https://open.spotify.com/track/0JXSCwJzN40D5z0hyGAXFZ"
+      "duration_ms": 201586,
+      "name": "The Boulevard of Broken Dreams (with Sting)",
+      "url": "https://open.spotify.com/track/5bG5GUKVJztKR5nff1CwUp"
     },
     {
       "added_at": "2022-08-17 09:55:03",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-08-17 09:55:03",
       "album": {
-        "name": "Alexandria The Great",
-        "url": "https://open.spotify.com/album/0mr9wOHzf0Pygckr8Mk0Q9"
-      },
-      "artists": [
-        {
-          "name": "Lorez Alexandria",
-          "url": "https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY"
-        }
-      ],
-      "duration_ms": 325493,
-      "name": "I'm Through With Love",
-      "url": "https://open.spotify.com/track/53vXsAvHqCO6Q6aFRacLaT"
-    },
-    {
-      "added_at": "2022-08-17 09:55:03",
-      "album": {
         "name": "Where Are You? (Remastered)",
         "url": "https://open.spotify.com/album/1at99XgjdjaKVcQajGq3G1"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 210293,
       "name": "Where Are You? - Remastered",
       "url": "https://open.spotify.com/track/1wVLaNc1qRgI56HWauLFee"
+    },
+    {
+      "added_at": "2022-08-17 09:55:03",
+      "album": {
+        "name": "Alexandria The Great",
+        "url": "https://open.spotify.com/album/0mr9wOHzf0Pygckr8Mk0Q9"
+      },
+      "artists": [
+        {
+          "name": "Lorez Alexandria",
+          "url": "https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY"
+        }
+      ],
+      "duration_ms": 325493,
+      "name": "I'm Through With Love",
+      "url": "https://open.spotify.com/track/53vXsAvHqCO6Q6aFRacLaT"
     },
     {
       "added_at": "2022-08-17 09:55:03",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2022-08-17 09:55:03",
       "album": {
-        "name": "Helen Merill",
-        "url": "https://open.spotify.com/album/5ilzjsH4ER5ZaytJwnmn3C"
+        "name": "Where Are You? (Remastered)",
+        "url": "https://open.spotify.com/album/1at99XgjdjaKVcQajGq3G1"
       },
       "artists": [
         {
-          "name": "Helen Merrill",
-          "url": "https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 301306,
-      "name": "What's New",
-      "url": "https://open.spotify.com/track/6iUmixPxVD6SacLhATYace"
+      "duration_ms": 184000,
+      "name": "I Think Of You - Remastered",
+      "url": "https://open.spotify.com/track/3ElzkGBZpbjVuyKWCAHuzw"
     },
     {
       "added_at": "2022-08-17 09:55:03",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2022-08-17 09:55:03",
       "album": {
-        "name": "Where Are You? (Remastered)",
-        "url": "https://open.spotify.com/album/1at99XgjdjaKVcQajGq3G1"
+        "name": "Helen Merill",
+        "url": "https://open.spotify.com/album/5ilzjsH4ER5ZaytJwnmn3C"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Helen Merrill",
+          "url": "https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q"
         }
       ],
-      "duration_ms": 184000,
-      "name": "I Think Of You - Remastered",
-      "url": "https://open.spotify.com/track/3ElzkGBZpbjVuyKWCAHuzw"
+      "duration_ms": 301306,
+      "name": "What's New",
+      "url": "https://open.spotify.com/track/6iUmixPxVD6SacLhATYace"
     },
     {
       "added_at": "2022-08-17 09:55:03",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2022-08-17 09:55:03",
       "album": {
-        "name": "Something Wonderful",
-        "url": "https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav"
-      },
-      "artists": [
-        {
-          "name": "Nancy Wilson",
-          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
-        }
-      ],
-      "duration_ms": 160093,
-      "name": "I'm Gonna Laugh You Right Out Of My Life - Remastered",
-      "url": "https://open.spotify.com/track/7KKKRjw8cs7VL0NMsGJM4K"
-    },
-    {
-      "added_at": "2022-08-17 09:55:03",
-      "album": {
         "name": "Smooth Songs",
         "url": "https://open.spotify.com/album/0bTi6NaKZTPdu3G2a4fePf"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 216790,
       "name": "It's Easy to Remember",
       "url": "https://open.spotify.com/track/2zKcVjhrP5r8vwxmEaANUm"
+    },
+    {
+      "added_at": "2022-08-17 09:55:03",
+      "album": {
+        "name": "Something Wonderful",
+        "url": "https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav"
+      },
+      "artists": [
+        {
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+        }
+      ],
+      "duration_ms": 160093,
+      "name": "I'm Gonna Laugh You Right Out Of My Life - Remastered",
+      "url": "https://open.spotify.com/track/7KKKRjw8cs7VL0NMsGJM4K"
     },
     {
       "added_at": "2022-08-17 09:55:03",

@@ -1,12 +1,12 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 642161,
+  "num_followers": 642332,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzk1MDkyMCwwMDAwMDAwMDBhNjk1ODYzNjNlMDY5ZjJlYWRkZDcwODU0YWRjMzM3",
+  "snapshot_id": "MTY0Mzk1MDkyMCwwMDAwMDAwMDkzODVjZjRhYWE0Y2Q2NTY0YzczM2Q5MzI5MjAyY2Uy",
   "tracks": [
     {
       "added_at": "2022-02-04 05:02:00",
@@ -943,6 +943,22 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
+        "name": "Sunday Night Sessions",
+        "url": "https://open.spotify.com/album/2G0bWocjlwYUOkO57TwrIs"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 166868,
+      "name": "Heart of Gold (Cover)",
+      "url": "https://open.spotify.com/track/05INcg3T8eXcDiCxANH3fR"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
         "name": "You Are My Sunshine (with Chris Stapleton)",
         "url": "https://open.spotify.com/album/54kotVHAZQwTephMgbuMjH"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 373266,
       "name": "You Are My Sunshine (with Chris Stapleton)",
       "url": "https://open.spotify.com/track/31b6H6nChYUmNbW1yZQHYs"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "Sunday Night Sessions",
-        "url": "https://open.spotify.com/album/2G0bWocjlwYUOkO57TwrIs"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 166868,
-      "name": "Heart of Gold (Cover)",
-      "url": "https://open.spotify.com/track/05INcg3T8eXcDiCxANH3fR"
     },
     {
       "added_at": "2022-02-04 05:02:00",

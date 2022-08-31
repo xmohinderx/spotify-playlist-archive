@@ -1,12 +1,12 @@
 {
   "description": "\u60f3\u7d13\u89e3\u7dca\u5f35\u58d3\u529b\uff0c\u5c31\u807d\u9019\u4e9b\u8f15\u9b06\u3001\u6109\u5feb\u7684\u6b4c\u66f2\u4f86\u8b93\u81ea\u5df1\u653e\u8f15\u9b06\u3002",
-  "num_followers": 124197,
+  "num_followers": 124227,
   "original_name": "\u6d88\u9664\u58d3\u529b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTc1MzQwNSwwMDAwMDAwMDQxZTUxN2I3OWJjZDk1MDAyMjVkYjg5YjViZWNjNDQw",
+  "snapshot_id": "MTY2MTc1MzQwNSwwMDAwMDAwMGU5NjM5NDk5MDY1ZjU1ZDg2YTI0MzIzYTUxNzQ5ZjI5",
   "tracks": [
     {
       "added_at": "2022-08-29 06:10:05",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-08-29 06:10:05",
       "album": {
-        "name": "All 4 Nothing (I'm So In Love)",
-        "url": "https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 183014,
-      "name": "All 4 Nothing (I'm So In Love)",
-      "url": "https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5"
-    },
-    {
-      "added_at": "2022-08-29 06:10:05",
-      "album": {
         "name": "Lobby",
         "url": "https://open.spotify.com/album/5gmkGLh7wtVd7LQat5sWbu"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 157837,
       "name": "Lobby",
       "url": "https://open.spotify.com/track/7DByUXWmz1lQau0HLmdg1v"
+    },
+    {
+      "added_at": "2022-08-29 06:10:05",
+      "album": {
+        "name": "All 4 Nothing (I'm So In Love)",
+        "url": "https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 183014,
+      "name": "All 4 Nothing (I'm So In Love)",
+      "url": "https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5"
     },
     {
       "added_at": "2022-08-29 06:10:05",
@@ -819,26 +819,6 @@
     {
       "added_at": "2022-08-29 06:10:05",
       "album": {
-        "name": "Know Your Worth",
-        "url": "https://open.spotify.com/album/0uLz2ygHQAtLknyGasJOr5"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 181436,
-      "name": "Know Your Worth",
-      "url": "https://open.spotify.com/track/0TrPqhAMoaKUFLR7iYDokf"
-    },
-    {
-      "added_at": "2022-08-29 06:10:05",
-      "album": {
         "name": "~how i'm feeling~",
         "url": "https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 232853,
       "name": "Mean It",
       "url": "https://open.spotify.com/track/3uc8AGNL0KbvISIrjnfRvN"
+    },
+    {
+      "added_at": "2022-08-29 06:10:05",
+      "album": {
+        "name": "Know Your Worth",
+        "url": "https://open.spotify.com/album/0uLz2ygHQAtLknyGasJOr5"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 181436,
+      "name": "Know Your Worth",
+      "url": "https://open.spotify.com/track/0TrPqhAMoaKUFLR7iYDokf"
     },
     {
       "added_at": "2022-08-29 06:10:05",

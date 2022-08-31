@@ -4,7 +4,7 @@
 
 > The perfect blend of songs, old and new, for around\-the\-clock listening.
 
-611 songs - 1 day 15 hr 19 min - [published](https://open.spotify.com/playlist/4bCnXDDkJHNRPIitsHY1SA)
+612 songs - 1 day 15 hr 23 min - [published](https://open.spotify.com/playlist/4bCnXDDkJHNRPIitsHY1SA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Caught In The Crowd](https://open.spotify.com/track/0p0FOf4FocnvE8hVJMFBvw) | [Kate Miller\-Heidke](https://open.spotify.com/artist/6sfUgwUTFjy1SNF2uWOcPp) | [Curiouser](https://open.spotify.com/album/4MfZuQLc3X8SwngAcD6OLD) | 3:33 | 2019-07-29\* | 2022-04-20 |
 | [Champion Of The World](https://open.spotify.com/track/6R7Y33u24Z82KCa4ZzI8gp) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Champion of The World / Daddy](https://open.spotify.com/album/1qAJNklFUgIft4H4mzxg4j) | 4:17 | 2020-06-12 | 2022-04-20 |
 | [Chasing Cars](https://open.spotify.com/track/11bD1JtSjlIgKgZG2134DZ) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/6fb7z9rBdrjzpBTg1R1Bwp) | 4:27 | 2020-05-18 | 2022-08-26 |
+| [Chasing Cars](https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) | 4:27 | 2022-06-09 |  |
 | [Chasing Pavements](https://open.spotify.com/track/2OuNgtXKeCSORKqdl0MxKk) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ) | 3:30 | 2020-06-12 | 2022-04-19 |
 | [Chasing Pirates](https://open.spotify.com/track/64LnCGq6ycBdrbP18vM62f) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [The Fall](https://open.spotify.com/album/1IHJMohRwJgooDzBFjpQiy) | 2:40 | 2021-03-07 | 2022-04-19 |
 | [Chateau](https://open.spotify.com/track/1LIbTjMdFP15jIXGkcICSU) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/1D7wVgT1HGxwLGqSnLf0lg) | 4:33 | 2019-07-29\* | 2021-03-22 |
@@ -505,7 +506,7 @@
 | [Sweet Disposition](https://open.spotify.com/track/6mNDLlxVYjKleyb2Ley6Pl) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Conditions](https://open.spotify.com/album/7paONJrxLEvBVtKUUd8AZ3) | 3:56 | 2021-03-02 | 2021-10-11 |
 | [Sweet Thing \- 1999 Remaster](https://open.spotify.com/track/4dBI72rgkmG0gTzswyBTzz) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Astral Weeks](https://open.spotify.com/album/4pG3bKkbmReDt5QTDn3JDz) | 4:25 | 2021-02-27 | 2021-10-13 |
 | [Sweetest Thing](https://open.spotify.com/track/5a1LEyaOm0UTHTdmXLmrnM) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5OkSkzxPZuziL8waHmU8Zd) | 3:04 | 2021-01-15 | 2022-07-29 |
-| [Take A Chance On Me](https://open.spotify.com/track/5BckPAYcKEJuYs1eV1BHHe) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [The Album](https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt) | 4:03 | 2020-04-29 |  |
+| [Take A Chance On Me](https://open.spotify.com/track/5BckPAYcKEJuYs1eV1BHHe) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [The Album](https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt) | 4:03 | 2020-04-29 | 2022-08-31 |
 | [Take It To The Heart](https://open.spotify.com/track/5lVCEap5i0UwblmHGK5xRF) | [Odette](https://open.spotify.com/artist/1iQVsRr2JalWIOLQa4T7O6) | [Take It To The Heart](https://open.spotify.com/album/7CUr3C9G0Gmm65xgEzDqpX) | 3:35 | 2019-07-29\* | 2022-04-20 |
 | [Take My Breath Away \- Love Theme from "Top Gun"](https://open.spotify.com/track/15MJ5NThPjj6xhPcts8MiY) | [Berlin](https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM) | [Top Gun \- Motion Picture Soundtrack \(Special Expanded Edition\)](https://open.spotify.com/album/6K8iDZW8jPaoiqSzFFebJA) | 4:15 | 2020-06-12 | 2021-01-15 |
 | [Take Your Mama](https://open.spotify.com/track/0LAfANg75hYiV1IAEP3vY6) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Scissor Sisters](https://open.spotify.com/album/65Fllu4vQdZQOh6id0YwIM) | 4:31 | 2021-03-09 | 2022-07-29 |

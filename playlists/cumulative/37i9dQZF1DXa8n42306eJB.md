@@ -4,7 +4,7 @@
 
 > Good vibes for good times!
 
-89 songs - 5 hr 24 min - [published](https://open.spotify.com/playlist/5mjM1Y8WNUCGGkDhXj1uoY)
+90 songs - 5 hr 28 min - [published](https://open.spotify.com/playlist/5mjM1Y8WNUCGGkDhXj1uoY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,8 +59,9 @@
 | [Murder She Wrote](https://open.spotify.com/track/1HGyhNaRUFEDBiVLbvtbL6) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm) | [Tease Me](https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY) | 4:05 | 2021-08-24 |  |
 | [My Baby](https://open.spotify.com/track/0I0BvzTJDO8KR61k9rWVGP) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B IV](https://open.spotify.com/album/6PPhLgXiq4nEiZ8x2ZB3xV) | 3:56 | 2021-08-24 |  |
 | [My Everything](https://open.spotify.com/track/5H7vRoyMgI4VcuPBLnElAI) | [Victor J Sefo](https://open.spotify.com/artist/2C1zgkYFPzuU7GBM66c1S9) | [My Everything](https://open.spotify.com/album/2SrbC71vZRVuFYPkMoIfOK) | 4:12 | 2021-08-24 |  |
-| [My Guy](https://open.spotify.com/track/1gBPX3aGaa58zr02vXp0tC) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Wayno](https://open.spotify.com/artist/3HVur1nWxj1AGZoY5u04AW) | [21](https://open.spotify.com/album/37yx9V8gn8cpLZRvTR8ft8) | 3:51 | 2022-06-09 |  |
+| [My Guy](https://open.spotify.com/track/1gBPX3aGaa58zr02vXp0tC) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Wayno](https://open.spotify.com/artist/3HVur1nWxj1AGZoY5u04AW) | [21](https://open.spotify.com/album/37yx9V8gn8cpLZRvTR8ft8) | 3:51 | 2022-06-09 | 2022-08-31 |
 | [My Guy](https://open.spotify.com/track/3l1AjvzYObjfx0sSTHuMWJ) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Wayno](https://open.spotify.com/artist/3HVur1nWxj1AGZoY5u04AW) | [My Guy](https://open.spotify.com/album/7vNkxEWGt4gA6eYnAmbUqv) | 3:51 | 2021-08-24 | 2022-07-29 |
+| [My Guy](https://open.spotify.com/track/5w9fFUqIzcp1tebYIkBfko) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Wayno](https://open.spotify.com/artist/3HVur1nWxj1AGZoY5u04AW) | [21](https://open.spotify.com/album/78J8bZXTc1Wr7DXg6lyAeg) | 3:51 | 2022-08-07 |  |
 | [My Guy \- Remix](https://open.spotify.com/track/5p2KU5VmtZLIzv0SidAb1V) | [DJ Noiz](https://open.spotify.com/artist/0ZVAv3drBuIRSc88ATH6UK), [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Wayno](https://open.spotify.com/artist/3HVur1nWxj1AGZoY5u04AW) | [My Guy \(Remix\)](https://open.spotify.com/album/46SVmaDiBJTnWNnfUcTMi3) | 3:25 | 2021-08-24 |  |
 | [My World](https://open.spotify.com/track/3acMAUnwxMKfuXIt3SNqDw) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 3:18 | 2021-08-24 |  |
 | [Nice Up The Dance](https://open.spotify.com/track/2KR1FKbtBscgImHlKdoVyj) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Nice Up The Dance](https://open.spotify.com/album/42MgLUbnXdROVjTGeChKQZ) | 3:32 | 2021-08-24 |  |

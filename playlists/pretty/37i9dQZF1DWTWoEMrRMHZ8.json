@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Salma e Mac",
-  "num_followers": 321786,
+  "num_followers": 321840,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4Mjg2MCwwMDAwMDAwMDFmYjdhYjQ2MzEzZjVhY2FhMTE0OTUxZDhlOTJkYTky",
+  "snapshot_id": "MTY2MTQ4Mjg2MCwwMDAwMDAwMDg0NDE1MTM1MWQwNjQ1YWU1NmJkNjk3YTk3Nzc2OGE0",
   "tracks": [
     {
       "added_at": "2022-08-26 03:01:00",
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "Meu Coco",
-        "url": "https://open.spotify.com/album/2WeCBdtzqLePJpI28q0mjz"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 212014,
-      "name": "Sem Samba N\u00e3o D\u00e1",
-      "url": "https://open.spotify.com/track/1pIwgYq2uM1Q2nu9DTODGP"
-    },
-    {
-      "added_at": "2022-08-26 03:01:00",
-      "album": {
         "name": "Mensagem de Amor (20\u00b0 Anivers\u00e1rio)",
         "url": "https://open.spotify.com/album/3vCdZZO5Q0gxSUblcsSZtq"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 229426,
       "name": "Mensagem de Amor (20\u00b0 Anivers\u00e1rio)",
       "url": "https://open.spotify.com/track/73sHSwoXam1tNDWEwEfHWe"
+    },
+    {
+      "added_at": "2022-08-26 03:01:00",
+      "album": {
+        "name": "Meu Coco",
+        "url": "https://open.spotify.com/album/2WeCBdtzqLePJpI28q0mjz"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 212014,
+      "name": "Sem Samba N\u00e3o D\u00e1",
+      "url": "https://open.spotify.com/track/1pIwgYq2uM1Q2nu9DTODGP"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -387,8 +387,8 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "Beleza Destru\u00edda",
-        "url": "https://open.spotify.com/album/6POGjkubJUeXELdtwYtpm6"
+        "name": "D",
+        "url": "https://open.spotify.com/album/36BRJ7h8gQe09QCT1WaQe3"
       },
       "artists": [
         {
@@ -396,13 +396,37 @@
           "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
         },
         {
-          "name": "Milton Nascimento",
-          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+          "name": "Flavia Virginia",
+          "url": "https://open.spotify.com/artist/31Hw2hxR3e2Te5sfhL5obQ"
+        },
+        {
+          "name": "Max Viana",
+          "url": "https://open.spotify.com/artist/6dQWVUfSajf5RvjaQ6ujZk"
+        },
+        {
+          "name": "Jo\u00e3o Viana",
+          "url": "https://open.spotify.com/artist/0RAU3tHQiPCy261CdZ2Udx"
+        },
+        {
+          "name": "Sofia Viana",
+          "url": "https://open.spotify.com/artist/6yUNd8Qz8EvrBQ4hJ9HAPx"
+        },
+        {
+          "name": "In\u00e1cio Viana",
+          "url": "https://open.spotify.com/artist/7Gxv3Q7v810r6BVpSfCXHY"
+        },
+        {
+          "name": "Thomas Boljover",
+          "url": "https://open.spotify.com/artist/6TUthQ8UKDVOQEParcou9V"
+        },
+        {
+          "name": "Lui Viana",
+          "url": "https://open.spotify.com/artist/2SclPBM7tuuMLpcUVUVMbz"
         }
       ],
-      "duration_ms": 280271,
-      "name": "Beleza Destru\u00edda",
-      "url": "https://open.spotify.com/track/7maSkM3sduCmafzx9btEqR"
+      "duration_ms": 268617,
+      "name": "Iluminado (feat. Flavia Virginia, Max Viana, Jo\u00e3o Viana, Sofia Viana, In\u00e1cio Viana, Thomas Boljover & Lui Viana)",
+      "url": "https://open.spotify.com/track/4PyckagqFTimt12aJrg71q"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -495,8 +519,8 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "D",
-        "url": "https://open.spotify.com/album/36BRJ7h8gQe09QCT1WaQe3"
+        "name": "Beleza Destru\u00edda",
+        "url": "https://open.spotify.com/album/6POGjkubJUeXELdtwYtpm6"
       },
       "artists": [
         {
@@ -504,37 +528,13 @@
           "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
         },
         {
-          "name": "Flavia Virginia",
-          "url": "https://open.spotify.com/artist/31Hw2hxR3e2Te5sfhL5obQ"
-        },
-        {
-          "name": "Max Viana",
-          "url": "https://open.spotify.com/artist/6dQWVUfSajf5RvjaQ6ujZk"
-        },
-        {
-          "name": "Jo\u00e3o Viana",
-          "url": "https://open.spotify.com/artist/0RAU3tHQiPCy261CdZ2Udx"
-        },
-        {
-          "name": "Sofia Viana",
-          "url": "https://open.spotify.com/artist/6yUNd8Qz8EvrBQ4hJ9HAPx"
-        },
-        {
-          "name": "In\u00e1cio Viana",
-          "url": "https://open.spotify.com/artist/7Gxv3Q7v810r6BVpSfCXHY"
-        },
-        {
-          "name": "Thomas Boljover",
-          "url": "https://open.spotify.com/artist/6TUthQ8UKDVOQEParcou9V"
-        },
-        {
-          "name": "Lui Viana",
-          "url": "https://open.spotify.com/artist/2SclPBM7tuuMLpcUVUVMbz"
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
         }
       ],
-      "duration_ms": 268617,
-      "name": "Iluminado (feat. Flavia Virginia, Max Viana, Jo\u00e3o Viana, Sofia Viana, In\u00e1cio Viana, Thomas Boljover & Lui Viana)",
-      "url": "https://open.spotify.com/track/4PyckagqFTimt12aJrg71q"
+      "duration_ms": 280271,
+      "name": "Beleza Destru\u00edda",
+      "url": "https://open.spotify.com/track/7maSkM3sduCmafzx9btEqR"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -1199,22 +1199,22 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "Baby e Pepeu - Noites Cariocas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0zjPNdJPiDYm2BlSloyhtC"
+        "name": "Raio X (Baby Session)",
+        "url": "https://open.spotify.com/album/6iKf5qW2mCXzmCz4CyQICI"
       },
       "artists": [
         {
-          "name": "Pepeu Gomes",
-          "url": "https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu"
+          "name": "BABY",
+          "url": "https://open.spotify.com/artist/1Epq0XVctV49bwVPujtKxp"
         },
         {
-          "name": "Baby Do Brasil",
-          "url": "https://open.spotify.com/artist/2K5llYyoLmzpOcbVuOY1ls"
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
         }
       ],
-      "duration_ms": 261056,
-      "name": "Planeta V\u00eanus - Ao Vivo",
-      "url": "https://open.spotify.com/track/4dpuPTfpY0tvaXsloKKPbE"
+      "duration_ms": 247142,
+      "name": "Raio X (Baby Session)",
+      "url": "https://open.spotify.com/track/6dCtRnv9k1eKkIOwPPfaFN"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -1239,22 +1239,38 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "Raio X (Baby Session)",
-        "url": "https://open.spotify.com/album/6iKf5qW2mCXzmCz4CyQICI"
+        "name": "Baby e Pepeu - Noites Cariocas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0zjPNdJPiDYm2BlSloyhtC"
       },
       "artists": [
         {
-          "name": "BABY",
-          "url": "https://open.spotify.com/artist/1Epq0XVctV49bwVPujtKxp"
+          "name": "Pepeu Gomes",
+          "url": "https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu"
         },
         {
-          "name": "Jota.p\u00ea",
-          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+          "name": "Baby Do Brasil",
+          "url": "https://open.spotify.com/artist/2K5llYyoLmzpOcbVuOY1ls"
         }
       ],
-      "duration_ms": 247142,
-      "name": "Raio X (Baby Session)",
-      "url": "https://open.spotify.com/track/6dCtRnv9k1eKkIOwPPfaFN"
+      "duration_ms": 261056,
+      "name": "Planeta V\u00eanus - Ao Vivo",
+      "url": "https://open.spotify.com/track/4dpuPTfpY0tvaXsloKKPbE"
+    },
+    {
+      "added_at": "2022-08-26 03:01:00",
+      "album": {
+        "name": "Caetano Veloso Al\u00e9m do \"Transa\"",
+        "url": "https://open.spotify.com/album/7s6smTPWq4DbNGixbI9BLX"
+      },
+      "artists": [
+        {
+          "name": "Ayrton Montarroyos",
+          "url": "https://open.spotify.com/artist/4wjq6jnuXsDYcK1fGztL6h"
+        }
+      ],
+      "duration_ms": 202638,
+      "name": "N\u00e3o Identificado",
+      "url": "https://open.spotify.com/track/53ji1uDQVCxod5wYjdjuMf"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -1275,22 +1291,6 @@
       "duration_ms": 215000,
       "name": "Vai Passar",
       "url": "https://open.spotify.com/track/3PS54iE0GBvHoD4q059UPo"
-    },
-    {
-      "added_at": "2022-08-26 03:01:00",
-      "album": {
-        "name": "Caetano Veloso Al\u00e9m do \"Transa\"",
-        "url": "https://open.spotify.com/album/7s6smTPWq4DbNGixbI9BLX"
-      },
-      "artists": [
-        {
-          "name": "Ayrton Montarroyos",
-          "url": "https://open.spotify.com/artist/4wjq6jnuXsDYcK1fGztL6h"
-        }
-      ],
-      "duration_ms": 202638,
-      "name": "N\u00e3o Identificado",
-      "url": "https://open.spotify.com/track/53ji1uDQVCxod5wYjdjuMf"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "Chico Chico Ao Vivo na Macaco Gordo",
-        "url": "https://open.spotify.com/album/6j6DYeSZoHiyBkuxabhNq5"
-      },
-      "artists": [
-        {
-          "name": "Chico Chico",
-          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
-        },
-        {
-          "name": "Macaco Gordo",
-          "url": "https://open.spotify.com/artist/2MeRUZA62b85P4U5DcdzZ9"
-        }
-      ],
-      "duration_ms": 226949,
-      "name": "Ribanceira - Ao Vivo",
-      "url": "https://open.spotify.com/track/5K47N9oaaYfC3k5zDPc9X5"
-    },
-    {
-      "added_at": "2022-08-26 03:01:00",
-      "album": {
         "name": "A M\u00fasica de Tom",
         "url": "https://open.spotify.com/album/5hjn2o1Iqbai6cucACfQAN"
       },
@@ -1403,6 +1383,26 @@
       "duration_ms": 185691,
       "name": "Eu Sei Que Vou Te Amar",
       "url": "https://open.spotify.com/track/0PV0a0DewOdjcMJLOka6pz"
+    },
+    {
+      "added_at": "2022-08-26 03:01:00",
+      "album": {
+        "name": "Chico Chico Ao Vivo na Macaco Gordo",
+        "url": "https://open.spotify.com/album/6j6DYeSZoHiyBkuxabhNq5"
+      },
+      "artists": [
+        {
+          "name": "Chico Chico",
+          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
+        },
+        {
+          "name": "Macaco Gordo",
+          "url": "https://open.spotify.com/artist/2MeRUZA62b85P4U5DcdzZ9"
+        }
+      ],
+      "duration_ms": 226949,
+      "name": "Ribanceira - Ao Vivo",
+      "url": "https://open.spotify.com/track/5K47N9oaaYfC3k5zDPc9X5"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
+        "name": "Amorinha",
+        "url": "https://open.spotify.com/album/3A50JymYTybKbFC7Zjqjo7"
+      },
+      "artists": [
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+        }
+      ],
+      "duration_ms": 208891,
+      "name": "Amorinha",
+      "url": "https://open.spotify.com/track/3rIm3FlTa6U2wHRmphqTLh"
+    },
+    {
+      "added_at": "2022-08-26 03:01:00",
+      "album": {
         "name": "La\u00e7os",
         "url": "https://open.spotify.com/album/2dd0NozyYF4BHr41CAohKW"
       },
@@ -1627,6 +1643,22 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
+        "name": "HUMBIUMBI",
+        "url": "https://open.spotify.com/album/1mu3dEgT3LIJ3Vxkh3QPyM"
+      },
+      "artists": [
+        {
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+        }
+      ],
+      "duration_ms": 237996,
+      "name": "HUMBIHUMBI",
+      "url": "https://open.spotify.com/track/49hZHHz9ZBU9mwDebZp7ep"
+    },
+    {
+      "added_at": "2022-08-26 03:01:00",
+      "album": {
         "name": "Pra Sorrir",
         "url": "https://open.spotify.com/album/3S6O5n8DR48FIiaGwrCv0c"
       },
@@ -1699,22 +1731,6 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "Amorinha",
-        "url": "https://open.spotify.com/album/3A50JymYTybKbFC7Zjqjo7"
-      },
-      "artists": [
-        {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
-        }
-      ],
-      "duration_ms": 208891,
-      "name": "Amorinha",
-      "url": "https://open.spotify.com/track/3rIm3FlTa6U2wHRmphqTLh"
-    },
-    {
-      "added_at": "2022-08-26 03:01:00",
-      "album": {
         "name": "Mesti\u00e7o",
         "url": "https://open.spotify.com/album/1uTHWGAA7LxCNwkj79goWp"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 266093,
       "name": "cantar - ao vivo no bona",
       "url": "https://open.spotify.com/track/46FwFi4komf0g3p80RTjBv"
-    },
-    {
-      "added_at": "2022-08-26 03:01:00",
-      "album": {
-        "name": "HUMBIUMBI",
-        "url": "https://open.spotify.com/album/1mu3dEgT3LIJ3Vxkh3QPyM"
-      },
-      "artists": [
-        {
-          "name": "Jorge Vercillo",
-          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
-        }
-      ],
-      "duration_ms": 237996,
-      "name": "HUMBIHUMBI",
-      "url": "https://open.spotify.com/track/49hZHHz9ZBU9mwDebZp7ep"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
+        "name": "Porto",
+        "url": "https://open.spotify.com/album/6Usxsp50R9DWMOn26jlZCj"
+      },
+      "artists": [
+        {
+          "name": "MPB4",
+          "url": "https://open.spotify.com/artist/3SKTkAUNa3oUa2rkd8DAyM"
+        }
+      ],
+      "duration_ms": 205360,
+      "name": "Porto",
+      "url": "https://open.spotify.com/track/5OfyMpThWxNX87z92GNerl"
+    },
+    {
+      "added_at": "2022-08-26 03:01:00",
+      "album": {
         "name": "Banho de Cheiro",
         "url": "https://open.spotify.com/album/3RzEyZrqcNRg1DLcKulro5"
       },
@@ -1871,22 +1887,6 @@
       "duration_ms": 193186,
       "name": "Banho de Cheiro",
       "url": "https://open.spotify.com/track/1rpKo0qWagKkzkNEl97gHa"
-    },
-    {
-      "added_at": "2022-08-26 03:01:00",
-      "album": {
-        "name": "Porto",
-        "url": "https://open.spotify.com/album/6Usxsp50R9DWMOn26jlZCj"
-      },
-      "artists": [
-        {
-          "name": "MPB4",
-          "url": "https://open.spotify.com/artist/3SKTkAUNa3oUa2rkd8DAyM"
-        }
-      ],
-      "duration_ms": 205360,
-      "name": "Porto",
-      "url": "https://open.spotify.com/track/5OfyMpThWxNX87z92GNerl"
     },
     {
       "added_at": "2022-08-26 03:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women from all over the world, at full volume\. Cover: Nazia Hassan
 
-[Spotify](https://open.spotify.com/user/spotify) - 842,605 likes - 70 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 842,569 likes - 70 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,14 +42,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 32 | [Ley de Atracción](https://open.spotify.com/track/3Hg8KE0DQjo6aFJwFp2A8D) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Ley de Atracción](https://open.spotify.com/album/1uFe6wvy8CAtjsszaOVwNW) | 3:37 |
 | 33 | [Mariposas](https://open.spotify.com/track/2NXjSc70bijXn2OXzkRzCb) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Mariposas](https://open.spotify.com/album/2fMiZ4guqZIS5f0CoCh2Lv) | 2:30 |
 | 34 | [MERICHANE](https://open.spotify.com/track/3o3YFP1o1SEb4Rh5jNkVT4) | [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [PUTA](https://open.spotify.com/album/2ctwMRxRCZabremU4pGcz4) | 4:18 |
-| 35 | [MARAVILLOSO \(Machu Picchu\)](https://open.spotify.com/track/6LJPpIlmgxeiJBP6AS1eh5) | [Milena Warthon](https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd) | [MARAVILLOSO \(Machu Picchu\)](https://open.spotify.com/album/6uvGQ1cg5yDn9AkPUsUVLR) | 3:02 |
-| 36 | [Tocco di Lusso](https://open.spotify.com/track/0kxe9g9K1kdxzwRMNYfgIl) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Tocco di Lusso](https://open.spotify.com/album/2637BRvpeYONrNQiUWJUwV) | 3:23 |
+| 35 | [Tocco di Lusso](https://open.spotify.com/track/0kxe9g9K1kdxzwRMNYfgIl) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Tocco di Lusso](https://open.spotify.com/album/2637BRvpeYONrNQiUWJUwV) | 3:23 |
+| 36 | [MARAVILLOSO \(Machu Picchu\)](https://open.spotify.com/track/6LJPpIlmgxeiJBP6AS1eh5) | [Milena Warthon](https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd) | [MARAVILLOSO \(Machu Picchu\)](https://open.spotify.com/album/6uvGQ1cg5yDn9AkPUsUVLR) | 3:02 |
 | 37 | [Bolesne kości \(Tymoteusz\) \- Single Version](https://open.spotify.com/track/64pYruY8MqdxoZBQPOs3su) | [Ofelia](https://open.spotify.com/artist/0FbccBQBb69lfv4arbt6kX) | [Bolesne kości \(Tymoteusz\)](https://open.spotify.com/album/1GE4NgUQ16GUpgKFPOhh1M) | 4:04 |
 | 38 | [Dangerous](https://open.spotify.com/track/07dQsW9w1DgUFPtcBx14BP) | [Jada](https://open.spotify.com/artist/2pobDPwk9fuzujz5YKKAVB) | [Elements](https://open.spotify.com/album/71731qzxZ81ePINkeiylQG) | 3:33 |
 | 39 | [Azadî](https://open.spotify.com/track/4C79mdd7zUzW2hVwJmJLwk) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [Azadî](https://open.spotify.com/album/6zJCr9aBd5PIt6ltumUA4O) | 3:21 |
 | 40 | [Bahagiakan Dia](https://open.spotify.com/track/4oBaBPg7nDBJfvDn3Dkzjk) | [Shila Amzah](https://open.spotify.com/artist/6lrBGrd0TJMQxfzSdPAn3X), [Liza Hanim](https://open.spotify.com/artist/0TQk8sb9bPIMKGbvbkB51O) | [Bahagiakan Dia](https://open.spotify.com/album/7bGFqrSeIEOqnljdDI4EVJ) | 3:21 |
-| 41 | [1 Cọng Tóc Mai](https://open.spotify.com/track/5i17rzCuZfYVzoP441PXGu) | [Tóc Tiên](https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC), [Touliver](https://open.spotify.com/artist/5UNWQJdUbO8Gbg9Qn3r52M) | [1 Cọng Tóc Mai](https://open.spotify.com/album/2xDiBqg4K8nxhYDsi4Aes5) | 3:17 |
-| 42 | [各自安好](https://open.spotify.com/track/7ep5TafdBRpwCbwMciRPaU) | [Rene Liu](https://open.spotify.com/artist/6qzfo7jiO4OrhxrvPFPlWX) | [各自安好](https://open.spotify.com/album/42kIWWADJxhtXbMvfm8jO8) | 4:23 |
+| 41 | [各自安好](https://open.spotify.com/track/7ep5TafdBRpwCbwMciRPaU) | [Rene Liu](https://open.spotify.com/artist/6qzfo7jiO4OrhxrvPFPlWX) | [各自安好](https://open.spotify.com/album/42kIWWADJxhtXbMvfm8jO8) | 4:23 |
+| 42 | [1 Cọng Tóc Mai](https://open.spotify.com/track/5i17rzCuZfYVzoP441PXGu) | [Tóc Tiên](https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC), [Touliver](https://open.spotify.com/artist/5UNWQJdUbO8Gbg9Qn3r52M) | [1 Cọng Tóc Mai](https://open.spotify.com/album/2xDiBqg4K8nxhYDsi4Aes5) | 3:17 |
 | 43 | [heartache in july](https://open.spotify.com/track/42rTk25vRoiJUpBayPRaOR) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [born in the teens](https://open.spotify.com/album/7yrGizIEOMJb4ytbCOKhPn) | 3:13 |
 | 44 | [No Me Gustan los Grises](https://open.spotify.com/track/3csSDv4S9IzB7FetDpBn66) | [Mery Granados](https://open.spotify.com/artist/0aJgv15DVDKvr0yWb5BzP1) | [No Me Gustan los Grises](https://open.spotify.com/album/2JzCk4SJDCnYXlP5RT6v4x) | 3:37 |
 | 45 | [An kapou kapou m' agapas](https://open.spotify.com/track/1iGn8Ro9AvGcgFC9Bpl4M1) | [Stefania](https://open.spotify.com/artist/0HZUhj5PZHzHMWSI4s8rOQ) | [An kapou kapou m' agapas](https://open.spotify.com/album/7LueUWaZS06KOtNLvQRK8J) | 3:12 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 54 | [الوردة البيضا](https://open.spotify.com/track/506DZmhqvdH9574i9S5g5x) | [Zena Emad](https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH) | [الوردة البيضا](https://open.spotify.com/album/2QsEDwrvsdqTbHXfOmdkGO) | 3:57 |
 | 55 | [Plastic Flowers](https://open.spotify.com/track/733EegAvi6DRptoJSTc2mF) | [Lenny](https://open.spotify.com/artist/2KRtorIOtz60uFtab8N89y) | [Plastic Flowers](https://open.spotify.com/album/1ED0peXhq1bvjLKVNMbWL6) | 2:36 |
 | 56 | [it keeps on raining](https://open.spotify.com/track/7oPm32eIHb11cm4FJadA5p) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [it keeps on raining](https://open.spotify.com/album/0Qxp8yImfA544GEVQGvyQj) | 3:22 |
-| 57 | [Call Mi](https://open.spotify.com/track/2nYYjc3qevJl4pd1XXVhcg) | [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [なかむらみなみ](https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq), [Serocee](https://open.spotify.com/artist/6eccR9J1A0lXF0AFvj5JO9), [Sweetie Irie](https://open.spotify.com/artist/0iUw5KL7NRlfKK3tZJNK9b), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Call Mi](https://open.spotify.com/album/0tbVf3hH9dl7nH7ExGKrAA) | 3:15 |
-| 58 | [Hate You](https://open.spotify.com/track/20DTxZFaXhUWsnWFRmWgya) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [Hate You](https://open.spotify.com/album/62IzaVIraFlR3BZQBBqwk0) | 3:24 |
+| 57 | [Hate You](https://open.spotify.com/track/20DTxZFaXhUWsnWFRmWgya) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [Hate You](https://open.spotify.com/album/62IzaVIraFlR3BZQBBqwk0) | 3:24 |
+| 58 | [Call Mi](https://open.spotify.com/track/2nYYjc3qevJl4pd1XXVhcg) | [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [なかむらみなみ](https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq), [Serocee](https://open.spotify.com/artist/6eccR9J1A0lXF0AFvj5JO9), [Sweetie Irie](https://open.spotify.com/artist/0iUw5KL7NRlfKK3tZJNK9b), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Call Mi](https://open.spotify.com/album/0tbVf3hH9dl7nH7ExGKrAA) | 3:15 |
 | 59 | [Casa](https://open.spotify.com/track/0qCy54FENC3CPqOSMjHzPw) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Chao](https://open.spotify.com/album/50NOVmSzpApZluUtVSv1Tz) | 4:18 |
 | 60 | [LILITH](https://open.spotify.com/track/0dkgpByFaFUSMbr7k8PqXn) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m) | [LILITH](https://open.spotify.com/album/1E4Hklni81g0ec5DSoR14j) | 3:15 |
 | 61 | [Iss Baarish Mein \(Neeti Mohan Version\)](https://open.spotify.com/track/6SAwt2AylvrFdwzJg4va7U) | [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Iss Baarish Mein \(Neeti Mohan Version\)](https://open.spotify.com/album/6HOdxSKHk2VnInpw9sBbWi) | 4:09 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 66 | [No More Doubt](https://open.spotify.com/track/4Oq69vJVrRt4Q5bSQhoeB4) | [Romane](https://open.spotify.com/artist/0n4XFcBXIvCkXZdXQFMigW) | [No More Doubt](https://open.spotify.com/album/2KYLphOnR1zIzSF26BCoBA) | 2:56 |
 | 67 | [tricky situation](https://open.spotify.com/track/2RupwaICWPZgf5kK6WN9av) | [Ffion](https://open.spotify.com/artist/6gYn1myEM7sARWIoT2AVWG) | [tricky situation](https://open.spotify.com/album/3LxNmsxNPOgG5HoDATneGG) | 2:06 |
 | 68 | [จ๊วดหน้าฮ้าน](https://open.spotify.com/track/5JqNGI6DXY8GUxFqtz4EwG) | [Jintara Poonlarp](https://open.spotify.com/artist/3KlfbBoTPmF2TwJxFzveRI) | [จ๊วดหน้าฮ้าน](https://open.spotify.com/album/1NLzon0T0W1MGIIS7M05fR) | 5:02 |
-| 69 | [TYF](https://open.spotify.com/track/5SCwhJYHypju5RCI7zgVk2) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [TYF](https://open.spotify.com/album/1Z3VaI95Uej1kjjtaKFamW) | 3:33 |
-| 70 | [سم فالكاندي](https://open.spotify.com/track/7qk1ioFJUp5wNzPtSvi2E3) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [سم فالكاندي](https://open.spotify.com/album/7j5yTR9UnX8gVfOJ8OdqCo) | 2:27 |
+| 69 | [سم فالكاندي](https://open.spotify.com/track/7qk1ioFJUp5wNzPtSvi2E3) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [سم فالكاندي](https://open.spotify.com/album/7j5yTR9UnX8gVfOJ8OdqCo) | 2:27 |
+| 70 | [TYF](https://open.spotify.com/track/3YGklnT5auf8CCLCbvAgFJ) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [TYF](https://open.spotify.com/album/09LrimhS4xCJCyqsz9CMhA) | 3:33 |
 
-Snapshot ID: `MTY1OTUyNjk4MSwwMDAwMDAwMDBmYjhmZDU2MzM0MWIzMzA5MmQyNjA4YWMyZDY4Y2Uw`
+Snapshot ID: `MTY1OTUyNjk4MSwwMDAwMDAwMDIxM2NhM2QwNjk0ZjEzNGE4NTljNjkwZWQ5ZGRiZGIw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 
 > Midwest music breaking waves\. Tink
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,252 likes - 57 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,256 likes - 57 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 | 6 | [Almighty Gnar](https://open.spotify.com/track/3psH7F78CNkOooducxwhqA) | [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Almighty Gnar](https://open.spotify.com/album/2HBHBB0e7CXxfHhuSFhZiz) | 3:29 |
 | 7 | [Big 14 \(feat\. Offset & Moneybagg Yo\)](https://open.spotify.com/track/7rQ84WsT2Wcnrz5gTmbGmw) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Big 14 \(feat\. Offset & Moneybagg Yo\)](https://open.spotify.com/album/4QjFj3RCLsh7x7mwdaaEfO) | 4:07 |
 | 8 | [Waddup \(Swervo Mix\) \(feat\. G Herbo\)](https://open.spotify.com/track/4i1LWSslhvIyS9IKBWcxl5) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Switch Music](https://open.spotify.com/album/3m5015yxQTaCo83w7AQwA7) | 3:32 |
-| 9 | [Real Bitch \(feat\. Gloss Up\)](https://open.spotify.com/track/4zH4kR30s4Cx6HMvodrf32) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Gloss Up](https://open.spotify.com/artist/0i5emUaPMWG7O3rAoXvvq8) | [Real Bitch \(feat\. Gloss Up\)](https://open.spotify.com/album/6MUUM532DEcR697rck5n90) | 2:04 |
+| 9 | [Real Bitch \(feat\. Gloss Up\)](https://open.spotify.com/track/4zH4kR30s4Cx6HMvodrf32) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Real Bitch \(feat\. Gloss Up\)](https://open.spotify.com/album/6MUUM532DEcR697rck5n90) | 2:04 |
 | 10 | [Save Me \(feat\. Lil Durk\)](https://open.spotify.com/track/5HN3ikspb1MOyJ0MMjn55I) | [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Save Me \(feat\. Lil Durk\)](https://open.spotify.com/album/75AMuGJ8j2cM7smZ0HhJzn) | 2:53 |
 | 11 | [AKUNA](https://open.spotify.com/track/6y9fIg54gDgqgldH4EMJhf) | [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [AKUNA](https://open.spotify.com/album/4wr8ni8dr2e94Ae6tCbFHR) | 3:13 |
 | 12 | [U\-Digg \(feat\. 42 Dugg & Veeze\)](https://open.spotify.com/track/0b7UwotRCrS7qBoLDjfvSY) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [U\-Digg \(feat\. 42 Dugg & Veeze\)](https://open.spotify.com/album/0gnnmRUd9qg7ihL70KEtVZ) | 3:55 |

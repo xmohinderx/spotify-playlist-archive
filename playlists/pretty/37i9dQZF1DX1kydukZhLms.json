@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best metal ballads.",
-  "num_followers": 1072084,
+  "num_followers": 1071134,
   "original_name": "Metal Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDA0NDY0OSwwMDAwMDAwMGUzZmRlMWMyNWVmNDQ0YzJhZTNjOTNjM2EzZWRkMTdh",
+  "snapshot_id": "MTY1MDA0NDY0OSwwMDAwMDAwMDI5NDVlN2JmMjkxMTk3ZThlYjU5MGE3YTE2MWUxMmE5",
   "tracks": [
     {
       "added_at": "2022-04-15 17:44:09",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "Danzig II: Lucifuge",
-        "url": "https://open.spotify.com/album/3kPaVfOEEHBDOoAbOMWvRS"
-      },
-      "artists": [
-        {
-          "name": "Danzig",
-          "url": "https://open.spotify.com/artist/34c4iQ5tkaZKu6Sv28BTde"
-        }
-      ],
-      "duration_ms": 259626,
-      "name": "Blood And Tears",
-      "url": "https://open.spotify.com/track/1Gt07aYIpl5yJcTbH95s7v"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
         "name": "Set Me Free",
         "url": "https://open.spotify.com/album/0QKfHcNAjUqQo6PyQrGPk9"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 381200,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/2IrdmiRatVE5s3l2YRcIXH"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
+        "name": "Danzig II: Lucifuge",
+        "url": "https://open.spotify.com/album/3kPaVfOEEHBDOoAbOMWvRS"
+      },
+      "artists": [
+        {
+          "name": "Danzig",
+          "url": "https://open.spotify.com/artist/34c4iQ5tkaZKu6Sv28BTde"
+        }
+      ],
+      "duration_ms": 259626,
+      "name": "Blood And Tears",
+      "url": "https://open.spotify.com/track/1Gt07aYIpl5yJcTbH95s7v"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "Creatures Of The Night",
-        "url": "https://open.spotify.com/album/3W0Q8WxZ6yc1nT7lhZuu9t"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 366106,
-      "name": "I Still Love You",
-      "url": "https://open.spotify.com/track/3UGAFI6gHmz88xMQbHr1UT"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
         "name": "Reise, Reise",
         "url": "https://open.spotify.com/album/09qHS2BgOLqi3SMkbauxdJ"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 271173,
       "name": "Ohne dich",
       "url": "https://open.spotify.com/track/4Hruh5C0Ef3y8mIcns5Y1O"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
+        "name": "Creatures Of The Night",
+        "url": "https://open.spotify.com/album/3W0Q8WxZ6yc1nT7lhZuu9t"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 366106,
+      "name": "I Still Love You",
+      "url": "https://open.spotify.com/track/3UGAFI6gHmz88xMQbHr1UT"
     },
     {
       "added_at": "2022-04-15 17:44:09",

@@ -4,7 +4,7 @@
 
 > Hand\-curated cuts from the vault, no record player required.
 
-233 songs - 17 hr 9 min - [published](https://open.spotify.com/playlist/5AAqvpIoHyvDthNcBVV4BF)
+234 songs - 17 hr 13 min - [published](https://open.spotify.com/playlist/5AAqvpIoHyvDthNcBVV4BF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Another Dose \(feat\. Mick Jenkins\)](https://open.spotify.com/track/09GY9rmMFHOuH3Z7sGSoKz) | [Gamblers](https://open.spotify.com/artist/0mkPR7AJ7qhuFaS9Eh2Lmm), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Another Dose \(feat\. Mick Jenkins\)](https://open.spotify.com/album/5NqQIZptkFt28aRMa62QvO) | 2:18 | 2022-08-16 |  |
 | [Another Girl](https://open.spotify.com/track/0GREcaqrfl68u5hW5FeL8p) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [ANTH01](https://open.spotify.com/album/5ZscjYDLx3luVuDWPMkT3x) | 6:43 | 2022-02-25 | 2022-03-09 |
 | [Anybody](https://open.spotify.com/track/44SSviC4R1TkAdsyptjDpE) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:08 | 2022-06-24 |  |
-| [Asa Branca](https://open.spotify.com/track/6p5QJBr5iE2xvHatGebTbR) | [Rosinha De Valença](https://open.spotify.com/artist/3PaJldxyhusOBLFXRkI36B) | [Um Violão em Primeiro Plano](https://open.spotify.com/album/2gRu1FqkaEtzVrJprvpwSM) | 4:12 | 2021-12-03 |  |
+| [Asa Branca](https://open.spotify.com/track/6p5QJBr5iE2xvHatGebTbR) | [Rosinha De Valença](https://open.spotify.com/artist/3PaJldxyhusOBLFXRkI36B) | [Um Violão em Primeiro Plano](https://open.spotify.com/album/2gRu1FqkaEtzVrJprvpwSM) | 4:12 | 2021-12-03 | 2022-08-31 |
 | [Astral Traveling](https://open.spotify.com/track/3fWFlmEPPN28xYlKqd7abt) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Thembi](https://open.spotify.com/album/5bNLEyWCkiYC5ZoMxSWMWB) | 5:49 | 2022-05-20 | 2022-06-11 |
 | [Avril 14th](https://open.spotify.com/track/2MZSXhq4XDJWu6coGoXX1V) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx) | 2:05 | 2022-05-20 | 2022-06-11 |
 | [Baba Ayoola](https://open.spotify.com/track/5HkJXcRA2gPA7QNP9ozXgK) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Baba Ayoola](https://open.spotify.com/album/5VsoTZNGMfilnneRZdtjrX) | 3:58 | 2021-12-03 | 2022-06-19 |
@@ -115,6 +115,7 @@
 | [Journey In Satchidananda](https://open.spotify.com/track/6ZTilFyljGPpZeS5KbU0sh) | [Alice Coltrane](https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr), [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Journey In Satchidananda](https://open.spotify.com/album/14qDLRNo3R2MsddIfWXpcB) | 6:35 | 2022-04-21 | 2022-06-23 |
 | [Journey In Satchidananda](https://open.spotify.com/track/2gG3ivmsfylVXLyIJvLXyN) | [Alice Coltrane](https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr), [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Journey in Satchidananda](https://open.spotify.com/album/6zV55F6W8kh1qe8LHhqRbz) | 6:36 | 2022-06-24 |  |
 | [Julieta](https://open.spotify.com/track/1xQXbyDevs4LcPkOCaTvf5) | [Fantasy 15](https://open.spotify.com/artist/3ftdxnGZbwy4XpWZTKRdEH) | [Julieta](https://open.spotify.com/album/2gO1JF3heDQl9Mx0HOvZwY) | 2:35 | 2021-12-03 | 2022-07-29 |
+| [Kali](https://open.spotify.com/track/5MJPZdoWBTx134lpRvnCUE) | [OSHUN](https://open.spotify.com/artist/3sGyf3EDcvQ4PB9AGIg84M) | [Kali](https://open.spotify.com/album/50ElTxt2kk7MPWWOKtw1yK) | 3:33 | 2022-08-29 |  |
 | [Kane Train](https://open.spotify.com/track/0EDAZsV2t4Lh42R0mhjmXj) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Kane Train / Ur2yung](https://open.spotify.com/album/19KltJ72feDxM0ncxqE4vb) | 2:16 | 2021-12-03 | 2022-05-25 |
 | [Kite Day](https://open.spotify.com/track/1NiGKtmRQclUgYHJY1TEJo) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Kite Day](https://open.spotify.com/album/2O8b1i8Ii2WOSSWa6z2Yc5) | 5:56 | 2022-08-29 |  |
 | [Koko](https://open.spotify.com/track/1Bfpf7s6E7doiTpVasSmgI) | [E.VAX](https://open.spotify.com/artist/12m4a5ljGoe6yyYPpVi7Hr) | [E.VAX](https://open.spotify.com/album/1VBiQl2RvoMZObKGMypUWF) | 2:35 | 2021-12-03 | 2022-07-29 |

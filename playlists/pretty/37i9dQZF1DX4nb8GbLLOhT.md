@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nb8GbLLOhT.md) - [plain]
 
 > Classic songs like you've never heard before\. Cover: Shawn Mendes, Maddie & Tae, and John Legend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,501 likes - 115 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,468 likes - 115 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nb8GbLLOhT.md) - [plain]
 | 21 | [California Dreamin' \- Spotify Singles](https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spotify Singles](https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD) | 2:53 |
 | 22 | [I Wanna Dance With Somebody \(Who Loves Me\) \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3Nca5js9xKegX655YZ43Uq) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Spotify Singles](https://open.spotify.com/album/7ll3Cf5KaoLl6toqeSlClH) | 4:22 |
 | 23 | [Bennie And The Jets \- Recorded At The Colosseum, Caesars Palace, Las Vegas](https://open.spotify.com/track/144y07SeEatHOBswM3BZHk) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Spotify Singles](https://open.spotify.com/album/7HNrFnh0uwG7DuXdgGEY0z) | 6:01 |
-| 24 | [Wicked Game \- Recorded at Electric Lady Studios, NYC \(feat\. Chris Isaak\)](https://open.spotify.com/track/7rSSVVqC2sqDhmt1LfWm3J) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK), [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Spotify Singles](https://open.spotify.com/album/3CtjXkvmvOyiSld7yBZkJ2) | 4:51 |
-| 25 | [Nothing from Nothing \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5YLpIdoLpKPSPCamFAKUCi) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Spotify Singles](https://open.spotify.com/album/5n4jQZpHLAWOVccZKttKSD) | 1:51 |
+| 24 | [Nothing from Nothing \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5YLpIdoLpKPSPCamFAKUCi) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Spotify Singles](https://open.spotify.com/album/5n4jQZpHLAWOVccZKttKSD) | 1:51 |
+| 25 | [Wicked Game \- Recorded at Electric Lady Studios, NYC \(feat\. Chris Isaak\)](https://open.spotify.com/track/7rSSVVqC2sqDhmt1LfWm3J) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK), [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Spotify Singles](https://open.spotify.com/album/3CtjXkvmvOyiSld7yBZkJ2) | 4:51 |
 | 26 | [Dreams \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2q9jsX0poviVu9OSWgmRYg) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Spotify Singles](https://open.spotify.com/album/3Kvg9h8w3OMPNkDISwcal8) | 3:59 |
 | 27 | [Big Yellow Taxi \- Live from Spotify Studios NYC](https://open.spotify.com/track/0e3ujCTfBtvX8HdQrEUBd9) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Spotify Singles](https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu) | 2:29 |
 | 28 | [Mercy Mercy Me \(The Ecology\)](https://open.spotify.com/track/4oU2j4VgtKXkYAM8xg6lrU) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Spotify Singles](https://open.spotify.com/album/5G16B3RQcCPZ7LDVf3TwQ4) | 3:26 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nb8GbLLOhT.md) - [plain]
 | 60 | [You Oughta Know](https://open.spotify.com/track/336gUVrBgd22Y1iyjH5wRD) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Spotify Singles](https://open.spotify.com/album/7sVf305wgcAC6MkzZchs6E) | 4:41 |
 | 61 | [Blackbird \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3VukmzGvVbB4FyGyBPf0A7) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Spotify Singles](https://open.spotify.com/album/4Od3ObjvGfZybirpKZBrcg) | 4:27 |
 | 62 | [Kiss \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7Kfpow0FQwvw3xxrRdXgf9) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Spotify Singles](https://open.spotify.com/album/3NSkcqmYRTEb2sPICYWT1T) | 4:03 |
-| 63 | [Don't Let Me Down \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1RMwLHYjOOlf2EqiCwl6gI) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Spotify Singles](https://open.spotify.com/album/2nj1jLhRLutogV9qdEZpx4) | 2:54 |
-| 64 | [Don't Speak \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0gzMEfErGPaCFbQJdb2HQb) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Spotify Singles](https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib) | 4:21 |
+| 63 | [Don't Speak \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0gzMEfErGPaCFbQJdb2HQb) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Spotify Singles](https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib) | 4:21 |
+| 64 | [Don't Let Me Down \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1RMwLHYjOOlf2EqiCwl6gI) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Spotify Singles](https://open.spotify.com/album/2nj1jLhRLutogV9qdEZpx4) | 2:54 |
 | 65 | [A Change Is Gonna Come \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5n93CqWLaMZxD7PzMWRLUn) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Spotify Singles](https://open.spotify.com/album/5nUKNLU2nc5JlmCrzXrJ65) | 4:15 |
 | 66 | [Mind Games \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2UxY3bwMbuPdbG3teXYOxQ) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Spotify Singles](https://open.spotify.com/album/1KX4ZoGCzeRAkgHDXv0Wdz) | 5:20 |
 | 67 | [Need You Tonight \- Spotify Singles](https://open.spotify.com/track/7HgqTzNm5MRVaesALaDz63) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Spotify Singles](https://open.spotify.com/album/1dP5gqcehoHp1lqAr8z2Yp) | 3:02 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nb8GbLLOhT.md) - [plain]
 | 114 | [Everybody Wants To Be Famous \- Recorded at RAK Studios, London](https://open.spotify.com/track/2cfvcnasI4AbplUmYXTyjP) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [Spotify Singles](https://open.spotify.com/album/2jVlmo3NT5VZaOCd353TFv) | 3:18 |
 | 115 | [Over And Over \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/05QUNkTFq3kK0Q062LDVxA) | [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4), [Resistance Revival Chorus](https://open.spotify.com/artist/5GAZngXqtUrssaaExOGeT1) | [Spotify Singles](https://open.spotify.com/album/08XmZEKHQzIPvf5Tfeo4HS) | 3:19 |
 
-Snapshot ID: `MTY1NTg0OTM2NSwwMDAwMDAwMGQ4ODg2YjBjOGJmYjNkZWNlMWY2Zjc5Y2NiODdjYzYz`
+Snapshot ID: `MTY1NTg0OTM2NSwwMDAwMDAwMDg1NDFlYWYzNWJlYjE1MmY5ZGNiYTQzYWYwZjBjMGRj`

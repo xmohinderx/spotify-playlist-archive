@@ -4,11 +4,12 @@
 
 > Soft and swinging jazz in the background of your cocktail party.
 
-131 songs - 9 hr 14 min - [published](https://open.spotify.com/playlist/2vEWDsu9Afic181JBShVxc)
+134 songs - 9 hr 24 min - [published](https://open.spotify.com/playlist/2vEWDsu9Afic181JBShVxc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Life Remembered](https://open.spotify.com/track/1Z2syyXirlJMUq8NRh6r3t) | [Bridgerton Vail](https://open.spotify.com/artist/258zL72kPsK1Y6IqgdoPDC) | [A Life Remembered](https://open.spotify.com/album/787bxoPDOcR9LASFyyWlHA) | 2:56 | 2022-05-10 |  |
+| [After Hours](https://open.spotify.com/track/3RoPN08vWMKxViEhdoqeuW) | [Eduard Landings](https://open.spotify.com/artist/6SF8oe9fw9X65MbLwQfkau) | [After Hours](https://open.spotify.com/album/3itxUrPWLTA7nUFpL3LiTS) | 3:32 | 2022-08-30 |  |
 | [Akaishi](https://open.spotify.com/track/5npOIRaqGTVT5Ur8cf4i4K) | [Moonside Trio](https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA) | [Akaishi](https://open.spotify.com/album/4wTd18kaoayJm6JDQmiS1e) | 3:50 | 2022-04-26 |  |
 | [All The Things You Are](https://open.spotify.com/track/0NmO85fp4esVv3Hlk2ZUDm) | [Barry Harris Trio](https://open.spotify.com/artist/7Bpj43yWq3DUaMlNmTWYXH) | [Breakin' It Up](https://open.spotify.com/album/5xIu1QvYdJg4xZLw7J8n1S) | 5:04 | 2022-04-26 | 2022-06-23 |
 | [Almost Like Being In Love](https://open.spotify.com/track/6CDQBADsdzJwc3qZ3OPDHH) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Art Taylor](https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX) | [Red Garland's Piano](https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d) | 4:50 | 2022-04-26 |  |
@@ -64,6 +65,7 @@
 | [It Could Happen To You](https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA) | [Herb Ellis](https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz) | [Ellis In Wonderland](https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP) | 3:44 | 2022-04-26 | 2022-06-09 |
 | [It Might As Well Be Spring](https://open.spotify.com/track/62sqdTmnNpWcJtxtJXmKzy) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [It Might As Well Be Spring](https://open.spotify.com/album/0FMeAHDC7zwcktJQ3KUzGw) | 4:35 | 2022-04-26 |  |
 | [It's Always You](https://open.spotify.com/track/2i7sJAA8we9WPS4TzDazRQ) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [It's Always You](https://open.spotify.com/album/5nHIEvhqTrblgGXsrDPiQJ) | 3:39 | 2022-08-10 |  |
+| [It's You Or No One](https://open.spotify.com/track/3CewMyxVNsiu94v6Vm0SS2) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [It's You Or No One](https://open.spotify.com/album/21kjz5LLIGohYrVYgkEI0r) | 3:34 | 2022-08-30 |  |
 | [It´s Easy To Remember](https://open.spotify.com/track/5PExCVG0iW5oiWpzHZjxMq) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [It´s Easy To Remember](https://open.spotify.com/album/2mQbfegP0VRuYuBP5sKihX) | 3:32 | 2022-04-26 |  |
 | [I´m Glad There Is You](https://open.spotify.com/track/5aSfAExWXaU5P4wuPkBINx) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [I´m Glad There Is You](https://open.spotify.com/album/5S8DO23pBgOdUIIfeup4IT) | 4:29 | 2022-04-26 |  |
 | [Kathy's Waltz](https://open.spotify.com/track/3XfaSRXfGuWT1rrn9lWx30) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA) | 4:47 | 2022-06-29 |  |
@@ -79,7 +81,7 @@
 | [Love Walked In](https://open.spotify.com/track/1H460eor4CG8p8OAz7TGYM) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [Love Walked In](https://open.spotify.com/album/47lb71I4VeNVfdXZma2o3M) | 3:40 | 2022-05-17 |  |
 | [Lucky To Be Me](https://open.spotify.com/track/4mTBd1yNfpjivl5lHorkiw) | [Ten Thirty Trio](https://open.spotify.com/artist/5bMQvYFq5ic1QxUDaGPyeb) | [Lucky To Be Me](https://open.spotify.com/album/2SlisjeQUgoA3qCocBRzcp) | 3:43 | 2022-04-26 |  |
 | [Makin' Whoopee](https://open.spotify.com/track/6tL1ZlPRSihc6gyWhVfA8X) | [The Ben Webster Quintet](https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU) | [Soulville](https://open.spotify.com/album/6JyAtY4rZhDFfOR3aRBVBc) | 4:31 | 2022-04-26 |  |
-| [Manhattan](https://open.spotify.com/track/6BmigYi3LRJ77xibqSX6OV) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Brass/Trio](https://open.spotify.com/album/51xQakHIfX5FVfXTLRcUon) | 4:30 | 2022-04-26 |  |
+| [Manhattan](https://open.spotify.com/track/6BmigYi3LRJ77xibqSX6OV) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Brass/Trio](https://open.spotify.com/album/51xQakHIfX5FVfXTLRcUon) | 4:30 | 2022-04-26 | 2022-08-31 |
 | [May Dance](https://open.spotify.com/track/2daoiHZab1n6yJPQjTEDap) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Candlelight](https://open.spotify.com/album/2RNDKOebbSeGEsjNFt1279) | 3:51 | 2022-06-14 |  |
 | [Misty](https://open.spotify.com/track/78K54LEyjSttk9UTE8PR9r) | [Steve Blumenthal](https://open.spotify.com/artist/59z8p2IU8agbAddmgLVAXE) | [Misty](https://open.spotify.com/album/7vEoSNuCi4Hh899wvGY7Ct) | 4:12 | 2022-06-01 |  |
 | [Monk's Mood](https://open.spotify.com/track/7ojUoFuu49TkZ8mvMEndt0) | [Billy Hicks Quartet](https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5) | [Monk's Mood](https://open.spotify.com/album/67IUq1LOpEnPXlJfyvnY4C) | 5:00 | 2022-04-26 | 2022-06-01 |
@@ -121,6 +123,7 @@
 | [That Beatnik Jive](https://open.spotify.com/track/7HdUp7WWpe9RQtwFk18WbG) | [The Dox Band](https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL) | [That Beatnik Jive](https://open.spotify.com/album/0vxXeeXzriLTRk8frbqEDe) | 3:19 | 2022-04-26 |  |
 | [That Old Feeling](https://open.spotify.com/track/3IMc9STtRwcCwT7Nfk9rDa) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Cool Imagination](https://open.spotify.com/album/4HRKjc0n2Vo2WxRvTbe6UY) | 5:45 | 2022-06-29 |  |
 | [That Old Feeling](https://open.spotify.com/track/42Tiidz9wZVBQSm9HZlcQv) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [The Complete RCA Victor Recordings](https://open.spotify.com/album/0ax9jxqZER7j03vyCGFM3X) | 5:46 | 2022-04-26 | 2022-07-29 |
+| [That´s All](https://open.spotify.com/track/3rQfFOipumOd794SsD9xAn) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [That´s All](https://open.spotify.com/album/07jtuEoMDVUHQLvXs3IoFN) | 3:16 | 2022-08-30 |  |
 | [The Best Thing for You \(Would Be Me\)](https://open.spotify.com/track/6D7Eeu0HEa6f08wNIfCe1Q) | [David Finck](https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn) | [The Best Thing for You \(Would Be Me\)](https://open.spotify.com/album/73hmWKPyXjuoWz1GYUFJ7Y) | 3:38 | 2022-04-26 |  |
 | [The Call](https://open.spotify.com/track/6dr3C76wvbQJty7WvNG7tG) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr) | [The Call](https://open.spotify.com/album/43moPGlUvUG7X0uAVb7yFd) | 4:03 | 2022-04-26 |  |
 | [The Duke](https://open.spotify.com/track/6V0opjIJTcAfcrwPVgDfb6) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [The Duke](https://open.spotify.com/album/6C6SvmCkEqoNTFHMjEtwLk) | 6:45 | 2022-04-26 | 2022-06-23 |

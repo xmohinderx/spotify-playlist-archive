@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. Ivonne Galaz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,986 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,033 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 52 | [Bien Motivados](https://open.spotify.com/track/6DezO5fZUZV6GRj7xV5k0k) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK), [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [Bien Motivados](https://open.spotify.com/album/01dP66RlK5xFUhyApHSoWd) | 2:52 |
 | 53 | [Fabi](https://open.spotify.com/track/27y2E8LZkB3dfEZzjKmyZ9) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Sorry For The Wait 2](https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH) | 4:28 |
 | 54 | [El Sereno](https://open.spotify.com/track/5QPWf9dawZ1Y9RbQHIUSlA) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [El Sereno](https://open.spotify.com/album/3oA4dxVIFwgL6sjPmRZtHz) | 2:43 |
-| 55 | [Mi Todo](https://open.spotify.com/track/4PJPDW3jEL4VNAfICxaEVm) | [Alta Consigna](https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb) | [Mi Todo](https://open.spotify.com/album/0zpk19f8Rp6hb1YGjOMVX9) | 4:01 |
-| 56 | [Vuela y Vuela](https://open.spotify.com/track/7qQZ6wGQO2lb4jRyuysx6s) | [Grupo H\-100](https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9) | [Vuela y Vuela](https://open.spotify.com/album/35EBcHRE2GuFcYfCkwyX7l) | 3:01 |
+| 55 | [Vuela y Vuela](https://open.spotify.com/track/7qQZ6wGQO2lb4jRyuysx6s) | [Grupo H\-100](https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9) | [Vuela y Vuela](https://open.spotify.com/album/35EBcHRE2GuFcYfCkwyX7l) | 3:01 |
+| 56 | [Mi Todo](https://open.spotify.com/track/4PJPDW3jEL4VNAfICxaEVm) | [Alta Consigna](https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb) | [Mi Todo](https://open.spotify.com/album/0zpk19f8Rp6hb1YGjOMVX9) | 4:01 |
 | 57 | [Salud Por Eso](https://open.spotify.com/track/44aafvQtAsQ8FcVDne725k) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB), [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2), [Esencia Noble](https://open.spotify.com/artist/7JvS3PC6AQ9agVN0dm7iEr) | [Salud Por Eso](https://open.spotify.com/album/5rhp0Kg67gEvo7qsq3saFR) | 2:59 |
 | 58 | [Falso Amigo](https://open.spotify.com/track/7Gmh0Emb8tt5XKCavZZfvD) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Falso Amigo](https://open.spotify.com/album/7iKG6XMWGzrz8OpST6DjRL) | 3:15 |
 | 59 | [Ya No Me Vuelvo a Enamorar](https://open.spotify.com/track/1AEvAdtH4tOzVElQF88FDO) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Ya No Me Vuelvo a Enamorar](https://open.spotify.com/album/7ro1zMzIZl2Od9nVl1kOYk) | 3:48 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 66 | [Ya Los Miraron Pasar](https://open.spotify.com/track/04ETVcXvStIz96bDxqpr2S) | [Ruben Figueroa](https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg), [TipoSierraBros](https://open.spotify.com/artist/5Hn6UFrZhAUTSFvAnB7Jk1) | [Ya Los Miraron Pasar](https://open.spotify.com/album/4L4RHzgMeqzU8LeXix4JLh) | 3:07 |
 | 67 | [1942](https://open.spotify.com/track/05PjWpRVnilvGEVMSgng6m) | [Izzy La Reina](https://open.spotify.com/artist/7J8ap7LRmCnCbs9bAwJKFi) | [1942](https://open.spotify.com/album/1aYm3ShmR2KttTOJUUybKb) | 2:18 |
 | 68 | [Tú También Eres De Barrio](https://open.spotify.com/track/24BbCLyggRqfIKpLbnPgAT) | [La Fase 3](https://open.spotify.com/artist/29Cl7Hr5OrIZOKOZAkCEDj) | [Tú También Eres De Barrio](https://open.spotify.com/album/5Kkb8hbbFca8hKh0NnwQtM) | 2:49 |
-| 69 | [El Chivo](https://open.spotify.com/track/61l7b4tV5lhopAO25OaUhP) | [Jesús Mendoza](https://open.spotify.com/artist/0Yz6o9CplQwzJgEiJuVY8W) | [El Chivo](https://open.spotify.com/album/7MPluGvg6suOskXTNg0W5i) | 2:54 |
-| 70 | [A Lo Mexa](https://open.spotify.com/track/4N8TJKI5IH2FLzPFmKAC9M) | [Stilo](https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9) | [A LO MEXA](https://open.spotify.com/album/2HcE7v275MEIzkURdbqfle) | 3:15 |
+| 69 | [A Lo Mexa](https://open.spotify.com/track/4N8TJKI5IH2FLzPFmKAC9M) | [Stilo](https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9) | [A LO MEXA](https://open.spotify.com/album/2HcE7v275MEIzkURdbqfle) | 3:15 |
+| 70 | [El Chivo](https://open.spotify.com/track/61l7b4tV5lhopAO25OaUhP) | [Jesús Mendoza](https://open.spotify.com/artist/0Yz6o9CplQwzJgEiJuVY8W) | [El Chivo](https://open.spotify.com/album/7MPluGvg6suOskXTNg0W5i) | 2:54 |
 | 71 | [Es Pura Envidia](https://open.spotify.com/track/53JTWuW3LongStI3kWEJDX) | [3 Caleb](https://open.spotify.com/artist/28bkOQcxioYFEsE06mmnkd) | [Es Pura Envidia](https://open.spotify.com/album/1Lh0cxdCnKIxxLRP0qqDBN) | 2:01 |
 | 72 | [Me Muero Por Tenerte](https://open.spotify.com/track/1TaUH3gMmI52eJwnQjpKrg) | [Los Del Puerto](https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e), [Grupo 415](https://open.spotify.com/artist/4T7VVYDG8RzvV1E0zUP6Gw) | [Me Muero Por Tenerte](https://open.spotify.com/album/5fsETqTQv6MtnpTKpLURKa) | 3:56 |
 | 73 | [A Pesar De Todo](https://open.spotify.com/track/54v763MzxJoz7EtgoOkRnF) | [Max Wizard](https://open.spotify.com/artist/0dlUkcvpngiB6q05OnvKme) | [A Pesar De Todo](https://open.spotify.com/album/7IU4tew0q0wwxXDM2zSJ0l) | 3:01 |
 | 74 | [Mis Travesuras](https://open.spotify.com/track/19gfnvZCia2fknfk9utMgB) | [Nietos Del Viejo](https://open.spotify.com/artist/3sC7anQFAQtZNYpADNh5EH) | [Pasajes Negros](https://open.spotify.com/album/4trLYsGUm6UmLuhdlMAC7A) | 2:20 |
 | 75 | [Ando Bien Tumbado](https://open.spotify.com/track/3tQCYIGiq4ToBUIBCcI3mJ) | [La Fase 3](https://open.spotify.com/artist/29Cl7Hr5OrIZOKOZAkCEDj) | [Ando Bien Tumbado](https://open.spotify.com/album/14dzMkIDXzmCA5vwm34zy7) | 3:05 |
 
-Snapshot ID: `MTY1OTcxMDg3NSwwMDAwMDAwMGRiOWM0M2FkNDQxNThhZWE1NzY3ZDVkMTI5ZGFkMTYw`
+Snapshot ID: `MTY1OTcxMDg3NSwwMDAwMDAwMDY4YjUxZThlMTE1MjE3Yjg2YWE0NWY3NjU1NGZhZmQy`

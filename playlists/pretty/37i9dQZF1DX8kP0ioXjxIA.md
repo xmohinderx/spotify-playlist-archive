@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kP0ioXjxIA.md) - [plain]
 
 > BLACKPINK in our area! Taste that Pink Venom!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,381,391 likes - 39 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,382,352 likes - 39 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

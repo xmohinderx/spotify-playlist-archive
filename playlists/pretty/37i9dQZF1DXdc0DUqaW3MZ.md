@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > Soul, R'n'B all with a tinge of electronic goodness\. Cover: Jitwam
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,691 likes - 70 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,283 likes - 70 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 62 | [Moving On](https://open.spotify.com/track/24jQYMpwrraSLf6TfE2K0U) | [Clap! Clap!](https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF), [Martha Da'ro](https://open.spotify.com/artist/312xfcd1WbKDhBnqPxjXVl) | [Liquid Portraits](https://open.spotify.com/album/19uGXP6YaIElZQ08aNLJwS) | 4:09 |
 | 63 | [Get Away](https://open.spotify.com/track/7z7YdeM87GplcOag7m08tb) | [ADO](https://open.spotify.com/artist/2OAEsMvEXwG6AQQ7lHkHZ4), [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Focus](https://open.spotify.com/album/0aBn2yFmfeYbfhEYpFMEy9) | 4:24 |
 | 64 | [Heart\-Shaped Box](https://open.spotify.com/track/3t9UffGSsulotQbSLrQTWY) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Heart\-Shaped Box](https://open.spotify.com/album/3WPDRb3GzyeFL2a08MqGZz) | 2:49 |
-| 65 | [Big Bad Mood \(feat\. Miraa May\)](https://open.spotify.com/track/3GdWGAtxFU9184mRdqfB0T) | [Jordan Stephens](https://open.spotify.com/artist/0SVz62vUjHKkbVOgoTK4Ze), [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [Big Bad Mood \(feat\. Miraa May\)](https://open.spotify.com/album/4kpdV2LSaUGLSPLZWz7cEJ) | 3:49 |
-| 66 | [Without You](https://open.spotify.com/track/4fkgjkCqxOsjePLSpHZbpa) | [Becca Hatch](https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg) | [Without You](https://open.spotify.com/album/0ounACjKD0M8EjnTxAF3UW) | 2:57 |
+| 65 | [Without You](https://open.spotify.com/track/4fkgjkCqxOsjePLSpHZbpa) | [Becca Hatch](https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg) | [Without You](https://open.spotify.com/album/0ounACjKD0M8EjnTxAF3UW) | 2:57 |
+| 66 | [Big Bad Mood \(feat\. Miraa May\)](https://open.spotify.com/track/3GdWGAtxFU9184mRdqfB0T) | [Jordan Stephens](https://open.spotify.com/artist/0SVz62vUjHKkbVOgoTK4Ze), [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [Big Bad Mood \(feat\. Miraa May\)](https://open.spotify.com/album/4kpdV2LSaUGLSPLZWz7cEJ) | 3:49 |
 | 67 | [Sea Without Blue](https://open.spotify.com/track/1Qsdx0D4zH9bqvMyYhpV96) | [POLIÇA](https://open.spotify.com/artist/34vLhockmYhf3LgznwyNaQ) | [When We Stay Alive](https://open.spotify.com/album/7IBhWoqJNbJtTityLHPYaT) | 3:00 |
 | 68 | [You \(1000 Beasts Remix\)](https://open.spotify.com/track/1TzakCl94k0i561dxoNZWs) | [1000 Beasts](https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9), [Elaine Malone](https://open.spotify.com/artist/5LHrdQzcsW8MCvaLNOlaqT) | [You \(1000 Beasts Remix\)](https://open.spotify.com/album/1XaAFaAtmfDiNi1t4vkIlP) | 3:43 |
 | 69 | [1985](https://open.spotify.com/track/5DCoLPjn4bBNmf41iVG5Vh) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD) | [1985](https://open.spotify.com/album/2vjBfzq0CoilOQluDuD9Ny) | 2:50 |
 | 70 | [Leslie](https://open.spotify.com/track/6NzAnIRwtBKacxkLzva4e7) | [Jacob Groening](https://open.spotify.com/artist/4Mlxc3DHm3Qr5XTaEXHT6f) | [Leslie EP](https://open.spotify.com/album/7KFVE1klBqsA9fiqte3Ks8) | 7:26 |
 
-Snapshot ID: `MTY1NTczNDc4MiwwMDAwMDAwMDYwNzRjNjg5ZTI5N2VlZTFmNGI0YTk3YjU4MDc3ZTcx`
+Snapshot ID: `MTY1NTczNDc4MiwwMDAwMDAwMDgwMjczZjgxMGU5MzM0NDFkYmFlMzUxNjM0NDhlNzNi`

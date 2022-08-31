@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring DJ Khaled, Lil Tjay, NAV, and more\. Cover: JID
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,181 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,243 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 18 | [Free Slime](https://open.spotify.com/track/4Wgu0FPMdz24m4TBc7kyk2) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [W13](https://open.spotify.com/album/2UQ8TnK4dXTwd66W9bQZz9) | 3:14 |
 | 19 | [Good Movie](https://open.spotify.com/track/4leKMM9HGvo32ZcIGRafGS) | [Pi’erre Bourne](https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M) | [Good Movie](https://open.spotify.com/album/3cNHTRSvsTSp0IjYQvygoB) | 3:05 |
 | 20 | [I Want You \(with Future\)](https://open.spotify.com/track/30pBgahZNXNLvtQVi5HUxQ) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Public Housing](https://open.spotify.com/album/3H7rkiYB6yjsuMZbxApOCn) | 3:23 |
-| 21 | [Real Bitch \(feat\. Gloss Up\)](https://open.spotify.com/track/4zH4kR30s4Cx6HMvodrf32) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Gloss Up](https://open.spotify.com/artist/0i5emUaPMWG7O3rAoXvvq8) | [Real Bitch \(feat\. Gloss Up\)](https://open.spotify.com/album/6MUUM532DEcR697rck5n90) | 2:04 |
+| 21 | [Real Bitch \(feat\. Gloss Up\)](https://open.spotify.com/track/4zH4kR30s4Cx6HMvodrf32) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Real Bitch \(feat\. Gloss Up\)](https://open.spotify.com/album/6MUUM532DEcR697rck5n90) | 2:04 |
 | 22 | [STONE COLD!](https://open.spotify.com/track/3h4EcZwKDcJl11xjI3gPMQ) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [STONE COLD!](https://open.spotify.com/album/4GTtDcfQD23xyt5otxlu7K) | 1:44 |
 | 23 | [Drop Down \(feat\. KenTheMan\)](https://open.spotify.com/track/2ZzhfMgeBjOkjFv5SXdFjz) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp), [Mike Free](https://open.spotify.com/artist/6iEOdI9RcimOiNzbfhhuTO), [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [Drop Down \(feat\. KenTheMan\)](https://open.spotify.com/album/4YuzBjUDKo4f1KGJuxnYCE) | 2:52 |
 | 24 | [RICH HUSTLE \(with Jim Jones\)](https://open.spotify.com/track/2hFiYxiRV9pxM4BVATrKeX) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [RICH HUSTLE](https://open.spotify.com/album/0PJY2gSMWWAzcOq672mUac) | 2:22 |

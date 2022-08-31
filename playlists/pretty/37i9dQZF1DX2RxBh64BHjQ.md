@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:1iwUuIOKYjV7SKIg27v4zi">Real Boston Richey</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,675,584 likes - 100 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,675,132 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 64 | [Like The Way You Move \(feat\. Blueface\)](https://open.spotify.com/track/4EdBC32i66Ctblo1tMQfbJ) | [ASM Bopster](https://open.spotify.com/artist/3bqMC7DfAQr0ZbC7R8htLz), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ) | [Like The Way You Move \(feat\. Blueface\)](https://open.spotify.com/album/4VNCOZl2fmc7xskD1CXHoE) | 3:45 |
 | 65 | [Pull Up](https://open.spotify.com/track/1gHamNXNt8OjoynRvGhg1a) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [222](https://open.spotify.com/album/3zSACdYWSh5TPr5fn0YO0T) | 2:54 |
 | 66 | [Right Back Out](https://open.spotify.com/track/3HEpCfvOH619LRMUTx2NxR) | [Yung Mal](https://open.spotify.com/artist/6m0MLa2Q5RwIF8R7nwQkQ2) | [Right Back Out](https://open.spotify.com/album/31xIfDFOWIDfO9pU9i1SuP) | 3:24 |
-| 67 | [Freak Block Tales](https://open.spotify.com/track/07Zt48FGHUkljvK0gdB4Gz) | [Dwalk](https://open.spotify.com/artist/6eTtN1ArNtkXCPZJ8riM0T) | [The Biggest 6](https://open.spotify.com/album/3IfzYLYuf4ilq1zeBy6z9O) | 2:35 |
+| 67 | [Freak Block Tales](https://open.spotify.com/track/3Oz4YqNsVLjiGaV37hrt7Y) | [Dwalk](https://open.spotify.com/artist/6eTtN1ArNtkXCPZJ8riM0T) | [The Biggest 6](https://open.spotify.com/album/1IyesdAqIGoe92UBLnFm0Z) | 2:35 |
 | 68 | [Back 2 Back \(feat\. CEO Trayle\)](https://open.spotify.com/track/3Lr9J0UuPrnTVlmA5wosqi) | [Sonny Digital](https://open.spotify.com/artist/655963AgkTZeYUvCyodCIL), [CEO Trayle](https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS) | [Back 2 Back \(feat\. CEO Trayle\)](https://open.spotify.com/album/77QuhYQbJy5g4OAZv7Ebsc) | 2:55 |
 | 69 | [PEP IN MY STEP](https://open.spotify.com/track/3nixei9buXWmxkA4BjX8k4) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [CATCH ME IF YOU CAN](https://open.spotify.com/album/2wCRNE4T5Neq52FhgGB2kl) | 2:32 |
 | 70 | [Certified Dripper](https://open.spotify.com/track/5jMnDNdpFkR1rrAo6ktupW) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Certified Dripper](https://open.spotify.com/album/3dWl00RjWmmfezNRastKYM) | 2:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [SCHEMES](https://open.spotify.com/track/0rFNu0G170Z6wgakWF9Sdv) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4) | [WTF is P¡NK](https://open.spotify.com/album/5WsHm6ThrGn78FvAg636ti) | 1:46 |
 | 100 | [Lights](https://open.spotify.com/track/1FXvRJJIgwFaxGBGmDpCVh) | [Seddy Hendrinx](https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4) | [Lights](https://open.spotify.com/album/1a8oQ1RHBGXlwepKtMjAfg) | 3:49 |
 
-Snapshot ID: `MTY2MTQ4NjQ2MCwwMDAwMDAwMDZiODJlYTMxNDFjOTBjMTZhMWMyMWQ5NzEzZGI0NGIw`
+Snapshot ID: `MTY2MTQ4NjQ2MCwwMDAwMDAwMDhhMWI3MjRlMjc5NWNjMTIwM2E4Y2RmNWY3YzUxYTlh`

@@ -1,12 +1,12 @@
 {
   "description": "Get into the spirit of New Orleans",
-  "num_followers": 138403,
+  "num_followers": 138409,
   "original_name": "New Orleans Brass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzM0NjEyMCwwMDAwMDAwMDk4MmIzZDE0NmM1N2FlN2M4MDE5NDIyMmM1ODZhNGNm",
+  "snapshot_id": "MTY0MzM0NjEyMCwwMDAwMDAwMDEyODllZjI2ZTEzZTM0N2ZhYzRhMzI3NGJkMjYzYWRm",
   "tracks": [
     {
       "added_at": "2021-04-26 16:53:52",
@@ -159,6 +159,26 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
+        "name": "Drop Me Off In Harlem",
+        "url": "https://open.spotify.com/album/63mon9nIn254wR2aATwbBg"
+      },
+      "artists": [
+        {
+          "name": "Charlie Barnet",
+          "url": "https://open.spotify.com/artist/4SPws2VXOmZIiRTp75mzsb"
+        },
+        {
+          "name": "Charlie Barnet & His Orchestra",
+          "url": "https://open.spotify.com/artist/4rBAk0XNC7XnH08pOWq7aU"
+        }
+      ],
+      "duration_ms": 163533,
+      "name": "West End Blues",
+      "url": "https://open.spotify.com/track/0CTsnaN5MpEEfFzAPDpxpS"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
         "name": "Night on Frenchmen Street",
         "url": "https://open.spotify.com/album/44p3ndcrFCwxM6la37rd1M"
       },
@@ -183,26 +203,6 @@
       "duration_ms": 271229,
       "name": "Once In A While",
       "url": "https://open.spotify.com/track/1LnuXqYUH6jIWSIVyTMF9c"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "Drop Me Off In Harlem",
-        "url": "https://open.spotify.com/album/63mon9nIn254wR2aATwbBg"
-      },
-      "artists": [
-        {
-          "name": "Charlie Barnet",
-          "url": "https://open.spotify.com/artist/4SPws2VXOmZIiRTp75mzsb"
-        },
-        {
-          "name": "Charlie Barnet & His Orchestra",
-          "url": "https://open.spotify.com/artist/4rBAk0XNC7XnH08pOWq7aU"
-        }
-      ],
-      "duration_ms": 163533,
-      "name": "West End Blues",
-      "url": "https://open.spotify.com/track/0CTsnaN5MpEEfFzAPDpxpS"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -603,18 +603,18 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Atlantic Jazz: New Orleans",
-        "url": "https://open.spotify.com/album/5QrnI1nmqZSTL4DhctZ6JV"
+        "name": "The Complete Hot Five And Hot Seven Recordings Volume 3",
+        "url": "https://open.spotify.com/album/1hGGe4oqC8g54OsmnCBwzn"
       },
       "artists": [
         {
-          "name": "Wilbur De Paris",
-          "url": "https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo"
+          "name": "Louis Armstrong & His Hot Five",
+          "url": "https://open.spotify.com/artist/0t4VVR2T9Sb0z3NdDdEU6S"
         }
       ],
-      "duration_ms": 180933,
-      "name": "Shreveport Stomp",
-      "url": "https://open.spotify.com/track/2EvWjX5KaIWBwRQvArOqBN"
+      "duration_ms": 182600,
+      "name": "Hotter Than That",
+      "url": "https://open.spotify.com/track/7ui11djxhp7WL4NCHlET8O"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -635,18 +635,18 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "The Complete Hot Five And Hot Seven Recordings Volume 3",
-        "url": "https://open.spotify.com/album/1hGGe4oqC8g54OsmnCBwzn"
+        "name": "Atlantic Jazz: New Orleans",
+        "url": "https://open.spotify.com/album/5QrnI1nmqZSTL4DhctZ6JV"
       },
       "artists": [
         {
-          "name": "Louis Armstrong & His Hot Five",
-          "url": "https://open.spotify.com/artist/0t4VVR2T9Sb0z3NdDdEU6S"
+          "name": "Wilbur De Paris",
+          "url": "https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo"
         }
       ],
-      "duration_ms": 182600,
-      "name": "Hotter Than That",
-      "url": "https://open.spotify.com/track/7ui11djxhp7WL4NCHlET8O"
+      "duration_ms": 180933,
+      "name": "Shreveport Stomp",
+      "url": "https://open.spotify.com/track/2EvWjX5KaIWBwRQvArOqBN"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -863,18 +863,18 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "The Great Olympia Band",
-        "url": "https://open.spotify.com/album/0Wnrzvyabjext6HSTvJ4IB"
+        "name": "The Best of Dixieland",
+        "url": "https://open.spotify.com/album/6cwK33nXxr4ijR6rsy7RZd"
       },
       "artists": [
         {
-          "name": "Olympia Brass Band",
-          "url": "https://open.spotify.com/artist/3X4cYFPu2LZ4NhAm16TsZt"
+          "name": "Original Dixieland Jazz Band",
+          "url": "https://open.spotify.com/artist/112yP6AwAT6QG34fiGGpmh"
         }
       ],
-      "duration_ms": 223373,
-      "name": "On the Square",
-      "url": "https://open.spotify.com/track/17TMEJXBTWKELB4PQ3vbh1"
+      "duration_ms": 156003,
+      "name": "Tiger Rag 3",
+      "url": "https://open.spotify.com/track/4GHM6gF3ajMxUyRKfYRApf"
     }
   ],
   "unique_name": "New Orleans Brass",

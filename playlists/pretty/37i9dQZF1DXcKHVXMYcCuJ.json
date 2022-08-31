@@ -1,12 +1,12 @@
 {
   "description": "Favorite rock and gems.",
-  "num_followers": 65636,
+  "num_followers": 65617,
   "original_name": "Alternative Rock's Most Precious Gems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTk5NjAyNCwwMDAwMDAwMDQyODcxNTNjNWRkMjVmZWI0NTMzMTQ4ZDQ3YjQ5MzE5",
+  "snapshot_id": "MTY1NTk5NjAyNCwwMDAwMDAwMDc5NWFlYjIyYmVlMGNlNWFkMzZmYjM2ZGVmNGZmZGYy",
   "tracks": [
     {
       "added_at": "2022-06-23 14:53:44",
@@ -107,22 +107,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Reckless Tongue",
-        "url": "https://open.spotify.com/album/1IA50NRu9M8eJFPOp0iyV8"
-      },
-      "artists": [
-        {
-          "name": "Airways",
-          "url": "https://open.spotify.com/artist/5fRpvt0RU5UL6YwQekpofE"
-        }
-      ],
-      "duration_ms": 178795,
-      "name": "Reckless Tongue",
-      "url": "https://open.spotify.com/track/2JG9Gdo54L72gepntVPZQ4"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "You'd Prefer An Astronaut",
         "url": "https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 309106,
       "name": "Stars",
       "url": "https://open.spotify.com/track/6lQE6LF3MU63Z6VyhPxaV3"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "Reckless Tongue",
+        "url": "https://open.spotify.com/album/1IA50NRu9M8eJFPOp0iyV8"
+      },
+      "artists": [
+        {
+          "name": "Airways",
+          "url": "https://open.spotify.com/artist/5fRpvt0RU5UL6YwQekpofE"
+        }
+      ],
+      "duration_ms": 178795,
+      "name": "Reckless Tongue",
+      "url": "https://open.spotify.com/track/2JG9Gdo54L72gepntVPZQ4"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -203,22 +203,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Home, Like Noplace Is There",
-        "url": "https://open.spotify.com/album/37ohOvaKOQIEkFjTWfg9Q4"
-      },
-      "artists": [
-        {
-          "name": "The Hotelier",
-          "url": "https://open.spotify.com/artist/3kzNckjE5FzHQhe4pJiLKa"
-        }
-      ],
-      "duration_ms": 227213,
-      "name": "Your Deep Rest",
-      "url": "https://open.spotify.com/track/5wwbe5wtc4pd9RDlFNXeFg"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "OK Computer OKNOTOK 1997 2017",
         "url": "https://open.spotify.com/album/0tzfI6NFJqcJkWb23R3lRZ"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 246840,
       "name": "Lift",
       "url": "https://open.spotify.com/track/7xztI3ccyUdEYqKYABkMQM"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "Home, Like Noplace Is There",
+        "url": "https://open.spotify.com/album/37ohOvaKOQIEkFjTWfg9Q4"
+      },
+      "artists": [
+        {
+          "name": "The Hotelier",
+          "url": "https://open.spotify.com/artist/3kzNckjE5FzHQhe4pJiLKa"
+        }
+      ],
+      "duration_ms": 227213,
+      "name": "Your Deep Rest",
+      "url": "https://open.spotify.com/track/5wwbe5wtc4pd9RDlFNXeFg"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Gb City",
-        "url": "https://open.spotify.com/album/4VFt6gflVhBmesukoQ3Lt5"
-      },
-      "artists": [
-        {
-          "name": "Bass Drum of Death",
-          "url": "https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY"
-        }
-      ],
-      "duration_ms": 181400,
-      "name": "Get Found",
-      "url": "https://open.spotify.com/track/57QZeBhHRLiWhIpjHvKtND"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "The New Vice EP",
         "url": "https://open.spotify.com/album/6zXwvojHgkZOyU2FeRgz8U"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 213492,
       "name": "Yeah, I Know",
       "url": "https://open.spotify.com/track/3b1neRAhz6hJ5cXfiBAKtB"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "Gb City",
+        "url": "https://open.spotify.com/album/4VFt6gflVhBmesukoQ3Lt5"
+      },
+      "artists": [
+        {
+          "name": "Bass Drum of Death",
+          "url": "https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY"
+        }
+      ],
+      "duration_ms": 181400,
+      "name": "Get Found",
+      "url": "https://open.spotify.com/track/57QZeBhHRLiWhIpjHvKtND"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Foolish",
-        "url": "https://open.spotify.com/album/0T2L6XRR1LrH1zLEzGaO0A"
-      },
-      "artists": [
-        {
-          "name": "Superchunk",
-          "url": "https://open.spotify.com/artist/7lmde7T1WJPFwv1eR6melP"
-        }
-      ],
-      "duration_ms": 281173,
-      "name": "Driveway to Driveway",
-      "url": "https://open.spotify.com/track/7Fcs7IELpYZi0zTQZdnTMS"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "Brave Faces Everyone",
         "url": "https://open.spotify.com/album/7GP702lI6EeRJnruJPoznv"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 242365,
       "name": "Kick",
       "url": "https://open.spotify.com/track/1p9oPZDiNymGw12BWv7WK3"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "Foolish",
+        "url": "https://open.spotify.com/album/0T2L6XRR1LrH1zLEzGaO0A"
+      },
+      "artists": [
+        {
+          "name": "Superchunk",
+          "url": "https://open.spotify.com/artist/7lmde7T1WJPFwv1eR6melP"
+        }
+      ],
+      "duration_ms": 281173,
+      "name": "Driveway to Driveway",
+      "url": "https://open.spotify.com/track/7Fcs7IELpYZi0zTQZdnTMS"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Interiors",
-        "url": "https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW"
-      },
-      "artists": [
-        {
-          "name": "Quicksand",
-          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
-        }
-      ],
-      "duration_ms": 248981,
-      "name": "Cosmonauts",
-      "url": "https://open.spotify.com/track/0IAF0KIM3Cnp7WhOVJfFuS"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "Chrome Neon Jesus",
         "url": "https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 230817,
       "name": "Swallow",
       "url": "https://open.spotify.com/track/5zodPVnHmq8hOERLIDBmpC"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "Interiors",
+        "url": "https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "duration_ms": 248981,
+      "name": "Cosmonauts",
+      "url": "https://open.spotify.com/track/0IAF0KIM3Cnp7WhOVJfFuS"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "You and Me",
-        "url": "https://open.spotify.com/album/6FJ9moP5iouB28Z2JKtmbI"
-      },
-      "artists": [
-        {
-          "name": "Open Hand",
-          "url": "https://open.spotify.com/artist/5WFtLbVyCyRkHkwxePRrF9"
-        }
-      ],
-      "duration_ms": 174346,
-      "name": "Tough Girl",
-      "url": "https://open.spotify.com/track/12JsAoOHdBqGZgVES0OOoL"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "Pull a Little Closer",
         "url": "https://open.spotify.com/album/4MNPxWdAlcLQWptuduqfDw"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 242480,
       "name": "Pull a Little Closer",
       "url": "https://open.spotify.com/track/0dP6zvd8GGgicv6bYnzBlR"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "You and Me",
+        "url": "https://open.spotify.com/album/6FJ9moP5iouB28Z2JKtmbI"
+      },
+      "artists": [
+        {
+          "name": "Open Hand",
+          "url": "https://open.spotify.com/artist/5WFtLbVyCyRkHkwxePRrF9"
+        }
+      ],
+      "duration_ms": 174346,
+      "name": "Tough Girl",
+      "url": "https://open.spotify.com/track/12JsAoOHdBqGZgVES0OOoL"
     },
     {
       "added_at": "2022-06-23 14:53:44",

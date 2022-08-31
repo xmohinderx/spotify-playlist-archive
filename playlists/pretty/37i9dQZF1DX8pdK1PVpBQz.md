@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Dead Witch Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,280 likes - 112 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,303 likes - 112 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

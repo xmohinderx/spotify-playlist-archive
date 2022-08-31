@@ -1,12 +1,12 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 296913,
+  "num_followers": 297071,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTg2MjE5NywwMDAwMDAwMDJkYjIwMWE3MmEzZjUxMWNiYzY5MmYzNWIzZjk4ZmVi",
+  "snapshot_id": "MTY0OTg2MjE5NywwMDAwMDAwMDRhNTRjZTYxZTUwZGZjMTRhYTE2N2YwODhhNGRmYWNm",
   "tracks": [
     {
       "added_at": "2022-04-13 15:03:17",
@@ -867,6 +867,22 @@
     {
       "added_at": "2022-04-13 15:03:17",
       "album": {
+        "name": "Trance Top 1000 - Ibiza Classics",
+        "url": "https://open.spotify.com/album/4JYyajxWZaOKHwNGDLRFvL"
+      },
+      "artists": [
+        {
+          "name": "Paul Oakenfold",
+          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
+        }
+      ],
+      "duration_ms": 171231,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/1tSaez12qgU8xkO478Tvgb"
+    },
+    {
+      "added_at": "2022-04-13 15:03:17",
+      "album": {
         "name": "Out Of The Blue (Ilan Bluestone Remix)",
         "url": "https://open.spotify.com/album/7wL2zH4KkHxWQe74ne1UnF"
       },
@@ -883,38 +899,18 @@
     {
       "added_at": "2022-04-13 15:03:17",
       "album": {
-        "name": "100% Clubland Trance",
-        "url": "https://open.spotify.com/album/2dnbvXUaQDczid713Ahagb"
+        "name": "Bits N Pianos",
+        "url": "https://open.spotify.com/album/5ThZFZtXcEDqXzsu970pdd"
       },
       "artists": [
         {
-          "name": "Lange",
-          "url": "https://open.spotify.com/artist/0zgmzl8NLEOsqYNOQcSmAA"
-        },
-        {
-          "name": "The Morrighan",
-          "url": "https://open.spotify.com/artist/1MebLqs1g2o2M8bpd55V5S"
+          "name": "SDC",
+          "url": "https://open.spotify.com/artist/6qSmkoM4CdhOuo08wFdwDx"
         }
       ],
-      "duration_ms": 223237,
-      "name": "Follow Me - Radio Edit",
-      "url": "https://open.spotify.com/track/2Q3GYtZYSMZF02UiCzDZ7U"
-    },
-    {
-      "added_at": "2022-04-13 15:03:17",
-      "album": {
-        "name": "Trance Top 1000 - Ibiza Classics",
-        "url": "https://open.spotify.com/album/4JYyajxWZaOKHwNGDLRFvL"
-      },
-      "artists": [
-        {
-          "name": "Paul Oakenfold",
-          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
-        }
-      ],
-      "duration_ms": 171231,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/1tSaez12qgU8xkO478Tvgb"
+      "duration_ms": 329337,
+      "name": "Bits N Pianos",
+      "url": "https://open.spotify.com/track/6F85zMy5Ucjr1H6dsdZYYx"
     }
   ],
   "unique_name": "Trance Classics",

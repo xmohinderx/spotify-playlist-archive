@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cVoXMHpaD1.md) - [plain]
 
 > It's been a great decade for K\-Pop\. Check it out! Cover: Super Junior
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,670 likes - 121 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,410 likes - 121 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cVoXMHpaD1.md) - [plain]
 | 97 | [Don't Know You](https://open.spotify.com/track/1Zv6zo71iDXH07Lin7hxMg) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [/// \(You, Clouds, Rain\)](https://open.spotify.com/album/7ANb4BnhkVoBO4RDSJ6uSs) | 3:09 |
 | 98 | [Shampoo](https://open.spotify.com/track/50JMmvCIMZCniuFeCOsRc4) | [After School](https://open.spotify.com/artist/1loWI8jVk9btgJXHgqHXPD) | [VIRGIN](https://open.spotify.com/album/1fgyOFuEGFnWRTT1SwWH0V) | 4:34 |
 | 99 | [왜 \(Keep Your Head Down\) \- Rearranged Version\. Live](https://open.spotify.com/track/0UHf1fqpTRMo40zuXxOa5K) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [THE 4th WORLD TOUR 'Catch Me' LIVE ALBUM](https://open.spotify.com/album/0EsY5ILLEfwUaQjON4RNMq) | 5:50 |
-| 100 | [The Ghost of Wind](https://open.spotify.com/track/2xNxuMhDDuZEBAB4Oy6Ovd) | [ZE:A](https://open.spotify.com/artist/6lGfLCig2b5mvDTtsPSrb0) | [CONTINUE](https://open.spotify.com/album/4yEKFbp7OPPYnKR9ILoG2Z) | 3:31 |
+| 100 | [The Ghost of Wind](https://open.spotify.com/track/46BXtEtAA4ScdKxy026cIY) | [ZE:A](https://open.spotify.com/artist/6lGfLCig2b5mvDTtsPSrb0) | [CONTINUE](https://open.spotify.com/album/7xtsbErVzHdz8iZFCmtow8) | 3:31 |
 | 101 | [Hands Up](https://open.spotify.com/track/01TE1eGP7ewSGHbL3IJ1CS) | [2PM](https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS) | [Hands Up](https://open.spotify.com/album/31ts1gO00pptOFCiXxVbBM) | 3:18 |
 | 102 | [You’re the Best](https://open.spotify.com/track/3BUZUCu1uHaTvroizwqLHt) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Melting](https://open.spotify.com/album/11hjJntrvmauDoga4Krr0U) | 3:50 |
 | 103 | [Bad Boy](https://open.spotify.com/track/5GKwq4sO5ZHKuWaDmdwMQc) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Perfect Red Velvet \- The 2nd Album Repackage](https://open.spotify.com/album/0OkJThJls8FO1lutMzMDJ0) | 3:30 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cVoXMHpaD1.md) - [plain]
 | 120 | [Second confession](https://open.spotify.com/track/3gJp5iMDX2yM0PN9CXrHBF) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Second confession](https://open.spotify.com/album/37qwQFW0AB3WMmFwEhC8xN) | 3:54 |
 | 121 | [MIROH](https://open.spotify.com/track/2sFWzfV3kqAwXEWM9BjzwH) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Clé 1 : MIROH](https://open.spotify.com/album/3s6RbqkTprnGwKpoUSYL00) | 3:27 |
 
-Snapshot ID: `MTU3NTQ0MDU2NiwwMDAwMDAwMGZhZGE1MTI5NTUxYjExNGM5MzM2NjliM2IzNjI5NmMx`
+Snapshot ID: `MTU3NTQ0MDU2NiwwMDAwMDAwMGI3MDc2ZDJkMTdjMWNhMGY5YzU1NGViZWQ1OGYyOGY5`

@@ -176,6 +176,24 @@
     },
     {
       "album": {
+        "name": "Abeyance",
+        "url": "https://open.spotify.com/album/0B2KIoa9OpRydCNaOP5p50"
+      },
+      "artists": [
+        {
+          "name": "Caris Hermes",
+          "url": "https://open.spotify.com/artist/23PTKxQtsIL4Z9AZsNabz0"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414108,
+      "name": "Abeyance",
+      "url": "https://open.spotify.com/track/6RR3VWktMxEjW95tE4B9H8"
+    },
+    {
+      "album": {
         "name": "My History of Jazz",
         "url": "https://open.spotify.com/album/7ahVUrtlbmVq29CPbt1J85"
       },
@@ -239,7 +257,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 258893,
       "name": "At A Glance",
       "url": "https://open.spotify.com/track/6ZVjpala82zQqrzorpZcP4"
@@ -791,7 +809,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 227720,
       "name": "Denmark",
       "url": "https://open.spotify.com/track/4An9UP6jPeBqQQVxSQqU0z"
@@ -809,7 +827,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-26",
+      "date_removed": null,
       "duration_ms": 213736,
       "name": "Det Lilla",
       "url": "https://open.spotify.com/track/5PXrMlPFARqpwCGtuhywSs"
@@ -863,7 +881,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": null,
       "duration_ms": 231466,
       "name": "Draw Near",
       "url": "https://open.spotify.com/track/1ufvEL42UBnAYbi3gjSuZK"
@@ -899,7 +917,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 284400,
       "name": "Elegant Flower",
       "url": "https://open.spotify.com/track/1SY8ygEeUjQd0A3Tupx4EI"
@@ -1023,7 +1041,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 413374,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/7Lz3Iy3sUv0fNq0crfhDGA"
@@ -1093,7 +1111,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 358986,
       "name": "Find The Way",
       "url": "https://open.spotify.com/track/2sKg6jqljgKwOetEUJPaJX"
@@ -1351,7 +1369,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 241133,
       "name": "I Remember Clifford - Live At Philharmonie, Munich / 1986",
       "url": "https://open.spotify.com/track/1Q69Gb6Atyr6gLHj5Rkd3B"
@@ -1413,7 +1431,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 533800,
       "name": "I Wish I Knew",
       "url": "https://open.spotify.com/track/2W6JLNB4tOiP6dZBQE1ANE"
@@ -1629,7 +1647,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 283800,
       "name": "In the Middle of a Kiss",
       "url": "https://open.spotify.com/track/507DfGB7ecKtGSi3IQArgx"
@@ -2273,7 +2291,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": null,
       "duration_ms": 333233,
       "name": "Mia's Lullaby",
       "url": "https://open.spotify.com/track/3ETpB2M7yhqSwmuAMeQTF2"
@@ -2426,6 +2444,32 @@
     },
     {
       "album": {
+        "name": "My Foolish Heart",
+        "url": "https://open.spotify.com/album/3VqTU5Jo7zVDTv6yOBa9v4"
+      },
+      "artists": [
+        {
+          "name": "Dado Moroni",
+          "url": "https://open.spotify.com/artist/5ZWvQaDozNtEy2WY5ZhSzz"
+        },
+        {
+          "name": "Jesper Lundgaard",
+          "url": "https://open.spotify.com/artist/162KggIDGRImG9BUPWKsxf"
+        },
+        {
+          "name": "Lee Pearson",
+          "url": "https://open.spotify.com/artist/6zTSAPQ1M1W1pdZK9I4G1K"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 531323,
+      "name": "My Foolish Heart",
+      "url": "https://open.spotify.com/track/6eB1aRfbz36gO0YCoKj2R4"
+    },
+    {
+      "album": {
         "name": "Eldar",
         "url": "https://open.spotify.com/album/5Q38zgDyz54fOEe6EmBRp6"
       },
@@ -2535,7 +2579,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-24",
+      "date_removed": null,
       "duration_ms": 563320,
       "name": "Old Folks - Live",
       "url": "https://open.spotify.com/track/0w6BWAytSQFGUW5paTcKzd"
@@ -2553,7 +2597,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 344206,
       "name": "On a Misty Night",
       "url": "https://open.spotify.com/track/5ehmctMo8g8GbqQXlxP43W"
@@ -2685,7 +2729,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": null,
       "duration_ms": 368777,
       "name": "Polaris",
       "url": "https://open.spotify.com/track/6jcwViyJ0VxiyUe95nv4Dj"
@@ -3143,7 +3187,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 608533,
       "name": "Secret Love - Live",
       "url": "https://open.spotify.com/track/7MyLgFPfvcjpUXq4YDAjPI"
@@ -3205,7 +3249,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 248745,
       "name": "Slow Boat to China",
       "url": "https://open.spotify.com/track/49ZabI6v41balII6X6u3BM"
@@ -3576,6 +3620,24 @@
     },
     {
       "album": {
+        "name": "A Brand New Silver Dollar",
+        "url": "https://open.spotify.com/album/5PenfsMGMK0o9L7kNHqW8G"
+      },
+      "artists": [
+        {
+          "name": "Peter Nordahl Trio",
+          "url": "https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323036,
+      "name": "The Art of Flying",
+      "url": "https://open.spotify.com/track/0g0f3eeqmzgd0yO24yYdng"
+    },
+    {
+      "album": {
         "name": "The Art of Flying (Edit)",
         "url": "https://open.spotify.com/album/63PWCBZVpIcVFJkH3godc5"
       },
@@ -3605,7 +3667,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 236520,
       "name": "The Circle",
       "url": "https://open.spotify.com/track/2NRezjzOzV4gjiEL2pt6eW"
@@ -3689,7 +3751,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 300306,
       "name": "The Great Belonging",
       "url": "https://open.spotify.com/track/1s14p2tsaJ0Il91PIhBKd4"
@@ -3715,7 +3777,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 298745,
       "name": "The Heart of a Child",
       "url": "https://open.spotify.com/track/1W0ufcpAPWVBW5wdX41UjM"
@@ -3937,7 +3999,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 439133,
       "name": "Transparence",
       "url": "https://open.spotify.com/track/6pi4yaW1e7Mw2eT7pVx70C"
@@ -3991,10 +4053,36 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 295866,
       "name": "Twins",
       "url": "https://open.spotify.com/track/041E7613Qaw4buZMVpaLcd"
+    },
+    {
+      "album": {
+        "name": "Veco",
+        "url": "https://open.spotify.com/album/2hvRh5qdn4bvkT7LHY9UNh"
+      },
+      "artists": [
+        {
+          "name": "Shayke",
+          "url": "https://open.spotify.com/artist/2V42WfGGdVvOuru7D0QXWF"
+        },
+        {
+          "name": "correa",
+          "url": "https://open.spotify.com/artist/7weBOfhbUlxj3I3iU09z8w"
+        },
+        {
+          "name": "francelet",
+          "url": "https://open.spotify.com/artist/3A9bGZrbpAZAnEwKY6LKMg"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385291,
+      "name": "Veco",
+      "url": "https://open.spotify.com/track/6KgwMaRTlYyYmb2tJ8LKkr"
     },
     {
       "album": {
@@ -4267,7 +4355,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 494040,
       "name": "You Must Believe In Spring/ Spring Is Here - Michel Legrand/Rogers and Hart",
       "url": "https://open.spotify.com/track/4Dx0AKBoRszLOK33LlTAXu"

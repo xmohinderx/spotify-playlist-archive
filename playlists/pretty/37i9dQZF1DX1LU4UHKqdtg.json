@@ -1,15 +1,31 @@
 {
-  "description": "\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01// The freshest K-Pop of today! cover: BLACKPINK",
-  "num_followers": 231461,
+  "description": "\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01// The freshest K-Pop of today! cover: TOMORROW X TOGETHER",
+  "num_followers": 231723,
   "original_name": "K-Pop Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTc2MzYwMCwwMDAwMDAwMDQ2YmVlYTUxZGU5OTViNmM5ODY4MWU4YmNiNzA4MmFh",
+  "snapshot_id": "MTY2MTg3MTYwMCwwMDAwMDAwMDkyZmVlMDFiYTUwYjI0OWE5ZmFjMjMyNjE0MDdiOGIx",
   "tracks": [
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
+      "album": {
+        "name": "GOOD BOY GONE BAD",
+        "url": "https://open.spotify.com/album/0nTPrUjlLwEJD6Fdw2GGoU"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 192933,
+      "name": "Good Boy Gone Bad - Japanese Ver.",
+      "url": "https://open.spotify.com/track/1n52exGqPZkKBItLYxMksJ"
+    },
+    {
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "Pink Venom",
         "url": "https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "BETWEEN 1&2",
         "url": "https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "After LIKE",
         "url": "https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da"
@@ -57,7 +73,7 @@
       "url": "https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "Wing Wing",
         "url": "https://open.spotify.com/album/4SJ6tb6ajzNrmLY5w92XyD"
@@ -73,7 +89,7 @@
       "url": "https://open.spotify.com/track/1uKI4JKUIUJC0aXJqKCl6y"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "NewJeans 1st EP 'New Jeans'",
         "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
@@ -89,7 +105,7 @@
       "url": "https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "_WORLD",
         "url": "https://open.spotify.com/album/63oE2Ew3Mud2Md9TXBjeKw"
@@ -109,7 +125,7 @@
       "url": "https://open.spotify.com/track/2kDrUAONMhG6CbDGBkhdrY"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "Celebrate",
         "url": "https://open.spotify.com/album/1nqz3cEjuvCMo8RHLBI9kM"
@@ -125,7 +141,7 @@
       "url": "https://open.spotify.com/track/2fziAh8GECzOzuWl3TtuHV"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "MASCARA",
         "url": "https://open.spotify.com/album/6kg4TcS486fnIuS4Dml8uG"
@@ -141,7 +157,7 @@
       "url": "https://open.spotify.com/track/4OelNEcxPGoCOU29fchcsv"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "THE BOYZ 7TH MINI ALBUM [BE AWARE]",
         "url": "https://open.spotify.com/album/6D8I9oW0ALsppfPzY9ysXR"
@@ -157,39 +173,23 @@
       "url": "https://open.spotify.com/track/52uklJhyhJbLvHrgkiqCaW"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
-        "name": "FLASH",
-        "url": "https://open.spotify.com/album/3oEJDNtdlHeHJL2l0hAaTA"
+        "name": "Gasoline - The 2nd Album",
+        "url": "https://open.spotify.com/album/1STTad4531T7StJ4EiVwAG"
       },
       "artists": [
         {
-          "name": "Rocket Punch",
-          "url": "https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO"
+          "name": "KEY",
+          "url": "https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v"
         }
       ],
-      "duration_ms": 200666,
-      "name": "FLASH",
-      "url": "https://open.spotify.com/track/2Purw8ZAANLan4cMqsKVp7"
+      "duration_ms": 191906,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/59WDxA3UxKvJDIJcK6dVZv"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
-      "album": {
-        "name": "SHINING UP",
-        "url": "https://open.spotify.com/album/1NqjkIZ66H34YgWgtU7gaE"
-      },
-      "artists": [
-        {
-          "name": "TEMPEST",
-          "url": "https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP"
-        }
-      ],
-      "duration_ms": 171106,
-      "name": "Can\u2019t Stop Shining",
-      "url": "https://open.spotify.com/track/0oJZzuHUjpKAFrSHqjJKZM"
-    },
-    {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "Rocking Chair",
         "url": "https://open.spotify.com/album/22LDFeOvXM6mtimOODDgyU"
@@ -205,7 +205,7 @@
       "url": "https://open.spotify.com/track/0qnW3Fl1IADc9UKr2FYLK2"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "Break My Heart Myself (feat. YEJI & RYUJIN of ITZY)",
         "url": "https://open.spotify.com/album/6nHECY2OnWXVmd4QjGhJEm"
@@ -229,7 +229,7 @@
       "url": "https://open.spotify.com/track/5Av4jZOAbtY8STz7KPsNDB"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "FOREVER 1 - The 7th Album",
         "url": "https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP"
@@ -245,7 +245,7 @@
       "url": "https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "CHECKMATE",
         "url": "https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK"
@@ -261,7 +261,7 @@
       "url": "https://open.spotify.com/track/2WoluqyWzsgRmFCeHeGlnm"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "SMARTPHONE",
         "url": "https://open.spotify.com/album/0lbUf1aVf8xmveSuspuNW0"
@@ -277,7 +277,7 @@
       "url": "https://open.spotify.com/track/3660VWl7PCUsXhZlakn0KY"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "\u541b\u3058\u3083\u306a\u3044\u8ab0\u304b\u306e\u611b\u3057\u65b9 (Ring)",
         "url": "https://open.spotify.com/album/4i69b6pT4wIAIkoYGA71Um"
@@ -293,7 +293,7 @@
       "url": "https://open.spotify.com/track/5yR9bGLr8Zz2EndMrthui1"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "Bad Decisions (with BTS & Snoop Dogg)",
         "url": "https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN"
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "I\u2019m not myself when I\u2019m around you",
         "url": "https://open.spotify.com/album/3lb7CQlyZU5YN9Ni9jbdx3"
@@ -337,7 +337,55 @@
       "url": "https://open.spotify.com/track/56kfw7CKOCgcYqaoDU5o0B"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
+      "album": {
+        "name": "Beautiful",
+        "url": "https://open.spotify.com/album/2UrvUzq4A6MFnvVp8Na0eW"
+      },
+      "artists": [
+        {
+          "name": "Jang Keun-suk",
+          "url": "https://open.spotify.com/artist/3OOtuve788y64B4qKtZoci"
+        }
+      ],
+      "duration_ms": 269000,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/482cI88g68VDxoSnnvetMA"
+    },
+    {
+      "added_at": "2022-08-30 15:00:00",
+      "album": {
+        "name": "FLASH",
+        "url": "https://open.spotify.com/album/3oEJDNtdlHeHJL2l0hAaTA"
+      },
+      "artists": [
+        {
+          "name": "Rocket Punch",
+          "url": "https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO"
+        }
+      ],
+      "duration_ms": 200666,
+      "name": "FLASH",
+      "url": "https://open.spotify.com/track/2Purw8ZAANLan4cMqsKVp7"
+    },
+    {
+      "added_at": "2022-08-30 15:00:00",
+      "album": {
+        "name": "SHINING UP",
+        "url": "https://open.spotify.com/album/1NqjkIZ66H34YgWgtU7gaE"
+      },
+      "artists": [
+        {
+          "name": "TEMPEST",
+          "url": "https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP"
+        }
+      ],
+      "duration_ms": 171106,
+      "name": "Can\u2019t Stop Shining",
+      "url": "https://open.spotify.com/track/0oJZzuHUjpKAFrSHqjJKZM"
+    },
+    {
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "Feelin' Like (Japanese Version)",
         "url": "https://open.spotify.com/album/0JDdWjlJ1wgJPHsRfNw1e9"
@@ -353,7 +401,7 @@
       "url": "https://open.spotify.com/track/5a4AFIpyhzLCom8IgDH6mU"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "AURA",
         "url": "https://open.spotify.com/album/3lWLkdPRedaFQGuC4qQpKm"
@@ -369,7 +417,7 @@
       "url": "https://open.spotify.com/track/4b33wUnbWt4YSZLWkwtlds"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "Memu Aagamu",
         "url": "https://open.spotify.com/album/3c7ooAYb67kWlfNC3DpMjh"
@@ -393,7 +441,7 @@
       "url": "https://open.spotify.com/track/4C81bkQ2tkMmYk4bGFCrv5"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "Mixtape : Time Out",
         "url": "https://open.spotify.com/album/6Sr3My17NKn1g1zIFclPoS"
@@ -409,7 +457,7 @@
       "url": "https://open.spotify.com/track/0OCDOcvQvozjsivREMojzx"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "THE WORLD EP.1 : MOVEMENT",
         "url": "https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6"
@@ -425,7 +473,7 @@
       "url": "https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "West Swing (feat. E-40)",
         "url": "https://open.spotify.com/album/3q7iMJOXp2eFIUAHfyOffC"
@@ -445,7 +493,7 @@
       "url": "https://open.spotify.com/track/1sm9EPvFtjD0nmSotn4lmF"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "SAVIOR -Japanese ver.-",
         "url": "https://open.spotify.com/album/3rytWLCteW328NgdL5E6PA"
@@ -461,7 +509,7 @@
       "url": "https://open.spotify.com/track/6Q6xoyS5cJ8jQbsJhcahEt"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "Romeo and Juliet",
         "url": "https://open.spotify.com/album/1YA2MGjNMvXk3wkY8z49Eh"
@@ -477,7 +525,7 @@
       "url": "https://open.spotify.com/track/7zHLLOTZTAexqKsyi3etd5"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "Stand up!",
         "url": "https://open.spotify.com/album/5NvK8EDgRXrTNhYbSDKQ5j"
@@ -493,7 +541,7 @@
       "url": "https://open.spotify.com/track/0TNYF3NLy6FgYs8jM10mwi"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "Don't hesitate",
         "url": "https://open.spotify.com/album/05g8jnH2x9k8Lj25jFznyC"
@@ -509,7 +557,7 @@
       "url": "https://open.spotify.com/track/0bh2STGfDf1LuZBHL2eRGU"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "TPIR (feat. MIYAVI)",
         "url": "https://open.spotify.com/album/4dnuuFbQXWiBa6EWKyB8IN"
@@ -529,7 +577,7 @@
       "url": "https://open.spotify.com/track/5j1RXSJl3JiLJSfdywh5Q4"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "WE NEED LOVE",
         "url": "https://open.spotify.com/album/04EniWu488MF6louRYafKJ"
@@ -545,7 +593,7 @@
       "url": "https://open.spotify.com/track/56s2s5e8WuBsWVKnmz6J9L"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "SEVENTEEN 4th Album Repackage 'SECTOR 17'",
         "url": "https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750"
@@ -561,7 +609,7 @@
       "url": "https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "Grown Ass Kid",
         "url": "https://open.spotify.com/album/5gHJyHBTHBZlgFsODXj7HZ"
@@ -577,7 +625,7 @@
       "url": "https://open.spotify.com/track/53NYRM8s4mm4yeCsmsvTik"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "Geekyland",
         "url": "https://open.spotify.com/album/7EDCoH5wfSGYdZ7wXCmTF4"
@@ -593,7 +641,7 @@
       "url": "https://open.spotify.com/track/6KExHY2Eo0DphK63s2dfYi"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "UTSUROI",
         "url": "https://open.spotify.com/album/2Fu6s7oGgT1Ap3I2xZqvGv"
@@ -609,7 +657,7 @@
       "url": "https://open.spotify.com/track/3ZpE5mKaWZqeZAdlARpNZq"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "La Vida Loca",
         "url": "https://open.spotify.com/album/7v5WJg3N0QQYC9BIlDnB0Z"
@@ -625,7 +673,7 @@
       "url": "https://open.spotify.com/track/5YazeJ15q1Mypr9ZYLJaT9"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "Youth",
         "url": "https://open.spotify.com/album/1RWcdlraOKvgePjvm42ri4"
@@ -641,7 +689,7 @@
       "url": "https://open.spotify.com/track/4bW8isfLZkQaHBSJxdMOEq"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "Boogie Woogie",
         "url": "https://open.spotify.com/album/0uK36l0cCAoyopQr6vVJEs"
@@ -657,7 +705,7 @@
       "url": "https://open.spotify.com/track/354txxGRPRqIHqPcSvibQP"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "Goes on",
         "url": "https://open.spotify.com/album/5AhqIXtThzlDFpdLlBZhgw"
@@ -673,7 +721,7 @@
       "url": "https://open.spotify.com/track/2Y9KdZldoTAXBfy5P9IcdU"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "BYE (feat. Whee In)",
         "url": "https://open.spotify.com/album/2iPk0O4IWcWVVHxnpCzHbx"
@@ -693,7 +741,7 @@
       "url": "https://open.spotify.com/track/55oxwFzHYVKmtSawW9MlTu"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "LEVIOSA",
         "url": "https://open.spotify.com/album/6ORQnWLnQLERhWhA3ON2Z5"
@@ -709,7 +757,7 @@
       "url": "https://open.spotify.com/track/7MONmJafc7senaIZE3ulWv"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "Rain Day - SM STATION : NCT LAB",
         "url": "https://open.spotify.com/album/58uFef7QCVv7hVQZDur3n0"
@@ -725,7 +773,7 @@
       "url": "https://open.spotify.com/track/07lK6LoH13tGwxziXWIp16"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "Valley of Lies",
         "url": "https://open.spotify.com/album/6HxwkL6Z3D14XOXY5SUPJp"
@@ -745,7 +793,7 @@
       "url": "https://open.spotify.com/track/3Bgl1xMI00capuTqUHBNUW"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "Late Night Feels",
         "url": "https://open.spotify.com/album/0rdC8yB4neHiouKSAlkA06"
@@ -765,7 +813,7 @@
       "url": "https://open.spotify.com/track/3QvCW0O7zuvG3oPtzxmHOm"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "Umbrella",
         "url": "https://open.spotify.com/album/6m3fEmldriKRNaxcCooP7T"
@@ -781,7 +829,7 @@
       "url": "https://open.spotify.com/track/4p25h8uVkSoSsq5Vl5NeJ3"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "Minamdang (Original Television Soundtrack, Pt. 6)",
         "url": "https://open.spotify.com/album/2zIS0T0Kegw9sOh0YQXxqF"
@@ -797,7 +845,7 @@
       "url": "https://open.spotify.com/track/0X5xuP3hkIMo86LpTCFGdb"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "Kakao Webtoon \u3008Since I Met You\u3009 OST Part.1",
         "url": "https://open.spotify.com/album/5vv6Uiok957CzhUKPjMWj7"
@@ -813,7 +861,7 @@
       "url": "https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "Celebrate",
         "url": "https://open.spotify.com/album/3JWwlQso9kjpJ7q7aw8C2F"
@@ -829,7 +877,7 @@
       "url": "https://open.spotify.com/track/5ZwlnR8yGofZ0669mEh8Xm"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "Cruel",
         "url": "https://open.spotify.com/album/2XVAjpwJNlbMQF5N7cGfIf"
@@ -845,7 +893,7 @@
       "url": "https://open.spotify.com/track/0SxQz5uPZ5cAGWzj6MvzrX"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "Sea of Moonlight",
         "url": "https://open.spotify.com/album/6YoagDSCACpp8wElCNBCXC"
@@ -861,7 +909,7 @@
       "url": "https://open.spotify.com/track/58UmvrTOMdJpqJlD0U4MuE"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "WHY NOT??",
         "url": "https://open.spotify.com/album/7AjJ4yD5ljG68XPQvEpN4G"
@@ -877,7 +925,7 @@
       "url": "https://open.spotify.com/track/078ikJBghCOeTJnz8vmr19"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/5HvtKqkHmrQITKvap0leZ4"
@@ -897,7 +945,7 @@
       "url": "https://open.spotify.com/track/1osAGR6bvsjgHjRp3XacCW"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "Jack In The Box",
         "url": "https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl"
@@ -913,7 +961,7 @@
       "url": "https://open.spotify.com/track/2QWEMqQMJR1KDf6hDjJOs6"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "Girls - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY"
@@ -929,7 +977,7 @@
       "url": "https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "IM NAYEON",
         "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
@@ -945,7 +993,7 @@
       "url": "https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "U&Iverse",
         "url": "https://open.spotify.com/album/13QtsOvK9KOmQBQglnbsQo"
@@ -961,7 +1009,7 @@
       "url": "https://open.spotify.com/track/67VGnMGkTYQu0eGhvcEXuS"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "HARMONY : ZERO IN",
         "url": "https://open.spotify.com/album/73CTPjApMDvFsycjbbROji"
@@ -977,7 +1025,7 @@
       "url": "https://open.spotify.com/track/41tvdK0UNp3oNKWDPkg7FO"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "Hello, world!",
         "url": "https://open.spotify.com/album/0Z5qdttvpyXKKNLdqeEs27"
@@ -993,7 +1041,7 @@
       "url": "https://open.spotify.com/track/3MU7mQWCeNx7m75r1107Ds"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "iCE",
         "url": "https://open.spotify.com/album/6Bmm0yb59VBvI7ozMOQZoB"
@@ -1009,7 +1057,7 @@
       "url": "https://open.spotify.com/track/5XA1Budg4PZMx2P3kyDfM1"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "DOUBLAST",
         "url": "https://open.spotify.com/album/0yMosWzriw3613d26x7MQK"
@@ -1025,23 +1073,7 @@
       "url": "https://open.spotify.com/track/3XZAvh2NCDQYHgJei35VQ1"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
-      "album": {
-        "name": "The Road : Keep on Going - The 11th Album Vol.1",
-        "url": "https://open.spotify.com/album/31WEkr0PFjRjRWszhYchtp"
-      },
-      "artists": [
-        {
-          "name": "SUPER JUNIOR",
-          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
-        }
-      ],
-      "duration_ms": 199213,
-      "name": "Mango",
-      "url": "https://open.spotify.com/track/1VJdjvyLMRUQ0HH8byGDZt"
-    },
-    {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "Need To Know",
         "url": "https://open.spotify.com/album/4IGSbTfm3Xwmp8up7pOR3t"
@@ -1057,7 +1089,7 @@
       "url": "https://open.spotify.com/track/0CqZryIJnJhwCCnECIC7Lr"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "MANIFESTO : DAY 1",
         "url": "https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8"
@@ -1073,7 +1105,7 @@
       "url": "https://open.spotify.com/track/6PRy17C5LiiN7VCLS6IA98"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "Bare&Rare, Pt. 1",
         "url": "https://open.spotify.com/album/5KLYmSbrtpo5pqjOMzDDLi"
@@ -1089,7 +1121,7 @@
       "url": "https://open.spotify.com/track/34lKiKHCKhMe9PAfGcdFNE"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "If with U",
         "url": "https://open.spotify.com/album/7pxzFpELZglI6l6Ssw5lcw"
@@ -1105,23 +1137,7 @@
       "url": "https://open.spotify.com/track/0Qqo0BxJWQGdvYWLoIOWq2"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
-      "album": {
-        "name": "HOLIDAY",
-        "url": "https://open.spotify.com/album/6DuGgrykXd5DVx3aznyYqH"
-      },
-      "artists": [
-        {
-          "name": "WINNER",
-          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "I LOVE U",
-      "url": "https://open.spotify.com/track/02Vb9vfZUmqAKNhQwFjPSZ"
-    },
-    {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "Proof",
         "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
@@ -1137,7 +1153,7 @@
       "url": "https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "Girls - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY"
@@ -1153,7 +1169,7 @@
       "url": "https://open.spotify.com/track/2ouguQxJZn4jXisuNREqe5"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "Left and Right (Feat. Jung Kook of BTS)",
         "url": "https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF"
@@ -1177,7 +1193,7 @@
       "url": "https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "THE WAVE OF9",
         "url": "https://open.spotify.com/album/4bE85rfnrEXYRvqrEhEJAn"
@@ -1193,7 +1209,7 @@
       "url": "https://open.spotify.com/track/0FaeA2jhqji5fwSdIavSyU"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "Heart Burn",
         "url": "https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu"
@@ -1209,7 +1225,7 @@
       "url": "https://open.spotify.com/track/4JmbtS0Muijl37KP9lDscy"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "CIRCUS",
         "url": "https://open.spotify.com/album/5lBLKPJtpcRwd0tJFIMw8A"
@@ -1225,7 +1241,7 @@
       "url": "https://open.spotify.com/track/0XZL9R2exRu1Rpw6KSAeS4"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "from our Memento Box",
         "url": "https://open.spotify.com/album/5HpgQwHm9jI5JcnmJqcCYo"
@@ -1241,7 +1257,7 @@
       "url": "https://open.spotify.com/track/3pqgVtpnQbBAZoWT4AEm1B"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "Tippy Toes",
         "url": "https://open.spotify.com/album/6P9erpHs7hgJlca7Tj3F0w"
@@ -1257,7 +1273,7 @@
       "url": "https://open.spotify.com/track/1MKmSbQfJpEVnC3XfGywyF"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "Illusion",
         "url": "https://open.spotify.com/album/4r815m6eq8OXYzfqtk3FST"
@@ -1273,7 +1289,7 @@
       "url": "https://open.spotify.com/track/5uFqjHOo3Sh0bVPCKf3DdH"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "HIT YA!",
         "url": "https://open.spotify.com/album/5TIglX0Yp81a4cAvtdodI9"
@@ -1289,7 +1305,7 @@
       "url": "https://open.spotify.com/track/5m7UOBjNO6Zp9gWdyscqDx"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "SEVENTEEN 4th Album 'Face the Sun'",
         "url": "https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht"
@@ -1305,7 +1321,7 @@
       "url": "https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "minisode 2: Thursday's Child",
         "url": "https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8"
@@ -1321,23 +1337,7 @@
       "url": "https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3"
     },
     {
-      "added_at": "2022-08-29 09:00:00",
-      "album": {
-        "name": "FEARLESS",
-        "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 168437,
-      "name": "FEARLESS",
-      "url": "https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj"
-    },
-    {
-      "added_at": "2022-08-29 09:00:00",
+      "added_at": "2022-08-30 15:00:00",
       "album": {
         "name": "PSY 9th",
         "url": "https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB"

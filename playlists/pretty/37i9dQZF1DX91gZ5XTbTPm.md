@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: Trippie Redd
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,936 likes - 66 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,981 likes - 66 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 9 | [Sleazy Flow \(with Lil Baby\) \- Remix](https://open.spotify.com/track/5cx7vkF8BQ0iOsVpfvZbnz) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Sleazy Flow \(Remix\)](https://open.spotify.com/album/4N1yQmAeHbswH8jbcRnsEG) | 2:41 |
 | 10 | [SET IT OFF \(feat\. G Herbo\)](https://open.spotify.com/track/7bS2y45GZ47gyQL1bbZkPW) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [CATCH ME IF YOU CAN](https://open.spotify.com/album/2wCRNE4T5Neq52FhgGB2kl) | 2:37 |
 | 11 | [India Me](https://open.spotify.com/track/3WWky2z2RbCuWmMJHJL5Rc) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [India Me](https://open.spotify.com/album/1vPxv5pAUpEJORNnjwogar) | 3:03 |
-| 12 | [Real Bitch \(feat\. Gloss Up\)](https://open.spotify.com/track/4zH4kR30s4Cx6HMvodrf32) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Gloss Up](https://open.spotify.com/artist/0i5emUaPMWG7O3rAoXvvq8) | [Real Bitch \(feat\. Gloss Up\)](https://open.spotify.com/album/6MUUM532DEcR697rck5n90) | 2:04 |
+| 12 | [Real Bitch \(feat\. Gloss Up\)](https://open.spotify.com/track/4zH4kR30s4Cx6HMvodrf32) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Real Bitch \(feat\. Gloss Up\)](https://open.spotify.com/album/6MUUM532DEcR697rck5n90) | 2:04 |
 | 13 | [Stained Couch](https://open.spotify.com/track/3xF4oYMm5obes4vValfGvP) | [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF) | [Stained Couch](https://open.spotify.com/album/05LCG5oAqLSv9KnUYZc03D) | 1:40 |
 | 14 | [Pyrex](https://open.spotify.com/track/3TGBtGsWQPfhtPGGzzbc6m) | [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn) | [Pyrex](https://open.spotify.com/album/1ZWHj0kb2hk0hZCCDdNjL5) | 1:52 |
 | 15 | [Not Opps \(feat\. EST Gee\)](https://open.spotify.com/track/2C2LbwwnbtWuK396MKRERV) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Switch Music](https://open.spotify.com/album/3m5015yxQTaCo83w7AQwA7) | 2:54 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 30 | [Ticket \(feat\. Money Man\)](https://open.spotify.com/track/4BZj0FCSAOVFx5a5mm3Smr) | [600 Breezy](https://open.spotify.com/artist/2WzL7vIMXI4yyRWi2JE2Za), [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [Retaliation](https://open.spotify.com/album/2m7slu2bwmNptv1BVirA36) | 2:57 |
 | 31 | [Black Angel \(feat\. Snow Banks\)](https://open.spotify.com/track/02DxUOUGQu6SSMP53Jn6le) | [30 Deep Grimeyy](https://open.spotify.com/artist/0laj4MqJT0qZdmF1JgypmX), [Snow Banks](https://open.spotify.com/artist/2s6AjZFa07OzZVVcMFCG0H) | [Black Angel \(feat\. Snow Banks\)](https://open.spotify.com/album/5bkk90e5rl4GQp09ePMsIc) | 2:03 |
 | 32 | [Run With Me](https://open.spotify.com/track/78vxxtLHnQLXkeQ4NjHaOT) | [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn) | [Run With Me](https://open.spotify.com/album/0HQ3pjn91dmM0TUbJljDZq) | 2:17 |
-| 33 | [Freak Block Tales](https://open.spotify.com/track/07Zt48FGHUkljvK0gdB4Gz) | [Dwalk](https://open.spotify.com/artist/6eTtN1ArNtkXCPZJ8riM0T) | [The Biggest 6](https://open.spotify.com/album/3IfzYLYuf4ilq1zeBy6z9O) | 2:35 |
+| 33 | [Freak Block Tales](https://open.spotify.com/track/3Oz4YqNsVLjiGaV37hrt7Y) | [Dwalk](https://open.spotify.com/artist/6eTtN1ArNtkXCPZJ8riM0T) | [The Biggest 6](https://open.spotify.com/album/1IyesdAqIGoe92UBLnFm0Z) | 2:35 |
 | 34 | [Rock City \(feat\. Eminem\)](https://open.spotify.com/track/6gGQP8fDwKi3MFP7asbU8c) | [Royce Da 5'9"](https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Heaven Experience, Vol\. 1](https://open.spotify.com/album/0lQUDDBMXBJGaRVeRTXnci) | 4:13 |
 | 35 | [Aww Man](https://open.spotify.com/track/79Re7M6qqhCBIQYjexeXl4) | [Fat Money](https://open.spotify.com/artist/0vN8FecyEFbVIlauLaqByt) | [Money Got Wings](https://open.spotify.com/album/4l9Ypxth4ONS53vpbVfAJZ) | 2:09 |
 | 36 | [Get Dangerous](https://open.spotify.com/track/43GoEZsawcNzDxSzSYu11s) | [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn) | [Get Dangerous](https://open.spotify.com/album/7aYuQP9WI4RSXdGtJF2ToC) | 2:11 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 65 | [Record Straight](https://open.spotify.com/track/6i7mdZTIEUGD7jrc0xnPBV) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [No Pressure \(Pt\. 1\)](https://open.spotify.com/album/3e9yHrVpvAh2xeIvG7WcQO) | 1:56 |
 | 66 | [Forgive Me \(feat\. NoCap\)](https://open.spotify.com/track/1bKBEDDJ61aHiMkR9HLBTR) | [TOB Duke](https://open.spotify.com/artist/0swrkotfXHdeJNfkELoFkS), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Time Will Tell](https://open.spotify.com/album/4Zrsu6hm5rkp0WFBdJbTCr) | 2:37 |
 
-Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMDE4ZTMwY2Q5M2JjZGFlODAwZGYxZTNiMjExNzE2ODhh`
+Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMGEwZGZlOTVkNzdkNjQzZjI4NDUyNzk4M2E4ZDRlMDcw`

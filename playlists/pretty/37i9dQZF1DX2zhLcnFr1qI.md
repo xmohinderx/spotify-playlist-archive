@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 
 > Dance and Electronic tracks for the season <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,158 likes - 37 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,104 likes - 37 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Carol Of The Bells \- Spotify Singles Holiday](https://open.spotify.com/track/1jFBoVvIFAVglcAJTZpoG8) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Carol Of The Bells \(Spotify Singles Holiday\)](https://open.spotify.com/album/4cvOEpiN4d4YMwM4eB9NvY) | 1:42 |
 | 2 | [Caröl Von Holz](https://open.spotify.com/track/2bOEI6xZhYDIHcE5QgRSoD) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Holzbläser](https://open.spotify.com/artist/5Yqjr7yGAsLPpu4rmc39lL) | [Caröl Von Holz](https://open.spotify.com/album/7cBwygMg5dIn0JTZw76LfY) | 4:14 |
-| 3 | [I'm the Santa Claoz](https://open.spotify.com/track/48PfM9HJ5CKQHP89DahiHn) | [AronChupa](https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh), [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9) | [I'm the Santa Claoz](https://open.spotify.com/album/5ur5bMTCXPReTT3YhpBUZP) | 2:42 |
-| 4 | [Merry Christmas Everyone](https://open.spotify.com/track/2TdaxRL0VAKep3sbuM2O8L) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Home Alone \(On the Night Before Christmas\)](https://open.spotify.com/album/0GHvkwP9xA5vg658fJppdZ) | 2:37 |
+| 3 | [Merry Christmas Everyone](https://open.spotify.com/track/2TdaxRL0VAKep3sbuM2O8L) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Home Alone \(On the Night Before Christmas\)](https://open.spotify.com/album/0GHvkwP9xA5vg658fJppdZ) | 2:37 |
+| 4 | [I'm the Santa Claoz](https://open.spotify.com/track/48PfM9HJ5CKQHP89DahiHn) | [AronChupa](https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh), [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9) | [I'm the Santa Claoz](https://open.spotify.com/album/5ur5bMTCXPReTT3YhpBUZP) | 2:42 |
 | 5 | [Another Chance \- Don Diablo Chill Mix](https://open.spotify.com/track/5bLnab0c8Y9gVLDnLKdsfF) | [Big Pineapple](https://open.spotify.com/artist/364ge6OLf1AsRisexSjfJN), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Another Chance \(Remixes\)](https://open.spotify.com/album/06RlOKlbMSJajJXRm2qVpt) | 3:37 |
 | 6 | [Christmas Time](https://open.spotify.com/track/6sj3z36Jiy7vc8NIVgZlIb) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Jeremy Oceans](https://open.spotify.com/artist/68JQHAhLjcIjEpResOAVrf) | [Christmas Time](https://open.spotify.com/album/1y3cgKPsRSDiUkh5FwCa9Z) | 3:27 |
 | 7 | [Jingle Bells \- Bass](https://open.spotify.com/track/2ceTja5QWOyt4qMLAcyW0h) | [Basshunter](https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q) | [LOL \(International version\)](https://open.spotify.com/album/4cHjA2C6N5h5rIKQYojMLU) | 2:45 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 | 36 | [Whim](https://open.spotify.com/track/4ygRwQ51TwtULzMfSBeWLQ) | [Ghost of Christmas](https://open.spotify.com/artist/7Akv2Ot7bWY2ZtJSlLevfD) | [The Difference](https://open.spotify.com/album/57zA28ulk816vLFjPrihMF) | 3:38 |
 | 37 | [Carnival \- Xmas Edition](https://open.spotify.com/track/46DEBWLA2nsbvzrsLTraEF) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4), [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [A Very Decent Christmas 4](https://open.spotify.com/album/71MKwZhqUkB1LRIYjgKH4g) | 3:19 |
 
-Snapshot ID: `MTYzOTcxNzI2MCwwMDAwMDAwMGVhYzg0MTUwMzdlNzhmNGExN2E4OWY1YzhiN2YxNGVk`
+Snapshot ID: `MTYzOTcxNzI2MCwwMDAwMDAwMDdkOTI2OWU2YmM4NWMxN2Y2MDc3YWI0OTRkYzMyZmQ3`

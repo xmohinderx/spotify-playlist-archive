@@ -4,7 +4,7 @@
 
 > La casa dello street rap italiano\. Cover: Neima Ezza, L'allemand, Vale Pain, Sasso
 
-122 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/2xFrA1gU60YSyblsw3BI3i)
+123 songs - 5 hr 50 min - [published](https://open.spotify.com/playlist/2xFrA1gU60YSyblsw3BI3i)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [VITA PUTTANA](https://open.spotify.com/track/0haJKf3qe6DkJziBdEG7o4) | [Touché](https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb), [Miller](https://open.spotify.com/artist/5Zac830Rf5D42X4G5lIzqs) | [VITA PUTTANA](https://open.spotify.com/album/0bfend4tdsLrwhdPMyGorA) | 3:31 | 2022-06-23 | 2022-07-22 |
 | [WAKANDA](https://open.spotify.com/track/4ApTJO5GLmci7uNivte6mE) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768), [Miller](https://open.spotify.com/artist/5Zac830Rf5D42X4G5lIzqs) | [WAKANDA](https://open.spotify.com/album/65snFdLpTuZB0dYzHscNpg) | 2:16 | 2022-05-12 | 2022-06-03 |
 | [Wroom Wroom](https://open.spotify.com/track/4xtSgGX5CQgVXTCRhagLf1) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd), [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Wroom Wroom](https://open.spotify.com/album/1jVXH8SRRkuLIgLXn9JsD1) | 2:28 | 2022-08-23 |  |
-| [X Sempre](https://open.spotify.com/track/5Vw9le6wrmCUwmrYnu56Gl) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Dark Love EP](https://open.spotify.com/album/1AT2eHexB7x445IxuECZLW) | 3:25 | 2022-06-23 |  |
+| [X Sempre](https://open.spotify.com/track/5Vw9le6wrmCUwmrYnu56Gl) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Dark Love EP](https://open.spotify.com/album/1AT2eHexB7x445IxuECZLW) | 3:25 | 2022-06-23 | 2022-08-31 |
+| [X Sempre](https://open.spotify.com/track/69QHlK1wzGaY8M5QzB1fNx) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Dark Love EP](https://open.spotify.com/album/5Z5JxIgeTDnZdg6pLootUs) | 3:25 | 2022-08-29 |  |
 
 \*This playlist was first scraped on 2022-05-12. Prior content cannot be recovered.

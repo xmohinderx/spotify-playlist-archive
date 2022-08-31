@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-247 songs - 14 hr 33 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+248 songs - 14 hr 36 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Guiding Light](https://open.spotify.com/track/6dbRhELPiOv4nUNu65lTUJ) | [Rogue](https://open.spotify.com/artist/3zuevuwyBq4MiQzPB3nvW2) | [Guiding Light](https://open.spotify.com/album/0myJX8G6tOvCxCR4jiWWJR) | 2:57 | 2022-06-28 |  |
 | [Happiness \(Just A Pursuit\)](https://open.spotify.com/track/0yyH8JYSfGEDJRUyllg4CG) | [Mick Mazoo](https://open.spotify.com/artist/1Yx2K8SQD3JPnPesUxNqve), [Leela Rosa](https://open.spotify.com/artist/1ljyZt4G3QAhA5WPBL7r66) | [Happiness \(Just A Pursuit\)](https://open.spotify.com/album/26llcMMM2WioNcKNlmrFIk) | 2:44 | 2022-07-12 |  |
 | [Hate U/Miss U](https://open.spotify.com/track/0RX7vFXvhylgh1xoPAjmPL) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M), [Lani Daye](https://open.spotify.com/artist/1fYnA1IkOOJ3mtWl02xKk3) | [Hate U/Miss U](https://open.spotify.com/album/1cLVwfsFCR0tqndu3YaNEO) | 2:25 | 2022-03-08 | 2022-05-20 |
+| [Heartbeat](https://open.spotify.com/track/26g9KhoTTaEG4IM1uTkwZ4) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Heartbeat](https://open.spotify.com/album/5ZP5RXBdCFckiXwXN6tWp8) | 3:13 | 2022-08-30 |  |
 | [Here For Now](https://open.spotify.com/track/4cU8YjbtwlAFBlPlKBaJ8W) | [Fransis Derelle](https://open.spotify.com/artist/0SjiMVVtcOsDAOb4fKCCLn), [CRaymak](https://open.spotify.com/artist/150jtRwN0MU5qRxkhKnzNm), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Here For Now](https://open.spotify.com/album/2imHKzs8s94B6vGL0DTtlf) | 3:49 | 2022-08-11 |  |
 | [Higher Peaks](https://open.spotify.com/track/1PpLf7d6YnJ4SyjqmXR5VG) | [Hausman](https://open.spotify.com/artist/1jD9rZnKHp1tqnYMxSxkiQ), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Higher Peaks](https://open.spotify.com/album/0jGDUCzOBcximXf2HnHfuv) | 5:07 | 2022-06-10 | 2022-08-23 |
 | [Hold Up](https://open.spotify.com/track/2Q0zaBd4u0mwEd7KNppKEf) | [Nick Smith](https://open.spotify.com/artist/5W5JelsLmCytPXmzN5w8fc) | [Hold Up](https://open.spotify.com/album/0EHxZE2tTIlOXkWuUSpXXJ) | 2:59 | 2022-01-28 | 2022-04-13 |
@@ -121,7 +122,7 @@
 | [Ignore Them](https://open.spotify.com/track/0an42ZDRxMJXkBh49eNvQt) | [Dustycloud](https://open.spotify.com/artist/5O9MafawyW4O2WhJQKXj2d), [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot), [LexBlaze](https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri) | [Ignore Them](https://open.spotify.com/album/2vkuMHMpu5W1Rwzlwggnnl) | 3:08 | 2022-01-13 | 2022-03-22 |
 | [In My Hands](https://open.spotify.com/track/6XELCbavuCxyoiZXeBCcEV) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I) | [In My Hands](https://open.spotify.com/album/3U0Zx1JGLJF84QohhxArK6) | 4:14 | 2022-04-13 | 2022-06-23 |
 | [Industrial Strain](https://open.spotify.com/track/3H1Er6tmf4akNcWW0iIRaj) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Higher Ground \(Part 1\)](https://open.spotify.com/album/0ZYsPQxRA80y5bEwlLQWmz) | 3:46 | 2022-08-04 |  |
-| [Jupiter & Saturn](https://open.spotify.com/track/5kihqmQ7LLDHK3nEbqyyqm) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Jupiter & Saturn](https://open.spotify.com/album/5RqTuhUL1aoro59s9CKyqW) | 3:13 | 2022-06-17 |  |
+| [Jupiter & Saturn](https://open.spotify.com/track/5kihqmQ7LLDHK3nEbqyyqm) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Jupiter & Saturn](https://open.spotify.com/album/5RqTuhUL1aoro59s9CKyqW) | 3:13 | 2022-06-17 | 2022-08-31 |
 | [Just Dance](https://open.spotify.com/track/3OTClWUY9bf3qVXrR9LNL6) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Just Dance](https://open.spotify.com/album/5JKQ1by0GaQLYzgR1IyyS4) | 3:14 | 2022-04-15 | 2022-06-25 |
 | [just wanna luv](https://open.spotify.com/track/5Dvd2vfqvPg0RCXQ9DpKee) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [just wanna luv](https://open.spotify.com/album/2SwH358tYGHvJH7Z6DhWHv) | 4:17 | 2022-03-25 | 2022-06-08 |
 | [Keep On Dancing](https://open.spotify.com/track/3p1DrvZRj9NTondCwlxbut) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [Keep On Dancing](https://open.spotify.com/album/5vgbksNHdjfxpqjY3zQGKi) | 2:28 | 2022-05-27 | 2022-08-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  LOVKN
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,657 likes - 100 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,798 likes - 100 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 72 | [Consuming Flame](https://open.spotify.com/track/0A6DdMruzwerKFxRZVfwiS) | [A Jesus Church](https://open.spotify.com/artist/4TYANTKQ4uK2FLUcu7Nq6a) | [Consuming Flame](https://open.spotify.com/album/5DANj91HDlNW7acdqkc7xy) | 7:00 |
 | 73 | [I'm Loved](https://open.spotify.com/track/34cCQifGdPJ1eXkm2SrXEe) | [Harborside Music](https://open.spotify.com/artist/5Lw266onySIyRJlK8cYzyo) | [I'm Loved](https://open.spotify.com/album/6ktNp072yy5ZlxNR1ZUNJn) | 7:58 |
 | 74 | [Wait on You](https://open.spotify.com/track/5B9W9na5lv1fI9U0yQUb9j) | [Hillside Recording](https://open.spotify.com/artist/1Pr6QC1iOpXLx1shPTBBhN), [Diana Trout](https://open.spotify.com/artist/0NHykv7QVZ6hTpKdPe3qrf) | [Wait on You](https://open.spotify.com/album/3VJhLoLNWUbTtdfyMRn6eL) | 3:33 |
-| 75 | [Christ Our Hope In Life And Death \- Live](https://open.spotify.com/track/5lzT6dyqE8TVmS2bkkXVGS) | [Matt Merker](https://open.spotify.com/artist/4tV4kbUb5plcHKiGCPcvrX) | [Together For The Gospel Live V](https://open.spotify.com/album/17BNtvofHIIxlUnrCGnYAZ) | 4:23 |
+| 75 | [Christ Our Hope In Life And Death \- Live](https://open.spotify.com/track/73WJz2knb6SJbdsp0uVhRL) | [Matt Merker](https://open.spotify.com/artist/4tV4kbUb5plcHKiGCPcvrX) | [Together For The Gospel Live V](https://open.spotify.com/album/1a49I8wJkaWmGNtzxF854V) | 4:23 |
 | 76 | [Arms Of The Father](https://open.spotify.com/track/4q4IPPflHKzZysdmujf5Rv) | [Chris McCall](https://open.spotify.com/artist/0TcGpkdfl5wneHvpYgN3xp) | [Arms Of The Father](https://open.spotify.com/album/5xXPX6zsqbUq3KxyGU8BSY) | 5:31 |
 | 77 | [No King Like Jesus](https://open.spotify.com/track/7x6wou6h0rowSK6rwPsk04) | [Christ Church Worship](https://open.spotify.com/artist/0qUuZVm9ly1AlsuZyYMQwp), [Joshua Seller](https://open.spotify.com/artist/0hMcMrkgNgJC7oO82fZsli) | [All To The King](https://open.spotify.com/album/35GlM8QulBE6N7hM7EGu9d) | 4:18 |
 | 78 | [Cornerstone \(feat\. Zach Williams\)](https://open.spotify.com/track/6wCVcqWX20n8kAtIK9PoeG) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Life After Death](https://open.spotify.com/album/0r9SK42XWsd4BOu4IGi1c3) | 3:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [You Your Love](https://open.spotify.com/track/6SKDquRM4bco43rgV4Stf4) | [Keyondra Lockett](https://open.spotify.com/artist/3adyeKexNPZGZ2wNvqqmw7) | [You Your Love](https://open.spotify.com/album/27QJ1xXSjYPM1yUzvGkVVC) | 3:57 |
 | 100 | [God Good](https://open.spotify.com/track/2STMTOFNic9TvIcYrhKC8y) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [God Good](https://open.spotify.com/album/01LrolnVf2rnfI5tXfn3HG) | 2:33 |
 
-Snapshot ID: `MTY2MTQ5Mzg0NiwwMDAwMDAwMGI1YzMzMmZhY2Y4NDA4NDhmZTRhZjY4OTI5OGJmMjQx`
+Snapshot ID: `MTY2MTQ5Mzg0NiwwMDAwMDAwMDYwMGQ5Y2ZhNDE2MDRlODIzMjQ4MGI5MDJiMWIyMTgw`

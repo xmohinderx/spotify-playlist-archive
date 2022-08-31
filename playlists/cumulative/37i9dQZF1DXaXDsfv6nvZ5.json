@@ -1201,7 +1201,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 226629,
       "name": "One More Kiss",
       "url": "https://open.spotify.com/track/5PEvIq7hMnnE85qphra5Oa"
@@ -1637,6 +1637,24 @@
       "duration_ms": 196608,
       "name": "The Best Things",
       "url": "https://open.spotify.com/track/2IebZ0AjurvrRGdxnnL2oI"
+    },
+    {
+      "album": {
+        "name": "The Reason",
+        "url": "https://open.spotify.com/album/6B7oBbXH4oKMnq9ep5xEBA"
+      },
+      "artists": [
+        {
+          "name": "James Vickery",
+          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "The Reason",
+      "url": "https://open.spotify.com/track/1JKH156F7aeqFLjHK892H6"
     },
     {
       "album": {

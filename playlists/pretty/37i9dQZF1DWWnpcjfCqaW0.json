@@ -1,12 +1,12 @@
 {
   "description": "The decade when country and rockabilly came together. Cover: Johnny Cash",
-  "num_followers": 223837,
+  "num_followers": 223759,
   "original_name": "50s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODY5MzczNSwwMDAwMDAwMGNiMDAzYTY1NDI4NDhhYTBlNjBiMDQ0MzBkNjBhMTYw",
+  "snapshot_id": "MTY1ODY5MzczNSwwMDAwMDAwMDRiOTU3ZWE5YTE1YWQ4ZGUzZjUxOGVkM2FiYTJhNzA4",
   "tracks": [
     {
       "added_at": "2022-07-24 20:15:35",
@@ -475,6 +475,22 @@
     {
       "added_at": "2022-07-24 20:15:35",
       "album": {
+        "name": "Presenting Elton Britt",
+        "url": "https://open.spotify.com/album/016arGrAjGeta09FWpXwsl"
+      },
+      "artists": [
+        {
+          "name": "Elton Britt",
+          "url": "https://open.spotify.com/artist/0KpEAwp8zARUw37m0Jtdei"
+        }
+      ],
+      "duration_ms": 139133,
+      "name": "Uranium Fever",
+      "url": "https://open.spotify.com/track/7IPzEPRs8Y3j0hieZ4wdYf"
+    },
+    {
+      "added_at": "2022-07-24 20:15:35",
+      "album": {
         "name": "Memorial Album (Expanded Edition)",
         "url": "https://open.spotify.com/album/4Cdvtu5XUmCKPwcnue11xS"
       },
@@ -495,34 +511,18 @@
     {
       "added_at": "2022-07-24 20:15:35",
       "album": {
-        "name": "Presenting Elton Britt",
-        "url": "https://open.spotify.com/album/016arGrAjGeta09FWpXwsl"
+        "name": "Letters from Nashville",
+        "url": "https://open.spotify.com/album/1WzFdtE7vnLLiErB5Xk6rq"
       },
       "artists": [
         {
-          "name": "Elton Britt",
-          "url": "https://open.spotify.com/artist/0KpEAwp8zARUw37m0Jtdei"
+          "name": "Leroy Van Dyke",
+          "url": "https://open.spotify.com/artist/6fU4BXH81Y9lMOopk9ida3"
         }
       ],
-      "duration_ms": 139133,
-      "name": "Uranium Fever",
-      "url": "https://open.spotify.com/track/7IPzEPRs8Y3j0hieZ4wdYf"
-    },
-    {
-      "added_at": "2022-07-24 20:15:35",
-      "album": {
-        "name": "Dance To The Bop",
-        "url": "https://open.spotify.com/album/3oavZnlCWGZJyXj8fuLVlR"
-      },
-      "artists": [
-        {
-          "name": "Gene Vincent & His Blue Caps",
-          "url": "https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq"
-        }
-      ],
-      "duration_ms": 156306,
-      "name": "Be-Bop-A-Lula",
-      "url": "https://open.spotify.com/track/0HUp7ipIDJvITTqizN6cxJ"
+      "duration_ms": 167622,
+      "name": "The Auctioneer",
+      "url": "https://open.spotify.com/track/2asm7rApXW7iIXp5CvMtIt"
     },
     {
       "added_at": "2022-07-24 20:15:35",
@@ -543,18 +543,18 @@
     {
       "added_at": "2022-07-24 20:15:35",
       "album": {
-        "name": "Letters from Nashville",
-        "url": "https://open.spotify.com/album/1WzFdtE7vnLLiErB5Xk6rq"
+        "name": "Dance To The Bop",
+        "url": "https://open.spotify.com/album/3oavZnlCWGZJyXj8fuLVlR"
       },
       "artists": [
         {
-          "name": "Leroy Van Dyke",
-          "url": "https://open.spotify.com/artist/6fU4BXH81Y9lMOopk9ida3"
+          "name": "Gene Vincent & His Blue Caps",
+          "url": "https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq"
         }
       ],
-      "duration_ms": 167622,
-      "name": "The Auctioneer",
-      "url": "https://open.spotify.com/track/2asm7rApXW7iIXp5CvMtIt"
+      "duration_ms": 156306,
+      "name": "Be-Bop-A-Lula",
+      "url": "https://open.spotify.com/track/0HUp7ipIDJvITTqizN6cxJ"
     },
     {
       "added_at": "2022-07-24 20:15:35",
@@ -763,18 +763,18 @@
     {
       "added_at": "2022-07-24 20:15:35",
       "album": {
-        "name": "Red Hot / Pearly Lee",
-        "url": "https://open.spotify.com/album/29B0yXlUcYh8Mx0EZGFzrC"
+        "name": "The Complete Columbia Recording Sessions, Vol. 1 - 1950-1951",
+        "url": "https://open.spotify.com/album/3bBneZqRXbTYHFcw0V9UB2"
       },
       "artists": [
         {
-          "name": "Billy Lee Riley",
-          "url": "https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ"
+          "name": "Lefty Frizzell",
+          "url": "https://open.spotify.com/artist/05pAwLhsutiuj6gerEwGvU"
         }
       ],
-      "duration_ms": 149705,
-      "name": "Red Hot",
-      "url": "https://open.spotify.com/track/4ry02LU6cR10FIElCb3KLy"
+      "duration_ms": 179306,
+      "name": "If You've Got the Money I've Got the Time",
+      "url": "https://open.spotify.com/track/3jvNwwHkWjELV3QALVz47D"
     },
     {
       "added_at": "2022-07-24 20:15:35",
@@ -815,18 +815,18 @@
     {
       "added_at": "2022-07-24 20:15:35",
       "album": {
-        "name": "The Complete Columbia Recording Sessions, Vol. 1 - 1950-1951",
-        "url": "https://open.spotify.com/album/3bBneZqRXbTYHFcw0V9UB2"
+        "name": "Sixteen Tons",
+        "url": "https://open.spotify.com/album/0X96CJyHwoBEzSj24CISo4"
       },
       "artists": [
         {
-          "name": "Lefty Frizzell",
-          "url": "https://open.spotify.com/artist/05pAwLhsutiuj6gerEwGvU"
+          "name": "Tennessee Ernie Ford",
+          "url": "https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp"
         }
       ],
-      "duration_ms": 179306,
-      "name": "If You've Got the Money I've Got the Time",
-      "url": "https://open.spotify.com/track/3jvNwwHkWjELV3QALVz47D"
+      "duration_ms": 155007,
+      "name": "The Shot Gun Boogie",
+      "url": "https://open.spotify.com/track/66gEeYiMppDZjNEoTsbnL6"
     },
     {
       "added_at": "2022-07-24 20:15:35",
@@ -847,18 +847,18 @@
     {
       "added_at": "2022-07-24 20:15:35",
       "album": {
-        "name": "Sixteen Tons",
-        "url": "https://open.spotify.com/album/0X96CJyHwoBEzSj24CISo4"
+        "name": "Red Hot / Pearly Lee",
+        "url": "https://open.spotify.com/album/29B0yXlUcYh8Mx0EZGFzrC"
       },
       "artists": [
         {
-          "name": "Tennessee Ernie Ford",
-          "url": "https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp"
+          "name": "Billy Lee Riley",
+          "url": "https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ"
         }
       ],
-      "duration_ms": 155007,
-      "name": "The Shot Gun Boogie",
-      "url": "https://open.spotify.com/track/66gEeYiMppDZjNEoTsbnL6"
+      "duration_ms": 149705,
+      "name": "Red Hot",
+      "url": "https://open.spotify.com/track/4ry02LU6cR10FIElCb3KLy"
     },
     {
       "added_at": "2022-07-24 20:15:35",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-07-24 20:15:35",
       "album": {
-        "name": "22 Early Starday Recordings",
-        "url": "https://open.spotify.com/album/5M4EJHZXWDI2XOaudxpg6G"
-      },
-      "artists": [
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        }
-      ],
-      "duration_ms": 136240,
-      "name": "Why Baby Why",
-      "url": "https://open.spotify.com/track/3vewZQLIjngv5dmPm1ph45"
-    },
-    {
-      "added_at": "2022-07-24 20:15:35",
-      "album": {
         "name": "The Essential Jim Reeves",
         "url": "https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 168640,
       "name": "Four Walls",
       "url": "https://open.spotify.com/track/3qReTgtrLsZDISxor3lJW0"
+    },
+    {
+      "added_at": "2022-07-24 20:15:35",
+      "album": {
+        "name": "22 Early Starday Recordings",
+        "url": "https://open.spotify.com/album/5M4EJHZXWDI2XOaudxpg6G"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "duration_ms": 136240,
+      "name": "Why Baby Why",
+      "url": "https://open.spotify.com/track/3vewZQLIjngv5dmPm1ph45"
     },
     {
       "added_at": "2022-07-24 20:15:35",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-07-24 20:15:35",
       "album": {
-        "name": "The Complete Capitol Hits Of Faron Young",
-        "url": "https://open.spotify.com/album/26KWAh3Wvw9LjeyxjTEZqa"
-      },
-      "artists": [
-        {
-          "name": "Faron Young",
-          "url": "https://open.spotify.com/artist/6uvq6FeVsmhOWfJHxVNeBL"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "If You Ain't Lovin' (You Ain't Livin')",
-      "url": "https://open.spotify.com/track/7oanidqUgZO3GxXugm2ucC"
-    },
-    {
-      "added_at": "2022-07-24 20:15:35",
-      "album": {
         "name": "16 All Time Favorite Songs",
         "url": "https://open.spotify.com/album/49gjtUiOVrN6nQXLbOX4pi"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 174693,
       "name": "Blues, Stay Away From Me",
       "url": "https://open.spotify.com/track/7xVj55oXJ9eesE9f2XVHKe"
+    },
+    {
+      "added_at": "2022-07-24 20:15:35",
+      "album": {
+        "name": "The Complete Capitol Hits Of Faron Young",
+        "url": "https://open.spotify.com/album/26KWAh3Wvw9LjeyxjTEZqa"
+      },
+      "artists": [
+        {
+          "name": "Faron Young",
+          "url": "https://open.spotify.com/artist/6uvq6FeVsmhOWfJHxVNeBL"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "If You Ain't Lovin' (You Ain't Livin')",
+      "url": "https://open.spotify.com/track/7oanidqUgZO3GxXugm2ucC"
     }
   ],
   "unique_name": "50s Country",

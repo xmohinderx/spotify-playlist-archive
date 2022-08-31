@@ -1,12 +1,12 @@
 {
   "description": "Beat the traffic blues with these killer tunes.",
-  "num_followers": 5441,
+  "num_followers": 5454,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMGNkZjBjMWI4OWUxMjk2M2U3NDdmZGE3YjUyYmExNmUw",
+  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMDY3NjA0MWIyYjQ5YzhlNGNkYTA2Nzc1Y2RmNDIzYzVi",
   "tracks": [
     {
       "added_at": "2022-06-09 23:00:00",
@@ -605,6 +605,26 @@
       "url": "https://open.spotify.com/track/7JVUJLsVXysVpSWChbnz9I"
     },
     {
+      "added_at": "2022-08-18 23:00:00",
+      "album": {
+        "name": "Electricity",
+        "url": "https://open.spotify.com/album/5vOpDVowekdCylaDIiV5We"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 132912,
+      "name": "Electricity",
+      "url": "https://open.spotify.com/track/6McBvfxgkVfREmQPwTKBUn"
+    },
+    {
       "added_at": "2022-08-05 07:32:21",
       "album": {
         "name": "Playboy",
@@ -627,26 +647,6 @@
       "duration_ms": 232155,
       "name": "Diana",
       "url": "https://open.spotify.com/track/6g8vNyogMW32lhHlNcDiwX"
-    },
-    {
-      "added_at": "2022-08-18 23:00:00",
-      "album": {
-        "name": "Electricity",
-        "url": "https://open.spotify.com/album/5vOpDVowekdCylaDIiV5We"
-      },
-      "artists": [
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 132912,
-      "name": "Electricity",
-      "url": "https://open.spotify.com/track/6McBvfxgkVfREmQPwTKBUn"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -945,22 +945,6 @@
       "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
     },
     {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "First Sermon",
-        "url": "https://open.spotify.com/album/5U2r0XU9TAO8nASyLMC8GC"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 185362,
-      "name": "First Sermon",
-      "url": "https://open.spotify.com/track/1eJ1pgxRJWi0LYPbS9CxS3"
-    },
-    {
       "added_at": "2022-08-18 23:00:00",
       "album": {
         "name": "Contour",
@@ -975,6 +959,22 @@
       "duration_ms": 189014,
       "name": "Contour",
       "url": "https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "First Sermon",
+        "url": "https://open.spotify.com/album/5U2r0XU9TAO8nASyLMC8GC"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 185362,
+      "name": "First Sermon",
+      "url": "https://open.spotify.com/track/1eJ1pgxRJWi0LYPbS9CxS3"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1156,33 +1156,13 @@
           "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
         },
         {
-          "name": "Damian 'Jr. Gong' Marley",
-          "url": "https://open.spotify.com/artist/5BCplet0tYrSaala0WrEmN"
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
         }
       ],
       "duration_ms": 229057,
       "name": "Red Gold and Green",
       "url": "https://open.spotify.com/track/4EHZqxkgwhhJYkSHKrf5Eq"
-    },
-    {
-      "added_at": "2022-07-07 23:00:00",
-      "album": {
-        "name": "Say You Bad (Remix)",
-        "url": "https://open.spotify.com/album/1MSQFlNZ1UqxOk3WRIDxzQ"
-      },
-      "artists": [
-        {
-          "name": "Skales",
-          "url": "https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv"
-        },
-        {
-          "name": "1da Banton",
-          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
-        }
-      ],
-      "duration_ms": 204031,
-      "name": "Say You Bad (Remix)",
-      "url": "https://open.spotify.com/track/7nMrhVzouCx2Igpdwzo0Ta"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1203,6 +1183,26 @@
       "duration_ms": 229345,
       "name": "Non Living Thing (feat. Oxlade)",
       "url": "https://open.spotify.com/track/5Ky8pIlNDaSQtxfY45dqMw"
+    },
+    {
+      "added_at": "2022-07-07 23:00:00",
+      "album": {
+        "name": "Say You Bad (Remix)",
+        "url": "https://open.spotify.com/album/1MSQFlNZ1UqxOk3WRIDxzQ"
+      },
+      "artists": [
+        {
+          "name": "Skales",
+          "url": "https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv"
+        },
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        }
+      ],
+      "duration_ms": 204031,
+      "name": "Say You Bad (Remix)",
+      "url": "https://open.spotify.com/track/7nMrhVzouCx2Igpdwzo0Ta"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1277,6 +1277,38 @@
       "url": "https://open.spotify.com/track/6RbOyNeajWax51NtpO6WT8"
     },
     {
+      "added_at": "2022-07-22 04:27:34",
+      "album": {
+        "name": "Shaye",
+        "url": "https://open.spotify.com/album/46Ly7qRxGR5Hq6yPSEqRDH"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 169043,
+      "name": "Shaye",
+      "url": "https://open.spotify.com/track/0hFgFEdlRzbWGZGEHiCwPy"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "NEED ME",
+        "url": "https://open.spotify.com/album/0TTExlXyOA6Du5EF6T4T2e"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "NEED ME",
+      "url": "https://open.spotify.com/track/29tVTwzlKudGYkLOzbjAD3"
+    },
+    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "CHOPLIFE (feat. Patoranking)",
@@ -1297,38 +1329,6 @@
       "url": "https://open.spotify.com/track/5F5OkyidOWn8gj4vQhD7QM"
     },
     {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "NEED ME",
-        "url": "https://open.spotify.com/album/0TTExlXyOA6Du5EF6T4T2e"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "NEED ME",
-      "url": "https://open.spotify.com/track/29tVTwzlKudGYkLOzbjAD3"
-    },
-    {
-      "added_at": "2022-07-22 04:27:34",
-      "album": {
-        "name": "Shaye",
-        "url": "https://open.spotify.com/album/46Ly7qRxGR5Hq6yPSEqRDH"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 169043,
-      "name": "Shaye",
-      "url": "https://open.spotify.com/track/0hFgFEdlRzbWGZGEHiCwPy"
-    },
-    {
       "added_at": "2022-07-25 06:15:04",
       "album": {
         "name": "Atele",
@@ -1343,6 +1343,22 @@
       "duration_ms": 166885,
       "name": "Atele",
       "url": "https://open.spotify.com/track/0ODCrGAuV8iSgnI8aJLznB"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Take Away",
+        "url": "https://open.spotify.com/album/1G332MHTrv8gde5rXWMYRJ"
+      },
+      "artists": [
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        }
+      ],
+      "duration_ms": 166426,
+      "name": "Take Away",
+      "url": "https://open.spotify.com/track/3TbPmLDrVHWDaNboZjSHuK"
     },
     {
       "added_at": "2022-07-14 23:00:00",
@@ -1367,22 +1383,6 @@
       "duration_ms": 167017,
       "name": "Born (Remix) [feat. Cashh & King Promise]",
       "url": "https://open.spotify.com/track/6ztz7MysNjHec8CHmigWDp"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Take Away",
-        "url": "https://open.spotify.com/album/1G332MHTrv8gde5rXWMYRJ"
-      },
-      "artists": [
-        {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
-        }
-      ],
-      "duration_ms": 166426,
-      "name": "Take Away",
-      "url": "https://open.spotify.com/track/3TbPmLDrVHWDaNboZjSHuK"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Slow Down",
-        "url": "https://open.spotify.com/album/1M7aXbvLJZZU0tcW75opXe"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 177373,
-      "name": "Slow Down",
-      "url": "https://open.spotify.com/track/06NG4AQXXeWnnODyUCC6ZU"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
         "name": "Je M'appelle (feat. DaVido)",
         "url": "https://open.spotify.com/album/56qzuXPxeJKnmmOlZFQeUo"
       },
@@ -1493,20 +1477,40 @@
       "url": "https://open.spotify.com/track/45JfxtSUnkb9e4r0MBYqfK"
     },
     {
-      "added_at": "2022-07-07 23:00:00",
+      "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Lady",
-        "url": "https://open.spotify.com/album/2N1stt1VMLOOU9J1hkkXUH"
+        "name": "Jane",
+        "url": "https://open.spotify.com/album/7kjDusgZHn05WZuo2Xlww0"
       },
       "artists": [
         {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 146993,
-      "name": "Lady",
-      "url": "https://open.spotify.com/track/5JfN1hE5h7uquuSEd90uU9"
+      "duration_ms": 202372,
+      "name": "Jane",
+      "url": "https://open.spotify.com/track/7hyx7lEMBsMHgSYVNCDW2y"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Slow Down",
+        "url": "https://open.spotify.com/album/1M7aXbvLJZZU0tcW75opXe"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 177373,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/06NG4AQXXeWnnODyUCC6ZU"
     }
   ],
   "unique_name": "Troski Rhythms",

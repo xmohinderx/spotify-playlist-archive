@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 
 > Os brabos do hip hop nacional\. Foto: Racionais MCs
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,106 likes - 60 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,121 likes - 60 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 | 38 | [Castelos & Ruínas](https://open.spotify.com/track/56U1WCUL6mbxoSSYgbBame) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Castelos & Ruínas](https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0) | 4:09 |
 | 39 | [Rosas e Rimas](https://open.spotify.com/track/1lg7G5zyf8apcquXJ7iPYR) | [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Slow Flow](https://open.spotify.com/album/1LpPSpMDdzx3WCNs8EUui3) | 2:39 |
 | 40 | [Rap, Cerva, Erva e Muita Larica](https://open.spotify.com/track/3MT349AygkDxEp3eHpD6VL) | [ConeCrewDiretoria](https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T) | [Bonde da Madrugada pt\. 2](https://open.spotify.com/album/2jOQG9qOUtpMvOrScJ5EMW) | 4:11 |
-| 41 | [Babylon By Gus](https://open.spotify.com/track/4kDzgYkIVT1JHFpKZOPxGW) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon By Gus Vol\. 1 \- o Ano do Macaco](https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH) | 4:16 |
-| 42 | [Sensação](https://open.spotify.com/track/6wqRHXRG301Xedy3wBCCwo) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [CT](https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0) | [Sensação](https://open.spotify.com/album/6PldTF2mMFrxvlb6YAFRD1) | 4:32 |
+| 41 | [Sensação](https://open.spotify.com/track/6wqRHXRG301Xedy3wBCCwo) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [CT](https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0) | [Sensação](https://open.spotify.com/album/6PldTF2mMFrxvlb6YAFRD1) | 4:32 |
+| 42 | [Babylon By Gus](https://open.spotify.com/track/4kDzgYkIVT1JHFpKZOPxGW) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon By Gus Vol\. 1 \- o Ano do Macaco](https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH) | 4:16 |
 | 43 | [Aquela Fé](https://open.spotify.com/track/2HunnLQdWqDFTTKXd8PP5r) | [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Nego Gallo](https://open.spotify.com/artist/4nOrR26qgm2LzspkdRPdpq) | [Roteiro Pra Aïnouz \(Vol\. 3\)](https://open.spotify.com/album/7hUHxgR9xS4sDrnsfPTtQW) | 6:08 |
 | 44 | [Dior](https://open.spotify.com/track/6iIN2VXurWz90YBHXOIziD) | [Yung Buda](https://open.spotify.com/artist/34JhhuxlkDFSA5ek4AuZOp), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [OG L](https://open.spotify.com/artist/6usXKXCK5gkyeZ18o3Fmg6), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Alaska](https://open.spotify.com/artist/1D8yVlgOfpn6lW5UfwOMj7) | [Dior](https://open.spotify.com/album/1OtjO72XdEOLXSEKlgEP7y) | 3:06 |
 | 45 | [A Música da Mãe](https://open.spotify.com/track/2YD8rHthWUwXAyucqI5gYm) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [A Música da Mãe](https://open.spotify.com/album/7dEBIuAU4GRtGxbxweMtXp) | 3:38 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 | 59 | [Linda, Louca e Mimada](https://open.spotify.com/track/1rcZKMWbCac4FDnUvtYfyK) | [Oriente, Rebeca](https://open.spotify.com/artist/4OihQRMAYzuKUobEFCpmLE) | [Oriente](https://open.spotify.com/album/5i7yYQx7XGmfl5G6XZIsUu) | 3:22 |
 | 60 | [Malvadão](https://open.spotify.com/track/6U3PUhdhUHMM8lBqmIg2Ro) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Damassaclan](https://open.spotify.com/artist/1g4RI8yZ2TS4Y0ST5482OU), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [Malvadão](https://open.spotify.com/album/2bRHA2sbwWGnRXuSEYc6Zq) | 2:29 |
 
-Snapshot ID: `MTY1OTM5MDIyNSwwMDAwMDAwMDY4ZDVhNWQ3ZjYwZWJkZTlmN2Q3ZTllNTc4NjI2ODkw`
+Snapshot ID: `MTY1OTM5MDIyNSwwMDAwMDAwMGQ3YjMxODk0YTVkYzY1MmQ1NDBmMDc1Y2JhODhjNzZm`

@@ -4,7 +4,7 @@
 
 > The hottest Anime hits of the 90s\. 1990年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-70 songs - 4 hr 54 min - [published](https://open.spotify.com/playlist/4IZcoENbRUH8fIMPWTB7x5)
+71 songs - 4 hr 59 min - [published](https://open.spotify.com/playlist/4IZcoENbRUH8fIMPWTB7x5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [マイ フレンド](https://open.spotify.com/track/4mt3qRk1HWnk4kyvjbp8Jk) | [ZARD](https://open.spotify.com/artist/2NKadilSWCwuqGp5QoDeUS) | [マイ フレンド](https://open.spotify.com/album/0pZXSUADHSImR5emCEln8R) | 4:19 | 2022-04-10 |  |
 | [ミエナイチカラ 〜INVISIBLE ONE〜](https://open.spotify.com/track/1B7JdytwORQ3snphFEbPW1) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [ミエナイチカラ 〜INVISIBLE ONE〜 / MOVE](https://open.spotify.com/album/13hOMXiB9ydOwyIOY7JxoT) | 4:38 | 2022-04-10 |  |
 | [ムーンライト伝説](https://open.spotify.com/track/3fbEsr4mfsFbKYOBU074Fy) | [DALI](https://open.spotify.com/artist/6emADnvWyoxFZipxX89lHl) | [美少女戦士セーラームーン ベスト](https://open.spotify.com/album/11RDia9ZrdWS4z90ZrK23h) | 2:55 | 2022-04-10 |  |
-| [リトル・ダーリン](https://open.spotify.com/track/5iGsTzB68eK6Su7eCHj54W) | [Eriko Tamura](https://open.spotify.com/artist/4tc2Vg3R8pVtea8WeUFIOm) | [ゴールデン☆ベスト 田村英里子](https://open.spotify.com/album/2EmX1f3tSk1TbuqF9epw4p) | 3:44 | 2022-04-10 |  |
+| [リトル・ダーリン](https://open.spotify.com/track/5iGsTzB68eK6Su7eCHj54W) | [Eriko Tamura](https://open.spotify.com/artist/4tc2Vg3R8pVtea8WeUFIOm) | [ゴールデン☆ベスト 田村英里子](https://open.spotify.com/album/2EmX1f3tSk1TbuqF9epw4p) | 3:44 | 2022-04-10 | 2022-08-31 |
+| [世界が終るまでは… \[WANDS 第5期 ver.\]](https://open.spotify.com/track/3Kihz14e1cNkpl5PiJOiB7) | [WANDS](https://open.spotify.com/artist/4iaPh4BzUKBQuunyMKVxU7) | [世界が終るまでは… \[WANDS 第5期 ver.\]](https://open.spotify.com/album/0nZnyIFO6XBzTqzGeLOBLy) | 5:13 | 2022-08-30 |  |
 | [勇気100% \- \(合唱ヴァージョン\)/すずかけ児童合唱団](https://open.spotify.com/track/0UBWkGVqwsWESsVfdnXbut) | [すずかけ児童合唱団](https://open.spotify.com/artist/3HozfEg3Tn0RVf1aBJLdnU) | [「忍たまファミリー・ベストセレクション」](https://open.spotify.com/album/4VUJ2ges1ogO66dtbvTSpP) | 4:14 | 2022-04-10 |  |
 | [名探偵コナン メイン・テーマ \- 摩天楼ヴァージョン](https://open.spotify.com/track/5vWYRXIw88ZKaOjsvFuWus) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [名探偵コナン 時計じかけの摩天楼 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/1KvpgzU0FqKKvneATY175e) | 2:27 | 2022-04-10 |  |
 | [微笑みの爆弾](https://open.spotify.com/track/5umjq620i9NI0l5wZvmjPr) | [Matsuko Mawatari](https://open.spotify.com/artist/4uXVncHzrGNwBaQHOWLGG5) | [決定盤「幽☆遊☆白書」アニメ主題歌&キャラソン大全集](https://open.spotify.com/album/7JMovRguegwVoP29vemjTE) | 4:12 | 2022-04-10 | 2022-07-29 |
@@ -65,7 +66,7 @@
 | [恋しさと せつなさと 心強さと](https://open.spotify.com/track/7rxWdyCnDCzXuYwV28VTwd) | [Ryoko Shinohara](https://open.spotify.com/artist/2Ff8zALDdJVexxrBF9an2M), [Tetsuya Komuro](https://open.spotify.com/artist/0YXSqOpIseLknz8JjcX0UH) | [20 BEATS 20 TALES](https://open.spotify.com/album/1EftEeFHZho0h7Ow7Uy9KN) | 4:12 | 2022-05-27 |  |
 | [残酷な天使のテーゼ](https://open.spotify.com/track/3dDZFJSvdT9N2nNAdsE9j2) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [残酷な天使のテーゼ/FLY ME TO THE MOON](https://open.spotify.com/album/27ysS0QNhMKuq2UBBxu8d9) | 4:05 | 2022-04-10 | 2022-07-29 |
 | [残酷な天使のテーゼ](https://open.spotify.com/track/23phSRwoMy48rwFpmuAP8q) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [残酷な天使のテーゼ/魂のルフラン](https://open.spotify.com/album/0NxmNaFH5fLLTxxfS6Vp0K) | 4:07 | 2022-05-27 |  |
-| [笑顔が好きだから](https://open.spotify.com/track/1YaK1kIu6DANfG2CdxV4Y1) | [沢田聖子](https://open.spotify.com/artist/6vT1iz1bV6fPXBrOYwG83c) | [Folk Songs](https://open.spotify.com/album/5HSNYmUtncyz9BEQV35Lro) | 4:47 | 2022-04-10 |  |
+| [笑顔が好きだから](https://open.spotify.com/track/1YaK1kIu6DANfG2CdxV4Y1) | [沢田聖子](https://open.spotify.com/artist/6vT1iz1bV6fPXBrOYwG83c) | [Folk Songs](https://open.spotify.com/album/5HSNYmUtncyz9BEQV35Lro) | 4:47 | 2022-04-10 | 2022-08-31 |
 | [約束はいらない](https://open.spotify.com/track/0DU2Iw0OYOYPX4kMOZo2dl) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [グレープフルーツ](https://open.spotify.com/album/3DoNxjRSTZnR4NLrQZhTFO) | 3:32 | 2022-04-10 |  |
 | [葛飾ラプソディー](https://open.spotify.com/track/0Db5hjUbBwh3EdcuVRbMMj) | [Kôhei Dojima](https://open.spotify.com/artist/4xIGdXa6w9eWUoVnEsZNJ9) | [葛飾ラプソディー](https://open.spotify.com/album/2tJpQBIrw5JKRli1wBONs7) | 2:48 | 2022-04-10 |  |
 | [虚空の迷宮](https://open.spotify.com/track/6iLYqFCqUHz3rZjCngwG5F) | [Seikima\-II](https://open.spotify.com/artist/3xl8koA4X7WDnRYSmjYeDa) | [XXX \-THE ULTIMATE WORST\-](https://open.spotify.com/album/3MxXXbu522KmLythdd2ecq) | 4:18 | 2022-05-27 |  |

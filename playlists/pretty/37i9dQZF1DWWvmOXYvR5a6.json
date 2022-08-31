@@ -1,12 +1,12 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: IOHBOY(\uc544\uc774\uc624\ubcf4\uc774)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 155845,
+  "num_followers": 155756,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg5NjE5OSwwMDAwMDAwMDMwOWY2OGQwZWE4YjBjZDkwYjJiOTcyZmRiNDQ2NzBk",
+  "snapshot_id": "MTY2MDg5NjE5OSwwMDAwMDAwMGE1Yjk1ZTYyY2Y2NThiZDM2YzM5ODM4OWIyYzI3OTUz",
   "tracks": [
     {
       "added_at": "2022-08-19 08:03:19",
@@ -1243,34 +1243,6 @@
     {
       "added_at": "2022-08-19 08:03:19",
       "album": {
-        "name": "DAFT LOVE",
-        "url": "https://open.spotify.com/album/4SCzzeU2S6AyWEixWrvBjX"
-      },
-      "artists": [
-        {
-          "name": "BOYCOLD",
-          "url": "https://open.spotify.com/artist/3Rxm9TaXZGuQRw2B91Ap22"
-        },
-        {
-          "name": "sokodomo",
-          "url": "https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "BE'O",
-          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
-        }
-      ],
-      "duration_ms": 240760,
-      "name": "Salad Days (feat. sokodomo, pH-1 & BE'O)",
-      "url": "https://open.spotify.com/track/2MrBAJUseysxVN63HrPZL3"
-    },
-    {
-      "added_at": "2022-08-19 08:03:19",
-      "album": {
         "name": "Daisy",
         "url": "https://open.spotify.com/album/5q2S029pKo0xqtXQ2loeQA"
       },
@@ -1287,26 +1259,6 @@
       "duration_ms": 189480,
       "name": "Daisy (feat. pH-1)",
       "url": "https://open.spotify.com/track/2pIgqVUhK5KsNuoFBo6uoh"
-    },
-    {
-      "added_at": "2022-08-19 08:03:19",
-      "album": {
-        "name": "Epik High Is Here \u4e0b (Part 2)",
-        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
-      },
-      "artists": [
-        {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        },
-        {
-          "name": "Younha",
-          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
-        }
-      ],
-      "duration_ms": 252986,
-      "name": "Gray So Gray (Feat. Younha)",
-      "url": "https://open.spotify.com/track/6A4iYPzPVM4OSjIMgxMYnY"
     },
     {
       "added_at": "2022-08-19 08:03:19",
@@ -1331,6 +1283,54 @@
       "duration_ms": 257986,
       "name": "When I fall in love",
       "url": "https://open.spotify.com/track/24kQoMnicTBAYZzHUozStq"
+    },
+    {
+      "added_at": "2022-08-19 08:03:19",
+      "album": {
+        "name": "Epik High Is Here \u4e0b (Part 2)",
+        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        }
+      ],
+      "duration_ms": 252986,
+      "name": "Gray So Gray (Feat. Younha)",
+      "url": "https://open.spotify.com/track/6A4iYPzPVM4OSjIMgxMYnY"
+    },
+    {
+      "added_at": "2022-08-19 08:03:19",
+      "album": {
+        "name": "DAFT LOVE",
+        "url": "https://open.spotify.com/album/4SCzzeU2S6AyWEixWrvBjX"
+      },
+      "artists": [
+        {
+          "name": "BOYCOLD",
+          "url": "https://open.spotify.com/artist/3Rxm9TaXZGuQRw2B91Ap22"
+        },
+        {
+          "name": "sokodomo",
+          "url": "https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        }
+      ],
+      "duration_ms": 240760,
+      "name": "Salad Days (feat. sokodomo, pH-1 & BE'O)",
+      "url": "https://open.spotify.com/track/2MrBAJUseysxVN63HrPZL3"
     },
     {
       "added_at": "2022-08-19 08:03:19",
@@ -1715,18 +1715,22 @@
     {
       "added_at": "2022-08-19 08:03:19",
       "album": {
-        "name": "MBT",
-        "url": "https://open.spotify.com/album/2XP5oAZ4KePlCQrdUKddn4"
+        "name": "HANG OUT : HIPHOPPLAYA COMPILATION ALBUM 2021 Part 3",
+        "url": "https://open.spotify.com/album/43gjv7pPlPUNcHN4DZ8ZHA"
       },
       "artists": [
         {
-          "name": "Huh",
-          "url": "https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM"
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        },
+        {
+          "name": "\uc720\ub77c(youra)",
+          "url": "https://open.spotify.com/artist/34IEklf9glx6MtP0IBjLbJ"
         }
       ],
-      "duration_ms": 142280,
-      "name": "MBT",
-      "url": "https://open.spotify.com/track/17wvYb3NN58riCL6wQJjFl"
+      "duration_ms": 189157,
+      "name": "HATE ME (feat. youra) (prod. WOOGIE)",
+      "url": "https://open.spotify.com/track/5L2dd0GWhy2rXeGp0g5pnT"
     },
     {
       "added_at": "2022-08-19 08:03:19",
@@ -1763,22 +1767,18 @@
     {
       "added_at": "2022-08-19 08:03:19",
       "album": {
-        "name": "HANG OUT : HIPHOPPLAYA COMPILATION ALBUM 2021 Part 3",
-        "url": "https://open.spotify.com/album/43gjv7pPlPUNcHN4DZ8ZHA"
+        "name": "MBT",
+        "url": "https://open.spotify.com/album/2XP5oAZ4KePlCQrdUKddn4"
       },
       "artists": [
         {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        },
-        {
-          "name": "\uc720\ub77c(youra)",
-          "url": "https://open.spotify.com/artist/34IEklf9glx6MtP0IBjLbJ"
+          "name": "Huh",
+          "url": "https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM"
         }
       ],
-      "duration_ms": 189157,
-      "name": "HATE ME (feat. youra) (prod. WOOGIE)",
-      "url": "https://open.spotify.com/track/5L2dd0GWhy2rXeGp0g5pnT"
+      "duration_ms": 142280,
+      "name": "MBT",
+      "url": "https://open.spotify.com/track/17wvYb3NN58riCL6wQJjFl"
     },
     {
       "added_at": "2022-08-19 08:03:19",
@@ -1819,6 +1819,22 @@
     {
       "added_at": "2022-08-19 08:03:19",
       "album": {
+        "name": "Movie",
+        "url": "https://open.spotify.com/album/7JI0lmKDgLtLwSDT9qvaBH"
+      },
+      "artists": [
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        }
+      ],
+      "duration_ms": 210870,
+      "name": "Movie",
+      "url": "https://open.spotify.com/track/2IFOq1jRSOmJShJncT9FGn"
+    },
+    {
+      "added_at": "2022-08-19 08:03:19",
+      "album": {
         "name": "DAFT LOVE",
         "url": "https://open.spotify.com/album/4SCzzeU2S6AyWEixWrvBjX"
       },
@@ -1839,22 +1855,6 @@
       "duration_ms": 166026,
       "name": "Breezy~ (feat. BIG Naughty & Kid Milli)",
       "url": "https://open.spotify.com/track/2lJmi3TMCA28VbvXID8HIM"
-    },
-    {
-      "added_at": "2022-08-19 08:03:19",
-      "album": {
-        "name": "Movie",
-        "url": "https://open.spotify.com/album/7JI0lmKDgLtLwSDT9qvaBH"
-      },
-      "artists": [
-        {
-          "name": "PENOMECO",
-          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
-        }
-      ],
-      "duration_ms": 210870,
-      "name": "Movie",
-      "url": "https://open.spotify.com/track/2IFOq1jRSOmJShJncT9FGn"
     },
     {
       "added_at": "2022-08-19 08:03:19",
@@ -1967,18 +1967,22 @@
     {
       "added_at": "2022-08-19 08:03:19",
       "album": {
-        "name": "Freaky",
-        "url": "https://open.spotify.com/album/1Z55bFaYwBmghHzXTpqWYp"
+        "name": "ROOM SERVICE",
+        "url": "https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0"
       },
       "artists": [
         {
-          "name": "Mirani",
-          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
+          "name": "GroovyRoom",
+          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
+        },
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
         }
       ],
-      "duration_ms": 173960,
-      "name": "Freaky (Prod. GroovyRoom)",
-      "url": "https://open.spotify.com/track/4dDRXGfTI5mWBnDuVRxTLe"
+      "duration_ms": 195078,
+      "name": "City Life",
+      "url": "https://open.spotify.com/track/3yp1VIzV5AjvvzzrgJ18SM"
     }
   ],
   "unique_name": "TrenChill K-Hip Hop",

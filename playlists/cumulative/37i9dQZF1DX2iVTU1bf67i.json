@@ -323,7 +323,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 371706,
       "name": "Billie's Bounce",
       "url": "https://open.spotify.com/track/1m8PJngdS7nq8feouF62SH"
@@ -581,7 +581,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-18",
+      "date_removed": null,
       "duration_ms": 145533,
       "name": "Comes Love",
       "url": "https://open.spotify.com/track/4RCIJZQ866qGKz0tefgYYt"
@@ -1345,7 +1345,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-11",
+      "date_removed": null,
       "duration_ms": 208906,
       "name": "I Wished On The Moon",
       "url": "https://open.spotify.com/track/7cbfKO5rp9BkGRpTs0uuY3"
@@ -2099,7 +2099,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 175493,
       "name": "Long Ago (And Far Away) - Remastered",
       "url": "https://open.spotify.com/track/25ijsdTAjtmPNkGXIscaSe"
@@ -2753,7 +2753,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-27",
+      "date_removed": null,
       "duration_ms": 301586,
       "name": "Satin Doll",
       "url": "https://open.spotify.com/track/4pBk0rIzVgAFvVxnM9WQoH"
@@ -3017,7 +3017,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 312413,
       "name": "Stompin' At The Savoy",
       "url": "https://open.spotify.com/track/4Vlx6e5XTN3aQ9MjUF1p6q"
@@ -3078,6 +3078,28 @@
     },
     {
       "album": {
+        "name": "Satchmo In Style",
+        "url": "https://open.spotify.com/album/39pZKbuS93KkNXwLsYCmQ7"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Gordon Jenkins Orchestra And Choir",
+          "url": "https://open.spotify.com/artist/4DFtmixDoblcLyzmQK0Y2I"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182506,
+      "name": "That Lucky Old Sun (Just Rolls Around Heaven All Day) - Single Version",
+      "url": "https://open.spotify.com/track/2qioTZNYxZawZMTuL5TEXv"
+    },
+    {
+      "album": {
         "name": "Getz Meets Mulligan In Hi-Fi",
         "url": "https://open.spotify.com/album/790iHphSpmNDWfcha7SAx0"
       },
@@ -3093,7 +3115,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 359960,
       "name": "That Old Feeling",
       "url": "https://open.spotify.com/track/245pAQ58ASfZuni9VedL7P"
@@ -3397,7 +3419,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 187560,
       "name": "This Year's Kisses (with Teddy Wilson & His Orchestra)",
       "url": "https://open.spotify.com/track/5g0MM8pdWqW1tSjvPwyigh"
@@ -3505,7 +3527,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 368093,
       "name": "Too Close For Comfort",
       "url": "https://open.spotify.com/track/4Qv9LV0XE6t8DzqtqGTiV8"
@@ -3660,6 +3682,24 @@
     },
     {
       "album": {
+        "name": "Guess Who I Saw Today: Nancy Wilson Sings Of Lost Love",
+        "url": "https://open.spotify.com/album/7fGdb78uJ9pBSj65kTXDBz"
+      },
+      "artists": [
+        {
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178693,
+      "name": "When Sunny Gets Blue - Remastered",
+      "url": "https://open.spotify.com/track/3T4bj6wgXWe5K6vKp3JbLl"
+    },
+    {
+      "album": {
         "name": "Highlights From His Decca Years",
         "url": "https://open.spotify.com/album/0OdoPgKwi6l3paYTSFAWkS"
       },
@@ -3779,7 +3819,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 360133,
       "name": "Yesterdays",
       "url": "https://open.spotify.com/track/4GlQQ5hDC6HMnArUvrgva3"

@@ -4,7 +4,7 @@
 
 > Listen the 00's best collection of K\-Pop dance\. \(Cover: 2NE1\) \(2000년대를 수 놓았던 케이팝 댄스곡들을 즐겨보세요!\)
 
-160 songs - 9 hr 31 min - [published](https://open.spotify.com/playlist/0rClSBTsn8sf5B9eX9AaIM)
+161 songs - 9 hr 34 min - [published](https://open.spotify.com/playlist/0rClSBTsn8sf5B9eX9AaIM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Dejavu](https://open.spotify.com/track/4Q4JDOphODwPg9QcFqiPyN) | [SS501](https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e) | [Dejavu \(Single\)](https://open.spotify.com/album/2HpU5ApLkQsMwLnpsrSo5c) | 3:32 | 2022-04-19 |  |
 | [Dirty Cash](https://open.spotify.com/track/2tkG7OyKAhTOriOfHlLPo9) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BIGBANG Vol\. 1](https://open.spotify.com/album/4wvNjlQKwJv7L8FB6Y4ivZ) | 3:14 | 2022-04-19 | 2022-05-25 |
 | [DIVA](https://open.spotify.com/track/2zpQSMe7xEFeSdGNoFLWl8) | [After School](https://open.spotify.com/artist/1loWI8jVk9btgJXHgqHXPD) | [Diva](https://open.spotify.com/album/7DYlr2x4oRyg23zFQOsGG9) | 3:18 | 2022-04-19 | 2022-08-20 |
+| [DIVA](https://open.spotify.com/track/7AAyzxwoFaL55IJMJVn2Oh) | [After School](https://open.spotify.com/artist/1loWI8jVk9btgJXHgqHXPD) | [Diva](https://open.spotify.com/album/0ODnOMPVDNZki1DMnh6hwh) | 3:18 | 2022-04-19 |  |
 | [Electric Shock](https://open.spotify.com/track/7tMN6iGJMulMFpSCeU7pmU) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [Electric Shock \- The 2nd Mini Album](https://open.spotify.com/album/7LVMjDwcyhVhDTHddKPjIs) | 3:16 | 2022-04-19 |  |
 | [Falling In Love](https://open.spotify.com/track/2Jj05yf4C9PWgH7xQuVNIm) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [Falling In Love](https://open.spotify.com/album/5qleO7H9bcv7NSdrFwUO6v) | 3:46 | 2022-04-19 |  |
 | [Falling in Love](https://open.spotify.com/track/2oka7JFVuzimrhZxanlNox) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [Falling in Love](https://open.spotify.com/album/7MLw9OJsN5b9GLuYshHzRx) | 3:46 | 2022-04-19 | 2022-07-29 |
@@ -65,7 +66,7 @@
 | [HAPPY](https://open.spotify.com/track/2XkDyGlKF2oM7JEhOUDC2J) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [CRUSH](https://open.spotify.com/album/6Eqd0eQ19NHqkjI17ISfnu) | 3:36 | 2022-04-19 | 2022-07-29 |
 | [Haru Haru](https://open.spotify.com/track/1L4d2lafz1odpIMe8va21X) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Stand Up](https://open.spotify.com/album/0NB6IIwQeRDzNFCU22LQto) | 4:16 | 2022-04-19 |  |
 | [Haru Haru](https://open.spotify.com/track/0qQBuGsT79rKtmmfC0V38x) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Stand Up](https://open.spotify.com/album/0yz5ipZ8LshvZl1nxcUpBE) | 4:16 | 2022-04-19 | 2022-07-29 |
-| [Heartbeat](https://open.spotify.com/track/21OCDGhJavcSwMWw4uaepy) | [2PM](https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS) | [Member's Selection](https://open.spotify.com/album/6b9ZAm9lzsF3aVBKAdrEf3) | 3:13 | 2022-04-19 |  |
+| [Heartbeat](https://open.spotify.com/track/21OCDGhJavcSwMWw4uaepy) | [2PM](https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS) | [Member's Selection](https://open.spotify.com/album/6b9ZAm9lzsF3aVBKAdrEf3) | 3:13 | 2022-04-19 | 2022-08-31 |
 | [Hey You](https://open.spotify.com/track/2XXXPN8xMAR9kot7S0GLbE) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [EAR FUN](https://open.spotify.com/album/1T6afD49NhOiQVSc4Srwtk) | 3:56 | 2022-04-19 |  |
 | [Hi Ya Ya 여름날](https://open.spotify.com/track/5lC4gziKMPSihnedZbwAEn) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [Hi Ya Ya 여름날](https://open.spotify.com/album/75D7tsP1Lv8FIkTDHqgR2H) | 3:31 | 2022-04-19 | 2022-07-21 |
 | [High High](https://open.spotify.com/track/00Luoss7SGaxzTEy94cfia) | [GD&TOP](https://open.spotify.com/artist/3e3oLJehq4vQl2H0FAJnvn) | [GD&TOP](https://open.spotify.com/album/6M11igFHxA92s2ks2uqu6F) | 3:06 | 2022-04-19 |  |

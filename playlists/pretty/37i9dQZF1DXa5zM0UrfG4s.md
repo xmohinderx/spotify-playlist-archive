@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > Spillelisten som byr på en rekke bøgdebangers du liker å spelle i kjerra! Cover: Den BB & Oskar Westerlin
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,544 likes - 70 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,569 likes - 70 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,10 +60,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 50 | [Svensk i kväll](https://open.spotify.com/track/0C2UfLRDNB0oOt8nYyJRYu) | [Helene Olafsen](https://open.spotify.com/artist/74LbOioJUqae6mkQ9wDiDN), [Norges Nye Megahit](https://open.spotify.com/artist/35kBMx0nauaGZIhWESWrc5) | [Svensk i kväll](https://open.spotify.com/album/4XdVxdRjQoooI2KSapG1YX) | 2:04 |
 | 51 | [MILLION](https://open.spotify.com/track/1BN63Kxnw30peKSp5xLVNl) | [KLØBB x FEED](https://open.spotify.com/artist/2MnF2E84PKJiRM88LfP1Gu), [Mr\. Millionish](https://open.spotify.com/artist/1HhLrlaAvKHqM1e6Lew5Ii) | [MILLION](https://open.spotify.com/album/0sCju8X4V2Ys9cRT2fuKY9) | 2:00 |
 | 52 | [Kentucky](https://open.spotify.com/track/0yx17H9TNoUkDpRCTxjsQs) | [Donkeyboy](https://open.spotify.com/artist/0UACE2nWl5uUyJRo1kIYQO) | [Kentucky](https://open.spotify.com/album/4eGVVt1QCfPHoGGTK3dOS7) | 2:43 |
-| 53 | [Jag är taggad](https://open.spotify.com/track/7F05vRdjrBljwevx0lwvZM) | [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu) | [Jag är taggad](https://open.spotify.com/album/1W0E6v9QnzzS9IWs5Rwpoz) | 2:16 |
+| 53 | [Livet på bøgda](https://open.spotify.com/track/5W1Aap840SZeiSyU2rK912) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb) | [Livet på bøgda](https://open.spotify.com/album/0ZOlf5ki6keYctTeoxR5tv) | 2:33 |
 | 54 | [Hytta Mi](https://open.spotify.com/track/7y2Zz2AytRttQLdCjwRQ15) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Hytta Mi](https://open.spotify.com/album/5JRkrEQSgGTQqjSYDDk4Oc) | 2:18 |
 | 55 | [Vakker og vill](https://open.spotify.com/track/3GDZfYNvBVFfh3DER8F4iW) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Vakker og vill](https://open.spotify.com/album/3Cfg2JAQxBaLTMDfecHAGj) | 3:46 |
-| 56 | [Livet på bøgda](https://open.spotify.com/track/5W1Aap840SZeiSyU2rK912) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb) | [Livet på bøgda](https://open.spotify.com/album/0ZOlf5ki6keYctTeoxR5tv) | 2:33 |
+| 56 | [Jag är taggad](https://open.spotify.com/track/7F05vRdjrBljwevx0lwvZM) | [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu) | [Jag är taggad](https://open.spotify.com/album/1W0E6v9QnzzS9IWs5Rwpoz) | 2:16 |
 | 57 | [Besseggen](https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Besseggen](https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw) | 2:45 |
 | 58 | [Muggene Er Megasvære \(Elsker Øl\)](https://open.spotify.com/track/2WGnDmEVAhElhPH9WGtmGK) | [DJ Anton](https://open.spotify.com/artist/3MPjnETEr8lNQAEk05Pxg8), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Staysman & Lazz](https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq) | [Muggene Er Megasvære \(Elsker Øl\)](https://open.spotify.com/album/4wURA9nH08GrDdKEdw1pkw) | 2:52 |
 | 59 | [18 ÅR \(Vennepunktet\)](https://open.spotify.com/track/2NIFOonQvvqYNWzObCFFh8) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [18 ÅR \(Vennepunktet\)](https://open.spotify.com/album/1SfB3H7a92iIff63XWUOz3) | 2:57 |
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 63 | [Sånn So Det Va Før](https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ) | [Vassendgutane](https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2) | [Sånn So Det Va Før](https://open.spotify.com/album/2rFaiP1auuPxt7AdDRwnDm) | 4:38 |
 | 64 | [Levva Livet](https://open.spotify.com/track/56C8jz11WNH1PM677aq6ez) | [Åge Aleksandersen](https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz) | [Levva Livet!](https://open.spotify.com/album/00m8339CymX4adXiATrT7e) | 4:34 |
 | 65 | [En Siste Gang](https://open.spotify.com/track/6tt3Na8Vjw1H2fCUcUivi5) | [Staysman & Lazz](https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [Helt Sykt VOL2](https://open.spotify.com/album/6JsrkSrKeMMpnUpq5tTLtA) | 3:05 |
-| 66 | [Wellerman](https://open.spotify.com/track/4rFhv1bOt5M7rRa83KEY71) | [Cir.Cuz](https://open.spotify.com/artist/2FHOS0GkJv3EyT8a9BhP9E) | [Wellerman](https://open.spotify.com/album/6yNcSpbsvKajZWEOANv9NR) | 2:31 |
-| 67 | [FRATERNITY](https://open.spotify.com/track/7wcbaD93iX2uIcP1X9oDKq) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ) | [FRATERNITY](https://open.spotify.com/album/6MG2YTCUxJnihyrrFOoA5I) | 2:06 |
+| 66 | [FRATERNITY](https://open.spotify.com/track/7wcbaD93iX2uIcP1X9oDKq) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ) | [FRATERNITY](https://open.spotify.com/album/6MG2YTCUxJnihyrrFOoA5I) | 2:06 |
+| 67 | [Wellerman](https://open.spotify.com/track/4rFhv1bOt5M7rRa83KEY71) | [Cir.Cuz](https://open.spotify.com/artist/2FHOS0GkJv3EyT8a9BhP9E) | [Wellerman](https://open.spotify.com/album/6yNcSpbsvKajZWEOANv9NR) | 2:31 |
 | 68 | [GUTTA \(feat\. Plumbo\)](https://open.spotify.com/track/5DXX1gqh2B9pvK042sb3mE) | [Ole Hartz](https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI), [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [GUTTA \(feat\. Plumbo\)](https://open.spotify.com/album/1yypZTOVKtFi9Lnkb08H9x) | 2:38 |
 | 69 | [Du får aldri se meg naken igjen](https://open.spotify.com/track/4GABBQMuh1RMA2VPe1Uzud) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Du får aldri se meg naken igjen](https://open.spotify.com/album/4SVHYtGKfALHqpFnBqIKsX) | 2:47 |
 | 70 | [Hva skjedde nå?](https://open.spotify.com/track/3MU7bSZdfMWg44OhS0SOej) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [Hva skjedde nå?](https://open.spotify.com/album/0s43Es79OPnqCYLj27eFUv) | 3:53 |
 
-Snapshot ID: `MTY2MTQ2NDg2MCwwMDAwMDAwMGNlNmMxYzkwOTUyMTI1M2Y2Yjc3OTdmZmUyOGY3ZmZi`
+Snapshot ID: `MTY2MTQ2NDg2MCwwMDAwMDAwMDI0YWYxZDI3ZTUxZWE1YzExNDA3NmYyMDBlZWViNDA4`

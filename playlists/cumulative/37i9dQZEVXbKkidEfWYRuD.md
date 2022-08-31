@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-822 songs - 1 day 14 hr 18 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
+823 songs - 1 day 14 hr 20 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Astronaut In The Ocean](https://open.spotify.com/track/3VT8hOC5vuDXBsHrR53WFh) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronaut In The Ocean](https://open.spotify.com/album/57UjGWNfxfsBCykDm73XBK) | 2:12 | 2021-03-27\* | 2021-05-30 |
 | [AYОЙ](https://open.spotify.com/track/1lf0coB1tmgEcGHBHoArJA) | [Boulevard Depo](https://open.spotify.com/artist/7dH8w9flSy9w81ilr0xXWe) | [AYОЙ](https://open.spotify.com/album/42LzQaGa6yM1RnEi8Ua3bQ) | 2:20 | 2022-08-20 | 2022-08-22 |
 | [Baby mama](https://open.spotify.com/track/5X33A2X2OuQXUOKhawWCMm) | [Skryptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn), [Райда](https://open.spotify.com/artist/06j0PdOWS31kMCmfxsCwg9) | [Baby mama](https://open.spotify.com/album/7o0T8sLI46zoWURcX0NFdT) | 3:51 | 2021-07-29 | 2022-02-26 |
+| [Back to Life \(Birthdae\)](https://open.spotify.com/track/4rirIXfDRE3G9buCYVuk2V) | [ScurtDae](https://open.spotify.com/artist/3asPo62n9VYDmN6FIkCcEk) | [Back to Life \(Birthdae\)](https://open.spotify.com/album/2gMFfEXe4sUSs4e5SguEzy) | 2:37 | 2022-08-30 |  |
 | [Back to Life \(Birthdae\)](https://open.spotify.com/track/4iGKPU8XBlsUoOoyvsFhLw) | [ScurtDae](https://open.spotify.com/artist/3asPo62n9VYDmN6FIkCcEk) | [Back to Life \(Birthdae\)](https://open.spotify.com/album/6caxt5SHHvkw9hfTMMgRgt) | 2:37 | 2022-08-18 | 2022-08-20 |
 | [Bad Habits](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:50 | 2021-10-31 | 2021-11-02 |
 | [Bad Habits](https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits](https://open.spotify.com/album/01NhUvviMytvV12pmJiDZH) | 3:51 | 2021-06-27 | 2021-10-16 |
@@ -216,7 +217,7 @@
 | [Mazzaleen](https://open.spotify.com/track/6PQu0Z6jxOIKzAorA66ma2) | [lil krystalll](https://open.spotify.com/artist/2cYbwKKlCOv5VaoU9DZwGA) | [Mazzaleen](https://open.spotify.com/album/2am2JEnLQQYKdJfnvV9idp) | 2:55 | 2021-11-06 | 2021-11-28 |
 | [MB](https://open.spotify.com/track/12ocwJemQ5rwxK1i5b8yLj) | [OBLADAET](https://open.spotify.com/artist/1hwKCeSXpLrh4OQND6iQHw), [lil krystalll](https://open.spotify.com/artist/2cYbwKKlCOv5VaoU9DZwGA) | [MB](https://open.spotify.com/album/298NaH1yPfmezEratWzMvY) | 3:36 | 2022-08-27 | 2022-08-29 |
 | [MC Taxi](https://open.spotify.com/track/7liCjKKDGE48mWjwWVaEAF) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW) | [FREERIO 2](https://open.spotify.com/album/4Bxc3xz4eRLzZBfluYRfiP) | 1:07 | 2022-04-30 | 2022-05-02 |
-| [Me Gustas Tu](https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Próxima Estación: Esperanza](https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo) | 3:59 | 2022-08-07 |  |
+| [Me Gustas Tu](https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Próxima Estación: Esperanza](https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo) | 3:59 | 2022-08-07 | 2022-08-31 |
 | [Met Him Last Night \(feat\. Ariana Grande\)](https://open.spotify.com/track/4yyX2Iu4xJjW9xMvBZKSBi) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dancing With The Devil…The Art of Starting Over \(Expanded Edition\)](https://open.spotify.com/album/3XsdVkuj3zMVHPRvodOgeE) | 3:24 | 2021-04-04 | 2021-04-13 |
 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 | 2021-11-02 | 2022-07-24 |
 | [MIDNIGHT](https://open.spotify.com/track/2WzAAerBvZvvFXgUpSwHZ9) | [PLAYAMANE](https://open.spotify.com/artist/13itspgSHkUbOq03AhIyjS), [Nateki](https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1) | [MIDNIGHT](https://open.spotify.com/album/5nWRdZWdSXAMvLTZFxuD2W) | 2:01 | 2022-05-28 |  |

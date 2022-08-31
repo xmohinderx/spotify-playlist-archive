@@ -4,7 +4,7 @@
 
 > A mix of soulful, folksy, and beloved singer\-songwriter acoustic gems\. Cover: Noah Kahan
 
-321 songs - 19 hr 23 min - [published](https://open.spotify.com/playlist/7bUcek1mMNSNQXUd5BDskV)
+322 songs - 19 hr 26 min - [published](https://open.spotify.com/playlist/7bUcek1mMNSNQXUd5BDskV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [Issues \- Acoustic](https://open.spotify.com/track/4TqiKcUUvK7y6x6JG5NpJX) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Issues \(Acoustic\)](https://open.spotify.com/album/3VJx9QYw43oSfSBaHCUXYC) | 2:55 | 2022-03-25 |  |
 | [July](https://open.spotify.com/track/6J2LdBN97cDWn0MLxYh9HB) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [THE END OF EVERYTHING](https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5) | 2:36 | 2021-10-13 | 2022-03-26 |
 | [Jungle](https://open.spotify.com/track/4QEaE0Yj9oCvCzehPlZ1On) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Notion \- EP](https://open.spotify.com/album/6Q8uLEsBvhdeD96eOOJkN0) | 5:15 | 2022-03-25 | 2022-04-21 |
-| [Keeping The Light On](https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Keeping The Light On](https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04) | 3:43 | 2022-02-04 |  |
+| [Keeping The Light On](https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Keeping The Light On](https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04) | 3:43 | 2022-02-04 | 2022-08-31 |
 | [King \- Acoustic](https://open.spotify.com/track/1zZDoGaxzbO2f8aqLY1WBk) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Communion \(Deluxe\)](https://open.spotify.com/album/50jDQcZjE2kdx5rn3AL0c8) | 4:03 | 2022-03-25 | 2022-04-20 |
 | [Last Time \- Live At RAK](https://open.spotify.com/track/6yJQDasgfRQtIAQ7ZHbuDY) | [Liv Dawson](https://open.spotify.com/artist/7i8fq2gFSVgPdWVXOlDEx7) | [Last Time \(Live At RAK\)](https://open.spotify.com/album/18sXU8bUjd3YYTRbfKPTtK) | 3:22 | 2021-10-13 | 2022-01-07 |
 | [Latch \- Acoustic](https://open.spotify.com/track/44jGrgXzD1p1jCLTHrveg8) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Nirvana EP](https://open.spotify.com/album/5gPBPIX3VHPLVZkvGpvzKY) | 3:41 | 2022-03-25 | 2022-04-19 |
@@ -260,6 +260,7 @@
 | [Slow Dancing in a Burning Room \- Acoustic](https://open.spotify.com/track/3PSMcb1gU5A8DveqU2K4z2) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Village Sessions](https://open.spotify.com/album/6DcQ0gH9Hxp42PvNBoo5gX) | 3:52 | 2021-10-13 |  |
 | [Smoke Filled Room \- Acoustic Session](https://open.spotify.com/track/0ncp94ULTBgS0U3GZD80AC) | [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA) | [Smoke Filled Room \(Acoustic Session\)](https://open.spotify.com/album/3VB0x2kFdt2T2ytvT3071d) | 3:09 | 2022-03-25 | 2022-04-20 |
 | [SNAP](https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof) | 2:59 | 2022-08-01 |  |
+| [SNAP](https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR) | 2:59 | 2022-08-30 |  |
 | [So My Darling \- Acoustic](https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling \(Acoustic\)](https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L) | 3:48 | 2022-02-10 |  |
 | [Something American](https://open.spotify.com/track/2a1V9QpXiVGHkb6m0vabRU) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Something American](https://open.spotify.com/album/6IX7qWEVCJ6gzbu18jIDon) | 3:03 | 2022-03-25 | 2022-04-18 |
 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 | 2022-06-17 |  |

@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Cover: NIKI.
 
-265 songs - 13 hr 51 min - [published](https://open.spotify.com/playlist/5NyuBYmYOJuxQT3ZVKo7pG)
+266 songs - 13 hr 54 min - [published](https://open.spotify.com/playlist/5NyuBYmYOJuxQT3ZVKo7pG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Madonna \(with Audrey Mika\)](https://open.spotify.com/track/7xU12s4CHm1wT2M3YMmCqg) | [Deux Twins](https://open.spotify.com/artist/7t39GP2opSKuK107Dp0Iae), [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Madonna \(with Audrey Mika\)](https://open.spotify.com/album/3Rrfdu8t7w0fn8h0c6YRwI) | 2:42 | 2022-07-01 |  |
 | [Make A Move](https://open.spotify.com/track/6OP5wEM3P6mFoDGmjM7EId) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y2](https://open.spotify.com/album/1o1Jc1rX5e2OVDZKcl6ukX) | 3:13 | 2022-05-27 |  |
 | [Making Me Sick!](https://open.spotify.com/track/0VTM61Pe3WBw79oEXTbhWE) | [SAMMii](https://open.spotify.com/artist/1QFyA2fQ8oYPgn6Mih9mrc) | [Making Me Sick!](https://open.spotify.com/album/5BR2hx0RWzvUJ2KfRksdo5) | 3:22 | 2022-05-27 | 2022-07-29 |
-| [Man Who Loves You](https://open.spotify.com/track/68dUmGSHlVI88mej6pb418) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Stay Proud of Me](https://open.spotify.com/album/5YSwTbPxb10MLaSU71w2y2) | 3:29 | 2022-07-22 |  |
+| [Man Who Loves You](https://open.spotify.com/track/68dUmGSHlVI88mej6pb418) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Stay Proud of Me](https://open.spotify.com/album/5YSwTbPxb10MLaSU71w2y2) | 3:29 | 2022-07-22 | 2022-08-31 |
 | [Marigold](https://open.spotify.com/track/0xtRShSDM9MNsaARH6hJkF) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Marigold](https://open.spotify.com/album/6lXwCrLRKIaAW3xxKMXnze) | 4:05 | 2022-06-10 | 2022-06-22 |
 | [MCQUEEN](https://open.spotify.com/track/7uCtaXvAbJ89VlyWvL7qlM) | [Yoshi T.](https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0) | [MCQUEEN](https://open.spotify.com/album/3yyyEi7BGK3IAqQRLU5IXc) | 2:39 | 2022-07-22 |  |
 | [Me & Mrs\. Wong](https://open.spotify.com/track/0v0iiy4gktlrDWb6P0w1Xx) | [Slodown](https://open.spotify.com/artist/3bdade2XqS9F4378nhCNcl), [Dumbfoundead](https://open.spotify.com/artist/7LTShHcq1KdTrWeLvWoYed) | [Me & Mrs\. Wong](https://open.spotify.com/album/416QmA6TRGNkxjKp4i9b8b) | 3:50 | 2022-05-27 | 2022-07-29 |
@@ -226,6 +226,7 @@
 | [Somehow We Lost It All](https://open.spotify.com/track/0g66FWakF5IcElzf6ATayB) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Pham](https://open.spotify.com/artist/2GH5uRMxmuAWn90B8DEZU3), [josh pan](https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD) | [Somehow We Lost It All](https://open.spotify.com/album/3fIiWSfrNefw3VTA0buoq4) | 2:59 | 2022-07-22 | 2022-08-13 |
 | [Space](https://open.spotify.com/track/0CtFIDCGTfn34IBYKkApU3) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Space](https://open.spotify.com/album/2wlUiuYslbNLsbsRHy08U9) | 3:13 | 2022-05-27 |  |
 | [Spirits](https://open.spotify.com/track/60T49w6pqDRRVJQ2hWUd1c) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Spirits](https://open.spotify.com/album/546Fl3Gns3Fttgm5bdRO1Y) | 3:14 | 2022-05-27 | 2022-06-25 |
+| [Splinter](https://open.spotify.com/track/4iKfmaKGc59LZXQNK7nAgf) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Splinter](https://open.spotify.com/album/5xQJYeIxVY2xJngtdtGz11) | 2:47 | 2022-08-26 |  |
 | [Split](https://open.spotify.com/track/7AE1oyRpPGoSwDs8b9XBO0) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Split](https://open.spotify.com/album/7uAHGGN6s8u1BwkA3uKYiQ) | 3:27 | 2022-05-27 |  |
 | [SPOILED BITCH](https://open.spotify.com/track/3agccBcICCxc1WWkG3XuvE) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [SPOILED BITCH](https://open.spotify.com/album/7lxXHaz0xtxwWxMZn0GN53) | 2:20 | 2022-05-27 |  |
 | [Starbright \(Elephante Remix\)](https://open.spotify.com/track/6PJkaKTuQGaV2d58gLBT30) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT), [Elephante](https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G) | [Between Broken \(Remixes\)](https://open.spotify.com/album/1MAQMXIZykkJ62jdQpA3xH) | 3:42 | 2022-07-22 |  |

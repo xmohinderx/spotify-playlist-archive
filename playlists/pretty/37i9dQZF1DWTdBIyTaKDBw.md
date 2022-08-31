@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 
 > Enjoy your happy eating time with Korean theme! \(사랑스러운 음악들과 행복한 식사 시간을 가져보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,853 likes - 70 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,911 likes - 70 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 | 9 | [Privacy](https://open.spotify.com/track/4WxthDZgaQqmj5tIuneDNX) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Bambi \- The 3rd Mini Album](https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p) | 3:07 |
 | 10 | [Best Friend \(with SEULGI\)](https://open.spotify.com/track/0F9Xy6OTbkqOv94pklkwKu) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Like Water \- The 1st Mini Album](https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7) | 3:30 |
 | 11 | [Another Day](https://open.spotify.com/track/30YeoWowzWypZNSl6WNXAR) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) | 2:46 |
-| 12 | [Think About' Chu](https://open.spotify.com/track/3e0VhBdgJLUhI1ErcrY64B) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Boys And Girls Music, Vol\. 1](https://open.spotify.com/album/7JHMwCyGG1plb2QGOXSHB6) | 3:59 |
+| 12 | [Think About' Chu](https://open.spotify.com/track/3e0VhBdgJLUhI1ErcrY64B) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Boys and Girls Music Vol.1](https://open.spotify.com/album/7JHMwCyGG1plb2QGOXSHB6) | 3:59 |
 | 13 | [Lyricist](https://open.spotify.com/track/1eEHOnrNLP46aGKLb1LtMI) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Lyricist](https://open.spotify.com/album/6igUyuDlRCyjoTtPXui6bT) | 3:16 |
 | 14 | [Rain](https://open.spotify.com/track/5n368tNF47S70THlmpaGLf) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Rain](https://open.spotify.com/album/0pLInB6G2NXR87Pwi4O3dQ) | 3:57 |
 | 15 | [Thought Of You](https://open.spotify.com/track/71D25BGzsq5OxlENZnq9N0) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [Thought Of You](https://open.spotify.com/album/0K90xZWqXh0XyozCkQXu13) | 3:50 |
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 | 23 | [Give Me Your](https://open.spotify.com/track/39wNZpYE66vs3FlqMyhMYA) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I made](https://open.spotify.com/album/479xGDGrqMXN8YLmJMEoTG) | 3:40 |
 | 24 | [Sipping My life \(Bonus Track\)](https://open.spotify.com/track/1ndZ37FOUNqW7PNWYJvPYk) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [INNER CHILD](https://open.spotify.com/album/3RlXW94RoRIrAOLMGxUUTg) | 3:46 |
 | 25 | [NO WAY](https://open.spotify.com/track/0jA0TihvVbPHgrIcHbW1Og) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [G.Soul](https://open.spotify.com/artist/0fLesFHNsJpalRtqzSYxnd) | [24℃](https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5) | 4:16 |
-| 26 | [Autumn Breeze](https://open.spotify.com/track/1e5qALs3pDrv203jX0XWAC) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Autumn Breeze \(re;code Episode Ⅶ\)](https://open.spotify.com/album/5suwcs77vgb6DSRaqabylj) | 3:39 |
+| 26 | [Darling You](https://open.spotify.com/track/3j4QD9uSev2Uh1DeFMdMml) | [Bernard Park](https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv) | [ADAMAS, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/6dYluyaRdoGCOONJcEOa1k) | 2:29 |
 | 27 | [Sunshine](https://open.spotify.com/track/3GYmjbJ1EU4TOMEYuVMXu0) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Clé : LEVANTER](https://open.spotify.com/album/0st9OqpsKmmtwUz6cS14Fj) | 3:42 |
-| 28 | [Darling You](https://open.spotify.com/track/3j4QD9uSev2Uh1DeFMdMml) | [Bernard Park](https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv) | [ADAMAS, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/6dYluyaRdoGCOONJcEOa1k) | 2:29 |
+| 28 | [Autumn Breeze](https://open.spotify.com/track/1e5qALs3pDrv203jX0XWAC) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Autumn Breeze \(re;code Episode Ⅶ\)](https://open.spotify.com/album/5suwcs77vgb6DSRaqabylj) | 3:39 |
 | 29 | [It’s a different thing to love her and make her happy \(feat\. jeebanoff\)](https://open.spotify.com/track/16b6NsiIrMo33mr5Q3oZuS) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ), [jeebanoff](https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV) | [It’s a different thing to love her and make her happy \(feat\. jeebanoff\)](https://open.spotify.com/album/2kUvVgrFAkMf3Uc0VFdvWY) | 4:56 |
 | 30 | [Da Ra Da](https://open.spotify.com/track/5oBCC0WlEcwvFb2m0vtqr3) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL), [Jeff Bernat](https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u), [B.O.](https://open.spotify.com/artist/5zMKnGCFow1P0wm4J2if8t) | [Da Ra Da](https://open.spotify.com/album/5AQgoMCw6ioH1YphjOgjYN) | 3:57 |
 | 31 | [Missing you](https://open.spotify.com/track/24UgvaHnAvKOysqdkZ1B8L) | [FLY TO THE SKY](https://open.spotify.com/artist/7rlMZAZYtRkjFg4HHhvYeC) | [Back in Time](https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt) | 4:32 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 | 39 | [How Is It?](https://open.spotify.com/track/0kIAlFsKhfOmfaSnqFcX5R) | [Tarin](https://open.spotify.com/artist/4UEKXXZ65FBcAJPVerQjtO) | [How Is It?](https://open.spotify.com/album/6hbVMD8GqzaZsNd0SXAi5v) | 3:09 |
 | 40 | [Spring Is You](https://open.spotify.com/track/3Vv0IqW9jA8EDKd3iWNutD) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [Spring Is You](https://open.spotify.com/album/7FlkrvR9nOpNzd1zZ2hpeC) | 3:45 |
 | 41 | [Check\-In](https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5) | [ソヌ・ジョンア](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Seoul Check\-in OST Part 6](https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy) | 3:11 |
-| 42 | [Sugardance](https://open.spotify.com/track/3yq1iV9RwejrwebPyWnh6B) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Sweeet](https://open.spotify.com/album/7Io0qmAUvOmpo6pVGSFiIl) | 2:57 |
-| 43 | [안되나요](https://open.spotify.com/track/52JY05Ks2OsY3NQ3wjI9s1) | [Realslow](https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn) | [Like A Movie](https://open.spotify.com/album/5VJSRZsnE47eEGPKHyAA1Z) | 4:30 |
+| 42 | [안되나요](https://open.spotify.com/track/52JY05Ks2OsY3NQ3wjI9s1) | [Realslow](https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn) | [Like A Movie](https://open.spotify.com/album/5VJSRZsnE47eEGPKHyAA1Z) | 4:30 |
+| 43 | [Sugardance](https://open.spotify.com/track/3yq1iV9RwejrwebPyWnh6B) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Sweeet](https://open.spotify.com/album/7Io0qmAUvOmpo6pVGSFiIl) | 2:57 |
 | 44 | [Sea Of Love](https://open.spotify.com/track/02AThDf6z3YEYObZdqskyB) | [FLY TO THE SKY](https://open.spotify.com/artist/7rlMZAZYtRkjFg4HHhvYeC) | [Back in Time](https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt) | 4:15 |
 | 45 | [달콤한 빈말 \(feat\. 바버렛츠\) Sweet lies \(feat\. The Barberettes\)](https://open.spotify.com/track/3F6eSiAXmjfZpR0vUOoOzN) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [Bittersweet](https://open.spotify.com/album/3GugXnQJXNFzXCBNTZb02q) | 3:25 |
 | 46 | [Friendzone \(feat\. BIG Naughty\)](https://open.spotify.com/track/2rX3swM25DhNwg7mTjnzbG) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Friendzone](https://open.spotify.com/album/4WLwRi2w6XzOnCQfupjl2Q) | 3:42 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 | 69 | [사랑을 믿어요](https://open.spotify.com/track/3Qxoh4asAlkbzk5QffZjIS) | [JINWOOCHUL](https://open.spotify.com/artist/4xvPog1scf67ui3Lrb5FYZ) | [사랑을 믿어요](https://open.spotify.com/album/1B2UTfGDOuENmhHGnySfrO) | 3:39 |
 | 70 | [Dancing Universe](https://open.spotify.com/track/21GmIfb64BYbDSqCr5jf8K) | [Yoon Hyun Sang](https://open.spotify.com/artist/390z2RITWBFLpD6HTC5UV2) | [LOVER](https://open.spotify.com/album/5BYA62etDUYPIQZHbKizeu) | 4:25 |
 
-Snapshot ID: `MTY2MDMzMDUyOCwwMDAwMDAwMDNiMmI0ODI4MjQ5NmRmZTQ3MGYwNDk1ZjU3YmU4M2Q2`
+Snapshot ID: `MTY2MDMzMDUyOCwwMDAwMDAwMDEwZDZjNTNiNGQzZDcyZTJkNTU2MmJmYTUxZTA0YzVk`

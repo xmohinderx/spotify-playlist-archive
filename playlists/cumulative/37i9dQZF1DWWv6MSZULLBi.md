@@ -4,7 +4,7 @@
 
 > A laid\-back trip in the folk scene\. Cover: Ocie Elliott
 
-181 songs - 10 hr 47 min - [published](https://open.spotify.com/playlist/5U0EeaLNxWf1VoBuo6txNc)
+182 songs - 10 hr 50 min - [published](https://open.spotify.com/playlist/5U0EeaLNxWf1VoBuo6txNc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Bandages](https://open.spotify.com/track/32z65nCDfiHwd7Ly1AyN2t) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [Bandages](https://open.spotify.com/album/7qUzSfHicu7sV7EIflvMtR) | 2:54 | 2022-07-01 |  |
 | [Bathroom Light](https://open.spotify.com/track/71glNHT4FultOqlau4zrFf) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Bathroom Light](https://open.spotify.com/album/2lwaQXJpfIPNduWAN7w0vu) | 3:08 | 2022-06-03 |  |
 | [Beautifully Black](https://open.spotify.com/track/0EgaO4boPVHe3Kk1sNUdMB) | [Rahael](https://open.spotify.com/artist/3oldP3klCA3xONdq9IW6YJ) | [Beautifully Black](https://open.spotify.com/album/74Ps9MKdrjQwRHY4rryHCG) | 3:05 | 2022-05-13 | 2022-06-11 |
+| [Before the Fall](https://open.spotify.com/track/2KQmCj4MpTZUKyOVo2sGQZ) | [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [Afternoon Bike Ride](https://open.spotify.com/album/6JO6ME8KqaBNAzrJg05yZT) | 2:59 | 2022-08-30 |  |
 | [Begin Again](https://open.spotify.com/track/02TKEQYD6jLEB0cYpBflFE) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Begin Again](https://open.spotify.com/album/5XSgaLPBoAAno2FwKhaIHl) | 3:19 | 2022-05-13 | 2022-08-27 |
 | [Blue Heron](https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 4:28 | 2022-05-13 | 2022-05-28 |
 | [Call You in the Morning](https://open.spotify.com/track/6pmtIWAw69AvKnajOPGVtz) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Call You in the Morning](https://open.spotify.com/album/3IO0Epg4XkvOaES3dfTCXB) | 2:12 | 2022-06-10 | 2022-07-30 |
@@ -88,7 +89,7 @@
 | [Left Behind](https://open.spotify.com/track/1YtdAhBzYibqmqc6uILz8w) | [Noah Reid](https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT) | [Adjustments](https://open.spotify.com/album/4yUmdXZO5MItU75tgCDdaA) | 3:37 | 2022-06-24 |  |
 | [Let Go](https://open.spotify.com/track/6C4iAGKybEdevddZklaxpX) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Let Go](https://open.spotify.com/album/24lCE3skRS14egP6xhAIjr) | 3:02 | 2022-05-13 | 2022-08-30 |
 | [Let Me Drown](https://open.spotify.com/track/62hBYWGwzo2fb4THTsNnKA) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco](https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I) | 3:19 | 2022-05-13 | 2022-08-27 |
-| [Lost In The Water](https://open.spotify.com/track/3sW1rJ2twqyUKXu5iHqgGK) | [Adam Wendler](https://open.spotify.com/artist/3ea4XDPCrAm68rpImApb94) | [Lost In The Water](https://open.spotify.com/album/5nG0Wogo87eozwXnKHjXJ4) | 3:10 | 2022-07-01 |  |
+| [Lost In The Water](https://open.spotify.com/track/3sW1rJ2twqyUKXu5iHqgGK) | [Adam Wendler](https://open.spotify.com/artist/3ea4XDPCrAm68rpImApb94) | [Lost In The Water](https://open.spotify.com/album/5nG0Wogo87eozwXnKHjXJ4) | 3:10 | 2022-07-01 | 2022-08-31 |
 | [Lotusland](https://open.spotify.com/track/3sK6qdQsZvPjRkua3UrSGD) | [Jordan Klassen](https://open.spotify.com/artist/70QS2gTlkKW2rNjlmMBNp8) | [Glossolalia](https://open.spotify.com/album/66hCqmyDrUMjZrooeuG1PM) | 3:21 | 2022-05-13 |  |
 | [Love Is Selfish](https://open.spotify.com/track/5ZsJidhpJJ4qFhmp5h5oyk) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Love Is Selfish](https://open.spotify.com/album/3XzfsUkZx4TCGdchhJBI1A) | 2:52 | 2022-05-13 |  |
 | [Melbourne](https://open.spotify.com/track/3MKXWNCf5HuFnije8DleCS) | [Laura Lucas](https://open.spotify.com/artist/26C6XIcWyR8utyqb1wycyc) | [Melbourne](https://open.spotify.com/album/33RsBJcgXW6cIrBgoVfmWO) | 2:59 | 2022-08-26 |  |

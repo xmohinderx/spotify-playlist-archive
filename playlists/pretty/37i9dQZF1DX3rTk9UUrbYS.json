@@ -1,12 +1,12 @@
 {
   "description": "Avant-garde, experimental and free jazz.",
-  "num_followers": 34628,
+  "num_followers": 34584,
   "original_name": "Avant-Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMDcyMTFlN2VkZjNhNzZkMDhjYWZjNDg5ZjdhOGRkNWU4",
+  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMGM0NGE3ZjI0ZTZkZWRjNTIxNWQ0NmFkNjk5ZGY1YThi",
   "tracks": [
     {
       "added_at": "2020-08-25 21:55:35",
@@ -157,6 +157,26 @@
       "url": "https://open.spotify.com/track/0YJ6ZU7cl9hehdbCsYZrLB"
     },
     {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "Kasumi",
+        "url": "https://open.spotify.com/album/7x3EOysjR2aZfJ1YC19cT9"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Laubrock",
+          "url": "https://open.spotify.com/artist/4n3p3rphFq8JTS80phtOS0"
+        },
+        {
+          "name": "Aki Takase",
+          "url": "https://open.spotify.com/artist/09yacWNQY2fYjP3ubsmWTM"
+        }
+      ],
+      "duration_ms": 122142,
+      "name": "Kasumi",
+      "url": "https://open.spotify.com/track/4TY0ywSa4bGblUa4rGZmkU"
+    },
+    {
       "added_at": "2022-04-22 04:01:00",
       "album": {
         "name": "Agora Aqui",
@@ -179,26 +199,6 @@
       "duration_ms": 212416,
       "name": "Talvez Certamente",
       "url": "https://open.spotify.com/track/0rzdUxvmUEHIsC49PeTr6O"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "Kasumi",
-        "url": "https://open.spotify.com/album/7x3EOysjR2aZfJ1YC19cT9"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Laubrock",
-          "url": "https://open.spotify.com/artist/4n3p3rphFq8JTS80phtOS0"
-        },
-        {
-          "name": "Aki Takase",
-          "url": "https://open.spotify.com/artist/09yacWNQY2fYjP3ubsmWTM"
-        }
-      ],
-      "duration_ms": 122142,
-      "name": "Kasumi",
-      "url": "https://open.spotify.com/track/4TY0ywSa4bGblUa4rGZmkU"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -401,22 +401,6 @@
       "url": "https://open.spotify.com/track/2DBwIY8YEXqTKjUWFEvKbg"
     },
     {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "It's Hard",
-        "url": "https://open.spotify.com/album/6wvhtrGBFbkS8l0IMYLqZJ"
-      },
-      "artists": [
-        {
-          "name": "The Bad Plus",
-          "url": "https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6"
-        }
-      ],
-      "duration_ms": 261333,
-      "name": "Maps - Instrumental",
-      "url": "https://open.spotify.com/track/720v6LmyIQQq3NXxkLdCvi"
-    },
-    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "Bold Dream",
@@ -439,6 +423,22 @@
       "duration_ms": 372440,
       "name": "Bold Dream",
       "url": "https://open.spotify.com/track/0x9UCjrqI1D3pBeGDqxRk9"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "It's Hard",
+        "url": "https://open.spotify.com/album/6wvhtrGBFbkS8l0IMYLqZJ"
+      },
+      "artists": [
+        {
+          "name": "The Bad Plus",
+          "url": "https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6"
+        }
+      ],
+      "duration_ms": 261333,
+      "name": "Maps - Instrumental",
+      "url": "https://open.spotify.com/track/720v6LmyIQQq3NXxkLdCvi"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -513,22 +513,6 @@
       "url": "https://open.spotify.com/track/4SG33WjhoWeytudIUA6vMn"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "The Art of It",
-        "url": "https://open.spotify.com/album/06z73O9eHCki1W0obK08yA"
-      },
-      "artists": [
-        {
-          "name": "Piano Duo Trio",
-          "url": "https://open.spotify.com/artist/6o3hf6noFqTFUyboaJOD7Y"
-        }
-      ],
-      "duration_ms": 969642,
-      "name": "Roar of the Lyons",
-      "url": "https://open.spotify.com/track/3fvQYVKm4PFxOtHGVCfWOb"
-    },
-    {
       "added_at": "2020-09-18 04:02:00",
       "album": {
         "name": "The Unidentifiable",
@@ -543,6 +527,22 @@
       "duration_ms": 430053,
       "name": "The Unidentifiable",
       "url": "https://open.spotify.com/track/0dOzyVjUdcgQAUxcw8LJsx"
+    },
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "The Art of It",
+        "url": "https://open.spotify.com/album/06z73O9eHCki1W0obK08yA"
+      },
+      "artists": [
+        {
+          "name": "Piano Duo Trio",
+          "url": "https://open.spotify.com/artist/6o3hf6noFqTFUyboaJOD7Y"
+        }
+      ],
+      "duration_ms": 969642,
+      "name": "Roar of the Lyons",
+      "url": "https://open.spotify.com/track/3fvQYVKm4PFxOtHGVCfWOb"
     },
     {
       "added_at": "2020-10-23 19:03:00",
@@ -579,6 +579,22 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
+        "name": "Translinear Light",
+        "url": "https://open.spotify.com/album/3lJXKLvs6ZZrBDgje4cx8B"
+      },
+      "artists": [
+        {
+          "name": "Alice Coltrane",
+          "url": "https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr"
+        }
+      ],
+      "duration_ms": 382693,
+      "name": "Crescent",
+      "url": "https://open.spotify.com/track/5zRFHuczWKsSmtvMaLceXp"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
         "name": "Random Dances and (A)tonalities",
         "url": "https://open.spotify.com/album/3v6dasC9ywop1Kc9oPajzW"
       },
@@ -595,42 +611,6 @@
       "duration_ms": 344640,
       "name": "Joe Btfsplk",
       "url": "https://open.spotify.com/track/6KAn7LuDV3SYpINmzl8bMM"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "Translinear Light",
-        "url": "https://open.spotify.com/album/3lJXKLvs6ZZrBDgje4cx8B"
-      },
-      "artists": [
-        {
-          "name": "Alice Coltrane",
-          "url": "https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr"
-        }
-      ],
-      "duration_ms": 382693,
-      "name": "Crescent",
-      "url": "https://open.spotify.com/track/5zRFHuczWKsSmtvMaLceXp"
-    },
-    {
-      "added_at": "2021-11-19 05:02:00",
-      "album": {
-        "name": "Playing Retention",
-        "url": "https://open.spotify.com/album/0uOZ13KE48h7MMervUQHyf"
-      },
-      "artists": [
-        {
-          "name": "Daniel Carter",
-          "url": "https://open.spotify.com/artist/783kRxpzUwR6w8ggk2vUE4"
-        },
-        {
-          "name": "Jim Clouse",
-          "url": "https://open.spotify.com/artist/6Uh5YINky16BQvJ5KboFNp"
-        }
-      ],
-      "duration_ms": 458760,
-      "name": "Playing Retention",
-      "url": "https://open.spotify.com/track/3fWp8KYdXpJpdXODLXSnjE"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -669,6 +649,26 @@
       "url": "https://open.spotify.com/track/6Sz3J0ifbdSZoW8O2BIM1S"
     },
     {
+      "added_at": "2021-11-19 05:02:00",
+      "album": {
+        "name": "Playing Retention",
+        "url": "https://open.spotify.com/album/0uOZ13KE48h7MMervUQHyf"
+      },
+      "artists": [
+        {
+          "name": "Daniel Carter",
+          "url": "https://open.spotify.com/artist/783kRxpzUwR6w8ggk2vUE4"
+        },
+        {
+          "name": "Jim Clouse",
+          "url": "https://open.spotify.com/artist/6Uh5YINky16BQvJ5KboFNp"
+        }
+      ],
+      "duration_ms": 458760,
+      "name": "Playing Retention",
+      "url": "https://open.spotify.com/track/3fWp8KYdXpJpdXODLXSnjE"
+    },
+    {
       "added_at": "2020-08-25 21:55:35",
       "album": {
         "name": "Argonautica",
@@ -683,6 +683,46 @@
       "duration_ms": 2573175,
       "name": "Argonautica",
       "url": "https://open.spotify.com/track/0GJKX05V9I7tOtGeGlUkWA"
+    },
+    {
+      "added_at": "2020-10-02 04:02:00",
+      "album": {
+        "name": "On Common Ground",
+        "url": "https://open.spotify.com/album/3lIn198oIMwWzFw87l3eWK"
+      },
+      "artists": [
+        {
+          "name": "Mike Sopko",
+          "url": "https://open.spotify.com/artist/3XaoZGbtL3SZZALrWzPyed"
+        },
+        {
+          "name": "Bill Laswell",
+          "url": "https://open.spotify.com/artist/5RISqKCcrhGITX2TQAPGPL"
+        },
+        {
+          "name": "Tyshawn Sorey",
+          "url": "https://open.spotify.com/artist/0j2falzYTCLSgKpGKQipQu"
+        }
+      ],
+      "duration_ms": 476000,
+      "name": "Equation",
+      "url": "https://open.spotify.com/track/53BmPoPyhQwscQJcy32ly7"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "Poetry in Motion",
+        "url": "https://open.spotify.com/album/0Y20dYkp1wEb5d4lvLtOLW"
+      },
+      "artists": [
+        {
+          "name": "Conference Call",
+          "url": "https://open.spotify.com/artist/7nhPj7gM7iUwU72LPRtFx0"
+        }
+      ],
+      "duration_ms": 258333,
+      "name": "The Path",
+      "url": "https://open.spotify.com/track/4T5BNirZQn8jjEcjNPMnQ5"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -715,66 +755,6 @@
       "duration_ms": 334762,
       "name": "Prometheus",
       "url": "https://open.spotify.com/track/6McPJR3272275IfZti9RuC"
-    },
-    {
-      "added_at": "2020-10-02 04:02:00",
-      "album": {
-        "name": "On Common Ground",
-        "url": "https://open.spotify.com/album/3lIn198oIMwWzFw87l3eWK"
-      },
-      "artists": [
-        {
-          "name": "Mike Sopko",
-          "url": "https://open.spotify.com/artist/3XaoZGbtL3SZZALrWzPyed"
-        },
-        {
-          "name": "Bill Laswell",
-          "url": "https://open.spotify.com/artist/5RISqKCcrhGITX2TQAPGPL"
-        },
-        {
-          "name": "Tyshawn Sorey",
-          "url": "https://open.spotify.com/artist/0j2falzYTCLSgKpGKQipQu"
-        }
-      ],
-      "duration_ms": 476000,
-      "name": "Equation",
-      "url": "https://open.spotify.com/track/53BmPoPyhQwscQJcy32ly7"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "The Dorothy Wallace Suite",
-        "url": "https://open.spotify.com/album/2SRt058wErJ8zyNLdm4Zg5"
-      },
-      "artists": [
-        {
-          "name": "Ran Blake",
-          "url": "https://open.spotify.com/artist/5Oe2el698y8tac9DMvlI7o"
-        },
-        {
-          "name": "Kresten Osgood",
-          "url": "https://open.spotify.com/artist/41MI7s5qtXYNCp7Ev8T5LN"
-        }
-      ],
-      "duration_ms": 284333,
-      "name": "Symphony in Green",
-      "url": "https://open.spotify.com/track/28iVB0oZMjPgXxvNgx0gOC"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "Poetry in Motion",
-        "url": "https://open.spotify.com/album/0Y20dYkp1wEb5d4lvLtOLW"
-      },
-      "artists": [
-        {
-          "name": "Conference Call",
-          "url": "https://open.spotify.com/artist/7nhPj7gM7iUwU72LPRtFx0"
-        }
-      ],
-      "duration_ms": 258333,
-      "name": "The Path",
-      "url": "https://open.spotify.com/track/4T5BNirZQn8jjEcjNPMnQ5"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -823,6 +803,26 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
+        "name": "The Dorothy Wallace Suite",
+        "url": "https://open.spotify.com/album/2SRt058wErJ8zyNLdm4Zg5"
+      },
+      "artists": [
+        {
+          "name": "Ran Blake",
+          "url": "https://open.spotify.com/artist/5Oe2el698y8tac9DMvlI7o"
+        },
+        {
+          "name": "Kresten Osgood",
+          "url": "https://open.spotify.com/artist/41MI7s5qtXYNCp7Ev8T5LN"
+        }
+      ],
+      "duration_ms": 284333,
+      "name": "Symphony in Green",
+      "url": "https://open.spotify.com/track/28iVB0oZMjPgXxvNgx0gOC"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
         "name": "Alexander Hawkins Trio",
         "url": "https://open.spotify.com/album/0PuuU5hvA2CRAedC8xHEAq"
       },
@@ -851,22 +851,6 @@
       "duration_ms": 214201,
       "name": "Fiasco : In the Moment",
       "url": "https://open.spotify.com/track/2m1SZ7PJXRIQUjQ2LC6njG"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "Spring (Remastered)",
-        "url": "https://open.spotify.com/album/7IikPqlk47jXyUaXYJmM10"
-      },
-      "artists": [
-        {
-          "name": "Anthony Williams",
-          "url": "https://open.spotify.com/artist/0FO6iwNxAbcjc8IStwizj6"
-        }
-      ],
-      "duration_ms": 412026,
-      "name": "From Before - Rudy Van Gelder Edition/2009 Digital Remaster",
-      "url": "https://open.spotify.com/track/5RrbXcAuz20QkziDZAHS08"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -915,6 +899,42 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
+        "name": "Spring (Remastered)",
+        "url": "https://open.spotify.com/album/7IikPqlk47jXyUaXYJmM10"
+      },
+      "artists": [
+        {
+          "name": "Anthony Williams",
+          "url": "https://open.spotify.com/artist/0FO6iwNxAbcjc8IStwizj6"
+        }
+      ],
+      "duration_ms": 412026,
+      "name": "From Before - Rudy Van Gelder Edition/2009 Digital Remaster",
+      "url": "https://open.spotify.com/track/5RrbXcAuz20QkziDZAHS08"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Dolunay",
+        "url": "https://open.spotify.com/album/2w5jxwOWbkn7ci66PmUmmD"
+      },
+      "artists": [
+        {
+          "name": "Konstrukt",
+          "url": "https://open.spotify.com/artist/31LWw1daUaifpCWuXKKey9"
+        },
+        {
+          "name": "Peter Br\u00f6tzmann",
+          "url": "https://open.spotify.com/artist/5DlFW9TwvDgSJHJuufuiAO"
+        }
+      ],
+      "duration_ms": 207373,
+      "name": "Tepe",
+      "url": "https://open.spotify.com/track/3U66YsEEXqz0rig8U0bVNd"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
         "name": "In Cahoots",
         "url": "https://open.spotify.com/album/0STbF1O34unFR85y3dX67B"
       },
@@ -955,26 +975,6 @@
       "duration_ms": 1224332,
       "name": "The Eyes Moving. Slowly.",
       "url": "https://open.spotify.com/track/1zMyY8zxLsJq344QaoKfP0"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "Cherry - Sakura",
-        "url": "https://open.spotify.com/album/1TMo9GiQZZq88JfjDvVq4L"
-      },
-      "artists": [
-        {
-          "name": "Aki Takase",
-          "url": "https://open.spotify.com/artist/09yacWNQY2fYjP3ubsmWTM"
-        },
-        {
-          "name": "David Murray",
-          "url": "https://open.spotify.com/artist/00SOiqZ0YGY2JhjSPxZMZg"
-        }
-      ],
-      "duration_ms": 344373,
-      "name": "A Very Long Letter",
-      "url": "https://open.spotify.com/track/3t0OZ1WS8Pw3xhrzAG3J7d"
     }
   ],
   "unique_name": "Avant-Jazz",

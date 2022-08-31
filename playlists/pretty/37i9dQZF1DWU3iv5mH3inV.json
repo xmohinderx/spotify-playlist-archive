@@ -1,12 +1,12 @@
 {
   "description": "Prendete con tu lista favorita de Dembow. Foto: Aleesha",
-  "num_followers": 63553,
+  "num_followers": 63634,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg5MDY4NywwMDAwMDAwMDcwZmJkYWQxNWRiMGY4MWM5ZjAwNmZkM2U2ZTJiZjg3",
+  "snapshot_id": "MTY2MDg5MDY4NywwMDAwMDAwMGJmNzU0Yzk4YWI2MGFlZjk4ODViMmViOWE5NGE1OThl",
   "tracks": [
     {
       "added_at": "2022-08-19 06:31:27",
@@ -663,6 +663,22 @@
     {
       "added_at": "2022-08-19 06:31:27",
       "album": {
+        "name": "Y Ya Tu Sabe Klk",
+        "url": "https://open.spotify.com/album/3OeELD010Hp676BSutUjen"
+      },
+      "artists": [
+        {
+          "name": "Los Teke Teke",
+          "url": "https://open.spotify.com/artist/2aFsWgI7uUdQlJtR1OF5wl"
+        }
+      ],
+      "duration_ms": 180140,
+      "name": "El Teke Teke",
+      "url": "https://open.spotify.com/track/6m1cZ3G7Uu6kU3UfxqEjv1"
+    },
+    {
+      "added_at": "2022-08-19 06:31:27",
+      "album": {
         "name": "CHOKOO",
         "url": "https://open.spotify.com/album/6ek8iFlkZy1yNmJq0Psg8p"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 337339,
       "name": "CHOKOO",
       "url": "https://open.spotify.com/track/1FRXVSbMv39KAilkbmKNXz"
-    },
-    {
-      "added_at": "2022-08-19 06:31:27",
-      "album": {
-        "name": "Y Ya Tu Sabe Klk",
-        "url": "https://open.spotify.com/album/3OeELD010Hp676BSutUjen"
-      },
-      "artists": [
-        {
-          "name": "Los Teke Teke",
-          "url": "https://open.spotify.com/artist/2aFsWgI7uUdQlJtR1OF5wl"
-        }
-      ],
-      "duration_ms": 180140,
-      "name": "El Teke Teke",
-      "url": "https://open.spotify.com/track/6m1cZ3G7Uu6kU3UfxqEjv1"
     },
     {
       "added_at": "2022-08-19 06:31:27",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-08-19 06:31:27",
       "album": {
-        "name": "Klok Con Klok",
-        "url": "https://open.spotify.com/album/712hXpuMGoq1KPEI1RxoW6"
-      },
-      "artists": [
-        {
-          "name": "Ceky Viciny",
-          "url": "https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq"
-        }
-      ],
-      "duration_ms": 163800,
-      "name": "Klok Con Klok",
-      "url": "https://open.spotify.com/track/4VthUTifCMlgzYkfQX1LQV"
-    },
-    {
-      "added_at": "2022-08-19 06:31:27",
-      "album": {
         "name": "Controla",
         "url": "https://open.spotify.com/album/1549LYCWsYWHPNItxIoi3n"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 169729,
       "name": "Controla",
       "url": "https://open.spotify.com/track/1IXtqDHrziebliIRwciMHp"
+    },
+    {
+      "added_at": "2022-08-19 06:31:27",
+      "album": {
+        "name": "Klok Con Klok",
+        "url": "https://open.spotify.com/album/712hXpuMGoq1KPEI1RxoW6"
+      },
+      "artists": [
+        {
+          "name": "Ceky Viciny",
+          "url": "https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq"
+        }
+      ],
+      "duration_ms": 163800,
+      "name": "Klok Con Klok",
+      "url": "https://open.spotify.com/track/4VthUTifCMlgzYkfQX1LQV"
     },
     {
       "added_at": "2022-08-19 06:31:27",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2022-08-19 06:31:27",
       "album": {
+        "name": "Mensaje Directo (DM)",
+        "url": "https://open.spotify.com/album/49xNNfmQRUICPKH1uX0yc9"
+      },
+      "artists": [
+        {
+          "name": "Shadow Blow",
+          "url": "https://open.spotify.com/artist/53cVnpkm8dTmf20tssYSNF"
+        }
+      ],
+      "duration_ms": 220706,
+      "name": "Mensaje Directo (DM)",
+      "url": "https://open.spotify.com/track/7oJzEtK0F1FT0cFIPNOPY6"
+    },
+    {
+      "added_at": "2022-08-19 06:31:27",
+      "album": {
         "name": "La Gente Ta' Loca (Remix)",
         "url": "https://open.spotify.com/album/7FSljR58CzFZISeEMj5bO1"
       },
@@ -1487,54 +1503,18 @@
     {
       "added_at": "2022-08-19 06:31:27",
       "album": {
-        "name": "Mensaje Directo (DM)",
-        "url": "https://open.spotify.com/album/49xNNfmQRUICPKH1uX0yc9"
+        "name": "Mr Brum Brum",
+        "url": "https://open.spotify.com/album/1mQTVVmy6EUp67GjRD2h40"
       },
       "artists": [
         {
-          "name": "Shadow Blow",
-          "url": "https://open.spotify.com/artist/53cVnpkm8dTmf20tssYSNF"
+          "name": "Lirico En La Casa",
+          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
         }
       ],
-      "duration_ms": 220706,
-      "name": "Mensaje Directo (DM)",
-      "url": "https://open.spotify.com/track/7oJzEtK0F1FT0cFIPNOPY6"
-    },
-    {
-      "added_at": "2022-08-19 06:31:27",
-      "album": {
-        "name": "Tu Cojea (Remix)",
-        "url": "https://open.spotify.com/album/0zm0Z4PQAioer5GHfdG1Wi"
-      },
-      "artists": [
-        {
-          "name": "Vakero",
-          "url": "https://open.spotify.com/artist/5rlwbF5flU2JCmAzV5Obu0"
-        },
-        {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        },
-        {
-          "name": "Quimico Ultra Mega",
-          "url": "https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX"
-        },
-        {
-          "name": "El Fecho RD",
-          "url": "https://open.spotify.com/artist/2qHuI4Avg4Dbowhu8whV9e"
-        },
-        {
-          "name": "Yomel El Meloso",
-          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
-        },
-        {
-          "name": "La Perversa",
-          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
-        }
-      ],
-      "duration_ms": 244916,
-      "name": "Tu Cojea - Remix",
-      "url": "https://open.spotify.com/track/7i5yhydTMHfFyU9UiEzDOX"
+      "duration_ms": 172878,
+      "name": "Brum Brum",
+      "url": "https://open.spotify.com/track/62utJ0vVOX6X7EFJ8XsmA1"
     }
   ],
   "unique_name": "Rep\u00fablica Dembow",

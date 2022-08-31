@@ -4,7 +4,7 @@
 
 > Feel good with this positively timeless playlist!
 
-230 songs - 12 hr 50 min - [published](https://open.spotify.com/playlist/1vzEyOKMOiIbxyVfBjbHDh)
+231 songs - 12 hr 53 min - [published](https://open.spotify.com/playlist/1vzEyOKMOiIbxyVfBjbHDh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Black Heart \(feat\. The Dap\-Kings\)](https://open.spotify.com/track/5joZkgTCteYR5SWvSesUSQ) | [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80), [The Dap\-Kings](https://open.spotify.com/artist/2HEQPwrF1aP28bTk1GCONU) | [Black Heart \(feat\. The Dap\-Kings\)](https://open.spotify.com/album/1EctmhyIb6003mVg77wgUb) | 2:54 | 2021-10-19 | 2022-07-29 |
 | [Blessed with the Best](https://open.spotify.com/track/4F68WqrshWc5aWyJGCumd2) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K) | [It Rains Love](https://open.spotify.com/album/1iIcVvI4yb0weQpRyDo1IJ) | 3:49 | 2021-10-19 | 2022-07-21 |
 | [Boogie Nights](https://open.spotify.com/track/20zOIoex7YchUh87d8tlvg) | [Heatwave](https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY) | [Too Hot To Handle](https://open.spotify.com/album/3OjfTt27HmGpVd45IuMAT6) | 5:03 | 2021-10-19 | 2022-04-21 |
-| [Boogie Nights](https://open.spotify.com/track/4NTSDu34al733aIuUWVJHo) | [Heatwave](https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY) | [Too Hot to Handle \(Expanded Edition\)](https://open.spotify.com/album/1QeIO9ArYBB9vLiODTtWy8) | 5:03 | 2021-10-19 |  |
+| [Boogie Nights](https://open.spotify.com/track/4NTSDu34al733aIuUWVJHo) | [Heatwave](https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY) | [Too Hot to Handle \(Expanded Edition\)](https://open.spotify.com/album/1QeIO9ArYBB9vLiODTtWy8) | 5:03 | 2021-10-19 | 2022-08-31 |
 | [Bra](https://open.spotify.com/track/5HrxlXl6yE5PWxFkNyUOz7) | [Cymande](https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG) | [Cymande](https://open.spotify.com/album/2s0y5BFQpUv5YiXsezn4rL) | 5:06 | 2021-10-19 | 2022-04-21 |
 | [Bring It On Home to Me](https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Man Who Invented Soul](https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY) | 2:42 | 2021-10-19 |  |
 | [Build Me Up Buttercup](https://open.spotify.com/track/3XcuLPQb1LG13ZJEEa6wUI) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [Build Me Up Buttercup](https://open.spotify.com/album/0AFXSZYiYyggIkcYW5GK0x) | 2:58 | 2021-10-19 | 2022-06-21 |
@@ -127,6 +127,7 @@
 | [It Takes Two](https://open.spotify.com/track/4wQD0djo6Id4fQLQeRKQ6e) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Kim Weston](https://open.spotify.com/artist/71pUA2TXf3JHUPUgsjLtuL) | [Take Two](https://open.spotify.com/album/5olHUIEjslOonYs3lyffCv) | 2:57 | 2021-10-19 | 2022-07-29 |
 | [It's A Shame](https://open.spotify.com/track/6cpNEgirhi0QmLDA2cVSHO) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [The Best Of The Spinners](https://open.spotify.com/album/1YtoIFW84QtpYVlkOR8xTe) | 3:11 | 2021-10-19 | 2022-07-29 |
 | [It's Only A Paper Moon](https://open.spotify.com/track/5CMw1IWB7JOpUY9nk54n1K) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [The Delta Rhythm Boys](https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF) | [Ella & Friends](https://open.spotify.com/album/0MgX1r8D5sEhpC3JPs6pLG) | 2:36 | 2021-10-19 | 2022-07-27 |
+| [It's Only A Paper Moon](https://open.spotify.com/track/373yGkNo74RZgmQgTiR8xK) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [The Delta Rhythm Boys](https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF) | [The War Years \(1941\-1947\)](https://open.spotify.com/album/3xseO3iLY7v7dL7VP6jpsH) | 2:40 | 2021-10-19 |  |
 | [It's Your Thing](https://open.spotify.com/track/2oezpnnea1VXHpJEbqnBhw) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [It's Your Thing: The Story Of The Isley Brothers](https://open.spotify.com/album/21O10zQ7YrFOTgfyRmopHs) | 2:46 | 2021-10-19 | 2022-07-25 |
 | [Jimmy Mack](https://open.spotify.com/track/7N3UAu6FkwdBg9J7OONBBP) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Watchout!](https://open.spotify.com/album/5DBVTohmpLwz4XwUGZNAQZ) | 2:43 | 2021-10-19 | 2022-07-28 |
 | [Just A Cloud Away](https://open.spotify.com/track/0DGTcMqvVR7fmBXgiG6jz4) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Just A Cloud Away](https://open.spotify.com/album/2ojXtf3VwPgpxsFHYujwCY) | 2:56 | 2022-03-28 |  |

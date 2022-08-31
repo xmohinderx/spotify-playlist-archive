@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Goldpark \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,430 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,363 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 50 | [CHAOS!](https://open.spotify.com/track/03FtAANkc8Zu99DTXs3R6k) | [I'm Geist](https://open.spotify.com/artist/3RBbPmeuOZUZK0xtR32fHy), [Yokai Dreams](https://open.spotify.com/artist/56wkZ4KK49FvsUlzwCumWF) | [CHAOS!](https://open.spotify.com/album/1FGVK8Cn3wIQ5sBP0fsnKA) | 2:49 |
 | 51 | [ANGER ISSUES](https://open.spotify.com/track/54veHUwY3qGQx01UwWshy3) | [Karson.](https://open.spotify.com/artist/55q5NS8G41ESqlGcjE2toX) | [ANGER ISSUES](https://open.spotify.com/album/3D9u1Jwpd5bcCYm03L98nY) | 3:29 |
 | 52 | [Pseudoshine](https://open.spotify.com/track/6QWPWRHIwHekPHdXYUHKu0) | [Muted Color](https://open.spotify.com/artist/4wZ8VQ73g7CdsFdo4VXDJD) | [Radial](https://open.spotify.com/album/0kiblaRCuTItxvrqPenuXj) | 3:40 |
-| 53 | [Tell Myself](https://open.spotify.com/track/4wPoSALUR5mxrTFvgpuC2e) | [THICK](https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli) | [Tell Myself](https://open.spotify.com/album/1XmHuWK6XxcNkyJHZoIKck) | 2:29 |
+| 53 | [Tell Myself](https://open.spotify.com/track/4WI5FUuvz2ESFoerIFK4WU) | [THICK](https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli) | [Happy Now](https://open.spotify.com/album/5ucPdWDzfyiYXEDC1aC80x) | 2:29 |
 | 54 | [555](https://open.spotify.com/track/7aQnb6sTiQto4mh02kHd1G) | [Chlsy](https://open.spotify.com/artist/316TfRq3qjtJpsjGzIOSBL) | [555](https://open.spotify.com/album/6CC7epoExBeS6bK2PlMpAE) | 3:45 |
 | 55 | [Distracted](https://open.spotify.com/track/08ekedAGATztErIr09gnUw) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Distracted](https://open.spotify.com/album/1K9QZCbXYsqXefPCtCHAVY) | 3:20 |
 | 56 | [Something New](https://open.spotify.com/track/4sQG4ljmx8u49zLGMw7ppf) | [CLAMM](https://open.spotify.com/artist/2QYx4UUKqLe1OUWFkjclqH) | [Something New](https://open.spotify.com/album/09yrH196XEEGVpwhoL5pOq) | 3:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 99 | [Summertime](https://open.spotify.com/track/6EjFXTrsdHX11foIwZrPsn) | [The Medinas](https://open.spotify.com/artist/5HVcy5IwKFMjr3kfwyfVQC) | [Summertime](https://open.spotify.com/album/1E7TW4GGbAD5SvZHAGY7Ok) | 2:59 |
 | 100 | [A Heart That's Not Your Kind](https://open.spotify.com/track/25cnDiBcLXeyCuO9WTNW4X) | [Matt Sahadi](https://open.spotify.com/artist/5b7Y3QJu63E4noZh8cLJei) | [A Heart That's Not Your Kind](https://open.spotify.com/album/16Zzh8KHgcTwyZT2cWtXcV) | 3:51 |
 
-Snapshot ID: `MTY2MTM1NjgwMCwwMDAwMDAwMGJmYWY5YTc2MzYxNmQzNjdhM2ZjMjBjZmY2M2NmODAw`
+Snapshot ID: `MTY2MTM1NjgwMCwwMDAwMDAwMDhiNDU0OGM2NWQ5MmExNTY4MjNlZDg2N2M2OTIxOTI1`

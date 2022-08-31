@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: LUCY\) \(핫한 국내 록음악을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,111 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,503 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 2 | [Dream \(feat\. Tommy Kim\)](https://open.spotify.com/track/534Tet7JehDlh2v0fdbAaK) | [VINCIT](https://open.spotify.com/artist/2V7zsT7AqLOFIHWb08FQd5), [Tommy Kim](https://open.spotify.com/artist/5vXlLutlXopDvhSpvwDxmp) | [Dream](https://open.spotify.com/album/5IpCJICE3ZYfiT3bigsFfj) | 3:20 |
 | 3 | [Childlike](https://open.spotify.com/track/3XajzTgxQw9rmsnFiBjmtE) | [Kim Hyun Joong](https://open.spotify.com/artist/0rB9P2J3OkobNezpTBcXqE) | [MY SUN](https://open.spotify.com/album/1xiwGp6DOg9DkaQG1xHzpI) | 3:20 |
 | 4 | [You need my love](https://open.spotify.com/track/2KnF8lF5elSlvN97jOgAaw) | [verycoybunny](https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB) | [You need my love](https://open.spotify.com/album/1dXOIUrXCi7RBbQSj5WfGE) | 3:40 |
-| 5 | [Like my groove](https://open.spotify.com/track/2LpUmnpyrdsrGwjxFkUBVp) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx), [The Orchard](https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI) | [Like my groove](https://open.spotify.com/album/7kcDdPNGDvR88xrU41QWlz) | 3:07 |
+| 5 | [Like my groove](https://open.spotify.com/track/2LpUmnpyrdsrGwjxFkUBVp) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx), [the orchard](https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI) | [Like my groove](https://open.spotify.com/album/7kcDdPNGDvR88xrU41QWlz) | 3:07 |
 | 6 | [HIGHTEEN MOVIE \(feat\. Owen\)](https://open.spotify.com/track/4aZXG0TSetEpCgBtd1IElf) | [TRICKY](https://open.spotify.com/artist/0YoNqRwXw0WlR0pIKujBua), [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO) | [HIGHTEEN MOVIE](https://open.spotify.com/album/1yOWQFOvjS7ndkiCLPDnIS) | 2:51 |
 | 7 | [We Talk](https://open.spotify.com/track/3dAo93NPkYNZcrVTYQN3PN) | [Band Minha](https://open.spotify.com/artist/18lZ5mKgExa7KKLBHoDMrJ) | [We Talk](https://open.spotify.com/album/2lWLxM3pYeILU3PTWqoEVQ) | 3:26 |
 | 8 | [Bye My Dear](https://open.spotify.com/track/2DMXlmSEvKC6kzDkYJdSkK) | [TILDE](https://open.spotify.com/artist/4dkrSmtmfRErNiFaQx0IAq) | [Bye My Dear](https://open.spotify.com/album/1nLojqad99fsjcDmiywiqn) | 4:26 |

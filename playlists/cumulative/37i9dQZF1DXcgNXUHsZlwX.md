@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. Photo: Connor Seidel \(1969 Collective\)
 
-364 songs - 21 hr 31 min - [published](https://open.spotify.com/playlist/17ts8jbTOK4YpL5tyLJ1kX)
+366 songs - 21 hr 37 min - [published](https://open.spotify.com/playlist/17ts8jbTOK4YpL5tyLJ1kX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Aussi loin](https://open.spotify.com/track/0v6ThdUvh2GFVyoyXW9b0z) | [Cédric Langlois](https://open.spotify.com/artist/58esGBpFFArMIeANHE1FDb) | [Aussi loin](https://open.spotify.com/album/06WpLqlcjUXKn9KPl3qAu9) | 3:39 | 2021-09-20 | 2022-07-24 |
 | [Au​\-​delà de la marée \(la mère et le père et leur petit\)](https://open.spotify.com/track/0rqY0DYt2aRwhoWBd89EVZ) | [Amylie](https://open.spotify.com/artist/1zUJUkYOBLMRNyot7fHae5) | [Au​\-​delà de la marée \(la mère et le père et leur petit\)](https://open.spotify.com/album/0U09K98D8jyU0izVJlxOlH) | 4:07 | 2022-07-08 |  |
 | [Beauté baroque \- Session live H2T](https://open.spotify.com/track/5xGaGuLLQX45z48bEbkiOw) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [SESSION LIVE H2T](https://open.spotify.com/album/2BrOs0tkhkaexfIGly8Csz) | 3:31 | 2022-06-03 |  |
+| [Before the Fall](https://open.spotify.com/track/2KQmCj4MpTZUKyOVo2sGQZ) | [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [Afternoon Bike Ride](https://open.spotify.com/album/6JO6ME8KqaBNAzrJg05yZT) | 2:59 | 2022-08-30 |  |
 | [Birds](https://open.spotify.com/track/08TmRNaaezzsowLSXk9zYO) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Nameless](https://open.spotify.com/album/1jKa3DaEBF3uBSJQ911noU) | 3:41 | 2021-10-09 |  |
 | [Bloc appartement](https://open.spotify.com/track/7cHDCbp1I6oZVwox0fEFcG) | [Olivier Lessard](https://open.spotify.com/artist/475de0iJKSQa7PebOU27Lk) | [En attendant les normales de saison \- EP](https://open.spotify.com/album/4kbWX80pZW3PzuGC7wk679) | 3:36 | 2021-01-17 | 2022-07-23 |
 | [Bonsoir Moreau](https://open.spotify.com/track/6UzfzYuWAZHDKIXfI73Hw3) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya), [Salebarbes](https://open.spotify.com/artist/2k67IAknAbf9ShxGNRU2wB) | [Bonsoir Moreau](https://open.spotify.com/album/7tKaSNqgxeyCwIjJPabD2u) | 2:24 | 2021-06-09 | 2021-10-02 |
@@ -182,7 +183,7 @@
 | [Le Tour](https://open.spotify.com/track/2bstLxHshzom3DVgB5j8m4) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8) | [Interlude](https://open.spotify.com/album/7LeYTtQQe3CBRgRdIx1cZk) | 3:20 | 2021-09-20 |  |
 | [Le triomphe d'une perruche](https://open.spotify.com/track/3THc1qpseFOdr5z6JqAk7y) | [Daniel Bélanger](https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW) | [Travelling](https://open.spotify.com/album/4DansuCidnugwQO3H3S7VA) | 3:47 | 2021-01-03\* |  |
 | [Le vent se lève](https://open.spotify.com/track/3xXFfmiWrbSpOfOb4AnTPM) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [Et on pleurera ensemble](https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM) | 3:11 | 2021-10-23 |  |
-| [leave the room and face the waves](https://open.spotify.com/track/0lI9WwS3bx3HJPv2BGDXLZ) | [Thanya Iyer](https://open.spotify.com/artist/5t5C8BHZ8ch5p0wvbcWh6P) | [leave the room and face the waves](https://open.spotify.com/album/7yntKe1iGe6kyM6uncADp7) | 2:06 | 2022-08-26 |  |
+| [leave the room and face the waves](https://open.spotify.com/track/0lI9WwS3bx3HJPv2BGDXLZ) | [Thanya Iyer](https://open.spotify.com/artist/5t5C8BHZ8ch5p0wvbcWh6P) | [leave the room and face the waves](https://open.spotify.com/album/7yntKe1iGe6kyM6uncADp7) | 2:06 | 2022-08-26 | 2022-08-31 |
 | [Les adieux](https://open.spotify.com/track/3PBofYxGj3mMOmvn1Ft1kM) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [Les adieux](https://open.spotify.com/album/0W0b90RgNWquPQLLhEcMlD) | 2:52 | 2021-09-27 | 2022-07-28 |
 | [Les anniversaires](https://open.spotify.com/track/07cWpiBsWBWWmgoXpeHHZ0) | [Foisy](https://open.spotify.com/artist/6iESQOGvGZKWF6bRd3hlRt) | [Les anniversaires](https://open.spotify.com/album/5eo4PDtQ5e8Dbl9ADexLHz) | 2:42 | 2021-01-03\* | 2021-10-02 |
 | [Les cascades \(Radio Edit\)](https://open.spotify.com/track/5dpLXg9vJMnr4fnnsbLB8w) | [Pat Groulx et les Bas Blancs](https://open.spotify.com/artist/7sj7sDK2ZfwTZ6vgPDcnpg) | [Les cascades \(Radio Edit\)](https://open.spotify.com/album/5tROpSoIqsCO2vEXFjomhF) | 4:02 | 2021-04-19 | 2021-05-07 |
@@ -355,7 +356,7 @@
 | [Valhalla Dancer](https://open.spotify.com/track/0LcyG3C7FMaP5VzPY1sBJI) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Valhalla Dancer](https://open.spotify.com/album/1CSxS2yfjWOIzwcjmvh5Da) | 3:43 | 2021-10-23 |  |
 | [Vallée embrumée](https://open.spotify.com/track/19ewBbCHh4wNEeLPEmHwJ8) | [Dans l'Shed](https://open.spotify.com/artist/0rUB643AKozBTQqO7T78Cb) | [Vallée embrumée](https://open.spotify.com/album/1JB8StNLzFhQJCviUIPd4b) | 2:56 | 2021-01-03\* | 2021-05-08 |
 | [Vie en rose](https://open.spotify.com/track/3LAzaKCNXAbzOME6c3QBW1) | [Nicolas Gémus](https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj) | [Nicolas Gémus](https://open.spotify.com/album/1lYKiooDdSrR6j1W0HkIyf) | 4:04 | 2022-05-06 | 2022-06-13 |
-| [Vigiles](https://open.spotify.com/track/6ClNYY6az9pC4T0pZI3T44) | [Chassepareil](https://open.spotify.com/artist/6yKVveIYmTnighfSb8E91u) | [Chicout](https://open.spotify.com/album/5jJZizjQO3LX5fDMGDymog) | 3:20 | 2022-07-08 |  |
+| [Vigiles](https://open.spotify.com/track/6ClNYY6az9pC4T0pZI3T44) | [Chassepareil](https://open.spotify.com/artist/6yKVveIYmTnighfSb8E91u) | [Chicout](https://open.spotify.com/album/5jJZizjQO3LX5fDMGDymog) | 3:20 | 2022-07-08 | 2022-08-31 |
 | [Vigiles](https://open.spotify.com/track/7mV63vY1vlPhDh41veyTHl) | [Chassepareil](https://open.spotify.com/artist/6yKVveIYmTnighfSb8E91u) | [Chicout](https://open.spotify.com/album/76RkceWu7JvxFkuzp4aizo) | 3:20 | 2021-01-03\* | 2022-07-29 |
 | [Vis sans regret](https://open.spotify.com/track/6CCnuRpzllSnEodJwJMCoN) | [Post Script](https://open.spotify.com/artist/2va0ED9WG7oEPT7ybPZP5i) | [Vis sans regret](https://open.spotify.com/album/2M4IwXtuXpXUqlMbEEM2dY) | 3:24 | 2021-01-15 | 2021-09-28 |
 | [Vive l'Amérique](https://open.spotify.com/track/4rpWFuyEOVCjKp655XI1Fw) | [Anaïs Constantin](https://open.spotify.com/artist/16rv4gKc1NU7DDlS9jYjKQ) | [Vive l'Amérique](https://open.spotify.com/album/5eJHsFJwhHlenTpZzlReww) | 3:34 | 2021-01-03\* | 2021-10-28 |
@@ -365,6 +366,7 @@
 | [writer in ny](https://open.spotify.com/track/53bRqXGVyCv1PCjY0fQnmM) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [one hand on the steering wheel the other sewing a garden](https://open.spotify.com/album/4x39dWBX1IW8wgHufEh6og) | 3:19 | 2022-03-25 | 2022-04-21 |
 | [writer in ny](https://open.spotify.com/track/5EIEzisvJrHWYaBTXtQ8zd) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [one hand on the steering wheel the other sewing a garden](https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF) | 3:19 | 2022-07-08 | 2022-08-23 |
 | [Y'a un vent qui me ramene](https://open.spotify.com/track/6rnHABZ9tb7BKy5kaGjOuI) | [Zachary Richard](https://open.spotify.com/artist/6mpIGgvVVlb1m1OwoGKRuY) | [Y'a un vent qui me ramene](https://open.spotify.com/album/3pBkX3gEaYehrwiNvhOa18) | 3:48 | 2021-01-15 | 2021-01-30 |
+| [À bientôt](https://open.spotify.com/track/2hQqWfiludT87JzCvNVW5U) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [À bientôt](https://open.spotify.com/album/4nrDrQTrCS5re6HQNRoP6S) | 3:24 | 2022-08-30 |  |
 | [À l'aube de nous](https://open.spotify.com/track/6CzyUPXfxPfbb5fy078dhD) | [Amelie Mandeville](https://open.spotify.com/artist/4yvYNGWWLPkqEnP4d9gNk0) | [À l'aube de nous](https://open.spotify.com/album/2IRh7BduO3bjEehDT5g6jq) | 3:13 | 2021-01-15 | 2022-07-28 |
 | [À l’ammoniaque / Mon dieu](https://open.spotify.com/track/6sfTa15xpNajQL1Mb1asik) | [La Zarra](https://open.spotify.com/artist/0NkmvuSD5Pm8zucjwIpChS) | [À l’ammoniaque / Mon dieu](https://open.spotify.com/album/7MdUj0L6QOrQbD9hzfp6st) | 3:17 | 2021-01-03\* | 2021-02-25 |
 | [À travers mes yeux](https://open.spotify.com/track/6IaStSELLqTeLEdl7RPqQZ) | [Geneviève et Alain](https://open.spotify.com/artist/6coTzew0su1zZilZlwA7vX) | [À travers mes yeux](https://open.spotify.com/album/1qx0TPUcHXP5da8FQK5OFh) | 3:24 | 2021-05-04 | 2022-07-29 |

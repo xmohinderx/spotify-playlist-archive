@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74VGmwslvwH.md) - [plain]
 
 > Energy flow from root to crown\. Balance your doshas with traditional sounds of India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,677 likes - 72 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,672 likes - 72 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74VGmwslvwH.md) - [plain]
 | 41 | [Purrfection 44 \- Meow Mix](https://open.spotify.com/track/18iPekNLWc9PPWe0xwADKb) | [Sudama Mark Kennedy](https://open.spotify.com/artist/3kfvOxAyZ7BXqMLRqcbwms), [Joss Jaffe](https://open.spotify.com/artist/2Nj9Ni0ML57eyiursEE5xx), [Montino Bourbon](https://open.spotify.com/artist/1bXc2vNUSrLcwHgCMPMMRU) | [Purrfection 44 \(Meow Mix\)](https://open.spotify.com/album/5wEbycWmjbR4kxJhxcY0PJ) | 3:30 |
 | 42 | [Distance](https://open.spotify.com/track/4cXRe000LxbchXggA2TlrU) | [Oceans Cry](https://open.spotify.com/artist/174Q4UvaXNdNt4KSRrglKi) | [Distance](https://open.spotify.com/album/6idMBEpMSoVX44nJb5jtIW) | 3:56 |
 | 43 | [Raas Leela](https://open.spotify.com/track/1p9IZ7vAw0GqeL4YQjUBO3) | [Vic Vision](https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0) | [Raas Leela](https://open.spotify.com/album/71fNvobEJuKbrPAL5RUeQi) | 2:38 |
-| 44 | [Spiritual air](https://open.spotify.com/track/1vO99rnyMLcqu6CV7UjBWk) | [Adhara](https://open.spotify.com/artist/6bKoAOFeyeIPboiQcSfbwm) | [Spiritual air](https://open.spotify.com/album/7HYxw9PQJDZXIqiF4LboeU) | 3:38 |
+| 44 | [Spiritual air](https://open.spotify.com/track/3QebIeOGtxx5GND6eECxk5) | [Adhara](https://open.spotify.com/artist/6bKoAOFeyeIPboiQcSfbwm) | [Spiritual air](https://open.spotify.com/album/0BOJA2MU6u5y5ROLUosmTJ) | 3:38 |
 | 45 | [Cosmos](https://open.spotify.com/track/2ZJhL2pkytU1udly94xV7j) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Bansuri \- The Bamboo Flute of India](https://open.spotify.com/album/7l6MK2rackkPHiHhCINSxI) | 4:56 |
 | 46 | [Butterfly Kisses](https://open.spotify.com/track/6gU1KxLaLZ6qUSMQtPyUxy) | [Aroshanti](https://open.spotify.com/artist/1y6jeiJ1L8vwgt7lHDqRKd) | [Butterfly Kisses](https://open.spotify.com/album/6hL0TZRUEM5WLrQR9bqkOC) | 8:21 |
 | 47 | [midnight dreams](https://open.spotify.com/track/3mMpTuuVK1oHRLNubuRE74) | [Arya](https://open.spotify.com/artist/1m0tdSviN7MEKE4ito6M0L) | [midnight dreams](https://open.spotify.com/album/5XPj4Ksx8v4EmP1P54JOMU) | 2:19 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74VGmwslvwH.md) - [plain]
 | 71 | [Saraswati Ma](https://open.spotify.com/track/5cIlLDsVPVUGSivIhXUQd5) | [Benjy Wertheimer](https://open.spotify.com/artist/2Y4VeDUhZAE8UfGXqZJ7dX), [John De Kadt](https://open.spotify.com/artist/3rd5aojNBopxBjaZdoLOrb) | [One River](https://open.spotify.com/album/67gLMrueyFRoD48NwVZ4qk) | 8:45 |
 | 72 | [Raga Hemant \- Alap](https://open.spotify.com/track/6imQ2eamWdJ6vFTIoQZGD2) | [Bidyut Khan Band](https://open.spotify.com/artist/1gOYLPSgVPPiSIsaBHh5Xd), [Lucyan](https://open.spotify.com/artist/00iiLc3ejnD5C6rjCjWned) | [Ragas: Classical Indian music for sarod, sitar and tabla](https://open.spotify.com/album/08CSfF5H2SWzz5KKX5tngY) | 7:30 |
 
-Snapshot ID: `MTY2MDEyMzc0MSwwMDAwMDAwMGM3MDRlZWU3MWFkNTFhOGRmN2IxYWNkMWEwMzc5NjEy`
+Snapshot ID: `MTY2MDEyMzc0MSwwMDAwMDAwMDM2ZWM2M2UyYjAwNDI4NDNmMDQ2YjZkYjhkNDdlZTY0`

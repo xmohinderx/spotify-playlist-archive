@@ -3529,7 +3529,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 236250,
       "name": "mooindo drift",
       "url": "https://open.spotify.com/track/6SDELeMG3kX00rO61PIAP6"
@@ -5152,6 +5152,28 @@
     },
     {
       "album": {
+        "name": "Sweet Escape (feat. \u3072\u304b\u308a)",
+        "url": "https://open.spotify.com/album/6QWulBLmOcERqXcs2tSxh6"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "\u3072\u304b\u308a",
+          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233920,
+      "name": "Sweet Escape (feat. \u3072\u304b\u308a)",
+      "url": "https://open.spotify.com/track/6Whj4AAx1Y2xSCJhpRvTpt"
+    },
+    {
+      "album": {
         "name": "Take Me Back",
         "url": "https://open.spotify.com/album/10YPFcXMzBP9qdC8jEOcpT"
       },
@@ -5914,7 +5936,7 @@
     },
     {
       "album": {
-        "name": "World's End (Julia Wu, 5lack)",
+        "name": "World's End (feat. Julia Wu, 5lack)",
         "url": "https://open.spotify.com/album/4TdMgCC9A81JzD2BTfsczk"
       },
       "artists": [
@@ -5935,7 +5957,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 306907,
-      "name": "World's End",
+      "name": "World's End (feat. Julia Wu, 5lack)",
       "url": "https://open.spotify.com/track/30n0Z8l9uTkKCQemxDzTnJ"
     },
     {

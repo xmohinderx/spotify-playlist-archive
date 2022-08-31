@@ -1,12 +1,12 @@
 {
   "description": "Real nasty house. Cover: ESSEL",
-  "num_followers": 392050,
+  "num_followers": 391437,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUyMTM3NSwwMDAwMDAwMGM2NGM1ODYyMmZiZGU3MTQyODJlOGZhYjExZGY0Njlk",
+  "snapshot_id": "MTY2MTUyMTM3NSwwMDAwMDAwMDdjMDgzYTkyYjE5MTUyOGE0MjQ4Mjg0YWE5MTVhYjIz",
   "tracks": [
     {
       "added_at": "2022-07-29 04:01:00",
@@ -255,26 +255,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Like Before",
-        "url": "https://open.spotify.com/album/2yVM47Pm3THWtF7L81Vz88"
-      },
-      "artists": [
-        {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
-        },
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        }
-      ],
-      "duration_ms": 209523,
-      "name": "Like Before",
-      "url": "https://open.spotify.com/track/1E3u84XwqE5mHxjdTSIodR"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Hey Hey (Heard You Say)",
         "url": "https://open.spotify.com/album/6CkhbzTlaDd6kjMqjiXMcy"
       },
@@ -295,6 +275,26 @@
       "duration_ms": 233333,
       "name": "Hey Hey (Heard You Say)",
       "url": "https://open.spotify.com/track/6W2JFlLjKoSMAYG9pds9rS"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Like Before",
+        "url": "https://open.spotify.com/album/2yVM47Pm3THWtF7L81Vz88"
+      },
+      "artists": [
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        },
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "duration_ms": 209523,
+      "name": "Like Before",
+      "url": "https://open.spotify.com/track/1E3u84XwqE5mHxjdTSIodR"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -683,26 +683,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Snakes On My Chest",
-        "url": "https://open.spotify.com/album/2aZLa2Fb3Rua6dBHfwEFUr"
-      },
-      "artists": [
-        {
-          "name": "Ilkan Gunuc",
-          "url": "https://open.spotify.com/artist/02vT04WkgQ8dO4f1GLMTP9"
-        },
-        {
-          "name": "Oliver Cricket",
-          "url": "https://open.spotify.com/artist/5kU4kGnYmdsBioNmQ0meDr"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Snakes On My Chest",
-      "url": "https://open.spotify.com/track/5OdiCCcYYGP0vrwkT6ONz7"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Badman",
         "url": "https://open.spotify.com/album/3rTuLnXYLDhVJ0ox9oGHot"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 147692,
       "name": "Daddy",
       "url": "https://open.spotify.com/track/3Bp5P1UoYfprzFy7EClcoz"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Snakes On My Chest",
+        "url": "https://open.spotify.com/album/2aZLa2Fb3Rua6dBHfwEFUr"
+      },
+      "artists": [
+        {
+          "name": "Ilkan Gunuc",
+          "url": "https://open.spotify.com/artist/02vT04WkgQ8dO4f1GLMTP9"
+        },
+        {
+          "name": "Oliver Cricket",
+          "url": "https://open.spotify.com/artist/5kU4kGnYmdsBioNmQ0meDr"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Snakes On My Chest",
+      "url": "https://open.spotify.com/track/5OdiCCcYYGP0vrwkT6ONz7"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -911,6 +911,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "Prisoner",
+        "url": "https://open.spotify.com/album/0DU6isn220KiymRiShdyfm"
+      },
+      "artists": [
+        {
+          "name": "Drezo",
+          "url": "https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9"
+        }
+      ],
+      "duration_ms": 247500,
+      "name": "Prisoner",
+      "url": "https://open.spotify.com/track/2UqgXOkQwRlogHsUXSRUux"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Lay It Down (feat. Bricc Baby)",
         "url": "https://open.spotify.com/album/2YMkA9lt4ehtS8BeoZ6ClX"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 215798,
       "name": "Lay It Down (feat. Bricc Baby)",
       "url": "https://open.spotify.com/track/5brF58DyR90gbHuMJqD5of"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Prisoner",
-        "url": "https://open.spotify.com/album/0DU6isn220KiymRiShdyfm"
-      },
-      "artists": [
-        {
-          "name": "Drezo",
-          "url": "https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9"
-        }
-      ],
-      "duration_ms": 247500,
-      "name": "Prisoner",
-      "url": "https://open.spotify.com/track/2UqgXOkQwRlogHsUXSRUux"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1043,22 +1043,18 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Techno",
-        "url": "https://open.spotify.com/album/78pp5cZjGZ3HsONFmbn7bE"
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/152sZrZc6xAtqSE0Y9fqv9"
       },
       "artists": [
         {
-          "name": "Drezo",
-          "url": "https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9"
-        },
-        {
-          "name": "MASTERIA",
-          "url": "https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO"
+          "name": "Capozzi",
+          "url": "https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC"
         }
       ],
-      "duration_ms": 222260,
-      "name": "Techno",
-      "url": "https://open.spotify.com/track/2CcQBQomdpTg3q97rj2Gp7"
+      "duration_ms": 207096,
+      "name": "Arrival",
+      "url": "https://open.spotify.com/track/1HhfEj6K1gObPfi1nQfOyN"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1103,18 +1099,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Arrival",
-        "url": "https://open.spotify.com/album/152sZrZc6xAtqSE0Y9fqv9"
+        "name": "Techno",
+        "url": "https://open.spotify.com/album/78pp5cZjGZ3HsONFmbn7bE"
       },
       "artists": [
         {
-          "name": "Capozzi",
-          "url": "https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC"
+          "name": "Drezo",
+          "url": "https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9"
+        },
+        {
+          "name": "MASTERIA",
+          "url": "https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO"
         }
       ],
-      "duration_ms": 207096,
-      "name": "Arrival",
-      "url": "https://open.spotify.com/track/1HhfEj6K1gObPfi1nQfOyN"
+      "duration_ms": 222260,
+      "name": "Techno",
+      "url": "https://open.spotify.com/track/2CcQBQomdpTg3q97rj2Gp7"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "Lies",
+        "url": "https://open.spotify.com/album/1c0Uiksf8eCx8QeRh4WhPC"
+      },
+      "artists": [
+        {
+          "name": "Brandon Mints",
+          "url": "https://open.spotify.com/artist/5YjfNaHq05WrwldRe1QSBc"
+        }
+      ],
+      "duration_ms": 167619,
+      "name": "Lies",
+      "url": "https://open.spotify.com/track/6Il5epZuJzpHVNVjYXrYIT"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Feelings",
         "url": "https://open.spotify.com/album/1nYil94oPsydyMr1HwtYlM"
       },
@@ -1279,38 +1295,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Lies",
-        "url": "https://open.spotify.com/album/1c0Uiksf8eCx8QeRh4WhPC"
-      },
-      "artists": [
-        {
-          "name": "Brandon Mints",
-          "url": "https://open.spotify.com/artist/5YjfNaHq05WrwldRe1QSBc"
-        }
-      ],
-      "duration_ms": 167619,
-      "name": "Lies",
-      "url": "https://open.spotify.com/track/6Il5epZuJzpHVNVjYXrYIT"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Sound Of The Bass",
-        "url": "https://open.spotify.com/album/22NPR2HmovEiEMb8cKrC0Q"
-      },
-      "artists": [
-        {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
-        }
-      ],
-      "duration_ms": 197073,
-      "name": "Sound Of The Bass",
-      "url": "https://open.spotify.com/track/5KeWNOjXTGZd2qATxVBLF8"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Haunted Haus",
         "url": "https://open.spotify.com/album/3Up7Gze0bGUTVv3XJTqvW5"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 177560,
       "name": "Zone",
       "url": "https://open.spotify.com/track/5G51lE61WAkzCOoaljqoHe"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Sound Of The Bass",
+        "url": "https://open.spotify.com/album/22NPR2HmovEiEMb8cKrC0Q"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "duration_ms": 197073,
+      "name": "Sound Of The Bass",
+      "url": "https://open.spotify.com/track/5KeWNOjXTGZd2qATxVBLF8"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1639,6 +1639,26 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "Surdose",
+        "url": "https://open.spotify.com/album/6ky2LQD22BcQtCeqyxRmfr"
+      },
+      "artists": [
+        {
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+        },
+        {
+          "name": "Joey Valence",
+          "url": "https://open.spotify.com/artist/6BkiL5nhcwWK6JqWbBjNgu"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Surdose",
+      "url": "https://open.spotify.com/track/4LC69zHD4ErGxZZBzHpThq"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Giving Up On Love",
         "url": "https://open.spotify.com/album/0ZVqV79CTkqSGhGBXdUbO5"
       },
@@ -1667,38 +1687,18 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Surdose",
-        "url": "https://open.spotify.com/album/6ky2LQD22BcQtCeqyxRmfr"
+        "name": "This Is Night Bass: Vol. 14",
+        "url": "https://open.spotify.com/album/0vrgZVoQ9Z34ORVkyhNH8e"
       },
       "artists": [
         {
-          "name": "Tony Romera",
-          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
-        },
-        {
-          "name": "Joey Valence",
-          "url": "https://open.spotify.com/artist/6BkiL5nhcwWK6JqWbBjNgu"
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Surdose",
-      "url": "https://open.spotify.com/track/4LC69zHD4ErGxZZBzHpThq"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Move It",
-        "url": "https://open.spotify.com/album/5wktvgz5IqlWiSegQBvQxo"
-      },
-      "artists": [
-        {
-          "name": "Bok Nero",
-          "url": "https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V"
-        }
-      ],
-      "duration_ms": 140701,
-      "name": "Move It",
-      "url": "https://open.spotify.com/track/14JGGrnRhzw34yqcIlPlG6"
+      "duration_ms": 184091,
+      "name": "Dibby Dibby DJ",
+      "url": "https://open.spotify.com/track/56tEhPXmy3v3f07kHZQKWz"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "This Is Night Bass: Vol. 14",
-        "url": "https://open.spotify.com/album/0vrgZVoQ9Z34ORVkyhNH8e"
+        "name": "Move It",
+        "url": "https://open.spotify.com/album/5wktvgz5IqlWiSegQBvQxo"
       },
       "artists": [
         {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+          "name": "Bok Nero",
+          "url": "https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V"
         }
       ],
-      "duration_ms": 184091,
-      "name": "Dibby Dibby DJ",
-      "url": "https://open.spotify.com/track/56tEhPXmy3v3f07kHZQKWz"
+      "duration_ms": 140701,
+      "name": "Move It",
+      "url": "https://open.spotify.com/track/14JGGrnRhzw34yqcIlPlG6"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1931,6 +1931,26 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "Dynamit",
+        "url": "https://open.spotify.com/album/79sO4cnYpPkleEdkRO6gE6"
+      },
+      "artists": [
+        {
+          "name": "MVDNES",
+          "url": "https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7"
+        },
+        {
+          "name": "Jet Crown",
+          "url": "https://open.spotify.com/artist/0fhdgJmaNnwr1TjeElwSRp"
+        }
+      ],
+      "duration_ms": 103548,
+      "name": "Dynamit",
+      "url": "https://open.spotify.com/track/6fYeZjIYG7Fzf6zOP7FTyW"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Get Crunk",
         "url": "https://open.spotify.com/album/0VLd7OnvNoJOdYPOPFzfC1"
       },
@@ -1963,26 +1983,6 @@
       "duration_ms": 149520,
       "name": "Hold Up",
       "url": "https://open.spotify.com/track/0pK0gq7i09er2r5XLkfe7u"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Dynamit",
-        "url": "https://open.spotify.com/album/79sO4cnYpPkleEdkRO6gE6"
-      },
-      "artists": [
-        {
-          "name": "MVDNES",
-          "url": "https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7"
-        },
-        {
-          "name": "Jet Crown",
-          "url": "https://open.spotify.com/artist/0fhdgJmaNnwr1TjeElwSRp"
-        }
-      ],
-      "duration_ms": 103548,
-      "name": "Dynamit",
-      "url": "https://open.spotify.com/track/6fYeZjIYG7Fzf6zOP7FTyW"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Numb",
-        "url": "https://open.spotify.com/album/2C1eeI6heXSrCmtkGOV2FT"
-      },
-      "artists": [
-        {
-          "name": "Kage",
-          "url": "https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot"
-        }
-      ],
-      "duration_ms": 225967,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/41EekfzAGeK44z1zQRhNgR"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "No Stoppin",
         "url": "https://open.spotify.com/album/5xws8aUsScDLDQ0isFesjS"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 185196,
       "name": "No Stoppin",
       "url": "https://open.spotify.com/track/7yhgXEXfxFZ3umffj1UPaQ"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/2C1eeI6heXSrCmtkGOV2FT"
+      },
+      "artists": [
+        {
+          "name": "Kage",
+          "url": "https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot"
+        }
+      ],
+      "duration_ms": 225967,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/41EekfzAGeK44z1zQRhNgR"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -2109,6 +2109,22 @@
       "url": "https://open.spotify.com/track/2sMabi053PJu921UdGhqTO"
     },
     {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Yup",
+        "url": "https://open.spotify.com/album/4TPTDC0qFhxS31IEfyJQ1K"
+      },
+      "artists": [
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "duration_ms": 228571,
+      "name": "Yup",
+      "url": "https://open.spotify.com/track/0QDdJKjpf2vRQjihJeZvU1"
+    },
+    {
       "added_at": "2022-07-22 04:01:00",
       "album": {
         "name": "One Bad Bitch",
@@ -2131,22 +2147,6 @@
       "duration_ms": 203831,
       "name": "One Bad Bitch",
       "url": "https://open.spotify.com/track/6F3lOKRnB14Zpl4hHTXF06"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Yup",
-        "url": "https://open.spotify.com/album/4TPTDC0qFhxS31IEfyJQ1K"
-      },
-      "artists": [
-        {
-          "name": "Qlank",
-          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
-        }
-      ],
-      "duration_ms": 228571,
-      "name": "Yup",
-      "url": "https://open.spotify.com/track/0QDdJKjpf2vRQjihJeZvU1"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -2337,20 +2337,28 @@
       "url": "https://open.spotify.com/track/2cmM9VWTXlE08tPNqTHpSg"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-08-05 04:01:00",
       "album": {
-        "name": "Spirit Animal EP",
-        "url": "https://open.spotify.com/album/6K1hRfRYYYaH7KlxLGAqM1"
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/2comQ96pDfUCwDlTqFV8WC"
       },
       "artists": [
         {
-          "name": "Fox'd",
-          "url": "https://open.spotify.com/artist/5AyexHM8AroaTVBLFEKiKS"
+          "name": "Eleganto",
+          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
+        },
+        {
+          "name": "Dark Cities",
+          "url": "https://open.spotify.com/artist/5Gq2kr5Hg7WCD4wUo8MF9y"
+        },
+        {
+          "name": "Kota",
+          "url": "https://open.spotify.com/artist/63QiIbACG85n38thH1gJry"
         }
       ],
-      "duration_ms": 245625,
-      "name": "Spirit Animal",
-      "url": "https://open.spotify.com/track/6Z6cXN7K3qjHNJe1Qy31Ar"
+      "duration_ms": 222857,
+      "name": "Reckless",
+      "url": "https://open.spotify.com/track/37fAW4AI7aPtdZYyVU5JGo"
     }
   ],
   "unique_name": "Nasty Bits",

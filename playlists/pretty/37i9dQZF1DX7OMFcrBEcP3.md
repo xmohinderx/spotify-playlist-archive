@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OMFcrBEcP3.md) - [plain]
 
 > The Corridos of yesterday and today all in one place!
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,295 likes - 77 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,316 likes - 77 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,11 +79,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OMFcrBEcP3.md) - [plain]
 | 69 | [Pancho Villa](https://open.spotify.com/track/7oIyahcc9zHe1n9FRYh8Ft) | [Marco Flores Y La Jerez](https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80) | [QUE TOQUE MI BANDA JEREZ](https://open.spotify.com/album/0Egtfs604xlqru5JoXtJv7) | 2:58 |
 | 70 | [La Carretera Hacia Juarez](https://open.spotify.com/track/6drRLQB9x11UXmV0cNTffo) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Corridos Perros Vol.1](https://open.spotify.com/album/6gi63Tzp521cz82jS7ItHA) | 2:30 |
 | 71 | [El de Arriba](https://open.spotify.com/track/2HmILV5L6Gi0sHvbyicxQk) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [El de Arriba](https://open.spotify.com/album/1qkc0PBgU4sntxcDinzY9y) | 3:49 |
-| 72 | [No Se La Van A Acabar](https://open.spotify.com/track/5glNrTHDvYscelF7JGBxDB) | [La Mejores Bandas Del Mundo Vol 2](https://open.spotify.com/artist/69jBNhFKISDzO6IJPgKfsC) | [Puros Corridos Y Rancheras](https://open.spotify.com/album/2S8pPO6llQejOCpnkj3U9b) | 3:12 |
+| 72 | [El Penal De La Loma](https://open.spotify.com/track/5Nf9M4uFmcQQqhcaWeX0TT) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [A Las Damas También Les Gustan Los Corridos](https://open.spotify.com/album/11qoNS56p2qkACwivdfIVv) | 2:55 |
 | 73 | [La Captura III](https://open.spotify.com/track/1y1zGvNOVkURLr8TzqWjXA) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [La Captura III](https://open.spotify.com/album/2Dx9DX0zG74oF0x4vqyAOx) | 3:08 |
-| 74 | [El Penal De La Loma](https://open.spotify.com/track/5Nf9M4uFmcQQqhcaWeX0TT) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [A Las Damas También Les Gustan Los Corridos](https://open.spotify.com/album/11qoNS56p2qkACwivdfIVv) | 2:55 |
+| 74 | [No Se La Van A Acabar](https://open.spotify.com/track/5glNrTHDvYscelF7JGBxDB) | [La Mejores Bandas Del Mundo Vol 2](https://open.spotify.com/artist/69jBNhFKISDzO6IJPgKfsC) | [Puros Corridos Y Rancheras](https://open.spotify.com/album/2S8pPO6llQejOCpnkj3U9b) | 3:12 |
 | 75 | [Corrido De Los Perez](https://open.spotify.com/track/7xXWDI8CFLjQq2TX5iv6iR) | [Voces Del Rancho](https://open.spotify.com/artist/1fGlKY2s0o51QUA9gScpWR) | [Coleccion Suprema](https://open.spotify.com/album/50KCA0ApBGnJpJ0hHk0SrX) | 2:40 |
 | 76 | [Eslabón Por Eslabón](https://open.spotify.com/track/5S26gp6JrEpG9JW1zFinAB) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [20 Rancheras](https://open.spotify.com/album/0Sj2tO0uGkHE7EVasrPeIC) | 3:02 |
 | 77 | [Gente De Arranque](https://open.spotify.com/track/1MUmseE7ctXeUgu6D0q5Jn) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Con La Nueva Federación](https://open.spotify.com/album/1MsMQsAojpvdsE6wGtboSa) | 3:03 |
 
-Snapshot ID: `MTY0MTAyNDAwMCwwMDAwMDAwMDFmNTJlNGIyYjRkOTg4ZmRkMTQxYzY2MDM2ZWQyNzRm`
+Snapshot ID: `MTY0MTAyNDAwMCwwMDAwMDAwMDQxYzE3Y2Q3YTVkOTgwNjlhN2QxZGM1ZWRmYWQyYjVk`

@@ -4,7 +4,7 @@
 
 > Energy flow from root to crown\. Balance your doshas with traditional sounds of India.
 
-75 songs - 5 hr 30 min - [published](https://open.spotify.com/playlist/0Z5cpGwOQ6Tu0NXcqKQnWM)
+76 songs - 5 hr 34 min - [published](https://open.spotify.com/playlist/0Z5cpGwOQ6Tu0NXcqKQnWM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Simoom](https://open.spotify.com/track/7gR19CaxVW3DfvSfJEGRMT) | [Kanta Khatri](https://open.spotify.com/artist/1AIZ3YGySP9lkL7BulRkA0) | [Moksha](https://open.spotify.com/album/2DEYwbAEe0uXNgWdevqUrw) | 3:41 | 2022-05-13 |  |
 | [Sol Rythym](https://open.spotify.com/track/1SuOOxR5CYtqp0wUgG6KqK) | [Solarixo](https://open.spotify.com/artist/5McHUSz4tKBSVrwI9JzUhY) | [Sol Rhythm](https://open.spotify.com/album/2AJAJVg6ebdW9pY61qeV6x) | 3:04 | 2022-05-13 |  |
 | [Spirit](https://open.spotify.com/track/1zoPWKR27qHRfjnMm3wE5d) | [Sasha Green](https://open.spotify.com/artist/5OnulnqJlxCzWEyq3IfoVt) | [Mountain Sunrise](https://open.spotify.com/album/24L98golLv0TemGdFecGA9) | 2:16 | 2022-07-14 |  |
-| [Spiritual air](https://open.spotify.com/track/1vO99rnyMLcqu6CV7UjBWk) | [Adhara](https://open.spotify.com/artist/6bKoAOFeyeIPboiQcSfbwm) | [Spiritual air](https://open.spotify.com/album/7HYxw9PQJDZXIqiF4LboeU) | 3:38 | 2022-05-13 |  |
+| [Spiritual air](https://open.spotify.com/track/1vO99rnyMLcqu6CV7UjBWk) | [Adhara](https://open.spotify.com/artist/6bKoAOFeyeIPboiQcSfbwm) | [Spiritual air](https://open.spotify.com/album/7HYxw9PQJDZXIqiF4LboeU) | 3:38 | 2022-05-13 | 2022-08-31 |
+| [Spiritual air](https://open.spotify.com/track/3QebIeOGtxx5GND6eECxk5) | [Adhara](https://open.spotify.com/artist/6bKoAOFeyeIPboiQcSfbwm) | [Spiritual air](https://open.spotify.com/album/0BOJA2MU6u5y5ROLUosmTJ) | 3:38 | 2022-08-10 |  |
 | [Spiritual Journey \(174 HZ Music / Solfeggio Frequencies\)](https://open.spotify.com/track/6AbKLbVBoWDYvIFHWLQALe) | [Emre Günay](https://open.spotify.com/artist/25xzu9Ch95wnUGFagBDjix) | [Spiritual Journey \(174 HZ Music / Solfeggio Frequencies\)](https://open.spotify.com/album/1KvIk9EAknrzb8D77qLlzg) | 3:20 | 2022-05-13 |  |
 | [Sublime](https://open.spotify.com/track/5vu7R3ODOAnvEAlJeFiVWv) | [Sounds of Optimism](https://open.spotify.com/artist/4NBmnaiMNjIDJLGSMuTqC6), [Deepesh Sanmal](https://open.spotify.com/artist/3lnLPZXHgbxQVzCVLuAw7O) | [Sublime](https://open.spotify.com/album/2kZo3OtxlYeAG4NaG1QHOZ) | 3:53 | 2022-05-13 |  |
 | [Sweven](https://open.spotify.com/track/7LbnfJ4bZ8UZRcb9l8Txld) | [Andy Kamman](https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y) | [Sweven](https://open.spotify.com/album/0Ixj5uPjN9PPtqoPE2u8pS) | 3:13 | 2022-05-13 |  |

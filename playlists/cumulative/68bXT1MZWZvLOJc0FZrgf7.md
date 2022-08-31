@@ -4,7 +4,7 @@
 
 > Press play and dance away to your favorite electronic hits\. Featuring Rezz, Alan Walker, Kygo and more! Cover: Benny Benassi &amp; David Guetta
 
-188 songs - 9 hr 58 min - [published](https://open.spotify.com/playlist/74SA5dSHQsyFQAGAwDxA5d)
+189 songs - 10 hr 1 min - [published](https://open.spotify.com/playlist/74SA5dSHQsyFQAGAwDxA5d)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [La Cita \(feat\. Ally Brooke\)](https://open.spotify.com/track/0G94oDZCWdfGxcIJZ9hfmW) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [La Cita \(feat\. Ally Brooke\)](https://open.spotify.com/album/2jTZ84JKbeu8vTuWYnlqfj) | 2:36 | 2022-06-10 |  |
 | [Larry Bird \(feat\. Tuck's Dad\) \- J\. Worra Remix](https://open.spotify.com/track/5tkG5tErMICYrw4V0PYzvb) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Tuck's Dad](https://open.spotify.com/artist/3XI3kia2gOIISdKrlMmtUR), [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj) | [Larry Bird \(J\. Worra Remix\)](https://open.spotify.com/album/03C6T4ePi9SIGKcByM8lXU) | 4:40 | 2022-08-26 |  |
 | [Late Night Feels](https://open.spotify.com/track/3QvCW0O7zuvG3oPtzxmHOm) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Late Night Feels](https://open.spotify.com/album/0rdC8yB4neHiouKSAlkA06) | 2:53 | 2022-07-22 |  |
+| [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2022-08-30 |  |
 | [Let Me In](https://open.spotify.com/track/5YrzUzJvEV2nsZ9d2q9s8G) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Let Me In](https://open.spotify.com/album/45mSRVs0LHBWnFWlKnCbW7) | 3:28 | 2022-06-03 |  |
 | [Lollipop \(Yum bi dum like Bubblegum\)](https://open.spotify.com/track/386QHGwSjQMYgwyrfbZsJ4) | [CHROMANCE](https://open.spotify.com/artist/0fEj1fYIQwWj1bzzAto9rp) | [Lollipop \(Yum bi dum like Bubblegum\)](https://open.spotify.com/album/3XoqAs15oTO9zpbrWNztuk) | 3:00 | 2022-08-12 |  |
 | [Lonely \(feat\. Sananda Maitreya\)](https://open.spotify.com/track/2tZaIi32T3Fwn6GqD8Jcii) | [Love Regenerator](https://open.spotify.com/artist/05KDKIpxshxrB9BMewaCBW), [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sananda Maitreya](https://open.spotify.com/artist/6RGxLsQUoGk5PLyMVwb3yE) | [Lonely \(feat\. Sananda Maitreya\)](https://open.spotify.com/album/154V38RtyuJFnlK8WsLtT5) | 2:50 | 2022-06-03 |  |

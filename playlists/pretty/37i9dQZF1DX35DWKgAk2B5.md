@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35DWKgAk2B5.md) - [plain]
 
 > Welcome to Indie Rock Club\. Cover: The White Stripes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,080,518 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,079,249 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35DWKgAk2B5.md) - [plain]
 | 59 | [Walk Idiot Walk](https://open.spotify.com/track/5Pdd4QCr0rREXM03zBM2Eh) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Tyrannosaurus Hives](https://open.spotify.com/album/2Qo8MVIOIyrBrqgoCsHCXV) | 3:31 |
 | 60 | [Come Closer](https://open.spotify.com/track/20uVZbYFKshjrdDHcVy9w9) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Colour Of The Trap](https://open.spotify.com/album/671vYDTGlzYQfsibwLHxNB) | 2:59 |
 | 61 | [Danger! High Voltage \- Soulchild Radio Mix](https://open.spotify.com/track/2VHfyWLlvCvbkIqtS5tqt3) | [Electric Six](https://open.spotify.com/artist/4xNadaO5ZZLVJdqDIVVIua) | [Fire](https://open.spotify.com/album/0mekXZokDUu9QCWbzhDhRx) | 3:34 |
-| 62 | [Farewell To The Fairground](https://open.spotify.com/track/09v3dFgd3YwrD0U5gkNaTg) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [To Lose My Life ...](https://open.spotify.com/album/1ySdrRPZa9ZRvlcUoGv8UE) | 4:16 |
-| 63 | [C'mon C'mon](https://open.spotify.com/track/0YPDp1KIxVLTdh3vnvk6wd) | [The Von Bondies](https://open.spotify.com/artist/5QPNEMldc8k1g5hT54PCWg) | [Pawn Shoppe Heart](https://open.spotify.com/album/4iqIG2tV2idmgWZGjsIQVb) | 2:13 |
+| 62 | [C'mon C'mon](https://open.spotify.com/track/0YPDp1KIxVLTdh3vnvk6wd) | [The Von Bondies](https://open.spotify.com/artist/5QPNEMldc8k1g5hT54PCWg) | [Pawn Shoppe Heart](https://open.spotify.com/album/4iqIG2tV2idmgWZGjsIQVb) | 2:13 |
+| 63 | [Farewell To The Fairground](https://open.spotify.com/track/09v3dFgd3YwrD0U5gkNaTg) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [To Lose My Life ...](https://open.spotify.com/album/1ySdrRPZa9ZRvlcUoGv8UE) | 4:16 |
 | 64 | [Time for Heroes](https://open.spotify.com/track/4J4LjEe33yN6gLmPib0nqz) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Up the Bracket](https://open.spotify.com/album/4iddETnfRjPwoPCo9PjeyX) | 2:40 |
 | 65 | [Connection](https://open.spotify.com/track/53LZqMzQEnjBkFXPqOq0cD) | [Elastica](https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx) | [Elastica](https://open.spotify.com/album/00MAXeszCotk3g9q8KYJlZ) | 2:20 |
 | 66 | [The Bucket](https://open.spotify.com/track/5LZSXhywLD0CXBPQs3ULoL) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Aha Shake Heartbreak](https://open.spotify.com/album/3fNRzhnl6WAtghBXEeyaub) | 2:55 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35DWKgAk2B5.md) - [plain]
 | 83 | [Let's Dance to Joy Division](https://open.spotify.com/track/60Ih7J2Q1o9shvMC2OAALu) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Proudly Present..\. A Guide to Love, Loss & Desperation \(Special Edition\)](https://open.spotify.com/album/03403404Rwa4suo4nzYyUY) | 3:11 |
 | 84 | [Nobody Move, Nobody Get Hurt](https://open.spotify.com/track/0iUano4euaiUETVUd1u0cx) | [We Are Scientists](https://open.spotify.com/artist/35YNL4wwv11ZkmeWWL51y7) | [With Love And Squalor](https://open.spotify.com/album/2IQ6OI4Yt3yZtB8j5E2lsa) | 3:12 |
 | 85 | [Rock & Roll Queen](https://open.spotify.com/track/75lw5aYrDq0TJsbkqCPRIJ) | [The Subways](https://open.spotify.com/artist/4BntNFyiN3VGG4hhRRZt9d) | [Young For Eternity](https://open.spotify.com/album/3BHVEMienVRnrpWJJCJSgN) | 2:49 |
-| 86 | [Middle of Nowhere](https://open.spotify.com/track/07qJ3q0PCBU1uVI6sL4JWX) | [Hot Hot Heat](https://open.spotify.com/artist/5UVftEhSsIg0kkXlmfhB6M) | [Elevator](https://open.spotify.com/album/5zkTfnruMTl1BTiLi4l2WE) | 4:01 |
-| 87 | [Outtathaway](https://open.spotify.com/track/2tkbtyIBe9ynJnrkYcpc0M) | [The Vines](https://open.spotify.com/artist/7vkiEK5D7Gf0z4M1Va0CXD) | [Highly Evolved](https://open.spotify.com/album/14rRGdr4K5UoaEFVw9jqBG) | 3:02 |
+| 86 | [Outtathaway](https://open.spotify.com/track/2tkbtyIBe9ynJnrkYcpc0M) | [The Vines](https://open.spotify.com/artist/7vkiEK5D7Gf0z4M1Va0CXD) | [Highly Evolved](https://open.spotify.com/album/14rRGdr4K5UoaEFVw9jqBG) | 3:02 |
+| 87 | [Middle of Nowhere](https://open.spotify.com/track/07qJ3q0PCBU1uVI6sL4JWX) | [Hot Hot Heat](https://open.spotify.com/artist/5UVftEhSsIg0kkXlmfhB6M) | [Elevator](https://open.spotify.com/album/5zkTfnruMTl1BTiLi4l2WE) | 4:01 |
 | 88 | [Tales of Endurance, Pt\. 4, 5 & 6](https://open.spotify.com/track/0kAFTd3dWytNQPVF18jCIv) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [Road To Rouen](https://open.spotify.com/album/7HBzTTfJhW9sis8yvgxmL6) | 5:31 |
 | 89 | [Future Starts Slow](https://open.spotify.com/track/04RcDL1mbjcVLMLqBOjkeX) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Blood Pressures](https://open.spotify.com/album/0PjRCiXdp6TQPXojFRB0AX) | 4:08 |
 | 90 | [Synthetica](https://open.spotify.com/track/2rAMEH9r80J7vGtT2ZVuwn) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Synthetica \(Deluxe Edition\)](https://open.spotify.com/album/2xbkLrXys1oVlp5fgTgwSJ) | 3:54 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35DWKgAk2B5.md) - [plain]
 | 96 | [Painted By Numbers](https://open.spotify.com/track/0vKt8MR7mVWJ7uWH93HYzl) | [The Sounds](https://open.spotify.com/artist/0W2XAE5AnBWqcGNhfupEOU) | [Dying to Say This to You \(Premium Download Version\)](https://open.spotify.com/album/2wMzDXOaSQnRJQ3PcuTSGG) | 3:19 |
 | 97 | [Main Offender](https://open.spotify.com/track/4N9NC8JCz2hSimtbspc6Ng) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Veni Vidi Vicious](https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li) | 2:33 |
 | 98 | [Echoes](https://open.spotify.com/track/6ilylHfblTVdDvJtaAiE8U) | [The Rapture](https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26) | [Echoes](https://open.spotify.com/album/1htTXDHC2YhVq0xTwHzaHh) | 3:06 |
-| 99 | [Cha\-Cha Twist](https://open.spotify.com/track/5Bs1pw78Y84wmLdukRjIX4) | [The Detroit Cobras](https://open.spotify.com/artist/4tWFXbJnjC9lM3UzmOpUiR) | [Mink, Rat or Rabbit](https://open.spotify.com/album/6Nilu1ZmULGn7gXkufCDc7) | 2:31 |
-| 100 | [Trainwreck 1979 \- Moulder Mix with in/out fades](https://open.spotify.com/track/06vOVdH94mIEjIgIhHdhdO) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [The Physical World](https://open.spotify.com/album/22sYnou2SavBZHHFVUTmWs) | 3:46 |
+| 99 | [Trainwreck 1979 \- Moulder Mix with in/out fades](https://open.spotify.com/track/06vOVdH94mIEjIgIhHdhdO) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [The Physical World](https://open.spotify.com/album/22sYnou2SavBZHHFVUTmWs) | 3:46 |
+| 100 | [Cha\-Cha Twist](https://open.spotify.com/track/5Bs1pw78Y84wmLdukRjIX4) | [The Detroit Cobras](https://open.spotify.com/artist/4tWFXbJnjC9lM3UzmOpUiR) | [Mink, Rat or Rabbit](https://open.spotify.com/album/6Nilu1ZmULGn7gXkufCDc7) | 2:31 |
 
-Snapshot ID: `MTY1ODQxOTg3OCwwMDAwMDAwMDkzZGZiOTVmNTg4MzRhZWI2MDQ2OTlkMjAwNzg1OThj`
+Snapshot ID: `MTY1ODQxOTg3OCwwMDAwMDAwMDBlYjdmYTdiODhkNWJmZTgxOGFiNjQ3ZDkzNDI1MmQ3`

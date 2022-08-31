@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this? Cover: JID
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,973 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,225 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 21 | [ATLiens](https://open.spotify.com/track/2vfvGlqCB7oertO5VLE0sz) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [ATLiens](https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0) | 3:50 |
 | 22 | [Beat Breaks \(feat\. Nas\)](https://open.spotify.com/track/34rwJDeFgvZXd9KtiBkQKI) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Hip Hop 50: Vol\. 1](https://open.spotify.com/album/3YQRfcAxfqX4KJt4o0yCTm) | 2:39 |
 | 23 | [NAOMI](https://open.spotify.com/track/2q4Vq5gPgWIHeAXEWKZELu) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [DRILL MUSIC IN ZION](https://open.spotify.com/album/0UennjqMxb1SAsaf7bsSwE) | 2:57 |
-| 24 | [Hunnit Dolla Hiccup](https://open.spotify.com/track/38xqJT3nzdCixMTcFYchJK) | [Armani Caesar](https://open.spotify.com/artist/53S3boqktbqiB1JfHzsu1f), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Hunnit Dolla Hiccup](https://open.spotify.com/album/6nhfAmspr2ISbHHnf1KQMB) | 3:37 |
+| 24 | [Hunnit Dolla Hiccup \(feat\. Stove God Cooks\)](https://open.spotify.com/track/38xqJT3nzdCixMTcFYchJK) | [Armani Caesar](https://open.spotify.com/artist/53S3boqktbqiB1JfHzsu1f), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [Hunnit Dolla Hiccup \(feat\. Stove God Cooks\)](https://open.spotify.com/album/6nhfAmspr2ISbHHnf1KQMB) | 3:37 |
 | 25 | [IMPALAS & HYDRAULICS \(Ft\. The Game\)](https://open.spotify.com/track/4EwwOC5ajOeyCVdPrScy5t) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI) | [IMPALAS & HYDRAULICS \(Ft\. The Game\)](https://open.spotify.com/album/5BcFOLlzBLEtGAWC4GnKtL) | 2:57 |
 | 26 | [THE VISION \(feat\. Anderson .Paak\)](https://open.spotify.com/track/5Yre5nDZJT72hl9kV2nGp3) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [THE VISION \(feat\. Anderson .Paak\)](https://open.spotify.com/album/61P1Wu9t9KASmMF1oQRItm) | 2:17 |
 | 27 | [Over The Top Feelings](https://open.spotify.com/track/0AJwFz5m2P0TdMk8eDkkIl) | [Moka Only](https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h) | [Summer 2002, Vol\. 1](https://open.spotify.com/album/0oIsqseukvLwDI3Q0H5O83) | 3:39 |

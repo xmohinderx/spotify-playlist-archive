@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Kaleena Zanders.",
-  "num_followers": 400492,
+  "num_followers": 400098,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjQ2MCwwMDAwMDAwMDNiNzg5ZTY2Yzc3OWYzMjQyODdkOTAzOTQ0MmY2ZDcx",
+  "snapshot_id": "MTY2MTQ4NjQ2MCwwMDAwMDAwMGZmMDE3ODIzMzRkZDNiZWNlZWM1ZGEyYTQ1ZDRjYzE1",
   "tracks": [
     {
       "added_at": "2022-08-26 04:01:00",
@@ -591,26 +591,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "GMT (Jamie xx Remix)",
-        "url": "https://open.spotify.com/album/5D4DjxpROByDBBVtZyyA5R"
-      },
-      "artists": [
-        {
-          "name": "Oliver Sim",
-          "url": "https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm"
-        },
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        }
-      ],
-      "duration_ms": 572217,
-      "name": "GMT - Jamie xx Remix",
-      "url": "https://open.spotify.com/track/6kqAKtIZDTeBjLdJJ2jiTt"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "XYZ (NERO Remix)",
         "url": "https://open.spotify.com/album/00Sbu2VAgWBRPJ8zrMs55l"
       },
@@ -631,22 +611,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Winds May Change",
-        "url": "https://open.spotify.com/album/4BIdy67mIUEqixBNUft0Sd"
-      },
-      "artists": [
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 186105,
-      "name": "Winds May Change",
-      "url": "https://open.spotify.com/track/5yrz679gBvRsMwNDT4OdF7"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Drowning In You",
         "url": "https://open.spotify.com/album/6ptlIp5e0j15OuwOwILDpM"
       },
@@ -659,6 +623,42 @@
       "duration_ms": 141875,
       "name": "Drowning In You",
       "url": "https://open.spotify.com/track/4nBG4RjDuiAa6Q7akigZI9"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "GMT (Jamie xx Remix)",
+        "url": "https://open.spotify.com/album/5D4DjxpROByDBBVtZyyA5R"
+      },
+      "artists": [
+        {
+          "name": "Oliver Sim",
+          "url": "https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm"
+        },
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        }
+      ],
+      "duration_ms": 572217,
+      "name": "GMT - Jamie xx Remix",
+      "url": "https://open.spotify.com/track/6kqAKtIZDTeBjLdJJ2jiTt"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Winds May Change",
+        "url": "https://open.spotify.com/album/4BIdy67mIUEqixBNUft0Sd"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 186105,
+      "name": "Winds May Change",
+      "url": "https://open.spotify.com/track/5yrz679gBvRsMwNDT4OdF7"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -703,6 +703,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "R\u00eave sans fin",
+        "url": "https://open.spotify.com/album/2gBsx4D2grM5wiPcCF4DCI"
+      },
+      "artists": [
+        {
+          "name": "PL\u00dcM",
+          "url": "https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "R\u00eave sans fin",
+      "url": "https://open.spotify.com/track/2OKfbCxQZ9ylJpulyG0iBj"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "We Outside",
         "url": "https://open.spotify.com/album/2OHCOJtdIppm9wawD4fVwe"
       },
@@ -719,18 +735,18 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "R\u00eave sans fin",
-        "url": "https://open.spotify.com/album/2gBsx4D2grM5wiPcCF4DCI"
+        "name": "Get Up Off The Floor",
+        "url": "https://open.spotify.com/album/3hWpTTQXIhRZy9Ln14ZlNt"
       },
       "artists": [
         {
-          "name": "PL\u00dcM",
-          "url": "https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL"
+          "name": "FORTELLA",
+          "url": "https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9"
         }
       ],
       "duration_ms": 155000,
-      "name": "R\u00eave sans fin",
-      "url": "https://open.spotify.com/track/2OKfbCxQZ9ylJpulyG0iBj"
+      "name": "Get Up Off The Floor",
+      "url": "https://open.spotify.com/track/00TNno8mzugrcej0FqJvrW"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -751,22 +767,6 @@
       "duration_ms": 215433,
       "name": "I Wanna - Tchami Remix",
       "url": "https://open.spotify.com/track/4Z0OyS2aO8BXWY5sXSTwQc"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Get Up Off The Floor",
-        "url": "https://open.spotify.com/album/3hWpTTQXIhRZy9Ln14ZlNt"
-      },
-      "artists": [
-        {
-          "name": "FORTELLA",
-          "url": "https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Get Up Off The Floor",
-      "url": "https://open.spotify.com/track/00TNno8mzugrcej0FqJvrW"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Smoke",
-        "url": "https://open.spotify.com/album/1yr7m2ScfY46QpjJacjdKG"
-      },
-      "artists": [
-        {
-          "name": "Slushii",
-          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
-        }
-      ],
-      "duration_ms": 178501,
-      "name": "Smoke",
-      "url": "https://open.spotify.com/track/6ApteRcCdPgoSlE5jCYWxs"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Disco Voador (Oliver Koletzki Remix)",
         "url": "https://open.spotify.com/album/1WiwLf8ecO1vO41xkWV9OL"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 381442,
       "name": "Disco Voador - Oliver Koletzki Remix",
       "url": "https://open.spotify.com/track/2EjIqupvKOa71EF7MzJPNx"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Smoke",
+        "url": "https://open.spotify.com/album/1yr7m2ScfY46QpjJacjdKG"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        }
+      ],
+      "duration_ms": 178501,
+      "name": "Smoke",
+      "url": "https://open.spotify.com/track/6ApteRcCdPgoSlE5jCYWxs"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -963,6 +963,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/6anUG6krraOoAkPDOz8W9J"
+      },
+      "artists": [
+        {
+          "name": "Pickle",
+          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
+        }
+      ],
+      "duration_ms": 204375,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/2f2pGGaRZQIBt3TthrVC93"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "Body Mind Hell",
         "url": "https://open.spotify.com/album/18IjZBVEOQrzENrx7012bd"
       },
@@ -979,18 +995,26 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/6anUG6krraOoAkPDOz8W9J"
+        "name": "Are U With Me",
+        "url": "https://open.spotify.com/album/6tQ2QvimZFyOP1aw4pA5tw"
       },
       "artists": [
         {
-          "name": "Pickle",
-          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
+          "name": "Mahalo",
+          "url": "https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR"
+        },
+        {
+          "name": "Captain Cuts",
+          "url": "https://open.spotify.com/artist/0rlKkLkpsCnJbZethGBfAk"
+        },
+        {
+          "name": "Dan Caplen",
+          "url": "https://open.spotify.com/artist/2U3FuHYvL3vhkbDAXm24Ep"
         }
       ],
-      "duration_ms": 204375,
-      "name": "La Fiesta",
-      "url": "https://open.spotify.com/track/2f2pGGaRZQIBt3TthrVC93"
+      "duration_ms": 160029,
+      "name": "Are U With Me",
+      "url": "https://open.spotify.com/track/1v6eqipsHhuSs96cuS36vk"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1031,18 +1055,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Elevate",
-        "url": "https://open.spotify.com/album/53k8qzmKzuo6zxjEpeTSsM"
+        "name": "Losing Control",
+        "url": "https://open.spotify.com/album/1Ai7YTsJSdn1PMIFLmq7yW"
       },
       "artists": [
         {
-          "name": "Attom",
-          "url": "https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o"
+          "name": "Wahlstedt",
+          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
+        },
+        {
+          "name": "TOOMANYLEFTHANDS",
+          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
         }
       ],
-      "duration_ms": 197227,
-      "name": "Elevate",
-      "url": "https://open.spotify.com/track/3CkWkWAhZii9OWuQJw0NTe"
+      "duration_ms": 173333,
+      "name": "Losing Control",
+      "url": "https://open.spotify.com/track/2SxJOFdhIco2uHQ0Bh5TXs"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1063,22 +1091,18 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Losing Control",
-        "url": "https://open.spotify.com/album/1Ai7YTsJSdn1PMIFLmq7yW"
+        "name": "Elevate",
+        "url": "https://open.spotify.com/album/53k8qzmKzuo6zxjEpeTSsM"
       },
       "artists": [
         {
-          "name": "Wahlstedt",
-          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
-        },
-        {
-          "name": "TOOMANYLEFTHANDS",
-          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
+          "name": "Attom",
+          "url": "https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o"
         }
       ],
-      "duration_ms": 173333,
-      "name": "Losing Control",
-      "url": "https://open.spotify.com/track/2SxJOFdhIco2uHQ0Bh5TXs"
+      "duration_ms": 197227,
+      "name": "Elevate",
+      "url": "https://open.spotify.com/track/3CkWkWAhZii9OWuQJw0NTe"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1115,30 +1139,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Are U With Me",
-        "url": "https://open.spotify.com/album/6tQ2QvimZFyOP1aw4pA5tw"
-      },
-      "artists": [
-        {
-          "name": "Mahalo",
-          "url": "https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR"
-        },
-        {
-          "name": "Captain Cuts",
-          "url": "https://open.spotify.com/artist/0rlKkLkpsCnJbZethGBfAk"
-        },
-        {
-          "name": "Dan Caplen",
-          "url": "https://open.spotify.com/artist/2U3FuHYvL3vhkbDAXm24Ep"
-        }
-      ],
-      "duration_ms": 160029,
-      "name": "Are U With Me",
-      "url": "https://open.spotify.com/track/1v6eqipsHhuSs96cuS36vk"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/3mywgogoLOFHCCzZxLO5DR"
       },
@@ -1151,22 +1151,6 @@
       "duration_ms": 192411,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/4fQTa68yjwRRBditzmCrZ9"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Watching",
-        "url": "https://open.spotify.com/album/2COn5i2w4pQZwISFzunZ47"
-      },
-      "artists": [
-        {
-          "name": "Maur",
-          "url": "https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC"
-        }
-      ],
-      "duration_ms": 161122,
-      "name": "Watching",
-      "url": "https://open.spotify.com/track/6SDAkr1UNA8vWt2wAopAAQ"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1191,6 +1175,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Watching",
+        "url": "https://open.spotify.com/album/2COn5i2w4pQZwISFzunZ47"
+      },
+      "artists": [
+        {
+          "name": "Maur",
+          "url": "https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC"
+        }
+      ],
+      "duration_ms": 161122,
+      "name": "Watching",
+      "url": "https://open.spotify.com/track/6SDAkr1UNA8vWt2wAopAAQ"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "RUMMELSBURG",
         "url": "https://open.spotify.com/album/7guNZx565VLsuqsxzGKFsa"
       },
@@ -1203,6 +1203,26 @@
       "duration_ms": 207532,
       "name": "RUMMELSBURG",
       "url": "https://open.spotify.com/track/7LNGAwIYUmJJC6O6omv95A"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/3CBJdbiqPhdBSUuPpn2YdF"
+      },
+      "artists": [
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        },
+        {
+          "name": "TWERL",
+          "url": "https://open.spotify.com/artist/3pJlam8yODJN1AEzmTVGko"
+        }
+      ],
+      "duration_ms": 164920,
+      "name": "Wherever You Go",
+      "url": "https://open.spotify.com/track/2NolG4iiuoPfBtofjRdctc"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1247,42 +1267,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Distance",
-        "url": "https://open.spotify.com/album/3CBJdbiqPhdBSUuPpn2YdF"
-      },
-      "artists": [
-        {
-          "name": "Pauline Herr",
-          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
-        },
-        {
-          "name": "TWERL",
-          "url": "https://open.spotify.com/artist/3pJlam8yODJN1AEzmTVGko"
-        }
-      ],
-      "duration_ms": 164920,
-      "name": "Wherever You Go",
-      "url": "https://open.spotify.com/track/2NolG4iiuoPfBtofjRdctc"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Back Where We Belong",
-        "url": "https://open.spotify.com/album/34BOu22DeNmm2k9slUPY4t"
-      },
-      "artists": [
-        {
-          "name": "EMBRZ",
-          "url": "https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Finally We're Here",
-      "url": "https://open.spotify.com/track/3nui7or5rKW8Gt0cn5k9q2"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Can Do This",
         "url": "https://open.spotify.com/album/6u95Qd5P51p2jFRq9zjMZn"
       },
@@ -1299,26 +1283,18 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "River",
-        "url": "https://open.spotify.com/album/3iBQdUiYjLiiOHqs3Yai1Z"
+        "name": "Back Where We Belong",
+        "url": "https://open.spotify.com/album/34BOu22DeNmm2k9slUPY4t"
       },
       "artists": [
         {
-          "name": "Paige",
-          "url": "https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w"
-        },
-        {
-          "name": "Nihil Young",
-          "url": "https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC"
-        },
-        {
-          "name": "Lauren L'aimant",
-          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
+          "name": "EMBRZ",
+          "url": "https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh"
         }
       ],
-      "duration_ms": 244595,
-      "name": "River",
-      "url": "https://open.spotify.com/track/6aErHQ8B7PvWqQiig7li7n"
+      "duration_ms": 234000,
+      "name": "Finally We're Here",
+      "url": "https://open.spotify.com/track/3nui7or5rKW8Gt0cn5k9q2"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1355,6 +1331,30 @@
       "duration_ms": 356838,
       "name": "Kite Day",
       "url": "https://open.spotify.com/track/1NiGKtmRQclUgYHJY1TEJo"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "River",
+        "url": "https://open.spotify.com/album/3iBQdUiYjLiiOHqs3Yai1Z"
+      },
+      "artists": [
+        {
+          "name": "Paige",
+          "url": "https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w"
+        },
+        {
+          "name": "Nihil Young",
+          "url": "https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC"
+        },
+        {
+          "name": "Lauren L'aimant",
+          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
+        }
+      ],
+      "duration_ms": 244595,
+      "name": "River",
+      "url": "https://open.spotify.com/track/6aErHQ8B7PvWqQiig7li7n"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1411,6 +1411,30 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Connect the Dots",
+        "url": "https://open.spotify.com/album/2h2On3mD6WD2TTgeVjJxSj"
+      },
+      "artists": [
+        {
+          "name": "Dilby",
+          "url": "https://open.spotify.com/artist/7gOIcm4Mhn5wiKDUt7vY36"
+        },
+        {
+          "name": "Oliver Schories",
+          "url": "https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq"
+        },
+        {
+          "name": "Gorge",
+          "url": "https://open.spotify.com/artist/6Y3FCZA50anf3ukg9O7ZLq"
+        }
+      ],
+      "duration_ms": 403772,
+      "name": "Connect the Dots - Oliver Schories & Gorge Remix",
+      "url": "https://open.spotify.com/track/3FWy6mQGJt44v0YmLU6ieG"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "Inside",
         "url": "https://open.spotify.com/album/5jKIVMLDayJy5viuYubLtX"
       },
@@ -1439,30 +1463,6 @@
       "duration_ms": 164571,
       "name": "easier",
       "url": "https://open.spotify.com/track/6Nq8uEVMd328QWCXQoSuuM"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Connect the Dots",
-        "url": "https://open.spotify.com/album/2h2On3mD6WD2TTgeVjJxSj"
-      },
-      "artists": [
-        {
-          "name": "Dilby",
-          "url": "https://open.spotify.com/artist/7gOIcm4Mhn5wiKDUt7vY36"
-        },
-        {
-          "name": "Oliver Schories",
-          "url": "https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq"
-        },
-        {
-          "name": "Gorge",
-          "url": "https://open.spotify.com/artist/6Y3FCZA50anf3ukg9O7ZLq"
-        }
-      ],
-      "duration_ms": 403772,
-      "name": "Connect the Dots - Oliver Schories & Gorge Remix",
-      "url": "https://open.spotify.com/track/3FWy6mQGJt44v0YmLU6ieG"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1563,38 +1563,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "BADBOI",
-        "url": "https://open.spotify.com/album/3ucILeyhjCVjm9Uy6g9tNu"
-      },
-      "artists": [
-        {
-          "name": "BRUX",
-          "url": "https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY"
-        }
-      ],
-      "duration_ms": 183870,
-      "name": "VINEGAR HILL",
-      "url": "https://open.spotify.com/track/0QqIz4Ut84n1hEqcqn7HSN"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Unfolder",
-        "url": "https://open.spotify.com/album/53oSkiq83t7YuZJ4hd9hWO"
-      },
-      "artists": [
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        }
-      ],
-      "duration_ms": 313775,
-      "name": "Unfolder",
-      "url": "https://open.spotify.com/track/34txxKbbUtkvsvnUSGl9ix"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "The Block",
         "url": "https://open.spotify.com/album/5BwveOGqO5u6Y6mvRGdBu2"
       },
@@ -1611,6 +1579,22 @@
       "duration_ms": 196585,
       "name": "The Block",
       "url": "https://open.spotify.com/track/36qroL3JWol1vL8LPYc7Bz"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "BADBOI",
+        "url": "https://open.spotify.com/album/3ucILeyhjCVjm9Uy6g9tNu"
+      },
+      "artists": [
+        {
+          "name": "BRUX",
+          "url": "https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY"
+        }
+      ],
+      "duration_ms": 183870,
+      "name": "VINEGAR HILL",
+      "url": "https://open.spotify.com/track/0QqIz4Ut84n1hEqcqn7HSN"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1635,6 +1619,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Unfolder",
+        "url": "https://open.spotify.com/album/53oSkiq83t7YuZJ4hd9hWO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "duration_ms": 313775,
+      "name": "Unfolder",
+      "url": "https://open.spotify.com/track/34txxKbbUtkvsvnUSGl9ix"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "ENDZ049",
         "url": "https://open.spotify.com/album/4WAClYmYzleyxIg8MtDeT7"
       },
@@ -1651,22 +1651,6 @@
       "duration_ms": 375491,
       "name": "Truffle Shuffle",
       "url": "https://open.spotify.com/track/389Y7nyhEtTp5mGk8cLsGy"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Okay Alright",
-        "url": "https://open.spotify.com/album/653heyRt50TTV4QNhIYLEv"
-      },
-      "artists": [
-        {
-          "name": "Alan Nieves",
-          "url": "https://open.spotify.com/artist/0gwCVstfKWPEMibFf3MnyG"
-        }
-      ],
-      "duration_ms": 368034,
-      "name": "Okay Alright",
-      "url": "https://open.spotify.com/track/4yqFS96Lf0ktp4oauOuWAN"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1691,6 +1675,22 @@
       "duration_ms": 382385,
       "name": "Open Air - DJ HEARTSTRING Remix",
       "url": "https://open.spotify.com/track/3MPYfrBFJC6sRPRuObng6H"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Okay Alright",
+        "url": "https://open.spotify.com/album/653heyRt50TTV4QNhIYLEv"
+      },
+      "artists": [
+        {
+          "name": "Alan Nieves",
+          "url": "https://open.spotify.com/artist/0gwCVstfKWPEMibFf3MnyG"
+        }
+      ],
+      "duration_ms": 368034,
+      "name": "Okay Alright",
+      "url": "https://open.spotify.com/track/4yqFS96Lf0ktp4oauOuWAN"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1747,26 +1747,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Salvation",
-        "url": "https://open.spotify.com/album/1KqIYVqFI05WWlUzsnf71x"
-      },
-      "artists": [
-        {
-          "name": "Opolopo",
-          "url": "https://open.spotify.com/artist/5WaobPZaAjGIIlabFX3I94"
-        },
-        {
-          "name": "Roland Clark",
-          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
-        }
-      ],
-      "duration_ms": 214903,
-      "name": "Salvation",
-      "url": "https://open.spotify.com/track/7p313MHRh8nNOfRmKoxI3o"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Beeper Blowing Up",
         "url": "https://open.spotify.com/album/5Jfs0kxETh6SAUNFrliOi0"
       },
@@ -1787,6 +1767,26 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Salvation",
+        "url": "https://open.spotify.com/album/1KqIYVqFI05WWlUzsnf71x"
+      },
+      "artists": [
+        {
+          "name": "Opolopo",
+          "url": "https://open.spotify.com/artist/5WaobPZaAjGIIlabFX3I94"
+        },
+        {
+          "name": "Roland Clark",
+          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
+        }
+      ],
+      "duration_ms": 214903,
+      "name": "Salvation",
+      "url": "https://open.spotify.com/track/7p313MHRh8nNOfRmKoxI3o"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "Buffalo Skank",
         "url": "https://open.spotify.com/album/14R9jffCTCcGOpapb4f9yw"
       },
@@ -1799,6 +1799,22 @@
       "duration_ms": 332230,
       "name": "Buffalo Skank",
       "url": "https://open.spotify.com/track/3tKisiH1mTIdHCGdEUCzwk"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Galactic Dust | Intense Delirium",
+        "url": "https://open.spotify.com/album/5ACWrAN3zbcT4WFqCy6ia9"
+      },
+      "artists": [
+        {
+          "name": "Kamilo Sanclemente",
+          "url": "https://open.spotify.com/artist/2AYLgq9P1arichVXbNbjVy"
+        }
+      ],
+      "duration_ms": 413524,
+      "name": "Galactic Dust",
+      "url": "https://open.spotify.com/track/5njLbOXd6QfuivL5X8N2aw"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1827,22 +1843,6 @@
       "duration_ms": 641221,
       "name": "Patterns (feat. Maria Uzor & Ralf Hildenbeutel) - Nicole Moudaber Remix",
       "url": "https://open.spotify.com/track/1AsyAiLjEVBbPtcIxnIYIn"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Galactic Dust | Intense Delirium",
-        "url": "https://open.spotify.com/album/5ACWrAN3zbcT4WFqCy6ia9"
-      },
-      "artists": [
-        {
-          "name": "Kamilo Sanclemente",
-          "url": "https://open.spotify.com/artist/2AYLgq9P1arichVXbNbjVy"
-        }
-      ],
-      "duration_ms": 413524,
-      "name": "Galactic Dust",
-      "url": "https://open.spotify.com/track/5njLbOXd6QfuivL5X8N2aw"
     }
   ],
   "unique_name": "New Music Friday Dance",

@@ -4,7 +4,7 @@
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  LOVKN
 
-1,509 songs - 4 day 7 hr 5 min - [published](https://open.spotify.com/playlist/2Vxt0fhQPuEXpolliR1oQb)
+1,510 songs - 4 day 7 hr 10 min - [published](https://open.spotify.com/playlist/2Vxt0fhQPuEXpolliR1oQb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,7 +223,8 @@
 | [Christ And Christ Crucified \- Live](https://open.spotify.com/track/1ftdZF48D8Ig3zAtQUMYi7) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Christ And Christ Crucified \(Live\)](https://open.spotify.com/album/4r1B2UdNtZaIRtT3R6zziN) | 6:34 | 2022-04-01 | 2022-04-16 |
 | [Christ Crucified](https://open.spotify.com/track/5wyWjT7Z0cTBk0ENp9P53q) | [KXC](https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO), [Tom Eccleshall](https://open.spotify.com/artist/19lZOlbuFFOPe5WPYRlvv1) | [Hope Again \(Live\)](https://open.spotify.com/album/3iYI9Rz7Yk76fvH27RH4cJ) | 5:37 | 2022-07-22 | 2022-08-06 |
 | [Christ Our Hope In Life And Death](https://open.spotify.com/track/4FlV2NvMDxlYBLSGZcT8uu) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Christ Our Hope In Life And Death](https://open.spotify.com/album/2ifDrydHgJ5YCfBgXtacyM) | 3:49 | 2022-06-10 | 2022-06-26 |
-| [Christ Our Hope In Life And Death \- Live](https://open.spotify.com/track/5lzT6dyqE8TVmS2bkkXVGS) | [Matt Merker](https://open.spotify.com/artist/4tV4kbUb5plcHKiGCPcvrX) | [Together For The Gospel Live V](https://open.spotify.com/album/17BNtvofHIIxlUnrCGnYAZ) | 4:23 | 2022-08-19 |  |
+| [Christ Our Hope In Life And Death \- Live](https://open.spotify.com/track/5lzT6dyqE8TVmS2bkkXVGS) | [Matt Merker](https://open.spotify.com/artist/4tV4kbUb5plcHKiGCPcvrX) | [Together For The Gospel Live V](https://open.spotify.com/album/17BNtvofHIIxlUnrCGnYAZ) | 4:23 | 2022-08-19 | 2022-08-31 |
+| [Christ Our Hope In Life And Death \- Live](https://open.spotify.com/track/73WJz2knb6SJbdsp0uVhRL) | [Matt Merker](https://open.spotify.com/artist/4tV4kbUb5plcHKiGCPcvrX) | [Together For The Gospel Live V](https://open.spotify.com/album/1a49I8wJkaWmGNtzxF854V) | 4:23 | 2022-08-26 |  |
 | [Church](https://open.spotify.com/track/5c5Cn75uLZbYsGHVbDHVHD) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Church](https://open.spotify.com/album/30cPB00t2FzvXPQLtSNJF8) | 2:49 | 2022-05-27 | 2022-06-11 |
 | [Church Girl](https://open.spotify.com/track/48hRBPZDRp1RWAPxQLBo8u) | [Drika Will](https://open.spotify.com/artist/5VdviwU19Vq41743Wk12FB) | [Church Girl](https://open.spotify.com/album/4hUrCpbrfaARZK2hEPv4LO) | 2:53 | 2022-06-17 | 2022-07-02 |
 | [Church House Trap House](https://open.spotify.com/track/5fHCpPepEmxTS8bFNCA0Rm) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [1k Pson](https://open.spotify.com/artist/3ex5lvW6vBEAbO0czNTIC2) | [Church House Trap House](https://open.spotify.com/album/3gMNVLSueOnDCuXYRQCCXx) | 2:18 | 2022-08-12 | 2022-08-27 |

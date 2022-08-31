@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Nochica, Vitin, SD9, JEFFRO",
-  "num_followers": 18160,
+  "num_followers": 18209,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3MzI2MCwwMDAwMDAwMDk5NDJkZDk0Njg0MTczNTZlZTU3MjFmYWI4ZTg1Njhk",
+  "snapshot_id": "MTY2MDI3MzI2MCwwMDAwMDAwMDUwZThhY2ZiMDZkMTg2MWU2MjM4MjQxZTk3ZmYxMDgz",
   "tracks": [
     {
       "added_at": "2022-08-12 03:01:00",
@@ -299,6 +299,30 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
+        "name": "Clone",
+        "url": "https://open.spotify.com/album/6crWlJHhWRHaeZQgwxvK6v"
+      },
+      "artists": [
+        {
+          "name": "Yung Nobre",
+          "url": "https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "duration_ms": 198051,
+      "name": "Clone",
+      "url": "https://open.spotify.com/track/6qXLawiN099LNELEdzhZSP"
+    },
+    {
+      "added_at": "2022-08-12 03:01:00",
+      "album": {
         "name": "Favelado Chique",
         "url": "https://open.spotify.com/album/3LK4YpBTi5RpBm4GxVOmiV"
       },
@@ -323,30 +347,6 @@
       "duration_ms": 163000,
       "name": "1.5.7",
       "url": "https://open.spotify.com/track/3dkXSYgqtNE3BlLendqGnU"
-    },
-    {
-      "added_at": "2022-08-12 03:01:00",
-      "album": {
-        "name": "Clone",
-        "url": "https://open.spotify.com/album/6crWlJHhWRHaeZQgwxvK6v"
-      },
-      "artists": [
-        {
-          "name": "Yung Nobre",
-          "url": "https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB"
-        },
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        }
-      ],
-      "duration_ms": 198051,
-      "name": "Clone",
-      "url": "https://open.spotify.com/track/6qXLawiN099LNELEdzhZSP"
     },
     {
       "added_at": "2022-08-12 03:01:00",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
-        "name": "Filho Do Mundo",
-        "url": "https://open.spotify.com/album/5ewti4gLg9xquF9aUTedCo"
-      },
-      "artists": [
-        {
-          "name": "Bruttu",
-          "url": "https://open.spotify.com/artist/6lBNxnxa6HBQskmiPZTwGQ"
-        },
-        {
-          "name": "Rafinha No Beat",
-          "url": "https://open.spotify.com/artist/6zM44V7R04R6uVZFvUkWWG"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Filho Do Mundo",
-      "url": "https://open.spotify.com/track/34QqggQ2otat4LswT24f8k"
-    },
-    {
-      "added_at": "2022-08-12 03:01:00",
-      "album": {
         "name": "Heran\u00e7a",
         "url": "https://open.spotify.com/album/4RHNwCYaQw31hTBpBI0Lmr"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 136568,
       "name": "Heran\u00e7a",
       "url": "https://open.spotify.com/track/533AKJNxbvkYCOP0M0jB7g"
+    },
+    {
+      "added_at": "2022-08-12 03:01:00",
+      "album": {
+        "name": "Filho Do Mundo",
+        "url": "https://open.spotify.com/album/5ewti4gLg9xquF9aUTedCo"
+      },
+      "artists": [
+        {
+          "name": "Bruttu",
+          "url": "https://open.spotify.com/artist/6lBNxnxa6HBQskmiPZTwGQ"
+        },
+        {
+          "name": "Rafinha No Beat",
+          "url": "https://open.spotify.com/artist/6zM44V7R04R6uVZFvUkWWG"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Filho Do Mundo",
+      "url": "https://open.spotify.com/track/34QqggQ2otat4LswT24f8k"
     }
   ],
   "unique_name": "Malandro Posturado",

@@ -1,12 +1,12 @@
 {
   "description": "Afro sounds crossing borders.  Cover: <a href=\"https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg?si=xCx4Iw6eRwWSDCBpAtKEbQ\">Pheelz</a>",
-  "num_followers": 544028,
+  "num_followers": 544184,
   "original_name": "We Everywhere",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTY2MCwwMDAwMDAwMDJkMTllOTRlNDYxNDk5YmZiODVhOTEwNTkzYjY3YzI1",
+  "snapshot_id": "MTY2MDg4MTY2MCwwMDAwMDAwMGFhNmM0YTU1NjI3YTUzY2MxYzNlZDQ5MjE2Y2I0OGQ5",
   "tracks": [
     {
       "added_at": "2022-08-19 04:01:00",
@@ -723,26 +723,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Black Panther: Wakanda Forever Prologue",
-        "url": "https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        },
-        {
-          "name": "Marvel",
-          "url": "https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa"
-        }
-      ],
-      "duration_ms": 213860,
-      "name": "No Woman No Cry",
-      "url": "https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "The Lion King: The Gift",
         "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 204373,
       "name": "Lazarus (feat. Boj)",
       "url": "https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Black Panther: Wakanda Forever Prologue",
+        "url": "https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        },
+        {
+          "name": "Marvel",
+          "url": "https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa"
+        }
+      ],
+      "duration_ms": 213860,
+      "name": "No Woman No Cry",
+      "url": "https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -927,26 +927,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Rave & Roses",
-        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 230721,
-      "name": "Time N Affection",
-      "url": "https://open.spotify.com/track/0aMOalD335v1hsSXmLURzz"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "Come Over (Remix)",
         "url": "https://open.spotify.com/album/4RhemXpQlqhaNdz2WTkzBt"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 145652,
       "name": "Come Over (Remix)",
       "url": "https://open.spotify.com/track/5RBc2SUllAJG4gUZdXTBIj"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Rave & Roses",
+        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 230721,
+      "name": "Time N Affection",
+      "url": "https://open.spotify.com/track/0aMOalD335v1hsSXmLURzz"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
+        "name": "AYA",
+        "url": "https://open.spotify.com/album/0BUPS678TfgTmCMVOviolC"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "duration_ms": 168719,
+      "name": "Doudou",
+      "url": "https://open.spotify.com/track/3V6NCwBywAwpAlAyGL7h0p"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
         "name": "WATAWI (feat. Davido, Focalistic & Abidoza) [Edit]",
         "url": "https://open.spotify.com/album/2aN0xNQEkjaEGW2d0NReSg"
       },
@@ -1643,22 +1659,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "AYA",
-        "url": "https://open.spotify.com/album/0BUPS678TfgTmCMVOviolC"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        }
-      ],
-      "duration_ms": 168719,
-      "name": "Doudou",
-      "url": "https://open.spotify.com/track/3V6NCwBywAwpAlAyGL7h0p"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "Testimony",
         "url": "https://open.spotify.com/album/6s2ae4utKXWlRMahAvuaaY"
       },
@@ -1671,6 +1671,26 @@
       "duration_ms": 146367,
       "name": "Testimony",
       "url": "https://open.spotify.com/track/5L845uQOeyOSSAhGPFEmLc"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "TW20 50",
+        "url": "https://open.spotify.com/album/1VVeLNCUGQSYL1GLek67gv"
+      },
+      "artists": [
+        {
+          "name": "KayCyy",
+          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        },
+        {
+          "name": "Gesaffelstein",
+          "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
+        }
+      ],
+      "duration_ms": 188826,
+      "name": "THE SUN (Prod. Gesaffelstein)",
+      "url": "https://open.spotify.com/track/2OEKjBfuCdVPLLUgUf90ZM"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1699,26 +1719,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "The Lion King: The Gift [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/7kUuNU2LRmr9XbwLHXU9UZ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "Melo-X",
-          "url": "https://open.spotify.com/artist/6AxHPycFTjxDROqK1pzsAE"
-        }
-      ],
-      "duration_ms": 216339,
-      "name": "FIND YOUR WAY BACK - MELO-X Remix",
-      "url": "https://open.spotify.com/track/1g0k1bFcLKyIrdsdUkF3eW"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "Bounce",
         "url": "https://open.spotify.com/album/0yIBWDZAjdoFcCjiY62dI2"
       },
@@ -1735,22 +1735,22 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "TW20 50",
-        "url": "https://open.spotify.com/album/1VVeLNCUGQSYL1GLek67gv"
+        "name": "The Lion King: The Gift [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/7kUuNU2LRmr9XbwLHXU9UZ"
       },
       "artists": [
         {
-          "name": "KayCyy",
-          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         },
         {
-          "name": "Gesaffelstein",
-          "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
+          "name": "Melo-X",
+          "url": "https://open.spotify.com/artist/6AxHPycFTjxDROqK1pzsAE"
         }
       ],
-      "duration_ms": 188826,
-      "name": "THE SUN (Prod. Gesaffelstein)",
-      "url": "https://open.spotify.com/track/2OEKjBfuCdVPLLUgUf90ZM"
+      "duration_ms": 216339,
+      "name": "FIND YOUR WAY BACK - MELO-X Remix",
+      "url": "https://open.spotify.com/track/1g0k1bFcLKyIrdsdUkF3eW"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -2023,18 +2023,26 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/3dHnvFaf3fJFPqCOjzWURD"
+        "name": "next chapter",
+        "url": "https://open.spotify.com/album/3XPXxSPsjCYee7WSYqX133"
       },
       "artists": [
         {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+          "name": "Zubi",
+          "url": "https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY"
+        },
+        {
+          "name": "Rusalka",
+          "url": "https://open.spotify.com/artist/6Xk0SRUhTv4ILc6lcKeWfV"
+        },
+        {
+          "name": "anatu",
+          "url": "https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw"
         }
       ],
-      "duration_ms": 145048,
-      "name": "Say Cheese",
-      "url": "https://open.spotify.com/track/601WxmzITFziMCk3iuNps7"
+      "duration_ms": 162680,
+      "name": "juju",
+      "url": "https://open.spotify.com/track/1Ji8uyxpJ8HwW94wlEY9ip"
     }
   ],
   "unique_name": "We Everywhere",

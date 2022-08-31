@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 
 > Penggalan lagu lama dari kancah musik independen\. Cover: whisperdesire
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,663 likes - 92 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,677 likes - 92 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

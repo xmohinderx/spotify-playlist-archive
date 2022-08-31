@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Abeja Reina](https://open.spotify.com/track/4tiEfGlJaonFDtSTCvesoj) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Abeja Reina](https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ) | 2:37 | 2022-05-20 |  |
+| [Abeja Reina](https://open.spotify.com/track/4tiEfGlJaonFDtSTCvesoj) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Abeja Reina](https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ) | 2:37 | 2022-05-20 | 2022-08-31 |
 | [Adelante Corazón](https://open.spotify.com/track/6e5UQSRwkiRwvY35Zgskil) | [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs) | [Amante de Lo Ajeno](https://open.spotify.com/album/5y3sfjDQClfzkBH9V9OlQX) | 3:59 | 2022-01-07 | 2022-07-29 |
 | [Adelante Corazón](https://open.spotify.com/track/1LiFDElPVZgMGrUIbJd55m) | [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs) | [Amante de Lo Ajeno](https://open.spotify.com/album/25dP4uxWWNVpBN5M5DDWAJ) | 3:59 | 2022-05-20 |  |
 | [Adiós Adiós Amor](https://open.spotify.com/track/0H0y4JXqwK2Zga06WlU281) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Adiós Adiós Amor](https://open.spotify.com/album/1gCLZsVvfalI19UOfVMx11) | 3:11 | 2022-01-07 | 2022-01-22 |
@@ -38,7 +38,7 @@
 | [Cuando Caiga la Noche](https://open.spotify.com/track/15mqnAeCOQXcMB3u48RIin) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuando Caiga la Noche](https://open.spotify.com/album/366Q6rUOSrYDXjrDiuL1lU) | 3:21 | 2022-04-01 | 2022-08-04 |
 | [Cuando Me Importabas](https://open.spotify.com/track/0ihv6gQs9XoIr7me3M9sCy) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Cuando Me Importabas](https://open.spotify.com/album/1yEZEZ575OrXSneXTDDsWD) | 3:12 | 2022-02-18 | 2022-07-26 |
 | [Cucurrucucú Paloma](https://open.spotify.com/track/1C0sa4oOureltY5aJYCXW0) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Cucurrucucú Paloma](https://open.spotify.com/album/3z8gkipgvNxjNgu0UZ8tf6) | 3:10 | 2022-01-07 | 2022-04-21 |
-| [De Mi Enamórate](https://open.spotify.com/track/7LHfwnID8ytzF5KsGr02MJ) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Celebridades\- Daniela Romo](https://open.spotify.com/album/13HtNoDUSIMopEbZl087rR) | 3:38 | 2022-01-07 | 2022-08-23 |
+| [De Mi Enamórate](https://open.spotify.com/track/7LHfwnID8ytzF5KsGr02MJ) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Celebridades\- Daniela Romo](https://open.spotify.com/album/13HtNoDUSIMopEbZl087rR) | 3:38 | 2022-01-07 |  |
 | [De Ti No Lo Esperaba](https://open.spotify.com/track/6JMJKfwi2UiDsCvAlaOH4x) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [De Ti No Lo Esperaba](https://open.spotify.com/album/5WWN1xJb84SCDRx3kll6E0) | 3:13 | 2022-01-07 | 2022-01-22 |
 | [Desaparecer](https://open.spotify.com/track/2nhIWTReHbwWJQaB0AJ5lh) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [Desaparecer](https://open.spotify.com/album/6uf6xnnBVS6MDayHKeYx0E) | 2:46 | 2022-04-01 | 2022-07-09 |
 | [El Cofrecito](https://open.spotify.com/track/28EgoxjaUhr9mFZRhjIUTL) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [Alma De Rancho](https://open.spotify.com/album/3m3YJeynoSZ6MM7OdN3jAt) | 2:34 | 2022-01-07 | 2022-04-21 |

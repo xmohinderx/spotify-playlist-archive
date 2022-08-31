@@ -4,7 +4,7 @@
 
 > Let the blessings come down and the weights go up\.  Get your beast mode on!
 
-330 songs - 16 hr 46 min - [published](https://open.spotify.com/playlist/2BcyUtPNa5ofBEse5V2Mjq)
+331 songs - 16 hr 48 min - [published](https://open.spotify.com/playlist/2BcyUtPNa5ofBEse5V2Mjq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,7 +263,7 @@
 | [Siempre Me Encuentras \(You Find Me\)](https://open.spotify.com/track/6dpAWWgS2AzgAIkOtLH38k) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Siempre Me Encuentras \(You Find Me\)](https://open.spotify.com/album/37bDcpRYar2grUTCmOgque) | 3:25 | 2022-02-04 | 2022-07-16 |
 | [SIMPLE \(feat\. Joe L Barnes\)](https://open.spotify.com/track/4ukZ5RUJMbIyS2tOhooPNY) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [SIMPLE \(feat\. Joe L Barnes\)](https://open.spotify.com/album/4owcAzyMj5nmT6aYRaahtJ) | 2:32 | 2022-02-04 | 2022-08-07 |
 | [Sin Metales](https://open.spotify.com/track/1l1ozrLODpJvx2mcoNpGHU) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42), [AJ Kallejero Ramos](https://open.spotify.com/artist/5iRaSHHgEfoN8SOU34nWJw), [AJ Ramos](https://open.spotify.com/artist/7fId105oc58qYMtk1U5pI3) | [On](https://open.spotify.com/album/1K7rDg2a1prS8JR8Ird9Ks) | 2:16 | 2022-02-04 | 2022-07-13 |
-| [Sin Pausa](https://open.spotify.com/track/0pGz2PpI6ijh1DHufWkkyI) | [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR), [Rubinsky Rbk](https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH) | [Sin Pausa](https://open.spotify.com/album/52AnVNZzuYHGNU4eFDSA78) | 2:42 | 2022-02-04 |  |
+| [Sin Pausa](https://open.spotify.com/track/0pGz2PpI6ijh1DHufWkkyI) | [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR), [Rubinsky Rbk](https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH) | [Sin Pausa](https://open.spotify.com/album/52AnVNZzuYHGNU4eFDSA78) | 2:42 | 2022-02-04 | 2022-08-31 |
 | [Siyahamba](https://open.spotify.com/track/0Eghphy9GkgQixBJJIZkXc) | [Tay Collier](https://open.spotify.com/artist/6txcB8i7aBRxOhs8Psyvvk), [Sy\-1](https://open.spotify.com/artist/0GTr5De2nHyUWgHn5nhkgP), [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg) | [Siyahamba](https://open.spotify.com/album/6z2zZBjtMxyG7a5lSe7ZU6) | 2:59 | 2022-02-04 |  |
 | [Soldier On](https://open.spotify.com/track/7dDP7XYJvV3hi87evYSwz9) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Nothing is Ordinary\. Everything is Beautiful.](https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P) | 3:02 | 2022-02-04 |  |
 | [Spiritual Violence](https://open.spotify.com/track/1LhgxsjhWN17o46oOcepqd) | [Konola](https://open.spotify.com/artist/5OLzjUDB3C9y3LvyNefP8t) | [Spiritual Violence](https://open.spotify.com/album/0xEMJUvHEsjJ77KL7IAa9k) | 4:00 | 2022-04-30 | 2022-07-29 |
@@ -296,6 +296,7 @@
 | [Too Easy \(feat\. Parris Chariz & Jon Keith\)](https://open.spotify.com/track/6Zn4QgUQz6btDonLQwhHta) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM), [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [Too Easy \(feat\. Parris Chariz & Jon Keith\)](https://open.spotify.com/album/41CUu6uafLU74cZtNwHERv) | 3:36 | 2022-02-04 | 2022-07-28 |
 | [Too Much](https://open.spotify.com/track/7aygstjsjn346UHONMnTYG) | [Lamar Riddick](https://open.spotify.com/artist/0xMUuBXUryQ7XVhgIbAhgt), [Eli Williams](https://open.spotify.com/artist/6cpRgzScOKkKse4SlMd97y) | [Too Much](https://open.spotify.com/album/1en6pDHsWQFQK3CcA9WjwL) | 1:58 | 2022-03-11 | 2022-03-24 |
 | [Touchdown \(feat\. Canon\)](https://open.spotify.com/track/71SyQ1CQbS4hz240Ql0BF4) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [1014 \- EP](https://open.spotify.com/album/2WKEg9HYGVjjk9ksvJSns7) | 4:27 | 2022-02-04 | 2022-05-09 |
+| [Tricky](https://open.spotify.com/track/1X6R3SpHPB4ySRMF5kzdtw) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [Tricky](https://open.spotify.com/album/2L7aO5sMbn0jSFj2ZQpdnB) | 2:12 | 2022-08-06 |  |
 | [TUNNEL VISION](https://open.spotify.com/track/6C6s0bb9k6KfmRms8l6WE1) | [IAMOPB](https://open.spotify.com/artist/18MYQNripiW2Lljs4AhW3Z), [Anthone Ray](https://open.spotify.com/artist/2STifIFLtVoY6rj4hc4vVv) | [INNER CITY GOSPEL](https://open.spotify.com/album/2gsf9Nax7eO3tnjPSC4YqP) | 2:49 | 2022-07-17 | 2022-07-29 |
 | [Ugh Ugh](https://open.spotify.com/track/12HVeLLj7WuSyA0S1aizzA) | [Adrion Butler](https://open.spotify.com/artist/4IgUUuQrZ1zLIYzsuU0sT5), [ShySpeaks](https://open.spotify.com/artist/1qH7l0NhbPqaVbDWiw4JLf) | [Ugh Ugh](https://open.spotify.com/album/77AbaygMEIH8CHutQsIjHF) | 3:13 | 2022-02-04 |  |
 | [Undefeated](https://open.spotify.com/track/23aDfyOz4nmNTt3iyjl6Yc) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Undefeated](https://open.spotify.com/album/5uVvaONs9KIUec16x6w8ex) | 4:14 | 2022-07-17 |  |

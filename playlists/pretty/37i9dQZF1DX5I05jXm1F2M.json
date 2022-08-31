@@ -1,12 +1,12 @@
 {
   "description": "Take that last call karaoke to go.",
-  "num_followers": 75670,
+  "num_followers": 75758,
   "original_name": "Pub Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDA5ODM3OCwwMDAwMDAwMGEwNGM0ZTQ5N2JiNmVlMmZiNzA5MGMyMzU1ZWRkYjUx",
+  "snapshot_id": "MTY0MDA5ODM3OCwwMDAwMDAwMDE4YzE5MzRkZWM2ZWZhZjVmNmY4Yzg5YmM2YTEyNDJl",
   "tracks": [
     {
       "added_at": "2021-12-21 14:52:58",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2021-12-21 14:52:58",
       "album": {
-        "name": "The Essential Earth, Wind & Fire",
-        "url": "https://open.spotify.com/album/75CDFLAqMl6VgmPJtaTHmg"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 215080,
-      "name": "September",
-      "url": "https://open.spotify.com/track/3wpLkju0bJy89kjgdRys0j"
-    },
-    {
-      "added_at": "2021-12-21 14:52:58",
-      "album": {
         "name": "Veni Vidi Vicious",
         "url": "https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 199759,
       "name": "Hate To Say I Told You So",
       "url": "https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8"
+    },
+    {
+      "added_at": "2021-12-21 14:52:58",
+      "album": {
+        "name": "The Essential Earth, Wind & Fire",
+        "url": "https://open.spotify.com/album/75CDFLAqMl6VgmPJtaTHmg"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 215080,
+      "name": "September",
+      "url": "https://open.spotify.com/track/3wpLkju0bJy89kjgdRys0j"
     },
     {
       "added_at": "2021-12-21 14:52:58",

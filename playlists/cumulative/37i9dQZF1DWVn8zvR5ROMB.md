@@ -4,7 +4,7 @@
 
 > All of the newest country music releases in one playlist! Featuring Ingrid Andress, Kameron Marlowe, Kenny Chesney and more\. Cover: Kameron Marlowe
 
-1,568 songs - 3 day 13 hr 13 min - [published](https://open.spotify.com/playlist/7JyaLQ6KVSTQOnADUg2eP0)
+1,569 songs - 3 day 13 hr 16 min - [published](https://open.spotify.com/playlist/7JyaLQ6KVSTQOnADUg2eP0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -686,6 +686,7 @@
 | [Hungover Enough](https://open.spotify.com/track/7w0cnL0bgqz6edtxVUkBZ3) | [CJ Solar](https://open.spotify.com/artist/2Tb4A6BOZgEeR7c6nyDlYy) | [Hungover Enough](https://open.spotify.com/album/0H01XYXQ9MAFsXvsqwT2E5) | 3:42 | 2022-05-06 | 2022-05-20 |
 | [Hurt Like You \(feat\. ROZ\)](https://open.spotify.com/track/4YiuYchReGmLFzKBKhNFwY) | [Matt Rogers](https://open.spotify.com/artist/05fmyImfk8ILasGDFWQkbC), [ROZ](https://open.spotify.com/artist/2mhXLt4amgUwxOMhNNYbcG) | [Hurt Like You \(feat\. ROZ\)](https://open.spotify.com/album/3StEU7yQKD3ADLN8k3BvLP) | 3:23 | 2022-01-21 | 2022-03-05 |
 | [I Ain't Drunk \(feat\. Terri Clark\)](https://open.spotify.com/track/5hGeFMy9ilkY029FJz9QFv) | [Gord Bamford](https://open.spotify.com/artist/1w9VjfHGE5qPLJQy3dKups), [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC) | [Diamonds in a Whiskey Glass \(Deluxe Diamond Edition\)](https://open.spotify.com/album/3LZL4DbzZ6hJAM7dMTk8XO) | 3:24 | 2022-04-22 | 2022-05-14 |
+| [I Ain't Like That](https://open.spotify.com/track/2bR7qp6lOMzzFYgKiz2TEL) | [Holiday State](https://open.spotify.com/artist/51yDa6ThQLeL4BOyQXFPOJ) | [I Ain't Like That](https://open.spotify.com/album/6i7xWmlzA2DQqprgjGL82z) | 3:04 | 2022-08-26 |  |
 | [I Ain't Runnin'](https://open.spotify.com/track/3yIjbJlnoO9qcIdLbBd3jY) | [Georgia Landscaper](https://open.spotify.com/artist/1E4mNrX2ET9scdOdkNoPNo) | [I Ain't Runnin'](https://open.spotify.com/album/2NqEg6nWugiVLTcJPGXnJn) | 2:45 | 2022-07-08 | 2022-07-23 |
 | [I Always Wanted To](https://open.spotify.com/track/0ERAkdRyxzuQGlT9IyTfm1) | [Caitlin Quisenberry](https://open.spotify.com/artist/2yLeptGRMWP64GReoRj85U) | [I Always Wanted To](https://open.spotify.com/album/2RpkPWn2am447zFj2gQslR) | 3:42 | 2022-02-11 | 2022-04-09 |
 | [I Believe in Us](https://open.spotify.com/track/46VDPyYx5oZ52fJk7Bm25o) | [Chris Moreno](https://open.spotify.com/artist/4Bikw36AHYxTvphOQCWykA) | [Coming up Roses](https://open.spotify.com/album/2jVQ3DVXQSEcnQZ3h3hh4j) | 3:34 | 2022-04-15 | 2022-04-29 |

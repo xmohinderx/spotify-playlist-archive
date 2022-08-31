@@ -4,7 +4,7 @@
 
 > Dance, Bass, EDM, Trap: the perfect gaming mix.
 
-281 songs - 15 hr 32 min - [published](https://open.spotify.com/playlist/16xYNZ4hiN1QTOpWJCjD89)
+282 songs - 15 hr 35 min - [published](https://open.spotify.com/playlist/16xYNZ4hiN1QTOpWJCjD89)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Followers](https://open.spotify.com/track/5sPoju3oZHg9Wq5KXxBH3a) | [AREA21](https://open.spotify.com/artist/76YIoWHp3Ri3q1ocOPtFzp), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Maejor](https://open.spotify.com/artist/3XcCT5MPlQPWFTJyzXbfuX) | [Followers](https://open.spotify.com/album/3YRKOtLYysmk04YlzvpnU3) | 2:57 | 2022-05-06 |  |
 | [Frozen](https://open.spotify.com/track/6lknMmJZALXxx7emwwZWLX) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Frozen](https://open.spotify.com/album/2GAIUdfLIFtxDty42RowjE) | 2:00 | 2022-07-14 |  |
 | [Fuck U Love U](https://open.spotify.com/track/7AcfLjRYL1LeiUHUU302Fm) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Fuck U Love U](https://open.spotify.com/album/7fZwgv7wRTEShKzeF6GA0w) | 3:18 | 2022-06-10 | 2022-07-21 |
-| [Ghosts](https://open.spotify.com/track/1Rpj9CZE7cGSXUCfiBf0eA) | [Jacob Tillberg](https://open.spotify.com/artist/6aJRwrwfOffz7RMh2Cfm8e) | [Ghosts](https://open.spotify.com/album/5Y9i4ZFAG2GM7ugIM916dY) | 3:35 | 2022-08-23 |  |
+| [Ghosts](https://open.spotify.com/track/1Rpj9CZE7cGSXUCfiBf0eA) | [Jacob Tillberg](https://open.spotify.com/artist/6aJRwrwfOffz7RMh2Cfm8e) | [Ghosts](https://open.spotify.com/album/5Y9i4ZFAG2GM7ugIM916dY) | 3:35 | 2022-08-23 | 2022-08-31 |
 | [Giving Up On U](https://open.spotify.com/track/1tG4l4iUvZC6M1Y8MVBacK) | [Laser](https://open.spotify.com/artist/40V6p0CfGARmxEiHA2Nv1f), [Panda Eyes](https://open.spotify.com/artist/3K0GDmmiRwn1Zc7RZzTeAz) | [Giving Up On U](https://open.spotify.com/album/6Nl7jAAYCOthnrUxFqEDwq) | 3:15 | 2022-05-06 | 2022-07-28 |
 | [Gold](https://open.spotify.com/track/2sm2f0mbOnfCi1MOLIegdV) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Gold / YES](https://open.spotify.com/album/5OvG0ow70k4wROjF597ost) | 4:20 | 2022-05-06 | 2022-07-29 |
 | [Goosebumps \- Remix](https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Goosebumps \(Remix\)](https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD) | 2:42 | 2022-05-06 |  |
@@ -260,6 +260,7 @@
 | [Twilight](https://open.spotify.com/track/1guHCTD0uiEgTG3HOPgBmU) | [GRAVECHILL](https://open.spotify.com/artist/1EnZjgGD81emhSdq6adEKt) | [Twilight](https://open.spotify.com/album/2AXcVujiP64YJjh05z7xBu) | 1:56 | 2022-06-03 |  |
 | [u.](https://open.spotify.com/track/0J7oHYxjF6Oln61wy0kP2i) | [niteboi](https://open.spotify.com/artist/2Ue601Op6mLGMwrQYjAOSW) | [u.](https://open.spotify.com/album/4zilHatAUeMby2Lh1pEHpS) | 2:54 | 2022-07-14 | 2022-08-25 |
 | [u.](https://open.spotify.com/track/22vZPUxE05ELFeIO0Wipj2) | [niteboi](https://open.spotify.com/artist/2Ue601Op6mLGMwrQYjAOSW) | [u.](https://open.spotify.com/album/44EIn5KIXSE1GLD46ngPml) | 2:54 | 2022-08-12 | 2022-08-21 |
+| [u.](https://open.spotify.com/track/3bwIVaOlLSX4rInoLgB3uX) | [niteboi](https://open.spotify.com/artist/2Ue601Op6mLGMwrQYjAOSW) | [u.](https://open.spotify.com/album/3R8Yfbc9k1aNH6kTqaYLyj) | 2:54 | 2022-08-26 |  |
 | [Unify](https://open.spotify.com/track/5CmO3jOPVD7RaPERcA4xA1) | [Axel Boy](https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ) | [Unify / Lift Me Up](https://open.spotify.com/album/5IYZPdgIRq01r0noaioYf9) | 4:49 | 2022-05-06 | 2022-07-28 |
 | [Unity](https://open.spotify.com/track/66TdgLCf9Bic8nBsNv0YuD) | [The Walkers](https://open.spotify.com/artist/3o6ANFc1elhbAeqRYphStE), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Unity](https://open.spotify.com/album/0p1vX5sQiE5S6Moj8r3MvL) | 3:24 | 2022-06-03 |  |
 | [Unleashed](https://open.spotify.com/track/3EQFXygBuRViHpx64ZPsjy) | [2nd Life](https://open.spotify.com/artist/2j1Yftz0qNufy1z5jfNYab) | [Unleashed](https://open.spotify.com/album/3AeIE3pK62Qiu4sO9g8Vzy) | 2:31 | 2022-06-24 | 2022-07-29 |

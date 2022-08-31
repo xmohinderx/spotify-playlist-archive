@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Sasha Alex Sloan",
-  "num_followers": 72511,
+  "num_followers": 72552,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjQ2MCwwMDAwMDAwMDMwNDdkYWY2MzMwNGZlMzdjNDRkYmU1YTM5NWMwOGVl",
+  "snapshot_id": "MTY2MTQ4NjQ2MCwwMDAwMDAwMGZmNWFiYmNlZWI4OTQ4YWM5NGEyZjk2YjU2YmM1ZTMx",
   "tracks": [
     {
       "added_at": "2022-08-26 04:01:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "July (Bedroom Session)",
-        "url": "https://open.spotify.com/album/10jBojX5TwmsAflUdJFfz7"
-      },
-      "artists": [
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 210720,
-      "name": "July - Bedroom Session",
-      "url": "https://open.spotify.com/track/3OQmQTpwZBL3yTr5mCCvOH"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Wouldn't It Be Nice",
         "url": "https://open.spotify.com/album/0K1UyE6v9I3AnwN7trOWVW"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 152181,
       "name": "Wouldn't It Be Nice",
       "url": "https://open.spotify.com/track/7GTpcLYxaSs1dg4NXZpscp"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "July (Bedroom Session)",
+        "url": "https://open.spotify.com/album/10jBojX5TwmsAflUdJFfz7"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 210720,
+      "name": "July - Bedroom Session",
+      "url": "https://open.spotify.com/track/3OQmQTpwZBL3yTr5mCCvOH"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Alaska",
-        "url": "https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq"
-      },
-      "artists": [
-        {
-          "name": "Julia Cooper",
-          "url": "https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576"
-        }
-      ],
-      "duration_ms": 191875,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 237876,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq"
+      },
+      "artists": [
+        {
+          "name": "Julia Cooper",
+          "url": "https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576"
+        }
+      ],
+      "duration_ms": 191875,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Industry Baby",
-        "url": "https://open.spotify.com/album/5T8h52l8nVMqPSGq52Q8kq"
-      },
-      "artists": [
-        {
-          "name": "Noga Erez",
-          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
-        }
-      ],
-      "duration_ms": 231381,
-      "name": "Industry Baby",
-      "url": "https://open.spotify.com/track/0ypcpkYOckOLxySl4m69gM"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "In Your Prime - EP",
         "url": "https://open.spotify.com/album/22XLHhWmIM8IuCFqpkpCHX"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 247200,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/5qizUaJepbFJ5qGZyuyQim"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Industry Baby",
+        "url": "https://open.spotify.com/album/5T8h52l8nVMqPSGq52Q8kq"
+      },
+      "artists": [
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        }
+      ],
+      "duration_ms": 231381,
+      "name": "Industry Baby",
+      "url": "https://open.spotify.com/track/0ypcpkYOckOLxySl4m69gM"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "All You Need Is Love",
-        "url": "https://open.spotify.com/album/0yLJMIgyF3luW7T884EOGR"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 206138,
-      "name": "All You Need Is Love",
-      "url": "https://open.spotify.com/track/4yyHCYD1ZmeIXEEbvLjCqh"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0ycBRDotCpCVKO6ZHrsIR7"
       },
@@ -1555,22 +1539,18 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Manchild",
-        "url": "https://open.spotify.com/album/4T3bAELPl0l8HhqKMp7Z8I"
+        "name": "All You Need Is Love",
+        "url": "https://open.spotify.com/album/0yLJMIgyF3luW7T884EOGR"
       },
       "artists": [
         {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Neneh Cherry",
-          "url": "https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD"
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 197800,
-      "name": "Manchild",
-      "url": "https://open.spotify.com/track/1v8bDsrquS2MbPcY0rXnCl"
+      "duration_ms": 206138,
+      "name": "All You Need Is Love",
+      "url": "https://open.spotify.com/track/4yyHCYD1ZmeIXEEbvLjCqh"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1591,6 +1571,26 @@
       "duration_ms": 224041,
       "name": "everywhere",
       "url": "https://open.spotify.com/track/7fROnnvjVQHESskj3WmQ6r"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Manchild",
+        "url": "https://open.spotify.com/album/4T3bAELPl0l8HhqKMp7Z8I"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Neneh Cherry",
+          "url": "https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD"
+        }
+      ],
+      "duration_ms": 197800,
+      "name": "Manchild",
+      "url": "https://open.spotify.com/track/1v8bDsrquS2MbPcY0rXnCl"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "The Sweet Escape",
+        "url": "https://open.spotify.com/album/3jCd27MDogNResJz6axMOP"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 166016,
+      "name": "The Sweet Escape",
+      "url": "https://open.spotify.com/track/0UPYSuHKAZq6diZrCaBAsW"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "Wedding Songs",
         "url": "https://open.spotify.com/album/3e2GfHTpoxEbCUdCj5TRzl"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 231308,
       "name": "Anyone",
       "url": "https://open.spotify.com/track/2vK25Z3YBFJ44agZlDz9GG"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "The Sweet Escape",
-        "url": "https://open.spotify.com/album/3jCd27MDogNResJz6axMOP"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 166016,
-      "name": "The Sweet Escape",
-      "url": "https://open.spotify.com/track/0UPYSuHKAZq6diZrCaBAsW"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/6V820o63cpdpS7Jz9jXhhJ"
-      },
-      "artists": [
-        {
-          "name": "Hatchie",
-          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
-        }
-      ],
-      "duration_ms": 242915,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/10zQ66l1AwcLtanGsv3Fav"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "No Letting Go",
         "url": "https://open.spotify.com/album/6seIAuNr6A0YfzFsd0S2i7"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 200000,
       "name": "No Letting Go - Acoustic",
       "url": "https://open.spotify.com/track/2WxfUIhD2c7oUM2XHFQrpO"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/6V820o63cpdpS7Jz9jXhhJ"
+      },
+      "artists": [
+        {
+          "name": "Hatchie",
+          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
+        }
+      ],
+      "duration_ms": 242915,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/10zQ66l1AwcLtanGsv3Fav"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1923,6 +1923,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Love on Top",
+        "url": "https://open.spotify.com/album/1AJrb6Xr98He43S6G9lBKP"
+      },
+      "artists": [
+        {
+          "name": "Sophie Rose",
+          "url": "https://open.spotify.com/artist/7zVoS1SW2Btj5qRbtlKuyp"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Love on Top",
+      "url": "https://open.spotify.com/track/2p49O7MazA7DBeS9IS9erq"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "Dancing In The Moonlight (feat. NEIMY) [Acoustic]",
         "url": "https://open.spotify.com/album/6kaPo11OP4Nh6B0X7fbwVa"
       },
@@ -1939,22 +1955,6 @@
       "duration_ms": 144570,
       "name": "Dancing In The Moonlight (feat. NEIMY) - Acoustic",
       "url": "https://open.spotify.com/track/3KZL647GYe5NGUFqBS7hs5"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Love on Top",
-        "url": "https://open.spotify.com/album/1AJrb6Xr98He43S6G9lBKP"
-      },
-      "artists": [
-        {
-          "name": "Sophie Rose",
-          "url": "https://open.spotify.com/artist/7zVoS1SW2Btj5qRbtlKuyp"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Love on Top",
-      "url": "https://open.spotify.com/track/2p49O7MazA7DBeS9IS9erq"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "It's Gonna Be Me",
-        "url": "https://open.spotify.com/album/43mqswumv5wL0UseBpGeMV"
-      },
-      "artists": [
-        {
-          "name": "Kevin Garrett",
-          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
-        }
-      ],
-      "duration_ms": 174349,
-      "name": "It's Gonna Be Me",
-      "url": "https://open.spotify.com/track/0BiuccnShiPP1MIccIu6m5"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Beautiful Girls",
         "url": "https://open.spotify.com/album/4E0LEtlY4LfTdIK9J9AN8R"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 245519,
       "name": "Beautiful Girls",
       "url": "https://open.spotify.com/track/6xBeYC4Y5Ya2nzZ9DYErXZ"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "It's Gonna Be Me",
+        "url": "https://open.spotify.com/album/43mqswumv5wL0UseBpGeMV"
+      },
+      "artists": [
+        {
+          "name": "Kevin Garrett",
+          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
+        }
+      ],
+      "duration_ms": 174349,
+      "name": "It's Gonna Be Me",
+      "url": "https://open.spotify.com/track/0BiuccnShiPP1MIccIu6m5"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -2071,22 +2071,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Walking On The Moon",
-        "url": "https://open.spotify.com/album/2kwI7O2JRV0R0WXLPr9teL"
-      },
-      "artists": [
-        {
-          "name": "Ruelle",
-          "url": "https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx"
-        }
-      ],
-      "duration_ms": 241213,
-      "name": "Walking On The Moon",
-      "url": "https://open.spotify.com/track/64NgJu6rPcsDYCN4IhYjDE"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Night Changes",
         "url": "https://open.spotify.com/album/5lZeOHZErhsowOy6Lc0aVk"
       },
@@ -2099,6 +2083,22 @@
       "duration_ms": 225721,
       "name": "Night Changes",
       "url": "https://open.spotify.com/track/4Vd7XveTskuB0bZXIfvITy"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Walking On The Moon",
+        "url": "https://open.spotify.com/album/2kwI7O2JRV0R0WXLPr9teL"
+      },
+      "artists": [
+        {
+          "name": "Ruelle",
+          "url": "https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx"
+        }
+      ],
+      "duration_ms": 241213,
+      "name": "Walking On The Moon",
+      "url": "https://open.spotify.com/track/64NgJu6rPcsDYCN4IhYjDE"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Soft Pop Hits",
-        "url": "https://open.spotify.com/album/1UQTvOQdqokFFcRDUGYvXX"
-      },
-      "artists": [
-        {
-          "name": "HRVY",
-          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
-        }
-      ],
-      "duration_ms": 182986,
-      "name": "Baby, I Love Your Way",
-      "url": "https://open.spotify.com/track/3baZNMeoFa4vTZ3SZK71xD"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Chandelier",
         "url": "https://open.spotify.com/album/7qQyLTKV67RGg6TmY8vyit"
       },
@@ -2195,6 +2179,22 @@
       "duration_ms": 222857,
       "name": "Chandelier",
       "url": "https://open.spotify.com/track/7F2tZGMRkcEyGYY8Xee7xz"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Soft Pop Hits",
+        "url": "https://open.spotify.com/album/1UQTvOQdqokFFcRDUGYvXX"
+      },
+      "artists": [
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        }
+      ],
+      "duration_ms": 182986,
+      "name": "Baby, I Love Your Way",
+      "url": "https://open.spotify.com/track/3baZNMeoFa4vTZ3SZK71xD"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Torn",
-        "url": "https://open.spotify.com/album/24BosB3DMNzQlOTsThPuhk"
-      },
-      "artists": [
-        {
-          "name": "Jennel Garcia",
-          "url": "https://open.spotify.com/artist/1Ff1cuzx8IrADaKnclXscN"
-        }
-      ],
-      "duration_ms": 217041,
-      "name": "Torn",
-      "url": "https://open.spotify.com/track/3j9q9MpY5FNofZqlS8XyZZ"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "God Only Knows",
         "url": "https://open.spotify.com/album/1ZasjPdbUUzZ9rMwl5Lywi"
       },
@@ -2403,6 +2387,22 @@
       "duration_ms": 184000,
       "name": "God Only Knows",
       "url": "https://open.spotify.com/track/7L4UdecBBFRlL0preuJtXW"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Torn",
+        "url": "https://open.spotify.com/album/24BosB3DMNzQlOTsThPuhk"
+      },
+      "artists": [
+        {
+          "name": "Jennel Garcia",
+          "url": "https://open.spotify.com/artist/1Ff1cuzx8IrADaKnclXscN"
+        }
+      ],
+      "duration_ms": 217041,
+      "name": "Torn",
+      "url": "https://open.spotify.com/track/3j9q9MpY5FNofZqlS8XyZZ"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -2471,6 +2471,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "I\u2019m With You",
+        "url": "https://open.spotify.com/album/0lsB68u7qrrQLhYej5JD07"
+      },
+      "artists": [
+        {
+          "name": "Moncrieff",
+          "url": "https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC"
+        }
+      ],
+      "duration_ms": 235493,
+      "name": "I\u2019m With You",
+      "url": "https://open.spotify.com/track/4UiBMxmXRip1Er6xILD5Im"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "TROLLS Holiday In Harmony",
         "url": "https://open.spotify.com/album/4QhiPwSJKMHBk0EL67zBaT"
       },
@@ -2499,22 +2515,6 @@
       "duration_ms": 156200,
       "name": "Signed, Sealed, Delivered (I'm Yours)",
       "url": "https://open.spotify.com/track/0LKsKNbx1NhGRzGSVBHH1F"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "I\u2019m With You",
-        "url": "https://open.spotify.com/album/0lsB68u7qrrQLhYej5JD07"
-      },
-      "artists": [
-        {
-          "name": "Moncrieff",
-          "url": "https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC"
-        }
-      ],
-      "duration_ms": 235493,
-      "name": "I\u2019m With You",
-      "url": "https://open.spotify.com/track/4UiBMxmXRip1Er6xILD5Im"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -2571,22 +2571,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Halo",
-        "url": "https://open.spotify.com/album/3GmA1W7zAKUtEUpLjX8pFQ"
-      },
-      "artists": [
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 267026,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/3Jj7wTQ4xkC1xYz0q0M4TD"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Bam Bam (Acoustic)",
         "url": "https://open.spotify.com/album/1Z2GecoW9ZMdzhTIbaW3er"
       },
@@ -2607,18 +2591,18 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Bye Bye Bye (From the Original Motion Picture \"Red Rocket\")",
-        "url": "https://open.spotify.com/album/65K0DheoPi4EpcvGEY6Zrd"
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/3GmA1W7zAKUtEUpLjX8pFQ"
       },
       "artists": [
         {
-          "name": "Suzanna Son",
-          "url": "https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A"
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
         }
       ],
-      "duration_ms": 127400,
-      "name": "Bye Bye Bye - From the Original Motion Picture \"Red Rocket\"",
-      "url": "https://open.spotify.com/track/44ZhV7lxFuEdQaGEW31T8I"
+      "duration_ms": 267026,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/3Jj7wTQ4xkC1xYz0q0M4TD"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -2635,6 +2619,22 @@
       "duration_ms": 192029,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/5eutF3oggNdbWix4qCvHne"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Bye Bye Bye (From the Original Motion Picture \"Red Rocket\")",
+        "url": "https://open.spotify.com/album/65K0DheoPi4EpcvGEY6Zrd"
+      },
+      "artists": [
+        {
+          "name": "Suzanna Son",
+          "url": "https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A"
+        }
+      ],
+      "duration_ms": 127400,
+      "name": "Bye Bye Bye - From the Original Motion Picture \"Red Rocket\"",
+      "url": "https://open.spotify.com/track/44ZhV7lxFuEdQaGEW31T8I"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -2707,6 +2707,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "The One That Got Away (Acoustic)",
+        "url": "https://open.spotify.com/album/7HktipfMyjwIXMRCy5mCd3"
+      },
+      "artists": [
+        {
+          "name": "Landon Austin",
+          "url": "https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52"
+        }
+      ],
+      "duration_ms": 217884,
+      "name": "The One That Got Away - Acoustic",
+      "url": "https://open.spotify.com/track/5v4Yr3jEypWwq139f92zoP"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "Stuck With U",
         "url": "https://open.spotify.com/album/6CpwPzeIRCFEb4ki1u17Va"
       },
@@ -2723,22 +2739,6 @@
       "duration_ms": 220165,
       "name": "Stuck With U",
       "url": "https://open.spotify.com/track/2KjNR7eOwdcUhHPgfj5xsl"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "The One That Got Away (Acoustic)",
-        "url": "https://open.spotify.com/album/7HktipfMyjwIXMRCy5mCd3"
-      },
-      "artists": [
-        {
-          "name": "Landon Austin",
-          "url": "https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52"
-        }
-      ],
-      "duration_ms": 217884,
-      "name": "The One That Got Away - Acoustic",
-      "url": "https://open.spotify.com/track/5v4Yr3jEypWwq139f92zoP"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -2891,22 +2891,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/4JRsIxxToO1yQAxVcXcrMF"
-      },
-      "artists": [
-        {
-          "name": "Beatrich",
-          "url": "https://open.spotify.com/artist/4R7ILGBgDWUiAT1kWNe90W"
-        }
-      ],
-      "duration_ms": 225931,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/0dq8XHrYcusGvwXmda53v1"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Black Velvet (Junos 365 Sessions)",
         "url": "https://open.spotify.com/album/3vRrUGaOVWRzyKuzdFvK41"
       },
@@ -2919,6 +2903,22 @@
       "duration_ms": 218283,
       "name": "Black Velvet - Junos 365 Sessions",
       "url": "https://open.spotify.com/track/2ccf3s5PhImfbhrmg21CMG"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/4JRsIxxToO1yQAxVcXcrMF"
+      },
+      "artists": [
+        {
+          "name": "Beatrich",
+          "url": "https://open.spotify.com/artist/4R7ILGBgDWUiAT1kWNe90W"
+        }
+      ],
+      "duration_ms": 225931,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/0dq8XHrYcusGvwXmda53v1"
     },
     {
       "added_at": "2022-08-26 04:01:00",

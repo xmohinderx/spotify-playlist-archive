@@ -288,6 +288,24 @@
     },
     {
       "album": {
+        "name": "Barsatein",
+        "url": "https://open.spotify.com/album/5JNgoPSzkWxkT1W2EMqgR7"
+      },
+      "artists": [
+        {
+          "name": "Mitraz",
+          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222331,
+      "name": "Barsatein",
+      "url": "https://open.spotify.com/track/3RgqESJgY3KhxvonPhZ9Gp"
+    },
+    {
+      "album": {
         "name": "Siyah - Pt.2 | Maazi",
         "url": "https://open.spotify.com/album/5xJ0TthXT6WOZtkXtPltTK"
       },
@@ -1355,7 +1373,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 143661,
       "name": "jaaye na tu",
       "url": "https://open.spotify.com/track/6dCpB0vj7xrBMyOH0mDuNN"

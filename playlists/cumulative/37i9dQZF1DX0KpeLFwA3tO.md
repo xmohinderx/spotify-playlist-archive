@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: The Dangerous Summer
 
-555 songs - 1 day 3 hr 43 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
+557 songs - 1 day 3 hr 48 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,7 +210,8 @@
 | [Hallucinate \(feat\. Josh Franceschi\)](https://open.spotify.com/track/13Tx6UXab7USWVm3logTKh) | [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo), [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6), [Josh Franceschi](https://open.spotify.com/artist/1TUHJZ0mNtVimkplNEki48) | [Hallucinate \(feat\. Josh Franceschi\)](https://open.spotify.com/album/3veRLhukp1m3SdpCiWcUlQ) | 3:31 | 2022-05-20 | 2022-07-22 |
 | [Hanging Out with All the Wrong People](https://open.spotify.com/track/3sHlpMbDjgGPedrNnBd5Xb) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Crisis of Faith](https://open.spotify.com/album/5SHCyDKUS2SWdR9FJlRFvN) | 3:46 | 2022-01-21 | 2022-03-11 |
 | [Hannah Montana](https://open.spotify.com/track/3ejsbsJ2xG6HPHNGNHZmWf) | [Nico Collins](https://open.spotify.com/artist/1iGwHlKgQKtdrtzmlwZ71U) | [Hannah Montana](https://open.spotify.com/album/4TMyuajb4NNKwYFT8a0XXB) | 3:31 | 2022-05-12 | 2022-06-24 |
-| [Happiness](https://open.spotify.com/track/6TemocIk2wdyLz1scEoA8H) | [THICK](https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli) | [Happiness](https://open.spotify.com/album/3LbQrIEmgwrewExETsuoqh) | 2:19 | 2022-08-18 |  |
+| [Happiness](https://open.spotify.com/track/2rkcIVIfVrvLX8Qp95WZoj) | [THICK](https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli) | [Happy Now](https://open.spotify.com/album/5ucPdWDzfyiYXEDC1aC80x) | 2:19 | 2022-08-25 |  |
+| [Happiness](https://open.spotify.com/track/6TemocIk2wdyLz1scEoA8H) | [THICK](https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli) | [Happiness](https://open.spotify.com/album/3LbQrIEmgwrewExETsuoqh) | 2:19 | 2022-08-18 | 2022-08-31 |
 | [Hard Rock Potato](https://open.spotify.com/track/38xWLLwPhcSMBcmMvd6VB9) | [The Cool Greenhouse](https://open.spotify.com/artist/3t1nM1F3Ynmt6Ft7ouWYmW) | [Hard Rock Potato](https://open.spotify.com/album/4JUYKatHi9chcZjWilGXOE) | 3:57 | 2022-08-18 |  |
 | [Hard to Believe](https://open.spotify.com/track/2dwaheGyTlQlQqWvFMjubr) | [Phantom Bay](https://open.spotify.com/artist/5WyFLIEQF4woWGUmgfyg7v) | [Phantom Bay](https://open.spotify.com/album/6gXkAcRLBDdwwMxmuylj1T) | 1:56 | 2022-04-21 | 2022-06-03 |
 | [Haunted Be Thy](https://open.spotify.com/track/42LJtYCKDdJWidHx4neMcF) | [Lecx Stacy](https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO) | [Haunted Be Thy](https://open.spotify.com/album/4iY3mLMgC6eAPRY7ZM6dIq) | 3:40 | 2022-07-21 |  |
@@ -474,7 +475,8 @@
 | [Teenage Runaways](https://open.spotify.com/track/2XnXc7VrwyQzy5ddfKe5Qo) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [Teenage Runaways](https://open.spotify.com/album/58FSurGGBFmANZssX5QhEw) | 2:59 | 2022-05-20 | 2022-07-22 |
 | [Teenagers](https://open.spotify.com/track/5rAJ3juCRPOL3xiKjnQHWO) | [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w), [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Teenagers](https://open.spotify.com/album/5TfVRbdmzVVrg9adogpSIo) | 3:02 | 2022-06-16 | 2022-08-05 |
 | [TELL ME THAT YOU’RE OKAY](https://open.spotify.com/track/0UjJ89GHYTykKaNUi55zvH) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [TELL ME THAT YOU’RE OKAY](https://open.spotify.com/album/41d02ZUTdg1D67AAFZ8UuI) | 3:04 | 2022-04-14 | 2022-05-27 |
-| [Tell Myself](https://open.spotify.com/track/4wPoSALUR5mxrTFvgpuC2e) | [THICK](https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli) | [Tell Myself](https://open.spotify.com/album/1XmHuWK6XxcNkyJHZoIKck) | 2:29 | 2022-07-28 |  |
+| [Tell Myself](https://open.spotify.com/track/4WI5FUuvz2ESFoerIFK4WU) | [THICK](https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli) | [Happy Now](https://open.spotify.com/album/5ucPdWDzfyiYXEDC1aC80x) | 2:29 | 2022-08-25 |  |
+| [Tell Myself](https://open.spotify.com/track/4wPoSALUR5mxrTFvgpuC2e) | [THICK](https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli) | [Tell Myself](https://open.spotify.com/album/1XmHuWK6XxcNkyJHZoIKck) | 2:29 | 2022-07-28 | 2022-08-31 |
 | [Ten Times More](https://open.spotify.com/track/6ICSBwJIVzU7d5JnuUzmau) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Ten Times More](https://open.spotify.com/album/1bhVg5b0MVqF120jXHGz7U) | 2:11 | 2022-08-25 |  |
 | [That Was A Joke](https://open.spotify.com/track/6lAYusLNkTuXcKzxkWzdGg) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [That Was A Joke](https://open.spotify.com/album/5sWDf1SnNbtZG4ROx8CzkF) | 3:22 | 2022-07-21 |  |
 | [THE AMERICAN DREAM](https://open.spotify.com/track/3FSxSPFLwvVUMjTjFo9Von) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7) | [BURNOUT](https://open.spotify.com/album/01vivwdeCRkTwNwgVEFmza) | 3:02 | 2022-08-18 |  |

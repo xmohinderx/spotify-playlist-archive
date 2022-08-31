@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 ### [Altar](https://open.spotify.com/playlist/37i9dQZF1DXa71eg5j9dKZ)
 
-> Alternative electronic gems\. Cover: George Fitzgerald
+> Alternative electronic gems\. Cover: George FitzGerald
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,136 likes - 120 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,810 likes - 120 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 119 | [Midnight Shift](https://open.spotify.com/track/7prfaRBYep3c2sDfpKWGlS) | [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | [Midnight Shift](https://open.spotify.com/album/7LWahcOy2qcTH9YvWOOIB6) | 5:12 |
 | 120 | [Nine Seasons](https://open.spotify.com/track/4K3CHxw4oPJoaLeaPTxQdW) | [Louf](https://open.spotify.com/artist/6FuiYA7qfyWvCzyWxepEjy) | [Our Intervals](https://open.spotify.com/album/4VaMZuSITaM8JVJn60HRow) | 4:36 |
 
-Snapshot ID: `MTY2MTUzNzg0NywwMDAwMDAwMGI2NGVhN2VkMGI3OWRjZjk5ODQyYTc3OTlhN2ZjYmQz`
+Snapshot ID: `MTY2MTg1NTg3NSwwMDAwMDAwMGI4MDc2YmU5YjA1YTA1ZDQwYjI5MDFlZWUwNTkzN2Ex`

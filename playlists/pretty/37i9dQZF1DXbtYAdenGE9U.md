@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 
 > Lasers, lights & euphoric beats \- all your favorite trance anthems!
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,913 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,071 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 | 45 | [Not Over Yet](https://open.spotify.com/track/4fmQizrUXpVXaubqpNp5CE) | [Grace](https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg) | [If I Could Fly](https://open.spotify.com/album/0asBvC8WrcVrNLZ5YkXI66) | 6:01 |
 | 46 | [The Whiteroom](https://open.spotify.com/track/64AwAe6HpIEGFjy0KoGsmH) | [Andy Moor](https://open.spotify.com/artist/0Fn4agIyGMwQsKHrx1i8Dn), [Adam White](https://open.spotify.com/artist/3OYcRF1SOf0sR3NRsgMI3R), [Whiteroom](https://open.spotify.com/artist/1JerCKWsimcVvghLc1Kwib) | [The Whiteroom](https://open.spotify.com/album/58P4AdA5mi8Yfjlb5e8Maz) | 3:53 |
 | 47 | [Saltwater](https://open.spotify.com/track/4qWKqaTPkpjRmrKjkDuHb4) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD), [Moya Brennan](https://open.spotify.com/artist/3ZvmmlF8EMEpnnK90jfuJv) | [The Best Of Chicane 1996 \- 2009](https://open.spotify.com/album/4HA4lHmngXl9auznchWqlf) | 3:22 |
-| 48 | [Out Of The Blue](https://open.spotify.com/track/0jJtOt57bhFAz7ccgGkxWJ) | [System F](https://open.spotify.com/artist/2ZpwFriFFPaGFC4qYQQJ1i) | [Out Of The Blue \(Ilan Bluestone Remix\)](https://open.spotify.com/album/7wL2zH4KkHxWQe74ne1UnF) | 3:53 |
-| 49 | [Follow Me \- Radio Edit](https://open.spotify.com/track/2Q3GYtZYSMZF02UiCzDZ7U) | [Lange](https://open.spotify.com/artist/0zgmzl8NLEOsqYNOQcSmAA), [The Morrighan](https://open.spotify.com/artist/1MebLqs1g2o2M8bpd55V5S) | [100% Clubland Trance](https://open.spotify.com/album/2dnbvXUaQDczid713Ahagb) | 3:43 |
-| 50 | [Amsterdam](https://open.spotify.com/track/1tSaez12qgU8xkO478Tvgb) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq) | [Trance Top 1000 \- Ibiza Classics](https://open.spotify.com/album/4JYyajxWZaOKHwNGDLRFvL) | 2:51 |
+| 48 | [Amsterdam](https://open.spotify.com/track/1tSaez12qgU8xkO478Tvgb) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq) | [Trance Top 1000 \- Ibiza Classics](https://open.spotify.com/album/4JYyajxWZaOKHwNGDLRFvL) | 2:51 |
+| 49 | [Out Of The Blue](https://open.spotify.com/track/0jJtOt57bhFAz7ccgGkxWJ) | [System F](https://open.spotify.com/artist/2ZpwFriFFPaGFC4qYQQJ1i) | [Out Of The Blue \(Ilan Bluestone Remix\)](https://open.spotify.com/album/7wL2zH4KkHxWQe74ne1UnF) | 3:53 |
+| 50 | [Bits N Pianos](https://open.spotify.com/track/6F85zMy5Ucjr1H6dsdZYYx) | [SDC](https://open.spotify.com/artist/6qSmkoM4CdhOuo08wFdwDx) | [Bits N Pianos](https://open.spotify.com/album/5ThZFZtXcEDqXzsu970pdd) | 5:29 |
 
-Snapshot ID: `MTY0OTg2MjE5NywwMDAwMDAwMDJkYjIwMWE3MmEzZjUxMWNiYzY5MmYzNWIzZjk4ZmVi`
+Snapshot ID: `MTY0OTg2MjE5NywwMDAwMDAwMDRhNTRjZTYxZTUwZGZjMTRhYTE2N2YwODhhNGRmYWNm`

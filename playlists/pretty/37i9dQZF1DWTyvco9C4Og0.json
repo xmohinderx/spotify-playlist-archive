@@ -1,12 +1,12 @@
 {
   "description": "Las leyendas del mariachi est\u00e1n aqu\u00ed. Marco Antonio Sol\u00eds en portada.",
-  "num_followers": 804062,
+  "num_followers": 804444,
   "original_name": "\u00cddolos del Mariachi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg2MTIwMCwwMDAwMDAwMDU4YzFiNWVhZjAwNjczMWFlMmVhMzdhMDA0MDRhYjcy",
+  "snapshot_id": "MTY1Nzg2MTIwMCwwMDAwMDAwMGRmYWRkZDYyNDc0ZmYxY2EzYjkzODBiNzZkZDM1ODQ5",
   "tracks": [
     {
       "added_at": "2022-07-15 05:00:00",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2022-01-25 16:44:28",
       "album": {
+        "name": "Interpreta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
+      },
+      "artists": [
+        {
+          "name": "Lucha Villa",
+          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
+        }
+      ],
+      "duration_ms": 182266,
+      "name": "Ya No Me Interesas",
+      "url": "https://open.spotify.com/track/13P7xlcWQzFMvAGQZniMTS"
+    },
+    {
+      "added_at": "2022-01-25 16:44:28",
+      "album": {
         "name": "Ya Lo Super\u00e9",
         "url": "https://open.spotify.com/album/2N2i8N1tAzeghEYR0Shgbp"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 204546,
       "name": "Ya Lo Super\u00e9",
       "url": "https://open.spotify.com/track/0jfcucJLdHPXgjOCjSeFXM"
-    },
-    {
-      "added_at": "2022-01-25 16:44:28",
-      "album": {
-        "name": "Interpreta A Juan Gabriel",
-        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
-      },
-      "artists": [
-        {
-          "name": "Lucha Villa",
-          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
-        }
-      ],
-      "duration_ms": 182266,
-      "name": "Ya No Me Interesas",
-      "url": "https://open.spotify.com/track/13P7xlcWQzFMvAGQZniMTS"
     },
     {
       "added_at": "2022-01-25 16:44:28",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2022-01-25 16:44:28",
       "album": {
-        "name": "Interpreta A Juan Gabriel",
-        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
-      },
-      "artists": [
-        {
-          "name": "Lucha Villa",
-          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
-        }
-      ],
-      "duration_ms": 135733,
-      "name": "No Discutamos",
-      "url": "https://open.spotify.com/track/3IwKzJ7SenrBSRmmGAWR65"
-    },
-    {
-      "added_at": "2022-01-25 16:44:28",
-      "album": {
         "name": "Canciones Populares",
         "url": "https://open.spotify.com/album/6mTzA7zGzLhmYSQycC8f09"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 131266,
       "name": "Media Vuelta",
       "url": "https://open.spotify.com/track/4wK2gpBcEIdgZbcyfpbh4B"
+    },
+    {
+      "added_at": "2022-01-25 16:44:28",
+      "album": {
+        "name": "Interpreta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
+      },
+      "artists": [
+        {
+          "name": "Lucha Villa",
+          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
+        }
+      ],
+      "duration_ms": 135733,
+      "name": "No Discutamos",
+      "url": "https://open.spotify.com/track/3IwKzJ7SenrBSRmmGAWR65"
     }
   ],
   "unique_name": "\u00cddolos del Mariachi",

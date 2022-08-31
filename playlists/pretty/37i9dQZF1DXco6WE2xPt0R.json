@@ -1,12 +1,12 @@
 {
   "description": "Aquela playlist pra ficar no quentin, gostosin.",
-  "num_followers": 79792,
+  "num_followers": 79860,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4Mjg2MCwwMDAwMDAwMGE0OGFiY2FiYzNjZDA2NWVkNDExYjU3ZDExMzA2YjRm",
+  "snapshot_id": "MTY2MTQ4Mjg2MCwwMDAwMDAwMDJlYTI1YmMwNTliODZmMDQ0YTU0ZjdkYTRkYzZkNTY0",
   "tracks": [
     {
       "added_at": "2022-08-26 03:01:00",
@@ -315,6 +315,22 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
+        "name": "playing tricks",
+        "url": "https://open.spotify.com/album/2qHP34bvPUluFtdG8QRywz"
+      },
+      "artists": [
+        {
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 184257,
+      "name": "playing tricks",
+      "url": "https://open.spotify.com/track/6zaayoVlfFp5YmQArKWkRG"
+    },
+    {
+      "added_at": "2022-08-26 03:01:00",
+      "album": {
         "name": "Heaux Tales",
         "url": "https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9"
       },
@@ -335,22 +351,6 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "playing tricks",
-        "url": "https://open.spotify.com/album/2qHP34bvPUluFtdG8QRywz"
-      },
-      "artists": [
-        {
-          "name": "thuy",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 184257,
-      "name": "playing tricks",
-      "url": "https://open.spotify.com/track/6zaayoVlfFp5YmQArKWkRG"
-    },
-    {
-      "added_at": "2022-08-26 03:01:00",
-      "album": {
         "name": "onmyradio",
         "url": "https://open.spotify.com/album/50kPvqerqvDdl0JoWNMukp"
       },
@@ -367,18 +367,18 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2jsHeeW2DY8HuwZWmU1dvc"
+        "name": "Janet",
+        "url": "https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg"
       },
       "artists": [
         {
-          "name": "dvsn",
-          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
         }
       ],
-      "duration_ms": 224262,
-      "name": "All That Matters - Spotify Singles",
-      "url": "https://open.spotify.com/track/3lAVnqeRhV3zmkdDhEunUq"
+      "duration_ms": 428200,
+      "name": "Any Time, Any Place",
+      "url": "https://open.spotify.com/track/2yOm4lN7aTygtXanJFNFWU"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -399,18 +399,18 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "Janet",
-        "url": "https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2jsHeeW2DY8HuwZWmU1dvc"
       },
       "artists": [
         {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
         }
       ],
-      "duration_ms": 428200,
-      "name": "Any Time, Any Place",
-      "url": "https://open.spotify.com/track/2yOm4lN7aTygtXanJFNFWU"
+      "duration_ms": 224262,
+      "name": "All That Matters - Spotify Singles",
+      "url": "https://open.spotify.com/track/3lAVnqeRhV3zmkdDhEunUq"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -463,6 +463,22 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
+        "name": "Reality Show",
+        "url": "https://open.spotify.com/album/682dnvSPZ6lwCNodfMVcbh"
+      },
+      "artists": [
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "duration_ms": 223093,
+      "name": "Let It Burn",
+      "url": "https://open.spotify.com/track/6KOc6ViZB8NtfCVABmTe66"
+    },
+    {
+      "added_at": "2022-08-26 03:01:00",
+      "album": {
         "name": "Scenic Drive (The Tape)",
         "url": "https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 247426,
       "name": "Voicemail (feat. Kiana Led\u00e9)",
       "url": "https://open.spotify.com/track/4hS7b55aChkN6FePTc6CeD"
-    },
-    {
-      "added_at": "2022-08-26 03:01:00",
-      "album": {
-        "name": "Reality Show",
-        "url": "https://open.spotify.com/album/682dnvSPZ6lwCNodfMVcbh"
-      },
-      "artists": [
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        }
-      ],
-      "duration_ms": 223093,
-      "name": "Let It Burn",
-      "url": "https://open.spotify.com/track/6KOc6ViZB8NtfCVABmTe66"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "Milly",
-        "url": "https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd"
-      },
-      "artists": [
-        {
-          "name": "Amaal",
-          "url": "https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz"
-        }
-      ],
-      "duration_ms": 183586,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/1OOZ7HK33XptwtvGuKmb5s"
-    },
-    {
-      "added_at": "2022-08-26 03:01:00",
-      "album": {
         "name": "City Girl",
         "url": "https://open.spotify.com/album/6Yb2iAl9GFYc0QjurOGgsn"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 159365,
       "name": "City Girl",
       "url": "https://open.spotify.com/track/7HaAuZBOJTp0bpZPnccBUm"
+    },
+    {
+      "added_at": "2022-08-26 03:01:00",
+      "album": {
+        "name": "Milly",
+        "url": "https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd"
+      },
+      "artists": [
+        {
+          "name": "Amaal",
+          "url": "https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz"
+        }
+      ],
+      "duration_ms": 183586,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1OOZ7HK33XptwtvGuKmb5s"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -1371,8 +1371,8 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "Genius",
-        "url": "https://open.spotify.com/album/5TZPCuD8f2tWPLqyvodyWn"
+        "name": "Organic",
+        "url": "https://open.spotify.com/album/5Zv9WcJcbem7uU7RhNQRiY"
       },
       "artists": [
         {
@@ -1380,9 +1380,9 @@
           "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
         }
       ],
-      "duration_ms": 188797,
-      "name": "Genius",
-      "url": "https://open.spotify.com/track/5Ipg2NVgC9xgAqxdaJpBen"
+      "duration_ms": 197647,
+      "name": "Organic",
+      "url": "https://open.spotify.com/track/5DyvKrRpUufwtWTHcJ5fb8"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -1495,8 +1495,8 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "Organic",
-        "url": "https://open.spotify.com/album/5Zv9WcJcbem7uU7RhNQRiY"
+        "name": "Genius",
+        "url": "https://open.spotify.com/album/5TZPCuD8f2tWPLqyvodyWn"
       },
       "artists": [
         {
@@ -1504,9 +1504,9 @@
           "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
         }
       ],
-      "duration_ms": 197647,
-      "name": "Organic",
-      "url": "https://open.spotify.com/track/5DyvKrRpUufwtWTHcJ5fb8"
+      "duration_ms": 188797,
+      "name": "Genius",
+      "url": "https://open.spotify.com/track/5Ipg2NVgC9xgAqxdaJpBen"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
+        "name": "The Beauty Created",
+        "url": "https://open.spotify.com/album/5WHjXhxponqkW8TQoNzttR"
+      },
+      "artists": [
+        {
+          "name": "Jesse Boykins III",
+          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
+        }
+      ],
+      "duration_ms": 247360,
+      "name": "Itis",
+      "url": "https://open.spotify.com/track/5IZljTHEboD11DdPe9Ddpo"
+    },
+    {
+      "added_at": "2022-08-26 03:01:00",
+      "album": {
         "name": "All I Want",
         "url": "https://open.spotify.com/album/4OtJ4StIlfpWJz3BsXAKSV"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 283405,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/3pEXcNA3Qe7Q2xTfRp3G3k"
-    },
-    {
-      "added_at": "2022-08-26 03:01:00",
-      "album": {
-        "name": "The Beauty Created",
-        "url": "https://open.spotify.com/album/5WHjXhxponqkW8TQoNzttR"
-      },
-      "artists": [
-        {
-          "name": "Jesse Boykins III",
-          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
-        }
-      ],
-      "duration_ms": 247360,
-      "name": "Itis",
-      "url": "https://open.spotify.com/track/5IZljTHEboD11DdPe9Ddpo"
     },
     {
       "added_at": "2022-08-26 03:01:00",

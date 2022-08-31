@@ -1798,6 +1798,24 @@
     },
     {
       "album": {
+        "name": "OOPS",
+        "url": "https://open.spotify.com/album/23Xu8xOIyGOKQvmsM24ESK"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "OOPS",
+      "url": "https://open.spotify.com/track/5RrOyaV2xOAnf62uWj24dB"
+    },
+    {
+      "album": {
         "name": "Paani Paani",
         "url": "https://open.spotify.com/album/5fkjWQSbKMhpA7NMh3JEjJ"
       },

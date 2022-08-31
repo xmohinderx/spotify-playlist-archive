@@ -4,7 +4,7 @@
 
 > Soundtrack your dinner with bossa sounds.
 
-116 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/00GgJo3w4SYrEnE4bIAXpT)
+117 songs - 7 hr 24 min - [published](https://open.spotify.com/playlist/00GgJo3w4SYrEnE4bIAXpT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Escada Infinita](https://open.spotify.com/track/22tlsA8FUS6wDbGjqioZnq) | [Danny Mandalay](https://open.spotify.com/artist/34aetUeuJ0C1phjVY5F4vl) | [Novo Bossa Nova](https://open.spotify.com/album/3SZQaNaCS69Nvos8Ix5jzM) | 3:20 | 2022-04-26 |  |
 | [Esqueleto](https://open.spotify.com/track/60MvQP2d1MtTkcLZXbw0wn) | [Elevador](https://open.spotify.com/artist/7oZpGYjTZ3Jkw8ugYlJf7E) | [Cão Vadio](https://open.spotify.com/album/0SXFiAavVPGoaTbeRtsMt1) | 3:50 | 2022-04-26 |  |
 | [Essa é Pro João](https://open.spotify.com/track/26S40PKjEz1FZZJabKRVch) | [Rosa Passos](https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP) | [Amorosa](https://open.spotify.com/album/7cT8aPmqRKH72T0HwwIckz) | 3:01 | 2022-04-26 |  |
+| [Estamos Ái](https://open.spotify.com/track/4EcIXzbnuTibtjTL5UxL0N) | [Xavier Mendoza](https://open.spotify.com/artist/7nhIjZfce2dcORg7gWGp73) | [Estamos Ái](https://open.spotify.com/album/69GvftuW0XyTcVKRWxrcP7) | 3:25 | 2022-08-30 |  |
 | [Estate](https://open.spotify.com/track/4gzyWqG3sEWGOpe8DhIdS1) | [da Suécia](https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse) | [Estate](https://open.spotify.com/album/2aAHY1D8FLEOu0nPSMxmRQ) | 4:32 | 2022-04-26 |  |
 | [Estate](https://open.spotify.com/track/5zAGy79fGOXmJILqCGf0Q1) | [Eugene Lambert](https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl) | [House Of Jade](https://open.spotify.com/album/6yZpRJ5kwvKg67eiI8uRZR) | 7:22 | 2022-04-26 |  |
 | [Este Seu Olhar](https://open.spotify.com/track/7lDKmjx051iKv7kU6keNEm) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [Pure Bossa Nova](https://open.spotify.com/album/3Ag8PjmVWUSdUt5lbgpPTt) | 2:32 | 2022-04-26 | 2022-05-25 |
@@ -97,7 +98,7 @@
 | [Pão de Açúcar](https://open.spotify.com/track/07ZdqvJ37JIGrbybE2iVPZ) | [El Equipo Del Norte](https://open.spotify.com/artist/3NlkrQ9iKKw6VZlWr0lk0U) | [Pão de Açúcar](https://open.spotify.com/album/5qz7sVtLSdqQatSiYUpJWM) | 3:42 | 2022-04-26 |  |
 | [Pôr Do Sol Perfeito](https://open.spotify.com/track/3dwbmNoBG2cGFeOtVtPJ8H) | [Jeferson Rios](https://open.spotify.com/artist/4PswPp5S57DQ5RJ39Y5Fj6) | [O Sabor Mais Doce](https://open.spotify.com/album/1sdxkpmLhPsz8JI1dunCFo) | 3:27 | 2022-04-26 |  |
 | [Quiet Nights of Quiet Stars](https://open.spotify.com/track/6dSDOHrVdfyPfGlkZVUyD3) | [Arlo Langford Trio](https://open.spotify.com/artist/02DjFSGzdyir0ZksfCGuWp) | [Quiet Nights of Quiet Stars](https://open.spotify.com/album/3OicFT1OODV7al017E5kRL) | 4:48 | 2022-04-26 |  |
-| [Quiet Nights Of Quiet Stars \(Corcovado\)](https://open.spotify.com/track/3lTyliusZgm29TXJyfFO3B) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Work From Home with Oscar Peterson](https://open.spotify.com/album/0ORKsWALEps4PNvnM78dM7) | 2:49 | 2022-04-26 |  |
+| [Quiet Nights Of Quiet Stars \(Corcovado\)](https://open.spotify.com/track/3lTyliusZgm29TXJyfFO3B) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Work From Home with Oscar Peterson](https://open.spotify.com/album/0ORKsWALEps4PNvnM78dM7) | 2:49 | 2022-04-26 | 2022-08-31 |
 | [Quizás, Quizás, Quizás](https://open.spotify.com/track/3vV7kdVX0gbNHwxgnQjTfF) | [Jade Vieira](https://open.spotify.com/artist/62u2ks7IGeMOqkSLCAaLHK) | [Quizás, Quizás, Quizás](https://open.spotify.com/album/2XQb3gFbkP7pRVZzMPbhCg) | 3:21 | 2022-05-24 | 2022-08-11 |
 | [Rio](https://open.spotify.com/track/5tFmZJH6cznz3n4sSpcPLq) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [Rio](https://open.spotify.com/album/1CZob5T7V1GsgTjMFVY64B) | 3:19 | 2022-04-26 |  |
 | [Rio Lindo](https://open.spotify.com/track/3usSv5DQqZlulKLHRumXGH) | [Tom Rogers Band](https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR) | [Rio Lindo](https://open.spotify.com/album/0aC2r9F9VoEBhYa5MYUVq6) | 3:43 | 2022-08-17 |  |

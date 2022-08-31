@@ -4,7 +4,7 @@
 
 > Dark and moody progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-304 songs - 22 hr 57 min - [published](https://open.spotify.com/playlist/76zaifZx3jEadyZfNlsyIR)
+305 songs - 23 hr 0 min - [published](https://open.spotify.com/playlist/76zaifZx3jEadyZfNlsyIR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Haunt Me](https://open.spotify.com/track/17zdyEVw9oe9FBDevjOl5c) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [The Moth & The Flame](https://open.spotify.com/artist/6Fk18HpdnXUsKWpN9mPb9R) | [Haunt Me](https://open.spotify.com/album/4EMZGTv76C32KyS0dZRwad) | 4:59 | 2021-05-07 |  |
 | [Haunt Me V.2](https://open.spotify.com/track/2USVsdlxRntLqOROwO422o) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [The Moth & The Flame](https://open.spotify.com/artist/6Fk18HpdnXUsKWpN9mPb9R) | [Haunt Me V.2](https://open.spotify.com/album/5zzz3bqkSSoU9nOnpigjTM) | 4:58 | 2021-09-03 | 2022-08-13 |
 | [Hear Me Out](https://open.spotify.com/track/2zpIU1OroZ3mUzrnYqoLBa) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [Diana Miro](https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK) | [Hear Me Out](https://open.spotify.com/album/7pQOGTptMRIC2DI3pZTz3F) | 4:39 | 2022-08-05 |  |
+| [Heartbreak](https://open.spotify.com/track/5HopfU98O15r6TiQorUxSD) | [Jack Wins](https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Heartbreak](https://open.spotify.com/album/5bcLZ1o7ub4dgrVhaQBlDG) | 2:50 | 2022-08-19 |  |
 | [Hero](https://open.spotify.com/track/5XAQO5MN3T7Z5ecAAql0JV) | [Estiva](https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE), [Dezza](https://open.spotify.com/artist/3p7y4jD6cIfONGyx6xaFik) | [Spectacle](https://open.spotify.com/album/6TABqazLHONbP5kyTWIFW1) | 3:13 | 2021-05-07 |  |
 | [Hide and Seek \- Le Youth Remix](https://open.spotify.com/track/6uSLLJJ5r936DO1SASSViy) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa), [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx) | [Hide and Seek \(Le Youth Remix\)](https://open.spotify.com/album/0scTzt9c9pgTQJM5jPthaO) | 3:51 | 2021-05-07 |  |
 | [Higher](https://open.spotify.com/track/7pBUtlTE8IJZ6mvKloa6T0) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV), [Boxer](https://open.spotify.com/artist/2BCF7CstRXVyyH72etqztG) | [Higher](https://open.spotify.com/album/6dfeKG9t94b3SZGdESfAqn) | 3:48 | 2022-01-14 | 2022-07-29 |
@@ -308,7 +309,7 @@
 | [Welcome to the New ISS](https://open.spotify.com/track/1id8NiNXh8C6WfQjnVd2RW) | [Cook & Stans](https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick), [1Planet](https://open.spotify.com/artist/2SicE6NIltXyozzT8sUnaS) | [Welcome to the New ISS](https://open.spotify.com/album/6kb2y0tpZzeAMtloBJthU5) | 5:28 | 2021-05-07 | 2022-04-21 |
 | [Win Win \- Yotto Remix](https://open.spotify.com/track/6n8Rao9bqH5zQnXiY6d7tr) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Win Win \(Yotto Remix\)](https://open.spotify.com/album/0lMeXS3yHep1snwNDuBKNG) | 4:03 | 2021-05-07 | 2022-04-21 |
 | [Womaa](https://open.spotify.com/track/5JFrgSCrW4aSeYKSK9MyyC) | [Spencer Brown](https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK), [Wilt Claybourne](https://open.spotify.com/artist/0r7cF3rN56BbPaJVYIXMz9) | [Womaa](https://open.spotify.com/album/63709yULZc1XOJXhPeudYZ) | 6:51 | 2021-05-07 | 2022-07-29 |
-| [You Can't Stop Me](https://open.spotify.com/track/5PsoWaIrI0S398z8pTy7BW) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP) | [You Can't Stop Me](https://open.spotify.com/album/59IhytiO3MDX4ogjV22Zcf) | 3:09 | 2022-08-19 |  |
+| [You Can't Stop Me](https://open.spotify.com/track/5PsoWaIrI0S398z8pTy7BW) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP) | [You Can't Stop Me](https://open.spotify.com/album/59IhytiO3MDX4ogjV22Zcf) | 3:09 | 2022-08-19 | 2022-08-31 |
 | [You Take My Hand](https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Jamie Irrepressible](https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU) | [You Take My Hand](https://open.spotify.com/album/3meERbSehneA03lgl071Io) | 5:15 | 2021-11-26 |  |
 | [Your Eyes](https://open.spotify.com/track/3CBwgDX3JaYLqFLuCNwYJd) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [LAMAS \(BR\)](https://open.spotify.com/artist/3sEeagShEwr9APxjh62Hr8), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Your Eyes](https://open.spotify.com/album/1yqaJ3y0XGEvzpwOawFxeS) | 3:39 | 2021-12-10 | 2022-07-29 |
 | [Yourself](https://open.spotify.com/track/22UPkpMAwkxdsZnuS1tAxW) | [Mattskay](https://open.spotify.com/artist/4XvTIotYvdEkVQlqCLxLIQ) | [Yourself](https://open.spotify.com/album/0WBNNqwM0AGb8bQDG7IjQQ) | 2:42 | 2021-05-07 | 2022-07-29 |

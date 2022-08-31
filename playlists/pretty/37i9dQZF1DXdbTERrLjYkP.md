@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: SAPPHIRE
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,462 likes - 85 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,559 likes - 85 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 31 | [Something I Hate](https://open.spotify.com/track/55yU2X0SZI3KFEz7B4YsMd) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Something I Hate](https://open.spotify.com/album/0sRyc5tDvYwBGm3Rgq5dHo) | 2:51 |
 | 32 | [Daydream](https://open.spotify.com/track/7CFPVdKn4FFkIm7rZYhNZQ) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Daydream](https://open.spotify.com/album/7N2QQisOFbQ0rWHDwIKd8O) | 3:09 |
 | 33 | [california from the backseat](https://open.spotify.com/track/17vwIZ7XPQzJE91ljTjuM5) | [Molly Seger](https://open.spotify.com/artist/0WtS5MfE3iVJN9puXPCjJ9) | [california from the backseat](https://open.spotify.com/album/41uZXshRhF6F1ivv7l58F9) | 3:12 |
-| 34 | [Small Talk](https://open.spotify.com/track/5J17jC78SZXMPfcoCvs0Uk) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Small Talk](https://open.spotify.com/album/7iuROt2yxUMHIrFFni6pyh) | 3:08 |
+| 34 | [Small Talk](https://open.spotify.com/track/2up2rf3OEktoapyXEzxhMa) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Handle with Care](https://open.spotify.com/album/05hWw0s7A5YHErAUE3OMXu) | 3:08 |
 | 35 | [a little hope never hurt](https://open.spotify.com/track/6WsRXTqNCcY6xplZdac3wB) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [a little hope never hurt](https://open.spotify.com/album/41e2z36Vmlzd4bTmmkXIY7) | 2:30 |
 | 36 | [People Can Change](https://open.spotify.com/track/0dtysSew3Hb1o8e4h1IPSz) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [People Can Change](https://open.spotify.com/album/5VR3ZzZuM7c4LaHu1vjOBV) | 2:49 |
 | 37 | [life, i'm over you](https://open.spotify.com/track/4tI1u9uQXYLnswRzcysxDo) | [Zevia](https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu) | [we're all sad here](https://open.spotify.com/album/1twRDbvHKiuFTLeAKfMbH4) | 3:23 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 84 | [I GUESS I'M IN LOVE](https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [I GUESS I'M IN LOVE](https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP) | 3:24 |
 | 85 | [Hostage](https://open.spotify.com/track/1ndqHrik6dcm5ZIu7bZUY0) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [Satellite](https://open.spotify.com/album/7cTthdPgZAHv44s7VCar46) | 3:49 |
 
-Snapshot ID: `MTY2MTQ4NjQ2MCwwMDAwMDAwMGYzMWQxN2Q5ZTRlNmQ5OTNlNThiZGNjY2RiYmM5YmEw`
+Snapshot ID: `MTY2MTQ4NjQ2MCwwMDAwMDAwMDIzMGFmZGVkY2U4M2JmOTZjNWU1ZTRkYzQ4MjVhM2Q1`

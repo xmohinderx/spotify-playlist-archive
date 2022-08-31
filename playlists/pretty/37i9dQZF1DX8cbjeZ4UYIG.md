@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 
 > Classic tunes that shaped and defined the 90s rave scene \- a unique era for dance music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,052 likes - 50 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,589 likes - 50 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 | 16 | [Valley of the Shadows](https://open.spotify.com/track/6fzwardfFs6sVfNA5R1ypt) | [Origin Unknown](https://open.spotify.com/artist/6kvXn2MzCLCtsAqf5nbmho) | [Valley of the Shadows](https://open.spotify.com/album/5fWVvxaSJgpESrUvNIk9PF) | 4:40 |
 | 17 | [Pulp Fiction](https://open.spotify.com/track/4bsF2ZJgmq2JiDfyIV3CaX) | [Alex Reece](https://open.spotify.com/artist/74AkwPErO7y6jYZwR7ggJA) | [Pulp Fiction](https://open.spotify.com/album/7CrelOKM75tC3HaQ8a7dsV) | 6:11 |
 | 18 | [Playing With Knives \[Quadrant Mix}](https://open.spotify.com/track/3ToxQ1h56CW3lA2zcGtODh) | [Bizarre Inc](https://open.spotify.com/artist/07lbidCU8ZwtNCUrmaO0QU) | [Playing With Knives \[Quadrant Mix\]](https://open.spotify.com/album/1q4NYQT20Fb9kN16yZ3OHM) | 6:47 |
-| 19 | [Don't Go \- Original Mix](https://open.spotify.com/track/7DOgJIDxCOsPYHXQZIuseF) | [Awesome 3](https://open.spotify.com/artist/4qonlcYcLvt22gP54K6oeL) | [Don't Go](https://open.spotify.com/album/70T1jyWOTEWxuvLIQjg1km) | 5:11 |
-| 20 | [Beep Street](https://open.spotify.com/track/4ygcdmPyBFEaf25SEEsKrz) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Hard Normal Daddy](https://open.spotify.com/album/1CPBXIsx6Km7ZvDmvM0gYS) | 6:37 |
+| 19 | [Beep Street](https://open.spotify.com/track/4ygcdmPyBFEaf25SEEsKrz) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Hard Normal Daddy](https://open.spotify.com/album/1CPBXIsx6Km7ZvDmvM0gYS) | 6:37 |
+| 20 | [Don't Go \- Original Mix](https://open.spotify.com/track/7DOgJIDxCOsPYHXQZIuseF) | [Awesome 3](https://open.spotify.com/artist/4qonlcYcLvt22gP54K6oeL) | [Don't Go](https://open.spotify.com/album/70T1jyWOTEWxuvLIQjg1km) | 5:11 |
 | 21 | [Clear](https://open.spotify.com/track/5NKHUvpRs7zr0yOQjx8Exr) | [Cybotron](https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm) | [Clear](https://open.spotify.com/album/2a81I8YLdT49A5LWHxetcC) | 4:54 |
 | 22 | [Maximum Style \(Lover To Lover\)](https://open.spotify.com/track/5aqLROQOpWX2H8Q3b0IB6b) | [Tom & Jerry](https://open.spotify.com/artist/11XdPK1p3uSxX0qiBy5WBZ) | [Jungle Hits, Vol\. 1](https://open.spotify.com/album/6ajFWIR0zVPWu3cBj68B4z) | 4:05 |
 | 23 | [Inner City Life \- Radio Edit](https://open.spotify.com/track/4TOIdyhxz1xgAlrrz2HHhT) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M) | [Inner City Life](https://open.spotify.com/album/3nlPv0dIcF8CNaiVzsHBsY) | 3:51 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 | 37 | [Far out](https://open.spotify.com/track/72qHsDcLYFyPTqKAmQcm4h) | [Sonz Of A Loop Da Loop Era](https://open.spotify.com/artist/7BVU0VCeUMAa18zDX5mOyh) | [Far Out/Higher](https://open.spotify.com/album/3OGpPRrKarUlNG4bF4sn6M) | 4:55 |
 | 38 | [Beat Dis](https://open.spotify.com/track/6L8xB44ZvgAJjQEY9Zx6y6) | [Bomb The Bass](https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6) | [80s 100 Hits \- Volume 2](https://open.spotify.com/album/56QkBFCRUIGCMWnKKKheXC) | 3:22 |
 | 39 | [Tell Me Why \- M&M Full Vocal](https://open.spotify.com/track/0aGRKtwhsZuirMYWtdOn1Y) | [Rachel Wallace](https://open.spotify.com/artist/2wfU1vhvZxd5wBQFsWkH5b) | [Tell Me Why](https://open.spotify.com/album/2EvVTKuwdx4574wjfvYOnG) | 4:47 |
-| 40 | [40 Miles](https://open.spotify.com/track/7yZuzE8dyvegAEsGo3yyRo) | [Congress](https://open.spotify.com/artist/34g0SuVnC8oefEeUlmYXBT) | [40 Miles](https://open.spotify.com/album/0FGGbq9a4SLw27m9WZ5DHA) | 5:28 |
-| 41 | [This Style](https://open.spotify.com/track/2rYo8S1hlnyx7aH9h87So2) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j) | [This Style](https://open.spotify.com/album/7acwlv5XvgMfSXtGQiMnDR) | 5:34 |
+| 40 | [This Style](https://open.spotify.com/track/2rYo8S1hlnyx7aH9h87So2) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j) | [This Style](https://open.spotify.com/album/7acwlv5XvgMfSXtGQiMnDR) | 5:34 |
+| 41 | [40 Miles](https://open.spotify.com/track/7yZuzE8dyvegAEsGo3yyRo) | [Congress](https://open.spotify.com/artist/34g0SuVnC8oefEeUlmYXBT) | [40 Miles](https://open.spotify.com/album/0FGGbq9a4SLw27m9WZ5DHA) | 5:28 |
 | 42 | [Cübik](https://open.spotify.com/track/5BxETnZ8Dzm86jcuFAozOa) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [Utd\. State 90](https://open.spotify.com/album/7DWTuqhMmJIE9Py0e8Wa5C) | 3:41 |
 | 43 | [DJs Take Control](https://open.spotify.com/track/4BBQFns2zAlQHdIvEpVG2p) | [SL2](https://open.spotify.com/artist/30TgkkBf0juP46UUwEYawn) | [DJs Take Control](https://open.spotify.com/album/57CmPHHFqK8aa3Yknb3hQW) | 5:05 |
 | 44 | [Kinetic \- Frank De Wulf Remix](https://open.spotify.com/track/1rEwHLv7SHNSFhmOLx6svp) | [Golden Girls](https://open.spotify.com/artist/03H68X0SYi03kXB8Lj0OR2) | [The Sound Of Belgium](https://open.spotify.com/album/26u7ERyW4UR9xC4RjrxXoN) | 5:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 | 49 | [Only You \(Original Mix\) \[2011 Remastered Version\]](https://open.spotify.com/track/2Sn0kVVniQtPXHy3yqRwNt) | [Nookie](https://open.spotify.com/artist/491cHKkjRVcGaChy40l4Bh) | [Klass of '92 \- '95 \(Lesson 3\)](https://open.spotify.com/album/5mH05vKa8zsJWULxSjaySm) | 5:19 |
 | 50 | [We Are I.E\. \- Original Extended Edit](https://open.spotify.com/track/7Li4jlU5MVqS5f3J2ooviA) | [Lennie De Ice](https://open.spotify.com/artist/5FlgrBF71OneBX2lLRe4Tj) | [We Are I.E.](https://open.spotify.com/album/0tZD3DurMqNzntpB60M5cH) | 4:58 |
 
-Snapshot ID: `MTYxOTY4MTQ0OSwwMDAwMDAwMDFjZTQzOTIxYTljNTU4ZjcwODMxZTAwM2E4ZTRlMmFh`
+Snapshot ID: `MTYxOTY4MTQ0OSwwMDAwMDAwMDVhYzc1MGFkNzQxZmIwNjgyMjMyYWI3Nzk2ZjJlNzFi`

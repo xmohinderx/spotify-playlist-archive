@@ -4,7 +4,7 @@
 
 > Most exciting artists from the Indian Indie scene\. Cover : Anumita Nadesan
 
-171 songs - 10 hr 15 min - [published](https://open.spotify.com/playlist/6HbYGIijNLCCdW0az43i5B)
+172 songs - 10 hr 19 min - [published](https://open.spotify.com/playlist/6HbYGIijNLCCdW0az43i5B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Baarish Ka Asar](https://open.spotify.com/track/6J4oLY2GEwOsUgEd50IpKy) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Baarish Ka Asar](https://open.spotify.com/album/6ZqPFOO9erbfD7BHpNn2Jj) | 4:05 | 2021-12-06 | 2022-04-15 |
 | [Baaton Baaton Main](https://open.spotify.com/track/764XnzLSpfB7VSMkKywfMB) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Baaton Baaton Main](https://open.spotify.com/album/0QVNwZykSmyVyFLbKZkMMY) | 3:54 | 2022-08-29 |  |
 | [Badra Bahara](https://open.spotify.com/track/6i9997Q9R4M7RuqQEHq3ed) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Badra Bahara](https://open.spotify.com/album/4rmIiT592uOXCMNR1nbhvl) | 2:36 | 2022-03-15 |  |
+| [Barsatein](https://open.spotify.com/track/3RgqESJgY3KhxvonPhZ9Gp) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Barsatein](https://open.spotify.com/album/5JNgoPSzkWxkT1W2EMqgR7) | 3:42 | 2022-08-30 |  |
 | [Bazaar](https://open.spotify.com/track/5oNFYKJEIhdUUg9CEsyEQS) | [Alif](https://open.spotify.com/artist/66PL9mtBViWeqR2wUrS0Bk) | [Siyah \- Pt.2 \| Maazi](https://open.spotify.com/album/5xJ0TthXT6WOZtkXtPltTK) | 2:10 | 2022-01-10 | 2022-04-15 |
 | [Be Alright](https://open.spotify.com/track/543Bseh8jEwo0WGXX1CnuS) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [Be Alright](https://open.spotify.com/album/5bXKOBmX9KFO5mB83SSPBq) | 3:01 | 2021-12-06 | 2022-01-11 |
 | [Be Easy](https://open.spotify.com/track/385HQiCjv8SupdPX2XAX8e) | [Chirag Todi](https://open.spotify.com/artist/44kXrtuLNc6FpMB8YNbMdE), [YodaDrunk](https://open.spotify.com/artist/1n1QC4XCxAiLh3pnnwiK7I) | [Be Easy](https://open.spotify.com/album/41nTEAqZy01P9q6XTxYNlK) | 2:59 | 2021-12-06 | 2022-01-11 |
@@ -76,7 +77,7 @@
 | [Jaadoogari](https://open.spotify.com/track/0HDm8hVrpUDAXLmvortmoy) | [Anand Bhaskar Collective](https://open.spotify.com/artist/45m11y8OUyx5EgHiKvEC3c) | [Jaadoogari](https://open.spotify.com/album/7xH1diJuXLqpv10oc2skWV) | 4:20 | 2021-12-06 | 2022-08-11 |
 | [Jaana Kaha Hai](https://open.spotify.com/track/6aHl7WFS38wYezyWHTdghb) | [Muhafiz](https://open.spotify.com/artist/6pwzflaMKjxNpkXFtaYZo9), [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh), [Siddharth Chopra](https://open.spotify.com/artist/0HIZoRSgTwczAwI7zTp7fx) | [Muhafiz](https://open.spotify.com/album/3i1b37UcMyjpG5vF5G3TMz) | 4:32 | 2021-12-06 | 2022-03-17 |
 | [Jaane Tum Kahaan The](https://open.spotify.com/track/0pgLTs1ncvHbgpPui4Xdp3) | [Nikita Ahuja](https://open.spotify.com/artist/1N9scLdWZukQAQ0p4ZeUUx) | [Jaane Tum Kahaan The](https://open.spotify.com/album/5q3neWHRDZkBw3nGnJLKEo) | 2:48 | 2021-12-06 | 2022-01-11 |
-| [jaaye na tu](https://open.spotify.com/track/6dCpB0vj7xrBMyOH0mDuNN) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2), [Nishu](https://open.spotify.com/artist/0BoaYtrYdoKJ4khvk3KRJJ) | [Genesis 1:1](https://open.spotify.com/album/2YhSRDucqtADBF45V9Ak9f) | 2:23 | 2021-12-06 |  |
+| [jaaye na tu](https://open.spotify.com/track/6dCpB0vj7xrBMyOH0mDuNN) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2), [Nishu](https://open.spotify.com/artist/0BoaYtrYdoKJ4khvk3KRJJ) | [Genesis 1:1](https://open.spotify.com/album/2YhSRDucqtADBF45V9Ak9f) | 2:23 | 2021-12-06 | 2022-08-31 |
 | [Jab Tum Miley](https://open.spotify.com/track/1JelKGBph8gon106Wqjwu2) | [Abhilasha Sinha](https://open.spotify.com/artist/3FJ13syehmla1ybPZYHYHW) | [Jab Tum Miley](https://open.spotify.com/album/5cp5qCU35snnBanBl5khvN) | 4:06 | 2021-12-06 | 2022-06-11 |
 | [jazba](https://open.spotify.com/track/6oFj20X1bo2PwVfedRZs6G) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Jazba](https://open.spotify.com/album/60HHi0QYQpi4SOvHFAu0aU) | 5:35 | 2022-01-10 |  |
 | [Jiya Kaanch Ka](https://open.spotify.com/track/2NgXNCccXyW9xIVfKVonl4) | [Aman Moroney](https://open.spotify.com/artist/2IEODkvsAXxCrYi308ictx), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Jiya Kaanch Ka](https://open.spotify.com/album/1uOokbJIY02uOXNmMReuVF) | 2:40 | 2022-01-10 |  |

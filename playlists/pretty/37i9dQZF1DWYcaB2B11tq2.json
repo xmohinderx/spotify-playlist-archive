@@ -1,12 +1,12 @@
 {
   "description": "Una fusi\u00f3n moderna de m\u00fasica Cristiana que alimenta el alma.",
-  "num_followers": 300475,
+  "num_followers": 300745,
   "original_name": "Creo En Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyMTYyNDc2NywwMDAwMDAwMDlkNDUzOTkxNDQyYjNjZWRiYTBhNWE4YzNkNTdiOTg4",
+  "snapshot_id": "MTYyMTYyNDc2NywwMDAwMDAwMDY5ZWZlYmYwZWUzNDI3YTRjMDQwYjFiNzZmYTM4OTVi",
   "tracks": [
     {
       "added_at": "2021-05-21 19:19:27",
@@ -811,6 +811,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "Por Fin en Casa",
+        "url": "https://open.spotify.com/album/3ZkKbtlC0p5L6vgStrdRsq"
+      },
+      "artists": [
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/3F5E6wKnGN6qRjtsF2Z6vt"
+        }
+      ],
+      "duration_ms": 465335,
+      "name": "De Lo M\u00e1s Profundo",
+      "url": "https://open.spotify.com/track/1QNPc8xrzF78nlTFN3TM7T"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "Fierce (Studio Version)",
         "url": "https://open.spotify.com/album/5KLi1WXy0wZdtGYVkujZkW"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 189035,
       "name": "No Hay Distancia",
       "url": "https://open.spotify.com/track/3RsC2nWzi0XSOJcZTFdKss"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "Por Fin en Casa",
-        "url": "https://open.spotify.com/album/3ZkKbtlC0p5L6vgStrdRsq"
-      },
-      "artists": [
-        {
-          "name": "Fuego",
-          "url": "https://open.spotify.com/artist/3F5E6wKnGN6qRjtsF2Z6vt"
-        }
-      ],
-      "duration_ms": 465335,
-      "name": "De Lo M\u00e1s Profundo",
-      "url": "https://open.spotify.com/track/1QNPc8xrzF78nlTFN3TM7T"
     },
     {
       "added_at": "2021-05-21 19:19:27",

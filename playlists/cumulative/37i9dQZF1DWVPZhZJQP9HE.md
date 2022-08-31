@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Vaisagh
 
-177 songs - 10 hr 44 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
+178 songs - 10 hr 47 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Tea Vibes](https://open.spotify.com/track/1iJV3JB2IjuVYE3dSdY9oA) | [Pranav Giridharan](https://open.spotify.com/artist/2keJl7E7SiJW9jF2A5y104), [Vaibhav Murugesan](https://open.spotify.com/artist/269tIKxn6flLnFkjQrGiny) | [Tea Vibes \- Single](https://open.spotify.com/album/3FDsCWMMNczB3gUKe7Wokj) | 3:31 | 2022-07-11 |  |
 | [Tea Vibes](https://open.spotify.com/track/5RjmGdKkv1jm1eZay74ViD) | [Pranav Giridharan](https://open.spotify.com/artist/2keJl7E7SiJW9jF2A5y104), [Vaibhav Murugesan](https://open.spotify.com/artist/269tIKxn6flLnFkjQrGiny) | [Tea Vibes](https://open.spotify.com/album/4UQWiTOg75IvIlw4W8YI4H) | 3:31 | 2022-07-11 | 2022-07-29 |
 | [Thalaradhe](https://open.spotify.com/track/1mb6CBQ7l1QfuaF3Av9kSR) | [Nijil Dhinakar](https://open.spotify.com/artist/0Y4SyLXBpdQUJAml0K2Qmn), [Karthik baskar](https://open.spotify.com/artist/1ye2t09VNGVKiVnubCWhuT) | [Thalaradhe](https://open.spotify.com/album/4aQNQEPmLqtqoNjD0ISk00) | 2:03 | 2022-08-23 |  |
+| [Thalayaatti Bommai \- From "Think Originals"](https://open.spotify.com/track/6AXVNRqao5TcomgIPWiWnm) | [Dev Major](https://open.spotify.com/artist/4Iwi2N3FmmKmxAuGlD3AQv), [Iykki Berry](https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD), [Chinna Ponnu](https://open.spotify.com/artist/23FJvNYt7vCPHtpOQUzDN0) | [Thalayaatti Bommai \(From "Think Originals"\)](https://open.spotify.com/album/15kqLTDPwuLphV2mpl4sYc) | 3:27 | 2022-08-30 |  |
 | [thamizhachi.](https://open.spotify.com/track/3IeeDRRDhcTCNIrbF5Xo0i) | [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts) | [Therukural](https://open.spotify.com/album/7gBpS4mYJ2YEvd9GpDn6jI) | 3:26 | 2021-12-01 | 2022-08-12 |
 | [Thandananae Metagen](https://open.spotify.com/track/03eCtcvHSyUkq0LSlRfDmL) | [Oxygen World Fusion Music Band](https://open.spotify.com/artist/33NPndmRz4nlEGs0yO2r8l), [Tenor Strings](https://open.spotify.com/artist/6NpWPtVunT8TkdsI6PNSN6) | [Thandananae Metagen](https://open.spotify.com/album/3LdVRj3WizD4hL8go16TEi) | 3:41 | 2022-08-03 |  |
 | [Thanimai](https://open.spotify.com/track/7JEHMrljGhwHVUvOvuxRR1) | [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn), [Mukhil Mayuri](https://open.spotify.com/artist/6xt9DlwkUDHvbHszleG8sj), [Vibin Baskar](https://open.spotify.com/artist/3OisU7UGOiAZ7PmJrV128w) | [Thanimai](https://open.spotify.com/album/4Izn8g8vdI1AWqS3M9nEEA) | 4:01 | 2022-06-27 | 2022-07-15 |

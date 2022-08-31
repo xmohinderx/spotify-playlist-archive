@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Y qu\u00e9 retumbe la bandona, pariente! Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda en portada. ",
-  "num_followers": 1470898,
+  "num_followers": 1471471,
   "original_name": "Cl\u00e1sicas de Banda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODE4NTAwOCwwMDAwMDAwMDkyZjNjMTNjM2NjMWIzY2ExZDEyNGZkMGRhYWI5ZTdj",
+  "snapshot_id": "MTY1ODE4NTAwOCwwMDAwMDAwMDEyZDc2ODY5ZWQ4ZjYxOGEwOTA5MjY4MWMzN2ZiMWZj",
   "tracks": [
     {
       "added_at": "2022-06-20 21:21:51",
@@ -197,6 +197,22 @@
       "url": "https://open.spotify.com/track/4wZqjBJCs2tD7AV3c2UUh5"
     },
     {
+      "added_at": "2021-12-09 18:03:27",
+      "album": {
+        "name": "De Lo Bueno, Lo Mejor",
+        "url": "https://open.spotify.com/album/6fg7ANywTbldJWzw8y1p4F"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Sagrada",
+          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
+        }
+      ],
+      "duration_ms": 204453,
+      "name": "La Buena y la Mala",
+      "url": "https://open.spotify.com/track/4y0n8xKuEKE0J2sThzswhg"
+    },
+    {
       "added_at": "2022-01-20 23:03:47",
       "album": {
         "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
@@ -215,22 +231,6 @@
       "duration_ms": 258355,
       "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
       "url": "https://open.spotify.com/track/3D3W7rDsuJIAtjInwh6Moc"
-    },
-    {
-      "added_at": "2021-12-09 18:03:27",
-      "album": {
-        "name": "De Lo Bueno, Lo Mejor",
-        "url": "https://open.spotify.com/album/6fg7ANywTbldJWzw8y1p4F"
-      },
-      "artists": [
-        {
-          "name": "Banda Tierra Sagrada",
-          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
-        }
-      ],
-      "duration_ms": 204453,
-      "name": "La Buena y la Mala",
-      "url": "https://open.spotify.com/track/4y0n8xKuEKE0J2sThzswhg"
     },
     {
       "added_at": "2021-12-09 18:03:27",
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
         }
       ],
-      "duration_ms": 191413,
-      "name": "Te Hubieras Ido Antes",
-      "url": "https://open.spotify.com/track/2jPufybqAAmiF16Jirt9Ez"
+      "duration_ms": 166200,
+      "name": "Y As\u00ed Fue",
+      "url": "https://open.spotify.com/track/6rmVv5Nh80OfI8qWxHiyY2"
     },
     {
       "added_at": "2022-01-20 23:03:47",
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
         }
       ],
-      "duration_ms": 166200,
-      "name": "Y As\u00ed Fue",
-      "url": "https://open.spotify.com/track/6rmVv5Nh80OfI8qWxHiyY2"
+      "duration_ms": 191413,
+      "name": "Te Hubieras Ido Antes",
+      "url": "https://open.spotify.com/track/2jPufybqAAmiF16Jirt9Ez"
     },
     {
       "added_at": "2021-12-09 18:03:27",
@@ -875,22 +875,6 @@
     {
       "added_at": "2021-12-09 18:03:27",
       "album": {
-        "name": "Vencedor",
-        "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 183826,
-      "name": "Vencedor",
-      "url": "https://open.spotify.com/track/6tcCTb903f89qDO3ylbhEN"
-    },
-    {
-      "added_at": "2021-12-09 18:03:27",
-      "album": {
         "name": "Te Voy A Amar",
         "url": "https://open.spotify.com/album/64bP2mJ6u20tHxA3EoEbOC"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 194626,
       "name": "Enhorabuena",
       "url": "https://open.spotify.com/track/7eensGADN6jTkmrtPPFcBO"
+    },
+    {
+      "added_at": "2021-12-09 18:03:27",
+      "album": {
+        "name": "Vencedor",
+        "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 183826,
+      "name": "Vencedor",
+      "url": "https://open.spotify.com/track/6tcCTb903f89qDO3ylbhEN"
     },
     {
       "added_at": "2021-12-09 18:03:27",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2021-12-09 18:03:27",
       "album": {
-        "name": "Lo Mejor De Mi Vida",
-        "url": "https://open.spotify.com/album/186e8uXfR8a0ysIMIsbIZe"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 191666,
-      "name": "Yo S\u00e9 Que Te Acordar\u00e1s",
-      "url": "https://open.spotify.com/track/21Pr1VcMqYrK2VOIWqzkNk"
-    },
-    {
-      "added_at": "2021-12-09 18:03:27",
-      "album": {
         "name": "Cumpliendo Un Sue\u00f1o",
         "url": "https://open.spotify.com/album/5HNyHXa6z20pWDod3JyLXo"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 199080,
       "name": "Aunque Te Duela",
       "url": "https://open.spotify.com/track/6Ng777bqg8fwA7N7GyUDYm"
+    },
+    {
+      "added_at": "2021-12-09 18:03:27",
+      "album": {
+        "name": "Lo Mejor De Mi Vida",
+        "url": "https://open.spotify.com/album/186e8uXfR8a0ysIMIsbIZe"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 191666,
+      "name": "Yo S\u00e9 Que Te Acordar\u00e1s",
+      "url": "https://open.spotify.com/track/21Pr1VcMqYrK2VOIWqzkNk"
     },
     {
       "added_at": "2021-12-09 18:03:27",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2021-12-09 18:03:27",
       "album": {
-        "name": "El Antes Y El Despu\u00e9s",
-        "url": "https://open.spotify.com/album/4JPGULe879NrRFAQi1YSJ0"
-      },
-      "artists": [
-        {
-          "name": "La Poderosa Banda San Juan",
-          "url": "https://open.spotify.com/artist/3U1u6ytK0DaM89dqiVxB0u"
-        }
-      ],
-      "duration_ms": 183360,
-      "name": "El Antes Y El Despu\u00e9s",
-      "url": "https://open.spotify.com/track/6P89ndGzxFpxtdbzhRoVdn"
-    },
-    {
-      "added_at": "2021-12-09 18:03:27",
-      "album": {
         "name": "Coraz\u00f3n",
         "url": "https://open.spotify.com/album/401GeD9PATUU1PELNOD2MY"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 197133,
       "name": "Vanidosa",
       "url": "https://open.spotify.com/track/4iN0LgZ4SwAIVJ7VRrsd27"
+    },
+    {
+      "added_at": "2021-12-09 18:03:27",
+      "album": {
+        "name": "El Antes Y El Despu\u00e9s",
+        "url": "https://open.spotify.com/album/4JPGULe879NrRFAQi1YSJ0"
+      },
+      "artists": [
+        {
+          "name": "La Poderosa Banda San Juan",
+          "url": "https://open.spotify.com/artist/3U1u6ytK0DaM89dqiVxB0u"
+        }
+      ],
+      "duration_ms": 183360,
+      "name": "El Antes Y El Despu\u00e9s",
+      "url": "https://open.spotify.com/track/6P89ndGzxFpxtdbzhRoVdn"
     },
     {
       "added_at": "2021-12-09 18:03:27",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2021-12-09 18:03:27",
       "album": {
-        "name": "Y Que Quede Claro",
-        "url": "https://open.spotify.com/album/4ktSTdeZtFaDRy7HzslcAU"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 197306,
-      "name": "Al Final De Nuestra Historia",
-      "url": "https://open.spotify.com/track/6orluAPC6hUu3BVZVuZjOu"
-    },
-    {
-      "added_at": "2021-12-09 18:03:27",
-      "album": {
         "name": "A Trav\u00e9s Del Vaso",
         "url": "https://open.spotify.com/album/5fb92VTFSonh6s4IDFqILN"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 182106,
       "name": "A Trav\u00e9s Del Vaso",
       "url": "https://open.spotify.com/track/5eY547Fxr6QKiqBkUrx0sC"
+    },
+    {
+      "added_at": "2021-12-09 18:03:27",
+      "album": {
+        "name": "Y Que Quede Claro",
+        "url": "https://open.spotify.com/album/4ktSTdeZtFaDRy7HzslcAU"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 197306,
+      "name": "Al Final De Nuestra Historia",
+      "url": "https://open.spotify.com/track/6orluAPC6hUu3BVZVuZjOu"
     },
     {
       "added_at": "2021-12-09 18:03:27",
@@ -1325,22 +1325,6 @@
       "url": "https://open.spotify.com/track/4MNshDc0FgyiddMjlGbeCV"
     },
     {
-      "added_at": "2022-01-20 23:03:47",
-      "album": {
-        "name": "El Que Te Am\u00f3",
-        "url": "https://open.spotify.com/album/1bewjVPHQlQimZhJ27cW0n"
-      },
-      "artists": [
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        }
-      ],
-      "duration_ms": 184760,
-      "name": "El Que Te Am\u00f3",
-      "url": "https://open.spotify.com/track/0I1XttomGvSyEtz2xfXnnP"
-    },
-    {
       "added_at": "2021-12-09 18:03:27",
       "album": {
         "name": "El Polo Norte",
@@ -1357,6 +1341,22 @@
       "url": "https://open.spotify.com/track/773lk88kjUKstndUTL1W7F"
     },
     {
+      "added_at": "2022-01-20 23:03:47",
+      "album": {
+        "name": "El Que Te Am\u00f3",
+        "url": "https://open.spotify.com/album/1bewjVPHQlQimZhJ27cW0n"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "duration_ms": 184760,
+      "name": "El Que Te Am\u00f3",
+      "url": "https://open.spotify.com/track/0I1XttomGvSyEtz2xfXnnP"
+    },
+    {
       "added_at": "2022-07-18 22:56:48",
       "album": {
         "name": "Pensando En Ti",
@@ -1371,6 +1371,22 @@
       "duration_ms": 133106,
       "name": "\u00bfQue Nos Separa?",
       "url": "https://open.spotify.com/track/4jULFslCeq1Wan6nczXoum"
+    },
+    {
+      "added_at": "2021-12-09 18:03:27",
+      "album": {
+        "name": "La Otra Cara De La Moneda",
+        "url": "https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 225826,
+      "name": "Comp\u00e1rame",
+      "url": "https://open.spotify.com/track/3LV4lHJfAiQeprF21jDJec"
     },
     {
       "added_at": "2022-01-20 23:03:47",
@@ -1419,22 +1435,6 @@
       "duration_ms": 176493,
       "name": "Me Interesas",
       "url": "https://open.spotify.com/track/5LsTMta9l87n8Z4zpBV2xL"
-    },
-    {
-      "added_at": "2021-12-09 18:03:27",
-      "album": {
-        "name": "La Otra Cara De La Moneda",
-        "url": "https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 225826,
-      "name": "Comp\u00e1rame",
-      "url": "https://open.spotify.com/track/3LV4lHJfAiQeprF21jDJec"
     },
     {
       "added_at": "2021-12-09 18:03:27",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2021-12-09 18:03:27",
       "album": {
+        "name": "Cuando Quieras Quiero",
+        "url": "https://open.spotify.com/album/7sqfC2rpdO72asrro3cLUm"
+      },
+      "artists": [
+        {
+          "name": "Claudio Alcaraz",
+          "url": "https://open.spotify.com/artist/0lf6aJ031s7V2V7eKB1mhz"
+        }
+      ],
+      "duration_ms": 183500,
+      "name": "Hola, \u00bfQue Tal?",
+      "url": "https://open.spotify.com/track/7cEQJRlW3o32ItgI5cq9kK"
+    },
+    {
+      "added_at": "2021-12-09 18:03:27",
+      "album": {
         "name": "Y Se Parece A T\u00ed",
         "url": "https://open.spotify.com/album/123FJyOsN9p5QU6wGi5sSo"
       },
@@ -1519,18 +1535,18 @@
     {
       "added_at": "2021-12-09 18:03:27",
       "album": {
-        "name": "Cuando Quieras Quiero",
-        "url": "https://open.spotify.com/album/7sqfC2rpdO72asrro3cLUm"
+        "name": "Huele A Peligro",
+        "url": "https://open.spotify.com/album/2oKDUOugaCej29UmlmhoyG"
       },
       "artists": [
         {
-          "name": "Claudio Alcaraz",
-          "url": "https://open.spotify.com/artist/0lf6aJ031s7V2V7eKB1mhz"
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 183500,
-      "name": "Hola, \u00bfQue Tal?",
-      "url": "https://open.spotify.com/track/7cEQJRlW3o32ItgI5cq9kK"
+      "duration_ms": 151333,
+      "name": "Media Naranja",
+      "url": "https://open.spotify.com/track/3wL3XYJ5sAQ7LgFsF5uCV4"
     },
     {
       "added_at": "2021-12-09 18:03:27",
@@ -1579,22 +1595,6 @@
       "duration_ms": 215400,
       "name": "Un Rinconcito en el Cielo",
       "url": "https://open.spotify.com/track/7wLxUIRidKDDIOBmq0TSyl"
-    },
-    {
-      "added_at": "2021-12-09 18:03:27",
-      "album": {
-        "name": "Huele A Peligro",
-        "url": "https://open.spotify.com/album/2oKDUOugaCej29UmlmhoyG"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 151333,
-      "name": "Media Naranja",
-      "url": "https://open.spotify.com/track/3wL3XYJ5sAQ7LgFsF5uCV4"
     },
     {
       "added_at": "2021-12-09 18:03:27",

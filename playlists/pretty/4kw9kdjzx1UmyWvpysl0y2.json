@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128494,
+  "num_followers": 128274,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzU5Nyw5MGE0NjYzZDFiMWQ4ZDg5ZTgxN2IwOWRmOTdmYzRmYmI1ZWYxYzY5",
+  "snapshot_id": "MzU5OSxiZjkzZWIxMTMwYmVhZTg2M2IzMDRkNzc5ODVhZWJjOTlhY2U4ZjE2",
   "tracks": [
+    {
+      "added_at": "2022-08-30 16:27:07",
+      "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/5ZP5RXBdCFckiXwXN6tWp8"
+      },
+      "artists": [
+        {
+          "name": "Bad Computer",
+          "url": "https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk"
+        }
+      ],
+      "duration_ms": 193242,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/26g9KhoTTaEG4IM1uTkwZ4"
+    },
     {
       "added_at": "2022-08-26 16:55:41",
       "album": {
@@ -1099,22 +1115,6 @@
       "duration_ms": 180000,
       "name": "Barcelona Nights",
       "url": "https://open.spotify.com/track/17vXZTcVsCJF1NBoaBQjm7"
-    },
-    {
-      "added_at": "2022-06-17 15:20:35",
-      "album": {
-        "name": "Jupiter & Saturn",
-        "url": "https://open.spotify.com/album/5RqTuhUL1aoro59s9CKyqW"
-      },
-      "artists": [
-        {
-          "name": "Aether",
-          "url": "https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN"
-        }
-      ],
-      "duration_ms": 193875,
-      "name": "Jupiter & Saturn",
-      "url": "https://open.spotify.com/track/5kihqmQ7LLDHK3nEbqyyqm"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

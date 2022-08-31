@@ -1,12 +1,12 @@
 {
   "description": "Den perfekta mixade spellistan f\u00f6r tr\u00e4ningspasset.",
-  "num_followers": 157248,
+  "num_followers": 157243,
   "original_name": "Tr\u00e4ning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg5NDI0NCwwMDAwMDAwMDMzZjkyMDBiMzdjY2JmNTBjYmQyNmFlOTBhMTZlOTIz",
+  "snapshot_id": "MTY1Nzg5NDI0NCwwMDAwMDAwMDVkNTdhZTQxMWVhNWY3ZjFkNjdhNWNjYjhlOGFkNDIw",
   "tracks": [
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Fighter",
-        "url": "https://open.spotify.com/album/2XjDpISRYzFI7okmx0YZPS"
-      },
-      "artists": [
-        {
-          "name": "Klaas",
-          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
-        }
-      ],
-      "duration_ms": 164160,
-      "name": "Fighter",
-      "url": "https://open.spotify.com/track/4rBjP3PrWdWEdFdTt33H9X"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Remember (David Guetta VIP Remix)",
         "url": "https://open.spotify.com/album/09GSQXZys0phYiMdqc2Yh8"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 230443,
       "name": "Remember - David Guetta VIP Remix",
       "url": "https://open.spotify.com/track/4TqTBou6np9peCdHAK9cp7"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Fighter",
+        "url": "https://open.spotify.com/album/2XjDpISRYzFI7okmx0YZPS"
+      },
+      "artists": [
+        {
+          "name": "Klaas",
+          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
+        }
+      ],
+      "duration_ms": 164160,
+      "name": "Fighter",
+      "url": "https://open.spotify.com/track/4rBjP3PrWdWEdFdTt33H9X"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -2003,26 +2003,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Chains (with Project 46)",
-        "url": "https://open.spotify.com/album/3Gv9iIhXkCtLvj3Czp2UF0"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "Project 46",
-          "url": "https://open.spotify.com/artist/2RhRT6DNOVoDTfS0rG31pZ"
-        }
-      ],
-      "duration_ms": 223041,
-      "name": "Chains (with Project 46)",
-      "url": "https://open.spotify.com/track/7wMABXUD4FxX66u3eG1ax8"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Revival (R3HAB Remix)",
         "url": "https://open.spotify.com/album/6qXhVPnUWh9AeY4NyJp4dO"
       },
@@ -2039,6 +2019,26 @@
       "duration_ms": 176250,
       "name": "Revival - R3HAB Remix",
       "url": "https://open.spotify.com/track/4nSDyc7YOr4JADylhhhAAn"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Chains (with Project 46)",
+        "url": "https://open.spotify.com/album/3Gv9iIhXkCtLvj3Czp2UF0"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Project 46",
+          "url": "https://open.spotify.com/artist/2RhRT6DNOVoDTfS0rG31pZ"
+        }
+      ],
+      "duration_ms": 223041,
+      "name": "Chains (with Project 46)",
+      "url": "https://open.spotify.com/track/7wMABXUD4FxX66u3eG1ax8"
     },
     {
       "added_at": "2022-07-15 14:10:44",

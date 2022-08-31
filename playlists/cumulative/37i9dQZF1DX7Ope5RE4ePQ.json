@@ -1441,10 +1441,28 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 197705,
       "name": "The Phantom of the Opera: Overture",
       "url": "https://open.spotify.com/track/7mZFYTDSIvDPBY8w0EJMUc"
+    },
+    {
+      "album": {
+        "name": "The Phantom of the Opera: Overture",
+        "url": "https://open.spotify.com/album/0oMltgMweWTGOBQPhuDU9j"
+      },
+      "artists": [
+        {
+          "name": "Prague Cello Quartet",
+          "url": "https://open.spotify.com/artist/5GeMh4YY04Q71E55hL6D9A"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199124,
+      "name": "The Phantom of the Opera: Overture",
+      "url": "https://open.spotify.com/track/3vLa18ko8VtiSh32m6ceP5"
     },
     {
       "album": {

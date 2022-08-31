@@ -1,12 +1,12 @@
 {
   "description": "s\u00f3 faixa rosa, tem disposi\u00e7\u00e3o? \ud83c\udf80 Foto: Ashira",
-  "num_followers": 20707,
+  "num_followers": 20743,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4Mjg2MCwwMDAwMDAwMDY4MjBiOGI0ZTA4NDNjNDc2MzQ3MjFmZTJiYjY2YjUy",
+  "snapshot_id": "MTY2MTQ4Mjg2MCwwMDAwMDAwMDFlYmY0NWFjOTE1NjY1OTZjYWM3ZTNmNDQ1NGQ4MzRj",
   "tracks": [
     {
       "added_at": "2022-08-26 03:01:00",
@@ -435,30 +435,6 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "Pimenta",
-        "url": "https://open.spotify.com/album/4uNMPFLGmrvLhMWGgT8fT7"
-      },
-      "artists": [
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        },
-        {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 164839,
-      "name": "Pimenta",
-      "url": "https://open.spotify.com/track/12LpEgxl7XLiuvv0PXj1DT"
-    },
-    {
-      "added_at": "2022-08-26 03:01:00",
-      "album": {
         "name": "Ashley Banks",
         "url": "https://open.spotify.com/album/6CDE1Mgxb05mEbjI9LdyQY"
       },
@@ -471,6 +447,22 @@
       "duration_ms": 208264,
       "name": "Ashley Banks",
       "url": "https://open.spotify.com/track/5zu8LEldkTfctEEFVQID8x"
+    },
+    {
+      "added_at": "2022-08-26 03:01:00",
+      "album": {
+        "name": "First",
+        "url": "https://open.spotify.com/album/3cdm9REaJt8UGdSC3N2gSN"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "duration_ms": 132923,
+      "name": "First",
+      "url": "https://open.spotify.com/track/0oomKGn85TDeVwhSIiTLQA"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -503,18 +495,26 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "First",
-        "url": "https://open.spotify.com/album/3cdm9REaJt8UGdSC3N2gSN"
+        "name": "Pimenta",
+        "url": "https://open.spotify.com/album/4uNMPFLGmrvLhMWGgT8fT7"
       },
       "artists": [
         {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
         }
       ],
-      "duration_ms": 132923,
-      "name": "First",
-      "url": "https://open.spotify.com/track/0oomKGn85TDeVwhSIiTLQA"
+      "duration_ms": 164839,
+      "name": "Pimenta",
+      "url": "https://open.spotify.com/track/12LpEgxl7XLiuvv0PXj1DT"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -771,6 +771,22 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
+        "name": "Preta Patr\u00edcia",
+        "url": "https://open.spotify.com/album/6aTXMJZMd1AAeTkLHCrTOX"
+      },
+      "artists": [
+        {
+          "name": "MC Taya",
+          "url": "https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i"
+        }
+      ],
+      "duration_ms": 254756,
+      "name": "Preta Patr\u00edcia",
+      "url": "https://open.spotify.com/track/3IkBv7RRbbZchtrO4hziB6"
+    },
+    {
+      "added_at": "2022-08-26 03:01:00",
+      "album": {
         "name": "Aquecimento",
         "url": "https://open.spotify.com/album/7D9ko1HfH2A1tTOA8UYyaw"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 123444,
       "name": "Aquecimento",
       "url": "https://open.spotify.com/track/50xFtTjve71h0UwBRM5aWW"
-    },
-    {
-      "added_at": "2022-08-26 03:01:00",
-      "album": {
-        "name": "Preta Patr\u00edcia",
-        "url": "https://open.spotify.com/album/6aTXMJZMd1AAeTkLHCrTOX"
-      },
-      "artists": [
-        {
-          "name": "MC Taya",
-          "url": "https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i"
-        }
-      ],
-      "duration_ms": 254756,
-      "name": "Preta Patr\u00edcia",
-      "url": "https://open.spotify.com/track/3IkBv7RRbbZchtrO4hziB6"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -843,6 +843,26 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
+        "name": "N\u00e3o Nega",
+        "url": "https://open.spotify.com/album/5MAC86ryol0sVYG9YbGgCP"
+      },
+      "artists": [
+        {
+          "name": "Black Queen",
+          "url": "https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv"
+        },
+        {
+          "name": "Gu$t",
+          "url": "https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p"
+        }
+      ],
+      "duration_ms": 184329,
+      "name": "N\u00e3o Nega",
+      "url": "https://open.spotify.com/track/4CO98RpRzRzK2V5sOFS01G"
+    },
+    {
+      "added_at": "2022-08-26 03:01:00",
+      "album": {
         "name": "FEBRE AMARELA (Deluxe Edition)",
         "url": "https://open.spotify.com/album/59JY68uudM8V2Xm26iIZBL"
       },
@@ -867,26 +887,6 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "Morango no Gin",
-        "url": "https://open.spotify.com/album/6nkJrMukU7V3XXfVKLujjA"
-      },
-      "artists": [
-        {
-          "name": "Barona",
-          "url": "https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        }
-      ],
-      "duration_ms": 149812,
-      "name": "Morango no Gin",
-      "url": "https://open.spotify.com/track/64AaCofmb0AqrN7vWuXO5c"
-    },
-    {
-      "added_at": "2022-08-26 03:01:00",
-      "album": {
         "name": "Difere",
         "url": "https://open.spotify.com/album/1CqyxG4xsl7HoqBPGwWVhQ"
       },
@@ -903,6 +903,26 @@
       "duration_ms": 132857,
       "name": "Difere",
       "url": "https://open.spotify.com/track/6AgGeM4gmmSxWJeIblSa5G"
+    },
+    {
+      "added_at": "2022-08-26 03:01:00",
+      "album": {
+        "name": "Morango no Gin",
+        "url": "https://open.spotify.com/album/6nkJrMukU7V3XXfVKLujjA"
+      },
+      "artists": [
+        {
+          "name": "Barona",
+          "url": "https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "duration_ms": 149812,
+      "name": "Morango no Gin",
+      "url": "https://open.spotify.com/track/64AaCofmb0AqrN7vWuXO5c"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -927,22 +947,22 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "N\u00e3o Nega",
-        "url": "https://open.spotify.com/album/5MAC86ryol0sVYG9YbGgCP"
+        "name": "Florescer",
+        "url": "https://open.spotify.com/album/1NJsjzZ2AZBFCPCOeVyb7x"
       },
       "artists": [
         {
-          "name": "Black Queen",
-          "url": "https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv"
+          "name": "Mayarah Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/2FmV8Y424XsncsEO9ztY3p"
         },
         {
-          "name": "Gu$t",
-          "url": "https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p"
+          "name": "Blood Beatz",
+          "url": "https://open.spotify.com/artist/5MGHzEwXZ13izki8gsjrFc"
         }
       ],
-      "duration_ms": 184329,
-      "name": "N\u00e3o Nega",
-      "url": "https://open.spotify.com/track/4CO98RpRzRzK2V5sOFS01G"
+      "duration_ms": 288068,
+      "name": "Florescer",
+      "url": "https://open.spotify.com/track/7k5SeF10dmOPbzxebfUc7F"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -967,26 +987,6 @@
       "duration_ms": 150009,
       "name": "Gloss da Fenty",
       "url": "https://open.spotify.com/track/0DjukObSYMD9NkhKJlB01i"
-    },
-    {
-      "added_at": "2022-08-26 03:01:00",
-      "album": {
-        "name": "Florescer",
-        "url": "https://open.spotify.com/album/1NJsjzZ2AZBFCPCOeVyb7x"
-      },
-      "artists": [
-        {
-          "name": "Mayarah Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/2FmV8Y424XsncsEO9ztY3p"
-        },
-        {
-          "name": "Blood Beatz",
-          "url": "https://open.spotify.com/artist/5MGHzEwXZ13izki8gsjrFc"
-        }
-      ],
-      "duration_ms": 288068,
-      "name": "Florescer",
-      "url": "https://open.spotify.com/track/7k5SeF10dmOPbzxebfUc7F"
     },
     {
       "added_at": "2022-08-26 03:01:00",

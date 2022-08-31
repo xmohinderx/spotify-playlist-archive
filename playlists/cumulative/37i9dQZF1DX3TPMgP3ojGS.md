@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,521 songs - 2 day 20 hr 56 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
+1,522 songs - 2 day 20 hr 58 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -686,6 +686,7 @@
 | [Kołysanka](https://open.spotify.com/track/5SgyX0YU9qfwWyaHKtYU5T) | [Idzi Kowalczyk](https://open.spotify.com/artist/5rmln9rtcpJK2jz9QDvmYa) | [Kołysanka](https://open.spotify.com/album/0l8PCks71hShyJURyYodgm) | 2:28 | 2021-05-15 | 2022-03-27 |
 | [Kynance Mews](https://open.spotify.com/track/0WRNGqlwfUz5XCH1kAxsa2) | [Aaron Lundqvist](https://open.spotify.com/artist/2XtTx9UhO1AZK4HNVR1ZN4) | [Kynance Mews](https://open.spotify.com/album/10O8SjpQGOPZetB07RVPqZ) | 2:30 | 2022-03-29 | 2022-04-20 |
 | [L'automne](https://open.spotify.com/track/7934lUtCZ91v3TfCbC1q5R) | [Romain Fabre](https://open.spotify.com/artist/0zZvLS4YXvBzbiRrWR6Viv) | [L'automne](https://open.spotify.com/album/4twwQBmo0DHFDoUkh3p9fx) | 2:40 | 2021-07-10 | 2022-07-28 |
+| [La Ballerine](https://open.spotify.com/track/4oQi1BbH2g3V3s7lluq8vy) | [Lucién](https://open.spotify.com/artist/76OnsMFi0V8EsscskTGEch) | [La Ballerine](https://open.spotify.com/album/2xmXYtmCj2ipIXy6CPUaGv) | 2:33 | 2022-08-17 |  |
 | [La Belle Epoque](https://open.spotify.com/track/7bk5U14iArhfEeazvoP3L5) | [Isaac Cassidy](https://open.spotify.com/artist/3QoWofhE474wVe9XdvQrHJ) | [La Belle Epoque](https://open.spotify.com/album/7hiSVCKLapC4UIqtKv6yYi) | 2:43 | 2022-03-29 | 2022-07-15 |
 | [La Cienega](https://open.spotify.com/track/7qzuwMS8wVfmoC8430eilc) | [Mad Chronic](https://open.spotify.com/artist/6EZ4ixvQRudMRAcxGGH3Dt) | [La Cienega](https://open.spotify.com/album/5HBeiFVPMLF3almA7kI6MS) | 1:59 | 2021-03-19 | 2022-04-11 |
 | [La durée.](https://open.spotify.com/track/3b9xviE7S4jJKNxwu0rRJP) | [Wouter Dewit](https://open.spotify.com/artist/7v8qUCJnoNhmXdmkIxuJSg) | [La durée.](https://open.spotify.com/album/5Xmyfp8PhZYNMvvxv7HvpE) | 6:43 | 2021-05-04 | 2022-04-20 |
@@ -1310,7 +1311,7 @@
 | [The Plains of Dover](https://open.spotify.com/track/3ExU31i7Fh2vbhB1DzM1Gr) | [Ceilidh](https://open.spotify.com/artist/3c4jBYA9Q6SFvKxMBTACgg) | [The Plains of Dover](https://open.spotify.com/album/0aA4oMl9Ggfh4ZyvjM2fMM) | 3:11 | 2021-05-07 | 2022-04-18 |
 | [The Porcelain Store](https://open.spotify.com/track/1DTiV1eUXgIZv4tzp5p0qh) | [Mario](https://open.spotify.com/artist/424QuePzvUmKigWnHcDBcg) | [The Porcelain Store](https://open.spotify.com/album/18YN5j6RJ46XlrptgO8hIW) | 3:03 | 2021-03-07 | 2021-05-26 |
 | [The Purple Door](https://open.spotify.com/track/0lP2WKcigXHy96GH946Jlg) | [Darkuro](https://open.spotify.com/artist/5kdikzk6FOGKJkOJY1Pzrh) | [The Purple Door](https://open.spotify.com/album/1m9vsSh9bzrveo0k71nFqv) | 2:24 | 2022-06-22 | 2022-07-23 |
-| [The Question](https://open.spotify.com/track/07SaUURZhay2n0SIGVVFtu) | [Cullen Waller](https://open.spotify.com/artist/1q5Nczup0WnMsnnhRxJ4BX) | [The Question](https://open.spotify.com/album/3XNSOM2jeWp4YhJC8pe2hU) | 3:01 | 2022-03-29 |  |
+| [The Question](https://open.spotify.com/track/07SaUURZhay2n0SIGVVFtu) | [Cullen Waller](https://open.spotify.com/artist/1q5Nczup0WnMsnnhRxJ4BX) | [The Question](https://open.spotify.com/album/3XNSOM2jeWp4YhJC8pe2hU) | 3:01 | 2022-03-29 | 2022-08-31 |
 | [The Reason Why](https://open.spotify.com/track/0C14i4tdhEb5mor8aia7ix) | [Esme Sanford](https://open.spotify.com/artist/3T88MTp2AubsoH7BHmPpDi) | [The Reason Why](https://open.spotify.com/album/47oAYFVTExyqWFPC3aW7ye) | 2:13 | 2021-03-16 | 2022-07-04 |
 | [The River](https://open.spotify.com/track/7Hwvu4qAhU5H6ajaiJaDEx) | [Pim Miles](https://open.spotify.com/artist/3z6OaFpSGrLQmmDtvL0Zyr) | [The River](https://open.spotify.com/album/5Qlb2A7nLEHUzBflhsYlzx) | 2:58 | 2021-05-06 | 2022-04-02 |
 | [The Rivers End](https://open.spotify.com/track/0kcjM23zkXsgv4lVM7xbG6) | [Eva Maier](https://open.spotify.com/artist/4ygKkX4yx94isjVQS1yN9F) | [Blossom](https://open.spotify.com/album/5WQBpB8H3RB6Bi4uMDJjXY) | 2:52 | 2021-04-22 | 2022-04-18 |

@@ -892,6 +892,28 @@
     },
     {
       "album": {
+        "name": "Jane",
+        "url": "https://open.spotify.com/album/7kjDusgZHn05WZuo2Xlww0"
+      },
+      "artists": [
+        {
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202372,
+      "name": "Jane",
+      "url": "https://open.spotify.com/track/7hyx7lEMBsMHgSYVNCDW2y"
+    },
+    {
+      "album": {
         "name": "Je M'appelle (feat. DaVido)",
         "url": "https://open.spotify.com/album/56qzuXPxeJKnmmOlZFQeUo"
       },
@@ -983,7 +1005,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 146993,
       "name": "Lady",
       "url": "https://open.spotify.com/track/5JfN1hE5h7uquuSEd90uU9"
@@ -1563,8 +1585,8 @@
           "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
         },
         {
-          "name": "Damian 'Jr. Gong' Marley",
-          "url": "https://open.spotify.com/artist/5BCplet0tYrSaala0WrEmN"
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
         }
       ],
       "date_added": "2022-07-22",

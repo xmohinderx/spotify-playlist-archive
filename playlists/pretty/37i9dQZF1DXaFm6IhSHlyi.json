@@ -1,12 +1,12 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 131611,
+  "num_followers": 131420,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDY2NTY0NiwwMDAwMDAwMDA5NjIwM2Y1YzZlZmZmMDFmMDZjMjg3ZTYxY2FmMTdk",
+  "snapshot_id": "MTY2MDY2NTY0NiwwMDAwMDAwMGEwYzIyYWI1MmJlNDg0ZTFkNjEyMGM3ODc0NzlmMmZj",
   "tracks": [
     {
       "added_at": "2022-08-16 16:00:46",
@@ -767,26 +767,6 @@
     {
       "added_at": "2022-08-16 16:00:46",
       "album": {
-        "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
-        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
-      },
-      "artists": [
-        {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-        },
-        {
-          "name": "Ashin Chen",
-          "url": "https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb"
-        }
-      ],
-      "duration_ms": 220693,
-      "name": "\u8aaa\u597d\u4e0d\u54ed",
-      "url": "https://open.spotify.com/track/77BQceOpfvUBXgokOFHYMm"
-    },
-    {
-      "added_at": "2022-08-16 16:00:46",
-      "album": {
         "name": "Meri Pyaari Bindu",
         "url": "https://open.spotify.com/album/5aB2ao1SUs9f4bAmptE1yM"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 264614,
       "name": "Maana Ke Hum Yaar Nahin",
       "url": "https://open.spotify.com/track/1O3WfEwaSpsgZ6tw8jNT8I"
+    },
+    {
+      "added_at": "2022-08-16 16:00:46",
+      "album": {
+        "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
+        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        },
+        {
+          "name": "Ashin Chen",
+          "url": "https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb"
+        }
+      ],
+      "duration_ms": 220693,
+      "name": "\u8aaa\u597d\u4e0d\u54ed",
+      "url": "https://open.spotify.com/track/77BQceOpfvUBXgokOFHYMm"
     },
     {
       "added_at": "2022-08-16 16:00:46",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2022-08-16 16:00:46",
       "album": {
-        "name": "PINK PLANET",
-        "url": "https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG"
-      },
-      "artists": [
-        {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
-        }
-      ],
-      "duration_ms": 169748,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/4ejQlM2w2X2AJqWYcMyNVm"
-    },
-    {
-      "added_at": "2022-08-16 16:00:46",
-      "album": {
         "name": "Everyday Life",
         "url": "https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 230013,
       "name": "Church",
       "url": "https://open.spotify.com/track/1e8D1BCD2afT56Km7UahpB"
+    },
+    {
+      "added_at": "2022-08-16 16:00:46",
+      "album": {
+        "name": "PINK PLANET",
+        "url": "https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "duration_ms": 169748,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/4ejQlM2w2X2AJqWYcMyNVm"
     },
     {
       "added_at": "2022-08-16 16:00:46",
@@ -1827,6 +1827,26 @@
     {
       "added_at": "2022-08-16 16:00:46",
       "album": {
+        "name": "Benar Cinta",
+        "url": "https://open.spotify.com/album/1S5z8cgI402Rf59cpT6ESv"
+      },
+      "artists": [
+        {
+          "name": "Hanin Dhiya",
+          "url": "https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW"
+        },
+        {
+          "name": "Aldy Maldini",
+          "url": "https://open.spotify.com/artist/2wCZJV7yjLqZqjoaq089vh"
+        }
+      ],
+      "duration_ms": 239330,
+      "name": "Benar Cinta",
+      "url": "https://open.spotify.com/track/7nG9CHpSwPyONyB8hdlZ5k"
+    },
+    {
+      "added_at": "2022-08-16 16:00:46",
+      "album": {
         "name": "111",
         "url": "https://open.spotify.com/album/3DlFiBv8uC3GjtaY0l9bhU"
       },
@@ -1847,26 +1867,6 @@
       "duration_ms": 230000,
       "name": "111",
       "url": "https://open.spotify.com/track/6nbl8mfvdmnhtlbexXu6J9"
-    },
-    {
-      "added_at": "2022-08-16 16:00:46",
-      "album": {
-        "name": "Benar Cinta",
-        "url": "https://open.spotify.com/album/1S5z8cgI402Rf59cpT6ESv"
-      },
-      "artists": [
-        {
-          "name": "Hanin Dhiya",
-          "url": "https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW"
-        },
-        {
-          "name": "Aldy Maldini",
-          "url": "https://open.spotify.com/artist/2wCZJV7yjLqZqjoaq089vh"
-        }
-      ],
-      "duration_ms": 239330,
-      "name": "Benar Cinta",
-      "url": "https://open.spotify.com/track/7nG9CHpSwPyONyB8hdlZ5k"
     },
     {
       "added_at": "2022-08-16 16:00:46",
@@ -1987,6 +1987,22 @@
     {
       "added_at": "2022-08-16 16:00:46",
       "album": {
+        "name": "Night within you",
+        "url": "https://open.spotify.com/album/3JkOtuYHXxscyJuYT3k3VL"
+      },
+      "artists": [
+        {
+          "name": "Krr",
+          "url": "https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7"
+        }
+      ],
+      "duration_ms": 254360,
+      "name": "Night within you",
+      "url": "https://open.spotify.com/track/4QlGtDYlVWAIiwCNU5f1i3"
+    },
+    {
+      "added_at": "2022-08-16 16:00:46",
+      "album": {
         "name": "How Is This Love ?",
         "url": "https://open.spotify.com/album/6yM5DlsPoNz8C2pZwVqN2l"
       },
@@ -2003,22 +2019,6 @@
       "duration_ms": 194951,
       "name": "How Is This Love ?",
       "url": "https://open.spotify.com/track/35rIBWfvmrVoWpZljAqpv5"
-    },
-    {
-      "added_at": "2022-08-16 16:00:46",
-      "album": {
-        "name": "Night within you",
-        "url": "https://open.spotify.com/album/3JkOtuYHXxscyJuYT3k3VL"
-      },
-      "artists": [
-        {
-          "name": "Krr",
-          "url": "https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7"
-        }
-      ],
-      "duration_ms": 254360,
-      "name": "Night within you",
-      "url": "https://open.spotify.com/track/4QlGtDYlVWAIiwCNU5f1i3"
     },
     {
       "added_at": "2022-08-16 16:00:46",
@@ -2351,22 +2351,6 @@
     {
       "added_at": "2022-08-16 16:00:46",
       "album": {
-        "name": "Ang Kwento Ng Pag-Ibig",
-        "url": "https://open.spotify.com/album/6yAWkGEiemE4t8Gh55gmSN"
-      },
-      "artists": [
-        {
-          "name": "Steph",
-          "url": "https://open.spotify.com/artist/59vzNh002ixVsTYtMAwn6i"
-        }
-      ],
-      "duration_ms": 272288,
-      "name": "Ang Kwento Ng Pag-Ibig",
-      "url": "https://open.spotify.com/track/7xtHYZxdaLiH5Ia6y5CVnS"
-    },
-    {
-      "added_at": "2022-08-16 16:00:46",
-      "album": {
         "name": "Maghihintay",
         "url": "https://open.spotify.com/album/1lKuKFWKWlMfhNYjsRJAhK"
       },
@@ -2379,6 +2363,22 @@
       "duration_ms": 275913,
       "name": "Maghihintay",
       "url": "https://open.spotify.com/track/4LgccgKkSa1zOVGcvnQPhn"
+    },
+    {
+      "added_at": "2022-08-16 16:00:46",
+      "album": {
+        "name": "Ang Kwento Ng Pag-Ibig",
+        "url": "https://open.spotify.com/album/6yAWkGEiemE4t8Gh55gmSN"
+      },
+      "artists": [
+        {
+          "name": "Steph",
+          "url": "https://open.spotify.com/artist/59vzNh002ixVsTYtMAwn6i"
+        }
+      ],
+      "duration_ms": 272288,
+      "name": "Ang Kwento Ng Pag-Ibig",
+      "url": "https://open.spotify.com/track/7xtHYZxdaLiH5Ia6y5CVnS"
     },
     {
       "added_at": "2022-08-16 16:00:46",

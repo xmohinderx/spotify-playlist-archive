@@ -550,6 +550,24 @@
     },
     {
       "album": {
+        "name": "eduardo",
+        "url": "https://open.spotify.com/album/6ylPT54V3iwJY2trdxTzTX"
+      },
+      "artists": [
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226280,
+      "name": "contenta,",
+      "url": "https://open.spotify.com/track/1YlXMOHqJVWzFaaQLeekPt"
+    },
+    {
+      "album": {
         "name": "Contigo o Sin Ti",
         "url": "https://open.spotify.com/album/4qcWsR1V7d7aqZ07AGs8LO"
       },
@@ -727,7 +745,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 158500,
       "name": "Despedida",
       "url": "https://open.spotify.com/track/0f2n03VQWtlXKQmeIKazYF"
@@ -2113,7 +2131,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 244253,
       "name": "Quiero",
       "url": "https://open.spotify.com/track/34gzxIVoKXsFQPiiT6rUX4"
@@ -2865,6 +2883,24 @@
       "duration_ms": 193350,
       "name": "Una Casa en Construcci\u00f3n - Alex Fern\u00e1ndez: El Mejor Comediante del Mundo",
       "url": "https://open.spotify.com/track/76kDPhalrE5gdAHmC1jxB3"
+    },
+    {
+      "album": {
+        "name": "Uno Que Tropieza Y Cae Al Mar",
+        "url": "https://open.spotify.com/album/2tdaciK2jsRem4pSzjb53Z"
+      },
+      "artists": [
+        {
+          "name": "Vera Pedro",
+          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209346,
+      "name": "Uno Que Tropieza Y Cae Al Mar",
+      "url": "https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz"
     },
     {
       "album": {

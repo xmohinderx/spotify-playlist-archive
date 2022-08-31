@@ -4,7 +4,7 @@
 
 > masquerades, moonlit encounters, and locking eyes across the ballroom
 
-68 songs - 5 hr 9 min - [published](https://open.spotify.com/playlist/2v8yMWug6NT2lbtXU1fqbl)
+69 songs - 5 hr 12 min - [published](https://open.spotify.com/playlist/2v8yMWug6NT2lbtXU1fqbl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [thank u, next](https://open.spotify.com/track/66iP3U2QOKgevrnrbWk53S) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton \(Covers from the Netflix Original Series\)](https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe) | 3:26 | 2022-04-01 |  |
 | [The Mad Lover Suite: Ground\. Aire V](https://open.spotify.com/track/4Uqpgm23gArRAtJZ8gSupH) | [John Eccles](https://open.spotify.com/artist/1Vf6J5GaEyalbTE1Jjbeui), [Théotime Langlois de Swarte](https://open.spotify.com/artist/5cBgAWdOSP0eY36MX6sfy5), [Thomas Dunford](https://open.spotify.com/artist/7ICHkzLMTkSFuLwyzXI5i1) | [The Mad Lover](https://open.spotify.com/album/4TrV6jQQ37SFwWXlRvkwaB) | 3:41 | 2022-04-01 |  |
 | [The Night We Met](https://open.spotify.com/track/6nXGCf8abcRrRhLrUEFlD8) | [Asiancellodude](https://open.spotify.com/artist/3YJJSktrvGW0GYbbZwyGsY) | [The Night We Met](https://open.spotify.com/album/40z8uHIyl3cLTiMIZxquq6) | 3:08 | 2022-04-01 |  |
-| [The Phantom of the Opera: Overture](https://open.spotify.com/track/7mZFYTDSIvDPBY8w0EJMUc) | [Prague Cello Quartet](https://open.spotify.com/artist/5GeMh4YY04Q71E55hL6D9A) | [Broadway](https://open.spotify.com/album/5WjFyMbVOxXY8cHOfFOqdF) | 3:17 | 2022-04-01 |  |
+| [The Phantom of the Opera: Overture](https://open.spotify.com/track/7mZFYTDSIvDPBY8w0EJMUc) | [Prague Cello Quartet](https://open.spotify.com/artist/5GeMh4YY04Q71E55hL6D9A) | [Broadway](https://open.spotify.com/album/5WjFyMbVOxXY8cHOfFOqdF) | 3:17 | 2022-04-01 | 2022-08-31 |
+| [The Phantom of the Opera: Overture](https://open.spotify.com/track/3vLa18ko8VtiSh32m6ceP5) | [Prague Cello Quartet](https://open.spotify.com/artist/5GeMh4YY04Q71E55hL6D9A) | [The Phantom of the Opera: Overture](https://open.spotify.com/album/0oMltgMweWTGOBQPhuDU9j) | 3:19 | 2022-08-05 |  |
 | [this is what love is](https://open.spotify.com/track/2lVIRDMd7dgwMAwzM824Dz) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8), [James Southall](https://open.spotify.com/artist/58uaT9Z6K7C6A0Jx39jfFc), [Thomas Gould](https://open.spotify.com/artist/1Oc8xcaNIQngZs5Daw0zFk), [David O’Leary](https://open.spotify.com/artist/3kuJnjb3NR5NO0iptFuchB), [Rachel Roberts](https://open.spotify.com/artist/1kO1prL8GSAOJYecFt0pzw), [Richard Harwood](https://open.spotify.com/artist/6qc7jg6OMExVkMu2Uzril9) | [this is what love is](https://open.spotify.com/album/5KAMiXABUYhHcV15pfJ4w4) | 3:00 | 2022-08-05 |  |
 | [Traitor \- arr\. String Quartet \(inspired by Bridgerton\)](https://open.spotify.com/track/4KgoCx0x5Tln9FBt5N6Zca) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Traitor \[arr\. String Quartet \(inspired by Bridgerton\)\]](https://open.spotify.com/album/4IfBP36KdwEmPXXtLQKmga) | 3:42 | 2022-04-01 |  |
 | [Variations on a Rococo Theme, Op\. 33, TH 57: Var: VI\. Andante](https://open.spotify.com/track/123zFAGx0F5ScgrLrCWGDX) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Jean\-Guihen Queyras](https://open.spotify.com/artist/2vXeB7c78tU2l7Mad2sjx8), [BBC Symphony Orchestra](https://open.spotify.com/artist/23BiSNXm5UaRFuusoWisYO), [Jiří Bělohlávek](https://open.spotify.com/artist/1b5qV5N8eWF48rJSGIOEBx) | [Elgar: Cello Concerto / Tchaikovsky: Rococo Variations / Dvořák: Silent Woods; Rondo](https://open.spotify.com/album/1CTMjqapaLGF4Qi0fMtfuf) | 2:36 | 2022-04-01 |  |

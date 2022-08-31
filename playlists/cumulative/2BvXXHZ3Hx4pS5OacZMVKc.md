@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-177 songs - 9 hr 21 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
+179 songs - 9 hr 27 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [On & On \- Cartoon x HAVSUN x WAYOUT Remix](https://open.spotify.com/track/45NiEAUHkIpPV4jrMCX9dh) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [HAVSUN](https://open.spotify.com/artist/6lvQ8A4F80Hn5t56isuxWr), [WAYOUT](https://open.spotify.com/artist/59ZPzvzdirTAjIP8beAkGx), [Daniel Levi](https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y) | [On & On \(Cartoon x HAVSUN x WAYOUT Remix\)](https://open.spotify.com/album/6xNEQsOdpxWEPWXjGsA7Ax) | 3:58 | 2022-02-03 |  |
 | [One more try](https://open.spotify.com/track/3SrXtpCZdFg17W1KBYRXQJ) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB), [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [One more try](https://open.spotify.com/album/5za49Q0yHp1JBrmcvM8l7C) | 3:17 | 2022-06-14 | 2022-07-12 |
 | [Only You](https://open.spotify.com/track/1QhmeQwwiGX55Xd19oyFSN) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [Derpcat](https://open.spotify.com/artist/3o8xPY8Zencrdc3RtvVaQM), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [Only You](https://open.spotify.com/album/7AWCSwQp6Elc1JZKOsnpFU) | 3:00 | 2022-02-03 |  |
+| [Out Of Here](https://open.spotify.com/track/1RpmCnc7AjpDYqacXYRLZY) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [Out Of Here](https://open.spotify.com/album/6WL6RJfNBi89mntTBIvKua) | 2:14 | 2022-08-30 |  |
 | [Out of the Grave](https://open.spotify.com/track/7mIdc2W6SEItPWdH7TZUkb) | [Abandoned](https://open.spotify.com/artist/1qs72LBhNBAQGwxFAnlo0x), [ENROSA](https://open.spotify.com/artist/2GL4yQnMX0QY6dd9yRwDbj) | [Out of the Grave](https://open.spotify.com/album/5b3VlJP5MTbZSPRkTaNkTO) | 3:23 | 2022-02-03 |  |
 | [Outside](https://open.spotify.com/track/6ReQvM99SijDWMYN1Kx6uX) | [THYKIER](https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI) | [Shimmer EP](https://open.spotify.com/album/0oiJtNGOQBR4hnhdMmffTM) | 2:51 | 2022-02-03 |  |
 | [Patience](https://open.spotify.com/track/2wB3bSpptrSiz9vAA9YQbZ) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN), [VinDon](https://open.spotify.com/artist/6hS0eB6BQPvcKhIM6Ltem0) | [Patience](https://open.spotify.com/album/5xKP3ZZUuqeqhmsyAJslh5) | 3:36 | 2022-06-24 |  |
@@ -181,6 +182,7 @@
 | [When I'm Gone](https://open.spotify.com/track/6rhZZuD7lVsJTOkqxLepTj) | [Tetrix Bass](https://open.spotify.com/artist/7wqWpJmkmXr5e8dcXdbrC6), [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [Ellen Louise](https://open.spotify.com/artist/67yangDHSVlDpDS4U4UWKe) | [When I'm Gone](https://open.spotify.com/album/1BlfvPW5eXF2tyyL6OkDaY) | 3:37 | 2022-06-09 |  |
 | [When We Leavin](https://open.spotify.com/track/1xl54xMFlx7R316617s5kx) | [IntoAlter](https://open.spotify.com/artist/48qJTUrYO2CHJA3oX4MK7A), [Too Martian](https://open.spotify.com/artist/23UmQoccnr8zWXAmVdO4Lq), [Peter Piffen](https://open.spotify.com/artist/50LmKJrodjlTvdI6FvtvrK) | [When We Leavin](https://open.spotify.com/album/5OTxCckeiP4PErRyjIOU3W) | 2:46 | 2022-02-03 |  |
 | [With You](https://open.spotify.com/track/6t2Kj4DEcYmRwAsCGWFs2E) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF), [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [With You](https://open.spotify.com/album/7N300AA6yGawrIIzq6n1Hb) | 3:30 | 2022-03-10 |  |
+| [Would You Be Waiting](https://open.spotify.com/track/3PHOx8osoFglbGHz8dWY5E) | [Aeden](https://open.spotify.com/artist/2WIFU5KpTGyYWZs039dQPn) | [Would You Be Waiting](https://open.spotify.com/album/17zDJZXkFFsfWDpH83URKA) | 2:57 | 2022-08-30 |  |
 | [XXI](https://open.spotify.com/track/1WsksDgGtaNPLdGcwk78vt) | [QR](https://open.spotify.com/artist/698AkaHa09ShchhkKzd5wz) | [XXI](https://open.spotify.com/album/28F4laLubUUnKyXa9pfyWK) | 2:40 | 2022-03-29 |  |
 | [Yesterday](https://open.spotify.com/track/0Cxyt1tuzX8dRdPR2mXPZz) | [4URA](https://open.spotify.com/artist/3EG6B7xCYrCokW2HJiwpPd), [Young Viridii](https://open.spotify.com/artist/4Rm1nfclUTXCYusaJk7TA9) | [Yesterday](https://open.spotify.com/album/4gbR6lbzBVdoU9RNijlKpW) | 3:26 | 2022-08-18 |  |
 | [You Did Me Wrong](https://open.spotify.com/track/021AdIBrNm09ETA6iMxnyw) | [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Alone EP](https://open.spotify.com/album/3QS6cvgnMj7JuA0gB12Lq8) | 2:05 | 2022-05-20 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Sad instrumental and vocal jazz.",
-  "num_followers": 8298,
+  "num_followers": 8394,
   "original_name": "Sad Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUwNDQ1NSwwMDAwMDAwMGI0MjYzNjMyMzlkZDE3NjFmNGNlODNjNmIxNTA5ODk0",
+  "snapshot_id": "MTY2MTUwNDQ1NSwwMDAwMDAwMDM4OGIwMmEyNzFhMzliMWZkOTk3NmNmYzUxMDU5M2E4",
   "tracks": [
     {
       "added_at": "2022-08-26 09:00:54",
@@ -91,6 +91,22 @@
     {
       "added_at": "2022-08-26 09:00:54",
       "album": {
+        "name": "The Art Of The Ballad",
+        "url": "https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 409133,
+      "name": "Alone Together",
+      "url": "https://open.spotify.com/track/3lBFgKoGy3rAHejRPzeeTM"
+    },
+    {
+      "added_at": "2022-08-26 09:00:54",
+      "album": {
         "name": "Standards, Vol. 2",
         "url": "https://open.spotify.com/album/6fvZds34e7H5ICQ5HOWNbd"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 435266,
       "name": "So Tender",
       "url": "https://open.spotify.com/track/0Dt1B5dNfajRczQKZA87aL"
-    },
-    {
-      "added_at": "2022-08-26 09:00:54",
-      "album": {
-        "name": "The Art Of The Ballad",
-        "url": "https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 409133,
-      "name": "Alone Together",
-      "url": "https://open.spotify.com/track/3lBFgKoGy3rAHejRPzeeTM"
     },
     {
       "added_at": "2022-08-26 09:00:54",
@@ -483,22 +483,6 @@
     {
       "added_at": "2022-08-26 09:00:54",
       "album": {
-        "name": "Ballads (Deluxe Edition - Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane Quartet",
-          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
-        }
-      ],
-      "duration_ms": 311560,
-      "name": "You Don't Know What Love Is",
-      "url": "https://open.spotify.com/track/3gKYq33uHC0FKHp8V7yzFi"
-    },
-    {
-      "added_at": "2022-08-26 09:00:54",
-      "album": {
         "name": "The Best Of Sidney Bechet",
         "url": "https://open.spotify.com/album/1DNkzO3Wq6tXBmlg7Xrpj1"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 252266,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/4PN5gbJNYWx9yQ6hJepPbG"
+    },
+    {
+      "added_at": "2022-08-26 09:00:54",
+      "album": {
+        "name": "Ballads (Deluxe Edition - Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane Quartet",
+          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
+        }
+      ],
+      "duration_ms": 311560,
+      "name": "You Don't Know What Love Is",
+      "url": "https://open.spotify.com/track/3gKYq33uHC0FKHp8V7yzFi"
     },
     {
       "added_at": "2022-08-26 09:00:54",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-08-26 09:00:54",
       "album": {
-        "name": "Crescent",
-        "url": "https://open.spotify.com/album/1G3jdGqZNUrC8ZDesZB8xp"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane Quartet",
-          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
-        }
-      ],
-      "duration_ms": 707933,
-      "name": "Lonnie's Lament",
-      "url": "https://open.spotify.com/track/4m16y4HrVSk9N60oHNZBqI"
-    },
-    {
-      "added_at": "2022-08-26 09:00:54",
-      "album": {
         "name": "Familiar Places",
         "url": "https://open.spotify.com/album/4PYeBFxWLxLaqfOmkcbjyS"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 287323,
       "name": "It's Beginning To Rain Again",
       "url": "https://open.spotify.com/track/1hHnQUrgFC0ezzo27SkZeS"
+    },
+    {
+      "added_at": "2022-08-26 09:00:54",
+      "album": {
+        "name": "Crescent",
+        "url": "https://open.spotify.com/album/1G3jdGqZNUrC8ZDesZB8xp"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane Quartet",
+          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
+        }
+      ],
+      "duration_ms": 707933,
+      "name": "Lonnie's Lament",
+      "url": "https://open.spotify.com/track/4m16y4HrVSk9N60oHNZBqI"
     },
     {
       "added_at": "2022-08-26 09:00:54",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-08-26 09:00:54",
       "album": {
-        "name": "Explorations [Original Jazz Classics Remasters]",
-        "url": "https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans Trio",
-          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
-        }
-      ],
-      "duration_ms": 280186,
-      "name": "I Wish I Knew",
-      "url": "https://open.spotify.com/track/41XCiJOUytKpsgT1kDzYzE"
-    },
-    {
-      "added_at": "2022-08-26 09:00:54",
-      "album": {
         "name": "Blues In Trinity",
         "url": "https://open.spotify.com/album/5LUiDFf6MTHLMtnNRHfrHy"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 185840,
       "name": "I Had The Craziest Dream",
       "url": "https://open.spotify.com/track/61InMIqyvcBO4HGMaARf7O"
+    },
+    {
+      "added_at": "2022-08-26 09:00:54",
+      "album": {
+        "name": "Explorations [Original Jazz Classics Remasters]",
+        "url": "https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+        }
+      ],
+      "duration_ms": 280186,
+      "name": "I Wish I Knew",
+      "url": "https://open.spotify.com/track/41XCiJOUytKpsgT1kDzYzE"
     },
     {
       "added_at": "2022-08-26 09:00:54",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2022-08-26 09:00:54",
       "album": {
-        "name": "Ben Webster Plays Ballads Remastered",
-        "url": "https://open.spotify.com/album/5RfiNZQf0WbnR5q4rxOebG"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 315405,
-      "name": "Willow Weep for Me - Remastered",
-      "url": "https://open.spotify.com/track/111VqNnQA1m6enKxaO77B5"
-    },
-    {
-      "added_at": "2022-08-26 09:00:54",
-      "album": {
         "name": "The Time is Now",
         "url": "https://open.spotify.com/album/6rbxPC5MijiKjZo5C7VPtd"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 467236,
       "name": "In a Sentimental Mood",
       "url": "https://open.spotify.com/track/0fv2YFvTsKNLK0X7PNvXqM"
+    },
+    {
+      "added_at": "2022-08-26 09:00:54",
+      "album": {
+        "name": "Ben Webster Plays Ballads Remastered",
+        "url": "https://open.spotify.com/album/5RfiNZQf0WbnR5q4rxOebG"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 315405,
+      "name": "Willow Weep for Me - Remastered",
+      "url": "https://open.spotify.com/track/111VqNnQA1m6enKxaO77B5"
     },
     {
       "added_at": "2022-08-26 09:00:54",

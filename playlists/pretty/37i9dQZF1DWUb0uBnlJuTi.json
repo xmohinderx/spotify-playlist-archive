@@ -1,12 +1,12 @@
 {
   "description": "Jazz. But funky. Cover: Unc D",
-  "num_followers": 206385,
+  "num_followers": 206695,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMDIxMmViNTUzMDk5OTE1NDRkMTBlNjk5ZDlkOWYyMjVi",
+  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMGVhMmFjMDMxMjMzZjAwZWNiYzUwMWQyNTEzNDk1YjUy",
   "tracks": [
     {
       "added_at": "2022-08-05 04:01:00",
@@ -529,6 +529,22 @@
       "url": "https://open.spotify.com/track/0nLPiYtwLN82ohURgzmY0j"
     },
     {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Virgin Ubiquity II",
+        "url": "https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 336546,
+      "name": "Funk in the Hole",
+      "url": "https://open.spotify.com/track/3olJm5hPTWRM89ZNuPbNMg"
+    },
+    {
       "added_at": "2022-07-22 04:02:00",
       "album": {
         "name": "So Cold",
@@ -551,18 +567,18 @@
     {
       "added_at": "2020-10-09 04:01:00",
       "album": {
-        "name": "Virgin Ubiquity II",
-        "url": "https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6"
+        "name": "Mysterious Traveller",
+        "url": "https://open.spotify.com/album/2JARH6A2TX28OzcPwJnD1p"
       },
       "artists": [
         {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+          "name": "Weather Report",
+          "url": "https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b"
         }
       ],
-      "duration_ms": 336546,
-      "name": "Funk in the Hole",
-      "url": "https://open.spotify.com/track/3olJm5hPTWRM89ZNuPbNMg"
+      "duration_ms": 500866,
+      "name": "Cucumber Slumber",
+      "url": "https://open.spotify.com/track/7HVLRiHEzNYuNlbKYy3JVq"
     },
     {
       "added_at": "2021-08-27 04:01:00",
@@ -579,22 +595,6 @@
       "duration_ms": 186324,
       "name": "Pizza Pie",
       "url": "https://open.spotify.com/track/4TJryQM96qMu04X4uvdBTm"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "Mysterious Traveller",
-        "url": "https://open.spotify.com/album/2JARH6A2TX28OzcPwJnD1p"
-      },
-      "artists": [
-        {
-          "name": "Weather Report",
-          "url": "https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b"
-        }
-      ],
-      "duration_ms": 500866,
-      "name": "Cucumber Slumber",
-      "url": "https://open.spotify.com/track/7HVLRiHEzNYuNlbKYy3JVq"
     },
     {
       "added_at": "2021-11-26 05:01:00",
@@ -823,6 +823,22 @@
     {
       "added_at": "2020-10-09 04:01:00",
       "album": {
+        "name": "Rhythm Of Life",
+        "url": "https://open.spotify.com/album/2mv1fpeMeseWyD0MIjKxe1"
+      },
+      "artists": [
+        {
+          "name": "James Mason",
+          "url": "https://open.spotify.com/artist/6HC9gScXpsScEq3Cgq5UvZ"
+        }
+      ],
+      "duration_ms": 326320,
+      "name": "Sweet Power of Your Embrace",
+      "url": "https://open.spotify.com/track/55goBag8vVmsesMxOdIe5M"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
         "name": "Bitches Brew",
         "url": "https://open.spotify.com/album/3Q0zkOZEOC855ErOOJ1AdO"
       },
@@ -867,18 +883,70 @@
     {
       "added_at": "2020-10-09 04:01:00",
       "album": {
-        "name": "Rhythm Of Life",
-        "url": "https://open.spotify.com/album/2mv1fpeMeseWyD0MIjKxe1"
+        "name": "Placebo Years 1971 - 1974",
+        "url": "https://open.spotify.com/album/32RhsGaO9HlMiA8h4Vcnxd"
       },
       "artists": [
         {
-          "name": "James Mason",
-          "url": "https://open.spotify.com/artist/6HC9gScXpsScEq3Cgq5UvZ"
+          "name": "Marc Moulin",
+          "url": "https://open.spotify.com/artist/6n6ot5JVa8YO9z82eNbvd8"
         }
       ],
-      "duration_ms": 326320,
-      "name": "Sweet Power of Your Embrace",
-      "url": "https://open.spotify.com/track/55goBag8vVmsesMxOdIe5M"
+      "duration_ms": 152400,
+      "name": "Humpty Dumpty - 2006 Remastered Version",
+      "url": "https://open.spotify.com/track/3rzenzs3lpi1XljKsZQ2Bl"
+    },
+    {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "Glide",
+        "url": "https://open.spotify.com/album/4gKKENDoymYmpMqSNW18co"
+      },
+      "artists": [
+        {
+          "name": "Mocky",
+          "url": "https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG"
+        }
+      ],
+      "duration_ms": 192999,
+      "name": "Glide",
+      "url": "https://open.spotify.com/track/5KqdTCkhDfnr6gPM7Oyh3N"
+    },
+    {
+      "added_at": "2022-04-01 04:02:00",
+      "album": {
+        "name": "The Resurrection",
+        "url": "https://open.spotify.com/album/639JLfs3Nbas5UHqoEA7Te"
+      },
+      "artists": [
+        {
+          "name": "Luke Smith",
+          "url": "https://open.spotify.com/artist/5eaYeMThA7paMUOBudZJ6H"
+        },
+        {
+          "name": "Jackson Mathod",
+          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
+        }
+      ],
+      "duration_ms": 243227,
+      "name": "The Resurrection",
+      "url": "https://open.spotify.com/track/1F39hjm8I9oxamHT3RmQJ2"
+    },
+    {
+      "added_at": "2021-11-12 05:01:00",
+      "album": {
+        "name": "YUNIK\u014dN",
+        "url": "https://open.spotify.com/album/0q2jVFh5OMjHzNnqh9tuzR"
+      },
+      "artists": [
+        {
+          "name": "New Cool Collective",
+          "url": "https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ"
+        }
+      ],
+      "duration_ms": 205160,
+      "name": "Tokisan",
+      "url": "https://open.spotify.com/track/3Jao9qWPTZsU73GnM3VlGR"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -901,38 +969,6 @@
       "url": "https://open.spotify.com/track/4hT1CgkQIlhmA1DIVYrLx8"
     },
     {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "Glide",
-        "url": "https://open.spotify.com/album/4gKKENDoymYmpMqSNW18co"
-      },
-      "artists": [
-        {
-          "name": "Mocky",
-          "url": "https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG"
-        }
-      ],
-      "duration_ms": 192999,
-      "name": "Glide",
-      "url": "https://open.spotify.com/track/5KqdTCkhDfnr6gPM7Oyh3N"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "Placebo Years 1971 - 1974",
-        "url": "https://open.spotify.com/album/32RhsGaO9HlMiA8h4Vcnxd"
-      },
-      "artists": [
-        {
-          "name": "Marc Moulin",
-          "url": "https://open.spotify.com/artist/6n6ot5JVa8YO9z82eNbvd8"
-        }
-      ],
-      "duration_ms": 152400,
-      "name": "Humpty Dumpty - 2006 Remastered Version",
-      "url": "https://open.spotify.com/track/3rzenzs3lpi1XljKsZQ2Bl"
-    },
-    {
       "added_at": "2022-06-10 04:02:00",
       "album": {
         "name": "Pigna",
@@ -947,42 +983,6 @@
       "duration_ms": 277867,
       "name": "Midnight Getaway",
       "url": "https://open.spotify.com/track/2fsoIJDXpypgCP9aquwOYC"
-    },
-    {
-      "added_at": "2021-11-12 05:01:00",
-      "album": {
-        "name": "YUNIK\u014dN",
-        "url": "https://open.spotify.com/album/0q2jVFh5OMjHzNnqh9tuzR"
-      },
-      "artists": [
-        {
-          "name": "New Cool Collective",
-          "url": "https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ"
-        }
-      ],
-      "duration_ms": 205160,
-      "name": "Tokisan",
-      "url": "https://open.spotify.com/track/3Jao9qWPTZsU73GnM3VlGR"
-    },
-    {
-      "added_at": "2022-04-01 04:02:00",
-      "album": {
-        "name": "The Resurrection",
-        "url": "https://open.spotify.com/album/639JLfs3Nbas5UHqoEA7Te"
-      },
-      "artists": [
-        {
-          "name": "Luke Smith",
-          "url": "https://open.spotify.com/artist/5eaYeMThA7paMUOBudZJ6H"
-        },
-        {
-          "name": "Jackson Mathod",
-          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
-        }
-      ],
-      "duration_ms": 243227,
-      "name": "The Resurrection",
-      "url": "https://open.spotify.com/track/1F39hjm8I9oxamHT3RmQJ2"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -1097,6 +1097,22 @@
       "url": "https://open.spotify.com/track/2A8KUcV16yCGc7wwXYyFz7"
     },
     {
+      "added_at": "2021-06-04 04:01:00",
+      "album": {
+        "name": "Be on the Lookout",
+        "url": "https://open.spotify.com/album/2lI3D4qYZkM4u9wAcTXRUA"
+      },
+      "artists": [
+        {
+          "name": "Otis McDonald",
+          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
+        }
+      ],
+      "duration_ms": 193516,
+      "name": "Be on the Lookout",
+      "url": "https://open.spotify.com/track/59fbbrUBjuN5H4NWzMi7CI"
+    },
+    {
       "added_at": "2022-04-01 04:02:00",
       "album": {
         "name": "Misfit",
@@ -1117,20 +1133,20 @@
       "url": "https://open.spotify.com/track/4prllBcCDVY0CUDnbvnRZ3"
     },
     {
-      "added_at": "2021-06-04 04:01:00",
+      "added_at": "2020-10-09 04:01:00",
       "album": {
-        "name": "Be on the Lookout",
-        "url": "https://open.spotify.com/album/2lI3D4qYZkM4u9wAcTXRUA"
+        "name": "New Ammo",
+        "url": "https://open.spotify.com/album/1qNG0CXSi8vumI662LYg2o"
       },
       "artists": [
         {
-          "name": "Otis McDonald",
-          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
+          "name": "Karl Denson",
+          "url": "https://open.spotify.com/artist/00ZLAUFA0jWOsSZKzIrM6v"
         }
       ],
-      "duration_ms": 193516,
-      "name": "Be on the Lookout",
-      "url": "https://open.spotify.com/track/59fbbrUBjuN5H4NWzMi7CI"
+      "duration_ms": 241400,
+      "name": "Sure Shot",
+      "url": "https://open.spotify.com/track/1IqZYnJiVCRnu4CC3TXnNb"
     },
     {
       "added_at": "2021-03-05 05:01:00",
@@ -1155,22 +1171,6 @@
       "duration_ms": 264974,
       "name": "Spanish Joint",
       "url": "https://open.spotify.com/track/3yIMbncJrxUWoS5J1AlGLs"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "New Ammo",
-        "url": "https://open.spotify.com/album/1qNG0CXSi8vumI662LYg2o"
-      },
-      "artists": [
-        {
-          "name": "Karl Denson",
-          "url": "https://open.spotify.com/artist/00ZLAUFA0jWOsSZKzIrM6v"
-        }
-      ],
-      "duration_ms": 241400,
-      "name": "Sure Shot",
-      "url": "https://open.spotify.com/track/1IqZYnJiVCRnu4CC3TXnNb"
     },
     {
       "added_at": "2022-06-03 04:01:00",
@@ -1317,22 +1317,6 @@
       "url": "https://open.spotify.com/track/6Fvh7mH7jFE4PuXQlQeRt9"
     },
     {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "On The Avenue",
-        "url": "https://open.spotify.com/album/2q14UlkorFTgVm7HzLIBRp"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Foster",
-          "url": "https://open.spotify.com/artist/4B5XByhwtjsqGxs91fYMhZ"
-        }
-      ],
-      "duration_ms": 374520,
-      "name": "On The Avenue",
-      "url": "https://open.spotify.com/track/60Rz7gneyvKj2yevlgVMbt"
-    },
-    {
       "added_at": "2021-06-04 04:01:00",
       "album": {
         "name": "Sassy",
@@ -1351,6 +1335,38 @@
       "duration_ms": 258242,
       "name": "Sassy",
       "url": "https://open.spotify.com/track/6Fxil4EHqnMgQPGElnuYzb"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "On The Avenue",
+        "url": "https://open.spotify.com/album/2q14UlkorFTgVm7HzLIBRp"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Foster",
+          "url": "https://open.spotify.com/artist/4B5XByhwtjsqGxs91fYMhZ"
+        }
+      ],
+      "duration_ms": 374520,
+      "name": "On The Avenue",
+      "url": "https://open.spotify.com/track/60Rz7gneyvKj2yevlgVMbt"
+    },
+    {
+      "added_at": "2022-01-21 05:02:00",
+      "album": {
+        "name": "The Positive and the Negative",
+        "url": "https://open.spotify.com/album/1C2B844cWZPT0eGCNTm03g"
+      },
+      "artists": [
+        {
+          "name": "Surprise Chef",
+          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
+        }
+      ],
+      "duration_ms": 287349,
+      "name": "The Positive and the Negative",
+      "url": "https://open.spotify.com/track/2vRidmUrgY8KWpVbs2eHAA"
     },
     {
       "added_at": "2021-05-07 04:09:00",
@@ -1375,22 +1391,6 @@
       "duration_ms": 257293,
       "name": "Little Miss Lover (feat. Gary Bartz & The Greyboy Allstars)",
       "url": "https://open.spotify.com/track/6FLdgbIPkk1uTJLxHNxHtm"
-    },
-    {
-      "added_at": "2022-01-21 05:02:00",
-      "album": {
-        "name": "The Positive and the Negative",
-        "url": "https://open.spotify.com/album/1C2B844cWZPT0eGCNTm03g"
-      },
-      "artists": [
-        {
-          "name": "Surprise Chef",
-          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
-        }
-      ],
-      "duration_ms": 287349,
-      "name": "The Positive and the Negative",
-      "url": "https://open.spotify.com/track/2vRidmUrgY8KWpVbs2eHAA"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -1445,6 +1445,30 @@
       "url": "https://open.spotify.com/track/7iSSsyuZwrBrw9f3hernoc"
     },
     {
+      "added_at": "2021-04-16 04:00:00",
+      "album": {
+        "name": "Deep: The Baritone Sessions, Vol. 2",
+        "url": "https://open.spotify.com/album/695G3vOrMvFhQw2DXkPnOu"
+      },
+      "artists": [
+        {
+          "name": "Mark Lettieri",
+          "url": "https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP"
+        },
+        {
+          "name": "Bobby Sparks II",
+          "url": "https://open.spotify.com/artist/230coKMlIqckCdCumrrCkG"
+        },
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
+        }
+      ],
+      "duration_ms": 353546,
+      "name": "Voyager One (feat. Nate Smith & Bobby Sparks II)",
+      "url": "https://open.spotify.com/track/29p9C7pmhax5CCrfR1SD5m"
+    },
+    {
       "added_at": "2022-05-06 04:02:00",
       "album": {
         "name": "Rajazz",
@@ -1475,34 +1499,6 @@
       "duration_ms": 441426,
       "name": "Rajazz",
       "url": "https://open.spotify.com/track/6fW1ahgSQHxlBWwgDrRpqx"
-    },
-    {
-      "added_at": "2022-06-03 04:01:00",
-      "album": {
-        "name": "Kresten Osgood Plays the Organ for You",
-        "url": "https://open.spotify.com/album/1ffpH63vJM6iPzjFh4zZvy"
-      },
-      "artists": [
-        {
-          "name": "Kresten Osgood",
-          "url": "https://open.spotify.com/artist/41MI7s5qtXYNCp7Ev8T5LN"
-        },
-        {
-          "name": "Fridolin Nords\u00f8",
-          "url": "https://open.spotify.com/artist/2qLjyNymCY5pZCIqLAr8m8"
-        },
-        {
-          "name": "Ludomir Dietl",
-          "url": "https://open.spotify.com/artist/1w4oaKISx1TcNXycUS00sC"
-        },
-        {
-          "name": "Arto Eriksen",
-          "url": "https://open.spotify.com/artist/4AxRonSdmKJKu8ADVhRHKo"
-        }
-      ],
-      "duration_ms": 215754,
-      "name": "Play it Back",
-      "url": "https://open.spotify.com/track/56080Y6qVNpxpUAU5ho4Y7"
     }
   ],
   "unique_name": "Jazz-Funk",

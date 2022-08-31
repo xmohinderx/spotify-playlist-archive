@@ -1,13 +1,29 @@
 {
   "description": "Tracks popping off in the global Afro scene. Cover: Nnelg",
-  "num_followers": 28231,
+  "num_followers": 28305,
   "original_name": "Peppeh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTc3NDMyOSwwMDAwMDAwMDllZWIwNTFmMDM3ZDdmMTZiNTg1ODRkODI5NTk0MmMx",
+  "snapshot_id": "MTY2MTg1ODY5MCwwMDAwMDAwMDY5MTQ3MzI0ZTc2MTAzYmU2ZTJjNzgxY2U5NTQyNmQ0",
   "tracks": [
+    {
+      "added_at": "2022-08-30 11:24:50",
+      "album": {
+        "name": "KU LO SA - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 147580,
+      "name": "KU LO SA - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
+    },
     {
       "added_at": "2022-08-25 11:52:45",
       "album": {

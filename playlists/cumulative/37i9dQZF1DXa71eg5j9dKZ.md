@@ -2,7 +2,7 @@
 
 ### [Altar](https://open.spotify.com/playlist/37i9dQZF1DXa71eg5j9dKZ)
 
-> Alternative electronic gems\. Cover: George Fitzgerald
+> Alternative electronic gems\. Cover: George FitzGerald
 
 407 songs - 1 day 6 hr 36 min - [published](https://open.spotify.com/playlist/421FObHiJ0lygWLx69aaX2)
 

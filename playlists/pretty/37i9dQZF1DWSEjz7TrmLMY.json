@@ -1,12 +1,12 @@
 {
   "description": "canto de tristeza porque lo nuestro termin\u00f3 ",
-  "num_followers": 39090,
+  "num_followers": 39194,
   "original_name": "perd\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ4NDI1MywwMDAwMDAwMDU1YjUxMWFlZTQ5Yzg2MmRlMzViYWJmODAyZmI2ZGRk",
+  "snapshot_id": "MTY1OTQ4NDI1MywwMDAwMDAwMDJhNzgxMDEwMzVjYWJjZmQ2ZDgyN2IxMjhjZmY1Zjk5",
   "tracks": [
     {
       "added_at": "2022-08-02 23:50:53",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-08-02 23:50:53",
       "album": {
-        "name": "Me Dej\u00e9 Llevar",
-        "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 231173,
-      "name": "Te Fall\u00e9",
-      "url": "https://open.spotify.com/track/2UDoZZSrs3NxlmvFZbffr4"
-    },
-    {
-      "added_at": "2022-08-02 23:50:53",
-      "album": {
         "name": "Chayanne",
         "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 281026,
       "name": "Un Siglo Sin Ti",
       "url": "https://open.spotify.com/track/5NSJ0qoxwbO26tVvqpL4N2"
+    },
+    {
+      "added_at": "2022-08-02 23:50:53",
+      "album": {
+        "name": "Me Dej\u00e9 Llevar",
+        "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 231173,
+      "name": "Te Fall\u00e9",
+      "url": "https://open.spotify.com/track/2UDoZZSrs3NxlmvFZbffr4"
     },
     {
       "added_at": "2022-08-02 23:50:53",

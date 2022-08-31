@@ -1,12 +1,12 @@
 {
   "description": "Indie takes on songs others make. Cover: Remi Wolf",
-  "num_followers": 271360,
+  "num_followers": 271132,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc3MjU3OCwwMDAwMDAwMDQyYTUxYjExZDJmMjhjMGZjYmM2NmI3NGRkMGE1YjNh",
+  "snapshot_id": "MTY2MDc3MjU3OCwwMDAwMDAwMGJhMzU2ZmQ0NTA1OGNlNmY2MzdhMjhlN2U4NTRkMzQw",
   "tracks": [
     {
       "added_at": "2022-08-17 21:42:58",
@@ -127,8 +127,8 @@
     {
       "added_at": "2022-08-09 20:20:41",
       "album": {
-        "name": "That Funny Feeling",
-        "url": "https://open.spotify.com/album/5XRNskxrXy1Q12hV59zkDr"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm"
       },
       "artists": [
         {
@@ -136,9 +136,9 @@
           "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 400565,
-      "name": "That Funny Feeling",
-      "url": "https://open.spotify.com/track/30y5OpD8TPAru2wsyZDD4S"
+      "duration_ms": 220812,
+      "name": "Friday I\u2019m In Love - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU"
     },
     {
       "added_at": "2022-08-09 20:20:41",
@@ -159,8 +159,8 @@
     {
       "added_at": "2022-08-09 20:20:41",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm"
+        "name": "That Funny Feeling",
+        "url": "https://open.spotify.com/album/5XRNskxrXy1Q12hV59zkDr"
       },
       "artists": [
         {
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 220812,
-      "name": "Friday I\u2019m In Love - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU"
+      "duration_ms": 400565,
+      "name": "That Funny Feeling",
+      "url": "https://open.spotify.com/track/30y5OpD8TPAru2wsyZDD4S"
     },
     {
       "added_at": "2022-08-09 20:20:41",
@@ -483,22 +483,6 @@
     {
       "added_at": "2022-08-09 20:20:41",
       "album": {
-        "name": "Thank You For Being Here",
-        "url": "https://open.spotify.com/album/2eRWUCcignvwnWOMQTtarq"
-      },
-      "artists": [
-        {
-          "name": "Paravi",
-          "url": "https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH"
-        }
-      ],
-      "duration_ms": 125739,
-      "name": "Love Grows (Where My Rosemary Goes)",
-      "url": "https://open.spotify.com/track/1UgYbaqmqRbnJ395pHLwMO"
-    },
-    {
-      "added_at": "2022-08-09 20:20:41",
-      "album": {
         "name": "Someone You Loved",
         "url": "https://open.spotify.com/album/2e5jps2AoZA1q89RCCocHR"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 179176,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/0voD3AU9IVGAyCXeV8GeSz"
+    },
+    {
+      "added_at": "2022-08-09 20:20:41",
+      "album": {
+        "name": "Thank You For Being Here",
+        "url": "https://open.spotify.com/album/2eRWUCcignvwnWOMQTtarq"
+      },
+      "artists": [
+        {
+          "name": "Paravi",
+          "url": "https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH"
+        }
+      ],
+      "duration_ms": 125739,
+      "name": "Love Grows (Where My Rosemary Goes)",
+      "url": "https://open.spotify.com/track/1UgYbaqmqRbnJ395pHLwMO"
     },
     {
       "added_at": "2022-08-09 20:20:41",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-08-09 20:20:41",
       "album": {
-        "name": "Where Is My Mind?",
-        "url": "https://open.spotify.com/album/76lO0JlnpdF3QBMpUK0KrE"
-      },
-      "artists": [
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        }
-      ],
-      "duration_ms": 177260,
-      "name": "Where Is My Mind?",
-      "url": "https://open.spotify.com/track/0UsNgv6unHisK9NslsZxwz"
-    },
-    {
-      "added_at": "2022-08-09 20:20:41",
-      "album": {
         "name": "Paul",
         "url": "https://open.spotify.com/album/1OlusNXiorsSM7tYlIG9Cy"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 187121,
       "name": "Paul",
       "url": "https://open.spotify.com/track/2MjzsLWwEBqnJAdXtDlaz1"
+    },
+    {
+      "added_at": "2022-08-09 20:20:41",
+      "album": {
+        "name": "Where Is My Mind?",
+        "url": "https://open.spotify.com/album/76lO0JlnpdF3QBMpUK0KrE"
+      },
+      "artists": [
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "duration_ms": 177260,
+      "name": "Where Is My Mind?",
+      "url": "https://open.spotify.com/track/0UsNgv6unHisK9NslsZxwz"
     },
     {
       "added_at": "2022-08-09 20:20:41",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-08-09 20:20:41",
       "album": {
-        "name": "Alaska",
-        "url": "https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq"
-      },
-      "artists": [
-        {
-          "name": "Julia Cooper",
-          "url": "https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576"
-        }
-      ],
-      "duration_ms": 191875,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y"
-    },
-    {
-      "added_at": "2022-08-09 20:20:41",
-      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 237876,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT"
+    },
+    {
+      "added_at": "2022-08-09 20:20:41",
+      "album": {
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq"
+      },
+      "artists": [
+        {
+          "name": "Julia Cooper",
+          "url": "https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576"
+        }
+      ],
+      "duration_ms": 191875,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y"
     },
     {
       "added_at": "2022-08-09 20:20:41",
@@ -899,6 +899,22 @@
     {
       "added_at": "2022-08-09 20:20:41",
       "album": {
+        "name": "Singing Other People's Love Songs",
+        "url": "https://open.spotify.com/album/3608IcniealifcqI8WbKte"
+      },
+      "artists": [
+        {
+          "name": "Lowland Hum",
+          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
+        }
+      ],
+      "duration_ms": 136891,
+      "name": "This Will Be Our Year",
+      "url": "https://open.spotify.com/track/3LPvSvPOv2z6FK4xyobePc"
+    },
+    {
+      "added_at": "2022-08-09 20:20:41",
+      "album": {
         "name": "Industry Baby",
         "url": "https://open.spotify.com/album/5T8h52l8nVMqPSGq52Q8kq"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 267946,
       "name": "Go Easy, Kid (with James Blake)",
       "url": "https://open.spotify.com/track/0y8MdWQBAXTTm8BFdqjfrD"
-    },
-    {
-      "added_at": "2022-08-09 20:20:41",
-      "album": {
-        "name": "Singing Other People's Love Songs",
-        "url": "https://open.spotify.com/album/3608IcniealifcqI8WbKte"
-      },
-      "artists": [
-        {
-          "name": "Lowland Hum",
-          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
-        }
-      ],
-      "duration_ms": 136891,
-      "name": "This Will Be Our Year",
-      "url": "https://open.spotify.com/track/3LPvSvPOv2z6FK4xyobePc"
     },
     {
       "added_at": "2022-08-09 20:20:41",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-08-09 20:20:41",
       "album": {
-        "name": "Our House",
-        "url": "https://open.spotify.com/album/7yuswreCCTccvqWFuP974U"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 182080,
-      "name": "Our House",
-      "url": "https://open.spotify.com/track/08sn2aLyHIGwUalxqkPmaO"
-    },
-    {
-      "added_at": "2022-08-09 20:20:41",
-      "album": {
         "name": "Can't Take My Eyes Off You / 3BadSoSad - Edit",
         "url": "https://open.spotify.com/album/44PmpxWzjR4OvRa2Ok1RZP"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 209000,
       "name": "Can't Take My Eyes Off You",
       "url": "https://open.spotify.com/track/0akpudMz8aq9UgPTMUK0qq"
+    },
+    {
+      "added_at": "2022-08-09 20:20:41",
+      "album": {
+        "name": "Our House",
+        "url": "https://open.spotify.com/album/7yuswreCCTccvqWFuP974U"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 182080,
+      "name": "Our House",
+      "url": "https://open.spotify.com/track/08sn2aLyHIGwUalxqkPmaO"
     },
     {
       "added_at": "2022-08-09 20:20:41",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2022-08-09 20:20:41",
       "album": {
-        "name": "Everytime - Spotify Singles",
-        "url": "https://open.spotify.com/album/1Gohh6kwFpUJiwr5cqG9y8"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 234753,
-      "name": "Everytime - Spotify Singles",
-      "url": "https://open.spotify.com/track/3zMii5HJl31nRBgcuvwHcf"
-    },
-    {
-      "added_at": "2022-08-09 20:20:41",
-      "album": {
         "name": "i wanna be your girlfriend",
         "url": "https://open.spotify.com/album/5pIuwcGXWj9Vl2Ohz37XlH"
       },
@@ -1147,6 +1131,22 @@
     {
       "added_at": "2022-08-09 20:20:41",
       "album": {
+        "name": "Everytime - Spotify Singles",
+        "url": "https://open.spotify.com/album/1Gohh6kwFpUJiwr5cqG9y8"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 234753,
+      "name": "Everytime - Spotify Singles",
+      "url": "https://open.spotify.com/track/3zMii5HJl31nRBgcuvwHcf"
+    },
+    {
+      "added_at": "2022-08-09 20:20:41",
+      "album": {
         "name": "Back To Black",
         "url": "https://open.spotify.com/album/594QOTgYUnFesTBYXPHWB7"
       },
@@ -1159,6 +1159,22 @@
       "duration_ms": 242181,
       "name": "Back To Black",
       "url": "https://open.spotify.com/track/44Z41mjp6AgW2NaXD0OIaP"
+    },
+    {
+      "added_at": "2022-08-09 20:20:41",
+      "album": {
+        "name": "Nothing Breaks Like A Heart",
+        "url": "https://open.spotify.com/album/0zBZokjXEln00OETFLesm2"
+      },
+      "artists": [
+        {
+          "name": "Ten F\u00e9",
+          "url": "https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT"
+        }
+      ],
+      "duration_ms": 196311,
+      "name": "Nothing Breaks Like A Heart",
+      "url": "https://open.spotify.com/track/6n7cRyHASeWTLJv5LLQ1qi"
     },
     {
       "added_at": "2022-08-09 20:20:41",
@@ -1183,22 +1199,6 @@
     {
       "added_at": "2022-08-09 20:20:41",
       "album": {
-        "name": "Nothing Breaks Like A Heart",
-        "url": "https://open.spotify.com/album/0zBZokjXEln00OETFLesm2"
-      },
-      "artists": [
-        {
-          "name": "Ten F\u00e9",
-          "url": "https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT"
-        }
-      ],
-      "duration_ms": 196311,
-      "name": "Nothing Breaks Like A Heart",
-      "url": "https://open.spotify.com/track/6n7cRyHASeWTLJv5LLQ1qi"
-    },
-    {
-      "added_at": "2022-08-09 20:20:41",
-      "album": {
         "name": "Dweeb Tapes",
         "url": "https://open.spotify.com/album/5YIN6swBDIybgewMSEpX54"
       },
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2022-08-09 20:20:41",
       "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/7I4aB73LOtDFQhJQE6HmQc"
-      },
-      "artists": [
-        {
-          "name": "The Naked And Famous",
-          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
-        }
-      ],
-      "duration_ms": 187333,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/5sKN6nGLcbfveIVEoejeoC"
-    },
-    {
-      "added_at": "2022-08-09 20:20:41",
-      "album": {
         "name": "Like a Rolling Stone",
         "url": "https://open.spotify.com/album/5UJhgkj2fP5ycNLbVdzQ3H"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 409860,
       "name": "Like a Rolling Stone",
       "url": "https://open.spotify.com/track/49Q2VVHzabFRwAUQ1ByLNa"
+    },
+    {
+      "added_at": "2022-08-09 20:20:41",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/58z5GjZRjt6XIz5GOS0PJh"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 224706,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/3LWZZ5vzhOSMN6u9pgO6Eu"
     }
   ],
   "unique_name": "Indie Covers",

@@ -1,12 +1,12 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 393605,
+  "num_followers": 392632,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMwNzQwMCwwMDAwMDAwMDcwNzBmMDkzZjBkMGVlMDA1NzYxMzM3Yzg0ODRkMjhi",
+  "snapshot_id": "MTY2MDMwNzQwMCwwMDAwMDAwMDc3MDUzY2ZiZTQ2NmVlNTc2ZTQzMzU3MDFlNDQzNDhk",
   "tracks": [
     {
       "added_at": "2022-08-12 12:30:00",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-08-12 12:30:00",
       "album": {
-        "name": "King Size",
-        "url": "https://open.spotify.com/album/7poItoG0PxLsKHGfmHarWW"
-      },
-      "artists": [
-        {
-          "name": "Kruder & Dorfmeister",
-          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
-        }
-      ],
-      "duration_ms": 297426,
-      "name": "King Size",
-      "url": "https://open.spotify.com/track/4Xr9UKLq3YGnExa50oLfAw"
-    },
-    {
-      "added_at": "2022-08-12 12:30:00",
-      "album": {
         "name": "Movement",
         "url": "https://open.spotify.com/album/76UMqatl6klSIhmOmd7UNx"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 146949,
       "name": "SEX IS GOOD BUT HAVE U EVER",
       "url": "https://open.spotify.com/track/5Zoo5FV2AteC6zrFwGoukH"
+    },
+    {
+      "added_at": "2022-08-12 12:30:00",
+      "album": {
+        "name": "King Size",
+        "url": "https://open.spotify.com/album/7poItoG0PxLsKHGfmHarWW"
+      },
+      "artists": [
+        {
+          "name": "Kruder & Dorfmeister",
+          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
+        }
+      ],
+      "duration_ms": 297426,
+      "name": "King Size",
+      "url": "https://open.spotify.com/track/4Xr9UKLq3YGnExa50oLfAw"
     },
     {
       "added_at": "2022-08-12 12:30:00",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-08-12 12:30:00",
       "album": {
-        "name": "We Should Chill On The Windowsill More",
-        "url": "https://open.spotify.com/album/0j49Rsgfpn2Q7RBQpZDssK"
-      },
-      "artists": [
-        {
-          "name": "Loz Goddard",
-          "url": "https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j"
-        }
-      ],
-      "duration_ms": 326129,
-      "name": "Far From Home",
-      "url": "https://open.spotify.com/track/4i3Y42G0Um2iDVKb7XBRT9"
-    },
-    {
-      "added_at": "2022-08-12 12:30:00",
-      "album": {
         "name": "Dun\u00e9",
         "url": "https://open.spotify.com/album/2nFDnv4eUojR5Zu6qw82aX"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 158610,
       "name": "Dun\u00e9",
       "url": "https://open.spotify.com/track/0vzc3WshU7OjeAazBIJwoO"
+    },
+    {
+      "added_at": "2022-08-12 12:30:00",
+      "album": {
+        "name": "We Should Chill On The Windowsill More",
+        "url": "https://open.spotify.com/album/0j49Rsgfpn2Q7RBQpZDssK"
+      },
+      "artists": [
+        {
+          "name": "Loz Goddard",
+          "url": "https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j"
+        }
+      ],
+      "duration_ms": 326129,
+      "name": "Far From Home",
+      "url": "https://open.spotify.com/track/4i3Y42G0Um2iDVKb7XBRT9"
     },
     {
       "added_at": "2022-08-12 12:30:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2022-08-12 12:30:00",
       "album": {
-        "name": "8",
-        "url": "https://open.spotify.com/album/0VjEHFit3Jh83caJw3gvw0"
-      },
-      "artists": [
-        {
-          "name": "Apparel Wax",
-          "url": "https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io"
-        }
-      ],
-      "duration_ms": 373974,
-      "name": "008A1",
-      "url": "https://open.spotify.com/track/4MCM6iff0STPETNF1K8as0"
-    },
-    {
-      "added_at": "2022-08-12 12:30:00",
-      "album": {
         "name": "Brasil",
         "url": "https://open.spotify.com/album/6ZMy4Xs6u1k9x5Fm7oRcrI"
       },
@@ -495,6 +479,22 @@
     {
       "added_at": "2022-08-12 12:30:00",
       "album": {
+        "name": "8",
+        "url": "https://open.spotify.com/album/0VjEHFit3Jh83caJw3gvw0"
+      },
+      "artists": [
+        {
+          "name": "Apparel Wax",
+          "url": "https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io"
+        }
+      ],
+      "duration_ms": 373974,
+      "name": "008A1",
+      "url": "https://open.spotify.com/track/4MCM6iff0STPETNF1K8as0"
+    },
+    {
+      "added_at": "2022-08-12 12:30:00",
+      "album": {
         "name": "Pastis",
         "url": "https://open.spotify.com/album/62AyMPxUSqDlAYCdrZ46CV"
       },
@@ -507,6 +507,22 @@
       "duration_ms": 244363,
       "name": "Pastis",
       "url": "https://open.spotify.com/track/1UuLgIZIUIfgRVXhKmUAqD"
+    },
+    {
+      "added_at": "2022-08-12 12:30:00",
+      "album": {
+        "name": "Invisible Man",
+        "url": "https://open.spotify.com/album/5WlAN6SEos2wWvIDcccanh"
+      },
+      "artists": [
+        {
+          "name": "Ayzon",
+          "url": "https://open.spotify.com/artist/6ttw8B6m9uBsCjZtIm4NAN"
+        }
+      ],
+      "duration_ms": 176482,
+      "name": "YOU CAN DO IT",
+      "url": "https://open.spotify.com/track/4hQjxwio9Crkg5uN10fxuv"
     },
     {
       "added_at": "2022-08-12 12:30:00",
@@ -531,22 +547,6 @@
     {
       "added_at": "2022-08-12 12:30:00",
       "album": {
-        "name": "Invisible Man",
-        "url": "https://open.spotify.com/album/5WlAN6SEos2wWvIDcccanh"
-      },
-      "artists": [
-        {
-          "name": "Ayzon",
-          "url": "https://open.spotify.com/artist/6ttw8B6m9uBsCjZtIm4NAN"
-        }
-      ],
-      "duration_ms": 176482,
-      "name": "YOU CAN DO IT",
-      "url": "https://open.spotify.com/track/4hQjxwio9Crkg5uN10fxuv"
-    },
-    {
-      "added_at": "2022-08-12 12:30:00",
-      "album": {
         "name": "Can't see me",
         "url": "https://open.spotify.com/album/3vXWZAh5IffbOBS0AZSLP6"
       },
@@ -559,26 +559,6 @@
       "duration_ms": 235125,
       "name": "Can't see me",
       "url": "https://open.spotify.com/track/7nyJgpYTg2DUeP0LxJ3DMC"
-    },
-    {
-      "added_at": "2022-08-12 12:30:00",
-      "album": {
-        "name": "Love Is",
-        "url": "https://open.spotify.com/album/185zOXq1VeL2P4u7CX5CUX"
-      },
-      "artists": [
-        {
-          "name": "Prequel",
-          "url": "https://open.spotify.com/artist/3Cp1T1wJT1RFoxJv1jSWys"
-        },
-        {
-          "name": "Cazeaux O.S.L.O",
-          "url": "https://open.spotify.com/artist/4P7emFwFBJu0G4AMJsn93f"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Love Is",
-      "url": "https://open.spotify.com/track/5exxrzkNEBP3cxOhtvn4ii"
     },
     {
       "added_at": "2022-08-12 12:30:00",
@@ -603,6 +583,26 @@
       "duration_ms": 257321,
       "name": "Me at the Zoo - Cody Currie Remix",
       "url": "https://open.spotify.com/track/1fHuXpoTKwt52hIZWuEhr7"
+    },
+    {
+      "added_at": "2022-08-12 12:30:00",
+      "album": {
+        "name": "Love Is",
+        "url": "https://open.spotify.com/album/185zOXq1VeL2P4u7CX5CUX"
+      },
+      "artists": [
+        {
+          "name": "Prequel",
+          "url": "https://open.spotify.com/artist/3Cp1T1wJT1RFoxJv1jSWys"
+        },
+        {
+          "name": "Cazeaux O.S.L.O",
+          "url": "https://open.spotify.com/artist/4P7emFwFBJu0G4AMJsn93f"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Love Is",
+      "url": "https://open.spotify.com/track/5exxrzkNEBP3cxOhtvn4ii"
     },
     {
       "added_at": "2022-08-12 12:30:00",
@@ -843,18 +843,18 @@
     {
       "added_at": "2022-08-12 12:30:00",
       "album": {
-        "name": "Ode to Ipse",
-        "url": "https://open.spotify.com/album/5Ki88XhcuWUk8WlXmaKrwS"
+        "name": "Carlito Archives",
+        "url": "https://open.spotify.com/album/27Jl3uPG5MgOGp7enJJvTg"
       },
       "artists": [
         {
-          "name": "Black Loops",
-          "url": "https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB"
+          "name": "Carlo",
+          "url": "https://open.spotify.com/artist/4Ip5zlFraFIrxciG5Luxlo"
         }
       ],
-      "duration_ms": 338997,
-      "name": "Ode to Ipse",
-      "url": "https://open.spotify.com/track/5gcjlg6RtrnSz5mtk3kvi0"
+      "duration_ms": 363960,
+      "name": "Anything Else Feat. Alix Edwards",
+      "url": "https://open.spotify.com/track/5MaRkBsOJyrBuDMzBny61r"
     },
     {
       "added_at": "2022-08-12 12:30:00",
@@ -875,18 +875,18 @@
     {
       "added_at": "2022-08-12 12:30:00",
       "album": {
-        "name": "Carlito Archives",
-        "url": "https://open.spotify.com/album/27Jl3uPG5MgOGp7enJJvTg"
+        "name": "Ode to Ipse",
+        "url": "https://open.spotify.com/album/5Ki88XhcuWUk8WlXmaKrwS"
       },
       "artists": [
         {
-          "name": "Carlo",
-          "url": "https://open.spotify.com/artist/4Ip5zlFraFIrxciG5Luxlo"
+          "name": "Black Loops",
+          "url": "https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB"
         }
       ],
-      "duration_ms": 363960,
-      "name": "Anything Else Feat. Alix Edwards",
-      "url": "https://open.spotify.com/track/5MaRkBsOJyrBuDMzBny61r"
+      "duration_ms": 338997,
+      "name": "Ode to Ipse",
+      "url": "https://open.spotify.com/track/5gcjlg6RtrnSz5mtk3kvi0"
     },
     {
       "added_at": "2022-08-12 12:30:00",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2022-08-12 12:30:00",
       "album": {
-        "name": "Mind's Eye",
-        "url": "https://open.spotify.com/album/0V7YCgKiVWctiHpxc4Hmv1"
+        "name": "31 Minutes of Relaxing ASMR",
+        "url": "https://open.spotify.com/album/2VvFwQE6pBR9KnRgS80TZk"
       },
       "artists": [
         {
-          "name": "Hugo Mari",
-          "url": "https://open.spotify.com/artist/6BmSO09b1cngqE8X2SEygU"
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
         }
       ],
-      "duration_ms": 381662,
-      "name": "Kokiri Forest",
-      "url": "https://open.spotify.com/track/6vhVeoN1qJNJfdiIJAK4A9"
+      "duration_ms": 275131,
+      "name": "Chilli Heatwave",
+      "url": "https://open.spotify.com/track/5je0T2mebgdBzniXtS4A9Y"
     }
   ],
   "unique_name": "Lo-Fi House",

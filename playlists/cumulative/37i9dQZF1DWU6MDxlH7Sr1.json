@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/3itxUrPWLTA7nUFpL3LiTS"
+      },
+      "artists": [
+        {
+          "name": "Eduard Landings",
+          "url": "https://open.spotify.com/artist/6SF8oe9fw9X65MbLwQfkau"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212794,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/3RoPN08vWMKxViEhdoqeuW"
+    },
+    {
+      "album": {
         "name": "Akaishi",
         "url": "https://open.spotify.com/album/4wTd18kaoayJm6JDQmiS1e"
       },
@@ -1052,6 +1070,24 @@
     },
     {
       "album": {
+        "name": "It's You Or No One",
+        "url": "https://open.spotify.com/album/21kjz5LLIGohYrVYgkEI0r"
+      },
+      "artists": [
+        {
+          "name": "The Blue Green",
+          "url": "https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214798,
+      "name": "It's You Or No One",
+      "url": "https://open.spotify.com/track/3CewMyxVNsiu94v6Vm0SS2"
+    },
+    {
+      "album": {
         "name": "It\u00b4s Easy To Remember",
         "url": "https://open.spotify.com/album/2mQbfegP0VRuYuBP5sKihX"
       },
@@ -1337,7 +1373,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 270200,
       "name": "Manhattan",
       "url": "https://open.spotify.com/track/6BmigYi3LRJ77xibqSX6OV"
@@ -2095,6 +2131,24 @@
       "duration_ms": 346506,
       "name": "That Old Feeling",
       "url": "https://open.spotify.com/track/42Tiidz9wZVBQSm9HZlcQv"
+    },
+    {
+      "album": {
+        "name": "That\u00b4s All",
+        "url": "https://open.spotify.com/album/07jtuEoMDVUHQLvXs3IoFN"
+      },
+      "artists": [
+        {
+          "name": "Odo Lefebvre",
+          "url": "https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196974,
+      "name": "That\u00b4s All",
+      "url": "https://open.spotify.com/track/3rQfFOipumOd794SsD9xAn"
     },
     {
       "album": {

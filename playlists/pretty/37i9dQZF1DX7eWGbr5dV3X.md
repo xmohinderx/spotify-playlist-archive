@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eWGbr5dV3X.md) - [plain]
 
 > Celebrate, amplify, and support LGBTQ+ API musicians\. Cover: Deb Never.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,164 likes - 43 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,172 likes - 43 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,16 +21,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eWGbr5dV3X.md) - [plain]
 | 11 | [Good Advice](https://open.spotify.com/track/4JVPw2DvZp4faUTHjfa4PM) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Good Advice](https://open.spotify.com/album/4azZB6gjS66sHkFaGx7RAy) | 2:44 |
 | 12 | [Rare](https://open.spotify.com/track/0zmEFpSH6KwZnBHr0cGe9a) | [Vardaan Arora](https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2) | [Rare](https://open.spotify.com/album/6r8yNzbwBpa3Ftm1BxpV11) | 3:20 |
 | 13 | [chance](https://open.spotify.com/track/6I1Q5mSAvXveekghOaTUoR) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Chance](https://open.spotify.com/album/5asOQyea3S0k6bgt2nTK9Y) | 3:19 |
-| 14 | [Crutches](https://open.spotify.com/track/4MdxHfa5fmIdvPwYXM56gS) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Crutches](https://open.spotify.com/album/4U59RIA6eisih8TNjz7CzP) | 2:50 |
+| 14 | [Honey Understand](https://open.spotify.com/track/0QUAfk0TLwlhAdqhQgtaV3) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Stay Proud of Me](https://open.spotify.com/album/5YSwTbPxb10MLaSU71w2y2) | 4:01 |
 | 15 | [whatever u like](https://open.spotify.com/track/4tv72g5KnIy4XbyDBhEFgA) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [whatever u like](https://open.spotify.com/album/721LnudJW05TovLVLcSoMa) | 3:20 |
-| 16 | [Honey Understand](https://open.spotify.com/track/0QUAfk0TLwlhAdqhQgtaV3) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Stay Proud of Me](https://open.spotify.com/album/5YSwTbPxb10MLaSU71w2y2) | 4:01 |
+| 16 | [Crutches](https://open.spotify.com/track/4MdxHfa5fmIdvPwYXM56gS) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Crutches](https://open.spotify.com/album/4U59RIA6eisih8TNjz7CzP) | 2:50 |
 | 17 | [Weekend](https://open.spotify.com/track/0XoRbQwHULyjf0tO1S9abf) | [Emily Vu](https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS) | [Weekend](https://open.spotify.com/album/3EcOE2h7DHr5m6IaALejAs) | 2:46 |
 | 18 | [I'm Not Afraid](https://open.spotify.com/track/3mPH0blHMOPAjSkEKOUQd2) | [Holland](https://open.spotify.com/artist/3PA9tXcZqiaBXwopM9GPZP) | [I'm Not Afraid](https://open.spotify.com/album/54I8DXkxj9xdLqIf4Uabhd) | 3:41 |
 | 19 | [Tweety](https://open.spotify.com/track/2NDMLu8ZNrAsAsPAoW5VOx) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Tweety](https://open.spotify.com/album/275j6uhDFzJkQZEaRcZZ0T) | 3:52 |
 | 20 | [Masterpiece \(80s Remix\)](https://open.spotify.com/track/3LspHgoGctRuW3lccLI5gx) | [Summer Luk](https://open.spotify.com/artist/7jlNTGVXBk8VsSICN3Qswd) | [Masterpiece \(80s Remix\)](https://open.spotify.com/album/2tJRA9WA7MHc8WbmHHAE9z) | 3:58 |
-| 21 | [Man Who Loves You](https://open.spotify.com/track/68dUmGSHlVI88mej6pb418) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Stay Proud of Me](https://open.spotify.com/album/5YSwTbPxb10MLaSU71w2y2) | 3:29 |
-| 22 | [Fix Me](https://open.spotify.com/track/4UJCTSc1E7fMmNJiHvowHF) | [Jake Zyrus](https://open.spotify.com/artist/6hIZBf6t4Yy8Lrqj7vPYTr) | [Fix Me](https://open.spotify.com/album/2coYzAJGlm6XhGdgaLgsFt) | 3:25 |
-| 23 | [Need Ya](https://open.spotify.com/track/7DdiwiiHRuqRZizeq6s1NM) | [Jujubee](https://open.spotify.com/artist/4YJKhu78Ddth48vou16B7U) | [good juju : vol\. 1](https://open.spotify.com/album/2JBGnfjeAuIK26Ysk3XlIS) | 3:01 |
+| 21 | [Fix Me](https://open.spotify.com/track/4UJCTSc1E7fMmNJiHvowHF) | [Jake Zyrus](https://open.spotify.com/artist/6hIZBf6t4Yy8Lrqj7vPYTr) | [Fix Me](https://open.spotify.com/album/2coYzAJGlm6XhGdgaLgsFt) | 3:25 |
+| 22 | [Need Ya](https://open.spotify.com/track/7DdiwiiHRuqRZizeq6s1NM) | [Jujubee](https://open.spotify.com/artist/4YJKhu78Ddth48vou16B7U) | [good juju : vol\. 1](https://open.spotify.com/album/2JBGnfjeAuIK26Ysk3XlIS) | 3:01 |
+| 23 | [Man Who Loves You](https://open.spotify.com/track/68dUmGSHlVI88mej6pb418) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Stay Proud of Me](https://open.spotify.com/album/5YSwTbPxb10MLaSU71w2y2) | 3:29 |
 | 24 | [What Happened, Happened](https://open.spotify.com/track/2Ck8r31kURBqC7K2G9lLBo) | [Emily Vu](https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS) | [What Happened, Happened](https://open.spotify.com/album/38Vulf6o5aVnrQae85FmOZ) | 3:04 |
 | 25 | [NEVERLAND](https://open.spotify.com/track/5e9gNMrGlVblMER6iN2tnJ) | [Holland](https://open.spotify.com/artist/3PA9tXcZqiaBXwopM9GPZP) | [NEVERLAND](https://open.spotify.com/album/2y8I9aWRSnBXSUtVWVwBes) | 3:42 |
 | 26 | [Robbed](https://open.spotify.com/track/29IHIrE9eWpH8j6c3P10nq) | [Manila Luzon](https://open.spotify.com/artist/1cJCVvFLO8SLM8W9EITe1g) | [Rules!](https://open.spotify.com/album/0kk6iwrHZ2eoRyHXMFhwga) | 3:22 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eWGbr5dV3X.md) - [plain]
 | 42 | [I'm Alright](https://open.spotify.com/track/3a4RFjxPCttnbX5jgKxUuR) | [LEADR](https://open.spotify.com/artist/5MBtoGEv50nmq08tb3y38v) | [I'm Alright](https://open.spotify.com/album/0021hkIWKyizFTcZepAUfe) | 3:14 |
 | 43 | [You Matter](https://open.spotify.com/track/1arOj3xVlQB9veK0piJnC4) | [Telly Leung](https://open.spotify.com/artist/7jY4WHm9t4mWwBjg0bTB4N) | [You Matter](https://open.spotify.com/album/731OCmxzYhwwkRpxbt1Onq) | 4:07 |
 
-Snapshot ID: `MTY2MTQ0MjM0NCwwMDAwMDAwMDI5ZDczZDhhMDA4N2M0ZGRjZDU2OWZiZTdkNzg5ZjQ1`
+Snapshot ID: `MTY2MTQ0MjM0NCwwMDAwMDAwMGNkNmRjOWRjNGFjMDU4MjM0MzUwOGU0NGViMjA0OWY0`

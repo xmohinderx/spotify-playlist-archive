@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Ingrid Andress, Kameron Marlowe, Kenny Chesney and more\. Cover: Kameron Marlowe
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,464 likes - 55 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,716 likes - 56 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 49 | [In the Center](https://open.spotify.com/track/6AZ6F1tPllGOeRuC2PMfhh) | [Brooke Butler](https://open.spotify.com/artist/7tamx6m94YSh41p6IX25Th) | [In the Center](https://open.spotify.com/album/2CNf8FACrZCWzYdy0s8Tsx) | 2:48 |
 | 50 | [Derby Glen Ln](https://open.spotify.com/track/7vhl9CRTdLW07K3JHNOmF0) | [Trevor Martin](https://open.spotify.com/artist/1FeE27dT4UOntdjYV9uUgt) | [Derby Glen Ln](https://open.spotify.com/album/0FYDkptb9kGsFITN2AMOlW) | 3:26 |
 | 51 | [Johnnie](https://open.spotify.com/track/6WtVOf8N20z5aitYTApsSz) | [Sarah Lake](https://open.spotify.com/artist/5CFrJThh3hNdK5iDk7iLZq) | [Johnnie](https://open.spotify.com/album/1DwcRkkB8o5le2XWa60c0z) | 3:01 |
-| 52 | [Homegrown Love](https://open.spotify.com/track/5f5YJPmTv7PiYgwN52btb5) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [All Or Nothing](https://open.spotify.com/album/4Ficof37YsNcrLKaWSIbdp) | 3:10 |
-| 53 | [Red Wine & Roses](https://open.spotify.com/track/0FUoUaj9LmQQ1uMWpYlEIM) | [Zac & George](https://open.spotify.com/artist/7iRcNlPUgLcb7ypcVzSOCh) | [Red Wine & Roses](https://open.spotify.com/album/3yqvPiEiFWBeB1YqUISBOt) | 3:12 |
-| 54 | [Take It Like a Man](https://open.spotify.com/track/4tUzsCOYbYhyj0x064W37G) | [Michelle Wright](https://open.spotify.com/artist/1Kp8PxFfeU5CFHkITQF9sY) | [Milestone](https://open.spotify.com/album/1WZzoVlzSUTxrfa5ApTHw9) | 4:02 |
-| 55 | [To the Moon and Back](https://open.spotify.com/track/1lDbhGvbnDtKtcP6mg0o8o) | [Five Roses](https://open.spotify.com/artist/6MN4Gf274aRJNoPjj0GTok) | [Jukebox Vibrations](https://open.spotify.com/album/2ZNOL1KznYYIwPEq4DIykD) | 3:22 |
+| 52 | [I Ain't Like That](https://open.spotify.com/track/2bR7qp6lOMzzFYgKiz2TEL) | [Holiday State](https://open.spotify.com/artist/51yDa6ThQLeL4BOyQXFPOJ) | [I Ain't Like That](https://open.spotify.com/album/6i7xWmlzA2DQqprgjGL82z) | 3:04 |
+| 53 | [Homegrown Love](https://open.spotify.com/track/5f5YJPmTv7PiYgwN52btb5) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [All Or Nothing](https://open.spotify.com/album/4Ficof37YsNcrLKaWSIbdp) | 3:10 |
+| 54 | [Red Wine & Roses](https://open.spotify.com/track/0FUoUaj9LmQQ1uMWpYlEIM) | [Zac & George](https://open.spotify.com/artist/7iRcNlPUgLcb7ypcVzSOCh) | [Red Wine & Roses](https://open.spotify.com/album/3yqvPiEiFWBeB1YqUISBOt) | 3:12 |
+| 55 | [Take It Like a Man](https://open.spotify.com/track/4tUzsCOYbYhyj0x064W37G) | [Michelle Wright](https://open.spotify.com/artist/1Kp8PxFfeU5CFHkITQF9sY) | [Milestone](https://open.spotify.com/album/1WZzoVlzSUTxrfa5ApTHw9) | 4:02 |
+| 56 | [To the Moon and Back](https://open.spotify.com/track/1lDbhGvbnDtKtcP6mg0o8o) | [Five Roses](https://open.spotify.com/artist/6MN4Gf274aRJNoPjj0GTok) | [Jukebox Vibrations](https://open.spotify.com/album/2ZNOL1KznYYIwPEq4DIykD) | 3:22 |
 
 Snapshot ID: `MTY2MTUyOTk3MiwwMDAwMDAwMDhiNTZhOWQ5NjM3YWNlMzIzZjFlMzg2YjYyOGIzOTFm`

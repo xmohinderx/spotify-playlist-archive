@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax with a collection of eclectic and unexpected reimaginings. Cover:  Joy Oladokun",
-  "num_followers": 411447,
+  "num_followers": 411388,
   "original_name": "Chill Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk2MDAyOSwwMDAwMDAwMDljZTQ4NTcxNWUyNTllYjM1MjYyZWU1MTQ2ZTA4ZTdk",
+  "snapshot_id": "MTY0Nzk2MDAyOSwwMDAwMDAwMGZkN2VjMTc3N2Y3YWEzOTQ5OTNjMjgwMjFkOTZmNzgx",
   "tracks": [
     {
       "added_at": "2022-03-22 14:40:29",
@@ -279,6 +279,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
+        "name": "First Impressions",
+        "url": "https://open.spotify.com/album/4TOuZm9IHXWmFDPh8ccp1Z"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 196213,
+      "name": "Torn - Bonus Track",
+      "url": "https://open.spotify.com/track/5511Aj0mYSejKP6fplsoRk"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
         "name": "Sing Into My Mouth",
         "url": "https://open.spotify.com/album/0jMBAo2pk2cEE0aJ3WseMl"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 212486,
       "name": "This Must Be The Place",
       "url": "https://open.spotify.com/track/7dP4k5nDDwI1qMDoz5m0f6"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
-        "name": "First Impressions",
-        "url": "https://open.spotify.com/album/4TOuZm9IHXWmFDPh8ccp1Z"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 196213,
-      "name": "Torn - Bonus Track",
-      "url": "https://open.spotify.com/track/5511Aj0mYSejKP6fplsoRk"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -347,22 +347,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/58AZ4JOTZ8D0q1qmx4C4qE"
-      },
-      "artists": [
-        {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
-        }
-      ],
-      "duration_ms": 223173,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/4DYdrgkSWVYzo9e5RMnUMV"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "In Your Eyes",
         "url": "https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 329086,
       "name": "In Your Eyes",
       "url": "https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/58AZ4JOTZ8D0q1qmx4C4qE"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "duration_ms": 223173,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/4DYdrgkSWVYzo9e5RMnUMV"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Chandelier",
-        "url": "https://open.spotify.com/album/0s4GSmsYgH9zXIAXnjDivH"
-      },
-      "artists": [
-        {
-          "name": "Kina Grannis",
-          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
-        }
-      ],
-      "duration_ms": 212300,
-      "name": "Chandelier",
-      "url": "https://open.spotify.com/track/7AKebOEDMEZWMqBl4bKoYu"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "In My Life",
         "url": "https://open.spotify.com/album/3xmPSQOtxckv6Gr4IgVzw7"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 154290,
       "name": "In My Life",
       "url": "https://open.spotify.com/track/3nsMuR3Bax8ZjhDl2xkGfJ"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Chandelier",
+        "url": "https://open.spotify.com/album/0s4GSmsYgH9zXIAXnjDivH"
+      },
+      "artists": [
+        {
+          "name": "Kina Grannis",
+          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+        }
+      ],
+      "duration_ms": 212300,
+      "name": "Chandelier",
+      "url": "https://open.spotify.com/track/7AKebOEDMEZWMqBl4bKoYu"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -647,6 +647,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
+        "name": "Come As You Are",
+        "url": "https://open.spotify.com/album/4375fZFM49wOvF4BvU1jfv"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "duration_ms": 165309,
+      "name": "Come As You Are",
+      "url": "https://open.spotify.com/track/2BPmo2L5bYVS5SmpOTcfyF"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 255633,
       "name": "Today",
       "url": "https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
-        "name": "Come As You Are",
-        "url": "https://open.spotify.com/album/4375fZFM49wOvF4BvU1jfv"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
-        }
-      ],
-      "duration_ms": 165309,
-      "name": "Come As You Are",
-      "url": "https://open.spotify.com/track/2BPmo2L5bYVS5SmpOTcfyF"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Wouldn't It Be Nice",
-        "url": "https://open.spotify.com/album/1PT5g9fRMIqfpwPzRkAmFy"
-      },
-      "artists": [
-        {
-          "name": "Trousdale",
-          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
-        }
-      ],
-      "duration_ms": 167125,
-      "name": "Wouldn't It Be Nice",
-      "url": "https://open.spotify.com/track/0p9iW5SZgKuxF2Tnodh316"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Covers, Vol. 1",
         "url": "https://open.spotify.com/album/3y3pxFKLvqdAyL9RA4Hd3o"
       },
@@ -807,18 +791,18 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5biFYkYP5v0k9OavG4CCoK"
+        "name": "Wouldn't It Be Nice",
+        "url": "https://open.spotify.com/album/1PT5g9fRMIqfpwPzRkAmFy"
       },
       "artists": [
         {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
         }
       ],
-      "duration_ms": 235579,
-      "name": "What I Am - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6EjU3Hev5VZZmpPjoyNZVX"
+      "duration_ms": 167125,
+      "name": "Wouldn't It Be Nice",
+      "url": "https://open.spotify.com/track/0p9iW5SZgKuxF2Tnodh316"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -835,6 +819,22 @@
       "duration_ms": 191813,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/2mN9PvVZX0thvOclMwQAju"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5biFYkYP5v0k9OavG4CCoK"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 235579,
+      "name": "What I Am - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6EjU3Hev5VZZmpPjoyNZVX"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "No One's Gonna Love You",
-        "url": "https://open.spotify.com/album/7dizp1YraSwZHHbLCGKIz4"
-      },
-      "artists": [
-        {
-          "name": "Axel Fl\u00f3vent",
-          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
-        }
-      ],
-      "duration_ms": 232347,
-      "name": "No One's Gonna Love You",
-      "url": "https://open.spotify.com/track/6ZwkeOSGSNHvBfkIacgSX3"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Youth",
         "url": "https://open.spotify.com/album/5WjvWdND9pQf1bTZANVvvy"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 160588,
       "name": "Youth",
       "url": "https://open.spotify.com/track/00urNqCMQhspKwipmP3EZN"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "No One's Gonna Love You",
+        "url": "https://open.spotify.com/album/7dizp1YraSwZHHbLCGKIz4"
+      },
+      "artists": [
+        {
+          "name": "Axel Fl\u00f3vent",
+          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
+        }
+      ],
+      "duration_ms": 232347,
+      "name": "No One's Gonna Love You",
+      "url": "https://open.spotify.com/track/6ZwkeOSGSNHvBfkIacgSX3"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Transfiguration of Vincent",
-        "url": "https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS"
-      },
-      "artists": [
-        {
-          "name": "M. Ward",
-          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
-        }
-      ],
-      "duration_ms": 300186,
-      "name": "Let\u2019s Dance",
-      "url": "https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Here Comes The Sun (feat. dodie)",
         "url": "https://open.spotify.com/album/21v5ndluXHghmQaVKvMNUb"
       },
@@ -1327,6 +1311,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
+        "name": "Transfiguration of Vincent",
+        "url": "https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS"
+      },
+      "artists": [
+        {
+          "name": "M. Ward",
+          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
+        }
+      ],
+      "duration_ms": 300186,
+      "name": "Let\u2019s Dance",
+      "url": "https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
         "name": "Sound Of A Woman",
         "url": "https://open.spotify.com/album/2esSZWmdzMPyQsszbsX0rr"
       },
@@ -1339,6 +1339,22 @@
       "duration_ms": 188346,
       "name": "What Is Love",
       "url": "https://open.spotify.com/track/2jrmSLNOdNPZvMyYaZt9bm"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Love on Top",
+        "url": "https://open.spotify.com/album/1AJrb6Xr98He43S6G9lBKP"
+      },
+      "artists": [
+        {
+          "name": "Sophie Rose",
+          "url": "https://open.spotify.com/artist/7zVoS1SW2Btj5qRbtlKuyp"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Love on Top",
+      "url": "https://open.spotify.com/track/2p49O7MazA7DBeS9IS9erq"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1363,22 +1379,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Love on Top",
-        "url": "https://open.spotify.com/album/1AJrb6Xr98He43S6G9lBKP"
-      },
-      "artists": [
-        {
-          "name": "Sophie Rose",
-          "url": "https://open.spotify.com/artist/7zVoS1SW2Btj5qRbtlKuyp"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Love on Top",
-      "url": "https://open.spotify.com/track/2p49O7MazA7DBeS9IS9erq"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Young & Sad",
         "url": "https://open.spotify.com/album/6dFIDWKAfp4MGFZlsecOPA"
       },
@@ -1391,22 +1391,6 @@
       "duration_ms": 182957,
       "name": "Young & Sad",
       "url": "https://open.spotify.com/track/26BQhYYkG1B8xxbVV423PY"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
-        "name": "The City Holds My Heart",
-        "url": "https://open.spotify.com/album/0YCSQTk2QkPkHVHeGo1Pbu"
-      },
-      "artists": [
-        {
-          "name": "Ghostly Kisses",
-          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
-        }
-      ],
-      "duration_ms": 204160,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/1oPMTvVb57KNBV354DxsX9"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1427,18 +1411,18 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "The Scientist",
-        "url": "https://open.spotify.com/album/2kcP8pCXX2MiXTN2SmBKCo"
+        "name": "The City Holds My Heart",
+        "url": "https://open.spotify.com/album/0YCSQTk2QkPkHVHeGo1Pbu"
       },
       "artists": [
         {
-          "name": "Bipolar Sunshine",
-          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+          "name": "Ghostly Kisses",
+          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
         }
       ],
-      "duration_ms": 282744,
-      "name": "The Scientist",
-      "url": "https://open.spotify.com/track/5aynOMgD0cXpcq8MJXkWjH"
+      "duration_ms": 204160,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/1oPMTvVb57KNBV354DxsX9"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1459,6 +1443,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
+        "name": "The Scientist",
+        "url": "https://open.spotify.com/album/2kcP8pCXX2MiXTN2SmBKCo"
+      },
+      "artists": [
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        }
+      ],
+      "duration_ms": 282744,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/5aynOMgD0cXpcq8MJXkWjH"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
         "name": "Savior Complex",
         "url": "https://open.spotify.com/album/2GRYhyTbRxrjwzJOcCfJUI"
       },
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/1eGhBN5TotmkJFhtVm9Kvm"
-      },
-      "artists": [
-        {
-          "name": "Branches",
-          "url": "https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2"
-        }
-      ],
-      "duration_ms": 222500,
-      "name": "Somebody to Love",
-      "url": "https://open.spotify.com/track/0L9fWUcLnPIf5Z7rljJ8Mm"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "rose ave.",
         "url": "https://open.spotify.com/album/5roeGujs5AMWZHsxu0z1lZ"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 249440,
       "name": "No Ordinary Love",
       "url": "https://open.spotify.com/track/3Vp1ShzJnzjtMbGucz0c16"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/1eGhBN5TotmkJFhtVm9Kvm"
+      },
+      "artists": [
+        {
+          "name": "Branches",
+          "url": "https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2"
+        }
+      ],
+      "duration_ms": 222500,
+      "name": "Somebody to Love",
+      "url": "https://open.spotify.com/track/0L9fWUcLnPIf5Z7rljJ8Mm"
     },
     {
       "added_at": "2022-03-22 14:40:29",

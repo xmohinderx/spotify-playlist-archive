@@ -4,7 +4,7 @@
 
 > Listen to women from all over the world, at full volume\. Cover: Nazia Hassan
 
-611 songs - 1 day 9 hr 43 min - [published](https://open.spotify.com/playlist/2KqE5Y6PQZZOES0o7dmfHu)
+612 songs - 1 day 9 hr 47 min - [published](https://open.spotify.com/playlist/2KqE5Y6PQZZOES0o7dmfHu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -515,7 +515,8 @@
 | [Tumse Pyaar Karke](https://open.spotify.com/track/4Iyx3XvZwM0hYsLmeyjva3) | [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7) | [Tumse Pyaar Karke](https://open.spotify.com/album/1cUI7KGXYLNjTBvzjdDr59) | 3:54 | 2022-02-02 | 2022-03-09 |
 | [Two Years](https://open.spotify.com/track/6a2z6P7iSN9CTnR3NYyCKV) | [Miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [Two Years](https://open.spotify.com/album/4UckwDR1GDGS6DN1YsTqql) | 2:48 | 2022-06-01 | 2022-07-07 |
 | [TWTC](https://open.spotify.com/track/2CsnWF7nKkLV2IS42BaTjS) | [Mulay](https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54) | [TWTC](https://open.spotify.com/album/2wxaTB6AQkHZAvXemWJM8b) | 3:24 | 2022-08-03 |  |
-| [TYF](https://open.spotify.com/track/5SCwhJYHypju5RCI7zgVk2) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [TYF](https://open.spotify.com/album/1Z3VaI95Uej1kjjtaKFamW) | 3:33 | 2022-08-03 |  |
+| [TYF](https://open.spotify.com/track/3YGklnT5auf8CCLCbvAgFJ) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [TYF](https://open.spotify.com/album/09LrimhS4xCJCyqsz9CMhA) | 3:33 | 2022-08-03 |  |
+| [TYF](https://open.spotify.com/track/5SCwhJYHypju5RCI7zgVk2) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [TYF](https://open.spotify.com/album/1Z3VaI95Uej1kjjtaKFamW) | 3:33 | 2022-08-03 | 2022-08-31 |
 | [Tři tečky](https://open.spotify.com/track/0PqdMzuPMXXkX9xtO9Hyhx) | [Berenika Kohoutová](https://open.spotify.com/artist/28ukt2qiT4J2XeLyZklllx) | [Tři tečky](https://open.spotify.com/album/2YyWekDi3HRk226aQQy0zo) | 2:31 | 2021-12-11 | 2022-01-06 |
 | [Uff](https://open.spotify.com/track/2jzshbCwfE6aM9uhWQ2NjB) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Shreyas Puranik](https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d) | [Uff](https://open.spotify.com/album/3SgWMdnqxO5uPCvPDav4Wm) | 3:19 | 2022-02-02 | 2022-03-09 |
 | [Ugly](https://open.spotify.com/track/7GlUBvlcaebiYAPr8RCfIN) | [Meowlau](https://open.spotify.com/artist/5M1GNlTAGojbiOOk20tNh8), [Val](https://open.spotify.com/artist/6AvGish8CbxiuGpbK4wMoa) | [Nevermind](https://open.spotify.com/album/6MzVdDYLRTb6NuX6az3NB2) | 2:57 | 2022-04-06 | 2022-05-05 |

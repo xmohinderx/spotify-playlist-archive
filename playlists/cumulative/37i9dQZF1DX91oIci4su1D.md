@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:trance\_progressive">trance and progressive</a>.
 
-440 songs - 1 day 3 hr 8 min - [published](https://open.spotify.com/playlist/113TZi416gfSF4o2RXnxHl)
+441 songs - 1 day 3 hr 11 min - [published](https://open.spotify.com/playlist/113TZi416gfSF4o2RXnxHl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [Golden Hour](https://open.spotify.com/track/2oMy42g5MrI9Tq2e5fnVEF) | [Simon Patterson](https://open.spotify.com/artist/3QxbGzjZc3kgHNJOBOZM2M), [Will Atkinson](https://open.spotify.com/artist/5FXLHhKgStv36wfwXMhTWt) | [Golden Hour](https://open.spotify.com/album/3vlr8PuzvqKfWJx3Yx5Jso) | 4:00 | 2021-12-17 | 2022-05-14 |
 | [Gone](https://open.spotify.com/track/0c7KaBFRasHehFVcNz1bsy) | [Spada](https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Gone](https://open.spotify.com/album/2NmyRR15CWZuHuRzPVlyha) | 3:12 | 2022-04-01 |  |
 | [Gratitude](https://open.spotify.com/track/0KU8W0lHfsNlH7lfV1dz29) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [Marty Longstaff](https://open.spotify.com/artist/0JtMH7U9d7Z8pOSBz2U8Wn) | [Gratitude](https://open.spotify.com/album/0wyLwBTTorS8W4yHXJNPGj) | 3:53 | 2022-04-15 |  |
-| [Gravity](https://open.spotify.com/track/0WU0YiTidd4MBZm8k41B92) | [Taylor Torrence](https://open.spotify.com/artist/4PhWdminU7odBReTmyyZrH), [Elara](https://open.spotify.com/artist/6Hjeq4rnhr7spF9RLOWt7i) | [Gravity](https://open.spotify.com/album/7eS3KoZbCYz7h5tbBHxgRq) | 4:16 | 2022-03-04 |  |
+| [Gravity](https://open.spotify.com/track/0WU0YiTidd4MBZm8k41B92) | [Taylor Torrence](https://open.spotify.com/artist/4PhWdminU7odBReTmyyZrH), [Elara](https://open.spotify.com/artist/6Hjeq4rnhr7spF9RLOWt7i) | [Gravity](https://open.spotify.com/album/7eS3KoZbCYz7h5tbBHxgRq) | 4:16 | 2022-03-04 | 2022-08-31 |
 | [Great Ocean Road](https://open.spotify.com/track/70CgMVGi2L6ZMZeTPqFFbC) | [ReOrder](https://open.spotify.com/artist/6wfno0FdSaJa3DHHBuY1jy), [Jordan Tobias](https://open.spotify.com/artist/0hMFrL7Fn79LC30jv0h9l3), [That Girl](https://open.spotify.com/artist/7AF04fxdnfv9qKODrd0poh) | [Great Ocean Road](https://open.spotify.com/album/2EPd7BNNI9zY3MEgSdV2kr) | 3:14 | 2022-02-04 | 2022-05-28 |
 | [Halcyon](https://open.spotify.com/track/0VWxONjwAB5ECKUDKDfYD2) | [Exouler](https://open.spotify.com/artist/0iGNYF6J9JmfpBHAmYAucM) | [True Hits, Vol\. 8](https://open.spotify.com/album/1THD37jO55fFKytiSpskWQ) | 3:40 | 2022-07-22 | 2022-07-27 |
 | [Halfway](https://open.spotify.com/track/5L1QyeUnZFi81hOnj6RsoR) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv) | [Halfway](https://open.spotify.com/album/3IYVqDEsGUltuWbk4lORHH) | 2:50 | 2022-04-15 | 2022-04-19 |
@@ -315,6 +315,7 @@
 | [Purpose](https://open.spotify.com/track/4H1ua1D82da8b2WGa8mi9i) | [BiXX](https://open.spotify.com/artist/4RiwBL7Ca5pV4qR7gRmEOh), [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n) | [Purpose](https://open.spotify.com/album/0VDMjTE6JnnAN7k8OAMuRl) | 3:56 | 2022-02-18 |  |
 | [Quantum Eraser](https://open.spotify.com/track/4iBtkALF5a2yMOUOb0EhSi) | [Craig Connelly](https://open.spotify.com/artist/78UUH1buA0gDtDnkX2dPgL), [Paul Denton](https://open.spotify.com/artist/2fKsd61swALXCOUa8q89U2) | [Quantum Eraser](https://open.spotify.com/album/6rCa1P1U4IdObZrigvZ4SH) | 4:23 | 2022-05-06 |  |
 | [Radiant](https://open.spotify.com/track/1iyxxUxyptXWtEdRXRBeda) | [Fatum](https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C) | [Radiant](https://open.spotify.com/album/3t5CejWFtZFsh5P6TfnM41) | 3:05 | 2021-12-17 | 2022-05-28 |
+| [Rain Onto Me \- C\-Systems Remix](https://open.spotify.com/track/2n1xdGIgUL7pDrpzFdOOtT) | [Dj T.H.](https://open.spotify.com/artist/4ulezsrIi1ZZ4uUx1QqasZ), [Deirdre McLaughlin](https://open.spotify.com/artist/1SIWRebg7AKRhztDGBysIg), [C\-Systems](https://open.spotify.com/artist/23u5Z7BfuCPFLl4JE1uacp) | [Rain Onto Me \(C\-Systems Remix\)](https://open.spotify.com/album/7rrdux0POgTvWsJ6f6ctmL) | 3:21 | 2022-08-26 |  |
 | [Reach Out](https://open.spotify.com/track/7ECcZKXlfBnfBdyqbjRiwY) | [Craig Connelly](https://open.spotify.com/artist/78UUH1buA0gDtDnkX2dPgL), [Gid Sedgwick](https://open.spotify.com/artist/3Y43xMeiPftAookVOSKu1Y) | [Reach Out](https://open.spotify.com/album/6SbPy3sR04A5RdqUfu9gFY) | 4:22 | 2022-03-18 |  |
 | [Ready](https://open.spotify.com/track/4oOogqFgu0UdI654KYOy3g) | [Alexander Popov](https://open.spotify.com/artist/4zNhfG6i4QlfUuzt1hBGu2), [Whiteout](https://open.spotify.com/artist/35wRsBUrfQziBPzvJTr9bt), [Cari](https://open.spotify.com/artist/6UAL6sAn9OZc6VQGOOp3re) | [Ready](https://open.spotify.com/album/6QxPadNVThUrA4u4UFJgYv) | 3:06 | 2022-01-21 |  |
 | [Recover](https://open.spotify.com/track/1xfO2RuAESfLizI7EaN0O8) | [Purple Haze](https://open.spotify.com/artist/35ClM9mD81Evb2EIuYq5en) | [Recover](https://open.spotify.com/album/5N7D1sAZ6XipCHLhKD6YWC) | 3:55 | 2021-12-17 | 2022-03-12 |

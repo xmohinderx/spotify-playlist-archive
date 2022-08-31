@@ -1,12 +1,12 @@
 {
   "description": "A fun library of country hits to pass on to the next generation!",
-  "num_followers": 156892,
+  "num_followers": 157154,
   "original_name": "Raised on Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODgwNjA0OCwwMDAwMDAwMDhhMGQ5NDBjMmJmMzYyYjhiYTIzOGRjYzdhOThlZTI2",
+  "snapshot_id": "MTYzODgwNjA0OCwwMDAwMDAwMDBiMjViOTE4YzAzYjc1M2M1MzM3NWU5N2YwODhiNjkw",
   "tracks": [
     {
       "added_at": "2021-09-23 20:29:34",
@@ -811,18 +811,18 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Diamond Rio",
-        "url": "https://open.spotify.com/album/5zpRuHrOSBkOrop2DJvBcr"
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5"
       },
       "artists": [
         {
-          "name": "Diamond Rio",
-          "url": "https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6"
+          "name": "Faith Hill",
+          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
         }
       ],
-      "duration_ms": 198333,
-      "name": "Meet In the Middle",
-      "url": "https://open.spotify.com/track/7lUE02KHkZM44BZgjCaWRO"
+      "duration_ms": 194306,
+      "name": "This Kiss",
+      "url": "https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -843,18 +843,18 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5"
+        "name": "Diamond Rio",
+        "url": "https://open.spotify.com/album/5zpRuHrOSBkOrop2DJvBcr"
       },
       "artists": [
         {
-          "name": "Faith Hill",
-          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+          "name": "Diamond Rio",
+          "url": "https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6"
         }
       ],
-      "duration_ms": 194306,
-      "name": "This Kiss",
-      "url": "https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB"
+      "duration_ms": 198333,
+      "name": "Meet In the Middle",
+      "url": "https://open.spotify.com/track/7lUE02KHkZM44BZgjCaWRO"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Living Hard",
-        "url": "https://open.spotify.com/album/2iShcXr1PRM3VMF15iHwP8"
-      },
-      "artists": [
-        {
-          "name": "Gary Allan",
-          "url": "https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m"
-        }
-      ],
-      "duration_ms": 242946,
-      "name": "Watching Airplanes",
-      "url": "https://open.spotify.com/track/63u5QGp9dKXAoYTVKUKBYn"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 173466,
       "name": "Teach Your Children",
       "url": "https://open.spotify.com/track/29HaKOpeLSYvqdFyEQSRdj"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
+        "name": "Living Hard",
+        "url": "https://open.spotify.com/album/2iShcXr1PRM3VMF15iHwP8"
+      },
+      "artists": [
+        {
+          "name": "Gary Allan",
+          "url": "https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m"
+        }
+      ],
+      "duration_ms": 242946,
+      "name": "Watching Airplanes",
+      "url": "https://open.spotify.com/track/63u5QGp9dKXAoYTVKUKBYn"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Not A Moment Too Soon",
-        "url": "https://open.spotify.com/album/18eJ4H4smFp29lRMsLygUc"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 249360,
-      "name": "Don't Take The Girl",
-      "url": "https://open.spotify.com/track/2wmEryA2YLaFwFvA63n3O2"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
         "name": "It's All About to Change",
         "url": "https://open.spotify.com/album/3RBu5X7JheOzf1qtDVPkoW"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 152333,
       "name": "Here's a Quarter (Call Someone Who Cares)",
       "url": "https://open.spotify.com/track/6BTCpaBTxlqGMOl0P6hvvX"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
+        "name": "Not A Moment Too Soon",
+        "url": "https://open.spotify.com/album/18eJ4H4smFp29lRMsLygUc"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 249360,
+      "name": "Don't Take The Girl",
+      "url": "https://open.spotify.com/track/2wmEryA2YLaFwFvA63n3O2"
     },
     {
       "added_at": "2021-09-23 20:29:34",

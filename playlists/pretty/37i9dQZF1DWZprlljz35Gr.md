@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 
 > Bluesy blips and blops
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,143 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,150 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 | 36 | [Back Against The Wall](https://open.spotify.com/track/25ddyTkfz4p7Bvprc66ZyV) | [Euphoria](https://open.spotify.com/artist/0v6ZsvpqHQJiB6Kz2J0QGZ) | [Precious Time](https://open.spotify.com/album/2jmrU6wflfVSJwZGI3Z8H8) | 5:19 |
 | 37 | [Please Don't Stay](https://open.spotify.com/track/5QCKfr2ckdL5kf9wCQtzUu) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Come on In](https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ) | 2:58 |
 | 38 | [Why Not?](https://open.spotify.com/track/5ygOxeRiafW51ViBgiXLf8) | [Akolo](https://open.spotify.com/artist/5n31j1CydRWUtmfct89c5J) | [Why Not?](https://open.spotify.com/album/5PAyO6SUXQJhGDPqmqcMBY) | 3:33 |
-| 39 | [Daddy Was a Wolfman](https://open.spotify.com/track/7i10VbOnkG09EuZuOkz3gO) | [Son Of Dave](https://open.spotify.com/artist/5t81Dbcvlm5J7YP7cI2kae) | [Music for Cop Shows](https://open.spotify.com/album/5BXskRJFE9uS1C0K1hZtqE) | 2:34 |
-| 40 | [Hurricane](https://open.spotify.com/track/3NcNF2tvTqGgnHkhqNK8cX) | [Mississippi Big Beat](https://open.spotify.com/artist/430DMjWZpbtg2tt64FynYH) | [Delta Disco](https://open.spotify.com/album/3SDDZMhIy357UN63KjpJP8) | 4:15 |
+| 39 | [Hurricane](https://open.spotify.com/track/3NcNF2tvTqGgnHkhqNK8cX) | [Mississippi Big Beat](https://open.spotify.com/artist/430DMjWZpbtg2tt64FynYH) | [Delta Disco](https://open.spotify.com/album/3SDDZMhIy357UN63KjpJP8) | 4:15 |
+| 40 | [Daddy Was a Wolfman](https://open.spotify.com/track/7i10VbOnkG09EuZuOkz3gO) | [Son Of Dave](https://open.spotify.com/artist/5t81Dbcvlm5J7YP7cI2kae) | [Music for Cop Shows](https://open.spotify.com/album/5BXskRJFE9uS1C0K1hZtqE) | 2:34 |
 | 41 | [Midnight Dream](https://open.spotify.com/track/0v1JpYiFmnpgbxxzh5Oqul) | [Little Axe](https://open.spotify.com/artist/0ZLV7I1vDpjO5IIDTYfeGJ) | [Hard Grind](https://open.spotify.com/album/3T2bRUO66PXyXR97uiXQeY) | 4:03 |
 | 42 | [Crossroads](https://open.spotify.com/track/6i5tylayRLCg5LrgUFqg4Z) | [Mason Murphy](https://open.spotify.com/artist/0iGR1dPENdfzoZbpsFlYug) | [Crossroads](https://open.spotify.com/album/7pPTrDwqzewb4h6cqJjl3w) | 2:21 |
 | 43 | [Good & Gone \- Original Mix](https://open.spotify.com/track/4HYfEF1lvUPH9IsXrY30Kj) | [K Theory](https://open.spotify.com/artist/4N4XqUMMv5KXtLvCBYEIOt) | [Good & Gone / The Observer](https://open.spotify.com/album/4kx8HQlzVqfPDZNIbk5F87) | 4:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 | 49 | [Can't Help Myself \- E\-Z Rollers Remix](https://open.spotify.com/track/2e8IYlqaTSYo7zNR0DTi5m) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j), [E\-Z Rollers](https://open.spotify.com/artist/2DRV8CWHnuapa1bpbvHjCl) | [A Different Beat](https://open.spotify.com/album/3FgB6MV0HuR9Ie8057mamx) | 12:18 |
 | 50 | [Idol \(Should I Know\)](https://open.spotify.com/track/676LOrrQHW9WOz8VL5LYVC) | [Mississippi Big Beat](https://open.spotify.com/artist/430DMjWZpbtg2tt64FynYH) | [Delta Disco](https://open.spotify.com/album/3SDDZMhIy357UN63KjpJP8) | 5:19 |
 
-Snapshot ID: `MTY1OTA2NzMyMCwwMDAwMDAwMGRjYzI5NTVkNjVjMWQ2Yjg3YzA4ZjcyYzkyNmJkNmEx`
+Snapshot ID: `MTY1OTA2NzMyMCwwMDAwMDAwMDU1ZjlkZDlmYzI2NWI2ZDY1NjBlNTEyZjgwNTQ3MzZk`

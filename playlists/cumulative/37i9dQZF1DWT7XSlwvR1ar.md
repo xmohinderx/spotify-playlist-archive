@@ -4,7 +4,7 @@
 
 > Don't stress out\. Stay relaxed with these easy, upbeat songs.
 
-346 songs - 21 hr 0 min - [published](https://open.spotify.com/playlist/37RWAGQot1VZ0VVt7JhYiV)
+347 songs - 21 hr 4 min - [published](https://open.spotify.com/playlist/37RWAGQot1VZ0VVt7JhYiV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Into The Mystery](https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Into The Mystery](https://open.spotify.com/album/3VJ6mi9zBjEeDOTW167lMF) | 3:54 | 2021-08-01 | 2022-07-29 |
 | [Island In The Sun](https://open.spotify.com/track/1IRZwD3r9VOehOR8rGeV3Y) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Smallville: The Talon Mix](https://open.spotify.com/album/4ZS43VlYwOu0WUvFfQsleB) | 3:20 | 2019-08-17 | 2021-03-22 |
 | [It Would Be You](https://open.spotify.com/track/0roPf0bwAsBDZv1bR15m15) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [It Would Be You](https://open.spotify.com/album/58xzcDEz0sn7F36ZEnfYHV) | 3:39 | 2020-06-17 | 2022-07-29 |
+| [It's Alright](https://open.spotify.com/track/67LEdY2HlgEWNnrdaPyYpK) | [Cecilia Castleman](https://open.spotify.com/artist/6yB7WddQdPHwbyQpKl1qOH) | [It's Alright](https://open.spotify.com/album/5sxieYVKKC6kvgIdKmByyI) | 4:08 | 2022-08-30 |  |
 | [Jealous Of Birds](https://open.spotify.com/track/6nuoNN62XI74sF1MehARgZ) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Jealous Of Birds](https://open.spotify.com/album/1wvJvb2k412nebCXAsNuMW) | 3:12 | 2019-09-08 | 2020-02-19 |
 | [Joyride](https://open.spotify.com/track/0VcVy0kpfwyd5rMS5URyVD) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Joyride](https://open.spotify.com/album/2kbQUnNWsS3C931Sx7FYzb) | 3:32 | 2019-08-20 | 2022-08-17 |
 | [Just A Little While](https://open.spotify.com/track/3CL0eXel8usNNSCQ6OT7KJ) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Could It Get Better Than This](https://open.spotify.com/album/1sewF9zfVLURBL1CEKJmMC) | 2:42 | 2021-12-15 | 2022-04-20 |
@@ -208,7 +209,7 @@
 | [New Light](https://open.spotify.com/track/3bH4HzoZZFq8UpZmI2AMgV) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [New Light](https://open.spotify.com/album/5fEgDYFPUcvQy21TYoLEZ0) | 3:36 | 2019-07-29\* | 2021-03-21 |
 | [New Slang](https://open.spotify.com/track/5oUV6yWdDM0R9Q2CizRhIt) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Oh, Inverted World](https://open.spotify.com/album/34XlrJGfsDhvRDeJ8a6lie) | 3:51 | 2019-07-29\* | 2022-04-20 |
 | [New Slang \- 2021 Remaster](https://open.spotify.com/track/0NslHuacjxQYfUTOW3HCIV) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Oh, Inverted World \(20th Anniversary Remaster\)](https://open.spotify.com/album/5XmhHMj5LZLWo32aA6ntKE) | 3:50 | 2022-07-18 |  |
-| [New Soul](https://open.spotify.com/track/476JcJ3TpAuCOlGdCmomGm) | [Yael Naim](https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w) | [Yael Naïm](https://open.spotify.com/album/6YuE6wbqwzvSHungRfuvk7) | 3:45 | 2022-07-18 |  |
+| [New Soul](https://open.spotify.com/track/476JcJ3TpAuCOlGdCmomGm) | [Yael Naim](https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w) | [Yael Naïm](https://open.spotify.com/album/6YuE6wbqwzvSHungRfuvk7) | 3:45 | 2022-07-18 | 2022-08-31 |
 | [New Soul](https://open.spotify.com/track/6obMmMuVhvB0VMTZa5EJIP) | [Yael Naim](https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w) | [Yael Naïm](https://open.spotify.com/album/3ufKV1PaaW3hdXIgocxPIQ) | 3:45 | 2019-07-29\* | 2022-04-18 |
 | [Nick Of Time](https://open.spotify.com/track/1SdkSIyVEBu8o9ZsJnTJqO) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Nick Of Time](https://open.spotify.com/album/4SArFlFDyqFOzmlNFS5fDX) | 4:10 | 2022-07-18 |  |
 | [No Sleep](https://open.spotify.com/track/2pfAvgMoHLfialvMYn337d) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [By and By](https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM) | 3:57 | 2019-08-21 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Ben Reilly
 
-[Spotify](https://open.spotify.com/user/spotify) - 883,154 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 883,408 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 11 | [Charlie Charlie](https://open.spotify.com/track/2jbrK1JBiL4EupGFeHzazt) | [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv), [Nico Porter](https://open.spotify.com/artist/7thOgTVMx4Xav2KaWbR5qQ) | [Freelance: Charlie](https://open.spotify.com/album/6JLtQCr4wR5TbPMCK53XDt) | 1:32 |
 | 12 | [Walkin \- Key Glock remix](https://open.spotify.com/track/5GJS3CY3aqbT9j2lv434aQ) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Walkin \(Key Glock remix\)](https://open.spotify.com/album/4eaBgTvANMYXbm9i1Vyx3q) | 3:46 |
 | 13 | [Wraith](https://open.spotify.com/track/4GSyA0YDBON0qD8fvqmPan) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Smoko Ono](https://open.spotify.com/artist/5ISXAUt037t6aYhvewRtzd) | [Wraith](https://open.spotify.com/album/15of6rNsLNItJSTZZz6TYT) | 2:27 |
-| 14 | [Zipcodes](https://open.spotify.com/track/7klycPYjcy8FSQcIZTAVNy) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Zipcodes](https://open.spotify.com/album/49OiilOMo4qUuaIpNhc00S) | 4:27 |
+| 14 | [Swamp Bitches \(with Rico Nasty\)](https://open.spotify.com/track/2aOG6jVZnTqZwEhjGTcFMM) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [she / her / black bitch](https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb) | 3:00 |
 | 15 | [Swish](https://open.spotify.com/track/536R5L9YMmxAMvIrBleqZ9) | [Malz Monday](https://open.spotify.com/artist/3qIFdbarxYx2moJbhM1pLy) | [Swish](https://open.spotify.com/album/4bDlqdB1KjTP5YcOnMOhL9) | 3:13 |
-| 16 | [Swamp Bitches \(with Rico Nasty\)](https://open.spotify.com/track/2aOG6jVZnTqZwEhjGTcFMM) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [she / her / black bitch](https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb) | 3:00 |
+| 16 | [Zipcodes](https://open.spotify.com/track/7klycPYjcy8FSQcIZTAVNy) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Zipcodes](https://open.spotify.com/album/49OiilOMo4qUuaIpNhc00S) | 4:27 |
 | 17 | [Private Valet](https://open.spotify.com/track/3c1sfDYFzlTGTnyVjUZNl1) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Private Valet](https://open.spotify.com/album/0c7HCpGncE438CV7vM9fFu) | 2:29 |
 | 18 | [In my lifetime \(feat\. Action Bronson\)](https://open.spotify.com/track/6FoyBTuvyX2YFw4QW1e6DK) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Vinyl Days](https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru) | 1:48 |
 | 19 | [Strangers \(feat\. A$AP Rocky and Run The Jewels\)](https://open.spotify.com/track/5iP1KNUxchR64bieN9pE7z) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C) | [Strangers \(feat\. A$AP Rocky and Run The Jewels\)](https://open.spotify.com/album/6OHZ8QAgIJC7nPwACpWqG8) | 4:08 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 46 | [Hollandaise](https://open.spotify.com/track/4NvX8KPT4RGT2yh6ZjVYsK) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Hollandaise](https://open.spotify.com/album/64HygXbyafPahxN1avR56P) | 2:58 |
 | 47 | [NAOMI](https://open.spotify.com/track/2q4Vq5gPgWIHeAXEWKZELu) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [DRILL MUSIC IN ZION](https://open.spotify.com/album/0UennjqMxb1SAsaf7bsSwE) | 2:57 |
 | 48 | [LOLSMH II](https://open.spotify.com/track/4yg2dkVMQX7HIqiM7c0iEZ) | [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [MORE BLACK SUPERHEROES](https://open.spotify.com/album/5vEoVfNUIb14lEGgAfzkMx) | 2:24 |
-| 49 | [DENY \(feat\. Tyla Yaweh\)](https://open.spotify.com/track/2OGfK0dPkEdALPwrmYXrVE) | [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL), [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr) | [DUSK to DAWN](https://open.spotify.com/album/79YZv5y3Heiw4QZ6i77FTE) | 3:11 |
-| 50 | [AIN'T GON STOP ME](https://open.spotify.com/track/1JdFSVTGl0gDJJVUTBvauR) | [reggie](https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16), [monte booker](https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Ain't Gon Stop Me](https://open.spotify.com/album/2Kc5M1TGl7foXJrnmklLbT) | 1:36 |
+| 49 | [AIN'T GON STOP ME](https://open.spotify.com/track/1JdFSVTGl0gDJJVUTBvauR) | [reggie](https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16), [monte booker](https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Ain't Gon Stop Me](https://open.spotify.com/album/2Kc5M1TGl7foXJrnmklLbT) | 1:36 |
+| 50 | [DENY \(feat\. Tyla Yaweh\)](https://open.spotify.com/track/2OGfK0dPkEdALPwrmYXrVE) | [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL), [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr) | [DUSK to DAWN](https://open.spotify.com/album/79YZv5y3Heiw4QZ6i77FTE) | 3:11 |
 
-Snapshot ID: `MTY2MTI2ODUzNiwwMDAwMDAwMDBmYjk2YTU3MGY3NTZkY2RkYWMzODg2MzNiNmQ3Mzc1`
+Snapshot ID: `MTY2MTI2ODUzNiwwMDAwMDAwMGU3MDkzMzNlYmU3OTdmYzMwMGUwYWZkNDljYTZjOWZj`

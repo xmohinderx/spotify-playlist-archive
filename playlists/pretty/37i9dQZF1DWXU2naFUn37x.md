@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > La casa dello street rap italiano\. Cover: Neima Ezza, L'allemand, Vale Pain, Sasso
 
-[Spotify](https://open.spotify.com/user/spotify) - 809,590 likes - 45 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 809,663 likes - 45 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 30 | [Blauer](https://open.spotify.com/track/3Nu1xzgGX1tTyMaw8VdyGa) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Blauer](https://open.spotify.com/album/14i0xkJKrPJS6Mv8VKOOIK) | 2:56 |
 | 31 | [9.19](https://open.spotify.com/track/4xlVDf8pSGnjJGwTT6dyXw) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Luciennn](https://open.spotify.com/artist/6qHbYx76y5bQSbBMUYhhuP), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J) | [BLOCCO 181 – ORIGINAL SOUNDTRACK](https://open.spotify.com/album/7jfOGP1vsNecfYTcwN3AyH) | 1:59 |
 | 32 | [Goyard](https://open.spotify.com/track/3e9L7P1Cu91OWiak39QUkH) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Goyard](https://open.spotify.com/album/0CuTFVpBoXLYDy1Rvaa0JA) | 2:44 |
-| 33 | [X Sempre](https://open.spotify.com/track/5Vw9le6wrmCUwmrYnu56Gl) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Dark Love EP](https://open.spotify.com/album/1AT2eHexB7x445IxuECZLW) | 3:25 |
+| 33 | [X Sempre](https://open.spotify.com/track/69QHlK1wzGaY8M5QzB1fNx) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Dark Love EP](https://open.spotify.com/album/5Z5JxIgeTDnZdg6pLootUs) | 3:25 |
 | 34 | [JEANS \(feat\. Capo Plaza\)](https://open.spotify.com/track/1pjSpXlkz4iqFIesJIPZU7) | [Keta](https://open.spotify.com/artist/0noBqdN1IGlVyoYkpd6Vrn), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [ERROR 442](https://open.spotify.com/album/3WHbkZf28MHGTiAYH2rnjs) | 3:16 |
 | 35 | [Plaquette](https://open.spotify.com/track/2r3tMClmk1Cw974ByW20ny) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Plaquette](https://open.spotify.com/album/2VGAKLqF0nTWezZINNzccY) | 2:38 |
 | 36 | [Thick \(feat\. MamboLosco\) \- Remix](https://open.spotify.com/track/45bjf2E1OwkD58JN7CLr99) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [Thick \(feat\. MamboLosco\) \[Remix\]](https://open.spotify.com/album/4mFFBoSp9p60aAGyalV96c) | 2:11 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 44 | [Speranza e Fame](https://open.spotify.com/track/35ubuxGRmfd6DySV1R63th) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU), [Uzi Lvke](https://open.spotify.com/artist/5n73VcgD8TKQvtG7gOSjjv) | [Speranza e Fame](https://open.spotify.com/album/4s42ucGhAufNpCj9bbKrOJ) | 2:48 |
 | 45 | [ItalGarage](https://open.spotify.com/track/43CigdSvQSNuQs1ccxS7V1) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n) | [ItalGarage](https://open.spotify.com/album/2wA2lNv7d0fsO7sxTFpdap) | 2:24 |
 
-Snapshot ID: `MTY2MTc2NTY2OSwwMDAwMDAwMGJjODAxYzgxZWZiZWI4MGViYzQyZjVjZjQyNDY2OTU2`
+Snapshot ID: `MTY2MTc2NTY2OSwwMDAwMDAwMGIzZmNiMzcyOTNiMmRhZTNmMzc0YmU0ZWNlMzk0YzQ4`

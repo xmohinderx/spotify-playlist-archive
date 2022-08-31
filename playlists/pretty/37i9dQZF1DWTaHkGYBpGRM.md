@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTaHkGYBpGRM.md) - [plain]
 
 > Long distance is hard, but true love knows no boundaries.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,627 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,644 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTaHkGYBpGRM.md) - [plain]
 | 36 | [See You Again](https://open.spotify.com/track/7gEIEG5i3oKLKRKBuvengF) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Love Stuff](https://open.spotify.com/album/0B4eikFaUJcf3hc6DaSVov) | 3:26 |
 | 37 | [Please Stay](https://open.spotify.com/track/0dSTuo3SoZqR8bG4xBOHVv) | [Francois Klark](https://open.spotify.com/artist/6pWdTbfpN654qlN83k3O0P) | [Love](https://open.spotify.com/album/12SFWJtCHuTAW1WX7gpkCU) | 3:44 |
 | 38 | [Lit the Fire](https://open.spotify.com/track/7nMwUYRFXb6EzZ3t7iigSv) | [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Ralph](https://open.spotify.com/album/4ZpHjzelJv4qIeZqrqJduU) | 2:50 |
-| 39 | [Long Drive](https://open.spotify.com/track/6keUc6LHhh1HkJfE87bnG9) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [YES! \(Commentary\)](https://open.spotify.com/album/2pkE09f0DykOk472XemaTs) | 3:50 |
-| 40 | [Surround You](https://open.spotify.com/track/1D5ZvPtj09MckFOp2NcadQ) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Endless Love \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2cn6DXanZWGYjUcslSIwWD) | 3:28 |
+| 39 | [Surround You](https://open.spotify.com/track/1D5ZvPtj09MckFOp2NcadQ) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Endless Love \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2cn6DXanZWGYjUcslSIwWD) | 3:28 |
+| 40 | [Long Drive](https://open.spotify.com/track/6keUc6LHhh1HkJfE87bnG9) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [YES! \(Commentary\)](https://open.spotify.com/album/2pkE09f0DykOk472XemaTs) | 3:50 |
 | 41 | [Muscle Memory](https://open.spotify.com/track/7zC7Ib9pBRPMtJQUCyEbPJ) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Midnight Machines](https://open.spotify.com/album/03Il5mMdE6JpkpHNpmlVeT) | 5:34 |
 | 42 | [Stay With Me](https://open.spotify.com/track/3fxc2GDtIjDprOyMFABWDs) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Mission Bell](https://open.spotify.com/album/07HizW0Hwz3rDY9aDtoLXS) | 3:13 |
 | 43 | [Miss You Love](https://open.spotify.com/track/1DH9Jw14TpkKzNIwbCFB6p) | [Maria Mena](https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR) | [Apparently Unaffected](https://open.spotify.com/album/7BWPKwScT8TShBOh91O4oz) | 3:09 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTaHkGYBpGRM.md) - [plain]
 | 59 | [Coming Home](https://open.spotify.com/track/4DEICI6hwTnHCch0SonV8w) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Bitter Pill](https://open.spotify.com/album/1O1BzHEnq2sItopGcE2PS0) | 3:55 |
 | 60 | [Missing You](https://open.spotify.com/track/7eA8KIqKOYDwzDoQPp0vQ9) | [Erik Hassle](https://open.spotify.com/artist/6MKNzi38fPQCFRdWOtHqTJ) | [Innocence Lost](https://open.spotify.com/album/7yYelxb5aBNoxduduomHlp) | 2:54 |
 
-Snapshot ID: `MTYxMTYwNDE1MiwwMDAwMDAwMGUzMDEzYjcwNzllZGNiNmZiZTc1YWM2NTJhNDAwYjYx`
+Snapshot ID: `MTYxMTYwNDE1MiwwMDAwMDAwMDJkMjU3YjIxZTkxNmQ4NWViNzhlMjEyZDg4MTFlZmNi`

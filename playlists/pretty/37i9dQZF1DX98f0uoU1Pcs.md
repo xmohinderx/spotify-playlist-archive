@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: FIDLAR
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,511 likes - 126 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,333 likes - 126 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 46 | [Low Era \- Edit](https://open.spotify.com/track/5RuSAk0rjCUXmZPGDxZf0w) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Low Era](https://open.spotify.com/album/1TBlTbuSKgZ0YBY0AoU7yQ) | 3:38 |
 | 47 | [Anti\-glory](https://open.spotify.com/track/7fDPgekQGJKkyyqjuhtNSG) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Anti\-glory](https://open.spotify.com/album/64rQzBshwp5tyR7ExhJaAk) | 3:30 |
 | 48 | [Unproductive Funk](https://open.spotify.com/track/1s7vOMl4IyJsqKZGNVlnzI) | [Guided By Voices](https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl) | [Unproductive Funk / Who Wants to Go Hunting?](https://open.spotify.com/album/61dzj1qngfSTlt8L9z2tQT) | 3:28 |
-| 49 | [Tell Myself](https://open.spotify.com/track/4wPoSALUR5mxrTFvgpuC2e) | [THICK](https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli) | [Tell Myself](https://open.spotify.com/album/1XmHuWK6XxcNkyJHZoIKck) | 2:29 |
+| 49 | [Tell Myself](https://open.spotify.com/track/4WI5FUuvz2ESFoerIFK4WU) | [THICK](https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli) | [Happy Now](https://open.spotify.com/album/5ucPdWDzfyiYXEDC1aC80x) | 2:29 |
 | 50 | [Seasick](https://open.spotify.com/track/7fR3tnzsPKVNZTx4Ms871S) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Seasick](https://open.spotify.com/album/5WdjEWFKc0aznBIb01FHo7) | 2:30 |
 | 51 | [Her](https://open.spotify.com/track/3vOfOukwKoWE6AGRXscucS) | [FUR](https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a) | [Her](https://open.spotify.com/album/5SlWmYvt5uc2ga9MmkUxBH) | 3:51 |
 | 52 | [Teen Beat](https://open.spotify.com/track/3HyhlfFMzfXjcDzI061LAM) | [Automatic](https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU) | [Excess](https://open.spotify.com/album/3D3S3TbKudDzd7sM0b778J) | 3:28 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 125 | [Sterilizer](https://open.spotify.com/track/4wPVMYTIDj0D3e0biuEq6M) | [LURK](https://open.spotify.com/artist/3HUD6tXPRpqbXIBqJMdNCR) | [Around the Sun](https://open.spotify.com/album/1S2XYKUTq2jSCPX5nUnMEw) | 3:06 |
 | 126 | [That Sedative](https://open.spotify.com/track/3xctqctbVGsgX2nzkRQ3xC) | [Bad Waitress](https://open.spotify.com/artist/5h5YgUkm7vI0bdbQTyBGmb) | [That Sedative](https://open.spotify.com/album/0JM4lsF31jRVkpuG4Ekrlk) | 2:21 |
 
-Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMGJlNDdhMzcyODg4Y2M0ZDk4NzI0MzYxNDJhZTMxYzlk`
+Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMGUxMjBhM2MxZWU0NWEwNzVjZDcxNjBjMGQ4NWM5NTcy`

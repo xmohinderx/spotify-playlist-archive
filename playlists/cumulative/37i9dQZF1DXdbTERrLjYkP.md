@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: SAPPHIRE
 
-242 songs - 12 hr 54 min - [published](https://open.spotify.com/playlist/5yqeqnGwA3WW1b3xVN4nfp)
+243 songs - 12 hr 57 min - [published](https://open.spotify.com/playlist/5yqeqnGwA3WW1b3xVN4nfp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,8 @@
 | [Since I Met You](https://open.spotify.com/track/34VVaSIR9qIwlz8tihRMPq) | [Cassidy Mann](https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu) | [If It's Not Forever](https://open.spotify.com/album/5OhIJcMEADcrAKH5kkAvzT) | 4:30 | 2022-07-22 | 2022-08-20 |
 | [Single in September \- Acoustic](https://open.spotify.com/track/4Q0HFo67Jq6ySobJooMpOJ) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Single in September \(Acoustic\)](https://open.spotify.com/album/1n450BAtvB1tYqdBo5wnWj) | 3:20 | 2022-03-25 | 2022-04-23 |
 | [Skylight](https://open.spotify.com/track/4ur8uhTyzF4Ok9WyxQLr68) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Skylight](https://open.spotify.com/album/0DD0jU03Tn8NxFInW0AtGY) | 4:00 | 2022-01-14 | 2022-04-02 |
-| [Small Talk](https://open.spotify.com/track/5J17jC78SZXMPfcoCvs0Uk) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Small Talk](https://open.spotify.com/album/7iuROt2yxUMHIrFFni6pyh) | 3:08 | 2022-07-01 |  |
+| [Small Talk](https://open.spotify.com/track/2up2rf3OEktoapyXEzxhMa) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Handle with Care](https://open.spotify.com/album/05hWw0s7A5YHErAUE3OMXu) | 3:08 | 2022-08-12 |  |
+| [Small Talk](https://open.spotify.com/track/5J17jC78SZXMPfcoCvs0Uk) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Small Talk](https://open.spotify.com/album/7iuROt2yxUMHIrFFni6pyh) | 3:08 | 2022-07-01 | 2022-08-31 |
 | [Small Things](https://open.spotify.com/track/2kKGKGT7YySUdJ9s6SFzwD) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Small Things](https://open.spotify.com/album/33WitbRUYLqnDU2EYxAY4Z) | 2:57 | 2022-03-18 | 2022-06-04 |
 | [So My Darling \- Acoustic](https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling \(Acoustic\)](https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L) | 3:48 | 2022-02-18 | 2022-07-23 |
 | [Some friends and a place to call home](https://open.spotify.com/track/0zzcjPRxa26NDyex0GoJs2) | [Mōzi](https://open.spotify.com/artist/5w603RhGuKjuDtIlkQt3E4) | [Some friends and a place to call home](https://open.spotify.com/album/6LObxZbQLxl6dBVRfzVAFm) | 3:07 | 2022-01-14 | 2022-03-12 |

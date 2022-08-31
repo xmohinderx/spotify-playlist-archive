@@ -4,7 +4,7 @@
 
 > Uma seleção de novos artistas da cena brasileira que você precisa conhecer\.  Foto: YASSIQ Arte: Isu Kim
 
-159 songs - 8 hr 36 min - [published](https://open.spotify.com/playlist/67GFnJVXnyWY0MjhTSXEEJ)
+160 songs - 8 hr 39 min - [published](https://open.spotify.com/playlist/67GFnJVXnyWY0MjhTSXEEJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Pedra Preta](https://open.spotify.com/track/53AjZ7qqYQerJHxuPyZyOq) | [Josy.Anne](https://open.spotify.com/artist/5rdOdB9NEcJP2azuJI8cNH) | [Mozamba](https://open.spotify.com/album/1Bowmic2a700xN2Np4T3hS) | 4:45 | 2022-01-21 |  |
 | [Pensando em Mim](https://open.spotify.com/track/1uEwqigJMPy6jwdoO9n2Xd) | [Sandyalê](https://open.spotify.com/artist/0S2198EHOgRJ1k1A8pnp3v) | [Desapego](https://open.spotify.com/album/1SkhJ5w2ZTxXXC37NIMgJU) | 3:27 | 2022-01-07 | 2022-08-20 |
 | [Perdidão](https://open.spotify.com/track/3WhmWO1hQYOl3xBqiSSqPx) | [Pri Pach](https://open.spotify.com/artist/0HjP0FywphjmwI2T2Pcy2H) | [Perdidão](https://open.spotify.com/album/64O18RVul0ZJ5pEMvcB4zc) | 2:34 | 2022-08-19 |  |
-| [Perfume Do Meu Ex](https://open.spotify.com/track/5BfCUFvuUJKc7gGtOGTxdi) | [Yasmin Gomlevsky](https://open.spotify.com/artist/4X1EvqIQvKsc2v6jstmV6A) | [Perfume Do Meu Ex](https://open.spotify.com/album/7lGwGVvB6s8jOy5UFwhxBD) | 2:17 | 2022-01-07 |  |
+| [Perfume Do Meu Ex](https://open.spotify.com/track/5BfCUFvuUJKc7gGtOGTxdi) | [Yasmin Gomlevsky](https://open.spotify.com/artist/4X1EvqIQvKsc2v6jstmV6A) | [Perfume Do Meu Ex](https://open.spotify.com/album/7lGwGVvB6s8jOy5UFwhxBD) | 2:17 | 2022-01-07 | 2022-08-31 |
 | [Pessoa que Fala](https://open.spotify.com/track/47r0MpvXwNIHjYR8JYFKYR) | [Taco de Golfe](https://open.spotify.com/artist/6holqe1VBHmQuaubxSSSNB) | [Pessoa que Fala](https://open.spotify.com/album/4wWPEZIoIena0F5xkAUQTc) | 2:43 | 2022-01-07 | 2022-08-20 |
 | [Plano Perfeito](https://open.spotify.com/track/6M85C6Rbmuftj2S3wyndQS) | [Ian Medeiros](https://open.spotify.com/artist/6NTsJGOS7l7yWJh5IOSn94) | [Varanda](https://open.spotify.com/album/16vCNvwG9Rj4dC8N8rRokI) | 2:36 | 2022-01-07 |  |
 | [Pra Clarear](https://open.spotify.com/track/25ebro8NKryaVqrOlc1g6y) | [Mariar](https://open.spotify.com/artist/1GxFLzohopngGrIaA5LcTQ), [Ryan](https://open.spotify.com/artist/64JsoKeKEoDHfs6hUxCo5x) | [Pra Clarear](https://open.spotify.com/album/4bwxYx09p4pJEUmaDXal2d) | 3:17 | 2022-04-15 |  |
@@ -151,6 +151,7 @@
 | [Tempero](https://open.spotify.com/track/0vNbioi4jKWXBgLKbKvL0I) | [Sofia Gayoso](https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG) | [Tempero](https://open.spotify.com/album/0DHNsUcFFnOd9Zz12mSNNZ) | 3:12 | 2022-01-07 |  |
 | [Terra](https://open.spotify.com/track/2vGZLRXOYIUJn89wKqLeon) | [Virgem](https://open.spotify.com/artist/79ZwEJ4yVmHY3KMpkf2QRh) | [Terra](https://open.spotify.com/album/5ecbXccsJwRfTgv0H53bGP) | 3:26 | 2022-04-15 | 2022-05-28 |
 | [Toda Rabadinha](https://open.spotify.com/track/0F6IvU6dxaEf8Z9PSVljSl) | [Maria Ma](https://open.spotify.com/artist/5j7SMH5FMSDxpcw29nJRvZ) | [Toda Rabadinha](https://open.spotify.com/album/3g7UnIxeGOJr0PGkRuhXRb) | 2:52 | 2022-01-14 |  |
+| [Toda Vez Que Tu Sorri](https://open.spotify.com/track/1HL93ZEvMOgdVpyKEzJgCu) | [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp) | [Toda Vez Que Tu Sorri](https://open.spotify.com/album/3VRVFkzukbFap8CCzW21dd) | 2:45 | 2022-08-26 |  |
 | [Trancado](https://open.spotify.com/track/3O4FZv6i5sQvsGj4qfD50W) | [TOLENTINO](https://open.spotify.com/artist/3PMuzPH1ybLdzHnZFumKLZ) | [Trancado](https://open.spotify.com/album/5WxxhBMJXa3xDCtzI86sAf) | 2:56 | 2022-08-12 |  |
 | [Transtornos](https://open.spotify.com/track/57FgLEK6p7HdNXitdxfVSW) | [Pedro Bala e Os Holofotes](https://open.spotify.com/artist/3IVu27tS3rMSVzmhaJcZO8) | [Transtornos](https://open.spotify.com/album/2abVnlYhTgRubzTKcEOvHa) | 3:19 | 2022-04-01 |  |
 | [Troca de Carícias](https://open.spotify.com/track/5w7X04lpO9KZRIm9cUDg7F) | [UTOPIXXXTA](https://open.spotify.com/artist/1NsBWj4SN51iyKbOfzRnu5) | [Troca de Carícias](https://open.spotify.com/album/7pVNPGWjpePZYkL0cYeklZ) | 2:44 | 2022-04-29 |  |

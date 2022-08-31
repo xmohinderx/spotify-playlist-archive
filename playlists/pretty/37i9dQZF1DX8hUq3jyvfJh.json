@@ -1,12 +1,12 @@
 {
   "description": "Mari Fernandez e mais mulheres para serem ouvidas no m\u00e1ximo volume.",
-  "num_followers": 128166,
+  "num_followers": 128255,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ5NTYwMCwwMDAwMDAwMGEwMzY1M2QyYmYwZmRmM2U0ZDM2MjAwNTI3ZmMzYzJl",
+  "snapshot_id": "MTY1OTQ5NTYwMCwwMDAwMDAwMGQxZDgzMzQ5YWE5ZDMyOTZjMTgwN2QxNzYzMDc1YjY0",
   "tracks": [
     {
       "added_at": "2022-08-03 03:00:00",
@@ -275,22 +275,6 @@
     {
       "added_at": "2022-08-03 03:00:00",
       "album": {
-        "name": "Baseado em Fatos Reais, Ep. 01 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2F1IlArMVL10Uc8BQ4Po3E"
-      },
-      "artists": [
-        {
-          "name": "Naiara Azevedo",
-          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
-        }
-      ],
-      "duration_ms": 161834,
-      "name": "Triscou J\u00e1 Foi - Ao Vivo",
-      "url": "https://open.spotify.com/track/7cxum22Z75BDS2DTkTz2Ll"
-    },
-    {
-      "added_at": "2022-08-03 03:00:00",
-      "album": {
         "name": "Ainda N\u00e3o T\u00f4 Pronta (Ao Vivo No Casa Filtr)",
         "url": "https://open.spotify.com/album/7h71zpFKYayNlr2sRGSf00"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 145472,
       "name": "Ainda N\u00e3o T\u00f4 Pronta - Ao Vivo No Casa Filtr",
       "url": "https://open.spotify.com/track/0ZBQ5PAD9XjUJOc1VxRQri"
+    },
+    {
+      "added_at": "2022-08-03 03:00:00",
+      "album": {
+        "name": "Baseado em Fatos Reais, Ep. 01 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2F1IlArMVL10Uc8BQ4Po3E"
+      },
+      "artists": [
+        {
+          "name": "Naiara Azevedo",
+          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
+        }
+      ],
+      "duration_ms": 161834,
+      "name": "Triscou J\u00e1 Foi - Ao Vivo",
+      "url": "https://open.spotify.com/track/7cxum22Z75BDS2DTkTz2Ll"
     },
     {
       "added_at": "2022-08-03 03:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-08-03 03:00:00",
       "album": {
-        "name": "Essa Conta N\u00e3o Fecha (Ep. Inverso)",
-        "url": "https://open.spotify.com/album/6Oi6FNT4RzOOjKFDBSrXuz"
-      },
-      "artists": [
-        {
-          "name": "Suellen & Francielly",
-          "url": "https://open.spotify.com/artist/52WZ6GkSnEZxJ5iZUGBVGm"
-        }
-      ],
-      "duration_ms": 156140,
-      "name": "Essa Conta N\u00e3o Fecha (Ep. Inverso)",
-      "url": "https://open.spotify.com/track/01O7f0N2slitGFBcuBuIZM"
-    },
-    {
-      "added_at": "2022-08-03 03:00:00",
-      "album": {
         "name": "May & Karen em Goi\u00e2nia",
         "url": "https://open.spotify.com/album/3eTxrL0EnUdm3JkNrqv30U"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 160234,
       "name": "Sinto Muito",
       "url": "https://open.spotify.com/track/13otgR4JFCnq6xIhOw7X3z"
+    },
+    {
+      "added_at": "2022-08-03 03:00:00",
+      "album": {
+        "name": "Essa Conta N\u00e3o Fecha (Ep. Inverso)",
+        "url": "https://open.spotify.com/album/6Oi6FNT4RzOOjKFDBSrXuz"
+      },
+      "artists": [
+        {
+          "name": "Suellen & Francielly",
+          "url": "https://open.spotify.com/artist/52WZ6GkSnEZxJ5iZUGBVGm"
+        }
+      ],
+      "duration_ms": 156140,
+      "name": "Essa Conta N\u00e3o Fecha (Ep. Inverso)",
+      "url": "https://open.spotify.com/track/01O7f0N2slitGFBcuBuIZM"
     },
     {
       "added_at": "2022-08-03 03:00:00",
@@ -791,18 +791,18 @@
     {
       "added_at": "2022-08-03 03:00:00",
       "album": {
-        "name": "Sofrendo um Bocado",
-        "url": "https://open.spotify.com/album/51L5ZbpSWf3Y5wNNuTkGhJ"
+        "name": "Fragmentos (ao Vivo)",
+        "url": "https://open.spotify.com/album/149AnX7PBt7XElzv4UMQFp"
       },
       "artists": [
         {
-          "name": "Jessica Lima",
-          "url": "https://open.spotify.com/artist/5UUKr7L64HJycinKoaKeoj"
+          "name": "May & Karen",
+          "url": "https://open.spotify.com/artist/2yAseb2cBbgnMELX4d3xUe"
         }
       ],
-      "duration_ms": 165604,
-      "name": "Sofrendo um Bocado",
-      "url": "https://open.spotify.com/track/6z0pA7HmBoB4w6cdoqQi78"
+      "duration_ms": 169658,
+      "name": "A de Casa Ou a da Rua - Ao Vivo",
+      "url": "https://open.spotify.com/track/4V5HNwTzePi26vyjZ3qAzO"
     },
     {
       "added_at": "2022-08-03 03:00:00",
@@ -823,18 +823,18 @@
     {
       "added_at": "2022-08-03 03:00:00",
       "album": {
-        "name": "Fragmentos (ao Vivo)",
-        "url": "https://open.spotify.com/album/149AnX7PBt7XElzv4UMQFp"
+        "name": "Sofrendo um Bocado",
+        "url": "https://open.spotify.com/album/51L5ZbpSWf3Y5wNNuTkGhJ"
       },
       "artists": [
         {
-          "name": "May & Karen",
-          "url": "https://open.spotify.com/artist/2yAseb2cBbgnMELX4d3xUe"
+          "name": "Jessica Lima",
+          "url": "https://open.spotify.com/artist/5UUKr7L64HJycinKoaKeoj"
         }
       ],
-      "duration_ms": 169658,
-      "name": "A de Casa Ou a da Rua - Ao Vivo",
-      "url": "https://open.spotify.com/track/4V5HNwTzePi26vyjZ3qAzO"
+      "duration_ms": 165604,
+      "name": "Sofrendo um Bocado",
+      "url": "https://open.spotify.com/track/6z0pA7HmBoB4w6cdoqQi78"
     }
   ],
   "unique_name": "EQUAL Brasil",

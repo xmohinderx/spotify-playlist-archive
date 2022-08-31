@@ -1,12 +1,12 @@
 {
   "description": "The Mills Brothers, The Andrews Sisters and other classic vocal groups.",
-  "num_followers": 1195,
+  "num_followers": 1196,
   "original_name": "Close Harmony Vocals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5NTc0OSwwMDAwMDAwMGZlNWNmMTkxODIxNTJlMDc3YzMxNzgyZGE1NzBjMDc5",
+  "snapshot_id": "MTY0ODQ5NTc0OSwwMDAwMDAwMDNkZTAxYzNiMmZlMzVjYTVjNjBkYjA4OGJmYTllYzcx",
   "tracks": [
     {
       "added_at": "2020-08-17 22:49:59",
@@ -663,22 +663,6 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "Jump & Jive 'Til One O'Clock - Anthology, Vol. 2",
-        "url": "https://open.spotify.com/album/3csDnkhImGwBZBgDuYkZr9"
-      },
-      "artists": [
-        {
-          "name": "The Delta Rhythm Boys",
-          "url": "https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF"
-        }
-      ],
-      "duration_ms": 157826,
-      "name": "Ain't Gonna Worry 'Bout a Soul",
-      "url": "https://open.spotify.com/track/2Dm4H3EH6slgSUiOTJE3gg"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
         "name": "Imagination",
         "url": "https://open.spotify.com/album/0N0IsbV6VEvnx6e6gmD9Qb"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 171960,
       "name": "Early Autumn",
       "url": "https://open.spotify.com/track/5st46QqB3wCTdFPUso9lll"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "Jump & Jive 'Til One O'Clock - Anthology, Vol. 2",
+        "url": "https://open.spotify.com/album/3csDnkhImGwBZBgDuYkZr9"
+      },
+      "artists": [
+        {
+          "name": "The Delta Rhythm Boys",
+          "url": "https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF"
+        }
+      ],
+      "duration_ms": 157826,
+      "name": "Ain't Gonna Worry 'Bout a Soul",
+      "url": "https://open.spotify.com/track/2Dm4H3EH6slgSUiOTJE3gg"
     },
     {
       "added_at": "2020-08-17 22:49:59",

@@ -1,12 +1,12 @@
 {
   "description": "A classic mix of pop, rock and folk hits from decades past.",
-  "num_followers": 870305,
+  "num_followers": 870412,
   "original_name": "Good Times, Great Oldies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA0ODgwOSwwMDAwMDAwMDBmNzMwZjk0NzU0ZjkyZTZkMmNlMzUzMzBhMWVmNDBk",
+  "snapshot_id": "MTY1NzA0ODgwOSwwMDAwMDAwMDNkMmU2N2I4Zjc4NDU2NjE0YTBjZjUyNGQ0ZWU4YWIy",
   "tracks": [
     {
       "added_at": "2021-01-06 18:39:03",
@@ -511,22 +511,6 @@
     {
       "added_at": "2021-01-06 18:39:03",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/51kF3pqbherdGJhcwKdmjC"
-      },
-      "artists": [
-        {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
-        }
-      ],
-      "duration_ms": 288506,
-      "name": "Ramblin' Man",
-      "url": "https://open.spotify.com/track/5cfYurP1XKldMBtvBBJiTs"
-    },
-    {
-      "added_at": "2021-01-06 18:39:03",
-      "album": {
         "name": "Nights Are Forever",
         "url": "https://open.spotify.com/album/1lAMkHFW0e51taMt34LUQ2"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 159106,
       "name": "I'd Really Love to See You Tonight",
       "url": "https://open.spotify.com/track/2r008pcfVYc0zgQvSRqUJE"
+    },
+    {
+      "added_at": "2021-01-06 18:39:03",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/51kF3pqbherdGJhcwKdmjC"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "duration_ms": 288506,
+      "name": "Ramblin' Man",
+      "url": "https://open.spotify.com/track/5cfYurP1XKldMBtvBBJiTs"
     },
     {
       "added_at": "2021-01-06 18:39:03",

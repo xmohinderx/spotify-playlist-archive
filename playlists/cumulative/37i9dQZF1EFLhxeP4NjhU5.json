@@ -1366,6 +1366,24 @@
     },
     {
       "album": {
+        "name": "La Llevo Al Cielo",
+        "url": "https://open.spotify.com/album/0M0ULIaP7cDdO9DpE06JwU"
+      },
+      "artists": [
+        {
+          "name": "Kallde \"El Rey Del Placer\"",
+          "url": "https://open.spotify.com/artist/2KQZ7yr0nr7NphqCy7QHRR"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224316,
+      "name": "La Llevo Al Cielo",
+      "url": "https://open.spotify.com/track/2tzrgCbD9yRrWlfWddf2ku"
+    },
+    {
+      "album": {
         "name": "El Ni\u00f1o",
         "url": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
       },

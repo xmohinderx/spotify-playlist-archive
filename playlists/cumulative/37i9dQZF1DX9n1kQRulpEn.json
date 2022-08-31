@@ -1535,7 +1535,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 305655,
       "name": "Night Drive with Ornette",
       "url": "https://open.spotify.com/track/4jLv4eukwFEYArA4CehonQ"
@@ -2519,6 +2519,24 @@
       "duration_ms": 419160,
       "name": "The Wobbler",
       "url": "https://open.spotify.com/track/7aiZS7kjkHTtpSZudOHYQe"
+    },
+    {
+      "album": {
+        "name": "This Here Is Bobby Timmons",
+        "url": "https://open.spotify.com/album/2kWl3HOLorETEmR8GBWrHX"
+      },
+      "artists": [
+        {
+          "name": "Bobby Timmons",
+          "url": "https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212200,
+      "name": "This Here",
+      "url": "https://open.spotify.com/track/77tXih9Z5Jid24z21GOJE5"
     },
     {
       "album": {

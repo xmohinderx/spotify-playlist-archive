@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 
 > Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  We The Kingdom
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,725 likes - 99 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,742 likes - 99 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 24 | [You Can Rest](https://open.spotify.com/track/4ZeHjRfWTpESYD0XarSXit) | [Hillary Scott](https://open.spotify.com/artist/0Sk6yoUQnccty5iMhVhz9D) | [You Can Rest](https://open.spotify.com/album/6fsxOCp5oNmARaxQ1lVymF) | 4:48 |
 | 25 | [No One Loves Me Like You Do](https://open.spotify.com/track/2eHacqnJZnsfqEqcVyQdW2) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [No One Loves Me Like You Do](https://open.spotify.com/album/4AeePvM25cWPs8tkjpSAaU) | 3:05 |
 | 26 | [Good Feeling \- Radio Version](https://open.spotify.com/track/7L3dULJxns4VDBBgItRVR6) | [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [Good Feeling \(Radio Version\)](https://open.spotify.com/album/3kT4i3tkyT8FmcuAYUPJjJ) | 2:41 |
-| 27 | [Wide Awake](https://open.spotify.com/track/0X5R33mNmGbNJcaupI4z2W) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Wide Awake](https://open.spotify.com/album/68V8xLeZJHQHqRFHKqsjjk) | 3:31 |
-| 28 | [Good Mood](https://open.spotify.com/track/0he118W7JdHcfV0ooMYt7X) | [RICHLIN](https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb) | [Good Mood](https://open.spotify.com/album/6p5sAqadaOyuHTiuhGujJx) | 3:11 |
+| 27 | [Good Mood](https://open.spotify.com/track/0he118W7JdHcfV0ooMYt7X) | [RICHLIN](https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb) | [Good Mood](https://open.spotify.com/album/6p5sAqadaOyuHTiuhGujJx) | 3:11 |
+| 28 | [Wide Awake](https://open.spotify.com/track/0X5R33mNmGbNJcaupI4z2W) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Wide Awake](https://open.spotify.com/album/68V8xLeZJHQHqRFHKqsjjk) | 3:31 |
 | 29 | [Jesus Did](https://open.spotify.com/track/1HhUXOuE3wbuvXk00AaOSj) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [Jesus Did](https://open.spotify.com/album/1MUu3CWuxuRfmyPfi7SU3b) | 3:23 |
 | 30 | [Good Lord](https://open.spotify.com/track/1Jy3KTQbhHHr7DEc72oys2) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Good Lord](https://open.spotify.com/album/6UvRiid9Mlguj4Lt7oYfeF) | 3:19 |
-| 31 | [Already Blessed](https://open.spotify.com/track/6EVBja1SChiDywjTRfS1Rk) | [Chidiya Ohiagu](https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp) | [Already Blessed](https://open.spotify.com/album/302vTUIId9Yy7XVI42gGiY) | 3:48 |
-| 32 | [This Is the Day](https://open.spotify.com/track/7irqgbDHvcg4hQwhIR260Y) | [CityAlight](https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg) | [This Is the Day](https://open.spotify.com/album/29KW3MYzgYG4RxdqXPVoP2) | 5:25 |
+| 31 | [This Is the Day](https://open.spotify.com/track/7irqgbDHvcg4hQwhIR260Y) | [CityAlight](https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg) | [This Is the Day](https://open.spotify.com/album/29KW3MYzgYG4RxdqXPVoP2) | 5:25 |
+| 32 | [Already Blessed](https://open.spotify.com/track/6EVBja1SChiDywjTRfS1Rk) | [Chidiya Ohiagu](https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp) | [Already Blessed](https://open.spotify.com/album/302vTUIId9Yy7XVI42gGiY) | 3:48 |
 | 33 | [In You](https://open.spotify.com/track/1oaifckP3fuz18gjdB1m9z) | [Iveth Luna](https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv) | [In You](https://open.spotify.com/album/6CGOHFD1cO5u0jldukqYNO) | 3:25 |
 | 34 | [Revival](https://open.spotify.com/track/5UC1B9KaUWKFUYNFrklGxQ) | [Daniel Doss](https://open.spotify.com/artist/5KUNK8C0taPJnUD0xvPQaC) | [Revival](https://open.spotify.com/album/350DvgUbR83wdpqAIEAUeU) | 3:29 |
 | 35 | [No Matter What](https://open.spotify.com/track/5zlWZifhZcoFGgMdXWycFw) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [Jordan St\. Cyr](https://open.spotify.com/album/3mDTBxxt06UjSoaNj2BpcK) | 3:08 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 42 | [Loved By You](https://open.spotify.com/track/45HtUmhWSfLEBuFl68t4wl) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Loved By You](https://open.spotify.com/album/6LrvY8QbN1dDfvc68cGFtu) | 3:13 |
 | 43 | [Still](https://open.spotify.com/track/6REtbD1sDtPfL788VWoFZ5) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [Still](https://open.spotify.com/album/0JQnzBVhMcoqXnUV83l3rl) | 3:30 |
 | 44 | [Well Done](https://open.spotify.com/track/5b3I2jCJm3FklJ5ui1uU77) | [Caitie Hurst](https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b) | [Well Done](https://open.spotify.com/album/4HwR3J7H9aOLHhSGOGhAoq) | 3:42 |
-| 45 | [Never Not God](https://open.spotify.com/track/6zWdaANy7zVHGPqzv1fZeT) | [The Sound](https://open.spotify.com/artist/3bsZZ1rEW7u6BqsIorxUPy) | [God Is Real](https://open.spotify.com/album/15WYTz5xlfGzNacurKTrqW) | 2:57 |
-| 46 | [HELP!](https://open.spotify.com/track/0NYrbgMEKFplv2l4Rzv4hN) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [HELP!](https://open.spotify.com/album/0sVketRXWDWlozs5jNopci) | 3:03 |
+| 45 | [HELP!](https://open.spotify.com/track/0NYrbgMEKFplv2l4Rzv4hN) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [HELP!](https://open.spotify.com/album/0sVketRXWDWlozs5jNopci) | 3:03 |
+| 46 | [Never Not God](https://open.spotify.com/track/6zWdaANy7zVHGPqzv1fZeT) | [The Sound](https://open.spotify.com/artist/3bsZZ1rEW7u6BqsIorxUPy) | [God Is Real](https://open.spotify.com/album/15WYTz5xlfGzNacurKTrqW) | 2:57 |
 | 47 | [Milk & Honey](https://open.spotify.com/track/56JGnyYpo9I2g8yOfgEt4p) | [Danielle Apicella](https://open.spotify.com/artist/53l3aH0gXYBLyTVM87aYw5) | [Sensibilities](https://open.spotify.com/album/2OE5HEsnnFAKghpqqEkmpl) | 2:26 |
 | 48 | [I See Heaven On Earth](https://open.spotify.com/track/6Np39XMxggFHRDG8OUMEab) | [Jim Sonefeld](https://open.spotify.com/artist/0KNodVzuH2zoT1tglc3C9k) | [I See Heaven On Earth](https://open.spotify.com/album/3irmMXTzkzVkctuv2mMJZz) | 3:59 |
 | 49 | [Church](https://open.spotify.com/track/5c5Cn75uLZbYsGHVbDHVHD) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Church](https://open.spotify.com/album/30cPB00t2FzvXPQLtSNJF8) | 2:49 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 98 | [King of Love](https://open.spotify.com/track/5shWIh3eSLiACdpeN9zWJe) | [Doug Mathis](https://open.spotify.com/artist/3eYyzVjQv651odVDdtAfV9) | [King of Love](https://open.spotify.com/album/4MQY7rqK8vJK6wLiDuQb74) | 3:52 |
 | 99 | [God Who Saves](https://open.spotify.com/track/4uIlq5zbKVweM4MM94orVe) | [Shamina](https://open.spotify.com/artist/2fgTVQWUfT8Mz9B9baFjMb) | [From the Ballroom](https://open.spotify.com/album/5H7qkvj9OItrJcvT4r2XxN) | 4:50 |
 
-Snapshot ID: `MTY1MzY3NDg2NCwwMDAwMDAwMGFiZGM0MmI5NGE4NWVhMDU1MjhjMjU0NGUwOTZlYTdl`
+Snapshot ID: `MTY1MzY3NDg2NCwwMDAwMDAwMGE5NzM1MWI2NmY1OGI5Y2UzODFlMzJlMDQ0NjQyMDcw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 
 > A feel\-good soulful house  and disco selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,037 likes - 60 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,781 likes - 60 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 37 | [Seventies](https://open.spotify.com/track/0HFUOO7GkVBUCYz1u2IcBM) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Seventies](https://open.spotify.com/album/6snRQ9zw7mrK0l0vPyY8EJ) | 3:16 |
 | 38 | [In My Arms](https://open.spotify.com/track/7f6a2LWROn1HQlG97hDIg6) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [In My Arms](https://open.spotify.com/album/3WALyLgFg8b8r4y31MQRZ0) | 3:25 |
 | 39 | [Missing \(feat\. Andreya Triana\)](https://open.spotify.com/track/1T6aL6TE96yG0iFlg9iKp5) | [The Vision](https://open.spotify.com/artist/33nwA09TKiO0nWmUrI3E1I), [Ben Westbeech](https://open.spotify.com/artist/0qP3Irw4a8UFvXv6KQf3XM), [Kon](https://open.spotify.com/artist/4JbrK7cFQmSZ7tKBUbV3zi), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [The Vision](https://open.spotify.com/album/7G3RYP4Wc2vtFHihpR8HXN) | 4:41 |
-| 40 | [Living on Video \- Claptone Remix](https://open.spotify.com/track/2c8WUPaH87mh35xf8i0SwG) | [Trans\-X](https://open.spotify.com/artist/4JyfkCTV9FO5Yipee3f9EI), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Living on Video \(Claptone Remix\)](https://open.spotify.com/album/1KXL9ctFWXGDPEAPCx5Qbp) | 3:34 |
-| 41 | [Come Back](https://open.spotify.com/track/1l0MYkKzmFoBzlS9iZmvAu) | [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [Come Back](https://open.spotify.com/album/1cXkPZuXwZLqHZdGBlKgWi) | 4:37 |
+| 40 | [Come Back](https://open.spotify.com/track/1l0MYkKzmFoBzlS9iZmvAu) | [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [Come Back](https://open.spotify.com/album/1cXkPZuXwZLqHZdGBlKgWi) | 4:37 |
+| 41 | [Living on Video \- Claptone Remix](https://open.spotify.com/track/2c8WUPaH87mh35xf8i0SwG) | [Trans\-X](https://open.spotify.com/artist/4JyfkCTV9FO5Yipee3f9EI), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Living on Video \(Claptone Remix\)](https://open.spotify.com/album/1KXL9ctFWXGDPEAPCx5Qbp) | 3:34 |
 | 42 | [Everything Happens for a Reason](https://open.spotify.com/track/4lquVanY9QPfUzlKhJe299) | [Pool Attendant](https://open.spotify.com/artist/5f9BDhfsoR50sN9GvmCCur) | [Good Times](https://open.spotify.com/album/2meqcfY7Xxtvpt5YgNKQbc) | 3:09 |
 | 43 | [Disco Hearts](https://open.spotify.com/track/5XZgARVFrnVsMThGk0CFTl) | [Illyus & Barrientos](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C), [Laura Davie](https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f) | [Disco Hearts](https://open.spotify.com/album/6Vo4WqFrhsw3syolQR4nAg) | 3:01 |
 | 44 | [Love the Way \(Happiness\)](https://open.spotify.com/track/1okhlrAG0YsKTx9PpPprXv) | [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j), [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ), [LUISAH](https://open.spotify.com/artist/2jbmRtqNLORtXQWb8s9RFG) | [Love the Way \(Happiness\)](https://open.spotify.com/album/4qCfn7HrbThJdvhzh66g8R) | 3:35 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 59 | [All Love](https://open.spotify.com/track/5CYtyWsyAEmPfn6OcbG921) | [2fox](https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0), [Nandi](https://open.spotify.com/artist/2gGDpCPFlzPUCUyrF8jXMH) | [All Love](https://open.spotify.com/album/01BTDb8xUH6RDHrVpfVANB) | 5:30 |
 | 60 | [Tonight](https://open.spotify.com/track/4BerEwKV2FDiw50F7014Ik) | [CHEBO](https://open.spotify.com/artist/3pVkPq0yX263AX3usK5HXz) | [Tonight](https://open.spotify.com/album/5eUitT6YJ0tKPE7VflH3HY) | 3:12 |
 
-Snapshot ID: `MTY0NzAxNTcyNSwwMDAwMDAwMDQ3MWZjMTJmMTNkMmNkZWY0Y2MwZjhjMjYxOGY4ZmIw`
+Snapshot ID: `MTY0NzAxNTcyNSwwMDAwMDAwMGEwMWJhZjk5N2VlZWYyYjZiNGQwN2IxOWNmNTc0ZmZm`

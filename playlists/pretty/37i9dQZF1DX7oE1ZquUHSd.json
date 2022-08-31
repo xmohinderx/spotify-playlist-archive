@@ -1,12 +1,12 @@
 {
   "description": "El poder real del Hip Hop latinoamericano y espa\u00f1ol. Foto: Cartel de Santa",
-  "num_followers": 78367,
+  "num_followers": 78546,
   "original_name": "Cl\u00e1sicos del Hip Hop Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNzA5NDA5NywwMDAwMDAwMDc0YTM3MmQwM2NlYmI4N2FlNmRlODg4OWI2YzcwYzJh",
+  "snapshot_id": "MTYzNzA5NDA5NywwMDAwMDAwMGU2ZmI4M2QyMjRkNzc2OGE0M2I3NDcxZGM0NzI1OWEz",
   "tracks": [
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
+        "name": "Esperanza",
+        "url": "https://open.spotify.com/album/2pMJmuVitL0aZ1FdLp6jvg"
+      },
+      "artists": [
+        {
+          "name": "Bardero$",
+          "url": "https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G"
+        }
+      ],
+      "duration_ms": 176773,
+      "name": "Esperanza",
+      "url": "https://open.spotify.com/track/7MXNsAVPAK4pb0AeWvvPFc"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
         "name": "Los Grandes \u00c9xitos En Espa\u00f1ol (Spanish Greatest Hits)",
         "url": "https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ"
       },
@@ -1579,18 +1595,18 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Esperanza",
-        "url": "https://open.spotify.com/album/2pMJmuVitL0aZ1FdLp6jvg"
+        "name": "Servicios Ambulatorioz",
+        "url": "https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ"
       },
       "artists": [
         {
-          "name": "Bardero$",
-          "url": "https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G"
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
         }
       ],
-      "duration_ms": 176773,
-      "name": "Esperanza",
-      "url": "https://open.spotify.com/track/7MXNsAVPAK4pb0AeWvvPFc"
+      "duration_ms": 199213,
+      "name": "Tararea",
+      "url": "https://open.spotify.com/track/5TiXw4jvzMAQsWjCpT61TB"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1607,22 +1623,6 @@
       "duration_ms": 245333,
       "name": "Desahogo",
       "url": "https://open.spotify.com/track/2sG0DhUyomwiWk5gcMUV7Z"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
-        "name": "Servicios Ambulatorioz",
-        "url": "https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "duration_ms": 199213,
-      "name": "Tararea",
-      "url": "https://open.spotify.com/track/5TiXw4jvzMAQsWjCpT61TB"
     },
     {
       "added_at": "2021-11-16 20:18:05",

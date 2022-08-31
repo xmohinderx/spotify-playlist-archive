@@ -1798,6 +1798,24 @@
     },
     {
       "album": {
+        "name": "Mercurio",
+        "url": "https://open.spotify.com/album/23r263kaH1Ph9D8vUTgY09"
+      },
+      "artists": [
+        {
+          "name": "Henry Gadacz",
+          "url": "https://open.spotify.com/artist/63iLnJN35mBx2YBZUNf8Sr"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134650,
+      "name": "Mercurio",
+      "url": "https://open.spotify.com/track/4ZmKxpk6LQQkhW8mwWiIPP"
+    },
+    {
+      "album": {
         "name": "Minuit",
         "url": "https://open.spotify.com/album/5gdYsIHo29QR7eX30KZosN"
       },

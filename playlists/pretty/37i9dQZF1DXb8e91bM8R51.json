@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 34783,
+  "num_followers": 34794,
   "original_name": "No corre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4Mjg2MCwwMDAwMDAwMGNkYzkxNzQ2MzM0ZDg3M2FlMDljZjdkMjc3MmFmNzU3",
+  "snapshot_id": "MTY2MTQ4Mjg2MCwwMDAwMDAwMGU4YmVlNDljYWQ2MDk3ZGJiMzIzYWZmNzRhNmU5NmZj",
   "tracks": [
     {
       "added_at": "2022-08-26 03:01:00",
@@ -343,6 +343,30 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
+        "name": "GOD DID",
+        "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 223232,
+      "name": "BEAUTIFUL (feat. Future & SZA)",
+      "url": "https://open.spotify.com/track/5kYSScXYOZYyi0fxramiW6"
+    },
+    {
+      "added_at": "2022-08-26 03:01:00",
+      "album": {
         "name": "Big 14 (feat. Offset & Moneybagg Yo)",
         "url": "https://open.spotify.com/album/4QjFj3RCLsh7x7mwdaaEfO"
       },
@@ -383,6 +407,22 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
+        "name": "The Infamous",
+        "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
+      },
+      "artists": [
+        {
+          "name": "Mobb Deep",
+          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+        }
+      ],
+      "duration_ms": 325506,
+      "name": "Shook Ones, Pt. II",
+      "url": "https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD"
+    },
+    {
+      "added_at": "2022-08-26 03:01:00",
+      "album": {
         "name": "Punk",
         "url": "https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW"
       },
@@ -407,18 +447,22 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "The Infamous",
-        "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
       },
       "artists": [
         {
-          "name": "Mobb Deep",
-          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
         }
       ],
-      "duration_ms": 325506,
-      "name": "Shook Ones, Pt. II",
-      "url": "https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD"
+      "duration_ms": 222497,
+      "name": "Father Time (feat. Sampha)",
+      "url": "https://open.spotify.com/track/28qA8y1sz0FTuSapsCxNOG"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -439,26 +483,6 @@
       "duration_ms": 212293,
       "name": "Se Acabo (feat. Method Man) - Remix",
       "url": "https://open.spotify.com/track/4F3AZKEJubvPsl0hBArVBW"
-    },
-    {
-      "added_at": "2022-08-26 03:01:00",
-      "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 222497,
-      "name": "Father Time (feat. Sampha)",
-      "url": "https://open.spotify.com/track/28qA8y1sz0FTuSapsCxNOG"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -499,30 +523,6 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "GOD DID",
-        "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
-      },
-      "artists": [
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 223232,
-      "name": "BEAUTIFUL (feat. Future & SZA)",
-      "url": "https://open.spotify.com/track/5kYSScXYOZYyi0fxramiW6"
-    },
-    {
-      "added_at": "2022-08-26 03:01:00",
-      "album": {
         "name": "F*CK LOVE",
         "url": "https://open.spotify.com/album/6RuwGwQcAureaOraKJNFQG"
       },
@@ -555,38 +555,6 @@
       "duration_ms": 193293,
       "name": "Tequila Shots",
       "url": "https://open.spotify.com/track/30KctD1WsHKTIYczXjip5a"
-    },
-    {
-      "added_at": "2022-08-26 03:01:00",
-      "album": {
-        "name": "The Marshall Mathers LP",
-        "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Xzibit",
-          "url": "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
-        },
-        {
-          "name": "Nate Dogg",
-          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
-        }
-      ],
-      "duration_ms": 288200,
-      "name": "Bitch Please II",
-      "url": "https://open.spotify.com/track/7lgvU7WnwcNZ8dbGUz8yhP"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -699,6 +667,38 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
+        "name": "The Marshall Mathers LP",
+        "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Xzibit",
+          "url": "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ],
+      "duration_ms": 288200,
+      "name": "Bitch Please II",
+      "url": "https://open.spotify.com/track/7lgvU7WnwcNZ8dbGUz8yhP"
+    },
+    {
+      "added_at": "2022-08-26 03:01:00",
+      "album": {
         "name": "ATLiens",
         "url": "https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0"
       },
@@ -715,18 +715,18 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "Do What I Want",
-        "url": "https://open.spotify.com/album/3vV1pBCY7hLtLo3jF11JfO"
+        "name": "Tyler Herro",
+        "url": "https://open.spotify.com/album/4Vd7lpztpJdmMt9hrLfXWe"
       },
       "artists": [
         {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 171826,
-      "name": "Do What I Want",
-      "url": "https://open.spotify.com/track/62tDpymKVSXEu0W3d4AMr9"
+      "duration_ms": 156497,
+      "name": "Tyler Herro",
+      "url": "https://open.spotify.com/track/4DuUwzP4ALMqpquHU0ltAB"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -751,6 +751,22 @@
       "duration_ms": 204434,
       "name": "[The Jackie] (with J. Cole & Lil Tjay)",
       "url": "https://open.spotify.com/track/2cny5OSTr2976U3o018GoV"
+    },
+    {
+      "added_at": "2022-08-26 03:01:00",
+      "album": {
+        "name": "Do What I Want",
+        "url": "https://open.spotify.com/album/3vV1pBCY7hLtLo3jF11JfO"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "duration_ms": 171826,
+      "name": "Do What I Want",
+      "url": "https://open.spotify.com/track/62tDpymKVSXEu0W3d4AMr9"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -799,22 +815,6 @@
       "duration_ms": 215000,
       "name": "Tell The Vision (feat. Kanye West & Pusha T)",
       "url": "https://open.spotify.com/track/2UwALqx6yOsXTFt7zRxnts"
-    },
-    {
-      "added_at": "2022-08-26 03:01:00",
-      "album": {
-        "name": "Tyler Herro",
-        "url": "https://open.spotify.com/album/4Vd7lpztpJdmMt9hrLfXWe"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 156497,
-      "name": "Tyler Herro",
-      "url": "https://open.spotify.com/track/4DuUwzP4ALMqpquHU0ltAB"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "Ay Caramba",
-        "url": "https://open.spotify.com/album/5Cla7ofc09ZmMLLFPguYmv"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 164436,
-      "name": "Ay Caramba",
-      "url": "https://open.spotify.com/track/057AXXbYFzwxq8tUdVS7Xn"
-    },
-    {
-      "added_at": "2022-08-26 03:01:00",
-      "album": {
         "name": "Flossin\u2019 (feat. YoungBoy Never Broke Again)",
         "url": "https://open.spotify.com/album/5SzQj9rNCNbXcp1jyr9LWb"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 168000,
       "name": "Flossin\u2019 (feat. YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/3zDMTxEANpj6hedyCrHXBg"
+    },
+    {
+      "added_at": "2022-08-26 03:01:00",
+      "album": {
+        "name": "Ay Caramba",
+        "url": "https://open.spotify.com/album/5Cla7ofc09ZmMLLFPguYmv"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 164436,
+      "name": "Ay Caramba",
+      "url": "https://open.spotify.com/track/057AXXbYFzwxq8tUdVS7Xn"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "Head High",
-        "url": "https://open.spotify.com/album/65KIgWKpqFbvMmH8QUkdUD"
+        "name": "Doctor's Advocate",
+        "url": "https://open.spotify.com/album/0GKZO3H9pNVgTuhwCJ7TJp"
       },
       "artists": [
         {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
         }
       ],
-      "duration_ms": 180826,
-      "name": "Head High",
-      "url": "https://open.spotify.com/track/1TUNcLZZImGkNlviSpQp6H"
+      "duration_ms": 251040,
+      "name": "Wouldn't Get Far",
+      "url": "https://open.spotify.com/track/39yRhjDdSTP4A7VehxBXDb"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "Doctor's Advocate",
-        "url": "https://open.spotify.com/album/0GKZO3H9pNVgTuhwCJ7TJp"
+        "name": "Head High",
+        "url": "https://open.spotify.com/album/65KIgWKpqFbvMmH8QUkdUD"
       },
       "artists": [
         {
-          "name": "The Game",
-          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
         }
       ],
-      "duration_ms": 251040,
-      "name": "Wouldn't Get Far",
-      "url": "https://open.spotify.com/track/39yRhjDdSTP4A7VehxBXDb"
+      "duration_ms": 180826,
+      "name": "Head High",
+      "url": "https://open.spotify.com/track/1TUNcLZZImGkNlviSpQp6H"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -1375,6 +1375,26 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
+        "name": "DRILLMATIC Heart vs. Mind",
+        "url": "https://open.spotify.com/album/2yBfRM9cxHgHb155SdDoWl"
+      },
+      "artists": [
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 233093,
+      "name": "Eazy (Feat. Kanye West)",
+      "url": "https://open.spotify.com/track/7CbHgNrlybV0uyP1wJINDd"
+    },
+    {
+      "added_at": "2022-08-26 03:01:00",
+      "album": {
         "name": "RUN",
         "url": "https://open.spotify.com/album/6zNJxFmILwoDTFYJqhQFIU"
       },
@@ -1391,22 +1411,6 @@
       "duration_ms": 233090,
       "name": "RUN [Feat. Young Thug]",
       "url": "https://open.spotify.com/track/4DSS2IhBFgW7MYyjkOOx68"
-    },
-    {
-      "added_at": "2022-08-26 03:01:00",
-      "album": {
-        "name": "Let It Breathe",
-        "url": "https://open.spotify.com/album/6tZVnffRGdPeTtONlgRVia"
-      },
-      "artists": [
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 204106,
-      "name": "Let It Breathe",
-      "url": "https://open.spotify.com/track/0sJgYuySEv6icDbfsrIXYD"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -1451,22 +1455,18 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "DRILLMATIC Heart vs. Mind",
-        "url": "https://open.spotify.com/album/2yBfRM9cxHgHb155SdDoWl"
+        "name": "Let It Breathe",
+        "url": "https://open.spotify.com/album/6tZVnffRGdPeTtONlgRVia"
       },
       "artists": [
         {
-          "name": "The Game",
-          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
         }
       ],
-      "duration_ms": 233093,
-      "name": "Eazy (Feat. Kanye West)",
-      "url": "https://open.spotify.com/track/7CbHgNrlybV0uyP1wJINDd"
+      "duration_ms": 204106,
+      "name": "Let It Breathe",
+      "url": "https://open.spotify.com/track/0sJgYuySEv6icDbfsrIXYD"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "Survivors Guilt",
-        "url": "https://open.spotify.com/album/5XGzCRfgCbpaMPLpDYvUNF"
-      },
-      "artists": [
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 352613,
-      "name": "Survivors Guilt",
-      "url": "https://open.spotify.com/track/5cEd8xWXyqhpuCDUXQOyE3"
-    },
-    {
-      "added_at": "2022-08-26 03:01:00",
-      "album": {
         "name": "Vinyl Days",
         "url": "https://open.spotify.com/album/39Pk4nMutY9mR59Z1n9BH1"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 282581,
       "name": "Vinyl Days (feat. DJ Premier)",
       "url": "https://open.spotify.com/track/4Red8fs87G5istv5L8S9kU"
+    },
+    {
+      "added_at": "2022-08-26 03:01:00",
+      "album": {
+        "name": "Survivors Guilt",
+        "url": "https://open.spotify.com/album/5XGzCRfgCbpaMPLpDYvUNF"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 352613,
+      "name": "Survivors Guilt",
+      "url": "https://open.spotify.com/track/5cEd8xWXyqhpuCDUXQOyE3"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
+        "name": "Good Movie",
+        "url": "https://open.spotify.com/album/3cNHTRSvsTSp0IjYQvygoB"
+      },
+      "artists": [
+        {
+          "name": "Pi\u2019erre Bourne",
+          "url": "https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M"
+        }
+      ],
+      "duration_ms": 185140,
+      "name": "Good Movie",
+      "url": "https://open.spotify.com/track/4leKMM9HGvo32ZcIGRafGS"
+    },
+    {
+      "added_at": "2022-08-26 03:01:00",
+      "album": {
         "name": "ANOTHER ONE",
         "url": "https://open.spotify.com/album/26y1j3uFW7kmEXT3ODkDCE"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 192417,
       "name": "ANOTHER ONE",
       "url": "https://open.spotify.com/track/2cO5gELmKXUeqliwT7DDvu"
-    },
-    {
-      "added_at": "2022-08-26 03:01:00",
-      "album": {
-        "name": "Child of God",
-        "url": "https://open.spotify.com/album/2vDhDijaeq5rZciPo0aQ7w"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 255486,
-      "name": "Child of God",
-      "url": "https://open.spotify.com/track/0oGl8U34a4tiAZPj5MMI2e"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -1759,18 +1759,18 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "Bodboy",
-        "url": "https://open.spotify.com/album/27dq8NifT3260FUbT6F2Gz"
+        "name": "Child of God",
+        "url": "https://open.spotify.com/album/2vDhDijaeq5rZciPo0aQ7w"
       },
       "artists": [
         {
-          "name": "Bobby Shmurda",
-          "url": "https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO"
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         }
       ],
-      "duration_ms": 142560,
-      "name": "Whole Brick",
-      "url": "https://open.spotify.com/track/1VS0Jl32hbO3LxlrR2aWar"
+      "duration_ms": 255486,
+      "name": "Child of God",
+      "url": "https://open.spotify.com/track/0oGl8U34a4tiAZPj5MMI2e"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -1791,6 +1791,22 @@
       "duration_ms": 239954,
       "name": "Insomniak (feat. Rick Ross)",
       "url": "https://open.spotify.com/track/0qdSK9Nr5OAvWzPA5OHxw7"
+    },
+    {
+      "added_at": "2022-08-26 03:01:00",
+      "album": {
+        "name": "Bodboy",
+        "url": "https://open.spotify.com/album/27dq8NifT3260FUbT6F2Gz"
+      },
+      "artists": [
+        {
+          "name": "Bobby Shmurda",
+          "url": "https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO"
+        }
+      ],
+      "duration_ms": 142560,
+      "name": "Whole Brick",
+      "url": "https://open.spotify.com/track/1VS0Jl32hbO3LxlrR2aWar"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -1823,22 +1839,6 @@
       "duration_ms": 281360,
       "name": "Because (feat. Joey Bada$$, Russ, and Dylan Cartlidge)",
       "url": "https://open.spotify.com/track/7ulKIiSeTO1P4kY6vh7RhV"
-    },
-    {
-      "added_at": "2022-08-26 03:01:00",
-      "album": {
-        "name": "Good Movie",
-        "url": "https://open.spotify.com/album/3cNHTRSvsTSp0IjYQvygoB"
-      },
-      "artists": [
-        {
-          "name": "Pi\u2019erre Bourne",
-          "url": "https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M"
-        }
-      ],
-      "duration_ms": 185140,
-      "name": "Good Movie",
-      "url": "https://open.spotify.com/track/4leKMM9HGvo32ZcIGRafGS"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -2183,6 +2183,22 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
+        "name": "Rice N Gravy - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/71DwI0KDjEE3svRPMTUnGU"
+      },
+      "artists": [
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        }
+      ],
+      "duration_ms": 159733,
+      "name": "Rice N Gravy - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/5yJRY9n8VlzqGzOHOZHCIA"
+    },
+    {
+      "added_at": "2022-08-26 03:01:00",
+      "album": {
         "name": "Troubles [Feat. T-Pain]",
         "url": "https://open.spotify.com/album/446vvjZgKLxPAnR0zciABe"
       },
@@ -2219,22 +2235,6 @@
       "duration_ms": 232053,
       "name": "My Favorite Song",
       "url": "https://open.spotify.com/track/6d6Rm6ZHVz8AkE28HkO8eM"
-    },
-    {
-      "added_at": "2022-08-26 03:01:00",
-      "album": {
-        "name": "Rice N Gravy - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/71DwI0KDjEE3svRPMTUnGU"
-      },
-      "artists": [
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        }
-      ],
-      "duration_ms": 159733,
-      "name": "Rice N Gravy - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/5yJRY9n8VlzqGzOHOZHCIA"
     },
     {
       "added_at": "2022-08-26 03:01:00",

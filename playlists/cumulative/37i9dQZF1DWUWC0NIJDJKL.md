@@ -4,7 +4,7 @@
 
 > Perfect sunshiney indie tracks for summer.
 
-216 songs - 12 hr 19 min - [published](https://open.spotify.com/playlist/47xZ4FtZZwbvh9aVuwnzRv)
+217 songs - 12 hr 22 min - [published](https://open.spotify.com/playlist/47xZ4FtZZwbvh9aVuwnzRv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Pay No Mind \(feat\. Passion Pit\)](https://open.spotify.com/track/1XT95SWe6U0nZmchAfZh2T) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc), [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Pay No Mind \(feat\. Passion Pit\)](https://open.spotify.com/album/2NkUuUsTmsrQd1IjkaLByE) | 4:09 | 2020-01-31 | 2022-06-12 |
 | [People Watching](https://open.spotify.com/track/4JeOesjcWWlprTAvucDSJX) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [People Watching](https://open.spotify.com/album/03HTFr18vhLwCLFq6kWHIw) | 2:38 | 2022-06-10 |  |
 | [Perfume](https://open.spotify.com/track/3Fn9orcpHw3TuqfB2NmZGC) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Pebble Brain](https://open.spotify.com/album/2d2QJv4OPOLS80tXaTCDsB) | 3:27 | 2022-06-10 | 2022-08-10 |
+| [Perfume](https://open.spotify.com/track/4OJC6NJCMyvjX0pENJhSrL) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Pebble Brain](https://open.spotify.com/album/5FjI8XVSj9YAmGAlZub7Bo) | 3:27 | 2022-08-23 |  |
 | [Phone Numbers](https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Phone Numbers](https://open.spotify.com/album/6RhSCF1Z3g95Q1rZWqpUdT) | 2:26 | 2022-06-10 |  |
 | [Plus](https://open.spotify.com/track/36ynI67Vq1Bz52vEIQMWyy) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Plus](https://open.spotify.com/album/0aflX0vk26M494NVMtaPyj) | 4:32 | 2020-01-31 | 2022-06-11 |
 | [Powa](https://open.spotify.com/track/1NjmSXMzvwoM3lHmDRcUfs) | [Tune\-Yards](https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi) | [W H O K I L L](https://open.spotify.com/album/7rBLvpL7ZWi1YCSXSLUZKF) | 5:03 | 2020-01-31 | 2022-06-12 |
@@ -157,7 +158,7 @@
 | [Salted Caramel](https://open.spotify.com/track/2HS3rFy98oTpEWLVrwEXdk) | [Andrew Applepie](https://open.spotify.com/artist/5BYcwjrQth7em7maAt0yKE) | [Salted Caramel](https://open.spotify.com/album/7bexJfAa429gLuUVbPMyfx) | 3:26 | 2020-01-31 | 2022-06-16 |
 | [Saturdays \(feat\. HAIM\)](https://open.spotify.com/track/5ClqcvP4dYDDX6Zv3jPQD1) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb), [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Caer](https://open.spotify.com/album/5eIgu8uJ3H18h8vVqJYggZ) | 3:25 | 2020-01-31 | 2022-07-29 |
 | [Serotonin](https://open.spotify.com/track/16MneRxNQpHK250NaIo3bg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/10nQ1u8Y1zlOb61zwZavDk) | 3:02 | 2022-06-10 |  |
-| [Sexy Villain](https://open.spotify.com/track/27sBcXtgTBSJRdUxei1a7J) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno](https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR) | 3:08 | 2022-06-10 |  |
+| [Sexy Villain](https://open.spotify.com/track/27sBcXtgTBSJRdUxei1a7J) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno](https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR) | 3:08 | 2022-06-10 | 2022-08-31 |
 | [Shit Show](https://open.spotify.com/track/0t9X8kIUL4QqoWq6HM5o2G) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Shit Show](https://open.spotify.com/album/67Z2Ig6ut4g6d0MhxTKjfp) | 3:20 | 2022-06-10 | 2022-07-29 |
 | [So Good](https://open.spotify.com/track/0xjpgDNFyekbjessCBaaBq) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/3yuV4GeplvzBIiYGhQp2nd) | 4:26 | 2020-01-31 | 2022-06-11 |
 | [Sofia](https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:08 | 2022-06-10 |  |

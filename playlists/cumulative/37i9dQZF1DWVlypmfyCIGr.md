@@ -4,7 +4,7 @@
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: チョーキューメイ
 
-1,928 songs - 4 day 22 hr 33 min - [published](https://open.spotify.com/playlist/7vZo0GBGKfv8haIOHte1r4)
+1,931 songs - 4 day 22 hr 43 min - [published](https://open.spotify.com/playlist/7vZo0GBGKfv8haIOHte1r4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -428,6 +428,7 @@
 | [kasoku](https://open.spotify.com/track/7ryJYsauoXLMEwH9tBYwiJ) | [Natsunose](https://open.spotify.com/artist/0wjfRLmHq20y874POC5pXC) | [kasoku](https://open.spotify.com/album/0g7b8nMiSNOM5VxaCm2v7i) | 3:05 | 2022-07-25 | 2022-08-02 |
 | [Kawaii inu](https://open.spotify.com/track/4SzvHR3a9xSrPAMAg40cZl) | [pandagolff](https://open.spotify.com/artist/4KReHO9hW14qVILtZReCra) | [Kawaii inu](https://open.spotify.com/album/5y36jHqg3DOZ8dTJI6viy0) | 3:15 | 2022-05-24 | 2022-06-08 |
 | [Kazeniyanagi](https://open.spotify.com/track/3NxtsMShaY8ZQhmZeCrW0p) | [Anatsume](https://open.spotify.com/artist/45dDT7aW76xTixc7CFV69W) | [Kazeniyanagi](https://open.spotify.com/album/0wf2euBbygdo5rGHA1s6hB) | 4:12 | 2022-08-15 |  |
+| [Keep in Touch](https://open.spotify.com/track/3wkOD878DbhhS2syNBUITy) | [石橋凌](https://open.spotify.com/artist/2cRkgv3MvzkkHfsbGYFW8v) | [オーライラ](https://open.spotify.com/album/6Ua3g5cSHTjRqliQ3nJlWM) | 4:03 | 2022-08-30 |  |
 | [keep on](https://open.spotify.com/track/3DT3ECZe6MrVrpu4axKBGw) | [宇佐蔵べに](https://open.spotify.com/artist/3WaoKji70RpTl0Jin9Lbdi) | [Passion](https://open.spotify.com/album/6jrxjWYy51n6Cp3ErARPrw) | 3:00 | 2022-06-27 | 2022-07-05 |
 | [keep out](https://open.spotify.com/track/1pjmsVVFOPYewO7atOl9Ta) | [中村さんそ](https://open.spotify.com/artist/30R9MQOeKqrMoafeHmTYuY) | [中村さんそは眠らない](https://open.spotify.com/album/05q5pkravSYsKaRi6SUabL) | 3:58 | 2022-05-10 | 2022-05-25 |
 | [Kick Start](https://open.spotify.com/track/117quLEpL8CQIAhjF3u0G9) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Kick Start](https://open.spotify.com/album/4Ef5gc7IHfvxwW6vQOvi7i) | 2:59 | 2021-10-13 | 2021-10-27 |
@@ -484,6 +485,7 @@
 | [Love Actually](https://open.spotify.com/track/5jYIpA2XK751YaZalx7yJV) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Crystal Tea](https://open.spotify.com/artist/3tLTzUmenYSz1FS9ijEUuX) | [Love Actually](https://open.spotify.com/album/0DXI5PCFBa2cOHraZqzrq7) | 2:42 | 2021-10-13 | 2021-10-20 |
 | [LOVE AS HELL](https://open.spotify.com/track/5TG6XCfViL2Yk7utxajFyJ) | [シトナユイ](https://open.spotify.com/artist/0kWlfrKUtyyjipOtWz5gkB) | [LOVE AS HELL](https://open.spotify.com/album/0r0RJyI49640l1QNIWrQC9) | 4:15 | 2021-12-21 | 2022-02-08 |
 | [Love Ride \(feat\. Shelhiel\)](https://open.spotify.com/track/6ZujipxrlNLNGAEvMZUn8y) | [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [phritz](https://open.spotify.com/artist/4pVTHC0fGP57HJ7Wy6cbtt), [Shelhiel](https://open.spotify.com/artist/1YiJh4CyYHF215ak2CmoaE) | [Love Ride \(feat\. Shelhiel\)](https://open.spotify.com/album/2Ru26a7wXOG0EuSci7f7R3) | 3:24 | 2021-10-27 | 2021-11-10 |
+| [LOVE Zukkyun \- Cover](https://open.spotify.com/track/0CwyHrbYBpsadcbm0NBbUf) | [Reiwa\-chan](https://open.spotify.com/artist/36ocdq1GGePZLlXvi9f3LL), [Honami Mizumoto](https://open.spotify.com/artist/4M1usAJKhzdxR15AUjFFjM) | [LOVE Zukkyun \(Cover\)](https://open.spotify.com/album/7J9SAbpDH2BqdjxUneDTcJ) | 2:38 | 2022-08-30 |  |
 | [LOVELY JOURNEY](https://open.spotify.com/track/2AATcwGBZsncIqTFJdGNtJ) | [Wang Dang Doodle](https://open.spotify.com/artist/5OWQWpSRACBuLtPRFPdfq1) | [LOVELY JOURNEY](https://open.spotify.com/album/6Ug5ieI72HKV47FbLTSVJs) | 3:29 | 2021-11-10 | 2021-12-01 |
 | [Loving](https://open.spotify.com/track/4gmuqfodM1e8PB9ujnCRUx) | [15MUS](https://open.spotify.com/artist/6RzdMi00bcAPKf4Y5isj9j) | [Loving](https://open.spotify.com/album/1wpgEsZOjs6d75IOsmi7Px) | 3:23 | 2022-08-23 |  |
 | [LUCKY](https://open.spotify.com/track/4rynmW4wicv2AyFSt9mR9b) | [Gum Girl](https://open.spotify.com/artist/3yWWaRtnqLGvYJqNZfzh1t) | [LUCKY](https://open.spotify.com/album/4i8xlhMFCJMb9xUC3splBG) | 1:55 | 2022-07-04 | 2022-07-19 |
@@ -906,6 +908,7 @@
 | [WELCOME TO THE TWILIGHT](https://open.spotify.com/track/1AapIlVhixpMUU8aDHDXPa) | [BOØWY](https://open.spotify.com/artist/0pr3ep0knQaPHEZ2X8niA0) | [JUST A HERO](https://open.spotify.com/album/5RRPu2iwR77Ov6fq8c8D03) | 6:00 | 2021-12-08 | 2021-12-30 |
 | [What do you know ?](https://open.spotify.com/track/10QaFXEbjs8SMem3sTSaJ0) | [UTAKA](https://open.spotify.com/artist/1huIRf911KKlnP2L7C9clT) | [!Anything!](https://open.spotify.com/album/5hsq4HwPIhzMnWtak8U4hX) | 3:22 | 2022-08-15 | 2022-08-24 |
 | [What's up](https://open.spotify.com/track/6pBLBPnfColV4UhAPnocWK) | [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4), [クボタカイ](https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [A夏目](https://open.spotify.com/artist/2HUc3XMRhQi0UBcSGGa0mH) | [What's up](https://open.spotify.com/album/0oOTQm1tIux02oMc9xcdox) | 3:33 | 2022-08-01 | 2022-08-16 |
+| [When U Played Me](https://open.spotify.com/track/2AqXpabKcyyAPbe1KZ0Iuf) | [WENDY](https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS) | [When U Played Me](https://open.spotify.com/album/5uOiTI3Tld1N1Zcs1yyivN) | 3:41 | 2022-08-30 |  |
 | [White](https://open.spotify.com/track/7rghV29KkgADehtKXPNwkm) | [★STAR GUiTAR](https://open.spotify.com/artist/2c2u1DQ1MHOkHL1tVMV3n6) | [White](https://open.spotify.com/album/00i1JwoV4Izfvdt2qyliXB) | 3:21 | 2022-04-05 | 2022-04-20 |
 | [Whoopie is a Punkrocker](https://open.spotify.com/track/7f7ufnrborStLtDM0rP3rO) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj), [Stephen Harrison](https://open.spotify.com/artist/366dKk1Th87zx5H1xXnXAH) | [Whoopie is a Punkrocker](https://open.spotify.com/album/7FACUKFmq5pwsjY09nUeiA) | 2:22 | 2022-07-11 | 2022-07-26 |
 | [Wife](https://open.spotify.com/track/6sj4L1gpMd3KJTczI9H8N6) | [METAFIVE](https://open.spotify.com/artist/5bIZrkukT53Jqrc4Vl4dvI) | [Wife](https://open.spotify.com/album/5zMPAuweyhdfG57mxRK9QD) | 4:28 | 2022-07-25 | 2022-08-02 |

@@ -1,12 +1,12 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 523176,
+  "num_followers": 522819,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzc1NTQxMSwwMDAwMDAwMDY3Zjc0Y2JkOTdiNmQ2YjkyMjQ2NTBkYzhhZDU4Y2Yw",
+  "snapshot_id": "MTY0Mzc1NTQxMSwwMDAwMDAwMDU5MTIxODJkYzJiYjBhZGI5ODNlMWFjZDNkM2ExODNj",
   "tracks": [
     {
       "added_at": "2020-11-20 21:27:18",
@@ -59,6 +59,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "Bleed American",
+        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 165853,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "Tickets To My Downfall",
         "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 139460,
       "name": "my ex's best friend (with blackbear)",
       "url": "https://open.spotify.com/track/7kDUspsoYfLkWnZR7qwHZl"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Bleed American",
-        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 165853,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -143,26 +143,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Tickets To My Downfall",
-        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
-      },
-      "artists": [
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        },
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 171620,
-      "name": "forget me too (feat. Halsey)",
-      "url": "https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "The Young and The Hopeless",
         "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
       },
@@ -175,6 +155,22 @@
       "duration_ms": 175093,
       "name": "The Anthem",
       "url": "https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
+        "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 134466,
+      "name": "Blitzkrieg Bop - 2016 Remaster",
+      "url": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -211,22 +207,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
-        "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 134466,
-      "name": "Blitzkrieg Bop - 2016 Remaster",
-      "url": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "White Blood Cells",
         "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
       },
@@ -255,6 +235,26 @@
       "duration_ms": 206586,
       "name": "Miss Murder",
       "url": "https://open.spotify.com/track/0Ti2dlF2xLjXblvdU5fCxM"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Tickets To My Downfall",
+        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
+      },
+      "artists": [
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 171620,
+      "name": "forget me too (feat. Halsey)",
+      "url": "https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -903,22 +903,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Everything Is Temporary",
-        "url": "https://open.spotify.com/album/2bzmOZh7UD4cNiI9oEqHDb"
-      },
-      "artists": [
-        {
-          "name": "Between You & Me",
-          "url": "https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu"
-        }
-      ],
-      "duration_ms": 183495,
-      "name": "Dakota",
-      "url": "https://open.spotify.com/track/0PW18AbooKhtFzZ5LUuMsW"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "A Beautiful Place To Drown",
         "url": "https://open.spotify.com/album/4orRroMtRrVGnlpheJbuap"
       },
@@ -939,22 +923,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "estella//",
-        "url": "https://open.spotify.com/album/03q6OOInl2G0qYtmFlybqh"
+        "name": "Everything Is Temporary",
+        "url": "https://open.spotify.com/album/2bzmOZh7UD4cNiI9oEqHDb"
       },
       "artists": [
         {
-          "name": "KennyHoopla",
-          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
-        },
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+          "name": "Between You & Me",
+          "url": "https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu"
         }
       ],
-      "duration_ms": 118733,
-      "name": "estella//",
-      "url": "https://open.spotify.com/track/4v2Bq0xDB7uNN73I5b44Du"
+      "duration_ms": 183495,
+      "name": "Dakota",
+      "url": "https://open.spotify.com/track/0PW18AbooKhtFzZ5LUuMsW"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -971,6 +951,26 @@
       "duration_ms": 151362,
       "name": "Father of All...",
       "url": "https://open.spotify.com/track/17C1AVZVh5jhJU4eAcovpl"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "estella//",
+        "url": "https://open.spotify.com/album/03q6OOInl2G0qYtmFlybqh"
+      },
+      "artists": [
+        {
+          "name": "KennyHoopla",
+          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+        }
+      ],
+      "duration_ms": 118733,
+      "name": "estella//",
+      "url": "https://open.spotify.com/track/4v2Bq0xDB7uNN73I5b44Du"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Transplants",
-        "url": "https://open.spotify.com/album/0lf0Mw6dwcAWxIIVXEv0fQ"
-      },
-      "artists": [
-        {
-          "name": "Transplants",
-          "url": "https://open.spotify.com/artist/6f9zLIMqyEu7abKhGMFr5q"
-        }
-      ],
-      "duration_ms": 241908,
-      "name": "Diamonds And Guns",
-      "url": "https://open.spotify.com/track/78oeeGkqmsr6r6AlW0x69d"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "She's A God",
         "url": "https://open.spotify.com/album/69MzaYbPgU7af0CPD5Ck1s"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 200330,
       "name": "She's A God",
       "url": "https://open.spotify.com/track/3rmVrevtGa5y7wieirt7rZ"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Transplants",
+        "url": "https://open.spotify.com/album/0lf0Mw6dwcAWxIIVXEv0fQ"
+      },
+      "artists": [
+        {
+          "name": "Transplants",
+          "url": "https://open.spotify.com/artist/6f9zLIMqyEu7abKhGMFr5q"
+        }
+      ],
+      "duration_ms": 241908,
+      "name": "Diamonds And Guns",
+      "url": "https://open.spotify.com/track/78oeeGkqmsr6r6AlW0x69d"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Without Me (P\u00e2querette)",
-        "url": "https://open.spotify.com/album/6E492bGEgmyeMqipboR9Ke"
-      },
-      "artists": [
-        {
-          "name": "With Confidence",
-          "url": "https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav"
-        }
-      ],
-      "duration_ms": 192468,
-      "name": "Without Me (P\u00e2querette)",
-      "url": "https://open.spotify.com/track/0JA2gGRAyRZuhjrg6vI8oq"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "A Beautiful Place To Drown",
         "url": "https://open.spotify.com/album/4orRroMtRrVGnlpheJbuap"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 190000,
       "name": "Burn It Down",
       "url": "https://open.spotify.com/track/7vUeM6Bftbd4wBSml0KffV"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Without Me (P\u00e2querette)",
+        "url": "https://open.spotify.com/album/6E492bGEgmyeMqipboR9Ke"
+      },
+      "artists": [
+        {
+          "name": "With Confidence",
+          "url": "https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav"
+        }
+      ],
+      "duration_ms": 192468,
+      "name": "Without Me (P\u00e2querette)",
+      "url": "https://open.spotify.com/track/0JA2gGRAyRZuhjrg6vI8oq"
     },
     {
       "added_at": "2020-11-20 21:27:18",

@@ -9611,7 +9611,7 @@
     {
       "album": {
         "name": "TYF",
-        "url": "https://open.spotify.com/album/1Z3VaI95Uej1kjjtaKFamW"
+        "url": "https://open.spotify.com/album/09LrimhS4xCJCyqsz9CMhA"
       },
       "artists": [
         {
@@ -9622,6 +9622,24 @@
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 213333,
+      "name": "TYF",
+      "url": "https://open.spotify.com/track/3YGklnT5auf8CCLCbvAgFJ"
+    },
+    {
+      "album": {
+        "name": "TYF",
+        "url": "https://open.spotify.com/album/1Z3VaI95Uej1kjjtaKFamW"
+      },
+      "artists": [
+        {
+          "name": "Shirel",
+          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-31",
       "duration_ms": 213333,
       "name": "TYF",
       "url": "https://open.spotify.com/track/5SCwhJYHypju5RCI7zgVk2"

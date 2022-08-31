@@ -34,6 +34,24 @@
     },
     {
       "album": {
+        "name": "All I Want",
+        "url": "https://open.spotify.com/album/6UCnUv9fK4XoTGaeSVxuHz"
+      },
+      "artists": [
+        {
+          "name": "The Archer",
+          "url": "https://open.spotify.com/artist/2e9kCl7laD7bkZLLAnkKTU"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243809,
+      "name": "All I Want - Original Mix",
+      "url": "https://open.spotify.com/track/4K7SNSClE8UWzRPpNtOs8M"
+    },
+    {
+      "album": {
         "name": "Alley Rave",
         "url": "https://open.spotify.com/album/1yQU83J37P20ynvBDU31Cc"
       },
@@ -411,7 +429,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 185142,
       "name": "Dilemma",
       "url": "https://open.spotify.com/track/3yGIQywO2T8BK6ANMTrjcs"
@@ -1381,7 +1399,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-01",
+      "date_removed": null,
       "duration_ms": 423837,
       "name": "Ramona",
       "url": "https://open.spotify.com/track/1EroNKATh80TwDZLtPKPNN"
@@ -1549,7 +1567,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 307865,
       "name": "Roxy's Sweat - Original Mix",
       "url": "https://open.spotify.com/track/42UvjYG1NPOnu9JKwOhdzi"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sIqqvKsjG8.md) - [plain]
 
 > A soft musical backdrop for your studies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,665,216 likes - 367 songs - 15 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,664,860 likes - 367 songs - 15 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

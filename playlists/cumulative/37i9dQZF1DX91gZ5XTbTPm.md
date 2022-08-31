@@ -4,7 +4,7 @@
 
 > The Midwest is always on time\. Cover: Trippie Redd
 
-262 songs - 12 hr 7 min - [published](https://open.spotify.com/playlist/41V1Pq5RMClkd6MJCSDWfC)
+263 songs - 12 hr 9 min - [published](https://open.spotify.com/playlist/41V1Pq5RMClkd6MJCSDWfC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,8 @@
 | [For The Record](https://open.spotify.com/track/254OydHVwUHK2jIMhZToHm) | [BigKayBeezy](https://open.spotify.com/artist/4wpwsRGyik5kVa8fG37Q50), [Ron Suno](https://open.spotify.com/artist/3A63dHvKuavknOcvWVgZA9) | [For The Record](https://open.spotify.com/album/50D9YMxG2uRgCabduAeNOG) | 3:11 | 2021-11-19 | 2022-02-05 |
 | [Forever Been Steppin'](https://open.spotify.com/track/6D38sSnlEtRmH7H7yhvI47) | [Lil Eazzyy](https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b) | [Forever Been Steppin'](https://open.spotify.com/album/2fYOAoMAoSge8lWN0OydhA) | 3:17 | 2022-03-11 |  |
 | [Forgive Me \(feat\. NoCap\)](https://open.spotify.com/track/1bKBEDDJ61aHiMkR9HLBTR) | [TOB Duke](https://open.spotify.com/artist/0swrkotfXHdeJNfkELoFkS), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Time Will Tell](https://open.spotify.com/album/4Zrsu6hm5rkp0WFBdJbTCr) | 2:37 | 2022-06-03 |  |
-| [Freak Block Tales](https://open.spotify.com/track/07Zt48FGHUkljvK0gdB4Gz) | [Dwalk](https://open.spotify.com/artist/6eTtN1ArNtkXCPZJ8riM0T) | [The Biggest 6](https://open.spotify.com/album/3IfzYLYuf4ilq1zeBy6z9O) | 2:35 | 2022-08-19 |  |
+| [Freak Block Tales](https://open.spotify.com/track/3Oz4YqNsVLjiGaV37hrt7Y) | [Dwalk](https://open.spotify.com/artist/6eTtN1ArNtkXCPZJ8riM0T) | [The Biggest 6](https://open.spotify.com/album/1IyesdAqIGoe92UBLnFm0Z) | 2:35 | 2022-08-19 |  |
+| [Freak Block Tales](https://open.spotify.com/track/07Zt48FGHUkljvK0gdB4Gz) | [Dwalk](https://open.spotify.com/artist/6eTtN1ArNtkXCPZJ8riM0T) | [The Biggest 6](https://open.spotify.com/album/3IfzYLYuf4ilq1zeBy6z9O) | 2:35 | 2022-08-19 | 2022-08-31 |
 | [Free Bay Bay](https://open.spotify.com/track/0ZXHzkSB1z8riOQRcL0JVI) | [30 Deep Grimeyy](https://open.spotify.com/artist/0laj4MqJT0qZdmF1JgypmX) | [Free Bay Bay](https://open.spotify.com/album/3eUfjLqpbAZZbFXOb4ilt1) | 3:04 | 2022-03-04 | 2022-04-29 |
 | [Free The Shiners](https://open.spotify.com/track/5NMWPokmUZIX1ySu7YLF74) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Free The Shiners](https://open.spotify.com/album/5SOJj0pfKKW1qjPqub2tLk) | 2:04 | 2022-03-25 | 2022-07-29 |
 | [Free The Shiners](https://open.spotify.com/track/7f0jidOh8lBPZRZpANOEER) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Last Ones Left](https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH) | 2:05 | 2022-07-22 | 2022-07-30 |
@@ -190,7 +191,7 @@
 | [Pyrex](https://open.spotify.com/track/3TGBtGsWQPfhtPGGzzbc6m) | [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn) | [Pyrex](https://open.spotify.com/album/1ZWHj0kb2hk0hZCCDdNjL5) | 1:52 | 2022-08-19 |  |
 | [R.T.T.B](https://open.spotify.com/track/40NuHUtRB6oedbFV1O2Rph) | [E the profit](https://open.spotify.com/artist/55ZKRn4w3oNhBMV7sgG1PP) | [2 Effortless](https://open.spotify.com/album/7oAmbqYiBL1MN2FGdRQ0rz) | 2:10 | 2022-04-29 | 2022-08-20 |
 | [Rain](https://open.spotify.com/track/0IWNj3KbZQeh3iQOXSMzYQ) | [2KBABY](https://open.spotify.com/artist/4mkjpWbFO45SyaHiM9GOVE) | [Rain](https://open.spotify.com/album/2Tw5eFuipEz0DsS8J9WVTR) | 2:50 | 2022-07-15 |  |
-| [Real Bitch \(feat\. Gloss Up\)](https://open.spotify.com/track/4zH4kR30s4Cx6HMvodrf32) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Gloss Up](https://open.spotify.com/artist/0i5emUaPMWG7O3rAoXvvq8) | [Real Bitch \(feat\. Gloss Up\)](https://open.spotify.com/album/6MUUM532DEcR697rck5n90) | 2:04 | 2022-08-26 |  |
+| [Real Bitch \(feat\. Gloss Up\)](https://open.spotify.com/track/4zH4kR30s4Cx6HMvodrf32) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Real Bitch \(feat\. Gloss Up\)](https://open.spotify.com/album/6MUUM532DEcR697rck5n90) | 2:04 | 2022-08-26 |  |
 | [Real Pain](https://open.spotify.com/track/7KybOgn1cY0phZqQVRbjse) | [Lil Zay Osama](https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt) | [Real Pain](https://open.spotify.com/album/0qMf5UmnI9yA0usoW5dRRc) | 2:24 | 2022-04-08 | 2022-05-07 |
 | [Real Work](https://open.spotify.com/track/07faiDjhqfzZPI9PXqvjEm) | [Payroll Giovanni](https://open.spotify.com/artist/6q2peHL8h2vUGvWNbsIjii) | [Real Work](https://open.spotify.com/album/2DcLeZKJ7cgsIVrGFT5tJi) | 2:47 | 2022-01-20 | 2022-04-02 |
 | [Record Straight](https://open.spotify.com/track/6i7mdZTIEUGD7jrc0xnPBV) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [No Pressure \(Pt\. 1\)](https://open.spotify.com/album/3e9yHrVpvAh2xeIvG7WcQO) | 1:56 | 2022-06-17 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Have a fantastic road trip with upbeat songs from your favorite Christian artists!",
-  "num_followers": 25362,
+  "num_followers": 25380,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU3NDIzNDkwMCwwMDAwMDAwMDE0ZWIwOWY1ZjM0YTE4YmI0YTcxYmMzMDcxM2FkZjky",
+  "snapshot_id": "MTU3NDIzNDkwMCwwMDAwMDAwMDE3YmRhMmRjZDAxMDUyNGRhZWE3OTk0OGNjYmViYjZh",
   "tracks": [
     {
       "added_at": "2019-11-20 07:28:20",
@@ -571,6 +571,26 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 264320,
+      "name": "Awake My Soul",
+      "url": "https://open.spotify.com/track/6AvQ48ohekN6f2eqZCYICX"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
         "name": "LONG LIVE LOVE",
         "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
       },
@@ -619,26 +639,6 @@
       "duration_ms": 200373,
       "name": "Where I Belong",
       "url": "https://open.spotify.com/track/1N2fNKIlJJ6PQgcVD1GrBP"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
-        "name": "Awake",
-        "url": "https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 264320,
-      "name": "Awake My Soul",
-      "url": "https://open.spotify.com/track/6AvQ48ohekN6f2eqZCYICX"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -811,6 +811,22 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
+        "name": "Only Ever",
+        "url": "https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte"
+      },
+      "artists": [
+        {
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+        }
+      ],
+      "duration_ms": 201040,
+      "name": "Only Ever",
+      "url": "https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
         "name": "Royal Tailor",
         "url": "https://open.spotify.com/album/2VDnekBdHv9CuNpu3yBMZa"
       },
@@ -847,18 +863,18 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "Only Ever",
-        "url": "https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte"
+        "name": "No Shame",
+        "url": "https://open.spotify.com/album/0UtgPgGX5uX7CDLE7NeggY"
       },
       "artists": [
         {
-          "name": "Alive City",
-          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+          "name": "Tenth Avenue North",
+          "url": "https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0"
         }
       ],
-      "duration_ms": 201040,
-      "name": "Only Ever",
-      "url": "https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l"
+      "duration_ms": 256782,
+      "name": "Greater Than All My Regrets",
+      "url": "https://open.spotify.com/track/31XV6mfKY1Vdyb6KuNfArI"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -875,22 +891,6 @@
       "duration_ms": 267333,
       "name": "When We Fall Apart",
       "url": "https://open.spotify.com/track/6QZP7wxsor0vZsI9dkKZk2"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
-        "name": "No Shame",
-        "url": "https://open.spotify.com/album/0UtgPgGX5uX7CDLE7NeggY"
-      },
-      "artists": [
-        {
-          "name": "Tenth Avenue North",
-          "url": "https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0"
-        }
-      ],
-      "duration_ms": 256782,
-      "name": "Greater Than All My Regrets",
-      "url": "https://open.spotify.com/track/31XV6mfKY1Vdyb6KuNfArI"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "Citizen of Heaven",
-        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 222936,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/0jJgHF533Wakrjt1lt6zwz"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
         "name": "Faultlines Vol. I",
         "url": "https://open.spotify.com/album/2xfrjrhWCJszsRlrBUsYWC"
       },
@@ -1063,18 +1047,18 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "Dark Is The Way, Light Is A Place",
-        "url": "https://open.spotify.com/album/0aJvU0peEjLVYTOhaPVLXv"
+        "name": "Citizen of Heaven",
+        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
       },
       "artists": [
         {
-          "name": "Anberlin",
-          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
         }
       ],
-      "duration_ms": 243573,
-      "name": "Impossible",
-      "url": "https://open.spotify.com/track/4LmVyajDL2aJrii88rncNr"
+      "duration_ms": 222936,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/0jJgHF533Wakrjt1lt6zwz"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -1091,6 +1075,22 @@
       "duration_ms": 199078,
       "name": "Who We Are",
       "url": "https://open.spotify.com/track/3iPrzSUiI1PojLdulvGudz"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
+        "name": "Dark Is The Way, Light Is A Place",
+        "url": "https://open.spotify.com/album/0aJvU0peEjLVYTOhaPVLXv"
+      },
+      "artists": [
+        {
+          "name": "Anberlin",
+          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
+        }
+      ],
+      "duration_ms": 243573,
+      "name": "Impossible",
+      "url": "https://open.spotify.com/track/4LmVyajDL2aJrii88rncNr"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "Even Louder",
-        "url": "https://open.spotify.com/album/3UASecPGoYN3VoDwSWlUJx"
-      },
-      "artists": [
-        {
-          "name": "Steven Malcolm",
-          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
-        },
-        {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
-        }
-      ],
-      "duration_ms": 209647,
-      "name": "Even Louder",
-      "url": "https://open.spotify.com/track/3H8M5OvYVupSFCOOcAwi5l"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
         "name": "REBELS",
         "url": "https://open.spotify.com/album/1Aygf3pcwpsDpiPmL8H5rd"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 226933,
       "name": "Rebels",
       "url": "https://open.spotify.com/track/6crlD7xx4i1va0wahdwCga"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
+        "name": "Even Louder",
+        "url": "https://open.spotify.com/album/3UASecPGoYN3VoDwSWlUJx"
+      },
+      "artists": [
+        {
+          "name": "Steven Malcolm",
+          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
+        },
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        }
+      ],
+      "duration_ms": 209647,
+      "name": "Even Louder",
+      "url": "https://open.spotify.com/track/3H8M5OvYVupSFCOOcAwi5l"
     },
     {
       "added_at": "2019-11-20 07:28:20",

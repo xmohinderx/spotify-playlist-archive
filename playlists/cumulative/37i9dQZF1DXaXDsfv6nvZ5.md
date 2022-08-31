@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-93 songs - 5 hr 55 min - [published](https://open.spotify.com/playlist/6PhsjniBhG4w601hh0mPNL)
+94 songs - 5 hr 59 min - [published](https://open.spotify.com/playlist/6PhsjniBhG4w601hh0mPNL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Need You](https://open.spotify.com/track/34i3j7m0YtGOWPrpiTMzOS) | [Emanuel](https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7) | [Need You](https://open.spotify.com/album/6VIkLtDoLRSIJ9ytyAgphV) | 4:15 | 2021-12-03 | 2022-07-26 |
 | [Neva Gonna Break My Heart Again](https://open.spotify.com/track/7c9d8GYjOixUL7I3o2BJn0) | [Tweet](https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo) | [Neva Gonna Break My Heart Again](https://open.spotify.com/album/4GiaM3A5j9Yll69ESxGKyE) | 5:18 | 2021-12-03 |  |
 | [Nobody But You](https://open.spotify.com/track/6VFKuuqSbA1GpMEosUgTwQ) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Nobody But You](https://open.spotify.com/album/0HaY1bBhaYUEXBOSva6Pf7) | 3:33 | 2022-01-28 |  |
-| [One More Kiss](https://open.spotify.com/track/5PEvIq7hMnnE85qphra5Oa) | [Kenneth Whalum](https://open.spotify.com/artist/2lnrl1gyJvhaFtNIIRnB16) | [One More Kiss](https://open.spotify.com/album/1qufygTBLF7OnpyRKoj87R) | 3:46 | 2022-02-18 |  |
+| [One More Kiss](https://open.spotify.com/track/5PEvIq7hMnnE85qphra5Oa) | [Kenneth Whalum](https://open.spotify.com/artist/2lnrl1gyJvhaFtNIIRnB16) | [One More Kiss](https://open.spotify.com/album/1qufygTBLF7OnpyRKoj87R) | 3:46 | 2022-02-18 | 2022-08-31 |
 | [Only You](https://open.spotify.com/track/4AvOXTQ2semU5FAmtl8vtk) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Only You](https://open.spotify.com/album/3rdIkWOlV1MfsZ5qmQ7Us5) | 3:14 | 2021-12-03 | 2022-07-29 |
 | [Only You](https://open.spotify.com/track/5MUvzjJ2XXvPZq3KU6znpP) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Rare Changes](https://open.spotify.com/album/7pue5cbfa0TUgCUth2KFr8) | 3:14 | 2022-03-11 |  |
 | [Pantone 17 13 30](https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y1](https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM) | 3:06 | 2022-03-11 |  |
@@ -92,6 +92,7 @@
 | [Take Me Away \(feat\. EARTHGANG\)](https://open.spotify.com/track/0jdit0IB5OJbDmPRqadZbs) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Take Me Away \(feat\. EARTHGANG\)](https://open.spotify.com/album/7uArP6gpDdQXQrkfdFOpvA) | 2:52 | 2021-12-03 | 2022-07-29 |
 | [Tell Him](https://open.spotify.com/track/7iCs98iS5n6KCI4q3H7zp9) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 4:40 | 2021-12-03 |  |
 | [The Best Things](https://open.spotify.com/track/2IebZ0AjurvrRGdxnnL2oI) | [Kindred The Family Soul](https://open.spotify.com/artist/3RDl7kNfhB72Ojsc2qiyfy) | [The Best Things](https://open.spotify.com/album/1RIxAcFlv6TwaBoCkq0Z0t) | 3:16 | 2021-12-03 | 2022-07-29 |
+| [The Reason](https://open.spotify.com/track/1JKH156F7aeqFLjHK892H6) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [The Reason](https://open.spotify.com/album/6B7oBbXH4oKMnq9ep5xEBA) | 3:24 | 2022-08-26 |  |
 | [The Truth](https://open.spotify.com/track/0BvetzkxZsWj6hgSaHtTRd) | [D.Folks](https://open.spotify.com/artist/4tQP0JjpxmNplCt2HFzZmI) | [The Truth](https://open.spotify.com/album/7pkzpOwaF7sgUQqbeneNnJ) | 3:19 | 2021-12-03 | 2022-07-27 |
 | [Tigress & Tweed \(Music from the Motion Picture "The United States vs\. Billie Holiday"\)](https://open.spotify.com/track/72PM6IPh11h6akXKzMJs3q) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Tigress & Tweed \(Music from the Motion Picture "The United States vs\. Billie Holiday"\)](https://open.spotify.com/album/5QIrCVTrODMsB5XIBrPvGz) | 3:11 | 2021-12-03 | 2022-07-29 |
 | [Use Me](https://open.spotify.com/track/4gRA0i5sxx3jAhHaVjPnUN) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Still Bill](https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v) | 3:48 | 2022-03-11 |  |

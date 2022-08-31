@@ -4,7 +4,7 @@
 
 > Releases from the legendary label.
 
-117 songs - 14 hr 8 min - [published](https://open.spotify.com/playlist/7CpzziVbgEL0BZqAASnsUi)
+118 songs - 14 hr 15 min - [published](https://open.spotify.com/playlist/7CpzziVbgEL0BZqAASnsUi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Everybody Dance \- M.A.S\. Club Vocal](https://open.spotify.com/track/71ccVLki17DA8sVO74XoSG) | [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Everybody Dance](https://open.spotify.com/album/3F5UONXKw1at69QdBsLnwr) | 7:59 | 2022-03-03 |  |
 | [Follow Me \- Club Mix](https://open.spotify.com/track/547iG5F16pTdim4XlMlGEU) | [Aly\-Us](https://open.spotify.com/artist/4MnBfIdylI5EASiTCsNA7r) | [Follow Me](https://open.spotify.com/album/7lHBZXxijgIaXDpKeDQs9O) | 6:24 | 2022-03-03 |  |
 | [Free \- Mood II Swing Radio Edit](https://open.spotify.com/track/0dc6CJ6BsiKxyPvW4yABLo) | [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN) | [Free](https://open.spotify.com/album/6TpwXfNBW8BSwCAuBDjJSN) | 3:53 | 2022-03-03 |  |
-| [Generate Power \(feat\. Paula Brion\) \- Radio Mix](https://open.spotify.com/track/0F3Ywkp1Xav1h6jY7JZGam) | [Photon Inc.](https://open.spotify.com/artist/7zDNKiiS6xgYtgDUUgfRCP), [Paula Brion](https://open.spotify.com/artist/60TD8QdUfVWZMl8gMjcTd4) | [Generate Power \(Mixes\)](https://open.spotify.com/album/4X5H5cObFjebRrA0sSjFnl) | 3:40 | 2022-03-03 |  |
+| [Generate Power \(feat\. Paula Brion\) \- Radio Mix](https://open.spotify.com/track/0F3Ywkp1Xav1h6jY7JZGam) | [Photon Inc.](https://open.spotify.com/artist/7zDNKiiS6xgYtgDUUgfRCP), [Paula Brion](https://open.spotify.com/artist/60TD8QdUfVWZMl8gMjcTd4) | [Generate Power \(Mixes\)](https://open.spotify.com/album/4X5H5cObFjebRrA0sSjFnl) | 3:40 | 2022-03-03 | 2022-08-31 |
 | [Generate Power \(feat\. Paula Brion\) \- Wild Pitch Mix](https://open.spotify.com/track/4VYtkPup3WyqXsGNcV57lE) | [Photon Inc.](https://open.spotify.com/artist/7zDNKiiS6xgYtgDUUgfRCP), [Paula Brion](https://open.spotify.com/artist/60TD8QdUfVWZMl8gMjcTd4), [Wild Pitch](https://open.spotify.com/artist/6R4fSnpT0N5UpaBWShqc9z) | [Generate Power \(feat\. Paula Brion\) \[2010 Mixes\]](https://open.spotify.com/album/5MwtRnaCznUi4ijSIjQ8KY) | 8:43 | 2022-03-03 |  |
 | [Generate Power \- Radio Mix](https://open.spotify.com/track/1h9WYVh6diZHlDbrMcnWDd) | [Photon Inc.](https://open.spotify.com/artist/7zDNKiiS6xgYtgDUUgfRCP) | [The Lost Tapes: Tony Humphries Strictly Rhythm Mix](https://open.spotify.com/album/09KKcE6i87Iar6YaadcPFG) | 3:40 | 2022-03-03 | 2022-07-28 |
 | [Generate Power \- Wild Pitch Mix](https://open.spotify.com/track/2dDSAutKP3IzqEcbaw18My) | [Photon Inc.](https://open.spotify.com/artist/7zDNKiiS6xgYtgDUUgfRCP), [Paula Brion](https://open.spotify.com/artist/60TD8QdUfVWZMl8gMjcTd4) | [Strictly Rhythm Est\. 1989 \- 20 Years Of Classics](https://open.spotify.com/album/2gSnxeSv8jt0tkmbgPDJ59) | 8:43 | 2022-03-03 | 2022-07-29 |
@@ -66,6 +66,7 @@
 | [Keep On Groovin' \- Pitch Disco Mix](https://open.spotify.com/track/4bSPTJrXI4YLZ1Hh8C94lW) | [DJ Sneak](https://open.spotify.com/artist/5He9yPmPv0Du9hASUlTUjr) | [Keep On Groovin'](https://open.spotify.com/album/1h9nWxBoi8vd4TGyezFnRG) | 7:43 | 2022-03-03 |  |
 | [Keep On Jumpin' \(feat\. Chazzie\) \- Egotrip Mix](https://open.spotify.com/track/290S0NJujegLGdyqhoNpbb) | [Beatboxx](https://open.spotify.com/artist/3eCbjMCl079pmtW3KaoxLs), [Chazzie](https://open.spotify.com/artist/2l8Sszon3yQDStEHxwXFtV) | [Keep On Jumpin' \(feat\. Chazzie\)](https://open.spotify.com/album/0n0Y0D181bMgshtIJe4Qkd) | 6:21 | 2022-03-03 |  |
 | [King Of My Castle \- Roy Malone's King Mix](https://open.spotify.com/track/4XZwpHpscrMkbpQPqjnwRJ) | [Wamdue Project](https://open.spotify.com/artist/2U33UlGhnPqg3B5xJTn3zm), [Roy Malone](https://open.spotify.com/artist/0Mry1TcXvK97hkYf7F74zn) | [King Of My Castle](https://open.spotify.com/album/76dgPMKh0jMhFDbWeNF365) | 4:59 | 2022-03-03 |  |
+| [Let's Groove](https://open.spotify.com/track/09YDYNdzjCbKI3lF8Sr2UO) | [George Morel](https://open.spotify.com/artist/1lFrAhvIUbiWsTEMexSlDy) | [Strictly George Morel](https://open.spotify.com/album/3lG38OKSc0AHVmbY3V685C) | 6:57 | 2022-03-03 |  |
 | [Let's Groove](https://open.spotify.com/track/0DJMpeEsZqOhkS7rrNu694) | [George Morel](https://open.spotify.com/artist/1lFrAhvIUbiWsTEMexSlDy) | [Morel's Grooves 4](https://open.spotify.com/album/5ngw90ZPnAE2l689ayRWQb) | 6:57 | 2022-03-03 | 2022-07-29 |
 | [Let's Groove](https://open.spotify.com/track/2amYO9uSLjsHfLSUZVh5Wq) | [George Morel](https://open.spotify.com/artist/1lFrAhvIUbiWsTEMexSlDy) | [Morel's Grooves \(Pt\. 4\)](https://open.spotify.com/album/4YAQY5sSGCgBG9auquen4A) | 6:57 | 2022-03-03 | 2022-08-29 |
 | [Love & Happiness \(Yemaya Y Ochùn\) \- Radio Edit](https://open.spotify.com/track/5J51JZixTx08GKXwufn5Cw) | [River Ocean](https://open.spotify.com/artist/07cAb715kzeqA6rVa0hh58) | [The Tribal \- EP \(Remixes\)](https://open.spotify.com/album/0zJyxO4jsvtADO6fyt4wdo) | 4:03 | 2022-03-03 |  |

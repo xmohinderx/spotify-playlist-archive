@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Que viva el amor!",
-  "num_followers": 1938629,
+  "num_followers": 1938741,
   "original_name": "Amor Amor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcxNzY1MSwwMDAwMDAwMDYwNDNiNTY2ZmRjMWQ0MDg1YzQ5OWNhYjQ1MjE0ODVj",
+  "snapshot_id": "MTY1OTcxNzY1MSwwMDAwMDAwMDIxZjVmMWNkZWUzNmRiYzJkMzUzZWE1ZTA1MTQwZTlh",
   "tracks": [
     {
       "added_at": "2022-08-05 16:40:51",
@@ -503,6 +503,22 @@
     {
       "added_at": "2022-08-05 16:40:51",
       "album": {
+        "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
+        "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        }
+      ],
+      "duration_ms": 289866,
+      "name": "Tan enamorados",
+      "url": "https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH"
+    },
+    {
+      "added_at": "2022-08-05 16:40:51",
+      "album": {
         "name": "WOW BB",
         "url": "https://open.spotify.com/album/09qDFWKi7sDxRV8l40osDR"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 191250,
       "name": "WOW BB",
       "url": "https://open.spotify.com/track/4fQAjk5sPe6ay04m5slBlU"
-    },
-    {
-      "added_at": "2022-08-05 16:40:51",
-      "album": {
-        "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
-        "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
-        }
-      ],
-      "duration_ms": 289866,
-      "name": "Tan enamorados",
-      "url": "https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH"
     },
     {
       "added_at": "2022-08-05 16:40:51",
@@ -687,26 +687,6 @@
     {
       "added_at": "2022-08-05 16:40:51",
       "album": {
-        "name": "Tres",
-        "url": "https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        },
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 218232,
-      "name": "Eres T\u00fa",
-      "url": "https://open.spotify.com/track/3iVu49ZmRHsCdRA0RTGUkP"
-    },
-    {
-      "added_at": "2022-08-05 16:40:51",
-      "album": {
         "name": "Odio Que No Te Odio",
         "url": "https://open.spotify.com/album/5pLHLNwXqkKRMlS5NEEkdW"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 220480,
       "name": "Odio Que No Te Odio",
       "url": "https://open.spotify.com/track/374Yj1kOLjGLYLOydbCO3i"
+    },
+    {
+      "added_at": "2022-08-05 16:40:51",
+      "album": {
+        "name": "Tres",
+        "url": "https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 218232,
+      "name": "Eres T\u00fa",
+      "url": "https://open.spotify.com/track/3iVu49ZmRHsCdRA0RTGUkP"
     },
     {
       "added_at": "2022-08-05 16:40:51",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2022-08-05 16:40:51",
       "album": {
+        "name": "D\u00e9jenme Llorar",
+        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 228253,
+      "name": "Eres T\u00fa",
+      "url": "https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f"
+    },
+    {
+      "added_at": "2022-08-05 16:40:51",
+      "album": {
         "name": "Tan Enamorados",
         "url": "https://open.spotify.com/album/0GmPTq9AHYUmbelg8bVamu"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 198040,
       "name": "Ella",
       "url": "https://open.spotify.com/track/7hydwXc3IVJIItIif6ZuLH"
-    },
-    {
-      "added_at": "2022-08-05 16:40:51",
-      "album": {
-        "name": "D\u00e9jenme Llorar",
-        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 228253,
-      "name": "Eres T\u00fa",
-      "url": "https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f"
     },
     {
       "added_at": "2022-08-05 16:40:51",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2022-08-05 16:40:51",
       "album": {
+        "name": "\u00bfCon Qui\u00e9n Se Queda El Perro?",
+        "url": "https://open.spotify.com/album/5koG6JeFEwcINyN1QuXyiq"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 238853,
+      "name": "Me Quiero Enamorar",
+      "url": "https://open.spotify.com/track/2ae7jtHQeNWdPvs3HZ3kDi"
+    },
+    {
+      "added_at": "2022-08-05 16:40:51",
+      "album": {
         "name": "Conv\u00e9nceme",
         "url": "https://open.spotify.com/album/6oxouERjg3yRQALERagHVx"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 208567,
       "name": "Conv\u00e9nceme",
       "url": "https://open.spotify.com/track/12oFSoib1tf0r2rd1Fgsfe"
-    },
-    {
-      "added_at": "2022-08-05 16:40:51",
-      "album": {
-        "name": "\u00bfCon Qui\u00e9n Se Queda El Perro?",
-        "url": "https://open.spotify.com/album/5koG6JeFEwcINyN1QuXyiq"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 238853,
-      "name": "Me Quiero Enamorar",
-      "url": "https://open.spotify.com/track/2ae7jtHQeNWdPvs3HZ3kDi"
     },
     {
       "added_at": "2022-08-05 16:40:51",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2022-08-05 16:40:51",
       "album": {
-        "name": "A Un Beso",
-        "url": "https://open.spotify.com/album/5x4CHqbGKiDrkE8CNcdlwk"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "A Un Beso",
-      "url": "https://open.spotify.com/track/5c8KTKmAo3zlqBSsvnQrmB"
-    },
-    {
-      "added_at": "2022-08-05 16:40:51",
-      "album": {
         "name": "Subt\u00edtulos",
         "url": "https://open.spotify.com/album/4EtYCMy3pSjOkSNpeZjOUs"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 191613,
       "name": "Subt\u00edtulos",
       "url": "https://open.spotify.com/track/2O2J6GrQzv3mkXuMfFEPMY"
+    },
+    {
+      "added_at": "2022-08-05 16:40:51",
+      "album": {
+        "name": "A Un Beso",
+        "url": "https://open.spotify.com/album/5x4CHqbGKiDrkE8CNcdlwk"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "A Un Beso",
+      "url": "https://open.spotify.com/track/5c8KTKmAo3zlqBSsvnQrmB"
     },
     {
       "added_at": "2022-08-05 16:40:51",
@@ -1923,18 +1923,18 @@
     {
       "added_at": "2022-08-05 16:40:51",
       "album": {
-        "name": "Como Antes",
-        "url": "https://open.spotify.com/album/0jXsX7bYf7FQE0CLGug86V"
+        "name": "Hasta Ese D\u00eda",
+        "url": "https://open.spotify.com/album/6cO7pYatv2CewTgj1ejYPw"
       },
       "artists": [
         {
-          "name": "Llane",
-          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
         }
       ],
-      "duration_ms": 196614,
-      "name": "Como Antes",
-      "url": "https://open.spotify.com/track/1rgTPhfIsygO4HjDafOVzR"
+      "duration_ms": 203693,
+      "name": "Hasta Ese D\u00eda",
+      "url": "https://open.spotify.com/track/6WBkUQoNie4RIY1cFaqUnP"
     },
     {
       "added_at": "2022-08-05 16:40:51",
@@ -1971,6 +1971,22 @@
     {
       "added_at": "2022-08-05 16:40:51",
       "album": {
+        "name": "Como Antes",
+        "url": "https://open.spotify.com/album/0jXsX7bYf7FQE0CLGug86V"
+      },
+      "artists": [
+        {
+          "name": "Llane",
+          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
+        }
+      ],
+      "duration_ms": 196614,
+      "name": "Como Antes",
+      "url": "https://open.spotify.com/track/1rgTPhfIsygO4HjDafOVzR"
+    },
+    {
+      "added_at": "2022-08-05 16:40:51",
+      "album": {
         "name": "Los D\u00fao",
         "url": "https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ"
       },
@@ -2003,22 +2019,6 @@
       "duration_ms": 226213,
       "name": "Vas A Quedarte",
       "url": "https://open.spotify.com/track/2b3JxLi8KAiOsD8ehnOxDZ"
-    },
-    {
-      "added_at": "2022-08-05 16:40:51",
-      "album": {
-        "name": "Hasta Ese D\u00eda",
-        "url": "https://open.spotify.com/album/6cO7pYatv2CewTgj1ejYPw"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 203693,
-      "name": "Hasta Ese D\u00eda",
-      "url": "https://open.spotify.com/track/6WBkUQoNie4RIY1cFaqUnP"
     },
     {
       "added_at": "2022-08-05 16:40:51",
@@ -2075,8 +2075,8 @@
     {
       "added_at": "2022-08-05 16:40:51",
       "album": {
-        "name": "Con Las Ganas",
-        "url": "https://open.spotify.com/album/0mtZkrJ2WBLYjggwI3dyD9"
+        "name": "No Te Olvido",
+        "url": "https://open.spotify.com/album/1veQ29kfzujZr8HSu7BuRX"
       },
       "artists": [
         {
@@ -2084,13 +2084,13 @@
           "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         },
         {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 241306,
-      "name": "Con Las Ganas",
-      "url": "https://open.spotify.com/track/7gfZYsX0TVWf6RlMOyV9RB"
+      "duration_ms": 185253,
+      "name": "No Te Olvido",
+      "url": "https://open.spotify.com/track/7HqIAVm70XTRuy61urYpLT"
     },
     {
       "added_at": "2022-08-05 16:40:51",
@@ -2111,22 +2111,6 @@
     {
       "added_at": "2022-08-05 16:40:51",
       "album": {
-        "name": "Una Chica Como T\u00fa",
-        "url": "https://open.spotify.com/album/7neBiMNxuv7nz6z8v1JB1M"
-      },
-      "artists": [
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        }
-      ],
-      "duration_ms": 167640,
-      "name": "Una Chica Como T\u00fa",
-      "url": "https://open.spotify.com/track/39IgIaGpqk7DQx7EZpmgCJ"
-    },
-    {
-      "added_at": "2022-08-05 16:40:51",
-      "album": {
         "name": "Girasoles",
         "url": "https://open.spotify.com/album/4R22TlmVh28LeA4J3vohVn"
       },
@@ -2139,6 +2123,22 @@
       "duration_ms": 171013,
       "name": "Girasoles",
       "url": "https://open.spotify.com/track/4LdtAljggvH4qzlxNxo559"
+    },
+    {
+      "added_at": "2022-08-05 16:40:51",
+      "album": {
+        "name": "Una Chica Como T\u00fa",
+        "url": "https://open.spotify.com/album/7neBiMNxuv7nz6z8v1JB1M"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "duration_ms": 167640,
+      "name": "Una Chica Como T\u00fa",
+      "url": "https://open.spotify.com/track/39IgIaGpqk7DQx7EZpmgCJ"
     },
     {
       "added_at": "2022-08-05 16:40:51",
@@ -2191,8 +2191,8 @@
     {
       "added_at": "2022-08-05 16:40:51",
       "album": {
-        "name": "No Te Olvido",
-        "url": "https://open.spotify.com/album/1veQ29kfzujZr8HSu7BuRX"
+        "name": "Con Las Ganas",
+        "url": "https://open.spotify.com/album/0mtZkrJ2WBLYjggwI3dyD9"
       },
       "artists": [
         {
@@ -2200,13 +2200,13 @@
           "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         },
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
         }
       ],
-      "duration_ms": 185253,
-      "name": "No Te Olvido",
-      "url": "https://open.spotify.com/track/7HqIAVm70XTRuy61urYpLT"
+      "duration_ms": 241306,
+      "name": "Con Las Ganas",
+      "url": "https://open.spotify.com/track/7gfZYsX0TVWf6RlMOyV9RB"
     },
     {
       "added_at": "2022-08-05 16:40:51",

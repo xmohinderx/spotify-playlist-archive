@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 
 > A soundscape of chilled electronic and compositional ambient music, to help you unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,713 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,728 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 41 | [Sacred \- Radio Edit](https://open.spotify.com/track/5gL8tr0Fr2oao8bE8epUXO) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sacred](https://open.spotify.com/album/4DEhXZRlriX0ZRJvE5dU9i) | 3:26 |
 | 42 | [Chaos](https://open.spotify.com/track/7BBZ6Il2sGyuNaaHiUJS83) | [Fletcher Reed](https://open.spotify.com/artist/2sQKM93VxtEcafQ1f1ukgl) | [Chaos & Clarity](https://open.spotify.com/album/3K9vnQRCyyNbOMHLAh3wvV) | 2:28 |
 | 43 | [Get Away](https://open.spotify.com/track/52x4EIYCNN2LXXgy8LQ7Tb) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Some Place Else](https://open.spotify.com/album/7G6KMFNhuWlwwn4zGZTmk9) | 3:07 |
-| 44 | [Tottertot](https://open.spotify.com/track/3MTwJVEBKql21xN1hdSLlp) | [Inwards](https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse) | [Bright Serpent](https://open.spotify.com/album/5qi4aoHpcDfsoTbVsjPXwI) | 4:15 |
-| 45 | [Love Is Alive](https://open.spotify.com/track/4NRWOq8GohOo62jFxIzMF8) | [Mozez](https://open.spotify.com/artist/3r6uJM01I6meTehVwh0q2b), [DJ Celeste Lear](https://open.spotify.com/artist/6Z8VsD3APPWszUaJi65y9d) | [Love Is Alive](https://open.spotify.com/album/02dSIhVa4IQs0xHxOsgHUt) | 3:42 |
-| 46 | [Planet Hearth](https://open.spotify.com/track/1RvPfvzAg6jbzWsODpDILb) | [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH) | [Planet Hearth](https://open.spotify.com/album/35WGtiXgUzM8ZANghXQxl3) | 4:17 |
+| 44 | [Planet Hearth](https://open.spotify.com/track/1RvPfvzAg6jbzWsODpDILb) | [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH) | [Planet Hearth](https://open.spotify.com/album/35WGtiXgUzM8ZANghXQxl3) | 4:17 |
+| 45 | [Tottertot](https://open.spotify.com/track/3MTwJVEBKql21xN1hdSLlp) | [Inwards](https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse) | [Bright Serpent](https://open.spotify.com/album/5qi4aoHpcDfsoTbVsjPXwI) | 4:15 |
+| 46 | [Love Is Alive](https://open.spotify.com/track/4NRWOq8GohOo62jFxIzMF8) | [Mozez](https://open.spotify.com/artist/3r6uJM01I6meTehVwh0q2b), [DJ Celeste Lear](https://open.spotify.com/artist/6Z8VsD3APPWszUaJi65y9d) | [Love Is Alive](https://open.spotify.com/album/02dSIhVa4IQs0xHxOsgHUt) | 3:42 |
 | 47 | [Nobody New Around You](https://open.spotify.com/track/33OTdf4l4rnrAMIc6FPjh1) | [Daithí](https://open.spotify.com/artist/2N5V735dwftKHqBpx9YPrz) | [Nobody New Around You](https://open.spotify.com/album/7MQyqBx6A1JbidrUgYWveK) | 4:27 |
 | 48 | [El Azul del Cielo \- Mente Orgánica Remix](https://open.spotify.com/track/0J6AcQFq8RnR4jWYYZNPbm) | [Buendia](https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH), [De Juepuchas](https://open.spotify.com/artist/7oVSI0ddXNkjEtvLoh0SRC), [Mente Orgánica](https://open.spotify.com/artist/1wfwGvcBGamXiXxuaExHRT), [Romboi](https://open.spotify.com/artist/7AevNCcvxBEy5z42d2A2RO) | [El Azul del Cielo \(Remix\)](https://open.spotify.com/album/7qYsWtbEwidXgIjiiZ0u1I) | 7:00 |
 | 49 | [Adderall](https://open.spotify.com/track/0pAGo08jBvebuxMUoqvulX) | [Asierhans](https://open.spotify.com/artist/4hN3QFUZ6g9QKTvy5TI0qU) | [Day One](https://open.spotify.com/album/2ltWCghk7udj6KAhKxJZnb) | 4:56 |
 | 50 | [Opals](https://open.spotify.com/track/0g9lBzTwOmnx3zLUTR9x62) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Opals](https://open.spotify.com/album/6MBYve8rGo30nOvcnYMZ8x) | 2:24 |
 
-Snapshot ID: `MTYzNDMwNTY0NywwMDAwMDAwMDBmNDhkNjU3MDhkNTVkMzk2OWU0YTI1ZDQ0OTQ5NGQ4`
+Snapshot ID: `MTYzNDMwNTY0NywwMDAwMDAwMDE2YTEyYWYzYjY5YzJjN2U0NGIxZjlmODhlMjZjNzM3`

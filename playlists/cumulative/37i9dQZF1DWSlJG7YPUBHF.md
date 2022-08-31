@@ -2,7 +2,7 @@
 
 ### [Legendary Guitar Solos](https://open.spotify.com/playlist/37i9dQZF1DWSlJG7YPUBHF)
 
-> Enjoy the most epic, electrifying, face\-melting axe performances\. Cover: Brian May
+> Enjoy the most epic, electrifying, face\-melting axe performances\. Cover: Eddie Van Halen
 
 58 songs - 5 hr 39 min - [published](https://open.spotify.com/playlist/0rO41sUWACZztPLVmQUDoG)
 

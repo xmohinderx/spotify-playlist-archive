@@ -4,7 +4,7 @@
 
 > Calm and relaxing sounds of  jazz to help you unwind.
 
-181 songs - 14 hr 15 min - [published](https://open.spotify.com/playlist/4VFlkwzjI7ScFjbEAfcPrl)
+182 songs - 14 hr 22 min - [published](https://open.spotify.com/playlist/4VFlkwzjI7ScFjbEAfcPrl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A Patch of Old Snow](https://open.spotify.com/track/5wSlPHEoAMlca7sm29Ayoe) | [Eyolf Dale](https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS) | [A Patch of Old Snow](https://open.spotify.com/album/1VgkPOavzHFghUa01Y2xch) | 3:47 | 2021-12-17 |  |
 | [A Tale Begun](https://open.spotify.com/track/16X8iiFGnwZrwendrYuwNj) | [Jan Garbarek](https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym) | [In Praise Of Dreams](https://open.spotify.com/album/7ucsX19objOe4AZhFH7G1L) | 4:39 | 2021-12-17 | 2022-03-04 |
 | [A Tale Begun](https://open.spotify.com/track/7EARqOXQvRcvOscWRoC28S) | [Jan Garbarek](https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym) | [In Praise Of Dreams](https://open.spotify.com/album/2zXOO2tVqEcBzEtFmYG9Ps) | 4:39 | 2021-12-17 | 2022-02-22 |
+| [Abeyance](https://open.spotify.com/track/6RR3VWktMxEjW95tE4B9H8) | [Caris Hermes](https://open.spotify.com/artist/23PTKxQtsIL4Z9AZsNabz0) | [Abeyance](https://open.spotify.com/album/0B2KIoa9OpRydCNaOP5p50) | 6:54 | 2022-08-25 |  |
 | [AG76](https://open.spotify.com/track/6GfJeNdiwxHAMJKpCm7XKR) | [Dominik Wania](https://open.spotify.com/artist/25D7V3YvCGzcloWOrAIhJd) | [Lonely Shadows](https://open.spotify.com/album/4IRifRBgHH1a8SNZ0joXiN) | 6:13 | 2021-12-17 |  |
 | [Alba](https://open.spotify.com/track/0S2mPQyeW7ivA6HIyxR7pB) | [Søren Bebe Trio](https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI) | [Echoes](https://open.spotify.com/album/00TmCrY8qOym3jKstft5fx) | 4:24 | 2022-05-25 |  |
 | [Albatross](https://open.spotify.com/track/3PnllpK4EkIOzpXEe8jhJ2) | [Mats Eilertsen](https://open.spotify.com/artist/66tv0Nc5AOVkeyMGS25rJh), [Harmen Fraanje](https://open.spotify.com/artist/4qCBi5dv3zyMRx3Ae98wOz), [Thomas Strønen](https://open.spotify.com/artist/6DeUn0VfASGtKU3XmeotoY) | [And Then Comes The Night](https://open.spotify.com/album/6aBM4FG8C0Rmg4VWFMLL0V) | 4:28 | 2022-05-26 |  |
@@ -127,7 +128,7 @@
 | [Right There](https://open.spotify.com/track/2m6wKuxNH3qDSqdSSRr3r7) | [Tord Gustavsen Quartet](https://open.spotify.com/artist/0yWGF7B6ZQy6HUg0cEP5lq) | [Extended Circle](https://open.spotify.com/album/3Y2Gvmeg7lM8r22Zp53sZJ) | 2:53 | 2022-05-26 |  |
 | [roads](https://open.spotify.com/track/3os2ZWpiap6mjJjuXRwoZw) | [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK), [Håkon Kornstad](https://open.spotify.com/artist/6rvXcIk2e2Xv8sZ5bP6pm2) | [roads](https://open.spotify.com/album/0HZEY9yhNkDxB2fZPoAj92) | 4:46 | 2021-12-17 |  |
 | [Ruins II](https://open.spotify.com/track/3DT8dSU0Vz2mjpyHfIn04W) | [Ayumi Tanaka Trio](https://open.spotify.com/artist/3ay6T09fpLYwib1MxOW9G1) | [Ruins II](https://open.spotify.com/album/62hzQtcRAnkV1nUdFlvckl) | 2:42 | 2021-12-17 |  |
-| [Seak Fruits](https://open.spotify.com/track/2l9J8shXr61aKfZPd9dLm9) | [Augusto Pirodda](https://open.spotify.com/artist/0UUb7JHY2ZTzjboFEVsa90), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [No Comment](https://open.spotify.com/album/2G0AgZNn7mpVLBWTLK7XRr) | 7:00 | 2021-12-17 |  |
+| [Seak Fruits](https://open.spotify.com/track/2l9J8shXr61aKfZPd9dLm9) | [Augusto Pirodda](https://open.spotify.com/artist/0UUb7JHY2ZTzjboFEVsa90), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [No Comment](https://open.spotify.com/album/2G0AgZNn7mpVLBWTLK7XRr) | 7:00 | 2021-12-17 | 2022-08-31 |
 | [Send In The Clowns](https://open.spotify.com/track/3PPVDDKMbETkMCREuYTfXu) | [Bobo Stenson](https://open.spotify.com/artist/4K2Ys4NwPXEYomQrKwAeZc), [Anders Jormin](https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [Goodbye](https://open.spotify.com/album/3CPWaPvzm0QniRVBsaDlUw) | 4:14 | 2021-12-17 | 2022-03-12 |
 | [Send In The Clowns](https://open.spotify.com/track/4Le0NVbXXqQbHzpaABq1zv) | [Bobo Stenson](https://open.spotify.com/artist/4K2Ys4NwPXEYomQrKwAeZc), [Anders Jormin](https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [Goodbye](https://open.spotify.com/album/4qj4LfQdDQUgohrOtYHgVD) | 4:14 | 2022-05-26 | 2022-08-18 |
 | [Shitoshito \(Raining Quietly\)](https://open.spotify.com/track/6nTPKl3LPhE1J81499Ux3Q) | [Helge Lien Trio](https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY) | [Guzuguzu](https://open.spotify.com/album/3TnFd2ZTmwfYZnTnT90NHE) | 6:06 | 2022-05-25 |  |

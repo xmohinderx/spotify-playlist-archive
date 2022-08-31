@@ -1,12 +1,12 @@
 {
   "description": "Sucessos e novidades do pop calminho pra relaxar o seu dia! Foto: Gabriel Elias",
-  "num_followers": 402073,
+  "num_followers": 402235,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4MjgwMCwwMDAwMDAwMDg1YzhkZjUzMDg4YjMzMGQxZTQxOGRlZDIxODM5ZjM3",
+  "snapshot_id": "MTY2MTQ4MjgwMCwwMDAwMDAwMGMwMzQ5ODNiYzE1YmZlNjIwYTdiMWJkNGI3N2M2Y2Iz",
   "tracks": [
     {
       "added_at": "2022-08-26 03:00:00",
@@ -323,26 +323,6 @@
     {
       "added_at": "2022-08-26 03:00:00",
       "album": {
-        "name": "Oceana",
-        "url": "https://open.spotify.com/album/0Keuh6VaVM7GNPET0kkSnN"
-      },
-      "artists": [
-        {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
-        },
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        }
-      ],
-      "duration_ms": 148965,
-      "name": "Oceana",
-      "url": "https://open.spotify.com/track/41F3OUGWKcsdIn1ujcx5hN"
-    },
-    {
-      "added_at": "2022-08-26 03:00:00",
-      "album": {
         "name": "Miragem",
         "url": "https://open.spotify.com/album/7heza5YlpANyzWtj0PZWhq"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 213351,
       "name": "Miragem",
       "url": "https://open.spotify.com/track/23hHJyj6LwcJtzvu9vVhZT"
+    },
+    {
+      "added_at": "2022-08-26 03:00:00",
+      "album": {
+        "name": "Oceana",
+        "url": "https://open.spotify.com/album/0Keuh6VaVM7GNPET0kkSnN"
+      },
+      "artists": [
+        {
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+        },
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "duration_ms": 148965,
+      "name": "Oceana",
+      "url": "https://open.spotify.com/track/41F3OUGWKcsdIn1ujcx5hN"
     },
     {
       "added_at": "2022-08-26 03:00:00",
@@ -435,22 +435,22 @@
     {
       "added_at": "2022-08-26 03:00:00",
       "album": {
-        "name": "Me Beija",
-        "url": "https://open.spotify.com/album/6jT8SLaJHeOgSReiWWNLQI"
+        "name": "Alto Mar",
+        "url": "https://open.spotify.com/album/6DahyEuFWlMu8ECGM2lrDX"
       },
       "artists": [
         {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
         },
         {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
         }
       ],
-      "duration_ms": 190937,
-      "name": "Me Beija",
-      "url": "https://open.spotify.com/track/4s5FI0NH6yiJ85tatkCJ8h"
+      "duration_ms": 197982,
+      "name": "Alto Mar",
+      "url": "https://open.spotify.com/track/7GwO8ewOutzHzL3HeMbxK4"
     },
     {
       "added_at": "2022-08-26 03:00:00",
@@ -475,22 +475,22 @@
     {
       "added_at": "2022-08-26 03:00:00",
       "album": {
-        "name": "Alto Mar",
-        "url": "https://open.spotify.com/album/6DahyEuFWlMu8ECGM2lrDX"
+        "name": "Me Beija",
+        "url": "https://open.spotify.com/album/6jT8SLaJHeOgSReiWWNLQI"
       },
       "artists": [
         {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
         },
         {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
         }
       ],
-      "duration_ms": 197982,
-      "name": "Alto Mar",
-      "url": "https://open.spotify.com/track/7GwO8ewOutzHzL3HeMbxK4"
+      "duration_ms": 190937,
+      "name": "Me Beija",
+      "url": "https://open.spotify.com/track/4s5FI0NH6yiJ85tatkCJ8h"
     },
     {
       "added_at": "2022-08-26 03:00:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2022-08-26 03:00:00",
       "album": {
+        "name": "Trilhas",
+        "url": "https://open.spotify.com/album/6pFk6M5FURqtdmHDFNJjt5"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 228231,
+      "name": "Barquinho de papel",
+      "url": "https://open.spotify.com/track/7nqOSC8cwBvaTsfmmm7HKX"
+    },
+    {
+      "added_at": "2022-08-26 03:00:00",
+      "album": {
         "name": "Somos Instantes",
         "url": "https://open.spotify.com/album/50cLjaea6W3hkVgK9nFDuB"
       },
@@ -647,22 +663,6 @@
     {
       "added_at": "2022-08-26 03:00:00",
       "album": {
-        "name": "De Cabe\u00e7a Pra Baixo",
-        "url": "https://open.spotify.com/album/36mc8clQQYccyzD9HkzXPv"
-      },
-      "artists": [
-        {
-          "name": "Vicka",
-          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
-        }
-      ],
-      "duration_ms": 185500,
-      "name": "A Vida N\u00e3o Erra",
-      "url": "https://open.spotify.com/track/3JPTkwFCf0SHfRVWOpZetC"
-    },
-    {
-      "added_at": "2022-08-26 03:00:00",
-      "album": {
         "name": "VEJA BABY (Vers\u00e3o Alternativa)",
         "url": "https://open.spotify.com/album/22PDkm4FLzUxArqoFKKYnQ"
       },
@@ -679,6 +679,22 @@
       "duration_ms": 202500,
       "name": "VEJA BABY - Vers\u00e3o Alternativa",
       "url": "https://open.spotify.com/track/3GCvBFyQNf5HE4UIni7euC"
+    },
+    {
+      "added_at": "2022-08-26 03:00:00",
+      "album": {
+        "name": "De Cabe\u00e7a Pra Baixo",
+        "url": "https://open.spotify.com/album/36mc8clQQYccyzD9HkzXPv"
+      },
+      "artists": [
+        {
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+        }
+      ],
+      "duration_ms": 185500,
+      "name": "A Vida N\u00e3o Erra",
+      "url": "https://open.spotify.com/track/3JPTkwFCf0SHfRVWOpZetC"
     },
     {
       "added_at": "2022-08-26 03:00:00",
@@ -715,22 +731,6 @@
       "duration_ms": 226243,
       "name": "X",
       "url": "https://open.spotify.com/track/6W8LexF36gzcCMHOYVUH3M"
-    },
-    {
-      "added_at": "2022-08-26 03:00:00",
-      "album": {
-        "name": "Trilhas",
-        "url": "https://open.spotify.com/album/6pFk6M5FURqtdmHDFNJjt5"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 228231,
-      "name": "Barquinho de papel",
-      "url": "https://open.spotify.com/track/7nqOSC8cwBvaTsfmmm7HKX"
     },
     {
       "added_at": "2022-08-26 03:00:00",
@@ -855,6 +855,22 @@
     {
       "added_at": "2022-08-26 03:00:00",
       "album": {
+        "name": "Doideira",
+        "url": "https://open.spotify.com/album/6911oHZwSo1MXBOhnocMbN"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 157573,
+      "name": "Doideira",
+      "url": "https://open.spotify.com/track/4aodXHEeYiQHyLBc0ElCX3"
+    },
+    {
+      "added_at": "2022-08-26 03:00:00",
+      "album": {
         "name": "Eu Te Quero (feat. Manu Gavassi) [Acoustic Version]",
         "url": "https://open.spotify.com/album/0F9fIfl3SGezt2kh373Xqv"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 172337,
       "name": "Eu Te Quero (feat. Manu Gavassi) - Acoustic Version",
       "url": "https://open.spotify.com/track/68qTU56nAFCVOycqBWDzZD"
-    },
-    {
-      "added_at": "2022-08-26 03:00:00",
-      "album": {
-        "name": "Doideira",
-        "url": "https://open.spotify.com/album/6911oHZwSo1MXBOhnocMbN"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 157573,
-      "name": "Doideira",
-      "url": "https://open.spotify.com/track/4aodXHEeYiQHyLBc0ElCX3"
     },
     {
       "added_at": "2022-08-26 03:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-08-26 03:00:00",
       "album": {
-        "name": "N\u00f3s Dois",
-        "url": "https://open.spotify.com/album/1EhM4M5YnaZUzbrxuTwlVR"
-      },
-      "artists": [
-        {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
-        }
-      ],
-      "duration_ms": 176030,
-      "name": "N\u00f3s Dois",
-      "url": "https://open.spotify.com/track/0ooea8ptVQNZehNygA91ng"
-    },
-    {
-      "added_at": "2022-08-26 03:00:00",
-      "album": {
         "name": "Dan\u00e7a",
         "url": "https://open.spotify.com/album/2RvxIv1XPBok8GsPBPgtSk"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 152961,
       "name": "Dan\u00e7a",
       "url": "https://open.spotify.com/track/3DS1sb4xQjCVBlTKfQ5bJL"
+    },
+    {
+      "added_at": "2022-08-26 03:00:00",
+      "album": {
+        "name": "N\u00f3s Dois",
+        "url": "https://open.spotify.com/album/1EhM4M5YnaZUzbrxuTwlVR"
+      },
+      "artists": [
+        {
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+        }
+      ],
+      "duration_ms": 176030,
+      "name": "N\u00f3s Dois",
+      "url": "https://open.spotify.com/track/0ooea8ptVQNZehNygA91ng"
     },
     {
       "added_at": "2022-08-26 03:00:00",
@@ -1211,18 +1211,22 @@
     {
       "added_at": "2022-08-26 03:00:00",
       "album": {
-        "name": "Faz Frio Aqui no Sul",
-        "url": "https://open.spotify.com/album/0H6AIKJCX6yj8NCnM9qaNS"
+        "name": "Tudo Teu",
+        "url": "https://open.spotify.com/album/2ARdu9IuLvWhy0c6eQPSYS"
       },
       "artists": [
         {
-          "name": "Naka mrl",
-          "url": "https://open.spotify.com/artist/1FIxVemJI8prZLU2bo4Crk"
+          "name": "Sandy",
+          "url": "https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8"
+        },
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
         }
       ],
-      "duration_ms": 168275,
-      "name": "Faz Frio Aqui no Sul",
-      "url": "https://open.spotify.com/track/13CbrA1hFYQE7gJUcLY99L"
+      "duration_ms": 213500,
+      "name": "Tudo Teu",
+      "url": "https://open.spotify.com/track/21bbR1glUbV7Vvo8hIMC2W"
     },
     {
       "added_at": "2022-08-26 03:00:00",
@@ -1251,22 +1255,6 @@
     {
       "added_at": "2022-08-26 03:00:00",
       "album": {
-        "name": "Amor de Liquidificador",
-        "url": "https://open.spotify.com/album/59m9JgIeX1Fa3mmxqTrV04"
-      },
-      "artists": [
-        {
-          "name": "duogram",
-          "url": "https://open.spotify.com/artist/3fuNvXraxWHImqMp0jfQ8Y"
-        }
-      ],
-      "duration_ms": 170373,
-      "name": "Amor de Liquidificador",
-      "url": "https://open.spotify.com/track/52R4PTY20KvlXSeyhNSfte"
-    },
-    {
-      "added_at": "2022-08-26 03:00:00",
-      "album": {
         "name": "Fr\u00e1gil",
         "url": "https://open.spotify.com/album/3118Bv0QT2WFC6aCmnNX9U"
       },
@@ -1279,6 +1267,38 @@
       "duration_ms": 173984,
       "name": "Fr\u00e1gil",
       "url": "https://open.spotify.com/track/1ip9nlulNilWezhKViKTRh"
+    },
+    {
+      "added_at": "2022-08-26 03:00:00",
+      "album": {
+        "name": "Faz Frio Aqui no Sul",
+        "url": "https://open.spotify.com/album/0H6AIKJCX6yj8NCnM9qaNS"
+      },
+      "artists": [
+        {
+          "name": "Naka mrl",
+          "url": "https://open.spotify.com/artist/1FIxVemJI8prZLU2bo4Crk"
+        }
+      ],
+      "duration_ms": 168275,
+      "name": "Faz Frio Aqui no Sul",
+      "url": "https://open.spotify.com/track/13CbrA1hFYQE7gJUcLY99L"
+    },
+    {
+      "added_at": "2022-08-26 03:00:00",
+      "album": {
+        "name": "Amor de Liquidificador",
+        "url": "https://open.spotify.com/album/59m9JgIeX1Fa3mmxqTrV04"
+      },
+      "artists": [
+        {
+          "name": "duogram",
+          "url": "https://open.spotify.com/artist/3fuNvXraxWHImqMp0jfQ8Y"
+        }
+      ],
+      "duration_ms": 170373,
+      "name": "Amor de Liquidificador",
+      "url": "https://open.spotify.com/track/52R4PTY20KvlXSeyhNSfte"
     },
     {
       "added_at": "2022-08-26 03:00:00",
@@ -1319,18 +1339,18 @@
     {
       "added_at": "2022-08-26 03:00:00",
       "album": {
-        "name": "Bruna Magalh\u00e3es",
-        "url": "https://open.spotify.com/album/4EgPhNp6NjZ7Q7Wt8tvvPf"
+        "name": "gostosa",
+        "url": "https://open.spotify.com/album/3snaKVq0ImC43u1ZYxxSYK"
       },
       "artists": [
         {
-          "name": "Bruna Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
         }
       ],
-      "duration_ms": 181966,
-      "name": "Um Pouco Mais",
-      "url": "https://open.spotify.com/track/0E1ZqVJQeRembqvvniCS7E"
+      "duration_ms": 154820,
+      "name": "gostosa",
+      "url": "https://open.spotify.com/track/438nqz8kEIvExTC1vtX8Wb"
     },
     {
       "added_at": "2022-08-26 03:00:00",
@@ -1347,6 +1367,22 @@
       "duration_ms": 229032,
       "name": "Sem Filtro",
       "url": "https://open.spotify.com/track/1UEUzTALPqCT2oDJ3LoQfC"
+    },
+    {
+      "added_at": "2022-08-26 03:00:00",
+      "album": {
+        "name": "Bruna Magalh\u00e3es",
+        "url": "https://open.spotify.com/album/4EgPhNp6NjZ7Q7Wt8tvvPf"
+      },
+      "artists": [
+        {
+          "name": "Bruna Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
+        }
+      ],
+      "duration_ms": 181966,
+      "name": "Um Pouco Mais",
+      "url": "https://open.spotify.com/track/0E1ZqVJQeRembqvvniCS7E"
     },
     {
       "added_at": "2022-08-26 03:00:00",
@@ -1403,42 +1439,6 @@
       "duration_ms": 180568,
       "name": "Fim do Mundo",
       "url": "https://open.spotify.com/track/6ZIylywjoQtsAbUhvrtwuH"
-    },
-    {
-      "added_at": "2022-08-26 03:00:00",
-      "album": {
-        "name": "gostosa",
-        "url": "https://open.spotify.com/album/3snaKVq0ImC43u1ZYxxSYK"
-      },
-      "artists": [
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        }
-      ],
-      "duration_ms": 154820,
-      "name": "gostosa",
-      "url": "https://open.spotify.com/track/438nqz8kEIvExTC1vtX8Wb"
-    },
-    {
-      "added_at": "2022-08-26 03:00:00",
-      "album": {
-        "name": "Tudo Teu",
-        "url": "https://open.spotify.com/album/2ARdu9IuLvWhy0c6eQPSYS"
-      },
-      "artists": [
-        {
-          "name": "Sandy",
-          "url": "https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8"
-        },
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 213500,
-      "name": "Tudo Teu",
-      "url": "https://open.spotify.com/track/21bbR1glUbV7Vvo8hIMC2W"
     },
     {
       "added_at": "2022-08-26 03:00:00",

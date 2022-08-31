@@ -1,6 +1,6 @@
 {
   "description": "The Real hip-hop. Cover: Roc Marciano & The Alchemist",
-  "num_followers": 1090489,
+  "num_followers": 1090532,
   "original_name": "Mind Right",
   "owner": {
     "name": "Spotify",
@@ -115,6 +115,30 @@
       "duration_ms": 172499,
       "name": "JADAKISS INTERLUDE (feat. Jadakiss)",
       "url": "https://open.spotify.com/track/39zh5ufK1qVSOh6fJk4hNl"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Painful",
+        "url": "https://open.spotify.com/album/6DDBmNDzEmiWH1LjE2thcw"
+      },
+      "artists": [
+        {
+          "name": "38 Spesh",
+          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
+        },
+        {
+          "name": "Che Noir",
+          "url": "https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J"
+        },
+        {
+          "name": "Freeway",
+          "url": "https://open.spotify.com/artist/2Jwr7hGoSNK3S3QBxh3T0z"
+        }
+      ],
+      "duration_ms": 174248,
+      "name": "Painful",
+      "url": "https://open.spotify.com/track/6DeSwy0RtrthSQHEcEGG67"
     },
     {
       "added_at": "2022-08-26 11:48:26",
@@ -479,7 +503,7 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Hunnit Dolla Hiccup",
+        "name": "Hunnit Dolla Hiccup (feat. Stove God Cooks)",
         "url": "https://open.spotify.com/album/6nhfAmspr2ISbHHnf1KQMB"
       },
       "artists": [
@@ -488,16 +512,16 @@
           "url": "https://open.spotify.com/artist/53S3boqktbqiB1JfHzsu1f"
         },
         {
-          "name": "Stove God Cooks",
-          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
-        },
-        {
           "name": "Benny The Butcher",
           "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "Stove God Cooks",
+          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
         }
       ],
       "duration_ms": 217872,
-      "name": "Hunnit Dolla Hiccup",
+      "name": "Hunnit Dolla Hiccup (feat. Stove God Cooks)",
       "url": "https://open.spotify.com/track/38xqJT3nzdCixMTcFYchJK"
     },
     {

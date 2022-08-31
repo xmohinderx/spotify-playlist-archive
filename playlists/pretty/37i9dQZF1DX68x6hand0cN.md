@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68x6hand0cN.md) - [plain]
 
 > Take another hit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 793,769 likes - 79 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 793,807 likes - 79 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Askim](https://open.spotify.com/track/6Y7SslHFxMnUTAXqbQkAAN) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Askim](https://open.spotify.com/album/4gxcNezXVxIb0PXUQq3alZ) | 2:53 |
-| 2 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 |
-| 3 | [Sigue](https://open.spotify.com/track/63ZedTAVRCICh2CNLWnsPZ) | [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [K y B](https://open.spotify.com/artist/1enXMVomlMi88CZFYL1m2f) | [Capítulo 1](https://open.spotify.com/album/0jps45S3BLg0ObqAyboGVb) | 3:31 |
-| 4 | [Mood](https://open.spotify.com/track/4k6yZRw7M04gZE2uW12Cw6) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN) | [Mood](https://open.spotify.com/album/0of66YXURMrVzhAVkYNDeO) | 2:31 |
+| 1 | [Mood](https://open.spotify.com/track/4k6yZRw7M04gZE2uW12Cw6) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN) | [Mood](https://open.spotify.com/album/0of66YXURMrVzhAVkYNDeO) | 2:31 |
+| 2 | [Askim](https://open.spotify.com/track/6Y7SslHFxMnUTAXqbQkAAN) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Askim](https://open.spotify.com/album/4gxcNezXVxIb0PXUQq3alZ) | 2:53 |
+| 3 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 |
+| 4 | [Sigue](https://open.spotify.com/track/63ZedTAVRCICh2CNLWnsPZ) | [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [K y B](https://open.spotify.com/artist/1enXMVomlMi88CZFYL1m2f) | [Capítulo 1](https://open.spotify.com/album/0jps45S3BLg0ObqAyboGVb) | 3:31 |
 | 5 | [Ghir Ntiya](https://open.spotify.com/track/4HLrkVmVOqFkUxMMzIkTZX) | [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV), [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Ghir Ntiya](https://open.spotify.com/album/5nsqflpGETuyeLdYLNy0mm) | 3:34 |
 | 6 | [Ya Dellali \(Afro Arab \#1\) \(feat\. Bryan Mg\)](https://open.spotify.com/track/3ZYYizCVeyUC13DrDiycMS) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Ya Dellali \(Afro Arab \#1\) \(feat\. Bryan Mg\)](https://open.spotify.com/album/1WduJOhYm7wXuTJORnymfr) | 2:41 |
 | 7 | [Tigini North African Remix](https://open.spotify.com/track/26adxYjTm41LAcuCBS6LxU) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw), [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8), [Kikimoteleba](https://open.spotify.com/artist/20fLTbSref8bRqtfD82pSo) | [Tigini North African Remix](https://open.spotify.com/album/1686yQJeTTDEuqlPPJZJqh) | 2:54 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68x6hand0cN.md) - [plain]
 | 78 | [Mango \- Extrait de la BO de « En Passant Pécho »](https://open.spotify.com/track/2xFfjs4zBBmwX9nsZPkcat) | [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N), [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [Mango \(Extrait de la BO de « En Passant Pécho »\)](https://open.spotify.com/album/0qod7rru7wX4DgxE0oZoN1) | 3:04 |
 | 79 | [Souhila](https://open.spotify.com/track/6RdwpQ01MVtJ10tyJDaxkE) | [Nassi](https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN) | [Souhila](https://open.spotify.com/album/6cS3kHSrmFMJFcisWs2lHR) | 2:44 |
 
-Snapshot ID: `MTY2MTM0MjU1NSwwMDAwMDAwMGNmM2ExMjlkZjUzZjA3YjIwYjRlMjQ4OGI1NjY2OTIx`
+Snapshot ID: `MTY2MTg1ODAxMywwMDAwMDAwMDY4MDY3NTUyNmRmMjE5MTU1ZGVmOTQ1OTY5NTUwZGI5`

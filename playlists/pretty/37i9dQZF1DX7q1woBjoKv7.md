@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 
 > California music breaking waves\. Cover: Larry June
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,857 likes - 56 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,861 likes - 56 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

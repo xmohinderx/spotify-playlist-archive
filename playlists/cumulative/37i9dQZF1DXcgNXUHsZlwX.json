@@ -480,6 +480,28 @@
     },
     {
       "album": {
+        "name": "Afternoon Bike Ride",
+        "url": "https://open.spotify.com/album/6JO6ME8KqaBNAzrJg05yZT"
+      },
+      "artists": [
+        {
+          "name": "afternoon bike ride",
+          "url": "https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9"
+        },
+        {
+          "name": "Ryan Hemsworth",
+          "url": "https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179141,
+      "name": "Before the Fall",
+      "url": "https://open.spotify.com/track/2KQmCj4MpTZUKyOVo2sGQZ"
+    },
+    {
+      "album": {
         "name": "Nameless",
         "url": "https://open.spotify.com/album/1jKa3DaEBF3uBSJQ911noU"
       },
@@ -3199,7 +3221,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 126510,
       "name": "leave the room and face the waves",
       "url": "https://open.spotify.com/track/0lI9WwS3bx3HJPv2BGDXLZ"
@@ -6449,7 +6471,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 200358,
       "name": "Vigiles",
       "url": "https://open.spotify.com/track/6ClNYY6az9pC4T0pZI3T44"
@@ -6623,6 +6645,24 @@
       "duration_ms": 228522,
       "name": "Y'a un vent qui me ramene",
       "url": "https://open.spotify.com/track/6rnHABZ9tb7BKy5kaGjOuI"
+    },
+    {
+      "album": {
+        "name": "\u00c0 bient\u00f4t",
+        "url": "https://open.spotify.com/album/4nrDrQTrCS5re6HQNRoP6S"
+      },
+      "artists": [
+        {
+          "name": "Vanille",
+          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "\u00c0 bient\u00f4t",
+      "url": "https://open.spotify.com/track/2hQqWfiludT87JzCvNVW5U"
     },
     {
       "album": {

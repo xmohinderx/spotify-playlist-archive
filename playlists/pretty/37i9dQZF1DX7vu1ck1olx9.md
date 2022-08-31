@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 
 > Cool down with these chill beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,675 likes - 82 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,697 likes - 82 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Controlla](https://open.spotify.com/track/1FlY15vdP570PJucy6JdYm) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [rainy evening](https://open.spotify.com/album/2QfC7NDknouUOjSPm12OxQ) | 1:48 |
 | 2 | [thinking of you](https://open.spotify.com/track/1oSevjov1EOdo8TYcrb5nQ) | [mommy](https://open.spotify.com/artist/0DJoMHFNyxWdoGqi8XMdfk), [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs), [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft) | [Inaudible](https://open.spotify.com/album/3qJLsN4fua8Ggh5mugCXb6) | 2:11 |
 | 3 | [Single Phial](https://open.spotify.com/track/0ShdJEt3nvxq8WNDgYLzWm) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [1 Am\. Study Session](https://open.spotify.com/album/5YHjaK7w0G690vmyEiob1C) | 1:43 |
-| 4 | [Ji\-Eun's Sunset](https://open.spotify.com/track/0DvqAXyoA7zRB8wgH0DjRO) | [City Girl](https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ) | [Neon Impasse](https://open.spotify.com/album/3M1CEjZiljxpfxoHFHoqNP) | 2:48 |
-| 5 | [Egyptian Pools](https://open.spotify.com/track/3CFS6vCzVVsWL5veYusCe7) | [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt) | [Meditation \- EP](https://open.spotify.com/album/4MM8YcaIHyXwHBRDmCIzIx) | 2:10 |
+| 4 | [Egyptian Pools](https://open.spotify.com/track/3CFS6vCzVVsWL5veYusCe7) | [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt) | [Meditation \- EP](https://open.spotify.com/album/4MM8YcaIHyXwHBRDmCIzIx) | 2:10 |
+| 5 | [Ji\-Eun's Sunset](https://open.spotify.com/track/0DvqAXyoA7zRB8wgH0DjRO) | [City Girl](https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ) | [Neon Impasse](https://open.spotify.com/album/3M1CEjZiljxpfxoHFHoqNP) | 2:48 |
 | 6 | [About You](https://open.spotify.com/track/0hIoMybq3v9K2ByrFCwjRu) | [xxyyxx](https://open.spotify.com/artist/1iqXhsjGeWi2Gje5q0mFYb) | [XXYYXX](https://open.spotify.com/album/7Lws9Z41rUQ9pnLgbNvxW0) | 4:07 |
 | 7 | [Dreams](https://open.spotify.com/track/7lRsXfGnY0PBSxVMIxuHME) | [Joakim Karud](https://open.spotify.com/artist/0iAOXvEDIMaAWPP5Ur0fYF) | [Dreams](https://open.spotify.com/album/38TJ5X61VQmV0jPkiE786Q) | 3:10 |
 | 8 | [The Burn Marks on My Epiano Wont Go Away](https://open.spotify.com/track/6IsX4N6M7i9OrYc4t70Swv) | [A L E X](https://open.spotify.com/artist/3nCJkmgdZQ6l8o828Y3vNQ) | [Growing Up, Vol\. 1](https://open.spotify.com/album/1qxLJGTmKJZVXzqKwLdzxD) | 1:36 |
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 | 33 | [Spirited](https://open.spotify.com/track/1UcvLQLOEY12MLaTHigbfo) | [Ninjoi.](https://open.spotify.com/artist/5L2CHkxMyK5JxdWzjKcI6K) | [Benkyou](https://open.spotify.com/album/2RBCfGDmRd88hyRBwNBQ6c) | 2:19 |
 | 34 | [Motor City 17](https://open.spotify.com/track/3edrFaXc7OHQoLU22n4ThT) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Motor City](https://open.spotify.com/album/0v9TomxoVagPyvVNGhDbyB) | 2:12 |
 | 35 | [blueberry](https://open.spotify.com/track/4yMZBub2nvvB75dKx6W259) | [\[bsd.u\]](https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk) | [late night bumps, Vol\. 4](https://open.spotify.com/album/6F4qw9nq5wORLwe729uJkG) | 1:56 |
-| 36 | [Oracle Night](https://open.spotify.com/track/5sAxHA9vc2phSUff2793GX) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [Chillhop Essentials Summer 2018](https://open.spotify.com/album/2YvRkxlqhH67oyLI0xC1mM) | 2:30 |
+| 36 | [belonging](https://open.spotify.com/track/2qoWmynrssGi78Bz6AJCuE) | [Swørn](https://open.spotify.com/artist/4iyFpbbfjNvfLQPx82OrYc) | [belonging](https://open.spotify.com/album/2kezrPntHgLokffEDoGzwL) | 2:01 |
 | 37 | [Tulips](https://open.spotify.com/track/4GSPOPaOAMtkmIHgT6SZgL) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh) | [Tulips](https://open.spotify.com/album/4TNMXIUpfPNY7vqfsO3foA) | 3:01 |
-| 38 | [belonging](https://open.spotify.com/track/2qoWmynrssGi78Bz6AJCuE) | [Swørn](https://open.spotify.com/artist/4iyFpbbfjNvfLQPx82OrYc) | [belonging](https://open.spotify.com/album/2kezrPntHgLokffEDoGzwL) | 2:01 |
+| 38 | [Oracle Night](https://open.spotify.com/track/5sAxHA9vc2phSUff2793GX) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [Chillhop Essentials Summer 2018](https://open.spotify.com/album/2YvRkxlqhH67oyLI0xC1mM) | 2:30 |
 | 39 | [Nightcrawler](https://open.spotify.com/track/6D3YkHy51Mn7Ijdiz9WaIP) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [Nightcrawler](https://open.spotify.com/album/79ogVC2RRrdipDKIXNf8zt) | 3:45 |
 | 40 | [3 Am](https://open.spotify.com/track/5LwxaewIXhdkWL0EDncFwY) | [Oui Lele](https://open.spotify.com/artist/3tbv8PcwIqfWdsgdGcWgdY) | [3 Am](https://open.spotify.com/album/69ea67ITA5EgIJPeF6qMVm) | 2:04 |
 | 41 | [night walk](https://open.spotify.com/track/12Q21aqqo0oggpqlkP0nOt) | [Nymano](https://open.spotify.com/artist/3BoSEarTgKiw8sHE0ixJNK), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Chillhop Essentials Winter 2017](https://open.spotify.com/album/0Gec7sa8MPlj5cW9JbqwEl) | 3:09 |
@@ -66,13 +66,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 | 56 | [The Soul of Things](https://open.spotify.com/track/43bu6Gf4x8MWZYfrTLxL7d) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [Granat Session Vol\. II](https://open.spotify.com/album/5zPX6YHeIh6D6yQ7u9zR9l) | 2:30 |
 | 57 | [mochus](https://open.spotify.com/track/3HDMX7NqmyPYmTfBgmCJlO) | [Plusma](https://open.spotify.com/artist/1BrPtX4urPftXEDWrVTdRH) | [Chillhop Essentials Fall 2018](https://open.spotify.com/album/2YWGJnubyNg6IkFtaZKBCl) | 2:12 |
 | 58 | [Aurora](https://open.spotify.com/track/7k2H4PYQ1N2mh8W20gsk3K) | [Kudasaibeats](https://open.spotify.com/artist/3VcaBezSFVJHqylrhaYun2) | [Aurora](https://open.spotify.com/album/56A7kmD6LKvf6BXwCSYcDn) | 2:52 |
-| 59 | [Shelter](https://open.spotify.com/track/6k1foZCmEKnMrLAd3nKlkT) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Shelter](https://open.spotify.com/album/0kLQU10QiF47j6ttLaBKcu) | 1:57 |
-| 60 | [Habitual Words](https://open.spotify.com/track/2IB7U1RPRbCuPspDCq1ecj) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Deeb](https://open.spotify.com/artist/1d9MVFeVkGTYnRNMlNe0dz) | [Twin](https://open.spotify.com/album/3UE5nSckTW1SSgepfBbabG) | 4:15 |
+| 59 | [Habitual Words](https://open.spotify.com/track/2IB7U1RPRbCuPspDCq1ecj) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Deeb](https://open.spotify.com/artist/1d9MVFeVkGTYnRNMlNe0dz) | [Twin](https://open.spotify.com/album/3UE5nSckTW1SSgepfBbabG) | 4:15 |
+| 60 | [Shelter](https://open.spotify.com/track/6k1foZCmEKnMrLAd3nKlkT) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Shelter](https://open.spotify.com/album/0kLQU10QiF47j6ttLaBKcu) | 1:57 |
 | 61 | [By Your Side](https://open.spotify.com/track/2MBjMlXQSI53TwDLWqbUQT) | [Yestalgia](https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl) | [By Your Side](https://open.spotify.com/album/5I7FDqBtCVnYrHzbjuz47W) | 2:23 |
 | 62 | [Colorful Skies](https://open.spotify.com/track/61hUoJIBc5m8a1YHu15ln9) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8), [MiDN8](https://open.spotify.com/artist/4SoTXSB2YaVSAlZcVTVuB4) | [Colorful Skies](https://open.spotify.com/album/6rk7Y2kVA0Mjk4tYISix4q) | 1:55 |
 | 63 | [Fractals](https://open.spotify.com/track/4ijwRNrJHhEPt1CNIzNG5E) | [The Deli](https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde), [Lungfulls](https://open.spotify.com/artist/4abFxakbctOvcH4kwan0ET) | [Jazz Cat](https://open.spotify.com/album/4VWW7BeHlH0jlMPQFtNSsu) | 2:59 |
-| 64 | [Solitude](https://open.spotify.com/track/1o1UWMy6g6QRLYnK8wuY9L) | [DCS Lefty](https://open.spotify.com/artist/39Y0ja9MWC0yMdKMFGu4L7) | [Solitude](https://open.spotify.com/album/5TIBOPZs2qfJ5SwvAaGqJz) | 2:25 |
-| 65 | [Are We Safe?](https://open.spotify.com/track/4li9SK4Cke0vSiJYBKgR3c) | [Intalekt](https://open.spotify.com/artist/0DyatUnzbcULupeMCfqumy) | [The Adventures Of Masta Splinta](https://open.spotify.com/album/6C9MolvNVm2DdfJ2or8qQQ) | 4:58 |
+| 64 | [Are We Safe?](https://open.spotify.com/track/4li9SK4Cke0vSiJYBKgR3c) | [Intalekt](https://open.spotify.com/artist/0DyatUnzbcULupeMCfqumy) | [The Adventures Of Masta Splinta](https://open.spotify.com/album/6C9MolvNVm2DdfJ2or8qQQ) | 4:58 |
+| 65 | [Solitude](https://open.spotify.com/track/1o1UWMy6g6QRLYnK8wuY9L) | [DCS Lefty](https://open.spotify.com/artist/39Y0ja9MWC0yMdKMFGu4L7) | [Solitude](https://open.spotify.com/album/5TIBOPZs2qfJ5SwvAaGqJz) | 2:25 |
 | 66 | [Soul Sista](https://open.spotify.com/track/6tun0i4mdf8qgNXVYxRZRe) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH), [Epektase](https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo) | [Chasing Sunsets](https://open.spotify.com/album/6dcJQL3ZyE6ODjsaibp6fi) | 2:00 |
 | 67 | [Act I](https://open.spotify.com/track/56Q5Wdwc0zILGWfdBzPfao) | [Rebecca Mardal](https://open.spotify.com/artist/56PuDgywHPrbEFyujgPc9V), [Hush Child](https://open.spotify.com/artist/3r46iM1vaXubb5us8YCDPa) | [Act I](https://open.spotify.com/album/5Zkht2CtX4CWk2b1UCxKXO) | 2:28 |
 | 68 | [keep on](https://open.spotify.com/track/33cmTU5f3QszwFl8s8Lua9) | [L'Indécis](https://open.spotify.com/artist/5p1ichthTka1KT0iUvrlIu) | [keep on](https://open.spotify.com/album/0b86iKkcVMOttxQ99GwXMa) | 2:20 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 | 81 | [If It Moves](https://open.spotify.com/track/146q2OSfFlvk9VBKTKR2Ms) | [Michael Michaelson](https://open.spotify.com/artist/72FGRiJVcSofI5bOBzoilz) | [If It Moves](https://open.spotify.com/album/0v3jKmP16FeoC05qddyZnw) | 1:38 |
 | 82 | [Pixels](https://open.spotify.com/track/3PFwq96cMjf99GqGGlXX5W) | [Anatomy Park](https://open.spotify.com/artist/3XuDZrvJBvhTEGb8uXubgN), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Pixels](https://open.spotify.com/album/5afdsskd6JtVeBjN83zOJb) | 2:33 |
 
-Snapshot ID: `MTY1OTY3MjEyMCwwMDAwMDAwMGRiYTZiMWE2YTQ2NGJkYjEwNWRmMTJhYWEzMjk1N2Iw`
+Snapshot ID: `MTY1OTY3MjEyMCwwMDAwMDAwMDY3ODU5ZWE5YzI4MWViOTM4NmNmNmE5ZjIzMzM5ZjRj`

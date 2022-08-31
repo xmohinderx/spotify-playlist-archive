@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Jackson Wang, Galantis, MK, Armin van Buuren, R3HAB, Simon Ward",
+  "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Jackson Wang, Galantis, MK, Kx5, deadmau5, Kaskade, Hayla",
   "name": "EDM Top 100",
   "published_playlist_ids": [
     "0Ntnl9seA6EX8wAm2l1oSO"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 198399,
       "name": "(Never Gonna) Be Alone",
       "url": "https://open.spotify.com/track/1vTTzqjD4zWJ8ZtVwgr4dK"
@@ -2389,7 +2389,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 213298,
       "name": "Better",
       "url": "https://open.spotify.com/track/4ljGFqApJVMvkkhnVezg4K"
@@ -2581,7 +2581,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 206265,
       "name": "Bionic Boy",
       "url": "https://open.spotify.com/track/7byloGFJ8lO5d7cCxFXOIh"
@@ -7279,7 +7279,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-24",
+      "date_removed": null,
       "duration_ms": 202821,
       "name": "Everything Goes On",
       "url": "https://open.spotify.com/track/3WBRfkOozHEsG0hbrBzwlm"
@@ -7919,7 +7919,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 185193,
       "name": "Feel The Vibe",
       "url": "https://open.spotify.com/track/12RAnp0xkdW22UGfgejElE"
@@ -8753,7 +8753,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 192688,
       "name": "Free",
       "url": "https://open.spotify.com/track/5agmzhJRTNdZsQsuyavdzx"
@@ -11853,7 +11853,7 @@
       ],
       "date_added": "2022-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 150991,
       "name": "I Will Survive",
       "url": "https://open.spotify.com/track/5Fi4nPER6YbntbYDW4P3Pz"
@@ -12841,7 +12841,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-15",
+      "date_removed": null,
       "duration_ms": 238125,
       "name": "INTO THE UNKNOWN",
       "url": "https://open.spotify.com/track/7nHruG1y3zBupJG6F6UQtB"
@@ -13977,6 +13977,32 @@
       "duration_ms": 207619,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/1loCqUHMuNUov9kBn29Vsv"
+    },
+    {
+      "album": {
+        "name": "Let It Be Me (Remixes)",
+        "url": "https://open.spotify.com/album/097kyycr5ZuLS2cPwwUHwt"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        },
+        {
+          "name": "Sondr",
+          "url": "https://open.spotify.com/artist/4hbnUamwrCHpv4wQTwvCIc"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185365,
+      "name": "Let It Be Me - Sondr Remix",
+      "url": "https://open.spotify.com/track/2v3DuCVBbopteJqdM7aKQK"
     },
     {
       "album": {
@@ -17621,7 +17647,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 186018,
       "name": "No One Dies From Love",
       "url": "https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1"
@@ -20513,7 +20539,7 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 181733,
       "name": "ROCKSTAR (feat. Roddy Ricch)",
       "url": "https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4"
@@ -21089,7 +21115,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 147818,
       "name": "Samba",
       "url": "https://open.spotify.com/track/0skgJbXMM4sPRwSKXvO2id"
@@ -21361,7 +21387,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 480253,
       "name": "Scythe Master",
       "url": "https://open.spotify.com/track/2ioTUZg5JbOwl2nKNFquQx"
@@ -22673,7 +22699,7 @@
       ],
       "date_added": "2020-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 164516,
       "name": "SOS - Laidback Luke Tribute Remix / Radio Edit",
       "url": "https://open.spotify.com/track/3eLdNmnRWr9gIyBcqTSSti"
@@ -24407,7 +24433,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 198979,
       "name": "The Best Part of Life (Imanbek Remix)",
       "url": "https://open.spotify.com/track/6OboXrS1zbfCmh7uDFCIQ5"
@@ -24817,7 +24843,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 126666,
       "name": "The Voodoo Babe",
       "url": "https://open.spotify.com/track/16Y0MeVVRU0SwpKDN9durD"
@@ -24901,7 +24927,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 165135,
       "name": "This Ain't Real",
       "url": "https://open.spotify.com/track/4mzlrsSOjP7HwPgkeAP8Mh"
@@ -26445,7 +26471,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 148080,
       "name": "Walk Of Shame",
       "url": "https://open.spotify.com/track/3zVanl4mB1GgGWwlhdM0Yo"
@@ -26687,7 +26713,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 149642,
       "name": "We Could Be Together (feat. Daddy DJ)",
       "url": "https://open.spotify.com/track/3ElGRG3DqSzzkh1b2wnbzf"
@@ -28001,7 +28027,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 168768,
       "name": "Wurk",
       "url": "https://open.spotify.com/track/4Ynibk8PO978n4voJ1Uzby"

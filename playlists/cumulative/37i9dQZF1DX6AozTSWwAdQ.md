@@ -4,13 +4,14 @@
 
 > 沒有什麼比感覺好更重要了！這裡的歌曲能大大振奮心情、令你元氣十足！
 
-142 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/2kFM7zqf6T4GVjlLl672z4)
+143 songs - 7 hr 43 min - [published](https://open.spotify.com/playlist/2kFM7zqf6T4GVjlLl672z4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [15 Again](https://open.spotify.com/track/0VY3xLQo9sXjhIaLrVdIAt) | [The London Suede](https://open.spotify.com/artist/6GuRYj1MEnu1WZhDA2Xy0t) | [15 Again](https://open.spotify.com/album/0ERg12fJXEAe5uVfs6wXzu) | 3:24 | 2022-08-08 | 2022-08-16 |
 | [Ain't Nobody's Baby](https://open.spotify.com/track/1fTuWEkpSr2MyKxR8ifack) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [Ain't Nobody's Baby](https://open.spotify.com/album/35MQYWJLe9qhbgTIWGqsGJ) | 2:29 | 2022-07-18 | 2022-07-25 |
 | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd) | 3:03 | 2022-06-06 |  |
+| [All These Nights](https://open.spotify.com/track/1VeAXUa20YkzfEi1Zk2y0o) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [All These Nights](https://open.spotify.com/album/2EvQd56xKYeoeGFDn8jQj6) | 2:34 | 2022-08-29 |  |
 | [Another Place](https://open.spotify.com/track/2Fn4gZI3MAeWTiv7cSVxZQ) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Another Place](https://open.spotify.com/album/3PshhNStqCBXDzWm5O1VsE) | 3:33 | 2022-06-06 | 2022-07-28 |
 | [Ben & Jerry](https://open.spotify.com/track/2sg5fd4wF4r6NKMj9Zm3Rr) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Ben & Jerry](https://open.spotify.com/album/1Hn5Rbk7431cLlGNQw32Cj) | 2:38 | 2022-06-06 | 2022-07-29 |
 | [Best of Me](https://open.spotify.com/track/022KUgS0Q5c3MTePafMLai) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Best of Me](https://open.spotify.com/album/3oASV6tuBSN9tpImtPJO3U) | 3:33 | 2022-06-06 | 2022-07-29 |
@@ -96,7 +97,7 @@
 | [Not Your B](https://open.spotify.com/track/3DnBeUKpyH4mFtfSWlvQjQ) | [Vandetta](https://open.spotify.com/artist/2zJyoM4BKp0Aufq8QIpexd), [Charlie Lim](https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ), [Chok Kerong](https://open.spotify.com/artist/1IOS1SiiBsCWWjebFzynOh), [Tim De Cotta](https://open.spotify.com/artist/0SFCGvh4sE1t6b2mTgpQ5D) | [Not Your B](https://open.spotify.com/album/6AOGxyQ5oWdQv7PP8K8EuC) | 3:39 | 2022-06-06 | 2022-07-29 |
 | [On My Way](https://open.spotify.com/track/30w9SEmvLQTrWf9LFxA7IO) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [On My Way](https://open.spotify.com/album/3ezCvHQlNEaFkZflL2FXIh) | 3:23 | 2022-06-06 | 2022-07-29 |
 | [Peer Pressure \(feat\. Julia Michaels\)](https://open.spotify.com/track/4JWQC6gyYoPRnxRxk0ta2M) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Peer Pressure \(feat\. Julia Michaels\)](https://open.spotify.com/album/4pPJ0Hwrvadty8bGsg4Msg) | 2:56 | 2022-06-27 | 2022-07-04 |
-| [Phoenix](https://open.spotify.com/track/6zAiRKvAMlXHxEtyO4yxIO) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0), [Chrissy Costanza](https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv) | [Phoenix](https://open.spotify.com/album/6IatiP8DCUD2ps9KvocWgA) | 3:17 | 2022-08-22 |  |
+| [Phoenix](https://open.spotify.com/track/6zAiRKvAMlXHxEtyO4yxIO) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0), [Chrissy Costanza](https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv) | [Phoenix](https://open.spotify.com/album/6IatiP8DCUD2ps9KvocWgA) | 3:17 | 2022-08-22 | 2022-08-31 |
 | [Physical \(feat\. Hwa Sa\)](https://open.spotify.com/track/23jEeXRyrjFbfs2Q8tBwdI) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Physical \(feat\. Hwa Sa\)](https://open.spotify.com/album/6apIJi4hf7U6cBOFwIqq1b) | 3:13 | 2022-06-20 | 2022-06-24 |
 | [Radioactive Rain](https://open.spotify.com/track/2MPkM6BASRAxetDtmG9xHo) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Radioactive Rain](https://open.spotify.com/album/3Rq4ccDxBiquN4CmJ7c0iZ) | 3:31 | 2022-06-06 | 2022-07-23 |
 | [Remind Me](https://open.spotify.com/track/6VIYEyjNW71NnIGEduf8D8) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Remind Me](https://open.spotify.com/album/0fL8J5En5o6sd8vSHAbKGt) | 3:31 | 2022-07-25 |  |

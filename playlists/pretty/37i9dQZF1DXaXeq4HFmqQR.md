@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Yorka y más mujeres, a todo volumen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,155 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,147 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Casa](https://open.spotify.com/track/0qCy54FENC3CPqOSMjHzPw) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Chao](https://open.spotify.com/album/50NOVmSzpApZluUtVSv1Tz) | 4:18 |
-| 2 | [TYF](https://open.spotify.com/track/5SCwhJYHypju5RCI7zgVk2) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [TYF](https://open.spotify.com/album/1Z3VaI95Uej1kjjtaKFamW) | 3:33 |
+| 2 | [TYF](https://open.spotify.com/track/3YGklnT5auf8CCLCbvAgFJ) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [TYF](https://open.spotify.com/album/09LrimhS4xCJCyqsz9CMhA) | 3:33 |
 | 3 | [Entre las Sombras](https://open.spotify.com/track/3ni4vqftJIveWJjbSPBaqe) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ), [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo), [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L), [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Entre las Sombras](https://open.spotify.com/album/2JwsMCwIT8sIXw1kAVY99p) | 4:30 |
 | 4 | [GARZA](https://open.spotify.com/track/26CbNWcJrCh6VX5MKU9ihD) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [GARZA](https://open.spotify.com/album/2eXBKS6GDiidtFKu10IFgJ) | 3:26 |
 | 5 | [Laurel](https://open.spotify.com/track/37YyT8i9em5eFScILi8Pcy) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Laurel](https://open.spotify.com/album/5jxjVPBCWVqwnZI0keIMYG) | 5:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 49 | [diario de vida](https://open.spotify.com/track/2c65jE9haVYNMnIxJ5PPbQ) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [diario de vida](https://open.spotify.com/album/1QOrPPbZboW8SPmCTzlKA3) | 3:04 |
 | 50 | [Milagros](https://open.spotify.com/track/2TBePNbBTf5wbDI7Rebmp8) | [DINDI JANE](https://open.spotify.com/artist/3NtqMR9pkptsO9mRHUmYDJ) | [Milagros](https://open.spotify.com/album/0kPuuj3n0l0Wi2Sg1Gj5H1) | 3:10 |
 
-Snapshot ID: `MTY1OTQ5OTIwMCwwMDAwMDAwMGU1OTQyMzg3ZTkxMGZlNGU1MmUyMzkzMDAwZDk1NTJk`
+Snapshot ID: `MTY1OTQ5OTIwMCwwMDAwMDAwMDRjMzNiYTRjMjdiZjNhMTMxMDM2NWFiZWE1MWY0MjZk`

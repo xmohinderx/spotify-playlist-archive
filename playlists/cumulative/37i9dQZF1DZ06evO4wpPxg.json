@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Blues & Ragtime (Live)",
+        "url": "https://open.spotify.com/album/2fs1vPEk2YnmXptiETV1TJ"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230333,
+      "name": "Baby, Let Me Lay It On You - Live",
+      "url": "https://open.spotify.com/track/4eFMtVuEWbL2clRfgu66Oe"
+    },
+    {
+      "album": {
         "name": "Demons & Angels - the Music of Rev. Gary Davis",
         "url": "https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox"
       },
@@ -397,7 +415,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 144133,
       "name": "Give Me a Heart to Love",
       "url": "https://open.spotify.com/track/5dGPjdbXzYKKm3nOWBqgOc"
@@ -451,7 +469,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-24",
+      "date_removed": null,
       "duration_ms": 186186,
       "name": "Got On My Traveling Shoes",
       "url": "https://open.spotify.com/track/6it4UJHJ6HuVqIpkDLQ8Vp"
@@ -685,7 +703,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 263160,
       "name": "I Decided To Go Down",
       "url": "https://open.spotify.com/track/73vg5Yl2h1ueT22YBFbLlF"
@@ -721,7 +739,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 528053,
       "name": "I Feel Like My Time Ain't Long - Live in Portland, OR",
       "url": "https://open.spotify.com/track/6nVccmTg0TCxoGqukm11I6"
@@ -937,7 +955,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 225746,
       "name": "If the Lord Be for You",
       "url": "https://open.spotify.com/track/1BngS6U4fZ5gsQKbReI0iP"
@@ -955,7 +973,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-27",
+      "date_removed": null,
       "duration_ms": 327040,
       "name": "Instrumental - Live in Portland, OR",
       "url": "https://open.spotify.com/track/0ncVnjlFjxbcwexFCj3XM3"
@@ -1034,6 +1052,24 @@
     },
     {
       "album": {
+        "name": "Rev. Blind Gary Davis",
+        "url": "https://open.spotify.com/album/4eXDWspSXpOveNTqI1sJNG"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163666,
+      "name": "Little Ragtime",
+      "url": "https://open.spotify.com/track/5uxznpI2NUYQ43TVSZ46IM"
+    },
+    {
+      "album": {
         "name": "Harlem Street Singer",
         "url": "https://open.spotify.com/album/6LIeJyolQce8lDtRHpQBbr"
       },
@@ -1045,7 +1081,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-29",
+      "date_removed": null,
       "duration_ms": 258240,
       "name": "Lo, I Be With You Always",
       "url": "https://open.spotify.com/track/3ris8TaqMl6ZwmlClJ59VG"
@@ -1081,7 +1117,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 258266,
       "name": "Lord, I Looked Down The Road",
       "url": "https://open.spotify.com/track/3DwLIPryx8uGBcchKIrUCj"
@@ -1099,7 +1135,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 183902,
       "name": "Lord, I Wish I Could See",
       "url": "https://open.spotify.com/track/6KX8xLpTnIIfa4D5mB9zxS"
@@ -1117,7 +1153,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-27",
+      "date_removed": null,
       "duration_ms": 189653,
       "name": "Lord, Stand By Me",
       "url": "https://open.spotify.com/track/43YFUTTItto66K15U3PdIi"
@@ -1207,7 +1243,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-28",
+      "date_removed": null,
       "duration_ms": 253200,
       "name": "Mister Jim (Walkin' Dog Blues) - Instrumental",
       "url": "https://open.spotify.com/track/7y1rfJduBCRDaaeJ3El2pL"
@@ -1297,7 +1333,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 218933,
       "name": "No One Can Do Me Like Jesus",
       "url": "https://open.spotify.com/track/1xpURbfnpOACV0IT7Ydgqy"
@@ -1315,7 +1351,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-20",
+      "date_removed": null,
       "duration_ms": 184216,
       "name": "O Lord, Search My Heart",
       "url": "https://open.spotify.com/track/3R5AhtweeDN7eRhijbvVss"
@@ -1405,7 +1441,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 195573,
       "name": "Please Baby - Instrumental",
       "url": "https://open.spotify.com/track/4vp787isTelbuYgnkZcwGi"
@@ -1423,7 +1459,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-28",
+      "date_removed": null,
       "duration_ms": 177533,
       "name": "Pure Religion",
       "url": "https://open.spotify.com/track/6xTWLIflbQGvTrYEDG4bMs"
@@ -1549,7 +1585,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 181760,
       "name": "Shine On Me",
       "url": "https://open.spotify.com/track/6lXyg4DRa5VdxRWitfnYZM"
@@ -1657,7 +1693,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 210266,
       "name": "The Coon Hunt - Instrumental",
       "url": "https://open.spotify.com/track/699dNhyPOOfnmNVSBvDize"
@@ -1675,7 +1711,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 198626,
       "name": "The Great Change In Me",
       "url": "https://open.spotify.com/track/20UOUpuO0wcF9ftS9JUJyz"
@@ -1693,7 +1729,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 252093,
       "name": "The Uncloudy Day",
       "url": "https://open.spotify.com/track/50ODpWmYdH0EjbnUlKyuZ7"
@@ -1747,7 +1783,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 323520,
       "name": "There's Destruction on This Land",
       "url": "https://open.spotify.com/track/5PqweQoOlKK9MzRJBk2wGV"
@@ -1783,7 +1819,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 227066,
       "name": "Tryin' To Get Home",
       "url": "https://open.spotify.com/track/0wBrXIcKnvLfRuiWWNyDH2"
@@ -1873,7 +1909,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 389400,
       "name": "United States March (Soldier's Drill) - Instrumental",
       "url": "https://open.spotify.com/track/5VnTgyxelyGYKapBOhfCr7"
@@ -1891,7 +1927,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 310426,
       "name": "Walkin' Dog Blues",
       "url": "https://open.spotify.com/track/7lbpKUAARDWewV06pN8mOb"
@@ -1981,7 +2017,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 187559,
       "name": "You Can Go Home",
       "url": "https://open.spotify.com/track/6AqBgPjQXZYolTRG6vmn4M"

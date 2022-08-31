@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin Indie. Cover: Dannylux",
-  "num_followers": 501666,
+  "num_followers": 501720,
   "original_name": "el nuevo indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTYwMCwwMDAwMDAwMDU1NzY4ZjljZWI2YTk4MTk1MmYyMDJmZmVkZjQ3NGI0",
+  "snapshot_id": "MTY2MDg4MTYwMCwwMDAwMDAwMDA3YWIxZmU2NDgyYzg1ZmU2NGRlZThiM2IzNTQ1MzQ1",
   "tracks": [
     {
       "added_at": "2022-08-19 04:00:00",
@@ -843,6 +843,22 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
+        "name": "Real Life Situations",
+        "url": "https://open.spotify.com/album/5xdGIj9ivToi3Iag0pOx77"
+      },
+      "artists": [
+        {
+          "name": "Juan Wauters",
+          "url": "https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV"
+        }
+      ],
+      "duration_ms": 164523,
+      "name": "Locura",
+      "url": "https://open.spotify.com/track/0YdQ18RKVo46yNgj1H92MF"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
         "name": "inigualable",
         "url": "https://open.spotify.com/album/3o1aaswVqoB6hrjtzqeptq"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 178645,
       "name": "inigualable",
       "url": "https://open.spotify.com/track/0dgiJjVATkBD3IYJr6lTI2"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Real Life Situations",
-        "url": "https://open.spotify.com/album/5xdGIj9ivToi3Iag0pOx77"
-      },
-      "artists": [
-        {
-          "name": "Juan Wauters",
-          "url": "https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV"
-        }
-      ],
-      "duration_ms": 164523,
-      "name": "Locura",
-      "url": "https://open.spotify.com/track/0YdQ18RKVo46yNgj1H92MF"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
+        "name": "Que Sufras",
+        "url": "https://open.spotify.com/album/6ZTX8KAuiTD0Tmsk7XhpTu"
+      },
+      "artists": [
+        {
+          "name": "Doris Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0Tubiaojq0PHvZahvXl1ju"
+        }
+      ],
+      "duration_ms": 282069,
+      "name": "Que Sufras",
+      "url": "https://open.spotify.com/track/3ClYHSbumdpBbVAz8yYU9E"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
         "name": "DUALITY",
         "url": "https://open.spotify.com/album/1mHk73bDEklzG02PtK4lv4"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 195133,
       "name": "Si Nos Vamos",
       "url": "https://open.spotify.com/track/0egp9X5nN0qK1L9F585QnH"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Que Sufras",
-        "url": "https://open.spotify.com/album/6ZTX8KAuiTD0Tmsk7XhpTu"
-      },
-      "artists": [
-        {
-          "name": "Doris Anah\u00ed",
-          "url": "https://open.spotify.com/artist/0Tubiaojq0PHvZahvXl1ju"
-        }
-      ],
-      "duration_ms": 282069,
-      "name": "Que Sufras",
-      "url": "https://open.spotify.com/track/3ClYHSbumdpBbVAz8yYU9E"
     },
     {
       "added_at": "2022-08-19 04:00:00",

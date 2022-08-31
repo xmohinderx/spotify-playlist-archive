@@ -1,12 +1,12 @@
 {
   "description": "Hit the road and scream your heart out!",
-  "num_followers": 542601,
+  "num_followers": 541544,
   "original_name": "Highway to Yell",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODg3MjU2NSwwMDAwMDAwMDU4YTZlMzNmY2Y2ZDA2YjRmZjVjNGQ5ZmYxMjdmMTY0",
+  "snapshot_id": "MTYzODg3MjU2NSwwMDAwMDAwMGQ0MjE2NDE4OGY1ZDRmNzA1MDQyNWNiOTQ1NmQ4NzA4",
   "tracks": [
     {
       "added_at": "2021-12-07 10:22:45",
@@ -507,22 +507,6 @@
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
-        "name": "Garage, Inc.",
-        "url": "https://open.spotify.com/album/5b7HQ04lPT7eGJQ7fmVsjC"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 304893,
-      "name": "Whiskey In The Jar",
-      "url": "https://open.spotify.com/track/3ZpWy5rBZv2aLQAldnmTsP"
-    },
-    {
-      "added_at": "2021-12-07 10:22:45",
-      "album": {
         "name": "House of Gold & Bones, Part 1",
         "url": "https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 229840,
       "name": "Absolute Zero",
       "url": "https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb"
+    },
+    {
+      "added_at": "2021-12-07 10:22:45",
+      "album": {
+        "name": "Garage, Inc.",
+        "url": "https://open.spotify.com/album/5b7HQ04lPT7eGJQ7fmVsjC"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 304893,
+      "name": "Whiskey In The Jar",
+      "url": "https://open.spotify.com/track/3ZpWy5rBZv2aLQAldnmTsP"
     },
     {
       "added_at": "2021-12-07 10:22:45",
@@ -635,22 +635,6 @@
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
-        "name": "When Legends Rise",
-        "url": "https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV"
-      },
-      "artists": [
-        {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
-        }
-      ],
-      "duration_ms": 177048,
-      "name": "Bulletproof",
-      "url": "https://open.spotify.com/track/6w7ily4cFWEPO0XWFQYeUO"
-    },
-    {
-      "added_at": "2021-12-07 10:22:45",
-      "album": {
         "name": "Reload",
         "url": "https://open.spotify.com/album/7KDqRmr937ylvGilPGWxfD"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 269733,
       "name": "Fuel",
       "url": "https://open.spotify.com/track/1tTPC0hsnXq1IGpvWY54JC"
+    },
+    {
+      "added_at": "2021-12-07 10:22:45",
+      "album": {
+        "name": "When Legends Rise",
+        "url": "https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "duration_ms": 177048,
+      "name": "Bulletproof",
+      "url": "https://open.spotify.com/track/6w7ily4cFWEPO0XWFQYeUO"
     },
     {
       "added_at": "2021-12-07 10:22:45",
@@ -795,22 +795,6 @@
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
-        "name": "When Legends Rise",
-        "url": "https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV"
-      },
-      "artists": [
-        {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
-        }
-      ],
-      "duration_ms": 172826,
-      "name": "When Legends Rise",
-      "url": "https://open.spotify.com/track/1Si7crvw1M6Kgz9XiAtMiJ"
-    },
-    {
-      "added_at": "2021-12-07 10:22:45",
-      "album": {
         "name": "Songs For The Deaf",
         "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 187120,
       "name": "Go With The Flow",
       "url": "https://open.spotify.com/track/45DElIx0dXqUH4A88yQFdE"
+    },
+    {
+      "added_at": "2021-12-07 10:22:45",
+      "album": {
+        "name": "When Legends Rise",
+        "url": "https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "duration_ms": 172826,
+      "name": "When Legends Rise",
+      "url": "https://open.spotify.com/track/1Si7crvw1M6Kgz9XiAtMiJ"
     },
     {
       "added_at": "2021-12-07 10:22:45",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
-        "name": "Shot In The Dark",
-        "url": "https://open.spotify.com/album/1Rz3Q2PIhrCs21itNShUxB"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 185133,
-      "name": "Shot In The Dark",
-      "url": "https://open.spotify.com/track/6ZtrGCcn38kGImt2GPFbJB"
-    },
-    {
-      "added_at": "2021-12-07 10:22:45",
-      "album": {
         "name": "Erase You",
         "url": "https://open.spotify.com/album/40MZW6y8j9zJLyyB946IKH"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 201680,
       "name": "Highway",
       "url": "https://open.spotify.com/track/7aQT5OB4zEgyyxfRDbOBIt"
+    },
+    {
+      "added_at": "2021-12-07 10:22:45",
+      "album": {
+        "name": "Shot In The Dark",
+        "url": "https://open.spotify.com/album/1Rz3Q2PIhrCs21itNShUxB"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 185133,
+      "name": "Shot In The Dark",
+      "url": "https://open.spotify.com/track/6ZtrGCcn38kGImt2GPFbJB"
     },
     {
       "added_at": "2021-12-07 10:22:45",

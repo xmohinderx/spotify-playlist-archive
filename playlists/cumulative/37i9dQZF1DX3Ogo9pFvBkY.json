@@ -5038,6 +5038,24 @@
     },
     {
       "album": {
+        "name": "Here Right Now",
+        "url": "https://open.spotify.com/album/2r0RT6YAQhpK8te0yJtIA9"
+      },
+      "artists": [
+        {
+          "name": "duffu",
+          "url": "https://open.spotify.com/artist/0RolZme5KkLoLt2Je0CzJx"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166639,
+      "name": "Here Right Now",
+      "url": "https://open.spotify.com/track/2UxAjPFlMeE8GDuLUWGIcC"
+    },
+    {
+      "album": {
         "name": "Howler",
         "url": "https://open.spotify.com/album/1IOg1uUtdZiAlynGxlX4KA"
       },
@@ -5049,7 +5067,7 @@
       ],
       "date_added": "2019-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 166563,
       "name": "Here Right Now",
       "url": "https://open.spotify.com/track/6OuVGoZRBxfWSVdB5HnN7A"

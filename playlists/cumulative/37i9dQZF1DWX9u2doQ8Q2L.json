@@ -196,6 +196,28 @@
     },
     {
       "album": {
+        "name": "Amsterdam Maybe",
+        "url": "https://open.spotify.com/album/140nB1mF9qeKQsIGr4tyzN"
+      },
+      "artists": [
+        {
+          "name": "AmPm",
+          "url": "https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf"
+        },
+        {
+          "name": "SHIMA",
+          "url": "https://open.spotify.com/artist/5DIqscCDlSKeas54ucF9SI"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288196,
+      "name": "Amsterdam Maybe",
+      "url": "https://open.spotify.com/track/0d6qGECOj1zwdGlKD0yuok"
+    },
+    {
+      "album": {
         "name": "X\u00ecn",
         "url": "https://open.spotify.com/album/7tDwINWYTnSPo52LtiK2E3"
       },
@@ -649,7 +671,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 226395,
       "name": "Cut!",
       "url": "https://open.spotify.com/track/7Gk6wh2JTAH8d9eqU3GKon"
@@ -837,7 +859,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 259760,
       "name": "Drippin' Desert",
       "url": "https://open.spotify.com/track/3oIRoQoLagPUYw3JcvuVeq"
@@ -1063,7 +1085,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 252666,
       "name": "Gentle Hands",
       "url": "https://open.spotify.com/track/2JkLmkvLRq89CrcrOdOBT8"
@@ -1756,6 +1778,24 @@
     },
     {
       "album": {
+        "name": "Let Me Let You Go",
+        "url": "https://open.spotify.com/album/4DSQT7lIc5Unlz6LoyBPzI"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180211,
+      "name": "Let Me Let You Go - Japanese Version",
+      "url": "https://open.spotify.com/track/4kvYYgoKbVblOo7lPfJWf2"
+    },
+    {
+      "album": {
         "name": "LIGHT HOUSE",
         "url": "https://open.spotify.com/album/40GFIASzdvtix58rdPJZco"
       },
@@ -2135,6 +2175,28 @@
       "duration_ms": 190816,
       "name": "On & On",
       "url": "https://open.spotify.com/track/4gDolFunOhVEfAPJRJTZwc"
+    },
+    {
+      "album": {
+        "name": "on our journey feat. \u95a2\u53e3\u30b7\u30f3\u30b4",
+        "url": "https://open.spotify.com/album/0VrOFPsnk2xwDVTlTDjcsJ"
+      },
+      "artists": [
+        {
+          "name": "lo-key design",
+          "url": "https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB"
+        },
+        {
+          "name": "\u95a2\u53e3\u30b7\u30f3\u30b4",
+          "url": "https://open.spotify.com/artist/3fKuiwNIx4A4ljcpAUKHIz"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199333,
+      "name": "on our journey feat. \u95a2\u53e3\u30b7\u30f3\u30b4",
+      "url": "https://open.spotify.com/track/2qdtvdlG0JueDhM3gs10MP"
     },
     {
       "album": {
@@ -2935,7 +2997,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 195360,
       "name": "Streets of Tokyo",
       "url": "https://open.spotify.com/track/7iMg3ieVWREs9P8l6SXPTp"
@@ -3635,14 +3697,14 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 190344,
       "name": "World is Mine",
       "url": "https://open.spotify.com/track/4fCm5wA6obyowgH4Rn3cTS"
     },
     {
       "album": {
-        "name": "World's End (Julia Wu, 5lack)",
+        "name": "World's End (feat. Julia Wu, 5lack)",
         "url": "https://open.spotify.com/album/4TdMgCC9A81JzD2BTfsczk"
       },
       "artists": [
@@ -3663,7 +3725,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 306907,
-      "name": "World's End",
+      "name": "World's End (feat. Julia Wu, 5lack)",
       "url": "https://open.spotify.com/track/30n0Z8l9uTkKCQemxDzTnJ"
     },
     {
@@ -3803,6 +3865,24 @@
       "duration_ms": 261319,
       "name": "\u3048\u3048\u3058\u3083\u306a\u3044\u304b '22",
       "url": "https://open.spotify.com/track/2ZjURkk1c2PPNsvUObkgCB"
+    },
+    {
+      "album": {
+        "name": "\u304a\u3064\u304b\u308c\u3055\u307e",
+        "url": "https://open.spotify.com/album/1FMFYaEbNu6fRSANvfr8JL"
+      },
+      "artists": [
+        {
+          "name": "Borsch",
+          "url": "https://open.spotify.com/artist/6KKXBoP2i6wgxXX8mUbQcc"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207417,
+      "name": "\u304a\u3064\u304b\u308c\u3055\u307e",
+      "url": "https://open.spotify.com/track/67CX2TCjTzcfOVLG37MqYC"
     },
     {
       "album": {
@@ -4271,6 +4351,24 @@
       "duration_ms": 187473,
       "name": "\u5351\u5f25\u547c",
       "url": "https://open.spotify.com/track/3TEVu2fI0WZJmug0xuY6PP"
+    },
+    {
+      "album": {
+        "name": "\u5352\u696d\u8a3c\u66f8",
+        "url": "https://open.spotify.com/album/5Q3pEspqecFokYfnN9CEhX"
+      },
+      "artists": [
+        {
+          "name": "ODD Foot Works",
+          "url": "https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169085,
+      "name": "\u5352\u696d\u8a3c\u66f8",
+      "url": "https://open.spotify.com/track/69ee6Gy8VEF0OSaduyazKM"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "100% Pinoy hits from your favorite artists!",
-  "num_followers": 2281747,
+  "num_followers": 2281826,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDExMTMzMSwwMDAwMDAwMDE5ZTNjNWQzZDE2NGRkYTgwNWMxNWU1ZTE3Mzc0NGJj",
+  "snapshot_id": "MTY2MDExMTMzMSwwMDAwMDAwMDhlNGQ5M2Y1N2E2ZjYwZDQ1Y2U5Y2M2NGY0MTgzYTlh",
   "tracks": [
     {
       "added_at": "2022-06-13 03:55:05",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-06-13 03:55:05",
       "album": {
-        "name": "Nang Dumating Ka",
-        "url": "https://open.spotify.com/album/0pKql5M2xJjgryZLA9H4T9"
-      },
-      "artists": [
-        {
-          "name": "Bandang Lapis",
-          "url": "https://open.spotify.com/artist/4slXciON4jYY6mqE9LjSFx"
-        }
-      ],
-      "duration_ms": 379804,
-      "name": "Nang Dumating Ka",
-      "url": "https://open.spotify.com/track/7Kh9hYahcc7CY9ySWAhbfe"
-    },
-    {
-      "added_at": "2022-06-13 03:55:05",
-      "album": {
         "name": "Buwan",
         "url": "https://open.spotify.com/album/2CF1utwLM2yXHMZhwFGVY1"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 343446,
       "name": "Buwan",
       "url": "https://open.spotify.com/track/5f9808hpiCpuNyqqdXmpF2"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "Nang Dumating Ka",
+        "url": "https://open.spotify.com/album/0pKql5M2xJjgryZLA9H4T9"
+      },
+      "artists": [
+        {
+          "name": "Bandang Lapis",
+          "url": "https://open.spotify.com/artist/4slXciON4jYY6mqE9LjSFx"
+        }
+      ],
+      "duration_ms": 379804,
+      "name": "Nang Dumating Ka",
+      "url": "https://open.spotify.com/track/7Kh9hYahcc7CY9ySWAhbfe"
     },
     {
       "added_at": "2022-06-13 03:55:05",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-06-13 03:55:05",
       "album": {
-        "name": "Nina",
-        "url": "https://open.spotify.com/album/1yx0lKqG8Z1J3IOxx4gbzs"
-      },
-      "artists": [
-        {
-          "name": "Nina",
-          "url": "https://open.spotify.com/artist/2tQbSWgZLIB8MXMnsXVRro"
-        }
-      ],
-      "duration_ms": 214773,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/1MkiRsYBkXbXvdiYvTTiQT"
-    },
-    {
-      "added_at": "2022-06-13 03:55:05",
-      "album": {
         "name": "Monodramatic",
         "url": "https://open.spotify.com/album/0fWuyWoKTJty03n7xpCrEe"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 253360,
       "name": "Sa'yo",
       "url": "https://open.spotify.com/track/3WLDRtRzbKDNZW5AZaAvk0"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "Nina",
+        "url": "https://open.spotify.com/album/1yx0lKqG8Z1J3IOxx4gbzs"
+      },
+      "artists": [
+        {
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/2tQbSWgZLIB8MXMnsXVRro"
+        }
+      ],
+      "duration_ms": 214773,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/1MkiRsYBkXbXvdiYvTTiQT"
     },
     {
       "added_at": "2022-06-13 03:55:05",

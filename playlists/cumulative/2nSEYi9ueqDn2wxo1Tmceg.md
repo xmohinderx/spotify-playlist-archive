@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-146 songs - 9 hr 25 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
+147 songs - 9 hr 30 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [The Good Ones \- The Tchad Blake Mix 2022](https://open.spotify.com/track/5XI06e5jILbE7flIRlGszY) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [No Wow \(The Tchad Blake Mix 2022\)](https://open.spotify.com/album/3hWemd6cKvUHeDaRo3J9kb) | 3:28 | 2022-06-08 | 2022-07-21 |
 | [The Rain Came Down](https://open.spotify.com/track/3wHZmrmckEdz2es3w0YKYN) | [The Weather Boys](https://open.spotify.com/artist/21BmZUrTd0aS0kDS0NJftY) | [The Rain Came Down](https://open.spotify.com/album/70iJQrk26iJClhGjvjSVFv) | 3:26 | 2022-06-08 | 2022-06-17 |
 | [The Signs](https://open.spotify.com/track/7Mv0LtBlIFHYF8wTGzn69d) | [Medicine Cabinet](https://open.spotify.com/artist/11SWPw9bCw0O51KV6LSwij) | [The Signs](https://open.spotify.com/album/46tbaMQdEVzZVvgCQvIv1O) | 2:42 | 2022-06-08 | 2022-07-07 |
+| [There’d Better Be A Mirrorball](https://open.spotify.com/track/0yowbJnnbTLpr99f9l1uba) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [There’d Better Be A Mirrorball](https://open.spotify.com/album/0ZUmodAwUq8cQJFvyibKwT) | 4:25 | 2022-08-30 |  |
 | [There’s So Many People That Want To Be Loved](https://open.spotify.com/track/5cnhqpGnv5h4dH3H71qjQb) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [There’s So Many People That Want To Be Loved](https://open.spotify.com/album/0MRNDWL2uM2KYAd4JOagcl) | 4:05 | 2022-06-08 | 2022-06-17 |
 | [Think Twice](https://open.spotify.com/track/1X21vF21PocqNBsQN6NeB6) | [Tom Emlyn](https://open.spotify.com/artist/4SUeh0VD2ptXpef6PhQoJG) | [News from Nowhere](https://open.spotify.com/album/1Q7rdBFyMCK3YJxJ50uMyz) | 3:49 | 2022-06-08 | 2022-07-14 |
 | [Three](https://open.spotify.com/track/68NykMHjSarYgyeITh8ndv) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Three](https://open.spotify.com/album/6FtL6SZ6iYFoqkEb7AwEiO) | 6:12 | 2022-08-24 |  |

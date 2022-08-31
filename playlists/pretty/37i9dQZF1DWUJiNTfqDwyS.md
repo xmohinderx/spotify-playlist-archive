@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 
 > A collection of the best Metal covers out there\. Cover: Metallica
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,585 likes - 75 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,453 likes - 75 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 60 | [Let Me Love You](https://open.spotify.com/track/7nCfQgMxKhFd4bnFZi9fqN) | [Love and Death](https://open.spotify.com/artist/4nrzg6bzMCRGsdQ5eD4d19), [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap) | [Perfectly Preserved](https://open.spotify.com/album/7BuSHSKWrEiZR8zF9YShvJ) | 3:52 |
 | 61 | [Let It Go](https://open.spotify.com/track/75SocEUWFkQMcY4Wf90ZFH) | [Floor Jansen](https://open.spotify.com/artist/2ZNTJ9Bu9QMJwBboMSpQgJ) | [Let It Go](https://open.spotify.com/album/1QEaDpNmEkjEb5z0hGgt17) | 3:37 |
 | 62 | [Jessie's Girl 2 \(feat\. Rick Springfield\)](https://open.spotify.com/track/7fPLwXukTjv4vSnZdCn3ev) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8), [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [Jessie's Girl 2 \(feat\. Rick Springfield\)](https://open.spotify.com/album/6fuK48wdK9EBB4JUQJyMAP) | 3:51 |
-| 63 | [Carry on a Wayward Son](https://open.spotify.com/track/6YvqkiySh1NoVCvkYxfNXK) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [For All Kings \(Deluxe\)](https://open.spotify.com/album/4V0U4SYEZX0tmBw6fnca3h) | 5:24 |
-| 64 | [Children Of The Grave](https://open.spotify.com/track/7eEHTD3EEevRKoLj7RwbYn) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8) | [Nativity In Black: A Tribute To Black Sabbath](https://open.spotify.com/album/3UlxkwnznivcfY2FdxsnSu) | 5:49 |
+| 63 | [Children Of The Grave](https://open.spotify.com/track/7eEHTD3EEevRKoLj7RwbYn) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8) | [Nativity In Black: A Tribute To Black Sabbath](https://open.spotify.com/album/3UlxkwnznivcfY2FdxsnSu) | 5:49 |
+| 64 | [Carry on a Wayward Son](https://open.spotify.com/track/6YvqkiySh1NoVCvkYxfNXK) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [For All Kings \(Deluxe\)](https://open.spotify.com/album/4V0U4SYEZX0tmBw6fnca3h) | 5:24 |
 | 65 | [Only for the Weak](https://open.spotify.com/track/0OBxEhj74scqtN9l1RxANI) | [Vicky Psarakis](https://open.spotify.com/artist/6wgfKETz8TigbBqevjeAwZ), [Quentin Cornet](https://open.spotify.com/artist/783UqG9zEcrqxXk0UVKsuP) | [Only for the Weak](https://open.spotify.com/album/0LGDnOKdzUM9QtXTFvOWQu) | 4:36 |
 | 66 | [Orion](https://open.spotify.com/track/1tvr1RopO3KsVQwP8etKA5) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Medium Rarities](https://open.spotify.com/album/3xeGtowrXCRjPOmZahNAoW) | 8:15 |
 | 67 | [My Own Summer \- Shove It](https://open.spotify.com/track/3JAFPy9eiSkeevje6xmCyY) | [Oceans](https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0) | [Cover Me in Darkness](https://open.spotify.com/album/3j69OIOknRiDRk2aaHh5tD) | 3:38 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 74 | [Looks That Kill](https://open.spotify.com/track/6EsmreLQ4j67JOyq9cDiA5) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Looks That Kill](https://open.spotify.com/album/4SgYiHjpOwZ1EqweySZRun) | 4:11 |
 | 75 | [Ex's and Oh's \- Cover](https://open.spotify.com/track/2Ikik4GXDcvnnEv8lXeY1v) | [Versus Me](https://open.spotify.com/artist/2LDhAV1ZRW6XdLNgg1pPg9) | [Ex's and Oh's \(Cover\)](https://open.spotify.com/album/3vRZni6nXRXzASn7YyFcYP) | 3:43 |
 
-Snapshot ID: `MTY2MTUxODgwMCwwMDAwMDAwMDc0OTUwMDk2MTEyMDBhMzk3MjhiNGMxMDhhNTQ0NDg1`
+Snapshot ID: `MTY2MTUxODgwMCwwMDAwMDAwMGU5OTM4N2M5MGQ2OGZhMjNhYjVlY2Y5NjFhMDhmNTk2`

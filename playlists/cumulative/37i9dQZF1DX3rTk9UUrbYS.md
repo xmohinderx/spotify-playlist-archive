@@ -4,11 +4,11 @@
 
 > Avant\-garde, experimental and free jazz.
 
-102 songs - 13 hr 20 min - [published](https://open.spotify.com/playlist/0VDNYH3pzGkgUvS5GusBo1)
+103 songs - 13 hr 24 min - [published](https://open.spotify.com/playlist/0VDNYH3pzGkgUvS5GusBo1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Very Long Letter](https://open.spotify.com/track/3t0OZ1WS8Pw3xhrzAG3J7d) | [Aki Takase](https://open.spotify.com/artist/09yacWNQY2fYjP3ubsmWTM), [David Murray](https://open.spotify.com/artist/00SOiqZ0YGY2JhjSPxZMZg) | [Cherry \- Sakura](https://open.spotify.com/album/1TMo9GiQZZq88JfjDvVq4L) | 5:44 | 2020-08-25 |  |
+| [A Very Long Letter](https://open.spotify.com/track/3t0OZ1WS8Pw3xhrzAG3J7d) | [Aki Takase](https://open.spotify.com/artist/09yacWNQY2fYjP3ubsmWTM), [David Murray](https://open.spotify.com/artist/00SOiqZ0YGY2JhjSPxZMZg) | [Cherry \- Sakura](https://open.spotify.com/album/1TMo9GiQZZq88JfjDvVq4L) | 5:44 | 2020-08-25 | 2022-08-31 |
 | [A Very Long Letter](https://open.spotify.com/track/6yoWyTB5nxXtcnWSFJNlpy) | [David Murray](https://open.spotify.com/artist/00SOiqZ0YGY2JhjSPxZMZg), [Aki Takase](https://open.spotify.com/artist/09yacWNQY2fYjP3ubsmWTM) | [Cherry / Sakura](https://open.spotify.com/album/7mrEPRwxiNMU1cO9EsMrjm) | 5:44 | 2020-08-25 | 2022-07-27 |
 | [Active\-Multiple\-Fetish\-Overlord](https://open.spotify.com/track/7a7dP4fURwyN3iMnjft2km) | [Binker and Moses](https://open.spotify.com/artist/7mKZJ0SITREZQovQF6Qeb4), [Max Luthert](https://open.spotify.com/artist/0SY44UCwBAxIo3mrKixXRB) | [Feeding the Machine](https://open.spotify.com/album/03CWEGnnMN2Xlfgkb6QZ0C) | 3:33 | 2022-02-25 |  |
 | [Air Pockets](https://open.spotify.com/track/1iC86rt5q2wHl2eS9UXX4t) | [Roy Campbell, Jr.](https://open.spotify.com/artist/60zXI7kDOma2j6HV89DESU), [Pyramid](https://open.spotify.com/artist/0H2r6lmmvfXrRJUFQP1zcM) | [Communion](https://open.spotify.com/album/3CaiuR2QoPaU2K1eP8oHOh) | 14:32 | 2020-08-25 | 2022-07-28 |
@@ -95,6 +95,7 @@
 | [Symphony in Green](https://open.spotify.com/track/28iVB0oZMjPgXxvNgx0gOC) | [Ran Blake](https://open.spotify.com/artist/5Oe2el698y8tac9DMvlI7o), [Kresten Osgood](https://open.spotify.com/artist/41MI7s5qtXYNCp7Ev8T5LN) | [The Dorothy Wallace Suite](https://open.spotify.com/album/2SRt058wErJ8zyNLdm4Zg5) | 4:44 | 2020-08-25 |  |
 | [Symphony in Green](https://open.spotify.com/track/2vNuKZig6013siPnsYXB8h) | [Ran Blake](https://open.spotify.com/artist/5Oe2el698y8tac9DMvlI7o), [Kresten Osgood](https://open.spotify.com/artist/41MI7s5qtXYNCp7Ev8T5LN) | [The Dorothy Wallace Suite](https://open.spotify.com/album/2xbXh227nPXhYKRTk1XDyL) | 4:44 | 2020-08-25 | 2022-07-27 |
 | [Talvez Certamente](https://open.spotify.com/track/0rzdUxvmUEHIsC49PeTr6O) | [Luca Raele](https://open.spotify.com/artist/0mciU04JoXZua4RVSLqyW3), [Celio Barros](https://open.spotify.com/artist/5rJUkXxDb72alAgvPCoDPX), [André Mehmari](https://open.spotify.com/artist/5uTXmfA6bngEMrjgul7mwu) | [Agora Aqui](https://open.spotify.com/album/6giXpWWXGUJrie8noezK8y) | 3:32 | 2022-04-22 |  |
+| [Tepe](https://open.spotify.com/track/3U66YsEEXqz0rig8U0bVNd) | [Konstrukt](https://open.spotify.com/artist/31LWw1daUaifpCWuXKKey9), [Peter Brötzmann](https://open.spotify.com/artist/5DlFW9TwvDgSJHJuufuiAO) | [Dolunay](https://open.spotify.com/album/2w5jxwOWbkn7ci66PmUmmD) | 3:27 | 2022-08-26 |  |
 | [The Eyes Moving\. Slowly.](https://open.spotify.com/track/1zMyY8zxLsJq344QaoKfP0) | [Mats Gustafson](https://open.spotify.com/artist/2qRWLwq1tDqtBRl9wtgY7u), [Craig Taborn](https://open.spotify.com/artist/2RjYqvCG5Zt1DpQUPhgw77) | [Ljubljana](https://open.spotify.com/album/0Kc2J1LkoauNJ56CBt91Jd) | 20:24 | 2020-08-25 |  |
 | [The Path](https://open.spotify.com/track/4T5BNirZQn8jjEcjNPMnQ5) | [Conference Call](https://open.spotify.com/artist/7nhPj7gM7iUwU72LPRtFx0) | [Poetry in Motion](https://open.spotify.com/album/0Y20dYkp1wEb5d4lvLtOLW) | 4:18 | 2020-08-25 |  |
 | [The Unidentifiable](https://open.spotify.com/track/0dOzyVjUdcgQAUxcw8LJsx) | [Matthew Shipp Trio](https://open.spotify.com/artist/1TgqnAbUXzmLHEW0YFbROK) | [The Unidentifiable](https://open.spotify.com/album/3WU3Ega5ujSwBmbglurN3H) | 7:10 | 2020-09-18 |  |

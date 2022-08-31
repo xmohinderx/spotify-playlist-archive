@@ -3503,7 +3503,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 192713,
       "name": "No Time to Cast Anchor",
       "url": "https://open.spotify.com/track/1fNDKKuErDdqMka5NhwkeF"
@@ -6099,7 +6099,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-26",
+      "date_removed": null,
       "duration_ms": 272613,
       "name": "\u3055\u3088\u306a\u3089\u3054\u3063\u3053",
       "url": "https://open.spotify.com/track/7ha9B32izQ0Ni2RtSzm2C4"
@@ -7061,7 +7061,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 209294,
       "name": "\u30b7\u30eb\u30a8\u30c3\u30c8 (TOKYO MACHINE Remix) - SACRA BEATS Singles",
       "url": "https://open.spotify.com/track/3BsvhBG7BATLlLWJ4AYtP3"
@@ -9501,6 +9501,28 @@
       "duration_ms": 252426,
       "name": "\u6d41\u661f",
       "url": "https://open.spotify.com/track/08qU2grYIu0XldcJZ7jEOb"
+    },
+    {
+      "album": {
+        "name": "\u6d41\u7dda\u5f62\u30e1\u30fc\u30c7\u30fc",
+        "url": "https://open.spotify.com/album/0e9Jjx1Ah3gI5RoUPOEvmi"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u8b5c",
+          "url": "https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4"
+        },
+        {
+          "name": "\u53ef\u4e0d",
+          "url": "https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191894,
+      "name": "\u6d41\u7dda\u5f62\u30e1\u30fc\u30c7\u30fc",
+      "url": "https://open.spotify.com/track/71DWte8P535ethaQrCfX3G"
     },
     {
       "album": {

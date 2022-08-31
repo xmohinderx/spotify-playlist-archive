@@ -1,12 +1,12 @@
 {
   "description": "New music and timeless tracks from legends only. Cover: Billy Idol",
-  "num_followers": 195776,
+  "num_followers": 195701,
   "original_name": "Legends Only",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ1ODIzNCwwMDAwMDAwMGQ2YTQ3YTIzZWQ4YjI1MGE0N2RhZmJmYjI2MmZlM2Vl",
+  "snapshot_id": "MTY2MTQ1ODIzNCwwMDAwMDAwMGNkNmJkNTc2ODM1MTFiMWZlZDE4OWNmZGU5MDJmNzQ4",
   "tracks": [
     {
       "added_at": "2022-08-25 20:10:34",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2022-08-25 20:10:34",
       "album": {
+        "name": "As You Were (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2V3WS9tlPYmscBNWHHYu9X"
+      },
+      "artists": [
+        {
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+        }
+      ],
+      "duration_ms": 223546,
+      "name": "Wall of Glass",
+      "url": "https://open.spotify.com/track/5qlSYa5PePLAuAsAFgqVxW"
+    },
+    {
+      "added_at": "2022-08-25 20:10:34",
+      "album": {
         "name": "Some Friendly",
         "url": "https://open.spotify.com/album/6Bb253vXd4mFULDwLhNf7u"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 162858,
       "name": "A Tip from You to Me",
       "url": "https://open.spotify.com/track/26YYcaZm37TALSISgpqdO2"
-    },
-    {
-      "added_at": "2022-08-25 20:10:34",
-      "album": {
-        "name": "As You Were (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2V3WS9tlPYmscBNWHHYu9X"
-      },
-      "artists": [
-        {
-          "name": "Liam Gallagher",
-          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
-        }
-      ],
-      "duration_ms": 223546,
-      "name": "Wall of Glass",
-      "url": "https://open.spotify.com/track/5qlSYa5PePLAuAsAFgqVxW"
     },
     {
       "added_at": "2022-08-25 20:10:34",

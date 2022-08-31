@@ -1,12 +1,12 @@
 {
   "description": "The best of modern blues rock. Cover: Anthony Gomes",
-  "num_followers": 132566,
+  "num_followers": 132614,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMGJhMGM2NTU5M2UwMTViOTZkODQ2ODU1NGVkMzllMmYw",
+  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMDA0NDg1ZWE4MDljZDFlNzZjMGU4MjJhMDEyZGYxNDE4",
   "tracks": [
     {
       "added_at": "2022-08-26 04:02:00",
@@ -233,22 +233,6 @@
       "url": "https://open.spotify.com/track/59oXRNRnmmTbwgkZkV7l4g"
     },
     {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Taking Me Back",
-        "url": "https://open.spotify.com/album/5faWqAkH90FGt9KBwemQXw"
-      },
-      "artists": [
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 245961,
-      "name": "Taking Me Back",
-      "url": "https://open.spotify.com/track/7s7m8L8NcIYzgw0qmoghA8"
-    },
-    {
       "added_at": "2020-10-16 04:02:00",
       "album": {
         "name": "Hear Me Out",
@@ -263,6 +247,22 @@
       "duration_ms": 146178,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/1UTNZLkptltS6oNrMzva3s"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Taking Me Back",
+        "url": "https://open.spotify.com/album/5faWqAkH90FGt9KBwemQXw"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "duration_ms": 245961,
+      "name": "Taking Me Back",
+      "url": "https://open.spotify.com/track/7s7m8L8NcIYzgw0qmoghA8"
     },
     {
       "added_at": "2020-10-16 04:02:00",
@@ -593,22 +593,6 @@
       "url": "https://open.spotify.com/track/2Fka5bMBcXzrrUHaJjpqGq"
     },
     {
-      "added_at": "2022-06-24 04:02:00",
-      "album": {
-        "name": "Made In Muscle Shoals Vol. 2",
-        "url": "https://open.spotify.com/album/1lBoq5SRprSiyxDcQNpob5"
-      },
-      "artists": [
-        {
-          "name": "The Revivalists",
-          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
-        }
-      ],
-      "duration_ms": 262426,
-      "name": "Got Love - Made In Muscle Shoals",
-      "url": "https://open.spotify.com/track/4TN7nQty1SvMEwNxOaug0b"
-    },
-    {
       "added_at": "2020-10-16 04:02:00",
       "album": {
         "name": "Well Wasted",
@@ -623,6 +607,22 @@
       "duration_ms": 205973,
       "name": "Well Wasted",
       "url": "https://open.spotify.com/track/4S8WK43eMxManxzewCswet"
+    },
+    {
+      "added_at": "2022-06-24 04:02:00",
+      "album": {
+        "name": "Made In Muscle Shoals Vol. 2",
+        "url": "https://open.spotify.com/album/1lBoq5SRprSiyxDcQNpob5"
+      },
+      "artists": [
+        {
+          "name": "The Revivalists",
+          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
+        }
+      ],
+      "duration_ms": 262426,
+      "name": "Got Love - Made In Muscle Shoals",
+      "url": "https://open.spotify.com/track/4TN7nQty1SvMEwNxOaug0b"
     },
     {
       "added_at": "2020-10-16 04:02:00",
@@ -709,22 +709,6 @@
       "url": "https://open.spotify.com/track/5SefpS9fNKmduJWxxqH0tA"
     },
     {
-      "added_at": "2021-09-10 04:02:00",
-      "album": {
-        "name": "Play Loud",
-        "url": "https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk"
-      },
-      "artists": [
-        {
-          "name": "The Record Company",
-          "url": "https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX"
-        }
-      ],
-      "duration_ms": 215600,
-      "name": "Gotta Be Movin\u2019",
-      "url": "https://open.spotify.com/track/2ftfB3ZY1c6jHEYRgRXrB9"
-    },
-    {
       "added_at": "2020-10-16 04:02:00",
       "album": {
         "name": "Truth And Lies",
@@ -739,6 +723,22 @@
       "duration_ms": 206173,
       "name": "Ride",
       "url": "https://open.spotify.com/track/0FwmAMxNdTC515HY3lexJR"
+    },
+    {
+      "added_at": "2021-09-10 04:02:00",
+      "album": {
+        "name": "Play Loud",
+        "url": "https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk"
+      },
+      "artists": [
+        {
+          "name": "The Record Company",
+          "url": "https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX"
+        }
+      ],
+      "duration_ms": 215600,
+      "name": "Gotta Be Movin\u2019",
+      "url": "https://open.spotify.com/track/2ftfB3ZY1c6jHEYRgRXrB9"
     },
     {
       "added_at": "2020-10-16 04:02:00",
@@ -807,18 +807,18 @@
     {
       "added_at": "2020-10-16 04:02:00",
       "album": {
-        "name": "28 Days In The Valley",
-        "url": "https://open.spotify.com/album/3Wl7Bde5TcxZX3ZJweBE9d"
+        "name": "All Of This Life",
+        "url": "https://open.spotify.com/album/0Xe0NMbJ7t8dTv0wiTH3wi"
       },
       "artists": [
         {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+          "name": "The Record Company",
+          "url": "https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX"
         }
       ],
-      "duration_ms": 276560,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/7c0TwwS3FUInC9pqw7RgVo"
+      "duration_ms": 221733,
+      "name": "Roll Bones",
+      "url": "https://open.spotify.com/track/4YAcRalM7dHtbbSRHwF92p"
     }
   ],
   "unique_name": "Modern Blues Rock",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: DJ Khaled
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,764 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,626 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 93 | [Lost Souls](https://open.spotify.com/track/11DBHIg090mRLgf00aFflP) | [Meechy Darko](https://open.spotify.com/artist/5QRlmTynCos8JyojtmgNq6), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Gothic Luxury](https://open.spotify.com/album/2pf5p07jg6a9zm2vwmgfxs) | 4:32 |
 | 94 | [Jay N Bey!](https://open.spotify.com/track/0pST9hoYDLC7cI71VrXxBW) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Golden Child, Chapter 2](https://open.spotify.com/album/5QohyYxe1zRYpTmkWJTNYb) | 2:11 |
 | 95 | [Addy](https://open.spotify.com/track/0MaNWrLab10U4DOi6nK6sB) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [Addy](https://open.spotify.com/album/57a2jFTnluxa3WNu6BrIDr) | 2:03 |
-| 96 | [Real Bitch \(feat\. Gloss Up\)](https://open.spotify.com/track/4zH4kR30s4Cx6HMvodrf32) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Gloss Up](https://open.spotify.com/artist/0i5emUaPMWG7O3rAoXvvq8) | [Real Bitch \(feat\. Gloss Up\)](https://open.spotify.com/album/6MUUM532DEcR697rck5n90) | 2:04 |
+| 96 | [Real Bitch \(feat\. Gloss Up\)](https://open.spotify.com/track/4zH4kR30s4Cx6HMvodrf32) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Real Bitch \(feat\. Gloss Up\)](https://open.spotify.com/album/6MUUM532DEcR697rck5n90) | 2:04 |
 | 97 | [The Reason](https://open.spotify.com/track/1JKH156F7aeqFLjHK892H6) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [The Reason](https://open.spotify.com/album/6B7oBbXH4oKMnq9ep5xEBA) | 3:24 |
 | 98 | [Handle with Care](https://open.spotify.com/track/6jzhyJiZn9bYHfzoHOzQKS) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Handle with Care](https://open.spotify.com/album/05hWw0s7A5YHErAUE3OMXu) | 2:38 |
 | 99 | [ANTISOCIAL](https://open.spotify.com/track/07t2Y26I5eYKQzXheVq0d4) | [Lorelei Marcell](https://open.spotify.com/artist/3JUdBypm7CxRBcQRdTucgK) | [ANTISOCIAL](https://open.spotify.com/album/4jMqrzOzRSyoagYBhunVfK) | 3:08 |

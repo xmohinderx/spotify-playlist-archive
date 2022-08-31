@@ -1,12 +1,12 @@
 {
   "description": "Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.",
-  "num_followers": 179491,
+  "num_followers": 179494,
   "original_name": "Love Coffee, Love Jesus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5ODg4NzE1OSwwMDAwMDAwMDBiYTJkNDdlNjcxN2E3ZDRhNzJjYjM1MjAyMjA5ZGI4",
+  "snapshot_id": "MTU5ODg4NzE1OSwwMDAwMDAwMGMwYjM3MjA4OWY1ZmU1MzQ3NTQxZTIwZGE3NDc0N2Uw",
   "tracks": [
     {
       "added_at": "2020-08-31 15:19:19",
@@ -211,22 +211,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "It's a Wonderful Life",
-        "url": "https://open.spotify.com/album/4IUddwGckU9duvn9dEQLnz"
-      },
-      "artists": [
-        {
-          "name": "John Lucas",
-          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
-        }
-      ],
-      "duration_ms": 249321,
-      "name": "It's a Wonderful Life",
-      "url": "https://open.spotify.com/track/4ieeVg8E0Mws1kaSBoQZOj"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Peace to All Who Enter Here",
         "url": "https://open.spotify.com/album/5OSq9qdMdN2DyGx90wekZk"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 244520,
       "name": "Abba",
       "url": "https://open.spotify.com/track/5x1nPSw6zxDcxAZNrCF1Id"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "It's a Wonderful Life",
+        "url": "https://open.spotify.com/album/4IUddwGckU9duvn9dEQLnz"
+      },
+      "artists": [
+        {
+          "name": "John Lucas",
+          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
+        }
+      ],
+      "duration_ms": 249321,
+      "name": "It's a Wonderful Life",
+      "url": "https://open.spotify.com/track/4ieeVg8E0Mws1kaSBoQZOj"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -343,22 +343,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Peopled with Dreams",
-        "url": "https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv"
-      },
-      "artists": [
-        {
-          "name": "John Mark McMillan",
-          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
-        }
-      ],
-      "duration_ms": 237113,
-      "name": "Pilgrim",
-      "url": "https://open.spotify.com/track/1o5n9x03Na2DzkUuGB0TMo"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "New Song (Psalm 40)",
         "url": "https://open.spotify.com/album/5SKIaSs8T7xHbPAfQMBvaY"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 254787,
       "name": "New Song (Psalm 40)",
       "url": "https://open.spotify.com/track/5nCSaFxaoliN2NyUtFQOUU"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Peopled with Dreams",
+        "url": "https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv"
+      },
+      "artists": [
+        {
+          "name": "John Mark McMillan",
+          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
+        }
+      ],
+      "duration_ms": 237113,
+      "name": "Pilgrim",
+      "url": "https://open.spotify.com/track/1o5n9x03Na2DzkUuGB0TMo"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -487,6 +487,22 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
+        "name": "When It Comes to You",
+        "url": "https://open.spotify.com/album/7iEMna8XHGFwwiR17SqtkV"
+      },
+      "artists": [
+        {
+          "name": "RNW Music",
+          "url": "https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi"
+        }
+      ],
+      "duration_ms": 335299,
+      "name": "Goodness",
+      "url": "https://open.spotify.com/track/3JyI1zIVyM1N7wb7Qylro6"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
         "name": "In Every Way",
         "url": "https://open.spotify.com/album/79XjwIUuzdsB6zEyugFEUv"
       },
@@ -503,18 +519,18 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "When It Comes to You",
-        "url": "https://open.spotify.com/album/7iEMna8XHGFwwiR17SqtkV"
+        "name": "Saving Me Still",
+        "url": "https://open.spotify.com/album/1C6cUX3FHiop0xcbZpMjca"
       },
       "artists": [
         {
-          "name": "RNW Music",
-          "url": "https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi"
+          "name": "Justin Jarvis",
+          "url": "https://open.spotify.com/artist/3ETXmapfkZXZWXBHvUl9xj"
         }
       ],
-      "duration_ms": 335299,
-      "name": "Goodness",
-      "url": "https://open.spotify.com/track/3JyI1zIVyM1N7wb7Qylro6"
+      "duration_ms": 380800,
+      "name": "Saving Me Still",
+      "url": "https://open.spotify.com/track/1Hbao8n85TOgeIZFfZmCdV"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -535,22 +551,6 @@
       "duration_ms": 211251,
       "name": "With Lifted Hands (Acoustic) [feat. Martin Smith]",
       "url": "https://open.spotify.com/track/5Vmj0vCnP9Kf6PuxzERwic"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
-        "name": "Saving Me Still",
-        "url": "https://open.spotify.com/album/1C6cUX3FHiop0xcbZpMjca"
-      },
-      "artists": [
-        {
-          "name": "Justin Jarvis",
-          "url": "https://open.spotify.com/artist/3ETXmapfkZXZWXBHvUl9xj"
-        }
-      ],
-      "duration_ms": 380800,
-      "name": "Saving Me Still",
-      "url": "https://open.spotify.com/track/1Hbao8n85TOgeIZFfZmCdV"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -599,22 +599,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "The Soul",
-        "url": "https://open.spotify.com/album/3ziyaxQziaPPYaUYKl4uR0"
-      },
-      "artists": [
-        {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
-        }
-      ],
-      "duration_ms": 227813,
-      "name": "Something Beautiful",
-      "url": "https://open.spotify.com/track/6JnpyvzvrN1rep8fz2EiDQ"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "We Rise We Bow",
         "url": "https://open.spotify.com/album/6vQiAyokbSLC6BJUZlkKtr"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 344206,
       "name": "We Rise",
       "url": "https://open.spotify.com/track/32oefCfjl6LcXDzQD5eqMy"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "The Soul",
+        "url": "https://open.spotify.com/album/3ziyaxQziaPPYaUYKl4uR0"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "duration_ms": 227813,
+      "name": "Something Beautiful",
+      "url": "https://open.spotify.com/track/6JnpyvzvrN1rep8fz2EiDQ"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -707,6 +707,22 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
+        "name": "Find My Home",
+        "url": "https://open.spotify.com/album/64CTIXrru4VpjjUQi2MWLy"
+      },
+      "artists": [
+        {
+          "name": "Shiny Penny",
+          "url": "https://open.spotify.com/artist/7IL4gxLGehk1CQJFkzKBUy"
+        }
+      ],
+      "duration_ms": 260173,
+      "name": "Find My Home",
+      "url": "https://open.spotify.com/track/2UXLovstwsvXw01s3GIOqK"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/4X8FlSjZW7YUTj277XNyFY"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 297546,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/5rKbWEBYZNIR3ep6pBOK0t"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
-        "name": "Find My Home",
-        "url": "https://open.spotify.com/album/64CTIXrru4VpjjUQi2MWLy"
-      },
-      "artists": [
-        {
-          "name": "Shiny Penny",
-          "url": "https://open.spotify.com/artist/7IL4gxLGehk1CQJFkzKBUy"
-        }
-      ],
-      "duration_ms": 260173,
-      "name": "Find My Home",
-      "url": "https://open.spotify.com/track/2UXLovstwsvXw01s3GIOqK"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -775,22 +775,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "VILLAIN",
-        "url": "https://open.spotify.com/album/1WYu7wMRAWA0G3IwqcwFAL"
-      },
-      "artists": [
-        {
-          "name": "Jared Marc",
-          "url": "https://open.spotify.com/artist/4VGrnFhLNsG1ni78qk7ZWM"
-        }
-      ],
-      "duration_ms": 246760,
-      "name": "Avalanche - Piano Version",
-      "url": "https://open.spotify.com/track/5P9944uZjaKP2TzRdtErdd"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "On Christ (House Church)",
         "url": "https://open.spotify.com/album/44eE0gE1CPQpBKeAscz6Tw"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 264289,
       "name": "On Christ (House Church)",
       "url": "https://open.spotify.com/track/7cLvP0zD6nwFhdaxBfpIk9"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "VILLAIN",
+        "url": "https://open.spotify.com/album/1WYu7wMRAWA0G3IwqcwFAL"
+      },
+      "artists": [
+        {
+          "name": "Jared Marc",
+          "url": "https://open.spotify.com/artist/4VGrnFhLNsG1ni78qk7ZWM"
+        }
+      ],
+      "duration_ms": 246760,
+      "name": "Avalanche - Piano Version",
+      "url": "https://open.spotify.com/track/5P9944uZjaKP2TzRdtErdd"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -875,22 +875,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Wide Place",
-        "url": "https://open.spotify.com/album/7crZBLTSSyZruPHligC2sp"
-      },
-      "artists": [
-        {
-          "name": "Laity",
-          "url": "https://open.spotify.com/artist/4K2tvMk8OdoG0Lo3PHir41"
-        }
-      ],
-      "duration_ms": 262889,
-      "name": "Wide Place",
-      "url": "https://open.spotify.com/track/1qFmMmrBHzQUqyJJdzw8dM"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "How Can I",
         "url": "https://open.spotify.com/album/2tfpzRnVgGRBzbZiydB3jM"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 274373,
       "name": "How Can I",
       "url": "https://open.spotify.com/track/3awgBVx3iWd3Y2lxhDzaZv"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Wide Place",
+        "url": "https://open.spotify.com/album/7crZBLTSSyZruPHligC2sp"
+      },
+      "artists": [
+        {
+          "name": "Laity",
+          "url": "https://open.spotify.com/artist/4K2tvMk8OdoG0Lo3PHir41"
+        }
+      ],
+      "duration_ms": 262889,
+      "name": "Wide Place",
+      "url": "https://open.spotify.com/track/1qFmMmrBHzQUqyJJdzw8dM"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "You Are God, Be Glorified",
-        "url": "https://open.spotify.com/album/1i5UY1ovmrkZlNyhrxMgkb"
-      },
-      "artists": [
-        {
-          "name": "Danny O'Callaghan",
-          "url": "https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj"
-        }
-      ],
-      "duration_ms": 267165,
-      "name": "You Are God, Be Glorified",
-      "url": "https://open.spotify.com/track/6uRtk4FE3HQ9MMSCzGBcsr"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Morning Sun, Rising Tide",
         "url": "https://open.spotify.com/album/09EayNj4y8JWxvwBUElf7q"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 236466,
       "name": "Oh What a Father",
       "url": "https://open.spotify.com/track/1H8YQq1VQDwsFrw32npGEH"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "You Are God, Be Glorified",
+        "url": "https://open.spotify.com/album/1i5UY1ovmrkZlNyhrxMgkb"
+      },
+      "artists": [
+        {
+          "name": "Danny O'Callaghan",
+          "url": "https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj"
+        }
+      ],
+      "duration_ms": 267165,
+      "name": "You Are God, Be Glorified",
+      "url": "https://open.spotify.com/track/6uRtk4FE3HQ9MMSCzGBcsr"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Suddenly (Or the Nuclear Sunburst of the Truth Revealed)",
-        "url": "https://open.spotify.com/album/1NnzAkcue0YdEzLWKb8bfp"
-      },
-      "artists": [
-        {
-          "name": "Young Oceans",
-          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
-        }
-      ],
-      "duration_ms": 240946,
-      "name": "This Wild Earth",
-      "url": "https://open.spotify.com/track/7MWncHKfdAqbLaQgJ9jKnx"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Holy Love",
         "url": "https://open.spotify.com/album/5xw7giFJg2lKDi5OKcZESt"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 247173,
       "name": "Holy Love",
       "url": "https://open.spotify.com/track/6DBGrnhBL00xF2B94oGdd9"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Suddenly (Or the Nuclear Sunburst of the Truth Revealed)",
+        "url": "https://open.spotify.com/album/1NnzAkcue0YdEzLWKb8bfp"
+      },
+      "artists": [
+        {
+          "name": "Young Oceans",
+          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
+        }
+      ],
+      "duration_ms": 240946,
+      "name": "This Wild Earth",
+      "url": "https://open.spotify.com/track/7MWncHKfdAqbLaQgJ9jKnx"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Wait",
-        "url": "https://open.spotify.com/album/2cSJZUOuxI6RaevNsWHtN2"
-      },
-      "artists": [
-        {
-          "name": "Michael Hughes Watson",
-          "url": "https://open.spotify.com/artist/0VzwcKIcGtWlNa3OW0t1BZ"
-        }
-      ],
-      "duration_ms": 289411,
-      "name": "Hanging onto Every Word That You Say",
-      "url": "https://open.spotify.com/track/58qzGFYaVi2EHSldZryfVw"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Magnified (Acoustic)",
         "url": "https://open.spotify.com/album/1ubwV6NBMwJxIFJgFSEYI4"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 231438,
       "name": "That's What I Call Free",
       "url": "https://open.spotify.com/track/45mQtcoDydArdV3L7Fa7Dl"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Wait",
+        "url": "https://open.spotify.com/album/2cSJZUOuxI6RaevNsWHtN2"
+      },
+      "artists": [
+        {
+          "name": "Michael Hughes Watson",
+          "url": "https://open.spotify.com/artist/0VzwcKIcGtWlNa3OW0t1BZ"
+        }
+      ],
+      "duration_ms": 289411,
+      "name": "Hanging onto Every Word That You Say",
+      "url": "https://open.spotify.com/track/58qzGFYaVi2EHSldZryfVw"
     },
     {
       "added_at": "2020-08-31 15:19:19",

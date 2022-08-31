@@ -1,12 +1,12 @@
 {
   "description": "Solo piano recordings of classic rags",
-  "num_followers": 2744,
+  "num_followers": 2746,
   "original_name": "Ragtime Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTE0MywwMDAwMDAwMGE0YThlYzkxYmQzNDU2YWMwYWRhZmMzNmI5MjMwOWMw",
+  "snapshot_id": "MTY0ODQ5OTE0MywwMDAwMDAwMDQ2YmNjMTJiYjYwOTBmZGQzYTU0NWU1ZjI2OWRlNDc5",
   "tracks": [
     {
       "added_at": "2020-08-19 17:18:36",
@@ -95,22 +95,6 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "The Best Of Scott Joplin",
-        "url": "https://open.spotify.com/album/300iEB8P24hhTozzVI2Mfl"
-      },
-      "artists": [
-        {
-          "name": "Max Morath",
-          "url": "https://open.spotify.com/artist/34Mreq5fPf8HWbVhNFTJIF"
-        }
-      ],
-      "duration_ms": 154573,
-      "name": "St. Louis Rag",
-      "url": "https://open.spotify.com/track/58NvSG4gwrmAfoXedtU7YK"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
         "name": "The Piano Rolls, Volume Two",
         "url": "https://open.spotify.com/album/5m3U1X9I0oltjme3PeFTlq"
       },
@@ -127,22 +111,6 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "The Entertainer",
-        "url": "https://open.spotify.com/album/55nzutI0vd4NmGeZHOinuz"
-      },
-      "artists": [
-        {
-          "name": "Scott Joplin",
-          "url": "https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq"
-        }
-      ],
-      "duration_ms": 194453,
-      "name": "Maple Leaf Rag",
-      "url": "https://open.spotify.com/track/1JfXcv0wnppRHlnkHcULVV"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
         "name": "Eighty Six Years Of Eubie Blake",
         "url": "https://open.spotify.com/album/5CKfWa3U9PeFEuBhgGBhJX"
       },
@@ -155,6 +123,22 @@
       "duration_ms": 122653,
       "name": "Troublesome Ivories",
       "url": "https://open.spotify.com/track/1X2NYWrWmpIbs5ALWeZ6Iy"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
+        "name": "The Entertainer",
+        "url": "https://open.spotify.com/album/55nzutI0vd4NmGeZHOinuz"
+      },
+      "artists": [
+        {
+          "name": "Scott Joplin",
+          "url": "https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq"
+        }
+      ],
+      "duration_ms": 194453,
+      "name": "Maple Leaf Rag",
+      "url": "https://open.spotify.com/track/1JfXcv0wnppRHlnkHcULVV"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -179,6 +163,22 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
+        "name": "The Best Of Scott Joplin",
+        "url": "https://open.spotify.com/album/300iEB8P24hhTozzVI2Mfl"
+      },
+      "artists": [
+        {
+          "name": "Max Morath",
+          "url": "https://open.spotify.com/artist/34Mreq5fPf8HWbVhNFTJIF"
+        }
+      ],
+      "duration_ms": 154573,
+      "name": "St. Louis Rag",
+      "url": "https://open.spotify.com/track/58NvSG4gwrmAfoXedtU7YK"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
         "name": "50 Ragtime Classics: The Best of Scott Joplin",
         "url": "https://open.spotify.com/album/2EoRBT3U0HLCnbWl7swfXY"
       },
@@ -191,38 +191,6 @@
       "duration_ms": 397385,
       "name": "Harmony Club Waltz",
       "url": "https://open.spotify.com/track/1nu5TP1IQQKdVtp4eZYPGW"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
-        "name": "The World Of Scott Joplin",
-        "url": "https://open.spotify.com/album/5hg3Km0IQSIa8I1Q8YB2Pl"
-      },
-      "artists": [
-        {
-          "name": "Max Morath",
-          "url": "https://open.spotify.com/artist/34Mreq5fPf8HWbVhNFTJIF"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Top Liner Rag",
-      "url": "https://open.spotify.com/track/3wQVZKxvSnaSiBaNFX80Od"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
-        "name": "Handful of Keys: Face-Melting Ragtime Played by Martin Spitznagel",
-        "url": "https://open.spotify.com/album/2eDQ5CG2GFO7tClYNS9S9b"
-      },
-      "artists": [
-        {
-          "name": "Martin Spitznagel",
-          "url": "https://open.spotify.com/artist/2FANFYc7uOUVwemb0jm9vX"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "The Easy Winners",
-      "url": "https://open.spotify.com/track/2JG7qkeDRvk7QA8CKZBXsJ"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -243,6 +211,22 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
+        "name": "Handful of Keys: Face-Melting Ragtime Played by Martin Spitznagel",
+        "url": "https://open.spotify.com/album/2eDQ5CG2GFO7tClYNS9S9b"
+      },
+      "artists": [
+        {
+          "name": "Martin Spitznagel",
+          "url": "https://open.spotify.com/artist/2FANFYc7uOUVwemb0jm9vX"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "The Easy Winners",
+      "url": "https://open.spotify.com/track/2JG7qkeDRvk7QA8CKZBXsJ"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
         "name": "Ol' Muddy",
         "url": "https://open.spotify.com/album/4N3q6DQATMXo0Bj5z9DQwe"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 210253,
       "name": "Castle House Rag (James Reese Europe, 1914)",
       "url": "https://open.spotify.com/track/07ZKL0jVrjxD1DqxizHXSL"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
+        "name": "Ragtime Revival",
+        "url": "https://open.spotify.com/album/1PgJncp4RezmMO006IYusf"
+      },
+      "artists": [
+        {
+          "name": "Scott Cotton",
+          "url": "https://open.spotify.com/artist/4akQiTcM2tYyt9y5ijVBzU"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Bohemia Rag",
+      "url": "https://open.spotify.com/track/036qpba8Fn5TspX2QrN8wO"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -275,22 +275,6 @@
       "duration_ms": 185706,
       "name": "The Ragtime Dance: Rag-Time Dance, A Stop-Time Two Step",
       "url": "https://open.spotify.com/track/7Eqi544QtAAGZ2aITewHzZ"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
-        "name": "Ragtime Revival",
-        "url": "https://open.spotify.com/album/1PgJncp4RezmMO006IYusf"
-      },
-      "artists": [
-        {
-          "name": "Scott Cotton",
-          "url": "https://open.spotify.com/artist/4akQiTcM2tYyt9y5ijVBzU"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Bohemia Rag",
-      "url": "https://open.spotify.com/track/036qpba8Fn5TspX2QrN8wO"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -327,6 +311,22 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
+        "name": "The World Of Scott Joplin",
+        "url": "https://open.spotify.com/album/5hg3Km0IQSIa8I1Q8YB2Pl"
+      },
+      "artists": [
+        {
+          "name": "Max Morath",
+          "url": "https://open.spotify.com/artist/34Mreq5fPf8HWbVhNFTJIF"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Top Liner Rag",
+      "url": "https://open.spotify.com/track/3wQVZKxvSnaSiBaNFX80Od"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
         "name": "50 Ragtime Classics: The Best of Scott Joplin",
         "url": "https://open.spotify.com/album/2EoRBT3U0HLCnbWl7swfXY"
       },
@@ -359,26 +359,6 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Ragtime Classics, 1901-1919",
-        "url": "https://open.spotify.com/album/5HQEWztM9JM2jOdXVZpb9b"
-      },
-      "artists": [
-        {
-          "name": "James Scott",
-          "url": "https://open.spotify.com/artist/4Dzdlxs6xusMPwxmED3CCJ"
-        },
-        {
-          "name": "Brian Dykstra",
-          "url": "https://open.spotify.com/artist/61riwtmBNJSb5iUwiChoCY"
-        }
-      ],
-      "duration_ms": 205773,
-      "name": "Grace and Beauty",
-      "url": "https://open.spotify.com/track/0TtzBFuB0p0bqsucSbwYaJ"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
         "name": "The Complete Piano Works of Scott Joplin",
         "url": "https://open.spotify.com/album/5FG1LBNhmZgxLwYiEKilXe"
       },
@@ -391,6 +371,22 @@
       "duration_ms": 114194,
       "name": "Fig Leaf Rag",
       "url": "https://open.spotify.com/track/1yMqt5habP5GQsll993r1D"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
+        "name": "Ragtime Revival",
+        "url": "https://open.spotify.com/album/1PgJncp4RezmMO006IYusf"
+      },
+      "artists": [
+        {
+          "name": "Scott Cotton",
+          "url": "https://open.spotify.com/artist/4akQiTcM2tYyt9y5ijVBzU"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Ragtime Oriole",
+      "url": "https://open.spotify.com/track/7jp3NMj2U44WSBGHtjrGGp"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -415,18 +411,18 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Ragtime Revival",
-        "url": "https://open.spotify.com/album/1PgJncp4RezmMO006IYusf"
+        "name": "James Scott: The Complete Works (Rags, Waltzes & Songs)",
+        "url": "https://open.spotify.com/album/0j118C9e7zYtG2bV8JdiI4"
       },
       "artists": [
         {
-          "name": "Scott Cotton",
-          "url": "https://open.spotify.com/artist/4akQiTcM2tYyt9y5ijVBzU"
+          "name": "Guido Nielsen",
+          "url": "https://open.spotify.com/artist/2hk0CLU0IghkuxFs4jx8ZU"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Ragtime Oriole",
-      "url": "https://open.spotify.com/track/7jp3NMj2U44WSBGHtjrGGp"
+      "duration_ms": 177000,
+      "name": "Great Scott Rag",
+      "url": "https://open.spotify.com/track/6PeVR3vNkWhXlPT7v0yed6"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -447,22 +443,6 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "James Scott: The Complete Works (Rags, Waltzes & Songs)",
-        "url": "https://open.spotify.com/album/0j118C9e7zYtG2bV8JdiI4"
-      },
-      "artists": [
-        {
-          "name": "Guido Nielsen",
-          "url": "https://open.spotify.com/artist/2hk0CLU0IghkuxFs4jx8ZU"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Great Scott Rag",
-      "url": "https://open.spotify.com/track/6PeVR3vNkWhXlPT7v0yed6"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
         "name": "The St Louis Rag",
         "url": "https://open.spotify.com/album/2O2dCZZvsoG97DRpiLG2cv"
       },
@@ -479,34 +459,22 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Classic Rags Piano Solos, Vol. 4",
-        "url": "https://open.spotify.com/album/1f1dYTmbEN5a9m0g7va9ul"
+        "name": "Ragtime Classics, 1901-1919",
+        "url": "https://open.spotify.com/album/5HQEWztM9JM2jOdXVZpb9b"
       },
       "artists": [
         {
-          "name": "Leslie Bridges",
-          "url": "https://open.spotify.com/artist/7m6HwLg3nTQoO2eVMhiGiw"
-        }
-      ],
-      "duration_ms": 165382,
-      "name": "Paramount Rag",
-      "url": "https://open.spotify.com/track/7xaVQzLgWJOLqmgAWBc6h7"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
-        "name": "The Complete Piano Works of Scott Joplin",
-        "url": "https://open.spotify.com/album/5FG1LBNhmZgxLwYiEKilXe"
-      },
-      "artists": [
+          "name": "James Scott",
+          "url": "https://open.spotify.com/artist/4Dzdlxs6xusMPwxmED3CCJ"
+        },
         {
-          "name": "Knocky Parker",
-          "url": "https://open.spotify.com/artist/5GxGw0V1OnTsb5V4DtnxUY"
+          "name": "Brian Dykstra",
+          "url": "https://open.spotify.com/artist/61riwtmBNJSb5iUwiChoCY"
         }
       ],
-      "duration_ms": 85889,
-      "name": "The Nonpareil",
-      "url": "https://open.spotify.com/track/0hFZqcLNnXjFz14gZj34Hk"
+      "duration_ms": 205773,
+      "name": "Grace and Beauty",
+      "url": "https://open.spotify.com/track/0TtzBFuB0p0bqsucSbwYaJ"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -527,18 +495,34 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Grace And Beauty - Ragtime Classics",
-        "url": "https://open.spotify.com/album/6oqyXzEQqsfzxBS9vW3ngz"
+        "name": "The Complete Piano Works of Scott Joplin",
+        "url": "https://open.spotify.com/album/5FG1LBNhmZgxLwYiEKilXe"
       },
       "artists": [
         {
-          "name": "Scott Kirby",
-          "url": "https://open.spotify.com/artist/3bc3Wj307i1SzUmFopUMLM"
+          "name": "Knocky Parker",
+          "url": "https://open.spotify.com/artist/5GxGw0V1OnTsb5V4DtnxUY"
         }
       ],
-      "duration_ms": 180773,
-      "name": "Evergreen Rag (1915 - James Scott)",
-      "url": "https://open.spotify.com/track/2giECH6eYMtKOEgbPpkttm"
+      "duration_ms": 85889,
+      "name": "The Nonpareil",
+      "url": "https://open.spotify.com/track/0hFZqcLNnXjFz14gZj34Hk"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
+        "name": "Classic Rags Piano Solos, Vol. 4",
+        "url": "https://open.spotify.com/album/1f1dYTmbEN5a9m0g7va9ul"
+      },
+      "artists": [
+        {
+          "name": "Leslie Bridges",
+          "url": "https://open.spotify.com/artist/7m6HwLg3nTQoO2eVMhiGiw"
+        }
+      ],
+      "duration_ms": 165382,
+      "name": "Paramount Rag",
+      "url": "https://open.spotify.com/track/7xaVQzLgWJOLqmgAWBc6h7"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -559,6 +543,22 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
+        "name": "Magnetic Rag",
+        "url": "https://open.spotify.com/album/39papysaDcE6CtF8wjvlAF"
+      },
+      "artists": [
+        {
+          "name": "Waldham Ragtime Pianos",
+          "url": "https://open.spotify.com/artist/0494lwWXTnzzYxlGM8czb5"
+        }
+      ],
+      "duration_ms": 164568,
+      "name": "Operatic Rag",
+      "url": "https://open.spotify.com/track/4b67iD9BqlVYldEVvrrFCv"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
         "name": "Joplin: Rags & Waltzes",
         "url": "https://open.spotify.com/album/0ewUAHaISymm0ywE1FdAKX"
       },
@@ -575,6 +575,22 @@
       "duration_ms": 252660,
       "name": "A Breeze from Alabama",
       "url": "https://open.spotify.com/track/0CU9oRq6jUw5WE0fN7Epdn"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
+        "name": "Grace And Beauty - Ragtime Classics",
+        "url": "https://open.spotify.com/album/6oqyXzEQqsfzxBS9vW3ngz"
+      },
+      "artists": [
+        {
+          "name": "Scott Kirby",
+          "url": "https://open.spotify.com/artist/3bc3Wj307i1SzUmFopUMLM"
+        }
+      ],
+      "duration_ms": 180773,
+      "name": "Evergreen Rag (1915 - James Scott)",
+      "url": "https://open.spotify.com/track/2giECH6eYMtKOEgbPpkttm"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -611,18 +627,18 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Magnetic Rag",
-        "url": "https://open.spotify.com/album/39papysaDcE6CtF8wjvlAF"
+        "name": "Takes Two",
+        "url": "https://open.spotify.com/album/4z0K2p0J1DV7cLsOP3Bk6O"
       },
       "artists": [
         {
-          "name": "Waldham Ragtime Pianos",
-          "url": "https://open.spotify.com/artist/0494lwWXTnzzYxlGM8czb5"
+          "name": "Jack & Chris Bradshaw",
+          "url": "https://open.spotify.com/artist/5XlcJcvLov5rq4hXjxy3py"
         }
       ],
-      "duration_ms": 164568,
-      "name": "Operatic Rag",
-      "url": "https://open.spotify.com/track/4b67iD9BqlVYldEVvrrFCv"
+      "duration_ms": 165040,
+      "name": "Possum and Taters",
+      "url": "https://open.spotify.com/track/2TfcBFuqV3vOfaCJKVifAB"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -643,22 +659,6 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Takes Two",
-        "url": "https://open.spotify.com/album/4z0K2p0J1DV7cLsOP3Bk6O"
-      },
-      "artists": [
-        {
-          "name": "Jack & Chris Bradshaw",
-          "url": "https://open.spotify.com/artist/5XlcJcvLov5rq4hXjxy3py"
-        }
-      ],
-      "duration_ms": 165040,
-      "name": "Possum and Taters",
-      "url": "https://open.spotify.com/track/2TfcBFuqV3vOfaCJKVifAB"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
         "name": "Syncopated Musings: Classic Piano Rags And Ragtime Waltzes",
         "url": "https://open.spotify.com/album/7b8BlvfYIPvB31z8XxfXx3"
       },
@@ -675,22 +675,6 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Charleston Rag",
-        "url": "https://open.spotify.com/album/47f969oRBPbmRfS6jdVXQE"
-      },
-      "artists": [
-        {
-          "name": "Morten Gunnar Larsen",
-          "url": "https://open.spotify.com/artist/0abhXJIOH1NqbsXLaZD2DI"
-        }
-      ],
-      "duration_ms": 186671,
-      "name": "Peace and Plenty Rag",
-      "url": "https://open.spotify.com/track/7G3GHUoDuOBoTrHP04VMDj"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
         "name": "Christmas Eve 1915",
         "url": "https://open.spotify.com/album/1YMw838UtJYBBzhCLDMT4C"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 198173,
       "name": "Reindeer Rag",
       "url": "https://open.spotify.com/track/3fyYH2qSoxabCNsFLRF1Rz"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
+        "name": "Charleston Rag",
+        "url": "https://open.spotify.com/album/47f969oRBPbmRfS6jdVXQE"
+      },
+      "artists": [
+        {
+          "name": "Morten Gunnar Larsen",
+          "url": "https://open.spotify.com/artist/0abhXJIOH1NqbsXLaZD2DI"
+        }
+      ],
+      "duration_ms": 186671,
+      "name": "Peace and Plenty Rag",
+      "url": "https://open.spotify.com/track/7G3GHUoDuOBoTrHP04VMDj"
     },
     {
       "added_at": "2020-08-19 17:18:36",

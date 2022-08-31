@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Soundtrack your gaming with these atmospheric beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,898 likes - 60 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,868 likes - 60 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 31 | [We Can Be Ghosts Now](https://open.spotify.com/track/4buZVQ9wDGXk8AbVeGM5E6) | [Hiatus](https://open.spotify.com/artist/421vyBBkhgRAOz4cYPvrZJ) | [Parklands](https://open.spotify.com/album/1NhIMd6O3u6F9Opm7skw9N) | 4:18 |
 | 32 | [It Was Warmer Then](https://open.spotify.com/track/0fJKwnxypaBAMEGEfCgEhQ) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Yume](https://open.spotify.com/album/34CpMn9yU8iDcXDaSkrqXu) | 5:18 |
 | 33 | [In The Twilight](https://open.spotify.com/track/5wfgLASWmbbLjNkbXsbs8t) | [Phaeleh](https://open.spotify.com/artist/5NkUpXWkeXspvu7iQQOHhP) | [The Cold in You](https://open.spotify.com/album/0vNplpx6d7yYXn4k6coarh) | 6:26 |
-| 34 | [A Song That Will Help You Remember to Forget](https://open.spotify.com/track/0itMKInovica9ugQZRTx5p) | [Slow Dancing Society](https://open.spotify.com/artist/4DTUmkn8z1XIzHPr5b0yEc) | [The Sound of Lights When Dim](https://open.spotify.com/album/3WaoN1PHxKk87nuBv8WtwP) | 6:14 |
+| 34 | [Another Day \(revised\)](https://open.spotify.com/track/6Xr3Ii4HyMcatwsQgq1iOD) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [In a Safe Place](https://open.spotify.com/album/1sZjWlyc9yL13U5q1nTQ8a) | 4:21 |
 | 35 | [Ocelot](https://open.spotify.com/track/3n5bECT6qgStHMeip7brcr) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Seven Seas](https://open.spotify.com/album/7tFM2YfFPx3mNrwRes7LrC) | 4:36 |
-| 36 | [Another Day \(revised\)](https://open.spotify.com/track/6Xr3Ii4HyMcatwsQgq1iOD) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [In a Safe Place](https://open.spotify.com/album/1sZjWlyc9yL13U5q1nTQ8a) | 4:21 |
+| 36 | [A Song That Will Help You Remember to Forget](https://open.spotify.com/track/0itMKInovica9ugQZRTx5p) | [Slow Dancing Society](https://open.spotify.com/artist/4DTUmkn8z1XIzHPr5b0yEc) | [The Sound of Lights When Dim](https://open.spotify.com/album/3WaoN1PHxKk87nuBv8WtwP) | 6:14 |
 | 37 | [Fanshawe](https://open.spotify.com/track/4p0Yp2fnqydGVEgIE2p60X) | [El Ten Eleven](https://open.spotify.com/artist/0d1j4VJ7gzAJaDslzmjTF0) | [El Ten Eleven](https://open.spotify.com/album/6bv070I2PgzwGLgYGBxaJW) | 5:12 |
 | 38 | [Third](https://open.spotify.com/track/3BmtVxAg1jr2sw4WaPHdoz) | [Hiatus](https://open.spotify.com/artist/421vyBBkhgRAOz4cYPvrZJ) | [Third EP](https://open.spotify.com/album/7uZjhHZv5OKWRj2ar3Y84u) | 4:46 |
 | 39 | [Truth \- Helios Remix](https://open.spotify.com/track/70yAekvZ6xZcC9PKrEHS4S) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [All Is Wild, All Is Silent Remixes](https://open.spotify.com/album/6m6zHJ1nwn95OQPr90Hbic) | 3:45 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 59 | [Sleeper](https://open.spotify.com/track/6BaIyArPOHgL2tvLFJ2mws) | [Pray for Sound](https://open.spotify.com/artist/3pmb6EnakP15oTPwkUndJx) | [Dreamer](https://open.spotify.com/album/1faB36WLHliVa6xqjzTtcu) | 5:32 |
 | 60 | [Pleasure Centre](https://open.spotify.com/track/331tP1ALdrmjioH4RznvwC) | [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS) | [On Vacation](https://open.spotify.com/album/5glo8zTL4koRq4BmOCdapU) | 5:47 |
 
-Snapshot ID: `MTY0ODc1ODk0NSwwMDAwMDAwMGE1N2ZiZjQ3ZDkxZjg0NzBkYzVhYWEwNWJlMDJiZDI2`
+Snapshot ID: `MTY0ODc1ODk0NSwwMDAwMDAwMDJhZDZiYzRmZjk3ZDc2ZDA2NjUxNTYzYzJmZGQ4MzAx`

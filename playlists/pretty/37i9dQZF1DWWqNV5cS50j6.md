@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Gorillaz make anti pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 660,847 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 660,736 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 40 | [cbd](https://open.spotify.com/track/00iYCxpoIxtyBr2JzhIpxx) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [cbd](https://open.spotify.com/album/4rEY8UXU7WajkXrkPdGluV) | 2:41 |
 | 41 | [Psychedelic Views \(feat\. IDK\)](https://open.spotify.com/track/528i4G2yPIJDetyAsndzFw) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Psychedelic Views \(feat\. IDK\)](https://open.spotify.com/album/4dGOwkXOA2MzysErvXsKEC) | 4:40 |
 | 42 | [Power Freaks](https://open.spotify.com/track/06dWM8AMMjKE9Obf2L1ojy) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Pixel Bath](https://open.spotify.com/album/121Hqnfr9tMBdL0LJuIstL) | 4:12 |
-| 43 | [Duo](https://open.spotify.com/track/0KbMjhlUH1xUGDgeIQzLsn) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Duo](https://open.spotify.com/album/5Mp5iZqsRMvP3izACMnLPF) | 2:06 |
-| 44 | [I Did Drugs For You](https://open.spotify.com/track/3MwKRb5GB9phdL9ktdvBsv) | [Rook Monroe](https://open.spotify.com/artist/0xwMjJn29gSNkQYNxc5IED) | [I Did Drugs For You](https://open.spotify.com/album/1slOW8dpDzyLjFJ2BPNHoO) | 3:12 |
+| 43 | [I Did Drugs For You](https://open.spotify.com/track/3MwKRb5GB9phdL9ktdvBsv) | [Rook Monroe](https://open.spotify.com/artist/0xwMjJn29gSNkQYNxc5IED) | [I Did Drugs For You](https://open.spotify.com/album/1slOW8dpDzyLjFJ2BPNHoO) | 3:12 |
+| 44 | [Duo](https://open.spotify.com/track/0KbMjhlUH1xUGDgeIQzLsn) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Duo](https://open.spotify.com/album/5Mp5iZqsRMvP3izACMnLPF) | 2:06 |
 | 45 | [two door tiffany](https://open.spotify.com/track/6oxv6Isn0x28fZh43pviCn) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [quinn](https://open.spotify.com/album/75n3winyXKHLUCOhiSRkA2) | 3:06 |
 | 46 | [Hotline](https://open.spotify.com/track/2T0uZowHdsxAYJyFS13KQI) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy) | [Hotline](https://open.spotify.com/album/01abUW9eJNapjJv0E4rNMF) | 2:28 |
 | 47 | [What Does That Make Me?](https://open.spotify.com/track/6dIIH84jl5SgoLggwFFadz) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7) | [What Does That Make Me?](https://open.spotify.com/album/5f00WY9ZPJ6Pz2AnrNgy60) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 49 | [Sugar](https://open.spotify.com/track/5KfUqRRbm6ACSzLxUS57R2) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Sugar](https://open.spotify.com/album/4bPrS4muAMw2G5M6ARaZ01) | 1:54 |
 | 50 | [MESS U MADE](https://open.spotify.com/track/1jZrlerU1ZWEI7oDPtHPGx) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [AFTER DINNER WE TALK DREAMS](https://open.spotify.com/album/0DNz0XsG6B1Vz1CcbuIsov) | 2:48 |
 
-Snapshot ID: `MTY2MTYzOTczMywwMDAwMDAwMDdkMDk3MTEyN2U4MDRlNGRiNzM0MWJkMGQ4ODY0NGQy`
+Snapshot ID: `MTY2MTYzOTczMywwMDAwMDAwMDhjYTUxNTE2MGZiZGRjMzhhMzU2NjY4NzI5YzFjYmFl`

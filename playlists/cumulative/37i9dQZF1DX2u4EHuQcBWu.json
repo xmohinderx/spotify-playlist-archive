@@ -365,7 +365,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 210640,
       "name": "Aqui Estamos",
       "url": "https://open.spotify.com/track/2kNpzb1Y8CZxz1D34vPkP6"
@@ -1181,6 +1181,24 @@
       "duration_ms": 201372,
       "name": "Darlo Todo",
       "url": "https://open.spotify.com/track/0wX322Hk65LZyzXqvFfDH7"
+    },
+    {
+      "album": {
+        "name": "Amores",
+        "url": "https://open.spotify.com/album/0DSrZQhNEnpV8WiiIoaLVH"
+      },
+      "artists": [
+        {
+          "name": "Marissa Mur",
+          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201413,
+      "name": "Darlo Todo",
+      "url": "https://open.spotify.com/track/4qG1Diwr3AIojASlevDmMD"
     },
     {
       "album": {

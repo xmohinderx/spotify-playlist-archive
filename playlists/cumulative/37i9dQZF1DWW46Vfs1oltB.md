@@ -4,7 +4,7 @@
 
 > Representin' +82 Korean Hip\-Hop's sickest rhymes and beats\. \(Cover: unofficialboyy\(언오피셜보이\)\) \(한국힙합을 대표하는 곡들을 만나보세요!\)
 
-553 songs - 1 day 7 hr 20 min - [published](https://open.spotify.com/playlist/6eQCLyN2pb2xMxhClGC7H2)
+554 songs - 1 day 7 hr 23 min - [published](https://open.spotify.com/playlist/6eQCLyN2pb2xMxhClGC7H2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,6 +289,7 @@
 | [Lil Mama \(feat\. Boi B\)](https://open.spotify.com/track/60xlQCOQIHrj5ET5uIooJC) | [Liquor well](https://open.spotify.com/artist/3ganClcuZN3ZpNrTXJIMmx), [J.cob](https://open.spotify.com/artist/0ElmlBhw88a1jOhfU2hrd2), [보이비](https://open.spotify.com/artist/1ZyODLbzFaAzRMMix9Gdcb) | [Liquor loves J.cob](https://open.spotify.com/album/4llmn5zm2cQDSw9KX8dmmy) | 3:09 | 2022-03-24 | 2022-07-07 |
 | [LiLaC](https://open.spotify.com/track/6eQ74GNcsSwHsXp6kG0v4Y) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [LUCKY MAN](https://open.spotify.com/album/2dY5DQcOw6DiVpmbDNRm5e) | 2:48 | 2021-12-18 | 2022-07-08 |
 | [Limousine \(Feat\. MINO\) \(Prod\. GRAY\)](https://open.spotify.com/track/5g2Ik0WJG9rqu97nCLcQhV) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [Show Me The Money 10 Episode 3](https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql) | 3:40 | 2021-12-18 | 2022-07-08 |
+| [Look \(Feat\. Blase\)](https://open.spotify.com/track/7HvjsQzCtP8lEBfZ8NIxOk) | [Honey J](https://open.spotify.com/artist/7GLNucMzWyvNW8FAabALKi), [Blase](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0) | [Honey Drop](https://open.spotify.com/album/5kdXxKUQ3VaGOPEU8C3Hb5) | 2:22 | 2022-08-30 |  |
 | [Looked Up To The Sky](https://open.spotify.com/track/3bVDunQjcXQlZ1U4nk7vWT) | [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM), [heroincity](https://open.spotify.com/artist/4Sl2QYei5nqAb8bDcccyEP), [Sadboy JB](https://open.spotify.com/artist/7g2bqT5lmeea6rpG3cbEYc) | [Drop The Bit Final Pt\. 2](https://open.spotify.com/album/2q3EHtYTa2eF6GsWYMIQSO) | 4:03 | 2022-05-12 | 2022-06-30 |
 | [Loop](https://open.spotify.com/track/7ATf0yl0YoPO9rTCI3b7fy) | [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [Loop](https://open.spotify.com/album/13YenPbjzjj83sdaKux9Bf) | 2:35 | 2021-12-21 | 2022-06-15 |
 | [LOST](https://open.spotify.com/track/5a0SuGMEWcQiTHeh8Q8Too) | [Khakii](https://open.spotify.com/artist/08c5z2rVpcPu7QylOxQCFA), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [LOST](https://open.spotify.com/album/4bTKOMMrSqEiZi8ElLAjY1) | 2:40 | 2021-12-21 | 2022-07-06 |

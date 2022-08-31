@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Ir Sais, Manuel Turizo\n",
-  "num_followers": 97443,
+  "num_followers": 97482,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzIzNDgwMCwwMDAwMDAwMGFkMzhkYmU2NWYyNzBlZTc2YmFjMWM0MzFlOTdlMWJh",
+  "snapshot_id": "MTY1NzIzNDgwMCwwMDAwMDAwMGFlMTQ2Yjc4MGIwY2RjMjlmOWQxNzM2ODczOWQxZDRh",
   "tracks": [
     {
       "added_at": "2022-05-12 19:39:03",
@@ -663,6 +663,26 @@
     {
       "added_at": "2022-05-12 19:39:03",
       "album": {
+        "name": "Don't Rush (Remix)",
+        "url": "https://open.spotify.com/album/7F360hzRX7Ig1r5sQPc3db"
+      },
+      "artists": [
+        {
+          "name": "Young T & Bugsey",
+          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 201013,
+      "name": "Don't Rush - Remix",
+      "url": "https://open.spotify.com/track/4ltz90zE6hPqE12EGHDMDu"
+    },
+    {
+      "added_at": "2022-05-12 19:39:03",
+      "album": {
         "name": "Drogba (Joanna) [Global Latin Version]",
         "url": "https://open.spotify.com/album/1zVgKFneyzt9OMn0Bg8oBq"
       },
@@ -683,26 +703,6 @@
       "duration_ms": 197214,
       "name": "Drogba (Joanna) - Global Latin Version",
       "url": "https://open.spotify.com/track/6P1lijcRsH94klfkw7zEUj"
-    },
-    {
-      "added_at": "2022-05-12 19:39:03",
-      "album": {
-        "name": "Don't Rush (Remix)",
-        "url": "https://open.spotify.com/album/7F360hzRX7Ig1r5sQPc3db"
-      },
-      "artists": [
-        {
-          "name": "Young T & Bugsey",
-          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 201013,
-      "name": "Don't Rush - Remix",
-      "url": "https://open.spotify.com/track/4ltz90zE6hPqE12EGHDMDu"
     },
     {
       "added_at": "2022-05-12 19:39:03",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2022-05-12 19:39:03",
       "album": {
+        "name": "GUERRA",
+        "url": "https://open.spotify.com/album/7LMX8MddqoPLWjnm049mkt"
+      },
+      "artists": [
+        {
+          "name": "Aissa",
+          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "GUERRA",
+      "url": "https://open.spotify.com/track/66nfXAO6C4u5EFQ2DZR8MZ"
+    },
+    {
+      "added_at": "2022-05-12 19:39:03",
+      "album": {
         "name": "LOML (feat. Olamide)",
         "url": "https://open.spotify.com/album/5ti4HTub24sdxO98BEy0LH"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 196139,
       "name": "LOML (feat. Olamide)",
       "url": "https://open.spotify.com/track/0FZlLFD2yQLxVD4IoiQMFm"
-    },
-    {
-      "added_at": "2022-05-12 19:39:03",
-      "album": {
-        "name": "GUERRA",
-        "url": "https://open.spotify.com/album/7LMX8MddqoPLWjnm049mkt"
-      },
-      "artists": [
-        {
-          "name": "Aissa",
-          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "GUERRA",
-      "url": "https://open.spotify.com/track/66nfXAO6C4u5EFQ2DZR8MZ"
     },
     {
       "added_at": "2022-05-12 19:39:03",

@@ -1,12 +1,12 @@
 {
   "description": "The movement\u2019s roots. Los cl\u00e1sicos del Reggaeton. Cover: Nicky Jam",
-  "num_followers": 2621103,
+  "num_followers": 2621964,
   "original_name": "Reggaeton Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcxNzc3MiwwMDAwMDAwMDRkNmNmMjYzNjMyNDJlZTY0MGQxN2RiMGUxMzFjNGM3",
+  "snapshot_id": "MTY1OTcxNzc3MiwwMDAwMDAwMGFhNmNiYzVjZjIyOWZjYjI5MzA1MGUwOTM4MTFjODIx",
   "tracks": [
     {
       "added_at": "2022-08-05 16:42:52",
@@ -247,6 +247,30 @@
     {
       "added_at": "2022-08-05 16:42:52",
       "album": {
+        "name": "\u00c9pico",
+        "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 266086,
+      "name": "Soltera - Remix",
+      "url": "https://open.spotify.com/track/4t9a07PAghtQMRAIP9FQ7Z"
+    },
+    {
+      "added_at": "2022-08-05 16:42:52",
+      "album": {
         "name": "Baila Baila Baila (Remix) [feat. Farruko, Anuel Aa]",
         "url": "https://open.spotify.com/album/2njbaonul4fuGOFmPchUgU"
       },
@@ -275,30 +299,6 @@
       "duration_ms": 235284,
       "name": "Baila Baila Baila - Remix",
       "url": "https://open.spotify.com/track/7mWFF4gPADjTQjC97CgFVt"
-    },
-    {
-      "added_at": "2022-08-05 16:42:52",
-      "album": {
-        "name": "\u00c9pico",
-        "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 266086,
-      "name": "Soltera - Remix",
-      "url": "https://open.spotify.com/track/4t9a07PAghtQMRAIP9FQ7Z"
     },
     {
       "added_at": "2022-08-05 16:42:52",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-08-05 16:42:52",
       "album": {
-        "name": "Odisea",
-        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 226520,
-      "name": "Dile Que Tu Me Quieres",
-      "url": "https://open.spotify.com/track/5u5MvmVtitax9R1Mxh3reC"
-    },
-    {
-      "added_at": "2022-08-05 16:42:52",
-      "album": {
         "name": "Reggaeton Rulers: Los Que Ponen",
         "url": "https://open.spotify.com/album/369oPiSP9Y3CzTR6uWU4Da"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 182186,
       "name": "Sensacion Del Bloque",
       "url": "https://open.spotify.com/track/5clFSlfkCRlhnH1cAQjSBi"
+    },
+    {
+      "added_at": "2022-08-05 16:42:52",
+      "album": {
+        "name": "Odisea",
+        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 226520,
+      "name": "Dile Que Tu Me Quieres",
+      "url": "https://open.spotify.com/track/5u5MvmVtitax9R1Mxh3reC"
     },
     {
       "added_at": "2022-08-05 16:42:52",
@@ -803,6 +803,22 @@
     {
       "added_at": "2022-08-05 16:42:52",
       "album": {
+        "name": "El Fenomeno",
+        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
+      },
+      "artists": [
+        {
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 214120,
+      "name": "Pa' Que La Pases Bien",
+      "url": "https://open.spotify.com/track/1pLCpA1RN8avJxSD3ZCwhj"
+    },
+    {
+      "added_at": "2022-08-05 16:42:52",
+      "album": {
         "name": "DUELE EL CORAZON (feat. Wisin)",
         "url": "https://open.spotify.com/album/5Ouuxga807CPAs81lSloBJ"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 199693,
       "name": "DUELE EL CORAZON (feat. Wisin)",
       "url": "https://open.spotify.com/track/6YZdkObH88npeKrrkb8Ggf"
-    },
-    {
-      "added_at": "2022-08-05 16:42:52",
-      "album": {
-        "name": "El Fenomeno",
-        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
-      },
-      "artists": [
-        {
-          "name": "Arcangel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 214120,
-      "name": "Pa' Que La Pases Bien",
-      "url": "https://open.spotify.com/track/1pLCpA1RN8avJxSD3ZCwhj"
     },
     {
       "added_at": "2022-08-05 16:42:52",
@@ -915,26 +915,6 @@
     {
       "added_at": "2022-08-05 16:42:52",
       "album": {
-        "name": "Visionary",
-        "url": "https://open.spotify.com/album/1zFp5Q3Dgo8wmKsmfZ23QX"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Ky-Mani Marley",
-          "url": "https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC"
-        }
-      ],
-      "duration_ms": 197840,
-      "name": "Chillax (feat. Ky-Mani Marley)",
-      "url": "https://open.spotify.com/track/1lxswgIpzV6HhENRvkflES"
-    },
-    {
-      "added_at": "2022-08-05 16:42:52",
-      "album": {
         "name": "Los Vaqueros Wild Wild Mixes",
         "url": "https://open.spotify.com/album/0lSruNExlVqHp7Ox1xpWgu"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 240200,
       "name": "Quizas - Remix",
       "url": "https://open.spotify.com/track/4YFoQUkj0XXJgTiHp8d61y"
+    },
+    {
+      "added_at": "2022-08-05 16:42:52",
+      "album": {
+        "name": "Visionary",
+        "url": "https://open.spotify.com/album/1zFp5Q3Dgo8wmKsmfZ23QX"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Ky-Mani Marley",
+          "url": "https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC"
+        }
+      ],
+      "duration_ms": 197840,
+      "name": "Chillax (feat. Ky-Mani Marley)",
+      "url": "https://open.spotify.com/track/1lxswgIpzV6HhENRvkflES"
     },
     {
       "added_at": "2022-08-05 16:42:52",
@@ -1287,38 +1287,6 @@
     {
       "added_at": "2022-08-05 16:42:52",
       "album": {
-        "name": "El Abayarde",
-        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
-      },
-      "artists": [
-        {
-          "name": "Tego Calderon",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
-        }
-      ],
-      "duration_ms": 252693,
-      "name": "Dominicana",
-      "url": "https://open.spotify.com/track/45IOnEpVUdxWUZFqpZ7Xvz"
-    },
-    {
-      "added_at": "2022-08-05 16:42:52",
-      "album": {
-        "name": "Masterpiece: Nuestra Obra Maestra",
-        "url": "https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE"
-      },
-      "artists": [
-        {
-          "name": "R.K.M & Ken-Y",
-          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
-        }
-      ],
-      "duration_ms": 196360,
-      "name": "Me Matas",
-      "url": "https://open.spotify.com/track/5mVcyopMGY8dSpN1ZyaBUD"
-    },
-    {
-      "added_at": "2022-08-05 16:42:52",
-      "album": {
         "name": "Mayor Que Yo 3",
         "url": "https://open.spotify.com/album/571drPm82JNSynpu9yhEEX"
       },
@@ -1343,6 +1311,38 @@
       "duration_ms": 304746,
       "name": "Mayor Que Yo 3",
       "url": "https://open.spotify.com/track/4777sGsOdoM89vPH3CVoLe"
+    },
+    {
+      "added_at": "2022-08-05 16:42:52",
+      "album": {
+        "name": "Masterpiece: Nuestra Obra Maestra",
+        "url": "https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE"
+      },
+      "artists": [
+        {
+          "name": "R.K.M & Ken-Y",
+          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
+        }
+      ],
+      "duration_ms": 196360,
+      "name": "Me Matas",
+      "url": "https://open.spotify.com/track/5mVcyopMGY8dSpN1ZyaBUD"
+    },
+    {
+      "added_at": "2022-08-05 16:42:52",
+      "album": {
+        "name": "El Abayarde",
+        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
+      },
+      "artists": [
+        {
+          "name": "Tego Calderon",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        }
+      ],
+      "duration_ms": 252693,
+      "name": "Dominicana",
+      "url": "https://open.spotify.com/track/45IOnEpVUdxWUZFqpZ7Xvz"
     },
     {
       "added_at": "2022-08-05 16:42:52",
@@ -1435,6 +1435,34 @@
     {
       "added_at": "2022-08-05 16:42:52",
       "album": {
+        "name": "Mas Flow, Vol. 1",
+        "url": "https://open.spotify.com/album/29BiTy2syDZyjGa9Rza6Ot"
+      },
+      "artists": [
+        {
+          "name": "Luny Tunes",
+          "url": "https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK"
+        },
+        {
+          "name": "Noriega",
+          "url": "https://open.spotify.com/artist/3P4VNQLuN1qQQnL8rMaIkL"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        },
+        {
+          "name": "Tito \"El Bambino\"",
+          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
+        }
+      ],
+      "duration_ms": 232587,
+      "name": "Hay Algo en Ti",
+      "url": "https://open.spotify.com/track/15PxHZffHMndHQjmzYuGUv"
+    },
+    {
+      "added_at": "2022-08-05 16:42:52",
+      "album": {
         "name": "El Sobreviviente",
         "url": "https://open.spotify.com/album/4k5YrELX73vK5ALegjEReh"
       },
@@ -1495,8 +1523,8 @@
     {
       "added_at": "2022-08-05 16:42:52",
       "album": {
-        "name": "No Te Veo",
-        "url": "https://open.spotify.com/album/2gSW9jTCv7OZgx8JKlkyE7"
+        "name": "Casa De Leones",
+        "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
       },
       "artists": [
         {
@@ -1504,37 +1532,9 @@
           "url": "https://open.spotify.com/artist/26YAHs5On4KQDNsU2cYFdL"
         }
       ],
-      "duration_ms": 255986,
-      "name": "No Te Veo - Digital Single",
-      "url": "https://open.spotify.com/track/40EDOraCqoiMf14TzODihf"
-    },
-    {
-      "added_at": "2022-08-05 16:42:52",
-      "album": {
-        "name": "Mas Flow, Vol. 1",
-        "url": "https://open.spotify.com/album/29BiTy2syDZyjGa9Rza6Ot"
-      },
-      "artists": [
-        {
-          "name": "Luny Tunes",
-          "url": "https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK"
-        },
-        {
-          "name": "Noriega",
-          "url": "https://open.spotify.com/artist/3P4VNQLuN1qQQnL8rMaIkL"
-        },
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        },
-        {
-          "name": "Tito \"El Bambino\"",
-          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
-        }
-      ],
-      "duration_ms": 232587,
-      "name": "Hay Algo en Ti",
-      "url": "https://open.spotify.com/track/15PxHZffHMndHQjmzYuGUv"
+      "duration_ms": 246080,
+      "name": "Shorty",
+      "url": "https://open.spotify.com/track/7d05Cx72W1WsWUw7MAD7ia"
     },
     {
       "added_at": "2022-08-05 16:42:52",
@@ -1631,42 +1631,6 @@
     {
       "added_at": "2022-08-05 16:42:52",
       "album": {
-        "name": "Casa De Leones",
-        "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
-      },
-      "artists": [
-        {
-          "name": "Casa De Leones",
-          "url": "https://open.spotify.com/artist/26YAHs5On4KQDNsU2cYFdL"
-        }
-      ],
-      "duration_ms": 246080,
-      "name": "Shorty",
-      "url": "https://open.spotify.com/track/7d05Cx72W1WsWUw7MAD7ia"
-    },
-    {
-      "added_at": "2022-08-05 16:42:52",
-      "album": {
-        "name": "Sobrenatural",
-        "url": "https://open.spotify.com/album/2TBu0mCd9swbPWIzpSZgvf"
-      },
-      "artists": [
-        {
-          "name": "Alexis y Fido",
-          "url": "https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA"
-        },
-        {
-          "name": "Toby Love",
-          "url": "https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN"
-        }
-      ],
-      "duration_ms": 224706,
-      "name": "Soy Igual Que T\u00fa (feat. Toby Love)",
-      "url": "https://open.spotify.com/track/4Zil8ro7fhQGVYXl2YYkO2"
-    },
-    {
-      "added_at": "2022-08-05 16:42:52",
-      "album": {
         "name": "Mas Flow, Vol. 1",
         "url": "https://open.spotify.com/album/29BiTy2syDZyjGa9Rza6Ot"
       },
@@ -1691,6 +1655,42 @@
     {
       "added_at": "2022-08-05 16:42:52",
       "album": {
+        "name": "Sobrenatural",
+        "url": "https://open.spotify.com/album/2TBu0mCd9swbPWIzpSZgvf"
+      },
+      "artists": [
+        {
+          "name": "Alexis y Fido",
+          "url": "https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA"
+        },
+        {
+          "name": "Toby Love",
+          "url": "https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN"
+        }
+      ],
+      "duration_ms": 224706,
+      "name": "Soy Igual Que T\u00fa (feat. Toby Love)",
+      "url": "https://open.spotify.com/track/4Zil8ro7fhQGVYXl2YYkO2"
+    },
+    {
+      "added_at": "2022-08-05 16:42:52",
+      "album": {
+        "name": "No Te Veo",
+        "url": "https://open.spotify.com/album/2gSW9jTCv7OZgx8JKlkyE7"
+      },
+      "artists": [
+        {
+          "name": "Casa De Leones",
+          "url": "https://open.spotify.com/artist/26YAHs5On4KQDNsU2cYFdL"
+        }
+      ],
+      "duration_ms": 255986,
+      "name": "No Te Veo - Digital Single",
+      "url": "https://open.spotify.com/track/40EDOraCqoiMf14TzODihf"
+    },
+    {
+      "added_at": "2022-08-05 16:42:52",
+      "album": {
         "name": "DIVA- Platinum Edition",
         "url": "https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb"
       },
@@ -1703,6 +1703,22 @@
       "duration_ms": 175533,
       "name": "Quiero Saber",
       "url": "https://open.spotify.com/track/4VKI2yBkCE4mWhFBwZp0LU"
+    },
+    {
+      "added_at": "2022-08-05 16:42:52",
+      "album": {
+        "name": "It's My Time",
+        "url": "https://open.spotify.com/album/1xAIagWtSmzXVaVL6DZDIe"
+      },
+      "artists": [
+        {
+          "name": "Tito \"El Bambino\"",
+          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
+        }
+      ],
+      "duration_ms": 188320,
+      "name": "Sol, Playa Y Arena",
+      "url": "https://open.spotify.com/track/2OikDCslmF1Y04Szgbc8Hl"
     },
     {
       "added_at": "2022-08-05 16:42:52",
@@ -1751,22 +1767,6 @@
       "duration_ms": 291658,
       "name": "Quitate Tu Pa Ponerme Yo",
       "url": "https://open.spotify.com/track/16KDdey3vnSBWwqUZoe1cT"
-    },
-    {
-      "added_at": "2022-08-05 16:42:52",
-      "album": {
-        "name": "It's My Time",
-        "url": "https://open.spotify.com/album/1xAIagWtSmzXVaVL6DZDIe"
-      },
-      "artists": [
-        {
-          "name": "Tito \"El Bambino\"",
-          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
-        }
-      ],
-      "duration_ms": 188320,
-      "name": "Sol, Playa Y Arena",
-      "url": "https://open.spotify.com/track/2OikDCslmF1Y04Szgbc8Hl"
     },
     {
       "added_at": "2022-08-05 16:42:52",
@@ -1911,54 +1911,6 @@
     {
       "added_at": "2022-08-05 16:42:52",
       "album": {
-        "name": "12 Discipulos",
-        "url": "https://open.spotify.com/album/7txBx0XCrl5IhJuTNgNV4w"
-      },
-      "artists": [
-        {
-          "name": "Eddie Dee",
-          "url": "https://open.spotify.com/artist/7zLcnirfgw1VEHHshuGcDR"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Gallego",
-          "url": "https://open.spotify.com/artist/6P9Adm5Ne2YtzhV1hOjQcC"
-        },
-        {
-          "name": "Tego Calderon",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
-        },
-        {
-          "name": "Voltio",
-          "url": "https://open.spotify.com/artist/3Okcq0dqLVlEFHRZ5t22bA"
-        },
-        {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
-        },
-        {
-          "name": "Johnny Prez",
-          "url": "https://open.spotify.com/artist/6gm3ZEpugRTHbtEn3A6Siw"
-        },
-        {
-          "name": "Wiso G",
-          "url": "https://open.spotify.com/artist/0LZaKjCxp13clON7dlplRt"
-        },
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 269558,
-      "name": "los Disicipulos",
-      "url": "https://open.spotify.com/track/2vWWy37CDlDlfPipzb4iIX"
-    },
-    {
-      "added_at": "2022-08-05 16:42:52",
-      "album": {
         "name": "El Inmortal",
         "url": "https://open.spotify.com/album/2G2jtQfZVKDTHiMjUIVg7D"
       },
@@ -1971,6 +1923,22 @@
       "duration_ms": 187350,
       "name": "Hasta Que Se Seque el Malec\u00f3n",
       "url": "https://open.spotify.com/track/3w1D8eAOBDZdb8RP5wbV65"
+    },
+    {
+      "added_at": "2022-08-05 16:42:52",
+      "album": {
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/7tKeiurj0n5DmV57x7p6U4"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "duration_ms": 253893,
+      "name": "Te He Querido, Te He Llorado",
+      "url": "https://open.spotify.com/track/61HuVAedKGMO7jWl8ZyALQ"
     },
     {
       "added_at": "2022-08-05 16:42:52",

@@ -1,12 +1,12 @@
 {
   "description": "Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles. Cover: Wilco, Yeah Yeah Yeahs, and The Mar\u00edas",
-  "num_followers": 95560,
+  "num_followers": 95523,
   "original_name": "Spotify Singles: Indie & Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTkzMzI4OSwwMDAwMDAwMDUwMGUwNDdiZTM0YTM0NjNmNjUzYjIxZWNmZmU1OThl",
+  "snapshot_id": "MTY1NTkzMzI4OSwwMDAwMDAwMDc2MDRmZjM4ZmExMzBjNGQ0YTA2MjU4NDgyMjRiNzRk",
   "tracks": [
     {
       "added_at": "2022-03-30 13:22:18",
@@ -720,22 +720,6 @@
       "added_at": "2022-03-30 13:22:18",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0nuevVEmgZ7meuFGnFn5AA"
-      },
-      "artists": [
-        {
-          "name": "Mondo Cozmo",
-          "url": "https://open.spotify.com/artist/7ybnRZKtRbWQzJfKyYSyh6"
-        }
-      ],
-      "duration_ms": 323466,
-      "name": "Bittersweet Symphony - Jim Eno Sessions",
-      "url": "https://open.spotify.com/track/0Bi1yywe4x2EpWgcuCZ1Hb"
-    },
-    {
-      "added_at": "2022-03-30 13:22:18",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7xPNSOtnXFMOsTnvQrLeXH"
       },
       "artists": [
@@ -747,6 +731,22 @@
       "duration_ms": 251498,
       "name": "Stayaway - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/38TDGceS2vVyOxIdU4n9ZU"
+    },
+    {
+      "added_at": "2022-03-30 13:22:18",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0nuevVEmgZ7meuFGnFn5AA"
+      },
+      "artists": [
+        {
+          "name": "Mondo Cozmo",
+          "url": "https://open.spotify.com/artist/7ybnRZKtRbWQzJfKyYSyh6"
+        }
+      ],
+      "duration_ms": 323466,
+      "name": "Bittersweet Symphony - Jim Eno Sessions",
+      "url": "https://open.spotify.com/track/0Bi1yywe4x2EpWgcuCZ1Hb"
     },
     {
       "added_at": "2022-03-30 13:22:18",
@@ -896,22 +896,6 @@
       "added_at": "2022-03-30 13:22:18",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4HKJv2TGDJlUektNzVgFzQ"
-      },
-      "artists": [
-        {
-          "name": "MisterWives",
-          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
-        }
-      ],
-      "duration_ms": 209542,
-      "name": "Ride - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5pKJwIFF2FVHAV2DCYzjHh"
-    },
-    {
-      "added_at": "2022-03-30 13:22:18",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6zsyF9yFf1KzJIt4mJJNzj"
       },
       "artists": [
@@ -923,6 +907,22 @@
       "duration_ms": 314762,
       "name": "Salt And The Sea - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/13ohpzdtJcFgRyxLLQ1ftY"
+    },
+    {
+      "added_at": "2022-03-30 13:22:18",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4HKJv2TGDJlUektNzVgFzQ"
+      },
+      "artists": [
+        {
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+        }
+      ],
+      "duration_ms": 209542,
+      "name": "Ride - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5pKJwIFF2FVHAV2DCYzjHh"
     },
     {
       "added_at": "2022-03-30 13:22:18",
@@ -1408,22 +1408,6 @@
       "added_at": "2022-03-30 13:22:18",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7vD0UV7p87sy5MnOhJqDDW"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 202106,
-      "name": "In Cold Blood - Live from Spotify Studios, New York City, NY",
-      "url": "https://open.spotify.com/track/4rqBVkiHkv7RovTm5CFyyt"
-    },
-    {
-      "added_at": "2022-03-30 13:22:18",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1BVo8R3bj8Ct0XVt40Penq"
       },
       "artists": [
@@ -1435,6 +1419,22 @@
       "duration_ms": 253514,
       "name": "Los Ageless - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1N7JaLzEnYLee0DUxoMrei"
+    },
+    {
+      "added_at": "2022-03-30 13:22:18",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7vD0UV7p87sy5MnOhJqDDW"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 202106,
+      "name": "In Cold Blood - Live from Spotify Studios, New York City, NY",
+      "url": "https://open.spotify.com/track/4rqBVkiHkv7RovTm5CFyyt"
     },
     {
       "added_at": "2022-03-30 13:22:18",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2022-03-30 13:22:18",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/31XFdluptfjbWjlvqGbegP"
+      },
+      "artists": [
+        {
+          "name": "Dashboard Confessional",
+          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
+        }
+      ],
+      "duration_ms": 287459,
+      "name": "Screaming Infidelities - Recorded at Electric Lady Studios NYC, 2020",
+      "url": "https://open.spotify.com/track/2oQzXAcwkpB5BmVqQVldAi"
+    },
+    {
+      "added_at": "2022-03-30 13:22:18",
+      "album": {
         "name": "Spotify Singles (Recorded at Spotify Studios NYC)",
         "url": "https://open.spotify.com/album/43KwOELEOKAFhnBSruUM3N"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 221488,
       "name": "The Morning Stars - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5406irqE4nbhyF32Hgbtid"
-    },
-    {
-      "added_at": "2022-03-30 13:22:18",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/31XFdluptfjbWjlvqGbegP"
-      },
-      "artists": [
-        {
-          "name": "Dashboard Confessional",
-          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
-        }
-      ],
-      "duration_ms": 287459,
-      "name": "Screaming Infidelities - Recorded at Electric Lady Studios NYC, 2020",
-      "url": "https://open.spotify.com/track/2oQzXAcwkpB5BmVqQVldAi"
     },
     {
       "added_at": "2022-03-30 13:22:18",
@@ -2003,18 +2003,18 @@
     {
       "added_at": "2022-03-30 13:22:18",
       "album": {
-        "name": "Spotify Singles (Recorded At Metropolis Studios, London)",
-        "url": "https://open.spotify.com/album/0SClXAA2IiMdo4emMv0cRv"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/39XVP9BnseAz2Bn42EuWlS"
       },
       "artists": [
         {
-          "name": "Pale Waves",
-          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
         }
       ],
-      "duration_ms": 164427,
-      "name": "One More Time - Recorded At Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/1FpKPMzqIltTIcJHPcbgAR"
+      "duration_ms": 254880,
+      "name": "Houses - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1NhfDvGAuVnc7IgApijwRa"
     }
   ],
   "unique_name": "Spotify Singles: Indie & Alternative",

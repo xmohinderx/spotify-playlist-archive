@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Trompetas, piano y timbal para darle saz\u00f3n a tu mediod\u00eda!",
-  "num_followers": 30169,
+  "num_followers": 30182,
   "original_name": "Brunch Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDQzMDgwMCwwMDAwMDAwMGRhZjcyZjc2OTcxOGNjZWEzMzZmNjU2YjI2ZTNmMGZi",
+  "snapshot_id": "MTY1MDQzMDgwMCwwMDAwMDAwMDE5ZmE3NmNiNzA1NWYzZGY0ZGY0MjQ3YWE4NzhlMDdi",
   "tracks": [
     {
       "added_at": "2021-10-20 21:31:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2021-10-20 21:31:00",
       "album": {
-        "name": "Baile Bucanero",
-        "url": "https://open.spotify.com/album/1jBC2RT7oXRkOqHrfoZCI3"
-      },
-      "artists": [
-        {
-          "name": "Ondatr\u00f3pica",
-          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Lazalypso",
-      "url": "https://open.spotify.com/track/73nwZubj4lYdp7MfDZO47a"
-    },
-    {
-      "added_at": "2021-10-20 21:31:00",
-      "album": {
         "name": "Enrique Delgado (feat. Enrique Delgado Montes)",
         "url": "https://open.spotify.com/album/62Q0yW6XbxNtuJDOc6ohyj"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 168306,
       "name": "Para Elisa",
       "url": "https://open.spotify.com/track/4cu1KDI2JSaf6lQbUlzDlX"
+    },
+    {
+      "added_at": "2021-10-20 21:31:00",
+      "album": {
+        "name": "Baile Bucanero",
+        "url": "https://open.spotify.com/album/1jBC2RT7oXRkOqHrfoZCI3"
+      },
+      "artists": [
+        {
+          "name": "Ondatr\u00f3pica",
+          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Lazalypso",
+      "url": "https://open.spotify.com/track/73nwZubj4lYdp7MfDZO47a"
     },
     {
       "added_at": "2021-10-20 21:31:00",

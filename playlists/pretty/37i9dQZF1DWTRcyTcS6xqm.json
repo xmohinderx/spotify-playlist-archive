@@ -1,12 +1,12 @@
 {
   "description": "Party blues tunes. Cover: Joe Louis Walker",
-  "num_followers": 6211,
+  "num_followers": 6232,
   "original_name": "Blues Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwMDFlMTg1Njk1Nzk5NWM3ZWI3NDRiZTMzMWQ3OWUxMjhi",
+  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwMGY3MzNhNmE2YWYwNzkxMzQzYTlmMmUyMDdhMTBiNWE2",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -743,18 +743,26 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "The Son Of A Bluesman",
-        "url": "https://open.spotify.com/album/4ncErgtor51fjBYPYQ7hk9"
+        "name": "50 - Just warming up !",
+        "url": "https://open.spotify.com/album/25DudAOE7STeKctgnHdrvt"
       },
       "artists": [
         {
           "name": "Lucky Peterson",
           "url": "https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5"
+        },
+        {
+          "name": "Danielia Cotton",
+          "url": "https://open.spotify.com/artist/50miJwBy3aOhmUFpyewX5t"
+        },
+        {
+          "name": "Sugar Blue",
+          "url": "https://open.spotify.com/artist/3HojqGF4FshKki7Ku6gPqE"
         }
       ],
-      "duration_ms": 281013,
-      "name": "Funky Broadway",
-      "url": "https://open.spotify.com/track/6PiG0h2rJuBodPoHcqiwZs"
+      "duration_ms": 275226,
+      "name": "Let The Good Time Party Begin",
+      "url": "https://open.spotify.com/track/0IISDvjnvAI30eXFhRzKQ6"
     },
     {
       "added_at": "2021-05-21 04:01:00",

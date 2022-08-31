@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UvejH8n2BC.md) - [plain]
 
 > Female artists of Philadelphia International Records which is especially known for Philly Soul\. Cover: The Jones Girls:
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,157 likes - 32 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,199 likes - 32 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UvejH8n2BC.md) - [plain]
 | 2 | [Nights Over Egypt](https://open.spotify.com/track/68VCCqeujyd3SqmYAWB0lZ) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Get as Much Love as You Can](https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi) | 4:39 |
 | 3 | [You Know How to Love Me \- 7" Version](https://open.spotify.com/track/12nDGzwsNPNjULCy7VKGHx) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [You Know How to Love Me \(Expanded Edition\)](https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM) | 3:46 |
 | 4 | [If Only You Knew](https://open.spotify.com/track/60kYnvU89eL92jJ3eQcPXq) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [I'm In Love Again](https://open.spotify.com/album/2PcZjItgjHSkKFIiW44hHy) | 4:45 |
-| 5 | [Don't Let It Go to Your Head \- 12" Version](https://open.spotify.com/track/4nRiCBgh4dvI1fqv3f7rpw) | [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [Happy To Be With You](https://open.spotify.com/album/36gLFOM5E6PELPukiJ4I0d) | 4:51 |
-| 6 | [Hope That We Can Be Together Soon \(feat\. Sharon Paige\)](https://open.spotify.com/track/1nJUvlF4nwEKVHF1UNEOua) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Sharon Paige](https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk) | [To Be True \(Expanded Edition\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3) | 3:42 |
+| 5 | [Hope That We Can Be Together Soon \(feat\. Sharon Paige\)](https://open.spotify.com/track/1nJUvlF4nwEKVHF1UNEOua) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Sharon Paige](https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk) | [To Be True \(Expanded Edition\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3) | 3:42 |
+| 6 | [Don't Let It Go to Your Head \- 12" Version](https://open.spotify.com/track/4nRiCBgh4dvI1fqv3f7rpw) | [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [Happy To Be With You](https://open.spotify.com/album/36gLFOM5E6PELPukiJ4I0d) | 4:51 |
 | 7 | [TSOP \(The Sound of Philadelphia\)](https://open.spotify.com/track/50wtPW7qTqRCi78OxVn2ep) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International \(Expanded Edition\)](https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG) | 3:47 |
 | 8 | [Strut Your Funky Stuff \- 12" Version](https://open.spotify.com/track/2ZHEd0c9amAX10cbYdBtQ9) | [Frantique](https://open.spotify.com/artist/64FQb5lUDKS72l9d8OjDLT) | [Frantique](https://open.spotify.com/album/1Xn2SYwx4PCz5v4K9yNSJn) | 6:16 |
 | 9 | [Love, Need and Want You](https://open.spotify.com/track/0t1MdYckZOtGVykowa6d95) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [I'm In Love Again](https://open.spotify.com/album/2PcZjItgjHSkKFIiW44hHy) | 4:58 |
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UvejH8n2BC.md) - [plain]
 | 31 | [Year Of Decision](https://open.spotify.com/track/3DtoTiWTr4i11DkINqwhoh) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees](https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX) | 2:41 |
 | 32 | [Free Love](https://open.spotify.com/track/0U8jLRW0P9yATYLXiqEJlF) | [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [Jean Carn](https://open.spotify.com/album/4gsuDhx9sgXP5tqKFolPIj) | 4:04 |
 
-Snapshot ID: `MTY1MTU4MzIyMywwMDAwMDAwMDZmNTJhM2U1NjFkODhlZGI3NGQ1MDFkODMwYjI2OTcx`
+Snapshot ID: `MTY1MTU4MzIyMywwMDAwMDAwMDE0MmQzZDY5MzgwNzJkNmM5OTQwMjNiODk5MjhjZmQ4`

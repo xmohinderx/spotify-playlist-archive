@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 
 > Immerse yourself in the mysticism of Tulum!
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,300 likes - 70 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,523 likes - 70 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 36 | [Laughter of the Sea](https://open.spotify.com/track/2AjB1CCKlumQX9uJG48mDS) | [Joaquín Cornejo](https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx), [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN) | [Laughter of the Sea](https://open.spotify.com/album/2PdScDypRbyrR3yYkNEuMH) | 5:59 |
 | 37 | [Morena](https://open.spotify.com/track/7z1q1J4zcB1d736GJZUkLa) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [Flora Vida](https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Morena](https://open.spotify.com/album/4uxHO0UkGVUckaCScCgI5U) | 2:29 |
 | 38 | [Manana Tepotzlan](https://open.spotify.com/track/73myc2rii2DVG3HpTkGOnl) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Cenotes](https://open.spotify.com/album/7yxXs09QqG9iq1Mk6dsK5O) | 4:00 |
-| 39 | [El Abuelo](https://open.spotify.com/track/1cmjjbzi9Hqe6IgHbB7gBp) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W), [Fernando Milagros](https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN) | [El Abuelo](https://open.spotify.com/album/0x7kpSHrkQrqMxrvwbpAPU) | 5:31 |
-| 40 | [Manos](https://open.spotify.com/track/2lkrvCh5EArrBxSagwHRX1) | [Mente Orgánica](https://open.spotify.com/artist/1wfwGvcBGamXiXxuaExHRT) | [Ojos](https://open.spotify.com/album/0nt8pOx5bT4aU24zQ5RW9v) | 5:10 |
+| 39 | [Manos](https://open.spotify.com/track/2lkrvCh5EArrBxSagwHRX1) | [Mente Orgánica](https://open.spotify.com/artist/1wfwGvcBGamXiXxuaExHRT) | [Ojos](https://open.spotify.com/album/0nt8pOx5bT4aU24zQ5RW9v) | 5:10 |
+| 40 | [El Abuelo](https://open.spotify.com/track/1cmjjbzi9Hqe6IgHbB7gBp) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W), [Fernando Milagros](https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN) | [El Abuelo](https://open.spotify.com/album/0x7kpSHrkQrqMxrvwbpAPU) | 5:31 |
 | 41 | [Sentir](https://open.spotify.com/track/52LzaPKWxeHxGTJq0GkEqx) | [Ilse Hendrix](https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB) | [Sentir](https://open.spotify.com/album/6JrZVD3zusGjBWMuT37q3z) | 3:48 |
 | 42 | [Pool Party](https://open.spotify.com/track/6T572wD8zgOLOlB9TzxUmh) | [Self Sabotage](https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN) | [Skin and Bones](https://open.spotify.com/album/21OcdHHc9h888jldjCWcBP) | 3:58 |
 | 43 | [Santa Teresa](https://open.spotify.com/track/0GVu2gXzurD0FBL7CHqE0F) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg), [Castello Branco](https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90) | [Santa Teresa](https://open.spotify.com/album/5MWFftrRcVgXuUkWWatWVT) | 4:58 |
@@ -66,11 +66,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 56 | [Jardines](https://open.spotify.com/track/7at4rkvJsE7CO1gXlcJpDM) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Amansara](https://open.spotify.com/album/14DTBgOPUSBQwiK0DCzaLl) | 4:46 |
 | 57 | [Tuyo \- Original Mix](https://open.spotify.com/track/3ZcjaZ8kqimC1lgQ3662U0) | [Supernova](https://open.spotify.com/artist/1vpJBCwcAMbetCwtn2KPEG), [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Tuyo](https://open.spotify.com/album/0mNt37lNYCqm2EN6LCLwml) | 6:34 |
 | 58 | [Paso a Huella \- Captain Planet Remix](https://open.spotify.com/track/31riMJMbPsDBPpHS5Yi0Ja) | [Novalima](https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI), [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Ch'usay Remixes](https://open.spotify.com/album/246AUaB8i3CzFdfpSZHcBX) | 3:27 |
-| 59 | [La Cura](https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Gizmo Varillas](https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj) | [La Cura](https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf) | 3:01 |
-| 60 | [1542](https://open.spotify.com/track/10glJ8ARN1G9ESFF9s00yk) | [Xique\-Xique](https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp) | [Xaxoeira](https://open.spotify.com/album/0T1MHuHlxRGyGqZT1KGubi) | 5:47 |
-| 61 | [Danza de Vision](https://open.spotify.com/track/00GwxMge3vIOMeV43Erckc) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Cantos de Vision](https://open.spotify.com/album/2FFMtf8Log72Ow5A3ExNv5) | 5:29 |
-| 62 | [Chicha Nola \- Alternative Version](https://open.spotify.com/track/0PNXaIFtSKlXDJSzWPy8YG) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Safe Passage](https://open.spotify.com/album/4nEl5WmNwaoRTUJZzJIH37) | 3:34 |
-| 63 | [Better When We're Close](https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Better When We're Close](https://open.spotify.com/album/3QAQLlcR4CVx9ySkuNNnah) | 3:33 |
+| 59 | [1542](https://open.spotify.com/track/10glJ8ARN1G9ESFF9s00yk) | [Xique\-Xique](https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp) | [Xaxoeira](https://open.spotify.com/album/0T1MHuHlxRGyGqZT1KGubi) | 5:47 |
+| 60 | [Danza de Vision](https://open.spotify.com/track/00GwxMge3vIOMeV43Erckc) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Cantos de Vision](https://open.spotify.com/album/2FFMtf8Log72Ow5A3ExNv5) | 5:29 |
+| 61 | [La Cura](https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Gizmo Varillas](https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj) | [La Cura](https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf) | 3:01 |
+| 62 | [Better When We're Close](https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Better When We're Close](https://open.spotify.com/album/3QAQLlcR4CVx9ySkuNNnah) | 3:33 |
+| 63 | [Chicha Nola \- Alternative Version](https://open.spotify.com/track/0PNXaIFtSKlXDJSzWPy8YG) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Safe Passage](https://open.spotify.com/album/4nEl5WmNwaoRTUJZzJIH37) | 3:34 |
 | 64 | [Ahora](https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Aire](https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T) | 4:33 |
 | 65 | [Rúmbala](https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur) | [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Rúmbala](https://open.spotify.com/album/4yf3TyT75f33sAq1o1ORuR) | 2:58 |
 | 66 | [Don’t You Want My Love](https://open.spotify.com/track/4L60ULqvJpqFReaNwmq8F0) | [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [Forevernevermore](https://open.spotify.com/album/2NhQapO6mTOWbip0fvru36) | 4:24 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 69 | [Nineteen Hundred and Eighty Five](https://open.spotify.com/track/65KrPjUkVnvUUfQaDGn6n7) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Theme from Selva](https://open.spotify.com/album/6ht7LwHxyNVk8gkqGaK6mM) | 5:40 |
 | 70 | [Agua de La Tierra \- Nicola Cruz Remix](https://open.spotify.com/track/3z55fMIOftbrZrZ0Z7WbbW) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W), [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [El Origen](https://open.spotify.com/album/0wOHl1sUUJ5fw2YLCClpyr) | 4:53 |
 
-Snapshot ID: `MTY2MDg3Nzg0NCwwMDAwMDAwMGVhNmNkMDdlZmJmY2IwOGUxNzZjMDhmNzI5MTAyZThh`
+Snapshot ID: `MTY2MDg3Nzg0NCwwMDAwMDAwMGE4MWI1Yzc2ZTIzODU2Y2Y3MzEyZGFmMGZhMDg0ODE2`

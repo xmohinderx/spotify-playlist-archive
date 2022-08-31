@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-212 songs - 13 hr 39 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
+215 songs - 13 hr 53 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Good For](https://open.spotify.com/track/1xQ0uoIrGX8Gsq8s1hZTiV) | [土岐隼一](https://open.spotify.com/artist/0qDE2zIQMn6bSgEPUsWGsi) | [Good For](https://open.spotify.com/album/1RrXyKwwvq0X3f02W4zdMc) | 4:21 | 2022-05-28 | 2022-07-06 |
 | [Good Morning \[New\] World!](https://open.spotify.com/track/1yUV3xzgaFWG2Koe9Sfcwd) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [Good Morning \[New\] World!](https://open.spotify.com/album/4XJU7VESD3DYIkO8g2iGpE) | 4:18 | 2022-07-12 |  |
 | [Guide](https://open.spotify.com/track/1s4dzs3zHzzzqYSLMtNHpN) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Guide](https://open.spotify.com/album/2esNXPhXxK55Hz4gLzaXwL) | 3:41 | 2022-07-28 |  |
+| [Hallo Gallo](https://open.spotify.com/track/5tEcZDbPrZDoPf5EYU9Y84) | [フィン \(CV.入野自由\)](https://open.spotify.com/artist/19Eztn3ipHq4vAh5bkWidF), [ミト \(クラムボン\)](https://open.spotify.com/artist/1jpK6BQogVa5NnFoX4okCu) | [Hallo Gallo](https://open.spotify.com/album/7dKjwg0fhfKTWFyhvR3Ucu) | 5:17 | 2022-08-30 |  |
 | [Hand](https://open.spotify.com/track/7LpaTtdSp28hoLXekLqyrI) | [ラックライフ](https://open.spotify.com/artist/35AeYLIKrorZDAxsb40vVZ) | [Hand](https://open.spotify.com/album/4GcffOwXkVml0RAgWH8sSF) | 5:07 | 2022-08-02 |  |
 | [Happy! Happier! Happiest!](https://open.spotify.com/track/5DLCWZ8iCApW6pW2VoR6tR) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [Happy! Happier! Happiest!](https://open.spotify.com/album/7p2of7HqIEMr6zv1ux2o40) | 4:01 | 2022-06-30 | 2022-07-27 |
 | [HELLO](https://open.spotify.com/track/54hxy2o48DD270KUt21Fp4) | [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF) | [鈴木このみ5thアルバム「ULTRA FLASH」](https://open.spotify.com/album/6ZnPbcPpRkomKi28gJ1R8o) | 3:12 | 2022-05-28 | 2022-07-06 |
@@ -92,6 +93,7 @@
 | [Paper Bouquet](https://open.spotify.com/track/4rkcFNlUtrTidZO9AmWWUt) | [Mili](https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs) | [Paper Bouquet](https://open.spotify.com/album/14p81Xh8T5AHUmguXhMVir) | 3:28 | 2022-05-28 | 2022-06-24 |
 | [Platina\- from CrosSing](https://open.spotify.com/track/6dNi50ClKP3kPKWKB7hbHK) | [Ayana Taketatsu](https://open.spotify.com/artist/34UBKoTrfN5mZ0qzJtsZSS) | [Platina\- from CrosSing](https://open.spotify.com/album/0lUgiDZkZl9gIbDpysJvr2) | 4:09 | 2022-08-23 |  |
 | [Pokerface](https://open.spotify.com/track/5n071ppxcknnGJLXOgf02P) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [Pokerface](https://open.spotify.com/album/0dviOJFT2UZNQdAqRaIn9h) | 3:55 | 2022-07-28 |  |
+| [Presence](https://open.spotify.com/track/5Nv8sEUqdqrrNET339wP1X) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [Presence](https://open.spotify.com/album/0du1IQkJ1TSUoc0fqxSknn) | 4:09 | 2022-08-30 |  |
 | [reincarnation](https://open.spotify.com/track/4zbGE9791M4dGXKqpsVlpk) | [ChouCho](https://open.spotify.com/artist/5t7eQ2d1UmzfIr9oWQ538Y) | [reincarnation](https://open.spotify.com/album/4HRssLJyLPJhObHwlKoZRR) | 3:27 | 2022-05-28 | 2022-06-03 |
 | [Reversal](https://open.spotify.com/track/3EaLX2LusDc6gdjrBtAGSS) | [Argonavis](https://open.spotify.com/artist/6Kf7Pa6m8q3x53NVZgWJFU) | [CYAN](https://open.spotify.com/album/43hgcfzrljkCzbw3OlKWHE) | 4:13 | 2022-05-28 | 2022-07-06 |
 | [Route BLUE](https://open.spotify.com/track/7KN9Vbnp1QudKn1wtdiO3g) | [中島由貴](https://open.spotify.com/artist/4VVL5VuNtNn5BhbqASUhj7) | [Route BLUE](https://open.spotify.com/album/75KqNc8dF6yowDXwlFm6tm) | 3:48 | 2022-05-28 | 2022-07-06 |
@@ -122,6 +124,7 @@
 | [かえりみちの色](https://open.spotify.com/track/3bLVwyhaJuRyxZAGWO0vv0) | [渋谷ハル](https://open.spotify.com/artist/6mXvoLGqYh8T8As0LYuU8s) | [かえりみちの色](https://open.spotify.com/album/15V9z87xbRv1SECaxMDxrs) | 4:09 | 2022-07-07 | 2022-07-29 |
 | [かかった魔法はアマノジャク](https://open.spotify.com/track/2tSjz7fRrvwTfQWaElC1xX) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [AIMI SOUND](https://open.spotify.com/album/7MdsF6SQF5LIkZK82DhaDr) | 3:32 | 2022-07-12 | 2022-08-24 |
 | [かたち](https://open.spotify.com/track/70sWTc5SHGVpbV0K56LMC6) | [安月名莉子](https://open.spotify.com/artist/7ChJuYuw9pM8MqaZOAmvHX) | [TVアニメ「メイドインアビス 烈日の黄金郷」オープニングテーマ「かたち」](https://open.spotify.com/album/3TUSn0hWiEhS7AnFGUOWB7) | 3:32 | 2022-08-23 | 2022-08-25 |
+| [きらりらり](https://open.spotify.com/track/4GQjav2jvs9tmbC0KkYtCj) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [きらりらり](https://open.spotify.com/album/7iXTH7HUVN26FCK1RoBiG4) | 3:42 | 2022-08-30 |  |
 | [ここにある約束](https://open.spotify.com/track/0APwmGFaMz1i7yJzB7RNJj) | [であいもん\(ayaho+曽我淳一\)](https://open.spotify.com/artist/5Fb3qOyeKFVcSsbxzPLkdK) | [TVアニメ「であいもん」エンディングテーマ ここにある約束](https://open.spotify.com/album/0gO3GOODkLfILLTQGuVgHQ) | 3:46 | 2022-05-28 | 2022-06-15 |
 | [じゃあね、またね。](https://open.spotify.com/track/6hDhcQg11LxCk3rcaRlyb6) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [じゃあね、またね。](https://open.spotify.com/album/0YebkMmTNZYPMEvTPSv8RJ) | 4:05 | 2022-05-28 | 2022-07-06 |
 | [ずっと好きだった](https://open.spotify.com/track/2ZvKYdnWNzzSiIbS88yCzp) | [榎木淳弥](https://open.spotify.com/artist/4jl9awuZJuOK7UFDFkhHUI) | [\[Re:collection\] HIT SONG cover series feat.voice actors \~10's\-20's EDITION\~](https://open.spotify.com/album/3yMUzckDJ4TCnioXn783VO) | 4:08 | 2022-07-26 | 2022-07-29 |
@@ -145,7 +148,7 @@
 | [スパイラル](https://open.spotify.com/track/2inMCpVHIQMTVwYLHz15A0) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [スパイラル](https://open.spotify.com/album/43OuIdE4NxDhbo7mDTesEY) | 4:11 | 2022-05-28 | 2022-07-06 |
 | [チカっとチカ千花っ](https://open.spotify.com/track/31E8YKD0j4cI1R0gfocCtb) | [藤原千花\(CV:小原好美\)](https://open.spotify.com/artist/7t7FUKBOnPW89gJPyQgBXD) | [KAGUYA ULTRA BEST](https://open.spotify.com/album/6SxiwwCeXJAS6XqRxb8DDX) | 2:58 | 2022-05-28 | 2022-07-13 |
 | [チキチキバンバン](https://open.spotify.com/track/7xm0KJMfeaJQmQdDxAipiY) | [QUEENDOM](https://open.spotify.com/artist/6IW91qUpcrhbGuZxubrG70) | [チキチキバンバン](https://open.spotify.com/album/1BWf1vYaM0zNWE6uuFFcvF) | 3:22 | 2022-05-28 | 2022-07-27 |
-| [チクタクボーイ](https://open.spotify.com/track/2blNNMf0vvJPfZvywQmWjo) | [理芽](https://open.spotify.com/artist/1rFELoNfdLOYWPwtrBN6zS) | [チクタクボーイ](https://open.spotify.com/album/1e9Z3YnsuTi4PO7foCuK8e) | 2:45 | 2022-08-16 |  |
+| [チクタクボーイ](https://open.spotify.com/track/2blNNMf0vvJPfZvywQmWjo) | [理芽](https://open.spotify.com/artist/1rFELoNfdLOYWPwtrBN6zS) | [チクタクボーイ](https://open.spotify.com/album/1e9Z3YnsuTi4PO7foCuK8e) | 2:45 | 2022-08-16 | 2022-08-31 |
 | [デネブとスピカ](https://open.spotify.com/track/1hWAQK2Mrs9cpvfOq00j4K) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [デネブとスピカ](https://open.spotify.com/album/6h7qKLn5gAuEmMOJrDZ8h4) | 4:27 | 2022-07-07 | 2022-07-29 |
 | [ハイライト・ハイライト](https://open.spotify.com/track/4n9ZDnOKEFlOUvQvLZqUJ3) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [ハイライト・ハイライト](https://open.spotify.com/album/6lD4x7WoKuq5qgupcHqEP0) | 3:56 | 2022-05-28 | 2022-06-14 |
 | [ハニージェットコースター](https://open.spotify.com/track/1SFS6Anu0829AMCXKltlNw) | [nasuo](https://open.spotify.com/artist/5ctRwRgDQ0lVKZRI83cMeq) | [TVアニメ「可愛いだけじゃない式守さん」オープニングテーマ「ハニージェットコースター」](https://open.spotify.com/album/6lEkrGHvjvWYNs2Mwo0yoy) | 3:33 | 2022-05-28 | 2022-07-27 |
@@ -197,10 +200,10 @@
 | [気分上々↑↑](https://open.spotify.com/track/4b55RzNokHkNtw0DhmEbdv) | [Kuroneko](https://open.spotify.com/artist/6Tz3nFnN2k3qvsjgJuCO1p), [置鮎龍太郎](https://open.spotify.com/artist/0NPwoqej9GBiSlvZd89GLa) | [テレビアニメ「パリピ孔明」エンディングテーマ「気分上々↑↑」](https://open.spotify.com/album/4ZHduve9XLSCzgzuAEpo91) | 3:51 | 2022-05-28 | 2022-07-15 |
 | [水鏡の世界](https://open.spotify.com/track/7LWbBngfReWleCxhqFUjsM) | [堀内まり菜](https://open.spotify.com/artist/1vE4dMMMMjFIwC1eEMTmhP) | [水鏡の世界](https://open.spotify.com/album/0Mj7Pf1tVbtLIICJGwJQG4) | 4:35 | 2022-07-28 |  |
 | [流線形メーデー](https://open.spotify.com/track/71DWte8P535ethaQrCfX3G) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [流線形メーデー](https://open.spotify.com/album/0e9Jjx1Ah3gI5RoUPOEvmi) | 3:11 | 2022-07-12 |  |
-| [海のエンドロール](https://open.spotify.com/track/1ZkTHbCmQKj6xYKla18Rct) | [梶原岳人](https://open.spotify.com/artist/1ZSbJqrZp4HiQlhPPScaKG) | [海のエンドロール](https://open.spotify.com/album/7gByOSWU12BeYLiLPDXxAq) | 4:04 | 2022-08-23 |  |
+| [海のエンドロール](https://open.spotify.com/track/1ZkTHbCmQKj6xYKla18Rct) | [梶原岳人](https://open.spotify.com/artist/1ZSbJqrZp4HiQlhPPScaKG) | [海のエンドロール](https://open.spotify.com/album/7gByOSWU12BeYLiLPDXxAq) | 4:04 | 2022-08-23 | 2022-08-31 |
 | [無心拍数 \- アオアシ ver.](https://open.spotify.com/track/5PfEiDJQNLsk0XCZ0GH1FJ) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [無心拍数 \(アオアシver.\)](https://open.spotify.com/album/59Cuih5G9jnGF2Qs5WrmvH) | 3:30 | 2022-06-02 | 2022-07-27 |
 | [無自覚の天才](https://open.spotify.com/track/6xzThjUK6ZdDVsu73RtmoM) | [Non Stop Rabbit](https://open.spotify.com/artist/3BI27TxQPk2BVbiThvj1EV) | [無自覚の天才](https://open.spotify.com/album/2JXSLIzwcvF5jFiIhC8OPM) | 4:09 | 2022-07-05 | 2022-07-29 |
-| [私は最強 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/7bmAgiUc4W4bfyZRCc6lOh) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [私は最強 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/4kSYCYHzG8vyNQcROLlHUq) | 4:17 | 2022-06-21 |  |
+| [私は最強 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/7bmAgiUc4W4bfyZRCc6lOh) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [私は最強 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/4kSYCYHzG8vyNQcROLlHUq) | 4:17 | 2022-06-21 | 2022-08-31 |
 | [秘密の庭のふたり](https://open.spotify.com/track/0drkpiibrRIpUc5tSubX2J) | [Yui Horie](https://open.spotify.com/artist/7LKC71aoVTsDcHP9weRH9R) | [秘密の庭のふたり](https://open.spotify.com/album/3pVwRnFsKMjOwkpAWddA54) | 4:05 | 2022-08-16 |  |
 | [空っぽの心](https://open.spotify.com/track/66EyebDoG7vr9AzvRbJ9H0) | [SARD UNDERGROUND](https://open.spotify.com/artist/7awtWS4uPN7SUSxSRilkMa) | [空っぽの心](https://open.spotify.com/album/6sCZgnJFMkZsm0YaEpYTi3) | 3:16 | 2022-05-28 | 2022-07-01 |
 | [腕塚](https://open.spotify.com/track/0JAdB9U6meFetLWHmqG3RA) | [犬王\(CV:アヴちゃん\)](https://open.spotify.com/artist/7ywWY3GidvDeixGiFLdYZW) | [腕塚](https://open.spotify.com/album/4ogusjG9KOOJP0XS56YdoL) | 5:35 | 2022-05-28 | 2022-07-06 |

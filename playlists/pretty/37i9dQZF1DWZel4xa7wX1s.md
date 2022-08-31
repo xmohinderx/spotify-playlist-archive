@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZel4xa7wX1s.md) - [plain]
 
 > Key words: Contemporary pop, legends, country music \- and something in between\. Just good tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,328 likes - 60 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,326 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZel4xa7wX1s.md) - [plain]
 | 57 | [Fuh You](https://open.spotify.com/track/6oHXWqyJ9zZngrWch8XjvZ) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Fuh You](https://open.spotify.com/album/5mHdvZojPyBMhgmvQ6HW4U) | 3:23 |
 | 58 | [Remember to Breathe](https://open.spotify.com/track/3WopNrzzNTuCr0QXVRhWUQ) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Streets of You](https://open.spotify.com/album/55TITZzyt9c9nDAljqL1l0) | 3:13 |
 | 59 | [Amazing](https://open.spotify.com/track/0JahrDBriRtoaO473f00rk) | [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz) | [These Days](https://open.spotify.com/album/0OyJRO76yPcp9woysD5VT6) | 4:01 |
-| 60 | [Every One of Us](https://open.spotify.com/track/5b6zAh5CNRv6dN5JrMNtmk) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Every One of Us](https://open.spotify.com/album/4hlmMOWqxno6iFYi54UKYN) | 3:06 |
+| 60 | [Loves Missing](https://open.spotify.com/track/78W2JgujSHp98M87UJkcjM) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Free](https://open.spotify.com/album/2aRxolqVA2v2TFeuWPIuEI) | 4:19 |
 
-Snapshot ID: `MTU3NTAyMDI3NSwwMDAwMDAwMDJjMmQ4NmRhOTAzZDQwNWVhNDczODlkNDE4NTk3OTNj`
+Snapshot ID: `MTU3NTAyMDI3NSwwMDAwMDAwMDkyNTljMDIwNDYzYjAyOGZiNmM3MDA4MmY0NTY3OGQ5`

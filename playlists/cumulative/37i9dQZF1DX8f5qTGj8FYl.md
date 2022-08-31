@@ -4,7 +4,7 @@
 
 > When the funk is just too funky for words to keep up.
 
-201 songs - 14 hr 14 min - [published](https://open.spotify.com/playlist/0VOQIkEXNtvvWCaWdPdkUl)
+202 songs - 14 hr 17 min - [published](https://open.spotify.com/playlist/0VOQIkEXNtvvWCaWdPdkUl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Colonel Panic](https://open.spotify.com/track/1TllJ3vB5l9NL3IgAvC684) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh) | [Tailwinds.](https://open.spotify.com/album/2dNlfSEAakmsqr7pXtKsDt) | 2:32 | 2020-11-13 | 2022-07-29 |
 | [Colonel Panic](https://open.spotify.com/track/28HHPAwdeLxYcmXAnihqcx) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh) | [Tailwinds](https://open.spotify.com/album/6qPLq4JNIUi0BEj1OHwEkg) | 2:32 | 2020-11-13 |  |
 | [Confidence Game](https://open.spotify.com/track/3xz8R8cnKGkbuaaxlDY3I2) | [Ryan Prewett](https://open.spotify.com/artist/0hBE2OEnt0liysUwP4ZaEj) | [Good Soul](https://open.spotify.com/album/2bQ5Y3cltP19QjFBAb1rBT) | 2:16 | 2020-11-13 | 2022-04-20 |
-| [Cornish Hen](https://open.spotify.com/track/7nzJpykzx8lLq6aKKjcMP5) | [Scary Goldings](https://open.spotify.com/artist/7qpDEiYbQJt05vCyAbg3ru), [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Cornish Hen](https://open.spotify.com/album/48okKBxYGZwTJar4SWrZZc) | 5:05 | 2021-11-19 |  |
+| [Cornish Hen](https://open.spotify.com/track/7nzJpykzx8lLq6aKKjcMP5) | [Scary Goldings](https://open.spotify.com/artist/7qpDEiYbQJt05vCyAbg3ru), [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Cornish Hen](https://open.spotify.com/album/48okKBxYGZwTJar4SWrZZc) | 5:05 | 2021-11-19 | 2022-08-31 |
 | [Couple A Brownies](https://open.spotify.com/track/6MPy26h9zPjTYRGV9sYXQO) | [Soul Jazz Express](https://open.spotify.com/artist/477IJP2IAlgmpJL0Bc8gXh) | [Soul Jazz Express](https://open.spotify.com/album/7uPIvk4yyavHHaz2HfZqXk) | 5:17 | 2020-11-13 |  |
 | [Curse of the Haggis](https://open.spotify.com/track/4OYjYFuyf71Sy7XCI0feR2) | [The Haggis Horns](https://open.spotify.com/artist/5teuZRCtxzfuYW98XOwtxu) | [One of These Days](https://open.spotify.com/album/2hs8mdiV2Ace1WZKt9IPJ8) | 5:56 | 2020-11-13 | 2022-07-24 |
 | [Dallas](https://open.spotify.com/track/2HYk4Wh5L4MiZ6s6myy4bI) | [L'éclair](https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX) | [Dallas](https://open.spotify.com/album/5vH49ZbRg8Y8Yq52r7RiFg) | 3:34 | 2020-11-13 |  |
@@ -202,6 +202,7 @@
 | [Village Life](https://open.spotify.com/track/0QWgR4xiWCzEWE2pXMdXEd) | [Incognito](https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs), [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [2017](https://open.spotify.com/album/69SrXrzMk4yilsHSUp0qqI) | 4:39 | 2020-11-13 | 2022-04-21 |
 | [Voyager One \(feat\. Nate Smith & Bobby Sparks II\)](https://open.spotify.com/track/29p9C7pmhax5CCrfR1SD5m) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Bobby Sparks II](https://open.spotify.com/artist/230coKMlIqckCdCumrrCkG), [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [Deep: The Baritone Sessions, Vol\. 2](https://open.spotify.com/album/695G3vOrMvFhQw2DXkPnOu) | 5:53 | 2021-04-16 |  |
 | [War Room](https://open.spotify.com/track/2BiCZnAgLZ70mQvSCDReH3) | [Black Market Brass](https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW) | [War Room](https://open.spotify.com/album/0ou3fGmWHOUMMomjdGeucP) | 4:31 | 2020-11-13 | 2022-07-25 |
+| [Watchu Want](https://open.spotify.com/track/5zuvfo5EyQvM116kKxRgQZ) | [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI) | [Watchu Want](https://open.spotify.com/album/1t1DLpoawvMQz4vzNSAMOh) | 2:40 | 2022-08-26 |  |
 | [Way Of The Haggis](https://open.spotify.com/track/2UCnlNredMUv69xZ6kVs1D) | [The Haggis Horns](https://open.spotify.com/artist/5teuZRCtxzfuYW98XOwtxu) | [Keep On Movin'](https://open.spotify.com/album/0YIl9Rl3emtKP2qnjjmM72) | 4:28 | 2020-11-13 | 2022-04-21 |
 | [We Need Love](https://open.spotify.com/track/6bEZVAjmga92R5uTPPxAGz) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [We Need Love](https://open.spotify.com/album/3XbT6tlyYKnWYbNLAG6kYp) | 3:00 | 2021-06-25 | 2022-05-19 |
 | [West Coast Jam](https://open.spotify.com/track/5kg9Jl18Z3XjTYznMtFUED) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Summer Madness](https://open.spotify.com/album/7Ax03GJGYiUOrhiq9M2vjt) | 3:58 | 2020-11-13 |  |

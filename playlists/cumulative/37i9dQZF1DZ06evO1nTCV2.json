@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 210240,
       "name": "All You Had To Do Was Stay",
       "url": "https://open.spotify.com/track/7Jw1V7CzU9xvVSEONbHOD3"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 178706,
       "name": "Chin Up, Cheer Up",
       "url": "https://open.spotify.com/track/4SBUErshKs7VyfKtXdmcTz"
@@ -577,7 +577,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 340666,
       "name": "English Girls Approximately",
       "url": "https://open.spotify.com/track/4z7UVZQQbF2QNT0jlyBLFg"
@@ -631,7 +631,7 @@
       ],
       "date_added": "2022-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 278666,
       "name": "Fairweather",
       "url": "https://open.spotify.com/track/6CiJ9RWyu7YlRioyrGLDZZ"
@@ -649,10 +649,28 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 201626,
       "name": "Fantasy File",
       "url": "https://open.spotify.com/track/0QVJ3U1x68Hx0q3n0qkrDL"
+    },
+    {
+      "album": {
+        "name": "FM",
+        "url": "https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201626,
+      "name": "Fantasy File",
+      "url": "https://open.spotify.com/track/5dSlrUiUVTPDAbH5GE0Gll"
     },
     {
       "album": {
@@ -703,7 +721,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 213946,
       "name": "Fuck The Rain",
       "url": "https://open.spotify.com/track/6QZteBMevNynnZFzCxoG0I"
@@ -1135,7 +1153,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-28",
+      "date_removed": null,
       "duration_ms": 221720,
       "name": "Moving Target",
       "url": "https://open.spotify.com/track/3HwLobYrehYJZBuEThdCYR"
@@ -1315,7 +1333,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 261065,
       "name": "Outbound Train",
       "url": "https://open.spotify.com/track/6eGBTRiVkcrSHDr5S4Xf4T"
@@ -1441,7 +1459,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 246440,
       "name": "Shake It Off",
       "url": "https://open.spotify.com/track/7bH22jtBtUuWLZ7MGxHI69"
@@ -1477,7 +1495,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 238333,
       "name": "So Alive",
       "url": "https://open.spotify.com/track/1VczhujvY0bkcf7jE2RbFE"
@@ -1747,7 +1765,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 125386,
       "name": "This Is Your House",
       "url": "https://open.spotify.com/track/3pzm9zJZsfVTwuI04CCEJ1"

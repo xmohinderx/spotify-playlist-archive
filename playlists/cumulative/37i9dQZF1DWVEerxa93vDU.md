@@ -4,7 +4,7 @@
 
 > Relaxing and comforting piano music.
 
-233 songs - 9 hr 55 min - [published](https://open.spotify.com/playlist/6H4giSUURJHccDTCgs6ahS)
+236 songs - 10 hr 2 min - [published](https://open.spotify.com/playlist/6H4giSUURJHccDTCgs6ahS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Becoming](https://open.spotify.com/track/2wPHCAgYiIIfEMt4Lj1xMg) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Becoming](https://open.spotify.com/album/1XDp0E8TtyTWFlniXqkV1C) | 2:43 | 2021-12-14 |  |
 | [Belle Chose](https://open.spotify.com/track/1xvQ1dL7KqGKWxqR0dkSeY) | [Moldoveanu](https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O) | [Belle Chose](https://open.spotify.com/album/7j9Fxq6fK1UyldqGnnY1TX) | 2:40 | 2021-12-14 |  |
 | [Beyond The Words](https://open.spotify.com/track/2rcjEdhxMASzFKFMLE0VyK) | [Phoebe Waits](https://open.spotify.com/artist/57E9IfMja5EiaW6JlxxPfF) | [Beyond The Words](https://open.spotify.com/album/2IXXs0F9tteFAxo2M1qUGh) | 2:32 | 2022-01-05 |  |
+| [Biome](https://open.spotify.com/track/6Wtd6dFjXuB0wVzu6EJB5Z) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Biome](https://open.spotify.com/album/0mYnBgs22mBPxRySWw6VNd) | 2:18 | 2022-08-30 |  |
 | [Bits and Pieces](https://open.spotify.com/track/6khPxJW2IJMWinaViYq9Xv) | [Tyson Morris](https://open.spotify.com/artist/7BwUBh2QHwvTN7WBV9vPES) | [Here On After](https://open.spotify.com/album/33Zg9HyZNO3OIqaqXsz5Y8) | 3:29 | 2021-12-14 |  |
 | [Blazing](https://open.spotify.com/track/4a4xMLfNR4gNYBOdqXJafV) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Blazing](https://open.spotify.com/album/3xZZ9V4l1VjBDvpDUxnynu) | 2:07 | 2022-04-27 |  |
 | [Boundaries](https://open.spotify.com/track/6fcBDcZTZVx1jJAED8KYv0) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Boundaries](https://open.spotify.com/album/2B6kWesA1AyfYfG6VxZN2b) | 2:50 | 2021-12-14 |  |
@@ -51,6 +52,7 @@
 | [Days Gone By](https://open.spotify.com/track/4vDA036RKeQjigYZmANk3Y) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [Days Gone By](https://open.spotify.com/album/0je0PVxNcqe1d9n6HRoTx5) | 3:08 | 2021-12-14 | 2022-05-21 |
 | [Days Like These](https://open.spotify.com/track/7pwDWr9QNRAv6N63MY2mRn) | [Renard Francis](https://open.spotify.com/artist/1TQQ7EEYrOne3L7iiCObNX) | [Days Like These](https://open.spotify.com/album/207M0Mwbs6wtPdPmayBTUw) | 4:09 | 2021-12-14 |  |
 | [Dedication](https://open.spotify.com/track/5UKTmSINIygGZJR4MFx9Mu) | [HILLEVI](https://open.spotify.com/artist/7602awgZjH5sJDrf8qlwZ6) | [Dedication](https://open.spotify.com/album/0mHFXI7cpZez6t913U6MWB) | 3:07 | 2021-12-14 |  |
+| [Delta](https://open.spotify.com/track/4VdPG8QlGPHNpLsBq7BquA) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Delta](https://open.spotify.com/album/2jxjPUO3rJTRyiJVxv1EwN) | 2:24 | 2022-08-30 |  |
 | [Distance](https://open.spotify.com/track/3NywRjjYjyrTjCvV1CcPjD) | [Charles Bolt](https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj) | [Distance](https://open.spotify.com/album/3Jal7rGnVgw21HuUs14Knd) | 2:26 | 2021-12-14 | 2022-01-06 |
 | [Dolceacqua](https://open.spotify.com/track/7sj2OB0LdX9mvFm0Cpw9yV) | [Nicola Conti](https://open.spotify.com/artist/6vfIB4LyqkmDQevucWiiif) | [Dolceacqua](https://open.spotify.com/album/6bF6ADAd24GmL6cvTABqp8) | 2:09 | 2021-12-14 |  |
 | [Dream In Color](https://open.spotify.com/track/6Jl2hMsoSdY0RsfJZuGt9P) | [Aveline Evan](https://open.spotify.com/artist/3Wrv7jhidzGqxmx2bmubem) | [Dream In Color](https://open.spotify.com/album/48i0tcVHtsvSeeZAFkNsPU) | 2:39 | 2021-12-14 | 2022-02-17 |
@@ -143,6 +145,7 @@
 | [Notes in the Stars](https://open.spotify.com/track/7tVXn05UnymHBVTXISx3sv) | [Laura Sherwin](https://open.spotify.com/artist/0bEESrhv84TNExJrfQ1LAT) | [Notes in the Stars](https://open.spotify.com/album/2Tr3KA6Ch1QwpgdQE83cDY) | 3:01 | 2021-12-14 |  |
 | [Now and Then](https://open.spotify.com/track/3flrE9SDAQj4hP2kKzcHOG) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Divisio](https://open.spotify.com/album/0B869lAIypL8bHSo2SAr34) | 2:27 | 2021-12-14 | 2022-02-17 |
 | [Når du er her](https://open.spotify.com/track/4qyDXgwZksmIOpuQq5y6vJ) | [Alida Sørby](https://open.spotify.com/artist/47AYObaLEm9QiTcfz3u7M9) | [Når du er her](https://open.spotify.com/album/4gdd1IbQI7yoJjmEwwdbQp) | 2:20 | 2021-12-14 |  |
+| [Old Friends](https://open.spotify.com/track/7gK75qkpI8WjfL2Tpi3Z5C) | [Filomena](https://open.spotify.com/artist/0OwBoRemK37STVdgFxC86k) | [Old Friends](https://open.spotify.com/album/0RwX2sJ91NUNGsEvaOiwLF) | 1:50 | 2022-08-30 |  |
 | [Ombre](https://open.spotify.com/track/3iwSjHyE2dXvTgzL2u771I) | [Valentina Romano](https://open.spotify.com/artist/0fQjueuVmR5XSCP0BtGdu1) | [Ombre](https://open.spotify.com/album/1ktCmaFnzHE10sLDumdAMT) | 2:05 | 2022-01-05 |  |
 | [On the Stairs](https://open.spotify.com/track/6qedmSEhHCcpsAxSAc0YZ0) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [On the Stairs](https://open.spotify.com/album/1y6ItDuTMzmJfIJ6Z4ghGu) | 2:21 | 2022-02-16 |  |
 | [Once Upon A Time](https://open.spotify.com/track/1z7EOsEf4wCOCsqHep43pf) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Once Upon A Time](https://open.spotify.com/album/0zmErcaHoz3lrtKMklzrT3) | 3:07 | 2022-05-04 |  |

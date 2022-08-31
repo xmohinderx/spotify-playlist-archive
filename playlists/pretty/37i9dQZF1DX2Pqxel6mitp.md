@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Pqxel6mitp.md) - [plain]
 
 > A cup of Joe and the raw blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,020 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,076 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Pqxel6mitp.md) - [plain]
 | 38 | [Mystery Woman](https://open.spotify.com/track/1iHbbd44X6nmnF6may22sd) | [Doug MacLeod](https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz) | [Come to Find](https://open.spotify.com/album/6TdbTfL5Ql2BMqkAknneZd) | 5:01 |
 | 39 | [Angel In The Alleyways](https://open.spotify.com/track/4q0iE01soDpTD7jObdxTX9) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W), [Patti Scialfa](https://open.spotify.com/artist/6kZQOOVmBEdPxeWYe4xbDj), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Angel In The Alleyways](https://open.spotify.com/album/0dDD5xoKda8099F4wTuByT) | 4:20 |
 | 40 | [Good Times](https://open.spotify.com/track/3jMYz9pMU8z6TE5xTtvlKY) | [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI) | [Good Times](https://open.spotify.com/album/5RKBqebBiGoxUp6nCYZwLx) | 3:14 |
-| 41 | [Outside \(featuring Lamar Williams Jr.\)](https://open.spotify.com/track/00b6fpaBoDoPhbsVbraJX3) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4) | [Set Sail](https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF) | 4:58 |
-| 42 | [Boot Money](https://open.spotify.com/track/2WzaKNNPxwE4dKGaGlghqh) | [Tony Joe White](https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P) | [Smoke From The Chimney](https://open.spotify.com/album/5VcbS7I5iRYJoZSOp344F1) | 3:27 |
+| 41 | [Boot Money](https://open.spotify.com/track/2WzaKNNPxwE4dKGaGlghqh) | [Tony Joe White](https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P) | [Smoke From The Chimney](https://open.spotify.com/album/5VcbS7I5iRYJoZSOp344F1) | 3:27 |
+| 42 | [Outside \(featuring Lamar Williams Jr.\)](https://open.spotify.com/track/00b6fpaBoDoPhbsVbraJX3) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4) | [Set Sail](https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF) | 4:58 |
 | 43 | [Evil Woman](https://open.spotify.com/track/7lpsRa4kcNoxSHUDNDXpnn) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues From The Gutter](https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL) | 4:21 |
 | 44 | [Black Angel Blues](https://open.spotify.com/track/5insosOirGOL3cvJ0li2bD) | [Robert Nighthawk](https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG) | [Presenting Robert Nighthawk](https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS) | 3:04 |
 | 45 | [Perpetual Blues Machine](https://open.spotify.com/track/2CgFNet99tzGTEIxYrYbuN) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Martin Scorsese Presents The Blues: Keb' Mo'](https://open.spotify.com/album/1El1ZLtpLoUpQHjUdXtLxc) | 3:15 |
@@ -70,18 +70,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Pqxel6mitp.md) - [plain]
 | 60 | [Death Letter](https://open.spotify.com/track/0tHs5XPwU1k43SICp9yOKv) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Forever On My Mind](https://open.spotify.com/album/4wwt3VrchcH3YD3VSjd1B9) | 5:51 |
 | 61 | [This is Hip \- Remastered](https://open.spotify.com/track/4gUQvpeHV3Itf2WAX0CdjI) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Remastered from the Archives](https://open.spotify.com/album/1ptcOYwu6UZRrCZhFisQEn) | 2:25 |
 | 62 | [First McDonell's on the Moon](https://open.spotify.com/track/5tIPp0eDCVopzvXyeMgUOm) | [Jake La Botz](https://open.spotify.com/artist/7pHtidPDRlqg71cTcwjWQX) | [First McDonell's on the Moon](https://open.spotify.com/album/6hVnFJurOhApCMbjug96f4) | 3:51 |
-| 63 | [Tell Me Baby](https://open.spotify.com/track/71yVjDvQpUzzPdocf3DAYo) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Muddy Waters Sings Big Bill Broonzy](https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU) | 2:15 |
-| 64 | [Hangover Blues](https://open.spotify.com/track/1babQrGnsSw3RZ07KvMapY) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Hangover Blues](https://open.spotify.com/album/5tVLK620Eepr8FfUFvYmkz) | 4:04 |
-| 65 | [Back on Top](https://open.spotify.com/track/1Ps6uZFGUtM8VZlOTY6EnU) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 3:25 |
-| 66 | [Great God Almighty \- Demo, Summer 2018](https://open.spotify.com/track/1LOYHXCCqHpnLuzfXRCjfy) | [Mike Trask](https://open.spotify.com/artist/03QTVe1gbMUcw3wF1Vdn4k) | [Great God Almighty \(Demo, Summer 2018\)](https://open.spotify.com/album/346VRPWFqkGJ6r67HMvOm4) | 2:58 |
+| 63 | [Great God Almighty \- Demo, Summer 2018](https://open.spotify.com/track/1LOYHXCCqHpnLuzfXRCjfy) | [Mike Trask](https://open.spotify.com/artist/03QTVe1gbMUcw3wF1Vdn4k) | [Great God Almighty \(Demo, Summer 2018\)](https://open.spotify.com/album/346VRPWFqkGJ6r67HMvOm4) | 2:58 |
+| 64 | [Tell Me Baby](https://open.spotify.com/track/71yVjDvQpUzzPdocf3DAYo) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Muddy Waters Sings Big Bill Broonzy](https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU) | 2:15 |
+| 65 | [Hangover Blues](https://open.spotify.com/track/1babQrGnsSw3RZ07KvMapY) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Hangover Blues](https://open.spotify.com/album/5tVLK620Eepr8FfUFvYmkz) | 4:04 |
+| 66 | [Back on Top](https://open.spotify.com/track/1Ps6uZFGUtM8VZlOTY6EnU) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 3:25 |
 | 67 | [Man in the Ground](https://open.spotify.com/track/58hIcKjEMwvTLGdEsdfRPf) | [Jack Barksdale](https://open.spotify.com/artist/0Xr86XoAGFGXZTAFjr3EMt) | [Man in the Ground](https://open.spotify.com/album/3pSMQQFLcjdQDasxNuGNEF) | 3:06 |
 | 68 | [Jolene](https://open.spotify.com/track/7xy2SAiuKSfpUeUizXvmX7) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Jolene](https://open.spotify.com/album/6bD5yWr1tSMSnuCqkR1HsG) | 3:57 |
 | 69 | [Black Horizon](https://open.spotify.com/track/3E6epwRVuuksTZDlvc24VH) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues](https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan) | 4:49 |
-| 70 | [Cross Creek Road](https://open.spotify.com/track/6sfZbIO4O4BtgE0mJ20zFg) | [Big Daddy Wilson](https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr) | [Neckbone Stew](https://open.spotify.com/album/5WaGSIkfMgfuJ0Yd9FNyKb) | 3:01 |
-| 71 | [C.C\. Rider](https://open.spotify.com/track/2jpyzovZr1zpVVVKck8rlu) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [The "Killer" Rocks On](https://open.spotify.com/album/6vFYcOml32pCUDT7Adp5hW) | 2:52 |
+| 70 | [C.C\. Rider](https://open.spotify.com/track/2jpyzovZr1zpVVVKck8rlu) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [The "Killer" Rocks On](https://open.spotify.com/album/6vFYcOml32pCUDT7Adp5hW) | 2:52 |
+| 71 | [Cross Creek Road](https://open.spotify.com/track/6sfZbIO4O4BtgE0mJ20zFg) | [Big Daddy Wilson](https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr) | [Neckbone Stew](https://open.spotify.com/album/5WaGSIkfMgfuJ0Yd9FNyKb) | 3:01 |
 | 72 | [Blues Chase up a Rabbit](https://open.spotify.com/track/1sUlYlnaANkXLmv78fRkzA) | [Judy Henske](https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A) | [High Flying Bird](https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA) | 2:39 |
 | 73 | [Cigarettes, Whiskey And Wild, Wild Women](https://open.spotify.com/track/4CWMKliTHoJCoRWaI8WljW) | [The Big Three Trio](https://open.spotify.com/artist/7EPI9RLrU6kU6ZQLTqB7wY), [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [The Best Of Delta Records](https://open.spotify.com/album/6qF7UpIdnbVMPukKa9rpee) | 3:00 |
 | 74 | [Blue River Rising](https://open.spotify.com/track/22jAc1VDDfEMZwecjhaKuE) | [Michael van Merwyk](https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF) | [Blue River Rising](https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W) | 6:00 |
 | 75 | [Devil Got My Woman](https://open.spotify.com/track/6DawgaTuMtL9DOq1jCVeVN) | [Skip James](https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ) | [Devil Got My Woman](https://open.spotify.com/album/0sgYD9rg6DpI2uWrffTXEr) | 5:15 |
 
-Snapshot ID: `MTY1OTEwNTU1NiwwMDAwMDAwMDE0MjNhMGE3OWEzYzlhNWE1YzUyZjY3OWQ0ODQ0Zjlm`
+Snapshot ID: `MTY1OTEwNTU1NiwwMDAwMDAwMGNmZWQ2Mzk5NDhlMTZkNzFkODFjNzkyN2ZmNzJiMWZh`

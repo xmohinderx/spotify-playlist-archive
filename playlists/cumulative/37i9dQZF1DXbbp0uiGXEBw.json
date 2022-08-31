@@ -1706,6 +1706,28 @@
     },
     {
       "album": {
+        "name": "T\u1eebng L\u00e0 C\u1ee7a Nhau",
+        "url": "https://open.spotify.com/album/59xrACzg1Ip2ellb2JSzCN"
+      },
+      "artists": [
+        {
+          "name": "Bao Anh",
+          "url": "https://open.spotify.com/artist/4fCHhderLwLacsIOIKgu3J"
+        },
+        {
+          "name": "T\u00e1o",
+          "url": "https://open.spotify.com/artist/23xCr75lKvnFvKi8ImHE7S"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269473,
+      "name": "T\u1eebng L\u00e0 C\u1ee7a Nhau",
+      "url": "https://open.spotify.com/track/5KYv3kORBKUmVEoqbRRWxt"
+    },
+    {
+      "album": {
         "name": "T\u1ef1 S\u1ef1 (Original Soundtrack from \"Qua B\u1ec3n L\u00e0m Chi\")",
         "url": "https://open.spotify.com/album/13x14kY27CueHj9F3OV6Mz"
       },
@@ -1811,7 +1833,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 195483,
       "name": "Y\u00eau Kh\u00f4ng C\u1ea7n \u00c9p",
       "url": "https://open.spotify.com/track/2nTXkAQ6SQKGfzDbOMwUbf"
@@ -1880,6 +1902,24 @@
     },
     {
       "album": {
+        "name": "Circle Of Love",
+        "url": "https://open.spotify.com/album/5sRBJrXrFrpVn1EfbM3EZd"
+      },
+      "artists": [
+        {
+          "name": "TIA",
+          "url": "https://open.spotify.com/artist/6LrBtADUmDoLlcTrg448Qt"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173600,
+      "name": "Y\u00eau \u0110\u1ec3 Chia Tay",
+      "url": "https://open.spotify.com/track/3bTzNieil0tDqayUed0C0F"
+    },
+    {
+      "album": {
         "name": "Y\u00eau \u0110\u1ec3 Chia Tay",
         "url": "https://open.spotify.com/album/0kjhcrrX87h8W70R4Clqjh"
       },
@@ -1891,7 +1931,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 173600,
       "name": "Y\u00eau \u0110\u1ec3 Chia Tay",
       "url": "https://open.spotify.com/track/6ko2FVllkcW64O5Lcu0HJu"

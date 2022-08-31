@@ -2939,7 +2939,7 @@
     {
       "album": {
         "name": "GTTM",
-        "url": "https://open.spotify.com/album/3Q1Q8OxjZCsusRxJrOXCN7"
+        "url": "https://open.spotify.com/album/0135TgD7aR1sB0l1Ctx8Ic"
       },
       "artists": [
         {
@@ -2950,6 +2950,24 @@
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 142153,
+      "name": "GTTM",
+      "url": "https://open.spotify.com/track/4aQzgQwLrFSY1ARcF2999k"
+    },
+    {
+      "album": {
+        "name": "GTTM",
+        "url": "https://open.spotify.com/album/3Q1Q8OxjZCsusRxJrOXCN7"
+      },
+      "artists": [
+        {
+          "name": "ZaeHD",
+          "url": "https://open.spotify.com/artist/2EoYP6sHWD8746sFp7z3or"
+        }
+      ],
+      "date_added": "2022-08-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-31",
       "duration_ms": 142153,
       "name": "GTTM",
       "url": "https://open.spotify.com/track/5tsmt6wAwjgj5iNID2nATh"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 
 > Best Bollywood love songs from last 10 years\. Cover\- Aamir Khan & Kareena Kapoor
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,382 likes - 90 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,637 likes - 90 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 | 89 | [Ishq Wala Love](https://open.spotify.com/track/1hQia6rxgfM1ly2hE3StWp) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw) | [Student of the Year \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Q9pYTcpVfz0eJTZZczELy) | 4:17 |
 | 90 | [Raabta](https://open.spotify.com/track/6FjbAnaPRPwiP3sciEYctO) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Agent Vinod](https://open.spotify.com/album/2DqQ34i4uuuZWTScsGIgHr) | 4:03 |
 
-Snapshot ID: `MTY2MDM4NDU2NiwwMDAwMDAwMDFkMWZlNWViNmRkZDkyNzE3NDJjYTAxNDEzZTZkYThi`
+Snapshot ID: `MTY2MTg1Nzg0MywwMDAwMDAwMDRmOWExODkzZmM1NDgxNGZkYzA1YjJkZDhlMThlYjJl`

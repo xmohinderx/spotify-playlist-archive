@@ -1,12 +1,12 @@
 {
   "description": "Sunlight! The most precious gold to be found on Earth.",
-  "num_followers": 18560,
+  "num_followers": 18562,
   "original_name": "Morning First Light",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ5NjgxMiwwMDAwMDAwMDUyNTYzNmZiMGRhMTNkNmU4MmEzNDFmMjFkMmMyMDdl",
+  "snapshot_id": "MTY1OTQ5NjgxMiwwMDAwMDAwMDBiYzg1Y2NlMjJjOWIwMjU2ZTc4YzNmYzczMmVmZDY3",
   "tracks": [
     {
       "added_at": "2021-09-10 04:35:25",
@@ -299,22 +299,6 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Sakura",
-        "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
-      },
-      "artists": [
-        {
-          "name": "Susumu Yokota",
-          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
-        }
-      ],
-      "duration_ms": 278693,
-      "name": "Tobiume",
-      "url": "https://open.spotify.com/track/4IQWc6rhJwpFrRKBLx27X6"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
         "name": "Der Bote",
         "url": "https://open.spotify.com/album/2FCodoLjwxOlCuK7KbUOMq"
       },
@@ -335,18 +319,34 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Apollo",
-        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
+        "name": "Sakura",
+        "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
       },
       "artists": [
         {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+          "name": "Susumu Yokota",
+          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
         }
       ],
-      "duration_ms": 244181,
-      "name": "Always Returning - Remastered 2005",
-      "url": "https://open.spotify.com/track/1ps5sx71OhHiBVmGiKQSne"
+      "duration_ms": 278693,
+      "name": "Tobiume",
+      "url": "https://open.spotify.com/track/4IQWc6rhJwpFrRKBLx27X6"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "Substrata + Man with a Movie Camera",
+        "url": "https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 251066,
+      "name": "Poa Alpina",
+      "url": "https://open.spotify.com/track/4K4kedXFAuW6gn8iwgGFTw"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -367,18 +367,18 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Substrata + Man with a Movie Camera",
-        "url": "https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ"
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
       },
       "artists": [
         {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 251066,
-      "name": "Poa Alpina",
-      "url": "https://open.spotify.com/track/4K4kedXFAuW6gn8iwgGFTw"
+      "duration_ms": 244181,
+      "name": "Always Returning - Remastered 2005",
+      "url": "https://open.spotify.com/track/1ps5sx71OhHiBVmGiKQSne"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -727,6 +727,22 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
+        "name": "The Pavilion Of Dreams",
+        "url": "https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 1107266,
+      "name": "Bismillahi 'Rrahmani 'Rrahim",
+      "url": "https://open.spotify.com/track/5oTnjavcEz8hENl2nlYmdx"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
         "name": "Cluster & Eno",
         "url": "https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy"
       },
@@ -747,22 +763,6 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "The Pavilion Of Dreams",
-        "url": "https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 1107266,
-      "name": "Bismillahi 'Rrahmani 'Rrahim",
-      "url": "https://open.spotify.com/track/5oTnjavcEz8hENl2nlYmdx"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
         "name": "A New Day",
         "url": "https://open.spotify.com/album/3duG9vrpxecZceRKXBqc7M"
       },
@@ -775,42 +775,6 @@
       "duration_ms": 178260,
       "name": "A New Day",
       "url": "https://open.spotify.com/track/7AbrQSJZsLhWOi4zNFIWeb"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
-        "name": "Radio Amor",
-        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 262813,
-      "name": "Trade Winds, White Heat",
-      "url": "https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
-        "name": "Mixing Colours",
-        "url": "https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf"
-      },
-      "artists": [
-        {
-          "name": "Roger Eno",
-          "url": "https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 262920,
-      "name": "Celeste",
-      "url": "https://open.spotify.com/track/3Lbh8U2HMWa1CD7GK5wEQf"
     },
     {
       "added_at": "2022-01-07 02:01:58",
@@ -835,18 +799,54 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Beautiful You",
-        "url": "https://open.spotify.com/album/6P5OuLSRPjb8vumlRlcq4m"
+        "name": "Mixing Colours",
+        "url": "https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf"
       },
       "artists": [
         {
-          "name": "Khotin",
-          "url": "https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk"
+          "name": "Roger Eno",
+          "url": "https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 283200,
-      "name": "Dwellberry",
-      "url": "https://open.spotify.com/track/6924XH4uThVPk4CpFv30gG"
+      "duration_ms": 262920,
+      "name": "Celeste",
+      "url": "https://open.spotify.com/track/3Lbh8U2HMWa1CD7GK5wEQf"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "Radio Amor",
+        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "duration_ms": 262813,
+      "name": "Trade Winds, White Heat",
+      "url": "https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "Jardin au fou",
+        "url": "https://open.spotify.com/album/7eQ5WjiXia8SrVxyeBLUVV"
+      },
+      "artists": [
+        {
+          "name": "Roedelius",
+          "url": "https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc"
+        }
+      ],
+      "duration_ms": 268400,
+      "name": "Le jardin",
+      "url": "https://open.spotify.com/track/5kaqycPUjIi1PdZWlhfWsD"
     }
   ],
   "unique_name": "Morning First Light",

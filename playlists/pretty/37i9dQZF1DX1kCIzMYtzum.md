@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCIzMYtzum.md) - [plain]
 
 > The latest hits from your favourite festival legends\. Peace, love, unity, respect\. 💗
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,203 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,383 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCIzMYtzum.md) - [plain]
 | 41 | [Safe](https://open.spotify.com/track/71WFZwTIUZoYpzjO56g3KH) | [Dimitri Vangelis & Wyman](https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4) | [Safe](https://open.spotify.com/album/5edtT743uNFxgxSkITKKF3) | 3:45 |
 | 42 | [Wish It Was You](https://open.spotify.com/track/3Dr0xDJwXy6JkiHNJfv5zd) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Cate Downey](https://open.spotify.com/artist/3SHmKHBjw1ks5yXtblJWPn) | [Wish It Was You](https://open.spotify.com/album/75wWmFkPXHTTbw47RRvuvb) | 3:12 |
 | 43 | [Set You Free](https://open.spotify.com/track/4MyPLcBTpqfXZJKcUhMXOg) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Laura White](https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4) | [Set You Free](https://open.spotify.com/album/1cQwMGOrpiXTdeot0bdplB) | 2:49 |
-| 44 | [Shivering \(feat\. Spiritbox\)](https://open.spotify.com/track/10Q3ASy9okYt85040yV46c) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Shivering \(feat\. Spiritbox\)](https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5) | 5:00 |
-| 45 | [Love We Lost \(with R3HAB\)](https://open.spotify.com/track/2ayyzfxamdoNRDI0au3wva) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Simon Ward](https://open.spotify.com/artist/2yi9c8OXkt7PrwbBFOMgjP) | [Love We Lost \(with R3HAB\)](https://open.spotify.com/album/2IlpXQUD25LyrLQ5anXjZG) | 2:16 |
+| 44 | [Love We Lost \(with R3HAB\)](https://open.spotify.com/track/2ayyzfxamdoNRDI0au3wva) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Simon Ward](https://open.spotify.com/artist/2yi9c8OXkt7PrwbBFOMgjP) | [Love We Lost \(with R3HAB\)](https://open.spotify.com/album/2IlpXQUD25LyrLQ5anXjZG) | 2:16 |
+| 45 | [Shivering \(feat\. Spiritbox\)](https://open.spotify.com/track/10Q3ASy9okYt85040yV46c) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Shivering \(feat\. Spiritbox\)](https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5) | 5:00 |
 | 46 | [Nobody](https://open.spotify.com/track/7GiozRoMk95aFl1WbrDdjX) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Catello](https://open.spotify.com/artist/4cpqUkL78IoYnEvYj440WE) | [Nobody](https://open.spotify.com/album/0n1BagGDuJad065Qjb7enT) | 2:23 |
 | 47 | [Breathe \(feat\. kaspara\)](https://open.spotify.com/track/7pDdE5FLqcNCvjxzRzm80r) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH), [Kaspara](https://open.spotify.com/artist/4DTvSNQv43222tg1K7C8k2) | [Breathe \(feat\. kaspara\)](https://open.spotify.com/album/5MYFonEyI51lu0JHBpSRfK) | 2:55 |
 | 48 | [Gotta Be You](https://open.spotify.com/track/2Q8fFORnsDE6I3RNvSLXSf) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Gotta Be You](https://open.spotify.com/album/2zzcyknjN9v95n0OYg8paf) | 2:29 |
 | 49 | [Ready To Love](https://open.spotify.com/track/0cvMWzztDy1wNQkBqae8w4) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Ready To Love](https://open.spotify.com/album/2DZEdOT8Y9knkZAUjpG7mT) | 3:08 |
-| 50 | [Only You](https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Sentinel](https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw) | [Only You](https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ) | 2:25 |
+| 50 | [Live For](https://open.spotify.com/track/0F9fZwEu2cWSgqoRWzAtAS) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [Griff Clawson](https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7) | [Live For](https://open.spotify.com/album/075Aglr1S2AQZRNKv13Ho7) | 2:51 |
 
-Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMDEyYWEzMDc3NDViMzYyOWE2Y2VjYjU2YTZmY2RjOTQ3`
+Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMDE3ZjdlZDQ1NWNhODdiMzNmODI4ZjkyMDRjNjVjOTgy`

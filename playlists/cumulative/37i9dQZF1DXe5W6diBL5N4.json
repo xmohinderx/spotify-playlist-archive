@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "\uc2e0\uace1 \ubc30\ub2ec! The freshest K-Pop releases are here! (Cover: IVE(\uc544\uc774\ube0c)) (\uc2e0\uc120\ud55c \uad6d\ub0b4 \ucd5c\uc2e0\uace1\ub4e4\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694.)",
+  "description": "\uc2e0\uace1 \ubc30\ub2ec! The freshest K-Pop releases are here! (Cover: KEY(\ud0a4)) (\uc2e0\uc120\ud55c \uad6d\ub0b4 \ucd5c\uc2e0\uace1\ub4e4\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694.)",
   "name": "New Music K-Pop",
   "published_playlist_ids": [
     "69AzhPM798n6fuDC8uUxaB"
@@ -3846,6 +3846,28 @@
     },
     {
       "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/65RvaP3P2DdeC0QoL0eean"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO+",
+          "url": "https://open.spotify.com/artist/3TESxOg8FArtQHKt4hKEoZ"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186880,
+      "name": "Better (Feat. BIG Naughty)",
+      "url": "https://open.spotify.com/track/6JO6fHEpjYE8ILDhweIqQj"
+    },
+    {
+      "album": {
         "name": "Broke Rookie Star (Original Television Soundtrack) Pt. 3",
         "url": "https://open.spotify.com/album/0FQ6KjK4C9wKobhQVZF1n7"
       },
@@ -6299,7 +6321,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 200285,
       "name": "Childlike",
       "url": "https://open.spotify.com/track/3XajzTgxQw9rmsnFiBjmtE"
@@ -8003,7 +8025,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 209733,
       "name": "DaSH",
       "url": "https://open.spotify.com/track/6j00mQpXjdXuovqU9owUDa"
@@ -8875,7 +8897,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 185293,
       "name": "Doctor",
       "url": "https://open.spotify.com/track/4RbFKG6CxfKaITwfQS2AaK"
@@ -10391,7 +10413,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 188000,
       "name": "Engine",
       "url": "https://open.spotify.com/track/5qy91blMPg3avxZEgqwwyt"
@@ -12806,6 +12828,24 @@
     },
     {
       "album": {
+        "name": "Gasoline - The 2nd Album",
+        "url": "https://open.spotify.com/album/1STTad4531T7StJ4EiVwAG"
+      },
+      "artists": [
+        {
+          "name": "KEY",
+          "url": "https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191906,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/59WDxA3UxKvJDIJcK6dVZv"
+    },
+    {
+      "album": {
         "name": "Gasoline",
         "url": "https://open.spotify.com/album/3ElwPHW7K5ljC38BZ1bp1K"
       },
@@ -14703,7 +14743,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 189350,
       "name": "HIGH RISK HIGH RETURN (Feat. Polodared)",
       "url": "https://open.spotify.com/track/5MnjjRXp2huzCdVXkGpU2I"
@@ -19712,6 +19752,28 @@
     },
     {
       "album": {
+        "name": "Leave like this",
+        "url": "https://open.spotify.com/album/6FQObmvOZQ9MXzRddnhUkJ"
+      },
+      "artists": [
+        {
+          "name": "Seokman Cheon",
+          "url": "https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0"
+        },
+        {
+          "name": "Blue Mangtto",
+          "url": "https://open.spotify.com/artist/0K44FUw6SBCO7dunhMz8sp"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205002,
+      "name": "Leave like this",
+      "url": "https://open.spotify.com/track/1DjihD1VQAuuaRaMDOKOjy"
+    },
+    {
+      "album": {
         "name": "Leave Me Alone (???)",
         "url": "https://open.spotify.com/album/066c1K3HBglKKm2Hve3sFr"
       },
@@ -19989,7 +20051,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 222746,
       "name": "LIGHT KPOP CTzen (Original Soundtrack)",
       "url": "https://open.spotify.com/track/3CTJWAJWLBorkucMrZPfl1"
@@ -20011,6 +20073,24 @@
       "duration_ms": 205826,
       "name": "Light UP",
       "url": "https://open.spotify.com/track/16aCdXdUqHMwt9lZCXPpav"
+    },
+    {
+      "album": {
+        "name": "PLAYLIST (Original Soundtrack), Pt.1",
+        "url": "https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281000,
+      "name": "Like a Bird",
+      "url": "https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok"
     },
     {
       "album": {
@@ -25824,6 +25904,24 @@
     },
     {
       "album": {
+        "name": "Our Forgiveness",
+        "url": "https://open.spotify.com/album/1K8aYJrq8a8WiwNniSuzrw"
+      },
+      "artists": [
+        {
+          "name": "Heo Hoy Kyung",
+          "url": "https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199570,
+      "name": "Our Forgiveness",
+      "url": "https://open.spotify.com/track/6xVlRWDlQDna2yVCwOPE30"
+    },
+    {
+      "album": {
         "name": "Our Island (Prod. SUGA of BTS) (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6GJeTp7bCvX9yCw28vL5cx"
       },
@@ -26359,6 +26457,24 @@
       "duration_ms": 217364,
       "name": "parting",
       "url": "https://open.spotify.com/track/1NHAUW0XDaYeWtpLqtLgrs"
+    },
+    {
+      "album": {
+        "name": "Password 486",
+        "url": "https://open.spotify.com/album/6pZdY6TKxDTkk6Ndi3eOt1"
+      },
+      "artists": [
+        {
+          "name": "BIGONE",
+          "url": "https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198600,
+      "name": "Password 486",
+      "url": "https://open.spotify.com/track/1KrreL8nKfx44ibk9sd9Cu"
     },
     {
       "album": {
@@ -31864,6 +31980,24 @@
     },
     {
       "album": {
+        "name": "Poong, the Joseon Psychiatrist OST Part.5",
+        "url": "https://open.spotify.com/album/50DAxrpePNE16yJnYS7QT2"
+      },
+      "artists": [
+        {
+          "name": "Xydo",
+          "url": "https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201066,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/24dSyqfPW6WNzdegehvuBw"
+    },
+    {
+      "album": {
         "name": "Starlit",
         "url": "https://open.spotify.com/album/20Bj1YBvQoRe31NKO0XYfe"
       },
@@ -34450,6 +34584,24 @@
     },
     {
       "album": {
+        "name": "The palette",
+        "url": "https://open.spotify.com/album/46ydYmAorZV9250R0H8vJZ"
+      },
+      "artists": [
+        {
+          "name": "Doha",
+          "url": "https://open.spotify.com/artist/55qNLulWN2EevzZhyLGgCV"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203280,
+      "name": "The palette",
+      "url": "https://open.spotify.com/track/2Op59QTlYBCbevk4WVQwK7"
+    },
+    {
+      "album": {
         "name": "New Recruit (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2shvjrOowrVtb5YHWt6nyJ"
       },
@@ -35755,7 +35907,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 188000,
       "name": "Top Gun",
       "url": "https://open.spotify.com/track/2rExnusrQPCnARRgIVxvEc"
@@ -40787,7 +40939,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 184346,
       "name": "\ube59\uadf8\ub808",
       "url": "https://open.spotify.com/track/1gtabUo4ov467fUjf2514i"

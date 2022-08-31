@@ -1,12 +1,12 @@
 {
   "description": "todo un mood. ",
-  "num_followers": 529714,
+  "num_followers": 530010,
   "original_name": "suave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTE3NzQ4MiwwMDAwMDAwMDlhYjcwODVmOWQyMDM3MGFjYzllOTU3OWQyYjQ2ZTdi",
+  "snapshot_id": "MTY2MTE3NzQ4MiwwMDAwMDAwMDJmM2I5MGRhMGIzYzMyYzlkOTMzMWM3ODJiNjhhNDg0",
   "tracks": [
     {
       "added_at": "2022-08-22 14:11:22",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2022-08-22 14:11:22",
       "album": {
-        "name": "Cositas de la USA",
-        "url": "https://open.spotify.com/album/4EwZe3wzi0JWMdobUrpHIs"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 189015,
-      "name": "Cositas de la USA",
-      "url": "https://open.spotify.com/track/5c4KBG3ATUOmP8y2KHGGoI"
-    },
-    {
-      "added_at": "2022-08-22 14:11:22",
-      "album": {
         "name": "Bellaquita (Remix)",
         "url": "https://open.spotify.com/album/5dXeJdc2hib8JB3Vqon2zB"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 304733,
       "name": "Bellaquita - Remix",
       "url": "https://open.spotify.com/track/1Xnn1TPyr5h0hpRAT4B4EA"
+    },
+    {
+      "added_at": "2022-08-22 14:11:22",
+      "album": {
+        "name": "Cositas de la USA",
+        "url": "https://open.spotify.com/album/4EwZe3wzi0JWMdobUrpHIs"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 189015,
+      "name": "Cositas de la USA",
+      "url": "https://open.spotify.com/track/5c4KBG3ATUOmP8y2KHGGoI"
     },
     {
       "added_at": "2022-08-22 14:11:22",

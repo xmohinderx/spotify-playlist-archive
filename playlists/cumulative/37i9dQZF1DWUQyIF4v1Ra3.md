@@ -4,10 +4,11 @@
 
 > 
 
-39 songs - 3 hr 15 min - [published](https://open.spotify.com/playlist/3kNh10DqsuZ2pCoKdDPmQr)
+39 songs - 3 hr 10 min - [published](https://open.spotify.com/playlist/3kNh10DqsuZ2pCoKdDPmQr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/33XC6PPmZ9Y9oJ5MdugOhw) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7LnYqdYYp4ge2tvKmxNDsg) | 0:00 | 2022-01-12 |  |
 | [Aai Khodal Mari Mavaladi \- Best Collection of New Navratri Song](https://open.spotify.com/track/5JzFyGZBZBn9vwTSK3FTjg) | [Aishwarya Majmudar](https://open.spotify.com/artist/7MAlFea251zaprQFjwvYaL) | [Aai Khodal Mari Mavaladi \(Best Collection of New Navratri Song\)](https://open.spotify.com/album/0zGgvP6oitgu7wRuvCRy3h) | 8:38 | 2022-01-12 |  |
 | [Aaj Khushi Hai](https://open.spotify.com/track/5BsrWcNcYddy8EqPL8IBeS) | [Lalitya Munshaw](https://open.spotify.com/artist/3e23DvNuM4Z78nPsX8P1D9) | [Aye Halo](https://open.spotify.com/album/3Xd7aD3NfzQC1qKXC9AKvP) | 1:50 | 2022-06-08 |  |
 | [Aaj Khushi Hai](https://open.spotify.com/track/4NMrrnzCYTAh3HIiWKF0n7) | [Lalitya Munshaw](https://open.spotify.com/artist/3e23DvNuM4Z78nPsX8P1D9) | [Non Stop Raas Garba by Lalitya Munshaw](https://open.spotify.com/album/1TU9rbZnCwB8n0NQrYHFbF) | 1:50 | 2022-01-12 | 2022-07-29 |
@@ -28,7 +29,6 @@
 | [Khodiyar Mari Mavdi](https://open.spotify.com/track/2NWTl6wnbP9e1XpFohed3b) | [Pamela Jain](https://open.spotify.com/artist/4BBdp811wrWrr1zk9dENUE), [Kirtidan Gadhvi](https://open.spotify.com/artist/7odYFkW15De3A7aAuk5x9h) | [Thanganat \(Non Stop Garba, Vol\. 16\)](https://open.spotify.com/album/0g3DifkCMaMswIooOllfCK) | 3:21 | 2022-01-12 |  |
 | [Kidi Bichari](https://open.spotify.com/track/35q0ZBWjxmtWZiWLWeEORK) | [Aishwarya Majmudar](https://open.spotify.com/artist/7MAlFea251zaprQFjwvYaL) | [Rangtaali \- Non Stop Garba](https://open.spotify.com/album/1c21J9E55BypW4dLG17R5W) | 2:22 | 2022-01-12 |  |
 | [Lagu Gunpati Ne Paay](https://open.spotify.com/track/5dAllyM4M30kdrVUIdophh) | [Aishwarya Majmudar](https://open.spotify.com/artist/7MAlFea251zaprQFjwvYaL) | [Rangtaali 2 \- Non Stop Garba](https://open.spotify.com/album/05Hvy9AWM7qaTV3wYlfS1W) | 2:41 | 2022-01-12 |  |
-| [Lahu Munh Lag Gaya](https://open.spotify.com/track/33XC6PPmZ9Y9oJ5MdugOhw) | [Shail Hada](https://open.spotify.com/artist/73oabrcxZFkgjgeJBP5uJC) | [Goliyon Ki Raasleela Ram\-Leela](https://open.spotify.com/album/7LnYqdYYp4ge2tvKmxNDsg) | 5:00 | 2022-01-12 |  |
 | [Maa Taro Garbo Zakamjol](https://open.spotify.com/track/0LoVIdovHEU9bloct4iOJJ) | [Aishwarya Majmudar](https://open.spotify.com/artist/7MAlFea251zaprQFjwvYaL) | [Raas Garba Ni Ramzat](https://open.spotify.com/album/4eP0iXXD5VP2yHjCO75NVQ) | 2:00 | 2022-01-12 |  |
 | [Mitron Dandiya Mashup \- From "Mitron"](https://open.spotify.com/track/6Kv46e61xHg53PmddVy9mT) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Raja Hasan](https://open.spotify.com/artist/6ID2zdEFxXLChwiqQzf3ZA), [Dj Kiran Kamath](https://open.spotify.com/artist/76DiXwbDvK690KWyvU5JoP) | [Mitron Dandiya Mashup \(From "Mitron"\)](https://open.spotify.com/album/6UrwEDbHH1IayjvdOKAiaU) | 4:02 | 2022-01-12 |  |
 | [Nahi Melu Re](https://open.spotify.com/track/1RQ1riJJB108HSJ2lXJp0Q) | [Nisha Upadhyay](https://open.spotify.com/artist/2p1DsSadSk9fUqpwlZVcOF) | [Bamboo Beats \(Disco Dandiya Hits\)](https://open.spotify.com/album/7hyZTOovgclhqA7iQdoUMl) | 5:22 | 2022-01-12 |  |

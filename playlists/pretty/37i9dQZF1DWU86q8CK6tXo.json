@@ -1,12 +1,12 @@
 {
   "description": "Female-identifying only tunes, with some of  <a href=\u201cspotify:artist:5rZUNweztKBI1Xy3XhYHoJ\u201d>Danielle Ponder's</a> personal picks. Cover: Danielle Ponder",
-  "num_followers": 19915,
+  "num_followers": 19923,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTc2MDA1MywwMDAwMDAwMGZiMzliNGI4MWFhZjM1MTcyZjI2NGRiNzZkODFjYTYy",
+  "snapshot_id": "MTY2MTc2MDA1MywwMDAwMDAwMDlmZDFiNjQ4YTIxNDkyZjBhY2ZkOWUxMDI4MDkyZDEy",
   "tracks": [
     {
       "added_at": "2022-08-26 19:29:14",
@@ -599,26 +599,6 @@
     {
       "added_at": "2022-08-03 04:00:00",
       "album": {
-        "name": "No One Dies From Love (The Remixes)",
-        "url": "https://open.spotify.com/album/4VPwf2tJMsGcV52TgihvYi"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        },
-        {
-          "name": "DJ_Dave",
-          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
-        }
-      ],
-      "duration_ms": 231111,
-      "name": "No One Dies From Love (DJ_Dave Edit)",
-      "url": "https://open.spotify.com/track/20q0OglvgOtzxH2YexMNXl"
-    },
-    {
-      "added_at": "2022-08-03 04:00:00",
-      "album": {
         "name": "Crunk",
         "url": "https://open.spotify.com/album/5KWVMGP2OROAfjWgu07uAe"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 213750,
       "name": "Crunk",
       "url": "https://open.spotify.com/track/4wiMZbsTLDkvaNZC3UL2GT"
+    },
+    {
+      "added_at": "2022-08-03 04:00:00",
+      "album": {
+        "name": "No One Dies From Love (The Remixes)",
+        "url": "https://open.spotify.com/album/4VPwf2tJMsGcV52TgihvYi"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
+        }
+      ],
+      "duration_ms": 231111,
+      "name": "No One Dies From Love (DJ_Dave Edit)",
+      "url": "https://open.spotify.com/track/20q0OglvgOtzxH2YexMNXl"
     },
     {
       "added_at": "2022-08-03 04:00:00",

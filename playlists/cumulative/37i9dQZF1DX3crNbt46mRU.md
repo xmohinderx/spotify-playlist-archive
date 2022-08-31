@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Elton John, Britney Spears
 
-2,934 songs - 6 day 6 hr 30 min - [published](https://open.spotify.com/playlist/5A5TXDJmpvx3pBIQ0045Lh)
+2,935 songs - 6 day 6 hr 32 min - [published](https://open.spotify.com/playlist/5A5TXDJmpvx3pBIQ0045Lh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -461,7 +461,8 @@
 | [CANDYMAN](https://open.spotify.com/track/2LKw5pI3tXyMI8fpUibCiZ) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [CANDYMAN](https://open.spotify.com/album/5x2Pu8eIiPR0sAOZo6bY1w) | 2:44 | 2022-05-12 | 2022-05-20 |
 | [CANIM](https://open.spotify.com/track/1tWARjTaLLHYLCZ8xZPF6r) | [OMG](https://open.spotify.com/artist/2gSIgsQWEHbWvOiFvhvx3g), [Dante YN](https://open.spotify.com/artist/7oIvDwKGV2SuH4HJl0CKPp) | [CANIM](https://open.spotify.com/album/74g1NnNDDWwBivhFaJVoi9) | 2:29 | 2022-03-24 | 2022-04-01 |
 | [Cannibal](https://open.spotify.com/track/4n0dJRuYwfluS0Mr6VIy2U) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [Cannibal](https://open.spotify.com/album/4yG4NHC6KqlBTiCClOIome) | 4:00 | 2022-07-14 | 2022-07-22 |
-| [Can’t Lock the Dance](https://open.spotify.com/track/12qSQtSe3L5RdscUsnVy0o) | [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Can’t Lock the Dance](https://open.spotify.com/album/6KZy2bilOEX5e62JqOZBNw) | 2:39 | 2022-08-26 |  |
+| [Can’t Lock the Dance](https://open.spotify.com/track/12qSQtSe3L5RdscUsnVy0o) | [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Can’t Lock the Dance](https://open.spotify.com/album/6KZy2bilOEX5e62JqOZBNw) | 2:39 | 2022-08-26 | 2022-08-31 |
+| [Can’t Lock the Dance](https://open.spotify.com/track/5ncNfN17c0IkMeyNMq34AH) | [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Can’t Lock the Dance](https://open.spotify.com/album/2IiBLXAzvboyIEzqvJlTsD) | 2:39 | 2022-08-26 |  |
 | [Captain](https://open.spotify.com/track/3V6smv7JlVHAPnp8xegMAd) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Captain](https://open.spotify.com/album/1FaRi2v5fyJPdrwi2PfdAN) | 2:30 | 2022-05-26 | 2022-06-03 |
 | [Caramello](https://open.spotify.com/track/6O1rGDWqL1pgp7H59G2q80) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG), [Elettra Lamborghini](https://open.spotify.com/artist/3o7fC2O4nraaicpID6bBZW), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Caramello](https://open.spotify.com/album/3b1ZGAlTG0Dn81o1D4I8Fn) | 3:17 | 2022-06-16 | 2022-06-24 |
 | [Carefree](https://open.spotify.com/track/0UfB1oHKwWuBTBAuIZc0V7) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Carefree](https://open.spotify.com/album/0CqaHkcLlm6Q3JQNsF74bg) | 2:59 | 2022-03-10 | 2022-03-18 |
@@ -2674,7 +2675,7 @@
 | [Upset](https://open.spotify.com/track/5gnl0eDLlVK2CxdAbkWiwe) | [PAENDA](https://open.spotify.com/artist/2ic8BSMWMbxMDCC52Mwxuz) | [Upset](https://open.spotify.com/album/4mmy7xiKYSLEQq9tJqG2JO) | 3:06 | 2022-02-24 | 2022-03-04 |
 | [Uptown](https://open.spotify.com/track/4ihsYbqWpwwx78Z8crOuON) | [LieVin](https://open.spotify.com/artist/4bCEw9lXrhxvEZQHxD8tJU) | [Uptown](https://open.spotify.com/album/2bIYXXaXF7cFjuo4SZNIEU) | 2:28 | 2022-03-31 | 2022-04-08 |
 | [Ur Mum](https://open.spotify.com/track/7CLIr0lZ4GWeHTaj9lNkXM) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Ur Mum](https://open.spotify.com/album/30Q55cfZGvp8AZJqUM4BzG) | 3:21 | 2022-04-07 | 2022-04-15 |
-| [Urlaub](https://open.spotify.com/track/1IJlqjNuVEpiDZYrgu5yml) | [Julian le Play](https://open.spotify.com/artist/5xW9faV2hqlLG0rp7CTBof) | [Urlaub](https://open.spotify.com/album/6Ks6nhayWui93xuidjOxv7) | 2:30 | 2022-08-25 |  |
+| [Urlaub](https://open.spotify.com/track/1IJlqjNuVEpiDZYrgu5yml) | [Julian le Play](https://open.spotify.com/artist/5xW9faV2hqlLG0rp7CTBof) | [Urlaub](https://open.spotify.com/album/6Ks6nhayWui93xuidjOxv7) | 2:31 | 2022-08-25 |  |
 | [Us vs\. Them \(feat\. Gucci Mane\)](https://open.spotify.com/track/6x3gud5JkOSGYJpRUYN1Gg) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Us vs\. Them \(feat\. Gucci Mane\)](https://open.spotify.com/album/0lpk5TUY4VN3X5Y4iOwJls) | 3:36 | 2022-07-29 | 2022-08-05 |
 | [Usain Boo](https://open.spotify.com/track/4N20NYwhJRArlzEhdCKXka) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Back For Everything](https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR) | 3:06 | 2022-02-25 | 2022-03-04 |
 | [Used To Know Me](https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:25 | 2022-03-18 | 2022-03-25 |

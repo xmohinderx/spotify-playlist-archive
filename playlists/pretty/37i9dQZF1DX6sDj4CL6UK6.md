@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 
 > Finest of the Indian English Indie\. Cover \- Prateek Kuhad
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,869 likes - 79 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,910 likes - 79 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

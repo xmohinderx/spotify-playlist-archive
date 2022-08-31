@@ -1,12 +1,12 @@
 {
   "description": "\u6c92\u6709\u4ec0\u9ebc\u6bd4\u611f\u89ba\u597d\u66f4\u91cd\u8981\u4e86\uff01\u9019\u88e1\u7684\u6b4c\u66f2\u80fd\u5927\u5927\u632f\u596e\u5fc3\u60c5\u3001\u4ee4\u4f60\u5143\u6c23\u5341\u8db3\uff01",
-  "num_followers": 53039,
+  "num_followers": 53054,
   "original_name": "\u5fc3\u60c5\u5927\u632f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTc1MDg1MSwwMDAwMDAwMGYzMzUyNGFlMjNlMjlkM2NhYjY5OWFhNzFkYjAxOTZm",
+  "snapshot_id": "MTY2MTc1MDg1MSwwMDAwMDAwMGE5MDEzODdkNzAyZjU1MmU1OThmMDRmYWY0MDE2NTNm",
   "tracks": [
     {
       "added_at": "2022-08-29 05:27:31",
@@ -335,18 +335,18 @@
     {
       "added_at": "2022-08-29 05:27:31",
       "album": {
-        "name": "House On Fire",
-        "url": "https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL"
+        "name": "Heartbreak Weather",
+        "url": "https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp"
       },
       "artists": [
         {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
         }
       ],
-      "duration_ms": 140803,
-      "name": "House On Fire",
-      "url": "https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ"
+      "duration_ms": 193089,
+      "name": "Black And White",
+      "url": "https://open.spotify.com/track/7rpNuuoMbid56XkDsx2FjE"
     },
     {
       "added_at": "2022-08-29 05:27:31",
@@ -371,18 +371,18 @@
     {
       "added_at": "2022-08-29 05:27:31",
       "album": {
-        "name": "Heartbreak Weather",
-        "url": "https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp"
+        "name": "House On Fire",
+        "url": "https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL"
       },
       "artists": [
         {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
         }
       ],
-      "duration_ms": 193089,
-      "name": "Black And White",
-      "url": "https://open.spotify.com/track/7rpNuuoMbid56XkDsx2FjE"
+      "duration_ms": 140803,
+      "name": "House On Fire",
+      "url": "https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ"
     },
     {
       "added_at": "2022-08-29 05:27:31",
@@ -487,6 +487,22 @@
     {
       "added_at": "2022-08-29 05:27:31",
       "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 183026,
+      "name": "So Am I",
+      "url": "https://open.spotify.com/track/2Xnv3GntqbBH1juvUYSpHG"
+    },
+    {
+      "added_at": "2022-08-29 05:27:31",
+      "album": {
         "name": "gfy (with Machine Gun Kelly)",
         "url": "https://open.spotify.com/album/43tasPwPisjAgGgde0yy7F"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 172821,
       "name": "gfy (with Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/3MTm8eZ2wCEtpyZqqhP6Dn"
-    },
-    {
-      "added_at": "2022-08-29 05:27:31",
-      "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 183026,
-      "name": "So Am I",
-      "url": "https://open.spotify.com/track/2Xnv3GntqbBH1juvUYSpHG"
     },
     {
       "added_at": "2022-08-29 05:27:31",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-08-29 05:27:31",
       "album": {
-        "name": "Little Bit of Love",
-        "url": "https://open.spotify.com/album/0NZUGfUMwjt3bPlVHxnIN2"
-      },
-      "artists": [
-        {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
-        }
-      ],
-      "duration_ms": 226268,
-      "name": "Little Bit of Love",
-      "url": "https://open.spotify.com/track/2sX7lJXsOYGP1Us6CqM9t1"
-    },
-    {
-      "added_at": "2022-08-29 05:27:31",
-      "album": {
         "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
         "url": "https://open.spotify.com/album/4QI0QDu2k1PpD4432zbNHK"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 149160,
       "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/2qtqIinDwJQzsUofMtkH0D"
+    },
+    {
+      "added_at": "2022-08-29 05:27:31",
+      "album": {
+        "name": "Little Bit of Love",
+        "url": "https://open.spotify.com/album/0NZUGfUMwjt3bPlVHxnIN2"
+      },
+      "artists": [
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "duration_ms": 226268,
+      "name": "Little Bit of Love",
+      "url": "https://open.spotify.com/track/2sX7lJXsOYGP1Us6CqM9t1"
     },
     {
       "added_at": "2022-08-29 05:27:31",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-08-29 05:27:31",
       "album": {
-        "name": "SUBSTANCE",
-        "url": "https://open.spotify.com/album/4gH2QdzpnQH1k3JXjnVVfX"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 160441,
-      "name": "SUBSTANCE",
-      "url": "https://open.spotify.com/track/5zuT7tF518cJcoOJI9VzDM"
-    },
-    {
-      "added_at": "2022-08-29 05:27:31",
-      "album": {
         "name": "Chapters",
         "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 231653,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/1bQhZOoXYqjXs7u7rFXo0h"
+    },
+    {
+      "added_at": "2022-08-29 05:27:31",
+      "album": {
+        "name": "SUBSTANCE",
+        "url": "https://open.spotify.com/album/4gH2QdzpnQH1k3JXjnVVfX"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 160441,
+      "name": "SUBSTANCE",
+      "url": "https://open.spotify.com/track/5zuT7tF518cJcoOJI9VzDM"
     },
     {
       "added_at": "2022-08-29 05:27:31",
@@ -839,26 +839,18 @@
     {
       "added_at": "2022-08-29 05:27:31",
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/6IatiP8DCUD2ps9KvocWgA"
+        "name": "All These Nights",
+        "url": "https://open.spotify.com/album/2EvQd56xKYeoeGFDn8jQj6"
       },
       "artists": [
         {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "Cailin Russo",
-          "url": "https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0"
-        },
-        {
-          "name": "Chrissy Costanza",
-          "url": "https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv"
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
         }
       ],
-      "duration_ms": 197633,
-      "name": "Phoenix",
-      "url": "https://open.spotify.com/track/6zAiRKvAMlXHxEtyO4yxIO"
+      "duration_ms": 154062,
+      "name": "All These Nights",
+      "url": "https://open.spotify.com/track/1VeAXUa20YkzfEi1Zk2y0o"
     }
   ],
   "unique_name": "\u5fc3\u60c5\u5927\u632f",

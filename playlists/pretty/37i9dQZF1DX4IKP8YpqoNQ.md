@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 
 > Experience the best live performances.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,682 likes - 100 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,692 likes - 100 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 | 78 | [Family \- Live at Metropolis Studios](https://open.spotify.com/track/7GSxDH3HojN8aohitoSbAz) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Live at Metropolis Studios](https://open.spotify.com/album/3oytf0eAa73F67CI48fiZC) | 3:30 |
 | 79 | [I Wish I Knew How It Would Feel to Be Free \- Live – Montreux Jazz Festival 1976](https://open.spotify.com/track/0z2qqpfYy8Mgn1SSYXOF4H) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Wish I Knew How It Would Feel to Be Free \(Live – Montreux Jazz Festival 1976\)](https://open.spotify.com/album/45pIDRFj2JyeAM0DPAihAm) | 6:07 |
 | 80 | [Dorothy Parker \- Live from One Nite Alone Tour...The Aftershow](https://open.spotify.com/track/2PSgQzbGHlv99xv3KGxD4X) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j), [The New Power Generation](https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp) | [One Nite Alone..\. The Aftershow: It Ain't Over! \(Up Late with Prince & The NPG\) \[Live\]](https://open.spotify.com/album/4cnxxYwMvBQN4LGEq2nKVq) | 6:16 |
-| 81 | [You Got the Love \- Live Version](https://open.spotify.com/track/5QVr1U4qIpdYIWOzAjbXfr) | [Rufus](https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Stompin' At The Savoy](https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP) | 5:36 |
-| 82 | [I Love You More Than You'll Ever Know \- Live at the Bitter End, New York City, 1971](https://open.spotify.com/track/76SMwORz2FzhaKYia69yaa) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [These Songs for You, Live!](https://open.spotify.com/album/1cjwUx7RBiHrMcTmknJKVY) | 5:55 |
+| 81 | [I Love You More Than You'll Ever Know \- Live at the Bitter End, New York City, 1971](https://open.spotify.com/track/76SMwORz2FzhaKYia69yaa) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [These Songs for You, Live!](https://open.spotify.com/album/1cjwUx7RBiHrMcTmknJKVY) | 5:55 |
+| 82 | [You Got the Love \- Live Version](https://open.spotify.com/track/5QVr1U4qIpdYIWOzAjbXfr) | [Rufus](https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Stompin' At The Savoy](https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP) | 5:36 |
 | 83 | [What's Going On \- Live At Oakland Coliseum, CA / 1974](https://open.spotify.com/track/5HKeylrH9lOy90PXK3KmAn) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Live \(Expanded Edition\)](https://open.spotify.com/album/1e2wF72vtLQkH6jTvYvFQV) | 4:49 |
 | 84 | [Cruisin' \- Live At The Jazz Cafe, London/1995](https://open.spotify.com/track/5jwiURsWM9gljlr4IWIk1l) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Live At The Jazz Cafe, London](https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi) | 6:38 |
 | 85 | [Walk With Me \- Live from Blackbird Studio](https://open.spotify.com/track/0TL3xsQ95neiYaeDcZAW3L) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Walk With Me \(Live from Blackbird Studio\)](https://open.spotify.com/album/2W5NGe87vCMrPS1YHLaARB) | 3:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 | 99 | [Keep the Home Fire Burnin' \- Live](https://open.spotify.com/track/3nVbQp2oSkQa0CRiiVubZp) | [Millie Jackson](https://open.spotify.com/artist/27XI002zivG9xuzrZ9dIb1) | [Live and Uncensored / Live and Outrageous](https://open.spotify.com/album/6WAkTQuyJu9eHiX5FnUyA1) | 3:26 |
 | 100 | [Send It On](https://open.spotify.com/track/65sYHQJ9QJTgG5RHZY4gRN) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Live In Stockholm](https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT) | 5:41 |
 
-Snapshot ID: `MTY1MDkxNjI2NywwMDAwMDAwMGM1NDc4NDk2N2Q1MTFjOTBlMzc1N2E4OGE3NjBjZDdj`
+Snapshot ID: `MTY1MDkxNjI2NywwMDAwMDAwMGMyMzA0YWUyMjU3ZWYyNzQzZDE5M2NmMWVkMDY4OWE5`

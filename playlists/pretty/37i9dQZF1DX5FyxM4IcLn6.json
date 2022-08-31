@@ -1,12 +1,12 @@
 {
   "description": "The official playlist for the 64rd GRAMMY Awards.",
-  "num_followers": 121410,
+  "num_followers": 121403,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODU5Mzc3MSwwMDAwMDAwMGEzM2JkM2FmMTkwNzM2YTI4NDE5NDk4ODQ0NWYwOTVk",
+  "snapshot_id": "MTY0ODU5Mzc3MSwwMDAwMDAwMDk3ODgwYmJkMzc1MmYwNjZiZGNiMmZiZjYxYjE1YjU2",
   "tracks": [
     {
       "added_at": "2022-03-29 19:11:15",
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-03-29 19:11:15",
       "album": {
-        "name": "Shockwave",
-        "url": "https://open.spotify.com/album/6yXPyhVxt3PHBwkinPFn6I"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        }
-      ],
-      "duration_ms": 181283,
-      "name": "Shockwave",
-      "url": "https://open.spotify.com/track/3sOGVdj5VPY6C2XImtlzj7"
-    },
-    {
-      "added_at": "2022-03-29 19:11:15",
-      "album": {
         "name": "Studying Abroad: Extended Stay",
         "url": "https://open.spotify.com/album/1S0yIZRDiFmqCQyTIEV175"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 228453,
       "name": "Mystery Lady",
       "url": "https://open.spotify.com/track/0bkTdkWwGk3OGFX0afD3Wj"
+    },
+    {
+      "added_at": "2022-03-29 19:11:15",
+      "album": {
+        "name": "Shockwave",
+        "url": "https://open.spotify.com/album/6yXPyhVxt3PHBwkinPFn6I"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        }
+      ],
+      "duration_ms": 181283,
+      "name": "Shockwave",
+      "url": "https://open.spotify.com/track/3sOGVdj5VPY6C2XImtlzj7"
     },
     {
       "added_at": "2022-03-29 19:11:15",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-03-29 19:11:15",
       "album": {
-        "name": "TEMPORARY HIGHS IN THE VIOLET SKIES",
-        "url": "https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        }
-      ],
-      "duration_ms": 177720,
-      "name": "LOST YOU",
-      "url": "https://open.spotify.com/track/26aJMMLBSOQmiC4JenVjjl"
-    },
-    {
-      "added_at": "2022-03-29 19:11:15",
-      "album": {
         "name": "Shore",
         "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 244186,
       "name": "Can I Believe You",
       "url": "https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp"
+    },
+    {
+      "added_at": "2022-03-29 19:11:15",
+      "album": {
+        "name": "TEMPORARY HIGHS IN THE VIOLET SKIES",
+        "url": "https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 177720,
+      "name": "LOST YOU",
+      "url": "https://open.spotify.com/track/26aJMMLBSOQmiC4JenVjjl"
     },
     {
       "added_at": "2022-03-29 19:11:15",
@@ -1373,22 +1373,6 @@
       "url": "https://open.spotify.com/track/3BTUH65LL0kRRED0J0PaV8"
     },
     {
-      "added_at": "2022-03-29 19:11:15",
-      "album": {
-        "name": "SONGWRIGHTS APOTHECARY LAB",
-        "url": "https://open.spotify.com/album/3x2EYKuBcxSlog5QdD1hTO"
-      },
-      "artists": [
-        {
-          "name": "Esperanza Spalding",
-          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
-        }
-      ],
-      "duration_ms": 208600,
-      "name": "Formwela 10",
-      "url": "https://open.spotify.com/track/1Xc5Htlpv1zgLRkY5drs9V"
-    },
-    {
       "added_at": "2022-03-29 22:42:51",
       "album": {
         "name": "Mend\u00f3",
@@ -1407,6 +1391,22 @@
       "duration_ms": 202701,
       "name": "Mundo Nuevo",
       "url": "https://open.spotify.com/track/63lmbLq8jYrEle2iG2O7hO"
+    },
+    {
+      "added_at": "2022-03-29 19:11:15",
+      "album": {
+        "name": "SONGWRIGHTS APOTHECARY LAB",
+        "url": "https://open.spotify.com/album/3x2EYKuBcxSlog5QdD1hTO"
+      },
+      "artists": [
+        {
+          "name": "Esperanza Spalding",
+          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
+        }
+      ],
+      "duration_ms": 208600,
+      "name": "Formwela 10",
+      "url": "https://open.spotify.com/track/1Xc5Htlpv1zgLRkY5drs9V"
     },
     {
       "added_at": "2022-03-29 19:11:15",

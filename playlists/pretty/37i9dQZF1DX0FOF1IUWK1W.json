@@ -1,12 +1,12 @@
 {
   "description": "Mc Paiva ZS, MC Ryan SP, Kotim e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
-  "num_followers": 6825361,
+  "num_followers": 6826929,
   "original_name": "Top Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQzOTYwMCwwMDAwMDAwMGYxZWUzY2MzMmFkZGUxYjlkMTcwMGFlNDIzYmNkNjBm",
+  "snapshot_id": "MTY2MTg2NjAzMiwwMDAwMDAwMDVlZTJhMDEwNzQ4YzMyNzQ1YjYwMTM1YjMxM2ZhZDI3",
   "tracks": [
     {
       "added_at": "2022-08-25 15:00:00",
@@ -751,6 +751,22 @@
     {
       "added_at": "2022-08-25 15:00:00",
       "album": {
+        "name": "Se Melhorar Estraga (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5oITwDGkkWE8RxG8LQ6AV6"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 155284,
+      "name": "Gatilho - Ao Vivo",
+      "url": "https://open.spotify.com/track/42nZBOwXNdO24Ml032bLBS"
+    },
+    {
+      "added_at": "2022-08-25 15:00:00",
+      "album": {
         "name": "Eu J\u00e1 Tava Bem (Ao Vivo)",
         "url": "https://open.spotify.com/album/2m81ZDyTcPZ2OvxtsWC0bw"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 191523,
       "name": "Vai L\u00e1 Em Casa Hoje",
       "url": "https://open.spotify.com/track/2wSCalnGOnXdAJC0Fn8OUY"
-    },
-    {
-      "added_at": "2022-08-25 15:00:00",
-      "album": {
-        "name": "Se Melhorar Estraga (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5oITwDGkkWE8RxG8LQ6AV6"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 155284,
-      "name": "Gatilho - Ao Vivo",
-      "url": "https://open.spotify.com/track/42nZBOwXNdO24Ml032bLBS"
     }
   ],
   "unique_name": "Top Brasil",

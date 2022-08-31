@@ -1,12 +1,12 @@
 {
   "description": "West African love stories wrapped up in song",
-  "num_followers": 1653,
+  "num_followers": 1669,
   "original_name": "Lovin' Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMDZiNmMxMTYyMjBiNjMwYzA4M2VhNmYyMWI5NWE5ZjA0",
+  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMDdiZjQzOGQ0MDM3YTJkODNiYmEyZjk2MWIwYmYzZjYy",
   "tracks": [
     {
       "added_at": "2022-07-07 23:00:00",
@@ -93,6 +93,42 @@
       "url": "https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh"
     },
     {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Calm Down (with Selena Gomez)",
+        "url": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 239317,
+      "name": "Calm Down (with Selena Gomez)",
+      "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "The Brother's Keeper",
+        "url": "https://open.spotify.com/album/0g7K5tuXiGzf5K6umuzCRX"
+      },
+      "artists": [
+        {
+          "name": "chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        }
+      ],
+      "duration_ms": 168275,
+      "name": "Pour Me a Drink",
+      "url": "https://open.spotify.com/track/1ebcm76NK3TarOZBvBRz3P"
+    },
+    {
       "added_at": "2022-02-11 10:48:58",
       "album": {
         "name": "Made In Lagos",
@@ -111,22 +147,6 @@
       "duration_ms": 248040,
       "name": "Essence (feat. Tems)",
       "url": "https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "The Brother's Keeper",
-        "url": "https://open.spotify.com/album/0g7K5tuXiGzf5K6umuzCRX"
-      },
-      "artists": [
-        {
-          "name": "chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
-        }
-      ],
-      "duration_ms": 168275,
-      "name": "Pour Me a Drink",
-      "url": "https://open.spotify.com/track/1ebcm76NK3TarOZBvBRz3P"
     },
     {
       "added_at": "2022-05-19 23:00:00",
@@ -151,26 +171,6 @@
       "duration_ms": 212975,
       "name": "Monalisa",
       "url": "https://open.spotify.com/track/3baPniPXS0iEII8rDUJdYP"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "Calm Down (with Selena Gomez)",
-        "url": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 239317,
-      "name": "Calm Down (with Selena Gomez)",
-      "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
     },
     {
       "added_at": "2022-05-12 23:00:00",
@@ -437,42 +437,6 @@
       "url": "https://open.spotify.com/track/5k5duWxo5HqhetBe6ucgZJ"
     },
     {
-      "added_at": "2022-06-23 23:00:00",
-      "album": {
-        "name": "SHOWING OFF HER BODY (with Davido)",
-        "url": "https://open.spotify.com/album/5CgztNME0IW2ebmYmjWqUN"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 212639,
-      "name": "SHOWING OFF HER BODY (with Davido)",
-      "url": "https://open.spotify.com/track/5xHodqknQtgokj6oO1giHb"
-    },
-    {
-      "added_at": "2022-03-18 00:00:00",
-      "album": {
-        "name": "Dada",
-        "url": "https://open.spotify.com/album/0ogWb5mN0ZG6U1aMX7r4ai"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 161538,
-      "name": "Dada",
-      "url": "https://open.spotify.com/track/6SLhDU3r8FLmESRyWZypjT"
-    },
-    {
       "added_at": "2022-02-11 10:48:58",
       "album": {
         "name": "Love Don't Cost A Dime (Re-Up)",
@@ -491,6 +455,42 @@
       "duration_ms": 147600,
       "name": "Love Don't Cost A Dime (Re-Up)",
       "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
+    },
+    {
+      "added_at": "2022-03-18 00:00:00",
+      "album": {
+        "name": "Dada",
+        "url": "https://open.spotify.com/album/0ogWb5mN0ZG6U1aMX7r4ai"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 161538,
+      "name": "Dada",
+      "url": "https://open.spotify.com/track/6SLhDU3r8FLmESRyWZypjT"
+    },
+    {
+      "added_at": "2022-06-23 23:00:00",
+      "album": {
+        "name": "SHOWING OFF HER BODY (with Davido)",
+        "url": "https://open.spotify.com/album/5CgztNME0IW2ebmYmjWqUN"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 212639,
+      "name": "SHOWING OFF HER BODY (with Davido)",
+      "url": "https://open.spotify.com/track/5xHodqknQtgokj6oO1giHb"
     },
     {
       "added_at": "2022-02-11 10:48:58",
@@ -741,22 +741,6 @@
       "url": "https://open.spotify.com/track/67bOItGZHSECTH9LffxpUm"
     },
     {
-      "added_at": "2022-02-24 23:01:00",
-      "album": {
-        "name": "Foreigner",
-        "url": "https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 234384,
-      "name": "Foreigner",
-      "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
-    },
-    {
       "added_at": "2022-02-11 10:48:58",
       "album": {
         "name": "KOLO (feat. Oxlade)",
@@ -775,6 +759,22 @@
       "duration_ms": 168013,
       "name": "KOLO (feat. Oxlade)",
       "url": "https://open.spotify.com/track/1UM3RVanAaakxcx9GkfNTL"
+    },
+    {
+      "added_at": "2022-02-24 23:01:00",
+      "album": {
+        "name": "Foreigner",
+        "url": "https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 234384,
+      "name": "Foreigner",
+      "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
     },
     {
       "added_at": "2022-05-05 23:00:00",
@@ -881,22 +881,6 @@
       "url": "https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz"
     },
     {
-      "added_at": "2022-02-11 10:48:58",
-      "album": {
-        "name": "Laughter, Tears & Goosebumps",
-        "url": "https://open.spotify.com/album/4dZjYBEciWomanesAv3fie"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 165040,
-      "name": "King",
-      "url": "https://open.spotify.com/track/1IARNA3zsu39Kul2ov9n3J"
-    },
-    {
       "added_at": "2022-07-07 23:00:00",
       "album": {
         "name": "No Dey Form",
@@ -911,6 +895,22 @@
       "duration_ms": 140540,
       "name": "No Dey Form",
       "url": "https://open.spotify.com/track/1a5glQzge8OW5w2izckOGN"
+    },
+    {
+      "added_at": "2022-02-11 10:48:58",
+      "album": {
+        "name": "Laughter, Tears & Goosebumps",
+        "url": "https://open.spotify.com/album/4dZjYBEciWomanesAv3fie"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 165040,
+      "name": "King",
+      "url": "https://open.spotify.com/track/1IARNA3zsu39Kul2ov9n3J"
     },
     {
       "added_at": "2022-02-11 10:48:58",
@@ -1013,20 +1013,20 @@
       "url": "https://open.spotify.com/track/06mcgnr3eJ8cF8ed0WfdPA"
     },
     {
-      "added_at": "2022-08-05 07:04:42",
+      "added_at": "2022-08-22 18:00:00",
       "album": {
-        "name": "Playboy",
-        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
+        "name": "In My Mind - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4O5mKHI9LNEB3WetqF8zOd"
       },
       "artists": [
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 179246,
-      "name": "Sofri",
-      "url": "https://open.spotify.com/track/6S5XNauc7v8FLJWEIk0z2c"
+      "duration_ms": 136800,
+      "name": "In My Mind - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/1echqVmMoUZE22trTEqfL5"
     },
     {
       "added_at": "2022-02-11 10:48:58",
@@ -1065,22 +1065,6 @@
       "url": "https://open.spotify.com/track/2ruXXt5eDmdm35hTCnGy0s"
     },
     {
-      "added_at": "2022-08-22 18:00:00",
-      "album": {
-        "name": "In My Mind - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/4O5mKHI9LNEB3WetqF8zOd"
-      },
-      "artists": [
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "In My Mind - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/1echqVmMoUZE22trTEqfL5"
-    },
-    {
       "added_at": "2022-08-05 07:04:42",
       "album": {
         "name": "B A H D",
@@ -1099,6 +1083,22 @@
       "duration_ms": 147326,
       "name": "Knee Down",
       "url": "https://open.spotify.com/track/3ovSaVUTDOtxfDw5xh9qJ4"
+    },
+    {
+      "added_at": "2022-08-05 07:04:42",
+      "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 179246,
+      "name": "Sofri",
+      "url": "https://open.spotify.com/track/6S5XNauc7v8FLJWEIk0z2c"
     },
     {
       "added_at": "2022-07-21 23:00:00",
@@ -1123,6 +1123,22 @@
       "duration_ms": 195604,
       "name": "Nowhere To Hide",
       "url": "https://open.spotify.com/track/6GnIaawrUwU0Agm7BM1wFu"
+    },
+    {
+      "added_at": "2022-03-31 23:00:00",
+      "album": {
+        "name": "For Days",
+        "url": "https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2"
+      },
+      "artists": [
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 164557,
+      "name": "For Days",
+      "url": "https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz"
     },
     {
       "added_at": "2022-02-11 10:48:58",
@@ -1165,22 +1181,6 @@
       "url": "https://open.spotify.com/track/6XPPB2eOwBid6EbveTmVYe"
     },
     {
-      "added_at": "2022-07-28 23:00:00",
-      "album": {
-        "name": "Kaba",
-        "url": "https://open.spotify.com/album/6a7Uj2S1gntFbfKvR4EHuO"
-      },
-      "artists": [
-        {
-          "name": "Camidoh",
-          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
-        }
-      ],
-      "duration_ms": 171456,
-      "name": "Kaba",
-      "url": "https://open.spotify.com/track/5LXGba7dYrvcLBTVADEOZA"
-    },
-    {
       "added_at": "2022-08-25 23:00:00",
       "album": {
         "name": "Call of Duty",
@@ -1197,20 +1197,20 @@
       "url": "https://open.spotify.com/track/2wfWK2cmM5DZ4VnT7rDnFO"
     },
     {
-      "added_at": "2022-03-31 23:00:00",
+      "added_at": "2022-07-28 23:00:00",
       "album": {
-        "name": "For Days",
-        "url": "https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2"
+        "name": "Kaba",
+        "url": "https://open.spotify.com/album/6a7Uj2S1gntFbfKvR4EHuO"
       },
       "artists": [
         {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
         }
       ],
-      "duration_ms": 164557,
-      "name": "For Days",
-      "url": "https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz"
+      "duration_ms": 171456,
+      "name": "Kaba",
+      "url": "https://open.spotify.com/track/5LXGba7dYrvcLBTVADEOZA"
     },
     {
       "added_at": "2022-02-11 10:48:58",

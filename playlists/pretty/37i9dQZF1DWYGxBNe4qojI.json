@@ -1,12 +1,12 @@
 {
   "description": "Where it all started. Cover: Cam'Ron",
-  "num_followers": 227236,
+  "num_followers": 227329,
   "original_name": "I Love My East Coast Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjY0ODAwMCwwMDAwMDAwMGQyMWNhYTFjYmY1NDY1NmM5ZThiZDMxYTk4YmE3NWNk",
+  "snapshot_id": "MTY1NjY0ODAwMCwwMDAwMDAwMDg4NjQ0YWRkZTYyNGFiMDE0Njc4MTAyZTNhZDcyYzUw",
   "tracks": [
     {
       "added_at": "2022-07-01 04:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-07-01 04:00:00",
       "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 179466,
-      "name": "What Up Gangsta",
-      "url": "https://open.spotify.com/track/1CYyIsAaTrnmJ8MO2rec5f"
-    },
-    {
-      "added_at": "2022-07-01 04:00:00",
-      "album": {
         "name": "Goodfellas",
         "url": "https://open.spotify.com/album/1DKIWe0KC9j4psJ7pi7CDu"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 249933,
       "name": "Next Level - Nyte Time Mix",
       "url": "https://open.spotify.com/track/2mehHNForRahnPueLQAgfv"
+    },
+    {
+      "added_at": "2022-07-01 04:00:00",
+      "album": {
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 179466,
+      "name": "What Up Gangsta",
+      "url": "https://open.spotify.com/track/1CYyIsAaTrnmJ8MO2rec5f"
     }
   ],
   "unique_name": "I Love My East Coast Classics",

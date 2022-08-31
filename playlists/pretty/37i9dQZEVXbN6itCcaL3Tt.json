@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Poland.",
-  "num_followers": 247772,
+  "num_followers": 247799,
   "original_name": "Top 50 - Poland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzE1MDg1MzQzLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzE1MTcxMzU4LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-08-29 10:49:03",
+      "added_at": "2022-08-30 10:42:38",
       "album": {
         "name": "JESTEM POJ384NY",
         "url": "https://open.spotify.com/album/0z8cYvhL11Txp6qF1MojKc"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/4lPAZiTJbaQ4irMzcq0GOU"
     },
     {
-      "added_at": "2022-08-29 10:49:03",
+      "added_at": "2022-08-30 10:42:38",
       "album": {
         "name": "PRODUKT47",
         "url": "https://open.spotify.com/album/2XfYRBRUaesCsBix9jYEwn"
@@ -45,7 +45,23 @@
       "url": "https://open.spotify.com/track/1SDoIIjDCFjJuglM7qbIqf"
     },
     {
-      "added_at": "2022-08-29 10:49:03",
+      "added_at": "2022-08-30 10:42:38",
+      "album": {
+        "name": "Pretty Boy",
+        "url": "https://open.spotify.com/album/01S7gAvH21k1qlD2jilmPQ"
+      },
+      "artists": [
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        }
+      ],
+      "duration_ms": 151106,
+      "name": "RiRi",
+      "url": "https://open.spotify.com/track/5YvL3ytkusKcM5ozxD9fKN"
+    },
+    {
+      "added_at": "2022-08-30 10:42:38",
       "album": {
         "name": "Dopehouse Mixtape",
         "url": "https://open.spotify.com/album/6ELqUBxrTSFFjaTratUXMI"
@@ -69,43 +85,7 @@
       "url": "https://open.spotify.com/track/3f9Ugg030LDe0p6ospTORC"
     },
     {
-      "added_at": "2022-08-29 10:49:03",
-      "album": {
-        "name": "Pretty Boy",
-        "url": "https://open.spotify.com/album/01S7gAvH21k1qlD2jilmPQ"
-      },
-      "artists": [
-        {
-          "name": "White 2115",
-          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
-        }
-      ],
-      "duration_ms": 151106,
-      "name": "RiRi",
-      "url": "https://open.spotify.com/track/5YvL3ytkusKcM5ozxD9fKN"
-    },
-    {
-      "added_at": "2022-08-29 10:49:03",
-      "album": {
-        "name": "UCZTA",
-        "url": "https://open.spotify.com/album/7G9ImTT4M1vC44tkVgtdQz"
-      },
-      "artists": [
-        {
-          "name": "sanah",
-          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
-        },
-        {
-          "name": "Dawid Podsiad\u0142o",
-          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
-        }
-      ],
-      "duration_ms": 225767,
-      "name": "ostatnia nadzieja",
-      "url": "https://open.spotify.com/track/2KTfSSKBBfMLXwDqrtoOE5"
-    },
-    {
-      "added_at": "2022-08-29 10:49:03",
+      "added_at": "2022-08-30 10:42:38",
       "album": {
         "name": "Nie Mam Czasu Na Wakacje",
         "url": "https://open.spotify.com/album/6HFlpGs0TiNuCl3RZAWFH3"
@@ -133,7 +113,7 @@
       "url": "https://open.spotify.com/track/5FYjUbPN2SDxLVBWGxkb9z"
     },
     {
-      "added_at": "2022-08-29 10:49:03",
+      "added_at": "2022-08-30 10:42:38",
       "album": {
         "name": "UCZTA",
         "url": "https://open.spotify.com/album/7G9ImTT4M1vC44tkVgtdQz"
@@ -153,31 +133,7 @@
       "url": "https://open.spotify.com/track/3YqafSKCCazkxZUdO23iWf"
     },
     {
-      "added_at": "2022-08-29 10:49:03",
-      "album": {
-        "name": "Pijemy Za Lepszy Czas",
-        "url": "https://open.spotify.com/album/7ev2BtFyL6h0hBOU5igPyb"
-      },
-      "artists": [
-        {
-          "name": "Smolasty",
-          "url": "https://open.spotify.com/artist/5GwdnlZaSwKpHmjcAijATP"
-        },
-        {
-          "name": "730 Huncho",
-          "url": "https://open.spotify.com/artist/7li6R0hKFXu7496e0Yialv"
-        },
-        {
-          "name": "Nearr",
-          "url": "https://open.spotify.com/artist/5qgvgbyv6g7BULhgas4QIy"
-        }
-      ],
-      "duration_ms": 142657,
-      "name": "Pijemy Za Lepszy Czas",
-      "url": "https://open.spotify.com/track/032CWjRKDdkVHAsrdgOj1w"
-    },
-    {
-      "added_at": "2022-08-29 10:49:03",
+      "added_at": "2022-08-30 10:42:38",
       "album": {
         "name": "TURYSTA",
         "url": "https://open.spotify.com/album/4OeyU2KLcFH1OiljSDxUbZ"
@@ -209,7 +165,7 @@
       "url": "https://open.spotify.com/track/1A9coun3RG2nHmxAnajLYG"
     },
     {
-      "added_at": "2022-08-29 10:49:03",
+      "added_at": "2022-08-30 10:42:38",
       "album": {
         "name": "PRODUKT47",
         "url": "https://open.spotify.com/album/2XfYRBRUaesCsBix9jYEwn"
@@ -229,7 +185,51 @@
       "url": "https://open.spotify.com/track/5GqUS2hyZj73WXpIamn5gA"
     },
     {
-      "added_at": "2022-08-29 10:49:03",
+      "added_at": "2022-08-30 10:42:38",
+      "album": {
+        "name": "Pijemy Za Lepszy Czas",
+        "url": "https://open.spotify.com/album/7ev2BtFyL6h0hBOU5igPyb"
+      },
+      "artists": [
+        {
+          "name": "Smolasty",
+          "url": "https://open.spotify.com/artist/5GwdnlZaSwKpHmjcAijATP"
+        },
+        {
+          "name": "730 Huncho",
+          "url": "https://open.spotify.com/artist/7li6R0hKFXu7496e0Yialv"
+        },
+        {
+          "name": "Nearr",
+          "url": "https://open.spotify.com/artist/5qgvgbyv6g7BULhgas4QIy"
+        }
+      ],
+      "duration_ms": 142657,
+      "name": "Pijemy Za Lepszy Czas",
+      "url": "https://open.spotify.com/track/032CWjRKDdkVHAsrdgOj1w"
+    },
+    {
+      "added_at": "2022-08-30 10:42:38",
+      "album": {
+        "name": "UCZTA",
+        "url": "https://open.spotify.com/album/7G9ImTT4M1vC44tkVgtdQz"
+      },
+      "artists": [
+        {
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+        },
+        {
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        }
+      ],
+      "duration_ms": 225767,
+      "name": "ostatnia nadzieja",
+      "url": "https://open.spotify.com/track/2KTfSSKBBfMLXwDqrtoOE5"
+    },
+    {
+      "added_at": "2022-08-30 10:42:38",
       "album": {
         "name": "Z\u0142ote Tarasy",
         "url": "https://open.spotify.com/album/7zmwRrJPhyxLiVgtMtJlW1"
@@ -249,27 +249,7 @@
       "url": "https://open.spotify.com/track/0dorKIz071s55Jy0zxb4aW"
     },
     {
-      "added_at": "2022-08-29 10:49:03",
-      "album": {
-        "name": "Ostatni raz zata\u0144czysz ze mn\u0105",
-        "url": "https://open.spotify.com/album/1VgKMJgE2oTIExXLyvp1ub"
-      },
-      "artists": [
-        {
-          "name": "Tribbs",
-          "url": "https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L"
-        },
-        {
-          "name": "Kuba\u0144czyk",
-          "url": "https://open.spotify.com/artist/76Uu7lnLuTOmH2eZsKZTan"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "Ostatni raz zata\u0144czysz ze mn\u0105",
-      "url": "https://open.spotify.com/track/7mJlWux2bUOGUFMyCeDU8R"
-    },
-    {
-      "added_at": "2022-08-29 10:49:03",
+      "added_at": "2022-08-30 10:42:38",
       "album": {
         "name": "Ferrari",
         "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
@@ -289,7 +269,27 @@
       "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
     },
     {
-      "added_at": "2022-08-29 10:49:03",
+      "added_at": "2022-08-30 10:42:38",
+      "album": {
+        "name": "Ostatni raz zata\u0144czysz ze mn\u0105",
+        "url": "https://open.spotify.com/album/1VgKMJgE2oTIExXLyvp1ub"
+      },
+      "artists": [
+        {
+          "name": "Tribbs",
+          "url": "https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L"
+        },
+        {
+          "name": "Kuba\u0144czyk",
+          "url": "https://open.spotify.com/artist/76Uu7lnLuTOmH2eZsKZTan"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "Ostatni raz zata\u0144czysz ze mn\u0105",
+      "url": "https://open.spotify.com/track/7mJlWux2bUOGUFMyCeDU8R"
+    },
+    {
+      "added_at": "2022-08-30 10:42:38",
       "album": {
         "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
         "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
@@ -305,39 +305,7 @@
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
     },
     {
-      "added_at": "2022-08-29 10:49:03",
-      "album": {
-        "name": "Wygl\u0105dasz Idealnie",
-        "url": "https://open.spotify.com/album/3z4u04BkRO9sTUOdDEi6zg"
-      },
-      "artists": [
-        {
-          "name": "Skolim",
-          "url": "https://open.spotify.com/artist/3RJrimoFyTK3SoTF4TaDSA"
-        }
-      ],
-      "duration_ms": 190445,
-      "name": "Wygl\u0105dasz Idealnie",
-      "url": "https://open.spotify.com/track/5AaRBuYteJwl8qRU33Zo1K"
-    },
-    {
-      "added_at": "2022-08-29 10:49:03",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 167303,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
-    },
-    {
-      "added_at": "2022-08-29 10:49:03",
+      "added_at": "2022-08-30 10:42:38",
       "album": {
         "name": "BEDOESIARA",
         "url": "https://open.spotify.com/album/4VhH1mvUxQfk9lr8jZ2Y0W"
@@ -369,47 +337,23 @@
       "url": "https://open.spotify.com/track/0wMGcWjZ2Lymgnbxjy5FXN"
     },
     {
-      "added_at": "2022-08-29 10:49:03",
+      "added_at": "2022-08-30 10:42:38",
       "album": {
-        "name": "La Manga",
-        "url": "https://open.spotify.com/album/159tAKVX40G35wTbZ7Efk0"
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
       "artists": [
         {
-          "name": "Alberto",
-          "url": "https://open.spotify.com/artist/79b4a4Bg30Y0RlO5de5jni"
-        },
-        {
-          "name": "Josef Bratan",
-          "url": "https://open.spotify.com/artist/4RoVw3AbSvjr1KFpzjBZgA"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 180806,
-      "name": "La Manga",
-      "url": "https://open.spotify.com/track/7ApeFeWYcnTTGOpo5b9Yx6"
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
     },
     {
-      "added_at": "2022-08-29 10:49:03",
-      "album": {
-        "name": "PATOPROHIBICJA (28.01.2022)",
-        "url": "https://open.spotify.com/album/6uc56byB6pbNq0P1irTCn7"
-      },
-      "artists": [
-        {
-          "name": "Mata",
-          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
-        },
-        {
-          "name": "FUNDACJA 420",
-          "url": "https://open.spotify.com/artist/2dYknSy44veSRSUq19AOMo"
-        }
-      ],
-      "duration_ms": 197052,
-      "name": "PATOPROHIBICJA (28.01.2022)",
-      "url": "https://open.spotify.com/track/4uOHYc6dCVLcNdQBRUlA0G"
-    },
-    {
-      "added_at": "2022-08-29 10:49:03",
+      "added_at": "2022-08-30 10:42:38",
       "album": {
         "name": "NO FACE",
         "url": "https://open.spotify.com/album/2d1hxwcJ7FPkZzEToQ0eB7"
@@ -433,7 +377,43 @@
       "url": "https://open.spotify.com/track/15TrHBCTobTCJ4ojq9mABc"
     },
     {
-      "added_at": "2022-08-29 10:49:03",
+      "added_at": "2022-08-30 10:42:38",
+      "album": {
+        "name": "PATOPROHIBICJA (28.01.2022)",
+        "url": "https://open.spotify.com/album/6uc56byB6pbNq0P1irTCn7"
+      },
+      "artists": [
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        },
+        {
+          "name": "FUNDACJA 420",
+          "url": "https://open.spotify.com/artist/2dYknSy44veSRSUq19AOMo"
+        }
+      ],
+      "duration_ms": 197052,
+      "name": "PATOPROHIBICJA (28.01.2022)",
+      "url": "https://open.spotify.com/track/4uOHYc6dCVLcNdQBRUlA0G"
+    },
+    {
+      "added_at": "2022-08-30 10:42:38",
+      "album": {
+        "name": "Wygl\u0105dasz Idealnie",
+        "url": "https://open.spotify.com/album/3z4u04BkRO9sTUOdDEi6zg"
+      },
+      "artists": [
+        {
+          "name": "Skolim",
+          "url": "https://open.spotify.com/artist/3RJrimoFyTK3SoTF4TaDSA"
+        }
+      ],
+      "duration_ms": 190445,
+      "name": "Wygl\u0105dasz Idealnie",
+      "url": "https://open.spotify.com/track/5AaRBuYteJwl8qRU33Zo1K"
+    },
+    {
+      "added_at": "2022-08-30 10:42:38",
       "album": {
         "name": "M\u00f3j przykry lajf (Jakub On Stage)",
         "url": "https://open.spotify.com/album/16F7vVrPbyGsCqrarqimZG"
@@ -449,7 +429,7 @@
       "url": "https://open.spotify.com/track/70XsD6rvdkiozbS82mAl7k"
     },
     {
-      "added_at": "2022-08-29 10:49:03",
+      "added_at": "2022-08-30 10:42:38",
       "album": {
         "name": "Any\u017cowe \u017celki",
         "url": "https://open.spotify.com/album/5bYQfIpnHyL18WS668K4Ll"
@@ -465,43 +445,27 @@
       "url": "https://open.spotify.com/track/7AGGiiTX5RhsVM2rYF6s5O"
     },
     {
-      "added_at": "2022-08-29 10:49:03",
+      "added_at": "2022-08-30 10:42:38",
       "album": {
-        "name": "UCZTA",
-        "url": "https://open.spotify.com/album/7G9ImTT4M1vC44tkVgtdQz"
+        "name": "La Manga",
+        "url": "https://open.spotify.com/album/159tAKVX40G35wTbZ7Efk0"
       },
       "artists": [
         {
-          "name": "sanah",
-          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+          "name": "Alberto",
+          "url": "https://open.spotify.com/artist/79b4a4Bg30Y0RlO5de5jni"
         },
         {
-          "name": "Kwiat Jab\u0142oni",
-          "url": "https://open.spotify.com/artist/53l3yjX8ITilPIlCRsVKEB"
+          "name": "Josef Bratan",
+          "url": "https://open.spotify.com/artist/4RoVw3AbSvjr1KFpzjBZgA"
         }
       ],
-      "duration_ms": 203394,
-      "name": "Szary \u015bwiat",
-      "url": "https://open.spotify.com/track/0IeTXtlaZaJ31r0TfPu6Gc"
+      "duration_ms": 180806,
+      "name": "La Manga",
+      "url": "https://open.spotify.com/track/7ApeFeWYcnTTGOpo5b9Yx6"
     },
     {
-      "added_at": "2022-08-29 10:49:03",
-      "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/4WQA0C2nwJvBMTdsjf5JOm"
-      },
-      "artists": [
-        {
-          "name": "White 2115",
-          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
-        }
-      ],
-      "duration_ms": 192760,
-      "name": "California",
-      "url": "https://open.spotify.com/track/2nFaT0t36H6UX3wN3Vxvjm"
-    },
-    {
-      "added_at": "2022-08-29 10:49:03",
+      "added_at": "2022-08-30 10:42:38",
       "album": {
         "name": "PRODUKT47",
         "url": "https://open.spotify.com/album/2XfYRBRUaesCsBix9jYEwn"
@@ -521,7 +485,63 @@
       "url": "https://open.spotify.com/track/7jCy1opEtV4a0TnKrtsSdo"
     },
     {
-      "added_at": "2022-08-29 10:49:03",
+      "added_at": "2022-08-30 10:42:38",
+      "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/4WQA0C2nwJvBMTdsjf5JOm"
+      },
+      "artists": [
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        }
+      ],
+      "duration_ms": 192760,
+      "name": "California",
+      "url": "https://open.spotify.com/track/2nFaT0t36H6UX3wN3Vxvjm"
+    },
+    {
+      "added_at": "2022-08-30 10:42:38",
+      "album": {
+        "name": "UCZTA",
+        "url": "https://open.spotify.com/album/7G9ImTT4M1vC44tkVgtdQz"
+      },
+      "artists": [
+        {
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+        },
+        {
+          "name": "Kwiat Jab\u0142oni",
+          "url": "https://open.spotify.com/artist/53l3yjX8ITilPIlCRsVKEB"
+        }
+      ],
+      "duration_ms": 203394,
+      "name": "Szary \u015bwiat",
+      "url": "https://open.spotify.com/track/0IeTXtlaZaJ31r0TfPu6Gc"
+    },
+    {
+      "added_at": "2022-08-30 10:42:38",
+      "album": {
+        "name": "PRODUKT47",
+        "url": "https://open.spotify.com/album/2XfYRBRUaesCsBix9jYEwn"
+      },
+      "artists": [
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        },
+        {
+          "name": "@atutowy",
+          "url": "https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a"
+        }
+      ],
+      "duration_ms": 183133,
+      "name": "Pieni\u0105dze, Dziewczyny, Zwrotki",
+      "url": "https://open.spotify.com/track/3izCgazreV74HxRq40mkFR"
+    },
+    {
+      "added_at": "2022-08-30 10:42:38",
       "album": {
         "name": "M\u0142ody Matczak",
         "url": "https://open.spotify.com/album/7vYR7oLh93zb38m880M8bd"
@@ -541,23 +561,7 @@
       "url": "https://open.spotify.com/track/5sGv8YdAa3XjggnbpF9NC9"
     },
     {
-      "added_at": "2022-08-29 10:49:03",
-      "album": {
-        "name": "Hounds Of Love",
-        "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 298933,
-      "name": "Running Up That Hill (A Deal With God)",
-      "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
-    },
-    {
-      "added_at": "2022-08-29 10:49:03",
+      "added_at": "2022-08-30 10:42:38",
       "album": {
         "name": "Pretty Boy",
         "url": "https://open.spotify.com/album/01S7gAvH21k1qlD2jilmPQ"
@@ -573,27 +577,7 @@
       "url": "https://open.spotify.com/track/18DbAECX4iPyws8Ux7MVMX"
     },
     {
-      "added_at": "2022-08-29 10:49:03",
-      "album": {
-        "name": "VANILLA",
-        "url": "https://open.spotify.com/album/4TBHPY8fqnKlbDNVk2Gu4G"
-      },
-      "artists": [
-        {
-          "name": "FRIZ",
-          "url": "https://open.spotify.com/artist/6K02Q2fEVl7WMmMqN85tIc"
-        },
-        {
-          "name": "Przemek.pro",
-          "url": "https://open.spotify.com/artist/0c5F4dAWCo7429DSHz0IhE"
-        }
-      ],
-      "duration_ms": 136500,
-      "name": "VANILLA",
-      "url": "https://open.spotify.com/track/28xVHKzee6ujyNhFJjdbiq"
-    },
-    {
-      "added_at": "2022-08-29 10:49:03",
+      "added_at": "2022-08-30 10:42:38",
       "album": {
         "name": "Awaryjne \u015bwiat\u0142a",
         "url": "https://open.spotify.com/album/16VnzZ0tqCOOtzNOHEqtme"
@@ -617,7 +601,39 @@
       "url": "https://open.spotify.com/track/5unyYFSkKz0lhsNsAx3fAz"
     },
     {
-      "added_at": "2022-08-29 10:49:03",
+      "added_at": "2022-08-30 10:42:38",
+      "album": {
+        "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 298933,
+      "name": "Running Up That Hill (A Deal With God)",
+      "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
+    },
+    {
+      "added_at": "2022-08-30 10:42:38",
+      "album": {
+        "name": "Wjazd",
+        "url": "https://open.spotify.com/album/1KryqHNYj6hiInl6mTpwR7"
+      },
+      "artists": [
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        }
+      ],
+      "duration_ms": 184980,
+      "name": "Wjazd",
+      "url": "https://open.spotify.com/track/4kzeKZ54IXfMo6Sv9xNXDP"
+    },
+    {
+      "added_at": "2022-08-30 10:42:38",
       "album": {
         "name": "Jeszcze B\u0119dzie Pi\u0119knie",
         "url": "https://open.spotify.com/album/6xIt4xgrninCqwBOscisnb"
@@ -633,27 +649,27 @@
       "url": "https://open.spotify.com/track/0IANgBgdiyhHg0gXdN8zdW"
     },
     {
-      "added_at": "2022-08-29 10:49:03",
+      "added_at": "2022-08-30 10:42:38",
       "album": {
-        "name": "PRODUKT47",
-        "url": "https://open.spotify.com/album/2XfYRBRUaesCsBix9jYEwn"
+        "name": "VANILLA",
+        "url": "https://open.spotify.com/album/4TBHPY8fqnKlbDNVk2Gu4G"
       },
       "artists": [
         {
-          "name": "Oki",
-          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+          "name": "FRIZ",
+          "url": "https://open.spotify.com/artist/6K02Q2fEVl7WMmMqN85tIc"
         },
         {
-          "name": "@atutowy",
-          "url": "https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a"
+          "name": "Przemek.pro",
+          "url": "https://open.spotify.com/artist/0c5F4dAWCo7429DSHz0IhE"
         }
       ],
-      "duration_ms": 183133,
-      "name": "Pieni\u0105dze, Dziewczyny, Zwrotki",
-      "url": "https://open.spotify.com/track/3izCgazreV74HxRq40mkFR"
+      "duration_ms": 136500,
+      "name": "VANILLA",
+      "url": "https://open.spotify.com/track/28xVHKzee6ujyNhFJjdbiq"
     },
     {
-      "added_at": "2022-08-29 10:49:03",
+      "added_at": "2022-08-30 10:42:38",
       "album": {
         "name": "M\u0142ody Matczak",
         "url": "https://open.spotify.com/album/7vYR7oLh93zb38m880M8bd"
@@ -677,23 +693,23 @@
       "url": "https://open.spotify.com/track/6eIVuPSZ7D8Q1uaZc8cQnz"
     },
     {
-      "added_at": "2022-08-29 10:49:03",
+      "added_at": "2022-08-30 10:42:38",
       "album": {
-        "name": "Wjazd",
-        "url": "https://open.spotify.com/album/1KryqHNYj6hiInl6mTpwR7"
+        "name": "Mercury - Acts 1 & 2",
+        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
       },
       "artists": [
         {
-          "name": "Malik Montana",
-          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
         }
       ],
-      "duration_ms": 184980,
-      "name": "Wjazd",
-      "url": "https://open.spotify.com/track/4kzeKZ54IXfMo6Sv9xNXDP"
+      "duration_ms": 165264,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
     },
     {
-      "added_at": "2022-08-29 10:49:03",
+      "added_at": "2022-08-30 10:42:38",
       "album": {
         "name": "W samo po\u0142udnie (Deluxe)",
         "url": "https://open.spotify.com/album/68vOoh6kzluqI6XpnOqX4H"
@@ -713,23 +729,35 @@
       "url": "https://open.spotify.com/track/0e9dWwZD9EemG1w92C3JLp"
     },
     {
-      "added_at": "2022-08-29 10:49:03",
+      "added_at": "2022-08-30 10:42:38",
       "album": {
-        "name": "Mercury - Acts 1 & 2",
-        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
+        "name": "BRUCE",
+        "url": "https://open.spotify.com/album/2XCPTiPn0jX48ObQTlEonK"
       },
       "artists": [
         {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          "name": "2115",
+          "url": "https://open.spotify.com/artist/3rnzk5HZE15IjAp0yiP41m"
+        },
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        },
+        {
+          "name": "Kuqe 2115",
+          "url": "https://open.spotify.com/artist/2FtYzWBUVhZ2vfy8S207Zf"
+        },
+        {
+          "name": "flexxy2115",
+          "url": "https://open.spotify.com/artist/56znIsN2NyCMzIctR2xknQ"
         }
       ],
-      "duration_ms": 165264,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
+      "duration_ms": 123749,
+      "name": "BRUCE",
+      "url": "https://open.spotify.com/track/2rVb8XOOSpmKYYJT0w6veD"
     },
     {
-      "added_at": "2022-08-29 10:49:03",
+      "added_at": "2022-08-30 10:42:38",
       "album": {
         "name": "Belly Dancer",
         "url": "https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn"
@@ -749,7 +777,7 @@
       "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
     },
     {
-      "added_at": "2022-08-29 10:49:03",
+      "added_at": "2022-08-30 10:42:38",
       "album": {
         "name": "Hotel Maffija 2",
         "url": "https://open.spotify.com/album/27XrvOB16npe8CNDKc0GBk"
@@ -789,7 +817,23 @@
       "url": "https://open.spotify.com/track/1kuw8HFbvgAg3tNqPj00Mb"
     },
     {
-      "added_at": "2022-08-29 10:49:03",
+      "added_at": "2022-08-30 10:42:38",
+      "album": {
+        "name": "SUPERMODEL",
+        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 148064,
+      "name": "SUPERMODEL",
+      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
+    },
+    {
+      "added_at": "2022-08-30 10:42:38",
       "album": {
         "name": "Du\u017ce Oczy",
         "url": "https://open.spotify.com/album/5iv0i9LYnhx3qIDPGkIVnn"
@@ -817,119 +861,7 @@
       "url": "https://open.spotify.com/track/0O4OIQKow8DloWa7UzIgyd"
     },
     {
-      "added_at": "2022-08-29 10:49:03",
-      "album": {
-        "name": "BRUCE",
-        "url": "https://open.spotify.com/album/2XCPTiPn0jX48ObQTlEonK"
-      },
-      "artists": [
-        {
-          "name": "2115",
-          "url": "https://open.spotify.com/artist/3rnzk5HZE15IjAp0yiP41m"
-        },
-        {
-          "name": "White 2115",
-          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
-        },
-        {
-          "name": "Kuqe 2115",
-          "url": "https://open.spotify.com/artist/2FtYzWBUVhZ2vfy8S207Zf"
-        },
-        {
-          "name": "flexxy2115",
-          "url": "https://open.spotify.com/artist/56znIsN2NyCMzIctR2xknQ"
-        }
-      ],
-      "duration_ms": 123749,
-      "name": "BRUCE",
-      "url": "https://open.spotify.com/track/2rVb8XOOSpmKYYJT0w6veD"
-    },
-    {
-      "added_at": "2022-08-29 10:49:03",
-      "album": {
-        "name": "Z\u0142ote Bloki",
-        "url": "https://open.spotify.com/album/2RQlDuzLfDzU4CmfJQRyDR"
-      },
-      "artists": [
-        {
-          "name": "Mrozu",
-          "url": "https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX"
-        },
-        {
-          "name": "Vito Bambino",
-          "url": "https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o"
-        }
-      ],
-      "duration_ms": 191946,
-      "name": "Za Daleko",
-      "url": "https://open.spotify.com/track/6xOZxa5aOEdLvXSTMwDCjm"
-    },
-    {
-      "added_at": "2022-08-29 10:49:03",
-      "album": {
-        "name": "SUPERMODEL",
-        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 148064,
-      "name": "SUPERMODEL",
-      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
-    },
-    {
-      "added_at": "2022-08-29 10:49:03",
-      "album": {
-        "name": "Dreamland (+ Bonus Levels)",
-        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
-    },
-    {
-      "added_at": "2022-08-29 10:49:03",
-      "album": {
-        "name": "KOKAINA",
-        "url": "https://open.spotify.com/album/6D5QhO4NEBadXLBJ5cElJB"
-      },
-      "artists": [
-        {
-          "name": "DR. VODKA",
-          "url": "https://open.spotify.com/artist/3qb0oGqshqtUmp7AMfKoZi"
-        }
-      ],
-      "duration_ms": 166437,
-      "name": "KOKAINA",
-      "url": "https://open.spotify.com/track/4Xq0cVrd0JDXQ0p3mlKAr3"
-    },
-    {
-      "added_at": "2022-08-29 10:49:03",
-      "album": {
-        "name": "32",
-        "url": "https://open.spotify.com/album/6UkCnbBXx7i8B7bhirjsp3"
-      },
-      "artists": [
-        {
-          "name": "Zeju POG",
-          "url": "https://open.spotify.com/artist/25Sdw0GeQ3Vu5oL0QuGkw5"
-        }
-      ],
-      "duration_ms": 105600,
-      "name": "32",
-      "url": "https://open.spotify.com/track/4yfzBlOR4Rw0dHhVYKvfth"
-    },
-    {
-      "added_at": "2022-08-29 10:49:03",
+      "added_at": "2022-08-30 10:42:38",
       "album": {
         "name": "Sezon",
         "url": "https://open.spotify.com/album/1RVlCbWEE32ZGwRwztBIPK"
@@ -949,23 +881,63 @@
       "url": "https://open.spotify.com/track/0SD8brTHH3SVZ2cDwr6sDC"
     },
     {
-      "added_at": "2022-08-29 10:49:03",
+      "added_at": "2022-08-30 10:42:38",
       "album": {
-        "name": "Long Way Down",
-        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
+        "name": "Z\u0142ote Bloki",
+        "url": "https://open.spotify.com/album/2RQlDuzLfDzU4CmfJQRyDR"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "Mrozu",
+          "url": "https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX"
+        },
+        {
+          "name": "Vito Bambino",
+          "url": "https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o"
         }
       ],
-      "duration_ms": 244360,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
+      "duration_ms": 191946,
+      "name": "Za Daleko",
+      "url": "https://open.spotify.com/track/6xOZxa5aOEdLvXSTMwDCjm"
     },
     {
-      "added_at": "2022-08-29 10:49:03",
+      "added_at": "2022-08-30 10:42:38",
+      "album": {
+        "name": "Dreamland (+ Bonus Levels)",
+        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
+    },
+    {
+      "added_at": "2022-08-30 10:42:38",
+      "album": {
+        "name": "Dopehouse Mixtape",
+        "url": "https://open.spotify.com/album/6ELqUBxrTSFFjaTratUXMI"
+      },
+      "artists": [
+        {
+          "name": "Gibbs",
+          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
+        },
+        {
+          "name": "Dopehouse",
+          "url": "https://open.spotify.com/artist/1jGFwoIhmjGm0VMXTsi3dN"
+        }
+      ],
+      "duration_ms": 271759,
+      "name": "Znikam",
+      "url": "https://open.spotify.com/track/7wE9mPOd1BMrDiq3sQBYfM"
+    },
+    {
+      "added_at": "2022-08-30 10:42:38",
       "album": {
         "name": "LETNISKO",
         "url": "https://open.spotify.com/album/5JHHiO1j42tgSRrhNb6H6v"
@@ -985,23 +957,55 @@
       "url": "https://open.spotify.com/track/1qeJpVuhVscumLYp9YOZC7"
     },
     {
-      "added_at": "2022-08-29 10:49:03",
+      "added_at": "2022-08-30 10:42:38",
       "album": {
-        "name": "POST",
-        "url": "https://open.spotify.com/album/1sp6vUksf2fCFkMYuUXbfQ"
+        "name": "Long Way Down",
+        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
       },
       "artists": [
         {
-          "name": "Dawid Podsiad\u0142o",
-          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         }
       ],
-      "duration_ms": 171055,
-      "name": "POST",
-      "url": "https://open.spotify.com/track/0u7wjOCv1AbuEkI9UVyMZ6"
+      "duration_ms": 244360,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
     },
     {
-      "added_at": "2022-08-29 10:49:03",
+      "added_at": "2022-08-30 10:42:38",
+      "album": {
+        "name": "Seven Inches Of Satanic Panic",
+        "url": "https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 244804,
+      "name": "Mary On A Cross",
+      "url": "https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD"
+    },
+    {
+      "added_at": "2022-08-30 10:42:38",
+      "album": {
+        "name": "KOKAINA",
+        "url": "https://open.spotify.com/album/6D5QhO4NEBadXLBJ5cElJB"
+      },
+      "artists": [
+        {
+          "name": "DR. VODKA",
+          "url": "https://open.spotify.com/artist/3qb0oGqshqtUmp7AMfKoZi"
+        }
+      ],
+      "duration_ms": 166437,
+      "name": "KOKAINA",
+      "url": "https://open.spotify.com/track/4Xq0cVrd0JDXQ0p3mlKAr3"
+    },
+    {
+      "added_at": "2022-08-30 10:42:38",
       "album": {
         "name": "moja ciemno\u015b\u0107 (deluxe edition)",
         "url": "https://open.spotify.com/album/5JDuoSUawI1hto3pkbvyVS"

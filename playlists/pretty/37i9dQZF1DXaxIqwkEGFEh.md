@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Nardo Wick
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,121,844 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,122,268 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 36 | [Skywalka](https://open.spotify.com/track/55KWKDHTa4Y7OIA3gXPwEM) | [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz) | [Skywalka](https://open.spotify.com/album/4XIrYQm4Z4fe7GZNYtzwKm) | 3:10 |
 | 37 | [Blick Talk \(with PGF Nuk\)](https://open.spotify.com/track/6zoaB04jczoxsgImwPBiXp) | [BigKayBeezy](https://open.spotify.com/artist/4wpwsRGyik5kVa8fG37Q50), [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH) | [Cold Case](https://open.spotify.com/album/0nSDLlBLuu5M6CIckq4Be9) | 3:56 |
 | 38 | [Sniper Gang Freestyle Pt\. 2](https://open.spotify.com/track/1QQa1xdCx4t9DUgQH21Xoo) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz) | [Sniper Gang Freestyle Pt\. 2](https://open.spotify.com/album/6vOE77BmSitUxf8v4ZjUKW) | 2:44 |
-| 39 | [Real Bitch \(feat\. Gloss Up\)](https://open.spotify.com/track/4zH4kR30s4Cx6HMvodrf32) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Gloss Up](https://open.spotify.com/artist/0i5emUaPMWG7O3rAoXvvq8) | [Real Bitch \(feat\. Gloss Up\)](https://open.spotify.com/album/6MUUM532DEcR697rck5n90) | 2:04 |
+| 39 | [Real Bitch \(feat\. Gloss Up\)](https://open.spotify.com/track/4zH4kR30s4Cx6HMvodrf32) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Real Bitch \(feat\. Gloss Up\)](https://open.spotify.com/album/6MUUM532DEcR697rck5n90) | 2:04 |
 | 40 | [Chase Em Down \(feat\. G Herbo\)](https://open.spotify.com/track/6nUKL13cbO4ngkiPSQveRP) | [Lil Zay Osama](https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Trench Baby 3](https://open.spotify.com/album/0WcrXk7wQoVhbQSvIFpPMx) | 2:47 |
 | 41 | [Real Talk](https://open.spotify.com/track/32ny2YtiR7zKi7PBjiQ5Iy) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [The Big 3](https://open.spotify.com/album/48eC2urnoRGt6AeU7KsOoC) | 3:03 |
 | 42 | [Supercharge \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/5UoKOaI2Dg2a9Qgw5TsStq) | [Lil Jairmy](https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Supercharge \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/07ODE2Qy9EfewM8DVkW7ST) | 2:54 |

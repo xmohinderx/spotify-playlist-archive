@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1970s.",
-  "num_followers": 333241,
+  "num_followers": 333720,
   "original_name": "Soft 70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMwNTkwMCwwMDAwMDAwMDQ1Y2Q2NTJkMTJmOWZmOGNjZTczNWNhMDE3MDNlNmJm",
+  "snapshot_id": "MTY2MDMwNTkwMCwwMDAwMDAwMDNmZjQ2NTMyOGZhNDI4ZmNkMzcxNTkyZTAwZDFmZWQ5",
   "tracks": [
     {
       "added_at": "2022-08-12 12:05:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-08-12 12:05:00",
       "album": {
-        "name": "On the Waters",
-        "url": "https://open.spotify.com/album/2eTrV6WUTJtKFzg5iznPJ7"
-      },
-      "artists": [
-        {
-          "name": "Bread",
-          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
-        }
-      ],
-      "duration_ms": 192200,
-      "name": "Make It with You",
-      "url": "https://open.spotify.com/track/7wWw7hBmErNg9u5w6Xx0vy"
-    },
-    {
-      "added_at": "2022-08-12 12:05:00",
-      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 179760,
       "name": "Our House",
       "url": "https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv"
+    },
+    {
+      "added_at": "2022-08-12 12:05:00",
+      "album": {
+        "name": "On the Waters",
+        "url": "https://open.spotify.com/album/2eTrV6WUTJtKFzg5iznPJ7"
+      },
+      "artists": [
+        {
+          "name": "Bread",
+          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
+        }
+      ],
+      "duration_ms": 192200,
+      "name": "Make It with You",
+      "url": "https://open.spotify.com/track/7wWw7hBmErNg9u5w6Xx0vy"
     },
     {
       "added_at": "2022-08-12 12:05:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2022-08-12 12:05:00",
       "album": {
-        "name": "We Must Believe In Magic",
-        "url": "https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8"
-      },
-      "artists": [
-        {
-          "name": "Crystal Gayle",
-          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
-        }
-      ],
-      "duration_ms": 157653,
-      "name": "Don't It Make My Brown Eyes Blue",
-      "url": "https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV"
-    },
-    {
-      "added_at": "2022-08-12 12:05:00",
-      "album": {
         "name": "Sky's The Limit",
         "url": "https://open.spotify.com/album/1w68QsDEt1Rt5SiwOJNGFn"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 228160,
       "name": "Just My Imagination (Running Away With Me)",
       "url": "https://open.spotify.com/track/39Bd345OWEhRNyfayhp9gv"
+    },
+    {
+      "added_at": "2022-08-12 12:05:00",
+      "album": {
+        "name": "We Must Believe In Magic",
+        "url": "https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8"
+      },
+      "artists": [
+        {
+          "name": "Crystal Gayle",
+          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
+        }
+      ],
+      "duration_ms": 157653,
+      "name": "Don't It Make My Brown Eyes Blue",
+      "url": "https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV"
     },
     {
       "added_at": "2022-08-12 12:05:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2022-08-12 12:05:00",
       "album": {
-        "name": "Trafalgar",
-        "url": "https://open.spotify.com/album/2FHiXBmtRn9fuTRyRHWcnV"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 237826,
-      "name": "How Can You Mend A Broken Heart",
-      "url": "https://open.spotify.com/track/1jy0RbDHyBMTupSdc98XbG"
-    },
-    {
-      "added_at": "2022-08-12 12:05:00",
-      "album": {
         "name": "The Spy Who Loved Me",
         "url": "https://open.spotify.com/album/5k55f89cnXdy0BikkUeBHJ"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 212666,
       "name": "Nobody Does It Better",
       "url": "https://open.spotify.com/track/49RUdNvwSiUTC8fBh4KKoC"
+    },
+    {
+      "added_at": "2022-08-12 12:05:00",
+      "album": {
+        "name": "Trafalgar",
+        "url": "https://open.spotify.com/album/2FHiXBmtRn9fuTRyRHWcnV"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 237826,
+      "name": "How Can You Mend A Broken Heart",
+      "url": "https://open.spotify.com/track/1jy0RbDHyBMTupSdc98XbG"
     },
     {
       "added_at": "2022-08-12 12:05:00",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2022-08-12 12:05:00",
       "album": {
+        "name": "Spiral Staircase (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4g0FobFyVjCK1evYB6A4jY"
+      },
+      "artists": [
+        {
+          "name": "Ralph McTell",
+          "url": "https://open.spotify.com/artist/6uQnHzEj8hj0UZCKjBvTaG"
+        }
+      ],
+      "duration_ms": 248586,
+      "name": "Streets of London",
+      "url": "https://open.spotify.com/track/0P49pJa288tm8gKbFcofn9"
+    },
+    {
+      "added_at": "2022-08-12 12:05:00",
+      "album": {
         "name": "A Night on the Town",
         "url": "https://open.spotify.com/album/6z4jnK1fRHP80RJC8x9UFd"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 271200,
       "name": "The First Cut Is the Deepest",
       "url": "https://open.spotify.com/track/3FeYjbIVqvAhuTcwsE6K3v"
-    },
-    {
-      "added_at": "2022-08-12 12:05:00",
-      "album": {
-        "name": "Teaser And The Firecat (Remastered 2021)",
-        "url": "https://open.spotify.com/album/7ez8WRX4sGhKHZryJPJCNg"
-      },
-      "artists": [
-        {
-          "name": "Yusuf / Cat Stevens",
-          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
-        }
-      ],
-      "duration_ms": 168120,
-      "name": "Moonshadow - Remastered 2021",
-      "url": "https://open.spotify.com/track/5p3nvmoaAY03qGmBQApn0w"
     },
     {
       "added_at": "2022-08-12 12:05:00",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2022-08-12 12:05:00",
       "album": {
+        "name": "Teaser And The Firecat (Remastered 2021)",
+        "url": "https://open.spotify.com/album/7ez8WRX4sGhKHZryJPJCNg"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "duration_ms": 168120,
+      "name": "Moonshadow - Remastered 2021",
+      "url": "https://open.spotify.com/track/5p3nvmoaAY03qGmBQApn0w"
+    },
+    {
+      "added_at": "2022-08-12 12:05:00",
+      "album": {
         "name": "Closeup",
         "url": "https://open.spotify.com/album/3joWv9r8FR0dudduAgEDbX"
       },
@@ -1807,22 +1823,6 @@
       "duration_ms": 212013,
       "name": "My Eyes Adored You",
       "url": "https://open.spotify.com/track/2yDQVcj26tpi9IUJhw9xDs"
-    },
-    {
-      "added_at": "2022-08-12 12:05:00",
-      "album": {
-        "name": "Spiral Staircase (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4g0FobFyVjCK1evYB6A4jY"
-      },
-      "artists": [
-        {
-          "name": "Ralph McTell",
-          "url": "https://open.spotify.com/artist/6uQnHzEj8hj0UZCKjBvTaG"
-        }
-      ],
-      "duration_ms": 248586,
-      "name": "Streets of London",
-      "url": "https://open.spotify.com/track/0P49pJa288tm8gKbFcofn9"
     },
     {
       "added_at": "2022-08-12 12:05:00",
@@ -2099,22 +2099,6 @@
     {
       "added_at": "2022-08-12 12:05:00",
       "album": {
-        "name": "Hair Of The Dog",
-        "url": "https://open.spotify.com/album/5Zwyrn62m3Pyc0nvRa9CHF"
-      },
-      "artists": [
-        {
-          "name": "Nazareth",
-          "url": "https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP"
-        }
-      ],
-      "duration_ms": 233133,
-      "name": "Love Hurts",
-      "url": "https://open.spotify.com/track/1i5oEx2vFczQ2sCY3c6Kn5"
-    },
-    {
-      "added_at": "2022-08-12 12:05:00",
-      "album": {
         "name": "CSN",
         "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
       },
@@ -2127,6 +2111,22 @@
       "duration_ms": 133960,
       "name": "Just a Song Before I Go",
       "url": "https://open.spotify.com/track/4dAN7KcWCWx5jV6dpwtfvN"
+    },
+    {
+      "added_at": "2022-08-12 12:05:00",
+      "album": {
+        "name": "Hair Of The Dog",
+        "url": "https://open.spotify.com/album/5Zwyrn62m3Pyc0nvRa9CHF"
+      },
+      "artists": [
+        {
+          "name": "Nazareth",
+          "url": "https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP"
+        }
+      ],
+      "duration_ms": 233133,
+      "name": "Love Hurts",
+      "url": "https://open.spotify.com/track/1i5oEx2vFczQ2sCY3c6Kn5"
     },
     {
       "added_at": "2022-08-12 12:05:00",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2022-08-12 12:05:00",
       "album": {
-        "name": "All 'N All",
-        "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 277413,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/2GH5jo15wbTv1Ll7zXEzSg"
-    },
-    {
-      "added_at": "2022-08-12 12:05:00",
-      "album": {
         "name": "JT",
         "url": "https://open.spotify.com/album/0Pbc9Jq12a47mQ1z9yIuhn"
       },
@@ -2291,6 +2275,22 @@
       "duration_ms": 196800,
       "name": "Handy Man",
       "url": "https://open.spotify.com/track/70aUjWZmd9F3bRSsR4DwAJ"
+    },
+    {
+      "added_at": "2022-08-12 12:05:00",
+      "album": {
+        "name": "All 'N All",
+        "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 277413,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/2GH5jo15wbTv1Ll7zXEzSg"
     },
     {
       "added_at": "2022-08-12 12:05:00",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2022-08-12 12:05:00",
       "album": {
-        "name": "The Kick Inside",
-        "url": "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 158693,
-      "name": "The Man with the Child in His Eyes",
-      "url": "https://open.spotify.com/track/4xjVfArXNQRxAvsUpjmfMt"
-    },
-    {
-      "added_at": "2022-08-12 12:05:00",
-      "album": {
         "name": "Back to Front",
         "url": "https://open.spotify.com/album/1INjTJtV8EwpUZF2xgwvAt"
       },
@@ -2339,6 +2323,22 @@
       "duration_ms": 217728,
       "name": "Alone Again (Naturally)",
       "url": "https://open.spotify.com/track/6vuEG9sZtC4W2zT64f7zLF"
+    },
+    {
+      "added_at": "2022-08-12 12:05:00",
+      "album": {
+        "name": "The Kick Inside",
+        "url": "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 158693,
+      "name": "The Man with the Child in His Eyes",
+      "url": "https://open.spotify.com/track/4xjVfArXNQRxAvsUpjmfMt"
     },
     {
       "added_at": "2022-08-12 12:05:00",

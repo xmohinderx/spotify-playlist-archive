@@ -1,12 +1,12 @@
 {
   "description": "unwind with these alternative favorites.",
-  "num_followers": 415167,
+  "num_followers": 414931,
   "original_name": "License To Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc3MDc1MSwwMDAwMDAwMDVlMTI3ODgzNDBjMjBmMTY2OGMwY2VhY2IzYjlmMWRm",
+  "snapshot_id": "MTY2MDc3MDc1MSwwMDAwMDAwMDIzMWNlNjAyNTVkNjY5ZGZlNDZiZGY2YTg2ZDlhOGQ0",
   "tracks": [
     {
       "added_at": "2022-08-17 21:12:30",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-08-17 21:12:30",
       "album": {
-        "name": "It Won't Always Be Like This",
-        "url": "https://open.spotify.com/album/5TCW5XPhG21i4XXfcYJVDg"
-      },
-      "artists": [
-        {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
-        }
-      ],
-      "duration_ms": 244906,
-      "name": "It Won't Always Be Like This",
-      "url": "https://open.spotify.com/track/61YcJKRn2y1si5jGc7LUIN"
-    },
-    {
-      "added_at": "2022-08-17 21:12:30",
-      "album": {
         "name": "Mirror Master",
         "url": "https://open.spotify.com/album/6blMxezujKgPe8HjHNveuG"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 237746,
       "name": "Call Me Back",
       "url": "https://open.spotify.com/track/14KP6cmTImZmrcAC5m0Azd"
+    },
+    {
+      "added_at": "2022-08-17 21:12:30",
+      "album": {
+        "name": "It Won't Always Be Like This",
+        "url": "https://open.spotify.com/album/5TCW5XPhG21i4XXfcYJVDg"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "duration_ms": 244906,
+      "name": "It Won't Always Be Like This",
+      "url": "https://open.spotify.com/track/61YcJKRn2y1si5jGc7LUIN"
     },
     {
       "added_at": "2022-08-17 21:12:30",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-08-17 21:12:30",
       "album": {
-        "name": "The Singles Collection",
-        "url": "https://open.spotify.com/album/2m0063PKiyLZ0NQNEOhzHv"
-      },
-      "artists": [
-        {
-          "name": "Silversun Pickups",
-          "url": "https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h"
-        }
-      ],
-      "duration_ms": 354360,
-      "name": "Lazy Eye",
-      "url": "https://open.spotify.com/track/7eZyj92v6bZsoQ85MxWZsO"
-    },
-    {
-      "added_at": "2022-08-17 21:12:30",
-      "album": {
         "name": "Nothing But Thieves (Deluxe)",
         "url": "https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 232360,
       "name": "Graveyard Whistling",
       "url": "https://open.spotify.com/track/3VOrtLsn6VBoqfcB8BqIU0"
+    },
+    {
+      "added_at": "2022-08-17 21:12:30",
+      "album": {
+        "name": "The Singles Collection",
+        "url": "https://open.spotify.com/album/2m0063PKiyLZ0NQNEOhzHv"
+      },
+      "artists": [
+        {
+          "name": "Silversun Pickups",
+          "url": "https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h"
+        }
+      ],
+      "duration_ms": 354360,
+      "name": "Lazy Eye",
+      "url": "https://open.spotify.com/track/7eZyj92v6bZsoQ85MxWZsO"
     },
     {
       "added_at": "2022-08-17 21:12:30",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-08-17 21:12:30",
       "album": {
-        "name": "Fruit",
-        "url": "https://open.spotify.com/album/7sgoUuA9bA0lJYSw1PgbkT"
-      },
-      "artists": [
-        {
-          "name": "Oliver Sim",
-          "url": "https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm"
-        }
-      ],
-      "duration_ms": 204240,
-      "name": "Fruit",
-      "url": "https://open.spotify.com/track/5n3NzdPWuSsRbYEObAdXqr"
-    },
-    {
-      "added_at": "2022-08-17 21:12:30",
-      "album": {
         "name": "Impossible",
         "url": "https://open.spotify.com/album/1iErEjieuf47K2k7KymkQq"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 248399,
       "name": "Impossible",
       "url": "https://open.spotify.com/track/547VvUJcGmn26XJwHNueOa"
+    },
+    {
+      "added_at": "2022-08-17 21:12:30",
+      "album": {
+        "name": "Fruit",
+        "url": "https://open.spotify.com/album/7sgoUuA9bA0lJYSw1PgbkT"
+      },
+      "artists": [
+        {
+          "name": "Oliver Sim",
+          "url": "https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm"
+        }
+      ],
+      "duration_ms": 204240,
+      "name": "Fruit",
+      "url": "https://open.spotify.com/track/5n3NzdPWuSsRbYEObAdXqr"
     },
     {
       "added_at": "2022-08-17 21:12:30",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2022-08-17 21:12:30",
       "album": {
-        "name": "Broods",
-        "url": "https://open.spotify.com/album/17vQyc1dhEyxV6q5AxOWh8"
-      },
-      "artists": [
-        {
-          "name": "BROODS",
-          "url": "https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS"
-        }
-      ],
-      "duration_ms": 189080,
-      "name": "Taking You There",
-      "url": "https://open.spotify.com/track/6NYtqWYqMbnzoEU9jXla80"
-    },
-    {
-      "added_at": "2022-08-17 21:12:30",
-      "album": {
         "name": "Friends I Barely Know",
         "url": "https://open.spotify.com/album/51KS9zdT2oJWaRPEH1W6w5"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 179946,
       "name": "Friends I Barely Know",
       "url": "https://open.spotify.com/track/4Yzy5bGrMOlLpYcOtWxGIM"
+    },
+    {
+      "added_at": "2022-08-17 21:12:30",
+      "album": {
+        "name": "Broods",
+        "url": "https://open.spotify.com/album/17vQyc1dhEyxV6q5AxOWh8"
+      },
+      "artists": [
+        {
+          "name": "BROODS",
+          "url": "https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS"
+        }
+      ],
+      "duration_ms": 189080,
+      "name": "Taking You There",
+      "url": "https://open.spotify.com/track/6NYtqWYqMbnzoEU9jXla80"
     },
     {
       "added_at": "2022-08-17 21:12:30",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2022-08-17 21:12:30",
       "album": {
-        "name": "Dead Boys",
-        "url": "https://open.spotify.com/album/45vySJkc2UuDd6DWYnJeAL"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 205045,
-      "name": "Dead Boys",
-      "url": "https://open.spotify.com/track/0dApI39mMqaXSbSsq4J7kI"
-    },
-    {
-      "added_at": "2022-08-17 21:12:30",
-      "album": {
         "name": "Young Blood EP",
         "url": "https://open.spotify.com/album/6rkpulKVwXAsc5Uuc7YlEi"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 157546,
       "name": "As We Are Now",
       "url": "https://open.spotify.com/track/0auccbirOSgf38celsAEJA"
+    },
+    {
+      "added_at": "2022-08-17 21:12:30",
+      "album": {
+        "name": "Dead Boys",
+        "url": "https://open.spotify.com/album/45vySJkc2UuDd6DWYnJeAL"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 205045,
+      "name": "Dead Boys",
+      "url": "https://open.spotify.com/track/0dApI39mMqaXSbSsq4J7kI"
     },
     {
       "added_at": "2022-08-17 21:12:30",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2022-08-17 21:12:30",
       "album": {
-        "name": "Hummingbird",
-        "url": "https://open.spotify.com/album/1Zmq4tEgCSyTkud2ahysrq"
-      },
-      "artists": [
-        {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
-        }
-      ],
-      "duration_ms": 261760,
-      "name": "You & I",
-      "url": "https://open.spotify.com/track/6SgHlKcfkRQ6XohmDR1ugQ"
-    },
-    {
-      "added_at": "2022-08-17 21:12:30",
-      "album": {
         "name": "Before the Waves",
         "url": "https://open.spotify.com/album/1UBdVrk0aaya4VX1r0r3Un"
       },
@@ -1963,22 +1947,6 @@
       "duration_ms": 223506,
       "name": "Honey",
       "url": "https://open.spotify.com/track/52h6tJhAz9MDyS8MSIDeIP"
-    },
-    {
-      "added_at": "2022-08-17 21:12:30",
-      "album": {
-        "name": "Gemini",
-        "url": "https://open.spotify.com/album/53BCrCrl3BENt20FFixjn9"
-      },
-      "artists": [
-        {
-          "name": "PLGRMS",
-          "url": "https://open.spotify.com/artist/1KR4mZ0mbC8ATQFqljUR6k"
-        }
-      ],
-      "duration_ms": 225277,
-      "name": "Gemini",
-      "url": "https://open.spotify.com/track/6Y7xUTnb3aI79DpqBioAcr"
     },
     {
       "added_at": "2022-08-17 21:12:30",
@@ -1999,6 +1967,38 @@
     {
       "added_at": "2022-08-17 21:12:30",
       "album": {
+        "name": "Hummingbird",
+        "url": "https://open.spotify.com/album/1Zmq4tEgCSyTkud2ahysrq"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        }
+      ],
+      "duration_ms": 261760,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/6SgHlKcfkRQ6XohmDR1ugQ"
+    },
+    {
+      "added_at": "2022-08-17 21:12:30",
+      "album": {
+        "name": "Gemini",
+        "url": "https://open.spotify.com/album/53BCrCrl3BENt20FFixjn9"
+      },
+      "artists": [
+        {
+          "name": "PLGRMS",
+          "url": "https://open.spotify.com/artist/1KR4mZ0mbC8ATQFqljUR6k"
+        }
+      ],
+      "duration_ms": 225277,
+      "name": "Gemini",
+      "url": "https://open.spotify.com/track/6Y7xUTnb3aI79DpqBioAcr"
+    },
+    {
+      "added_at": "2022-08-17 21:12:30",
+      "album": {
         "name": "Method to the Madness",
         "url": "https://open.spotify.com/album/2BfgmQ3MxlmFV0lIYCTf4Q"
       },
@@ -2015,18 +2015,18 @@
     {
       "added_at": "2022-08-17 21:12:30",
       "album": {
-        "name": "Until It Stops (Spotify Singles)",
-        "url": "https://open.spotify.com/album/6EmA1GZ0KIb5cpXBOrIB5y"
+        "name": "Here's To Moving On",
+        "url": "https://open.spotify.com/album/10JjmdD5wrOGh3Apj0osje"
       },
       "artists": [
         {
-          "name": "Pom Pom Squad",
-          "url": "https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs"
+          "name": "Dashboard Confessional",
+          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
         }
       ],
-      "duration_ms": 156448,
-      "name": "Until It Stops - Spotify Singles",
-      "url": "https://open.spotify.com/track/0dN85vbuUdU7Hnu0hLZHsN"
+      "duration_ms": 257040,
+      "name": "Here's To Moving On",
+      "url": "https://open.spotify.com/track/5CR0GYilasGkYkXUqCQNEr"
     }
   ],
   "unique_name": "License To Chill",

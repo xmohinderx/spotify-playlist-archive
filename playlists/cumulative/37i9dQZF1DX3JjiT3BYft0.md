@@ -4,7 +4,7 @@
 
 > Music from “BanG Dream! “ series! 次世代ガールズバンドプロジェクト『BanG Dream!（バンドリ！）』公式プレイリスト。
 
-245 songs - 17 hr 54 min - [published](https://open.spotify.com/playlist/7Ikp1eJdB44De7llN3Rd4M)
+246 songs - 17 hr 58 min - [published](https://open.spotify.com/playlist/7Ikp1eJdB44De7llN3Rd4M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A DECLARATION OF ×××](https://open.spotify.com/track/2zidm9e4RyoubevfU7VHYM) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [ERA](https://open.spotify.com/album/62C2FYnrqee7cqVlrn24yk) | 5:15 | 2022-06-23 |  |
 | [A DECLARATION OF ×××](https://open.spotify.com/track/36hzInQxdEAYvuGYDck85k) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [A DECLARATION OF ×××](https://open.spotify.com/album/6I9fsaIls8q8daqfyf38Qo) | 5:16 | 2022-06-23 | 2022-07-29 |
 | [A Distant Heartbeat](https://open.spotify.com/track/01hHmEBYk9oQClRa6A81HC) | [山吹沙綾\(CV.大橋彩香\)](https://open.spotify.com/artist/6JnXnlFTlsvXctXZiWa8fy) | [A Distant Heartbeat](https://open.spotify.com/album/1tZtuwJ2Onp8AnRWR2LQjR) | 4:00 | 2022-06-23 |  |
-| [A Song No More](https://open.spotify.com/track/1uNjQwidSPSjPRAfh6JJBE) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Live Beyond!!](https://open.spotify.com/album/2z1EdXW0K0ZYY7W9Q3fsSS) | 4:37 | 2022-06-23 |  |
+| [A Song No More](https://open.spotify.com/track/1uNjQwidSPSjPRAfh6JJBE) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Live Beyond!!](https://open.spotify.com/album/2z1EdXW0K0ZYY7W9Q3fsSS) | 4:37 | 2022-06-23 | 2022-08-31 |
 | [Avant\-garde HISTORY](https://open.spotify.com/track/5SXRtIcYo4kaDgRyD54mZP) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Wahl](https://open.spotify.com/album/6nk5SUZlraHzpwIPUFdI84) | 5:05 | 2022-05-17 | 2022-07-22 |
 | [B.O.F](https://open.spotify.com/track/132AFM2tn4rgQyGWplFpJf) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Poppin'on!](https://open.spotify.com/album/7uZ57BtKr2QWlsxC4T7fyH) | 3:38 | 2022-05-17 | 2022-07-28 |
 | [Baby Sweet Berry Love](https://open.spotify.com/track/4kloLdsaoe8UQHf5n4Ex7F) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [バンドリ! ガールズバンドパーティ! カバコレ Special Selection2](https://open.spotify.com/album/5WSYF1uz2bWL9XO7sKoCG2) | 4:04 | 2022-05-17 | 2022-07-29 |
@@ -228,6 +228,7 @@
 | [切ないSandglass](https://open.spotify.com/track/2LqbQ4a77YlutcDzVWlso0) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [ガールズコード](https://open.spotify.com/album/5aQYjcS94D6obHNC1S2x8I) | 4:06 | 2022-05-17 | 2022-07-27 |
 | [前へススメ!](https://open.spotify.com/track/2tp0eQNOwyIvUKe6wqNXsz) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [前へススメ!/夢みるSunflower](https://open.spotify.com/album/1aaYBoORgoYdB4pzqECejf) | 5:06 | 2022-05-17 | 2022-07-08 |
 | [君じゃなきゃダメみたい](https://open.spotify.com/track/0vkj1rWmpzDvKr5hqCgk6K) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [バンドリ! ガールズバンドパーティ! カバコレ \(Special Selection\)](https://open.spotify.com/album/0JowuUZyfttpDW76rq0rze) | 3:58 | 2022-05-17 | 2022-07-29 |
+| [夏に閉じこめて](https://open.spotify.com/track/61Y9W12NmToaKokLMtJ6Y0) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [夏に閉じこめて](https://open.spotify.com/album/42rOQUNEaZ2pjNlT6N0x67) | 4:21 | 2022-08-30 |  |
 | [夏のドーン!](https://open.spotify.com/track/4oqDaQVeaY90SDe7Iz1Osr) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Time Lapse](https://open.spotify.com/album/1YMySyG5al3QpCnXQLey9R) | 3:37 | 2022-05-17 | 2022-07-29 |
 | [夏空 SUN! SUN! SEVEN!](https://open.spotify.com/track/5tkihsRRaoijAFrvC2Oe9y) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [バンドリ!「STAR BEAT!〜ホシノコドウ〜」](https://open.spotify.com/album/7quOI2BiwX58BRG5vycVmN) | 4:32 | 2022-05-17 | 2022-07-25 |
 | [夏空 SUN! SUN! SEVEN! \- Acoustic Ver.](https://open.spotify.com/track/7wWMCByLoIOpRtxAAOQ0gb) | [市ヶ谷有咲\(CV.伊藤彩沙\)](https://open.spotify.com/artist/42iK1LthFSToAk8siJWOry) | [TVアニメ「BanG Dream!」キャラクターソング 市ヶ谷有咲「す、好きなんかじゃない!」](https://open.spotify.com/album/3GEnkEjWkej8C19LpOhKwG) | 4:55 | 2022-05-17 | 2022-07-29 |

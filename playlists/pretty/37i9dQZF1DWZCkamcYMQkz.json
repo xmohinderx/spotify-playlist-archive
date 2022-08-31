@@ -1,12 +1,12 @@
 {
   "description": "Uplifting jazz to get you in a good mood.",
-  "num_followers": 67704,
+  "num_followers": 67842,
   "original_name": "Feel Good Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTc4NDg0NywwMDAwMDAwMGFkMjNlMTQ2Y2NhMTA1N2Y1NGI4ODdjYzlkN2EwYmI3",
+  "snapshot_id": "MTY2MTc4NDg0NywwMDAwMDAwMDJlMDc5ODI5OWJjNGYwODlkODdmZmFhMDNmZDFkOWJj",
   "tracks": [
     {
       "added_at": "2022-08-29 14:54:07",
@@ -211,6 +211,22 @@
     {
       "added_at": "2022-08-29 14:54:07",
       "album": {
+        "name": "At The Village Vanguard",
+        "url": "https://open.spotify.com/album/6kaZAT1UBgjchdmNv9hUHj"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+        }
+      ],
+      "duration_ms": 409640,
+      "name": "Waltz For Debby - Live At The Village Vanguard, New York / 1961 / Take 2",
+      "url": "https://open.spotify.com/track/6EC51OfUhguCbNp5H5SdGm"
+    },
+    {
+      "added_at": "2022-08-29 14:54:07",
+      "album": {
         "name": "Duets II",
         "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 159000,
       "name": "Don't Get Around Much Anymore",
       "url": "https://open.spotify.com/track/6RjvMuSa4ZCqPueIIO4IBs"
-    },
-    {
-      "added_at": "2022-08-29 14:54:07",
-      "album": {
-        "name": "At The Village Vanguard",
-        "url": "https://open.spotify.com/album/6kaZAT1UBgjchdmNv9hUHj"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans Trio",
-          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
-        }
-      ],
-      "duration_ms": 409640,
-      "name": "Waltz For Debby - Live At The Village Vanguard, New York / 1961 / Take 2",
-      "url": "https://open.spotify.com/track/6EC51OfUhguCbNp5H5SdGm"
     },
     {
       "added_at": "2022-08-29 14:54:07",
@@ -879,6 +879,22 @@
     {
       "added_at": "2022-08-29 14:54:07",
       "album": {
+        "name": "Trio 64",
+        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 231133,
+      "name": "Little Lulu",
+      "url": "https://open.spotify.com/track/1a8NXpwR2o6LZEG4uAJ6ck"
+    },
+    {
+      "added_at": "2022-08-29 14:54:07",
+      "album": {
         "name": "Oscar Peterson's Finest Hour",
         "url": "https://open.spotify.com/album/7MvfuK2EXdoRXKpXtQqANP"
       },
@@ -899,26 +915,6 @@
     {
       "added_at": "2022-08-29 14:54:07",
       "album": {
-        "name": "Taking A Chance On Love",
-        "url": "https://open.spotify.com/album/3SPCafRVqoXgwY3YsofV6W"
-      },
-      "artists": [
-        {
-          "name": "V. Duke",
-          "url": "https://open.spotify.com/artist/28wBiD1oyqCarVwYuTJVv9"
-        },
-        {
-          "name": "Jane Monheit",
-          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
-        }
-      ],
-      "duration_ms": 198493,
-      "name": "Taking a Chance on Love",
-      "url": "https://open.spotify.com/track/1ahnyRMBhh9H9d8v8JIyYF"
-    },
-    {
-      "added_at": "2022-08-29 14:54:07",
-      "album": {
         "name": "Gettin' Around",
         "url": "https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9"
       },
@@ -935,18 +931,22 @@
     {
       "added_at": "2022-08-29 14:54:07",
       "album": {
-        "name": "Trio 64",
-        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
+        "name": "Taking A Chance On Love",
+        "url": "https://open.spotify.com/album/3SPCafRVqoXgwY3YsofV6W"
       },
       "artists": [
         {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+          "name": "V. Duke",
+          "url": "https://open.spotify.com/artist/28wBiD1oyqCarVwYuTJVv9"
+        },
+        {
+          "name": "Jane Monheit",
+          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
         }
       ],
-      "duration_ms": 231133,
-      "name": "Little Lulu",
-      "url": "https://open.spotify.com/track/1a8NXpwR2o6LZEG4uAJ6ck"
+      "duration_ms": 198493,
+      "name": "Taking a Chance on Love",
+      "url": "https://open.spotify.com/track/1ahnyRMBhh9H9d8v8JIyYF"
     },
     {
       "added_at": "2022-08-29 14:54:07",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-08-29 14:54:07",
       "album": {
-        "name": "Get Happy! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4y9NGBV1nMcJKedGL22d8n"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 142333,
-      "name": "A-Tisket, A-Tasket",
-      "url": "https://open.spotify.com/track/5935p4F2K5crvwdc6mBLPg"
-    },
-    {
-      "added_at": "2022-08-29 14:54:07",
-      "album": {
         "name": "Sun of June",
         "url": "https://open.spotify.com/album/6TlZkjAIMdUs3jOkafcrh4"
       },
@@ -1079,18 +1063,18 @@
     {
       "added_at": "2022-08-29 14:54:07",
       "album": {
-        "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
+        "name": "Get Happy! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4y9NGBV1nMcJKedGL22d8n"
       },
       "artists": [
         {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 260399,
-      "name": "Yes Sir, That's My Baby",
-      "url": "https://open.spotify.com/track/0b8zKRejjjnmdIFes3tzqh"
+      "duration_ms": 142333,
+      "name": "A-Tisket, A-Tasket",
+      "url": "https://open.spotify.com/track/5935p4F2K5crvwdc6mBLPg"
     },
     {
       "added_at": "2022-08-29 14:54:07",
@@ -1107,6 +1091,22 @@
       "duration_ms": 396928,
       "name": "Soul Dancing",
       "url": "https://open.spotify.com/track/4StXVZBqMAaJokejo0698n"
+    },
+    {
+      "added_at": "2022-08-29 14:54:07",
+      "album": {
+        "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
+      },
+      "artists": [
+        {
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+        }
+      ],
+      "duration_ms": 260399,
+      "name": "Yes Sir, That's My Baby",
+      "url": "https://open.spotify.com/track/0b8zKRejjjnmdIFes3tzqh"
     },
     {
       "added_at": "2022-08-29 14:54:07",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2022-08-29 14:54:07",
       "album": {
-        "name": "Things Are Swingin'",
-        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 130199,
-      "name": "Ridin' High",
-      "url": "https://open.spotify.com/track/531BfkXiRcoBDqRaJWKfqT"
-    },
-    {
-      "added_at": "2022-08-29 14:54:07",
-      "album": {
         "name": "Great Ladies Of Song / Spotlight On Dakota Staton",
         "url": "https://open.spotify.com/album/6k6xiDEMEA5T1ufU4gCCUl"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 152160,
       "name": "I Hear Music - Remastered",
       "url": "https://open.spotify.com/track/65Yy88Liyj4JzcU2gbklgR"
+    },
+    {
+      "added_at": "2022-08-29 14:54:07",
+      "album": {
+        "name": "Things Are Swingin'",
+        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 130199,
+      "name": "Ridin' High",
+      "url": "https://open.spotify.com/track/531BfkXiRcoBDqRaJWKfqT"
     },
     {
       "added_at": "2022-08-29 14:54:07",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2022-08-29 14:54:07",
       "album": {
+        "name": "Surf Ride",
+        "url": "https://open.spotify.com/album/3nuRA3ud7z6UosGSYiQpEy"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 191640,
+      "name": "Holiday Flight",
+      "url": "https://open.spotify.com/track/4BWJoCEQX9RAJPX26kk1QP"
+    },
+    {
+      "added_at": "2022-08-29 14:54:07",
+      "album": {
         "name": "Ramblin'",
         "url": "https://open.spotify.com/album/6IF4t8d8X6WTr3KR5RRpSs"
       },
@@ -1531,22 +1547,6 @@
     {
       "added_at": "2022-08-29 14:54:07",
       "album": {
-        "name": "Secrets of My Heart",
-        "url": "https://open.spotify.com/album/086KHW1DUXz3QssYk3qXZ5"
-      },
-      "artists": [
-        {
-          "name": "Sarah McKenzie",
-          "url": "https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2"
-        }
-      ],
-      "duration_ms": 238587,
-      "name": "I Fell in Love with You",
-      "url": "https://open.spotify.com/track/5qGT8l7gwwl4UxjIkNnyCH"
-    },
-    {
-      "added_at": "2022-08-29 14:54:07",
-      "album": {
         "name": "My Kinda Swing",
         "url": "https://open.spotify.com/album/1LJPmxO2eGpzZGrr12LEIa"
       },
@@ -1559,6 +1559,22 @@
       "duration_ms": 182760,
       "name": "See See Rider",
       "url": "https://open.spotify.com/track/5NltGjgbV9hy4HMCS9CYoy"
+    },
+    {
+      "added_at": "2022-08-29 14:54:07",
+      "album": {
+        "name": "Secrets of My Heart",
+        "url": "https://open.spotify.com/album/086KHW1DUXz3QssYk3qXZ5"
+      },
+      "artists": [
+        {
+          "name": "Sarah McKenzie",
+          "url": "https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2"
+        }
+      ],
+      "duration_ms": 238587,
+      "name": "I Fell in Love with You",
+      "url": "https://open.spotify.com/track/5qGT8l7gwwl4UxjIkNnyCH"
     },
     {
       "added_at": "2022-08-29 14:54:07",
@@ -1619,22 +1635,6 @@
     {
       "added_at": "2022-08-29 14:54:07",
       "album": {
-        "name": "Surf Ride",
-        "url": "https://open.spotify.com/album/3nuRA3ud7z6UosGSYiQpEy"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 191640,
-      "name": "Holiday Flight",
-      "url": "https://open.spotify.com/track/4BWJoCEQX9RAJPX26kk1QP"
-    },
-    {
-      "added_at": "2022-08-29 14:54:07",
-      "album": {
         "name": "The Complete Clef & Verve Fifties Studio Recordings",
         "url": "https://open.spotify.com/album/7GLEidBdAgwkHt3tDG5gvT"
       },
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2022-08-29 14:54:07",
       "album": {
-        "name": "Singin' a Melody",
-        "url": "https://open.spotify.com/album/1A6JA1ogqLpX4HlV9APXKG"
-      },
-      "artists": [
-        {
-          "name": "Paul Callander Quintet",
-          "url": "https://open.spotify.com/artist/0eVyw9bcjrdnqRGiz18Yz5"
-        }
-      ],
-      "duration_ms": 224786,
-      "name": "Singin' a Melody",
-      "url": "https://open.spotify.com/track/60WNBop8SdFIZZ8PZABZNq"
-    },
-    {
-      "added_at": "2022-08-29 14:54:07",
-      "album": {
         "name": "Carmen McRae Sings Lover Man And Other Billie Holiday Classics",
         "url": "https://open.spotify.com/album/5GJ5gYx2VulbjhOuPwlH0A"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 211000,
       "name": "What a Little Moonlight Can Do",
       "url": "https://open.spotify.com/track/2x8hsmA7p24OxS5vxVG1C6"
+    },
+    {
+      "added_at": "2022-08-29 14:54:07",
+      "album": {
+        "name": "Singin' a Melody",
+        "url": "https://open.spotify.com/album/1A6JA1ogqLpX4HlV9APXKG"
+      },
+      "artists": [
+        {
+          "name": "Paul Callander Quintet",
+          "url": "https://open.spotify.com/artist/0eVyw9bcjrdnqRGiz18Yz5"
+        }
+      ],
+      "duration_ms": 224786,
+      "name": "Singin' a Melody",
+      "url": "https://open.spotify.com/track/60WNBop8SdFIZZ8PZABZNq"
     },
     {
       "added_at": "2022-08-29 14:54:07",

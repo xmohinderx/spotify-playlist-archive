@@ -1,12 +1,12 @@
 {
   "description": "Home to all the latest indie jams. Cover: Djo",
-  "num_followers": 153549,
+  "num_followers": 153639,
   "original_name": "Indie All Stars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTczNzUyNSwwMDAwMDAwMGQzNTFmNGRlNmQwYWIxZWRjZDE2NDJlYTllZjFmMTNj",
+  "snapshot_id": "MTY2MTg5MTk1NCwwMDAwMDAwMDMwODdhYmU5YTc0ZjJmMjI4ZWM1NjlmN2EzMDU0M2Iw",
   "tracks": [
     {
       "added_at": "2022-08-29 01:45:25",
@@ -23,6 +23,22 @@
       "duration_ms": 184314,
       "name": "Figure You Out",
       "url": "https://open.spotify.com/track/0zcKU98jIjZAxGPQZ5sDpe"
+    },
+    {
+      "added_at": "2022-08-30 20:39:14",
+      "album": {
+        "name": "There\u2019d Better Be A Mirrorball",
+        "url": "https://open.spotify.com/album/0ZUmodAwUq8cQJFvyibKwT"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 265798,
+      "name": "There\u2019d Better Be A Mirrorball",
+      "url": "https://open.spotify.com/track/0yowbJnnbTLpr99f9l1uba"
     },
     {
       "added_at": "2022-08-29 01:45:25",
@@ -547,22 +563,6 @@
       "duration_ms": 197994,
       "name": "can you see me?",
       "url": "https://open.spotify.com/track/0PqyrHOwAMA43it710rAor"
-    },
-    {
-      "added_at": "2022-08-29 01:45:25",
-      "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 297000,
-      "name": "Anywhere With You",
-      "url": "https://open.spotify.com/track/4Hxcb6wDlelhZpk5fc5jmD"
     },
     {
       "added_at": "2022-08-29 01:45:25",

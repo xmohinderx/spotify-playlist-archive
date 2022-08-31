@@ -4,7 +4,7 @@
 
 > Beautifully sad piano music
 
-228 songs - 10 hr 19 min - [published](https://open.spotify.com/playlist/0bGmdUzxwndch2yv1y7eLw)
+229 songs - 10 hr 22 min - [published](https://open.spotify.com/playlist/0bGmdUzxwndch2yv1y7eLw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Luna piena](https://open.spotify.com/track/5YwXUOcRaJNOoEImMYLIfu) | [Lorenzo Fiore](https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8) | [Luna piena](https://open.spotify.com/album/2cP8f6LAElBMVU8epr2t5V) | 2:50 | 2021-12-14 |  |
 | [Mar De Ardora](https://open.spotify.com/track/5H6H2pYhX8tYGQ2DG4QeB0) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Aira](https://open.spotify.com/album/0CFCDknzl9INAM2calrwlB) | 3:06 | 2021-12-14 | 2022-05-05 |
 | [Melts Into Air](https://open.spotify.com/track/0N2rkPnpGdWSP9xotxYl2F) | [Jill Corazina](https://open.spotify.com/artist/0j5SBGx8jGWDdJM4Cmth83) | [Melts Into Air](https://open.spotify.com/album/1uRrdwGzAyPUmiS3RRaFDi) | 2:46 | 2021-12-14 |  |
+| [Mercurio](https://open.spotify.com/track/4ZmKxpk6LQQkhW8mwWiIPP) | [Henry Gadacz](https://open.spotify.com/artist/63iLnJN35mBx2YBZUNf8Sr) | [Mercurio](https://open.spotify.com/album/23r263kaH1Ph9D8vUTgY09) | 2:14 | 2022-08-30 |  |
 | [Minuit](https://open.spotify.com/track/7GzMpKkrr5zwsmtTIQk2EC) | [Clémentine Poirier](https://open.spotify.com/artist/0v781ChRVv7d2YR1zDUQOQ) | [Minuit](https://open.spotify.com/album/5gdYsIHo29QR7eX30KZosN) | 2:16 | 2021-12-14 | 2022-03-04 |
 | [Minute by Minute](https://open.spotify.com/track/4KY3pCGa542Qf4giD3su9I) | [Charles Weathersby](https://open.spotify.com/artist/3PTjnqoKl6QVBWt7bSrhMz) | [Longing For Yesterday](https://open.spotify.com/album/05JFGW1xgW0McGf9EiQl0v) | 3:29 | 2021-12-14 | 2022-03-18 |
 | [Mmmm Mmmm Mmmm Mmmm](https://open.spotify.com/track/18mZP4bRr7X32gy0YoD4oe) | [Korina Bedoya](https://open.spotify.com/artist/4NGAeafqorkBEwYlBZHnpt) | [Mmmm Mmmm Mmmm Mmmm](https://open.spotify.com/album/6UIEYLhTfMIHcKjlisFbZw) | 3:12 | 2022-07-06 |  |

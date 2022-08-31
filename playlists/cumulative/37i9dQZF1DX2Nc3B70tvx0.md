@@ -4,7 +4,7 @@
 
 > The best in modern indie\. Cover: The National & Bon Iver
 
-1,203 songs - 2 day 23 hr 53 min - [published](https://open.spotify.com/playlist/5B0jp45qz6hLoPhNNGwuxh)
+1,204 songs - 2 day 23 hr 57 min - [published](https://open.spotify.com/playlist/5B0jp45qz6hLoPhNNGwuxh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -417,7 +417,7 @@
 | [Happiness In Liquid Form](https://open.spotify.com/track/5KRyn0z6znMxUUojq0NzuQ) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Happiness In Liquid Form](https://open.spotify.com/album/6BMG6KHqfPfw0oZaxNMmym) | 3:32 | 2020-04-18 | 2021-03-24 |
 | [Hard Drive Gold](https://open.spotify.com/track/1WHXFNYQBjxeDPyB7FxSrI) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Hard Drive Gold](https://open.spotify.com/album/4MoggHMYwUsCyuz0sYkxkR) | 2:38 | 2022-01-14 | 2022-03-09 |
 | [Hard Drive Gold](https://open.spotify.com/track/2cS0uhk7nfaMmF5In6wzIV) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [The Dream](https://open.spotify.com/album/5ogYKSRRlVAgMzv09HFeIn) | 2:38 | 2022-03-18 | 2022-07-29 |
-| [Hard Times](https://open.spotify.com/track/5Aq4CusaoqGNQlvNUUnA7t) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/40pYNrOZaH6Ozmex2nLniD) | 5:03 | 2022-05-13 |  |
+| [Hard Times](https://open.spotify.com/track/5Aq4CusaoqGNQlvNUUnA7t) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/40pYNrOZaH6Ozmex2nLniD) | 5:03 | 2022-05-13 | 2022-08-31 |
 | [Hard to Let Go](https://open.spotify.com/track/7lKN7pik3CelVWHWGp6DfB) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Hard to Let Go](https://open.spotify.com/album/0PboTq5CUcoilt6IJS2SQo) | 4:07 | 2022-07-08 |  |
 | [Harmony Hall](https://open.spotify.com/track/39exKIvycQDgs4T6uXdyu0) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Father of the Bride](https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ) | 5:08 | 2019-05-26\* | 2019-08-13 |
 | [Hatch](https://open.spotify.com/track/5McjD7rGbob7zDr8k0xnO1) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Hatch](https://open.spotify.com/album/0G3QXjWIHCsSvwdM0gBh56) | 3:14 | 2021-09-23 | 2022-04-07 |
@@ -1047,6 +1047,7 @@
 | [there for you](https://open.spotify.com/track/0TJJup71B23lvjHbrK4yz4) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [there for you](https://open.spotify.com/album/1TvvBHVRmuhlQVxg6569Pi) | 2:52 | 2021-09-23 | 2022-04-09 |
 | [There Must Be More Than Blood](https://open.spotify.com/track/0DodvoV40rsxLewqzzWEeb) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [There Must Be More Than Blood](https://open.spotify.com/album/6WtXmsScYh3oZoV5nXeF2E) | 7:33 | 2020-05-01 | 2021-04-20 |
 | [There's only so much a soul can take](https://open.spotify.com/track/3vkRCANVVZF0aWTL00VvRt) | [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [There's only so much a soul can take](https://open.spotify.com/album/1gKcySeP1BMTyKnvx1DGOQ) | 2:48 | 2021-04-20 | 2022-01-01 |
+| [There’d Better Be A Mirrorball](https://open.spotify.com/track/0yowbJnnbTLpr99f9l1uba) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [There’d Better Be A Mirrorball](https://open.spotify.com/album/0ZUmodAwUq8cQJFvyibKwT) | 4:25 | 2022-08-30 |  |
 | [Thin Thing](https://open.spotify.com/track/1Sbdw0lMZXkfVmjuH1UTb8) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 4:30 | 2022-07-15 | 2022-07-30 |
 | [Thin Thing](https://open.spotify.com/track/3DN8g2KmPKwvlyAWCM9mH7) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Thin Thing](https://open.spotify.com/album/7A7EYZELB9Ayjwrp6aWVn2) | 4:30 | 2022-05-13 | 2022-05-28 |
 | [Things](https://open.spotify.com/track/1KUT4Khz1iPXXF8pzJDsHT) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Things](https://open.spotify.com/album/17wHZzdt9MISwYibdDDlrX) | 3:19 | 2021-03-10 | 2021-03-23 |

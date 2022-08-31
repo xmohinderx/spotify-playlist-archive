@@ -4,7 +4,7 @@
 
 > Fresh rock from independent artists every Wednesday\. Cover: Goldpark \| Artwork: Jim Klok
 
-500 songs - 1 day 3 hr 48 min - [published](https://open.spotify.com/playlist/0kwhXxf6pq44hUjEkufg4R)
+501 songs - 1 day 3 hr 51 min - [published](https://open.spotify.com/playlist/0kwhXxf6pq44hUjEkufg4R)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -437,7 +437,8 @@
 | [Teal](https://open.spotify.com/track/18eWVQXDPnRghOmYWvoThV) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Teal](https://open.spotify.com/album/4bKMQzd1vuZftMTcoEwqg0) | 3:10 | 2021-12-01 | 2022-01-27 |
 | [Tears Are Falling](https://open.spotify.com/track/3JAu0EQd84Mhu8RMLuwhsf) | [Black Polish](https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP) | [Tears Are Falling](https://open.spotify.com/album/1Jy6QtG48t50gXKbxu3tcn) | 2:44 | 2022-04-13 | 2022-07-28 |
 | [Tell Emma](https://open.spotify.com/track/0R8718hmnItaZ5byVCUJ2E) | [Homes at Night](https://open.spotify.com/artist/4KxAWQwGcTuJrLwamRGDaS) | [Tell Emma](https://open.spotify.com/album/69uD28v7pKbaUqInADJ7ka) | 3:51 | 2022-07-27 | 2022-08-25 |
-| [Tell Myself](https://open.spotify.com/track/4wPoSALUR5mxrTFvgpuC2e) | [THICK](https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli) | [Tell Myself](https://open.spotify.com/album/1XmHuWK6XxcNkyJHZoIKck) | 2:29 | 2022-08-03 |  |
+| [Tell Myself](https://open.spotify.com/track/4WI5FUuvz2ESFoerIFK4WU) | [THICK](https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli) | [Happy Now](https://open.spotify.com/album/5ucPdWDzfyiYXEDC1aC80x) | 2:29 | 2022-08-24 |  |
+| [Tell Myself](https://open.spotify.com/track/4wPoSALUR5mxrTFvgpuC2e) | [THICK](https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli) | [Tell Myself](https://open.spotify.com/album/1XmHuWK6XxcNkyJHZoIKck) | 2:29 | 2022-08-03 | 2022-08-31 |
 | [Ten Feet Tall](https://open.spotify.com/track/1Rpl7JQICcdSJaGRQbHhNc) | [Charlie Hickey](https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc) | [Ten Feet Tall](https://open.spotify.com/album/6f1ajTIvYluvERIaI81qpO) | 3:44 | 2021-12-01 | 2022-01-20 |
 | [That Aint It Chief](https://open.spotify.com/track/3a9omPjoVfcqTYyoWppALc) | [Legit Smitty](https://open.spotify.com/artist/1jzrVsvcSp4J1n5OctWBEu) | [That Aint It Chief](https://open.spotify.com/album/79BRN8vRNBJEzNxf9JcwuF) | 4:07 | 2022-05-18 | 2022-07-21 |
 | [The City](https://open.spotify.com/track/4ogrk8iGbQKDFjb9RF9dyb) | [AV Dummy](https://open.spotify.com/artist/7EEhQh6CQf7tOSOu98fofs) | [The City](https://open.spotify.com/album/0kT8FjFhFfiOOywd2VBu2L) | 3:50 | 2022-03-30 | 2022-05-05 |

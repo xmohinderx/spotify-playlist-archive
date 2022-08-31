@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,270 likes - 111 songs - 6 hr 19 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,271 likes - 112 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,5 +119,6 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 109 | [Change of Pace](https://open.spotify.com/track/3e8crxi6lSdMuIF6cbuWau) | [Maddy O'Neal](https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF), [MOONZz](https://open.spotify.com/artist/7cTaYwNT1P49mASgKULKab) | [Change of Pace](https://open.spotify.com/album/2AbwZQbhhWiiW2OgVBmrF9) | 3:56 |
 | 110 | [Belong](https://open.spotify.com/track/4WlZdEHBzXXEAzxhtDR9H2) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Belong](https://open.spotify.com/album/3utFW4iaHUTEV6MjTqQnE0) | 5:10 |
 | 111 | [Do You Want My Love](https://open.spotify.com/track/7jwdL5htUUWezSZllV5l23) | [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [This Can’t Be Everything](https://open.spotify.com/album/0S3K3wCAeOAzHueZHDlM1f) | 4:28 |
+| 112 | [See If I Care](https://open.spotify.com/track/58QNQ1ZfZ2Ad1NUecBPKer) | [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [See If I Care](https://open.spotify.com/album/4aHIucrdo47tML4QIKXBle) | 2:39 |
 
-Snapshot ID: `OTkyMSw2MjFiNjVkYjk0YmIxNGUwZmVjNzE4Mjc4NDFjNGNjMjQzNDU5YTg0`
+Snapshot ID: `OTkyMiw3ZDhhZTVlNDZiZDk1MDQ2NDljNGRlYzFkMmNhYTljMWIxOWE2OThj`

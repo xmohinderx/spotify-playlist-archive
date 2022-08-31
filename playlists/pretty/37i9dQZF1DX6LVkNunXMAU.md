@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 
 > Dulce y ácido: indie pop latino en estado natural\. Foto: Valdes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,232 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,267 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Otra Vez](https://open.spotify.com/track/5g2zTEnrgZQa9MInAahB3h) | [Valdes](https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc) | [Una Vez Más](https://open.spotify.com/album/5GtNzOeObvCTuob1bxt7e0) | 4:04 |
 | 2 | [nomás tú](https://open.spotify.com/track/2QOWWawJs7RLfttH4BXPXa) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [nomás tú](https://open.spotify.com/album/638iojk5ANMxC2zlVcjd16) | 2:37 |
 | 3 | [siente más](https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 4:00 |
-| 4 | [Miel](https://open.spotify.com/track/5JdlC0CC89wD1UHJBENJRY) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Soda de Uva](https://open.spotify.com/album/54waWoWfW7gIfuZ4EvdrXc) | 2:42 |
+| 4 | [Miel](https://open.spotify.com/track/51DZ9VadidpYkJdeRHt5x5) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Soda de Uva](https://open.spotify.com/album/0QGStanmJCDLF3Yn60pJBc) | 2:42 |
 | 5 | [Paredes Finas](https://open.spotify.com/track/73k8ezRBHx9LSSGufofMbc) | [Mauro Samaniego](https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L) | [Simona a Guitarra y Voz \(Lado A\)](https://open.spotify.com/album/3LnuQLn6sRN58vctyqd9NC) | 4:07 |
 | 6 | [miel <3](https://open.spotify.com/track/6yaGq15NkA6cho4zUUfn5w) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [miel <3](https://open.spotify.com/album/6HsQoY5d6BWRwcQF308Vpw) | 3:23 |
 | 7 | [En una](https://open.spotify.com/track/0JljvMGjWcpbKY5pultmMb) | [Camila Buch](https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV), [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [En una](https://open.spotify.com/album/0ksnp7Yvn8AqWXAyhiZLD1) | 3:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 99 | [lo que queda después del amor](https://open.spotify.com/track/1CceTFtIgX7vPVco9Fub6t) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [EL ETERNO RETORNO: Antología de una flor marchita \(Deluxe\)](https://open.spotify.com/album/0L9ebZXy9sK9W846lkYAMm) | 4:04 |
 | 100 | [Negro](https://open.spotify.com/track/09hvR9r7vIxdNDS8Jcylb5) | [Mayra Cárdenas](https://open.spotify.com/artist/2WqHyrHA3jRZWmTFTIynZ1) | [Negro](https://open.spotify.com/album/47nXLO7WVGjNijy7I7cEpT) | 4:05 |
 
-Snapshot ID: `MTY2MTQ4MjgwMCwwMDAwMDAwMGIzOGRiNmFmNzcxZmY4ZWYzNmVkYmJlZGZjNDk3N2U4`
+Snapshot ID: `MTY2MTQ4MjgwMCwwMDAwMDAwMDM5ZjcxZTQ2NTc4ZWY0ZDI0N2M0ZjUyMGVlODU4NDll`

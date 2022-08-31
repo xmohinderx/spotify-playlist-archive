@@ -1,12 +1,12 @@
 {
   "description": "voc\u00ea e ele, voc\u00ea e ela, pique o casal mais mandrake da quebra tlgd. Foto: MC Paulin da Capital, Mc Dricka",
-  "num_followers": 32658,
+  "num_followers": 32705,
   "original_name": "Casal Mandrake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3MzI2MCwwMDAwMDAwMDk3YzI4MTc5MTg4MjE3YTkzMjUxMjUyZGQzMDgyNGFl",
+  "snapshot_id": "MTY2MDI3MzI2MCwwMDAwMDAwMGM3MWU4M2NmZWEwMWYyZGRjMjEyNDZjNjFjYzE0Njkz",
   "tracks": [
     {
       "added_at": "2022-08-12 03:01:00",
@@ -207,26 +207,6 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
-        "name": "Dubl\u00ea de Marido",
-        "url": "https://open.spotify.com/album/7exgSMOl0XJXftVdl2v7Ks"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Dubl\u00ea de Marido",
-      "url": "https://open.spotify.com/track/3Jf64Ca4Q8mAvhf1greHOg"
-    },
-    {
-      "added_at": "2022-08-12 03:01:00",
-      "album": {
         "name": "Saturno",
         "url": "https://open.spotify.com/album/54lVKhg9g9xAzZjMU46ay7"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 186947,
       "name": "Saturno",
       "url": "https://open.spotify.com/track/68cPbG7hJnwDW9nPX1uQcX"
+    },
+    {
+      "added_at": "2022-08-12 03:01:00",
+      "album": {
+        "name": "Dubl\u00ea de Marido",
+        "url": "https://open.spotify.com/album/7exgSMOl0XJXftVdl2v7Ks"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Dubl\u00ea de Marido",
+      "url": "https://open.spotify.com/track/3Jf64Ca4Q8mAvhf1greHOg"
     },
     {
       "added_at": "2022-08-12 03:01:00",
@@ -395,6 +395,30 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
+        "name": "Na Onda",
+        "url": "https://open.spotify.com/album/3Vj7xdxkZg832MNCRvongO"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        },
+        {
+          "name": "Kizzy",
+          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
+        }
+      ],
+      "duration_ms": 199384,
+      "name": "Na Onda",
+      "url": "https://open.spotify.com/track/0yNT55PxVoLMHb75JaF2s0"
+    },
+    {
+      "added_at": "2022-08-12 03:01:00",
+      "album": {
         "name": "Ap\u00ea 1001",
         "url": "https://open.spotify.com/album/1YBdcdUHmr5q2yrUf7ARYV"
       },
@@ -419,30 +443,6 @@
       "duration_ms": 171428,
       "name": "Ap\u00ea 1001",
       "url": "https://open.spotify.com/track/3q6ZCGgFDIVCJQ5XG4JTL2"
-    },
-    {
-      "added_at": "2022-08-12 03:01:00",
-      "album": {
-        "name": "Na Onda",
-        "url": "https://open.spotify.com/album/3Vj7xdxkZg832MNCRvongO"
-      },
-      "artists": [
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        },
-        {
-          "name": "Kizzy",
-          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
-        }
-      ],
-      "duration_ms": 199384,
-      "name": "Na Onda",
-      "url": "https://open.spotify.com/track/0yNT55PxVoLMHb75JaF2s0"
     },
     {
       "added_at": "2022-08-12 03:01:00",
@@ -523,6 +523,30 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
+        "name": "Lobo",
+        "url": "https://open.spotify.com/album/7g1gfivaZsOOuf0a6Z1vsj"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "duration_ms": 212018,
+      "name": "Sobre N\u00f3s",
+      "url": "https://open.spotify.com/track/5K1n3LwCVZg2TE9SLgIwem"
+    },
+    {
+      "added_at": "2022-08-12 03:01:00",
+      "album": {
         "name": "Lance Criminoso (feat. BK)",
         "url": "https://open.spotify.com/album/6JTwZgvuat1vaYfTAVn6Cy"
       },
@@ -547,30 +571,6 @@
       "duration_ms": 234098,
       "name": "Lance Criminoso (feat. BK)",
       "url": "https://open.spotify.com/track/2jZJ5d0KCiTP6de1NjyHPl"
-    },
-    {
-      "added_at": "2022-08-12 03:01:00",
-      "album": {
-        "name": "Lobo",
-        "url": "https://open.spotify.com/album/7g1gfivaZsOOuf0a6Z1vsj"
-      },
-      "artists": [
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        }
-      ],
-      "duration_ms": 212018,
-      "name": "Sobre N\u00f3s",
-      "url": "https://open.spotify.com/track/5K1n3LwCVZg2TE9SLgIwem"
     },
     {
       "added_at": "2022-08-12 03:01:00",
@@ -735,22 +735,22 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
-        "name": "Amor de Fim de Noite",
-        "url": "https://open.spotify.com/album/0ZR4TfAlmGulel1uFDDxRM"
+        "name": "Zod\u00edaco",
+        "url": "https://open.spotify.com/album/4xH7fbJ5MRzks4KCpVy1J1"
       },
       "artists": [
         {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
         },
         {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
         }
       ],
-      "duration_ms": 221142,
-      "name": "Amor de Fim de Noite",
-      "url": "https://open.spotify.com/track/0nDnvGagGAQP5vpgCyS5yH"
+      "duration_ms": 172000,
+      "name": "Sagit\u00e1rio",
+      "url": "https://open.spotify.com/track/7tgLsXgElnqUpW6mweFWGV"
     },
     {
       "added_at": "2022-08-12 03:01:00",
@@ -799,22 +799,22 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
-        "name": "Zod\u00edaco",
-        "url": "https://open.spotify.com/album/4xH7fbJ5MRzks4KCpVy1J1"
+        "name": "Amor de Fim de Noite",
+        "url": "https://open.spotify.com/album/0ZR4TfAlmGulel1uFDDxRM"
       },
       "artists": [
         {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
         },
         {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
         }
       ],
-      "duration_ms": 172000,
-      "name": "Sagit\u00e1rio",
-      "url": "https://open.spotify.com/track/7tgLsXgElnqUpW6mweFWGV"
+      "duration_ms": 221142,
+      "name": "Amor de Fim de Noite",
+      "url": "https://open.spotify.com/track/0nDnvGagGAQP5vpgCyS5yH"
     },
     {
       "added_at": "2022-08-12 03:01:00",

@@ -4,7 +4,7 @@
 
 > 回家的路上，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-219 songs - 16 hr 17 min - [published](https://open.spotify.com/playlist/3PHd0BgAU7GtH83PqXsATM)
+220 songs - 16 hr 21 min - [published](https://open.spotify.com/playlist/3PHd0BgAU7GtH83PqXsATM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [愛情怎麼了嗎](https://open.spotify.com/track/5ZaPc3ILOQT4Qc26AZe9od) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [愛情怎麼了嗎](https://open.spotify.com/album/16SRsxQho3RdwRnFIQlE40) | 4:08 | 2022-06-20 |  |
 | [愛情的模樣 Life Live](https://open.spotify.com/track/4b1SzvKg74EQ8ftVH0ke8Z) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY), [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [五月天 人生無限公司 Life Live 好友加班篇](https://open.spotify.com/album/5Rfn5E0vo8RIUfWsr0B31Y) | 5:11 | 2022-06-06 |  |
 | [慢冷](https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [我好嗎? \- 太陽如常升起](https://open.spotify.com/album/13EgeVmtvcqQIdJJix6QzM) | 4:49 | 2022-06-06 |  |
-| [我不是白馬王子 \(feat\. 高爾宣 & 李杰明\)](https://open.spotify.com/track/3v9017g56OYJzBmBtSxzSi) | [R\-chord](https://open.spotify.com/artist/5XkrVVn0lQIVPkH55nbTgZ), [高爾宣](https://open.spotify.com/artist/7rrL3cuBnPUQyGIMCfyzpD), [W.M.L](https://open.spotify.com/artist/5PeVQEj4Yr0TB9CuG83dPB) | [像水一樣](https://open.spotify.com/album/1ACpdg4OuZtA5MfrK4mM5u) | 3:35 | 2022-08-15 |  |
+| [我不是白馬王子 \(feat\. 高爾宣 & 李杰明\)](https://open.spotify.com/track/3v9017g56OYJzBmBtSxzSi) | [R\-chord](https://open.spotify.com/artist/5XkrVVn0lQIVPkH55nbTgZ), [高爾宣](https://open.spotify.com/artist/7rrL3cuBnPUQyGIMCfyzpD), [W.M.L](https://open.spotify.com/artist/5PeVQEj4Yr0TB9CuG83dPB) | [像水一樣](https://open.spotify.com/album/1ACpdg4OuZtA5MfrK4mM5u) | 3:35 | 2022-08-15 | 2022-08-31 |
 | [我不願看你變了模樣](https://open.spotify.com/track/3G7ny2PEZp2MqLg5qXgJIE) | [簡弘亦](https://open.spotify.com/artist/0u0FqeMALEaiT19otJOm8C) | [我不願看你變了模樣](https://open.spotify.com/album/2Flk8OajZEVjjwrTg5SIMf) | 4:47 | 2022-06-13 | 2022-06-27 |
 | [我以為你不會出現 \(UAG安全感形象曲\)](https://open.spotify.com/track/20OrMs4eAhIHyG82wHaGy0) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我以為你不會出現](https://open.spotify.com/album/6jCdDLLM1EH24grt1rqmIQ) | 5:46 | 2022-06-13 |  |
 | [我们没有爱错](https://open.spotify.com/track/1t0h4qVm249uDur73ONbbD) | [Kelly Pan](https://open.spotify.com/artist/2hJxcuFTgP89GdmCVXfXyi) | [我们没有爱错](https://open.spotify.com/album/4ezcrw8beXk4fw6Qrjo53z) | 5:05 | 2022-06-06 | 2022-07-13 |
@@ -187,6 +187,7 @@
 | [聽見下雨的聲音](https://open.spotify.com/track/0nt1LAZjaTjrf30S8hdRDU) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [哎呦 不錯哦](https://open.spotify.com/album/1aYDr6muZPmwYvstDnIbeH) | 4:39 | 2022-07-25 |  |
 | [聽見下雨的聲音](https://open.spotify.com/track/6jxW7qkub1YP51eQVElqUG) | [魏嘉瑩 Arrow Wei](https://open.spotify.com/artist/5JIZFQ7EMAp257CdzKemXO), [Queen Wei](https://open.spotify.com/artist/31o2LJ3ZpFgb4WMZzC1gOR) | [聽見下雨的聲音](https://open.spotify.com/album/15h50Ym2gyEfp7rL0qksXH) | 5:58 | 2022-06-06 | 2022-07-27 |
 | [脫胎換骨](https://open.spotify.com/track/3KMozKCYJDSNJ53paNEIXk) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [脫胎換骨](https://open.spotify.com/album/0nkgECpB80bkATzGsvvFI7) | 4:30 | 2022-06-06 |  |
+| [蓝](https://open.spotify.com/track/6mDGz94bhuw5ipk0VMdJ8s) | [石白其](https://open.spotify.com/artist/4bRMSv20sBKRl1eikK5LWh) | [蓝](https://open.spotify.com/album/67tMNYQpjY1meSEh4vxAdO) | 4:31 | 2022-08-29 |  |
 | [藍](https://open.spotify.com/track/1zFoPezkmIfR4TkKSNoxan) | [石白其](https://open.spotify.com/artist/4bRMSv20sBKRl1eikK5LWh) | [藍](https://open.spotify.com/album/0uxGHy0GFJxGbldtRc1cxO) | 4:31 | 2022-06-20 | 2022-07-09 |
 | [藍色天空](https://open.spotify.com/track/2bY4nahVZwOulPuVf2pn2a) | [Sophie Chen](https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h) | [藍色天空](https://open.spotify.com/album/0gHfuFj9p6E7xogNy98T23) | 4:03 | 2022-06-06 | 2022-07-28 |
 | [處處遺憾](https://open.spotify.com/track/6vcl5gHFcDmGnioPoHBxER) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [處處遺憾](https://open.spotify.com/album/6pCW8bXJ2lt3QBU5dFXGdu) | 4:10 | 2022-06-06 |  |

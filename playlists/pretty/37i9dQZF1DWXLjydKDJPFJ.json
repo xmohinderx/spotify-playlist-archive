@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Compare! Prenda el carb\u00f3n y saque la bocina que ya se arm\u00f3 la carnita.",
-  "num_followers": 216849,
+  "num_followers": 217022,
   "original_name": "Carnita Asada Estilo Norte\u00f1o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDcyMDcyNiwwMDAwMDAwMGI1YTViNGI3NGQzZDIzM2JjMDg1MjY0NWM3ODFhYzgz",
+  "snapshot_id": "MTY2MDcyMDcyNiwwMDAwMDAwMDhjMDUxOWU2YzEwYjNjNmI4NDMzZDFlZTU3NjQ2YWEz",
   "tracks": [
     {
       "added_at": "2022-05-06 18:24:52",
@@ -715,6 +715,22 @@
     {
       "added_at": "2021-12-08 06:00:00",
       "album": {
+        "name": "De Lo Bueno, Lo Mejor",
+        "url": "https://open.spotify.com/album/6fg7ANywTbldJWzw8y1p4F"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Sagrada",
+          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
+        }
+      ],
+      "duration_ms": 204453,
+      "name": "La Buena y la Mala",
+      "url": "https://open.spotify.com/track/4y0n8xKuEKE0J2sThzswhg"
+    },
+    {
+      "added_at": "2021-12-08 06:00:00",
+      "album": {
         "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
         "url": "https://open.spotify.com/album/1un5ATKBBkOD7L9d2e7sUD"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 258355,
       "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
       "url": "https://open.spotify.com/track/3D3W7rDsuJIAtjInwh6Moc"
-    },
-    {
-      "added_at": "2021-12-08 06:00:00",
-      "album": {
-        "name": "De Lo Bueno, Lo Mejor",
-        "url": "https://open.spotify.com/album/6fg7ANywTbldJWzw8y1p4F"
-      },
-      "artists": [
-        {
-          "name": "Banda Tierra Sagrada",
-          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
-        }
-      ],
-      "duration_ms": 204453,
-      "name": "La Buena y la Mala",
-      "url": "https://open.spotify.com/track/4y0n8xKuEKE0J2sThzswhg"
     },
     {
       "added_at": "2021-12-08 06:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2021-12-08 06:00:00",
       "album": {
-        "name": "Bodas De Enga\u00f1o",
-        "url": "https://open.spotify.com/album/2Kmg5CiuBTZxYPTEypKDpy"
-      },
-      "artists": [
-        {
-          "name": "Vagon Chicano",
-          "url": "https://open.spotify.com/artist/2yK0OH7d55O2eZNcBTB19k"
-        }
-      ],
-      "duration_ms": 212360,
-      "name": "Viernes Sin Tu Amor",
-      "url": "https://open.spotify.com/track/2Ud8SDPZjPI1QSMtOHw721"
-    },
-    {
-      "added_at": "2021-12-08 06:00:00",
-      "album": {
         "name": "Libre Por Naturaleza",
         "url": "https://open.spotify.com/album/2XsiX1tRabcnYmJatmnsSK"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 192760,
       "name": "Pu\u00f1o De Diamantes",
       "url": "https://open.spotify.com/track/1IzGf1RLpHuImi5lsCD3T9"
+    },
+    {
+      "added_at": "2021-12-08 06:00:00",
+      "album": {
+        "name": "Bodas De Enga\u00f1o",
+        "url": "https://open.spotify.com/album/2Kmg5CiuBTZxYPTEypKDpy"
+      },
+      "artists": [
+        {
+          "name": "Vagon Chicano",
+          "url": "https://open.spotify.com/artist/2yK0OH7d55O2eZNcBTB19k"
+        }
+      ],
+      "duration_ms": 212360,
+      "name": "Viernes Sin Tu Amor",
+      "url": "https://open.spotify.com/track/2Ud8SDPZjPI1QSMtOHw721"
     },
     {
       "added_at": "2021-12-08 06:00:00",
@@ -1527,8 +1527,8 @@
     {
       "added_at": "2021-12-08 06:00:00",
       "album": {
-        "name": "Con Ganas De T\u00ed",
-        "url": "https://open.spotify.com/album/5A7OXdZt9pNJbhjdelWlpr"
+        "name": "A Ellas",
+        "url": "https://open.spotify.com/album/0CwYtDDWOYWvrMXN1GWg8u"
       },
       "artists": [
         {
@@ -1536,9 +1536,9 @@
           "url": "https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x"
         }
       ],
-      "duration_ms": 230493,
-      "name": "Para Qu\u00e9 Me Enga\u00f1o",
-      "url": "https://open.spotify.com/track/21iasXJSZKXlpxPJLaIdep"
+      "duration_ms": 212506,
+      "name": "Ni Que Valieras Tanto",
+      "url": "https://open.spotify.com/track/4YEtrr6BJfUX61LrEBjgLK"
     },
     {
       "added_at": "2021-12-08 06:00:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2021-12-08 06:00:00",
       "album": {
-        "name": "Solo Baladas",
-        "url": "https://open.spotify.com/album/6ThVFZhZjPiHwkeoxjJZjh"
-      },
-      "artists": [
-        {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Palabras Tristes",
-      "url": "https://open.spotify.com/track/57xX3bw17BSVUu5WXGwoNw"
-    },
-    {
-      "added_at": "2021-12-08 06:00:00",
-      "album": {
         "name": "14 Exitos ..Historia Musical",
         "url": "https://open.spotify.com/album/2uPsLEwtQqWzJJAomVydKd"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 241423,
       "name": "Pajarillo",
       "url": "https://open.spotify.com/track/2ZCG2fdMvFM2yv2MwhUJKL"
+    },
+    {
+      "added_at": "2021-12-08 06:00:00",
+      "album": {
+        "name": "Solo Baladas",
+        "url": "https://open.spotify.com/album/6ThVFZhZjPiHwkeoxjJZjh"
+      },
+      "artists": [
+        {
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Palabras Tristes",
+      "url": "https://open.spotify.com/track/57xX3bw17BSVUu5WXGwoNw"
     },
     {
       "added_at": "2021-12-08 06:00:00",
@@ -1671,8 +1671,8 @@
     {
       "added_at": "2021-12-08 06:00:00",
       "album": {
-        "name": "A Ellas",
-        "url": "https://open.spotify.com/album/0CwYtDDWOYWvrMXN1GWg8u"
+        "name": "Con Ganas De T\u00ed",
+        "url": "https://open.spotify.com/album/5A7OXdZt9pNJbhjdelWlpr"
       },
       "artists": [
         {
@@ -1680,9 +1680,9 @@
           "url": "https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x"
         }
       ],
-      "duration_ms": 212506,
-      "name": "Ni Que Valieras Tanto",
-      "url": "https://open.spotify.com/track/4YEtrr6BJfUX61LrEBjgLK"
+      "duration_ms": 230493,
+      "name": "Para Qu\u00e9 Me Enga\u00f1o",
+      "url": "https://open.spotify.com/track/21iasXJSZKXlpxPJLaIdep"
     },
     {
       "added_at": "2021-12-08 06:00:00",
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2022-07-18 21:39:50",
       "album": {
-        "name": "Lo Mejor de Mi Vida",
-        "url": "https://open.spotify.com/album/7IZzYkfoO1am9oUyNZK7fp"
-      },
-      "artists": [
-        {
-          "name": "La Firma",
-          "url": "https://open.spotify.com/artist/0WC9R4MbKLlwzhwqB5cqjc"
-        }
-      ],
-      "duration_ms": 224333,
-      "name": "Lo Mejor de Mi Vida",
-      "url": "https://open.spotify.com/track/5SVXxIPttTS33BSphXn7Dv"
-    },
-    {
-      "added_at": "2022-07-18 21:39:50",
-      "album": {
         "name": "De Parranda Lives Vol. 2/3",
         "url": "https://open.spotify.com/album/2qI4lRalMMAEAY7vOkd9Q1"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 208049,
       "name": "Ojala y te animes",
       "url": "https://open.spotify.com/track/0gdHT6RFfRvrjnnFbKzfL1"
+    },
+    {
+      "added_at": "2022-07-18 21:39:50",
+      "album": {
+        "name": "Lo Mejor de Mi Vida",
+        "url": "https://open.spotify.com/album/7IZzYkfoO1am9oUyNZK7fp"
+      },
+      "artists": [
+        {
+          "name": "La Firma",
+          "url": "https://open.spotify.com/artist/0WC9R4MbKLlwzhwqB5cqjc"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "Lo Mejor de Mi Vida",
+      "url": "https://open.spotify.com/track/5SVXxIPttTS33BSphXn7Dv"
     },
     {
       "added_at": "2021-12-08 06:00:00",

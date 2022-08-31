@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 
 > The best current contemporary Reggae\. Cover: Kabaka Pyramid
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,566 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,535 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Red Gold and Green](https://open.spotify.com/track/4EHZqxkgwhhJYkSHKrf5Eq) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH), [Damian 'Jr\. Gong' Marley](https://open.spotify.com/artist/5BCplet0tYrSaala0WrEmN) | [Red Gold and Green](https://open.spotify.com/album/53tx7b7xj9qklpnw8AbT5x) | 3:49 |
+| 1 | [Red Gold and Green](https://open.spotify.com/track/4EHZqxkgwhhJYkSHKrf5Eq) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Red Gold and Green](https://open.spotify.com/album/53tx7b7xj9qklpnw8AbT5x) | 3:49 |
 | 2 | [Never Give Up](https://open.spotify.com/track/4ANZGc4p6NJxQ81C7aqIGw) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Never Give Up](https://open.spotify.com/album/7vVxcQX012StUFPW9LzrNV) | 4:19 |
 | 3 | [Make Things Work](https://open.spotify.com/track/7vDvRGAI64dvYTwR5yL19C) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Make Things Work](https://open.spotify.com/album/0hFKmKNNdOdQ8RUwkeh4fj) | 4:01 |
 | 4 | [Rock Stone](https://open.spotify.com/track/7b2WilS8iNSF8PcU17IMdC) | [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf), [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv) | [Revelation Pt\. II: The Fruit of Life](https://open.spotify.com/album/3zBCEk3g6EGiUQVgJ4jFiK) | 4:37 |

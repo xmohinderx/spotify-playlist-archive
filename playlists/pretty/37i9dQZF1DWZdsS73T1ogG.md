@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Kalido, Mariah Angeliq, Kevin Roldan & Totoy El Frio
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,990 likes - 62 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 504,013 likes - 62 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 37 | [Diskreto](https://open.spotify.com/track/44E6KAwPyWJwtaTB1EUDUc) | [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK) | [Diskreto](https://open.spotify.com/album/0KEX9eiLQbH9188yR9DWqd) | 2:57 |
 | 38 | [Mojadero](https://open.spotify.com/track/6CuLgRNyiHtWcRCqFeZA8i) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Revol](https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW) | [Mojadero](https://open.spotify.com/album/7ptOOr9s01AaepOVD7ACOl) | 2:39 |
 | 39 | [Contacto](https://open.spotify.com/track/60UZ3rIcDkjoN5i2aZalNh) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Contacto](https://open.spotify.com/album/78ufjxVkliHl3vkPpgGmzL) | 3:17 |
-| 40 | [ea diache](https://open.spotify.com/track/3nQmKjtOfpfc5UGE7eA08u) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [diamantes y espinas](https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T) | 3:32 |
-| 41 | [Playa Sola](https://open.spotify.com/track/5LDbt6EZgm5cyph6bNq3e6) | [ØMG](https://open.spotify.com/artist/4LJ2wv8SaZZe50hYvpubP8) | [Playa Sola](https://open.spotify.com/album/5rx9nKzhq4RckTVsi2vcTt) | 2:17 |
+| 40 | [Playa Sola](https://open.spotify.com/track/5LDbt6EZgm5cyph6bNq3e6) | [ØMG](https://open.spotify.com/artist/4LJ2wv8SaZZe50hYvpubP8) | [Playa Sola](https://open.spotify.com/album/5rx9nKzhq4RckTVsi2vcTt) | 2:17 |
+| 41 | [ea diache](https://open.spotify.com/track/3nQmKjtOfpfc5UGE7eA08u) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [diamantes y espinas](https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T) | 3:32 |
 | 42 | [KLK](https://open.spotify.com/track/2Of9piZALXa4CC7Unxoeeg) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [KLK](https://open.spotify.com/album/1LnL349QHolcO0vHZxgKLt) | 3:01 |
-| 43 | [Quien Soy?](https://open.spotify.com/track/2WJ648KGSA8bhvJe0T9N4p) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Chris Wandell](https://open.spotify.com/artist/1jsB2W4c9zTq9ilGXegrDM) | [Quien Soy?](https://open.spotify.com/album/1I9cP54N1kFGnrDsmsILFY) | 3:21 |
-| 44 | [Bad Bichi](https://open.spotify.com/track/2hGTv1OBtgFeRgNyqphITI) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ) | [Bad Bichi](https://open.spotify.com/album/2uqrqjmwu3qqYU46jEd6DJ) | 2:55 |
+| 43 | [Bad Bichi](https://open.spotify.com/track/2hGTv1OBtgFeRgNyqphITI) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ) | [Bad Bichi](https://open.spotify.com/album/2uqrqjmwu3qqYU46jEd6DJ) | 2:55 |
+| 44 | [Quien Soy?](https://open.spotify.com/track/2WJ648KGSA8bhvJe0T9N4p) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Chris Wandell](https://open.spotify.com/artist/1jsB2W4c9zTq9ilGXegrDM) | [Quien Soy?](https://open.spotify.com/album/1I9cP54N1kFGnrDsmsILFY) | 3:21 |
 | 45 | [Castigada](https://open.spotify.com/track/3j6Ad8n9AYj2YjMXvDkZOk) | [Catalyna](https://open.spotify.com/artist/7bwjYGg7DOoLpV3AFK2Jmz), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Cory](https://open.spotify.com/artist/7o7FisMfKqVaysG1CSIWrr) | [Castigada](https://open.spotify.com/album/2xVbGAL132T4yXoJDS8TuL) | 3:16 |
 | 46 | [Nadie La Mantiene](https://open.spotify.com/track/3dvMNHL50mtjkr47j9g5Qo) | [YoGambii](https://open.spotify.com/artist/5RuWFvTN5tmKqn0KUfNruD), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Nadie La Mantiene](https://open.spotify.com/album/4VsBy8wJ0Tq1gbdX7gjPPK) | 3:44 |
 | 47 | [Piensas En Mi](https://open.spotify.com/track/4aZXV9vBzJlwAd54GGZdGY) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [Piensas En Mi](https://open.spotify.com/album/48bOYyl6R4Osu0luA0RWoS) | 3:02 |
@@ -59,11 +59,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 49 | [Dolía](https://open.spotify.com/track/6tgn0I6tgzX9n38whF5Xc8) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Dolía](https://open.spotify.com/album/1B33wszc7gVLOQW0iZHIJA) | 2:47 |
 | 50 | [Uh Huh](https://open.spotify.com/track/7L5xzfKz9Lich6YoaDTTfX) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Uh Huh](https://open.spotify.com/album/0QWu0i9aspqONLrrVisUsf) | 2:43 |
 | 51 | [VILLANO](https://open.spotify.com/track/5Yoi4uDMs3HzVHUDjnLWyD) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [VILLANO](https://open.spotify.com/album/4GjRIvEBfya2EjG1OhKF4M) | 2:43 |
-| 52 | [Thirteen](https://open.spotify.com/track/3CeerksBP1R34v6L79rPvC) | [NEZZA](https://open.spotify.com/artist/0cRKBhWUTEtR1vmA06kVKz) | [Thirteen](https://open.spotify.com/album/6uB35Vnb3ntHG3r7SaOpTQ) | 3:33 |
-| 53 | [SUSANA](https://open.spotify.com/track/7EnZaT7BlPSRORrWdmAaIS) | [Leo Bash](https://open.spotify.com/artist/09xRT8VIvTTNEAfz0HTxvx), [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC) | [SUSANA](https://open.spotify.com/album/2to3l5blV24S95syzQg5Th) | 2:31 |
+| 52 | [SUSANA](https://open.spotify.com/track/7EnZaT7BlPSRORrWdmAaIS) | [Leo Bash](https://open.spotify.com/artist/09xRT8VIvTTNEAfz0HTxvx), [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC) | [SUSANA](https://open.spotify.com/album/2to3l5blV24S95syzQg5Th) | 2:31 |
+| 53 | [Thirteen](https://open.spotify.com/track/3CeerksBP1R34v6L79rPvC) | [NEZZA](https://open.spotify.com/artist/0cRKBhWUTEtR1vmA06kVKz) | [Thirteen](https://open.spotify.com/album/6uB35Vnb3ntHG3r7SaOpTQ) | 3:33 |
 | 54 | [La Babygirl](https://open.spotify.com/track/0eyBVedpmRH8s8S2W7lEqM) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Despues Siempre Es Tarde](https://open.spotify.com/album/6yiDOMUgSUUVoh5waZ8LJ4) | 3:48 |
-| 55 | [Fashion Freak](https://open.spotify.com/track/1uCEBYwOdBLs8cyVsL35L2) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Fashion Freak](https://open.spotify.com/album/5c5LCZOKndw0LRyyY2R890) | 2:30 |
-| 56 | [COMPL1CADO](https://open.spotify.com/track/09LiLT8Uh9CgJSXV6RDU5O) | [FUFU](https://open.spotify.com/artist/1DKBefRmhv8L6YNZUrwOQ6) | [COMPL1CADO](https://open.spotify.com/album/0bwMwYtt9incXsUsRiS9Vy) | 3:04 |
+| 55 | [COMPL1CADO](https://open.spotify.com/track/09LiLT8Uh9CgJSXV6RDU5O) | [FUFU](https://open.spotify.com/artist/1DKBefRmhv8L6YNZUrwOQ6) | [COMPL1CADO](https://open.spotify.com/album/0bwMwYtt9incXsUsRiS9Vy) | 3:04 |
+| 56 | [Fashion Freak](https://open.spotify.com/track/1uCEBYwOdBLs8cyVsL35L2) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Fashion Freak](https://open.spotify.com/album/5c5LCZOKndw0LRyyY2R890) | 2:30 |
 | 57 | [TAL VEZ](https://open.spotify.com/track/4UEFTMbJ3bdQiAS8KTa2Ec) | [Pusho](https://open.spotify.com/artist/2qbEtwBVyobgpNP5KcHE9J), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [1ST PICK](https://open.spotify.com/album/3WcqheQCc5yIZ5f4sz0IZA) | 3:56 |
 | 58 | [Fuiste Mala](https://open.spotify.com/track/5k4ONoxlb2FwxcMwEpQBz8) | [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch), [MvP Boyi](https://open.spotify.com/artist/5SVFX6A9E7vOBlgQObFsbj) | [Fuiste Mala](https://open.spotify.com/album/2SrmkNrGZYsYHKD44uQa4v) | 3:20 |
 | 59 | [OCD](https://open.spotify.com/track/5Gin2J2nnsVivLphI2dsg4) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Smash David](https://open.spotify.com/artist/07njdunWkKcy4pTERUO0qy) | [Err Bambini](https://open.spotify.com/album/14PvGI3lvYi7sf5dqgKT9y) | 2:43 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 61 | [Chanel](https://open.spotify.com/track/1WOeXa0KaCMCg3oiHNO3w4) | [Carlos Cortez](https://open.spotify.com/artist/3DplAKAVidNrhpivWNLMWC) | [Chanel](https://open.spotify.com/album/6gebMWgHnR1GXP237B6G7Y) | 2:54 |
 | 62 | [2:00 AM](https://open.spotify.com/track/1Ggq4JgcpwkPG0dV7bR04y) | [Medicensanto](https://open.spotify.com/artist/1bggGBhvZxsRUVLK6Gdbax) | [2:00 AM](https://open.spotify.com/album/4aYnmdAABxYzxaQL2lqDPT) | 2:15 |
 
-Snapshot ID: `MTY2MTQ4NjQ2MCwwMDAwMDAwMDhiMjUxOTJkNzI2YmRmNjhlMGI3NDZjMWFlNjRjM2U2`
+Snapshot ID: `MTY2MTQ4NjQ2MCwwMDAwMDAwMGY0YmIyZTM0ZmFhMjk5NmYwODU2N2VhZDY3N2Y3Y2M4`

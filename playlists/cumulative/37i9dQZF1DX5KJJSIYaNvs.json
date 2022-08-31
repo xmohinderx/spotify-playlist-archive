@@ -8,6 +8,42 @@
   "tracks": [
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/7tuED48YasDaTCKYBc1KUy"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/0zEc0X8eKTfoiIqW77ugyB"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/1fkasXpHNnNfgs3iByPoQc"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/7IP72Pw6reOTDZrpLVtOFT"
+    },
+    {
+      "album": {
         "name": "52 Gaj Ka Daman (Hindi)",
         "url": "https://open.spotify.com/album/5FkWrtyfbhuTt30JTNFM58"
       },
@@ -383,44 +419,6 @@
       "duration_ms": 147822,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/4QDB3SOGXUlLQrIhBHGSOw"
-    },
-    {
-      "album": {
-        "name": "Bajirao Mastani (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1fkasXpHNnNfgs3iByPoQc"
-      },
-      "artists": [
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        },
-        {
-          "name": "Ganesh Chandanshive",
-          "url": "https://open.spotify.com/artist/59fYphinaqBfGBtrQ4p9Hv"
-        },
-        {
-          "name": "Mujtaba Aziz Naza",
-          "url": "https://open.spotify.com/artist/2yxX2XZyWVBpVX3pNaG0UF"
-        },
-        {
-          "name": "Shadab Faridi",
-          "url": "https://open.spotify.com/artist/6WixbETKEXH0xBf0OB9kRB"
-        },
-        {
-          "name": "Altamash Faridi",
-          "url": "https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF"
-        },
-        {
-          "name": "Farhan Sabri",
-          "url": "https://open.spotify.com/artist/2S7i3wOcMLQHH6DwcMHrG9"
-        }
-      ],
-      "date_added": "2022-03-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 340232,
-      "name": "Deewani Mastani (From \"Bajirao Mastani\")",
-      "url": "https://open.spotify.com/track/7IP72Pw6reOTDZrpLVtOFT"
     },
     {
       "album": {
@@ -2221,28 +2219,6 @@
       "duration_ms": 285185,
       "name": "Patakha Guddi",
       "url": "https://open.spotify.com/track/7jpmNt5iCtSdXuT1xEGp8O"
-    },
-    {
-      "album": {
-        "name": "Pinga (From \"Bajirao Mastani\")",
-        "url": "https://open.spotify.com/album/7tuED48YasDaTCKYBc1KUy"
-      },
-      "artists": [
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        },
-        {
-          "name": "Vaishali Made",
-          "url": "https://open.spotify.com/artist/3eD8Whpe2NYdslFWQfKnQl"
-        }
-      ],
-      "date_added": "2022-03-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 255169,
-      "name": "Pinga (From \"Bajirao Mastani\")",
-      "url": "https://open.spotify.com/track/0zEc0X8eKTfoiIqW77ugyB"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > I CRY IN HIS BATHROOM HE TURNS OFF THE BIG LIGHT
 
-627 songs - 1 day 9 hr 32 min - [published](https://open.spotify.com/playlist/4lvmqgyOZ3UIDY0edvx7rR)
+628 songs - 1 day 9 hr 34 min - [published](https://open.spotify.com/playlist/4lvmqgyOZ3UIDY0edvx7rR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -632,6 +632,7 @@
 | [You Never Know](https://open.spotify.com/track/01tNpXoTjrqvb1zhG6wmop) | [Cast of High School Musical: The Musical: The Series](https://open.spotify.com/artist/1YWJ1WjMkBCB1X3QOJ1Wdn), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical: The Musical: The Series Season 3 \(Episode 2\) \[From "High School Musical: The Musical: The Series \(Season 3\)"\]](https://open.spotify.com/album/1XlNDgxQd2Tsqu6pK0iNkd) | 3:16 | 2022-08-04 |  |
 | [You're a Jerk](https://open.spotify.com/track/30QbrkRLEimw7HWXb7ntrU) | [New Boyz](https://open.spotify.com/artist/1ZKqrja0WvbSssYNFO3lzs) | [Skinny Jeanz and a Mic](https://open.spotify.com/album/69Nu2ijQ5dCtI6uFeSy64x) | 3:09 | 2022-05-19 |  |
 | [You're a Jerk](https://open.spotify.com/track/7hZPBVT3M6UQv1eBkkTXfh) | [New Boyz](https://open.spotify.com/artist/1ZKqrja0WvbSssYNFO3lzs) | [Skinny Jeanz and a Mic](https://open.spotify.com/album/7tJeqFSzeIPToU3oZ4fkiB) | 3:09 | 2022-05-19 | 2022-07-29 |
+| [You're Fucked](https://open.spotify.com/track/2dOwL7OS1lMfAL0il4y2Wx) | [Ylvis](https://open.spotify.com/artist/2lEOFtf3cCyzomQcMHJGfZ) | [Stories From Norway: Northug](https://open.spotify.com/album/6gYWO3DwoNdB6ZsFy6twpG) | 1:46 | 2022-08-30 |  |
 | [You're Not Harry Styles](https://open.spotify.com/track/1yCrrZwlYPS3AqQHsJvFlu) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [You're Not Harry Styles](https://open.spotify.com/album/2syexb536heyUjkWkx7Kab) | 2:56 | 2022-05-19 | 2022-07-29 |
 | [You're Not Harry Styles](https://open.spotify.com/track/5b3uCeLjd2m9evBYZKHW7E) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [No Romeo EP](https://open.spotify.com/album/09ItArIl88LxU5InoksUTo) | 2:56 | 2022-05-19 |  |
 | [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 | 2022-05-19 |  |

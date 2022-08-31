@@ -4,7 +4,7 @@
 
 > Desi hits from South Asia\. Cover: Shae Gill, Ali Sethi
 
-114 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/5pITaMwZ6Z8u14yHLHyyaQ)
+115 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/5pITaMwZ6Z8u14yHLHyyaQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [NO LOVE](https://open.spotify.com/track/5B4YQN1FCuADJ0o4phAtwC) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [NO LOVE](https://open.spotify.com/album/71z4Ni4FHsAUWpcy1oFmOT) | 2:50 | 2022-06-16 |  |
 | [On My Way](https://open.spotify.com/track/00qW70gFKPL4vetGsJ44gB) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js), [M.E.E.Z](https://open.spotify.com/artist/0EApWAg3HC8VBdCKKGxapM) | [On My Way](https://open.spotify.com/album/3swSYkClej6IgR1AWPpzbS) | 3:31 | 2022-03-10 | 2022-04-08 |
 | [Once Upon a Time](https://open.spotify.com/track/4wCy7erulqUfFQNVaZBD9b) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0FIP7MeIO3yqL8K6uTz3b1) | 2:23 | 2022-08-21 |  |
+| [OOPS](https://open.spotify.com/track/5RrOyaV2xOAnf62uWj24dB) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [OOPS](https://open.spotify.com/album/23Xu8xOIyGOKQvmsM24ESK) | 2:43 | 2022-08-30 |  |
 | [Paani Paani](https://open.spotify.com/track/1myzcUZDmZ5m1EgGv19c76) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ) | [Paani Paani](https://open.spotify.com/album/5fkjWQSbKMhpA7NMh3JEjJ) | 2:54 | 2021-12-06 |  |
 | [Pal Pal Dil Ke Paas\- Title Track](https://open.spotify.com/track/7lGhrfren1Zpwh0ds0zuUg) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE) | [Pal Pal Dil Ke Paas\- Title Track \(From "Pal Pal Dil Ke Paas"\)](https://open.spotify.com/album/0C9FXcECAeepJhmuvETNe1) | 4:14 | 2021-12-06 |  |
 | [Param Sundari](https://open.spotify.com/track/3KeMulXbLDJBQdY5PZbGEh) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Mimi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0DUOcMjmHGVLqFkWqfNC0z) | 3:20 | 2021-12-06 |  |

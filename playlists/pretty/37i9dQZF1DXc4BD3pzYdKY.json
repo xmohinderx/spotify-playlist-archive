@@ -1,12 +1,12 @@
 {
   "description": "The best of Christian Hip Hop today.  Cover: nobigdyl.",
-  "num_followers": 105263,
+  "num_followers": 105282,
   "original_name": "The Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTg0NzExMiwwMDAwMDAwMDJlY2JlZjVhNTU4NzRmZmExZWViN2IwMTZhN2RjYTQ1",
+  "snapshot_id": "MTY1OTg0NzExMiwwMDAwMDAwMGIyMTVkNzU3ZjI4NDhjNmM3MWVmMjNkYTRkZTEwYjg4",
   "tracks": [
     {
       "added_at": "2022-08-06 04:47:39",
@@ -663,6 +663,30 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
+        "name": "Catch These Hands (Remix)",
+        "url": "https://open.spotify.com/album/7APamlqElimCKW62z0yKFf"
+      },
+      "artists": [
+        {
+          "name": "JIMMY ROCK",
+          "url": "https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN"
+        },
+        {
+          "name": "KJ-52",
+          "url": "https://open.spotify.com/artist/0kSHocNBxQeP9pr25l1scP"
+        },
+        {
+          "name": "Pettidee",
+          "url": "https://open.spotify.com/artist/0qehlCsv0Di0jyb9tWOmvO"
+        }
+      ],
+      "duration_ms": 144506,
+      "name": "Catch These Hands - Remix",
+      "url": "https://open.spotify.com/track/3K7zvRw4Wg9afWGfnDU7vM"
+    },
+    {
+      "added_at": "2022-08-06 04:47:39",
+      "album": {
         "name": "Growing Up, Pt.2",
         "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
       },
@@ -699,30 +723,6 @@
       "duration_ms": 216000,
       "name": "I Will Not",
       "url": "https://open.spotify.com/track/0ksRxJ9rgHjh7Jy83S6vLh"
-    },
-    {
-      "added_at": "2022-08-06 04:47:39",
-      "album": {
-        "name": "Catch These Hands (Remix)",
-        "url": "https://open.spotify.com/album/7APamlqElimCKW62z0yKFf"
-      },
-      "artists": [
-        {
-          "name": "JIMMY ROCK",
-          "url": "https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN"
-        },
-        {
-          "name": "KJ-52",
-          "url": "https://open.spotify.com/artist/0kSHocNBxQeP9pr25l1scP"
-        },
-        {
-          "name": "Pettidee",
-          "url": "https://open.spotify.com/artist/0qehlCsv0Di0jyb9tWOmvO"
-        }
-      ],
-      "duration_ms": 144506,
-      "name": "Catch These Hands - Remix",
-      "url": "https://open.spotify.com/track/3K7zvRw4Wg9afWGfnDU7vM"
     },
     {
       "added_at": "2022-08-06 04:47:39",
@@ -883,18 +883,18 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
-        "name": "PEACE OF MIND",
-        "url": "https://open.spotify.com/album/5QbUbmlbHdRAnNT3fhAWwZ"
+        "name": "ON THA SEAT",
+        "url": "https://open.spotify.com/album/1dYQWKJn9d0JRapMeQ93Qk"
       },
       "artists": [
         {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+          "name": "adriansings",
+          "url": "https://open.spotify.com/artist/2HloHLKSPcm2s0nzX2mAIW"
         }
       ],
-      "duration_ms": 207876,
-      "name": "PEACE OF MIND",
-      "url": "https://open.spotify.com/track/0nPTcCYwX5ObfRk4crSy0d"
+      "duration_ms": 207068,
+      "name": "ON THA SEAT",
+      "url": "https://open.spotify.com/track/5HRC8AYowTbU10wJQ16Auy"
     },
     {
       "added_at": "2022-08-06 04:47:39",
@@ -915,6 +915,22 @@
       "duration_ms": 123478,
       "name": "Praise",
       "url": "https://open.spotify.com/track/6wbvE1aVv9d112MiP6sGkE"
+    },
+    {
+      "added_at": "2022-08-06 04:47:39",
+      "album": {
+        "name": "PEACE OF MIND",
+        "url": "https://open.spotify.com/album/5QbUbmlbHdRAnNT3fhAWwZ"
+      },
+      "artists": [
+        {
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+        }
+      ],
+      "duration_ms": 207876,
+      "name": "PEACE OF MIND",
+      "url": "https://open.spotify.com/track/0nPTcCYwX5ObfRk4crSy0d"
     },
     {
       "added_at": "2022-08-06 04:47:39",
@@ -943,22 +959,6 @@
       "duration_ms": 184335,
       "name": "Won't Stop - Reyer Remix",
       "url": "https://open.spotify.com/track/5scmtvav3joe03DAihMTd6"
-    },
-    {
-      "added_at": "2022-08-06 04:47:39",
-      "album": {
-        "name": "ON THA SEAT",
-        "url": "https://open.spotify.com/album/1dYQWKJn9d0JRapMeQ93Qk"
-      },
-      "artists": [
-        {
-          "name": "adriansings",
-          "url": "https://open.spotify.com/artist/2HloHLKSPcm2s0nzX2mAIW"
-        }
-      ],
-      "duration_ms": 207068,
-      "name": "ON THA SEAT",
-      "url": "https://open.spotify.com/track/5HRC8AYowTbU10wJQ16Auy"
     },
     {
       "added_at": "2022-08-06 04:47:39",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
+        "name": "Tricky",
+        "url": "https://open.spotify.com/album/2L7aO5sMbn0jSFj2ZQpdnB"
+      },
+      "artists": [
+        {
+          "name": "Red Tips",
+          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
+        }
+      ],
+      "duration_ms": 132635,
+      "name": "Tricky",
+      "url": "https://open.spotify.com/track/1X6R3SpHPB4ySRMF5kzdtw"
+    },
+    {
+      "added_at": "2022-08-06 04:47:39",
+      "album": {
         "name": "Seat At The Table",
         "url": "https://open.spotify.com/album/21UuBeZLx6VUmL8B6NiU3d"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 238285,
       "name": "Seat At The Table",
       "url": "https://open.spotify.com/track/3fdUvuEM2XjI58BYP2Gyjk"
-    },
-    {
-      "added_at": "2022-08-06 04:47:39",
-      "album": {
-        "name": "Tricky",
-        "url": "https://open.spotify.com/album/2L7aO5sMbn0jSFj2ZQpdnB"
-      },
-      "artists": [
-        {
-          "name": "Red Tips",
-          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
-        }
-      ],
-      "duration_ms": 132635,
-      "name": "Tricky",
-      "url": "https://open.spotify.com/track/1X6R3SpHPB4ySRMF5kzdtw"
     },
     {
       "added_at": "2022-08-06 04:47:39",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
+        "name": "Reality Checks",
+        "url": "https://open.spotify.com/album/2HhfhRKQym6KfjQdQAZ4Wo"
+      },
+      "artists": [
+        {
+          "name": "Dru Bex",
+          "url": "https://open.spotify.com/artist/11hR4oPRwSDzaUMTPzYuoe"
+        }
+      ],
+      "duration_ms": 190909,
+      "name": "Reality Checks",
+      "url": "https://open.spotify.com/track/0hgTeA5UfYmCzhf7z1uFlz"
+    },
+    {
+      "added_at": "2022-08-06 04:47:39",
+      "album": {
         "name": "Graded 10",
         "url": "https://open.spotify.com/album/3497rXxrbuhJuArE8fa0NH"
       },
@@ -1299,18 +1315,50 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
-        "name": "Reality Checks",
-        "url": "https://open.spotify.com/album/2HhfhRKQym6KfjQdQAZ4Wo"
+        "name": "Perfect Timing",
+        "url": "https://open.spotify.com/album/5YMZNjPfJukiXHS2zqV4Wj"
       },
       "artists": [
         {
-          "name": "Dru Bex",
-          "url": "https://open.spotify.com/artist/11hR4oPRwSDzaUMTPzYuoe"
+          "name": "Wxlf",
+          "url": "https://open.spotify.com/artist/7qznACJ6acDAbx0LV39BrM"
         }
       ],
-      "duration_ms": 190909,
-      "name": "Reality Checks",
-      "url": "https://open.spotify.com/track/0hgTeA5UfYmCzhf7z1uFlz"
+      "duration_ms": 190985,
+      "name": "Perfect Timing",
+      "url": "https://open.spotify.com/track/1mr6khdkZFkx2m5ilDBkHX"
+    },
+    {
+      "added_at": "2022-08-06 04:47:39",
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/0YtOj7ckJtghcUUxmVh2Gt"
+      },
+      "artists": [
+        {
+          "name": "Sansone",
+          "url": "https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU"
+        }
+      ],
+      "duration_ms": 196373,
+      "name": "Never Scared",
+      "url": "https://open.spotify.com/track/4ArXK7w8xQlAd6cixC0b1I"
+    },
+    {
+      "added_at": "2022-08-06 04:47:39",
+      "album": {
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/7dnIJ45luUssK7kNchHVGk"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "duration_ms": 116307,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/2FtFXgkmwp2WBg0QCOJoC8"
     },
     {
       "added_at": "2022-08-06 04:47:39",
@@ -1351,50 +1399,26 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
-        "name": "Perfect Timing",
-        "url": "https://open.spotify.com/album/5YMZNjPfJukiXHS2zqV4Wj"
+        "name": "/kroun/",
+        "url": "https://open.spotify.com/album/7lujWYUcmJ6MgfcQZ7cHhG"
       },
       "artists": [
         {
-          "name": "Wxlf",
-          "url": "https://open.spotify.com/artist/7qznACJ6acDAbx0LV39BrM"
-        }
-      ],
-      "duration_ms": 190985,
-      "name": "Perfect Timing",
-      "url": "https://open.spotify.com/track/1mr6khdkZFkx2m5ilDBkHX"
-    },
-    {
-      "added_at": "2022-08-06 04:47:39",
-      "album": {
-        "name": "Lay Low",
-        "url": "https://open.spotify.com/album/7dnIJ45luUssK7kNchHVGk"
-      },
-      "artists": [
+          "name": "outr.cty",
+          "url": "https://open.spotify.com/artist/44p6xbyBk8khm2UotlfH2w"
+        },
         {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
-        }
-      ],
-      "duration_ms": 116307,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/2FtFXgkmwp2WBg0QCOJoC8"
-    },
-    {
-      "added_at": "2022-08-06 04:47:39",
-      "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/0YtOj7ckJtghcUUxmVh2Gt"
-      },
-      "artists": [
+          "name": "Scribe Music",
+          "url": "https://open.spotify.com/artist/6Sje0vb62lzeO204N9yh0n"
+        },
         {
-          "name": "Sansone",
-          "url": "https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU"
+          "name": "B. Cooper",
+          "url": "https://open.spotify.com/artist/68PZRIV4P3i1WDizC3PlDq"
         }
       ],
-      "duration_ms": 196373,
-      "name": "Never Scared",
-      "url": "https://open.spotify.com/track/4ArXK7w8xQlAd6cixC0b1I"
+      "duration_ms": 153043,
+      "name": "/kroun/",
+      "url": "https://open.spotify.com/track/2e1HiZFrtlkyNxP5uu8dGj"
     },
     {
       "added_at": "2022-08-06 04:47:39",
@@ -1431,30 +1455,6 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
-        "name": "/kroun/",
-        "url": "https://open.spotify.com/album/7lujWYUcmJ6MgfcQZ7cHhG"
-      },
-      "artists": [
-        {
-          "name": "outr.cty",
-          "url": "https://open.spotify.com/artist/44p6xbyBk8khm2UotlfH2w"
-        },
-        {
-          "name": "Scribe Music",
-          "url": "https://open.spotify.com/artist/6Sje0vb62lzeO204N9yh0n"
-        },
-        {
-          "name": "B. Cooper",
-          "url": "https://open.spotify.com/artist/68PZRIV4P3i1WDizC3PlDq"
-        }
-      ],
-      "duration_ms": 153043,
-      "name": "/kroun/",
-      "url": "https://open.spotify.com/track/2e1HiZFrtlkyNxP5uu8dGj"
-    },
-    {
-      "added_at": "2022-08-06 04:47:39",
-      "album": {
         "name": "Cafeteria",
         "url": "https://open.spotify.com/album/6q84E0z9N2ZWBFLBWgADP5"
       },
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
-        "name": "Never Be the Same",
-        "url": "https://open.spotify.com/album/2pi1Q19Ktl2hoyBJH6QkRH"
-      },
-      "artists": [
-        {
-          "name": "Vic Lucas",
-          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
-        }
-      ],
-      "duration_ms": 153601,
-      "name": "Never Be the Same",
-      "url": "https://open.spotify.com/track/3Fxxsx248FVmrQXUwNhVoD"
-    },
-    {
-      "added_at": "2022-08-06 04:47:39",
-      "album": {
         "name": "Motive",
         "url": "https://open.spotify.com/album/6BwDhZVaF5BiXi9pLnP8rH"
       },
@@ -1507,18 +1491,18 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
-        "name": "Bad Kid Great God",
-        "url": "https://open.spotify.com/album/68IZc6DL32U0hzOyFINoZf"
+        "name": "Never Be the Same",
+        "url": "https://open.spotify.com/album/2pi1Q19Ktl2hoyBJH6QkRH"
       },
       "artists": [
         {
-          "name": "Adriel Cruz",
-          "url": "https://open.spotify.com/artist/1aBDTgXnbKTDCUubYLbtoa"
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
         }
       ],
-      "duration_ms": 156004,
-      "name": "Bad Kid Great God",
-      "url": "https://open.spotify.com/track/5Jr5UZSwkkbv6iqdI046rA"
+      "duration_ms": 153601,
+      "name": "Never Be the Same",
+      "url": "https://open.spotify.com/track/3Fxxsx248FVmrQXUwNhVoD"
     },
     {
       "added_at": "2022-08-06 04:47:39",
@@ -1539,6 +1523,22 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
+        "name": "Bad Kid Great God",
+        "url": "https://open.spotify.com/album/68IZc6DL32U0hzOyFINoZf"
+      },
+      "artists": [
+        {
+          "name": "Adriel Cruz",
+          "url": "https://open.spotify.com/artist/1aBDTgXnbKTDCUubYLbtoa"
+        }
+      ],
+      "duration_ms": 156004,
+      "name": "Bad Kid Great God",
+      "url": "https://open.spotify.com/track/5Jr5UZSwkkbv6iqdI046rA"
+    },
+    {
+      "added_at": "2022-08-06 04:47:39",
+      "album": {
         "name": "INNER CITY GOSPEL",
         "url": "https://open.spotify.com/album/2gsf9Nax7eO3tnjPSC4YqP"
       },
@@ -1555,6 +1555,22 @@
       "duration_ms": 169874,
       "name": "TUNNEL VISION",
       "url": "https://open.spotify.com/track/6C6s0bb9k6KfmRms8l6WE1"
+    },
+    {
+      "added_at": "2022-08-06 04:47:39",
+      "album": {
+        "name": "CELEBRATE",
+        "url": "https://open.spotify.com/album/0CxfDSY6xqyagbrgAYWPJ3"
+      },
+      "artists": [
+        {
+          "name": "Mystro Productions",
+          "url": "https://open.spotify.com/artist/3xPvqSwcmpA8ytvPa9oskQ"
+        }
+      ],
+      "duration_ms": 224658,
+      "name": "CELEBRATE",
+      "url": "https://open.spotify.com/track/21LvTVPTfwMOu7gPLJ1fd6"
     },
     {
       "added_at": "2022-08-06 04:47:39",
@@ -1591,22 +1607,6 @@
       "duration_ms": 211540,
       "name": "Who?",
       "url": "https://open.spotify.com/track/0L5eYwDd5OwRmoRkeMrkbL"
-    },
-    {
-      "added_at": "2022-08-06 04:47:39",
-      "album": {
-        "name": "CELEBRATE",
-        "url": "https://open.spotify.com/album/0CxfDSY6xqyagbrgAYWPJ3"
-      },
-      "artists": [
-        {
-          "name": "Mystro Productions",
-          "url": "https://open.spotify.com/artist/3xPvqSwcmpA8ytvPa9oskQ"
-        }
-      ],
-      "duration_ms": 224658,
-      "name": "CELEBRATE",
-      "url": "https://open.spotify.com/track/21LvTVPTfwMOu7gPLJ1fd6"
     },
     {
       "added_at": "2022-08-06 04:47:39",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
-        "name": "Angels",
-        "url": "https://open.spotify.com/album/0k2Yd33uJ3BEpn7Pdcq3LA"
-      },
-      "artists": [
-        {
-          "name": "Reconcile",
-          "url": "https://open.spotify.com/artist/205ryRzLS0HTtASNep0wUm"
-        }
-      ],
-      "duration_ms": 185257,
-      "name": "Angels",
-      "url": "https://open.spotify.com/track/7vzOi9isfDmRaeITHUsM5C"
-    },
-    {
-      "added_at": "2022-08-06 04:47:39",
-      "album": {
         "name": "Look at Me Now",
         "url": "https://open.spotify.com/album/430Kd4ZOu31gytgHSIk4Jh"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 238895,
       "name": "Look at Me Now",
       "url": "https://open.spotify.com/track/0D0cxJpnhijpr5QMmKmYDL"
+    },
+    {
+      "added_at": "2022-08-06 04:47:39",
+      "album": {
+        "name": "Angels",
+        "url": "https://open.spotify.com/album/0k2Yd33uJ3BEpn7Pdcq3LA"
+      },
+      "artists": [
+        {
+          "name": "Reconcile",
+          "url": "https://open.spotify.com/artist/205ryRzLS0HTtASNep0wUm"
+        }
+      ],
+      "duration_ms": 185257,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/7vzOi9isfDmRaeITHUsM5C"
     },
     {
       "added_at": "2022-08-06 04:47:39",
@@ -1775,26 +1775,6 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
-        "name": "Devoted",
-        "url": "https://open.spotify.com/album/22r8vtoEXLKHqOsKEKb5eT"
-      },
-      "artists": [
-        {
-          "name": "Kashh Kade",
-          "url": "https://open.spotify.com/artist/029BjbYHANOxmuCPJM96dI"
-        },
-        {
-          "name": "Xay Hill",
-          "url": "https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6"
-        }
-      ],
-      "duration_ms": 174677,
-      "name": "Devoted",
-      "url": "https://open.spotify.com/track/12cxIlOsMLQONItDrIiQjq"
-    },
-    {
-      "added_at": "2022-08-06 04:47:39",
-      "album": {
         "name": "BEST NIGHT",
         "url": "https://open.spotify.com/album/4unZ0GkcZuI9qWIdF77eiL"
       },
@@ -1819,6 +1799,26 @@
       "duration_ms": 161965,
       "name": "BEST NIGHT",
       "url": "https://open.spotify.com/track/5gwjlmywKglmE8y4lVBV0j"
+    },
+    {
+      "added_at": "2022-08-06 04:47:39",
+      "album": {
+        "name": "Devoted",
+        "url": "https://open.spotify.com/album/22r8vtoEXLKHqOsKEKb5eT"
+      },
+      "artists": [
+        {
+          "name": "Kashh Kade",
+          "url": "https://open.spotify.com/artist/029BjbYHANOxmuCPJM96dI"
+        },
+        {
+          "name": "Xay Hill",
+          "url": "https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6"
+        }
+      ],
+      "duration_ms": 174677,
+      "name": "Devoted",
+      "url": "https://open.spotify.com/track/12cxIlOsMLQONItDrIiQjq"
     },
     {
       "added_at": "2022-08-06 04:47:39",

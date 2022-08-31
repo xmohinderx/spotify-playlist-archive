@@ -176,6 +176,24 @@
     },
     {
       "album": {
+        "name": "Abeyance",
+        "url": "https://open.spotify.com/album/0B2KIoa9OpRydCNaOP5p50"
+      },
+      "artists": [
+        {
+          "name": "Caris Hermes",
+          "url": "https://open.spotify.com/artist/23PTKxQtsIL4Z9AZsNabz0"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414108,
+      "name": "Abeyance",
+      "url": "https://open.spotify.com/track/6RR3VWktMxEjW95tE4B9H8"
+    },
+    {
+      "album": {
         "name": "Lonely Shadows",
         "url": "https://open.spotify.com/album/4IRifRBgHH1a8SNZ0joXiN"
       },
@@ -2477,7 +2495,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 420493,
       "name": "Seak Fruits",
       "url": "https://open.spotify.com/track/2l9J8shXr61aKfZPd9dLm9"

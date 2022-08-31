@@ -1,12 +1,12 @@
 {
   "description": "the best things in life can't be contained.",
-  "num_followers": 1475755,
+  "num_followers": 1475728,
   "original_name": "Wild + Free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzY4NDczNywwMDAwMDAwMDMwZmQ4NDA4ZTI2NTkyNTZmOTBhMWQ5ZDlhZTM4MWE2",
+  "snapshot_id": "MTY1MzY4NDczNywwMDAwMDAwMGU2ZGQ1OTVmZDkwYzgyNGQ1ZmZlZDZmYTBjZmM5ODk2",
   "tracks": [
     {
       "added_at": "2022-05-27 20:52:17",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-05-27 20:52:17",
       "album": {
-        "name": "Terms of Surrender",
-        "url": "https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu"
-      },
-      "artists": [
-        {
-          "name": "Hiss Golden Messenger",
-          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
-        }
-      ],
-      "duration_ms": 197596,
-      "name": "I Need a Teacher",
-      "url": "https://open.spotify.com/track/7nvAdiuXhFeHICyy2OzOcS"
-    },
-    {
-      "added_at": "2022-05-27 20:52:17",
-      "album": {
         "name": "Hurricane",
         "url": "https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW"
       },
@@ -859,18 +843,18 @@
     {
       "added_at": "2022-05-27 20:52:17",
       "album": {
-        "name": "In These Silent Days",
-        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+        "name": "Terms of Surrender",
+        "url": "https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu"
       },
       "artists": [
         {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+          "name": "Hiss Golden Messenger",
+          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
         }
       ],
-      "duration_ms": 303593,
-      "name": "Broken Horses",
-      "url": "https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib"
+      "duration_ms": 197596,
+      "name": "I Need a Teacher",
+      "url": "https://open.spotify.com/track/7nvAdiuXhFeHICyy2OzOcS"
     },
     {
       "added_at": "2022-05-27 20:52:17",
@@ -887,6 +871,22 @@
       "duration_ms": 211733,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/7IuUsxQWHfXGkRDdAT0MLW"
+    },
+    {
+      "added_at": "2022-05-27 20:52:17",
+      "album": {
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 303593,
+      "name": "Broken Horses",
+      "url": "https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib"
     },
     {
       "added_at": "2022-05-27 20:52:17",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-05-27 20:52:17",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/7M2JPV9Q0OzWgI7v46Q9Dg"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 193240,
-      "name": "Call Me in the Afternoon",
-      "url": "https://open.spotify.com/track/3jJuBdO5rrtDufNAf76V1x"
-    },
-    {
-      "added_at": "2022-05-27 20:52:17",
-      "album": {
         "name": "Stars and Satellites",
         "url": "https://open.spotify.com/album/3otETa3Pe9HZon4cP9xZnB"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 268280,
       "name": "Alone",
       "url": "https://open.spotify.com/track/5H06kjjKa1Oz8BZcGeplel"
+    },
+    {
+      "added_at": "2022-05-27 20:52:17",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/7M2JPV9Q0OzWgI7v46Q9Dg"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 193240,
+      "name": "Call Me in the Afternoon",
+      "url": "https://open.spotify.com/track/3jJuBdO5rrtDufNAf76V1x"
     },
     {
       "added_at": "2022-05-27 20:52:17",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-05-27 20:52:17",
       "album": {
-        "name": "Half Moon Light",
-        "url": "https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1"
-      },
-      "artists": [
-        {
-          "name": "The Lone Bellow",
-          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
-        }
-      ],
-      "duration_ms": 229960,
-      "name": "Good Times",
-      "url": "https://open.spotify.com/track/0C9uaJt51ytJgwiZpRYyGM"
-    },
-    {
-      "added_at": "2022-05-27 20:52:17",
-      "album": {
         "name": "Boys (Side A)",
         "url": "https://open.spotify.com/album/4kBUtVFzM9mrVZEtr0f56v"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 86831,
       "name": "Full Moon Song",
       "url": "https://open.spotify.com/track/0TRcc2XjMxg8SVKp903qz6"
+    },
+    {
+      "added_at": "2022-05-27 20:52:17",
+      "album": {
+        "name": "Half Moon Light",
+        "url": "https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1"
+      },
+      "artists": [
+        {
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+        }
+      ],
+      "duration_ms": 229960,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/0C9uaJt51ytJgwiZpRYyGM"
     },
     {
       "added_at": "2022-05-27 20:52:17",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2022-05-27 20:52:17",
       "album": {
+        "name": "The Weather Station",
+        "url": "https://open.spotify.com/album/31zbZWJ5o51IijJaVjZDOQ"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 220253,
+      "name": "Thirty",
+      "url": "https://open.spotify.com/track/2TQXJmPwCgmIXpAtz9dyCI"
+    },
+    {
+      "added_at": "2022-05-27 20:52:17",
+      "album": {
         "name": "Bonny Light Horseman",
         "url": "https://open.spotify.com/album/0FDyqe94Dh9j7U1Xyf3d8G"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 270676,
       "name": "Bonny Light Horseman",
       "url": "https://open.spotify.com/track/1LQS6iOIoLvM8KeY5QdVS3"
-    },
-    {
-      "added_at": "2022-05-27 20:52:17",
-      "album": {
-        "name": "The Weather Station",
-        "url": "https://open.spotify.com/album/31zbZWJ5o51IijJaVjZDOQ"
-      },
-      "artists": [
-        {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
-        }
-      ],
-      "duration_ms": 220253,
-      "name": "Thirty",
-      "url": "https://open.spotify.com/track/2TQXJmPwCgmIXpAtz9dyCI"
     },
     {
       "added_at": "2022-05-27 20:52:17",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2022-05-27 20:52:17",
       "album": {
+        "name": "Know Your Demons",
+        "url": "https://open.spotify.com/album/408i5hH2MLHqX6X6srXEL8"
+      },
+      "artists": [
+        {
+          "name": "Tr\u00e9 Burt",
+          "url": "https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc"
+        }
+      ],
+      "duration_ms": 206773,
+      "name": "Know Your Demons",
+      "url": "https://open.spotify.com/track/3AonChVGbKzTPGpkiR4Awe"
+    },
+    {
+      "added_at": "2022-05-27 20:52:17",
+      "album": {
         "name": "Boardwalks (Sonny Alven Remix)",
         "url": "https://open.spotify.com/album/2fkBdOnfmX6XgMyISZIBOY"
       },
@@ -1679,34 +1695,18 @@
     {
       "added_at": "2022-05-27 20:52:17",
       "album": {
-        "name": "Know Your Demons",
-        "url": "https://open.spotify.com/album/408i5hH2MLHqX6X6srXEL8"
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/6zP9AZREIcUvAjpX2lKRIl"
       },
       "artists": [
         {
-          "name": "Tr\u00e9 Burt",
-          "url": "https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc"
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
         }
       ],
-      "duration_ms": 206773,
-      "name": "Know Your Demons",
-      "url": "https://open.spotify.com/track/3AonChVGbKzTPGpkiR4Awe"
-    },
-    {
-      "added_at": "2022-05-27 20:52:17",
-      "album": {
-        "name": "Saturn Return",
-        "url": "https://open.spotify.com/album/3grv66GSazERZLzTlS8LrA"
-      },
-      "artists": [
-        {
-          "name": "The Secret Sisters",
-          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
-        }
-      ],
-      "duration_ms": 257167,
-      "name": "Hand Over My Heart",
-      "url": "https://open.spotify.com/track/0aZWB3kDIqotHPJcUZZkvC"
+      "duration_ms": 235240,
+      "name": "Expectations",
+      "url": "https://open.spotify.com/track/7sIONDBUsDWYUll2uwnjY9"
     }
   ],
   "unique_name": "Wild + Free",

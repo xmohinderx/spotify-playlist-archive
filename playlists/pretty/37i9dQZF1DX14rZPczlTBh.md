@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 
 > The perfect uptempo tracks for your Party.<br/>Cover : Nithiin
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,059 likes - 67 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,068 likes - 67 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 52 | [Ammakutti Ammakutti Andhamantha Ompake](https://open.spotify.com/track/7EW27HIQrlFLpyCBtOodF4) | [Jaspreeth Jasz, Geetha Madhuri](https://open.spotify.com/artist/3YUBfCMOTG5Nbn0dxlX4Un) | [Jai Simha](https://open.spotify.com/album/7Ge2S3SjYoZ0uTZBM8HMqi) | 4:41 |
 | 53 | [Bellam Sridevi](https://open.spotify.com/track/7y8F8jWMytNa55pFUBJKA0) | [Sai Charan](https://open.spotify.com/artist/32rgf5uvf7GtEPjrHyJ6uU) | [Supreme](https://open.spotify.com/album/10UPi9tXKODp4KUs1uOOru) | 4:05 |
 | 54 | [Chitike \(From "Gang"\)](https://open.spotify.com/track/4cs8E7TQBRc6geyRjdsrfU) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn) | [Chitike \(From "Gang"\)](https://open.spotify.com/album/1rVAaLEYn3UyewBEILqvW9) | 4:00 |
-| 55 | [Arey O Samba \- Remix](https://open.spotify.com/track/72ig2QHDxDbNYb9LT33ayD) | [Jaspreet Jasz](https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr), [Divija Karthik](https://open.spotify.com/artist/5sUdcxfIMRJlwA1zyxGOxH) | [Pataas](https://open.spotify.com/album/4F8NuTMEGuYDHK5iIe1d5l) | 3:48 |
-| 56 | [Pareshanayya \- Remix](https://open.spotify.com/track/2zF9IP6ELZAOQqRjchVYhB) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [I \- Manoharudu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0PqDwbg5QiH6S0uZTPWJR8) | 3:23 |
+| 55 | [Pareshanayya \- Remix](https://open.spotify.com/track/2zF9IP6ELZAOQqRjchVYhB) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [I \- Manoharudu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0PqDwbg5QiH6S0uZTPWJR8) | 3:23 |
+| 56 | [Arey O Samba \- Remix](https://open.spotify.com/track/72ig2QHDxDbNYb9LT33ayD) | [Jaspreet Jasz](https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr), [Divija Karthik](https://open.spotify.com/artist/5sUdcxfIMRJlwA1zyxGOxH) | [Pataas](https://open.spotify.com/album/4F8NuTMEGuYDHK5iIe1d5l) | 3:48 |
 | 57 | [Hey Amigo](https://open.spotify.com/track/1bkkVI2YHt1c2iLEUyANAU) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Leslee Lewis](https://open.spotify.com/artist/42mDOvp3BiaMBM3ae4zWwV), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4) | [Bandobast \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4oUNzRIdKqYBH3WQqMhYUQ) | 4:32 |
 | 58 | [Miami \- Ma Ma Ma Ma Mia](https://open.spotify.com/track/4BfdCnlFZ8sSSL21Sho1yf) | [Aditi Singh Sharma](https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY), [Rita](https://open.spotify.com/artist/3Z7tNWlrQnxjy4LuhlHAAB), [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC) | [Chal Mohan Ranga \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Th8ogCMASbR8eJ9xL3ekG) | 3:38 |
 | 59 | [Everest Anchuna](https://open.spotify.com/track/7sIA06BeeKLxsheskUNSKP) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN), [Vishnupriya Ravi](https://open.spotify.com/artist/0znqmX3tzZ55FFTmlffAlv) | [Maharshi](https://open.spotify.com/album/30rejoGJuhKKQZJ1cT25T0) | 3:16 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 66 | [Miami Dj Remix](https://open.spotify.com/track/1P6GZJqUtFQ2Wv2gXuSmf4) | [Aditi Singh Sharma](https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY), [Rita](https://open.spotify.com/artist/3Z7tNWlrQnxjy4LuhlHAAB), [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC) | [Chal Mohan Ranga](https://open.spotify.com/album/6opwqr8TSIt91hqgN3aHE4) | 3:38 |
 | 67 | [Singilu Singilu DJ Song](https://open.spotify.com/track/5En5rG6YYgsZhXdc4a2Rmb) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn) | [90ml \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3FftqbTyf8wrm6PtogWefH) | 3:41 |
 
-Snapshot ID: `MTY1ODQ5Mzc2NywwMDAwMDAwMGEwZmM2YzAyNjg0ZDcxZTE1NjMwN2NhMzgwYzI1ZWIx`
+Snapshot ID: `MTY1ODQ5Mzc2NywwMDAwMDAwMDg1ZjBiNDQyMDNmMmMxZGI5NWM5ZjMzODBhYzIxYzdl`

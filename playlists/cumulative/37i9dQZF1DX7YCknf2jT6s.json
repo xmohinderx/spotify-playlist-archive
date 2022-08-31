@@ -2369,22 +2369,6 @@
         {
           "name": "Vincent Peirani",
           "url": "https://open.spotify.com/artist/2aMYfhweGlfp6qj9r6OGUO"
-        },
-        {
-          "name": "Eric Legnini",
-          "url": "https://open.spotify.com/artist/4iwk7yhBhcSyfbK4a4cnUi"
-        },
-        {
-          "name": "Paolo Fresu",
-          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
-        },
-        {
-          "name": "Piers Faccini",
-          "url": "https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd"
-        },
-        {
-          "name": "Marcello Giuliani",
-          "url": "https://open.spotify.com/artist/2xMeLejHEJmdJ3Iwlu3yrx"
         }
       ],
       "date_added": "2022-08-26",
@@ -4978,7 +4962,7 @@
       "artists": [
         {
           "name": "Cecil Alexander",
-          "url": "https://open.spotify.com/artist/40G0MIppDnnEafs5kEVqlL"
+          "url": "https://open.spotify.com/artist/42oLcqYpvwyPY5BZO6oqfa"
         }
       ],
       "date_added": "2022-08-26",
@@ -6539,10 +6523,28 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 302160,
       "name": "Resilience",
       "url": "https://open.spotify.com/track/2pzYZWGwjOZRPWabMxR2K5"
+    },
+    {
+      "album": {
+        "name": "Parallel Motion",
+        "url": "https://open.spotify.com/album/2QWh0FN4WfVTaYC5fwiI4I"
+      },
+      "artists": [
+        {
+          "name": "Yellowjackets",
+          "url": "https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302160,
+      "name": "Resilience",
+      "url": "https://open.spotify.com/track/4l6LEkiXfyZCNVyb9rS6Rg"
     },
     {
       "album": {

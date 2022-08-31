@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > Introducing Alma — a soul born from Latin and house music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,570 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,580 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,15 +26,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 16 | [Mamacita](https://open.spotify.com/track/0JhRhQYoZKUG3WxKiLpt2k) | [Rene Rodrigezz](https://open.spotify.com/artist/74KsNtV6tvDuIwI9V2JfQO), [Yellow Is The New White](https://open.spotify.com/artist/5GbkPjfZzysglxRE01dT9u) | [Mamacita](https://open.spotify.com/album/4q7suqxQ6SrQovyUHpDqfc) | 2:19 |
 | 17 | [Los Tamales](https://open.spotify.com/track/3SvhhsODK5VG35Cs5eAJ8M) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Los Tamales](https://open.spotify.com/album/2juRlblGnU1PJbuC5LMhdW) | 5:34 |
 | 18 | [Witch Doctor](https://open.spotify.com/track/4lWGhzUW3dTPDMX9EII1Fc) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [Witch Doctor](https://open.spotify.com/album/7etpucnkFPkpi89M5CCdu4) | 3:06 |
-| 19 | [Diamonds](https://open.spotify.com/track/7k7dPK1j1yRW4qW3WfwoZy) | [Sam Blans](https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi), [Jayson Alanzo](https://open.spotify.com/artist/6RpWxHyYKaMf59DRdgbCg5) | [Diamonds](https://open.spotify.com/album/1swFMuQMyNIKrR3ywxQYVk) | 2:55 |
-| 20 | [Conga Mode \- Edit](https://open.spotify.com/track/5QJwvpgZXdMD9lDtdczCVy) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX) | [Conga Mode EP](https://open.spotify.com/album/5QH9ZqMTDy5c6yIg6PiLte) | 3:44 |
+| 19 | [Conga Mode \- Edit](https://open.spotify.com/track/5QJwvpgZXdMD9lDtdczCVy) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX) | [Conga Mode EP](https://open.spotify.com/album/5QH9ZqMTDy5c6yIg6PiLte) | 3:44 |
+| 20 | [Diamonds](https://open.spotify.com/track/7k7dPK1j1yRW4qW3WfwoZy) | [Sam Blans](https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi), [Jayson Alanzo](https://open.spotify.com/artist/6RpWxHyYKaMf59DRdgbCg5) | [Diamonds](https://open.spotify.com/album/1swFMuQMyNIKrR3ywxQYVk) | 2:55 |
 | 21 | [Puerto Rico](https://open.spotify.com/track/4AOCixIsN5aoszu3dcwalf) | [Landis](https://open.spotify.com/artist/7bSDGumYzI7Cehekr534Xn) | [Puerto Rico](https://open.spotify.com/album/5uAyqWPXo6H3fpWa9T433G) | 2:24 |
 | 22 | [Bailar Riddim](https://open.spotify.com/track/4jvCYgzFijnYGxqQcJgRnu) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Bailar Riddim](https://open.spotify.com/album/3L07N9QtjRLysBgtx8aesx) | 3:31 |
 | 23 | [Si Tu Sabe](https://open.spotify.com/track/5gx7iehGnlJZbogyzw7RI6) | [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a), [Dipzy](https://open.spotify.com/artist/5piZAMtqB9RrIxmXSWJ7q9) | [Si Tu Sabe](https://open.spotify.com/album/03V2IM59Iri9BtuHB1Vlll) | 3:25 |
 | 24 | [Quiribi \- Yamil Remix](https://open.spotify.com/track/0orz2g3pXj7q9meh8ccGzA) | [Rosalinda de la Espada](https://open.spotify.com/artist/1rORrFKQT8vxvmb8gIAqwl), [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Quiribi \(Yamil Remix\)](https://open.spotify.com/album/14vA1aUbS1VAl99DurxZXL) | 6:06 |
-| 25 | [Olvidar](https://open.spotify.com/track/3unK4aO28ZE2NNQM9BuCmX) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [krypt\. vol2](https://open.spotify.com/album/5vUygeQA7S7lsbwnTHpgwq) | 5:48 |
-| 26 | [Jaleo](https://open.spotify.com/track/1YcBeCPxCdPCxXOrWJEiwm) | [Kenny Brian](https://open.spotify.com/artist/11Wf5ZORjHp2zPQxbRTyKc), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew) | [Jaleo](https://open.spotify.com/album/1ZdmmuqN2FXZrSvR4bvu0C) | 3:07 |
-| 27 | [Dirty Spanish](https://open.spotify.com/track/102vO4p4OoHWe7JO2OAzQw) | [Sam Blans](https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi) | [Dirty Spanish](https://open.spotify.com/album/3H8M3pxnpGqjf1faPwowEf) | 4:34 |
+| 25 | [Dirty Spanish](https://open.spotify.com/track/102vO4p4OoHWe7JO2OAzQw) | [Sam Blans](https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi) | [Dirty Spanish](https://open.spotify.com/album/3H8M3pxnpGqjf1faPwowEf) | 4:34 |
+| 26 | [Olvidar](https://open.spotify.com/track/3unK4aO28ZE2NNQM9BuCmX) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [krypt\. vol2](https://open.spotify.com/album/5vUygeQA7S7lsbwnTHpgwq) | 5:48 |
+| 27 | [Jaleo](https://open.spotify.com/track/1YcBeCPxCdPCxXOrWJEiwm) | [Kenny Brian](https://open.spotify.com/artist/11Wf5ZORjHp2zPQxbRTyKc), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew) | [Jaleo](https://open.spotify.com/album/1ZdmmuqN2FXZrSvR4bvu0C) | 3:07 |
 | 28 | [Tribesmen \- Original Mix](https://open.spotify.com/track/3s6dh2duRyDcs3iu56CqgY) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ) | [Tribesmen](https://open.spotify.com/album/4zHC8hqVij0EsQ7l29PaQk) | 7:17 |
 | 29 | [Alma Roja \- DJ Chus Remix](https://open.spotify.com/track/0MlIalMAtTaIhOjmSFmCgW) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ), [Oba Frank Lords](https://open.spotify.com/artist/5JZJF4dsiH01QVSoJpReDM), [DJ Chus](https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg) | [Alma Roja \(DJ CHUS Remix\)](https://open.spotify.com/album/5wJgKF4QlNNcsLX0xsxS8w) | 3:04 |
 | 30 | [Brisas Del Mar](https://open.spotify.com/track/3KYgsHPXp1pOywoYkUmh6k) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec) | [Brisas Del Mar](https://open.spotify.com/album/55iEeiN1Sg4YhtWW72MiQY) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 49 | [Can't Have It](https://open.spotify.com/track/1TwJ9U24E9WtfUngEpadMf) | [SWAYLÓ](https://open.spotify.com/artist/6UrFs6kJkQTO9k2rKzfqEv) | [Can't Have It](https://open.spotify.com/album/65EAWbqxyp9658YllENyER) | 3:50 |
 | 50 | [Cumbia Tropical](https://open.spotify.com/track/1H8sxtzrwWhFGiGamurqnW) | [Ilary Montanari](https://open.spotify.com/artist/5hSt4Q5c4lReEZr6Uaz8BA) | [Cumbia Tropical](https://open.spotify.com/album/1AB9MImjBERGHTLNwhUnUn) | 6:21 |
 
-Snapshot ID: `MTY1MTU4OTc5NCwwMDAwMDAwMGI0ZmUyYzA0ZjhjOWI2YjY2NzI2ZWNkYmVjNDg0ODA2`
+Snapshot ID: `MTY1MTU4OTc5NCwwMDAwMDAwMGJmY2UzMGJjOTE1YWZjMTFmOWNkMTI1MmY4YTA1MGJm`

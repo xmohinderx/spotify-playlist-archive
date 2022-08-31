@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 3842,
+  "num_followers": 3860,
   "original_name": "\uc378",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgzMjYyNSwwMDAwMDAwMDlhNGFhYmFmOTZhODVkNGNkZDYxMmU1OWE2MDhmMGM0",
+  "snapshot_id": "MTY2MDgzMjYyNSwwMDAwMDAwMDVhMmQ4ZWI1N2I3MjFiMzgxODFiM2U2YTQ0YTE1OTNj",
   "tracks": [
     {
       "added_at": "2022-08-18 14:23:45",
@@ -343,6 +343,22 @@
     {
       "added_at": "2022-08-18 14:23:45",
       "album": {
+        "name": "Minamdang (Original Television Soundtrack, Pt. 6)",
+        "url": "https://open.spotify.com/album/2zIS0T0Kegw9sOh0YQXxqF"
+      },
+      "artists": [
+        {
+          "name": "Seo In Guk",
+          "url": "https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1"
+        }
+      ],
+      "duration_ms": 178373,
+      "name": "I like you",
+      "url": "https://open.spotify.com/track/0X5xuP3hkIMo86LpTCFGdb"
+    },
+    {
+      "added_at": "2022-08-18 14:23:45",
+      "album": {
         "name": "You, Who?",
         "url": "https://open.spotify.com/album/2VJD2d4spfkILWzOmHEd4i"
       },
@@ -363,22 +379,6 @@
     {
       "added_at": "2022-08-18 14:23:45",
       "album": {
-        "name": "Minamdang (Original Television Soundtrack, Pt. 6)",
-        "url": "https://open.spotify.com/album/2zIS0T0Kegw9sOh0YQXxqF"
-      },
-      "artists": [
-        {
-          "name": "Seo In Guk",
-          "url": "https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1"
-        }
-      ],
-      "duration_ms": 178373,
-      "name": "I like you",
-      "url": "https://open.spotify.com/track/0X5xuP3hkIMo86LpTCFGdb"
-    },
-    {
-      "added_at": "2022-08-18 14:23:45",
-      "album": {
         "name": "START-UP (Original Television Soundtrack) Pt. 6",
         "url": "https://open.spotify.com/album/7wzFqr0yCbjdcjjKpfBi1B"
       },
@@ -391,26 +391,6 @@
       "duration_ms": 183320,
       "name": "Where Is Dream",
       "url": "https://open.spotify.com/track/1hFOLJ9bQfZu3tlbHaLCGf"
-    },
-    {
-      "added_at": "2022-08-18 14:23:45",
-      "album": {
-        "name": "San E, Raina Project Single 'A midsummer night's sweetness'",
-        "url": "https://open.spotify.com/album/1srZhGQymoN6YQksduox2J"
-      },
-      "artists": [
-        {
-          "name": "San E",
-          "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
-        },
-        {
-          "name": "Raina",
-          "url": "https://open.spotify.com/artist/21dQ70DS91icGLN9J4mH7h"
-        }
-      ],
-      "duration_ms": 233456,
-      "name": "A midsummer night's sweetness",
-      "url": "https://open.spotify.com/track/3gug38ZhXQWJbwN7sh0YRR"
     },
     {
       "added_at": "2022-08-18 14:23:45",
@@ -439,18 +419,22 @@
     {
       "added_at": "2022-08-18 14:23:45",
       "album": {
-        "name": "CYAN",
-        "url": "https://open.spotify.com/album/54mKbSh20yke318bPZMsjb"
+        "name": "San E, Raina Project Single 'A midsummer night's sweetness'",
+        "url": "https://open.spotify.com/album/1srZhGQymoN6YQksduox2J"
       },
       "artists": [
         {
-          "name": "KANGDANIEL",
-          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+          "name": "San E",
+          "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
+        },
+        {
+          "name": "Raina",
+          "url": "https://open.spotify.com/artist/21dQ70DS91icGLN9J4mH7h"
         }
       ],
-      "duration_ms": 195253,
-      "name": "2U",
-      "url": "https://open.spotify.com/track/00S4PrcWUb3f3dQ9PuC0uy"
+      "duration_ms": 233456,
+      "name": "A midsummer night's sweetness",
+      "url": "https://open.spotify.com/track/3gug38ZhXQWJbwN7sh0YRR"
     },
     {
       "added_at": "2022-08-18 14:23:45",
@@ -467,6 +451,38 @@
       "duration_ms": 212493,
       "name": "Dive into you",
       "url": "https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4"
+    },
+    {
+      "added_at": "2022-08-18 14:23:45",
+      "album": {
+        "name": "CYAN",
+        "url": "https://open.spotify.com/album/54mKbSh20yke318bPZMsjb"
+      },
+      "artists": [
+        {
+          "name": "KANGDANIEL",
+          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+        }
+      ],
+      "duration_ms": 195253,
+      "name": "2U",
+      "url": "https://open.spotify.com/track/00S4PrcWUb3f3dQ9PuC0uy"
+    },
+    {
+      "added_at": "2022-08-18 14:23:45",
+      "album": {
+        "name": "DA DA!",
+        "url": "https://open.spotify.com/album/2yTa42wc72yX9hzK7yBrgu"
+      },
+      "artists": [
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "duration_ms": 225125,
+      "name": "busy guy",
+      "url": "https://open.spotify.com/track/24aNJe1sZzjUyJI2WuPzud"
     },
     {
       "added_at": "2022-08-18 14:23:45",
@@ -491,34 +507,18 @@
     {
       "added_at": "2022-08-18 14:23:45",
       "album": {
-        "name": "DA DA!",
-        "url": "https://open.spotify.com/album/2yTa42wc72yX9hzK7yBrgu"
+        "name": "bimil:ier vol.1 \"so this is love\"",
+        "url": "https://open.spotify.com/album/5uGkgOzshdeNMMsR34kucM"
       },
       "artists": [
         {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+          "name": "DAY6 (Even of Day)",
+          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
         }
       ],
-      "duration_ms": 225125,
-      "name": "busy guy",
-      "url": "https://open.spotify.com/track/24aNJe1sZzjUyJI2WuPzud"
-    },
-    {
-      "added_at": "2022-08-18 14:23:45",
-      "album": {
-        "name": "Because This Is My First Life (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/3ZmhNW8CSb2EKYcCW4gVuy"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 194999,
-      "name": "Feel Like Falling In Love",
-      "url": "https://open.spotify.com/track/4wMUV1YyLoaRvKskgmH6Yi"
+      "duration_ms": 203425,
+      "name": "so this is love",
+      "url": "https://open.spotify.com/track/18xXVZwosvArMOJOs7wd6S"
     },
     {
       "added_at": "2022-08-18 14:23:45",
@@ -539,18 +539,18 @@
     {
       "added_at": "2022-08-18 14:23:45",
       "album": {
-        "name": "bimil:ier vol.1 \"so this is love\"",
-        "url": "https://open.spotify.com/album/5uGkgOzshdeNMMsR34kucM"
+        "name": "Because This Is My First Life (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/3ZmhNW8CSb2EKYcCW4gVuy"
       },
       "artists": [
         {
-          "name": "DAY6 (Even of Day)",
-          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
         }
       ],
-      "duration_ms": 203425,
-      "name": "so this is love",
-      "url": "https://open.spotify.com/track/18xXVZwosvArMOJOs7wd6S"
+      "duration_ms": 194999,
+      "name": "Feel Like Falling In Love",
+      "url": "https://open.spotify.com/track/4wMUV1YyLoaRvKskgmH6Yi"
     },
     {
       "added_at": "2022-08-18 14:23:45",

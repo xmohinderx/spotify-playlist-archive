@@ -1,12 +1,12 @@
 {
   "description": "The hustle king and worldwide multi talent of Korean hip-hop/r&b.",
-  "num_followers": 2856,
+  "num_followers": 2954,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgzMzI3MiwwMDAwMDAwMDhhMzFjNmU5MDdiMGMyMzMxYzU3ZGQ2Y2U1MzM4OTcy",
+  "snapshot_id": "MTY2MDgzMzI3MiwwMDAwMDAwMDA4NDQxMDJhM2RiZTBlZmM5NGRiZDg1YzAwZDQ0N2Jl",
   "tracks": [
     {
       "added_at": "2022-08-18 14:34:32",
@@ -131,42 +131,6 @@
     {
       "added_at": "2022-08-18 14:34:32",
       "album": {
-        "name": "SOMO: FUME",
-        "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
-      },
-      "artists": [
-        {
-          "name": "JAY B",
-          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 192585,
-      "name": "B.T.W (feat. Jay Park) - Prod. Cha Cha Malone",
-      "url": "https://open.spotify.com/track/4f3wldin8UmItfSJKK5BF2"
-    },
-    {
-      "added_at": "2022-08-18 14:34:32",
-      "album": {
-        "name": "To Life",
-        "url": "https://open.spotify.com/album/27QgCa49mAOEPoTcRYFZT6"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 191491,
-      "name": "To Life",
-      "url": "https://open.spotify.com/track/1hqukerMJf9N1qHo2sijii"
-    },
-    {
-      "added_at": "2022-08-18 14:34:32",
-      "album": {
         "name": "Dingo X H1GHR MUSIC",
         "url": "https://open.spotify.com/album/2t5fdLTQu0xX89rDf4NMNX"
       },
@@ -191,6 +155,42 @@
       "duration_ms": 259982,
       "name": "iffy (Prod. GroovyRoom)",
       "url": "https://open.spotify.com/track/4q9JLlC3HIhN4CDC6KlpYK"
+    },
+    {
+      "added_at": "2022-08-18 14:34:32",
+      "album": {
+        "name": "To Life",
+        "url": "https://open.spotify.com/album/27QgCa49mAOEPoTcRYFZT6"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 191491,
+      "name": "To Life",
+      "url": "https://open.spotify.com/track/1hqukerMJf9N1qHo2sijii"
+    },
+    {
+      "added_at": "2022-08-18 14:34:32",
+      "album": {
+        "name": "SOMO: FUME",
+        "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
+      },
+      "artists": [
+        {
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 192585,
+      "name": "B.T.W (feat. Jay Park) - Prod. Cha Cha Malone",
+      "url": "https://open.spotify.com/track/4f3wldin8UmItfSJKK5BF2"
     },
     {
       "added_at": "2022-08-18 14:34:32",
@@ -339,22 +339,34 @@
     {
       "added_at": "2022-08-18 14:34:32",
       "album": {
-        "name": "Butterflies",
-        "url": "https://open.spotify.com/album/23alt0JS07GoXtzXX0cx8H"
+        "name": "WATER",
+        "url": "https://open.spotify.com/album/1jPLfwzHnBTJIMzrA2lb7y"
       },
       "artists": [
         {
-          "name": "Wolftyla",
-          "url": "https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb"
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Woodie Gochild",
+          "url": "https://open.spotify.com/artist/6iLGJqxVgxxWsJe5bW4dxt"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
         },
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 191141,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/67HH5Ldb4iflU0OTYpTPbg"
+      "duration_ms": 262560,
+      "name": "WATER (Prod. by GooseBumps)",
+      "url": "https://open.spotify.com/track/7EBxRB5zybo2zutJuiAwoF"
     },
     {
       "added_at": "2022-08-18 14:34:32",
@@ -399,34 +411,22 @@
     {
       "added_at": "2022-08-18 14:34:32",
       "album": {
-        "name": "WATER",
-        "url": "https://open.spotify.com/album/1jPLfwzHnBTJIMzrA2lb7y"
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/23alt0JS07GoXtzXX0cx8H"
       },
       "artists": [
         {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        },
-        {
-          "name": "Woodie Gochild",
-          "url": "https://open.spotify.com/artist/6iLGJqxVgxxWsJe5bW4dxt"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "HAON",
-          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+          "name": "Wolftyla",
+          "url": "https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb"
         },
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 262560,
-      "name": "WATER (Prod. by GooseBumps)",
-      "url": "https://open.spotify.com/track/7EBxRB5zybo2zutJuiAwoF"
+      "duration_ms": 191141,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/67HH5Ldb4iflU0OTYpTPbg"
     },
     {
       "added_at": "2022-08-18 14:34:32",
@@ -551,30 +551,6 @@
     {
       "added_at": "2022-08-18 14:34:32",
       "album": {
-        "name": "Crush on You",
-        "url": "https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY"
-      },
-      "artists": [
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
-        }
-      ],
-      "duration_ms": 235720,
-      "name": "Give It to Me",
-      "url": "https://open.spotify.com/track/4w7P5OaLfcinkb0RTMNxqh"
-    },
-    {
-      "added_at": "2022-08-18 14:34:32",
-      "album": {
         "name": "BOYCOLD",
         "url": "https://open.spotify.com/album/702oAXJwcml4VxPHLQWwrS"
       },
@@ -595,6 +571,30 @@
       "duration_ms": 292109,
       "name": "h1ghr gang",
       "url": "https://open.spotify.com/track/2fFeKfvIEJxpFbeTZ0tsJ5"
+    },
+    {
+      "added_at": "2022-08-18 14:34:32",
+      "album": {
+        "name": "Crush on You",
+        "url": "https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        }
+      ],
+      "duration_ms": 235720,
+      "name": "Give It to Me",
+      "url": "https://open.spotify.com/track/4w7P5OaLfcinkb0RTMNxqh"
     },
     {
       "added_at": "2022-08-18 14:34:32",
@@ -695,46 +695,6 @@
     {
       "added_at": "2022-08-18 14:34:32",
       "album": {
-        "name": "Son Malas (Feat. Jay Park)",
-        "url": "https://open.spotify.com/album/7pO4kGrPiU6lQoA832UXt0"
-      },
-      "artists": [
-        {
-          "name": "Mozart La Para",
-          "url": "https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 148640,
-      "name": "Son Malas",
-      "url": "https://open.spotify.com/track/1nBA795YhyTO5992WmhEzW"
-    },
-    {
-      "added_at": "2022-08-18 14:34:32",
-      "album": {
-        "name": "Westcoast",
-        "url": "https://open.spotify.com/album/23khvZGgUKTP9J6K1qD0g1"
-      },
-      "artists": [
-        {
-          "name": "YULTRON",
-          "url": "https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Westcoast",
-      "url": "https://open.spotify.com/track/3oLTFTg2LC3P3E8QhcV71I"
-    },
-    {
-      "added_at": "2022-08-18 14:34:32",
-      "album": {
         "name": "SignHere episode1",
         "url": "https://open.spotify.com/album/5nwsIsO5NUjZ0lDf7oMCTh"
       },
@@ -759,6 +719,74 @@
       "duration_ms": 180800,
       "name": "Game Good (Feat. Simon Dominic) (Prod. GooseBumps & Simon Dominic)",
       "url": "https://open.spotify.com/track/59futJ8UnUZuv3Lhu7lGWC"
+    },
+    {
+      "added_at": "2022-08-18 14:34:32",
+      "album": {
+        "name": "Westcoast",
+        "url": "https://open.spotify.com/album/23khvZGgUKTP9J6K1qD0g1"
+      },
+      "artists": [
+        {
+          "name": "YULTRON",
+          "url": "https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Westcoast",
+      "url": "https://open.spotify.com/track/3oLTFTg2LC3P3E8QhcV71I"
+    },
+    {
+      "added_at": "2022-08-18 14:34:32",
+      "album": {
+        "name": "Son Malas (Feat. Jay Park)",
+        "url": "https://open.spotify.com/album/7pO4kGrPiU6lQoA832UXt0"
+      },
+      "artists": [
+        {
+          "name": "Mozart La Para",
+          "url": "https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 148640,
+      "name": "Son Malas",
+      "url": "https://open.spotify.com/track/1nBA795YhyTO5992WmhEzW"
+    },
+    {
+      "added_at": "2022-08-18 14:34:32",
+      "album": {
+        "name": "GANG (Official Remix)",
+        "url": "https://open.spotify.com/album/7sSR7cyAVVr1OkCouJpxc6"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        }
+      ],
+      "duration_ms": 191880,
+      "name": "GANG - Official Remix",
+      "url": "https://open.spotify.com/track/3D0nbQmiFAnibdZTajgaYO"
     },
     {
       "added_at": "2022-08-18 14:34:32",
@@ -795,34 +823,6 @@
       "duration_ms": 241906,
       "name": "GREEN LIGHT (Feat. Jay Park, pH-1) (Prod. WOOGIE)",
       "url": "https://open.spotify.com/track/3KxadSAONZRtjuLpyZVZlp"
-    },
-    {
-      "added_at": "2022-08-18 14:34:32",
-      "album": {
-        "name": "GANG (Official Remix)",
-        "url": "https://open.spotify.com/album/7sSR7cyAVVr1OkCouJpxc6"
-      },
-      "artists": [
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "HAON",
-          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
-        }
-      ],
-      "duration_ms": 191880,
-      "name": "GANG - Official Remix",
-      "url": "https://open.spotify.com/track/3D0nbQmiFAnibdZTajgaYO"
     },
     {
       "added_at": "2022-08-18 14:34:32",
@@ -911,30 +911,22 @@
     {
       "added_at": "2022-08-18 14:34:32",
       "album": {
-        "name": "H1GHR : BLUE TAPE",
-        "url": "https://open.spotify.com/album/1BjSEUWIHzkOMumRhxBJHZ"
+        "name": "SignHere episode1",
+        "url": "https://open.spotify.com/album/5nwsIsO5NUjZ0lDf7oMCTh"
       },
       "artists": [
         {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+          "name": "Part Time Cooks",
+          "url": "https://open.spotify.com/artist/51e7K2KFkHECVO460ruq8L"
         },
         {
-          "name": "Golden",
-          "url": "https://open.spotify.com/artist/1bhaaVxOYgxzTuNcxhCtaX"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+          "name": "MBA",
+          "url": "https://open.spotify.com/artist/0c6EF9zv5mQX7pkyrPawKS"
         }
       ],
-      "duration_ms": 194120,
-      "name": "Gotta Go",
-      "url": "https://open.spotify.com/track/6KhpVr8sgIkJpMvFwf4xW3"
+      "duration_ms": 258839,
+      "name": "No Gravity (Prod. Jay Park & DJ Wegun & WOOGIE & GroovyRoom)",
+      "url": "https://open.spotify.com/track/1gUFxP5qGhfDemzaJjkrDb"
     },
     {
       "added_at": "2022-08-18 14:34:32",
@@ -963,26 +955,6 @@
     {
       "added_at": "2022-08-18 14:34:32",
       "album": {
-        "name": "SignHere episode1",
-        "url": "https://open.spotify.com/album/5nwsIsO5NUjZ0lDf7oMCTh"
-      },
-      "artists": [
-        {
-          "name": "Part Time Cooks",
-          "url": "https://open.spotify.com/artist/51e7K2KFkHECVO460ruq8L"
-        },
-        {
-          "name": "MBA",
-          "url": "https://open.spotify.com/artist/0c6EF9zv5mQX7pkyrPawKS"
-        }
-      ],
-      "duration_ms": 258839,
-      "name": "No Gravity (Prod. Jay Park & DJ Wegun & WOOGIE & GroovyRoom)",
-      "url": "https://open.spotify.com/track/1gUFxP5qGhfDemzaJjkrDb"
-    },
-    {
-      "added_at": "2022-08-18 14:34:32",
-      "album": {
         "name": "B.A.R.S, Vol. 1",
         "url": "https://open.spotify.com/album/5396jqhnc6ExzfTb797qVO"
       },
@@ -1003,6 +975,34 @@
       "duration_ms": 180811,
       "name": "Came Up (feat. Jay Park)",
       "url": "https://open.spotify.com/track/3IkYQjapZOMnWhMq8bXVMp"
+    },
+    {
+      "added_at": "2022-08-18 14:34:32",
+      "album": {
+        "name": "H1GHR : BLUE TAPE",
+        "url": "https://open.spotify.com/album/1BjSEUWIHzkOMumRhxBJHZ"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Golden",
+          "url": "https://open.spotify.com/artist/1bhaaVxOYgxzTuNcxhCtaX"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 194120,
+      "name": "Gotta Go",
+      "url": "https://open.spotify.com/track/6KhpVr8sgIkJpMvFwf4xW3"
     },
     {
       "added_at": "2022-08-18 14:34:32",
@@ -2026,22 +2026,6 @@
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 256642,
-      "name": "In This B*tch",
-      "url": "https://open.spotify.com/track/5Dy4Aj5VdMdHElLSXLhWLZ"
-    },
-    {
-      "added_at": "2022-08-18 14:34:32",
-      "album": {
-        "name": "Worldwide",
-        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         },
         {
           "name": "Dok2",
@@ -2059,6 +2043,22 @@
     {
       "added_at": "2022-08-18 14:34:32",
       "album": {
+        "name": "Worldwide",
+        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 256642,
+      "name": "In This B*tch",
+      "url": "https://open.spotify.com/track/5Dy4Aj5VdMdHElLSXLhWLZ"
+    },
+    {
+      "added_at": "2022-08-18 14:34:32",
+      "album": {
         "name": "Ask Bout Me",
         "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
       },
@@ -2071,6 +2071,26 @@
       "duration_ms": 268066,
       "name": "Million",
       "url": "https://open.spotify.com/track/7gw9EmECP4BXUvQdhY5HPq"
+    },
+    {
+      "added_at": "2022-08-18 14:34:32",
+      "album": {
+        "name": "Worldwide",
+        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "DJ Wegun",
+          "url": "https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP"
+        }
+      ],
+      "duration_ms": 224564,
+      "name": "ON IT",
+      "url": "https://open.spotify.com/track/7itI01MnLETtK0rn2JR7o8"
     },
     {
       "added_at": "2022-08-18 14:34:32",
@@ -2099,26 +2119,6 @@
       "duration_ms": 282279,
       "name": "Birthday - Remix",
       "url": "https://open.spotify.com/track/0IZTHjoG91DWjbH1gkUAEG"
-    },
-    {
-      "added_at": "2022-08-18 14:34:32",
-      "album": {
-        "name": "Worldwide",
-        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "DJ Wegun",
-          "url": "https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP"
-        }
-      ],
-      "duration_ms": 224564,
-      "name": "ON IT",
-      "url": "https://open.spotify.com/track/7itI01MnLETtK0rn2JR7o8"
     },
     {
       "added_at": "2022-08-18 14:34:32",

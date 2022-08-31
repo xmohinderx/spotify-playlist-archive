@@ -4,7 +4,7 @@
 
 > Featuring today's dopest MCs.<br/>Cover : Hip Hop Tamizha
 
-138 songs - 8 hr 16 min - [published](https://open.spotify.com/playlist/2SIjOp6tcQivzahElH8QdC)
+139 songs - 8 hr 19 min - [published](https://open.spotify.com/playlist/2SIjOp6tcQivzahElH8QdC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Tamil Shawty](https://open.spotify.com/track/6AaSFQ51Kxc04PPCRqXMSP) | [M.Kowtham](https://open.spotify.com/artist/71LicWNSBQwSA0kd8Ncm63), [Brian](https://open.spotify.com/artist/0RiP4IKxniLXo7uvjlNBTI), [Achu](https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY), [Tha Mystro](https://open.spotify.com/artist/1CDq8tF7Lqvq3TqLCmNOMQ), [Daniel Yogathas](https://open.spotify.com/artist/4epMOagTIGQjYgprh7PGRf), [CJ Germany](https://open.spotify.com/artist/4tbcGaG4EXyjI51Qiz3BIp) | [Tamil Shawty](https://open.spotify.com/album/13u61KVb6mW6Y0vjIexfPR) | 4:31 | 2021-12-01 |  |
 | [Tamil Trap](https://open.spotify.com/track/2MPy86Yy9E2YucVBMM4QU2) | [All Mixed Up](https://open.spotify.com/artist/5C4NvJLN3b1nY5x9dK2LLc) | [Tamil Trap](https://open.spotify.com/album/7LFGgKYTa8Bs85zgQ3FLzB) | 4:26 | 2021-12-01 | 2022-06-16 |
 | [Thalapathy B'Day Tribute BGM](https://open.spotify.com/track/7authLhtQjmRUmqANVEDDk) | [Allan Preetham](https://open.spotify.com/artist/5fzwyKrgd74RioG5kFNY03), [Roshan Jamrock](https://open.spotify.com/artist/2ITH4nPbFeZ2Dj4zAIvl7S) | [Thalapathy B'Day Tribute BGM](https://open.spotify.com/album/2MAZc4WdG195Yd7SYqKJjj) | 0:58 | 2021-12-01 |  |
+| [Thalayaatti Bommai \- From "Think Originals"](https://open.spotify.com/track/6AXVNRqao5TcomgIPWiWnm) | [Dev Major](https://open.spotify.com/artist/4Iwi2N3FmmKmxAuGlD3AQv), [Iykki Berry](https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD), [Chinna Ponnu](https://open.spotify.com/artist/23FJvNYt7vCPHtpOQUzDN0) | [Thalayaatti Bommai \(From "Think Originals"\)](https://open.spotify.com/album/15kqLTDPwuLphV2mpl4sYc) | 3:27 | 2022-08-30 |  |
 | [Thale Therikeh](https://open.spotify.com/track/08GeLdrMhg0rdXGLpY13aS) | [Switch Lock Up,Dan Shiv,Mc Syze](https://open.spotify.com/artist/1meHlKGqywoN7B3zfScKMm) | [Savadi\(Individual Album Soundtrack\)](https://open.spotify.com/album/5tWjOWqOl4Sojh6j7V2DJJ) | 3:55 | 2021-12-01 |  |
 | [Throgam](https://open.spotify.com/track/4x9WC6Lvq8f2kPaBmRNqXI) | [Vijen](https://open.spotify.com/artist/2thb5pAKfufijFyRXQh0xR), [Jeevanandhan Ram](https://open.spotify.com/artist/4n87xJBRV9T5lxg02Bl6ax) | [Throgam](https://open.spotify.com/album/3IOQs8vCKRJv8TV6ks1tah) | 3:25 | 2021-12-07 | 2022-07-28 |
 | [Thunnindhu Sel](https://open.spotify.com/track/0x0Zys8tyGTaaAiDleN8WW) | [Ragu Branavan](https://open.spotify.com/artist/6m1vrQWvtpNlq3pJBvkAiF), [Veena AE](https://open.spotify.com/artist/7F5HmVLlQsLMdPq7Iz0CsK), [Vishagar Arunan](https://open.spotify.com/artist/2YF2ZSkdHzaDVmA3rJRr5e) | [Thunnindhu Sel](https://open.spotify.com/album/0lvptAqJBvMhYCtSqJMlXG) | 3:16 | 2022-08-11 | 2022-08-24 |

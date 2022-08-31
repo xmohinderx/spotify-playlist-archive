@@ -4,7 +4,7 @@
 
 > アイドリッシュセブンの煌びやかな物語を彩る楽曲たちを1つのプレイリストに。Enjoy Music from the game & anime series of “IDOLiSH 7”!  ©アイドリッシュセブン
 
-114 songs - 8 hr 11 min - [published](https://open.spotify.com/playlist/1uSHSuxOWBP2EXOAgcFytc)
+115 songs - 8 hr 16 min - [published](https://open.spotify.com/playlist/1uSHSuxOWBP2EXOAgcFytc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [My Precious World](https://open.spotify.com/track/2BBSxqfQ0Tl24L9smDc7Yb) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [My Precious World](https://open.spotify.com/album/7Hl7VHWsWdBRFe7pS2OrXk) | 3:37 | 2022-06-09 |  |
 | [NAGISA Night Temperature](https://open.spotify.com/track/1LhynTgZFTgmdCQbpETE0S) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [THE POLiCY](https://open.spotify.com/album/1ne9rypmcOkXuw251cVaAC) | 3:39 | 2022-06-09 | 2022-07-29 |
 | [NATSU☆しようぜ!](https://open.spotify.com/track/22r4nAGU4E9hZMDD0AfyWI) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [SECRET NIGHT](https://open.spotify.com/album/4NNXje0vFMRdepgyK9sp7C) | 5:09 | 2022-06-09 | 2022-07-28 |
+| [NEVER LOSE, MY RULE](https://open.spotify.com/track/6ppmAfQF2yqhBEksloIB07) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [NEVER LOSE, MY RULE](https://open.spotify.com/album/5vNWgs4IRclxjr6vj64jgm) | 4:42 | 2022-08-30 |  |
 | [NO DOUBT](https://open.spotify.com/track/3a1YngFQXMRL0qyYUKVdGt) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [NO DOUBT](https://open.spotify.com/album/4rWk8ApWuufjAhA6KuXveM) | 4:51 | 2022-06-14 | 2022-07-29 |
 | [No Sacrifice](https://open.spotify.com/track/6dDfgZ38eXNgk6aX9kWVxs) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [Survivor](https://open.spotify.com/album/7oF2ENI6Jr9g9Rmi3zHcLX) | 4:06 | 2022-06-09 |  |
 | [ONE dream](https://open.spotify.com/track/6cYCUqJd87A0N472I17G9e) | [和泉一織 \(CV.増田俊樹\)](https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj) | [ONE dream](https://open.spotify.com/album/1xjzWuNAvuMdKaFUs3FF0E) | 4:28 | 2022-06-09 |  |
@@ -97,7 +98,7 @@
 | [カレイドスコープ](https://open.spotify.com/track/4lDreS79cWyHzL9U6NMoh6) | [MEZZO”](https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0) | [カレイドスコープ](https://open.spotify.com/album/19Er19UBgDjHxofmw8KnRR) | 3:53 | 2022-06-09 |  |
 | [ココロ、ハレ晴レ](https://open.spotify.com/track/1OVW6S9aU03kk9JMaAHqln) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [ココロ、ハレ晴レ](https://open.spotify.com/album/1m2PwqWbu5EjHRxKTgz5mE) | 4:31 | 2022-06-14 |  |
 | [ササゲロ \-You Are Mine\-](https://open.spotify.com/track/0L9VEMrJvVWTVooP3TG1j8) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [einsatZ](https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph) | 4:26 | 2022-06-09 |  |
-| [ナナツイロ REALiZE](https://open.spotify.com/track/54IcYBsKHecx4MgZyqF8TB) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [ナナツイロ REALiZE](https://open.spotify.com/album/6Gae1e4UtFVseYUcDkGNeH) | 4:48 | 2022-06-09 |  |
+| [ナナツイロ REALiZE](https://open.spotify.com/track/54IcYBsKHecx4MgZyqF8TB) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [ナナツイロ REALiZE](https://open.spotify.com/album/6Gae1e4UtFVseYUcDkGNeH) | 4:48 | 2022-06-09 | 2022-08-31 |
 | [ハツコイリズム](https://open.spotify.com/track/0F5YkPihmTQ4XZGkGQzlFA) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [Mr.AFFECTiON](https://open.spotify.com/album/7JrXymArQDokcZIEuGP0rm) | 4:53 | 2022-06-14 | 2022-07-28 |
 | [バラツユ](https://open.spotify.com/track/1kTrXdaDUEVlu1X3XLaT6h) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [VARIANT](https://open.spotify.com/album/5n3Xy8ZGY9kRNJ1TGpq2VV) | 4:04 | 2022-06-09 | 2022-07-29 |
 | [ピタゴラス☆ファイター](https://open.spotify.com/track/10kBUC4nLCkzXyHMMtrKsY) | [二階堂大和 \(CV.白井悠介\)](https://open.spotify.com/artist/2bs7gIAXdwGgIr7UNVLfrw), [和泉三月 \(CV.代永 翼\)](https://open.spotify.com/artist/7oPep8A9azbYvgnADjeh0c), [六弥ナギ \(CV.江口拓也\)](https://open.spotify.com/artist/3iY2wSNXnl4HozD3jUxo4a) | [ピタゴラス☆ファイター](https://open.spotify.com/album/6SEPaqjGbkToWj5l2ePNwR) | 5:24 | 2022-06-09 |  |

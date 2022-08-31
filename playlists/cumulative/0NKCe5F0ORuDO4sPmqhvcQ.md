@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-291 songs - 16 hr 13 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
+292 songs - 16 hr 16 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [Salt and Vinegar](https://open.spotify.com/track/1GsKftiCfhs00hbulNPHV1) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Salt and Vinegar](https://open.spotify.com/album/3WvRrly2MB7uk6oEFzcA9E) | 3:15 | 2022-02-15 | 2022-03-10 |
 | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9) | 3:52 | 2022-02-10 | 2022-03-10 |
 | [searching](https://open.spotify.com/track/6LNIPD5VhXOj8xO1uOryri) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [REMNANT.exe](https://open.spotify.com/artist/46q8Ul5r65jpuyZ8LwWPN3) | [Ophelia Presents: Advent Volume 4](https://open.spotify.com/album/5qocn2lAsog53oZj9VoF03) | 3:40 | 2022-02-07 | 2022-03-10 |
+| [See If I Care](https://open.spotify.com/track/58QNQ1ZfZ2Ad1NUecBPKer) | [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [See If I Care](https://open.spotify.com/album/4aHIucrdo47tML4QIKXBle) | 2:39 | 2022-08-30 |  |
 | [See You Go](https://open.spotify.com/track/2ohKWVkLGG9R5FXsg9v3cf) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Courtney Paige Nelson](https://open.spotify.com/artist/2ZK0XNvxt6Fz2lcXHGl24r) | [UNIVERSE](https://open.spotify.com/album/3ifSwEePntUUpMmygM5cso) | 4:05 | 2022-06-24 |  |
 | [Sexy Rave Boy](https://open.spotify.com/track/1m6iGcpFTtKTvsvukOL4Du) | [Miss Madeline](https://open.spotify.com/artist/697XzB9DackcbNfKz4Ry7v) | [Sexy Rave Boy](https://open.spotify.com/album/3BH8U4Mht7RaoqeTY3GAyB) | 2:12 | 2022-07-13 |  |
 | [Silent Water](https://open.spotify.com/track/7xV2E7ImOGtmunBMiCWdHM) | [Verdance](https://open.spotify.com/artist/5sjAHOtCFSgPvw8JoDX2Bi), [Sooski](https://open.spotify.com/artist/1GZJ0FyOSt0HTW5Zxxz78K) | [Unison](https://open.spotify.com/album/102nhWXRWFzwAKLqkVzMUX) | 4:18 | 2022-01-18 | 2022-02-05 |

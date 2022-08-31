@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: The Dangerous Summer
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,049 likes - 98 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,713 likes - 98 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 26 | [In Bloom \[WHOKILLEDXIX Remix\]](https://open.spotify.com/track/07f1H1TlstbEnq0E0nhyx1) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH), [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [In Bloom \[WHOKILLEDXIX Remix\]](https://open.spotify.com/album/0oKsaBnhRnfevCUsiB1jbp) | 4:30 |
 | 27 | [Friday Night](https://open.spotify.com/track/7ek8oMqtvbv0WF0IbOB9QH) | [Cancer Bats](https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc), [Amy Walpole](https://open.spotify.com/artist/4QFgYuWP0CsYJRS96vi9Q5) | [Friday Night](https://open.spotify.com/album/5HyLsS3E32MLG2uxb6SbAd) | 2:55 |
 | 28 | [The End](https://open.spotify.com/track/0ZesMib2ggF1jXaMM7SNlW) | [Cartel](https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk) | [The End](https://open.spotify.com/album/7Il4x3D2vjVHtNaZKJKgbN) | 3:50 |
-| 29 | [Happiness](https://open.spotify.com/track/6TemocIk2wdyLz1scEoA8H) | [THICK](https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli) | [Happiness](https://open.spotify.com/album/3LbQrIEmgwrewExETsuoqh) | 2:19 |
+| 29 | [Happiness](https://open.spotify.com/track/2rkcIVIfVrvLX8Qp95WZoj) | [THICK](https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli) | [Happy Now](https://open.spotify.com/album/5ucPdWDzfyiYXEDC1aC80x) | 2:19 |
 | 30 | [Took My Time \(feat\. rei brown & sam.sts\)](https://open.spotify.com/track/2wvoPGQYWIHzoORg8OnmTe) | [Lecx Stacy](https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO), [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6), [sam.sts](https://open.spotify.com/artist/0d9jID12w4gsq8YKFiLd9B) | [Took My Time](https://open.spotify.com/album/0zIgcRJ7HsQNk0s8KjBHHp) | 3:45 |
 | 31 | [White Lipstick](https://open.spotify.com/track/48YW6y5QOEyoK8lQJjJG4Z) | [Hunx & His Punx](https://open.spotify.com/artist/5xTWck1vHVlTTI0jTQzUuF) | [White Lipstick](https://open.spotify.com/album/1vgPAGVP6vYuHPK3KcDFzm) | 3:27 |
 | 32 | [Truth Or Dare](https://open.spotify.com/track/025gicHQKtkMIFNpnZBak2) | [Carry The Crown](https://open.spotify.com/artist/6d45ZKjCEhvAXmnIAzKkQ8) | [Truth Or Dare](https://open.spotify.com/album/3sRZXTXvblTx6UrnijgTbl) | 2:52 |
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 73 | [5 Days On \(2 Days Off\)](https://open.spotify.com/track/0kSw5ZY5BH7a4AwMVyUxTM) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [5 Days On \(2 Days Off\)](https://open.spotify.com/album/7nugmHTblI2ZfYEIpjuyNz) | 2:51 |
 | 74 | [SIO](https://open.spotify.com/track/4lAJVxOVSPHPhhiyJ2KgMq) | [Have Mercy](https://open.spotify.com/artist/2UvzehEVGcYTPKNwJSZ2kM) | [Sio](https://open.spotify.com/album/1z7rFTCFEdEKD5xWTPfCd4) | 3:01 |
 | 75 | [Ann](https://open.spotify.com/track/0g2kZvRKJ2AZfUmqR6eCGZ) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [Ann](https://open.spotify.com/album/1TKU3jbLcpXbTx9OqjGejM) | 4:04 |
-| 76 | [Tell Myself](https://open.spotify.com/track/4wPoSALUR5mxrTFvgpuC2e) | [THICK](https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli) | [Tell Myself](https://open.spotify.com/album/1XmHuWK6XxcNkyJHZoIKck) | 2:29 |
+| 76 | [Tell Myself](https://open.spotify.com/track/4WI5FUuvz2ESFoerIFK4WU) | [THICK](https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli) | [Happy Now](https://open.spotify.com/album/5ucPdWDzfyiYXEDC1aC80x) | 2:29 |
 | 77 | [Unnamed Song](https://open.spotify.com/track/5jf15rbmGjj6E8k7EJMTV6) | [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [Unnamed Song](https://open.spotify.com/album/4XRTzbvLTIPyHnngt3bfiZ) | 2:58 |
 | 78 | [Dead Heat](https://open.spotify.com/track/7GNWImv0sysdXlqNNvQrYK) | [Hippie Trim](https://open.spotify.com/artist/4NoLhg2lDgMdSvmD7GUJet) | [Dead Heat](https://open.spotify.com/album/7CxAo6qos0aNzCFXGM5Kem) | 2:45 |
 | 79 | [Magdalene](https://open.spotify.com/track/77KAY4y82xmHmll3PSXnEh) | [Italia 90](https://open.spotify.com/artist/4NArCLoaLaa9cQkm2dk3PP) | [Magdalene](https://open.spotify.com/album/53mFt0IIQ3EuobOG4Jkdfk) | 3:04 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 97 | [you're not special](https://open.spotify.com/track/6Mc1snn8uClt3FzkUREymB) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [you're not special](https://open.spotify.com/album/7vvGNS9MRPrzfi0cHbDeQC) | 2:46 |
 | 98 | [I've Been Drunk in Every Pub in Brisbane](https://open.spotify.com/track/59R1XgGV0zcbHjzBEKCsn3) | [The Chats](https://open.spotify.com/artist/1aQ7P3HtKOQFW16ebjiks1) | [I've Been Drunk in Every Pub in Brisbane](https://open.spotify.com/album/4h4MqqLKI89Mv1Ezvbu2Rx) | 1:29 |
 
-Snapshot ID: `MTY2MTQ2ODQwMCwwMDAwMDAwMGVjMjI5OGRkNDVmOGE2ZGMxMWE0NGRiYjZhZjUxZGMz`
+Snapshot ID: `MTY2MTQ2ODQwMCwwMDAwMDAwMGQ0OTljOThhYmEzMjE1NmViYzdkMzVmNWMyMjFhMjZi`

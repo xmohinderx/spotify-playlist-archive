@@ -4,7 +4,7 @@
 
 > Yorka y más mujeres, a todo volumen.
 
-393 songs - 22 hr 44 min - [published](https://open.spotify.com/playlist/5O6RaXdE1dTLivRrg9kWmW)
+394 songs - 22 hr 48 min - [published](https://open.spotify.com/playlist/5O6RaXdE1dTLivRrg9kWmW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -372,7 +372,8 @@
 | [Trascender](https://open.spotify.com/track/2h2Ffv9DGFRL3qHdTmSh4e) | [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML) | [Trascender](https://open.spotify.com/album/5z8swern7Agc4LXq0X4t8H) | 3:27 | 2021-12-17 | 2022-03-09 |
 | [Tu Movimiento](https://open.spotify.com/track/3LptDHH9yf2N9nVRS9pHuQ) | [Katitadhq](https://open.spotify.com/artist/2u4WQWfc3Aufs3m846fmvQ) | [Tu Movimiento](https://open.spotify.com/album/54nIVjLFm0OKC6PjSTWPKx) | 3:44 | 2021-12-17 | 2022-01-22 |
 | [Tus Mentiras](https://open.spotify.com/track/1bGLPKLEATC4VVVnaY79pG) | [Flowyn](https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY) | [Tus Mentiras](https://open.spotify.com/album/3n0zk5N16hboEmqiR3peYJ) | 3:31 | 2022-04-06 | 2022-05-05 |
-| [TYF](https://open.spotify.com/track/5SCwhJYHypju5RCI7zgVk2) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [TYF](https://open.spotify.com/album/1Z3VaI95Uej1kjjtaKFamW) | 3:33 | 2022-02-02 |  |
+| [TYF](https://open.spotify.com/track/3YGklnT5auf8CCLCbvAgFJ) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [TYF](https://open.spotify.com/album/09LrimhS4xCJCyqsz9CMhA) | 3:33 | 2022-08-03 |  |
+| [TYF](https://open.spotify.com/track/5SCwhJYHypju5RCI7zgVk2) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [TYF](https://open.spotify.com/album/1Z3VaI95Uej1kjjtaKFamW) | 3:33 | 2022-02-02 | 2022-08-31 |
 | [Tú crees que es normal?](https://open.spotify.com/track/0fvhVnXL3Nxc6UtjHSOReA) | [Dadalú](https://open.spotify.com/artist/1b8V4W56uUKVMcxeOVPtXt) | [El mapa de los días](https://open.spotify.com/album/63DY7CyV6Cl4UnoRn3IJnj) | 2:13 | 2022-03-08 | 2022-07-07 |
 | [Un Día](https://open.spotify.com/track/1OAETeovYFah9wXH9BieWm) | [Floresalegría](https://open.spotify.com/artist/6Dp3p3MdGF7dhhU8GzOfAt) | [Curá y Sola](https://open.spotify.com/album/3td2vnGbcKEWUxVZ1sqJ37) | 2:17 | 2022-05-04 | 2022-07-29 |
 | [Un Día a la Vez](https://open.spotify.com/track/6XIc1J8ydiUWsanMCdC7EM) | [Dania Neko](https://open.spotify.com/artist/6ehVh5kPMBixAL8VovNYeE) | [Coraje](https://open.spotify.com/album/5FCMuepQRC1ekDqoSt2yqQ) | 3:08 | 2022-08-03 |  |

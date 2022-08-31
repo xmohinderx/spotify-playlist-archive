@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ6UgJlQibR.md) - [plain]
 
 > Where music and emotions meet\. Cover: <a href="spotify:artist:7Ddov9nbJDbpgzvBVb7cU1">George Wassouf</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,537 likes - 40 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,576 likes - 40 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ6UgJlQibR.md) - [plain]
 | 26 | [Alloulou al\-Mamdood / Loulou Bi Loulou](https://open.spotify.com/track/5W9KJkUcyLchbT3fV0kX8l) | [Sabah Fakhri](https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg) | [Master of Andalusian Folklore: Traditional Syrian Songs](https://open.spotify.com/album/3vnpDLv3yONaJBcs3Du2HN) | 11:06 |
 | 27 | [Al\-Hobbi Koullou](https://open.spotify.com/track/5ndZ0322fIgfW7eTgRr5Ly) | [Nour Mehanna](https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF) | [Greatest Hits](https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD) | 6:29 |
 | 28 | [Tair ya hawa \(Live\)](https://open.spotify.com/track/2szi0ZqkBtU4GyRuCz65Pz) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Sahra](https://open.spotify.com/album/7cq87GgwNKuapq6R6QrtbR) | 4:53 |
-| 29 | [Baghdad Choby](https://open.spotify.com/track/1EVvdFSELehGqjvNYgScjF) | [Tarabband](https://open.spotify.com/artist/7HMpq7BBo9dLKr1z961pRA) | [Ya Sidi](https://open.spotify.com/album/5K6ayvq7O2N0kD4coQDCYv) | 4:37 |
+| 29 | [El Zakah](https://open.spotify.com/track/5BPiU4eojxCA9PHLRi8x4t) | [Latifa](https://open.spotify.com/artist/1PuTOfIYIEdoxKNnXJAPZe) | [El Zakah](https://open.spotify.com/album/7qHio96eRUQ6lwWKH44QFc) | 1:59 |
 | 30 | [Debna Aa Ghiyabak \(Live\)](https://open.spotify.com/track/5pNkQiWpr5rLUB8Pii7QrG) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Ossit Helem](https://open.spotify.com/album/6hplNUsuDBfX4u31Ohi0FH) | 5:03 |
-| 31 | [El Zakah](https://open.spotify.com/track/5BPiU4eojxCA9PHLRi8x4t) | [Latifa](https://open.spotify.com/artist/1PuTOfIYIEdoxKNnXJAPZe) | [El Zakah](https://open.spotify.com/album/7qHio96eRUQ6lwWKH44QFc) | 1:59 |
+| 31 | [Baghdad Choby](https://open.spotify.com/track/1EVvdFSELehGqjvNYgScjF) | [Tarabband](https://open.spotify.com/artist/7HMpq7BBo9dLKr1z961pRA) | [Ya Sidi](https://open.spotify.com/album/5K6ayvq7O2N0kD4coQDCYv) | 4:37 |
 | 32 | [Ala El Aadid Ijtamaana](https://open.spotify.com/track/7FkTCLunm1yMQuRDsfJtcH) | [Ahmad Abdar](https://open.spotify.com/artist/3Zdzznb63NbHmP6Iowy22x) | [Sultan's of Al Tarab, Vol\. 4](https://open.spotify.com/album/6oHJk3MZboCBJzqHsOZe65) | 2:15 |
 | 33 | [Ibaati Gawab](https://open.spotify.com/track/1czNqDPs2M3AKufyOxinDR) | [Nour Mehanna](https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF) | [Greatest Hits](https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD) | 7:29 |
 | 34 | [Mali \(Live\)](https://open.spotify.com/track/24BrV1miOAkvzwVBjRwrwp) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Sahra](https://open.spotify.com/album/7cq87GgwNKuapq6R6QrtbR) | 3:54 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ6UgJlQibR.md) - [plain]
 | 39 | [Khamratal Houbbi](https://open.spotify.com/track/1Iz1pyVDrnEAJkutlgQxXL) | [Nour Mehanna](https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF) | [Greatest Hits](https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD) | 5:21 |
 | 40 | [Akdeb Alik](https://open.spotify.com/track/1ZsMhxFNAJwPNDBbTNF0Hr) | [Adam](https://open.spotify.com/artist/38hkUvMOhAhRSNGfd402SF) | [Sahrat Tarab](https://open.spotify.com/album/72iiKUrgjejSb61GMtZmEy) | 6:04 |
 
-Snapshot ID: `MTYwNjAzNzU2NSwwMDAwMDAwMDg0ZGI1YjVkZmViZjFlMThiYmYyNjBiMWYxNzg2YTUx`
+Snapshot ID: `MTYwNjAzNzU2NSwwMDAwMDAwMDdiM2YyMzM0ODEzMWRhY2M5MDE2MTdjYzliOTVmZmQw`

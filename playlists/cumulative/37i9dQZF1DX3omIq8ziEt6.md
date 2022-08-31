@@ -4,7 +4,7 @@
 
 > Timeless Latin hits, solo tus favoritos!
 
-357 songs - 23 hr 37 min - [published](https://open.spotify.com/playlist/6Way9yNdo6mukwZcZ3i08m)
+358 songs - 23 hr 41 min - [published](https://open.spotify.com/playlist/6Way9yNdo6mukwZcZ3i08m)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [Para Amarnos Más](https://open.spotify.com/track/5VstdEyGsUzyS4UXtKGAMG) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [La Historia](https://open.spotify.com/album/1zGXaWkMGLV1rkJbxJwCkp) | 3:29 | 2021-12-09 | 2022-07-29 |
 | [Pasos de cero](https://open.spotify.com/track/18mmN3VrFWRi6SsSBJf6WJ) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Terral](https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS) | 3:54 | 2021-12-09 | 2022-07-29 |
 | [Pasos de gigantes](https://open.spotify.com/track/5cfyheAkmqThtjovwfQnD4) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Sinverguenza](https://open.spotify.com/album/7adZK0OmOhHL3DnEL5qWKb) | 3:55 | 2021-12-09 | 2022-07-23 |
+| [Perdón, Perdón \- HA\-ASH Primera Fila \- Hecho Realidad \[En Vivo\]](https://open.spotify.com/track/15Hx1oi6C3AxYhhvolqrJG) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [HA\-ASH Primera Fila \- Hecho Realidad](https://open.spotify.com/album/2RCKVV7j5dZax3YZHfG0QM) | 3:46 | 2022-06-27 |  |
 | [Perfecta](https://open.spotify.com/track/09QfIIP4NUx4A3thmovb2o) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [El Templo del Pop](https://open.spotify.com/album/0KzE84u9io1eWxWSs9SmSY) | 3:45 | 2021-12-09 |  |
 | [Persiana Americana \- Remasterizado 2007](https://open.spotify.com/track/71awpJoi5bqGMBrTkHDDoL) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Signos \(Remastered\)](https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi) | 4:52 | 2022-06-27 |  |
 | [Piérdeme el Respeto \- En Vivo \[Centro Cultural Roberto Cantoral\]](https://open.spotify.com/track/2TBFZLEkyvGMBn4FxbkQ6b) | [Playa Limbo](https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8) | [De Días y de Noches \(En Vivo\)\[Centro Cultural Roberto Cantoral\]](https://open.spotify.com/album/1rLfMjG1S9l9zaOoZ62COV) | 3:39 | 2022-01-01 | 2022-06-05 |
@@ -312,7 +313,7 @@
 | [Te Perdiste Mi Amor \(feat\. Prince Royce\)](https://open.spotify.com/track/1Q8NiatGDc6YgefNwT7Jgu) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Habítame Siempre \(Bonus Tracks Version\)](https://open.spotify.com/album/5HDevGeDLIZMhZKvRZLSkI) | 3:40 | 2021-12-09 | 2022-07-29 |
 | [Te quiero](https://open.spotify.com/track/6tu2FHuKL9C8pwNrityweQ) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Las baladas \(Los singles vol II\)](https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN) | 3:45 | 2022-06-27 |  |
 | [Te Quiero Mucho, Mucho](https://open.spotify.com/track/6QQRYvoB4prtqTtKwCuqHr) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt) | [Eres la Persona Correcta en el Momento Equivocado](https://open.spotify.com/album/1IywrhUMUMLzRgY8xs9z7s) | 3:40 | 2021-12-09 | 2022-07-23 |
-| [Te Quiero Tanto, Tanto](https://open.spotify.com/track/2S0XH9R1BVZhbcy7j9yQbx) | [Onda Vaselina](https://open.spotify.com/artist/1T9LdtwSTDoXrbkvHtKpGw) | [Entrega Total](https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht) | 3:07 | 2021-12-09 |  |
+| [Te Quiero Tanto, Tanto](https://open.spotify.com/track/2S0XH9R1BVZhbcy7j9yQbx) | [Onda Vaselina](https://open.spotify.com/artist/1T9LdtwSTDoXrbkvHtKpGw) | [Entrega Total](https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht) | 3:07 | 2021-12-09 | 2022-08-31 |
 | [Te Quise Olvidar](https://open.spotify.com/track/1WXtIPNPn1F7Ex2G03kNQI) | [MDO](https://open.spotify.com/artist/08xFgTEmizKwzfDSbxvODp) | [Las Mejores Canciones De Amor](https://open.spotify.com/album/2KX8Fw2jqeQkFUnDd12UWf) | 4:23 | 2022-01-01 | 2022-07-25 |
 | [Tengo Tu Love](https://open.spotify.com/track/2hgzokI1dOZAxs5PUG0gBT) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz) | [Mucha Cosa Buena](https://open.spotify.com/album/2Lvsyubptl5ITRCjy0FTmH) | 3:51 | 2021-12-09 | 2022-07-23 |
 | [Tocando Fondo](https://open.spotify.com/track/12KP3TP0BYKhYWp0H3YXtq) | [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [Aerosoul](https://open.spotify.com/album/2sIZCYi1DM51AheC1HiqgG) | 4:06 | 2021-12-09 | 2022-07-29 |

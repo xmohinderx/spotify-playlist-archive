@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover: 2am\) \(당신의 감성에 발라드, 려요\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,325 likes - 104 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,146 likes - 104 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 75 | [YOU](https://open.spotify.com/track/3EbIEcLVkzpBEt2wKty6Iu) | [이준호 Lee Junho](https://open.spotify.com/artist/0gZSJwPrA4KC8S9bVOwE9m) | [YOU](https://open.spotify.com/album/2U9rzSHkcPOnq3q55U6RV0) | 3:40 |
 | 76 | [A Common Excuse](https://open.spotify.com/track/7GpmCt7ZY3BEjs5O2SSGS9) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [A Common Excuse](https://open.spotify.com/album/0rTkLfgMbdLpBilQ273zSW) | 3:57 |
 | 77 | [The Return of our Season](https://open.spotify.com/track/0XTukteREM3zrBZlMg2mzA) | [Cho Eun](https://open.spotify.com/artist/0epcsX8iJTTmRBhbCSHNdL) | [The Return of our Season \(Cho Eun x Parting Story\)](https://open.spotify.com/album/0iRKsPMeArjeS6jbvUGlKx) | 4:18 |
-| 78 | [Nostalgia](https://open.spotify.com/track/6B1rtnTMiYoQKtkSKMtXAK) | [The Orchard](https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI) | [Nostalgia](https://open.spotify.com/album/4vMdxNFcddeFZSK3IqtzaD) | 4:39 |
+| 78 | [Nostalgia](https://open.spotify.com/track/6B1rtnTMiYoQKtkSKMtXAK) | [the orchard](https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI) | [Nostalgia](https://open.spotify.com/album/4vMdxNFcddeFZSK3IqtzaD) | 4:39 |
 | 79 | [with you](https://open.spotify.com/track/2aPyJyUGGLj33QiXRfLG05) | [Hee brothers](https://open.spotify.com/artist/7qXJEle1HRJwOW1wuTEgwz) | [with you](https://open.spotify.com/album/78zpI0u5fJDfbjFvqpwKxi) | 3:27 |
 | 80 | [My Night, Your Night \(Feat\. Baek Sun\)](https://open.spotify.com/track/4bmWgD4GnQO2RtGUSbXm50) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3), [Baek Sun](https://open.spotify.com/artist/7F0wW5ktsSkSSC23oeEaK9) | [My Night, Your Night](https://open.spotify.com/album/1pYR0XFLO0qDoycQgYfQp1) | 3:38 |
 | 81 | [Hug](https://open.spotify.com/track/6oGpdfRigGtG6EWTArJ6vk) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [CLEANING UP \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/6JS3kyAoZEp4BFz4qCLfUz) | 4:14 |

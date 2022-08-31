@@ -4,7 +4,7 @@
 
 > Himnos de Resistencia: Somos un pueblo fuerte que no se calla.
 
-263 songs - 17 hr 22 min - [published](https://open.spotify.com/playlist/4VI0QwtK5l8tDmnnmgumH5)
+264 songs - 17 hr 25 min - [published](https://open.spotify.com/playlist/4VI0QwtK5l8tDmnnmgumH5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Antidoping al Presidente](https://open.spotify.com/track/1QqTe2mCiaAQExNIxHmiXC) | [Puerquerama](https://open.spotify.com/artist/2zShkbLw0Y4YxzsOnyeUXH) | [Gente Come Gente](https://open.spotify.com/album/19BjzCfiT1xmIsugIqoWE4) | 4:01 | 2021-09-24 | 2022-07-29 |
 | [Antifa Dance](https://open.spotify.com/track/3OfJ6ja2JtoQ7SDwNY4MTO) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Antifa Dance](https://open.spotify.com/album/5Ex8ADFhgsJVFkI5eHeQq1) | 2:35 | 2021-09-24 |  |
 | [Antipatriarca](https://open.spotify.com/track/49SpHaonnqks7taOwDfV6Z) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Vengo](https://open.spotify.com/album/4AvYh9UIRwjZJYI9X7p8ua) | 3:04 | 2021-09-24 |  |
-| [Aqui Estamos](https://open.spotify.com/track/2kNpzb1Y8CZxz1D34vPkP6) | [NADIE](https://open.spotify.com/artist/0tqvTB10tF7nCr8Xj4FEx1) | [Verdades Y Mentiras](https://open.spotify.com/album/2Cdx4Ny2QhyZ0YWtbMT47G) | 3:30 | 2021-09-24 |  |
+| [Aqui Estamos](https://open.spotify.com/track/2kNpzb1Y8CZxz1D34vPkP6) | [NADIE](https://open.spotify.com/artist/0tqvTB10tF7nCr8Xj4FEx1) | [Verdades Y Mentiras](https://open.spotify.com/album/2Cdx4Ny2QhyZ0YWtbMT47G) | 3:30 | 2021-09-24 | 2022-08-31 |
 | [Aquí Estamos](https://open.spotify.com/track/4lIG0kbGikNHbLXI3XY8c8) | [NADIE](https://open.spotify.com/artist/0tqvTB10tF7nCr8Xj4FEx1) | [Verdades y Mentiras](https://open.spotify.com/album/6dr8YjrZozu8j5DIQyC8G0) | 3:30 | 2021-09-24 | 2022-07-16 |
 | [Aquí No Pasa Nada](https://open.spotify.com/track/3fwn1dl9oo9tbUWCGzhJXx) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [El Diablito](https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV) | 4:40 | 2021-09-24 |  |
 | [Asesino](https://open.spotify.com/track/29U7vM0JkxfX4lvt54SW6k) | [Los Miserables](https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas) | [Futuro Esplendor](https://open.spotify.com/album/0XImJ2QAXvD8wQHZzu1LjS) | 3:18 | 2021-09-24 | 2022-07-22 |
@@ -70,6 +70,7 @@
 | [Corrido del 2 de Octubre](https://open.spotify.com/track/5P5mjyY1WXkYpnbyZdT7TQ) | [Óscar Chávez](https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb) | [México 68, Vol\. 2](https://open.spotify.com/album/2APDKCxkpAcrRC7VlGdzei) | 4:56 | 2021-09-24 | 2022-07-27 |
 | [Cuando Muere una Lengua](https://open.spotify.com/track/6Xysjq5vZU1QvbWxJXZoqv) | [Ampersan](https://open.spotify.com/artist/5A7ayYKcSsydP31DqS4vQW), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [6 Conejo](https://open.spotify.com/album/2YDfEn3AZkhgqASEzHuX72) | 5:52 | 2022-04-27 | 2022-07-16 |
 | [Darlo Todo](https://open.spotify.com/track/0wX322Hk65LZyzXqvFfDH7) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [Darlo Todo](https://open.spotify.com/album/5aIMKL9KlsGquyHHBfY5uq) | 3:21 | 2021-09-24 | 2022-07-23 |
+| [Darlo Todo](https://open.spotify.com/track/4qG1Diwr3AIojASlevDmMD) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [Amores](https://open.spotify.com/album/0DSrZQhNEnpV8WiiIoaLVH) | 3:21 | 2021-09-24 |  |
 | [De la Canción de Protesta](https://open.spotify.com/track/50i9d49Q5ON4GqFyOrREOl) | [Fernando Delgadillo](https://open.spotify.com/artist/3dzMXO1RxEyQnFemhMIvnc) | [Entre Pairos y Derivas](https://open.spotify.com/album/2wrJY8pdZQb7KUbttsnkq5) | 3:45 | 2022-01-11 | 2022-07-29 |
 | [Decimo Grado](https://open.spotify.com/track/6gePYm22Szup3tWwsaLiCu) | [Ana Y Jaime](https://open.spotify.com/artist/1Xxc8IFMGLJ6u8urXvzO3J) | [Ana y Jaime](https://open.spotify.com/album/3WpLVlvP7ItWKUPl92nf6d) | 5:01 | 2021-09-24 | 2022-07-29 |
 | [Derecho de Nacimiento \(feat\. Los Macorinos\)](https://open.spotify.com/track/5XkqOjBws8qpEkBW7X5Ppy) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Musas \(Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos\), Vol\. 2](https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy) | 5:48 | 2021-09-24 |  |

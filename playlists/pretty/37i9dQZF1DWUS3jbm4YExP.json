@@ -1,12 +1,12 @@
 {
   "description": "Groovy sounds from around the world.",
-  "num_followers": 526456,
+  "num_followers": 526287,
   "original_name": "Global Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTM4NzkwNSwwMDAwMDAwMDc2OGZlNTc0YTMzYzNjOTE1YTY5MjgxNmNjZTljYTZm",
+  "snapshot_id": "MTY2MTM4NzkwNSwwMDAwMDAwMDFkYTEwNzg3OGQ2NGU1MTkwOWNjNTgwOGY4YTgwYzA0",
   "tracks": [
     {
       "added_at": "2021-12-17 06:00:00",
@@ -727,6 +727,22 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
+        "name": "Dos Uvas",
+        "url": "https://open.spotify.com/album/2MvZ4FTsUUSAv7VhtXwFRf"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        }
+      ],
+      "duration_ms": 209280,
+      "name": "Dos Uvas",
+      "url": "https://open.spotify.com/track/5ZVhOPIz5xEb52pRnZBitG"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
         "name": "Celestial Strut",
         "url": "https://open.spotify.com/album/5UAtIWTEaVwzoZ4NZDtElM"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 349257,
       "name": "Found Your Love",
       "url": "https://open.spotify.com/track/2ohinF8keJDshzetGAK0GX"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
-        "name": "Dos Uvas",
-        "url": "https://open.spotify.com/album/2MvZ4FTsUUSAv7VhtXwFRf"
-      },
-      "artists": [
-        {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        }
-      ],
-      "duration_ms": 209280,
-      "name": "Dos Uvas",
-      "url": "https://open.spotify.com/track/5ZVhOPIz5xEb52pRnZBitG"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -781,22 +781,6 @@
       "url": "https://open.spotify.com/track/35iCo2B0jaGwYpaFP2fFZ8"
     },
     {
-      "added_at": "2022-04-12 02:43:31",
-      "album": {
-        "name": "Isle Of Magic",
-        "url": "https://open.spotify.com/album/0KrjFs17bxZYT5oNK1Wxj6"
-      },
-      "artists": [
-        {
-          "name": "Mop Mop",
-          "url": "https://open.spotify.com/artist/4pgjEpAP1k4epnwZWmbHTf"
-        }
-      ],
-      "duration_ms": 246799,
-      "name": "Kamakumba",
-      "url": "https://open.spotify.com/track/4a1fZPAqIORgRyd1cQCyqQ"
-    },
-    {
       "added_at": "2021-10-06 02:02:41",
       "album": {
         "name": "Under Burning Skies",
@@ -811,6 +795,22 @@
       "duration_ms": 425528,
       "name": "Dog eat dog",
       "url": "https://open.spotify.com/track/1keL9AYEQKlL5K99Y1lsOT"
+    },
+    {
+      "added_at": "2022-04-12 02:43:31",
+      "album": {
+        "name": "Isle Of Magic",
+        "url": "https://open.spotify.com/album/0KrjFs17bxZYT5oNK1Wxj6"
+      },
+      "artists": [
+        {
+          "name": "Mop Mop",
+          "url": "https://open.spotify.com/artist/4pgjEpAP1k4epnwZWmbHTf"
+        }
+      ],
+      "duration_ms": 246799,
+      "name": "Kamakumba",
+      "url": "https://open.spotify.com/track/4a1fZPAqIORgRyd1cQCyqQ"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -931,6 +931,26 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
+        "name": "Yeti Season (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4QnaG6xFICrieldsUBCuNK"
+      },
+      "artists": [
+        {
+          "name": "El Michels Affair",
+          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
+        },
+        {
+          "name": "Piya Malik",
+          "url": "https://open.spotify.com/artist/3WjeCzWHSOzMZI2vWXgFZU"
+        }
+      ],
+      "duration_ms": 213749,
+      "name": "Unathi",
+      "url": "https://open.spotify.com/track/1dxYM3qSzXe2O2RJ3rK3KI"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
         "name": "Frente Cumbiero Meets Mad Professor",
         "url": "https://open.spotify.com/album/1dnal49FIWH19CsWYjYMOV"
       },
@@ -967,26 +987,6 @@
       "duration_ms": 200991,
       "name": "Calentita",
       "url": "https://open.spotify.com/track/0MYCrsAFlIGtVcfxlCEzah"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
-        "name": "Yeti Season (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4QnaG6xFICrieldsUBCuNK"
-      },
-      "artists": [
-        {
-          "name": "El Michels Affair",
-          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
-        },
-        {
-          "name": "Piya Malik",
-          "url": "https://open.spotify.com/artist/3WjeCzWHSOzMZI2vWXgFZU"
-        }
-      ],
-      "duration_ms": 213749,
-      "name": "Unathi",
-      "url": "https://open.spotify.com/track/1dxYM3qSzXe2O2RJ3rK3KI"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1073,24 +1073,20 @@
       "url": "https://open.spotify.com/track/6XOguNHu0tyQRFhPqoBFeV"
     },
     {
-      "added_at": "2021-10-06 02:02:41",
+      "added_at": "2022-02-11 00:29:03",
       "album": {
-        "name": "Robson Jorge e Lincoln Olivetti",
-        "url": "https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM"
+        "name": "Darker Than Blue",
+        "url": "https://open.spotify.com/album/3AHvkBPz12A5UAcDHfFvn7"
       },
       "artists": [
         {
-          "name": "Robson Jorge",
-          "url": "https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM"
-        },
-        {
-          "name": "Lincoln Olivetti",
-          "url": "https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E"
+          "name": "Devon Russell",
+          "url": "https://open.spotify.com/artist/5qpAbHQfFzjfDhHRTTMwkz"
         }
       ],
-      "duration_ms": 181427,
-      "name": "Ginga",
-      "url": "https://open.spotify.com/track/2KDF5lrsQNBN0a89SwkwDg"
+      "duration_ms": 235706,
+      "name": "Move on Up",
+      "url": "https://open.spotify.com/track/3LIy6dd3MYDjtS2AuIWB9h"
     },
     {
       "added_at": "2022-03-29 03:12:27",
@@ -1111,6 +1107,26 @@
       "duration_ms": 384383,
       "name": "On te l'avait dit",
       "url": "https://open.spotify.com/track/3d6u38zeC6XIt87Hhp4pql"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
+        "name": "Robson Jorge e Lincoln Olivetti",
+        "url": "https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM"
+      },
+      "artists": [
+        {
+          "name": "Robson Jorge",
+          "url": "https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM"
+        },
+        {
+          "name": "Lincoln Olivetti",
+          "url": "https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E"
+        }
+      ],
+      "duration_ms": 181427,
+      "name": "Ginga",
+      "url": "https://open.spotify.com/track/2KDF5lrsQNBN0a89SwkwDg"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1215,38 +1231,6 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Padremontes",
-        "url": "https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn"
-      },
-      "artists": [
-        {
-          "name": "Frente Cumbiero",
-          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
-        }
-      ],
-      "duration_ms": 203778,
-      "name": "Sondiram\u00e1",
-      "url": "https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q"
-    },
-    {
-      "added_at": "2022-02-11 00:29:03",
-      "album": {
-        "name": "Darker Than Blue",
-        "url": "https://open.spotify.com/album/3AHvkBPz12A5UAcDHfFvn7"
-      },
-      "artists": [
-        {
-          "name": "Devon Russell",
-          "url": "https://open.spotify.com/artist/5qpAbHQfFzjfDhHRTTMwkz"
-        }
-      ],
-      "duration_ms": 235706,
-      "name": "Move on Up",
-      "url": "https://open.spotify.com/track/3LIy6dd3MYDjtS2AuIWB9h"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
         "name": "Jungle Fire",
         "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
       },
@@ -1263,18 +1247,18 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Resonate",
-        "url": "https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs"
+        "name": "Padremontes",
+        "url": "https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn"
       },
       "artists": [
         {
-          "name": "Lettuce",
-          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
+          "name": "Frente Cumbiero",
+          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
         }
       ],
-      "duration_ms": 343841,
-      "name": "Silence is Golden",
-      "url": "https://open.spotify.com/track/72pAdCNhYcGaKndmsJBbyz"
+      "duration_ms": 203778,
+      "name": "Sondiram\u00e1",
+      "url": "https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1295,6 +1279,22 @@
       "duration_ms": 361715,
       "name": "Suro Nipa",
       "url": "https://open.spotify.com/track/74hBqD4AZElwmfRxR9dOPZ"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
+        "name": "Resonate",
+        "url": "https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs"
+      },
+      "artists": [
+        {
+          "name": "Lettuce",
+          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
+        }
+      ],
+      "duration_ms": 343841,
+      "name": "Silence is Golden",
+      "url": "https://open.spotify.com/track/72pAdCNhYcGaKndmsJBbyz"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Music Save Me (One More Time)",
-        "url": "https://open.spotify.com/album/2EULAjFh61Hr4VorEQLCZU"
-      },
-      "artists": [
-        {
-          "name": "Mocky",
-          "url": "https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG"
-        }
-      ],
-      "duration_ms": 256490,
-      "name": "How It Goes",
-      "url": "https://open.spotify.com/track/2rIzolYxlQr9JoitK2BeC4"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
         "name": "Belle Wahallah",
         "url": "https://open.spotify.com/album/757OI3ObWjiqLTkU6TEFkc"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 326606,
       "name": "Yeanoh (Powe'hande Binga'dbe)",
       "url": "https://open.spotify.com/track/0IVlx6wUnkGmU8zWXznnf1"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
+        "name": "Music Save Me (One More Time)",
+        "url": "https://open.spotify.com/album/2EULAjFh61Hr4VorEQLCZU"
+      },
+      "artists": [
+        {
+          "name": "Mocky",
+          "url": "https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG"
+        }
+      ],
+      "duration_ms": 256490,
+      "name": "How It Goes",
+      "url": "https://open.spotify.com/track/2rIzolYxlQr9JoitK2BeC4"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Ka Rica-Tar",
-        "url": "https://open.spotify.com/album/2Y1w4MWDnXvVaHavVnEbzg"
-      },
-      "artists": [
-        {
-          "name": "Karl Hector & The Malcouns",
-          "url": "https://open.spotify.com/artist/1RrTQU4gM94QB6XWSBy8yB"
-        }
-      ],
-      "duration_ms": 195652,
-      "name": "Kingdom of D'mt",
-      "url": "https://open.spotify.com/track/15Cv0RFfDJQwAeZKcgQjrf"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
         "name": "Yeti Season (Deluxe Version)",
         "url": "https://open.spotify.com/album/4QnaG6xFICrieldsUBCuNK"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 192404,
       "name": "Murkit Gem",
       "url": "https://open.spotify.com/track/5GMhgIyKbUlcw05h394yvl"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
+        "name": "Ka Rica-Tar",
+        "url": "https://open.spotify.com/album/2Y1w4MWDnXvVaHavVnEbzg"
+      },
+      "artists": [
+        {
+          "name": "Karl Hector & The Malcouns",
+          "url": "https://open.spotify.com/artist/1RrTQU4gM94QB6XWSBy8yB"
+        }
+      ],
+      "duration_ms": 195652,
+      "name": "Kingdom of D'mt",
+      "url": "https://open.spotify.com/track/15Cv0RFfDJQwAeZKcgQjrf"
     },
     {
       "added_at": "2021-10-26 03:22:21",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "RAS II",
-        "url": "https://open.spotify.com/album/6GJ3n96Nj0u2E6YhAngJko"
-      },
-      "artists": [
-        {
-          "name": "RAS",
-          "url": "https://open.spotify.com/artist/5quzk8QzHrBaPWz4JH15cj"
-        }
-      ],
-      "duration_ms": 348292,
-      "name": "Boogie",
-      "url": "https://open.spotify.com/track/1udnVMUpzoMzVdHI5FnhQO"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
         "name": "Gun Metal Grey",
         "url": "https://open.spotify.com/album/1ksIAr0EZzkqpKuVI9BgJQ"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 196746,
       "name": "Gun Metal Grey",
       "url": "https://open.spotify.com/track/2xBMnos2JHuKgRGr0cSgK5"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
+        "name": "RAS II",
+        "url": "https://open.spotify.com/album/6GJ3n96Nj0u2E6YhAngJko"
+      },
+      "artists": [
+        {
+          "name": "RAS",
+          "url": "https://open.spotify.com/artist/5quzk8QzHrBaPWz4JH15cj"
+        }
+      ],
+      "duration_ms": 348292,
+      "name": "Boogie",
+      "url": "https://open.spotify.com/track/1udnVMUpzoMzVdHI5FnhQO"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1617,26 +1617,6 @@
       "url": "https://open.spotify.com/track/3NG1ycecXW6GpDkzgbFosE"
     },
     {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
-        "name": "Pat Thomas & Kwashibu Area Band",
-        "url": "https://open.spotify.com/album/2HMkfg3XgwUka7EnAvGbPC"
-      },
-      "artists": [
-        {
-          "name": "Pat Thomas",
-          "url": "https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy"
-        },
-        {
-          "name": "Kwashibu Area Band",
-          "url": "https://open.spotify.com/artist/53PQcfQVWV5FU1Mh7Of1yP"
-        }
-      ],
-      "duration_ms": 252889,
-      "name": "Gyae Su",
-      "url": "https://open.spotify.com/track/3U9NVmsEdrTutU49F1ykvf"
-    },
-    {
       "added_at": "2021-12-17 06:00:00",
       "album": {
         "name": "Look at My Soul: The Latin Shade of Texas Soul",
@@ -1661,24 +1641,24 @@
       "url": "https://open.spotify.com/track/24WvIL9vk5fI5GmacZbtf4"
     },
     {
-      "added_at": "2022-07-14 13:17:42",
+      "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Discomania (Jolly Mare Lifting) (feat. Jolly Mare)",
-        "url": "https://open.spotify.com/album/2SyWdGMMSKL11Wktw2Czav"
+        "name": "Pat Thomas & Kwashibu Area Band",
+        "url": "https://open.spotify.com/album/2HMkfg3XgwUka7EnAvGbPC"
       },
       "artists": [
         {
-          "name": "Piero Umiliani",
-          "url": "https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk"
+          "name": "Pat Thomas",
+          "url": "https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy"
         },
         {
-          "name": "Jolly Mare",
-          "url": "https://open.spotify.com/artist/3wXVXH2PvvCPvoN8SoozIO"
+          "name": "Kwashibu Area Band",
+          "url": "https://open.spotify.com/artist/53PQcfQVWV5FU1Mh7Of1yP"
         }
       ],
-      "duration_ms": 360640,
-      "name": "Discomania (feat. Jolly Mare) - Jolly Mare Lifting",
-      "url": "https://open.spotify.com/track/2pfxdAaztChUst0Uw4lbKB"
+      "duration_ms": 252889,
+      "name": "Gyae Su",
+      "url": "https://open.spotify.com/track/3U9NVmsEdrTutU49F1ykvf"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1699,22 +1679,6 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Afro Golden Line",
-        "url": "https://open.spotify.com/album/4to4besq9fhut1Cl2SXqyE"
-      },
-      "artists": [
-        {
-          "name": "Amir Bresler",
-          "url": "https://open.spotify.com/artist/0YkHSziGnJb3civlSaKWk1"
-        }
-      ],
-      "duration_ms": 239397,
-      "name": "Afro Golden Line",
-      "url": "https://open.spotify.com/track/1DD7PGYav6CYBtYtwhzWzI"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
         "name": "Know What You Want",
         "url": "https://open.spotify.com/album/3SCzrlw8MWQzZxcGhG8moB"
       },
@@ -1729,24 +1693,40 @@
       "url": "https://open.spotify.com/track/5oeL6Qnnlg4x789IMHQyl3"
     },
     {
-      "added_at": "2022-02-01 00:30:52",
+      "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Mira Bien",
-        "url": "https://open.spotify.com/album/09TCMzRYLVe74o9uoEywaU"
+        "name": "Afro Golden Line",
+        "url": "https://open.spotify.com/album/4to4besq9fhut1Cl2SXqyE"
       },
       "artists": [
         {
-          "name": "Tonga Conga",
-          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
-        },
-        {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
+          "name": "Amir Bresler",
+          "url": "https://open.spotify.com/artist/0YkHSziGnJb3civlSaKWk1"
         }
       ],
-      "duration_ms": 207386,
-      "name": "Mira Bien",
-      "url": "https://open.spotify.com/track/0MBhNioCkdEUAusgm0FATa"
+      "duration_ms": 239397,
+      "name": "Afro Golden Line",
+      "url": "https://open.spotify.com/track/1DD7PGYav6CYBtYtwhzWzI"
+    },
+    {
+      "added_at": "2022-07-14 13:17:42",
+      "album": {
+        "name": "Discomania (Jolly Mare Lifting) (feat. Jolly Mare)",
+        "url": "https://open.spotify.com/album/2SyWdGMMSKL11Wktw2Czav"
+      },
+      "artists": [
+        {
+          "name": "Piero Umiliani",
+          "url": "https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk"
+        },
+        {
+          "name": "Jolly Mare",
+          "url": "https://open.spotify.com/artist/3wXVXH2PvvCPvoN8SoozIO"
+        }
+      ],
+      "duration_ms": 360640,
+      "name": "Discomania (feat. Jolly Mare) - Jolly Mare Lifting",
+      "url": "https://open.spotify.com/track/2pfxdAaztChUst0Uw4lbKB"
     },
     {
       "added_at": "2022-02-25 03:41:19",
@@ -1771,6 +1751,26 @@
       "duration_ms": 256470,
       "name": "It's a Joke",
       "url": "https://open.spotify.com/track/20nb4i2WWyPDXhiQTZqlrV"
+    },
+    {
+      "added_at": "2022-04-01 05:19:53",
+      "album": {
+        "name": "Bersinar Bersamamu",
+        "url": "https://open.spotify.com/album/0Ap2bqkmabssfNlAJt7k3s"
+      },
+      "artists": [
+        {
+          "name": "Diskoria",
+          "url": "https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG"
+        },
+        {
+          "name": "Adinda",
+          "url": "https://open.spotify.com/artist/2c3wCnUuiH1cRgcUxpIrKB"
+        }
+      ],
+      "duration_ms": 282199,
+      "name": "Bersinar Bersamamu",
+      "url": "https://open.spotify.com/track/6pAUpp3urzftoj3O5wrw4q"
     }
   ],
   "unique_name": "Global Groove",

@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: Menor MC, DJ Matt D",
-  "num_followers": 75832,
+  "num_followers": 75944,
   "original_name": "Cop\u00e3o na m\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTc4NDY4OSwwMDAwMDAwMDZhMzdhYTZhNDE2ZTNmMWVlNjg3YThkMmU5YzZjN2Fl",
+  "snapshot_id": "MTY2MTc4NDY4OSwwMDAwMDAwMGJjYTk3NTU0ZDI5M2UyYTI2MGQzMWU3Y2EyNWMzMmUy",
   "tracks": [
     {
       "added_at": "2022-08-29 14:51:29",
@@ -307,6 +307,30 @@
     {
       "added_at": "2022-08-29 14:51:29",
       "album": {
+        "name": "Lado Nerd",
+        "url": "https://open.spotify.com/album/4X0qPgz8rtgBfxSsTY3L5N"
+      },
+      "artists": [
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "duration_ms": 105600,
+      "name": "Lado Nerd",
+      "url": "https://open.spotify.com/track/152JuulFiSlmLQU1p3oM4b"
+    },
+    {
+      "added_at": "2022-08-29 14:51:29",
+      "album": {
         "name": "Cavalona",
         "url": "https://open.spotify.com/album/3cDefGhhnYoqP5Bc8XDbqc"
       },
@@ -335,30 +359,6 @@
       "duration_ms": 176640,
       "name": "Cavalona",
       "url": "https://open.spotify.com/track/0v2Bc9YBplcdaBk7oEHliO"
-    },
-    {
-      "added_at": "2022-08-29 14:51:29",
-      "album": {
-        "name": "Lado Nerd",
-        "url": "https://open.spotify.com/album/4X0qPgz8rtgBfxSsTY3L5N"
-      },
-      "artists": [
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        }
-      ],
-      "duration_ms": 105600,
-      "name": "Lado Nerd",
-      "url": "https://open.spotify.com/track/152JuulFiSlmLQU1p3oM4b"
     },
     {
       "added_at": "2022-08-29 14:51:29",
@@ -867,54 +867,6 @@
     {
       "added_at": "2022-08-29 14:51:29",
       "album": {
-        "name": "Festa Linda",
-        "url": "https://open.spotify.com/album/0R2B9EUjWq0DNM1RcdZzKn"
-      },
-      "artists": [
-        {
-          "name": "MC Kapela",
-          "url": "https://open.spotify.com/artist/2MKq3nQOfCRUwxtmmAOpqR"
-        },
-        {
-          "name": "Djay W",
-          "url": "https://open.spotify.com/artist/5nkzLizeD93QtabjeK4oyl"
-        },
-        {
-          "name": "Mc Davi",
-          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
-        },
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        },
-        {
-          "name": "Mc Brisola",
-          "url": "https://open.spotify.com/artist/2civFPMAiigAwTEUKkeRW2"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Mc Kevin",
-          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
-        },
-        {
-          "name": "MC Rick",
-          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
-        },
-        {
-          "name": "Mc Kelvinho",
-          "url": "https://open.spotify.com/artist/1S4ASTDQvMwm6jP95pIsYB"
-        }
-      ],
-      "duration_ms": 420000,
-      "name": "Festa Linda",
-      "url": "https://open.spotify.com/track/1KRMUEKZOh0x8GsaWBn339"
-    },
-    {
-      "added_at": "2022-08-29 14:51:29",
-      "album": {
         "name": "Vivendo no Auge",
         "url": "https://open.spotify.com/album/2ue3fh5fhRh3iREWhHTPJj"
       },
@@ -975,30 +927,50 @@
     {
       "added_at": "2022-08-29 14:51:29",
       "album": {
-        "name": "Lance Criminoso (feat. BK)",
-        "url": "https://open.spotify.com/album/6JTwZgvuat1vaYfTAVn6Cy"
+        "name": "Festa Linda",
+        "url": "https://open.spotify.com/album/0R2B9EUjWq0DNM1RcdZzKn"
       },
       "artists": [
         {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+          "name": "MC Kapela",
+          "url": "https://open.spotify.com/artist/2MKq3nQOfCRUwxtmmAOpqR"
         },
         {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+          "name": "Djay W",
+          "url": "https://open.spotify.com/artist/5nkzLizeD93QtabjeK4oyl"
         },
         {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
         },
         {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "Mc Brisola",
+          "url": "https://open.spotify.com/artist/2civFPMAiigAwTEUKkeRW2"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Kevin",
+          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
+        },
+        {
+          "name": "MC Rick",
+          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
+        },
+        {
+          "name": "Mc Kelvinho",
+          "url": "https://open.spotify.com/artist/1S4ASTDQvMwm6jP95pIsYB"
         }
       ],
-      "duration_ms": 234098,
-      "name": "Lance Criminoso (feat. BK)",
-      "url": "https://open.spotify.com/track/2jZJ5d0KCiTP6de1NjyHPl"
+      "duration_ms": 420000,
+      "name": "Festa Linda",
+      "url": "https://open.spotify.com/track/1KRMUEKZOh0x8GsaWBn339"
     },
     {
       "added_at": "2022-08-29 14:51:29",
@@ -1043,6 +1015,34 @@
       "duration_ms": 269998,
       "name": "Assault (Angra)",
       "url": "https://open.spotify.com/track/0In8P4w9CvupkqGBuyHTLv"
+    },
+    {
+      "added_at": "2022-08-29 14:51:29",
+      "album": {
+        "name": "Lance Criminoso (feat. BK)",
+        "url": "https://open.spotify.com/album/6JTwZgvuat1vaYfTAVn6Cy"
+      },
+      "artists": [
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        }
+      ],
+      "duration_ms": 234098,
+      "name": "Lance Criminoso (feat. BK)",
+      "url": "https://open.spotify.com/track/2jZJ5d0KCiTP6de1NjyHPl"
     },
     {
       "added_at": "2022-08-29 14:51:29",
@@ -1235,6 +1235,26 @@
     {
       "added_at": "2022-08-29 14:51:29",
       "album": {
+        "name": "M4ndr4k4",
+        "url": "https://open.spotify.com/album/7EAkSlUVCawHN3DxDxjNeR"
+      },
+      "artists": [
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        }
+      ],
+      "duration_ms": 150285,
+      "name": "M4ndr4k4",
+      "url": "https://open.spotify.com/track/0dwr8PSsYkf0PaLbYIzRj4"
+    },
+    {
+      "added_at": "2022-08-29 14:51:29",
+      "album": {
         "name": "Set Dj Br da Tijuca",
         "url": "https://open.spotify.com/album/30Rici9GQYROvdO1MLaV9g"
       },
@@ -1295,26 +1315,6 @@
       "duration_ms": 432000,
       "name": "Set Dj Br da Tijuca",
       "url": "https://open.spotify.com/track/7gjiDfXZTBIrh4VNvYE4rh"
-    },
-    {
-      "added_at": "2022-08-29 14:51:29",
-      "album": {
-        "name": "M4ndr4k4",
-        "url": "https://open.spotify.com/album/7EAkSlUVCawHN3DxDxjNeR"
-      },
-      "artists": [
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        }
-      ],
-      "duration_ms": 150285,
-      "name": "M4ndr4k4",
-      "url": "https://open.spotify.com/track/0dwr8PSsYkf0PaLbYIzRj4"
     },
     {
       "added_at": "2022-08-29 14:51:29",

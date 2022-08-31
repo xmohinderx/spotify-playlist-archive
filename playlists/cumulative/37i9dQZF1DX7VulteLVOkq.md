@@ -4,7 +4,7 @@
 
 > Just some of the many highlights from the <a href="spotify:artist:3PhoLpVuITZKcymswpck5b">Rocket Man</a>'s career.
 
-82 songs - 6 hr 32 min - [published](https://open.spotify.com/playlist/2gLRn6w7L54vomQPqYMuBE)
+83 songs - 6 hr 35 min - [published](https://open.spotify.com/playlist/2gLRn6w7L54vomQPqYMuBE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Ghetto Gospel](https://open.spotify.com/track/7jLbTp3qZzah9kMIdW8e5M) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Loyal To The Game](https://open.spotify.com/album/33lk2GnP8cJzl7cd1OJrXn) | 3:58 | 2021-12-03 |  |
 | [Goodbye Yellow Brick Road \- Remastered 2014](https://open.spotify.com/track/1IywC3FcPZekfT7MS1TZMS) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(40th Anniversary Celebration/ Super Deluxe Edition\)](https://open.spotify.com/album/6Gp6qSE1ywXCLjal5NUWUE) | 3:12 | 2021-12-03 | 2022-07-29 |
 | [Goodbye Yellow Brick Road \- Remastered 2014](https://open.spotify.com/track/4IRHwIZHzlHT1FQpRa5RdE) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 3:12 | 2021-12-03 |  |
+| [Hold Me Closer](https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Hold Me Closer](https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6) | 3:22 | 2022-08-30 |  |
 | [Honky Cat](https://open.spotify.com/track/4wlB8D6OZpHEz3kXVuYD2O) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [To Be Continued...](https://open.spotify.com/album/7iKDBfOFUtg8E8RbuDhiux) | 5:13 | 2021-12-03 |  |
 | [I Don't Wanna Go On With You Like That](https://open.spotify.com/track/2Gd10PZnMktt3Cgo9s6yi0) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Reg Strikes Back](https://open.spotify.com/album/6X5nYddBsYWFHQvhN6SGDK) | 4:35 | 2021-12-03 |  |
 | [I Don't Wanna Go On With You Like That](https://open.spotify.com/track/4X7lg7XBi9KZKo8ujO0uTv) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Reg Strikes Back \(Remastered With Bonus Tracks\)](https://open.spotify.com/album/2pZOoHU4hQwRnSX2Ppgl3i) | 4:35 | 2021-12-03 | 2022-07-29 |

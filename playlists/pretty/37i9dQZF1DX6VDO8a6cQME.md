@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VDO8a6cQME.md) - [plain]
 
 > The '90s had an amazing soundtrack\. Let's reminisce with these R&B jams!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,944,928 likes - 45 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,945,563 likes - 45 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

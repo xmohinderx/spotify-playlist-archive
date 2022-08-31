@@ -1,12 +1,12 @@
 {
   "description": "That feeling of being punched in the gut by a song.",
-  "num_followers": 88906,
+  "num_followers": 88969,
   "original_name": "Devastating",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTgwMzc4NywwMDAwMDAwMGU4ODAyYjVkY2QzMjRmYjEyOWViYTg5MjEyNjk3ZWRm",
+  "snapshot_id": "MTYxOTgwMzc4NywwMDAwMDAwMGU2NmJmY2Q3NDg1NzY5MTIwNTMyMzhjMTA0ZmZjYmFj",
   "tracks": [
     {
       "added_at": "2021-04-30 17:29:47",
@@ -391,6 +391,22 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
+        "name": "I'm Wide Awake, It's Morning",
+        "url": "https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7"
+      },
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+        }
+      ],
+      "duration_ms": 271600,
+      "name": "Lua",
+      "url": "https://open.spotify.com/track/6BqrPvrPOwpYkdLCgSqtVB"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
         "name": "Only One",
         "url": "https://open.spotify.com/album/2ar6Yxkh6psvQOrGqk248v"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 280226,
       "name": "Only One",
       "url": "https://open.spotify.com/track/0j35X8cTq543QDYLOyqB8W"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
-        "name": "I'm Wide Awake, It's Morning",
-        "url": "https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7"
-      },
-      "artists": [
-        {
-          "name": "Bright Eyes",
-          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
-        }
-      ],
-      "duration_ms": 271600,
-      "name": "Lua",
-      "url": "https://open.spotify.com/track/6BqrPvrPOwpYkdLCgSqtVB"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -875,22 +875,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Transcendental Highway",
-        "url": "https://open.spotify.com/album/6ooDMq5QxVHFeMootZ7D7m"
-      },
-      "artists": [
-        {
-          "name": "Colin Hay",
-          "url": "https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv"
-        }
-      ],
-      "duration_ms": 328560,
-      "name": "I Just Don't Think I'll Ever Get Over You",
-      "url": "https://open.spotify.com/track/2IR01O6kw4IB68hcV9FWYN"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "Let There Be Morning (Bonus Track Version)",
         "url": "https://open.spotify.com/album/5p30s78WN0bRMuUZk64k0w"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 189240,
       "name": "Pills",
       "url": "https://open.spotify.com/track/0dnRlO7IDzbN9ixVld7hz6"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "Transcendental Highway",
+        "url": "https://open.spotify.com/album/6ooDMq5QxVHFeMootZ7D7m"
+      },
+      "artists": [
+        {
+          "name": "Colin Hay",
+          "url": "https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv"
+        }
+      ],
+      "duration_ms": 328560,
+      "name": "I Just Don't Think I'll Ever Get Over You",
+      "url": "https://open.spotify.com/track/2IR01O6kw4IB68hcV9FWYN"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -939,22 +939,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Wanderer",
-        "url": "https://open.spotify.com/album/28SMXZ4p2uQGJZJpFXw8em"
-      },
-      "artists": [
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 238176,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/2ilo3w0stilJKeQZS61FeN"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "The Civil Wars",
         "url": "https://open.spotify.com/album/79FSQez4eiOFA4Kx8Bxgyy"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 229666,
       "name": "Dust to Dust",
       "url": "https://open.spotify.com/track/0vwRHdpyDLRchRBtMjjjBH"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "Wanderer",
+        "url": "https://open.spotify.com/album/28SMXZ4p2uQGJZJpFXw8em"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 238176,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2ilo3w0stilJKeQZS61FeN"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Quiver",
-        "url": "https://open.spotify.com/album/3iJqPoSepf0oHwIWd7K83f"
-      },
-      "artists": [
-        {
-          "name": "Lonas",
-          "url": "https://open.spotify.com/artist/4IK8Q9friPfYKvX4n83vYL"
-        }
-      ],
-      "duration_ms": 251872,
-      "name": "Quiver",
-      "url": "https://open.spotify.com/track/0yPm9Wg6qcTwLZIXweNGpA"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "Force Majeure",
         "url": "https://open.spotify.com/album/3oT6AQw2fxaHQ6JFCKxiOp"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 193821,
       "name": "When I Say You Are Killing Me",
       "url": "https://open.spotify.com/track/21bbB3zolLcm1DHS6aqHy3"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "Quiver",
+        "url": "https://open.spotify.com/album/3iJqPoSepf0oHwIWd7K83f"
+      },
+      "artists": [
+        {
+          "name": "Lonas",
+          "url": "https://open.spotify.com/artist/4IK8Q9friPfYKvX4n83vYL"
+        }
+      ],
+      "duration_ms": 251872,
+      "name": "Quiver",
+      "url": "https://open.spotify.com/track/0yPm9Wg6qcTwLZIXweNGpA"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Chapters (Deluxe)",
-        "url": "https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71"
+        "name": "XO",
+        "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
       },
       "artists": [
         {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 216120,
-      "name": "All I Do",
-      "url": "https://open.spotify.com/track/1a2UGfluPyrXHTbL1NeFbR"
+      "duration_ms": 202493,
+      "name": "Waltz #1",
+      "url": "https://open.spotify.com/track/4SD4ri0Msp6DxgoXKcf6ug"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "XO",
-        "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
+        "name": "Chapters (Deluxe)",
+        "url": "https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71"
       },
       "artists": [
         {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
         }
       ],
-      "duration_ms": 202493,
-      "name": "Waltz #1",
-      "url": "https://open.spotify.com/track/4SD4ri0Msp6DxgoXKcf6ug"
+      "duration_ms": 216120,
+      "name": "All I Do",
+      "url": "https://open.spotify.com/track/1a2UGfluPyrXHTbL1NeFbR"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Among the Leaves",
-        "url": "https://open.spotify.com/album/1uIM6TngoKF0S8oPaDZPvv"
-      },
-      "artists": [
-        {
-          "name": "Sun Kil Moon",
-          "url": "https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9"
-        }
-      ],
-      "duration_ms": 211466,
-      "name": "Among the Leaves",
-      "url": "https://open.spotify.com/track/2FNqX3s4VkYXLjpWyL3HgJ"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "Take Out Of Me EP",
         "url": "https://open.spotify.com/album/0c5kUADkXAnNiVeaRtTTty"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 147853,
       "name": "Bring It Back to Me",
       "url": "https://open.spotify.com/track/3jyF9eNYpI3vxJWHzcZPIv"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "Among the Leaves",
+        "url": "https://open.spotify.com/album/1uIM6TngoKF0S8oPaDZPvv"
+      },
+      "artists": [
+        {
+          "name": "Sun Kil Moon",
+          "url": "https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9"
+        }
+      ],
+      "duration_ms": 211466,
+      "name": "Among the Leaves",
+      "url": "https://open.spotify.com/track/2FNqX3s4VkYXLjpWyL3HgJ"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "From A Basement On The Hill",
-        "url": "https://open.spotify.com/album/2K4OE5cl22fNSRrwzrhIZZ"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 297973,
-      "name": "King's Crossing",
-      "url": "https://open.spotify.com/track/2GsiKnbHHXDpoL7R6cJUTZ"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "Enough Thunder",
         "url": "https://open.spotify.com/album/4Ss3RK7115gnEY66i7C5dG"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 177400,
       "name": "A Case Of You",
       "url": "https://open.spotify.com/track/6tNrUI6H15kqWBff0HcEZr"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "From A Basement On The Hill",
+        "url": "https://open.spotify.com/album/2K4OE5cl22fNSRrwzrhIZZ"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 297973,
+      "name": "King's Crossing",
+      "url": "https://open.spotify.com/track/2GsiKnbHHXDpoL7R6cJUTZ"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Daisies Of The Galaxy",
-        "url": "https://open.spotify.com/album/1myZZzfBVfMo7t4yvgAXte"
-      },
-      "artists": [
-        {
-          "name": "Eels",
-          "url": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
-        }
-      ],
-      "duration_ms": 131733,
-      "name": "It's A Motherfucker",
-      "url": "https://open.spotify.com/track/7KFcK6EDxAl0HrFoFhTsuC"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "Historian",
         "url": "https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 236482,
       "name": "Historians",
       "url": "https://open.spotify.com/track/6OYOfYGfaAe8A9T1lhC13b"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "Daisies Of The Galaxy",
+        "url": "https://open.spotify.com/album/1myZZzfBVfMo7t4yvgAXte"
+      },
+      "artists": [
+        {
+          "name": "Eels",
+          "url": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
+        }
+      ],
+      "duration_ms": 131733,
+      "name": "It's A Motherfucker",
+      "url": "https://open.spotify.com/track/7KFcK6EDxAl0HrFoFhTsuC"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Remind Me Tomorrow",
-        "url": "https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 285680,
-      "name": "I Told You Everything",
-      "url": "https://open.spotify.com/track/549RAS6rH3AYH2n5b6CIzz"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "Kaleidoscope Heart",
         "url": "https://open.spotify.com/album/627ukPRwYxyBREHxBq0vGJ"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 251840,
       "name": "Basket Case",
       "url": "https://open.spotify.com/track/7AXUdQmZMA5u221iv6gB0m"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "Remind Me Tomorrow",
+        "url": "https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 285680,
+      "name": "I Told You Everything",
+      "url": "https://open.spotify.com/track/549RAS6rH3AYH2n5b6CIzz"
     }
   ],
   "unique_name": "Devastating",

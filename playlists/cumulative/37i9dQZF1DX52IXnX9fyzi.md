@@ -4,7 +4,7 @@
 
 > Piano music to accompany and inspire your writing.
 
-234 songs - 10 hr 15 min - [published](https://open.spotify.com/playlist/5A2o18vGcWOns5VqpjBlMZ)
+242 songs - 10 hr 35 min - [published](https://open.spotify.com/playlist/5A2o18vGcWOns5VqpjBlMZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,10 +35,12 @@
 | [Berceuse Lunaire](https://open.spotify.com/track/0u7orD5v4Yrw6NwaWdBh5Q) | [Kenzo Aio](https://open.spotify.com/artist/34Rh9lDdSZW5tvYxpGHsaY) | [Berceuse Lunaire](https://open.spotify.com/album/0oe2Iw47umB4rnfgeiAhrB) | 2:53 | 2022-08-03 |  |
 | [Beyond Our Walls \- Original Studio Version](https://open.spotify.com/track/0FyNIWrcV08RFgRLuoHtd5) | [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK) | [Beyond Our Walls \(Original Studio Version\)](https://open.spotify.com/album/19JVqi1U0tdaeV93daaEGJ) | 2:21 | 2022-08-03 |  |
 | [Bibliothèque](https://open.spotify.com/track/02q15OnIA9bH90KYqbyBvI) | [Nadav Amir\-Himmel](https://open.spotify.com/artist/1gLEDK37zrK7KasVpnQZsZ), [Hazel Dumoulin](https://open.spotify.com/artist/4ddvhBOBwHziZBPGwJPTjd) | [Bibliothèque](https://open.spotify.com/album/2AgUYEnDRtr6a7B8eMj530) | 2:54 | 2022-05-04 |  |
+| [Biome](https://open.spotify.com/track/6Wtd6dFjXuB0wVzu6EJB5Z) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Biome](https://open.spotify.com/album/0mYnBgs22mBPxRySWw6VNd) | 2:18 | 2022-08-30 |  |
 | [Blazing](https://open.spotify.com/track/4a4xMLfNR4gNYBOdqXJafV) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Blazing](https://open.spotify.com/album/3xZZ9V4l1VjBDvpDUxnynu) | 2:07 | 2022-04-27 |  |
 | [Blue Light](https://open.spotify.com/track/7dquOWRPNWnUT5i4R0mP90) | [Francesco Siano](https://open.spotify.com/artist/1zvky5OoBfFdl75mLioOw5) | [Blue Light](https://open.spotify.com/album/7LcAKBxLzrACoefQrTLUQ1) | 2:14 | 2022-05-26 |  |
 | [Breathe](https://open.spotify.com/track/3gtL7UMzcc54SjrOT0ZZE4) | [Nil Ciuró](https://open.spotify.com/artist/2mKlC27x5dL4PIOwzwPGWh) | [Breathe / Debris](https://open.spotify.com/album/2wb8IcAFeV3ndOH36qTsRH) | 2:30 | 2022-04-14 | 2022-05-14 |
 | [Candice](https://open.spotify.com/track/29jQKqToqxKPsDy2IeKjan) | [Flavio Apicella](https://open.spotify.com/artist/2GnQro7OuaSjmhe1TGO14v) | [Candice](https://open.spotify.com/album/4dAIB4LbNy3LCupWfH8oxD) | 3:34 | 2022-04-14 | 2022-06-08 |
+| [Caprices](https://open.spotify.com/track/4K3o0HPO3OaGKWpR5h16J7) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Caprices](https://open.spotify.com/album/7rgQ2DAqWGBUWs1fCn4ZNd) | 2:10 | 2022-08-30 |  |
 | [Chronostasis](https://open.spotify.com/track/4vLkjOq0df258sEL7zrtE0) | [Abel Laloux](https://open.spotify.com/artist/5gt4p9v2Omsd6MVkR5Tm54) | [Chronostasis](https://open.spotify.com/album/3mEjbYACVfAp3enzgHVyeM) | 2:34 | 2022-04-14 |  |
 | [Cinematique](https://open.spotify.com/track/7KHGqeUF5KpiD1rtpqds3z) | [Olivier DeGrasse](https://open.spotify.com/artist/13mckNVoWSaXe2LubZG4Sb) | [Cinematique](https://open.spotify.com/album/6FlXAjyMzdByLk8AbunigT) | 2:54 | 2022-04-14 | 2022-07-16 |
 | [Coastal](https://open.spotify.com/track/4qY01pTRNtpqB9vAYXipiy) | [Eric D\. Lawrence](https://open.spotify.com/artist/7cr6fHoqPq2UXVPrmylXQg) | [Coastal](https://open.spotify.com/album/4cPNJMnDJFmPJR9aHhbe4h) | 2:19 | 2022-05-04 |  |
@@ -55,6 +57,7 @@
 | [Dique de Abrigo](https://open.spotify.com/track/4A7rr9XPYubs0MOUqXfTVl) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Matria](https://open.spotify.com/album/0zy7lGbPXU48J64SMrhoqs) | 3:50 | 2022-04-14 |  |
 | [Disappear for a while](https://open.spotify.com/track/1l3yPgvEagEz4OYS2hxMdc) | [Emil Negri](https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6) | [Disappear for a while](https://open.spotify.com/album/33IUKxm4PwH3avUizMk9L1) | 2:52 | 2022-05-26 |  |
 | [Do You Remember](https://open.spotify.com/track/68YkWKD2mxQuSplipO1VOO) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Do You Remember](https://open.spotify.com/album/1JEIZBPsDpv1CLE29qdH1b) | 2:07 | 2022-05-13 |  |
+| [Dorénevant](https://open.spotify.com/track/7lUXTcOSlWXNGN25wj7iNf) | [Élise Aucoin](https://open.spotify.com/artist/5cJiC80CILVJGun9PVO1mX) | [Dorénevant](https://open.spotify.com/album/68K0s9E4y7TKDuKZb5zs2Z) | 2:28 | 2022-08-30 |  |
 | [Doubt](https://open.spotify.com/track/3D0LhoqGyjdOV6760uOsJS) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [RISE](https://open.spotify.com/album/0Y8HYJSgZUyKFfHKF6GPmY) | 1:55 | 2022-06-07 |  |
 | [Dried Out](https://open.spotify.com/track/0Hn8q446fA8GvnmFBspfJ1) | [Sur Coast](https://open.spotify.com/artist/6VXxffyxJXQz5x91xTaaQN) | [Dried Out](https://open.spotify.com/album/4VPQn4Kmsfe2WYXwMo15xX) | 2:52 | 2022-04-14 | 2022-05-14 |
 | [Dustsceawung](https://open.spotify.com/track/6nA3Rq6zvadWTW8H9wuoS8) | [Ann Hildering](https://open.spotify.com/artist/6lWPmDlDmJS0YGQ8onTcBx) | [Dustsceawung](https://open.spotify.com/album/5VEskKPrAs8A43c0Vn6cQ9) | 1:52 | 2022-07-15 |  |
@@ -69,6 +72,8 @@
 | [Fiore](https://open.spotify.com/track/6DRCugEZcKbSOK9OT5cNvM) | [Alvize Fantacone](https://open.spotify.com/artist/4sew4Q0f9agKwtwW6EpMH1) | [Fiore](https://open.spotify.com/album/3a9gYjD5YZXp4Ss8XHXRZy) | 2:55 | 2022-04-14 | 2022-06-08 |
 | [Fleurs Séchées](https://open.spotify.com/track/70oTgyGPmB9ZtU2lrjbZfj) | [Projet Calmant](https://open.spotify.com/artist/7co0izocnlz4PPcuxN9dwJ) | [Fleurs Séchées](https://open.spotify.com/album/7LeBN7j9XjqfRoxtUKIvV2) | 2:06 | 2022-04-14 |  |
 | [Folklore](https://open.spotify.com/track/0ZbDS3webX8T8c8FCV4T1l) | [Pamela Goldings](https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA) | [Folklore](https://open.spotify.com/album/4VTTfTngOcdfVVnlCDhY6f) | 2:09 | 2022-04-14 |  |
+| [For Chris](https://open.spotify.com/track/2rAeRLkoePtmTFsBpmEN92) | [Brock Hewitt: Stories in Sound](https://open.spotify.com/artist/1PWCCcjCmwzjYb48VWpGcm) | [For Chris](https://open.spotify.com/album/2jQxj8JfpJk39kqrqMBsfU) | 5:08 | 2022-08-30 |  |
+| [Forgotten Secrets](https://open.spotify.com/track/3Oc4Rm86Pq6K5eAGKaeC3f) | [Dennis Korn](https://open.spotify.com/artist/1YITDkdJkXrk05uBpnWw4P), [Yan Springett](https://open.spotify.com/artist/10Kcf6pASW8OjUvTz3p9e8) | [Forgotten Secrets](https://open.spotify.com/album/4WB9L8lB5E36WSUcggFRrx) | 1:49 | 2022-08-30 |  |
 | [Forsaken Land](https://open.spotify.com/track/3pWlQdfMNp4NabYbPAQcje) | [Lorenzo Balzotti](https://open.spotify.com/artist/3hHeHet790nZ3x8ulsu6tC) | [Forsaken Land](https://open.spotify.com/album/2GrqPpnPembHDXm1cWE4oY) | 3:02 | 2022-06-07 |  |
 | [Fractal](https://open.spotify.com/track/16HiHZl6SX3EY7ULWnCWvy) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Fractal](https://open.spotify.com/album/2cpXYJpQaWwsLKbcDtAJis) | 3:11 | 2022-04-27 |  |
 | [Fragments](https://open.spotify.com/track/70JLpMenajRsMtCXaQ1jzu) | [Domenik Kalinsky](https://open.spotify.com/artist/4JYktW5hRyzdlGNRZDXjkQ) | [Fragments](https://open.spotify.com/album/1Txz3W66EqLF7DPLFGoL3K) | 2:42 | 2022-04-14 | 2022-04-28 |
@@ -145,8 +150,10 @@
 | [Nirha](https://open.spotify.com/track/0SK8aridaHO485I2iJD35e) | [Matti Aalto](https://open.spotify.com/artist/4nGn3LnoPxjDGpkYY7fW9E) | [Nirha](https://open.spotify.com/album/3AEGuqW6eS9efDAYOpfBjH) | 2:44 | 2022-04-14 | 2022-05-27 |
 | [Nocturne des elfes](https://open.spotify.com/track/0SndGJp12rItbzoR7DIczf) | [Admalou](https://open.spotify.com/artist/2I3OPWjSg3DOoS1QeRof4t) | [Nocturne des elfes](https://open.spotify.com/album/7HcQg3Jr2itIFwIxFomtCy) | 2:32 | 2022-04-27 |  |
 | [Nocturne in C](https://open.spotify.com/track/6oxOGjqU2fRw9USI2sddoC) | [Remi Sinclair](https://open.spotify.com/artist/2e43Th3IHo39TLIcMpeFbn) | [Nocturne in C](https://open.spotify.com/album/66tnYfegl9yV4STuFafEfT) | 2:13 | 2022-04-14 |  |
+| [Numéro 13](https://open.spotify.com/track/6aXG0T4NOzpWGskxokvXHL) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Numéro 13](https://open.spotify.com/album/1bzvnR1w0tPL7pjZUiTXWb) | 2:18 | 2022-08-30 |  |
 | [Nyári séta](https://open.spotify.com/track/7CgSotbNO8YesINbIWsmaV) | [Bodor Vencel](https://open.spotify.com/artist/2XFPANK6NB66NDXFkLqfIF) | [Gyere velem](https://open.spotify.com/album/7zzn1Mlpv7S8SY8t80qR9H) | 2:13 | 2022-07-15 |  |
 | [O Soave Fanciulla](https://open.spotify.com/track/5HQp593kflHm8LV12MepjR) | [Janet Bolt](https://open.spotify.com/artist/6qaN2QFmI31hie6adDTtgz) | [O Soave Fanciulla](https://open.spotify.com/album/3oCBWqBIPO4gcNWTJq98nl) | 2:56 | 2022-04-14 | 2022-04-28 |
+| [Old Friends](https://open.spotify.com/track/7gK75qkpI8WjfL2Tpi3Z5C) | [Filomena](https://open.spotify.com/artist/0OwBoRemK37STVdgFxC86k) | [Old Friends](https://open.spotify.com/album/0RwX2sJ91NUNGsEvaOiwLF) | 1:50 | 2022-08-30 |  |
 | [Once Upon A Time](https://open.spotify.com/track/1z7EOsEf4wCOCsqHep43pf) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Once Upon A Time](https://open.spotify.com/album/0zmErcaHoz3lrtKMklzrT3) | 3:07 | 2022-05-04 |  |
 | [Opus 5](https://open.spotify.com/track/3kkgprUeiPDV0nDQerhq9h) | [Karol Seifert](https://open.spotify.com/artist/3IQYEJG6lpSmC3r4NfWB9m) | [Opus 5](https://open.spotify.com/album/264MR7dpX3eMMMctQ26xRz) | 2:45 | 2022-04-14 |  |
 | [Ornaments](https://open.spotify.com/track/4LgzLdKvlp9PxacJFVdwNI) | [John Crome](https://open.spotify.com/artist/5HCXtWcqdFJhJQYgevKCA5) | [Ornaments](https://open.spotify.com/album/34yhdzESZ5n9tyWLgJVo6j) | 3:34 | 2022-04-14 |  |
@@ -163,6 +170,7 @@
 | [Pursuance](https://open.spotify.com/track/2VV9vBFleaOfvDkKRxUNR6) | [Deirdre Fetter](https://open.spotify.com/artist/1oJLuwoSGBnbUVL0ol9m1b) | [Pursuance](https://open.spotify.com/album/00Evna3lzOgx036aEnY8IU) | 2:24 | 2022-04-14 |  |
 | [Pécs](https://open.spotify.com/track/5V38Yb2mGq3AgKwh5WA49i) | [Pataki Gisella](https://open.spotify.com/artist/7ylwShecuuRLzZP81XRqzC) | [Pécs](https://open.spotify.com/album/6V5jrMp0lHNVOqmspzTaOg) | 2:03 | 2022-04-14 |  |
 | [Qui vivra verra](https://open.spotify.com/track/2jOawh03Qd5vi7sFRsvXRd) | [Michael Brogadaccio](https://open.spotify.com/artist/6ZqnKTqzs5B9g2K68OCKVo) | [Qui vivra verra](https://open.spotify.com/album/6950UP041DVdTcDYmBOhKd) | 2:13 | 2022-04-14 |  |
+| [Radius](https://open.spotify.com/track/5HAJEsxD0fBSnbdWljzeFh) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Radius](https://open.spotify.com/album/62qUYNydgMlF5scn5Sy1Um) | 1:56 | 2022-08-30 |  |
 | [Raindrops](https://open.spotify.com/track/6BMcMtb9M5yqelouZZaOPd) | [Jørg Sorensen](https://open.spotify.com/artist/4nmvmUQiWmoz5AsRoxW41b) | [Raindrops](https://open.spotify.com/album/1UMYLTMDLsVBXY8VfaYPpt) | 2:21 | 2022-04-14 |  |
 | [Recueillement](https://open.spotify.com/track/2y5JRyMaUeelv5mKHYmu1E) | [Revemont](https://open.spotify.com/artist/1kk2FSO8LX07RDK6EHWBlb) | [Recueillement](https://open.spotify.com/album/28LsKQTEpvkctTTsD7CqIJ) | 2:14 | 2022-05-13 | 2022-07-16 |
 | [Reflections](https://open.spotify.com/track/1qXzQi8CxX0Y5JqZ22m1zy) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [Reflections](https://open.spotify.com/album/11xwClKSNpUm1w1dYE4HnI) | 2:09 | 2022-04-14 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Mari Fernandez e mais mulheres para serem ouvidas no máximo volume.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,166 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,255 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 14 | [Zap](https://open.spotify.com/track/1p787PB1sNKkN8wpI49jcJ) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Natural](https://open.spotify.com/album/6Kz30EyV9GDxUnOnANY3p4) | 2:35 |
 | 15 | [Romance Desapegado](https://open.spotify.com/track/54OqGd3dmug64db0ZtOtF4) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Romance Desapegado](https://open.spotify.com/album/20wtzoFxbEgoQgrlmIpBud) | 3:04 |
 | 16 | [Fiquei Careta](https://open.spotify.com/track/5YQzu3kIQmcS2PebmQZcEa) | [Lari Ferreira](https://open.spotify.com/artist/64z5b9YLNYN0a7dAa0mQ3y) | [Fiquei Careta](https://open.spotify.com/album/3q5vBTu20xJkVziypKNPgk) | 2:23 |
-| 17 | [Triscou Já Foi \- Ao Vivo](https://open.spotify.com/track/7cxum22Z75BDS2DTkTz2Ll) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Baseado em Fatos Reais, Ep\. 01 \(Ao Vivo\)](https://open.spotify.com/album/2F1IlArMVL10Uc8BQ4Po3E) | 2:41 |
-| 18 | [Ainda Não Tô Pronta \- Ao Vivo No Casa Filtr](https://open.spotify.com/track/0ZBQ5PAD9XjUJOc1VxRQri) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP), [Paula Fernandes](https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92) | [Ainda Não Tô Pronta \(Ao Vivo No Casa Filtr\)](https://open.spotify.com/album/7h71zpFKYayNlr2sRGSf00) | 2:25 |
+| 17 | [Ainda Não Tô Pronta \- Ao Vivo No Casa Filtr](https://open.spotify.com/track/0ZBQ5PAD9XjUJOc1VxRQri) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP), [Paula Fernandes](https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92) | [Ainda Não Tô Pronta \(Ao Vivo No Casa Filtr\)](https://open.spotify.com/album/7h71zpFKYayNlr2sRGSf00) | 2:25 |
+| 18 | [Triscou Já Foi \- Ao Vivo](https://open.spotify.com/track/7cxum22Z75BDS2DTkTz2Ll) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Baseado em Fatos Reais, Ep\. 01 \(Ao Vivo\)](https://open.spotify.com/album/2F1IlArMVL10Uc8BQ4Po3E) | 2:41 |
 | 19 | [Perigosinha "Louquinha"](https://open.spotify.com/track/0L3b6sD84Py9h9r6RnoJt4) | [Mariana Pimenta](https://open.spotify.com/artist/2s15DSwmxDsXglZOEoIHSn) | [Perigosinha "Louquinha"](https://open.spotify.com/album/7w4dcc9ArowJKqX7BmBIw3) | 2:37 |
 | 20 | [Duas Caras](https://open.spotify.com/track/4OXWpVtae6WxWUPKApp66r) | [Paula Mattos](https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz) | [Duas Caras](https://open.spotify.com/album/0kNvywWv6Hf5y0l2p4OBUq) | 2:42 |
 | 21 | [Como Eu Quero](https://open.spotify.com/track/20Mxqxf2u0Q6gNteDiViGm) | [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk) | [Como Eu Quero](https://open.spotify.com/album/1GomGMvKxYmMKapaPa1UKO) | 3:21 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 40 | [Tantão assim \- Ao vivo](https://open.spotify.com/track/3BQcRwHRHc2iZEmW0IxQZ5) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H) | [Tantão assim \(Ao vivo\)](https://open.spotify.com/album/1qtB8uFoOXClCkAwI1jj7X) | 3:02 |
 | 41 | [Coração Zero Bala](https://open.spotify.com/track/5IqQNVGxTFTJnu7gCWDYmz) | [Mariana Fagundes](https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox) | [Ah!Mar \(Ao Vivo\)](https://open.spotify.com/album/7JGn88yc2fflE6GkpNhwVb) | 3:06 |
 | 42 | [Coração Mal Dividido](https://open.spotify.com/track/7iw0Ao9yZgeEWY5lSYvaq0) | [Natália & Laura](https://open.spotify.com/artist/3YrRhr09dqXwCCszvnwqLr) | [Coração Mal Dividido](https://open.spotify.com/album/1HrxOHLaUyKTBtKZvzrOAP) | 2:36 |
-| 43 | [Essa Conta Não Fecha \(Ep\. Inverso\)](https://open.spotify.com/track/01O7f0N2slitGFBcuBuIZM) | [Suellen & Francielly](https://open.spotify.com/artist/52WZ6GkSnEZxJ5iZUGBVGm) | [Essa Conta Não Fecha \(Ep\. Inverso\)](https://open.spotify.com/album/6Oi6FNT4RzOOjKFDBSrXuz) | 2:36 |
-| 44 | [Sinto Muito](https://open.spotify.com/track/13otgR4JFCnq6xIhOw7X3z) | [May & Karen](https://open.spotify.com/artist/2yAseb2cBbgnMELX4d3xUe) | [May & Karen em Goiânia](https://open.spotify.com/album/3eTxrL0EnUdm3JkNrqv30U) | 2:40 |
+| 43 | [Sinto Muito](https://open.spotify.com/track/13otgR4JFCnq6xIhOw7X3z) | [May & Karen](https://open.spotify.com/artist/2yAseb2cBbgnMELX4d3xUe) | [May & Karen em Goiânia](https://open.spotify.com/album/3eTxrL0EnUdm3JkNrqv30U) | 2:40 |
+| 44 | [Essa Conta Não Fecha \(Ep\. Inverso\)](https://open.spotify.com/track/01O7f0N2slitGFBcuBuIZM) | [Suellen & Francielly](https://open.spotify.com/artist/52WZ6GkSnEZxJ5iZUGBVGm) | [Essa Conta Não Fecha \(Ep\. Inverso\)](https://open.spotify.com/album/6Oi6FNT4RzOOjKFDBSrXuz) | 2:36 |
 | 45 | [Cangote](https://open.spotify.com/track/5uDLHpMY6TJqhO26n9sOYs) | [Júlia & Rafaela](https://open.spotify.com/artist/7JJBuq3tgc4y2NO0TqAm02) | [Cangote](https://open.spotify.com/album/5mRTWt02sSP9zenBGrhXit) | 3:09 |
 | 46 | [Taça de Gin](https://open.spotify.com/track/63GftAXrzvoH8dMQBvrGeR) | [Luna & Vitória](https://open.spotify.com/artist/5XB4U23lGtbayHASvSQn2q) | [Taça de Gin](https://open.spotify.com/album/2eATSE0WDv61PyoymxMBN9) | 2:41 |
 | 47 | [Cerveja Nela \- Ao Vivo](https://open.spotify.com/track/3q1Bl0oz0ZzedTmbdLeg99) | [Débora & Daniela](https://open.spotify.com/artist/3O4oCrI8bsnuk5X6mrjjb7) | [De Goiânia Pro Mundo \(Ao Vivo\)](https://open.spotify.com/album/5YlMGMSqYNqlB9n5Rcuxjs) | 2:26 |
-| 48 | [Sofrendo um Bocado](https://open.spotify.com/track/6z0pA7HmBoB4w6cdoqQi78) | [Jessica Lima](https://open.spotify.com/artist/5UUKr7L64HJycinKoaKeoj) | [Sofrendo um Bocado](https://open.spotify.com/album/51L5ZbpSWf3Y5wNNuTkGhJ) | 2:45 |
+| 48 | [A de Casa Ou a da Rua \- Ao Vivo](https://open.spotify.com/track/4V5HNwTzePi26vyjZ3qAzO) | [May & Karen](https://open.spotify.com/artist/2yAseb2cBbgnMELX4d3xUe) | [Fragmentos \(ao Vivo\)](https://open.spotify.com/album/149AnX7PBt7XElzv4UMQFp) | 2:49 |
 | 49 | [Eu Não](https://open.spotify.com/track/4LoEqYbhvAsOihCKJBfEP0) | [Mariana Fagundes](https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox) | [Ah!Mar \(Ao Vivo\)](https://open.spotify.com/album/7JGn88yc2fflE6GkpNhwVb) | 3:30 |
-| 50 | [A de Casa Ou a da Rua \- Ao Vivo](https://open.spotify.com/track/4V5HNwTzePi26vyjZ3qAzO) | [May & Karen](https://open.spotify.com/artist/2yAseb2cBbgnMELX4d3xUe) | [Fragmentos \(ao Vivo\)](https://open.spotify.com/album/149AnX7PBt7XElzv4UMQFp) | 2:49 |
+| 50 | [Sofrendo um Bocado](https://open.spotify.com/track/6z0pA7HmBoB4w6cdoqQi78) | [Jessica Lima](https://open.spotify.com/artist/5UUKr7L64HJycinKoaKeoj) | [Sofrendo um Bocado](https://open.spotify.com/album/51L5ZbpSWf3Y5wNNuTkGhJ) | 2:45 |
 
-Snapshot ID: `MTY1OTQ5NTYwMCwwMDAwMDAwMGEwMzY1M2QyYmYwZmRmM2U0ZDM2MjAwNTI3ZmMzYzJl`
+Snapshot ID: `MTY1OTQ5NTYwMCwwMDAwMDAwMGQxZDgzMzQ5YWE5ZDMyOTZjMTgwN2QxNzYzMDc1YjY0`

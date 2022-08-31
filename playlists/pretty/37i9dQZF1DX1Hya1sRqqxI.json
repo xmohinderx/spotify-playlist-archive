@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1970s. Cover: The Jacksons.",
-  "num_followers": 126294,
+  "num_followers": 126275,
   "original_name": "70s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIwNDI2NywwMDAwMDAwMDU0Y2I4MDJiNjMxYmFhODA2YTI5YzBhZjM5MzhmNTgy",
+  "snapshot_id": "MTY2MDIwNDI2NywwMDAwMDAwMGE0MmY2OTJhNGNmMjYxZDE0MTZiOTU2MzQwMjY3MWUy",
   "tracks": [
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Cheryl Lynn (Expanded Edition)",
-        "url": "https://open.spotify.com/album/059jmsqbxhu2n78LMS0H3P"
-      },
-      "artists": [
-        {
-          "name": "Cheryl Lynn",
-          "url": "https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ"
-        }
-      ],
-      "duration_ms": 307946,
-      "name": "Got to Be Real",
-      "url": "https://open.spotify.com/track/58r4JuwHhXLAkttkaUZfLw"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Greatest Hits: Blondie",
         "url": "https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 252186,
       "name": "Heart Of Glass",
       "url": "https://open.spotify.com/track/41AE8ODX2JETBCa6muhSLY"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Cheryl Lynn (Expanded Edition)",
+        "url": "https://open.spotify.com/album/059jmsqbxhu2n78LMS0H3P"
+      },
+      "artists": [
+        {
+          "name": "Cheryl Lynn",
+          "url": "https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ"
+        }
+      ],
+      "duration_ms": 307946,
+      "name": "Got to Be Real",
+      "url": "https://open.spotify.com/track/58r4JuwHhXLAkttkaUZfLw"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
+        "name": "Aja",
+        "url": "https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 240333,
+      "name": "Peg",
+      "url": "https://open.spotify.com/track/2MaLglXXcouyoh03rUROQ2"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
         "name": "We Are Family (1995 Remaster)",
         "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 175866,
       "name": "Rose Garden",
       "url": "https://open.spotify.com/track/5YwgJ6lpZ3SiAQwBEpjqey"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Aja",
-        "url": "https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 240333,
-      "name": "Peg",
-      "url": "https://open.spotify.com/track/2MaLglXXcouyoh03rUROQ2"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "The Kids & Me",
-        "url": "https://open.spotify.com/album/7LukcPnAOnV7MuJ6uIUe1s"
-      },
-      "artists": [
-        {
-          "name": "Billy Preston",
-          "url": "https://open.spotify.com/artist/0IecGJbdBeYSOVtSPRehh5"
-        }
-      ],
-      "duration_ms": 156200,
-      "name": "Nothing From Nothing",
-      "url": "https://open.spotify.com/track/72PoJMDfdaw9gGECgA9kTZ"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Siren",
         "url": "https://open.spotify.com/album/5Tpor3YZBVEJ9tWD5L31mH"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 251333,
       "name": "Love Is The Drug",
       "url": "https://open.spotify.com/track/3wtMkvedoWMQ3XTKv7tqcZ"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "The Kids & Me",
+        "url": "https://open.spotify.com/album/7LukcPnAOnV7MuJ6uIUe1s"
+      },
+      "artists": [
+        {
+          "name": "Billy Preston",
+          "url": "https://open.spotify.com/artist/0IecGJbdBeYSOVtSPRehh5"
+        }
+      ],
+      "duration_ms": 156200,
+      "name": "Nothing From Nothing",
+      "url": "https://open.spotify.com/track/72PoJMDfdaw9gGECgA9kTZ"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -2185,22 +2185,6 @@
       "url": "https://open.spotify.com/track/3p1JoOEhVkEnTaa4JzTMSk"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "C'est Chic (2018 Remaster)",
-        "url": "https://open.spotify.com/album/4a1EmaXGBiQ61Y4m6SNcYi"
-      },
-      "artists": [
-        {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
-        }
-      ],
-      "duration_ms": 413586,
-      "name": "I Want Your Love - 2018 Remaster",
-      "url": "https://open.spotify.com/track/7ooheiWgbyNtGOBTPbjNoq"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Greatest Hits",
@@ -2215,6 +2199,22 @@
       "duration_ms": 208333,
       "name": "Rock Me Gently",
       "url": "https://open.spotify.com/track/2qh2VGAOYFXLsMbdATRf6w"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "C'est Chic (2018 Remaster)",
+        "url": "https://open.spotify.com/album/4a1EmaXGBiQ61Y4m6SNcYi"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "duration_ms": 413586,
+      "name": "I Want Your Love - 2018 Remaster",
+      "url": "https://open.spotify.com/track/7ooheiWgbyNtGOBTPbjNoq"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -2349,22 +2349,6 @@
       "url": "https://open.spotify.com/track/45JKOZUyOFoLhmEltJFEeW"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Car Wash",
-        "url": "https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz"
-      },
-      "artists": [
-        {
-          "name": "Rose Royce",
-          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
-        }
-      ],
-      "duration_ms": 307573,
-      "name": "Car Wash - Long Version",
-      "url": "https://open.spotify.com/track/2pbWkjtGtjkzBdZ95GFINm"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Superfly (O.S.T.)",
@@ -2379,6 +2363,22 @@
       "duration_ms": 233600,
       "name": "Superfly",
       "url": "https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Car Wash",
+        "url": "https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz"
+      },
+      "artists": [
+        {
+          "name": "Rose Royce",
+          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
+        }
+      ],
+      "duration_ms": 307573,
+      "name": "Car Wash - Long Version",
+      "url": "https://open.spotify.com/track/2pbWkjtGtjkzBdZ95GFINm"
     },
     {
       "added_at": "2021-09-08 13:31:49",

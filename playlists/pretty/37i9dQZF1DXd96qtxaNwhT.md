@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 
 > Soak up the serenity with these beautiful melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,842 likes - 94 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,860 likes - 94 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 15 | [Love is](https://open.spotify.com/track/6gVUVgC2NfhOucSkAEu5MC) | [Elaskia](https://open.spotify.com/artist/6Q2uOBVYTPgtPnSFaBPUvV) | [Love is](https://open.spotify.com/album/6KAjESvcnTcu2IGlfAXfj1) | 2:00 |
 | 16 | [Silent Love](https://open.spotify.com/track/2CxPFadU0nHXiHIGDrlZNp) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Leap](https://open.spotify.com/album/55LHLzeYPPUn2YLtXtxPix) | 3:35 |
 | 17 | [Hospital Bed](https://open.spotify.com/track/0BZwSLuRna3yZuQz3GO9gW) | [Bri Clark](https://open.spotify.com/artist/5TYdUfesG0QEhROR76Hp2Y) | [Waiting](https://open.spotify.com/album/196pUs3pRTBCmfZjv9nqbi) | 4:10 |
-| 18 | [Small Talk](https://open.spotify.com/track/5J17jC78SZXMPfcoCvs0Uk) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Small Talk](https://open.spotify.com/album/7iuROt2yxUMHIrFFni6pyh) | 3:08 |
+| 18 | [Small Talk](https://open.spotify.com/track/2up2rf3OEktoapyXEzxhMa) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Handle with Care](https://open.spotify.com/album/05hWw0s7A5YHErAUE3OMXu) | 3:08 |
 | 19 | [Flowers](https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Flowers](https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV) | 2:37 |
 | 20 | [Hurtless](https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Hurtless](https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST) | 3:00 |
 | 21 | [Step On Flowers](https://open.spotify.com/track/7156NTCsRSyw7A2si4sm5e) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [CHAPTER 3: The Burning](https://open.spotify.com/album/4mqEv4XT01WQm45HTqgOEK) | 3:33 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 93 | [Waste My Time](https://open.spotify.com/track/6VKw8mwyk1Z1bFCXy1PC6C) | [Hattie Oates](https://open.spotify.com/artist/21XMngjCd7tTpvn2ruHB6R) | [Waste My Time](https://open.spotify.com/album/15sNqB0QCpkWaTsvuYcLPs) | 4:26 |
 | 94 | [Break With Me](https://open.spotify.com/track/28ISI9ACJ3Z3tQ7rQehHlZ) | [SHY Martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Break With Me](https://open.spotify.com/album/47KET5CfuFBk1zjC3UTilg) | 2:35 |
 
-Snapshot ID: `MTY2MTQzNjAwMCwwMDAwMDAwMDUwZDdhNjEyZjAzNjA4ZmNkOGRlOWRiZTE3ZmNjZjY3`
+Snapshot ID: `MTY2MTQzNjAwMCwwMDAwMDAwMDU4NDI0NDliNTkzYjkwMjkyNThiODI1Yzg4YTQ1ZTNl`

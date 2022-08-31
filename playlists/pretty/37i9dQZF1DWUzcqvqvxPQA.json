@@ -1,12 +1,12 @@
 {
   "description": "Check out these inspired hits to keep your Summer fun and upbeat!",
-  "num_followers": 24269,
+  "num_followers": 24272,
   "original_name": "Rejoice for Summer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5NzMyOTU0MCwwMDAwMDAwMGI2MzRmYTU1MjFkNzgyM2VhNzkyM2EwZmI5YjEzYWU2",
+  "snapshot_id": "MTU5NzMyOTU0MCwwMDAwMDAwMDVkMjVkZGQ4MDU4Zjg0NDRhMWU5Zjg4MmVkODgyMTlm",
   "tracks": [
     {
       "added_at": "2020-08-13 14:39:00",
@@ -143,38 +143,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Nothing is Ordinary. Everything is Beautiful.",
-        "url": "https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P"
-      },
-      "artists": [
-        {
-          "name": "Apollo LTD",
-          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
-        }
-      ],
-      "duration_ms": 226293,
-      "name": "You",
-      "url": "https://open.spotify.com/track/45W0GYB7YQO5wq6ePZPA4F"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "What Love Looks Like",
-        "url": "https://open.spotify.com/album/07GzRFzXvA9vzG8tPHlLhb"
-      },
-      "artists": [
-        {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
-        }
-      ],
-      "duration_ms": 211493,
-      "name": "What Love Looks Like - Single Version",
-      "url": "https://open.spotify.com/track/3drzZQX3eoVHdAN4LUCHOp"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Over And Over",
         "url": "https://open.spotify.com/album/6JSGQXaNZyITJBTMTWGseO"
       },
@@ -195,18 +163,34 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Out of Body",
-        "url": "https://open.spotify.com/album/65WwczdrIsAOeBwyL3EFxf"
+        "name": "What Love Looks Like",
+        "url": "https://open.spotify.com/album/07GzRFzXvA9vzG8tPHlLhb"
       },
       "artists": [
         {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
         }
       ],
-      "duration_ms": 255173,
-      "name": "Hang On",
-      "url": "https://open.spotify.com/track/7iUNwLdjPrcteXLNq1fBlZ"
+      "duration_ms": 211493,
+      "name": "What Love Looks Like - Single Version",
+      "url": "https://open.spotify.com/track/3drzZQX3eoVHdAN4LUCHOp"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Nothing is Ordinary. Everything is Beautiful.",
+        "url": "https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P"
+      },
+      "artists": [
+        {
+          "name": "Apollo LTD",
+          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
+        }
+      ],
+      "duration_ms": 226293,
+      "name": "You",
+      "url": "https://open.spotify.com/track/45W0GYB7YQO5wq6ePZPA4F"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -227,6 +211,22 @@
       "duration_ms": 232656,
       "name": "I\u2019ll Give Thanks",
       "url": "https://open.spotify.com/track/5iBYUI5N7zZzTkd7ychQ0P"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Out of Body",
+        "url": "https://open.spotify.com/album/65WwczdrIsAOeBwyL3EFxf"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "duration_ms": 255173,
+      "name": "Hang On",
+      "url": "https://open.spotify.com/track/7iUNwLdjPrcteXLNq1fBlZ"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Symphony",
-        "url": "https://open.spotify.com/album/5TigSX6SdwoGVhTS3sE8TW"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
-        }
-      ],
-      "duration_ms": 228960,
-      "name": "Count Me In",
-      "url": "https://open.spotify.com/track/1251WepWbxP2Nq4qV5J6BB"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 199573,
       "name": "Pray It Up",
       "url": "https://open.spotify.com/track/5qL47IcceHPr7W8kxK4Wzj"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Symphony",
+        "url": "https://open.spotify.com/album/5TigSX6SdwoGVhTS3sE8TW"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        }
+      ],
+      "duration_ms": 228960,
+      "name": "Count Me In",
+      "url": "https://open.spotify.com/track/1251WepWbxP2Nq4qV5J6BB"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Never Far (House Church)",
-        "url": "https://open.spotify.com/album/51FsVOFCZmAwrRvvQl3H72"
-      },
-      "artists": [
-        {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
-        }
-      ],
-      "duration_ms": 231964,
-      "name": "Never Far (House Church)",
-      "url": "https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/2hgLM7tz6g8wNk3I5SPj8U"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 193148,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/3hZBRLzeM0u4YKQ9mj7fy7"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Never Far (House Church)",
+        "url": "https://open.spotify.com/album/51FsVOFCZmAwrRvvQl3H72"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "duration_ms": 231964,
+      "name": "Never Far (House Church)",
+      "url": "https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1167,6 +1167,26 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
+        "name": "Songs for Every Soul",
+        "url": "https://open.spotify.com/album/494eVpr2xXEPkDxzk5kjbk"
+      },
+      "artists": [
+        {
+          "name": "Firma Collective",
+          "url": "https://open.spotify.com/artist/52MaCDJuPM1dlrCPMOlhmB"
+        },
+        {
+          "name": "Lexi Jones",
+          "url": "https://open.spotify.com/artist/2P43J08xD06ufX2GuJLVT6"
+        }
+      ],
+      "duration_ms": 257399,
+      "name": "Mercy's Tree",
+      "url": "https://open.spotify.com/track/3FTi0FOjEywikC2IkCRHPw"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
         "name": "I'm Up",
         "url": "https://open.spotify.com/album/2b2JwJcO7m5Xk047jIu9jW"
       },
@@ -1187,26 +1207,6 @@
       "duration_ms": 177220,
       "name": "I'm Up",
       "url": "https://open.spotify.com/track/777iKLDmmPiMAAB7OUW8bf"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "Songs for Every Soul",
-        "url": "https://open.spotify.com/album/494eVpr2xXEPkDxzk5kjbk"
-      },
-      "artists": [
-        {
-          "name": "Firma Collective",
-          "url": "https://open.spotify.com/artist/52MaCDJuPM1dlrCPMOlhmB"
-        },
-        {
-          "name": "Lexi Jones",
-          "url": "https://open.spotify.com/artist/2P43J08xD06ufX2GuJLVT6"
-        }
-      ],
-      "duration_ms": 257399,
-      "name": "Mercy's Tree",
-      "url": "https://open.spotify.com/track/3FTi0FOjEywikC2IkCRHPw"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1307,26 +1307,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Snapshot",
-        "url": "https://open.spotify.com/album/1jqP8dTXqeMOCQtkTe5a4s"
-      },
-      "artists": [
-        {
-          "name": "Matthew Parker",
-          "url": "https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54"
-        },
-        {
-          "name": "JSteph",
-          "url": "https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3"
-        }
-      ],
-      "duration_ms": 208941,
-      "name": "Snapshot",
-      "url": "https://open.spotify.com/track/4hO0jaw7w3gF4JjdImHEyf"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Surprise",
         "url": "https://open.spotify.com/album/5JEELfVybvnrXxwfsN57kg"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 202493,
       "name": "ONLY U (feat. Terrian)",
       "url": "https://open.spotify.com/track/1p9tNHBD4U8pVKFRhvOxJg"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Snapshot",
+        "url": "https://open.spotify.com/album/1jqP8dTXqeMOCQtkTe5a4s"
+      },
+      "artists": [
+        {
+          "name": "Matthew Parker",
+          "url": "https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54"
+        },
+        {
+          "name": "JSteph",
+          "url": "https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3"
+        }
+      ],
+      "duration_ms": 208941,
+      "name": "Snapshot",
+      "url": "https://open.spotify.com/track/4hO0jaw7w3gF4JjdImHEyf"
     },
     {
       "added_at": "2020-08-13 14:39:00",

@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea",
-  "num_followers": 159319,
+  "num_followers": 159266,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMDM2Y2MyNjBkNGRjNmI1ZjA5N2VkZTViZDhiYjQyODEx",
+  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMDQzMWViMTYwYzA4MTQ2NDc1ZmIwYzYwN2M3YTAyNmFl",
   "tracks": [
     {
       "added_at": "2022-06-10 04:02:00",
@@ -557,6 +557,22 @@
       "url": "https://open.spotify.com/track/0DKvzig7rwfWTZ0gvb0Zfx"
     },
     {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Forward Motion",
+        "url": "https://open.spotify.com/album/6vAEljyy7bkYUYG5RYahVe"
+      },
+      "artists": [
+        {
+          "name": "Mezzoforte",
+          "url": "https://open.spotify.com/artist/53LlrTpfGrdZS8QyBUxrVs"
+        }
+      ],
+      "duration_ms": 285533,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/3x8WXagG37ONFz857YbeFe"
+    },
+    {
       "added_at": "2022-07-22 04:02:00",
       "album": {
         "name": "Maiden Voyage",
@@ -579,22 +595,6 @@
       "duration_ms": 401652,
       "name": "Maiden Voyage",
       "url": "https://open.spotify.com/track/16Z4nsb9LKJ7nTt6Oe5R5L"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Forward Motion",
-        "url": "https://open.spotify.com/album/6vAEljyy7bkYUYG5RYahVe"
-      },
-      "artists": [
-        {
-          "name": "Mezzoforte",
-          "url": "https://open.spotify.com/artist/53LlrTpfGrdZS8QyBUxrVs"
-        }
-      ],
-      "duration_ms": 285533,
-      "name": "Nightfall",
-      "url": "https://open.spotify.com/track/3x8WXagG37ONFz857YbeFe"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -807,22 +807,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Mondo Garaj",
-        "url": "https://open.spotify.com/album/0HRZUivY2ufjDXHxeXmFTs"
-      },
-      "artists": [
-        {
-          "name": "Garaj Mahal",
-          "url": "https://open.spotify.com/artist/1m99aAxdBoGdZ3FVWkOBcM"
-        }
-      ],
-      "duration_ms": 333413,
-      "name": "Mondo Garaj",
-      "url": "https://open.spotify.com/track/3OtqffoS8ktgeZsKp7Bt5h"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Visions of the Emerald Beyond",
         "url": "https://open.spotify.com/album/7J0OL2Ai73lJZu06coM0Oo"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 212560,
       "name": "Be Happy",
       "url": "https://open.spotify.com/track/2tjkwLNeVDrtpnX13UsycD"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Mondo Garaj",
+        "url": "https://open.spotify.com/album/0HRZUivY2ufjDXHxeXmFTs"
+      },
+      "artists": [
+        {
+          "name": "Garaj Mahal",
+          "url": "https://open.spotify.com/artist/1m99aAxdBoGdZ3FVWkOBcM"
+        }
+      ],
+      "duration_ms": 333413,
+      "name": "Mondo Garaj",
+      "url": "https://open.spotify.com/track/3OtqffoS8ktgeZsKp7Bt5h"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -989,24 +989,20 @@
       "url": "https://open.spotify.com/track/1PHkwus4CNhHE17xM8k5Fx"
     },
     {
-      "added_at": "2022-04-08 04:02:00",
+      "added_at": "2021-07-02 04:01:00",
       "album": {
-        "name": "Funkdombe - edit",
-        "url": "https://open.spotify.com/album/283Munji1hx8ykXv5sY57R"
+        "name": "Space-Time",
+        "url": "https://open.spotify.com/album/2pGpLfTURhKVeaH6xGGW5W"
       },
       "artists": [
         {
-          "name": "Hector Bingert",
-          "url": "https://open.spotify.com/artist/2mKWIAGVpwrU0nOa3QF9ds"
-        },
-        {
-          "name": "Ruben Rada",
-          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
+          "name": "Jeff Lorber Fusion",
+          "url": "https://open.spotify.com/artist/5cpKvYFZXiVsN7FRLoNlm1"
         }
       ],
-      "duration_ms": 230374,
-      "name": "Funkdombe - edit",
-      "url": "https://open.spotify.com/track/7sOEgNweXVf2N4ae7hzKMU"
+      "duration_ms": 275480,
+      "name": "Truth",
+      "url": "https://open.spotify.com/track/7t28GnSaybF7QlNt8j0XLp"
     },
     {
       "added_at": "2022-02-11 19:09:35",
@@ -1025,20 +1021,24 @@
       "url": "https://open.spotify.com/track/2ZLAy0dm2u9NmHSG6dbfNe"
     },
     {
-      "added_at": "2021-07-02 04:01:00",
+      "added_at": "2022-04-08 04:02:00",
       "album": {
-        "name": "Space-Time",
-        "url": "https://open.spotify.com/album/2pGpLfTURhKVeaH6xGGW5W"
+        "name": "Funkdombe - edit",
+        "url": "https://open.spotify.com/album/283Munji1hx8ykXv5sY57R"
       },
       "artists": [
         {
-          "name": "Jeff Lorber Fusion",
-          "url": "https://open.spotify.com/artist/5cpKvYFZXiVsN7FRLoNlm1"
+          "name": "Hector Bingert",
+          "url": "https://open.spotify.com/artist/2mKWIAGVpwrU0nOa3QF9ds"
+        },
+        {
+          "name": "Ruben Rada",
+          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
         }
       ],
-      "duration_ms": 275480,
-      "name": "Truth",
-      "url": "https://open.spotify.com/track/7t28GnSaybF7QlNt8j0XLp"
+      "duration_ms": 230374,
+      "name": "Funkdombe - edit",
+      "url": "https://open.spotify.com/track/7sOEgNweXVf2N4ae7hzKMU"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1185,22 +1185,6 @@
       "url": "https://open.spotify.com/track/0JuPd6sug8NBmLPLMUsELk"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Opuntia",
-        "url": "https://open.spotify.com/album/5n7YoitQwsMfVGYXhy1EHi"
-      },
-      "artists": [
-        {
-          "name": "Anika Nilles",
-          "url": "https://open.spotify.com/artist/0IF3ewdvS7h9Wu3gDgV3fi"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Up and Down",
-      "url": "https://open.spotify.com/track/7iA7W8XQ649pA5sgMiSOtJ"
-    },
-    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "Thirty One",
@@ -1215,6 +1199,22 @@
       "duration_ms": 227150,
       "name": "Thirty One",
       "url": "https://open.spotify.com/track/3greuXqhFhNdQ7qYl0qmwd"
+    },
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "Opuntia",
+        "url": "https://open.spotify.com/album/5n7YoitQwsMfVGYXhy1EHi"
+      },
+      "artists": [
+        {
+          "name": "Anika Nilles",
+          "url": "https://open.spotify.com/artist/0IF3ewdvS7h9Wu3gDgV3fi"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Up and Down",
+      "url": "https://open.spotify.com/track/7iA7W8XQ649pA5sgMiSOtJ"
     },
     {
       "added_at": "2021-04-02 05:01:00",

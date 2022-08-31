@@ -4,7 +4,7 @@
 
 > The UK's biggest dance playlist! Cover: RAYE
 
-276 songs - 15 hr 5 min - [published](https://open.spotify.com/playlist/5fVCEeL6B4wf7pLEe8QzL4)
+277 songs - 15 hr 7 min - [published](https://open.spotify.com/playlist/5fVCEeL6B4wf7pLEe8QzL4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [I Will Survive](https://open.spotify.com/track/5Fi4nPER6YbntbYDW4P3Pz) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA) | [Belters Only](https://open.spotify.com/album/7q2csSLstONjj56KHf4YpD) | 2:30 | 2022-06-16 |  |
 | [I Wish \(feat\. Mabel\)](https://open.spotify.com/track/0YORgvqP1MotwCnDZzOwII) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [I Wish \(feat\. Mabel\)](https://open.spotify.com/album/1gklzdwNQPtt0Z7SwgR1vH) | 3:01 | 2021-11-03\* | 2022-03-10 |
 | [I Won't Forget](https://open.spotify.com/track/37lk3qgO3DYCoSpeJpp3KR) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [You've Got the Whole Night to Go](https://open.spotify.com/album/5xp8nj4Uji2Kr1nkm3CLFC) | 4:33 | 2022-03-08 | 2022-03-10 |
+| [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2022-08-30 |  |
 | [If You Really Love Me \(How Will I Know\)](https://open.spotify.com/track/1V7bZ9gEIwFQpm8yGxRHNA) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MistaJam](https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [If You Really Love Me \(How Will I Know\)](https://open.spotify.com/album/2jchxs2dbRKpdHZl5O3FEY) | 3:04 | 2021-11-03\* | 2021-11-05 |
 | [If You Want It](https://open.spotify.com/track/7H7AUeAy7rTG0fCCa1cGtm) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r) | [If You Want It](https://open.spotify.com/album/63FhryWz726IV3x1Pf17vc) | 3:37 | 2021-11-03\* | 2021-11-26 |
 | [In My Arms \- Edit](https://open.spotify.com/track/5ukTUKLwsaThljUaV6IVAs) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Never Enough](https://open.spotify.com/album/0ovBhOM0M8GHUEL7IOLFWP) | 3:45 | 2021-11-03\* | 2021-12-10 |
@@ -197,7 +198,7 @@
 | [Paradise](https://open.spotify.com/track/0yqU5tPByI1uLX5vIB7XO7) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r) | [Paradise](https://open.spotify.com/album/0ehWcJaGgr9BpaeoLuVF0z) | 3:18 | 2022-01-28 | 2022-04-29 |
 | [Peaches & Cream](https://open.spotify.com/track/2PgXaTPI1XCme78vvYMxZu) | [Silky](https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF) | [Peaches & Cream](https://open.spotify.com/album/4fkTFOExE3vIXyXeW62i36) | 3:18 | 2022-08-04 |  |
 | [People Ain't Dancing \(feat\. Kah\-Lo\)](https://open.spotify.com/track/4qXjXZPGtVNhQq1z9QDRFn) | [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [People Ain't Dancing \(feat\. Kah\-Lo\)](https://open.spotify.com/album/0AsTTy2s5hEPOasYtQKCQR) | 2:34 | 2022-08-25 |  |
-| [Perfect Melody](https://open.spotify.com/track/17XwUcwd6SmoypiA3tIwHH) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG) | [Perfect Melody](https://open.spotify.com/album/5dnpfIyc6hbO2HO5bIaj6L) | 2:39 | 2022-06-09 |  |
+| [Perfect Melody](https://open.spotify.com/track/17XwUcwd6SmoypiA3tIwHH) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG) | [Perfect Melody](https://open.spotify.com/album/5dnpfIyc6hbO2HO5bIaj6L) | 2:39 | 2022-06-09 | 2022-08-31 |
 | [Picture in my mind](https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Picture in my mind](https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU) | 2:56 | 2022-08-11 |  |
 | [Poison](https://open.spotify.com/track/1MeYeeJV7BUmp3Kf0wEmQe) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Poison](https://open.spotify.com/album/6WONhOrTC1hMcjVSPuAcr6) | 3:26 | 2022-08-18 |  |
 | [Potion \(with Dua Lipa & Young Thug\)](https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Potion \(with Dua Lipa & Young Thug\)](https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc) | 3:34 | 2022-05-27 | 2022-08-19 |

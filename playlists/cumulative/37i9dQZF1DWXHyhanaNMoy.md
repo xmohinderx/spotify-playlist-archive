@@ -4,7 +4,7 @@
 
 > De playlist voor magic, motion en summer vibes! Cover: Anuel AA
 
-145 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/5EIhsbDAXsYMVcvdmXGuEa)
+146 songs - 6 hr 33 min - [published](https://open.spotify.com/playlist/5EIhsbDAXsYMVcvdmXGuEa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Kame Hame Ha](https://open.spotify.com/track/2GgtavUi1WNhGycAF7q19d) | [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu) | [Kame Hame Ha](https://open.spotify.com/album/7hShXOa7Ml04xxBzRK0Ljj) | 2:31 | 2022-08-23 |  |
 | [Kel bail](https://open.spotify.com/track/6g3fzFlpdd834RWaL4O56o) | [Venant Delacapitale](https://open.spotify.com/artist/2YWcCTBHHea2yUzM71Kwz1), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [Kel bail](https://open.spotify.com/album/6fYcge4ihB6KfdvAGCFQyE) | 3:21 | 2022-07-14 | 2022-07-28 |
 | [Kom Mee](https://open.spotify.com/track/4VsnMFDvFq4ccYJuUezQHb) | [Shikss](https://open.spotify.com/artist/1SzciTtL2bewCNpbRTk6z7), [6iant](https://open.spotify.com/artist/1crOmwDhXGwd42WXLHn6ii), [\#SS](https://open.spotify.com/artist/3jNqYOJqmN6uQxwG9bRcsU) | [Kom Mee](https://open.spotify.com/album/7oYZq57spAJqZkbYU2CNmA) | 2:26 | 2022-07-14 | 2022-08-12 |
+| [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2022-08-30 |  |
 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 | 2022-08-25 |  |
 | [La Jefa \(feat\. JMReal\)](https://open.spotify.com/track/6MkJl9joujz9BMSGLCDoee) | [BuenosDiaz](https://open.spotify.com/artist/3qMCibsPjK04k9BAijQCRM), [Jones Suave](https://open.spotify.com/artist/0lui1pVpLAap3nxrMXmFwo), [Alazar](https://open.spotify.com/artist/02QNUJxKwMO7HqOFL7zTIR), [JMReal](https://open.spotify.com/artist/7mvbWbf9G6FoiQhzJJ9Mem) | [La Jefa \(feat\. JMReal\)](https://open.spotify.com/album/1ecw7HHkrChFjqUK6roDUO) | 2:28 | 2022-07-28 | 2022-08-26 |
 | [Last Last](https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last](https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe) | 2:52 | 2022-07-14 |  |

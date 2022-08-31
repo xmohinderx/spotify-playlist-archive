@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 160672,
+  "num_followers": 160678,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg2MDA2MCwwMDAwMDAwMGRmY2I1NjdlODljY2U2ZmZhMzA5NWM1YTAwYjg0NTk5",
+  "snapshot_id": "MTY2MDg2MDA2MCwwMDAwMDAwMDY0MDk3YTlkZmViZDg3MjY5MWM5MmZlNzM3Mzk2NDU2",
   "tracks": [
     {
       "added_at": "2022-08-18 22:01:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/4LzplREyxz4OBGBYjkLCaW"
-      },
-      "artists": [
-        {
-          "name": "Sin Fang",
-          "url": "https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU"
-        }
-      ],
-      "duration_ms": 220080,
-      "name": "Look At The Light",
-      "url": "https://open.spotify.com/track/56aazenLnCcpAzCEgsCyYV"
-    },
-    {
-      "added_at": "2022-08-18 22:01:00",
-      "album": {
         "name": "Hold On Dreamer",
         "url": "https://open.spotify.com/album/28d2gIKg6Ma04rKAghPvQA"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 230840,
       "name": "The Man Who Isn't Here",
       "url": "https://open.spotify.com/track/5e4TjReNPm7FGEdVHGl9GO"
+    },
+    {
+      "added_at": "2022-08-18 22:01:00",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/4LzplREyxz4OBGBYjkLCaW"
+      },
+      "artists": [
+        {
+          "name": "Sin Fang",
+          "url": "https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU"
+        }
+      ],
+      "duration_ms": 220080,
+      "name": "Look At The Light",
+      "url": "https://open.spotify.com/track/56aazenLnCcpAzCEgsCyYV"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -731,6 +731,26 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
+        "name": "The Last Great Country Swindle",
+        "url": "https://open.spotify.com/album/1I25HgAQMA4yhiW7jIv0qQ"
+      },
+      "artists": [
+        {
+          "name": "Bendik Br\u00e6nne",
+          "url": "https://open.spotify.com/artist/2xHFB5Nl4D6Il5tfP57sr1"
+        },
+        {
+          "name": "Daniel Romano",
+          "url": "https://open.spotify.com/artist/2kTXvMOmrHVjVewErG5kHD"
+        }
+      ],
+      "duration_ms": 203933,
+      "name": "Ain't Nobody Like Me",
+      "url": "https://open.spotify.com/track/1HClG4JoFtukyPDO73eoVe"
+    },
+    {
+      "added_at": "2022-08-18 22:01:00",
+      "album": {
         "name": "May",
         "url": "https://open.spotify.com/album/2vXLNhdNLU10FscOd07Xbl"
       },
@@ -775,26 +795,6 @@
       "duration_ms": 328240,
       "name": "Fehu - First Flight of the White Raven LIVE",
       "url": "https://open.spotify.com/track/6maBoD5dTSlChuGblBLc8E"
-    },
-    {
-      "added_at": "2022-08-18 22:01:00",
-      "album": {
-        "name": "The Last Great Country Swindle",
-        "url": "https://open.spotify.com/album/1I25HgAQMA4yhiW7jIv0qQ"
-      },
-      "artists": [
-        {
-          "name": "Bendik Br\u00e6nne",
-          "url": "https://open.spotify.com/artist/2xHFB5Nl4D6Il5tfP57sr1"
-        },
-        {
-          "name": "Daniel Romano",
-          "url": "https://open.spotify.com/artist/2kTXvMOmrHVjVewErG5kHD"
-        }
-      ],
-      "duration_ms": 203933,
-      "name": "Ain't Nobody Like Me",
-      "url": "https://open.spotify.com/track/1HClG4JoFtukyPDO73eoVe"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
-        "name": "Joni Was Right Pt. II",
-        "url": "https://open.spotify.com/album/6wonVPtSuwYgTjn76yMCgE"
-      },
-      "artists": [
-        {
-          "name": "Marit Larsen",
-          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
-        }
-      ],
-      "duration_ms": 200262,
-      "name": "Bluebelle Mountain",
-      "url": "https://open.spotify.com/track/02nxCFRn4cmbfKQB4mUFP5"
-    },
-    {
-      "added_at": "2022-08-18 22:01:00",
-      "album": {
         "name": "Early Summer Rain",
         "url": "https://open.spotify.com/album/41rw0yKJcpUla5orniwd45"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 170181,
       "name": "Early Summer Rain",
       "url": "https://open.spotify.com/track/44Weew9zeqTPmGujEIFXnh"
+    },
+    {
+      "added_at": "2022-08-18 22:01:00",
+      "album": {
+        "name": "Joni Was Right Pt. II",
+        "url": "https://open.spotify.com/album/6wonVPtSuwYgTjn76yMCgE"
+      },
+      "artists": [
+        {
+          "name": "Marit Larsen",
+          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
+        }
+      ],
+      "duration_ms": 200262,
+      "name": "Bluebelle Mountain",
+      "url": "https://open.spotify.com/track/02nxCFRn4cmbfKQB4mUFP5"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
+        "name": "June",
+        "url": "https://open.spotify.com/album/4nNRxS6sgZOa7o96KfyIRM"
+      },
+      "artists": [
+        {
+          "name": "Mathias Gundhus",
+          "url": "https://open.spotify.com/artist/6PURFnZQmtTtjlraMNaHW7"
+        }
+      ],
+      "duration_ms": 218497,
+      "name": "June",
+      "url": "https://open.spotify.com/track/4pduaq2UnV1fpgevorNxAv"
+    },
+    {
+      "added_at": "2022-08-18 22:01:00",
+      "album": {
         "name": "Sumie",
         "url": "https://open.spotify.com/album/3MJtEuh26Rm8p8cdNemiAg"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 195741,
       "name": "Hunting Sky",
       "url": "https://open.spotify.com/track/48wE4vYe6iumDianYfUAfO"
-    },
-    {
-      "added_at": "2022-08-18 22:01:00",
-      "album": {
-        "name": "Vinyl and a Heartache",
-        "url": "https://open.spotify.com/album/3ggLoeg7Vv2fx1OoR1Egte"
-      },
-      "artists": [
-        {
-          "name": "Darling West",
-          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
-        }
-      ],
-      "duration_ms": 219413,
-      "name": "The Sweetest Tune",
-      "url": "https://open.spotify.com/track/4vDxQKlCJVfsTdK4g9eA5x"
     }
   ],
   "unique_name": "Nordic Folk",

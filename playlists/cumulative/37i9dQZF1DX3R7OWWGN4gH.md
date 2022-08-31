@@ -4,14 +4,16 @@
 
 > entering my reputation era 🐍
 
-226 songs - 12 hr 32 min - [published](https://open.spotify.com/playlist/1tPoUAYzbtzf09bxrh5s55)
+228 songs - 12 hr 41 min - [published](https://open.spotify.com/playlist/1tPoUAYzbtzf09bxrh5s55)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [...baby one more time](https://open.spotify.com/track/1Zqs6A90va6FUxQ7KJAckG) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [...baby one more time](https://open.spotify.com/album/65oQssKlo7DCgaD3HVtiVX) | 2:05 | 2022-08-11 |  |
+| [...baby one more time](https://open.spotify.com/track/1Zqs6A90va6FUxQ7KJAckG) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [...baby one more time](https://open.spotify.com/album/65oQssKlo7DCgaD3HVtiVX) | 2:05 | 2022-08-11 | 2022-08-31 |
+| [1985](https://open.spotify.com/track/2FdzIRCqzjhdxP5W99FSvS) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [THE INSIDE OUTTAKES](https://open.spotify.com/album/1m44SygOrmURyQXnYYq59H) | 2:26 | 2022-08-30 |  |
 | [A Little Wicked](https://open.spotify.com/track/0ZPMI8Gnz7p6omBBIOwiO9) | [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c) | [A Little Wicked](https://open.spotify.com/album/1RG2EZlhtK8fPJF0bKAVwT) | 3:30 | 2022-01-27 | 2022-07-07 |
 | [a woman is a god](https://open.spotify.com/track/5kcERXTIoNbkBjb6o4vYBf) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [goldilocks x](https://open.spotify.com/album/2nkqAzbvQUWZ0p88NxrJ7s) | 2:58 | 2022-01-27 | 2022-04-21 |
 | [abcdefu \(angrier\)](https://open.spotify.com/track/1EQFOouqdKYdpbNoOHRVO2) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu \(angrier\)](https://open.spotify.com/album/23M1xUF2RoRSvXtpwQP4rJ) | 2:39 | 2022-01-27 |  |
+| [Achilles Come Down](https://open.spotify.com/track/22TntnVO3lQNDR5nsvxGRs) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [Go Farther In Lightness](https://open.spotify.com/album/0leVOEw8L2TnAfLGwkFnab) | 7:02 | 2022-08-30 |  |
 | [Ain't No Rest for the Wicked](https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant \(Expanded Edition\)](https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn) | 2:55 | 2022-01-27 |  |
 | [Ain't No Rest For The Wicked \- Original Version](https://open.spotify.com/track/5c5a2Ptu8eyIpljhQHjIqk) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant](https://open.spotify.com/album/0KcRX7YkMZ4mwOkEiCb9zw) | 2:55 | 2022-01-27 | 2022-04-21 |
 | [all the good girls go to hell](https://open.spotify.com/track/6IRdLKIyS4p7XNiP8r6rsx) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 2:48 | 2022-01-27 |  |
@@ -57,7 +59,7 @@
 | [Crucified](https://open.spotify.com/track/6fXzdWgyZhDeLmlzC7Mvco) | [Army Of Lovers](https://open.spotify.com/artist/3JXnjuv4hBqQKOVzJg74Lt) | [Massive Luxury Overdose](https://open.spotify.com/album/5glF3lGmuuYIHVeEVNUyyq) | 3:34 | 2022-01-27 | 2022-04-19 |
 | [Crush](https://open.spotify.com/track/10zQ66l1AwcLtanGsv3Fav) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Crush](https://open.spotify.com/album/6V820o63cpdpS7Jz9jXhhJ) | 4:02 | 2022-01-29 | 2022-04-21 |
 | [Cult Leader](https://open.spotify.com/track/1STwouYZSMXAaJ0nCrCsun) | [Cute Whore](https://open.spotify.com/artist/1N91cyUEOTgbI7s90LzhiE) | [Cult Leader](https://open.spotify.com/album/4huVKlLQxEzWjftYB6aRjp) | 5:43 | 2022-03-28 | 2022-07-25 |
-| [cult leader](https://open.spotify.com/track/55FBgJC917EN1RrVJENiB7) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [cult leader](https://open.spotify.com/album/19vsjfRk8H7PmyB2VE7YnK) | 2:43 | 2022-04-22 |  |
+| [cult leader](https://open.spotify.com/track/55FBgJC917EN1RrVJENiB7) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [cult leader](https://open.spotify.com/album/19vsjfRk8H7PmyB2VE7YnK) | 2:43 | 2022-04-22 | 2022-08-31 |
 | [Daisy](https://open.spotify.com/track/0AUvWawuP0ibk4SQ3sIZjk) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Daisy](https://open.spotify.com/album/5tRhwDUyr3HypAaJysxUki) | 2:26 | 2022-01-27 |  |
 | [Dangerous Woman](https://open.spotify.com/track/2h1IPjP471JJRSShTHRUhi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/4lVR2fg3DAUQpGVJ6DciHW) | 3:55 | 2022-01-27 | 2022-04-21 |
 | [Dangerous Woman](https://open.spotify.com/track/6RUhbFEhrvGISaQ8u2j2JN) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7) | 3:55 | 2022-01-27 |  |

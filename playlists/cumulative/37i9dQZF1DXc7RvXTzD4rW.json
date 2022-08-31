@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "A collection of music from voice actors/ actresses in Japan./ \u69d8\u3005\u306a\u611f\u60c5\u3092\u81ea\u5728\u306b\u8868\u73fe\u3057\u3001\u767b\u5834\u4eba\u7269\u306b\u547d\u3092\u5439\u304d\u8fbc\u3080\u58f0\u512a\u305f\u3061\u3002\u58f0\u306e\u30d7\u30ed\u30d5\u30a7\u30c3\u30b7\u30e7\u30ca\u30eb\u3067\u3042\u308b\u5f7c\u3089\u304c\u7d21\u3050\u6b4c\u306e\u4e16\u754c\u3002Cover: \u52c7\u6b21\u90ce (CV:\u5185\u5c71\u6602\u8f1d)",
+  "description": "A collection of music from voice actors/ actresses in Japan./ \u69d8\u3005\u306a\u611f\u60c5\u3092\u81ea\u5728\u306b\u8868\u73fe\u3057\u3001\u767b\u5834\u4eba\u7269\u306b\u547d\u3092\u5439\u304d\u8fbc\u3080\u58f0\u512a\u305f\u3061\u3002\u58f0\u306e\u30d7\u30ed\u30d5\u30a7\u30c3\u30b7\u30e7\u30ca\u30eb\u3067\u3042\u308b\u5f7c\u3089\u304c\u7d21\u3050\u6b4c\u306e\u4e16\u754c\u3002Cover: TrySail",
   "name": "\u58f0\u512a\u3001\u6b4c\u3046 -Sing Like Talking-",
   "published_playlist_ids": [
     "5RQGiwmI9wGlhuVRQit3UC"
@@ -23,6 +23,24 @@
       "duration_ms": 234000,
       "name": "Adolescence",
       "url": "https://open.spotify.com/track/2OVkxlBoVKBYo3ZjaJSjnz"
+    },
+    {
+      "album": {
+        "name": "TrySail Live Tour 2021 \"Re Bon Voyage\"",
+        "url": "https://open.spotify.com/album/40AJJY1WOjKdjSf3P9fzgh"
+      },
+      "artists": [
+        {
+          "name": "TrySail",
+          "url": "https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275332,
+      "name": "adrenaline!!! - TrySail Live Tour 2021 \"Re Bon Voyage\"",
+      "url": "https://open.spotify.com/track/6O0yjUbqWb4SOjH8VDcab5"
     },
     {
       "album": {
@@ -55,7 +73,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 267000,
       "name": "ALRIGHT!",
       "url": "https://open.spotify.com/track/0V4AQZP769SHFH513BNqsZ"
@@ -181,7 +199,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 208878,
       "name": "Candle",
       "url": "https://open.spotify.com/track/4TWcyWiAvodCe9hE8P9AjY"
@@ -253,7 +271,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 242657,
       "name": "Cry for the Moon",
       "url": "https://open.spotify.com/track/4H16CvnP6NOExQYO1DY2of"
@@ -343,10 +361,28 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 222693,
       "name": "Etoile",
       "url": "https://open.spotify.com/track/5JJYQ1nVJwRxM2iwcxbjkv"
+    },
+    {
+      "album": {
+        "name": "EVERLASTING/\u30b8\u30e3\u30fc\u30cb\u30fc",
+        "url": "https://open.spotify.com/album/2nVMaMPC2mCUsCCJGKDZZj"
+      },
+      "artists": [
+        {
+          "name": "Mamoru Miyano",
+          "url": "https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242066,
+      "name": "EVERLASTING",
+      "url": "https://open.spotify.com/track/3yUn3VJ4i211Tgu7cLpGfn"
     },
     {
       "album": {
@@ -365,6 +401,24 @@
       "duration_ms": 244613,
       "name": "Fanfare!!",
       "url": "https://open.spotify.com/track/5P79Y9MK1EzWGIis54F6ep"
+    },
+    {
+      "album": {
+        "name": "SMILE PRINCESS BEST FACE OFF",
+        "url": "https://open.spotify.com/album/7Hsm62UNySMmkODq1ZmxwX"
+      },
+      "artists": [
+        {
+          "name": "SMILE PRINCESS",
+          "url": "https://open.spotify.com/artist/2ru6Gg9AH0c3ygsQ0jWJtn"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218152,
+      "name": "Fight-oh-Fight!",
+      "url": "https://open.spotify.com/track/5ZxsYi8VpFyklvlmI70U8P"
     },
     {
       "album": {
@@ -401,6 +455,24 @@
       "duration_ms": 283760,
       "name": "Futurism",
       "url": "https://open.spotify.com/track/4qA2NaMNYTyMdJ8ZscECVf"
+    },
+    {
+      "album": {
+        "name": "Fuwa Fuwa Time - From CrosSing",
+        "url": "https://open.spotify.com/album/2umPEmciHjUCfqziD1B7zG"
+      },
+      "artists": [
+        {
+          "name": "Onishi Aguri",
+          "url": "https://open.spotify.com/artist/3hp538apqv8zWeIa31uKe7"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238973,
+      "name": "Fuwa Fuwa Time - From CrosSing",
+      "url": "https://open.spotify.com/track/2VkhXYlEEx0753IjeQCeof"
     },
     {
       "album": {
@@ -556,6 +628,24 @@
     },
     {
       "album": {
+        "name": "ENDING THEME FROM TV SERIES \u201dUNCLE FROM ANOTHER WORLD\u201d",
+        "url": "https://open.spotify.com/album/2ur6B0p344bM6CHn7PNJu0"
+      },
+      "artists": [
+        {
+          "name": "Yuka Iguchi",
+          "url": "https://open.spotify.com/artist/2pEoqcvCSXliNrd8peAUiP"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254050,
+      "name": "ICHIBANBOSHI SONORITY",
+      "url": "https://open.spotify.com/track/4ogyl3j9wSTM0YLiXrkC5t"
+    },
+    {
+      "album": {
         "name": "Kikoeru?",
         "url": "https://open.spotify.com/album/2KGp1amvwo7jNaozKVL4bj"
       },
@@ -621,7 +711,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 205457,
       "name": "Love-Evidence",
       "url": "https://open.spotify.com/track/4KmhIHRUmZ7ND8RM8Trt2o"
@@ -639,7 +729,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 244920,
       "name": "Michikusa",
       "url": "https://open.spotify.com/track/1sMsGkaKnv4x1F0ssDJcQp"
@@ -657,10 +747,28 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 217708,
       "name": "Midnight Dancer",
       "url": "https://open.spotify.com/track/13uO9ybQF9TpUoXznKDKGy"
+    },
+    {
+      "album": {
+        "name": "11-Eleven-",
+        "url": "https://open.spotify.com/album/3FwWnmYRq6bdES3Zszblgx"
+      },
+      "artists": [
+        {
+          "name": "Shirai Yusuke",
+          "url": "https://open.spotify.com/artist/1ccP8i48kDMJVsHt2GM6io"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201746,
+      "name": "Only My Story",
+      "url": "https://open.spotify.com/track/0w3THtjQhu09ujdulaP4WZ"
     },
     {
       "album": {
@@ -826,6 +934,24 @@
     },
     {
       "album": {
+        "name": "OPENING THEME FROM TV SERIES MADE IN ABYSS \u201dTHE GOLDEN CITY OF THE SCORCHING SUN\u201d THE SHAPE OF",
+        "url": "https://open.spotify.com/album/0tbPNaXiTK7G5V4LaZIjBQ"
+      },
+      "artists": [
+        {
+          "name": "\u5b89\u6708\u540d\u8389\u5b50",
+          "url": "https://open.spotify.com/artist/7ChJuYuw9pM8MqaZOAmvHX"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212866,
+      "name": "THE SHAPE OF",
+      "url": "https://open.spotify.com/track/6yLpHWOoiT3lWPnZIXk1la"
+    },
+    {
+      "album": {
         "name": "Yoikagen Tetragon/Tokimeki Rendez-vous",
         "url": "https://open.spotify.com/album/7DeKG9rQN4KlYR1lAg4zvI"
       },
@@ -873,7 +999,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-06",
+      "date_removed": null,
       "duration_ms": 269600,
       "name": "Touch of Hope",
       "url": "https://open.spotify.com/track/2JCFV6qfvsOtUdHIuevDSW"
@@ -963,7 +1089,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 292760,
       "name": "\u00c9toile",
       "url": "https://open.spotify.com/track/5pkzGvJdSCHt6JOPkiPtKl"
@@ -1183,6 +1309,24 @@
       "duration_ms": 252565,
       "name": "\u30a4\u30f3\u30d5\u30a3\u30cb\u30c3\u30c8",
       "url": "https://open.spotify.com/track/6b4f78XcnPlxOJpNjmD2j8"
+    },
+    {
+      "album": {
+        "name": "BLOOMING",
+        "url": "https://open.spotify.com/album/3VKwasBzLGIlOWoBVAhtQD"
+      },
+      "artists": [
+        {
+          "name": "Miho Okasaki",
+          "url": "https://open.spotify.com/artist/0GORgBglHGw3bMnj3wYpRm"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253293,
+      "name": "\u30a4\u30f3\u30d5\u30a3\u30cb\u30c3\u30c8",
+      "url": "https://open.spotify.com/track/0atXJP0z2gQb5ugEeUbard"
     },
     {
       "album": {
@@ -1564,6 +1708,28 @@
     },
     {
       "album": {
+        "name": "\u591c\u3042\u305d\u3073\u3057\u3088\u3046\u305c",
+        "url": "https://open.spotify.com/album/2TpBF2EYiNsEKyHwVua0e3"
+      },
+      "artists": [
+        {
+          "name": "\u68ee\u4e45\u4fdd\u7965\u592a\u90ce",
+          "url": "https://open.spotify.com/artist/2mPe0SBYUwudL5iXPmMbwR"
+        },
+        {
+          "name": "\u4ef2\u6751\u5b97\u609f",
+          "url": "https://open.spotify.com/artist/3Vz8LkrUXNRdZmaVtLXOMp"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294833,
+      "name": "\u591c\u3042\u305d\u3073\u3057\u3088\u3046\u305c",
+      "url": "https://open.spotify.com/track/23yohx1mmUMUw8OFFpfUCp"
+    },
+    {
+      "album": {
         "name": "\u3042\u3058\u3085\u3058\u3085\u3068\u591c\u3068\u97f3\u697d\u3068",
         "url": "https://open.spotify.com/album/2wC9ZGJSE7IwWJZjLd1Tqb"
       },
@@ -1647,7 +1813,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 182800,
       "name": "\u6708\u3068\u30ab\u30a8\u30eb",
       "url": "https://open.spotify.com/track/2AC2a8IVi96iXdgtipWdJG"
@@ -1669,6 +1835,24 @@
       "duration_ms": 275680,
       "name": "\u6c34\u93e1\u306e\u4e16\u754c",
       "url": "https://open.spotify.com/track/7LWbBngfReWleCxhqFUjsM"
+    },
+    {
+      "album": {
+        "name": "\u6d77\u306e\u30a8\u30f3\u30c9\u30ed\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/7gByOSWU12BeYLiLPDXxAq"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u539f\u5cb3\u4eba",
+          "url": "https://open.spotify.com/artist/1ZSbJqrZp4HiQlhPPScaKG"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244391,
+      "name": "\u6d77\u306e\u30a8\u30f3\u30c9\u30ed\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/1ZkTHbCmQKj6xYKla18Rct"
     },
     {
       "album": {
@@ -1755,7 +1939,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 268207,
       "name": "\u8272\u9055\u3044\u306e\u7cf8\u675f",
       "url": "https://open.spotify.com/track/5xPI7VtyFnqbGYmfpcYstH"
@@ -1809,7 +1993,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 236000,
       "name": "\u9752100\u8272",
       "url": "https://open.spotify.com/track/6tP2bYIUMcDFn9Zfs9ZAE4"

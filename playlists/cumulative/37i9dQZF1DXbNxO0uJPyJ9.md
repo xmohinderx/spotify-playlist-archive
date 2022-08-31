@@ -4,7 +4,7 @@
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-217 songs - 23 hr 0 min - [published](https://open.spotify.com/playlist/3EUeypxZPpc6yohTwivHlF)
+218 songs - 23 hr 4 min - [published](https://open.spotify.com/playlist/3EUeypxZPpc6yohTwivHlF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Dance Hall Days](https://open.spotify.com/track/7KxvOqV1fMmlV48pZ4asWI) | [Wang Chung](https://open.spotify.com/artist/6Zh3xrWlA0SA9Fsfj9AVwm) | [Everybody Wang Chung Tonight..\. Wang Chung's Greatest Hits](https://open.spotify.com/album/6kTeyTiuWlacZnUWjZdiKp) | 3:59 | 2020-08-07 | 2022-07-29 |
 | [Dance Hall Days](https://open.spotify.com/track/2JvPJ8ydPuN2NhpH4oti6I) | [Wang Chung](https://open.spotify.com/artist/6Zh3xrWlA0SA9Fsfj9AVwm) | [Points On The Curve](https://open.spotify.com/album/5RMZLWa4VtvJXswpsk600P) | 4:00 | 2022-06-10 |  |
 | [Dancing On The Ceiling \- 12" Version](https://open.spotify.com/track/3hCsLasVlmTBQu7QDw1isr) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Dancing On The Ceiling \(Expanded Edition\)](https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf) | 7:10 | 2021-03-22 | 2022-07-29 |
-| [Der Kommissar](https://open.spotify.com/track/4mu8svGkGaO2dgAcTlo0FK) | [Falco](https://open.spotify.com/artist/0hLd40hVpRDGENe4KGZLnW) | [Vienna Greatest Hits](https://open.spotify.com/album/6I67hq0sDpBE2qn0nOkVK1) | 3:48 | 2020-08-07 |  |
+| [Der Kommissar](https://open.spotify.com/track/4mu8svGkGaO2dgAcTlo0FK) | [Falco](https://open.spotify.com/artist/0hLd40hVpRDGENe4KGZLnW) | [Vienna Greatest Hits](https://open.spotify.com/album/6I67hq0sDpBE2qn0nOkVK1) | 3:48 | 2020-08-07 | 2022-08-31 |
+| [Der Kommissar](https://open.spotify.com/track/3TBRJsLCcwroEkA3tD4u2N) | [Falco](https://open.spotify.com/artist/0hLd40hVpRDGENe4KGZLnW) | [Einzelhaft](https://open.spotify.com/album/4713DwyqNIrkyj17Q5Rsde) | 3:52 | 2022-06-10 |  |
 | [Doctor! Doctor! \(12" Extended Mix\) \- Extended Version](https://open.spotify.com/track/2baOM44WjfFGKTC1PecnDS) | [Thompson Twins](https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn) | [Dance Vault Remixes](https://open.spotify.com/album/2ixmiR5clA86tVD3pWVlyT) | 7:53 | 2020-08-07 | 2022-07-24 |
 | [Dolce Vita](https://open.spotify.com/track/2mRgBTwCtP7zdtzQWjkSN1) | [Ryan Paris](https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC) | [ZYX Italo Disco Collection](https://open.spotify.com/album/6sbpamlKLWPBUVLCOwxvjk) | 7:31 | 2020-08-07 | 2022-07-29 |
 | [Dolce Vita](https://open.spotify.com/track/6AsF1pBjFMIEMXuA8JgRag) | [Ryan Paris](https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC) | [ZYX Italo Disco Collection](https://open.spotify.com/album/58tXa8CpjYSGAJpUEhgKsb) | 7:31 | 2022-06-10 |  |

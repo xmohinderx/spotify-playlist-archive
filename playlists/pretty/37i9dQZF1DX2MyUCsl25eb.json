@@ -1,12 +1,12 @@
 {
   "description": "Easy feels on your way to work, or wherever you're commuting to this morning.",
-  "num_followers": 969626,
+  "num_followers": 969608,
   "original_name": "Morning Commute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMDI5MTUwM2U1Y2Y3NTQ1MGJhZTM1ZGZjYzc0ZTRiNjBj",
+  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMGE4NzdkZDk4MDMwMTdjZGE1ODRkODhhYTE5ZjMwOGEz",
   "tracks": [
     {
       "added_at": "2022-08-26 04:02:00",
@@ -309,24 +309,20 @@
       "url": "https://open.spotify.com/track/48USW4aYqrylYWJmFPbC8A"
     },
     {
-      "added_at": "2022-07-15 04:01:00",
+      "added_at": "2021-08-04 17:54:39",
       "album": {
-        "name": "Sunshine (feat. Foushe\u00e9)",
-        "url": "https://open.spotify.com/album/7gZSlFN7JLTjoBMEmApXHk"
+        "name": "dancing in the kitchen",
+        "url": "https://open.spotify.com/album/3fHkjpHZjohpdtiJJdVtez"
       },
       "artists": [
         {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        },
-        {
-          "name": "Foushe\u00e9",
-          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
         }
       ],
-      "duration_ms": 293426,
-      "name": "Sunshine (feat. Foushe\u00e9)",
-      "url": "https://open.spotify.com/track/0mRbKcvmbbUtfFyfeFHCJa"
+      "duration_ms": 208599,
+      "name": "dancing in the kitchen",
+      "url": "https://open.spotify.com/track/0ohcCrxZkBfFbkuRPOZQZX"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -345,20 +341,24 @@
       "url": "https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK"
     },
     {
-      "added_at": "2021-08-04 17:54:39",
+      "added_at": "2022-07-15 04:01:00",
       "album": {
-        "name": "dancing in the kitchen",
-        "url": "https://open.spotify.com/album/3fHkjpHZjohpdtiJJdVtez"
+        "name": "Sunshine (feat. Foushe\u00e9)",
+        "url": "https://open.spotify.com/album/7gZSlFN7JLTjoBMEmApXHk"
       },
       "artists": [
         {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        },
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
         }
       ],
-      "duration_ms": 208599,
-      "name": "dancing in the kitchen",
-      "url": "https://open.spotify.com/track/0ohcCrxZkBfFbkuRPOZQZX"
+      "duration_ms": 293426,
+      "name": "Sunshine (feat. Foushe\u00e9)",
+      "url": "https://open.spotify.com/track/0mRbKcvmbbUtfFyfeFHCJa"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -397,22 +397,6 @@
       "url": "https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1"
     },
     {
-      "added_at": "2022-05-20 04:01:00",
-      "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/2i4vxgeB2Sn97KeBs2vYtO"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 204967,
-      "name": "Yours",
-      "url": "https://open.spotify.com/track/7BpqydHSxMviDR0DNTne6J"
-    },
-    {
       "added_at": "2021-08-04 17:54:39",
       "album": {
         "name": "Sob Rock",
@@ -427,6 +411,22 @@
       "duration_ms": 187306,
       "name": "Last Train Home",
       "url": "https://open.spotify.com/track/0tgBtQ0ISnMQOKorrN9HLX"
+    },
+    {
+      "added_at": "2022-05-20 04:01:00",
+      "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/2i4vxgeB2Sn97KeBs2vYtO"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 204967,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/7BpqydHSxMviDR0DNTne6J"
     },
     {
       "added_at": "2021-08-04 17:54:39",
@@ -477,22 +477,6 @@
       "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
     },
     {
-      "added_at": "2021-08-04 17:54:39",
-      "album": {
-        "name": "Black Pumas",
-        "url": "https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe"
-      },
-      "artists": [
-        {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
-        }
-      ],
-      "duration_ms": 246586,
-      "name": "Colors",
-      "url": "https://open.spotify.com/track/6d4FWjx72iuRWzn1HwywLK"
-    },
-    {
       "added_at": "2022-08-19 04:02:00",
       "album": {
         "name": "Good Enough",
@@ -507,6 +491,22 @@
       "duration_ms": 221377,
       "name": "Good Enough",
       "url": "https://open.spotify.com/track/5fuNhRavX030PFZ42Am6Vn"
+    },
+    {
+      "added_at": "2021-08-04 17:54:39",
+      "album": {
+        "name": "Black Pumas",
+        "url": "https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "duration_ms": 246586,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/6d4FWjx72iuRWzn1HwywLK"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -621,20 +621,20 @@
       "url": "https://open.spotify.com/track/2jv3f5GKP8ibGI0kvSQJc2"
     },
     {
-      "added_at": "2022-07-01 04:02:00",
+      "added_at": "2021-08-05 16:18:55",
       "album": {
-        "name": "Vicious",
-        "url": "https://open.spotify.com/album/7p3M1cRTouWTpmBDhlEAKS"
+        "name": "A Seat at the Table",
+        "url": "https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM"
       },
       "artists": [
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "Solange",
+          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
         }
       ],
-      "duration_ms": 149890,
-      "name": "Vicious",
-      "url": "https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh"
+      "duration_ms": 250973,
+      "name": "Cranes in the Sky",
+      "url": "https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe"
     },
     {
       "added_at": "2021-09-03 04:01:00",
@@ -653,22 +653,6 @@
       "url": "https://open.spotify.com/track/3zpGIFghtnVlwMXWyKW474"
     },
     {
-      "added_at": "2021-08-05 16:18:55",
-      "album": {
-        "name": "A Seat at the Table",
-        "url": "https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM"
-      },
-      "artists": [
-        {
-          "name": "Solange",
-          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
-        }
-      ],
-      "duration_ms": 250973,
-      "name": "Cranes in the Sky",
-      "url": "https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe"
-    },
-    {
       "added_at": "2021-11-19 05:01:00",
       "album": {
         "name": "BRIGHTSIDE",
@@ -685,20 +669,20 @@
       "url": "https://open.spotify.com/track/0Hu1ylV8WuaLcLclixNgTV"
     },
     {
-      "added_at": "2022-07-29 04:01:00",
+      "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Baby Why",
-        "url": "https://open.spotify.com/album/0zOk2HI3PFMENdCrYXc3gu"
+        "name": "Vicious",
+        "url": "https://open.spotify.com/album/7p3M1cRTouWTpmBDhlEAKS"
       },
       "artists": [
         {
-          "name": "Sarah Cothran",
-          "url": "https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G"
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 164533,
-      "name": "Baby Why",
-      "url": "https://open.spotify.com/track/7qLUUHpvOezSnNERh4IRPx"
+      "duration_ms": 149890,
+      "name": "Vicious",
+      "url": "https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh"
     },
     {
       "added_at": "2021-08-04 17:54:39",
@@ -715,6 +699,22 @@
       "duration_ms": 220891,
       "name": "September",
       "url": "https://open.spotify.com/track/0exZ0YogJPbjGzblpcZaw7"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Baby Why",
+        "url": "https://open.spotify.com/album/0zOk2HI3PFMENdCrYXc3gu"
+      },
+      "artists": [
+        {
+          "name": "Sarah Cothran",
+          "url": "https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G"
+        }
+      ],
+      "duration_ms": 164533,
+      "name": "Baby Why",
+      "url": "https://open.spotify.com/track/7qLUUHpvOezSnNERh4IRPx"
     },
     {
       "added_at": "2022-04-08 04:01:00",
@@ -757,38 +757,6 @@
       "url": "https://open.spotify.com/track/5m9OR6G4lNt9Da6dy1xpHx"
     },
     {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Rooftops",
-        "url": "https://open.spotify.com/album/60j4yeYZl6vPOcDGtWIxVc"
-      },
-      "artists": [
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        }
-      ],
-      "duration_ms": 180248,
-      "name": "Rooftops",
-      "url": "https://open.spotify.com/track/0M8LvMw5ARqPvBGALIBLoM"
-    },
-    {
-      "added_at": "2022-04-01 04:02:00",
-      "album": {
-        "name": "Like All My Friends",
-        "url": "https://open.spotify.com/album/41cZLPaKv1sqOsLdbeGGoq"
-      },
-      "artists": [
-        {
-          "name": "Francis Karel",
-          "url": "https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6"
-        }
-      ],
-      "duration_ms": 187918,
-      "name": "Like All My Friends",
-      "url": "https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo"
-    },
-    {
       "added_at": "2022-03-11 05:02:00",
       "album": {
         "name": "Thinking 'Bout Love",
@@ -807,6 +775,38 @@
       "duration_ms": 184200,
       "name": "Thinking 'Bout Love",
       "url": "https://open.spotify.com/track/0YHH3qK8Ntqxcc2GFkRrPh"
+    },
+    {
+      "added_at": "2022-04-01 04:02:00",
+      "album": {
+        "name": "Like All My Friends",
+        "url": "https://open.spotify.com/album/41cZLPaKv1sqOsLdbeGGoq"
+      },
+      "artists": [
+        {
+          "name": "Francis Karel",
+          "url": "https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6"
+        }
+      ],
+      "duration_ms": 187918,
+      "name": "Like All My Friends",
+      "url": "https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Rooftops",
+        "url": "https://open.spotify.com/album/60j4yeYZl6vPOcDGtWIxVc"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "duration_ms": 180248,
+      "name": "Rooftops",
+      "url": "https://open.spotify.com/track/0M8LvMw5ARqPvBGALIBLoM"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -1141,20 +1141,20 @@
       "url": "https://open.spotify.com/track/7rgvhF2a3WjRkRtx2lndyc"
     },
     {
-      "added_at": "2022-03-18 05:00:00",
+      "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "Fat Funny Friend (sadder)",
-        "url": "https://open.spotify.com/album/3PJGfcK8Z3SYQltnyBT0tt"
+        "name": "getting into",
+        "url": "https://open.spotify.com/album/6EJSIvZH0UbqEzuhyxnnC3"
       },
       "artists": [
         {
-          "name": "Maddie Zahm",
-          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
+          "name": "Ashley Cooke",
+          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
         }
       ],
-      "duration_ms": 202319,
-      "name": "Fat Funny Friend (sadder)",
-      "url": "https://open.spotify.com/track/21O2UVKExn54RKWfk1xF4E"
+      "duration_ms": 169629,
+      "name": "getting into",
+      "url": "https://open.spotify.com/track/0tabwXMEh3t7MkeKa95oIp"
     },
     {
       "added_at": "2021-08-04 17:54:39",
@@ -1173,20 +1173,20 @@
       "url": "https://open.spotify.com/track/3mMduiD8yb4IaS5tZKqSZy"
     },
     {
-      "added_at": "2022-08-12 04:02:00",
+      "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "getting into",
-        "url": "https://open.spotify.com/album/6EJSIvZH0UbqEzuhyxnnC3"
+        "name": "Fat Funny Friend (sadder)",
+        "url": "https://open.spotify.com/album/3PJGfcK8Z3SYQltnyBT0tt"
       },
       "artists": [
         {
-          "name": "Ashley Cooke",
-          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
+          "name": "Maddie Zahm",
+          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
         }
       ],
-      "duration_ms": 169629,
-      "name": "getting into",
-      "url": "https://open.spotify.com/track/0tabwXMEh3t7MkeKa95oIp"
+      "duration_ms": 202319,
+      "name": "Fat Funny Friend (sadder)",
+      "url": "https://open.spotify.com/track/21O2UVKExn54RKWfk1xF4E"
     },
     {
       "added_at": "2022-06-24 04:02:00",

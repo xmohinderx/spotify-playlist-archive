@@ -4,7 +4,7 @@
 
 > Positive piano music.
 
-153 songs - 6 hr 21 min - [published](https://open.spotify.com/playlist/1nnM2QjOXgGnhPNCevwIA6)
+157 songs - 6 hr 33 min - [published](https://open.spotify.com/playlist/1nnM2QjOXgGnhPNCevwIA6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Free](https://open.spotify.com/track/4CCLD3LQRQovRtC2F8vqNu) | [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT) | [Free](https://open.spotify.com/album/5fR72sTVjsLO15gNq7K4JH) | 2:18 | 2022-07-20 |  |
 | [Fristad](https://open.spotify.com/track/4G5Zl5CAe63eqW5XrAq9w2) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Fristad](https://open.spotify.com/album/5t8CKlRIPsIXa5QITQRjKn) | 2:38 | 2021-12-14 |  |
 | [Frühlingsbach](https://open.spotify.com/track/5q3d5I3rMvfKAuyDvmBwwe) | [Pontiver Bogross](https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw) | [Frühlingsbach](https://open.spotify.com/album/08s8yCYnuv2L21WxgomVTb) | 2:51 | 2021-12-14 |  |
+| [Girasole](https://open.spotify.com/track/2HsdXI21r6mfT7GOA2PzGb) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Girasole](https://open.spotify.com/album/6D63OsGo4i9O0wZ4h15Eoa) | 2:41 | 2022-08-30 |  |
 | [Grace](https://open.spotify.com/track/3kCv0qog8yLPc5P262zMOi) | [Carl Stark Willgold](https://open.spotify.com/artist/6NlWW71ojh1uY2qoQorYr9) | [Grace](https://open.spotify.com/album/3udJn7VqPSEv07WhZJ9x1P) | 2:15 | 2021-12-14 | 2022-04-29 |
 | [Gran Separado](https://open.spotify.com/track/6E0A1z9LAekBr97GRRlQ4p) | [Leonid Gautier](https://open.spotify.com/artist/1PG2CsJ35TSdcLarWqxGdu) | [Gran Separado](https://open.spotify.com/album/5MAFv5FqwSv5iNtmsInAbc) | 3:41 | 2021-12-14 | 2022-07-21 |
 | [Gratitude](https://open.spotify.com/track/05RikarvGDzw4HktIAxxKR) | [HILLEVI](https://open.spotify.com/artist/7602awgZjH5sJDrf8qlwZ6) | [Gratitude](https://open.spotify.com/album/2gZdEJzgzP0PYSso7gILsX) | 2:13 | 2021-12-14 |  |
@@ -65,6 +66,7 @@
 | [Inner Peace](https://open.spotify.com/track/4145JIRFoYOykXXnVQpz3F) | [Lianne Steeman](https://open.spotify.com/artist/3U7x7KLCqxl4vE0QC3oQl2) | [Inner Peace](https://open.spotify.com/album/3VwdiiuImq5VJ6mMhlUWBg) | 2:36 | 2022-07-20 |  |
 | [Interstellar Seasons](https://open.spotify.com/track/7m6PhceApKOx7Z2hFM4fIX) | [Thalia Havenstein](https://open.spotify.com/artist/2SNA9lbI3oRV7mtnBTNEs7) | [Interstellar Seasons](https://open.spotify.com/album/3m11zDc4En223CSPDiw5cA) | 2:31 | 2021-12-14 |  |
 | [Island](https://open.spotify.com/track/2qglfm0H0hUuL4SwQHtuWj) | [Dean Caplan](https://open.spotify.com/artist/5S8R73SrnsbicfhME9Ix5q) | [Island](https://open.spotify.com/album/6Tv48n5bgrkcAZNmtG8YYe) | 2:27 | 2021-12-14 |  |
+| [Jeunesse du printemps](https://open.spotify.com/track/7aHWyb1G3SiRMXCMPkPo26) | [Alicia West](https://open.spotify.com/artist/4rY1r047Kp9NhePRYln96V) | [Jeunesse du printemps](https://open.spotify.com/album/2NWDEBEAK8JnESZDfykIy7) | 2:24 | 2022-08-30 |  |
 | [Kiriume](https://open.spotify.com/track/6VaWHjTTcKiPjWEkejHkMR) | [Arden Forest](https://open.spotify.com/artist/3LUa5res2UmvZ04kvlPMc7) | [Kiriume](https://open.spotify.com/album/63qOqv2FOkfpIUs2SKEuH6) | 2:24 | 2021-12-14 |  |
 | [Kleiner Schmetterling](https://open.spotify.com/track/7v4XLVSgxRCj8yorbZ2INL) | [David Fenger](https://open.spotify.com/artist/5m6XLwqI3BUA5zkFsxdKrS) | [Kleiner Schmetterling](https://open.spotify.com/album/4ROfZp4Tk7ygTIcixATZ95) | 3:35 | 2022-04-04 |  |
 | [L'estétique](https://open.spotify.com/track/7jTY0nAzuv2Gm3Y7MCQR5Z) | [Elena Miguel](https://open.spotify.com/artist/5gK5I1IIdNR5gZNGhYuJLD) | [L'estétique](https://open.spotify.com/album/6nDRfDYFbnuhstYE9OBjTO) | 1:59 | 2021-12-14 |  |
@@ -80,6 +82,7 @@
 | [Lucie](https://open.spotify.com/track/5ccHob3neg5ciFjZpwSLif) | [Wings for Louise](https://open.spotify.com/artist/1dGyneCVpOnWfd9eCPGeMj) | [Lights, Slow Places](https://open.spotify.com/album/0Qf0Gkf8HW6LRdfmEy7jVR) | 2:17 | 2021-12-14 |  |
 | [Marble Falls](https://open.spotify.com/track/2spz2RWKqY4W15BgrooCzY) | [Ray Hutchcraft](https://open.spotify.com/artist/1COhhQQfq4nVKDEBi3JU7R) | [Marble Falls](https://open.spotify.com/album/5mVyUJpMYGQjBHdFtL2Ky7) | 2:21 | 2021-12-14 | 2022-04-29 |
 | [Memoirs](https://open.spotify.com/track/0YF4Mt2ogoa0LmjVAtuWX0) | [Affinity88](https://open.spotify.com/artist/1TtjuHoQlVdbpNsyR6S8bw) | [Memoirs](https://open.spotify.com/album/2EsHsEfS3J41jWl61q12yt) | 2:07 | 2022-04-28 |  |
+| [Mistral](https://open.spotify.com/track/592I7fjtb5nNIFiI6UphGw) | [DeLange](https://open.spotify.com/artist/7HQO1jUh000BYg1FEeV6Wa) | [Mistral](https://open.spotify.com/album/2PzlydU3HyzJ7nWMXRlTTW) | 5:03 | 2022-08-30 |  |
 | [More than Close](https://open.spotify.com/track/4mnfRzyz2dafyBaXBLZle2) | [Oneke](https://open.spotify.com/artist/2QXAgvXks43Taidr1eV3lg) | [More than Close](https://open.spotify.com/album/13W7Bh5rL1jZzAbnONKKwq) | 2:42 | 2021-12-14 |  |
 | [Morgensol](https://open.spotify.com/track/6aJcjGsNvyivFBeBaigFXQ) | [Bolethe Kristensen](https://open.spotify.com/artist/5FdY1HR5TdShBfxywCliMI) | [Morgensol](https://open.spotify.com/album/1CiembCAvOPBFHRbZe8cLk) | 1:45 | 2021-12-14 | 2022-04-05 |
 | [Mystique](https://open.spotify.com/track/47u0q4Z7iALJXli6pkcnvA) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [Mystique](https://open.spotify.com/album/3XDrOM2hdwuRYvqlmTQFvL) | 2:30 | 2022-03-03 |  |
@@ -114,6 +117,7 @@
 | [Satin Night](https://open.spotify.com/track/6FDLRVWrSK9eHkg1sMF8Hl) | [Monty Reiss](https://open.spotify.com/artist/3Tha6cubSHSaKYITdBFxwQ) | [Light Textures](https://open.spotify.com/album/7KPsPPlXsItGDbkph50uYx) | 2:20 | 2021-12-14 | 2022-07-21 |
 | [schemering](https://open.spotify.com/track/0Dp0J1AvJ3mQEE0zSiRbIG) | [Jaidy Thissen](https://open.spotify.com/artist/1W2V4bgvEbn1I8BK8KOcHT) | [schemering](https://open.spotify.com/album/1wIbm0IUexXCSFVCnWpMpq) | 2:04 | 2021-12-14 |  |
 | [Schouderklopje](https://open.spotify.com/track/75lSZRCyAUovkaOe3r2cdg) | [Bádji](https://open.spotify.com/artist/45BoSxjlYeE9ApOqoiWkNC) | [Schouderklopje](https://open.spotify.com/album/5FXrD9YWeB5uw3lROmynq0) | 2:26 | 2021-12-14 | 2022-04-29 |
+| [Seashells](https://open.spotify.com/track/6BW4HpfOcd2OhezoeiFvOt) | [Becky Ainge](https://open.spotify.com/artist/0bJuAVWEBon60FPGGtMobF) | [Seashells](https://open.spotify.com/album/1MmQPHEhgMiQllbjkmiM3u) | 1:17 | 2022-08-30 |  |
 | [Seeds Of Life](https://open.spotify.com/track/5SGDHySVUTpk4fdjRvYGqB) | [Aestivum](https://open.spotify.com/artist/3QHuI31fQbzUBIVq3uxYF8) | [Seeds Of Life](https://open.spotify.com/album/0bT0nOgO2hMsa4smAlxdIu) | 2:07 | 2021-12-14 |  |
 | [Sehnsucht](https://open.spotify.com/track/0RHryrCt4Ocibra3gYkF7v) | [Emma Hoffman](https://open.spotify.com/artist/0Ebn8VPkWUu1WsBPP1WwLl) | [Sehnsucht](https://open.spotify.com/album/5L6OxmJ5Ji42HSZSqoKUhl) | 2:11 | 2021-12-14 |  |
 | [Shu's Sonata](https://open.spotify.com/track/2KOxgVJN5IGm8Of4IARigO) | [Mayumi Sasaki](https://open.spotify.com/artist/3A4RidZHkdgr2FEKZnjnmd) | [Shu's Sonata](https://open.spotify.com/album/16yTf06rnFkS8y0uM6nWPh) | 2:31 | 2022-04-28 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
-  "num_followers": 73530,
+  "num_followers": 73501,
   "original_name": "Good People Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5OTE5MjEyMCwwMDAwMDAwMGUwNmQyM2QwMzFkMGQzYzJmODE4MmNmNTM1N2FjYWY1",
+  "snapshot_id": "MTU5OTE5MjEyMCwwMDAwMDAwMDEzZDgwOGY0ZTM4MzVjM2VkMzkwMjFiZWMyNzA3N2Y1",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Walk into a Storm",
-        "url": "https://open.spotify.com/album/74FJWhrNj4yi9NoXzIioUZ"
-      },
-      "artists": [
-        {
-          "name": "The Lone Bellow",
-          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
-        }
-      ],
-      "duration_ms": 197120,
-      "name": "Time's Always Leaving",
-      "url": "https://open.spotify.com/track/7e5k4ucRMRHT9MEJh6PTxI"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/6UQ4DtMNWgxw6ufVxjdXHF"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 297506,
       "name": "Harmony Hall",
       "url": "https://open.spotify.com/track/2uoITMIoM5gCEpt3JucVmF"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Walk into a Storm",
+        "url": "https://open.spotify.com/album/74FJWhrNj4yi9NoXzIioUZ"
+      },
+      "artists": [
+        {
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+        }
+      ],
+      "duration_ms": 197120,
+      "name": "Time's Always Leaving",
+      "url": "https://open.spotify.com/track/7e5k4ucRMRHT9MEJh6PTxI"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "THRESHOLDS",
-        "url": "https://open.spotify.com/album/5LBLcdPMnr1mwBRldKb3vs"
-      },
-      "artists": [
-        {
-          "name": "Mike Edel",
-          "url": "https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI"
-        }
-      ],
-      "duration_ms": 211880,
-      "name": "Go with You",
-      "url": "https://open.spotify.com/track/4QVB1ZS4a15oz6md6YiSZV"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/3iGGESom06TuNUHu6xIQJd"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 201487,
       "name": "I Love It",
       "url": "https://open.spotify.com/track/5RE1GkL0Zt9Soasbt1R1xx"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "THRESHOLDS",
+        "url": "https://open.spotify.com/album/5LBLcdPMnr1mwBRldKb3vs"
+      },
+      "artists": [
+        {
+          "name": "Mike Edel",
+          "url": "https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI"
+        }
+      ],
+      "duration_ms": 211880,
+      "name": "Go with You",
+      "url": "https://open.spotify.com/track/4QVB1ZS4a15oz6md6YiSZV"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Autumn Love",
-        "url": "https://open.spotify.com/album/677rERahjwbsZZQNrg1tN4"
-      },
-      "artists": [
-        {
-          "name": "Tyson Motsenbocker",
-          "url": "https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u"
-        }
-      ],
-      "duration_ms": 295120,
-      "name": "Autumn Love",
-      "url": "https://open.spotify.com/track/2zzM0GO6lGiy4mXDZ7eEca"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "God Who Sees Me",
         "url": "https://open.spotify.com/album/0kaaq4b14mpk8kl4H0OUFE"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 240000,
       "name": "God Who Sees Me",
       "url": "https://open.spotify.com/track/25NALshm4GZZkXd0gFmCLL"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Autumn Love",
+        "url": "https://open.spotify.com/album/677rERahjwbsZZQNrg1tN4"
+      },
+      "artists": [
+        {
+          "name": "Tyson Motsenbocker",
+          "url": "https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u"
+        }
+      ],
+      "duration_ms": 295120,
+      "name": "Autumn Love",
+      "url": "https://open.spotify.com/track/2zzM0GO6lGiy4mXDZ7eEca"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Free Like a Broken Heart (Acoustic)",
-        "url": "https://open.spotify.com/album/6ehpRVe1W04hujIxUj4EDD"
+        "name": "This Is No Burial",
+        "url": "https://open.spotify.com/album/0elstO4HWsES7meWd8Y019"
       },
       "artists": [
         {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+          "name": "Andie Elise",
+          "url": "https://open.spotify.com/artist/6MFwrVbS7GP9wVtvNtfGy2"
         }
       ],
-      "duration_ms": 213653,
-      "name": "Free Like a Broken Heart (Acoustic)",
-      "url": "https://open.spotify.com/track/0vb6mwKc6QLvC0jOnrmQEy"
+      "duration_ms": 234632,
+      "name": "This Is No Burial",
+      "url": "https://open.spotify.com/track/68yKw3WXrzKu8AwuLZ3Kt2"
     }
   ],
   "unique_name": "Good People Good Music",

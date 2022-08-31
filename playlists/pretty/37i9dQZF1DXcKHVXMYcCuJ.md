@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 
 > Favorite rock and gems.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,636 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,617 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,14 +14,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 | 4 | [The Night I Drove Alone](https://open.spotify.com/track/5iZw5AzGiQx5rmmocWBFOz) | [Citizen](https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor) | [Youth](https://open.spotify.com/album/6QDNTEgCBoGd6zaKZ19vNC) | 2:13 |
 | 5 | [Jesus Stole My Girlfriend](https://open.spotify.com/track/5p6GEo6wrwLpicbGyNH1A4) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho](https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0) | 2:57 |
 | 6 | [Colorblind](https://open.spotify.com/track/4jhbBCHWjQqWD4cifyuAcA) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Feel Something](https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi) | 3:40 |
-| 7 | [Reckless Tongue](https://open.spotify.com/track/2JG9Gdo54L72gepntVPZQ4) | [Airways](https://open.spotify.com/artist/5fRpvt0RU5UL6YwQekpofE) | [Reckless Tongue](https://open.spotify.com/album/1IA50NRu9M8eJFPOp0iyV8) | 2:58 |
-| 8 | [Stars](https://open.spotify.com/track/6lQE6LF3MU63Z6VyhPxaV3) | [Hum](https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX) | [You'd Prefer An Astronaut](https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o) | 5:09 |
+| 7 | [Stars](https://open.spotify.com/track/6lQE6LF3MU63Z6VyhPxaV3) | [Hum](https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX) | [You'd Prefer An Astronaut](https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o) | 5:09 |
+| 8 | [Reckless Tongue](https://open.spotify.com/track/2JG9Gdo54L72gepntVPZQ4) | [Airways](https://open.spotify.com/artist/5fRpvt0RU5UL6YwQekpofE) | [Reckless Tongue](https://open.spotify.com/album/1IA50NRu9M8eJFPOp0iyV8) | 2:58 |
 | 9 | [Millennial](https://open.spotify.com/track/6nn3SKnENmkTn7KC44MgHx) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Millennial](https://open.spotify.com/album/7jXSErmjydESDXLDVraNhp) | 1:46 |
 | 10 | [Encore](https://open.spotify.com/track/4LdImt7hg85uPpUOPKlLAy) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balance](https://open.spotify.com/album/0eELSmJrZpzOKfdO80nJ9r) | 2:45 |
 | 11 | [Leaving Home](https://open.spotify.com/track/3OtIgLTHpPYez3WmDN2iYZ) | [Jebediah](https://open.spotify.com/artist/6L9bfTvOEA9BOJEIBhU4ln) | [Slightly Odway](https://open.spotify.com/album/7LZLRjjAvM2xXdYbVHoPh3) | 3:01 |
 | 12 | [Come Back](https://open.spotify.com/track/6FIJGWyovgbmDkjMp6a5x7) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [One By One \(Expanded Edition\)](https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx) | 7:47 |
-| 13 | [Your Deep Rest](https://open.spotify.com/track/5wwbe5wtc4pd9RDlFNXeFg) | [The Hotelier](https://open.spotify.com/artist/3kzNckjE5FzHQhe4pJiLKa) | [Home, Like Noplace Is There](https://open.spotify.com/album/37ohOvaKOQIEkFjTWfg9Q4) | 3:47 |
-| 14 | [Lift](https://open.spotify.com/track/7xztI3ccyUdEYqKYABkMQM) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer OKNOTOK 1997 2017](https://open.spotify.com/album/0tzfI6NFJqcJkWb23R3lRZ) | 4:06 |
+| 13 | [Lift](https://open.spotify.com/track/7xztI3ccyUdEYqKYABkMQM) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer OKNOTOK 1997 2017](https://open.spotify.com/album/0tzfI6NFJqcJkWb23R3lRZ) | 4:06 |
+| 14 | [Your Deep Rest](https://open.spotify.com/track/5wwbe5wtc4pd9RDlFNXeFg) | [The Hotelier](https://open.spotify.com/artist/3kzNckjE5FzHQhe4pJiLKa) | [Home, Like Noplace Is There](https://open.spotify.com/album/37ohOvaKOQIEkFjTWfg9Q4) | 3:47 |
 | 15 | [Where the City Meets the Sea](https://open.spotify.com/track/0uX6Y7mRIJjswGAcLg1oz9) | [The Getaway Plan](https://open.spotify.com/artist/5JmeloS88DjYXJulG7qgwF) | [Other Voices, Other Rooms](https://open.spotify.com/album/5HXLYD2Iu9rKlpTDMFyNWI) | 3:35 |
 | 16 | [Shining Light](https://open.spotify.com/track/4daraBRKwKGEA6dwom2DqG) | [Ash](https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE) | [Free All Angels](https://open.spotify.com/album/1V9N1HV53xOfL2ebYXxkOu) | 5:09 |
 | 17 | [Corpse Pose](https://open.spotify.com/track/1kDZq29NLE2RRZ9mp8LxVe) | [Unwound](https://open.spotify.com/artist/4YjpqCSDD7zwMQgPYJMqb0) | [Repetition](https://open.spotify.com/album/30GshgppFRvO0G5RNbleZn) | 3:05 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 | 44 | [Lay Low](https://open.spotify.com/track/6df7gORFCqOHTzWquFhLKW) | [Fiddlehead](https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa) | [Springtime and Blind](https://open.spotify.com/album/5pdYblYPTSzOOBWC2zm2Kw) | 2:46 |
 | 45 | [A Modern Way of Letting Go](https://open.spotify.com/track/1fplcK4BIi4k5hzp2DJ0kt) | [Idlewild](https://open.spotify.com/artist/1xdB9gS1NrKEYgZUEfoqIw) | [The Remote Part](https://open.spotify.com/album/7zsB506W3ZKxNpjy8iIf8q) | 2:23 |
 | 46 | [Note To Self](https://open.spotify.com/track/7CX4fbtJXUvlV7RNNqBOpO) | [Modern Baseball](https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8) | [Holy Ghost](https://open.spotify.com/album/0XvjdaLFvJ510mcmVXriw7) | 3:49 |
-| 47 | [Get Found](https://open.spotify.com/track/57QZeBhHRLiWhIpjHvKtND) | [Bass Drum of Death](https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY) | [Gb City](https://open.spotify.com/album/4VFt6gflVhBmesukoQ3Lt5) | 3:01 |
-| 48 | [Yeah, I Know](https://open.spotify.com/track/3b1neRAhz6hJ5cXfiBAKtB) | [Otherkin](https://open.spotify.com/artist/3KozMLMh8J2iR3jmwndtfX) | [The New Vice EP](https://open.spotify.com/album/6zXwvojHgkZOyU2FeRgz8U) | 3:33 |
+| 47 | [Yeah, I Know](https://open.spotify.com/track/3b1neRAhz6hJ5cXfiBAKtB) | [Otherkin](https://open.spotify.com/artist/3KozMLMh8J2iR3jmwndtfX) | [The New Vice EP](https://open.spotify.com/album/6zXwvojHgkZOyU2FeRgz8U) | 3:33 |
+| 48 | [Get Found](https://open.spotify.com/track/57QZeBhHRLiWhIpjHvKtND) | [Bass Drum of Death](https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY) | [Gb City](https://open.spotify.com/album/4VFt6gflVhBmesukoQ3Lt5) | 3:01 |
 | 49 | [Handwritten](https://open.spotify.com/track/2NUwA4xWCIxU3TVw9Un3nK) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo) | [Handwritten](https://open.spotify.com/album/1gsyJWUvwjnsNgYUxpOfLR) | 3:58 |
 | 50 | [Aquasun](https://open.spotify.com/track/0qUdIt9DmD5znk3aghrdy4) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Promise Everything \(Deluxe\)](https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP) | 3:42 |
 | 51 | [Why Won't You Admit](https://open.spotify.com/track/4tQpDC9blddFv7ZR4tEzWr) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Under Exit Lights](https://open.spotify.com/album/5c4rnFo67posi6omJUtu02) | 3:36 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 | 55 | [Always: Your Way](https://open.spotify.com/track/3CxozMCXI2BBT58uQYXK7q) | [My Vitriol](https://open.spotify.com/artist/75SjeTpGbsxZDpwPeVGERn) | [Finelines](https://open.spotify.com/album/4c2WjXHuK2BbKapEeAX10R) | 3:49 |
 | 56 | [Bloom](https://open.spotify.com/track/2AktemCmRjkEOU2ReNuP0r) | [Great Grandpa](https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6) | [Four of Arrows](https://open.spotify.com/album/6TWCsCUwO6UguJQiaDpr6A) | 4:22 |
 | 57 | [Ghost in the Mirror](https://open.spotify.com/track/2sxVGe2awPj7emt2btYnp1) | [Mallory Knox](https://open.spotify.com/artist/7bHTSvk96ULRLZPZr1SoCZ) | [Asymmetry \(Deluxe\)](https://open.spotify.com/album/1b6IlVlHRzbkcAWIpXaW37) | 3:36 |
-| 58 | [Driveway to Driveway](https://open.spotify.com/track/7Fcs7IELpYZi0zTQZdnTMS) | [Superchunk](https://open.spotify.com/artist/7lmde7T1WJPFwv1eR6melP) | [Foolish](https://open.spotify.com/album/0T2L6XRR1LrH1zLEzGaO0A) | 4:41 |
-| 59 | [Kick](https://open.spotify.com/track/1p9oPZDiNymGw12BWv7WK3) | [Spanish Love Songs](https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV) | [Brave Faces Everyone](https://open.spotify.com/album/7GP702lI6EeRJnruJPoznv) | 4:02 |
+| 58 | [Kick](https://open.spotify.com/track/1p9oPZDiNymGw12BWv7WK3) | [Spanish Love Songs](https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV) | [Brave Faces Everyone](https://open.spotify.com/album/7GP702lI6EeRJnruJPoznv) | 4:02 |
+| 59 | [Driveway to Driveway](https://open.spotify.com/track/7Fcs7IELpYZi0zTQZdnTMS) | [Superchunk](https://open.spotify.com/artist/7lmde7T1WJPFwv1eR6melP) | [Foolish](https://open.spotify.com/album/0T2L6XRR1LrH1zLEzGaO0A) | 4:41 |
 | 60 | [Why Bother?](https://open.spotify.com/track/4W3uLgQTUl4fXAIdAvFRzK) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton \- Deluxe Edition](https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz) | 2:06 |
 | 61 | [Follow](https://open.spotify.com/track/4osnZvjbd0nDYYLotiP4ps) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Coma Happy](https://open.spotify.com/album/6QhOK8ASSEafbqLRoifCnn) | 3:41 |
 | 62 | [The Big What If](https://open.spotify.com/track/5cnjSorGZUm4ytova9wQAn) | [Pulled Apart By Horses](https://open.spotify.com/artist/0AUkXuvc92Zd0E9qKbkfsy) | [The Haze](https://open.spotify.com/album/0lM0xW6y3TiB2GyBSZ545d) | 3:15 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 | 80 | [Narrow Mouth](https://open.spotify.com/track/2iyoZuHyuaaBGmLbl6eIEY) | [The Early November](https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi) | [Imbue](https://open.spotify.com/album/6NnNzBbQKK59S2x6KJzQjI) | 4:30 |
 | 81 | [Questions and Answers](https://open.spotify.com/track/6acLYdlH82V0GczGpIVuvi) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [The Vertigo of Bliss](https://open.spotify.com/album/5gFvzz68wze0kCwbkIwWeW) | 4:02 |
 | 82 | [Unreal Is Here](https://open.spotify.com/track/2cD2UxUf2DyO0Uu4WAH07a) | [Chavez](https://open.spotify.com/artist/0GXsDnyvpjRO46Cgv3w5KS) | [Ride The Fader](https://open.spotify.com/album/6TVssOdPDvNa1wtIUZyab2) | 2:31 |
-| 83 | [Cosmonauts](https://open.spotify.com/track/0IAF0KIM3Cnp7WhOVJfFuS) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Interiors](https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW) | 4:08 |
-| 84 | [Swallow](https://open.spotify.com/track/5zodPVnHmq8hOERLIDBmpC) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 3:50 |
+| 83 | [Swallow](https://open.spotify.com/track/5zodPVnHmq8hOERLIDBmpC) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 3:50 |
+| 84 | [Cosmonauts](https://open.spotify.com/track/0IAF0KIM3Cnp7WhOVJfFuS) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Interiors](https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW) | 4:08 |
 | 85 | [Be Your Man](https://open.spotify.com/track/4OE8lJeG82iSDhHo3reh1N) | [Demob Happy](https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI) | [Be Your Man](https://open.spotify.com/album/7vuZMf0cXrAKVVXAz6Gaq1) | 3:37 |
 | 86 | [Grey Flap](https://open.spotify.com/track/2sNc1BGA2hqnGLHLNfRHQO) | [Pist.On](https://open.spotify.com/artist/7i5SNZSnLm9J4QImRyS3Pr) | [Number One](https://open.spotify.com/album/1ebPLIDXDzTqLlRlizuZ8Z) | 3:57 |
 | 87 | [Smokescreen](https://open.spotify.com/track/0uZPyOmjILhz4FGREgec6j) | [Amusement Parks On Fire](https://open.spotify.com/artist/6l2cddhlFnBmaLiUM4TyTx) | [Amusement Parks On Fire](https://open.spotify.com/album/0RDF4hnIcT0xwpQhN15VP0) | 4:11 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 | 95 | [Afterthought](https://open.spotify.com/track/2rXsixFU3OcaBDl2tqEZj9) | [Dear Seattle](https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S) | [Dear Seattle](https://open.spotify.com/album/34Ir94UYwf78pBgdEtk6AL) | 4:20 |
 | 96 | [Trans Am Sunday](https://open.spotify.com/track/72pKKGbVrb8tk0jpf1OCsF) | [Hobosexual](https://open.spotify.com/artist/2iR3PsmigYfqj8EdkIwsJK) | [Monolith](https://open.spotify.com/album/4HQRSjBvCGeyKlxfVl5XyS) | 5:53 |
 | 97 | [Bloodsports](https://open.spotify.com/track/2zn3hrsi0nrTe42JJxMgC8) | [Drenge](https://open.spotify.com/artist/1bqX4oZFTWIQFk90AwKfnC) | [Drenge](https://open.spotify.com/album/0Wrn6T6l8C2zPtnuOUQtmB) | 2:32 |
-| 98 | [Tough Girl](https://open.spotify.com/track/12JsAoOHdBqGZgVES0OOoL) | [Open Hand](https://open.spotify.com/artist/5WFtLbVyCyRkHkwxePRrF9) | [You and Me](https://open.spotify.com/album/6FJ9moP5iouB28Z2JKtmbI) | 2:54 |
-| 99 | [Pull a Little Closer](https://open.spotify.com/track/0dP6zvd8GGgicv6bYnzBlR) | [Bleach](https://open.spotify.com/artist/6BKGabg962snvdMW6BywXW) | [Pull a Little Closer](https://open.spotify.com/album/4MNPxWdAlcLQWptuduqfDw) | 4:02 |
+| 98 | [Pull a Little Closer](https://open.spotify.com/track/0dP6zvd8GGgicv6bYnzBlR) | [Bleach](https://open.spotify.com/artist/6BKGabg962snvdMW6BywXW) | [Pull a Little Closer](https://open.spotify.com/album/4MNPxWdAlcLQWptuduqfDw) | 4:02 |
+| 99 | [Tough Girl](https://open.spotify.com/track/12JsAoOHdBqGZgVES0OOoL) | [Open Hand](https://open.spotify.com/artist/5WFtLbVyCyRkHkwxePRrF9) | [You and Me](https://open.spotify.com/album/6FJ9moP5iouB28Z2JKtmbI) | 2:54 |
 | 100 | [Kangaroo Pocket](https://open.spotify.com/track/0xDOL7sItKiKMw7hdyUwas) | [Rozwell Kid](https://open.spotify.com/artist/3g43Z25cVRJHFn8ph8cdO0) | [Too Shabby](https://open.spotify.com/album/6FmhJNymRTcWZKQnjhU897) | 4:30 |
 
-Snapshot ID: `MTY1NTk5NjAyNCwwMDAwMDAwMDQyODcxNTNjNWRkMjVmZWI0NTMzMTQ4ZDQ3YjQ5MzE5`
+Snapshot ID: `MTY1NTk5NjAyNCwwMDAwMDAwMDc5NWFlYjIyYmVlMGNlNWFkMzZmYjM2ZGVmNGZmZGYy`

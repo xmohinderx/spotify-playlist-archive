@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:1iwUuIOKYjV7SKIg27v4zi">Real Boston Richey</a>
 
-613 songs - 1 day 3 hr 44 min - [published](https://open.spotify.com/playlist/2WbWeZomiAM8yIPIZZMDJK)
+614 songs - 1 day 3 hr 47 min - [published](https://open.spotify.com/playlist/2WbWeZomiAM8yIPIZZMDJK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,8 @@
 | [For The Birds](https://open.spotify.com/track/3hFItPrdA76Aayvntz0wrI) | [Dee Watkins](https://open.spotify.com/artist/5cNn5kF2qKIOtBQJ2z4FM3) | [For The Birds](https://open.spotify.com/album/6nTXiHXc611qvitLz0FYvc) | 1:58 | 2022-06-24 | 2022-08-20 |
 | [For The Record](https://open.spotify.com/track/254OydHVwUHK2jIMhZToHm) | [BigKayBeezy](https://open.spotify.com/artist/4wpwsRGyik5kVa8fG37Q50), [Ron Suno](https://open.spotify.com/artist/3A63dHvKuavknOcvWVgZA9) | [For The Record](https://open.spotify.com/album/50D9YMxG2uRgCabduAeNOG) | 3:11 | 2021-11-19 | 2022-02-05 |
 | [Forever Been Steppin'](https://open.spotify.com/track/6D38sSnlEtRmH7H7yhvI47) | [Lil Eazzyy](https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b) | [Forever Been Steppin'](https://open.spotify.com/album/2fYOAoMAoSge8lWN0OydhA) | 3:17 | 2022-03-11 | 2022-04-29 |
-| [Freak Block Tales](https://open.spotify.com/track/07Zt48FGHUkljvK0gdB4Gz) | [Dwalk](https://open.spotify.com/artist/6eTtN1ArNtkXCPZJ8riM0T) | [The Biggest 6](https://open.spotify.com/album/3IfzYLYuf4ilq1zeBy6z9O) | 2:35 | 2022-08-19 |  |
+| [Freak Block Tales](https://open.spotify.com/track/3Oz4YqNsVLjiGaV37hrt7Y) | [Dwalk](https://open.spotify.com/artist/6eTtN1ArNtkXCPZJ8riM0T) | [The Biggest 6](https://open.spotify.com/album/1IyesdAqIGoe92UBLnFm0Z) | 2:35 | 2022-08-19 |  |
+| [Freak Block Tales](https://open.spotify.com/track/07Zt48FGHUkljvK0gdB4Gz) | [Dwalk](https://open.spotify.com/artist/6eTtN1ArNtkXCPZJ8riM0T) | [The Biggest 6](https://open.spotify.com/album/3IfzYLYuf4ilq1zeBy6z9O) | 2:35 | 2022-08-19 | 2022-08-31 |
 | [Free 1031](https://open.spotify.com/track/1SPOSlna6m6RAQFIoxeVXO) | [Eli Fross](https://open.spotify.com/artist/6Vy1VMVCyTgbcmA1iz0QFg) | [Free 1031](https://open.spotify.com/album/18Z70iFe6LiGLNJXS3Aq9T) | 2:02 | 2022-06-24 | 2022-07-23 |
 | [Free The Shiners](https://open.spotify.com/track/5NMWPokmUZIX1ySu7YLF74) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Free The Shiners](https://open.spotify.com/album/5SOJj0pfKKW1qjPqub2tLk) | 2:04 | 2022-04-08 | 2022-06-18 |
 | [Frozen](https://open.spotify.com/track/4TZxTK5bGS8dxjLTjcQsxx) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX) | [Frozen](https://open.spotify.com/album/0Qql7tnjwxJ4Lpmy8H3Uwl) | 2:45 | 2022-08-05 | 2022-08-20 |

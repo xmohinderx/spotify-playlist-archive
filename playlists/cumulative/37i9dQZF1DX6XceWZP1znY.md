@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-579 songs - 1 day 14 hr 55 min - [published](https://open.spotify.com/playlist/4H5YYTXfYVIPc6bncg5u8V)
+580 songs - 1 day 14 hr 58 min - [published](https://open.spotify.com/playlist/4H5YYTXfYVIPc6bncg5u8V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,7 @@
 | [ninelie](https://open.spotify.com/track/6kQ9Os7x5LJ2jLHb8VWKaa) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [Chelly](https://open.spotify.com/artist/7IYp1PwnGxaoNmljusPO8Z) | [Daydream](https://open.spotify.com/album/0rzOTrywE0mNybhErlmD5e) | 4:21 | 2022-06-07 | 2022-06-28 |
 | [No Continue](https://open.spotify.com/track/5UKABRz7YlRofkc5KsOx2A) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [No Continue](https://open.spotify.com/album/3o0M6nYy5OvhUmtk6m7Gmn) | 4:05 | 2022-06-07 | 2022-07-26 |
 | [NO MAN'S DAWN](https://open.spotify.com/track/3w7j5vtYOyNoB2hewUgn0G) | [前島麻由](https://open.spotify.com/artist/0M0v61x8lN3rDLbmTnlYBg) | [ENDING THEME FROM TV SERIES ”OVERLORD IV”](https://open.spotify.com/album/6fiyEepRkKNW1rRZLVgt0P) | 3:53 | 2022-08-11 |  |
-| [No Time to Cast Anchor](https://open.spotify.com/track/1fNDKKuErDdqMka5NhwkeF) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [No Time to Cast Anchor](https://open.spotify.com/album/6zeWOVv8Kt4iI5wqCR4eYt) | 3:12 | 2022-06-07 |  |
+| [No Time to Cast Anchor](https://open.spotify.com/track/1fNDKKuErDdqMka5NhwkeF) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [No Time to Cast Anchor](https://open.spotify.com/album/6zeWOVv8Kt4iI5wqCR4eYt) | 3:12 | 2022-06-07 | 2022-08-31 |
 | [No.1](https://open.spotify.com/track/3GIhgMadHu26VHLEeXviGD) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [No.1 \-Special Edition\-](https://open.spotify.com/album/4FHIrNlHnVl4VDLnkiYfno) | 3:52 | 2022-06-07 |  |
 | [Nocturne](https://open.spotify.com/track/6rIiTCNRFSNpFER8R1chAC) | [Hinano](https://open.spotify.com/artist/5YWTfW6V637AZqljGfrWoI) | [nocturne](https://open.spotify.com/album/5kVXzT1Mx2dgSrYnSMBhhc) | 4:29 | 2022-06-07 | 2022-07-25 |
 | [Oarana](https://open.spotify.com/track/645Wy9ReHHYARhJoaMggfu) | [春猿火](https://open.spotify.com/artist/39fp9WgXJxPo1pYxt96w6l) | [Oarana](https://open.spotify.com/album/5RB0XqYWlGM8LNZ0J1FGAW) | 4:13 | 2022-06-07 | 2022-07-28 |
@@ -336,7 +336,7 @@
 | [ここで息をして](https://open.spotify.com/track/1P1PgGMrzIVMju7TOqMGBy) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [ここで息をして](https://open.spotify.com/album/645lnQYZ88qwKJpKnY6bDc) | 3:36 | 2022-06-07 | 2022-07-29 |
 | [ここで生きてる](https://open.spotify.com/track/2vIWfDgMhBpQX6KyEIFMhk) | [MARY](https://open.spotify.com/artist/08EO45FsrKqyDaVHocLjug), [jon\-YAKITORY](https://open.spotify.com/artist/0XDvcwWavm2VcdiXwDKgvB) | [ここで生きてる](https://open.spotify.com/album/7tPIq5kHy7oiJGwTFz1EYJ) | 3:22 | 2022-06-07 | 2022-07-28 |
 | [この夢が醒めるまで](https://open.spotify.com/track/7i6gJOOf0oDDYW9xOyVjmN) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND), [Yoshida Brothers](https://open.spotify.com/artist/1C08PKH51P2fcJMrPOFRwI) | [この夢が醒めるまで](https://open.spotify.com/album/34JbQD8aevlVqawJdBkzHb) | 4:13 | 2022-06-07 | 2022-07-23 |
-| [さよならごっこ](https://open.spotify.com/track/7ha9B32izQ0Ni2RtSzm2C4) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [BOYCOTT](https://open.spotify.com/album/1PdHNXd6zUwYxcadffHHBX) | 4:32 | 2022-06-07 | 2022-08-26 |
+| [さよならごっこ](https://open.spotify.com/track/7ha9B32izQ0Ni2RtSzm2C4) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [BOYCOTT](https://open.spotify.com/album/1PdHNXd6zUwYxcadffHHBX) | 4:32 | 2022-06-07 |  |
 | [じゃあね、またね。](https://open.spotify.com/track/6hDhcQg11LxCk3rcaRlyb6) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [じゃあね、またね。](https://open.spotify.com/album/0YebkMmTNZYPMEvTPSv8RJ) | 4:05 | 2022-06-07 |  |
 | [その先の光へ](https://open.spotify.com/track/6vhlzDLaHOaENWsdwGCBCc) | [Akihito Okano](https://open.spotify.com/artist/1ioDAlx6i5snCxm2z9ZnUD) | [その先の光へ](https://open.spotify.com/album/1wlUyiLlOK5m7LWBhXxEuc) | 4:22 | 2022-06-07 | 2022-07-10 |
 | [とめどない潮騒に僕たちは何を歌うだろうか](https://open.spotify.com/track/1WODlTo859RluCHE88POd9) | [ARCANA PROJECT](https://open.spotify.com/artist/33nBmWfW7J3vL487uRL8Cz) | [とめどない潮騒に僕たちは何を歌うだろうか](https://open.spotify.com/album/5drbv8Z1yG9nPrh1wApxNI) | 3:51 | 2022-06-07 | 2022-07-25 |
@@ -389,7 +389,7 @@
 | [シャル・ウィ・ダンス?](https://open.spotify.com/track/3scQcXcg9nOfWVQDQTeDXF) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [シャル・ウィ・ダンス?](https://open.spotify.com/album/0bJE38pebBIRov35fJG5jZ) | 4:26 | 2022-08-11 |  |
 | [シルエット](https://open.spotify.com/track/1di1C0QI6Y92yZPYn6XYAZ) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [TIME](https://open.spotify.com/album/45z2ntx53Y0d42S9IpN6OH) | 4:00 | 2022-06-07 |  |
 | [シルエット](https://open.spotify.com/track/3vWRsBKvOpj8iITRh8ERlZ) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [TIME](https://open.spotify.com/album/3MFXQmlK8U6Zwe3GjNSoxN) | 4:00 | 2022-06-07 | 2022-07-29 |
-| [シルエット \(TOKYO MACHINE Remix\) \- SACRA BEATS Singles](https://open.spotify.com/track/3BsvhBG7BATLlLWJ4AYtP3) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd), [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [シルエット \(TOKYO MACHINE Remix\) \- SACRA BEATS Singles](https://open.spotify.com/album/3KbeCQpcHNBVFlod19mDVM) | 3:29 | 2022-06-07 |  |
+| [シルエット \(TOKYO MACHINE Remix\) \- SACRA BEATS Singles](https://open.spotify.com/track/3BsvhBG7BATLlLWJ4AYtP3) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd), [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [シルエット \(TOKYO MACHINE Remix\) \- SACRA BEATS Singles](https://open.spotify.com/album/3KbeCQpcHNBVFlod19mDVM) | 3:29 | 2022-06-07 | 2022-08-31 |
 | [シンクロ](https://open.spotify.com/track/7cTWh2qUXHH0M4DXC80Xyr) | [Cidergirl](https://open.spotify.com/artist/3hprFQEXS7glX1Jxxwv9Dn) | [SODA POP FANCLUB 3](https://open.spotify.com/album/2oKuzx4Ut0j1oQjMsJAq1d) | 4:11 | 2022-06-07 | 2022-07-25 |
 | [シンデレラ](https://open.spotify.com/track/6ilTR3RpLCAHDt3Z6YuQGx) | [Cidergirl](https://open.spotify.com/artist/3hprFQEXS7glX1Jxxwv9Dn) | [シンデレラ](https://open.spotify.com/album/1OqBXmqvKxd0nlL5v9sA7u) | 3:32 | 2022-06-07 |  |
 | [シンパシー](https://open.spotify.com/track/4YYrqU4gvSMIk58wT7IhIa) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [ヒカレイノチ](https://open.spotify.com/album/2lYrrG6Xcnq6aOrb1mtLEO) | 3:30 | 2022-06-07 | 2022-07-29 |
@@ -522,6 +522,7 @@
 | [永遠に光れ \(Everlasting Shine\)](https://open.spotify.com/track/3zLCX1TGMpsA67cW2pq6ut) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [DRAMA](https://open.spotify.com/album/74nwjBBoKHQOP6DDs71Zwf) | 3:11 | 2022-06-07 |  |
 | [永遠の不在証明](https://open.spotify.com/track/7FL5iSLdKcersBgDiwijis) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [永遠の不在証明](https://open.spotify.com/album/5y7E3hUWGNoY98C1TubePY) | 4:21 | 2022-06-07 |  |
 | [流星](https://open.spotify.com/track/08qU2grYIu0XldcJZ7jEOb) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [FRAGMENT \(Special Edition\)](https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO) | 4:12 | 2022-06-07 | 2022-08-12 |
+| [流線形メーデー](https://open.spotify.com/track/71DWte8P535ethaQrCfX3G) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [流線形メーデー](https://open.spotify.com/album/0e9Jjx1Ah3gI5RoUPOEvmi) | 3:11 | 2022-08-11 |  |
 | [海と真珠](https://open.spotify.com/track/4dDBdgmfZxoLE8SR41RH70) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [海と真珠](https://open.spotify.com/album/2b7R36JmXl2ajwIMnkjs67) | 4:40 | 2022-06-07 | 2022-07-28 |
 | [海の見える街 〜「魔女の宅急便」](https://open.spotify.com/track/6T9PZq7rjrjwXioQgOSeRi) | [Giovanni Mirabassi](https://open.spotify.com/artist/2mK36NvkRcFIKPyC9uL6C3) | [MITAKA CALLING \-三鷹の呼聲\-](https://open.spotify.com/album/4cQdSs6yXJtK8HynpeRcJO) | 5:28 | 2022-06-07 | 2022-07-27 |
 | [火炎](https://open.spotify.com/track/3ci0yvrzssec1bqDzMkXuu) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [火炎\(Full Edition\)](https://open.spotify.com/album/3cYIIURFYUIyn7UTsqCVzD) | 3:35 | 2022-06-07 | 2022-07-24 |

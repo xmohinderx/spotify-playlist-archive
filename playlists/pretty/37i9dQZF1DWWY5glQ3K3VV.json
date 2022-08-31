@@ -1,12 +1,12 @@
 {
   "description": "Canzoni rap per party fino al mattino! Cover: Rhove",
-  "num_followers": 58800,
+  "num_followers": 58889,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUxNzM0MiwwMDAwMDAwMGQzZDA0NmQ1ODRhYmI3MTc3NjAwODY1YWU2ZDdlZTk2",
+  "snapshot_id": "MTY2MTUxNzM0MiwwMDAwMDAwMDllMmEyODUwZWZkYTg1MWU0NDlhYTNjOTIyOGUyMDc4",
   "tracks": [
     {
       "added_at": "2022-08-26 12:35:42",
@@ -847,26 +847,6 @@
     {
       "added_at": "2022-08-26 12:35:42",
       "album": {
-        "name": "Famoso",
-        "url": "https://open.spotify.com/album/5fTgdXawyLC7oZEry7jGEk"
-      },
-      "artists": [
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 193554,
-      "name": "Baby (with J Balvin)",
-      "url": "https://open.spotify.com/track/3JCqB2HhpIPNNg1O4os8o5"
-    },
-    {
-      "added_at": "2022-08-26 12:35:42",
-      "album": {
         "name": "Glory Days EP",
         "url": "https://open.spotify.com/album/2rxe8Kwyd417YSYmSXs0CI"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 222968,
       "name": "Blueface (feat. Izi, Tedua)",
       "url": "https://open.spotify.com/track/2Ctj9DfXfh9kW3erTp907i"
+    },
+    {
+      "added_at": "2022-08-26 12:35:42",
+      "album": {
+        "name": "Famoso",
+        "url": "https://open.spotify.com/album/5fTgdXawyLC7oZEry7jGEk"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 193554,
+      "name": "Baby (with J Balvin)",
+      "url": "https://open.spotify.com/track/3JCqB2HhpIPNNg1O4os8o5"
     },
     {
       "added_at": "2022-08-26 12:35:42",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2022-08-26 12:35:42",
       "album": {
+        "name": "PLAYA",
+        "url": "https://open.spotify.com/album/4BooiX3rbdDNh6uzJUMfRE"
+      },
+      "artists": [
+        {
+          "name": "Zefe",
+          "url": "https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH"
+        }
+      ],
+      "duration_ms": 154926,
+      "name": "PLAYA",
+      "url": "https://open.spotify.com/track/39ngG6CdkMkBgESiXc0lOx"
+    },
+    {
+      "added_at": "2022-08-26 12:35:42",
+      "album": {
         "name": "SEVEN 7oo Mixtape",
         "url": "https://open.spotify.com/album/5oKyvhBZaVBPVWUxIhsLAG"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 178044,
       "name": "Dorado (feat. Sfera Ebbasta & Feid)",
       "url": "https://open.spotify.com/track/1kI7mZAziaRfBeAOraRW1i"
-    },
-    {
-      "added_at": "2022-08-26 12:35:42",
-      "album": {
-        "name": "PLAYA",
-        "url": "https://open.spotify.com/album/4BooiX3rbdDNh6uzJUMfRE"
-      },
-      "artists": [
-        {
-          "name": "Zefe",
-          "url": "https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH"
-        }
-      ],
-      "duration_ms": 154926,
-      "name": "PLAYA",
-      "url": "https://open.spotify.com/track/39ngG6CdkMkBgESiXc0lOx"
     },
     {
       "added_at": "2022-08-26 12:35:42",
@@ -1395,6 +1395,30 @@
     {
       "added_at": "2022-08-26 12:35:42",
       "album": {
+        "name": "CHE UOMO (feat. bbno$ & Nello Taver)",
+        "url": "https://open.spotify.com/album/6lc13FhHLuHIq7WNIRBcgz"
+      },
+      "artists": [
+        {
+          "name": "Tuzzo",
+          "url": "https://open.spotify.com/artist/528N5RTsLKjSxsHOB9AyWr"
+        },
+        {
+          "name": "Nello Taver",
+          "url": "https://open.spotify.com/artist/6JV9OrfLS1nkVkAYl0naok"
+        },
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 166406,
+      "name": "CHE UOMO (feat. bbno$ & Nello Taver)",
+      "url": "https://open.spotify.com/track/4hLdjsSdCWlXKNgKg3KyWa"
+    },
+    {
+      "added_at": "2022-08-26 12:35:42",
+      "album": {
         "name": "DNA",
         "url": "https://open.spotify.com/album/5XC9aklfsZpII3ybewZb2l"
       },
@@ -1431,30 +1455,6 @@
       "duration_ms": 200820,
       "name": "BIMBI PER STRADA (CHILDREN)",
       "url": "https://open.spotify.com/track/6KF78W66DcQ9m5YqR0r5Ig"
-    },
-    {
-      "added_at": "2022-08-26 12:35:42",
-      "album": {
-        "name": "CHE UOMO (feat. bbno$ & Nello Taver)",
-        "url": "https://open.spotify.com/album/6lc13FhHLuHIq7WNIRBcgz"
-      },
-      "artists": [
-        {
-          "name": "Tuzzo",
-          "url": "https://open.spotify.com/artist/528N5RTsLKjSxsHOB9AyWr"
-        },
-        {
-          "name": "Nello Taver",
-          "url": "https://open.spotify.com/artist/6JV9OrfLS1nkVkAYl0naok"
-        },
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        }
-      ],
-      "duration_ms": 166406,
-      "name": "CHE UOMO (feat. bbno$ & Nello Taver)",
-      "url": "https://open.spotify.com/track/4hLdjsSdCWlXKNgKg3KyWa"
     },
     {
       "added_at": "2022-08-26 12:35:42",

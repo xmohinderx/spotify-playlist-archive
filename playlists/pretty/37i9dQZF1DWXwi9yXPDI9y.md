@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 
 > Have a drink and relax to the jazz played in the background in the bar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,675 likes - 100 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,790 likes - 100 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 | 15 | [My Old Flame](https://open.spotify.com/track/4LDLidKf0DGFRVjYEp4K4h) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [The Art Of The Ballad](https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa) | 4:55 |
 | 16 | [I Get A Kick Out Of You](https://open.spotify.com/track/1NV8LlaC1InXaDQOcMBQTg) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Cole Porter Song Book](https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM) | 4:01 |
 | 17 | [Bounce Blues](https://open.spotify.com/track/0okDPCmxPLULCyLZM8fxI7) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [King Of The Tenors](https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v) | 4:31 |
-| 18 | [No Other Love](https://open.spotify.com/track/7lMqXEiOGnbeV67CE8g0D7) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw), [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [Starring Jo Stafford](https://open.spotify.com/album/4F7IiqL4ElX0lpUG8yQuZ9) | 3:01 |
-| 19 | [Stardust](https://open.spotify.com/track/2g1iBv7SXxiXX0IEG4lz2k) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Reunion With Chet Baker](https://open.spotify.com/album/25FnmQMWGTGiwTGK8IKFGs) | 4:46 |
+| 18 | [Stardust](https://open.spotify.com/track/2g1iBv7SXxiXX0IEG4lz2k) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Reunion With Chet Baker](https://open.spotify.com/album/25FnmQMWGTGiwTGK8IKFGs) | 4:46 |
+| 19 | [No Other Love](https://open.spotify.com/track/7lMqXEiOGnbeV67CE8g0D7) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw), [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [Starring Jo Stafford](https://open.spotify.com/album/4F7IiqL4ElX0lpUG8yQuZ9) | 3:01 |
 | 20 | [Mad About The Boy](https://open.spotify.com/track/3NkClracCPfY6IZohBqWuT) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [Free](https://open.spotify.com/album/5vVtjYoUtsC1Pp106Gnrec) | 7:16 |
 | 21 | [Tenderly](https://open.spotify.com/track/6TMoKdGcSIHjLfyzINFB5X) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [An Introduction To Sarah Vaughan](https://open.spotify.com/album/6luprPJCSNzTR0qGQOSlWE) | 2:31 |
 | 22 | [Satin Doll](https://open.spotify.com/track/5whP1p6A6Cbjqtbkp4ytFP) | [Lorez Alexandria](https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY) | [Alexandria The Great](https://open.spotify.com/album/0mr9wOHzf0Pygckr8Mk0Q9) | 2:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 | 99 | [Moonglow](https://open.spotify.com/track/6X5JwYOrUQzMY1rYVTVKik) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [The Hawk Relaxes](https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH) | 5:56 |
 | 100 | [There Is No Greater Love](https://open.spotify.com/track/3nVZEmGoRp4uId0LRTdcfm) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Wailing With Lou](https://open.spotify.com/album/3oy4KWxOtbmFXWBEdrulHf) | 6:53 |
 
-Snapshot ID: `MTY2MDczOTk3MCwwMDAwMDAwMDM5YzQ0MWVmMjRmYWEwOWI0N2RhMGVhODJjZDMxOTY0`
+Snapshot ID: `MTY2MDczOTk3MCwwMDAwMDAwMDkyZDk0ZDVlOTY2MDA5Mjk1MTQ4YzA4Nzc0ZWQ5MmRk`

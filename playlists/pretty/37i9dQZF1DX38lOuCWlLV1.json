@@ -1,12 +1,12 @@
 {
   "description": "Eclectic indie love songs from throughout the years. Delicate lyrics that say it best.",
-  "num_followers": 156516,
+  "num_followers": 156318,
   "original_name": "Love Letter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTE5NDM0OCwwMDAwMDAwMDE2Yzc1NzlhNjVlODY3ZTE0ZmM0NGY5OTQ1ODIxNjNj",
+  "snapshot_id": "MTY2MTE5NDM0OCwwMDAwMDAwMDFlY2RiZDI0YTE5NGM2ODM5Y2Y4YjQ0YzUwMDgzYmM3",
   "tracks": [
     {
       "added_at": "2022-08-22 18:52:28",
@@ -667,6 +667,22 @@
     {
       "added_at": "2022-08-22 18:52:28",
       "album": {
+        "name": "Drukqs",
+        "url": "https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 125520,
+      "name": "Avril 14th",
+      "url": "https://open.spotify.com/track/2MZSXhq4XDJWu6coGoXX1V"
+    },
+    {
+      "added_at": "2022-08-22 18:52:28",
+      "album": {
         "name": "3",
         "url": "https://open.spotify.com/album/5cAJxOFxRwXkCihLMQJYtl"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 253800,
       "name": "9",
       "url": "https://open.spotify.com/track/3e90JC8EKLsSDUHmPpxkfp"
-    },
-    {
-      "added_at": "2022-08-22 18:52:28",
-      "album": {
-        "name": "Drukqs",
-        "url": "https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 125520,
-      "name": "Avril 14th",
-      "url": "https://open.spotify.com/track/2MZSXhq4XDJWu6coGoXX1V"
     },
     {
       "added_at": "2022-08-22 18:52:28",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-08-22 18:52:28",
       "album": {
-        "name": "Lungs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 255133,
-      "name": "Cosmic Love",
-      "url": "https://open.spotify.com/track/0CSTvWUps1YmpQoXXay9ol"
-    },
-    {
-      "added_at": "2022-08-22 18:52:28",
-      "album": {
         "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
         "url": "https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 248964,
       "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
       "url": "https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz"
+    },
+    {
+      "added_at": "2022-08-22 18:52:28",
+      "album": {
+        "name": "Lungs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 255133,
+      "name": "Cosmic Love",
+      "url": "https://open.spotify.com/track/0CSTvWUps1YmpQoXXay9ol"
     },
     {
       "added_at": "2022-08-22 18:52:28",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-08-22 18:52:28",
       "album": {
-        "name": "Eyes",
-        "url": "https://open.spotify.com/album/7KMiuupbbjzq7tzwCC0rhc"
-      },
-      "artists": [
-        {
-          "name": "Rogue Wave",
-          "url": "https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG"
-        }
-      ],
-      "duration_ms": 148866,
-      "name": "Eyes",
-      "url": "https://open.spotify.com/track/1a9czdo8IX5InOiSOg6xpv"
-    },
-    {
-      "added_at": "2022-08-22 18:52:28",
-      "album": {
         "name": "Seven Swans",
         "url": "https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 168040,
       "name": "To Be Alone With You",
       "url": "https://open.spotify.com/track/12homE4JpBey5cckgoepR7"
+    },
+    {
+      "added_at": "2022-08-22 18:52:28",
+      "album": {
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/7KMiuupbbjzq7tzwCC0rhc"
+      },
+      "artists": [
+        {
+          "name": "Rogue Wave",
+          "url": "https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG"
+        }
+      ],
+      "duration_ms": 148866,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/1a9czdo8IX5InOiSOg6xpv"
     },
     {
       "added_at": "2022-08-22 18:52:28",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-08-22 18:52:28",
       "album": {
-        "name": "Kingdom Leader \u2013 Single",
-        "url": "https://open.spotify.com/album/03EMOcMFTB5rep0KfqI9XX"
-      },
-      "artists": [
-        {
-          "name": "Boo Seeka",
-          "url": "https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO"
-        }
-      ],
-      "duration_ms": 214831,
-      "name": "Kingdom Leader",
-      "url": "https://open.spotify.com/track/5GeIdhQ2HZ86I9HsQwvRAP"
-    },
-    {
-      "added_at": "2022-08-22 18:52:28",
-      "album": {
         "name": "Inside In / Inside Out",
         "url": "https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 169306,
       "name": "She Moves In Her Own Way",
       "url": "https://open.spotify.com/track/2SGBEDwsOAOAHrrdAd304i"
+    },
+    {
+      "added_at": "2022-08-22 18:52:28",
+      "album": {
+        "name": "Kingdom Leader \u2013 Single",
+        "url": "https://open.spotify.com/album/03EMOcMFTB5rep0KfqI9XX"
+      },
+      "artists": [
+        {
+          "name": "Boo Seeka",
+          "url": "https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO"
+        }
+      ],
+      "duration_ms": 214831,
+      "name": "Kingdom Leader",
+      "url": "https://open.spotify.com/track/5GeIdhQ2HZ86I9HsQwvRAP"
     },
     {
       "added_at": "2022-08-22 18:52:28",

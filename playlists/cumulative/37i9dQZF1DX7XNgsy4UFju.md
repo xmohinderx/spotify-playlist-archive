@@ -4,7 +4,7 @@
 
 > Home to all the latest indie jams\. Cover: Djo
 
-608 songs - 1 day 12 hr 0 min - [published](https://open.spotify.com/playlist/4hpfeoyJCUxj1W1YZOVAqm)
+609 songs - 1 day 12 hr 5 min - [published](https://open.spotify.com/playlist/4hpfeoyJCUxj1W1YZOVAqm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [AMAZING](https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [AMAZING](https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe) | 3:29 | 2022-02-18 | 2022-03-12 |
 | [Angelica](https://open.spotify.com/track/4MvwrOOQyjh40KWwmFElmn) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Angelica](https://open.spotify.com/album/4j8jm7kAaZN85GVBJSXSfT) | 3:52 | 2022-03-04 | 2022-04-09 |
 | [Animal \(feat\. Geoffroy\)](https://open.spotify.com/track/19DnkdlcmVu9IKotPQ7KIz) | [Hologramme](https://open.spotify.com/artist/6nDNh0saNzpeQBjYxAliwN), [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Animal](https://open.spotify.com/album/4ueHmbivLZuyx2aHmRy8kz) | 4:36 | 2021-12-31 | 2022-01-22 |
-| [Anywhere With You](https://open.spotify.com/track/4Hxcb6wDlelhZpk5fc5jmD) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 4:57 | 2022-07-29 |  |
+| [Anywhere With You](https://open.spotify.com/track/4Hxcb6wDlelhZpk5fc5jmD) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 4:57 | 2022-07-29 | 2022-08-31 |
 | [Archetype](https://open.spotify.com/track/0TZaULNHuHvwyZOivhzc7g) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Archetype](https://open.spotify.com/album/2aWJqYwJJ7XPc1myEnig13) | 2:48 | 2022-07-22 | 2022-08-27 |
 | [At the Whims](https://open.spotify.com/track/7nexTIAYZLrW0k4B6fxtx5) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [At the Whims](https://open.spotify.com/album/0kB7k2HApDcTDfyP6XnrqZ) | 2:56 | 2022-04-22 | 2022-06-25 |
 | [Away from You](https://open.spotify.com/track/6YWrJWR12Z5XEXB37n3LAy) | [Sara\-Danielle](https://open.spotify.com/artist/3asDPAs8xchUTMEEkpkkPO) | [Away from You](https://open.spotify.com/album/0CU7rzU77WcKtNROwbywxk) | 3:30 | 2022-02-18 | 2022-05-14 |
@@ -543,6 +543,7 @@
 | [The Sun \(feat\. JAWNY\)](https://open.spotify.com/track/4SlGfTlNnFpn3eaHIPGRLC) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [The Sun](https://open.spotify.com/album/4k1tw6qkLHgJijNDFl09Q0) | 2:39 | 2022-02-11 | 2022-05-07 |
 | [then i met her](https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:18 | 2022-01-07 | 2022-04-23 |
 | [Then It All Goes Away](https://open.spotify.com/track/5RaThsdZpF9WWwoP00NjLI) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Then It All Goes Away](https://open.spotify.com/album/1WuvMjvT8P5oOpe51cQdO1) | 3:03 | 2022-06-24 | 2022-08-06 |
+| [There’d Better Be A Mirrorball](https://open.spotify.com/track/0yowbJnnbTLpr99f9l1uba) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [There’d Better Be A Mirrorball](https://open.spotify.com/album/0ZUmodAwUq8cQJFvyibKwT) | 4:25 | 2022-08-30 |  |
 | [These Days](https://open.spotify.com/track/3LWZZ5vzhOSMN6u9pgO6Eu) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Covers](https://open.spotify.com/album/58z5GjZRjt6XIz5GOS0PJh) | 3:44 | 2022-01-14 | 2022-02-19 |
 | [Thin Thing](https://open.spotify.com/track/3DN8g2KmPKwvlyAWCM9mH7) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Thin Thing](https://open.spotify.com/album/7A7EYZELB9Ayjwrp6aWVn2) | 4:30 | 2022-05-13 | 2022-07-23 |
 | [Things will be fine](https://open.spotify.com/track/0TQ1cfWKYRSvt3eCEMvGoK) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Things will be fine](https://open.spotify.com/album/0t5NSGhYDnKqU621QfqJTy) | 3:30 | 2022-01-14 | 2022-02-19 |

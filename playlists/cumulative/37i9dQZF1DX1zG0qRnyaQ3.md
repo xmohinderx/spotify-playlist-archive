@@ -4,7 +4,7 @@
 
 > Punk anthems with strong messages for the masses\. Cover: Bad Religion
 
-101 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/5KqdPjZsZp6sxfFMSxGy2A)
+102 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/5KqdPjZsZp6sxfFMSxGy2A)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [45 \(A Matter Of Time\)](https://open.spotify.com/track/7pAl6xhxJtpuekgzY1dmlE) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline](https://open.spotify.com/album/0GGHKJnkFE7PX8ToUPhVjU) | 3:12 | 2021-01-16 | 2022-07-29 |
 | [Accelerate](https://open.spotify.com/track/1H7dmgvLTkgfrlXzZckp4u) | [Riskee & The Ridicule](https://open.spotify.com/artist/4r5pS9WJUwz3AUQeuXcxB3) | [Body Bag Your Scene](https://open.spotify.com/album/5Pa9fiKgIHnciDv8wdiCw0) | 3:47 | 2021-01-16 |  |
 | [Altered States](https://open.spotify.com/track/50Guagu1QQTRyUAM7PvQC6) | [Direct Hit!](https://open.spotify.com/artist/23gluE1Q1KOmXrpYz1ivTu) | [Crown of Nothing](https://open.spotify.com/album/1EFnZuLUzXx0B6ZsL9aqum) | 3:04 | 2021-01-16 |  |
-| [America \(You're Freaking Me Out\)](https://open.spotify.com/track/20WfBEoY5LuJdK9slRv71l) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [America \(You're Freaking Me Out\)](https://open.spotify.com/album/76xp2axlbmffPMsZaGIWVX) | 3:35 | 2021-01-16 |  |
+| [America \(You're Freaking Me Out\)](https://open.spotify.com/track/20WfBEoY5LuJdK9slRv71l) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [America \(You're Freaking Me Out\)](https://open.spotify.com/album/76xp2axlbmffPMsZaGIWVX) | 3:35 | 2021-01-16 | 2022-08-31 |
+| [America \(You're Freaking Me Out\)](https://open.spotify.com/track/7b7kOUu2KmSDCy6Ebglidg) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Hello Exile](https://open.spotify.com/album/5baJxk2fGaLorySaf6173S) | 3:35 | 2021-01-16 |  |
 | [American Attraction](https://open.spotify.com/track/7seq94ygkJtnYHXYR8E99r) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Attraction](https://open.spotify.com/album/3HF3WUIh0lc05D3pzuhiqe) | 2:56 | 2021-01-16 | 2022-08-30 |
 | [American Futbol](https://open.spotify.com/track/6MiXtoPdXIVxsaZaKLHqFJ) | [MakeWar](https://open.spotify.com/artist/0dZUiHIO2BUomz0xwglFiW) | [Get It Together](https://open.spotify.com/album/16uIgInEGd1nh7lxZ3P3vD) | 3:19 | 2021-01-16 |  |
 | [American Lies](https://open.spotify.com/track/2XzzP3HXqdzK907sGFewD4) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Never Gonna Die](https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF) | 2:11 | 2021-01-16 |  |

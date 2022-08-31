@@ -2,7 +2,7 @@
 
 ### [Academia Reggaetón](https://open.spotify.com/playlist/37i9dQZF1DXd8p9XRfIfUn)
 
-> Lo mejor de la nueva\. Foto: Kris Floys, Jota Rosa, Feid
+> Lo mejor de la nueva\. Foto: Kris Floyd, Jota Rosa, Feid
 
 147 songs - 7 hr 50 min - [published](https://open.spotify.com/playlist/3ZGG1JOi7RasWn3HYxETEa)
 

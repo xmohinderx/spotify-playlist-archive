@@ -4,7 +4,7 @@
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-189 songs - 17 hr 26 min - [published](https://open.spotify.com/playlist/2a7pWapwJkvE7k2BSyXseH)
+190 songs - 17 hr 30 min - [published](https://open.spotify.com/playlist/2a7pWapwJkvE7k2BSyXseH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Keleno](https://open.spotify.com/track/3167iOe6WMN5VgukbH8EXw) | [Ranji](https://open.spotify.com/artist/6Tu0luJL7EoFv1RsHZP30p), [Pondora](https://open.spotify.com/artist/6xc4VTgBl1NfMXVc7Iod6S) | [Keleno](https://open.spotify.com/album/7CdhemAsnK8Y1e89duyBCi) | 6:46 | 2022-04-15 |  |
 | [Laywa](https://open.spotify.com/track/4viW03idClQk6QilMIJ9uh) | [Spectra Sonics](https://open.spotify.com/artist/1YF50bV88zVwkRkSWizZnc) | [Laywa](https://open.spotify.com/album/5ui0bPcL7VngQYyIgjxL4O) | 8:20 | 2022-04-28 | 2022-06-21 |
 | [Levitate](https://open.spotify.com/track/2cnGSFwQ03Hev6V0Iw8Zlp) | [Liquid Soul](https://open.spotify.com/artist/64nL3MP8zmuLqUq8DDaIKS), [Protonica](https://open.spotify.com/artist/2fhNO804KWA0hiFxjpv3Tt) | [Levitate](https://open.spotify.com/album/7CxHaym6v2s0xCVmi2p16V) | 7:54 | 2022-04-15 | 2022-04-21 |
+| [Locos](https://open.spotify.com/track/6BQnoBulQozQZftBCcQMEw) | [Fresh Drop](https://open.spotify.com/artist/6wlfDafUCKXnI1czm6uXZi), [Brandon Hombre](https://open.spotify.com/artist/6qkkXjwUwpMqFSL98y95aU), [Trip\-Tamine](https://open.spotify.com/artist/0ap0HvoHVGPmbqVxjWGEtT) | [Locos](https://open.spotify.com/album/7fiOw6vOVbQ0sUwwE5Gq4L) | 3:50 | 2022-08-25 |  |
 | [look into the mirror](https://open.spotify.com/track/1CN9SDbF4slNTJPVAcWzJa) | [Memento Mori](https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR), [Massivebass](https://open.spotify.com/artist/5p9GQuGCJcfovjMcDk3ZyI), [Massivo](https://open.spotify.com/artist/6CgxIvyRuT1yFG5fjBbh6E) | [look into the mirror](https://open.spotify.com/album/15sZ6RXPaWXlALS9daFU4X) | 4:14 | 2022-04-15 | 2022-07-29 |
 | [Lose Control](https://open.spotify.com/track/70JpMCSGSHQ0gB1IARwoL1) | [Symphonix](https://open.spotify.com/artist/3YrMuDBgkI3zUJUAyKfxFm), [Benzoo](https://open.spotify.com/artist/2hmiyEZJxAeSmRuvv2S7FO) | [Lose Control](https://open.spotify.com/album/58TmnGrhKm2VT42uSCJgMY) | 4:27 | 2022-05-19 |  |
 | [M.A.D](https://open.spotify.com/track/4F7kyS6wcQwQnkQtj2sG1u) | [Interactive Noise](https://open.spotify.com/artist/4lA68EVFzoodItMp7RH2cv) | [M.A.D](https://open.spotify.com/album/7lubwx5sWnh4IDHNyZSZLb) | 5:09 | 2022-06-10 |  |
@@ -120,7 +121,7 @@
 | [Other Days](https://open.spotify.com/track/3fShZcL2jCLVvefM2Hy8mL) | [Ghost Rider](https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi), [Durs](https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs) | [Other Days](https://open.spotify.com/album/3lvGQU4VigEh1QqpUQXcQS) | 4:05 | 2022-05-26 |  |
 | [Out of the Blue \- One Function Remix](https://open.spotify.com/track/7Iw7iKzQPu2sJoiWFwa2mu) | [Liquid Soul](https://open.spotify.com/artist/64nL3MP8zmuLqUq8DDaIKS), [One Function](https://open.spotify.com/artist/2VdxcRZenJ5qgyMjZv5wOI) | [Out of the Blue](https://open.spotify.com/album/4zSo7sKtXB6ptXa9Z6c8U6) | 8:41 | 2022-06-30 | 2022-07-29 |
 | [Overture](https://open.spotify.com/track/5dP9ZhH0NIMLyjpjFnAVcr) | [Ilai](https://open.spotify.com/artist/11wZf9Pps7qYf5xYlLu2Ku), [Simon Patterson](https://open.spotify.com/artist/3QxbGzjZc3kgHNJOBOZM2M) | [Overture](https://open.spotify.com/album/3hX1rnC4oFEEBEJ5pp0VW9) | 7:32 | 2022-04-28 | 2022-07-22 |
-| [Pa Moru](https://open.spotify.com/track/2eKgk6fWOsmN7N8R7uhbQI) | [DistinctSide](https://open.spotify.com/artist/5eat6gFMCO6nvWNDOTHSrW), [Formation](https://open.spotify.com/artist/1P2i2PJB5fd73p7lQgBaHH) | [Pa Moru](https://open.spotify.com/album/0VOsdhP7EvjUkb0dDk1QHb) | 5:26 | 2022-07-15 |  |
+| [Pa Moru](https://open.spotify.com/track/2eKgk6fWOsmN7N8R7uhbQI) | [DistinctSide](https://open.spotify.com/artist/5eat6gFMCO6nvWNDOTHSrW), [Formation](https://open.spotify.com/artist/1P2i2PJB5fd73p7lQgBaHH) | [Pa Moru](https://open.spotify.com/album/0VOsdhP7EvjUkb0dDk1QHb) | 5:26 | 2022-07-15 | 2022-08-31 |
 | [Parallels](https://open.spotify.com/track/1yJ6dZFRecONfZHGnIrYru) | [Day Din](https://open.spotify.com/artist/1YzhPssoLV65PIChO3Uri9), [Gaudium](https://open.spotify.com/artist/7DSaZpbJCzUcTX1D2oglwg) | [Parallels](https://open.spotify.com/album/5RsJYaaEgSqv7KbK81HDoe) | 6:44 | 2022-07-28 |  |
 | [Parallels](https://open.spotify.com/track/5c2vAbtzVOYtUq2wTz6cdA) | [Day Din](https://open.spotify.com/artist/1YzhPssoLV65PIChO3Uri9), [Gaudium](https://open.spotify.com/artist/7DSaZpbJCzUcTX1D2oglwg) | [Parallels](https://open.spotify.com/album/4vCXf61xyBPo0xI0eJQ7t4) | 6:44 | 2022-04-15 | 2022-07-29 |
 | [Paralyzed](https://open.spotify.com/track/4pRfuQTMVQQRYs039HEY0X) | [Fabio Fusco](https://open.spotify.com/artist/74QIWYXbKeKNYmdHB3nRJ7), [Joicey](https://open.spotify.com/artist/1WIFMGTZTCJGz8rrENkqcK) | [Paralyzed](https://open.spotify.com/album/65G7QPAibCTPZLAjVR8AWD) | 5:51 | 2022-04-15 |  |

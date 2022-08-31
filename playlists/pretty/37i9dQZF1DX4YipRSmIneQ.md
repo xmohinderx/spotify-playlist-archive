@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 
 > ur favorite queer bedroom club
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,805 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,899 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 | 30 | [Scooter](https://open.spotify.com/track/1RBIzko2PMY5CP0d3MIkwl) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Scooter](https://open.spotify.com/album/1Ib8Y9ZWFGTI4zjglUKxwV) | 2:08 |
 | 31 | [Queen Of This Shit](https://open.spotify.com/track/6JrmHzxhaaavRtlXTOhm63) | [Quay Dash](https://open.spotify.com/artist/6k6lSmhyFpe2oYcredvZHM) | [Queen Of This Shit](https://open.spotify.com/album/6qu9QGQPrAlTOJLGeKeQBK) | 3:06 |
 | 32 | [I'm Perfect](https://open.spotify.com/track/3YK1uAScUpCaFNCn004pm6) | [Chase Icon](https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ) | [I'm Perfect](https://open.spotify.com/album/4l3Twapn6OepVAOHDPtmT3) | 2:46 |
-| 33 | [CO1N](https://open.spotify.com/track/3Oh4rpQGw4rPbs09o04YXZ) | [LVL1](https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ) | [CO1N](https://open.spotify.com/album/21DWVujXLDiBamWYmop1fA) | 3:17 |
-| 34 | [Mommy](https://open.spotify.com/track/13qSIkriq6c8jWFLv6Lt7z) | [Betta Lemme](https://open.spotify.com/artist/1WZLagiBdNltn918sr8kkw) | [Mommy](https://open.spotify.com/album/5q0eJFO2tBIPXovoQoWudO) | 2:34 |
+| 33 | [Mommy](https://open.spotify.com/track/13qSIkriq6c8jWFLv6Lt7z) | [Betta Lemme](https://open.spotify.com/artist/1WZLagiBdNltn918sr8kkw) | [Mommy](https://open.spotify.com/album/5q0eJFO2tBIPXovoQoWudO) | 2:34 |
+| 34 | [CO1N](https://open.spotify.com/track/3Oh4rpQGw4rPbs09o04YXZ) | [LVL1](https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ) | [CO1N](https://open.spotify.com/album/21DWVujXLDiBamWYmop1fA) | 3:17 |
 | 35 | [Cunty \- Wave Edit](https://open.spotify.com/track/5Dy9iOGAYzppHgWcLzZSBe) | [Kevin Aviance](https://open.spotify.com/artist/1tPCPj6UWSQ3VSQ8xwZ4ZJ) | [Box of Chocolates](https://open.spotify.com/album/1iIC7QKwsTtWNRV7NxfrK5) | 4:17 |
 | 36 | [TASTY](https://open.spotify.com/track/3V3ijKDFFwPM9ADBAW41XQ) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [ALIAS](https://open.spotify.com/album/3lpcZOAsYJzvPepNSbzMSb) | 2:24 |
 | 37 | [Feels Like](https://open.spotify.com/track/0F9v0lpBD93UIOh4g0BcPm) | [MikeQ](https://open.spotify.com/artist/0H2tgKu7aoe1YVflaRWH6o), [Kevin Jz Prodigy](https://open.spotify.com/artist/6f7VuR9EQ1JqkWXqGwvVH5) | [Let It All Out EP](https://open.spotify.com/album/1EjGCyMdcQlJM5aW4wpyaV) | 2:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 | 49 | [P.M.P](https://open.spotify.com/track/1VA0mnllvpmDA9bnRAuTXL) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [P.M.P](https://open.spotify.com/album/6g1CyzJuejx3AVopNeS1aX) | 3:22 |
 | 50 | [Megalomaniac](https://open.spotify.com/track/0bY1YyjwCbsXnFYcwRIVqI) | [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9) | [MOLG](https://open.spotify.com/album/0zgXgVJ4DWmbrKpWkwqBIR) | 3:47 |
 
-Snapshot ID: `MTY2MDY1NzgyNCwwMDAwMDAwMGQ1NzRmNjI5NjE5NTAyOTZjNzRlMmU0M2Q4MjQ0YTEx`
+Snapshot ID: `MTY2MDY1NzgyNCwwMDAwMDAwMDIwNzJmY2U4MWE3MDg5MzJlYzhjZDliNjhmNDhkZmFi`
