@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: Butcher Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,330 likes - 99 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,382 likes - 99 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 3 | [Man Invisible](https://open.spotify.com/track/0AMfoVsFl0tR9wgEzlJWBf) | [Elise Trouw](https://open.spotify.com/artist/6jeroC7T0j4Dvz9y3gtofR) | [Man Invisible](https://open.spotify.com/album/6vwSRp65WbKvCTQhg2EKIz) | 2:22 |
 | 4 | [Cryin' Heart](https://open.spotify.com/track/6ZMugawDueowg6Zi4X0mN3) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [ProbCause](https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [Cryin' Heart](https://open.spotify.com/album/01IOkT1OwNi3WhwsP2yojE) | 3:29 |
 | 5 | [Pt\. 1: What Once We Couldn't See](https://open.spotify.com/track/6wYlARCXgS3T993mnDIMim) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp), [Declan Miers](https://open.spotify.com/artist/3k7CekVyE74IPWO2T9pZRa), [Luke Titus](https://open.spotify.com/artist/1halAwBS8LmLaAPaztqZp2), [Tobias Kelly](https://open.spotify.com/artist/2Pry5aTmkIok8JCpSpqpZj), [Yoshi T.](https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0) | [Pt\. 1: What Once We Couldn't See](https://open.spotify.com/album/2MGHCGld8Qu0PADa03YVF0) | 9:03 |
-| 6 | [Treat U Good](https://open.spotify.com/track/7tqs4OKzl896INyq5af4Qu) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez), [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo), [Lyriya](https://open.spotify.com/artist/3kh6Ltl9keXAm5NcLvdSjI), [Meron](https://open.spotify.com/artist/26K1nMBCHOa5K83lRkvAWL) | [Treat U Good](https://open.spotify.com/album/3ClRTsQuJUaUg340vgZDOA) | 3:37 |
+| 6 | [Treat U Good](https://open.spotify.com/track/7tqs4OKzl896INyq5af4Qu) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez), [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo), [Lyriya](https://open.spotify.com/artist/3kh6Ltl9keXAm5NcLvdSjI), [MERON](https://open.spotify.com/artist/1PUEwFv131uL8pigp6fNlG) | [Treat U Good](https://open.spotify.com/album/3ClRTsQuJUaUg340vgZDOA) | 3:37 |
 | 7 | [Just The Same](https://open.spotify.com/track/3F2Vqu9r6BvGRZBCwQZVGx) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [James Berkeley](https://open.spotify.com/artist/157f6KLF3Hafl4cNddKiMu), [Miller Blue](https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA), [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO) | [Just The Same](https://open.spotify.com/album/7CpVdBoh3WKtZdINeoKS4s) | 3:37 |
 | 8 | [Without You, Within Me \- Radio Edit](https://open.spotify.com/track/3wrq3jtpNuA8Dty2IKy2AI) | [30/70](https://open.spotify.com/artist/2hmDAP9qrP22L93Pbq7FWM) | [Without You, Within Me](https://open.spotify.com/album/6ezqbzCKhFIyf7x0icOxUG) | 3:57 |
 | 9 | [\(Why You So\) Green With Envy](https://open.spotify.com/track/4AcKEOwQ9T2U7yYK9AJdRs) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh), [Oscar \#Worldpeace](https://open.spotify.com/artist/63h1vcgwz5lbgfiIyF6mcs) | [\(Why You So\) Green With Envy](https://open.spotify.com/album/1paw3uKEs0vZ4HcBsjjjuE) | 4:52 |

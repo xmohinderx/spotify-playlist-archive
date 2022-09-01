@@ -497,6 +497,24 @@
     {
       "album": {
         "name": "Beautiful",
+        "url": "https://open.spotify.com/album/3E8vIJgRTBvJ9x06ijKhlM"
+      },
+      "artists": [
+        {
+          "name": "Jang Keun-suk",
+          "url": "https://open.spotify.com/artist/3OOtuve788y64B4qKtZoci"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267586,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/7xuJOKaTFfmtVGjDJV8w1Y"
+    },
+    {
+      "album": {
+        "name": "Beautiful",
         "url": "https://open.spotify.com/album/2UrvUzq4A6MFnvVp8Na0eW"
       },
       "artists": [
@@ -507,7 +525,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 269000,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/482cI88g68VDxoSnnvetMA"
@@ -3430,7 +3448,7 @@
         },
         {
           "name": "TRI.BE",
-          "url": "https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a"
+          "url": "https://open.spotify.com/artist/0vfRsnSdgIe1GG25NBwHy9"
         },
         {
           "name": "Lost Stories",

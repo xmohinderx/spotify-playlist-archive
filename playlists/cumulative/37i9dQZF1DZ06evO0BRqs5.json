@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 311960,
       "name": "CaCO",
       "url": "https://open.spotify.com/track/0E5vf3YTVdn7sbaNkdSJae"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 310626,
       "name": "CaCO -Instrumental",
       "url": "https://open.spotify.com/track/58H90Fan0uwDxquVbZ6yFK"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-27",
+      "date_removed": null,
       "duration_ms": 279080,
       "name": "dear brightness",
       "url": "https://open.spotify.com/track/3ThZkUIeOfcI7pE8BBZ2rV"
@@ -487,10 +487,28 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 217880,
       "name": "Raspberry Moon",
       "url": "https://open.spotify.com/track/1UksXs7fzQh4CcpaknzGXH"
+    },
+    {
+      "album": {
+        "name": "HELLO HELLO HELLO",
+        "url": "https://open.spotify.com/album/3mNG6uD9uUc2E28h7baqt6"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267080,
+      "name": "Resonance",
+      "url": "https://open.spotify.com/track/7p5NnU5fSHo52LaVEkFH6O"
     },
     {
       "album": {
@@ -685,7 +703,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 265906,
       "name": "\u30b5\u30c6\u30e9\u30a4\u30c8",
       "url": "https://open.spotify.com/track/6JVhxrEMzT2mWSNHWMhwFZ"
@@ -793,7 +811,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-31",
+      "date_removed": null,
       "duration_ms": 232026,
       "name": "\u30d2\u30c8\u30ab\u30b1\u30e9\u306e\u52c7\u6c17",
       "url": "https://open.spotify.com/track/1x6DIYGxyHTYUFgmGEd4Ey"
@@ -811,7 +829,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 279866,
       "name": "\u30d2\u30c8\u30ea\u30c8\u30d2\u30c8\u30ea",
       "url": "https://open.spotify.com/track/26YNGudhBMxEGkB8RluCHC"
@@ -1045,7 +1063,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-24",
+      "date_removed": null,
       "duration_ms": 243360,
       "name": "\u7a7a\u8749\u30a2\u30eb\u30c6\u30a3\u30e1\u30c3\u30c8",
       "url": "https://open.spotify.com/track/0ps2PbZL9SO9VaHqPfrQ3x"
@@ -1117,7 +1135,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 259466,
       "name": "\u87ba\u65cb\u4e16\u754c",
       "url": "https://open.spotify.com/track/1Cp6p7em95MNYmuJBI9MNn"

@@ -644,6 +644,24 @@
     },
     {
       "album": {
+        "name": "Ki L3ada",
+        "url": "https://open.spotify.com/album/6WsYJKoVqXZQczbtIcoHAd"
+      },
+      "artists": [
+        {
+          "name": "Faycel Sghir",
+          "url": "https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225762,
+      "name": "Ki L3ada",
+      "url": "https://open.spotify.com/track/6zugXpJQUremMawbYBaNX0"
+    },
+    {
+      "album": {
         "name": "Ma Tzawjet Ma Walet",
         "url": "https://open.spotify.com/album/3zCuPox0tptwvUu5ePP1HM"
       },

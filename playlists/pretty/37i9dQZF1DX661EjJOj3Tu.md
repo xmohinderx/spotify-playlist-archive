@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 
 > The irresistible rhythms of Latin jazz\. Cover: Tito Puente
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,400 likes - 100 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,363 likes - 100 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 | 99 | [The Feeling Of Jazz](https://open.spotify.com/track/7IzKaEpu718xiAyPhMMmHg) | [Poncho Sanchez](https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL) | [Trane's Delight](https://open.spotify.com/album/6sMYDCMbXwodgyR2vejSEb) | 5:57 |
 | 100 | [Summertime](https://open.spotify.com/track/61kdYuzRxng0e8rKb3QLq6) | [Giovanni Hidalgo](https://open.spotify.com/artist/5x8FeI2yziZBdKbfAhvms6) | [Worldwide](https://open.spotify.com/album/20QQyfHLjyZENU9jJFEvdj) | 7:05 |
 
-Snapshot ID: `MTY1ODg1NjA2MCwwMDAwMDAwMGNlZDQ1MzVlY2UyNmFiMzdkYTY5M2IzNzJjMzFiOGJl`
+Snapshot ID: `MTY2MTkzMDI4MCwwMDAwMDAwMGEyY2UyZjZhN2QyMTI3ZDIzOGU5NDYwOWUzMTUxYzJl`

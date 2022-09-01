@@ -4,7 +4,7 @@
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-307 songs - 21 hr 22 min - [published](https://open.spotify.com/playlist/6XhGj2DggqIecedL7YMJsq)
+308 songs - 21 hr 24 min - [published](https://open.spotify.com/playlist/6XhGj2DggqIecedL7YMJsq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Alma](https://open.spotify.com/track/57y2pyz7GhZLKJxlogyoKV) | [Maddrigal](https://open.spotify.com/artist/3XZYeRXAdvgdNYxESV8Gbk) | [Alma](https://open.spotify.com/album/2xHpyX2kcipvxZTE8Xto6s) | 2:45 | 2021-10-20 | 2022-07-29 |
 | [among the trees](https://open.spotify.com/track/6bX6vCqqx7vf2rWh6hcD5b) | [Arden Records](https://open.spotify.com/artist/4t6K3qACkVu8WWrG3mvo0r), [sagun](https://open.spotify.com/artist/4YJkA3YshwZ8FwljpMW0II) | [among the trees](https://open.spotify.com/album/2xV69A1DRRJmSaNpXTMVBg) | 1:58 | 2022-04-23 |  |
 | [An Observation of Antimatter at Hotel Kabiki](https://open.spotify.com/track/4KgSkI0Xh9WBGJDD7NjabS) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [An Observation of Antimatter at Hotel Kabiki](https://open.spotify.com/album/4yqYiuUZMb85p2rE6Kg77A) | 3:13 | 2021-10-20 | 2022-07-28 |
+| [Anomaly](https://open.spotify.com/track/2qbm8KA7O83nPviXa5aK5I) | [Dania](https://open.spotify.com/artist/6zT9Hqr8CQBZGevQoo9S9O) | [Voz](https://open.spotify.com/album/3uY9APJcADScKquOCujhw3) | 2:31 | 2022-08-31 |  |
 | [Another Dream](https://open.spotify.com/track/6ZUTsxms7QYaG06q37VRZp) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [@0](https://open.spotify.com/album/0lzZgKs9XvoMHjPpBLWYA3) | 7:34 | 2021-11-24 | 2022-07-21 |
 | [Arboretum](https://open.spotify.com/track/2V0zmL125nc9w25OBdc2oT) | [Corimbo](https://open.spotify.com/artist/5jQIczzAJzOzwnNLFOwoI6) | [Anemophily](https://open.spotify.com/album/2YBYYYHaUb6d2I9EzBkcmt) | 3:43 | 2021-10-20 |  |
 | [august 31st](https://open.spotify.com/track/0GyrNTSvyue6oLkUHmiSKa) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [fragments](https://open.spotify.com/album/67EzhMUZJBwTnXpnnSY6Jx) | 2:31 | 2021-10-20 |  |
@@ -260,7 +261,7 @@
 | [summer \(shade\)](https://open.spotify.com/track/05JBitld3kGDUrkeZ0hQmg) | [Two Sleepy](https://open.spotify.com/artist/0AnFvgXbwVibMnDDhCVPPK) | [Warmth](https://open.spotify.com/album/5PlR2KmCcUMqsMaVkYFufQ) | 2:15 | 2021-10-20 | 2022-07-22 |
 | [Sunflower Dance](https://open.spotify.com/track/0J9G8MIixgpRmMzS1Xub89) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Sunflower Dance](https://open.spotify.com/album/5yJ5fcocAccpi4thCNl20p) | 3:32 | 2021-10-20 |  |
 | [Sunflower, Raise Your Heavy Head and Face the Sun!](https://open.spotify.com/track/2mXwSbqPRfmiG2KcM81Y1j) | [Louie Zong](https://open.spotify.com/artist/7jOY91ZU7kn86slH3fBbaD) | [Greenhouse](https://open.spotify.com/album/7jprQbnbFyOAJL64Jc7HmU) | 1:44 | 2021-10-20 | 2022-07-29 |
-| [Sunshine in 1929](https://open.spotify.com/track/76Ux8iRWXJwhwyjuuKwbG7) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [People On Sunday](https://open.spotify.com/album/4yq095FcGXmjYAnZXtxu7H) | 3:45 | 2021-10-20 |  |
+| [Sunshine in 1929](https://open.spotify.com/track/76Ux8iRWXJwhwyjuuKwbG7) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [People On Sunday](https://open.spotify.com/album/4yq095FcGXmjYAnZXtxu7H) | 3:45 | 2021-10-20 | 2022-09-01 |
 | [Swashers](https://open.spotify.com/track/5IqjAH2ynF7320IVnqfjlT) | [Yosi Horikawa](https://open.spotify.com/artist/1JSPpoXFLcEG2WhYlvmHPJ) | [Spaces](https://open.spotify.com/album/3V8YAQt6ADKvL803nvq27L) | 5:38 | 2022-05-18 |  |
 | [Sxs13](https://open.spotify.com/track/73Oxy2zrZMTFgFARikF4UA) | [BXT Aer](https://open.spotify.com/artist/4Ih0m8L9Xc3fksQjlZHiWk) | [Beauty](https://open.spotify.com/album/28B4EwvzIlTy1gT9UlavVa) | 1:25 | 2021-10-20 | 2022-04-17 |
 | [Taken Back](https://open.spotify.com/track/2hJcalCWcwchGuVbZXPPic) | [Rich Ruth](https://open.spotify.com/artist/3fzSa1ee522CjcS8Fdo7dl) | [I Survived, It's Over](https://open.spotify.com/album/1KErFGaU1RWUTJDeHKJoK2) | 5:38 | 2022-08-24 |  |

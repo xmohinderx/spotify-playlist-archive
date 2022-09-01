@@ -4,7 +4,7 @@
 
 > Los sonidos de Belén.
 
-140 songs - 9 hr 27 min - [published](https://open.spotify.com/playlist/5BHFCfYdJmMsXV8ZMJ0kKJ)
+141 songs - 9 hr 32 min - [published](https://open.spotify.com/playlist/5BHFCfYdJmMsXV8ZMJ0kKJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,8 @@
 | [Rey de Gloria](https://open.spotify.com/track/6lb6QojMr4vItM2sUPbpaM) | [Dauny](https://open.spotify.com/artist/1b4yCihx1rjqBTeSaY3fw7), [Cindy Barrera](https://open.spotify.com/artist/6kdT3CTmuUous4XfdFMP4a), [Conexzion Directa](https://open.spotify.com/artist/5V5cqERMmCDUZipZYFZtXN) | [Rey de Gloria](https://open.spotify.com/album/5SUjOmUzooZIDIEm0O5WKB) | 3:22 | 2021-12-24 |  |
 | [Santa la Noche](https://open.spotify.com/track/1VSIMVn192zKDOoRKFYIan) | [Gabriela Cartulano](https://open.spotify.com/artist/0i3Bb89hqVidaYPGOD03kx) | [Santa la Noche](https://open.spotify.com/album/2Vds3tR4KKnNsotTbAd1GQ) | 3:56 | 2021-12-24 |  |
 | [Santa la Noche](https://open.spotify.com/track/6OkKwYcHGFWIbpDXF0lhV8) | [Gabriela Cartulano](https://open.spotify.com/artist/0i3Bb89hqVidaYPGOD03kx) | [Santa la Noche](https://open.spotify.com/album/6XSE34VbnEn6qO3lBdzXDX) | 3:56 | 2021-12-24 | 2022-07-29 |
-| [Santa la noche](https://open.spotify.com/track/1XL17qoSvIflYQ45uU2Xjc) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Santa la noche](https://open.spotify.com/album/6EN18F6GNtsquD1rjzAeSK) | 4:13 | 2021-12-24 |  |
+| [Santa la noche](https://open.spotify.com/track/1XL17qoSvIflYQ45uU2Xjc) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Santa la noche](https://open.spotify.com/album/6EN18F6GNtsquD1rjzAeSK) | 4:13 | 2021-12-24 | 2022-09-01 |
+| [Santa la noche](https://open.spotify.com/track/34OQJBdPvh88lHD6Oiuwc1) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Santa la noche](https://open.spotify.com/album/3JQymi6jdlocnrFuPfVBcG) | 4:13 | 2021-12-24 |  |
 | [Santa la Noche](https://open.spotify.com/track/4KraBnnnVo6dlqavv7fnF6) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Tiempo de Navidad](https://open.spotify.com/album/1KM8kjXX0KdfcGCj3iDgiG) | 4:18 | 2021-12-24 | 2022-07-29 |
 | [Santa la Noche](https://open.spotify.com/track/0UVctJP9Ts6HwuW5jtYqao) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Tiempo de Navidad](https://open.spotify.com/album/24oEKVhOhLL7WaiALZjwbP) | 4:18 | 2021-12-24 |  |
 | [Se Oye Un Son En Alta Esfera](https://open.spotify.com/track/7qNLT77rnE6ZkUhLGbiBQP) | [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T) | [Se Oye Un Son En Alta Esfera](https://open.spotify.com/album/54rtcCGdy9xNW1kGM1SmHW) | 3:16 | 2021-12-24 |  |

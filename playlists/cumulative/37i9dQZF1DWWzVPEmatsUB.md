@@ -4,7 +4,7 @@
 
 > Have a quiet morning with this mix of something familiar and something new.
 
-262 songs - 16 hr 7 min - [published](https://open.spotify.com/playlist/28RD6nYufPNLui4c84uOdv)
+263 songs - 16 hr 10 min - [published](https://open.spotify.com/playlist/28RD6nYufPNLui4c84uOdv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Baby](https://open.spotify.com/track/38jJdP6hG3x63SKrJZutMW) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Coming Clean](https://open.spotify.com/album/3bKEeTVDEtHn9qxtDk0yJv) | 1:51 | 2020-10-17 |  |
 | [Baby Blue](https://open.spotify.com/track/5PC9pAUZns03tp7SxXjVgo) | [Delv!s](https://open.spotify.com/artist/4cHYNNA4fiedY4Wpd0iVo2) | [blablablue](https://open.spotify.com/album/1cyCmy6etmUKPWqmfAxrOz) | 2:12 | 2022-02-25 | 2022-07-18 |
 | [Beautiful](https://open.spotify.com/track/4zK1WjkD3srlJX4Fq1Gtcq) | [Huntar](https://open.spotify.com/artist/2woivlckW1wdml7zq1WW6e) | [The Ride](https://open.spotify.com/album/4XibEeMTF3nDZK8zpUXDoS) | 4:22 | 2020-10-17 | 2022-04-21 |
-| [Beautiful Stranger](https://open.spotify.com/track/7ndKgIPneFhibUEYdqK8YE) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/4YrAMk088p90boVlesCpOQ) | 3:21 | 2022-08-26 |  |
+| [Beautiful Stranger](https://open.spotify.com/track/2Hs7CsaCy7U6tGy8s3zdMB) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c) | 3:21 | 2022-08-26 |  |
+| [Beautiful Stranger](https://open.spotify.com/track/7ndKgIPneFhibUEYdqK8YE) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/4YrAMk088p90boVlesCpOQ) | 3:21 | 2022-08-26 | 2022-09-01 |
 | [Before I Do](https://open.spotify.com/track/2oSH6sOAP0YOq6qMuO0ZMK) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [You're Fine](https://open.spotify.com/album/7AnOsuntfZx3d3Vrnt2z3B) | 3:18 | 2020-10-17 | 2022-07-04 |
 | [Believe](https://open.spotify.com/track/26UKqa0ZbJKqPCos6kke1B) | [Benjamin Booker](https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5) | [Witness](https://open.spotify.com/album/5sirXG61pe7mBq8g6IlNxG) | 3:54 | 2020-10-17 | 2022-04-20 |
 | [Better Late Than Never](https://open.spotify.com/track/3i7HOAjqwXjWOSb9QbtTbm) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [The Live Sessions](https://open.spotify.com/album/0kHkGiWBgOiCCjAPWSXWw7) | 5:06 | 2020-10-17 | 2022-04-20 |

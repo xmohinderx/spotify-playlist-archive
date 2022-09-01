@@ -1464,6 +1464,24 @@
     },
     {
       "album": {
+        "name": "Romeo & Leila",
+        "url": "https://open.spotify.com/album/2j4MGjJOs8SBgXL7OyqCFl"
+      },
+      "artists": [
+        {
+          "name": "Ghalia Benali",
+          "url": "https://open.spotify.com/artist/7BOI7fetZ2yzDpBUiCMyYy"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322760,
+      "name": "Ya M'safer",
+      "url": "https://open.spotify.com/track/2sOg0fznPO0YWKWksIQEmA"
+    },
+    {
+      "album": {
         "name": "Yammi",
         "url": "https://open.spotify.com/album/3bjWzuvIOn8LIKZX0U7txb"
       },

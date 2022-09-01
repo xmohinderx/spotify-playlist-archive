@@ -4,7 +4,7 @@
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: IOHBOY\(아이오보이\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-511 songs - 1 day 3 hr 59 min - [published](https://open.spotify.com/playlist/6YybdrER9IpLcTWs3zQt76)
+512 songs - 1 day 4 hr 2 min - [published](https://open.spotify.com/playlist/6YybdrER9IpLcTWs3zQt76)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -435,12 +435,13 @@
 | [STAY \(feat\. TABLO\)](https://open.spotify.com/track/4WBh36g1Xg2oQTzX7KuQcD) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv) | [WATERFALL](https://open.spotify.com/album/7opzE9aGkgt8V4fnz6yX5t) | 2:56 | 2022-06-09 | 2022-06-14 |
 | [stereo \(feat\. Gist\)](https://open.spotify.com/track/23liweQ8hFWh5szU6TnbVb) | [Lil Sunder11](https://open.spotify.com/artist/4BAzPFhIlcr1Olj7IpTIDW), [GIST\(윤현선\)](https://open.spotify.com/artist/5dnSklPcejwtwQ2zc5a7Dn) | [stereo \(feat\. Gist\)](https://open.spotify.com/album/3xqUW3HstppGwDwJDCl1P8) | 3:04 | 2022-07-14 | 2022-07-19 |
 | [STILL.](https://open.spotify.com/track/7xvZaKgTm12EA2BorgmXJ3) | [LEON](https://open.spotify.com/artist/5uq0Z8ElRQOlg2Yavs3lVd) | [STILL.](https://open.spotify.com/album/7fVfBQ719OA38fw3A5N50g) | 3:17 | 2022-08-12 | 2022-08-18 |
+| [Summer](https://open.spotify.com/track/55FLC4BaLbUr7plCVL0j1e) | [Youth Hostel](https://open.spotify.com/artist/73VQvHkpR7ZCn8SOqTqtzK) | [Youth Hostel](https://open.spotify.com/album/1nbMITy1nsScR47Pd4zWJ6) | 2:58 | 2022-08-31 |  |
 | [Summer \(Feat\. BE’O\)](https://open.spotify.com/track/26Iv7VGUF1lqU10rxQXFL8) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [Summer](https://open.spotify.com/album/6Ve5QOb2WKKPLYrO7VaNr8) | 3:19 | 2022-06-18 |  |
 | [Summer Love \(feat\. Verbal Jint, Basick\)](https://open.spotify.com/track/7yKrmBcGoUO5pjfApa1AsG) | [Lil Cats](https://open.spotify.com/artist/5LaXV8vstuhyeMmNmPiMkN), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [베이식\(Basick\)](https://open.spotify.com/artist/19nNwjtFLHcZjBdgjUlXtK) | [Summer Love](https://open.spotify.com/album/1htDzzqye3kEVmyQvwVgic) | 3:59 | 2022-04-01 |  |
 | [Summer Tights](https://open.spotify.com/track/6KeIkgoC8SUeJ4VPw5Lkx8) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [IITE COOL](https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL) | 3:34 | 2022-04-01 |  |
 | [SUN & MOON](https://open.spotify.com/track/5hydYnlC66FvUwY5nYp9sI) | [wethefuture\(위더퓨쳐\)](https://open.spotify.com/artist/1MvKRHxbDeKDNdyl4avLT2) | [SUN & MOON](https://open.spotify.com/album/6zeyo05K5MbpV6ck1m422P) | 3:19 | 2022-08-01 | 2022-08-13 |
 | [Sunday](https://open.spotify.com/track/5OYu2gZDLzCGEYgeNvcmO2) | [FR:EDEN](https://open.spotify.com/artist/6psIuXSnGPGKY93Wcj1qeW), [Oz](https://open.spotify.com/artist/4qSDffaAMImvr2UHN5iqi5) | [Sunday](https://open.spotify.com/album/6Rdcr8uhBhaNFbuH4LVD2U) | 2:34 | 2022-04-21 | 2022-07-20 |
-| [Sunday \(feat\. HEIZE, Jay Park\)](https://open.spotify.com/track/0JJeoiCAa1hwcBsPxBN2w4) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB) | [EVERYWHERE](https://open.spotify.com/album/3046u4AKfbzmAxslPFkiP7) | 3:02 | 2022-04-21 |  |
+| [Sunday \(feat\. HEIZE, Jay Park\)](https://open.spotify.com/track/0JJeoiCAa1hwcBsPxBN2w4) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVERYWHERE](https://open.spotify.com/album/3046u4AKfbzmAxslPFkiP7) | 3:02 | 2022-04-21 |  |
 | [SUR:VIBE \(feat\. BRAWL STARS\)](https://open.spotify.com/track/4AOEeJbeHPYCEzxfsStEwG) | [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [Brawl Stars](https://open.spotify.com/artist/6uqbI01HHuIVZ2LcZoDGlG) | [SUR:VIBE \(feat\. BRAWL STARS\)](https://open.spotify.com/album/0A85GFAjC2oiJu7phflbCN) | 3:13 | 2022-05-05 | 2022-05-12 |
 | [Survival Rapper](https://open.spotify.com/track/2dLQDEG4Y0EKsaXNbmQcwm) | [lil bosal](https://open.spotify.com/artist/61uB19bE5ejvku0NCSAH2t) | [Bosal Coin](https://open.spotify.com/album/3IYYz6DyYX5ihg733A5ksL) | 2:16 | 2022-05-05 | 2022-06-14 |
 | [Sweatpants](https://open.spotify.com/track/6KvCQg5TgZcINznUKpZVVT) | [Junoflo](https://open.spotify.com/artist/5ZjBaiZiRUZx4AmlzOOc9R) | [Sweatpants](https://open.spotify.com/album/3OfwdpjIP0f8dAwP9wURp6) | 2:58 | 2022-07-24 | 2022-07-27 |
@@ -516,7 +517,7 @@
 | [Zombie](https://open.spotify.com/track/2D0DdRLTuFSNxWeaLclxHa) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz) | [From dusk till dawn](https://open.spotify.com/album/5fLtnSbHDxFjOd9iLdWrjd) | 3:04 | 2022-06-13 | 2022-06-27 |
 | [달탈출 \(prod\. Eric Godlow\)](https://open.spotify.com/track/5tHZeai2kCe9wIiMhnUjfn) | [윤해찬](https://open.spotify.com/artist/4egBOzXgXYoswwOvmxrmJ1) | [Escape From The Moon](https://open.spotify.com/album/4ZYJasF7PL3F3ZRUVnKxao) | 4:10 | 2022-06-27 | 2022-06-30 |
 | [무너져 \(Art\. VEAN\)](https://open.spotify.com/track/6VVIJyheSpW8hM4CTr9xXR) | [Anonymous Artists](https://open.spotify.com/artist/6U6zWkFtgM3UU5c1hBlGCD) | [ARTIST\. VEAN](https://open.spotify.com/album/58ke1EMXzfH9T6NgmSsXOd) | 2:52 | 2022-05-11 | 2022-05-21 |
-| [빙그레](https://open.spotify.com/track/1gtabUo4ov467fUjf2514i) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [D\-Hack](https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR) | [빙그레](https://open.spotify.com/album/6B9m5Qnxof67GWuBYBROxU) | 3:04 | 2022-08-17 |  |
+| [빙그레](https://open.spotify.com/track/1gtabUo4ov467fUjf2514i) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [D\-Hack](https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR) | [빙그레](https://open.spotify.com/album/6B9m5Qnxof67GWuBYBROxU) | 3:04 | 2022-08-17 | 2022-09-01 |
 | [이 고요가 너무 좋아](https://open.spotify.com/track/2KvpeVhE15918QtnCc3QCJ) | [BOYHOOD](https://open.spotify.com/artist/2r8smtQqQ7z4M9guHnawaM) | [수면마취](https://open.spotify.com/album/4aXsVV3ulNKMj6H3TZThgS) | 3:06 | 2022-04-01 | 2022-07-14 |
 | [후회 \(feat\. 김승민\)](https://open.spotify.com/track/6mGDrU10ewbBdeJrgD5ScG) | [CARSPACE](https://open.spotify.com/artist/6mScVyqAyNG48yrL20Rdd4), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [L.V.D \(LOVED YOU\)](https://open.spotify.com/album/5lAl1gROcOPUFHczVMo2rT) | 3:52 | 2022-07-04 | 2022-07-15 |
 

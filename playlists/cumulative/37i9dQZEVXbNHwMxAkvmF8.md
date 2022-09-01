@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-504 songs - 1 day 2 hr 49 min - [published](https://open.spotify.com/playlist/7svddjzxIPaFrTrcCSo8Qo)
+505 songs - 1 day 2 hr 53 min - [published](https://open.spotify.com/playlist/7svddjzxIPaFrTrcCSo8Qo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [GUCCI](https://open.spotify.com/track/72uWCXxhwYjonmZ4FHHSlo) | [Kisé](https://open.spotify.com/artist/6zqr73J6gm3Son1vnWkbfK) | [GUCCI](https://open.spotify.com/album/0QP7ikbw1cO7bGJdQvMQh8) | 3:05 | 2022-07-02 | 2022-07-14 |
 | [Gyere be velem \(DUBAI GANG\)](https://open.spotify.com/track/4gcs66ZUuad1jhSQMB16w9) | [Bsw](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [Gyere be velem \(DUBAI GANG\)](https://open.spotify.com/album/6WPM7u53B56c8v8bTeEoc6) | 3:38 | 2021-10-18 | 2021-11-23 |
 | [Gyere Velem](https://open.spotify.com/track/10wMZu2Y9o55ylw6mRSiKB) | [AKC Kretta](https://open.spotify.com/artist/3NuMiSIG3kYlW4dGwljerz), [AKC Misi](https://open.spotify.com/artist/4pWRro00gdnq90CwBmSCtv) | [Gyere Velem](https://open.spotify.com/album/7lVPjtejDmQ4y7hm006ULK) | 3:20 | 2021-09-29 | 2022-05-31 |
+| [Ha eddig nem kellettem](https://open.spotify.com/track/0WiQVffKlsnClBBKZ1K3Zj) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [Ha eddig nem kellettem](https://open.spotify.com/album/0I4eY1zWo3VxDU15WPIkG2) | 3:35 | 2022-08-31 |  |
 | [Ha Elmegyek](https://open.spotify.com/track/2cHRseVmn2cfCChNmizemK) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [Ha Elmegyek](https://open.spotify.com/album/0sOK2IcTaW8a5BctjWughl) | 3:27 | 2022-01-02 | 2022-03-04 |
 | [Ha meghalok](https://open.spotify.com/track/5o5F8K2f2J258y3ZpfU5Ii) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [Ha meghalok](https://open.spotify.com/album/1xtToPt8kaJzsQFApViuJx) | 3:21 | 2022-04-20 | 2022-08-12 |
 | [Habibi](https://open.spotify.com/track/38U5WKJpBQncqAss18dLrO) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [A ló túloldalán](https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7) | 2:41 | 2022-05-21 |  |
@@ -371,7 +372,7 @@
 | [RAPSTAR](https://open.spotify.com/track/18vXApRmJSgQ6wG2ll9AOg) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Hall of Fame](https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT) | 2:45 | 2021-06-13 | 2021-07-04 |
 | [RAPSTAR](https://open.spotify.com/track/43PGPuHIlVOc04jrZVh9L6) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [RAPSTAR](https://open.spotify.com/album/0SVzFcpsByITKgURaxXdsV) | 2:45 | 2021-04-11 | 2021-06-13 |
 | [Rasputin](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Rasputin](https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd) | 3:06 | 2021-06-06 | 2022-01-03 |
-| [Reptér](https://open.spotify.com/track/7kpbpRnTHMwuSORe4iyG07) | [György Korda](https://open.spotify.com/artist/1PXk0bxaXI8afcSConDJNh) | [Napfény kell a világnak \- Tegnap és ma](https://open.spotify.com/album/2LWJ11EiGfbYTN1n4NMA5I) | 4:09 | 2022-08-05 |  |
+| [Reptér](https://open.spotify.com/track/7kpbpRnTHMwuSORe4iyG07) | [György Korda](https://open.spotify.com/artist/1PXk0bxaXI8afcSConDJNh) | [Napfény kell a világnak \- Tegnap és ma](https://open.spotify.com/album/2LWJ11EiGfbYTN1n4NMA5I) | 4:09 | 2022-08-05 | 2022-09-01 |
 | [rip gemini](https://open.spotify.com/track/4XJ2uUkJRhxURCE3vFvvD0) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [camouflage](https://open.spotify.com/album/3OFCYRfoLNKtAnr1CsSVqa) | 2:17 | 2021-07-01 | 2021-07-02 |
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 | 2021-11-28 | 2021-12-29 |
 | [ROCKSTAR \(feat\. Roddy Ricch\)](https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [BLAME IT ON BABY](https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e) | 3:01 | 2021-03-27\* | 2021-04-13 |

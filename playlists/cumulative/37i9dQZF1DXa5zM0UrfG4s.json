@@ -1007,7 +1007,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 167991,
       "name": "Du f\u00e5r aldri se meg naken igjen",
       "url": "https://open.spotify.com/track/4GABBQMuh1RMA2VPe1Uzud"
@@ -1800,6 +1800,28 @@
     },
     {
       "album": {
+        "name": "HAALAND",
+        "url": "https://open.spotify.com/album/6oBrrSkRLcvyVWe9ZwIvMl"
+      },
+      "artists": [
+        {
+          "name": "Kevin Lauren",
+          "url": "https://open.spotify.com/artist/0MVtdQmPsEozKSPjeLUyn1"
+        },
+        {
+          "name": "BEK & Moberg",
+          "url": "https://open.spotify.com/artist/0gWpQRbOQI94EAWpfYQd0X"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104270,
+      "name": "HAALAND",
+      "url": "https://open.spotify.com/track/0LOCSZsi6mwN14aWHi8VCI"
+    },
+    {
+      "album": {
         "name": "Hardanger",
         "url": "https://open.spotify.com/album/02ryizgagnxpEPbjcRuplt"
       },
@@ -2010,6 +2032,24 @@
     },
     {
       "album": {
+        "name": "Geasseijat",
+        "url": "https://open.spotify.com/album/3shwdZY9LBfiRuAHpt3TNT"
+      },
+      "artists": [
+        {
+          "name": "rOlfFa",
+          "url": "https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263226,
+      "name": "Hjerteknuser",
+      "url": "https://open.spotify.com/track/6D2Hxj0e7gZojlFBV1fKBx"
+    },
+    {
+      "album": {
         "name": "Hva skjedde n\u00e5?",
         "url": "https://open.spotify.com/album/0s43Es79OPnqCYLj27eFUv"
       },
@@ -2021,7 +2061,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 233154,
       "name": "Hva skjedde n\u00e5?",
       "url": "https://open.spotify.com/track/3MU7bSZdfMWg44OhS0SOej"

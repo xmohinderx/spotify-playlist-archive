@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SiEKUUEVVi.md) - [plain]
 
 > Intoxicating, joyful pop captures the Pride spirit for the Austrian drag queen and Eurovision Song Contest 2014 winner.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,980 likes - 29 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,979 likes - 29 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SiEKUUEVVi.md) - [plain]
 | 18 | [Motherless Child](https://open.spotify.com/track/6K8maSfqAvR82mV6rrDC5Z) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5), [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Reload](https://open.spotify.com/album/4cFoiStUR2uBHKKZUWtaBG) | 5:09 |
 | 19 | [Deep](https://open.spotify.com/track/63FjsyDMefiiQuuQkDbGlg) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1), [N'Dambi](https://open.spotify.com/artist/3Qq0yiyJZJu8L2PS5zpFVX) | [Family Dinner \- Vol\. 1](https://open.spotify.com/album/7uveEcuLgfEecFLxABRKnO) | 5:13 |
 | 20 | [All The Things Lost](https://open.spotify.com/track/62P3dTff68UTyYPqbGpaXs) | [MS MR](https://open.spotify.com/artist/4XaUmUGjidSklcDHxv3XWf) | [How Does It Feel](https://open.spotify.com/album/1jiIy9BncsplWeFEgbtbRW) | 3:14 |
-| 21 | [Gopher Mambo \- Remastered 2009](https://open.spotify.com/track/6TsE30wjcOmuQRheHdtaAF) | [Gozzo](https://open.spotify.com/artist/2pdPgAYPa2nKBgE1yCEZr0), [Billy May](https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq), [Yma Sumac](https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d), [Billy May's Rico Billy May's Rico Mambo OrchestraMambo Orchestra](https://open.spotify.com/artist/37clSqgC3rfNpZIY0mHDbW) | [Mambo!](https://open.spotify.com/album/6OenJxBgcOKKqrfaLagFDL) | 2:17 |
+| 21 | [Gopher Mambo \- Remastered 2009](https://open.spotify.com/track/6TsE30wjcOmuQRheHdtaAF) | [Gozzo](https://open.spotify.com/artist/2pdPgAYPa2nKBgE1yCEZr0), [Billy May](https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq), [Yma Sumac](https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d), [The Rico Mambo Orchestra](https://open.spotify.com/artist/11GPsCMxATNWk1L7OKFLpH) | [Mambo!](https://open.spotify.com/album/6OenJxBgcOKKqrfaLagFDL) | 2:17 |
 | 22 | [BITE](https://open.spotify.com/track/72mvdKU4Lw2737idPLKTjh) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Blue Neighbourhood \(Deluxe\)](https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW) | 3:06 |
 | 23 | [Out of Body Experience](https://open.spotify.com/track/0DqT9HiT8Yz4EPxZPzgr03) | [Conchita Wurst](https://open.spotify.com/artist/1TGdxJ3UvFq055SVjwx49v) | [Conchita](https://open.spotify.com/album/3Fpq5QWmRxZtEE8h8bm04S) | 3:41 |
 | 24 | [Gone](https://open.spotify.com/track/73U20lYCzqwGLLk4V7u3ul) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Is Your Love Big Enough? \(Deluxe Edition\)](https://open.spotify.com/album/3S7PPQijoPQ8ASlHl6LsJ9) | 4:24 |

@@ -143,7 +143,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 239397,
       "name": "Afro Golden Line",
       "url": "https://open.spotify.com/track/1DD7PGYav6CYBtYtwhzWzI"
@@ -935,7 +935,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 282199,
       "name": "Bersinar Bersamamu",
       "url": "https://open.spotify.com/track/6pAUpp3urzftoj3O5wrw4q"
@@ -1931,7 +1931,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 360640,
       "name": "Discomania (feat. Jolly Mare) - Jolly Mare Lifting",
       "url": "https://open.spotify.com/track/2pfxdAaztChUst0Uw4lbKB"
@@ -2926,6 +2926,24 @@
     },
     {
       "album": {
+        "name": "Ghibli",
+        "url": "https://open.spotify.com/album/2pqPnxT0Gw26Ikoucjm3As"
+      },
+      "artists": [
+        {
+          "name": "Savana Funk",
+          "url": "https://open.spotify.com/artist/2t3g4JYFXvXMcvPaVw6BnG"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235519,
+      "name": "Ghibli",
+      "url": "https://open.spotify.com/track/034Z4bIOzqWhWaQNxOZMDU"
+    },
+    {
+      "album": {
         "name": "Giants",
         "url": "https://open.spotify.com/album/2pTwOjonL43m8VlxlX74KO"
       },
@@ -3711,7 +3729,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 179567,
       "name": "I'm Gonna Make It",
       "url": "https://open.spotify.com/track/5oeL6Qnnlg4x789IMHQyl3"
@@ -3963,7 +3981,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 256470,
       "name": "It's a Joke",
       "url": "https://open.spotify.com/track/20nb4i2WWyPDXhiQTZqlrV"
@@ -5472,6 +5490,24 @@
     },
     {
       "album": {
+        "name": "Namida",
+        "url": "https://open.spotify.com/album/3Vci1JMzgMIdq7BdDhfEvs"
+      },
+      "artists": [
+        {
+          "name": "Meister Lampe",
+          "url": "https://open.spotify.com/artist/4KjUoFUS7MM53AJtofvn1i"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150453,
+      "name": "Namida",
+      "url": "https://open.spotify.com/track/7rho0mYRpmum5Zu85nwpUd"
+    },
+    {
+      "album": {
         "name": "Navegar",
         "url": "https://open.spotify.com/album/0STSPqCUQ5R3j5q9hO38Na"
       },
@@ -6772,6 +6808,24 @@
     },
     {
       "album": {
+        "name": "Serpentines (to Nik\u0161i\u0107)",
+        "url": "https://open.spotify.com/album/08BlKbdWhzZpClKQnFIX9s"
+      },
+      "artists": [
+        {
+          "name": "Takeshi's Cashew",
+          "url": "https://open.spotify.com/artist/6Fz85Ih5XufwQ1TH4s0pHA"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287026,
+      "name": "Serpentines (to Nik\u0161i\u0107)",
+      "url": "https://open.spotify.com/track/5nLwagkCr9b7kvXGqmPGMZ"
+    },
+    {
+      "album": {
         "name": "Shake",
         "url": "https://open.spotify.com/album/1TTt9ZEy0EmabFaJLXnvtZ"
       },
@@ -7228,6 +7282,24 @@
     },
     {
       "album": {
+        "name": "Suburban Breeze",
+        "url": "https://open.spotify.com/album/3fmEXZmMuAdvDGXqfRPeq9"
+      },
+      "artists": [
+        {
+          "name": "Surprise Chef",
+          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127545,
+      "name": "Suburban Breeze",
+      "url": "https://open.spotify.com/track/5zz75fDAvsJj7e63D5iMyY"
+    },
+    {
+      "album": {
         "name": "Sun Khosi",
         "url": "https://open.spotify.com/album/5NgVPG2bQoy2wlGTFZZdRV"
       },
@@ -7674,6 +7746,28 @@
     },
     {
       "album": {
+        "name": "Tongo Barra",
+        "url": "https://open.spotify.com/album/5mWSH5ReDP2NGc7XY9j9lN"
+      },
+      "artists": [
+        {
+          "name": "Vieux Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
+        },
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333150,
+      "name": "Tongo Barra",
+      "url": "https://open.spotify.com/track/3skOhs7TlQOCuzHjmTa8Xg"
+    },
+    {
+      "album": {
         "name": "Moving Forward",
         "url": "https://open.spotify.com/album/5HFOwW2XFKuvxBAygK7pBE"
       },
@@ -7911,6 +8005,24 @@
       "duration_ms": 213749,
       "name": "Unathi",
       "url": "https://open.spotify.com/track/4ZPv3a0aoAmDty8IKFXB3e"
+    },
+    {
+      "album": {
+        "name": "Under No Nation (Radio Edit)",
+        "url": "https://open.spotify.com/album/6NpZ9v8aJwdLdhhVEJq3Lm"
+      },
+      "artists": [
+        {
+          "name": "Goat",
+          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184256,
+      "name": "Under No Nation - Radio Edit",
+      "url": "https://open.spotify.com/track/4FtumUPkZgKXyItJx2telR"
     },
     {
       "album": {
@@ -8237,7 +8349,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 220853,
       "name": "We Give Thanks",
       "url": "https://open.spotify.com/track/6clBGIQRBtCnmMGeHM2g75"

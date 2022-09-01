@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 
 ### [All New Jazz](https://open.spotify.com/playlist/37i9dQZF1DWW2c0C8Vb2IR)
 
-> All new, all jazz\. <a href="spotify:genre:0JQ5IMCbQBLmUyU8VyapEr">Click here for more new jazz.</a> Cover: Ezra Collective
+> All new, all jazz\. Cover: Ezra Collective
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,473 likes - 44 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,347 likes - 44 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 | 43 | [Ciudad satélite](https://open.spotify.com/track/6rvrub77C6DlMNwIQwfl1c) | [Agustí Espín](https://open.spotify.com/artist/0w3LoIqgA3sZ9gYwCAyApH) | [Ciudad satélite](https://open.spotify.com/album/69WOD3Kkbs4exLCvvZzGji) | 5:00 |
 | 44 | [Trailblazers](https://open.spotify.com/track/6LsZQaIDYBPuU9IMXgMZHr) | [Tobias Hoffmann Jazz Orchestra](https://open.spotify.com/artist/7uUV6R9Vsjs4lAa2OhjWjW), [Jonas Brinckmann](https://open.spotify.com/artist/48wbTSdID0t6qtI7zXEcMi), [Kasperi Sarikoski](https://open.spotify.com/artist/1yNUIy8ESiCTqEcCcf0snT) | [Trailblazers](https://open.spotify.com/album/6Doh5uqJVqDZXKnPWUj45N) | 7:54 |
 
-Snapshot ID: `MTY2MTQ4NjQ2MCwwMDAwMDAwMGU0OGUxN2FiZTRjNGQxNjIxY2ZhMWYzNmI0MmM5YzA2`
+Snapshot ID: `MTY2MTk2MTYxOCwwMDAwMDAwMDg4OTQzMGQ5NGM1MGZhNWY2Mjk1Mjg3OTQ4ZTRhN2Y0`

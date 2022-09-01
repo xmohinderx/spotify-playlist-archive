@@ -1,13 +1,29 @@
 {
   "description": "The soundtrack to the internet. Cover: JELEEL!",
-  "num_followers": 1226095,
+  "num_followers": 1226103,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg5NDk1NCwwMDAwMDAwMGE2NzhiNmViNjk3N2IzYmJmMDI4YTZiOTZkYmU2MjIw",
+  "snapshot_id": "MTY2MTk1ODUzOCwwMDAwMDAwMGFkYmMyOTM4NTg2ZDgzODBhMjE3ODI0ZTBkMzBkM2E2",
   "tracks": [
+    {
+      "added_at": "2022-08-31 03:13:57",
+      "album": {
+        "name": "Glock Bond",
+        "url": "https://open.spotify.com/album/1J4REuUZfX1OjjQhi9whzA"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 142497,
+      "name": "Russian Cream",
+      "url": "https://open.spotify.com/track/03ThZweiBWFP8tOGsk6QMO"
+    },
     {
       "added_at": "2022-07-16 17:02:15",
       "album": {
@@ -61,20 +77,56 @@
       "url": "https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz"
     },
     {
-      "added_at": "2022-07-05 20:54:31",
+      "added_at": "2022-08-31 15:08:58",
       "album": {
-        "name": "#miles",
-        "url": "https://open.spotify.com/album/2PCs0ZB8bHofV9khzpRmal"
+        "name": "LOUIE",
+        "url": "https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj"
       },
       "artists": [
         {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+          "name": "Kenny Beats",
+          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
         }
       ],
-      "duration_ms": 115138,
-      "name": "#miles",
-      "url": "https://open.spotify.com/track/1hboZZxKIEjLHRIkhx4Soi"
+      "duration_ms": 106866,
+      "name": "Hold My Head",
+      "url": "https://open.spotify.com/track/4eSZUNz2flCKs7zESV50kW"
+    },
+    {
+      "added_at": "2022-08-12 18:54:23",
+      "album": {
+        "name": "Righteous",
+        "url": "https://open.spotify.com/album/4wKiLDuvLSKBtWyez67oSG"
+      },
+      "artists": [
+        {
+          "name": "Mo Beats",
+          "url": "https://open.spotify.com/artist/2Hil1oktsE7Wic4X5cBGK3"
+        }
+      ],
+      "duration_ms": 163902,
+      "name": "Righteous",
+      "url": "https://open.spotify.com/track/6pzXbWt70WzfOXp6xfbQWr"
+    },
+    {
+      "added_at": "2022-08-31 03:01:24",
+      "album": {
+        "name": "vendetta!",
+        "url": "https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr"
+      },
+      "artists": [
+        {
+          "name": "MUPP",
+          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
+        },
+        {
+          "name": "Sadfriendd",
+          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
+        }
+      ],
+      "duration_ms": 107044,
+      "name": "vendetta!",
+      "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
     },
     {
       "added_at": "2022-08-26 04:41:00",
@@ -93,20 +145,20 @@
       "url": "https://open.spotify.com/track/3h4EcZwKDcJl11xjI3gPMQ"
     },
     {
-      "added_at": "2022-08-12 18:54:23",
+      "added_at": "2022-07-05 20:54:31",
       "album": {
-        "name": "Righteous",
-        "url": "https://open.spotify.com/album/4wKiLDuvLSKBtWyez67oSG"
+        "name": "#miles",
+        "url": "https://open.spotify.com/album/2PCs0ZB8bHofV9khzpRmal"
       },
       "artists": [
         {
-          "name": "Mo Beats",
-          "url": "https://open.spotify.com/artist/2Hil1oktsE7Wic4X5cBGK3"
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
         }
       ],
-      "duration_ms": 163902,
-      "name": "Righteous",
-      "url": "https://open.spotify.com/track/6pzXbWt70WzfOXp6xfbQWr"
+      "duration_ms": 115138,
+      "name": "#miles",
+      "url": "https://open.spotify.com/track/1hboZZxKIEjLHRIkhx4Soi"
     },
     {
       "added_at": "2022-08-26 04:41:00",
@@ -241,6 +293,22 @@
       "url": "https://open.spotify.com/track/7MODHYi60npkw5bgBStqV3"
     },
     {
+      "added_at": "2022-08-31 03:01:24",
+      "album": {
+        "name": "you're a parasite",
+        "url": "https://open.spotify.com/album/0gxx85pC89jMKmPIyL0kPa"
+      },
+      "artists": [
+        {
+          "name": "Riovaz",
+          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
+        }
+      ],
+      "duration_ms": 152450,
+      "name": "you're a parasite",
+      "url": "https://open.spotify.com/track/2uMv1AvQhvXk4F3DAeABGg"
+    },
+    {
       "added_at": "2022-06-17 17:10:01",
       "album": {
         "name": "Die Young (feat. 347aidan)",
@@ -259,22 +327,6 @@
       "duration_ms": 148816,
       "name": "Die Young (feat. 347aidan)",
       "url": "https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH"
-    },
-    {
-      "added_at": "2022-07-22 07:00:00",
-      "album": {
-        "name": "Deaf 2 Society",
-        "url": "https://open.spotify.com/album/3ETv6ySY65z1GlHde1TGby"
-      },
-      "artists": [
-        {
-          "name": "Luclover",
-          "url": "https://open.spotify.com/artist/6ehZYiWgZXXxjTbziiKj60"
-        }
-      ],
-      "duration_ms": 103440,
-      "name": "L$d",
-      "url": "https://open.spotify.com/track/6f7jHMkHBJ9HVat7wjfkOr"
     },
     {
       "added_at": "2022-08-26 04:41:00",
@@ -725,24 +777,20 @@
       "url": "https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge"
     },
     {
-      "added_at": "2022-06-17 17:10:01",
+      "added_at": "2022-08-31 03:13:09",
       "album": {
-        "name": "Faster (Sped Up)",
-        "url": "https://open.spotify.com/album/6MYpoQeEO6l8yxd15w6Rce"
+        "name": "Like Yay",
+        "url": "https://open.spotify.com/album/76PpFLRcZtGmV97QajJPx8"
       },
       "artists": [
         {
-          "name": "A.Oonthebeat",
-          "url": "https://open.spotify.com/artist/1wEqe2EwOgePW2eQb0Du2J"
-        },
-        {
-          "name": "Jupyter",
-          "url": "https://open.spotify.com/artist/4J6FA22xD10UHtjrVHeWm9"
+          "name": "Big Yavo",
+          "url": "https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF"
         }
       ],
-      "duration_ms": 146735,
-      "name": "Faster (Sped Up)",
-      "url": "https://open.spotify.com/track/1tlPauwjMeBY5ZiQA5wLH3"
+      "duration_ms": 151000,
+      "name": "Him",
+      "url": "https://open.spotify.com/track/7w4lnEj8VwQ0xNpl1M3I0G"
     },
     {
       "added_at": "2022-07-15 04:01:00",
@@ -923,22 +971,6 @@
       "duration_ms": 118750,
       "name": "12 Stout Street",
       "url": "https://open.spotify.com/track/7K1HH9OC6nZlJqrGnr8r1g"
-    },
-    {
-      "added_at": "2022-07-29 05:51:00",
-      "album": {
-        "name": "see u there",
-        "url": "https://open.spotify.com/album/0RJNi6SNswNuVRClimJ73W"
-      },
-      "artists": [
-        {
-          "name": "Riovaz",
-          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
-        }
-      ],
-      "duration_ms": 105534,
-      "name": "see u there",
-      "url": "https://open.spotify.com/track/0MqYDyMfzBj0YFWTLHVhag"
     },
     {
       "added_at": "2022-06-17 17:10:01",
@@ -1195,22 +1227,6 @@
       "duration_ms": 146494,
       "name": "Phil Jackson",
       "url": "https://open.spotify.com/track/1gta8EqFZ9rpF7Ci4lo3vD"
-    },
-    {
-      "added_at": "2022-06-17 17:10:01",
-      "album": {
-        "name": "2 Aliv\u00eb (Ge\u00ebk Pack)",
-        "url": "https://open.spotify.com/album/0345WPzPBSeISh2IpIQWxT"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Dub",
-      "url": "https://open.spotify.com/track/2Ocbja3GNcxq9Ualmmvfc1"
     },
     {
       "added_at": "2022-06-17 17:10:01",
@@ -1747,22 +1763,6 @@
       "duration_ms": 150124,
       "name": "hollon (with Yeat & Yung Kayo)",
       "url": "https://open.spotify.com/track/0u5Y5FWCzA3ylk78PnuXuS"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "IF I STILL HAD A HEART",
-        "url": "https://open.spotify.com/album/4sTVvtxBxaiWAbyWfJZ7Ka"
-      },
-      "artists": [
-        {
-          "name": "CHIBI LOL",
-          "url": "https://open.spotify.com/artist/62PYvzCDoQOXCe2BT7oEuF"
-        }
-      ],
-      "duration_ms": 150130,
-      "name": "Money Galore",
-      "url": "https://open.spotify.com/track/7hKf6BciAf9Qa1yWYtCxzQ"
     },
     {
       "added_at": "2022-08-29 15:35:16",

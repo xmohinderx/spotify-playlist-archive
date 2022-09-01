@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX87JE1B72J6C.md) - [plain]
 
 > The essential deadmau5 originals and remixes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,856 likes - 62 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,906 likes - 62 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX87JE1B72J6C.md) - [plain]
 | 61 | [HaxPigMeow](https://open.spotify.com/track/6oiCGnOy9wy8rVl2c1juvG) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [stuff i used to do](https://open.spotify.com/album/77lJ42P4qgi7HJTOjMmcBp) | 10:10 |
 | 62 | [I Said \- Original Mix](https://open.spotify.com/track/5ADGfiyPF0rubIpfl7TWbm) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE) | [I Said](https://open.spotify.com/album/1WfFp159RAX5dBwfisondH) | 7:31 |
 
-Snapshot ID: `MTY0NzM1NDgyMSwwMDAwMDAwMDExN2Q2OTU5NzBiYTkxZDFkZjY0OTg5ZDEyMjViY2Qy`
+Snapshot ID: `MTY2MTk0OTg5OSwwMDAwMDAwMDkxMjE3ZTIwYmYzNjNmNjBkZDgzYWUxODFlYzMwZDU4`

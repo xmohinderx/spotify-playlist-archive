@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 
 > As belas novidades da MPB\. Foto: Salma e Mac
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,840 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,884 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 | 84 | [Caso Perdido](https://open.spotify.com/track/25ADV54r5NaD6yM7JZtUmO) | [Arthus Fochi](https://open.spotify.com/artist/2Qz4Q1BZizbj4UuUlyhLdj), [Qinhones](https://open.spotify.com/artist/0pcMoyp7o9Fv8sGMm9rjAU) | [Caso Perdido](https://open.spotify.com/album/22QeGvBIhn7Y7durJWkeff) | 3:24 |
 | 85 | [Folia](https://open.spotify.com/track/6j6yrIDSsci3JYiVNgwGLf) | [Verônica Ferriani](https://open.spotify.com/artist/4VrFWmVoU4k6pJzLSe82WA), [Gian Correa](https://open.spotify.com/artist/3AU1eNnX4ndJA0m73d9qCc) | [SambadorA](https://open.spotify.com/album/7gaN0jN1DMDqu4HcrO1THK) | 3:48 |
 | 86 | [Eternas Esquinas](https://open.spotify.com/track/5TGvvrDtr3NlduMiN0hm6w) | [Gabriel Moura](https://open.spotify.com/artist/74MDOYWli1AkLP7U4mIFqW), [Gabriel Guedes](https://open.spotify.com/artist/3svMFxGPlWoxKa6ErrYutE) | [Eternas Esquinas](https://open.spotify.com/album/6W9wRkGhajLwy5aRoUF3et) | 4:07 |
-| 87 | [HUMBIHUMBI](https://open.spotify.com/track/49hZHHz9ZBU9mwDebZp7ep) | [Jorge Vercillo](https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs) | [HUMBIUMBI](https://open.spotify.com/album/1mu3dEgT3LIJ3Vxkh3QPyM) | 3:57 |
+| 87 | [HUMBIUMBI](https://open.spotify.com/track/49hZHHz9ZBU9mwDebZp7ep) | [Jorge Vercillo](https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs) | [Humbiumbi](https://open.spotify.com/album/1mu3dEgT3LIJ3Vxkh3QPyM) | 3:57 |
 | 88 | [Pra Sorrir](https://open.spotify.com/track/3Wzr7JiTQqdEhGuMYOdMQ4) | [Douglas Lopes](https://open.spotify.com/artist/7tWPG5zZcCcn2Mi3UJlHjl), [Nano Vianna](https://open.spotify.com/artist/1LP64FKTCHAOS8msavxB9P) | [Pra Sorrir](https://open.spotify.com/album/3S6O5n8DR48FIiaGwrCv0c) | 3:23 |
 | 89 | [Templos \- Ao Vivo](https://open.spotify.com/track/5gOXswoH6SMzvWy7lvCpQC) | [Chico Chico](https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s), [Macaco Gordo](https://open.spotify.com/artist/2MeRUZA62b85P4U5DcdzZ9) | [Chico Chico Ao Vivo na Macaco Gordo](https://open.spotify.com/album/1bus2kUGKliwotPBTiPUBo) | 3:15 |
 | 90 | [Retrópicos](https://open.spotify.com/track/2PQeABnFDGAtJMMgtWxGtj) | [Paulo Ohana](https://open.spotify.com/artist/3f9cXdDfm0WiprbKUH6712) | [Retrópicos](https://open.spotify.com/album/76EbimmJ5cRGNUi4kWHsKj) | 4:31 |

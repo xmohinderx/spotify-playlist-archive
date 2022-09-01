@@ -4,7 +4,7 @@
 
 > La nueva ola de artistas y creadores mexas: presentamos a Kevin Kaarl\. 🌊✨
 
-202 songs - 10 hr 34 min - [published](https://open.spotify.com/playlist/6I4k19QivQTwxJMIU1FW10)
+203 songs - 10 hr 39 min - [published](https://open.spotify.com/playlist/6I4k19QivQTwxJMIU1FW10)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Nunca Nos Fuimos](https://open.spotify.com/track/0DN1KHZWcefWyZvlL9TWJc) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [Aroma A Nostalgia \(Deluxe Edition\)](https://open.spotify.com/album/3K6S0Mt1ZMrcjuCiOztmBJ) | 4:34 | 2021-12-10 | 2022-02-19 |
 | [ojalá </3](https://open.spotify.com/track/2Gf3SCoQqgRbxUdjsP3IP4) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [ojalá </3](https://open.spotify.com/album/0dZbJuwWFwFqXSq6BC1xes) | 2:51 | 2022-03-11 | 2022-07-19 |
 | [Olvidarme](https://open.spotify.com/track/52XioIzucenybSvvimJ1hk) | [Donovan](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Olvidarme](https://open.spotify.com/album/6T1ZAoP7VkeDbdKwlwI1q1) | 2:51 | 2021-12-10 | 2022-04-23 |
-| [Otro Día](https://open.spotify.com/track/0bUfdeUmiVzHSIT5l2NmGa) | [Angel Vergara](https://open.spotify.com/artist/5MPkxfxPIhOca5QfYPfP2x), [ARIA](https://open.spotify.com/artist/6W4UUzoroQt4P9pjHnauHt) | [Otro Día](https://open.spotify.com/album/1YAp4K65JOhGKRpbu1gnMb) | 2:39 | 2022-05-16 |  |
+| [Otro Día](https://open.spotify.com/track/0bUfdeUmiVzHSIT5l2NmGa) | [Angel Vergara](https://open.spotify.com/artist/5MPkxfxPIhOca5QfYPfP2x), [ARIA](https://open.spotify.com/artist/6W4UUzoroQt4P9pjHnauHt) | [Otro Día](https://open.spotify.com/album/1YAp4K65JOhGKRpbu1gnMb) | 2:39 | 2022-05-16 | 2022-09-01 |
 | [Pa PRIVE](https://open.spotify.com/track/59EISn3QlxiItQFAlk4WVy) | [Steff](https://open.spotify.com/artist/0Gh7dmIj59Sa4JPy9x0yUt) | [Pa PRIVE](https://open.spotify.com/album/1NcSaHWDtxlB7VX3RbwKhS) | 3:10 | 2022-05-27 |  |
 | [Pa Que Te Digo Que No](https://open.spotify.com/track/4NhkLL44pqu1tw479u1KIx) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL) | [Pa Que Te Digo Que No](https://open.spotify.com/album/5ISB8ui1kJkiMkaMNOO8jr) | 2:54 | 2022-05-27 | 2022-08-20 |
 | [Pa'l Viento](https://open.spotify.com/track/12q0LhDcpKvOjRxMpL9RfE) | [Sous\-Sol](https://open.spotify.com/artist/6npvMAuRzmnkSxIlxwdG0T) | [Pa'l Viento](https://open.spotify.com/album/1Lq8u0fHqS6I52EaPHpn3O) | 2:25 | 2022-07-04 |  |
@@ -177,6 +177,7 @@
 | [Supersad](https://open.spotify.com/track/45GH9XOvr1OR5znGgqXyxW) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Supersad](https://open.spotify.com/album/2DP6dlnGbY9W2ZkH4BKCNh) | 3:35 | 2021-12-10 | 2022-06-17 |
 | [Tamagotchi](https://open.spotify.com/track/0qHrI3sYAchQOnj0biIhLR) | [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh) | [Tamagotchi](https://open.spotify.com/album/30UuPIcZoexQdXC1BWSH5z) | 3:03 | 2021-12-10 | 2022-02-19 |
 | [Te Marqué Pedo \- Remix](https://open.spotify.com/track/6FmNYdaLvcxqTiXjpXMriI) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Te Marqué Pedo \(Remix\)](https://open.spotify.com/album/0fRcpehAhXLPmOTyXanErg) | 3:37 | 2022-02-11 | 2022-08-20 |
+| [te quiero tanto](https://open.spotify.com/track/04aBuWoZeHYJeDDTWYSgso) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 5:25 | 2022-08-31 |  |
 | [Televisión](https://open.spotify.com/track/4JcxRWYxGWG3Miieh34Z1K) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g), [Joheel Rodmar](https://open.spotify.com/artist/2IhzYqwXcAUGMbJ2qxz4Ik) | [Televisión](https://open.spotify.com/album/5Qmgvb2qwRvXaO9DgnSP4s) | 2:55 | 2022-03-04 | 2022-05-07 |
 | [tiempo](https://open.spotify.com/track/0TeOSjjpN80jyyZLc4RiLn) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn \(Deluxe\)](https://open.spotify.com/album/7A0d7VPtIDRo5kLEiZyghH) | 3:51 | 2021-12-10 | 2022-05-20 |
 | [todo bien :\-\)](https://open.spotify.com/track/7Fp82vLuGKV6xYv9z3W9F2) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [todo bien :\-\)](https://open.spotify.com/album/0pqsmplZSZwf7iLoj9P2pS) | 2:56 | 2022-08-26 |  |

@@ -308,6 +308,24 @@
     },
     {
       "album": {
+        "name": "J\u00e4rnn\u00e4tter",
+        "url": "https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX"
+      },
+      "artists": [
+        {
+          "name": "Civilistj\u00e4vel!",
+          "url": "https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 687536,
+      "name": "A2",
+      "url": "https://open.spotify.com/track/3ZvpVD9Ksyw3DXw5dMGBsg"
+    },
+    {
+      "album": {
         "name": "Adkrog",
         "url": "https://open.spotify.com/album/5RhEQC5P2yUwkSboIgMYrC"
       },
@@ -2443,7 +2461,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 265200,
       "name": "Exile on \u00c6r\u00f8",
       "url": "https://open.spotify.com/track/7wfXwpX7FmxihVhHAjBEGz"
@@ -3127,7 +3145,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 311600,
       "name": "Ho Renomo",
       "url": "https://open.spotify.com/track/2nBtV4NSZJiarMBMpsn6UH"
@@ -3727,6 +3745,28 @@
       "duration_ms": 191413,
       "name": "Kalimba Heart",
       "url": "https://open.spotify.com/track/6zHLUchfVKSSvDOYqrQu4U"
+    },
+    {
+      "album": {
+        "name": "Kerber Remixes",
+        "url": "https://open.spotify.com/album/1vTpfmKAEd24vt9YxqzSKF"
+      },
+      "artists": [
+        {
+          "name": "Yann Tiersen",
+          "url": "https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um"
+        },
+        {
+          "name": "Beatrice Dillon",
+          "url": "https://open.spotify.com/artist/14H1XUmtWYzRHCQDkoee97"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391090,
+      "name": "Ker al Loch - Beatrice Dillon Remix",
+      "url": "https://open.spotify.com/track/4fnCsStFxp68J9ovqDxdch"
     },
     {
       "album": {
@@ -5366,6 +5406,24 @@
     },
     {
       "album": {
+        "name": "Fiber",
+        "url": "https://open.spotify.com/album/7eggXuPYfGd9STXvugMAHj"
+      },
+      "artists": [
+        {
+          "name": "Jogging House",
+          "url": "https://open.spotify.com/artist/250gyZr9YqxIpI3UNi9yka"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434383,
+      "name": "Revenge",
+      "url": "https://open.spotify.com/track/3oq0aWZCAdIfc4ERvILzxm"
+    },
+    {
+      "album": {
         "name": "Thread of Gold",
         "url": "https://open.spotify.com/album/0lfk2vsa0fGf1BKw37fiYp"
       },
@@ -6332,6 +6390,24 @@
     },
     {
       "album": {
+        "name": "The Truth Is",
+        "url": "https://open.spotify.com/album/6df4g0WHHjokEWvS7LJCp8"
+      },
+      "artists": [
+        {
+          "name": "Cameron Morse",
+          "url": "https://open.spotify.com/artist/5w17BTK3HRhjZoyqe47yIl"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402356,
+      "name": "The Fifty",
+      "url": "https://open.spotify.com/track/07VqE9HRlrZeWj72Ka4FKA"
+    },
+    {
+      "album": {
         "name": "The Golden Morning Breaks",
         "url": "https://open.spotify.com/album/1p3Yw1LPlnabOnywMjsFvD"
       },
@@ -7113,7 +7189,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 169500,
       "name": "Unguarded Travelin'",
       "url": "https://open.spotify.com/track/4OYS4H9fVFGK87WtC32qmL"
@@ -7665,7 +7741,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 238003,
       "name": "\u65e5\u672c\u306e\u7a7a\u6c17 - Air of Japan",
       "url": "https://open.spotify.com/track/4wKQfi7BK5PgqkOyy288Iw"

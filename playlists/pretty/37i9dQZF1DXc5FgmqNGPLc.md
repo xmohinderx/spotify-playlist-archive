@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 
 > All live, all jazz\. Cover: Erroll Garner
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,158 likes - 84 songs - 12 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,162 likes - 84 songs - 12 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 | 3 | [What It Is \- Live In Montreal \- July 7, 1983](https://open.spotify.com/track/5daKUVUo5FVbXv6TF6Ic5D) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [What It Is \(Live In Montreal \- July 7, 1983\)](https://open.spotify.com/album/5iNscjGQmMygfbiWXJlpkx) | 6:45 |
 | 4 | [Sierre \- Live](https://open.spotify.com/track/0na21NgHCDoPzS5Mjl9gMz) | [T.S\. Monk](https://open.spotify.com/artist/3dNwAPe7GZxgNZjNhMyx5f) | [Two Continents One Groove \(Live\)](https://open.spotify.com/album/3eppyJqKLmkav7Pzhhp9qK) | 8:38 |
 | 5 | [Pops \(AKA When the Saints Go Marching In\) \- Live](https://open.spotify.com/track/6FbS0wgTrEHAB7O7xVo7dx) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [The Lost Album from Ronnie Scott’s \(Live\)](https://open.spotify.com/album/3uB6lXxaCmjy76Spz1Gv9A) | 7:35 |
-| 6 | [Heart Song \- Live](https://open.spotify.com/track/0DeDD3oOTOVpNjMusuSZDd) | [Niclas Campagnol](https://open.spotify.com/artist/1VqIpsJWDzAFIxWXCGCLuL), [Søren Lee](https://open.spotify.com/artist/6GyDK2ZWQXmx7sb3ltOvgJ), [Linley Marthe](https://open.spotify.com/artist/1gn2Mn6Rn5RD29DcdE8CLo) | [New Possibilities \(Live\)](https://open.spotify.com/album/7jqW4veLuzeFVDOxv5ES3F) | 7:09 |
+| 6 | [Heart Song \- Live](https://open.spotify.com/track/0DeDD3oOTOVpNjMusuSZDd) | [Søren Lee](https://open.spotify.com/artist/6GyDK2ZWQXmx7sb3ltOvgJ), [Niclas Campagnol](https://open.spotify.com/artist/1VqIpsJWDzAFIxWXCGCLuL), [Linley Marthe](https://open.spotify.com/artist/1gn2Mn6Rn5RD29DcdE8CLo) | [New Possibilities \(Live\)](https://open.spotify.com/album/7jqW4veLuzeFVDOxv5ES3F) | 7:09 |
 | 7 | [Chelsea Bridge](https://open.spotify.com/track/0w83dRmOWHezPfzDGD7bYC) | [Joris Teepe](https://open.spotify.com/artist/6O2Rqtez6yYTnUjW7804Nz), [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB), [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [Chelsea Bridge](https://open.spotify.com/album/0V4zIOu1Fa82EUShYq8Epf) | 6:35 |
 | 8 | [Latino Suite \- Live](https://open.spotify.com/track/39d6rn4ftwAGaEOjDVqDdg) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr), [Freddie Hubbard Quartet](https://open.spotify.com/artist/2BP1CjtFdJwjtS082ptpSJ) | [Live at Fabrik Hamburg 1986](https://open.spotify.com/album/57TC45obhfyPmfCpoE9NcK) | 14:36 |
 | 9 | [The Muse \- Live in New York City, February 8, 1975](https://open.spotify.com/track/31qdHIkBXaXoCoWTUnDIYh) | [Alan Braufman](https://open.spotify.com/artist/2e0U1o784LrLomZQcvKH6H) | [Live in New York City, February 8, 1975](https://open.spotify.com/album/4Hnv8GaFa8kQgOUn1WeJtM) | 5:55 |

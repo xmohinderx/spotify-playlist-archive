@@ -9339,7 +9339,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 149333,
       "name": "Questa musica del...",
       "url": "https://open.spotify.com/track/59uvpEGUV66lWAuEgNFUDr"
@@ -9678,6 +9678,24 @@
     },
     {
       "album": {
+        "name": "Rose Senza Spine",
+        "url": "https://open.spotify.com/album/4LCVI9qr0bxmKQUfX7OaIH"
+      },
+      "artists": [
+        {
+          "name": "Heartman",
+          "url": "https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126442,
+      "name": "Rose Senza Spine",
+      "url": "https://open.spotify.com/track/2XJc9OFlT2gWcieSgxlfHP"
+    },
+    {
+      "album": {
         "name": "RS6",
         "url": "https://open.spotify.com/album/1g7JxBAsczHAacw7rFcayW"
       },
@@ -9895,7 +9913,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 157786,
       "name": "Se Mi Chiedi",
       "url": "https://open.spotify.com/track/15TWKmVkfhkvx9JuYj8J4d"

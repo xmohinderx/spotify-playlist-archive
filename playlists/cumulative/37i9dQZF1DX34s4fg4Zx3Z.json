@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Kh\u00e1m ph\u00e1 \ud83c\udfb6 \u0111\u00e1ng nghe t\u1eeb nh\u1eefng \ud83c\udfbc c\u00f3 th\u1ec3 b\u1ea1n ch\u01b0a bi\u1ebft. \u1ea2nh b\u00eca: Ph\u1ea1m Nguy\u00ean Ng\u1ecdc; thi\u1ebft k\u1ebf: Isu Kim",
+  "description": "Kh\u00e1m ph\u00e1 \ud83c\udfb6 \u0111\u00e1ng nghe t\u1eeb nh\u1eefng \ud83c\udfbc c\u00f3 th\u1ec3 b\u1ea1n ch\u01b0a bi\u1ebft. \u1ea2nh b\u00eca: J.ADE; thi\u1ebft k\u1ebf: Isu Kim",
   "name": "Fresh Finds Vietnam",
   "published_playlist_ids": [
     "11aHcAYmUYTKlrRmUuqYoO"
@@ -871,6 +871,28 @@
       "duration_ms": 110522,
       "name": "Bi\u1ebft Em",
       "url": "https://open.spotify.com/track/3m03j7w5yiPqF7arh4nLr9"
+    },
+    {
+      "album": {
+        "name": "Black Rose",
+        "url": "https://open.spotify.com/album/7yGknDBWpg7fwX30QZFV6l"
+      },
+      "artists": [
+        {
+          "name": "LGKH",
+          "url": "https://open.spotify.com/artist/4Zcle1oVf2bVAxRbnlEJ4i"
+        },
+        {
+          "name": "FSRio",
+          "url": "https://open.spotify.com/artist/066RIM4xKxX0yCCBtg3NYY"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Black Rose",
+      "url": "https://open.spotify.com/track/5fq12fvVUDXuNbETl5BJ8n"
     },
     {
       "album": {
@@ -5141,7 +5163,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 242698,
       "name": "M Ng\u00e0y Mai",
       "url": "https://open.spotify.com/track/34cCAgZ1og8Oy6lhC1MzPD"
@@ -5961,7 +5983,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 155999,
       "name": "Ng\u00e0y N\u00e0y \u0110\u00e3 T\u1edbi",
       "url": "https://open.spotify.com/track/57P4cgFEJDdrWjwppYZwyT"
@@ -6695,7 +6717,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 219793,
       "name": "N\u1ebfu Nh\u01b0 Em Kh\u00f4ng Vui",
       "url": "https://open.spotify.com/track/1PKizdGpTNgH7u8zNFA29q"
@@ -7361,7 +7383,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 204000,
       "name": "regret",
       "url": "https://open.spotify.com/track/3j0GWCC5vw7jylMjDZEAz5"
@@ -7415,7 +7437,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 212307,
       "name": "rooftop",
       "url": "https://open.spotify.com/track/05GPwXksBDtLJD05kOATdE"
@@ -7782,6 +7804,24 @@
     },
     {
       "album": {
+        "name": "Sorry Em Y\u00eau L\u1ea7n \u0110\u1ea7u",
+        "url": "https://open.spotify.com/album/19npQ1ixpdwVhvQeQvTkpi"
+      },
+      "artists": [
+        {
+          "name": "J.ADE",
+          "url": "https://open.spotify.com/artist/0J19G5YWN6tlNJgP2sRkKd"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235643,
+      "name": "Sorry Em Y\u00eau L\u1ea7n \u0110\u1ea7u",
+      "url": "https://open.spotify.com/track/5Ei5ycZWzlRG0GV4keBxEB"
+    },
+    {
+      "album": {
         "name": "Splendid",
         "url": "https://open.spotify.com/album/4ooMTDuDopmq0RlfCFyMzl"
       },
@@ -7859,6 +7899,24 @@
       "duration_ms": 216500,
       "name": "Str4wb3rry shortc4k3",
       "url": "https://open.spotify.com/track/2rCDl6Laf9blXgGhc2e1KD"
+    },
+    {
+      "album": {
+        "name": "Suy Trong \"Suy T\u01b0\"",
+        "url": "https://open.spotify.com/album/1uRJZ6KzwsS7qXFRSrWYgC"
+      },
+      "artists": [
+        {
+          "name": "Machiot",
+          "url": "https://open.spotify.com/artist/53JNigMoziak3PfjdVcNLh"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177831,
+      "name": "Suy Trong \"Suy T\u01b0\"",
+      "url": "https://open.spotify.com/track/0j02uNiOqbhjVfC6h7uY58"
     },
     {
       "album": {
@@ -8557,7 +8615,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 191645,
       "name": "Trapstar",
       "url": "https://open.spotify.com/track/6RWov91Kfe7fpiIRNdtfIF"
@@ -8815,6 +8873,32 @@
       "duration_ms": 187200,
       "name": "T\u00ecnh Y\u00eau H\u00e0ng Real",
       "url": "https://open.spotify.com/track/3Gaqyhb7yxtfv8RyNhQ9Ql"
+    },
+    {
+      "album": {
+        "name": "T\u00ecnh Y\u00eau Lofi",
+        "url": "https://open.spotify.com/album/0PhXWWBBvuMCgAQDOZtXNx"
+      },
+      "artists": [
+        {
+          "name": "DawnG",
+          "url": "https://open.spotify.com/artist/76FtV3J5Mr7TIAOCp4iKec"
+        },
+        {
+          "name": "kim",
+          "url": "https://open.spotify.com/artist/3vHCYbpC0mr2ITEYz1CnrE"
+        },
+        {
+          "name": "Chill Mal",
+          "url": "https://open.spotify.com/artist/1p6TbwOK6fMNSAWRDjoYEu"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208695,
+      "name": "T\u00ecnh Y\u00eau Lofi",
+      "url": "https://open.spotify.com/track/3vbGVpoTPFjPPUCm4127GO"
     },
     {
       "album": {
@@ -9627,6 +9711,28 @@
       "duration_ms": 205632,
       "name": "Xem Nh\u01b0 Anh Ch\u1eb3ng May",
       "url": "https://open.spotify.com/track/2rIFRse00Znv6FfpQBdthx"
+    },
+    {
+      "album": {
+        "name": "Xin \u0110\u01b0\u1ee3c Ph\u00e9p",
+        "url": "https://open.spotify.com/album/3cLpDNDgz4eCZikAO7VIj8"
+      },
+      "artists": [
+        {
+          "name": "Vang",
+          "url": "https://open.spotify.com/artist/6bvMoywdm3JM1bmVvMngrW"
+        },
+        {
+          "name": "Lil Zpoet",
+          "url": "https://open.spotify.com/artist/0T8DkuhhFhdWAMN0bdeLL7"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284728,
+      "name": "Xin \u0110\u01b0\u1ee3c Ph\u00e9p",
+      "url": "https://open.spotify.com/track/2rhgT7eLB7QgO2fLsqHlyt"
     },
     {
       "album": {
@@ -10625,6 +10731,24 @@
       "duration_ms": 202000,
       "name": "\u0110\u1eebng Khi\u1ebfn Tr\u00e1i Tim Em Kh\u00f3c",
       "url": "https://open.spotify.com/track/1aSRibNh6KrXMDOfbRQL9d"
+    },
+    {
+      "album": {
+        "name": "\u0111\u1eebng nghe",
+        "url": "https://open.spotify.com/album/31r2gd3z9DnSYxeaQQktgl"
+      },
+      "artists": [
+        {
+          "name": "kis",
+          "url": "https://open.spotify.com/artist/6mshB4wc19nPYxpdbtWkz9"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151740,
+      "name": "\u0111\u1eebng nghe",
+      "url": "https://open.spotify.com/track/33encaLqH6vZA6LuMUjPKK"
     },
     {
       "album": {

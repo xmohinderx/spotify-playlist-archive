@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Elton John, Britney Spears
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,054 likes - 110 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,055 likes - 110 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 77 | [Sunglasses](https://open.spotify.com/track/6qkGYZyzSy5JJn345Vyhur) | [Glasperlenspiel](https://open.spotify.com/artist/2UFKXTZgKtOTHSqMSyAcLO) | [Sunglasses](https://open.spotify.com/album/07l0rLWvKhrTjRPXbsDNif) | 2:38 |
 | 78 | [Bailando](https://open.spotify.com/track/4zaQ25KZ6jYzlTmHkbGm5X) | [Raaban](https://open.spotify.com/artist/4cSYNpczcvTUpnPMFDLsIc), [Space Primates](https://open.spotify.com/artist/20RYWcdxVryQ6rcjxnsEtc), [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Bailando](https://open.spotify.com/album/1zSLjxJiQYekSdva3wpH4p) | 2:29 |
 | 79 | [Urlaub](https://open.spotify.com/track/1IJlqjNuVEpiDZYrgu5yml) | [Julian le Play](https://open.spotify.com/artist/5xW9faV2hqlLG0rp7CTBof) | [Urlaub](https://open.spotify.com/album/6Ks6nhayWui93xuidjOxv7) | 2:31 |
-| 80 | [Beautiful Stranger](https://open.spotify.com/track/7ndKgIPneFhibUEYdqK8YE) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/4YrAMk088p90boVlesCpOQ) | 3:21 |
+| 80 | [Beautiful Stranger](https://open.spotify.com/track/2Hs7CsaCy7U6tGy8s3zdMB) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c) | 3:21 |
 | 81 | [Happier](https://open.spotify.com/track/50YBK8OKWYxD4eBNRwT7Qz) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Happier](https://open.spotify.com/album/0jpoehkF7UvSWtLwDuGd5X) | 3:00 |
 | 82 | [Rosé](https://open.spotify.com/track/0AUQCsU2vl14ksqSfCxP3k) | [Opération Zéro](https://open.spotify.com/artist/3ZsHilbh98OAs15IYU4bEP) | [Rosé](https://open.spotify.com/album/5L2dG68litmEVDp6XVqn40) | 2:43 |
 | 83 | [Satt Werden](https://open.spotify.com/track/2fSRoFWZt4lQNcawiffNXQ) | [Oehl](https://open.spotify.com/artist/0LLCimRswRk6Ks5oBJ4Abp), [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye) | [Keine Blumen](https://open.spotify.com/album/3ZD6ssxb7Eli8a0trYxTB7) | 3:15 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 109 | [Sehnsucht](https://open.spotify.com/track/1l68KfP3E4i6tliInpTfrQ) | [K\-Fly](https://open.spotify.com/artist/4jDdEv3oafVcJfrywVDi4p), [McN](https://open.spotify.com/artist/4Zt20mwx0XIcvxUglIfCDR) | [Sehnsucht](https://open.spotify.com/album/0zvagnodFvGPG91Sk2p3We) | 2:51 |
 | 110 | [Sahara](https://open.spotify.com/track/7olTQ8Xn5lPVjA8MNQTi4b) | [2 Engel & Charlie](https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA) | [Sahara](https://open.spotify.com/album/2bOSstfJ5XEj7mzHd8dolI) | 2:20 |
 
-Snapshot ID: `MTY2MTQ5NDY0MSwwMDAwMDAwMDkzNzNmZDRmYzE4NDA0MDBlZmU3ZThhZjZhMTVhNjBj`
+Snapshot ID: `MTY2MTQ5NDY0MSwwMDAwMDAwMGUzY2VkNGI1YTIzYzUzZTg5Nzk1MjgwYzliMGJiMmY5`

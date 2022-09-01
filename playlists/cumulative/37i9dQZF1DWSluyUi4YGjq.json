@@ -117,7 +117,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 195312,
       "name": "Al Rev\u00e9s - feat. Petite Amie",
       "url": "https://open.spotify.com/track/7MdUqzrHXeTk2zf55YXqM4"
@@ -557,7 +557,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 221186,
       "name": "Calling it love isn't love (Don't fall in love)",
       "url": "https://open.spotify.com/track/4CQExLcRw5XWiWL1FqwE8J"
@@ -1450,6 +1450,24 @@
     },
     {
       "album": {
+        "name": "green",
+        "url": "https://open.spotify.com/album/4KTZk1PCU51Um5tKj5o1WO"
+      },
+      "artists": [
+        {
+          "name": "\u3068\u304a\u306e\u306d\u3080\u308a",
+          "url": "https://open.spotify.com/artist/11maCnra9UsFVEkqyNO4HU"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271304,
+      "name": "green",
+      "url": "https://open.spotify.com/track/4f25SUnxXt0e4ZAnEXXHl0"
+    },
+    {
+      "album": {
         "name": "Handsome Man",
         "url": "https://open.spotify.com/album/6NKe1FLpu6vd6XlccHhRYw"
       },
@@ -2041,6 +2059,28 @@
       "duration_ms": 227281,
       "name": "Life in Color",
       "url": "https://open.spotify.com/track/4TdpOtzVF7aeh7EhvOk377"
+    },
+    {
+      "album": {
+        "name": "Lime",
+        "url": "https://open.spotify.com/album/6jRYJfOVHjixKyxZC7ZRSC"
+      },
+      "artists": [
+        {
+          "name": "Lucid Express",
+          "url": "https://open.spotify.com/artist/0WwjT0WO2JQSXIq7EeDxXf"
+        },
+        {
+          "name": "Elliott Frazier",
+          "url": "https://open.spotify.com/artist/2h5Ha3Cr7HoTCp82TQdUDO"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219125,
+      "name": "Lime - Elliott Frazier remix",
+      "url": "https://open.spotify.com/track/28CohxX0xYGKWdKsHKvDaV"
     },
     {
       "album": {
@@ -2721,7 +2761,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 233679,
       "name": "Seven of Cups",
       "url": "https://open.spotify.com/track/0fk0PlLPH4ko6acyM6ajPY"
@@ -3265,6 +3305,24 @@
       "duration_ms": 264498,
       "name": "Violet Blue",
       "url": "https://open.spotify.com/track/6rnrsEZeAMsSl7biIauLSt"
+    },
+    {
+      "album": {
+        "name": "Wait Up",
+        "url": "https://open.spotify.com/album/4ZVhySJ3eOpZtRVcg2MPDR"
+      },
+      "artists": [
+        {
+          "name": "Gloomer",
+          "url": "https://open.spotify.com/artist/4SifZryJ3Vo6oijPAWTYas"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173061,
+      "name": "Wait Up",
+      "url": "https://open.spotify.com/track/79uDI5OnWIIj4Za02naBzE"
     },
     {
       "album": {

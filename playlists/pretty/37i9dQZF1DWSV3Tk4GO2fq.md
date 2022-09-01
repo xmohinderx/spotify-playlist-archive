@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV3Tk4GO2fq.md) - [plain]
 
 > The biggest songs of the 1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,548,277 likes - 150 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,547,688 likes - 150 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

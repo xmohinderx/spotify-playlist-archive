@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtcnE4xlCDS.md) - [plain]
 
 > Enjoy music from DEN\-ON\-BU! 気鋭のコンポーザーが多数参加し、今話題のキャラクタープロジェクト<a href="https://denonbu.jp/">「電音部」</a>を特集!! キャラクターと紡ぐ電子音楽の世界に飛び込もう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,186 likes - 79 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,320 likes - 79 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [イルシオン \(Respect\. アクログラム\)](https://open.spotify.com/track/4PAo01ugWsBN6u6c4ttZwl) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Pa's Lam System](https://open.spotify.com/artist/50ERkudmGin7lJt1hsOHyK), [日高零奈 \(CV: 蔀 祐佳\)](https://open.spotify.com/artist/3U8W8KZ51Z96pSqPjkWNYz), [瀬戸海月 \(CV: シスター・クレア\)](https://open.spotify.com/artist/3fHDuekX2NfAhKC0f3Qde5) | [イルシオン \(Respect\. アクログラム\)](https://open.spotify.com/album/6LdesVSs6upBvsTXWMWgZ6) | 5:10 |
+| 1 | [Ilusion \(Respect\. AKROGLAM\)](https://open.spotify.com/track/1lCxUEctBFAi1pR8S1AA96) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Pa's Lam System](https://open.spotify.com/artist/50ERkudmGin7lJt1hsOHyK), [日高零奈 \(CV: 蔀 祐佳\)](https://open.spotify.com/artist/3U8W8KZ51Z96pSqPjkWNYz), [瀬戸海月 \(CV: シスター・クレア\)](https://open.spotify.com/artist/3fHDuekX2NfAhKC0f3Qde5) | [Ilusion \(Respect\. AKROGLAM\)](https://open.spotify.com/album/35kx9lZ59v06reBvMLwfnz) | 5:10 |
 | 2 | [Azabu Autobahn](https://open.spotify.com/track/3GDkfY41zqh8hR9fmT9Xgn) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [黒鉄たま \(CV: 秋奈\)](https://open.spotify.com/artist/0JQ292eFZdsbZbYUfNWpph), [白金 煌 \(CV: 小宮有紗\)](https://open.spotify.com/artist/2xJeAewClnCHglceTI3gIw), [灰島銀華 \(CV: 澁谷梓希\)](https://open.spotify.com/artist/5B4sSyRcbTVegDTQlj8aX2) | [Azabu Autobahn](https://open.spotify.com/album/28gwqAP3lRHLtOtIljLDRT) | 3:46 |
 | 3 | [IAM](https://open.spotify.com/track/4U0A5A7C9DiJ8XPsVXRIxt) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Shogo](https://open.spotify.com/artist/4KBiAMGIoarxbHuyBB25aU), [Tsubasa](https://open.spotify.com/artist/5WotU7HWC7eE9St4p10UV7), [黒鉄たま \(CV: 秋奈\)](https://open.spotify.com/artist/0JQ292eFZdsbZbYUfNWpph), [白金 煌 \(CV: 小宮有紗\)](https://open.spotify.com/artist/2xJeAewClnCHglceTI3gIw), [灰島銀華 \(CV: 澁谷梓希\)](https://open.spotify.com/artist/5B4sSyRcbTVegDTQlj8aX2) | [IAM](https://open.spotify.com/album/4Bzj9M3FEKoMx13RGNdHCP) | 3:26 |
 | 4 | [emeth](https://open.spotify.com/track/6cbOkryaoMax1aIgeR4MUG) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [DC Mizey](https://open.spotify.com/artist/1HNN3FOrHLzQSRJLOKmmta) | [emeth](https://open.spotify.com/album/4Ws5sJt6zxPLXPcijetsP7) | 3:07 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtcnE4xlCDS.md) - [plain]
 | 78 | [NANAIRO STAGE \- gu^2 REMIX](https://open.spotify.com/track/5oZC9VXHkiJr24qoLqqtho) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [gu^2](https://open.spotify.com/artist/43TU7U6al7Qt8VCwtgnXZX), [大賀ルキア \(CV: 星川サラ\)](https://open.spotify.com/artist/3IFOQg0N8gQooK5duWNRq4) | [DENONBU \(SHIBUYA New Year REMIX\)](https://open.spotify.com/album/2wsCiA3HAaYG8Du98pBmyc) | 2:44 |
 | 79 | [Inverted Pyramid \- kors k REMIX](https://open.spotify.com/track/2rqO7JgyULb1YuK86fTfyB) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [kors k](https://open.spotify.com/artist/667AP6niAXUnJkkum46TvZ), [鳳凰火凛 \(CV: 健屋花那\)](https://open.spotify.com/artist/12WNAXEoWB8oNjlyuYU5hZ), [瀬戸海月 \(CV: シスター・クレア\)](https://open.spotify.com/artist/3fHDuekX2NfAhKC0f3Qde5), [大賀ルキア \(CV: 星川サラ\)](https://open.spotify.com/artist/3IFOQg0N8gQooK5duWNRq4) | [DENONBU \(SHIBUYA New Year REMIX\)](https://open.spotify.com/album/2wsCiA3HAaYG8Du98pBmyc) | 4:25 |
 
-Snapshot ID: `MTY2MTg3NTYyNywwMDAwMDAwMDNjODliMzc5ZTgwMTM5YzRhNjhiOWUzODhmOWU5MzA5`
+Snapshot ID: `MTY2MTg3NTYyNywwMDAwMDAwMDJlYzE1MjA2MTRhYWJjYzJmMzhkNDQwZjI1MDNlNjA2`

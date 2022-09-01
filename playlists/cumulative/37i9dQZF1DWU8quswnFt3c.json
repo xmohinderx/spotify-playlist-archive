@@ -4451,10 +4451,28 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 202452,
       "name": "it keeps on raining",
       "url": "https://open.spotify.com/track/7oPm32eIHb11cm4FJadA5p"
+    },
+    {
+      "album": {
+        "name": "can you see me?",
+        "url": "https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202673,
+      "name": "it keeps on raining",
+      "url": "https://open.spotify.com/track/0z422bE04PCpYL5r998aWp"
     },
     {
       "album": {

@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-31",
+      "date_removed": null,
       "duration_ms": 406653,
       "name": "7\u65e5\u76ee\u306e\u6c7a\u610f",
       "url": "https://open.spotify.com/track/2697A4jAyN041xwNXRBC3Q"
@@ -415,7 +415,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-31",
+      "date_removed": null,
       "duration_ms": 278000,
       "name": "endscape",
       "url": "https://open.spotify.com/track/1uBKwpT6hjR4ot1UciAH7x"
@@ -563,7 +563,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 276520,
       "name": "I LOVE THE WORLD",
       "url": "https://open.spotify.com/track/6J25oC8Xh8YuXOvmzZlQoO"
@@ -585,24 +585,6 @@
       "duration_ms": 265040,
       "name": "IMPACT",
       "url": "https://open.spotify.com/track/5lwgvPvJy36aZRsqeOtm7C"
-    },
-    {
-      "album": {
-        "name": "LIFE 6 SENSE",
-        "url": "https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "date_added": "2022-06-12",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
-      "duration_ms": 228000,
-      "name": "Itsuka Kanarazu Shinu Kotowo Wasureruna",
-      "url": "https://open.spotify.com/track/6hMUL6cLiZTIRFMvZYesjP"
     },
     {
       "album": {
@@ -653,7 +635,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-22",
+      "date_removed": null,
       "duration_ms": 253506,
       "name": "LIFEsize",
       "url": "https://open.spotify.com/track/0Oc0eUIh7fSvr37Iqs77oW"
@@ -779,7 +761,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 332906,
       "name": "NO.1",
       "url": "https://open.spotify.com/track/0KUwWB5EWikcRN32ol1eZq"
@@ -1107,7 +1089,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 211200,
       "name": "WANNA be BRILLIANT",
       "url": "https://open.spotify.com/track/6lfnRtdV3bJneiA3Y0aY5G"
@@ -1125,7 +1107,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 250613,
       "name": "Wizard CLUB",
       "url": "https://open.spotify.com/track/4kvQEOuOZWtSV1ObwHq1HJ"
@@ -1165,6 +1147,24 @@
       "duration_ms": 296706,
       "name": "YURA YURA",
       "url": "https://open.spotify.com/track/7aHDHkq2UnoaKhFiRUrwYr"
+    },
+    {
+      "album": {
+        "name": "LIFE 6 SENSE",
+        "url": "https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "\u3044\u3064\u304b\u5fc5\u305a\u6b7b\u306c\u3053\u3068\u3092\u5fd8\u308c\u308b\u306a",
+      "url": "https://open.spotify.com/track/6hMUL6cLiZTIRFMvZYesjP"
     },
     {
       "album": {

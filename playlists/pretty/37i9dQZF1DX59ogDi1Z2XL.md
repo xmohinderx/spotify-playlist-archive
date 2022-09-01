@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: NAV
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,265 likes - 99 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,350 likes - 99 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 45 | [Yellow](https://open.spotify.com/track/48tYeh5ztFzgkdpRjxQOFx) | [MOULA 1ST](https://open.spotify.com/artist/6KkRTh4TxUd0AEK794U52C) | [Yellow](https://open.spotify.com/album/2Npxqa1XGU4W5VeF6TT0L2) | 2:04 |
 | 46 | [East Side](https://open.spotify.com/track/5gr8bVniSzLTlg1xSNUpqs) | [Riicch](https://open.spotify.com/artist/2CD6U9YiRscScZ5lT7vUFQ) | [East Side](https://open.spotify.com/album/54dotG2YcJ3BmiYBAlLcog) | 2:03 |
 | 47 | [No Guidance](https://open.spotify.com/track/3RKPzLM62TCmnaQD0LjO2i) | [Ytn Paco](https://open.spotify.com/artist/11GwkOrhCgJpuMnNR2HDhL) | [No Guidance](https://open.spotify.com/album/2FuPyLh4Q7S2yB2dhcSGta) | 2:18 |
-| 48 | [Be Careful](https://open.spotify.com/track/0dqsYMuzld5YZRM6jUToQq) | [Fastmoney RK](https://open.spotify.com/artist/48r4tbkl8jwyqxbqWsCkuh), [Blamo](https://open.spotify.com/artist/217YiebQLxLOSubsItInzR), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT), [Tarna](https://open.spotify.com/artist/6MfNZmgfla6qE6wJsIJjOr) | [Be Careful](https://open.spotify.com/album/6nNopjEYxdELrzlNROKxnB) | 2:18 |
+| 48 | [Be Careful](https://open.spotify.com/track/0dqsYMuzld5YZRM6jUToQq) | [Fastmoney RK](https://open.spotify.com/artist/48r4tbkl8jwyqxbqWsCkuh), [Blamo](https://open.spotify.com/artist/217YiebQLxLOSubsItInzR), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT), [Tarna](https://open.spotify.com/artist/5NKQMEArcrzIPct2RXdS7A) | [Be Careful](https://open.spotify.com/album/6nNopjEYxdELrzlNROKxnB) | 2:18 |
 | 49 | [I'M ON ONE \(feat\. Drake\)](https://open.spotify.com/track/6cIWZnJZidKcqGuArAUABr) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [I NEVER LIKED YOU](https://open.spotify.com/album/6ViO9Wx6dWzeUq6DmGTaHl) | 3:56 |
 | 50 | [Doin' Right](https://open.spotify.com/track/65ie1NNOukdiXRk2JPc52a) | [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [Doin' Right](https://open.spotify.com/album/2wEIx2GSSjTbzSiWVzI1tn) | 2:35 |
 | 51 | [No Distractions](https://open.spotify.com/track/5dSCrmgU6MuUuZpcwBqDgR) | [Kampaign](https://open.spotify.com/artist/021PSEmPylGATns0ys7XTf) | [No Distractions](https://open.spotify.com/album/37ZnBbRaQboKuEapumouQE) | 2:54 |

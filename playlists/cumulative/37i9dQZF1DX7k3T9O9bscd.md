@@ -4,7 +4,7 @@
 
 > Psyched\-out bands from the four corners of the world.
 
-230 songs - 18 hr 40 min - [published](https://open.spotify.com/playlist/2RHGcfs46V7xV3q5UtJeL9)
+231 songs - 18 hr 43 min - [published](https://open.spotify.com/playlist/2RHGcfs46V7xV3q5UtJeL9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Crime em Tânger](https://open.spotify.com/track/5RDLAg3zVPTlsmOlKNNGf9) | [Rapaz Ego](https://open.spotify.com/artist/6KZN67WFv4KQC5kWnCJePK) | [Crime em Tânger](https://open.spotify.com/album/4RGncxsGvUjxsu1A947z4I) | 4:29 | 2021-11-12 | 2022-07-28 |
 | [curl your toes, clench your fists](https://open.spotify.com/track/5Y4QJNJ1Ebr7aCkRuhEUhf) | [Slugabed](https://open.spotify.com/artist/7lGyDgJJYSgOd9R5T4Cwe4), [Miles Spilsbury](https://open.spotify.com/artist/23ZeblILk9U5IlYwQlacaq) | [curl your toes, clench your fists](https://open.spotify.com/album/6sZbrZyD6a9fOyep454rLv) | 7:14 | 2021-11-12 | 2022-07-19 |
 | [Damaged Eyes Squinting into the Beautiful Overhot Sun](https://open.spotify.com/track/0eqsixwwOHKerHiBmaqQQG) | [Deerhoof](https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V) | [Future Teenage Cave Artists](https://open.spotify.com/album/4I9skhRTov4hKAxAgoclt3) | 3:58 | 2021-11-12 | 2022-06-30 |
+| [Diarabi](https://open.spotify.com/track/53yknEeyyDEHCqyu8pRGrR) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [World Music](https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb) | 2:56 | 2022-08-31 |  |
 | [Disciplina](https://open.spotify.com/track/4gAis55fKTKLt0vYZxR8Lt) | [Oruã](https://open.spotify.com/artist/2Wya1Moi5k4EX1dRpCf4Dm) | [Sem Bênção / Sem Crença](https://open.spotify.com/album/5NZuJ1fOS528eMhwRIHEUg) | 5:28 | 2021-11-12 | 2022-07-27 |
 | [Distant Restart](https://open.spotify.com/track/3z6UUdNXqe6RgdCBlB0bn1) | [Klaatu Suuns](https://open.spotify.com/artist/4W11PtvmueLMalojlR0qgr) | [Distant Restart](https://open.spotify.com/album/5V94kCDYOSxkZmgnF6gSQF) | 3:21 | 2021-11-12 | 2022-07-28 |
 | [Don't Blow Experiment](https://open.spotify.com/track/1izjXQB5vXhgEHzsMTNQOf) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh), [Osees](https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS) | [Panther Rotate](https://open.spotify.com/album/74cNFrEotN1EgfDVypvLKR) | 5:09 | 2021-11-12 | 2022-07-29 |
@@ -184,7 +185,7 @@
 | [Smoke and Mirrors](https://open.spotify.com/track/5skAQdEOEjdRVBcNtMtExs) | [Kikagaku Moyo](https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq) | [Forest of Lost Children](https://open.spotify.com/album/2dwNxD6zrwPkRJlr08WOKA) | 7:16 | 2021-11-12 |  |
 | [Snö\-Golem](https://open.spotify.com/track/2VAkRcPecdWmnZ658FAMdN) | [Les Big Byrd](https://open.spotify.com/artist/3g2slv6elrXxGnXqy7Q2ap) | [Snö\-Golem](https://open.spotify.com/album/0dXPcrmLcpF77e5waLyTh7) | 4:16 | 2021-11-12 | 2022-07-18 |
 | [Space Camel](https://open.spotify.com/track/432hUaMgylN4s4aqwn9KY5) | [Ouzo Bazooka](https://open.spotify.com/artist/2y1Se69lBJcw9GPYEJKQVj) | [Space Camel](https://open.spotify.com/album/6LrxA6OjDfJt7sGXvtyaFB) | 6:37 | 2021-11-12 | 2022-07-29 |
-| [Space Camel](https://open.spotify.com/track/6RKoe7UCtdONhVdo6625Lt) | [Ouzo Bazooka](https://open.spotify.com/artist/2y1Se69lBJcw9GPYEJKQVj) | [Transporter](https://open.spotify.com/album/6GSwsFG6B9fT0Ue7nnWuxe) | 6:37 | 2021-11-12 |  |
+| [Space Camel](https://open.spotify.com/track/6RKoe7UCtdONhVdo6625Lt) | [Ouzo Bazooka](https://open.spotify.com/artist/2y1Se69lBJcw9GPYEJKQVj) | [Transporter](https://open.spotify.com/album/6GSwsFG6B9fT0Ue7nnWuxe) | 6:37 | 2021-11-12 | 2022-09-01 |
 | [Spin](https://open.spotify.com/track/18Werbtn3J54qXLZO2dKyo) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Running](https://open.spotify.com/album/2HyRggDYNOCkvoB3bOlkCY) | 3:32 | 2022-04-22 | 2022-08-22 |
 | [Spin](https://open.spotify.com/track/31MLGEYrKwoTmMoH50JDEw) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Spin](https://open.spotify.com/album/6GejDhVjHKAmQnPkyW6csf) | 3:32 | 2022-04-22 |  |
 | [Spin](https://open.spotify.com/track/4dkszdiuRSiCj34twbJfT8) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Spin](https://open.spotify.com/album/1fj0ZE8UczqCmDhmBmS1kX) | 3:32 | 2022-04-22 | 2022-06-08 |

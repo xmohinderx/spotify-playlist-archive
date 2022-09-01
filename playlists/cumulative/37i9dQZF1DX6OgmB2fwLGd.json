@@ -2175,7 +2175,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 153600,
       "name": "Dub",
       "url": "https://open.spotify.com/track/2Ocbja3GNcxq9Ualmmvfc1"
@@ -2543,7 +2543,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 146735,
       "name": "Faster (Sped Up)",
       "url": "https://open.spotify.com/track/1tlPauwjMeBY5ZiQA5wLH3"
@@ -3054,6 +3054,24 @@
     },
     {
       "album": {
+        "name": "Like Yay",
+        "url": "https://open.spotify.com/album/76PpFLRcZtGmV97QajJPx8"
+      },
+      "artists": [
+        {
+          "name": "Big Yavo",
+          "url": "https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "Him",
+      "url": "https://open.spotify.com/track/7w4lnEj8VwQ0xNpl1M3I0G"
+    },
+    {
+      "album": {
         "name": "Hit",
         "url": "https://open.spotify.com/album/0m32d8XkRUYD1xSpVwTpmu"
       },
@@ -3069,6 +3087,24 @@
       "duration_ms": 97259,
       "name": "Hit",
       "url": "https://open.spotify.com/track/7psU3b7h7khOUeXznJxxiL"
+    },
+    {
+      "album": {
+        "name": "LOUIE",
+        "url": "https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj"
+      },
+      "artists": [
+        {
+          "name": "Kenny Beats",
+          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106866,
+      "name": "Hold My Head",
+      "url": "https://open.spotify.com/track/4eSZUNz2flCKs7zESV50kW"
     },
     {
       "album": {
@@ -3887,7 +3923,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 103440,
       "name": "L$d",
       "url": "https://open.spotify.com/track/6f7jHMkHBJ9HVat7wjfkOr"
@@ -4537,7 +4573,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 150130,
       "name": "Money Galore",
       "url": "https://open.spotify.com/track/7hKf6BciAf9Qa1yWYtCxzQ"
@@ -5931,7 +5967,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 142497,
       "name": "Russian Cream",
       "url": "https://open.spotify.com/track/03ThZweiBWFP8tOGsk6QMO"
@@ -5971,7 +6007,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 105534,
       "name": "see u there",
       "url": "https://open.spotify.com/track/0MqYDyMfzBj0YFWTLHVhag"
@@ -6932,6 +6968,28 @@
     },
     {
       "album": {
+        "name": "vendetta!",
+        "url": "https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr"
+      },
+      "artists": [
+        {
+          "name": "MUPP",
+          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
+        },
+        {
+          "name": "Sadfriendd",
+          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107044,
+      "name": "vendetta!",
+      "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
+    },
+    {
+      "album": {
         "name": "Da World Is Ours 3",
         "url": "https://open.spotify.com/album/4R1Qf4Q0daY8Gn58KYRzKX"
       },
@@ -7549,6 +7607,24 @@
       "duration_ms": 148800,
       "name": "You're A Jerk 2",
       "url": "https://open.spotify.com/track/5aXplC3gYU14i6HW5Fpaer"
+    },
+    {
+      "album": {
+        "name": "you're a parasite",
+        "url": "https://open.spotify.com/album/0gxx85pC89jMKmPIyL0kPa"
+      },
+      "artists": [
+        {
+          "name": "Riovaz",
+          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152450,
+      "name": "you're a parasite",
+      "url": "https://open.spotify.com/track/2uMv1AvQhvXk4F3DAeABGg"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6OgmB2fwLGd"

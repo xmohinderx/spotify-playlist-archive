@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e1b\u0e4a\u0e2d\u0e1b\u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Tattoo Colour",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e1b\u0e4a\u0e2d\u0e1b\u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: ALLY",
   "name": "T-Pop Now",
   "published_playlist_ids": [
     "46jC5TDLIJijd5c6Z3EIRR"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 194842,
       "name": "1001 (You're Lovely)",
       "url": "https://open.spotify.com/track/4X6pR4sgSGXG1lSX7nxWEM"
@@ -157,6 +157,42 @@
       "duration_ms": 200096,
       "name": "Boutchya - Thai Version",
       "url": "https://open.spotify.com/track/2HH3EYgwHjM8ama77pYtNu"
+    },
+    {
+      "album": {
+        "name": "Boys Like You",
+        "url": "https://open.spotify.com/album/1oslIjeU0faXGgimWvmL4l"
+      },
+      "artists": [
+        {
+          "name": "ALLY",
+          "url": "https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223278,
+      "name": "Boys Like You",
+      "url": "https://open.spotify.com/track/1VyRhsi6GfBusI1Vb061s4"
+    },
+    {
+      "album": {
+        "name": "Flame",
+        "url": "https://open.spotify.com/album/1KQkObxhoz8QXlHotEp7PS"
+      },
+      "artists": [
+        {
+          "name": "XI",
+          "url": "https://open.spotify.com/artist/00EYO9tpVSk1YkXQs1awnQ"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "Flame",
+      "url": "https://open.spotify.com/track/07yq4fcfWqPecc3z6kk3bb"
     },
     {
       "album": {
@@ -561,7 +597,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 194307,
       "name": "U can't hurt me no more",
       "url": "https://open.spotify.com/track/7MF3ugIgl06Fi8CX5NKA4m"
@@ -673,6 +709,24 @@
       "duration_ms": 254716,
       "name": "\u0e01\u0e47\u0e09\u0e31\u0e19\u0e19\u0e48\u0e30\u0e41\u0e2d\u0e1a\u0e0a\u0e2d\u0e1a (For a while)",
       "url": "https://open.spotify.com/track/4LJlTY8XrrrcNpfdExSF5C"
+    },
+    {
+      "album": {
+        "name": "\u0e02\u0e2d\u0e1a\u0e04\u0e38\u0e13\u0e17\u0e35\u0e48\u0e40\u0e04\u0e22\u0e43\u0e08\u0e23\u0e49\u0e32\u0e22\u0e01\u0e31\u0e1a\u0e09\u0e31\u0e19 (Thanks To You)",
+        "url": "https://open.spotify.com/album/58zEDQELi0atD10fgzGpym"
+      },
+      "artists": [
+        {
+          "name": "Ton Thanasit",
+          "url": "https://open.spotify.com/artist/6zOWc1PkZQNr5mDOgWyc9x"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221379,
+      "name": "\u0e02\u0e2d\u0e1a\u0e04\u0e38\u0e13\u0e17\u0e35\u0e48\u0e40\u0e04\u0e22\u0e43\u0e08\u0e23\u0e49\u0e32\u0e22\u0e01\u0e31\u0e1a\u0e09\u0e31\u0e19 (Thanks To You)",
+      "url": "https://open.spotify.com/track/2mhcGG5JdEotXGF4kDTjGM"
     },
     {
       "album": {
@@ -843,7 +897,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 201500,
       "name": "\u0e04\u0e19\u0e40\u0e23\u0e32\u0e08\u0e30\u0e41\u0e2d\u0e1a\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e2a\u0e31\u0e01\u0e04\u0e19\u0e44\u0e14\u0e49\u0e19\u0e32\u0e19\u0e41\u0e04\u0e48\u0e44\u0e2b\u0e19",
       "url": "https://open.spotify.com/track/3IPtnAYykrWz9EPjPWx2D7"
@@ -865,6 +919,24 @@
       "duration_ms": 212571,
       "name": "\u0e04\u0e19\u0e44\u0e01\u0e25",
       "url": "https://open.spotify.com/track/63VOJDNJ3a5dve74kzWVcF"
+    },
+    {
+      "album": {
+        "name": "\u0e04\u0e19\u0e44\u0e21\u0e48\u0e04\u0e38\u0e22",
+        "url": "https://open.spotify.com/album/1K7cv40prwoUAbxCXX1CTh"
+      },
+      "artists": [
+        {
+          "name": "PROXIE",
+          "url": "https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "\u0e04\u0e19\u0e44\u0e21\u0e48\u0e04\u0e38\u0e22",
+      "url": "https://open.spotify.com/track/4Z64nGulQN49i9D03NcF8a"
     },
     {
       "album": {
@@ -933,7 +1005,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 266526,
       "name": "\u0e04\u0e34\u0e14(\u0e41\u0e15\u0e48\u0e44\u0e21\u0e48)\u0e16\u0e36\u0e07 (Same Page?)",
       "url": "https://open.spotify.com/track/4Cg2XGrrrczeZRPOnlAG67"
@@ -1241,7 +1313,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 197948,
       "name": "\u0e0a\u0e48\u0e27\u0e22\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49",
       "url": "https://open.spotify.com/track/4GGNl8jiANylTJj4hfzqP7"
@@ -1263,7 +1335,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 286750,
       "name": "\u0e0b\u0e31\u0e1a",
       "url": "https://open.spotify.com/track/0Qk8RUwooCGKghG9yClG3O"
@@ -2377,7 +2449,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 210000,
       "name": "\u0e27\u0e48\u0e32\u0e44\u0e07\u0e19\u0e30 Feat. Nam iWish",
       "url": "https://open.spotify.com/track/67kJqf9wQnXugBcKoX04IB"
@@ -2579,7 +2651,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 260440,
       "name": "\u0e2b\u0e27\u0e32\u0e19\u0e40\u0e01\u0e34\u0e19\u0e44\u0e1b Ost. \u0e01\u0e25\u0e23\u0e31\u0e01\u0e23\u0e38\u0e48\u0e19\u0e1e\u0e35\u0e48",
       "url": "https://open.spotify.com/track/3skROEFEL3UCMfHrYje0F0"
@@ -2893,7 +2965,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 220975,
       "name": "\u0e40\u0e01\u0e37\u0e2d\u0e1a\u0e14\u0e35 (Almost)",
       "url": "https://open.spotify.com/track/6uAOfFXRlD1TFfX3IAAgrw"
@@ -3409,7 +3481,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 261750,
       "name": "\u0e41\u0e1b\u0e30\u0e2b\u0e31\u0e27\u0e43\u0e08 (14th Feb)",
       "url": "https://open.spotify.com/track/0mqvwTYkebOqQs5cxZzRqN"
@@ -3685,6 +3757,24 @@
       "duration_ms": 233731,
       "name": "\u0e43\u0e0a\u0e48\u0e23\u0e36\u0e40\u0e1b\u0e25\u0e48\u0e32 (Question)",
       "url": "https://open.spotify.com/track/3SNQ3vBykjNe6WSAXca5g4"
+    },
+    {
+      "album": {
+        "name": "\u0e43\u0e0a\u0e48\u0e40\u0e18\u0e2d\u0e2b\u0e23\u0e37\u0e2d\u0e40\u0e1b\u0e25\u0e48\u0e32 (Afraid)",
+        "url": "https://open.spotify.com/album/0TmBUSqK3b9Jmg5VzrCk2D"
+      },
+      "artists": [
+        {
+          "name": "Fyeqoodgurl",
+          "url": "https://open.spotify.com/artist/47ryT65283NrXnJ8k6rKyc"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252100,
+      "name": "\u0e43\u0e0a\u0e48\u0e40\u0e18\u0e2d\u0e2b\u0e23\u0e37\u0e2d\u0e40\u0e1b\u0e25\u0e48\u0e32 (Afraid)",
+      "url": "https://open.spotify.com/track/59EGUetYNGfeVowGajDXzh"
     },
     {
       "album": {

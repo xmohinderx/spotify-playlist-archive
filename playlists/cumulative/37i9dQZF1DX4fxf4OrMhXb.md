@@ -4,7 +4,7 @@
 
 > Close the curtains, it's time for some leftfield gems.
 
-157 songs - 13 hr 40 min - [published](https://open.spotify.com/playlist/6h0aBJF4DpxBxWLBMOrNnP)
+159 songs - 13 hr 49 min - [published](https://open.spotify.com/playlist/6h0aBJF4DpxBxWLBMOrNnP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Aubades](https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12) | [rAHHH](https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki) | [Blinking/Aubades](https://open.spotify.com/album/0EqUoT7hlOpNjUiEfabM7U) | 3:40 | 2022-05-06 |  |
 | [Automatic](https://open.spotify.com/track/1mJoT9jDNBeznK6MWh372a) | [Erol Alkan](https://open.spotify.com/artist/3jQ8hpdQo3TCEnb5gmOtH5) | [Automatic](https://open.spotify.com/album/05FGsNlFJ3VpUyMmyqgukr) | 6:17 | 2022-05-26 | 2022-06-30 |
 | [Automatic](https://open.spotify.com/track/6VZurpFydialDEErNv26FH) | [Marc Brauner](https://open.spotify.com/artist/6HX3fbKCin6OPe6ZFZ8qsf) | [Automatic](https://open.spotify.com/album/08W0wkMcNv7bYx3K8Rehlf) | 6:11 | 2022-05-06 | 2022-07-29 |
+| [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/track/45bfH0GZvUyujIBiKRhXso) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 5:58 | 2022-08-31 |  |
 | [Baby](https://open.spotify.com/track/4FokLpQRijcH4xTN3fLLVb) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC) | [Baby](https://open.spotify.com/album/7avcBxKmsxDBMXbikffSEy) | 3:28 | 2022-05-06 | 2022-07-28 |
 | [Bifurcation Towards Chaos](https://open.spotify.com/track/7ilulch8bT3gQy6RH0X1VN) | [Apollo Noir](https://open.spotify.com/artist/4R7jUhRlP4sKiV8vzuEpND) | [Bifurcation Towards Chaos](https://open.spotify.com/album/0ExkmUPEOuh9Ib7MnVhjvI) | 4:50 | 2022-05-06 | 2022-07-08 |
 | [Blitz](https://open.spotify.com/track/7EofNNezAKzt0nPeWXjjyA) | [FJAAK](https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV) | [SYS03BLITZ](https://open.spotify.com/album/2dHeINo143XXuJJhi14H7j) | 5:53 | 2022-05-06 | 2022-07-29 |
@@ -48,7 +49,7 @@
 | [Flipside](https://open.spotify.com/track/7BCtV6MgAeAaNyQsq9eLmA) | [Monki](https://open.spotify.com/artist/30C3E9bYfEQPAY9MweeUVe) | [Flipside EP](https://open.spotify.com/album/0adDPea4LtnZLn7rs88aSK) | 6:25 | 2022-05-26 | 2022-07-26 |
 | [FM Gamma](https://open.spotify.com/track/3IEPMaD3YGwD2fsMBguimn) | [Facta](https://open.spotify.com/artist/5qdAJ2QyXRasXUmyesONEn) | [FM Gamma](https://open.spotify.com/album/0HaX8W7f46ezI1eRhVlK7w) | 5:57 | 2022-05-06 | 2022-07-29 |
 | [Focus](https://open.spotify.com/track/4Ymu5NdgJvsPNAsBSOqzeS) | [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [Focus](https://open.spotify.com/album/6M5aw0ee4eYRGBkCuOb8SG) | 6:40 | 2022-05-20 | 2022-05-23 |
-| [For your safety](https://open.spotify.com/track/3yIKczp0CRsnGtK7P0e5R6) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [For your safety](https://open.spotify.com/album/3L1YegCnsVaikVxsL4Fypv) | 2:33 | 2022-05-20 |  |
+| [For your safety](https://open.spotify.com/track/3yIKczp0CRsnGtK7P0e5R6) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [For your safety](https://open.spotify.com/album/3L1YegCnsVaikVxsL4Fypv) | 2:33 | 2022-05-20 | 2022-09-01 |
 | [Freq AM \- Sedef Adasi Raw Version](https://open.spotify.com/track/2sLnFamMgYBgguBcnSSl5B) | [Hammer](https://open.spotify.com/artist/3KtaBB3asBs44O4h3xx2V0), [Sedef Adasi](https://open.spotify.com/artist/4jY1cwyuyqQATeSI16ZeYD) | [DFR](https://open.spotify.com/album/4SYEcfohkAYS5cd9PGnifa) | 5:31 | 2022-05-20 | 2022-07-27 |
 | [Gfortune](https://open.spotify.com/track/6N5bzqiZPIhQBmgyKdtYGU) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Gfortune](https://open.spotify.com/album/7m6WEYlAIKnxgiuPKiK5hY) | 3:19 | 2022-05-06 | 2022-07-28 |
 | [Gfortune](https://open.spotify.com/track/6V52Oad8LGjePNLKQHqfgE) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Cash Romantic](https://open.spotify.com/album/3HfF5JwfEDokXfW3NvY7Cs) | 3:19 | 2022-07-08 |  |
@@ -62,6 +63,7 @@
 | [Heaven](https://open.spotify.com/track/7IAYLg8RJ6jpRiggsb8UW7) | [Uppermost](https://open.spotify.com/artist/58UpHBCQ1Jj67DJsR7Qyqg) | [Heaven](https://open.spotify.com/album/0LnXPPIZsSTihVerjh1EuW) | 3:54 | 2022-05-06 | 2022-07-29 |
 | [Helliconia \- Marcel Dettmann Remix](https://open.spotify.com/track/1JDX5o7i89JMJURpDDo9fg) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564), [Marcel Dettmann](https://open.spotify.com/artist/1sxHp39RqBEE01pgVqsdyP) | [Dream House Remixes Part II](https://open.spotify.com/album/0iGwThQ5LD6qzBBupz8hfm) | 6:08 | 2022-05-06 | 2022-07-21 |
 | [Her Song](https://open.spotify.com/track/1YsO1Anlu6kw9wxRxDQQPM) | [BOg](https://open.spotify.com/artist/7FldCwBXVtA0TFbqxvaKZY), [LKF Project](https://open.spotify.com/artist/2RuOG1js6Y29wWnyN7xx2d) | [Her Song EP](https://open.spotify.com/album/29CHL7rOguDVNPZkWwDsHy) | 7:21 | 2022-05-06 | 2022-07-07 |
+| [Hey Baby \- Edit](https://open.spotify.com/track/7MndqEJo8v79ZzT0dfkVdE) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Hey Baby](https://open.spotify.com/album/5SFR0BM59foRYgSloVXkWI) | 3:20 | 2022-08-31 |  |
 | [I am](https://open.spotify.com/track/6TU4YF3DTv3Gm9I0xyMBtO) | [Any Mello](https://open.spotify.com/artist/13E3enCOyEd83fz3dsgB0O) | [Human Being EP](https://open.spotify.com/album/3cLY0M4QDGoQCT1OC8BPzA) | 7:56 | 2022-05-06 | 2022-07-09 |
 | [I Dunno Her](https://open.spotify.com/track/0JgmVPijLg1iPO1LJeZ4zB) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [I Dunno Her](https://open.spotify.com/album/2hIE5CUKfg4stBrq2TC0aR) | 4:48 | 2022-05-06 | 2022-07-28 |
 | [I Feel You \(feat\. Ell Murphy\) \- Edit](https://open.spotify.com/track/1DjivOHek7yr3b7xGVAV7S) | [Giulia Tess](https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [I Feel You \(feat\. Ell Murphy\) \[Edit\]](https://open.spotify.com/album/3iw2DuZ0SlG8Jh4zzzq1ku) | 3:04 | 2022-05-20 |  |
@@ -72,7 +74,7 @@
 | [Ice Hockey](https://open.spotify.com/track/0iaq9gWwRM8job3idOFTws) | [The Micronaut](https://open.spotify.com/artist/5BNKzWZCbIsQz9zAsg9n6V) | [Ice Hockey](https://open.spotify.com/album/1DCyBW3JXPqtFlQ8lznmnN) | 3:41 | 2022-05-06 | 2022-07-28 |
 | [Idontknow](https://open.spotify.com/track/55YMj9pA2x7CkC3NmDtBkl) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Idontknow](https://open.spotify.com/album/05Jf78ScRG8YeX4aLwxjMk) | 5:21 | 2022-05-06 | 2022-07-26 |
 | [Idontknow](https://open.spotify.com/track/7nSBHckG4tTFkp0xqNZDs5) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Idontknow](https://open.spotify.com/album/1OuBffTkjBqwVVfj9I8hHr) | 5:21 | 2022-07-08 |  |
-| [If U Ever](https://open.spotify.com/track/2z1mqiyWEh4ecNm7q1ajRr) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [If U Ever](https://open.spotify.com/album/11ECs9H72FNih398XK8aRI) | 4:48 | 2022-07-08 |  |
+| [If U Ever](https://open.spotify.com/track/2z1mqiyWEh4ecNm7q1ajRr) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [If U Ever](https://open.spotify.com/album/11ECs9H72FNih398XK8aRI) | 4:48 | 2022-07-08 | 2022-09-01 |
 | [If U Ever](https://open.spotify.com/track/6rFoXa2T7l7elYqXxYCvDz) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [If U Ever](https://open.spotify.com/album/5JMBpaWCyG6IlDLReH6hej) | 4:48 | 2022-05-06 | 2022-07-29 |
 | [Into The Light](https://open.spotify.com/track/42NPEbb30IfU6NLnPpLRQq) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [The Distance](https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy) | 5:01 | 2022-07-08 |  |
 | [Into The Light](https://open.spotify.com/track/4LIwWPwEXujKIrycdwXw1f) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [The Distance](https://open.spotify.com/album/6WQ4f6lYwsbGefC7eHAMYS) | 5:01 | 2022-05-06 | 2022-07-29 |

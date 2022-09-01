@@ -218,6 +218,28 @@
     },
     {
       "album": {
+        "name": "Dans l'authenticit\u00e9 (Mandingue)",
+        "url": "https://open.spotify.com/album/0jJKQyNqelrtVHaaACY7qR"
+      },
+      "artists": [
+        {
+          "name": "Kante Manfila",
+          "url": "https://open.spotify.com/artist/5jV3QFs1sz5YntY03TOzw9"
+        },
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 487200,
+      "name": "Djigui",
+      "url": "https://open.spotify.com/track/3ivfPKq9STP6XClKC3P6sz"
+    },
+    {
+      "album": {
         "name": "La Diff\u00e9rence",
         "url": "https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B"
       },
@@ -1109,7 +1131,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 285866,
       "name": "Wamba",
       "url": "https://open.spotify.com/track/4Mr2YyX1Sk0vSJlOwOoQ5J"

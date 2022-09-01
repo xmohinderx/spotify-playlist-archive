@@ -4,7 +4,7 @@
 
 > This South Asian Heritage Month, Sharmeen Obaid Chinoy shares her favorite Pakistani tracks accompanying her on her film travels all over the world.
 
-28 songs - 2 hr 41 min - [published](https://open.spotify.com/playlist/7kWd4zt3p8HAy2bI5pjcnk)
+29 songs - 2 hr 46 min - [published](https://open.spotify.com/playlist/7kWd4zt3p8HAy2bI5pjcnk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Hum Dekhen Ge](https://open.spotify.com/track/6bmqjIMGj8BdmzGwfPKJGt) | [Iqbal Bano](https://open.spotify.com/artist/7JxXeUTiGg0vr8SS2iS0F0) | [Meri Pasand, Vol\. 1](https://open.spotify.com/album/2ihTDwhRGWCEKfwvzffzfp) | 11:37 | 2022-07-18 |  |
 | [Ko Ko Koreena](https://open.spotify.com/track/5qyqseTjGaVrjRkNrCQV3q) | [Ahmed Rushdi](https://open.spotify.com/artist/3cPhnpqQbDtv5dR3Od3Vz1) | [Meri Pasand](https://open.spotify.com/album/4ra1sr1Ec2SKpmlb1OWZIf) | 3:26 | 2022-07-18 |  |
 | [Mera Bichraa Yaar](https://open.spotify.com/track/2fxej3sTBAIyrJfObGrDHI) | [Strings](https://open.spotify.com/artist/2fizRsm6KDWZvysU00yZrX) | [Dhaani](https://open.spotify.com/album/1JV7W8JrdR7j6LRkAAk5cw) | 4:51 | 2022-07-18 |  |
-| [Meri Duniya](https://open.spotify.com/track/28wpZd29WxKuutbpyPYwgz) | [The Sketches](https://open.spotify.com/artist/0OIVrDfMAAvg2ZrKI9zSHh) | [Cake \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1b6muOcBX4UE6NO8x5JHs1) | 4:38 | 2022-07-18 |  |
+| [Meri Duniya](https://open.spotify.com/track/25gchCvVR4sZjEypEOFHQe) | [The Sketches](https://open.spotify.com/artist/0OIVrDfMAAvg2ZrKI9zSHh) | [Cake \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4hesysQSh1kRDsn71uVqdT) | 4:38 | 2022-07-18 |  |
+| [Meri Duniya](https://open.spotify.com/track/28wpZd29WxKuutbpyPYwgz) | [The Sketches](https://open.spotify.com/artist/0OIVrDfMAAvg2ZrKI9zSHh) | [Cake \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1b6muOcBX4UE6NO8x5JHs1) | 4:38 | 2022-07-18 | 2022-09-01 |
 | [Mohabbat](https://open.spotify.com/track/4lcQHckNMeUkM8jx67j28G) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Vulture Prince](https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH) | 7:42 | 2022-07-18 |  |
 | [Nadiya](https://open.spotify.com/track/6f4CgKiWUwJtozohlk1BtO) | [Jimmy Khan](https://open.spotify.com/artist/1Xy0t0XYuOpuBK7Gnuwvpu) | [Singles](https://open.spotify.com/album/1JtpXFR4FHt5L93LNv0F1Z) | 3:26 | 2022-07-18 |  |
 | [Pasoori](https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB) | [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Pasoori](https://open.spotify.com/album/7wgrW5XyZdtk0K8PkW5A7h) | 3:44 | 2022-07-18 |  |

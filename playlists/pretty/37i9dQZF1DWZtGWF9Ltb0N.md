@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtGWF9Ltb0N.md) - [plain]
 
 > A mix of floor shattering bass, dub plates & purple vibes\. Back to the roots and the original sounds of Dubstep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,024 likes - 150 songs - 10 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,561 likes - 150 songs - 10 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

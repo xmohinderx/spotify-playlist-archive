@@ -2,7 +2,7 @@
 
 ### [Disco Forever](https://open.spotify.com/playlist/37i9dQZF1DX1MUPbVKMgJE)
 
-> All your Disco favorites.
+> All your Disco favorites\. Cover: Donna Summer
 
 151 songs - 13 hr 9 min - [published](https://open.spotify.com/playlist/2lNcz8O64Bm1FCmlmRhUK3)
 

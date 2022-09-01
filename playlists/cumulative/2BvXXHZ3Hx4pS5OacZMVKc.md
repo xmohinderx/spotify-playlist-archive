@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-179 songs - 9 hr 27 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
+180 songs - 9 hr 31 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Calling Out](https://open.spotify.com/track/1XhtyPGOGR7Hk2QZPBo5gV) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [Calling Out](https://open.spotify.com/album/5rnsg03WBzzwHsgQICocX4) | 2:08 | 2022-08-02 |  |
 | [Capsized](https://open.spotify.com/track/2LtLVmev6gw15F1fmeIFsB) | [Tollef](https://open.spotify.com/artist/59cdswWEaEGEbeDOiCKazv) | [Capsized](https://open.spotify.com/album/2cUgd3L6zpTmr90b2t29Xy) | 3:38 | 2022-02-03 | 2022-07-12 |
 | [Chasing Stars](https://open.spotify.com/track/3seg3AiX4HgzVXCZV1k0hB) | [STAR SEED](https://open.spotify.com/artist/5xR2U3IJuuJP89isSMnxtd) | [Chasing Stars](https://open.spotify.com/album/0IJrzqHMIRCKEXiYdwXCvo) | 3:05 | 2022-02-03 |  |
+| [Circle](https://open.spotify.com/track/37QbBWAlIYTmm1v23MNLGW) | [Netrum](https://open.spotify.com/artist/4X76fYx1a6EmEvCqDudesG), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH) | [Circle](https://open.spotify.com/album/5NchOgnEho2Pd3TX6RNVrR) | 3:58 | 2022-08-31 |  |
 | [Circus](https://open.spotify.com/track/2W0MEKDEFGf1efLD7Fgy0K) | [Isolated](https://open.spotify.com/artist/0RNjWQupfKxee7LJuWBk0S) | [Circus](https://open.spotify.com/album/7BvtESerCjcvKtvxETidqm) | 3:16 | 2022-02-03 | 2022-07-12 |
 | [Closer](https://open.spotify.com/track/4KZsB1EanBSHsN5zE8ZMf9) | [Todd Helder](https://open.spotify.com/artist/6nhsSK9KbToX3Brq0xeWbV), [Guy Arthur](https://open.spotify.com/artist/7I82CsIAyE2RTFwtP6gcrP), [TITUS](https://open.spotify.com/artist/20U0ZkzluaLiHuPaG6eGRd) | [Closer](https://open.spotify.com/album/0y2NOgjeL7Bn9nVls7znsc) | 3:26 | 2022-02-03 |  |
 | [Come Alive](https://open.spotify.com/track/6pftCjKWt9FhrTtVTgMgam) | [RDLS](https://open.spotify.com/artist/7JiTFmONy7I3lM2ZDvjc6H), [Facading](https://open.spotify.com/artist/3swqKb9ThB6V60oQEFyDu0) | [Come Alive](https://open.spotify.com/album/0M2igd6SNDoQOT7gDYQPvH) | 2:56 | 2022-07-15 |  |

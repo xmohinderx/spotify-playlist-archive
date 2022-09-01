@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76cnmxfAAhD.md) - [plain]
 
 > Ultimate mix of songs from the 1990s to insure a good time while on the road.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,599 likes - 200 songs - 14 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,137 likes - 200 songs - 14 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

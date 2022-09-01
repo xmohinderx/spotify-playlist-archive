@@ -2,7 +2,7 @@
 
 ### [All New Jazz](https://open.spotify.com/playlist/37i9dQZF1DWW2c0C8Vb2IR)
 
-> All new, all jazz\. <a href="spotify:genre:0JQ5IMCbQBLmUyU8VyapEr">Click here for more new jazz.</a> Cover: Ezra Collective
+> All new, all jazz\. Cover: Ezra Collective
 
 1,537 songs - 5 day 6 hr 42 min - [published](https://open.spotify.com/playlist/0siys22nGZQAi8UglzoSEO)
 

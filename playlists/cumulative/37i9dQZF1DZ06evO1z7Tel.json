@@ -199,7 +199,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 193493,
       "name": "Con Cartitas",
       "url": "https://open.spotify.com/track/3kk0EWEnEwkqfhUb3ivUBx"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 168320,
       "name": "El Jardin De Las Flores",
       "url": "https://open.spotify.com/track/7HJvKtTt4JhknBQxVKgxbt"
@@ -523,7 +523,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 142160,
       "name": "El Taxista Enamorado",
       "url": "https://open.spotify.com/track/3ETClE6RsyDMcnXSVOCELQ"
@@ -559,7 +559,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-31",
+      "date_removed": null,
       "duration_ms": 176893,
       "name": "El Vengador de los Federales",
       "url": "https://open.spotify.com/track/2qolfM6jIjHcQ19oJTS1kB"
@@ -728,6 +728,24 @@
     },
     {
       "album": {
+        "name": "30 A\u00f1os De Cabalgata Norte\u00f1a",
+        "url": "https://open.spotify.com/album/6EZ3nnXkoSIm45sPCSMWrW"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "La Amapola",
+      "url": "https://open.spotify.com/track/1urkLh3lci1vMfMJOUc2y2"
+    },
+    {
+      "album": {
         "name": "15 \u00c9xitos De (Vol. 2)",
         "url": "https://open.spotify.com/album/7LDBCeInFVYwylBAC3mqpW"
       },
@@ -847,7 +865,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 171626,
       "name": "La Yerbabuena",
       "url": "https://open.spotify.com/track/35h1lWDAuynGZ1EoZRBpqW"
@@ -919,7 +937,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-31",
+      "date_removed": null,
       "duration_ms": 181720,
       "name": "Maquina 501",
       "url": "https://open.spotify.com/track/2ijdMgCQVTKqyLqjEJnDXZ"
@@ -1027,7 +1045,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 181213,
       "name": "Santos Cant\u00fa",
       "url": "https://open.spotify.com/track/44y0RPcKAsJ9lTs5EJgMbA"

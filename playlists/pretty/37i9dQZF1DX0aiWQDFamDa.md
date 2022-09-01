@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aiWQDFamDa.md) - [plain]
 
 > Sad instrumental and vocal jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,394 likes - 100 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,489 likes - 100 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aiWQDFamDa.md) - [plain]
 | 99 | [Never Let Me Go](https://open.spotify.com/track/4axqDLBDLz7pmZ3gZXaNmQ) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Standards, Vol\. 2](https://open.spotify.com/album/6fvZds34e7H5ICQ5HOWNbd) | 7:49 |
 | 100 | [Something To Remember You By](https://open.spotify.com/track/4bkvCWSHI5vKDyfS8ujpa0) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [The Melody At Night, With You](https://open.spotify.com/album/2onXlqUvme77BeIcMIOz3M) | 7:11 |
 
-Snapshot ID: `MTY2MTUwNDQ1NSwwMDAwMDAwMDM4OGIwMmEyNzFhMzliMWZkOTk3NmNmYzUxMDU5M2E4`
+Snapshot ID: `MTY2MTkzNTAzOSwwMDAwMDAwMGNmMmM5MmE0OGViNjkyN2EwOWY3MWJkYTk1NTAwOWE1`

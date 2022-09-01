@@ -458,6 +458,28 @@
     },
     {
       "album": {
+        "name": "Circle",
+        "url": "https://open.spotify.com/album/5NchOgnEho2Pd3TX6RNVrR"
+      },
+      "artists": [
+        {
+          "name": "Netrum",
+          "url": "https://open.spotify.com/artist/4X76fYx1a6EmEvCqDudesG"
+        },
+        {
+          "name": "Halvorsen",
+          "url": "https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238650,
+      "name": "Circle",
+      "url": "https://open.spotify.com/track/37QbBWAlIYTmm1v23MNLGW"
+    },
+    {
+      "album": {
         "name": "Circus",
         "url": "https://open.spotify.com/album/7BvtESerCjcvKtvxETidqm"
       },

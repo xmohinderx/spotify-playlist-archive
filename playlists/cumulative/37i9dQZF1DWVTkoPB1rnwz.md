@@ -4,7 +4,7 @@
 
 > Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.
 
-235 songs - 13 hr 23 min - [published](https://open.spotify.com/playlist/2Jt65y4t0Q0R06nWIg25oY)
+236 songs - 13 hr 26 min - [published](https://open.spotify.com/playlist/2Jt65y4t0Q0R06nWIg25oY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,7 @@
 | [summer \(shade\)](https://open.spotify.com/track/05JBitld3kGDUrkeZ0hQmg) | [Two Sleepy](https://open.spotify.com/artist/0AnFvgXbwVibMnDDhCVPPK) | [Warmth](https://open.spotify.com/album/5PlR2KmCcUMqsMaVkYFufQ) | 2:15 | 2021-10-16 | 2022-07-26 |
 | [Sunflower Dance](https://open.spotify.com/track/0J9G8MIixgpRmMzS1Xub89) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Sunflower Dance](https://open.spotify.com/album/5yJ5fcocAccpi4thCNl20p) | 3:32 | 2021-10-16 |  |
 | [Sunset Sugarlife](https://open.spotify.com/track/2zr5I7zEDaVLhyWKqHJR5g) | [Karavelo](https://open.spotify.com/artist/1urkG0cqnV7Jjhdv4O9D3f) | [Vacations](https://open.spotify.com/album/032Q8Io07qKivVogFfEr9B) | 1:22 | 2021-10-16 | 2022-07-24 |
-| [Swampland](https://open.spotify.com/track/2Zq3fBk4B3hZTnEzdF9nXf) | [Bokoya](https://open.spotify.com/artist/74FQKqCtm4hmvvxvIJlzrA) | [Swampland / Cava](https://open.spotify.com/album/2I7YD99ufqdOt0bh4IFywE) | 1:15 | 2022-08-03 |  |
+| [Swampland](https://open.spotify.com/track/2Zq3fBk4B3hZTnEzdF9nXf) | [Bokoya](https://open.spotify.com/artist/74FQKqCtm4hmvvxvIJlzrA) | [Swampland / Cava](https://open.spotify.com/album/2I7YD99ufqdOt0bh4IFywE) | 1:15 | 2022-08-03 | 2022-09-01 |
 | [Sweet Everything](https://open.spotify.com/track/7u9rHpnezNKnNhEf84IehW) | [charlie dreaming](https://open.spotify.com/artist/2RK3yBP8NFH1CLOEj0BIAM) | [Sleep Tones](https://open.spotify.com/album/7kZiqKwpxTF81kZFmdX9dn) | 3:09 | 2021-10-16 | 2022-06-21 |
 | [Tadpoles](https://open.spotify.com/track/1Y4BfksWNxJkJX5bHL8Amo) | [Poemme](https://open.spotify.com/artist/4Uqu4U6hhDMODyzSCtNDzG) | [Blooming Spring](https://open.spotify.com/album/1GM55IkCrUsVwsM1vcQwH3) | 5:11 | 2021-10-16 |  |
 | [Tasogare](https://open.spotify.com/track/3STdDTldUC9w03uaCF3JlX) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD), [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [Tasogare](https://open.spotify.com/album/1s5yMR7D4xVnz63lGuBptm) | 3:04 | 2021-10-16 |  |
@@ -231,6 +231,7 @@
 | [Vaporware 01](https://open.spotify.com/track/4yQQuyjdUzVQozJrlJRnBM) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC) | [Plays Bee Mask](https://open.spotify.com/album/7EaPzUAQ1NFESSHaKO0Dlc) | 5:49 | 2021-11-12 |  |
 | [VFXpeaksTWIN](https://open.spotify.com/track/0mPNo3zDtkOcZOzKbKxwTe) | [SW.](https://open.spotify.com/artist/6lDaViWraJYpkI6nRq29vp) | [myDEFINITION](https://open.spotify.com/album/7cD5jelwVYMVfgxjUdUBBc) | 2:16 | 2021-10-16 | 2022-07-19 |
 | [Vibrando Alto En Tulum](https://open.spotify.com/track/4hlkd0ei6iefgdkQP37Fsa) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Ocaso Sin Fin](https://open.spotify.com/album/3lZRj273QqSBGw7hq2ctIz) | 1:53 | 2021-10-16 | 2022-07-29 |
+| [VOL 5 ITEM 63](https://open.spotify.com/track/4L23VDH0RmDbFyY0kEJd2z) | [HOMESHAKE](https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u) | [Pareidolia Catalog, Vols\. 5\-8](https://open.spotify.com/album/0AwvcCx7JroXjnosnDnJGV) | 2:12 | 2022-08-31 |  |
 | [wading through the wetlands](https://open.spotify.com/track/70s82y5YSYOsLhlQnZNh1E) | [santpoort](https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ) | [mudflat hikers](https://open.spotify.com/album/5unmEFWv7YiVMV39friIJY) | 2:44 | 2021-10-16 | 2022-07-28 |
 | [We](https://open.spotify.com/track/22SzEhlJaen0MCdlOJ2aLe) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [The Sky Sings Its Chorus \(For Us Alone\) \[Pt .1\]](https://open.spotify.com/album/4FQr3OeU7tQKO8h1g8QiI2) | 2:35 | 2021-10-16 | 2022-07-29 |
 | [We](https://open.spotify.com/track/5tMwIq5wvUARN4NOuB2XLW) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [For Us Alone](https://open.spotify.com/album/5qLvjzYlOPBWcoGXH7bUSo) | 2:35 | 2021-10-16 |  |

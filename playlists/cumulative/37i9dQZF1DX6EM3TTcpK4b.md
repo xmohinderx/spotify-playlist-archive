@@ -2,7 +2,7 @@
 
 ### [Clásicas del Mariachi](https://open.spotify.com/playlist/37i9dQZF1DX6EM3TTcpK4b)
 
-> Pa' cantar, bailar y pistear\. ¡Qué suene el mariachi! En portada: Antonio Aguilar
+> Pa' cantar, bailar y pistear\. ¡Qué suene el mariachi! En portada: Javier Solís
 
 125 songs - 6 hr 53 min - [published](https://open.spotify.com/playlist/5wGit89Dc1HWZ3GYt8uMaV)
 

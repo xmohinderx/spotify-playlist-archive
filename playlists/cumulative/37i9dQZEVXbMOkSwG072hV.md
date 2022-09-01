@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-583 songs - 1 day 6 hr 16 min - [published](https://open.spotify.com/playlist/0xv3bctlBNT4vjfpPN47e4)
+584 songs - 1 day 6 hr 18 min - [published](https://open.spotify.com/playlist/0xv3bctlBNT4vjfpPN47e4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -445,11 +445,12 @@
 | [Ritmada 2](https://open.spotify.com/track/0Zux4orfv0qjK8SazTNRYW) | [MC LD](https://open.spotify.com/artist/4BVM0HaYyiRASUYgoHAfeO), [DJ Mandrake 100% Original](https://open.spotify.com/artist/6ZZ2yR3x1jcHyx7EheNf8M) | [Ritmada 2](https://open.spotify.com/album/1SZXCvWt3yyscBjUTEQYGd) | 2:18 | 2022-04-13 | 2022-04-27 |
 | [RITMADA SIGILOSA](https://open.spotify.com/track/18BnpVPlaPsHIK7fhHz5mq) | [djfuryzl](https://open.spotify.com/artist/6CHfctV0xTse0qz9LGlpoK), [mc vick](https://open.spotify.com/artist/4qtHHP8OjqTgpORJDTIAPj) | [RITMADA SIGILOSA](https://open.spotify.com/album/5QnXPHSkNLFt5fvFQyysvg) | 2:33 | 2022-02-25 | 2022-04-06 |
 | [Rocking A Cardigan in Atlanta](https://open.spotify.com/track/0N0h5lXc4HOiLgGb9EZi8m) | [lil Shordie Scott](https://open.spotify.com/artist/1r29dFdSenwksTQdkH7r6I) | [Rocking A Cardigan in Atlanta](https://open.spotify.com/album/7ePcmHng6bcS27DmaD9D95) | 1:36 | 2022-03-18 | 2022-04-20 |
+| [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-08-31 |  |
 | [Roça Trap Toco a Xota Dela](https://open.spotify.com/track/2uaVR9QxDvQjDh1yptbLrF) | [Omni Black](https://open.spotify.com/artist/38JfrdJwSQMp4l0mpg7K8S), [JayA Luuck](https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp), [B.I.G Carter](https://open.spotify.com/artist/4FfTbOUdugEh4aAUj2vM70) | [Roça Trap Toco a Xota Dela](https://open.spotify.com/album/2TBIqyMl408tsPZP0ZWe34) | 3:00 | 2022-07-31 | 2022-08-24 |
 | [RUN2U](https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [YOUNG\-LUV.COM](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) | 3:33 | 2022-03-15 | 2022-03-30 |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-05-29 | 2022-08-03 |
 | [Sahara](https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Sahara](https://open.spotify.com/album/3Q8XfnyXY1KUqnfjkyGwWa) | 2:51 | 2022-01-17 | 2022-02-09 |
-| [Samba do Polly](https://open.spotify.com/track/5CJzNKWqr1gLUgZ2Yx7CZy) | [Oh Polêmico](https://open.spotify.com/artist/6sFRadg88wiacDp0uIQ6VW) | [Poesia do Polly](https://open.spotify.com/album/0qReMRfKYJEQNmN4Byoxmd) | 6:09 | 2022-08-09 |  |
+| [Samba do Polly](https://open.spotify.com/track/5CJzNKWqr1gLUgZ2Yx7CZy) | [Oh Polêmico](https://open.spotify.com/artist/6sFRadg88wiacDp0uIQ6VW) | [Poesia do Polly](https://open.spotify.com/album/0qReMRfKYJEQNmN4Byoxmd) | 6:09 | 2022-08-09 | 2022-09-01 |
 | [Samba in Paris](https://open.spotify.com/track/3nlhqZHMXG2A5UkW633wwx) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [QVVJFA?](https://open.spotify.com/album/5HE9DhP8b3m3LmShTreEvq) | 4:26 | 2022-02-22 | 2022-04-26 |
 | [SAOKO](https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:17 | 2022-03-20 | 2022-04-06 |
 | [SAOKO](https://open.spotify.com/track/2J3oaXTqKjGGHCOQLeBnBA) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [SAOKO](https://open.spotify.com/album/3OUsI2v5sOR5JTorrsi7If) | 2:17 | 2022-03-01 | 2022-03-09 |

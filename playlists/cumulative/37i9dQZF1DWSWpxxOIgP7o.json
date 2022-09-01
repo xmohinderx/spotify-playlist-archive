@@ -116,6 +116,24 @@
     },
     {
       "album": {
+        "name": "Chacal",
+        "url": "https://open.spotify.com/album/5IwIn3NUtgmCTGci0UDlXb"
+      },
+      "artists": [
+        {
+          "name": "Idrissi",
+          "url": "https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Chacal",
+      "url": "https://open.spotify.com/track/3AS9WJtZGzR1rHdD1M8CFg"
+    },
+    {
+      "album": {
         "name": "Champion",
         "url": "https://open.spotify.com/album/6LCLAYG6WcClrd3t1f39gw"
       },
@@ -305,10 +323,36 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 186653,
       "name": "Hamdulillah (Featuring Shadia Mansour)",
       "url": "https://open.spotify.com/track/2gMtIerCwupNePU3PrfYJb"
+    },
+    {
+      "album": {
+        "name": "Hamdulillah (Music From The Netflix Series Mo)",
+        "url": "https://open.spotify.com/album/0YnkmJkudVhAnOvHEHcBC0"
+      },
+      "artists": [
+        {
+          "name": "Narcy",
+          "url": "https://open.spotify.com/artist/0dkcQCK8GjDBCGrjlUJhlg"
+        },
+        {
+          "name": "Shadia Mansour",
+          "url": "https://open.spotify.com/artist/3PaRWHJX1nnmN4kffMGm93"
+        },
+        {
+          "name": "Sandhill",
+          "url": "https://open.spotify.com/artist/0mREKS2VJxhULYPnh3C8s2"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235061,
+      "name": "Hamdulillah - Music From The Netflix Series Mo",
+      "url": "https://open.spotify.com/track/6X1aG6YCoSqsLPI7t56n4D"
     },
     {
       "album": {
@@ -509,10 +553,32 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 194517,
       "name": "Overdose",
       "url": "https://open.spotify.com/track/7bQoO4B4ZQOzzvl5k7zVr0"
+    },
+    {
+      "album": {
+        "name": "Overdose (From the Netflix Series \"Mo\")",
+        "url": "https://open.spotify.com/album/3nAhYY2KDN6HXz8WSMlfwI"
+      },
+      "artists": [
+        {
+          "name": "DAM",
+          "url": "https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz"
+        },
+        {
+          "name": "Brother Ali",
+          "url": "https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174673,
+      "name": "Overdose - From the Netflix Series \"Mo\"",
+      "url": "https://open.spotify.com/track/5xOyOwxcap9OMHDzPWWYQp"
     },
     {
       "album": {

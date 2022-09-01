@@ -120,6 +120,24 @@
     },
     {
       "album": {
+        "name": "ANTHEMICS",
+        "url": "https://open.spotify.com/album/71bWcbfdQt3vuKxYCrAYfy"
+      },
+      "artists": [
+        {
+          "name": "The Ravens",
+          "url": "https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246200,
+      "name": "Apophenia",
+      "url": "https://open.spotify.com/track/3QeJpeJmuIHnggfh17S42U"
+    },
+    {
+      "album": {
         "name": "aRIVAL",
         "url": "https://open.spotify.com/album/0YdPexNcKm8QsOOXc0mcij"
       },
@@ -3525,7 +3543,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 246200,
       "name": "\u30a2\u30dd\u30d5\u30a7\u30cb\u30a2",
       "url": "https://open.spotify.com/track/2LMMdR5vkNpm6v1AwXg7l9"

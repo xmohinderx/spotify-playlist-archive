@@ -1,80 +1,44 @@
 {
   "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Kaleah Lee | Visual Artist: Bailey Elder",
-  "num_followers": 16367,
+  "num_followers": 16541,
   "original_name": "Fresh Finds Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTM1ODU5OSwwMDAwMDAwMDllZTUzYTFlMzcwNGI2MmY0YTRiODM0YmU2YjAyNjA5",
+  "snapshot_id": "MTY2MTk2MTYwMCwwMDAwMDAwMDExNDM3NjAyODM3NDU4YTQzNDdiNDhjYjRmMWQxMjg5",
   "tracks": [
     {
-      "added_at": "2022-08-24 16:29:58",
+      "added_at": "2022-08-31 16:00:00",
       "album": {
-        "name": "Next Day",
-        "url": "https://open.spotify.com/album/405aqDgQO7urBQXgW89zRU"
+        "name": "I'm On Your Team",
+        "url": "https://open.spotify.com/album/4vreIPwo6krkOo8bwRXjJl"
       },
       "artists": [
         {
-          "name": "Homeschool",
-          "url": "https://open.spotify.com/artist/3QSLQuaMerIfT2VHvqObG8"
+          "name": "Babehoven",
+          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
         }
       ],
-      "duration_ms": 242560,
-      "name": "Next Day",
-      "url": "https://open.spotify.com/track/03Vty31Dwz76xodLHmRnMj"
+      "duration_ms": 258853,
+      "name": "I'm On Your Team",
+      "url": "https://open.spotify.com/track/69jT12rES32If7pt7tC6SK"
     },
     {
-      "added_at": "2022-08-24 16:29:58",
+      "added_at": "2022-08-31 16:00:00",
       "album": {
-        "name": "Not in a Bad Way",
-        "url": "https://open.spotify.com/album/2f0Q3pgUwMpEBhvD16iZqO"
+        "name": "Preoccupied",
+        "url": "https://open.spotify.com/album/6E07nHKqRmmxGbnbxAqEaj"
       },
       "artists": [
         {
-          "name": "RYVOLI",
-          "url": "https://open.spotify.com/artist/0I9tCYhkePbjVaPa3WZaTA"
-        },
-        {
-          "name": "McKenzie Lockhart",
-          "url": "https://open.spotify.com/artist/69elf6Uwlgax3A4v7MLz1c"
+          "name": "Tarune",
+          "url": "https://open.spotify.com/artist/2tIerRKCwa3Zz1oVBDOUlq"
         }
       ],
-      "duration_ms": 215547,
-      "name": "Tarskavaig",
-      "url": "https://open.spotify.com/track/6c1vdiPhlwI33UJaF6w77V"
-    },
-    {
-      "added_at": "2022-08-24 16:29:58",
-      "album": {
-        "name": "Coolshit Bullshit",
-        "url": "https://open.spotify.com/album/3NleO73TVi5PyyyENBZ69U"
-      },
-      "artists": [
-        {
-          "name": "Danika",
-          "url": "https://open.spotify.com/artist/4E4URaamJ7aTA4YE2wk9EO"
-        }
-      ],
-      "duration_ms": 240759,
-      "name": "Coolshit Bullshit",
-      "url": "https://open.spotify.com/track/1NaDkeb2bSKFvuP5dZazet"
-    },
-    {
-      "added_at": "2022-08-24 16:29:58",
-      "album": {
-        "name": "Heavy Handed",
-        "url": "https://open.spotify.com/album/4QZPwH9ALMRJp4G3llnDqK"
-      },
-      "artists": [
-        {
-          "name": "Kaleah Lee",
-          "url": "https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ"
-        }
-      ],
-      "duration_ms": 201307,
-      "name": "Heavy Handed",
-      "url": "https://open.spotify.com/track/27vxMDq3CkXdNdPsKvMlsX"
+      "duration_ms": 211071,
+      "name": "Preoccupied",
+      "url": "https://open.spotify.com/track/7jcBE4X9AbH5KnxFkiFzJG"
     },
     {
       "added_at": "2022-08-24 16:29:58",
@@ -95,6 +59,70 @@
     {
       "added_at": "2022-08-24 16:29:58",
       "album": {
+        "name": "Next Day",
+        "url": "https://open.spotify.com/album/405aqDgQO7urBQXgW89zRU"
+      },
+      "artists": [
+        {
+          "name": "Homeschool",
+          "url": "https://open.spotify.com/artist/3QSLQuaMerIfT2VHvqObG8"
+        }
+      ],
+      "duration_ms": 242560,
+      "name": "Next Day",
+      "url": "https://open.spotify.com/track/03Vty31Dwz76xodLHmRnMj"
+    },
+    {
+      "added_at": "2022-08-24 16:29:58",
+      "album": {
+        "name": "Heavy Handed",
+        "url": "https://open.spotify.com/album/4QZPwH9ALMRJp4G3llnDqK"
+      },
+      "artists": [
+        {
+          "name": "Kaleah Lee",
+          "url": "https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ"
+        }
+      ],
+      "duration_ms": 201307,
+      "name": "Heavy Handed",
+      "url": "https://open.spotify.com/track/27vxMDq3CkXdNdPsKvMlsX"
+    },
+    {
+      "added_at": "2022-08-24 16:29:58",
+      "album": {
+        "name": "Coolshit Bullshit",
+        "url": "https://open.spotify.com/album/3NleO73TVi5PyyyENBZ69U"
+      },
+      "artists": [
+        {
+          "name": "Danika",
+          "url": "https://open.spotify.com/artist/4E4URaamJ7aTA4YE2wk9EO"
+        }
+      ],
+      "duration_ms": 240759,
+      "name": "Coolshit Bullshit",
+      "url": "https://open.spotify.com/track/1NaDkeb2bSKFvuP5dZazet"
+    },
+    {
+      "added_at": "2022-08-31 16:00:00",
+      "album": {
+        "name": "Gone (Away)",
+        "url": "https://open.spotify.com/album/4vnVye9NBADjq2dYAinjMR"
+      },
+      "artists": [
+        {
+          "name": "Ryan Harris",
+          "url": "https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG"
+        }
+      ],
+      "duration_ms": 166008,
+      "name": "Gone (Away)",
+      "url": "https://open.spotify.com/track/6UCdCOFnahKI4yjILCPn3H"
+    },
+    {
+      "added_at": "2022-08-24 16:29:58",
+      "album": {
         "name": "Hard Feelings",
         "url": "https://open.spotify.com/album/6JG9cpogbueo7J6AWLhl6T"
       },
@@ -107,6 +135,42 @@
       "duration_ms": 264820,
       "name": "Hard Feelings",
       "url": "https://open.spotify.com/track/68MbMKn42dsBU9bgzHaRXw"
+    },
+    {
+      "added_at": "2022-08-31 16:00:00",
+      "album": {
+        "name": "Coyote",
+        "url": "https://open.spotify.com/album/4sZ02TuLWp3oQu9pOmNSdN"
+      },
+      "artists": [
+        {
+          "name": "Thomas LaVine",
+          "url": "https://open.spotify.com/artist/2T7YLT9nMnXlnW0UjJBN70"
+        }
+      ],
+      "duration_ms": 173929,
+      "name": "Coyote",
+      "url": "https://open.spotify.com/track/12AFcU2wS4AVy51SmOGuhE"
+    },
+    {
+      "added_at": "2022-08-24 16:29:58",
+      "album": {
+        "name": "Not in a Bad Way",
+        "url": "https://open.spotify.com/album/2f0Q3pgUwMpEBhvD16iZqO"
+      },
+      "artists": [
+        {
+          "name": "RYVOLI",
+          "url": "https://open.spotify.com/artist/0I9tCYhkePbjVaPa3WZaTA"
+        },
+        {
+          "name": "McKenzie Lockhart",
+          "url": "https://open.spotify.com/artist/69elf6Uwlgax3A4v7MLz1c"
+        }
+      ],
+      "duration_ms": 215547,
+      "name": "Tarskavaig",
+      "url": "https://open.spotify.com/track/6c1vdiPhlwI33UJaF6w77V"
     },
     {
       "added_at": "2022-08-24 16:29:58",
@@ -1376,7 +1440,7 @@
       "added_at": "2022-08-24 16:29:58",
       "album": {
         "name": "Far Side of the World",
-        "url": "https://open.spotify.com/album/4QgzaZ3hmSQlfc6vHo3LK3"
+        "url": "https://open.spotify.com/album/5dpUh5bWCdCrsQCovr25vh"
       },
       "artists": [
         {
@@ -1390,7 +1454,7 @@
       ],
       "duration_ms": 176727,
       "name": "Far Side of the World",
-      "url": "https://open.spotify.com/track/0nnLkKVp5uL2o1mCSPD45x"
+      "url": "https://open.spotify.com/track/5JAnepWYVyWqJBQlJuZhfD"
     },
     {
       "added_at": "2022-08-24 16:29:58",
@@ -1567,70 +1631,6 @@
       "duration_ms": 215958,
       "name": "Gears",
       "url": "https://open.spotify.com/track/35qU5mjy7UAECL08FPvf3P"
-    },
-    {
-      "added_at": "2022-08-24 16:29:58",
-      "album": {
-        "name": "Texas Blue",
-        "url": "https://open.spotify.com/album/1PJmolhLIF5L2krvACKHO6"
-      },
-      "artists": [
-        {
-          "name": "Jess Williamson",
-          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
-        }
-      ],
-      "duration_ms": 176169,
-      "name": "Loretta",
-      "url": "https://open.spotify.com/track/3yOxX5lkU785X327fhMWdk"
-    },
-    {
-      "added_at": "2022-08-24 16:29:58",
-      "album": {
-        "name": "Sisyphus",
-        "url": "https://open.spotify.com/album/1jejRlaAMdFoC87EYob3dN"
-      },
-      "artists": [
-        {
-          "name": "Vintz Desert",
-          "url": "https://open.spotify.com/artist/2R4IKLdF2GmuTuuyu2y5mY"
-        }
-      ],
-      "duration_ms": 180650,
-      "name": "Sisyphus",
-      "url": "https://open.spotify.com/track/2EoxzI6ScQYeSx54Z1T78q"
-    },
-    {
-      "added_at": "2022-08-24 16:29:58",
-      "album": {
-        "name": "Moms Song",
-        "url": "https://open.spotify.com/album/2lY8ZK2ct0Dl9PDCp80EFE"
-      },
-      "artists": [
-        {
-          "name": "Tess",
-          "url": "https://open.spotify.com/artist/5ZwQXTCHmw958nA8imMb3a"
-        }
-      ],
-      "duration_ms": 179523,
-      "name": "Moms Song",
-      "url": "https://open.spotify.com/track/4t0qpQnjzOJLnbZMGw0nvy"
-    },
-    {
-      "added_at": "2022-08-24 16:29:58",
-      "album": {
-        "name": "HAPPY LANDING",
-        "url": "https://open.spotify.com/album/2fTAWG3a28sHDFvPBCWGeM"
-      },
-      "artists": [
-        {
-          "name": "HAPPY LANDING",
-          "url": "https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6"
-        }
-      ],
-      "duration_ms": 272693,
-      "name": "October",
-      "url": "https://open.spotify.com/track/5XE5CEIj6e5iGUZMW5Bsh6"
     }
   ],
   "unique_name": "Fresh Finds Folk",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUijuqw3Znk.md) - [plain]
 
 > 바닥에서 위로\. 성공을 위한 열정과 집념을 느껴보세요\. \(커버: Royal 44\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,072 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,077 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUijuqw3Znk.md) - [plain]
 | 97 | [Going Home \(feat\. Koonta\)](https://open.spotify.com/track/5aisTRqmjj5DUb22KUmzjq) | [A\-chess](https://open.spotify.com/artist/5LJSZWDkqtPtH3AmtxGduR), [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c) | [Going Home](https://open.spotify.com/album/0I2m1bRabNDluBDGQIW4EG) | 3:17 |
 | 98 | [Still On My Way](https://open.spotify.com/track/7fUa7kqaHxVNUs1nwRfQcQ) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [MULTILLIONAIRE](https://open.spotify.com/album/4BlHtDLeAwV6v8oUDAASk4) | 3:57 |
 | 99 | [Up up and away](https://open.spotify.com/track/5aUt8Q3qAZf1JFZhXWaRmv) | [Jazzyfact](https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8) | [Waves Like](https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE) | 3:02 |
-| 100 | [Rewind \(Feat\. SUMIN\)](https://open.spotify.com/track/30oZ161npcglwox5PhHiys) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [BLEACHED](https://open.spotify.com/album/1xREcRvJFgP1rJMfRvh2aI) | 4:18 |
+| 100 | [Rewind \(Feat\. SUMIN\)](https://open.spotify.com/track/30oZ161npcglwox5PhHiys) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [BLEACHED](https://open.spotify.com/album/1xREcRvJFgP1rJMfRvh2aI) | 4:18 |
 
 Snapshot ID: `MTY2MDcyODUzOCwwMDAwMDAwMGZhMGExODVmMWI5YmIwOTgzNTcwNGZlMmUyMjUwYTg1`

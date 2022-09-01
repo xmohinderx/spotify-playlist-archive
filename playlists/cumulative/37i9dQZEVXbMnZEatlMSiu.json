@@ -5931,7 +5931,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 357093,
       "name": "\u5728\u9019\u5ea7\u57ce\u5e02\u907a\u5931\u4e86\u4f60 (\u6232\u5287\u300a\u4ed6\u5011\u5275\u696d\u7684\u90a3\u4e9b\u9ce5\u4e8b\u300b\u63d2\u66f2)",
       "url": "https://open.spotify.com/track/1Ytgo9ipdlTsf6wlg6sXf3"
@@ -6777,6 +6777,24 @@
       "duration_ms": 273119,
       "name": "\u6211\u5011\u90fd\u50b7",
       "url": "https://open.spotify.com/track/2Ml2GEyuekwmmzoyC9x4TK"
+    },
+    {
+      "album": {
+        "name": "\u6211\u505a\u7684\u662f\u611b\u4e0d\u662f\u5922",
+        "url": "https://open.spotify.com/album/2AoiXOSwuI1gb4nPbsKjBB"
+      },
+      "artists": [
+        {
+          "name": "NICKTHEREAL",
+          "url": "https://open.spotify.com/artist/1fHw35wWkpOw05sswFSl70"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219556,
+      "name": "\u6211\u505a\u7684\u662f\u611b\u4e0d\u662f\u5922",
+      "url": "https://open.spotify.com/track/1aK3V9OCM8GUuMR6GxXhyf"
     },
     {
       "album": {
@@ -8312,6 +8330,24 @@
     },
     {
       "album": {
+        "name": "\u8a23\u611b",
+        "url": "https://open.spotify.com/album/11KVIZFGZ34hRCfrIr1oSt"
+      },
+      "artists": [
+        {
+          "name": "\u8a79\u96ef\u5a77",
+          "url": "https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189295,
+      "name": "\u8a23\u611b (\u5287\u96c6\u300a\u84bc\u862d\u8a23\u300b\u7247\u982d\u66f2)",
+      "url": "https://open.spotify.com/track/6la3Kme7O7D01fJPxgpAS5"
+    },
+    {
+      "album": {
         "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
         "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
       },
@@ -8863,7 +8899,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 272466,
       "name": "\u98a8\u306e\u3086\u304f\u3048",
       "url": "https://open.spotify.com/track/2JPT05xVbGuIkAc0LNRo3s"

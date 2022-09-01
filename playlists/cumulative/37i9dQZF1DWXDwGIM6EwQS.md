@@ -4,7 +4,7 @@
 
 > pov: you're crying and dancing at the same time.
 
-159 songs - 8 hr 36 min - [published](https://open.spotify.com/playlist/5yJ1kqJQQB8BoI0Fit0lvH)
+160 songs - 8 hr 39 min - [published](https://open.spotify.com/playlist/5yJ1kqJQQB8BoI0Fit0lvH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Para Ti](https://open.spotify.com/track/6wAtZ3IHvs4Uc41A2pKUYg) | [LASTMONDAY](https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN) | [Para Ti](https://open.spotify.com/album/6qdfXJmZK59M1KzJikGOdH) | 2:45 | 2022-03-21 | 2022-04-20 |
 | [Pastel](https://open.spotify.com/track/02hvbGVZumfXKZAktTU3RD) | [Typow](https://open.spotify.com/artist/4F7aNmQtNzDhEDqpilDRrw) | [Pastel](https://open.spotify.com/album/3bdfsmy7m9sif7O1sYmXnm) | 3:09 | 2022-03-21 | 2022-04-20 |
 | [Pegao](https://open.spotify.com/track/2PixLCKBzTx4AkhAK30ckW) | [LASTMONDAY](https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN) | [Pegao](https://open.spotify.com/album/6st9SD6DENdeLSBiqMxWOO) | 2:44 | 2022-03-21 | 2022-04-20 |
+| [perreo sad](https://open.spotify.com/track/1cze6kBI1UeQL8xvjyNOwm) | [Valentina](https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI) | [perreo sad](https://open.spotify.com/album/7EQXEMpQyRSMdWbLEOLC9j) | 3:05 | 2022-08-31 |  |
 | [Phone Sex](https://open.spotify.com/track/0SbwmVySMhXR47pGy9F5BA) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Phone Sex](https://open.spotify.com/album/7uPEOCp4fZcA83suKA39b3) | 3:13 | 2022-03-21 | 2022-07-09 |
 | [Por Ti](https://open.spotify.com/track/3ZuFInBcAYRuRzoresTxCW) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Por Ti](https://open.spotify.com/album/5BcsMa1EAEa2FOEHaMyRf2) | 3:03 | 2022-03-21 | 2022-04-20 |
 | [Por Ti](https://open.spotify.com/track/5W0AuE9Db3LDYU8lnTEiic) | [lowk3y](https://open.spotify.com/artist/2VOOT5pYk1vsdnhQkTouIa), [Malpica](https://open.spotify.com/artist/4Ccjt9xznfblNEOXLw5OfZ) | [Por Ti](https://open.spotify.com/album/0QPvsKVviDAtnSce6nTfAS) | 2:57 | 2022-03-21 | 2022-04-20 |

@@ -4,7 +4,7 @@
 
 > The original soundtrack to a dancefloor revolution, from the basement to the world \- this is Acid.
 
-75 songs - 7 hr 22 min - [published](https://open.spotify.com/playlist/7s0i33BBUjQHA9lPvjbnaK)
+76 songs - 7 hr 26 min - [published](https://open.spotify.com/playlist/7s0i33BBUjQHA9lPvjbnaK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Can You Party \(Club Mix\)](https://open.spotify.com/track/6TeKFnwaPsXI35gaQEoR8z) | [Royal House](https://open.spotify.com/artist/0daYmCWEivMhG9FsmwgyFL) | [Can You Party](https://open.spotify.com/album/6XDDcGr98kPfkv1FZ5fYoI) | 6:04 | 2018-06-21 |  |
 | [Can You Party?](https://open.spotify.com/track/2GH8f03eJJeXPkATwrbvA8) | [Royal House](https://open.spotify.com/artist/0daYmCWEivMhG9FsmwgyFL) | [80s House Classics](https://open.spotify.com/album/10yei2eL0tlBVJokSZ4s5p) | 6:04 | 2018-06-21 | 2022-07-29 |
 | [Carino](https://open.spotify.com/track/6yeq9TXrOcczL1ryPHkbFF) | [T Coy](https://open.spotify.com/artist/5GhM94hOJlFALbn1Ta4Py6) | [Deconstruction Reconstructed 001](https://open.spotify.com/album/41qB3TlEKssRZE9tb56ZAF) | 5:13 | 2018-06-21 |  |
-| [Circus Bells \- Original](https://open.spotify.com/track/5Y6M2SWKrHeI2zptDMD7Cc) | [Robert Armani](https://open.spotify.com/artist/3sHkYrW1ZXf3juwNvnxQO6) | [Circus Bells](https://open.spotify.com/album/6qfg5Fqz0tYqSFgq2ZLymZ) | 3:51 | 2018-06-21 |  |
+| [Circus Bells](https://open.spotify.com/track/3267ZeKC3HBe8igcCJqPL4) | [Robert Armani](https://open.spotify.com/artist/3sHkYrW1ZXf3juwNvnxQO6) | [Circus Bells](https://open.spotify.com/album/3Df96kVOxYlgjBksvqAh1t) | 3:51 | 2018-06-21 |  |
+| [Circus Bells \- Original](https://open.spotify.com/track/5Y6M2SWKrHeI2zptDMD7Cc) | [Robert Armani](https://open.spotify.com/artist/3sHkYrW1ZXf3juwNvnxQO6) | [Circus Bells](https://open.spotify.com/album/6qfg5Fqz0tYqSFgq2ZLymZ) | 3:51 | 2018-06-21 | 2022-09-01 |
 | [Distant Planet](https://open.spotify.com/track/7tXx01zHIkh0MKb4EZcquy) | [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn) | [Four Most Cuts Presents \- Mr\. Fingers](https://open.spotify.com/album/0cWsPRLyYxRpm3m8Xlle4J) | 5:20 | 2018-06-21 |  |
 | [Dream Girl \(Wet Dream Mix\)](https://open.spotify.com/track/1yeotiZcER2QYJg6kkkAYl) | [Pierre's Pfantasy Club](https://open.spotify.com/artist/40BpVERJ6kAjii1gogXcEk) | [Trax Records: Acid Classics](https://open.spotify.com/album/6s3RtH9fxAKATbB3yMKxX6) | 8:48 | 2018-06-21 | 2022-07-29 |
 | [Dream Girl \- Wet Dream](https://open.spotify.com/track/5HvPR4mRFKQwVpu7GRR9wz) | [Pierre's Phantasy Club](https://open.spotify.com/artist/6zJNLG5DvKim9OzkEGy1TM) | [Dream Girl](https://open.spotify.com/album/2i9YUbpKYs3wNZjk2o9fMa) | 8:53 | 2018-06-21 |  |

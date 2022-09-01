@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring DJ Khaled, Lil Tjay, NAV, and more\. Cover: JID
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,243 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,318 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 27 | [Double Cup](https://open.spotify.com/track/3GgHxYYLLaE1OnRKc9FznY) | [Rah Swish](https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH) | [Double Cup](https://open.spotify.com/album/6XdDkPjojt5FHlGBhZcjr5) | 2:44 |
 | 28 | [Quantum Leap](https://open.spotify.com/track/3ujsJyNJl1zxvS4G9JhJtE) | [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [The Elephant Man's Bones](https://open.spotify.com/album/3Kkrsa5dgEgl2fYyO51EEf) | 2:28 |
 | 29 | [Don't Look At Numbers \- Remix](https://open.spotify.com/track/0dlCGUP21xlbgobhTxb3Gi) | [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Don't Look At Numbers \(Remix\)](https://open.spotify.com/album/0mHLJmZeGCgDW4yh4M4MdO) | 3:37 |
-| 30 | [Smokin' Kiki \(Lonnie\)](https://open.spotify.com/track/5eQuikw6kyxRvjOMIAZGZb) | [Mach\-Hommy](https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk) | [Dollar Menu 4](https://open.spotify.com/album/07Mhy5JWKzHBaBdMCTfETC) | 2:09 |
+| 30 | [Smokin' Kiki \(Lonnie\)](https://open.spotify.com/track/5eQuikw6kyxRvjOMIAZGZb) | [Mach\-Hommy](https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk), [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp) | [Dollar Menu 4](https://open.spotify.com/album/07Mhy5JWKzHBaBdMCTfETC) | 2:09 |
 | 31 | [Jay N Bey!](https://open.spotify.com/track/0pST9hoYDLC7cI71VrXxBW) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Golden Child, Chapter 2](https://open.spotify.com/album/5QohyYxe1zRYpTmkWJTNYb) | 2:11 |
 | 32 | [Key To My Heart](https://open.spotify.com/track/3safBWMqYnBJtNA2428Hmz) | [Fresco Trey](https://open.spotify.com/artist/6HgEIsWCHekTTfnbOGJa3g) | [Key To My Heart](https://open.spotify.com/album/5MlRgizbT5l0vMtzSlBIvl) | 2:34 |
 | 33 | [How It Go](https://open.spotify.com/track/6ib1c99Cryx0n13G88NAqZ) | [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz) | [How It Go](https://open.spotify.com/album/3AKIaaqQzhPgzMIQHmDQgN) | 3:11 |

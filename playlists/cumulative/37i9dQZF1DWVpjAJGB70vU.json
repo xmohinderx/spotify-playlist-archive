@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Country that made country cool! Cover: Shania Twain",
+  "description": "Country that made country cool! Cover: Vince Gill",
   "name": "90s Country",
   "published_playlist_ids": [
     "5IDkbO4ORcphFP9N9pX9l7"
@@ -837,6 +837,24 @@
       "duration_ms": 216106,
       "name": "From Here to Eternity",
       "url": "https://open.spotify.com/track/5zXIaG5IdLd0XhIQnucrdP"
+    },
+    {
+      "album": {
+        "name": "When Love Finds You",
+        "url": "https://open.spotify.com/album/33XyyiV7lMXdFbsorjt1sB"
+      },
+      "artists": [
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315973,
+      "name": "Go Rest High On That Mountain",
+      "url": "https://open.spotify.com/track/7C04W8ooqQD3vWKUSzeYnz"
     },
     {
       "album": {
@@ -2321,7 +2339,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 143333,
       "name": "Silver Threads and Golden Needles",
       "url": "https://open.spotify.com/track/0IQ0qn8a2TN9Tmo7p5KmUs"

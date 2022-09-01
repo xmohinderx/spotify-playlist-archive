@@ -405,7 +405,7 @@
     {
       "album": {
         "name": "Circus Bells",
-        "url": "https://open.spotify.com/album/6qfg5Fqz0tYqSFgq2ZLymZ"
+        "url": "https://open.spotify.com/album/3Df96kVOxYlgjBksvqAh1t"
       },
       "artists": [
         {
@@ -416,6 +416,24 @@
       "date_added": "2018-06-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 231240,
+      "name": "Circus Bells",
+      "url": "https://open.spotify.com/track/3267ZeKC3HBe8igcCJqPL4"
+    },
+    {
+      "album": {
+        "name": "Circus Bells",
+        "url": "https://open.spotify.com/album/6qfg5Fqz0tYqSFgq2ZLymZ"
+      },
+      "artists": [
+        {
+          "name": "Robert Armani",
+          "url": "https://open.spotify.com/artist/3sHkYrW1ZXf3juwNvnxQO6"
+        }
+      ],
+      "date_added": "2018-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-01",
       "duration_ms": 231240,
       "name": "Circus Bells - Original",
       "url": "https://open.spotify.com/track/5Y6M2SWKrHeI2zptDMD7Cc"

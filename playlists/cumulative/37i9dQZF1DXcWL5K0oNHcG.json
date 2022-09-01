@@ -201,7 +201,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 272964,
       "name": "3rd Party 1st Floor",
       "url": "https://open.spotify.com/track/0IFyqIeBsUeEOUY1TZTaY9"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 281026,
       "name": "A Queen / Floating",
       "url": "https://open.spotify.com/track/32XIZ4HUVAbePW4Px9sqSc"
@@ -1011,7 +1011,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 280522,
       "name": "Arcipelago",
       "url": "https://open.spotify.com/track/4MUEcaK1OhK3c42fW9Pplg"
@@ -1357,7 +1357,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 349008,
       "name": "Be My Lil' Swaggaroni",
       "url": "https://open.spotify.com/track/4nplB89zTUeF2vmET7ocgt"
@@ -2382,6 +2382,24 @@
     },
     {
       "album": {
+        "name": "Ciudad sat\u00e9lite",
+        "url": "https://open.spotify.com/album/69WOD3Kkbs4exLCvvZzGji"
+      },
+      "artists": [
+        {
+          "name": "Agust\u00ed Esp\u00edn",
+          "url": "https://open.spotify.com/artist/0w3LoIqgA3sZ9gYwCAyApH"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300145,
+      "name": "Ciudad sat\u00e9lite",
+      "url": "https://open.spotify.com/track/6rvrub77C6DlMNwIQwfl1c"
+    },
+    {
+      "album": {
         "name": "Coming Home",
         "url": "https://open.spotify.com/album/4nMsary90gfivGSnDnLw5x"
       },
@@ -2551,7 +2569,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 239000,
       "name": "Coconut Water",
       "url": "https://open.spotify.com/track/48HATQmXssKoCAqhaFjtAh"
@@ -2863,10 +2881,36 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 256000,
       "name": "D.D.D.",
       "url": "https://open.spotify.com/track/3pAptGA4dWLZrzVqnVSWk7"
+    },
+    {
+      "album": {
+        "name": "Dada",
+        "url": "https://open.spotify.com/album/7zL8y78CD55zgwxzZqmK8X"
+      },
+      "artists": [
+        {
+          "name": "Yotam Silberstein",
+          "url": "https://open.spotify.com/artist/7tKhud8BmUnoibLkJz7C6r"
+        },
+        {
+          "name": "Vitor Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/5dEIDzhH5MWFhRrM8Cb7mh"
+        },
+        {
+          "name": "Daniel Dor",
+          "url": "https://open.spotify.com/artist/1MKHZ2XG5GkCmLK7VMGjIZ"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338720,
+      "name": "Dada",
+      "url": "https://open.spotify.com/track/5jT1f3HRDkYri2ASniT8EM"
     },
     {
       "album": {
@@ -3557,7 +3601,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 340363,
       "name": "Duda",
       "url": "https://open.spotify.com/track/2fCkFI19Md79sMg9lyZSxq"
@@ -3739,6 +3783,24 @@
       "duration_ms": 342342,
       "name": "Ekpe",
       "url": "https://open.spotify.com/track/5LU06dfVZiOfXndo0g0vUN"
+    },
+    {
+      "album": {
+        "name": "Cabloide Live",
+        "url": "https://open.spotify.com/album/4c0w9gVdwobl1eqDy9Thn1"
+      },
+      "artists": [
+        {
+          "name": "Melanie Williams & El Cabloide",
+          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150050,
+      "name": "El Japon\u00e9s",
+      "url": "https://open.spotify.com/track/1i0NstmFboSK4qnPOsaGjf"
     },
     {
       "album": {
@@ -5469,7 +5531,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 201258,
       "name": "I'll Remember",
       "url": "https://open.spotify.com/track/3YQ5MlnsGou01b57RZZrFj"
@@ -5505,7 +5567,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 283333,
       "name": "I'm So Into You",
       "url": "https://open.spotify.com/track/1iNq0Uxm0FGaIRkaIqkCRS"
@@ -5669,7 +5731,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 282000,
       "name": "Igs' Digs",
       "url": "https://open.spotify.com/track/2bFcUd5XOTS2BU3StaAaKe"
@@ -6132,6 +6194,24 @@
     },
     {
       "album": {
+        "name": "Cha-Ran",
+        "url": "https://open.spotify.com/album/1Xiit8wawVgRjZoJCvT4F5"
+      },
+      "artists": [
+        {
+          "name": "Robert Lee",
+          "url": "https://open.spotify.com/artist/4prPafRnKMhtm6nBlnmjvo"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291189,
+      "name": "Jade",
+      "url": "https://open.spotify.com/track/5Csa0y90E9YyqFki5Mf9CT"
+    },
+    {
+      "album": {
         "name": "Jeffa / Reingelaxed",
         "url": "https://open.spotify.com/album/0pgC9UYBfFL5BGcWYyHuuf"
       },
@@ -6325,7 +6405,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 334222,
       "name": "Just Like the Grown-ups",
       "url": "https://open.spotify.com/track/0bgQZqfnfwEQTZgdkq0NL5"
@@ -6493,7 +6573,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 125361,
       "name": "kczsdeg",
       "url": "https://open.spotify.com/track/1IovOeRY9QeBs8MDgqN9dO"
@@ -6511,7 +6591,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 157845,
       "name": "Keep It Up",
       "url": "https://open.spotify.com/track/25ktJ5GXjdTRqT8Urg3GUm"
@@ -6659,7 +6739,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 151000,
       "name": "Kickin' Back in Kerning City",
       "url": "https://open.spotify.com/track/0gQlRDfVSHtnBcx22NB0Xn"
@@ -7067,7 +7147,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 382726,
       "name": "Leon Keys (feat. Theo Katzman & Joe Dart)",
       "url": "https://open.spotify.com/track/6Frt2nYG2KsXY2s3oXcSWD"
@@ -7279,7 +7359,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 329728,
       "name": "Llavors",
       "url": "https://open.spotify.com/track/6CF1B8Rc1ZVaz7RdX3Mg94"
@@ -7541,7 +7621,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 149912,
       "name": "Mallscape",
       "url": "https://open.spotify.com/track/62SyFkYuSbRwhaJbtJESrd"
@@ -8077,7 +8157,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 302302,
       "name": "Mirror People",
       "url": "https://open.spotify.com/track/4B8P2ipLZwtAqARc9p27Bt"
@@ -8131,7 +8211,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 387065,
       "name": "Moksha",
       "url": "https://open.spotify.com/track/51jimvaaAvAdRxGbgZNvtS"
@@ -8387,6 +8467,28 @@
       "duration_ms": 284960,
       "name": "Mrs. Autumn",
       "url": "https://open.spotify.com/track/1u9LuJTWX00wv1Oa4oU7HO"
+    },
+    {
+      "album": {
+        "name": "Music Is...",
+        "url": "https://open.spotify.com/album/5tedbT0X1QmomzhVjaJgj9"
+      },
+      "artists": [
+        {
+          "name": "Sam Redmore",
+          "url": "https://open.spotify.com/artist/3McygTbX192HcFzSHa9mA6"
+        },
+        {
+          "name": "Mr Auden Allen",
+          "url": "https://open.spotify.com/artist/0U2TVQt3LJkuyoVLItCNNp"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395600,
+      "name": "Music Is...",
+      "url": "https://open.spotify.com/track/0J8FzPzwtMy5RnA6MluT1g"
     },
     {
       "album": {
@@ -8657,12 +8759,12 @@
       },
       "artists": [
         {
-          "name": "Niclas Campagnol",
-          "url": "https://open.spotify.com/artist/1VqIpsJWDzAFIxWXCGCLuL"
-        },
-        {
           "name": "S\u00f8ren Lee",
           "url": "https://open.spotify.com/artist/6GyDK2ZWQXmx7sb3ltOvgJ"
+        },
+        {
+          "name": "Niclas Campagnol",
+          "url": "https://open.spotify.com/artist/1VqIpsJWDzAFIxWXCGCLuL"
         },
         {
           "name": "Linley Marthe",
@@ -10769,7 +10871,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 286386,
       "name": "Senebi",
       "url": "https://open.spotify.com/track/1ii338v0eQX4BwI9jO5kqN"
@@ -11297,7 +11399,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 229241,
       "name": "Something Over Nothing",
       "url": "https://open.spotify.com/track/51sP9J4HvAAGeFvJA9518Z"
@@ -11713,7 +11815,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 376680,
       "name": "Stompin' at the Savoy",
       "url": "https://open.spotify.com/track/6TZGlEXzxch1ER2zSoUEqZ"
@@ -11811,7 +11913,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 285850,
       "name": "Stratus",
       "url": "https://open.spotify.com/track/6GwtYzv1vXn45VbGIFIs4x"
@@ -12212,6 +12314,24 @@
     },
     {
       "album": {
+        "name": "Him / Swing For The Low",
+        "url": "https://open.spotify.com/album/0jcmXHq2KlyScABtoOVwnS"
+      },
+      "artists": [
+        {
+          "name": "Sage.",
+          "url": "https://open.spotify.com/artist/3rmDtaAXU9YXEK1ChZyx98"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250215,
+      "name": "Swing For The Low",
+      "url": "https://open.spotify.com/track/4ngAxN2bOwlLISV7nyjhmO"
+    },
+    {
+      "album": {
         "name": "Symphony Mart",
         "url": "https://open.spotify.com/album/01ElfL3lIjAXjDAbWJvN8B"
       },
@@ -12477,7 +12597,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 305833,
       "name": "The Beachcomber",
       "url": "https://open.spotify.com/track/4v0tp2xvP6rgSvT72d7WXv"
@@ -12997,6 +13117,24 @@
       "duration_ms": 526528,
       "name": "The Prophets In The City (Arrival, Balance, Discipline, Joy)",
       "url": "https://open.spotify.com/track/15fqMWd4mLKEbiQ85thyTK"
+    },
+    {
+      "album": {
+        "name": "The Ritual",
+        "url": "https://open.spotify.com/album/3ZAUizNNs3WHZBxsErMVzO"
+      },
+      "artists": [
+        {
+          "name": "Arthur Liory",
+          "url": "https://open.spotify.com/artist/3tmfnaMiCdg2mTvs2RozxK"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260989,
+      "name": "The Ritual",
+      "url": "https://open.spotify.com/track/2kIrZK4OANfeSuqkOTIK4R"
     },
     {
       "album": {

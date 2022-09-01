@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 113980,
+  "num_followers": 113803,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ1NjMyNiwwMDAwMDAwMGJmNmZjNWFlNWY2ZGUyNjQ4ZDdjY2NiNjRmYWM4OGFi",
+  "snapshot_id": "MTY2MTkyMjAzMiwwMDAwMDAwMGUyYjYyMGMyMDliMWQwMDVmYjFmYTNjZGJjZWFiNTZi",
   "tracks": [
     {
       "added_at": "2022-08-13 00:36:29",
@@ -45,36 +45,20 @@
       "url": "https://open.spotify.com/track/0auzo1bD9DMIP7bcvClRS9"
     },
     {
-      "added_at": "2022-03-18 05:57:00",
+      "added_at": "2022-08-31 04:38:50",
       "album": {
-        "name": "Maida Vale Sessions",
-        "url": "https://open.spotify.com/album/3SIC8gQNPxgqjax8o204Nx"
+        "name": "Unfold",
+        "url": "https://open.spotify.com/album/5eMxezuwxG5iv40YIjXuop"
       },
       "artists": [
         {
-          "name": "Broadcast",
-          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
         }
       ],
-      "duration_ms": 203848,
-      "name": "Come On Let's Go",
-      "url": "https://open.spotify.com/track/60unSmULyw8lqCI5CoP0fF"
-    },
-    {
-      "added_at": "2022-08-02 14:49:54",
-      "album": {
-        "name": "Atemporal",
-        "url": "https://open.spotify.com/album/063ZbT2nAWdHQY1vlu6VFd"
-      },
-      "artists": [
-        {
-          "name": "Lucrecia Dalt",
-          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
-        }
-      ],
-      "duration_ms": 215296,
-      "name": "No tiempo",
-      "url": "https://open.spotify.com/track/3x5CHbBZhKJuT0N3LlmOE4"
+      "duration_ms": 90127,
+      "name": "Unfold",
+      "url": "https://open.spotify.com/track/7Ep8BuyZZGrbDP3alg2jPX"
     },
     {
       "added_at": "2022-08-13 01:40:58",
@@ -91,6 +75,22 @@
       "duration_ms": 293706,
       "name": "Night Crawling",
       "url": "https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O"
+    },
+    {
+      "added_at": "2022-08-31 04:59:11",
+      "album": {
+        "name": "See Her",
+        "url": "https://open.spotify.com/album/7qO6m9lcXz50UXj0KCL8ho"
+      },
+      "artists": [
+        {
+          "name": "Julia Romana",
+          "url": "https://open.spotify.com/artist/3syw2pWKHP7n8VnXhCFn3d"
+        }
+      ],
+      "duration_ms": 180546,
+      "name": "See Her",
+      "url": "https://open.spotify.com/track/1VZyMJPlZ8dUvT8pzgjyXm"
     },
     {
       "added_at": "2022-08-13 00:53:45",
@@ -129,20 +129,20 @@
       "url": "https://open.spotify.com/track/34eeJ4JoXWqe6wmOHmgsCe"
     },
     {
-      "added_at": "2022-08-13 01:03:38",
+      "added_at": "2022-08-31 04:56:45",
       "album": {
-        "name": "When We Knew Less",
-        "url": "https://open.spotify.com/album/38XjHKpVkTU4RaTznhqln8"
+        "name": "Flock (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6BAwrKOz139eyfUMyYxcxL"
       },
       "artists": [
         {
-          "name": "Haich Ber Na",
-          "url": "https://open.spotify.com/artist/5W4B7OYk43jiH6qLcZ66Qd"
+          "name": "Jane Weaver",
+          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
         }
       ],
-      "duration_ms": 184637,
-      "name": "Knew You Better",
-      "url": "https://open.spotify.com/track/4JXicRysL3kGWGRV1UFFmC"
+      "duration_ms": 215831,
+      "name": "Don't Tell Me I'm Wrong",
+      "url": "https://open.spotify.com/track/4n5pGqntHw2yLB61tbVGoJ"
     },
     {
       "added_at": "2022-08-19 01:53:48",
@@ -185,6 +185,22 @@
       "url": "https://open.spotify.com/track/5ZRDV496C5qfNwfrC5yUQb"
     },
     {
+      "added_at": "2022-08-13 01:03:38",
+      "album": {
+        "name": "When We Knew Less",
+        "url": "https://open.spotify.com/album/38XjHKpVkTU4RaTznhqln8"
+      },
+      "artists": [
+        {
+          "name": "Haich Ber Na",
+          "url": "https://open.spotify.com/artist/5W4B7OYk43jiH6qLcZ66Qd"
+        }
+      ],
+      "duration_ms": 184637,
+      "name": "Knew You Better",
+      "url": "https://open.spotify.com/track/4JXicRysL3kGWGRV1UFFmC"
+    },
+    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Reward",
@@ -201,6 +217,22 @@
       "url": "https://open.spotify.com/track/2YqA1ZZ62XKJry0BoQwNSx"
     },
     {
+      "added_at": "2022-08-31 05:00:32",
+      "album": {
+        "name": "Dicen",
+        "url": "https://open.spotify.com/album/0fjbyuODYOqDFrAAQiSbVq"
+      },
+      "artists": [
+        {
+          "name": "Lucrecia Dalt",
+          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
+        }
+      ],
+      "duration_ms": 164598,
+      "name": "Dicen",
+      "url": "https://open.spotify.com/track/6Fp99MU2pE8RILQnqAL8iT"
+    },
+    {
       "added_at": "2022-01-14 00:51:04",
       "album": {
         "name": "Warm Chris",
@@ -215,6 +247,22 @@
       "duration_ms": 217066,
       "name": "Lawn",
       "url": "https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c"
+    },
+    {
+      "added_at": "2022-08-31 04:34:22",
+      "album": {
+        "name": "If I Were A Butterfly",
+        "url": "https://open.spotify.com/album/5zF48gx3TWHg2Mi8nFrtpn"
+      },
+      "artists": [
+        {
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+        }
+      ],
+      "duration_ms": 311948,
+      "name": "If I Were A Butterfly - Single Version",
+      "url": "https://open.spotify.com/track/6inkWeYbXK6IuhCALR379j"
     },
     {
       "added_at": "2022-04-22 19:21:51",
@@ -287,22 +335,6 @@
     {
       "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "Designer",
-        "url": "https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 317453,
-      "name": "Zoo Eyes",
-      "url": "https://open.spotify.com/track/1FuiXO0j9DZh4uG5ywGNYL"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
         "name": "Mahi Mahi",
         "url": "https://open.spotify.com/album/01NhlAP50bCVa1jcPcibEC"
       },
@@ -323,6 +355,22 @@
       "duration_ms": 196355,
       "name": "Mahi Mahi",
       "url": "https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Designer",
+        "url": "https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 317453,
+      "name": "Zoo Eyes",
+      "url": "https://open.spotify.com/track/1FuiXO0j9DZh4uG5ywGNYL"
     },
     {
       "added_at": "2022-07-15 05:42:04",
@@ -441,26 +489,6 @@
       "url": "https://open.spotify.com/track/16wmuvedj0UKCkI7ngHEai"
     },
     {
-      "added_at": "2022-07-29 05:00:00",
-      "album": {
-        "name": "Nada Es Real",
-        "url": "https://open.spotify.com/album/2Qi9MlTtbvoaoSxn5EvZmd"
-      },
-      "artists": [
-        {
-          "name": "iiis",
-          "url": "https://open.spotify.com/artist/2bp4bYrLHmI6gekDL7433D"
-        },
-        {
-          "name": "Aline Terrein",
-          "url": "https://open.spotify.com/artist/1KHhTDB0lBCXqm54Fseodx"
-        }
-      ],
-      "duration_ms": 209923,
-      "name": "Nada Es Real",
-      "url": "https://open.spotify.com/track/4R1okSTH8zqxtfZMgyx7cr"
-    },
-    {
       "added_at": "2022-03-16 16:59:09",
       "album": {
         "name": "Petunia",
@@ -493,20 +521,20 @@
       "url": "https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP"
     },
     {
-      "added_at": "2022-04-13 01:43:25",
+      "added_at": "2022-08-02 14:49:54",
       "album": {
-        "name": "Opening the Door",
-        "url": "https://open.spotify.com/album/4PT8J0fOr38VIH5ULZamLh"
+        "name": "Atemporal",
+        "url": "https://open.spotify.com/album/063ZbT2nAWdHQY1vlu6VFd"
       },
       "artists": [
         {
-          "name": "Jack J",
-          "url": "https://open.spotify.com/artist/5AIM76YeoaHOzyUHbg4UKl"
+          "name": "Lucrecia Dalt",
+          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
         }
       ],
-      "duration_ms": 256821,
-      "name": "Only You Know Why",
-      "url": "https://open.spotify.com/track/06BBBpEtdwJSgPakRdrEzf"
+      "duration_ms": 215296,
+      "name": "No tiempo",
+      "url": "https://open.spotify.com/track/3x5CHbBZhKJuT0N3LlmOE4"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -593,22 +621,6 @@
       "url": "https://open.spotify.com/track/7AocbcViWJ73c5iu1N9OvR"
     },
     {
-      "added_at": "2022-02-21 19:54:13",
-      "album": {
-        "name": "Switched On Ra",
-        "url": "https://open.spotify.com/album/2q3htL7CiskaRfbmV1xXnn"
-      },
-      "artists": [
-        {
-          "name": "Bitchin Bajas",
-          "url": "https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I"
-        }
-      ],
-      "duration_ms": 241919,
-      "name": "Outer Spaceways Incorporated",
-      "url": "https://open.spotify.com/track/6YG6A50jZi67JZMhzLgMWr"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Find The Sun",
@@ -689,6 +701,22 @@
       "url": "https://open.spotify.com/track/3ufmZWjnasL9fwddzWw3Ci"
     },
     {
+      "added_at": "2022-02-08 17:25:13",
+      "album": {
+        "name": "Pompeii",
+        "url": "https://open.spotify.com/album/0FHU2NxNeg7sw3pjuUHk5w"
+      },
+      "artists": [
+        {
+          "name": "Cate Le Bon",
+          "url": "https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G"
+        }
+      ],
+      "duration_ms": 268128,
+      "name": "Dirt on the Bed",
+      "url": "https://open.spotify.com/track/1mhVCuP7ebwpmfCc2zE64U"
+    },
+    {
       "added_at": "2022-08-03 03:08:55",
       "album": {
         "name": "Have You Felt Lately?",
@@ -735,22 +763,6 @@
       "duration_ms": 244390,
       "name": "The Universe Is Always Right",
       "url": "https://open.spotify.com/track/01XeqVgaNzcGKxJ7aNmmSo"
-    },
-    {
-      "added_at": "2022-02-08 17:25:13",
-      "album": {
-        "name": "Pompeii",
-        "url": "https://open.spotify.com/album/0FHU2NxNeg7sw3pjuUHk5w"
-      },
-      "artists": [
-        {
-          "name": "Cate Le Bon",
-          "url": "https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G"
-        }
-      ],
-      "duration_ms": 268128,
-      "name": "Dirt on the Bed",
-      "url": "https://open.spotify.com/track/1mhVCuP7ebwpmfCc2zE64U"
     },
     {
       "added_at": "2022-01-20 01:49:28",
@@ -927,22 +939,6 @@
       "duration_ms": 187307,
       "name": "Atemporal",
       "url": "https://open.spotify.com/track/40eoo3wMz09lX6kuEBoqeo"
-    },
-    {
-      "added_at": "2022-03-04 03:33:09",
-      "album": {
-        "name": "Cometa",
-        "url": "https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww"
-      },
-      "artists": [
-        {
-          "name": "Vesica Piscis",
-          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
-        }
-      ],
-      "duration_ms": 240678,
-      "name": "Cometa",
-      "url": "https://open.spotify.com/track/5juaKlJp9RtJ12EOTz4NHK"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1625,22 +1621,6 @@
       "url": "https://open.spotify.com/track/3WZhTPAbwI4rucw6soEBRp"
     },
     {
-      "added_at": "2022-04-23 03:28:42",
-      "album": {
-        "name": "Cholericly Yours",
-        "url": "https://open.spotify.com/album/62kE8wYDmoPC1crXWscfH7"
-      },
-      "artists": [
-        {
-          "name": "Mayuko",
-          "url": "https://open.spotify.com/artist/3QmghTihReRudKflr4UlTe"
-        }
-      ],
-      "duration_ms": 250346,
-      "name": "Cholericly Yours",
-      "url": "https://open.spotify.com/track/5Ey7Xxphn3ecDo8eYgjouM"
-    },
-    {
       "added_at": "2022-02-09 04:03:27",
       "album": {
         "name": "Unfamiliar Minds",
@@ -1695,6 +1675,26 @@
       "duration_ms": 311533,
       "name": "Run (feat. Gareth Jones & \u00d3lavur J\u00e1kupsson)",
       "url": "https://open.spotify.com/track/0JOiqhfNPuIsNUBJpsPdPy"
+    },
+    {
+      "added_at": "2022-01-18 23:25:22",
+      "album": {
+        "name": "Setu (feat. Gareth Jones)",
+        "url": "https://open.spotify.com/album/34AeLleD5JHCTphmCLyCgI"
+      },
+      "artists": [
+        {
+          "name": "QUINQUIS",
+          "url": "https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH"
+        },
+        {
+          "name": "Gareth Jones",
+          "url": "https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV"
+        }
+      ],
+      "duration_ms": 240800,
+      "name": "Setu (feat. Gareth Jones)",
+      "url": "https://open.spotify.com/track/1A86VFnly66e3OGEpoNYsL"
     }
   ],
   "unique_name": "Oblique",

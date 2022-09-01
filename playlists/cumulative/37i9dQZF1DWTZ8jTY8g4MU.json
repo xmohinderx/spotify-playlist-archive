@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Bas Wenh",
+        "url": "https://open.spotify.com/album/4esCyXD8PmyQ2ctfE0asUA"
+      },
+      "artists": [
+        {
+          "name": "Zayed Bin Saber",
+          "url": "https://open.spotify.com/artist/0TNuRg9zAJbDy4chgGD4Cs"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287487,
+      "name": "Bas Wenh",
+      "url": "https://open.spotify.com/track/50b8yDKb6RDZtaxMYN3PUe"
+    },
+    {
+      "album": {
         "name": "Elly Tabeh",
         "url": "https://open.spotify.com/album/0VBlLnPK8yiqZi9LPMvoIF"
       },
@@ -341,6 +359,28 @@
       "duration_ms": 196177,
       "name": "\u0628\u062a\u0631\u0648\u062d \u0639\u0627\u062f\u064a",
       "url": "https://open.spotify.com/track/2GxR28DVvyvL5VX6H45Wa0"
+    },
+    {
+      "album": {
+        "name": "\u062a\u062c\u0627\u0647\u0644\u0646\u064a",
+        "url": "https://open.spotify.com/album/5xjGNzBxIQXVliqj7TKoG6"
+      },
+      "artists": [
+        {
+          "name": "Fahed Bin Fasla",
+          "url": "https://open.spotify.com/artist/2CfEAlvAtAJ7MvCQl4mptz"
+        },
+        {
+          "name": "\u0639\u0645\u0627\u0631 \u0627\u0644\u0643\u0648\u0641\u064a",
+          "url": "https://open.spotify.com/artist/1YN0hBRFU0rGPgvr0aMmHs"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178840,
+      "name": "\u062a\u062c\u0627\u0647\u0644\u0646\u064a",
+      "url": "https://open.spotify.com/track/6R6zmKXsboLCYQ3hMNJlD4"
     },
     {
       "album": {

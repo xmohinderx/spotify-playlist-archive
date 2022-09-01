@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists in the UK + Ireland. Cover: Lucy Tun",
+  "description": "The best new music by independent artists in the UK + Ireland. Cover: Sophie DeMasi",
   "name": "Fresh Finds UK & IE",
   "published_playlist_ids": [
     "7p7eF0LcucA5cLFCS6Cqce"
@@ -1025,7 +1025,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 146769,
       "name": "Bell Jar",
       "url": "https://open.spotify.com/track/3jE1Nj3eugz8gzGtUMpVji"
@@ -1274,6 +1274,24 @@
     },
     {
       "album": {
+        "name": "Blow Out the Candles",
+        "url": "https://open.spotify.com/album/1hIiZymOfv46EZRvU4ZOIb"
+      },
+      "artists": [
+        {
+          "name": "Jamie Lee Harrison",
+          "url": "https://open.spotify.com/artist/7oREWyPlq9Cmova78N4rgQ"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197119,
+      "name": "Blow Out the Candles",
+      "url": "https://open.spotify.com/track/19BVulWHDbbCW0l3W6cVSb"
+    },
+    {
+      "album": {
         "name": "BLUE ON BLUE!",
         "url": "https://open.spotify.com/album/0TDELDnlk4V94HvF4dbwci"
       },
@@ -1329,6 +1347,24 @@
       "duration_ms": 159490,
       "name": "Blue Skies",
       "url": "https://open.spotify.com/track/4e11dFRYAcJyvIv9Y35ERA"
+    },
+    {
+      "album": {
+        "name": "blue wine.",
+        "url": "https://open.spotify.com/album/0zG4Jd7m179nt9SVMLLFqL"
+      },
+      "artists": [
+        {
+          "name": "Nosa",
+          "url": "https://open.spotify.com/artist/1kzEYCZOAVa2h07NEcCezO"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188519,
+      "name": "blue wine.",
+      "url": "https://open.spotify.com/track/06bkYsOLP1zKENiTxMBSjx"
     },
     {
       "album": {
@@ -1419,7 +1455,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 218635,
       "name": "Brick Phone",
       "url": "https://open.spotify.com/track/7oZKdKYkNL13uZ6bQfZa2j"
@@ -1787,7 +1823,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 195692,
       "name": "cranberry",
       "url": "https://open.spotify.com/track/1yf8X79lrmT37fm90IC0rj"
@@ -2245,7 +2281,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 162000,
       "name": "Do Not Disturb",
       "url": "https://open.spotify.com/track/0lFMVUMnDguO9sVRQt04sP"
@@ -2433,6 +2469,24 @@
       "duration_ms": 193781,
       "name": "Eating",
       "url": "https://open.spotify.com/track/4t3D7cnJSd0geNiVxDgEWa"
+    },
+    {
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/6B0pRDdQ8Udrosv4NMscW3"
+      },
+      "artists": [
+        {
+          "name": "Prima Queen",
+          "url": "https://open.spotify.com/artist/52fhNGn51RhUvjlapHT5T2"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247002,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/1Hx2nUUnTyk5ewgKZt1lSI"
     },
     {
       "album": {
@@ -3775,7 +3829,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 114947,
       "name": "hit it light it twist it",
       "url": "https://open.spotify.com/track/4MYkI9KHjQmWN0SmSbO1QG"
@@ -4103,7 +4157,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 151533,
       "name": "i want, doesn't get",
       "url": "https://open.spotify.com/track/04W4goRWBFhucHH5XmHMvt"
@@ -4692,6 +4746,46 @@
     },
     {
       "album": {
+        "name": "Let It Ride",
+        "url": "https://open.spotify.com/album/5Bm5JGpEgYEzAAwqVjm2xQ"
+      },
+      "artists": [
+        {
+          "name": "Omar+",
+          "url": "https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134774,
+      "name": "Let It Ride",
+      "url": "https://open.spotify.com/track/3QYeBUd9Dqpip2kTuECDQ3"
+    },
+    {
+      "album": {
+        "name": "let's stay the same?",
+        "url": "https://open.spotify.com/album/2UDpidKSNBRDS0MhH6cgSx"
+      },
+      "artists": [
+        {
+          "name": "planet girl",
+          "url": "https://open.spotify.com/artist/40DgzqFfLrkIx2mas3Bpfv"
+        },
+        {
+          "name": "Ryce",
+          "url": "https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208571,
+      "name": "let's stay the same?",
+      "url": "https://open.spotify.com/track/23EXsfh1TuK7MBN930N8Bc"
+    },
+    {
+      "album": {
         "name": "Life On The TV",
         "url": "https://open.spotify.com/album/0aDnSUXRenbfWwhqraP0EW"
       },
@@ -4827,6 +4921,24 @@
       "duration_ms": 162797,
       "name": "LONG TERM PARKING",
       "url": "https://open.spotify.com/track/1oG8QZlA2QqBHWsen9oM6e"
+    },
+    {
+      "album": {
+        "name": "Longtime",
+        "url": "https://open.spotify.com/album/3DEiSBV6U4lB60Izo2ilBt"
+      },
+      "artists": [
+        {
+          "name": "Cilla Raie",
+          "url": "https://open.spotify.com/artist/4yKOZR4NFIQDJa4q9AFWNf"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "Longtime",
+      "url": "https://open.spotify.com/track/5a6cHRJSiOesfByK46HPyp"
     },
     {
       "album": {
@@ -5203,7 +5315,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 145116,
       "name": "make it with you",
       "url": "https://open.spotify.com/track/51McTJEprQt1TdDSe8XWhI"
@@ -5686,6 +5798,24 @@
     },
     {
       "album": {
+        "name": "Mrs. C",
+        "url": "https://open.spotify.com/album/32x6st1zSFpiExoTbNJiph"
+      },
+      "artists": [
+        {
+          "name": "MOGY",
+          "url": "https://open.spotify.com/artist/6qY4YXCbJeoyoQmt92EBgl"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175909,
+      "name": "Mrs. C",
+      "url": "https://open.spotify.com/track/44uqxWNGTZIEpX6BuBB42I"
+    },
+    {
+      "album": {
         "name": "Mulan",
         "url": "https://open.spotify.com/album/5o9dIQWCjJUKvpupBJI3I6"
       },
@@ -5920,6 +6050,24 @@
     },
     {
       "album": {
+        "name": "No Men",
+        "url": "https://open.spotify.com/album/0VvSnaTS67nh74xHGUT8oy"
+      },
+      "artists": [
+        {
+          "name": "PIE",
+          "url": "https://open.spotify.com/artist/66jQGw4oO3q0A8E3FcCZhE"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208544,
+      "name": "No Men",
+      "url": "https://open.spotify.com/track/0yWW88YA371XqbNa3inZqp"
+    },
+    {
+      "album": {
         "name": "No one Buys me Flowers",
         "url": "https://open.spotify.com/album/7HIdJewKsdWAVWywvBlPEQ"
       },
@@ -6093,7 +6241,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 185693,
       "name": "Nowhere",
       "url": "https://open.spotify.com/track/1wgUHb4D5lgBhFDIhYSjeu"
@@ -6768,6 +6916,28 @@
     },
     {
       "album": {
+        "name": "Amor",
+        "url": "https://open.spotify.com/album/2jodYDJ8CxcKaY0Rm5wZcW"
+      },
+      "artists": [
+        {
+          "name": "davecreates",
+          "url": "https://open.spotify.com/artist/2KuPNZuwsvJTX9yTDqNeNk"
+        },
+        {
+          "name": "WayV Walks",
+          "url": "https://open.spotify.com/artist/0E0TBgSbvrVWgLjxGATUvn"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217800,
+      "name": "R U Down?",
+      "url": "https://open.spotify.com/track/3nGCVu7EBPK8p1wBqlogXO"
+    },
+    {
+      "album": {
         "name": "R$ch B$tch",
         "url": "https://open.spotify.com/album/5NjsrceVMzk2plbIsLTWOi"
       },
@@ -7089,7 +7259,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 160000,
       "name": "seasons",
       "url": "https://open.spotify.com/track/5KgrJDxKZo1sm0dw9BTNiD"
@@ -7205,6 +7375,24 @@
       "duration_ms": 170306,
       "name": "Seven Nights",
       "url": "https://open.spotify.com/track/1ayrOU2q0K9xVt05CgMq2O"
+    },
+    {
+      "album": {
+        "name": "She",
+        "url": "https://open.spotify.com/album/4W1eQTe35z50CToMThopST"
+      },
+      "artists": [
+        {
+          "name": "Martha Jean",
+          "url": "https://open.spotify.com/artist/34fBjfUXCfeiXH1ZDbdT41"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178211,
+      "name": "She",
+      "url": "https://open.spotify.com/track/3IahZVph6tc4q8ubzEhZvh"
     },
     {
       "album": {
@@ -7461,7 +7649,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 174545,
       "name": "SOFA",
       "url": "https://open.spotify.com/track/2FhswqpB97CDVIaHHfNUhW"
@@ -7751,6 +7939,28 @@
       "duration_ms": 230012,
       "name": "Sugartown Parade",
       "url": "https://open.spotify.com/track/1k3YqdfPzul6VcbfkxiKgJ"
+    },
+    {
+      "album": {
+        "name": "summer air buzz",
+        "url": "https://open.spotify.com/album/5RAzdKP1kzVZ27g243g2Dg"
+      },
+      "artists": [
+        {
+          "name": "carina",
+          "url": "https://open.spotify.com/artist/36NzuZY6vwK2XwqN5b9XSZ"
+        },
+        {
+          "name": "Bel Cobain",
+          "url": "https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233316,
+      "name": "summer air buzz",
+      "url": "https://open.spotify.com/track/4Wv4C5WxAfXjDBI9JdHGAg"
     },
     {
       "album": {
@@ -8230,6 +8440,24 @@
     },
     {
       "album": {
+        "name": "Through the Phone",
+        "url": "https://open.spotify.com/album/0gOYNdk7vEk1DetJYQ9vce"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Hall",
+          "url": "https://open.spotify.com/artist/3WaAMZL6ZWyDkvxYro8kbw"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Through the Phone",
+      "url": "https://open.spotify.com/track/1LI10td4SIasqGvOIHrjoi"
+    },
+    {
+      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/3Rt39vK5b06MCI9rGS4DjO"
       },
@@ -8555,7 +8783,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 182694,
       "name": "VACANT",
       "url": "https://open.spotify.com/track/1pahhMyckMMyUeCOiER7KF"
@@ -8999,7 +9227,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 209352,
       "name": "Wrong",
       "url": "https://open.spotify.com/track/7u71EJQ0InrG1hfmcLjj8B"

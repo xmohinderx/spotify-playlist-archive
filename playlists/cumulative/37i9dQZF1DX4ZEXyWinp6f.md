@@ -4,7 +4,7 @@
 
 > Fold time and space through sound to reach imaginary universes.
 
-276 songs - 1 day 0 hr 36 min - [published](https://open.spotify.com/playlist/4hgqZdIdyapxx5QdKt7sA7)
+277 songs - 1 day 0 hr 41 min - [published](https://open.spotify.com/playlist/4hgqZdIdyapxx5QdKt7sA7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Brazil](https://open.spotify.com/track/1QMxUV937BtqTNwZCJMZK3) | [Luke Abbott](https://open.spotify.com/artist/3rVAnydRNnaQr24T3reJZg) | [Holkham Drones](https://open.spotify.com/album/2x1yXwFPvn4ssDc5vavFEi) | 4:53 | 2021-03-14 |  |
 | [Bright Curse \- Edit](https://open.spotify.com/track/0kVNpc8MOTj8ZPFKePVfm5) | [Fenella](https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R) | [Bright Curse \(Edit\)](https://open.spotify.com/album/1NYDPhWgF8PKVtJ30rBVky) | 3:49 | 2020-07-07\* | 2022-07-29 |
 | [Broken Theme](https://open.spotify.com/track/2yPwst86GlebGzgaO78CjQ) | [Chrome Canyon](https://open.spotify.com/artist/4AqiYN2GsRkmrQ7nAYrx1T) | [Director](https://open.spotify.com/album/41KJ1g4Ig3qowHZYB8IwxL) | 2:09 | 2022-02-16 | 2022-07-29 |
+| [BRUTALISM](https://open.spotify.com/track/3OlIYpw422CIdZ53OcZZ7r) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [BRUTALISM](https://open.spotify.com/album/3Tr2KGxsh8ctnu7LZt7Nvx) | 4:41 | 2022-08-31 |  |
 | [Bundeena](https://open.spotify.com/track/1sBhHX5W5qmYbMBxvCuzd1) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [I Can Hear the Birds](https://open.spotify.com/album/4JDu9Wp3oVqBc18hIau11s) | 4:22 | 2020-07-07\* | 2022-07-29 |
 | [Butoh baby](https://open.spotify.com/track/3L7HGdt8alejIzzVKWsk3j) | [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [skins n slime](https://open.spotify.com/album/6ZdXLyJH5kdDayoZL4peVQ) | 3:16 | 2021-10-20 |  |
 | [Butoh baby](https://open.spotify.com/track/5uWyV488Rr4rl8QIAjXVdk) | [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [Butoh baby](https://open.spotify.com/album/0jvXSzwwQDOI1K2myzfRv9) | 3:16 | 2020-08-25 | 2022-07-02 |
@@ -152,7 +153,7 @@
 | [Love On A Real Train](https://open.spotify.com/track/49y78l709VxMkIcq7jUJKN) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Dream Sequence](https://open.spotify.com/album/7ALFR4o9ZXfqNVv9EOORn1) | 3:56 | 2020-07-07\* | 2022-06-14 |
 | [Love On A Real Train \- From 'Risky Business' Original Motion Picture Soundtrack](https://open.spotify.com/track/0DYCw5AZIX3S11QQUiPiqN) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Hyperborea \(Deluxe Version / Remastered 2020\)](https://open.spotify.com/album/4Mft3FkYzPHdWTmRW0yS1U) | 3:59 | 2021-10-20 |  |
 | [Lueena Coast](https://open.spotify.com/track/4XdIdojsMeM1GOS77B58Hk) | [Iasos](https://open.spotify.com/artist/0BPddAP54Iq8TUSXfIMFXZ) | [Soul Jazz Records Presents Space, Energy & Light: Experimental Electronic and Acoustic Soundscapes 1961\-88](https://open.spotify.com/album/59fEhSfVSCMoTRMzgxbNZ0) | 4:09 | 2021-05-25 | 2022-07-06 |
-| [Lueena Coast](https://open.spotify.com/track/6JR1XlStv1gnRLT7sNek4q) | [Iasos](https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd) | [Inter\-Dimensional Music](https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr) | 4:12 | 2020-07-07\* |  |
+| [Lueena Coast](https://open.spotify.com/track/6JR1XlStv1gnRLT7sNek4q) | [Iasos](https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd) | [Inter\-Dimensional Music](https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr) | 4:12 | 2020-07-07\* | 2022-09-01 |
 | [Lune de fiel](https://open.spotify.com/track/7ApshVdWnSUX9b7RunrSKP) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [DSVII](https://open.spotify.com/album/1Pyu7uKUDKNhdsYDL82Wkg) | 3:43 | 2020-07-07\* | 2022-07-23 |
 | [Magic Fly](https://open.spotify.com/track/5PklZKzuqiUrSxgQOs40t6) | [Space](https://open.spotify.com/artist/5SmwbD3wqrybVclRKTbr1M) | [Magic Fly](https://open.spotify.com/album/5aSkXF27XnK6qPVMNO0NeW) | 4:20 | 2020-08-23 | 2021-05-27 |
 | [Mahi Mahi](https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU) | [Moonfish](https://open.spotify.com/artist/5sk1WHyEFppVeVrnR6n44T), [Maria Chiara Argirò](https://open.spotify.com/artist/2uz9ERD3U5c4F2CZDS0mzb), [Riccardo Chiaberta](https://open.spotify.com/artist/5VR6i2FLaAb6IXYXzFz9C1) | [Mahi Mahi](https://open.spotify.com/album/01NhlAP50bCVa1jcPcibEC) | 3:16 | 2021-08-12 |  |

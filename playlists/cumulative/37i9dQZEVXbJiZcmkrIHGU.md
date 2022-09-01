@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-1,220 songs - 2 day 12 hr 46 min - [published](https://open.spotify.com/playlist/6ac8Kxyke6Hyo0AQCo7I3J)
+1,221 songs - 2 day 12 hr 48 min - [published](https://open.spotify.com/playlist/6ac8Kxyke6Hyo0AQCo7I3J)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -888,6 +888,7 @@
 | [Praise God](https://open.spotify.com/track/0Zm7NKJgoKY6ZWwtoEUILK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:46 | 2021-08-31 | 2021-09-04 |
 | [PRIME \(feat\. OMAR\)](https://open.spotify.com/track/171R26eMo3gFkKfR1wyuPa) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [OMAR](https://open.spotify.com/artist/0h0Iypw4Zpe2pWEKIS9So3) | [PRIME \(feat\. OMAR\)](https://open.spotify.com/album/1KbQxjKIcU9fqiSJKrDAac) | 2:48 | 2022-05-21 | 2022-05-28 |
 | [PROMISE](https://open.spotify.com/track/2y50t3ORpk3mCj3mPxVG3V) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [AQUA](https://open.spotify.com/album/5F98AKKJf6xc9cpVQhyU8G) | 3:25 | 2021-07-04 | 2021-07-18 |
+| [Präsi Suite \- A COLORS SHOW](https://open.spotify.com/track/72Mp1A8UUrYqNPi7GNTusj) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Präsi Suite \- A COLORS SHOW](https://open.spotify.com/album/7A4isE4XqwVLsCUC7SSkyN) | 2:04 | 2022-08-31 |  |
 | [Pull Up \- Remix](https://open.spotify.com/track/6k3LXWgmucXyPHU4C0BfOU) | [Isong](https://open.spotify.com/artist/1v73SfOVR7QnGw7FEnhe5Z), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [Pull Up \(Remix\)](https://open.spotify.com/album/5bzc0tc7TGnKDOB3ogQaSg) | 2:58 | 2021-10-23 | 2021-10-24 |
 | [Purple Rain](https://open.spotify.com/track/5nYkfmKEscQb8RdGfCYDln) | [JAZN](https://open.spotify.com/artist/3PP4drc6wQuyKstnJfXpu1), [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Purple Rain](https://open.spotify.com/album/0SU4tBw9ChW28DQ1AjLALm) | 2:45 | 2021-07-04 | 2021-07-11 |
 | [Push It](https://open.spotify.com/track/4vsDPNuvcN56CDpKKWzrkZ) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Push It](https://open.spotify.com/album/5jsEezy9hIeLncVxwDl1ZJ) | 2:50 | 2022-06-25 | 2022-07-08 |
@@ -989,7 +990,7 @@
 | [Sie Liebt Techno](https://open.spotify.com/track/3EngNejou3x0co3Ed68X7U) | [Romero](https://open.spotify.com/artist/2Lg7y5DHmBMrxRI6Y4ThfU) | [Sie Liebt Techno](https://open.spotify.com/album/6drYKxEdMFMjokwbE6V8xI) | 1:51 | 2022-04-24 | 2022-06-26 |
 | [Siedlung](https://open.spotify.com/track/6TBO3jyheCzj6P64HJlIJ4) | [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm) | [Siedlung](https://open.spotify.com/album/6fZYu4heFB6cbvhIA1lvC2) | 4:25 | 2022-05-28 | 2022-06-01 |
 | [Skimaske](https://open.spotify.com/track/4EOScEFj7jZ7ALDmsCupHY) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs), [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6), [LX](https://open.spotify.com/artist/10XY9PZCJKzUFzZOdtlQLU) | [Grosse Freiheit](https://open.spotify.com/album/2B32xvwpxNlIPwhQGGnT8S) | 2:20 | 2022-01-15 | 2022-01-17 |
-| [SL](https://open.spotify.com/track/42LJsfplyzViHvhx5zdils) | [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh), [Zuna](https://open.spotify.com/artist/2otUckChxWf2cp6UP2cD6e) | [SL](https://open.spotify.com/album/0tWAJasl4Zmda3msMtMnJ9) | 2:22 | 2022-08-27 |  |
+| [SL](https://open.spotify.com/track/42LJsfplyzViHvhx5zdils) | [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh), [Zuna](https://open.spotify.com/artist/2otUckChxWf2cp6UP2cD6e) | [SL](https://open.spotify.com/album/0tWAJasl4Zmda3msMtMnJ9) | 2:22 | 2022-08-27 | 2022-09-01 |
 | [Sleigh Ride](https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Sleigh Ride](https://open.spotify.com/album/3aYOF3HVkIr1IzhePfQS7s) | 3:01 | 2021-11-30 | 2021-12-29 |
 | [SMOOTH](https://open.spotify.com/track/3uDFDOXT7dCpmtB1yUvNFk) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [SMOOTH](https://open.spotify.com/album/0moeNWa9C2CYNDtDSVlqVR) | 3:01 | 2021-03-27 | 2021-04-01 |
 | [SNAP](https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4Cv9qCS1q3FDyyRFHGyc1g) | 2:59 | 2022-07-08 | 2022-07-31 |

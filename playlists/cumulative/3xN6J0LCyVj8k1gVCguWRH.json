@@ -24690,6 +24690,28 @@
     },
     {
       "album": {
+        "name": "Fruit to the Knife",
+        "url": "https://open.spotify.com/album/4JmWq1By5nGg7Pj07b5oi6"
+      },
+      "artists": [
+        {
+          "name": "ALYX RUSH",
+          "url": "https://open.spotify.com/artist/24pp4R67XES61YlVopv9LS"
+        },
+        {
+          "name": "Jim Swim",
+          "url": "https://open.spotify.com/artist/63ptpREyqBJ4c61pJq5lR4"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Something New",
+      "url": "https://open.spotify.com/track/3XTvUMiBWAF3ydoaikW4D6"
+    },
+    {
+      "album": {
         "name": "Dancemenco",
         "url": "https://open.spotify.com/album/7rEHBxZejOuQFbkhyvuCm5"
       },

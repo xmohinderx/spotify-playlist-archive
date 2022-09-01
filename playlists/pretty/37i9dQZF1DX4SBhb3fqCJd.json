@@ -1,12 +1,12 @@
 {
   "description": "The pulse of R&B music today.  Cover: Brent Faiyaz",
-  "num_followers": 5955682,
+  "num_followers": 5955607,
   "original_name": "Are & Be",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUyODA4NiwwMDAwMDAwMGYzY2M3M2E1MTkwMTU0NjY5YWMxN2NkZjE1ZmQyMGI4",
+  "snapshot_id": "MTY2MTk2NTI2NywwMDAwMDAwMDRjZDhhZjY2M2FlNzk1Y2FjZmMyYjFkODliOWM0MDE2",
   "tracks": [
     {
       "added_at": "2022-07-08 04:10:33",
@@ -59,6 +59,26 @@
       "duration_ms": 195265,
       "name": "Seamless (with Kehlani)",
       "url": "https://open.spotify.com/track/2UqMwz0vqVDdkLHZrzSLOp"
+    },
+    {
+      "added_at": "2022-08-31 17:01:07",
+      "album": {
+        "name": "Queen Space (with Summer Walker)",
+        "url": "https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 230841,
+      "name": "Queen Space (with Summer Walker)",
+      "url": "https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C"
     },
     {
       "added_at": "2022-07-09 00:42:47",

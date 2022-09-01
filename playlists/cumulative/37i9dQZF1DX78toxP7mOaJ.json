@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 231293,
       "name": "A Heart That's Not Your Kind",
       "url": "https://open.spotify.com/track/25cnDiBcLXeyCuO9WTNW4X"
@@ -1039,6 +1039,24 @@
       "duration_ms": 139671,
       "name": "Blood",
       "url": "https://open.spotify.com/track/7DsobGxPLUoJBFEG0RlIQc"
+    },
+    {
+      "album": {
+        "name": "Bloodshot",
+        "url": "https://open.spotify.com/album/1gLddT3QCTtWOucZuRPiH5"
+      },
+      "artists": [
+        {
+          "name": "The Mammoths",
+          "url": "https://open.spotify.com/artist/33Cjnij54yY7dwWv0o5HHZ"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261064,
+      "name": "Bloodshot",
+      "url": "https://open.spotify.com/track/1lowQQecDUco0WYuI29GGm"
     },
     {
       "album": {
@@ -2264,6 +2282,24 @@
     },
     {
       "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/6B0pRDdQ8Udrosv4NMscW3"
+      },
+      "artists": [
+        {
+          "name": "Prima Queen",
+          "url": "https://open.spotify.com/artist/52fhNGn51RhUvjlapHT5T2"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247002,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/1Hx2nUUnTyk5ewgKZt1lSI"
+    },
+    {
+      "album": {
         "name": "Electric Cowboy",
         "url": "https://open.spotify.com/album/5tS5TNCj1haHeH8E8O3qzo"
       },
@@ -2553,6 +2589,24 @@
       "duration_ms": 166834,
       "name": "Fallout",
       "url": "https://open.spotify.com/track/0J4mhjqMTQjtdDDp92lZl5"
+    },
+    {
+      "album": {
+        "name": "Family Man",
+        "url": "https://open.spotify.com/album/1LBbCknsdc2pIqZvSXKtrT"
+      },
+      "artists": [
+        {
+          "name": "THUS LOVE",
+          "url": "https://open.spotify.com/artist/26hW7zYB4V3PGMPBKoBdgl"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208663,
+      "name": "Family Man",
+      "url": "https://open.spotify.com/track/0ILRpCcZfOKNQvgKXicJqN"
     },
     {
       "album": {
@@ -4754,6 +4808,24 @@
     },
     {
       "album": {
+        "name": "Listen Up!",
+        "url": "https://open.spotify.com/album/7kpa1EaQeIMJ0enhvc70J5"
+      },
+      "artists": [
+        {
+          "name": "Excuses Excuses",
+          "url": "https://open.spotify.com/artist/1jdOZVA2eTfgDyQyilT1lz"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215426,
+      "name": "Listen Up!",
+      "url": "https://open.spotify.com/track/0B0m0EvH4HPz1FyXcPMV7B"
+    },
+    {
+      "album": {
         "name": "Look Back",
         "url": "https://open.spotify.com/album/7EoB7ytstKsiutihjTGeLM"
       },
@@ -4931,6 +5003,42 @@
       "duration_ms": 185049,
       "name": "Lucinda",
       "url": "https://open.spotify.com/track/5LB2xvCNZNj6ysxNQvOrOx"
+    },
+    {
+      "album": {
+        "name": "Mac and Steeze",
+        "url": "https://open.spotify.com/album/1kiENWEGpg9rSQWGb8AhNA"
+      },
+      "artists": [
+        {
+          "name": "Picture Us Tiny",
+          "url": "https://open.spotify.com/artist/1ZzI9ohe9Ekq5yZhK3U9pF"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174751,
+      "name": "Mac and Steeze",
+      "url": "https://open.spotify.com/track/3qZE5IUJ7qzYQC8Ko3F1Me"
+    },
+    {
+      "album": {
+        "name": "Madame Murder",
+        "url": "https://open.spotify.com/album/0BkUR07xOGWSjhIgslJdxZ"
+      },
+      "artists": [
+        {
+          "name": "Camp Blu",
+          "url": "https://open.spotify.com/artist/6ABdWlgN5QfjDsCacBn6Nt"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190451,
+      "name": "Madame Murder",
+      "url": "https://open.spotify.com/track/1HmmDJEt7WGyoeH1klXECt"
     },
     {
       "album": {
@@ -6329,7 +6437,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 243076,
       "name": "Rhythm",
       "url": "https://open.spotify.com/track/1IrFThsLj5TDaPAxILkSNC"
@@ -6549,7 +6657,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 175533,
       "name": "Same Difference",
       "url": "https://open.spotify.com/track/0fLB4BtBqarIqFattC2n8A"
@@ -7237,7 +7345,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 179903,
       "name": "Some People",
       "url": "https://open.spotify.com/track/6HJOvaAw0yHpIrw0UH9Ebk"
@@ -7357,6 +7465,24 @@
       "duration_ms": 212422,
       "name": "Special",
       "url": "https://open.spotify.com/track/5cguM5xFmj0CLWZTycYxUp"
+    },
+    {
+      "album": {
+        "name": "Spit Me Out",
+        "url": "https://open.spotify.com/album/6GEHuoCOcAYWhA2O0ZCubV"
+      },
+      "artists": [
+        {
+          "name": "Rightfield",
+          "url": "https://open.spotify.com/artist/4pZujg2iI63qnZ9dISXS14"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157575,
+      "name": "Spit Me Out",
+      "url": "https://open.spotify.com/track/3GiLY7PQEVa0lKtsB9A7c0"
     },
     {
       "album": {
@@ -7569,7 +7695,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 179433,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/6EjFXTrsdHX11foIwZrPsn"
@@ -7641,7 +7767,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 127291,
       "name": "Super",
       "url": "https://open.spotify.com/track/3mVspRxR2jteR5dUHmhBje"
@@ -7882,6 +8008,24 @@
     },
     {
       "album": {
+        "name": "Cherry Picked",
+        "url": "https://open.spotify.com/album/1uTTAm3bC4MzBiJ5W2uZAJ"
+      },
+      "artists": [
+        {
+          "name": "Veronica Everheart",
+          "url": "https://open.spotify.com/artist/0NSLJ2nRp4Nk4G0wCz6XYL"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178329,
+      "name": "The Acolyte",
+      "url": "https://open.spotify.com/track/5S06KlsyjDzfu6pGJr5Xlp"
+    },
+    {
+      "album": {
         "name": "The City",
         "url": "https://open.spotify.com/album/0kT8FjFhFfiOOywd2VBu2L"
       },
@@ -8055,7 +8199,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 166855,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/1H9NFOK9igDd0aOJKQN55d"
@@ -9055,7 +9199,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 249980,
       "name": "You Will Never Be the Best at Anything You Try (Surely Not)",
       "url": "https://open.spotify.com/track/3kuRDe1vBmCXldgLl4ZJY9"

@@ -2,9 +2,9 @@
 
 ### [Fresh Finds India](https://open.spotify.com/playlist/37i9dQZF1DXaRf94BiB7fV)
 
-> The best new music by independent artists and labels from India, updated every Wednesday\. Cover: Aary, Artwork: Isu Kim
+> The best new music by independent artists and labels from India, updated every Wednesday\. Cover: Piyush Bhisekar, Artwork: Isu Kim
 
-545 songs - 1 day 8 hr 38 min - [published](https://open.spotify.com/playlist/5ZxKEzYK5bckaAr3OIv47F)
+546 songs - 1 day 8 hr 41 min - [published](https://open.spotify.com/playlist/5ZxKEzYK5bckaAr3OIv47F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -496,6 +496,7 @@
 | [Treehouse](https://open.spotify.com/track/1Ve3LRB2TCZ2WPPXR9kT1R) | [Abstract Tide](https://open.spotify.com/artist/5blwMrHL5lFMMXHTFk06GK) | [Treehouse](https://open.spotify.com/album/5Gl8xu65T3Qw6dGHKtCM2t) | 5:27 | 2022-02-16 | 2022-02-24 |
 | [Tshirt from Every Lover](https://open.spotify.com/track/0EowI2XZZBPCAzzLw3chj2) | [Jade](https://open.spotify.com/artist/6ORdQjvgWDb4jw2MludymS) | [Tshirt from Every Lover](https://open.spotify.com/album/63DC104PU0hU6IvcdDqCNf) | 3:09 | 2022-01-12 | 2022-02-10 |
 | [Tu Chahe](https://open.spotify.com/track/3xLhkRS8LZoWMDs6n3LDhe) | [SidB](https://open.spotify.com/artist/1y6bxUL1fVTzt3YSVBf0FG) | [Tu Chahe](https://open.spotify.com/album/1SO03RxDtHUyrot4yjMJrp) | 2:29 | 2022-08-03 |  |
+| [Tu Hi Nahi](https://open.spotify.com/track/4CBSfUhMiRwS1GQktnWCeO) | [Piyush Bhisekar](https://open.spotify.com/artist/3HUf0l1HSBzHw0F5UhBOpA) | [Tu Hi Nahi](https://open.spotify.com/album/0JnFWRJSNmTG8rXQe8KEDW) | 3:23 | 2022-08-31 |  |
 | [Tu Na Jaane \- From "Gulmohar"](https://open.spotify.com/track/4w18QmkrEx6IWAawhyqNBO) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Tu Na Jaane \(From "Gulmohar"\)](https://open.spotify.com/album/4x3kbxgtHEXRpfO8v3cAHo) | 3:58 | 2021-12-01 | 2022-01-13 |
 | [Tum Ho Meri Jaan](https://open.spotify.com/track/11zUhzzHI3v67391OHYLxZ) | [Dhruv Kapoor](https://open.spotify.com/artist/25RpK0wKK891C05JinG9ii) | [Tum Ho Meri Jaan \- Single](https://open.spotify.com/album/2a9ZIaQ32AVovWT2j6ejPN) | 3:11 | 2022-07-27 |  |
 | [Tum Ho Meri Jaan](https://open.spotify.com/track/1ep3GANsKxGfv3cnBtQH2e) | [Dhruv Kapoor](https://open.spotify.com/artist/25RpK0wKK891C05JinG9ii) | [Tum Ho Meri Jaan](https://open.spotify.com/album/2OGhq1iqXwWJzQJC7tffzy) | 3:11 | 2022-01-12 | 2022-03-10 |
@@ -531,7 +532,7 @@
 | [White Clouds](https://open.spotify.com/track/1BxutrDFAcRmQbDblSljrn) | [Blue Hush](https://open.spotify.com/artist/3R8iUh001mnkDNnsAoFIMf) | [White Clouds](https://open.spotify.com/album/62jKmwJGxs11c2MJecAL6p) | 3:37 | 2022-05-18 | 2022-06-01 |
 | [Who I Love](https://open.spotify.com/track/4ZFaIxmQFHkpF5CPeF2Ddk) | [Ananya Sharma](https://open.spotify.com/artist/1g7hIOtbH21UyyMwyBoxo8), [Sanjay Divecha](https://open.spotify.com/artist/2Z68fPcM9qkmKpaBIFrVWJ) | [Who I Love](https://open.spotify.com/album/54vT8jelDn6jUvSRhEaO3m) | 5:11 | 2022-05-11 | 2022-06-23 |
 | [Wish I Could Forget Reggae Version](https://open.spotify.com/track/0eEvFRSDGk5zcnHdssCMqV) | [Roshan George Thomas](https://open.spotify.com/artist/0TnrO3FSj8aGi84txKLp4W) | [Wish I Could Forget Reggae Version](https://open.spotify.com/album/3FezbDU6XWfopVAyRRePeq) | 3:15 | 2022-01-12 | 2022-03-10 |
-| [With You](https://open.spotify.com/track/7w59rr2ExxuYu6OhsGnhHC) | [Vernon D'Souza](https://open.spotify.com/artist/0qcuonBcn8p8ej13hDIzcc), [Rhys Sebastian](https://open.spotify.com/artist/0nPBhIDCOXUx8EF1VViSMG) | [With You](https://open.spotify.com/album/4Qb5j906P1S8gU6g5XBQfs) | 4:56 | 2022-06-29 |  |
+| [With You](https://open.spotify.com/track/7w59rr2ExxuYu6OhsGnhHC) | [Vernon D'Souza](https://open.spotify.com/artist/0qcuonBcn8p8ej13hDIzcc), [Rhys Sebastian](https://open.spotify.com/artist/0nPBhIDCOXUx8EF1VViSMG) | [With You](https://open.spotify.com/album/4Qb5j906P1S8gU6g5XBQfs) | 4:56 | 2022-06-29 | 2022-09-01 |
 | [Without You](https://open.spotify.com/track/0AKFG40TBQKtdSLmDBefnd) | [Prim4l](https://open.spotify.com/artist/7xPjYvBpWN3dypuCZfi6Z9) | [Without You](https://open.spotify.com/album/3JWmvlO7SiZoOpW99JjeG5) | 2:40 | 2022-07-20 |  |
 | [Without You](https://open.spotify.com/track/3Nj53Otddk8nJ2vve5MuHp) | [Tarra](https://open.spotify.com/artist/0zeS3VoQckGiXlZudEnWqx) | [Without You](https://open.spotify.com/album/1PfSP5LGD3dJdxzbEsIGNl) | 3:24 | 2022-05-18 | 2022-06-09 |
 | [Wkndslpn](https://open.spotify.com/track/7w8kWDwTbgura6fvD91T3e) | [BIGSAM](https://open.spotify.com/artist/4DjnU0Is1P3CXnyew0mt3m) | [Wkndslpn](https://open.spotify.com/album/0Jcm1R9nnMSkNSxk1DyuYY) | 2:42 | 2022-05-25 | 2022-07-21 |

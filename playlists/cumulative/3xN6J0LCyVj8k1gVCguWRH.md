@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,634 songs - 3 day 23 hr 13 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,635 songs - 3 day 23 hr 17 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1295,6 +1295,7 @@
 | [Someday All This Pain Will Be Useful](https://open.spotify.com/track/7zcMMzn78hRiW71G4Zx2oD) | [Barli](https://open.spotify.com/artist/6HtZmijXHUG4ugzarCcBpi) | [Someday All This Pain Will Be Useful](https://open.spotify.com/album/03XN2SihYXvw8e2U2oZr16) | 2:56 | 2022-02-25 | 2022-03-14 |
 | [Someday, Maybe](https://open.spotify.com/track/4WzfB5HNHiaGat2pvzzyte) | [Sofi Gev](https://open.spotify.com/artist/6YL1DZY3FftdLcZwocsPbd) | [Someday, Maybe](https://open.spotify.com/album/4VJPUOeXMUZvCtNwJENJO4) | 3:13 | 2022-08-27 |  |
 | [Someone's In The Room](https://open.spotify.com/track/5B2ZFJW0oQtgwx985KLcnv) | [Fleming](https://open.spotify.com/artist/6nUMxwQm17D5tRTym3FotG) | [Someone's In The Room](https://open.spotify.com/album/5APlPBoOYa3suzxDXUtz41) | 2:41 | 2021-01-15 | 2022-01-23 |
+| [Something New](https://open.spotify.com/track/3XTvUMiBWAF3ydoaikW4D6) | [ALYX RUSH](https://open.spotify.com/artist/24pp4R67XES61YlVopv9LS), [Jim Swim](https://open.spotify.com/artist/63ptpREyqBJ4c61pJq5lR4) | [Fruit to the Knife](https://open.spotify.com/album/4JmWq1By5nGg7Pj07b5oi6) | 3:33 | 2022-08-31 |  |
 | [Something New](https://open.spotify.com/track/3QpVKoEiEodWZsFdg9s5ai) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [Dancemenco](https://open.spotify.com/album/7rEHBxZejOuQFbkhyvuCm5) | 3:04 | 2021-04-10 | 2021-04-26 |
 | [Somewhere](https://open.spotify.com/track/0yTfXjMmoCQVmn2kYjBodD) | [Hauskey](https://open.spotify.com/artist/3xjvEQFNYxMqlh7IAo3MMI) | [Somewhere](https://open.spotify.com/album/4YsgPaYNAP0DjgFAXGHmeb) | 2:50 | 2020-11-06 | 2020-11-21 |
 | [Sonder](https://open.spotify.com/track/5fIFLXZVSjb4q2kkl0Sts0) | [Dre Scott](https://open.spotify.com/artist/0ZfnZFIIcIFoyTgChvj68x) | [Sonder](https://open.spotify.com/album/28pD05I6XqeGdxxckj5r5L) | 3:02 | 2021-04-17 | 2021-05-03 |

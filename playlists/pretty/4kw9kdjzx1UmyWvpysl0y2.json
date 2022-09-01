@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128274,
+  "num_followers": 128045,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzU5OSxiZjkzZWIxMTMwYmVhZTg2M2IzMDRkNzc5ODVhZWJjOTlhY2U4ZjE2",
+  "snapshot_id": "MzYwMSw0NDExNDlhZDNhMDZkMjk2ZjY5OTliNTdiNmVmZWZkNDNhZjI0MDY1",
   "tracks": [
+    {
+      "added_at": "2022-08-31 16:56:03",
+      "album": {
+        "name": "Once Upon A World",
+        "url": "https://open.spotify.com/album/4mw0Q07pxSpQEmS7QuOBRy"
+      },
+      "artists": [
+        {
+          "name": "Vintage & Morelli",
+          "url": "https://open.spotify.com/artist/58dfpnXBkKgFNH2JFtEAv0"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Once Upon A World",
+      "url": "https://open.spotify.com/track/0OsxgJTV7hlPz6AkSW2Luz"
+    },
     {
       "added_at": "2022-08-30 16:27:07",
       "album": {
@@ -1099,22 +1115,6 @@
       "duration_ms": 219124,
       "name": "So Far Away",
       "url": "https://open.spotify.com/track/2tKElQZfUyUQjDZwP2tOWF"
-    },
-    {
-      "added_at": "2022-06-17 15:21:11",
-      "album": {
-        "name": "Barcelona Nights",
-        "url": "https://open.spotify.com/album/08tb3v7S80nm19wRGvhoDi"
-      },
-      "artists": [
-        {
-          "name": "Vicetone",
-          "url": "https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Barcelona Nights",
-      "url": "https://open.spotify.com/track/17vXZTcVsCJF1NBoaBQjm7"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

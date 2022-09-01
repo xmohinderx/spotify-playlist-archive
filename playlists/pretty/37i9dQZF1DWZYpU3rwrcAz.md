@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYpU3rwrcAz.md) - [plain]
 
 > Relaxing piano works by Chopin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,105 likes - 42 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,028 likes - 42 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYpU3rwrcAz.md) - [plain]
 | 17 | [Nocturne No\. 19 in E Minor, Op\. 72, No\. 1](https://open.spotify.com/track/64LTn5fTsPR0QLy7bVYl9w) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Benjamin Grosvenor](https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj) | [Benjamin Grosvenor: Chopin, Liszt, Ravel](https://open.spotify.com/album/5MyejkHGSoo5IfTum4VMiw) | 4:01 |
 | 18 | [Mazurka No\. 43 en sol mineur, Op\. Posth\. 67 No\. 2, WN 64](https://open.spotify.com/track/6zvD6nMGrX5OrPrSnFgUXg) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Janina Fialkowska](https://open.spotify.com/artist/651mTvdpGkaQRBZGCzkZ32) | [Chopin: Complete Mazurkas](https://open.spotify.com/album/7eS9QiFiXd4DwLt0ZdrLEt) | 2:09 |
 | 19 | [Chopin: Nocturne No\. 5 in F\-Sharp Major, Op\. 15 No\. 2](https://open.spotify.com/track/2WIwqBA8i4KkY7r27r0SaT) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Elisabeth Leonskaja](https://open.spotify.com/artist/3i67VvAwUlOKZa3fc75zs8) | [Chopin: Nocturnes \[Complete\]](https://open.spotify.com/album/3Ja7LrUEADfJfYE6nzPfNb) | 4:07 |
-| 20 | [Chopin: Nocturne No\. 1 in B\-Flat Minor, Op\. 9 No\. 1](https://open.spotify.com/track/1l9ra1BpB3DcS4gSBg8Qra) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [YUNDI](https://open.spotify.com/artist/1T6BHJnhY5xIVvZKzV5f2u) | [Chopin Nocturnes](https://open.spotify.com/album/7kGObwwRrq6pgj9MwSu4Qx) | 5:33 |
+| 20 | [Chopin: Nocturne No\. 1 in B\-Flat Minor, Op\. 9 No\. 1](https://open.spotify.com/track/1l9ra1BpB3DcS4gSBg8Qra) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [YUNDI](https://open.spotify.com/artist/1T6BHJnhY5xIVvZKzV5f2u) | [Chopin: Nocturnes](https://open.spotify.com/album/7kGObwwRrq6pgj9MwSu4Qx) | 5:33 |
 | 21 | [Chopin: Nocturne No\. 17 in B Major, Op\. 62 No\. 1](https://open.spotify.com/track/3UiLTMeqt1zQOyZqmU5jiP) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Elisabeth Leonskaja](https://open.spotify.com/artist/3i67VvAwUlOKZa3fc75zs8) | [Chopin: Nocturnes \[Complete\]](https://open.spotify.com/album/3Ja7LrUEADfJfYE6nzPfNb) | 7:55 |
 | 22 | [12 Études, Op\. 10: No\. 3 in E Major "Tristesse"](https://open.spotify.com/track/4h1blqY5LzPH8fNcglNJPX) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Murray Perahia](https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB) | [Chopin: 24 Études, Op\. 10 & Op\. 25](https://open.spotify.com/album/5kUpAX73fnNouo85H5D3MK) | 3:52 |
 | 23 | [Chopin: Nocturne No\. 3 in B Major, Op\. 9 No\. 3](https://open.spotify.com/track/5qQRvqCXuO3uZTazifcGvO) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Elisabeth Leonskaja](https://open.spotify.com/artist/3i67VvAwUlOKZa3fc75zs8) | [Chopin: Nocturnes \[Complete\]](https://open.spotify.com/album/3Ja7LrUEADfJfYE6nzPfNb) | 7:22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 
 > Let's party with cheerful Korean trot medley\. Cover: YOUNGTAK\(영탁\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,803 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,779 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 | 47 | [a slow train bound for Mokpo](https://open.spotify.com/track/0ug9jyEOvmklMakq7Bjecp) | [Jang Yoon\-Jeong](https://open.spotify.com/artist/1zeaekWal9sG8T6INxaeQM) | [préparation\(쁘레빠라씨용\)](https://open.spotify.com/album/1xjQkHFzTq7G12BixnhXXG) | 3:31 |
 | 48 | [For Your Soul](https://open.spotify.com/track/35t583wCAY9JBgjIHpcjJx) | [sungmo Jo](https://open.spotify.com/artist/5NzEQOONnoipbJ6kIDB775), [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Bongsungah school PART11](https://open.spotify.com/album/5m6Y65eU3N3LmBJlzh0fzo) | 4:24 |
 | 49 | [Never ever](https://open.spotify.com/track/10yLokqRxev4emJ3x1I62c) | [Hong Jin Young](https://open.spotify.com/artist/5LwiBgLTllBUiqQGNiQ7jY) | [Never Ever](https://open.spotify.com/album/51W5fQms2ALEPqn9DfXMAR) | 3:40 |
-| 50 | [Ring Ring](https://open.spotify.com/track/47SjnA9lQy5kPdAejHr9Cw) | [Kim YoungChul](https://open.spotify.com/artist/6PpuhpJOZ598rVzlvSj2Ea) | [Ring Ring](https://open.spotify.com/album/2ChMOZqyHLYdPcgcXV4e4n) | 3:17 |
+| 50 | [Ring Ring](https://open.spotify.com/track/47SjnA9lQy5kPdAejHr9Cw) | [Hong Jin Young](https://open.spotify.com/artist/5LwiBgLTllBUiqQGNiQ7jY) | [Ring Ring](https://open.spotify.com/album/2ChMOZqyHLYdPcgcXV4e4n) | 3:17 |
 | 51 | [Last night's story](https://open.spotify.com/track/1XJ6zkQPsyAu1EQ4Uktgu9) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v), [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4), [Kim Ho Joong](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [Love call center PART4](https://open.spotify.com/album/4IT3qJP9Yqhyy3itCSmpUx) | 3:45 |
 | 52 | [Scars deeper than love](https://open.spotify.com/track/6ZDGfuLzNSNYtuY3JETdaz) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy), [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Love call center PART9](https://open.spotify.com/album/1lAFblayoSOk4ZzgtqGT0I) | 4:28 |
 | 53 | [All Eyes on Me](https://open.spotify.com/track/3dQE7nZ4mQOZNCJgo3RxYv) | [Super Five](https://open.spotify.com/artist/38SpwrdX8Ks7qgaj4F8tSk) | [Super Five \- All Eyes on Me](https://open.spotify.com/album/66G9cqzAR7InL6pbseHcnO) | 3:46 |

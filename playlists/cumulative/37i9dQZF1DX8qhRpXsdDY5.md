@@ -4,7 +4,7 @@
 
 > The perfect Latin tunes to get in the Christmas spirit\. Cover: Luis Miguel
 
-122 songs - 7 hr 22 min - [published](https://open.spotify.com/playlist/3HjIJ3sXLe73tAroOhDnrQ)
+123 songs - 7 hr 26 min - [published](https://open.spotify.com/playlist/3HjIJ3sXLe73tAroOhDnrQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,8 @@
 | [Santa Claus Is Comin’ To Town](https://open.spotify.com/track/6zhoHWViPUAxa5w6zgf2fP) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [¡Llegan las Fiestas!](https://open.spotify.com/album/6Za5reRT560BzA45e7Wmup) | 3:29 | 2021-12-17 | 2022-07-29 |
 | [Santa Claus Llegó a la Ciudad \(with The Patrick Williams Orchestra\)](https://open.spotify.com/track/1EToLZdnbOMk9uSSs5tcW8) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH), [Patrick Williams Orchestra](https://open.spotify.com/artist/6Ls7jvEOGiaPP5smBdptcF) | [Laura Navidad](https://open.spotify.com/album/5udComy2E2baP6t1TB1gV0) | 2:07 | 2021-12-17 | 2022-07-29 |
 | [Santa Claus llegó a la ciudad \(with the Patrick Williams Orchestra\)](https://open.spotify.com/track/3liEzFyv7meS2sHn697Sty) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH), [Patrick Williams Orchestra](https://open.spotify.com/artist/6Ls7jvEOGiaPP5smBdptcF) | [Laura Xmas \(Deluxe\)](https://open.spotify.com/album/1F9v00h2yWamoUDrGCrsJ3) | 2:07 | 2021-12-17 |  |
-| [Santa la noche](https://open.spotify.com/track/1XL17qoSvIflYQ45uU2Xjc) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Santa la noche](https://open.spotify.com/album/6EN18F6GNtsquD1rjzAeSK) | 4:13 | 2021-12-17 |  |
+| [Santa la noche](https://open.spotify.com/track/1XL17qoSvIflYQ45uU2Xjc) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Santa la noche](https://open.spotify.com/album/6EN18F6GNtsquD1rjzAeSK) | 4:13 | 2021-12-17 | 2022-09-01 |
+| [Santa la noche](https://open.spotify.com/track/34OQJBdPvh88lHD6Oiuwc1) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Santa la noche](https://open.spotify.com/album/3JQymi6jdlocnrFuPfVBcG) | 4:13 | 2021-12-17 |  |
 | [Santa, Te Espero A Las 10](https://open.spotify.com/track/1rrgtua4d11ALBCNQHlvI4) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Santa, Te Espero A Las 10](https://open.spotify.com/album/4zPbYPL2cP6MD8cDyXQ6fi) | 2:33 | 2021-12-17 |  |
 | [Santa, Te Espero A Las 10](https://open.spotify.com/track/6rWpXRFAaVzn4RPqkCeKph) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Santa, Te Espero A Las 10](https://open.spotify.com/album/3dW8rDCOpqXFKDMIUM1jQF) | 2:33 | 2021-12-17 | 2022-07-29 |
 | [Siempre Es Navidad Junto a Ti](https://open.spotify.com/track/49R5u4w5zy8rqtqSazjFbD) | [Edurne](https://open.spotify.com/artist/1RpT4SSsNAr0JaSvvwNkgh) | [Siempre Es Navidad Junto a Ti](https://open.spotify.com/album/1oRkb7HF9YvUrBShCK1qcc) | 3:05 | 2021-12-17 |  |

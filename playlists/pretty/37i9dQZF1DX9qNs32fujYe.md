@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 
 > Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Megadeth
 
-[Spotify](https://open.spotify.com/user/spotify) - 952,476 likes - 200 songs - 14 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 950,714 likes - 200 songs - 14 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

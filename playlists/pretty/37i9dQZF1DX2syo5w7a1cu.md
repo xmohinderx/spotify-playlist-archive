@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2syo5w7a1cu.md) - [plain]
 
 > Mellow songs from the 1990s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,830 likes - 200 songs - 15 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,156 likes - 200 songs - 15 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2syo5w7a1cu.md) - [plain]
 | 199 | [Lucky Man](https://open.spotify.com/track/0bw1li9y32rw40HGodRShs) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 4:53 |
 | 200 | [Please Forgive Me](https://open.spotify.com/track/1HDaENkQhUMm16pjdxZvHn) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Anthology](https://open.spotify.com/album/6XkXta8AXNmXkZAxM0CYqW) | 5:55 |
 
-Snapshot ID: `MTY1MDg3NDc3MiwwMDAwMDAwMGZkMzMzNjQwNzFkYmIzNzIzNGE1NmU4ZGY0Yjc5OTJi`
+Snapshot ID: `MTY2MTk0NDc5MCwwMDAwMDAwMDQwYjUxZGNlMDdkNDExNzY4NDJmODg1NDhmYjIwMDc2`

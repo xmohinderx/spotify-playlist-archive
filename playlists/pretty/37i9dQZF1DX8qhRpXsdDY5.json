@@ -1,12 +1,12 @@
 {
   "description": "The perfect Latin tunes to get in the Christmas spirit. Cover: Luis Miguel",
-  "num_followers": 187557,
+  "num_followers": 187539,
   "original_name": "Latin Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDU3MzAwNywwMDAwMDAwMDFkZGIyOTE1NjM5NTY5NDRhNzNmNDU0NzRjNDA4OTZh",
+  "snapshot_id": "MTY2MDU3MzAwNywwMDAwMDAwMDBmNmIyMmVjNGFmZWFmMjZkYjliOTZhNjE1ZDM0NDI4",
   "tracks": [
     {
       "added_at": "2021-12-17 05:01:00",
@@ -931,6 +931,22 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
+        "name": "Santa la noche",
+        "url": "https://open.spotify.com/album/3JQymi6jdlocnrFuPfVBcG"
+      },
+      "artists": [
+        {
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+        }
+      ],
+      "duration_ms": 253571,
+      "name": "Santa la noche",
+      "url": "https://open.spotify.com/track/34OQJBdPvh88lHD6Oiuwc1"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
         "name": "Felicidades",
         "url": "https://open.spotify.com/album/024yNADGjvnhSVjscpD5qG"
       },
@@ -967,6 +983,22 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
+        "name": "Abriendo Puertas",
+        "url": "https://open.spotify.com/album/58L3coHWC8BOho10VpDHXV"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        }
+      ],
+      "duration_ms": 279133,
+      "name": "Farolito (Little Star)",
+      "url": "https://open.spotify.com/track/5tTS9k3YRyHHPVut0PO8I9"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
         "name": "Laura Xmas (Deluxe)",
         "url": "https://open.spotify.com/album/1F9v00h2yWamoUDrGCrsJ3"
       },
@@ -983,22 +1015,6 @@
       "duration_ms": 127893,
       "name": "Santa Claus lleg\u00f3 a la ciudad (with the Patrick Williams Orchestra)",
       "url": "https://open.spotify.com/track/3liEzFyv7meS2sHn697Sty"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Abriendo Puertas",
-        "url": "https://open.spotify.com/album/58L3coHWC8BOho10VpDHXV"
-      },
-      "artists": [
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        }
-      ],
-      "duration_ms": 279133,
-      "name": "Farolito (Little Star)",
-      "url": "https://open.spotify.com/track/5tTS9k3YRyHHPVut0PO8I9"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -1255,30 +1271,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Mi Navidad No Se Apaga",
-        "url": "https://open.spotify.com/album/29vshU5rVpWYdzJvim2952"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        },
-        {
-          "name": "La Tribu de Abrante",
-          "url": "https://open.spotify.com/artist/3sito6EcNee484oIM6KHwO"
-        },
-        {
-          "name": "Pj Sin Suela",
-          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
-        }
-      ],
-      "duration_ms": 189593,
-      "name": "Mi Navidad No Se Apaga",
-      "url": "https://open.spotify.com/track/5EOjxQsuszwFphhkCOqT6j"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "Navidad Latina 2021 (Streaming)",
         "url": "https://open.spotify.com/album/0szE9YO0h3e4C99oVAx6H1"
       },
@@ -1311,6 +1303,30 @@
       "duration_ms": 238480,
       "name": "I'll Be Home For Christmas/Estar\u00e9 En Mi Casa Esta Navidad",
       "url": "https://open.spotify.com/track/1ZJxkMIYK2a681oSqG1QNi"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Mi Navidad No Se Apaga",
+        "url": "https://open.spotify.com/album/29vshU5rVpWYdzJvim2952"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        },
+        {
+          "name": "La Tribu de Abrante",
+          "url": "https://open.spotify.com/artist/3sito6EcNee484oIM6KHwO"
+        },
+        {
+          "name": "Pj Sin Suela",
+          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
+        }
+      ],
+      "duration_ms": 189593,
+      "name": "Mi Navidad No Se Apaga",
+      "url": "https://open.spotify.com/track/5EOjxQsuszwFphhkCOqT6j"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -1567,22 +1583,6 @@
       "duration_ms": 161040,
       "name": "Esta noche es Nochebuena",
       "url": "https://open.spotify.com/track/6pC1M6oEqPwZ7qtVoAsMYm"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Santa la noche",
-        "url": "https://open.spotify.com/album/6EN18F6GNtsquD1rjzAeSK"
-      },
-      "artists": [
-        {
-          "name": "Majo y Dan",
-          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
-        }
-      ],
-      "duration_ms": 253571,
-      "name": "Santa la noche",
-      "url": "https://open.spotify.com/track/1XL17qoSvIflYQ45uU2Xjc"
     },
     {
       "added_at": "2021-12-17 05:01:00",

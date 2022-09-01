@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Aku Di Sini",
+        "url": "https://open.spotify.com/album/7LZHa8tbnhKliMwnDmXccz"
+      },
+      "artists": [
+        {
+          "name": "Andi Bernadee",
+          "url": "https://open.spotify.com/artist/3NNC2X9tLFyL0nHfJuWKJ9"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173924,
+      "name": "Aku Di Sini",
+      "url": "https://open.spotify.com/track/5ZO4PNXO0ZLDhI12f9kU94"
+    },
+    {
+      "album": {
         "name": "Aku Hati Dan Perasaan",
         "url": "https://open.spotify.com/album/29k2VAQtaI7nVUey9Mz4PK"
       },
@@ -117,7 +135,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 223106,
       "name": "Belai",
       "url": "https://open.spotify.com/track/5I2JFiU2QrajBkY3Z8l9RF"
@@ -232,6 +250,42 @@
     },
     {
       "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/1jVXtJtc387B4li6XbeAa2"
+      },
+      "artists": [
+        {
+          "name": "Sarah Suhairi",
+          "url": "https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189120,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/4cwaFKoFe4lIDzORUldz8X"
+    },
+    {
+      "album": {
+        "name": "Butakah Cinta",
+        "url": "https://open.spotify.com/album/5bx75ZifBiS9csZJMraB9E"
+      },
+      "artists": [
+        {
+          "name": "Fieya Julia",
+          "url": "https://open.spotify.com/artist/1jSD4QWACN76zckZySJWVA"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271505,
+      "name": "Butakah Cinta",
+      "url": "https://open.spotify.com/track/6440wcQF6nOmu5e16vjGmo"
+    },
+    {
+      "album": {
         "name": "CASABLANCA",
         "url": "https://open.spotify.com/album/79q2SC1pSKJ5feP5NfKGaU"
       },
@@ -287,6 +341,24 @@
       "duration_ms": 234561,
       "name": "Cinta",
       "url": "https://open.spotify.com/track/390rIF5dbH5QRIb7r3NxOF"
+    },
+    {
+      "album": {
+        "name": "Cinta Ini",
+        "url": "https://open.spotify.com/album/310QQkQcmHQUIqYRnFaBoQ"
+      },
+      "artists": [
+        {
+          "name": "Amirchik",
+          "url": "https://open.spotify.com/artist/0v3cIqT5jtOSGxotzz8kcZ"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143040,
+      "name": "Cinta Ini",
+      "url": "https://open.spotify.com/track/76yLhPFFk1Wxab5OV0V70m"
     },
     {
       "album": {
@@ -475,7 +547,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 206313,
       "name": "HATI",
       "url": "https://open.spotify.com/track/7qUclEieAYxZH07yl9BnnF"
@@ -623,7 +695,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 229622,
       "name": "Kaulah Syurga",
       "url": "https://open.spotify.com/track/5Mg6WjcJyOCoz03mHBXhqd"
@@ -659,7 +731,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 234759,
       "name": "Khilaf Asmara",
       "url": "https://open.spotify.com/track/5ubqF9AMFQ0iU7dUnKi5Hs"
@@ -735,6 +807,24 @@
       "duration_ms": 267572,
       "name": "Layu Di Hujung Mekar",
       "url": "https://open.spotify.com/track/3GxKGD4HE7YSPkVKqy445n"
+    },
+    {
+      "album": {
+        "name": "+62",
+        "url": "https://open.spotify.com/album/42LLrtJK1RfPRiZqDyswlk"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287319,
+      "name": "LESTARI MERDU",
+      "url": "https://open.spotify.com/track/4SehVxkRW1gi0mOPCvxlmi"
     },
     {
       "album": {
@@ -847,6 +937,24 @@
       "duration_ms": 220250,
       "name": "Merasa Indah",
       "url": "https://open.spotify.com/track/3Ysf0Y3iu23mrDsVh1mdu0"
+    },
+    {
+      "album": {
+        "name": "Mini Love",
+        "url": "https://open.spotify.com/album/5tYl9vMg1JgPVKOIQ2V1ye"
+      },
+      "artists": [
+        {
+          "name": "Han Byul",
+          "url": "https://open.spotify.com/artist/4BGk8nswKSAE0bSuxA1uTP"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228923,
+      "name": "Mini Love",
+      "url": "https://open.spotify.com/track/2dAmKNCT1ImkO4sNtolvuH"
     },
     {
       "album": {
@@ -1079,7 +1187,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 301368,
       "name": "Roman Picisan",
       "url": "https://open.spotify.com/track/4d3Oc82rj1hVPlNZvcZ3KB"
@@ -1159,6 +1267,46 @@
       "duration_ms": 220800,
       "name": "Sama Seperti Dulu",
       "url": "https://open.spotify.com/track/4g32N8Vl5Dp8pnuzuiVLEg"
+    },
+    {
+      "album": {
+        "name": "Sama-Sama (Lagu Tema \"JUANG\")",
+        "url": "https://open.spotify.com/album/0TRMkhbHNMAcyDX5avMlsL"
+      },
+      "artists": [
+        {
+          "name": "Dato' Sri Siti Nurhaliza",
+          "url": "https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285522,
+      "name": "Sama-Sama (Lagu Tema \"JUANG\")",
+      "url": "https://open.spotify.com/track/4xJDuICdepVuATjr9Tzph8"
+    },
+    {
+      "album": {
+        "name": "Sang Dewi",
+        "url": "https://open.spotify.com/album/5JO7f6aqA0Tw1vfZuwLr0I"
+      },
+      "artists": [
+        {
+          "name": "Lyodra",
+          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
+        },
+        {
+          "name": "Andi Rianto",
+          "url": "https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247993,
+      "name": "Sang Dewi",
+      "url": "https://open.spotify.com/track/5fDCy4Hse30ZsjaTUGKVh5"
     },
     {
       "album": {
@@ -1361,7 +1509,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 229623,
       "name": "TIME BOMB",
       "url": "https://open.spotify.com/track/4QbT2s3ugGXHd9RiGBGrwJ"

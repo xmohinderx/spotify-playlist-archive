@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 
 > Se acabó el amor\. La música continúa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,690,413 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,690,635 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 99 | [¿Por Qué Lloras? \(feat\. Matisse\)](https://open.spotify.com/track/2G9LSMGW7a9QFP8Fi9cvTE) | [Madison](https://open.spotify.com/artist/0NwGBRhszOv045HeCRAW7n), [Matisse](https://open.spotify.com/artist/3sR1FocH7EzvytEiUNm3RH) | [¿Por Qué Lloras? \(feat\. Matisse\)](https://open.spotify.com/album/6nYiI7zRQ3Puy57Vos2eOQ) | 3:31 |
 | 100 | [Tanto Amor \(feat\. Matisse\) \- El Viaje de Matisse](https://open.spotify.com/track/2zTxwFHPKf27XGpOhMr27N) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa), [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Tanto Amor \(feat\. Matisse\) \[El Viaje de Matisse\]](https://open.spotify.com/album/71E9VK0oe7JYo7h226EgIH) | 3:48 |
 
-Snapshot ID: `MTY1ODQyMTEzMCwwMDAwMDAwMDZmNTYyMGEwNzE1MWU4NWI2NTBiNmFlNTI3OThkZmQ5`
+Snapshot ID: `MTY2MTkyODc0NywwMDAwMDAwMGUxZDBiZDYyNWMxOTgwMzk0ZGFjN2ZkYTk3MjJmODhm`

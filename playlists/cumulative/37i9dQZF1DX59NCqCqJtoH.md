@@ -4,7 +4,7 @@
 
 > We hear you.
 
-476 songs - 23 hr 36 min - [published](https://open.spotify.com/playlist/40vV3pGK0ufA9YrTysgewE)
+477 songs - 23 hr 38 min - [published](https://open.spotify.com/playlist/40vV3pGK0ufA9YrTysgewE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,7 @@
 | [If You Leave](https://open.spotify.com/track/6vOasXD4uE6zEPgcXD86Tq) | [Sky McCreery](https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh) | [If You Leave](https://open.spotify.com/album/0rgdSm4zbzgZEBKXja4xJp) | 2:40 | 2021-04-02 | 2022-07-19 |
 | [im used to it](https://open.spotify.com/track/5PqreNOgHtz0JusSoeitaF) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [im used to it](https://open.spotify.com/album/5hzOPYGJBGqIQ5oluCeT5y) | 2:55 | 2021-04-02 | 2022-04-20 |
 | [in love](https://open.spotify.com/track/0jcDwzxkfzdRHLiVHiRQII) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [in love](https://open.spotify.com/album/09GS5ONXA0R6l8oPCTsyzl) | 2:32 | 2021-08-27 | 2022-07-23 |
-| [Insane](https://open.spotify.com/track/3mLFCocZgUvih60frphM6l) | [Sky McCreery](https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh) | [Insane](https://open.spotify.com/album/21gi2LoATc1aYgKLD39uVy) | 2:46 | 2021-04-02 |  |
+| [Insane](https://open.spotify.com/track/3mLFCocZgUvih60frphM6l) | [Sky McCreery](https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh) | [Insane](https://open.spotify.com/album/21gi2LoATc1aYgKLD39uVy) | 2:46 | 2021-04-02 | 2022-09-01 |
 | [into ash](https://open.spotify.com/track/2yPIuAeJ2Y5mKPo82Lruw3) | [Adam Youngman](https://open.spotify.com/artist/3K8XkFDgyQhbHQGzD0xz8Y) | [into ash](https://open.spotify.com/album/7guivDMrs7rBgX84UAp2vL) | 1:29 | 2021-04-02 | 2022-04-14 |
 | [is your bedroom ceiling bored? \(feat\. Cavetown\)](https://open.spotify.com/track/3ehrCQoouv7NW8LRgcMvRF) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [is your bedroom ceiling bored? \(feat\. Cavetown\)](https://open.spotify.com/album/3EScPN7QqAa3WUVgZe1dNo) | 3:27 | 2021-04-02 |  |
 | [is your bedroom ceiling bored? \(feat\. Rxseboy\) \- Fudasca Remix](https://open.spotify.com/track/3XwEo4mEovAVPd3cNUN4Dy) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Fudasca](https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T) | [is your bedroom ceiling bored? \(feat\. Rxseboy\) \[Fudasca Remix\]](https://open.spotify.com/album/4lndDL6LmunG4EDznwmcuZ) | 3:11 | 2021-04-02 | 2022-07-29 |
@@ -346,6 +346,7 @@
 | [regrets](https://open.spotify.com/track/0qxcxet7ALr8LEB04dCila) | [TruePilot](https://open.spotify.com/artist/4JpIqUnQzJYoA34LWoj3ll) | [regrets](https://open.spotify.com/album/4i9QRMfbCwO76ed4hm6n63) | 3:36 | 2021-04-02 | 2022-04-03 |
 | [Revolution](https://open.spotify.com/track/1sxDU5SNvAVTgAGQE5AlEF) | [GRMLN](https://open.spotify.com/artist/3RE9lrTTbnp2GUwHrGS40f), [TAESAN](https://open.spotify.com/artist/2Zz9U4J4t6H3G0HdYVX0uY) | [Revolution](https://open.spotify.com/album/6GWLc3CMoq85iAqc4Yurtv) | 2:14 | 2022-03-23 | 2022-04-21 |
 | [rock bottom \(feat\. nothing,nowhere.\)](https://open.spotify.com/track/5d1OeQBC6zyHO8jc2svOZz) | [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [joke's on you](https://open.spotify.com/album/7m81PtaaFgg72fNkVvU5gF) | 2:45 | 2021-04-02 | 2022-05-16 |
+| [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-08-31 |  |
 | [rosier](https://open.spotify.com/track/6ZUiIY6JQtDkrJggZ1OSQ7) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [rosier](https://open.spotify.com/album/3ri0YspOIBYjD3d8QIMwB7) | 3:42 | 2021-04-02 | 2022-07-29 |
 | [Ruthless \(Nice Guys Always Finish Last\)](https://open.spotify.com/track/6HeCk6yewXH7WO4D93eub9) | [MarMar Oso](https://open.spotify.com/artist/5rGbtFeEVjymN6xzE8opA6) | [Oso Different](https://open.spotify.com/album/0Ga2a9eC2PvMNr8LRceotI) | 3:53 | 2021-04-02 |  |
 | [rx](https://open.spotify.com/track/273h36reiuZ6Q92u4cmfID) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/0pzu94TJ8IufDvf416cdfO) | 3:20 | 2022-04-08 | 2022-07-29 |
