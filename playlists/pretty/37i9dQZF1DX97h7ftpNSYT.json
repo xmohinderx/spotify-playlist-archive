@@ -1,12 +1,12 @@
 {
   "description": "Taking it back to the 2010s. Cover: Baby Keem",
-  "num_followers": 73470,
+  "num_followers": 73569,
   "original_name": "I Love My 2010s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMGUxMzlkOTY3NjZkOGU0OGU1OGRiMDliZDAxYTk5ZGM1",
+  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMDFmZWJiYTAwM2Q5NDc3MmNiMjA2NDU4N2VlMDJiNGQ0",
   "tracks": [
     {
       "added_at": "2022-07-29 04:00:00",
@@ -703,18 +703,26 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Drip Season 3 (Deluxe)",
-        "url": "https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi"
+        "name": "At What Cost",
+        "url": "https://open.spotify.com/album/18JrBX1QkpnUSJF3oxX6RX"
       },
       "artists": [
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "GoldLink",
+          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        },
+        {
+          "name": "Shy Glizzy",
+          "url": "https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs"
         }
       ],
-      "duration_ms": 197420,
-      "name": "Top Off",
-      "url": "https://open.spotify.com/track/0HCnj7pfrvshnocOJUFeit"
+      "duration_ms": 176702,
+      "name": "Crew (feat. Brent Faiyaz & Shy Glizzy)",
+      "url": "https://open.spotify.com/track/15EPc80XuFrb2LmOzGjuRg"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -739,26 +747,18 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "At What Cost",
-        "url": "https://open.spotify.com/album/18JrBX1QkpnUSJF3oxX6RX"
+        "name": "Drip Season 3 (Deluxe)",
+        "url": "https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi"
       },
       "artists": [
         {
-          "name": "GoldLink",
-          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
-        },
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        },
-        {
-          "name": "Shy Glizzy",
-          "url": "https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 176702,
-      "name": "Crew (feat. Brent Faiyaz & Shy Glizzy)",
-      "url": "https://open.spotify.com/track/15EPc80XuFrb2LmOzGjuRg"
+      "duration_ms": 197420,
+      "name": "Top Off",
+      "url": "https://open.spotify.com/track/0HCnj7pfrvshnocOJUFeit"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "New English",
+        "url": "https://open.spotify.com/album/0cHT4ll3sEPyFFWoFuibMl"
+      },
+      "artists": [
+        {
+          "name": "Desiigner",
+          "url": "https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4"
+        }
+      ],
+      "duration_ms": 246761,
+      "name": "Panda",
+      "url": "https://open.spotify.com/track/5YEOzOojehCqxGQCcQiyR4"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "Pretty Girls Like Trap Music",
         "url": "https://open.spotify.com/album/5vvvo79z68vWj9yimoygfS"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 210200,
       "name": "It's A Vibe",
       "url": "https://open.spotify.com/track/6H0AwSQ20mo62jGlPGB8S6"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "New English",
-        "url": "https://open.spotify.com/album/0cHT4ll3sEPyFFWoFuibMl"
-      },
-      "artists": [
-        {
-          "name": "Desiigner",
-          "url": "https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4"
-        }
-      ],
-      "duration_ms": 246761,
-      "name": "Panda",
-      "url": "https://open.spotify.com/track/5YEOzOojehCqxGQCcQiyR4"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "SATURATION III",
-        "url": "https://open.spotify.com/album/5c2AzoNyr46fCQM5d8mxE0"
-      },
-      "artists": [
-        {
-          "name": "BROCKHAMPTON",
-          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
-        }
-      ],
-      "duration_ms": 273151,
-      "name": "BLEACH",
-      "url": "https://open.spotify.com/track/0dWOFwdXrbBUYqD9DLsoyK"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Tha Carter V",
         "url": "https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 194184,
       "name": "Uproar",
       "url": "https://open.spotify.com/track/3wScL5W8H40zzCKN0atfBk"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "SATURATION III",
+        "url": "https://open.spotify.com/album/5c2AzoNyr46fCQM5d8mxE0"
+      },
+      "artists": [
+        {
+          "name": "BROCKHAMPTON",
+          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+        }
+      ],
+      "duration_ms": 273151,
+      "name": "BLEACH",
+      "url": "https://open.spotify.com/track/0dWOFwdXrbBUYqD9DLsoyK"
     },
     {
       "added_at": "2022-07-29 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 
 > Throwbacks you can catch a wine to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,464 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,979 likes - 80 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 | 61 | [Everything Fi Hold Him](https://open.spotify.com/track/7v2IaYqhKoMndOWt6Krsgd) | [Gaza Slim](https://open.spotify.com/artist/7mPRzTE0BI6QMFmWhevSog) | [Girl Boss \- The Realest Girl](https://open.spotify.com/album/3m2CNO9jD3BKz8vusgkDYE) | 3:46 |
 | 62 | [Dutty Whine](https://open.spotify.com/track/0faQCjG6E7VecroZfmSA3J) | [Tony Matterhorn](https://open.spotify.com/artist/6taesTUSevB9eK8bm5Y7b9) | [Dutty Whine](https://open.spotify.com/album/7fv1oxFvj0feUywPYZKpR0) | 3:13 |
 | 63 | [Things Mi Love](https://open.spotify.com/track/5pUR6ZtoAJ6RZ1NY7EIAZh) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Alkaline Mix Tape Extended](https://open.spotify.com/album/5iTKUdJaihXEaBj3k4Kr6K) | 3:26 |
-| 64 | [Nuh Linga](https://open.spotify.com/track/1XDu72IZMRTO2gDPaMydXE) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Dance & Sweep! \- Adventures Of The Energy God](https://open.spotify.com/album/1h6idb5MNxRtSz4EWsMe84) | 2:08 |
-| 65 | [Ghetto Story](https://open.spotify.com/track/00bnP8RyknzZMkNlEAO2ih) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK) | [Ghetto Story \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/35NmvuGyzxJcHMCkh68v5y) | 4:11 |
+| 64 | [Ghetto Story](https://open.spotify.com/track/00bnP8RyknzZMkNlEAO2ih) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK) | [Ghetto Story \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/35NmvuGyzxJcHMCkh68v5y) | 4:11 |
+| 65 | [Nuh Linga](https://open.spotify.com/track/1XDu72IZMRTO2gDPaMydXE) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Dance & Sweep! \- Adventures Of The Energy God](https://open.spotify.com/album/1h6idb5MNxRtSz4EWsMe84) | 2:08 |
 | 66 | [Nah Let Go](https://open.spotify.com/track/39ThJ78YJf1Ouyb63rjYFu) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Pon Di Gaza 2.0](https://open.spotify.com/album/5xkTjyLPKbSeNuY7QLgnqT) | 3:34 |
 | 67 | [Broad Out \- Raw](https://open.spotify.com/track/3pTQs1htsNk3NYKDpturZU) | [RDX](https://open.spotify.com/artist/4GpVRyxDYccJrbQkO3KWws) | [Broad Out](https://open.spotify.com/album/3nwS8SobIYJ74TywjJfiax) | 3:06 |
 | 68 | [Always](https://open.spotify.com/track/1ge5u2oNzB340gHdMCdTSl) | [Gaza Slim](https://open.spotify.com/artist/7mPRzTE0BI6QMFmWhevSog) | [Girl Boss \- The Realest Girl](https://open.spotify.com/album/3m2CNO9jD3BKz8vusgkDYE) | 3:14 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 | 71 | [Dye Dye \(Raw\)](https://open.spotify.com/track/0xWrs2bY4UyaQ3uRm71goW) | [Macka Diamond](https://open.spotify.com/artist/6ETpDuVbzktDEfNza1CN8i) | [Dye Dye \- Single](https://open.spotify.com/album/0lUWYHS9g6DDGtwg7fXsTR) | 3:06 |
 | 72 | [Call Mi A Yardie](https://open.spotify.com/track/4ninC0OKV9UjFLurjw2ASR) | [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd) | [Ragga Ragga Ragga 2012](https://open.spotify.com/album/4Sbct6JwWOmeuItClJ3aw6) | 3:05 |
 | 73 | [Wine and Jiggle](https://open.spotify.com/track/1eeKTJd1LvONWC8WTV5KF8) | [I\-Octane](https://open.spotify.com/artist/2T5FHRvBN0LYvlvDoU89dS), [Seanizzle](https://open.spotify.com/artist/4WYP9l7S3oTiE2Pb8awwOX) | [Wine and Jiggle](https://open.spotify.com/album/0KxLXkWpZwKTLfLl9QabMV) | 2:31 |
-| 74 | [Willie Bounce](https://open.spotify.com/track/0pjbztKqMcjVZpDYokMBhI) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Strictly The Best Vol 33](https://open.spotify.com/album/6ucY1k9M0WTQCDZRTbXqzV) | 4:10 |
+| 74 | [Bend Ova](https://open.spotify.com/track/7LC5sCPdYJPgKiUXdnIlYe) | [RDX](https://open.spotify.com/artist/4GpVRyxDYccJrbQkO3KWws) | [Kotch EP](https://open.spotify.com/album/4IGhZkAU6HHyOMgtfc9Atq) | 3:09 |
 | 75 | [Bicycle](https://open.spotify.com/track/10SerxkhE8ATlcbtM5nyNQ) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Pon Di Gaza 2.0](https://open.spotify.com/album/5xkTjyLPKbSeNuY7QLgnqT) | 2:18 |
-| 76 | [Bend Ova](https://open.spotify.com/track/7LC5sCPdYJPgKiUXdnIlYe) | [RDX](https://open.spotify.com/artist/4GpVRyxDYccJrbQkO3KWws) | [Kotch EP](https://open.spotify.com/album/4IGhZkAU6HHyOMgtfc9Atq) | 3:09 |
+| 76 | [Willie Bounce](https://open.spotify.com/track/0pjbztKqMcjVZpDYokMBhI) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Strictly The Best Vol 33](https://open.spotify.com/album/6ucY1k9M0WTQCDZRTbXqzV) | 4:10 |
 | 77 | [Nuh Boring Gyal](https://open.spotify.com/track/09EmEP62OJa0anCob6k0pl) | [Aidonia](https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs) | [Project Sweat](https://open.spotify.com/album/7b7jhNRjKkoApz1KdmyIiJ) | 2:14 |
 | 78 | [Life \(Is What You Make of It\)](https://open.spotify.com/track/1GPr2bSZGp3FY8WLUIz6kD) | [Frighty](https://open.spotify.com/artist/3sJ4PdcDMz8f54s58xsNzt), [Colonel Mite](https://open.spotify.com/artist/3uKvf6v8ivXfxa3UrJx738) | [Life \(Is What You Make of It\)](https://open.spotify.com/album/5PnaOrdPmijULnutsP7DQt) | 3:32 |
 | 79 | [Unknown Number](https://open.spotify.com/track/1cAFDCGAqqzJCxmgto5qxF) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Loaded](https://open.spotify.com/album/2tpA1IQ99v1OVIOkowexHy) | 3:34 |
-| 80 | [Punanny Medley](https://open.spotify.com/track/5GEid99RgStd0cQIhAlGHQ) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on), [Ward 21](https://open.spotify.com/artist/0iRwqSYn7fG3WkEBYQpcqJ), [Harry Toddler](https://open.spotify.com/artist/4ytwWK7bEj7noRfvIVDsgj), [Lexxus](https://open.spotify.com/artist/6LCFuJlEO46XKJlT3ZguIa), [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE), [Shabba Ranks](https://open.spotify.com/artist/3j7Sw80qzL2FJlryUhI3wG), [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Baby G](https://open.spotify.com/artist/5s2H4Qminkygl0u2u8fTbk), [Wayne Marshall](https://open.spotify.com/artist/1L9hOwgmwVUkUftkPH0JU1), [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf), [Mad Cobra](https://open.spotify.com/artist/56MDhktp7hO6MqKCS9rSXT), [Bounty Killer](https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s), [Admiral Bailey](https://open.spotify.com/artist/1zYGgHaZVz4Q2NrPngXiCx) | [Strictly The Best Vol\. 25](https://open.spotify.com/album/3dY688fGsIBNj7AcgKOU7d) | 3:51 |
+| 80 | [Hot Fuk / Hot Wuk](https://open.spotify.com/track/1aoq8ZJBdrqdM1FSzciy4G) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Mr Vegas: The Hits](https://open.spotify.com/album/2ImQoEEg93DwKIIBtb5RLg) | 2:47 |
 
-Snapshot ID: `MTY0MzE1ODMzNSwwMDAwMDAwMDMxN2Q5ZDdlNTU0NmY4YTgzMmUyZGVhM2IyNjlmMGYy`
+Snapshot ID: `MTY0MzE1ODMzNSwwMDAwMDAwMGVkNGE0MWFhMjIxYTI4MmRjODBkZTI5ZDQ2MzcyZjIw`

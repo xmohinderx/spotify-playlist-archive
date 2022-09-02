@@ -383,7 +383,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 221013,
       "name": "Come Over",
       "url": "https://open.spotify.com/track/4s1SbOyRhLpRFWKRmxhhZ5"
@@ -837,7 +837,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 226955,
       "name": "I Owe You - Cadenza Remix",
       "url": "https://open.spotify.com/track/6ThtpgMQj1HyvXthComHeo"
@@ -1732,6 +1732,28 @@
     },
     {
       "album": {
+        "name": "Pressure Drop",
+        "url": "https://open.spotify.com/album/5LoZVNyZUOPKxDFQdsosb2"
+      },
+      "artists": [
+        {
+          "name": "Dukes Of Roots",
+          "url": "https://open.spotify.com/artist/7I7JNmHKqu8TLYxfEwaBIA"
+        },
+        {
+          "name": "Tarrus Riley",
+          "url": "https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217508,
+      "name": "Pressure Drop",
+      "url": "https://open.spotify.com/track/7G66lsaWrdRqJ4Kt3aZ6as"
+    },
+    {
+      "album": {
         "name": "Queen Majesty",
         "url": "https://open.spotify.com/album/2oiyHBqT0oX3x8tP9kwRV2"
       },
@@ -1911,6 +1933,28 @@
       "duration_ms": 185359,
       "name": "Soon Come",
       "url": "https://open.spotify.com/track/2FgAvIPnk7PEx8IGSpe3NF"
+    },
+    {
+      "album": {
+        "name": "Soul of the World (with Barrington Levy)",
+        "url": "https://open.spotify.com/album/6hKPmRl1f24feTAsGt9Mai"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        },
+        {
+          "name": "Barrington Levy",
+          "url": "https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209357,
+      "name": "Soul of the World (with Barrington Levy)",
+      "url": "https://open.spotify.com/track/7DpNYAQdvEg5vFD8U5UriV"
     },
     {
       "album": {
@@ -2239,6 +2283,24 @@
       "duration_ms": 206879,
       "name": "True Love",
       "url": "https://open.spotify.com/track/1rNVWAPDh9YZbjjTRY9ibt"
+    },
+    {
+      "album": {
+        "name": "Shway SZN",
+        "url": "https://open.spotify.com/album/5MDdISqHICRaqL1znnmkUF"
+      },
+      "artists": [
+        {
+          "name": "Shwayze",
+          "url": "https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168949,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/1Al62CTbZeI6uLLvam4sFN"
     },
     {
       "album": {

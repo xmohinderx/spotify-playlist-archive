@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > Gospel music from across the African continent\. Worship in your mother tongue here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,791 likes - 70 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,866 likes - 70 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ndikhokhele Bawo](https://open.spotify.com/track/6OV3Qs8BamgJ7TR3M6rYGW) | [Cape Town Youth Choir](https://open.spotify.com/artist/4e1wKyDJhWiTS9zY8UH2kf) | [Ndikhokhele Bawo](https://open.spotify.com/album/5OgGg48gEHDs3KsUxWoVFX) | 3:32 |
-| 2 | [Big God](https://open.spotify.com/track/44Mf6xg3FPKJWkHwjJue9F) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 14](https://open.spotify.com/album/6xz2qMcKIOi8Rj6wWSaQPt) | 5:30 |
+| 2 | [Evidence](https://open.spotify.com/track/5l0XWHk6bUn5uAYuanbPfB) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Evidence](https://open.spotify.com/album/4boZNo27Ibsq6Y0ve3MZny) | 5:55 |
 | 3 | [I Believe \(Live\)](https://open.spotify.com/track/6cJO5KcvPHzo50Q0EKS0Og) | [HLE](https://open.spotify.com/artist/7bSO8mze1FilCh2kZimKLD) | [Your Kingdom on Earth \(Live\)](https://open.spotify.com/album/0TYTdff6CTiivlJ13wHFfI) | 5:40 |
 | 4 | [God Turned It Around](https://open.spotify.com/track/5DGDEsOU9MovPuq0QRnbUG) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Tim Bowman Jr.](https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l) | [God Turned It Around](https://open.spotify.com/album/3yVqDAJkQZVwitTH6zDUtz) | 10:19 |
 | 5 | [Always God](https://open.spotify.com/track/7zbk4JGPAziL1DNv8MasHR) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Always God](https://open.spotify.com/album/2TckfbhLqj59dw5gYQ3wxu) | 9:04 |
 | 6 | [Always Win \(Solo Version\)](https://open.spotify.com/track/30c1AtDneDSix6vuRoUdD7) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Always Win \(Solo Version\)](https://open.spotify.com/album/0BMA6uBobzAh7FD0CNi2FU) | 5:00 |
 | 7 | [Strong Tower](https://open.spotify.com/track/4MhjzqLa696TkrCXRk7bsU) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:56 |
 | 8 | [We Raise A Sound](https://open.spotify.com/track/40GqiANrV567E5vyDvHlos) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [121selah](https://open.spotify.com/artist/52yIVRZsu5TlIgsraHzELa) | [We Raise A Sound](https://open.spotify.com/album/6JnxMe1t7VH6RP1mcJJBcg) | 7:12 |
-| 9 | [Udumo \- Live at Pont De Val](https://open.spotify.com/track/1sZAiagVPE4eQwaw056YaM) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Udumo \(Live at Pont De Val\)](https://open.spotify.com/album/6YSvp90Kw08mG6Wcaz162p) | 6:46 |
+| 9 | [Na Me Be This](https://open.spotify.com/track/7sBlJJNFdQH6x0i8ACg7XO) | [Waje](https://open.spotify.com/artist/6RaKdMfhnMdLFXvsWSZaa0) | [Unbroken](https://open.spotify.com/album/4d1tJfuZwH1zzlMdP2CbgH) | 3:29 |
 | 10 | [Fix My Eyes on You](https://open.spotify.com/track/1kpwm7MhD1TXAG7Sd9CNNN) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Born of God](https://open.spotify.com/album/1IkGtT3gU6fHxhqRVL6inf) | 5:32 |
-| 11 | [Faithful](https://open.spotify.com/track/0q4SXFe7bOiKsxOKIoXLr4) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Faithful](https://open.spotify.com/album/5YPxw37RZOlbWsVR08fcQ7) | 4:25 |
-| 12 | [Haleluyah Mdumiseni \(Live\)](https://open.spotify.com/track/0cnL9GGXyZen3MtNb4pQCl) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Restored \(Live\)](https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5) | 7:13 |
-| 13 | [Xa Ndiyekelelwa \(Live\)](https://open.spotify.com/track/3hWGj0qXuKwjyM3Lf9ATMI) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Tshepiso](https://open.spotify.com/artist/0eUzQtxmaaNwA1wkyq4b2I), [Thando](https://open.spotify.com/artist/3bQm9hhUUYYmq9RHfReyhn) | [Spirit of Praise, Vol\. 5 \(Live\)](https://open.spotify.com/album/5Et0R7qd6D6SupvR8TScaD) | 6:46 |
-| 14 | [WETIN I GAIN](https://open.spotify.com/track/5ol1H9REx8MYJi8f27BMmU) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [WETIN I GAIN](https://open.spotify.com/album/0nfZJtb8Utj8YufZVMNG6O) | 3:52 |
-| 15 | [No Void](https://open.spotify.com/track/5sqjOtOZB4MAvMO43ZeG1i) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [No Void](https://open.spotify.com/album/4r6aQghIBY7PwUViivOTQT) | 4:54 |
+| 11 | [Winning](https://open.spotify.com/track/0x6vfr1PGNAMZvP0CJzbSZ) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Winning](https://open.spotify.com/album/4jU3efPt9KBEIGQotXzMAs) | 6:00 |
+| 12 | [Faithful](https://open.spotify.com/track/0q4SXFe7bOiKsxOKIoXLr4) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Faithful](https://open.spotify.com/album/5YPxw37RZOlbWsVR08fcQ7) | 4:25 |
+| 13 | [Haleluyah Mdumiseni \(Live\)](https://open.spotify.com/track/0cnL9GGXyZen3MtNb4pQCl) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Restored \(Live\)](https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5) | 7:13 |
+| 14 | [Xa Ndiyekelelwa \(Live\)](https://open.spotify.com/track/3hWGj0qXuKwjyM3Lf9ATMI) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Tshepiso](https://open.spotify.com/artist/0eUzQtxmaaNwA1wkyq4b2I), [Thando](https://open.spotify.com/artist/3bQm9hhUUYYmq9RHfReyhn) | [Spirit of Praise, Vol\. 5 \(Live\)](https://open.spotify.com/album/5Et0R7qd6D6SupvR8TScaD) | 6:46 |
+| 15 | [WETIN I GAIN](https://open.spotify.com/track/5ol1H9REx8MYJi8f27BMmU) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [WETIN I GAIN](https://open.spotify.com/album/0nfZJtb8Utj8YufZVMNG6O) | 3:52 |
 | 16 | [Child Of Heaven \- Remake](https://open.spotify.com/track/5bRLQ7hI4PWjsVEZsNhDyj) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Child Of Heaven \(Remake\)](https://open.spotify.com/album/3M733uXqxXk5zhofXoqxSy) | 4:30 |
 | 17 | [Nkosi Ndithembe Wena](https://open.spotify.com/track/0EZNwUJat1DX09UdqoEm4S) | [Joey Mofoleng](https://open.spotify.com/artist/6zS58BpzrB57jlKWpQ7ZUW) | [After This](https://open.spotify.com/album/72vZlTX5LfYF5FT4DHIhGC) | 3:22 |
 | 18 | [Love On The Cross](https://open.spotify.com/track/0PMWpJxA80NhC0SiGRAthQ) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Love On The Cross](https://open.spotify.com/album/1W7jtTkVnZOimPea1SQeBh) | 5:50 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 | 69 | [Praise Medley](https://open.spotify.com/track/4QUYIjKArUfMlssMMVpp1f) | [Ronke Adesokan](https://open.spotify.com/artist/6RDJ0S6zPBDwxTMOawmhR2) | [Celebrating Jesus](https://open.spotify.com/album/02Yl0lBAqxEcUTrIircQbU) | 22:58 |
 | 70 | [Mighty God \- Remix](https://open.spotify.com/track/3wJ7y9A3d6Nx8dgzWYvwMR) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Mighty God \(Remix\)](https://open.spotify.com/album/0FEwRFVRGygc77wGe6gUOX) | 5:23 |
 
-Snapshot ID: `MTY2MTUwNjk1MSwwMDAwMDAwMGExYTZjOWZiMGVjOGZjYzk0ZjIwODE0NWMyMzk5YzNl`
+Snapshot ID: `MTY2MjA3MzIwMCwwMDAwMDAwMGFmMzFiNTFmNTNjZDNhNjE1YmE5ZWE1ZTI2OThkZWU4`

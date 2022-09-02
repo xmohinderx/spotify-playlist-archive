@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists. Cover: Dylan Fraser",
+  "description": "Discover your new favourite artists. Cover: S Dog",
   "name": "RADAR: First Listen",
   "published_playlist_ids": [
     "6qn9QC3gawWvZcEMTsuVpt"
@@ -445,6 +445,24 @@
       "duration_ms": 161271,
       "name": "CRUSHED VELVET",
       "url": "https://open.spotify.com/track/5mHAhU2mrJ0WjRx818XmYS"
+    },
+    {
+      "album": {
+        "name": "Cushty",
+        "url": "https://open.spotify.com/album/0Y7N8fG5BkaQFNumqr5SgV"
+      },
+      "artists": [
+        {
+          "name": "S Dog",
+          "url": "https://open.spotify.com/artist/3TTfMQ8A4tpY8rrN1ZID38"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164461,
+      "name": "Cushty",
+      "url": "https://open.spotify.com/track/3iJTVDrJi1SdhNBAysDARI"
     },
     {
       "album": {

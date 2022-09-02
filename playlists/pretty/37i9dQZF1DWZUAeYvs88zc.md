@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 
 > For all of us dancing on our own.
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,786 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,092 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,25 +57,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 | 47 | [the older you get, the less you cry](https://open.spotify.com/track/280MV4FuB5uusjx8wj1dpt) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [gg bb xx \(deluxe\)](https://open.spotify.com/album/77Df1klImSWFeDQh96h626) | 3:22 |
 | 48 | [echo](https://open.spotify.com/track/7586fVxjKm5IoVTTgDEwcD) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [echo](https://open.spotify.com/album/2V5N2rf5gd0vzQ405Hs3en) | 3:18 |
 | 49 | [Rare](https://open.spotify.com/track/7HMmFQsKsljwTw8bS7lu19) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:40 |
-| 50 | [Vicious](https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Vicious](https://open.spotify.com/album/7p3M1cRTouWTpmBDhlEAKS) | 2:29 |
-| 51 | [Dancing On My Own \- Tiësto Remix](https://open.spotify.com/track/2EHVjRFRSsXQaHAsys74Us) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 3:42 |
+| 50 | [Dancing On My Own \- Tiësto Remix](https://open.spotify.com/track/2EHVjRFRSsXQaHAsys74Us) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 3:42 |
+| 51 | [Vicious](https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Vicious](https://open.spotify.com/album/7p3M1cRTouWTpmBDhlEAKS) | 2:29 |
 | 52 | [Healing](https://open.spotify.com/track/2jgq1RlYLt4FZldm4KAfj2) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Healing](https://open.spotify.com/album/3sjbCpkd5bRaUuDMxKUy3s) | 3:07 |
 | 53 | [rubberband](https://open.spotify.com/track/05ABOPiW13nqIedJfqmfPM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [rubberband](https://open.spotify.com/album/3CWYvhScPEskXPOYiXG8SH) | 2:27 |
 | 54 | [Love Runs Out \(feat\. G\-Eazy & Sasha Alex Sloan\)](https://open.spotify.com/track/3jbAzLVcHiI5hYSkcKe1Ty) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Love Runs Out \(feat\. G\-Eazy & Sasha Alex Sloan\)](https://open.spotify.com/album/0Lwms3Z89fmqqyVWPkZUCY) | 2:44 |
 | 55 | [aftermath](https://open.spotify.com/track/4nzBST9JdZIy9qfilr93Po) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [aftermath](https://open.spotify.com/album/1fwElcYJZ9su3GXu627HNs) | 2:46 |
 | 56 | [Black Hole](https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Black Hole](https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz) | 3:20 |
 | 57 | [No Romeo](https://open.spotify.com/track/2GNH6YhM2rBaJoxYKy0iF8) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [No Romeo EP](https://open.spotify.com/album/09ItArIl88LxU5InoksUTo) | 3:11 |
-| 58 | [Stay Together](https://open.spotify.com/track/6Vv8kZbiRdSbybIukXjvWF) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing](https://open.spotify.com/album/3edu0vIRVJ6vcK3yagi6oS) | 2:20 |
-| 59 | [The Bottom](https://open.spotify.com/track/4Sk74gcXTe9dnE1HU5Pn1y) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 3:00 |
+| 58 | [The Bottom](https://open.spotify.com/track/4Sk74gcXTe9dnE1HU5Pn1y) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 3:00 |
+| 59 | [Stay Together](https://open.spotify.com/track/6Vv8kZbiRdSbybIukXjvWF) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing](https://open.spotify.com/album/3edu0vIRVJ6vcK3yagi6oS) | 2:20 |
 | 60 | [Happy & Sad](https://open.spotify.com/track/04MoJkJzCoU9ukeewv5Vzu) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:03 |
 | 61 | [If It Wasn't For The Nights](https://open.spotify.com/track/3R47KOuGuGvmoeQqbODPa3) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 5:09 |
 | 62 | [All You Had To Do Was Stay](https://open.spotify.com/track/0dAb8TY433dl3ZfXYCLE19) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:13 |
 | 63 | [Dancing with Tears in My Eyes](https://open.spotify.com/track/3or3oEITvJmMwZRYeWSaen) | [Ultravox](https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI) | [The Collection](https://open.spotify.com/album/3gMzGxXgstsEZEfjdsIwnM) | 4:04 |
 | 64 | [This Town \(feat\. Sasha Alex Sloan\)](https://open.spotify.com/track/4aSfgWmRa9KsISD4Jmx7QB) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Stargazing \- EP](https://open.spotify.com/album/2sPYPyDFwgi1jrRTGhoxq2) | 3:22 |
-| 65 | [tears in the club \(feat\. the weeknd\)](https://open.spotify.com/track/1GsSM1Fju5J1Fsu51jEsTg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:16 |
-| 66 | [Lie](https://open.spotify.com/track/04NMWz4ctkuILV6mUR2iWp) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Lie](https://open.spotify.com/album/6w0e4iHPyMH9yc30NwlV7b) | 3:29 |
-| 67 | [Sad Forever](https://open.spotify.com/track/1DVWkJEjgVStgU2EbR9vpz) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 3:23 |
-| 68 | [Psycho](https://open.spotify.com/track/2Gs2mHNQF2Lt7a9iIarcji) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [You Signed Up For This](https://open.spotify.com/album/1X1EZB1hCoymZ9gU8JKv86) | 3:04 |
+| 65 | [Lie](https://open.spotify.com/track/04NMWz4ctkuILV6mUR2iWp) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Lie](https://open.spotify.com/album/6w0e4iHPyMH9yc30NwlV7b) | 3:29 |
+| 66 | [tears in the club \(feat\. the weeknd\)](https://open.spotify.com/track/1GsSM1Fju5J1Fsu51jEsTg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:16 |
+| 67 | [Psycho](https://open.spotify.com/track/2Gs2mHNQF2Lt7a9iIarcji) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [You Signed Up For This](https://open.spotify.com/album/1X1EZB1hCoymZ9gU8JKv86) | 3:04 |
+| 68 | [Sad Forever](https://open.spotify.com/track/1DVWkJEjgVStgU2EbR9vpz) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 3:23 |
 | 69 | [All Love](https://open.spotify.com/track/7iv32XEy2HlM7PqQO4lp5f) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [you ruined new york city for me](https://open.spotify.com/album/4aGGhfTv8mJ9JAiz8dsa0L) | 3:13 |
 | 70 | [24](https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [24](https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ) | 2:13 |
 | 71 | [You Let Me Down](https://open.spotify.com/track/5vItiIbaaoTxihU8uAlRbq) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:13 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 | 79 | [What's It Gonna Be?](https://open.spotify.com/track/1Jb8fejyUddXtl2JKAEFmQ) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Nothing's Real](https://open.spotify.com/album/2igeHhP9UZ7ko10H1K0DbP) | 3:34 |
 | 80 | [Blue](https://open.spotify.com/track/4a1RWaG4BTkifgMSx3rpf3) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Life Support](https://open.spotify.com/album/1TKYO9znkrY14VayHze05r) | 3:49 |
 
-Snapshot ID: `MTY2MTQ4NjQ2MCwwMDAwMDAwMDUyNTg1ZTllZmRiMGVjMDY3OWUwMGQ5MTY2ODhkNmQ1`
+Snapshot ID: `MTY2MTQ4NjQ2MCwwMDAwMDAwMGFhNjRlNDNlYWNiN2EyODNkYTE4NGYwZjY2ZDk3MTEz`

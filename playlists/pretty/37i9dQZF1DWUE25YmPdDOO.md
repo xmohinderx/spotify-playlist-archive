@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE25YmPdDOO.md) - [plain]
 
 > Canciones de Rock con un toque de nostalgia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,975 likes - 70 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,043 likes - 70 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,11 +48,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE25YmPdDOO.md) - [plain]
 | 38 | [La Muralla Verde](https://open.spotify.com/track/1qvY1z3Wm3sAYeHfPTnrbI) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Originales \- 20 Exitos](https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV) | 2:41 |
 | 39 | [Viento](https://open.spotify.com/track/6QJCZyJv1fhkCyZA3lRoAD) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Caifanes](https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr) | 3:56 |
 | 40 | [50 Ways to Leave Your Lover](https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Still Crazy After All These Years](https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W) | 3:37 |
-| 41 | [Piece of My Heart](https://open.spotify.com/track/1xKQbqQtQWrtQS47fUJBtl) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Cheap Thrills](https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX) | 4:13 |
-| 42 | [Again](https://open.spotify.com/track/5c1QJAiC3773EwiZLwHf5x) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Again](https://open.spotify.com/album/7aiQ0WWBBC0HzeI0PgGYJs) | 3:51 |
-| 43 | [I Hate Myself for Loving You](https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U) | 4:06 |
+| 41 | [Again](https://open.spotify.com/track/5c1QJAiC3773EwiZLwHf5x) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Again](https://open.spotify.com/album/7aiQ0WWBBC0HzeI0PgGYJs) | 3:51 |
+| 42 | [Piece of My Heart](https://open.spotify.com/track/1xKQbqQtQWrtQS47fUJBtl) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Cheap Thrills](https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX) | 4:13 |
+| 43 | [Adiós](https://open.spotify.com/track/1rh4kDY9T4fHVDum8Foi5k) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 3:53 |
 | 44 | [Somebody To Love \- Remastered 2011](https://open.spotify.com/track/6cFZ4PLC19taNlpl9pbGMf) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(Deluxe Remastered Version\)](https://open.spotify.com/album/0lmQ6rAGcChLjGXM52Qu3i) | 4:56 |
-| 45 | [Adiós](https://open.spotify.com/track/1rh4kDY9T4fHVDum8Foi5k) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 3:53 |
+| 45 | [I Hate Myself for Loving You](https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U) | 4:06 |
 | 46 | [I'll Be There For You](https://open.spotify.com/track/07HqIg8BnB1lJElnw2ZiSR) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [New Jersey \(Deluxe Edition\)](https://open.spotify.com/album/3mcKOl0KNe65BqiBa40WxR) | 5:46 |
 | 47 | [Brown Sugar \- 2009 Remaster](https://open.spotify.com/track/61UuPxxYUvacEH6SHIK3sU) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 3:48 |
 | 48 | [Labios Compartidos](https://open.spotify.com/track/4C2zOFgrXxfNGNpYQWIcaH) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Amar Es Combatir](https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB) | 5:17 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE25YmPdDOO.md) - [plain]
 | 69 | [Crazy Little Thing Called Love \- Remastered 2011](https://open.spotify.com/track/24SGws6o7m3TzROMO5Qc0g) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Forever](https://open.spotify.com/album/6g8ggVFiHMeQ3q55pCdi1G) | 2:43 |
 | 70 | [Nada Valgo Sin Tu Amor](https://open.spotify.com/track/7BNxik1I5igu4BQEex9WB8) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Nada Valgo Sin Tu Amor](https://open.spotify.com/album/0lwLL5TlBM5WJXm7MX1rxj) | 3:15 |
 
-Snapshot ID: `MTY2MTkzMDgwMCwwMDAwMDAwMDExNjdhOTFjNjA1NjkxM2ZiNGM2YzM1ZTM3NDlkZjJj`
+Snapshot ID: `MTY2MTkzMDgwMCwwMDAwMDAwMDZkYzdjNjMzMWE0NzcxMTY0NmJiZWM0NDE4OGU0YTEy`

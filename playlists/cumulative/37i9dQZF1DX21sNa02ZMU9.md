@@ -4,7 +4,7 @@
 
 > Feel on top of the world with these uplifting anthems of the 00s
 
-194 songs - 12 hr 20 min - [published](https://open.spotify.com/playlist/1JS0kEefQI1qgwW3Y378aD)
+195 songs - 12 hr 25 min - [published](https://open.spotify.com/playlist/1JS0kEefQI1qgwW3Y378aD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Can't Stop](https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [By the Way \(Deluxe Edition\)](https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1) | 4:29 | 2022-05-09 |  |
 | [Catch My Disease](https://open.spotify.com/track/6cmgXQozMvu3LJgT9Z8HPC) | [Ben Lee](https://open.spotify.com/artist/06y1hH4hu3rcTUXHJevPCf) | [Awake Is The New Sleep](https://open.spotify.com/album/31vkFfU7fegCtuirdMqxtE) | 4:13 | 2021-06-15 | 2022-07-29 |
 | [Chasing Cars](https://open.spotify.com/track/11bD1JtSjlIgKgZG2134DZ) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/6fb7z9rBdrjzpBTg1R1Bwp) | 4:27 | 2022-05-09 | 2022-08-26 |
+| [Chasing Cars](https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) | 4:27 | 2022-05-09 |  |
 | [Clocks](https://open.spotify.com/track/0BCPKOYdS2jbQ8iyB56Zns) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:07 | 2022-05-09 |  |
 | [Club Can't Handle Me \(feat\. David Guetta\)](https://open.spotify.com/track/6ebkx7Q5tTxrCxKq4GYj0Y) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Only One Flo \(Part 1\)](https://open.spotify.com/album/1TwNATuAqnNjTd5BSvFZlS) | 3:54 | 2022-05-09 |  |
 | [Crazy In Love \(feat\. Jay\-Z\)](https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 3:56 | 2021-06-15 |  |
@@ -182,7 +183,7 @@
 | [Unwritten](https://open.spotify.com/track/1D1nixOVWOxvNfWi0UD7VX) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/1meis09isQJFDA65afUTt8) | 4:19 | 2021-06-15 | 2022-07-29 |
 | [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 | 2022-05-09 |  |
 | [Upside Down](https://open.spotify.com/track/0aJrYfARfCKzv6gXjhs4SZ) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Upside Down](https://open.spotify.com/album/4nvgSs9EQXS5AIwprqq8OU) | 3:29 | 2021-06-15 | 2022-07-22 |
-| [Valerie \(feat\. Amy Winehouse\) \- Version Revisited](https://open.spotify.com/track/6kopmMZiyLmw7h66uXcXR7) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Version](https://open.spotify.com/album/15uqXXD0sAdZuxNxTxktlR) | 3:39 | 2021-06-15 |  |
+| [Valerie \(feat\. Amy Winehouse\) \- Version Revisited](https://open.spotify.com/track/6kopmMZiyLmw7h66uXcXR7) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Version](https://open.spotify.com/album/15uqXXD0sAdZuxNxTxktlR) | 3:39 | 2021-06-15 | 2022-09-02 |
 | [Viva La Vida](https://open.spotify.com/track/1SLxVWqXo9zNrrDKRa3m1G) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/4Uo9tGSEkAUYHWfVGHhhZm) | 4:02 | 2021-06-15 | 2022-07-20 |
 | [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 | 2022-05-09 |  |
 | [Voodoo Child](https://open.spotify.com/track/5KVll4Si4pL02nmrUvAHrc) | [Rogue Traders](https://open.spotify.com/artist/3YUrEElXpqiPSbffh9XXZd) | [The Sound Of Drums](https://open.spotify.com/album/5o8IrQOjfnuWNpQtzvZEOP) | 3:57 | 2021-06-15 | 2022-07-17 |

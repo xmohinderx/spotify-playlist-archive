@@ -1,12 +1,12 @@
 {
   "description": "The official 2020 VMAs playlist from MTV + Spotify. See more at <a href=\"http://www.mtv.com/vma\">vma.mtv.com</a> \ud83d\ude80",
-  "num_followers": 106034,
+  "num_followers": 106042,
   "original_name": "MTV VMAs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5ODMwNzU2OSwwMDAwMDAwMGJlYWIxNGFlMTQ0YWVjYzgzOWQ4Y2E3NWFkMTU3MTll",
+  "snapshot_id": "MTU5ODMwNzU2OSwwMDAwMDAwMDhhMDBmYTQzYjY2MDliMTVkNmNlMDRiYTdjMmNjNGM2",
   "tracks": [
     {
       "added_at": "2020-08-24 22:19:29",
@@ -735,6 +735,22 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 208520,
+      "name": "Yummy",
+      "url": "https://open.spotify.com/track/16wAOAZ2OkqoIDN7TpChjR"
+    },
+    {
+      "added_at": "2020-08-24 22:19:29",
+      "album": {
         "name": "MAMACITA",
         "url": "https://open.spotify.com/album/39kXbkUjh0IIyoGBnlGX9V"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 249142,
       "name": "MAMACITA",
       "url": "https://open.spotify.com/track/14wf185UxfNbSy8dwt4r4q"
-    },
-    {
-      "added_at": "2020-08-24 22:19:29",
-      "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 208520,
-      "name": "Yummy",
-      "url": "https://open.spotify.com/track/16wAOAZ2OkqoIDN7TpChjR"
     },
     {
       "added_at": "2020-08-24 22:19:29",

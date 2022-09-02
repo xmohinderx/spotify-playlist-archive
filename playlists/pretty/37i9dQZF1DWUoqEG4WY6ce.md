@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoqEG4WY6ce.md) - [plain]
 
 > Hop in.
 
-[Spotify](https://open.spotify.com/user/spotify) - 900,119 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 900,147 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoqEG4WY6ce.md) - [plain]
 | 7 | [Motion Sickness](https://open.spotify.com/track/5xo8RrjJ9CVNrtRg2S3B1R) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 3:49 |
 | 8 | [Young Folks](https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj) | [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Writer's Block](https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2) | 4:36 |
 | 9 | [Reptilia](https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 3:39 |
-| 10 | [Ain't No Rest for the Wicked](https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant \(Expanded Edition\)](https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn) | 2:55 |
-| 11 | [Where Is My Mind?](https://open.spotify.com/track/0KzAbK6nItSqNh8q70tb0K) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Death to the Pixies](https://open.spotify.com/album/2A4zIVdm7JjHaNo9cop985) | 3:49 |
+| 10 | [Where Is My Mind?](https://open.spotify.com/track/0KzAbK6nItSqNh8q70tb0K) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Death to the Pixies](https://open.spotify.com/album/2A4zIVdm7JjHaNo9cop985) | 3:49 |
+| 11 | [Ain't No Rest for the Wicked](https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant \(Expanded Edition\)](https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn) | 2:55 |
 | 12 | [Kingston](https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn) | 3:22 |
 | 13 | [What You Know](https://open.spotify.com/track/3UjtIALeg72qmJiKPWBvM3) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0SD7kwnJEC2oDzQBKEHQnH) | 3:11 |
 | 14 | [Breezeblocks](https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:47 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoqEG4WY6ce.md) - [plain]
 | 26 | [Harness Your Hopes \- B\-side](https://open.spotify.com/track/4vsoWZcvtvSsE0OiVvDDvX) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Brighten the Corners: Nicene Creedence Ed.](https://open.spotify.com/album/2z8iibF0hCuBb9h9gYkuO7) | 3:26 |
 | 27 | [A\-Punk](https://open.spotify.com/track/3AydAydLzyyZutA0375XIz) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:17 |
 | 28 | [1901](https://open.spotify.com/track/3FM33HqRlV7J1QJoPOnd2u) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0IQbQC6V4UuHLcgO9Yt3uu) | 3:13 |
-| 29 | [Wagon Wheel](https://open.spotify.com/track/2XgGdD5d2MW4RNx8KnIjVh) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [O.C.M.S.](https://open.spotify.com/album/71oM4BPgOOgdwTYJeUPush) | 3:52 |
-| 30 | [Maps](https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 3:39 |
+| 29 | [Maps](https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 3:39 |
+| 30 | [Wagon Wheel](https://open.spotify.com/track/2XgGdD5d2MW4RNx8KnIjVh) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [O.C.M.S.](https://open.spotify.com/album/71oM4BPgOOgdwTYJeUPush) | 3:52 |
 | 31 | [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/track/51Lf3l6wx008NdBxCQnD6B) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Del Water Gap](https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE) | 3:19 |
 | 32 | [Sweet Disposition](https://open.spotify.com/track/5RoIXwyTCdyUjpMMkk4uPd) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Conditions](https://open.spotify.com/album/47enZlu6ssi5aFaAxHc0wt) | 3:50 |
 | 33 | [Colors](https://open.spotify.com/track/6d4FWjx72iuRWzn1HwywLK) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas](https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe) | 4:06 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoqEG4WY6ce.md) - [plain]
 | 50 | [Way It Goes](https://open.spotify.com/track/6CES1554HcWMIVroJfmmBm) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Landmark](https://open.spotify.com/album/0vb1g018puu47StlIi9wxC) | 4:05 |
 | 51 | [Window](https://open.spotify.com/track/3hARuUtzTdUuWH1KiLJlSf) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Window](https://open.spotify.com/album/4JxgricHyH0BbMUaefAHfR) | 2:19 |
 | 52 | [Paul](https://open.spotify.com/track/4AA4xt0NvJCUaJYh9SoZ1y) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece](https://open.spotify.com/album/5eSbNHaPAkwpAuo9k0o2YU) | 3:03 |
-| 53 | [Lancaster Nights](https://open.spotify.com/track/48jV8AW50589btXi0Hs5f4) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Lancaster Nights](https://open.spotify.com/album/6VjvYY8DPNwlybF40UyrCl) | 3:10 |
-| 54 | [Dashboard](https://open.spotify.com/track/0Fe3WxeO6lZZxj7ytvbDUh) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [We Were Dead Before The Ship Even Sank](https://open.spotify.com/album/2lXBCL76UL5PCPbfAqKBkz) | 4:06 |
+| 53 | [Dashboard](https://open.spotify.com/track/0Fe3WxeO6lZZxj7ytvbDUh) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [We Were Dead Before The Ship Even Sank](https://open.spotify.com/album/2lXBCL76UL5PCPbfAqKBkz) | 4:06 |
+| 54 | [Lancaster Nights](https://open.spotify.com/track/48jV8AW50589btXi0Hs5f4) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Lancaster Nights](https://open.spotify.com/album/6VjvYY8DPNwlybF40UyrCl) | 3:10 |
 | 55 | [All The Time](https://open.spotify.com/track/0qI1W6chJgvrSAzAkX9JBa) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Bahamas Is Afie](https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK) | 3:54 |
 | 56 | [Coffee](https://open.spotify.com/track/30GGIrrJdSNtecPiFcVP5O) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Sylvan Esso](https://open.spotify.com/album/1862qnxqsLeiNDblknjtiL) | 4:28 |
 | 57 | [Brazil](https://open.spotify.com/track/5ftdTvmQjjsL23t7jxADfI) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Brazil](https://open.spotify.com/album/38qaYdCiewb6NrRvVxWTe4) | 4:12 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoqEG4WY6ce.md) - [plain]
 | 77 | [Bad Dream Baby](https://open.spotify.com/track/4S7misxIYuUVypO0NwDwuW) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Bad Dream Baby](https://open.spotify.com/album/1TBnwPS0Mbn5DsRNeSlvrR) | 2:58 |
 | 78 | [Put a Light On](https://open.spotify.com/track/4ZFHITy0bAeZ3oFfvR0HaI) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Heza](https://open.spotify.com/album/34oLvXQWydwd1KOqgL8UiE) | 3:46 |
 | 79 | [Way With Words](https://open.spotify.com/track/6ioeN8jQ8Qc3tS8dhpoAVi) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Earthtones](https://open.spotify.com/album/1K3XPBfAfPO7jJhqTq4xME) | 4:20 |
-| 80 | [I Need Never Get Old](https://open.spotify.com/track/6YfEvtwpQwGAWZBWzNmoIw) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/album/1uJRMyfjWu3255ihMnNuj4) | 4:13 |
-| 81 | [Mardy Bum](https://open.spotify.com/track/3geFzA6VBSNZUTmV3bCry6) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2) | 2:55 |
+| 80 | [Mardy Bum](https://open.spotify.com/track/3geFzA6VBSNZUTmV3bCry6) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2) | 2:55 |
+| 81 | [I Need Never Get Old](https://open.spotify.com/track/6YfEvtwpQwGAWZBWzNmoIw) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/album/1uJRMyfjWu3255ihMnNuj4) | 4:13 |
 | 82 | [Sunday Funday](https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 4:16 |
 | 83 | [Yoshimi Battles the Pink Robots, Pt\. 1](https://open.spotify.com/track/0ccCwNzXvr1Yoz91vKz31Z) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Yoshimi Battles the Pink Robots](https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf) | 4:47 |
 | 84 | [The Ghost Inside](https://open.spotify.com/track/32fmQsWSAaDas2MJRyMSGG) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Broken Bells](https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx) | 3:18 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoqEG4WY6ce.md) - [plain]
 | 92 | [The Barrel](https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI) | 4:59 |
 | 93 | [California](https://open.spotify.com/track/35QAUfIbfIXT3p3cWhaKxZ) | [The Lagoons](https://open.spotify.com/artist/3oK9o2DLbk1VEda7KOMotd) | [California](https://open.spotify.com/album/4rX32NbzVfD94VvckCyNjc) | 4:21 |
 | 94 | [Oxford Comma](https://open.spotify.com/track/0ful4PHfTIxzXiZSZsXQ0H) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 3:15 |
-| 95 | [Now & Then](https://open.spotify.com/track/41oqThgUF4yiNz77TazXtl) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Now & Then](https://open.spotify.com/album/6uR4bPGGdQHDphbyubK9zc) | 3:25 |
-| 96 | [anything](https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:22 |
+| 95 | [anything](https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:22 |
+| 96 | [Now & Then](https://open.spotify.com/track/41oqThgUF4yiNz77TazXtl) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Now & Then](https://open.spotify.com/album/6uR4bPGGdQHDphbyubK9zc) | 3:25 |
 | 97 | [Car Crash in G Major](https://open.spotify.com/track/24EtJ2vTx6CtaP32S6Arn2) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/1aPZj3S4ORUVOaaFmUgCU6) | 2:12 |
 | 98 | [Caring Is Creepy \- 2021 Remaster](https://open.spotify.com/track/1d1Uc9yNUMvUb0RbakGDt0) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Oh, Inverted World \(20th Anniversary Remaster\)](https://open.spotify.com/album/5XmhHMj5LZLWo32aA6ntKE) | 3:19 |
 | 99 | [This Year](https://open.spotify.com/track/0s9aeZriwqyBYfxFzsd20R) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Sunset Tree](https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ) | 3:52 |
 | 100 | [Furr](https://open.spotify.com/track/2fgbsGWU2Dum08uifQHhiB) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [Furr](https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7) | 4:07 |
 
-Snapshot ID: `MTY2MTEwMTg3NiwwMDAwMDAwMGExOGMwNzgxZmJjMDhlNjFhMjFjNDc2YTcxYmQ0Zjhl`
+Snapshot ID: `MTY2MTEwMTg3NiwwMDAwMDAwMDNiZjZkNmU0ODM2OTg3N2UxNjc3MzQ4MTE2OTlhYjMy`

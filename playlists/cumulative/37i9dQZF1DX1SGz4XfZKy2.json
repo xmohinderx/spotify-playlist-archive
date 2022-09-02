@@ -325,7 +325,7 @@
       ],
       "date_added": "2021-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 276679,
       "name": "Dance Layan Dance",
       "url": "https://open.spotify.com/track/2YMpjElPsH8VfYhTLtCauC"
@@ -933,10 +933,28 @@
       ],
       "date_added": "2021-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 549546,
       "name": "Les Ondes Orientales",
       "url": "https://open.spotify.com/track/3Rs2IEDmXqOFQZfzs6qw4N"
+    },
+    {
+      "album": {
+        "name": "Abu Nawas Rhapsody",
+        "url": "https://open.spotify.com/album/21B3ckDMGBE7WzorsseUkl"
+      },
+      "artists": [
+        {
+          "name": "Dhafer Youssef",
+          "url": "https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx"
+        }
+      ],
+      "date_added": "2021-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 549546,
+      "name": "Les ondes orientales",
+      "url": "https://open.spotify.com/track/7qJ3fjjufJ4VYvUguGne0y"
     },
     {
       "album": {
@@ -1405,7 +1423,7 @@
       ],
       "date_added": "2021-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 277986,
       "name": "Shadow of Sun, Pt. 2",
       "url": "https://open.spotify.com/track/6OSObgHJnf1yR6eDnbYIj5"

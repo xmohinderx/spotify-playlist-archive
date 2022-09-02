@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8xrpik0esU.md) - [plain]
 
 > Relax with this soothing soundtrack from the nineties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 738,329 likes - 80 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 738,180 likes - 80 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8xrpik0esU.md) - [plain]
 | 38 | [My Heart Will Go On \- Love Theme from "Titanic"](https://open.spotify.com/track/33LC84JgLvK2KuW43MfaNq) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Let's Talk About Love](https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs) | 4:40 |
 | 39 | [Thank You](https://open.spotify.com/track/3yUcJwYu7fXAfqMj9krY6l) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [No Angel](https://open.spotify.com/album/7ydMeYrv8bFFRkkHepoJM4) | 3:38 |
 | 40 | [I Have Nothing](https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:49 |
-| 41 | [All That She Wants](https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [The Sign](https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB) | 3:31 |
-| 42 | [Truly Madly Deeply](https://open.spotify.com/track/013AWvizllIUEC2FOBzOnh) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Savage Garden](https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4) | 4:37 |
+| 41 | [Truly Madly Deeply](https://open.spotify.com/track/013AWvizllIUEC2FOBzOnh) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Savage Garden](https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4) | 4:37 |
+| 42 | [All That She Wants](https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [The Sign](https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB) | 3:31 |
 | 43 | [Shiny Happy People](https://open.spotify.com/track/1v2zyAJrChw5JnfafSkwkJ) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(25th Anniversary Edition\)](https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK) | 3:45 |
 | 44 | [Kiss from a Rose](https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Seal](https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1) | 4:48 |
 | 45 | [Bed Of Roses](https://open.spotify.com/track/1zng9uqqXoPkmU05nsAlsw) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Keep The Faith](https://open.spotify.com/album/2FbviTPUjgJJUxsGM1sGDq) | 6:34 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8xrpik0esU.md) - [plain]
 | 47 | [Ordinary World](https://open.spotify.com/track/0wokCRaKD0zPNhMRXAgVsr) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Duran Duran](https://open.spotify.com/album/0PqCkTvKFJxzr9uujq7a3T) | 5:40 |
 | 48 | [Because You Loved Me \(Theme from "Up Close and Personal"\)](https://open.spotify.com/track/28UMiBhn383n9S7GL4tsxD) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling into You](https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR) | 4:33 |
 | 49 | [Lovefool](https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon \(Remastered\)](https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ) | 3:13 |
-| 50 | [Bills, Bills, Bills](https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 4:16 |
-| 51 | [Butterfly](https://open.spotify.com/track/4BggEwLhGfrbrl7JBhC8EC) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Gift Of Game](https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin) | 3:36 |
+| 50 | [Butterfly](https://open.spotify.com/track/4BggEwLhGfrbrl7JBhC8EC) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Gift Of Game](https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin) | 3:36 |
+| 51 | [Bills, Bills, Bills](https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 4:16 |
 | 52 | [Shape Of My Heart](https://open.spotify.com/track/6CKoWCWAqEVWVjpeoJXyNH) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Ten Summoner's Tales](https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg) | 4:39 |
 | 53 | [Sweat \(A La La La La Long\)](https://open.spotify.com/track/1SssFw74DdHVjRa6ADggdD) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [Blazzin' Fire](https://open.spotify.com/album/0zLd8jpRt4m6FWCu81Fb9n) | 3:47 |
 | 54 | [Alright](https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [I Should Coco](https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd) | 3:00 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8xrpik0esU.md) - [plain]
 | 76 | [All My Life](https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg) | [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [Love Always](https://open.spotify.com/album/5cmtcMzuUZq8vxS5T7NVPu) | 5:31 |
 | 77 | [Streets of Philadelphia \- Single Edit](https://open.spotify.com/track/3fbnbn6A5O5RNb08tlUEgd) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Greatest Hits](https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG) | 3:15 |
 | 78 | [Remember the Time](https://open.spotify.com/track/4jnFqNWeJCeCRHc4HCdxfd) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Dangerous](https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg) | 3:59 |
-| 79 | [Hallelujah](https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:53 |
-| 80 | [She](https://open.spotify.com/track/31Tp5iKrVUayn65qhg06nE) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [In Motion Pictures](https://open.spotify.com/album/2VNMoSXYKrjAAU4aqiTvtY) | 3:07 |
+| 79 | [Without You](https://open.spotify.com/track/1kMOJBmpfWD9fir6st9uqS) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/2NKxb7pk04CuZab5udkGUl) | 3:33 |
+| 80 | [Hallelujah](https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:53 |
 
-Snapshot ID: `MTY0MjUwODg4MCwwMDAwMDAwMDJkOTc0ODZmMGI4ZTdhOTFhZmIyY2Q0Y2JlODc3Yjdi`
+Snapshot ID: `MTY0MjUwODg4MCwwMDAwMDAwMDk2M2M1NTcwMjJiZjFiYjRmZDMwOGFhMzJiM2FlNGU4`

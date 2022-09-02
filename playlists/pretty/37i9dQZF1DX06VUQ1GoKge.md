@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 
 > Louder, faster! Kickass metal tracks to drive you forward.
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,861 likes - 110 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,146 likes - 110 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 | 39 | [Twilight Of The Thunder God](https://open.spotify.com/track/5u3l2TONYacJgmRPQVaF9y) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Twilight Of The Thunder God](https://open.spotify.com/album/3j0GCUTDz53x9Mzl8L1Fwz) | 4:08 |
 | 40 | [Drop Dead Cynical](https://open.spotify.com/track/5VToMJACRoeT0YZNs5CYyp) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [MASSIVE ADDICTIVE](https://open.spotify.com/album/0GCcO9StyRRAGumjCOTSpN) | 3:17 |
 | 41 | [Only for the Weak](https://open.spotify.com/track/0JBQnLKfLXmlkquabLtAgd) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Clayman](https://open.spotify.com/album/1hVhTWO9hlpPr7T8ORczRd) | 4:54 |
-| 42 | [Blood](https://open.spotify.com/track/7gQ7DfSSc3b8e4cHtFnDxu) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Ember](https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr) | 3:09 |
+| 42 | [Sweating Bullets \- Remastered 2004](https://open.spotify.com/track/6i7IXg8j7ZngiEOgBYjkhw) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Countdown To Extinction](https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e) | 5:27 |
 | 43 | [Night Witches](https://open.spotify.com/track/1xBRGN41DWx2vwNFY5CvGe) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Heroes](https://open.spotify.com/album/5TdhTTvwtD0ekZBYve97r7) | 3:01 |
-| 44 | [Sweating Bullets \- Remastered 2004](https://open.spotify.com/track/6i7IXg8j7ZngiEOgBYjkhw) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Countdown To Extinction](https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e) | 5:27 |
+| 44 | [Blood](https://open.spotify.com/track/7gQ7DfSSc3b8e4cHtFnDxu) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Ember](https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr) | 3:09 |
 | 45 | [More Human Than Human](https://open.spotify.com/track/1NbJFhkVdD47YZ2IojKkJi) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8) | [Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head](https://open.spotify.com/album/3HugnfabsMODIbxzwxS5xC) | 4:28 |
 | 46 | [Sun Doesn't Rise](https://open.spotify.com/track/24CeaRaJHiMKFAVZTCu8Y0) | [Mushroomhead](https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M) | [XIII](https://open.spotify.com/album/3N1Ehmz49Lavsi23cKFWDv) | 3:13 |
 | 47 | [Blinded](https://open.spotify.com/track/2HdjEa5BP2VACt1velDTIk) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Shaped by Fire](https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww) | 3:22 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 | 55 | [Down for Life](https://open.spotify.com/track/3pKsUMqpVr4ZJ13Mm91Xig) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [The Gathering](https://open.spotify.com/album/0dYgfOuAerUldWRodoOR6J) | 3:23 |
 | 56 | [War Eternal](https://open.spotify.com/track/0WZZENH0kt3O2cBE8q5IRq) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [War Eternal](https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN) | 4:16 |
 | 57 | [Genocidal Humanoidz](https://open.spotify.com/track/3Sg3bOiD0kE4D5DcXk48Ds) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Protect The Land / Genocidal Humanoidz](https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M) | 2:35 |
-| 58 | [Archangel](https://open.spotify.com/track/63aGgWIoGfl3wxykzje8eJ) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Manifest](https://open.spotify.com/album/0i8Xkm6i0Ej627KFK7GqJa) | 3:23 |
-| 59 | [Great War](https://open.spotify.com/track/4fmr8c3rh0dUKjw14UGfaH) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [The Great War](https://open.spotify.com/album/7FtCDX4COLE3HR2vBv7411) | 4:28 |
+| 58 | [Great War](https://open.spotify.com/track/4fmr8c3rh0dUKjw14UGfaH) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [The Great War](https://open.spotify.com/album/7FtCDX4COLE3HR2vBv7411) | 4:28 |
+| 59 | [Archangel](https://open.spotify.com/track/63aGgWIoGfl3wxykzje8eJ) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Manifest](https://open.spotify.com/album/0i8Xkm6i0Ej627KFK7GqJa) | 3:23 |
 | 60 | [You Only Live Once](https://open.spotify.com/track/4Ku3OOZWR4tpKNCVFXILY8) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [The Black Crown](https://open.spotify.com/album/3oJKuFPVZTSeNc8G4UYV4L) | 3:12 |
 | 61 | [Demons Are a Girl's Best Friend](https://open.spotify.com/track/1KCDsPKFISNM2YZFFAoI7s) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [The Sacrament of Sin](https://open.spotify.com/album/2t3dociTSaDTmqIlN21rmC) | 3:38 |
 | 62 | [The Remedy](https://open.spotify.com/track/63GJDO5mxiFP1ZQEpdUWRd) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [The Mortal Coil](https://open.spotify.com/album/1bxVLZDxByhblJftVPTddl) | 4:03 |
@@ -74,16 +74,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 | 64 | [No More](https://open.spotify.com/track/2xECSFHPgCyElhTVRaHVYP) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Evolution \(Deluxe Edition\)](https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n) | 3:52 |
 | 65 | [Doomsday](https://open.spotify.com/track/75R95k0ICuZBFVEjBauOtt) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 4:08 |
 | 66 | [Repentless](https://open.spotify.com/track/6W2KBpMMXW17r7dPyqi8Iu) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Repentless](https://open.spotify.com/album/5QTGKCuJbyViaQQXjHOvjL) | 3:19 |
-| 67 | [Viral](https://open.spotify.com/track/23nQ0OXajph2n9yzYjP7Hs) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Manifest](https://open.spotify.com/album/0i8Xkm6i0Ej627KFK7GqJa) | 3:01 |
-| 68 | [Blacklist](https://open.spotify.com/track/3iUJrkMilUVkUKtYZK7Th4) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [Tempo of the Damned](https://open.spotify.com/album/3sNPwtcV7Xv9CixCk0PpqP) | 6:16 |
+| 67 | [Blacklist](https://open.spotify.com/track/3iUJrkMilUVkUKtYZK7Th4) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [Tempo of the Damned](https://open.spotify.com/album/3sNPwtcV7Xv9CixCk0PpqP) | 6:16 |
+| 68 | [Viral](https://open.spotify.com/track/23nQ0OXajph2n9yzYjP7Hs) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Manifest](https://open.spotify.com/album/0i8Xkm6i0Ej627KFK7GqJa) | 3:01 |
 | 69 | [Cloud Connected](https://open.spotify.com/track/0dHogHUS4xgLOoFBt0ko1j) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Reroute to Remain](https://open.spotify.com/album/2V5Jx67RInNn2v0LGihiWh) | 3:40 |
 | 70 | [Hardwired](https://open.spotify.com/track/7myke8Id4WyKFlWcRBJdIF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt) | 3:11 |
 | 71 | [Angel Of Death](https://open.spotify.com/track/61dTqhd46yMkSWmC5LAh5F) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Reign In Blood](https://open.spotify.com/album/2DumvqHl78bNXuvU9kQfPN) | 4:51 |
 | 72 | [Letting You Go](https://open.spotify.com/track/7rGN3oqzCpG2mLcwoPwDQm) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Gravity](https://open.spotify.com/album/28sCbClwbAhHN6ovutizQg) | 3:43 |
 | 73 | [Halo](https://open.spotify.com/track/1QixTwDZCcfBzA7QMyont0) | [Soil](https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP) | [Scars \(Expanded Edition\)](https://open.spotify.com/album/2XLiRCMRy5WuuF373tKBZ8) | 3:15 |
 | 74 | [Shadows Inside](https://open.spotify.com/track/0uyvc0R0wJ6Fu3E01UtlzJ) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Shadows Inside](https://open.spotify.com/album/6Qk4RAKoWQbO7ptwqctxgi) | 3:56 |
-| 75 | [You'll Never Find Me](https://open.spotify.com/track/0xcF2mC6MktbXOT7kRiXoF) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Nothing](https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1) | 3:40 |
-| 76 | [The Nexus](https://open.spotify.com/track/3FA9wGCQWqyoqWDPhsGtO1) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [The Nexus](https://open.spotify.com/album/6431V8pOEUPUW4k9ASyKCV) | 3:16 |
+| 75 | [The Nexus](https://open.spotify.com/track/3FA9wGCQWqyoqWDPhsGtO1) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [The Nexus](https://open.spotify.com/album/6431V8pOEUPUW4k9ASyKCV) | 3:16 |
+| 76 | [You'll Never Find Me](https://open.spotify.com/track/0xcF2mC6MktbXOT7kRiXoF) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Nothing](https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1) | 3:40 |
 | 77 | [Get Up Again](https://open.spotify.com/track/7jClgHzR5JG69gar7rVMoX) | [Flaw](https://open.spotify.com/artist/4hFScNSgSkApFw193xlyH7) | [Through The Eyes](https://open.spotify.com/album/4ENDNin0EF4elzkaWLvbAM) | 2:56 |
 | 78 | [St\. Anger](https://open.spotify.com/track/3fOc9x06lKJBhz435mInlH) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [St\. Anger](https://open.spotify.com/album/4ljK2LVKvEPd5xPgUJn0Bs) | 7:21 |
 | 79 | [Handshake with Hell](https://open.spotify.com/track/2t5NYzZgq3cf7ck9Eg51ZQ) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Handshake with Hell](https://open.spotify.com/album/0NGaiN3rXHa54qJwqzLJLV) | 5:38 |
@@ -108,15 +108,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 | 98 | [Black Flame \- Single Edit](https://open.spotify.com/track/6REc2Tq4G2RW5zKXtusTLF) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Black Flame](https://open.spotify.com/album/3wTcqfTsKuDvDdbKYPTE2I) | 3:53 |
 | 99 | [99](https://open.spotify.com/track/5otXJIeiF43SPz7R7ov8GX) | [The Haunted](https://open.spotify.com/artist/2WLmgv66Uq4vt2i36vwkAq) | [rEVOLVEr \(Deluxe Edition\)](https://open.spotify.com/album/4i4PTPhqv08GiiEgQPdnZ0) | 3:58 |
 | 100 | [Panic](https://open.spotify.com/track/2OPcwNyO1CmKwlqiP0Y4DT) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Panic](https://open.spotify.com/album/0OopBWrY0eXqld7UQlRDPj) | 3:20 |
-| 101 | [I Am Damnation](https://open.spotify.com/track/17ExHVQYfJBlTSnbidz0LQ) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [I Am Damnation](https://open.spotify.com/album/4CegSYvQSSoiMLhO0AHEDa) | 4:46 |
-| 102 | [Right Now](https://open.spotify.com/track/1mQaehT2IA8PAb6drI1RNB) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Right Now](https://open.spotify.com/album/0CTiiacS0NVOYgQnHLRPGa) | 3:45 |
+| 101 | [Right Now](https://open.spotify.com/track/1mQaehT2IA8PAb6drI1RNB) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Right Now](https://open.spotify.com/album/0CTiiacS0NVOYgQnHLRPGa) | 3:45 |
+| 102 | [I Am Damnation](https://open.spotify.com/track/17ExHVQYfJBlTSnbidz0LQ) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [I Am Damnation](https://open.spotify.com/album/4CegSYvQSSoiMLhO0AHEDa) | 4:46 |
 | 103 | [STFU](https://open.spotify.com/track/0X6WHH6WvXFTMmwWrsFeob) | [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Aurora](https://open.spotify.com/album/27iMGsljLzEgyFU1rAR0bX) | 3:30 |
 | 104 | [Biggest & the Best](https://open.spotify.com/track/51XrhhPlt1smLatJgcBrUb) | [Clawfinger](https://open.spotify.com/artist/1xE3snzm12GBK259IqEFlY) | [Clawfinger](https://open.spotify.com/album/2UcbjA0yIRk3OR5H7GKnGf) | 3:51 |
 | 105 | [Bird On A Chain](https://open.spotify.com/track/4IF5tqSLknKGYp0uQPZw6P) | [Florence Black](https://open.spotify.com/artist/7ubhUvkY7FB68rfzz7DmW4) | [Bird On A Chain](https://open.spotify.com/album/5eY8X2zrWWaHlm7kMPV7qu) | 2:52 |
 | 106 | [A Flag to Wave](https://open.spotify.com/track/2vbIlZuY3e7Coho7Av1eYz) | [Currents](https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu) | [The Way It Ends](https://open.spotify.com/album/2pVCexIJwUK0Mg9cFtDhxr) | 3:34 |
-| 107 | [Amaranth](https://open.spotify.com/track/1vzqcPRQ6P1Uw7NZ5M77wJ) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Dark Passion Play](https://open.spotify.com/album/4oOfQhhbHBfIcIDwuJjwTy) | 3:51 |
+| 107 | [Ordinary Story](https://open.spotify.com/track/6ULAF7fV7JPQPPHz1aP3vc) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Colony](https://open.spotify.com/album/4Z9xOX9pfFdYLR6Yzqrn1l) | 4:16 |
 | 108 | [Choke](https://open.spotify.com/track/1BW2QdLe6RtJTMJDSYmg9w) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Choke](https://open.spotify.com/album/5DmqJ0pRpRSJ210dLGNiGK) | 3:47 |
-| 109 | [Ordinary Story](https://open.spotify.com/track/6ULAF7fV7JPQPPHz1aP3vc) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Colony](https://open.spotify.com/album/4Z9xOX9pfFdYLR6Yzqrn1l) | 4:16 |
+| 109 | [Amaranth](https://open.spotify.com/track/1vzqcPRQ6P1Uw7NZ5M77wJ) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Dark Passion Play](https://open.spotify.com/album/4oOfQhhbHBfIcIDwuJjwTy) | 3:51 |
 | 110 | [Keep Your Distance](https://open.spotify.com/track/1LnId5vVcxflSKqF7VbdNY) | [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk), [Bryan Garris](https://open.spotify.com/artist/7I25a8b3zJkLqCW2Ikfpfe) | [The Other Side](https://open.spotify.com/album/6wkTgZzU6KpCazo4vJInGH) | 2:51 |
 
-Snapshot ID: `MTY1NDg2MTA1OCwwMDAwMDAwMDgyODViZWY3NWYwYjQ3M2M1ZDJiYTc4OWU4M2IxZGQ4`
+Snapshot ID: `MTY1NDg2MTA1OCwwMDAwMDAwMGNmYTk3ODVjYmNiZWVhYzdkYWNmYzEzNzU3YWNiNjA4`

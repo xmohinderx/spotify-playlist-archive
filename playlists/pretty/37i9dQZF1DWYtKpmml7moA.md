@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 
 > Simmer down with this relaxing selection of old and new Reggae.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,514 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,652 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 | 16 | [Scorpio's Letter](https://open.spotify.com/track/3VSqwaaVdUI2XN5qZqxoMc) | [Taste of Pluto](https://open.spotify.com/artist/3828W36d9HZq4E5THoccvT), [Navy](https://open.spotify.com/artist/5lcuEyOhY94UGnsCgzTFao), [Marwin](https://open.spotify.com/artist/3vvASoIawDVzzybIsuFYyA) | [Scorpio’s Letter](https://open.spotify.com/album/2lY0m3vfvgVafNQ05eMYVW) | 2:55 |
 | 17 | [In Bloom \(feat\. Lila Iké\)](https://open.spotify.com/track/3WwXaLYKNx0qJqyjnzDadx) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [In Search Of Lost Time](https://open.spotify.com/album/3kF6kDaK450bGM7rgOTVgW) | 3:47 |
 | 18 | [Can't Breathe \(Genius T Remix\)](https://open.spotify.com/track/1MmSKeGyQtsw01TZ4P2AaQ) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Can't Breathe \(Genius T Remix\)](https://open.spotify.com/album/6Z1RymNPBPYeamjtuAergh) | 3:22 |
-| 19 | [Don't Give Up](https://open.spotify.com/track/2C7V873vI6fomP10lVwcfm) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Poor Man Style](https://open.spotify.com/album/4aWOyq1s7lwbdLjCL7rG2H) | 3:18 |
+| 19 | [Same Prayer](https://open.spotify.com/track/3MfbMLBGKSHBboWixya7gL) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Same Prayer](https://open.spotify.com/album/0RaQaiuWVvfiqXJq4SGFv3) | 3:53 |
 | 20 | [Brown Skin](https://open.spotify.com/track/1m2c9ZjrXRGRvvPhVOUXrV) | [Richie Spice](https://open.spotify.com/artist/3PqSrKPGZXefu4krgFCZSP) | [In The Streets To Africa](https://open.spotify.com/album/0scr0WIAfItBBbefIYqvuc) | 3:39 |
-| 21 | [Same Prayer](https://open.spotify.com/track/3MfbMLBGKSHBboWixya7gL) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Same Prayer](https://open.spotify.com/album/0RaQaiuWVvfiqXJq4SGFv3) | 3:53 |
-| 22 | [Stars Align](https://open.spotify.com/track/6fhKMr6Yy8hUr28tmWsejh) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [The ExPerience](https://open.spotify.com/album/3fijbBVRaz2CUyoWAV1ZlK) | 3:21 |
-| 23 | [No Money](https://open.spotify.com/track/7iKjwcwtWKvPItHxmPYQi6) | [Romain Virgo](https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg) | [Romain Virgo](https://open.spotify.com/album/67tTLoSUvrnjq9wanpwt50) | 3:30 |
+| 21 | [Don't Give Up](https://open.spotify.com/track/2C7V873vI6fomP10lVwcfm) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Poor Man Style](https://open.spotify.com/album/4aWOyq1s7lwbdLjCL7rG2H) | 3:18 |
+| 22 | [No Money](https://open.spotify.com/track/7iKjwcwtWKvPItHxmPYQi6) | [Romain Virgo](https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg) | [Romain Virgo](https://open.spotify.com/album/67tTLoSUvrnjq9wanpwt50) | 3:30 |
+| 23 | [Stars Align](https://open.spotify.com/track/6fhKMr6Yy8hUr28tmWsejh) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [The ExPerience](https://open.spotify.com/album/3fijbBVRaz2CUyoWAV1ZlK) | 3:21 |
 | 24 | [Faith](https://open.spotify.com/track/1slGuz5uZMRD9OgxyL7KBD) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 2:53 |
 | 25 | [Patra](https://open.spotify.com/track/5dSVsizLbphK8OAJeMexof) | [Navy](https://open.spotify.com/artist/5lcuEyOhY94UGnsCgzTFao) | [Patra](https://open.spotify.com/album/78rDbpH7vb5bD8nBXrZFxz) | 3:25 |
 | 26 | [Cool Runnings](https://open.spotify.com/track/70A4fwnfHIok2WsdKY7X0P) | [Duane Stephenson](https://open.spotify.com/artist/4jdHfc4ZIDd7RYn1reuDg2) | [Dangerously Roots \- Journey From August Town](https://open.spotify.com/album/49dwhhUPqqjIbfPfVoRIc2) | 3:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 | 49 | [Lights Out](https://open.spotify.com/track/07kZfWFKcU7spoxuTEudtS) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn) | [Reggae Gold 2019](https://open.spotify.com/album/5cfZ5mWTwZwyzSSgDeiFN6) | 3:23 |
 | 50 | [Lovely State Of Mind](https://open.spotify.com/track/5Lpkr4t5096HDHqJYiNnJy) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Upside Down 2020](https://open.spotify.com/album/0gZau2nRsooGhfgul60N4l) | 4:06 |
 
-Snapshot ID: `MTY1NTczMjMyNywwMDAwMDAwMDRhZGQwMTdkZTc5OTc0MjhmNDRmYmFlZGExYjVhMDlk`
+Snapshot ID: `MTY1NTczMjMyNywwMDAwMDAwMGE1OTBjNDNiNWI2NTQ3MmFmM2VmYmRmODNlYzlkZDJj`

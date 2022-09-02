@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6Qf2sXTjlH3HH30Ijo6AUp.md) - [plain]
 
 > 100 uplifting and happy songs to get you smiling, put a spring in your step &amp; lift your mood
 
-[Topsify](https://open.spotify.com/user/topsify) - 503,346 likes - 100 songs - 5 hr 52 min
+[Topsify](https://open.spotify.com/user/topsify) - 503,319 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/6Qf2sXTjlH3HH30Ijo6AUp.md) - [plain]
 | 2 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 |
 | 3 | [Just the Way You Are](https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:40 |
 | 4 | [Somebody](https://open.spotify.com/track/4cB03uRsnOSABer7gv7gPt) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Somebody](https://open.spotify.com/album/1DGXrB5U3Vyqs5UXirE7e8) | 3:19 |
-| 5 | [Levitating](https://open.spotify.com/track/1dI77VhaLcQSgQLSnIs03D) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) | 3:23 |
-| 6 | [Rockabye \(feat\. Sean Paul & Anne\-Marie\)](https://open.spotify.com/track/2hrUO4drrO63i7FYbCLBl2) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [What Is Love? \(Deluxe Edition\)](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) | 4:11 |
-| 7 | [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/13Irp51zj01BZu2XtDrnAg) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1KtDsGsSRGbnmH07v5hB1I) | 3:07 |
+| 5 | [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/13Irp51zj01BZu2XtDrnAg) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1KtDsGsSRGbnmH07v5hB1I) | 3:07 |
+| 6 | [Levitating](https://open.spotify.com/track/1dI77VhaLcQSgQLSnIs03D) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) | 3:23 |
+| 7 | [Rockabye \(feat\. Sean Paul & Anne\-Marie\)](https://open.spotify.com/track/2hrUO4drrO63i7FYbCLBl2) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [What Is Love? \(Deluxe Edition\)](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) | 4:11 |
 | 8 | [Paradise](https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Mylo Xyloto](https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18) | 4:38 |
 | 9 | [Move on Up \- Single Edit](https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Move on Up](https://open.spotify.com/album/2EwoYRFQRJqw7BTVG6GlTw) | 2:45 |
 | 10 | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO) | 2:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/6Qf2sXTjlH3HH30Ijo6AUp.md) - [plain]
 | 99 | [Let's Dance \- Single Version \[Remastered\]](https://open.spotify.com/track/5PJBrwKH7SdByGtDCBGJwb) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Legacy \(Deluxe Edition\)](https://open.spotify.com/album/3nSP0MJ9XyYZjCRowFaUbo) | 4:10 |
 | 100 | [Into the Groove](https://open.spotify.com/track/2m0M7YqCy4lXfedh18qd8N) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:45 |
 
-Snapshot ID: `MTY1NyxiZWFkYjBiMDZjZjk0NGFiOTc1NTRmN2NhNjhhYTk4N2U5Y2Q1ZmM3`
+Snapshot ID: `MTY1OCw0YjQyYWNlMDBlNWE0Njc1ZmJiZDMxYjhhODMzYTM2ZTYxNTI3YWVl`

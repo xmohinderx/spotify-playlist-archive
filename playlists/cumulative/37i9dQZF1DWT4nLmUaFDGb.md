@@ -4,7 +4,7 @@
 
 > The easy listening sound of jazz\. Cover: Norah Jones
 
-165 songs - 10 hr 35 min - [published](https://open.spotify.com/playlist/0aBELbZxmQOYGlLTnkY2l0)
+167 songs - 10 hr 42 min - [published](https://open.spotify.com/playlist/0aBELbZxmQOYGlLTnkY2l0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Blue in Green](https://open.spotify.com/track/1091lAjkbu1GrbdsxICeWI) | [Sachal Vasandani](https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr), [Romain Collin](https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV) | [Still Life](https://open.spotify.com/album/0Yly6QXR76EpiQtG51yenm) | 3:46 | 2022-07-14 |  |
 | [Blue Moon](https://open.spotify.com/track/4DEOJOUfwi3jErNGJcW6Vu) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Moon Lover](https://open.spotify.com/album/05an8UcHjgcT3AIt1Sw1ye) | 3:00 | 2021-12-21 | 2022-07-29 |
 | [Blue Moon](https://open.spotify.com/track/55A5X28Hd8AvSAYKx6kcND) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Moon Lover](https://open.spotify.com/album/7bZM4rQXsuEDdEEjeHEVlj) | 3:00 | 2022-07-14 |  |
-| [But Not For Me](https://open.spotify.com/track/2H26DBC5PrgzmBkvRHqmGx) | [Molly Johnson](https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU) | [The Molly Johnson Songbook](https://open.spotify.com/album/14ApZhAAcQQ3JFUlYatLEn) | 3:25 | 2021-12-21 |  |
+| [But Not For Me](https://open.spotify.com/track/2H26DBC5PrgzmBkvRHqmGx) | [Molly Johnson](https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU) | [The Molly Johnson Songbook](https://open.spotify.com/album/14ApZhAAcQQ3JFUlYatLEn) | 3:25 | 2021-12-21 | 2022-09-02 |
 | [By Your Side](https://open.spotify.com/track/3VcmjpCGGY4ReELVr4R7aa) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/5Ak10vSJ89AixhQQhx63kN) | 4:34 | 2021-12-21 | 2022-07-29 |
 | [By Your Side](https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 4:34 | 2022-07-14 |  |
 | [C'est si bon](https://open.spotify.com/track/7n5rnQbELuaeHJ8T4gU00m) | [Thomas Dutronc](https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [C’est si bon](https://open.spotify.com/album/1ONj7ygR1DJ7KvR0p1j5mI) | 3:24 | 2021-12-21 |  |
@@ -92,6 +92,7 @@
 | [Just A Dream](https://open.spotify.com/track/3n09FQ8rPHhxS46wzYEmWq) | [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Bells On Sand](https://open.spotify.com/album/5WmMcrffw3sBnMxxrhbF0g) | 5:29 | 2022-03-31 |  |
 | [Just Like Chet](https://open.spotify.com/track/3JCFkb1gVqjIT0hLFyX0Dc) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/4YrAMk088p90boVlesCpOQ) | 3:36 | 2022-08-29 | 2022-09-01 |
 | [Just Like Chet](https://open.spotify.com/track/7MUT6pSYjzAUJYSg3Hva02) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c) | 3:36 | 2022-08-29 |  |
+| [Just The Way You Are](https://open.spotify.com/track/1GGK81j5LaThJjnJHhfGDq) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Live In Paris](https://open.spotify.com/album/5VarMGaR1VFP4vlmzZsKgV) | 5:00 | 2022-09-01 |  |
 | [Kiss of Life](https://open.spotify.com/track/5bNxRtWEEUu3myoEYL9687) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best Of Sade](https://open.spotify.com/album/5eLHiRRgWKHtzEbQCew8pK) | 4:11 | 2021-12-21 | 2022-03-15 |
 | [Koop Island Blues](https://open.spotify.com/track/75sAWnVBYaaYs1mWbB05Qg) | [Koop](https://open.spotify.com/artist/7wyBxBXLVLaiF2jxHCpvTe), [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Koop Islands](https://open.spotify.com/album/7utDnqKdc3HiSx54MSaGSc) | 4:32 | 2021-12-21 | 2022-08-30 |
 | [L\-O\-V\-E](https://open.spotify.com/track/70gk9Y6aKEdWiASuu59T7Q) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Nat "King" Cole & Me \(Deluxe\)](https://open.spotify.com/album/32neEPsXGNu2uoJuTxirbd) | 2:08 | 2021-12-21 | 2022-07-29 |
@@ -127,7 +128,7 @@
 | [Seven Years](https://open.spotify.com/track/39kuVkJjfRjXqUpAtkDItK) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me](https://open.spotify.com/album/1JvoMzqg04nC29gam4Qaiq) | 2:25 | 2022-02-24 | 2022-07-07 |
 | [Seven Years](https://open.spotify.com/track/3oBsEd0mQKKge4HSSt5yV8) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 2:25 | 2022-07-14 |  |
 | [Smile](https://open.spotify.com/track/1BjuoBaLDhofPLTJ4x6oy0) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Nat "King" Cole & Me \(Deluxe\)](https://open.spotify.com/album/32neEPsXGNu2uoJuTxirbd) | 4:17 | 2021-12-21 | 2022-07-29 |
-| [Smile](https://open.spotify.com/track/1LNWh23vkQZeQkc5ogC3TP) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Nat "King" Cole & Me \(Deluxe\)](https://open.spotify.com/album/3Qj26cbCEuBwA9UHDQwppO) | 4:17 | 2022-08-19 |  |
+| [Smile](https://open.spotify.com/track/1LNWh23vkQZeQkc5ogC3TP) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Nat "King" Cole & Me \(Deluxe\)](https://open.spotify.com/album/3Qj26cbCEuBwA9UHDQwppO) | 4:17 | 2022-08-19 | 2022-09-02 |
 | [Some Kind Of Wonderful](https://open.spotify.com/track/0H6oFJd0ZGJUYqs7zA3I42) | [Peter Cincotti](https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F) | [On The Moon](https://open.spotify.com/album/5aQ4x8ZmB8m4N5UxJGMOgH) | 3:30 | 2022-08-19 |  |
 | [SOMETHIN' \(feat\. Ego Ella May\)](https://open.spotify.com/track/5Uq45pwM3VHj9PeWDyjWLR) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [LOVE QUANTUM](https://open.spotify.com/album/0PdocBlAIGi3jougS8fNiB) | 3:10 | 2022-07-14 |  |
 | [SOMETHIN' \(feat\. Ego Ella May\)](https://open.spotify.com/track/7uKjeD7TdjUQLgjyYO2leP) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [SOMETHIN' \(feat\. Ego Ella May\)](https://open.spotify.com/album/3oX8Sb6OrZxhELPcsk30UW) | 3:10 | 2022-05-31 | 2022-07-29 |
@@ -173,5 +174,6 @@
 | [You're Beautiful](https://open.spotify.com/track/0Wt0LiQPwDLEu6d1iH4b1k) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [I'm In The Mood For Love ..\. The Most Romantic Melodies Of All Time](https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM) | 4:12 | 2021-12-21 | 2022-03-16 |
 | [You've Got A Friend](https://open.spotify.com/track/7CbgvHE083TAjaRuEfwwgm) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [The Boy Next Door \(Special Edition\)](https://open.spotify.com/album/1A5ThMX4BueAGS2d8geecc) | 4:21 | 2022-07-14 |  |
 | [You've Got A Friend](https://open.spotify.com/track/0tzpPgaBndJ7KflHxmoPWS) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [David Newton](https://open.spotify.com/artist/3ecO9MnClCeQeRCPLzAEgy), [Jim Tomlinson](https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq), [Dave Chamberlain](https://open.spotify.com/artist/39LRDjCTn1f255RhV5cmyF), [Matt Home](https://open.spotify.com/artist/6sYQ9bCdEmdHHY1TBQXe80) | [The Boy Next Door](https://open.spotify.com/album/5sRAARt1vXMVsC2bAuS2JP) | 4:21 | 2021-12-21 | 2022-07-29 |
+| [Your Heart Is As Black As Night](https://open.spotify.com/track/1EUj3EeDYX5yldkBXkNDJP) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [My One And Only Thrill](https://open.spotify.com/album/0y5shamyoRauoNkHfUUmlA) | 2:42 | 2022-09-01 |  |
 
 \*This playlist was first scraped on 2022-01-26. Prior content cannot be recovered.

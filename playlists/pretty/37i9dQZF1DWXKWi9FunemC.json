@@ -1,12 +1,12 @@
 {
   "description": "Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.",
-  "num_followers": 179494,
+  "num_followers": 179539,
   "original_name": "Love Coffee, Love Jesus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5ODg4NzE1OSwwMDAwMDAwMGMwYjM3MjA4OWY1ZmU1MzQ3NTQxZTIwZGE3NDc0N2Uw",
+  "snapshot_id": "MTU5ODg4NzE1OSwwMDAwMDAwMGQ5ZDNiZjM4OGRjYjcxODM4OWQyYWI3MDE2ZjU2NTYw",
   "tracks": [
     {
       "added_at": "2020-08-31 15:19:19",
@@ -27,6 +27,22 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/4JjEdlwyFfpEhD7U4qupC1"
+      },
+      "artists": [
+        {
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
+        }
+      ],
+      "duration_ms": 196257,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/18RAcbwi6NAeHbeFaufyAE"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
         "name": "Children of God Acoustic Sessions",
         "url": "https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 283785,
       "name": "The Secret Place - Acoustic",
       "url": "https://open.spotify.com/track/1ZwyRRW5zGjt9gGOwSO5YM"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
-        "name": "Garden",
-        "url": "https://open.spotify.com/album/4JjEdlwyFfpEhD7U4qupC1"
-      },
-      "artists": [
-        {
-          "name": "Jervis Campbell",
-          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
-        }
-      ],
-      "duration_ms": 196257,
-      "name": "Garden",
-      "url": "https://open.spotify.com/track/18RAcbwi6NAeHbeFaufyAE"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -599,6 +599,22 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
+        "name": "The Soul",
+        "url": "https://open.spotify.com/album/3ziyaxQziaPPYaUYKl4uR0"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "duration_ms": 227813,
+      "name": "Something Beautiful",
+      "url": "https://open.spotify.com/track/6JnpyvzvrN1rep8fz2EiDQ"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
         "name": "We Rise We Bow",
         "url": "https://open.spotify.com/album/6vQiAyokbSLC6BJUZlkKtr"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 344206,
       "name": "We Rise",
       "url": "https://open.spotify.com/track/32oefCfjl6LcXDzQD5eqMy"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
-        "name": "The Soul",
-        "url": "https://open.spotify.com/album/3ziyaxQziaPPYaUYKl4uR0"
-      },
-      "artists": [
-        {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
-        }
-      ],
-      "duration_ms": 227813,
-      "name": "Something Beautiful",
-      "url": "https://open.spotify.com/track/6JnpyvzvrN1rep8fz2EiDQ"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -675,22 +675,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Let the Ground Rest",
-        "url": "https://open.spotify.com/album/67cPtLz0jVSsGHWLiIMip7"
-      },
-      "artists": [
-        {
-          "name": "Chris Renzema",
-          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
-        }
-      ],
-      "duration_ms": 232933,
-      "name": "Not Finished Yet",
-      "url": "https://open.spotify.com/track/48LaNGUAT0JmYdqSGAN6Bi"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "The Things We Did at First",
         "url": "https://open.spotify.com/album/3VS7ZrBjKzBWB7rYca7ALh"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 238478,
       "name": "When My Heart Became Aware",
       "url": "https://open.spotify.com/track/0KitfgfQREza7nK9gkPouX"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Let the Ground Rest",
+        "url": "https://open.spotify.com/album/67cPtLz0jVSsGHWLiIMip7"
+      },
+      "artists": [
+        {
+          "name": "Chris Renzema",
+          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
+        }
+      ],
+      "duration_ms": 232933,
+      "name": "Not Finished Yet",
+      "url": "https://open.spotify.com/track/48LaNGUAT0JmYdqSGAN6Bi"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -939,6 +939,22 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
+        "name": "The War Is Over",
+        "url": "https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY"
+      },
+      "artists": [
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "duration_ms": 277853,
+      "name": "Get Your Hopes Up",
+      "url": "https://open.spotify.com/track/6QTEK7q7GPQQDqZLqhx2n7"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
         "name": "Neighbor Songs",
         "url": "https://open.spotify.com/album/2MpPrCjCCzWEEUD9gb93So"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 241600,
       "name": "Daughters of Zion",
       "url": "https://open.spotify.com/track/1cOGwFxxHG1xtkKN8Eet5I"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
-        "name": "The War Is Over",
-        "url": "https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY"
-      },
-      "artists": [
-        {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
-        }
-      ],
-      "duration_ms": 277853,
-      "name": "Get Your Hopes Up",
-      "url": "https://open.spotify.com/track/6QTEK7q7GPQQDqZLqhx2n7"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
+        "name": "Raise a Hallelujah (Acoustic)",
+        "url": "https://open.spotify.com/album/1PYuHatpVpavaTCBi6tidn"
+      },
+      "artists": [
+        {
+          "name": "Will Morrison",
+          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
+        }
+      ],
+      "duration_ms": 303176,
+      "name": "Raise a Hallelujah (Acoustic)",
+      "url": "https://open.spotify.com/track/6PJpu9oZI9OXKTx2sBH2CL"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
         "name": "Home (GCM Sinai Sessions) [feat. Jonathan Ogden]",
         "url": "https://open.spotify.com/album/4iwQhf1wykHLNxnTJ9aQfi"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 250750,
       "name": "Home (GCM Sinai Sessions) [feat. Jonathan Ogden]",
       "url": "https://open.spotify.com/track/6LwwzwWaRfRkDjFAIUxtCS"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
-        "name": "Raise a Hallelujah (Acoustic)",
-        "url": "https://open.spotify.com/album/1PYuHatpVpavaTCBi6tidn"
-      },
-      "artists": [
-        {
-          "name": "Will Morrison",
-          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
-        }
-      ],
-      "duration_ms": 303176,
-      "name": "Raise a Hallelujah (Acoustic)",
-      "url": "https://open.spotify.com/track/6PJpu9oZI9OXKTx2sBH2CL"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "All In",
-        "url": "https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g"
-      },
-      "artists": [
-        {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
-        }
-      ],
-      "duration_ms": 188563,
-      "name": "Broken Things - Acoustic",
-      "url": "https://open.spotify.com/track/3WNw8qXIN8PnOqoVgYXCEl"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Still I Will Praise [Live at Burgess Barn] [Radio Edit]",
         "url": "https://open.spotify.com/album/5jTcdgdYuicOViLgJMqOUh"
       },
@@ -1299,18 +1283,18 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Closer Than a Brother",
-        "url": "https://open.spotify.com/album/33JLXoR3hEiNXIUP42Mwwx"
+        "name": "All In",
+        "url": "https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g"
       },
       "artists": [
         {
-          "name": "Josh Garrels",
-          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
         }
       ],
-      "duration_ms": 309354,
-      "name": "Closer Than a Brother",
-      "url": "https://open.spotify.com/track/6UFFHivhf0donyRMTdgYjA"
+      "duration_ms": 188563,
+      "name": "Broken Things - Acoustic",
+      "url": "https://open.spotify.com/track/3WNw8qXIN8PnOqoVgYXCEl"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1327,6 +1311,22 @@
       "duration_ms": 232238,
       "name": "YOUR NAME IS POWER - Acoustic",
       "url": "https://open.spotify.com/track/5BBd53oJDxtKuK92jWZryD"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Closer Than a Brother",
+        "url": "https://open.spotify.com/album/33JLXoR3hEiNXIUP42Mwwx"
+      },
+      "artists": [
+        {
+          "name": "Josh Garrels",
+          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
+        }
+      ],
+      "duration_ms": 309354,
+      "name": "Closer Than a Brother",
+      "url": "https://open.spotify.com/track/6UFFHivhf0donyRMTdgYjA"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Magnified (Acoustic)",
-        "url": "https://open.spotify.com/album/1ubwV6NBMwJxIFJgFSEYI4"
-      },
-      "artists": [
-        {
-          "name": "Ginny Owens",
-          "url": "https://open.spotify.com/artist/2mVoAGALkIviYCkBDNDKcn"
-        }
-      ],
-      "duration_ms": 211800,
-      "name": "Magnified (Acoustic)",
-      "url": "https://open.spotify.com/track/4hA4SYhcGs5EuxHYW5VKgT"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "That's What I Call Free",
         "url": "https://open.spotify.com/album/7q04MbeIiDZ6ij6EWqmqAb"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 231438,
       "name": "That's What I Call Free",
       "url": "https://open.spotify.com/track/45mQtcoDydArdV3L7Fa7Dl"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Magnified (Acoustic)",
+        "url": "https://open.spotify.com/album/1ubwV6NBMwJxIFJgFSEYI4"
+      },
+      "artists": [
+        {
+          "name": "Ginny Owens",
+          "url": "https://open.spotify.com/artist/2mVoAGALkIviYCkBDNDKcn"
+        }
+      ],
+      "duration_ms": 211800,
+      "name": "Magnified (Acoustic)",
+      "url": "https://open.spotify.com/track/4hA4SYhcGs5EuxHYW5VKgT"
     },
     {
       "added_at": "2020-08-31 15:19:19",

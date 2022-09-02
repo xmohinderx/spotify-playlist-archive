@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAArCxuIRGQ.md) - [plain]
 
 > A sizzling hot soundtrack for your sunshine social.
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,334 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,140 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAArCxuIRGQ.md) - [plain]
 | 13 | [No Diggity](https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ) | [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Queen Pen](https://open.spotify.com/artist/0VbIlorLz3I5SEtIsc5vAr) | [Another Level](https://open.spotify.com/album/2zGZLQiFl9UubtrVmtIkbi) | 5:04 |
 | 14 | [Feel It Still](https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 2:43 |
 | 15 | [I Want You Back](https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Diana Ross Presents The Jackson 5](https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1) | 2:56 |
-| 16 | [Lovely Day](https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Menagerie](https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c) | 4:14 |
-| 17 | [Stuck In The Middle With You](https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT) | [Stealers Wheel](https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki) | [Stealers Wheel](https://open.spotify.com/album/5ApN9lqru1t3Xh1IaEGTll) | 3:28 |
+| 16 | [Stuck In The Middle With You](https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT) | [Stealers Wheel](https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki) | [Stealers Wheel](https://open.spotify.com/album/5ApN9lqru1t3Xh1IaEGTll) | 3:28 |
+| 17 | [Lovely Day](https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Menagerie](https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c) | 4:14 |
 | 18 | [California Gurls](https://open.spotify.com/track/6tS3XVuOyu10897O3ae7bi) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:54 |
 | 19 | [You Can Call Me Al](https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Graceland \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) | 4:40 |
 | 20 | [Mo Money Mo Problems \(feat\. Puff Daddy & Mase\) \- 2014 Remaster](https://open.spotify.com/track/4INDiWSKvqSKDEu7mh8HFz) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Life After Death \(2014 Remastered Edition\)](https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB) | 4:17 |
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAArCxuIRGQ.md) - [plain]
 | 31 | [Buffalo Soldier](https://open.spotify.com/track/7BfW1eoDh27W69nxsmRicb) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Confrontation](https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun) | 4:15 |
 | 32 | [Good Vibrations \- Remastered 2001](https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Smiley Smile \(Remastered\)](https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9) | 3:39 |
 | 33 | [Miami](https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Big Willie Style](https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq) | 3:17 |
-| 34 | [Little Lies \- 2017 Remaster](https://open.spotify.com/track/4CoSCPlKNrWli7E5kFtbcl) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:41 |
+| 34 | [Jump Around \- 30 Years Remaster](https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq) | [House Of Pain](https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV) | [House of Pain \(Fine Malt Lyrics\) \[30 Years\] \[Deluxe Edition\]](https://open.spotify.com/album/1GYvmeraQXDxxSC9T3RDvM) | 3:38 |
 | 35 | [Hypnotize \- 2007 Remaster](https://open.spotify.com/track/6Tsu3OsuMz4KEGKbOYd6A0) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Greatest Hits](https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg) | 3:50 |
-| 36 | [Jump Around \- 30 Years Remaster](https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq) | [House Of Pain](https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV) | [House of Pain \(Fine Malt Lyrics\) \[30 Years\] \[Deluxe Edition\]](https://open.spotify.com/album/1GYvmeraQXDxxSC9T3RDvM) | 3:38 |
+| 36 | [Little Lies \- 2017 Remaster](https://open.spotify.com/track/4CoSCPlKNrWli7E5kFtbcl) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:41 |
 | 37 | [Never Too Much](https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 3:50 |
 | 38 | [One Love / People Get Ready \- Medley](https://open.spotify.com/track/6SR0dDuXH2vtgBfMLrivKV) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 2:52 |
 | 39 | [Ye](https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Outside](https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D) | 3:51 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAArCxuIRGQ.md) - [plain]
 | 74 | [A Little Less Conversation \- JXL Radio Edit Remix](https://open.spotify.com/track/3j4viUIDSuB4xfYYlp3Lpa) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [JXL](https://open.spotify.com/artist/2GyakhIO8twSgCnUFfCzTN) | [Elvis 30 \#1 Hits \(Expanded Edition\)](https://open.spotify.com/album/0uJJdEZ8sRLNPoKEkjvqTD) | 3:33 |
 | 75 | [Smile](https://open.spotify.com/track/4aR9bPMAOFySBuQSbVWF3d) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Bonus Track Version\)](https://open.spotify.com/album/3nxPzWEJBjzonYWtTNb0uY) | 3:16 |
 
-Snapshot ID: `MTY1NzI5NTM5MCwwMDAwMDAwMDlkODA4YWFmMDg1MDk0ZWIxZTBiOTc0MzA0MjBhOWU3`
+Snapshot ID: `MTY1NzI5NTM5MCwwMDAwMDAwMDNjOWJmZjkzOWQ5NDZjOWUwYmQ3NTJlNDBiMjdkODU4`

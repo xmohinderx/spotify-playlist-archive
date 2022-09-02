@@ -1,12 +1,12 @@
 {
   "description": "Your daily dose of soul-infused music! Cover: Cory Henry",
-  "num_followers": 419886,
+  "num_followers": 419508,
   "original_name": "Soul 'n' the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ2NDgwMCwwMDAwMDAwMDJlYmYxZGQ2MTQ0MGY4NmVlMGZmNzM3ODE4N2Q2ZWE1",
+  "snapshot_id": "MTY2MTQ2NDgwMCwwMDAwMDAwMDYzYTYxMDA4N2I1ZTljNzU5OTBlNjc4NDI4NTljNWU5",
   "tracks": [
     {
       "added_at": "2022-08-25 22:00:00",
@@ -611,6 +611,22 @@
     {
       "added_at": "2022-08-25 22:00:00",
       "album": {
+        "name": "I Won't Let You Down",
+        "url": "https://open.spotify.com/album/0MTBD4WKIES8BkS8rfSKnp"
+      },
+      "artists": [
+        {
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+        }
+      ],
+      "duration_ms": 244200,
+      "name": "I Won't Let You Down",
+      "url": "https://open.spotify.com/track/32L9L0Hg4skEWlog49n1a3"
+    },
+    {
+      "added_at": "2022-08-25 22:00:00",
+      "album": {
         "name": "More To Learn",
         "url": "https://open.spotify.com/album/3r7mEDjTNdNxWfjS1mClE2"
       },
@@ -635,22 +651,6 @@
     {
       "added_at": "2022-08-25 22:00:00",
       "album": {
-        "name": "I Won't Let You Down",
-        "url": "https://open.spotify.com/album/0MTBD4WKIES8BkS8rfSKnp"
-      },
-      "artists": [
-        {
-          "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
-        }
-      ],
-      "duration_ms": 244200,
-      "name": "I Won't Let You Down",
-      "url": "https://open.spotify.com/track/32L9L0Hg4skEWlog49n1a3"
-    },
-    {
-      "added_at": "2022-08-25 22:00:00",
-      "album": {
         "name": "What If? / Leave It",
         "url": "https://open.spotify.com/album/6hCOlqAGTtU9dhQ7nhi1U8"
       },
@@ -667,22 +667,6 @@
       "duration_ms": 232500,
       "name": "Leave It",
       "url": "https://open.spotify.com/track/4d53iJvfGbPyQGRnbtmtiW"
-    },
-    {
-      "added_at": "2022-08-25 22:00:00",
-      "album": {
-        "name": "Overflowing",
-        "url": "https://open.spotify.com/album/0ilXUNsylR92wlv7dtQMzp"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 146266,
-      "name": "Overflowing",
-      "url": "https://open.spotify.com/track/7euLcL9UPbxVvjlQNhCDJj"
     },
     {
       "added_at": "2022-08-25 22:00:00",
@@ -735,6 +719,22 @@
       "duration_ms": 206579,
       "name": "Mercy Mercy Me (The Ecology)",
       "url": "https://open.spotify.com/track/4oU2j4VgtKXkYAM8xg6lrU"
+    },
+    {
+      "added_at": "2022-08-25 22:00:00",
+      "album": {
+        "name": "Overflowing",
+        "url": "https://open.spotify.com/album/0ilXUNsylR92wlv7dtQMzp"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 146266,
+      "name": "Overflowing",
+      "url": "https://open.spotify.com/track/7euLcL9UPbxVvjlQNhCDJj"
     },
     {
       "added_at": "2022-08-25 22:00:00",
@@ -807,6 +807,26 @@
     {
       "added_at": "2022-08-25 22:00:00",
       "album": {
+        "name": "Wasting My Time",
+        "url": "https://open.spotify.com/album/0lT02E089Fmh5ohBLma6ry"
+      },
+      "artists": [
+        {
+          "name": "Tschax",
+          "url": "https://open.spotify.com/artist/5WXZ5w3UQgObwg46o4OoEr"
+        },
+        {
+          "name": "Jo Le Grelle",
+          "url": "https://open.spotify.com/artist/0GdpbpqYd9QLSujQkOsFmp"
+        }
+      ],
+      "duration_ms": 149444,
+      "name": "Wasting My Time",
+      "url": "https://open.spotify.com/track/5ad6GD6W5kPo1PFW3ky8Oj"
+    },
+    {
+      "added_at": "2022-08-25 22:00:00",
+      "album": {
         "name": "WE ARE (The Deluxe Edition)",
         "url": "https://open.spotify.com/album/24bfr8pz2nOP8X4WioInsy"
       },
@@ -827,26 +847,6 @@
       "duration_ms": 223815,
       "name": "ADULTHOOD",
       "url": "https://open.spotify.com/track/0jqWdGvgLX2oOG70eIcwko"
-    },
-    {
-      "added_at": "2022-08-25 22:00:00",
-      "album": {
-        "name": "Wasting My Time",
-        "url": "https://open.spotify.com/album/0lT02E089Fmh5ohBLma6ry"
-      },
-      "artists": [
-        {
-          "name": "Tschax",
-          "url": "https://open.spotify.com/artist/5WXZ5w3UQgObwg46o4OoEr"
-        },
-        {
-          "name": "Jo Le Grelle",
-          "url": "https://open.spotify.com/artist/0GdpbpqYd9QLSujQkOsFmp"
-        }
-      ],
-      "duration_ms": 149444,
-      "name": "Wasting My Time",
-      "url": "https://open.spotify.com/track/5ad6GD6W5kPo1PFW3ky8Oj"
     },
     {
       "added_at": "2022-08-25 22:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-08-25 22:00:00",
       "album": {
-        "name": "Madelyn",
-        "url": "https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0"
-      },
-      "artists": [
-        {
-          "name": "Anderson East",
-          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
-        }
-      ],
-      "duration_ms": 195413,
-      "name": "Madelyn",
-      "url": "https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ"
-    },
-    {
-      "added_at": "2022-08-25 22:00:00",
-      "album": {
         "name": "Trippin",
         "url": "https://open.spotify.com/album/4BIweiaOt0a8tMBV9Ncigs"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 190438,
       "name": "Trippin",
       "url": "https://open.spotify.com/track/6hURVOp7JtavNu11tfl912"
+    },
+    {
+      "added_at": "2022-08-25 22:00:00",
+      "album": {
+        "name": "Madelyn",
+        "url": "https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0"
+      },
+      "artists": [
+        {
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+        }
+      ],
+      "duration_ms": 195413,
+      "name": "Madelyn",
+      "url": "https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ"
     },
     {
       "added_at": "2022-08-25 22:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-08-25 22:00:00",
       "album": {
-        "name": "Woman Like Me",
-        "url": "https://open.spotify.com/album/45669KXKJTIm7zAkg1WpLf"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 202832,
-      "name": "Woman Like Me",
-      "url": "https://open.spotify.com/track/4URM6vR7wq8mCYGsXUZ8bl"
-    },
-    {
-      "added_at": "2022-08-25 22:00:00",
-      "album": {
         "name": "Bruises",
         "url": "https://open.spotify.com/album/6uHzKD648X9MoK0Z2vo8LW"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 245290,
       "name": "Defection",
       "url": "https://open.spotify.com/track/3I4tQHg9oJ9jYtQJTKb2QO"
+    },
+    {
+      "added_at": "2022-08-25 22:00:00",
+      "album": {
+        "name": "Woman Like Me",
+        "url": "https://open.spotify.com/album/45669KXKJTIm7zAkg1WpLf"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 202832,
+      "name": "Woman Like Me",
+      "url": "https://open.spotify.com/track/4URM6vR7wq8mCYGsXUZ8bl"
     },
     {
       "added_at": "2022-08-25 22:00:00",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2022-08-25 22:00:00",
       "album": {
-        "name": "Minions: The Rise Of Gru (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6Kc0f1PCbWZLOmZNOyXYGN"
+        "name": "Closure",
+        "url": "https://open.spotify.com/album/4QyVeRyB2xpep4W2WuBwJ4"
       },
       "artists": [
         {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+          "name": "Mychelle",
+          "url": "https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71"
         }
       ],
-      "duration_ms": 175086,
-      "name": "Vehicle - From 'Minions: The Rise of Gru' Soundtrack",
-      "url": "https://open.spotify.com/track/0Dlp5ZdDKylTKVJE3ejoJD"
+      "duration_ms": 279638,
+      "name": "Life Isn't",
+      "url": "https://open.spotify.com/track/7egUjKB05V8pIekCXjM8w0"
     },
     {
       "added_at": "2022-08-25 22:00:00",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2022-08-25 22:00:00",
       "album": {
-        "name": "Closure",
-        "url": "https://open.spotify.com/album/4QyVeRyB2xpep4W2WuBwJ4"
+        "name": "Minions: The Rise Of Gru (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Kc0f1PCbWZLOmZNOyXYGN"
       },
       "artists": [
         {
-          "name": "Mychelle",
-          "url": "https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71"
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
         }
       ],
-      "duration_ms": 279638,
-      "name": "Life Isn't",
-      "url": "https://open.spotify.com/track/7egUjKB05V8pIekCXjM8w0"
+      "duration_ms": 175086,
+      "name": "Vehicle - From 'Minions: The Rise of Gru' Soundtrack",
+      "url": "https://open.spotify.com/track/0Dlp5ZdDKylTKVJE3ejoJD"
     },
     {
       "added_at": "2022-08-25 22:00:00",
@@ -1387,6 +1387,26 @@
     {
       "added_at": "2022-08-25 22:00:00",
       "album": {
+        "name": "Red To Violet (Feat. Jamila Woods)",
+        "url": "https://open.spotify.com/album/5NGXZ7GJKoO0S5vyshT6uv"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        },
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+        }
+      ],
+      "duration_ms": 202746,
+      "name": "Red To Violet - Feat. Jamila Woods",
+      "url": "https://open.spotify.com/track/1uxUW64IFKirksOfzcBWxD"
+    },
+    {
+      "added_at": "2022-08-25 22:00:00",
+      "album": {
         "name": "Finally",
         "url": "https://open.spotify.com/album/0jY40dx3ca56Fyb4z6hYDs"
       },
@@ -1455,22 +1475,6 @@
     {
       "added_at": "2022-08-25 22:00:00",
       "album": {
-        "name": "Pure Gold",
-        "url": "https://open.spotify.com/album/3zjqX3wVedOOx9yRANaUTS"
-      },
-      "artists": [
-        {
-          "name": "Liquid Spirits",
-          "url": "https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ"
-        }
-      ],
-      "duration_ms": 169986,
-      "name": "Pure Gold",
-      "url": "https://open.spotify.com/track/3ZS0ao05ZDmPSO4q1riUf3"
-    },
-    {
-      "added_at": "2022-08-25 22:00:00",
-      "album": {
         "name": "Music",
         "url": "https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK"
       },
@@ -1495,6 +1499,22 @@
     {
       "added_at": "2022-08-25 22:00:00",
       "album": {
+        "name": "Pure Gold",
+        "url": "https://open.spotify.com/album/3zjqX3wVedOOx9yRANaUTS"
+      },
+      "artists": [
+        {
+          "name": "Liquid Spirits",
+          "url": "https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ"
+        }
+      ],
+      "duration_ms": 169986,
+      "name": "Pure Gold",
+      "url": "https://open.spotify.com/track/3ZS0ao05ZDmPSO4q1riUf3"
+    },
+    {
+      "added_at": "2022-08-25 22:00:00",
+      "album": {
         "name": "Admit It",
         "url": "https://open.spotify.com/album/51VJV9ecZdRhEWuJilWuLk"
       },
@@ -1507,26 +1527,6 @@
       "duration_ms": 187109,
       "name": "Admit It",
       "url": "https://open.spotify.com/track/10I24PEW4oX8muRkrMb9Jp"
-    },
-    {
-      "added_at": "2022-08-25 22:00:00",
-      "album": {
-        "name": "Red To Violet (Feat. Jamila Woods)",
-        "url": "https://open.spotify.com/album/5NGXZ7GJKoO0S5vyshT6uv"
-      },
-      "artists": [
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        },
-        {
-          "name": "Jamila Woods",
-          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
-        }
-      ],
-      "duration_ms": 202746,
-      "name": "Red To Violet - Feat. Jamila Woods",
-      "url": "https://open.spotify.com/track/1uxUW64IFKirksOfzcBWxD"
     },
     {
       "added_at": "2022-08-25 22:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2022-08-25 22:00:00",
       "album": {
-        "name": "Change (from the Netflix Series \"We The People\")",
-        "url": "https://open.spotify.com/album/5TJLb0uEmHxpKt20715yM9"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 188333,
-      "name": "Change - from the Netflix Series \"We The People\"",
-      "url": "https://open.spotify.com/track/6xVNLDRZtnQsKGKIbPxUi5"
-    },
-    {
-      "added_at": "2022-08-25 22:00:00",
-      "album": {
         "name": "CUBE",
         "url": "https://open.spotify.com/album/7g8SnE1LmkwBtOaDXpFV3E"
       },
@@ -1579,22 +1563,18 @@
     {
       "added_at": "2022-08-25 22:00:00",
       "album": {
-        "name": "A Little Greener",
-        "url": "https://open.spotify.com/album/1Ex7TUmPx3WUaujVqsgZXk"
+        "name": "Change (from the Netflix Series \"We The People\")",
+        "url": "https://open.spotify.com/album/5TJLb0uEmHxpKt20715yM9"
       },
       "artists": [
         {
-          "name": "Jeangu Macrooy",
-          "url": "https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr"
-        },
-        {
-          "name": "Pete Philly",
-          "url": "https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO"
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 222876,
-      "name": "A Little Greener",
-      "url": "https://open.spotify.com/track/50WSTB17FinNJd92BGcRFc"
+      "duration_ms": 188333,
+      "name": "Change - from the Netflix Series \"We The People\"",
+      "url": "https://open.spotify.com/track/6xVNLDRZtnQsKGKIbPxUi5"
     },
     {
       "added_at": "2022-08-25 22:00:00",
@@ -1615,6 +1595,26 @@
       "duration_ms": 238577,
       "name": "My Everything",
       "url": "https://open.spotify.com/track/3NBweAfNWhU9Zu1xDLHAR8"
+    },
+    {
+      "added_at": "2022-08-25 22:00:00",
+      "album": {
+        "name": "A Little Greener",
+        "url": "https://open.spotify.com/album/1Ex7TUmPx3WUaujVqsgZXk"
+      },
+      "artists": [
+        {
+          "name": "Jeangu Macrooy",
+          "url": "https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr"
+        },
+        {
+          "name": "Pete Philly",
+          "url": "https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO"
+        }
+      ],
+      "duration_ms": 222876,
+      "name": "A Little Greener",
+      "url": "https://open.spotify.com/track/50WSTB17FinNJd92BGcRFc"
     },
     {
       "added_at": "2022-08-25 22:00:00",

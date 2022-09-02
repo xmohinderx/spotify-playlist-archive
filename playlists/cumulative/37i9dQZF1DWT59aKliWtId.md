@@ -4,7 +4,7 @@
 
 > A quality alternative blend\. Cover: Ashe
 
-463 songs - 1 day 4 hr 16 min - [published](https://open.spotify.com/playlist/5atRHR4vc4jlkDH31Rwpnd)
+464 songs - 1 day 4 hr 20 min - [published](https://open.spotify.com/playlist/5atRHR4vc4jlkDH31Rwpnd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Angelica](https://open.spotify.com/track/4MvwrOOQyjh40KWwmFElmn) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Angelica](https://open.spotify.com/album/4j8jm7kAaZN85GVBJSXSfT) | 3:52 | 2022-03-11 | 2022-05-20 |
 | [Another Man's Jeans](https://open.spotify.com/track/2Tv3bPKLESHfl8jgAlY2Pv) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Another Man's Jeans](https://open.spotify.com/album/54xLeetI8f6mslHLEJ5K2X) | 2:45 | 2022-03-04 | 2022-07-30 |
 | [Anyone For You \(Tiger Lily\)](https://open.spotify.com/track/5iFQfP3AqVnHHS89LKQisL) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Anyone For You \(Tiger Lily\)](https://open.spotify.com/album/7H1EYBP5XYudqRhjL5vG5j) | 3:07 | 2022-02-04 | 2022-05-07 |
-| [Anything But Me](https://open.spotify.com/track/32JZt8EmiioCGTU6UIXJ4E) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Anything But Me](https://open.spotify.com/album/3qeTo7DFj1P9dcBa92GrpX) | 3:33 | 2022-03-25 |  |
+| [Anything But Me](https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 3:33 | 2022-08-26 |  |
+| [Anything But Me](https://open.spotify.com/track/32JZt8EmiioCGTU6UIXJ4E) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Anything But Me](https://open.spotify.com/album/3qeTo7DFj1P9dcBa92GrpX) | 3:33 | 2022-03-25 | 2022-09-02 |
 | [Anywhere](https://open.spotify.com/track/6TL8Mz1a5fYrY2eHpqa3jB) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Anywhere](https://open.spotify.com/album/0oHHPD6cPoNI8OKH5GQRqG) | 3:48 | 2022-04-22 | 2022-06-11 |
 | [As Innocent Looking As Candy](https://open.spotify.com/track/1UZxXSDDaOABCoYhpi4BCJ) | [Night Moves](https://open.spotify.com/artist/6Pled8lBAODAviS574l1Q4) | [The Redaction](https://open.spotify.com/album/7s8s81xhb27Y13HQLx20be) | 1:59 | 2022-07-22 | 2022-08-20 |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-08 | 2022-08-20 |

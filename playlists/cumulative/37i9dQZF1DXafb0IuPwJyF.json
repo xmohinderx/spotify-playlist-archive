@@ -1917,9 +1917,27 @@
           "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
         }
       ],
-      "date_added": "2022-08-29",
+      "date_added": "2022-09-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 180211,
+      "name": "Let Me Let You Go",
+      "url": "https://open.spotify.com/track/5CgkbROq94tTSnXnrfvtGH"
+    },
+    {
+      "album": {
+        "name": "Let Me Let You Go",
+        "url": "https://open.spotify.com/album/4DSQT7lIc5Unlz6LoyBPzI"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-02",
       "duration_ms": 180211,
       "name": "Let Me Let You Go - Japanese Version",
       "url": "https://open.spotify.com/track/4kvYYgoKbVblOo7lPfJWf2"
@@ -2325,7 +2343,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 199306,
       "name": "Night Rider",
       "url": "https://open.spotify.com/track/0FnJ2EWTyl7QUQcDEbpN16"
@@ -7313,6 +7331,24 @@
       "duration_ms": 233173,
       "name": "\u6b53\u58f0\u3092\u3055\u304c\u3057\u3066",
       "url": "https://open.spotify.com/track/3N6QVzApdGF3xInV7HpxZm"
+    },
+    {
+      "album": {
+        "name": "HELP EVER HURT NEVER",
+        "url": "https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185573,
+      "name": "\u6b7b\u306c\u306e\u304c\u3044\u3044\u308f",
+      "url": "https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6"
     },
     {
       "album": {

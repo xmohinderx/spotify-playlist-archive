@@ -2,14 +2,14 @@
 
 ### [Mezzanotte Chill Rap](https://open.spotify.com/playlist/37i9dQZF1DX37pZLd58ED5)
 
-> Solo beat e rime avvolgenti\. Cover: Lazza
+> Solo beat e rime avvolgenti\. Cover: Quentin40
 
-76 songs - 4 hr 14 min - [published](https://open.spotify.com/playlist/4r83GtsNbTEk66vNKaqlF4)
+77 songs - 4 hr 17 min - [published](https://open.spotify.com/playlist/4r83GtsNbTEk66vNKaqlF4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3 Occhi \(feat\. Il Ghost\)](https://open.spotify.com/track/3bG9u7wt9pL7ltyKM9lSls) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [EP1](https://open.spotify.com/album/3bZxXrtUV3uiT3Y3OOAvqP) | 3:31 | 2022-04-28 |  |
-| [A TE](https://open.spotify.com/track/28XXZdpUgIHIHlibEL3Pmu) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [A TE](https://open.spotify.com/album/3l52RCkfjUrcK9fXI5fodv) | 2:04 | 2022-07-07 |  |
+| [A TE](https://open.spotify.com/track/28XXZdpUgIHIHlibEL3Pmu) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [A TE](https://open.spotify.com/album/3l52RCkfjUrcK9fXI5fodv) | 2:04 | 2022-07-07 | 2022-09-02 |
 | [Aeroplanini Di Carta](https://open.spotify.com/track/5lSUBOoR69N6lbwGySVdSr) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F) | [Dasein Sollen](https://open.spotify.com/album/4cpbVkMPzHjWZajKY53SKJ) | 3:44 | 2022-04-28 |  |
 | [AIRFORCE \(feat\. Madame\)](https://open.spotify.com/track/4MTlIhliwFJnTfbEoctDyB) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [SOLO TUTTO](https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw) | 3:40 | 2022-04-28 |  |
 | [ALIBI](https://open.spotify.com/track/1zfszqoisdKWCIfFToaMHi) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:58 | 2022-04-28 | 2022-06-10 |
@@ -44,6 +44,7 @@
 | [EURO](https://open.spotify.com/track/0jyNaBwi570k2Y5s7FwqDW) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [Giù](https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3) | 3:23 | 2022-07-01 |  |
 | [FALENA \(feat\. Franco126, Coez & Ketama126\)](https://open.spotify.com/track/3jREEhgXvvwzyCW1iGWP38) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4), [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E) | [X2](https://open.spotify.com/album/56BOavUTudaNHQWLLb9IVJ) | 3:35 | 2022-04-28 |  |
 | [Fiamme Alte](https://open.spotify.com/track/5N7x4uvQWF0Nte0yZX1fjn) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [PLAZA](https://open.spotify.com/album/5tKxGn7nxBF5qLW6cpwVT8) | 3:28 | 2022-04-28 | 2022-07-07 |
+| [Guardare Sotto](https://open.spotify.com/track/0XziCMIyt5YkZSxMFrxKdi) | [Quentin40](https://open.spotify.com/artist/63iLDTZb43E6k8Ign6voma) | [Guardare Sotto](https://open.spotify.com/album/5ElAMiTYjmJgnWQ84ZzHaM) | 2:46 | 2022-09-01 |  |
 | [Immortale \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/2bF1qPRPlrODKWFMGtQXq1) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Mr\. Fini](https://open.spotify.com/album/7C9m0DdXdl0Z92bmv45BpX) | 3:20 | 2022-04-28 |  |
 | [IQOS \- feat\. Ernia](https://open.spotify.com/track/07gdXx27doa2tNadvelcpS) | [Giaime](https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [MULA](https://open.spotify.com/album/3eDMLC0gVgI6K1O9oMc686) | 2:40 | 2022-04-28 | 2022-06-01 |
 | [KUMITE](https://open.spotify.com/track/6yaNNYWPjkWHbh1jADEyJO) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [FLOP](https://open.spotify.com/album/7DvK67C21i6go7olhjvLgT) | 2:50 | 2022-04-28 |  |

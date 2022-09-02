@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCW9VX8yNjX.md) - [plain]
 
 > Mejor seguimos cantando, como cantaba el abuelo\. ¡Garganta pa' que te quiero, si no pa' cantarle al pueblo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,775 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,850 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCW9VX8yNjX.md) - [plain]
 | 26 | [Moreno](https://open.spotify.com/track/1vGRbBT2at9I46ok0RHMRh) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Mío](https://open.spotify.com/album/0w5ShYKbU9gB0w2d9cjLfm) | 3:17 |
 | 27 | [Duele](https://open.spotify.com/track/6CFaze42M5wiTqMidNtJLE) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Duele](https://open.spotify.com/album/6ia94ihMQr60Wzr9kqvjoT) | 3:12 |
 | 28 | [No Lo Beses](https://open.spotify.com/track/3cX7KNREYC4NBntB6ccHHt) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dos Mundos \- Evolución](https://open.spotify.com/album/6pJmik7KjCRidOZwEqYWuy) | 3:34 |
-| 29 | [La Ley del Monte](https://open.spotify.com/track/2qWPIc4TfXwTzw8cTNxgoI) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Un Mexicano en la México](https://open.spotify.com/album/0qSxCGrIhLiqINhvkCOvwm) | 2:54 |
-| 30 | [Estuve](https://open.spotify.com/track/4AZFdWGuK1VfUpvPBUM7pv) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dos Mundos](https://open.spotify.com/album/65go3XkEnCQoFByHvFLcDD) | 3:15 |
+| 29 | [Estuve](https://open.spotify.com/track/4AZFdWGuK1VfUpvPBUM7pv) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dos Mundos](https://open.spotify.com/album/65go3XkEnCQoFByHvFLcDD) | 3:15 |
+| 30 | [La Ley del Monte](https://open.spotify.com/track/2qWPIc4TfXwTzw8cTNxgoI) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Un Mexicano en la México](https://open.spotify.com/album/0qSxCGrIhLiqINhvkCOvwm) | 2:54 |
 | 31 | [Lástima Que Seas Ajena](https://open.spotify.com/track/5knj5DnKoHo30GHlHbvkyt) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Lastima Que Seas Ajena](https://open.spotify.com/album/1C4HOslKRQixKHC1Qzf2OX) | 4:17 |
 | 32 | [Como Quien Pierde una Estrella](https://open.spotify.com/track/7rayH7w0DFOWTZ9LZaKL3G) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 3:35 |
 | 33 | [Que Te Vaya Bonito](https://open.spotify.com/track/4va4REkaDpC31k6jcAbLGY) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Idolo De Mexico](https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru) | 3:02 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCW9VX8yNjX.md) - [plain]
 | 48 | [Más No Puedo](https://open.spotify.com/track/68teZcAANkNhea13y7GqDP) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Hecho En México](https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI) | 3:42 |
 | 49 | [Ella](https://open.spotify.com/track/4pZBAD4pdv4A5WqjsYGiJk) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Un Mexicano en la México](https://open.spotify.com/album/0qSxCGrIhLiqINhvkCOvwm) | 2:34 |
 | 50 | [Vamos A Darnos Tiempo \- Live At El Lunario En La Ciudad De México/2010](https://open.spotify.com/track/6DnpQbM6kELQYZ3jXCayo3) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dos Mundos Revolución En Vivo \(Live At El Lunario En La Ciudad De México/2010\)](https://open.spotify.com/album/00toeVbLBW5ZFWTzKZfQ9n) | 4:17 |
-| 51 | [El Hombre Que Más Te Amó](https://open.spotify.com/track/3L1JzwKjjUr76VOdM9zwHk) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Hombre Que Más Te Amo](https://open.spotify.com/album/1mHnKPJaeo49qWrVILI3FO) | 3:16 |
-| 52 | [La Mitad Que Me Faltaba](https://open.spotify.com/track/1LV1VwcmwEYt7aHYfiPtbv) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Que Seas Muy Feliz](https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu) | 3:25 |
+| 51 | [La Mitad Que Me Faltaba](https://open.spotify.com/track/1LV1VwcmwEYt7aHYfiPtbv) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Que Seas Muy Feliz](https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu) | 3:25 |
+| 52 | [El Hombre Que Más Te Amó](https://open.spotify.com/track/3L1JzwKjjUr76VOdM9zwHk) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Hombre Que Más Te Amo](https://open.spotify.com/album/1mHnKPJaeo49qWrVILI3FO) | 3:16 |
 | 53 | [Urge](https://open.spotify.com/track/3xrowzZGezyuEBl9UzAN4W) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Mientras Ustedes No Dejen De Aplaudir...](https://open.spotify.com/album/302OzIxo56uSLp0ZY1MuTY) | 2:57 |
 | 54 | [No](https://open.spotify.com/track/5EIGTiQSk0WCwwBvvbciJT) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [De Noche \- Clasicos A Mi Manera](https://open.spotify.com/album/7A8jjPIYtiY0ZXhzmd9Oms) | 3:18 |
 | 55 | [El Hijo del Pueblo](https://open.spotify.com/track/6ElbF1uBCYlazCH6jAoF5s) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Hijo Del Pueblo](https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn) | 2:40 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCW9VX8yNjX.md) - [plain]
 | 66 | [Yo Quiero Ser](https://open.spotify.com/track/45hZQUKq1hhbBVoGaz2M1x) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Palabra De Rey](https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW) | 2:56 |
 | 67 | [Ni En Defensa Propia](https://open.spotify.com/track/2DXigvJtnOxD7QPv7hhrIj) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Ni En Defensa Propia](https://open.spotify.com/album/5MjQ6gStH8eWochAk1NbAr) | 2:24 |
 | 68 | [Te Olvidé](https://open.spotify.com/track/0LiSASDl1Os4c8JeiypsT8) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Te Olvidé](https://open.spotify.com/album/5tCvYwnjj9GaEHO8hgxEQA) | 3:05 |
-| 69 | [Ya No Insistas Corazón](https://open.spotify.com/track/4npHbgLuZu0afOnJj4gz1j) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Ya No Insistas Corazón](https://open.spotify.com/album/0zB6zjfl9caUE9UIy56I1Y) | 3:24 |
-| 70 | [Te Amaré \- En Vivo Desde El Teatro Real](https://open.spotify.com/track/1xoMRgnQY63sYQZNfImUEZ) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Confidencias Reales \(En Vivo Desde El Teatro Real\)](https://open.spotify.com/album/1Psmz14dcKR0QEyoUeGxXP) | 3:45 |
+| 69 | [Te Amaré \- En Vivo Desde El Teatro Real](https://open.spotify.com/track/1xoMRgnQY63sYQZNfImUEZ) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Confidencias Reales \(En Vivo Desde El Teatro Real\)](https://open.spotify.com/album/1Psmz14dcKR0QEyoUeGxXP) | 3:45 |
+| 70 | [Ya No Insistas Corazón](https://open.spotify.com/track/4npHbgLuZu0afOnJj4gz1j) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Ya No Insistas Corazón](https://open.spotify.com/album/0zB6zjfl9caUE9UIy56I1Y) | 3:24 |
 | 71 | [Guadalajara \- \(En Vivo\)](https://open.spotify.com/track/5mQy3HRlkUyJc1VQ7tkekV) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Primera Fila](https://open.spotify.com/album/4eW3alaXA3prOOUAAusU2B) | 3:23 |
 | 72 | [Cóncavo Y Convexo](https://open.spotify.com/track/0HYdtyMwBcGzw0tfwrXlg0) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Confidencias](https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk) | 4:23 |
 | 73 | [Procuro Olvidarte](https://open.spotify.com/track/5Lv81PNCTruefbpa07Dvcm) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Confidencias](https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk) | 4:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCW9VX8yNjX.md) - [plain]
 | 99 | [Acá Entre Nos \- En Vivo \[Un Azteca en el Azteca\]](https://open.spotify.com/track/42sXKjLh6v97XWojhwckLR) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Un Azteca en el Azteca \(En Vivo\)](https://open.spotify.com/album/4geCevoFyJ8TvKJdNfSIRb) | 3:56 |
 | 100 | [Qué Lástima](https://open.spotify.com/track/0NvO81WDJmJ1aorQ4Of2i9) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 4:21 |
 
-Snapshot ID: `MTY1ODQ5MjIyOSwwMDAwMDAwMGNjZTQ4ZmEyZDA3NDNlY2Y2OTBlMTdkZjM2NmUzNGM2`
+Snapshot ID: `MTY1ODQ5MjIyOSwwMDAwMDAwMGNkZGI5NDk5YWQzNWE5OWI0NTAzOTRlYzBjNGIzNjg3`

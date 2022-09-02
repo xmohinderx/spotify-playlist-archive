@@ -2,9 +2,9 @@
 
 ### [Spotify Singles: Hits](https://open.spotify.com/playlist/37i9dQZF1DWVP71DYelp29)
 
-> The hits you know like you’ve never heard before\.  Cover: Coldplay, Tate McRae, and The Migos.
+> The hits you know like you’ve never heard before\.  Cover: Harry Styles.
 
-146 songs - 8 hr 46 min - [published](https://open.spotify.com/playlist/4vwHHoNBJiy53B2sRKKvPz)
+147 songs - 8 hr 50 min - [published](https://open.spotify.com/playlist/4vwHHoNBJiy53B2sRKKvPz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Feel It Still \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5Xh97PTcc1LxMF8sc8Xhis) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Spotify Singles](https://open.spotify.com/album/7iDdb2gzMIVZEV0ZSlXu83) | 2:49 | 2021-09-08 |  |
 | [Friends \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3jb6ByvjXfeM1p0ISGN584) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Spotify Singles](https://open.spotify.com/album/0VcmfkTIowuHgCCurP5xf7) | 3:00 | 2021-09-08 |  |
 | [Gates to the Sun \(POLLEN Singles\)](https://open.spotify.com/track/6EG0w98d2S1u1copDAHDqP) | [SahBabii](https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Gates to the Sun \(POLLEN Singles\)](https://open.spotify.com/album/6SaeE8lgGxlOafd4yZFYs8) | 2:15 | 2021-09-08 |  |
+| [Girl Crush \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Spotify Singles](https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj) | 4:03 | 2022-09-01 |  |
 | [Give Yourself a Try \- Recorded at RAK Studios, London](https://open.spotify.com/track/4LEkamb9xfjXN2WccLZzgb) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [Spotify Singles](https://open.spotify.com/album/7c99hQVIhlC7u9zWo1O3SS) | 4:05 | 2021-09-08 | 2022-08-12 |
 | [Give Yourself A Try \- Recorded at RAK Studios, London](https://open.spotify.com/track/4OoqzDZZyckVUeExecQL8y) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [Spotify Singles](https://open.spotify.com/album/3xfiakKOICUZr8sAFvHnxQ) | 4:05 | 2022-05-27 |  |
 | [He Like That \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/45rT6cjM0p49BI4r6Q8izo) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Spotify Singles](https://open.spotify.com/album/7CDrEUJdfoW3l4Ic7Rv05t) | 3:37 | 2021-09-08 |  |
@@ -141,7 +142,7 @@
 | [Uh Huh \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/0BgN8OKw1OfbpKSSNI9C2L) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Spotify Singles](https://open.spotify.com/album/0NiTGXkQbHfTIoS0Uc7OQn) | 2:09 | 2021-09-08 | 2022-07-29 |
 | [Us \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/5rOI6O8olG9nobqsLzEqWZ) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Spotify Singles](https://open.spotify.com/album/2EMazBF6QXkOSpRSVg8Pdj) | 3:03 | 2021-09-08 |  |
 | [Use Somebody \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5My4LtZW8JQJoKFDWodqIt) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Spotify Singles](https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh) | 2:56 | 2021-09-08 |  |
-| [Walking Away \- Recorded At Spotify Studios Stockholm](https://open.spotify.com/track/6eXTECbiawTve7VP1vEDcs) | [NODE](https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg) | [Spotify Singles](https://open.spotify.com/album/4ZXl1inxvsA1x3uKIIRomO) | 3:21 | 2021-09-08 |  |
+| [Walking Away \- Recorded At Spotify Studios Stockholm](https://open.spotify.com/track/6eXTECbiawTve7VP1vEDcs) | [NODE](https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg) | [Spotify Singles](https://open.spotify.com/album/4ZXl1inxvsA1x3uKIIRomO) | 3:21 | 2021-09-08 | 2022-09-02 |
 | [Want You In My Room \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/3brtbfC3XB210HgYYDxcf2) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Spotify Singles](https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib) | 2:41 | 2021-09-08 |  |
 | [Waterfalls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0L8A9wUfx9fQF8kmpAFFXk) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Spotify Singles](https://open.spotify.com/album/0WzPaJFRUSZXW9RdYsgr8v) | 3:10 | 2021-09-08 |  |
 | [Watermelon Sugar \(featuring Avenue Beat\)](https://open.spotify.com/track/6pPD1k342KK4fMU6xPHufi) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y), [Avenue Beat](https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc) | [Spotify Singles](https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs) | 2:57 | 2021-09-08 |  |

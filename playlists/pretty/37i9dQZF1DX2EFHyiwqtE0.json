@@ -1,12 +1,12 @@
 {
   "description": "Latin tunes that both you and your little one can enjoy.",
-  "num_followers": 8222,
+  "num_followers": 8249,
   "original_name": "Raised on Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjY4NjIyNCwwMDAwMDAwMGQ0OTgzYTU1N2E3Zjc2MTEzZTFiMzRlNWQxOWE2ZGY0",
+  "snapshot_id": "MTY0NjY4NjIyNCwwMDAwMDAwMGIzMTdmZmU3MjgxMDczMTUyMzZlYjc5NTA4YzJiMTVk",
   "tracks": [
     {
       "added_at": "2022-01-01 08:00:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Tierra De Nadie",
-        "url": "https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 227600,
-      "name": "Simplemente Amigos",
-      "url": "https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
         "name": "Esta Es Mi Vida",
         "url": "https://open.spotify.com/album/1DqezzIzunjysnTKPtxB98"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 222626,
       "name": "Espacio sideral",
       "url": "https://open.spotify.com/track/3OIoy3TNU7CL5PTaHOGmbR"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Tierra De Nadie",
+        "url": "https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 227600,
+      "name": "Simplemente Amigos",
+      "url": "https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G"
     },
     {
       "added_at": "2022-01-01 08:00:00",

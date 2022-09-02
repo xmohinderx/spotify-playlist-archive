@@ -1,12 +1,12 @@
 {
   "description": "Take the afternoon off.",
-  "num_followers": 17365,
+  "num_followers": 17440,
   "original_name": "Ros\u00e9 on Tap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTMwNjI3MiwwMDAwMDAwMDk1NmM0ODkzOWNjMTA1ZjZlYzZjODI2ZTRmMDEyYTVm",
+  "snapshot_id": "MTY1OTMwNjI3MiwwMDAwMDAwMGUzNDgzZWIyMTAxNDNiODJhYTkxYTE0YmI0MGFjMTY3",
   "tracks": [
     {
       "added_at": "2022-07-31 22:24:31",
@@ -583,6 +583,22 @@
     {
       "added_at": "2022-07-31 22:24:31",
       "album": {
+        "name": "No More Drama",
+        "url": "https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 265866,
+      "name": "Family Affair",
+      "url": "https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu"
+    },
+    {
+      "added_at": "2022-07-31 22:24:31",
+      "album": {
         "name": "Drunk (And I Don't Wanna Go Home)",
         "url": "https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 245625,
       "name": "Drunk (And I Don't Wanna Go Home)",
       "url": "https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa"
-    },
-    {
-      "added_at": "2022-07-31 22:24:31",
-      "album": {
-        "name": "No More Drama",
-        "url": "https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 265866,
-      "name": "Family Affair",
-      "url": "https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu"
     },
     {
       "added_at": "2022-07-31 22:24:31",
@@ -727,18 +727,18 @@
     {
       "added_at": "2022-07-31 22:24:31",
       "album": {
-        "name": "GIRL",
-        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
+        "name": "1989",
+        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
       },
       "artists": [
         {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 197293,
-      "name": "The Bones",
-      "url": "https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ"
+      "duration_ms": 231826,
+      "name": "Blank Space",
+      "url": "https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky"
     },
     {
       "added_at": "2022-07-31 22:24:31",
@@ -759,18 +759,18 @@
     {
       "added_at": "2022-07-31 22:24:31",
       "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 231826,
-      "name": "Blank Space",
-      "url": "https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky"
+      "duration_ms": 197293,
+      "name": "The Bones",
+      "url": "https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ"
     },
     {
       "added_at": "2022-07-31 22:24:31",

@@ -1,12 +1,12 @@
 {
   "description": "deep & dark. bold & bare. cover: Julien Baker",
-  "num_followers": 242657,
+  "num_followers": 242641,
   "original_name": "noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjQ2MCwwMDAwMDAwMGYzYmY0MTgwYjJmNDQ0MDUzZjU3ZjQ5NTgyMTczYTgx",
+  "snapshot_id": "MTY2MTQ4NjQ2MCwwMDAwMDAwMDI0MzY3MDFmYzE4NTllNDRhMzE3NDVkODVmNTRiMDk0",
   "tracks": [
     {
       "added_at": "2021-11-12 05:00:00",
@@ -243,22 +243,6 @@
     {
       "added_at": "2021-11-12 05:00:00",
       "album": {
-        "name": "Notion - EP",
-        "url": "https://open.spotify.com/album/42KDvyFS8ZBOxan2uKZuW5"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 341000,
-      "name": "Notion",
-      "url": "https://open.spotify.com/track/1HTqgP13dorct3BltLaB0l"
-    },
-    {
-      "added_at": "2021-11-12 05:00:00",
-      "album": {
         "name": "The Bends",
         "url": "https://open.spotify.com/album/49222lHU3qAalWzClAabbp"
       },
@@ -275,18 +259,18 @@
     {
       "added_at": "2021-11-12 05:00:00",
       "album": {
-        "name": "Cool Girl",
-        "url": "https://open.spotify.com/album/0TCc51KQYlnJ6WuFOgN6hI"
+        "name": "Notion - EP",
+        "url": "https://open.spotify.com/album/42KDvyFS8ZBOxan2uKZuW5"
       },
       "artists": [
         {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
         }
       ],
-      "duration_ms": 199384,
-      "name": "Cool Girl",
-      "url": "https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9"
+      "duration_ms": 341000,
+      "name": "Notion",
+      "url": "https://open.spotify.com/track/1HTqgP13dorct3BltLaB0l"
     },
     {
       "added_at": "2021-11-12 05:00:00",
@@ -303,6 +287,22 @@
       "duration_ms": 238829,
       "name": "Faking My Own Death",
       "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
+    },
+    {
+      "added_at": "2021-11-12 05:00:00",
+      "album": {
+        "name": "Cool Girl",
+        "url": "https://open.spotify.com/album/0TCc51KQYlnJ6WuFOgN6hI"
+      },
+      "artists": [
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "duration_ms": 199384,
+      "name": "Cool Girl",
+      "url": "https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9"
     },
     {
       "added_at": "2021-11-12 05:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2021-11-12 05:00:00",
       "album": {
-        "name": "The World We Built",
-        "url": "https://open.spotify.com/album/3Z7jF3AHU6lNKkqDFYCern"
-      },
-      "artists": [
-        {
-          "name": "The Wild Reeds",
-          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
-        }
-      ],
-      "duration_ms": 257173,
-      "name": "Capable",
-      "url": "https://open.spotify.com/track/6WC0MIb3nGYkniBsh5DkPh"
-    },
-    {
-      "added_at": "2021-11-12 05:00:00",
-      "album": {
         "name": "Wild Parts",
         "url": "https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 239979,
       "name": "Wild Parts",
       "url": "https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG"
+    },
+    {
+      "added_at": "2021-11-12 05:00:00",
+      "album": {
+        "name": "The World We Built",
+        "url": "https://open.spotify.com/album/3Z7jF3AHU6lNKkqDFYCern"
+      },
+      "artists": [
+        {
+          "name": "The Wild Reeds",
+          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
+        }
+      ],
+      "duration_ms": 257173,
+      "name": "Capable",
+      "url": "https://open.spotify.com/track/6WC0MIb3nGYkniBsh5DkPh"
     },
     {
       "added_at": "2021-11-12 05:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2021-11-12 05:00:00",
       "album": {
-        "name": "Ignorance",
-        "url": "https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE"
-      },
-      "artists": [
-        {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
-        }
-      ],
-      "duration_ms": 320524,
-      "name": "Robber",
-      "url": "https://open.spotify.com/track/57sW7XhinRtf8lL4GwzVGi"
-    },
-    {
-      "added_at": "2021-11-12 05:00:00",
-      "album": {
         "name": "Someone New",
         "url": "https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 229501,
       "name": "Someone New",
       "url": "https://open.spotify.com/track/4rkUQKlWrCM6DiYRFqybdZ"
+    },
+    {
+      "added_at": "2021-11-12 05:00:00",
+      "album": {
+        "name": "Ignorance",
+        "url": "https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 320524,
+      "name": "Robber",
+      "url": "https://open.spotify.com/track/57sW7XhinRtf8lL4GwzVGi"
     },
     {
       "added_at": "2021-11-12 05:00:00",
@@ -847,6 +847,22 @@
       "duration_ms": 192981,
       "name": "This Is What You Did",
       "url": "https://open.spotify.com/track/38Wlgvbw9rM2cm5ZQjMUl5"
+    },
+    {
+      "added_at": "2021-11-12 05:00:00",
+      "album": {
+        "name": "Coming Of Age pt. 1",
+        "url": "https://open.spotify.com/album/2QXM0eteTUsJ42k6T9fEEy"
+      },
+      "artists": [
+        {
+          "name": "Maddie Medley",
+          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
+        }
+      ],
+      "duration_ms": 261475,
+      "name": "Buzz",
+      "url": "https://open.spotify.com/track/2HJfsvk8GKk6qCGLG8cMCA"
     },
     {
       "added_at": "2021-11-12 05:00:00",
@@ -915,22 +931,6 @@
     {
       "added_at": "2021-11-12 05:00:00",
       "album": {
-        "name": "Coming Of Age pt. 1",
-        "url": "https://open.spotify.com/album/2QXM0eteTUsJ42k6T9fEEy"
-      },
-      "artists": [
-        {
-          "name": "Maddie Medley",
-          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
-        }
-      ],
-      "duration_ms": 261475,
-      "name": "Buzz",
-      "url": "https://open.spotify.com/track/2HJfsvk8GKk6qCGLG8cMCA"
-    },
-    {
-      "added_at": "2021-11-12 05:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1SMUYWhPwuZzNR7Q0PGz8o"
       },
@@ -967,6 +967,22 @@
     {
       "added_at": "2021-11-12 05:00:00",
       "album": {
+        "name": "Held Down",
+        "url": "https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 247933,
+      "name": "Held Down",
+      "url": "https://open.spotify.com/track/2PHeCBCWESSAqfxpORbxKA"
+    },
+    {
+      "added_at": "2021-11-12 05:00:00",
+      "album": {
         "name": "in defense of my own happiness",
         "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 192106,
       "name": "wish you the best (feat. Jensen McRae)",
       "url": "https://open.spotify.com/track/6N41BkrO2jEHjNS3zlXo45"
-    },
-    {
-      "added_at": "2021-11-12 05:00:00",
-      "album": {
-        "name": "Held Down",
-        "url": "https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 247933,
-      "name": "Held Down",
-      "url": "https://open.spotify.com/track/2PHeCBCWESSAqfxpORbxKA"
     },
     {
       "added_at": "2021-11-12 05:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2021-11-12 05:00:00",
       "album": {
-        "name": "Thumbs",
-        "url": "https://open.spotify.com/album/0lNq65nJ30VwPv6nzmVbhc"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 265440,
-      "name": "Thumbs",
-      "url": "https://open.spotify.com/track/79pcC3KJRMA2L8xIb5mu3G"
-    },
-    {
-      "added_at": "2021-11-12 05:00:00",
-      "album": {
         "name": "Old Time Feeling",
         "url": "https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 308706,
       "name": "If It Ain't Me Babe",
       "url": "https://open.spotify.com/track/39j6F8ulgcWZn1M4R4hRSu"
+    },
+    {
+      "added_at": "2021-11-12 05:00:00",
+      "album": {
+        "name": "Thumbs",
+        "url": "https://open.spotify.com/album/0lNq65nJ30VwPv6nzmVbhc"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 265440,
+      "name": "Thumbs",
+      "url": "https://open.spotify.com/track/79pcC3KJRMA2L8xIb5mu3G"
     },
     {
       "added_at": "2021-11-12 05:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2021-11-12 05:00:00",
       "album": {
-        "name": "Eastwick / Cold Caller",
-        "url": "https://open.spotify.com/album/1YQzACJ3FqQI4vqtK3e9sU"
-      },
-      "artists": [
-        {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
-        }
-      ],
-      "duration_ms": 237015,
-      "name": "Cold Caller",
-      "url": "https://open.spotify.com/track/67eBpn7WYYSUcwI76Et8iN"
-    },
-    {
-      "added_at": "2021-11-12 05:00:00",
-      "album": {
         "name": "Lincoln, Nebraska",
         "url": "https://open.spotify.com/album/3sliyQLmB0w5oU2yjkuZgH"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 143674,
       "name": "Lincoln, Nebraska",
       "url": "https://open.spotify.com/track/0wjgbfx3N3bYqJUgs80gQi"
+    },
+    {
+      "added_at": "2021-11-12 05:00:00",
+      "album": {
+        "name": "Eastwick / Cold Caller",
+        "url": "https://open.spotify.com/album/1YQzACJ3FqQI4vqtK3e9sU"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 237015,
+      "name": "Cold Caller",
+      "url": "https://open.spotify.com/track/67eBpn7WYYSUcwI76Et8iN"
     },
     {
       "added_at": "2021-11-12 05:00:00",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2021-11-12 05:00:00",
       "album": {
+        "name": "Walking Proof",
+        "url": "https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a"
+      },
+      "artists": [
+        {
+          "name": "Lilly Hiatt",
+          "url": "https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90"
+        }
+      ],
+      "duration_ms": 175773,
+      "name": "Rae",
+      "url": "https://open.spotify.com/track/2MQC4MMW0xXjNPM0b30I1D"
+    },
+    {
+      "added_at": "2021-11-12 05:00:00",
+      "album": {
         "name": "Vessel",
         "url": "https://open.spotify.com/album/6UwMhfqSFCopdNxxyEqERd"
       },
@@ -1363,18 +1379,18 @@
     {
       "added_at": "2021-11-12 05:00:00",
       "album": {
-        "name": "Walking Proof",
-        "url": "https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a"
+        "name": "Oliver",
+        "url": "https://open.spotify.com/album/4ngu4UzWbLvArpuZzUl3m0"
       },
       "artists": [
         {
-          "name": "Lilly Hiatt",
-          "url": "https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90"
+          "name": "Brooke Bentham",
+          "url": "https://open.spotify.com/artist/6c1CljS2C5YB6k7INEUs0A"
         }
       ],
-      "duration_ms": 175773,
-      "name": "Rae",
-      "url": "https://open.spotify.com/track/2MQC4MMW0xXjNPM0b30I1D"
+      "duration_ms": 315855,
+      "name": "Oliver",
+      "url": "https://open.spotify.com/track/60ltZnAfLz7ChT96ld006V"
     },
     {
       "added_at": "2021-11-12 05:00:00",
@@ -1407,22 +1423,6 @@
       "duration_ms": 304773,
       "name": "I'm Too Smart",
       "url": "https://open.spotify.com/track/3cHUgy2YScaImqEk8ovZBz"
-    },
-    {
-      "added_at": "2021-11-12 05:00:00",
-      "album": {
-        "name": "Oliver",
-        "url": "https://open.spotify.com/album/4ngu4UzWbLvArpuZzUl3m0"
-      },
-      "artists": [
-        {
-          "name": "Brooke Bentham",
-          "url": "https://open.spotify.com/artist/6c1CljS2C5YB6k7INEUs0A"
-        }
-      ],
-      "duration_ms": 315855,
-      "name": "Oliver",
-      "url": "https://open.spotify.com/track/60ltZnAfLz7ChT96ld006V"
     },
     {
       "added_at": "2021-11-12 05:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2021-11-12 05:00:00",
       "album": {
-        "name": "L\u00e9g\u00e8rement",
-        "url": "https://open.spotify.com/album/3qevMOyAq8iKlElxTrX6tc"
-      },
-      "artists": [
-        {
-          "name": "Rosier",
-          "url": "https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1"
-        }
-      ],
-      "duration_ms": 195494,
-      "name": "Paula Collins",
-      "url": "https://open.spotify.com/track/6u6xrnKXzVVlInlfiHFZsP"
-    },
-    {
-      "added_at": "2021-11-12 05:00:00",
-      "album": {
         "name": "Sprinter",
         "url": "https://open.spotify.com/album/69JffH9w7GDmHTmebOjlPR"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 284951,
       "name": "Sprinter",
       "url": "https://open.spotify.com/track/6gjkQKgCWQA2ZA9froITyw"
+    },
+    {
+      "added_at": "2021-11-12 05:00:00",
+      "album": {
+        "name": "L\u00e9g\u00e8rement",
+        "url": "https://open.spotify.com/album/3qevMOyAq8iKlElxTrX6tc"
+      },
+      "artists": [
+        {
+          "name": "Rosier",
+          "url": "https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1"
+        }
+      ],
+      "duration_ms": 195494,
+      "name": "Paula Collins",
+      "url": "https://open.spotify.com/track/6u6xrnKXzVVlInlfiHFZsP"
     },
     {
       "added_at": "2021-11-12 05:00:00",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2021-11-12 05:00:00",
       "album": {
+        "name": "Silver Tongue",
+        "url": "https://open.spotify.com/album/2OSANMwUl0y0wXe3w8stmv"
+      },
+      "artists": [
+        {
+          "name": "TORRES",
+          "url": "https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9"
+        }
+      ],
+      "duration_ms": 215695,
+      "name": "Good Scare",
+      "url": "https://open.spotify.com/track/2cDN2czQq2Kwni0E05fnFG"
+    },
+    {
+      "added_at": "2021-11-12 05:00:00",
+      "album": {
         "name": "Vampire Weeknight",
         "url": "https://open.spotify.com/album/6tpPh09H0rTNtFsKCzNtfV"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 229513,
       "name": "Drunk Dreams",
       "url": "https://open.spotify.com/track/40hZhgLAc1ANWvuht7dEV9"
-    },
-    {
-      "added_at": "2021-11-12 05:00:00",
-      "album": {
-        "name": "Silver Tongue",
-        "url": "https://open.spotify.com/album/2OSANMwUl0y0wXe3w8stmv"
-      },
-      "artists": [
-        {
-          "name": "TORRES",
-          "url": "https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9"
-        }
-      ],
-      "duration_ms": 215695,
-      "name": "Good Scare",
-      "url": "https://open.spotify.com/track/2cDN2czQq2Kwni0E05fnFG"
     },
     {
       "added_at": "2021-11-12 05:00:00",

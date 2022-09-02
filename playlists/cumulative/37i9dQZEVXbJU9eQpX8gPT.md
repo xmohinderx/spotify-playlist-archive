@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-773 songs - 1 day 18 hr 36 min - [published](https://open.spotify.com/playlist/6oVuoPZGB8lcas4ebv85iY)
+774 songs - 1 day 18 hr 38 min - [published](https://open.spotify.com/playlist/6oVuoPZGB8lcas4ebv85iY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -369,6 +369,7 @@
 | [Koulchi Dead](https://open.spotify.com/track/4cjd4pktK5daQmpTG7a6JB) | [ISSAM](https://open.spotify.com/artist/37lslcg6zP6eAQAONiYvWN) | [Crystal](https://open.spotify.com/album/5DaSVXmnpAJDsXl7AJxYyO) | 2:56 | 2021-05-08 | 2021-05-17 |
 | [Kouni Liya](https://open.spotify.com/track/7w599w2PChoiHg9SNXloXz) | [Chaos333](https://open.spotify.com/artist/1fP5b7OUxcCkbhUX3yKVzE) | [Kouni Liya](https://open.spotify.com/album/5dtPSOpA9sTUGxOvhXneLb) | 3:42 | 2021-12-03 | 2021-12-19 |
 | [Kssiriri](https://open.spotify.com/track/2MF33zeXjLsKxlK75hDtDl) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Colors](https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9) | 3:00 | 2021-10-03 | 2021-12-05 |
+| [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2022-09-01 |  |
 | [KURT](https://open.spotify.com/track/67C5sd2eIR1TwqOUmN4s89) | [Fat Mizzo](https://open.spotify.com/artist/4sGgnHfL5rjJqK5WxQl9bU) | [KURT](https://open.spotify.com/album/0frHmgo8bkgXAd6uLaMjAy) | 3:10 | 2021-09-13 | 2021-10-09 |
 | [L](https://open.spotify.com/track/3t5rxFCtPFSUULtNAaARXz) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [L](https://open.spotify.com/album/3L6hcHjXIAQimZpiOMr9Hg) | 3:04 | 2022-02-16 | 2022-05-06 |
 | [l e t \. g o \. m y \. h a n d \(with Bas & 6LACK\)](https://open.spotify.com/track/0GAyuCo975IHGxxiLKDufB) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 4:26 | 2021-05-16 | 2021-05-17 |
@@ -460,7 +461,7 @@
 | [Mghayer](https://open.spotify.com/track/5QhnCB5kD34sYkvHviU0yz) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Caméléon](https://open.spotify.com/album/1E2FLbD0dchh1eVfO3MKC6) | 3:34 | 2021-03-27\* |  |
 | [Mgwani](https://open.spotify.com/track/6dvS18w5nASjcxIHrfSOGW) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4), [Asmae](https://open.spotify.com/artist/22axSYd0A2j0jpnlf6tkyg) | [Arabi](https://open.spotify.com/album/5BYolD1SiHzv16i7sqxhAX) | 3:19 | 2021-03-27\* | 2021-05-07 |
 | [Mic Check](https://open.spotify.com/track/3ZlOTA0nibbiZZfAkbMu8M) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v), [Diib](https://open.spotify.com/artist/1PAFc1G2WeoQ4DeGKETVdi) | [Cagoulé](https://open.spotify.com/album/1qD0LUxHxbr5UPw7Rz99C0) | 2:54 | 2022-05-29 | 2022-05-31 |
-| [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 | 2022-03-18 |  |
+| [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 | 2022-03-18 | 2022-09-02 |
 | [Mikasa](https://open.spotify.com/track/6oJ47Df5ScLAlZdgWHUAqX) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Caméléon](https://open.spotify.com/album/1E2FLbD0dchh1eVfO3MKC6) | 2:56 | 2021-03-27\* | 2021-04-28 |
 | [MILANO](https://open.spotify.com/track/1U4xCEE1kKqUIwc4mGAPf3) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [BANDANA](https://open.spotify.com/album/4DBrAszM7FdWyblxrIKed3) | 4:09 | 2022-06-19 | 2022-06-24 |
 | [MILANO](https://open.spotify.com/track/4RubGzQ6Gdtt11URFNQ8Q8) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [BANDANA](https://open.spotify.com/album/24JV61zK3eDqPTNdcAnmK5) | 4:09 | 2022-06-25 | 2022-07-27 |

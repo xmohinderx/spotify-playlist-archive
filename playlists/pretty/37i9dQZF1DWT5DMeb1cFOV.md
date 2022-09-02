@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5DMeb1cFOV.md) - [plain]
 
 > Per trovare il buonumore, anche a lavoro!
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,975 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,989 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5DMeb1cFOV.md) - [plain]
 | 28 | [Like I Can](https://open.spotify.com/track/2TeLIzFBe3hxkPR5FIQZut) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 2:47 |
 | 29 | [Budapest](https://open.spotify.com/track/2ixsaeFioXJmMgkkbd4uj1) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage \(Expanded Edition\)](https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E) | 3:20 |
 | 30 | [Could You Be Loved](https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Uprising](https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX) | 3:57 |
-| 31 | [Drops of Jupiter \(Tell Me\)](https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Drops Of Jupiter](https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT) | 4:19 |
-| 32 | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR) | 3:39 |
+| 31 | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR) | 3:39 |
+| 32 | [Drops of Jupiter \(Tell Me\)](https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Drops Of Jupiter](https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT) | 4:19 |
 | 33 | [You Make My Dreams \(Come True\)](https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Voices](https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS) | 3:10 |
 | 34 | [A\-O\-K](https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:53 |
 | 35 | [Tiny Dancer](https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Madman Across The Water](https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr) | 6:17 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5DMeb1cFOV.md) - [plain]
 | 59 | [Easy](https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Commodores](https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl) | 4:16 |
 | 60 | [Build Me Up Buttercup \- Mono](https://open.spotify.com/track/6sPOmDulFtLzfX25zICNrC) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [The Foundations](https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp) | 2:57 |
 
-Snapshot ID: `MTY2MTg1MzEzNywwMDAwMDAwMDgwMDJhZDMzYjJmMjIxNjkxZDlhYTkwOWJkNGYzYjc4`
+Snapshot ID: `MTY2MTg1MzEzNywwMDAwMDAwMGJlYTVkNjllODZiZTA5YmQyNGQyMzVhNzI2YWZlNzM1`

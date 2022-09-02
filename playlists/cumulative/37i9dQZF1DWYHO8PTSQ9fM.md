@@ -4,7 +4,7 @@
 
 > Les hits Maghrébins du moment sont ici\. Cover : Nej.
 
-97 songs - 5 hr 22 min - [published](https://open.spotify.com/playlist/5fjwJv8oqkWtmz8CqfcbMQ)
+98 songs - 5 hr 25 min - [published](https://open.spotify.com/playlist/5fjwJv8oqkWtmz8CqfcbMQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Nari](https://open.spotify.com/track/1yUJXkJw1VQ79JhTVr5xya) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Nari](https://open.spotify.com/album/6RK47j4ljvi1689fE6Kd6q) | 3:57 | 2022-05-12 | 2022-06-03 |
 | [No Stop](https://open.spotify.com/track/6VD64LAe1raY65BTkJdt5v) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [No Stop](https://open.spotify.com/album/14FD9LxC7IR05LPeDK5Ts9) | 3:46 | 2022-05-12 | 2022-07-24 |
 | [No Wahala](https://open.spotify.com/track/4vHy2IHzf3EabEa7oMpUZB) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Original Vibe Machine](https://open.spotify.com/album/4lPTjESEvOe5pvtLbralQ3) | 2:42 | 2022-05-12 |  |
+| [Nsiti](https://open.spotify.com/track/39IyCxrLN3USQLaTQ9tnMa) | [Oussama](https://open.spotify.com/artist/473J09XfjAXYQPbYQQS9Ml) | [Nsiti](https://open.spotify.com/album/0uTXQyHxnSUibdyT05WCCu) | 2:52 | 2022-09-01 |  |
 | [Oh Bébé feat\. DYSTINCT](https://open.spotify.com/track/0XnvKbl68rDvXAI4uOU8rk) | [DJ Sem](https://open.spotify.com/artist/6RXNoNfqGTqlCIwAvzo4Xp), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Oh Bébé feat\. DYSTINCT](https://open.spotify.com/album/48OejE1iLW3oJeoA1g8xDI) | 2:52 | 2022-05-12 | 2022-05-31 |
 | [Oran Marseille](https://open.spotify.com/track/0Ye58r1DvVAIR2JMpNEu8B) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [Nadirben](https://open.spotify.com/artist/6zqHGUcxVpqdd2aP3513d3), [Lakero](https://open.spotify.com/artist/15M6Rc9osdjjf4H45ET433) | [Oran Marseille](https://open.spotify.com/album/39RyhwGJlc0JKBclw45kFC) | 2:55 | 2022-08-25 |  |
 | [Panamera](https://open.spotify.com/track/4KoiLBOLPnSERA0apY9y1I) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw), [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Panamera](https://open.spotify.com/album/4LNkYBGVRC7F3VjeEqQsRr) | 2:39 | 2022-05-12 | 2022-05-25 |
@@ -87,7 +88,7 @@
 | [RIP, Love](https://open.spotify.com/track/3sYZo4HrHX8tkul5FhUpVo) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [RIP, Love](https://open.spotify.com/album/1gTmjLH8mcfzQsKSG8piVX) | 2:53 | 2022-05-12 |  |
 | [Roma \- Radio Edit](https://open.spotify.com/track/2o9x8x12rRTN7XJi8xAQTG) | [Chemsou Freeklane](https://open.spotify.com/artist/3wggOQ992VWtMCrs7ro14h), [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Roma \(Radio Edit\)](https://open.spotify.com/album/2GJHVDoh0vr3FLmZ0qNVAv) | 3:24 | 2022-07-04 | 2022-07-19 |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-07-13 | 2022-07-29 |
-| [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 | 2022-07-26 |  |
+| [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 | 2022-07-26 | 2022-09-02 |
 | [Sabra](https://open.spotify.com/track/0iqRTNFvfLZUjdkIBaJkVS) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Sabra](https://open.spotify.com/album/7DTt8yVftsh8Gi0opaE74z) | 3:43 | 2022-05-12 | 2022-05-25 |
 | [Salade Coco](https://open.spotify.com/track/71k5nrJuZcr9j3X0YIBwWh) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Salade Coco](https://open.spotify.com/album/2fktU7sGEJ5ocfANqVMe5M) | 2:47 | 2022-05-12 | 2022-08-12 |
 | [Sonia](https://open.spotify.com/track/5NuvJqrwmFovb6TGbnjjqR) | [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW) | [Sonia](https://open.spotify.com/album/3x3LtImIZjkp0Xw7MZj2DW) | 3:23 | 2022-05-12 | 2022-08-10 |

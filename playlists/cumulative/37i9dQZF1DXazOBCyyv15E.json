@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-09-29",
-  "description": "The home of the best new alternative music. Cover: Willow Kayne",
+  "description": "The home of the best new alternative music. Cover: Gorillaz",
   "name": "The Other List",
   "published_playlist_ids": [
     "2P9CK2lB90NpmCPDPSex2G"
@@ -1280,6 +1280,24 @@
     },
     {
       "album": {
+        "name": "Elevator Music",
+        "url": "https://open.spotify.com/album/0J37ZEurdvlWlLbQ5vZsEW"
+      },
+      "artists": [
+        {
+          "name": "KhakiKid",
+          "url": "https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138775,
+      "name": "Babybrown",
+      "url": "https://open.spotify.com/track/3O5dlqHswHAlApKDRR9YfK"
+    },
+    {
+      "album": {
         "name": "BACK ON TOP (feat. Griff)",
         "url": "https://open.spotify.com/album/5bAoNisJV6KVdJ3puwJ54B"
       },
@@ -2453,7 +2471,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 301480,
       "name": "Buddy's Rendezvous",
       "url": "https://open.spotify.com/track/7qqrGV5WpQnMKqVTsDZd9J"
@@ -4527,7 +4545,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 155968,
       "name": "don't jump the gun",
       "url": "https://open.spotify.com/track/5A4IUiCLfZAjEME2QPgf8P"
@@ -6447,7 +6465,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 233456,
       "name": "Glimpse of Us",
       "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
@@ -6693,7 +6711,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 181312,
       "name": "GOOD TIMES",
       "url": "https://open.spotify.com/track/1WeqJkPY5rDIfyOKWfyuf5"
@@ -8865,7 +8883,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 185664,
       "name": "It Took A Lot To Get To This",
       "url": "https://open.spotify.com/track/1kLn3PxbnFzHV1kkXWpg4e"
@@ -9184,6 +9202,24 @@
     },
     {
       "album": {
+        "name": "Kid Gloves",
+        "url": "https://open.spotify.com/album/3hWeE6fhFNAqkFrjlXePnZ"
+      },
+      "artists": [
+        {
+          "name": "Low Island",
+          "url": "https://open.spotify.com/artist/5MCl6mca6ZixPR36dHH9Sd"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236938,
+      "name": "Kid Gloves",
+      "url": "https://open.spotify.com/track/5Ag5z3WhHWROE7d6AQ6TGX"
+    },
+    {
+      "album": {
         "name": "Kid Stuff",
         "url": "https://open.spotify.com/album/3BLXawJu9gNVyMZrUskHt7"
       },
@@ -9213,7 +9249,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 176876,
       "name": "killer",
       "url": "https://open.spotify.com/track/4QUzLCXrpHO4c6dGyZlpO2"
@@ -10139,6 +10175,24 @@
       "duration_ms": 237213,
       "name": "Love Story",
       "url": "https://open.spotify.com/track/6qK38sSJQvNgUu2F9oLv85"
+    },
+    {
+      "album": {
+        "name": "love you",
+        "url": "https://open.spotify.com/album/2KXyli3I93NmwZSyVIfv9k"
+      },
+      "artists": [
+        {
+          "name": "Sfven",
+          "url": "https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180023,
+      "name": "love you",
+      "url": "https://open.spotify.com/track/0X6T4SlSO3Vlj030nn2z0K"
     },
     {
       "album": {
@@ -11478,6 +11532,32 @@
     },
     {
       "album": {
+        "name": "New Gold (feat. Tame Impala and Bootie Brown)",
+        "url": "https://open.spotify.com/album/4V9YFKLqZ5h8nQFTvDQscC"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "Bootie Brown",
+          "url": "https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215149,
+      "name": "New Gold (feat. Tame Impala and Bootie Brown)",
+      "url": "https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU"
+    },
+    {
+      "album": {
         "name": "New Guilty Pleasure",
         "url": "https://open.spotify.com/album/29whFjeSyjiiduiXumkM48"
       },
@@ -11613,6 +11693,24 @@
       "duration_ms": 242600,
       "name": "Nightsiren",
       "url": "https://open.spotify.com/track/0aXRpTl4qi8eBKifM9fD3A"
+    },
+    {
+      "album": {
+        "name": "Nike",
+        "url": "https://open.spotify.com/album/4TheMbO9MrRGaDzJwyTyVx"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127624,
+      "name": "Nike",
+      "url": "https://open.spotify.com/track/1ueaBqr5S3NxQhj1gKgmwj"
     },
     {
       "album": {
@@ -13580,6 +13678,24 @@
     },
     {
       "album": {
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/13L02WekpJUjOj1SiIUBoW"
+      },
+      "artists": [
+        {
+          "name": "SOHN",
+          "url": "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255970,
+      "name": "Riverbank",
+      "url": "https://open.spotify.com/track/0SP2eFIWDUhg3WyLvGz8tg"
+    },
+    {
+      "album": {
         "name": "Robot Riot",
         "url": "https://open.spotify.com/album/4dnVdfbC0z2EkLPC9D2MJ4"
       },
@@ -15089,7 +15205,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 257746,
       "name": "Spitting Off the Edge of the World",
       "url": "https://open.spotify.com/track/3kBBjItT7JnKi28k68dGkr"
@@ -15521,7 +15637,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 166186,
       "name": "Stuck In The Middle",
       "url": "https://open.spotify.com/track/5f7us9O5oOi4QqSpehe3Qo"
@@ -15785,7 +15901,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 332000,
       "name": "Sweet Isolation (Metropole Orkest)",
       "url": "https://open.spotify.com/track/3jNdydQGl08mlbmd2Xceal"
@@ -16666,6 +16782,24 @@
     },
     {
       "album": {
+        "name": "The Princess Song",
+        "url": "https://open.spotify.com/album/3HZ3yiPnoKJD9qOLGbSmk5"
+      },
+      "artists": [
+        {
+          "name": "Blossom Caldarone",
+          "url": "https://open.spotify.com/artist/0BrUMx34x84azYCP7QvEU0"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274007,
+      "name": "The Princess Song",
+      "url": "https://open.spotify.com/track/10YV4xUMoIUFr3r5Xfdfho"
+    },
+    {
+      "album": {
         "name": "The Rip",
         "url": "https://open.spotify.com/album/66VcDksRnEDw1LSfeYI46t"
       },
@@ -16851,6 +16985,24 @@
       "duration_ms": 189939,
       "name": "There's Only One (feat. Genesis Owusu)",
       "url": "https://open.spotify.com/track/3FypeFOz4MXOMaC20j1mBg"
+    },
+    {
+      "album": {
+        "name": "There\u2019d Better Be A Mirrorball",
+        "url": "https://open.spotify.com/album/0ZUmodAwUq8cQJFvyibKwT"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265798,
+      "name": "There\u2019d Better Be A Mirrorball",
+      "url": "https://open.spotify.com/track/0yowbJnnbTLpr99f9l1uba"
     },
     {
       "album": {
@@ -18340,6 +18492,24 @@
     },
     {
       "album": {
+        "name": "When the Lights Go",
+        "url": "https://open.spotify.com/album/44JtSWfXOPoZeqTKjbMaPH"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295436,
+      "name": "When the Lights Go",
+      "url": "https://open.spotify.com/track/3NQ4j0kY3lX8kbUfhS8GZV"
+    },
+    {
+      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/7saSlN9qdW5wKoN4M9nNRq"
       },
@@ -18499,7 +18669,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 165157,
       "name": "WISH U PICKED ME\u2026",
       "url": "https://open.spotify.com/track/1jL1WlEx5i1mLxrNpYxN8Y"

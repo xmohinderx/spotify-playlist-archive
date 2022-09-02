@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 
 > Lo mejor del reggaetón y flow actual, y lo que vendrá\. Portada: Myke Towers, Jhayco
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,746 likes - 76 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,818 likes - 76 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 
 > Indie takes on songs others make\. Cover: Remi Wolf
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,866 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,629 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 14 | [Blinding Lights](https://open.spotify.com/track/3Iy7HHDobkkXJuBrSbuoU0) | [Ouvindo](https://open.spotify.com/artist/5L0QMeigP4hG0iVXspQVid) | [Blinding Lights](https://open.spotify.com/album/7K77V3y6amFewbD01gZhby) | 3:37 |
 | 15 | [Why'd You Only Call Me When You're High?](https://open.spotify.com/track/7GzmBQVPlJ9blD0Qb7Dbq8) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Why'd You Only Call Me When You're High?](https://open.spotify.com/album/2IclBimd3mgbt2bs23k6Lv) | 2:32 |
 | 16 | [Godspeed](https://open.spotify.com/track/5WfACgyEk4rwdWU3rrzNt1) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Godspeed](https://open.spotify.com/album/0qYRbCu2dmz948wOiROlcC) | 2:53 |
-| 17 | [i will follow you into the dark \- Spotify Singles](https://open.spotify.com/track/7lxfdfIocUHefodQ8JLyfk) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [Spotify Singles](https://open.spotify.com/album/54lLvzhlVF4QhQMBfPQhtl) | 2:33 |
-| 18 | [Crazy](https://open.spotify.com/track/47jgSvqlKwGyBLPnMfeEZN) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Crazy](https://open.spotify.com/album/0hOdcKXM4riRXmpyo71SFs) | 4:02 |
+| 17 | [Crazy](https://open.spotify.com/track/47jgSvqlKwGyBLPnMfeEZN) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Crazy](https://open.spotify.com/album/0hOdcKXM4riRXmpyo71SFs) | 4:02 |
+| 18 | [i will follow you into the dark \- Spotify Singles](https://open.spotify.com/track/7lxfdfIocUHefodQ8JLyfk) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [Spotify Singles](https://open.spotify.com/album/54lLvzhlVF4QhQMBfPQhtl) | 2:33 |
 | 19 | [Home](https://open.spotify.com/track/38O3WQ0SQykunIq3cbZIFb) | [Matthew Hall](https://open.spotify.com/artist/2KEK4PfckTQZk4rvo2bgfZ) | [Home](https://open.spotify.com/album/0ISmFVrI9E1lrbKYiK3kS2) | 4:23 |
 | 20 | [re: Stacks \- Spotify Singles](https://open.spotify.com/track/6X6fJzF0BGbUk6mhqNvgZZ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Spotify Singles](https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf) | 5:09 |
 | 21 | [I'm On Fire](https://open.spotify.com/track/0lhcKPk0fppMAnFUt3QNy7) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [I'm On Fire](https://open.spotify.com/album/5KA5O0ZMkVYk7UJHNfy3bs) | 2:38 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 54 | [Fake Plastic Trees](https://open.spotify.com/track/2wVoRTUczkumuqcgNlRnLa) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Fake Plastic Trees](https://open.spotify.com/album/6HeM8ZTANrAREphp6jQ5Ym) | 4:20 |
 | 55 | [This Will Be Our Year](https://open.spotify.com/track/3LPvSvPOv2z6FK4xyobePc) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [Singing Other People's Love Songs](https://open.spotify.com/album/3608IcniealifcqI8WbKte) | 2:16 |
 | 56 | [Industry Baby](https://open.spotify.com/track/0ypcpkYOckOLxySl4m69gM) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Industry Baby](https://open.spotify.com/album/5T8h52l8nVMqPSGq52Q8kq) | 3:51 |
-| 57 | [Go Easy, Kid \(with James Blake\)](https://open.spotify.com/track/0y8MdWQBAXTTm8BFdqjfrD) | [Monica Martin](https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Go Easy, Kid \(with James Blake\)](https://open.spotify.com/album/5WqCAcv7n9dfevwkEEfMph) | 4:27 |
-| 58 | [Alaska](https://open.spotify.com/track/0QfnsSPIJ1BOHFjZyC2lyk) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Alaska](https://open.spotify.com/album/052acR0QzZbbPNkwnbakxe) | 3:00 |
+| 57 | [Alaska](https://open.spotify.com/track/0QfnsSPIJ1BOHFjZyC2lyk) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Alaska](https://open.spotify.com/album/052acR0QzZbbPNkwnbakxe) | 3:00 |
+| 58 | [Go Easy, Kid \(with James Blake\)](https://open.spotify.com/track/0y8MdWQBAXTTm8BFdqjfrD) | [Monica Martin](https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Go Easy, Kid \(with James Blake\)](https://open.spotify.com/album/5WqCAcv7n9dfevwkEEfMph) | 4:27 |
 | 59 | [Good News](https://open.spotify.com/track/43SWVKMD9mVUAwx8pkmWbV) | [Yoshi Flower](https://open.spotify.com/artist/0rAt7V95LWbRPvWQFd21il) | [Ode](https://open.spotify.com/album/20e4uXVD8PBrziY0YtsTPi) | 3:37 |
 | 60 | [Float On](https://open.spotify.com/track/2ymifjFHCi1myYA58sHI4v) | [Phil Good](https://open.spotify.com/artist/3MDqk7o9WcL4FSvlyyGjRv) | [Float On](https://open.spotify.com/album/7r66RwoqENhVVxQ1vonlgb) | 2:56 |
 | 61 | [Sweater Weather \(Acoustic\)](https://open.spotify.com/track/0BbV0fKqY3jxlXYbtzN2bO) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf), [Kyson Facer](https://open.spotify.com/artist/0c6DUuMDIsuhBUUgYRGI30) | [Sweater Weather \(Acoustic\)](https://open.spotify.com/album/0BdJo2A39iIZxoJXZLLTkG) | 2:30 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 66 | [Angels](https://open.spotify.com/track/7tc04xLTn7fG4IUujpuC9r) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Angels](https://open.spotify.com/album/7on0P5zUPpkedI9EtJ4SGJ) | 2:34 |
 | 67 | [Never Tear Us Apart](https://open.spotify.com/track/6ApsMLGIa9zw446CrqxcEi) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Never Tear Us Apart](https://open.spotify.com/album/3aM9iFr4aGdb9S275yWRZk) | 3:18 |
 | 68 | [i wanna be your girlfriend](https://open.spotify.com/track/1MbEADz2hSkQAM2Yikfr9Y) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [i wanna be your girlfriend](https://open.spotify.com/album/5pIuwcGXWj9Vl2Ohz37XlH) | 5:11 |
-| 69 | [Everytime \- Spotify Singles](https://open.spotify.com/track/3zMii5HJl31nRBgcuvwHcf) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Everytime \- Spotify Singles](https://open.spotify.com/album/1Gohh6kwFpUJiwr5cqG9y8) | 3:54 |
-| 70 | [Back To Black](https://open.spotify.com/track/44Z41mjp6AgW2NaXD0OIaP) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Back To Black](https://open.spotify.com/album/594QOTgYUnFesTBYXPHWB7) | 4:02 |
-| 71 | [Nothing Breaks Like A Heart](https://open.spotify.com/track/6n7cRyHASeWTLJv5LLQ1qi) | [Ten Fé](https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT) | [Nothing Breaks Like A Heart](https://open.spotify.com/album/0zBZokjXEln00OETFLesm2) | 3:16 |
+| 69 | [Nothing Breaks Like A Heart](https://open.spotify.com/track/6n7cRyHASeWTLJv5LLQ1qi) | [Ten Fé](https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT) | [Nothing Breaks Like A Heart](https://open.spotify.com/album/0zBZokjXEln00OETFLesm2) | 3:16 |
+| 70 | [Everytime \- Spotify Singles](https://open.spotify.com/track/3zMii5HJl31nRBgcuvwHcf) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Everytime \- Spotify Singles](https://open.spotify.com/album/1Gohh6kwFpUJiwr5cqG9y8) | 3:54 |
+| 71 | [Back To Black](https://open.spotify.com/track/44Z41mjp6AgW2NaXD0OIaP) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Back To Black](https://open.spotify.com/album/594QOTgYUnFesTBYXPHWB7) | 4:02 |
 | 72 | [Pumped Up Kicks \- Gus Dapperton Version](https://open.spotify.com/track/5bLaUOpi4YlCY8F3txSKxN) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Pumped Up Kicks \(Gus Dapperton Version\)](https://open.spotify.com/album/3N6JDO9GBMR7sZHpgxY1OS) | 3:52 |
 | 73 | [Don't Dream It's Over](https://open.spotify.com/track/3SZ5m5GQyIKIhIoizDGTQg) | [OCTAVIO the Dweeb](https://open.spotify.com/artist/0gqcx73XJbrIif5poxdHqt) | [Dweeb Tapes](https://open.spotify.com/album/5YIN6swBDIybgewMSEpX54) | 3:14 |
 | 74 | [Like a Rolling Stone](https://open.spotify.com/track/49Q2VVHzabFRwAUQ1ByLNa) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Like a Rolling Stone](https://open.spotify.com/album/5UJhgkj2fP5ycNLbVdzQ3H) | 6:49 |
 | 75 | [These Days](https://open.spotify.com/track/3LWZZ5vzhOSMN6u9pgO6Eu) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Covers](https://open.spotify.com/album/58z5GjZRjt6XIz5GOS0PJh) | 3:44 |
 
-Snapshot ID: `MTY2MDc3MjU3OCwwMDAwMDAwMGJhMzU2ZmQ0NTA1OGNlNmY2MzdhMjhlN2U4NTRkMzQw`
+Snapshot ID: `MTY2MDc3MjU3OCwwMDAwMDAwMGQ1NDVjNWYyYzE5N2FkYzFmZTdhZDdjNzcxY2Q0MDZl`

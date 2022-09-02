@@ -2,7 +2,7 @@
 
 ### [Spotify Singles: Country](https://open.spotify.com/playlist/37i9dQZF1DXdXh4ecan7Hh)
 
-> County's best like you've never heard before\. Cover: Kane Brown, Kelsea Ballerini & Breland
+> County's best like you've never heard before\. Cover: Ingrid Andress
 
 81 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/6cfFPGErcW6407wBcuU0nz)
 

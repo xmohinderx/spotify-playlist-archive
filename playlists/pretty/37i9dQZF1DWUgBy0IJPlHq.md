@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Nikki Lane
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,882 likes - 130 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,986 likes - 130 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

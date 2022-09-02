@@ -4,7 +4,7 @@
 
 > A deep and concise look at the music that made Country Music what is is today\.  Covers eras <br/>1930's \- 1990.
 
-116 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/2Qo80W3yO0hp9ZkThC7cjv)
+117 songs - 5 hr 56 min - [published](https://open.spotify.com/playlist/2Qo80W3yO0hp9ZkThC7cjv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,8 @@
 | [She Thinks I Still Care](https://open.spotify.com/track/42mWEvGlwKGhVQs8XkvQKP) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [The New Favorites Of George Jones](https://open.spotify.com/album/73xcCIpGvz7aqMjuFfPqsR) | 2:34 | 2020-10-14 |  |
 | [She's In Love With The Boy](https://open.spotify.com/track/4EJvW4NHAk7TrIeX44jjXF) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Love Songs](https://open.spotify.com/album/3F3ssJx3jlQBOkD6EVM7Z1) | 4:05 | 2020-10-14 |  |
 | [Stand By Your Man](https://open.spotify.com/track/2Cb2l4UoXynCHCeCYHRZN8) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [Stand By Your Man](https://open.spotify.com/album/1m4lP2IzV8Z1oEUYMHMClr) | 2:37 | 2020-10-14 |  |
-| [Streets of Bakersfield \(with Buck Owens\) \- 2006 Remaster](https://open.spotify.com/track/3pYZlqrcvbWnw2FWnZtUrI) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW), [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [Rhino Hi\-Five: Dwight Yoakam](https://open.spotify.com/album/1riOmyzZwqxByj20hBMD3J) | 2:49 | 2020-10-14 |  |
+| [Streets of Bakersfield](https://open.spotify.com/track/5B7f2auRhwkl5OjC2bQ58f) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW) | [Buenas Noches From a Lonely Room](https://open.spotify.com/album/1NZ8YBYnruBPeKLuvTBARx) | 2:48 | 2022-05-06 |  |
+| [Streets of Bakersfield \(with Buck Owens\) \- 2006 Remaster](https://open.spotify.com/track/3pYZlqrcvbWnw2FWnZtUrI) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW), [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [Rhino Hi\-Five: Dwight Yoakam](https://open.spotify.com/album/1riOmyzZwqxByj20hBMD3J) | 2:49 | 2020-10-14 | 2022-09-02 |
 | [Sunday Morning Coming Down](https://open.spotify.com/track/0gSc5Vo4tczXkHb2V208jz) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Austin Sessions](https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA) | 5:19 | 2020-10-14 |  |
 | [Take Me Back To Tulsa](https://open.spotify.com/track/74zBjPCZ1juar6yeglInYv) | [Bob Wills & Tommy Duncan with The Texas Playboys](https://open.spotify.com/artist/3yBtUA2dRBtjPmZcwYfPGE) | [Together Again](https://open.spotify.com/album/6t9dBg7mEjCJdCFJY0hQfX) | 2:34 | 2020-10-14 |  |
 | [Tennessee Flat Top Box](https://open.spotify.com/track/00viUMvYR4Smwuw6l1W4el) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [Hits 1979 \- 1989](https://open.spotify.com/album/3Bn77PH5xZ2QedRQM6DJPP) | 3:09 | 2020-10-14 |  |

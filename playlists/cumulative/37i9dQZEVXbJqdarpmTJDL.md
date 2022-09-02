@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-865 songs - 1 day 22 hr 54 min - [published](https://open.spotify.com/playlist/6k8YKBJeozCdDcoim94nFY)
+866 songs - 1 day 22 hr 58 min - [published](https://open.spotify.com/playlist/6k8YKBJeozCdDcoim94nFY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -506,6 +506,7 @@
 | [Mia Klisi](https://open.spotify.com/track/38ztkalYixz4hYX3R9K27K) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Immortale \(Deluxe Edition\)](https://open.spotify.com/album/4pG7RebITssOm6t4w9TNL8) | 2:30 | 2021-06-20 | 2021-06-22 |
 | [Mia Zoi](https://open.spotify.com/track/0iP2NME41Inz2Hb2tS6sKJ) | [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9), [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd), [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw) | [Aliteia](https://open.spotify.com/album/0P6s8gS6LcV2V1tkDl7cXY) | 3:51 | 2021-04-18 | 2022-05-02 |
 | [MIAMI](https://open.spotify.com/track/4zk4Q1nwAC0zB2maZ2zyW9) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [Marseaux](https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz) | [1987](https://open.spotify.com/album/0tIrawhAe8o5l0kU66hVi4) | 2:13 | 2022-01-14 | 2022-04-29 |
+| [Miami 2](https://open.spotify.com/track/1uowh5aqRJzGT1KowsSUmC) | [Bloody Hawk](https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy) | [Miami 2](https://open.spotify.com/album/0gZOF23WY1m7kL04p80hh2) | 3:56 | 2022-09-01 |  |
 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 | 2022-03-09 | 2022-04-24 |
 | [Mikri](https://open.spotify.com/track/2h6a8AGzI8XBnhYbVHzMJ4) | [Mente Fuerte](https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH), [Ellize](https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH) | [Amantes Amentes](https://open.spotify.com/album/2LkHpJX8sT5M4c5T71xRqF) | 2:57 | 2022-06-11 | 2022-06-13 |
 | [Mili](https://open.spotify.com/track/4FMfbom8BeocIBepxkzTqK) | [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA) | [Mili](https://open.spotify.com/album/572GS5o3ykTew37kiCGC0l) | 3:07 | 2022-07-30 | 2022-08-28 |
@@ -773,7 +774,7 @@
 | [The Kid \(Egglemon\)](https://open.spotify.com/track/0BJleoyJwNpcZquJ8IoVtN) | [Immune](https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX), [Chico Beatz](https://open.spotify.com/artist/00TgUofD51utqGzkMdAbWY) | [Prometheus](https://open.spotify.com/album/5gBnMPbN5lduEZZU22lQ1W) | 3:40 | 2021-10-31 | 2021-11-08 |
 | [The Town](https://open.spotify.com/track/2uKFLI80dpZWqU4AoFp4iC) | [Ethismos](https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997), [GoldenChild](https://open.spotify.com/artist/5p5s48lCsujHviP7XFXth0) | [Made in Athens](https://open.spotify.com/album/7ixSPgCEincMrIGIt25vi0) | 2:47 | 2022-01-22 | 2022-01-27 |
 | [Thelei Tattoo](https://open.spotify.com/track/5H9XGo7LFHgTy0vbnOlwaf) | [Rack](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9) | [Rackattack](https://open.spotify.com/album/7yVBbv5rns5WJmpQaDSEK3) | 2:21 | 2021-05-21 | 2022-01-01 |
-| [There’d Better Be A Mirrorball](https://open.spotify.com/track/0yowbJnnbTLpr99f9l1uba) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [There’d Better Be A Mirrorball](https://open.spotify.com/album/0ZUmodAwUq8cQJFvyibKwT) | 4:25 | 2022-08-31 |  |
+| [There’d Better Be A Mirrorball](https://open.spotify.com/track/0yowbJnnbTLpr99f9l1uba) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [There’d Better Be A Mirrorball](https://open.spotify.com/album/0ZUmodAwUq8cQJFvyibKwT) | 4:25 | 2022-08-31 | 2022-09-02 |
 | [Thisies](https://open.spotify.com/track/1GuaVYahbWQq9jzmiQLSO3) | [Scar](https://open.spotify.com/artist/0RvMynE7qhIfAZdMHkA1Mq), [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0) | [Thisies](https://open.spotify.com/album/1JyjWSEAJRVTeF9sJq52mm) | 3:13 | 2021-11-04 | 2021-11-20 |
 | [Ti Fovasai](https://open.spotify.com/track/4JbRc0FR337Q25YFjs8XPn) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Ti Fovasai](https://open.spotify.com/album/5NTFkVuUw69kePIPcqVhsI) | 4:18 | 2021-05-29 | 2021-06-06 |
 | [Ti Fovasai](https://open.spotify.com/track/5Gk1WhWoRgy9feTvLT9RWK) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Immortale](https://open.spotify.com/album/7eypibdDfmkcSp62ElEv1G) | 4:18 | 2021-06-06 | 2021-10-17 |

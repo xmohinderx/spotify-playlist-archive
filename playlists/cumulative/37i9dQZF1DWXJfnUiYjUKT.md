@@ -4,7 +4,7 @@
 
 > The very best in new music from around the world\. Cover: DJ Khaled
 
-3,458 songs - 7 day 13 hr 11 min - [published](https://open.spotify.com/playlist/5wehzvuAdBk8faZ6p0CSjF)
+3,459 songs - 7 day 13 hr 13 min - [published](https://open.spotify.com/playlist/5wehzvuAdBk8faZ6p0CSjF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1502,7 +1502,7 @@
 | [I Think I Met You In A Dream](https://open.spotify.com/track/09MZIpr7ciaUZyxHKb37Mz) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [I Think I Met You In A Dream](https://open.spotify.com/album/22LPEr1Zguz9lVmqLQReEO) | 3:09 | 2022-02-18 | 2022-02-25 |
 | [i think i wanna text u](https://open.spotify.com/track/4hH46xhExjwEGfuWFgnOc3) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [vaultboy EP](https://open.spotify.com/album/0SiHxjCWqC4ODGKirRUk9L) | 3:16 | 2022-01-14 | 2022-01-21 |
 | [I Took A Ride](https://open.spotify.com/track/4iX3NZghkIK04tLz3ooh8P) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [I Took A Ride](https://open.spotify.com/album/0fdk3hxMlzrbL9DjRmBcl9) | 3:44 | 2022-07-01 | 2022-07-08 |
-| [I Want You \(with Future\)](https://open.spotify.com/track/30pBgahZNXNLvtQVi5HUxQ) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Public Housing](https://open.spotify.com/album/3H7rkiYB6yjsuMZbxApOCn) | 3:23 | 2022-08-26 |  |
+| [I Want You \(with Future\)](https://open.spotify.com/track/30pBgahZNXNLvtQVi5HUxQ) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Public Housing](https://open.spotify.com/album/3H7rkiYB6yjsuMZbxApOCn) | 3:25 | 2022-08-26 |  |
 | [I WANT YOU BUT YOU'LL NEVER KNOW...](https://open.spotify.com/track/6GkzW1afOfnnNGhEMrA5ct) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [Shelley FKA DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [I WANT YOU BUT YOU'LL NEVER KNOW...](https://open.spotify.com/album/4NEN5cCWBvREzE5LA7huDD) | 3:50 | 2022-07-15 | 2022-07-22 |
 | [i want, doesn't get](https://open.spotify.com/track/04W4goRWBFhucHH5XmHMvt) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [i want, doesn't get](https://open.spotify.com/album/3uN3Syyka3yAaYdfzDPhoi) | 2:31 | 2022-06-17 | 2022-06-25 |
 | [i will follow you into the dark \- Spotify Singles](https://open.spotify.com/track/7lxfdfIocUHefodQ8JLyfk) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [Spotify Singles](https://open.spotify.com/album/54lLvzhlVF4QhQMBfPQhtl) | 2:33 | 2022-07-29 | 2022-08-05 |
@@ -3452,7 +3452,8 @@
 | [Your Tongue](https://open.spotify.com/track/00WQxluVREF12JZkKWvio4) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [Your Tongue](https://open.spotify.com/album/6UKVwQpP25N2sMC37kN8Hz) | 2:37 | 2022-02-11 | 2022-02-18 |
 | [Yours](https://open.spotify.com/track/7BpqydHSxMviDR0DNTne6J) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Yours](https://open.spotify.com/album/2i4vxgeB2Sn97KeBs2vYtO) | 3:24 | 2022-05-20 | 2022-05-27 |
 | [YouYouYou](https://open.spotify.com/track/1p6Q3r89gsQAg1EBaNHvZl) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [YouYouYou](https://open.spotify.com/album/5qngAxc71Qsxq1vChF0hzm) | 3:03 | 2022-05-05 | 2022-05-14 |
-| [YUKON \(INTERLUDE\)](https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi) | 2:21 | 2022-08-26 |  |
+| [YUKON \(INTERLUDE\)](https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi) | 2:21 | 2022-08-26 | 2022-09-02 |
+| [YUKON \(INTERLUDE\)](https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/0GxWXE6ltKk4Gx3WyWLLrW) | 2:21 | 2022-08-26 |  |
 | [Yungen \(feat\. Jack Harlow\)](https://open.spotify.com/track/1NtyeXryylf8HWXnxVTD3v) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Beautiful Mind](https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL) | 3:46 | 2022-08-12 | 2022-08-20 |
 | [Zatoichi \[Feat\. slowthai\]](https://open.spotify.com/track/5s9d3JiqxsuAkuDTDStBh6) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Zatoichi \[Feat\. slowthai\]](https://open.spotify.com/album/4weY0bnYOJU2b9ras4JFbZ) | 3:30 | 2022-02-24 | 2022-03-04 |
 | [Zeit](https://open.spotify.com/track/6eOGjyegLDZqCvCZ3divgp) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/0kHIXBNeED9HPrXMZEZqEu) | 5:21 | 2022-03-11 | 2022-03-18 |

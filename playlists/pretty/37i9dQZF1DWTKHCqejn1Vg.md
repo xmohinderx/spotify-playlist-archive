@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,788 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,837 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,14 +32,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 22 | [I Love It](https://open.spotify.com/track/6CBA5xTE7Z4cyA9rzlhFdA) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [130 Mood : TRBL](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) | 3:36 |
 | 23 | [I wonder \(Feat\. Jay Park\)](https://open.spotify.com/track/5MHGisZlUlK6btdLRBCpYr) | [dress](https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Not my fault](https://open.spotify.com/album/2JkrPV9FwfFQd5EI8Haau9) | 3:34 |
 | 24 | [Waiting For](https://open.spotify.com/track/3Ql4eE1qDzuhZVnE8jyjdt) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 1 \- The 3rd Album](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) | 2:57 |
-| 25 | [Not Bad \(feat\. Dawon\)](https://open.spotify.com/track/2NQJBaeX4YuZlQveSIRIyT) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [New Edition 41](https://open.spotify.com/album/3JhDyQCniCuttwqA9eFtUs) | 3:15 |
-| 26 | [Love Kills](https://open.spotify.com/track/4kuzXJLEHWn412PoIMeVuP) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [LOG](https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo) | 4:37 |
+| 25 | [Love Kills](https://open.spotify.com/track/4kuzXJLEHWn412PoIMeVuP) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [LOG](https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo) | 4:37 |
+| 26 | [Not Bad \(feat\. Dawon\)](https://open.spotify.com/track/2NQJBaeX4YuZlQveSIRIyT) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [New Edition 41](https://open.spotify.com/album/3JhDyQCniCuttwqA9eFtUs) | 3:15 |
 | 27 | [I Don’t Disappoint](https://open.spotify.com/track/5ZB78ePnCLHREvjQMuVtzY) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 3:30 |
 | 28 | [bag on you](https://open.spotify.com/track/51crTtY8DcxVclj75pbRHg) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [bag on you](https://open.spotify.com/album/2q2XkVA3ktdA6pB8ycotcg) | 2:24 |
 | 29 | [Rebound](https://open.spotify.com/track/0naU7W4XICqrfTtwEzMu2x) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [SET](https://open.spotify.com/album/5FCXsnwWOFHbdIR13XYONv) | 2:58 |
 | 30 | [In the Blur of the Rain](https://open.spotify.com/track/5NbGKVTywRBQpqkkaQJi5j) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Evergray](https://open.spotify.com/album/7DMeNlCClB36augRfjESKN) | 3:53 |
-| 31 | [Future Love](https://open.spotify.com/track/5QUg1vCGUJUtbcsACtxo4O) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [LOG](https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo) | 4:00 |
-| 32 | [Excuses](https://open.spotify.com/track/00BGwxNgdsGLcidUl6eUgc) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey) | [Neo Seoul](https://open.spotify.com/album/6AsgC7JCztk4Nsy9OEtNDQ) | 3:15 |
+| 31 | [Excuses](https://open.spotify.com/track/00BGwxNgdsGLcidUl6eUgc) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey) | [Neo Seoul](https://open.spotify.com/album/6AsgC7JCztk4Nsy9OEtNDQ) | 3:15 |
+| 32 | [Future Love](https://open.spotify.com/track/5QUg1vCGUJUtbcsACtxo4O) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [LOG](https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo) | 4:00 |
 | 33 | [Wet The Bed](https://open.spotify.com/track/0SdSuUUoVuQWA40yldhDht) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [S.O.S \(Sink or Swim\)](https://open.spotify.com/album/1e9a1koBntuC0NdrJuqmel) | 3:00 |
 | 34 | [Replay](https://open.spotify.com/track/08PZbZWEUQJXjF6n5jyRT0) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 2:43 |
 | 35 | [Pick up your phone \(Feat\. MOON\)](https://open.spotify.com/track/5FMPLl79EfOnRZ4xn2Mck0) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [ROOM SERVICE](https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0) | 3:05 |
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 50 | [kiss my lips](https://open.spotify.com/track/38hndqHRm6jQEwUMHlUWjl) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [kiss my lips](https://open.spotify.com/album/27tRNKb20UIkshCBrdIPr3) | 3:15 |
 | 51 | [I want to \(Feat\. meenoi\)](https://open.spotify.com/track/4rkYKiXRJWCCam1gbxMyqO) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [TAKE](https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6) | 3:33 |
 | 52 | [Murder On The Dance Floor](https://open.spotify.com/track/6nuAMaTLREca7BWlXlm52s) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [I'M LOVIN' AMY](https://open.spotify.com/album/1N3ZneaWp9SVREC9JSgsia) | 3:22 |
-| 53 | [Te Quiero\(feat.BIBI\)](https://open.spotify.com/track/1CxgsJPNnz5X3j92ky5mie) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [K.I.S.S](https://open.spotify.com/album/3NWSMArT2uajdVjViCnWe1) | 3:14 |
-| 54 | [glass](https://open.spotify.com/track/5AFRf43aEAoPzbF8UfQjbN) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [glass](https://open.spotify.com/album/1VPiZ5TPYbkPT8u0kOuQLe) | 3:28 |
+| 53 | [glass](https://open.spotify.com/track/5AFRf43aEAoPzbF8UfQjbN) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [glass](https://open.spotify.com/album/1VPiZ5TPYbkPT8u0kOuQLe) | 3:28 |
+| 54 | [Te Quiero\(feat.BIBI\)](https://open.spotify.com/track/1CxgsJPNnz5X3j92ky5mie) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [K.I.S.S](https://open.spotify.com/album/3NWSMArT2uajdVjViCnWe1) | 3:14 |
 | 55 | [2080](https://open.spotify.com/track/3F5HhdyBfvCbzuPJbGBHkc) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [ETERNITY](https://open.spotify.com/album/4AaUEBm8sByHNPpVSQoQPI) | 3:40 |
 | 56 | [DRiNK 2 4GET \(feat\. oceanfromtheblue\)](https://open.spotify.com/track/0Dmy2qmiAKQDbgv2ESvRhx) | [MRSHLL](https://open.spotify.com/artist/0seQaFC4HsYcxj5o27Ls45), [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [XYZ](https://open.spotify.com/album/07W9u6v5DClq89nGm8MwLc) | 3:57 |
 | 57 | [Sunrise \(Feat\. EunBii\)](https://open.spotify.com/track/0RLqnVxt7xUw9squmxCqkN) | [Wildberry](https://open.spotify.com/artist/1YQcUhWjs1NGWi24wLDkgf), [EunBii](https://open.spotify.com/artist/1kNV67V0x2A12uccRtB3xE) | [SUNRISE](https://open.spotify.com/album/1x7iDbE1nFvqPgTgFSz3Ov) | 3:18 |
 | 58 | [Get That Money](https://open.spotify.com/track/1Hmj4hRlzSfs7RA1jCkU5m) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [BOYCOLD](https://open.spotify.com/album/702oAXJwcml4VxPHLQWwrS) | 3:13 |
 | 59 | [Dawn Call](https://open.spotify.com/track/1e9JncQXdjM4DtFpyZrlU7) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6) | [Dawn Call](https://open.spotify.com/album/49P8OaQVu9YVHQcUoLLmoX) | 3:13 |
-| 60 | [Runners](https://open.spotify.com/track/4tQ5wivXoTknZ8PQrgtaYn) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Fragile](https://open.spotify.com/album/0sb0tegIC42FpaodGVDVNe) | 2:28 |
+| 60 | [Hate this love](https://open.spotify.com/track/216Q6SYsRfTCU5FOZWedT0) | [JERO](https://open.spotify.com/artist/4ZT4Uk077lxYVzmVQhMLE9) | [Hate this love](https://open.spotify.com/album/4IYWYTgPE6Axo41x2G7MjD) | 3:03 |
 
-Snapshot ID: `MTY2MDg5NDgxNiwwMDAwMDAwMGY4NTE3YTU5NjRlYjE5MDkyNWEwZmRmNzI1YTg5MGMz`
+Snapshot ID: `MTY2MDg5NDgxNiwwMDAwMDAwMDBiZjU1ZmJkOWE4MDQxODE0ZWJmMTg0MTEwYzFlZDZk`

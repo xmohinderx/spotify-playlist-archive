@@ -4,7 +4,7 @@
 
 > Relive the 80s disco era with these hits\. Cover\- Bappi Lahiri
 
-68 songs - 6 hr 28 min - [published](https://open.spotify.com/playlist/6SfeW0XptP9Kbsct3VXOcx)
+69 songs - 6 hr 32 min - [published](https://open.spotify.com/playlist/6SfeW0XptP9Kbsct3VXOcx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,8 +15,9 @@
 | [Aao Na](https://open.spotify.com/track/1wJpkjQe0KDIAQfT3QKUjX) | [Jolly Mukherjee](https://open.spotify.com/artist/1k86nyDLibfGQYpps8NKO0), [Sridevi Kapoor](https://open.spotify.com/artist/0OBz8mYBMe8tAG2drRn9ZV) | [Песни из к/ф Диско Дива](https://open.spotify.com/album/6mgRhaMMBZRmUVebgmWiM1) | 4:10 | 2022-06-08 |  |
 | [Aao Na \- Album \- Disco Deewane](https://open.spotify.com/track/2AGXWUWXVW6DhJrYKh6URU) | [Nazia Hassan](https://open.spotify.com/artist/5hW7KULTxMzCDnqaV7LASR) | [Disco Deewane](https://open.spotify.com/album/5r0Od0pl5HlKmlEgnnYOkl) | 4:09 | 2021-11-16 | 2022-07-29 |
 | [Aao Twist Karen \(From "Bhoot Bungla"\)](https://open.spotify.com/track/3AZtmFsLnUktv1ewlTrrQf) | [Manna Dey](https://open.spotify.com/artist/4kcoiVXIxvUoLUoHY1vJYU) | [Jhoom Jhoom Jhoom Baba \- Disco Special](https://open.spotify.com/album/7EVv6vS3alGrvOw18OH7PD) | 4:11 | 2021-11-16 |  |
+| [Aap Jaisa Koi \- From "Qurbani"](https://open.spotify.com/track/49xDZ8b0QuJXitxjFaJnXy) | [Nazia Hassan](https://open.spotify.com/artist/5hW7KULTxMzCDnqaV7LASR), [Feroz Khan](https://open.spotify.com/artist/0J3qMXOTkJBJ2dxIXjyTns) | [Ultimate Love Duets Hits Vol.1](https://open.spotify.com/album/7esFwr5RPQsR0yNUML1Ue7) | 4:09 | 2022-06-08 |  |
 | [Aap Jaisa Koi \- Qurbani / Soundtrack Version](https://open.spotify.com/track/3Ta33fxfiHNP4JaI2oHXQW) | [Nazia Hassan](https://open.spotify.com/artist/5hW7KULTxMzCDnqaV7LASR) | [Qurbani \(OST\)](https://open.spotify.com/album/3NTrWr7Sqf55L2uXNT12VU) | 4:09 | 2021-11-16 | 2022-07-29 |
-| [Aap Jaisa Koi \- Qurbani / Soundtrack Version](https://open.spotify.com/track/0Zq2n84Eplok8MnRE8P5hE) | [Nazia Hassan](https://open.spotify.com/artist/5hW7KULTxMzCDnqaV7LASR), [Feroz Khan](https://open.spotify.com/artist/0J3qMXOTkJBJ2dxIXjyTns) | [Qurbani](https://open.spotify.com/album/5XUhA9v9BBihWJBwTq2ZKs) | 4:09 | 2022-06-08 |  |
+| [Aap Jaisa Koi \- Qurbani / Soundtrack Version](https://open.spotify.com/track/0Zq2n84Eplok8MnRE8P5hE) | [Nazia Hassan](https://open.spotify.com/artist/5hW7KULTxMzCDnqaV7LASR), [Feroz Khan](https://open.spotify.com/artist/0J3qMXOTkJBJ2dxIXjyTns) | [Qurbani](https://open.spotify.com/album/5XUhA9v9BBihWJBwTq2ZKs) | 4:09 | 2022-06-08 | 2022-09-02 |
 | [Aap Ke Aa Jane Se \(From "Khudgarz"\)](https://open.spotify.com/track/0HkyMWJTYyhp4kALs17YlA) | [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek), [Mohammed Aziz](https://open.spotify.com/artist/3vXBH4XwXSLM1YIrRBt98k) | [Melodious Voice of Sadhana Sargam](https://open.spotify.com/album/7ID29f8hV3J5IOFmugRQQo) | 7:12 | 2021-11-16 |  |
 | [Auva Auva Koi Yahan Nache](https://open.spotify.com/track/4foMq4FFkVaoVu9oPJMc0z) | [Usha Uthup](https://open.spotify.com/artist/63gvl4egwBtz2czz3aENGa), [Bappi Lahiri](https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN) | [Disco Dancer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7HWHznN9Yi0HBMYWxifg3S) | 5:31 | 2022-06-08 |  |
 | [Auva Auva Koi Yahan Nache](https://open.spotify.com/track/3ynaO9xfodpHFweRYeVlTE) | [Usha Uthup](https://open.spotify.com/artist/63gvl4egwBtz2czz3aENGa), [Bappi Lahiri](https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN) | [Rough Guide To Bollywood Disco](https://open.spotify.com/album/7lEKLv2Toaj2aFL4H7tWmF) | 5:31 | 2021-11-16 | 2022-07-29 |

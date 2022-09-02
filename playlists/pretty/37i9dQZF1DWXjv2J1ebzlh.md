@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,863 likes - 1,196 songs - 3 day 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,908 likes - 1,196 songs - 3 day 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -780,7 +780,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 770 | [Affection](https://open.spotify.com/track/1QtqwOv4MCQm6Sq7421swz) | [Les Vikings d'Haïti](https://open.spotify.com/artist/1CpADqtHzLsknA2yQ0I7uT) | [Cé pas magie](https://open.spotify.com/album/0uO8VUsgxIr7Si0jCJiXJt) | 3:41 |
 | 771 | [Eso Si No e Na \(Salve\)](https://open.spotify.com/track/3UoKCIofzBcvHNsKf7ebgH) | [Isidoro Flores Y Su Cuarteto](https://open.spotify.com/artist/4DKjs2IFfS1y7ju8dV2n99), [Vinicio Franco](https://open.spotify.com/artist/11ntbyXsNwVqgHxI8Q6jhB), [Tilito Vázquez](https://open.spotify.com/artist/3ogsabTUxSnnLEULneGA2q), [Don Santiago](https://open.spotify.com/artist/0KibNMmUplwYFiy2hF4apw) | [Como la Piña, Merengues](https://open.spotify.com/album/4Oefv8PxynzIgXCUY0dC0p) | 2:32 |
 | 772 | [A You Momma](https://open.spotify.com/track/74RS7k3IPbb5feLDC22uhs) | [Ginger Johnson and His African Messengers](https://open.spotify.com/artist/1SLN4cejaprVtC9CO4tRcx) | [African Party](https://open.spotify.com/album/7q7r0MrHX5ALifshTF5P7O) | 3:39 |
-| 773 | [Se o Mundo Acabasse em Mel](https://open.spotify.com/track/6oB3HaVqKN7lp5iJOKDQuf) | [Di Melo](https://open.spotify.com/artist/4KyZtyl55zzHoBJUp07Doe) | [Di Melo](https://open.spotify.com/album/1XGgFeL4PsPYqEghH7JXth) | 3:07 |
+| 773 | [Se O Mundo Acabasse Em Mel](https://open.spotify.com/track/24IrgYEz7EkvDap8lYyQaZ) | [Di Melo](https://open.spotify.com/artist/4KyZtyl55zzHoBJUp07Doe) | [Sol de Verão 2021](https://open.spotify.com/album/19nZbz3qRHOvixEPSMR3WH) | 3:06 |
 | 774 | [Zifaf Filfada / زفاف في الفضاء](https://open.spotify.com/track/3dx4pFqdxNJb3j12oIVKYE) | [Abdou El Omari / عبده العماري and Naima Samih / نعيمة سميح](https://open.spotify.com/artist/3ySkBe2EboXsdUS4uonPWX) | [Nuits D’été avec Naima Samih / ليالي الصيف](https://open.spotify.com/album/4UOhh9PduQedZI5CCTpea2) | 4:26 |
 | 775 | [Descripcion](https://open.spotify.com/track/5W4GXjPP9PEEnAJQYulvG5) | [Elia y Elizabeth](https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf) | [Elia Y Elizabeth](https://open.spotify.com/album/45nLucXUnWdmEMbACW2FH0) | 2:55 |
 | 776 | [Leki Santchi](https://open.spotify.com/track/5y0la7N0Zgm7TolHMLrlet) | [Napo De Mi Amor et Ses Black Devils](https://open.spotify.com/artist/3QgTWfOeIYn1pl92aWFjTG) | [African Scream Contest: Raw & Psychedelic Afro Sounds from Benin & Togo 70s](https://open.spotify.com/album/2wW5Xu007zO47SHJMIOUvO) | 3:25 |
@@ -892,7 +892,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 882 | [Panema Leblon](https://open.spotify.com/track/6ncEyWi823tROt5SYRRzwZ) | [Claudia](https://open.spotify.com/artist/52MnqrIGCqyidyL6ZkQraC) | [Voce, Claudia, Voce](https://open.spotify.com/album/26JXGw18ZbskFxmbHv19VL) | 2:13 |
 | 883 | [Ain't No Sunshine](https://open.spotify.com/track/2dcFp5BKSHTbzoyJd0MdRk) | [The Equatics](https://open.spotify.com/artist/2StGd2posp9AImgabK7u8P) | [Doin It!!!!](https://open.spotify.com/album/4SN55bwEnC0T1qmBTWZeyW) | 3:33 |
 | 884 | [Rico Coco](https://open.spotify.com/track/2PeL87VR4IqFzr2oyBvNnm) | [NFC](https://open.spotify.com/artist/4hkvpHClhYuR92kbnMix4L) | [Mandrill Cuts 003](https://open.spotify.com/album/67iRN3rCbkf99MLcgZbInw) | 4:16 |
-| 885 | [A Vida em Seus Métodos Diz Calma](https://open.spotify.com/track/0zDgUBtLRAKKCGDMbgHM2u) | [Di Melo](https://open.spotify.com/artist/4KyZtyl55zzHoBJUp07Doe) | [Di Melo](https://open.spotify.com/album/1XGgFeL4PsPYqEghH7JXth) | 3:43 |
+| 885 | [A Vida Em Seus Metodos Diz Calma](https://open.spotify.com/track/6niY7onsGQgK2sgF9XrYir) | [Di Melo](https://open.spotify.com/artist/4KyZtyl55zzHoBJUp07Doe) | [Di Melo](https://open.spotify.com/album/2Uri1KkpSo6YOnjLC4ly7F) | 3:42 |
 | 886 | [Firewalker](https://open.spotify.com/track/4Z4XkmFoBssigIBXHGTP9S) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Tropicoso](https://open.spotify.com/album/481L9QkG0QiHGYBkDzqqsz) | 3:53 |
 | 887 | [Cumbia Colombia](https://open.spotify.com/track/2T2jOYLdZqK4qsOsQKsBzs) | [Chico Cervantes](https://open.spotify.com/artist/7lArxuFcsS5RPDfdXXrNCz) | [Soundway Presents: The Original Sound of Cumbia \(The History of Colombian Cumbia & Porro As Told By The Phonograph 1948\-79 Compiled by Quantic\)](https://open.spotify.com/album/7JjTvJwJsTwy5P2CxXHofO) | 2:35 |
 | 888 | [Rosa Y Mayo](https://open.spotify.com/track/4Z9y9Q3PGD8xSkio4OxY9t) | [Andres Landero](https://open.spotify.com/artist/3RjXjc2b1ndP71qSzdUTlt) | [Soundway Presents: The Original Sound of Cumbia \(The History of Colombian Cumbia & Porro As Told By The Phonograph 1948\-79 Compiled by Quantic\)](https://open.spotify.com/album/7JjTvJwJsTwy5P2CxXHofO) | 2:49 |
@@ -983,7 +983,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 973 | [Como Me Gustas](https://open.spotify.com/track/4gMSwfRSwaIbzT6S0sQtZO) | [Pacho Galan Y Su Orquesta](https://open.spotify.com/artist/3oACj8FFNi9TuX4ad4ircv) | [Como Me Gustas](https://open.spotify.com/album/63rSF8T5rtFOu4ksOrZgAK) | 2:36 |
 | 974 | [Si Me Quieres](https://open.spotify.com/track/6Bx4bfum3dd8FAEiLVntzP) | [Los Hijos del sol](https://open.spotify.com/artist/2eDtYwKCGACUH3hFyaZ7Ah) | [Tropicalísimo: Clásicos de Cumbia Peruana](https://open.spotify.com/album/4y6v6W4BoxN7HjlbxKL6lW) | 3:09 |
 | 975 | [Kossa Kossa](https://open.spotify.com/track/0VRv4f0FS0XBp9qXzWAd8c) | [The Souljazz Orchestra](https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo) | [Resistance](https://open.spotify.com/album/1XqtSROG7PSVbfJqeAqJ9D) | 4:08 |
-| 976 | [Aceito Tudo](https://open.spotify.com/track/3XbXN8TNFfMW4gDsFDIDWL) | [Di Melo](https://open.spotify.com/artist/4KyZtyl55zzHoBJUp07Doe) | [Di Melo](https://open.spotify.com/album/1XGgFeL4PsPYqEghH7JXth) | 2:58 |
+| 976 | [Aceito Tudo](https://open.spotify.com/track/0qLoyuVr5soKdhcqyv6Et3) | [Di Melo](https://open.spotify.com/artist/4KyZtyl55zzHoBJUp07Doe) | [Di Melo](https://open.spotify.com/album/2Uri1KkpSo6YOnjLC4ly7F) | 2:57 |
 | 977 | [Coconut](https://open.spotify.com/track/5rJSFuBV3QBGTrywHJt5sA) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [African Voodoo](https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1) | 2:11 |
 | 978 | [Esclavo Moderno](https://open.spotify.com/track/6zkzRZNWwYljmPEcToLCdy) | [Manuel Alvarez Y Sus Dangers](https://open.spotify.com/artist/4b6AAYTwyp56YfTu7ppMJm) | [Palenque Palenque: Champeta Criolla & Afro Roots in Colombia 1975\-91](https://open.spotify.com/album/1gXeomyVC17Y26UmWP5ugy) | 2:54 |
 | 979 | [Love and Death](https://open.spotify.com/track/2EdcEOJf2V8xMOTO7q2gCN) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Love & Death](https://open.spotify.com/album/4MTtvGnI74RyOmG5UrVZhf) | 6:55 |
@@ -1205,4 +1205,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1195 | [María del Carmen](https://open.spotify.com/track/4wwLkoEEtiWSVy0EVVMiy1) | [Andres Landero Y Su Conjunto](https://open.spotify.com/artist/1a1B3usUWpHK4S3u0iN8T4) | [Cumbias y Más Cumbias](https://open.spotify.com/album/4pD1vtjlFm2ftlWQPZCQJd) | 4:16 |
 | 1196 | [Quem Não Faz Filhos](https://open.spotify.com/track/3GEYdZGGJthGoLjPk9E7Kd) | [Os Kiezos](https://open.spotify.com/artist/5y4KGcTAhFsxkLXQiE8cZf) | [Angola Anos d'Ouro: Reviver Os Kiezos](https://open.spotify.com/album/4yMv047txxleA3j7dtOBBb) | 4:11 |
 
-Snapshot ID: `MTY2MTQ2NDg2MCwwMDAwMDAwMDZhNDAwZmQ1NmQyYzcxOTk2ZTg3NWI5NjY1MDc5NmM0`
+Snapshot ID: `MTY2MTQ2NDg2MCwwMDAwMDAwMGE3NzI2ZTM0MzQyYzZlOTA0OTM1YTJmMjkyNzBjODg5`

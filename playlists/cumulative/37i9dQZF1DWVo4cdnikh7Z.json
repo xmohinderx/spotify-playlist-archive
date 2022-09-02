@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "New Music from Kollywood.\nCover : Ponniyin Selvan",
+  "description": "New Music from Kollywood.\nCover : Prince",
   "name": "Latest Tamil",
   "published_playlist_ids": [
     "3lJTsYcdZXxaz1Tx9gEyN0"
@@ -785,6 +785,32 @@
       "duration_ms": 219589,
       "name": "Bejara",
       "url": "https://open.spotify.com/track/4FG0f1jh1VSgJ3j23B4VbF"
+    },
+    {
+      "album": {
+        "name": "Prince (Tamil)",
+        "url": "https://open.spotify.com/album/6lxJ6xdX66dSk6qunfYNkA"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Ramya Behra",
+          "url": "https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv"
+        },
+        {
+          "name": "Sahithi Chaganti",
+          "url": "https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247000,
+      "name": "Bimbilikki Pilapi",
+      "url": "https://open.spotify.com/track/1Hdz67JES35Z4h3Yd4PXvV"
     },
     {
       "album": {

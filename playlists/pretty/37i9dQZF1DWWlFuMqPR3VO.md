@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlFuMqPR3VO.md) - [plain]
 
 > From the jazzy, up\-beat New Orleans blues to the slower, zydeco and Cajun\-influenced Swamp blues\. Cover: Kenny Neal
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,918 likes - 40 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,935 likes - 40 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlFuMqPR3VO.md) - [plain]
 | 16 | [Evil Woman](https://open.spotify.com/track/7lpsRa4kcNoxSHUDNDXpnn) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues From The Gutter](https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL) | 4:21 |
 | 17 | [I'm Coming Home \(To See My Mother\)](https://open.spotify.com/track/75E2RVwx6dncaH51QTFAeU) | [Clifton Chenier](https://open.spotify.com/artist/3LzQVHowQWbzJBwBBNRPfY) | [The Best of Clifton Chenier: The King of Zydeco & Louisiana Blues](https://open.spotify.com/album/2hwL2KfeYCpeMHeve8Y3QF) | 3:19 |
 | 18 | [This Time I'm Gone For Good](https://open.spotify.com/track/2K0M6aAOj5dAMDnDu5VW18) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [Man Of My Word](https://open.spotify.com/album/4fVYzIe9KW1V53DdnYThd5) | 4:40 |
-| 19 | [One More Night](https://open.spotify.com/track/7GB39p4IhgmHf8z0GZtACB) | [Lonesome Sundown](https://open.spotify.com/artist/6AT5owmIbmW2Ktd9vI73ZJ) | [Been Gone Too Long](https://open.spotify.com/album/57lHz8bXu1A72WHOLbl4DO) | 4:15 |
-| 20 | [Mother's Love](https://open.spotify.com/track/5rUM5gwYkbmSERNgvJ6rQA) | [Earl King](https://open.spotify.com/artist/76ox7koAGPytUmTZGU6zWn) | [New Orleans Blues](https://open.spotify.com/album/1lv103HKWAdbOeSGQ69eli) | 2:43 |
+| 19 | [Mother's Love](https://open.spotify.com/track/5rUM5gwYkbmSERNgvJ6rQA) | [Earl King](https://open.spotify.com/artist/76ox7koAGPytUmTZGU6zWn) | [New Orleans Blues](https://open.spotify.com/album/1lv103HKWAdbOeSGQ69eli) | 2:43 |
+| 20 | [One More Night](https://open.spotify.com/track/7GB39p4IhgmHf8z0GZtACB) | [Lonesome Sundown](https://open.spotify.com/artist/6AT5owmIbmW2Ktd9vI73ZJ) | [Been Gone Too Long](https://open.spotify.com/album/57lHz8bXu1A72WHOLbl4DO) | 4:15 |
 | 21 | [Well I Done Got Over It](https://open.spotify.com/track/1ADc4I9nlzy4rJOrLxzTzl) | [Guitar Slim](https://open.spotify.com/artist/6fxCRWTrlk6wDMM4Gn421s) | [Sufferin' Mind](https://open.spotify.com/album/5aM0AHheJ65Pdl6p0H6QD5) | 2:27 |
 | 22 | [Louella](https://open.spotify.com/track/6KM7FlnvLrETbLpoNCjxYE) | [Marcia Ball](https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18) | [Presumed Innocent](https://open.spotify.com/album/6W1dqxSFVwT5eL7WlUQUtn) | 4:27 |
 | 23 | [Saint James Infirmary](https://open.spotify.com/track/4ccdgqrPG8n28V0FWnWWL9) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [New Orleans Street Singer](https://open.spotify.com/album/3QYOWNnvJBThutwlzjBhry) | 2:23 |
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlFuMqPR3VO.md) - [plain]
 | 33 | [Trick Bag](https://open.spotify.com/track/2rofi4Z4X7UdaMjKdraagu) | [Earl King](https://open.spotify.com/artist/76ox7koAGPytUmTZGU6zWn), [Sam Charters](https://open.spotify.com/artist/4P62HkfjQe9Ojf6YkILrbP) | [The Sonet Blues Story](https://open.spotify.com/album/4vANqROsyz5dkzlwnO6zwx) | 3:08 |
 | 34 | [Yellow Dog Blues](https://open.spotify.com/track/2kqpPGtxRatQsFrQWM4gLb) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Louis Armstrong Plays W\. C\. Handy](https://open.spotify.com/album/6yvbyi8LOzXI59WkW6QzG2) | 4:15 |
 | 35 | [Gonna Stick To You Baby](https://open.spotify.com/track/5rTs9t774oyGMOlEgAOgz6) | [Lonesome Sundown](https://open.spotify.com/artist/6AT5owmIbmW2Ktd9vI73ZJ) | [I'm A Mojo Man: The Best Of The Excello Singles](https://open.spotify.com/album/6ubAM1dJPDqNTDjgIssTha) | 2:06 |
-| 36 | [Steal Away](https://open.spotify.com/track/2bEuccJk2nIN7Ltlk2Ao5r) | [Walter Wolfman Washington](https://open.spotify.com/artist/60TxtNQBbDL8HKL0b6Gm3T) | [My Future Is My Past](https://open.spotify.com/album/5KvFzpKxckyhy7QkuebuY0) | 4:14 |
-| 37 | [Greasy Man](https://open.spotify.com/track/2Izextri7Ho1xu0mvVZcpI) | [Lonnie Brooks](https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog) | [Let's Talk It Over](https://open.spotify.com/album/2rwVXn5G7TueG7w3wyQXZ8) | 5:56 |
+| 36 | [Greasy Man](https://open.spotify.com/track/2Izextri7Ho1xu0mvVZcpI) | [Lonnie Brooks](https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog) | [Let's Talk It Over](https://open.spotify.com/album/2rwVXn5G7TueG7w3wyQXZ8) | 5:56 |
+| 37 | [Steal Away](https://open.spotify.com/track/2bEuccJk2nIN7Ltlk2Ao5r) | [Walter Wolfman Washington](https://open.spotify.com/artist/60TxtNQBbDL8HKL0b6Gm3T) | [My Future Is My Past](https://open.spotify.com/album/5KvFzpKxckyhy7QkuebuY0) | 4:14 |
 | 38 | [Let's Get High](https://open.spotify.com/track/2uYbT9w61amgpdsxN9Ozx3) | [Henry Gray](https://open.spotify.com/artist/08zDtD8xQDP3tDApCnxrvY), [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Bob Stroger](https://open.spotify.com/artist/1JjFeW5yiXLb18bozbG1pe), [Willie "Big Eyes" Smith](https://open.spotify.com/artist/17YszgQumE14Qyj0t2IGng) | [Vol\. 1: Blues Won't Let Me Take My Rest](https://open.spotify.com/album/6G2BuAE28vxLRAGJPgPBOb) | 3:52 |
 | 39 | [By the Water](https://open.spotify.com/track/51fWp2sgOhaWmnBGcaTKXk) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [The Imperial Recordings](https://open.spotify.com/album/3KUmrsZw8O08srFBL49qA3) | 2:39 |
 | 40 | [The Party's Still Going On](https://open.spotify.com/track/69vUnyBpWRNHf0MrlgqsQL) | [Marcia Ball](https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18) | [Roadside Attractions](https://open.spotify.com/album/6FfHCnE5eMvEa3e1TnHnTj) | 3:25 |
 
-Snapshot ID: `MTY1MDYwMDA2MCwwMDAwMDAwMGE4M2MxM2Q0MDFiZDg1NjRiOTY2OGYwMjc0ZmMxODdm`
+Snapshot ID: `MTY1MDYwMDA2MCwwMDAwMDAwMDgzMGRiNTgyNDQ4OTU0YWZiNzcyZDU1MWNjN2IyNDU5`

@@ -4,7 +4,7 @@
 
 > good vibes only.
 
-195 songs - 11 hr 9 min - [published](https://open.spotify.com/playlist/5GFfeaEHqQUbUlBlog2PDd)
+196 songs - 11 hr 13 min - [published](https://open.spotify.com/playlist/5GFfeaEHqQUbUlBlog2PDd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [All Right](https://open.spotify.com/track/2rg2kUSCdZsd2Kd4IAcPjx) | [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW), [Garrett Nash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [All Right](https://open.spotify.com/album/2n9giwGDVwp9WRoTLXfwub) | 3:13 | 2021-03-24 | 2022-01-11 |
 | [Amber](https://open.spotify.com/track/51UtgWS4z1eMPuLQOzPtNH) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Greatest Hits '93 \- '03](https://open.spotify.com/album/0OsjlbBaSZFbZnXGAUysMG) | 3:31 | 2021-03-24 |  |
 | [Another Man's Jeans](https://open.spotify.com/track/2Tv3bPKLESHfl8jgAlY2Pv) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Another Man's Jeans](https://open.spotify.com/album/54xLeetI8f6mslHLEJ5K2X) | 2:45 | 2022-04-26 |  |
-| [Anything But Me](https://open.spotify.com/track/32JZt8EmiioCGTU6UIXJ4E) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Anything But Me](https://open.spotify.com/album/3qeTo7DFj1P9dcBa92GrpX) | 3:33 | 2022-04-26 |  |
+| [Anything But Me](https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 3:33 | 2022-07-29 |  |
+| [Anything But Me](https://open.spotify.com/track/32JZt8EmiioCGTU6UIXJ4E) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Anything But Me](https://open.spotify.com/album/3qeTo7DFj1P9dcBa92GrpX) | 3:33 | 2022-04-26 | 2022-09-02 |
 | [Are You What You Want to Be?](https://open.spotify.com/track/3CVPyuuD6HxWXgPbbGqbg6) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Supermodel](https://open.spotify.com/album/22cFcAQkydpTzeSKQZEKv0) | 4:30 | 2021-03-24 | 2022-04-27 |
 | [Around The World](https://open.spotify.com/track/06ClI3XK2FPR5uP8tPcFS1) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 3:34 | 2021-03-24 |  |
 | [August](https://open.spotify.com/track/3ZQ3kDvbNYIZI4uR1qQHII) | [Intelligency](https://open.spotify.com/artist/6DdgtZYlUGNzjqkdCqvmfB) | [August](https://open.spotify.com/album/489NxMGW2HZko650E8fi8x) | 2:59 | 2021-03-24 | 2022-04-27 |

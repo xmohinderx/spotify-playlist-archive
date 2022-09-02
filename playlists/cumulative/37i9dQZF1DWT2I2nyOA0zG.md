@@ -4,12 +4,12 @@
 
 > Cool vibes from the African continent.
 
-126 songs - 7 hr 8 min - [published](https://open.spotify.com/playlist/4TVTdhLbAi1cx5rQBb4HCt)
+127 songs - 7 hr 13 min - [published](https://open.spotify.com/playlist/4TVTdhLbAi1cx5rQBb4HCt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [5 Star](https://open.spotify.com/track/5l6ZVWdSdot8a1FjPBiXvz) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [5 Star](https://open.spotify.com/album/7sL2HnpqLO8uAdV6YlHLl4) | 2:30 | 2022-07-14 |  |
-| [Africa](https://open.spotify.com/track/0HOdXa3PPnJhNRBlgO7Jhr) | [ND](https://open.spotify.com/artist/6hXVcZyUR2WLIXDkXrw1eQ) | [Africa](https://open.spotify.com/album/5oVYOWGSA1iXbviwW3SnTH) | 2:33 | 2022-08-12 |  |
+| [Africa](https://open.spotify.com/track/0HOdXa3PPnJhNRBlgO7Jhr) | [ND](https://open.spotify.com/artist/6hXVcZyUR2WLIXDkXrw1eQ) | [Africa](https://open.spotify.com/album/5oVYOWGSA1iXbviwW3SnTH) | 2:33 | 2022-08-12 | 2022-09-02 |
 | [Aibu](https://open.spotify.com/track/0Jq1RbXxclz844TLHUUi0E) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Aibu](https://open.spotify.com/album/0Y0he9QG0p0jFWcM9ZahzC) | 2:17 | 2022-02-11 | 2022-07-01 |
 | [Alive](https://open.spotify.com/track/3a1aICYwrm7nwHfFT9Aomm) | [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [Alive](https://open.spotify.com/album/6FPn7GfYm4qUXtlnXp6gLq) | 2:34 | 2021-12-02 |  |
 | [Amanda Pressure](https://open.spotify.com/track/0YEbAeUwfjVnJ7XHB32eEg) | [Fancy Fingers](https://open.spotify.com/artist/6GKFK8rXiyBshmwi6CMm0y), [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [Amanda Pressure](https://open.spotify.com/album/79nzFswc8DosSGcWkYxb4J) | 3:50 | 2021-12-02 | 2022-04-01 |
@@ -41,6 +41,7 @@
 | [Down by the River](https://open.spotify.com/track/4B7sxQLWCgQ6GvZac3Dazz) | [Bigfootinyourface](https://open.spotify.com/artist/5Wg3j4bae153nI07R2tRSy), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Down by the River](https://open.spotify.com/album/2HgoVUGoxyJLVl7efSYneM) | 2:34 | 2022-02-17 | 2022-03-11 |
 | [Enjoy The Night](https://open.spotify.com/track/6NXwQZIgrp61brkGDG8uo9) | [Wanja Wohoro](https://open.spotify.com/artist/6x42DjzrK28UZZzKsKGvVE), [Jinku](https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo) | [Enjoy The Night](https://open.spotify.com/album/0RCzYsJhABlRPi6bz2gnxn) | 3:13 | 2022-01-27 | 2022-03-25 |
 | [Eshu](https://open.spotify.com/track/2EB9HogbtwaVVHOUhmArEp) | [Amai Kuda Et Les Bois](https://open.spotify.com/artist/1SBiL8VyIl0OzZbyJQTNvw) | [Eshu](https://open.spotify.com/album/7Gb6bgH1YnrsoNulqp4tHd) | 3:20 | 2022-04-28 | 2022-07-26 |
+| [Fireworks](https://open.spotify.com/track/1VvaBNjT8xyUcX38SbHq5M) | [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi), [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Fireworks](https://open.spotify.com/album/5kQTGFFvwJpdgU13VpMggp) | 4:45 | 2022-09-01 |  |
 | [Follow You](https://open.spotify.com/track/6RVmK3M5NsB2jwTUKiKp84) | [Fiokee](https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5), [chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Follow You](https://open.spotify.com/album/5nf9tUvabTiuSMxGg93SF4) | 3:11 | 2021-10-11 | 2022-03-11 |
 | [Forbidden Fruit](https://open.spotify.com/track/0TpJiBJbQubqmn2xV7hw2E) | [Le Ru](https://open.spotify.com/artist/2Kgd8TvR0MGJ0NRFkGX0DJ) | [Forbidden Fruit](https://open.spotify.com/album/4LEk3GyCDWif1VgveeNHn0) | 2:57 | 2021-10-11 | 2022-02-25 |
 | [Foreigner](https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Foreigner](https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ) | 3:54 | 2022-02-24 |  |

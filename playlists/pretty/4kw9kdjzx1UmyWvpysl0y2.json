@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128045,
+  "num_followers": 127842,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzYwMSw0NDExNDlhZDNhMDZkMjk2ZjY5OTliNTdiNmVmZWZkNDNhZjI0MDY1",
+  "snapshot_id": "MzYwMyxiM2MwNDI0ZDdkNGRhN2NiM2ZmN2Q4MmJhZWEyNTk5Zjg3MmE4NWZj",
   "tracks": [
+    {
+      "added_at": "2022-09-01 16:05:48",
+      "album": {
+        "name": "Royalty",
+        "url": "https://open.spotify.com/album/0CEQ62V2Ip0bXpVhhNYiPQ"
+      },
+      "artists": [
+        {
+          "name": "Whales",
+          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
+        },
+        {
+          "name": "Diandra Faye",
+          "url": "https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q"
+        }
+      ],
+      "duration_ms": 177103,
+      "name": "Royalty",
+      "url": "https://open.spotify.com/track/6tHBSeIAH5l9o9MjZLl9MJ"
+    },
     {
       "added_at": "2022-08-31 16:56:03",
       "album": {
@@ -1099,22 +1119,6 @@
       "duration_ms": 186562,
       "name": "Northern Lights",
       "url": "https://open.spotify.com/track/2Z7mgegx1cKi8UoMOFHEIl"
-    },
-    {
-      "added_at": "2022-06-20 16:58:24",
-      "album": {
-        "name": "LOST",
-        "url": "https://open.spotify.com/album/2IKVthOoA0M9xgN4PL8Otj"
-      },
-      "artists": [
-        {
-          "name": "Papa Khan",
-          "url": "https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM"
-        }
-      ],
-      "duration_ms": 219124,
-      "name": "So Far Away",
-      "url": "https://open.spotify.com/track/2tKElQZfUyUQjDZwP2tOWF"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

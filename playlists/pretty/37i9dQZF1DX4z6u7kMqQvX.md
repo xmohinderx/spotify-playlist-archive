@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,141 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,164 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 30 | [siempre te voy a querer](https://open.spotify.com/track/6HVnd5EXfbaLU4YuYElXEe) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [los días en la sala](https://open.spotify.com/album/6E2TF0rYiJCwIxyLqP61GE) | 2:43 |
 | 31 | [Amor Ferrari](https://open.spotify.com/track/1VPrFor2HSi3I6wStnfoHq) | [Luca Bocci](https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF) | [No Pierdas la Simpleza](https://open.spotify.com/album/35hmee1Mf1kFMlNpAB125N) | 2:45 |
 | 32 | [Las Voces](https://open.spotify.com/track/4JW6406Y4xsE9ZVE318A7c) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Las Voces](https://open.spotify.com/album/5MlI1naMkXMqRxNS0YsftP) | 3:30 |
-| 33 | [Radar](https://open.spotify.com/track/2ZrnMV7mUPqU2qPgFyEa23) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Radar](https://open.spotify.com/album/21upJvK4VBVEwgyftb1k58) | 2:42 |
-| 34 | [Mar](https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Mar](https://open.spotify.com/album/0TIM64cPYNqIedeY5rNaG2) | 3:58 |
+| 33 | [Mar](https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Mar](https://open.spotify.com/album/0TIM64cPYNqIedeY5rNaG2) | 3:58 |
+| 34 | [Radar](https://open.spotify.com/track/2ZrnMV7mUPqU2qPgFyEa23) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Radar](https://open.spotify.com/album/21upJvK4VBVEwgyftb1k58) | 2:42 |
 | 35 | [Brillas](https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Solstis \- De León Larregui](https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ) | 3:44 |
 | 36 | [Jullie](https://open.spotify.com/track/44W7bta54sWjSkuj1NyT0c) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Indios](https://open.spotify.com/album/0ZAv3N3wsMLcP1X8NWYRAW) | 3:34 |
 | 37 | [Chica Acuario](https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [Chica Acuario](https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn) | 3:27 |
@@ -58,15 +58,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 48 | [Cerca de Ti](https://open.spotify.com/track/6GvnbcWUY93ck0EO00enpm) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Cerca de Ti](https://open.spotify.com/album/0F4Mcth9SWbVG0E6RvNyem) | 2:37 |
 | 49 | [La Mexicana](https://open.spotify.com/track/6a0pgQDztJ44FdNY9h0GfY) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [La Mexicana \- Single](https://open.spotify.com/album/4uJT1I6IOjTQoXRgvK5OQy) | 3:26 |
 | 50 | [Ya Me Hiciste Mal](https://open.spotify.com/track/5FO2fNgerif5MMQMGQ6GXt) | [Rayos Láser](https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs) | [Ya Me Hiciste Mal](https://open.spotify.com/album/4Z6qD5QRi4xbFUhTxmd5au) | 3:19 |
-| 51 | [Amor De Verano](https://open.spotify.com/track/0ftQLiC3Whfsb3b6nWAoPK) | [Vacación](https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd), [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag) | [Tiempo Compartido](https://open.spotify.com/album/60iutg1EYIP0B3ZtYGcj4a) | 3:06 |
-| 52 | [Escondidos](https://open.spotify.com/track/0Dqqdhn0ktI7pz8qNhT3AO) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 3:51 |
+| 51 | [Escondidos](https://open.spotify.com/track/0Dqqdhn0ktI7pz8qNhT3AO) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 3:51 |
+| 52 | [Amor De Verano](https://open.spotify.com/track/0ftQLiC3Whfsb3b6nWAoPK) | [Vacación](https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd), [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag) | [Tiempo Compartido](https://open.spotify.com/album/60iutg1EYIP0B3ZtYGcj4a) | 3:06 |
 | 53 | [A Dónde Vamos?](https://open.spotify.com/track/1IHqTQujYdLIGhd0fHgoxa) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9), [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [A Dónde Vamos?](https://open.spotify.com/album/5v2DHcwUNxPBLC4qNZDw2T) | 3:22 |
 | 54 | [Viernes](https://open.spotify.com/track/3kc4EBrXw7K3ACbeODqFOD) | [Molok0](https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J) | [Viernes](https://open.spotify.com/album/7xgun8d6qqSI66tIUQEZR0) | 3:11 |
 | 55 | [Ganas](https://open.spotify.com/track/1Sr0zBbzovJTg5yxd41CcQ) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Ganas](https://open.spotify.com/album/7hjSVz7TryKxWe8Y4AHZe0) | 4:14 |
-| 56 | [Amante](https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Amante](https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk) | 3:51 |
+| 56 | [Te Pienso Todo el Tiempo](https://open.spotify.com/track/14CtkTc8EgxHM1fjfkiGXx) | [Todo El Verano](https://open.spotify.com/artist/36ql1hMBBeWfqeQmK5vXn9), [La Femme D´Argent](https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ) | [Te Pienso Todo el Tiempo](https://open.spotify.com/album/1z3DJNUHiZ47dMH0rNjEwz) | 3:33 |
 | 57 | [Para Vivir Mejor](https://open.spotify.com/track/3WCJS3iT5DIHYYBd7Obm38) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Para Vivir Mejor](https://open.spotify.com/album/6Hvl1yMEJWYNG72bHkZMZs) | 2:31 |
-| 58 | [Me Conecto \(feat\. Jorge Drexler\)](https://open.spotify.com/track/6X99UPXCpHWCih4OcZN9pg) | [Salvapantallas](https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [SMS](https://open.spotify.com/album/2D2JNUc0IzRwyiDR8X2sHh) | 3:08 |
-| 59 | [Te Pienso Todo el Tiempo](https://open.spotify.com/track/14CtkTc8EgxHM1fjfkiGXx) | [Todo El Verano](https://open.spotify.com/artist/36ql1hMBBeWfqeQmK5vXn9), [La Femme D´Argent](https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ) | [Te Pienso Todo el Tiempo](https://open.spotify.com/album/1z3DJNUHiZ47dMH0rNjEwz) | 3:33 |
+| 58 | [Amante](https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Amante](https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk) | 3:51 |
+| 59 | [Me Conecto \(feat\. Jorge Drexler\)](https://open.spotify.com/track/6X99UPXCpHWCih4OcZN9pg) | [Salvapantallas](https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [SMS](https://open.spotify.com/album/2D2JNUc0IzRwyiDR8X2sHh) | 3:08 |
 | 60 | [Zoe](https://open.spotify.com/track/1Zp6wk74v4tf1UPgX75IQB) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Como Antes](https://open.spotify.com/album/56qAd8JFUBjW7gdAEQinHT) | 3:34 |
 | 61 | [Si Fueras Lluvia](https://open.spotify.com/track/2N3LPVCuyWN0A5uodq95RN) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [Si Fueras Lluvia](https://open.spotify.com/album/46B8tnPwQdlw6jOY947lGu) | 3:12 |
 | 62 | [Desnuda](https://open.spotify.com/track/0drLaDtp4SxzUJoLwEpNe1) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Mi Primer Día Triste](https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo) | 3:45 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 95 | [Louvre](https://open.spotify.com/track/6aw79PLeX1Q2sMUYqOuz0A) | [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz) | [Louvre](https://open.spotify.com/album/6ePyM0mN9mHStVZIVOUjOP) | 2:49 |
 | 96 | [Confía](https://open.spotify.com/track/1SXPlj3wH0Luz40LmBFjso) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Confía](https://open.spotify.com/album/6OBErs3AYUFKYyZYDDavCU) | 3:04 |
 | 97 | [Abriendo Latidos](https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Abriendo Latidos](https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry) | 3:14 |
-| 98 | [Ahí Ahí](https://open.spotify.com/track/6m02i6JyJz15hw8jOqu3Cz) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Ahí Ahí](https://open.spotify.com/album/7dr2zU98W3hvgR81Hm02dY) | 3:30 |
-| 99 | [TKM](https://open.spotify.com/track/6OU9VH0luFi6oSZ5arLiOy) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [TKM](https://open.spotify.com/album/3nygqNGAb9LEbK4yV20sqt) | 3:50 |
+| 98 | [TKM](https://open.spotify.com/track/6OU9VH0luFi6oSZ5arLiOy) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [TKM](https://open.spotify.com/album/3nygqNGAb9LEbK4yV20sqt) | 3:50 |
+| 99 | [Ahí Ahí](https://open.spotify.com/track/6m02i6JyJz15hw8jOqu3Cz) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Ahí Ahí](https://open.spotify.com/album/7dr2zU98W3hvgR81Hm02dY) | 3:30 |
 | 100 | [Por Amor al Arte](https://open.spotify.com/track/11J0d0cb0J4Xk4PcRyuJ3k) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF) | [Reset](https://open.spotify.com/album/0DDUTF4YqIOsUpq9MOqWMo) | 2:02 |
 
-Snapshot ID: `MTY2MTQ4MjgwMCwwMDAwMDAwMDFlOWY0YWVlMjUzNjlkZTljOTYwZjFhZjRkODYwMjFl`
+Snapshot ID: `MTY2MTQ4MjgwMCwwMDAwMDAwMGM4NzcxMDYzMjUyNWRjNGM2NmMxZGJmNjI0ODAxMzdi`

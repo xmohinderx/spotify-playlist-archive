@@ -1,12 +1,12 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe.",
-  "num_followers": 214165,
+  "num_followers": 214274,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQzNzg1NywwMDAwMDAwMDBlNDA1Nzg2ZmM2ODRiM2NlZTFlN2JkYWE0MDg1MDA4",
+  "snapshot_id": "MTY2MTQzNzg1NywwMDAwMDAwMDFjMTcxMGVhOWY3NDJlOTEyOWQ3M2JjNmVlZDExM2Zj",
   "tracks": [
     {
       "added_at": "2022-08-25 14:30:57",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-08-25 14:30:57",
       "album": {
-        "name": "Walk With Me",
-        "url": "https://open.spotify.com/album/5N5e8acMVgsIZif4NZppoj"
-      },
-      "artists": [
-        {
-          "name": "Rotimi",
-          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
-        }
-      ],
-      "duration_ms": 219481,
-      "name": "Love Riddim",
-      "url": "https://open.spotify.com/track/22uU5EVRx6rVpuUANTFEhn"
-    },
-    {
-      "added_at": "2022-08-25 14:30:57",
-      "album": {
         "name": "Comforter (feat. Ayra Starr)",
         "url": "https://open.spotify.com/album/2NmB4LzQtfkv88hY595YtL"
       },
@@ -1475,22 +1459,18 @@
     {
       "added_at": "2022-08-25 14:30:57",
       "album": {
-        "name": "D O D O (Adekunle Gold Version)",
-        "url": "https://open.spotify.com/album/49s1JEe2mCLJMAVtMplzJo"
+        "name": "Walk With Me",
+        "url": "https://open.spotify.com/album/5N5e8acMVgsIZif4NZppoj"
       },
       "artists": [
         {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        },
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+          "name": "Rotimi",
+          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
         }
       ],
-      "duration_ms": 179884,
-      "name": "D O D O - Adekunle Gold Version",
-      "url": "https://open.spotify.com/track/5F9F0SxcAM9bCVyi00tL0W"
+      "duration_ms": 219481,
+      "name": "Love Riddim",
+      "url": "https://open.spotify.com/track/22uU5EVRx6rVpuUANTFEhn"
     },
     {
       "added_at": "2022-08-25 14:30:57",
@@ -1511,6 +1491,26 @@
       "duration_ms": 181973,
       "name": "Touch It - Remix",
       "url": "https://open.spotify.com/track/3DvzYWNYYrixsXTXV2t8pA"
+    },
+    {
+      "added_at": "2022-08-25 14:30:57",
+      "album": {
+        "name": "D O D O (Adekunle Gold Version)",
+        "url": "https://open.spotify.com/album/49s1JEe2mCLJMAVtMplzJo"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 179884,
+      "name": "D O D O - Adekunle Gold Version",
+      "url": "https://open.spotify.com/track/5F9F0SxcAM9bCVyi00tL0W"
     },
     {
       "added_at": "2022-08-25 14:30:57",
@@ -1779,6 +1779,22 @@
     {
       "added_at": "2022-08-25 14:30:57",
       "album": {
+        "name": "As Promised",
+        "url": "https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 169413,
+      "name": "Commando",
+      "url": "https://open.spotify.com/track/4tAX2qe0TX7O69B65OQmCg"
+    },
+    {
+      "added_at": "2022-08-25 14:30:57",
+      "album": {
         "name": "Baila Kumi",
         "url": "https://open.spotify.com/album/7Bpb7mSPr0iJE7MyHqeVav"
       },
@@ -1795,22 +1811,6 @@
       "duration_ms": 206808,
       "name": "Baila Kumi",
       "url": "https://open.spotify.com/track/6MDegdCkEiUjE7ftt5GcPU"
-    },
-    {
-      "added_at": "2022-08-25 14:30:57",
-      "album": {
-        "name": "As Promised",
-        "url": "https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 169413,
-      "name": "Commando",
-      "url": "https://open.spotify.com/track/4tAX2qe0TX7O69B65OQmCg"
     },
     {
       "added_at": "2022-08-25 14:30:57",
@@ -1883,22 +1883,18 @@
     {
       "added_at": "2022-08-25 14:30:57",
       "album": {
-        "name": "Blow My Mind",
-        "url": "https://open.spotify.com/album/31Z5vOXMKPSZjpERQHtaSp"
+        "name": "A Good Time",
+        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
       },
       "artists": [
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 199173,
-      "name": "Blow My Mind",
-      "url": "https://open.spotify.com/track/1xJTW86sJ1OoloXeOret6t"
+      "duration_ms": 240000,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/1hEXElwyPez2z7m5dZ56Mc"
     },
     {
       "added_at": "2022-08-25 14:30:57",
@@ -2031,18 +2027,22 @@
     {
       "added_at": "2022-08-25 14:30:57",
       "album": {
-        "name": "A Good Time",
-        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
+        "name": "Blow My Mind",
+        "url": "https://open.spotify.com/album/31Z5vOXMKPSZjpERQHtaSp"
       },
       "artists": [
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Fall",
-      "url": "https://open.spotify.com/track/1hEXElwyPez2z7m5dZ56Mc"
+      "duration_ms": 199173,
+      "name": "Blow My Mind",
+      "url": "https://open.spotify.com/track/1xJTW86sJ1OoloXeOret6t"
     },
     {
       "added_at": "2022-08-25 14:30:57",
@@ -2163,6 +2163,22 @@
     {
       "added_at": "2022-08-25 14:30:57",
       "album": {
+        "name": "Parts Of The Puzzle",
+        "url": "https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx"
+      },
+      "artists": [
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "duration_ms": 220464,
+      "name": "Stay So",
+      "url": "https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE"
+    },
+    {
+      "added_at": "2022-08-25 14:30:57",
+      "album": {
         "name": "Victory Rock Riddim",
         "url": "https://open.spotify.com/album/2ychB1n3vMLc8t2bOflZTu"
       },
@@ -2183,22 +2199,6 @@
       "duration_ms": 207324,
       "name": "People",
       "url": "https://open.spotify.com/track/1pH3ibG3IDuktQ7wFozrnu"
-    },
-    {
-      "added_at": "2022-08-25 14:30:57",
-      "album": {
-        "name": "Parts Of The Puzzle",
-        "url": "https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx"
-      },
-      "artists": [
-        {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
-        }
-      ],
-      "duration_ms": 220464,
-      "name": "Stay So",
-      "url": "https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE"
     },
     {
       "added_at": "2022-08-25 14:30:57",
@@ -2259,26 +2259,6 @@
     {
       "added_at": "2022-08-25 14:30:57",
       "album": {
-        "name": "Eve Bounce",
-        "url": "https://open.spotify.com/album/715RAdaas5D9Fx38E9blPJ"
-      },
-      "artists": [
-        {
-          "name": "Yung L",
-          "url": "https://open.spotify.com/artist/5jW1p6bav4DYihIHewKBCq"
-        },
-        {
-          "name": "WizKid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 204631,
-      "name": "Eve Bounce - Remix",
-      "url": "https://open.spotify.com/track/70XKM6b0oyRXMSagZABK5v"
-    },
-    {
-      "added_at": "2022-08-25 14:30:57",
-      "album": {
         "name": "Nobody",
         "url": "https://open.spotify.com/album/0ZLCpl3DOiOgsbSssovdgt"
       },
@@ -2299,6 +2279,26 @@
       "duration_ms": 145860,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/7MtpW10epOD3sUtURL5ZDu"
+    },
+    {
+      "added_at": "2022-08-25 14:30:57",
+      "album": {
+        "name": "Eve Bounce",
+        "url": "https://open.spotify.com/album/715RAdaas5D9Fx38E9blPJ"
+      },
+      "artists": [
+        {
+          "name": "Yung L",
+          "url": "https://open.spotify.com/artist/5jW1p6bav4DYihIHewKBCq"
+        },
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 204631,
+      "name": "Eve Bounce - Remix",
+      "url": "https://open.spotify.com/track/70XKM6b0oyRXMSagZABK5v"
     },
     {
       "added_at": "2022-08-25 14:30:57",
@@ -2699,6 +2699,22 @@
     {
       "added_at": "2022-08-25 14:30:57",
       "album": {
+        "name": "Yahoo Boy",
+        "url": "https://open.spotify.com/album/5xuTeLzxHqw4s15EM0ep22"
+      },
+      "artists": [
+        {
+          "name": "JMANI",
+          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
+        }
+      ],
+      "duration_ms": 174172,
+      "name": "Yahoo Boy",
+      "url": "https://open.spotify.com/track/5HlLiMUciWPEGG2c3Xu0cu"
+    },
+    {
+      "added_at": "2022-08-25 14:30:57",
+      "album": {
         "name": "Etema",
         "url": "https://open.spotify.com/album/15QxdFuEEcoN0j1RtRYGPb"
       },
@@ -2719,22 +2735,6 @@
       "duration_ms": 270086,
       "name": "Etema",
       "url": "https://open.spotify.com/track/6ziIY7sfJeEl2mDQoR8WUp"
-    },
-    {
-      "added_at": "2022-08-25 14:30:57",
-      "album": {
-        "name": "Yahoo Boy",
-        "url": "https://open.spotify.com/album/5xuTeLzxHqw4s15EM0ep22"
-      },
-      "artists": [
-        {
-          "name": "JMANI",
-          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
-        }
-      ],
-      "duration_ms": 174172,
-      "name": "Yahoo Boy",
-      "url": "https://open.spotify.com/track/5HlLiMUciWPEGG2c3Xu0cu"
     },
     {
       "added_at": "2022-08-25 14:30:57",
@@ -3303,26 +3303,6 @@
     {
       "added_at": "2022-08-25 14:30:57",
       "album": {
-        "name": "Magic (with Amartey)",
-        "url": "https://open.spotify.com/album/5FBCdiSwNLrokFxpiR7c3C"
-      },
-      "artists": [
-        {
-          "name": "Wiz Ofuasia",
-          "url": "https://open.spotify.com/artist/0sRlnqmmepk0FBxtULhUrn"
-        },
-        {
-          "name": "Amartey",
-          "url": "https://open.spotify.com/artist/2yVIMZ3tHWSmoP3ZLwJmJu"
-        }
-      ],
-      "duration_ms": 206685,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/7HJG4B32llcqQgqHzLhof5"
-    },
-    {
-      "added_at": "2022-08-25 14:30:57",
-      "album": {
         "name": "DesignerBoy",
         "url": "https://open.spotify.com/album/7EbvSgRFBFdQxqUVH80V3B"
       },
@@ -3351,6 +3331,26 @@
       "duration_ms": 198280,
       "name": "DesignerBoy",
       "url": "https://open.spotify.com/track/5TWJIdt1LdQJ5w66jYpNnd"
+    },
+    {
+      "added_at": "2022-08-25 14:30:57",
+      "album": {
+        "name": "Magic (with Amartey)",
+        "url": "https://open.spotify.com/album/5FBCdiSwNLrokFxpiR7c3C"
+      },
+      "artists": [
+        {
+          "name": "Wiz Ofuasia",
+          "url": "https://open.spotify.com/artist/0sRlnqmmepk0FBxtULhUrn"
+        },
+        {
+          "name": "Amartey",
+          "url": "https://open.spotify.com/artist/2yVIMZ3tHWSmoP3ZLwJmJu"
+        }
+      ],
+      "duration_ms": 206685,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/7HJG4B32llcqQgqHzLhof5"
     },
     {
       "added_at": "2022-08-25 14:30:57",

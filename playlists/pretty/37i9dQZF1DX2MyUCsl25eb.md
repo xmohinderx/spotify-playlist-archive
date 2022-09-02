@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 969,742 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 969,655 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,19 +48,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 | 38 | [Cranes in the Sky](https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [A Seat at the Table](https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM) | 4:10 |
 | 39 | [Fire In The Sky](https://open.spotify.com/track/3zpGIFghtnVlwMXWyKW474) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 3:21 |
 | 40 | [A.M\. RADIO](https://open.spotify.com/track/0Hu1ylV8WuaLcLclixNgTV) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL) | 3:57 |
-| 41 | [Vicious](https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Vicious](https://open.spotify.com/album/7p3M1cRTouWTpmBDhlEAKS) | 2:29 |
-| 42 | [September](https://open.spotify.com/track/0exZ0YogJPbjGzblpcZaw7) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [September](https://open.spotify.com/album/1gHwbB7Db9yJ7kASKJFSnc) | 3:40 |
+| 41 | [September](https://open.spotify.com/track/0exZ0YogJPbjGzblpcZaw7) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [September](https://open.spotify.com/album/1gHwbB7Db9yJ7kASKJFSnc) | 3:40 |
+| 42 | [Vicious](https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Vicious](https://open.spotify.com/album/7p3M1cRTouWTpmBDhlEAKS) | 2:29 |
 | 43 | [Baby Why](https://open.spotify.com/track/7qLUUHpvOezSnNERh4IRPx) | [Sarah Cothran](https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G) | [Baby Why](https://open.spotify.com/album/0zOk2HI3PFMENdCrYXc3gu) | 2:44 |
 | 44 | [One Step Ahead](https://open.spotify.com/track/0MbqHR99kNqNrW3vCmSBRo) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [One Step Ahead](https://open.spotify.com/album/1CnJ8xFUzWfQUS6MhAkZNt) | 3:11 |
 | 45 | [Never Gonna Be Alone \(feat\. Lizzy McAlpine & John Mayer\)](https://open.spotify.com/track/5m9OR6G4lNt9Da6dy1xpHx) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Never Gonna Be Alone \(feat\. Lizzy McAlpine & John Mayer\)](https://open.spotify.com/album/0rFjAGsF5UhG8hPeirWaHV) | 4:09 |
 | 46 | [Thinking 'Bout Love](https://open.spotify.com/track/0YHH3qK8Ntqxcc2GFkRrPh) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Thinking 'Bout Love](https://open.spotify.com/album/1L11rcXButW0xA46an3fRP) | 3:04 |
 | 47 | [Like All My Friends](https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Like All My Friends](https://open.spotify.com/album/41cZLPaKv1sqOsLdbeGGoq) | 3:07 |
-| 48 | [Rooftops](https://open.spotify.com/track/0M8LvMw5ARqPvBGALIBLoM) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Rooftops](https://open.spotify.com/album/60j4yeYZl6vPOcDGtWIxVc) | 3:00 |
-| 49 | [Mr\. Percocet](https://open.spotify.com/track/2HmNAp3GcJ7DCKtnmV7N84) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Mr\. Percocet](https://open.spotify.com/album/3qpuOpm7O2Z9yiad1w7dlS) | 3:13 |
-| 50 | [Damage](https://open.spotify.com/track/7M2UiRCmybJ5fuT7Wc2iDR) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [Damage](https://open.spotify.com/album/0EkRimDVbqb9fGHXYCb2pO) | 2:32 |
+| 48 | [Damage](https://open.spotify.com/track/7M2UiRCmybJ5fuT7Wc2iDR) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [Damage](https://open.spotify.com/album/0EkRimDVbqb9fGHXYCb2pO) | 2:32 |
+| 49 | [Rooftops](https://open.spotify.com/track/0M8LvMw5ARqPvBGALIBLoM) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Rooftops](https://open.spotify.com/album/60j4yeYZl6vPOcDGtWIxVc) | 3:00 |
+| 50 | [Mr\. Percocet](https://open.spotify.com/track/2HmNAp3GcJ7DCKtnmV7N84) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Mr\. Percocet](https://open.spotify.com/album/3qpuOpm7O2Z9yiad1w7dlS) | 3:13 |
 | 51 | [Trick To Happy](https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sad Hunk](https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br) | 3:24 |
-| 52 | [Radio](https://open.spotify.com/track/45kn9BixcxJID8oNIknocn) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 4:22 |
-| 53 | [Long Blue Light](https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Long Blue Light](https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei) | 3:20 |
+| 52 | [Long Blue Light](https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Long Blue Light](https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei) | 3:20 |
+| 53 | [Radio](https://open.spotify.com/track/45kn9BixcxJID8oNIknocn) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 4:22 |
 | 54 | [King](https://open.spotify.com/track/1VSngtLdJhrlfHkLxTyOXK) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [King](https://open.spotify.com/album/1kGXtKuYw5WuWUsMKKsTOE) | 4:40 |
 | 55 | [One Life](https://open.spotify.com/track/4TvUATvip5xCKi9GcUsgHG) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [One Life](https://open.spotify.com/album/0Q8JYPlSvdnRSJ2XQJLCi8) | 3:25 |
 | 56 | [Feet Don't Fail Me Now](https://open.spotify.com/track/1GVkrFVc94CTjm9bdSmGjp) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Feet Don't Fail Me Now](https://open.spotify.com/album/4AsNUFCul8wrgyUbvBJeQZ) | 3:18 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 | 64 | [Buddy's Rendezvous](https://open.spotify.com/track/7qqrGV5WpQnMKqVTsDZd9J) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Buddy's Rendezvous](https://open.spotify.com/album/3hL6ZIcwV6zUfqRiPLPBLJ) | 5:01 |
 | 65 | [The Hardest Part](https://open.spotify.com/track/1ODRbz1jZsSrTkpTVcYElX) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Aftershock](https://open.spotify.com/album/7wAw42D9HsIAFRy47jo4Vw) | 3:23 |
 | 66 | [Don't Fade \- Single Version](https://open.spotify.com/track/0m3hslcOQomyJh8Mz7hdrX) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Don't Fade](https://open.spotify.com/album/0z7QrHUhqM60ZPsNFzxMpx) | 3:10 |
-| 67 | [Western Wind](https://open.spotify.com/track/0Q2FDq304w57PGAKKcC3Qk) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Western Wind](https://open.spotify.com/album/5WCdg2iITZNONNV8Wp5P7M) | 3:45 |
-| 68 | [Close 2 U](https://open.spotify.com/track/7rgvhF2a3WjRkRtx2lndyc) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Moonstone EP](https://open.spotify.com/album/0YdgyT5LFI48qP4bo6Rd74) | 3:59 |
-| 69 | [getting into](https://open.spotify.com/track/0tabwXMEh3t7MkeKa95oIp) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [getting into](https://open.spotify.com/album/6EJSIvZH0UbqEzuhyxnnC3) | 2:49 |
+| 67 | [getting into](https://open.spotify.com/track/0tabwXMEh3t7MkeKa95oIp) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [getting into](https://open.spotify.com/album/6EJSIvZH0UbqEzuhyxnnC3) | 2:49 |
+| 68 | [Western Wind](https://open.spotify.com/track/0Q2FDq304w57PGAKKcC3Qk) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Western Wind](https://open.spotify.com/album/5WCdg2iITZNONNV8Wp5P7M) | 3:45 |
+| 69 | [Close 2 U](https://open.spotify.com/track/7rgvhF2a3WjRkRtx2lndyc) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Moonstone EP](https://open.spotify.com/album/0YdgyT5LFI48qP4bo6Rd74) | 3:59 |
 | 70 | [Motorbike](https://open.spotify.com/track/3mMduiD8yb4IaS5tZKqSZy) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Gold\-Diggers Sound](https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn) | 3:08 |
 | 71 | [Fat Funny Friend \(sadder\)](https://open.spotify.com/track/21O2UVKExn54RKWfk1xF4E) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Fat Funny Friend \(sadder\)](https://open.spotify.com/album/3PJGfcK8Z3SYQltnyBT0tt) | 3:22 |
 | 72 | [Emotionless](https://open.spotify.com/track/7iKkBgyipYWWQuemhe8Fr6) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Emotionless](https://open.spotify.com/album/6YIclW9CUv2dDbOZshxxck) | 2:16 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 | 74 | [Hideaway](https://open.spotify.com/track/0H8fpWWucq2qFc4G03T4aI) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Songs About You](https://open.spotify.com/album/1iXa6jhEEAwVjuqXbt1sbS) | 2:43 |
 | 75 | [All Good](https://open.spotify.com/track/32pVxiyqfsKKoZMEyF9WDn) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [All Good](https://open.spotify.com/album/7riCFI1z2nb9zmHGOnIpqb) | 2:32 |
 
-Snapshot ID: `MTY2MTQ4NjUyMCwwMDAwMDAwMGE4NzdkZDk4MDMwMTdjZGE1ODRkODhhYTE5ZjMwOGEz`
+Snapshot ID: `MTY2MTQ4NjUyMCwwMDAwMDAwMDUxNTBlNDNjN2YzNDIzZmFiNDZhNjdjZDA4ZWQwZDRj`

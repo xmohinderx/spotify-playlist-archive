@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 
 > På med fjäderboan och de gyllene skorna\. Nu ska vi dansa i neon!
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,628 likes - 52 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,632 likes - 52 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 5 | [Genom Eld & Vatten](https://open.spotify.com/track/4wLWZx74WHOosQq5p8VVkL) | [Sarek](https://open.spotify.com/artist/2tP82Obc3GVQTpFJkjUabp) | [Genom Eld & Vatten](https://open.spotify.com/album/35mmuEFKzNsEJ97gYThkVX) | 3:19 |
 | 6 | [Eloise](https://open.spotify.com/track/4QZ6hp2CKRaZG5RI9zXQqg) | [Arvingarna](https://open.spotify.com/artist/1qC3LsWlbrRCPVRooOX81u) | [Eloise](https://open.spotify.com/album/0zK4JYFfXuCAlWktGbniOR) | 3:08 |
 | 7 | [If I Were Sorry](https://open.spotify.com/track/6oDkCmfVcSd9NXAKk1b4Ll) | [Frans](https://open.spotify.com/artist/1y5T3Prq30eW5RkpaUWNOQ) | [If I Were Sorry](https://open.spotify.com/album/7e5vrZ4iPy74CmBgbIpQKX) | 3:04 |
-| 8 | [My Number One](https://open.spotify.com/track/6LkCvCc9oFoLDv4DLhzTox) | [Helena Paparizou](https://open.spotify.com/artist/7D7k550IB6EszWmzVVCJSK) | [My Number One](https://open.spotify.com/album/0JLlI8YNAvvrhHAwz5UCgI) | 2:55 |
-| 9 | [Kom](https://open.spotify.com/track/52iMLtr3V7EenocLKoZZ2X) | [Timoteij](https://open.spotify.com/artist/2KToq66TzR2OM0PZJSh5bR) | [Längtan](https://open.spotify.com/album/1DLz2kBUFZ7MVkxrMy3t3t) | 2:58 |
+| 8 | [Kom](https://open.spotify.com/track/52iMLtr3V7EenocLKoZZ2X) | [Timoteij](https://open.spotify.com/artist/2KToq66TzR2OM0PZJSh5bR) | [Längtan](https://open.spotify.com/album/1DLz2kBUFZ7MVkxrMy3t3t) | 2:58 |
+| 9 | [My Number One](https://open.spotify.com/track/6LkCvCc9oFoLDv4DLhzTox) | [Helena Paparizou](https://open.spotify.com/artist/7D7k550IB6EszWmzVVCJSK) | [My Number One](https://open.spotify.com/album/0JLlI8YNAvvrhHAwz5UCgI) | 2:55 |
 | 10 | [Guld och gröna skogar](https://open.spotify.com/track/6EnNjWkk1YX3fsTXtwO773) | [Hasse Andersson](https://open.spotify.com/artist/08JjzDgK2ltxMBWlez1YyH) | [Guld och gröna skogar](https://open.spotify.com/album/7JVTdIGoQzBnzf8dwqE0HW) | 3:03 |
 | 11 | [Stad i ljus](https://open.spotify.com/track/7bVwUOySQGO2afJ0LArAMi) | [Tommy Körberg](https://open.spotify.com/artist/6R21HSNyo7HVac8pyqY3T2) | [Är](https://open.spotify.com/album/1nfObC0Ykmpy6vYLwlsg4Z) | 3:08 |
 | 12 | [Habibi](https://open.spotify.com/track/1githXSs5WbmfZ8fTZBR30) | [Dolly Style](https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs) | [Habibi](https://open.spotify.com/album/5dm3yVuHd6BrGhU0VChLgW) | 2:51 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 24 | [Alla flickor](https://open.spotify.com/track/6YGqMb6MmqcwIHaDSCA7Nq) | [Linda Bengtzing](https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV) | [Ingenting att förlora](https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l) | 2:49 |
 | 25 | [Cara mia](https://open.spotify.com/track/4vxn2p4GbiFhnVsIASACrf) | [Måns Zelmerlöw](https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe) | [Stand By For...](https://open.spotify.com/album/0Bt2FMVJpBg0g0fFiQjqoV) | 3:04 |
 | 26 | [Evighet](https://open.spotify.com/track/6XGIQNU8VmOBRIdL5OBYKp) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Från nu till evighet](https://open.spotify.com/album/6WFBm5Or8TVQPN78wD2wzH) | 3:01 |
-| 27 | [Sean den förste Banan](https://open.spotify.com/track/5J2UfqBylH8jDQZJnxby81) | [Sean Banan](https://open.spotify.com/artist/4EyhwDFo0iKdv2nMUM4m1Q) | [Sean den förste Banan](https://open.spotify.com/album/0rFpCQes32x4acvY6dmVOh) | 3:03 |
-| 28 | [I Can´t Go On](https://open.spotify.com/track/715cD5vOTffsOR3MnNYveJ) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [I Can't Go On](https://open.spotify.com/album/22O77Vq7bj0khJd5Blhjp3) | 3:03 |
+| 27 | [I Can´t Go On](https://open.spotify.com/track/715cD5vOTffsOR3MnNYveJ) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [I Can't Go On](https://open.spotify.com/album/22O77Vq7bj0khJd5Blhjp3) | 3:03 |
+| 28 | [Sean den förste Banan](https://open.spotify.com/track/5J2UfqBylH8jDQZJnxby81) | [Sean Banan](https://open.spotify.com/artist/4EyhwDFo0iKdv2nMUM4m1Q) | [Sean den förste Banan](https://open.spotify.com/album/0rFpCQes32x4acvY6dmVOh) | 3:03 |
 | 29 | [Kom och ta mig](https://open.spotify.com/track/3NVIuvSnsjBMWR8RCXQbHi) | [Brandsta City Släckers](https://open.spotify.com/artist/10bzvni38ThO7h6KOaHO9l) | [Rök 'n Roll](https://open.spotify.com/album/0aO5uIWhe2UVcnI7ZrjdSc) | 2:57 |
 | 30 | [Diggiloo Diggiley](https://open.spotify.com/track/4NzirQ4BrNkVaPEla2ipG4) | [Herreys](https://open.spotify.com/artist/2uS8ryCr9KuXzh7Y4xowle) | [Diggiloo Diggiley](https://open.spotify.com/album/1aeO2MJZFZhk3E57aaYGlg) | 3:07 |
 | 31 | [En dag](https://open.spotify.com/track/4y81ov9ojdBPu5eLhDKxS9) | [Tommy Nilsson](https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq) | [En Samling 1981 \- 2001](https://open.spotify.com/album/0TcAev3EcjkrvhP3BoHlj9) | 3:18 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 38 | [Everyday](https://open.spotify.com/track/7DgXgP8rZZuIgh8vjhiQ0c) | [Mendez](https://open.spotify.com/artist/5z9PI0y6MRnL9BCHOI5ilL) | [Everyday](https://open.spotify.com/album/3H8RhX7BEs0wvFLAkZXVlW) | 3:05 |
 | 39 | [Give Me Your Love](https://open.spotify.com/track/2B60fzEh2F9Ds6xFtV8LWd) | [Fame](https://open.spotify.com/artist/4cFizl8RUZEfXnkzw1Fiz6) | [Give Me Your Love](https://open.spotify.com/album/6iG5QUazlcxTw6Inkf6DHR) | 3:02 |
 | 40 | [Högt över havet](https://open.spotify.com/track/4J5KXnvaoSPa7yHrsNnqda) | [Arja Saijonmaa](https://open.spotify.com/artist/7eoFSuG70jwEpxd1LdKNxK) | [Högt över havet](https://open.spotify.com/album/0lTGL5FPRV2cL926HKbUaS) | 2:49 |
-| 41 | [Just nu](https://open.spotify.com/track/4162ukGloFryXqeHM4y4Ha) | [Tomas Ledin](https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn) | [40 år 40 hits ett samlingsalbum 1972 \- 2012](https://open.spotify.com/album/1kL5NFtluQyyzkjnBzPE7L) | 2:47 |
-| 42 | [Om om och om igen](https://open.spotify.com/track/1Lg5Qf47RERQQmfYbGZB43) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Om om och om igen](https://open.spotify.com/album/34VOvxhqnb5cGsO67IO3Rd) | 2:47 |
+| 41 | [Om om och om igen](https://open.spotify.com/track/1Lg5Qf47RERQQmfYbGZB43) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Om om och om igen](https://open.spotify.com/album/34VOvxhqnb5cGsO67IO3Rd) | 2:47 |
+| 42 | [Just nu](https://open.spotify.com/track/4162ukGloFryXqeHM4y4Ha) | [Tomas Ledin](https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn) | [40 år 40 hits ett samlingsalbum 1972 \- 2012](https://open.spotify.com/album/1kL5NFtluQyyzkjnBzPE7L) | 2:47 |
 | 43 | [Det börjar verka kärlek, banne mig](https://open.spotify.com/track/63jf2xCWGFcq8KyQ5sme3T) | [Claes\-Göran Hederström](https://open.spotify.com/artist/3xCwhFeIUkdyi9V0skNdLi) | [Projekt sega gubbar: 60\-tals låtar med Claes\-Göran Hederström](https://open.spotify.com/album/3k3FLzu6mlNS2PduQe1Ypy) | 2:51 |
 | 44 | [Live Forever](https://open.spotify.com/track/6yk6jU3Ia33ed2XL4V9IeW) | [Magnus Carlsson](https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB) | [Live Forever \- The Album \(Deluxe Edition\)](https://open.spotify.com/album/5g18f9GEyipB2xX2d9xy5x) | 3:02 |
 | 45 | [La Dolce Vita](https://open.spotify.com/track/5QQz3p0cnmlOYsfyAmgwkw) | [After Dark](https://open.spotify.com/artist/6IsSP3qzKVJziwtHkmKuRl) | [La Dolce Vita](https://open.spotify.com/album/0CXSCEO8p04h1FRxFUGsIl) | 3:00 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 51 | [\(Åh\) När ni tar saken i egna händer](https://open.spotify.com/track/4WXnFwrGkrGYzwCImeuob6) | [After Dark](https://open.spotify.com/artist/6IsSP3qzKVJziwtHkmKuRl) | [\(Åh\) När ni tar saken i egna händer](https://open.spotify.com/album/4gkvAo6QefcyNnTkNf9vaz) | 2:59 |
 | 52 | [Möt mig i Gamla Stan](https://open.spotify.com/track/5uYkCI6EcIKq4EGlah4NLu) | [Magnus Carlsson](https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB) | [Gamla Stan](https://open.spotify.com/album/2Oi3P11a5suZr2JcKjuh9B) | 3:02 |
 
-Snapshot ID: `MTU1MTM1ODY3OCwwMDAwMDAwMDQ2NDQwNjA0MWJmNzk0Y2ZhNmJmMGU0OTY0YjYyODhi`
+Snapshot ID: `MTU1MTM1ODY3OCwwMDAwMDAwMGRhZmExZmYyNzIzNDNmNDg5NDdhMzFlYTkwYzZhYjUw`

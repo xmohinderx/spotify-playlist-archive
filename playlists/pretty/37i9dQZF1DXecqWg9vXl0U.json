@@ -1,12 +1,12 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring Clara Yolks.",
-  "num_followers": 31895,
+  "num_followers": 31941,
   "original_name": "\u2728 dreamy \u2728",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUzOTgwMCwwMDAwMDAwMGUwMmZkNWRjNGIxYmQzNjc5NDUyMTc4Y2JjODZkNDNl",
+  "snapshot_id": "MTY2MTUzOTgwMCwwMDAwMDAwMGY0Mzk4YzE2OGFiMGI5MjYxMjUyYjkwYTc1YmY4NzI0",
   "tracks": [
     {
       "added_at": "2022-08-26 18:50:00",
@@ -275,6 +275,22 @@
     {
       "added_at": "2022-08-26 18:50:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4JaFGe9FKcubMLP6YVzCYP"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 157499,
+      "name": "D\u00c1KITI \u2013 Spotify Singles",
+      "url": "https://open.spotify.com/track/2y9xyQNtut1KeOHSSkuzik"
+    },
+    {
+      "added_at": "2022-08-26 18:50:00",
+      "album": {
         "name": "Qu\u00e9 me vas a contar",
         "url": "https://open.spotify.com/album/1a1WTsbfOeGHCOXPqMahQv"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 165343,
       "name": "Qu\u00e9 me vas a contar",
       "url": "https://open.spotify.com/track/06Uhw7KLSBqAJqYy2fdjiN"
-    },
-    {
-      "added_at": "2022-08-26 18:50:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4JaFGe9FKcubMLP6YVzCYP"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 157499,
-      "name": "D\u00c1KITI \u2013 Spotify Singles",
-      "url": "https://open.spotify.com/track/2y9xyQNtut1KeOHSSkuzik"
     },
     {
       "added_at": "2022-08-26 18:50:00",
@@ -439,22 +439,6 @@
     {
       "added_at": "2022-08-26 18:50:00",
       "album": {
-        "name": "M\u00edralo",
-        "url": "https://open.spotify.com/album/6UIHKXjD19ZHRbkRE8BFtl"
-      },
-      "artists": [
-        {
-          "name": "Rorro",
-          "url": "https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "M\u00edralo",
-      "url": "https://open.spotify.com/track/4IKSehYf4e9tjijDSZHQF2"
-    },
-    {
-      "added_at": "2022-08-26 18:50:00",
-      "album": {
         "name": "Gotas",
         "url": "https://open.spotify.com/album/76YyNZPRiXT5cyULAqajlB"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 215156,
       "name": "Gotas",
       "url": "https://open.spotify.com/track/3RPVMsjKwcPb4M9BsqeYhd"
+    },
+    {
+      "added_at": "2022-08-26 18:50:00",
+      "album": {
+        "name": "M\u00edralo",
+        "url": "https://open.spotify.com/album/6UIHKXjD19ZHRbkRE8BFtl"
+      },
+      "artists": [
+        {
+          "name": "Rorro",
+          "url": "https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "M\u00edralo",
+      "url": "https://open.spotify.com/track/4IKSehYf4e9tjijDSZHQF2"
     },
     {
       "added_at": "2022-08-26 18:50:00",
@@ -683,18 +683,18 @@
     {
       "added_at": "2022-08-26 18:50:00",
       "album": {
-        "name": "Ojos",
-        "url": "https://open.spotify.com/album/1aubTSnt8NNqx2mYBLNhsX"
+        "name": "Volver A Empezar",
+        "url": "https://open.spotify.com/album/2u7Y1Qyval9xBgqWo26ivN"
       },
       "artists": [
         {
-          "name": "Montufar",
-          "url": "https://open.spotify.com/artist/6BuzxLQYLRoxxjuD8iSx1t"
+          "name": "Kaia Lana",
+          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
         }
       ],
-      "duration_ms": 222099,
-      "name": "Ojos",
-      "url": "https://open.spotify.com/track/15WodMbVgXo5jVuGtYztjp"
+      "duration_ms": 175596,
+      "name": "Volver A Empezar",
+      "url": "https://open.spotify.com/track/2UuR56kahTzNGArpn3PWEF"
     },
     {
       "added_at": "2022-08-26 18:50:00",
@@ -715,18 +715,18 @@
     {
       "added_at": "2022-08-26 18:50:00",
       "album": {
-        "name": "\u00c1ngel",
-        "url": "https://open.spotify.com/album/38ua5FjwtylCAwx5GJgMeI"
+        "name": "Ojos",
+        "url": "https://open.spotify.com/album/1aubTSnt8NNqx2mYBLNhsX"
       },
       "artists": [
         {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+          "name": "Montufar",
+          "url": "https://open.spotify.com/artist/6BuzxLQYLRoxxjuD8iSx1t"
         }
       ],
-      "duration_ms": 178000,
-      "name": "\u00c1ngel",
-      "url": "https://open.spotify.com/track/30Kue3jRZhbA8137mDXp31"
+      "duration_ms": 222099,
+      "name": "Ojos",
+      "url": "https://open.spotify.com/track/15WodMbVgXo5jVuGtYztjp"
     },
     {
       "added_at": "2022-08-26 18:50:00",
@@ -747,6 +747,22 @@
     {
       "added_at": "2022-08-26 18:50:00",
       "album": {
+        "name": "\u00c1ngel",
+        "url": "https://open.spotify.com/album/38ua5FjwtylCAwx5GJgMeI"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "\u00c1ngel",
+      "url": "https://open.spotify.com/track/30Kue3jRZhbA8137mDXp31"
+    },
+    {
+      "added_at": "2022-08-26 18:50:00",
+      "album": {
         "name": "However Many Days",
         "url": "https://open.spotify.com/album/05pAn3ThAYRWz7wonOwbzy"
       },
@@ -759,26 +775,6 @@
       "duration_ms": 226936,
       "name": "Disco Baby",
       "url": "https://open.spotify.com/track/4E4Zsbxs0BcqYPeTqx0Hdx"
-    },
-    {
-      "added_at": "2022-08-26 18:50:00",
-      "album": {
-        "name": "Te Voy a Extra\u00f1ar",
-        "url": "https://open.spotify.com/album/4PpJ8Q9CMGidKj1EHhDEs8"
-      },
-      "artists": [
-        {
-          "name": "Era de Oro",
-          "url": "https://open.spotify.com/artist/78ZaNmvhhut7RJ2yNILLD7"
-        },
-        {
-          "name": "Bilbao",
-          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
-        }
-      ],
-      "duration_ms": 217750,
-      "name": "Te Voy a Extra\u00f1ar",
-      "url": "https://open.spotify.com/track/16Ue2BIfTQKCukXrC8bu9Q"
     },
     {
       "added_at": "2022-08-26 18:50:00",
@@ -815,18 +811,22 @@
     {
       "added_at": "2022-08-26 18:50:00",
       "album": {
-        "name": "Volver A Empezar",
-        "url": "https://open.spotify.com/album/2u7Y1Qyval9xBgqWo26ivN"
+        "name": "Te Voy a Extra\u00f1ar",
+        "url": "https://open.spotify.com/album/4PpJ8Q9CMGidKj1EHhDEs8"
       },
       "artists": [
         {
-          "name": "Kaia Lana",
-          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
+          "name": "Era de Oro",
+          "url": "https://open.spotify.com/artist/78ZaNmvhhut7RJ2yNILLD7"
+        },
+        {
+          "name": "Bilbao",
+          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
         }
       ],
-      "duration_ms": 175596,
-      "name": "Volver A Empezar",
-      "url": "https://open.spotify.com/track/2UuR56kahTzNGArpn3PWEF"
+      "duration_ms": 217750,
+      "name": "Te Voy a Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/16Ue2BIfTQKCukXrC8bu9Q"
     },
     {
       "added_at": "2022-08-26 18:50:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-08-26 18:50:00",
       "album": {
-        "name": "Especial",
-        "url": "https://open.spotify.com/album/4FSNPjZJIRazbypUcTzIH3"
-      },
-      "artists": [
-        {
-          "name": "sailawway",
-          "url": "https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q"
-        }
-      ],
-      "duration_ms": 242407,
-      "name": "Especial",
-      "url": "https://open.spotify.com/track/6M0iMWjgLJi6ndo5n0fCI8"
-    },
-    {
-      "added_at": "2022-08-26 18:50:00",
-      "album": {
         "name": "Moncler",
         "url": "https://open.spotify.com/album/10vp9TVLfS1ByCx0atI6x9"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 186156,
       "name": "Moncler",
       "url": "https://open.spotify.com/track/3xe0zQi4tsynmXmwCLpbX1"
+    },
+    {
+      "added_at": "2022-08-26 18:50:00",
+      "album": {
+        "name": "Especial",
+        "url": "https://open.spotify.com/album/4FSNPjZJIRazbypUcTzIH3"
+      },
+      "artists": [
+        {
+          "name": "sailawway",
+          "url": "https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q"
+        }
+      ],
+      "duration_ms": 242407,
+      "name": "Especial",
+      "url": "https://open.spotify.com/track/6M0iMWjgLJi6ndo5n0fCI8"
     },
     {
       "added_at": "2022-08-26 18:50:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-08-26 18:50:00",
       "album": {
-        "name": "D\u00ed Que No",
-        "url": "https://open.spotify.com/album/03dEcuGrRyypQTCtCHNXVh"
-      },
-      "artists": [
-        {
-          "name": "Celest",
-          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
-        }
-      ],
-      "duration_ms": 235066,
-      "name": "D\u00ed Que No",
-      "url": "https://open.spotify.com/track/6oLxwWMuLrfFpOYQBW0ZS0"
-    },
-    {
-      "added_at": "2022-08-26 18:50:00",
-      "album": {
         "name": "Never Felt This Before",
         "url": "https://open.spotify.com/album/2G6NH2GXi3MDgybZDg0WKX"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 110175,
       "name": "Never Felt This Before",
       "url": "https://open.spotify.com/track/4sk52d9BtlFPV4FYsBtivD"
+    },
+    {
+      "added_at": "2022-08-26 18:50:00",
+      "album": {
+        "name": "D\u00ed Que No",
+        "url": "https://open.spotify.com/album/03dEcuGrRyypQTCtCHNXVh"
+      },
+      "artists": [
+        {
+          "name": "Celest",
+          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
+        }
+      ],
+      "duration_ms": 235066,
+      "name": "D\u00ed Que No",
+      "url": "https://open.spotify.com/track/6oLxwWMuLrfFpOYQBW0ZS0"
     },
     {
       "added_at": "2022-08-26 18:50:00",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2022-08-26 18:50:00",
       "album": {
+        "name": "Mirando",
+        "url": "https://open.spotify.com/album/5dupFfiBadc2bWw9Knzwx0"
+      },
+      "artists": [
+        {
+          "name": "Dromedarios M\u00e1gicos",
+          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+        }
+      ],
+      "duration_ms": 217263,
+      "name": "Mirando",
+      "url": "https://open.spotify.com/track/64ekrXN8XATh5MaUtLT2LI"
+    },
+    {
+      "added_at": "2022-08-26 18:50:00",
+      "album": {
         "name": "Lo Que Extra\u00f1as Ya No Existe",
         "url": "https://open.spotify.com/album/5Bp8NLfEfGAaXoTYjFvShH"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 208276,
       "name": "\u00c1mbar",
       "url": "https://open.spotify.com/track/5xfqvQKlmZwC6aGbsW95w6"
-    },
-    {
-      "added_at": "2022-08-26 18:50:00",
-      "album": {
-        "name": "Mirando",
-        "url": "https://open.spotify.com/album/5dupFfiBadc2bWw9Knzwx0"
-      },
-      "artists": [
-        {
-          "name": "Dromedarios M\u00e1gicos",
-          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
-        }
-      ],
-      "duration_ms": 217263,
-      "name": "Mirando",
-      "url": "https://open.spotify.com/track/64ekrXN8XATh5MaUtLT2LI"
     },
     {
       "added_at": "2022-08-26 18:50:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-08-26 18:50:00",
       "album": {
-        "name": "Laurel",
-        "url": "https://open.spotify.com/album/5jxjVPBCWVqwnZI0keIMYG"
-      },
-      "artists": [
-        {
-          "name": "Chini.png",
-          "url": "https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz"
-        }
-      ],
-      "duration_ms": 313885,
-      "name": "Laurel",
-      "url": "https://open.spotify.com/track/37YyT8i9em5eFScILi8Pcy"
-    },
-    {
-      "added_at": "2022-08-26 18:50:00",
-      "album": {
         "name": "Una Sola Vez",
         "url": "https://open.spotify.com/album/4WsPV4Bh44VtunOPOeYbmT"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 256907,
       "name": "Una Sola Vez",
       "url": "https://open.spotify.com/track/6ppst2BmCySRxbPRIVSrfX"
+    },
+    {
+      "added_at": "2022-08-26 18:50:00",
+      "album": {
+        "name": "Laurel",
+        "url": "https://open.spotify.com/album/5jxjVPBCWVqwnZI0keIMYG"
+      },
+      "artists": [
+        {
+          "name": "Chini.png",
+          "url": "https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz"
+        }
+      ],
+      "duration_ms": 313885,
+      "name": "Laurel",
+      "url": "https://open.spotify.com/track/37YyT8i9em5eFScILi8Pcy"
     },
     {
       "added_at": "2022-08-26 18:50:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7IeIP1cdjF.md) - [plain]
 
 > Reggaeton hits from Myke Towers, Jhay Cortez and more.🔥🥵
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,576,919 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,578,272 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

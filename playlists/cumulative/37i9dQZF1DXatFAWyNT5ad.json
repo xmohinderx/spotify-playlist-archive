@@ -3081,7 +3081,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 176988,
       "name": "fleabag",
       "url": "https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy"
@@ -3465,7 +3465,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 170771,
       "name": "god has a sense of humor",
       "url": "https://open.spotify.com/track/4kJVBJWaZn6yuKQortyVYY"
@@ -8344,6 +8344,24 @@
     },
     {
       "album": {
+        "name": "There\u2019d Better Be A Mirrorball",
+        "url": "https://open.spotify.com/album/0ZUmodAwUq8cQJFvyibKwT"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265798,
+      "name": "There\u2019d Better Be A Mirrorball",
+      "url": "https://open.spotify.com/track/0yowbJnnbTLpr99f9l1uba"
+    },
+    {
+      "album": {
         "name": "These Drugs",
         "url": "https://open.spotify.com/album/7t8UQuMOTv223ioJh3KVKA"
       },
@@ -8511,6 +8529,24 @@
       "duration_ms": 195760,
       "name": "Tides",
       "url": "https://open.spotify.com/track/2JiHR4gCDjXwYVRDmwdk95"
+    },
+    {
+      "album": {
+        "name": "Tissues",
+        "url": "https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215163,
+      "name": "Tissues",
+      "url": "https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph"
     },
     {
       "album": {

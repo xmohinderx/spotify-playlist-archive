@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 
 > Indie folk that defined the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,049 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,137 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 16 | [Blood Bank](https://open.spotify.com/track/15WbjBy1bzH1UsUldBwwlW) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Blood Bank](https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob) | 4:45 |
 | 17 | [Mykonos](https://open.spotify.com/track/2s7pyee9w04uQy3cNKzey9) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [First Collection 2006\-2009](https://open.spotify.com/album/6ou9sQOsIY5xIIX417L3ud) | 4:35 |
 | 18 | [I And Love And You](https://open.spotify.com/track/7CEV9VwA8XO9wwxTXgYKvY) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [I And Love And You](https://open.spotify.com/album/2PPFtYUnnqMYflIEn3b7ON) | 5:00 |
-| 19 | [Misread](https://open.spotify.com/track/3hxoYmSHzIBwSS2bPTOfbg) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Riot On An Empty Street](https://open.spotify.com/album/5QE8eXeN0q8M7atLb1fT6c) | 3:08 |
-| 20 | [No Children](https://open.spotify.com/track/5cxnSTLzGD1t9xcdmJYFVB) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Tallahassee](https://open.spotify.com/album/6g3n0C6d4v81DnDheoLMvX) | 2:48 |
+| 19 | [No Children](https://open.spotify.com/track/5cxnSTLzGD1t9xcdmJYFVB) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Tallahassee](https://open.spotify.com/album/6g3n0C6d4v81DnDheoLMvX) | 2:48 |
+| 20 | [Misread](https://open.spotify.com/track/3hxoYmSHzIBwSS2bPTOfbg) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Riot On An Empty Street](https://open.spotify.com/album/5QE8eXeN0q8M7atLb1fT6c) | 3:08 |
 | 21 | [Lost in My Mind](https://open.spotify.com/track/2A4eOWCeNZHFQnLEEJKuZX) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/0HOYbncHll4TcojWXrfYfV) | 4:19 |
 | 22 | [Jesus, Etc.](https://open.spotify.com/track/4wd09wCccmxUB7XVJp0RNn) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Yankee Hotel Foxtrot](https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv) | 3:51 |
 | 23 | [Re: Stacks](https://open.spotify.com/track/20AC70RUlVz6A6dCcQ5tRS) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 6:41 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 48 | [Farewell Transmission](https://open.spotify.com/track/5Plx6OhvSukqCRdZ52wUXz) | [Songs: Ohia](https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z) | [Magnolia Electric Co\. \(Deluxe Edition\)](https://open.spotify.com/album/5MqGZZtQ36zsETrTK2uy04) | 7:22 |
 | 49 | [The Blower's Daughter](https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 4:46 |
 | 50 | [Roscoe](https://open.spotify.com/track/01qJhVPCHFFR6wJ5ptyw17) | [Midlake](https://open.spotify.com/artist/4YsP5zmteLQ7etNjHAOu30) | [The Trials of Van Occupanther](https://open.spotify.com/album/034XwDisEPdZwJWTOaUaVs) | 4:46 |
-| 51 | [This Is The Thing](https://open.spotify.com/track/4brqHrnr9ym8db3o5n70Qg) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Distance and Time](https://open.spotify.com/album/4v8f9LoKgrLVHPlM0oe4Br) | 4:32 |
-| 52 | [Gone for Good](https://open.spotify.com/track/6Q0ah7m011fAcNTFJBjQGI) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Chutes Too Narrow](https://open.spotify.com/album/05APAIA6c0Qf7QtFQYZAKm) | 3:13 |
+| 51 | [Gone for Good](https://open.spotify.com/track/6Q0ah7m011fAcNTFJBjQGI) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Chutes Too Narrow](https://open.spotify.com/album/05APAIA6c0Qf7QtFQYZAKm) | 3:13 |
+| 52 | [This Is The Thing](https://open.spotify.com/track/4brqHrnr9ym8db3o5n70Qg) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Distance and Time](https://open.spotify.com/album/4v8f9LoKgrLVHPlM0oe4Br) | 4:32 |
 | 53 | [I Wish I Was the Moon](https://open.spotify.com/track/4PxzGOH79jcmmldKgoI9sB) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Blacklisted](https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU) | 3:34 |
 | 54 | [Mushaboom](https://open.spotify.com/track/66olzBxCgKlpFRB1LKH5pO) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI) | 3:44 |
 | 55 | [Impossible Germany](https://open.spotify.com/track/6L0BBPYeWnaQJeDa0ox0IA) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Sky Blue Sky](https://open.spotify.com/album/6dbcDWUXEFpNrmCJoqZsk4) | 5:57 |
@@ -91,16 +91,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 81 | [Carry Me Ohio](https://open.spotify.com/track/6sNT5PF1SjTYgMiAIQGYMd) | [Sun Kil Moon](https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9) | [Ghosts of the Great Highway](https://open.spotify.com/album/1JpwFoxVVutPXtSBohj0rJ) | 6:21 |
 | 82 | [This Tornado Loves You](https://open.spotify.com/track/5FRmsiVS8ybJHQCV0fjuI1) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Middle Cyclone](https://open.spotify.com/album/3gMzehYCxYMrW6pYlcThWJ) | 3:19 |
 | 83 | [Four Winds](https://open.spotify.com/track/7iV2w73aB3oL7UWgEAWuiN) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [Cassadaga](https://open.spotify.com/album/12g6dnsHEdhzS3BGB4CefB) | 4:16 |
-| 84 | [Kathleen](https://open.spotify.com/track/2nrVWS45ufhqJuKK95J3nv) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Hello Starling](https://open.spotify.com/album/7LQ7nZid1nFl5RcmZq4Qtg) | 4:08 |
-| 85 | [Cello Song Feat\. Jose Gonzales](https://open.spotify.com/track/55Q6Pf0xufUM8MEjbqEfcp) | [The Books](https://open.spotify.com/artist/4UvhuGdFf75Cfan7lEU1J1) | [Music For A French Elevator And Other Oddities](https://open.spotify.com/album/4naPotuOdRMQga4C8ZAm2C) | 3:54 |
-| 86 | [Long Ride Home](https://open.spotify.com/track/1v76gn29TvpZg2areWXbxP) | [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [1000 Kisses](https://open.spotify.com/album/0bpwJNSMStRM5shqRW6ro2) | 3:33 |
-| 87 | [Romulus](https://open.spotify.com/track/2woPqHnZek73ZIcozlk0Ig) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Michigan](https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk) | 4:41 |
+| 84 | [Cello Song Feat\. Jose Gonzales](https://open.spotify.com/track/55Q6Pf0xufUM8MEjbqEfcp) | [The Books](https://open.spotify.com/artist/4UvhuGdFf75Cfan7lEU1J1) | [Music For A French Elevator And Other Oddities](https://open.spotify.com/album/4naPotuOdRMQga4C8ZAm2C) | 3:54 |
+| 85 | [Kathleen](https://open.spotify.com/track/2nrVWS45ufhqJuKK95J3nv) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Hello Starling](https://open.spotify.com/album/7LQ7nZid1nFl5RcmZq4Qtg) | 4:08 |
+| 86 | [Romulus](https://open.spotify.com/track/2woPqHnZek73ZIcozlk0Ig) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Michigan](https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk) | 4:41 |
+| 87 | [Long Ride Home](https://open.spotify.com/track/1v76gn29TvpZg2areWXbxP) | [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [1000 Kisses](https://open.spotify.com/album/0bpwJNSMStRM5shqRW6ro2) | 3:33 |
 | 88 | [Knife](https://open.spotify.com/track/4BmtCb6sdMqECAItGmFDvU) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Yellow House](https://open.spotify.com/album/6rVRNvNpzh0O2nSxFG7Ziz) | 5:14 |
 | 89 | [Sycamore](https://open.spotify.com/track/0do3zfmbVl5DiGxUXrbhrT) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Woke On A Whaleheart](https://open.spotify.com/album/4ZrfprqjbFWKGV0prZfDGH) | 5:35 |
 | 90 | [The Modern Leper](https://open.spotify.com/track/3aunzvczA4MkwIrHuARjqM) | [Frightened Rabbit](https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr) | [The Midnight Organ Fight](https://open.spotify.com/album/42UPwzHW8rhA13t5JJxp09) | 3:48 |
 | 91 | [Inside Of Love](https://open.spotify.com/track/56hMpSZ6CZ2gjmdKdNN8pz) | [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy) | [Let Go](https://open.spotify.com/album/4zHS8jrrBCdAo11WtNaz8A) | 4:58 |
-| 92 | [Let’s Dance](https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Transfiguration of Vincent](https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS) | 5:00 |
-| 93 | [Strictly Rule](https://open.spotify.com/track/2NftpgOvfV2YCH1lrRP5p8) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [Tight Knit](https://open.spotify.com/album/4vS4ELlf7HddnAg5mactkC) | 4:28 |
+| 92 | [Strictly Rule](https://open.spotify.com/track/2NftpgOvfV2YCH1lrRP5p8) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [Tight Knit](https://open.spotify.com/album/4vS4ELlf7HddnAg5mactkC) | 4:28 |
+| 93 | [Let’s Dance](https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Transfiguration of Vincent](https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS) | 5:00 |
 | 94 | [Young Bride](https://open.spotify.com/track/4YyFSSPQgXooWQzVzya7nU) | [Midlake](https://open.spotify.com/artist/4YsP5zmteLQ7etNjHAOu30) | [The Trials of Van Occupanther](https://open.spotify.com/album/034XwDisEPdZwJWTOaUaVs) | 4:51 |
 | 95 | [You and I](https://open.spotify.com/track/2fdMAIsNH4wY7RRda8aCfL) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Wilco \(The Album\)](https://open.spotify.com/album/1cezxBJdWm1Xod9ZiGy4YE) | 3:25 |
 | 96 | [Teardrop](https://open.spotify.com/track/02C433ZVoi5cPFOSEKKzUX) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [In Our Nature](https://open.spotify.com/album/4zhb7QX3fvyamvbcYGnKMv) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 99 | [Dress Sexy At My Funeral](https://open.spotify.com/track/2lTnA8Z6rmjIvQRcEy3XLH) | [Smog](https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko) | [Dongs Of Sevotion](https://open.spotify.com/album/7nmRFyTp3Ybj9QRNFxlT27) | 5:30 |
 | 100 | [Northern Lights](https://open.spotify.com/track/4r9PnuIGOJOZ6UofWyMdow) | [Bowerbirds](https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m) | [Upper Air](https://open.spotify.com/album/6j7VkUjGahbmwgPchYezpZ) | 2:54 |
 
-Snapshot ID: `MTY1MDkxNjQ0MiwwMDAwMDAwMDY2NDA1ZTdjMTNmNTYyMWYzMjc1ZmJjYjZlMWU4MzFk`
+Snapshot ID: `MTY1MDkxNjQ0MiwwMDAwMDAwMGU5NmNiNDRjODY0MjcyMjYzNjRlZGNhODhmMjg0OWIx`

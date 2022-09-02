@@ -4,7 +4,7 @@
 
 > Ecko en la casa del Trap de Argentino.
 
-148 songs - 7 hr 22 min - [published](https://open.spotify.com/playlist/23nX6vOJkUDnsNQfFrfuBO)
+149 songs - 7 hr 25 min - [published](https://open.spotify.com/playlist/23nX6vOJkUDnsNQfFrfuBO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [GIVENCHY](https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [GIVENCHY](https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx) | 3:02 | 2022-07-21 |  |
 | [Goteo](https://open.spotify.com/track/1EoEU4HY57qaITp06TkC6B) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Goteo](https://open.spotify.com/album/6lfI4LBcu46SL3TzSw3rWg) | 2:44 | 2022-01-21 |  |
 | [GRR PAW](https://open.spotify.com/track/38MEJAGU5Ks6gEHdKG9Q3v) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [GRR PAW](https://open.spotify.com/album/58niEuot4EYfEHcsukrvvj) | 2:47 | 2022-05-04 |  |
+| [Guapa](https://open.spotify.com/track/5kw4PXyQAKtIegpAfwjGMy) | [Luche](https://open.spotify.com/artist/3KKomwHhzofchp8VArk3sC), [Chigua](https://open.spotify.com/artist/16vvA9c32SSlzKJff7s7JW) | [Guapa](https://open.spotify.com/album/0f7hijY5yqgbXbgjDlMg62) | 2:33 | 2022-09-01 |  |
 | [Guchi Polo](https://open.spotify.com/track/7EKysfHBIwPQ3RvhD9dH9D) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir), [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la) | [Guchi Polo](https://open.spotify.com/album/3yFCuw8xsbOXtbOXG2GL86) | 3:21 | 2022-07-21 |  |
 | [Guchi Polo](https://open.spotify.com/track/7LogWJv62K2bdTtw12RHTb) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir), [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la) | [Guchi Polo](https://open.spotify.com/album/6geOVKHOwBGyQIMo9m8yR6) | 3:21 | 2022-01-21 | 2022-07-29 |
 | [H.I.E.L.O.](https://open.spotify.com/track/6itjKRbqPMmx9fo4PDlLhm) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Obie Wanshot](https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV) | [H.I.E.L.O.](https://open.spotify.com/album/2V5eHcsWILzjRzf9Z47tiX) | 3:16 | 2022-01-21 |  |

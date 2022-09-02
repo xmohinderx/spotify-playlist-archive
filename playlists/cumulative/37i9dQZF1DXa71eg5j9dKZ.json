@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "Alternative electronic gems. Cover: George FitzGerald",
+  "description": "The home for alternative electronic music. Cover: TSHA",
   "name": "Altar",
   "published_playlist_ids": [
     "421FObHiJ0lygWLx69aaX2"
@@ -233,6 +233,28 @@
       "duration_ms": 337777,
       "name": "A Place 4 MNU",
       "url": "https://open.spotify.com/track/6Fi1TgD8DWMUOWxpQJ4KdK"
+    },
+    {
+      "album": {
+        "name": "A Radiant Sign",
+        "url": "https://open.spotify.com/album/5QpbkUhMenmgathlclAcBl"
+      },
+      "artists": [
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        },
+        {
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232917,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/6ExxJ9telaOPy8U2onom9F"
     },
     {
       "album": {
@@ -1083,7 +1105,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 285106,
       "name": "Bicstan",
       "url": "https://open.spotify.com/track/0b6WQuGWBGaRvAReIbx4uT"
@@ -1912,6 +1934,28 @@
     },
     {
       "album": {
+        "name": "Dancing In The Shadows",
+        "url": "https://open.spotify.com/album/2rJpFV7L5MsabqxrEeHVd6"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276923,
+      "name": "Dancing In The Shadows",
+      "url": "https://open.spotify.com/track/2edB8M0PPZCoYKm8ohDaNm"
+    },
+    {
+      "album": {
         "name": "Swift",
         "url": "https://open.spotify.com/album/69IqHAds5i0w75QYrILATK"
       },
@@ -2527,7 +2571,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-20",
+      "date_removed": null,
       "duration_ms": 203071,
       "name": "Feels Like",
       "url": "https://open.spotify.com/track/6tiK5mxdY4c8AFMhypVgG7"
@@ -2871,7 +2915,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 203751,
       "name": "Giving Up",
       "url": "https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0"
@@ -3325,7 +3369,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 326146,
       "name": "Human Sound",
       "url": "https://open.spotify.com/track/30LzLyZYQvmPSJeJHtBTx4"
@@ -3521,7 +3565,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 260893,
       "name": "I've Felt Better (Than I Do Now)",
       "url": "https://open.spotify.com/track/06Cd1X5jSWGGKIya1pAG31"
@@ -4089,7 +4133,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 174417,
       "name": "Looking at Your Pager",
       "url": "https://open.spotify.com/track/0y6CoVW1ZSBqRmPbyfhFQs"
@@ -4107,7 +4151,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 273844,
       "name": "Lost Island",
       "url": "https://open.spotify.com/track/7oZ1Px5qTBgeDS3vo1YMfr"
@@ -4583,7 +4627,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 312677,
       "name": "Midnight Shift",
       "url": "https://open.spotify.com/track/7prfaRBYep3c2sDfpKWGlS"
@@ -4974,6 +5018,28 @@
     },
     {
       "album": {
+        "name": "Never Gonna Get It",
+        "url": "https://open.spotify.com/album/3CxpaBghJW3Rjm6cY3WWRS"
+      },
+      "artists": [
+        {
+          "name": "Future Utopia",
+          "url": "https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo"
+        },
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170680,
+      "name": "Never Gonna Get It",
+      "url": "https://open.spotify.com/track/0QEbtIIK5pwcZZYuzjTOZB"
+    },
+    {
+      "album": {
         "name": "Must Be Nice",
         "url": "https://open.spotify.com/album/6OofM4R1bZLZXrU1Pwr09L"
       },
@@ -5029,6 +5095,24 @@
       "duration_ms": 285875,
       "name": "Nightmare at 20\u200b.\u200b000 Feet",
       "url": "https://open.spotify.com/track/6OLAPbFeCpQbiuqsxVujKK"
+    },
+    {
+      "album": {
+        "name": "Nike",
+        "url": "https://open.spotify.com/album/4TheMbO9MrRGaDzJwyTyVx"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127624,
+      "name": "Nike",
+      "url": "https://open.spotify.com/track/1ueaBqr5S3NxQhj1gKgmwj"
     },
     {
       "album": {
@@ -5288,6 +5372,28 @@
     },
     {
       "album": {
+        "name": "Passed Tense",
+        "url": "https://open.spotify.com/album/5lbiP1DLW9DrB5BB3dH3x9"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        },
+        {
+          "name": "Panda Bear",
+          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241087,
+      "name": "Passed Tense",
+      "url": "https://open.spotify.com/track/2uUAW6qgya8keByF9mh3ui"
+    },
+    {
+      "album": {
         "name": "to hell with it (Remixes)",
         "url": "https://open.spotify.com/album/3KP55PNM7vdlrIm1LavDzb"
       },
@@ -5329,6 +5435,28 @@
       "duration_ms": 257424,
       "name": "Patience",
       "url": "https://open.spotify.com/track/7pLOaCyA4SUW6ERrgkYOUV"
+    },
+    {
+      "album": {
+        "name": "Pax",
+        "url": "https://open.spotify.com/album/3Qk1ydD4XDPOdLOOqCF4Lh"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Robinson",
+          "url": "https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66"
+        },
+        {
+          "name": "DJ ADHD",
+          "url": "https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305014,
+      "name": "Pax",
+      "url": "https://open.spotify.com/track/00DrCz52C36qaTPItWpCNK"
     },
     {
       "album": {
@@ -5865,7 +5993,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 374094,
       "name": "Romance With A Memory - Midland Remix",
       "url": "https://open.spotify.com/track/7e7ORZcLDqbtPEt1ASgC1r"
@@ -6467,7 +6595,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 254920,
       "name": "Spectral Hearts",
       "url": "https://open.spotify.com/track/141jzqNtkMgKLquRplzlxy"
@@ -7557,7 +7685,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 251838,
       "name": "Unit 18",
       "url": "https://open.spotify.com/track/4QRHWbbFJhPqTFs6RPS1TV"

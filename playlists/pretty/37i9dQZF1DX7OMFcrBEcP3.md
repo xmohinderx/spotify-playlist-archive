@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OMFcrBEcP3.md) - [plain]
 
 > The Corridos of yesterday and today all in one place!
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,342 likes - 77 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,364 likes - 77 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OMFcrBEcP3.md) - [plain]
 | 8 | [Buena Vibra](https://open.spotify.com/track/6Y2qNukfWKFGbAv2iONhvy) | [Jose Villarreal](https://open.spotify.com/artist/02qtde8veYObRnk68N35sP) | [Buena Vibra](https://open.spotify.com/album/3mnkgCAgh8lwjzMkGxHGw1) | 3:13 |
 | 9 | [Todos Hablan, Nada Saben](https://open.spotify.com/track/0SIooo95Kba3UwPBRUOcmd) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu) | [Todos Hablan, Nada Saben](https://open.spotify.com/album/1hAHT5gZfRLDYh0sZaTnDK) | 2:43 |
 | 10 | [Cada Quien](https://open.spotify.com/track/5BE9B2FiFWBbBdoIQ1m1UP) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Cada Quien](https://open.spotify.com/album/5cyWGgkGniYOaNkKrPOy1p) | 3:17 |
-| 11 | [Cabrón y Vago \- En Vivo](https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Puerta Abierta, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg) | 2:22 |
+| 11 | [Soy Buen Amigo](https://open.spotify.com/track/1Z0auW1yEy6Dq9hsRdeIV3) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Soy Buen Amigo](https://open.spotify.com/album/1e35jCMYgVC4dOt1YykB6v) | 2:33 |
 | 12 | [Descansando](https://open.spotify.com/track/3QXBaUQ8iwP2WI1GpQIP18) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Descansando](https://open.spotify.com/album/4n05Mdr8HuetVr4V6TWnWI) | 3:45 |
 | 13 | [Aerolínea Carrillo](https://open.spotify.com/track/0xYTyyfV767E2Vn3hz56kL) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [The Green Trip](https://open.spotify.com/album/1KrCvwoIRQ18824qcMFb4F) | 2:54 |
 | 14 | [Disfruto Lo Malo](https://open.spotify.com/track/7LH2UUuyMHt7035PLZQ8wx) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Corridos Tumbados](https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr) | 3:07 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OMFcrBEcP3.md) - [plain]
 | 18 | [Que Esta Pasando](https://open.spotify.com/track/26xQbFpVg8JCT5NKQFJXg8) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Que Esta Pasando](https://open.spotify.com/album/6Oe0sKJyLnwFwfKwcbSRZS) | 2:42 |
 | 19 | [Desde Morro](https://open.spotify.com/track/5u6lAvdS8mmHHTHQlC3TtN) | [Justin Morales](https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO) | [Desde Morro](https://open.spotify.com/album/6ruqxBlrH2BEZKZjgG3hSS) | 2:26 |
 | 20 | [El Karma](https://open.spotify.com/track/34eVjAbZ5CzAtZIVMDHL1C) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 3:15 |
-| 21 | [Soy Buen Amigo](https://open.spotify.com/track/1Z0auW1yEy6Dq9hsRdeIV3) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Soy Buen Amigo](https://open.spotify.com/album/1e35jCMYgVC4dOt1YykB6v) | 2:33 |
+| 21 | [Cabrón y Vago \- En Vivo](https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Puerta Abierta, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg) | 2:22 |
 | 22 | [Mis Tres Viejas](https://open.spotify.com/track/1yxJIFPhP2EqnQ6oWJKbmP) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Corridos De Primera Plana](https://open.spotify.com/album/368bh2s0aVeChSmOHvmXxz) | 2:42 |
 | 23 | [Hablando Claro \(En Vivo\)](https://open.spotify.com/track/5hRFjooNvZWb9gdnXjrv2j) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Hablando Claro \(En Vivo\)](https://open.spotify.com/album/2F58yhcgZckSuL5pDXqEi8) | 3:10 |
 | 24 | [A Lo Lejos Me Veran](https://open.spotify.com/track/3VHtIuKm8MvOTo81Usu2f5) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.1](https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5) | 2:28 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OMFcrBEcP3.md) - [plain]
 | 76 | [Eslabón Por Eslabón](https://open.spotify.com/track/5S26gp6JrEpG9JW1zFinAB) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [20 Rancheras](https://open.spotify.com/album/0Sj2tO0uGkHE7EVasrPeIC) | 3:02 |
 | 77 | [Gente De Arranque](https://open.spotify.com/track/1MUmseE7ctXeUgu6D0q5Jn) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Con La Nueva Federación](https://open.spotify.com/album/1MsMQsAojpvdsE6wGtboSa) | 3:03 |
 
-Snapshot ID: `MTY0MTAyNDAwMCwwMDAwMDAwMDQxYzE3Y2Q3YTVkOTgwNjlhN2QxZGM1ZWRmYWQyYjVk`
+Snapshot ID: `MTY0MTAyNDAwMCwwMDAwMDAwMDdmMDQzYmQ4MDFhODIxNzVmZjcyMmM4OWRhODU0ZDNl`

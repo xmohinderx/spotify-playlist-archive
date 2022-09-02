@@ -4,13 +4,13 @@
 
 > The melancholic and soft sound of jazz.
 
-122 songs - 10 hr 54 min - [published](https://open.spotify.com/playlist/0KmOAff9Qu5XjfAKEmMLdc)
+123 songs - 10 hr 59 min - [published](https://open.spotify.com/playlist/0KmOAff9Qu5XjfAKEmMLdc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(It Will Have To Do\) Until The Real Thing Comes Along \- Remastered](https://open.spotify.com/track/37MsN9jkHraBoRU0rbl64A) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [A Swingin' Affair](https://open.spotify.com/album/2MDFi0jt8SnjYIFwgtU2Q3) | 6:49 | 2022-01-20 |  |
 | [502 Blues \(Drinkin' And Drivin'\) \- Rudy Van Gelder Edition/2000 Digital Remaster/24 Bit Mastering](https://open.spotify.com/track/0F8xfPspwyXxRjsiW12mya) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Adam's Apple \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/4sxvTow8IffB0lisGJWb6Z) | 6:34 | 2021-12-03 |  |
-| [A Handful Of Stars](https://open.spotify.com/track/1MWgBm6oR6sVhNwwh1roUh) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz And The Cool Sounds](https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU) | 3:19 | 2021-12-03 |  |
+| [A Handful Of Stars](https://open.spotify.com/track/1MWgBm6oR6sVhNwwh1roUh) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz And The Cool Sounds](https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU) | 3:19 | 2021-12-03 | 2022-09-02 |
 | [Ain't Misbehavin](https://open.spotify.com/track/4TndToxlz7Qdvpb2O9s9HM) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [Songs from the Heart \(Remastered 2013\)](https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW) | 2:49 | 2022-01-13 |  |
 | [Alfie](https://open.spotify.com/track/40jkZfOGxDcIRgNz9nEoZ7) | [Rahsaan Roland Kirk](https://open.spotify.com/artist/7De2eIqeHTw091YeAkkYXV) | [Rip Rig And Panic / Now Please Don't You Cry Beautiful Edith](https://open.spotify.com/album/0yAbp9pGErWGyK3g8n0KFp) | 2:52 | 2022-05-19 |  |
 | [All The Way \- Rudy Van Gelder Edition / 2007 / Digital Remaster](https://open.spotify.com/track/5Vwv04kuzOG41a1v8RgZ8O) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Candy \(Remastered\)](https://open.spotify.com/album/4GfUYw8hn5RPQHkRCcU2aL) | 7:27 | 2021-12-03 |  |
@@ -75,6 +75,7 @@
 | [Indian Summer](https://open.spotify.com/track/7IFQTbvDmVAH7XuJiEhoYc) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Wrapped Tight](https://open.spotify.com/album/1UZ00S0S5XACLjQn2caq8e) | 5:01 | 2022-01-26 |  |
 | [Intermezzo](https://open.spotify.com/track/0TvvhxT76LgtvwtCDZ3Uw4) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Wrapped Tight](https://open.spotify.com/album/1UZ00S0S5XACLjQn2caq8e) | 3:36 | 2022-05-19 | 2022-08-31 |
 | [It Never Entered My Mind](https://open.spotify.com/track/6PKCEB5JzjCizpz9hUQcpX) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Coleman Hawkins Encounters Ben Webster \(Expanded Edition\)](https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ) | 5:46 | 2022-01-20 |  |
+| [It Never Entered My Mind](https://open.spotify.com/track/6QlkHjQmo2YncQN5MQXgPZ) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Workin'](https://open.spotify.com/album/7buLIJn2VuqsVORghMEvli) | 5:23 | 2022-09-01 |  |
 | [It's Easy To Remember](https://open.spotify.com/track/1Lha7xd3R376bZjZLJo4Lt) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Ballads](https://open.spotify.com/album/2fdnSzyVkyG5R0VJgo9Gv5) | 2:45 | 2022-01-13 |  |
 | [Journey Into Melody \- 2007 Digital Remaster/Rudy Van Gelder Edition](https://open.spotify.com/track/7ysmJhXFQtiBQlk6EZ6sks) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [Look Out! \(Remastered\)](https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr) | 4:55 | 2021-12-03 |  |
 | [Like Someone In Love](https://open.spotify.com/track/7yo0ye0zCginW62iq21wXx) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Lush Life](https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y) | 4:57 | 2021-12-03 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Punk rock from the 90s and 00s that you need in your life. Cover: Rancid",
-  "num_followers": 831270,
+  "num_followers": 830737,
   "original_name": "Punk Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk3MjE1NiwwMDAwMDAwMDQzZDk1YWE1NWFhMjk2YzAyOTRiYmMyYjgzYWQ4ZTk4",
+  "snapshot_id": "MTY2MTk3MjE1NiwwMDAwMDAwMDNlMGFmOTNmM2RhODkzZjgzN2Y0Y2M3OWRkODA0MjU2",
   "tracks": [
     {
       "added_at": "2022-08-31 18:55:56",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-08-31 18:55:56",
       "album": {
-        "name": "Turn The Radio Off",
-        "url": "https://open.spotify.com/album/5nO5x1Qgnf7zwmO83qrHRn"
-      },
-      "artists": [
-        {
-          "name": "Reel Big Fish",
-          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
-        }
-      ],
-      "duration_ms": 227493,
-      "name": "Sell Out",
-      "url": "https://open.spotify.com/track/6SJ1hWFVBIiUgGgHKvwXCQ"
-    },
-    {
-      "added_at": "2022-08-31 18:55:56",
-      "album": {
         "name": "Crimson",
         "url": "https://open.spotify.com/album/1nbbNU8TtGkPtYlLpmP1ZY"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 169497,
       "name": "Mercy Me",
       "url": "https://open.spotify.com/track/2YrB3vM3H7TcXZ0rAq4X8Y"
+    },
+    {
+      "added_at": "2022-08-31 18:55:56",
+      "album": {
+        "name": "Turn The Radio Off",
+        "url": "https://open.spotify.com/album/5nO5x1Qgnf7zwmO83qrHRn"
+      },
+      "artists": [
+        {
+          "name": "Reel Big Fish",
+          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
+        }
+      ],
+      "duration_ms": 227493,
+      "name": "Sell Out",
+      "url": "https://open.spotify.com/track/6SJ1hWFVBIiUgGgHKvwXCQ"
     },
     {
       "added_at": "2022-08-31 18:55:56",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-08-31 18:55:56",
       "album": {
-        "name": "Cheshire Cat",
-        "url": "https://open.spotify.com/album/6uTjljlshthbtA2U7V6u83"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 194960,
-      "name": "Carousel",
-      "url": "https://open.spotify.com/track/3gVXAW2pduBl7tzjAGUVRb"
-    },
-    {
-      "added_at": "2022-08-31 18:55:56",
-      "album": {
         "name": "Operation Ivy (2007 Remaster)",
         "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 134026,
       "name": "Sound System - 2007 Remaster",
       "url": "https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1"
+    },
+    {
+      "added_at": "2022-08-31 18:55:56",
+      "album": {
+        "name": "Cheshire Cat",
+        "url": "https://open.spotify.com/album/6uTjljlshthbtA2U7V6u83"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 194960,
+      "name": "Carousel",
+      "url": "https://open.spotify.com/track/3gVXAW2pduBl7tzjAGUVRb"
     },
     {
       "added_at": "2022-08-31 18:55:56",

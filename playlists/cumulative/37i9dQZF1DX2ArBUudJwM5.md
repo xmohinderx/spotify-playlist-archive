@@ -4,7 +4,7 @@
 
 > Silvina Moreno y más mujeres, a todo volumen.
 
-361 songs - 19 hr 53 min - [published](https://open.spotify.com/playlist/2QVxsIRorz9KsDBcQ2nOCU)
+362 songs - 19 hr 57 min - [published](https://open.spotify.com/playlist/2QVxsIRorz9KsDBcQ2nOCU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Enemiga](https://open.spotify.com/track/38pWZZvVayAJbwJfkF9U8T) | [A.M.I.G.A](https://open.spotify.com/artist/0uyr1e5knDdGEAdyEtQ5Hu), [Kira](https://open.spotify.com/artist/5FNcbjpgzlwiZSzfBIX7CL), [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [Enemiga](https://open.spotify.com/album/02shE5igup0plU3ae23SIw) | 4:46 | 2021-12-17 | 2022-01-06 |
 | [Entre los Dos](https://open.spotify.com/track/6vulL1k5lhXXJWpbhueb9l) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [Entre los Dos](https://open.spotify.com/album/7bqH49xld2kde9aRWUMxCe) | 3:23 | 2022-08-03 |  |
 | [Es Poderoso](https://open.spotify.com/track/5BLXWjtErKV3De7MOtomI6) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Mojigata](https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS) | 2:19 | 2022-07-06 | 2022-08-04 |
-| [Esperanza \(feat\. Agarrate Catalina\)](https://open.spotify.com/track/3yUylEQIeozYWNXv8MIGqJ) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G), [Agarrate Catalina](https://open.spotify.com/artist/0Jo06O68y5JjVgiPbAR9Ox) | [Herminia](https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5) | 3:46 | 2022-08-03 |  |
+| [Esperanza \(feat\. Agarrate Catalina\)](https://open.spotify.com/track/3yUylEQIeozYWNXv8MIGqJ) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G), [Agarrate Catalina](https://open.spotify.com/artist/0Jo06O68y5JjVgiPbAR9Ox) | [Herminia](https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5) | 3:46 | 2022-08-03 | 2022-09-02 |
 | [Esta noche](https://open.spotify.com/track/2paiBPpz2kUzq3UQyYrZap) | [Luna Sujatovich](https://open.spotify.com/artist/0RsjZIEbaxBvwvoEfnEs2G), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Desafío Guerrero](https://open.spotify.com/album/3ivPgEGZR6a8kWbMFCyERY) | 4:16 | 2022-08-03 |  |
 | [Estamos Bajo el Agua](https://open.spotify.com/track/2qFVAC8H6C3MsbkvIB2v4V) | [Agus Vivo](https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW), [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Estamos Bajo el Agua](https://open.spotify.com/album/36rh05hGcnspz2thYgqVEv) | 2:31 | 2022-06-01 | 2022-07-07 |
 | [Estoy Tocando Fondo](https://open.spotify.com/track/01sEco3yGjZm6mAAZzMlKm) | [Viuda E Hijas De Roque Enroll](https://open.spotify.com/artist/5X7IiXMVREXSohJkJEwdef) | [Perlas y Diamantes](https://open.spotify.com/album/7kO9imSCx60PuvubbTMDgt) | 2:54 | 2022-07-06 | 2022-08-04 |
@@ -253,6 +253,7 @@
 | [Paraguaya](https://open.spotify.com/track/6BFpuCx0Hq9ZK2bZmo7l8v) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [Halo](https://open.spotify.com/album/1gNV7gHVMvM1XU0ZxrxRzL) | 3:43 | 2022-02-02 | 2022-03-09 |
 | [Pasaje Directo](https://open.spotify.com/track/0ftCDoYy0Z2pFcOt464gih) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT), [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [ARDE](https://open.spotify.com/album/3XlbISNBUWfa7dPO9rZoDm) | 3:49 | 2022-07-06 | 2022-08-04 |
 | [Pedazos](https://open.spotify.com/track/0l1Tm2iXjJVXtHYFCdxpAK) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Pedazos](https://open.spotify.com/album/2pHGFbI5w68m2LvFwRKxCI) | 2:44 | 2022-08-03 |  |
+| [Pedestal](https://open.spotify.com/track/7p4QEB7iXuOG7Zomx9WMqn) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Pedestal](https://open.spotify.com/album/2IsAYh8idgFVFh9ZeJ1Yu6) | 3:28 | 2022-09-02 |  |
 | [Pegaíta](https://open.spotify.com/track/12b0uQb7e3PfBug4Qu5UU2) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Pegaíta](https://open.spotify.com/album/5Ejhti8KwTfYle82IGluhV) | 3:38 | 2021-12-17 | 2022-02-03 |
 | [Pensamos](https://open.spotify.com/track/5Gf8iGuphrgFoUTYRHNkfC) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Parte de Mí](https://open.spotify.com/album/3ma7if5xuOYxZouDsuCsdP) | 2:53 | 2022-01-05 | 2022-02-03 |
 | [Pensándote](https://open.spotify.com/track/0eBXYmenc3IatPxBOtX91D) | [Luz Pereyra](https://open.spotify.com/artist/7D1Cr80ZNOkzVkvo53cGjA) | [Pensándote](https://open.spotify.com/album/7CfRSumqqyPF6u17A9BXXm) | 3:20 | 2022-05-04 | 2022-07-07 |

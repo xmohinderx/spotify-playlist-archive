@@ -4,7 +4,7 @@
 
 > This is Los Rieleros Del Norte\. The essential tracks, all in one playlist.
 
-61 songs - 3 hr 14 min - [published](https://open.spotify.com/playlist/0sYa4z4Qbp5n9iE99g3wrJ)
+62 songs - 3 hr 17 min - [published](https://open.spotify.com/playlist/0sYa4z4Qbp5n9iE99g3wrJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,16 +36,17 @@
 | [Es por Eso Que Te Quiero](https://open.spotify.com/track/2tbICfpEZEsBewG3hW2sCq) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Con Eso o Más](https://open.spotify.com/album/4k5tdo6nMpeMxS6SzOzjA3) | 3:07 | 2022-06-11 | 2022-06-13 |
 | [Estabas Tan Linda](https://open.spotify.com/track/389TrubBy5SMAcb3SK8nkj) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Sobre Los Rieles](https://open.spotify.com/album/2oMobAHjCHpW7yu5UuPsRS) | 2:42 | 2022-06-01 |  |
 | [Golondrina Viajera](https://open.spotify.com/track/43p1EAcsehfb4eT6oSWhJs) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Invencible](https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB) | 3:38 | 2022-06-01 |  |
+| [Hay Niveles](https://open.spotify.com/track/5gT1s5O16yAMsHOH7SZxQX) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Hay Niveles](https://open.spotify.com/album/12hvhaWD4ZIN2zskXJYQm4) | 2:59 | 2022-09-01 |  |
 | [Juan Marta](https://open.spotify.com/track/6JljTeuO2CI8J8Ou0QaUx9) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [La Golosa](https://open.spotify.com/album/3TjccwMpSvm064wsjxbTzT) | 3:31 | 2022-06-01 |  |
-| [La Eché En Un Carrito](https://open.spotify.com/track/0fJh2z8ZrYNYPtgErkqBZ5) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [La Eché En Un Carrito](https://open.spotify.com/album/6WXw2GMFbJMiMKAeOoWZWi) | 2:51 | 2022-06-01 |  |
+| [La Eché En Un Carrito](https://open.spotify.com/track/0fJh2z8ZrYNYPtgErkqBZ5) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [La Eché En Un Carrito](https://open.spotify.com/album/6WXw2GMFbJMiMKAeOoWZWi) | 2:51 | 2022-06-01 | 2022-09-02 |
 | [La Equivocación](https://open.spotify.com/track/67foWfrFF0pHYh7H0XQuBl) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Cuesta Arriba](https://open.spotify.com/album/2aALr2tgoycC3tyhWciLHi) | 3:17 | 2022-06-01 |  |
-| [La Loba del Mal](https://open.spotify.com/track/6y8xUOHC3g0C8ZWYeJKPOV) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [En Tus Manos](https://open.spotify.com/album/4kN3maXuYFvA8aQKIS4GyD) | 3:38 | 2022-06-02 |  |
+| [La Loba del Mal](https://open.spotify.com/track/6y8xUOHC3g0C8ZWYeJKPOV) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [En Tus Manos](https://open.spotify.com/album/4kN3maXuYFvA8aQKIS4GyD) | 3:38 | 2022-06-02 | 2022-09-02 |
 | [La Ruleta](https://open.spotify.com/track/3mK4Zv1oitX7LyUsKsVhwh) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Abriendo Caminos](https://open.spotify.com/album/6qL1ZOQEqMLdfo83yQoKKo) | 3:44 | 2022-06-01 |  |
 | [Lo Siento Amigo \- Mariachi](https://open.spotify.com/track/25lwn5YDaP9Tp80HyvJTsX) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv), [Angel Sanchez](https://open.spotify.com/artist/0CjuBuzouj2pTHrHba4AyC) | [Reafirmando el Estilo](https://open.spotify.com/album/1CwNs3S5dwhVaknX8a2FAL) | 4:03 | 2022-06-01 |  |
 | [Me Lo Contaron Ayer](https://open.spotify.com/track/0lWHxgeKgWiNpUHKD7Y8QW) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Me Lo Contaron Ayer](https://open.spotify.com/album/6gu5C4B82H9RWekehc9qIm) | 3:03 | 2022-06-01 |  |
 | [Mi Amor No Lo Mereces](https://open.spotify.com/track/0ocdFIkMTHJrGEGnph6g94) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Invencible](https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB) | 2:39 | 2022-06-01 |  |
 | [Mi Primer Amor \(Meu Primeiro Amor\)](https://open.spotify.com/track/4MBykXKFPYkAmsZhe2kYDo) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Siempre Imitado, Jamas Igualado](https://open.spotify.com/album/35f4w9AcjnUdfJ174fgOz5) | 3:28 | 2022-06-01 |  |
-| [Ni Arrepentida](https://open.spotify.com/track/7qJ1VmcnkQI7etwyRBE5fT) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Ni Arrepentida](https://open.spotify.com/album/43PsyRpPmNrE8DVSiPWmFm) | 2:36 | 2022-06-01 | 2022-08-31 |
+| [Ni Arrepentida](https://open.spotify.com/track/7qJ1VmcnkQI7etwyRBE5fT) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Ni Arrepentida](https://open.spotify.com/album/43PsyRpPmNrE8DVSiPWmFm) | 2:36 | 2022-06-01 |  |
 | [No Le Digas a Nadie](https://open.spotify.com/track/2ZWrmyPmx09XR0jPWkyrU3) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [15 Exitos: La Maquina Musical Numero Uno](https://open.spotify.com/album/1zROvL56Rc1Ginre3mWSgD) | 3:22 | 2022-06-01 |  |
 | [No Me Hagas Menos](https://open.spotify.com/track/5CpAD6mT0lOdUkZHIqPGCq) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [De Lo Bueno Lo Mejor](https://open.spotify.com/album/3GpaL6ZqUdaCxaGrGYOA54) | 3:37 | 2022-06-01 |  |
 | [Noches Eternas](https://open.spotify.com/track/7k11lO5JBXkkQfKBExqVGh) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [El Maquinista](https://open.spotify.com/album/69lJRuexU5t09latWCcR2L) | 2:50 | 2022-06-01 |  |

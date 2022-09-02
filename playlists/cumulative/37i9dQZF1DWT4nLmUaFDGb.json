@@ -381,7 +381,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 205040,
       "name": "But Not For Me",
       "url": "https://open.spotify.com/track/2H26DBC5PrgzmBkvRHqmGx"
@@ -1652,6 +1652,24 @@
     },
     {
       "album": {
+        "name": "Live In Paris",
+        "url": "https://open.spotify.com/album/5VarMGaR1VFP4vlmzZsKgV"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300520,
+      "name": "Just The Way You Are",
+      "url": "https://open.spotify.com/track/1GGK81j5LaThJjnJHhfGDq"
+    },
+    {
+      "album": {
         "name": "The Best Of Sade",
         "url": "https://open.spotify.com/album/5eLHiRRgWKHtzEbQCew8pK"
       },
@@ -2345,7 +2363,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 257533,
       "name": "Smile",
       "url": "https://open.spotify.com/track/1LNWh23vkQZeQkc5ogC3TP"
@@ -3203,6 +3221,24 @@
       "duration_ms": 261920,
       "name": "You've Got A Friend",
       "url": "https://open.spotify.com/track/0tzpPgaBndJ7KflHxmoPWS"
+    },
+    {
+      "album": {
+        "name": "My One And Only Thrill",
+        "url": "https://open.spotify.com/album/0y5shamyoRauoNkHfUUmlA"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162720,
+      "name": "Your Heart Is As Black As Night",
+      "url": "https://open.spotify.com/track/1EUj3EeDYX5yldkBXkNDJP"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWT4nLmUaFDGb"

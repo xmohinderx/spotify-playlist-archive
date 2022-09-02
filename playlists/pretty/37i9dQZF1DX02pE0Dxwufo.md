@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX02pE0Dxwufo.md) - [plain]
 
 > Take a Louisville slugger to both headlights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,078 likes - 41 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,235 likes - 41 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

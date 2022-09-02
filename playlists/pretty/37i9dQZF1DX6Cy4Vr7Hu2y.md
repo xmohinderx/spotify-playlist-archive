@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: Kep1er\(케플러\)\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 797,952 likes - 64 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 796,841 likes - 64 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 | 44 | [DM](https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Midnight Guest](https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR) | 3:24 |
 | 45 | [DALLA DALLA](https://open.spotify.com/track/38rUIlTX93Aoif3WcY1wv6) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z Different](https://open.spotify.com/album/7Mxbav9clZ3AVDKThwwgXS) | 3:19 |
 | 46 | [La Vie en Rose](https://open.spotify.com/track/3WfaJhCL4p2JbdffJjV6Va) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [COLOR\*IZ](https://open.spotify.com/album/5Fl13rfH2DRRTo6OV4ecJY) | 3:38 |
-| 47 | [XOXO](https://open.spotify.com/track/4r34Yi0eltsu1tp6z4lq3x) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [XOXO](https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m) | 3:27 |
-| 48 | [그대라는 시](https://open.spotify.com/track/56Cmy1rCQ35V2Q7groYiHl) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Hotel del Luna \(Original Television Soundtrack\) Pt.3](https://open.spotify.com/album/6nddI94g7zC5bbyNzRBO0Y) | 3:29 |
+| 47 | [그대라는 시](https://open.spotify.com/track/56Cmy1rCQ35V2Q7groYiHl) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Hotel del Luna \(Original Television Soundtrack\) Pt.3](https://open.spotify.com/album/6nddI94g7zC5bbyNzRBO0Y) | 3:29 |
+| 48 | [XOXO](https://open.spotify.com/track/4r34Yi0eltsu1tp6z4lq3x) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [XOXO](https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m) | 3:27 |
 | 49 | [Stay This Way](https://open.spotify.com/track/3pqgVtpnQbBAZoWT4AEm1B) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [from our Memento Box](https://open.spotify.com/album/5HpgQwHm9jI5JcnmJqcCYo) | 3:15 |
 | 50 | [HONEY](https://open.spotify.com/track/7JDiC68AKimlvMCmZQuA9n) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [容 : FACE](https://open.spotify.com/album/6eSFX12WIqUtmGsD8UO3FT) | 2:47 |
 | 51 | [Rollin'](https://open.spotify.com/track/6SQUopvuZyrWYjYayxxSXl) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/3FuZ0bCYhMcoex6KN0F360) | 3:17 |
@@ -64,13 +64,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 | 54 | [MAISON](https://open.spotify.com/track/1fdlTXD7obDyqOpx96BEL9) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) | 3:05 |
 | 55 | [Nerdy](https://open.spotify.com/track/6KExHY2Eo0DphK63s2dfYi) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [Geekyland](https://open.spotify.com/album/7EDCoH5wfSGYdZ7wXCmTF4) | 2:58 |
 | 56 | [Purr](https://open.spotify.com/track/5T5OjYnQ9yemW2Eqn9piCx) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ), [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<Queendom2> Position Unit Battle Part.1\-2](https://open.spotify.com/album/1w8AYEGlbx03HhNxUvNPj8) | 3:26 |
-| 57 | [HIT YA!](https://open.spotify.com/track/5m7UOBjNO6Zp9gWdyscqDx) | [Lapillus](https://open.spotify.com/artist/7bcMJG1TkYFFD9Fit3STLJ) | [HIT YA!](https://open.spotify.com/album/5TIglX0Yp81a4cAvtdodI9) | 3:21 |
+| 57 | [For You](https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [For You](https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz) | 3:25 |
 | 58 | [Celebrity](https://open.spotify.com/track/4RewTiGEGoO7FWNZUmp1f4) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Celebrity](https://open.spotify.com/album/3mtDgtcl4bxDN73kIM216g) | 3:15 |
-| 59 | [For You](https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [For You](https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz) | 3:25 |
-| 60 | [TWIT](https://open.spotify.com/track/6qyz1KOlGJsKYJ4ZsRmRSD) | [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [TWIT](https://open.spotify.com/album/6KL4s0Y6Ijcj0QP1Nm1EVF) | 3:10 |
-| 61 | [You can't sit with us](https://open.spotify.com/track/4aS8OY1JsRSBKGfnAkIOZH) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [1/6](https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX) | 3:17 |
+| 59 | [TWIT](https://open.spotify.com/track/6qyz1KOlGJsKYJ4ZsRmRSD) | [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [TWIT](https://open.spotify.com/album/6KL4s0Y6Ijcj0QP1Nm1EVF) | 3:10 |
+| 60 | [You can't sit with us](https://open.spotify.com/track/4aS8OY1JsRSBKGfnAkIOZH) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [1/6](https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX) | 3:17 |
+| 61 | [HIT YA!](https://open.spotify.com/track/5m7UOBjNO6Zp9gWdyscqDx) | [Lapillus](https://open.spotify.com/artist/7bcMJG1TkYFFD9Fit3STLJ) | [HIT YA!](https://open.spotify.com/album/5TIglX0Yp81a4cAvtdodI9) | 3:21 |
 | 62 | [Bicycle](https://open.spotify.com/track/7wDVvxMUdW5MtJUqFtuXUz) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 2:59 |
 | 63 | [THE GIRLS \(Can’t turn me down\)](https://open.spotify.com/track/5bZ8iEjZ0iLq6Hr6GPWsUR) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<Queendom2> FINAL](https://open.spotify.com/album/5ZorEUDqewnEygf4FAOjhm) | 3:58 |
-| 64 | [Power Up](https://open.spotify.com/track/381g0b6QZxC13SzA2HRMIc) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Summer Magic \- Summer Mini Album](https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo) | 3:22 |
+| 64 | [DUMB DUMB](https://open.spotify.com/track/0dnkOK5hGUCmIJ7FDF0yHz) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [DUMB DUMB](https://open.spotify.com/album/24sFioeGsPtxa5fD6VzL8b) | 2:29 |
 
-Snapshot ID: `MTY2MTk1NTMxMiwwMDAwMDAwMDcxMmVmMDY4MTZiZjJiYjIyNDYwM2E3YTU1NDc2ODlk`
+Snapshot ID: `MTY2MTk1NTMxMiwwMDAwMDAwMGIzNjI1MDk5ZDdiMjdjMWE1ZDM5YTA4YmJiNmJkOTZj`

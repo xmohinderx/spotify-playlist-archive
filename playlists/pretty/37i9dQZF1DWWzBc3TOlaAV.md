@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzBc3TOlaAV.md) - [plain]
 
 > These songs rocked the '60s\. Cover: Jimi Hendrix
 
-[Spotify](https://open.spotify.com/user/spotify) - 777,405 likes - 70 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 777,706 likes - 70 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,10 +31,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzBc3TOlaAV.md) - [plain]
 | 21 | [White Rabbit](https://open.spotify.com/track/4vpeKl0vMGdAXpZiQB2Dtd) | [Jefferson Airplane](https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF) | [Surrealistic Pillow](https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a) | 2:30 |
 | 22 | [People Are Strange](https://open.spotify.com/track/1Jmqubf9kGkWeYQXQKImL5) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Days](https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf) | 2:10 |
 | 23 | [You Really Got Me \- Mono Mix](https://open.spotify.com/track/29SyMC0plk6qw8NMF7lfRL) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinks](https://open.spotify.com/album/08G3mGQXuHItbbsFAz50gJ) | 2:14 |
-| 24 | [House Of The Rising Sun](https://open.spotify.com/track/7BY005dacJkbO6EPiOh2wb) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [The Animals](https://open.spotify.com/album/0Xwkx2TLFwRcoK0OWQ0Msa) | 4:31 |
-| 25 | [Purple Haze](https://open.spotify.com/track/0wJoRiX5K5BxlqZTolB2LD) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 2:50 |
-| 26 | [The Weight \- Remastered 2000](https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Remastered\)](https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE) | 4:34 |
-| 27 | [Do You Believe in Magic?](https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu) | [The Lovin' Spoonful](https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe) | [Do you Believe In Magic](https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030) | 2:05 |
+| 24 | [Purple Haze](https://open.spotify.com/track/0wJoRiX5K5BxlqZTolB2LD) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 2:50 |
+| 25 | [House Of The Rising Sun](https://open.spotify.com/track/7BY005dacJkbO6EPiOh2wb) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [The Animals](https://open.spotify.com/album/0Xwkx2TLFwRcoK0OWQ0Msa) | 4:31 |
+| 26 | [Do You Believe in Magic?](https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu) | [The Lovin' Spoonful](https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe) | [Do you Believe In Magic](https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030) | 2:05 |
+| 27 | [The Weight \- Remastered 2000](https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Remastered\)](https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE) | 4:34 |
 | 28 | [Proud Mary](https://open.spotify.com/track/6pxWv6GV35VGmcPf5dh6CH) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Bayou Country \(Expanded Edition\)](https://open.spotify.com/album/5pCRW9AT4BgoMOS52pRoJq) | 3:07 |
 | 29 | [Sunshine Of Your Love](https://open.spotify.com/track/2K2M0TcglCRLLpFOzKeFZA) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Disraeli Gears \(Deluxe Edition\)](https://open.spotify.com/album/3W6CI0Lw7lElAPID2Fd3B4) | 4:10 |
 | 30 | [Light My Fire](https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 7:09 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzBc3TOlaAV.md) - [plain]
 | 69 | [Up On Cripple Creek](https://open.spotify.com/track/7aTCCNpHJD2Jgv0LLVJb8Y) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [The Band](https://open.spotify.com/album/4vXFiaDS8zuEl5bOUbW53x) | 4:30 |
 | 70 | [River Deep \- Mountain High](https://open.spotify.com/track/44BmNSqH9uZV5OfIjGcER3) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [River Deep\-Mountain High](https://open.spotify.com/album/1CbC5Rms2iIhgxvlyslNJh) | 3:34 |
 
-Snapshot ID: `MTY1NzAzNjYwMSwwMDAwMDAwMGMzM2I5NTM3NDNmOTJmZmI1YTIyNzk2ZWVjMDM0NTRj`
+Snapshot ID: `MTY1NzAzNjYwMSwwMDAwMDAwMGQzNzJlNzc3NDc4NjY3YmFjMzE5OWU4MzJjNDUwNDE3`

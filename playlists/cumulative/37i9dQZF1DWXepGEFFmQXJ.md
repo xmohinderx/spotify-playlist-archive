@@ -4,7 +4,7 @@
 
 > The cream of today's Country crop\. Cover: Zac & George
 
-211 songs - 11 hr 28 min - [published](https://open.spotify.com/playlist/4BrfIt5VuvXM9ZKeooO5jX)
+212 songs - 11 hr 32 min - [published](https://open.spotify.com/playlist/4BrfIt5VuvXM9ZKeooO5jX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [She Likes It \(feat\. Jake Scott\)](https://open.spotify.com/track/6VVqPBFZIbcmv14zNfOc13) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [She Likes It \(feat\. Jake Scott\)](https://open.spotify.com/album/6w0l7fLsiJTgVAgoxMzBIu) | 2:43 | 2022-01-21 | 2022-08-12 |
 | [She's The One](https://open.spotify.com/track/42Di68uyYR96IwvHYtM0E9) | [Ronnie Joudo](https://open.spotify.com/artist/2gfAOvUByRRsIwjifbOKxC) | [She's The One](https://open.spotify.com/album/3ka1YGa2qQHfB7OfTx3KJw) | 3:31 | 2022-03-04 | 2022-05-13 |
 | [Sing Along Drink Along](https://open.spotify.com/track/6B0ghJPshDEklgcFxetWch) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Sing Along Drink Along](https://open.spotify.com/album/5cWkCXABNO22wRNDqFzjos) | 3:13 | 2021-12-30 | 2022-05-13 |
+| [Single Life](https://open.spotify.com/track/6vIqfL3W4YUjR1WSuvCQ3D) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [Single Life](https://open.spotify.com/album/2H10WiAVS7BZf5chdbvJOn) | 3:42 | 2022-09-01 |  |
 | [Slow Down Girl](https://open.spotify.com/track/1vY84RjMLrximsaUSuUVgJ) | [Abby Christo](https://open.spotify.com/artist/0aE69mf1NjsaqZzXsoo4qH) | [Slow Down Girl](https://open.spotify.com/album/0h0scsiujwR3ZDmdaE6ia8) | 3:06 | 2022-08-05 |  |
 | [Slow Down Summer](https://open.spotify.com/track/1fff5nZGyRJtFLkOrSSwOU) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Slow Down Summer](https://open.spotify.com/album/6uWWkRv3qKdFcFyayL1Vw4) | 3:36 | 2021-12-30 | 2022-04-01 |
 | [SMALL TOWN](https://open.spotify.com/track/1NesmjPETOsK9X9jR9qXZR) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [SMALL TOWN](https://open.spotify.com/album/3hCTc2Vollvn6DSK2uzMe3) | 2:40 | 2021-12-30 | 2022-06-17 |

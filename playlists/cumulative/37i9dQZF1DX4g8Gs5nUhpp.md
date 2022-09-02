@@ -2,9 +2,9 @@
 
 ### [V\-Pop Không Thể Thiếu](https://open.spotify.com/playlist/37i9dQZF1DX4g8Gs5nUhpp)
 
-> V\-Pop đã đơm hoa trên những khúc ca này\. Ảnh bìa: Phương Ly
+> V\-Pop đã đơm hoa trên những khúc ca này\. Ảnh bìa: Bảo Anh
 
-100 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/0wzTwcfKaOgiicu3axKIAh)
+101 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/0wzTwcfKaOgiicu3axKIAh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Ooh Just You](https://open.spotify.com/track/0HK8DbhsuwSbDQKziQqbQI) | [Le Thien Hieu](https://open.spotify.com/artist/2U7kaq9BBq7eG2Vyn1D3Ab) | [Ooh Just You](https://open.spotify.com/album/5NfolK8SWLUENeckj3zc9v) | 3:15 | 2022-05-27 | 2022-06-23 |
 | [Phải Chăng Em Đã Yêu?](https://open.spotify.com/track/3wGx3gYPjECKZazGNuPEX2) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn) | [Phải Chăng Em Đã Yêu?](https://open.spotify.com/album/4LWNcXaa7PRKgdX78WodcT) | 3:10 | 2022-05-27 | 2022-06-29 |
 | [Querry](https://open.spotify.com/track/6OcOCgmPa1a57xAAF7qKkW) | [QNT](https://open.spotify.com/artist/4LuFOXq87Tg0JSl5U7yxFZ), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ), [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL) | [Querry](https://open.spotify.com/album/2Q4OkyBdAr8dBlhPSMDbBw) | 3:50 | 2022-06-15 | 2022-06-23 |
-| [Quên Anh Đi](https://open.spotify.com/track/4pMSLfqswCeDzG2iVmwGkR) | [MONO](https://open.spotify.com/artist/5jTFNkoZebPnX90CbB3F2A) | [Quên Anh Đi](https://open.spotify.com/album/3FE6u1nOMdVEhfnJKWiCIp) | 4:05 | 2022-08-10 |  |
+| [Quên Anh Đi](https://open.spotify.com/track/4pMSLfqswCeDzG2iVmwGkR) | [MONO](https://open.spotify.com/artist/5jTFNkoZebPnX90CbB3F2A) | [Quên Anh Đi](https://open.spotify.com/album/3FE6u1nOMdVEhfnJKWiCIp) | 4:05 | 2022-08-10 | 2022-09-02 |
 | [Real Love \- The Heroes Version](https://open.spotify.com/track/2Gazl1MAVX8vmo8E659Vq8) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i), [Khắc Hưng](https://open.spotify.com/artist/2mx5AAdmlMxMcrcd7AQh1j) | [Real Love \(The Heroes Version\)](https://open.spotify.com/album/1QkxoTESjfTccBQqMG08Bb) | 4:03 | 2022-05-27 |  |
 | [Răng Khôn \(feat\. RIN9\)](https://open.spotify.com/track/2c0QMztYu6PCfFrGLqHXIV) | [Phí Phương Anh](https://open.spotify.com/artist/1OnnVNvbz0OsApDXHUX2bM), [RIN9](https://open.spotify.com/artist/6InVt9jASvsJY7qA60AGzf) | [Răng Khôn \(feat\. RIN9\)](https://open.spotify.com/album/2I6WOVWFnwifUUBgedQt6j) | 3:51 | 2022-05-27 | 2022-06-29 |
 | [Sau Lưng Anh Có Ai Kìa](https://open.spotify.com/track/0IojBwrFi0lwPW1eE3BNdU) | [Thiều Bảo Trâm](https://open.spotify.com/artist/6RUfMGubOnHT1p3nfeXpBl) | [Sau Lưng Anh Có Ai Kìa](https://open.spotify.com/album/36Dvo2mP3FZEERwagzc0YB) | 5:02 | 2022-05-27 | 2022-08-08 |
@@ -98,6 +98,7 @@
 | [Tình Đắng Như Ly Cà Phê](https://open.spotify.com/track/4JPJhbWVL1yWTU8DpYP2Vc) | [Ngơ](https://open.spotify.com/artist/4RGBKkUyyvsim9vdBKCCkc), [nân](https://open.spotify.com/artist/7mFCX07lzCFLpHm72R93oB) | [Tình Đắng Như Ly Cà Phê](https://open.spotify.com/album/0gmt66kHSJzBQI4qpQmkci) | 3:35 | 2022-05-27 | 2022-07-29 |
 | [Tình Đắng Như Ly Cà Phê](https://open.spotify.com/track/2WOpp4vm16unl0N3i3BNNv) | [nân](https://open.spotify.com/artist/7mFCX07lzCFLpHm72R93oB), [Ngơ](https://open.spotify.com/artist/4RGBKkUyyvsim9vdBKCCkc) | [Tình Đắng Như Ly Cà Phê](https://open.spotify.com/album/4HEIdDrqHTU5Bocyc47BqI) | 3:35 | 2022-07-27 |  |
 | [từ thích thích thành thương thương](https://open.spotify.com/track/56JyO6Cav1GwtayPU7PXEx) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve), [Hoang Dung](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [dreAMEE \(acoustic\)](https://open.spotify.com/album/6YfaCqg9ImLOCb5sD0Q158) | 3:24 | 2022-05-27 | 2022-06-17 |
+| [Từng Là Của Nhau](https://open.spotify.com/track/5KYv3kORBKUmVEoqbRRWxt) | [Bao Anh](https://open.spotify.com/artist/4fCHhderLwLacsIOIKgu3J), [Táo](https://open.spotify.com/artist/23xCr75lKvnFvKi8ImHE7S) | [Từng Là Của Nhau](https://open.spotify.com/album/59xrACzg1Ip2ellb2JSzCN) | 4:29 | 2022-09-02 |  |
 | [Tự Sự \- Original Soundtrack from "Qua Bển Làm Chi"](https://open.spotify.com/track/5Fx8zxEEaPMkwzM00JFr3N) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G), [Thuan Nguyen](https://open.spotify.com/artist/0Tz9NpLMEwsdPcBurGdQh4) | [Tự Sự \(Original Soundtrack from "Qua Bển Làm Chi"\)](https://open.spotify.com/album/13x14kY27CueHj9F3OV6Mz) | 4:17 | 2022-06-03 | 2022-06-14 |
 | [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/track/25h0TqC9H3BcMA7KjK5nHK) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/album/5Gu0Ldddj2f6a0q5gitIok) | 3:45 | 2022-06-22 |  |
 | [Vì Anh Đâu Có Biết](https://open.spotify.com/track/6VXVYATpQXEIoZ97NnWCmn) | [Madihu](https://open.spotify.com/artist/1OIYKbmhG0RxPXvVPNj3NN), [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs) | [Vì Anh Đâu Có Biết](https://open.spotify.com/album/3C5z2dMU7D6VLpnNtYujPJ) | 4:01 | 2022-08-07 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Kaleena Zanders.",
-  "num_followers": 399642,
+  "num_followers": 399200,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjQ2MCwwMDAwMDAwMGZmMDE3ODIzMzRkZDNiZWNlZWM1ZGEyYTQ1ZDRjYzE1",
+  "snapshot_id": "MTY2MTQ4NjQ2MCwwMDAwMDAwMGVhZDFhNjc1OTZlNTIwODY0NTFkODliMmUyMzJmN2Vk",
   "tracks": [
     {
       "added_at": "2022-08-26 04:01:00",
@@ -627,6 +627,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Winds May Change",
+        "url": "https://open.spotify.com/album/4BIdy67mIUEqixBNUft0Sd"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 186105,
+      "name": "Winds May Change",
+      "url": "https://open.spotify.com/track/5yrz679gBvRsMwNDT4OdF7"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "GMT (Jamie xx Remix)",
         "url": "https://open.spotify.com/album/5D4DjxpROByDBBVtZyyA5R"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 572217,
       "name": "GMT - Jamie xx Remix",
       "url": "https://open.spotify.com/track/6kqAKtIZDTeBjLdJJ2jiTt"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Winds May Change",
-        "url": "https://open.spotify.com/album/4BIdy67mIUEqixBNUft0Sd"
-      },
-      "artists": [
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 186105,
-      "name": "Winds May Change",
-      "url": "https://open.spotify.com/track/5yrz679gBvRsMwNDT4OdF7"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "We Outside",
-        "url": "https://open.spotify.com/album/2OHCOJtdIppm9wawD4fVwe"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 155428,
-      "name": "We Outside",
-      "url": "https://open.spotify.com/track/73QcmfEnoLv3pKt0aXKdOG"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Get Up Off The Floor",
         "url": "https://open.spotify.com/album/3hWpTTQXIhRZy9Ln14ZlNt"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 155000,
       "name": "Get Up Off The Floor",
       "url": "https://open.spotify.com/track/00TNno8mzugrcej0FqJvrW"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "We Outside",
+        "url": "https://open.spotify.com/album/2OHCOJtdIppm9wawD4fVwe"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 155428,
+      "name": "We Outside",
+      "url": "https://open.spotify.com/track/73QcmfEnoLv3pKt0aXKdOG"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -771,22 +771,18 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Follow You",
-        "url": "https://open.spotify.com/album/1fliEPXtaZylODnCOuoHHE"
+        "name": "Words",
+        "url": "https://open.spotify.com/album/3UwVKsgADUZsFM5SR8xPRq"
       },
       "artists": [
         {
-          "name": "Korn\u00e9l Kov\u00e1cs",
-          "url": "https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22"
-        },
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+          "name": "Nu Aspect",
+          "url": "https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT"
         }
       ],
-      "duration_ms": 244262,
-      "name": "Follow You",
-      "url": "https://open.spotify.com/track/0QiIiiGroBqnleILFsPUuc"
+      "duration_ms": 197783,
+      "name": "Words",
+      "url": "https://open.spotify.com/track/3yLU2Rd0k3AKYdCWECAyeo"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -807,18 +803,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Words",
-        "url": "https://open.spotify.com/album/3UwVKsgADUZsFM5SR8xPRq"
+        "name": "Follow You",
+        "url": "https://open.spotify.com/album/1fliEPXtaZylODnCOuoHHE"
       },
       "artists": [
         {
-          "name": "Nu Aspect",
-          "url": "https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT"
+          "name": "Korn\u00e9l Kov\u00e1cs",
+          "url": "https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
         }
       ],
-      "duration_ms": 197783,
-      "name": "Words",
-      "url": "https://open.spotify.com/track/3yLU2Rd0k3AKYdCWECAyeo"
+      "duration_ms": 244262,
+      "name": "Follow You",
+      "url": "https://open.spotify.com/track/0QiIiiGroBqnleILFsPUuc"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Intimate Fantasy",
-        "url": "https://open.spotify.com/album/0GHOsdfrpoTotkc5atzmJ9"
-      },
-      "artists": [
-        {
-          "name": "Chaos In The CBD",
-          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
-        }
-      ],
-      "duration_ms": 493000,
-      "name": "Intimate Fantasy",
-      "url": "https://open.spotify.com/track/7MQE5Gx0g0DkHvH2PwgOgs"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Holiday",
         "url": "https://open.spotify.com/album/7c41gHpiXVBy6hoq6HnvmC"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 215623,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/0mu7ZJvfnqGLkJDtJUhtgW"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Intimate Fantasy",
+        "url": "https://open.spotify.com/album/0GHOsdfrpoTotkc5atzmJ9"
+      },
+      "artists": [
+        {
+          "name": "Chaos In The CBD",
+          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+        }
+      ],
+      "duration_ms": 493000,
+      "name": "Intimate Fantasy",
+      "url": "https://open.spotify.com/track/7MQE5Gx0g0DkHvH2PwgOgs"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Reunion",
-        "url": "https://open.spotify.com/album/2M9pkurc1jUmSXH95OGixK"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        }
-      ],
-      "duration_ms": 257410,
-      "name": "More Trouble",
-      "url": "https://open.spotify.com/track/6k6kVwlRGamU6Cewyyw64h"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Take My Breath Away (feat. Linney)",
         "url": "https://open.spotify.com/album/5DPdR5DXrXQ2sV7H1yMJKe"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 240444,
       "name": "Take My Breath Away (feat. Linney)",
       "url": "https://open.spotify.com/track/4MrSl40iewpWmkq0GOi849"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Reunion",
+        "url": "https://open.spotify.com/album/2M9pkurc1jUmSXH95OGixK"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        }
+      ],
+      "duration_ms": 257410,
+      "name": "More Trouble",
+      "url": "https://open.spotify.com/track/6k6kVwlRGamU6Cewyyw64h"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Annie",
+        "url": "https://open.spotify.com/album/4QLjVaY7Of8gVJDKjMxUi8"
+      },
+      "artists": [
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        }
+      ],
+      "duration_ms": 156694,
+      "name": "Annie",
+      "url": "https://open.spotify.com/track/67sOB5aSq0ro6iuJJFDxXt"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "Space Dust",
         "url": "https://open.spotify.com/album/3GJ5iIMyPnH3195kLYMlqt"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 264000,
       "name": "Space Dust",
       "url": "https://open.spotify.com/track/4ScEl944mVtm97bNpmozur"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Annie",
-        "url": "https://open.spotify.com/album/4QLjVaY7Of8gVJDKjMxUi8"
-      },
-      "artists": [
-        {
-          "name": "Majestic",
-          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
-        }
-      ],
-      "duration_ms": 156694,
-      "name": "Annie",
-      "url": "https://open.spotify.com/track/67sOB5aSq0ro6iuJJFDxXt"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/3mywgogoLOFHCCzZxLO5DR"
+      },
+      "artists": [
+        {
+          "name": "Ben Miller (Aus)",
+          "url": "https://open.spotify.com/artist/5cqGrWHL35BEuTpahcON5J"
+        }
+      ],
+      "duration_ms": 192411,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/4fQTa68yjwRRBditzmCrZ9"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "you've changed your mind",
         "url": "https://open.spotify.com/album/3iAGrsclNhUYPtTmU1XOvw"
       },
@@ -1139,18 +1155,18 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/3mywgogoLOFHCCzZxLO5DR"
+        "name": "Watching",
+        "url": "https://open.spotify.com/album/2COn5i2w4pQZwISFzunZ47"
       },
       "artists": [
         {
-          "name": "Ben Miller (Aus)",
-          "url": "https://open.spotify.com/artist/5cqGrWHL35BEuTpahcON5J"
+          "name": "Maur",
+          "url": "https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC"
         }
       ],
-      "duration_ms": 192411,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/4fQTa68yjwRRBditzmCrZ9"
+      "duration_ms": 161122,
+      "name": "Watching",
+      "url": "https://open.spotify.com/track/6SDAkr1UNA8vWt2wAopAAQ"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1175,38 +1191,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Watching",
-        "url": "https://open.spotify.com/album/2COn5i2w4pQZwISFzunZ47"
-      },
-      "artists": [
-        {
-          "name": "Maur",
-          "url": "https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC"
-        }
-      ],
-      "duration_ms": 161122,
-      "name": "Watching",
-      "url": "https://open.spotify.com/track/6SDAkr1UNA8vWt2wAopAAQ"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "RUMMELSBURG",
-        "url": "https://open.spotify.com/album/7guNZx565VLsuqsxzGKFsa"
-      },
-      "artists": [
-        {
-          "name": "NASAYA",
-          "url": "https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4"
-        }
-      ],
-      "duration_ms": 207532,
-      "name": "RUMMELSBURG",
-      "url": "https://open.spotify.com/track/7LNGAwIYUmJJC6O6omv95A"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Distance",
         "url": "https://open.spotify.com/album/3CBJdbiqPhdBSUuPpn2YdF"
       },
@@ -1227,74 +1211,18 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Need U (feat. Hannah Boleyn)",
-        "url": "https://open.spotify.com/album/0R2KjEmMjlZwC2PrrvemUf"
+        "name": "RUMMELSBURG",
+        "url": "https://open.spotify.com/album/7guNZx565VLsuqsxzGKFsa"
       },
       "artists": [
         {
-          "name": "Redondo",
-          "url": "https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF"
-        },
-        {
-          "name": "MESZCA",
-          "url": "https://open.spotify.com/artist/2Tdl3r6583W3gcEdnXmmIr"
-        },
-        {
-          "name": "Hannah Boleyn",
-          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
+          "name": "NASAYA",
+          "url": "https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4"
         }
       ],
-      "duration_ms": 156895,
-      "name": "Need U (feat. Hannah Boleyn)",
-      "url": "https://open.spotify.com/track/3jQm9vFT0rePqjLGdk5B7W"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Falling Off",
-        "url": "https://open.spotify.com/album/78xun5sbV7gLxfc2bRMz1L"
-      },
-      "artists": [
-        {
-          "name": "Shingo Nakamura",
-          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
-        }
-      ],
-      "duration_ms": 225953,
-      "name": "Falling Off",
-      "url": "https://open.spotify.com/track/7GYxHLn7wr35VDBQuwY7Au"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Can Do This",
-        "url": "https://open.spotify.com/album/6u95Qd5P51p2jFRq9zjMZn"
-      },
-      "artists": [
-        {
-          "name": "Willo",
-          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
-        }
-      ],
-      "duration_ms": 276695,
-      "name": "Can Do This",
-      "url": "https://open.spotify.com/track/5lqoNLfzvjzug14fsMP9gt"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Back Where We Belong",
-        "url": "https://open.spotify.com/album/34BOu22DeNmm2k9slUPY4t"
-      },
-      "artists": [
-        {
-          "name": "EMBRZ",
-          "url": "https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Finally We're Here",
-      "url": "https://open.spotify.com/track/3nui7or5rKW8Gt0cn5k9q2"
+      "duration_ms": 207532,
+      "name": "RUMMELSBURG",
+      "url": "https://open.spotify.com/track/7LNGAwIYUmJJC6O6omv95A"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1331,6 +1259,78 @@
       "duration_ms": 356838,
       "name": "Kite Day",
       "url": "https://open.spotify.com/track/1NiGKtmRQclUgYHJY1TEJo"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Need U (feat. Hannah Boleyn)",
+        "url": "https://open.spotify.com/album/0R2KjEmMjlZwC2PrrvemUf"
+      },
+      "artists": [
+        {
+          "name": "Redondo",
+          "url": "https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF"
+        },
+        {
+          "name": "MESZCA",
+          "url": "https://open.spotify.com/artist/2Tdl3r6583W3gcEdnXmmIr"
+        },
+        {
+          "name": "Hannah Boleyn",
+          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
+        }
+      ],
+      "duration_ms": 156895,
+      "name": "Need U (feat. Hannah Boleyn)",
+      "url": "https://open.spotify.com/track/3jQm9vFT0rePqjLGdk5B7W"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Can Do This",
+        "url": "https://open.spotify.com/album/6u95Qd5P51p2jFRq9zjMZn"
+      },
+      "artists": [
+        {
+          "name": "Willo",
+          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
+        }
+      ],
+      "duration_ms": 276695,
+      "name": "Can Do This",
+      "url": "https://open.spotify.com/track/5lqoNLfzvjzug14fsMP9gt"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Falling Off",
+        "url": "https://open.spotify.com/album/78xun5sbV7gLxfc2bRMz1L"
+      },
+      "artists": [
+        {
+          "name": "Shingo Nakamura",
+          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
+        }
+      ],
+      "duration_ms": 225953,
+      "name": "Falling Off",
+      "url": "https://open.spotify.com/track/7GYxHLn7wr35VDBQuwY7Au"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Back Where We Belong",
+        "url": "https://open.spotify.com/album/34BOu22DeNmm2k9slUPY4t"
+      },
+      "artists": [
+        {
+          "name": "EMBRZ",
+          "url": "https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Finally We're Here",
+      "url": "https://open.spotify.com/track/3nui7or5rKW8Gt0cn5k9q2"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "clouds in my basement",
-        "url": "https://open.spotify.com/album/5Vdqlk72QXWQSDMMrUaYTJ"
-      },
-      "artists": [
-        {
-          "name": "helloworld",
-          "url": "https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "easier",
-      "url": "https://open.spotify.com/track/6Nq8uEVMd328QWCXQoSuuM"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Time to Burn (Remixes)",
         "url": "https://open.spotify.com/album/4hKHjdJ3XuCememGOYq0cN"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 196535,
       "name": "Time to Burn - Fergie Remix",
       "url": "https://open.spotify.com/track/03FojUPgTRf5tQSc12lZis"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "clouds in my basement",
+        "url": "https://open.spotify.com/album/5Vdqlk72QXWQSDMMrUaYTJ"
+      },
+      "artists": [
+        {
+          "name": "helloworld",
+          "url": "https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "easier",
+      "url": "https://open.spotify.com/track/6Nq8uEVMd328QWCXQoSuuM"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Unfolder",
-        "url": "https://open.spotify.com/album/53oSkiq83t7YuZJ4hd9hWO"
-      },
-      "artists": [
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        }
-      ],
-      "duration_ms": 313775,
-      "name": "Unfolder",
-      "url": "https://open.spotify.com/track/34txxKbbUtkvsvnUSGl9ix"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "ENDZ049",
         "url": "https://open.spotify.com/album/4WAClYmYzleyxIg8MtDeT7"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 375491,
       "name": "Truffle Shuffle",
       "url": "https://open.spotify.com/track/389Y7nyhEtTp5mGk8cLsGy"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Unfolder",
+        "url": "https://open.spotify.com/album/53oSkiq83t7YuZJ4hd9hWO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "duration_ms": 313775,
+      "name": "Unfolder",
+      "url": "https://open.spotify.com/track/34txxKbbUtkvsvnUSGl9ix"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Remember EP",
-        "url": "https://open.spotify.com/album/3DE1mDePjlRSHqQS7cbuNG"
-      },
-      "artists": [
-        {
-          "name": "Daniel Orpi",
-          "url": "https://open.spotify.com/artist/4gutgD9w8iSiLjvYYy72dO"
-        }
-      ],
-      "duration_ms": 237234,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/3gQh9PYzx7CaKALMgKkt3I"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/07hv1UqmxP2mZtR5PCnHTB"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 216000,
       "name": "Higher",
       "url": "https://open.spotify.com/track/4Kt3Epl5VGwmVE0rBqtJpS"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Remember EP",
+        "url": "https://open.spotify.com/album/3DE1mDePjlRSHqQS7cbuNG"
+      },
+      "artists": [
+        {
+          "name": "Daniel Orpi",
+          "url": "https://open.spotify.com/artist/4gutgD9w8iSiLjvYYy72dO"
+        }
+      ],
+      "duration_ms": 237234,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/3gQh9PYzx7CaKALMgKkt3I"
     },
     {
       "added_at": "2022-08-26 04:01:00",

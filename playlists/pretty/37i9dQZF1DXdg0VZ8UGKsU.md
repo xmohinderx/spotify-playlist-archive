@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg0VZ8UGKsU.md) - [plain]
 
 > All 80s, all ballads\. Cover: Whitney Houston
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,705 likes - 85 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,715 likes - 85 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg0VZ8UGKsU.md) - [plain]
 | 33 | [Say You, Say Me](https://open.spotify.com/track/17CPezzLWzvGfpZW6X8XT0) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Dancing On The Ceiling \(Expanded Edition\)](https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf) | 4:01 |
 | 34 | [How Am I Supposed to Live Without You](https://open.spotify.com/track/3RMeOetCdXttthQK0clPuz) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Soul Provider](https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D) | 4:15 |
 | 35 | [One More Night \- 2016 Remaster](https://open.spotify.com/track/6fkvIT9KFKxO8poBeKfaEf) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [No Jacket Required \(2016 Remaster\)](https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB) | 4:48 |
-| 36 | [All Out of Love](https://open.spotify.com/track/7dQC53NiYOY9gKg3Qsu2Bs) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Lost in Love](https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW) | 4:03 |
+| 36 | [Up Where We Belong \- From "An Officer And A Gentleman"](https://open.spotify.com/track/4U6mBgGP8FXN6UH4T3AJhu) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [The Anthology](https://open.spotify.com/album/0OdFUi5lSenjXrgy4dVAP8) | 3:52 |
 | 37 | [Faithfully](https://open.spotify.com/track/57ebBLITHpRgRKGrlbxMZS) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Frontiers](https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw) | 4:27 |
-| 38 | [Up Where We Belong \- From "An Officer And A Gentleman"](https://open.spotify.com/track/4U6mBgGP8FXN6UH4T3AJhu) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [The Anthology](https://open.spotify.com/album/0OdFUi5lSenjXrgy4dVAP8) | 3:52 |
+| 38 | [All Out of Love](https://open.spotify.com/track/7dQC53NiYOY9gKg3Qsu2Bs) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Lost in Love](https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW) | 4:03 |
 | 39 | [Greatest Love of All](https://open.spotify.com/track/6yJxCltgtmGxIgKOS6ndnu) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 4:51 |
 | 40 | [We Are The World](https://open.spotify.com/track/3Z2tPWiNiIpg8UMMoowHIk) | [U.S.A\. For Africa](https://open.spotify.com/artist/7sF6m3PpW6G6m6J2gzzmzM) | [We Are The World](https://open.spotify.com/album/2O6gXGWFJcNrLYAqDINrDa) | 7:07 |
 | 41 | [We've Got Tonight](https://open.spotify.com/track/5vXsj8L4DK1gGQ43BBG028) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4), [Sheena Easton](https://open.spotify.com/artist/5dcOK4stT4JDkP6Dqhbz5s) | [We've Got Tonight](https://open.spotify.com/album/50Mjw5tM0p8GZYT2sGgzIa) | 3:54 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg0VZ8UGKsU.md) - [plain]
 | 73 | [Meet Me Half Way \- From "Over The Top" Soundtrack](https://open.spotify.com/track/5CdX4HXMRxyldTVxXDrzSA) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Back To Avalon](https://open.spotify.com/album/5WtMgGIexFuhipmaqUMi3Z) | 3:39 |
 | 74 | [All at Once](https://open.spotify.com/track/0g8Q1Pmem92k7PzI3VLWKz) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 4:28 |
 | 75 | [Hello](https://open.spotify.com/track/0mHyWYXmmCB9iQyK18m3FQ) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down](https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr) | 4:11 |
-| 76 | [She's Like the Wind \(feat\. Wendy Fraser\)](https://open.spotify.com/track/36EWx5B78n8sSfpmtKrUUV) | [Patrick Swayze](https://open.spotify.com/artist/6dH5I8Q7HhXu74cBXkP0LD), [Wendy Fraser](https://open.spotify.com/artist/2oSO8nxMHKOJKj7v8l0zWh) | [Dirty Dancing: Anniversary Edition](https://open.spotify.com/album/3LRhyjBARwKrCp28rmcmAM) | 3:50 |
-| 77 | [Hold On To The Nights](https://open.spotify.com/track/3F2YXxSOC9dPmxXdrh6mYl) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Richard Marx](https://open.spotify.com/album/3C2cO3wo4f2bLzOpFypgmZ) | 5:16 |
+| 76 | [Hold On To The Nights](https://open.spotify.com/track/3F2YXxSOC9dPmxXdrh6mYl) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Richard Marx](https://open.spotify.com/album/3C2cO3wo4f2bLzOpFypgmZ) | 5:16 |
+| 77 | [She's Like the Wind \(feat\. Wendy Fraser\)](https://open.spotify.com/track/36EWx5B78n8sSfpmtKrUUV) | [Patrick Swayze](https://open.spotify.com/artist/6dH5I8Q7HhXu74cBXkP0LD), [Wendy Fraser](https://open.spotify.com/artist/2oSO8nxMHKOJKj7v8l0zWh) | [Dirty Dancing: Anniversary Edition](https://open.spotify.com/album/3LRhyjBARwKrCp28rmcmAM) | 3:50 |
 | 78 | [Ever Since the World Began](https://open.spotify.com/track/2yx6DUrIIGXSAwrvfBrTKQ) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Eye Of The Tiger](https://open.spotify.com/album/4PT9VulQaQP6XR1xBI2x1W) | 3:42 |
 | 79 | [Almost Over You](https://open.spotify.com/track/5mKqa89zAVKXMRY92haT6p) | [Sheena Easton](https://open.spotify.com/artist/5dcOK4stT4JDkP6Dqhbz5s) | [Best Kept Secret](https://open.spotify.com/album/3H7htkjBX3E1pMkxnJKKq2) | 3:41 |
 | 80 | [Only You](https://open.spotify.com/track/3mGwufkovVPrzsJaXWg8PU) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [Upstairs At Eric's](https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V) | 3:15 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg0VZ8UGKsU.md) - [plain]
 | 84 | [You And I](https://open.spotify.com/track/7sWlOFUnQShNdxgk1B0TuW) | [Eddie Rabbitt](https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78), [Crystal Gayle](https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc) | [Radio Romance](https://open.spotify.com/album/532JCZV9eoJkF8fgOtwYkE) | 4:01 |
 | 85 | [Eternal Flame](https://open.spotify.com/track/4xiaE15ARCs5CVPA6J8gmC) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [Everything](https://open.spotify.com/album/6Zryl3gseZcPOYq3KnPXf9) | 3:55 |
 
-Snapshot ID: `MTY1NTM1MjE1NCwwMDAwMDAwMDY3ZTAxMDlmMzliOTI3MjIxMTY4OWU1YzhkNmI0NjQz`
+Snapshot ID: `MTY1NTM1MjE1NCwwMDAwMDAwMGVjY2U3MzAwNzlhY2QxMzQxOTAwNzA5NzBiODQ5YzAw`

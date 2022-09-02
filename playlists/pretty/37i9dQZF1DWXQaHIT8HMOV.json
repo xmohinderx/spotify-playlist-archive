@@ -1,12 +1,12 @@
 {
   "description": "Top hits from homegrown artists showcasing rich culture and talent from Uganda",
-  "num_followers": 818,
+  "num_followers": 820,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDkxMjM4NSwwMDAwMDAwMGJmYjM3NjQ1MWYyZDMzYTQ5ZmY2MTM1ZjQ1MzIyODM5",
+  "snapshot_id": "MTY2MjA2NTk0MCwwMDAwMDAwMGM3OTViMjY0N2IyNWFlZmI2MWE2NGU1ODUyM2U1ZTJm",
   "tracks": [
     {
       "added_at": "2022-05-12 20:59:00",
@@ -23,6 +23,22 @@
       "duration_ms": 215757,
       "name": "Riri",
       "url": "https://open.spotify.com/track/6uuhUQUMzrnEZdTaTwpgYZ"
+    },
+    {
+      "added_at": "2022-09-01 20:59:00",
+      "album": {
+        "name": "Kampala",
+        "url": "https://open.spotify.com/album/2KyDqnxPYOmxrhjvopJgIG"
+      },
+      "artists": [
+        {
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+        }
+      ],
+      "duration_ms": 189544,
+      "name": "Kampala",
+      "url": "https://open.spotify.com/track/5XSx18sFrYAjINCcqcxz74"
     },
     {
       "added_at": "2022-08-19 06:22:19",
@@ -65,6 +81,22 @@
       "url": "https://open.spotify.com/track/2lc0T74YCLtkDoIkUu25lp"
     },
     {
+      "added_at": "2022-09-01 20:59:00",
+      "album": {
+        "name": "Mpakasa",
+        "url": "https://open.spotify.com/album/0IJXotvomhn59wnb0g7u3v"
+      },
+      "artists": [
+        {
+          "name": "Fik Fameica",
+          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
+        }
+      ],
+      "duration_ms": 186462,
+      "name": "Mpakasa",
+      "url": "https://open.spotify.com/track/3pwBAkk0rCwXl2nDmcY9es"
+    },
+    {
       "added_at": "2022-07-29 06:02:59",
       "album": {
         "name": "Follow",
@@ -99,6 +131,22 @@
       "duration_ms": 130500,
       "name": "CHERRY SWEET",
       "url": "https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM"
+    },
+    {
+      "added_at": "2022-09-01 20:59:00",
+      "album": {
+        "name": "Teach Me",
+        "url": "https://open.spotify.com/album/4mHUQjlllJE7u2KELbIT5x"
+      },
+      "artists": [
+        {
+          "name": "K!MERA",
+          "url": "https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN"
+        }
+      ],
+      "duration_ms": 259071,
+      "name": "Teach Me",
+      "url": "https://open.spotify.com/track/3g08psCbQyJhxel56KYsAF"
     },
     {
       "added_at": "2022-08-19 12:33:05",
@@ -327,26 +375,6 @@
       "duration_ms": 152571,
       "name": "Afiya",
       "url": "https://open.spotify.com/track/1YXHLlENONleioam1NP9Uu"
-    },
-    {
-      "added_at": "2022-08-12 10:02:46",
-      "album": {
-        "name": "Tukimala",
-        "url": "https://open.spotify.com/album/2Eb2bK1a8Bxq11Aw8rCU50"
-      },
-      "artists": [
-        {
-          "name": "Nina Roz",
-          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
-        },
-        {
-          "name": "Pinky",
-          "url": "https://open.spotify.com/artist/7D0HNEvLVsb8ooQmC2MIbD"
-        }
-      ],
-      "duration_ms": 173479,
-      "name": "Tukimala",
-      "url": "https://open.spotify.com/track/3sil5Zxom8p6321FsDM2mn"
     },
     {
       "added_at": "2022-05-27 05:50:49",
@@ -643,26 +671,6 @@
     {
       "added_at": "2022-05-12 20:59:00",
       "album": {
-        "name": "Omwana Wabandi (Remix)",
-        "url": "https://open.spotify.com/album/2SJek9xY189sLRGmm17vin"
-      },
-      "artists": [
-        {
-          "name": "Daddy Andre",
-          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
-        },
-        {
-          "name": "Lex Raven",
-          "url": "https://open.spotify.com/artist/3mZYpQsk8ZyHkMCdtQL4iM"
-        }
-      ],
-      "duration_ms": 164963,
-      "name": "Omwana Wabandi - Remix",
-      "url": "https://open.spotify.com/track/0vK7OUdfdcCiucULQAPE59"
-    },
-    {
-      "added_at": "2022-05-12 20:59:00",
-      "album": {
         "name": "Mperekera",
         "url": "https://open.spotify.com/album/3JVNzLhSAPBmJpmbBy5Ivb"
       },
@@ -725,22 +733,6 @@
       "url": "https://open.spotify.com/track/25AXVpk13te2q8PEG1lR4u"
     },
     {
-      "added_at": "2022-03-17 20:59:00",
-      "album": {
-        "name": "Belinda",
-        "url": "https://open.spotify.com/album/5jHk9XRushK0QWe6yamCPW"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        }
-      ],
-      "duration_ms": 133537,
-      "name": "Belinda",
-      "url": "https://open.spotify.com/track/64C4vezOJyDbudIGxquW89"
-    },
-    {
       "added_at": "2022-05-19 20:59:00",
       "album": {
         "name": "Bless Up (Give Thanks in Everything)",
@@ -765,24 +757,20 @@
       "url": "https://open.spotify.com/track/5K8KK1uPcyQJauOik4lQWX"
     },
     {
-      "added_at": "2022-05-12 20:59:00",
+      "added_at": "2022-03-17 20:59:00",
       "album": {
-        "name": "Udongo (Save Soil)",
-        "url": "https://open.spotify.com/album/4TJhR6aU5qMlMoyntJGSiz"
+        "name": "Belinda",
+        "url": "https://open.spotify.com/album/5jHk9XRushK0QWe6yamCPW"
       },
       "artists": [
         {
-          "name": "Chwezimadeit",
-          "url": "https://open.spotify.com/artist/2TquSTWImAEk1CP0ZVeIqm"
-        },
-        {
-          "name": "Reazyla",
-          "url": "https://open.spotify.com/artist/7GtTV6RYcXvgp6mQ0ZQfhG"
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Udongo (Save Soil)",
-      "url": "https://open.spotify.com/track/59BPZ3xZSqL70xUngfRXJf"
+      "duration_ms": 133537,
+      "name": "Belinda",
+      "url": "https://open.spotify.com/track/64C4vezOJyDbudIGxquW89"
     },
     {
       "added_at": "2022-05-12 20:59:00",
@@ -803,22 +791,6 @@
       "duration_ms": 185392,
       "name": "Mbipambana",
       "url": "https://open.spotify.com/track/03Oa6GiBpDJSpazfZixZKy"
-    },
-    {
-      "added_at": "2022-05-12 20:59:00",
-      "album": {
-        "name": "Kikole",
-        "url": "https://open.spotify.com/album/6zjT5qOYSFJW281jDar3Nl"
-      },
-      "artists": [
-        {
-          "name": "Nina Roz",
-          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
-        }
-      ],
-      "duration_ms": 209361,
-      "name": "Kikole",
-      "url": "https://open.spotify.com/track/4KO61HENYNzhcyH5zsSXxo"
     },
     {
       "added_at": "2022-05-12 20:59:00",
@@ -855,26 +827,6 @@
     {
       "added_at": "2022-05-12 20:59:00",
       "album": {
-        "name": "Enjoyment",
-        "url": "https://open.spotify.com/album/2PhVNYUYi6uiCsZerHfds4"
-      },
-      "artists": [
-        {
-          "name": "Eddy Kenzo",
-          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
-        },
-        {
-          "name": "Rickman Manrick",
-          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
-        }
-      ],
-      "duration_ms": 193776,
-      "name": "Enjoyment",
-      "url": "https://open.spotify.com/track/5pf5ek4NcXQAsuoRhvO7A3"
-    },
-    {
-      "added_at": "2022-05-12 20:59:00",
-      "album": {
         "name": "Personal",
         "url": "https://open.spotify.com/album/5wYH1MacgZZEpIew5uQBTF"
       },
@@ -907,6 +859,42 @@
       "duration_ms": 210724,
       "name": "MAJJE",
       "url": "https://open.spotify.com/track/0WtWi9rYWUAwq57vbA6y2k"
+    },
+    {
+      "added_at": "2022-05-12 20:59:00",
+      "album": {
+        "name": "Kikole",
+        "url": "https://open.spotify.com/album/6zjT5qOYSFJW281jDar3Nl"
+      },
+      "artists": [
+        {
+          "name": "Nina Roz",
+          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
+        }
+      ],
+      "duration_ms": 209361,
+      "name": "Kikole",
+      "url": "https://open.spotify.com/track/4KO61HENYNzhcyH5zsSXxo"
+    },
+    {
+      "added_at": "2022-05-12 20:59:00",
+      "album": {
+        "name": "Enjoyment",
+        "url": "https://open.spotify.com/album/2PhVNYUYi6uiCsZerHfds4"
+      },
+      "artists": [
+        {
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+        },
+        {
+          "name": "Rickman Manrick",
+          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
+        }
+      ],
+      "duration_ms": 193776,
+      "name": "Enjoyment",
+      "url": "https://open.spotify.com/track/5pf5ek4NcXQAsuoRhvO7A3"
     }
   ],
   "unique_name": "Made In Uganda",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Music from Nashville's emerging Singers and Songwriters across the musical spectrum.  Cover: Megan Moroney",
+  "description": "Music from Nashville's emerging Singers and Songwriters across the musical spectrum.  Cover: Hannah Ellis",
   "name": "Young Nashville",
   "published_playlist_ids": [
     "3ZmZ8VTqhMzD1YGM4aAkJ4"
@@ -621,6 +621,24 @@
       "duration_ms": 188780,
       "name": "Couldn't Care Less",
       "url": "https://open.spotify.com/track/6Rk9YL0M14ofFwYKJKwUTc"
+    },
+    {
+      "album": {
+        "name": "Country Can",
+        "url": "https://open.spotify.com/album/1gDtUrRMMsnPoBNHygmep7"
+      },
+      "artists": [
+        {
+          "name": "Hannah Ellis",
+          "url": "https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173254,
+      "name": "Country Can",
+      "url": "https://open.spotify.com/track/23h3c9x2ApofnkxHteQJDU"
     },
     {
       "album": {

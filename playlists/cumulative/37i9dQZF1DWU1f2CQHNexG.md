@@ -2,7 +2,7 @@
 
 ### [Synthpop Classics ](https://open.spotify.com/playlist/37i9dQZF1DWU1f2CQHNexG)
 
-> Dancing to electro\-pop like a robot from 1984\. Cover: Yazoo.
+> Dancing to electro\-pop like a robot from 1984\. Cover: The Psychedelic Furs.
 
 92 songs - 6 hr 27 min - [published](https://open.spotify.com/playlist/7sgvvjtQ3YO0vLBx6zL4uM)
 

@@ -1,12 +1,12 @@
 {
   "description": "Listen to all the tracks you've been missing. Cover: Katy Perry",
-  "num_followers": 5881176,
+  "num_followers": 5882211,
   "original_name": "Hit Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc2NTQxNCwwMDAwMDAwMDg0NTI2YTdmZjUzZDAwNWEyYTVkNmNhNDRkNWZhZjM1",
+  "snapshot_id": "MTY2MDc2NTQxNCwwMDAwMDAwMGEzNWRlNzY0OTI5NjQ1NzAyNDQyZDZlMTVjY2RjNmY2",
   "tracks": [
     {
       "added_at": "2022-08-17 19:43:34",
@@ -207,6 +207,22 @@
     {
       "added_at": "2022-08-17 19:43:34",
       "album": {
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 239316,
+      "name": "I'm Not The Only One",
+      "url": "https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN"
+    },
+    {
+      "added_at": "2022-08-17 19:43:34",
+      "album": {
         "name": "Views",
         "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 173986,
       "name": "One Dance",
       "url": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
-    },
-    {
-      "added_at": "2022-08-17 19:43:34",
-      "album": {
-        "name": "In The Lonely Hour",
-        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 239316,
-      "name": "I'm Not The Only One",
-      "url": "https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN"
     },
     {
       "added_at": "2022-08-17 19:43:34",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-08-17 19:43:34",
       "album": {
-        "name": "More Life",
-        "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 298940,
-      "name": "Passionfruit",
-      "url": "https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz"
-    },
-    {
-      "added_at": "2022-08-17 19:43:34",
-      "album": {
         "name": "Illuminate",
         "url": "https://open.spotify.com/album/1ne2D0NxoGyZd31gAM4HNd"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 187973,
       "name": "Treat You Better",
       "url": "https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd"
+    },
+    {
+      "added_at": "2022-08-17 19:43:34",
+      "album": {
+        "name": "More Life",
+        "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 298940,
+      "name": "Passionfruit",
+      "url": "https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz"
     },
     {
       "added_at": "2022-08-17 19:43:34",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-08-17 19:43:34",
       "album": {
-        "name": "Luv Is Rage 2",
-        "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 182706,
-      "name": "XO Tour Llif3",
-      "url": "https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO"
-    },
-    {
-      "added_at": "2022-08-17 19:43:34",
-      "album": {
         "name": "Black Panther The Album Music From And Inspired By",
         "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
       },
@@ -851,18 +835,18 @@
     {
       "added_at": "2022-08-17 19:43:34",
       "album": {
-        "name": "Blurryface",
-        "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
+        "name": "Luv Is Rage 2",
+        "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
       },
       "artists": [
         {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 214506,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW"
+      "duration_ms": 182706,
+      "name": "XO Tour Llif3",
+      "url": "https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO"
     },
     {
       "added_at": "2022-08-17 19:43:34",
@@ -883,6 +867,22 @@
       "duration_ms": 173306,
       "name": "What A Time (feat. Niall Horan)",
       "url": "https://open.spotify.com/track/5WtfUKzXircvW8l5aaVZWT"
+    },
+    {
+      "added_at": "2022-08-17 19:43:34",
+      "album": {
+        "name": "Blurryface",
+        "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 214506,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW"
     },
     {
       "added_at": "2022-08-17 19:43:34",
@@ -947,6 +947,22 @@
     {
       "added_at": "2022-08-17 19:43:34",
       "album": {
+        "name": "My Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 197266,
+      "name": "One Last Time",
+      "url": "https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd"
+    },
+    {
+      "added_at": "2022-08-17 19:43:34",
+      "album": {
         "name": "Jungle Rules",
         "url": "https://open.spotify.com/album/4c2p3TdN7NcQfCXyueCNnC"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 233901,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe"
-    },
-    {
-      "added_at": "2022-08-17 19:43:34",
-      "album": {
-        "name": "My Everything (Deluxe)",
-        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 197266,
-      "name": "One Last Time",
-      "url": "https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd"
     },
     {
       "added_at": "2022-08-17 19:43:34",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2022-08-17 19:43:34",
       "album": {
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 172723,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
+    },
+    {
+      "added_at": "2022-08-17 19:43:34",
+      "album": {
         "name": "Global Warming: Meltdown (Deluxe Version)",
         "url": "https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 204160,
       "name": "Timber (feat. Ke$ha)",
       "url": "https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS"
-    },
-    {
-      "added_at": "2022-08-17 19:43:34",
-      "album": {
-        "name": "In The Lonely Hour",
-        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 172723,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
     },
     {
       "added_at": "2022-08-17 19:43:34",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2022-08-17 19:43:34",
       "album": {
+        "name": "Illuminate (Deluxe)",
+        "url": "https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 208733,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/0AS63m1wHv9n4VVRizK6Hc"
+    },
+    {
+      "added_at": "2022-08-17 19:43:34",
+      "album": {
         "name": "G I R L",
         "url": "https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 199693,
       "name": "TiK ToK",
       "url": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i"
-    },
-    {
-      "added_at": "2022-08-17 19:43:34",
-      "album": {
-        "name": "Illuminate (Deluxe)",
-        "url": "https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 208733,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/0AS63m1wHv9n4VVRizK6Hc"
     },
     {
       "added_at": "2022-08-17 19:43:34",
@@ -1279,6 +1279,42 @@
     {
       "added_at": "2022-08-17 19:43:34",
       "album": {
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 200786,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF"
+    },
+    {
+      "added_at": "2022-08-17 19:43:34",
+      "album": {
+        "name": "The Truth About Love",
+        "url": "https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        },
+        {
+          "name": "Nate Ruess",
+          "url": "https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ"
+        }
+      ],
+      "duration_ms": 242733,
+      "name": "Just Give Me a Reason (feat. Nate Ruess)",
+      "url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e"
+    },
+    {
+      "added_at": "2022-08-17 19:43:34",
+      "album": {
         "name": "Millennium",
         "url": "https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ"
       },
@@ -1311,42 +1347,6 @@
       "duration_ms": 229360,
       "name": "Time of Our Lives",
       "url": "https://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r"
-    },
-    {
-      "added_at": "2022-08-17 19:43:34",
-      "album": {
-        "name": "The Truth About Love",
-        "url": "https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        },
-        {
-          "name": "Nate Ruess",
-          "url": "https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ"
-        }
-      ],
-      "duration_ms": 242733,
-      "name": "Just Give Me a Reason (feat. Nate Ruess)",
-      "url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e"
-    },
-    {
-      "added_at": "2022-08-17 19:43:34",
-      "album": {
-        "name": "Purpose (Deluxe)",
-        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 200786,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF"
     },
     {
       "added_at": "2022-08-17 19:43:34",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-08-17 19:43:34",
       "album": {
-        "name": "Oh, What A Life",
-        "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
-      },
-      "artists": [
-        {
-          "name": "American Authors",
-          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
-        }
-      ],
-      "duration_ms": 194240,
-      "name": "Best Day Of My Life",
-      "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
-    },
-    {
-      "added_at": "2022-08-17 19:43:34",
-      "album": {
         "name": "Pink Friday (Complete Edition)",
         "url": "https://open.spotify.com/album/7aADdYLiK1z7GlMFr0UIZw"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 200013,
       "name": "Super Bass",
       "url": "https://open.spotify.com/track/3hlksXnvbKogFdPbpO9vel"
+    },
+    {
+      "added_at": "2022-08-17 19:43:34",
+      "album": {
+        "name": "Oh, What A Life",
+        "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
+      },
+      "artists": [
+        {
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+        }
+      ],
+      "duration_ms": 194240,
+      "name": "Best Day Of My Life",
+      "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
     },
     {
       "added_at": "2022-08-17 19:43:34",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2022-08-17 19:43:34",
       "album": {
+        "name": "FUTURE",
+        "url": "https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 204600,
+      "name": "Mask Off",
+      "url": "https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx"
+    },
+    {
+      "added_at": "2022-08-17 19:43:34",
+      "album": {
         "name": "Invasion of Privacy",
         "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
       },
@@ -1603,22 +1619,6 @@
     {
       "added_at": "2022-08-17 19:43:34",
       "album": {
-        "name": "FUTURE",
-        "url": "https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 204600,
-      "name": "Mask Off",
-      "url": "https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx"
-    },
-    {
-      "added_at": "2022-08-17 19:43:34",
-      "album": {
         "name": "reputation Stadium Tour Surprise Song Playlist",
         "url": "https://open.spotify.com/album/1MPAXuTVL2Ej5x0JHiSPq8"
       },
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2022-08-17 19:43:34",
       "album": {
-        "name": "My Head Is An Animal",
-        "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
-      },
-      "artists": [
-        {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
-        }
-      ],
-      "duration_ms": 266600,
-      "name": "Little Talks",
-      "url": "https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B"
-    },
-    {
-      "added_at": "2022-08-17 19:43:34",
-      "album": {
         "name": "Don't Let Me Down",
         "url": "https://open.spotify.com/album/2SByipSK8eZ2pasaIwwzhf"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 208373,
       "name": "Don't Let Me Down",
       "url": "https://open.spotify.com/track/1i1fxkWeaMmKEB4T7zqbzK"
+    },
+    {
+      "added_at": "2022-08-17 19:43:34",
+      "album": {
+        "name": "My Head Is An Animal",
+        "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "duration_ms": 266600,
+      "name": "Little Talks",
+      "url": "https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B"
     },
     {
       "added_at": "2022-08-17 19:43:34",
@@ -1711,22 +1711,22 @@
     {
       "added_at": "2022-08-17 19:43:34",
       "album": {
-        "name": "Love?",
-        "url": "https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE"
+        "name": "Wolves",
+        "url": "https://open.spotify.com/album/5gQZvWM1o8NkQndueJtZcP"
       },
       "artists": [
         {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
         },
         {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
         }
       ],
-      "duration_ms": 284866,
-      "name": "On The Floor",
-      "url": "https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN"
+      "duration_ms": 197993,
+      "name": "Wolves",
+      "url": "https://open.spotify.com/track/0tBbt8CrmxbjRP0pueQkyU"
     },
     {
       "added_at": "2022-08-17 19:43:34",

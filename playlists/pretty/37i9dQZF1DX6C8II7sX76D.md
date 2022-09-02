@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 
 > pov: u hand the internet the aux
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,160 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,426 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 | 18 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 |
 | 19 | [Let's Groove](https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Raise!](https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg) | 5:39 |
 | 20 | [Love Tonight \- Edit](https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Love Tonight](https://open.spotify.com/album/5KXv2MHeoLSqZ96jRuFF9H) | 4:01 |
-| 21 | [Tainted Love](https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD) | 2:33 |
-| 22 | [Phonky Town](https://open.spotify.com/track/5mnpMkzp3Z2RCCbwIEZCbv) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [Phonky Town](https://open.spotify.com/album/1TphjjWjHo2s2nFeZWrThI) | 2:21 |
-| 23 | [Breaking Me](https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Breaking Me](https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn) | 2:46 |
-| 24 | [Lose Control](https://open.spotify.com/track/7CHi4DtfK4heMlQaudCuHK) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Lose Control](https://open.spotify.com/album/1qSOaTvsCOyFJya3v1UzkP) | 2:48 |
+| 21 | [Phonky Town](https://open.spotify.com/track/5mnpMkzp3Z2RCCbwIEZCbv) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [Phonky Town](https://open.spotify.com/album/1TphjjWjHo2s2nFeZWrThI) | 2:21 |
+| 22 | [Tainted Love](https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD) | 2:33 |
+| 23 | [Lose Control](https://open.spotify.com/track/7CHi4DtfK4heMlQaudCuHK) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Lose Control](https://open.spotify.com/album/1qSOaTvsCOyFJya3v1UzkP) | 2:48 |
+| 24 | [Breaking Me](https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Breaking Me](https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn) | 2:46 |
 | 25 | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/album/04m06KhJUuwe1Q487puIud) | 3:23 |
 | 26 | [Override](https://open.spotify.com/track/0KYvs7DKC7Cl5IHmwpP13f) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Override](https://open.spotify.com/album/0bwtv7A8S0PMvgobvukQO7) | 1:54 |
 | 27 | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B) | 2:56 |
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 | 32 | [SUICIDE YEAR](https://open.spotify.com/track/6hRvewF5MRAsqqxnNs3z2b) | [WEEDMANE](https://open.spotify.com/artist/6agBXAcUugzO8DQTChZZrx), [Suicideyear](https://open.spotify.com/artist/3WaNZnwUPrpOIS5ZcIyjTO) | [SUICIDE YEAR](https://open.spotify.com/album/6y0bYi0XTNsGQzbKMYNxg1) | 1:31 |
 | 33 | [Baby Girl](https://open.spotify.com/track/2cSdAkzAf2T4j4aLvx4LLz) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Baby Girl](https://open.spotify.com/album/06SuoEMTpd5PGRVwuIpETC) | 1:51 |
 | 34 | [Frozen](https://open.spotify.com/track/6lknMmJZALXxx7emwwZWLX) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Frozen](https://open.spotify.com/album/2GAIUdfLIFtxDty42RowjE) | 2:00 |
-| 35 | [\#BrooklynBloodPop!](https://open.spotify.com/track/7K9Z3yFNNLv5kwTjQYGjnu) | [SyKo](https://open.spotify.com/artist/08ZqXO40nMrhBoGma4kls2) | [\#BrooklynBloodPop!](https://open.spotify.com/album/68i0gDIA5T5YVUIxj9QdsU) | 2:25 |
-| 36 | [Dark Beach](https://open.spotify.com/track/5QmdK8QFbY8TLVKPuJzexD) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Abyss](https://open.spotify.com/album/0RItfbXPf5eDzwdsgK9rKV) | 3:42 |
-| 37 | [BABYDOLL \(Speed\)](https://open.spotify.com/track/5K3SJuYEkvvrLbzOjPyRi1) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [BABYDOLL \(Speed\)](https://open.spotify.com/album/0qMwROWsV0fT5hBqkH1per) | 2:36 |
+| 35 | [Dark Beach](https://open.spotify.com/track/5QmdK8QFbY8TLVKPuJzexD) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Abyss](https://open.spotify.com/album/0RItfbXPf5eDzwdsgK9rKV) | 3:42 |
+| 36 | [BABYDOLL \(Speed\)](https://open.spotify.com/track/5K3SJuYEkvvrLbzOjPyRi1) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [BABYDOLL \(Speed\)](https://open.spotify.com/album/0qMwROWsV0fT5hBqkH1per) | 2:36 |
+| 37 | [\#BrooklynBloodPop!](https://open.spotify.com/track/7K9Z3yFNNLv5kwTjQYGjnu) | [SyKo](https://open.spotify.com/artist/08ZqXO40nMrhBoGma4kls2) | [\#BrooklynBloodPop!](https://open.spotify.com/album/68i0gDIA5T5YVUIxj9QdsU) | 2:25 |
 | 38 | [Jerusalema \(feat\. Nomcebo Zikode\)](https://open.spotify.com/track/2MlOUXmcofMackX3bxfSwi) | [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6) | [Jerusalema](https://open.spotify.com/album/0bRAth39i98n7qrxubZ00K) | 5:42 |
 | 39 | [Dead To Me \- Slow + Reverb](https://open.spotify.com/track/7xnElMPFCmSlMJ0AY2hnxc) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Fraxo](https://open.spotify.com/artist/2lMv8dtufbOPrrf5CPS7tS), [Lox Chatterbox](https://open.spotify.com/artist/3SFVIUlipGj3RpWCKe9s73) | [Dead To Me Slow + Reverb](https://open.spotify.com/album/13juqGwSBOnrdF9GjZO835) | 4:27 |
 | 40 | [Glue](https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Bicep](https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo) | 4:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 | 49 | [Let Go](https://open.spotify.com/track/3kdlVcMVsSkbsUy8eQcBjI) | [Ark Patrol](https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9), [Veronika Redd](https://open.spotify.com/artist/6kuFWCCvd7bWB1PV0tJMN2) | [Let Go](https://open.spotify.com/album/1MGkdnByMIGI1ZXcAf4Wze) | 4:08 |
 | 50 | [Freak Show](https://open.spotify.com/track/2Rb6nYmuLEblpq4KIAjngL) | [Punkinloveee](https://open.spotify.com/artist/6CrThJMQVJfWaHeliiLHuw), [H3artcrush](https://open.spotify.com/artist/1tHZYGc37FSzvOJ0eHbglI) | [Freak Show](https://open.spotify.com/album/13JoBPPaKWh2eusprVgAFu) | 2:05 |
 
-Snapshot ID: `MTY2MDY2NDY4MywwMDAwMDAwMGI2NmQ4YmI1MTA0YWVmZDRlNTJlMTIwNmRmNTc0MmY5`
+Snapshot ID: `MTY2MDY2NDY4MywwMDAwMDAwMDE2YmQ4ZDNiYjcyMTdjMWMyNmM1MDFmYWYyMDY3OTE5`

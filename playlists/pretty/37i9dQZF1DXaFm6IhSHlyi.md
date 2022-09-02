@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 
 > A collection of the world's best emotional songs\. Cover: <a href="https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl\_branch=1">Djouher</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,223 likes - 150 songs - 9 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,039 likes - 150 songs - 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 80 | [Салют, Вера](https://open.spotify.com/track/4Fs5Rl03jVC7bIsAmiIsys) | [Mona Songz](https://open.spotify.com/artist/4EGgyHCS7Yss2ttVKokdOl) | [Салют, Вера](https://open.spotify.com/album/3maRAd22eum9ttCp4BewNx) | 3:22 |
 | 81 | [In meiner Erinnerung](https://open.spotify.com/track/7hEogFloi0A60JMFfgVi3l) | [Silbermond](https://open.spotify.com/artist/3GbUWWI1rMwAIPbUVPvnPA) | [Schritte](https://open.spotify.com/album/20LClG6Zq5sVEGo2HDOtjY) | 3:45 |
 | 82 | [For You \- Recorded At Spotify Studios Stockholm](https://open.spotify.com/track/4AHIgOApMmqVfpvc1hxK6x) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Spotify Singles](https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ) | 3:25 |
-| 83 | [Sobreviviendo](https://open.spotify.com/track/1JnlPrlTzmhZ7jX7bPkLPn) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Hacia Adentro](https://open.spotify.com/album/3WtRGGEwF5ya96ND50zsIL) | 4:03 |
-| 84 | [Naaalala Ka / Maging Sino Ka Man \(Spotify Jams: OPM Love Songs \- Recorded at Kodama Studios, Philippines\)](https://open.spotify.com/track/3efCao3RLbsz52LQ66o8Ac) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Naaalala Ka / Maging Sino Ka Man \(Spotify Jams: OPM Love Songs \- Recorded at Kodama Studios, Philippines\)](https://open.spotify.com/album/6w1N1jNKdtg5vUQFOEG0ns) | 4:47 |
+| 83 | [Naaalala Ka / Maging Sino Ka Man \(Spotify Jams: OPM Love Songs \- Recorded at Kodama Studios, Philippines\)](https://open.spotify.com/track/3efCao3RLbsz52LQ66o8Ac) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Naaalala Ka / Maging Sino Ka Man \(Spotify Jams: OPM Love Songs \- Recorded at Kodama Studios, Philippines\)](https://open.spotify.com/album/6w1N1jNKdtg5vUQFOEG0ns) | 4:47 |
+| 84 | [Sobreviviendo](https://open.spotify.com/track/1JnlPrlTzmhZ7jX7bPkLPn) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Hacia Adentro](https://open.spotify.com/album/3WtRGGEwF5ya96ND50zsIL) | 4:03 |
 | 85 | [糸](https://open.spotify.com/track/3HUpfIdFGQ02XlDp1f2F8t) | [Bank Band](https://open.spotify.com/artist/5kbHObZlWoViBhC3p4EvZo) | [沿志奏逢](https://open.spotify.com/album/4R14tXqrX3Vl7qJfouSshx) | 4:44 |
 | 86 | [Jet Lag](https://open.spotify.com/track/4nDNTISVKzP3YjW4vvW1B1) | [Gavin Haley](https://open.spotify.com/artist/5pOYIshq4ZLnVBEuw8sF6f) | [Jet Lag](https://open.spotify.com/album/70CaXkLUnM9Ht9BrSxKHIm) | 2:30 |
 | 87 | [Sei Lá](https://open.spotify.com/track/1Zta013L8lvFsTjmnF34B6) | [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT) | [Sei Lá](https://open.spotify.com/album/67qnQQfaph7WX9OsW0KMQj) | 3:22 |
@@ -110,8 +110,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 100 | [Fade Away](https://open.spotify.com/track/0TqWyaKViqPTz31qew5OZ2) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [100 Days My Prince \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/4FiQXIs58DgwTH6cnMa3do) | 3:52 |
 | 101 | [Tilak](https://open.spotify.com/track/3snujKMl0rkHSdwOLxWrFv) | [Bombay Bandook](https://open.spotify.com/artist/3VkYRrfqoEIhBfcHTvdYGs) | [Tilak](https://open.spotify.com/album/2FKe9pZM0QQ2ynzPOHIwoj) | 5:59 |
 | 102 | [Al Kawn Janni Maak](https://open.spotify.com/track/0s6Vv5wPxRCsrBMjTSyrcg) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Al Kawn Janni Maak](https://open.spotify.com/album/5WfAjtVWyItvqpfEYfoZIG) | 2:15 |
-| 103 | [Hanggang Sa Huli \- From "24/7"](https://open.spotify.com/track/49ymBY89zdOGaw0Avp9g6L) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Hanggang Sa Huli \(From "24/7"\)](https://open.spotify.com/album/2C8rsZPS30jp7yaIjjROgO) | 4:18 |
-| 104 | [Media Tinta](https://open.spotify.com/track/05Xna7BUYBWuvEPdBNOq7t) | [Sofia Ellar](https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR) | [Media Tinta](https://open.spotify.com/album/3fy0AQR7nr6OnEMrhgymm2) | 3:54 |
+| 103 | [Media Tinta](https://open.spotify.com/track/05Xna7BUYBWuvEPdBNOq7t) | [Sofia Ellar](https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR) | [Media Tinta](https://open.spotify.com/album/3fy0AQR7nr6OnEMrhgymm2) | 3:54 |
+| 104 | [Hanggang Sa Huli \- From "24/7"](https://open.spotify.com/track/49ymBY89zdOGaw0Avp9g6L) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Hanggang Sa Huli \(From "24/7"\)](https://open.spotify.com/album/2C8rsZPS30jp7yaIjjROgO) | 4:18 |
 | 105 | [Wassellik Khabar](https://open.spotify.com/track/4USDc2ee6XNky5miYt5QTN) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [From Nassif Zeytoun with Love](https://open.spotify.com/album/60D9VCdWGbTklahFkQYmDq) | 3:56 |
 | 106 | [Alone](https://open.spotify.com/track/7wmCFmugk0Qj6xLlvg2ot4) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [From Midnight To Sunrise](https://open.spotify.com/album/4HejSNN1hxuW9AVVE9cr6h) | 4:24 |
 | 107 | [Right There](https://open.spotify.com/track/6pVbMjJCMwjSR2xRrqBdkJ) | [Ramzi](https://open.spotify.com/artist/7sOe0BpnYTaGhBB6V6DAmo) | [Right There](https://open.spotify.com/album/0y5z24xqxgZtoUuTwDchVB) | 3:59 |
@@ -148,8 +148,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 138 | [How We Love](https://open.spotify.com/track/41GBbgJmNrCRXOmLezn0sP) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [How We Love](https://open.spotify.com/album/2KGBrH9IX58DG3jubYV6xd) | 3:50 |
 | 139 | [Maghihintay](https://open.spotify.com/track/4LgccgKkSa1zOVGcvnQPhn) | [Ruru Madrid](https://open.spotify.com/artist/1iRxi2v6ePrnmwbFGp0iKf) | [Maghihintay](https://open.spotify.com/album/1lKuKFWKWlMfhNYjsRJAhK) | 4:35 |
 | 140 | [Ang Kwento Ng Pag\-Ibig](https://open.spotify.com/track/7xtHYZxdaLiH5Ia6y5CVnS) | [Steph](https://open.spotify.com/artist/59vzNh002ixVsTYtMAwn6i) | [Ang Kwento Ng Pag\-Ibig](https://open.spotify.com/album/6yAWkGEiemE4t8Gh55gmSN) | 4:32 |
-| 141 | [Düştüğüm Gibi Kalkarım \- Akustikhane](https://open.spotify.com/track/1e3PlxTrIEnveO663T7lYP) | [Kahraman Deniz](https://open.spotify.com/artist/3nF0yXDatdq9xV279nEs5X) | [Akustikhane](https://open.spotify.com/album/5wHc78rsbGRHHetgyT7zsk) | 5:31 |
-| 142 | [Simula](https://open.spotify.com/track/5J8BND2uD7dMGnw3sCOocS) | [Aicelle Santos](https://open.spotify.com/artist/7oPLWcZnvyxxIrHKC9nbMp), [Christian Bautista](https://open.spotify.com/artist/4U78sK2D3zASSB6oSR38GQ) | [Simula](https://open.spotify.com/album/1wv3X0NaZqiI4LgMyxgAnn) | 4:25 |
+| 141 | [Simula](https://open.spotify.com/track/5J8BND2uD7dMGnw3sCOocS) | [Aicelle Santos](https://open.spotify.com/artist/7oPLWcZnvyxxIrHKC9nbMp), [Christian Bautista](https://open.spotify.com/artist/4U78sK2D3zASSB6oSR38GQ) | [Simula](https://open.spotify.com/album/1wv3X0NaZqiI4LgMyxgAnn) | 4:25 |
+| 142 | [Düştüğüm Gibi Kalkarım \- Akustikhane](https://open.spotify.com/track/1e3PlxTrIEnveO663T7lYP) | [Kahraman Deniz](https://open.spotify.com/artist/3nF0yXDatdq9xV279nEs5X) | [Akustikhane](https://open.spotify.com/album/5wHc78rsbGRHHetgyT7zsk) | 5:31 |
 | 143 | [The Everyday Bit](https://open.spotify.com/track/0FA50lbxlU1lY24uhT8nkp) | [Calby](https://open.spotify.com/artist/0G0umTp1UkZhB0Jd6N1oOa) | [Burnout](https://open.spotify.com/album/6k47ejXCq00U0GjjDlhBdJ) | 3:07 |
 | 144 | [Amazing](https://open.spotify.com/track/5XBlT87VTJ7BEF0O8vS1Ep) | [Ramzi](https://open.spotify.com/artist/7sOe0BpnYTaGhBB6V6DAmo) | [Amazing](https://open.spotify.com/album/4Snw24SJhc1VkH0cOlGZvC) | 3:25 |
 | 145 | [You Are](https://open.spotify.com/track/02Mn57DbulnTiXU2B1jmZn) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [You Are](https://open.spotify.com/album/6Rk6fBhF9OygBVeQ0lue2D) | 3:48 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 149 | [17h](https://open.spotify.com/track/24SBLKhtIv7wEAlXct7mNu) | [Malket](https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK) | [17h](https://open.spotify.com/album/0groCpwC87L58ocN0SsLh9) | 3:38 |
 | 150 | [Sikasih](https://open.spotify.com/track/7zaC2Jn1jOpB2tdGLP8nG2) | [Abam](https://open.spotify.com/artist/3P0M8eyVyFJQBOStOpSdBL) | [Sikasih](https://open.spotify.com/album/69fxXPadVVtaMhEcz7DMaq) | 3:06 |
 
-Snapshot ID: `MTY2MDY2NTY0NiwwMDAwMDAwMGEwYzIyYWI1MmJlNDg0ZTFkNjEyMGM3ODc0NzlmMmZj`
+Snapshot ID: `MTY2MDY2NTY0NiwwMDAwMDAwMGZiNzE3NWQwY2FkNmFjNDJmMTQxOTU2ZTFjMDg3YWEz`

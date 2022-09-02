@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: SAPPHIRE
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,645 likes - 85 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,725 likes - 85 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 2 | [complex \(demo\)](https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex \(demo\)](https://open.spotify.com/album/4iHBCJPZUha2xs84jNZ4jc) | 4:16 |
 | 3 | [Funeral](https://open.spotify.com/track/4BvRbNPdT7ORpX8h70FrFo) | [Sarah Cothran](https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G) | [Funeral](https://open.spotify.com/album/2FXHQdFvhYwP62nBazYaAq) | 3:31 |
 | 4 | [Sunday Crossword](https://open.spotify.com/track/3CB973XnoNN2QBAF5yaBxU) | [J\. Maya](https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU) | [Sunday Crossword](https://open.spotify.com/album/6m0eoETUxlI5sWCW6e9akR) | 3:04 |
-| 5 | [Bedroom Floor](https://open.spotify.com/track/5QIIqyaKqjpDisjYNGZlAf) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Bedroom Floor](https://open.spotify.com/album/5S8Ucc9rGzrOTHz3Z4AsgQ) | 4:09 |
+| 5 | [Bedroom Floor](https://open.spotify.com/track/2GjPJVgqtF8uSyoedh5Inf) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Bedroom Floor](https://open.spotify.com/album/1UdFJz9ptrLSmsTI87B2Ym) | 4:09 |
 | 6 | [Watching TV](https://open.spotify.com/track/7fAn052aR5ah3RvrANPEQd) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Watching TV](https://open.spotify.com/album/2AMv7OLRdtbifINJFTpRuD) | 2:40 |
 | 7 | [god has a sense of humor](https://open.spotify.com/track/4kJVBJWaZn6yuKQortyVYY) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [god has a sense of humor](https://open.spotify.com/album/6qcqsKIO6zufYcE8lPldAv) | 2:50 |
 | 8 | [Virginity](https://open.spotify.com/track/71UNeDnHSi1dWnGgRgFdLU) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Virginity](https://open.spotify.com/album/6YXOcBLyEC6ah8w302CLsw) | 2:18 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 84 | [I GUESS I'M IN LOVE](https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [I GUESS I'M IN LOVE](https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP) | 3:24 |
 | 85 | [Hostage](https://open.spotify.com/track/1ndqHrik6dcm5ZIu7bZUY0) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [Satellite](https://open.spotify.com/album/7cTthdPgZAHv44s7VCar46) | 3:49 |
 
-Snapshot ID: `MTY2MTQ4NjQ2MCwwMDAwMDAwMDIzMGFmZGVkY2U4M2JmOTZjNWU1ZTRkYzQ4MjVhM2Q1`
+Snapshot ID: `MTY2MTQ4NjQ2MCwwMDAwMDAwMDQ0Yzk0ZGUwYmFhMmUwMDJjOGQ1OWNjOTM4NTcwMmJh`

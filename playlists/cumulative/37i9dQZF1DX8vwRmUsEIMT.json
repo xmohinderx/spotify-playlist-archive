@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "All the new music you need to hear right now. Cover: Arctic Monkeys",
+  "description": "All the new music you need to hear right now. Cover: The 1975",
   "name": "All New All Now",
   "published_playlist_ids": [
     "4Q4OtTCCZtc7DTYLeNoedL"
@@ -455,10 +455,32 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 264986,
       "name": "Alright",
       "url": "https://open.spotify.com/track/57BvpyURy7xPYKgbPRaynf"
+    },
+    {
+      "album": {
+        "name": "Always Be There",
+        "url": "https://open.spotify.com/album/5AjjKzTDARZEg5gPPJx597"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Louisa Johnson",
+          "url": "https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198407,
+      "name": "Always Be There",
+      "url": "https://open.spotify.com/track/1PKqiewc0OyZVYxFz5ugbH"
     },
     {
       "album": {
@@ -736,6 +758,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Love (Free Fire)",
+        "url": "https://open.spotify.com/album/3Dukyn15RlALh1JDtQRqO0"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207837,
+      "name": "Beautiful Love - Free Fire",
+      "url": "https://open.spotify.com/track/3e10Ct9oFcIdgFjkDUBV2k"
+    },
+    {
+      "album": {
         "name": "Better",
         "url": "https://open.spotify.com/album/6KjkOTCElyMZo9ZwN9xuel"
       },
@@ -853,6 +893,24 @@
       "duration_ms": 160106,
       "name": "Bigger Than Life",
       "url": "https://open.spotify.com/track/5PqO45k0bwz7idhZYdbHSY"
+    },
+    {
+      "album": {
+        "name": "Bigger Than Me",
+        "url": "https://open.spotify.com/album/11Kmry6hzWz0VFAI7s2Iz1"
+      },
+      "artists": [
+        {
+          "name": "Louis Tomlinson",
+          "url": "https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221440,
+      "name": "Bigger Than Me",
+      "url": "https://open.spotify.com/track/1igXQJ8h25DY4AiVgyGohE"
     },
     {
       "album": {
@@ -1023,7 +1081,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 163413,
       "name": "Brexit at Tiffany's",
       "url": "https://open.spotify.com/track/49BeIQzb05PWsS2YfSt87Q"
@@ -1041,7 +1099,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 204545,
       "name": "Broken",
       "url": "https://open.spotify.com/track/0obfu9ZrPGt59RnD8Wiai2"
@@ -1389,7 +1447,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 224472,
       "name": "CHURCH GIRL",
       "url": "https://open.spotify.com/track/2mqTtvbKxH7SoEQ2oGAnsA"
@@ -1571,6 +1629,28 @@
       "duration_ms": 225388,
       "name": "CUFF IT",
       "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
+    },
+    {
+      "album": {
+        "name": "Dancing In The Shadows",
+        "url": "https://open.spotify.com/album/2rJpFV7L5MsabqxrEeHVd6"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276923,
+      "name": "Dancing In The Shadows",
+      "url": "https://open.spotify.com/track/2edB8M0PPZCoYKm8ohDaNm"
     },
     {
       "album": {
@@ -1971,7 +2051,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 159562,
       "name": "Endless Sky",
       "url": "https://open.spotify.com/track/3oHOObxpYRdsRwVqizxWNM"
@@ -2018,6 +2098,24 @@
     },
     {
       "album": {
+        "name": "Keep On Smiling",
+        "url": "https://open.spotify.com/album/1PKL24mnakuCYCZkHgKgwJ"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262356,
+      "name": "Everybody's Cool",
+      "url": "https://open.spotify.com/track/66YV5WPbSqEZsM6WwShkEM"
+    },
+    {
+      "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/0RxQrRBkuZYmNqJw1nqiyD"
       },
@@ -2029,7 +2127,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 156923,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/7jqiKvhHkFlNsaDfoAfGmz"
@@ -2196,6 +2294,24 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0aTksyiafCXTH3jbUIkwVs"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188989,
+      "name": "Freak Like Me - Spotify Singles",
+      "url": "https://open.spotify.com/track/7lxF9OOlLhxslC3BEDIMfB"
+    },
+    {
+      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/1P2IeydghXZHVulSJLtReQ"
       },
@@ -2327,7 +2443,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 177865,
       "name": "Georgetown (feat. John Agard)",
       "url": "https://open.spotify.com/track/1TFI1ltSMuCIoEc7as1Wvy"
@@ -2443,7 +2559,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 221377,
       "name": "Good Enough",
       "url": "https://open.spotify.com/track/5fuNhRavX030PFZ42Am6Vn"
@@ -3218,6 +3334,24 @@
     },
     {
       "album": {
+        "name": "I'm In Love With You",
+        "url": "https://open.spotify.com/album/3TI3FFFz3hKQfsL0izZ8JS"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262623,
+      "name": "I'm In Love With You",
+      "url": "https://open.spotify.com/track/0uBdQzKghx88d2Lp8SLFKJ"
+    },
+    {
+      "album": {
         "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
         "url": "https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt"
       },
@@ -3345,7 +3479,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 146769,
       "name": "indieedgycool",
       "url": "https://open.spotify.com/track/7nl5O8gRhQBCZUv3WHFxoV"
@@ -3562,6 +3696,24 @@
     },
     {
       "album": {
+        "name": "Songs of Sonder",
+        "url": "https://open.spotify.com/album/3meoZUwEJiy7nyrDsv2HHJ"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229436,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/1Xq9ilOLiknCaGYtSsvFrH"
+    },
+    {
+      "album": {
         "name": "Last Last",
         "url": "https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe"
       },
@@ -3689,7 +3841,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 184933,
       "name": "Lift Off",
       "url": "https://open.spotify.com/track/3ZcLmonVVD1MTQtmQb8yf3"
@@ -3733,6 +3885,32 @@
       "duration_ms": 162844,
       "name": "Little Things",
       "url": "https://open.spotify.com/track/0S3b1jhjbkaeg3QYmfObXz"
+    },
+    {
+      "album": {
+        "name": "Living Without You",
+        "url": "https://open.spotify.com/album/6i5EQgCokHB7wgiP68UYmA"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Sam Ryder",
+          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184103,
+      "name": "Living Without You",
+      "url": "https://open.spotify.com/track/1KkV5NgLa2XtD00IfaCPyG"
     },
     {
       "album": {
@@ -4048,6 +4226,24 @@
     },
     {
       "album": {
+        "name": "Million Dollar Baby",
+        "url": "https://open.spotify.com/album/4fCW1XNPfBY6rgL1scsfGC"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184294,
+      "name": "Million Dollar Baby",
+      "url": "https://open.spotify.com/track/3pPN20syOYvbUuEiBpbenI"
+    },
+    {
+      "album": {
         "name": "Missing You / Something About Your Love",
         "url": "https://open.spotify.com/album/0p5utqJGqhCnRCk2gMGHUA"
       },
@@ -4142,6 +4338,32 @@
     },
     {
       "album": {
+        "name": "New Gold (feat. Tame Impala and Bootie Brown)",
+        "url": "https://open.spotify.com/album/4V9YFKLqZ5h8nQFTvDQscC"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "Bootie Brown",
+          "url": "https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215149,
+      "name": "New Gold (feat. Tame Impala and Bootie Brown)",
+      "url": "https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU"
+    },
+    {
+      "album": {
         "name": "New Money (with 21 Savage)",
         "url": "https://open.spotify.com/album/1aRWXKL4e4pFg6Z3ObHKKw"
       },
@@ -4209,6 +4431,24 @@
       "duration_ms": 172514,
       "name": "NIGHTS LIKE THESE",
       "url": "https://open.spotify.com/track/33vZRjxJScapmRShRJq8I0"
+    },
+    {
+      "album": {
+        "name": "Nike",
+        "url": "https://open.spotify.com/album/4TheMbO9MrRGaDzJwyTyVx"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127624,
+      "name": "Nike",
+      "url": "https://open.spotify.com/track/1ueaBqr5S3NxQhj1gKgmwj"
     },
     {
       "album": {
@@ -4341,7 +4581,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 135013,
       "name": "on & on",
       "url": "https://open.spotify.com/track/2fmtrXfvbN8xkHwE0zgTTc"
@@ -4639,7 +4879,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 173061,
       "name": "Pressurelicious (feat. Future)",
       "url": "https://open.spotify.com/track/5ZWNnO9MyPfGrUHiGWHESB"
@@ -4669,6 +4909,28 @@
       "duration_ms": 204440,
       "name": "Propeller (feat. Dave & BNXN)",
       "url": "https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo"
+    },
+    {
+      "album": {
+        "name": "Queen Space (with Summer Walker)",
+        "url": "https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230841,
+      "name": "Queen Space (with Summer Walker)",
+      "url": "https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C"
     },
     {
       "album": {
@@ -4741,7 +5003,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 183406,
       "name": "Revolution",
       "url": "https://open.spotify.com/track/69c48S8phNtQZuM8ksaObz"
@@ -5351,7 +5613,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 175150,
       "name": "The Emperor",
       "url": "https://open.spotify.com/track/1Gkfh1jNNFJPh3vcCSGi3J"
@@ -5658,6 +5920,24 @@
     },
     {
       "album": {
+        "name": "Tissues",
+        "url": "https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215163,
+      "name": "Tissues",
+      "url": "https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph"
+    },
+    {
+      "album": {
         "name": "Too Much (feat. Lucky Daye)",
         "url": "https://open.spotify.com/album/72sbcb1TU3tshd27FuJ1Gi"
       },
@@ -5833,7 +6113,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 281380,
       "name": "TV",
       "url": "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw"
@@ -6043,10 +6323,32 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 197253,
       "name": "When It Rains, It Pours",
       "url": "https://open.spotify.com/track/0Qb8vbig4Wky0RKhOWh2Ze"
+    },
+    {
+      "album": {
+        "name": "When Someone Loves You",
+        "url": "https://open.spotify.com/album/24WbV4OTp6wQ0BLA9BD8DP"
+      },
+      "artists": [
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255604,
+      "name": "When Someone Loves You",
+      "url": "https://open.spotify.com/track/6Z0OTy3hVXDPxskcc262JH"
     },
     {
       "album": {
@@ -6195,10 +6497,28 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 141093,
       "name": "YUKON (INTERLUDE)",
       "url": "https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe"
+    },
+    {
+      "album": {
+        "name": "YUKON (INTERLUDE)",
+        "url": "https://open.spotify.com/album/0GxWXE6ltKk4Gx3WyWLLrW"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141093,
+      "name": "YUKON (INTERLUDE)",
+      "url": "https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8vwRmUsEIMT"

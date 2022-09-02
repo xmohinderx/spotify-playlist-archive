@@ -4,7 +4,7 @@
 
 > The sweet sounds of Morocco.
 
-149 songs - 8 hr 4 min - [published](https://open.spotify.com/playlist/3rERU7jhrUFm3TLTfgFuLD)
+150 songs - 8 hr 8 min - [published](https://open.spotify.com/playlist/3rERU7jhrUFm3TLTfgFuLD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,9 +114,10 @@
 | [Ntiya](https://open.spotify.com/track/3j0nwjwZKO1EArIlo6RuJN) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Ntiya](https://open.spotify.com/album/5tiCtx89m9IROn2MOsGRFq) | 3:06 | 2022-06-14 |  |
 | [Ntiya Lm3alma](https://open.spotify.com/track/5IlkjrCw2DmkH8klRfa9Dt) | [Aymane Serhani](https://open.spotify.com/artist/2EAzv92ciNtTm5DkGSYXH2) | [Ntiya Lm3alma](https://open.spotify.com/album/7qXWfxYUr4A6bUlDy41fII) | 3:24 | 2022-05-26 | 2022-07-17 |
 | [Oh Bébé feat\. DYSTINCT](https://open.spotify.com/track/0XnvKbl68rDvXAI4uOU8rk) | [DJ Sem](https://open.spotify.com/artist/6RXNoNfqGTqlCIwAvzo4Xp), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Oh Bébé feat\. DYSTINCT](https://open.spotify.com/album/48OejE1iLW3oJeoA1g8xDI) | 2:52 | 2021-12-25 | 2022-01-08 |
+| [Omri](https://open.spotify.com/track/0UoPZZKHTNXyAKvnQC0PrY) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Omri](https://open.spotify.com/album/6uPeVzOEUmO69h6gsNt2rn) | 3:20 | 2022-09-01 |  |
 | [Oui Oui](https://open.spotify.com/track/6RSzvqWsZHJi0Gd6y6RE5f) | [Jaylann](https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg) | [Oui Oui](https://open.spotify.com/album/7pfjDS1yHElsYKni049KL8) | 3:04 | 2022-05-23 |  |
 | [Porfavor](https://open.spotify.com/track/0QQsxD6ZVzBINIgNgqWCF5) | [Chaos333](https://open.spotify.com/artist/1fP5b7OUxcCkbhUX3yKVzE) | [Porfavor](https://open.spotify.com/album/0q83zWh0GQLgiGUl7U5wAs) | 2:45 | 2021-12-25 | 2022-03-04 |
-| [Rosita](https://open.spotify.com/track/0Iu2Jrfy91hMgIUtS9FFIX) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [MIXDEEP](https://open.spotify.com/album/1I9BiYmRSw2HXXi8RtKBym) | 3:15 | 2022-07-25 |  |
+| [Rosita](https://open.spotify.com/track/0Iu2Jrfy91hMgIUtS9FFIX) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [MIXDEEP](https://open.spotify.com/album/1I9BiYmRSw2HXXi8RtKBym) | 3:15 | 2022-07-25 | 2022-09-02 |
 | [S7aba](https://open.spotify.com/track/6MxAG9DhagTDK73jJAY7wf) | [Jewlz](https://open.spotify.com/artist/1WRtwhuCTk1CuKBkr8fHkt), [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [S7aba](https://open.spotify.com/album/3G7A0LhiXySh8bmjm0xSF7) | 2:56 | 2022-06-09 | 2022-07-17 |
 | [Sabra](https://open.spotify.com/track/0iqRTNFvfLZUjdkIBaJkVS) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Sabra](https://open.spotify.com/album/7DTt8yVftsh8Gi0opaE74z) | 3:43 | 2022-01-18 | 2022-05-10 |
 | [Sac](https://open.spotify.com/track/63DDC3J4z88hNMvcDFzQnH) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Colors](https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9) | 3:16 | 2021-12-25 | 2022-06-23 |

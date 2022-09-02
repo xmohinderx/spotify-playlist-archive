@@ -4,7 +4,7 @@
 
 > soft, chewy & good for the soul\. uwu
 
-348 songs - 19 hr 29 min - [published](https://open.spotify.com/playlist/7moHOuo8YGkhu2acqCiqv9)
+349 songs - 19 hr 31 min - [published](https://open.spotify.com/playlist/7moHOuo8YGkhu2acqCiqv9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,7 +352,8 @@
 | [You Should Know](https://open.spotify.com/track/5my3W0CKAb8kb6Z2Z7NjGx) | [Mezzaluna](https://open.spotify.com/artist/2B8y0aE3IZYSeyKYj34W6a) | [You Should Know](https://open.spotify.com/album/47k8LFRZGbI3TKNSzuHAjq) | 3:03 | 2022-08-12 | 2022-08-27 |
 | [you won't be there for me](https://open.spotify.com/track/7vwhqiIfU8HqXhNgyy8ubR) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [you won't be there for me](https://open.spotify.com/album/16ZA1WX64YWVXiun8tP8n5) | 3:02 | 2022-01-28 |  |
 | [your love](https://open.spotify.com/track/1BrB7PB1sOwaVZsrLaWInN) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [your love](https://open.spotify.com/album/0TX38oFZa6CT7XjyW9Jgqk) | 2:35 | 2022-01-28 |  |
-| [YUKON \(INTERLUDE\)](https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi) | 2:21 | 2022-08-26 |  |
+| [YUKON \(INTERLUDE\)](https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi) | 2:21 | 2022-08-26 | 2022-09-02 |
+| [YUKON \(INTERLUDE\)](https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/0GxWXE6ltKk4Gx3WyWLLrW) | 2:21 | 2022-08-26 |  |
 | [· · 一](https://open.spotify.com/track/6udvMAKpaJ99XOzCv0GrYN) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [· · 一](https://open.spotify.com/album/2PY375a2tZKvK809i4Y0yg) | 4:36 | 2022-08-19 | 2022-08-27 |
 | [童話](https://open.spotify.com/track/6NCylXeJcHOI908PjZDFcg) | [Michael Wong](https://open.spotify.com/artist/26SQFo2qNNGOxh2PUAsTeO) | [十光年精選輯](https://open.spotify.com/album/36Z2YriYoWjRLZOiklzgSm) | 4:06 | 2022-03-29 |  |
 | [그리움 \(Rindu\)](https://open.spotify.com/track/32owsT82fuFexAND08A5sS) | [MFMF.](https://open.spotify.com/artist/4VyJgkmyclZOaiKFmqX9jR), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [그리움 \(Rindu\)](https://open.spotify.com/album/6vWZt1ZL6HRLWsNzbZlhCg) | 2:51 | 2022-01-28 | 2022-07-28 |

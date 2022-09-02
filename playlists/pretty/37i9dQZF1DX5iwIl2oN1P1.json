@@ -1,12 +1,12 @@
 {
   "description": "Get your Sunday sound right with this collection of current Gospel essentials.",
-  "num_followers": 70704,
+  "num_followers": 70719,
   "original_name": "Sundays Best",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MTE5NDc5MCwwMDAwMDAwMDMwOGY3OWRiYjFiZTU4MjdlZTE5NjE2ZmQ2ZDZhYWI2",
+  "snapshot_id": "MTU5MTE5NDc5MCwwMDAwMDAwMDY5YmM1MjE0ZjdiM2EzNDAyNzQ1MWUyNjQ0ZDczOGMx",
   "tracks": [
     {
       "added_at": "2020-06-03 14:33:10",
@@ -691,6 +691,22 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
+        "name": "The Dolly Express",
+        "url": "https://open.spotify.com/album/63yEC0w1r3uMTfWPmX7iAF"
+      },
+      "artists": [
+        {
+          "name": "Jermaine Dolly",
+          "url": "https://open.spotify.com/artist/14ROZ4kCrD8abznyzgs530"
+        }
+      ],
+      "duration_ms": 345625,
+      "name": "You",
+      "url": "https://open.spotify.com/track/23w95m3xuLxEyqaIMFYDrY"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
         "name": "Losing My Religion",
         "url": "https://open.spotify.com/album/5jmz4EGoRRbBvzaLRNAPEA"
       },
@@ -719,38 +735,6 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "One Nation Under God",
-        "url": "https://open.spotify.com/album/3fdcELLJcdrGFL2VJQu6VP"
-      },
-      "artists": [
-        {
-          "name": "Jekalyn Carr",
-          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
-        }
-      ],
-      "duration_ms": 418261,
-      "name": "It's Yours",
-      "url": "https://open.spotify.com/track/0xYwbNvw4TburjOJYs0GpQ"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
-        "name": "The Dolly Express",
-        "url": "https://open.spotify.com/album/63yEC0w1r3uMTfWPmX7iAF"
-      },
-      "artists": [
-        {
-          "name": "Jermaine Dolly",
-          "url": "https://open.spotify.com/artist/14ROZ4kCrD8abznyzgs530"
-        }
-      ],
-      "duration_ms": 345625,
-      "name": "You",
-      "url": "https://open.spotify.com/track/23w95m3xuLxEyqaIMFYDrY"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
         "name": "If God / Nothing But the Blood (Studio Version)",
         "url": "https://open.spotify.com/album/7jQPc5YniQzkR0ucMuJHMY"
       },
@@ -767,18 +751,18 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "Life Music: Stage Two",
-        "url": "https://open.spotify.com/album/2akE85yBX94ruIAOjR7ru4"
+        "name": "One Nation Under God",
+        "url": "https://open.spotify.com/album/3fdcELLJcdrGFL2VJQu6VP"
       },
       "artists": [
         {
-          "name": "Jonathan McReynolds",
-          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
         }
       ],
-      "duration_ms": 176969,
-      "name": "Gotta Have You",
-      "url": "https://open.spotify.com/track/1JhJUr6uQ2bf8CNcVsARr4"
+      "duration_ms": 418261,
+      "name": "It's Yours",
+      "url": "https://open.spotify.com/track/0xYwbNvw4TburjOJYs0GpQ"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -795,6 +779,22 @@
       "duration_ms": 585080,
       "name": "God Is My Refuge (Live)",
       "url": "https://open.spotify.com/track/0DTCdLczLgxt8EXrQFgnQV"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "Life Music: Stage Two",
+        "url": "https://open.spotify.com/album/2akE85yBX94ruIAOjR7ru4"
+      },
+      "artists": [
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        }
+      ],
+      "duration_ms": 176969,
+      "name": "Gotta Have You",
+      "url": "https://open.spotify.com/track/1JhJUr6uQ2bf8CNcVsARr4"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -843,6 +843,22 @@
       "duration_ms": 313146,
       "name": "No Ordinary Worship - Live",
       "url": "https://open.spotify.com/track/6YGfEESAaw90c7saDtwiej"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "The Truth (Standard)",
+        "url": "https://open.spotify.com/album/2PN0icbfw6JsxnWrNmksuO"
+      },
+      "artists": [
+        {
+          "name": "Casey J",
+          "url": "https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd"
+        }
+      ],
+      "duration_ms": 469631,
+      "name": "I'm Yours",
+      "url": "https://open.spotify.com/track/1Le6O6aIBN69wCWL1psmLR"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -907,22 +923,6 @@
       "duration_ms": 287674,
       "name": "I Am - Radio Edit",
       "url": "https://open.spotify.com/track/1X2DFg7sUV1ajTbsJFJKqx"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
-        "name": "The Truth (Standard)",
-        "url": "https://open.spotify.com/album/2PN0icbfw6JsxnWrNmksuO"
-      },
-      "artists": [
-        {
-          "name": "Casey J",
-          "url": "https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd"
-        }
-      ],
-      "duration_ms": 469631,
-      "name": "I'm Yours",
-      "url": "https://open.spotify.com/track/1Le6O6aIBN69wCWL1psmLR"
     },
     {
       "added_at": "2020-06-03 14:33:10",

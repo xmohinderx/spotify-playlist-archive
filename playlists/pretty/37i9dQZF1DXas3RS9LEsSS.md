@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas3RS9LEsSS.md) - [plain]
 
 > The best of Latin blues\. Cover: Carlos Santana
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,092 likes - 58 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,108 likes - 58 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas3RS9LEsSS.md) - [plain]
 | 8 | [Todo Va a Arder \(En vivo en Sesiones de Bar\)](https://open.spotify.com/track/5kZxky7iciP3kEKn8nPlm9) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Todo Va a Arder \(En vivo en Sesiones de Bar\)](https://open.spotify.com/album/2UZFC1cuAbXrc4HO8OKkY1) | 4:15 |
 | 9 | [Un Beso Grande](https://open.spotify.com/track/3WqIBVb0k5VQ3kNkZSvBQi) | [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl), [Francisco Céspedes](https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8) | [Un Beso Grande](https://open.spotify.com/album/1fYosbYikwwEOWOyCWqZjR) | 3:46 |
 | 10 | [Preocupado y Aburrido](https://open.spotify.com/track/4u34ORMzURyViyUF2OIks4) | [Alambre Gonzalez](https://open.spotify.com/artist/3oLANiNTf5qyrciZmnPyYU) | [Alambre González & Amigos](https://open.spotify.com/album/6Uyq3DIYiEi3eRVX1m2CHO) | 3:57 |
-| 11 | [Don't Let Fear](https://open.spotify.com/track/0o8Do9Ed0v3MqoGnjy2ghK) | [Jessy Howe](https://open.spotify.com/artist/4qdw2RTYky5FRJAq1znp2v), [Vargas Blues Band](https://open.spotify.com/artist/3K6ueahyMBq96ZtDjo9LSn), [Vikings of Blues](https://open.spotify.com/artist/37Y8IZI30LNBrm4QF9mt7x) | [Soul Food](https://open.spotify.com/album/0bFLql3wAV9twd1RcFPrL1) | 4:20 |
+| 11 | [Don't Let Fear](https://open.spotify.com/track/3Z2pjyXFZRClZ6VzNHB1CI) | [Vikings of Blues](https://open.spotify.com/artist/37Y8IZI30LNBrm4QF9mt7x), [Vargas Blues Band](https://open.spotify.com/artist/3K6ueahyMBq96ZtDjo9LSn), [Jessy Howe](https://open.spotify.com/artist/4qdw2RTYky5FRJAq1znp2v) | [Soul Food](https://open.spotify.com/album/1lfVzJ28tTgXnz4hS5SdoD) | 4:20 |
 | 12 | [Two Dogs And A Bone](https://open.spotify.com/track/2VMbwC4YyE9Y58bE5gg3pV) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [The Town and The City](https://open.spotify.com/album/5gYSTafJAtxEqWXJPzylpH) | 2:25 |
 | 13 | [Me Gustas Mucho](https://open.spotify.com/track/62E2DCdIo0xAEPVgiXogms) | [Adrián Otero](https://open.spotify.com/artist/0RZvJL3AicNni7cisqcIxC) | [El Blusero](https://open.spotify.com/album/1ksdxiuc6IxvlIoivteyud) | 3:06 |
 | 14 | [Putreblues](https://open.spotify.com/track/1E9kMrrh3q58raTfz3L0kC) | [Blues Motel](https://open.spotify.com/artist/2VD4qhDrH6pU7dbaK9nuni) | [Abrazo Insomnio](https://open.spotify.com/album/7aw5ksKElZajzM9OPC0MTf) | 4:29 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas3RS9LEsSS.md) - [plain]
 | 57 | [Témpano de Hielo](https://open.spotify.com/track/101jHksIr05Ir0cKcpyKpw) | [Magnolia Blues Rock](https://open.spotify.com/artist/5jLFKI49IUfPb9fT7rrc5j) | [Magnolia](https://open.spotify.com/album/165s9omOoI3IYG7SX7osuq) | 3:13 |
 | 58 | [Avellaneda Blues](https://open.spotify.com/track/15YA2WKbpA7Jd7y7X74naF) | [Manal](https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1) | [Obras Cumbres](https://open.spotify.com/album/0n3NEHj4PMTmlM6hXXapbm) | 5:33 |
 
-Snapshot ID: `MTY0ODc4NTcyMCwwMDAwMDAwMGJjOTA0YjE3NjJjMWY1ZGQ3Nzk4OTA4YzM3OGI0ZTlk`
+Snapshot ID: `MTY0ODc4NTcyMCwwMDAwMDAwMDNkNWRhYjcwMWU2YzNmMTA1MDAyMmE0MGE4NDA1MTlk`

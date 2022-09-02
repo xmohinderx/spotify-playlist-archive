@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVbxH0H5oTi.md) - [plain]
 
 > No procrastination allowed\. Only fun songs to help you get chores done.
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,044 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,232 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVbxH0H5oTi.md) - [plain]
 | 27 | [La Curiosidad](https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Platonicos](https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw) | 3:39 |
 | 28 | [Sucker](https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:01 |
 | 29 | [The Reason](https://open.spotify.com/track/77loZpT5Y5PRP1S451P9Yz) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(15th Anniversary Deluxe\)](https://open.spotify.com/album/2zE1YKY7Okj10Tjl09jjth) | 3:52 |
-| 30 | [Wake Me Up Before You Go\-Go](https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Make It Big](https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI) | 3:51 |
+| 30 | [Maneater](https://open.spotify.com/track/4wH4dJgrsxONID6KS2tDQM) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 4:18 |
 | 31 | [I Like It](https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 4:13 |
-| 32 | [Maneater](https://open.spotify.com/track/4wH4dJgrsxONID6KS2tDQM) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 4:18 |
+| 32 | [Wake Me Up Before You Go\-Go](https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Make It Big](https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI) | 3:51 |
 | 33 | [Girls Just Want to Have Fun](https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual](https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0) | 3:58 |
 | 34 | [Dile](https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don](https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz) | 3:24 |
 | 35 | [Hold the Line](https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto](https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3) | 3:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVbxH0H5oTi.md) - [plain]
 | 49 | [Me And My Broken Heart](https://open.spotify.com/track/1oew3nFNY3vMacJAsvry0S) | [Rixton](https://open.spotify.com/artist/0kkxsdcaWmWU2yWAqclDh4) | [Let The Road](https://open.spotify.com/album/02ae5i5UAoFrt2peVox9Xd) | 3:13 |
 | 50 | [We Can't Stop](https://open.spotify.com/track/2y4lAQpi5VTNLu2ldeTdUH) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 3:51 |
 
-Snapshot ID: `MTY0NTU1OTgwOCwwMDAwMDAwMGY0OTczZWUxNzBiMGM4YmJkODlhMDkzZWRhZWIwYjQx`
+Snapshot ID: `MTY0NTU1OTgwOCwwMDAwMDAwMGIwMTY0Nzk4Y2ZmNzQzNmJkZjQ0YjU5NGE4ODUyYzk2`

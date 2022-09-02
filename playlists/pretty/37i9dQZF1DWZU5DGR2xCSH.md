@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU5DGR2xCSH.md) - [plain]
 
 > Los abanderados del rock argentino y sus himnos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,062,798 likes - 80 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,063,027 likes - 80 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU5DGR2xCSH.md) - [plain]
 | 41 | [Tarea Fina](https://open.spotify.com/track/6EIa9ndihAihOlcDNLx6Wx) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [La Mosca y la Sopa](https://open.spotify.com/album/0IcpyzTrT0Gp8PVMC9l0NS) | 3:43 |
 | 42 | [Demoliendo Hoteles](https://open.spotify.com/track/29iIRrSuANyjnwag69PHOJ) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Piano Bar](https://open.spotify.com/album/17utekM9a95MchXbkbh47k) | 2:15 |
 | 43 | [Bicho de Ciudad](https://open.spotify.com/track/1L9ybuuZdLY3biLEgfN4zB) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Civilización](https://open.spotify.com/album/2UWwSvdLSntNblYm32f6aN) | 5:20 |
-| 44 | [Bajan](https://open.spotify.com/track/6hmYi0E6EBEmDeztQHaH0C) | [Pescado Rabioso](https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9) | [Artaud](https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA) | 3:24 |
-| 45 | [La Razón Que Te Demora](https://open.spotify.com/track/0ljyHIWERJQp8O5LKgKm1l) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Detonador de Sueños](https://open.spotify.com/album/7hHY77bNkcPikVZpC91hvZ) | 4:24 |
+| 44 | [La Razón Que Te Demora](https://open.spotify.com/track/0ljyHIWERJQp8O5LKgKm1l) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Detonador de Sueños](https://open.spotify.com/album/7hHY77bNkcPikVZpC91hvZ) | 4:24 |
+| 45 | [Bajan](https://open.spotify.com/track/6hmYi0E6EBEmDeztQHaH0C) | [Pescado Rabioso](https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9) | [Artaud](https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA) | 3:24 |
 | 46 | [Crímenes perfectos](https://open.spotify.com/track/6guoJhM9n5Fm7npXJ1rfsM) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Alta Suciedad](https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6) | 4:24 |
 | 47 | [Magia Veneno](https://open.spotify.com/track/6zielPkg61vCK5DfqqvjE9) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [El Número Imperfecto](https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn) | 3:58 |
 | 48 | [Mi enfermedad](https://open.spotify.com/track/46bGEqzd7anKKovVOZ9bTF) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x), [Mariano Lopez](https://open.spotify.com/artist/5defwXHFW3smFGwOHJHalB) | [Algo mejor](https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ) | 3:21 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU5DGR2xCSH.md) - [plain]
 | 79 | [Cheques](https://open.spotify.com/track/4sLeBVI7jCaDUd0WcxCWbg) | [Spinetta Y Los Socios Del Desierto](https://open.spotify.com/artist/7F5m9Jw4sg853wTDmmJvLi) | [Spinetta y los Socios del Desierto](https://open.spotify.com/album/04sd3yVEomRHkJ6Qd3KXBt) | 4:03 |
 | 80 | [Y Lo Que Quiero Es Que Pises Sin El Suelo](https://open.spotify.com/track/3z5F0EaY9VCq9GiQPzrbDX) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [Cuentos Decapitados](https://open.spotify.com/album/4agUniovdijNcGf3blcYQM) | 3:12 |
 
-Snapshot ID: `MTY2MDI3MzIwMCwwMDAwMDAwMDg1NzQ1YmQ1N2JlMGJiYzNjOWJiZmQ1YTVjMDA0ODlk`
+Snapshot ID: `MTY2MDI3MzIwMCwwMDAwMDAwMDRlNTNhMDdlOTk4NTI5ODkyMzY3Mjk4MjkwYWEwYmJk`

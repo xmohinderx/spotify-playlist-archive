@@ -4,7 +4,7 @@
 
 > The best jazz new releases\. Photo : Gabi Hartmann
 
-122 songs - 8 hr 58 min - [published](https://open.spotify.com/playlist/3rs0g3vcnj4aI2NKRtpM5z)
+123 songs - 9 hr 2 min - [published](https://open.spotify.com/playlist/3rs0g3vcnj4aI2NKRtpM5z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,11 +44,12 @@
 | [First Shot](https://open.spotify.com/track/0vnArNTn5aLJmqrnZnK4Li) | [Pierre Manetti](https://open.spotify.com/artist/4MN4pIzuUjcY7enfxPEzva), [Christophe Cravero](https://open.spotify.com/artist/1c2wYQGmM8aipjqZQm2wzZ), [Laurent Locuratolo](https://open.spotify.com/artist/5ZKgs9QELqj8p7rMCKHxBy), [Henri Dorina](https://open.spotify.com/artist/3zxBY3Jc6y5vRfeFE3USbk) | [First Shot](https://open.spotify.com/album/4r919vmWnr9CeRv3FpROhI) | 3:45 | 2022-08-18 |  |
 | [For Real](https://open.spotify.com/track/7vWCDnCsVZZAJiMdYEAD2r) | [Arnaud Dolmen](https://open.spotify.com/artist/4poxrHwFvg05NhT3TDNRtm) | [Adjusting](https://open.spotify.com/album/4iYFLD07bHFqZgf86aloFZ) | 4:44 | 2022-04-14 | 2022-06-10 |
 | [Fragile](https://open.spotify.com/track/4cvQBhqjopA89EikPX5ohP) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/38niOCuDsxhw0jIGL6Q2Ph) | 3:40 | 2022-04-28 | 2022-06-17 |
+| [Freedom Road](https://open.spotify.com/track/5zRlD6bPTJI0zBvqMJ2H95) | [Indra Rios\-Moore](https://open.spotify.com/artist/43WX6yWKK6qAqKCr2d3yw9) | [Freedom Road](https://open.spotify.com/album/3fN5DXHpo9ut4TmVAouTRG) | 3:43 | 2022-09-01 |  |
 | [Frevo](https://open.spotify.com/track/17mGXmgPu7Igz7Rf0wU4ao) | [David Helbock](https://open.spotify.com/artist/0vL5aeUgB40QfmprJKhpOq), [Camille Bertault](https://open.spotify.com/artist/7Dg9vuKpfUPSsWslQ4dm3n) | [Playground](https://open.spotify.com/album/6WrMwhwxjA82NlCPmluULH) | 5:07 | 2022-05-26 |  |
 | [Hallelujah, I Love Him So \- First Sessions Outtake](https://open.spotify.com/track/1P8IC0DO01A93VHjQGHEIW) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Hallelujah, I Love Him So / Spring Can Really Hang You Up The Most / Come Away With Me](https://open.spotify.com/album/2E8I6DjTIdq7GITlFrnNEq) | 3:05 | 2022-04-14 | 2022-07-29 |
 | [Hallelujah, I Love Him So \- First Sessions Outtake](https://open.spotify.com/track/1QLBKel4BFnZIk6VTQiiqY) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:05 | 2022-07-21 |  |
 | [Home](https://open.spotify.com/track/1ofGBwyRKtNKRi6NXRz1tg) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Dylan Jones](https://open.spotify.com/artist/4XoX7Wk4oPECLHHbGNMfhG) | [Motherland Journey](https://open.spotify.com/album/1Ot6KlRfnV6vGwcQPpr6eg) | 3:35 | 2022-04-14 | 2022-06-03 |
-| [I Feel Foolish](https://open.spotify.com/track/1Ro0NNRNJVgRfPZFzHwjh0) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [I Feel Foolish](https://open.spotify.com/album/6NBxi7pcmiS31iVIsq7AH3) | 3:09 | 2022-04-14 |  |
+| [I Feel Foolish](https://open.spotify.com/track/1Ro0NNRNJVgRfPZFzHwjh0) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [I Feel Foolish](https://open.spotify.com/album/6NBxi7pcmiS31iVIsq7AH3) | 3:09 | 2022-04-14 | 2022-09-02 |
 | [I Get A Kick Out Of You](https://open.spotify.com/track/6uRUfwEJuXbmIqwPiOKaVy) | [Nikki Yanofsky](https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi) | [I Get A Kick Out Of You](https://open.spotify.com/album/5XPgqAzI6atpfpxdzK17p0) | 2:41 | 2022-08-25 |  |
 | [I Wanna](https://open.spotify.com/track/61A6308e5tKhzjux8izA0m) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [I Wanna](https://open.spotify.com/album/470Kz5BJ7kw59izc0Kn4p9) | 3:42 | 2022-06-02 |  |
 | [I'm in a Mess \(feat\. Samara Joy\)](https://open.spotify.com/track/0mlPTJtrfFyrm2RZOI4naT) | [Pasquale Grasso](https://open.spotify.com/artist/7M6Meoc3uCzIyRP7V8HQQY), [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Be\-Bop!](https://open.spotify.com/album/3Iq2Xv9Gsp18CytuKVtOWJ) | 2:54 | 2022-06-30 |  |

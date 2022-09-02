@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 1960s.
 
-171 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/5ZoqYR2lavGnY9ro4aXkn7)
+172 songs - 7 hr 42 min - [published](https://open.spotify.com/playlist/5ZoqYR2lavGnY9ro4aXkn7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,8 @@
 | [Surf City \- Remastered 1990/Stereo Remix](https://open.spotify.com/track/4ZzXPeOfMXk0iKNQGdlzDq) | [Jan & Dean](https://open.spotify.com/artist/0pqGj6vO9YHsXuZmaJaP2Y) | [Surf City: The Best Of Jan & Dean](https://open.spotify.com/album/1q3jhhU1DSw1zNAoeyhCsE) | 2:43 | 2021-12-21 |  |
 | [Surfin' Bird](https://open.spotify.com/track/7EjyzZcbLxW7PaaLua9Ksb) | [The Trashmen](https://open.spotify.com/artist/5QEA3sofVt5QckQA6QX2nN) | [Full Metal Jacket \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF) | 2:17 | 2021-04-07 |  |
 | [Surfin' U.S.A\. \- Remastered 2001](https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfin' USA \(Remastered\)](https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI) | 2:29 | 2021-04-07 |  |
-| [Sweet Soul Music](https://open.spotify.com/track/0pvA063uNyGQFp7DNtmk0P) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Rhino Hi\-Five: Arthur Conley](https://open.spotify.com/album/6dYQhuDC49jXh7YvTtb0oT) | 2:21 | 2021-04-07 |  |
+| [Sweet Soul Music](https://open.spotify.com/track/0pvA063uNyGQFp7DNtmk0P) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Rhino Hi\-Five: Arthur Conley](https://open.spotify.com/album/6dYQhuDC49jXh7YvTtb0oT) | 2:21 | 2021-04-07 | 2022-09-02 |
+| [Sweet Soul Music](https://open.spotify.com/track/2YuIyYri67bgUXKQW5V9XW) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Sweet Soul Music](https://open.spotify.com/album/2fZ5TzqZjIWEAP5T9ktlBC) | 2:21 | 2022-06-16 |  |
 | [Take Good Care Of My Baby](https://open.spotify.com/track/06JokgprGDKrtZ1eP6z2CQ) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [Take Good Care Of My Baby](https://open.spotify.com/album/4yB0nAAZLuRNK4xdme2axu) | 2:29 | 2021-04-07 |  |
 | [Tell Him \- Single Version](https://open.spotify.com/track/7rGOWzo4evAQQ2FzrSKp0B) | [The Exciters](https://open.spotify.com/artist/2GF1B0GIaFrLFLdfH6ufRO) | [Tell Him](https://open.spotify.com/album/1i2c4K7HnASzLOo6cagJVg) | 2:36 | 2021-04-07 |  |
 | [The Hippy Hippy Shake](https://open.spotify.com/track/3CQRcM0crUAiZUf1n51ecD) | [The Swinging Blue Jeans](https://open.spotify.com/artist/5gNduPlUGHsgy1w7f71obH) | [The EMI Years \- Best Of The Swinging Blue Jeans](https://open.spotify.com/album/7fpIPCHQxBjahH7mfMiylL) | 1:46 | 2021-04-07 | 2022-07-29 |

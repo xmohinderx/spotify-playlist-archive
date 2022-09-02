@@ -1025,6 +1025,24 @@
     {
       "album": {
         "name": "A Chance To Cut Is A Chance To Cure",
+        "url": "https://open.spotify.com/album/6Ny98g8gtVeMwN6TtWmYXs"
+      },
+      "artists": [
+        {
+          "name": "Matmos",
+          "url": "https://open.spotify.com/artist/0xBkYJzwFzcIYev4fOkvk0"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 601000,
+      "name": "California Rhinoplasty",
+      "url": "https://open.spotify.com/track/0D9JHNhezKgTaU093ijP0k"
+    },
+    {
+      "album": {
+        "name": "A Chance To Cut Is A Chance To Cure",
         "url": "https://open.spotify.com/album/1g9Acy5gJWRBbybCQyMPzV"
       },
       "artists": [
@@ -4657,7 +4675,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 306779,
       "name": "Norton Midgate",
       "url": "https://open.spotify.com/track/1IqnlaTGdTGyJ6aDhP3Bjw"

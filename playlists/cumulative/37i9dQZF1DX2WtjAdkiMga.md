@@ -4,7 +4,7 @@
 
 > Soft piano versions of jazz classics to lull your baby to sleep.
 
-80 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/3lfP3rLqd7IKI2XgczwAsS)
+81 songs - 4 hr 21 min - [published](https://open.spotify.com/playlist/3lfP3rLqd7IKI2XgczwAsS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Very Early](https://open.spotify.com/track/233mHTkvc7567uCXc7XsHR) | [Ottilie Lebau](https://open.spotify.com/artist/361nXBd8zOp4m6PB7Gjnie) | [Very Early](https://open.spotify.com/album/0Gdo0WpxqvA4s8UGxFO3Hf) | 2:10 | 2022-04-12 |  |
 | [What a Difference a Day Made](https://open.spotify.com/track/4CameIqIIPcQzNgIY4iCXi) | [Jazz for Babies](https://open.spotify.com/artist/6HTqDlK6LS0Ju7P58XXW2T) | [The Piano Album](https://open.spotify.com/album/0eBs49NdPsqdca0VztAB4K) | 3:07 | 2022-04-12 | 2022-06-23 |
 | [What a Difference a Day Makes](https://open.spotify.com/track/2leHkcbJyZho0oEWfCzt11) | [Ted Gaupt](https://open.spotify.com/artist/3VhxsWlOY8nQqDOZG6Mq4c) | [Twinkle Twinkle Little Star](https://open.spotify.com/album/5d32AriMFyj1woEPOUoNMz) | 2:58 | 2022-06-22 |  |
+| [What A Wonderful World](https://open.spotify.com/track/5QbNsaI7NnYa5OzOdkmpWm) | [Benjamin Thorpe](https://open.spotify.com/artist/17kwSCj2gRfzyMYDXjCUbr) | [What A Wonderful World](https://open.spotify.com/album/5quM0S9KSStVWz27lzY2if) | 2:49 | 2022-09-01 |  |
 | [When I Fall In Love](https://open.spotify.com/track/5aKLhm6lm80cPCxtDe1COc) | [Brian Steely](https://open.spotify.com/artist/0cGKzVNDNf7hIfWCrgo1o1) | [When I Fall In Love](https://open.spotify.com/album/1CW5u2uj8yBtt0v4da7dyC) | 2:48 | 2022-04-12 | 2022-04-27 |
 | [When I Fall In Love](https://open.spotify.com/track/2vl0caBQsMuH4bqvDhj8Ub) | [Janine Armstrong](https://open.spotify.com/artist/41t6NJqycI6qMpqTQkzybq) | [When I Fall in Love](https://open.spotify.com/album/1u9AjdFUJ82xNT7JwUVKR0) | 3:30 | 2022-04-26 |  |
 | [When We Meet Again](https://open.spotify.com/track/71vWUMeyrgikHr6MwkUpCv) | [Ellie Manne](https://open.spotify.com/artist/64pmY5ar3DraFZpBJcrvZf) | [When We Meet Again](https://open.spotify.com/album/6vOUy7BcO38Yzd8Sfepaqm) | 2:47 | 2022-04-12 |  |

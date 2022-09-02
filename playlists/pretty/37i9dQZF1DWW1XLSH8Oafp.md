@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring DJ Planet Express
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,783 likes - 105 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,948 likes - 105 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

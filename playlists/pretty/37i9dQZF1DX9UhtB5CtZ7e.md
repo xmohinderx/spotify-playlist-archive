@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9UhtB5CtZ7e.md) - [plain]
 
 > Cozy and sweet songs guaranteed to shield you from the blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,688 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,693 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9UhtB5CtZ7e.md) - [plain]
 | 70 | [Nico's Red Truck](https://open.spotify.com/track/4zHC1zzSAV2xR7OlUqo2Oz) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Nico's Red Truck](https://open.spotify.com/album/78GSLFGpqG8ra9QXiRsqpd) | 4:08 |
 | 71 | [Bless the Telephone](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Singer & The Song](https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH) | 1:40 |
 | 72 | [I Wish I Was the Moon](https://open.spotify.com/track/4PxzGOH79jcmmldKgoI9sB) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Blacklisted](https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU) | 3:34 |
-| 73 | [Outta Time](https://open.spotify.com/track/3usFKA7XXOtaIqDdH6mUx9) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco](https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I) | 4:18 |
-| 74 | [I Want a Little Sugar In My Bowl](https://open.spotify.com/track/3NcJu9876GBJuNU6vJOrbb) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings The Blues \(Expanded Edition\)](https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2) | 2:32 |
+| 73 | [I Want a Little Sugar In My Bowl](https://open.spotify.com/track/3NcJu9876GBJuNU6vJOrbb) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings The Blues \(Expanded Edition\)](https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2) | 2:32 |
+| 74 | [Outta Time](https://open.spotify.com/track/3usFKA7XXOtaIqDdH6mUx9) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco](https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I) | 4:18 |
 | 75 | [I'll Come Too](https://open.spotify.com/track/6EvUAsfncetT0RcWshHCbl) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Assume Form](https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L) | 3:42 |
 
-Snapshot ID: `MTY1OTM2NTY2MywwMDAwMDAwMDZmZGU4OWNlODc1N2E3OWViZjcxZDczMTA1MzQwYWZh`
+Snapshot ID: `MTY1OTM2NTY2MywwMDAwMDAwMDk2NzQyZGRmZmJkODg2NDFjZTQ1ZDMxODZiNTljNjMz`

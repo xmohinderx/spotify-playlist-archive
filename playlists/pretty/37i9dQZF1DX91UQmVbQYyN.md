@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91UQmVbQYyN.md) - [plain]
 
 > Some of the most mesmerizing voices and masterful musicians of indie\. Cover: Florence + The Machine
 
-[Spotify](https://open.spotify.com/user/spotify) - 496,421 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 496,112 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91UQmVbQYyN.md) - [plain]
 | 41 | [Genesis](https://open.spotify.com/track/3cjvqsvvU80g7WJPMVh8iq) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM) | 4:15 |
 | 42 | [Photo ID](https://open.spotify.com/track/0bhciG1J5Mn3aIfPjvHQIe) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [I'm Allergic To Dogs!](https://open.spotify.com/album/23JijmRgLWloEMnFUwHJa2) | 4:25 |
 | 43 | [Female Energy, Part 2](https://open.spotify.com/track/0W95eMaAxNVYTquOsXXkC5) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [WILLOW](https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj) | 2:53 |
-| 44 | [In The Waiting Line](https://open.spotify.com/track/5ARrtxJLVCeTv5TWo1oKgC) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sophie Barker](https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2) | [Simple Things](https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH) | 4:31 |
-| 45 | [Guilty Conscience](https://open.spotify.com/track/0smgkpVia3VCXgY4qhVJvp) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Modus Vivendi](https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU) | 3:33 |
+| 44 | [Guilty Conscience](https://open.spotify.com/track/0smgkpVia3VCXgY4qhVJvp) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Modus Vivendi](https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU) | 3:33 |
+| 45 | [In The Waiting Line](https://open.spotify.com/track/5ARrtxJLVCeTv5TWo1oKgC) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sophie Barker](https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2) | [Simple Things](https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH) | 4:31 |
 | 46 | [Roads](https://open.spotify.com/track/2sW8fmnISifQTRgnRrQTYW) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 5:03 |
 | 47 | [cellophane](https://open.spotify.com/track/7x8pIrhMu9FCmqqHNyuH0P) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [MAGDALENE](https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ) | 3:24 |
 | 48 | [Cranes in the Sky](https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [A Seat at the Table](https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM) | 4:10 |
@@ -83,20 +83,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91UQmVbQYyN.md) - [plain]
 | 73 | [Seventeen](https://open.spotify.com/track/5jZoYp0P8ML7AxkS3tQz3j) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remind Me Tomorrow](https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t) | 4:25 |
 | 74 | [Teen Age Riot \(Album Version\)](https://open.spotify.com/track/0WIbzDVEpmOyBnqqdtqIL9) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Daydream Nation \(Deluxe Edition\)](https://open.spotify.com/album/23O4F21GDWiGd33tFN3ZgI) | 6:57 |
 | 75 | [Closer](https://open.spotify.com/track/4dTVgHZFPlaq9nPbLVVLSG) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Heartthrob](https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX) | 3:29 |
-| 76 | [Across the Universe](https://open.spotify.com/track/6ZQgooEk8PvsLxedYaT6Oa) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Pleasantville \-Music From The Motion Picture](https://open.spotify.com/album/3QofKE2yZcsjKOUw6fyyn3) | 5:07 |
-| 77 | [Ritual Union](https://open.spotify.com/track/5uTjNzGKCQ50synrf9dWmT) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Ritual Union](https://open.spotify.com/album/1BQVdofe7ROnSoaiC9418p) | 3:30 |
-| 78 | [Souvenir](https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 3:32 |
-| 79 | [Care For You](https://open.spotify.com/track/2CBtdZVcpSwaxOcLUi1AGo) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Care For You](https://open.spotify.com/album/4ENFZsf6OIKxck9I6gUwrk) | 2:36 |
+| 76 | [Care For You](https://open.spotify.com/track/2CBtdZVcpSwaxOcLUi1AGo) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Care For You](https://open.spotify.com/album/4ENFZsf6OIKxck9I6gUwrk) | 2:36 |
+| 77 | [Across the Universe](https://open.spotify.com/track/6ZQgooEk8PvsLxedYaT6Oa) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Pleasantville \-Music From The Motion Picture](https://open.spotify.com/album/3QofKE2yZcsjKOUw6fyyn3) | 5:07 |
+| 78 | [Ritual Union](https://open.spotify.com/track/5uTjNzGKCQ50synrf9dWmT) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Ritual Union](https://open.spotify.com/album/1BQVdofe7ROnSoaiC9418p) | 3:30 |
+| 79 | [Souvenir](https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 3:32 |
 | 80 | [concussion](https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [concussion](https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2) | 4:37 |
 | 81 | [Oh No](https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Oh No / Liahr](https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f) | 2:44 |
-| 82 | [The Barrel](https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI) | 4:59 |
-| 83 | [The Wire](https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone](https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf) | 4:05 |
-| 84 | [Paper Thin](https://open.spotify.com/track/7kC97zPE0PxrcItXyGdk8P) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 4:58 |
+| 82 | [Paper Thin](https://open.spotify.com/track/7kC97zPE0PxrcItXyGdk8P) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 4:58 |
+| 83 | [The Barrel](https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI) | 4:59 |
+| 84 | [The Wire](https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone](https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf) | 4:05 |
 | 85 | [Kissing Lessons](https://open.spotify.com/track/3KRdLDjxlAY7ku93tOG0b1) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Kissing Lessons](https://open.spotify.com/album/0uXVaGNDshKcJr0CXlWeYj) | 1:54 |
-| 86 | [Now & Then](https://open.spotify.com/track/41oqThgUF4yiNz77TazXtl) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Now & Then](https://open.spotify.com/album/6uR4bPGGdQHDphbyubK9zc) | 3:25 |
-| 87 | [anything](https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:22 |
-| 88 | [Bunny Is A Rider](https://open.spotify.com/track/1rYABrDmfqVmJMwaNJBUUb) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Bunny Is A Rider](https://open.spotify.com/album/2cwOa6RStGRanie22to0NO) | 3:17 |
-| 89 | [Beggin For Thread](https://open.spotify.com/track/4PvD06Pmbm2rHG2JjSlElF) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess \(Deluxe\)](https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah) | 4:09 |
+| 86 | [anything](https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:22 |
+| 87 | [Now & Then](https://open.spotify.com/track/41oqThgUF4yiNz77TazXtl) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Now & Then](https://open.spotify.com/album/6uR4bPGGdQHDphbyubK9zc) | 3:25 |
+| 88 | [Beggin For Thread](https://open.spotify.com/track/4PvD06Pmbm2rHG2JjSlElF) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess \(Deluxe\)](https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah) | 4:09 |
+| 89 | [Bunny Is A Rider](https://open.spotify.com/track/1rYABrDmfqVmJMwaNJBUUb) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Bunny Is A Rider](https://open.spotify.com/album/2cwOa6RStGRanie22to0NO) | 3:17 |
 | 90 | [Heads Will Roll](https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj) | 3:41 |
 | 91 | [Ghosts](https://open.spotify.com/track/3LHg768dEKqJKht2uPTlVR) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Alas I Cannot Swim](https://open.spotify.com/album/1P3B7c85W4mTXHk0fafGw2) | 2:59 |
 | 92 | [Burning](https://open.spotify.com/track/68vxG1i6RSmrsY9mRdqDgG) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91UQmVbQYyN.md) - [plain]
 | 99 | [Road Head](https://open.spotify.com/track/5rQEom98vgByjAZ4kIw2kL) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Soft Sounds from Another Planet](https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua) | 3:15 |
 | 100 | [Groceries](https://open.spotify.com/track/3II5NhDhjzIessLfaSjPQn) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [In the Sky](https://open.spotify.com/album/0WuS7pRWpHnsSjOqizOZix) | 3:37 |
 
-Snapshot ID: `MTY0ODA2OTA4MywwMDAwMDAwMGE1YzgyZThhMTM3MDdhMjEyNzI0YjI5M2EyM2JjMmJk`
+Snapshot ID: `MTY0ODA2OTA4MywwMDAwMDAwMDQwMDE0NDIxYjQzOTNlMjA2NjRlNGZiYzI5NzU5ZDVk`

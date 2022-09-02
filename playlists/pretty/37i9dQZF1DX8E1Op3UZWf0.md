@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8E1Op3UZWf0.md) - [plain]
 
 > Start the day with a morning run together with these easy and joyful tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,280 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,216 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8E1Op3UZWf0.md) - [plain]
 | 6 | [Hey, Soul Sister](https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Save Me, San Francisco \(Golden Gate Edition\)](https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR) | 3:36 |
 | 7 | [Cake By The Ocean](https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [DNCE](https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh) | 3:39 |
 | 8 | [A Sky Full of Stars](https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 4:27 |
-| 9 | [Unforgettable](https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Jungle Rules](https://open.spotify.com/album/4c2p3TdN7NcQfCXyueCNnC) | 3:53 |
+| 9 | [One Last Time](https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 3:17 |
 | 10 | [Passionfruit](https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 4:58 |
-| 11 | [One Last Time](https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 3:17 |
+| 11 | [Unforgettable](https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Jungle Rules](https://open.spotify.com/album/4c2p3TdN7NcQfCXyueCNnC) | 3:53 |
 | 12 | [Sorry](https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:20 |
 | 13 | [Feels \(feat\. Pharrell Williams, Katy Perry & Big Sean\)](https://open.spotify.com/track/5bcTCxgc7xVfSaMV3RuVke) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Funk Wav](https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk) | [Funk Wav Bounces Vol.1](https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0) | 3:43 |
 | 14 | [Animals](https://open.spotify.com/track/2bL2gyO6kBdLkNSkxXNh6x) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) | 3:51 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8E1Op3UZWf0.md) - [plain]
 | 30 | [Pompeii](https://open.spotify.com/track/4Ub8UsjWuewQrPhuepfVpd) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:34 |
 | 31 | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/track/0hVXuCcriWRGvwMV1r5Yn9) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:39 |
 | 32 | [Can't Get You out of My Head](https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu) | 3:50 |
-| 33 | [Never Forget You](https://open.spotify.com/track/6hmhG1b4LEyNuashVvuIAo) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:33 |
-| 34 | [Fast Car](https://open.spotify.com/track/1SN1vSPsr4V4tIUTR3s8YW) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Dakota](https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 3:32 |
+| 33 | [Fast Car](https://open.spotify.com/track/1SN1vSPsr4V4tIUTR3s8YW) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Dakota](https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 3:32 |
+| 34 | [Never Forget You](https://open.spotify.com/track/6hmhG1b4LEyNuashVvuIAo) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:33 |
 | 35 | [Good Life](https://open.spotify.com/track/6OtCIsQZ64Vs1EbzztvAv4) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up](https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr) | 4:13 |
 | 36 | [Lose Somebody](https://open.spotify.com/track/1sgDyuLooyvEML4oHspNza) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Golden Hour](https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ) | 3:19 |
 | 37 | [Slide \(feat\. Frank Ocean & Migos\)](https://open.spotify.com/track/6gpcs5eMhJwax4mIfKDYQk) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Slide \(feat\. Frank Ocean & Migos\)](https://open.spotify.com/album/1UIlzhqJLiA3f6OVw7QKn6) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8E1Op3UZWf0.md) - [plain]
 | 49 | [Younger \- Kygo Remix](https://open.spotify.com/track/7vHshinTU8161w69EPbabY) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Pretend](https://open.spotify.com/album/7g2ZA4JCgG8Jxr67i23xlz) | 5:51 |
 | 50 | [Stargazing](https://open.spotify.com/track/0Zbbxnx4SGGHoIow4PpISP) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu) | [Stargazing \- EP](https://open.spotify.com/album/2sPYPyDFwgi1jrRTGhoxq2) | 3:56 |
 
-Snapshot ID: `MTY2MTQ4ODc0MCwwMDAwMDAwMGMzYmE1MjJkNjEwMjcyYTdhMGEwMmZjY2ViZDVlMTQz`
+Snapshot ID: `MTY2MTQ4ODc0MCwwMDAwMDAwMDBjYzQxY2QwODE1NTczYzFiNTYxZGI1OTMxYWE0Yzdl`

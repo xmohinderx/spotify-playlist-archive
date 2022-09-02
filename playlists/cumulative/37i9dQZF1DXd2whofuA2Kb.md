@@ -4,7 +4,7 @@
 
 > Because once you were a hipster, and now you are an indie parent.
 
-166 songs - 10 hr 38 min - [published](https://open.spotify.com/playlist/5sxtaGLtxNfp0BcsVlc1FL)
+167 songs - 10 hr 40 min - [published](https://open.spotify.com/playlist/5sxtaGLtxNfp0BcsVlc1FL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [ocean eyes](https://open.spotify.com/track/2uIX8YMNjGMD7441kqyyNU) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Ocean Eyes](https://open.spotify.com/album/2msN7XBgV3JCjQ7Tq3t7i9) | 3:20 | 2022-01-10 |  |
 | [Ohio](https://open.spotify.com/track/44VMIYttRMiruEmIObpz7P) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Upside Down Flowers](https://open.spotify.com/album/4ouZLB0SjZPBonKUKDaT5w) | 4:08 | 2022-01-10 | 2022-07-29 |
 | [Pachuca Sunrise](https://open.spotify.com/track/5UMC0HkqpmwarA1HZ7z3Ck) | [Minus the Bear](https://open.spotify.com/artist/0YQBN02bmZvwGNrrWsg2sT) | [Menos El Oso](https://open.spotify.com/album/3ZJ1AdjAip2Lf0dHwpQui2) | 3:35 | 2022-01-10 | 2022-07-29 |
-| [Paper Bag](https://open.spotify.com/track/0IVkP59yJ9GFF6B7IrvrxA) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [When The Pawn...](https://open.spotify.com/album/3o5EnVZNJXtfPV8tCoagjI) | 3:39 | 2022-01-10 |  |
+| [Paper Bag](https://open.spotify.com/track/0IVkP59yJ9GFF6B7IrvrxA) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [When The Pawn...](https://open.spotify.com/album/3o5EnVZNJXtfPV8tCoagjI) | 3:39 | 2022-01-10 | 2022-09-02 |
 | [Playground Love](https://open.spotify.com/track/052z2UsE2wPrHsBJ9tly0g) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ), [Gordon Tracks](https://open.spotify.com/artist/4DWl8U58uYeeTtlvbrLEY6) | [The Virgin Suicides \(Original Motion Picture Score\)](https://open.spotify.com/album/2E1q8eohZZ1BUQ7Bq5WUIY) | 3:31 | 2022-01-10 | 2022-07-12 |
 | [Please, Please, Please, Let Me Get What I Want \- 2011 Remaster](https://open.spotify.com/track/6BrMEbPSSj55nQhkgf6DnE) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Hatful of Hollow](https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv) | 1:52 | 2022-01-10 |  |
 | [Pompeii](https://open.spotify.com/track/3gbBpTdY8lnQwqxNCcf795) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Bad Blood](https://open.spotify.com/album/64fQ94AVziavTPdnkCS6Nj) | 3:34 | 2022-01-10 |  |
@@ -166,6 +166,7 @@
 | [Welcome Home, Son](https://open.spotify.com/track/6HTVZeVQ9J6Uiq6tHESxU9) | [Radical Face](https://open.spotify.com/artist/5EM6xJN2QNk0cL7EEm9HR9) | [Ghost](https://open.spotify.com/album/3kN131kyymtaEFQo14tfLr) | 4:47 | 2022-01-10 |  |
 | [when the party’s over](https://open.spotify.com/track/0U9oiRl4hYwORmWwkYihZN) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Covers](https://open.spotify.com/album/7saSlN9qdW5wKoN4M9nNRq) | 3:13 | 2022-01-10 | 2022-04-20 |
 | [Where Is My Mind? \- Remastered](https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa](https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9) | 3:54 | 2022-01-10 |  |
+| [White Winter Hymnal](https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) | 2:27 | 2022-01-10 |  |
 | [White Winter Hymnal](https://open.spotify.com/track/4XTuSMs47SIg35KxhNIUGe) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/1rfgmU0AYNwWfS88pCOlX7) | 2:27 | 2022-01-10 | 2022-07-29 |
 | [Wolf Like Me](https://open.spotify.com/track/03wKMRNYVvw6s9nm4I4jUS) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Return To Cookie Mountain](https://open.spotify.com/album/7xn8nwwutlJFMb7Zf9NEHi) | 4:39 | 2022-01-10 | 2022-07-29 |
 | [Wraith Pinned to the Mist and Other Games](https://open.spotify.com/track/24HPkbkXJsIFC4eyg63zgQ) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [The Sunlandic Twins](https://open.spotify.com/album/3KiG3LEjXyAt9IPEcjreia) | 4:15 | 2022-01-10 | 2022-07-29 |

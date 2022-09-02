@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3R7OWWGN4gH.md) - [plain]
 
 > entering my reputation era 🐍
 
-[Spotify](https://open.spotify.com/user/spotify) - 626,299 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,583 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,15 +88,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3R7OWWGN4gH.md) - [plain]
 | 78 | [Freak \(feat\. REI AMI\)](https://open.spotify.com/track/5jkbw3FDS3bSSb4oLKYbjf) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [Thrill Seeker](https://open.spotify.com/album/0PTvzABaWDvafuJ8MZplha) | 3:14 |
 | 79 | [STUPID \(feat\. Yung Baby Tate\)](https://open.spotify.com/track/6qNB2ChCVPepl5ZjVJJTUW) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Hi, It's Me](https://open.spotify.com/album/5eKuModdAdZRmc51241r4D) | 2:47 |
 | 80 | [Emperor's New Clothes](https://open.spotify.com/track/3px2rAPu74ltbkf9eZsZ8h) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 2:38 |
-| 81 | [People I Don't Like](https://open.spotify.com/track/5srKMwXoeyrRnyTnNbpgIW) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [People I Don't Like](https://open.spotify.com/album/56c9o6LVrsm995xmDpAZrA) | 2:22 |
-| 82 | [Glitter & Gold](https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [The Attractions Of Youth](https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl) | 2:56 |
-| 83 | [Babooshka \- 2018 Remaster](https://open.spotify.com/track/6VpNGCU2ig4NQmsLfALdJU) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt) | 3:19 |
-| 84 | [Killer Queen \- Remastered 2011](https://open.spotify.com/track/7GqWnsKhMtEW0nzki5o0d8) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Sheer Heart Attack \(Deluxe Remastered Version\)](https://open.spotify.com/album/6RJyYMIrOtx3VnNIoq31kj) | 2:59 |
+| 81 | [Glitter & Gold](https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [The Attractions Of Youth](https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl) | 2:56 |
+| 82 | [People I Don't Like](https://open.spotify.com/track/5srKMwXoeyrRnyTnNbpgIW) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [People I Don't Like](https://open.spotify.com/album/56c9o6LVrsm995xmDpAZrA) | 2:22 |
+| 83 | [Killer Queen \- Remastered 2011](https://open.spotify.com/track/7GqWnsKhMtEW0nzki5o0d8) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Sheer Heart Attack \(Deluxe Remastered Version\)](https://open.spotify.com/album/6RJyYMIrOtx3VnNIoq31kj) | 2:59 |
+| 84 | [Babooshka \- 2018 Remaster](https://open.spotify.com/track/6VpNGCU2ig4NQmsLfALdJU) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt) | 3:19 |
 | 85 | [Who Is She ?](https://open.spotify.com/track/6AdgGDGbdRMoCVkGye11Zw) | [I Monster](https://open.spotify.com/artist/1CcPlAmcnJjC4FnaPVzv2v) | [Neveroddoreven](https://open.spotify.com/album/4qD7h4hXvmKT49wDrN2kLE) | 3:33 |
 | 86 | [Break My Heart Myself \(feat\. Travis Barker\)](https://open.spotify.com/track/3UjGudrhckjEQjKHLR3p5G) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Better Mistakes](https://open.spotify.com/album/0ypVp54cO3kexiJNu33wYp) | 2:31 |
-| 87 | [Potential Breakup Song](https://open.spotify.com/track/11dxtPJKR4E0wlSr0A0t47) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Insomniatic](https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6) | 3:39 |
-| 88 | [The Red Means I Love You](https://open.spotify.com/track/5pLbM4PU1wZyMvoQyEAorp) | [Madds Buckley](https://open.spotify.com/artist/4BLdbgVNetzII3ggCMsNtq) | [The Red Means I Love You](https://open.spotify.com/album/0m4Okss4lEAUYKrrXxIy1E) | 3:53 |
-| 89 | [Drugs](https://open.spotify.com/track/06ioYJ99HHjzRk8HrGfkKS) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Drugs](https://open.spotify.com/album/46S95aTUFWSVmRmDKAGnFf) | 2:35 |
+| 87 | [Drugs](https://open.spotify.com/track/06ioYJ99HHjzRk8HrGfkKS) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Drugs](https://open.spotify.com/album/46S95aTUFWSVmRmDKAGnFf) | 2:35 |
+| 88 | [Potential Breakup Song](https://open.spotify.com/track/11dxtPJKR4E0wlSr0A0t47) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Insomniatic](https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6) | 3:39 |
+| 89 | [The Red Means I Love You](https://open.spotify.com/track/5pLbM4PU1wZyMvoQyEAorp) | [Madds Buckley](https://open.spotify.com/artist/4BLdbgVNetzII3ggCMsNtq) | [The Red Means I Love You](https://open.spotify.com/album/0m4Okss4lEAUYKrrXxIy1E) | 3:53 |
 | 90 | [Dangerous Woman](https://open.spotify.com/track/6RUhbFEhrvGISaQ8u2j2JN) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7) | 3:55 |
 | 91 | [Happier Than Ever](https://open.spotify.com/track/4sRoiXZBLpiRIklm2wy0WZ) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Happier Than Ever](https://open.spotify.com/album/6Yg2WbhAn0F3vFiwFnC7wO) | 4:14 |
 | 92 | [Class Fight](https://open.spotify.com/track/37pf8jSeCGlzgQPIfVHO6X) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [K\-12](https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c) | 2:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3R7OWWGN4gH.md) - [plain]
 | 99 | [Candy Store](https://open.spotify.com/track/13Soih2NRLeDx8Unbr22mx) | [Jessica Keenan Wynn](https://open.spotify.com/artist/5U2zidY0OdTB6P5axinwOZ), [Alice Lee](https://open.spotify.com/artist/5pESuWfJEKxJdEEhZKFDC5), [Elle McLemore](https://open.spotify.com/artist/6Mbytr4DD854L4vp4J1LEj) | [Heathers: The Musical \(World Premiere Cast Recording\)](https://open.spotify.com/album/6EIxlDI9fMtooJ1H3toRFO) | 2:52 |
 | 100 | [Don't Lose Ur Head](https://open.spotify.com/track/6sUQqRmOcRyAG5M3EWXzr3) | [SIX](https://open.spotify.com/artist/1VbWMsap5Ex2erHPlmndr0), [Christina Modestou](https://open.spotify.com/artist/21uejta558No7qYG1Nmwn7) | [Six: The Musical \(Studio Cast Recording\)](https://open.spotify.com/album/5jTDaLFNQovRyjNcWe4cZh) | 4:05 |
 
-Snapshot ID: `MTY2MTk1NTg5NCwwMDAwMDAwMGNkNDllZDY1NTUzZmQzMTIzZmNhYjI1M2I5MTRhYTQ5`
+Snapshot ID: `MTY2MTk1NTg5NCwwMDAwMDAwMDA5N2IxODY3OWYyYzliZDRkMTU4NWY1NTQ2MzFjMGM3`

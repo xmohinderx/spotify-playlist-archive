@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 
 > Dance and Electronic tracks for the season <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,053 likes - 37 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,990 likes - 37 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 | 30 | [Wonderful Time](https://open.spotify.com/track/1wdnIgVKUpEIpNSvhLta3N) | [NOVA WAV](https://open.spotify.com/artist/0jpR7qZMbdtF352G2icmtM), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Wonderful Time](https://open.spotify.com/album/0i2aSmDz2rDQi4sZh4pKxL) | 2:41 |
 | 31 | [I've Got My Love To Keep Me Warm \- Somni Remix](https://open.spotify.com/track/5MMZCaKWXT9yRPBCNgOAhH) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp), [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [I've Got My Love To Keep Me Warm \(Somni Remix\)](https://open.spotify.com/album/6VnBYqwkSLjmIXlHMjyd4N) | 2:36 |
 | 32 | [Frosty Bounce](https://open.spotify.com/track/0pi9cfkCshIvp7HH43JzIj) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Angger Dimas](https://open.spotify.com/artist/5tuOpj3ofDA06hxQjvjdGZ), [Nicky Da B](https://open.spotify.com/artist/3wWXYbMxREh97Te2ZN92Wi) | [A Very Decent Christmas](https://open.spotify.com/album/2IjH5xDghPPF4tXn1Mgkph) | 1:44 |
-| 33 | [Cold December](https://open.spotify.com/track/7MhkmIAz4WiJKRxWbjuy7b) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Kaskade Christmas](https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY) | 3:25 |
+| 33 | [Santa Baby \(feat\. Jane XØ\)](https://open.spotify.com/track/54fiilVdAuNruSVmmu1Kh6) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Jane XØ](https://open.spotify.com/artist/5keDbKEPwrbe36cPzRpzsK) | [Kaskade Christmas](https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY) | 3:19 |
 | 34 | [Have Yourself A Merry Little Christmas \- Auxjack Remix](https://open.spotify.com/track/7kHfwWZGNpO6BlunidRzd0) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Auxjack](https://open.spotify.com/artist/26zCMMaITBnpxUsoDnPMeR) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/0OwaoKbTLogu3Q3TW47ruD) | 3:27 |
 | 35 | [Christmas Days](https://open.spotify.com/track/5wOf53iL6wzYqd31jLTmPQ) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Josh Cumbee](https://open.spotify.com/artist/5deoijipwIdBiA27rEj14E) | [Christmas Days](https://open.spotify.com/album/03IuOYxa1LmABJKBIhgKLo) | 3:16 |
 | 36 | [Whim](https://open.spotify.com/track/4ygRwQ51TwtULzMfSBeWLQ) | [Ghost of Christmas](https://open.spotify.com/artist/7Akv2Ot7bWY2ZtJSlLevfD) | [The Difference](https://open.spotify.com/album/57zA28ulk816vLFjPrihMF) | 3:38 |
 | 37 | [Carnival \- Xmas Edition](https://open.spotify.com/track/46DEBWLA2nsbvzrsLTraEF) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4), [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [A Very Decent Christmas 4](https://open.spotify.com/album/71MKwZhqUkB1LRIYjgKH4g) | 3:19 |
 
-Snapshot ID: `MTYzOTcxNzI2MCwwMDAwMDAwMDdkOTI2OWU2YmM4NWMxN2Y2MDc3YWI0OTRkYzMyZmQ3`
+Snapshot ID: `MTYzOTcxNzI2MCwwMDAwMDAwMDQ0MTY1MGYyMWYxN2FjMDBkYjI4MTNmMTY0MDRhYWEz`

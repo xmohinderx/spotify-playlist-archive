@@ -751,7 +751,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 215400,
       "name": "Don't Get Around Much Anymore",
       "url": "https://open.spotify.com/track/0KJRVbEIMIVCjDGZ17jzWP"
@@ -831,6 +831,28 @@
       "duration_ms": 191240,
       "name": "Early Autumn",
       "url": "https://open.spotify.com/track/1tj5ZJB9BhKlIBsi5mhI8b"
+    },
+    {
+      "album": {
+        "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
+        "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        },
+        {
+          "name": "Teddy Wilson",
+          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Easy Living (with Teddy Wilson & His Orchestra)",
+      "url": "https://open.spotify.com/track/3d3aPk50dBMA2YbA7lC92r"
     },
     {
       "album": {
@@ -1954,6 +1976,24 @@
     },
     {
       "album": {
+        "name": "Highlights From His Decca Years",
+        "url": "https://open.spotify.com/album/0OdoPgKwi6l3paYTSFAWkS"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206333,
+      "name": "La vie en rose - Single Version",
+      "url": "https://open.spotify.com/track/3yYfoYGVpriV4fG9L1ogsD"
+    },
+    {
+      "album": {
         "name": "Study In Brown",
         "url": "https://open.spotify.com/album/3158RZskTkHMhPvQICUeQ1"
       },
@@ -2099,7 +2139,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 175493,
       "name": "Long Ago (And Far Away) - Remastered",
       "url": "https://open.spotify.com/track/25ijsdTAjtmPNkGXIscaSe"
@@ -2309,7 +2349,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 236240,
       "name": "Makin' Whoopee",
       "url": "https://open.spotify.com/track/0YgEYSBt2e4BSTIQBhukou"
@@ -2353,6 +2393,24 @@
       "duration_ms": 268040,
       "name": "Mood Indigo",
       "url": "https://open.spotify.com/track/1AXBvep9Ta2XlltmIPw1rm"
+    },
+    {
+      "album": {
+        "name": "Hello, Dolly! (Remastered)",
+        "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179866,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/17gxfuiFUrLhbUKdunxUPJ"
     },
     {
       "album": {

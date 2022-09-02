@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Singapore.
 
-583 songs - 1 day 9 hr 43 min - [published](https://open.spotify.com/playlist/5EotmOQUP2E4ReVZlTzX93)
+584 songs - 1 day 9 hr 46 min - [published](https://open.spotify.com/playlist/5EotmOQUP2E4ReVZlTzX93)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -559,6 +559,7 @@
 | [You Right](https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:06 | 2021-06-27 | 2021-08-06 |
 | [Your Power](https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Your Power](https://open.spotify.com/album/7H3vJa2HHgxb7qqclOdfJ3) | 4:05 | 2021-05-03 | 2021-06-10 |
 | [Yours](https://open.spotify.com/track/10IfXtjKQmOiON7tNAHv0y) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Jirisan \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/2FUiBNFWz47sBPEf3Dcma4) | 4:24 | 2021-11-09 | 2021-11-12 |
+| [YUKON \(INTERLUDE\)](https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi) | 2:21 | 2022-09-01 |  |
 | [ZOO](https://open.spotify.com/track/7eVu7FI02cTicLEgVtUvwF) | [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm), [JENO](https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V), [HENDERY](https://open.spotify.com/artist/5wrZ59w1ndSBlPeUj2f6Fs), [YANGYANG](https://open.spotify.com/artist/5yyf4YDCKGaa71SC7KRw2L), [GISELLE](https://open.spotify.com/artist/2P1id80CMwR5R5cwcyIIAi) | [2021 Winter SMTOWN : SMCU EXPRESS](https://open.spotify.com/album/3dn2in6doTc6zfA0G2UFDZ) | 2:57 | 2022-01-19 | 2022-01-30 |
 | [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 | 2022-04-17 | 2022-07-17 |
 | [你,好不好? \- TVBS連續劇【遺憾拼圖】片尾曲](https://open.spotify.com/track/2gug6MRv4xQFYi9LA3PJCS) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [愛,教會我們的事](https://open.spotify.com/album/4qDKkkL98yqdv85xqYfyUc) | 4:47 | 2021-03-27\* | 2021-07-22 |
@@ -576,7 +577,7 @@
 | [想見你想見你想見你\(電視劇"想見你"片尾曲\)](https://open.spotify.com/track/69zgyr5HVKdInjeKpq1qHa) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM) | [想見你想見你想見你\(電視劇"想見你"片尾曲\)](https://open.spotify.com/album/44M14sRDzNZBtfaSH9Au3i) | 3:59 | 2021-03-27\* | 2021-07-01 |
 | [摯友](https://open.spotify.com/track/1bQHKplf5fkkecalhAgYp0) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [LINK](https://open.spotify.com/album/1nf7xBTx71de6f2EQtusMz) | 5:18 | 2022-05-30 | 2022-06-04 |
 | [最偉大的作品](https://open.spotify.com/track/26vo1FuxIs0rINePq3lOx8) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 4:04 | 2022-07-15 | 2022-08-08 |
-| [最後一堂課 \- 《媽,別鬧了!》影集片尾曲](https://open.spotify.com/track/2OR5FUKy3GQ7I9DCbRnfsW) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [最後一堂課 \(《媽,別鬧了!》影集片尾曲\)](https://open.spotify.com/album/5x6j8vBf5m91MUBEO5Jdxy) | 4:38 | 2022-07-23 |  |
+| [最後一堂課 \- 《媽,別鬧了!》影集片尾曲](https://open.spotify.com/track/2OR5FUKy3GQ7I9DCbRnfsW) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [最後一堂課 \(《媽,別鬧了!》影集片尾曲\)](https://open.spotify.com/album/5x6j8vBf5m91MUBEO5Jdxy) | 4:38 | 2022-07-23 | 2022-09-02 |
 | [死ぬのがいいわ](https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | 3:05 | 2022-08-26 |  |
 | [热爱105°C的你](https://open.spotify.com/track/2tjM7VFWtUzW5udmoGftM1) | [A Si](https://open.spotify.com/artist/4yamiVzQPYBb02ceSu0jaI) | [热爱105°C的你](https://open.spotify.com/album/4XktKsPVpaOckY0CenAJRZ) | 3:15 | 2021-07-01 | 2021-07-02 |
 | [白月光与朱砂痣](https://open.spotify.com/track/74nVCj4vMVemLIs71vXcnP) | [大籽](https://open.spotify.com/artist/2NJLAUSe3Ifk9MiHbddRAi) | [白月光与朱砂痣](https://open.spotify.com/album/22QqokF4etKGtDv3BrNvXK) | 3:24 | 2021-03-27\* | 2021-05-17 |

@@ -45,7 +45,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 401371,
       "name": "B\u1ed9i B\u1ea1c",
       "url": "https://open.spotify.com/track/2DfEemtuJaJw6I683torGg"
@@ -124,24 +124,6 @@
     },
     {
       "album": {
-        "name": "Chuy\u1ec7n Gi\u00e0n Thi\u00ean L\u00fd (T\u00ecnh Kh\u00fac Anh B\u1eb1ng v\u00e0 Tr\u1ea7n Thi\u1ec7n Thanh)",
-        "url": "https://open.spotify.com/album/6dJOzD8ypNEvTQOlaeSpTv"
-      },
-      "artists": [
-        {
-          "name": "Nh\u1eadt Tr\u01b0\u1eddng",
-          "url": "https://open.spotify.com/artist/4jWP1rOO1J3sXq7dQAaEkA"
-        }
-      ],
-      "date_added": "2022-03-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 305349,
-      "name": "Chuy\u00ea\u0323n he\u0323n ho\u0300",
-      "url": "https://open.spotify.com/track/4HpG7NZnDsWSKKyBLfEzYt"
-    },
-    {
-      "album": {
         "name": "Th\u01b0\u01a1ng V\u1ec1 Mi\u1ec1n Trung",
         "url": "https://open.spotify.com/album/3N6nwHtcPzuxlnwWFj4jYA"
       },
@@ -193,6 +175,24 @@
       "duration_ms": 377118,
       "name": "Chuy\u1ebfn \u0110\u00f2 V\u0129 Tuy\u1ebfn",
       "url": "https://open.spotify.com/track/3BUWPABIccs6e9OaO3d8ca"
+    },
+    {
+      "album": {
+        "name": "Chuy\u1ec7n Gi\u00e0n Thi\u00ean L\u00fd (T\u00ecnh Kh\u00fac Anh B\u1eb1ng v\u00e0 Tr\u1ea7n Thi\u1ec7n Thanh)",
+        "url": "https://open.spotify.com/album/6dJOzD8ypNEvTQOlaeSpTv"
+      },
+      "artists": [
+        {
+          "name": "Nh\u1eadt Tr\u01b0\u1eddng",
+          "url": "https://open.spotify.com/artist/4jWP1rOO1J3sXq7dQAaEkA"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305349,
+      "name": "Chuy\u1ec7n h\u1eb9n h\u00f2",
+      "url": "https://open.spotify.com/track/4HpG7NZnDsWSKKyBLfEzYt"
     },
     {
       "album": {
@@ -2303,7 +2303,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 343413,
       "name": "Th\u00e0nh Ph\u1ed1 Bu\u1ed3n",
       "url": "https://open.spotify.com/track/3Mj0vd5trSMH7hdH8NVIOO"

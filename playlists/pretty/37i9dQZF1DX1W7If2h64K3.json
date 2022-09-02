@@ -1,12 +1,12 @@
 {
   "description": "Discover the music of Schumann.",
-  "num_followers": 32753,
+  "num_followers": 32781,
   "original_name": "This Is Schumann",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjMyMDc4MywwMDAwMDAwMDIyOTlmZDg2MDQwNWQ1NDM2NjgzOTlmZjYxYzc5N2M4",
+  "snapshot_id": "MTY1NjMyMDc4MywwMDAwMDAwMGJiMWFkNDliZjRmMWYwY2M1YThkMWMwYzVjZTk5Y2Rl",
   "tracks": [
     {
       "added_at": "2022-06-27 09:06:23",
@@ -395,6 +395,26 @@
     {
       "added_at": "2022-06-27 09:06:23",
       "album": {
+        "name": "Schumann, R.: Kreisleriana / Faschingsschwank Aus Wien",
+        "url": "https://open.spotify.com/album/6QP3t46uYCVcljL3lVQm1z"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "duration_ms": 105000,
+      "name": "Faschingsschwank aus Wien, Op. 26: IV. Intermezzo",
+      "url": "https://open.spotify.com/track/4R75u2TaRktccyVRHrZPqB"
+    },
+    {
+      "added_at": "2022-06-27 09:06:23",
+      "album": {
         "name": "Schumann: Symphony No.4 In D Minor, Op.120 / Dvorak: Symphony No. 8 In G Major, Op. 88",
         "url": "https://open.spotify.com/album/7jYg0obdjvMG4JcF6ptMWm"
       },
@@ -415,26 +435,6 @@
       "duration_ms": 660133,
       "name": "Symphony No.4 In D Minor, Op.120: 1. Ziemlich langsam - Lebhaft",
       "url": "https://open.spotify.com/track/1VuvUzlD0yr6cbWHEiGKOA"
-    },
-    {
-      "added_at": "2022-06-27 09:06:23",
-      "album": {
-        "name": "Schumann, R.: Kreisleriana / Faschingsschwank Aus Wien",
-        "url": "https://open.spotify.com/album/6QP3t46uYCVcljL3lVQm1z"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Jen\u0151 Jand\u00f3",
-          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
-        }
-      ],
-      "duration_ms": 105000,
-      "name": "Faschingsschwank aus Wien, Op. 26: IV. Intermezzo",
-      "url": "https://open.spotify.com/track/4R75u2TaRktccyVRHrZPqB"
     },
     {
       "added_at": "2022-06-27 09:06:23",
@@ -467,26 +467,6 @@
     {
       "added_at": "2022-06-27 09:06:23",
       "album": {
-        "name": "Piano Recital: Kotaro Fukuma",
-        "url": "https://open.spotify.com/album/67NnX49VmU1rb1oQeJJPiH"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Kotaro Fukuma",
-          "url": "https://open.spotify.com/artist/2NXGOKB3pcM9r9W2poWyZK"
-        }
-      ],
-      "duration_ms": 417866,
-      "name": "Theme and Variations on the name Abegg, Op. 1: Abegg Variations, Op. 1",
-      "url": "https://open.spotify.com/track/10MXyf1e2wktLfzvHRHVGD"
-    },
-    {
-      "added_at": "2022-06-27 09:06:23",
-      "album": {
         "name": "Schumann: Symphony No.2; \"Manfred\" Overture; Konzertst\u00fcck for 4 Horns",
         "url": "https://open.spotify.com/album/0wWKS7tKOF2KxpMSURs08f"
       },
@@ -511,8 +491,8 @@
     {
       "added_at": "2022-06-27 09:06:23",
       "album": {
-        "name": "Schumann, R.: Kreisleriana / Waldszenen / Blumenstuck",
-        "url": "https://open.spotify.com/album/7ACtKPpQI4ahJg8tRw6zbj"
+        "name": "Piano Recital: Kotaro Fukuma",
+        "url": "https://open.spotify.com/album/67NnX49VmU1rb1oQeJJPiH"
       },
       "artists": [
         {
@@ -520,13 +500,13 @@
           "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
         },
         {
-          "name": "Paul Gulda",
-          "url": "https://open.spotify.com/artist/3YhVnqwZFmH7JRoGrf6v6N"
+          "name": "Kotaro Fukuma",
+          "url": "https://open.spotify.com/artist/2NXGOKB3pcM9r9W2poWyZK"
         }
       ],
-      "duration_ms": 386893,
-      "name": "Blumenstuck, Op. 19",
-      "url": "https://open.spotify.com/track/7F5eYGRqDcJzGdLz3uOV9A"
+      "duration_ms": 417866,
+      "name": "Theme and Variations on the name Abegg, Op. 1: Abegg Variations, Op. 1",
+      "url": "https://open.spotify.com/track/10MXyf1e2wktLfzvHRHVGD"
     },
     {
       "added_at": "2022-06-27 09:06:23",
@@ -555,8 +535,8 @@
     {
       "added_at": "2022-06-27 09:06:23",
       "album": {
-        "name": "Schubert: Arpeggione Sonata / Schumann: Fantasiestucke",
-        "url": "https://open.spotify.com/album/5UHzBpKCHYZpr04YnJP0vy"
+        "name": "Schumann, R.: Kreisleriana / Waldszenen / Blumenstuck",
+        "url": "https://open.spotify.com/album/7ACtKPpQI4ahJg8tRw6zbj"
       },
       "artists": [
         {
@@ -564,17 +544,13 @@
           "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
         },
         {
-          "name": "Maria Kliegel",
-          "url": "https://open.spotify.com/artist/0SPYS9NzfjFEplX7yD7PsK"
-        },
-        {
-          "name": "Kristin Merscher",
-          "url": "https://open.spotify.com/artist/5TFRDFXpRjT5suDvJVNHzH"
+          "name": "Paul Gulda",
+          "url": "https://open.spotify.com/artist/3YhVnqwZFmH7JRoGrf6v6N"
         }
       ],
-      "duration_ms": 316800,
-      "name": "Adagio and Allegro, Op. 70: Allegro",
-      "url": "https://open.spotify.com/track/57V1s2MwyMEXWZcZV6Pzjl"
+      "duration_ms": 386893,
+      "name": "Blumenstuck, Op. 19",
+      "url": "https://open.spotify.com/track/7F5eYGRqDcJzGdLz3uOV9A"
     },
     {
       "added_at": "2022-06-27 09:06:23",
@@ -595,6 +571,30 @@
       "duration_ms": 110773,
       "name": "Sechs Ges\u00e4nge, Op. 107: No. 1, Herzeleid",
       "url": "https://open.spotify.com/track/3eNYgvJHWGcfAlFp8ZrlRl"
+    },
+    {
+      "added_at": "2022-06-27 09:06:23",
+      "album": {
+        "name": "Schubert: Arpeggione Sonata / Schumann: Fantasiestucke",
+        "url": "https://open.spotify.com/album/5UHzBpKCHYZpr04YnJP0vy"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Maria Kliegel",
+          "url": "https://open.spotify.com/artist/0SPYS9NzfjFEplX7yD7PsK"
+        },
+        {
+          "name": "Kristin Merscher",
+          "url": "https://open.spotify.com/artist/5TFRDFXpRjT5suDvJVNHzH"
+        }
+      ],
+      "duration_ms": 316800,
+      "name": "Adagio and Allegro, Op. 70: Allegro",
+      "url": "https://open.spotify.com/track/57V1s2MwyMEXWZcZV6Pzjl"
     },
     {
       "added_at": "2022-06-27 09:06:23",
@@ -671,26 +671,6 @@
     {
       "added_at": "2022-06-27 09:06:23",
       "album": {
-        "name": "Schumann, R.: Kreisleriana / Faschingsschwank Aus Wien",
-        "url": "https://open.spotify.com/album/6QP3t46uYCVcljL3lVQm1z"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Jen\u0151 Jand\u00f3",
-          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
-        }
-      ],
-      "duration_ms": 332160,
-      "name": "Arabeske in C Major, Op. 18",
-      "url": "https://open.spotify.com/track/15BPdDo1pKfq4nyxIcMpdC"
-    },
-    {
-      "added_at": "2022-06-27 09:06:23",
-      "album": {
         "name": "Schumann.: Lied Edition, Vol. 5: Frauenliebe Und -Leben, Op. 42 - Gedichte Der Konigin Maria Stuart, Op. 135 - 7 Lieder, Op. 104",
         "url": "https://open.spotify.com/album/58cWPG3vuU5tWsuNBHjJCz"
       },
@@ -711,6 +691,54 @@
       "duration_ms": 108253,
       "name": "7 Lieder, Op. 104: No. 6, Die letzten Blumen starben",
       "url": "https://open.spotify.com/track/0yo0vw091q0O4zQZm7PhaR"
+    },
+    {
+      "added_at": "2022-06-27 09:06:23",
+      "album": {
+        "name": "Schumann, R.: Kreisleriana / Faschingsschwank Aus Wien",
+        "url": "https://open.spotify.com/album/6QP3t46uYCVcljL3lVQm1z"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "duration_ms": 332160,
+      "name": "Arabeske in C Major, Op. 18",
+      "url": "https://open.spotify.com/track/15BPdDo1pKfq4nyxIcMpdC"
+    },
+    {
+      "added_at": "2022-06-27 09:06:23",
+      "album": {
+        "name": "Besser ohne Worte",
+        "url": "https://open.spotify.com/album/4AAbCsOBu1MXyE1d8VXQc4"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "duo tuba & harfe",
+          "url": "https://open.spotify.com/artist/1GNzzWtAC8PwUERRL8Ldkv"
+        },
+        {
+          "name": "Andreas Martin Hofmeir",
+          "url": "https://open.spotify.com/artist/7fPSTBoGnZDdi3uSsMZtLW"
+        },
+        {
+          "name": "Andreas Mildner",
+          "url": "https://open.spotify.com/artist/5zTimQ8WAG2hGhQqWtoDVv"
+        }
+      ],
+      "duration_ms": 97003,
+      "name": "Loreley, Op. 53 No. 2 (Arr. A. Mildner & A. Martin for Harp & Tuba)",
+      "url": "https://open.spotify.com/track/2P2A2quqdVt99XQxTfyUWa"
     },
     {
       "added_at": "2022-06-27 09:06:23",
@@ -755,34 +783,6 @@
     {
       "added_at": "2022-06-27 09:06:23",
       "album": {
-        "name": "Besser ohne Worte",
-        "url": "https://open.spotify.com/album/4AAbCsOBu1MXyE1d8VXQc4"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "duo tuba & harfe",
-          "url": "https://open.spotify.com/artist/1GNzzWtAC8PwUERRL8Ldkv"
-        },
-        {
-          "name": "Andreas Martin Hofmeir",
-          "url": "https://open.spotify.com/artist/7fPSTBoGnZDdi3uSsMZtLW"
-        },
-        {
-          "name": "Andreas Mildner",
-          "url": "https://open.spotify.com/artist/5zTimQ8WAG2hGhQqWtoDVv"
-        }
-      ],
-      "duration_ms": 97003,
-      "name": "Loreley, Op. 53 No. 2 (Arr. A. Mildner & A. Martin for Harp & Tuba)",
-      "url": "https://open.spotify.com/track/2P2A2quqdVt99XQxTfyUWa"
-    },
-    {
-      "added_at": "2022-06-27 09:06:23",
-      "album": {
         "name": "Mozart: Quintet in E-Flat & Trio in E-Flat - Schumann: M\u00e4rchenerz\u00e4hlungen & Fantasiest\u00fccke",
         "url": "https://open.spotify.com/album/4ATmHy2jtryKewpgqLW1yR"
       },
@@ -823,6 +823,26 @@
     {
       "added_at": "2022-06-27 09:06:23",
       "album": {
+        "name": "Schumann, R.: Fantasie Op. 17 / Bunte Blatter Op. 99",
+        "url": "https://open.spotify.com/album/71F4hUTu6bw5xDTRSAjBJj"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "D\u00e9nes V\u00e1rjon",
+          "url": "https://open.spotify.com/artist/1uf45Fc4NypKo06YLc5J6q"
+        }
+      ],
+      "duration_ms": 593373,
+      "name": "Fantasie in C Major, Op. 17: III. Langsam getragen. Durchaus leise zu halten",
+      "url": "https://open.spotify.com/track/2uLi3RIKPSw49fdS3DKa08"
+    },
+    {
+      "added_at": "2022-06-27 09:06:23",
+      "album": {
         "name": "Schumann: Lied Edition, Vol. 6: Myrthen - 6 Gedichte und Requiem",
         "url": "https://open.spotify.com/album/2T0I90L18QL0ycTnzuMPM6"
       },
@@ -847,8 +867,8 @@
     {
       "added_at": "2022-06-27 09:06:23",
       "album": {
-        "name": "Schumann, R.: Fantasie Op. 17 / Bunte Blatter Op. 99",
-        "url": "https://open.spotify.com/album/71F4hUTu6bw5xDTRSAjBJj"
+        "name": "Schumann: Manfred: Overture - Piano Concerto - Overture, Scherzo and Finale",
+        "url": "https://open.spotify.com/album/5O3tSB85mXcvnAuqqIL2SN"
       },
       "artists": [
         {
@@ -856,13 +876,17 @@
           "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
         },
         {
-          "name": "D\u00e9nes V\u00e1rjon",
-          "url": "https://open.spotify.com/artist/1uf45Fc4NypKo06YLc5J6q"
+          "name": "Seattle Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5KeUHRKEYWc5cFO5V032sb"
+        },
+        {
+          "name": "Gerard Schwarz",
+          "url": "https://open.spotify.com/artist/2m3QTMNI89DEFSlvmnayPE"
         }
       ],
-      "duration_ms": 593373,
-      "name": "Fantasie in C Major, Op. 17: III. Langsam getragen. Durchaus leise zu halten",
-      "url": "https://open.spotify.com/track/2uLi3RIKPSw49fdS3DKa08"
+      "duration_ms": 266093,
+      "name": "Overture, Scherzo and Finale, Op. 52: Scherzo - Vivo",
+      "url": "https://open.spotify.com/track/1siFaMo0uVa8Npo1LqjZxE"
     },
     {
       "added_at": "2022-06-27 09:06:23",
@@ -895,54 +919,6 @@
     {
       "added_at": "2022-06-27 09:06:23",
       "album": {
-        "name": "Schumann: Manfred: Overture - Piano Concerto - Overture, Scherzo and Finale",
-        "url": "https://open.spotify.com/album/5O3tSB85mXcvnAuqqIL2SN"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Seattle Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5KeUHRKEYWc5cFO5V032sb"
-        },
-        {
-          "name": "Gerard Schwarz",
-          "url": "https://open.spotify.com/artist/2m3QTMNI89DEFSlvmnayPE"
-        }
-      ],
-      "duration_ms": 266093,
-      "name": "Overture, Scherzo and Finale, Op. 52: Scherzo - Vivo",
-      "url": "https://open.spotify.com/track/1siFaMo0uVa8Npo1LqjZxE"
-    },
-    {
-      "added_at": "2022-06-27 09:06:23",
-      "album": {
-        "name": "Schumann: Symphony No.2; \"Manfred\" Overture; Konzertst\u00fcck for 4 Horns",
-        "url": "https://open.spotify.com/album/0wWKS7tKOF2KxpMSURs08f"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
-        },
-        {
-          "name": "Christian Thielemann",
-          "url": "https://open.spotify.com/artist/5c2dloAaXR2qRbIVh2C0jD"
-        }
-      ],
-      "duration_ms": 773000,
-      "name": "Symphony No.2 in C, Op.61: 1. Sostenuto assai - Un poco pi\u00f9 vivace - Allegro ma non troppo - Con fuoco",
-      "url": "https://open.spotify.com/track/5OQl6PCd6FxO7qfz6tMVGq"
-    },
-    {
-      "added_at": "2022-06-27 09:06:23",
-      "album": {
         "name": "Schumann",
         "url": "https://open.spotify.com/album/3ckSyqB9V7Po09OD2jYLf5"
       },
@@ -967,6 +943,30 @@
       "duration_ms": 758440,
       "name": "Introduction And Concert-Allegro, Op. 134",
       "url": "https://open.spotify.com/track/0gSnNcZ8wpHpczpJ45KFkT"
+    },
+    {
+      "added_at": "2022-06-27 09:06:23",
+      "album": {
+        "name": "Schumann: Symphony No.2; \"Manfred\" Overture; Konzertst\u00fcck for 4 Horns",
+        "url": "https://open.spotify.com/album/0wWKS7tKOF2KxpMSURs08f"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "Christian Thielemann",
+          "url": "https://open.spotify.com/artist/5c2dloAaXR2qRbIVh2C0jD"
+        }
+      ],
+      "duration_ms": 773000,
+      "name": "Symphony No.2 in C, Op.61: 1. Sostenuto assai - Un poco pi\u00f9 vivace - Allegro ma non troppo - Con fuoco",
+      "url": "https://open.spotify.com/track/5OQl6PCd6FxO7qfz6tMVGq"
     },
     {
       "added_at": "2022-06-27 09:06:23",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2022-06-27 09:06:23",
       "album": {
-        "name": "Schumann, R.: Piano Sonata No. 2 / Nachtstucke / Arabeske",
-        "url": "https://open.spotify.com/album/23V6eDmrJMIgryHYYJQ0Kb"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Bernd Glemser",
-          "url": "https://open.spotify.com/artist/0OCB739kEu37yjT5VBLPEW"
-        }
-      ],
-      "duration_ms": 374533,
-      "name": "Presto passionato",
-      "url": "https://open.spotify.com/track/4UpIfrd4UaEw94BDwjD516"
-    },
-    {
-      "added_at": "2022-06-27 09:06:23",
-      "album": {
         "name": "Schumann: Liederkreis; Romances and Ballades",
         "url": "https://open.spotify.com/album/4dd5w7LFFg8aCP49P5TxTz"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 207000,
       "name": "\"Mein Wagen rollet langsam\", Op.142, No.4",
       "url": "https://open.spotify.com/track/2IiB2he5PNntuhU9yP7jJc"
+    },
+    {
+      "added_at": "2022-06-27 09:06:23",
+      "album": {
+        "name": "Schumann, R.: Piano Sonata No. 2 / Nachtstucke / Arabeske",
+        "url": "https://open.spotify.com/album/23V6eDmrJMIgryHYYJQ0Kb"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Bernd Glemser",
+          "url": "https://open.spotify.com/artist/0OCB739kEu37yjT5VBLPEW"
+        }
+      ],
+      "duration_ms": 374533,
+      "name": "Presto passionato",
+      "url": "https://open.spotify.com/track/4UpIfrd4UaEw94BDwjD516"
     },
     {
       "added_at": "2022-06-27 09:06:23",
@@ -1183,34 +1183,6 @@
     {
       "added_at": "2022-06-27 09:06:23",
       "album": {
-        "name": "Schumann: Lied Edition, Vol. 1: 12 Gedichte Aus \"Liebesfruhling\", Op. 37 - Lieder Und Gesange Aus Goethes Wilhelm Meister, Op. 98A - Minnespiel",
-        "url": "https://open.spotify.com/album/3b76JBP8F5vSUIMEgZnKi3"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Thomas E. Bauer",
-          "url": "https://open.spotify.com/artist/2CZtxZGpDalPgf7ZE2mXXq"
-        },
-        {
-          "name": "Susanne Bernhard",
-          "url": "https://open.spotify.com/artist/4QxzCi72edOOk6FNy00HDN"
-        },
-        {
-          "name": "Uta Hielscher",
-          "url": "https://open.spotify.com/artist/6C2UExBt8lQo1un3DBzZkq"
-        }
-      ],
-      "duration_ms": 201640,
-      "name": "Minnespiel, Op. 101: No. 1: Meine Tone still und heiter",
-      "url": "https://open.spotify.com/track/1xU1yjwGAGCCE3RiB8YKLe"
-    },
-    {
-      "added_at": "2022-06-27 09:06:23",
-      "album": {
         "name": "Schumann: Missa sacra; 4 doppelch\u00f6rige Ges\u00e4nge",
         "url": "https://open.spotify.com/album/0hcRHKRzGfDrUmqOvVpPsC"
       },
@@ -1235,6 +1207,34 @@
       "duration_ms": 172186,
       "name": "Missa Sacra Op. 147: IV. Offertorium",
       "url": "https://open.spotify.com/track/01bUsrRqDL4L7UL2faL6VF"
+    },
+    {
+      "added_at": "2022-06-27 09:06:23",
+      "album": {
+        "name": "Schumann: Lied Edition, Vol. 1: 12 Gedichte Aus \"Liebesfruhling\", Op. 37 - Lieder Und Gesange Aus Goethes Wilhelm Meister, Op. 98A - Minnespiel",
+        "url": "https://open.spotify.com/album/3b76JBP8F5vSUIMEgZnKi3"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Thomas E. Bauer",
+          "url": "https://open.spotify.com/artist/2CZtxZGpDalPgf7ZE2mXXq"
+        },
+        {
+          "name": "Susanne Bernhard",
+          "url": "https://open.spotify.com/artist/4QxzCi72edOOk6FNy00HDN"
+        },
+        {
+          "name": "Uta Hielscher",
+          "url": "https://open.spotify.com/artist/6C2UExBt8lQo1un3DBzZkq"
+        }
+      ],
+      "duration_ms": 201640,
+      "name": "Minnespiel, Op. 101: No. 1: Meine Tone still und heiter",
+      "url": "https://open.spotify.com/track/1xU1yjwGAGCCE3RiB8YKLe"
     },
     {
       "added_at": "2022-06-27 09:06:23",

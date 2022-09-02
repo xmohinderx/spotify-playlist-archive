@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: チョーキューメイ
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,569 likes - 83 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,584 likes - 83 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 30 | [Pre\-Romance](https://open.spotify.com/track/6x3x09Wq9Ae81dvMSA0N4I) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Pre\-Romance](https://open.spotify.com/album/27K1okvCknZXHbEwTU0qL2) | 3:12 |
 | 31 | [向こうから](https://open.spotify.com/track/1FVA1zzhSi7U7SwTIidQeC) | [Ritsuki Akiyama](https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9) | [向こうから](https://open.spotify.com/album/6jH9JpnMI6GmtHZYAjoacR) | 3:45 |
 | 32 | [本当は人魚](https://open.spotify.com/track/2wkxhew6yWvXC9u1INLFKO) | [美根](https://open.spotify.com/artist/5NDtujcf6hBmjyLI89Y11g) | [本当は人魚](https://open.spotify.com/album/5wiaj7gFv4jwT8nT53AnHU) | 4:18 |
-| 33 | [ジャスコ、上野](https://open.spotify.com/track/3qzlu7OhkK34jzXRJE1c61) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [ジャスコ、上野](https://open.spotify.com/album/5qYVPh95Bowgs3FMPV7W1s) | 3:53 |
+| 33 | [ジャスコ、上野](https://open.spotify.com/track/7HOdJYVnFS9hezqqS6LJ7B) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [E\-Peanut](https://open.spotify.com/album/1n6UmAxDAo3JMcKhKWcDu6) | 3:53 |
 | 34 | [ヘンシン](https://open.spotify.com/track/1IopSg04uZM0DpggfEIMjf) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA) | [ヘンシン](https://open.spotify.com/album/4LpQSK3LYK2ttsDuLzNAyJ) | 3:40 |
 | 35 | [シャットダウン!](https://open.spotify.com/track/2zJHMrr33gEwOslVhdr3Xo) | [P丸様｡](https://open.spotify.com/artist/4hUWwJ0fRLx9rYtUvT26Ii) | [シャットダウン!](https://open.spotify.com/album/6YLoJV1MZ9BdvnjDEYtOQK) | 2:36 |
 | 36 | [鏡の中のアクトレス](https://open.spotify.com/track/6pQmlBAOqKk5EhKGQdlDwE) | [寧音](https://open.spotify.com/artist/6yAzg5y84I3jzCgtgAcVsK) | [鏡の中のアクトレス](https://open.spotify.com/album/5QQSSLTQ0BzgFTzlulEiHB) | 3:41 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 82 | [Midnight in Paris](https://open.spotify.com/track/66q650bEchJtIPELfURWaZ) | [Kylie](https://open.spotify.com/artist/69hUP9xAmScJ0sFfMNH1hb) | [Midnight in Paris](https://open.spotify.com/album/75eEUwi0urbnFXrm3dw5jS) | 3:02 |
 | 83 | [Keep in Touch](https://open.spotify.com/track/3wkOD878DbhhS2syNBUITy) | [石橋凌](https://open.spotify.com/artist/2cRkgv3MvzkkHfsbGYFW8v) | [オーライラ](https://open.spotify.com/album/6Ua3g5cSHTjRqliQ3nJlWM) | 4:03 |
 
-Snapshot ID: `MTY2MTg0NzcwMiwwMDAwMDAwMDQ5OTBkNzI1NjUwNThmNzRlMGVjNDE4Zjk0NzJiOGIw`
+Snapshot ID: `MTY2MTg0NzcwMiwwMDAwMDAwMDI2MzAyMWVjYTg3MDgwYTAzNDFkMDYwZDM3NThkOTYw`

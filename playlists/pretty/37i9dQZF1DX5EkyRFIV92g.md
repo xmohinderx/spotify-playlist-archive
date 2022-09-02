@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5EkyRFIV92g.md) - [plain]
 
 > This is Kendrick Lamar\. Essential tracks all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,137,115 likes - 60 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,137,120 likes - 60 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5EkyRFIV92g.md) - [plain]
 | 53 | [She Needs Me \(Remix\)](https://open.spotify.com/track/6D5GoogBIBMUBlQ1CYTkOH) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt), [Murs](https://open.spotify.com/artist/2dWF6m2ksP9GN75fufFp16) | [Overly Dedicated](https://open.spotify.com/album/7MoLQ8vckhwBbQqEYQTYQC) | 3:15 |
 | 54 | [Perfect Pint \(feat\. Kendrick Lamar, Gucci Mane & Rae Sremmurd\)](https://open.spotify.com/track/3A2OHirUAlQp2x73BJlEDA) | [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Ransom 2](https://open.spotify.com/album/0jqcY0azNzkluuC8hxNGlw) | 4:00 |
 | 55 | [The Law \(feat\. Mac Miller & Rapsody\)](https://open.spotify.com/track/17vQTNbvhpvi92qOnDOFHB) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [Do What Thou Wilt.](https://open.spotify.com/album/1CEeqK9sKrE7LzUHeT3bfP) | 5:29 |
-| 56 | [Hood Gone Love It](https://open.spotify.com/track/6usIgzctskoOR0JeM3fkSI) | [muqzy](https://open.spotify.com/artist/1mO8Q2bLXCFlFvyeGdnef9) | [Hood Gone Love It](https://open.spotify.com/album/4w9lrUz2Vgz7mZPGxc9qzs) | 4:05 |
+| 56 | [Hood Gone Love It \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/6i6cWTCYBOKEdJnWjzm2yk) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Follow Me Home](https://open.spotify.com/album/6bPbKuFNW6Vausf1PExvd9) | 4:05 |
 | 57 | [Hustla’s Story \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/4J56uEZtgVjuTi27Rvclag) | [Cozz](https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Effected](https://open.spotify.com/album/6CNwXxGCLQtWhG2VHOuiib) | 4:28 |
 | 58 | [Buy The World](https://open.spotify.com/track/01A7PEPSnmtixFPfB2UTal) | [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Buy The World](https://open.spotify.com/album/0N8ZuxurFs5C4fsC1z7wRK) | 3:46 |
 | 59 | [Wat's Wrong \(feat\. Zacari & Kendrick Lamar\)](https://open.spotify.com/track/2RPbEp0DyBVlkRvvYKopO7) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Sun's Tirade](https://open.spotify.com/album/6jjX8mGrsWtrpYpFhGMrg1) | 5:30 |
 | 60 | [Never Catch Me](https://open.spotify.com/track/6CTG85NJI1Wm60pxTSRNwL) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [You're Dead!](https://open.spotify.com/album/29luvT98TnqHjVDYSRbbrj) | 3:54 |
 
-Snapshot ID: `MTY1MjQxNDUyMCwwMDAwMDAwMDBlOTdjOTJhYmVmMDcwNmY4Y2JlNTdhOWFjOWNlNTk5`
+Snapshot ID: `MTY1MjQxNDUyMCwwMDAwMDAwMDI3MTcxYTBjMmNlZWRiNDc3ZmRmNjI2ZmY3NDk2ZThh`

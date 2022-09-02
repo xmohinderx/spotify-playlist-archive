@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: Dabeull
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,038 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,219 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 18 | [WASABI](https://open.spotify.com/track/7LafokGsEiIKUA7ziJuPga) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [WASABI](https://open.spotify.com/album/6uNSXdsZ6dBAGHV8BMAOBM) | 2:47 |
 | 19 | [Boys Don't Sob](https://open.spotify.com/track/2fkAbl3FCAj9BKc4Z5GIdr) | [The Free Label](https://open.spotify.com/artist/4YOL2g6AwphwsB1dOZZSOr) | [Boys Don't Sob](https://open.spotify.com/album/3ZFmah5FBGNwfXZx5y7N4J) | 2:56 |
 | 20 | [Wanna Go](https://open.spotify.com/track/4BSDnTwqQOARzQnsVkS8Gh) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Wanna Go](https://open.spotify.com/album/7xU2fbizvJVD9XUpqlQ8wM) | 2:18 |
-| 21 | [GOODTIME](https://open.spotify.com/track/5GtOKiSXlRP03pgojQnOXi) | [CAPYAC](https://open.spotify.com/artist/5QP5fl1l4e9NmKmkMUOTF5) | [GOODTIME](https://open.spotify.com/album/0dGvxkk3frDgCKp2nmHJXm) | 3:42 |
+| 21 | [GOODTIME](https://open.spotify.com/track/0Cz1CWsDSgGMbHZykVO5ei) | [CAPYAC](https://open.spotify.com/artist/5QP5fl1l4e9NmKmkMUOTF5) | [GOODTIME](https://open.spotify.com/album/6MHZpDk5kHnqLBXla2znoS) | 3:42 |
 | 22 | [Pick Up](https://open.spotify.com/track/40zIrmsbbjNBLm8s2bCUx3) | [Brian Robert Jones](https://open.spotify.com/artist/11HU5b0t0QkmZpYfpUgmvm) | [Pick Up](https://open.spotify.com/album/0fOPYWlHgWRi8caKaiy30y) | 3:30 |
 | 23 | [Lost Without You](https://open.spotify.com/track/1gLlfABq3yvwEq0WoNery0) | [KULI](https://open.spotify.com/artist/4yeXWtnhoSgWwRbJaTZhmj) | [Lost Without You](https://open.spotify.com/album/3m5pYFGe7wrujfqMJMeyHF) | 3:11 |
 | 24 | [The Fool](https://open.spotify.com/track/6efz8T0xsDossM5PEXxEqf) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [The Fool](https://open.spotify.com/album/5bnoKgSgUtYn8RqviCM15H) | 4:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 99 | [You Got Me](https://open.spotify.com/track/5nLKrvpQBb8sE3MvEfQGFI) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [You Got Me](https://open.spotify.com/album/2cogfCjxAEmXoWHFex4gDN) | 3:00 |
 | 100 | [Witchoo](https://open.spotify.com/track/6W9rbkBueZQrwuzO24GHZ2) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Private Space](https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW) | 3:42 |
 
-Snapshot ID: `MTY2MTQ4NjUyMCwwMDAwMDAwMGRmOGYyNGE1MWViMjQ3MmJiMmRiMzc5YzdmNTI4NTAz`
+Snapshot ID: `MTY2MTQ4NjUyMCwwMDAwMDAwMGU4NDAwYjg3ZWIwYzIwZmQxNzZkODRlZjJlZmQwZWIw`

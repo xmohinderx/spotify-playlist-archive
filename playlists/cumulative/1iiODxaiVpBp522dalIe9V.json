@@ -8,6 +8,32 @@
   "tracks": [
     {
       "album": {
+        "name": "Free Guero10K",
+        "url": "https://open.spotify.com/album/0JikcPNy118gGte0HUhXVK"
+      },
+      "artists": [
+        {
+          "name": "Guero 10k",
+          "url": "https://open.spotify.com/artist/4L2hh6znwtTZtkmX0TmiUJ"
+        },
+        {
+          "name": "TrapboyDre10k",
+          "url": "https://open.spotify.com/artist/5HWorG0e96YIZj95zBgGm9"
+        },
+        {
+          "name": "LilCJ Kasino",
+          "url": "https://open.spotify.com/artist/4pORMflJEUW1OYfNgiMLH5"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149446,
+      "name": "100 Shotz",
+      "url": "https://open.spotify.com/track/5tIyVXxBXJZ2iPZe5i1NDX"
+    },
+    {
+      "album": {
         "name": "187",
         "url": "https://open.spotify.com/album/0M3qFGLsiPXyuP49jUuGnR"
       },
@@ -37,10 +63,50 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 167423,
       "name": "5 Years",
       "url": "https://open.spotify.com/track/55JPb1FVudHjZnFTvB8LPG"
+    },
+    {
+      "album": {
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/0gwN64t5aeuOQwj2o5juHM"
+      },
+      "artists": [
+        {
+          "name": "Lil Jairmy",
+          "url": "https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165383,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/6JayjDlHxTSdVj9g85LA1s"
+    },
+    {
+      "album": {
+        "name": "ARP",
+        "url": "https://open.spotify.com/album/7pzvutWtGnyQFEXHM1xfSi"
+      },
+      "artists": [
+        {
+          "name": "TrapboyDre10k",
+          "url": "https://open.spotify.com/artist/5HWorG0e96YIZj95zBgGm9"
+        },
+        {
+          "name": "Quin Nfn",
+          "url": "https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178392,
+      "name": "ARP",
+      "url": "https://open.spotify.com/track/7D2008TPKN4gJGGYfmvTut"
     },
     {
       "album": {
@@ -59,10 +125,28 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 135792,
       "name": "Back 2 Back",
       "url": "https://open.spotify.com/track/556IoxqUDfAqrqYxVN6j7G"
+    },
+    {
+      "album": {
+        "name": "BAGGY",
+        "url": "https://open.spotify.com/album/3T0PqUn2K6bykeuxoR2Wo3"
+      },
+      "artists": [
+        {
+          "name": "TisaKorean",
+          "url": "https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103993,
+      "name": "BAGGY",
+      "url": "https://open.spotify.com/track/5WCqx3pgABaG7EQgAXStSN"
     },
     {
       "album": {
@@ -99,6 +183,42 @@
       "duration_ms": 144000,
       "name": "BBL",
       "url": "https://open.spotify.com/track/09GVTv0gek9RAEueBdSewr"
+    },
+    {
+      "album": {
+        "name": "Kasino",
+        "url": "https://open.spotify.com/album/6zTKtGMuvIyKYgYMRPuthq"
+      },
+      "artists": [
+        {
+          "name": "LilCJ Kasino",
+          "url": "https://open.spotify.com/artist/4pORMflJEUW1OYfNgiMLH5"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206332,
+      "name": "Best Buy",
+      "url": "https://open.spotify.com/track/6XcXxL6TUcMS7iaUnCuC0c"
+    },
+    {
+      "album": {
+        "name": "BFB",
+        "url": "https://open.spotify.com/album/26i1gcpKsET3toSjvddM9b"
+      },
+      "artists": [
+        {
+          "name": "DJ Chose",
+          "url": "https://open.spotify.com/artist/28Jt29jw6Smc3ZkzALTouq"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157910,
+      "name": "BFB",
+      "url": "https://open.spotify.com/track/1eSljldFMRJETJlrBIXuFI"
     },
     {
       "album": {
@@ -139,7 +259,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 203453,
       "name": "Boof Weed (feat. Ruben Moreno)",
       "url": "https://open.spotify.com/track/1RxIRV6ROdQ7BcGxvOtkox"
@@ -168,6 +288,24 @@
     },
     {
       "album": {
+        "name": "Chief Keef & Tadoe",
+        "url": "https://open.spotify.com/album/24DlQBzlure5LKUAuiLHSc"
+      },
+      "artists": [
+        {
+          "name": "Guapo",
+          "url": "https://open.spotify.com/artist/1KWQVpABJxgYvLY5pNNZV6"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104700,
+      "name": "Chief Keef & Tadoe",
+      "url": "https://open.spotify.com/track/0nusbQdl44hevCkmJGifcV"
+    },
+    {
+      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/60QGT1MVWVrInvytIgxby0"
       },
@@ -179,7 +317,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 156216,
       "name": "Cry A River",
       "url": "https://open.spotify.com/track/10nfwYkQRxxWuj02BkBeAh"
@@ -223,7 +361,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 178076,
       "name": "Dead Opps",
       "url": "https://open.spotify.com/track/79JnFCUxy8ay5QjMBVKjTC"
@@ -249,6 +387,28 @@
       "duration_ms": 191468,
       "name": "Didn't I",
       "url": "https://open.spotify.com/track/3KyfIdY2Zb49DJD9WCSOrs"
+    },
+    {
+      "album": {
+        "name": "Let's Do A Drill",
+        "url": "https://open.spotify.com/album/2ZlRq32UQiZYPYt6VkPaRl"
+      },
+      "artists": [
+        {
+          "name": "Asian Doll",
+          "url": "https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J"
+        },
+        {
+          "name": "Tay Money",
+          "url": "https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152064,
+      "name": "Down South",
+      "url": "https://open.spotify.com/track/1l5QrPFA5bJvcNEBM2vpqt"
     },
     {
       "album": {
@@ -281,7 +441,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 155846,
       "name": "Drizzy Draco",
       "url": "https://open.spotify.com/track/6gxJg7WCL5xdQCyhm4COF2"
@@ -303,7 +463,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 198057,
       "name": "Drugs N Hella Melodies (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/0IX5OFffosy8wk16m1IFCa"
@@ -328,6 +488,28 @@
     },
     {
       "album": {
+        "name": "Mixed Emotions",
+        "url": "https://open.spotify.com/album/0pUr8HuR04KMb1SX3xjvB8"
+      },
+      "artists": [
+        {
+          "name": "MTM DonDon",
+          "url": "https://open.spotify.com/artist/0fByI38ZT84uWB6SQEno0R"
+        },
+        {
+          "name": "MO3",
+          "url": "https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198620,
+      "name": "Envy Me",
+      "url": "https://open.spotify.com/track/7FBXjwB65KBDU2oBZLeNtY"
+    },
+    {
+      "album": {
         "name": "Straap 4 President (Deluxe)",
         "url": "https://open.spotify.com/album/2I61uwlP8yI39LVi3lRZRo"
       },
@@ -346,6 +528,24 @@
     },
     {
       "album": {
+        "name": "Feather Flow",
+        "url": "https://open.spotify.com/album/2hIxQwrMr0ybzpfDslpR2w"
+      },
+      "artists": [
+        {
+          "name": "Voochie P",
+          "url": "https://open.spotify.com/artist/4XxIlRzfz6UtWj0uYTlEy3"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167941,
+      "name": "Feather Flow",
+      "url": "https://open.spotify.com/track/77cHU2xBmCNCwN9PaQVVRV"
+    },
+    {
+      "album": {
         "name": "Hard On A 304",
         "url": "https://open.spotify.com/album/6a6DFsmuYzp39qKtn3UJ3P"
       },
@@ -357,10 +557,28 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 121269,
       "name": "Feelin\u2019 Sexy",
       "url": "https://open.spotify.com/track/41sGvetgNrEbeknJVP8KbC"
+    },
+    {
+      "album": {
+        "name": "Let's Do A Drill",
+        "url": "https://open.spotify.com/album/2ZlRq32UQiZYPYt6VkPaRl"
+      },
+      "artists": [
+        {
+          "name": "Asian Doll",
+          "url": "https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156786,
+      "name": "Fell In Love",
+      "url": "https://open.spotify.com/track/31DJl0dgDvWnhzn1pBf6pq"
     },
     {
       "album": {
@@ -379,7 +597,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 190684,
       "name": "FOOTBALL HEADS (feat. Benny The Butcher)",
       "url": "https://open.spotify.com/track/7CDzXTlono3Rm1PEgWxMGR"
@@ -514,6 +732,24 @@
     },
     {
       "album": {
+        "name": "Traumazine",
+        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137107,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0"
+    },
+    {
+      "album": {
         "name": "Blast from The Past",
         "url": "https://open.spotify.com/album/4LwbmDH8srglysGJtgg4YT"
       },
@@ -551,7 +787,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 221538,
       "name": "Hold That Heat (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/6OrTKLtcF7EBayOV2QqkSK"
@@ -573,7 +809,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 193322,
       "name": "Honest (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/116IS04a18L5lKQADerNeb"
@@ -595,7 +831,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 151429,
       "name": "In My Blood",
       "url": "https://open.spotify.com/track/4hwMIdB0srOKoCqclPHVLU"
@@ -613,7 +849,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 116052,
       "name": "Innocent",
       "url": "https://open.spotify.com/track/2avmyABkpcU1mAt2eCqher"
@@ -671,7 +907,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 142034,
       "name": "Just Like That (feat. Talameshia)",
       "url": "https://open.spotify.com/track/1Xa0tng5IowVZCvPPvYEBx"
@@ -693,6 +929,32 @@
       "duration_ms": 219509,
       "name": "know how!",
       "url": "https://open.spotify.com/track/5IdJyMsOQA54YP3nl9dvZK"
+    },
+    {
+      "album": {
+        "name": "GOD DID",
+        "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158979,
+      "name": "LET'S PRAY (feat. Don Toliver & Travis Scott)",
+      "url": "https://open.spotify.com/track/67QVeMvttYHbB1Zuvh0cn6"
     },
     {
       "album": {
@@ -740,6 +1002,58 @@
     },
     {
       "album": {
+        "name": "LILO & SNITCH",
+        "url": "https://open.spotify.com/album/0pUmN0ISUN0RG3ScTeewrg"
+      },
+      "artists": [
+        {
+          "name": "Rizzoo Rizzoo",
+          "url": "https://open.spotify.com/artist/2zaB41HXDxNghkA6X0fgXT"
+        },
+        {
+          "name": "LilCJ Kasino",
+          "url": "https://open.spotify.com/artist/4pORMflJEUW1OYfNgiMLH5"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178655,
+      "name": "LILO & SNITCH",
+      "url": "https://open.spotify.com/track/012lK5uIB8uOgg5pLEparD"
+    },
+    {
+      "album": {
+        "name": "moMINTs",
+        "url": "https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2"
+      },
+      "artists": [
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Fat Nwigwe",
+          "url": "https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "LORD FORGIVE ME",
+      "url": "https://open.spotify.com/track/3KVS5CzCxsfQ4iZcOpD7xk"
+    },
+    {
+      "album": {
         "name": "Lord Forgives, I Don't",
         "url": "https://open.spotify.com/album/3OuU06ISpBVfx4joRbhoWS"
       },
@@ -751,10 +1065,28 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 163304,
       "name": "Lord Forgives, I Don't",
       "url": "https://open.spotify.com/track/14yKklaeftP61YcsbzIDfR"
+    },
+    {
+      "album": {
+        "name": "Fox",
+        "url": "https://open.spotify.com/album/7t2lVFZgcEwVhk1MnheAbg"
+      },
+      "artists": [
+        {
+          "name": "pmg God",
+          "url": "https://open.spotify.com/artist/0CYsYrCzSuvEiB2n3rumyW"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132519,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/6TJQkTIGjjjluI6liqJhUG"
     },
     {
       "album": {
@@ -769,7 +1101,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 220813,
       "name": "Lyric Forever",
       "url": "https://open.spotify.com/track/1lKWj4OtNZHbMJRzrQPzRd"
@@ -812,6 +1144,28 @@
     },
     {
       "album": {
+        "name": "WEIGHT OF THE WORLD (Deluxe)",
+        "url": "https://open.spotify.com/album/5UH8fwsDbf7Rcc0BlhFobs"
+      },
+      "artists": [
+        {
+          "name": "Maxo Kream",
+          "url": "https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv"
+        },
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183370,
+      "name": "MIXIN JUICES (feat. BabyFace Ray)",
+      "url": "https://open.spotify.com/track/468NRmZeJqCleHKt23TP1k"
+    },
+    {
+      "album": {
         "name": "Monday Night Raw",
         "url": "https://open.spotify.com/album/2SWTeoAr0tJQYpTNIYCWeU"
       },
@@ -823,7 +1177,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 188499,
       "name": "Monday Night Raw",
       "url": "https://open.spotify.com/track/01Y5BE4gJm9Ccqt14KNb13"
@@ -924,6 +1278,24 @@
     },
     {
       "album": {
+        "name": "Not Him",
+        "url": "https://open.spotify.com/album/2QRkyTjRBCS5PQmOzACksr"
+      },
+      "artists": [
+        {
+          "name": "Brick Wolfpack",
+          "url": "https://open.spotify.com/artist/7e4uf2N5gWV3z9yLRhRMUe"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146026,
+      "name": "Not Him",
+      "url": "https://open.spotify.com/track/4v87RiPNoAlxh0gfk8D1mR"
+    },
+    {
+      "album": {
         "name": "Twelve Carat Toothache (Deluxe)",
         "url": "https://open.spotify.com/album/50MzJhO0pMjTsfpeOmZ1so"
       },
@@ -939,7 +1311,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 192721,
       "name": "One Right Now (with The Weeknd)",
       "url": "https://open.spotify.com/track/0UGyZR7RmVoYT0DBJCxTPy"
@@ -1027,7 +1399,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 173061,
       "name": "Pressurelicious (feat. Future)",
       "url": "https://open.spotify.com/track/5ZWNnO9MyPfGrUHiGWHESB"
@@ -1053,7 +1425,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 108000,
       "name": "PTDOM",
       "url": "https://open.spotify.com/track/5BfbwG8kBqNoHFrBJ6Ygt6"
@@ -1101,10 +1473,36 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 212520,
       "name": "Recognize My Car",
       "url": "https://open.spotify.com/track/4zCdZTazA86ShU74nSyRS6"
+    },
+    {
+      "album": {
+        "name": "Relax",
+        "url": "https://open.spotify.com/album/5qbl6P5ERbyoknrf1HGAT8"
+      },
+      "artists": [
+        {
+          "name": "Lenora",
+          "url": "https://open.spotify.com/artist/3O47iDw4ATr0eAGlsNuM9K"
+        },
+        {
+          "name": "Slim Thug",
+          "url": "https://open.spotify.com/artist/0st5vgzw9XkH5ALJiUM1lE"
+        },
+        {
+          "name": "Beanz N Kornbread",
+          "url": "https://open.spotify.com/artist/0V2IGXlmyYL8q8AlDlmY8D"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285503,
+      "name": "Relax",
+      "url": "https://open.spotify.com/track/1Yry2V5NrZzZnx7t0caZoI"
     },
     {
       "album": {
@@ -1119,7 +1517,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 131142,
       "name": "ROKU",
       "url": "https://open.spotify.com/track/06LXe97w96150WPik2gRZ4"
@@ -1141,7 +1539,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 109848,
       "name": "Roll Ya Boat",
       "url": "https://open.spotify.com/track/7HJPsOW4bdm5IQaUmJr36s"
@@ -1163,7 +1561,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 180928,
       "name": "Same Time",
       "url": "https://open.spotify.com/track/4ps9e46YmROGmpzePmPTnB"
@@ -1181,7 +1579,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 145920,
       "name": "Sauce Body",
       "url": "https://open.spotify.com/track/01q8fSPaqOHmxFfmGSPxuf"
@@ -1199,10 +1597,32 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 193028,
       "name": "SAUCE ME UP",
       "url": "https://open.spotify.com/track/6yjvYzFGeFRx7eH1AfBg9i"
+    },
+    {
+      "album": {
+        "name": "Sauce Beach Florida",
+        "url": "https://open.spotify.com/album/3MKC3KePgYR2Et6PvtHNfo"
+      },
+      "artists": [
+        {
+          "name": "Sauce Walka",
+          "url": "https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb"
+        },
+        {
+          "name": "44 Mike Deezy",
+          "url": "https://open.spotify.com/artist/3vdNjxIPV7xFfVvscKhOuG"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143257,
+      "name": "Sauce Side da Realest",
+      "url": "https://open.spotify.com/track/5YKou23BytPcfoBljTfqmR"
     },
     {
       "album": {
@@ -1265,7 +1685,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 172826,
       "name": "Serious",
       "url": "https://open.spotify.com/track/1oZo3LCGn9TvGp35c91FHM"
@@ -1366,6 +1786,68 @@
     },
     {
       "album": {
+        "name": "Sauce Beach Florida",
+        "url": "https://open.spotify.com/album/3MKC3KePgYR2Et6PvtHNfo"
+      },
+      "artists": [
+        {
+          "name": "Sauce Walka",
+          "url": "https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225327,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/1ahN0hS1fPp3t5dIUrcfh8"
+    },
+    {
+      "album": {
+        "name": "CME or Nothing 2",
+        "url": "https://open.spotify.com/album/6vv91s4SK8huT5rUVw6ZDe"
+      },
+      "artists": [
+        {
+          "name": "Trapboy Freddy",
+          "url": "https://open.spotify.com/artist/2ZF0d4lkHLE6MIbVmpN6nN"
+        },
+        {
+          "name": "Yella Beezy",
+          "url": "https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183837,
+      "name": "Smokey the Bear",
+      "url": "https://open.spotify.com/track/0b3GWZWhfJ4wKVn8Skawie"
+    },
+    {
+      "album": {
+        "name": "SRT (feat. OTB Fastlane)",
+        "url": "https://open.spotify.com/album/1or6SskWw7SII7QoladS34"
+      },
+      "artists": [
+        {
+          "name": "Guapo",
+          "url": "https://open.spotify.com/artist/1KWQVpABJxgYvLY5pNNZV6"
+        },
+        {
+          "name": "OTB Fastlane",
+          "url": "https://open.spotify.com/artist/130sangK9RkAwRToKn9GHj"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150591,
+      "name": "SRT (feat. OTB Fastlane)",
+      "url": "https://open.spotify.com/track/4goyaIOHI67Nod52RsPt90"
+    },
+    {
+      "album": {
         "name": "supercalifragilistic",
         "url": "https://open.spotify.com/album/56UXn7lj4erZRyVNsQRhUr"
       },
@@ -1439,10 +1921,28 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 149903,
       "name": "Talk My Shit",
       "url": "https://open.spotify.com/track/3dRO3kKkuYX80XTzvnIhHN"
+    },
+    {
+      "album": {
+        "name": "The Assignment",
+        "url": "https://open.spotify.com/album/2lnn72jnHA6corVKMzibS5"
+      },
+      "artists": [
+        {
+          "name": "Tay Money",
+          "url": "https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113327,
+      "name": "The Assignment",
+      "url": "https://open.spotify.com/track/1iBfg5pMNqR0HFTpDTr73A"
     },
     {
       "album": {
@@ -1461,7 +1961,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 137634,
       "name": "THE VISION (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/2346NnUy4Q6hvbMWOaNnC2"
@@ -1523,7 +2023,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 125760,
       "name": "Throw a Lil Mo (Do It)",
       "url": "https://open.spotify.com/track/4iTkqrEual8nNjBW7kZxpi"
@@ -1545,6 +2045,24 @@
       "duration_ms": 125760,
       "name": "Throw a Lil Mo (Do It)",
       "url": "https://open.spotify.com/track/68Smyg3JQ1msbItYvplaXD"
+    },
+    {
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/7jl1EFPELcDEtfy03Xv2Gk"
+      },
+      "artists": [
+        {
+          "name": "Wacotron",
+          "url": "https://open.spotify.com/artist/4CAL0nDGvLhUfQEpwSLnUz"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/0PscXfGNoKV05i02lyejwK"
     },
     {
       "album": {
@@ -1584,6 +2102,24 @@
     },
     {
       "album": {
+        "name": "Life n Pain",
+        "url": "https://open.spotify.com/album/76PAMDh1nAYBlUVO6KmYzg"
+      },
+      "artists": [
+        {
+          "name": "Trae Tha Truth",
+          "url": "https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143647,
+      "name": "Vent",
+      "url": "https://open.spotify.com/track/59NdALA7ebOVpcDbLEPD61"
+    },
+    {
+      "album": {
         "name": "Waco (Remix)",
         "url": "https://open.spotify.com/album/2DXoZALlNjoRqU3tAy31fG"
       },
@@ -1599,7 +2135,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 136440,
       "name": "Waco (Remix)",
       "url": "https://open.spotify.com/track/2ir8kSpW3fThRGMeEk9tVR"
@@ -1642,6 +2178,28 @@
     },
     {
       "album": {
+        "name": "We Not Humping (Remix)",
+        "url": "https://open.spotify.com/album/1V9eCkZxExdad79zHEE6Dk"
+      },
+      "artists": [
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143325,
+      "name": "We Not Humping - Remix",
+      "url": "https://open.spotify.com/track/4ue41gFbAjoU0P1EberJWm"
+    },
+    {
+      "album": {
         "name": "Al Rage Walka",
         "url": "https://open.spotify.com/album/5eXVjZxcQr9ltUYOoqc1An"
       },
@@ -1653,7 +2211,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 143627,
       "name": "WHAT IT DO",
       "url": "https://open.spotify.com/track/4zC6mFyMk5bVSBpES75gtV"
@@ -1715,7 +2273,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 154320,
       "name": "Young Don",
       "url": "https://open.spotify.com/track/5Ue9OtM637kDF0nfzwrEGb"

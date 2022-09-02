@@ -1,12 +1,12 @@
 {
   "description": "Britpop, trip-hop, grunge and more from the other side of the 90s. Cover: my bloody valentine",
-  "num_followers": 1099096,
+  "num_followers": 1098692,
   "original_name": "Alternative 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mjc2NTE4OCwwMDAwMDAwMDlhMDQ4M2NlMjEwZmI1ODIwNzQ1YjA5ZjkxYTJkNDYy",
+  "snapshot_id": "MTY0Mjc2NTE4OCwwMDAwMDAwMGU2NmYwMWI1ZjQ0MmQ3MTc1YWI4ZTY2NmQ1OTMwZGZk",
   "tracks": [
     {
       "added_at": "2022-01-21 11:39:48",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-01-21 11:39:48",
       "album": {
-        "name": "Dummy",
-        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
-      },
-      "artists": [
-        {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
-        }
-      ],
-      "duration_ms": 308626,
-      "name": "Glory Box",
-      "url": "https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC"
-    },
-    {
-      "added_at": "2022-01-21 11:39:48",
-      "album": {
         "name": "The Bends",
         "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 234800,
       "name": "Just",
       "url": "https://open.spotify.com/track/1dyTcli07c77mtQK3ahUZR"
+    },
+    {
+      "added_at": "2022-01-21 11:39:48",
+      "album": {
+        "name": "Dummy",
+        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
+      },
+      "artists": [
+        {
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+        }
+      ],
+      "duration_ms": 308626,
+      "name": "Glory Box",
+      "url": "https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC"
     },
     {
       "added_at": "2022-01-21 11:39:48",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-01-21 11:39:48",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/1QJP73UumgERuzp3yJSXw3"
-      },
-      "artists": [
-        {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
-        }
-      ],
-      "duration_ms": 290493,
-      "name": "Hey Boy Hey Girl",
-      "url": "https://open.spotify.com/track/7kXmJwrZGIhDaLT9sNo3ut"
-    },
-    {
-      "added_at": "2022-01-21 11:39:48",
-      "album": {
         "name": "Last Splash",
         "url": "https://open.spotify.com/album/57F44c0MTziVzHPEuJtH9A"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 213693,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/1KdwPeY1WRWQGHCmRJTveb"
+    },
+    {
+      "added_at": "2022-01-21 11:39:48",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/1QJP73UumgERuzp3yJSXw3"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        }
+      ],
+      "duration_ms": 290493,
+      "name": "Hey Boy Hey Girl",
+      "url": "https://open.spotify.com/track/7kXmJwrZGIhDaLT9sNo3ut"
     },
     {
       "added_at": "2022-01-21 11:39:48",

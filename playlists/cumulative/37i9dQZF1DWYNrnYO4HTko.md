@@ -4,7 +4,7 @@
 
 > Fresh takes \- from new revisions and iconic covers to unexpected versions and the <a href="https://artists.spotify.com/songwriter/2M9tzAw4sMHnOJ58l5uo82">songwriter's</a> own covers.
 
-96 songs - 5 hr 17 min - [published](https://open.spotify.com/playlist/0OKXgg6EX7PXQvXM76xIJP)
+97 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/0OKXgg6EX7PXQvXM76xIJP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [Security](https://open.spotify.com/track/0c0YEO0WyHta4piFvQSg74) | [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta) | [Hope And Desire](https://open.spotify.com/album/3i8UR9bri6o0FXLgMsGFeY) | 2:56 | 2021-10-01 |  |
 | [Security](https://open.spotify.com/track/6rhanBKHZciWDmpqPKdQTP) | [The Young Veins](https://open.spotify.com/artist/6vjgLoIHeoblpnAKNPeF8Q) | [Take a Vacation! \(Deluxe Edition\)](https://open.spotify.com/album/5cFULX82XWt56txFZImJdS) | 2:33 | 2021-10-01 |  |
 | [Sitting on the Dock of the Bay](https://open.spotify.com/track/5Ja7SS7ATazexKz4E6dgOp) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Mongo Santamaria's Greatest Hits](https://open.spotify.com/album/0iAuAgfu3aba2ebIBJ63P7) | 3:15 | 2021-10-01 |  |
-| [Sweet Soul Music](https://open.spotify.com/track/0pvA063uNyGQFp7DNtmk0P) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Rhino Hi\-Five: Arthur Conley](https://open.spotify.com/album/6dYQhuDC49jXh7YvTtb0oT) | 2:21 | 2021-10-01 |  |
+| [Sweet Soul Music](https://open.spotify.com/track/0pvA063uNyGQFp7DNtmk0P) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Rhino Hi\-Five: Arthur Conley](https://open.spotify.com/album/6dYQhuDC49jXh7YvTtb0oT) | 2:21 | 2021-10-01 | 2022-09-02 |
+| [Sweet Soul Music](https://open.spotify.com/track/2YuIyYri67bgUXKQW5V9XW) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Sweet Soul Music](https://open.spotify.com/album/2fZ5TzqZjIWEAP5T9ktlBC) | 2:21 | 2021-10-01 |  |
 | [Sweet Soul Music](https://open.spotify.com/track/1NkBAvUj4EITElG8hO1mRC) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [Feeling You! The 60's](https://open.spotify.com/album/6xsN1W274ooUQ1RFJuLH9Z) | 2:11 | 2021-10-01 |  |
 | [Sweet Soul Music](https://open.spotify.com/track/0j4y8UyEKIkQK4DRT25zi4) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Vagabond Heart \(Expanded Edition\)](https://open.spotify.com/album/3jBeiXLyZM4kxbHLEJwtYt) | 3:04 | 2021-10-01 |  |
 | [Sweet Soul Music](https://open.spotify.com/track/18b7KtY3MqOOZEXTYXJoqy) | [The Gladiators](https://open.spotify.com/artist/3L5iYAziSDnuaHsSgbkcIP) | [Here Comes the Duke](https://open.spotify.com/album/4EQo8dsclTJxQtcoMk4aEq) | 1:57 | 2021-10-01 |  |

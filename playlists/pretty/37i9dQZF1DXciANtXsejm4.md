@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 
 > El ritmo cumbiero que te mueve el corazón\. <br/>Foto: Leo Mattioli.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,021 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,197 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 | 40 | [A Decirme Qué](https://open.spotify.com/track/0usHK6nqUWU1PLkKi1Gy7c) | [Los Lirios De Santa Fe](https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7), [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [25 Años](https://open.spotify.com/album/3gjGW42amvKTLvJLl4wPua) | 4:02 |
 | 41 | [Tu Mujer En Mi Cama](https://open.spotify.com/track/44uuHaGX9LpQ8PjpdvXLVM) | [Grupo Trinidad](https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ) | [Más Románticos Que Nunca](https://open.spotify.com/album/2HU7nRIB9MrVxWY6c9t01M) | 3:31 |
 | 42 | [Amor Clandestino](https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Le Doy Gracias a la Vida \(Y a Todos\)](https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup) | 3:11 |
-| 43 | [El Chancho Come Caviar](https://open.spotify.com/track/2gE7O9Fa9Botb1AtUS0CPp) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Sólo Dios Puede Juzgarme](https://open.spotify.com/album/2ZYrdNtbBgd2qqD1kKpvFD) | 2:35 |
-| 44 | [Otro Día Más Sin Verte](https://open.spotify.com/track/74RN9vr5Wx3R6d3vkSZ3vH) | [La Contra](https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK) | [Hay Contra para Rato](https://open.spotify.com/album/23XhXhLqM7fyEbPZWUaEzf) | 4:05 |
+| 43 | [Otro Día Más Sin Verte](https://open.spotify.com/track/74RN9vr5Wx3R6d3vkSZ3vH) | [La Contra](https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK) | [Hay Contra para Rato](https://open.spotify.com/album/23XhXhLqM7fyEbPZWUaEzf) | 4:05 |
+| 44 | [El Chancho Come Caviar](https://open.spotify.com/track/2gE7O9Fa9Botb1AtUS0CPp) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Sólo Dios Puede Juzgarme](https://open.spotify.com/album/2ZYrdNtbBgd2qqD1kKpvFD) | 2:35 |
 | 45 | [Hasta el Sol de Hoy \(En Vivo\)](https://open.spotify.com/track/6BbXZba7DJhKqgk6F1Dswy) | [Mario Pereyra y Su Banda](https://open.spotify.com/artist/6xihzJv7xtLyRc420HlM0y) | [El Aguante Continúa...En Concierto \(En Vivo\)](https://open.spotify.com/album/7f4w3g6dY0MSm557kPNW0a) | 2:17 |
 | 46 | [Entre tú y mil mares](https://open.spotify.com/track/5l4vFZvA9YpHNPWfQJEoo0) | [La contrà](https://open.spotify.com/artist/4mG70wQ5qWBs9GogyP7WuM) | [Para Toda La Vida](https://open.spotify.com/album/25bzZeH69TvnFcgV4JPKGr) | 3:47 |
 | 47 | [Vete](https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr) | [Los del bohio](https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn) | [Vete](https://open.spotify.com/album/2ULTMUo5UesStNSxif1lgR) | 3:35 |
@@ -77,16 +77,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 | 67 | [No Lo Superaré / Si No Tengo Tus Besos](https://open.spotify.com/track/1baOB2lMvszo0BSSAJJtZ3) | [Grupo Alegria de Santa Fe](https://open.spotify.com/artist/0uITrMC16Eg9bbPu0PNfzk), [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [No Lo Superaré / Si No Tengo Tus Besos](https://open.spotify.com/album/4dw0ax4Y9ftSSJBGC2603U) | 3:26 |
 | 68 | [Te Soñé una Vez](https://open.spotify.com/track/1blhnIXhg3Bpt2qzVVxPRD) | [Simplemente Naguel](https://open.spotify.com/artist/4fARNbsdisPYTZtwYzAayh) | [Simplemente Nagüel](https://open.spotify.com/album/2MES3DwHFmsblVObLyLlRh) | 3:01 |
 | 69 | [Qué Se Siente](https://open.spotify.com/track/0sL2C1WvJnmrvE9F3hTZaw) | [Los Del Maranaho](https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs) | [Una Eterna Pasión](https://open.spotify.com/album/6rYOGgU9UPgjVhmpbBFVfn) | 3:59 |
-| 70 | [Como Tu Enemigo](https://open.spotify.com/track/03IoH7NmNDEXW7SSGj0ISS) | [Chanchi y Los Autenticos](https://open.spotify.com/artist/137pHEZ9U76r4ouXTa6Bjc) | [A Matar o Morir](https://open.spotify.com/album/2gHlHLY067nIqOR0lU0fCL) | 3:49 |
+| 70 | [Esta Noche Quiero Brandy](https://open.spotify.com/track/2cZS89lJVnN2DQKL4mYQbK) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Respetando un Estilo](https://open.spotify.com/album/6FvvpSp5IUdBVzIQ9su2dC) | 4:01 |
 | 71 | [Duele \(En Vivo\)](https://open.spotify.com/track/14JHCa6cBpKibif7SeWzcW) | [Los Lirios De Santa Fe](https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7) | [Alta Revolución, Pt\. 2 \(En Vivo\)](https://open.spotify.com/album/1g2pbUcnkHCem0Lu6Qb3RJ) | 3:55 |
-| 72 | [Esta Noche Quiero Brandy](https://open.spotify.com/track/2cZS89lJVnN2DQKL4mYQbK) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Respetando un Estilo](https://open.spotify.com/album/6FvvpSp5IUdBVzIQ9su2dC) | 4:01 |
+| 72 | [Como Tu Enemigo](https://open.spotify.com/track/03IoH7NmNDEXW7SSGj0ISS) | [Chanchi y Los Autenticos](https://open.spotify.com/artist/137pHEZ9U76r4ouXTa6Bjc) | [A Matar o Morir](https://open.spotify.com/album/2gHlHLY067nIqOR0lU0fCL) | 3:49 |
 | 73 | [Éxitos Santafesinos Enganchados ATR](https://open.spotify.com/track/2cBvpjA37H8AGuVhSpWbMv) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Grupo Trinidad](https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ) | [Éxitos Santafesinos Enganchados ATR](https://open.spotify.com/album/0k6pbTWKg8k9qeAdYpTfzH) | 3:56 |
 | 74 | [Entre el Odio y el Amor](https://open.spotify.com/track/5qfwWBHMPJVyVuS7BcyKkX) | [La Groupera](https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7) | [Rico y Suave](https://open.spotify.com/album/2fhIHdHYooK2MPRt6ehxsP) | 3:38 |
 | 75 | [Dos Hombres y un Destino](https://open.spotify.com/track/1iIAxG5tkw8ahvPRQQbETT) | [Walter Encina](https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp) | [Clásicos Vivos](https://open.spotify.com/album/2w11EboINsdQtXVzZXKuJo) | 3:09 |
 | 76 | [Enganchados 2 \(Contigo me gusta / No me acostumbro\)](https://open.spotify.com/track/5YOF7OshUzsTYSayUZoHG4) | [Leo Mattioli y Trinidad](https://open.spotify.com/artist/1Kdqfub5UFyQM8DP9ie1gH) | [Juntando Las Almas](https://open.spotify.com/album/5sbfEnlkljlsbgW04Dr9To) | 3:20 |
-| 77 | [María La Celosa](https://open.spotify.com/track/1JE5btALQhrrsm0KBKjcJ9) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [María La Celosa](https://open.spotify.com/album/1Fzv08KCiiE7ExkWmqOofF) | 2:48 |
-| 78 | [Hasta el Sol de Hoy](https://open.spotify.com/track/1lT6GEEYN0loScdr9sES0C) | [Los Del Palmar](https://open.spotify.com/artist/19M8Gfe7Ydw6b8293gtlt7) | [Leña Seca](https://open.spotify.com/album/1hpJcctopOylCRIPabekj3) | 3:35 |
+| 77 | [Hasta el Sol de Hoy](https://open.spotify.com/track/1lT6GEEYN0loScdr9sES0C) | [Los Del Palmar](https://open.spotify.com/artist/19M8Gfe7Ydw6b8293gtlt7) | [Leña Seca](https://open.spotify.com/album/1hpJcctopOylCRIPabekj3) | 3:35 |
+| 78 | [María La Celosa](https://open.spotify.com/track/1JE5btALQhrrsm0KBKjcJ9) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [María La Celosa](https://open.spotify.com/album/1Fzv08KCiiE7ExkWmqOofF) | 2:48 |
 | 79 | [Cosas del amor](https://open.spotify.com/track/4Gd1XTVJtxzGdrr87WY2h8) | [Mario Luis con los Angeles Colombianos](https://open.spotify.com/artist/7tB6buXGRGgBaZftFGMCMy) | [20 años de cumbia \- Los mejores exitos de 1990 \- 2010](https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU) | 3:40 |
 | 80 | [En Una de Esas](https://open.spotify.com/track/08Z31XojFdEwE8iVrFChfJ) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [En Una de Esas](https://open.spotify.com/album/4yIesG8JV0ci23vBPnn5T5) | 3:17 |
 
-Snapshot ID: `MTY2MDg3ODAwMCwwMDAwMDAwMDdkNzJlNDhkMjczNmE4N2U1NGNjMzUyOWVkNjc3YjBi`
+Snapshot ID: `MTY2MDg3ODAwMCwwMDAwMDAwMDI5OTQ3N2MwMTgxZWE0ZTc3MjU4NDU0ZTJkZDhjMGNm`

@@ -1,12 +1,12 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 84445,
+  "num_followers": 84367,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTc5MDA1NSwwMDAwMDAwMDc0ZmFhZjE2MTAwNDJjY2UwYzhmZTUyNjEwMWRlMDQy",
+  "snapshot_id": "MTY2MTc5MDA1NSwwMDAwMDAwMGYwNjlkYWVjNTQzYjgzYjFlZTNkM2RjZGVkMGRkY2E3",
   "tracks": [
     {
       "added_at": "2022-07-21 20:30:32",
@@ -585,6 +585,22 @@
       "url": "https://open.spotify.com/track/3hYwZdd2dvngfePGMwkfbN"
     },
     {
+      "added_at": "2022-07-21 20:30:32",
+      "album": {
+        "name": "Moon Safari",
+        "url": "https://open.spotify.com/album/206GTDefY2qRMQxYXmfb0a"
+      },
+      "artists": [
+        {
+          "name": "Air",
+          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+        }
+      ],
+      "duration_ms": 426614,
+      "name": "La femme d'argent",
+      "url": "https://open.spotify.com/track/6tEaLXZlN8b71vWV1SSsRf"
+    },
+    {
       "added_at": "2022-06-24 00:45:24",
       "album": {
         "name": "Mordechai Remixes",
@@ -605,38 +621,6 @@
       "url": "https://open.spotify.com/track/09QrWF1BFYe8Inkh9Al5ye"
     },
     {
-      "added_at": "2022-07-21 20:30:32",
-      "album": {
-        "name": "Moon Safari",
-        "url": "https://open.spotify.com/album/206GTDefY2qRMQxYXmfb0a"
-      },
-      "artists": [
-        {
-          "name": "Air",
-          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
-        }
-      ],
-      "duration_ms": 426614,
-      "name": "La femme d'argent",
-      "url": "https://open.spotify.com/track/6tEaLXZlN8b71vWV1SSsRf"
-    },
-    {
-      "added_at": "2022-06-24 00:45:24",
-      "album": {
-        "name": "Dub Reggae",
-        "url": "https://open.spotify.com/album/5c1GnEPAEjvyqqhV7mSkjS"
-      },
-      "artists": [
-        {
-          "name": "King Tubby",
-          "url": "https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7"
-        }
-      ],
-      "duration_ms": 218693,
-      "name": "Take Five",
-      "url": "https://open.spotify.com/track/0t0F3Qyt3kKFU7rGxKa02t"
-    },
-    {
       "added_at": "2022-06-24 00:45:24",
       "album": {
         "name": "V I N C E N T",
@@ -655,6 +639,22 @@
       "duration_ms": 234213,
       "name": "Greener",
       "url": "https://open.spotify.com/track/63m0IDtaFrriTDW9vDqoXy"
+    },
+    {
+      "added_at": "2022-06-24 00:45:24",
+      "album": {
+        "name": "Dub Reggae",
+        "url": "https://open.spotify.com/album/5c1GnEPAEjvyqqhV7mSkjS"
+      },
+      "artists": [
+        {
+          "name": "King Tubby",
+          "url": "https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7"
+        }
+      ],
+      "duration_ms": 218693,
+      "name": "Take Five",
+      "url": "https://open.spotify.com/track/0t0F3Qyt3kKFU7rGxKa02t"
     },
     {
       "added_at": "2022-06-24 00:45:24",
@@ -845,6 +845,22 @@
       "url": "https://open.spotify.com/track/4fyklTEI49emJVhsgUxl6g"
     },
     {
+      "added_at": "2022-06-24 00:45:24",
+      "album": {
+        "name": "Horizon Unlimted",
+        "url": "https://open.spotify.com/album/6NfAHT2xusXUA4E7WMj8HY"
+      },
+      "artists": [
+        {
+          "name": "Lijadu Sisters",
+          "url": "https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ"
+        }
+      ],
+      "duration_ms": 316866,
+      "name": "Come On Home",
+      "url": "https://open.spotify.com/track/3XPOwqZH6WsBLn3uURmXQ4"
+    },
+    {
       "added_at": "2022-08-16 13:51:08",
       "album": {
         "name": "Water",
@@ -863,22 +879,6 @@
       "duration_ms": 298713,
       "name": "Water",
       "url": "https://open.spotify.com/track/22QE1KHFMkl96UTjeDQ4GV"
-    },
-    {
-      "added_at": "2022-06-24 00:45:24",
-      "album": {
-        "name": "Horizon Unlimted",
-        "url": "https://open.spotify.com/album/6NfAHT2xusXUA4E7WMj8HY"
-      },
-      "artists": [
-        {
-          "name": "Lijadu Sisters",
-          "url": "https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ"
-        }
-      ],
-      "duration_ms": 316866,
-      "name": "Come On Home",
-      "url": "https://open.spotify.com/track/3XPOwqZH6WsBLn3uURmXQ4"
     },
     {
       "added_at": "2022-06-24 00:45:24",
@@ -1207,42 +1207,6 @@
     {
       "added_at": "2022-06-24 00:45:24",
       "album": {
-        "name": "London. Paris. Berlin.",
-        "url": "https://open.spotify.com/album/1dDsbruFq4OZMM1Xj3KF6v"
-      },
-      "artists": [
-        {
-          "name": "Shire T",
-          "url": "https://open.spotify.com/artist/0AIim12jO78DuyyUYbHfAe"
-        },
-        {
-          "name": "Maribou State",
-          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
-        }
-      ],
-      "duration_ms": 245200,
-      "name": "London. Paris. Berlin.",
-      "url": "https://open.spotify.com/track/5mxQ1JcGnb3sTu5zO08ZTK"
-    },
-    {
-      "added_at": "2022-06-24 00:45:24",
-      "album": {
-        "name": "Jazz Vol. 1",
-        "url": "https://open.spotify.com/album/2cWeR05mqXycoHSAHaCBMV"
-      },
-      "artists": [
-        {
-          "name": "Seb Wildblood",
-          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
-        }
-      ],
-      "duration_ms": 397477,
-      "name": "Jazz Vol. 1",
-      "url": "https://open.spotify.com/track/2f9TCHbHyWF85G9LDjjwiF"
-    },
-    {
-      "added_at": "2022-06-24 00:45:24",
-      "album": {
         "name": "All Inclusive",
         "url": "https://open.spotify.com/album/3Ds49Xs732sr7FXcH6OrLJ"
       },
@@ -1263,6 +1227,26 @@
     {
       "added_at": "2022-06-24 00:45:24",
       "album": {
+        "name": "London. Paris. Berlin.",
+        "url": "https://open.spotify.com/album/1dDsbruFq4OZMM1Xj3KF6v"
+      },
+      "artists": [
+        {
+          "name": "Shire T",
+          "url": "https://open.spotify.com/artist/0AIim12jO78DuyyUYbHfAe"
+        },
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        }
+      ],
+      "duration_ms": 245200,
+      "name": "London. Paris. Berlin.",
+      "url": "https://open.spotify.com/track/5mxQ1JcGnb3sTu5zO08ZTK"
+    },
+    {
+      "added_at": "2022-06-24 00:45:24",
+      "album": {
         "name": "OnlyL",
         "url": "https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 288038,
       "name": "I Know",
       "url": "https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7"
+    },
+    {
+      "added_at": "2022-06-24 00:45:24",
+      "album": {
+        "name": "Jazz Vol. 1",
+        "url": "https://open.spotify.com/album/2cWeR05mqXycoHSAHaCBMV"
+      },
+      "artists": [
+        {
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+        }
+      ],
+      "duration_ms": 397477,
+      "name": "Jazz Vol. 1",
+      "url": "https://open.spotify.com/track/2f9TCHbHyWF85G9LDjjwiF"
     },
     {
       "added_at": "2022-06-24 00:45:24",

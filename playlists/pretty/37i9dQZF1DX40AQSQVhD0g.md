@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40AQSQVhD0g.md) - [plain]
 
 > Buenas vibras para limpiar la casa! The best vibes to keep the house clean!
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,434 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,472 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40AQSQVhD0g.md) - [plain]
 | 66 | [Stand by Me](https://open.spotify.com/track/0DQd0tWurMHUAv0cMnDELH) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Prince Royce](https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh) | 3:25 |
 | 67 | [Nunca Es Suficiente](https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Esto Sí Es Cumbia](https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY) | 4:26 |
 | 68 | [I Like It](https://open.spotify.com/track/4nVyHATevhl5RC6Qmoko5H) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Euphoria \(Standard US/Latin version\)](https://open.spotify.com/album/12HeDZhPHHzCe7VE0uEYwD) | 3:51 |
-| 69 | [Como La Flor](https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 3:04 |
+| 69 | [Suerte \(Whenever, Wherever\)](https://open.spotify.com/track/3TY1PFZXmYeiLcXygB74My) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:14 |
 | 70 | [Volví a Nacer](https://open.spotify.com/track/6Al0Kpd4VrRZ0Z4kTThNPa) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Corazón Profundo \(Versión Deluxe\)](https://open.spotify.com/album/5aYaYsDnVXSvVTP7KTHmSl) | 3:42 |
-| 71 | [Suerte \(Whenever, Wherever\)](https://open.spotify.com/track/3TY1PFZXmYeiLcXygB74My) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:14 |
+| 71 | [Como La Flor](https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 3:04 |
 | 72 | [Enamorado de Ti](https://open.spotify.com/track/3pY68z0dH4i4gF1zzONS0q) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Tu Última Canción](https://open.spotify.com/album/0uunEJN1BK7y3yg2GncXxa) | 4:09 |
 | 73 | [Feliz Feliz](https://open.spotify.com/track/0JZV1UuBsbSwHhGirgWaXI) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Mexico Querido](https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1) | 3:37 |
 | 74 | [Te Quiero](https://open.spotify.com/track/1Z4IqxukC6Yuer0nK7rC2R) | [Flex](https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN) | [Te Quiero](https://open.spotify.com/album/4GBaFbtHeZD8t8bd1jE0AD) | 3:19 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40AQSQVhD0g.md) - [plain]
 | 81 | [Ai Se Eu Te Pego \- Ao Vivo](https://open.spotify.com/track/46aIq2GKW7Vr6i4g2Vvycd) | [Michel Teló](https://open.spotify.com/artist/1sDVuztNhGcetCLChkleDA) | [Na Balada \(Ao Vivo\)](https://open.spotify.com/album/4urZPIaswCaFNXZoZ3adkw) | 2:50 |
 | 82 | [La Bomba](https://open.spotify.com/track/0Tl84qfow6Dv0PM60zoBhb) | [azul azul](https://open.spotify.com/artist/0SWtMcmZLgP04Kj5x0eCxa) | [El Sapo](https://open.spotify.com/album/4ym0QOQmTKoioL4QwlN2wB) | 2:03 |
 | 83 | [Bidi Bidi Bom Bom](https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 3:07 |
-| 84 | [Ser O Parecer](https://open.spotify.com/track/5sgvzXoYFCr5F5tUZdAA20) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo), [Alfonso Herrera](https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN) | [Celestial](https://open.spotify.com/album/1cjDwE4UHCXZOwgYE3XUgw) | 3:31 |
-| 85 | [Kaprichosa](https://open.spotify.com/track/11iYGnLvPxB2O9k0xGmPvq) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Kaprichosa](https://open.spotify.com/album/398f6bMojV8IIh3FXd3q0o) | 3:20 |
+| 84 | [Kaprichosa](https://open.spotify.com/track/11iYGnLvPxB2O9k0xGmPvq) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Kaprichosa](https://open.spotify.com/album/398f6bMojV8IIh3FXd3q0o) | 3:20 |
+| 85 | [Ser O Parecer](https://open.spotify.com/track/5sgvzXoYFCr5F5tUZdAA20) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo), [Alfonso Herrera](https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN) | [Celestial](https://open.spotify.com/album/1cjDwE4UHCXZOwgYE3XUgw) | 3:31 |
 | 86 | [Corazon Espinado \(feat\. Mana\)](https://open.spotify.com/track/2WoqgtWEBbbBKMDN6Becs7) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Supernatural \(Remastered\)](https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq) | 4:34 |
 | 87 | [Espejeando](https://open.spotify.com/track/6mEp3WgXcjJw5yjG2C4GuH) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Amor Platónico](https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC) | 3:03 |
 | 88 | [Inolvidable](https://open.spotify.com/track/7bEZbS1gadU29L5eIwM2gM) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 2:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40AQSQVhD0g.md) - [plain]
 | 99 | [Na Na Na \(Dulce Niña\)](https://open.spotify.com/track/3o3eHNNF5HDU3I0Jg25SGD) | [A.B\. Quintanilla III Y Los Kumbia Kings](https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL) | [Lo Mejor De...](https://open.spotify.com/album/5J1qxK7rxPeYi7wgQALes2) | 3:27 |
 | 100 | [Pa'lla Voy](https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Pa'lla Voy](https://open.spotify.com/album/7Egfnc2y2UO9Gqeh5nYzDh) | 4:06 |
 
-Snapshot ID: `MTY1ODIxNDE5MCwwMDAwMDAwMDRjMzA0OTY1Yzc3YTQ5MjAzYzdmNTk1MzM1YWI1ZDMx`
+Snapshot ID: `MTY1ODIxNDE5MCwwMDAwMDAwMGRhYzkyNTcxZjQ3NmY1ZmIwMmNhYjI0Zjc0YjBkYjg2`

@@ -1,12 +1,12 @@
 {
   "description": "Turn that frown upside down with these pop classics.",
-  "num_followers": 1029592,
+  "num_followers": 1029630,
   "original_name": "Positive Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDExMjk0MCwwMDAwMDAwMDk1NmE5MTkxY2FmNzEwOGJkMzNlZmZkMzVkMzA4ZTBj",
+  "snapshot_id": "MTY2MDExMjk0MCwwMDAwMDAwMDhkODcwZWQwOWZhODg1MTU2MDQwMDIyNzMzN2U1YzM0",
   "tracks": [
     {
       "added_at": "2021-05-31 03:08:42",
@@ -143,22 +143,6 @@
     {
       "added_at": "2021-05-31 03:08:42",
       "album": {
-        "name": "TALKING IS HARD",
-        "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
-      },
-      "artists": [
-        {
-          "name": "WALK THE MOON",
-          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
-        }
-      ],
-      "duration_ms": 199080,
-      "name": "Shut Up and Dance",
-      "url": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"
-    },
-    {
-      "added_at": "2021-05-31 03:08:42",
-      "album": {
         "name": "thank u, next",
         "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 178626,
       "name": "7 rings",
       "url": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF"
+    },
+    {
+      "added_at": "2021-05-31 03:08:42",
+      "album": {
+        "name": "TALKING IS HARD",
+        "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
+      },
+      "artists": [
+        {
+          "name": "WALK THE MOON",
+          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
+        }
+      ],
+      "duration_ms": 199080,
+      "name": "Shut Up and Dance",
+      "url": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"
     },
     {
       "added_at": "2021-05-31 03:08:42",
@@ -279,6 +279,22 @@
     {
       "added_at": "2021-05-31 03:08:42",
       "album": {
+        "name": "thank u, next",
+        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 207320,
+      "name": "thank u, next",
+      "url": "https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ"
+    },
+    {
+      "added_at": "2021-05-31 03:08:42",
+      "album": {
         "name": "The Heist",
         "url": "https://open.spotify.com/album/76FXHQhTuT4QMIxfL09gX8"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 258342,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn"
-    },
-    {
-      "added_at": "2021-05-31 03:08:42",
-      "album": {
-        "name": "thank u, next",
-        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 207320,
-      "name": "thank u, next",
-      "url": "https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ"
     },
     {
       "added_at": "2021-05-31 03:08:42",
@@ -483,22 +483,6 @@
     {
       "added_at": "2021-05-31 03:08:42",
       "album": {
-        "name": "Oh, What A Life",
-        "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
-      },
-      "artists": [
-        {
-          "name": "American Authors",
-          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
-        }
-      ],
-      "duration_ms": 194240,
-      "name": "Best Day Of My Life",
-      "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
-    },
-    {
-      "added_at": "2021-05-31 03:08:42",
-      "album": {
         "name": "Pink Friday (Complete Edition)",
         "url": "https://open.spotify.com/album/7aADdYLiK1z7GlMFr0UIZw"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 200013,
       "name": "Super Bass",
       "url": "https://open.spotify.com/track/3hlksXnvbKogFdPbpO9vel"
+    },
+    {
+      "added_at": "2021-05-31 03:08:42",
+      "album": {
+        "name": "Oh, What A Life",
+        "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
+      },
+      "artists": [
+        {
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+        }
+      ],
+      "duration_ms": 194240,
+      "name": "Best Day Of My Life",
+      "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
     },
     {
       "added_at": "2021-05-31 03:08:42",
@@ -843,6 +843,22 @@
     {
       "added_at": "2021-05-31 03:08:42",
       "album": {
+        "name": "Tell Me You Love Me",
+        "url": "https://open.spotify.com/album/5Mu891tmjTbt64meovPSuf"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 203760,
+      "name": "Sorry Not Sorry",
+      "url": "https://open.spotify.com/track/0yvPEnB032fojLfVluFjUv"
+    },
+    {
+      "added_at": "2021-05-31 03:08:42",
+      "album": {
         "name": "Random Access Memories",
         "url": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 369626,
       "name": "Get Lucky (feat. Pharrell Williams & Nile Rodgers)",
       "url": "https://open.spotify.com/track/69kOkLUCkxIZYexIgSG8rq"
-    },
-    {
-      "added_at": "2021-05-31 03:08:42",
-      "album": {
-        "name": "Tell Me You Love Me",
-        "url": "https://open.spotify.com/album/5Mu891tmjTbt64meovPSuf"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 203760,
-      "name": "Sorry Not Sorry",
-      "url": "https://open.spotify.com/track/0yvPEnB032fojLfVluFjUv"
     },
     {
       "added_at": "2021-05-31 03:08:42",

@@ -4,7 +4,7 @@
 
 > From the Congo, to the world\. / Du Congo, au monde\. 🌍  Photo: Serge Ibaka
 
-106 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/0QsAyPkUkQJAP3188u2g45)
+107 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/0QsAyPkUkQJAP3188u2g45)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Run](https://open.spotify.com/track/2wu0PnQQt12He8L2pQUS7w) | [PVPI STRZ](https://open.spotify.com/artist/11Cznn5Yl5mmlY3WRNsuFk) | [Run](https://open.spotify.com/album/1lLdivmzyjNWRMos5ttRKa) | 3:29 | 2022-06-30 |  |
 | [Répondeur](https://open.spotify.com/track/215HuX5KUiYvdfQ5cO33Xd) | [Seven Binks](https://open.spotify.com/artist/12SPMb4VM4PyBD9no01jbH), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3), [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D) | [Monument](https://open.spotify.com/album/0qdoV48ifvkgiHkczUszyI) | 3:16 | 2022-06-30 |  |
 | [Sakwado](https://open.spotify.com/track/6wQzmZREyVEFT2LTWoK3jE) | [George Kipa](https://open.spotify.com/artist/3ueSDQRME8RZFqJpJUEsxR), [Gbandz](https://open.spotify.com/artist/3dq9mDztwPneAJs5bZkgWw), [Mwizz](https://open.spotify.com/artist/5bSeeBLmB0lRlEQk02KoeU) | [Sakwado](https://open.spotify.com/album/1lXZ9T2DUQuxUnqtbiSL3W) | 2:40 | 2022-06-30 |  |
+| [Science\-Fiction](https://open.spotify.com/track/2GSk3VrKZZGRfDejDmhi86) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Science\-Fiction](https://open.spotify.com/album/5OWv5Bpm5LYBwMGYKFkBpj) | 6:40 | 2022-08-26 |  |
 | [Solola bien](https://open.spotify.com/track/2DojN92dP5pBFCQK5YLGQJ) | [Wenge Musica Maison Mère](https://open.spotify.com/artist/5HYnodQm58vIfTGvxhA1Qp) | [Maison mère](https://open.spotify.com/album/5M8p6oL21ngPA4E5lSIGbU) | 7:02 | 2022-06-30 |  |
 | [Techno malewa mécanique](https://open.spotify.com/track/5O34o7gWa08iA4giYbY6mS) | [Werrason](https://open.spotify.com/artist/5QnSd8nC7fUp47pEma0sqU), [Wenge Musica Maison Mère](https://open.spotify.com/artist/5HYnodQm58vIfTGvxhA1Qp) | [Techno malewa, vol\. 1 : sans cesse](https://open.spotify.com/album/6Zt11836h7D2abgRex1UXR) | 12:18 | 2022-06-30 | 2022-07-09 |
 | [Tibo Tisipa](https://open.spotify.com/track/74M1wN8Zv3mVZehAARrsU2) | [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX), [MC RedBul](https://open.spotify.com/artist/64QR3VB1Lc0fkVR9FSc6q7) | [SMS for Location, Vol\. 4](https://open.spotify.com/album/6wTdl91po1VgHgLsFa6YJk) | 3:02 | 2022-06-30 |  |

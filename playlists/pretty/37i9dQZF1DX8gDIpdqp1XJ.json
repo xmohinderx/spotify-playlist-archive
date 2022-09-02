@@ -1,12 +1,12 @@
 {
   "description": "The best of modern psychedelic rock,  neo-psychedelic, and psychedelic indie. ",
-  "num_followers": 781913,
+  "num_followers": 781290,
   "original_name": "Modern Psychedelia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTU0MTMxNywwMDAwMDAwMDI4MDU0ZTQwMGJkNzg2ZjE3OGFlZjc1ZDU3ZjhhMzFk",
+  "snapshot_id": "MTY2MTU0MTMxNywwMDAwMDAwMDNhOWRkYmUzMDA3MTA1MjIwZGZhYzhmNTI2NmEzYzll",
   "tracks": [
     {
       "added_at": "2022-08-26 05:41:00",
@@ -735,6 +735,26 @@
     {
       "added_at": "2022-08-26 05:41:00",
       "album": {
+        "name": "Tres Hermanos",
+        "url": "https://open.spotify.com/album/6EegfhQTzRiBxkmZJ79sC4"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        },
+        {
+          "name": "Dan Auerbach",
+          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+        }
+      ],
+      "duration_ms": 201413,
+      "name": "Tres Hermanos",
+      "url": "https://open.spotify.com/track/0cb9Ov9eC2eFxac6bCcUZl"
+    },
+    {
+      "added_at": "2022-08-26 05:41:00",
+      "album": {
         "name": "I Think I Left the Stove On",
         "url": "https://open.spotify.com/album/6GmBP3c1JJx9ZOg2LMlIc5"
       },
@@ -783,42 +803,18 @@
     {
       "added_at": "2022-08-26 05:41:00",
       "album": {
-        "name": "Tres Hermanos",
-        "url": "https://open.spotify.com/album/6EegfhQTzRiBxkmZJ79sC4"
+        "name": "Ruby Sparks",
+        "url": "https://open.spotify.com/album/5gV0W63JWYVOspHQjb3ycY"
       },
       "artists": [
         {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
-        },
-        {
-          "name": "Dan Auerbach",
-          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+          "name": "Mon\u00e9t Ngo",
+          "url": "https://open.spotify.com/artist/1fEFxSI9yJtuiUipeHuBLw"
         }
       ],
-      "duration_ms": 201413,
-      "name": "Tres Hermanos",
-      "url": "https://open.spotify.com/track/0cb9Ov9eC2eFxac6bCcUZl"
-    },
-    {
-      "added_at": "2022-08-26 05:41:00",
-      "album": {
-        "name": "Texas Moon",
-        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 230137,
-      "name": "Doris",
-      "url": "https://open.spotify.com/track/01psXbOBykOM12RHATPCjr"
+      "duration_ms": 254284,
+      "name": "Ruby Sparks",
+      "url": "https://open.spotify.com/track/5XTmYM921b7aXDzINhhykP"
     },
     {
       "added_at": "2022-08-26 05:41:00",
@@ -839,18 +835,22 @@
     {
       "added_at": "2022-08-26 05:41:00",
       "album": {
-        "name": "Ruby Sparks",
-        "url": "https://open.spotify.com/album/5gV0W63JWYVOspHQjb3ycY"
+        "name": "Texas Moon",
+        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
       },
       "artists": [
         {
-          "name": "Mon\u00e9t Ngo",
-          "url": "https://open.spotify.com/artist/1fEFxSI9yJtuiUipeHuBLw"
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 254284,
-      "name": "Ruby Sparks",
-      "url": "https://open.spotify.com/track/5XTmYM921b7aXDzINhhykP"
+      "duration_ms": 230137,
+      "name": "Doris",
+      "url": "https://open.spotify.com/track/01psXbOBykOM12RHATPCjr"
     },
     {
       "added_at": "2022-08-26 05:41:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-08-26 05:41:00",
       "album": {
-        "name": "A Light for Attracting Attention",
-        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
-      },
-      "artists": [
-        {
-          "name": "The Smile",
-          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
-        }
-      ],
-      "duration_ms": 270945,
-      "name": "Thin Thing",
-      "url": "https://open.spotify.com/track/1Sbdw0lMZXkfVmjuH1UTb8"
-    },
-    {
-      "added_at": "2022-08-26 05:41:00",
-      "album": {
         "name": "Merriweather Post Pavilion",
         "url": "https://open.spotify.com/album/5O9OXl9zAWMJTzawofxuan"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 340786,
       "name": "My Girls",
       "url": "https://open.spotify.com/track/2gE0khQ948RYQOeTgCUL2a"
+    },
+    {
+      "added_at": "2022-08-26 05:41:00",
+      "album": {
+        "name": "A Light for Attracting Attention",
+        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
+      },
+      "artists": [
+        {
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+        }
+      ],
+      "duration_ms": 270945,
+      "name": "Thin Thing",
+      "url": "https://open.spotify.com/track/1Sbdw0lMZXkfVmjuH1UTb8"
     },
     {
       "added_at": "2022-08-26 05:41:00",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2022-08-26 05:41:00",
       "album": {
-        "name": "Red Sun",
-        "url": "https://open.spotify.com/album/4AtvSXc9ET59Ho3h1Ck2Om"
+        "name": "In The Darkest Of Nights, Let The Birds Sing",
+        "url": "https://open.spotify.com/album/29eV6SANe6DMvrt3utCNUX"
       },
       "artists": [
         {
-          "name": "Big Wild",
-          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
         }
       ],
-      "duration_ms": 232444,
-      "name": "Red Sun",
-      "url": "https://open.spotify.com/track/115AuyL9TvemxBhMkaR5r4"
+      "duration_ms": 279361,
+      "name": "Under The Moon",
+      "url": "https://open.spotify.com/track/0t0ETzb3iXGXT5YS0FBDy3"
     },
     {
       "added_at": "2022-08-26 05:41:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2022-08-26 05:41:00",
       "album": {
-        "name": "In The Darkest Of Nights, Let The Birds Sing",
-        "url": "https://open.spotify.com/album/29eV6SANe6DMvrt3utCNUX"
-      },
-      "artists": [
-        {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
-        }
-      ],
-      "duration_ms": 279361,
-      "name": "Under The Moon",
-      "url": "https://open.spotify.com/track/0t0ETzb3iXGXT5YS0FBDy3"
-    },
-    {
-      "added_at": "2022-08-26 05:41:00",
-      "album": {
         "name": "SongBook",
         "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 266992,
       "name": "Fuzz Jam",
       "url": "https://open.spotify.com/track/3Pk8ZaUsbzUt4UaCuBh9Mc"
+    },
+    {
+      "added_at": "2022-08-26 05:41:00",
+      "album": {
+        "name": "Red Sun",
+        "url": "https://open.spotify.com/album/4AtvSXc9ET59Ho3h1Ck2Om"
+      },
+      "artists": [
+        {
+          "name": "Big Wild",
+          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
+        }
+      ],
+      "duration_ms": 232444,
+      "name": "Red Sun",
+      "url": "https://open.spotify.com/track/115AuyL9TvemxBhMkaR5r4"
     },
     {
       "added_at": "2022-08-26 05:41:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2022-08-26 05:41:00",
       "album": {
-        "name": "\"Hello, Hi\"",
-        "url": "https://open.spotify.com/album/6GQh3hPNHA7ZOixEdKQKD9"
-      },
-      "artists": [
-        {
-          "name": "Ty Segall",
-          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
-        }
-      ],
-      "duration_ms": 310320,
-      "name": "Distraction",
-      "url": "https://open.spotify.com/track/7eRNT48fKCtZkq8ASyJGVS"
-    },
-    {
-      "added_at": "2022-08-26 05:41:00",
-      "album": {
         "name": "play it pretty",
         "url": "https://open.spotify.com/album/7fip95aV1gjbCJBqHoa8lR"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 240407,
       "name": "Like Yesterday",
       "url": "https://open.spotify.com/track/33yngwxcYNnUVpaGWq2MYz"
+    },
+    {
+      "added_at": "2022-08-26 05:41:00",
+      "album": {
+        "name": "\"Hello, Hi\"",
+        "url": "https://open.spotify.com/album/6GQh3hPNHA7ZOixEdKQKD9"
+      },
+      "artists": [
+        {
+          "name": "Ty Segall",
+          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
+        }
+      ],
+      "duration_ms": 310320,
+      "name": "Distraction",
+      "url": "https://open.spotify.com/track/7eRNT48fKCtZkq8ASyJGVS"
     },
     {
       "added_at": "2022-08-26 05:41:00",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2022-08-26 05:41:00",
       "album": {
-        "name": "Rolling Stone",
-        "url": "https://open.spotify.com/album/7qkzYjhpUzGCiGzm9p3Dv8"
-      },
-      "artists": [
-        {
-          "name": "Oliver Malcolm",
-          "url": "https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK"
-        }
-      ],
-      "duration_ms": 169583,
-      "name": "Rolling Stone",
-      "url": "https://open.spotify.com/track/77pZL5Oq2PVQIPFkEkusZU"
-    },
-    {
-      "added_at": "2022-08-26 05:41:00",
-      "album": {
         "name": "Where I Live",
         "url": "https://open.spotify.com/album/3fdj5y1QH4yT1Z5lYxKAFL"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 180931,
       "name": "Tiger",
       "url": "https://open.spotify.com/track/1zydSwU6v1IHHYeb58c3YB"
+    },
+    {
+      "added_at": "2022-08-26 05:41:00",
+      "album": {
+        "name": "Rolling Stone",
+        "url": "https://open.spotify.com/album/7qkzYjhpUzGCiGzm9p3Dv8"
+      },
+      "artists": [
+        {
+          "name": "Oliver Malcolm",
+          "url": "https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK"
+        }
+      ],
+      "duration_ms": 169583,
+      "name": "Rolling Stone",
+      "url": "https://open.spotify.com/track/77pZL5Oq2PVQIPFkEkusZU"
     },
     {
       "added_at": "2022-08-26 05:41:00",

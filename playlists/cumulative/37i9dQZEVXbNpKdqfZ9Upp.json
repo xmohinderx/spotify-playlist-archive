@@ -305,7 +305,7 @@
       ],
       "date_added": "2022-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 200666,
       "name": "Ah\u00ed Estar\u00e9 Yo",
       "url": "https://open.spotify.com/track/54gaPLcsCWmPUmrgpib9mS"
@@ -719,7 +719,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-27",
+      "date_removed": null,
       "duration_ms": 261922,
       "name": "august",
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
@@ -1606,6 +1606,24 @@
     },
     {
       "album": {
+        "name": "My Type EP",
+        "url": "https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr"
+      },
+      "artists": [
+        {
+          "name": "Saint Motel",
+          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230773,
+      "name": "Cold Cold Man",
+      "url": "https://open.spotify.com/track/6RKGBcDtgzXx21zUjpeu6F"
+    },
+    {
+      "album": {
         "name": "The Lockdown Sessions",
         "url": "https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om"
       },
@@ -2239,7 +2257,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 97392,
       "name": "Doja",
       "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
@@ -5649,7 +5667,7 @@
       ],
       "date_added": "2022-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-26",
+      "date_removed": null,
       "duration_ms": 188929,
       "name": "Mora (ALOCATE REMAKE)",
       "url": "https://open.spotify.com/track/5SWRohMTnae9mrts8TAMcO"
@@ -6963,7 +6981,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 134000,
       "name": "Riri",
       "url": "https://open.spotify.com/track/2DPaMYROSbnrY7dQUDyJSs"

@@ -4,7 +4,7 @@
 
 > Electro tunes for your virtual world.
 
-284 songs - 16 hr 28 min - [published](https://open.spotify.com/playlist/6nn5hAdMA0a7KkNWl7rEwD)
+285 songs - 16 hr 32 min - [published](https://open.spotify.com/playlist/6nn5hAdMA0a7KkNWl7rEwD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Safe](https://open.spotify.com/track/26WKIQfoKE1FryKWAWm7MY) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Safe](https://open.spotify.com/album/6At9zWklU7p32WDdskTrrV) | 2:43 | 2022-01-07 |  |
 | [Sakura](https://open.spotify.com/track/04wJvtcz0bjaCr8bwoaFjm) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [The Giant](https://open.spotify.com/album/72J29lc160d3sxr8FBTPKe) | 2:24 | 2022-01-07 | 2022-07-28 |
 | [SATURN](https://open.spotify.com/track/31LVJ4CwvN2LmCZppHbSPf) | [KUNZITE](https://open.spotify.com/artist/3rMDCvvekRMD0WON14PwqO) | [SATURN](https://open.spotify.com/album/0daAG6oStppxPhgRvDQW0Z) | 3:45 | 2022-01-07 | 2022-07-29 |
+| [SATURN](https://open.spotify.com/track/300FdNRzAAGKn9uYDLw1JU) | [KUNZITE](https://open.spotify.com/artist/3rMDCvvekRMD0WON14PwqO), [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [VISUALS \(DELUXE\)](https://open.spotify.com/album/1uV3CJwt4iG0IVIYFWt7OZ) | 3:45 | 2022-08-05 |  |
 | [SATURN](https://open.spotify.com/track/7qVKwNMu5p9glVSxAnyPWG) | [KUNZITE](https://open.spotify.com/artist/3rMDCvvekRMD0WON14PwqO), [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [VISUALS](https://open.spotify.com/album/0zoanXJYpaFO0jND1HzAti) | 3:45 | 2022-07-14 | 2022-08-26 |
 | [Self Service 1999 \- Instupendo Remix](https://open.spotify.com/track/4n6XlGMsftEDxW9UXIhFMI) | [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS), [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Self Service 1999 \(Instupendo Remix\)](https://open.spotify.com/album/1EWFq5QP7ygc29BQTgGk1O) | 3:35 | 2022-03-11 | 2022-07-24 |
 | [SET THE BAR](https://open.spotify.com/track/4J4Z4HXGbhz4zKDU3BrD45) | [Yungmaple](https://open.spotify.com/artist/1QBaZ9xbIrmYmOwBQY3rVQ), [Von Storm](https://open.spotify.com/artist/5acEBp4nbqoEjROkF8nLj4) | [SET THE BAR](https://open.spotify.com/album/2djbBsRHGZELBrPHdC8sBr) | 3:12 | 2022-01-07 | 2022-07-27 |
@@ -272,7 +273,7 @@
 | [VLONE](https://open.spotify.com/track/0jYBQcR3imgLDhSZN9npPL) | [Vymvn](https://open.spotify.com/artist/6x1eUD956FxAtUWADmudQW) | [VLONE](https://open.spotify.com/album/4jZ0m9OBSZ3E2mwsb1OsCF) | 2:48 | 2022-01-07 |  |
 | [Voyager](https://open.spotify.com/track/7cMFjxhbXBpOlais7KMF3j) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 3:47 | 2022-07-14 | 2022-08-06 |
 | [wait for me](https://open.spotify.com/track/4m1RCS5sMrgDX3zj4RIVKP) | [jives](https://open.spotify.com/artist/72acOFxvIiWFuFacuVvHpd) | [wait for me](https://open.spotify.com/album/45m3UHYn9qrhkjB9Q3y9du) | 3:19 | 2022-01-07 | 2022-07-29 |
-| [Walk Away \- Disphing Remix](https://open.spotify.com/track/16a9WsLirTU7iMSpgc0Dy7) | [Eliminate](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b), [Disphing](https://open.spotify.com/artist/1N1AFyIEAhTIpyY2Qb8l9J) | [Walk Away Remixes](https://open.spotify.com/album/4ccMMDGI11oH9L8XXqJNxc) | 4:05 | 2022-07-08 |  |
+| [Walk Away \- Disphing Remix](https://open.spotify.com/track/16a9WsLirTU7iMSpgc0Dy7) | [Eliminate](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b), [Disphing](https://open.spotify.com/artist/1N1AFyIEAhTIpyY2Qb8l9J) | [Walk Away Remixes](https://open.spotify.com/album/4ccMMDGI11oH9L8XXqJNxc) | 4:05 | 2022-07-08 | 2022-09-02 |
 | [Walking on the Moon \- Bad Computer Remix](https://open.spotify.com/track/6zfyJTgFvo54oLVJjS3jNa) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI), [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Walking on the Moon \(Bad Computer Remix\)](https://open.spotify.com/album/558bORweVenMzjaC0gpcJn) | 3:09 | 2022-01-07 |  |
 | [want u 2 stay](https://open.spotify.com/track/2ss3z79TTuD3YkQAWol9DE) | [Dot](https://open.spotify.com/artist/1A18QbMmejwewRn5hfEFMT), [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu) | [want u 2 stay](https://open.spotify.com/album/4DwQhiao8stnXWX6R9uZfb) | 2:58 | 2022-05-27 | 2022-07-29 |
 | [WHAT THE HELL \- OBLVYN Remix](https://open.spotify.com/track/1FMdcepWuMtbyp7YbvCEjd) | [Johnning](https://open.spotify.com/artist/1yPdXrLhRc50YbwiwCr1uN), [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF) | [WHAT THE HELL \(OBLVYN Remix\)](https://open.spotify.com/album/30WclCTrWqACvzWo9C8tBT) | 2:59 | 2022-08-26 |  |

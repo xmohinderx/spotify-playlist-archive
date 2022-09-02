@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 
 > Chill\. The best indie tracks for just hanging out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 742,037 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 742,029 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,13 +18,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 | 8 | [What Once Was](https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 4:15 |
 | 9 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 |
 | 10 | [L\-Train](https://open.spotify.com/track/5uDxY7uEOSHI8OOqYphnr4) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [L\-Train](https://open.spotify.com/album/3HqA2mPPC5Uadvdt9AU0HO) | 3:47 |
-| 11 | [Texas Sun](https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 4:12 |
+| 11 | [Pretty Boy](https://open.spotify.com/track/7IL8PSVwLOJxqYne6azxQv) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Chip Chrome & The Mono\-Tones](https://open.spotify.com/album/4uNgt1uQs6wZRm4giB3shX) | 3:54 |
 | 12 | [Sunsetz](https://open.spotify.com/track/69UqtTHfUKAJweQwEStRzC) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 3:34 |
 | 13 | [Sweet](https://open.spotify.com/track/3VSYkAf6f46i5ZkXOHORq1) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 4:51 |
-| 14 | [Pretty Boy](https://open.spotify.com/track/7IL8PSVwLOJxqYne6azxQv) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Chip Chrome & The Mono\-Tones](https://open.spotify.com/album/4uNgt1uQs6wZRm4giB3shX) | 3:54 |
+| 14 | [Texas Sun](https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 4:12 |
 | 15 | [dirty claws](https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [play it pretty](https://open.spotify.com/album/7fip95aV1gjbCJBqHoa8lR) | 3:56 |
-| 16 | [Someone To Spend Time With](https://open.spotify.com/track/6SE4JAo7T8C7XkFka5bbga) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Someone To Spend Time With](https://open.spotify.com/album/0DyyOMpwfB5KS6OFNiUV1m) | 2:53 |
-| 17 | [Kingston](https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn) | 3:22 |
+| 16 | [Kingston](https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn) | 3:22 |
+| 17 | [Someone To Spend Time With](https://open.spotify.com/track/6SE4JAo7T8C7XkFka5bbga) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Someone To Spend Time With](https://open.spotify.com/album/0DyyOMpwfB5KS6OFNiUV1m) | 2:53 |
 | 18 | [Kids](https://open.spotify.com/track/3pyyGVqWvRMq43qtJBzxe0) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Kids](https://open.spotify.com/album/39OIkrUzvzzCkwhXh9Rdeg) | 4:29 |
 | 19 | [Bags](https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 4:20 |
 | 20 | [Fire for You](https://open.spotify.com/track/4o0LyB69tylqDG6eTGhmig) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Shadows](https://open.spotify.com/album/0pMkbror5DyuBSl5yeUYTn) | 3:51 |
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 | 25 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 |
 | 26 | [8](https://open.spotify.com/track/6X29iaaazwho3ab7GNue5r) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 2:53 |
 | 27 | [Nothing's Gonna Hurt You Baby](https://open.spotify.com/track/3GhsBdS9ulPK3KCdwHRPhG) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [I.](https://open.spotify.com/album/6w9osZGOS8B7XWW51SBwFT) | 4:46 |
-| 28 | [It Runs Through Me](https://open.spotify.com/track/02CygBCQOIyEuhNZqHHcNx) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 4:21 |
+| 28 | [Metamodernity](https://open.spotify.com/track/4RGWHfQeJftd5XrP8JUgFj) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [Metamodernity](https://open.spotify.com/album/1lgZZELIZZwafQJDycr47q) | 2:42 |
 | 29 | [Act Up](https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [What Box?](https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ) | 3:04 |
 | 30 | [Soul Brother](https://open.spotify.com/track/7Ec6uyUupAzH99HSmsMDfn) | [Golf Trip](https://open.spotify.com/artist/2cSZwherHAASXofK9ZFK2A) | [Soul Brother](https://open.spotify.com/album/40n7vb1dukXUKv6uKGLNsv) | 3:49 |
-| 31 | [Metamodernity](https://open.spotify.com/track/4RGWHfQeJftd5XrP8JUgFj) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [Metamodernity](https://open.spotify.com/album/1lgZZELIZZwafQJDycr47q) | 2:42 |
+| 31 | [It Runs Through Me](https://open.spotify.com/track/02CygBCQOIyEuhNZqHHcNx) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 4:21 |
 | 32 | [Mariella](https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 5:10 |
 | 33 | [Maps](https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 3:39 |
 | 34 | [Real Love Baby](https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Real Love Baby](https://open.spotify.com/album/75614DWrksimeV4oXUhaYP) | 3:09 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 | 64 | [No Woman](https://open.spotify.com/track/5KPXcfXaGOaWUqOHLDXFRP) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Light Upon the Lake](https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv) | 3:57 |
 | 65 | [Open](https://open.spotify.com/track/3JsA2sWDNR9oQogGAzqqtH) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Woman](https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9) | 3:37 |
 | 66 | [Drive](https://open.spotify.com/track/2kJqNHHGOzLNahukdvlDWN) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Oh Wonder](https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT) | 3:16 |
-| 67 | [Rose Pink Cadillac](https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/0JUuId9ZVeNiCk9KGtAUuv) | 4:21 |
-| 68 | [Bitter](https://open.spotify.com/track/2DkZisoN9h1dLa8Sn5sx0n) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [So Long Forever](https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y) | 3:53 |
+| 67 | [Bitter](https://open.spotify.com/track/2DkZisoN9h1dLa8Sn5sx0n) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [So Long Forever](https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y) | 3:53 |
+| 68 | [Rose Pink Cadillac](https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/0JUuId9ZVeNiCk9KGtAUuv) | 4:21 |
 | 69 | [Heart It Races \- Cover Version](https://open.spotify.com/track/0SyOHG2V9CgMSlebbnyoLJ) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Heart It Races \(Cover Version\)](https://open.spotify.com/album/5H7DXLYdOFUa0KD62HqCvd) | 3:51 |
 | 70 | [Every Time the Sun Comes Up](https://open.spotify.com/track/61qxP4Vs5DVX0Ic4GnBklu) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 4:22 |
 | 71 | [ocean view](https://open.spotify.com/track/4MfLjVBgqn4e8fBKWJk6sU) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [life's a beach](https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl) | 2:54 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 | 74 | [Bound \(with Blood Orange\)](https://open.spotify.com/track/3QVOw80vrsAV8UpNMUKI3G) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Letter Blue](https://open.spotify.com/album/2EfIa1JzzYjckiiEbtM7g3) | 3:40 |
 | 75 | [Lost in Paris](https://open.spotify.com/track/4A7DUET5H4f7dJkUhjfVFB) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 3:14 |
 
-Snapshot ID: `MTY2MTUyOTQ3NywwMDAwMDAwMDZiNWExYTEwYWQwYTRmYTY5ZjczZmQyY2VjNDQzNTc5`
+Snapshot ID: `MTY2MTUyOTQ3NywwMDAwMDAwMGQ0NTNlZjg0Yzk1YjRkMzk5ZDY5Y2FmYzcwMGYzZjE3`

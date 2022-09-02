@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIzZt2GAU4X.md) - [plain]
 
 > Vocals and keys, front and center\. Cover: Adele
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,478,270 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,478,022 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIzZt2GAU4X.md) - [plain]
 | 41 | [Out Of Love](https://open.spotify.com/track/4WzhjxvLP95y7AMDy0Atwb) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [The Pains Of Growing](https://open.spotify.com/album/0LzVdypBGpn6dGuHqVGwwt) | 3:47 |
 | 42 | [Lay Me Down](https://open.spotify.com/track/64GRDrL1efgXclrhVCeuA0) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x) | 3:39 |
 | 43 | [Speechless](https://open.spotify.com/track/3GJ4hzg4lrGwU51Y3VARbF) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Dan + Shay](https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE) | 3:33 |
-| 44 | [Don't Look Back In Anger \- Remastered](https://open.spotify.com/track/12dU3vAh6AFoJkisorfoUl) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:49 |
-| 45 | [Welcome to Wonderland](https://open.spotify.com/track/3JfHYZKy5JmE5Fv4gDTCiz) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Welcome to Wonderland](https://open.spotify.com/album/6YgJ3NjlqdUX6MdejVudHp) | 3:19 |
+| 44 | [Welcome to Wonderland](https://open.spotify.com/track/3JfHYZKy5JmE5Fv4gDTCiz) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Welcome to Wonderland](https://open.spotify.com/album/6YgJ3NjlqdUX6MdejVudHp) | 3:19 |
+| 45 | [Don't Look Back In Anger \- Remastered](https://open.spotify.com/track/12dU3vAh6AFoJkisorfoUl) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:49 |
 | 46 | [Empire State of Mind \(Part II\) Broken Down](https://open.spotify.com/track/5sra5UY6sD658OabHL3QtI) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Element Of Freedom](https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN) | 3:36 |
 | 47 | [Skinny Love](https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0) | 3:21 |
 | 48 | [Unfaithful](https://open.spotify.com/track/13xxBnXOuiBxVxJI458B0i) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [A Girl Like Me](https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh) | 3:46 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIzZt2GAU4X.md) - [plain]
 | 66 | [Mad World](https://open.spotify.com/track/3JOVTQ5h8HGFnDdp4VT3MP) | [Gary Jules](https://open.spotify.com/artist/5oRnbmgqvvq7fVlgk4vcEa), [Michael Andrews](https://open.spotify.com/artist/0RkqytrwoGyXGvDiZwT6i2) | [Trading Snakeoil for Wolftickets](https://open.spotify.com/album/1OydCrx4m7fguwcX4stR9z) | 3:09 |
 | 67 | [She Used To Be Mine](https://open.spotify.com/track/2D4BSm5Z8Hq5zYbSgJwEOh) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [What's Inside: Songs from Waitress](https://open.spotify.com/album/1s6codM2ZAB008t9GTyaEk) | 4:10 |
 | 68 | [My Everything](https://open.spotify.com/track/4eumFsTnduH3zRfaASoAPs) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 2:48 |
-| 69 | [Like I'm Gonna Lose You](https://open.spotify.com/track/2pV8RpdLemcyMWko8dASVt) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Like I'm Gonna Lose You](https://open.spotify.com/album/2RspE8aftXJ96d8HLWOc58) | 3:52 |
-| 70 | [Best Day Of My Life](https://open.spotify.com/track/6rUtMKEej81ORTGtCpjyOJ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day Of My Life](https://open.spotify.com/album/5eKyTl0Q430cufzTo8ibcX) | 2:26 |
+| 69 | [Best Day Of My Life](https://open.spotify.com/track/6rUtMKEej81ORTGtCpjyOJ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day Of My Life](https://open.spotify.com/album/5eKyTl0Q430cufzTo8ibcX) | 2:26 |
+| 70 | [Like I'm Gonna Lose You](https://open.spotify.com/track/2pV8RpdLemcyMWko8dASVt) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Like I'm Gonna Lose You](https://open.spotify.com/album/2RspE8aftXJ96d8HLWOc58) | 3:52 |
 | 71 | [100 Years](https://open.spotify.com/track/2lFlveK1y13WWp3vnQtrr3) | [Five For Fighting](https://open.spotify.com/artist/7FgMLbnZVrEnir95O0YujA) | [The Battle for Everything](https://open.spotify.com/album/6RWEJvVwr8aCQfRchRhjMq) | 4:04 |
 | 72 | [Days Like This](https://open.spotify.com/track/0W6vig3DpP1D3R4w72hdWp) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear \(The Complete Edition\)](https://open.spotify.com/album/4Z6CfVlX40xDUq4CTiFpAa) | 2:29 |
 | 73 | [Ordinary People](https://open.spotify.com/track/2ZA4uMlSZjaoWGFqP1tsLI) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Get Lifted](https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J) | 4:41 |
 | 74 | [wish you well](https://open.spotify.com/track/1Y3Lv6ul3BeSQltSAfwZdo) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 3:02 |
 | 75 | [That's Us](https://open.spotify.com/track/7sTDqaGUr9NM8NHQ5SNHi1) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Songs I Wrote in My Bedroom](https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv) | 4:30 |
 
-Snapshot ID: `MTY1Nzg1NzcyMCwwMDAwMDAwMDljZTkxYmY1YTNiYzM4MmZhNjc0MTE3ZTExZGZlN2Jl`
+Snapshot ID: `MTY1Nzg1NzcyMCwwMDAwMDAwMDQyMzZkZmM3NjlmZTM4MmVjMDdmMzk2MzFiNWMyMmUy`

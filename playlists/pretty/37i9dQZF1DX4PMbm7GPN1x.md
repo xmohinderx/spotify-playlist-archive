@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PMbm7GPN1x.md) - [plain]
 
 > Relive the 80s disco era with these hits\. Cover\- Bappi Lahiri
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,113 likes - 50 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,125 likes - 50 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jimmy Jimmy Jimmy Aaja](https://open.spotify.com/track/0NixI1hrDpEnAhTVEqSZwl) | [Parvati Khan](https://open.spotify.com/artist/5vmqQaxyJDcbqdm8LpbjDM) | [Disco Dancer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7HWHznN9Yi0HBMYWxifg3S) | 3:05 |
 | 2 | [Yaar Bina Chain Kanha Ray](https://open.spotify.com/track/5k38rm1bPeiKG6D12s4XoN) | [Bappi Lahiri](https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Saaheb \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5CknHm912teQ2WUbCqNqqy) | 4:33 |
-| 3 | [Aap Jaisa Koi \- Qurbani / Soundtrack Version](https://open.spotify.com/track/0Zq2n84Eplok8MnRE8P5hE) | [Nazia Hassan](https://open.spotify.com/artist/5hW7KULTxMzCDnqaV7LASR), [Feroz Khan](https://open.spotify.com/artist/0J3qMXOTkJBJ2dxIXjyTns) | [Qurbani](https://open.spotify.com/album/5XUhA9v9BBihWJBwTq2ZKs) | 4:09 |
+| 3 | [Aap Jaisa Koi \- From "Qurbani"](https://open.spotify.com/track/49xDZ8b0QuJXitxjFaJnXy) | [Nazia Hassan](https://open.spotify.com/artist/5hW7KULTxMzCDnqaV7LASR), [Feroz Khan](https://open.spotify.com/artist/0J3qMXOTkJBJ2dxIXjyTns) | [Ultimate Love Duets Hits Vol.1](https://open.spotify.com/album/7esFwr5RPQsR0yNUML1Ue7) | 4:09 |
 | 4 | [Auva Auva Koi Yahan Nache](https://open.spotify.com/track/4foMq4FFkVaoVu9oPJMc0z) | [Usha Uthup](https://open.spotify.com/artist/63gvl4egwBtz2czz3aENGa), [Bappi Lahiri](https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN) | [Disco Dancer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7HWHznN9Yi0HBMYWxifg3S) | 5:31 |
 | 5 | [Laila O Laila \- Qurbani / Soundtrack Version](https://open.spotify.com/track/05oQXL5mtuktNigwBOGs6y) | [Kanchan](https://open.spotify.com/artist/20LxVmOnMzPm716JTA7XKi), [Amit Kumar](https://open.spotify.com/artist/5l1aGNGCRGomCMHVufh6xC) | [Qurbani](https://open.spotify.com/album/5XUhA9v9BBihWJBwTq2ZKs) | 4:31 |
 | 6 | [Jawani Janeman](https://open.spotify.com/track/32S5nqTsMlizQPTG6MwSqN) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Namak Halaal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1JuMfPhV42wJD0dcjn9ZX3) | 5:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PMbm7GPN1x.md) - [plain]
 | 49 | [Y.O.G.A\. / Dialogue : Aurat Ke Khoobsurati \(Haadsaa\) \- Haadsaa / Soundtrack Version](https://open.spotify.com/track/6lcmNYpKOZTPOHoXh13V3Y) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Haadsaa](https://open.spotify.com/album/5nJU3UwPAn7lxPqI7TUI7B) | 6:04 |
 | 50 | [Tunak Tunak](https://open.spotify.com/track/31WTP7wNINdClak1Mj7JUD) | [Saira Nasim](https://open.spotify.com/artist/4l632n8KALACmPGRC0lqXi) | [Daku Rani](https://open.spotify.com/album/3V7kk7dsX8EUEu82UZ2UCQ) | 6:46 |
 
-Snapshot ID: `MTY1NDY4MjQ3OCwwMDAwMDAwMGJmYjA5ZjcyNDFlYWZlYzc2NGM5ODlmMjhjZTU5NjFl`
+Snapshot ID: `MTY1NDY4MjQ3OCwwMDAwMDAwMGJkZGU2ZWVkMjMxMzY3MTg1OWVmNjA4MmZjNmNiN2Fh`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-768 songs - 1 day 16 hr 19 min - [published](https://open.spotify.com/playlist/0xZxWo7riSweBRsHAunmHj)
+769 songs - 1 day 16 hr 22 min - [published](https://open.spotify.com/playlist/0xZxWo7riSweBRsHAunmHj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -422,7 +422,7 @@
 | [KOLO](https://open.spotify.com/track/2u6I8SJ3t0oLHH8gpwh3tX) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [INGEN ROSER UDEN TORNE](https://open.spotify.com/album/5LgXmRK2qQq5NNnQA5tLUN) | 2:54 | 2022-06-04 | 2022-06-12 |
 | [KOMFORTABELT](https://open.spotify.com/track/3LbIf7PslxDzCtm9vP96oT) | [RH](https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [KOMFORTABELT](https://open.spotify.com/album/1SkYW8fY21r5KwLFkxjPmK) | 2:06 | 2021-08-29 | 2022-01-08 |
 | [Komplimenter \(feat\. Shooter Gang\)](https://open.spotify.com/track/3r9OFjS4faHR2h8ZjZqQZV) | [DIBSET](https://open.spotify.com/artist/4g53FCcxQZEj8SSr1rHmiH), [Shooter Gang](https://open.spotify.com/artist/7HAfa0zXzOgIEUdyxE08AO) | [Komplimenter \(feat\. Shooter Gang\)](https://open.spotify.com/album/0QGxDExBFtpCMaaOiHk2Ec) | 3:21 | 2022-05-30 | 2022-06-05 |
-| [Kompromis](https://open.spotify.com/track/21buRwKEiznywpwdGp5jLL) | [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X) | [Kompromis](https://open.spotify.com/album/16CgqUDytyW5GhKkTqNRKN) | 3:06 | 2022-07-30 |  |
+| [Kompromis](https://open.spotify.com/track/21buRwKEiznywpwdGp5jLL) | [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X) | [Kompromis](https://open.spotify.com/album/16CgqUDytyW5GhKkTqNRKN) | 3:06 | 2022-07-30 | 2022-09-02 |
 | [Kongespil \- Tinka og Kongespillet](https://open.spotify.com/track/0nQBmwUprs4LYyhECw44LH) | [Hjalmer](https://open.spotify.com/artist/0thQkzSyTo4l3zbpibZznQ) | [Midt I En Drøm Eller Noget Der Ligner](https://open.spotify.com/album/0Ac80GpaaAu8pUGfjO6Swb) | 2:50 | 2021-11-23 | 2021-12-29 |
 | [Krop Som En Sten](https://open.spotify.com/track/2yZK8pNpn1mp2942A3bmpB) | [The Minds Of 99](https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL) | [Infinity Action](https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM) | 3:08 | 2022-01-08 | 2022-04-15 |
 | [Krystalkuglen](https://open.spotify.com/track/0lVG3xhpjArK0F589JEjHV) | [The Minds Of 99](https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL) | [Infinity Action](https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM) | 0:38 | 2022-01-08 | 2022-01-12 |
@@ -668,6 +668,7 @@
 | [Summer of Love \(Shawn Mendes & Tainy\)](https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Summer Of Love](https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk) | 3:04 | 2021-08-22 | 2021-08-31 |
 | [Sunroof](https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5) | 2:43 | 2022-06-19 |  |
 | [Sunshine \(rosegold X Branco\)](https://open.spotify.com/track/4y9dTTx6sO1y7UKR7gquDp) | [rosegold](https://open.spotify.com/artist/3TUFXaknTbUzM1SPutAt3f), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Sunshine \(rosegold X Branco\)](https://open.spotify.com/album/4TYf22G57QeXqxI9fGpWhJ) | 2:28 | 2021-05-09 | 2021-05-10 |
+| [Super Freaky Girl](https://open.spotify.com/track/2yjlYDiNiQkdxVqTlaSrlX) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Queen Radio: Volume 1](https://open.spotify.com/album/1ia27ME4iQkoIyUHBnJqX6) | 2:50 | 2022-09-01 |  |
 | [Sus \(Gobs X Ricky Rich\)](https://open.spotify.com/track/2B42WBdF3IIcSazFD9BtvP) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [Sus \(Gobs X Ricky Rich\)](https://open.spotify.com/album/0nqwOpcQxj5OirkQL0OOeb) | 2:10 | 2022-02-05 | 2022-02-20 |
 | [Sus \(Gobs X Ricky Rich\)](https://open.spotify.com/track/4GItDZYNSfmGSdDreKHJKt) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [INTET TIL ALT](https://open.spotify.com/album/5wagiEPQo04yRElo1K9iql) | 2:10 | 2022-02-19 | 2022-03-22 |
 | [Sweetest Pie](https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Sweetest Pie](https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv) | 3:21 | 2022-03-15 | 2022-03-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 
 > A sound synonymous with the Blues; these are the pioneering names in slide guitar\. Cover: Johnny Winter
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,096 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,139 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 | 33 | [Highway 61 Revisited \- Live in California \- September 1975](https://open.spotify.com/track/0MLny1eMrEO76xLNlw2yTs) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [White Hot Blues](https://open.spotify.com/album/7MDS6yp7pHvXcuLIcjO8xY) | 5:03 |
 | 34 | [Taylor's Rock](https://open.spotify.com/track/6fpaDrwoD72oLtksI0Ei88) | [Sonny Landreth](https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz), [Taylor](https://open.spotify.com/artist/7xzdqdXfioPbZAVhbdrvG1) | [Best \- Southern Blues](https://open.spotify.com/album/69k6vuhXTWhAo8z6JzUSuW) | 3:57 |
 | 35 | [Available Space](https://open.spotify.com/track/439kdOcVhEp5gQ67eYNkKG) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Ry Cooder](https://open.spotify.com/album/6GbhRC2huYcTVGf4TOXVqd) | 2:14 |
-| 36 | [Walkin' Blues](https://open.spotify.com/track/1MI3E3tZOgz4Oe47twVtTd) | [Roy Rogers](https://open.spotify.com/artist/7kPinmrfhaLVSHjDxqAsAe) | [Prime Chops](https://open.spotify.com/album/17tOE8mbZcUnCYEo31VXQy) | 4:35 |
-| 37 | [Night Has Turned to Day](https://open.spotify.com/track/4EtG28bl2zEehPhPsNgc8K) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Fantastic Negrito Deluxe EP](https://open.spotify.com/album/0joZ3fA8e7Qj9W2PLExxwn) | 2:40 |
+| 36 | [Night Has Turned to Day](https://open.spotify.com/track/4EtG28bl2zEehPhPsNgc8K) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Fantastic Negrito Deluxe EP](https://open.spotify.com/album/0joZ3fA8e7Qj9W2PLExxwn) | 2:40 |
+| 37 | [Walkin' Blues](https://open.spotify.com/track/1MI3E3tZOgz4Oe47twVtTd) | [Roy Rogers](https://open.spotify.com/artist/7kPinmrfhaLVSHjDxqAsAe) | [Prime Chops](https://open.spotify.com/album/17tOE8mbZcUnCYEo31VXQy) | 4:35 |
 | 38 | [In Your Town](https://open.spotify.com/track/0nSJRp4NjamAD4pyMkLFyd) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Deuce \(Remastered 2017\)](https://open.spotify.com/album/5o5I17kDIyB7c5iAOhslmJ) | 5:44 |
 | 39 | [Gypsy In Me](https://open.spotify.com/track/4w539nhl7KGUajmyrX5GNq) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Dig In Deep](https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR) | 4:09 |
 | 40 | [Death Row](https://open.spotify.com/track/4gFPqVg2MRvQGkSo7PhkOd) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Gone to Texas](https://open.spotify.com/album/5XaNKUWehrwuVY6lGsLFkQ) | 4:07 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 | 43 | [Shake 'Em on Down](https://open.spotify.com/track/5hIQCctZj7Y1wuIo5UkU90) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Too Bad Jim](https://open.spotify.com/album/30AT3tYydbsfhO5EDu5UKp) | 4:49 |
 | 44 | [Statesboro Blues](https://open.spotify.com/track/1pyyaheYNV54SIVv6z5wxU) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Dreams](https://open.spotify.com/album/51kF3pqbherdGJhcwKdmjC) | 4:06 |
 | 45 | [Talk To Me Baby](https://open.spotify.com/track/0LwiAubJcHVbdDix3f6foC) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 2:15 |
-| 46 | [You Got to Move](https://open.spotify.com/track/4yNZFnV0r7OIuUSep8hFLB) | [Mississippi Fred McDowell](https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ) | [Steakbone Slide Guitar](https://open.spotify.com/album/6cqymm4TdtnSeABGub57Gn) | 2:59 |
+| 46 | [Bad Girl Blues \- Remastered](https://open.spotify.com/track/5abAIEO9uuBFNvWzle7rcx) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [3rd Degree \(Remastered\)](https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ) | 4:34 |
 | 47 | [Ghost Blues](https://open.spotify.com/track/6axmyZv2KR3IUTjuIHSN8E) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Fresh Evidence \(Remastered 2017\)](https://open.spotify.com/album/3nKprInHCjgZsU6GQPeEst) | 8:00 |
-| 48 | [Bad Girl Blues \- Remastered](https://open.spotify.com/track/5abAIEO9uuBFNvWzle7rcx) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [3rd Degree \(Remastered\)](https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ) | 4:34 |
+| 48 | [You Got to Move](https://open.spotify.com/track/4yNZFnV0r7OIuUSep8hFLB) | [Mississippi Fred McDowell](https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ) | [Steakbone Slide Guitar](https://open.spotify.com/album/6cqymm4TdtnSeABGub57Gn) | 2:59 |
 | 49 | [Death Letter Blues](https://open.spotify.com/track/5fO2jCKeCHRIduCq7X7O5e) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Martin Scorsese Presents The Blues: Son House](https://open.spotify.com/album/4HsEjPkFlM2XYST7SS73g4) | 4:19 |
 | 50 | [Roll Your Moneymaker](https://open.spotify.com/track/4LvVULuRGJytccOzfvlT4z) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Deluxe Edition](https://open.spotify.com/album/6W1p3MVr1rpPTWqHwBTZco) | 4:01 |
 
-Snapshot ID: `MTY1Mjk4ODMyOSwwMDAwMDAwMDA1M2FmOGVkZTZlNzA0ZTBlYTQ2ZjMxMGU0ZTkwNjVi`
+Snapshot ID: `MTY1Mjk4ODMyOSwwMDAwMDAwMDc0YjAwZTE1N2FjOGNkNDg4ZGViMmU0NzA4OTIyZjg0`

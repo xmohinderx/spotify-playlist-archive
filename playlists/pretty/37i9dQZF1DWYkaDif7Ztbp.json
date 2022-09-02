@@ -1,28 +1,32 @@
 {
-  "description": "The tracks heating up the continent right now!  Cover: <a href=\"https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz?si=qvOypJUQRzeVnO3tUyQdnw\"> CKay </a>  ",
-  "num_followers": 1065174,
+  "description": "The tracks heating up the continent right now!  Cover: <a href=\"https://open.spotify.com/artist/2qr7RzXXdIkZfcjsw5oA6K?si=ytDd8j_1TzS1NXKKN6ncKQ\"> Mayten </a>  and <a href=\"https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL?si=q0byJvQKSW2bNbGL15u7Ow\"> Blxckie </a>  ",
+  "num_followers": 1066153,
   "original_name": "African Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUxMTYyMCwwMDAwMDAwMGNlNmE1YTZjYWExMjkyNWUzNzQ2NzE4M2RjZGQwOGY4",
+  "snapshot_id": "MTY2MjA3MzIwMCwwMDAwMDAwMGY3ZTJjOTM0NmVhYzJlZTc0NDE1ZjAxM2Q4YjYzY2Mx",
   "tracks": [
     {
-      "added_at": "2022-08-25 23:00:00",
+      "added_at": "2022-09-01 23:00:00",
       "album": {
-        "name": "you",
-        "url": "https://open.spotify.com/album/3R0Vj38qjC04rYeHLDPC2p"
+        "name": "Wait On Me",
+        "url": "https://open.spotify.com/album/2RtxSIZ156yT9DSAQS2BBE"
       },
       "artists": [
         {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+          "name": "Mayten",
+          "url": "https://open.spotify.com/artist/2qr7RzXXdIkZfcjsw5oA6K"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
         }
       ],
-      "duration_ms": 175504,
-      "name": "you",
-      "url": "https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj"
+      "duration_ms": 247337,
+      "name": "Wait On Me",
+      "url": "https://open.spotify.com/track/5o79AnyhGqX0LlBb1am1pV"
     },
     {
       "added_at": "2022-07-21 23:00:00",
@@ -39,6 +43,38 @@
       "duration_ms": 147580,
       "name": "KU LO SA - A COLORS SHOW",
       "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
+    },
+    {
+      "added_at": "2022-05-12 23:00:00",
+      "album": {
+        "name": "Last Last",
+        "url": "https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 172342,
+      "name": "Last Last",
+      "url": "https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "you",
+        "url": "https://open.spotify.com/album/3R0Vj38qjC04rYeHLDPC2p"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 175504,
+      "name": "you",
+      "url": "https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj"
     },
     {
       "added_at": "2022-07-14 23:00:00",
@@ -75,22 +111,6 @@
       "duration_ms": 138034,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/1IiNgs5RGEYyGQFLXJvte5"
-    },
-    {
-      "added_at": "2022-05-12 23:00:00",
-      "album": {
-        "name": "Last Last",
-        "url": "https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 172342,
-      "name": "Last Last",
-      "url": "https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -247,6 +267,30 @@
       "duration_ms": 216991,
       "name": "It's Plenty",
       "url": "https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP"
+    },
+    {
+      "added_at": "2022-09-01 23:00:00",
+      "album": {
+        "name": "SETE (feat. Young Stunna & Blxckie)",
+        "url": "https://open.spotify.com/album/7ceVgKif2FV49HL1u7qxlG"
+      },
+      "artists": [
+        {
+          "name": "K.O",
+          "url": "https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z"
+        },
+        {
+          "name": "Young Stunna",
+          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "duration_ms": 249533,
+      "name": "SETE (feat. Young Stunna & Blxckie)",
+      "url": "https://open.spotify.com/track/5mXZz0tXIToxu3HRohrdSK"
     },
     {
       "added_at": "2022-08-11 23:00:00",
@@ -749,22 +793,6 @@
       "url": "https://open.spotify.com/track/7JVUJLsVXysVpSWChbnz9I"
     },
     {
-      "added_at": "2022-07-21 23:00:00",
-      "album": {
-        "name": "Begging",
-        "url": "https://open.spotify.com/album/2YnH0BZHt58uxsgnnNeeYH"
-      },
-      "artists": [
-        {
-          "name": "Yemi Alade",
-          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
-        }
-      ],
-      "duration_ms": 135272,
-      "name": "Begging",
-      "url": "https://open.spotify.com/track/771tThfRECkaHjTKb6clZx"
-    },
-    {
       "added_at": "2021-12-23 23:00:00",
       "album": {
         "name": "Peru",
@@ -987,26 +1015,6 @@
       "duration_ms": 171998,
       "name": "Big Thug Boys",
       "url": "https://open.spotify.com/track/64f7mZuEkeNeKOuzSjrIGm"
-    },
-    {
-      "added_at": "2022-05-12 23:00:00",
-      "album": {
-        "name": "Stand Strong (feat. Sunday Service Choir)",
-        "url": "https://open.spotify.com/album/3MhLmyxJueeWrXsRWlfw0e"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Sunday Service Choir",
-          "url": "https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg"
-        }
-      ],
-      "duration_ms": 182791,
-      "name": "Stand Strong (feat. Sunday Service Choir)",
-      "url": "https://open.spotify.com/track/1XUf5lpeTQbrohZWdx6Sbz"
     }
   ],
   "unique_name": "African Heat",

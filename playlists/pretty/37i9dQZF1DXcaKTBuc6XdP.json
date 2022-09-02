@@ -1,12 +1,12 @@
 {
   "description": "A playlist of Christian summer camp favorites, past and present.",
-  "num_followers": 2335,
+  "num_followers": 2345,
   "original_name": "Christian Summer Camp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNDk3Mzc2MiwwMDAwMDAwMDY1N2M2OGY3ZDI1YmExN2RlZjcyNTk5YThjNDYxMjEy",
+  "snapshot_id": "MTYyNDk3Mzc2MiwwMDAwMDAwMDg1NzBjMDBiOWNlNDZhOGI0MDNhOWIxNDM1YjFkMTM0",
   "tracks": [
     {
       "added_at": "2021-06-29 13:36:02",
@@ -431,18 +431,22 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "The Art of Translation",
-        "url": "https://open.spotify.com/album/3SNV12s5lZN3puLp5Vft8w"
+        "name": "The Worship Initiative, Vol. 2",
+        "url": "https://open.spotify.com/album/4CjbL4RfKRS81ixWDcZc97"
       },
       "artists": [
         {
-          "name": "Grits",
-          "url": "https://open.spotify.com/artist/6aUgzC0cMh0StjV7LyFEDr"
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 199440,
-      "name": "Here We Go",
-      "url": "https://open.spotify.com/track/5E0d1I8UAe7sleydsGgp4Q"
+      "duration_ms": 229487,
+      "name": "You Are My All In All",
+      "url": "https://open.spotify.com/track/5Qut1hSpuu7GtsInQunc7O"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -463,22 +467,18 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "The Worship Initiative, Vol. 2",
-        "url": "https://open.spotify.com/album/4CjbL4RfKRS81ixWDcZc97"
+        "name": "The Art of Translation",
+        "url": "https://open.spotify.com/album/3SNV12s5lZN3puLp5Vft8w"
       },
       "artists": [
         {
-          "name": "The Worship Initiative",
-          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
-        },
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+          "name": "Grits",
+          "url": "https://open.spotify.com/artist/6aUgzC0cMh0StjV7LyFEDr"
         }
       ],
-      "duration_ms": 229487,
-      "name": "You Are My All In All",
-      "url": "https://open.spotify.com/track/5Qut1hSpuu7GtsInQunc7O"
+      "duration_ms": 199440,
+      "name": "Here We Go",
+      "url": "https://open.spotify.com/track/5E0d1I8UAe7sleydsGgp4Q"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -803,6 +803,22 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
+        "name": "Hymns",
+        "url": "https://open.spotify.com/album/6IsMuKCzRSdfK9uRNq5Bfd"
+      },
+      "artists": [
+        {
+          "name": "Cedarmont Kids",
+          "url": "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
+        }
+      ],
+      "duration_ms": 126333,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/07Hbd32Jgwe7yT8QHus4aJ"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
         "name": "Love Like You (Laudr8 Remix)",
         "url": "https://open.spotify.com/album/5JsuVLJIXwJcC1b0QG086M"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 161311,
       "name": "Love Like You (Laudr8 Remix)",
       "url": "https://open.spotify.com/track/2WFOLhpZmDGhl1xmwIIZrJ"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "Hymns",
-        "url": "https://open.spotify.com/album/6IsMuKCzRSdfK9uRNq5Bfd"
-      },
-      "artists": [
-        {
-          "name": "Cedarmont Kids",
-          "url": "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
-        }
-      ],
-      "duration_ms": 126333,
-      "name": "Amazing Grace",
-      "url": "https://open.spotify.com/track/07Hbd32Jgwe7yT8QHus4aJ"
     },
     {
       "added_at": "2021-06-29 13:36:02",

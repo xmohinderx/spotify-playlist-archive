@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 
 > Grab your dancing shoes and strut your stuff with these upbeat blues numbers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,012 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,046 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 | 25 | [Wang Dang Doodle](https://open.spotify.com/track/1TrOTKixl3cYx8FICICXzK) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf](https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl) | 2:27 |
 | 26 | [All Your Love](https://open.spotify.com/track/3dTKNQxas5m4cuunpHiVpi) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [1956\-1958 Cobra Recordings](https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7) | 2:38 |
 | 27 | [The Blues Had a Baby and They Named It Rock and Roll](https://open.spotify.com/track/0uqCSaw89DrglZ8LTgMfvM) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ) | 3:34 |
-| 28 | [So Long Savior](https://open.spotify.com/track/2G5z3Y9tvqTx4NWKsPHlC2) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: II\. Ascension](https://open.spotify.com/album/1kAOpSgqnN3ya5cFIeZMbM) | 2:39 |
-| 29 | [Done Somebody Wrong \- Live At The Fillmore East, March 1971](https://open.spotify.com/track/0WDsLvL9DKjj3qjed4IBa0) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [At Fillmore East](https://open.spotify.com/album/0Y5Wlv2OJKaW0uDJ5HnUfy) | 4:35 |
+| 28 | [Done Somebody Wrong \- Live At The Fillmore East, March 1971](https://open.spotify.com/track/0WDsLvL9DKjj3qjed4IBa0) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [At Fillmore East](https://open.spotify.com/album/0Y5Wlv2OJKaW0uDJ5HnUfy) | 4:35 |
+| 29 | [So Long Savior](https://open.spotify.com/track/2G5z3Y9tvqTx4NWKsPHlC2) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: II\. Ascension](https://open.spotify.com/album/1kAOpSgqnN3ya5cFIeZMbM) | 2:39 |
 | 30 | [Messin' with the Kid](https://open.spotify.com/track/6VkaGRe98A6x7S5dGmxd30) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Buddy Guy & Junior Wells Plays The Blues](https://open.spotify.com/album/1GGe9Rkv0Yby4ZiEc54pLu) | 2:15 |
 | 31 | [Madison Blues](https://open.spotify.com/track/6ZFqJbqlCmFCEKepLo97FX) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 2:22 |
 | 32 | [Sharecropper’s Son](https://open.spotify.com/track/5TTctmQn2AlFAgdCB5sGoU) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sharecropper's Son](https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf) | 3:06 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 | 43 | [Roadhouse Blues](https://open.spotify.com/track/1dLquP9t2o2O9gUeK6JWVy) | [Blues Traveler](https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ), [Mickey Raphael](https://open.spotify.com/artist/5jEQjcWIMq4M20zoeNo19B) | [Traveler's Blues](https://open.spotify.com/album/4qZssWithmdjNIlbve7XJ3) | 4:25 |
 | 44 | [Midnight In Memphis](https://open.spotify.com/track/2OXDdCck0bMDIUCpaIMBJS) | [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [The Definitive Collection](https://open.spotify.com/album/0SNxW2btAb8QBETOF43oqA) | 4:23 |
 | 45 | [Shake Your Money Maker](https://open.spotify.com/track/2VxnY6jbl0SckkZp9wrNF7) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Money Maker: The Best Of The Fire Sessions](https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu) | 2:32 |
-| 46 | [Georgia Women](https://open.spotify.com/track/6iXthXEPC9OJi9UkOZSN2g) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Georgia Women](https://open.spotify.com/album/1Ju9SXFdTM6uvkjTdiQNAS) | 4:05 |
-| 47 | [Just Your Fool](https://open.spotify.com/track/4Dxe3Y8MPu7ffNrBFPNzRL) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:24 |
-| 48 | [Mustang Sally](https://open.spotify.com/track/5DxJfzKzdBFLu01SxGpnfg) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [The Very Best of Wilson Pickett](https://open.spotify.com/album/1tXKFPGHTVOAWjahKxacXH) | 3:07 |
-| 49 | [Take It Back](https://open.spotify.com/track/0EBCSoTMmj0Gf0aOkZ6Hx1) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Take It Back](https://open.spotify.com/album/0gM5G6j0lWaxk1GOv0nfbL) | 5:35 |
-| 50 | [Trouble No More](https://open.spotify.com/track/3wFXuJfiiQYZquZmNnH3m6) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 2:42 |
+| 46 | [Just Your Fool](https://open.spotify.com/track/4Dxe3Y8MPu7ffNrBFPNzRL) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:24 |
+| 47 | [Georgia Women](https://open.spotify.com/track/6iXthXEPC9OJi9UkOZSN2g) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Georgia Women](https://open.spotify.com/album/1Ju9SXFdTM6uvkjTdiQNAS) | 4:05 |
+| 48 | [Trouble No More](https://open.spotify.com/track/3wFXuJfiiQYZquZmNnH3m6) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 2:42 |
+| 49 | [Mustang Sally](https://open.spotify.com/track/5DxJfzKzdBFLu01SxGpnfg) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [The Very Best of Wilson Pickett](https://open.spotify.com/album/1tXKFPGHTVOAWjahKxacXH) | 3:07 |
+| 50 | [Take It Back](https://open.spotify.com/track/0EBCSoTMmj0Gf0aOkZ6Hx1) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Take It Back](https://open.spotify.com/album/0gM5G6j0lWaxk1GOv0nfbL) | 5:35 |
 
-Snapshot ID: `MTY2MDgyMjA4MywwMDAwMDAwMGVhYzhmMmY0NGUwZTk3M2JkZjQ5MzlmOWNkNjdiYTZl`
+Snapshot ID: `MTY2MDgyMjA4MywwMDAwMDAwMGJjNzk1YzJiZTk5MzE5ZjFiYzIzYmFhOTg1ZTYwMmVl`

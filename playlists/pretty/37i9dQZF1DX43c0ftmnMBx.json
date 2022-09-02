@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Romeo Santos",
-  "num_followers": 185849,
+  "num_followers": 185955,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDk0MDgwMCwwMDAwMDAwMDE3ZDNjODM5YmNiODRlZDZlNmY2NDAxYTllMDY0ZTU1",
+  "snapshot_id": "MTY0NDk0MDgwMCwwMDAwMDAwMGQwY2NhMDYzYmNiYjM4ZTY1Nzg4NjQzYWIwYmVkNzkx",
   "tracks": [
     {
       "added_at": "2022-02-15 16:00:00",
@@ -1187,26 +1187,18 @@
     {
       "added_at": "2022-02-15 16:00:00",
       "album": {
-        "name": "Weekend",
-        "url": "https://open.spotify.com/album/5CpHJgQXcBXROlsDnlRY4b"
+        "name": "La Luz De Mis Ojos",
+        "url": "https://open.spotify.com/album/5v6JO2CVfD3jReTRSkmYO7"
       },
       "artists": [
         {
-          "name": "Henry Santos",
-          "url": "https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF"
-        },
-        {
-          "name": "Lirow",
-          "url": "https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs"
-        },
-        {
-          "name": "Daniel Santacruz",
-          "url": "https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61"
+          "name": "Elvis Martinez",
+          "url": "https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/2xSQ05tzoYMBIuJQUWUe56"
+      "duration_ms": 229613,
+      "name": "La Luz De Mis Ojos",
+      "url": "https://open.spotify.com/track/31lScgOqA8PkbSHDTyLsfJ"
     },
     {
       "added_at": "2022-02-15 16:00:00",
@@ -1227,18 +1219,26 @@
     {
       "added_at": "2022-02-15 16:00:00",
       "album": {
-        "name": "La Luz De Mis Ojos",
-        "url": "https://open.spotify.com/album/5v6JO2CVfD3jReTRSkmYO7"
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/5CpHJgQXcBXROlsDnlRY4b"
       },
       "artists": [
         {
-          "name": "Elvis Martinez",
-          "url": "https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE"
+          "name": "Henry Santos",
+          "url": "https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF"
+        },
+        {
+          "name": "Lirow",
+          "url": "https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs"
+        },
+        {
+          "name": "Daniel Santacruz",
+          "url": "https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61"
         }
       ],
-      "duration_ms": 229613,
-      "name": "La Luz De Mis Ojos",
-      "url": "https://open.spotify.com/track/31lScgOqA8PkbSHDTyLsfJ"
+      "duration_ms": 228000,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/2xSQ05tzoYMBIuJQUWUe56"
     },
     {
       "added_at": "2022-02-15 16:00:00",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2022-02-15 16:00:00",
       "album": {
+        "name": "La Luz De Mis Ojos",
+        "url": "https://open.spotify.com/album/5v6JO2CVfD3jReTRSkmYO7"
+      },
+      "artists": [
+        {
+          "name": "Elvis Martinez",
+          "url": "https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE"
+        }
+      ],
+      "duration_ms": 219666,
+      "name": "Laudano",
+      "url": "https://open.spotify.com/track/23Gn5VcVfaSSYy014b2AJ6"
+    },
+    {
+      "added_at": "2022-02-15 16:00:00",
+      "album": {
         "name": "Escenas De Amor",
         "url": "https://open.spotify.com/album/0FBJ8Wh061zAWwgi8dGDco"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 241684,
       "name": "Muchachita Loca",
       "url": "https://open.spotify.com/track/0EWwi2Gt8xRYc90h8W0Q8A"
-    },
-    {
-      "added_at": "2022-02-15 16:00:00",
-      "album": {
-        "name": "La Luz De Mis Ojos",
-        "url": "https://open.spotify.com/album/5v6JO2CVfD3jReTRSkmYO7"
-      },
-      "artists": [
-        {
-          "name": "Elvis Martinez",
-          "url": "https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE"
-        }
-      ],
-      "duration_ms": 219666,
-      "name": "Laudano",
-      "url": "https://open.spotify.com/track/23Gn5VcVfaSSYy014b2AJ6"
     },
     {
       "added_at": "2022-02-15 16:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 84141,
+  "num_followers": 84164,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4MjgwMCwwMDAwMDAwMDFlOWY0YWVlMjUzNjlkZTljOTYwZjFhZjRkODYwMjFl",
+  "snapshot_id": "MTY2MTQ4MjgwMCwwMDAwMDAwMGM4NzcxMDYzMjUyNWRjNGM2NmMxZGJmNjI0ODAxMzdi",
   "tracks": [
     {
       "added_at": "2022-08-26 03:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-08-26 03:00:00",
       "album": {
-        "name": "Radar",
-        "url": "https://open.spotify.com/album/21upJvK4VBVEwgyftb1k58"
-      },
-      "artists": [
-        {
-          "name": "Paz Carrara",
-          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
-        }
-      ],
-      "duration_ms": 162288,
-      "name": "Radar",
-      "url": "https://open.spotify.com/track/2ZrnMV7mUPqU2qPgFyEa23"
-    },
-    {
-      "added_at": "2022-08-26 03:00:00",
-      "album": {
         "name": "Mar",
         "url": "https://open.spotify.com/album/0TIM64cPYNqIedeY5rNaG2"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 238253,
       "name": "Mar",
       "url": "https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm"
+    },
+    {
+      "added_at": "2022-08-26 03:00:00",
+      "album": {
+        "name": "Radar",
+        "url": "https://open.spotify.com/album/21upJvK4VBVEwgyftb1k58"
+      },
+      "artists": [
+        {
+          "name": "Paz Carrara",
+          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
+        }
+      ],
+      "duration_ms": 162288,
+      "name": "Radar",
+      "url": "https://open.spotify.com/track/2ZrnMV7mUPqU2qPgFyEa23"
     },
     {
       "added_at": "2022-08-26 03:00:00",
@@ -867,26 +867,6 @@
     {
       "added_at": "2022-08-26 03:00:00",
       "album": {
-        "name": "Tiempo Compartido",
-        "url": "https://open.spotify.com/album/60iutg1EYIP0B3ZtYGcj4a"
-      },
-      "artists": [
-        {
-          "name": "Vacaci\u00f3n",
-          "url": "https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd"
-        },
-        {
-          "name": "Adan Jodorowsky",
-          "url": "https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag"
-        }
-      ],
-      "duration_ms": 186386,
-      "name": "Amor De Verano",
-      "url": "https://open.spotify.com/track/0ftQLiC3Whfsb3b6nWAoPK"
-    },
-    {
-      "added_at": "2022-08-26 03:00:00",
-      "album": {
         "name": "Bailemos en la Sala",
         "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 231682,
       "name": "Escondidos",
       "url": "https://open.spotify.com/track/0Dqqdhn0ktI7pz8qNhT3AO"
+    },
+    {
+      "added_at": "2022-08-26 03:00:00",
+      "album": {
+        "name": "Tiempo Compartido",
+        "url": "https://open.spotify.com/album/60iutg1EYIP0B3ZtYGcj4a"
+      },
+      "artists": [
+        {
+          "name": "Vacaci\u00f3n",
+          "url": "https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd"
+        },
+        {
+          "name": "Adan Jodorowsky",
+          "url": "https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag"
+        }
+      ],
+      "duration_ms": 186386,
+      "name": "Amor De Verano",
+      "url": "https://open.spotify.com/track/0ftQLiC3Whfsb3b6nWAoPK"
     },
     {
       "added_at": "2022-08-26 03:00:00",
@@ -959,18 +959,22 @@
     {
       "added_at": "2022-08-26 03:00:00",
       "album": {
-        "name": "Amante",
-        "url": "https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk"
+        "name": "Te Pienso Todo el Tiempo",
+        "url": "https://open.spotify.com/album/1z3DJNUHiZ47dMH0rNjEwz"
       },
       "artists": [
         {
-          "name": "Casandra Paz",
-          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
+          "name": "Todo El Verano",
+          "url": "https://open.spotify.com/artist/36ql1hMBBeWfqeQmK5vXn9"
+        },
+        {
+          "name": "La Femme D\u00b4Argent",
+          "url": "https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ"
         }
       ],
-      "duration_ms": 231154,
-      "name": "Amante",
-      "url": "https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz"
+      "duration_ms": 213993,
+      "name": "Te Pienso Todo el Tiempo",
+      "url": "https://open.spotify.com/track/14CtkTc8EgxHM1fjfkiGXx"
     },
     {
       "added_at": "2022-08-26 03:00:00",
@@ -991,6 +995,22 @@
     {
       "added_at": "2022-08-26 03:00:00",
       "album": {
+        "name": "Amante",
+        "url": "https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk"
+      },
+      "artists": [
+        {
+          "name": "Casandra Paz",
+          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
+        }
+      ],
+      "duration_ms": 231154,
+      "name": "Amante",
+      "url": "https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz"
+    },
+    {
+      "added_at": "2022-08-26 03:00:00",
+      "album": {
         "name": "SMS",
         "url": "https://open.spotify.com/album/2D2JNUc0IzRwyiDR8X2sHh"
       },
@@ -1007,26 +1027,6 @@
       "duration_ms": 188660,
       "name": "Me Conecto (feat. Jorge Drexler)",
       "url": "https://open.spotify.com/track/6X99UPXCpHWCih4OcZN9pg"
-    },
-    {
-      "added_at": "2022-08-26 03:00:00",
-      "album": {
-        "name": "Te Pienso Todo el Tiempo",
-        "url": "https://open.spotify.com/album/1z3DJNUHiZ47dMH0rNjEwz"
-      },
-      "artists": [
-        {
-          "name": "Todo El Verano",
-          "url": "https://open.spotify.com/artist/36ql1hMBBeWfqeQmK5vXn9"
-        },
-        {
-          "name": "La Femme D\u00b4Argent",
-          "url": "https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ"
-        }
-      ],
-      "duration_ms": 213993,
-      "name": "Te Pienso Todo el Tiempo",
-      "url": "https://open.spotify.com/track/14CtkTc8EgxHM1fjfkiGXx"
     },
     {
       "added_at": "2022-08-26 03:00:00",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2022-08-26 03:00:00",
       "album": {
-        "name": "Ah\u00ed Ah\u00ed",
-        "url": "https://open.spotify.com/album/7dr2zU98W3hvgR81Hm02dY"
-      },
-      "artists": [
-        {
-          "name": "Vicente Garcia",
-          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
-        }
-      ],
-      "duration_ms": 210960,
-      "name": "Ah\u00ed Ah\u00ed",
-      "url": "https://open.spotify.com/track/6m02i6JyJz15hw8jOqu3Cz"
-    },
-    {
-      "added_at": "2022-08-26 03:00:00",
-      "album": {
         "name": "TKM",
         "url": "https://open.spotify.com/album/3nygqNGAb9LEbK4yV20sqt"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 230687,
       "name": "TKM",
       "url": "https://open.spotify.com/track/6OU9VH0luFi6oSZ5arLiOy"
+    },
+    {
+      "added_at": "2022-08-26 03:00:00",
+      "album": {
+        "name": "Ah\u00ed Ah\u00ed",
+        "url": "https://open.spotify.com/album/7dr2zU98W3hvgR81Hm02dY"
+      },
+      "artists": [
+        {
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+        }
+      ],
+      "duration_ms": 210960,
+      "name": "Ah\u00ed Ah\u00ed",
+      "url": "https://open.spotify.com/track/6m02i6JyJz15hw8jOqu3Cz"
     },
     {
       "added_at": "2022-08-26 03:00:00",

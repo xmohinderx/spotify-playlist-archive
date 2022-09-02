@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jXLyZM9dhV.md) - [plain]
 
 > Revive la época de los pantalones acampanados en compañía de mamá.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,204 likes - 75 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,231 likes - 75 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jXLyZM9dhV.md) - [plain]
 | 54 | [You Make Me Feel \(Mighty Real\)](https://open.spotify.com/track/0RnCUYXa7jhgTXtiMXF2PQ) | [Sylvester](https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y) | [Step II](https://open.spotify.com/album/6y64gP67AegGu2rspM2GHo) | 6:40 |
 | 55 | [Volcán](https://open.spotify.com/track/1eDK4TD4cNzCgLOzAxKvus) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Volcan](https://open.spotify.com/album/7Fcmv9DfwmhJPUhU2oQqry) | 4:45 |
 | 56 | [Magic](https://open.spotify.com/track/500h8jAdr7LvzzXlm1qxtK) | [Pilot](https://open.spotify.com/artist/6PwcexHTG0qJWQQwp05Bpm) | [From The Album Of The Same Name](https://open.spotify.com/album/2ECNvuuHKvd8x0Qy2737Rw) | 3:06 |
-| 57 | [Give Up The Funk \(Tear The Roof Off The Sucker\)](https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Mothership Connection](https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2) | 5:48 |
-| 58 | [My Eyes Adored You](https://open.spotify.com/track/2yDQVcj26tpi9IUJhw9xDs) | [Frankie Valli](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) | [Closeup](https://open.spotify.com/album/3joWv9r8FR0dudduAgEDbX) | 3:32 |
+| 57 | [My Eyes Adored You](https://open.spotify.com/track/2yDQVcj26tpi9IUJhw9xDs) | [Frankie Valli](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) | [Closeup](https://open.spotify.com/album/3joWv9r8FR0dudduAgEDbX) | 3:32 |
+| 58 | [Give Up The Funk \(Tear The Roof Off The Sucker\)](https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Mothership Connection](https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2) | 5:48 |
 | 59 | [Hoy tengo ganas de ti](https://open.spotify.com/track/17oji5hYaIqOFWFnPPWCeJ) | [Miguel Gallardo](https://open.spotify.com/artist/5imd6MnP4WpDohSwFnO38T) | [2 \(Remasterizado 2017\)](https://open.spotify.com/album/5g5J0Xr0ERqUJXGhEGneOr) | 4:05 |
 | 60 | [Murió La Flor](https://open.spotify.com/track/6PyXH8zknCSDFUMMpWlqmm) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Clásicos Latinos](https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd) | 3:22 |
 | 61 | [Prometimos No Llorar](https://open.spotify.com/track/3TSJgodP7iM95y0kODUSyp) | [Palito Ortega](https://open.spotify.com/artist/4jCduxx9HzFKS0RrRAtVXD) | [Palito Ortega y Sus Exitos](https://open.spotify.com/album/7LqDl8hqvxYKVArJWWABtC) | 3:22 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jXLyZM9dhV.md) - [plain]
 | 68 | [Alone Again \(Naturally\)](https://open.spotify.com/track/6vuEG9sZtC4W2zT64f7zLF) | [Gilbert O'Sullivan](https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf) | [Back to Front](https://open.spotify.com/album/1INjTJtV8EwpUZF2xgwvAt) | 3:37 |
 | 69 | [Tómame o Déjame \- Remasterizado](https://open.spotify.com/track/1ZJe2q23LXHnE79UjnJqyx) | [Mocedades](https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY) | [Mocedades 5](https://open.spotify.com/album/09wkGIEU9667gEzg6Ywsbx) | 3:07 |
 | 70 | [I Feel Love](https://open.spotify.com/track/1vCBk33l9HaWp5FOnhSGxk) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [I Remember Yesterday](https://open.spotify.com/album/04nlrp346ZfIBhxsNOxpqe) | 5:55 |
-| 71 | [Por El Amor De Una Mujer](https://open.spotify.com/track/7010oiDHpfwrZoYNxqgfoI) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [A Flor De Piel](https://open.spotify.com/album/3YAtD5obf0a1E2NHjZ8A8K) | 3:49 |
-| 72 | [Morir de Amor](https://open.spotify.com/track/6RWXqBgjdLyAVFnJbyPCR8) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | ["Miguel"](https://open.spotify.com/album/6Xo9GlYWbxSTZn0KI7l7Gb) | 4:11 |
+| 71 | [Morir de Amor](https://open.spotify.com/track/6RWXqBgjdLyAVFnJbyPCR8) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | ["Miguel"](https://open.spotify.com/album/6Xo9GlYWbxSTZn0KI7l7Gb) | 4:11 |
+| 72 | [Por El Amor De Una Mujer](https://open.spotify.com/track/7010oiDHpfwrZoYNxqgfoI) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [A Flor De Piel](https://open.spotify.com/album/3YAtD5obf0a1E2NHjZ8A8K) | 3:49 |
 | 73 | [El Triste](https://open.spotify.com/track/6HgUhIiqCepGzgb4nuses6) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [15 Exitos De Oro](https://open.spotify.com/album/4OP48ZU8qUYanvwyTLAvrt) | 4:16 |
-| 74 | [Parole parole \- 2001 Remastered Version](https://open.spotify.com/track/7LZDbABGg2NfnGsyIs2SeB) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [Cinquemilaquarantatre \(2001 Remastered Version\)](https://open.spotify.com/album/1c7fpydgzXm9gSXHZ228et) | 3:58 |
-| 75 | [Amante a la Antigua](https://open.spotify.com/track/5C7wTCd20Ftl6bbW70qOA4) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Pra Sempre Em Espanhol \- Vol\. 1](https://open.spotify.com/album/2Xq3ImnZEspHHITZy3DOZH) | 3:14 |
+| 74 | [Amante a la Antigua](https://open.spotify.com/track/5C7wTCd20Ftl6bbW70qOA4) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Pra Sempre Em Espanhol \- Vol\. 1](https://open.spotify.com/album/2Xq3ImnZEspHHITZy3DOZH) | 3:14 |
+| 75 | [Parole parole \- 2001 Remastered Version](https://open.spotify.com/track/7LZDbABGg2NfnGsyIs2SeB) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [Cinquemilaquarantatre \(2001 Remastered Version\)](https://open.spotify.com/album/1c7fpydgzXm9gSXHZ228et) | 3:58 |
 
-Snapshot ID: `MTYxOTU4NjE3NSwwMDAwMDAwMGM2NDk2ZDg2NGZmZmI5OWMwNmVmYTc3YWRjNzgyYzA3`
+Snapshot ID: `MTYxOTU4NjE3NSwwMDAwMDAwMDZjYWVhMDYxMzNmNWMyNjk1Y2IwM2YzMjRkOGVjZTlh`

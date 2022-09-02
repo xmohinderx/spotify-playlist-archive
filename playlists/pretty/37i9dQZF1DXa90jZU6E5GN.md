@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa90jZU6E5GN.md) - [plain]
 
 > a little glitter never hurt anyone
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,307 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,434 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa90jZU6E5GN.md) - [plain]
 | 62 | [Whose Bed Have Your Boots Been Under?](https://open.spotify.com/track/2ugGNNwNaJdiusX3aLOMUy) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Greatest Hits](https://open.spotify.com/album/02SQS3hERbgOjnZc0hmWKk) | 3:58 |
 | 63 | [Undo It](https://open.spotify.com/track/1Fo2N5iXRi37maMboaig7O) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Play On](https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u) | 2:57 |
 | 64 | [Leave the Pieces](https://open.spotify.com/track/1VnQfAPIHwFImjfO9gnyUt) | [The Wreckers](https://open.spotify.com/artist/2jI32eTOcSx2bn1MGgRyei) | [Stand Still, Look Pretty \(U.S\. Version\)](https://open.spotify.com/album/0KxzAA13yiDK4rchYytEhe) | 3:30 |
-| 65 | [Sway](https://open.spotify.com/track/6EUDUDQP5ynE3g5SWCA8sc) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [I Don't Believe We've Met](https://open.spotify.com/album/1JmemBgPDsNQd1gbqKDUzM) | 3:32 |
-| 66 | [Hell on Heels](https://open.spotify.com/track/0sgnJ5LFjEy2IuQ99NEZ1C) | [Pistol Annies](https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP), [Angaleena Presley](https://open.spotify.com/artist/7hmwyQifkGl8GgOMVJZvW0) | [Hell On Heels](https://open.spotify.com/album/2zJVeRorn9q3XBeH7twIjc) | 3:14 |
+| 65 | [Hell on Heels](https://open.spotify.com/track/0sgnJ5LFjEy2IuQ99NEZ1C) | [Pistol Annies](https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP), [Angaleena Presley](https://open.spotify.com/artist/7hmwyQifkGl8GgOMVJZvW0) | [Hell On Heels](https://open.spotify.com/album/2zJVeRorn9q3XBeH7twIjc) | 3:14 |
+| 66 | [Sway](https://open.spotify.com/track/6EUDUDQP5ynE3g5SWCA8sc) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [I Don't Believe We've Met](https://open.spotify.com/album/1JmemBgPDsNQd1gbqKDUzM) | 3:32 |
 | 67 | [Better Dig Two](https://open.spotify.com/track/3z0a8G407NbxfjTRffvQiP) | [The Band Perry](https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A) | [Pioneer](https://open.spotify.com/album/4oXEoK7WVM1lNbmB59IrJ1) | 3:14 |
 | 68 | [Wild One](https://open.spotify.com/track/0qrst0xZAZ0NtMtuUcEq0f) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Take Me as I Am](https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ) | 2:45 |
 | 69 | [Ladies In The '90s](https://open.spotify.com/track/4Whem9s6OoP7yFT60m2tU9) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Ladies In The '90s](https://open.spotify.com/album/6lAF0PP107eAeqzRKXCmKb) | 3:45 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa90jZU6E5GN.md) - [plain]
 | 74 | [Blame It on Your Heart](https://open.spotify.com/track/1mICUTQCbRkAvGmO0cwoAz) | [Patty Loveless](https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT) | [Only What I Feel](https://open.spotify.com/album/4ZyxBpJuAeEcrW2waHYuiB) | 3:33 |
 | 75 | [It Didn't](https://open.spotify.com/track/6ITA2Sf9ksBL8uCDPBaRcM) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [It Didn't](https://open.spotify.com/album/1w7fYtjzCp5c04VqpQclVd) | 2:58 |
 
-Snapshot ID: `MTY1NTkyMDk1MSwwMDAwMDAwMDBlZDY3ZDNiN2I4MmZhMTI3NDMzYzkzNDNlYzcyMzc2`
+Snapshot ID: `MTY1NTkyMDk1MSwwMDAwMDAwMDM5NGU4YjY2NGViNGMzYmU0MmY1YjY1ZDYyODViNGU2`

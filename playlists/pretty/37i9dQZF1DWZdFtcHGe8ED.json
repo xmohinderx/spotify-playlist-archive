@@ -1,12 +1,12 @@
 {
   "description": "All the greatest Thrash tunes - from classics to the best new tracks. Cover: Slayer",
-  "num_followers": 474871,
+  "num_followers": 474985,
   "original_name": "Thrashers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUxOTcxOSwwMDAwMDAwMDMyOGQ3MjdjNWE3NGNmOTcwOTk0MDJiZDRjZWFmMjBh",
+  "snapshot_id": "MTY2MTUxOTcxOSwwMDAwMDAwMDU0ZmJlYzU0NzQ5MzUyMTlmNTNiNGQ3MmRjMDQwOGFh",
   "tracks": [
     {
       "added_at": "2022-07-13 19:25:17",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-07-13 19:25:17",
       "album": {
-        "name": "Cycle of Suffering",
-        "url": "https://open.spotify.com/album/667otcFavTltYttK0VqcVm"
-      },
-      "artists": [
-        {
-          "name": "Sylosis",
-          "url": "https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl"
-        }
-      ],
-      "duration_ms": 308173,
-      "name": "I Sever",
-      "url": "https://open.spotify.com/track/2mUGAyLahjCX5TQ9VB8vX2"
-    },
-    {
-      "added_at": "2022-07-13 19:25:17",
-      "album": {
         "name": "Thrash Zone",
         "url": "https://open.spotify.com/album/6U2m5pMfP1WvVN7swAIsIC"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 250723,
       "name": "Soul Sacrifice",
       "url": "https://open.spotify.com/track/0PiqQvwJA1TiOFIjmG58rS"
+    },
+    {
+      "added_at": "2022-07-13 19:25:17",
+      "album": {
+        "name": "Cycle of Suffering",
+        "url": "https://open.spotify.com/album/667otcFavTltYttK0VqcVm"
+      },
+      "artists": [
+        {
+          "name": "Sylosis",
+          "url": "https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl"
+        }
+      ],
+      "duration_ms": 308173,
+      "name": "I Sever",
+      "url": "https://open.spotify.com/track/2mUGAyLahjCX5TQ9VB8vX2"
     },
     {
       "added_at": "2022-07-13 19:25:17",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-07-13 19:25:17",
       "album": {
-        "name": "Opening Fire: 2008-2014",
-        "url": "https://open.spotify.com/album/0rZIGEccKBNGf2oqFKzoD5"
-      },
-      "artists": [
-        {
-          "name": "Power Trip",
-          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
-        }
-      ],
-      "duration_ms": 257695,
-      "name": "Divine Apprehension",
-      "url": "https://open.spotify.com/track/430VZGvjBfWzjVf0vZkbb8"
-    },
-    {
-      "added_at": "2022-07-13 19:25:17",
-      "album": {
         "name": "Bonded by Blood",
         "url": "https://open.spotify.com/album/1IfG1UITBGxTIIVZ3qgUrD"
       },
@@ -859,22 +843,18 @@
     {
       "added_at": "2022-07-13 19:25:17",
       "album": {
-        "name": "Midnight Sun",
-        "url": "https://open.spotify.com/album/3wh3qtOhkaJkA5mqxkzrGP"
+        "name": "Opening Fire: 2008-2014",
+        "url": "https://open.spotify.com/album/0rZIGEccKBNGf2oqFKzoD5"
       },
       "artists": [
         {
-          "name": "Kreator",
-          "url": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
-        },
-        {
-          "name": "Sofia Portanet",
-          "url": "https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ"
+          "name": "Power Trip",
+          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
         }
       ],
-      "duration_ms": 218406,
-      "name": "Midnight Sun",
-      "url": "https://open.spotify.com/track/4AbEyowmGAEGnLUZ9YCphR"
+      "duration_ms": 257695,
+      "name": "Divine Apprehension",
+      "url": "https://open.spotify.com/track/430VZGvjBfWzjVf0vZkbb8"
     },
     {
       "added_at": "2022-07-13 19:25:17",
@@ -891,6 +871,26 @@
       "duration_ms": 271373,
       "name": "Trip at the Brain",
       "url": "https://open.spotify.com/track/4nbkJukvqC7ae4kIICjEPi"
+    },
+    {
+      "added_at": "2022-07-13 19:25:17",
+      "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/3wh3qtOhkaJkA5mqxkzrGP"
+      },
+      "artists": [
+        {
+          "name": "Kreator",
+          "url": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
+        },
+        {
+          "name": "Sofia Portanet",
+          "url": "https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ"
+        }
+      ],
+      "duration_ms": 218406,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/4AbEyowmGAEGnLUZ9YCphR"
     },
     {
       "added_at": "2022-07-13 19:25:17",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-07-13 19:25:17",
       "album": {
-        "name": "Nightmare Logic",
-        "url": "https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70"
-      },
-      "artists": [
-        {
-          "name": "Power Trip",
-          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
-        }
-      ],
-      "duration_ms": 261709,
-      "name": "Nightmare Logic",
-      "url": "https://open.spotify.com/track/127fndSSTEZrx2TV8cd3jM"
-    },
-    {
-      "added_at": "2022-07-13 19:25:17",
-      "album": {
         "name": "Annihilation Principle",
         "url": "https://open.spotify.com/album/6vQJnE6wsh4fc4wvy2fr9O"
       },
@@ -975,22 +959,6 @@
     {
       "added_at": "2022-07-13 19:25:17",
       "album": {
-        "name": "The New Order",
-        "url": "https://open.spotify.com/album/1i0xUSNR8hWBIeaDSnN569"
-      },
-      "artists": [
-        {
-          "name": "Testament",
-          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
-        }
-      ],
-      "duration_ms": 166200,
-      "name": "Into the Pit",
-      "url": "https://open.spotify.com/track/5bv551r1rJZxuJBVAuuW4w"
-    },
-    {
-      "added_at": "2022-07-13 19:25:17",
-      "album": {
         "name": "Handle With Care",
         "url": "https://open.spotify.com/album/79vmBrXaUaPS7LleUgP7HY"
       },
@@ -1003,6 +971,38 @@
       "duration_ms": 198960,
       "name": "Critical Mass",
       "url": "https://open.spotify.com/track/4uOq76srFzt94o98QrCVRO"
+    },
+    {
+      "added_at": "2022-07-13 19:25:17",
+      "album": {
+        "name": "Nightmare Logic",
+        "url": "https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70"
+      },
+      "artists": [
+        {
+          "name": "Power Trip",
+          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
+        }
+      ],
+      "duration_ms": 261709,
+      "name": "Nightmare Logic",
+      "url": "https://open.spotify.com/track/127fndSSTEZrx2TV8cd3jM"
+    },
+    {
+      "added_at": "2022-07-13 19:25:17",
+      "album": {
+        "name": "The New Order",
+        "url": "https://open.spotify.com/album/1i0xUSNR8hWBIeaDSnN569"
+      },
+      "artists": [
+        {
+          "name": "Testament",
+          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
+        }
+      ],
+      "duration_ms": 166200,
+      "name": "Into the Pit",
+      "url": "https://open.spotify.com/track/5bv551r1rJZxuJBVAuuW4w"
     },
     {
       "added_at": "2022-07-13 19:25:17",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2022-07-13 19:25:17",
       "album": {
-        "name": "Electrified Brain",
-        "url": "https://open.spotify.com/album/5oiOILICZyEvy5WJdkVUjS"
-      },
-      "artists": [
-        {
-          "name": "Municipal Waste",
-          "url": "https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE"
-        }
-      ],
-      "duration_ms": 162306,
-      "name": "Crank The Heat",
-      "url": "https://open.spotify.com/track/6NSpw2IAGK35FgyqlicfOI"
-    },
-    {
-      "added_at": "2022-07-13 19:25:17",
-      "album": {
         "name": "Alice In Hell",
         "url": "https://open.spotify.com/album/5oKZacGOXxb7A2OwXgh9UY"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 236226,
       "name": "W.T.Y.D.",
       "url": "https://open.spotify.com/track/4puBhL71XaixTPxpK02yog"
+    },
+    {
+      "added_at": "2022-07-13 19:25:17",
+      "album": {
+        "name": "Electrified Brain",
+        "url": "https://open.spotify.com/album/5oiOILICZyEvy5WJdkVUjS"
+      },
+      "artists": [
+        {
+          "name": "Municipal Waste",
+          "url": "https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE"
+        }
+      ],
+      "duration_ms": 162306,
+      "name": "Crank The Heat",
+      "url": "https://open.spotify.com/track/6NSpw2IAGK35FgyqlicfOI"
     },
     {
       "added_at": "2022-07-13 19:25:17",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2022-07-13 19:25:17",
       "album": {
+        "name": "No Absolution",
+        "url": "https://open.spotify.com/album/2ULVvqYZlzwhqkIricvuWs"
+      },
+      "artists": [
+        {
+          "name": "Lost Society",
+          "url": "https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN"
+        }
+      ],
+      "duration_ms": 250253,
+      "name": "No Absolution",
+      "url": "https://open.spotify.com/track/7DDtR2AfAcLGtSDJ0BQbhU"
+    },
+    {
+      "added_at": "2022-07-13 19:25:17",
+      "album": {
         "name": "Forbidden Evil",
         "url": "https://open.spotify.com/album/5yjZpCAc80twY03yRI0hce"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 370400,
       "name": "Eternal Nightmare",
       "url": "https://open.spotify.com/track/0kJVVyz73lZau2zbr4kmIX"
-    },
-    {
-      "added_at": "2022-07-13 19:25:17",
-      "album": {
-        "name": "No Absolution",
-        "url": "https://open.spotify.com/album/2ULVvqYZlzwhqkIricvuWs"
-      },
-      "artists": [
-        {
-          "name": "Lost Society",
-          "url": "https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN"
-        }
-      ],
-      "duration_ms": 250253,
-      "name": "No Absolution",
-      "url": "https://open.spotify.com/track/7DDtR2AfAcLGtSDJ0BQbhU"
     },
     {
       "added_at": "2022-07-13 19:25:17",
@@ -1615,38 +1615,6 @@
     {
       "added_at": "2022-07-13 19:25:17",
       "album": {
-        "name": "Taking Over",
-        "url": "https://open.spotify.com/album/5o5qYy6hUQwHP2zSqqRC8N"
-      },
-      "artists": [
-        {
-          "name": "Overkill",
-          "url": "https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe"
-        }
-      ],
-      "duration_ms": 272333,
-      "name": "Wrecking Crew",
-      "url": "https://open.spotify.com/track/6fawOM1jHIuzdiMITZAnwG"
-    },
-    {
-      "added_at": "2022-07-13 19:25:17",
-      "album": {
-        "name": "Morbid Tales",
-        "url": "https://open.spotify.com/album/2G2c7jjmwDaJVLfJc47859"
-      },
-      "artists": [
-        {
-          "name": "Celtic Frost",
-          "url": "https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG"
-        }
-      ],
-      "duration_ms": 268733,
-      "name": "Circle of the Tyrants",
-      "url": "https://open.spotify.com/track/4PAsYAQCAm5pNPPtqIZmwF"
-    },
-    {
-      "added_at": "2022-07-13 19:25:17",
-      "album": {
         "name": "Executioner's Tax (Swing of the Axe) [feat. David Sanchez, Guillermo Izquierdo, Juli Bazooka, Lenny Bruce, Andrew Hudson & Spyros Lafias]",
         "url": "https://open.spotify.com/album/3VmidyqcmPSnZbh2gsEVuI"
       },
@@ -1683,6 +1651,38 @@
       "duration_ms": 229580,
       "name": "Executioner's Tax (Swing of the Axe) [feat. David Sanchez, Guillermo Izquierdo, Juli Bazooka, Lenny Bruce, Andrew Hudson & Spyros Lafias]",
       "url": "https://open.spotify.com/track/16eCW4AHKMNsxLYD4thQGr"
+    },
+    {
+      "added_at": "2022-07-13 19:25:17",
+      "album": {
+        "name": "Taking Over",
+        "url": "https://open.spotify.com/album/5o5qYy6hUQwHP2zSqqRC8N"
+      },
+      "artists": [
+        {
+          "name": "Overkill",
+          "url": "https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe"
+        }
+      ],
+      "duration_ms": 272333,
+      "name": "Wrecking Crew",
+      "url": "https://open.spotify.com/track/6fawOM1jHIuzdiMITZAnwG"
+    },
+    {
+      "added_at": "2022-07-13 19:25:17",
+      "album": {
+        "name": "Morbid Tales",
+        "url": "https://open.spotify.com/album/2G2c7jjmwDaJVLfJc47859"
+      },
+      "artists": [
+        {
+          "name": "Celtic Frost",
+          "url": "https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG"
+        }
+      ],
+      "duration_ms": 268733,
+      "name": "Circle of the Tyrants",
+      "url": "https://open.spotify.com/track/4PAsYAQCAm5pNPPtqIZmwF"
     },
     {
       "added_at": "2022-07-13 19:25:17",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2022-07-13 19:25:17",
       "album": {
-        "name": "World Circus",
-        "url": "https://open.spotify.com/album/0vpkJpw2GlqWu2oENfdXYx"
-      },
-      "artists": [
-        {
-          "name": "Toxik",
-          "url": "https://open.spotify.com/artist/5v4Rmw4m3h9jJUeXd4hD2m"
-        }
-      ],
-      "duration_ms": 228586,
-      "name": "Heart Attack",
-      "url": "https://open.spotify.com/track/38kRxXRL2FbAM2mHZ2tqSQ"
-    },
-    {
-      "added_at": "2022-07-13 19:25:17",
-      "album": {
         "name": "Annihilation of Civilization",
         "url": "https://open.spotify.com/album/0p65AMSlyx1Lew0i5BGbRn"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 257666,
       "name": "Annihilation of Civilization",
       "url": "https://open.spotify.com/track/4WpRhaIjVI7zQc7k23tfnX"
+    },
+    {
+      "added_at": "2022-07-13 19:25:17",
+      "album": {
+        "name": "World Circus",
+        "url": "https://open.spotify.com/album/0vpkJpw2GlqWu2oENfdXYx"
+      },
+      "artists": [
+        {
+          "name": "Toxik",
+          "url": "https://open.spotify.com/artist/5v4Rmw4m3h9jJUeXd4hD2m"
+        }
+      ],
+      "duration_ms": 228586,
+      "name": "Heart Attack",
+      "url": "https://open.spotify.com/track/38kRxXRL2FbAM2mHZ2tqSQ"
     },
     {
       "added_at": "2022-07-13 19:25:17",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 
 > Traditional country sounds from artists of yesterday and today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 576,510 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 576,868 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,10 +23,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 | 13 | ['Til You Can't](https://open.spotify.com/track/13rC4iKtfQocWIfzPOJxaT) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | ['Til You Can’t / Longer Than She Did](https://open.spotify.com/album/5MzgI1Hzjkf1Dj7xW7d1GL) | 3:44 |
 | 14 | [Palomino Princess](https://open.spotify.com/track/5LmwW6k3kPJicZxfYLRcBG) | [Tyler Booth](https://open.spotify.com/artist/7lUUBDm6D4zeAVxbBqtHel) | [Grab the Reins](https://open.spotify.com/album/2s1xffBgQy0HNUbkS8Kqej) | 3:32 |
 | 15 | [Why Not Me](https://open.spotify.com/track/6BkK5Dsu1kTne7Cn6EyYex) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [Why Not Me](https://open.spotify.com/album/7ddhrJqVCguGmLhvffzxkA) | 3:31 |
-| 16 | [It's A Great Day To Be Alive](https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Down The Road I Go](https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB) | 4:01 |
+| 16 | [Good Directions](https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Doin' Somethin' Right](https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5) | 3:35 |
 | 17 | [Neon Blue](https://open.spotify.com/track/20LTvIfOH5vjhXC1E7WFxk) | [Joshua Hedley](https://open.spotify.com/artist/6OJg4GNkAEtu0cfDVRbnjh) | [Neon Blue](https://open.spotify.com/album/7tGi2TSrjFhjJ6W6BbD1wQ) | 2:51 |
 | 18 | [Thinkin' About You](https://open.spotify.com/track/5CQ1Pol5ud3mFBqAuCUE9o) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Thinkin' About You](https://open.spotify.com/album/5JqF92VDewHtYXqueUHuyx) | 3:23 |
-| 19 | [Good Directions](https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Doin' Somethin' Right](https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5) | 3:35 |
+| 19 | [It's A Great Day To Be Alive](https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Down The Road I Go](https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB) | 4:01 |
 | 20 | [Who You Thought I Was](https://open.spotify.com/track/4dXIIUOtekoc54xIktc559) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Your Life is a Record \(Deluxe Edition\)](https://open.spotify.com/album/2Zor1BSChR147LVFyIzrpy) | 3:09 |
 | 21 | [Head Over Boots](https://open.spotify.com/track/4ly1QBXEwYoDmje9rmEgC4) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [California Sunrise](https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ) | 3:22 |
 | 22 | [Your Man](https://open.spotify.com/track/1WzAeadSKJhqykZFbJNmQv) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Your Man](https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO) | 3:31 |
@@ -69,13 +69,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 | 59 | [Strawberry Wine](https://open.spotify.com/track/3ODF56f90W3qxDqxHAUi3v) | [Deana Carter](https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt) | [The Deana Carter Collection](https://open.spotify.com/album/5WqK9zGqUlTw7IPY2k1Yqd) | 4:50 |
 | 60 | [Outskirts of Heaven](https://open.spotify.com/track/6gcNSi6b9gvDBjYO059lrF) | [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN) | [See You Try](https://open.spotify.com/album/3z4mJYzha57sn2r4NtkyaP) | 4:04 |
 | 61 | [Thinkin Bout Cheatin](https://open.spotify.com/track/35GoYj5urnSOCabDAKphBF) | [Mae Estes](https://open.spotify.com/artist/6352GDDDFjnbhNMDbCRIuX) | [Thinkin Bout Cheatin](https://open.spotify.com/album/4DQoCcBOoRZBsY2LsQJ0Wc) | 3:42 |
-| 62 | [Next To You, Next To Me](https://open.spotify.com/track/37KWffCdnLyHqvhugCQNM6) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo) | [Now And Then](https://open.spotify.com/album/53ggnni69yCjLQIboZCc3e) | 3:25 |
-| 63 | [If I Could Make a Living](https://open.spotify.com/track/7njoWVpJbAiTkyT6rKwbze) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [If I Could Make a Living](https://open.spotify.com/album/3uO1R11G7IV6Y0FIKqWyTF) | 2:13 |
+| 62 | [If I Could Make a Living](https://open.spotify.com/track/7njoWVpJbAiTkyT6rKwbze) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [If I Could Make a Living](https://open.spotify.com/album/3uO1R11G7IV6Y0FIKqWyTF) | 2:13 |
+| 63 | [Next To You, Next To Me](https://open.spotify.com/track/37KWffCdnLyHqvhugCQNM6) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo) | [Now And Then](https://open.spotify.com/album/53ggnni69yCjLQIboZCc3e) | 3:25 |
 | 64 | [If I Didn't Have You](https://open.spotify.com/track/52erNkfUKv34u02CjcHOPj) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [On the Other Hand \- All the Number Ones](https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3) | 3:06 |
 | 65 | [Boots On](https://open.spotify.com/track/7K4VxvIXXbDbaVn6ARbch1) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Anything Goes](https://open.spotify.com/album/4xw2DKqtMyAde8WoF80WiQ) | 2:50 |
 | 66 | [You've Got to Stand for Something](https://open.spotify.com/track/7s2NbKcFIJuEQumhvtHTAD) | [Aaron Tippin](https://open.spotify.com/artist/4XwKU420OWVk38vz1KvH3M) | [You've Got to Stand for Something](https://open.spotify.com/album/0NTPV5YssGexGoz1OzaVRt) | 3:02 |
-| 67 | [Straight Tequila Night](https://open.spotify.com/track/5SpoN8sCoc05RfVde4raGN) | [John Anderson](https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv) | [Seminole Wind](https://open.spotify.com/album/23LbFVb9MdJCILkhR5yQ6a) | 2:53 |
-| 68 | [If Heaven Wasn't So Far Away](https://open.spotify.com/track/0aW7CSfoMBKBzLE7VerHyn) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Outlaws Like Me](https://open.spotify.com/album/43WYprY30K1r0pbDmf3amq) | 3:43 |
+| 67 | [If Heaven Wasn't So Far Away](https://open.spotify.com/track/0aW7CSfoMBKBzLE7VerHyn) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Outlaws Like Me](https://open.spotify.com/album/43WYprY30K1r0pbDmf3amq) | 3:43 |
+| 68 | [Straight Tequila Night](https://open.spotify.com/track/5SpoN8sCoc05RfVde4raGN) | [John Anderson](https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv) | [Seminole Wind](https://open.spotify.com/album/23LbFVb9MdJCILkhR5yQ6a) | 2:53 |
 | 69 | [Don't Close Your Eyes](https://open.spotify.com/track/7J9ARWRkMtXMYeF8RxJEjn) | [Keith Whitley](https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW) | [Don't Close Your Eyes](https://open.spotify.com/album/3hDqwanFIlVP5dRMWj8dhZ) | 4:12 |
 | 70 | [Wild One](https://open.spotify.com/track/0qrst0xZAZ0NtMtuUcEq0f) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Take Me as I Am](https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ) | 2:45 |
 | 71 | [Maybe It Was Memphis](https://open.spotify.com/track/3wjD3Ufjll7UKrEDPdGuX3) | [Pam Tillis](https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6) | [Put Yourself In My Place](https://open.spotify.com/album/0zTzRgc57oSLwwErcfmMEz) | 3:59 |
@@ -95,9 +95,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 | 85 | [Shakin' In Them Boots](https://open.spotify.com/track/7zwi0kPSFtdNUNIXZlKfNF) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Shakin' In Them Boots](https://open.spotify.com/album/12JRLrNicKNlQDu5zNKaF3) | 2:49 |
 | 86 | [The Fool](https://open.spotify.com/track/1rVZ7EqoVJfrciRW80Uljh) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [Lee Ann Womack](https://open.spotify.com/album/6GfwKwr0IXUY95d5UaRgC3) | 3:32 |
 | 87 | [Sunrise Tells The Story](https://open.spotify.com/track/1fCl1BY97PPNnac9oewVBJ) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [The Last Resort: Greetings From](https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag) | 3:27 |
-| 88 | [Bible and a .44](https://open.spotify.com/track/14Bn5n5iGEVMZN5nb9xUVF) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Jalopies & Expensive Guitars](https://open.spotify.com/album/2OVwF1wNT8lJgiYLhjFzKT) | 3:55 |
-| 89 | [Hot Beer](https://open.spotify.com/track/5CawRA9RzdlvF8ladonjsl) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6) | [Son Of A](https://open.spotify.com/album/5krj7eQSqb08k9RVxujeJ3) | 3:10 |
-| 90 | [From A Table Away](https://open.spotify.com/track/6WTJj7qXOh0XonzXAHUqGG) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Concrete](https://open.spotify.com/album/5jmDjnNISgZCgJW9hZQHEB) | 3:35 |
+| 88 | [From A Table Away](https://open.spotify.com/track/6WTJj7qXOh0XonzXAHUqGG) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Concrete](https://open.spotify.com/album/5jmDjnNISgZCgJW9hZQHEB) | 3:35 |
+| 89 | [Bible and a .44](https://open.spotify.com/track/14Bn5n5iGEVMZN5nb9xUVF) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Jalopies & Expensive Guitars](https://open.spotify.com/album/2OVwF1wNT8lJgiYLhjFzKT) | 3:55 |
+| 90 | [Hot Beer](https://open.spotify.com/track/5CawRA9RzdlvF8ladonjsl) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6) | [Son Of A](https://open.spotify.com/album/5krj7eQSqb08k9RVxujeJ3) | 3:10 |
 | 91 | [Catching Up With An Ol' Memory](https://open.spotify.com/track/6j9Lnhx9V0oRi18kEUWLdw) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [Texas to Tennessee](https://open.spotify.com/album/1mP7Dz3kH8vUPkraFnW6a6) | 3:24 |
 | 92 | [Here's a Quarter \(Call Someone Who Cares\)](https://open.spotify.com/track/0RdMBceHhBJLqNjObk1NPP) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Greatest Hits: From the Beginning](https://open.spotify.com/album/5pDzCS2g2oZueNkPr1S1Ey) | 2:32 |
 | 93 | [I'll Think Of A Reason Later](https://open.spotify.com/track/7ygWc80Ao1nhcV2D6Q3zPa) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [Some Things I Know](https://open.spotify.com/album/2Wdl9EOvTg4l4AhEpYovw8) | 3:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 | 99 | [Dancing Away with My Heart](https://open.spotify.com/track/3ss88YLxa2pYOtyKgyKIjM) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6) | [Hell on an Angel](https://open.spotify.com/album/1V6RHh2eMlzWTgcEPgOAbu) | 3:47 |
 | 100 | [Ten Thousand Angels](https://open.spotify.com/track/1mhPVHjzfJLGird0TFZxmb) | [Mindy McCready](https://open.spotify.com/artist/2uB5sjjJwj4kB6TrRGLYJO) | [Ten Thousand Angels](https://open.spotify.com/album/52a0Dg2pHH0RbwwVFYcl7F) | 3:27 |
 
-Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMDhmOGU5MTcxOGQ5NDYyZTcwZTc0OWE2YTQ5NWJhMmZk`
+Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMDgxZDdiZTViNDg3ZmI2NTE4M2VlMmQyODEwMWVjMmM2`

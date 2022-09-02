@@ -1,12 +1,12 @@
 {
   "description": "A compilation of the all-time biggest hits in Country Music. Cover: Dolly Parton",
-  "num_followers": 297399,
+  "num_followers": 297798,
   "original_name": "Country's Greatest Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDY1Mjk4MSwwMDAwMDAwMDYyMDdhYWE1YjVmOGU3Mjc3N2JkZWUwNDlhNGQyYjRl",
+  "snapshot_id": "MTY1NDY1Mjk4MSwwMDAwMDAwMGU4YmNkZDViYzU2MDZmOWQ5YzFiMmU0ZWE1NWQ4Y2My",
   "tracks": [
     {
       "added_at": "2022-06-08 01:49:41",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2022-06-08 01:49:41",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/18ziyK5CNjFNboOBH8o2it"
+        "name": "Number One Hits",
+        "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
       },
       "artists": [
         {
-          "name": "Shenandoah",
-          "url": "https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo"
+          "name": "Eddie Rabbitt",
+          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
         }
       ],
-      "duration_ms": 223613,
-      "name": "Two Dozen Roses",
-      "url": "https://open.spotify.com/track/2s1gKDfyy4wTv5gzZleWUT"
+      "duration_ms": 171653,
+      "name": "Every Which Way but Loose - 2009 Remaster",
+      "url": "https://open.spotify.com/track/73xcnqBwjnGwAlrfBomLP3"
     },
     {
       "added_at": "2022-06-08 01:49:41",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2022-06-08 01:49:41",
       "album": {
-        "name": "Number One Hits",
-        "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/18ziyK5CNjFNboOBH8o2it"
       },
       "artists": [
         {
-          "name": "Eddie Rabbitt",
-          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
+          "name": "Shenandoah",
+          "url": "https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo"
         }
       ],
-      "duration_ms": 171653,
-      "name": "Every Which Way but Loose - 2009 Remaster",
-      "url": "https://open.spotify.com/track/73xcnqBwjnGwAlrfBomLP3"
+      "duration_ms": 223613,
+      "name": "Two Dozen Roses",
+      "url": "https://open.spotify.com/track/2s1gKDfyy4wTv5gzZleWUT"
     },
     {
       "added_at": "2022-06-08 01:49:41",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-06-08 01:49:41",
       "album": {
-        "name": "Greatest Hits II",
-        "url": "https://open.spotify.com/album/2d4eS9a7DRTlfeTKVJQ0kr"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 199586,
-      "name": "The Good Stuff",
-      "url": "https://open.spotify.com/track/1EKiQ1InQXuodp4M1idrng"
-    },
-    {
-      "added_at": "2022-06-08 01:49:41",
-      "album": {
         "name": "All The People Are Talkin'",
         "url": "https://open.spotify.com/album/2cWX0i12WDcbP8Gp6cACvS"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 177693,
       "name": "Black Sheep",
       "url": "https://open.spotify.com/track/5EPQbU0wk70Btiu9onZR48"
+    },
+    {
+      "added_at": "2022-06-08 01:49:41",
+      "album": {
+        "name": "Greatest Hits II",
+        "url": "https://open.spotify.com/album/2d4eS9a7DRTlfeTKVJQ0kr"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "duration_ms": 199586,
+      "name": "The Good Stuff",
+      "url": "https://open.spotify.com/track/1EKiQ1InQXuodp4M1idrng"
     },
     {
       "added_at": "2022-06-08 01:49:41",

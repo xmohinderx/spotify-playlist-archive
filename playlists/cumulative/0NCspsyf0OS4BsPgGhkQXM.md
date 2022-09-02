@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs
 
-442 songs - 23 hr 51 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
+444 songs - 23 hr 57 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [KALI](https://open.spotify.com/track/02opLMfvddBcSmrmFE7zjq) | [BEATSMASH](https://open.spotify.com/artist/7FFbcFSr2g8ylh2P0S7TTB) | [KALI](https://open.spotify.com/album/4lKjLdlLVIIduCfms6YnGo) | 3:25 | 2022-01-14 | 2022-02-17 |
 | [Killa](https://open.spotify.com/track/3SAVQuGKu1n1Ri7AoZnJcV) | [Naffar](https://open.spotify.com/artist/3QIEbSFF0qzlYo0EDcr7r9) | [Killa](https://open.spotify.com/album/5yV6fUUC9Z36bYYMtrM4sV) | 3:05 | 2022-01-14 | 2022-02-17 |
 | [King of Nothing](https://open.spotify.com/track/7fVVCpaJh3H8IQ3BSzs93K) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Fancy Monster](https://open.spotify.com/artist/2mTmPVVrjt7SLOtJIaI9LY), [SOUNDR](https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X) | [Love // Chaos](https://open.spotify.com/album/3Iz1TViTuDQ6C7Cyn5CD7k) | 3:53 | 2022-02-16 | 2022-03-19 |
+| [Kingdom](https://open.spotify.com/track/11DBes9epIJZpSHCJToG9i) | [2 Souls](https://open.spotify.com/artist/3wVoeDQF4S4yrdYHnqzZp4) | [Kingdom](https://open.spotify.com/album/14HaOFeATQqvBN0FJygUx1) | 2:18 | 2022-09-01 |  |
 | [La Roja](https://open.spotify.com/track/5Z4AwksmCkLy1lXvImsrD6) | [Bermejo](https://open.spotify.com/artist/77EeJ27sPERKmROTxvllYo) | [La Roja](https://open.spotify.com/album/2Sb7mfJqe90ThixT2XXTpm) | 2:22 | 2022-03-04 | 2022-04-02 |
 | [last breath](https://open.spotify.com/track/7iJKUX0fbC5pxobb2xnzRQ) | [mark veins](https://open.spotify.com/artist/5Rt7OtfJpjne2jW8qy9Kcz), [Shöckface](https://open.spotify.com/artist/4PNtYvG1kZcGx80M9G9EoM), [Bromar](https://open.spotify.com/artist/1bilUcnWet3UAKE4biDiQY) | [last breath](https://open.spotify.com/album/2lVM7gDVXcG2l5LOB1hyob) | 2:44 | 2022-01-17 | 2022-02-10 |
 | [Legacy](https://open.spotify.com/track/2b6AXid4XwQYI8019Rk5je) | [LBLVNC](https://open.spotify.com/artist/7vAi1lm9yxFrqh15TrhxcH), [Trias](https://open.spotify.com/artist/1N21tqenVOnzbRhdvw5bGH), [Rachel Leycroft](https://open.spotify.com/artist/6C6qqlV7VNMEN2jIwYJcNM) | [Legacy](https://open.spotify.com/album/27077ta44Jm7MkvWoWeHYo) | 3:05 | 2022-06-24 | 2022-07-29 |
@@ -279,6 +280,7 @@
 | [Now Infinity](https://open.spotify.com/track/68hrk6khCIlJTFKgsr1sCN) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Story Prologue EP](https://open.spotify.com/album/7rhCjq7EaXmQT1sTs8Ls01) | 3:42 | 2022-08-18 |  |
 | [nowhere else to go](https://open.spotify.com/track/4lpe6lJ5QhoxrQfdmMzF7w) | [Stereotype](https://open.spotify.com/artist/0binTLIlGbXSMuzhRykbRq) | [NOWHERE](https://open.spotify.com/album/2Umgb5V6u7umS1BMXq4UXQ) | 4:00 | 2022-01-14 | 2022-02-17 |
 | [O.G.](https://open.spotify.com/track/0mSpqNpgwwLvVGNuRpuFVL) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Foramic](https://open.spotify.com/artist/4HD430MFk1qBcLuLbBvclq) | [O.G.](https://open.spotify.com/album/6eOqfgcrRtd1ty07lMi0zv) | 2:50 | 2022-07-15 |  |
+| [Ocean](https://open.spotify.com/track/4RGkMld66XdEu419dyhlGq) | [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp) | [Ocean](https://open.spotify.com/album/4DYs0Uw4VG7k7dB2AZT2TG) | 3:37 | 2022-09-01 |  |
 | [Ocean Avenue](https://open.spotify.com/track/00QY4pdQtNdftuKb2qbVeZ) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Ryan Scott Graham](https://open.spotify.com/artist/4goa0eLNaGxDcbhVcG7KM3) | [Ocean Avenue](https://open.spotify.com/album/09TZFz7nxP1mqIpeADnbxH) | 3:31 | 2022-01-14 | 2022-07-29 |
 | [On A Dime](https://open.spotify.com/track/5Riszk0ZuaA6US8TyZZ9cT) | [Heyz](https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh) | [On A Dime](https://open.spotify.com/album/2eVHIVMHeP3AycT6rfr91C) | 4:00 | 2022-07-13 | 2022-08-10 |
 | [On That Road](https://open.spotify.com/track/6RlQs6QBeH1ip7TixxHOcr) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [BTWRKS](https://open.spotify.com/artist/7zDtXPaUt31v22tT6HeL4G), [Godmode](https://open.spotify.com/artist/3R4VCoPt7V1poOWpdU43X8) | [On That Road](https://open.spotify.com/album/5CClKdsZYA6DYNhLplBK0s) | 2:18 | 2022-01-24 | 2022-02-26 |

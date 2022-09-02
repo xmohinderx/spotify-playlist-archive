@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Justin Quiles
 
-[Spotify](https://open.spotify.com/user/spotify) - 513,154 likes - 68 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 513,350 likes - 68 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 11 | [Idilio](https://open.spotify.com/track/5FtjZf2fUJpwIrAkJwsK21) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Idilio](https://open.spotify.com/album/0g8fVIMvb5v9atJ0Uzv42o) | 2:44 |
 | 12 | [siente más](https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 4:00 |
 | 13 | [Papá](https://open.spotify.com/track/6LqI79HurtSLxv8ulJohvG) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [No Teníamos Nada, Pero Éramos Felices](https://open.spotify.com/album/23c29N9eKBUKm7sljfJMgs) | 3:20 |
-| 14 | [Como Ñengo \(feat\. Kris Floyd\)](https://open.spotify.com/track/4xvYZWvfmL7FnWJHZhV1VS) | [Club Dieciséis](https://open.spotify.com/artist/3PVOsu4zHMse1c46pqTfnT), [Jota Rosa](https://open.spotify.com/artist/7gK06FGYa8dtJogKJXAG80), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [Como Ñengo \(feat\. Kris Floyd\)](https://open.spotify.com/album/1D0xvI1Mz6Wv0TpTa6UAhC) | 3:24 |
+| 14 | [Como Ñengo \(feat\. Jota Rosa\)](https://open.spotify.com/track/4xvYZWvfmL7FnWJHZhV1VS) | [Club Dieciséis](https://open.spotify.com/artist/3PVOsu4zHMse1c46pqTfnT), [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Jota Rosa](https://open.spotify.com/artist/7gK06FGYa8dtJogKJXAG80) | [Como Ñengo \(feat\. Jota Rosa\)](https://open.spotify.com/album/1D0xvI1Mz6Wv0TpTa6UAhC) | 3:24 |
 | 15 | [12x3 Remix \(with Micro TDH & Rusherking\)](https://open.spotify.com/track/3nl2V4yl1Vt8EJSM8RhSmJ) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [12x3 Remix \(with Micro TDH & Rusherking\)](https://open.spotify.com/album/6kjJ9YLK0ZNTajArpF95qY) | 3:39 |
 | 16 | [PRENDE OTRO](https://open.spotify.com/track/1PNNztcJlNIcThPBs9lKBi) | [Kalido](https://open.spotify.com/artist/7rnBtbzDCg9rhtHV6GH77K), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [HIT$ MUSIC](https://open.spotify.com/artist/44ALfmkGESKyMbbRrvw9gT) | [PRENDE OTRO](https://open.spotify.com/album/6JnAfvezZhCZU6Lzg96Jai) | 4:10 |
 | 17 | [Tas Clara](https://open.spotify.com/track/05NrsJfD2WNNK61zGmLbK2) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Tas Clara](https://open.spotify.com/album/0aDeNiC4gF2YiviLce2bHc) | 3:50 |

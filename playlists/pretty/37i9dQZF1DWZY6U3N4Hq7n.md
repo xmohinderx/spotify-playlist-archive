@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY6U3N4Hq7n.md) - [plain]
 
 > Grab your leg warmers and spandex: let's get physical!
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,781 likes - 80 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,904 likes - 80 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Take on Me](https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Hunting High and Low](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) | 3:45 |
 | 2 | [Billie Jean](https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 4:53 |
-| 3 | [Sweet Dreams \(Are Made of This\) \- Remastered](https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS) | [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [Sweet Dreams \(Are Made Of This\)](https://open.spotify.com/album/5jNDWA19BJbE24x1UUJGRY) | 3:36 |
-| 4 | [You Give Love A Bad Name](https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t) | 3:42 |
+| 3 | [You Give Love A Bad Name](https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t) | 3:42 |
+| 4 | [Sweet Dreams \(Are Made of This\) \- Remastered](https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS) | [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [Sweet Dreams \(Are Made Of This\)](https://open.spotify.com/album/5jNDWA19BJbE24x1UUJGRY) | 3:36 |
 | 5 | [Summer Of '69](https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 3:36 |
 | 6 | [I Wanna Dance with Somebody \(Who Loves Me\)](https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 4:51 |
 | 7 | [Never Gonna Give You Up](https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Whenever You Need Somebody](https://open.spotify.com/album/5Z9iiGl2FcIfa3BMiv6OIw) | 3:33 |
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY6U3N4Hq7n.md) - [plain]
 | 23 | [Don't You \(Forget About Me\)](https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Once Upon A Time \(Super Deluxe\)](https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm) | 4:23 |
 | 24 | [Maneater](https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [H2O](https://open.spotify.com/album/7ygXmT175bKbOpiPjNwXOB) | 4:33 |
 | 25 | [Walk This Way](https://open.spotify.com/track/5SZ6zX4rOrEQferfFC2MfP) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 3:40 |
-| 26 | [Karma Chameleon \- Remastered 2002](https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [Colour By Numbers](https://open.spotify.com/album/51NPMfa9QfxsYtqzcB2VfY) | 4:12 |
-| 27 | [Faith \- Remastered](https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 3:13 |
-| 28 | [Eye of the Tiger](https://open.spotify.com/track/2HHtWyy5CgaQbC7XSoOb0e) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Eye Of The Tiger](https://open.spotify.com/album/4PT9VulQaQP6XR1xBI2x1W) | 4:03 |
+| 26 | [Eye of the Tiger](https://open.spotify.com/track/2HHtWyy5CgaQbC7XSoOb0e) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Eye Of The Tiger](https://open.spotify.com/album/4PT9VulQaQP6XR1xBI2x1W) | 4:03 |
+| 27 | [Karma Chameleon \- Remastered 2002](https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [Colour By Numbers](https://open.spotify.com/album/51NPMfa9QfxsYtqzcB2VfY) | 4:12 |
+| 28 | [Faith \- Remastered](https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 3:13 |
 | 29 | [We're Not Gonna Take It](https://open.spotify.com/track/1hlveB9M6ijHZRbzZ2teyh) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [Stay Hungry](https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm) | 3:39 |
 | 30 | [Super Freak](https://open.spotify.com/track/2dCmGcEOQrMQhMMS8Vj7Ca) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL) | [Street Songs \(Deluxe Edition\)](https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5) | 3:25 |
 | 31 | [She Drives Me Crazy](https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ) | [Fine Young Cannibals](https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp) | [The Raw & The Cooked](https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F) | 3:35 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY6U3N4Hq7n.md) - [plain]
 | 49 | [When Doves Cry](https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 5:52 |
 | 50 | [What A Feeling](https://open.spotify.com/track/0aAR5HogGoT68EWFbyRFqx) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [What A Feeling](https://open.spotify.com/album/7C65CLdoGCQZ739kfYVcwY) | 4:04 |
 | 51 | [How Will I Know](https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 4:35 |
-| 52 | [I'm Coming Out](https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI) | 5:23 |
-| 53 | [Walk This Way \(feat\. Aerosmith\)](https://open.spotify.com/track/6qUEOWqOzu1rLPUPQ1ECpx) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA), [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Raising Hell](https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg) | 5:10 |
+| 52 | [Walk This Way \(feat\. Aerosmith\)](https://open.spotify.com/track/6qUEOWqOzu1rLPUPQ1ECpx) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA), [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Raising Hell](https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg) | 5:10 |
+| 53 | [I'm Coming Out](https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI) | 5:23 |
 | 54 | [It's My Life \- 1997 Remaster](https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [It's My Life](https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf) | 3:52 |
 | 55 | [Juke Box Hero](https://open.spotify.com/track/00qOE7OjRl0BpYiCiweZB2) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [4 \(Expanded\)](https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu) | 4:19 |
 | 56 | [Kids In America](https://open.spotify.com/track/1YGZyfvdgZxzipWoWYVKxi) | [Kim Wilde](https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo) | [Kim Wilde](https://open.spotify.com/album/5vf8cU0vjl22ThptA93DDf) | 3:25 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY6U3N4Hq7n.md) - [plain]
 | 79 | [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/6hci8n9UowepjRmCc6CKTv) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Hitsville USA, The Motown Collection 1972\-1992](https://open.spotify.com/album/6nrCHETnE3ZWgwL0uYYWGP) | 3:58 |
 | 80 | [Ain't Nobody](https://open.spotify.com/track/53Za5vyGc1x7GxgJVRjRKc) | [Rufus](https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Stompin' At The Savoy](https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP) | 4:45 |
 
-Snapshot ID: `MTY0MDE4OTgwMywwMDAwMDAwMDgzNzc4MDdmM2Q0MDQ0ZTk2YjRiNjQyNjQ3ZDRiMzM1`
+Snapshot ID: `MTY0MDE4OTgwMywwMDAwMDAwMGM1ZTg0Nzc5MWFkZGQ1YzE2ODUxNGI1NTBhM2ZiYTNi`

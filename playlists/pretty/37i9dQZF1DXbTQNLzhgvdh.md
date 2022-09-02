@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTQNLzhgvdh.md) - [plain]
 
 > el amor es pico tres <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,966 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,073 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTQNLzhgvdh.md) - [plain]
 | 15 | [Todo Va a Estar Bien](https://open.spotify.com/track/3XjRIN9vEt35lm1iStPcgq) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Todo Va a Estar Bien](https://open.spotify.com/album/6iwqcQcjkN9xVlhG840W9a) | 4:27 |
 | 16 | [Perfecta](https://open.spotify.com/track/6VOb0Kkrd45Bp5RHYSla2J) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Perfecta](https://open.spotify.com/album/5ON2micjtMSXspIHMxh5gc) | 2:54 |
 | 17 | [SI SUPIERAS](https://open.spotify.com/track/7KDYKPhxFFRDBSbgcfLxUT) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 3:47 |
-| 18 | [Plutón](https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Plutón](https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ) | 2:45 |
-| 19 | [Piel Canela](https://open.spotify.com/track/7qBT9qcbtkLqrfm9LiTNB4) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Piel Canela](https://open.spotify.com/album/2sNKWMhg0kOHdPDlvl0w6t) | 1:42 |
+| 18 | [Piel Canela](https://open.spotify.com/track/7qBT9qcbtkLqrfm9LiTNB4) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Piel Canela](https://open.spotify.com/album/2sNKWMhg0kOHdPDlvl0w6t) | 1:42 |
+| 19 | [Plutón](https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Plutón](https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ) | 2:45 |
 | 20 | [Antes de Morirme \(feat\. ROSALÍA\)](https://open.spotify.com/track/4Dl8bEzhAEGbcwkQawS1XG) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Antes de Morirme \(feat\. ROSALÍA\)](https://open.spotify.com/album/1thajvxcfKux4QBwgM9Ac5) | 3:19 |
 | 21 | [ALMAS GEMELAS](https://open.spotify.com/track/2KcNrONbZ0hvBPjvrDO2tx) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [ALMAS GEMELAS](https://open.spotify.com/album/3DcHy54Up1gEXKXbsv8xeT) | 3:55 |
 | 22 | [Pideme \- En Vivo](https://open.spotify.com/track/4OvWsid9gwU8nimd6KIXN6) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Pideme \(En Vivo\)](https://open.spotify.com/album/5YDFEV3hqfXdvFWO9DNFPR) | 4:16 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTQNLzhgvdh.md) - [plain]
 | 47 | [La Mejor de Todas](https://open.spotify.com/track/6tzWQCTlrZr1CnwiFGCmoM) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Corta Venas](https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W) | 3:28 |
 | 48 | [Voy a Amarte](https://open.spotify.com/track/5SP2ca8eU4WFK2LLdVQvmx) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Lo Sé](https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp) | 2:23 |
 | 49 | [Somos Instantes](https://open.spotify.com/track/4zgVoY40iiq9XLu8V9Q9kb) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Somos Instantes](https://open.spotify.com/album/4La0StHyt6pRXr85FXRxgH) | 3:13 |
-| 50 | [Sería Un Placer](https://open.spotify.com/track/6CeOuCrMBB3iHViJiO5whN) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Cora](https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd) | 2:53 |
-| 51 | [Lento](https://open.spotify.com/track/4uBtsdMMC7toM7DFV08uie) | [Santy\-P](https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL), [Moree Neri](https://open.spotify.com/artist/7JwiKwvicnP4AkPB65Ds4Y) | [Lento](https://open.spotify.com/album/4HffDVQnrInW3kQ5ewyHmb) | 3:19 |
+| 50 | [Lento](https://open.spotify.com/track/4uBtsdMMC7toM7DFV08uie) | [Santy\-P](https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL), [Moree Neri](https://open.spotify.com/artist/7JwiKwvicnP4AkPB65Ds4Y) | [Lento](https://open.spotify.com/album/4HffDVQnrInW3kQ5ewyHmb) | 3:19 |
+| 51 | [Sería Un Placer](https://open.spotify.com/track/6CeOuCrMBB3iHViJiO5whN) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Cora](https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd) | 2:53 |
 | 52 | [Lo Que Construimos \- Spotify Singles](https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Lo Que Construimos \(Spotify Singles\)](https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF) | 3:39 |
 | 53 | [Me Estoy Enamorando \- en Vivo](https://open.spotify.com/track/43UQAAZQB9eVlZhdz5pnt1) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Desde El Cantón \(en Vivo\)](https://open.spotify.com/album/2c3E1sKcWvcIt1lxYbiqgv) | 2:53 |
 | 54 | [El Dueño De Tu Amor](https://open.spotify.com/track/3sgf3LgcrNoqOB1jm7PIP0) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Las Dos Caras Del Amor](https://open.spotify.com/album/30Zq5q0nnyLYluf1ZmsvF7) | 3:45 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTQNLzhgvdh.md) - [plain]
 | 64 | [Junto A Tí](https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Junto A Tí](https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r) | 3:13 |
 | 65 | [Enamorado](https://open.spotify.com/track/1JZ9TyZKqNZlCuDiySq9Ra) | [Giovanni Y Su Equipo Escoltado](https://open.spotify.com/artist/10skaFqBCaTCTmxh3kjFRe) | [Malandro Enamorado](https://open.spotify.com/album/5IJUKPReC7LRXf75P9kGvA) | 3:36 |
 | 66 | [Tírame Un Hello](https://open.spotify.com/track/29gcdJL6O6K11Z4eV8Qhk6) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [La Nueva R](https://open.spotify.com/album/6ZZzbA0U5oUaLbSC3Xl0H6) | 2:49 |
-| 67 | [¿Qué Pasó Mi Amor?](https://open.spotify.com/track/2Tc0Hpl8AhRoPvlrLISI2F) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Yang](https://open.spotify.com/album/3dhNpAkl8UJoj5N1MDLbUy) | 3:02 |
-| 68 | [Amor](https://open.spotify.com/track/35CpkPPqi9RXlETJZw5BYS) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [856 para el Mundo](https://open.spotify.com/album/2CPwUEgvViKF6S7LAchZAZ) | 4:41 |
+| 67 | [Amor](https://open.spotify.com/track/35CpkPPqi9RXlETJZw5BYS) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [856 para el Mundo](https://open.spotify.com/album/2CPwUEgvViKF6S7LAchZAZ) | 4:41 |
+| 68 | [¿Qué Pasó Mi Amor?](https://open.spotify.com/track/2Tc0Hpl8AhRoPvlrLISI2F) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Yang](https://open.spotify.com/album/3dhNpAkl8UJoj5N1MDLbUy) | 3:02 |
 | 69 | [Sirena](https://open.spotify.com/track/5jeWGw9WMX68R8hNqdriOv) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Sirena](https://open.spotify.com/album/0dTFJm1H9hKxR6RUPiflhS) | 3:51 |
 | 70 | [Amor](https://open.spotify.com/track/3jhPE1xvt1tAhtMWvzXW9p) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Bendecido](https://open.spotify.com/album/5t6smstXej1mG4yeh2Rgn0) | 3:22 |
 | 71 | [Repítelo](https://open.spotify.com/track/5IDjFFu1TMknvgKVAQ1CRX) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1), [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [Repítelo](https://open.spotify.com/album/1DNsExIHCqxBbQci0Qc5h3) | 3:21 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTQNLzhgvdh.md) - [plain]
 | 74 | [Eres Tu / </3](https://open.spotify.com/track/1gmsRzmvvfstrm9etnz1HL) | [Alejandroo](https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ) | [Eres Tu / </3](https://open.spotify.com/album/5cvzSX2TePn1YKX4UGDUFx) | 3:25 |
 | 75 | [\#LQMQ](https://open.spotify.com/track/6FCB0OEs5XTCtdywDhAnsE) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [\#LQMQ](https://open.spotify.com/album/5aOEkoqeFndGKRtFPWTyrk) | 3:35 |
 
-Snapshot ID: `MTY1OTQ3NzUxMCwwMDAwMDAwMDNkOGRiMTZhYTlmMDdmN2U0MWVhYzAyYjY1ZmExMjQ5`
+Snapshot ID: `MTY1OTQ3NzUxMCwwMDAwMDAwMGZkZWY5YzEzYWU3Y2I1NjJkNTliOWMzNGE3YjFmNDcy`

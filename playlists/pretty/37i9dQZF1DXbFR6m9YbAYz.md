@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFR6m9YbAYz.md) - [plain]
 
 > Country tracks to pump up your gaming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,070 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,183 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFR6m9YbAYz.md) - [plain]
 | 4 | [Tennessee Whiskey](https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:53 |
 | 5 | [Wilder Days](https://open.spotify.com/track/2vubFQgAJO5SeuVa7ytIHc) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Reckless](https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio) | 4:11 |
 | 6 | [Buy Dirt](https://open.spotify.com/track/69AIpwGNLxr4qS1X5ynx60) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 2:47 |
-| 7 | [Whiskey On You](https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Whiskey On You](https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm) | 3:03 |
-| 8 | [When It Rains It Pours](https://open.spotify.com/track/1mMLMZYXkMueg65jRRWG1l) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You](https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj) | 4:00 |
+| 7 | [When It Rains It Pours](https://open.spotify.com/track/1mMLMZYXkMueg65jRRWG1l) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You](https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj) | 4:00 |
+| 8 | [Whiskey On You](https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Whiskey On You](https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm) | 3:03 |
 | 9 | [Martha Divine](https://open.spotify.com/track/7cokvE1fABqkJL8FgUiBcS) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Will](https://open.spotify.com/album/0GETdJ0C2pHIqCFLoUa0rP) | 3:37 |
 | 10 | [Wasted On You](https://open.spotify.com/track/3cBsEDNhFI9E82vPj3kvi3) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Dangerous: The Double Album](https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr) | 2:58 |
 | 11 | [Chicken Fried](https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Foundation](https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT) | 3:58 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFR6m9YbAYz.md) - [plain]
 | 38 | [GIVE HEAVEN SOME HELL](https://open.spotify.com/track/2bVeUlOC5JjTpkQXuUUoYm) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [A ROCK](https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ) | 3:37 |
 | 39 | [Toes](https://open.spotify.com/track/4S518ci8UY4op0Xyp6Hx6o) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Foundation](https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT) | 4:22 |
 | 40 | [Simple](https://open.spotify.com/track/4L9Ds4mpD3SuYoWwFUlv16) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Can't Say I Ain't Country](https://open.spotify.com/album/64nhe9s692yKECAoMcEQ8U) | 3:05 |
-| 41 | [Beers On Me](https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Beers On Me](https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM) | 2:54 |
-| 42 | [This Damn Song](https://open.spotify.com/track/7s9bJQK8sr8yDyOAHn8miR) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [This Damn Song](https://open.spotify.com/album/4KFp8O0ruq7DsaEbU57eNs) | 4:40 |
+| 41 | [This Damn Song](https://open.spotify.com/track/7s9bJQK8sr8yDyOAHn8miR) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [This Damn Song](https://open.spotify.com/album/4KFp8O0ruq7DsaEbU57eNs) | 4:40 |
+| 42 | [Beers On Me](https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Beers On Me](https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM) | 2:54 |
 | 43 | [Night Shift](https://open.spotify.com/track/0bPnT6i9H1p8Vd85GS6Z7I) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [California Sunrise](https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ) | 2:52 |
 | 44 | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/track/4wBjKhJx6JnGoNJfJs24pd) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Blue In The Sky](https://open.spotify.com/album/58zetIrM1Kf5xf2utMJOJi) | 2:50 |
 | 45 | [Dirt Road Anthem](https://open.spotify.com/track/2qYsSHsYkihWx043HVJQRV) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [My Kinda Party](https://open.spotify.com/album/6gYk1JlSSmlUZGs1Lef1BI) | 3:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFR6m9YbAYz.md) - [plain]
 | 74 | [SOLD OUT](https://open.spotify.com/track/3I56OBwJkDAyt9L00c8ois) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [SOLD OUT](https://open.spotify.com/album/7btdv2v09pv92AOX2SvmKm) | 3:22 |
 | 75 | [Hippies and Cowboys](https://open.spotify.com/track/1YWSAC0JPLKpf0PVCie4T7) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Less Wise](https://open.spotify.com/album/2fUFSZr4KMEXOdsTw1LdSG) | 5:00 |
 
-Snapshot ID: `MTY2MDI3Njg2MCwwMDAwMDAwMGZhYzU0YmU2ZjYxNDZiZWFjOGY5ZmZmMDE1YTQyZjk1`
+Snapshot ID: `MTY2MDI3Njg2MCwwMDAwMDAwMDQ4MjQ2MDc1MzQzZGY3YmVkNWMxMzdjNWI3NzEzMjFk`

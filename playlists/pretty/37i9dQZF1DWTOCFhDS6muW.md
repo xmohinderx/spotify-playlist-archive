@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 
 > ¡Esto es punta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,552 likes - 38 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,565 likes - 38 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 | 26 | [El Encarguito](https://open.spotify.com/track/4HVA1hDrurIxBFUShrL4if) | [Guillermo Anderson](https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy) | [Encarguitos Del Caribe](https://open.spotify.com/album/2ma5OpIYAH0fZm3H23krvR) | 3:43 |
 | 27 | [Mira Honduras](https://open.spotify.com/track/0FbnL9EfyZFhJGorVG7GQg) | [Polache](https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY) | [Hablo Español](https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh) | 2:46 |
 | 28 | [Dona Amidi](https://open.spotify.com/track/5Q7E9uJFVw7CEuvCG0W9A5) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv) | [Puntas Garifunas Con Cache](https://open.spotify.com/album/7EYnYfNJDRBLWaos0NGw8l) | 3:42 |
-| 29 | [Oye Este Canto Aka Levantando las Manos](https://open.spotify.com/track/6VHH8EZHnvE2QcL0pipwhY) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Alegria](https://open.spotify.com/album/05bmKOrqr3sL0fDM3pOXQW) | 5:09 |
+| 29 | [Imagenes](https://open.spotify.com/track/563dJNGXjnh8SPRmC5plaH) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Lo Mejor de Banda Blanca \- 16 Exitos](https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20) | 4:15 |
 | 30 | [Baila Baila](https://open.spotify.com/track/6h5a02bpNo0UKpMLWcXTEl) | [Garifuna Kids](https://open.spotify.com/artist/6OfSdKAmgozL3jAzHmszxo) | [Baila Baila](https://open.spotify.com/album/2NfTKjVHOCQTYFfvTRjL8W) | 6:36 |
 | 31 | [Punta Silver](https://open.spotify.com/track/6t4Sbn7GLk3yR8UnGFIZr0) | [Los Silver Star](https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP) | [Batalla de las Puntas, Vol\. 1](https://open.spotify.com/album/4uQrzFTwSjQahcjRUrAdoD) | 4:42 |
 | 32 | [Mete Y Saca](https://open.spotify.com/track/7tez2Argy2je4NUQM9eK3y) | [Punta Cartel](https://open.spotify.com/artist/0WJay6Qc1qWjeppQf2TvyM), [Nuru Ellis](https://open.spotify.com/artist/294f384g9SS0tGK9OFn4FN) | [Mete Y Saca](https://open.spotify.com/album/5UPMmxiqYZOmZoy4yAtFXm) | 5:23 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 | 37 | [Hablo Español](https://open.spotify.com/track/7g4O8xQEMzHDkLmP0YrG14) | [Polache](https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY) | [Hablo Español](https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh) | 3:06 |
 | 38 | [En Mi Pais](https://open.spotify.com/track/78inhCoJFx1M9ZRBG6Nbhp) | [Guillermo Anderson](https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy) | [Pobre Marinero](https://open.spotify.com/album/6PISCk0SEOHNFHheKDmUFj) | 3:39 |
 
-Snapshot ID: `MTU5MDUwODM5MywwMDAwMDAwMDViOTMxNzJhZmMzMWY0NmQwZWZhYjVjNTkxOTQ3ODk3`
+Snapshot ID: `MTU5MDUwODM5MywwMDAwMDAwMGUyZmQ0NjlkOGNkYWRiMzFjNmNmYTVlYmE5ZDQ4ZTEz`

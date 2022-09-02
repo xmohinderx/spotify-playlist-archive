@@ -2,9 +2,9 @@
 
 ### [RADAR: Early Noise ](https://open.spotify.com/playlist/37i9dQZF1DX4OR8pnFkwhR)
 
-> Spotifyが注目するニューカマー・プレイリスト。Cover: 秋山璃月
+> Spotifyが注目するニューカマー・プレイリスト。Cover: Bialystocks
 
-386 songs - 23 hr 16 min - [published](https://open.spotify.com/playlist/3egMOJl8BjDmQKjIUlEPsP)
+387 songs - 23 hr 19 min - [published](https://open.spotify.com/playlist/3egMOJl8BjDmQKjIUlEPsP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,7 @@
 | [run.](https://open.spotify.com/track/7h0LrbAW3YQf7IIa3Bwzuc) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [run.](https://open.spotify.com/album/6czoxk1n3RVjncUIIP8S9B) | 3:56 | 2022-04-05 | 2022-05-25 |
 | [SAKURAドロップス](https://open.spotify.com/track/3bI8jTYxZxSX8u1lYAYBnh) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [SAKURAドロップス / 面影](https://open.spotify.com/album/6WpFtYm4xhwalELWPeAmNx) | 4:41 | 2022-02-17 | 2022-02-23 |
 | [sanagi](https://open.spotify.com/track/1Za4ziatjztmnabABlmqfe) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [sanagi](https://open.spotify.com/album/03slNGQYgZzvdeWvOKzZR3) | 3:18 | 2022-05-24 | 2022-06-29 |
-| [Sashiiro](https://open.spotify.com/track/21lckxUcSbNjXvevhrEmqt) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Sashiiro](https://open.spotify.com/album/2N7EaA2edo7hIYqsAFmxbI) | 3:03 | 2022-07-28 |  |
+| [Sashiiro](https://open.spotify.com/track/21lckxUcSbNjXvevhrEmqt) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Sashiiro](https://open.spotify.com/album/2N7EaA2edo7hIYqsAFmxbI) | 3:03 | 2022-07-28 | 2022-09-02 |
 | [Scent of home](https://open.spotify.com/track/1zWvRXh2Mn9aN9rstdelIP) | [illmore](https://open.spotify.com/artist/6xLWs7PzOiPY2351KcoeGZ), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Scent of home](https://open.spotify.com/album/6iBoeNxGMFOTeX3ANDBjDR) | 3:26 | 2022-06-01 | 2022-06-22 |
 | [School](https://open.spotify.com/track/4aFusxXDOfQyzSKlC2fg5b) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Chilli Beans.](https://open.spotify.com/album/4eAn8XoBrzPRhzNGTctv4O) | 3:50 | 2022-06-30 | 2022-07-13 |
 | [shame](https://open.spotify.com/track/36pWB023d8A7lcpM9vG4G9) | [RQNY](https://open.spotify.com/artist/5G395u0vEWgpDykp47OjSP) | [shame](https://open.spotify.com/album/2W8p3i2gNs6lt5BC6EA8Mh) | 3:26 | 2022-08-04 | 2022-08-19 |
@@ -356,6 +356,7 @@
 | [深夜徘徊](https://open.spotify.com/track/4eW39rkFgCZ31dPTsbT3cz) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [深夜徘徊](https://open.spotify.com/album/09lUXmuYLgFciEYNns0Nuy) | 2:51 | 2022-05-10 | 2022-05-25 |
 | [渋谷](https://open.spotify.com/track/6r7UWUoUuGwuF7WREfVPfW) | [イトハ](https://open.spotify.com/artist/2FvMNFgv7sVbpbA32TK2Mq) | [渋谷](https://open.spotify.com/album/7mL7yin2dbHNaCdMIcaKTA) | 4:16 | 2022-04-05 | 2022-04-13 |
 | [濡溶](https://open.spotify.com/track/7GW6IgNWf23xbwyQ3rfwNR) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [濡溶](https://open.spotify.com/album/0OSmMCfoplA3Rqpevs7Dqu) | 1:34 | 2022-02-22 | 2022-03-30 |
+| [灯台](https://open.spotify.com/track/0rWizJ6KV5Wna8dPdXB5CU) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [灯台](https://open.spotify.com/album/7HkIv5XkyvMwR3DXz5mmwk) | 2:57 | 2022-09-01 |  |
 | [灰になって空に舞う](https://open.spotify.com/track/0cv01P6YagCS2AzVJ7Zm53) | [BURNABLE/UNBURNABLE](https://open.spotify.com/artist/18gC8b8KN9bId452Xdbl3p) | [灰になって空に舞う](https://open.spotify.com/album/42O4d68FPjGsellVrCxJBp) | 2:50 | 2022-04-12 | 2022-05-18 |
 | [煙](https://open.spotify.com/track/7dGYY5OqFqcHCGfXANJpnd) | [ナカムラマユ](https://open.spotify.com/artist/0SEwHBIuSqJzE4b8OrOlKz) | [煙](https://open.spotify.com/album/3bcnckNl3V1iMXQnKXd3NG) | 3:40 | 2022-04-27 | 2022-05-20 |
 | [熱帯夜](https://open.spotify.com/track/112kowSRpto8kuq8ZJYkWc) | [swim swim](https://open.spotify.com/artist/2se9xMe6mXRqmRQD8jmNpf) | [熱帯夜](https://open.spotify.com/album/3BiSgv3GdEveK9Mt2nlXtL) | 4:04 | 2022-08-16 |  |

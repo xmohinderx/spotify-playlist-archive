@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcViPZlF2qaM.md) - [plain]
 
 > Abajo y a la izquierda.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,226 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,282 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcViPZlF2qaM.md) - [plain]
 | 24 | [El Watusi](https://open.spotify.com/track/5jK21S6FXKQqjlK4vTBiMd) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Charanga Moderna](https://open.spotify.com/album/5uYeVU8weEJgTFLblDuHFf) | 2:40 |
 | 25 | [Canción de Bañar la Luna](https://open.spotify.com/track/518wotaL3vqUUBCyGV2WSb) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Uno](https://open.spotify.com/album/7lhWIJPpVRmPU1ozYnRtdE) | 2:53 |
 | 26 | [Sofrito](https://open.spotify.com/track/0FpBO0Pyoh4MZVmNO3zwnc) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Sofrito](https://open.spotify.com/album/6o663c9rSwfKOoLQKs76kS) | 6:06 |
-| 27 | [No me llores más](https://open.spotify.com/track/2gIeStpi0SclaktrnvncdO) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Omara Portuondo \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/49I0jh6YTRjT56eqZvR0fs) | 4:56 |
-| 28 | [Movimiento](https://open.spotify.com/track/7pBoi7yWCPzn3UjeMsGKg6) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Salvavidas de hielo](https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0) | 3:51 |
+| 27 | [Movimiento](https://open.spotify.com/track/7pBoi7yWCPzn3UjeMsGKg6) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Salvavidas de hielo](https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0) | 3:51 |
+| 28 | [No me llores más](https://open.spotify.com/track/2gIeStpi0SclaktrnvncdO) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Omara Portuondo \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/49I0jh6YTRjT56eqZvR0fs) | 4:56 |
 | 29 | [Baja a la Tierra \(feat\. Lila Downs\)](https://open.spotify.com/track/44OP8tosI4ufd6XuUQvx0a) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Bi](https://open.spotify.com/album/5Rnk0JczvdBVg123Mpd483) | 3:22 |
 | 30 | [Tijuana Taxi](https://open.spotify.com/track/2vLgPIAJj1Z7fd69QoFxqK) | [Herb Alpert & The Tijuana Brass](https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I) | [!!Going Places!!](https://open.spotify.com/album/3y7ArxHNtZoTVWSwR4lkQT) | 2:05 |
 | 31 | [Duda Morena](https://open.spotify.com/track/2tUUUBIx7SqR3WVVSN7R5V) | [Churupaca](https://open.spotify.com/artist/0B6mwRbxKrvUvklMk9571H), [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Churupaca](https://open.spotify.com/album/4WEJMxY05ww9RP2jCK4SXX) | 4:53 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcViPZlF2qaM.md) - [plain]
 | 39 | [Ojos Del Sol](https://open.spotify.com/track/2gke8YaJQur5OpkWAeIMdz) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Ojos Del Sol](https://open.spotify.com/album/1bv229IwMr6O2Id5jVZqmc) | 4:05 |
 | 40 | [Cumbiera Intelectual](https://open.spotify.com/track/44QrX1Mp26xztzWBLuYsjz) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Sur o No Sur](https://open.spotify.com/album/2pbdnwDbOlbtJG3yZuCqkq) | 4:10 |
 | 41 | [Be True to Me \- Sabor a Mi \- Versión Bilingüe](https://open.spotify.com/track/50S3pGGtFET6HRgGwE6ZUK) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Be True to Me \- Sabor a Mi \(Versión Bilingüe\)](https://open.spotify.com/album/7e2OxHdIYyVK7dY8oHkGKx) | 3:09 |
-| 42 | [Danza de Gardenias \(feat\. Los Macorinos\)](https://open.spotify.com/track/4v2SHoi0mUbeS4no69gQNX) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Musas \(Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos\), Vol\. 2](https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy) | 4:23 |
-| 43 | [Maria Elena](https://open.spotify.com/track/3ygHAK1w3qP4wp83KXUiiu) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [Maria Elena](https://open.spotify.com/album/4hO6VEnWpPImOF4RDmtTHM) | 3:07 |
+| 42 | [Maria Elena](https://open.spotify.com/track/3ygHAK1w3qP4wp83KXUiiu) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [Maria Elena](https://open.spotify.com/album/4hO6VEnWpPImOF4RDmtTHM) | 3:07 |
+| 43 | [Danza de Gardenias \(feat\. Los Macorinos\)](https://open.spotify.com/track/4v2SHoi0mUbeS4no69gQNX) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Musas \(Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos\), Vol\. 2](https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy) | 4:23 |
 | 44 | [Mis Amigos](https://open.spotify.com/track/78mspwUpeCM5W1AaA6ffiN) | [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid) | [Mis Amigos](https://open.spotify.com/album/2lftV3fcZKJnVMHXwZyDGg) | 3:00 |
 | 45 | [Mr\. Carisma](https://open.spotify.com/track/1hdSsODySd5A7IHDStGjBn) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mr\. Carisma](https://open.spotify.com/album/7AjCD9Rg4Pv7Fp5SHv3B5n) | 3:51 |
 | 46 | [Guacamole](https://open.spotify.com/track/5D42s3vtQV0yJ5T1LtjADH) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [The Nada](https://open.spotify.com/album/2HzWcwDz1vXbYF3TH7XaMX) | 5:00 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcViPZlF2qaM.md) - [plain]
 | 54 | [La Cura](https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Gizmo Varillas](https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj) | [La Cura](https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf) | 3:01 |
 | 55 | [Chango](https://open.spotify.com/track/6X2qyN9UIXitH2UtIOZ85C) | [Ska Cubano](https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF) | [Ska Cubano](https://open.spotify.com/album/1Sry0mamK4yz2Khmmtm1DA) | 3:38 |
 | 56 | [Maz Paz](https://open.spotify.com/track/6Js2gWnnIDA9lrn7l1mIxg) | [Cumbiasound](https://open.spotify.com/artist/1iW2PQWBqrMqT3yNfcHrVv), [Lis Flores Varela](https://open.spotify.com/artist/1J5GfFHQdauwIzc38Wib1C), [Boogie Castillo](https://open.spotify.com/artist/3y7a1cuQlXDJmonftCDqbj) | [Cosas Del Universo](https://open.spotify.com/album/036AR7pZFfjmQ6wX2c2dCk) | 3:57 |
-| 57 | [Rúmbala](https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur) | [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Rúmbala](https://open.spotify.com/album/4yf3TyT75f33sAq1o1ORuR) | 2:58 |
-| 58 | [Sonido Amazonico](https://open.spotify.com/track/2Zcv2Vk65xi37T7AT2qcDJ) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Cumbia Amazonica](https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL) | 2:40 |
-| 59 | [Chucusteady](https://open.spotify.com/track/1mUPcRmSmi2XsKAOWFKAF1) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6), [Mad Professor](https://open.spotify.com/artist/3hbnUwHvxyFxeJ9veCzOE7) | [Frente Cumbiero Meets Mad Professor](https://open.spotify.com/album/1dnal49FIWH19CsWYjYMOV) | 4:23 |
-| 60 | [Maré](https://open.spotify.com/track/2TGNiLgm0TpUVVDSdf1gyt) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Drama](https://open.spotify.com/album/4XGFdSkArqglb0DLPeh8N5) | 3:33 |
+| 57 | [Sonido Amazonico](https://open.spotify.com/track/2Zcv2Vk65xi37T7AT2qcDJ) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Cumbia Amazonica](https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL) | 2:40 |
+| 58 | [Rúmbala](https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur) | [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Rúmbala](https://open.spotify.com/album/4yf3TyT75f33sAq1o1ORuR) | 2:58 |
+| 59 | [Maré](https://open.spotify.com/track/2TGNiLgm0TpUVVDSdf1gyt) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Drama](https://open.spotify.com/album/4XGFdSkArqglb0DLPeh8N5) | 3:33 |
+| 60 | [Chucusteady](https://open.spotify.com/track/1mUPcRmSmi2XsKAOWFKAF1) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6), [Mad Professor](https://open.spotify.com/artist/3hbnUwHvxyFxeJ9veCzOE7) | [Frente Cumbiero Meets Mad Professor](https://open.spotify.com/album/1dnal49FIWH19CsWYjYMOV) | 4:23 |
 
-Snapshot ID: `MTY2MDg3NDU4NiwwMDAwMDAwMDMwOTgzYzg5Y2RiYjI2YWMwY2M5MDBhMDM1MzcwZGFj`
+Snapshot ID: `MTY2MDg3NDU4NiwwMDAwMDAwMDQxOWY0ZGU2MTVhMWU2Y2ZiNWMwMWJkOWZjMTI0YmEx`

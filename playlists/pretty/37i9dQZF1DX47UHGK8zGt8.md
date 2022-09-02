@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 
 > Músicas calminhas pra começar o dia bem relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,663 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,014 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 | 28 | [Á Primeira Vista](https://open.spotify.com/track/2hjDxNmryN9ziHAIYiRksM) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [Aos Vivos](https://open.spotify.com/album/4oUdOO2U2FwFiuHOMUwkNF) | 3:36 |
 | 29 | [Outono](https://open.spotify.com/track/1oFXWGb5SWcChrzJuXXmvj) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ), [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Deixa Vir Do Coração](https://open.spotify.com/album/4IlVpTe4eaaIvMBmyMCT9y) | 3:24 |
 | 30 | [Isn't She Lovely](https://open.spotify.com/track/6yZc8RzX7vxxqIQLQeVPzT) | [Lorenza Pozza](https://open.spotify.com/artist/2TVIEPW2MAGMyGqozwFzG1) | [Música para Casar](https://open.spotify.com/album/3fgCfzJrp5xR6BhvcaY87V) | 2:29 |
-| 31 | [Quando Amanhecer](https://open.spotify.com/track/6Ed0W2om56aPTJ47gGmktw) | [Lado de Cá](https://open.spotify.com/artist/5pTc9eM3kCQHVlCaxR0FLD) | [Quando Amanhecer](https://open.spotify.com/album/4DFkTjnLeevK1QNxH2fKJR) | 2:51 |
-| 32 | [No Escuro](https://open.spotify.com/track/2pWMc34naG2miGcu5R4kYY) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [No Escuro](https://open.spotify.com/album/5cPLhv2TI5JgIX3Gmfq9bI) | 3:58 |
+| 31 | [No Escuro](https://open.spotify.com/track/2pWMc34naG2miGcu5R4kYY) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [No Escuro](https://open.spotify.com/album/5cPLhv2TI5JgIX3Gmfq9bI) | 3:58 |
+| 32 | [Quando Amanhecer](https://open.spotify.com/track/6Ed0W2om56aPTJ47gGmktw) | [Lado de Cá](https://open.spotify.com/artist/5pTc9eM3kCQHVlCaxR0FLD) | [Quando Amanhecer](https://open.spotify.com/album/4DFkTjnLeevK1QNxH2fKJR) | 2:51 |
 | 33 | [Lisboa\-Madrid](https://open.spotify.com/track/70kJ2O6JiFg4nTATPw4b0E) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Lisboa\-Madrid](https://open.spotify.com/album/6fmdvFGB23usYVqWC9Evdy) | 3:40 |
 | 34 | [Declaração](https://open.spotify.com/track/3d9nrJ5u7JIMLdA917SzEn) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Declaração](https://open.spotify.com/album/03xIJaP4Ify8698ptSD82L) | 2:55 |
 | 35 | [Ai que Saudade D'Ocê \- Sessions](https://open.spotify.com/track/3jLkEBt841U8Nbca03XD0q) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Mariana Nolasco Sessions 2](https://open.spotify.com/album/5hOl5QyQ3r0Y9DQDoVfszF) | 2:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 | 49 | [Zero](https://open.spotify.com/track/7Jl757vT5eNqemc6PtY2dA) | [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n) | [Cru](https://open.spotify.com/album/7wYN6lMpcVx2maHSGc2yQb) | 6:04 |
 | 50 | [Te amar é massa demais](https://open.spotify.com/track/5PLtrIrBZytL4L11AyxOHR) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [COR](https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC) | 4:04 |
 
-Snapshot ID: `MTY2MDc1NDQyMiwwMDAwMDAwMDU0NDc2OGI3NmUwMTQyZjdmOWVjYThiZThjMWQ1NmU0`
+Snapshot ID: `MTY2MDc1NDQyMiwwMDAwMDAwMGUyYzFjYWY4OGM1NmQ2ZTIzOWFjZjE3ZWRlMDJmMzMz`

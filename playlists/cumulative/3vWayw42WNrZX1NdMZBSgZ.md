@@ -4,7 +4,7 @@
 
 > The perfect mix of the biggest <a href="https://www.instagram.com/sonymusiclatin/">Sony Music Latin</a> hits! Follow this playlist for hot new updates\. Cover: Ramon Vega
 
-276 songs - 15 hr 12 min - [published](https://open.spotify.com/playlist/0lGBO3myxqxYAzrucuf31y)
+278 songs - 15 hr 18 min - [published](https://open.spotify.com/playlist/0lGBO3myxqxYAzrucuf31y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Mejor Que Te Acostumbres](https://open.spotify.com/track/0hM4CHl1Nu00XZXRkGfmsZ) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Mejor Que Te Acostumbres](https://open.spotify.com/album/3Yp8JkCeLI5bvrO2x6bjua) | 3:13 | 2022-04-22 |  |
 | [Mi Peor Error](https://open.spotify.com/track/61SfEOvxgYHwqkRu5K8GIB) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Mi Peor Error](https://open.spotify.com/album/0zIqIwZW0LSPZ5fSjnpUWF) | 3:03 | 2022-08-12 |  |
 | [Mi Plan de Vida](https://open.spotify.com/track/5MMCvfPYyHQrppkihSQA2B) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [El Amor Que Merecemos](https://open.spotify.com/album/3O3pfZQJpe6a7rvyoRtx9l) | 3:00 | 2022-05-27 |  |
+| [Mi Salida Contigo](https://open.spotify.com/track/4DKExb9AdxfNGyYh8RE9SB) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Mi Salida Contigo](https://open.spotify.com/album/2ponivnQfYOHUw6aWv0cGm) | 2:55 | 2022-09-01 |  |
 | [Miami](https://open.spotify.com/track/0969BXUHWVqlmZa7zhuuRV) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Miami](https://open.spotify.com/album/3R3Kay5sDK4v3931l4evLG) | 3:45 | 2022-08-24 |  |
 | [Miami](https://open.spotify.com/track/5vUIh7sODY1sD6EIo49Dka) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Miami](https://open.spotify.com/album/0ffCDiEj0kSf1Z4cLLAyHl) | 3:12 | 2022-02-02 |  |
 | [Miénteme](https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Miénteme](https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg) | 2:45 | 2022-02-02 |  |
@@ -176,6 +177,7 @@
 | [No Te Lo Voy a Negar \(feat\. HERNAN TREJO\)](https://open.spotify.com/track/340OYprIslmjNCuJZKRjwn) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [No Te Lo Voy a Negar \(feat\. HERNAN TREJO\)](https://open.spotify.com/album/1qc0uWlaS1bswH57YVEZHU) | 4:00 | 2022-06-03 |  |
 | [No Tenemos La Culpa](https://open.spotify.com/track/70gwSrZmNuuIPLIioB5aaW) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [MONÁCO](https://open.spotify.com/artist/5mrZpUB8oFSOMkyyhW0rmH) | [No Tenemos La Culpa](https://open.spotify.com/album/0NX3kzOlPddKsWUCJZg2YR) | 2:52 | 2022-05-05 |  |
 | [No Toque Mi Naik](https://open.spotify.com/track/0TBbNYzmtCfN5cpZSCVNIz) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [No Toque Mi Naik](https://open.spotify.com/album/2hdIFvSU7heSbsco9Mssbu) | 2:23 | 2022-02-02 |  |
+| [Nobody Like Yo](https://open.spotify.com/track/5ETecrJ4HK8qglSLq382hG) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Nobody Like Yo](https://open.spotify.com/album/2NhtV3QHi04aqmbnaLCEYJ) | 2:34 | 2022-09-01 |  |
 | [Nos Comemos Vivos](https://open.spotify.com/track/0bI5WRiDfU5BY38ufOJtGu) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [The Love & Sex Tape](https://open.spotify.com/album/1CppHlux7Tg0ZUhWEaUudh) | 3:45 | 2022-06-10 |  |
 | [Nostálgico](https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Nostálgico](https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV) | 3:29 | 2022-02-02 |  |
 | [Nuestra Canción](https://open.spotify.com/track/5reQI13tWWYDLMrGcUF4Mk) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Caja de Música](https://open.spotify.com/album/4XSLqHHDwqAnjwoMTtx7jC) | 4:20 | 2022-02-02 |  |

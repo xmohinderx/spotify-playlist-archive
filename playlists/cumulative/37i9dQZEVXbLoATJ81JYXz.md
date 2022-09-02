@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-962 songs - 2 day 2 hr 59 min - [published](https://open.spotify.com/playlist/5P2yiuo1XuPDWVYvCs1X7X)
+963 songs - 2 day 3 hr 2 min - [published](https://open.spotify.com/playlist/5P2yiuo1XuPDWVYvCs1X7X)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [deja vu](https://open.spotify.com/track/61KpQadow081I2AsbeLcsb) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [deja vu](https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6) | 3:35 | 2021-04-17 | 2021-04-18 |
 | [Demeanor \(feat\. Dua Lipa\)](https://open.spotify.com/track/3DMs7bahbQTnoxCjgP7qoK) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 3:04 | 2021-07-18 | 2021-07-25 |
 | [Den vintertid nu kommer](https://open.spotify.com/track/0hSBZP9SodLCOLWmfgK9MK) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Den vintertid nu kommer](https://open.spotify.com/album/2qNHigOx9qajdbrE6vyD4x) | 3:19 | 2021-11-30 | 2021-12-27 |
-| [Det kommer aldrig va över för mig](https://open.spotify.com/track/3SjXx3rbNGk8nCho8YEoz5) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Det kommer aldrig va över för mig](https://open.spotify.com/album/4y7g9dQcKkmBBNtMYhHxQs) | 4:27 | 2022-06-25 |  |
+| [Det kommer aldrig va över för mig](https://open.spotify.com/track/3SjXx3rbNGk8nCho8YEoz5) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Det kommer aldrig va över för mig](https://open.spotify.com/album/4y7g9dQcKkmBBNtMYhHxQs) | 4:27 | 2022-06-25 | 2022-09-02 |
 | [Det stora röda huset](https://open.spotify.com/track/7HMjYD6vVNaHpHPQGR2W63) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [En gång i tiden \(del 2\)](https://open.spotify.com/album/2D0NU2s1xrC8wGRkMrJUjP) | 2:58 | 2021-04-18 | 2021-05-12 |
 | [Det är nog aldrig för sent för oss två](https://open.spotify.com/track/06oh2gh4AXIapbn0UeHXad) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Det är nog aldrig för sent för oss två](https://open.spotify.com/album/5U6Z8kuGYsb9RHNRM6Q7cp) | 3:33 | 2021-05-03 | 2021-05-16 |
 | [Det Är Slut](https://open.spotify.com/track/04QgZlzLxbu9YNEjYIpUPU) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [Ingen Aning Vart Jag Landar](https://open.spotify.com/album/3N8DSgKPVNUoit6kBArz01) | 2:36 | 2022-08-27 |  |
@@ -883,6 +883,7 @@
 | [Tänker på dig](https://open.spotify.com/track/3G1lqnGgPyA5c6fKmY5ljH) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [Tänker på dig](https://open.spotify.com/album/06cZ300oGu2R4S94dWqpaG) | 2:50 | 2022-02-19 | 2022-02-21 |
 | [Umbrella](https://open.spotify.com/track/2NxGqx9mDpTzXQJtbYguwi) | [E4an](https://open.spotify.com/artist/21fClS8OEQ4cTa868Q8INi) | [Umbrella](https://open.spotify.com/album/3tVqsIxWjX7ZzahPgEAQeE) | 2:17 | 2022-07-04 | 2022-07-17 |
 | [Undeniable \(feat\. X Ambassadors\)](https://open.spotify.com/track/71qB68guEJjbvtjlkZ8DF5) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Undeniable \(feat\. X Ambassadors\)](https://open.spotify.com/album/3SgXZqSc8UfHsbrseyYscm) | 3:00 | 2021-10-17 | 2021-10-23 |
+| [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 | 2022-09-01 |  |
 | [Unge Med Extra Energi](https://open.spotify.com/track/07r0YVWQVk4tjuCZWTNQqA) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Unge Med Extra Energi](https://open.spotify.com/album/6WZR2h3rFvJH8DKq3oHt6T) | 3:10 | 2021-10-23 | 2021-11-14 |
 | [United In Grief](https://open.spotify.com/track/05zd5Nv0e02ZqrlC8A2cwx) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 4:15 | 2022-05-14 | 2022-05-17 |
 | [up at night \(feat\. justin bieber\)](https://open.spotify.com/track/4WghJOMjDpGdlk3b8aJIgy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [up at night \(feat\. justin bieber\)](https://open.spotify.com/album/3vnJxSrVldmInhRwtcUG89) | 3:02 | 2022-04-02 | 2022-04-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RSJAsEDz7H.md) - [plain]
 
 > Celebrate the epic GTA series with memorable moments and hidden gems from the soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,498 likes - 138 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,407 likes - 138 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RSJAsEDz7H.md) - [plain]
 | 14 | [100% Of Disin' You](https://open.spotify.com/track/5yKrEZp45eOSH30SN6igG8) | [Armando](https://open.spotify.com/artist/6JuRhSfY164psE7nZIXw53) | [100% Of Disin' You](https://open.spotify.com/album/4lqeEVHfNgPuRl8b6C8JAW) | 3:43 |
 | 15 | [A Palé](https://open.spotify.com/track/23zJcKwLf5CeaKVbFhrWgF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [A Palé](https://open.spotify.com/album/6B2RRiDJFXHojfPxKja5Mx) | 2:23 |
 | 16 | [Con Altura](https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [El Guincho](https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI) | [Con Altura](https://open.spotify.com/album/4bxHLppgdmaYJk0yfdcP0l) | 2:41 |
-| 17 | [LA FAMA \(with The Weeknd\)](https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 3:08 |
+| 17 | [LA FAMA](https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 3:08 |
 | 18 | [Mystery of Love](https://open.spotify.com/track/1E8hMeQvfgvQPjN3BZ2viF) | [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn) | [Amnesia](https://open.spotify.com/album/201nAW1V2QI2jDbGci7K3g) | 7:10 |
 | 19 | [Salgo Pa' la Calle](https://open.spotify.com/track/5hpwyyJJ2JyozFVVRJsfLp) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Randy](https://open.spotify.com/artist/7GxFU8LaNQLKl54JIYCNFm) | [Talento de Barrio](https://open.spotify.com/album/7JeWY0pvC27pCgn5eiSeV6) | 4:27 |
 | 20 | [Tukuntazo](https://open.spotify.com/track/0EaBXOqo6TNIIhHctCbQPi) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY) | [Tukuntazo](https://open.spotify.com/album/1YffA4MCsDxDIPCDwnzAcZ) | 3:17 |

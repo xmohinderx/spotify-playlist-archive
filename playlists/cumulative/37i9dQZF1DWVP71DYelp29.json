@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-25",
-  "description": "The hits you know like you\u2019ve never heard before.  Cover: Coldplay, Tate McRae, and The Migos. ",
+  "description": "The hits you know like you\u2019ve never heard before.  Cover: Harry Styles.",
   "name": "Spotify Singles: Hits",
   "published_playlist_ids": [
     "4vwHHoNBJiy53B2sRKKvPz"
@@ -915,6 +915,24 @@
       "duration_ms": 135748,
       "name": "Gates to the Sun (POLLEN Singles)",
       "url": "https://open.spotify.com/track/6EG0w98d2S1u1copDAHDqP"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243804,
+      "name": "Girl Crush - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8"
     },
     {
       "album": {
@@ -2485,7 +2503,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 201552,
       "name": "Walking Away - Recorded At Spotify Studios Stockholm",
       "url": "https://open.spotify.com/track/6eXTECbiawTve7VP1vEDcs"

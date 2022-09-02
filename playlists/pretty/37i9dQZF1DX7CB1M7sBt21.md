@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 
 > Ingenting peppar en under ett träningspass som riktigt bra musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,298 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,315 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 | 63 | [Someone You Loved \- Madism Radio Mix](https://open.spotify.com/track/1FaMsrYFdk914HDLQar1tz) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Someone You Loved \(Madism Radio Mix\)](https://open.spotify.com/album/4wooeoqR0Ix5w7GDYvkHju) | 2:37 |
 | 64 | [Alien \- Topic Remix](https://open.spotify.com/track/20Nj5d5LxOcja9a8JlU6Yi) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Alien \(Topic Remix\)](https://open.spotify.com/album/3M3kO7Um886veK5HKcZj4C) | 2:39 |
 | 65 | [what would you do? \- Galantis Remix](https://open.spotify.com/track/7CNnr17XNq6rvU2LM3H7MD) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [what would you do? \(Galantis Remix\)](https://open.spotify.com/album/39ay2W7PKgxnECNDoSvqYu) | 2:41 |
-| 66 | [Boom Boom Boom Boom](https://open.spotify.com/track/2mWsc7kD2lpFtMNndPEMOH) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Amfree](https://open.spotify.com/artist/72pJ6h8ZR3sS8S1vzv1SQE), [Ampris](https://open.spotify.com/artist/7sn4p2ENk9UcN3QdnXAsN2) | [Boom Boom Boom Boom](https://open.spotify.com/album/0MY7UAFFOsR5mHgyfmNPfj) | 2:08 |
-| 67 | [Year of the Young](https://open.spotify.com/track/6J7U49QGecWb3WqIqfSYc0) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Year of the Young](https://open.spotify.com/album/0WNXPe1PeWAhFMfsXj1iPi) | 2:44 |
+| 66 | [Year of the Young](https://open.spotify.com/track/6J7U49QGecWb3WqIqfSYc0) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Year of the Young](https://open.spotify.com/album/0WNXPe1PeWAhFMfsXj1iPi) | 2:44 |
+| 67 | [Boom Boom Boom Boom](https://open.spotify.com/track/2mWsc7kD2lpFtMNndPEMOH) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Amfree](https://open.spotify.com/artist/72pJ6h8ZR3sS8S1vzv1SQE), [Ampris](https://open.spotify.com/artist/7sn4p2ENk9UcN3QdnXAsN2) | [Boom Boom Boom Boom](https://open.spotify.com/album/0MY7UAFFOsR5mHgyfmNPfj) | 2:08 |
 | 68 | [Tough Love \(feat\. Agnes, Vargas & Lagola\)](https://open.spotify.com/track/1yfyIdEw5U2bD5I6gxQCxW) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu), [Vargas & Lagola](https://open.spotify.com/artist/2fVW2ix4ANKiofDZIsy1XR) | [TIM](https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ) | 3:11 |
 | 69 | [Everywhere \(feat\. Maya Avedis\)](https://open.spotify.com/track/3sSQDbzb6TrXlsSREouIUk) | [XO Cupid](https://open.spotify.com/artist/1Fy4Vnoq3HspYLrgEs9VNc), [Maya Avedis](https://open.spotify.com/artist/64msO0RZHKEtUsVvNtOrS4) | [Everywhere \(feat\. Maya Avedis\)](https://open.spotify.com/album/5sPQEXoh1AOhBbzdlN1uT8) | 2:56 |
 | 70 | [Voices In My Head](https://open.spotify.com/track/5TPWOzPTIxCjqfqORrzoiO) | [Skinny Days](https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq), [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr), [Slopes](https://open.spotify.com/artist/3KJJk2RU4RbO0yoDUZzHwZ) | [Voices In My Head](https://open.spotify.com/album/2dzWfg2MZA2F2SciTuedG2) | 2:42 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 | 79 | [Dance For The Hell Of It](https://open.spotify.com/track/1G8nKybzD7qlBxfZYFSybv) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Grown\-ish](https://open.spotify.com/album/4HsUtIgXcWzJetVBHPybg0) | 3:15 |
 | 80 | [Knockout](https://open.spotify.com/track/1YFwmEAnSUx9ZAgWT39i1L) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Knockout](https://open.spotify.com/album/3oMsAnTSyOLcOYGj721atI) | 2:27 |
 
-Snapshot ID: `MTY1OTA0NjI0NiwwMDAwMDAwMDE2YTg5YzJkMDQwYzZjYmQ4YzllODVmYTdiYTg4YTll`
+Snapshot ID: `MTY1OTA0NjI0NiwwMDAwMDAwMDc3YWVkNzgxZDQ0ODQ3NzRlN2QzMDQyNjJlMGRlM2Y4`

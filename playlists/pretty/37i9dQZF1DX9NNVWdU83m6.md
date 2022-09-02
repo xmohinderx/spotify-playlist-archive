@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,930 likes - 50 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,945 likes - 50 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 16 | [Snake Oil](https://open.spotify.com/track/415dIGsxo24JgyqmAun697) | [Tony Williams](https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe) | [Lifetime: The Collection](https://open.spotify.com/album/0s5AIVzIpjmtKnuYgohnza) | 6:26 |
 | 17 | [Rain Dog](https://open.spotify.com/track/5n1VJ7dpMT3G3Q83wo3tKr) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [Bookshelf](https://open.spotify.com/album/70v7OcDOYpKVOVxSYXQXjm) | 4:20 |
 | 18 | [Triggers](https://open.spotify.com/track/0tyiencXiHn4LBF4OnOPzu) | [Immortal Onion](https://open.spotify.com/artist/4CwsKWauDN6Dt84QVNnfGz) | [XD \[Experience Design\]](https://open.spotify.com/album/4W77ety4g4G6bW9HlaE1Rr) | 5:47 |
-| 19 | [Scorpion](https://open.spotify.com/track/24Bwts94Yx0aqN9xS5E0pQ) | [Derek Sherinian](https://open.spotify.com/artist/4ZCINPmMmZUh4H1qNqzIxq) | [Scorpion](https://open.spotify.com/album/5g4aSzfcbbU1Kx5qyrGLGv) | 3:38 |
-| 20 | [Blast Off](https://open.spotify.com/track/43qIHICo1XReDYqnvb1vjy) | [Trioscapes](https://open.spotify.com/artist/3poNEhEAAwqWGnLaQNE0Fs) | [Separate Realities](https://open.spotify.com/album/3bv11gB3IyjSa5Kc5mrmCT) | 5:28 |
-| 21 | [Juice](https://open.spotify.com/track/2u6wg9Ag8Si5XdQGOkGgVp) | [Krokofant](https://open.spotify.com/artist/23A1NMMpoNpJkSlq4GwJUy) | [Krokofant III](https://open.spotify.com/album/4waMJQJvjXHPUiuYfRb0gG) | 6:44 |
+| 19 | [Blast Off](https://open.spotify.com/track/43qIHICo1XReDYqnvb1vjy) | [Trioscapes](https://open.spotify.com/artist/3poNEhEAAwqWGnLaQNE0Fs) | [Separate Realities](https://open.spotify.com/album/3bv11gB3IyjSa5Kc5mrmCT) | 5:28 |
+| 20 | [Juice](https://open.spotify.com/track/2u6wg9Ag8Si5XdQGOkGgVp) | [Krokofant](https://open.spotify.com/artist/23A1NMMpoNpJkSlq4GwJUy) | [Krokofant III](https://open.spotify.com/album/4waMJQJvjXHPUiuYfRb0gG) | 6:44 |
+| 21 | [Scorpion](https://open.spotify.com/track/24Bwts94Yx0aqN9xS5E0pQ) | [Derek Sherinian](https://open.spotify.com/artist/4ZCINPmMmZUh4H1qNqzIxq) | [Scorpion](https://open.spotify.com/album/5g4aSzfcbbU1Kx5qyrGLGv) | 3:38 |
 | 22 | [Flight of the Murder Hornet](https://open.spotify.com/track/6Hxn7jXk34VEcYGoNxJRLG) | [Brady Watt](https://open.spotify.com/artist/3zx1v6xCo7VE8vxhhyqr5Y), [Carlos Homs](https://open.spotify.com/artist/6KqWLsgjy9vCaAGmDrHfcx), [Lenny "The Ox" Reece](https://open.spotify.com/artist/1egdBLUq2BDSgxfxxL8vQk) | [Flight of the Murder Hornet](https://open.spotify.com/album/21M84J17hsuB505XLw2w9W) | 3:53 |
 | 23 | [STARGAZER](https://open.spotify.com/track/3vwYWNZgig7iwiKra7MgeQ) | [Waxamilion](https://open.spotify.com/artist/7G97Mckd7WAQsjZLUF3vN6), [Kevin J Dill](https://open.spotify.com/artist/3HVu17IKkNAlPW7T0OBri9), [Ben Rosett](https://open.spotify.com/artist/1dtiGEl2aljrMiP2QqqoZZ) | [STARGAZER](https://open.spotify.com/album/2SqQFcZC7UiOAo92C41sLU) | 4:05 |
 | 24 | [Inner Babylon](https://open.spotify.com/track/21mubngZPBFQEpG1USrDZC) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki) | [Burn](https://open.spotify.com/album/7Mzsu0oVInnu9zOzVSBgK2) | 5:20 |
@@ -36,11 +36,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 26 | [Akashic Xronicles](https://open.spotify.com/track/1eoIihBKrasGaUzAl3J9jT) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Akashic Xronicles](https://open.spotify.com/album/0Lb3rsnN9rot0aF8Wymt4P) | 4:27 |
 | 27 | [Petrichor](https://open.spotify.com/track/3uBzQS4jsalo9o1CXYs8lw) | [St\. Barbe](https://open.spotify.com/artist/67ykMebIGuLMYDPqXo2A6v) | [Shapeless](https://open.spotify.com/album/0105AvGJRPBqCbzwk4pPzq) | 5:48 |
 | 28 | [Vital Transformation \(with John McLaughlin\) \- Remastered](https://open.spotify.com/track/76UO345JoM0FJWHwDOYz5y) | [Mahavishnu Orchestra](https://open.spotify.com/artist/3Ao7NH7lRyQAeKQg2mlTcO), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY) | [The Inner Mounting Flame](https://open.spotify.com/album/6XHQCPGwvSaqv9MZ2tauqr) | 6:15 |
-| 29 | [because](https://open.spotify.com/track/5jm31VTJ8uIm3dNYr3AWlJ) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [Seeds](https://open.spotify.com/album/5mSsvyHSeGsi5Jse1LiE49) | 4:24 |
-| 30 | [Stadium Jazz](https://open.spotify.com/track/7B5p2XX9Prn5OkI5mye6gE) | [Donny McCaslin](https://open.spotify.com/artist/1CS1JV6wZUIf5hbsWoiH1M) | [Casting for Gravity \(feat\. Jason Lindner, Tim Lefebvre & Mark Guiliana\)](https://open.spotify.com/album/60GZJyntKspBvsw7J9TTki) | 7:17 |
+| 29 | [Stadium Jazz](https://open.spotify.com/track/7B5p2XX9Prn5OkI5mye6gE) | [Donny McCaslin](https://open.spotify.com/artist/1CS1JV6wZUIf5hbsWoiH1M) | [Casting for Gravity \(feat\. Jason Lindner, Tim Lefebvre & Mark Guiliana\)](https://open.spotify.com/album/60GZJyntKspBvsw7J9TTki) | 7:17 |
+| 30 | [because](https://open.spotify.com/track/5jm31VTJ8uIm3dNYr3AWlJ) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [Seeds](https://open.spotify.com/album/5mSsvyHSeGsi5Jse1LiE49) | 4:24 |
 | 31 | [Zeal](https://open.spotify.com/track/7C2L5Lsrc3GvRS5n5lN2Mc) | [Bill Laurance](https://open.spotify.com/artist/2QjVv1gkLn8XkQxVndgLHF) | [Zeal](https://open.spotify.com/album/5dbyIGtVNYJeP4J6zZ4Xrp) | 6:23 |
-| 32 | [Tayakadın](https://open.spotify.com/track/1ZevLGcq0eXAPT5ZKrWdXN) | [Geeva Flava](https://open.spotify.com/artist/1gzLVGMn6ZcMIEnqOGLyQl), [Dilan Balkay](https://open.spotify.com/artist/0EmioUrT5ZIveHOQnDcTGM) | [Tayakadın](https://open.spotify.com/album/4Uu07mQBHdCZj4LTYJe4vz) | 8:16 |
-| 33 | [silhouette](https://open.spotify.com/track/0RRoI2lSGNfYLCwHbn0JZt) | [POLYPLUS](https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa), [yucca](https://open.spotify.com/artist/6CRg48tzBp7AKeBv1z3CWp) | [move](https://open.spotify.com/album/4rggfFHMVCmCHAdbeX4Uop) | 4:28 |
+| 32 | [silhouette](https://open.spotify.com/track/0RRoI2lSGNfYLCwHbn0JZt) | [POLYPLUS](https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa), [yucca](https://open.spotify.com/artist/6CRg48tzBp7AKeBv1z3CWp) | [move](https://open.spotify.com/album/4rggfFHMVCmCHAdbeX4Uop) | 4:28 |
+| 33 | [Tayakadın](https://open.spotify.com/track/1ZevLGcq0eXAPT5ZKrWdXN) | [Geeva Flava](https://open.spotify.com/artist/1gzLVGMn6ZcMIEnqOGLyQl), [Dilan Balkay](https://open.spotify.com/artist/0EmioUrT5ZIveHOQnDcTGM) | [Tayakadın](https://open.spotify.com/album/4Uu07mQBHdCZj4LTYJe4vz) | 8:16 |
 | 34 | [Taurian Matador](https://open.spotify.com/track/2bMQEHvIwor0kD6ewe34ue) | [Billy Cobham](https://open.spotify.com/artist/0IwfuIL3gUJxjzUqY3wJ3j) | [Spectrum](https://open.spotify.com/album/5JmNk3ayVaujKO5hFvU5YA) | 3:03 |
 | 35 | [Lowell](https://open.spotify.com/track/308taPCrUlttzRJi7crHwy) | [Kneebody](https://open.spotify.com/artist/0rS1Y2DkDJhLiaR0MyJyCg) | [The Line](https://open.spotify.com/album/1gkQrJsigMrfrw78FFCMzU) | 4:40 |
 | 36 | [Never Ending](https://open.spotify.com/track/7pZ48MAPRThhNxPthsNeE1) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Never Ending](https://open.spotify.com/album/0SxjpfNg8pDyOEerHOa9uC) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 49 | [Immersion](https://open.spotify.com/track/5nv9ykXZiXsUyiNK5NNpAL) | [Lilly Legit](https://open.spotify.com/artist/6fjp5A7R2M5xDQm47bi2UO) | [Rubicon](https://open.spotify.com/album/7ptRUDMLC7vPGkezegz0qR) | 3:01 |
 | 50 | [The Noonward Race \- Remastered](https://open.spotify.com/track/4BWrLhJXXYAlVIHOLSPsmN) | [Mahavishnu Orchestra](https://open.spotify.com/artist/3Ao7NH7lRyQAeKQg2mlTcO) | [The Inner Mounting Flame](https://open.spotify.com/album/6XHQCPGwvSaqv9MZ2tauqr) | 6:27 |
 
-Snapshot ID: `MTY2MDg4MTcyMCwwMDAwMDAwMDdiZTY5NWQwMzNkYjhmZDg2YWRiOGUzYmI3ZTk2MzFh`
+Snapshot ID: `MTY2MDg4MTcyMCwwMDAwMDAwMDc2MjNjNGFmZmFmZmY2YTZmN2QzYjNkODg1NTg3M2M2`

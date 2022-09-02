@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1S1d38suSz.md) - [plain]
 
 > Tú, nosotros y esta lista de canciones\. Foto: Lasso
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,572 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,813 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,10 +20,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1S1d38suSz.md) - [plain]
 | 10 | [Muero](https://open.spotify.com/track/3duR10TJy7FDaAr65xe4v2) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Muero](https://open.spotify.com/album/4qsSC79CFtpK133Ecl1cVz) | 3:37 |
 | 11 | [NASA](https://open.spotify.com/track/7pt5VZBKEsd4JIQ67DZcnd) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [NASA](https://open.spotify.com/album/3mSoBmP83p0lgfWPB1MkEX) | 3:06 |
 | 12 | [Y Tú Te Vas](https://open.spotify.com/track/7zuwr7YqqpveNtxlKe1vn6) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Grandes Exitos](https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N) | 4:43 |
-| 13 | [Experiencia Religiosa](https://open.spotify.com/track/0tgjnOlps2Hc798rOYGpvi) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Enrique Iglesias](https://open.spotify.com/album/18FB0rct42g5hNr14l70GK) | 5:32 |
-| 14 | [Suelta Mi Mano](https://open.spotify.com/track/50xvGsnNmO3k5EtaUBXRRr) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Mañana](https://open.spotify.com/album/5pbMJWLEzbU0HNQBffJyRx) | 4:00 |
-| 15 | [Tardes Negras](https://open.spotify.com/track/0IgtEvYFtZEapMoCcgizGQ) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [TZN \-The Best Of Tiziano Ferro \(Spanish Edition\)](https://open.spotify.com/album/0Kk7kX25RVvNzkYfyGt8kv) | 4:22 |
-| 16 | [Antologia](https://open.spotify.com/track/0KAqMRUSZwzG3dZLdDA4eH) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 4:14 |
+| 13 | [Suelta Mi Mano](https://open.spotify.com/track/50xvGsnNmO3k5EtaUBXRRr) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Mañana](https://open.spotify.com/album/5pbMJWLEzbU0HNQBffJyRx) | 4:00 |
+| 14 | [Tardes Negras](https://open.spotify.com/track/0IgtEvYFtZEapMoCcgizGQ) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [TZN \-The Best Of Tiziano Ferro \(Spanish Edition\)](https://open.spotify.com/album/0Kk7kX25RVvNzkYfyGt8kv) | 4:22 |
+| 15 | [Antologia](https://open.spotify.com/track/0KAqMRUSZwzG3dZLdDA4eH) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 4:14 |
+| 16 | [Amiga Mía](https://open.spotify.com/track/2nDsjbGVU7aUGNuoAXCIlc) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Amiga Mía](https://open.spotify.com/album/5BpGM2EOixRKmXjk9pGjIn) | 3:32 |
 | 17 | [En El Muelle De San Blas](https://open.spotify.com/track/0mvocLIWUnT10znvIXwHGr) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Sueños Líquidos](https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V) | 5:52 |
 | 18 | [De Repente](https://open.spotify.com/track/1eosB5ApmpsOCza1ZrH4gT) | [Soraya](https://open.spotify.com/artist/5enSNzCwMx61gCMv9jaV4Q) | [Gold](https://open.spotify.com/album/5jpQixMcvqrfvcGiUC8f7F) | 4:04 |
 | 19 | [Si tú no estas](https://open.spotify.com/track/7CX6W4Mf98wMgX0izqRpAl) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [Lunas rotas](https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg) | 4:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1S1d38suSz.md) - [plain]
 | 49 | [Lo noto \- Versión CD](https://open.spotify.com/track/1k3Y0fhjdYKjfPSacDJm0p) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Peligrosamente Juntos](https://open.spotify.com/album/7eBwifbtzfdnn9NhcUaC8d) | 4:19 |
 | 50 | [Sólo Quédate En Silencio](https://open.spotify.com/track/2RJ1fg4qf2vgZKifTa4HgA) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo), [Alfonso Herrera](https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN) | [Rebelde](https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj) | 3:39 |
 
-Snapshot ID: `MTY2MTMwNDI2MSwwMDAwMDAwMDU2OGQ2YTY2M2Q3MGM1NTJjMzM5NGRlNjlmOTZiNjhk`
+Snapshot ID: `MTY2MjA4MDQwMCwwMDAwMDAwMGMxNjdkODE5ZmQ3Y2E0ZjA4YzkzNGUwYzAwMGNjNGNm`

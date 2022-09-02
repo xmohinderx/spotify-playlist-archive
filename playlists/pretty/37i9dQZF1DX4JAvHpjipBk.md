@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from DJ Khaled, Elton John & Britney Spears, Joji, KAROL G,  and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,953,710 likes - 101 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,952,984 likes - 101 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [BEAUTIFUL \(feat\. Future & SZA\)](https://open.spotify.com/track/5kYSScXYOZYyi0fxramiW6) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 3:43 |
 | 2 | [Beat the Odds](https://open.spotify.com/track/2BJWxD8xKrDv8vneTvTIm9) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Beat the Odds](https://open.spotify.com/album/5jopeyeE3iVZ5zlEMadVcv) | 2:30 |
-| 3 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi) | 2:21 |
+| 3 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/0GxWXE6ltKk4Gx3WyWLLrW) | 2:21 |
 | 4 | [Hold Me Closer](https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Hold Me Closer](https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6) | 3:22 |
 | 5 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 |
 | 6 | [complex \(demo\)](https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex \(demo\)](https://open.spotify.com/album/4iHBCJPZUha2xs84jNZ4jc) | 4:16 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 67 | [Over Now](https://open.spotify.com/track/2JxBHISFV4ISAE8VMngqWS) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [We Were Cowboys](https://open.spotify.com/album/3ZGZNsbL4jY4pnOxxlYOCG) | 3:41 |
 | 68 | [Only The Lonely](https://open.spotify.com/track/2vf6KIEKiEEyc1OGr97TII) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Only The Lonely](https://open.spotify.com/album/2r4VTLpIKfKm9tUNIdylPk) | 3:52 |
 | 69 | [Free Slime](https://open.spotify.com/track/4Wgu0FPMdz24m4TBc7kyk2) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [W13](https://open.spotify.com/album/2UQ8TnK4dXTwd66W9bQZz9) | 3:14 |
-| 70 | [I Want You \(with Future\)](https://open.spotify.com/track/30pBgahZNXNLvtQVi5HUxQ) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Public Housing](https://open.spotify.com/album/3H7rkiYB6yjsuMZbxApOCn) | 3:23 |
+| 70 | [I Want You \(with Future\)](https://open.spotify.com/track/30pBgahZNXNLvtQVi5HUxQ) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Public Housing](https://open.spotify.com/album/3H7rkiYB6yjsuMZbxApOCn) | 3:25 |
 | 71 | [High School](https://open.spotify.com/track/3aWmJVDmjKtmSCLLjUwJ7r) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [High School](https://open.spotify.com/album/7KhHLIouEPya0k5PGv5gBh) | 2:34 |
 | 72 | [Permanent Rebellion](https://open.spotify.com/track/2Ot85xcajHDvU7cD2BdR2M) | [L.S\. Dunes](https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG) | [Permanent Rebellion](https://open.spotify.com/album/2LbVe89xE3nidK1eYLwrfH) | 3:13 |
 | 73 | [HEARTBEAT](https://open.spotify.com/track/6nStBZGqGgTR87MrBpNza0) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [HEARTBEAT](https://open.spotify.com/album/7cLRRJ3fRfyExOHOIwcLDy) | 2:04 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 100 | [LETTERMAN](https://open.spotify.com/track/4WKsJb5GgRgSv9X2Fpgopp) | [nickname jos](https://open.spotify.com/artist/0ZGyR0jYdrIzy1xDZYyuDn), [Eryiolet](https://open.spotify.com/artist/7cT4OX9u6S6YX0qrZiOyol) | [LETTERMAN](https://open.spotify.com/album/6NGymY2gEOwECa7YQSceHl) | 2:50 |
 | 101 | [Pretty Ending](https://open.spotify.com/track/68dmD2jcpOGItqqfdFW1y1) | [Mayfly](https://open.spotify.com/artist/4VcvgYlholfTOH1dN15rSw) | [Pretty Ending](https://open.spotify.com/album/1iBfWU99HfFU9ZkTwdfzoM) | 2:53 |
 
-Snapshot ID: `MTY2MTQ4ODcxNSwwMDAwMDAwMDg1NmY3NDM5NzFlYTI4MjgzMTc0MmE4N2I4MDhiY2Q3`
+Snapshot ID: `MTY2MTQ4ODcxNSwwMDAwMDAwMDE2YzJmNDI0M2RlMGQ2Zjk0NDViYTJiZWM4YTg3MTdk`

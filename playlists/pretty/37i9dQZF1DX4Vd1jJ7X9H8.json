@@ -1,12 +1,12 @@
 {
   "description": "it's not just an indie kid with an aux, it's *chic*",
-  "num_followers": 175505,
+  "num_followers": 175575,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTIwMDE2MCwwMDAwMDAwMGY4MjIzNDAzMDRlYTNkZjdlMzczZDBhNWMyZGJmZWY3",
+  "snapshot_id": "MTY2MTIwMDE2MCwwMDAwMDAwMDUyZmM3NmExNGFhMDY2NWQ5MzA4ZTk5NzliY2VmOWFm",
   "tracks": [
     {
       "added_at": "2022-08-16 06:34:56",
@@ -267,6 +267,26 @@
     {
       "added_at": "2022-08-16 06:34:56",
       "album": {
+        "name": "The Divine Feminine",
+        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 305350,
+      "name": "Dang! (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66"
+    },
+    {
+      "added_at": "2022-08-16 06:34:56",
+      "album": {
         "name": "Slide (feat. Frank Ocean & Migos)",
         "url": "https://open.spotify.com/album/1UIlzhqJLiA3f6OVw7QKn6"
       },
@@ -287,26 +307,6 @@
       "duration_ms": 230813,
       "name": "Slide (feat. Frank Ocean & Migos)",
       "url": "https://open.spotify.com/track/6gpcs5eMhJwax4mIfKDYQk"
-    },
-    {
-      "added_at": "2022-08-16 06:34:56",
-      "album": {
-        "name": "The Divine Feminine",
-        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 305350,
-      "name": "Dang! (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66"
     },
     {
       "added_at": "2022-08-16 06:34:56",
@@ -547,6 +547,22 @@
     {
       "added_at": "2022-08-16 06:34:56",
       "album": {
+        "name": "Metamodernity",
+        "url": "https://open.spotify.com/album/1lgZZELIZZwafQJDycr47q"
+      },
+      "artists": [
+        {
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "duration_ms": 162663,
+      "name": "Metamodernity",
+      "url": "https://open.spotify.com/track/4RGWHfQeJftd5XrP8JUgFj"
+    },
+    {
+      "added_at": "2022-08-16 06:34:56",
+      "album": {
         "name": "Geography",
         "url": "https://open.spotify.com/album/28enuddLPEA914scE6Drvk"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 261881,
       "name": "It Runs Through Me",
       "url": "https://open.spotify.com/track/02CygBCQOIyEuhNZqHHcNx"
-    },
-    {
-      "added_at": "2022-08-16 06:34:56",
-      "album": {
-        "name": "Metamodernity",
-        "url": "https://open.spotify.com/album/1lgZZELIZZwafQJDycr47q"
-      },
-      "artists": [
-        {
-          "name": "Vansire",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-        }
-      ],
-      "duration_ms": 162663,
-      "name": "Metamodernity",
-      "url": "https://open.spotify.com/track/4RGWHfQeJftd5XrP8JUgFj"
     },
     {
       "added_at": "2022-08-16 06:34:56",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-08-16 06:34:56",
       "album": {
-        "name": "Caravelle",
-        "url": "https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 190826,
-      "name": "Nan\u00e3",
-      "url": "https://open.spotify.com/track/0Psz3az3RIYfJpnsajBT8N"
-    },
-    {
-      "added_at": "2022-08-16 06:34:56",
-      "album": {
         "name": "I Don't Know You",
         "url": "https://open.spotify.com/album/5L8VJO457GXReKVVfRhzyM"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 209449,
       "name": "I Don't Know You",
       "url": "https://open.spotify.com/track/4cJOLN346rtOty3UPACsao"
+    },
+    {
+      "added_at": "2022-08-16 06:34:56",
+      "album": {
+        "name": "Caravelle",
+        "url": "https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 190826,
+      "name": "Nan\u00e3",
+      "url": "https://open.spotify.com/track/0Psz3az3RIYfJpnsajBT8N"
     },
     {
       "added_at": "2022-08-16 06:34:56",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-08-16 06:34:56",
       "album": {
-        "name": "Starry Night",
-        "url": "https://open.spotify.com/album/6EgGBFTnsLi1WZaHDtpeie"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 233978,
-      "name": "Starry Night - Edit",
-      "url": "https://open.spotify.com/track/2NeSirLM2VHQW4upn0nMfB"
-    },
-    {
-      "added_at": "2022-08-16 06:34:56",
-      "album": {
         "name": "HIT EM WHERE IT HURTS",
         "url": "https://open.spotify.com/album/2w4bxNOt8ZLIBaKH2oi6ij"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 165499,
       "name": "HIT EM WHERE IT HURTS",
       "url": "https://open.spotify.com/track/7888F1QWPTn4cPbuknNV4T"
+    },
+    {
+      "added_at": "2022-08-16 06:34:56",
+      "album": {
+        "name": "Starry Night",
+        "url": "https://open.spotify.com/album/6EgGBFTnsLi1WZaHDtpeie"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 233978,
+      "name": "Starry Night - Edit",
+      "url": "https://open.spotify.com/track/2NeSirLM2VHQW4upn0nMfB"
     },
     {
       "added_at": "2022-08-16 06:34:56",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2022-08-16 06:34:56",
       "album": {
-        "name": "Out Of Time (Remix Bundle)",
-        "url": "https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        }
-      ],
-      "duration_ms": 275555,
-      "name": "Out of Time - KAYTRANADA Remix",
-      "url": "https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA"
-    },
-    {
-      "added_at": "2022-08-16 06:34:56",
-      "album": {
         "name": "Just For Me (Space Jam: A New Legacy)",
         "url": "https://open.spotify.com/album/0uXCtaJMMAAgaB1AavNLSh"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 217394,
       "name": "Just For Me (with SZA) - Space Jam: A New Legacy",
       "url": "https://open.spotify.com/track/3B5yl01KF06NkYG39BdTBa"
+    },
+    {
+      "added_at": "2022-08-16 06:34:56",
+      "album": {
+        "name": "Out Of Time (Remix Bundle)",
+        "url": "https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 275555,
+      "name": "Out of Time - KAYTRANADA Remix",
+      "url": "https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA"
     },
     {
       "added_at": "2022-08-16 06:34:56",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2022-08-16 06:34:56",
       "album": {
-        "name": "Polydans",
-        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 220726,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11"
-    },
-    {
-      "added_at": "2022-08-16 06:34:56",
-      "album": {
         "name": "By Your Side",
         "url": "https://open.spotify.com/album/5i0gpUvEkQtwHWVkqh7MZK"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 215786,
       "name": "Baby I'm Yours - feat. Irfrane",
       "url": "https://open.spotify.com/track/7oGwQOTkMB9Sk3DIKJLd5F"
+    },
+    {
+      "added_at": "2022-08-16 06:34:56",
+      "album": {
+        "name": "Polydans",
+        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 220726,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11"
     },
     {
       "added_at": "2022-08-16 06:34:56",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2022-08-16 06:34:56",
       "album": {
-        "name": "Wildin'",
-        "url": "https://open.spotify.com/album/7kSFfhqYkwCiBYzYm8o61i"
-      },
-      "artists": [
-        {
-          "name": "Berhana",
-          "url": "https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl"
-        }
-      ],
-      "duration_ms": 139613,
-      "name": "Wildin'",
-      "url": "https://open.spotify.com/track/4LGg2NY9eHp0jF3L1WbCNl"
-    },
-    {
-      "added_at": "2022-08-16 06:34:56",
-      "album": {
         "name": "What Box?",
         "url": "https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 184826,
       "name": "Act Up",
       "url": "https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8"
+    },
+    {
+      "added_at": "2022-08-16 06:34:56",
+      "album": {
+        "name": "Wildin'",
+        "url": "https://open.spotify.com/album/7kSFfhqYkwCiBYzYm8o61i"
+      },
+      "artists": [
+        {
+          "name": "Berhana",
+          "url": "https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl"
+        }
+      ],
+      "duration_ms": 139613,
+      "name": "Wildin'",
+      "url": "https://open.spotify.com/track/4LGg2NY9eHp0jF3L1WbCNl"
     },
     {
       "added_at": "2022-08-16 06:34:56",

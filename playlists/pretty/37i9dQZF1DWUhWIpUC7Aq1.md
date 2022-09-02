@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 
 > Not your manic pixie dream girl, just twee af\. Cover: Nico
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,326 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,480 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 | 12 | [Everyday](https://open.spotify.com/track/1w2IeLkmSz5YoxlYKOj8gz) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL), [Jon Brion](https://open.spotify.com/artist/57YJQe0ayvIaRZJ3PW5nFP) | [Rave On Buddy Holly](https://open.spotify.com/album/6BpXVKdWpGhI4FzHZrZdur) | 2:19 |
 | 13 | [Tire Swing](https://open.spotify.com/track/0vbhRDi46TDNHkhKbZa81B) | [Kimya Dawson](https://open.spotify.com/artist/5PPCkoOKabpGGhqrUwSikz) | [Remember That I Love You](https://open.spotify.com/album/7bc415JbeoQAJAPsc8fGyn) | 3:08 |
 | 14 | [The Suburbs](https://open.spotify.com/track/2UWdUez9MB9yzL7Y81Mcip) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Suburbs](https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI) | 5:15 |
-| 15 | [Cleopatra](https://open.spotify.com/track/2ToW7zhGCrVrLU4fiKj9U1) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN) | 3:21 |
-| 16 | [Comptine d'un autre été, l'après\-midi](https://open.spotify.com/track/14rZjW3RioG7WesZhYESso) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [Le Fabuleux destin d'Amélie Poulain \(Bande originale du film\)](https://open.spotify.com/album/6PRPYATK5VvjZ2p911y6U0) | 2:20 |
+| 15 | [Comptine d'un autre été, l'après\-midi](https://open.spotify.com/track/14rZjW3RioG7WesZhYESso) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [Le Fabuleux destin d'Amélie Poulain \(Bande originale du film\)](https://open.spotify.com/album/6PRPYATK5VvjZ2p911y6U0) | 2:20 |
+| 16 | [Cleopatra](https://open.spotify.com/track/2ToW7zhGCrVrLU4fiKj9U1) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN) | 3:21 |
 | 17 | [Two Weeks](https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk) | 4:03 |
 | 18 | [Home](https://open.spotify.com/track/7w5cxTEzp1rfV3KCy0Bd5N) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up from Below](https://open.spotify.com/album/39xrkt8RILtwa9DMyLkv32) | 5:03 |
 | 19 | [First Day of My Life](https://open.spotify.com/track/0eBryM7ePQH3Klt3jz8xZd) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning](https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7) | 3:08 |
@@ -74,18 +74,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 | 64 | [Every Single Night](https://open.spotify.com/track/6HPZo9krwjbhMGKbqVkkDQ) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do \(Expanded Edition\)](https://open.spotify.com/album/6B5favhKTShFTjRLsKIUfa) | 3:29 |
 | 65 | [Please, Please, Please, Let Me Get What I Want \- 2011 Remaster](https://open.spotify.com/track/1oA0tDRFjY5xoNDXuMBGGA) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Louder Than Bombs](https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8) | 1:52 |
 | 66 | [Fidelity](https://open.spotify.com/track/6GskIhdM6TN6EkPgeSjVfW) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Begin to Hope \(Special Edition\)](https://open.spotify.com/album/0ssMZRCnobXKQXjQ2R5A5a) | 3:46 |
-| 67 | [Portions for Foxes](https://open.spotify.com/track/4yY8JqTOQyi7K4O1QcQtBG) | [Rilo Kiley](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) | [More Adventurous \(U.S\. Release\)](https://open.spotify.com/album/4n36X2GMJ84BKh9D9zMRVI) | 4:44 |
-| 68 | [Tiger Mountain Peasant Song](https://open.spotify.com/track/74TdnqQ0JlIcHBwdSAATiw) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) | 3:28 |
+| 67 | [Tiger Mountain Peasant Song](https://open.spotify.com/track/74TdnqQ0JlIcHBwdSAATiw) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) | 3:28 |
+| 68 | [Portions for Foxes](https://open.spotify.com/track/4yY8JqTOQyi7K4O1QcQtBG) | [Rilo Kiley](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) | [More Adventurous \(U.S\. Release\)](https://open.spotify.com/album/4n36X2GMJ84BKh9D9zMRVI) | 4:44 |
 | 69 | [Excuses](https://open.spotify.com/track/4Tm2TkKTe23pgMXMzOK4Z2) | [The Morning Benders](https://open.spotify.com/artist/5UqjSHztpMyc0liXncNbGD) | [Big Echo](https://open.spotify.com/album/5UYmZOpjjA5Y7GyZhjI6fy) | 5:17 |
 | 70 | [The Boy With The Arab Strap](https://open.spotify.com/track/2PV8oZJo3K3bXENO7FRRtp) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [The Boy With The Arab Strap](https://open.spotify.com/album/4AChnLbiWqxiotXz8kv6D7) | 5:14 |
 | 71 | [I Want Wind to Blow](https://open.spotify.com/track/1bAZV1EBTRi9t1cVg75i8t) | [The Microphones](https://open.spotify.com/artist/7Ht57YadlBXcFJDK3plmhO) | [The Glow, Pt\. 2](https://open.spotify.com/album/6QYoRO2sXThCORAifrP4Bl) | 5:32 |
 | 72 | [Atop a Cake](https://open.spotify.com/track/2d4VlnTyBVserhtyH3b9BZ) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/4PrBMzWzzoMOwm55Bfo3dt) | 3:19 |
 | 73 | [Seventeen](https://open.spotify.com/track/2CQZalbSGicedttPGtY06n) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Let Yourself Go](https://open.spotify.com/album/3Aoh7HqQtugqVcHGDbkRjP) | 3:28 |
 | 74 | [LDN](https://open.spotify.com/track/48T3AtfhOgz3euMEO2Z4hS) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Bonus Track Version\)](https://open.spotify.com/album/3nxPzWEJBjzonYWtTNb0uY) | 3:12 |
-| 75 | [With Arms Outstretched](https://open.spotify.com/track/0EKUJ4OqrNWaHpNPODNTaf) | [Rilo Kiley](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) | [The Execution Of All Things](https://open.spotify.com/album/1aFyAtSRxLNzSTGwHMRvWj) | 3:43 |
-| 76 | [Heart It Races](https://open.spotify.com/track/6SHYWXOqmf0fBWO1k0Zz2k) | [Architecture In Helsinki](https://open.spotify.com/artist/60eT7q88iLWKnuSXed1AGr) | [Places Like This](https://open.spotify.com/album/1b4lom8FxPZKDw21uWK5aM) | 3:14 |
-| 77 | [Foundations](https://open.spotify.com/track/1wi4ti9BYUbwoGJ1EBUVtv) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [Made of Bricks](https://open.spotify.com/album/4KNq0XtAJOTRKIA6W5zRsY) | 4:05 |
-| 78 | [Why Do You Let Me Stay Here?](https://open.spotify.com/track/1ZHYoYfWMYnGAzlwOi2XP4) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume One](https://open.spotify.com/album/2qIu18hUz5c6BzY3Rh6fIJ) | 2:30 |
+| 75 | [Heart It Races](https://open.spotify.com/track/6SHYWXOqmf0fBWO1k0Zz2k) | [Architecture In Helsinki](https://open.spotify.com/artist/60eT7q88iLWKnuSXed1AGr) | [Places Like This](https://open.spotify.com/album/1b4lom8FxPZKDw21uWK5aM) | 3:14 |
+| 76 | [Foundations](https://open.spotify.com/track/1wi4ti9BYUbwoGJ1EBUVtv) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [Made of Bricks](https://open.spotify.com/album/4KNq0XtAJOTRKIA6W5zRsY) | 4:05 |
+| 77 | [Why Do You Let Me Stay Here?](https://open.spotify.com/track/1ZHYoYfWMYnGAzlwOi2XP4) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume One](https://open.spotify.com/album/2qIu18hUz5c6BzY3Rh6fIJ) | 2:30 |
+| 78 | [With Arms Outstretched](https://open.spotify.com/track/0EKUJ4OqrNWaHpNPODNTaf) | [Rilo Kiley](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) | [The Execution Of All Things](https://open.spotify.com/album/1aFyAtSRxLNzSTGwHMRvWj) | 3:43 |
 | 79 | [Elephant Gun](https://open.spotify.com/track/52Nm0n6chJlGJJqhiZ6oMz) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Elephant Gun](https://open.spotify.com/album/6nGeQUOXlKSENB3A9ijD20) | 5:48 |
 | 80 | [Your Ex\-Lover Is Dead](https://open.spotify.com/track/6XGKlssGb3oE9IUCvjLthd) | [Stars](https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL) | [Set Yourself On Fire](https://open.spotify.com/album/6CYTAXBPYJ43irABGOJmIw) | 4:16 |
 | 81 | [Cinnamon](https://open.spotify.com/track/4l9fOpDy6cqwaXSsl5l48v) | [The Long Winters](https://open.spotify.com/artist/6zdwVjGPgGGZ7W5oBcisP2) | [When I Pretend To Fall](https://open.spotify.com/album/1ZfxdY1K1fDyRQywHtgLVQ) | 4:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 | 99 | [Glow Worms](https://open.spotify.com/track/4jovm2cvQh5HqTlH7xksdL) | [Vashti Bunyan](https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2) | [Just Another Diamond Day](https://open.spotify.com/album/6BjFznpsyrxCFMpp3hzlD2) | 2:16 |
 | 100 | [Bobby Malone Moves Home](https://open.spotify.com/track/3hAh0e2keWsI8iY9BqFXqe) | [Casiotone For The Painfully Alone](https://open.spotify.com/artist/4FdSsjcX7vzOnN5zNqQWAy) | [Etiquette](https://open.spotify.com/album/1fMaPBDIcOsEpW4tz6gUhi) | 3:14 |
 
-Snapshot ID: `MTY2MTU0NDI3OCwwMDAwMDAwMGIxNjE5ODk4ZjkxNzNhNDlkYTk5OGJhOGY0NzU5MjZh`
+Snapshot ID: `MTY2MTU0NDI3OCwwMDAwMDAwMGEwOWFhYjM4NDhkYjcxY2UzZmZjZTFmOTBlYzc5NmQx`

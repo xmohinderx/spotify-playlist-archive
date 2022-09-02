@@ -2,7 +2,7 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Trendy & Chill 한국 R&B\. Be laid\-back with groovy K\-R&B\. \(Cover: MAMAMOO+, Big Naughty\)
+> Trendy & Chill 한국 R&B\. Be laid\-back with groovy K\-R&B\. \(Cover: KAIAVANT\)
 
 392 songs - 21 hr 24 min - [published](https://open.spotify.com/playlist/3joqGbdyT1iJwODdo3szax)
 

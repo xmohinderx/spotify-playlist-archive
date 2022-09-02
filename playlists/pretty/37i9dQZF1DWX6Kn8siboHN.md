@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6Kn8siboHN.md) - [plain]
 
 > ¡Viejitas pero bonitas! Qué suene el acordeón y el bajo sexto\. Carlos & José en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,331 likes - 115 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,792 likes - 115 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6Kn8siboHN.md) - [plain]
 | 52 | [Apenas Te Fuistes Ayer](https://open.spotify.com/track/6V79WQFVLdiCLrlsYpdQTV) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Mi Buena Suerte](https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA) | 2:43 |
 | 53 | [No Me Conoces Aún](https://open.spotify.com/track/27OazZsnF6N1Hp75pCmBNI) | [Palomo](https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj) | [Serie Diamante\- 15 Súper Éxitos](https://open.spotify.com/album/1zMXzVHd4GCImZciz4Qf1n) | 3:44 |
 | 54 | [Laurita Garza](https://open.spotify.com/track/1kfKyCWFxNp4WHJDcPyYWS) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos Volumen 1](https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi) | 3:12 |
-| 55 | [Quisiera Ser Una Lágrima](https://open.spotify.com/track/3OoTWhcb1NL1R1aop3An2H) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Quisiera Ser Una Lágrima](https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7) | 2:58 |
-| 56 | [Un Golpe Más](https://open.spotify.com/track/2nH0c41fDJ93zov0tULRdZ) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Un Golpe Más](https://open.spotify.com/album/6VHrvVC3J2y4fTNojMHOfn) | 2:34 |
+| 55 | [Un Golpe Más](https://open.spotify.com/track/2nH0c41fDJ93zov0tULRdZ) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Un Golpe Más](https://open.spotify.com/album/6VHrvVC3J2y4fTNojMHOfn) | 2:34 |
+| 56 | [Quisiera Ser Una Lágrima](https://open.spotify.com/track/3OoTWhcb1NL1R1aop3An2H) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Quisiera Ser Una Lágrima](https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7) | 2:58 |
 | 57 | [Disculpe Usted](https://open.spotify.com/track/3aumACX4YG7UB38T0q8hbN) | [Los Humildes](https://open.spotify.com/artist/6SvtFKeZVpC4VTq5HQf7zm) | [Solo Lo Nuestro](https://open.spotify.com/album/2yo3ruhpe7BJHf5NTECIjM) | 2:51 |
 | 58 | [Era Cabrón El Viejo](https://open.spotify.com/track/39mFPN0z66M4azlAljnFHc) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [Era Cabron El Viejo](https://open.spotify.com/album/4qkWGXtdS7AQDlqIpgjyP6) | 3:21 |
 | 59 | [Sabiendo Quien Era Yo](https://open.spotify.com/track/5zqqZn6KxTKYCONNQh7OWJ) | [Los Cachorros de Juan Villarreal](https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp) | [Exitos De Oro](https://open.spotify.com/album/0EHfx6GQgNM2KLrJuHZ4QP) | 3:32 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6Kn8siboHN.md) - [plain]
 | 114 | [Solo Una Patada](https://open.spotify.com/track/60yeJAQhq9pWqnA61CbdoJ) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [En Vivo..\. El Hombre Y Su Musica](https://open.spotify.com/album/6CQHDMfFOGqspVTHRBZugx) | 3:11 |
 | 115 | [Rinconcito En El Cielo](https://open.spotify.com/track/2d5QYDvueydmhQPJSD3BzY) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [En Vivo..\. El Hombre Y Su Musica](https://open.spotify.com/album/6CQHDMfFOGqspVTHRBZugx) | 4:27 |
 
-Snapshot ID: `MTY0NzQ3ODE5NiwwMDAwMDAwMGE5OWJkNDAxN2NiM2I0ZDM5NDllNDgyMzY3ZWNjODRm`
+Snapshot ID: `MTY0NzQ3ODE5NiwwMDAwMDAwMDdlODM2ODVkMzFhODEyZjQzM2NjOTcxYWM5NGY3ODRk`

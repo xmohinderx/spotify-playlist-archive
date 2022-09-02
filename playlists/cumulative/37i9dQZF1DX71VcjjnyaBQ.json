@@ -1715,7 +1715,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 260266,
       "name": "Queen Of The South",
       "url": "https://open.spotify.com/track/5zzuc4E1t63gH4NRITIUWa"
@@ -2753,6 +2753,24 @@
       "duration_ms": 353280,
       "name": "Will You Still Be Mine?",
       "url": "https://open.spotify.com/track/7FoszDSSSG1bFxDl6QDZ0l"
+    },
+    {
+      "album": {
+        "name": "Winter",
+        "url": "https://open.spotify.com/album/6y81cvtV64YclRmmivCI8U"
+      },
+      "artists": [
+        {
+          "name": "Chip Wickham",
+          "url": "https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329000,
+      "name": "Winter",
+      "url": "https://open.spotify.com/track/0TY99mhZgjAT1Nv3b2fnZr"
     },
     {
       "album": {

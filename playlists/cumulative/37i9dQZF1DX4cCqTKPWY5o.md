@@ -4,7 +4,7 @@
 
 > Move it and groove it to these great tunes!
 
-82 songs - 4 hr 23 min - [published](https://open.spotify.com/playlist/1EldyCKOLc00TgFQ0PLHP4)
+83 songs - 4 hr 27 min - [published](https://open.spotify.com/playlist/1EldyCKOLc00TgFQ0PLHP4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Glitter](https://open.spotify.com/track/0olyO3EpMpm4d5Sv64kYB3) | [Koo Koo Kanga Roo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [My Jam](https://open.spotify.com/album/4RHlMYF4BAjd1zpVTmhaGj) | 2:49 | 2022-03-31 | 2022-07-29 |
 | [Glowin' Up \- from the Netflix film My Little Pony: A New Generation](https://open.spotify.com/track/4sA5vMBjQwpnhPtewDXwQS) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ), [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [Glowin' Up \(from the Netflix film "My Little Pony: A New Generation"\)](https://open.spotify.com/album/3TPxyCABDC6mXBCmfWRK8X) | 3:11 | 2022-03-31 |  |
 | [Good Mood \- Original Song From Paw Patrol: The Movie](https://open.spotify.com/track/4uX1pkSuSidzJxT4eWL7x1) | [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Good Mood \(Original Song From Paw Patrol: The Movie\)](https://open.spotify.com/album/5YQDkKa0fHnIYnVdfrQLqI) | 3:30 | 2022-03-31 |  |
-| [Groove Is in the Heart](https://open.spotify.com/track/2UVLuddklEVak5PXgC7baA) | [Deee\-Lite](https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5) | [Rhino Hi\-Five: Deee\-Lite](https://open.spotify.com/album/5ONmarDtpkKbrlhu0p83XM) | 3:51 | 2022-03-31 |  |
+| [Groove Is in the Heart](https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb) | [Deee\-Lite](https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5) | [World Clique](https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh) | 3:51 | 2022-08-17 |  |
+| [Groove Is in the Heart](https://open.spotify.com/track/2UVLuddklEVak5PXgC7baA) | [Deee\-Lite](https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5) | [Rhino Hi\-Five: Deee\-Lite](https://open.spotify.com/album/5ONmarDtpkKbrlhu0p83XM) | 3:51 | 2022-03-31 | 2022-09-02 |
 | [Happy](https://open.spotify.com/track/6NPVjNh8Jhru9xOmyQigds) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Despicable Me 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5l3zEmMrOhOzG8d8s83GOL) | 3:53 | 2022-03-31 | 2022-07-28 |
 | [Happy \- From "Despicable Me 2"](https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 3:52 | 2022-07-15 |  |
 | [Hey Ya!](https://open.spotify.com/track/3AszgPDZd9q0DpDFt4HFBy) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [The Way You Move / Hey Ya!](https://open.spotify.com/album/7etFl9qeqjD0luC40JAg8l) | 3:59 | 2022-07-15 |  |

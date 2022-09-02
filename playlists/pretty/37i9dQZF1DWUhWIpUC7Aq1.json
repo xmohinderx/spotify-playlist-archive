@@ -1,12 +1,12 @@
 {
   "description": "Not your manic pixie dream girl, just twee af. Cover: Nico ",
-  "num_followers": 48326,
+  "num_followers": 48480,
   "original_name": "Twee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTU0NDI3OCwwMDAwMDAwMGIxNjE5ODk4ZjkxNzNhNDlkYTk5OGJhOGY0NzU5MjZh",
+  "snapshot_id": "MTY2MTU0NDI3OCwwMDAwMDAwMGEwOWFhYjM4NDhkYjcxY2UzZmZjZTFmOTBlYzc5NmQx",
   "tracks": [
     {
       "added_at": "2022-08-26 20:04:38",
@@ -239,22 +239,6 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "Cleopatra",
-        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 201413,
-      "name": "Cleopatra",
-      "url": "https://open.spotify.com/track/2ToW7zhGCrVrLU4fiKj9U1"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
         "name": "Le Fabuleux destin d'Am\u00e9lie Poulain (Bande originale du film)",
         "url": "https://open.spotify.com/album/6PRPYATK5VvjZ2p911y6U0"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 140733,
       "name": "Comptine d'un autre \u00e9t\u00e9, l'apr\u00e8s-midi",
       "url": "https://open.spotify.com/track/14rZjW3RioG7WesZhYESso"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 201413,
+      "name": "Cleopatra",
+      "url": "https://open.spotify.com/track/2ToW7zhGCrVrLU4fiKj9U1"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "More Adventurous (U.S. Release)",
-        "url": "https://open.spotify.com/album/4n36X2GMJ84BKh9D9zMRVI"
-      },
-      "artists": [
-        {
-          "name": "Rilo Kiley",
-          "url": "https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA"
-        }
-      ],
-      "duration_ms": 284640,
-      "name": "Portions for Foxes",
-      "url": "https://open.spotify.com/track/4yY8JqTOQyi7K4O1QcQtBG"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
         "name": "Fleet Foxes",
         "url": "https://open.spotify.com/album/5GRnydamKvIeG46dycID6v"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 208973,
       "name": "Tiger Mountain Peasant Song",
       "url": "https://open.spotify.com/track/74TdnqQ0JlIcHBwdSAATiw"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
+        "name": "More Adventurous (U.S. Release)",
+        "url": "https://open.spotify.com/album/4n36X2GMJ84BKh9D9zMRVI"
+      },
+      "artists": [
+        {
+          "name": "Rilo Kiley",
+          "url": "https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA"
+        }
+      ],
+      "duration_ms": 284640,
+      "name": "Portions for Foxes",
+      "url": "https://open.spotify.com/track/4yY8JqTOQyi7K4O1QcQtBG"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "The Execution Of All Things",
-        "url": "https://open.spotify.com/album/1aFyAtSRxLNzSTGwHMRvWj"
-      },
-      "artists": [
-        {
-          "name": "Rilo Kiley",
-          "url": "https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA"
-        }
-      ],
-      "duration_ms": 223133,
-      "name": "With Arms Outstretched",
-      "url": "https://open.spotify.com/track/0EKUJ4OqrNWaHpNPODNTaf"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
         "name": "Places Like This",
         "url": "https://open.spotify.com/album/1b4lom8FxPZKDw21uWK5aM"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 150506,
       "name": "Why Do You Let Me Stay Here?",
       "url": "https://open.spotify.com/track/1ZHYoYfWMYnGAzlwOi2XP4"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
+        "name": "The Execution Of All Things",
+        "url": "https://open.spotify.com/album/1aFyAtSRxLNzSTGwHMRvWj"
+      },
+      "artists": [
+        {
+          "name": "Rilo Kiley",
+          "url": "https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA"
+        }
+      ],
+      "duration_ms": 223133,
+      "name": "With Arms Outstretched",
+      "url": "https://open.spotify.com/track/0EKUJ4OqrNWaHpNPODNTaf"
     },
     {
       "added_at": "2022-08-26 20:04:38",

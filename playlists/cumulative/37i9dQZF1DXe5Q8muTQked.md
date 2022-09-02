@@ -4,7 +4,7 @@
 
 > Kick back with the perfect mix of covers.
 
-603 songs - 1 day 13 hr 15 min - [published](https://open.spotify.com/playlist/4ZekyI25JTzcwoswovlyqc)
+604 songs - 1 day 13 hr 19 min - [published](https://open.spotify.com/playlist/4ZekyI25JTzcwoswovlyqc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [\(I Can't Get No\) Satisfaction](https://open.spotify.com/track/6dv99Xm7fEjm7K1ATHj1UG) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Covers Record](https://open.spotify.com/album/4dZBOO1PjjmtPA974xHMND) | 3:05 | 2022-06-10 |  |
 | [\(You Make Me Feel Like\) a Natural Woman \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/252Js3mNvVOHzeiStTUTNM) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Spotify Singles](https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr) | 3:02 | 2021-10-20 | 2022-07-29 |
 | [1979](https://open.spotify.com/track/2KSezpA4CZxv1RkQvA1jXE) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [1979](https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg) | 4:50 | 2021-10-20 | 2022-07-29 |
-| [7 Years](https://open.spotify.com/track/2VgaZrBVBJqh4lMYeqN0pQ) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [7 Years](https://open.spotify.com/album/5MupNow8t7OcTop26MnsrO) | 3:58 | 2022-06-10 |  |
+| [7 Years](https://open.spotify.com/track/2VgaZrBVBJqh4lMYeqN0pQ) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [7 Years](https://open.spotify.com/album/5MupNow8t7OcTop26MnsrO) | 3:58 | 2022-06-10 | 2022-09-02 |
 | [7 Years \(Acoustic\) \- Recorded at Spotify Studios Nyc](https://open.spotify.com/track/1VK5JYdgrJZENDl1taa2cS) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [Spotify Singles](https://open.spotify.com/album/1XXSHevNKbENDXqH5iRSEC) | 2:27 | 2022-06-10 |  |
 | [A Hard Rain's A Gonna Fall](https://open.spotify.com/track/3IfL6ToMZmiMjIxvrtMPev) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Listen To Bob Dylan \- A Tribute](https://open.spotify.com/album/1lkp6bU55AW0FjGvmCr5bI) | 8:12 | 2022-04-29 | 2022-07-27 |
 | [A Song for You](https://open.spotify.com/track/20T1K4gvaX8c7FbA7ljoau) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Shotgun Willie](https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y) | 4:20 | 2021-10-20 | 2022-07-25 |
@@ -131,6 +131,7 @@
 | [Dancing in the Dark](https://open.spotify.com/track/3WgEW4w6chtg2d2kztRQd8) | [Lauren O'Connell](https://open.spotify.com/artist/5k58ro6wizhwH6oPwICLns) | [Covers](https://open.spotify.com/album/2fXMUHvHHyYHSDchm6Fnz3) | 3:48 | 2021-10-20 | 2022-07-26 |
 | [Dancing On My Own](https://open.spotify.com/track/2TmLZLv57mW4OA3Il1ULsf) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Dancing On My Own](https://open.spotify.com/album/2sgfT0ExcSuQOGZ9DM3nMJ) | 4:20 | 2021-10-20 | 2022-07-29 |
 | [Dancing On My Own](https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 4:20 | 2022-06-10 |  |
+| [Dark End Of The Street](https://open.spotify.com/track/1cmSVr6fl5Hvb2worddWrH) | [The Flying Burrito Brothers](https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM) | [The Gilded Palace Of Sin](https://open.spotify.com/album/6VWKy5o2OcdeWa7yolazjU) | 3:50 | 2022-06-10 |  |
 | [Days Like This](https://open.spotify.com/track/0W6vig3DpP1D3R4w72hdWp) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear \(The Complete Edition\)](https://open.spotify.com/album/4Z6CfVlX40xDUq4CTiFpAa) | 2:29 | 2022-06-10 |  |
 | [Days Like This](https://open.spotify.com/track/66aH9gXNBfTJUikVIZfzcA) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear \(The Complete Edition\)](https://open.spotify.com/album/55yX6dAMACVgUGxG2RCnIq) | 2:29 | 2021-10-20 | 2022-07-29 |
 | [Dear Prudence](https://open.spotify.com/track/3RTV8aNDT8dnJMAdijz1gB) | [Gábor Szabó](https://open.spotify.com/artist/38CPjAAqYV8lTYi6clzbjG) | [1969](https://open.spotify.com/album/1q2ErTOAW7U3cx1LqucD1a) | 2:43 | 2022-06-10 | 2022-07-28 |

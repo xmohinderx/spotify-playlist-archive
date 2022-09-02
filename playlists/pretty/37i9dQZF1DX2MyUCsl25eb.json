@@ -1,12 +1,12 @@
 {
   "description": "Easy feels on your way to work, or wherever you're commuting to this morning.",
-  "num_followers": 969742,
+  "num_followers": 969655,
   "original_name": "Morning Commute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMGE4NzdkZDk4MDMwMTdjZGE1ODRkODhhYTE5ZjMwOGEz",
+  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMDUxNTBlNDNjN2YzNDIzZmFiNDZhNjdjZDA4ZWQwZDRj",
   "tracks": [
     {
       "added_at": "2022-08-26 04:02:00",
@@ -669,22 +669,6 @@
       "url": "https://open.spotify.com/track/0Hu1ylV8WuaLcLclixNgTV"
     },
     {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Vicious",
-        "url": "https://open.spotify.com/album/7p3M1cRTouWTpmBDhlEAKS"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 149890,
-      "name": "Vicious",
-      "url": "https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh"
-    },
-    {
       "added_at": "2021-08-04 17:54:39",
       "album": {
         "name": "September",
@@ -699,6 +683,22 @@
       "duration_ms": 220891,
       "name": "September",
       "url": "https://open.spotify.com/track/0exZ0YogJPbjGzblpcZaw7"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Vicious",
+        "url": "https://open.spotify.com/album/7p3M1cRTouWTpmBDhlEAKS"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 149890,
+      "name": "Vicious",
+      "url": "https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -793,6 +793,22 @@
       "url": "https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo"
     },
     {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Damage",
+        "url": "https://open.spotify.com/album/0EkRimDVbqb9fGHXYCb2pO"
+      },
+      "artists": [
+        {
+          "name": "Caleb Hearn",
+          "url": "https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj"
+        }
+      ],
+      "duration_ms": 152961,
+      "name": "Damage",
+      "url": "https://open.spotify.com/track/7M2UiRCmybJ5fuT7Wc2iDR"
+    },
+    {
       "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Rooftops",
@@ -825,22 +841,6 @@
       "url": "https://open.spotify.com/track/2HmNAp3GcJ7DCKtnmV7N84"
     },
     {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Damage",
-        "url": "https://open.spotify.com/album/0EkRimDVbqb9fGHXYCb2pO"
-      },
-      "artists": [
-        {
-          "name": "Caleb Hearn",
-          "url": "https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj"
-        }
-      ],
-      "duration_ms": 152961,
-      "name": "Damage",
-      "url": "https://open.spotify.com/track/7M2UiRCmybJ5fuT7Wc2iDR"
-    },
-    {
       "added_at": "2021-08-05 16:18:55",
       "album": {
         "name": "Sad Hunk",
@@ -857,22 +857,6 @@
       "url": "https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd"
     },
     {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Last Night In The Bittersweet",
-        "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
-      },
-      "artists": [
-        {
-          "name": "Paolo Nutini",
-          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
-        }
-      ],
-      "duration_ms": 262871,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/45kn9BixcxJID8oNIknocn"
-    },
-    {
       "added_at": "2022-01-21 05:01:00",
       "album": {
         "name": "Long Blue Light",
@@ -887,6 +871,22 @@
       "duration_ms": 200173,
       "name": "Long Blue Light",
       "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Last Night In The Bittersweet",
+        "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "duration_ms": 262871,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/45kn9BixcxJID8oNIknocn"
     },
     {
       "added_at": "2022-02-25 05:01:00",
@@ -1109,6 +1109,22 @@
       "url": "https://open.spotify.com/track/0m3hslcOQomyJh8Mz7hdrX"
     },
     {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "getting into",
+        "url": "https://open.spotify.com/album/6EJSIvZH0UbqEzuhyxnnC3"
+      },
+      "artists": [
+        {
+          "name": "Ashley Cooke",
+          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
+        }
+      ],
+      "duration_ms": 169629,
+      "name": "getting into",
+      "url": "https://open.spotify.com/track/0tabwXMEh3t7MkeKa95oIp"
+    },
+    {
       "added_at": "2022-05-06 04:02:00",
       "album": {
         "name": "Western Wind",
@@ -1139,22 +1155,6 @@
       "duration_ms": 239834,
       "name": "Close 2 U",
       "url": "https://open.spotify.com/track/7rgvhF2a3WjRkRtx2lndyc"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "getting into",
-        "url": "https://open.spotify.com/album/6EJSIvZH0UbqEzuhyxnnC3"
-      },
-      "artists": [
-        {
-          "name": "Ashley Cooke",
-          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
-        }
-      ],
-      "duration_ms": 169629,
-      "name": "getting into",
-      "url": "https://open.spotify.com/track/0tabwXMEh3t7MkeKa95oIp"
     },
     {
       "added_at": "2021-08-04 17:54:39",

@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 66099,
+  "num_followers": 66181,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc1ODMyNywwMDAwMDAwMGQxMGU0NDBiODE5MmY2YWFhNWM0MTM4Mjg2ZWFjMjAy",
+  "snapshot_id": "MTY2MDc1ODMyNywwMDAwMDAwMDhkZGRmNjM0NTk1M2NjNjE3N2FmZTYyMTcyYTQ4ZjM2",
   "tracks": [
     {
       "added_at": "2022-08-17 17:45:27",
@@ -1763,6 +1763,26 @@
     {
       "added_at": "2022-08-17 17:45:27",
       "album": {
+        "name": "LHNA",
+        "url": "https://open.spotify.com/album/3LRLlnwyvfUL074sdXQW45"
+      },
+      "artists": [
+        {
+          "name": "RobGz",
+          "url": "https://open.spotify.com/artist/7y5vacxuCM2lyUEEPnQcwd"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 200145,
+      "name": "LHNA",
+      "url": "https://open.spotify.com/track/0pLZ7PPAId3OLfVIPTVAz5"
+    },
+    {
+      "added_at": "2022-08-17 17:45:27",
+      "album": {
         "name": "Ven y Hazlo T\u00fa (feat. Arc\u00e1ngel)",
         "url": "https://open.spotify.com/album/2D7VGl437ipTJnMQg0bs99"
       },
@@ -1787,26 +1807,6 @@
       "duration_ms": 262500,
       "name": "Ven y Hazlo T\u00fa (feat. Arc\u00e1ngel)",
       "url": "https://open.spotify.com/track/3NbwRR74N1FykCWETcEk3j"
-    },
-    {
-      "added_at": "2022-08-17 17:45:27",
-      "album": {
-        "name": "LHNA",
-        "url": "https://open.spotify.com/album/3LRLlnwyvfUL074sdXQW45"
-      },
-      "artists": [
-        {
-          "name": "RobGz",
-          "url": "https://open.spotify.com/artist/7y5vacxuCM2lyUEEPnQcwd"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 200145,
-      "name": "LHNA",
-      "url": "https://open.spotify.com/track/0pLZ7PPAId3OLfVIPTVAz5"
     },
     {
       "added_at": "2022-08-17 17:45:27",

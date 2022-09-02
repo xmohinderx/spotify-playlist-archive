@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZHO2BTzHF4G.md) - [plain]
 
 > Rock that was on repeat during the summers of the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,517 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,548 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZHO2BTzHF4G.md) - [plain]
 | 24 | [Human](https://open.spotify.com/track/1sTsuZTdANkiFd7T34H3nb) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Day & Age \(Bonus Tracks\)](https://open.spotify.com/album/0Ug5scDXUIgGN8yanDBLQw) | 4:05 |
 | 25 | [You And Me](https://open.spotify.com/track/0815caqt2Lytro5EIzMufT) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Lifehouse](https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz) | 3:15 |
 | 26 | [Girlfriend](https://open.spotify.com/track/45hOioMDJktr86iKDHC8gr) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Best Damn Thing \(Expanded Edition\)](https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38) | 3:36 |
-| 27 | [By the Way](https://open.spotify.com/track/1f2V8U1BiWaC9aJWmpOARe) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [By the Way \(Deluxe Edition\)](https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1) | 3:36 |
+| 27 | [Chasing Cars](https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) | 4:27 |
 | 28 | [Crawling](https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:28 |
-| 29 | [Chasing Cars](https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) | 4:27 |
+| 29 | [By the Way](https://open.spotify.com/track/1f2V8U1BiWaC9aJWmpOARe) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [By the Way \(Deluxe Edition\)](https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1) | 3:36 |
 | 30 | [Boulevard of Broken Dreams](https://open.spotify.com/track/5GorCbAP4aL0EJ16frG2hd) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Greatest Hits: God's Favorite Band](https://open.spotify.com/album/3id4t9IqRoB1f1smOERtrY) | 4:22 |
 | 31 | [All Summer Long](https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [Rock n Roll Jesus](https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI) | 4:57 |
 | 32 | [Wherever You Will Go](https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [Camino Palmero](https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV) | 3:28 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZHO2BTzHF4G.md) - [plain]
 | 47 | [Over My Head \(Cable Car\)](https://open.spotify.com/track/1N62wozuHCvczCkY4QidpP) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 3:56 |
 | 48 | [In the Shadows](https://open.spotify.com/track/1fr92Vupmcs2vgLMFVQ7rd) | [The Rasmus](https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl) | [Dead Letters](https://open.spotify.com/album/1J9W7Fkg34vdOVa8gR7dx7) | 4:17 |
 | 49 | [When You're Gone](https://open.spotify.com/track/54JKnDB3CzVu8wNAOM27BI) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Best Damn Thing \(Expanded Edition\)](https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38) | 4:00 |
-| 50 | [Rockstar](https://open.spotify.com/track/6n9yCXvLhnYMgJIiIcMu7D) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [All the Right Reasons \(Special Edition\)](https://open.spotify.com/album/69ny9Y7VrjVP7JNK0xhYke) | 4:12 |
+| 50 | [Photograph](https://open.spotify.com/track/3hb2ScEVkGchcAQqrPLP0R) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [All the Right Reasons](https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3) | 4:18 |
 | 51 | [Second Chance](https://open.spotify.com/track/0CwYG1UnRmOx8Q1EzElCIL) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [The Sound of Madness](https://open.spotify.com/album/4PeRcYNYVB1mD4wemj5zld) | 3:42 |
 | 52 | [Absolutely \(Story of a Girl\) \- Radio Mix](https://open.spotify.com/track/3mNecsYFb6LQg7822DPXCP) | [Nine Days](https://open.spotify.com/artist/306JHpIRGVaQd6OltnOzUO) | [The Madding Crowd](https://open.spotify.com/album/4BcmNEt6VK0KBVsVY8yClD) | 3:09 |
 | 53 | [My Life Would Suck Without You](https://open.spotify.com/track/4Dm32oO01YpIubCHaAtKkN) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [All I Ever Wanted](https://open.spotify.com/album/4h8seeFAi6iYhslcWIxTSG) | 3:31 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZHO2BTzHF4G.md) - [plain]
 | 55 | [It's Been Awhile](https://open.spotify.com/track/25CMmGsl22APKhfuj4Tp7j) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Break the Cycle](https://open.spotify.com/album/0OwSOrPWyP9batKOhOnaPt) | 4:24 |
 | 56 | [Move Along](https://open.spotify.com/track/2l57cfmCnOkwNX1tky02n1) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Move Along](https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe) | 3:58 |
 | 57 | [Tell Me Baby](https://open.spotify.com/track/0itNMuBHye9fu392b4e9oa) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Stadium Arcadium](https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ) | 4:07 |
-| 58 | [Photograph](https://open.spotify.com/track/3hb2ScEVkGchcAQqrPLP0R) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [All the Right Reasons](https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3) | 4:18 |
+| 58 | [Rockstar](https://open.spotify.com/track/6n9yCXvLhnYMgJIiIcMu7D) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [All the Right Reasons \(Special Edition\)](https://open.spotify.com/album/69ny9Y7VrjVP7JNK0xhYke) | 4:12 |
 | 59 | [Hanging By A Moment](https://open.spotify.com/track/0wqOReZDnrefefEsrIGeR4) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [No Name Face](https://open.spotify.com/album/1VKNHcrUppE8i5oAhg4o6k) | 3:36 |
 | 60 | [Hero \(feat\. Josey Scott\)](https://open.spotify.com/track/779ooI3rBd0CLqCiiJmtVo) | [Chad Kroeger](https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin), [Josey Scott](https://open.spotify.com/artist/5mNloTgSaf5qCyk48t9NSP) | [Hero \(feat\. Josey Scott\)](https://open.spotify.com/album/4JLTenJ9u07tFnk3On1ypa) | 3:20 |
 | 61 | [Fire](https://open.spotify.com/track/0Ln5tJyLX5qusquBOtq7wf) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [West Ryder Pauper Lunatic Asylum](https://open.spotify.com/album/2DHGeuRTttjurZDb0pSjx6) | 4:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZHO2BTzHF4G.md) - [plain]
 | 99 | [New Divide](https://open.spotify.com/track/6Wx88Mv6b9ofjKMKkdwOJd) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Transformers: Revenge Of The Fallen The Album](https://open.spotify.com/album/1fqibtpI0bwD73uQGeEnhn) | 4:28 |
 | 100 | [Somewhere I Belong](https://open.spotify.com/track/3agtg0x11wPvLIWkYR39nZ) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora](https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3) | 3:33 |
 
-Snapshot ID: `MTY1MDkxNjc2NywwMDAwMDAwMDM0NDE5OTFmMjgwNjhjOTdkNWM4NzBlM2QzODg1ZDdj`
+Snapshot ID: `MTY1MDkxNjc2NywwMDAwMDAwMDZmMDFhMTliZjNkN2M2ZjMwNWQ4NTYzMTk3NjczNWI2`

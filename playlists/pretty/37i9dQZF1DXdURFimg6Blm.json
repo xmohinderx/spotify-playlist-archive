@@ -1,12 +1,12 @@
 {
   "description": "Dance tracks for a big workout.",
-  "num_followers": 388260,
+  "num_followers": 388291,
   "original_name": "Beast Mode Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUyNDE2NywwMDAwMDAwMGIwMGIyMGM1ZjE4NjkyYTQyZTcxMDg2M2FkZWRmZjIw",
+  "snapshot_id": "MTY2MTUyNDE2NywwMDAwMDAwMDE5OWVmOTE0YWMyNTQ2YTRkM2Y1MDIxZjhmYjk4NzQy",
   "tracks": [
     {
       "added_at": "2022-08-26 14:29:26",
@@ -575,6 +575,26 @@
     {
       "added_at": "2022-08-26 14:29:26",
       "album": {
+        "name": "Take Me Back",
+        "url": "https://open.spotify.com/album/3KEQLt8OBP8Y3VbKKQoIiI"
+      },
+      "artists": [
+        {
+          "name": "Lewis Thompson",
+          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 129479,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/2oGzHeApGhjANPNWYQNRQw"
+    },
+    {
+      "added_at": "2022-08-26 14:29:26",
+      "album": {
         "name": "In Your Arms (For An Angel)",
         "url": "https://open.spotify.com/album/5wcSb6xtmgO4YvmVV1Xt7b"
       },
@@ -599,26 +619,6 @@
       "duration_ms": 150476,
       "name": "In Your Arms (For An Angel)",
       "url": "https://open.spotify.com/track/5WOnsi0Bug74LmhxcPfKvR"
-    },
-    {
-      "added_at": "2022-08-26 14:29:26",
-      "album": {
-        "name": "Take Me Back",
-        "url": "https://open.spotify.com/album/3KEQLt8OBP8Y3VbKKQoIiI"
-      },
-      "artists": [
-        {
-          "name": "Lewis Thompson",
-          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 129479,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/2oGzHeApGhjANPNWYQNRQw"
     },
     {
       "added_at": "2022-08-26 14:29:26",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2022-08-26 14:29:26",
       "album": {
-        "name": "Move It",
-        "url": "https://open.spotify.com/album/77jDTOiz2yoBETypeoYgza"
-      },
-      "artists": [
-        {
-          "name": "Valentino Khan",
-          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
-        },
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        }
-      ],
-      "duration_ms": 201259,
-      "name": "Move It",
-      "url": "https://open.spotify.com/track/2YUVIkvZ2tPEZYTepX6oT9"
-    },
-    {
-      "added_at": "2022-08-26 14:29:26",
-      "album": {
         "name": "Release",
         "url": "https://open.spotify.com/album/0vtn1Mo8J2bj33ujRVXxpC"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 193422,
       "name": "Release",
       "url": "https://open.spotify.com/track/4HCN49YHfv7RCYC9d6dtXt"
+    },
+    {
+      "added_at": "2022-08-26 14:29:26",
+      "album": {
+        "name": "Move It",
+        "url": "https://open.spotify.com/album/77jDTOiz2yoBETypeoYgza"
+      },
+      "artists": [
+        {
+          "name": "Valentino Khan",
+          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "duration_ms": 201259,
+      "name": "Move It",
+      "url": "https://open.spotify.com/track/2YUVIkvZ2tPEZYTepX6oT9"
     },
     {
       "added_at": "2022-08-26 14:29:26",
@@ -1519,6 +1519,26 @@
     {
       "added_at": "2022-08-26 14:29:26",
       "album": {
+        "name": "Ocean Of Tears",
+        "url": "https://open.spotify.com/album/2zRkmxVhm6Isn66yIiBnLp"
+      },
+      "artists": [
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        },
+        {
+          "name": "DVBBS",
+          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
+        }
+      ],
+      "duration_ms": 184462,
+      "name": "Ocean Of Tears",
+      "url": "https://open.spotify.com/track/6oJIAZpChGNIEMAecud9SZ"
+    },
+    {
+      "added_at": "2022-08-26 14:29:26",
+      "album": {
         "name": "Salvation",
         "url": "https://open.spotify.com/album/6fe0sr7yIir3zRL8ZRAc2R"
       },
@@ -1571,22 +1591,6 @@
       "duration_ms": 183870,
       "name": "Loveless (with Teddy Swims)",
       "url": "https://open.spotify.com/track/5yL2dV8sTkIgMEArGQiBdT"
-    },
-    {
-      "added_at": "2022-08-26 14:29:26",
-      "album": {
-        "name": "Tongue",
-        "url": "https://open.spotify.com/album/0TNM4CTPP3WUA7oZcpe5cN"
-      },
-      "artists": [
-        {
-          "name": "R\u00eave",
-          "url": "https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "Tongue",
-      "url": "https://open.spotify.com/track/2bJgUPmlG2o6A0qfZJgkdh"
     }
   ],
   "unique_name": "Beast Mode Dance",

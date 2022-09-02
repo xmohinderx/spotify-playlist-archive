@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 
 > Essential club anthems from the golden era of house music\. Cover: Kenny Dope and Little Louie Vega
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,956 likes - 60 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,764 likes - 60 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,13 +34,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 24 | [Follow Me \- Club Mix](https://open.spotify.com/track/547iG5F16pTdim4XlMlGEU) | [Aly\-Us](https://open.spotify.com/artist/4MnBfIdylI5EASiTCsNA7r) | [Follow Me](https://open.spotify.com/album/7lHBZXxijgIaXDpKeDQs9O) | 6:24 |
 | 25 | [French Kiss \- The Original Underground Mix](https://open.spotify.com/track/7hnqJYCKZFW7vMoykaraZG) | [Lil' Louis](https://open.spotify.com/artist/5A16TE7083RJq3yzpdsQWs), [The World](https://open.spotify.com/artist/62ltJFdLVl9JUrdhzWqp0F) | [Club Epic \- A Collection Of Classic Dance Mixes: Volume 4](https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW) | 9:51 |
 | 26 | [Don't Stop Movin'](https://open.spotify.com/track/2P3cEaLNB0qczz4BDB7Mxc) | [Livin' Joy](https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu) | [Don’t Stop Movin’](https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71) | 5:19 |
-| 27 | [Plastic Dreams \- Radio Edit](https://open.spotify.com/track/7t020iFDoAjNgc4mjUMBAS) | [Jaydee](https://open.spotify.com/artist/2xVsrAmTyLeCvOvPqTo767) | [Plastic Dreams](https://open.spotify.com/album/2vFYX4AbJVY2ZDkNKbABUq) | 3:25 |
-| 28 | [Feels Like Heaven](https://open.spotify.com/track/7HlxqDDzdWE3gK0i6fS6Bt) | [Urban Cookie Collective](https://open.spotify.com/artist/1QYMj6ouUhi6yis1HE8M68) | [The Very Best Of](https://open.spotify.com/album/6IjQa4ZCnkSa9cnUvA3yJG) | 3:30 |
+| 27 | [Feels Like Heaven](https://open.spotify.com/track/7HlxqDDzdWE3gK0i6fS6Bt) | [Urban Cookie Collective](https://open.spotify.com/artist/1QYMj6ouUhi6yis1HE8M68) | [The Very Best Of](https://open.spotify.com/album/6IjQa4ZCnkSa9cnUvA3yJG) | 3:30 |
+| 28 | [Plastic Dreams \- Radio Edit](https://open.spotify.com/track/7t020iFDoAjNgc4mjUMBAS) | [Jaydee](https://open.spotify.com/artist/2xVsrAmTyLeCvOvPqTo767) | [Plastic Dreams](https://open.spotify.com/album/2vFYX4AbJVY2ZDkNKbABUq) | 3:25 |
 | 29 | [The Whistle Song](https://open.spotify.com/track/0DwAc0Z8Td3jv5frUznqu1) | [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc) | [Beyond The Mix](https://open.spotify.com/album/0DdX2VkXM0LmUU2S7S3QeD) | 6:57 |
 | 30 | [I'm Gonna Get You \- Original Flavour Mix](https://open.spotify.com/track/4EzZPB8OujNAeND6C2SduJ) | [Bizarre Inc](https://open.spotify.com/artist/07lbidCU8ZwtNCUrmaO0QU) | [Energique](https://open.spotify.com/album/00kOiUJakqkClL8Zthwa5W) | 5:19 |
 | 31 | [David Morales \- Needin U \- Radio Edit](https://open.spotify.com/track/4lgDZcisljVlutaku19eqV) | [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts), [The Face](https://open.spotify.com/artist/0c3f0X32um603awrTfc3mD) | [Needin' U \(Radio Edit\)](https://open.spotify.com/album/6ROOnXW9kJNHnSzaRuiXnW) | 3:49 |
-| 32 | [Move Your Body](https://open.spotify.com/track/5eAymAmVU6CyejjFJxvcMI) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz) | [Frankie Knuckles Presents: His Greatest Hits from Trax Records](https://open.spotify.com/album/0FV16C1tWVlaSSYUYofPwT) | 6:45 |
-| 33 | [I Can't Kick This Feeling When It Hits](https://open.spotify.com/track/2PmT3D5xmvVzZCf11L2ifX) | [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [Silentintroduction](https://open.spotify.com/album/1WuyO8qwthV94n8A4crVss) | 8:05 |
+| 32 | [I Can't Kick This Feeling When It Hits](https://open.spotify.com/track/2PmT3D5xmvVzZCf11L2ifX) | [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [Silentintroduction](https://open.spotify.com/album/1WuyO8qwthV94n8A4crVss) | 8:05 |
+| 33 | [Move Your Body](https://open.spotify.com/track/5eAymAmVU6CyejjFJxvcMI) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz) | [Frankie Knuckles Presents: His Greatest Hits from Trax Records](https://open.spotify.com/album/0FV16C1tWVlaSSYUYofPwT) | 6:45 |
 | 34 | [Pasilda \- Knee Deep Club Mix](https://open.spotify.com/track/2vhLsN2p6FHPPm4LfEBB3N) | [Afro Medusa](https://open.spotify.com/artist/6D1DgoF2TYTbPQbRPEriaI), [Knee Deep](https://open.spotify.com/artist/51iQEVj0SBCQZJVrNli23R) | [Pasilda \(Extended Versions\)](https://open.spotify.com/album/7qCEf8CrHVD4C5uyPsTFT2) | 7:06 |
 | 35 | [Missing \- Todd Terry Club Mix / US Radio Edit](https://open.spotify.com/track/36sL3KPEfXIp5KH3tDO7oo) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [Amplified Heart](https://open.spotify.com/album/6ZMxoed3JJVjSzDQ2iVeYN) | 4:09 |
 | 36 | [Playing With Knives \[Quadrant Mix}](https://open.spotify.com/track/3ToxQ1h56CW3lA2zcGtODh) | [Bizarre Inc](https://open.spotify.com/artist/07lbidCU8ZwtNCUrmaO0QU) | [Playing With Knives \[Quadrant Mix\]](https://open.spotify.com/album/1q4NYQT20Fb9kN16yZ3OHM) | 6:47 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 59 | [Everybody \(All over the World\) \- Dance Version](https://open.spotify.com/track/4XbAHiP83NvAj1rW2vIrys) | [FPI Project](https://open.spotify.com/artist/6HNYPrYPF6UzZhVFu2sLeh) | [Everybody \(All Over The World\)](https://open.spotify.com/album/29vo83aZt4XUt2gUSAxzwg) | 5:13 |
 | 60 | [Hideaway \- Deep Dish Radio Edit](https://open.spotify.com/track/2bpmisazTQ49QpLMGZGp1X) | [De'Lacy](https://open.spotify.com/artist/3PAtCGZK9u5tIBERu4y5ho) | [Hideaway / That Look \- Single](https://open.spotify.com/album/3bOj4oy7pdxaVlNYUIfHdk) | 3:31 |
 
-Snapshot ID: `MTYzMTg2NzY5MCwwMDAwMDAwMGQzNjZhZDY1NDI5YTY4MmMzMDBhNzJhYzdhMmNlNmQy`
+Snapshot ID: `MTYzMTg2NzY5MCwwMDAwMDAwMDM0MWRhNjk5MDAyODAwZmJlNWU3YTBkY2NhNTk5OWJi`

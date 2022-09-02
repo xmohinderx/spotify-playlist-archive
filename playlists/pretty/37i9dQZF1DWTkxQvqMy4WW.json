@@ -1,12 +1,12 @@
 {
   "description": "Country music to get you back to the basics.",
-  "num_followers": 3002239,
+  "num_followers": 3002216,
   "original_name": "Chillin' on a Dirt Road",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQxNDQwMCwwMDAwMDAwMDRhNzJlM2Q4OTVmMTdlM2ZjODY1N2M0OTk2MWQyNGM4",
+  "snapshot_id": "MTY1MjQxNDQwMCwwMDAwMDAwMDA4NmE3MGUxNDg5OWVhN2RmYTU4NDFlMTZiYjg4N2Qw",
   "tracks": [
     {
       "added_at": "2022-05-13 04:00:00",
@@ -227,18 +227,18 @@
     {
       "added_at": "2022-05-13 04:00:00",
       "album": {
-        "name": "Reckless",
-        "url": "https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio"
+        "name": "If I Was a Cowboy",
+        "url": "https://open.spotify.com/album/30ECcjA3lMZPRpdJDyHAnT"
       },
       "artists": [
         {
-          "name": "Morgan Wade",
-          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 251293,
-      "name": "Wilder Days",
-      "url": "https://open.spotify.com/track/2vubFQgAJO5SeuVa7ytIHc"
+      "duration_ms": 195013,
+      "name": "If I Was a Cowboy",
+      "url": "https://open.spotify.com/track/6F7UOC6fPWOkPqybOWBHSv"
     },
     {
       "added_at": "2022-05-13 04:00:00",
@@ -279,18 +279,18 @@
     {
       "added_at": "2022-05-13 04:00:00",
       "album": {
-        "name": "If I Was a Cowboy",
-        "url": "https://open.spotify.com/album/30ECcjA3lMZPRpdJDyHAnT"
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio"
       },
       "artists": [
         {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+          "name": "Morgan Wade",
+          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
         }
       ],
-      "duration_ms": 195013,
-      "name": "If I Was a Cowboy",
-      "url": "https://open.spotify.com/track/6F7UOC6fPWOkPqybOWBHSv"
+      "duration_ms": 251293,
+      "name": "Wilder Days",
+      "url": "https://open.spotify.com/track/2vubFQgAJO5SeuVa7ytIHc"
     },
     {
       "added_at": "2022-05-13 04:00:00",
@@ -487,6 +487,22 @@
     {
       "added_at": "2022-05-13 04:00:00",
       "album": {
+        "name": "California Sunrise",
+        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
+      },
+      "artists": [
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "duration_ms": 172253,
+      "name": "Night Shift",
+      "url": "https://open.spotify.com/track/0bPnT6i9H1p8Vd85GS6Z7I"
+    },
+    {
+      "added_at": "2022-05-13 04:00:00",
+      "album": {
         "name": "Beers On Me",
         "url": "https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM"
       },
@@ -511,22 +527,6 @@
     {
       "added_at": "2022-05-13 04:00:00",
       "album": {
-        "name": "California Sunrise",
-        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
-      },
-      "artists": [
-        {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
-        }
-      ],
-      "duration_ms": 172253,
-      "name": "Night Shift",
-      "url": "https://open.spotify.com/track/0bPnT6i9H1p8Vd85GS6Z7I"
-    },
-    {
-      "added_at": "2022-05-13 04:00:00",
-      "album": {
         "name": "HERO (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
       },
@@ -539,22 +539,6 @@
       "duration_ms": 197930,
       "name": "My Church",
       "url": "https://open.spotify.com/track/1LM5zQv5pBKPyO7rm7Uz6U"
-    },
-    {
-      "added_at": "2022-05-13 04:00:00",
-      "album": {
-        "name": "Kane Brown (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 179506,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/1HXy5I3HTWq8OvxCn0z7G7"
     },
     {
       "added_at": "2022-05-13 04:00:00",
@@ -575,6 +559,22 @@
       "duration_ms": 170560,
       "name": "Thinking 'Bout You (feat. MacKenzie Porter)",
       "url": "https://open.spotify.com/track/4wBjKhJx6JnGoNJfJs24pd"
+    },
+    {
+      "added_at": "2022-05-13 04:00:00",
+      "album": {
+        "name": "Kane Brown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 179506,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1HXy5I3HTWq8OvxCn0z7G7"
     },
     {
       "added_at": "2022-05-13 04:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-05-13 04:00:00",
       "album": {
-        "name": "Chief",
-        "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 191306,
-      "name": "Drink In My Hand",
-      "url": "https://open.spotify.com/track/1cktZnxiONH0hR6Q3DKy8h"
-    },
-    {
-      "added_at": "2022-05-13 04:00:00",
-      "album": {
         "name": "Doin' Somethin' Right",
         "url": "https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 215853,
       "name": "Good Directions",
       "url": "https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR"
+    },
+    {
+      "added_at": "2022-05-13 04:00:00",
+      "album": {
+        "name": "Chief",
+        "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 191306,
+      "name": "Drink In My Hand",
+      "url": "https://open.spotify.com/track/1cktZnxiONH0hR6Q3DKy8h"
     },
     {
       "added_at": "2022-05-13 04:00:00",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2022-05-13 04:00:00",
       "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "duration_ms": 190640,
+      "name": "Every Little Thing",
+      "url": "https://open.spotify.com/track/3kgCJPXDlnL5bl1HFesHUi"
+    },
+    {
+      "added_at": "2022-05-13 04:00:00",
+      "album": {
         "name": "Bettie James",
         "url": "https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h"
       },
@@ -1267,34 +1283,18 @@
     {
       "added_at": "2022-05-13 04:00:00",
       "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE"
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/191BU6Uvnf7oNTjO4n36Yu"
       },
       "artists": [
         {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+          "name": "Kip Moore",
+          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
         }
       ],
-      "duration_ms": 190640,
-      "name": "Every Little Thing",
-      "url": "https://open.spotify.com/track/3kgCJPXDlnL5bl1HFesHUi"
-    },
-    {
-      "added_at": "2022-05-13 04:00:00",
-      "album": {
-        "name": "Damn Strait",
-        "url": "https://open.spotify.com/album/3WOFt4KvKhIeHN4fckCf5y"
-      },
-      "artists": [
-        {
-          "name": "Scotty McCreery",
-          "url": "https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29"
-        }
-      ],
-      "duration_ms": 230226,
-      "name": "Damn Strait",
-      "url": "https://open.spotify.com/track/4jp9FimhP2bQ93vR0A5r7b"
+      "duration_ms": 213826,
+      "name": "Somethin' 'Bout A Truck",
+      "url": "https://open.spotify.com/track/6Ymvlzom4TQeoKqAWsZRD8"
     },
     {
       "added_at": "2022-05-13 04:00:00",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2022-05-13 04:00:00",
       "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/191BU6Uvnf7oNTjO4n36Yu"
+        "name": "Damn Strait",
+        "url": "https://open.spotify.com/album/3WOFt4KvKhIeHN4fckCf5y"
       },
       "artists": [
         {
-          "name": "Kip Moore",
-          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
+          "name": "Scotty McCreery",
+          "url": "https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29"
         }
       ],
-      "duration_ms": 213826,
-      "name": "Somethin' 'Bout A Truck",
-      "url": "https://open.spotify.com/track/6Ymvlzom4TQeoKqAWsZRD8"
+      "duration_ms": 230226,
+      "name": "Damn Strait",
+      "url": "https://open.spotify.com/track/4jp9FimhP2bQ93vR0A5r7b"
     },
     {
       "added_at": "2022-05-13 04:00:00",

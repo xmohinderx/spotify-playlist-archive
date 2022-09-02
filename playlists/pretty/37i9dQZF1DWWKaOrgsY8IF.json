@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de pop latino durante el 2020. En portada: Camilo",
-  "num_followers": 120326,
+  "num_followers": 120346,
   "original_name": "Lo Mejor de Pop Latino 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjg4NTcwMSwwMDAwMDAwMGY3OWJhZjc2NDIwM2JkY2ExZDk0NGE5Y2I1NWE0YjFi",
+  "snapshot_id": "MTYwNjg4NTcwMSwwMDAwMDAwMDQwZTU3MjRhNjBjYmQ0MWQ4YmNjMzQ3YzJkOGE0Yjgy",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -187,18 +187,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Ay, DiOs M\u00edo!",
-        "url": "https://open.spotify.com/album/1mMUBQXa70gHyUjK0Q0u63"
+        "name": "Inolvidable",
+        "url": "https://open.spotify.com/album/3MdsEVhC9AMtDTXB8n2yXI"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
         }
       ],
-      "duration_ms": 189653,
-      "name": "Ay, DiOs M\u00edo!",
-      "url": "https://open.spotify.com/track/7x4ASXYEKfQBCewcZhK776"
+      "duration_ms": 225812,
+      "name": "Inolvidable",
+      "url": "https://open.spotify.com/track/0OTtnwUO8natNWSwdZvXVF"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -307,22 +311,18 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Inolvidable",
-        "url": "https://open.spotify.com/album/3MdsEVhC9AMtDTXB8n2yXI"
+        "name": "Ay, DiOs M\u00edo!",
+        "url": "https://open.spotify.com/album/1mMUBQXa70gHyUjK0Q0u63"
       },
       "artists": [
         {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 225812,
-      "name": "Inolvidable",
-      "url": "https://open.spotify.com/track/0OTtnwUO8natNWSwdZvXVF"
+      "duration_ms": 189653,
+      "name": "Ay, DiOs M\u00edo!",
+      "url": "https://open.spotify.com/track/7x4ASXYEKfQBCewcZhK776"
     },
     {
       "added_at": "2020-12-01 05:03:00",

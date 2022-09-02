@@ -4,7 +4,7 @@
 
 > East Africa Queens in their musical element.
 
-64 songs - 3 hr 23 min - [published](https://open.spotify.com/playlist/2a1bfihdwFyMCcETvTMWBc)
+66 songs - 3 hr 29 min - [published](https://open.spotify.com/playlist/2a1bfihdwFyMCcETvTMWBc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Kikole](https://open.spotify.com/track/4KO61HENYNzhcyH5zsSXxo) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Kikole](https://open.spotify.com/album/6zjT5qOYSFJW281jDar3Nl) | 3:29 | 2022-07-18 |  |
 | [La La](https://open.spotify.com/track/7506rdh9Ay8HeCI7ow04EZ) | [Mimi Mars](https://open.spotify.com/artist/0EvB9GVXaLmhGROh8ZIAKi), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [La La](https://open.spotify.com/album/3NgCYoF4td4Fj0pfpYweBg) | 2:54 | 2022-07-18 |  |
 | [Last Name](https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [Last Name](https://open.spotify.com/album/5tUXmCXcOyqRO7lLeWrMHR) | 2:01 | 2022-07-29 |  |
-| [Leeta](https://open.spotify.com/track/2OeysGms4a3xc6aksHte29) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu), [Ruth Ngendo](https://open.spotify.com/artist/7BNAToPYtiC9nK6KXexLAc) | [Leeta](https://open.spotify.com/album/09s7hFn3gp1v5ICZPl8MXT) | 3:14 | 2022-07-18 |  |
+| [Leeta](https://open.spotify.com/track/2OeysGms4a3xc6aksHte29) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu), [Ruth Ngendo](https://open.spotify.com/artist/7BNAToPYtiC9nK6KXexLAc) | [Leeta](https://open.spotify.com/album/09s7hFn3gp1v5ICZPl8MXT) | 3:14 | 2022-07-18 | 2022-09-02 |
 | [Love](https://open.spotify.com/track/0wj0rGLu2CnpGEZBiXcZZi) | [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR) | [D.R.U.G.S \(Dear.Romance.U.Got.Sweet\)](https://open.spotify.com/album/6p7woEtazKqCoSi4DpiIU8) | 1:55 | 2022-07-18 |  |
 | [Love Ballad No\. 3](https://open.spotify.com/track/3GjD1VmMDQRBI85fRZyrvC) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [Sunshine](https://open.spotify.com/album/3abCYOOplfgQSvt5vrOF29) | 4:18 | 2022-07-18 |  |
 | [Lowkey](https://open.spotify.com/track/5vftqVHNTFUEYTpqszZi5e) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Lowkey](https://open.spotify.com/album/5SgR3uwNfIzqRhULqPQAAr) | 2:50 | 2022-07-18 |  |
@@ -49,6 +49,7 @@
 | [Never Ever](https://open.spotify.com/track/19aCgeY2NVaGsZLEd6aTWh) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2) | [Cinema](https://open.spotify.com/album/5Qe5uxTUw3myubH9pH2mAK) | 2:54 | 2022-07-18 |  |
 | [Ningwetele](https://open.spotify.com/track/674UoSgYQzmUza8uxOzRjP) | [Dhahabu](https://open.spotify.com/artist/0C5XE5om2CtR9MwB7F2VlU) | [Ningwetele](https://open.spotify.com/album/1eBVVYNEjwA6kfBl9M8P4w) | 3:16 | 2022-07-18 |  |
 | [Njiira Love](https://open.spotify.com/track/462ozq0tVcoq50ZjaM2lWs) | [Sheebah Karungi](https://open.spotify.com/artist/5HwCHe2TkWMfGGpk2A8aku), [Sama Sojah](https://open.spotify.com/artist/6Cu8b2RnzlfjEWxuKrg9Bk) | [Njiira Love](https://open.spotify.com/album/3JFPB4w1ZhFDE1QAgz58F2) | 2:32 | 2022-07-18 |  |
+| [Nyumbani](https://open.spotify.com/track/4kHQ3Yo16DFn5HudDRT4MW) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd) | [NYUMBANI](https://open.spotify.com/album/3O5Iv6cDY2chRPfcFPEl4s) | 2:00 | 2022-09-01 |  |
 | [Omutima](https://open.spotify.com/track/4uDqe7prnIPYPU2wq1VsVW) | [Lydia Jazmine](https://open.spotify.com/artist/3iIWxRdX4e7W4ZD2urn7WM) | [Omutima](https://open.spotify.com/album/61wC1nlhsMQeNVSCDEZDhY) | 2:43 | 2022-07-18 |  |
 | [One Bite](https://open.spotify.com/track/6OOi3c5ikce6w19EN5Mp1T) | [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES) | [One Bite](https://open.spotify.com/album/5806Vs0UN9KhUaJwKEc7TO) | 2:54 | 2022-07-18 |  |
 | [Pen & Paper](https://open.spotify.com/track/08MoSv9F2ZzT3B1GJR3OD6) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ) | [Pen & Paper](https://open.spotify.com/album/185DPVsnR1b6ooK4VDqJPl) | 3:07 | 2022-07-18 |  |
@@ -57,7 +58,7 @@
 | [Praises to Mama](https://open.spotify.com/track/2zLlJmbsJfec7NX7cUjlpY) | [Cathy Matete](https://open.spotify.com/artist/1HwWig74b2zj1B37LeiXfX) | [Praises to Mama](https://open.spotify.com/album/44oSU6bHazwBL0dUovMxRH) | 4:10 | 2022-07-18 |  |
 | [Rotate](https://open.spotify.com/track/4EBvUhVhJQVlUueTvH2Hnl) | [Nadia Mukami](https://open.spotify.com/artist/5nnVpORg4Aha9aWRTZA5No), [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC) | [Rotate](https://open.spotify.com/album/4XYAAKYsUt7MvnhwWdtj0e) | 2:49 | 2022-07-18 |  |
 | [Salsa \(Ready\)](https://open.spotify.com/track/4sA3oaBmIceYBuileHFjEf) | [Ssaru](https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW) | [Salsa \(Ready\)](https://open.spotify.com/album/0nrKiDxIeeLFYem4v6vae6) | 3:39 | 2022-07-18 |  |
-| [SARE](https://open.spotify.com/track/6PBPQBCwEecZHzuTKoKjiq) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [SARE](https://open.spotify.com/album/2dCE4ncQB0yQ0HAC1B6yyE) | 2:54 | 2022-07-18 |  |
+| [SARE](https://open.spotify.com/track/6PBPQBCwEecZHzuTKoKjiq) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [SARE](https://open.spotify.com/album/2dCE4ncQB0yQ0HAC1B6yyE) | 2:54 | 2022-07-18 | 2022-09-02 |
 | [Sitachelewa](https://open.spotify.com/track/2V8JCAL5fAYIuetBGKfj7X) | [Pryshon](https://open.spotify.com/artist/10tow6yKkH4OjXuZA0PR0w), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Gifted](https://open.spotify.com/album/0q80Hj7RGzccRcHTZcb0HY) | 3:54 | 2022-07-18 |  |
 | [Sitachelewa](https://open.spotify.com/track/2pEKF6WOg0Z4IalfGDwYp1) | [Pryshon](https://open.spotify.com/artist/10tow6yKkH4OjXuZA0PR0w), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Gifted](https://open.spotify.com/album/5gYoLbLpGgLziilCmpMV0w) | 3:54 | 2022-07-18 | 2022-07-29 |
 | [Sitaki Mazoea](https://open.spotify.com/track/2dmwsNaaASKGnkZZJq7LAD) | [Shilole](https://open.spotify.com/artist/5Kupo3eu25cR6dIkrmGof6), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Sitaki Mazoea](https://open.spotify.com/album/7q5AQ6op2G8ETzjoykpK45) | 2:24 | 2022-07-18 |  |
@@ -70,6 +71,7 @@
 | [Unanimaliza](https://open.spotify.com/track/67F4XuZS8JXs8t5UZBjEFg) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Lody Music](https://open.spotify.com/artist/74V5EGZx8m1D9pAErk5TEz) | [Maturity EP](https://open.spotify.com/album/55GR8hOcCxxiWApDdURREq) | 2:55 | 2022-08-19 |  |
 | [Wandiisa Ki](https://open.spotify.com/track/46MwoLINORNKPyqIILxsAo) | [Rema namakula](https://open.spotify.com/artist/2444nM3S18PKjvdsXNNLdr) | [Wandiisa Ki](https://open.spotify.com/album/6SYvCQHJcZBBJKkADXL32z) | 3:13 | 2022-07-18 |  |
 | [WANO](https://open.spotify.com/track/7smBB3wQQe6eGZMMVVF4mv) | [NTAATE](https://open.spotify.com/artist/2pjlyuBujBWpkiqpoZTOB9) | [WANO](https://open.spotify.com/album/3XIZCSSFUdzPvxMJOcC32t) | 3:31 | 2022-07-18 |  |
+| [Want It All](https://open.spotify.com/track/0rMg0aTus0SMln332gVa9M) | [Ruguru](https://open.spotify.com/artist/1paCrsKnETPLpODHtQfSSW) | [Ruguru](https://open.spotify.com/album/2rdXJOOC9kuPWxD1mboKCQ) | 3:04 | 2022-09-01 |  |
 | [Where \(Has the Time Gone\)](https://open.spotify.com/track/4CD3Mw4RUa5Igh70CWadbo) | [Bey T](https://open.spotify.com/artist/5fGp7NJKHwbRlvQvDudkxk) | [Where \(Has the Time Gone\)](https://open.spotify.com/album/6JwEB4ctGyzJis0UAZwQFC) | 2:22 | 2022-07-18 |  |
 | [With You](https://open.spotify.com/track/2kmrovjpIxVb59ULNmEaeB) | [Maryolive](https://open.spotify.com/artist/3fzxNKewoLZJwJUVrnQY27) | [With You](https://open.spotify.com/album/0FCSf4X8qXB2vOXgKB3r7L) | 3:28 | 2022-07-18 |  |
 

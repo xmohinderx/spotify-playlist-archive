@@ -359,7 +359,7 @@
       ],
       "date_added": "2020-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-16",
+      "date_removed": null,
       "duration_ms": 183626,
       "name": "It's Tricky",
       "url": "https://open.spotify.com/track/3C5b21hX1FePgFAGdzk3Uc"
@@ -451,7 +451,7 @@
       ],
       "date_added": "2020-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 229896,
       "name": "Ladies First - Radio Edit",
       "url": "https://open.spotify.com/track/2kdJAbzcLT7XEQ0QeZERIB"
@@ -665,10 +665,28 @@
       ],
       "date_added": "2021-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 427360,
       "name": "Rapper's Delight",
       "url": "https://open.spotify.com/track/0FWhGmPVxLI6jOVF0wjALa"
+    },
+    {
+      "album": {
+        "name": "The Showdown: The Sugarhill Gang vs. Grandmaster Flash & The Furious Five",
+        "url": "https://open.spotify.com/album/0sux0KNu520ssuQT8dtSzi"
+      },
+      "artists": [
+        {
+          "name": "The Sugarhill Gang",
+          "url": "https://open.spotify.com/artist/7zliF6Q946WznVk3ZMYhZX"
+        }
+      ],
+      "date_added": "2021-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427360,
+      "name": "Rapper's Delight",
+      "url": "https://open.spotify.com/track/7sZDbHZiuHEzS00vzCuhqS"
     },
     {
       "album": {

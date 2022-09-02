@@ -1,18 +1,18 @@
 {
   "description": "Gorillaz make anti pop.",
-  "num_followers": 660628,
+  "num_followers": 660892,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk3NzU0NSwwMDAwMDAwMDk2OTVlMjFkNmRkMzRjZWU0NDMwYjBkOGQyZDVlZDlm",
+  "snapshot_id": "MTY2MjA0MzU3MiwwMDAwMDAwMDFiZDBiM2RlZjg4NjQ5ZjdkNzcyN2EyOGIxZWE2MmJk",
   "tracks": [
     {
-      "added_at": "2022-08-08 17:11:17",
+      "added_at": "2022-09-01 14:46:12",
       "album": {
-        "name": "Cracker Island (feat. Thundercat)",
-        "url": "https://open.spotify.com/album/3488fiYQcGSfkKKpr3ttCD"
+        "name": "New Gold (feat. Tame Impala and Bootie Brown)",
+        "url": "https://open.spotify.com/album/4V9YFKLqZ5h8nQFTvDQscC"
       },
       "artists": [
         {
@@ -20,13 +20,17 @@
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         },
         {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "Bootie Brown",
+          "url": "https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d"
         }
       ],
-      "duration_ms": 213750,
-      "name": "Cracker Island (feat. Thundercat)",
-      "url": "https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N"
+      "duration_ms": 215149,
+      "name": "New Gold (feat. Tame Impala and Bootie Brown)",
+      "url": "https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU"
     },
     {
       "added_at": "2022-08-27 22:35:33",
@@ -48,7 +52,7 @@
       "added_at": "2022-08-26 17:20:49",
       "album": {
         "name": "YUKON (INTERLUDE)",
-        "url": "https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi"
+        "url": "https://open.spotify.com/album/0GxWXE6ltKk4Gx3WyWLLrW"
       },
       "artists": [
         {
@@ -58,7 +62,7 @@
       ],
       "duration_ms": 141093,
       "name": "YUKON (INTERLUDE)",
-      "url": "https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe"
+      "url": "https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq"
     },
     {
       "added_at": "2022-08-08 17:11:17",
@@ -301,20 +305,24 @@
       "url": "https://open.spotify.com/track/4NR3USATEkmZv1erpa33Gx"
     },
     {
-      "added_at": "2022-08-13 02:14:30",
+      "added_at": "2022-08-08 17:11:17",
       "album": {
-        "name": "Nectar",
-        "url": "https://open.spotify.com/album/5EzDhyNZuO7kuaABHwbBKX"
+        "name": "Cracker Island (feat. Thundercat)",
+        "url": "https://open.spotify.com/album/3488fiYQcGSfkKKpr3ttCD"
       },
       "artists": [
         {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
         }
       ],
-      "duration_ms": 132215,
-      "name": "Tick Tock",
-      "url": "https://open.spotify.com/track/5E7p95xh9Ul4vZp4LEoJwi"
+      "duration_ms": 213750,
+      "name": "Cracker Island (feat. Thundercat)",
+      "url": "https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N"
     },
     {
       "added_at": "2022-08-26 14:02:36",
@@ -331,6 +339,38 @@
       "duration_ms": 142268,
       "name": "HILL$",
       "url": "https://open.spotify.com/track/5Kh8IpsqrQIlMdPKi7WSbA"
+    },
+    {
+      "added_at": "2022-08-13 02:14:30",
+      "album": {
+        "name": "Nectar",
+        "url": "https://open.spotify.com/album/5EzDhyNZuO7kuaABHwbBKX"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 132215,
+      "name": "Tick Tock",
+      "url": "https://open.spotify.com/track/5E7p95xh9Ul4vZp4LEoJwi"
+    },
+    {
+      "added_at": "2022-08-08 17:11:17",
+      "album": {
+        "name": "Hi-Fidelity",
+        "url": "https://open.spotify.com/album/2SmiEsb9wHeMYWAtqfvl7q"
+      },
+      "artists": [
+        {
+          "name": "Lava La Rue",
+          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
+        }
+      ],
+      "duration_ms": 209286,
+      "name": "Motel",
+      "url": "https://open.spotify.com/track/55X3Lhv9agCd5BtYUFR7vi"
     },
     {
       "added_at": "2022-08-08 17:11:17",
@@ -351,18 +391,18 @@
     {
       "added_at": "2022-08-08 17:11:17",
       "album": {
-        "name": "Hi-Fidelity",
-        "url": "https://open.spotify.com/album/2SmiEsb9wHeMYWAtqfvl7q"
+        "name": "Couldn't Wait to Tell You...",
+        "url": "https://open.spotify.com/album/3UvD4QNv5b0vW9G2ZHfjsu"
       },
       "artists": [
         {
-          "name": "Lava La Rue",
-          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
+          "name": "Liv.e",
+          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
         }
       ],
-      "duration_ms": 209286,
-      "name": "Motel",
-      "url": "https://open.spotify.com/track/55X3Lhv9agCd5BtYUFR7vi"
+      "duration_ms": 152000,
+      "name": "You the One Fish in the Sea",
+      "url": "https://open.spotify.com/track/2NKI38xfdu7OQV7CFXUNKv"
     },
     {
       "added_at": "2022-08-08 17:11:17",
@@ -387,18 +427,18 @@
     {
       "added_at": "2022-08-08 17:11:17",
       "album": {
-        "name": "Couldn't Wait to Tell You...",
-        "url": "https://open.spotify.com/album/3UvD4QNv5b0vW9G2ZHfjsu"
+        "name": "Hamilton",
+        "url": "https://open.spotify.com/album/2oI0QNhxvXlYulNWAYK3yu"
       },
       "artists": [
         {
-          "name": "Liv.e",
-          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
+          "name": "Hazel English",
+          "url": "https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr"
         }
       ],
-      "duration_ms": 152000,
-      "name": "You the One Fish in the Sea",
-      "url": "https://open.spotify.com/track/2NKI38xfdu7OQV7CFXUNKv"
+      "duration_ms": 207904,
+      "name": "Hamilton",
+      "url": "https://open.spotify.com/track/7s4GCpLK57ybNAEeJfvOLF"
     },
     {
       "added_at": "2022-08-08 17:11:17",
@@ -419,38 +459,6 @@
     {
       "added_at": "2022-08-08 17:11:17",
       "album": {
-        "name": "Hamilton",
-        "url": "https://open.spotify.com/album/2oI0QNhxvXlYulNWAYK3yu"
-      },
-      "artists": [
-        {
-          "name": "Hazel English",
-          "url": "https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr"
-        }
-      ],
-      "duration_ms": 207904,
-      "name": "Hamilton",
-      "url": "https://open.spotify.com/track/7s4GCpLK57ybNAEeJfvOLF"
-    },
-    {
-      "added_at": "2022-08-08 17:11:17",
-      "album": {
-        "name": "burbank house",
-        "url": "https://open.spotify.com/album/4PvJVQQSFCUdEKF1cJrntR"
-      },
-      "artists": [
-        {
-          "name": "tsubi club",
-          "url": "https://open.spotify.com/artist/6fHEaFnFgMxMAtDt7mFoQ3"
-        }
-      ],
-      "duration_ms": 101647,
-      "name": "burbank house",
-      "url": "https://open.spotify.com/track/3DErMJzUrtfGUjet3xpUml"
-    },
-    {
-      "added_at": "2022-08-08 17:11:17",
-      "album": {
         "name": "sydney",
         "url": "https://open.spotify.com/album/4gL0GCWQjkf2kaiMais7At"
       },
@@ -467,18 +475,18 @@
     {
       "added_at": "2022-08-08 17:11:17",
       "album": {
-        "name": "A Collection of Fleeting Moments and Daydreams",
-        "url": "https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof"
+        "name": "burbank house",
+        "url": "https://open.spotify.com/album/4PvJVQQSFCUdEKF1cJrntR"
       },
       "artists": [
         {
-          "name": "Orion Sun",
-          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+          "name": "tsubi club",
+          "url": "https://open.spotify.com/artist/6fHEaFnFgMxMAtDt7mFoQ3"
         }
       ],
-      "duration_ms": 169822,
-      "name": "Antidote",
-      "url": "https://open.spotify.com/track/1NlGXcWeUSe1s3IgRKcqmB"
+      "duration_ms": 101647,
+      "name": "burbank house",
+      "url": "https://open.spotify.com/track/3DErMJzUrtfGUjet3xpUml"
     },
     {
       "added_at": "2022-08-08 17:11:17",
@@ -507,18 +515,18 @@
     {
       "added_at": "2022-08-08 17:11:17",
       "album": {
-        "name": "Diva",
-        "url": "https://open.spotify.com/album/2nOhBMGUd7zru4hDhlV1ih"
+        "name": "A Collection of Fleeting Moments and Daydreams",
+        "url": "https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof"
       },
       "artists": [
         {
-          "name": "Princess Nokia",
-          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
         }
       ],
-      "duration_ms": 207813,
-      "name": "Diva",
-      "url": "https://open.spotify.com/track/3DUkMATtjCLnic8KjPgx66"
+      "duration_ms": 169822,
+      "name": "Antidote",
+      "url": "https://open.spotify.com/track/1NlGXcWeUSe1s3IgRKcqmB"
     },
     {
       "added_at": "2022-08-08 17:11:17",
@@ -537,20 +545,20 @@
       "url": "https://open.spotify.com/track/2oSG1lrQZHUSs4hhgv7Imu"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-08 17:11:17",
       "album": {
-        "name": "THREE HEADS*",
-        "url": "https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN"
+        "name": "Diva",
+        "url": "https://open.spotify.com/album/2nOhBMGUd7zru4hDhlV1ih"
       },
       "artists": [
         {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+          "name": "Princess Nokia",
+          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
         }
       ],
-      "duration_ms": 171842,
-      "name": "THREE HEADS*",
-      "url": "https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp"
+      "duration_ms": 207813,
+      "name": "Diva",
+      "url": "https://open.spotify.com/track/3DUkMATtjCLnic8KjPgx66"
     },
     {
       "added_at": "2022-08-08 17:11:17",
@@ -571,6 +579,22 @@
       "duration_ms": 188702,
       "name": "\"conditional\"",
       "url": "https://open.spotify.com/track/6hariWD1MC9HBlaIJ5iDQR"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "THREE HEADS*",
+        "url": "https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "duration_ms": 171842,
+      "name": "THREE HEADS*",
+      "url": "https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp"
     },
     {
       "added_at": "2022-08-08 17:11:17",
@@ -685,24 +709,20 @@
       "url": "https://open.spotify.com/track/00iYCxpoIxtyBr2JzhIpxx"
     },
     {
-      "added_at": "2022-08-27 14:54:03",
+      "added_at": "2022-08-26 06:26:00",
       "album": {
-        "name": "Psychedelic Views (feat. IDK)",
-        "url": "https://open.spotify.com/album/4dGOwkXOA2MzysErvXsKEC"
+        "name": "I Did Drugs For You",
+        "url": "https://open.spotify.com/album/1slOW8dpDzyLjFJ2BPNHoO"
       },
       "artists": [
         {
-          "name": "Sad Night Dynamite",
-          "url": "https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7"
-        },
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+          "name": "Rook Monroe",
+          "url": "https://open.spotify.com/artist/0xwMjJn29gSNkQYNxc5IED"
         }
       ],
-      "duration_ms": 280000,
-      "name": "Psychedelic Views (feat. IDK)",
-      "url": "https://open.spotify.com/track/528i4G2yPIJDetyAsndzFw"
+      "duration_ms": 192592,
+      "name": "I Did Drugs For You",
+      "url": "https://open.spotify.com/track/3MwKRb5GB9phdL9ktdvBsv"
     },
     {
       "added_at": "2022-08-13 02:14:30",
@@ -721,20 +741,24 @@
       "url": "https://open.spotify.com/track/06dWM8AMMjKE9Obf2L1ojy"
     },
     {
-      "added_at": "2022-08-26 06:26:00",
+      "added_at": "2022-08-27 14:54:03",
       "album": {
-        "name": "I Did Drugs For You",
-        "url": "https://open.spotify.com/album/1slOW8dpDzyLjFJ2BPNHoO"
+        "name": "Psychedelic Views (feat. IDK)",
+        "url": "https://open.spotify.com/album/4dGOwkXOA2MzysErvXsKEC"
       },
       "artists": [
         {
-          "name": "Rook Monroe",
-          "url": "https://open.spotify.com/artist/0xwMjJn29gSNkQYNxc5IED"
+          "name": "Sad Night Dynamite",
+          "url": "https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7"
+        },
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
         }
       ],
-      "duration_ms": 192592,
-      "name": "I Did Drugs For You",
-      "url": "https://open.spotify.com/track/3MwKRb5GB9phdL9ktdvBsv"
+      "duration_ms": 280000,
+      "name": "Psychedelic Views (feat. IDK)",
+      "url": "https://open.spotify.com/track/528i4G2yPIJDetyAsndzFw"
     },
     {
       "added_at": "2022-08-13 02:14:30",
@@ -771,6 +795,22 @@
     {
       "added_at": "2022-08-08 17:11:17",
       "album": {
+        "name": "Mr. Put It On",
+        "url": "https://open.spotify.com/album/1OE9RhxKK7NY2r9vRUP8hg"
+      },
+      "artists": [
+        {
+          "name": "AG Club",
+          "url": "https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c"
+        }
+      ],
+      "duration_ms": 167323,
+      "name": "Mr. Put It On",
+      "url": "https://open.spotify.com/track/70EiV32gjM86o0XeTj5nq0"
+    },
+    {
+      "added_at": "2022-08-08 17:11:17",
+      "album": {
         "name": "Hotline",
         "url": "https://open.spotify.com/album/01abUW9eJNapjJv0E4rNMF"
       },
@@ -803,22 +843,6 @@
     {
       "added_at": "2022-08-08 17:11:17",
       "album": {
-        "name": "Mr. Put It On",
-        "url": "https://open.spotify.com/album/1OE9RhxKK7NY2r9vRUP8hg"
-      },
-      "artists": [
-        {
-          "name": "AG Club",
-          "url": "https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c"
-        }
-      ],
-      "duration_ms": 167323,
-      "name": "Mr. Put It On",
-      "url": "https://open.spotify.com/track/70EiV32gjM86o0XeTj5nq0"
-    },
-    {
-      "added_at": "2022-08-08 17:11:17",
-      "album": {
         "name": "Sugar",
         "url": "https://open.spotify.com/album/4bPrS4muAMw2G5M6ARaZ01"
       },
@@ -831,22 +855,6 @@
       "duration_ms": 114416,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/5KfUqRRbm6ACSzLxUS57R2"
-    },
-    {
-      "added_at": "2022-08-08 17:11:17",
-      "album": {
-        "name": "AFTER DINNER WE TALK DREAMS",
-        "url": "https://open.spotify.com/album/0DNz0XsG6B1Vz1CcbuIsov"
-      },
-      "artists": [
-        {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
-        }
-      ],
-      "duration_ms": 168542,
-      "name": "MESS U MADE",
-      "url": "https://open.spotify.com/track/1jZrlerU1ZWEI7oDPtHPGx"
     }
   ],
   "unique_name": "anti pop",

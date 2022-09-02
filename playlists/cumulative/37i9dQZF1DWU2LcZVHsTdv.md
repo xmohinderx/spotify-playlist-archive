@@ -2,7 +2,7 @@
 
 ### [Country by the Grace of God](https://open.spotify.com/playlist/37i9dQZF1DWU2LcZVHsTdv)
 
-> The country way of testifying\. Cover: Tyler Hubbard
+> The country way of testifying\. Cover: Ian Munsick
 
 142 songs - 8 hr 44 min - [published](https://open.spotify.com/playlist/6cE3SvtvS08f7zxJyG9uyM)
 

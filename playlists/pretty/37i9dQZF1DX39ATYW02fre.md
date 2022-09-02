@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 
 > Beautiful electronic music for melancholy moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,756 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,604 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 | 27 | [Howling \- Âme Remix](https://open.spotify.com/track/78jIj6Ph2364zg1ZVIvbIN) | [Howling](https://open.spotify.com/artist/3WTWOrIS77vY3hkCFqTyIw), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Frank Wiedemann](https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94) | [Howling \(Âme Remix\)](https://open.spotify.com/album/3qHg26OrsZMxmd2Y8X6WW5) | 8:05 |
 | 28 | [Break Apart](https://open.spotify.com/track/2pYvd6cHcAIMAM6xMD6nok) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Migration](https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ) | 4:34 |
 | 29 | [Me \(heavy\)](https://open.spotify.com/track/3MhbnxA1JnksiATu9xyB2c) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 3:03 |
-| 30 | [amelia](https://open.spotify.com/track/1ME0C8xm5YmInbok1znS9W) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [mauv](https://open.spotify.com/artist/4ll5dtDkyA2xFOz9n7wBNo) | [sketches of transition](https://open.spotify.com/album/258Q9Jl6LO9OTDOmSRfR21) | 4:21 |
-| 31 | [Bird Song](https://open.spotify.com/track/51Wao8QZ4Fv4zamKbRnKQd) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Old Friend](https://open.spotify.com/album/3EWFbpqL5iBAL9L7Zoydxj) | 3:16 |
+| 30 | [Bird Song](https://open.spotify.com/track/51Wao8QZ4Fv4zamKbRnKQd) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Old Friend](https://open.spotify.com/album/3EWFbpqL5iBAL9L7Zoydxj) | 3:16 |
+| 31 | [amelia](https://open.spotify.com/track/1ME0C8xm5YmInbok1znS9W) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [mauv](https://open.spotify.com/artist/4ll5dtDkyA2xFOz9n7wBNo) | [sketches of transition](https://open.spotify.com/album/258Q9Jl6LO9OTDOmSRfR21) | 4:21 |
 | 32 | [Looped](https://open.spotify.com/track/2bB6iDVgm25WkYv0yBz1BD) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD) | [Kiasmos](https://open.spotify.com/album/7pBDu7nc2KaMsh0SfZMc2d) | 6:00 |
 | 33 | [aisatsana \[102\]](https://open.spotify.com/track/3ESsjKqrj3M79I8sSZieK3) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8) | 5:21 |
 | 34 | [Loud Places](https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:43 |
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 | 36 | [Waste \- RY X Remix](https://open.spotify.com/track/08HR9PoLSeovgXWvJEZrvi) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Blood Remixed](https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1) | 9:13 |
 | 37 | [Bamboo](https://open.spotify.com/track/1vZIfej2urUYkVkgwh0O7t) | [Elder Island](https://open.spotify.com/artist/3EnbnmqrrvApHJs6FMvYik) | [Seeds in Sand](https://open.spotify.com/album/4IZtfkdzACIDkdBXq6N5vH) | 4:22 |
 | 38 | [Can't Do Without You](https://open.spotify.com/track/5owacNcWuezb4JHoGdoQSj) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Our Love](https://open.spotify.com/album/4JOmLltFC735tBL7jfHfA7) | 3:56 |
-| 39 | [Just](https://open.spotify.com/track/7MHjC4y8tMWDV1xA3CpqzX) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Just EP](https://open.spotify.com/album/1naCJmNjiY0CBbCqJ22r25) | 6:12 |
-| 40 | [Versailles \(Hold\) \- Edit](https://open.spotify.com/track/4Yf9QLUM8EeHaCS7EnaHnX) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Versailles \(Hold\)](https://open.spotify.com/album/0LKvGM4ka3ESkrCaiOuD15) | 3:38 |
+| 39 | [Versailles \(Hold\) \- Edit](https://open.spotify.com/track/4Yf9QLUM8EeHaCS7EnaHnX) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Versailles \(Hold\)](https://open.spotify.com/album/0LKvGM4ka3ESkrCaiOuD15) | 3:38 |
+| 40 | [Just](https://open.spotify.com/track/7MHjC4y8tMWDV1xA3CpqzX) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Just EP](https://open.spotify.com/album/1naCJmNjiY0CBbCqJ22r25) | 6:12 |
 | 41 | [Faisal \(envelops me\)](https://open.spotify.com/track/1uyQNwG1sFl7etjFTEHlQp) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 \(February 2 \- October 15 2021\)](https://open.spotify.com/album/0SFtIrRytNI4kcf93Tbhdf) | 4:10 |
 | 42 | [October](https://open.spotify.com/track/6FIQ8o2hqlDmHQFoBKmKgW) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [October](https://open.spotify.com/album/5PdBG1Q3tLZlSLoxB1LtK8) | 5:54 |
 | 43 | [Dreaming \(feat\. Bruno Major\)](https://open.spotify.com/track/6S9f7k7SeqwkId3qaALw0r) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Dark](https://open.spotify.com/album/1y30DpERmej6O4v9wOYYla) | 3:53 |
 | 44 | [Roll Back \- Single Mix](https://open.spotify.com/track/7ko64FZgc63TnZuYhusU21) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [Roll Back](https://open.spotify.com/album/5b6TuPfFvUpIllFHZgCUy2) | 3:04 |
-| 45 | [Atlas](https://open.spotify.com/track/664jBL8NgKFYdiMK9bnCcz) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Atlas](https://open.spotify.com/album/7g8PeQGSlZUlWCr3heIJJb) | 5:52 |
+| 45 | [Pastoral](https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Pastoral](https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde) | 3:40 |
 | 46 | [Kyle \(i found you\)](https://open.spotify.com/track/0v1g5U1OAb0XBjKyA8R36i) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Kyle \(i found you\)](https://open.spotify.com/album/2myK0q2FH45JQRUxepp4en) | 3:16 |
 | 47 | [Loom \(feat\. Bonobo\)](https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Loom](https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM) | 3:46 |
-| 48 | [Pastoral](https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Pastoral](https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde) | 3:40 |
+| 48 | [Atlas](https://open.spotify.com/track/664jBL8NgKFYdiMK9bnCcz) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Atlas](https://open.spotify.com/album/7g8PeQGSlZUlWCr3heIJJb) | 5:52 |
 | 49 | [Her Revolution](https://open.spotify.com/track/2MhDAsciLk9txdni5CL8iw) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Her Revolution / His Rope](https://open.spotify.com/album/4ciK8DtBglOBd0FYznsg98) | 5:48 |
 | 50 | [Howling](https://open.spotify.com/track/34hMOtKwf5nm8tjvkGV0Dk) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv) | 5:09 |
 
-Snapshot ID: `MTY1MzkwMTkzMiwwMDAwMDAwMDYxOGM5NzRkYmNhZjIwYWFlYTA4NzQ3NjAyYjFiNWM1`
+Snapshot ID: `MTY1MzkwMTkzMiwwMDAwMDAwMDQzZDA0NDE0OWE0Yzk4MzZjNGRkZjViODFlZDZmZGY3`

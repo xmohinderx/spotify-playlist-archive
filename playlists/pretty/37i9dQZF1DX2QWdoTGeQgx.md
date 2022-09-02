@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 
 > Sit back and unwind to the most selamba songs around.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,575 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,590 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 | 18 | [W.H.U.T](https://open.spotify.com/track/4dtmj7X21gunWoQf98hW5L) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [W.H.U.T](https://open.spotify.com/album/33hKzdCUtE6qkQJrJaDuck) | 2:54 |
 | 19 | [Best Lover](https://open.spotify.com/track/0iWFz0Q5Qha9bx325ocFWq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Head In The Clouds Forever](https://open.spotify.com/album/0LxjjZ20pPOakBSYwrmbjv) | 2:32 |
 | 20 | [I'll Be Honest](https://open.spotify.com/track/3jQQUM4NyNnbmKAnz5xguG) | [Dru Chen](https://open.spotify.com/artist/0n1n8JVg3vec8svJHivjnf), [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [I'll Be Honest](https://open.spotify.com/album/018IL10TXkNudbOVScsjGI) | 2:33 |
-| 21 | [Morning Blue](https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Morning Blue](https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG) | 3:37 |
+| 21 | [Anything You Want](https://open.spotify.com/track/2QB8FwOszur18Ai7t2XnNi) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Anything You Want](https://open.spotify.com/album/0fkX7I2PipiArw0mxPLFsY) | 3:56 |
 | 22 | [Dancing with my phone](https://open.spotify.com/track/4Zh9zZmEBoDLTKQRjXwict) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Dancing with my phone](https://open.spotify.com/album/3IHG7xkPLLgsm1hSeMlxLH) | 3:23 |
-| 23 | [Anything You Want](https://open.spotify.com/track/2QB8FwOszur18Ai7t2XnNi) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Anything You Want](https://open.spotify.com/album/0fkX7I2PipiArw0mxPLFsY) | 3:56 |
+| 23 | [Morning Blue](https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Morning Blue](https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG) | 3:37 |
 | 24 | [my type](https://open.spotify.com/track/1tvxzDoafjqs4yvjZW4n2K) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [my type](https://open.spotify.com/album/3qhn2VpMdGW7khh0FGXA9F) | 2:12 |
 | 25 | [Vicious](https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Vicious](https://open.spotify.com/album/7p3M1cRTouWTpmBDhlEAKS) | 2:29 |
 | 26 | [TOUCH](https://open.spotify.com/track/5cgy5vMqVZbd8hYutp2txu) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 3:25 |
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 | 60 | [Teenage Dream](https://open.spotify.com/track/3cr8XcChCFSkZogQnCNGXl) | [Wen Wei](https://open.spotify.com/artist/12LXmUdAbhmRP9CCa7wGHn) | [Teenage Dream](https://open.spotify.com/album/6qKAa3lbkxOIRXYNzNBFJ4) | 3:45 |
 | 61 | [Kotak Hati](https://open.spotify.com/track/0hS54SC4TZFc3N7cSuTz48) | [Hujan](https://open.spotify.com/artist/7FxVB5xQi2szfC6Us1ag9A) | [Lonely Soldier Boy](https://open.spotify.com/album/0iSpXXAw1Sm4RCvjNOKdUL) | 4:52 |
 | 62 | [comeoutside](https://open.spotify.com/track/5GgUvrnmNeJFQifGe5Ywpu) | [Talitha.](https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY), [Yewy](https://open.spotify.com/artist/2nvJsAEdxvSquFlHdYrhTq) | [hi, i like you.](https://open.spotify.com/album/23f0TBnJwXesNGBYlzyLL8) | 3:07 |
-| 63 | [Eleanor \- Edit](https://open.spotify.com/track/4kLyAbRTMMfmAH5Fjm3cYU) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Eleanor](https://open.spotify.com/album/55cPRNZBzTJMc0B96RGoFx) | 3:53 |
-| 64 | [Hopelessly Devoted To You](https://open.spotify.com/track/1FNvwHvFCJoFzt80H8L6QR) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ), [Aisyah Aziz](https://open.spotify.com/artist/4DBXSxqzYS9jcuOpkn0Mh4) | [Hopelessly Devoted To You](https://open.spotify.com/album/2MK7qxuZhopOH2KzdnHds2) | 3:38 |
+| 63 | [Hopelessly Devoted To You](https://open.spotify.com/track/1FNvwHvFCJoFzt80H8L6QR) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ), [Aisyah Aziz](https://open.spotify.com/artist/4DBXSxqzYS9jcuOpkn0Mh4) | [Hopelessly Devoted To You](https://open.spotify.com/album/2MK7qxuZhopOH2KzdnHds2) | 3:38 |
+| 64 | [Eleanor \- Edit](https://open.spotify.com/track/4kLyAbRTMMfmAH5Fjm3cYU) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Eleanor](https://open.spotify.com/album/55cPRNZBzTJMc0B96RGoFx) | 3:53 |
 | 65 | [Pantone 17 13 30](https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y1](https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM) | 3:06 |
 | 66 | [Fly Me To The Sun](https://open.spotify.com/track/6UsNGfDVuoMhbgkmdWRvnz) | [Romantic Echoes](https://open.spotify.com/artist/3VDwfryUiGGszWpyzpwDGJ) | [Fly Me To The Sun](https://open.spotify.com/album/3rA2enTCB87keTrwFKcncI) | 4:34 |
 | 67 | [no space](https://open.spotify.com/track/3W1wvz416f8ZaGJyTlaCBq) | [Alextbh](https://open.spotify.com/artist/0kXDB5aeESWj5BD9TCLkMu) | [no space](https://open.spotify.com/album/1U1lgG9SK27rA9rVNdKZci) | 2:57 |
 | 68 | [Fourth of July \- April Base Version](https://open.spotify.com/track/1qufJFcGOXDdfA9kryBCQG) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Fourth of July](https://open.spotify.com/album/6iDSCbUNbvIrSiM3JfJyCL) | 3:43 |
-| 69 | [Smile For Me](https://open.spotify.com/track/49z2kxEp9AzpDY66YuD1jJ) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [Smile For Me](https://open.spotify.com/album/0swAhdQVwcJatFVNKPOkyK) | 2:46 |
+| 69 | [Better With You](https://open.spotify.com/track/0XyHpJN5Unt4IT4Bf2Gezn) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO) | [Better With You](https://open.spotify.com/album/1EJeyxh3t7ZlkmFi5ttQoC) | 2:46 |
 | 70 | [confidence](https://open.spotify.com/track/1rMEkT856LkjGIHQSGYQxX) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [to be honest](https://open.spotify.com/album/0qRlwYQIRtsqmQsRFYqOVi) | 2:25 |
 
-Snapshot ID: `MTY2MDgzOTg4NCwwMDAwMDAwMDJhODM0ODg5MzE4MTQ5YTNiMWFiNDFhNTY2ZTc1YTNl`
+Snapshot ID: `MTY2MDgzOTg4NCwwMDAwMDAwMDk5Y2Q2YTFkMjRmNTU0MTM4MTEzM2ZlMDNmNmY2N2U3`

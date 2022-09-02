@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> Mellow & sentimental K\-Pop ballads\. \(Cover: 2am\) \(당신의 감성에 발라드, 려요\)
+> Mellow & sentimental K\-Pop ballads\. \(Cover: Kim Na Young\(김나영\)\) \(당신의 감성에 발라드, 려요\)
 
-521 songs - 1 day 9 hr 51 min - [published](https://open.spotify.com/playlist/50vXMaH1sm7s2jq2W5LswS)
+522 songs - 1 day 9 hr 55 min - [published](https://open.spotify.com/playlist/50vXMaH1sm7s2jq2W5LswS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [I Always](https://open.spotify.com/track/1BJreBKmf2Nub0GUEGjJZt) | [Daom](https://open.spotify.com/artist/4HFVHg6KImxQLlwzEm51Y8) | [I Always](https://open.spotify.com/album/07cZHZAiskC0qhPezOpvgH) | 3:52 | 2022-05-24 | 2022-06-06 |
 | [I Believe \(feat\. Kyung Dasom\)](https://open.spotify.com/track/4bEbIu0JUq8HFXbjIHq0gd) | [72](https://open.spotify.com/artist/1RafX0xTPAjBTAUEV4yOQI), [Kyung dasom](https://open.spotify.com/artist/6ye5C0aCtNApMSefJTzdj1) | [I Believe \(feat\. Kyung Dasom\)](https://open.spotify.com/album/4K7HK4wmjmPi3kJLDdWY0y) | 4:04 | 2022-03-24 | 2022-04-20 |
 | [I can't forget you](https://open.spotify.com/track/7K37ggTWKnAlZFVVmTIlzM) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [If You Wish Upon Me OST Part.3](https://open.spotify.com/album/3RWQFf7JlTLZZWG21CsJr9) | 3:38 | 2022-08-19 |  |
+| [I Can't Help It \(Prod\. Jungkey\)](https://open.spotify.com/track/60lbmSHbESKwdX4v43CxgV) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [I Can't Help It](https://open.spotify.com/album/1lLdKbEjOACowN4vRgseNd) | 3:44 | 2022-09-01 |  |
 | [I Count Three](https://open.spotify.com/track/5U9MJFoTMxxkUNeC7DGI4f) | [KCM](https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K) | [I Count Three](https://open.spotify.com/album/73SciIcxj2Y5Rv6wUjBdfE) | 5:40 | 2022-03-31 | 2022-04-13 |
 | [I didn't know back then](https://open.spotify.com/track/4bmeg9Q5PtrEfSjUPtN1xo) | [Song Pu Reum](https://open.spotify.com/artist/1d0t8x4bbcIX2p8Ew11zve) | [I didn't know back then](https://open.spotify.com/album/0AzjowvsTD4IoQMoXRyVa1) | 3:24 | 2022-08-01 |  |
 | [I Don't Deserve to Be Loved](https://open.spotify.com/track/2eI8WM0a0KLjQnWiyPMIic) | [Baek Grim](https://open.spotify.com/artist/6mVsxcJyevC8Aqe722CfFB) | [I Don't Deserve to Be Loved](https://open.spotify.com/album/7xUxFxbvpseFMhAQGSwmjE) | 3:45 | 2022-07-04 |  |

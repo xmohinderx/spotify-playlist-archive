@@ -2,9 +2,9 @@
 
 ### [Rock Español](https://open.spotify.com/playlist/37i9dQZF1DWUNNEvaozpW5)
 
-> Lo mejor del rock de aquí, como Jarabe de Palo.
+> Lo mejor del rock de aquí, como Estopa con Beret.
 
-166 songs - 11 hr 17 min - [published](https://open.spotify.com/playlist/4AGuLAzZtz0hNpibnA51bn)
+168 songs - 11 hr 24 min - [published](https://open.spotify.com/playlist/4AGuLAzZtz0hNpibnA51bn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,18 +41,19 @@
 | [Chiquilla](https://open.spotify.com/track/6kNYjCKdEqYEdHAbxV5v5K) | [Seguridad Social](https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B) | [30 años de musica en TVE\. 1980\-2010](https://open.spotify.com/album/54slzi9MghEZQcDfG4OaU6) | 3:07 | 2022-05-26 | 2022-07-29 |
 | [Cielo hermético](https://open.spotify.com/track/5aWREznXDTWJ046mUoT162) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Cielo hermético](https://open.spotify.com/album/33KEwlFbYi94OnXeDHruHl) | 3:59 | 2022-05-19 |  |
 | [Cien gaviotas](https://open.spotify.com/track/5i07tC6hV5AtYTr0tsP0Uy) | [Duncan Dhu](https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7) | [20 años de canciones](https://open.spotify.com/album/47xgtvfLA126uHFF1Hipi3) | 2:49 | 2022-05-19 | 2022-07-29 |
-| [Cigarrito](https://open.spotify.com/track/2Gt5oL4aEufZvJy9KjEkxi) | [Platero Y Tu](https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav) | [Correos](https://open.spotify.com/album/2CT7oREbwTDOSWIMjRCCaY) | 3:56 | 2022-08-18 |  |
+| [Cigarrito](https://open.spotify.com/track/2Gt5oL4aEufZvJy9KjEkxi) | [Platero Y Tu](https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav) | [Correos](https://open.spotify.com/album/2CT7oREbwTDOSWIMjRCCaY) | 3:56 | 2022-08-18 | 2022-09-02 |
 | [Como Camarón](https://open.spotify.com/track/3fpS8r0JsVTkCOLnq49lH6) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Esencial Estopa](https://open.spotify.com/album/6aYbP8x2bbGRP8Zd0XH4CK) | 3:23 | 2022-06-09 | 2022-07-29 |
 | [Como Si Fueras a Morir Mañana \- Madrid Nuclear \- En Directo](https://open.spotify.com/track/0KlA1SYsu8sPIFR2oi6iLw) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Como Si Fueras a Morir Mañana \(Madrid Nuclear \- En Directo\)](https://open.spotify.com/album/1Ouu5x4oKjFOqiR2zcWSc5) | 4:43 | 2022-05-19 | 2022-07-29 |
 | [Como un burro amarrado en la puerta del baile \- 2008 Remastered Version](https://open.spotify.com/track/0IUFjvwlh18TWiTi6kO5pP) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Las 101 canciones \- Cinco décadas de Pop Español](https://open.spotify.com/album/3v3s1YhnnWUkQnZMotDz5U) | 3:38 | 2022-05-19 | 2022-07-29 |
 | [Como un burro amarrado en la puerta del baile \- 2008 Remastered Version](https://open.spotify.com/track/6IMIx38wIqHoLTdGcBwyEC) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Las 100 mejores canciones del Pop Español, Vol\. 3](https://open.spotify.com/album/1gf951espzPzb9yxLsxP7T) | 3:38 | 2022-07-21 |  |
 | [Corazon de mimbre](https://open.spotify.com/track/6ScI1xf3RszISXvLGmitY3) | [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [Coces al Aire 1997\-2007](https://open.spotify.com/album/3mfnHHROaUAzdzmTZHI1YQ) | 5:37 | 2022-06-16 |  |
 | [Corazon de Tango](https://open.spotify.com/track/5Hep3JI0YhpNNpbcurrvSS) | [Doctor Deseo](https://open.spotify.com/artist/41h0P2FVHr6YTMfhjkrnhA) | [Fugitivos De Paraiso](https://open.spotify.com/album/07hX6jcfLjbSP2NtkpKRCk) | 3:51 | 2022-05-19 |  |
-| [Cruzando el paraíso](https://open.spotify.com/track/1i4IlPSIE1hDiAwVHyH2yp) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Balmoral](https://open.spotify.com/album/2KytedMiEQc7JbWZa2wTt7) | 4:58 | 2022-05-19 |  |
+| [Cruzando el paraíso](https://open.spotify.com/track/1i4IlPSIE1hDiAwVHyH2yp) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Balmoral](https://open.spotify.com/album/2KytedMiEQc7JbWZa2wTt7) | 4:58 | 2022-05-19 | 2022-09-02 |
 | [Cuando Brille el Sol](https://open.spotify.com/track/307jZeOmkkd7mKc7wgFglj) | [La Guardia](https://open.spotify.com/artist/5UYbCAN2H4Yr4f46tN5AeD) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 3:43 | 2022-05-26 |  |
 | [Dentro De La Ley](https://open.spotify.com/track/113AF9qdjqcBHaOABYca6S) | [Los Zigarros](https://open.spotify.com/artist/47U0TDHIE1H5t78HNVgR0M) | [A Todo Que Sí](https://open.spotify.com/album/7LXLPz8rJAGS1fxWVBSQjS) | 2:48 | 2022-05-19 | 2022-07-25 |
 | [Devil Came to Me](https://open.spotify.com/track/2Kmosqo7RmbvzziWLoy4gM) | [Dover](https://open.spotify.com/artist/5kdLOinhQnlSk4su7U6lyW) | [Devil Came to Me](https://open.spotify.com/album/31cccvot053zKCeLHnnic1) | 4:36 | 2022-07-21 |  |
 | [Devil Came To Me \- 2007 Remastered Version](https://open.spotify.com/track/7oycM5ZYxqampQrp1z5Zsk) | [Dover](https://open.spotify.com/artist/5kdLOinhQnlSk4su7U6lyW) | [2](https://open.spotify.com/album/1wDgA9FEC7ITE6OTbt6KOC) | 4:36 | 2022-05-26 | 2022-07-27 |
+| [Diablo](https://open.spotify.com/track/511ZMyXhrPlJvQSYtBWDy3) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl), [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Diablo](https://open.spotify.com/album/3r78Qu7OFZre4Otl5eVvz7) | 2:44 | 2022-09-01 |  |
 | [Dolores Se Llamaba Lola \- Remastered](https://open.spotify.com/track/2R8705oC8pTL8JwvpidmMT) | [Los Suaves](https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL) | [Ese Día Piensa en Mí \(Remastered\)](https://open.spotify.com/album/6RkLfsx8IskPcVGZybrd5y) | 5:09 | 2022-05-19 | 2022-07-29 |
 | [Dulce condena](https://open.spotify.com/track/1J2XL5ciqUgCQ92TmFDAAZ) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [¡Hasta luego!](https://open.spotify.com/album/26vh26M3hPs7BMelYSQ6iH) | 4:41 | 2022-05-19 | 2022-07-29 |
 | [Dulce condena](https://open.spotify.com/track/61X9MrPozPv0V0WbX9ACUX) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Sin Documentos](https://open.spotify.com/album/1o4bpii08vZJWZUAmn6H1t) | 4:41 | 2022-07-21 |  |
@@ -103,6 +104,7 @@
 | [Las Flores](https://open.spotify.com/track/2pgdMqyq3byWFb2BGHUq4c) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [Las Flores](https://open.spotify.com/album/7ErRhhztsuwfajD1Ad15a2) | 4:07 | 2022-05-19 | 2022-06-10 |
 | [Lo difícil](https://open.spotify.com/track/78Tr4OatbnIyx9cwGp5vp1) | [Arco](https://open.spotify.com/artist/3HdW1zs4IHQSFa3gebmlGY) | [Uno](https://open.spotify.com/album/2Qjd3FONI5uY8A8BW5XcDl) | 3:08 | 2022-05-19 | 2022-07-29 |
 | [Lo que nunca te dije](https://open.spotify.com/track/2usK8iQmaHhP8xK4MDEiGY) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [Lo que nunca te dije](https://open.spotify.com/album/4DeVzia799oFvKCOLdwKID) | 2:40 | 2022-08-25 |  |
+| [Lo Siento](https://open.spotify.com/track/2x61iZkbSjW76OX6PQleiX) | [Viva Suecia](https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC), [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Lo Siento](https://open.spotify.com/album/1G76m2bawyWMl7Rg1shAF6) | 3:48 | 2022-09-01 |  |
 | [Mala Vida](https://open.spotify.com/track/0UY0JLj9kxOlgF6FHogCmX) | [Mano Negra](https://open.spotify.com/artist/6jq7GptAwkoFiunDhZYqQ2) | [Patchanka](https://open.spotify.com/album/1i6RiKDCLS9KqgwfCQ1mRQ) | 2:54 | 2022-05-19 |  |
 | [Malas Noticias \(En Directo\)](https://open.spotify.com/track/0Z8d26MEynF542z5TIZGp7) | [Los Suaves](https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL), [Kutxi Romero](https://open.spotify.com/artist/3nFnQg8Kav6UMFFjQ1dspY) | [Malas Noticias \(En Directo\)](https://open.spotify.com/album/7rfiUVDE8q7b7YGbaVmjoY) | 3:24 | 2022-05-19 | 2022-06-17 |
 | [Manda Por Mí](https://open.spotify.com/track/5EzhL5zOgLLFx9Uo4YaG0t) | [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4) | [Mi Vida en Marte](https://open.spotify.com/album/6hOAD63p0gtDZ25wl7qGZ6) | 3:51 | 2022-05-19 | 2022-06-03 |

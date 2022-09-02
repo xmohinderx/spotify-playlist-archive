@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DSRR3tGze6.md) - [plain]
 
 > Let these Latin hits guide you through your daily commute!
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,471 likes - 90 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,519 likes - 90 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DSRR3tGze6.md) - [plain]
 | 18 | [Te Vi](https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Te Vi](https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5) | 3:51 |
 | 19 | [Si Estuviésemos Juntos](https://open.spotify.com/track/35wvL50xvKpCHEJPxLOLPI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 2:49 |
 | 20 | [MIA \(feat\. Drake\)](https://open.spotify.com/track/116H0KvKr2Zl4RPuVBruDO) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [MIA \(feat\. Drake\)](https://open.spotify.com/album/0p0W4RXcnc59jgatcdZozO) | 3:30 |
-| 21 | [Hawái](https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Hawái](https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm) | 3:20 |
-| 22 | [La Mitad](https://open.spotify.com/track/63Zaf8Rci6eOUPqDQ4fUFx) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 2:57 |
+| 21 | [La Mitad](https://open.spotify.com/track/63Zaf8Rci6eOUPqDQ4fUFx) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 2:57 |
+| 22 | [Hawái](https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Hawái](https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm) | 3:20 |
 | 23 | [Fiel](https://open.spotify.com/track/7Bk0uXKk1uPT0XuQbpFzvs) | [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Los Legendarios 001](https://open.spotify.com/album/7g5WqPI4CdA22Cy8LxRXCf) | 4:21 |
 | 24 | [Ella Quiere Beber \- Remix](https://open.spotify.com/track/3f5lA8nnc4YYF1qf78WpHw) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Ella Quiere Beber \(Remix\)](https://open.spotify.com/album/58NQUIHQRJnXyBUeGtG8KG) | 3:39 |
 | 25 | [Vienes](https://open.spotify.com/track/16UmAk18CfaF0nTzPwCRAA) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Luis Figueroa](https://open.spotify.com/album/3k3PwkOP7kThSg2iDxEHhE) | 3:09 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DSRR3tGze6.md) - [plain]
 | 89 | [La Difícil](https://open.spotify.com/track/0PaNKfwdqHjmW7hVEQ0lbu) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [La Difícil](https://open.spotify.com/album/6Pc3YAtxdkZba2tpmeXAXW) | 2:38 |
 | 90 | [De Pies A Cabeza](https://open.spotify.com/track/2CkHE54EH44Qj945ynQRw7) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [De Pies A Cabeza](https://open.spotify.com/album/6efrJuQzniYmb1SAuaKjTO) | 4:10 |
 
-Snapshot ID: `MTY2MDc1ODIxMCwwMDAwMDAwMDBiYmMyZDM1MmNkZTgwNDA3Y2ViNjk4MmVkM2U2Mzg2`
+Snapshot ID: `MTY2MDc1ODIxMCwwMDAwMDAwMDM2NGRhMDM3YzZiOWM2NWFjMzZjMTc5ZDIxMDY0MjI5`

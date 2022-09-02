@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 
 > Because bass\. Cover: Victor Wooten
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,182 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,233 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 | 16 | [Elephants On Ice Skates](https://open.spotify.com/track/0K6pSQ1hwpkIi73on3rqJ6) | [Brian Bromberg](https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h) | [It Is What It Is](https://open.spotify.com/album/2kN0INHqkk9rUUVgYJpbat) | 6:41 |
 | 17 | [A Dark Light](https://open.spotify.com/track/770BeHuLlFqz5Tdm4tSmib) | [Aram Bedrosian](https://open.spotify.com/artist/1QX9Z8FnNxYuUk4bAur1Ut) | [A Dark Light](https://open.spotify.com/album/4Awbl4MQAZnfdfKf98lpbn) | 2:39 |
 | 18 | [The Sniper](https://open.spotify.com/track/1v4zBLp1XPct1p0UBnabMK) | [Cristiano Parato](https://open.spotify.com/artist/0snU3Xa97Sq9l2RLuCdWIP), [Lele Melotti](https://open.spotify.com/artist/2LVUVfQksPpfSEcCvU8WaR), [Luca Scarpa](https://open.spotify.com/artist/4Q0nFR5UtI8s7hInvCdYRG) | [Still](https://open.spotify.com/album/2xGGVCtLjPF0C4JBhDFdVU) | 4:32 |
-| 19 | [Get Down On It](https://open.spotify.com/track/41BisXehQCshqh06t1is99) | [Wayman Tisdale](https://open.spotify.com/artist/3h25qUbua6H0dcBJgDPg5c) | [Way Up!](https://open.spotify.com/album/5vapjGGzuB67f9Ye1TBsHm) | 4:18 |
-| 20 | [Soldier of the Groove](https://open.spotify.com/track/71I9xt9tXZ5BM5S1j9WZ2b) | [Byron Miller](https://open.spotify.com/artist/7xIWaSpdL5oIEZw5QCZ84Y) | [The Gift Psychobass2](https://open.spotify.com/album/6uCTfpl8HRgQHkhQlcDOjf) | 4:00 |
+| 19 | [Soldier of the Groove](https://open.spotify.com/track/71I9xt9tXZ5BM5S1j9WZ2b) | [Byron Miller](https://open.spotify.com/artist/7xIWaSpdL5oIEZw5QCZ84Y) | [The Gift Psychobass2](https://open.spotify.com/album/6uCTfpl8HRgQHkhQlcDOjf) | 4:00 |
+| 20 | [Get Down On It](https://open.spotify.com/track/41BisXehQCshqh06t1is99) | [Wayman Tisdale](https://open.spotify.com/artist/3h25qUbua6H0dcBJgDPg5c) | [Way Up!](https://open.spotify.com/album/5vapjGGzuB67f9Ye1TBsHm) | 4:18 |
 | 21 | [BC](https://open.spotify.com/track/5z9YuyOeX4RPKk0dIAJWle) | [Tal Wilkenfeld](https://open.spotify.com/artist/3XzPQsdtlMMHxKERG8a1Bu) | [Transformation](https://open.spotify.com/album/07f02dGYUGK8zYZx9m1qcS) | 6:21 |
 | 22 | [Classical Thump](https://open.spotify.com/track/3l3lCbzWLXi9FS4tQ3HSzZ) | [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj) | [A Show of Hands 15](https://open.spotify.com/album/3TUlnfqz2PyHIzKdAjPwz2) | 4:39 |
 | 23 | [Beyond The Rift](https://open.spotify.com/track/64o9hhM3zNTVQpEnav9sib) | [Charles Berthoud](https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91) | [Fable](https://open.spotify.com/album/4PqhzQqYinxZBm6ZXB6pQk) | 2:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 | 49 | [F.U.NKWHY](https://open.spotify.com/track/08Xt9rwQXMqW2QF8ngLM8J) | [Ida Nielsen](https://open.spotify.com/artist/0LNUSuufEzNpI4nPIVThW3) | [Time 2 Stop Worrying \(Bout the Weird Stuff\)](https://open.spotify.com/album/4DrZmRj1deGY9MpW2dBjVJ) | 3:43 |
 | 50 | [Trust and Faith](https://open.spotify.com/track/7jiYIbR4hSHHZAsy58NpJ3) | [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz), [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [Trust and Faith](https://open.spotify.com/album/7MZNWYv9FVqPeJblodihlq) | 4:18 |
 
-Snapshot ID: `MTY0Njk3NDkyMCwwMDAwMDAwMDNmOTBhNjkwMWQ0ZWI5ZjMzMjM3YzlmZjZmZDg1NjRi`
+Snapshot ID: `MTY0Njk3NDkyMCwwMDAwMDAwMDYxMzQyMTAyZDFlNzkwNGU3MzQ1MzZhYWJjMDc0MmQ2`

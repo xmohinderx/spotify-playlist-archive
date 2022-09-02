@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZq91oLsHZvy.md) - [plain]
 
 > Run to indie and alternative hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,732 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,814 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZq91oLsHZvy.md) - [plain]
 | 47 | [Temple](https://open.spotify.com/track/30SjdIdTMhBSe33nFnBFkC) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Mechanical Bull \(Expanded Edition\)](https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v) | 4:10 |
 | 48 | [High And Low](https://open.spotify.com/track/2Q7PDjPz7h559wBF97lO07) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Two Vines](https://open.spotify.com/album/60pRr5JvZkU9XhHg2pBkRy) | 3:44 |
 | 49 | [Soundcheck](https://open.spotify.com/track/60W7Co2AoP5VVG5Gwu6p5P) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Ride](https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ) | 4:21 |
-| 50 | [There's A Reason Why \(I Never Returned Your Calls\)](https://open.spotify.com/track/5pVbLYTdihSKd8Kylfhwa7) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Cool Like You \(Deluxe\)](https://open.spotify.com/album/0yO5Mwu2oDdGbeRFpAaBGa) | 3:42 |
-| 51 | [This Song Is Not About A Girl](https://open.spotify.com/track/40H5MGB07FCEmrgHBlmLDU) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Lockjaw](https://open.spotify.com/album/4wngUMjPQwiOngxqKPuh5p) | 4:14 |
+| 50 | [This Song Is Not About A Girl](https://open.spotify.com/track/40H5MGB07FCEmrgHBlmLDU) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Lockjaw](https://open.spotify.com/album/4wngUMjPQwiOngxqKPuh5p) | 4:14 |
+| 51 | [There's A Reason Why \(I Never Returned Your Calls\)](https://open.spotify.com/track/5pVbLYTdihSKd8Kylfhwa7) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Cool Like You \(Deluxe\)](https://open.spotify.com/album/0yO5Mwu2oDdGbeRFpAaBGa) | 3:42 |
 | 52 | [She Moves In Her Own Way](https://open.spotify.com/track/2SGBEDwsOAOAHrrdAd304i) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz) | 2:49 |
 | 53 | [Pumpin Blood](https://open.spotify.com/track/7ti4qMC7xYQeh1uRzj5XuM) | [NONONO](https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb) | [We Are Only What We Feel](https://open.spotify.com/album/58z2Nvab8wcQNs0n4J3GNZ) | 3:29 |
 | 54 | [Oysters In My Pocket](https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Oysters In My Pocket](https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES) | 2:42 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZq91oLsHZvy.md) - [plain]
 | 64 | [Balance](https://open.spotify.com/track/5waH4K1bmTMlikre01uqKi) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [On the Water](https://open.spotify.com/album/6jP0e39bcK8jrfc1Tg0rVk) | 4:06 |
 | 65 | [Go](https://open.spotify.com/track/2GuXIMRlaxVLcU0a5jacHw) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:26 |
 | 66 | [The Wolf](https://open.spotify.com/track/2rS77EbhEs7Y2UZD8pWIPb) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind](https://open.spotify.com/album/7yVx5zJONB6MO8zL1jHN7i) | 3:41 |
-| 67 | [The Ghosts of Beverly Drive](https://open.spotify.com/track/6wNCdMW82LwJgFrnGqLhpJ) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Kintsugi](https://open.spotify.com/album/6BK3muExDOuk0VnyMn9NVw) | 4:03 |
-| 68 | [Flashlight](https://open.spotify.com/track/5VeX28xDZhSgs7NWIR1Owp) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [The Front Bottoms](https://open.spotify.com/album/5pCQUIEmbZveYwLmO3Iedv) | 4:57 |
+| 67 | [Flashlight](https://open.spotify.com/track/5VeX28xDZhSgs7NWIR1Owp) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [The Front Bottoms](https://open.spotify.com/album/5pCQUIEmbZveYwLmO3Iedv) | 4:57 |
+| 68 | [The Ghosts of Beverly Drive](https://open.spotify.com/track/6wNCdMW82LwJgFrnGqLhpJ) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Kintsugi](https://open.spotify.com/album/6BK3muExDOuk0VnyMn9NVw) | 4:03 |
 | 69 | [One Minute More](https://open.spotify.com/track/0NYLOvWtvJdyeceDD9R1Vw) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu), [Sebu Simonian](https://open.spotify.com/artist/2qNFFftPmkByIgN023GgLZ) | [In A Tidal Wave Of Mystery \(Deluxe Edition\)](https://open.spotify.com/album/3WrufJir7I61NkvkDwxero) | 3:22 |
 | 70 | [Go It Alone](https://open.spotify.com/track/7zeCIWu37bKFJuem8MTyM1) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Guero](https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT) | 4:08 |
 | 71 | [Gimme Twice](https://open.spotify.com/track/3DUBhiM44zetJNERX0n8Nk) | [The Royal Concept](https://open.spotify.com/artist/7LAucJAvbQa7ZIA0qP8YI2) | [Royal](https://open.spotify.com/album/4o7rdd2fYeSEXcTJLzpvsg) | 3:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZq91oLsHZvy.md) - [plain]
 | 99 | [Dirtball](https://open.spotify.com/track/2PUUFzVs8bjNrmoO12lskz) | [Modern Nun](https://open.spotify.com/artist/7A4YoJsZWQ3GRrHLGEmamb) | [Dirtball](https://open.spotify.com/album/1tiLz9mIQWcW801PJM0aD4) | 2:43 |
 | 100 | [Get Out](https://open.spotify.com/track/3TNz5pqBMHctxlb1fNU95G) | [Sam Vance\-Law](https://open.spotify.com/artist/2M5w5QrYTg2yiuURwaQLEF) | [Get Out / Been Drinking](https://open.spotify.com/album/343PAtpc7ORaevuOhtiT8I) | 3:32 |
 
-Snapshot ID: `MTY2MDY0NjA0OSwwMDAwMDAwMDI4YzM2NzI3ZjZiNWUwNGQ4NDVhODM5NGZmNGM2Yzg2`
+Snapshot ID: `MTY2MjAyMzMxOCwwMDAwMDAwMDEwOTQ3MGYxMjZlMWY2NmYyZGIzNTNkZjRmOTIyOWQ1`

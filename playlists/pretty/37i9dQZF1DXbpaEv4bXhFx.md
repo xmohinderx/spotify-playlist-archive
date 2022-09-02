@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 
 > 빗방울대신 감성을 맞는 시간.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,687 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,727 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,12 +23,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 | 13 | [WA\-R\-R](https://open.spotify.com/track/1ZEFYW6nPEvIcsIvymgsLk) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Love, Pt\. 1](https://open.spotify.com/album/5oA67QC0FjqXTSGy2kCSJp) | 4:32 |
 | 14 | [Walking In The Rain \(feat\. Younha\)](https://open.spotify.com/track/3cJ520R7Pwav2xrQUHCcZo) | [Chancellor](https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx), [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Chancellor](https://open.spotify.com/album/5Jw4ohSYaEuxyOeIOR47Hq) | 4:08 |
 | 15 | [When This Rain Stops](https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Like Water \- The 1st Mini Album](https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7) | 4:04 |
-| 16 | [Childhood](https://open.spotify.com/track/0YD0nPpSx4DSHoL1EGJ5Lj) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heart Burn](https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu) | 3:15 |
-| 17 | [On Rainy Days \(2021\)](https://open.spotify.com/track/4a0OYMqeBOGuzCPLg5SfWU) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [On Rainy Days \(2021\)](https://open.spotify.com/album/6KpcAZYdX5RrdXme2a12d8) | 3:50 |
+| 16 | [On Rainy Days \(2021\)](https://open.spotify.com/track/4a0OYMqeBOGuzCPLg5SfWU) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [On Rainy Days \(2021\)](https://open.spotify.com/album/6KpcAZYdX5RrdXme2a12d8) | 3:50 |
+| 17 | [Childhood](https://open.spotify.com/track/0YD0nPpSx4DSHoL1EGJ5Lj) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heart Burn](https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu) | 3:15 |
 | 18 | [overdose](https://open.spotify.com/track/3B4Rxj4UItYuHyppE8S0gU) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [overdose](https://open.spotify.com/album/7gWO40G0L1xaZ0wEmiLmr8) | 4:15 |
 | 19 | [Empty Cup](https://open.spotify.com/track/4YnVz2QRU6OnoJ8lt23QHM) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 2:19 |
-| 20 | [Night Poem](https://open.spotify.com/track/13NOcggiQ7sDxGxpRWUpLc) | [JungJaewon](https://open.spotify.com/artist/2r4wloPYiv4WEg1uGaGRLc) | [Night Poem](https://open.spotify.com/album/5mjKgtVWrCqyh3sRru9dgU) | 3:05 |
-| 21 | [Dingo X KIXO\(키조\) \- 이건내가처음쓰는사랑노래 \(feat\. BIG Naughty\)](https://open.spotify.com/track/1OPaYSgfVbdg4rCwNQMS2D) | [KIXO](https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Dingo X KIXO\(키조\) \- 이건내가처음쓰는사랑노래](https://open.spotify.com/album/2AkpFHwleXFawELoeu7kpa) | 3:29 |
+| 20 | [Dingo X KIXO\(키조\) \- 이건내가처음쓰는사랑노래 \(feat\. BIG Naughty\)](https://open.spotify.com/track/1OPaYSgfVbdg4rCwNQMS2D) | [KIXO](https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Dingo X KIXO\(키조\) \- 이건내가처음쓰는사랑노래](https://open.spotify.com/album/2AkpFHwleXFawELoeu7kpa) | 3:29 |
+| 21 | [Night Poem](https://open.spotify.com/track/13NOcggiQ7sDxGxpRWUpLc) | [JungJaewon](https://open.spotify.com/artist/2r4wloPYiv4WEg1uGaGRLc) | [Night Poem](https://open.spotify.com/album/5mjKgtVWrCqyh3sRru9dgU) | 3:05 |
 | 22 | [Distance \(Feat\. I.M of MONSTA X\)](https://open.spotify.com/track/2bfagt2SWQiC0IHhZgMSS7) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:11 |
 | 23 | [Syndrome](https://open.spotify.com/track/1hZ2dSvv2O6HQo6p3gDtVO) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [Syndrome](https://open.spotify.com/album/4YDtoADrhBQr4Epq57JRKX) | 3:41 |
 | 24 | [Gray So Gray \(Feat\. Younha\)](https://open.spotify.com/track/6A4iYPzPVM4OSjIMgxMYnY) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 4:12 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 | 44 | [babyblue](https://open.spotify.com/track/0n4dgPfvfdqrt2LwDytMrD) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [babyblue](https://open.spotify.com/album/76GB3RzVtNrBANCl9Cici4) | 3:48 |
 | 45 | [Not Bad \(feat\. Dawon\)](https://open.spotify.com/track/2NQJBaeX4YuZlQveSIRIyT) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [New Edition 41](https://open.spotify.com/album/3JhDyQCniCuttwqA9eFtUs) | 3:15 |
 | 46 | [Special](https://open.spotify.com/track/1udv7FVK3Jx7Q7ZR1miBwK) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [Chocolate, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/1cpAltXg2KRN7PCRSJCLtf) | 3:32 |
-| 47 | [Delete](https://open.spotify.com/track/48a0s6zGIkfbSBrt3k9uVC) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Delete](https://open.spotify.com/album/7taYu0eectJZcGNYXIF6R9) | 4:09 |
-| 48 | [MISSING U](https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SEOULITE](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | 4:08 |
-| 49 | [Lost Way](https://open.spotify.com/track/19h2GgTMiwp0pkcZoB0cZr) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Lost Way \(Good Doctor X Gaho\)](https://open.spotify.com/album/6dAFSut5NhJhMJcTyHzYEL) | 3:04 |
-| 50 | [When It Rains](https://open.spotify.com/track/47IzvV73meHMGPrEfwZUuT) | [WEN](https://open.spotify.com/artist/0FXbobEfUaIn6Z95FSJBIE) | [When It Rains](https://open.spotify.com/album/4wrbH5Mw71UDtdUnfJxJPJ) | 3:14 |
+| 47 | [MISSING U](https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SEOULITE](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | 4:08 |
+| 48 | [Lost Way](https://open.spotify.com/track/19h2GgTMiwp0pkcZoB0cZr) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Lost Way \(Good Doctor X Gaho\)](https://open.spotify.com/album/6dAFSut5NhJhMJcTyHzYEL) | 3:04 |
+| 49 | [When It Rains](https://open.spotify.com/track/47IzvV73meHMGPrEfwZUuT) | [WEN](https://open.spotify.com/artist/0FXbobEfUaIn6Z95FSJBIE) | [When It Rains](https://open.spotify.com/album/4wrbH5Mw71UDtdUnfJxJPJ) | 3:14 |
+| 50 | [Delete](https://open.spotify.com/track/48a0s6zGIkfbSBrt3k9uVC) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Delete](https://open.spotify.com/album/7taYu0eectJZcGNYXIF6R9) | 4:09 |
 
-Snapshot ID: `MTY2MDg5NDk0NiwwMDAwMDAwMDBiZTJlM2ZiZTQ2NTBmYTI0YWE3YjgzYzVhZWIzNjY2`
+Snapshot ID: `MTY2MDg5NDk0NiwwMDAwMDAwMGE3ZTZkNzAxODExNGZjYzQ4NWY0NmVkZWY3ZWU2ZTA5`

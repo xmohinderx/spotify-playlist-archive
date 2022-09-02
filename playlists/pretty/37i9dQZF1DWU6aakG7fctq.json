@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin Indie. Cover: Dannylux",
-  "num_followers": 501778,
+  "num_followers": 501821,
   "original_name": "el nuevo indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTYwMCwwMDAwMDAwMDA3YWIxZmU2NDgyYzg1ZmU2NGRlZThiM2IzNTQ1MzQ1",
+  "snapshot_id": "MTY2MDg4MTYwMCwwMDAwMDAwMGQ1NzAyNTdiMGJhYjI5MWU4NmMwMjI3OWFkZDkzNTQy",
   "tracks": [
     {
       "added_at": "2022-08-19 04:00:00",
@@ -507,6 +507,22 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
+        "name": "Delorean",
+        "url": "https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t"
+      },
+      "artists": [
+        {
+          "name": "Mi$HNRZ",
+          "url": "https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "Delorean",
+      "url": "https://open.spotify.com/track/2jiVXTu5brRC5HWo47obWP"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
         "name": "Paranoia Pop",
         "url": "https://open.spotify.com/album/6C64Uw0fiwqH3aUPZr9Hsv"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 232226,
       "name": "Paranoia Pop",
       "url": "https://open.spotify.com/track/5BOg9CZMk1nWNMkklZ0Boy"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Delorean",
-        "url": "https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t"
-      },
-      "artists": [
-        {
-          "name": "Mi$HNRZ",
-          "url": "https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C"
-        }
-      ],
-      "duration_ms": 188400,
-      "name": "Delorean",
-      "url": "https://open.spotify.com/track/2jiVXTu5brRC5HWo47obWP"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Querer Querer",
-        "url": "https://open.spotify.com/album/60DFkAltGtzAmoSgfyU9J3"
-      },
-      "artists": [
-        {
-          "name": "Technicolor Fabrics",
-          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
-        }
-      ],
-      "duration_ms": 183609,
-      "name": "Nunca Es Tarde",
-      "url": "https://open.spotify.com/track/4FHBc6Z61kNSrXVYFYDEwb"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Se Acaba Todo",
         "url": "https://open.spotify.com/album/3rYMUeFGP3oUm4xfPWyugB"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 196133,
       "name": "Se Acaba Todo",
       "url": "https://open.spotify.com/track/0uvY2zXHjplNTvfZMFXMYH"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Querer Querer",
+        "url": "https://open.spotify.com/album/60DFkAltGtzAmoSgfyU9J3"
+      },
+      "artists": [
+        {
+          "name": "Technicolor Fabrics",
+          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
+        }
+      ],
+      "duration_ms": 183609,
+      "name": "Nunca Es Tarde",
+      "url": "https://open.spotify.com/track/4FHBc6Z61kNSrXVYFYDEwb"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -691,18 +691,18 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Oscuridad",
-        "url": "https://open.spotify.com/album/1ArGHztaWAQKgVKivQdAyG"
+        "name": "Puente",
+        "url": "https://open.spotify.com/album/3fFFuFzU8vpMbOhxDVCzBj"
       },
       "artists": [
         {
-          "name": "Jasper",
-          "url": "https://open.spotify.com/artist/5H9fLAWx4MHfn3fHeczaAm"
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
         }
       ],
-      "duration_ms": 209966,
-      "name": "Oscuridad",
-      "url": "https://open.spotify.com/track/5i9XNqv8ay4PXRBNxfwdfZ"
+      "duration_ms": 180746,
+      "name": "Puente",
+      "url": "https://open.spotify.com/track/1KmEEVfPbIfOqXdVxr8gm2"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -723,18 +723,18 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Puente",
-        "url": "https://open.spotify.com/album/3fFFuFzU8vpMbOhxDVCzBj"
+        "name": "Oscuridad",
+        "url": "https://open.spotify.com/album/1ArGHztaWAQKgVKivQdAyG"
       },
       "artists": [
         {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+          "name": "Jasper",
+          "url": "https://open.spotify.com/artist/5H9fLAWx4MHfn3fHeczaAm"
         }
       ],
-      "duration_ms": 180746,
-      "name": "Puente",
-      "url": "https://open.spotify.com/track/1KmEEVfPbIfOqXdVxr8gm2"
+      "duration_ms": 209966,
+      "name": "Oscuridad",
+      "url": "https://open.spotify.com/track/5i9XNqv8ay4PXRBNxfwdfZ"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -959,6 +959,22 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
+        "name": "Que Sufras",
+        "url": "https://open.spotify.com/album/6ZTX8KAuiTD0Tmsk7XhpTu"
+      },
+      "artists": [
+        {
+          "name": "Doris Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0Tubiaojq0PHvZahvXl1ju"
+        }
+      ],
+      "duration_ms": 282069,
+      "name": "Que Sufras",
+      "url": "https://open.spotify.com/track/3ClYHSbumdpBbVAz8yYU9E"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
         "name": "Volver a Comenzar",
         "url": "https://open.spotify.com/album/03RbdxiAdZEVBelOjPKZJp"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 163200,
       "name": "LA MOLINA",
       "url": "https://open.spotify.com/track/0GZDERiGPr1F3SRs4l7muB"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Que Sufras",
-        "url": "https://open.spotify.com/album/6ZTX8KAuiTD0Tmsk7XhpTu"
-      },
-      "artists": [
-        {
-          "name": "Doris Anah\u00ed",
-          "url": "https://open.spotify.com/artist/0Tubiaojq0PHvZahvXl1ju"
-        }
-      ],
-      "duration_ms": 282069,
-      "name": "Que Sufras",
-      "url": "https://open.spotify.com/track/3ClYHSbumdpBbVAz8yYU9E"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "\u00a1p\u00e1rate!",
-        "url": "https://open.spotify.com/album/6p5taDuRLjQIl3XD1eD2MP"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 153189,
-      "name": "\u00a1p\u00e1rate!",
-      "url": "https://open.spotify.com/track/6UbrU43q0ECnVSrSGwNOCb"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/519wEU7Sp6ZoypwPArhgny"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 189600,
       "name": "Home",
       "url": "https://open.spotify.com/track/1Mr9Uiv2AFiiqmKWOpzXjW"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "\u00a1p\u00e1rate!",
+        "url": "https://open.spotify.com/album/6p5taDuRLjQIl3XD1eD2MP"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 153189,
+      "name": "\u00a1p\u00e1rate!",
+      "url": "https://open.spotify.com/track/6UbrU43q0ECnVSrSGwNOCb"
     },
     {
       "added_at": "2022-08-19 04:00:00",

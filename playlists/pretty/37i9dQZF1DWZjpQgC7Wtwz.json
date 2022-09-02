@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Hay tamales! \u00a1Tamales calientitos! De dulce, verde, rojo, mole y hasta oaxaque\u00f1os. ",
-  "num_followers": 41517,
+  "num_followers": 41630,
   "original_name": "La Tamalera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzc0MTE5NywwMDAwMDAwMGNkOTczYmI2MjI4M2NkNzE2YjMwNjc5NTQzMGQ2OTEy",
+  "snapshot_id": "MTY0Mzc0MTE5NywwMDAwMDAwMDU5OGU5Y2U3NGUyYWM4ZmRkNjhmMTNhNDhmYjU3MTE0",
   "tracks": [
     {
       "added_at": "2021-11-30 20:14:28",
@@ -43,22 +43,6 @@
     {
       "added_at": "2021-11-30 20:14:28",
       "album": {
-        "name": "Sue\u00f1o Y Realidad",
-        "url": "https://open.spotify.com/album/3jVJ1fTyUxYdpzb8Pt9V6U"
-      },
-      "artists": [
-        {
-          "name": "Grupo Mojado",
-          "url": "https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7"
-        }
-      ],
-      "duration_ms": 177040,
-      "name": "Piensa En M\u00ed",
-      "url": "https://open.spotify.com/track/1xKP7GVLY33i5jmx1bB1Kk"
-    },
-    {
-      "added_at": "2021-11-30 20:14:28",
-      "album": {
         "name": "Visperas De Carnaval",
         "url": "https://open.spotify.com/album/4vIw5XspQuPt04VHX5oK5W"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 191560,
       "name": "Para No Verte M\u00e1s",
       "url": "https://open.spotify.com/track/19CmuECYssqkPWANF4nLWM"
+    },
+    {
+      "added_at": "2021-11-30 20:14:28",
+      "album": {
+        "name": "Sue\u00f1o Y Realidad",
+        "url": "https://open.spotify.com/album/3jVJ1fTyUxYdpzb8Pt9V6U"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mojado",
+          "url": "https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7"
+        }
+      ],
+      "duration_ms": 177040,
+      "name": "Piensa En M\u00ed",
+      "url": "https://open.spotify.com/track/1xKP7GVLY33i5jmx1bB1Kk"
     },
     {
       "added_at": "2021-11-30 20:14:28",
@@ -599,6 +599,22 @@
     {
       "added_at": "2021-11-30 20:14:28",
       "album": {
+        "name": "Mystic Love",
+        "url": "https://open.spotify.com/album/3yUzbMVyjAV7oU7G42rPUa"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "Pupilas Lejanas",
+      "url": "https://open.spotify.com/track/4k3K6Ke6KfAWb7zyQWrTEA"
+    },
+    {
+      "added_at": "2021-11-30 20:14:28",
+      "album": {
         "name": "En Vivo en el Palacio de los Deportes - 25 Aniversario",
         "url": "https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 234985,
       "name": "No Me Importa el Dinero (feat. Julieta Venegas) - Vivo en el Palacio de los Deportes",
       "url": "https://open.spotify.com/track/4wXjnoLIMTninCnKRgGsQc"
-    },
-    {
-      "added_at": "2021-11-30 20:14:28",
-      "album": {
-        "name": "Mystic Love",
-        "url": "https://open.spotify.com/album/3yUzbMVyjAV7oU7G42rPUa"
-      },
-      "artists": [
-        {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        }
-      ],
-      "duration_ms": 235200,
-      "name": "Pupilas Lejanas",
-      "url": "https://open.spotify.com/track/4k3K6Ke6KfAWb7zyQWrTEA"
     },
     {
       "added_at": "2021-11-30 20:14:28",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2021-11-30 20:14:28",
       "album": {
-        "name": "Soy El Aventurero",
-        "url": "https://open.spotify.com/album/7rVVL3koiagqhD3yMYpAQy"
-      },
-      "artists": [
-        {
-          "name": "Los Felinos",
-          "url": "https://open.spotify.com/artist/6RVdNANISrVp76M0Wjy4hX"
-        }
-      ],
-      "duration_ms": 186247,
-      "name": "Yo Quiero Quebrarte",
-      "url": "https://open.spotify.com/track/0Byi0pNpSr0FKDQ8HtMwKY"
-    },
-    {
-      "added_at": "2021-11-30 20:14:28",
-      "album": {
         "name": "La Invasion De Los Blatidos",
         "url": "https://open.spotify.com/album/7ob1QWWWDWYkpewkCuYKEE"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 240973,
       "name": "El Son del Dolor",
       "url": "https://open.spotify.com/track/6Sg8HCDhEX0IL7My2HjS6H"
+    },
+    {
+      "added_at": "2021-11-30 20:14:28",
+      "album": {
+        "name": "Soy El Aventurero",
+        "url": "https://open.spotify.com/album/7rVVL3koiagqhD3yMYpAQy"
+      },
+      "artists": [
+        {
+          "name": "Los Felinos",
+          "url": "https://open.spotify.com/artist/6RVdNANISrVp76M0Wjy4hX"
+        }
+      ],
+      "duration_ms": 186247,
+      "name": "Yo Quiero Quebrarte",
+      "url": "https://open.spotify.com/track/0Byi0pNpSr0FKDQ8HtMwKY"
     },
     {
       "added_at": "2021-11-30 20:14:28",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2021-11-30 20:14:28",
       "album": {
-        "name": "El Circo",
-        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
-      },
-      "artists": [
-        {
-          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
-          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
-        }
-      ],
-      "duration_ms": 194200,
-      "name": "Pachuco",
-      "url": "https://open.spotify.com/track/5ovYwJmYcFvSvn6nRQOPyL"
-    },
-    {
-      "added_at": "2021-11-30 20:14:28",
-      "album": {
         "name": "Re",
         "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 308040,
       "name": "El baile y el sal\u00f3n",
       "url": "https://open.spotify.com/track/63QpuNHIZ8APaK37LkV8Xd"
+    },
+    {
+      "added_at": "2021-11-30 20:14:28",
+      "album": {
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
+      },
+      "artists": [
+        {
+          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+        }
+      ],
+      "duration_ms": 194200,
+      "name": "Pachuco",
+      "url": "https://open.spotify.com/track/5ovYwJmYcFvSvn6nRQOPyL"
     },
     {
       "added_at": "2021-11-30 20:14:28",

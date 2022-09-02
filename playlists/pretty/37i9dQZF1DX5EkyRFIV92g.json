@@ -1,12 +1,12 @@
 {
   "description": "This is Kendrick Lamar. Essential tracks all in one playlist. ",
-  "num_followers": 1137115,
+  "num_followers": 1137120,
   "original_name": "This Is Kendrick Lamar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQxNDUyMCwwMDAwMDAwMDBlOTdjOTJhYmVmMDcwNmY4Y2JlNTdhOWFjOWNlNTk5",
+  "snapshot_id": "MTY1MjQxNDUyMCwwMDAwMDAwMDI3MTcxYTBjMmNlZWRiNDc3ZmRmNjI2ZmY3NDk2ZThh",
   "tracks": [
     {
       "added_at": "2022-05-13 04:02:00",
@@ -1051,18 +1051,22 @@
     {
       "added_at": "2018-02-19 04:02:53",
       "album": {
-        "name": "Hood Gone Love It",
-        "url": "https://open.spotify.com/album/4w9lrUz2Vgz7mZPGxc9qzs"
+        "name": "Follow Me Home",
+        "url": "https://open.spotify.com/album/6bPbKuFNW6Vausf1PExvd9"
       },
       "artists": [
         {
-          "name": "muqzy",
-          "url": "https://open.spotify.com/artist/1mO8Q2bLXCFlFvyeGdnef9"
+          "name": "Jay Rock",
+          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 245516,
-      "name": "Hood Gone Love It",
-      "url": "https://open.spotify.com/track/6usIgzctskoOR0JeM3fkSI"
+      "duration_ms": 245466,
+      "name": "Hood Gone Love It (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/6i6cWTCYBOKEdJnWjzm2yk"
     },
     {
       "added_at": "2018-02-19 04:02:53",

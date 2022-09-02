@@ -4,7 +4,7 @@
 
 > Four to the floor with your disco queens and kings\. Cover: Sylvester
 
-77 songs - 6 hr 27 min - [published](https://open.spotify.com/playlist/3W1OXCv2wCUeYUG2uyRNKn)
+78 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/3W1OXCv2wCUeYUG2uyRNKn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Burn Rubber On Me \(Why You Wanna Hurt Me\)](https://open.spotify.com/track/4TgwFdlZfFzofbVA4W5QrZ) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [True Funk \[3 CD Set\]](https://open.spotify.com/album/6YQxPRto33Zn2SpzIFIobt) | 3:59 | 2021-06-01 | 2022-07-29 |
 | [Burn Rubber On Me \(Why You Wanna Hurt Me\)](https://open.spotify.com/track/32YzjV133gteg9LMBGO2OA) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [Greatest Hits](https://open.spotify.com/album/7eETefYwTFRG3I1tw3fMi4) | 4:12 | 2022-05-31 |  |
 | [Car Wash](https://open.spotify.com/track/1tJtx09XQnxaynZLOaTNfZ) | [Rose Royce](https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO) | [Car Wash](https://open.spotify.com/album/0MRZwmzgulNr9oSGomArxL) | 5:12 | 2021-06-01 |  |
-| [Disco Inferno \- Single Edit](https://open.spotify.com/track/22ff60cZy4APp7bzESHLR8) | [The Trammps](https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK) | [Rhino Hi\-Five: The Trammps](https://open.spotify.com/album/6eAq1OY2L1F3qleomkvtX7) | 3:11 | 2021-06-01 |  |
+| [Disco Inferno](https://open.spotify.com/track/7bET0DUAs59D6BsbdTqXuw) | [The Trammps](https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK) | [The Trammps](https://open.spotify.com/album/0ul2B7WEJ43BP66ib1z9en) | 3:38 | 2022-05-31 |  |
+| [Disco Inferno \- Single Edit](https://open.spotify.com/track/22ff60cZy4APp7bzESHLR8) | [The Trammps](https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK) | [Rhino Hi\-Five: The Trammps](https://open.spotify.com/album/6eAq1OY2L1F3qleomkvtX7) | 3:11 | 2021-06-01 | 2022-09-02 |
 | [Everybody Dance \- 12" Mix](https://open.spotify.com/track/0LqPXq2pKXnydc96PvTK3v) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Dance, Dance, Dance: The Best of Chic](https://open.spotify.com/album/0XRRSLnVrtXMI6cyVCacjd) | 8:27 | 2021-06-01 |  |
 | [Feels Like I'm in Love](https://open.spotify.com/track/3Swc1delyFn1fwPDkInUhC) | [Kelly Marie](https://open.spotify.com/artist/5lD4NOWjS7yf69zIK46Chy) | [Feels Like I'm in Love](https://open.spotify.com/album/2Qg2gDjtzgtCVcokMRS7Wv) | 4:16 | 2022-05-31 |  |
 | [Feels Like I'm In Love \- Original Radio Mix](https://open.spotify.com/track/0MF3XV3L0oGokmU8qxYMba) | [Kelly Marie](https://open.spotify.com/artist/5lD4NOWjS7yf69zIK46Chy) | [Disco Funk Dancefloor](https://open.spotify.com/album/4fu0SxgVPem0Np43iLEPWN) | 4:20 | 2021-06-01 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXn51Tv3nWo.md) - [plain]
 
 > Let your hair down and dance along to music from the Trolls movies!
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,254 likes - 76 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,164 likes - 76 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXn51Tv3nWo.md) - [plain]
 | 26 | [Girls Just Want to Have Fun](https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual](https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0) | 3:58 |
 | 27 | [The Sound Of Silence](https://open.spotify.com/track/75e1EYhLzB3mQZQBcRmklN) | [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS) | [TROLLS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7) | 0:48 |
 | 28 | [Signed, Sealed, Delivered \(I'm Yours\)](https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Signed, Sealed And Delivered](https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO) | 2:41 |
-| 29 | [Groove Is in the Heart](https://open.spotify.com/track/2UVLuddklEVak5PXgC7baA) | [Deee\-Lite](https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5) | [Rhino Hi\-Five: Deee\-Lite](https://open.spotify.com/album/5ONmarDtpkKbrlhu0p83XM) | 3:51 |
+| 29 | [Groove Is in the Heart](https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb) | [Deee\-Lite](https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5) | [World Clique](https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh) | 3:51 |
 | 30 | [Leaving Lonesome Flats](https://open.spotify.com/track/635voGfgpgAlUvsOrCkqcw) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [TROLLS World Tour \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8) | 3:06 |
 | 31 | [September](https://open.spotify.com/track/7Cuk8jsPPoNYQWXK9XRFvG) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [September](https://open.spotify.com/album/4MgtwNYjD89Oj2km6eFRYd) | 3:35 |
 | 32 | [Born to Die](https://open.spotify.com/track/5Y5b0wokJqZxaefDVRm43v) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [TROLLS World Tour \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8) | 3:25 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXn51Tv3nWo.md) - [plain]
 | 75 | [The Winners](https://open.spotify.com/track/6PlS2xYXVatiJ1sQzG854u) | [Poppy](https://open.spotify.com/artist/6Qz2gLHNk9JULr7HzsEBDg) | [DreamWorks Trolls \- The Beat Goes On!](https://open.spotify.com/album/1zw9LWtiAU1UiZW2D2RyVX) | 2:22 |
 | 76 | [Forgive Me \- Remix](https://open.spotify.com/track/4rm2TLgVLa9zPgTbLcDNW0) | [Branch](https://open.spotify.com/artist/1cpn7jBL4ELqWrJDtC98k5) | [DreamWorks Trolls \- The Beat Goes On!](https://open.spotify.com/album/1zw9LWtiAU1UiZW2D2RyVX) | 2:22 |
 
-Snapshot ID: `MTYzNzkxNzIwMCwwMDAwMDAwMDRiNDZjODliOTQxMTA3MmU3MDRlNWY5YTI3ZWZlYmYy`
+Snapshot ID: `MTYzNzkxNzIwMCwwMDAwMDAwMDc1OGE5ZGI1ODk1YmYzZDMxOTVkYzc2MjUyMWU0YmEz`

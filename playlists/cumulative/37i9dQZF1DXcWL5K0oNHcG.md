@@ -4,7 +4,7 @@
 
 > Fresh jazz by independent artists every Wednesday\. Cover: J\. White Artwork: Joy Yamusangie
 
-737 songs - 2 day 11 hr 39 min - [published](https://open.spotify.com/playlist/0wb3k7kBCUHVvVA8CRqr8x)
+738 songs - 2 day 11 hr 46 min - [published](https://open.spotify.com/playlist/0wb3k7kBCUHVvVA8CRqr8x)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Distant Episode](https://open.spotify.com/track/3rdDigElBsm9QnyrlfS3KK) | [Ghost Trees](https://open.spotify.com/artist/5sdb3umDaSEjRaupaSyHj7) | [Universal Topics](https://open.spotify.com/album/34ypgxgGStEBk8WERZdgyO) | 3:57 | 2022-01-19 | 2022-01-27 |
 | [Djakarta](https://open.spotify.com/track/26WxTHGDBvdDMqJyzAG9x0) | [VENTILATEUR](https://open.spotify.com/artist/1ysLLF8knGo0MnhPn1bDaf) | [Hoofdplaat](https://open.spotify.com/album/2KsocMLXBtRrDTG2WI3gbz) | 4:16 | 2022-04-06 | 2022-05-05 |
 | [Do It Baby \- Single ver.](https://open.spotify.com/track/2b3q7ga3wdlzukVzc8Bx73) | [T\-GROOVE & GEORGE KANO EXPERIENCE](https://open.spotify.com/artist/1Afm2ZSmz3Vuof17bZeW25), [T\-Groove](https://open.spotify.com/artist/2Ky7DbgmIlA47OpDx5KzNt), [George Kano](https://open.spotify.com/artist/61JGbYJB0nxcUcdy0nex6U), [George Kano Experience](https://open.spotify.com/artist/2LOaFRYsMKI9JAOs5izXJz), [Swing\-O](https://open.spotify.com/artist/6jLR9ALaD18m7Y3Tjj4qMU) | [Do It Baby](https://open.spotify.com/album/0x2tWTyjeTl3ohYlIKnwq2) | 3:41 | 2022-05-18 | 2022-06-16 |
+| [Dolmus Havasi](https://open.spotify.com/track/6bVsRz4nsqsFf2SGZ92SS4) | [Gijs Levelt Spoken Quartet](https://open.spotify.com/artist/6d9jt84PyB3w2OFrGrDg9T), [Gijs Levelt](https://open.spotify.com/artist/5nLTrxd6gjY7MIfIoT9gM0) | [Dolmus Havasi](https://open.spotify.com/album/6wzmHIzFi2scSVKhU0MHml) | 7:17 | 2022-08-31 |  |
 | [Don't](https://open.spotify.com/track/5IWUCCibOBMdSa9expuO7C) | [Lily Lyons](https://open.spotify.com/artist/5YKAGYFz84gLEI7rAFpIpX) | [Don't](https://open.spotify.com/album/1QlfcmVKPbg1b9h5oQwLHA) | 3:45 | 2022-08-03 |  |
 | [don't sleep in the library of the universe](https://open.spotify.com/track/0ZuBcK5jC7rGwA6lSQ7dPw) | [cosmic collective](https://open.spotify.com/artist/6ereX9sq3PEIBLASJA8YEW) | [gaslight EP](https://open.spotify.com/album/0VO0XAHE0SUQyoFTllALAp) | 5:12 | 2022-06-15 | 2022-07-14 |
 | [Double Lift](https://open.spotify.com/track/1h36Zfam7ws8LNH31RSucf) | [Gábor Horváth Trio](https://open.spotify.com/artist/5Fy2g8vJ2KNZflNw4PFQ4O) | [Tricks](https://open.spotify.com/album/5N0DFqyP8mvKY6WvX5r85t) | 7:01 | 2022-04-20 | 2022-05-19 |

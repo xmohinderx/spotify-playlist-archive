@@ -1,12 +1,12 @@
 {
   "description": "Fresh releases from Latin independent artists and labels. Lanzamientos frescos de artistas y sellos latinxs independientes. LA LOU on cover.",
-  "num_followers": 166332,
+  "num_followers": 166352,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk2MTYwMCwwMDAwMDAwMDhjMTlmZGUwNzgxMzcyNTU0M2JlYjMxOGRhNmQzMzIx",
+  "snapshot_id": "MTY2MTk2MTYwMCwwMDAwMDAwMGY0OTY5MzYwMDU3NDZlOWY4ZjM3NmQ0ZDU0N2JmYTYy",
   "tracks": [
     {
       "added_at": "2022-08-31 16:00:00",
@@ -167,6 +167,30 @@
     {
       "added_at": "2022-08-31 16:00:00",
       "album": {
+        "name": "El Fin de la Ruina",
+        "url": "https://open.spotify.com/album/5bgkbPMldGFM9KmAueXhGr"
+      },
+      "artists": [
+        {
+          "name": "Sokez",
+          "url": "https://open.spotify.com/artist/2VI54EXTSgdz7ZLwPJczyD"
+        },
+        {
+          "name": "Hide Tyson",
+          "url": "https://open.spotify.com/artist/4FXH0HxyYY09aXRNyTyOnT"
+        },
+        {
+          "name": "Trozos DE Groove",
+          "url": "https://open.spotify.com/artist/3B9vmXcXTtBwnUtDr4fCBP"
+        }
+      ],
+      "duration_ms": 134574,
+      "name": "El Fin de la Ruina",
+      "url": "https://open.spotify.com/track/4tGd9SsVg2XnEFRVO054I9"
+    },
+    {
+      "added_at": "2022-08-31 16:00:00",
+      "album": {
         "name": "Facil",
         "url": "https://open.spotify.com/album/3AMtf4N4RRR5s3m9zvMKCO"
       },
@@ -199,30 +223,6 @@
     {
       "added_at": "2022-08-31 16:00:00",
       "album": {
-        "name": "El Fin de la Ruina",
-        "url": "https://open.spotify.com/album/5bgkbPMldGFM9KmAueXhGr"
-      },
-      "artists": [
-        {
-          "name": "Sokez",
-          "url": "https://open.spotify.com/artist/2VI54EXTSgdz7ZLwPJczyD"
-        },
-        {
-          "name": "Hide Tyson",
-          "url": "https://open.spotify.com/artist/4FXH0HxyYY09aXRNyTyOnT"
-        },
-        {
-          "name": "Trozos DE Groove",
-          "url": "https://open.spotify.com/artist/3B9vmXcXTtBwnUtDr4fCBP"
-        }
-      ],
-      "duration_ms": 134574,
-      "name": "El Fin de la Ruina",
-      "url": "https://open.spotify.com/track/4tGd9SsVg2XnEFRVO054I9"
-    },
-    {
-      "added_at": "2022-08-31 16:00:00",
-      "album": {
         "name": "Todos los males del mundo",
         "url": "https://open.spotify.com/album/7IuScTr4oggpnAse4t8G4m"
       },
@@ -243,6 +243,22 @@
       "duration_ms": 176365,
       "name": "Todos los males del mundo",
       "url": "https://open.spotify.com/track/2lfWlv2m3SNVwXU3byZYbs"
+    },
+    {
+      "added_at": "2022-08-31 16:00:00",
+      "album": {
+        "name": "El Arte",
+        "url": "https://open.spotify.com/album/7Kd3CRCPa6FCjs5ldqCqxQ"
+      },
+      "artists": [
+        {
+          "name": "Laura P\u00e9rez",
+          "url": "https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58"
+        }
+      ],
+      "duration_ms": 205623,
+      "name": "El Arte",
+      "url": "https://open.spotify.com/track/0UMKCGCVxwVQbAHOC6NWZ0"
     },
     {
       "added_at": "2022-08-31 16:00:00",
@@ -275,22 +291,6 @@
       "duration_ms": 184033,
       "name": "Huracan",
       "url": "https://open.spotify.com/track/3qJ26P2dLkSp5PxxGWVKBF"
-    },
-    {
-      "added_at": "2022-08-31 16:00:00",
-      "album": {
-        "name": "El Arte",
-        "url": "https://open.spotify.com/album/7Kd3CRCPa6FCjs5ldqCqxQ"
-      },
-      "artists": [
-        {
-          "name": "Laura P\u00e9rez",
-          "url": "https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58"
-        }
-      ],
-      "duration_ms": 205623,
-      "name": "El Arte",
-      "url": "https://open.spotify.com/track/0UMKCGCVxwVQbAHOC6NWZ0"
     },
     {
       "added_at": "2022-08-31 16:00:00",
@@ -331,6 +331,22 @@
     {
       "added_at": "2022-08-31 16:00:00",
       "album": {
+        "name": "En El Palacio de Las Almas",
+        "url": "https://open.spotify.com/album/4XsbM55fQ2RpOriLDQZJtI"
+      },
+      "artists": [
+        {
+          "name": "Alejo y Valentin",
+          "url": "https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum"
+        }
+      ],
+      "duration_ms": 243934,
+      "name": "Nudos",
+      "url": "https://open.spotify.com/track/2xbzDOzq3F9WnbHrgDhixH"
+    },
+    {
+      "added_at": "2022-08-31 16:00:00",
+      "album": {
         "name": "La Soledad de los N\u00fameros Primos",
         "url": "https://open.spotify.com/album/174x34bB5RPR4gcT4eCudy"
       },
@@ -367,54 +383,6 @@
     {
       "added_at": "2022-08-31 16:00:00",
       "album": {
-        "name": "En El Palacio de Las Almas",
-        "url": "https://open.spotify.com/album/4XsbM55fQ2RpOriLDQZJtI"
-      },
-      "artists": [
-        {
-          "name": "Alejo y Valentin",
-          "url": "https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum"
-        }
-      ],
-      "duration_ms": 243934,
-      "name": "Nudos",
-      "url": "https://open.spotify.com/track/2xbzDOzq3F9WnbHrgDhixH"
-    },
-    {
-      "added_at": "2022-08-31 16:00:00",
-      "album": {
-        "name": "Mu\u00f1eca (Sin Pilas Incluidas)",
-        "url": "https://open.spotify.com/album/5f8tUSpNqjENnKf3oKIGMU"
-      },
-      "artists": [
-        {
-          "name": "ADRIANAH",
-          "url": "https://open.spotify.com/artist/4qqpXhZ0OApTtS6cOOaPHn"
-        }
-      ],
-      "duration_ms": 209473,
-      "name": "Mu\u00f1eca (Sin Pilas Incluidas)",
-      "url": "https://open.spotify.com/track/60uCZaPtkdQ5XXLYSLjLon"
-    },
-    {
-      "added_at": "2022-08-31 16:00:00",
-      "album": {
-        "name": "El Modo",
-        "url": "https://open.spotify.com/album/1kw9zmGzt5UUXLygT33LRS"
-      },
-      "artists": [
-        {
-          "name": "Lucia Tacchetti",
-          "url": "https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ"
-        }
-      ],
-      "duration_ms": 256120,
-      "name": "El Modo",
-      "url": "https://open.spotify.com/track/5xGWm9iIIXimUuZj9r7n0T"
-    },
-    {
-      "added_at": "2022-08-31 16:00:00",
-      "album": {
         "name": "Ac\u00e9rcate",
         "url": "https://open.spotify.com/album/3tHB86x0NHrXcwc0OvuG1s"
       },
@@ -439,6 +407,22 @@
     {
       "added_at": "2022-08-31 16:00:00",
       "album": {
+        "name": "Mu\u00f1eca (Sin Pilas Incluidas)",
+        "url": "https://open.spotify.com/album/5f8tUSpNqjENnKf3oKIGMU"
+      },
+      "artists": [
+        {
+          "name": "ADRIANAH",
+          "url": "https://open.spotify.com/artist/4qqpXhZ0OApTtS6cOOaPHn"
+        }
+      ],
+      "duration_ms": 209473,
+      "name": "Mu\u00f1eca (Sin Pilas Incluidas)",
+      "url": "https://open.spotify.com/track/60uCZaPtkdQ5XXLYSLjLon"
+    },
+    {
+      "added_at": "2022-08-31 16:00:00",
+      "album": {
         "name": "Acantilados",
         "url": "https://open.spotify.com/album/6zwTdrtd3h7xbuTK3a6fpM"
       },
@@ -459,22 +443,6 @@
     {
       "added_at": "2022-08-31 16:00:00",
       "album": {
-        "name": "La Fortuna",
-        "url": "https://open.spotify.com/album/3dCPMqwndPfb2270NUjymY"
-      },
-      "artists": [
-        {
-          "name": "Tropicana Club",
-          "url": "https://open.spotify.com/artist/3yZt4h8ao4zS5aJdo4ZSAn"
-        }
-      ],
-      "duration_ms": 178719,
-      "name": "La Fortuna",
-      "url": "https://open.spotify.com/track/6mRo583BXJeOOSaUYqHvjU"
-    },
-    {
-      "added_at": "2022-08-31 16:00:00",
-      "album": {
         "name": "Verde Artificial",
         "url": "https://open.spotify.com/album/5uzeX8BMNL4p4jDiRDJ9dF"
       },
@@ -487,6 +455,38 @@
       "duration_ms": 244796,
       "name": "Verde Artificial",
       "url": "https://open.spotify.com/track/4ISo0mSJfcDi9tx2WBDCq9"
+    },
+    {
+      "added_at": "2022-08-31 16:00:00",
+      "album": {
+        "name": "El Modo",
+        "url": "https://open.spotify.com/album/1kw9zmGzt5UUXLygT33LRS"
+      },
+      "artists": [
+        {
+          "name": "Lucia Tacchetti",
+          "url": "https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ"
+        }
+      ],
+      "duration_ms": 256120,
+      "name": "El Modo",
+      "url": "https://open.spotify.com/track/5xGWm9iIIXimUuZj9r7n0T"
+    },
+    {
+      "added_at": "2022-08-31 16:00:00",
+      "album": {
+        "name": "La Fortuna",
+        "url": "https://open.spotify.com/album/3dCPMqwndPfb2270NUjymY"
+      },
+      "artists": [
+        {
+          "name": "Tropicana Club",
+          "url": "https://open.spotify.com/artist/3yZt4h8ao4zS5aJdo4ZSAn"
+        }
+      ],
+      "duration_ms": 178719,
+      "name": "La Fortuna",
+      "url": "https://open.spotify.com/track/6mRo583BXJeOOSaUYqHvjU"
     },
     {
       "added_at": "2022-08-31 16:00:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-08-31 16:00:00",
       "album": {
-        "name": "F\u00e1cil Fue Quererte",
-        "url": "https://open.spotify.com/album/1EXO3vmaTAI6syuNlf13f3"
-      },
-      "artists": [
-        {
-          "name": "Miguel Rico V.",
-          "url": "https://open.spotify.com/artist/3GBEibrFUSRkJdlc00epWf"
-        }
-      ],
-      "duration_ms": 203965,
-      "name": "F\u00e1cil Fue Quererte",
-      "url": "https://open.spotify.com/track/64RT9Eq5EVi0Bzsswt6rBK"
-    },
-    {
-      "added_at": "2022-08-31 16:00:00",
-      "album": {
         "name": "Naufragio",
         "url": "https://open.spotify.com/album/78adW0Bc0zg5E6PqYdc3Vk"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 145170,
       "name": "Naufragio",
       "url": "https://open.spotify.com/track/2DrfPQ6ONLQaWB7nSbrf8i"
+    },
+    {
+      "added_at": "2022-08-31 16:00:00",
+      "album": {
+        "name": "F\u00e1cil Fue Quererte",
+        "url": "https://open.spotify.com/album/1EXO3vmaTAI6syuNlf13f3"
+      },
+      "artists": [
+        {
+          "name": "Miguel Rico V.",
+          "url": "https://open.spotify.com/artist/3GBEibrFUSRkJdlc00epWf"
+        }
+      ],
+      "duration_ms": 203965,
+      "name": "F\u00e1cil Fue Quererte",
+      "url": "https://open.spotify.com/track/64RT9Eq5EVi0Bzsswt6rBK"
     },
     {
       "added_at": "2022-08-31 16:00:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2022-08-31 16:00:00",
       "album": {
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/3tIxBNnKOBFAVZuvaUQByf"
+      },
+      "artists": [
+        {
+          "name": "Andres",
+          "url": "https://open.spotify.com/artist/4eAz1Oum61CGHwMUl9CZ9f"
+        }
+      ],
+      "duration_ms": 161531,
+      "name": "Hurac\u00e1n",
+      "url": "https://open.spotify.com/track/6Y6KYwYb1l5F0CgFtVG1sO"
+    },
+    {
+      "added_at": "2022-08-31 16:00:00",
+      "album": {
         "name": "Presi\u00f3n",
         "url": "https://open.spotify.com/album/1U8nk8BB1J5ZbPSt9L9hFy"
       },
@@ -651,18 +667,18 @@
     {
       "added_at": "2022-08-31 16:00:00",
       "album": {
-        "name": "Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/3tIxBNnKOBFAVZuvaUQByf"
+        "name": "Yung Pradito",
+        "url": "https://open.spotify.com/album/6Z7YrnAM7M55RZUZFiJI8b"
       },
       "artists": [
         {
-          "name": "Andres",
-          "url": "https://open.spotify.com/artist/4eAz1Oum61CGHwMUl9CZ9f"
+          "name": "YUNG PRADO",
+          "url": "https://open.spotify.com/artist/0U0zpa0tZ4iAV6ypdDUm4I"
         }
       ],
-      "duration_ms": 161531,
-      "name": "Hurac\u00e1n",
-      "url": "https://open.spotify.com/track/6Y6KYwYb1l5F0CgFtVG1sO"
+      "duration_ms": 238000,
+      "name": "Quiero Volver a Repetir",
+      "url": "https://open.spotify.com/track/0exxyQo6ZszQWb4K7i4uZx"
     },
     {
       "added_at": "2022-08-31 16:00:00",
@@ -687,18 +703,18 @@
     {
       "added_at": "2022-08-31 16:00:00",
       "album": {
-        "name": "Yung Pradito",
-        "url": "https://open.spotify.com/album/6Z7YrnAM7M55RZUZFiJI8b"
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/5K672EviATQUJg8QgeRzsm"
       },
       "artists": [
         {
-          "name": "YUNG PRADO",
-          "url": "https://open.spotify.com/artist/0U0zpa0tZ4iAV6ypdDUm4I"
+          "name": "Kepa",
+          "url": "https://open.spotify.com/artist/641uUz4loRaQhEkuFOIefT"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Quiero Volver a Repetir",
-      "url": "https://open.spotify.com/track/0exxyQo6ZszQWb4K7i4uZx"
+      "duration_ms": 125689,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/6XkTyoyuTotgPCDpDEQTOx"
     },
     {
       "added_at": "2022-08-31 16:00:00",
@@ -731,22 +747,6 @@
       "duration_ms": 202409,
       "name": "Jardin de Rosas",
       "url": "https://open.spotify.com/track/7cdXvepkCmhFOjB3C6gt3C"
-    },
-    {
-      "added_at": "2022-08-31 16:00:00",
-      "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/5K672EviATQUJg8QgeRzsm"
-      },
-      "artists": [
-        {
-          "name": "Kepa",
-          "url": "https://open.spotify.com/artist/641uUz4loRaQhEkuFOIefT"
-        }
-      ],
-      "duration_ms": 125689,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/6XkTyoyuTotgPCDpDEQTOx"
     },
     {
       "added_at": "2022-08-31 16:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-08-31 16:00:00",
       "album": {
-        "name": "Lejos de Casa",
-        "url": "https://open.spotify.com/album/1wJMSBcODlTX2jN877SqqI"
-      },
-      "artists": [
-        {
-          "name": "Victoria Yoi",
-          "url": "https://open.spotify.com/artist/3qDaumbNDX2IrizHdita3T"
-        }
-      ],
-      "duration_ms": 184010,
-      "name": "Lejos de Casa",
-      "url": "https://open.spotify.com/track/73XCdtCioLUTL4EAvrKcqk"
-    },
-    {
-      "added_at": "2022-08-31 16:00:00",
-      "album": {
         "name": "No Aguanto el Calor",
         "url": "https://open.spotify.com/album/3GCeHjcKXUKDNag52Mj9PB"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 220000,
       "name": "No Aguanto el Calor",
       "url": "https://open.spotify.com/track/2rz22cu4JtOVdNGmPlDq70"
+    },
+    {
+      "added_at": "2022-08-31 16:00:00",
+      "album": {
+        "name": "Lejos de Casa",
+        "url": "https://open.spotify.com/album/1wJMSBcODlTX2jN877SqqI"
+      },
+      "artists": [
+        {
+          "name": "Victoria Yoi",
+          "url": "https://open.spotify.com/artist/3qDaumbNDX2IrizHdita3T"
+        }
+      ],
+      "duration_ms": 184010,
+      "name": "Lejos de Casa",
+      "url": "https://open.spotify.com/track/73XCdtCioLUTL4EAvrKcqk"
     },
     {
       "added_at": "2022-08-31 16:00:00",

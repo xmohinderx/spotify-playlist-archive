@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 
 > For those that like it hard and heavy\. Cover: Papa Roach
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,594 likes - 70 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,268 likes - 70 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 | 5 | [Heretic](https://open.spotify.com/track/6O6U83grucuxSktER0IbrM) | [Novelists FR](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS), [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Heretic](https://open.spotify.com/album/0lQqsnfP4Hwy8KoIg1H07y) | 3:22 |
 | 6 | [Hail to the King](https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 5:05 |
 | 7 | [Throne](https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:11 |
-| 8 | [The Dying Song \(Time To Sing\)](https://open.spotify.com/track/5Lqk8Z6MnfIyeTchmMaPEG) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The Dying Song \(Time To Sing\)](https://open.spotify.com/album/1orsA4z63mo1Rp1WUxNRj8) | 3:23 |
-| 9 | [Stricken](https://open.spotify.com/track/6RJdYpFQwLyNfDc5FbjkgV) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Ten Thousand Fists](https://open.spotify.com/album/0Te7OvzuUMnbsqCneIDUm6) | 4:05 |
+| 8 | [Stricken](https://open.spotify.com/track/6RJdYpFQwLyNfDc5FbjkgV) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Ten Thousand Fists](https://open.spotify.com/album/0Te7OvzuUMnbsqCneIDUm6) | 4:05 |
+| 9 | [The Dying Song \(Time To Sing\)](https://open.spotify.com/track/5Lqk8Z6MnfIyeTchmMaPEG) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The Dying Song \(Time To Sing\)](https://open.spotify.com/album/1orsA4z63mo1Rp1WUxNRj8) | 3:23 |
 | 10 | [My Curse](https://open.spotify.com/track/6zKF4293k44ItKWJJgrhXv) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [As Daylight Dies \(Special Edition\)](https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z) | 4:04 |
 | 11 | [Die MF Die](https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Life](https://open.spotify.com/album/7lRvSWMUCTIjkvZQLy4yBx) | 3:06 |
 | 12 | [Another Life](https://open.spotify.com/track/0YZEYxd1oiqZRFhnnmTKKi) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Disguise](https://open.spotify.com/album/4JECM4NZhtpjDX4JbYkh00) | 3:25 |
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 | 16 | [Animals](https://open.spotify.com/track/5ofoB8PFmocBXFBEWVb6Vz) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [For Those That Wish To Exist](https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4) | 4:04 |
 | 17 | [Absolute Zero](https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [House of Gold & Bones, Part 1](https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn) | 3:49 |
 | 18 | [Blood and Thunder](https://open.spotify.com/track/3jagGO7eHHuaD53ibehkux) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Leviathan](https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b) | 3:48 |
-| 19 | [All Out Life](https://open.spotify.com/track/6vAQtUlYrzolE6SS9QCTs5) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Out Life](https://open.spotify.com/album/65QFxYBGGQGGvAcW0YNMXa) | 5:40 |
-| 20 | [Like A Villain](https://open.spotify.com/track/40P5d3p4icYCiN4SMUOE2E) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/0auTn0kFZk71WAv3BbKVxQ) | 3:30 |
+| 19 | [Like A Villain](https://open.spotify.com/track/40P5d3p4icYCiN4SMUOE2E) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/0auTn0kFZk71WAv3BbKVxQ) | 3:30 |
+| 20 | [All Out Life](https://open.spotify.com/track/6vAQtUlYrzolE6SS9QCTs5) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Out Life](https://open.spotify.com/album/65QFxYBGGQGGvAcW0YNMXa) | 5:40 |
 | 21 | [Is There Anybody Out There?](https://open.spotify.com/track/5aeIj88MLdekYvObw5Yisk) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Is There Anybody Out There?](https://open.spotify.com/album/07lqIOrFHB6XAKq1rrIe8G) | 4:32 |
 | 22 | [Pneuma](https://open.spotify.com/track/03sEzk1VyrUZSgyhoQR0LZ) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Fear Inoculum](https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5) | 11:53 |
 | 23 | [Stranded](https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Magma](https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w) | 4:29 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 | 29 | [Legendary](https://open.spotify.com/track/2pYaGdqXBrl8MdvuwgtBb7) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 4:04 |
 | 30 | [Blood](https://open.spotify.com/track/7gQ7DfSSc3b8e4cHtFnDxu) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Ember](https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr) | 3:09 |
 | 31 | [when we were young](https://open.spotify.com/track/5wTfzzRW8ddRdgW2kASbox) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [when we were young](https://open.spotify.com/album/2ZGOqvkbQFLEayRqXxGjc9) | 3:13 |
-| 32 | [Paranoia](https://open.spotify.com/track/3HhaSocKwTptze7PySNZlW) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Bad Vibrations \(Deluxe Edition\)](https://open.spotify.com/album/5rSgMFmmuaKQxma4bSEviU) | 3:20 |
-| 33 | [You Want a Battle? \(Here's a War\)](https://open.spotify.com/track/1KCAEG6JcsTzi8ddZzs0nk) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Venom \(Deluxe Edition\)](https://open.spotify.com/album/1YjxZhd158jSm2906JqzXF) | 4:14 |
+| 32 | [You Want a Battle? \(Here's a War\)](https://open.spotify.com/track/1KCAEG6JcsTzi8ddZzs0nk) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Venom \(Deluxe Edition\)](https://open.spotify.com/album/1YjxZhd158jSm2906JqzXF) | 4:14 |
+| 33 | [Paranoia](https://open.spotify.com/track/3HhaSocKwTptze7PySNZlW) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Bad Vibrations \(Deluxe Edition\)](https://open.spotify.com/album/5rSgMFmmuaKQxma4bSEviU) | 3:20 |
 | 34 | [Rotoscope](https://open.spotify.com/track/3TV6XEPjXQhbSneiEXRNEr) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Rotoscope](https://open.spotify.com/album/0twOWaleSiQaUUSTFegpds) | 3:35 |
 | 35 | [The Safety of Disbelief](https://open.spotify.com/track/49ylH81Y53wUOlTHqXK1J2) | [Light The Torch](https://open.spotify.com/artist/6RIRplpyp79REfeBrvW8rH) | [Revival](https://open.spotify.com/album/32YNW8YEUUNnZB2LhenMAV) | 3:33 |
 | 36 | [The Heart from Your Hate](https://open.spotify.com/track/5yDJpu0xh0d1w13gXaE3lS) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Sin and the Sentence](https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT) | 4:03 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 | 41 | [Genocidal Humanoidz](https://open.spotify.com/track/3Sg3bOiD0kE4D5DcXk48Ds) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Protect The Land / Genocidal Humanoidz](https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M) | 2:35 |
 | 42 | [Hated](https://open.spotify.com/track/2NRa4W3rH4e5GKQMN5Qwyr) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Aggressive](https://open.spotify.com/album/5nQE80zQR1NqKDBo4oE4EJ) | 3:31 |
 | 43 | [Pet](https://open.spotify.com/track/27msmgcdSRniJHfocEf6EH) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Thirteenth Step](https://open.spotify.com/album/49K6hYDEr5M3GxIBBxlPf9) | 4:34 |
-| 44 | [Holy Roller](https://open.spotify.com/track/3q7kMFce0TnDafVUzq8IpE) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Eternal Blue](https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb) | 2:53 |
-| 45 | [In Waves](https://open.spotify.com/track/1yYr4D1KjhhyDD5bZIiFQy) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 5:02 |
+| 44 | [In Waves](https://open.spotify.com/track/1yYr4D1KjhhyDD5bZIiFQy) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 5:02 |
+| 45 | [Holy Roller](https://open.spotify.com/track/3q7kMFce0TnDafVUzq8IpE) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Eternal Blue](https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb) | 2:53 |
 | 46 | [Sham Pain](https://open.spotify.com/track/1YLxrvfvFivQj7eh3Y5yxA) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/440w9VaZP1M7FnfMdHapR3) | 3:29 |
 | 47 | [Low](https://open.spotify.com/track/3gRwYAsiX4e50J43BkmZxI) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Pressure](https://open.spotify.com/album/2tStEaMvl7vkfgAEwysgYP) | 3:47 |
 | 48 | [Into The Fire](https://open.spotify.com/track/7zWPlO8Mcjc5mQGf7v8dlE) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Asking Alexandria](https://open.spotify.com/album/0dYHTESEegNj0dkIFGWy2d) | 3:57 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 | 69 | [The Sinner](https://open.spotify.com/track/4SAeLRKTvdvEKUvpYIoBzT) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [The Hollow](https://open.spotify.com/album/59fpw1PC2LgFYS0Hmn4zm3) | 4:02 |
 | 70 | [Quantum Flux](https://open.spotify.com/track/1ZiTdxdpKQuovW4ERgBIO2) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Singularity](https://open.spotify.com/album/5YbmS9RyJV55oBw26mkTvi) | 4:03 |
 
-Snapshot ID: `MTY2MDMyNTk2MCwwMDAwMDAwMDc5NzQwNTgxZTJlOWM3YTEzNjdkM2MzNGVmOWEyZGVm`
+Snapshot ID: `MTY2MDMyNTk2MCwwMDAwMDAwMGM0MzhjYzhjZTIxN2YwOTc3Njg1NzZjYWM4NjhjNDhk`

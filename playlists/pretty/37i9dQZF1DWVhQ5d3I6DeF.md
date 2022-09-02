@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhQ5d3I6DeF.md) - [plain]
 
 > Catchy pop music to keep those legs going.
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,146 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,217 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhQ5d3I6DeF.md) - [plain]
 | 6 | [One Last Time](https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 3:17 |
 | 7 | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO) | 2:46 |
 | 8 | [This Is What You Came For](https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [This Is What You Came For](https://open.spotify.com/album/3pEgGUv379EDinvg1TN7Kt) | 3:42 |
-| 9 | [Time of Our Lives](https://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:49 |
-| 10 | [Sorry](https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:20 |
+| 9 | [Sorry](https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:20 |
+| 10 | [Time of Our Lives](https://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:49 |
 | 11 | [Your Love \(9PM\)](https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Your Love \(9PM\)](https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b) | 2:30 |
 | 12 | [Paradise \(feat\. Dermot Kennedy\)](https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Paradise](https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA) | 2:47 |
 | 13 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhQ5d3I6DeF.md) - [plain]
 | 49 | [All Day And Night](https://open.spotify.com/track/5naYe7rLMZcLfO1DKg48MK) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q), [Europa](https://open.spotify.com/artist/2NlKrNMdpYxGjt3Pvw87rC) | [Snacks](https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb) | 2:49 |
 | 50 | [Ain't No Other Man](https://open.spotify.com/track/7huo2wvrCgRucUsjdSDLQV) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Back To Basics](https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd) | 3:48 |
 
-Snapshot ID: `MTY2MDI5NDg3NywwMDAwMDAwMDM2NDU1NmQwNjU0YTlmOTVkYmJiMjg1MzQ1ZmJmNDU3`
+Snapshot ID: `MTY2MDI5NDg3NywwMDAwMDAwMDFkMWFhN2I0ODQ0Y2YwOTk2OTQ1YTA2YjYwYzljMjdm`

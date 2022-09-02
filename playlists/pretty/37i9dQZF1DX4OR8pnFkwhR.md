@@ -2,28 +2,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 ### [RADAR: Early Noise ](https://open.spotify.com/playlist/37i9dQZF1DX4OR8pnFkwhR)
 
-> Spotifyが注目するニューカマー・プレイリスト。Cover: 秋山璃月
+> Spotifyが注目するニューカマー・プレイリスト。Cover: Bialystocks
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,435 likes - 57 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,436 likes - 57 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [向こうから](https://open.spotify.com/track/1FVA1zzhSi7U7SwTIidQeC) | [Ritsuki Akiyama](https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9) | [向こうから](https://open.spotify.com/album/6jH9JpnMI6GmtHZYAjoacR) | 3:45 |
-| 2 | [Deadstock](https://open.spotify.com/track/1h3XEx3bmfIARIJQqE3NA5) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU), [きのぽっぽ](https://open.spotify.com/artist/7wELjvjV3KJdFtxYlZ5bhf) | [Deadstock](https://open.spotify.com/album/4Z9igjlzrOpnidH6MwRhEc) | 3:19 |
-| 3 | [Change](https://open.spotify.com/track/2FM1aNnqVfUsBkyTcxQmVm) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [Change](https://open.spotify.com/album/7ybRhDFyFV9bRXMIGW6wbl) | 3:24 |
-| 4 | [Drivin'](https://open.spotify.com/track/5dTFgyqxUJENFQgT3WpYDQ) | [LAGHEADS](https://open.spotify.com/artist/4ByaRqzQAftsd7bdCS3hqN), [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [Drivin'](https://open.spotify.com/album/7hFgHs48yLBm8Q5WOLBSCJ) | 2:51 |
-| 5 | [Sashiiro](https://open.spotify.com/track/21lckxUcSbNjXvevhrEmqt) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Sashiiro](https://open.spotify.com/album/2N7EaA2edo7hIYqsAFmxbI) | 3:03 |
-| 6 | [かくれん坊](https://open.spotify.com/track/1L3UMJURyF9UVc2Z4O16s6) | [黒子首](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3) | [ぼやぁ\~じゅ](https://open.spotify.com/album/5sw6cVMbXiNO6T7i5vfCP5) | 3:52 |
-| 7 | [コズミック](https://open.spotify.com/track/2wIGnFXppV7dbp8I1bmA9B) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [コズミック](https://open.spotify.com/album/5XhlBoKq69TkOtXF8uN6CA) | 2:38 |
-| 8 | [真夏の恋は気まぐれ](https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [真夏の恋は気まぐれ](https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk) | 4:09 |
+| 1 | [灯台](https://open.spotify.com/track/0rWizJ6KV5Wna8dPdXB5CU) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [灯台](https://open.spotify.com/album/7HkIv5XkyvMwR3DXz5mmwk) | 2:57 |
+| 2 | [向こうから](https://open.spotify.com/track/1FVA1zzhSi7U7SwTIidQeC) | [Ritsuki Akiyama](https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9) | [向こうから](https://open.spotify.com/album/6jH9JpnMI6GmtHZYAjoacR) | 3:45 |
+| 3 | [Deadstock](https://open.spotify.com/track/1h3XEx3bmfIARIJQqE3NA5) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU), [きのぽっぽ](https://open.spotify.com/artist/7wELjvjV3KJdFtxYlZ5bhf) | [Deadstock](https://open.spotify.com/album/4Z9igjlzrOpnidH6MwRhEc) | 3:19 |
+| 4 | [真夏の恋は気まぐれ](https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [真夏の恋は気まぐれ](https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk) | 4:09 |
+| 5 | [Change](https://open.spotify.com/track/2FM1aNnqVfUsBkyTcxQmVm) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [Change](https://open.spotify.com/album/7ybRhDFyFV9bRXMIGW6wbl) | 3:24 |
+| 6 | [Drivin'](https://open.spotify.com/track/5dTFgyqxUJENFQgT3WpYDQ) | [LAGHEADS](https://open.spotify.com/artist/4ByaRqzQAftsd7bdCS3hqN), [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [Drivin'](https://open.spotify.com/album/7hFgHs48yLBm8Q5WOLBSCJ) | 2:51 |
+| 7 | [かくれん坊](https://open.spotify.com/track/1L3UMJURyF9UVc2Z4O16s6) | [黒子首](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3) | [ぼやぁ\~じゅ](https://open.spotify.com/album/5sw6cVMbXiNO6T7i5vfCP5) | 3:52 |
+| 8 | [コズミック](https://open.spotify.com/track/2wIGnFXppV7dbp8I1bmA9B) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [コズミック](https://open.spotify.com/album/5XhlBoKq69TkOtXF8uN6CA) | 2:38 |
 | 9 | [dead2me.](https://open.spotify.com/track/0NsnAcdO7vVrQgPH6SoiF3) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [dead2me.](https://open.spotify.com/album/6UaYSCrPhRj92JDySXKFc7) | 3:30 |
 | 10 | [dance](https://open.spotify.com/track/4vURlCR65nymieanZFI26k) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [dance](https://open.spotify.com/album/1uhRpzbQSPY7uqyBkYXpt5) | 3:19 |
 | 11 | [Sweet Escape \(feat\. ひかり\)](https://open.spotify.com/track/6Whj4AAx1Y2xSCJhpRvTpt) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [Sweet Escape \(feat\. ひかり\)](https://open.spotify.com/album/6QWulBLmOcERqXcs2tSxh6) | 3:53 |
-| 12 | [Girl](https://open.spotify.com/track/1TVuQ54AaNhpE7QmBakvtp) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [Girl](https://open.spotify.com/album/4es0Pxx1C9K59o1HPmp0JU) | 3:42 |
-| 13 | [Akachan kawaii \(Yueni Kibou Nado\)](https://open.spotify.com/track/2QArMxNdNf0RRtbWgluQ8B) | [BELLMAINZ](https://open.spotify.com/artist/4dbOK4V3g2bSvFZvrhcHCm) | [Akachan kawaii \(Yueni Kibou Nado\)](https://open.spotify.com/album/0dne3frd7OM589ZVfQDWqS) | 4:03 |
-| 14 | [Blank](https://open.spotify.com/track/4b0RQRCxvOa7qifoVPZ7NM) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS), [mao sasagawa](https://open.spotify.com/artist/4ZqPdBTOiHdOUnv40Wqpy8) | [Blank](https://open.spotify.com/album/5KKgfaPcmsuYRSbS1YmuvM) | 3:30 |
-| 15 | [Brain Scratch](https://open.spotify.com/track/1AzGq7oRfqR36LzaCWTiTI) | [Monthly Mu & New Caledonia](https://open.spotify.com/artist/57KdMq2pCCdMjConSyzDsN) | [Brain Scratch](https://open.spotify.com/album/71tODak7A2364WwWyGhXcf) | 3:23 |
-| 16 | [Bye Bye](https://open.spotify.com/track/3hPTqw8pMF7SQpxaWngBOM) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Bye Bye](https://open.spotify.com/album/2oaPQosRx7EHt403lUQu07) | 3:41 |
+| 12 | [Blank](https://open.spotify.com/track/4b0RQRCxvOa7qifoVPZ7NM) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS), [mao sasagawa](https://open.spotify.com/artist/4ZqPdBTOiHdOUnv40Wqpy8) | [Blank](https://open.spotify.com/album/5KKgfaPcmsuYRSbS1YmuvM) | 3:30 |
+| 13 | [Brain Scratch](https://open.spotify.com/track/1AzGq7oRfqR36LzaCWTiTI) | [Monthly Mu & New Caledonia](https://open.spotify.com/artist/57KdMq2pCCdMjConSyzDsN) | [Brain Scratch](https://open.spotify.com/album/71tODak7A2364WwWyGhXcf) | 3:23 |
+| 14 | [Bye Bye](https://open.spotify.com/track/3hPTqw8pMF7SQpxaWngBOM) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Bye Bye](https://open.spotify.com/album/2oaPQosRx7EHt403lUQu07) | 3:41 |
+| 15 | [Girl](https://open.spotify.com/track/1TVuQ54AaNhpE7QmBakvtp) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [Girl](https://open.spotify.com/album/4es0Pxx1C9K59o1HPmp0JU) | 3:42 |
+| 16 | [Akachan kawaii \(Yueni Kibou Nado\)](https://open.spotify.com/track/2QArMxNdNf0RRtbWgluQ8B) | [BELLMAINZ](https://open.spotify.com/artist/4dbOK4V3g2bSvFZvrhcHCm) | [Akachan kawaii \(Yueni Kibou Nado\)](https://open.spotify.com/album/0dne3frd7OM589ZVfQDWqS) | 4:03 |
 | 17 | [HOMEWORK](https://open.spotify.com/track/0gq75lykNVUk0zaHVruLGB) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [HOMEWORK](https://open.spotify.com/album/30ZEBL5NnWPGAwd80jEsHG) | 2:51 |
 | 18 | [夜に叶えて](https://open.spotify.com/track/3u44dFRzepo5r8bG6yfsmy) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [夜に叶えて](https://open.spotify.com/album/2niwXjOARaguHprBwR9SBc) | 4:11 |
 | 19 | [戻れたなら](https://open.spotify.com/track/6GnIlXPdycoTJB9KWEKCv0) | [RQNY](https://open.spotify.com/artist/5G395u0vEWgpDykp47OjSP) | [pain\(ts\)](https://open.spotify.com/album/5K76QIpoP5WXRvjnXhVOe2) | 3:04 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 56 | [ダンスフロア](https://open.spotify.com/track/4DB9XpxWVdGXsHjX8YoIzF) | [LAYRUS LOOP](https://open.spotify.com/artist/3EO554jUf79NLR9mBuD2vk) | [ダンスフロアEP](https://open.spotify.com/album/0OqXDoI0GTKevz8B96ueE9) | 3:55 |
 | 57 | [Hitono Katachi](https://open.spotify.com/track/04HdAkdqkHsxE6g4pCtKvx) | [Limre](https://open.spotify.com/artist/7hDICOxRG5iwTYyMUiYSHT) | [Limre](https://open.spotify.com/album/5CK1FaKsSogYM6ufKrUcv3) | 2:27 |
 
-Snapshot ID: `MTY2MTg3MTYwMCwwMDAwMDAwMGRmYzE3NDdjZWRlYWJjNDE4MzM2NTIzMGJiODc1Mzky`
+Snapshot ID: `MTY2MjA0NDQwMCwwMDAwMDAwMDg0N2Y2NzNkNmI0NmUyYjdkNDA0ODg2MWJmNzgzMTZj`

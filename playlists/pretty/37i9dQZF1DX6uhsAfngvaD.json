@@ -1,12 +1,12 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": null,
+  "num_followers": 262337,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzEyMDcxNCwwMDAwMDAwMDIxODEwNDY0M2YyYzZmODYzNjIzNGZiMjExYzNiYjFk",
+  "snapshot_id": "MTY1NzEyMDcxNCwwMDAwMDAwMDBhMzhmYmYzY2IxZThlNDU0YTc2NmFiYzFmMzY1ZjA1",
   "tracks": [
     {
       "added_at": "2022-07-06 15:18:34",
@@ -667,6 +667,26 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
+        "name": "How Can I Love? (When I Can't Get Away From You)",
+        "url": "https://open.spotify.com/album/6ya53tyYpsLogdzeCJdTsL"
+      },
+      "artists": [
+        {
+          "name": "fika",
+          "url": "https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX"
+        },
+        {
+          "name": "Bambie",
+          "url": "https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv"
+        }
+      ],
+      "duration_ms": 179508,
+      "name": "How Can I Love? (When I Can't Get Away From You)",
+      "url": "https://open.spotify.com/track/4g0ElvVfW24EHPdfWo2I8w"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
         "name": "Therapy",
         "url": "https://open.spotify.com/album/0uQ3hIVUT5NTkNGPokDlDw"
       },
@@ -695,26 +715,6 @@
       "duration_ms": 950210,
       "name": "Songs",
       "url": "https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
-        "name": "How Can I Love? (When I Can't Get Away From You)",
-        "url": "https://open.spotify.com/album/6ya53tyYpsLogdzeCJdTsL"
-      },
-      "artists": [
-        {
-          "name": "fika",
-          "url": "https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX"
-        },
-        {
-          "name": "Bambie",
-          "url": "https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv"
-        }
-      ],
-      "duration_ms": 179508,
-      "name": "How Can I Love? (When I Can't Get Away From You)",
-      "url": "https://open.spotify.com/track/4g0ElvVfW24EHPdfWo2I8w"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "James",
-        "url": "https://open.spotify.com/album/6JM7AstjOZRklwDS9LbEz1"
-      },
-      "artists": [
-        {
-          "name": "Oscar and the Wolf",
-          "url": "https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV"
-        }
-      ],
-      "duration_ms": 269268,
-      "name": "James",
-      "url": "https://open.spotify.com/track/5Cd4brIkLNzLJJUxugJA1X"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/3fsuoXmdJU3QLMNVucfQNE"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 190720,
       "name": "Drown",
       "url": "https://open.spotify.com/track/7EUcNIHj2eWmpGNJF5u0Vh"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
+        "name": "James",
+        "url": "https://open.spotify.com/album/6JM7AstjOZRklwDS9LbEz1"
+      },
+      "artists": [
+        {
+          "name": "Oscar and the Wolf",
+          "url": "https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV"
+        }
+      ],
+      "duration_ms": 269268,
+      "name": "James",
+      "url": "https://open.spotify.com/track/5Cd4brIkLNzLJJUxugJA1X"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -1159,22 +1159,18 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "Cabin Fever Dreams",
-        "url": "https://open.spotify.com/album/7yc9we9YwgeuOBlyclDxMn"
+        "name": "Morningside",
+        "url": "https://open.spotify.com/album/21Ld2tSHSxYFkj7QHTHFQB"
       },
       "artists": [
         {
-          "name": "RALPH TV",
-          "url": "https://open.spotify.com/artist/4ClXiGv8w47iekyGEmtAyy"
-        },
-        {
-          "name": "Nice Guys",
-          "url": "https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN"
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
         }
       ],
-      "duration_ms": 206134,
-      "name": "Loverboy",
-      "url": "https://open.spotify.com/track/3iDJgLUiMqMdk1UOLG4VWf"
+      "duration_ms": 240736,
+      "name": "Jennifer",
+      "url": "https://open.spotify.com/track/2ngc5mFakdLVt3xFcNHqQW"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -1195,18 +1191,22 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "Morningside",
-        "url": "https://open.spotify.com/album/21Ld2tSHSxYFkj7QHTHFQB"
+        "name": "Cabin Fever Dreams",
+        "url": "https://open.spotify.com/album/7yc9we9YwgeuOBlyclDxMn"
       },
       "artists": [
         {
-          "name": "Fazerdaze",
-          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+          "name": "RALPH TV",
+          "url": "https://open.spotify.com/artist/4ClXiGv8w47iekyGEmtAyy"
+        },
+        {
+          "name": "Nice Guys",
+          "url": "https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN"
         }
       ],
-      "duration_ms": 240736,
-      "name": "Jennifer",
-      "url": "https://open.spotify.com/track/2ngc5mFakdLVt3xFcNHqQW"
+      "duration_ms": 206134,
+      "name": "Loverboy",
+      "url": "https://open.spotify.com/track/3iDJgLUiMqMdk1UOLG4VWf"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
+        "name": "Seems Like Forever",
+        "url": "https://open.spotify.com/album/01rddRm7oUQ3GqOG9mkEO8"
+      },
+      "artists": [
+        {
+          "name": "Scarlet Rae",
+          "url": "https://open.spotify.com/artist/06v4QDLJOrIz62gsU9lN3K"
+        }
+      ],
+      "duration_ms": 318612,
+      "name": "Seems Like Forever",
+      "url": "https://open.spotify.com/track/3eIcEbicqr3ikj05Gkmziv"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
         "name": "So Humble The Afternoon",
         "url": "https://open.spotify.com/album/13PrcaJFJLNw6jGg25zekp"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 188640,
       "name": "Digital Parallax",
       "url": "https://open.spotify.com/track/50G0Mc9N7C93qohJgraZbI"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
-        "name": "Seems Like Forever",
-        "url": "https://open.spotify.com/album/01rddRm7oUQ3GqOG9mkEO8"
-      },
-      "artists": [
-        {
-          "name": "Scarlet Rae",
-          "url": "https://open.spotify.com/artist/06v4QDLJOrIz62gsU9lN3K"
-        }
-      ],
-      "duration_ms": 318612,
-      "name": "Seems Like Forever",
-      "url": "https://open.spotify.com/track/3eIcEbicqr3ikj05Gkmziv"
     },
     {
       "added_at": "2022-07-06 15:18:34",

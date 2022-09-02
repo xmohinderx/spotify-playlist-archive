@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gcrZ1xC96D.md) - [plain]
 
 > Gym harder, better, faster and longer\. Yes, you CAN do it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 982,877 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 982,939 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gcrZ1xC96D.md) - [plain]
 | 19 | [My Heart Goes \(La Di Da\) \(feat\. Topic\)](https://open.spotify.com/track/2dWNKXTs5z7Iu1g0kYh4Xe) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Only Honest On The Weekend](https://open.spotify.com/album/2LWAzUYdZSUq0fW8ddbL1Q) | 2:28 |
 | 20 | [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 3:46 |
 | 21 | [Still Sleepless](https://open.spotify.com/track/4vyG9ZhHT8MKJE5mTICMFC) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Still Sleepless](https://open.spotify.com/album/0R8Q1Ssj8x17w30NUas7yu) | 2:42 |
-| 22 | [Black Magic](https://open.spotify.com/track/7zx1i0jGcFwMBurajgKlO7) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT) | [Black Magic](https://open.spotify.com/album/5AK6JW4lDEomh8p9LdTSV3) | 2:54 |
-| 23 | [Goodbye](https://open.spotify.com/track/4crczEC1PpoD8TsDsmoWNI) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Goodbye](https://open.spotify.com/album/2wUKHXscUlHKW0tEVVYqRs) | 2:24 |
+| 22 | [Goodbye](https://open.spotify.com/track/4crczEC1PpoD8TsDsmoWNI) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Goodbye](https://open.spotify.com/album/2wUKHXscUlHKW0tEVVYqRs) | 2:24 |
+| 23 | [Black Magic](https://open.spotify.com/track/7zx1i0jGcFwMBurajgKlO7) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT) | [Black Magic](https://open.spotify.com/album/5AK6JW4lDEomh8p9LdTSV3) | 2:54 |
 | 24 | [Shivers \- Ofenbach Remix](https://open.spotify.com/track/1eGlStOBtFJ6Oc4hhN5tUR) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [Shivers \(Ofenbach Remix\)](https://open.spotify.com/album/3Dru9IyxnZXhmrNbSv56yl) | 3:07 |
 | 25 | [Lifetime \(with Ty Dolla $ign & 070 Shake\)](https://open.spotify.com/track/3QqHt507QJZCzluEYsnv4u) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:06 |
 | 26 | [Tell Me Something Good](https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Tell Me Something Good](https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4) | 4:09 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gcrZ1xC96D.md) - [plain]
 | 40 | [What's Up](https://open.spotify.com/track/12yj178KaJo8PrddT0StaL) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K), [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [What's Up](https://open.spotify.com/album/5FRUHD0aFh5GvSo3WGbKDd) | 2:27 |
 | 41 | [Didn't Know](https://open.spotify.com/track/3kNWyHdLVW1x6pn9EnSQ1H) | [Tom Zanetti](https://open.spotify.com/artist/73Msd8rknjBghcGQiZ1mgh) | [Didn't Know](https://open.spotify.com/album/5nnv8Zb63NdxWEyVsaSodl) | 2:48 |
 | 42 | [079](https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [Block Notice](https://open.spotify.com/artist/60rugLFQWUwxQEAT8ViGzq) | [079](https://open.spotify.com/album/717BskCJ1pYenCuIzoEPW6) | 2:48 |
-| 43 | [Mixed Emotions](https://open.spotify.com/track/0q6ppTEMn4KiqpHJbutH4V) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Mixed Emotions](https://open.spotify.com/album/1kTl2ygZj7mfXPSJwoVpaD) | 3:44 |
-| 44 | [Liquor Store](https://open.spotify.com/track/3aLsMcZZTLgQqjpWgeWMMM) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Liquor Store](https://open.spotify.com/album/4FgvuityoVGuhA5dYXQtIF) | 3:21 |
-| 45 | [Go](https://open.spotify.com/track/4m3ljlctmzWajEZPgxXOBb) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Maroox](https://open.spotify.com/artist/5gMP6mQ9eKRREGd2ofMvfU) | [Go](https://open.spotify.com/album/3QrNqDVKugpNxGszGV4kHt) | 2:22 |
+| 43 | [Go](https://open.spotify.com/track/4m3ljlctmzWajEZPgxXOBb) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Maroox](https://open.spotify.com/artist/5gMP6mQ9eKRREGd2ofMvfU) | [Go](https://open.spotify.com/album/3QrNqDVKugpNxGszGV4kHt) | 2:22 |
+| 44 | [Mixed Emotions](https://open.spotify.com/track/0q6ppTEMn4KiqpHJbutH4V) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Mixed Emotions](https://open.spotify.com/album/1kTl2ygZj7mfXPSJwoVpaD) | 3:44 |
+| 45 | [Liquor Store](https://open.spotify.com/track/3aLsMcZZTLgQqjpWgeWMMM) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Liquor Store](https://open.spotify.com/album/4FgvuityoVGuhA5dYXQtIF) | 3:21 |
 | 46 | [Deep Inside](https://open.spotify.com/track/3NiB3v3elOuAy4Ij51F4Sl) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC) | [Deep Inside](https://open.spotify.com/album/5cgcl6FTzwH7a809sDZtrs) | 3:22 |
 | 47 | [Lights Go Out](https://open.spotify.com/track/18KVIouF8klKE9HdqdpUxd) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Lights Go Out](https://open.spotify.com/album/2JhLwfCqWdJaRCJ9d6gVdh) | 3:46 |
 | 48 | [Mad At Me](https://open.spotify.com/track/5iKxBjFOldF5hCpCvcvcf0) | [Silky](https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF) | [Mad At Me](https://open.spotify.com/album/02oVf19wXURdIAfzgUW3xr) | 3:58 |
 | 49 | [FOUND LOVE \(feat\. Carrie Baxter\)](https://open.spotify.com/track/5C29RTtzXBODKoZn0aB4zb) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [Carrie Baxter](https://open.spotify.com/artist/052GxJJYMQVVqXRsZfORK1) | [FOUND LOVE \(feat\. Carrie Baxter\)](https://open.spotify.com/album/7ut4PfRhGtazFoK7UOMxbs) | 2:16 |
 | 50 | [You & I](https://open.spotify.com/track/0OE5nvs8Sc1meDrjN7vwBw) | [Navos](https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb), [HARLEE](https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy) | [You & I](https://open.spotify.com/album/2R65x1NUpvpI1Dp97sEPFU) | 2:48 |
 
-Snapshot ID: `MTY1OTEwNjQ4MSwwMDAwMDAwMDk0OTliYmYyZThlMTAxZTNjMTVkZmJmMjMwYTM4OTMw`
+Snapshot ID: `MTY1OTEwNjQ4MSwwMDAwMDAwMDZjZDNhZTIzNTdiODk4N2QzMmIyODE0MjNiNWQ5YjEw`

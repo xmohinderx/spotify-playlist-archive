@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 
 > The best indie rock vibes — classic and current.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,668,905 likes - 120 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,668,649 likes - 120 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,11 +81,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 | 71 | [Romeo & Juliet](https://open.spotify.com/track/1VyA8mbSyXOdJx2lguR8Uu) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Romeo & Juliet](https://open.spotify.com/album/6Bdil490atXzxeG4pevs7o) | 2:46 |
 | 72 | [One Day](https://open.spotify.com/track/1GFpfkiHbZ93p7QImi5RAO) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Are You Alright?](https://open.spotify.com/album/3YuMUT4sLXlXBm2aDIOfOG) | 2:24 |
 | 73 | [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/track/51Lf3l6wx008NdBxCQnD6B) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Del Water Gap](https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE) | 3:19 |
-| 74 | [Chaise Longue](https://open.spotify.com/track/0nys6GusuHnjSYLW0PYYb7) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:16 |
-| 75 | [Undercover Martyn](https://open.spotify.com/track/0Hrd6CSafHHqKptyFppmqH) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0SD7kwnJEC2oDzQBKEHQnH) | 2:47 |
+| 74 | [Undercover Martyn](https://open.spotify.com/track/0Hrd6CSafHHqKptyFppmqH) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0SD7kwnJEC2oDzQBKEHQnH) | 2:47 |
+| 75 | [Chaise Longue](https://open.spotify.com/track/0nys6GusuHnjSYLW0PYYb7) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:16 |
 | 76 | [My Love \- Edit](https://open.spotify.com/track/0vQYe6g8bNbdUKnUnXdQQV) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [My Love](https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ) | 2:57 |
-| 77 | [Someday](https://open.spotify.com/track/7hm4HTk9encxT0LYC0J6oI) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:03 |
-| 78 | [All I Think About Now](https://open.spotify.com/track/5kMiMqkz9T8fwvWhAFgGNG) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Head Carrier](https://open.spotify.com/album/0CwsCKBeUxkgRi9LbdWl2x) | 3:07 |
+| 77 | [All I Think About Now](https://open.spotify.com/track/5kMiMqkz9T8fwvWhAFgGNG) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Head Carrier](https://open.spotify.com/album/0CwsCKBeUxkgRi9LbdWl2x) | 3:07 |
+| 78 | [Someday](https://open.spotify.com/track/7hm4HTk9encxT0LYC0J6oI) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:03 |
 | 79 | [This Must Be The Place](https://open.spotify.com/track/6PuoZT4kgw5DrUEdnQ6e01) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Sure Sure](https://open.spotify.com/album/7EfgATnOllXJ96s4sSdzei) | 3:39 |
 | 80 | [Social Cues](https://open.spotify.com/track/1KuVdyg8d6NlRhbpHxg5UF) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 3:39 |
 | 81 | [The Sun](https://open.spotify.com/track/5UEZzRsrB4FKw1SIMoMD2y) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Born a Loser](https://open.spotify.com/album/6OQjfXsIharHjMAMbGYGNd) | 3:27 |
@@ -119,14 +119,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 | 109 | [Things I Thought Were Mine](https://open.spotify.com/track/3i10mtYVZPyoxorz6C19xE) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Happiness in Liquid Form](https://open.spotify.com/album/4hfnS7YAQNDiihGt70E3ei) | 3:13 |
 | 110 | [Give Up Baby Go](https://open.spotify.com/track/6DIMM15oo3kxnCuVypaYGy) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [From 2 to 3](https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY) | 4:17 |
 | 111 | [Dræm Girl](https://open.spotify.com/track/6lbLn5iL2NBJnbib7bTXMn) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Summer Break Mixtape](https://open.spotify.com/album/3Ahz3KpKarLfZAb2bYEe65) | 3:54 |
-| 112 | [Funky Galileo](https://open.spotify.com/track/0TAHhMjG17P5pzlSm1sgSl) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Funky Galileo](https://open.spotify.com/album/4FpWPCgvF7mSQpDZGZgwSU) | 4:06 |
-| 113 | [Unknown Song](https://open.spotify.com/track/2zR85boqjMOKPygjdDbGbC) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [Paulina Eisenberg](https://open.spotify.com/artist/1obwjMHQ4kZ2bXoBhLIaBT) | [Unknown Song](https://open.spotify.com/album/62rE0W1Vy1v48FTO9hxPzx) | 4:10 |
-| 114 | [Fuzzybrain](https://open.spotify.com/track/57HJa4ktE7iHGrbFhwzEr2) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3) | 3:39 |
+| 112 | [Fuzzybrain](https://open.spotify.com/track/57HJa4ktE7iHGrbFhwzEr2) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3) | 3:39 |
+| 113 | [Funky Galileo](https://open.spotify.com/track/0TAHhMjG17P5pzlSm1sgSl) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Funky Galileo](https://open.spotify.com/album/4FpWPCgvF7mSQpDZGZgwSU) | 4:06 |
+| 114 | [Unknown Song](https://open.spotify.com/track/2zR85boqjMOKPygjdDbGbC) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [Paulina Eisenberg](https://open.spotify.com/artist/1obwjMHQ4kZ2bXoBhLIaBT) | [Unknown Song](https://open.spotify.com/album/62rE0W1Vy1v48FTO9hxPzx) | 4:10 |
 | 115 | [Sometimes](https://open.spotify.com/track/7oJmIBxEAYjfkS7lhZ7M1S) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Sometimes](https://open.spotify.com/album/7LPsBxxixuOPJl7grf3PX3) | 4:22 |
 | 116 | [Dope on a Rope](https://open.spotify.com/track/76c1AuZodByXM3X2k48wju) | [The Growlers](https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe) | [City Club](https://open.spotify.com/album/4LO26juP3UnGdO3mB2imxl) | 4:10 |
 | 117 | [Cloud 9 \(feat\. Tegan and Sara\)](https://open.spotify.com/track/2pGXCabl4UlMiskwh7evDq) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H), [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Cloud 9 \(feat\. Tegan and Sara\)](https://open.spotify.com/album/7mtW3i89gUuP9A0dLYZ7BO) | 2:28 |
 | 118 | [These Are The Days](https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [These Are The Days](https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz) | 3:42 |
-| 119 | [Hold Me Down](https://open.spotify.com/track/2e62x0Mhv46Zx1ph0W4B3d) | [The Happy Fits](https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ) | [What Could Be Better](https://open.spotify.com/album/7FhH5nGululV6EAqwf6X0c) | 3:43 |
-| 120 | [Johnson Song](https://open.spotify.com/track/1g3hJAu22j2gINrSTSpwp0) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV) | 3:43 |
+| 119 | [Bitter](https://open.spotify.com/track/2DkZisoN9h1dLa8Sn5sx0n) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [So Long Forever](https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y) | 3:53 |
+| 120 | [Marvelous](https://open.spotify.com/track/5wkEdciZkVGiasumRPReSV) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Tell Me That It’s Over](https://open.spotify.com/album/5L6fAzbz2x5oF8l0qluSKm) | 2:22 |
 
-Snapshot ID: `MTY2MTg4ODMzMCwwMDAwMDAwMDRlMjM5YjQ5MmE5NTJkZjc5ZGUwNGFiMDBhYmU2YTU0`
+Snapshot ID: `MTY2MTg4ODMzMCwwMDAwMDAwMDE3ODhiZmI2YWFmNzA5ODRkMmZhMzRkYjgxMmIzYjE0`

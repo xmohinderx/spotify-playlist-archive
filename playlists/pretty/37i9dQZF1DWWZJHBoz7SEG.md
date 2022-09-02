@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Kevin Kaarl, Elton John y Britney Spears; KAROL G, Reik y Sech; y más!
 
-[Spotify](https://open.spotify.com/user/spotify) - 714,503 likes - 51 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 714,554 likes - 51 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 25 | [Idilio](https://open.spotify.com/track/5FtjZf2fUJpwIrAkJwsK21) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Idilio](https://open.spotify.com/album/0g8fVIMvb5v9atJ0Uzv42o) | 2:44 |
 | 26 | [DISCOTEKA](https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [DISCOTEKA](https://open.spotify.com/album/0XJBQZQTh3OZCt5ACMtEAs) | 2:54 |
 | 27 | [Soy](https://open.spotify.com/track/2NH2GnXvdwVFfO0jL3yEG1) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Soy](https://open.spotify.com/album/5jitZ7zAFk0VeyGL74pS6e) | 3:31 |
-| 28 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi) | 2:21 |
+| 28 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/0GxWXE6ltKk4Gx3WyWLLrW) | 2:21 |
 | 29 | [i can't help it](https://open.spotify.com/track/1HkRnB3c6aVMJxAryrsMsc) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [i can't help it](https://open.spotify.com/album/1vJ1jmaxBT3tHp54igkrmK) | 2:57 |
 | 30 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 |
 | 31 | [BEAUTIFUL \(feat\. Future & SZA\)](https://open.spotify.com/track/5kYSScXYOZYyi0fxramiW6) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 3:43 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 33 | [Creí Que Eras Mía](https://open.spotify.com/track/5xPNaAkz0dHM728BC21dnY) | [Adan Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Las Baladas del 19](https://open.spotify.com/album/6nG9UiUt9ls9rhCB3Q9hkD) | 3:47 |
 | 34 | [Despierto](https://open.spotify.com/track/2yqIUfi3oqtTNbOMgUM9kI) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Despierto](https://open.spotify.com/album/4wkRkFsBnBE68ms9lq7MbB) | 2:30 |
 | 35 | [You Make Me Feel Like It’s Halloween](https://open.spotify.com/track/4k0hvjglHbcZI203QI4pF7) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:00 |
-| 36 | [La Última Llamada](https://open.spotify.com/track/6uvNQEoUPJaHI10oVffAHO) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [La Última Llamada](https://open.spotify.com/album/2G0Z5q89Kp9NXX6a7y5F1t) | 3:14 |
+| 36 | [La Última Llamada](https://open.spotify.com/track/3xqO0HGtRgTkS9xzNEQxwb) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [La Última Llamada](https://open.spotify.com/album/5SFEcLOtKOTjlI1q72TbnL) | 3:14 |
 | 37 | [Eh Hee 2.0 \(feat\. Dave Matthews, Pat Metheny\)](https://open.spotify.com/track/5N9bcA6tfDSDCcymXQlqqn) | [Antonio Sánchez](https://open.spotify.com/artist/19KpCg8O15A2eZ416EyFdw), [Dave Matthews](https://open.spotify.com/artist/13vQloYd6mP7V1mVwKJwS2), [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [SHIFT \(Bad Hombre, Vol\. II\)](https://open.spotify.com/album/68mtSbfLawBp5pJvBxSEAF) | 4:28 |
 | 38 | [KIDZ \- Spotify Singles](https://open.spotify.com/track/2Fc0wy51lDMnxcEcli7UNK) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [KIDZ \- Spotify Singles](https://open.spotify.com/album/7BrgeOGDEUsE0QDk9m75Zv) | 3:24 |
 | 39 | [Platicamos](https://open.spotify.com/track/5E2iOjnZGDVjfGZygtISw9) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Platicamos](https://open.spotify.com/album/45SnjkMBBSQ01TNzU7H9Mx) | 2:56 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 50 | [Phantom](https://open.spotify.com/track/14wSiOY3ZjskXuFj4xiEAD) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Phantom](https://open.spotify.com/album/4wJcxxuS21izYigHCM58gr) | 4:25 |
 | 51 | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/track/2NbS9E0ZZKAMJAppj8P53N) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/album/2HQGXK9797uB6Ir8yd7Das) | 5:03 |
 
-Snapshot ID: `MTY2MTU0Mzg2OCwwMDAwMDAwMDlmYmI5MDQ4NTg2ZDY3YTQ1MDA5M2JmMDgyYTg2NjFj`
+Snapshot ID: `MTY2MTU0Mzg2OCwwMDAwMDAwMDJmODdlMDg1MjZjN2VmYjBkNzY5Nzk4MmMzZGMzOTk2`

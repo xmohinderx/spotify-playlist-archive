@@ -4,7 +4,7 @@
 
 > The unforgettable romantic jazz songs\. Cover: Nat King Cole
 
-133 songs - 7 hr 39 min - [published](https://open.spotify.com/playlist/3qUetQLNSupJ2CAPcW3Sx3)
+134 songs - 7 hr 43 min - [published](https://open.spotify.com/playlist/3qUetQLNSupJ2CAPcW3Sx3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Just You, Just Me \- Remastered 1999](https://open.spotify.com/track/4TktGfWqFoYgimmSo1ApQQ) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [After Midnight: The Complete Session](https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81) | 3:02 | 2022-02-25 | 2022-08-11 |
 | [L\-O\-V\-E](https://open.spotify.com/track/4QxDOjgpYtQDxxbWPuEJOy) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [L\-O\-V\-E](https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL) | 2:35 | 2022-06-22 |  |
 | [L\-O\-V\-E \- 2004 \- Remastered](https://open.spotify.com/track/5QjNF4TMjF2E72D3nAIty6) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The World Of Nat King Cole \- His Very Best \(UK Import Edition\)](https://open.spotify.com/album/0pBFpiQv2SmHShiysxDedE) | 2:34 | 2021-12-02 | 2022-07-29 |
-| [Let's Call The Whole Thing Off](https://open.spotify.com/track/0K4EFVqPaD9cpx7h42YycE) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [Mr\. Top Hat](https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz) | 4:24 | 2022-01-14 |  |
+| [Let's Call The Whole Thing Off](https://open.spotify.com/track/0K4EFVqPaD9cpx7h42YycE) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [Mr\. Top Hat](https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz) | 4:24 | 2022-01-14 | 2022-09-02 |
 | [Let's Do It \(Let's Fall In Love\)](https://open.spotify.com/track/5mRF9wpnR4j6QnRXJCNgoO) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella And Louis Again](https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M) | 8:41 | 2021-12-02 |  |
 | [Let's Fall In Love](https://open.spotify.com/track/2RnJD2mTBxqvHcqmXk1n9c) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Sings Sweet Songs For Swingers](https://open.spotify.com/album/6SESAIqP8sQTVp0ZRVcdOq) | 3:04 | 2022-02-25 |  |
 | [Like Someone In Love \- Vocal Version](https://open.spotify.com/track/7HqMu6Oa7jLQVDUuWiy6v2) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 2:26 | 2021-12-02 |  |
@@ -139,6 +139,7 @@
 | [You Leave Me Breathless \- 2015 Remastered Version](https://open.spotify.com/track/3MmiQ6gww1XjbWuJXIgZ9f) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [It's a Blue World \(2015 Remastered Version\)](https://open.spotify.com/album/3H4xz6H9pnLcJH2vq8jC70) | 3:23 | 2022-08-10 | 2022-08-31 |
 | [You Make Me Feel so Young](https://open.spotify.com/track/08RnPHoZRQr6BuD92JRvkk) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [The Essential Rosemary Clooney](https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP) | 2:52 | 2022-02-25 |  |
 | [You're Getting To Be A Habit With Me](https://open.spotify.com/track/3JrECZZVBiWeL9GJMMfzdj) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Things Are Swingin'](https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT) | 2:42 | 2022-02-25 |  |
+| [You're Mine, You!](https://open.spotify.com/track/5JRDIhGU31EyE4OSUlDtWI) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baby Breeze \(Expanded Edition\)](https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM) | 3:18 | 2022-09-01 |  |
 | [You're My Thrill](https://open.spotify.com/track/6FTNlQjDHIegogP2uHvSk0) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Quiet Nights](https://open.spotify.com/album/1zTw5dv57Nd7qQNYO1qcmd) | 5:47 | 2021-12-02 | 2022-05-20 |
 | [You're My Thrill](https://open.spotify.com/track/2QIFlui5Q2CYUYJo2v5OlQ) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella For Lovers \(Deluxe Edition\)](https://open.spotify.com/album/1KfOM3t0clnNyG185CgOt3) | 3:36 | 2022-05-31 | 2022-08-31 |
 

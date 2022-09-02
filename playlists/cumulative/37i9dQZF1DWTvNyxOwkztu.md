@@ -4,7 +4,7 @@
 
 > Just lean back and enjoy these relaxed beats.
 
-205 songs - 11 hr 23 min - [published](https://open.spotify.com/playlist/1B3KGcDzKz7tniplCeg7Gc)
+206 songs - 11 hr 26 min - [published](https://open.spotify.com/playlist/1B3KGcDzKz7tniplCeg7Gc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [1984](https://open.spotify.com/track/0scTJd9W6i8CJFJ1dtPzw7) | [Mauve](https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh) | [1984](https://open.spotify.com/album/03FYIY7GnjIE0F3qvAaszJ) | 2:37 | 2022-06-02 |  |
 | [9 PM](https://open.spotify.com/track/0R6iI9Z9Zj0h6BvHO4o2P9) | [COLIN](https://open.spotify.com/artist/65Uy8U5VKTrqB70p39OLsH) | [9 PM](https://open.spotify.com/album/1yAbvqzI8QNGsSP7KxtP0F) | 2:00 | 2021-12-09 |  |
 | [A Glitch](https://open.spotify.com/track/2aIkJY5Fqg5F5r09nk47GG) | [Miller Ford](https://open.spotify.com/artist/6CsVE4PENAADboY4Pzq5Xy) | [A Glitch](https://open.spotify.com/album/3m5DMoORrvBiIaBDzDjDrv) | 3:18 | 2022-03-11 |  |
-| [Adore](https://open.spotify.com/track/2elyvOdJyP3b0h0FxM7BqT) | [Apsa](https://open.spotify.com/artist/6DDiYDtHywDhJPGHDCSKzm) | [Adore](https://open.spotify.com/album/6FTW4vthpJX9HeB97mtvh4) | 2:02 | 2021-12-09 |  |
+| [Adore](https://open.spotify.com/track/2elyvOdJyP3b0h0FxM7BqT) | [Apsa](https://open.spotify.com/artist/6DDiYDtHywDhJPGHDCSKzm) | [Adore](https://open.spotify.com/album/6FTW4vthpJX9HeB97mtvh4) | 2:02 | 2021-12-09 | 2022-09-02 |
 | [Adventurous](https://open.spotify.com/track/1Fqwyw77YAzrBVSaJp9kFm) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc) | [Adventurous](https://open.spotify.com/album/4HEaT0EG4q2UpZvkyVPm6W) | 2:59 | 2021-12-09 |  |
 | [Africa to the World](https://open.spotify.com/track/2SVPNYPAozCGQP4C7uhTqq) | [Eloi El](https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ) | [Africa to the World](https://open.spotify.com/album/5DHuZXoJiWYFbtqxRYDPH2) | 2:26 | 2021-12-09 | 2022-07-29 |
 | [Africa to the World](https://open.spotify.com/track/5v3gUhVDurjzJZ2ycJN1xu) | [Eloi El](https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ) | [Africa to the World](https://open.spotify.com/album/3z61lYxp7ucCtjInYmPvWR) | 2:26 | 2022-08-05 | 2022-08-17 |
@@ -185,6 +185,7 @@
 | [Swim](https://open.spotify.com/track/7qHfaAlihkWeA4Xu60v3Pi) | [COLIN](https://open.spotify.com/artist/65Uy8U5VKTrqB70p39OLsH) | [Swim](https://open.spotify.com/album/5mNaZAGvS4jljaYgQxvYQs) | 2:07 | 2021-12-09 |  |
 | [Sïstër](https://open.spotify.com/track/6dnNEVwVUG7hRwVYAyCcV1) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Sïstër](https://open.spotify.com/album/6WhIiPn8rVCtFXfk4PBIuS) | 3:23 | 2021-12-09 |  |
 | [The Kármán Line](https://open.spotify.com/track/1dcu7ZenUoBB7J0r1sg5lz) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [The Kármán Line](https://open.spotify.com/album/1JQp2HkeTTYoaQOTcJdFfi) | 3:23 | 2021-12-09 | 2022-04-21 |
+| [The Lovers](https://open.spotify.com/track/422o6ex3eHTXDc2DtOFh7R) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp), [Cathy Battistessa](https://open.spotify.com/artist/7B9gTlTLJOW6YKBDgSrEOO) | [The Lovers](https://open.spotify.com/album/2YVUSJsWAhCSQGCS7KrN11) | 3:24 | 2022-08-05 |  |
 | [The Morning After \- Radio Edit](https://open.spotify.com/track/3Efc5gn8M6ZkjwcPFGz1ZP) | [Sound Nomaden](https://open.spotify.com/artist/1R4DbF6CAroRPIDBAkPIi0) | [The Morning After \(Radio Edit\)](https://open.spotify.com/album/7qSRFKdJaK8cmAae3wxbzC) | 3:52 | 2021-12-09 |  |
 | [The right mood](https://open.spotify.com/track/0lzMp9DVxuCFUXE1eztXjc) | [Alan Devale](https://open.spotify.com/artist/5KuppFlfwpXUiNaNsRwIiY) | [The right mood](https://open.spotify.com/album/3KXn4vx4FKBFhCpiWgzx3f) | 3:12 | 2022-05-20 |  |
 | [The Screen](https://open.spotify.com/track/7JZpf4Rct4FfrRpQ3KkEOG) | [Oruam](https://open.spotify.com/artist/7hswPtRs02dG03rVj7wQBK) | [The Screen](https://open.spotify.com/album/6qzUxr3JUL5D6SWT2TK3sr) | 3:17 | 2021-12-09 |  |

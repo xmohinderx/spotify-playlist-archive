@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hD3xpkU4gL.md) - [plain]
 
 > Para cantar muy bajito..\. o a voz en grito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,411 likes - 100 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,583 likes - 100 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hD3xpkU4gL.md) - [plain]
 | 18 | [I Want to Know What Love Is \- 1999 Remaster](https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Agent Provocateur](https://open.spotify.com/album/4oQhDQDKMeI6IMlwpXt3j8) | 5:04 |
 | 19 | [Your Song](https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) | 4:01 |
 | 20 | [Cuando Nadie Ve](https://open.spotify.com/track/71iAechwVKGu26pahzFL0k) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Balas Perdidas](https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8) | 3:39 |
-| 21 | [Total Eclipse of the Heart](https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj) | [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [The Very Best of Bonnie Tyler](https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb) | 4:27 |
-| 22 | [Wicked Game](https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Heart Shaped World](https://open.spotify.com/album/5Das42Qx4AoU9iT4M7PW3U) | 4:49 |
+| 21 | [Wicked Game](https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Heart Shaped World](https://open.spotify.com/album/5Das42Qx4AoU9iT4M7PW3U) | 4:49 |
+| 22 | [Total Eclipse of the Heart](https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj) | [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [The Very Best of Bonnie Tyler](https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb) | 4:27 |
 | 23 | [I Will Always Love You](https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:31 |
 | 24 | [Heaven](https://open.spotify.com/track/7Ewz6bJ97vUqk5HdkvguFQ) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 4:03 |
 | 25 | [La Incondicional](https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Busca Una Mujer](https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo) | 4:17 |
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hD3xpkU4gL.md) - [plain]
 | 34 | [Against All Odds \(Take a Look at Me Now\) \- 2016 Remaster](https://open.spotify.com/track/63CHa6rmamv9OsehkRD8oz) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [The Singles \(Expanded\)](https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah) | 3:26 |
 | 35 | [Somewhere Only We Know](https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:56 |
 | 36 | [More Than Words](https://open.spotify.com/track/1gVgkQFOKa8Wc1HYsJtPdH) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [Extreme II \- Pornograffitti](https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC) | 5:34 |
-| 37 | [Everybody Hurts](https://open.spotify.com/track/6PypGyiu0Y2lCDBN1XZEnP) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Automatic For The People](https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q) | 5:20 |
-| 38 | [Torn](https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [Left Of The Middle](https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9) | 4:04 |
-| 39 | [Es Por Ti](https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 4:10 |
+| 37 | [Es Por Ti](https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 4:10 |
+| 38 | [Everybody Hurts](https://open.spotify.com/track/6PypGyiu0Y2lCDBN1XZEnP) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Automatic For The People](https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q) | 5:20 |
+| 39 | [Torn](https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [Left Of The Middle](https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9) | 4:04 |
 | 40 | [Hungry Eyes \- From "Dirty Dancing" Soundtrack](https://open.spotify.com/track/31H6au3jhblhr6MMJiXnCq) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [The Definitive Collection](https://open.spotify.com/album/02CxAhdSRhzcm6XQ8m5RNp) | 4:11 |
 | 41 | [Crazy](https://open.spotify.com/track/74irxdVWstNlEQjsvArITq) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79) | 5:16 |
 | 42 | [My Heart Will Go On \- Love Theme from "Titanic"](https://open.spotify.com/track/33LC84JgLvK2KuW43MfaNq) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Let's Talk About Love](https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs) | 4:40 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hD3xpkU4gL.md) - [plain]
 | 63 | [Cuando Me Enamoro](https://open.spotify.com/track/79gkHjNTSyGPXEyGkNQ8zH) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Euphoria \(Standard US/Latin version\)](https://open.spotify.com/album/12HeDZhPHHzCe7VE0uEYwD) | 3:20 |
 | 64 | [Say You, Say Me](https://open.spotify.com/track/17CPezzLWzvGfpZW6X8XT0) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Dancing On The Ceiling \(Expanded Edition\)](https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf) | 4:01 |
 | 65 | [Jueves](https://open.spotify.com/track/1UDToCUvhfhYrTFxA1Xi4w) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [A las Cinco en el Astoria](https://open.spotify.com/album/2x2ZnWT2gqKGXYul03g47r) | 3:59 |
-| 66 | [Aunque no te pueda ver](https://open.spotify.com/track/2425UlXvkIkAEJAtAd8ROm) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X) | [Fantasía o realidad](https://open.spotify.com/album/1RF8AaupRPlmA13HxSdWAe) | 4:26 |
-| 67 | [Up Where We Belong \- From "An Officer And A Gentleman"](https://open.spotify.com/track/4U6mBgGP8FXN6UH4T3AJhu) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [The Anthology](https://open.spotify.com/album/0OdFUi5lSenjXrgy4dVAP8) | 3:52 |
+| 66 | [Up Where We Belong \- From "An Officer And A Gentleman"](https://open.spotify.com/track/4U6mBgGP8FXN6UH4T3AJhu) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [The Anthology](https://open.spotify.com/album/0OdFUi5lSenjXrgy4dVAP8) | 3:52 |
+| 67 | [Aunque no te pueda ver](https://open.spotify.com/track/2425UlXvkIkAEJAtAd8ROm) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X) | [Fantasía o realidad](https://open.spotify.com/album/1RF8AaupRPlmA13HxSdWAe) | 4:26 |
 | 68 | [Vas A Quedarte](https://open.spotify.com/track/0fwIHsKXNEcb57u2um7z9I) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Spoiler](https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j) | 3:46 |
 | 69 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Sus 16 Grandes Exitos](https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i) | 3:39 |
 | 70 | [When a Man Loves a Woman](https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [When a Man Loves a Woman](https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M) | 2:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hD3xpkU4gL.md) - [plain]
 | 99 | [Te echo de menos](https://open.spotify.com/track/1YgPkZ6GOwajDveEsuy3uH) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Prisma](https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq) | 3:14 |
 | 100 | [Cómo Quieres Que Te Quiera](https://open.spotify.com/track/6jAs8GeDUmnr6l7u1HU2zB) | [Rosario](https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW) | [Muchas Flores](https://open.spotify.com/album/5sQsi6UbT9nYh72ziLRivg) | 4:27 |
 
-Snapshot ID: `MTY1ODM3NjAwMCwwMDAwMDAwMGViMWI2ZGNiOGExZTdiNWM3NzZhNmZhZjE4NzVjMTEy`
+Snapshot ID: `MTY1ODM3NjAwMCwwMDAwMDAwMGNjNjRkOGYyZWI2OGNkOWJkN2I0NzMxZjNiNmNkZTlh`

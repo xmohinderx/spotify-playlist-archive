@@ -4,7 +4,7 @@
 
 > Indie tunes for t\-shirt weather.
 
-276 songs - 15 hr 43 min - [published](https://open.spotify.com/playlist/6Y4ymtVT29RGI1Pm3fIQpf)
+277 songs - 15 hr 46 min - [published](https://open.spotify.com/playlist/6Y4ymtVT29RGI1Pm3fIQpf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [AMAZING](https://open.spotify.com/track/3OM6qQmdFV6uy61GIqpRtf) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:29 | 2022-03-24 |  |
 | [Angel](https://open.spotify.com/track/1l1o761oy3oZiwzU75QI5S) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Angel](https://open.spotify.com/album/5FMkcYANuajBUi9yq27hgU) | 3:56 | 2021-08-13 | 2022-05-02 |
 | [Angelica](https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:52 | 2022-05-06 |  |
-| [Anything But Me](https://open.spotify.com/track/32JZt8EmiioCGTU6UIXJ4E) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Anything But Me](https://open.spotify.com/album/3qeTo7DFj1P9dcBa92GrpX) | 3:33 | 2022-03-24 |  |
+| [Anything But Me](https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 3:33 | 2022-08-25 |  |
+| [Anything But Me](https://open.spotify.com/track/32JZt8EmiioCGTU6UIXJ4E) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Anything But Me](https://open.spotify.com/album/3qeTo7DFj1P9dcBa92GrpX) | 3:33 | 2022-03-24 | 2022-09-02 |
 | [Are We There Yet](https://open.spotify.com/track/5gj54T2o1IfFW2wNPl4D3b) | [Motel 7](https://open.spotify.com/artist/1VdkivxkOsvAIWNszCMzW6) | [Are We There Yet](https://open.spotify.com/album/78DrQe0LBkCyxTdt3zmEpF) | 2:59 | 2021-08-13 | 2022-06-09 |
 | [Are You Happy?](https://open.spotify.com/track/4kLdC0g4IzdTL1sUlIpnh4) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [Are You Happy?](https://open.spotify.com/album/0XqYtsDMA5ORWlPLkc2LGF) | 3:12 | 2021-08-13 | 2022-07-16 |
 | [Automatic](https://open.spotify.com/track/3cAZ0A6Mmwcowrnu8r7b7o) | [Max Pope](https://open.spotify.com/artist/1pW42WHCsBicnNoBkcbD7i) | [Automatic](https://open.spotify.com/album/6Z5o62tAOsM7gIeMVhm0WC) | 2:55 | 2021-08-13 | 2022-07-29 |

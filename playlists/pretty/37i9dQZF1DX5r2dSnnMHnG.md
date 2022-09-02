@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 
 > 벚꽃이 흩날리고 새싹이 피어오르는 봄의 설레임을 만끽하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,845 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,848 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 38 | [Mean 심술](https://open.spotify.com/track/3r8mOSPtXvoXSBTbmbaQcP) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Full Album RED PLANET](https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL) | 2:37 |
 | 39 | [Merry And The Witch’s Flower](https://open.spotify.com/track/55tdBGmnhA3pPqn9Ih4vzb) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Our Love is Great](https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW) | 4:04 |
 | 40 | [Walking In The Memory](https://open.spotify.com/track/7EbrlzJyVfSZVldEY0MnCJ) | [MJ](https://open.spotify.com/artist/1eb5JBCoVVqiHp7FdrtBSa) | [The Crush Of Spring OST Special Track](https://open.spotify.com/album/4rUPBt8ztBW38rCPJUdXiT) | 3:10 |
-| 41 | [Say I Love U](https://open.spotify.com/track/1qwn1cLzaOKb501YwbuF1H) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Love Interference Season3 \(Original Television Soundtrack\), Pt\. 17](https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG) | 2:50 |
-| 42 | [Check\-In](https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5) | [ソヌ・ジョンア](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Seoul Check\-in OST Part 6](https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy) | 3:11 |
+| 41 | [Check\-In](https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5) | [ソヌ・ジョンア](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Seoul Check\-in OST Part 6](https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy) | 3:11 |
+| 42 | [Say I Love U](https://open.spotify.com/track/1qwn1cLzaOKb501YwbuF1H) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Love Interference Season3 \(Original Television Soundtrack\), Pt\. 17](https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG) | 2:50 |
 | 43 | [Ten Reasons I Love You\(2021\)](https://open.spotify.com/track/6iTIhJhvTLWsIH6DMfhfvD) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot), [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [Ten Reasons I Love You\(2021\)](https://open.spotify.com/album/7jYHHFrMHo5grqQ1oQ2oRH) | 4:10 |
 | 44 | [Thinking of you \(Feat\. Lee Yu Bin\)](https://open.spotify.com/track/0HjXWaEloMpHcBUlQOqDhr) | [Brunch recipe](https://open.spotify.com/artist/1dD0MLYuJ9HuIzBpQSKh0v), [Lee Yu Bin](https://open.spotify.com/artist/68n72jwJJfHg9MeLekrdub) | [Thinking of you](https://open.spotify.com/album/1MwHsKCA47rjE8vV9XKLqA) | 3:13 |
 | 45 | [Spring Flowers](https://open.spotify.com/track/0FAI7639ZRr1bJfFgy0Q9O) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [LOVIN'](https://open.spotify.com/album/2CMfMvcjtBXHT3XhLCvgyH) | 3:36 |
@@ -68,20 +68,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 58 | [Loneliness Amplifier](https://open.spotify.com/track/6yDx0EcCpFa4SvFwe0d0Sr) | [Busker Busker](https://open.spotify.com/artist/6jgrgDBt1SbtNbc25sLaTH) | [Busker Busker 1st](https://open.spotify.com/album/56XzxNKUGySZcu1nByxo3y) | 3:03 |
 | 59 | [Just Can't Say](https://open.spotify.com/track/2E3PNYbkIKRiQrRVDb0pIg) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [LOG](https://open.spotify.com/album/7xNGojQFo9UPNIVuuDF1EL) | 3:23 |
 | 60 | [Is you](https://open.spotify.com/track/3psUv10FonfFanuBDiM4lb) | [Jay chang](https://open.spotify.com/artist/7H2xroGGrPmbmHtwBOZyLT) | [Is you](https://open.spotify.com/album/6KAKOjRxl9jV0mwLaNEYpk) | 3:51 |
-| 61 | [Mini Stewardess](https://open.spotify.com/track/2kG9KpdmG8hKdJI6UOQZiN) | [Harryan Yoonsoan](https://open.spotify.com/artist/1yiaSLGVlq43ZC9pFLQ8lQ) | [Mini Stewardess](https://open.spotify.com/album/0uU0wcGNAp8ODhVCosMWab) | 3:22 |
-| 62 | [SOME](https://open.spotify.com/track/3SFoX1aJtEOt3b0GH5lRdc) | [KIM DONG HYUN](https://open.spotify.com/artist/6NuAIYZptWXWUCAInxX6PU) | [Fling at Convenience Store \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/0ftFFfhQ3SUJ2Hrj6gkbnU) | 3:43 |
-| 63 | [Spring](https://open.spotify.com/track/2jqFUiYryAqZRbCNA5D1oM) | [Joob A](https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP) | [Spring](https://open.spotify.com/album/1wGIkXzSpJd7VfoGJBkVbs) | 2:53 |
-| 64 | [Where the Wind Rises](https://open.spotify.com/track/6s6n1Rc2zy9LtSAPsvaEPM) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM) | [A daily adventurer](https://open.spotify.com/album/4RbiWNvhyQFKjiC6d0bTRP) | 3:24 |
+| 61 | [Where the Wind Rises](https://open.spotify.com/track/6s6n1Rc2zy9LtSAPsvaEPM) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM) | [A daily adventurer](https://open.spotify.com/album/4RbiWNvhyQFKjiC6d0bTRP) | 3:24 |
+| 62 | [Mini Stewardess](https://open.spotify.com/track/2kG9KpdmG8hKdJI6UOQZiN) | [Harryan Yoonsoan](https://open.spotify.com/artist/1yiaSLGVlq43ZC9pFLQ8lQ) | [Mini Stewardess](https://open.spotify.com/album/0uU0wcGNAp8ODhVCosMWab) | 3:22 |
+| 63 | [SOME](https://open.spotify.com/track/3SFoX1aJtEOt3b0GH5lRdc) | [KIM DONG HYUN](https://open.spotify.com/artist/6NuAIYZptWXWUCAInxX6PU) | [Fling at Convenience Store \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/0ftFFfhQ3SUJ2Hrj6gkbnU) | 3:43 |
+| 64 | [Spring](https://open.spotify.com/track/2jqFUiYryAqZRbCNA5D1oM) | [Joob A](https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP) | [Spring](https://open.spotify.com/album/1wGIkXzSpJd7VfoGJBkVbs) | 2:53 |
 | 65 | [Paints \(feat\. 1ho\)](https://open.spotify.com/track/4OtqERJlgW34oCFGZVmkF7) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [GODAK](https://open.spotify.com/artist/1ul4BJWyGZ6DGJcQ2LoFrn), [1ho](https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g) | [Paints \(feat\. 1ho\)](https://open.spotify.com/album/5zPPNCnontFzam8kszcCIZ) | 3:02 |
 | 66 | [Coffee](https://open.spotify.com/track/0rn5XDtcm3WKYzeKMsXuwi) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Love Story \(4 Season Project 季\) \- The 4th Mini Album](https://open.spotify.com/album/4mn3WfpV1xpo65yxoCdSgy) | 3:42 |
 | 67 | [Green Tea](https://open.spotify.com/track/2Y7cOqDqsA2MpQ4HX4B8MD) | [The Green Tea](https://open.spotify.com/artist/2YSSfMg2K75oTvfc63kGQB) | [Heart in Motion](https://open.spotify.com/album/4mFnHs0Q8PXVeibICq4w15) | 4:07 |
 | 68 | [Weird Boy](https://open.spotify.com/track/1S6Kx6dOOWlJecLe1fM3Sm) | [murmoom](https://open.spotify.com/artist/2vsaAlNouG0tPd8CMKj7l3) | [Weird Boy](https://open.spotify.com/album/6EJ0l23dnuI89XY09Vbh9s) | 3:37 |
 | 69 | [blooming](https://open.spotify.com/track/4ZEdXvd8rWGwOArzGzXr2u) | [Kim Marie](https://open.spotify.com/artist/0dBTTLuseszs4BqgyXCrC8) | [blooming](https://open.spotify.com/album/4m6i862LBcQlLoDR5INrN3) | 3:59 |
 | 70 | [OH NONONO](https://open.spotify.com/track/0rJj6xWfFKbBVNw6dG54yb) | [INYU](https://open.spotify.com/artist/3DGTTI7kUEwQUoBOykiS0t), [Seokman Cheon](https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/7tYKa7avcGAwqcYZOpX8ed) | 3:01 |
-| 71 | [Walk](https://open.spotify.com/track/6EJXOBn2gYccEJLMsZXiSw) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Walk](https://open.spotify.com/album/4erB8I424GyOFWNcze24Dd) | 3:35 |
-| 72 | [Cliche](https://open.spotify.com/track/3j4S4QDWyHo1pBrhLfUgqM) | [ROJO](https://open.spotify.com/artist/5fb2Jm0wQjvBzc5Wu6RrGl) | [Cliche](https://open.spotify.com/album/0HvDuRpsbzr3ZMewq2zIxE) | 3:06 |
+| 71 | [Cliche](https://open.spotify.com/track/3j4S4QDWyHo1pBrhLfUgqM) | [ROJO](https://open.spotify.com/artist/5fb2Jm0wQjvBzc5Wu6RrGl) | [Cliche](https://open.spotify.com/album/0HvDuRpsbzr3ZMewq2zIxE) | 3:06 |
+| 72 | [Walk](https://open.spotify.com/track/6EJXOBn2gYccEJLMsZXiSw) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Walk](https://open.spotify.com/album/4erB8I424GyOFWNcze24Dd) | 3:35 |
 | 73 | [Afterimage Project Pt.1 'Oasis' \- Oasis \(go with me\)](https://open.spotify.com/track/43jpdMVpf2TK08VNfBobHg) | [Kim Kyu Jong](https://open.spotify.com/artist/3WMXYNpeC5Z5POJdES9VDp) | [Afterimage Project Pt.1 'Oasis' \- Oasis \(go with me\)](https://open.spotify.com/album/3eRrOAD9HZDivVY1n9dIKQ) | 3:09 |
 | 74 | [Amaranth \(FEAT\. DINDIN\)](https://open.spotify.com/track/1edDx0IWDK9HnLsenR6Uss) | [Cho Hyunyoung](https://open.spotify.com/artist/1H2S37zuLm5Sn4PBADR72w), [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z) | [Amaranth \(FEAT\. DINDIN\)](https://open.spotify.com/album/0D0b3zqhmAg4EejKihHyI9) | 2:54 |
 | 75 | [The Season Of You](https://open.spotify.com/track/1Lb7mJc6hxkCEiFnKGWoKG) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Asteroid](https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj) | 3:59 |
 
-Snapshot ID: `MTY2MDA2NDMyNywwMDAwMDAwMDY2ZGZjN2EzMTgxMGYxZWQzNzA2YzliMjdkNmYzYTE3`
+Snapshot ID: `MTY2MDA2NDMyNywwMDAwMDAwMDRiZTYwZDljMGQxMjlkOTRhYTEyMzAxOGM0MGNiMTUx`

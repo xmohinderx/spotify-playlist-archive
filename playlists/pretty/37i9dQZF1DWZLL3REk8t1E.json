@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A calentar garganta!",
-  "num_followers": 1078614,
+  "num_followers": 1078802,
   "original_name": "La Cantina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTU1MzE2NiwwMDAwMDAwMDVlNTg1OTIwOTE1YWQ0OWI0NGI4N2RhNjA2OGI4NjJl",
+  "snapshot_id": "MTY1OTU1MzE2NiwwMDAwMDAwMGY3NmE4NzFjNmU2YmNiNjU0NzgwODZjNGUyMmU1ZDRi",
   "tracks": [
     {
       "added_at": "2022-08-03 18:59:26",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-08-03 18:59:26",
       "album": {
-        "name": "Desvelada Con Banda y Mariachi",
-        "url": "https://open.spotify.com/album/4XbELhyxUc6LUWu3sewRnf"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 147514,
-      "name": "El Rey De Mil Coronas - Live",
-      "url": "https://open.spotify.com/track/1c0i26VMuRPQotPKBDfnzd"
-    },
-    {
-      "added_at": "2022-08-03 18:59:26",
-      "album": {
         "name": "Colecci\u00f3n Privada \"Las 20 Exclusivas\"",
         "url": "https://open.spotify.com/album/4hueGGPMBXDsGn9Zjv7uvB"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 181266,
       "name": "Ya Es Muy Tarde",
       "url": "https://open.spotify.com/track/47ehW8KNY6XhEtwMYAY0br"
+    },
+    {
+      "added_at": "2022-08-03 18:59:26",
+      "album": {
+        "name": "Desvelada Con Banda y Mariachi",
+        "url": "https://open.spotify.com/album/4XbELhyxUc6LUWu3sewRnf"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 147514,
+      "name": "El Rey De Mil Coronas - Live",
+      "url": "https://open.spotify.com/track/1c0i26VMuRPQotPKBDfnzd"
     },
     {
       "added_at": "2022-08-03 18:59:26",

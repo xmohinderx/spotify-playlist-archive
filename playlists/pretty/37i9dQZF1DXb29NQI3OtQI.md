@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb29NQI3OtQI.md) - [plain]
 
 > The best soft rock from the 2000s\. Cover: Lifehouse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,954 likes - 80 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,079 likes - 80 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb29NQI3OtQI.md) - [plain]
 | 54 | [Getaway Car](https://open.spotify.com/track/3xOAzRgOEDn0zc4zPIBRsE) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 4:58 |
 | 55 | [The End](https://open.spotify.com/track/0PkOdIbNj8L3e0p1JGIfLO) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Backspacer](https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN) | 2:57 |
 | 56 | [Control \- Acoustic Version](https://open.spotify.com/track/325aNb4eh8HesYlrJmLSMX) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 4:07 |
-| 57 | [So Long Goodbye](https://open.spotify.com/track/3Burs1JDgHMNXZ7wAMwe8u) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Underclass Hero](https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG) | 3:01 |
-| 58 | [Set The Fire To The Third Bar](https://open.spotify.com/track/5g0afUZsh5hiXBOT3eXuwd) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp), [Martha Wainwright](https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R) | [Eyes Open](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) | 3:23 |
+| 57 | [Set The Fire To The Third Bar](https://open.spotify.com/track/5g0afUZsh5hiXBOT3eXuwd) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp), [Martha Wainwright](https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R) | [Eyes Open](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) | 3:23 |
+| 58 | [So Long Goodbye](https://open.spotify.com/track/3Burs1JDgHMNXZ7wAMwe8u) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Underclass Hero](https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG) | 3:01 |
 | 59 | [All Of This](https://open.spotify.com/track/5kYhmkcnDalqUMxQxBcZkB) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP), [Robert Smith ](https://open.spotify.com/artist/0SHJWEBfbcjkE8bGiSTykk) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 4:40 |
 | 60 | [Learning To Breathe](https://open.spotify.com/track/3rQvHJ2K1g9tnIcL51eEWE) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [Learning To Breathe](https://open.spotify.com/album/4rpXUpnO39yG7ETyugzzIs) | 4:35 |
 | 61 | [I'll Keep Your Memory Vague](https://open.spotify.com/track/1RYy00jUPPA8Dr8nTuRb05) | [Finger Eleven](https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n) | [Them Vs\. You Vs\. Me \(Deluxe Edition\)](https://open.spotify.com/album/2pCfqddO9tLKRz3wzSNGsZ) | 3:46 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb29NQI3OtQI.md) - [plain]
 | 79 | [Twenty\-four](https://open.spotify.com/track/2DLmQACFPykftNpEAc4bDa) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [The Beautiful Letdown \(Deluxe Version\)](https://open.spotify.com/album/2mIYia4lSO1NCSFGGGGNR9) | 4:53 |
 | 80 | [Sometimes You Can't Make It On Your Own](https://open.spotify.com/track/1AKfLYTm4RqfLKqgQmv9V2) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/2nPJlUlcyQ24e1VdayD6TT) | 5:08 |
 
-Snapshot ID: `MTY1NDcyMDg2NiwwMDAwMDAwMDExYjhmMThiOGEwNDYyODU1YmY0MDQ0MTljZjVlNzQy`
+Snapshot ID: `MTY1NDcyMDg2NiwwMDAwMDAwMDRmZjQzZTY3OTg3ZGFmMzZhOGE2NTE5MWY3ZDMxZjQ3`

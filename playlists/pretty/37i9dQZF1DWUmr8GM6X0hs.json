@@ -1,12 +1,12 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 52707,
+  "num_followers": 52751,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTcxNzI2MCwwMDAwMDAwMGI2Mjk3MjUwMmFjYmNlODkwZTliNjI2NWYxMDZhMjRh",
+  "snapshot_id": "MTYzOTcxNzI2MCwwMDAwMDAwMDBlNGEwYzNiZWI1YmRiMjA3YzBkM2I5MTk2NTVkYWVj",
   "tracks": [
     {
       "added_at": "2021-12-17 05:01:00",
@@ -131,22 +131,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Leyendas Solamente Los Mejores",
-        "url": "https://open.spotify.com/album/4R4CFtjXHrWFLKYaMs05lC"
-      },
-      "artists": [
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 171533,
-      "name": "Contigo - Tema Remasterizado",
-      "url": "https://open.spotify.com/track/6qvpcGNIOMkim3TZqvGhC6"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "Ojitos de Aceituna",
         "url": "https://open.spotify.com/album/0T1toCzjEqFltKmHuwznI5"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 167221,
       "name": "Ojitos de Aceituna",
       "url": "https://open.spotify.com/track/2KhOJ9fPnHE6HJd7R6jF2L"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Leyendas Solamente Los Mejores",
+        "url": "https://open.spotify.com/album/4R4CFtjXHrWFLKYaMs05lC"
+      },
+      "artists": [
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 171533,
+      "name": "Contigo - Tema Remasterizado",
+      "url": "https://open.spotify.com/track/6qvpcGNIOMkim3TZqvGhC6"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -219,22 +219,6 @@
       "duration_ms": 222453,
       "name": "Cien A\u00f1os",
       "url": "https://open.spotify.com/track/5CyehZ1DVKSrvwpntww0Md"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Tesoros De Coleccion",
-        "url": "https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk"
-      },
-      "artists": [
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 180626,
-      "name": "B\u00e9same Mucho",
-      "url": "https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -303,6 +287,22 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
+        "name": "Boleros De Siempre",
+        "url": "https://open.spotify.com/album/4fSSeuuh9omsQmCQh0OcpK"
+      },
+      "artists": [
+        {
+          "name": "Alberto Beltran",
+          "url": "https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R"
+        }
+      ],
+      "duration_ms": 171432,
+      "name": "Mil Cosas",
+      "url": "https://open.spotify.com/track/2uJpuids3FAuhAsLjp5Zzm"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
         "name": "Canta En Espa\u00f1ol Con Los Panchos",
         "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
       },
@@ -323,18 +323,18 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Boleros De Siempre",
-        "url": "https://open.spotify.com/album/4fSSeuuh9omsQmCQh0OcpK"
+        "name": "Tesoros De Coleccion",
+        "url": "https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk"
       },
       "artists": [
         {
-          "name": "Alberto Beltran",
-          "url": "https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R"
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
         }
       ],
-      "duration_ms": 171432,
-      "name": "Mil Cosas",
-      "url": "https://open.spotify.com/track/2uJpuids3FAuhAsLjp5Zzm"
+      "duration_ms": 180626,
+      "name": "B\u00e9same Mucho",
+      "url": "https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -367,22 +367,6 @@
       "duration_ms": 159240,
       "name": "Se Rompio la Cadena",
       "url": "https://open.spotify.com/track/7HO4ZsjFfOy30yhTssf643"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Disco de Oro",
-        "url": "https://open.spotify.com/album/0AKTrMTiF6tFzOt2oYkwhW"
-      },
-      "artists": [
-        {
-          "name": "Iv\u00e1n Cruz",
-          "url": "https://open.spotify.com/artist/3zQZWNtvXSGkESIkW5Bf2L"
-        }
-      ],
-      "duration_ms": 240625,
-      "name": "Mozo Deme Otra Copa",
-      "url": "https://open.spotify.com/track/6NwgRRmIOlAdhicVB7T6Xt"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -455,22 +439,18 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Vicentico Vald\u00e9s Con La Sonora Matancera",
-        "url": "https://open.spotify.com/album/4ZlrS11JlhwkbtJ3fOglIS"
+        "name": "Disco de Oro",
+        "url": "https://open.spotify.com/album/0AKTrMTiF6tFzOt2oYkwhW"
       },
       "artists": [
         {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        },
-        {
-          "name": "Vicentico Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/6yQZkZC0BnKuZzuO1DAf3J"
+          "name": "Iv\u00e1n Cruz",
+          "url": "https://open.spotify.com/artist/3zQZWNtvXSGkESIkW5Bf2L"
         }
       ],
-      "duration_ms": 145426,
-      "name": "Los Aretes De La Luna",
-      "url": "https://open.spotify.com/track/42TjkXmdeykjRoGm8XS2x8"
+      "duration_ms": 240625,
+      "name": "Mozo Deme Otra Copa",
+      "url": "https://open.spotify.com/track/6NwgRRmIOlAdhicVB7T6Xt"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -487,6 +467,26 @@
       "duration_ms": 183306,
       "name": "Total",
       "url": "https://open.spotify.com/track/5nUf759XOaK2vnUws4acJM"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Vicentico Vald\u00e9s Con La Sonora Matancera",
+        "url": "https://open.spotify.com/album/4ZlrS11JlhwkbtJ3fOglIS"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        },
+        {
+          "name": "Vicentico Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/6yQZkZC0BnKuZzuO1DAf3J"
+        }
+      ],
+      "duration_ms": 145426,
+      "name": "Los Aretes De La Luna",
+      "url": "https://open.spotify.com/track/42TjkXmdeykjRoGm8XS2x8"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "El Bolerista De Am\u00e9rica",
-        "url": "https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT"
-      },
-      "artists": [
-        {
-          "name": "Felipe Pirela",
-          "url": "https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN"
-        }
-      ],
-      "duration_ms": 173373,
-      "name": "Ese Bolero Es M\u00edo",
-      "url": "https://open.spotify.com/track/37gfxVderzFMP4zRiFdSPa"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "Selecci\u00f3n Especial (Remastered)",
         "url": "https://open.spotify.com/album/5YHzSCQp8knlAlsoEh9DOR"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 182546,
       "name": "Si Nos Dejan - Remastered",
       "url": "https://open.spotify.com/track/5BOaXQYdApvDBVFCSxd23D"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "El Bolerista De Am\u00e9rica",
+        "url": "https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT"
+      },
+      "artists": [
+        {
+          "name": "Felipe Pirela",
+          "url": "https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN"
+        }
+      ],
+      "duration_ms": 173373,
+      "name": "Ese Bolero Es M\u00edo",
+      "url": "https://open.spotify.com/track/37gfxVderzFMP4zRiFdSPa"
     },
     {
       "added_at": "2021-12-17 05:01:00",

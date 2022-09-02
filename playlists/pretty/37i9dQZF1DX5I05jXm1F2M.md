@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5I05jXm1F2M.md) - [plain]
 
 > Take that last call karaoke to go.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,838 likes - 100 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,921 likes - 100 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5I05jXm1F2M.md) - [plain]
 | 52 | [I Don't Want to Miss a Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/225xvV8r1yKMHErSWivnow) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Armageddon \- The Album](https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890) | 4:58 |
 | 53 | [Barracuda](https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Little Queen](https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF) | 4:21 |
 | 54 | [Black Dog \- Remaster](https://open.spotify.com/track/3qT4bUD1MaWpGrTwcvguhb) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 4:55 |
-| 55 | [Footloose](https://open.spotify.com/track/6W2VbtvMrDXm5vYeB7amkO) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Yesterday, Today, Tomorrow \- The Greatest Hits Of Kenny Loggins](https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW) | 3:40 |
-| 56 | [Give It Away](https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 4:42 |
+| 55 | [Give It Away](https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 4:42 |
+| 56 | [Footloose](https://open.spotify.com/track/6W2VbtvMrDXm5vYeB7amkO) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Yesterday, Today, Tomorrow \- The Greatest Hits Of Kenny Loggins](https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW) | 3:40 |
 | 57 | [Any Way You Want It](https://open.spotify.com/track/71SvEDmsOwIWw1IozsZoMA) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Departure](https://open.spotify.com/album/2OyVtIEp7O7a6o82DF4Ba5) | 3:21 |
 | 58 | [Hungry Like the Wolf \- 2009 Remaster](https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Rio \(Collector's Edition\)](https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm) | 3:40 |
 | 59 | [Riders on the Storm](https://open.spotify.com/track/14XWXWv5FoCbFzLksawpEe) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [L.A\. Woman](https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS) | 7:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5I05jXm1F2M.md) - [plain]
 | 99 | [Sideways](https://open.spotify.com/track/19DnL1HnJiijuEfaiS0Eus) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Feel That Fire](https://open.spotify.com/album/0uZtZvLB7YtZnkJ6e1wXa2) | 3:04 |
 | 100 | [Been Caught Stealing](https://open.spotify.com/track/4Qievb8Mqy0qxdLNVl02zt) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Ritual De Lo Habitual](https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU) | 3:34 |
 
-Snapshot ID: `MTY0MDA5ODM3OCwwMDAwMDAwMDE4YzE5MzRkZWM2ZWZhZjVmNmY4Yzg5YmM2YTEyNDJl`
+Snapshot ID: `MTY0MDA5ODM3OCwwMDAwMDAwMDhkYjdmMjk0NDNiZDcyNzAxZGMwZTU1ZDNjNWYyMzdk`

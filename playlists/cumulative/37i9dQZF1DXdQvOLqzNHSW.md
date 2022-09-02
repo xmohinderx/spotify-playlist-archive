@@ -4,7 +4,7 @@
 
 > Slow burners for late nights.
 
-377 songs - 23 hr 44 min - [published](https://open.spotify.com/playlist/3PNirhDRmJpGKSd6QkVGL6)
+379 songs - 23 hr 52 min - [published](https://open.spotify.com/playlist/3PNirhDRmJpGKSd6QkVGL6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [For You](https://open.spotify.com/track/4vAVMBO7U116c9nsQ3fOoj) | [Tusks](https://open.spotify.com/artist/2JexLbBGkh1FnSWF1uoehP) | [False](https://open.spotify.com/album/45mVqbAnwaUy8zqqAOiF6n) | 3:50 | 2020-12-21 | 2022-04-18 |
 | [FORCE OF HABIT](https://open.spotify.com/track/5HxZVwYpdu1SgUvl411nZ6) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [BOY ANONYMOUS](https://open.spotify.com/album/3ErmhbEFnhCLRqKibj245w) | 4:04 | 2021-07-01 | 2022-07-13 |
 | [Forget About Life](https://open.spotify.com/track/4eKo4tRNkK9WQXjrlP07eU) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Antisocialites](https://open.spotify.com/album/7CCwkPweMxKq8yWkVerH6T) | 2:42 | 2020-12-21 | 2022-07-28 |
+| [Future Lover](https://open.spotify.com/track/73sJYNNftZeqUxHu5l4w1z) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 3:31 | 2022-08-31 |  |
 | [Galaxy Surfing](https://open.spotify.com/track/0tI9jtQuJynzivmpQFc4Gx) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [Ezra's Garden](https://open.spotify.com/album/2BtznmYidvZ9JQWhcmXVTZ) | 3:22 | 2022-05-06 | 2022-07-29 |
 | [Get Me Back in the Game](https://open.spotify.com/track/4K9n5qyCUGYBtfuJAgh23X) | [LL Burns](https://open.spotify.com/artist/7Bg1G4G1VPEZHfy55wqKNS) | [Get Me Back in the Game](https://open.spotify.com/album/2ZmCrPaswCSKEy1yIfgJ5W) | 4:32 | 2020-12-21 | 2022-04-21 |
 | [Giving Up](https://open.spotify.com/track/20CZyFEt1f9MAikYqM7vjU) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Giving Up](https://open.spotify.com/album/07Bsd2TfdTUXq6DBtKdDuY) | 3:10 | 2020-12-21 | 2022-04-03 |
@@ -195,7 +196,7 @@
 | [Little Bit](https://open.spotify.com/track/10b4AEecewD0ns6uXImPEt) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Essentials](https://open.spotify.com/album/6gVlFkJTXLPy0zGnpe47UO) | 4:46 | 2020-12-21 | 2022-08-17 |
 | [Little Bit \(feat\. Lykke Li\)](https://open.spotify.com/track/524wvipGqxPKYWxkjf9y46) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [So Far Gone](https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh) | 3:50 | 2022-05-06 | 2022-07-09 |
 | [Lonely](https://open.spotify.com/track/4fPk5AIvhAOK9KELmztQxX) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Long Distance](https://open.spotify.com/album/0nneppOsi22SxvwMOuISXQ) | 4:20 | 2020-12-21 | 2022-07-29 |
-| [Lonely Shade of Blue](https://open.spotify.com/track/5rTjMOVDiXDxkJavr2GxEL) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [LEMONS](https://open.spotify.com/album/0w8tZm3PdLB8CZcVCkN8rX) | 4:22 | 2020-12-21 |  |
+| [Lonely Shade of Blue](https://open.spotify.com/track/5rTjMOVDiXDxkJavr2GxEL) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [LEMONS](https://open.spotify.com/album/0w8tZm3PdLB8CZcVCkN8rX) | 4:22 | 2020-12-21 | 2022-09-02 |
 | [look at me](https://open.spotify.com/track/3ol0443PaVEBdnDATmEFkX) | [Talkie](https://open.spotify.com/artist/0Y6irzUei35Nn9Kj8qqiQn) | [to be alone](https://open.spotify.com/album/1F9U2i7Aw40vtjj2njXlq3) | 2:54 | 2020-12-21 | 2022-07-21 |
 | [Looking for Knives](https://open.spotify.com/track/1kJYmG59kwtbs2rvkqpzB6) | [DYAN](https://open.spotify.com/artist/5oVU37Ru65xPHl7dJG7gR9) | [Looking for Knives](https://open.spotify.com/album/1vdJozfZSMZJ2nUJ7D2lTc) | 6:13 | 2020-12-21 | 2022-04-20 |
 | [Lost In The Light](https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9) | 3:56 | 2020-12-21 | 2022-04-19 |
@@ -249,7 +250,7 @@
 | [Only in My Dreams](https://open.spotify.com/track/190IqlryWu91WBKeDgZqZz) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. I](https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO) | 2:50 | 2020-12-21 | 2022-07-13 |
 | [Only One](https://open.spotify.com/track/5wlaunvIHcQYdhT23JvRGO) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [Only One](https://open.spotify.com/album/7jSJCnwfELIYnTaZcjKWJe) | 4:53 | 2020-12-21 | 2022-04-20 |
 | [Only You](https://open.spotify.com/track/4VbtxfpAA2w4FGZEKnPoxq) | [Jimi Charles Moody](https://open.spotify.com/artist/2c7W5Wrgn9aGrqtSFrHa1a) | [Only You](https://open.spotify.com/album/7jdEidEZzvdVDyNUHs3cq2) | 3:14 | 2020-12-21 | 2022-04-16 |
-| [Our Love](https://open.spotify.com/track/2WCCyU7CazujWXYOqNjsLW) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 3:52 | 2022-07-22 |  |
+| [Our Love](https://open.spotify.com/track/2WCCyU7CazujWXYOqNjsLW) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 3:52 | 2022-07-22 | 2022-09-02 |
 | [Our Love](https://open.spotify.com/track/4ouHnqx22lzTZHr2hEt5aH) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/0F1pMhF8Vy74nKkQeLBfrd) | 3:52 | 2020-12-21 | 2022-04-15 |
 | [Out Getting Ribs](https://open.spotify.com/track/30JUrbIq4PsRjIvDz8freE) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [6 Feet Beneath The Moon](https://open.spotify.com/album/6uvdXVgHsioxRIo0cFnkD7) | 4:16 | 2022-07-22 |  |
 | [OUTTA MY MIND](https://open.spotify.com/track/7zTTDkkLkJ2iHAqq1daDCr) | [Monsune](https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF) | [OUTTA MY MIND](https://open.spotify.com/album/6WWXMhWEmIM9SaAyZCFvYL) | 3:46 | 2020-12-21 |  |
@@ -342,6 +343,7 @@
 | [The Only Thing](https://open.spotify.com/track/17UVxL0MYEmKzXppfUL5in) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 4:44 | 2022-07-22 |  |
 | [The Only Thing](https://open.spotify.com/track/6Rt6KwuF7I8ZkdZG2G0bYr) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/0U8DeqqKDgIhIiWOdqiQXE) | 4:44 | 2020-12-21 | 2022-04-20 |
 | [The Way Things Change](https://open.spotify.com/track/1kLXQonNqsJxCPFkUet3pV) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [The Way Things Change](https://open.spotify.com/album/3SaySnFE2GUU02BsUcfTIx) | 4:08 | 2020-12-21 | 2022-04-21 |
+| [There’d Better Be A Mirrorball](https://open.spotify.com/track/0yowbJnnbTLpr99f9l1uba) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [There’d Better Be A Mirrorball](https://open.spotify.com/album/0ZUmodAwUq8cQJFvyibKwT) | 4:25 | 2022-08-31 |  |
 | [Thingamajig](https://open.spotify.com/track/5jQ5iwHkqyk6HgxLOFdJo1) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Premonitions](https://open.spotify.com/album/3nWDfV4stC2VQopcuHjJmO) | 4:12 | 2020-12-21 | 2022-04-20 |
 | [Time](https://open.spotify.com/track/1cEHGBID7A9CTLUKOWVk5h) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Time](https://open.spotify.com/album/0CDeIgzn8DcJVpFQ55FMbj) | 3:56 | 2020-12-21 | 2022-04-13 |
 | [To Be Alone With You](https://open.spotify.com/track/3tchJ8gDgMdaSxpaLxlr1F) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/71M94qZwSYHxlae0EFxpsy) | 2:48 | 2020-12-21 | 2022-04-19 |

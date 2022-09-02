@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 
 > Hip hop tracks to kick your workout up a notch
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,799 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,816 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,10 +39,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 | 29 | [Feeling](https://open.spotify.com/track/29e2gdZN35wxeGgDtkXjIa) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Feeling](https://open.spotify.com/album/7HUbrb8z5gdwm9OoPEDh5A) | 3:44 |
 | 30 | [Blue Notes 2 \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/488HG8lR11JswT2YgcWGRB) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Blue Notes 2 \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/3QvNSOIhsgI8od9CMLbMye) | 3:50 |
 | 31 | [Early Hours](https://open.spotify.com/track/3NWzA0reKxIRyXPZtBHTDB) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Pier Pressure](https://open.spotify.com/album/2acy6L0ZXAGSHoW6TIVtyW) | 2:46 |
-| 32 | [Longtime \(feat\. Skepta\)](https://open.spotify.com/track/1JiR4RJaZlbZ5b3HG8jkeL) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:59 |
+| 32 | [King of Parole](https://open.spotify.com/track/1neQ0MJbFV4O1eYwa7Hj2x) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW) | [King of Parole](https://open.spotify.com/album/3SxZ36WBWGwoDwXAAAS8Bk) | 3:16 |
 | 33 | [Neck & Wrist \(feat\. JAY\-Z & Pharrell\)](https://open.spotify.com/track/5QNW6Vx14N4OfJ7D0eDg0d) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Neck & Wrist](https://open.spotify.com/album/0MomByEXmXNIZEuN2cJkw3) | 3:29 |
 | 34 | [Cold Shoulder](https://open.spotify.com/track/0Ezi0P8N5aVQNaOKnJ3MHz) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Cold Shoulder](https://open.spotify.com/album/0bWnbeYmuDqmzJNTbhijub) | 3:12 |
-| 35 | [King of Parole](https://open.spotify.com/track/1neQ0MJbFV4O1eYwa7Hj2x) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW) | [King of Parole](https://open.spotify.com/album/3SxZ36WBWGwoDwXAAAS8Bk) | 3:16 |
+| 35 | [Longtime \(feat\. Skepta\)](https://open.spotify.com/track/1JiR4RJaZlbZ5b3HG8jkeL) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:59 |
 | 36 | [Second Sermon](https://open.spotify.com/track/6quFWbUf88BS0pWUNrwVCR) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Second Sermon](https://open.spotify.com/album/1WtUCwDqTypySaG8c5yC8C) | 2:46 |
 | 37 | [Dip](https://open.spotify.com/track/4j6rrza8THN7isAYsBfT8v) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [Dip](https://open.spotify.com/album/27A3GW70sd8YOOmORki0ah) | 2:18 |
 | 38 | [Who's True](https://open.spotify.com/track/3vMItL2i0J010aWIw1YUwr) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Green With Envy](https://open.spotify.com/album/4YWgs2cK2u6lrIzM9Ve2wc) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 | 49 | [SKI](https://open.spotify.com/track/1vE1nV0Q3t9gcw6ZlZ0yJT) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [SKI](https://open.spotify.com/album/24rTvY9feCnZe0SLsLdzbF) | 2:34 |
 | 50 | [Holy F4k](https://open.spotify.com/track/7eWoPZVIC0RzgFghNDrLbQ) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Ivorian Doll](https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Connecting the Dots](https://open.spotify.com/album/1q6SQV8J22Is1SsgKAh4eJ) | 3:15 |
 
-Snapshot ID: `MTY2MTQ2ODQwMCwwMDAwMDAwMDQ1OGVkY2VjZTg2N2IzOTU3ZDY4Zjk0YWZkODQ2MDg4`
+Snapshot ID: `MTY2MjA3MzIwMCwwMDAwMDAwMDMxNjk3YzRmMDA0YTM5ZjY1MDZiZmNmZjIyZDdlNzUw`

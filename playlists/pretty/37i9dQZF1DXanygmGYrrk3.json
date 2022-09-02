@@ -1,12 +1,12 @@
 {
   "description": "Tus canciones favoritas de M\u00fasica Mexicana, all in one place! Cover: Selena",
-  "num_followers": 158407,
+  "num_followers": 158550,
   "original_name": "Las Favoritas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMDkzY2MzN2E2YjEwNzMwOWJlMzE0NDk0NGMxNjM1Nzdj",
+  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMGJkYjk5NWZiMTk0ZGQ1YWVhNTYwOWI3ZDQxYmU1MzBl",
   "tracks": [
     {
       "added_at": "2022-08-26 04:02:00",
@@ -211,18 +211,18 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "DEV, Vol. 2",
-        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
+        "name": "En Vivo desde El Foro Lizos Music",
+        "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
       },
       "artists": [
         {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
         }
       ],
-      "duration_ms": 189408,
-      "name": "Ya Acabo",
-      "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
+      "duration_ms": 152186,
+      "name": "Es Que Me Gustas - En Vivo",
+      "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -247,18 +247,18 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "En Vivo desde El Foro Lizos Music",
-        "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
+        "name": "DEV, Vol. 2",
+        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
       },
       "artists": [
         {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
         }
       ],
-      "duration_ms": 152186,
-      "name": "Es Que Me Gustas - En Vivo",
-      "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
+      "duration_ms": 189408,
+      "name": "Ya Acabo",
+      "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "D\u00e9cimo Aniversario",
-        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 164360,
-      "name": "Tranquilito",
-      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "Corridos Tumbados",
         "url": "https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 259402,
       "name": "Ella",
       "url": "https://open.spotify.com/track/0tKl8ZVM6xJkhznvJAS3Nq"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "D\u00e9cimo Aniversario",
+        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 164360,
+      "name": "Tranquilito",
+      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 166200,
-      "name": "Y As\u00ed Fue",
-      "url": "https://open.spotify.com/track/6rmVv5Nh80OfI8qWxHiyY2"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "Soy El Rat\u00f3n",
         "url": "https://open.spotify.com/album/4NjpIS3YKvFw4LxQ40Ysoz"
       },
@@ -515,18 +499,18 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Encerrados Pero Enfiestados Vol. 1 (Live)",
-        "url": "https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K"
+        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
         }
       ],
-      "duration_ms": 246131,
-      "name": "Tu - Live",
-      "url": "https://open.spotify.com/track/64xuDtR4TKUI8JAeZoqndu"
+      "duration_ms": 166200,
+      "name": "Y As\u00ed Fue",
+      "url": "https://open.spotify.com/track/6rmVv5Nh80OfI8qWxHiyY2"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -543,6 +527,22 @@
       "duration_ms": 226003,
       "name": "Partido En Dos",
       "url": "https://open.spotify.com/track/1GBaQ3nnwxO3WVDUzKZ4kX"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Encerrados Pero Enfiestados Vol. 1 (Live)",
+        "url": "https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 246131,
+      "name": "Tu - Live",
+      "url": "https://open.spotify.com/track/64xuDtR4TKUI8JAeZoqndu"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -655,26 +655,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "El Amor De Tu Vida",
-        "url": "https://open.spotify.com/album/0TkiwzRoKzV332NLyvnKjJ"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
-        }
-      ],
-      "duration_ms": 163223,
-      "name": "El Amor De Tu Vida",
-      "url": "https://open.spotify.com/track/5HpXH64cSBNu26yhw3vK37"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "El G\u00fcero (Feat. Marca MP)",
         "url": "https://open.spotify.com/album/6JB7kAukHIaovbGdgkvCfI"
       },
@@ -727,6 +707,26 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
+        "name": "El Amor De Tu Vida",
+        "url": "https://open.spotify.com/album/0TkiwzRoKzV332NLyvnKjJ"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+        }
+      ],
+      "duration_ms": 163223,
+      "name": "El Amor De Tu Vida",
+      "url": "https://open.spotify.com/track/5HpXH64cSBNu26yhw3vK37"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
         "name": "Tu Veneno Mortal",
         "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
       },
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "El Malo",
-        "url": "https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 155802,
-      "name": "Me La Avente",
-      "url": "https://open.spotify.com/track/3ahvKiNH7l6EpnTnzkZpG1"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "El Ahijado Consentido",
         "url": "https://open.spotify.com/album/35F7wwWfEZV6FSrCppyNPP"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 189346,
       "name": "Ya Me Enter\u00e9",
       "url": "https://open.spotify.com/track/4ggabbjjuHrG06SsYnqvEs"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "El Malo",
+        "url": "https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 155802,
+      "name": "Me La Avente",
+      "url": "https://open.spotify.com/track/3ahvKiNH7l6EpnTnzkZpG1"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -955,6 +955,22 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
+        "name": "No Paras de Hacerme Feliz",
+        "url": "https://open.spotify.com/album/4GnznPcGs85z1yeeWA5Gyi"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 185296,
+      "name": "No Paras de Hacerme Feliz",
+      "url": "https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
         "name": "Todos Hablan, Nada Saben",
         "url": "https://open.spotify.com/album/1hAHT5gZfRLDYh0sZaTnDK"
       },
@@ -991,34 +1007,18 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "No Paras de Hacerme Feliz",
-        "url": "https://open.spotify.com/album/4GnznPcGs85z1yeeWA5Gyi"
+        "name": "30 Aniversario",
+        "url": "https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf"
       },
       "artists": [
         {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+          "name": "La Adictiva Banda San Jos\u00e9 de Mesillas",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
         }
       ],
-      "duration_ms": 185296,
-      "name": "No Paras de Hacerme Feliz",
-      "url": "https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "De Lo Bueno, Lo Mejor",
-        "url": "https://open.spotify.com/album/6fg7ANywTbldJWzw8y1p4F"
-      },
-      "artists": [
-        {
-          "name": "Banda Tierra Sagrada",
-          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
-        }
-      ],
-      "duration_ms": 204453,
-      "name": "La Buena y la Mala",
-      "url": "https://open.spotify.com/track/4y0n8xKuEKE0J2sThzswhg"
+      "duration_ms": 208160,
+      "name": "El Amor de Mi Vida",
+      "url": "https://open.spotify.com/track/1w3FzkhH82foC5oIbIKKut"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
+        "name": "De Lo Bueno, Lo Mejor",
+        "url": "https://open.spotify.com/album/6fg7ANywTbldJWzw8y1p4F"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Sagrada",
+          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
+        }
+      ],
+      "duration_ms": 204453,
+      "name": "La Buena y la Mala",
+      "url": "https://open.spotify.com/track/4y0n8xKuEKE0J2sThzswhg"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
         "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
         "url": "https://open.spotify.com/album/1un5ATKBBkOD7L9d2e7sUD"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 258355,
       "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
       "url": "https://open.spotify.com/track/3D3W7rDsuJIAtjInwh6Moc"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "30 Aniversario",
-        "url": "https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva Banda San Jos\u00e9 de Mesillas",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 208160,
-      "name": "El Amor de Mi Vida",
-      "url": "https://open.spotify.com/track/1w3FzkhH82foC5oIbIKKut"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Agarra Tu Camino",
-        "url": "https://open.spotify.com/album/7d5gCEbYhn607U8FQuTQ3B"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 234895,
-      "name": "Agarra Tu Camino",
-      "url": "https://open.spotify.com/track/4HXIyu3N5yVTd4qHMbU7cK"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "Ya Aprend\u00ed la Lecci\u00f3n",
         "url": "https://open.spotify.com/album/7zdX1DPwz8PU1tsaw5qSg8"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 208541,
       "name": "El Final de Nuestra Historia",
       "url": "https://open.spotify.com/track/73aNc2V32NpepB8lLhnDjW"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Agarra Tu Camino",
+        "url": "https://open.spotify.com/album/7d5gCEbYhn607U8FQuTQ3B"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 234895,
+      "name": "Agarra Tu Camino",
+      "url": "https://open.spotify.com/track/4HXIyu3N5yVTd4qHMbU7cK"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
+        "name": "Amistad y Pesos",
+        "url": "https://open.spotify.com/album/2dp0TRYQW761GeOOMtqPv1"
+      },
+      "artists": [
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        }
+      ],
+      "duration_ms": 338901,
+      "name": "Mi \u00daltima Caravana",
+      "url": "https://open.spotify.com/track/0TLYlmmcovm6qxIjg7aDb3"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
         "name": "M\u00fasica Rom\u00e1ntica",
         "url": "https://open.spotify.com/album/5B6pvL3W5WyqxiZ8k70y8U"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 232573,
       "name": "M\u00fasica Rom\u00e1ntica",
       "url": "https://open.spotify.com/track/0gOwkN1piWLMINfj97SogV"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Amistad y Pesos",
-        "url": "https://open.spotify.com/album/2dp0TRYQW761GeOOMtqPv1"
-      },
-      "artists": [
-        {
-          "name": "GERARDO DIAZ Y SU GERARQUIA",
-          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
-        }
-      ],
-      "duration_ms": 338901,
-      "name": "Mi \u00daltima Caravana",
-      "url": "https://open.spotify.com/track/0TLYlmmcovm6qxIjg7aDb3"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1403,22 +1403,18 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "La Barda Me Vol\u00e9",
-        "url": "https://open.spotify.com/album/13SwxlksMXwzpK8iAafFDh"
+        "name": "Me Hiciste un Borracho",
+        "url": "https://open.spotify.com/album/5TygJYGHWzNvVj8mWcSOGW"
       },
       "artists": [
         {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        },
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
         }
       ],
-      "duration_ms": 280093,
-      "name": "Somos Los Que Somos - En Vivo",
-      "url": "https://open.spotify.com/track/1Z04XN4pH2b8JfdiaIEkl5"
+      "duration_ms": 204586,
+      "name": "F\u00edjate Que Si",
+      "url": "https://open.spotify.com/track/6dmjHRIprOaIeDOk65RNdI"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1443,18 +1439,22 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Me Hiciste un Borracho",
-        "url": "https://open.spotify.com/album/5TygJYGHWzNvVj8mWcSOGW"
+        "name": "La Barda Me Vol\u00e9",
+        "url": "https://open.spotify.com/album/13SwxlksMXwzpK8iAafFDh"
       },
       "artists": [
         {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 204586,
-      "name": "F\u00edjate Que Si",
-      "url": "https://open.spotify.com/track/6dmjHRIprOaIeDOk65RNdI"
+      "duration_ms": 280093,
+      "name": "Somos Los Que Somos - En Vivo",
+      "url": "https://open.spotify.com/track/1Z04XN4pH2b8JfdiaIEkl5"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1503,26 +1503,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Pacas Verdes (feat. Ovi)",
-        "url": "https://open.spotify.com/album/5RiJUUPf6WYqZjU8FjmhUb"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Ovi",
-          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
-        }
-      ],
-      "duration_ms": 170925,
-      "name": "Pacas Verdes",
-      "url": "https://open.spotify.com/track/2yFQXRSMJgaixzpP6gn8jr"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "Mis Manos",
         "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
       },
@@ -1539,6 +1519,26 @@
       "duration_ms": 200945,
       "name": "Tuyo y M\u00edo",
       "url": "https://open.spotify.com/track/4msyEItsAavVb5pZYCuz4n"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Pacas Verdes (feat. Ovi)",
+        "url": "https://open.spotify.com/album/5RiJUUPf6WYqZjU8FjmhUb"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        }
+      ],
+      "duration_ms": 170925,
+      "name": "Pacas Verdes",
+      "url": "https://open.spotify.com/track/2yFQXRSMJgaixzpP6gn8jr"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
+        "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
+        "url": "https://open.spotify.com/album/1PBWmz5f1IkWiAYXKtnnFE"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 178378,
+      "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
+      "url": "https://open.spotify.com/track/5xOBLLJftwLwqNQgpqlPiu"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
         "name": "En El Camino",
         "url": "https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 250440,
       "name": "As\u00ed Toc\u00f3 Mi Vida",
       "url": "https://open.spotify.com/track/2YekzGSNDRlEvRLmvfRZfb"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
-        "url": "https://open.spotify.com/album/1PBWmz5f1IkWiAYXKtnnFE"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 178378,
-      "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
-      "url": "https://open.spotify.com/track/5xOBLLJftwLwqNQgpqlPiu"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Los Caminos de la Vida (Spotify Singles)",
-        "url": "https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 328115,
-      "name": "Los Caminos de la Vida - Spotify Singles",
-      "url": "https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "En Vida",
         "url": "https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 188586,
       "name": "Mi Meta Contigo",
       "url": "https://open.spotify.com/track/1OGze4EM0gQ8NNrtdVLCf1"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Los Caminos de la Vida (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 328115,
+      "name": "Los Caminos de la Vida - Spotify Singles",
+      "url": "https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Te Volver\u00eda A Elegir",
-        "url": "https://open.spotify.com/album/0oGyrEpTd0K9eGB3LGhhX4"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 180400,
-      "name": "Te Volver\u00eda A Elegir",
-      "url": "https://open.spotify.com/track/1QgLKIL39m8266PA54HnmQ"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "Los Inadaptados",
         "url": "https://open.spotify.com/album/7Fz369S1erEQYmnrbZawsB"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 175040,
       "name": "Los Inadaptados",
       "url": "https://open.spotify.com/track/15v0ra246PDmiT5Vh9YzWO"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Te Volver\u00eda A Elegir",
+        "url": "https://open.spotify.com/album/0oGyrEpTd0K9eGB3LGhhX4"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 180400,
+      "name": "Te Volver\u00eda A Elegir",
+      "url": "https://open.spotify.com/track/1QgLKIL39m8266PA54HnmQ"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -2199,26 +2199,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Qu\u00e9 Bueno Es Tenerte",
-        "url": "https://open.spotify.com/album/5mylIAlnG7NVExUV5hPc3H"
-      },
-      "artists": [
-        {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
-        },
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 205386,
-      "name": "Qu\u00e9 Bueno Es Tenerte",
-      "url": "https://open.spotify.com/track/2Vficy40iZyTKoAJNwLWzd"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "De Buenos Aires Para El Mundo",
         "url": "https://open.spotify.com/album/6lWHI43OEAIWn0gfMxwvZE"
       },
@@ -2243,6 +2223,26 @@
       "duration_ms": 221346,
       "name": "Amor A Primera Vista",
       "url": "https://open.spotify.com/track/5Myb8S90Wg0yLec5kmrIGJ"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Qu\u00e9 Bueno Es Tenerte",
+        "url": "https://open.spotify.com/album/5mylIAlnG7NVExUV5hPc3H"
+      },
+      "artists": [
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 205386,
+      "name": "Qu\u00e9 Bueno Es Tenerte",
+      "url": "https://open.spotify.com/track/2Vficy40iZyTKoAJNwLWzd"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -2283,22 +2283,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Esta Vida Es Muy Bonita",
-        "url": "https://open.spotify.com/album/2nXwmdIdulClgc82z8E2EB"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 130240,
-      "name": "Esta Vida Es Muy Bonita",
-      "url": "https://open.spotify.com/track/0crk5HnlDyF0lpHPRiLbX1"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "Mi Princesa",
         "url": "https://open.spotify.com/album/74Z68wlXXHP5nzOobB6ppJ"
       },
@@ -2311,6 +2295,22 @@
       "duration_ms": 214146,
       "name": "Espero Con Ansias",
       "url": "https://open.spotify.com/track/22SnIb63vexyG4RlRcqI9r"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Esta Vida Es Muy Bonita",
+        "url": "https://open.spotify.com/album/2nXwmdIdulClgc82z8E2EB"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 130240,
+      "name": "Esta Vida Es Muy Bonita",
+      "url": "https://open.spotify.com/track/0crk5HnlDyF0lpHPRiLbX1"
     },
     {
       "added_at": "2022-08-26 04:02:00",

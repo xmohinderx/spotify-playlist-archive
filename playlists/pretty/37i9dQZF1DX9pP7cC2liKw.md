@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 
 > Immerse yourself in the mysticism of Tulum!
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,697 likes - 70 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,905 likes - 70 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 35 | [Spies Are Watching Me](https://open.spotify.com/track/1UIqpCB0b56K7U0JJPfskN) | [Voilaaa](https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1), [Sir Jean](https://open.spotify.com/artist/4SkHS4kCrdABhw4KLVrOz0) | [On te l'avait dit](https://open.spotify.com/album/769hXvYI0EBGEC2ldfRgnp) | 7:12 |
 | 36 | [Laughter of the Sea](https://open.spotify.com/track/2AjB1CCKlumQX9uJG48mDS) | [Joaquín Cornejo](https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx), [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN) | [Laughter of the Sea](https://open.spotify.com/album/2PdScDypRbyrR3yYkNEuMH) | 5:59 |
 | 37 | [Morena](https://open.spotify.com/track/7z1q1J4zcB1d736GJZUkLa) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [Flora Vida](https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Morena](https://open.spotify.com/album/4uxHO0UkGVUckaCScCgI5U) | 2:29 |
-| 38 | [Manana Tepotzlan](https://open.spotify.com/track/73myc2rii2DVG3HpTkGOnl) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Cenotes](https://open.spotify.com/album/7yxXs09QqG9iq1Mk6dsK5O) | 4:00 |
-| 39 | [Manos](https://open.spotify.com/track/2lkrvCh5EArrBxSagwHRX1) | [Mente Orgánica](https://open.spotify.com/artist/1wfwGvcBGamXiXxuaExHRT) | [Ojos](https://open.spotify.com/album/0nt8pOx5bT4aU24zQ5RW9v) | 5:10 |
+| 38 | [Manos](https://open.spotify.com/track/2lkrvCh5EArrBxSagwHRX1) | [Mente Orgánica](https://open.spotify.com/artist/1wfwGvcBGamXiXxuaExHRT) | [Ojos](https://open.spotify.com/album/0nt8pOx5bT4aU24zQ5RW9v) | 5:10 |
+| 39 | [Manana Tepotzlan](https://open.spotify.com/track/73myc2rii2DVG3HpTkGOnl) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Cenotes](https://open.spotify.com/album/7yxXs09QqG9iq1Mk6dsK5O) | 4:00 |
 | 40 | [El Abuelo](https://open.spotify.com/track/1cmjjbzi9Hqe6IgHbB7gBp) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W), [Fernando Milagros](https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN) | [El Abuelo](https://open.spotify.com/album/0x7kpSHrkQrqMxrvwbpAPU) | 5:31 |
 | 41 | [Sentir](https://open.spotify.com/track/52LzaPKWxeHxGTJq0GkEqx) | [Ilse Hendrix](https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB) | [Sentir](https://open.spotify.com/album/6JrZVD3zusGjBWMuT37q3z) | 3:48 |
 | 42 | [Pool Party](https://open.spotify.com/track/6T572wD8zgOLOlB9TzxUmh) | [Self Sabotage](https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN) | [Skin and Bones](https://open.spotify.com/album/21OcdHHc9h888jldjCWcBP) | 3:58 |
 | 43 | [Santa Teresa](https://open.spotify.com/track/0GVu2gXzurD0FBL7CHqE0F) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg), [Castello Branco](https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90) | [Santa Teresa](https://open.spotify.com/album/5MWFftrRcVgXuUkWWatWVT) | 4:58 |
 | 44 | [Paloma](https://open.spotify.com/track/4lvRuiCSvrrfmnAb4YHZHn) | [MiRET](https://open.spotify.com/artist/0DvhQq0PzDC5dyRoH5XCI5), [Tuğçe Kurtiş](https://open.spotify.com/artist/5cYodhg1fZFGKqCQmgNlZf), [Santi & Tuğçe](https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC) | [Paloma + Remixes](https://open.spotify.com/album/5LE9oiaGprQqvFtinBA73K) | 8:26 |
 | 45 | [Estación Esperanza](https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Estación Esperanza](https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ) | 5:16 |
-| 46 | [It All Depends \- Aguacate Version](https://open.spotify.com/track/5B6DXFCsVbzcGnp8RndJSi) | [Roderic](https://open.spotify.com/artist/7wSzFq5CoNoCpzazDphDJs) | [It All Depends \(Aguacate Version\)](https://open.spotify.com/album/3bLTS663bCWe0YPowrxzMQ) | 6:56 |
-| 47 | [Moody](https://open.spotify.com/track/213H9vfVfLc7m2zRVWgCmJ) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Feelings](https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi) | 2:14 |
-| 48 | [Rare Happiness](https://open.spotify.com/track/2bpvml9LqQIWz1wkiYUcv0) | [Hunee](https://open.spotify.com/artist/6uElH4moADg7AGB3DCGOwy) | [Hunch Music](https://open.spotify.com/album/2Zkm6fLuFZ6gywkYeFsewV) | 5:51 |
-| 49 | [Turn Around](https://open.spotify.com/track/3C8jZgiUP0pP1l58837NzH) | [Rampue](https://open.spotify.com/artist/3YRLUjgMJ1xg1TIcknIxlv) | [Turn Around](https://open.spotify.com/album/7LiFR5PvKfWfQ7qzYpU25u) | 7:17 |
+| 46 | [Moody](https://open.spotify.com/track/213H9vfVfLc7m2zRVWgCmJ) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Feelings](https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi) | 2:14 |
+| 47 | [It All Depends \- Aguacate Version](https://open.spotify.com/track/5B6DXFCsVbzcGnp8RndJSi) | [Roderic](https://open.spotify.com/artist/7wSzFq5CoNoCpzazDphDJs) | [It All Depends \(Aguacate Version\)](https://open.spotify.com/album/3bLTS663bCWe0YPowrxzMQ) | 6:56 |
+| 48 | [Turn Around](https://open.spotify.com/track/3C8jZgiUP0pP1l58837NzH) | [Rampue](https://open.spotify.com/artist/3YRLUjgMJ1xg1TIcknIxlv) | [Turn Around](https://open.spotify.com/album/7LiFR5PvKfWfQ7qzYpU25u) | 7:17 |
+| 49 | [Rare Happiness](https://open.spotify.com/track/2bpvml9LqQIWz1wkiYUcv0) | [Hunee](https://open.spotify.com/artist/6uElH4moADg7AGB3DCGOwy) | [Hunch Music](https://open.spotify.com/album/2Zkm6fLuFZ6gywkYeFsewV) | 5:51 |
 | 50 | [Teu Sorriso \- Jex Opolis Remix](https://open.spotify.com/track/7ts7Z6IW6zSsSPO2UEgnY8) | [Paraíso](https://open.spotify.com/artist/4ID8ALXR4zZrcJFvxL41n0), [Jex Opolis](https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ) | [Claremont 56: 10 Years, Pt\. 1](https://open.spotify.com/album/2h4ZRjRreYJOPPkETTAZcP) | 7:09 |
 | 51 | [Grind](https://open.spotify.com/track/13LVADAG1jdD42fe5wihFc) | [Les Sins](https://open.spotify.com/artist/4gSTRpmeyYppvIXuFKjfAL) | [Grind / Prelims](https://open.spotify.com/album/0hDAUxNVrjkDmfzuVCueMs) | 5:18 |
 | 52 | [Shinjuku Strut](https://open.spotify.com/track/40eiz1003cXrXFRnMtBvIU) | [Rick Wade](https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p) | [Hustler's Lullaby](https://open.spotify.com/album/742wdMvR7gEPIPL8ubSl8z) | 5:14 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 69 | [Nineteen Hundred and Eighty Five](https://open.spotify.com/track/65KrPjUkVnvUUfQaDGn6n7) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Theme from Selva](https://open.spotify.com/album/6ht7LwHxyNVk8gkqGaK6mM) | 5:40 |
 | 70 | [Agua de La Tierra \- Nicola Cruz Remix](https://open.spotify.com/track/3z55fMIOftbrZrZ0Z7WbbW) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W), [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [El Origen](https://open.spotify.com/album/0wOHl1sUUJ5fw2YLCClpyr) | 4:53 |
 
-Snapshot ID: `MTY2MDg3Nzg0NCwwMDAwMDAwMGE4MWI1Yzc2ZTIzODU2Y2Y3MzEyZGFmMGZhMDg0ODE2`
+Snapshot ID: `MTY2MDg3Nzg0NCwwMDAwMDAwMGQ1ZDk4MWJhNGNiMmRlOTBmY2NjNjVhODczOWIzNzg0`

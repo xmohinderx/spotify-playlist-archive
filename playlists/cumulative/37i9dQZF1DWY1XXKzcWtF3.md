@@ -4,7 +4,7 @@
 
 > NYC DJ, The Loft founder, and Dance legend David Mancuso passed on Nov 14 2016\. This is a Tommie Sunshine, Spotify & Billboard Dance tribute\. Without Mancuso there would be no Rave scene, no House Music, no festival culture\. His legacy is vast; these are merely some of the classics born of The Loft.
 
-290 songs - 1 day 6 hr 36 min - [published](https://open.spotify.com/playlist/5EIQ89frtYPEdP8kUq9hwr)
+291 songs - 1 day 6 hr 44 min - [published](https://open.spotify.com/playlist/5EIQ89frtYPEdP8kUq9hwr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,7 +281,8 @@
 | [War](https://open.spotify.com/track/3yCRbRnRraIpWzWTOZDyX9) | [Edwin Starr](https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u) | [Motown Remixed & Unmixed](https://open.spotify.com/album/7kRPqxlWTvT7F4fKX9ruOc) | 3:23 | 2018-02-27 | 2022-07-29 |
 | [Weekend \- 12" Extended Version; Remastered](https://open.spotify.com/track/0y3qRr82n2z8P03RIx3IXb) | [Phreek](https://open.spotify.com/artist/64OqXmvvBIwJjwQRdTMJqE) | [Journey Into Paradise: The Larry Levan Story](https://open.spotify.com/album/4tbC7RNnfQxJSrLOiCe9da) | 8:13 | 2018-02-27 | 2022-07-29 |
 | [Weekend \- \[12" Extended Version\] \[Issy Sanchez Remix\]](https://open.spotify.com/track/7MC2Q65lTrcPeH85MBYhe8) | [Phreek](https://open.spotify.com/artist/64OqXmvvBIwJjwQRdTMJqE) | [Weekend \(Remixes\)](https://open.spotify.com/album/2r4azxFdgR4X6YnbDUa8ZQ) | 8:13 | 2018-02-27 |  |
-| [Welcome to Our World \(Of Merry Music\)](https://open.spotify.com/track/5Nvmx1tTQjv0ssh3QaJK2q) | [Mass Production](https://open.spotify.com/artist/4Aj5BsUYgadIeoC759FrhE) | [Rhino Hi\-Five: Mass Production](https://open.spotify.com/album/0fuk3BDm2dMKi8dqP5jMRq) | 7:34 | 2018-02-27 |  |
+| [Welcome to Our World \(Of Merry Music\)](https://open.spotify.com/track/0sQ4OcMgLkLahjZ3D1D4OU) | [Mass Production](https://open.spotify.com/artist/4Aj5BsUYgadIeoC759FrhE) | [Welcome To Our World](https://open.spotify.com/album/5EL05yBpF4CG7URBxCYb0w) | 7:32 | 2018-02-27 |  |
+| [Welcome to Our World \(Of Merry Music\)](https://open.spotify.com/track/5Nvmx1tTQjv0ssh3QaJK2q) | [Mass Production](https://open.spotify.com/artist/4Aj5BsUYgadIeoC759FrhE) | [Rhino Hi\-Five: Mass Production](https://open.spotify.com/album/0fuk3BDm2dMKi8dqP5jMRq) | 7:34 | 2018-02-27 | 2022-09-02 |
 | [Where Love Lives \(Come On In\) \- Red Zone Mix](https://open.spotify.com/track/66XLJnOdqp9Y5U4INyutuQ) | [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69), [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc), [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts) | [Dance Vault Mixes \- Where Love Lives](https://open.spotify.com/album/0bmvAevl0AD5xaLHHjjHHP) | 5:32 | 2018-02-27 |  |
 | [Woman](https://open.spotify.com/track/0UjbqQK07aPF3Cn086sALt) | [Barrabas](https://open.spotify.com/artist/56Cee1F1JPF9bVEmg2yvcn) | [Barrabas\. Sus Primeras Grabaciones \(1972\-1975\) \[Remastered\]](https://open.spotify.com/album/1BBX809SQ27pjFs1uieLqu) | 5:04 | 2018-02-27 |  |
 | [Work to Do](https://open.spotify.com/track/3eZAIWi3P840GLe3Z2WLIV) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Brother, Brother, Brother](https://open.spotify.com/album/0doxNBv6WvXxVDG84jMtzr) | 3:11 | 2018-02-27 | 2022-07-29 |

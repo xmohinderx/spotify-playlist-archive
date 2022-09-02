@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0DyosUBZQ7.md) - [plain]
 
 > The most beautiful love songs of the 2000s
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,494 likes - 70 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,697 likes - 70 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,19 +12,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0DyosUBZQ7.md) - [plain]
 | 2 | [Just the Way You Are](https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:40 |
 | 3 | [I'm Yours](https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) | 4:02 |
 | 4 | [The Reason](https://open.spotify.com/track/77loZpT5Y5PRP1S451P9Yz) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(15th Anniversary Deluxe\)](https://open.spotify.com/album/2zE1YKY7Okj10Tjl09jjth) | 3:52 |
-| 5 | [Complicated](https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 4:04 |
-| 6 | [If I Ain't Got You](https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 3:48 |
+| 5 | [If I Ain't Got You](https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 3:48 |
+| 6 | [Complicated](https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 4:04 |
 | 7 | [This Love](https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 3:26 |
 | 8 | [A Thousand Miles](https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Be Not Nobody](https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld) | 3:57 |
 | 9 | [So Sick](https://open.spotify.com/track/6brl7bwOHmGFkNw3MBqssT) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [In My Own Words](https://open.spotify.com/album/6gkwOLmk0ALMOjWs5WhAEr) | 3:27 |
 | 10 | [Love Story](https://open.spotify.com/track/1D4PL9B8gOg78jiHg3FvBb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Big Machine Radio Release Special\)](https://open.spotify.com/album/3EzFY9Rg0PpbADMth746zi) | 3:56 |
 | 11 | [The Scientist](https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:09 |
 | 12 | [She Will Be Loved \- Radio Mix](https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 4:19 |
-| 13 | [You're Beautiful](https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 3:29 |
-| 14 | [You And Me](https://open.spotify.com/track/0815caqt2Lytro5EIzMufT) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Lifehouse](https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz) | 3:15 |
-| 15 | [No One](https://open.spotify.com/track/6IwKcFdiRQZOWeYNhUiWIv) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [As I Am \(Expanded Edition\)](https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h) | 4:13 |
-| 16 | [Bleeding Love](https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5) | 4:22 |
-| 17 | [Chasing Cars](https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) | 4:27 |
+| 13 | [No One](https://open.spotify.com/track/6IwKcFdiRQZOWeYNhUiWIv) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [As I Am \(Expanded Edition\)](https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h) | 4:13 |
+| 14 | [You're Beautiful](https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 3:29 |
+| 15 | [You And Me](https://open.spotify.com/track/0815caqt2Lytro5EIzMufT) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Lifehouse](https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz) | 3:15 |
+| 16 | [Chasing Cars](https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) | 4:27 |
+| 17 | [Bleeding Love](https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5) | 4:22 |
 | 18 | [Take A Bow](https://open.spotify.com/track/3goSVuTt3fDYDP6kRnFwuL) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:49 |
 | 19 | [Fix You](https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:55 |
 | 20 | [Somewhere Only We Know](https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:56 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0DyosUBZQ7.md) - [plain]
 | 23 | [Because Of You](https://open.spotify.com/track/6CFPFnS9EcLs2I0nWqtWci) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Because Of You](https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg) | 4:26 |
 | 24 | [Lucky](https://open.spotify.com/track/0IktbUcnAGrvD03AWnz3Q8) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl), [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) | 3:09 |
 | 25 | [The Man Who Can't Be Moved](https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) | 4:01 |
-| 26 | [Beautiful Soul](https://open.spotify.com/track/1HwpWwa6bnqqRhK8agG4RS) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [Beautiful Soul](https://open.spotify.com/album/2gidE8vgVOkYufANjuvj3S) | 3:34 |
-| 27 | [Make You Feel My Love](https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0) | 3:32 |
+| 26 | [Make You Feel My Love](https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0) | 3:32 |
+| 27 | [Beautiful Soul](https://open.spotify.com/track/1HwpWwa6bnqqRhK8agG4RS) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [Beautiful Soul](https://open.spotify.com/album/2gidE8vgVOkYufANjuvj3S) | 3:34 |
 | 28 | [When You Say Nothing At All](https://open.spotify.com/track/0gcjc7Vt5xtcfmJgf6g2IO) | [Ronan Keating](https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh) | [Ronan](https://open.spotify.com/album/3T9Imnmd2Amt5lyDMqlFq9) | 4:16 |
 | 29 | [Favorite Girl](https://open.spotify.com/track/4nTjkWK590oBDcnIxTr1mI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [My World](https://open.spotify.com/album/1rG5TDs3jYh6OU753I54CI) | 4:16 |
 | 30 | [Shape of My Heart](https://open.spotify.com/track/35o9a4iAfLl5jRmqMX9c1D) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Black & Blue](https://open.spotify.com/album/41zXjyVr6dzmchWf8tv3UO) | 3:50 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0DyosUBZQ7.md) - [plain]
 | 69 | [Anyone of Us \(Stupid Mistake\)](https://open.spotify.com/track/6C1L1lSSipVE0sEkkSQOKg) | [葛瑞蓋斯](https://open.spotify.com/artist/5cEtMqaJtwFu4S6gY5K3Pp) | [流星花園音樂專輯](https://open.spotify.com/album/6ivsgaNqiAU5N9yUtTsnd3) | 3:47 |
 | 70 | [Better Man](https://open.spotify.com/track/6yM5jM2eAq3k8NojZ7dLp1) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Sing When You're Winning](https://open.spotify.com/album/0fpjbJvjq6Zxj8xoIjX31m) | 3:24 |
 
-Snapshot ID: `MTY2MTc4MzI5NCwwMDAwMDAwMDc5ZjY5N2U5ZWFjM2M3ODcxZDk1M2IxNzYxNjNjYzcy`
+Snapshot ID: `MTY2MTc4MzI5NCwwMDAwMDAwMGU4MzA5Y2YxZjI4MzI5NzIyNGNmMzU2NDc3ZjA3ZWVk`

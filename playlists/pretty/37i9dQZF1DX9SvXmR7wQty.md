@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Les nouveautés francophones de la semaine\. Photo: Daniel Bélanger
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,877 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,879 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [J'entends tout ce qui joue \( dans ta tête \)](https://open.spotify.com/track/2o50mKgFk37SMPVXKYWiR4) | [Daniel Bélanger](https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW) | [J'entends tout ce qui joue \( dans ta tête \)](https://open.spotify.com/album/1thrrLwrqLkjaEEoM3DSIm) | 3:08 |
-| 2 | [No No No](https://open.spotify.com/track/6m7iJFdgcvd200qJtSa8Wx) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [No No No](https://open.spotify.com/album/2RLByuKYaFE5awZkpjK03m) | 2:35 |
+| 2 | [No No No](https://open.spotify.com/track/6m7iJFdgcvd200qJtSa8Wx) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Julio Masidi](https://open.spotify.com/artist/2ZfpJTfi4q60zRUFWhll73) | [No No No](https://open.spotify.com/album/2RLByuKYaFE5awZkpjK03m) | 2:35 |
 | 3 | [jardin](https://open.spotify.com/track/1QEcr57b4oSQuRk4ztmKkL) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [consolation](https://open.spotify.com/album/3fDL1MKPGRyXRHUkHK1fR1) | 4:52 |
 | 4 | [Trou d'eau](https://open.spotify.com/track/3eocwmTmeW2hA2fvhgpmo5) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [Grafignes](https://open.spotify.com/album/4apNI8EVLPBkQH1ceRRcFl) | 3:17 |
 | 5 | [Prolifère](https://open.spotify.com/track/3Ej0N0tBYVaVeVJy4sD7pn) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Prolifère](https://open.spotify.com/album/2VGYIR1CyIys08QznWWJcy) | 3:35 |

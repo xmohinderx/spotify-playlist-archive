@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvE0SE0Cczh.md) - [plain]
 
 > From new retro to classic country blues, honky tonk, rockabilly, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,577 likes - 60 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,706 likes - 60 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvE0SE0Cczh.md) - [plain]
 | 46 | [Mr\. Jukebox](https://open.spotify.com/track/3SPEV9v2fGKbGBIqYxoZUa) | [Joshua Hedley](https://open.spotify.com/artist/6OJg4GNkAEtu0cfDVRbnjh) | [Mr\. Jukebox](https://open.spotify.com/album/0QDlhf1XxRbMUwGEneXXXi) | 3:16 |
 | 47 | [Son of a Preacher Man](https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty In Memphis \[Deluxe Edition\]](https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg) | 2:29 |
 | 48 | [A Little Less Conversation \- JXL Radio Edit Remix](https://open.spotify.com/track/3j4viUIDSuB4xfYYlp3Lpa) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [JXL](https://open.spotify.com/artist/2GyakhIO8twSgCnUFfCzTN) | [Elvis 30 \#1 Hits \(Expanded Edition\)](https://open.spotify.com/album/0uJJdEZ8sRLNPoKEkjvqTD) | 3:33 |
-| 49 | [Come On, Let's Go](https://open.spotify.com/track/3wbZ4SLakqTZqV76czDeuZ) | [Ritchie Valens](https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P) | [Rhino Hi\-Five: Ritchie Valens](https://open.spotify.com/album/2UoXVAKOOVZjmVfTUidEHs) | 2:05 |
+| 49 | [Come On, Let's Go](https://open.spotify.com/track/4cRfSR0QxDlXRHTKyEOu93) | [Ritchie Valens](https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P) | [Ritchie Valens](https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W) | 2:04 |
 | 50 | [Lil' Girl's Name](https://open.spotify.com/track/7DOy4C7xmGC45axYUrxDm5) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Lonesome as a Shadow](https://open.spotify.com/album/308oGhQCGxttKUQkkkrHiE) | 2:01 |
 | 51 | [I Wonder Why](https://open.spotify.com/track/5XOzpTZGe4onY74BFK0ziS) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p), [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Plastic Bouquet](https://open.spotify.com/album/2ih2y265Nk7ipR1RZDRniF) | 2:05 |
 | 52 | [Heartbreak Hotel](https://open.spotify.com/track/7v1GxlbFevo4kLJGZf8aAZ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [The Essential Elvis Presley](https://open.spotify.com/album/3X3rFfVKCW58sKMO0UXkwO) | 2:09 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvE0SE0Cczh.md) - [plain]
 | 59 | [Long Tall Sally](https://open.spotify.com/track/3EyvLmKst3E6osm8ly5v5A) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Wanda Jackson](https://open.spotify.com/album/3i4ROYpkAL4528HDyp8gKw) | 1:59 |
 | 60 | [You Really Got A Hold On Me \- Remastered 2009](https://open.spotify.com/track/7rgUYidQh5tH0YlXCoKaYJ) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [With The Beatles \(Remastered\)](https://open.spotify.com/album/1aYdiJk6XKeHWGO3FzHHTr) | 3:01 |
 
-Snapshot ID: `MTY2MDY4NDgwNCwwMDAwMDAwMDY2MmM0NWU2ZWQxMDQ3M2YyYWQzMDY2NWYzNzE4NzI5`
+Snapshot ID: `MTY2MDY4NDgwNCwwMDAwMDAwMGEwODlmMjg3ZDAyZGY3N2NmYjY2ODg5MDY1NzY1NmU4`

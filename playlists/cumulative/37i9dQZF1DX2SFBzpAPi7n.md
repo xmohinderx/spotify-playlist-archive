@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: LUCY\) \(핫한 국내 록음악을 만나보세요!\)
 
-382 songs - 23 hr 33 min - [published](https://open.spotify.com/playlist/6LGjkxX0dG6eEuNv9EUWQY)
+383 songs - 23 hr 37 min - [published](https://open.spotify.com/playlist/6LGjkxX0dG6eEuNv9EUWQY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Domino](https://open.spotify.com/track/0604Qn0FcaJCAi93erZduj) | [Band Nah](https://open.spotify.com/artist/5td0g0Owd8ZYu7SVb6f9xh) | [2021](https://open.spotify.com/album/2WyC34NtnFDLJKGRHfIhzd) | 3:29 | 2022-05-11 | 2022-06-24 |
 | [Don't \(feat\. RM\)](https://open.spotify.com/track/6KE3Fs6LMzi4hJI3eFqyLC) | [eAeon](https://open.spotify.com/artist/3ZSbXArE6mxOleJnsumK4u), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Fragile](https://open.spotify.com/album/58QwKbqqxvic4OsBubpZ6h) | 3:25 | 2022-04-12 |  |
 | [Don't Say No \(Feat\. Jay Park\)](https://open.spotify.com/track/2AmFJKuVIdW7fayLvZQ3aR) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Don't Say No](https://open.spotify.com/album/1vm6PTRu1D8zhWh3gSStGw) | 3:40 | 2022-04-22 | 2022-07-29 |
-| [Dream \(feat\. Tommy Kim\)](https://open.spotify.com/track/534Tet7JehDlh2v0fdbAaK) | [VINCIT](https://open.spotify.com/artist/2V7zsT7AqLOFIHWb08FQd5), [Tommy Kim](https://open.spotify.com/artist/5vXlLutlXopDvhSpvwDxmp) | [Dream](https://open.spotify.com/album/5IpCJICE3ZYfiT3bigsFfj) | 3:20 | 2022-08-18 |  |
+| [Dream \(feat\. Tommy Kim\)](https://open.spotify.com/track/534Tet7JehDlh2v0fdbAaK) | [VINCIT](https://open.spotify.com/artist/2V7zsT7AqLOFIHWb08FQd5), [Tommy Kim](https://open.spotify.com/artist/5vXlLutlXopDvhSpvwDxmp) | [Dream](https://open.spotify.com/album/5IpCJICE3ZYfiT3bigsFfj) | 3:20 | 2022-08-18 | 2022-09-02 |
 | [Dreaming](https://open.spotify.com/track/43EV8ah3RzJV0jZgOyAnJ6) | [BUZZ](https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2) | [Dreaming](https://open.spotify.com/album/4ZT56atEMwZ1bagTDTZjrY) | 3:45 | 2022-04-21 | 2022-07-15 |
 | [Dreaming](https://open.spotify.com/track/6krdrtQ0fDRwQ2AGNfcoxl) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Love Story \(4 Season Project 季\) \- The 4th Mini Album](https://open.spotify.com/album/4mn3WfpV1xpo65yxoCdSgy) | 4:05 | 2022-06-18 | 2022-06-21 |
 | [Drunk All Night](https://open.spotify.com/track/4xcJHWlE3KpIz32UCVuYJs) | [YUNNUGU](https://open.spotify.com/artist/202toms3QJeNCFXO0BFNY4) | [Drunk All Night](https://open.spotify.com/album/08iHuEBeXsCKZqGUW0ksAJ) | 2:57 | 2022-07-08 | 2022-07-22 |
@@ -242,6 +242,7 @@
 | [Pardon?](https://open.spotify.com/track/6mJ8I6GPzqayX1DpuwbTPW) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [YAHO](https://open.spotify.com/album/54lrjzd3nWqD8JxSERPlBN) | 2:49 | 2022-04-22 | 2022-04-29 |
 | [Part\-time heroes](https://open.spotify.com/track/5WOivVOIhosLc6IoIGj3vU) | [The Electriceels](https://open.spotify.com/artist/0srGDil29MFy5x8asXqmfK) | [Part\-time heroes](https://open.spotify.com/album/0Ppe27BB0mAYrbNX7JRPnM) | 3:29 | 2022-04-21 | 2022-04-28 |
 | [Parting](https://open.spotify.com/track/6NpJD0Hkm4fbjqwqHRNHJt) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [Parting](https://open.spotify.com/album/49M2LTtZI2Fl2M7w1isqAV) | 4:00 | 2022-04-12 | 2022-07-18 |
+| [Password 486](https://open.spotify.com/track/1KrreL8nKfx44ibk9sd9Cu) | [BIGONE](https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX) | [Password 486](https://open.spotify.com/album/6pZdY6TKxDTkk6Ndi3eOt1) | 3:18 | 2022-09-01 |  |
 | [PDSG](https://open.spotify.com/track/7h64srBKgw9bmocbk3EmGQ) | [April 2nd](https://open.spotify.com/artist/6p2HEgiJp6Dr0DI9p5n7nr) | [PDSG](https://open.spotify.com/album/1Owmn3lrAQzRTMtnlNfhCd) | 4:03 | 2022-05-11 | 2022-06-26 |
 | [Pigeon 비둘기](https://open.spotify.com/track/33UpKCuBBaqJNkewD79QZN) | [Dasutt](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [Pigeon 비둘기](https://open.spotify.com/album/5ohbhyXCdiKJ6ONWztPqy2) | 3:30 | 2022-04-22 | 2022-07-18 |
 | [PIRI](https://open.spotify.com/track/6vHyPhg8fgclBiY8QN68wp) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The End of Nightmare](https://open.spotify.com/album/02YL02Pjk6moxi5iuYsIPC) | 3:26 | 2022-07-22 |  |

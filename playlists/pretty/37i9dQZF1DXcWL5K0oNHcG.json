@@ -1,6 +1,6 @@
 {
   "description": "Fresh jazz by independent artists every Wednesday. Cover: J. White Artwork: Joy Yamusangie",
-  "num_followers": 23867,
+  "num_followers": 23960,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,26 @@
   },
   "snapshot_id": "MTY2MTk2MTYzOCwwMDAwMDAwMDA2Y2IzYjE4MzI0Yjg2YzU5N2FmMDg1NDI1NDFkM2M4",
   "tracks": [
+    {
+      "added_at": "2022-08-31 16:00:38",
+      "album": {
+        "name": "Dolmus Havasi",
+        "url": "https://open.spotify.com/album/6wzmHIzFi2scSVKhU0MHml"
+      },
+      "artists": [
+        {
+          "name": "Gijs Levelt Spoken Quartet",
+          "url": "https://open.spotify.com/artist/6d9jt84PyB3w2OFrGrDg9T"
+        },
+        {
+          "name": "Gijs Levelt",
+          "url": "https://open.spotify.com/artist/5nLTrxd6gjY7MIfIoT9gM0"
+        }
+      ],
+      "duration_ms": 437733,
+      "name": "Dolmus Havasi",
+      "url": "https://open.spotify.com/track/6bVsRz4nsqsFf2SGZ92SS4"
+    },
     {
       "added_at": "2022-08-31 16:00:38",
       "album": {

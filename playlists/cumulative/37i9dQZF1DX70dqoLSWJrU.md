@@ -4,7 +4,7 @@
 
 > Heartbreaking and sad jazz songs.
 
-124 songs - 7 hr 14 min - [published](https://open.spotify.com/playlist/5uUFbAhLiVNLmtCNfyWc4t)
+125 songs - 7 hr 18 min - [published](https://open.spotify.com/playlist/5uUFbAhLiVNLmtCNfyWc4t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Don't Go To Strangers](https://open.spotify.com/track/6cRsRBzSaGwfnMMqNSjtFY) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Don't Go To Strangers \(Rudy Van Gelder Remaster\)](https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt) | 3:48 | 2022-04-13 |  |
 | [Ev'ry Time We Say Goodbye](https://open.spotify.com/track/7mCcMSjdxm7I4zLnckj8nV) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m), [Bud Shank Quintet](https://open.spotify.com/artist/0wxeKxK215flbUeSkHOhTS) | [All Through The Night: Julie London Sings The Choicest Of Cole Porter \(Bonus Tracks\)](https://open.spotify.com/album/6rE7shZVgh3JfpLrdoR1Zn) | 4:20 | 2022-05-25 |  |
 | [Everything Happens To Me \- Complete Take 2](https://open.spotify.com/track/1FjIeuSHpU3x2J8cKCbc6r) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet In Paris: Everything Happens To Me \- The Complete Barclay Recording Vol\. 2](https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD) | 3:38 | 2022-05-25 |  |
+| [Fine And Mellow](https://open.spotify.com/track/1QdQ4r05QWhtcTTXOgRtyA) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) | 3:16 | 2022-09-01 |  |
 | [Fool That I Am](https://open.spotify.com/track/5RC6D893kdyFTbbXq9G3qZ) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [The Second Time Around](https://open.spotify.com/album/4NWqIjT0hua7Ezv91t389w) | 2:57 | 2022-04-13 |  |
 | [Gone With the Wind](https://open.spotify.com/track/6LK7pPcnOyFrgnisXJ84gn) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ), [Ray Bryant](https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR) | [Social Call](https://open.spotify.com/album/7MGttcftncXXItvutjK9dM) | 4:11 | 2022-04-13 |  |
 | [Good Morning Heartache](https://open.spotify.com/track/762FeIx1AXpUBRXd8zbFDB) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ), [Fi Maróstica](https://open.spotify.com/artist/6YT55fXGg6nMvzH6XpUlOP), [Leo Gasso](https://open.spotify.com/artist/241oJtKxM4JAbhH9F23CJN), [Jose Reinoso](https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ) | [Good Morning Heartache](https://open.spotify.com/album/1pQVULMV34Hv31Zv5zbGsR) | 3:13 | 2022-04-13 |  |
@@ -86,7 +87,7 @@
 | [Lover Man](https://open.spotify.com/track/3rnxTrbJ23PQ0g4NNVadru) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan's Golden Hits](https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU) | 3:16 | 2022-04-13 |  |
 | [Lover, Come Back To Me](https://open.spotify.com/track/27SVIQdbsAqZkTqpEnNmQ5) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) | 3:15 | 2022-04-13 |  |
 | [Maybe You'll Be There](https://open.spotify.com/track/3lzTDiidk78yOW2UUX1r4a) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Something Nice](https://open.spotify.com/album/1eudqXesmmxC08VZaNtEaq) | 3:39 | 2022-04-13 |  |
-| [Mean to Me \(with Teddy Wilson & His Orchestra\) \- Take 1](https://open.spotify.com/track/5iPwWmrRRiAtgmm3WJ8yUm) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp), [Teddy Wilson](https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii) | [A Musical Romance](https://open.spotify.com/album/4WmDWM4jSLl3EcJ716V1cu) | 3:05 | 2022-04-13 |  |
+| [Mean to Me \(with Teddy Wilson & His Orchestra\) \- Take 1](https://open.spotify.com/track/5iPwWmrRRiAtgmm3WJ8yUm) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp), [Teddy Wilson](https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii) | [A Musical Romance](https://open.spotify.com/album/4WmDWM4jSLl3EcJ716V1cu) | 3:05 | 2022-04-13 | 2022-09-02 |
 | [My Ideal](https://open.spotify.com/track/6akL58jOFRUs3DdoF1tUP0) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 4:22 | 2022-04-13 |  |
 | [My Old Flame](https://open.spotify.com/track/2tFhdY3DRVj2umeRuaQEfQ) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Complete Dinah Washington On Mercury, Vol.4 \(1954\-1956\)](https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB) | 3:07 | 2022-04-13 | 2022-08-12 |
 | [Never Let Me Go](https://open.spotify.com/track/2CUE9wgebjfvbu8It4RmZn) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Matt Skelton](https://open.spotify.com/artist/1Ak5vW938xaMoVfXuHeZfA), [Dave Chamberlain](https://open.spotify.com/artist/39LRDjCTn1f255RhV5cmyF) | [Breakfast on the Morning Tram \(Bonus Edition\)](https://open.spotify.com/album/6XmdcBZamVqXAQflgp9ksR) | 4:39 | 2022-04-13 |  |

@@ -4,7 +4,7 @@
 
 > Tú, nosotros y esta lista de canciones\. Foto: Lasso
 
-74 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/3WqtowYoqJPslwPTVPQQJV)
+75 songs - 5 hr 11 min - [published](https://open.spotify.com/playlist/3WqtowYoqJPslwPTVPQQJV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A un minuto de ti](https://open.spotify.com/track/7HlULtRMJSTzorUMebka0f) | [Mikel Erentxun](https://open.spotify.com/artist/7thnnayFyJnVOAJrpe5wMC) | [Naufragios](https://open.spotify.com/album/16RM2JFvsvSSSlylWmxhSV) | 3:53 | 2022-01-14 |  |
 | [ADMV](https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [ADMV](https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa) | 3:13 | 2022-01-14 |  |
 | [Ahora Sé](https://open.spotify.com/track/4Xn8A5LqK9p8wDDSG2gHiM) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Ahora Sé](https://open.spotify.com/album/7c0oX5ymPQwBlgO9ETKrXx) | 3:40 | 2022-01-14 | 2022-04-02 |
+| [Amiga Mía](https://open.spotify.com/track/2nDsjbGVU7aUGNuoAXCIlc) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Amiga Mía](https://open.spotify.com/album/5BpGM2EOixRKmXjk9pGjIn) | 3:32 | 2022-09-02 |  |
 | [Amor Prohibido](https://open.spotify.com/track/1kCewNSs909Xj1naXr36X8) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 2:52 | 2022-01-14 |  |
 | [Amores extraños](https://open.spotify.com/track/2vT5bweFphLcVvpmZR5PEv) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Laura Pausini: 25 Aniversario \(Spanish Version\)](https://open.spotify.com/album/0EXcVDePo397i4Um4vGxGs) | 4:15 | 2022-07-01 |  |
 | [Amores extraños](https://open.spotify.com/track/3HPF8PGYVMRczBwPufGaYb) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Laura Pausini \- Spanish Version](https://open.spotify.com/album/3mAzRo03Jk2g3Vq1q382tm) | 4:15 | 2022-01-14 | 2022-07-29 |
@@ -37,7 +38,7 @@
 | [Espacio en Tu Corazón](https://open.spotify.com/track/0GIQqhTJpBvAUwThmUHbPj) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Espacio en Tu Corazón](https://open.spotify.com/album/1Jrh0ptfEVDJbLbhG8vQHd) | 2:58 | 2022-04-01 | 2022-08-24 |
 | [Estar contigo \(feat\. La Oreja de Van Gogh\)](https://open.spotify.com/track/7G1ZWXlnSXRQ1arx8I60Yd) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X), [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [Estar contigo \(feat\. La Oreja de Van Gogh\)](https://open.spotify.com/album/23h7gVEPjvnosj6kQsuv2Y) | 3:57 | 2022-02-11 |  |
 | [Estoy Aquí](https://open.spotify.com/track/4M1lEbqPzlEw1JYWB6aE7K) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 3:52 | 2022-01-14 |  |
-| [Experiencia Religiosa](https://open.spotify.com/track/0tgjnOlps2Hc798rOYGpvi) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Enrique Iglesias](https://open.spotify.com/album/18FB0rct42g5hNr14l70GK) | 5:32 | 2022-07-01 |  |
+| [Experiencia Religiosa](https://open.spotify.com/track/0tgjnOlps2Hc798rOYGpvi) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Enrique Iglesias](https://open.spotify.com/album/18FB0rct42g5hNr14l70GK) | 5:32 | 2022-07-01 | 2022-09-02 |
 | [Fuera De Mí](https://open.spotify.com/track/6seAlnU97UJtaWFWZAVUwW) | [La Ley](https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK) | [Uno](https://open.spotify.com/album/0cbMRBnrfgHOfy8O5qRxcK) | 4:44 | 2022-01-14 | 2022-04-02 |
 | [Heroe](https://open.spotify.com/track/4AkrkORGjiz7c90mwxAvdW) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Escape](https://open.spotify.com/album/045SvC3Y4s8F4BmgZbZ1yt) | 4:23 | 2022-07-01 |  |
 | [Historia de Taxi](https://open.spotify.com/track/005Dlt8Xaz3DkaXiRJgdiS) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Historias](https://open.spotify.com/album/110rZdMmIjA335CehJJkuk) | 6:45 | 2022-01-14 |  |

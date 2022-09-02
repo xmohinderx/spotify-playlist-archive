@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW78Y3ocEppf.md) - [plain]
 
 > The feelings you can't put into words...only songs\. Cover: Brent Faiyaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,487 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,544 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,17 +54,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW78Y3ocEppf.md) - [plain]
 | 44 | [Fuckin' Sound](https://open.spotify.com/track/3cH7YI52JMcJrZIrJEJemU) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 2:44 |
 | 45 | [LOST YOU](https://open.spotify.com/track/26aJMMLBSOQmiC4JenVjjl) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 2:57 |
 | 46 | [Dead To Me](https://open.spotify.com/track/38k5xUTekY8K6yVqHkbgIo) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) | [Dead To Me](https://open.spotify.com/album/34Uw23xppTz4RJoZvxwSdY) | 2:13 |
-| 47 | [Letter To Ur N\(ex\)t](https://open.spotify.com/track/4LjOVLoj6OrrNJktFTYPGK) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Letter To Ur Ex](https://open.spotify.com/album/4IHthCcvRUuVuKtlclVSBY) | 2:14 |
-| 48 | [I'm Baby \(ft\. Jvck James\)](https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [3000°](https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF) | 3:22 |
+| 47 | [I'm Baby \(ft\. Jvck James\)](https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [3000°](https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF) | 3:22 |
+| 48 | [Letter To Ur N\(ex\)t](https://open.spotify.com/track/4LjOVLoj6OrrNJktFTYPGK) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Letter To Ur Ex](https://open.spotify.com/album/4IHthCcvRUuVuKtlclVSBY) | 2:14 |
 | 49 | [Forfeit\. \(ft\. Lucky Daye\)](https://open.spotify.com/track/4uMvvCwqs046uxyJiFJTT1) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [KIKI](https://open.spotify.com/album/6UmILTxwjM8sME3wbsZgQh) | 4:02 |
-| 50 | [By My Side \(feat\. Kaash Paige\)](https://open.spotify.com/track/0OixmRL2iIbWyDH6rn77M7) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Get Home SAFE \(Part 1\)](https://open.spotify.com/album/1DFMDukfXi9x0okLHjDNd9) | 1:56 |
-| 51 | [Such A Thing](https://open.spotify.com/track/7dAtplicSnwRymddH1qmpC) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Marigold](https://open.spotify.com/album/5hMEASKNPus4JjSIO5BCqz) | 3:25 |
-| 52 | [sorry](https://open.spotify.com/track/1Weox7JrxWlozk46HkXHTp) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [sorry](https://open.spotify.com/album/5yYBMehkCVXuFzaVPBBmzB) | 3:40 |
-| 53 | [BILL$](https://open.spotify.com/track/0H6CZCG2F1N3XZWNZAVqE7) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [COLORWAY](https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy) | 2:23 |
+| 50 | [Such A Thing](https://open.spotify.com/track/7dAtplicSnwRymddH1qmpC) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Marigold](https://open.spotify.com/album/5hMEASKNPus4JjSIO5BCqz) | 3:25 |
+| 51 | [By My Side \(feat\. Kaash Paige\)](https://open.spotify.com/track/0OixmRL2iIbWyDH6rn77M7) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Get Home SAFE \(Part 1\)](https://open.spotify.com/album/1DFMDukfXi9x0okLHjDNd9) | 1:56 |
+| 52 | [BILL$](https://open.spotify.com/track/0H6CZCG2F1N3XZWNZAVqE7) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [COLORWAY](https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy) | 2:23 |
+| 53 | [sorry](https://open.spotify.com/track/1Weox7JrxWlozk46HkXHTp) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [sorry](https://open.spotify.com/album/5yYBMehkCVXuFzaVPBBmzB) | 3:40 |
 | 54 | [Love Quotes](https://open.spotify.com/track/6FnXRfvhQsTbiMaiXb2gff) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Love Quotes](https://open.spotify.com/album/5juVweq2A5JD3kkEPTU7zI) | 3:15 |
 | 55 | [Pick Up Your Feelings](https://open.spotify.com/track/2JLVZYEMmqPWbUoAJAMKfm) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Pick Up Your Feelings](https://open.spotify.com/album/1wsPNQ8DFxRYNQnCs0hMu7) | 3:52 |
-| 56 | [You Don’t Know Me](https://open.spotify.com/track/7gpIj4wMeTKptFxetrNKzY) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:20 |
-| 57 | [Gaslight](https://open.spotify.com/track/64jK5HLnuxyCv4tYODdBXx) | [Eli Derby](https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u) | [Gaslight](https://open.spotify.com/album/4FxyBQB6mQTPWcyxoVZSrY) | 2:36 |
+| 56 | [Gaslight](https://open.spotify.com/track/64jK5HLnuxyCv4tYODdBXx) | [Eli Derby](https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u) | [Gaslight](https://open.spotify.com/album/4FxyBQB6mQTPWcyxoVZSrY) | 2:36 |
+| 57 | [You Don’t Know Me](https://open.spotify.com/track/7gpIj4wMeTKptFxetrNKzY) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:20 |
 | 58 | [Confujawn \(feat\. Nija\)](https://open.spotify.com/track/0IRTa7DehMM1eyrwx98DJ7) | [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH), [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Confujawn \(feat\. Nija\)](https://open.spotify.com/album/1ruWQM9ZBDvP9RFwfV6DHA) | 2:55 |
 | 59 | [VICES](https://open.spotify.com/track/1CfVpNo9PPCdv8akjNVBWQ) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [VICES](https://open.spotify.com/album/1i2GJKmbbcSz8cMeSV7BPZ) | 3:03 |
 | 60 | [MESS U MADE](https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [MESS U MADE](https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP) | 2:48 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW78Y3ocEppf.md) - [plain]
 | 65 | [Whatever Simon Says](https://open.spotify.com/track/1tHUrfOKfRgzuGaa6lXcK7) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Whatever Simon Says](https://open.spotify.com/album/78UFlfxHiZnU7Jl3tdDZxn) | 3:32 |
 | 66 | [Most Men \- A COLORS SHOW](https://open.spotify.com/track/6oNlhbPtDLVMcSKzloa3WO) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Most Men \- A COLORS SHOW](https://open.spotify.com/album/4Ll6gnAL7gDjnZM8tOEndi) | 4:13 |
 | 67 | [What A Lie](https://open.spotify.com/track/1VI7GQmBBgdslV3tQRvsRD) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [What A Lie](https://open.spotify.com/album/3YYUucEXwtTJC0FWcpqrB4) | 3:48 |
-| 68 | [Ease Up](https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Most Wanted \(Deluxe\)](https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt) | 3:41 |
-| 69 | [Countless Times](https://open.spotify.com/track/4Dy5oXGqZZLzOumW6Jho7o) | [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG) | [Love Letterz \(Deluxe\)](https://open.spotify.com/album/4QjiMgXdGCo8R2RPEqTjer) | 2:45 |
+| 68 | [Countless Times](https://open.spotify.com/track/4Dy5oXGqZZLzOumW6Jho7o) | [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG) | [Love Letterz \(Deluxe\)](https://open.spotify.com/album/4QjiMgXdGCo8R2RPEqTjer) | 2:45 |
+| 69 | [Ease Up](https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Most Wanted \(Deluxe\)](https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt) | 3:41 |
 | 70 | [I Deserve](https://open.spotify.com/track/0g5OzPkEGQeFiExxhUPjc3) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [I Deserve](https://open.spotify.com/album/3kZ8kuSmWXSJDeWjjTosUv) | 3:49 |
 | 71 | [Feelings 4 You](https://open.spotify.com/track/7whRnyXkGLSkwluSMe1JH5) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [Feelings 4 You](https://open.spotify.com/album/4zQasO3J7GKXQ8zEdFSbqx) | 4:16 |
 | 72 | [Why Don't You Touch Me](https://open.spotify.com/track/7wnV2fCAoOMkFCMGFxUmsM) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Why Don't You Touch Me](https://open.spotify.com/album/04NUa9SytI8eol6ylIS9ai) | 3:17 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW78Y3ocEppf.md) - [plain]
 | 74 | [Drunk Love](https://open.spotify.com/track/7cJbE0NrwtCE6hYC3YXvGp) | [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [ON THE ROCKS](https://open.spotify.com/album/0uGmnnclrvN2ucqgpgpdyz) | 2:56 |
 | 75 | [What About Us \(feat\. Sevyn Streeter\)](https://open.spotify.com/track/0A7xgfdP4RKVJD95kF0dx6) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [New Light](https://open.spotify.com/album/3BY4kqH3wxKXvnDK6GUqH4) | 3:08 |
 
-Snapshot ID: `MTY2MTQ4ODg5NCwwMDAwMDAwMDk5YmRhMzVhYmI4ZGRhOTljM2E2Y2FkMWNmZmMzMDdh`
+Snapshot ID: `MTY2MTQ4ODg5NCwwMDAwMDAwMDg2OGZmNGExYmI2YjJjZjNiZTg2MzE4NmM2OGEwMzJm`

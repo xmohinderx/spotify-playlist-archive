@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 
 > Vai curtir um dia no parque? A tarde com os amigos? É só dar play e sair pro sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,712 likes - 60 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,713 likes - 60 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 | 10 | [Ai, Amor](https://open.spotify.com/track/3bR8wBqLky6b61ROJlaBEF) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [O Tempo É Agora](https://open.spotify.com/album/0yiQu0POzXcfjEB6qBuhtj) | 3:40 |
 | 11 | [Desafinado \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/12j5ByuhjK6vsb0vJS1cwM) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Desafinado \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/3l4QQKkuRpYQCmmq3F6DLv) | 2:10 |
 | 12 | [Brazilian Soul \(feat\. Sofi Tukker\) \- Acoustic Bossa Version](https://open.spotify.com/track/5iX7aAVoO3dzUOZ1eAvg6f) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Brazilian Soul \(feat\. Sofi Tukker\) \[Remixes\]](https://open.spotify.com/album/2OTIyP1zBOinX4qEj6x3Qa) | 4:10 |
-| 13 | [Sorri, Sou Rei \(feat\. Claudia Leitte\)](https://open.spotify.com/track/4UChhDCTtneR0QXN0btEmz) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO), [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Box Natiruts](https://open.spotify.com/album/6H7aEzVGlXJlMXfcZml7vP) | 5:32 |
-| 14 | [Voltei Pra Mim](https://open.spotify.com/track/3aexu2VagwWh2r3pd3PAJW) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [De Primeira](https://open.spotify.com/album/6bN5oG5wKJJqO0j7OhXVNt) | 3:18 |
+| 13 | [Voltei Pra Mim](https://open.spotify.com/track/3aexu2VagwWh2r3pd3PAJW) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [De Primeira](https://open.spotify.com/album/6bN5oG5wKJJqO0j7OhXVNt) | 3:18 |
+| 14 | [Sorri, Sou Rei \(feat\. Claudia Leitte\)](https://open.spotify.com/track/4UChhDCTtneR0QXN0btEmz) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO), [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Box Natiruts](https://open.spotify.com/album/6H7aEzVGlXJlMXfcZml7vP) | 5:32 |
 | 15 | [EITA MENINA](https://open.spotify.com/track/2ItOwqddXxLZnOmQmlEbda) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [EITA MENINA](https://open.spotify.com/album/4NIEzSSeFxaLxa66ENiqaE) | 3:07 |
 | 16 | [FYN](https://open.spotify.com/track/0kmVNMFtYuiN3vjyxsyZZS) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:27 |
 | 17 | [Meu Esquema](https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3) | [Mundo Livre S/A](https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC) | [Por Pouco \(Bit Box\)](https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC) | 4:19 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 | 29 | [Brasil](https://open.spotify.com/track/61D9YBbXp4rkZi7vI9mIwf) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 3:50 |
 | 30 | [Café Com Leite](https://open.spotify.com/track/4Qr7jxogVZA4rglb4IPyGD) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc) | [Soft Power](https://open.spotify.com/album/6em6BXIsCYjP1JOhaU4Bm6) | 4:22 |
 | 31 | [Notificação Ligada](https://open.spotify.com/track/7kItXrQ1NBReZrQpykM2eq) | [Julian Campos](https://open.spotify.com/artist/3Z6hZbspAZW7MdhWQTAhiR) | [28](https://open.spotify.com/album/7xwXeg80WaIT5tEXjusy2r) | 2:22 |
-| 32 | [Sonho Bossa Nova](https://open.spotify.com/track/2TE7vDdfiipXdXCcU7IKox) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Dança Entre Casais](https://open.spotify.com/album/6dI3aSsEFqAP5GDjG70WvA) | 3:52 |
-| 33 | [Sexy](https://open.spotify.com/track/3hX4oYznwMulMXCMeT6Ia9) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Elephunk](https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD) | 4:43 |
+| 32 | [Sexy](https://open.spotify.com/track/3hX4oYznwMulMXCMeT6Ia9) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Elephunk](https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD) | 4:43 |
+| 33 | [Sonho Bossa Nova](https://open.spotify.com/track/2TE7vDdfiipXdXCcU7IKox) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Dança Entre Casais](https://open.spotify.com/album/6dI3aSsEFqAP5GDjG70WvA) | 3:52 |
 | 34 | [Dias de Janeiro](https://open.spotify.com/track/05m3Pl8gI9JiySe6IoISa5) | [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [Condom Black](https://open.spotify.com/album/79PfK4UpwBYNTmfb3OQEas) | 5:42 |
 | 35 | [Um Corpo no Mundo](https://open.spotify.com/track/2kEGhFlJxjVtXnIpudVLtI) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Um Corpo no Mundo](https://open.spotify.com/album/3PH6R6Ah2YfJeufrRYREZ4) | 6:25 |
 | 36 | [Vem Menina](https://open.spotify.com/track/61iZqGREvoZdAKs6vcancM) | [Curumin](https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI) | [Achados e Perdidos](https://open.spotify.com/album/4NQdOnSf8y9kapTUZJsxYq) | 4:19 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 | 59 | [Tom Jobim](https://open.spotify.com/track/6BRjl1Pkk7zBUMnRwdnGOz) | [Edley INC.](https://open.spotify.com/artist/4ugyOypb7Cflv7D72t80UE) | [Tom Jobim](https://open.spotify.com/album/10g32N6XzlGiOQ79DvYbJO) | 4:08 |
 | 60 | [Ya Sé](https://open.spotify.com/track/2ejZIgsZ5Ax9JbjPkWMK9W) | [Edu Requejo](https://open.spotify.com/artist/6ZNFH9pfiRpTSgJaKQBb8M) | [Ya Sé](https://open.spotify.com/album/7F8kZWnb4B1nN9wkFNgX15) | 2:43 |
 
-Snapshot ID: `MTY1NTE3MjQxOSwwMDAwMDAwMDM3YWNiYzNlOGMxYzJmYTY1ODExM2MxOTkzN2E1ZjA5`
+Snapshot ID: `MTY1NTE3MjQxOSwwMDAwMDAwMDFmNGY2YTMxOTQ3NWYwZTM2OGYyOTJhMWU2ZWU2ODhi`

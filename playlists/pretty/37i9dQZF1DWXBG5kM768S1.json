@@ -1,12 +1,12 @@
 {
   "description": "De beste norske l\u00e5tene fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 62889,
+  "num_followers": 62911,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg2MDA2MCwwMDAwMDAwMDczOTI5ODc0NWQzNjAzOGNiYWE0M2Y2NTgwYjBjOTIx",
+  "snapshot_id": "MTY2MDg2MDA2MCwwMDAwMDAwMDIyY2NiNzE5MDg0NDE2ZDgwZGM4NWY0MGMzYmM1ZDcw",
   "tracks": [
     {
       "added_at": "2022-08-18 22:01:00",
@@ -123,18 +123,18 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
-        "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
-        "url": "https://open.spotify.com/album/6pBw9UnwWxVJMw3HXjzLvU"
+        "name": "Kamilla Og Tyven",
+        "url": "https://open.spotify.com/album/31yk847bN0MUuhwNQbfsNC"
       },
       "artists": [
         {
-          "name": "Henning Kvitnes",
-          "url": "https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6"
+          "name": "Morten Harket",
+          "url": "https://open.spotify.com/artist/08t5VdmH6cpxHXUmb9bFeP"
         }
       ],
-      "duration_ms": 253100,
-      "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
-      "url": "https://open.spotify.com/track/25dpPTPkyVqtdOqk5Vw7o9"
+      "duration_ms": 214186,
+      "name": "Kamilla Og Tyven",
+      "url": "https://open.spotify.com/track/5S3iampR4PvPov7fvN2Mt7"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -191,18 +191,18 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
-        "name": "Kamilla Og Tyven",
-        "url": "https://open.spotify.com/album/31yk847bN0MUuhwNQbfsNC"
+        "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
+        "url": "https://open.spotify.com/album/6pBw9UnwWxVJMw3HXjzLvU"
       },
       "artists": [
         {
-          "name": "Morten Harket",
-          "url": "https://open.spotify.com/artist/08t5VdmH6cpxHXUmb9bFeP"
+          "name": "Henning Kvitnes",
+          "url": "https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6"
         }
       ],
-      "duration_ms": 214186,
-      "name": "Kamilla Og Tyven",
-      "url": "https://open.spotify.com/track/5S3iampR4PvPov7fvN2Mt7"
+      "duration_ms": 253100,
+      "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
+      "url": "https://open.spotify.com/track/25dpPTPkyVqtdOqk5Vw7o9"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
-        "name": "Fingeravtrykk",
-        "url": "https://open.spotify.com/album/4LQ9X3yVtTvsR7zx0GyRyW"
-      },
-      "artists": [
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
-        }
-      ],
-      "duration_ms": 421054,
-      "name": "Fingeravtrykk",
-      "url": "https://open.spotify.com/track/7176c184pups4Q02ZPhTAl"
-    },
-    {
-      "added_at": "2022-08-18 22:01:00",
-      "album": {
         "name": "Gutta P\u00e5 By`n",
         "url": "https://open.spotify.com/album/45mwIOTPBgzMo0UW5EXrZF"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 350586,
       "name": "Heile Livet",
       "url": "https://open.spotify.com/track/0JqKsXLWxANEsih1Vsszgr"
+    },
+    {
+      "added_at": "2022-08-18 22:01:00",
+      "album": {
+        "name": "Fingeravtrykk",
+        "url": "https://open.spotify.com/album/4LQ9X3yVtTvsR7zx0GyRyW"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "duration_ms": 421054,
+      "name": "Fingeravtrykk",
+      "url": "https://open.spotify.com/track/7176c184pups4Q02ZPhTAl"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
+        "name": "V\u00e5r beste dag",
+        "url": "https://open.spotify.com/album/72dAuYKSanaCXmsLzS7eUN"
+      },
+      "artists": [
+        {
+          "name": "Marit Larsen",
+          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
+        }
+      ],
+      "duration_ms": 202588,
+      "name": "V\u00e5r beste dag",
+      "url": "https://open.spotify.com/track/2RssYUkYzmEtvxmUX0C19A"
+    },
+    {
+      "added_at": "2022-08-18 22:01:00",
+      "album": {
         "name": "den tyngste turen (med Aslag Haugen)",
         "url": "https://open.spotify.com/album/6ZHUyK14poEdYpMmLxxXkS"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 205062,
       "name": "den tyngste turen",
       "url": "https://open.spotify.com/track/4MqsWPW2UtBiAIGK8xoXu0"
-    },
-    {
-      "added_at": "2022-08-18 22:01:00",
-      "album": {
-        "name": "V\u00e5r beste dag",
-        "url": "https://open.spotify.com/album/72dAuYKSanaCXmsLzS7eUN"
-      },
-      "artists": [
-        {
-          "name": "Marit Larsen",
-          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
-        }
-      ],
-      "duration_ms": 202588,
-      "name": "V\u00e5r beste dag",
-      "url": "https://open.spotify.com/track/2RssYUkYzmEtvxmUX0C19A"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
-        "name": "Sm\u00e5`n",
-        "url": "https://open.spotify.com/album/7nc2z9Yw6Q7DL0aUKg5XoC"
-      },
-      "artists": [
-        {
-          "name": "Trygve Skaug",
-          "url": "https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n"
-        }
-      ],
-      "duration_ms": 191902,
-      "name": "Sm\u00e5`n",
-      "url": "https://open.spotify.com/track/4ZjF0DpPdbjXbC27GYzEIE"
-    },
-    {
-      "added_at": "2022-08-18 22:01:00",
-      "album": {
         "name": "Fra 4 Til 70",
         "url": "https://open.spotify.com/album/1HtbTHXEUz2MSQg4cCWQtP"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 222146,
       "name": "En Spennende Dag for Josefine",
       "url": "https://open.spotify.com/track/6TOeA3fUURRV9hbRd2dpXa"
+    },
+    {
+      "added_at": "2022-08-18 22:01:00",
+      "album": {
+        "name": "Sm\u00e5`n",
+        "url": "https://open.spotify.com/album/7nc2z9Yw6Q7DL0aUKg5XoC"
+      },
+      "artists": [
+        {
+          "name": "Trygve Skaug",
+          "url": "https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n"
+        }
+      ],
+      "duration_ms": 191902,
+      "name": "Sm\u00e5`n",
+      "url": "https://open.spotify.com/track/4ZjF0DpPdbjXbC27GYzEIE"
     },
     {
       "added_at": "2022-08-18 22:01:00",

@@ -2,7 +2,7 @@
 
 ### [Spotify Singles: Latin](https://open.spotify.com/playlist/37i9dQZF1DWSDautEwAKZB)
 
-> Latin superstars like you've never heard before\.  Cover: Gabriel Garzón\-Montano, Mon Laferte & Tokischa
+> Latin superstars like you've never heard before\.  Cover: Twin Shadow.
 
 56 songs - 3 hr 17 min - [published](https://open.spotify.com/playlist/5TwbIYs6Yq7MRkumDdjTE9)
 

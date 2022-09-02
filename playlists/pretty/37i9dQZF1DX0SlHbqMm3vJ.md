@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 
 ### [Ginger Me](https://open.spotify.com/playlist/37i9dQZF1DX0SlHbqMm3vJ)
 
-> A collection of old and new R&B cuts from West Africa’s finest artists.
+> A collection of old and new R&B cuts from West Africa’s finest artists\. Cover: Preyé
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,970 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,075 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 | 73 | [Door](https://open.spotify.com/track/4ahI2IdM0Z1e7dLopcNJQi) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Door](https://open.spotify.com/album/3NEfHN5barIoNRNa4vPXh1) | 2:32 |
 | 74 | [For Days](https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [For Days](https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2) | 2:44 |
 | 75 | [Forever](https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Seed \- EP](https://open.spotify.com/album/3E4G6wybYqXVpxipFZmLGK) | 3:16 |
-| 76 | [Balance](https://open.spotify.com/track/2GWkmTjlEtBN6n6POjqLWP) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [TBH \(To Be Honest\)](https://open.spotify.com/album/3ok45X5OZt6s9PkZljnT5r) | 3:10 |
-| 77 | [Chop & Slide](https://open.spotify.com/track/1rWxa2PtZT1S1mr6Jxm86B) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/12iai3p96UYvcrDqlvvKFE) | 2:48 |
+| 76 | [Chop & Slide](https://open.spotify.com/track/1rWxa2PtZT1S1mr6Jxm86B) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/12iai3p96UYvcrDqlvvKFE) | 2:48 |
+| 77 | [Balance](https://open.spotify.com/track/2GWkmTjlEtBN6n6POjqLWP) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [TBH \(To Be Honest\)](https://open.spotify.com/album/3ok45X5OZt6s9PkZljnT5r) | 3:10 |
 | 78 | [Mercy](https://open.spotify.com/track/6eLjOsfFnwdb4dZ4kQqW7b) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Mercy](https://open.spotify.com/album/2DWDjIDrDSiL0XPW4qy9kR) | 2:47 |
 | 79 | [Away](https://open.spotify.com/track/47eAURQmsBK5e5cliaObFm) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Ayra Starr](https://open.spotify.com/album/3drpxIB5lrsy5SOmVCoPwc) | 2:49 |
 | 80 | [Slow Down](https://open.spotify.com/track/06NG4AQXXeWnnODyUCC6ZU) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Slow Down](https://open.spotify.com/album/1M7aXbvLJZZU0tcW75opXe) | 2:57 |
 
-Snapshot ID: `MTY2MTQ2ODQwMCwwMDAwMDAwMGQxYmY2NjM1MTUyZmMwZWQ2NzdiMTc5ZDhiNWNmZjY0`
+Snapshot ID: `MTY2MjA3MzIwMCwwMDAwMDAwMDA5MGE1ODRhYzFjMTFiYmY4MTlhM2Y0Yzk3Y2I3MzIw`

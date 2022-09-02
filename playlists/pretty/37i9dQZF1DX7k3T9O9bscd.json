@@ -1,12 +1,12 @@
 {
   "description": "Psyched-out bands from the four corners of the world.",
-  "num_followers": 306673,
+  "num_followers": 306876,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkxODA0OSwwMDAwMDAwMGU5YzMwMzBmYWM3ZjdkZjE5ZjNiODUxOWY1MDlkYzhi",
+  "snapshot_id": "MTY2MTkxODA0OSwwMDAwMDAwMDFlMzkyZTZkNTg3NDU5Zjk1MDlkYzIyYWM4NjJiNjY5",
   "tracks": [
     {
       "added_at": "2022-04-12 18:03:13",
@@ -219,22 +219,6 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Corsicana Lemonade",
-        "url": "https://open.spotify.com/album/4WK9kL67qfZcphKP2VUvFz"
-      },
-      "artists": [
-        {
-          "name": "White Denim",
-          "url": "https://open.spotify.com/artist/0RdRumkn2UydUjqytNJ2Cp"
-        }
-      ],
-      "duration_ms": 244346,
-      "name": "At Night In Dreams",
-      "url": "https://open.spotify.com/track/402inY9UFrPImLssOP0Wo8"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
         "name": "Forest of Lost Children",
         "url": "https://open.spotify.com/album/2dwNxD6zrwPkRJlr08WOKA"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 436171,
       "name": "Smoke and Mirrors",
       "url": "https://open.spotify.com/track/5skAQdEOEjdRVBcNtMtExs"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "Corsicana Lemonade",
+        "url": "https://open.spotify.com/album/4WK9kL67qfZcphKP2VUvFz"
+      },
+      "artists": [
+        {
+          "name": "White Denim",
+          "url": "https://open.spotify.com/artist/0RdRumkn2UydUjqytNJ2Cp"
+        }
+      ],
+      "duration_ms": 244346,
+      "name": "At Night In Dreams",
+      "url": "https://open.spotify.com/track/402inY9UFrPImLssOP0Wo8"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
         }
       ],
-      "duration_ms": 273854,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/0nObOnIxnz6PlPf04tZh1g"
+      "duration_ms": 252630,
+      "name": "Intrasport",
+      "url": "https://open.spotify.com/track/28c8ZDVltaCcs4OfIAuI8Z"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
         }
       ],
-      "duration_ms": 252630,
-      "name": "Intrasport",
-      "url": "https://open.spotify.com/track/28c8ZDVltaCcs4OfIAuI8Z"
+      "duration_ms": 273854,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/0nObOnIxnz6PlPf04tZh1g"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -585,22 +585,6 @@
       "url": "https://open.spotify.com/track/5ULB93v4tHdKtXC4LTa3k1"
     },
     {
-      "added_at": "2022-04-22 19:38:56",
-      "album": {
-        "name": "SongBook",
-        "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
-      },
-      "artists": [
-        {
-          "name": "The Lazy Eyes",
-          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
-        }
-      ],
-      "duration_ms": 261556,
-      "name": "Imaginary Girl",
-      "url": "https://open.spotify.com/track/0dXdVTTo1hVSWvqEJQ04Gy"
-    },
-    {
       "added_at": "2021-11-12 05:23:58",
       "album": {
         "name": "Stars Are the Light",
@@ -615,6 +599,22 @@
       "duration_ms": 386966,
       "name": "Lost Heads",
       "url": "https://open.spotify.com/track/6f8wIpMdNnL7CZ8zsfmh6v"
+    },
+    {
+      "added_at": "2022-04-22 19:38:56",
+      "album": {
+        "name": "SongBook",
+        "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
+      },
+      "artists": [
+        {
+          "name": "The Lazy Eyes",
+          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
+        }
+      ],
+      "duration_ms": 261556,
+      "name": "Imaginary Girl",
+      "url": "https://open.spotify.com/track/0dXdVTTo1hVSWvqEJQ04Gy"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -777,22 +777,6 @@
       "url": "https://open.spotify.com/track/5QBzorRtkUglhnTQBzNJMU"
     },
     {
-      "added_at": "2022-04-12 17:55:21",
-      "album": {
-        "name": "Egypt",
-        "url": "https://open.spotify.com/album/31ZG86kVsR9TpKp80LaBLc"
-      },
-      "artists": [
-        {
-          "name": "KYANOS",
-          "url": "https://open.spotify.com/artist/3cUDiKFw3eDH0KnAoJBPGD"
-        }
-      ],
-      "duration_ms": 261634,
-      "name": "Egypt",
-      "url": "https://open.spotify.com/track/3vX1OAHdl2R8XAWDxffrqy"
-    },
-    {
       "added_at": "2021-11-12 05:23:58",
       "album": {
         "name": "Rose City Band",
@@ -823,6 +807,22 @@
       "duration_ms": 546640,
       "name": "Black Acid",
       "url": "https://open.spotify.com/track/79wFxHIwLa9mzaheh7hpHE"
+    },
+    {
+      "added_at": "2022-04-12 17:55:21",
+      "album": {
+        "name": "Egypt",
+        "url": "https://open.spotify.com/album/31ZG86kVsR9TpKp80LaBLc"
+      },
+      "artists": [
+        {
+          "name": "KYANOS",
+          "url": "https://open.spotify.com/artist/3cUDiKFw3eDH0KnAoJBPGD"
+        }
+      ],
+      "duration_ms": 261634,
+      "name": "Egypt",
+      "url": "https://open.spotify.com/track/3vX1OAHdl2R8XAWDxffrqy"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -913,6 +913,22 @@
       "url": "https://open.spotify.com/track/0a88jyCYlQUGIIFrGbQ286"
     },
     {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "You Will Know Nothing",
+        "url": "https://open.spotify.com/album/1aMivKbCNWCWaymvcy7DLX"
+      },
+      "artists": [
+        {
+          "name": "Here Lies Man",
+          "url": "https://open.spotify.com/artist/6Ms9HDPdO2yBwjtljcqL7H"
+        }
+      ],
+      "duration_ms": 252089,
+      "name": "Animal Noises",
+      "url": "https://open.spotify.com/track/7nG7S6CMeCKznVsZ96hZam"
+    },
+    {
       "added_at": "2022-04-05 16:05:08",
       "album": {
         "name": "The Revolt Against Tired Noises",
@@ -927,6 +943,22 @@
       "duration_ms": 321906,
       "name": "Black Kite",
       "url": "https://open.spotify.com/track/0ded1wHOrEsDsVE3W01m0V"
+    },
+    {
+      "added_at": "2022-04-22 19:18:57",
+      "album": {
+        "name": "Spin",
+        "url": "https://open.spotify.com/album/6GejDhVjHKAmQnPkyW6csf"
+      },
+      "artists": [
+        {
+          "name": "Triathalon",
+          "url": "https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3"
+        }
+      ],
+      "duration_ms": 212203,
+      "name": "Spin",
+      "url": "https://open.spotify.com/track/31MLGEYrKwoTmMoH50JDEw"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -947,18 +979,18 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "You Will Know Nothing",
-        "url": "https://open.spotify.com/album/1aMivKbCNWCWaymvcy7DLX"
+        "name": "Aufheben",
+        "url": "https://open.spotify.com/album/5fIBgSbkrbeICQnBuygxgn"
       },
       "artists": [
         {
-          "name": "Here Lies Man",
-          "url": "https://open.spotify.com/artist/6Ms9HDPdO2yBwjtljcqL7H"
+          "name": "The Brian Jonestown Massacre",
+          "url": "https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy"
         }
       ],
-      "duration_ms": 252089,
-      "name": "Animal Noises",
-      "url": "https://open.spotify.com/track/7nG7S6CMeCKznVsZ96hZam"
+      "duration_ms": 278826,
+      "name": "Panic In Babylon",
+      "url": "https://open.spotify.com/track/0tyoeMypzUIzgvMB3R7pmL"
     },
     {
       "added_at": "2022-08-03 04:22:19",
@@ -975,22 +1007,6 @@
       "duration_ms": 265374,
       "name": "See",
       "url": "https://open.spotify.com/track/0wNR01ZZBPtPnyHOvFK5mB"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
-        "name": "Aufheben",
-        "url": "https://open.spotify.com/album/5fIBgSbkrbeICQnBuygxgn"
-      },
-      "artists": [
-        {
-          "name": "The Brian Jonestown Massacre",
-          "url": "https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy"
-        }
-      ],
-      "duration_ms": 278826,
-      "name": "Panic In Babylon",
-      "url": "https://open.spotify.com/track/0tyoeMypzUIzgvMB3R7pmL"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -1025,22 +1041,6 @@
       "url": "https://open.spotify.com/track/39OK2v0ZYohVbvqg4X4uDE"
     },
     {
-      "added_at": "2022-04-22 19:18:57",
-      "album": {
-        "name": "Spin",
-        "url": "https://open.spotify.com/album/6GejDhVjHKAmQnPkyW6csf"
-      },
-      "artists": [
-        {
-          "name": "Triathalon",
-          "url": "https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3"
-        }
-      ],
-      "duration_ms": 212203,
-      "name": "Spin",
-      "url": "https://open.spotify.com/track/31MLGEYrKwoTmMoH50JDEw"
-    },
-    {
       "added_at": "2022-04-06 03:33:39",
       "album": {
         "name": "Time Bazaar",
@@ -1073,22 +1073,6 @@
       "url": "https://open.spotify.com/track/2ntjrFwp2AvA2vHTbJrgmX"
     },
     {
-      "added_at": "2022-08-03 04:25:04",
-      "album": {
-        "name": "Don't Delay, Join Today!",
-        "url": "https://open.spotify.com/album/28ArhpcPDNuJFqqWGmevOi"
-      },
-      "artists": [
-        {
-          "name": "Improvement Movement",
-          "url": "https://open.spotify.com/artist/18S4ntNsQ8TCG80wpOsxWZ"
-        }
-      ],
-      "duration_ms": 128917,
-      "name": "Strange Secrets Worth Knowing",
-      "url": "https://open.spotify.com/track/0XDFrRl5464H97zLQZiC1W"
-    },
-    {
       "added_at": "2021-11-12 05:23:58",
       "album": {
         "name": "The Trip",
@@ -1103,6 +1087,22 @@
       "duration_ms": 257972,
       "name": "The Trip",
       "url": "https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7"
+    },
+    {
+      "added_at": "2022-08-03 04:25:04",
+      "album": {
+        "name": "Don't Delay, Join Today!",
+        "url": "https://open.spotify.com/album/28ArhpcPDNuJFqqWGmevOi"
+      },
+      "artists": [
+        {
+          "name": "Improvement Movement",
+          "url": "https://open.spotify.com/artist/18S4ntNsQ8TCG80wpOsxWZ"
+        }
+      ],
+      "duration_ms": 128917,
+      "name": "Strange Secrets Worth Knowing",
+      "url": "https://open.spotify.com/track/0XDFrRl5464H97zLQZiC1W"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -1153,22 +1153,6 @@
       "url": "https://open.spotify.com/track/1mf0q8XDtJwuQVP8mnpsfz"
     },
     {
-      "added_at": "2022-08-03 04:22:54",
-      "album": {
-        "name": "Mar\u00eda Juana",
-        "url": "https://open.spotify.com/album/5Zszup3W2EXikXLldmLNRM"
-      },
-      "artists": [
-        {
-          "name": "La Era de Acuario",
-          "url": "https://open.spotify.com/artist/5uM5pjFZqCgexfwJ0n7qQh"
-        }
-      ],
-      "duration_ms": 294874,
-      "name": "Mar\u00eda Juana",
-      "url": "https://open.spotify.com/track/1bNuGB94RuKFS2fQiSCGuy"
-    },
-    {
       "added_at": "2021-11-12 05:23:58",
       "album": {
         "name": "V.",
@@ -1199,6 +1183,22 @@
       "duration_ms": 250214,
       "name": "Meme City",
       "url": "https://open.spotify.com/track/6KFtYRLRNKZZf5cQWGvtO0"
+    },
+    {
+      "added_at": "2022-08-03 04:22:54",
+      "album": {
+        "name": "Mar\u00eda Juana",
+        "url": "https://open.spotify.com/album/5Zszup3W2EXikXLldmLNRM"
+      },
+      "artists": [
+        {
+          "name": "La Era de Acuario",
+          "url": "https://open.spotify.com/artist/5uM5pjFZqCgexfwJ0n7qQh"
+        }
+      ],
+      "duration_ms": 294874,
+      "name": "Mar\u00eda Juana",
+      "url": "https://open.spotify.com/track/1bNuGB94RuKFS2fQiSCGuy"
     },
     {
       "added_at": "2021-11-12 05:23:58",

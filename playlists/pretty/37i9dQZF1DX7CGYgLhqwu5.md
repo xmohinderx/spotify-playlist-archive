@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 
 > Many would say that this decade is a "Golden Era" for country music\. Cover: Patsy Cline
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,623 likes - 100 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,198 likes - 100 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 67 | [The Bottle Let Me Down](https://open.spotify.com/track/4zzcta2PO7TIs9YuXZ6G2u) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Vintage Collections](https://open.spotify.com/album/14QyCjfoBHSmq5nxux8OJg) | 2:48 |
 | 68 | [500 Miles Away from Home](https://open.spotify.com/track/71gllRzHoMKgU7b2y0OfM7) | [Bobby Bare](https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd) | [Super Hits](https://open.spotify.com/album/27mfw2zyN5OY8RzlKD5C6v) | 2:42 |
 | 69 | [Take Me](https://open.spotify.com/track/321EGZZRFk8kj4pNZraesQ) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5), [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [The Essential George Jones](https://open.spotify.com/album/2Pf9lml86yy0wuEDUSBIUF) | 2:20 |
-| 70 | [Green Green Grass Of Home](https://open.spotify.com/track/6Ss6vCdWHgCuiB3icgBAwY) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA) | [Super Hits](https://open.spotify.com/album/2up4ZFkepH2jR7Ltnd2LiJ) | 2:59 |
-| 71 | [Last Date \- Instrumental](https://open.spotify.com/track/7rbvjRc6ZTVA3GUXDx3Xtr) | [Floyd Cramer](https://open.spotify.com/artist/6DQ6mdEhxCgHPqfX1niZZK) | [Super Hits](https://open.spotify.com/album/2xDSr0Si1QI2v4kkGnkW4G) | 2:26 |
+| 70 | [Last Date \- Instrumental](https://open.spotify.com/track/7rbvjRc6ZTVA3GUXDx3Xtr) | [Floyd Cramer](https://open.spotify.com/artist/6DQ6mdEhxCgHPqfX1niZZK) | [Super Hits](https://open.spotify.com/album/2xDSr0Si1QI2v4kkGnkW4G) | 2:26 |
+| 71 | [Green Green Grass Of Home](https://open.spotify.com/track/6Ss6vCdWHgCuiB3icgBAwY) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA) | [Super Hits](https://open.spotify.com/album/2up4ZFkepH2jR7Ltnd2LiJ) | 2:59 |
 | 72 | [Love's Gonna Live Here](https://open.spotify.com/track/0svhKL5JfIxASjbmEkxXKV) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [All\-Time Greatest Hits](https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt) | 2:04 |
 | 73 | [Don't Worry](https://open.spotify.com/track/0dPfKBYyPmoSfoLJqeKAs4) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [The Story Of My Life: The Best Of Marty Robbins 1952\-1965](https://open.spotify.com/album/74rRdoFP8aO3ZhY8MeZK0m) | 3:14 |
 | 74 | [It's Such A Pretty World Today](https://open.spotify.com/track/32zPvvt7K2nZIbQl7cMM3F) | [Wynn Stewart](https://open.spotify.com/artist/0ZnXSl6jvNavoEpJ5I5AdE) | [Lost Country Hits of the 60s](https://open.spotify.com/album/2Wod7YXHNfXubV7EdP4Lto) | 2:30 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 80 | [Just Between You and Me](https://open.spotify.com/track/7lSgl6fOpD1aeeXS1mhKcd) | [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [Super Hits](https://open.spotify.com/album/6Xq66Tp330KlzKuFyVS4MX) | 2:14 |
 | 81 | [Wolverton Mountain](https://open.spotify.com/track/7GjmzKbriJewFNDPJtVjey) | [Claude King](https://open.spotify.com/artist/3apueasSp0paDZeS4aU06g) | [Columbia Country Classics Volume 3: Americana](https://open.spotify.com/album/4gjtwmWWKjI9p3dLUUfZEA) | 2:57 |
 | 82 | [The Image of Me](https://open.spotify.com/track/2jfHjFG4pT0bTTbvSDcOv6) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Timeless](https://open.spotify.com/album/2MDSQqlAQEVFpTJkWVEsju) | 2:57 |
-| 83 | [Pop a Top](https://open.spotify.com/track/73AgVwYUEPn9kB0a97b4LW) | [Jim Ed Brown](https://open.spotify.com/artist/6XBkny92syvAWxlIX8CZAM) | [The Essential Jim Ed Brown And The Browns \(feat\. Jim Ed Brown\)](https://open.spotify.com/album/7IsKfmOaFBk2o6XZQPGwyh) | 2:20 |
-| 84 | [Don't Let Me Cross Over](https://open.spotify.com/track/1ZNDtli4TjhuoBnWplaePI) | [Carl Butler](https://open.spotify.com/artist/2EtHntibRhuBeOmpRT2HNF) | [Don't Let Me Cross Over](https://open.spotify.com/album/4x4PlliOVqlLHyqel4cOL8) | 2:57 |
+| 83 | [Don't Let Me Cross Over](https://open.spotify.com/track/1ZNDtli4TjhuoBnWplaePI) | [Carl Butler](https://open.spotify.com/artist/2EtHntibRhuBeOmpRT2HNF) | [Don't Let Me Cross Over](https://open.spotify.com/album/4x4PlliOVqlLHyqel4cOL8) | 2:57 |
+| 84 | [Pop a Top](https://open.spotify.com/track/73AgVwYUEPn9kB0a97b4LW) | [Jim Ed Brown](https://open.spotify.com/artist/6XBkny92syvAWxlIX8CZAM) | [The Essential Jim Ed Brown And The Browns \(feat\. Jim Ed Brown\)](https://open.spotify.com/album/7IsKfmOaFBk2o6XZQPGwyh) | 2:20 |
 | 85 | [Lonesome 7\-7203](https://open.spotify.com/track/7uoR7OHB4pJt1LPL128prk) | [Hawkshaw Hawkins](https://open.spotify.com/artist/0fX1VRKNIBwg3qD7oe2IVV) | [Hawkshaw Hawkins 28 Big Ones](https://open.spotify.com/album/6PY8NzMXhWfO5psQjbsQBb) | 2:43 |
 | 86 | [The Streets of Baltimore](https://open.spotify.com/track/3kDSSR6noFrYJBxijqEVm3) | [Bobby Bare](https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd) | [Streets of Baltimore](https://open.spotify.com/album/1J9xIY7ACyckZlVhGB76kp) | 2:37 |
 | 87 | [The Cold Hard Facts of Life](https://open.spotify.com/track/2s2Owv5k5HaXCkvwV8AbsG) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA) | [The Cold Hard Facts of Life](https://open.spotify.com/album/1SOXR7PxeVSWUJuWLYi2Ie) | 3:12 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 90 | [Wings Of A Dove](https://open.spotify.com/track/2DD8OhehvkzSFeoRW0u7Gb) | [Ferlin Husky](https://open.spotify.com/artist/0szj7Sxtyluyjc2Arj0njB) | [Capitol Collectors Series](https://open.spotify.com/album/6HMxJGDVtEsqpeOJlJHNhH) | 2:19 |
 | 91 | [A Six Pack To Go](https://open.spotify.com/track/3hCOH1pgpQmaTWgR58OFS2) | [Hank Thompson](https://open.spotify.com/artist/42tDjhK9kdS7CCHxs8ysz0) | [Best Of The Best](https://open.spotify.com/album/6Xc0ABtnw2u9mtsdoNFIbQ) | 2:09 |
 | 92 | [One in a Row](https://open.spotify.com/track/2CDh0bBvP0ZAXiibPZvpPC) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [One Hell Of A Ride](https://open.spotify.com/album/4Jh0a4YXdXmIMaB0oIWyqv) | 2:32 |
-| 93 | [May the Bird of Paradise Fly up Your Nose](https://open.spotify.com/track/4KRLWRl1bFjnXhY5MgZWrM) | [Little Jimmy Dickens](https://open.spotify.com/artist/7nhi4qhomET7CUCXYhbAlM) | [May the Bird of Paradise Fly Up Your Nose](https://open.spotify.com/album/0bC3amgMq1cdEOdsTChqIR) | 2:31 |
-| 94 | [Am I Losing You](https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [Greatest Hits](https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ) | 2:19 |
+| 93 | [Am I Losing You](https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [Greatest Hits](https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ) | 2:19 |
+| 94 | [May the Bird of Paradise Fly up Your Nose](https://open.spotify.com/track/4KRLWRl1bFjnXhY5MgZWrM) | [Little Jimmy Dickens](https://open.spotify.com/artist/7nhi4qhomET7CUCXYhbAlM) | [May the Bird of Paradise Fly Up Your Nose](https://open.spotify.com/album/0bC3amgMq1cdEOdsTChqIR) | 2:31 |
 | 95 | [Make the World Go Away](https://open.spotify.com/track/7GafJyGdVj7ahXo96LwFM4) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [The Essential Eddy Arnold](https://open.spotify.com/album/1wNnWmnbzgp2KLoNGCAA15) | 2:37 |
 | 96 | [Don't You Ever Get Tired of Hurting Me](https://open.spotify.com/track/6QAJbtf8Qb69AKsp8soPmN) | [Ray Price](https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP) | [The Other Woman](https://open.spotify.com/album/04SpyksXWidqvdpTMc8UL4) | 2:48 |
 | 97 | [Saginaw, Michigan](https://open.spotify.com/track/0ulPILleWfE1NBzUWIiNi9) | [Lefty Frizzell](https://open.spotify.com/artist/05pAwLhsutiuj6gerEwGvU) | [Saginaw, Michigan](https://open.spotify.com/album/2ldbI4zj8GXoN8rJL5V6bX) | 3:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 99 | [Girl On The Billboard](https://open.spotify.com/track/1wUNtUnrz17hU0R743Kqk4) | [Del Reeves](https://open.spotify.com/artist/2rTgolMbO5tyXZvD26bO8e) | [Son Of The South](https://open.spotify.com/album/2pIrOaistT1kxYfqUdlLd8) | 2:37 |
 | 100 | [\(Margie's At\) The Lincoln Park Inn](https://open.spotify.com/track/0srp0yXqH0Axym0z7wLUQy) | [Bobby Bare](https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd) | [\(Margie's At\) The Lincoln Park Inn](https://open.spotify.com/album/2sIBp3FcO6tNjcgFVIxaFM) | 3:18 |
 
-Snapshot ID: `MTY1OTA2NzMyMCwwMDAwMDAwMDc2OWY4NjU5OTg2ZTU3NzZjODQ3YTBiMjg3MTllNjlj`
+Snapshot ID: `MTY1OTA2NzMyMCwwMDAwMDAwMDllYWM1ZTM0YWRiZDEwMGE3MjkyOWNlZjIwYmUzMzI5`

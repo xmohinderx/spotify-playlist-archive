@@ -2,7 +2,7 @@
 
 ### [Breakout Country](https://open.spotify.com/playlist/37i9dQZF1DWW7RgkOJG32Y)
 
-> Top trending new and recent tracks from the last few months\. Cover: Muscadine Bloodline
+> Top trending new and recent tracks from the last few months\. Cover: Lauren Alaina & Chris Lane
 
 215 songs - 11 hr 24 min - [published](https://open.spotify.com/playlist/3oudbJWMXta4beE8xnLWw8)
 

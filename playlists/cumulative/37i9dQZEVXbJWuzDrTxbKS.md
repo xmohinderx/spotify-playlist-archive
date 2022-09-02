@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Latvia.
 
-1,000 songs - 2 day 6 hr 8 min - [published](https://open.spotify.com/playlist/1Sy32iFBBMqMOiw8A7cPe3)
+1,002 songs - 2 day 6 hr 15 min - [published](https://open.spotify.com/playlist/1Sy32iFBBMqMOiw8A7cPe3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,7 +334,7 @@
 | [Hope](https://open.spotify.com/track/6sSq38pmQxG0YuvbipDoEi) | [STEFAN](https://open.spotify.com/artist/4PLGCdwxxGsxNXX7G7Spug) | [Hope](https://open.spotify.com/album/0aunt675a1C2mknBYoAlpK) | 3:03 | 2022-05-16 | 2022-05-18 |
 | [HOT DEMON B!TCHES NEAR U ! ! !](https://open.spotify.com/track/7v4pPS4A7NgY7bxFA3Etv3) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [HOT DEMON B!TCHES NEAR U ! ! !](https://open.spotify.com/album/5kcBHP5GH7fsOJLwVfXmx3) | 1:36 | 2021-09-05 | 2021-09-19 |
 | [HOT WIND BLOWS \(feat\. Lil Wayne\)](https://open.spotify.com/track/3JJL91ilRV6fXhKqu0FGXs) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 2:35 | 2021-06-27 | 2021-07-01 |
-| [House of Memories](https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:28 | 2022-04-25 |  |
+| [House of Memories](https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:28 | 2022-04-25 | 2022-09-02 |
 | [How Do I Make You Love Me?](https://open.spotify.com/track/2Ghp894n1laIf2w98VeAOJ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-01-08 | 2022-01-14 |
 | [HUBLOT](https://open.spotify.com/track/6qbIECewSOpuBhWaU98Sp8) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [MILLION DOLLAR: BUSINESS](https://open.spotify.com/album/04KjJSDImRLbElsI39hPLY) | 2:03 | 2021-05-30 | 2021-06-02 |
 | [Hurricane](https://open.spotify.com/track/0RbW8kWozrVSIGb4V13o0o) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:03 | 2021-08-31 | 2021-10-06 |
@@ -762,7 +762,9 @@
 | [Strēlniece](https://open.spotify.com/track/6pxXe8LKysTWAlujZg74sp) | [Republic](https://open.spotify.com/artist/6xvRGt9hCJL4yVxXcrDW49) | [Strēlniece](https://open.spotify.com/album/18x5DaFXHdHwLZf3EvzISH) | 4:37 | 2021-06-25 | 2021-06-27 |
 | [SugarCrash!](https://open.spotify.com/track/2ePtv8MlBO9nuuXABqAfEX) | [ElyOtto](https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW) | [SugarCrash!](https://open.spotify.com/album/064pDjy5L2sQn0XLJj2wWx) | 1:20 | 2021-03-27\* | 2021-04-08 |
 | [Summer of Love \(Shawn Mendes & Tainy\)](https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Summer Of Love](https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk) | 3:04 | 2021-08-25 | 2021-08-29 |
+| [Summertime Sadness](https://open.spotify.com/track/1FEiijYPJtyswChfcpv3p0) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \(Deluxe Version\)](https://open.spotify.com/album/2GGstjn2lepcltXd21I24t) | 4:24 | 2022-09-01 |  |
 | [Sundress](https://open.spotify.com/track/2aPTvyE09vUCRwVvj0I8WK) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Sundress](https://open.spotify.com/album/3AlyvIIMZyT5LjWFeK5LSl) | 2:38 | 2022-07-15 | 2022-08-26 |
+| [Sunroof](https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5) | 2:43 | 2022-09-01 |  |
 | [Super Freaky Girl](https://open.spotify.com/track/2yjlYDiNiQkdxVqTlaSrlX) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Queen Radio: Volume 1](https://open.spotify.com/album/1ia27ME4iQkoIyUHBnJqX6) | 2:50 | 2022-08-27 |  |
 | [Super Freaky Girl](https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Super Freaky Girl](https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ) | 2:50 | 2022-08-15 | 2022-08-28 |
 | [Superman](https://open.spotify.com/track/4woTEX1wYOTGDqNXuavlRC) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Dina Rae](https://open.spotify.com/artist/5jNmxPYz8QE5rYp4GDil8t) | [The Eminem Show](https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo) | 5:50 | 2022-07-26 | 2022-07-29 |
@@ -806,7 +808,7 @@
 | [The Wrong Place](https://open.spotify.com/track/6riWD7fUly0edv1gUZaguM) | [Hooverphonic](https://open.spotify.com/artist/5EP020iZcwBqHRnJftibXX) | [Hidden Stories](https://open.spotify.com/album/0hLdIt0UanXnwLrRJPgjIa) | 2:56 | 2021-05-25 | 2021-05-27 |
 | [Therefore I Am](https://open.spotify.com/track/20R4HfKloPKgXDqU7UKk3x) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 2:53 | 2021-08-01 | 2021-08-06 |
 | [Therefore I Am](https://open.spotify.com/track/54bFM56PmE4YLRnqpW6Tha) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Therefore I Am](https://open.spotify.com/album/5G58VVE9ub1KE01Mvbd8XM) | 2:54 | 2021-03-27\* | 2021-04-11 |
-| [There’d Better Be A Mirrorball](https://open.spotify.com/track/0yowbJnnbTLpr99f9l1uba) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [There’d Better Be A Mirrorball](https://open.spotify.com/album/0ZUmodAwUq8cQJFvyibKwT) | 4:25 | 2022-08-31 |  |
+| [There’d Better Be A Mirrorball](https://open.spotify.com/track/0yowbJnnbTLpr99f9l1uba) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [There’d Better Be A Mirrorball](https://open.spotify.com/album/0ZUmodAwUq8cQJFvyibKwT) | 4:25 | 2022-08-31 | 2022-09-02 |
 | [Thinking with My Dick \(feat\. Juicy J\)](https://open.spotify.com/track/1ojBtNRMzjL7ptLPZCzfRz) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Stranger Than Fiction](https://open.spotify.com/album/21mA8C6F0OS2MVUaDEMnia) | 2:45 | 2022-03-15 | 2022-03-21 |
 | [Thousand Miles](https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Thousand Miles](https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf) | 2:44 | 2022-04-23 | 2022-04-30 |
 | [Thunder](https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:07 | 2022-06-01 | 2022-06-14 |

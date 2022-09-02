@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 
 > indie pop for when ur crushing so hard it hurts
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,599 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,790 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 | 21 | [bitches broken hearts](https://open.spotify.com/track/5t3Vk8bRKylx4fjj7qlbib) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [bitches broken hearts](https://open.spotify.com/album/1Z0XtKcevvITZ5ydimkYcx) | 2:56 |
 | 22 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 |
 | 23 | [Mariposa](https://open.spotify.com/track/4ja2gzrNh9VNigzoXfmbwD) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Mariposa](https://open.spotify.com/album/0vpGo2ef7QNOKQHtd7qZeh) | 3:30 |
-| 24 | [From the Dining Table](https://open.spotify.com/track/1IF5UcqRO42D12vYwceOY6) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 3:31 |
-| 25 | [Liability](https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 2:51 |
+| 24 | [Liability](https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 2:51 |
+| 25 | [From the Dining Table](https://open.spotify.com/track/1IF5UcqRO42D12vYwceOY6) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 3:31 |
 | 26 | [Sports](https://open.spotify.com/track/77G0k1La0c5Dw8bAFANcyp) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Sports](https://open.spotify.com/album/4AJbHyDx1Fu8mYxlcj6K8F) | 2:44 |
 | 27 | [Please Notice](https://open.spotify.com/track/36seMHoyXmLUNxcwzwjdF7) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Hope](https://open.spotify.com/album/58g2PHmbpBfwmBU2SICdxc) | 1:56 |
 | 28 | [Drew Barrymore](https://open.spotify.com/track/06u5LrUpbosQlQ1QJFhPpG) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 3:51 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 | 36 | [Summertime In Paris](https://open.spotify.com/track/6XNANAB7sFvkfho6bMCp7o) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ERYS \(Deluxe\)](https://open.spotify.com/album/6cKBoHXh7dKn2gVsGniZ58) | 4:30 |
 | 37 | [Peach](https://open.spotify.com/track/5JRMqkR82k2fdDEAim9SCN) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [ARIZONA BABY](https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO) | 2:56 |
 | 38 | [Hey Lover!](https://open.spotify.com/track/7rC3P7tpWriaC4hYWKwGQd) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Cyclones and Hey Lover](https://open.spotify.com/album/076hhK2bCjHhQJqWY7wRh0) | 2:42 |
-| 39 | [Pleaser](https://open.spotify.com/track/11zf7m4vw9Ze7cer9Nyhk1) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Pleaser](https://open.spotify.com/album/3XwLvPyeeyTjFKeBdtC978) | 3:07 |
-| 40 | [help herself](https://open.spotify.com/track/4YMc3A256xFBS0xcT77Qce) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5) | [help herself](https://open.spotify.com/album/1LeB4us5kQb6xoSXM1kws8) | 3:08 |
+| 39 | [help herself](https://open.spotify.com/track/4YMc3A256xFBS0xcT77Qce) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5) | [help herself](https://open.spotify.com/album/1LeB4us5kQb6xoSXM1kws8) | 3:08 |
+| 40 | [Pleaser](https://open.spotify.com/track/11zf7m4vw9Ze7cer9Nyhk1) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Pleaser](https://open.spotify.com/album/3XwLvPyeeyTjFKeBdtC978) | 3:07 |
 | 41 | [Fool](https://open.spotify.com/track/5Yx9t9RgATAtYoHN8gbRM0) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Next Thing](https://open.spotify.com/album/0vhRTvVCv9O5orRMgFjxT1) | 2:04 |
 | 42 | [drunk text me](https://open.spotify.com/track/5gukv8x9eP58gFy2OcZEBQ) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [closer to closure](https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1) | 3:33 |
 | 43 | [Comfort Crowd](https://open.spotify.com/track/6uaBrivDHCaV0uBTiwHTUi) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 2:54 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 | 69 | [sorry haha i fell asleep](https://open.spotify.com/track/4EzVsSkEdO7JJRe80MxtQk) | [Egg](https://open.spotify.com/artist/6zQlhM6cyJRrzuqAbB8PlB) | [sorry haha i fell asleep](https://open.spotify.com/album/10BhgUIfF4zFcLwqHhioL6) | 2:37 |
 | 70 | [Stella Brown](https://open.spotify.com/track/4gwltSjdrzKtKz9dlk2Wja) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Stella Brown](https://open.spotify.com/album/5eCpoxWpC7zBCXLDbVyIzc) | 3:07 |
 
-Snapshot ID: `MTY2MDIzNzE0MCwwMDAwMDAwMDM0MDlkNDNhMWI5ZGI5YTk0OTc0MzEyOTFhYzBkMzNk`
+Snapshot ID: `MTY2MDIzNzE0MCwwMDAwMDAwMDRlMjU2NjJmMmZlYWFhNDA5NjFjODY2MTRlYTdiMThk`

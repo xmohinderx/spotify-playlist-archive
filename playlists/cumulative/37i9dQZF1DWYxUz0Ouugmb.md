@@ -2,9 +2,9 @@
 
 ### [RADAR Indonesia](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: raissa anggiani
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Jinan Laetitia
 
-108 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/37dv0S75HQ2Wer6Z25cDjS)
+110 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/37dv0S75HQ2Wer6Z25cDjS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Kisah Kasih Di Sekolah](https://open.spotify.com/track/7BrOAEtCjD5cHXLLykPCqV) | [Reybong](https://open.spotify.com/artist/6kthu3bnrZuU7G1VLmRWF5) | [Kisah Kasih Di Sekolah](https://open.spotify.com/album/0uT4pw1USlXFDKeWyFfxLC) | 4:03 | 2022-06-16 |  |
 | [Korban Janji](https://open.spotify.com/track/5AZ41aRMKszALdu5qm4sju) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Korban Janji](https://open.spotify.com/album/3xgzFV9CWB4WqufuiN6HBX) | 4:15 | 2021-11-25 | 2022-03-25 |
 | [Lagi Lagi](https://open.spotify.com/track/2kN0Lv2Bk0n1KuP9drjWxf) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Lagi Lagi](https://open.spotify.com/album/1nj3yCHh1mXPJMTjrQ6ikN) | 4:01 | 2022-08-18 |  |
+| [Leave](https://open.spotify.com/track/0EoKAD9I7OOOohRmmVvtIT) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [One](https://open.spotify.com/album/13P9zBl1EtCVYBrMbiPqXJ) | 3:07 | 2022-09-01 |  |
 | [Lebih Dari Egoku](https://open.spotify.com/track/4vh193RZbEEBanSG0719Wh) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Lebih Dari Egoku](https://open.spotify.com/album/3Q11b83KaQfF6KjjKMiRYu) | 4:09 | 2021-11-25 | 2022-03-25 |
 | [Losing Us.](https://open.spotify.com/track/1O2pZvuJQrSY9gBLIbZCYG) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Losing Us.](https://open.spotify.com/album/16xmYlPdc3CAWwKDihpOzC) | 3:56 | 2022-03-24 | 2022-07-29 |
 | [Losing Us.](https://open.spotify.com/track/6embPWj9qvusLg9JpbAmCQ) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Losing Us.](https://open.spotify.com/album/5rcVsRWjcqRgK91jsNCVWo) | 3:56 | 2022-07-28 |  |
@@ -104,8 +105,9 @@
 | [The Stupid Song](https://open.spotify.com/track/4lfLg684A5uRL9gfNxQ1xx) | [Abraham Edo](https://open.spotify.com/artist/62iByAWLMcsNrR9aGr9gwB), [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [The Stupid Song](https://open.spotify.com/album/5vqqd9xADRv7Sq5ewjv5nx) | 2:45 | 2022-01-27 | 2022-03-25 |
 | [This Love Will Never End](https://open.spotify.com/track/2TqXDSUrc8zgMMI8KOHjCK) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [It's Never Easy](https://open.spotify.com/album/6GC6ht6osWTttTsnFXNc8L) | 3:45 | 2021-11-25 | 2022-03-25 |
 | [Timeless](https://open.spotify.com/track/01DZmwlwEM41LThtOOapZM) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth), [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [The More](https://open.spotify.com/album/2LjnDM6eo9JKIJ7E9rn6Np) | 3:50 | 2022-03-24 |  |
+| [Timeless](https://open.spotify.com/track/64mtE2D4LtP9AaKbF5CGJT) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth), [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [One](https://open.spotify.com/album/13P9zBl1EtCVYBrMbiPqXJ) | 3:50 | 2022-09-01 |  |
 | [Topeng](https://open.spotify.com/track/2iHfsyJp0tRdGH3xgSRtSz) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3), [Ajil Ditto](https://open.spotify.com/artist/2vtCmMvb2FdI8GbBkgGDE1), [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l), [Teuku Ryzki](https://open.spotify.com/artist/5sO5QK8taSVb6DPtAD0Xw0) | [Topeng](https://open.spotify.com/album/67m8hYyCtFwU9CaPVpyGAE) | 3:04 | 2022-06-30 |  |
-| [Unromantic](https://open.spotify.com/track/69yeuDVp8H8pQiJ69jO7gn) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [One](https://open.spotify.com/album/13P9zBl1EtCVYBrMbiPqXJ) | 2:21 | 2022-06-09 |  |
+| [Unromantic](https://open.spotify.com/track/69yeuDVp8H8pQiJ69jO7gn) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [One](https://open.spotify.com/album/13P9zBl1EtCVYBrMbiPqXJ) | 2:21 | 2022-06-09 | 2022-09-02 |
 | [UWU \(Unhappy Without You\)](https://open.spotify.com/track/7epyzR1KrrHDOUeieXyxka) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC) | [UWU \(Unhappy Without You\)](https://open.spotify.com/album/18TVJDxgsRqJlHU62hnJoJ) | 3:25 | 2021-11-25 | 2022-03-25 |
 | [Vanilla](https://open.spotify.com/track/1JVS1j91lyFfLltcWerYSh) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [One](https://open.spotify.com/album/13P9zBl1EtCVYBrMbiPqXJ) | 2:37 | 2022-06-09 |  |
 | [W \(with yvngxchris\)](https://open.spotify.com/track/4pFkivUXTiGcEQS4dfcVc6) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g), [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [W \(with yvngxchris\)](https://open.spotify.com/album/6wWt12ueB7BwQJS0OcuoHZ) | 2:31 | 2022-03-24 |  |

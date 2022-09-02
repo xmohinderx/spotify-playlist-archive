@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2F8x5aFp3aj.md) - [plain]
 
 > Revive aquellos tiempos de new wave, post\-punk y sentimientos decadentes\. Foto: The Cure
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,943 likes - 75 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,055 likes - 75 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,16 +20,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2F8x5aFp3aj.md) - [plain]
 | 10 | [Don't You Want Me](https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 3:56 |
 | 11 | [Don't You \(Forget About Me\)](https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Once Upon A Time \(Super Deluxe\)](https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm) | 4:23 |
 | 12 | [Jack & Diane](https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [American Fool](https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0) | 4:14 |
-| 13 | [Poison](https://open.spotify.com/track/5XcZRgJv3zMhTqCyESjQrF) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Trash](https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU) | 4:30 |
-| 14 | [Tom Sawyer](https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Moving Pictures \(2011 Remaster\)](https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY) | 4:36 |
+| 13 | [Tom Sawyer](https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Moving Pictures \(2011 Remaster\)](https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY) | 4:36 |
+| 14 | [Poison](https://open.spotify.com/track/5XcZRgJv3zMhTqCyESjQrF) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Trash](https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU) | 4:30 |
 | 15 | [The Logical Song \- Remastered 2010](https://open.spotify.com/track/6mHOcVtsHLMuesJkswc0GZ) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Breakfast In America \(Deluxe Edition\)](https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna) | 4:11 |
 | 16 | [Forever Young](https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo) | [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX) | [Forever Young](https://open.spotify.com/album/2256qKBSQdt53T5dz4Kdcs) | 3:46 |
 | 17 | [Rock the Casbah \- Remastered](https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:42 |
 | 18 | [Beds Are Burning \- Remastered](https://open.spotify.com/track/1CtAzw53AIXKjAemxy4b1j) | [Midnight Oil](https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk) | [Diesel And Dust](https://open.spotify.com/album/243XzHQegX82bPnUVQ0SPV) | 4:15 |
 | 19 | [Down Under](https://open.spotify.com/track/46RVKt5Edm1zl0rXhPJZxz) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [The Best Of Men At Work: Contraband](https://open.spotify.com/album/6GYIy1SuhPDrugCZ5yNeQy) | 3:40 |
 | 20 | [Blue Monday](https://open.spotify.com/track/6hHc7Pks7wtBIW8Z6A0iFq) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Substance](https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl) | 7:29 |
-| 21 | [Just What I Needed](https://open.spotify.com/track/4alHo6RGd0D3OUbTPExTHN) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [The Cars](https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq) | 3:45 |
-| 22 | [How Soon Is Now? \- 2011 Remaster](https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Hatful of Hollow](https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv) | 6:48 |
+| 21 | [How Soon Is Now? \- 2011 Remaster](https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Hatful of Hollow](https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv) | 6:48 |
+| 22 | [Just What I Needed](https://open.spotify.com/track/4alHo6RGd0D3OUbTPExTHN) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [The Cars](https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq) | 3:45 |
 | 23 | [I'll Stand by You](https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Last of the Independents](https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf) | 4:00 |
 | 24 | [Owner of a Lonely Heart](https://open.spotify.com/track/0GTK6TesV108Jj5D3MHsYb) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [90125 \(Deluxe Version\)](https://open.spotify.com/album/6nNlTIiFd3J06W0rJiiwlz) | 4:28 |
 | 25 | [She Sells Sanctuary](https://open.spotify.com/track/3qLZ866ZfaK0B0R5FIqXLG) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Love](https://open.spotify.com/album/2hallpchkYldMa5lGGf1Ko) | 4:12 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2F8x5aFp3aj.md) - [plain]
 | 52 | [Under the Milky Way](https://open.spotify.com/track/1RCtHLyq1xIbgGMrYRrKJ2) | [The Church](https://open.spotify.com/artist/2ZfogSsOWP4mVfEqfpLXCt) | [Starfish](https://open.spotify.com/album/3gz1CZk5wFg2inBuUWDa8x) | 4:57 |
 | 53 | [Invisible Touch \- 2007 Remaster](https://open.spotify.com/track/0xpBr84T3FTm9j4D1MdPtk) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Invisible Touch](https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG) | 3:28 |
 | 54 | [Making Plans For Nigel](https://open.spotify.com/track/1XT5kxg6Tk0ukCO2vBQN4v) | [XTC](https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz) | [Drums And Wires](https://open.spotify.com/album/4S6y2iTYbGONSlNJHYyrVl) | 4:13 |
-| 55 | [Just Like Honey](https://open.spotify.com/track/1LwP9g1Hjbs64jXM2Qsxry) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Psychocandy \(Expanded Version\)](https://open.spotify.com/album/2t1hVEwp82QebO7lq21Vto) | 3:02 |
-| 56 | [Close to Me \- 2006 Remaster](https://open.spotify.com/track/7ABE6G4uQxbNtYgVrpBBPA) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head on the Door](https://open.spotify.com/album/6HhpmJekzDCRu2K64ZbWqw) | 3:23 |
+| 55 | [Close to Me \- 2006 Remaster](https://open.spotify.com/track/7ABE6G4uQxbNtYgVrpBBPA) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head on the Door](https://open.spotify.com/album/6HhpmJekzDCRu2K64ZbWqw) | 3:23 |
+| 56 | [Just Like Honey](https://open.spotify.com/track/1LwP9g1Hjbs64jXM2Qsxry) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Psychocandy \(Expanded Version\)](https://open.spotify.com/album/2t1hVEwp82QebO7lq21Vto) | 3:02 |
 | 57 | [King Of Pain](https://open.spotify.com/track/1V15l05snHYHYVxerjMFGo) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:59 |
 | 58 | [Only Time Will Tell](https://open.spotify.com/track/49NDegc7RQyvq6mhAs06p6) | [Asia](https://open.spotify.com/artist/1bdytLV3FPjyhfrb6BhMej) | [Asia](https://open.spotify.com/album/5TkfP3cqWgeBvCugPeiGNl) | 4:44 |
 | 59 | [The Killing Moon](https://open.spotify.com/track/15049rGLXHwrWtE4euUb5C) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Songs to Learn & Sing](https://open.spotify.com/album/0VYyqjM5H2sXj6z8ocAyjb) | 5:46 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2F8x5aFp3aj.md) - [plain]
 | 62 | [Where Eagles Dare](https://open.spotify.com/track/5LgiqEgpK54OfXC6947wbU) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey), [Glenn Danzig](https://open.spotify.com/artist/71OjDxLFjWGQFpzU1VpN5d) | [Collection](https://open.spotify.com/album/4pEcCqGx1RFaXWJD0mrG10) | 2:08 |
 | 63 | [New Sensation](https://open.spotify.com/track/2bxY1baYlyXNzmjOkFvqId) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Kick](https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX) | 3:39 |
 | 64 | [Alive And Kicking](https://open.spotify.com/track/471SXWs7Ko4d2rkKOk7oPF) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Once Upon A Time \(Super Deluxe\)](https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm) | 5:26 |
-| 65 | [I've Been In Love Before](https://open.spotify.com/track/7yQNqjXp9BAGAppPGkTbYf) | [Cutting Crew](https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i) | [Broadcast](https://open.spotify.com/album/3wCe8HjHk6QNGcf5D3jgW1) | 5:08 |
-| 66 | [Voices Carry](https://open.spotify.com/track/0ZYf6N5eBeXStMri0mf3DZ) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Voices Carry \(Expanded Edition\)](https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp) | 4:23 |
+| 65 | [Voices Carry](https://open.spotify.com/track/0ZYf6N5eBeXStMri0mf3DZ) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Voices Carry \(Expanded Edition\)](https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp) | 4:23 |
+| 66 | [I've Been In Love Before](https://open.spotify.com/track/7yQNqjXp9BAGAppPGkTbYf) | [Cutting Crew](https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i) | [Broadcast](https://open.spotify.com/album/3wCe8HjHk6QNGcf5D3jgW1) | 5:08 |
 | 67 | [Big in Japan \- Best Of](https://open.spotify.com/track/3F8aTQzmKovktFcR7MCGFW) | [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX) | [First Harvest 1984\-1992](https://open.spotify.com/album/0d60Pri6GuV9E8jeJrSB33) | 3:55 |
 | 68 | [Dancing Barefoot](https://open.spotify.com/track/4kPSjEg8u1U4pg2dHHMmtf) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Wave](https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE) | 4:16 |
 | 69 | [I Ran \(So Far Away\)](https://open.spotify.com/track/173PnvZh4grHTf31DPXDbJ) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [80s 100 Hits](https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF) | 3:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2F8x5aFp3aj.md) - [plain]
 | 74 | [Synchronicity II](https://open.spotify.com/track/5ynO8cYFjDwELIZfFHHeYe) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 5:00 |
 | 75 | [Dear Prudence](https://open.spotify.com/track/34tFidHrETMAjsiK87WVVW) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Hyaena \(Remastered And Expanded\)](https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr) | 3:48 |
 
-Snapshot ID: `MTY1NjY0MzU1MiwwMDAwMDAwMGM2YWUwYWRkMDkwYjA4YzRlMzNmNzIwZDUzZWJjNWFl`
+Snapshot ID: `MTY1NjY0MzU1MiwwMDAwMDAwMDBlNzIzZDIwZGI2OGYxYzBjNmM4N2IwMzYzNDRkMmRj`

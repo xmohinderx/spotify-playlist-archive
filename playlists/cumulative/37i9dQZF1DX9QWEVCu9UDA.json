@@ -1833,6 +1833,24 @@
     {
       "album": {
         "name": "KEEP ME ON",
+        "url": "https://open.spotify.com/album/34MmE5vPRhNhYEW4A08JR6"
+      },
+      "artists": [
+        {
+          "name": "Noah Guy",
+          "url": "https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168311,
+      "name": "KEEP ME ON",
+      "url": "https://open.spotify.com/track/1WVvkjv1sjIMjfQiJ0SEWX"
+    },
+    {
+      "album": {
+        "name": "KEEP ME ON",
         "url": "https://open.spotify.com/album/6Q7MkvGia7LzBf5KEHW2XP"
       },
       "artists": [
@@ -4021,7 +4039,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 123270,
       "name": "Young Sylvan Back",
       "url": "https://open.spotify.com/track/5efVqaEXb0izCck7z9OLNc"

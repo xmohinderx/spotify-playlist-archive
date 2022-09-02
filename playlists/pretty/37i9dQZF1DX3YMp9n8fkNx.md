@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YMp9n8fkNx.md) - [plain]
 
 > The essential pop rock songs from the 1990s\. Cover: Third Eye Blind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,174,065 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,174,305 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YMp9n8fkNx.md) - [plain]
 | 16 | [Closing Time](https://open.spotify.com/track/1A5V1sxyCLpKJezp75tUXn) | [Semisonic](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) | [20th Century Masters: The Millennium Collection: Best Of Semisonic](https://open.spotify.com/album/4JDBx5wQ82jb8PjLYPBP8L) | 4:34 |
 | 17 | [Semi\-Charmed Life](https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl) | [Third Eye Blind](https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS) | [Third Eye Blind](https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ) | 4:28 |
 | 18 | [You Get What You Give](https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF) | [New Radicals](https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd) | [Maybe You've Been Brainwashed Too](https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR) | 5:00 |
-| 19 | [Iris](https://open.spotify.com/track/6vrUTGn5p8IrfTZ0J6sIVM) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Greatest Hits Volume One \- The Singles](https://open.spotify.com/album/0UccZZgelTAbbk3OSPZymO) | 4:49 |
-| 20 | [Teenage Dirtbag](https://open.spotify.com/track/3LI4MmibTkXH5cGpCGZgyw) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Songs From Dawson's Creek, Vol\. II](https://open.spotify.com/album/187HV0h26fG3mkRsySp5Lj) | 4:01 |
+| 19 | [Teenage Dirtbag](https://open.spotify.com/track/3LI4MmibTkXH5cGpCGZgyw) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Songs From Dawson's Creek, Vol\. II](https://open.spotify.com/album/187HV0h26fG3mkRsySp5Lj) | 4:01 |
+| 20 | [Iris](https://open.spotify.com/track/6vrUTGn5p8IrfTZ0J6sIVM) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Greatest Hits Volume One \- The Singles](https://open.spotify.com/album/0UccZZgelTAbbk3OSPZymO) | 4:49 |
 | 21 | [High and Dry](https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) | 4:17 |
 | 22 | [What I Got](https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 2:50 |
 | 23 | [Shiny Happy People](https://open.spotify.com/track/1v2zyAJrChw5JnfafSkwkJ) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(25th Anniversary Edition\)](https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK) | 3:45 |
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YMp9n8fkNx.md) - [plain]
 | 60 | [Flagpole Sitta](https://open.spotify.com/track/7cz70nyRXlCJOE85whEkgU) | [Harvey Danger](https://open.spotify.com/artist/7fu6ebyL3JGXJgo5zsOo4k) | [Where Have All The Merrymakers Gone?](https://open.spotify.com/album/554gpRastI7dbOcir9eAkL) | 3:37 |
 | 61 | [Fly](https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [Floored](https://open.spotify.com/album/3jMUfZpBUTZOl91khbj4ic) | 4:04 |
 | 62 | [Wild World \- 2009 Remastered Version](https://open.spotify.com/track/2kj5f1eRhUFhW6K0qUwoD8) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Bump Ahead \[Expanded\]](https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA) | 3:28 |
-| 63 | [The Way](https://open.spotify.com/track/7IsEXPk6qqt30FfQv4SZMa) | [Fastball](https://open.spotify.com/artist/7FtVJzRtpQpU61nBwB7cKN) | [All The Pain Money Can Buy](https://open.spotify.com/album/2KVpGKVIzcK9bB13MXJGEb) | 4:17 |
-| 64 | [Girl, You'll Be a Woman Soon](https://open.spotify.com/track/1mSzuXVjjKC0bPh6iG6xjy) | [Urge Overkill](https://open.spotify.com/artist/5LEUigTSXpwrtERRcSW1N4) | [Stull](https://open.spotify.com/album/07gzuMURkIJ7Iatsz3Uqw0) | 3:09 |
-| 65 | [In the Meantime](https://open.spotify.com/track/02lTDOxHeXTHsdwXoz6lpC) | [Spacehog](https://open.spotify.com/artist/3NZE8jDD2cCzd4vUyZ5CQQ) | [In The Meantime](https://open.spotify.com/album/6vOmA5zWeFeKvuRBxaO59A) | 4:59 |
+| 63 | [In the Meantime](https://open.spotify.com/track/02lTDOxHeXTHsdwXoz6lpC) | [Spacehog](https://open.spotify.com/artist/3NZE8jDD2cCzd4vUyZ5CQQ) | [In The Meantime](https://open.spotify.com/album/6vOmA5zWeFeKvuRBxaO59A) | 4:59 |
+| 64 | [The Way](https://open.spotify.com/track/7IsEXPk6qqt30FfQv4SZMa) | [Fastball](https://open.spotify.com/artist/7FtVJzRtpQpU61nBwB7cKN) | [All The Pain Money Can Buy](https://open.spotify.com/album/2KVpGKVIzcK9bB13MXJGEb) | 4:17 |
+| 65 | [Girl, You'll Be a Woman Soon](https://open.spotify.com/track/1mSzuXVjjKC0bPh6iG6xjy) | [Urge Overkill](https://open.spotify.com/artist/5LEUigTSXpwrtERRcSW1N4) | [Stull](https://open.spotify.com/album/07gzuMURkIJ7Iatsz3Uqw0) | 3:09 |
 | 66 | [Everything You Want](https://open.spotify.com/track/4cKGldbhGJniI8BrB3K6tb) | [Vertical Horizon](https://open.spotify.com/artist/6Hizgjo92FnMp8wGaRUNTn) | [Everything You Want](https://open.spotify.com/album/2gJ6axVHAsQmmO6nslQRN1) | 4:17 |
 | 67 | [Lovefool \- Radio Edit](https://open.spotify.com/track/0u4htORODiTK9vHVA89MQX) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon](https://open.spotify.com/album/0YI7QPNUGq8NTB6Nd8nWfd) | 3:13 |
-| 68 | [Steal My Sunshine](https://open.spotify.com/track/4agp6oHofabdUedr0B1krj) | [LEN](https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ) | [You Can't Stop The Bum Rush](https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k) | 4:25 |
-| 69 | [Life Is A Highway](https://open.spotify.com/track/0hKF8N8aflF1uDzEEnPr2j) | [Tom Cochrane](https://open.spotify.com/artist/5Jj4mqGYiplyowPLKkJLHt) | [Mad Mad World](https://open.spotify.com/album/5mJYFwj51OpBqRSxZCBLTT) | 4:26 |
+| 68 | [Life Is A Highway](https://open.spotify.com/track/0hKF8N8aflF1uDzEEnPr2j) | [Tom Cochrane](https://open.spotify.com/artist/5Jj4mqGYiplyowPLKkJLHt) | [Mad Mad World](https://open.spotify.com/album/5mJYFwj51OpBqRSxZCBLTT) | 4:26 |
+| 69 | [Steal My Sunshine](https://open.spotify.com/track/4agp6oHofabdUedr0B1krj) | [LEN](https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ) | [You Can't Stop The Bum Rush](https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k) | 4:25 |
 | 70 | [Good](https://open.spotify.com/track/0ttHpMs250dpFkCYAnuhnE) | [Better Than Ezra](https://open.spotify.com/artist/4UuoJfJ9UybJft7a8E6UHX) | [Deluxe](https://open.spotify.com/album/0c8yj78CBgDsEvq9pzudIS) | 3:05 |
 | 71 | [The Freshmen](https://open.spotify.com/track/21jEuMn2lf37715rwjow2M) | [The Verve Pipe](https://open.spotify.com/artist/242iqFnwNhlidVBMI9GYKp) | [Villains](https://open.spotify.com/album/3sV3CL42DZ8C11MuQwVUEi) | 4:29 |
 | 72 | [Parklife \- 2012 Remaster](https://open.spotify.com/track/7FSzJQV6thyoQptFCUTV9c) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Parklife \(Special Edition\)](https://open.spotify.com/album/0DBkFC6739trhCoVreZyds) | 3:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YMp9n8fkNx.md) - [plain]
 | 99 | [Shimmer](https://open.spotify.com/track/6DzbmjkVZpz1mrDobAoJI8) | [Fuel](https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp) | [The Best of Fuel](https://open.spotify.com/album/5CmgNXCwdGuqn6EPzfb4Tq) | 3:34 |
 | 100 | [Beautiful Girl](https://open.spotify.com/track/6N81xlWzMaEYhjHry55OSI) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Welcome to Wherever You Are](https://open.spotify.com/album/66ocxSzZ98wk1rWNfrvU8u) | 3:27 |
 
-Snapshot ID: `MTY1MzQyMjA1NiwwMDAwMDAwMDdhOTlmM2NjZTY1NWExMGJlNDg5YTUzNmM5MDlmZDNm`
+Snapshot ID: `MTY1MzQyMjA1NiwwMDAwMDAwMDA5MDkzNjdmMDRkY2RhZDkyYzI5MWNhYTcwNmNiYzNk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Elton John & Britney Spears
 
-[Spotify](https://open.spotify.com/user/spotify) - 842,798 likes - 40 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 842,838 likes - 40 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 2 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 |
 | 3 | [BEAUTIFUL \(feat\. Future & SZA\)](https://open.spotify.com/track/5kYSScXYOZYyi0fxramiW6) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 3:43 |
 | 4 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 |
-| 5 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi) | 2:21 |
+| 5 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/0GxWXE6ltKk4Gx3WyWLLrW) | 2:21 |
 | 6 | [Beat the Odds](https://open.spotify.com/track/2BJWxD8xKrDv8vneTvTIm9) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Beat the Odds](https://open.spotify.com/album/5jopeyeE3iVZ5zlEMadVcv) | 2:30 |
 | 7 | [CODE \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/5uVW9FWVaQde0lfF4hYs4C) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [CODE \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/42jB9RVqk28zOVbbKhSMX1) | 3:12 |
 | 8 | [I Remember](https://open.spotify.com/track/5e2ZOmiFEAOFEgXNj1mHEk) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [I Remember](https://open.spotify.com/album/2sb91FS5wPmcPf1GSgeAwF) | 2:48 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 39 | [god has a sense of humor](https://open.spotify.com/track/4kJVBJWaZn6yuKQortyVYY) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [god has a sense of humor](https://open.spotify.com/album/6qcqsKIO6zufYcE8lPldAv) | 2:50 |
 | 40 | [Cut Deep](https://open.spotify.com/track/2Y2nvGDYoKXihBx5KBIugX) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Never Had to Leave](https://open.spotify.com/album/2JBomcPj6tIDhtLBfP4MV7) | 2:56 |
 
-Snapshot ID: `MTY2MTgxMDM4OCwwMDAwMDAwMDBmODUyOTQ5ZWEwYjcwNmYzZTg3MWVmZDNkOWZkNjI4`
+Snapshot ID: `MTY2MTgxMDM4OCwwMDAwMDAwMDRmZmYxODk4NDIyOGJmNzEwZjIzNmE5MDQwZjc2NjQz`

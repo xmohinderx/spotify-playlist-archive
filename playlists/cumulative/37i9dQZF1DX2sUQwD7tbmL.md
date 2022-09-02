@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-464 songs - 1 day 2 hr 28 min - [published](https://open.spotify.com/playlist/34b8Kse0gQlLcdKWiNlqDt)
+465 songs - 1 day 2 hr 32 min - [published](https://open.spotify.com/playlist/34b8Kse0gQlLcdKWiNlqDt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Big Bang](https://open.spotify.com/track/6NP3tRIq8pj0AbEX4ioiSc) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Big Bang](https://open.spotify.com/album/3RJKjaiYUYLEi7fVtlQAOJ) | 2:49 | 2021-05-01 | 2022-04-14 |
 | [Big City Boys \- Generationals Remix](https://open.spotify.com/track/3YDZEi6jetqyeNZdsk8Y5R) | [BRONCHO](https://open.spotify.com/artist/6Lll1MPPak4m4vZKuJB264), [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Big City Boys \(Generationals Remix\)](https://open.spotify.com/album/4n548r94uoKnz0kJbq5lFo) | 3:14 | 2021-05-01 | 2022-04-14 |
 | [Big Fat Mouth](https://open.spotify.com/track/2H57VA9OzK2NLmweUfJTdq) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [Big Fat Mouth](https://open.spotify.com/album/5zV5ZxYZ42GF1wGO7RI587) | 3:36 | 2021-05-01 | 2022-07-29 |
+| [Bitter](https://open.spotify.com/track/2DkZisoN9h1dLa8Sn5sx0n) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [So Long Forever](https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y) | 3:53 | 2022-08-30 |  |
 | [Bitter](https://open.spotify.com/track/3McUZkVgVyzvYCdy4aIo3R) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [So Long Forever](https://open.spotify.com/album/0tXVOrcxt1yOgn7sypgwrm) | 3:53 | 2021-05-01 | 2022-07-29 |
 | [Black Sheep](https://open.spotify.com/track/72hSmnleYTiiOo23q8ZJIS) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Black Sheep](https://open.spotify.com/album/69BagWbfHgbO9uxjfVYcux) | 4:57 | 2022-04-13 |  |
 | [Blocked](https://open.spotify.com/track/6jOE4zzFlCUb0zFmxLzNH2) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Blocked](https://open.spotify.com/album/23MqUFP7C2H1cY1WWKVfBw) | 2:38 | 2021-05-01 | 2022-04-14 |
@@ -193,7 +194,7 @@
 | [Hey Michael](https://open.spotify.com/track/7sUTbNjYpJkUhICiLEoYdf) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4), [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Hey Michael](https://open.spotify.com/album/28hQxdmFZYjRLEqeM5hZK0) | 2:59 | 2021-05-01 | 2022-07-29 |
 | [HIDE](https://open.spotify.com/track/1ZK4x9YUytJSgdu2yC39z7) | [Marko](https://open.spotify.com/artist/1gBpdTK92fXFog9vxL9eL5) | [HIDE](https://open.spotify.com/album/1utKbZcRFkm5ANR84UQBvk) | 2:47 | 2022-04-13 | 2022-07-29 |
 | [HIDE \(MYSELF BEHIND YOU\)](https://open.spotify.com/track/0ylk0gZbTofpSVCsNe18BB) | [Ron Gallo](https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg) | [HIDE \(MYSELF BEHIND YOU\)](https://open.spotify.com/album/0dFesGsi1a0RRccrnYoi29) | 2:58 | 2021-05-01 | 2022-03-14 |
-| [Hold Me Down](https://open.spotify.com/track/2e62x0Mhv46Zx1ph0W4B3d) | [The Happy Fits](https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ) | [What Could Be Better](https://open.spotify.com/album/7FhH5nGululV6EAqwf6X0c) | 3:43 | 2021-05-01 |  |
+| [Hold Me Down](https://open.spotify.com/track/2e62x0Mhv46Zx1ph0W4B3d) | [The Happy Fits](https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ) | [What Could Be Better](https://open.spotify.com/album/7FhH5nGululV6EAqwf6X0c) | 3:43 | 2021-05-01 | 2022-09-02 |
 | [Holidays](https://open.spotify.com/track/6jPJ8mwfq9A1j33ugXIL6I) | [Michl](https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN) | [Holidays](https://open.spotify.com/album/45uEr0o0PLezR8klDixbyp) | 3:15 | 2021-05-01 | 2022-04-14 |
 | [Homage](https://open.spotify.com/track/7DcJ6fEBb7BaKuYKTwiDxK) | [Mild High Club](https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG) | [Skiptracing](https://open.spotify.com/album/6O9YDn12I4WQxUBQE9tpnN) | 2:57 | 2022-07-22 |  |
 | [Homage](https://open.spotify.com/track/7pegxVesMmE2qK0o58xoFG) | [Mild High Club](https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG) | [Skiptracing](https://open.spotify.com/album/1qMDN9zRQreK81cJ9G1hed) | 2:57 | 2021-05-01 | 2022-04-20 |
@@ -227,7 +228,7 @@
 | [Jealous](https://open.spotify.com/track/5s2zbxZI4Ym5LTKwjZHS2V) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Jealous](https://open.spotify.com/album/2HgcXoqKJbuPX2clDpwxA5) | 2:02 | 2022-04-13 | 2022-07-29 |
 | [Jessica WJ](https://open.spotify.com/track/5Wu3CBUUlPU2pZv8Y3E8DD) | [Cayucas](https://open.spotify.com/artist/7LLcRttKjV6PeJOlCNCYon) | [Jessica WJ](https://open.spotify.com/album/1Uv7tbO4AGwtdupFwmAPa0) | 3:17 | 2021-05-01 | 2022-04-13 |
 | [Johnny & Jonnie](https://open.spotify.com/track/682pVIYG5WT39UktvX1NwS) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [Johnny & Jonnie](https://open.spotify.com/album/4V1YvBEvyfcjTMwKCONv02) | 2:49 | 2021-05-01 | 2022-07-28 |
-| [Johnson Song](https://open.spotify.com/track/1g3hJAu22j2gINrSTSpwp0) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV) | 3:43 | 2022-06-17 |  |
+| [Johnson Song](https://open.spotify.com/track/1g3hJAu22j2gINrSTSpwp0) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV) | 3:43 | 2022-06-17 | 2022-09-02 |
 | [Jolie](https://open.spotify.com/track/5bB4eyM0bd4i5YIB3SyfBF) | [Rook Monroe](https://open.spotify.com/artist/0xwMjJn29gSNkQYNxc5IED) | [Jolie](https://open.spotify.com/album/7KSc6yLnDS8rahkCrjgPgf) | 3:00 | 2021-05-01 | 2022-07-29 |
 | [Juliette](https://open.spotify.com/track/1Po2n7GxUAf6snaUxYekd5) | [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh) | [Juliette](https://open.spotify.com/album/0A4sFi0UGoIbXNqAGjUyIm) | 2:50 | 2022-04-13 | 2022-04-21 |
 | [kerosene](https://open.spotify.com/track/52I97JnPW2VptLJbqrsNr3) | [mmmonika](https://open.spotify.com/artist/2kYklIrGwKMyDuVt6RiWgD) | [kerosene](https://open.spotify.com/album/5S3q7V1wbMnyyclCPacuNK) | 2:15 | 2021-05-01 | 2022-04-13 |
@@ -263,7 +264,7 @@
 | [Marigold](https://open.spotify.com/track/0xtRShSDM9MNsaARH6hJkF) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Marigold](https://open.spotify.com/album/6lXwCrLRKIaAW3xxKMXnze) | 4:05 | 2021-05-01 | 2022-07-29 |
 | [Marinade](https://open.spotify.com/track/2N60TAtXaCbmi7zqdUoW61) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Honey Bones](https://open.spotify.com/album/3diCjjzTaCODKwH1OOmrWf) | 3:57 | 2021-05-01 | 2022-04-14 |
 | [Marlboro Nights](https://open.spotify.com/track/755inykyaG4w22GWAsA3MX) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v) | [Marlboro Nights](https://open.spotify.com/album/5yJOsoT7fr37BP8su0RGrz) | 1:08 | 2021-05-26 |  |
-| [Marvelous](https://open.spotify.com/track/5wkEdciZkVGiasumRPReSV) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Tell Me That It’s Over](https://open.spotify.com/album/5L6fAzbz2x5oF8l0qluSKm) | 2:22 | 2022-06-08 | 2022-08-02 |
+| [Marvelous](https://open.spotify.com/track/5wkEdciZkVGiasumRPReSV) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Tell Me That It’s Over](https://open.spotify.com/album/5L6fAzbz2x5oF8l0qluSKm) | 2:22 | 2022-06-08 |  |
 | [Mary](https://open.spotify.com/track/5T0Ib1Hjhsua7qbGTczU7j) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4) | 3:17 | 2022-04-13 | 2022-07-30 |
 | [Metamodernity](https://open.spotify.com/track/4RGWHfQeJftd5XrP8JUgFj) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [Metamodernity](https://open.spotify.com/album/1lgZZELIZZwafQJDycr47q) | 2:42 | 2022-08-08 |  |
 | [Mexican Holiday](https://open.spotify.com/track/6E8XDoU8B9MbYbcAQ2IUBl) | [Tim Ayre](https://open.spotify.com/artist/5iDIPw4XISqyFqD817n4iL) | [Mexican Holiday](https://open.spotify.com/album/7LMpGPGgeAsK7aO4AgmEah) | 3:22 | 2021-05-01 | 2022-04-13 |

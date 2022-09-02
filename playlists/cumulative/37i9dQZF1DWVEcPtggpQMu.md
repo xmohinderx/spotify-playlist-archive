@@ -2,9 +2,9 @@
 
 ### [Aux](https://open.spotify.com/playlist/37i9dQZF1DWVEcPtggpQMu)
 
-> Only the hottest in South African Hip Hop and R&B\. Cover: <a href="https://open.spotify.com/artist/5k9uolaMC3PXHGrHSUiqz0?si=yzhWyjrpQR2jiKd4ChFi4Q">Lolli Native</a>
+> Only the hottest in South African Hip Hop and R&B\. Cover: <a href="https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz?si=YtSBVgYoTOeMdEGneI\_Hpw">Priddy Ugly</a>
 
-318 songs - 16 hr 51 min - [published](https://open.spotify.com/playlist/0xTC98cyXGkNifzFqwccaX)
+319 songs - 16 hr 56 min - [published](https://open.spotify.com/playlist/0xTC98cyXGkNifzFqwccaX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Changed](https://open.spotify.com/track/2xZxcQ9wAqiaBvjNCXlnk9) | [Ray Chillz](https://open.spotify.com/artist/6MlAyF1Wf3wdr7LICB0qj2), [Naardie](https://open.spotify.com/artist/48jZBoeSEG2obtqG5wAO61) | [Changed](https://open.spotify.com/album/32oGJP8KwLlbyPYp06ZEa9) | 3:06 | 2022-02-03 |  |
 | [City Dreams](https://open.spotify.com/track/0qwYAfIDXhl2TuqmpXionb) | [Pervader](https://open.spotify.com/artist/5RdDDjtLWX9sD7i6Mn4630), [Papta Mancane](https://open.spotify.com/artist/6DoMDqCMf3ye9lGDsAm23D), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ) | [City Dreams](https://open.spotify.com/album/3bHGs1INSpGpZt9uSwvwdQ) | 3:22 | 2022-06-27 |  |
 | [cold](https://open.spotify.com/track/0EjxwI2vzEVqMpFjusasfm) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [cold](https://open.spotify.com/album/63i5srM7sJ6uh8RmYtCvR1) | 3:15 | 2022-02-10 | 2022-08-12 |
-| [Coldest Walk In Africa](https://open.spotify.com/track/6c8FlJaV44PmbKN4poD29z) | [Phonixthecool](https://open.spotify.com/artist/0ebXLaeFSG6yP0P084hbqu) | [Coldest Walk In Africa](https://open.spotify.com/album/1K5nrOf8uhPQa5DqNugzpJ) | 2:38 | 2022-08-18 |  |
+| [Coldest Walk In Africa](https://open.spotify.com/track/6c8FlJaV44PmbKN4poD29z) | [Phonixthecool](https://open.spotify.com/artist/0ebXLaeFSG6yP0P084hbqu) | [Coldest Walk In Africa](https://open.spotify.com/album/1K5nrOf8uhPQa5DqNugzpJ) | 2:38 | 2022-08-18 | 2022-09-02 |
 | [Colored Tsotsi](https://open.spotify.com/track/6comJmw2GYhBceNek9VdAE) | [SadBoySantana](https://open.spotify.com/artist/3nb1rmahl4LbN6Jm4eVssM) | [B!SS: BECAUSE I SAID SO](https://open.spotify.com/album/6UD2sgLE99GyqLpegEE9h0) | 2:00 | 2022-03-31 | 2022-04-15 |
 | [Come Through](https://open.spotify.com/track/6ThtG8gsdgTSMeJ0kOz47B) | [Suhn](https://open.spotify.com/artist/21FjHoi27TUaIuUSYxdOwf) | [Come Through](https://open.spotify.com/album/6AxIJCtJ9AI6MvHotGp47i) | 3:44 | 2022-07-28 |  |
 | [Come To My Party](https://open.spotify.com/track/6DOfsn8KXSuq0xkVB68PMy) | [DJ Capital](https://open.spotify.com/artist/1Z2lV83lH6bNPLr0c0ofsL), [J Molley](https://open.spotify.com/artist/4Wgns8lkTyqv4k2SH3Zc6T), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Come To My Party](https://open.spotify.com/album/6cOoazjVUvTZ3AqTuiGHVL) | 3:42 | 2022-07-28 |  |
@@ -320,6 +320,7 @@
 | [WHITEBOARDS](https://open.spotify.com/track/7hqDj2NTcV2gUqnCNS0JrS) | [ByLwansta](https://open.spotify.com/artist/08XiXTlJPbnyNFZBygX58N), [ThatoFeels](https://open.spotify.com/artist/7HE5xc4O5UOr0GLrw8TWIP) | [SPIJØNGET \(Chapter Three\)](https://open.spotify.com/album/0Xa5WQ4Y7IiIhBYrvrDBjL) | 3:55 | 2022-02-24 | 2022-03-11 |
 | [Who Will Love Me](https://open.spotify.com/track/1xJdAVYAFIfbLWvlQkjAw1) | [Shxnnon](https://open.spotify.com/artist/3gBgzoMbHQUanMfDhqMAgf) | [I See You](https://open.spotify.com/album/3nTWq3s6O6sZFTqE6xbir7) | 2:35 | 2021-11-25 | 2022-01-21 |
 | [Why Me?](https://open.spotify.com/track/7rpEhFwa8OTnMoqkDT0JOr) | [Audiomarc](https://open.spotify.com/artist/7M5xa3W8nnFeBaOvJVHRxj), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Why Me?](https://open.spotify.com/album/7ipNeYgWhbiQUjmgKJCEHZ) | 3:07 | 2021-10-07 |  |
+| [WIN](https://open.spotify.com/track/1HCze2s8KOw9riGVTnGeJh) | [Priddy Ugly](https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Zoocci Coke Dope](https://open.spotify.com/artist/6nScSYRb9Qy2b6HJpDtm4w) | [MUD](https://open.spotify.com/album/39PUlolgMi1D3k4SNgzsHZ) | 5:14 | 2022-09-01 |  |
 | [With Us](https://open.spotify.com/track/15ihtDGnwhxFykG4BJ5lwS) | [Dan Duminy](https://open.spotify.com/artist/0Xj4YyjZkAFSYoL1tvcjDx), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Crowned Yung](https://open.spotify.com/artist/0ev4QPgGwvdAwC5RVMqpAM) | [With Us](https://open.spotify.com/album/48oG73dLtqm9gKzeFfu4gH) | 3:30 | 2021-06-24 | 2022-07-09 |
 | [X](https://open.spotify.com/track/7HUspHeq82qCOgyFlxvb44) | [Genii Blakk](https://open.spotify.com/artist/2yUOEIPMdz4yd5HiantiEc) | [X](https://open.spotify.com/album/0PTYYmezI0NK1CrUuwhcKx) | 2:57 | 2022-04-14 | 2022-04-30 |
 | [Yesssir](https://open.spotify.com/track/4QubV2az3pY4MlaTAg47PQ) | [Yung Tyran](https://open.spotify.com/artist/4soClpNcOWakO9h9nbUBQX), [Die Mondez](https://open.spotify.com/artist/2ceT1FZTvlzjxBGZcjgTh2) | [Yesssir](https://open.spotify.com/album/4JtmTP0yRjusbBYdMciB56) | 3:13 | 2021-09-02 | 2022-07-29 |

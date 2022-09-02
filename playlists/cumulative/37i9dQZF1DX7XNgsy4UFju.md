@@ -4,7 +4,7 @@
 
 > Home to all the latest indie jams\. Cover: Djo
 
-609 songs - 1 day 12 hr 5 min - [published](https://open.spotify.com/playlist/4hpfeoyJCUxj1W1YZOVAqm)
+610 songs - 1 day 12 hr 7 min - [published](https://open.spotify.com/playlist/4hpfeoyJCUxj1W1YZOVAqm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -616,6 +616,7 @@
 | [You Have Got to Be Kidding Me](https://open.spotify.com/track/3kai81vBptYiDfb0QXHv5X) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [You Have Got to Be Kidding Me](https://open.spotify.com/album/0e0c5rz0pMLFvqR7bDyXtc) | 3:36 | 2022-05-20 |  |
 | [You've Got a Woman](https://open.spotify.com/track/55tF86yLmOiGwoFgollNC6) | [Natalie Bergman](https://open.spotify.com/artist/6YP6iGwynI5kEyNYxfxVeC), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [You've Got a Woman](https://open.spotify.com/album/3DbIkUH1sh5HTPD8n65A3S) | 3:25 | 2021-12-31 | 2022-01-10 |
 | [Your Other Life](https://open.spotify.com/track/4sWZVIOHuTrQOt6mqzMiBE) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Long Lost \(Deluxe Edition\)](https://open.spotify.com/album/6yEdJA4H2O4VOi4pk14GdS) | 4:40 | 2022-05-27 | 2022-07-30 |
-| [YUKON \(INTERLUDE\)](https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi) | 2:21 | 2022-08-29 |  |
+| [YUKON \(INTERLUDE\)](https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi) | 2:21 | 2022-08-29 | 2022-09-02 |
+| [YUKON \(INTERLUDE\)](https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/0GxWXE6ltKk4Gx3WyWLLrW) | 2:21 | 2022-08-29 |  |
 
 \*This playlist was first scraped on 2022-01-01. Prior content cannot be recovered.

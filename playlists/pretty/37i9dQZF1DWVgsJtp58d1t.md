@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New releases, driving the current\. Cover: Offset
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,994 likes - 99 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,092 likes - 99 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 39 | [RAGE \(Sicc 'Em\)](https://open.spotify.com/track/19yyV2dXptig3a8CAzUzFZ) | [MoneyMarr](https://open.spotify.com/artist/7Hol8IRGqnkUgWM21PHDhN), [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH) | [VIRGOAT](https://open.spotify.com/album/5TchtfpSg3MUUZu6pAqB3r) | 3:23 |
 | 40 | [Cant Be Stopped](https://open.spotify.com/track/4elD76KLyqcW2L5j3BZ86s) | [Young Roc](https://open.spotify.com/artist/5ycH6CkEItjfS7VPVNg5kQ) | [Function 3000](https://open.spotify.com/album/71r49Trl9Otu24JcQYwOYM) | 2:55 |
 | 41 | [Drifting In The Rain](https://open.spotify.com/track/21cpT4pGCV4wEeimiCsKx8) | [Rahiem Supreme](https://open.spotify.com/artist/1F6QRQPzMp6gM6xydxbzIK), [WiFiGawd](https://open.spotify.com/artist/2tM4YvbGRPeHpxdD6PqLwe) | [Drifting In The Rain](https://open.spotify.com/album/1qeHv58WBGMOhXNdLGT7NA) | 2:07 |
-| 42 | [I Want You \(with Future\)](https://open.spotify.com/track/30pBgahZNXNLvtQVi5HUxQ) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Public Housing](https://open.spotify.com/album/3H7rkiYB6yjsuMZbxApOCn) | 3:23 |
+| 42 | [I Want You \(with Future\)](https://open.spotify.com/track/30pBgahZNXNLvtQVi5HUxQ) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Public Housing](https://open.spotify.com/album/3H7rkiYB6yjsuMZbxApOCn) | 3:25 |
 | 43 | [54321](https://open.spotify.com/track/0iPb0dxCtjFcmFa2ElfBJ5) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [54321](https://open.spotify.com/album/5vW8LuMydrkQQqkQlw5Won) | 3:02 |
 | 44 | [Wet](https://open.spotify.com/track/4RCwUGboTNqqrY2tgy37nF) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Wet](https://open.spotify.com/album/31TtTfGTyqjNQvTXa6Ig9u) | 2:16 |
 | 45 | [Opposite](https://open.spotify.com/track/1hjQHLXevphvGIZUfRC239) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Pillow Talk](https://open.spotify.com/album/5OqXOVNWcFnBsYnPV0BWc6) | 2:50 |

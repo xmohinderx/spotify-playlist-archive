@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 
 > Dreamy jams from the best bedroom producers\. Cover: SALES
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,023,770 likes - 115 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,021,470 likes - 115 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 46 | [I Don't Know You](https://open.spotify.com/track/4cJOLN346rtOty3UPACsao) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [I Don't Know You](https://open.spotify.com/album/5L8VJO457GXReKVVfRhzyM) | 3:29 |
 | 47 | [Warned You](https://open.spotify.com/track/3GahMRXI3rL2JVeSLZBRnF) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Shawcross](https://open.spotify.com/album/3KpFXHl7zzp0Cjvww3AUFs) | 2:16 |
 | 48 | [Sunflower](https://open.spotify.com/track/1camd9eP6HEbhNjXww8FKN) | [Michele Leigh](https://open.spotify.com/artist/2VRzDvOFUJEFtt0vvnPg9A) | [Sunflower](https://open.spotify.com/album/2mHFAtwST4vVJPdnV8ApHk) | 2:45 |
-| 49 | [My Jinji](https://open.spotify.com/track/7wmFsS43fO8vAg0vcr776N) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Jinji Kikko](https://open.spotify.com/album/23fJtVCer8xdqYluyK8Rh9) | 6:40 |
-| 50 | [horror story](https://open.spotify.com/track/4yIHTPSFg5Ma41IJNE0GUL) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 1](https://open.spotify.com/album/3o4JOV2P8fueS8vdkaivbO) | 2:03 |
-| 51 | [That I Miss You](https://open.spotify.com/track/7szBZqBJuj9eAC8HJ4CyTM) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [That I Miss You](https://open.spotify.com/album/3tE8rkq0T77F2hwjXMzCfF) | 2:20 |
+| 49 | [That I Miss You](https://open.spotify.com/track/7szBZqBJuj9eAC8HJ4CyTM) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [That I Miss You](https://open.spotify.com/album/3tE8rkq0T77F2hwjXMzCfF) | 2:20 |
+| 50 | [My Jinji](https://open.spotify.com/track/7wmFsS43fO8vAg0vcr776N) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Jinji Kikko](https://open.spotify.com/album/23fJtVCer8xdqYluyK8Rh9) | 6:40 |
+| 51 | [horror story](https://open.spotify.com/track/4yIHTPSFg5Ma41IJNE0GUL) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 1](https://open.spotify.com/album/3o4JOV2P8fueS8vdkaivbO) | 2:03 |
 | 52 | [Sour Switchblade](https://open.spotify.com/track/4wFeMmJDlgkAxlQ07PbdGZ) | [Elita](https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv) | [Sour Switchblade](https://open.spotify.com/album/0165PYHqH1iILn2HtbT3R4) | 2:28 |
 | 53 | [OUTTA MY MIND](https://open.spotify.com/track/7zTTDkkLkJ2iHAqq1daDCr) | [Monsune](https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF) | [OUTTA MY MIND](https://open.spotify.com/album/6WWXMhWEmIM9SaAyZCFvYL) | 3:46 |
 | 54 | [Loretta](https://open.spotify.com/track/3eZqBNHlNA4lUsbAB6UmvD) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Loretta](https://open.spotify.com/album/6JK3NfcRSyRnrIdBiZtQGM) | 3:10 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 91 | [Shy](https://open.spotify.com/track/3TFNxpIwIzMi3jsMRy9GVZ) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Shy](https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8) | 3:21 |
 | 92 | [Get Down](https://open.spotify.com/track/4kcuzPfVaPlElWRv9jNGHi) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Get Down](https://open.spotify.com/album/3LV5x9NJGzRMm7xraPqKlL) | 2:51 |
 | 93 | [Blue Skies](https://open.spotify.com/track/4e11dFRYAcJyvIv9Y35ERA) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Blue Skies](https://open.spotify.com/album/3RWu6OftP02gYbA5k0ixM0) | 2:39 |
-| 94 | [Cornflower Blue](https://open.spotify.com/track/2MfwT3SKUyF0na2LCa2fCp) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [The Shark in Your Water](https://open.spotify.com/album/75nZGvjStgCUavXcsYsXf7) | 3:08 |
-| 95 | [Punching Bag](https://open.spotify.com/track/68LD7fYCVnACJtnLKHd3Q9) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Punching Bag](https://open.spotify.com/album/5btTgXXIZWCd7oAnToE1pl) | 2:33 |
+| 94 | [Punching Bag](https://open.spotify.com/track/68LD7fYCVnACJtnLKHd3Q9) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Punching Bag](https://open.spotify.com/album/5btTgXXIZWCd7oAnToE1pl) | 2:33 |
+| 95 | [Cornflower Blue](https://open.spotify.com/track/2MfwT3SKUyF0na2LCa2fCp) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [The Shark in Your Water](https://open.spotify.com/album/75nZGvjStgCUavXcsYsXf7) | 3:08 |
 | 96 | [I Just Wanna](https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe) | [KALI](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [I Just Wanna](https://open.spotify.com/album/1oOZfgFNqap0vvG25bOeAE) | 4:14 |
 | 97 | [Emotionless](https://open.spotify.com/track/4WhpjIKKkQlFmbsYQIuJxO) | [Crisaunt](https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6) | [Emotionless](https://open.spotify.com/album/1kYZYrM6n5Io70OGadcoxl) | 2:28 |
 | 98 | [Clueless](https://open.spotify.com/track/7mrEpwmQJ7qK1ik7ZjjcdD) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Clueless](https://open.spotify.com/album/6kQBBlENraS03XVnFJ5mlU) | 3:47 |
@@ -112,8 +112,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 102 | [Satellite](https://open.spotify.com/track/0kjRlBI8YIxDQKrP7PrZr4) | [Will Paquin](https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6) | [Satellite](https://open.spotify.com/album/69IZlBwPWmrbqrWfQiQ5DU) | 3:11 |
 | 103 | [Organon](https://open.spotify.com/track/7uKoqhOj7sfF1GowMuAc6I) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 2:30 |
 | 104 | [Sharpener](https://open.spotify.com/track/2aReOPqi6NjhJ8zxa0Mi2D) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Sharpener](https://open.spotify.com/album/3MxrCAA1Z5FOaqdqOaiFYz) | 3:57 |
-| 105 | [friends or not](https://open.spotify.com/track/36MS43HvrxStwaE7lUtycs) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [friends or not](https://open.spotify.com/album/6VRAu1SzoQyotA5FcuIiUT) | 3:12 |
-| 106 | [Manic Pixie Dream Girl](https://open.spotify.com/track/6z9zXftDgpnyZYL2KiRTHZ) | [EASHA](https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt) | [Manic Pixie Dream Girl](https://open.spotify.com/album/0k1Vpxn2v8PdDX0cu0jvMi) | 2:40 |
+| 105 | [Manic Pixie Dream Girl](https://open.spotify.com/track/6z9zXftDgpnyZYL2KiRTHZ) | [EASHA](https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt) | [Manic Pixie Dream Girl](https://open.spotify.com/album/0k1Vpxn2v8PdDX0cu0jvMi) | 2:40 |
+| 106 | [friends or not](https://open.spotify.com/track/36MS43HvrxStwaE7lUtycs) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [friends or not](https://open.spotify.com/album/6VRAu1SzoQyotA5FcuIiUT) | 3:12 |
 | 107 | [MESS U MADE](https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [MESS U MADE](https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP) | 2:48 |
 | 108 | [Don't Trust Me](https://open.spotify.com/track/5xz9GcQI6wDVjSFneT8J6n) | [the booyah! kids](https://open.spotify.com/artist/0ypSujQpBRgRAeOS7YzhnP) | [Booyah](https://open.spotify.com/album/0DZlZyJFLtBjT0jQVtcmnR) | 2:00 |
 | 109 | [80's High School](https://open.spotify.com/track/4NnNGFTcMv5OK1LvIA2Wgw) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Melodrama](https://open.spotify.com/album/4VDue6QekQ9iZZpMTLS7ZX) | 3:22 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 114 | [Beautiful Mind](https://open.spotify.com/track/1nSrsbo4Mpsg0UmjMUjMlD) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [The Way He Looks](https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ) | 3:19 |
 | 115 | [VROOM VROOM](https://open.spotify.com/track/7BKIfBT1VKkBcSsACK1Az8) | [Mickey Darling](https://open.spotify.com/artist/3uwUtL5kPSO2mpOhU4SiWz) | [VROOM VROOM](https://open.spotify.com/album/5uhLcex9bi6Z84KsbR3jIc) | 3:06 |
 
-Snapshot ID: `MTY1NjY4NjEzNCwwMDAwMDAwMGY2ZGI4MjIyMDRiOGUzNWEyOWEwYzdmMzdhNjY5MDU3`
+Snapshot ID: `MTY1NjY4NjEzNCwwMDAwMDAwMGZlMzYzMTRkYzA2Y2ZmN2NmMDk0NjMzOTBjM2RiY2E2`

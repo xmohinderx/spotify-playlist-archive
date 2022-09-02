@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: DJ Khaled
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,418 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,588 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [BEAUTIFUL \(feat\. Future & SZA\)](https://open.spotify.com/track/5kYSScXYOZYyi0fxramiW6) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 3:43 |
 | 2 | [Hold Me Closer](https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Hold Me Closer](https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6) | 3:22 |
 | 3 | [Beat the Odds](https://open.spotify.com/track/2BJWxD8xKrDv8vneTvTIm9) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Beat the Odds](https://open.spotify.com/album/5jopeyeE3iVZ5zlEMadVcv) | 2:30 |
-| 4 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi) | 2:21 |
+| 4 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/0GxWXE6ltKk4Gx3WyWLLrW) | 2:21 |
 | 5 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 |
 | 6 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 |
 | 7 | [complex \(demo\)](https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex \(demo\)](https://open.spotify.com/album/4iHBCJPZUha2xs84jNZ4jc) | 4:16 |
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 82 | [Somethin' Bout You](https://open.spotify.com/track/2hsarLx1u2OgOmkcJ8ejBm) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Somethin' Bout You](https://open.spotify.com/album/4ejJyrAvRvhVRadKmVPByS) | 2:36 |
 | 83 | [Creeps](https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Creeps](https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB) | 3:46 |
 | 84 | [Free Slime](https://open.spotify.com/track/4Wgu0FPMdz24m4TBc7kyk2) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [W13](https://open.spotify.com/album/2UQ8TnK4dXTwd66W9bQZz9) | 3:14 |
-| 85 | [I Want You \(with Future\)](https://open.spotify.com/track/30pBgahZNXNLvtQVi5HUxQ) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Public Housing](https://open.spotify.com/album/3H7rkiYB6yjsuMZbxApOCn) | 3:23 |
+| 85 | [I Want You \(with Future\)](https://open.spotify.com/track/30pBgahZNXNLvtQVi5HUxQ) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Public Housing](https://open.spotify.com/album/3H7rkiYB6yjsuMZbxApOCn) | 3:25 |
 | 86 | [Backstroke](https://open.spotify.com/track/5Zbn1bJ3yxodPIRgJCp9xh) | [Barny Fletcher](https://open.spotify.com/artist/5q9zHGohILrZ2j1bSL1VeG) | [Backstroke](https://open.spotify.com/album/6anKu2hrikzTux91WoVeuD) | 2:39 |
 | 87 | [Permanent Rebellion](https://open.spotify.com/track/2Ot85xcajHDvU7cD2BdR2M) | [L.S\. Dunes](https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG) | [Permanent Rebellion](https://open.spotify.com/album/2LbVe89xE3nidK1eYLwrfH) | 3:13 |
 | 88 | [Get A Job](https://open.spotify.com/track/1SvWcEk0BXuOmQp25PThtR) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Get A Job](https://open.spotify.com/album/4J4wfSzNBR5hBABl1dgcYG) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [ANTISOCIAL](https://open.spotify.com/track/07t2Y26I5eYKQzXheVq0d4) | [Lorelei Marcell](https://open.spotify.com/artist/3JUdBypm7CxRBcQRdTucgK) | [ANTISOCIAL](https://open.spotify.com/album/4jMqrzOzRSyoagYBhunVfK) | 3:08 |
 | 100 | [bugfood](https://open.spotify.com/track/3s5ztgTkbaWTYuiLCgf3SY) | [Alissic](https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u) | [bugfood](https://open.spotify.com/album/52xufJVqlIC2itNpk3Hc8r) | 3:26 |
 
-Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMDg1NWU3MDZjMjJhYzZiNmJiZTUwYjY1YWQwNTBkYzJj`
+Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMGM5YmJmNDcyMzgxODIzYjY1NmVmYWQxZTBjMWM5N2Nk`

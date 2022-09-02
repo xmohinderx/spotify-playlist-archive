@@ -294,6 +294,28 @@
     },
     {
       "album": {
+        "name": "i hate u owe me $$",
+        "url": "https://open.spotify.com/album/6erAGsVqS76Ei8fu66QoKa"
+      },
+      "artists": [
+        {
+          "name": "Kiri T",
+          "url": "https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5"
+        },
+        {
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170819,
+      "name": "i hate u owe me $$",
+      "url": "https://open.spotify.com/track/75RainG5pTfpOH1Hj937BU"
+    },
+    {
+      "album": {
         "name": "I wish I can be Rich",
         "url": "https://open.spotify.com/album/612xHundAqZJb5bIZusjyC"
       },

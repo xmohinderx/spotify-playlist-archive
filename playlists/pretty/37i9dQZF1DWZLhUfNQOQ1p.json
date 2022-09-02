@@ -1,12 +1,12 @@
 {
   "description": "Goditi l'aperitivo in compagnia e con la colonna sonora ideale!",
-  "num_followers": 230564,
+  "num_followers": 230566,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMDBkZDA4ODk5ZGIwYWMwNGQ4NzE2NzZiYThiYzAzZTA4",
+  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMDkxYjJiNjYwZmU2YTU4NjU5ZmQyZjRiYWJlMTY3Njdm",
   "tracks": [
     {
       "added_at": "2021-08-05 09:09:59",
@@ -691,22 +691,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "All Good",
-        "url": "https://open.spotify.com/album/74Nnte7VwlaN2zfqX7OL2G"
-      },
-      "artists": [
-        {
-          "name": "Crade",
-          "url": "https://open.spotify.com/artist/0sv3Ei5QResLibVKGeW1HM"
-        }
-      ],
-      "duration_ms": 196670,
-      "name": "All Good",
-      "url": "https://open.spotify.com/track/7szWO6GcxVU1lkWWLfpeyI"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Voyages",
         "url": "https://open.spotify.com/album/2CFaWHNK7iPlUlVr0PR1SG"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 216104,
       "name": "Voyages",
       "url": "https://open.spotify.com/track/1QwwJPHlJ26QBkpugTwqqG"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "All Good",
+        "url": "https://open.spotify.com/album/74Nnte7VwlaN2zfqX7OL2G"
+      },
+      "artists": [
+        {
+          "name": "Crade",
+          "url": "https://open.spotify.com/artist/0sv3Ei5QResLibVKGeW1HM"
+        }
+      ],
+      "duration_ms": 196670,
+      "name": "All Good",
+      "url": "https://open.spotify.com/track/7szWO6GcxVU1lkWWLfpeyI"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -823,22 +823,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "When I'm Gone",
-        "url": "https://open.spotify.com/album/1AabiQu9nl7ts9NPNalWSI"
-      },
-      "artists": [
-        {
-          "name": "Julia Bergwall",
-          "url": "https://open.spotify.com/artist/5gdO1cvqTN17AuyLUvC2hD"
-        }
-      ],
-      "duration_ms": 192472,
-      "name": "When I'm Gone",
-      "url": "https://open.spotify.com/track/5KnvOIDN3m5e7A09oa578x"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Elephant & Castle",
         "url": "https://open.spotify.com/album/7kRY9tH9BPnAQ9eoA0bs6v"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 186900,
       "name": "Elephant & Castle",
       "url": "https://open.spotify.com/track/694EKGkpww46ejk4jyzYM0"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "When I'm Gone",
+        "url": "https://open.spotify.com/album/1AabiQu9nl7ts9NPNalWSI"
+      },
+      "artists": [
+        {
+          "name": "Julia Bergwall",
+          "url": "https://open.spotify.com/artist/5gdO1cvqTN17AuyLUvC2hD"
+        }
+      ],
+      "duration_ms": 192472,
+      "name": "When I'm Gone",
+      "url": "https://open.spotify.com/track/5KnvOIDN3m5e7A09oa578x"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -903,22 +903,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Rooftop",
-        "url": "https://open.spotify.com/album/3vjgqeZ3T1cDCY0RJnjAMD"
-      },
-      "artists": [
-        {
-          "name": "Tab\u00fa",
-          "url": "https://open.spotify.com/artist/3ixqu2cJbIKBGVVmAd9KY3"
-        }
-      ],
-      "duration_ms": 220038,
-      "name": "Rooftop",
-      "url": "https://open.spotify.com/track/2kFkb913w3d49GBzdXqarM"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Utopia",
         "url": "https://open.spotify.com/album/0xZ6LdenoJyCdLM65sQJCa"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 235549,
       "name": "Utopia",
       "url": "https://open.spotify.com/track/4L5wjbPOZW2p77kngbEybM"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Rooftop",
+        "url": "https://open.spotify.com/album/3vjgqeZ3T1cDCY0RJnjAMD"
+      },
+      "artists": [
+        {
+          "name": "Tab\u00fa",
+          "url": "https://open.spotify.com/artist/3ixqu2cJbIKBGVVmAd9KY3"
+        }
+      ],
+      "duration_ms": 220038,
+      "name": "Rooftop",
+      "url": "https://open.spotify.com/track/2kFkb913w3d49GBzdXqarM"
     },
     {
       "added_at": "2021-08-05 09:09:59",

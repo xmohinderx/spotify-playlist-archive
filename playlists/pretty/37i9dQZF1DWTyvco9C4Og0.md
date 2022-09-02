@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyvco9C4Og0.md) - [plain]
 
 > Las leyendas del mariachi están aquí\. Marco Antonio Solís en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 804,724 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 805,068 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyvco9C4Og0.md) - [plain]
 | 40 | [Como Quien Pierde una Estrella](https://open.spotify.com/track/7rayH7w0DFOWTZ9LZaKL3G) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 3:35 |
 | 41 | [Ella Qué Te Dio](https://open.spotify.com/track/6NodQbrmNRrp768y8PG1zl) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Mexicana Enamorada](https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX) | 3:48 |
 | 42 | [La Gran Señora](https://open.spotify.com/track/3Q9Q9rYI2hwYZNl0Mmc2FB) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 4:12 |
-| 43 | [El Rey](https://open.spotify.com/track/4ihZFukyNotzCUtxI4qpu8) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [El Cantinero](https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES) | 2:09 |
+| 43 | [Me Sacaron Del Tenampa](https://open.spotify.com/track/6f4jjw4xqdX00zqaJ141PZ) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx) | [15 Éxitazos](https://open.spotify.com/album/5mmZxvjnPHDjasQQ1F9514) | 1:54 |
 | 44 | [Llamarada](https://open.spotify.com/track/6JEgMLyMEqFTaoQyMg4vhQ) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [¡MÉXICO Por Siempre!](https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche) | 3:24 |
-| 45 | [Me Sacaron Del Tenampa](https://open.spotify.com/track/6f4jjw4xqdX00zqaJ141PZ) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx) | [15 Éxitazos](https://open.spotify.com/album/5mmZxvjnPHDjasQQ1F9514) | 1:54 |
+| 45 | [El Rey](https://open.spotify.com/track/4ihZFukyNotzCUtxI4qpu8) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [El Cantinero](https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES) | 2:09 |
 | 46 | [Perdí la Pose](https://open.spotify.com/track/6FGMsyDuHxkUmPwMvAJvDj) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [No Pongan Esas Canciones](https://open.spotify.com/album/0NTVddhlKzjxGdCAdWR80h) | 2:37 |
 | 47 | [Te Quedó Grande La Yegua](https://open.spotify.com/track/5tPxcLBsfj9yZS4PAiOr9G) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Soy Lo Prohibido](https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4) | 3:37 |
 | 48 | [Hasta Que Llegue el Alba](https://open.spotify.com/track/7kRUOKGmAG7wNxMy9tFQS7) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [A la Medida](https://open.spotify.com/album/6efOKRzidSTHQXjUyHmCM4) | 4:30 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyvco9C4Og0.md) - [plain]
 | 68 | [Que Digan Lo Que Digan](https://open.spotify.com/track/0ZgWkCML3yoVANOBbSVKzl) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Que Digan Lo Que Digan](https://open.spotify.com/album/4cBBdOIxQQXmOtuXpjKLWl) | 2:52 |
 | 69 | [Entiende Que Ya](https://open.spotify.com/track/7kyNkviFUetu9nSrn1wtZr) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [+Mexicana](https://open.spotify.com/album/0GZi1qLTk1hMY2RXQ6YBgt) | 2:46 |
 | 70 | [Mi Venganza \(La Desalmada\) \- Música Original de la Telenovela La Desalmada](https://open.spotify.com/track/50aKalW8H2xUW5hpFdwrqg) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Mi Venganza \(La Desalmada\)](https://open.spotify.com/album/4UeIcFGkSV2obGfreGI5KA) | 4:05 |
-| 71 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/00zD9aiaLdQcIwSNoWD0pW) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con El Mariachi Vargas De Tecalitlan \(with El Mariachi Vargas de Tecalitlán\)](https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK) | 2:55 |
-| 72 | [No Me Queda Más](https://open.spotify.com/track/4CWNGOfdt0hBP5hBkQUX85) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Baila Esta Cumbia](https://open.spotify.com/album/6MpiAS4mk0S7WRTX0l98z3) | 3:20 |
+| 71 | [No Me Queda Más](https://open.spotify.com/track/4CWNGOfdt0hBP5hBkQUX85) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Baila Esta Cumbia](https://open.spotify.com/album/6MpiAS4mk0S7WRTX0l98z3) | 3:20 |
+| 72 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/00zD9aiaLdQcIwSNoWD0pW) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con El Mariachi Vargas De Tecalitlan \(with El Mariachi Vargas de Tecalitlán\)](https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK) | 2:55 |
 | 73 | [Qué Ganas De Verte](https://open.spotify.com/track/1qhEdQNFKBFFVmzGBAnD95) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Qué Ganas De Verte](https://open.spotify.com/album/1F0OQrdweimPVk3119NKVM) | 3:18 |
 | 74 | [El Alumno](https://open.spotify.com/track/7yy3yQQ9oKCilGJtreLcSe) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [El Alumno](https://open.spotify.com/album/4rHTyJISches0y7efQTJbW) | 3:08 |
 | 75 | [Cheque En Blanco](https://open.spotify.com/track/2aqarSktx1bU8WrZE9lW1X) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [En Vivo, Desde Su Lugar](https://open.spotify.com/album/0O56jcmx3fpovZWOJeO0LC) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyvco9C4Og0.md) - [plain]
 | 99 | [Media Vuelta](https://open.spotify.com/track/4wK2gpBcEIdgZbcyfpbh4B) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Mexicanisimo](https://open.spotify.com/album/5MTcdzp13fvpZ2mvCg5zCj) | 2:11 |
 | 100 | [No Discutamos](https://open.spotify.com/track/3IwKzJ7SenrBSRmmGAWR65) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Interpreta A Juan Gabriel](https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O) | 2:15 |
 
-Snapshot ID: `MTY1Nzg2MTIwMCwwMDAwMDAwMGRmYWRkZDYyNDc0ZmYxY2EzYjkzODBiNzZkZDM1ODQ5`
+Snapshot ID: `MTY1Nzg2MTIwMCwwMDAwMDAwMGIzMmE1MzZjNjg0NmYzMjlhNWJjOGE3NGZjNWEyMzYw`

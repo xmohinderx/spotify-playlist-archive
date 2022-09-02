@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLaoaQqrfyO.md) - [plain]
 
 > Seminal indie pop tracks from the 2010s\. Cover: Blood Orange.
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,337 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,399 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLaoaQqrfyO.md) - [plain]
 | 62 | [This Must Be The Place](https://open.spotify.com/track/6PuoZT4kgw5DrUEdnQ6e01) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Sure Sure](https://open.spotify.com/album/7EfgATnOllXJ96s4sSdzei) | 3:39 |
 | 63 | [Black Sheep \- Brie Larson Vocal Version](https://open.spotify.com/track/60TThBDrPpek5k520l0W0L) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl), [Brie Larson](https://open.spotify.com/artist/7g77hiv179GYIwhfCgETGy) | [Black Sheep \(Brie Larson Vocal Version\)](https://open.spotify.com/album/3blvQlrV0IeDBOWqDz2yYd) | 4:54 |
 | 64 | [Tommy's Party](https://open.spotify.com/track/5OuJTtNve7FxUX82eEBupN) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Being So Normal](https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA) | 6:01 |
-| 65 | [The High Road](https://open.spotify.com/track/5cwN1htZyoWqZCc33f3RfE) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Broken Bells](https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx) | 3:52 |
-| 66 | [Narcissist \(feat\. The 1975\)](https://open.spotify.com/track/4qjLvvBh5ZeKEPyShKRf06) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [RIP Indo Hisashi](https://open.spotify.com/album/5l156gMmHiFQKaAqCWRkI4) | 3:15 |
+| 65 | [Narcissist \(feat\. The 1975\)](https://open.spotify.com/track/4qjLvvBh5ZeKEPyShKRf06) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [RIP Indo Hisashi](https://open.spotify.com/album/5l156gMmHiFQKaAqCWRkI4) | 3:15 |
+| 66 | [The High Road](https://open.spotify.com/track/5cwN1htZyoWqZCc33f3RfE) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Broken Bells](https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx) | 3:52 |
 | 67 | [Buttercup](https://open.spotify.com/track/6iCJCZqDJjmBxt07Oid6FI) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Landmark](https://open.spotify.com/album/0vb1g018puu47StlIi9wxC) | 3:46 |
 | 68 | [When Am I Gonna Lose You](https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Violet Street](https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY) | 4:24 |
 | 69 | [Feel It All Around](https://open.spotify.com/track/4V0x90QcMh4ZxwHzEWOdtK) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Life of Leisure](https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC) | 3:12 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLaoaQqrfyO.md) - [plain]
 | 97 | [The Sound](https://open.spotify.com/track/316r1KLN0bcmpr7TZcMCXT) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 4:08 |
 | 98 | [Put a Light On](https://open.spotify.com/track/4ZFHITy0bAeZ3oFfvR0HaI) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Heza](https://open.spotify.com/album/34oLvXQWydwd1KOqgL8UiE) | 3:46 |
 | 99 | [Unbelievers](https://open.spotify.com/track/51DZ0wUocQ8sQfjnibXVcD) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Modern Vampires of the City](https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j) | 3:22 |
-| 100 | [Begin \(feat\. Wales\)](https://open.spotify.com/track/1v5J1L8FbUQya4SUQFCstk) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Wales](https://open.spotify.com/artist/3IxDETkXytMePFoyf7PYWQ) | [All Becomes Okay](https://open.spotify.com/album/6EHU4sgkn65wpT5dZU6Tkh) | 4:02 |
+| 100 | [Trojans](https://open.spotify.com/track/0wDEiGfq4pw7FAkYKpkwMo) | [Atlas Genius](https://open.spotify.com/artist/42vg2T0Xg9yPaAgogJzoQH) | [When It Was Now](https://open.spotify.com/album/3yhETmhJwSVSLGDyTJgnqo) | 3:37 |
 
-Snapshot ID: `MTY1OTA0NDgyNywwMDAwMDAwMDY1MDEyMTM3MGUxOWQ5N2UwYjMwYmY5YTM1NjdiMTE5`
+Snapshot ID: `MTY1OTA0NDgyNywwMDAwMDAwMDdiZTU5Y2Q2YzBkMDYwMzg1OTM4NGE2OTQ5ZmE3MDM0`

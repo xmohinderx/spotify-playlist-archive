@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckE9NhZZgv4.md) - [plain]
 
 > Let's make this a day and night to remember.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,337 likes - 110 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,414 likes - 110 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckE9NhZZgv4.md) - [plain]
 | 19 | [Cool for the Summer](https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident](https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn) | 3:34 |
 | 20 | [I Wanna Dance with Somebody \(Who Loves Me\)](https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 4:51 |
 | 21 | [Toxic](https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:18 |
-| 22 | [Wannabe](https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 2:53 |
-| 23 | [Gasolina](https://open.spotify.com/track/228BxWXUYQPJrJYHDLOHkj) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2) | 3:12 |
+| 22 | [Gasolina](https://open.spotify.com/track/228BxWXUYQPJrJYHDLOHkj) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2) | 3:12 |
+| 23 | [Wannabe](https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 2:53 |
 | 24 | [Kings & Queens](https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:42 |
 | 25 | [TiK ToK](https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Animal \(Expanded Edition\)](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) | 3:19 |
 | 26 | [This Is What You Came For](https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [This Is What You Came For](https://open.spotify.com/album/3pEgGUv379EDinvg1TN7Kt) | 3:42 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckE9NhZZgv4.md) - [plain]
 | 51 | [Pon de Replay](https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Music Of The Sun](https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz) | 4:06 |
 | 52 | [Truth Hurts](https://open.spotify.com/track/3HWzoMvoF3TQfYg4UPszDq) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/2KJjOBX280F3hZZE1xO33O) | 2:53 |
 | 53 | [9 to 5](https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 To 5 And Odd Jobs](https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd) | 2:42 |
-| 54 | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ) | 4:05 |
-| 55 | [Family Affair](https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [No More Drama](https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4) | 4:25 |
+| 54 | [Family Affair](https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [No More Drama](https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4) | 4:25 |
+| 55 | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ) | 4:05 |
 | 56 | [Pepas](https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [La 167](https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK) | 4:47 |
 | 57 | [Big Energy](https://open.spotify.com/track/4pi1G1x8tl9VfdD9bL3maT) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 2:52 |
 | 58 | [Juice](https://open.spotify.com/track/0k664IuFwVP557Gnx7RhIl) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 3:15 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckE9NhZZgv4.md) - [plain]
 | 109 | [Higher Love](https://open.spotify.com/track/1kKYjjfNYxE0YYgLa7vgVY) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Golden Hour](https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ) | 3:48 |
 | 110 | [Hot N Cold](https://open.spotify.com/track/1y4eb6hmAvsqlDOl3fx9kk) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys](https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl) | 3:40 |
 
-Snapshot ID: `MTY1MjQ1NTMyMiwwMDAwMDAwMDQ2OWViYzJkMmVhNWE5NjEwZTZkYzNlZDk4OWI4ZGQw`
+Snapshot ID: `MTY1MjQ1NTMyMiwwMDAwMDAwMDY5N2FhOWNkZDFhZGY4ZTQ4Mjc2NjYxMDJhMTUyNTky`

@@ -1,12 +1,12 @@
 {
   "description": "The Latin soundtrack of the 2010s! Cover: Daddy Yankee, Luis Fonsi",
-  "num_followers": 108569,
+  "num_followers": 108640,
   "original_name": "10s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMDIxMSwwMDAwMDAwMDQ5MDIxNjFhNDJhMDBmNjZhYTgwODViNTgzOTJkYTcx",
+  "snapshot_id": "MTY2MTkzMDIxMSwwMDAwMDAwMGMxMWZjZDNhYWY1NjQ2ZTdlZmE1OTAzZThkZmFhYTJh",
   "tracks": [
     {
       "added_at": "2022-08-31 07:16:51",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-08-31 07:16:51",
       "album": {
-        "name": "Sobre El Amor Y Sus Efectos Secundarios",
-        "url": "https://open.spotify.com/album/50eHcXc4qede9mUKCYOuoz"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 240560,
-      "name": "C\u00f3mo Te Atreves",
-      "url": "https://open.spotify.com/track/7M6CFruBrM5x7u0lTMtm6r"
-    },
-    {
-      "added_at": "2022-08-31 07:16:51",
-      "album": {
         "name": "Ubuntu",
         "url": "https://open.spotify.com/album/0sGGdQF7f03jwgaD9qhtUQ"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 220116,
       "name": "D\u00e9jala Que Vuelva (feat. Manuel Turizo)",
       "url": "https://open.spotify.com/track/1j6xOGusnyXq3l6IryKF3G"
+    },
+    {
+      "added_at": "2022-08-31 07:16:51",
+      "album": {
+        "name": "Sobre El Amor Y Sus Efectos Secundarios",
+        "url": "https://open.spotify.com/album/50eHcXc4qede9mUKCYOuoz"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 240560,
+      "name": "C\u00f3mo Te Atreves",
+      "url": "https://open.spotify.com/track/7M6CFruBrM5x7u0lTMtm6r"
     },
     {
       "added_at": "2022-08-31 07:16:51",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-08-31 07:16:51",
       "album": {
-        "name": "La Player (Bandolera)",
-        "url": "https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 249608,
-      "name": "La player (Bandolera)",
-      "url": "https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP"
-    },
-    {
-      "added_at": "2022-08-31 07:16:51",
-      "album": {
         "name": "\u00bfCon Qui\u00e9n Se Queda El Perro?",
         "url": "https://open.spotify.com/album/5koG6JeFEwcINyN1QuXyiq"
       },
@@ -875,18 +859,18 @@
     {
       "added_at": "2022-08-31 07:16:51",
       "album": {
-        "name": "MANTRA",
-        "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
+        "name": "La Player (Bandolera)",
+        "url": "https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi"
       },
       "artists": [
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
         }
       ],
-      "duration_ms": 229386,
-      "name": "Traicionera",
-      "url": "https://open.spotify.com/track/4Ft0391aLVNtCPPseh98lp"
+      "duration_ms": 249608,
+      "name": "La player (Bandolera)",
+      "url": "https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP"
     },
     {
       "added_at": "2022-08-31 07:16:51",
@@ -907,6 +891,22 @@
       "duration_ms": 193456,
       "name": "Downtown",
       "url": "https://open.spotify.com/track/3Ga6eKrUFf12ouh9Yw3v2D"
+    },
+    {
+      "added_at": "2022-08-31 07:16:51",
+      "album": {
+        "name": "MANTRA",
+        "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 229386,
+      "name": "Traicionera",
+      "url": "https://open.spotify.com/track/4Ft0391aLVNtCPPseh98lp"
     },
     {
       "added_at": "2022-08-31 07:16:51",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2022-08-31 07:16:51",
       "album": {
+        "name": "Terral",
+        "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 234373,
+      "name": "Pasos de cero",
+      "url": "https://open.spotify.com/track/18mmN3VrFWRi6SsSBJf6WJ"
+    },
+    {
+      "added_at": "2022-08-31 07:16:51",
+      "album": {
         "name": "Mayores",
         "url": "https://open.spotify.com/album/1oOtMDLY2ezuvrvodAxj8o"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 202453,
       "name": "Mayores",
       "url": "https://open.spotify.com/track/7JNh1cfm0eXjqFVOzKLyau"
-    },
-    {
-      "added_at": "2022-08-31 07:16:51",
-      "album": {
-        "name": "Terral",
-        "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 234373,
-      "name": "Pasos de cero",
-      "url": "https://open.spotify.com/track/18mmN3VrFWRi6SsSBJf6WJ"
     },
     {
       "added_at": "2022-08-31 07:16:51",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2022-08-31 07:16:51",
       "album": {
+        "name": "A la Mar",
+        "url": "https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE"
+      },
+      "artists": [
+        {
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+        }
+      ],
+      "duration_ms": 181466,
+      "name": "Carmes\u00ed",
+      "url": "https://open.spotify.com/track/3fk5fBFB27GbWGATdBpOgr"
+    },
+    {
+      "added_at": "2022-08-31 07:16:51",
+      "album": {
         "name": "Desconocidos",
         "url": "https://open.spotify.com/album/0vfE72mb2weKSONtBC6SPJ"
       },
@@ -1507,18 +1523,18 @@
     {
       "added_at": "2022-08-31 07:16:51",
       "album": {
-        "name": "A la Mar",
-        "url": "https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE"
+        "name": "D\u00e9jenme Llorar",
+        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
       },
       "artists": [
         {
-          "name": "Vicente Garcia",
-          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
         }
       ],
-      "duration_ms": 181466,
-      "name": "Carmes\u00ed",
-      "url": "https://open.spotify.com/track/3fk5fBFB27GbWGATdBpOgr"
+      "duration_ms": 228253,
+      "name": "Eres T\u00fa",
+      "url": "https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f"
     },
     {
       "added_at": "2022-08-31 07:16:51",
@@ -1535,22 +1551,6 @@
       "duration_ms": 234320,
       "name": "Shaky Shaky",
       "url": "https://open.spotify.com/track/7gcMKL3lnDxsp4bIXyv6Zk"
-    },
-    {
-      "added_at": "2022-08-31 07:16:51",
-      "album": {
-        "name": "D\u00e9jenme Llorar",
-        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 228253,
-      "name": "Eres T\u00fa",
-      "url": "https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f"
     },
     {
       "added_at": "2022-08-31 07:16:51",

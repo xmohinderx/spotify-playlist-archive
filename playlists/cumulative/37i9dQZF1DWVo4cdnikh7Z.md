@@ -2,9 +2,9 @@
 
 ### [Latest Tamil](https://open.spotify.com/playlist/37i9dQZF1DWVo4cdnikh7Z)
 
-> New Music from Kollywood.<br/>Cover : Ponniyin Selvan
+> New Music from Kollywood.<br/>Cover : Prince
 
-251 songs - 15 hr 44 min - [published](https://open.spotify.com/playlist/3lJTsYcdZXxaz1Tx9gEyN0)
+252 songs - 15 hr 48 min - [published](https://open.spotify.com/playlist/3lJTsYcdZXxaz1Tx9gEyN0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Beast Mode \(From "Beast"\)](https://open.spotify.com/track/1aQ58u4guUf999iQX3J2HF) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Beast Mode \(From "Beast"\)](https://open.spotify.com/album/0gTZnvc3F1cHmJTTe9OBGb) | 3:40 | 2022-04-08 | 2022-08-05 |
 | [Bejara](https://open.spotify.com/track/2jcYWhork4WHLogwgp1aKW) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Bamba Bakya](https://open.spotify.com/artist/005ppBcDhgC9mj7CgRmv1D) | [Iravin Nizhal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/322ATEabaGOKzXZUv9Ht7D) | 3:39 | 2022-07-15 | 2022-08-05 |
 | [Bejara](https://open.spotify.com/track/4FG0f1jh1VSgJ3j23B4VbF) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Bamba Bakya](https://open.spotify.com/artist/005ppBcDhgC9mj7CgRmv1D) | [Iravin Nizhal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/28ivRihqieVI2X7hf21buG) | 3:39 | 2022-06-06 | 2022-06-17 |
+| [Bimbilikki Pilapi](https://open.spotify.com/track/1Hdz67JES35Z4h3Yd4PXvV) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Ramya Behra](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv), [Sahithi Chaganti](https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM) | [Prince \(Tamil\)](https://open.spotify.com/album/6lxJ6xdX66dSk6qunfYNkA) | 4:07 | 2022-09-01 |  |
 | [Bonding Song \(From "777 Charlie \- Tamil"\)](https://open.spotify.com/track/6GqtA9B6DedZwudl3zlLUC) | [Nobin Paul](https://open.spotify.com/artist/1IePb1XERqYnAqO9dWi2pf), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4) | [Bonding Song \(From "777 Charlie \- Tamil"\)](https://open.spotify.com/album/7rZOBbCdUU9rHOpotc1xHq) | 4:28 | 2022-06-27 | 2022-07-18 |
 | [Bullet Song](https://open.spotify.com/track/78g1KU3zvKQLS5emtG9Xiu) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Haripriya](https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h) | [The Warriorr \(Tamil\)](https://open.spotify.com/album/6Q5BlmKZZMqkilmi40Sta2) | 3:57 | 2022-04-22 |  |
 | [Chellamey \- From "Poikkal Kuthirai"](https://open.spotify.com/track/47ipdCuDMiIcSuV21YW6df) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0) | [Chellamey \(From "Poikkal Kuthirai"\)](https://open.spotify.com/album/7tm4AxSXl7Eo7ERh4SEegI) | 4:02 | 2022-07-04 | 2022-07-15 |

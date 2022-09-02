@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: LANY
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,674 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,596 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 3 | [Hold Me Closer](https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Hold Me Closer](https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6) | 3:22 |
 | 4 | [Dangerous](https://open.spotify.com/track/3DpxSpi0jot0XH73uZmlul) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Dangerous](https://open.spotify.com/album/7rH6ZOH1ZnbYqUfXEJW3xP) | 3:47 |
 | 5 | [dead inside](https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [in loving memory](https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau) | 3:02 |
-| 6 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi) | 2:21 |
+| 6 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/0GxWXE6ltKk4Gx3WyWLLrW) | 2:21 |
 | 7 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 |
 | 8 | [BEAUTIFUL \(feat\. Future & SZA\)](https://open.spotify.com/track/5kYSScXYOZYyi0fxramiW6) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 3:43 |
 | 9 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 99 | [Deep End](https://open.spotify.com/track/3NE8bmyye8sEOQtWknh8Vi) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Deep End](https://open.spotify.com/album/3UbtakzdZAkZlaZxRfm35p) | 3:38 |
 | 100 | [washing off the blood](https://open.spotify.com/track/13L7MYNjVLkLqq1YnMn0IL) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [washing off the blood](https://open.spotify.com/album/4uksOCpMp8CM6UMA6B8AQf) | 2:54 |
 
-Snapshot ID: `MTY2MTQ4NjQ2MCwwMDAwMDAwMGM3NDRmZGI2MGU0NjRiY2E2ZWRhYTc0ZjhkM2I1ZDBm`
+Snapshot ID: `MTY2MTQ4NjQ2MCwwMDAwMDAwMDQxZWMwZTJiYmNlMzY4YmUyMGM4NDdlNTNkZTliNDcz`

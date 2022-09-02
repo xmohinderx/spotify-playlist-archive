@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 
 > All the vibes\. All the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,419,334 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,419,744 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 | 8 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 |
 | 9 | [Teenage Fever](https://open.spotify.com/track/6n3HGiq4v35D6eFOSwqYuo) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 3:39 |
 | 10 | [Talk 2 Me](https://open.spotify.com/track/6pPLhloHxLWiMlAT5Xn1gw) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:19 |
-| 11 | [Don't](https://open.spotify.com/track/3pXF1nA74528Edde4of9CC) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [T R A P S O U L](https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl) | 3:18 |
-| 12 | [Novacane](https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Novacane](https://open.spotify.com/album/3RYdEXhGHojkTILUdtnRVJ) | 5:02 |
+| 11 | [Novacane](https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Novacane](https://open.spotify.com/album/3RYdEXhGHojkTILUdtnRVJ) | 5:02 |
+| 12 | [Don't](https://open.spotify.com/track/3pXF1nA74528Edde4of9CC) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [T R A P S O U L](https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl) | 3:18 |
 | 13 | [Get You \(feat\. Kali Uchis\)](https://open.spotify.com/track/6N3qHjcwly8ZuhE4bPYJAX) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Get You \- Single](https://open.spotify.com/album/5qfhZ5YkZ4LhEUbYgjrWt6) | 4:37 |
 | 14 | [Fuck Alone](https://open.spotify.com/track/0YkyPP2wnuOUrD8Yv1UMW3) | [Imani Williams](https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn) | [Fuck Alone](https://open.spotify.com/album/5KlWgubv7BCPrEdB9VxPdd) | 3:21 |
 | 15 | [If I Get Caught](https://open.spotify.com/track/2S60VhuP8sgoc0D7aD2cvh) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [If I Get Caught](https://open.spotify.com/album/6Z5ow1B7KDZYRusJpyqQYS) | 3:06 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 | 94 | [Intoxicated Truth](https://open.spotify.com/track/52iaQGkgAtc4bwr1iAiVaq) | [Masati](https://open.spotify.com/artist/6Ca21SJ709vzZufDLMQakl) | [Intoxicated Truth](https://open.spotify.com/album/2XKDY407hdliXUT6i3Bcxm) | 2:56 |
 | 95 | [Not Me](https://open.spotify.com/track/2l1XKxwgWjMVZU4L0IKDUC) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9), [Shantel May](https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0) | [Not Me](https://open.spotify.com/album/4eiE9YotL6BXz6MDFuVDqF) | 3:42 |
 | 96 | [235 \(2:35 I Want You\)](https://open.spotify.com/track/5yGAyupR8TXCUq3MPb7xiK) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [235 \(2:35 I Want You\)](https://open.spotify.com/album/22xnoAzJJFvmm1iZJNDNqh) | 3:51 |
-| 97 | [Lifetime](https://open.spotify.com/track/0QZnyONVa7pEq115ZjkFNV) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Lifetime](https://open.spotify.com/album/27qgpTqm1Zkhgnis7bgjjC) | 3:09 |
-| 98 | [Come and See Me \(feat\. Drake\)](https://open.spotify.com/track/5KdhJG3BXUmLoO4JdycCPw) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Come and See Me \(feat\. Drake\)](https://open.spotify.com/album/0kKVLuYfFt1VSxaFSP0Cxb) | 3:55 |
+| 97 | [Come and See Me \(feat\. Drake\)](https://open.spotify.com/track/5KdhJG3BXUmLoO4JdycCPw) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Come and See Me \(feat\. Drake\)](https://open.spotify.com/album/0kKVLuYfFt1VSxaFSP0Cxb) | 3:55 |
+| 98 | [Lifetime](https://open.spotify.com/track/0QZnyONVa7pEq115ZjkFNV) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Lifetime](https://open.spotify.com/album/27qgpTqm1Zkhgnis7bgjjC) | 3:09 |
 | 99 | [Stole My Love](https://open.spotify.com/track/1ex37MbvUY3yBvwsh8yZVl) | [Jay Isaiah](https://open.spotify.com/artist/0oMty0VPLJbB8WAQ8otDAs) | [Stole My Love](https://open.spotify.com/album/7f44ShiYsYglLbfIwZAXOE) | 3:31 |
 | 100 | [LANSDOWNE](https://open.spotify.com/track/2xs3TjKYZ3H3zaqWfmxdFF) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [LANSDOWNE](https://open.spotify.com/album/3EFR2ie3oqo42zrUoAgR3R) | 2:33 |
 
-Snapshot ID: `MTY2MTQ3MTg1MSwwMDAwMDAwMGM1NDk2ZmMxZWJjMTY2ODc3ZjlhMTZjNjU1ZGUzMjQ3`
+Snapshot ID: `MTY2MTQ3MTg1MSwwMDAwMDAwMDBmMmE0NDlmZDg1MzkyODYxZWY1OTM5MDU4ZjA0NzM5`

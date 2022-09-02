@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 
 > Some of the most beautiful French love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,700 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,718 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 | 36 | [On va s'aimer encore](https://open.spotify.com/track/6SQxzjbQ6rFkzFC0vbTZBL) | [Vincent Vallières](https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen) | [Le monde tourne fort](https://open.spotify.com/album/1nGMO1npqc1fweNbJ7hLbj) | 4:18 |
 | 37 | [L'amour à la plage \(with Alice on the roof\)](https://open.spotify.com/track/0n1GxWrgNWZKfmDdpuAJUf) | [Suarez](https://open.spotify.com/artist/6D40RuzdpIC5ip4yL2UUvD), [Alice on the roof](https://open.spotify.com/artist/4M07FSqpxgqLfCOaX1WUei) | [Ni rancoeur ni colère](https://open.spotify.com/album/3EINJyR2I0Qke3sb9hBUte) | 2:49 |
 | 38 | [Que je t'aime](https://open.spotify.com/track/2wqHH4mITmvGf0ogwCzS5r) | [Camille](https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX) | [Ilo Veyou](https://open.spotify.com/album/0tOFyyQeAYENYub9DDloWP) | 3:43 |
-| 39 | [Le temps est bon](https://open.spotify.com/track/3XXd9jqR6IpMtxMmbMuoyn) | [Isabelle Pierre](https://open.spotify.com/artist/6defgaFYnHND3Zy5CZf8Ix) | [Le temps est bon](https://open.spotify.com/album/3DLFupu4f4MmTLy6TZv4sw) | 3:29 |
-| 40 | [Je vais t'aimer](https://open.spotify.com/track/5KwJJz1nqsu5Edy1f4HGWe) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [La famille Bélier](https://open.spotify.com/album/0jBt5J960S7MX8yqEwz8Fd) | 3:55 |
+| 39 | [Je vais t'aimer](https://open.spotify.com/track/5KwJJz1nqsu5Edy1f4HGWe) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [La famille Bélier](https://open.spotify.com/album/0jBt5J960S7MX8yqEwz8Fd) | 3:55 |
+| 40 | [Le temps est bon](https://open.spotify.com/track/3XXd9jqR6IpMtxMmbMuoyn) | [Isabelle Pierre](https://open.spotify.com/artist/6defgaFYnHND3Zy5CZf8Ix) | [Le temps est bon](https://open.spotify.com/album/3DLFupu4f4MmTLy6TZv4sw) | 3:29 |
 | 41 | [Les yeux ouverts](https://open.spotify.com/track/6BJltRcIxqomZ5X77zfwCe) | [Enzo Enzo](https://open.spotify.com/artist/4nWMNl9Y8X0eRGNoYlsAwD) | [Enzo Enzo](https://open.spotify.com/album/288K0Z8iUFaAWOXtec5Nx3) | 3:28 |
 | 42 | [Histoire d'un amour](https://open.spotify.com/track/0GRKjWdbLYWnnts6LbUE43) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [Les Annees Barclay](https://open.spotify.com/album/3bbpQ0vU7DZUADemJgig1n) | 3:05 |
 | 43 | [Boum Boum Boum](https://open.spotify.com/track/0h1yRXb0VDMH64xCsXoxaj) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [No Place In Heaven \(Special Edition\)](https://open.spotify.com/album/4ILxyc4VA9ymZVC8o6MyiX) | 3:26 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 | 63 | [Quelqu'un M'a Dit](https://open.spotify.com/track/2v9AGeylYJq2EjC9vtSr99) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Learn French Thru Music](https://open.spotify.com/album/4cK3pngh0i9tFpolN7U3cA) | 2:43 |
 | 64 | [Oublie Pas](https://open.spotify.com/track/518uaTT6eo2V8n8iuUxmWg) | [Karkwa](https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ) | [Le Volume Du Vent](https://open.spotify.com/album/5VZPXsKSKwSCspFMR55ePF) | 3:06 |
 | 65 | [Les Aurores](https://open.spotify.com/track/1AaMx4sHbjGx5h38jsjBCF) | [Mara Tremblay](https://open.spotify.com/artist/1tt3YXVP4AltaStku4rpf3) | [Mara Tremblay](https://open.spotify.com/album/7xY5VWfJROGenbou4vtfz6) | 4:05 |
-| 66 | [Tu ne sauras jamais](https://open.spotify.com/track/255h1g53lT3LmG6djeescl) | [Ludovick Bourgeois](https://open.spotify.com/artist/0cv8lN7deJS8xeHJqPf4Ay) | [La Voix 5](https://open.spotify.com/album/5lc1e0BZoxJSvbWI7l6KNW) | 4:07 |
-| 67 | [Quand j'aime une fois j'aime pour toujours](https://open.spotify.com/track/40PuSCcS6qI3J9iEJeP3od) | [Saratoga](https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn) | [Desjardins](https://open.spotify.com/album/2VPoXJSzpdtKp5VTrds7XC) | 3:24 |
+| 66 | [Quand j'aime une fois j'aime pour toujours](https://open.spotify.com/track/40PuSCcS6qI3J9iEJeP3od) | [Saratoga](https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn) | [Desjardins](https://open.spotify.com/album/2VPoXJSzpdtKp5VTrds7XC) | 3:24 |
+| 67 | [Tu ne sauras jamais](https://open.spotify.com/track/255h1g53lT3LmG6djeescl) | [Ludovick Bourgeois](https://open.spotify.com/artist/0cv8lN7deJS8xeHJqPf4Ay) | [La Voix 5](https://open.spotify.com/album/5lc1e0BZoxJSvbWI7l6KNW) | 4:07 |
 | 68 | [La bohème](https://open.spotify.com/track/2xmXyY7rye6nH5sMObxdbu) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [La Bohème](https://open.spotify.com/album/2AYkNAE68SK0xezVrJNFkC) | 4:07 |
 | 69 | [Je l'aime à mourir](https://open.spotify.com/track/4Gkand3D5w5hXmyWmLtcdT) | [Ariane Brunet](https://open.spotify.com/artist/4nW5qDmFfqfYsNEil8gqxg) | [Elles chantent Cabrel](https://open.spotify.com/album/6t2XVmjJahrLkLpkcQfss0) | 3:06 |
 | 70 | [Quand on n'a que l'amour](https://open.spotify.com/track/5mzSU1ekib32mEpmkzwDlD) | [Catherine Major](https://open.spotify.com/artist/7FCNIhja91XHhr3eMzODeh) | [Ne me quitte pas : Un hommage à Jacques Brel](https://open.spotify.com/album/5bVK75cf4sDDeF9X4hA9BQ) | 3:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 | 74 | [Jenny](https://open.spotify.com/track/66TPZLJOEAhnIYGGEbpB8G) | [Richard Desjardins](https://open.spotify.com/artist/2zZ8py1CLFzH10bc2unTpn) | [Kanasuta](https://open.spotify.com/album/44gXPii8rK7tAVoZqAQIPQ) | 3:37 |
 | 75 | [Grand Amour](https://open.spotify.com/track/1d2it6glA0gGa9to0YpuZH) | [Maissiat](https://open.spotify.com/artist/2ZUpe06uC011TqhQjBhB0n) | [Grand Amour](https://open.spotify.com/album/7EoqJ8qHetcN3wPzmG5k2I) | 3:58 |
 
-Snapshot ID: `MTY0MjgwMDAwMywwMDAwMDAwMDlhMzEzZWFkMDZkYTc0ZTk2NzEzZjBhNzU3NzcyMzFl`
+Snapshot ID: `MTY0MjgwMDAwMywwMDAwMDAwMDVhZDczMTNmMzM2MzRkMWM5ZTZiMjZjZjk2OTUyMzBm`

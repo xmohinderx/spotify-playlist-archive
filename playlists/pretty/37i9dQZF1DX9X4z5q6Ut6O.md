@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9X4z5q6Ut6O.md) - [plain]
 
 > Caminando de la mano..\. eres mi razón de ser.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,278 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,369 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9X4z5q6Ut6O.md) - [plain]
 | 13 | [Eso Y Más](https://open.spotify.com/track/7HW5tUjaKxBUamSi7nnzPt) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Más Allá Del Sol](https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM) | 2:39 |
 | 14 | [Simplemente Gracias](https://open.spotify.com/track/3K6noLeoPTQJ5jUErC8jT5) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Simplemente Gracias](https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq) | 3:23 |
 | 15 | [Nadie Como Tú](https://open.spotify.com/track/0cyP9Zil4WvqycKDRynmcP) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [La Barda Me Volé](https://open.spotify.com/album/13SwxlksMXwzpK8iAafFDh) | 3:35 |
-| 16 | [Aliado Del Tiempo](https://open.spotify.com/track/1rEdvfLrkCB4RqxI8D6ZNR) | [Mariano Barba](https://open.spotify.com/artist/0UOSIKhi6uZP7SVEJKYRMo) | [Un Cantautor Con Alma de Triunfador](https://open.spotify.com/album/4g2vkEYYuBVP72ZHbcxnU2) | 4:32 |
-| 17 | [La Mejor De Todas](https://open.spotify.com/track/1F6BAyY4iIzHiZCnUIZDbn) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [La Mejor De Todas](https://open.spotify.com/album/6YeSYcQwO0BYw0bABVuGKW) | 3:27 |
+| 16 | [La Mejor De Todas](https://open.spotify.com/track/1F6BAyY4iIzHiZCnUIZDbn) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [La Mejor De Todas](https://open.spotify.com/album/6YeSYcQwO0BYw0bABVuGKW) | 3:27 |
+| 17 | [Aliado Del Tiempo](https://open.spotify.com/track/1rEdvfLrkCB4RqxI8D6ZNR) | [Mariano Barba](https://open.spotify.com/artist/0UOSIKhi6uZP7SVEJKYRMo) | [Un Cantautor Con Alma de Triunfador](https://open.spotify.com/album/4g2vkEYYuBVP72ZHbcxnU2) | 4:32 |
 | 18 | [Si Te Falta Alguien](https://open.spotify.com/track/5KcuLISuSBnMFAPVhFnHr5) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ahora](https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS) | 3:07 |
 | 19 | [Sueño Guajiro](https://open.spotify.com/track/2V9pPYbtIaxI4canNxsDrJ) | [Colmillo Norteño](https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN) | [Sueño Guajiro](https://open.spotify.com/album/7ep8byHyAYeAYiumLDQrhr) | 3:03 |
 | 20 | [Eres Mi Crush](https://open.spotify.com/track/6ICVAdLNgkyd0k30kVDkFi) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Eres Mi Crush](https://open.spotify.com/album/0sK2BZyFjskAQMP7TYBKOp) | 2:41 |
@@ -32,13 +32,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9X4z5q6Ut6O.md) - [plain]
 | 22 | [Te Quiero Así](https://open.spotify.com/track/7cfpUwXVmVNwi0e0lKkII3) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Vencedor](https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe) | 2:51 |
 | 23 | [Recuerda](https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 2:30 |
 | 24 | [Diséñame](https://open.spotify.com/track/7tmq8wPHKYL2sKUpLpkXwP) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Un Lu\*Jo](https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q) | 3:06 |
-| 25 | [Siempre Te Voy A Querer](https://open.spotify.com/track/3VK8copXwqvAueMPhnBe6K) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Desde El Rancho](https://open.spotify.com/album/3JGd3lmLv4Z7pQUZPu6EnH) | 3:54 |
-| 26 | [Hermoso Cariño](https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernández](https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO) | 2:36 |
+| 25 | [Hermoso Cariño](https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernández](https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO) | 2:36 |
+| 26 | [Siempre Te Voy A Querer](https://open.spotify.com/track/3VK8copXwqvAueMPhnBe6K) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Desde El Rancho](https://open.spotify.com/album/3JGd3lmLv4Z7pQUZPu6EnH) | 3:54 |
 | 27 | [Dueño de Ti](https://open.spotify.com/track/7j9iuJvGg8Ve2O20CO8Oho) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Me Gusta Estar Contigo](https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG) | 3:40 |
-| 28 | [Alguien Mejor](https://open.spotify.com/track/5RG533H96YnaDKsp0aj2IL) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Inédito](https://open.spotify.com/album/0GjbNjkZ7Bp8rvzU6y8L4w) | 2:39 |
-| 29 | [Mi Bello Ángel](https://open.spotify.com/track/0DKoET2reNpTGpQMS0VXI0) | [Los Primos MX](https://open.spotify.com/artist/6N4VOBE2wNnRIINe3922Oc) | [Amor Brutal](https://open.spotify.com/album/45e9grFYy0DiOG5rIpBpIe) | 2:45 |
-| 30 | [Música Romántica](https://open.spotify.com/track/0gOwkN1piWLMINfj97SogV) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Música Romántica](https://open.spotify.com/album/5B6pvL3W5WyqxiZ8k70y8U) | 3:52 |
-| 31 | [Qué Tal Si Eres Tu](https://open.spotify.com/track/228ExGBaOYwzsAGotWXaqy) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Realidades](https://open.spotify.com/album/63Nbjb3cTqZVBuAHVOx411) | 2:58 |
+| 28 | [Mi Bello Ángel](https://open.spotify.com/track/0DKoET2reNpTGpQMS0VXI0) | [Los Primos MX](https://open.spotify.com/artist/6N4VOBE2wNnRIINe3922Oc) | [Amor Brutal](https://open.spotify.com/album/45e9grFYy0DiOG5rIpBpIe) | 2:45 |
+| 29 | [Alguien Mejor](https://open.spotify.com/track/5RG533H96YnaDKsp0aj2IL) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Inédito](https://open.spotify.com/album/0GjbNjkZ7Bp8rvzU6y8L4w) | 2:39 |
+| 30 | [Qué Tal Si Eres Tu](https://open.spotify.com/track/228ExGBaOYwzsAGotWXaqy) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Realidades](https://open.spotify.com/album/63Nbjb3cTqZVBuAHVOx411) | 2:58 |
+| 31 | [Música Romántica](https://open.spotify.com/track/0gOwkN1piWLMINfj97SogV) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Música Romántica](https://open.spotify.com/album/5B6pvL3W5WyqxiZ8k70y8U) | 3:52 |
 | 32 | [Entre Beso Y Beso](https://open.spotify.com/track/7uL1ZsdxI8l4sgEsgCmTlG) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Calidad Y Cantidad](https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl) | 3:02 |
 | 33 | [Mil Gracias Por Existir](https://open.spotify.com/track/1HAvMItHMFRlnrbOXZBL8X) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Mil Gracias Por Existir](https://open.spotify.com/album/6jVnCF1Qar2w4ZuAVkxKb6) | 3:45 |
 | 34 | [Acurrucar](https://open.spotify.com/track/0vTmuKsIgqtez9Ups70mQU) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U) | [Acurrucar](https://open.spotify.com/album/4vRkAsNoxr8aH9zsJkvvUK) | 2:58 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9X4z5q6Ut6O.md) - [plain]
 | 50 | [Perfecta](https://open.spotify.com/track/4YO9aERidTIRtBG225jr0l) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Perfecta](https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm) | 3:31 |
 | 51 | [A Mi Me Interesa](https://open.spotify.com/track/1YZkwuliEh6c0rv7gmumCG) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Detras Del Miedo](https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9) | 3:09 |
 | 52 | [MMXX's](https://open.spotify.com/track/30CpVIIuDEXt56rm6WTkM6) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [MMXX's](https://open.spotify.com/album/7GukTesEXhrBTQNjorHbKv) | 2:59 |
-| 53 | [Mi Amor Por Ti \(En Vivo\)](https://open.spotify.com/track/463qI2v2wPH2OOF5m6J8Gm) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Mi Amor Por Ti \(En Vivo\)](https://open.spotify.com/album/2uApDE90u1pYGQvHlkoAyg) | 3:59 |
-| 54 | [Mañana Voy A Conquistarla](https://open.spotify.com/track/5GFb9XV4WnIQZ3H6dr9lbd) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [El Primer Ministro](https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC) | 2:25 |
+| 53 | [Mañana Voy A Conquistarla](https://open.spotify.com/track/5GFb9XV4WnIQZ3H6dr9lbd) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [El Primer Ministro](https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC) | 2:25 |
+| 54 | [Mi Amor Por Ti \(En Vivo\)](https://open.spotify.com/track/463qI2v2wPH2OOF5m6J8Gm) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Mi Amor Por Ti \(En Vivo\)](https://open.spotify.com/album/2uApDE90u1pYGQvHlkoAyg) | 3:59 |
 | 55 | [Te Amo \(Para Siempre\)](https://open.spotify.com/track/05E5g4x7VLGiQlFN2drYHW) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [En Peligro De Extinción](https://open.spotify.com/album/0ry0G7C5xL0zOukvP0yPjt) | 4:32 |
 | 56 | [Me Gusta Todo De Ti](https://open.spotify.com/track/0lQw1AoV5ZUAatpZN0Lrl5) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Romances](https://open.spotify.com/album/6IQ9Tk73kwPmKbdnMQ7nlo) | 3:04 |
 | 57 | [Si Nos Dejan \- En Vivo](https://open.spotify.com/track/7nAvryV9PVCt9PQGPx7I0z) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [El Concierto](https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI) | 2:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9X4z5q6Ut6O.md) - [plain]
 | 74 | [Mi Tesoro](https://open.spotify.com/track/5m6szBmTaELvhSmq41oAaf) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Lo Más Romántico De](https://open.spotify.com/album/5eFvvGAuy0zFn4fmgL75mp) | 3:04 |
 | 75 | [Te Volvería A Elegir](https://open.spotify.com/track/7e8uUH6bOLxpXDm9lARsbI) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Las Número 1 De](https://open.spotify.com/album/6oplBB55aomIn5O6NSz3cd) | 3:00 |
 
-Snapshot ID: `MTY1MzM0MjgwNCwwMDAwMDAwMDgwMDhkYTFmMjYzYzI3ZjFlOWFmNzExMTY2NjFkNmU4`
+Snapshot ID: `MTY1MzM0MjgwNCwwMDAwMDAwMDc1Yjc5NjZmY2FlYjQ3N2Q4ZTcxNzAwOWQxMWM3NDYy`

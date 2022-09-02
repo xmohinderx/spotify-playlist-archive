@@ -2,7 +2,7 @@
 
 ### [Ginger Me](https://open.spotify.com/playlist/37i9dQZF1DX0SlHbqMm3vJ)
 
-> A collection of old and new R&B cuts from West Africa’s finest artists.
+> A collection of old and new R&B cuts from West Africa’s finest artists\. Cover: Preyé
 
 255 songs - 13 hr 4 min - [published](https://open.spotify.com/playlist/6c4FAtKQpbdqtWlJf4Goom)
 

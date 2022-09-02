@@ -4,7 +4,7 @@
 
 > music to help you \~ focus \~
 
-117 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/74P6RSDkuYCzrKQmY10acy)
+118 songs - 6 hr 15 min - [published](https://open.spotify.com/playlist/74P6RSDkuYCzrKQmY10acy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 | 2022-04-28 |  |
 | [Inevitable](https://open.spotify.com/track/16aUfGKznCQHHi00xCFy6v) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [You Might Not Like Her \(Clean\)](https://open.spotify.com/album/1qZD8GiN2m2wxydGdXHpYT) | 3:22 | 2022-08-11 |  |
 | [It'll Be Okay](https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [It'll Be Okay](https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r) | 3:42 | 2022-04-19 | 2022-05-25 |
-| [Kind Of Girl](https://open.spotify.com/track/04cy0BQeW4ZDLspMIfpMLv) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Kind Of Girl](https://open.spotify.com/album/7M7Qc4c1qDMdrDWXtQ4NF7) | 4:06 | 2022-04-28 |  |
+| [Kind Of Girl](https://open.spotify.com/track/04cy0BQeW4ZDLspMIfpMLv) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Kind Of Girl](https://open.spotify.com/album/7M7Qc4c1qDMdrDWXtQ4NF7) | 4:06 | 2022-04-28 | 2022-09-02 |
+| [Kind Of Girl](https://open.spotify.com/track/2kNnSv2CB0MO3O5WMspcSC) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:06 | 2022-08-22 |  |
 | [LET THE GRASS GROW](https://open.spotify.com/track/2BN5ZMErVAhbEroB99b3no) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [LET THE GRASS GROW](https://open.spotify.com/album/160bnYxuf2qbEscs8B4QOu) | 2:55 | 2022-04-19 |  |
 | [LOVE AGAIN](https://open.spotify.com/track/7lE9rczJypEToogdpOkJ2P) | [ASHWARYA](https://open.spotify.com/artist/4meOm0fRIyy8gmJ9QVpGpk) | [NOCTURNAL HOURS](https://open.spotify.com/album/6ASdDSPXkJSi5EFtaGkiOh) | 3:14 | 2022-04-19 | 2022-06-16 |
 | [Love Me Right](https://open.spotify.com/track/0knpN0bAYu21Zh1YV4bYJU) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Begin To Look Around](https://open.spotify.com/album/2pte1bb27ncC6ljxyvvMzP) | 4:19 | 2022-04-19 |  |

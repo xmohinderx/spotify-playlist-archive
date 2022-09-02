@@ -1,12 +1,12 @@
 {
   "description": "The perfect jams on a perfect summer day. Cover: Doechii & SZA",
-  "num_followers": 10580,
+  "num_followers": 10622,
   "original_name": "SUMMA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDkyMDAxOSwwMDAwMDAwMGQ5ZThkYjY0MWM0YmMxM2I3MjlmODQ1MGYyY2QxZmQ1",
+  "snapshot_id": "MTY2MDkyMDAxOSwwMDAwMDAwMDE0MWMwMWI4MDYyOGI2NDI2MGI3M2U3NGVhODBmMjMz",
   "tracks": [
     {
       "added_at": "2022-08-19 04:01:00",
@@ -399,18 +399,22 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Come Home The Kids Miss You",
-        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+        "name": "HOTEL LOBBY (Unc & Phew)",
+        "url": "https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy"
       },
       "artists": [
         {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Takeoff",
+          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
         }
       ],
-      "duration_ms": 173947,
-      "name": "First Class",
-      "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
+      "duration_ms": 142657,
+      "name": "HOTEL LOBBY (Unc & Phew)",
+      "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -475,22 +479,18 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "HOTEL LOBBY (Unc & Phew)",
-        "url": "https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy"
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
       },
       "artists": [
         {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Takeoff",
-          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 142657,
-      "name": "HOTEL LOBBY (Unc & Phew)",
-      "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
+      "duration_ms": 173947,
+      "name": "First Class",
+      "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -975,22 +975,22 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Pressurelicious (feat. Future)",
-        "url": "https://open.spotify.com/album/2Wm9AhTq7byuyEIx5QXVWJ"
+        "name": "Call Me Every Day (feat. WizKid)",
+        "url": "https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO"
       },
       "artists": [
         {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         },
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 173061,
-      "name": "Pressurelicious (feat. Future)",
-      "url": "https://open.spotify.com/track/5ZWNnO9MyPfGrUHiGWHESB"
+      "duration_ms": 146840,
+      "name": "Call Me Every Day (feat. WizKid)",
+      "url": "https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Call Me Every Day (feat. WizKid)",
-        "url": "https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "WizKid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 146840,
-      "name": "Call Me Every Day (feat. WizKid)",
-      "url": "https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "F.N.F. (Let's Go)",
         "url": "https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 137579,
       "name": "F.N.F. (Let's Go)",
       "url": "https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Pressurelicious (feat. Future)",
+        "url": "https://open.spotify.com/album/2Wm9AhTq7byuyEIx5QXVWJ"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 173061,
+      "name": "Pressurelicious (feat. Future)",
+      "url": "https://open.spotify.com/track/5ZWNnO9MyPfGrUHiGWHESB"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Traumazine",
-        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 201979,
-      "name": "Budget (feat. Latto)",
-      "url": "https://open.spotify.com/track/3BFxkzhkESwALQxjxOVFgJ"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "Breezy",
         "url": "https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 220760,
       "name": "Psychic",
       "url": "https://open.spotify.com/track/64pUytZWfCpeeMBN0XAadF"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Traumazine",
+        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 201979,
+      "name": "Budget (feat. Latto)",
+      "url": "https://open.spotify.com/track/3BFxkzhkESwALQxjxOVFgJ"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1555,38 +1555,18 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "WASTELAND",
-        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
+        "name": "MERCEDES",
+        "url": "https://open.spotify.com/album/2M3IBMpOszCjnxwG1sWOqT"
       },
       "artists": [
         {
           "name": "Brent Faiyaz",
           "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        },
-        {
-          "name": "Joony",
-          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
         }
       ],
-      "duration_ms": 198003,
-      "name": "FYTB (FEAT. JOONY)",
-      "url": "https://open.spotify.com/track/48oQGynnS8RLiYRFsJ6pDL"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "blue water road",
-        "url": "https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 207551,
-      "name": "everything",
-      "url": "https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2"
+      "duration_ms": 233069,
+      "name": "MERCEDES",
+      "url": "https://open.spotify.com/track/0tkgmjBMU6qSxolAKB3f2H"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1607,6 +1587,22 @@
       "duration_ms": 158350,
       "name": "Can't Stop Won't Stop (feat. Kodak Black)",
       "url": "https://open.spotify.com/track/4L1zI1GJxi0Qq38aSYmsS0"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "blue water road",
+        "url": "https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 207551,
+      "name": "everything",
+      "url": "https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1648,7 +1644,7 @@
           "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 174131,
+      "duration_ms": 173683,
       "name": "Keep Dissing 2 (with Lil Durk)",
       "url": "https://open.spotify.com/track/68ccsqXPhYGGTQ1RVDDtOh"
     },
@@ -1727,18 +1723,22 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "MERCEDES",
-        "url": "https://open.spotify.com/album/2M3IBMpOszCjnxwG1sWOqT"
+        "name": "WASTELAND",
+        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
       },
       "artists": [
         {
           "name": "Brent Faiyaz",
           "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        },
+        {
+          "name": "Joony",
+          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
         }
       ],
-      "duration_ms": 233069,
-      "name": "MERCEDES",
-      "url": "https://open.spotify.com/track/0tkgmjBMU6qSxolAKB3f2H"
+      "duration_ms": 198003,
+      "name": "FYTB (FEAT. JOONY)",
+      "url": "https://open.spotify.com/track/48oQGynnS8RLiYRFsJ6pDL"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1823,26 +1823,26 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Funk Wav Bounces Vol. 2",
-        "url": "https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS"
+        "name": "Snatched (Remix)",
+        "url": "https://open.spotify.com/album/1FT1bJftmXeooNZqBUANZG"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+          "name": "Big Boss Vette",
+          "url": "https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI"
         },
         {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         },
         {
-          "name": "Pusha T",
-          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+          "name": "Saucy Santana",
+          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
         }
       ],
-      "duration_ms": 200377,
-      "name": "Day One (with Pharrell & Pusha T)",
-      "url": "https://open.spotify.com/track/2wgbyESBZ7xBkxYN2bSDOL"
+      "duration_ms": 159820,
+      "name": "Snatched (with Flo Milli & Saucy Santana) - Remix",
+      "url": "https://open.spotify.com/track/214gn7n7rA6KbRIYpznXJT"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1883,26 +1883,22 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Snatched (Remix)",
-        "url": "https://open.spotify.com/album/1FT1bJftmXeooNZqBUANZG"
+        "name": "Rave & Roses",
+        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
       },
       "artists": [
         {
-          "name": "Big Boss Vette",
-          "url": "https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         },
         {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        },
-        {
-          "name": "Saucy Santana",
-          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 159820,
-      "name": "Snatched (with Flo Milli & Saucy Santana) - Remix",
-      "url": "https://open.spotify.com/track/214gn7n7rA6KbRIYpznXJT"
+      "duration_ms": 230721,
+      "name": "Time N Affection",
+      "url": "https://open.spotify.com/track/0aMOalD335v1hsSXmLURzz"
     }
   ],
   "unique_name": "SUMMA",

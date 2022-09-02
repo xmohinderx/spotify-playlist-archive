@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9wYJr1oMFq.md) - [plain]
 
 > Get nostalgic with the golden age of pop punk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,105,566 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,104,786 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9wYJr1oMFq.md) - [plain]
 | 18 | [My Own Worst Enemy](https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z) | [Lit](https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp) | [A Place In The Sun](https://open.spotify.com/album/3w5Uz3q4SJze14P60ZChsp) | 2:49 |
 | 19 | [Fat Lip](https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer, No Filler](https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim) | 2:58 |
 | 20 | [Blitzkrieg Bop \- 2016 Remaster](https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 2:14 |
-| 21 | [Dirty Little Secret](https://open.spotify.com/track/5lDriBxJd22IhOH9zTcFrV) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Move Along](https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe) | 3:13 |
-| 22 | [I'm Just a Kid](https://open.spotify.com/track/6otiaV2fagE3s8IvP6WkwG) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [No Pads, No Helmets...Just Balls \(15th Anniversary Tour Edition\)](https://open.spotify.com/album/3W6TEVlmaP22E4KvWY9HrS) | 3:18 |
+| 21 | [I'm Just a Kid](https://open.spotify.com/track/6otiaV2fagE3s8IvP6WkwG) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [No Pads, No Helmets...Just Balls \(15th Anniversary Tour Edition\)](https://open.spotify.com/album/3W6TEVlmaP22E4KvWY9HrS) | 3:18 |
+| 22 | [Dirty Little Secret](https://open.spotify.com/track/5lDriBxJd22IhOH9zTcFrV) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Move Along](https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe) | 3:13 |
 | 23 | [1985](https://open.spotify.com/track/5oQcOu1omDykbIPSdSQQNJ) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [A Hangover You Don't Deserve](https://open.spotify.com/album/43jBR9MNJk5AUuB56M0pRF) | 3:13 |
 | 24 | [Miss Murder](https://open.spotify.com/track/0Ti2dlF2xLjXblvdU5fCxM) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [DECEMBERUNDERGROUND](https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV) | 3:26 |
 | 25 | [Scotty Doesn't Know](https://open.spotify.com/track/1LkoYGxmYpO6QSEvY5C0Zl) | [Lustra](https://open.spotify.com/artist/3IJ770I1QPmwVp7yug0eJ4) | [Left for Dead](https://open.spotify.com/album/3MCqjuNms0vjGyUDQ92Ivs) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9wYJr1oMFq.md) - [plain]
 | 49 | [Be My Escape](https://open.spotify.com/track/5eK5xQl8EGzR5zYkxaDCAn) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [Mmhmm](https://open.spotify.com/album/4UZTjODd6CvRN1Lx8g6hBV) | 4:00 |
 | 50 | [No Cigar](https://open.spotify.com/track/3KLkRy9l3us98SIp6mmxkk) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Pennybridge Pioneers](https://open.spotify.com/album/5VWyJbfC4DUsnC1NLSjuWC) | 2:43 |
 
-Snapshot ID: `MTY2MDA1ODk5OSwwMDAwMDAwMDU3ZDA5NTU2ZjI3NjhjNGYwY2U3MjFkNTc5MjdmNTBl`
+Snapshot ID: `MTY2MDA1ODk5OSwwMDAwMDAwMDc1MmUzZTRlMTY2MzdhZTU2MGU1NmFlMzI3NzA5ZDU5`

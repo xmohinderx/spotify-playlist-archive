@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Claim your space with the newest songs from LGBTQIA+ artists\. Cover: Tsatsamis
 
-[Spotify](https://open.spotify.com/user/spotify) - 811,580 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 811,492 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 31 | [kaleidoscope](https://open.spotify.com/track/5bD7bhOa64aE8a0vifa5J6) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [kaleidoscope](https://open.spotify.com/album/5AVdHQYItgjzDu5qRVmONy) | 3:05 |
 | 32 | [for the girls](https://open.spotify.com/track/0ZKGfdW7a1vUIMulTbNmqM) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [for the girls](https://open.spotify.com/album/2kgCpb55LqgeaIu34UterB) | 2:37 |
 | 33 | [If It's Not God](https://open.spotify.com/track/37ZPKicPyGq9FzMdlBx5HV) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [If It's Not God](https://open.spotify.com/album/2tNcKGJQLMwvpTppUyGPGH) | 3:39 |
-| 34 | [Let Us Die](https://open.spotify.com/track/5uDo40mspcWNHDCLlKTLoJ) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 3:53 |
-| 35 | [I F\*cking Love You](https://open.spotify.com/track/7lYjepjDeboEus0v2nSqu5) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [I F\*cking Love You](https://open.spotify.com/album/2CslMUzH2LTc4rnAuATJCE) | 3:00 |
+| 34 | [I F\*cking Love You](https://open.spotify.com/track/7lYjepjDeboEus0v2nSqu5) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [I F\*cking Love You](https://open.spotify.com/album/2CslMUzH2LTc4rnAuATJCE) | 3:00 |
+| 35 | [Let Us Die](https://open.spotify.com/track/5uDo40mspcWNHDCLlKTLoJ) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 3:53 |
 | 36 | [It's Been a Little Heavy Lately](https://open.spotify.com/track/4z9VuRI0SGk6mZXRRZyT7Z) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [It's Been a Little Heavy Lately](https://open.spotify.com/album/6pemgHNxTnz4vRNNMLQCAe) | 3:41 |
 | 37 | [Holy Water](https://open.spotify.com/track/2FcbwSTgbQeweZv0bA9hI7) | [Noah Davis](https://open.spotify.com/artist/7lVbD38aVBVACNzgta9awX) | [Holy Water](https://open.spotify.com/album/0IzNmO6dTVd1jebYlk6t41) | 3:20 |
 | 38 | [The Curse of the Blackened Eye](https://open.spotify.com/track/5WhdOYLmpNgENGhtzyvEXc) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco](https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I) | 4:10 |
@@ -58,10 +58,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 48 | [I Can Only Whisper \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [ALPHA](https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K) | 2:44 |
 | 49 | [Feel It All The Time](https://open.spotify.com/track/5hfu9r4JcERCBwimhrPIUN) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Sometimes, Forever](https://open.spotify.com/album/3VXLdJpzeaAyX9Tbm0i0zn) | 3:15 |
 | 50 | [My Way](https://open.spotify.com/track/0tmMGxsxRd78NJGrMesWtx) | [Tone Sekelius](https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl) | [My Way](https://open.spotify.com/album/0pvbtMDkjdbU3XDKU6Zm6P) | 3:02 |
-| 51 | [Je te vois enfin](https://open.spotify.com/track/1SseCRcG3sW0vrcOIy0XL6) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Je te vois enfin](https://open.spotify.com/album/3wcX2bK9kNmKNVkEMKvioR) | 3:25 |
-| 52 | [I Wanna Be a Boy](https://open.spotify.com/track/5waXXk9DjEZ7LvaeDylbte) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [I Wanna Be a Boy](https://open.spotify.com/album/1CqhdFxHAyTGkmJNZMrHNw) | 3:19 |
-| 53 | [SHE CAN DANCE](https://open.spotify.com/track/5rWi2q5zyWZzQupvHJgrWB) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [SHE CAN DANCE](https://open.spotify.com/album/0ZvZsk1tWYnw35slDlTXXR) | 3:04 |
-| 54 | [just another song](https://open.spotify.com/track/3554a1PUfDZs7rKJzRhZmp) | [Kelechi](https://open.spotify.com/artist/0c62xvYMgfzgFPOXg8uhEU), [VINCINT](https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd) | [just another song](https://open.spotify.com/album/7LGIfIEZS45SFeS0HyydIj) | 2:48 |
+| 51 | [I Wanna Be a Boy](https://open.spotify.com/track/5waXXk9DjEZ7LvaeDylbte) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [I Wanna Be a Boy](https://open.spotify.com/album/1CqhdFxHAyTGkmJNZMrHNw) | 3:19 |
+| 52 | [Je te vois enfin](https://open.spotify.com/track/1SseCRcG3sW0vrcOIy0XL6) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Je te vois enfin](https://open.spotify.com/album/3wcX2bK9kNmKNVkEMKvioR) | 3:25 |
+| 53 | [just another song](https://open.spotify.com/track/3554a1PUfDZs7rKJzRhZmp) | [Kelechi](https://open.spotify.com/artist/0c62xvYMgfzgFPOXg8uhEU), [VINCINT](https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd) | [just another song](https://open.spotify.com/album/7LGIfIEZS45SFeS0HyydIj) | 2:48 |
+| 54 | [SHE CAN DANCE](https://open.spotify.com/track/5rWi2q5zyWZzQupvHJgrWB) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [SHE CAN DANCE](https://open.spotify.com/album/0ZvZsk1tWYnw35slDlTXXR) | 3:04 |
 | 55 | [I THINK YOU TURNED ME](https://open.spotify.com/track/60WZdX2EIKz5QWt6KXcgd0) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [I THINK YOU TURNED ME](https://open.spotify.com/album/3vEwn7lE02KAqyueIsflyl) | 2:12 |
 | 56 | [You're The One \- Spotify Singles](https://open.spotify.com/track/0VGgkl6AAAmr6V2jvG98CZ) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Spotify Singles](https://open.spotify.com/album/3M6qytuwCR4nljI0by2bwR) | 3:49 |
 | 57 | [Bleach](https://open.spotify.com/track/3j8mwslzqj90yjWWNwwff8) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Bleach](https://open.spotify.com/album/7ub18yc0hNRu7ImCIFzlYk) | 3:39 |
@@ -69,13 +69,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 59 | [Always Been \- Edit](https://open.spotify.com/track/7BRfaJyBsD2kixpq6TC9bS) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Always Been](https://open.spotify.com/album/10SELiFQ5TbsmxH0pmAHYs) | 3:28 |
 | 60 | [American Teenager](https://open.spotify.com/track/2k5D4U0IEcEW5eGyNtpXhH) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [American Teenager](https://open.spotify.com/album/5LFr8f5ZW3vhdaDKsIDh7a) | 4:18 |
 | 61 | [Photograph](https://open.spotify.com/track/7qG7bsMPOmiMt0uT13cLx5) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Ugly Season](https://open.spotify.com/album/6rFFWK98d8hhdSYgaOxI5L) | 4:41 |
-| 62 | [Weirdo](https://open.spotify.com/track/0aIj36K0tuJIt6kpN4Jbtq) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Inside Voices / Outside Voices](https://open.spotify.com/album/3rOh1c4zewftORLmjmV8dM) | 3:45 |
-| 63 | [Way I Go](https://open.spotify.com/track/5fMTQPtPqEGNCI9gDGTruc) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Way I Go](https://open.spotify.com/album/2BI8iTUQ5STaPPE8HowGNq) | 4:07 |
+| 62 | [Leave It On The Dancefloor](https://open.spotify.com/track/30ae9cv36eD4Q6Zc8PVF8v) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Leave It On The Dancefloor](https://open.spotify.com/album/07Vt92F3DMX0GHMKSJ6A3o) | 2:55 |
+| 63 | [Weirdo](https://open.spotify.com/track/0aIj36K0tuJIt6kpN4Jbtq) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Inside Voices / Outside Voices](https://open.spotify.com/album/3rOh1c4zewftORLmjmV8dM) | 3:45 |
 | 64 | [Homerun Hitter](https://open.spotify.com/track/5tHalhXKz1l1rCJAMzx0PG) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Homerun Hitter](https://open.spotify.com/album/7KRLrC9FUfJDXC7p2E4q11) | 4:32 |
-| 65 | [I Might Be In Love With You](https://open.spotify.com/track/1JXuz7eSjrpkI5FCdruZuN) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:37 |
-| 66 | [In My Drinks](https://open.spotify.com/track/1GQhJMCZ4oN5lJ2H8HPouL) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [In My Drinks](https://open.spotify.com/album/6dX7u9yE0pG75ufDtb2B4u) | 3:23 |
-| 67 | [Lavender Forever](https://open.spotify.com/track/3LlvRrcCyEGfI88ztZQM5r) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Lavender Forever](https://open.spotify.com/album/0lXxR8m9ZxXlxl8DLinruW) | 2:54 |
-| 68 | [Leave It On The Dancefloor](https://open.spotify.com/track/30ae9cv36eD4Q6Zc8PVF8v) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Leave It On The Dancefloor](https://open.spotify.com/album/07Vt92F3DMX0GHMKSJ6A3o) | 2:55 |
+| 65 | [Way I Go](https://open.spotify.com/track/5fMTQPtPqEGNCI9gDGTruc) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Way I Go](https://open.spotify.com/album/2BI8iTUQ5STaPPE8HowGNq) | 4:07 |
+| 66 | [I Might Be In Love With You](https://open.spotify.com/track/1JXuz7eSjrpkI5FCdruZuN) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:37 |
+| 67 | [In My Drinks](https://open.spotify.com/track/1GQhJMCZ4oN5lJ2H8HPouL) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [In My Drinks](https://open.spotify.com/album/6dX7u9yE0pG75ufDtb2B4u) | 3:23 |
+| 68 | [Lavender Forever](https://open.spotify.com/track/3LlvRrcCyEGfI88ztZQM5r) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Lavender Forever](https://open.spotify.com/album/0lXxR8m9ZxXlxl8DLinruW) | 2:54 |
 | 69 | [To You](https://open.spotify.com/track/1OoqGyjrk8s8NDoE2aW6d0) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Butterfly Blue](https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z) | 3:08 |
 | 70 | [Complex](https://open.spotify.com/track/5R1a0XN84btO27Bn5uV5BK) | [Xana](https://open.spotify.com/artist/5Ui0TOcqUVmXQORMMkMaD3) | [Tantrums](https://open.spotify.com/album/3N2z6l5poKgtLXUwPFFyuc) | 3:31 |
 | 71 | [Another Day in Paradise](https://open.spotify.com/track/6fXe5bkRkUlsIhk1hrsZ0w) | [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [Another Day In Paradise](https://open.spotify.com/album/3k5i82TCyQ0v2DNUOU7Zii) | 2:54 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 74 | [Nobody But Me \(feat\. Cold War Kids\)](https://open.spotify.com/track/4DMDtsHojzFgAKbtFYKoJ9) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Nobody But Me \(feat\. Cold War Kids\)](https://open.spotify.com/album/5Q4MnV0Phqr0R5eEM78Ycr) | 3:44 |
 | 75 | [stupid games](https://open.spotify.com/track/3wHX2s10YcSPt6ftT9qKwv) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [homecoming!](https://open.spotify.com/album/6oxQZpgS63Ah61H7fjsGHC) | 3:12 |
 
-Snapshot ID: `MTY2MTUyNzI0OSwwMDAwMDAwMGNhNTNkYjQ5ZTU1MzZiYmUyMDY5Y2E0NjkzM2I1OTg3`
+Snapshot ID: `MTY2MTUyNzI0OSwwMDAwMDAwMDFmMjI3Zjk0NjZjN2FhZmY1ZDA5ZmRjZmNlZTcwZTQz`

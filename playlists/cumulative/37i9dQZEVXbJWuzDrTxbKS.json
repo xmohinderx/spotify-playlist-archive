@@ -6555,7 +6555,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 208706,
       "name": "House of Memories",
       "url": "https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ"
@@ -14940,6 +14940,24 @@
     },
     {
       "album": {
+        "name": "Born To Die (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2GGstjn2lepcltXd21I24t"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264773,
+      "name": "Summertime Sadness",
+      "url": "https://open.spotify.com/track/1FEiijYPJtyswChfcpv3p0"
+    },
+    {
+      "album": {
         "name": "Sundress",
         "url": "https://open.spotify.com/album/3AlyvIIMZyT5LjWFeK5LSl"
       },
@@ -14955,6 +14973,28 @@
       "duration_ms": 158205,
       "name": "Sundress",
       "url": "https://open.spotify.com/track/2aPTvyE09vUCRwVvj0I8WK"
+    },
+    {
+      "album": {
+        "name": "Sunroof",
+        "url": "https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        },
+        {
+          "name": "dazy",
+          "url": "https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163025,
+      "name": "Sunroof",
+      "url": "https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8"
     },
     {
       "album": {
@@ -15811,7 +15851,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 265798,
       "name": "There\u2019d Better Be A Mirrorball",
       "url": "https://open.spotify.com/track/0yowbJnnbTLpr99f9l1uba"

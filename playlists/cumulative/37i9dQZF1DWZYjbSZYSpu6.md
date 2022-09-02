@@ -2,9 +2,9 @@
 
 ### [K\-Pop Duets \(러블리 듀엣\)](https://open.spotify.com/playlist/37i9dQZF1DWZYjbSZYSpu6)
 
-> Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: YERI, Sam Kim\(예리, 샘김\)\)
+> Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: MAMAMOO+, Big Naughty\)
 
-196 songs - 11 hr 46 min - [published](https://open.spotify.com/playlist/3XvJZtxjOxsmcdtLvwdndV)
+197 songs - 11 hr 49 min - [published](https://open.spotify.com/playlist/3XvJZtxjOxsmcdtLvwdndV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Based On A True Story \(Feat\. HEIZE\)](https://open.spotify.com/track/0ORoBq47N6JHgFXq52UAtM) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Epik High Is Here 上 \(Part 1\)](https://open.spotify.com/album/5MH95tw9aZo7ayqkfsRzMu) | 3:54 | 2022-07-25 | 2022-08-19 |
 | [Be Your Enemy](https://open.spotify.com/track/1ssN3REdzr9dUIZ6T8rD1T) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Never Gonna Dance Again : Act 2 \- The 3rd Album](https://open.spotify.com/album/3xgFGYUOVxGp7pZywdf7AC) | 3:35 | 2022-03-24 | 2022-07-29 |
 | [Beautiful Mint Life](https://open.spotify.com/track/7qKkB9oyLR3af8C17eFkqP) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV), [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Beautiful Mint Life](https://open.spotify.com/album/01rorj7OHIYYw5cfQzUwIi) | 3:24 | 2022-04-21 | 2022-07-25 |
+| [Better \(Feat\. BIG Naughty\)](https://open.spotify.com/track/6JO6fHEpjYE8ILDhweIqQj) | [MAMAMOO+](https://open.spotify.com/artist/3TESxOg8FArtQHKt4hKEoZ), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Better](https://open.spotify.com/album/65RvaP3P2DdeC0QoL0eean) | 3:06 | 2022-09-01 |  |
 | [Between You And Me \(feat\. Kang Min Hee\)](https://open.spotify.com/track/0zHLujbDWN1tylCfDoo670) | [Siyoon](https://open.spotify.com/artist/3dLG806ZDpPYdtXXTnCrAU), [Kang Min Hee](https://open.spotify.com/artist/3yvJrrnTj0rlI3DJ8NMnKH) | [Cubism](https://open.spotify.com/album/6mzi5YwqEwSPpMSKL9Eea4) | 3:45 | 2022-03-24 | 2022-04-21 |
 | [Beyond the Stars \(feat\. Ashley Alisha\)](https://open.spotify.com/track/7H1KWuGKdKkOFSIGTtZTr1) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk) | [Beyond the Stars](https://open.spotify.com/album/5mhp9NqSX2vksUTTFG2O1o) | 3:17 | 2022-03-24 |  |
 | [Blanket \(feat\. Wonstein\)](https://open.spotify.com/track/1A03hQduqL0zSx6s90c2kV) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Blanket](https://open.spotify.com/album/6JJgCrqlob8AaNBNu2vzRF) | 3:32 | 2022-03-24 | 2022-06-22 |
@@ -193,7 +194,7 @@
 | [You & Love \(feat\. Kate Kim\)](https://open.spotify.com/track/4IO7iRsmxWNlSX4RVJgxkU) | [Siyoon](https://open.spotify.com/artist/3dLG806ZDpPYdtXXTnCrAU), [LILAC](https://open.spotify.com/artist/2klhHHmpW7xu4lmdLm7ULj) | [Cubism](https://open.spotify.com/album/6mzi5YwqEwSPpMSKL9Eea4) | 3:14 | 2022-03-24 | 2022-07-22 |
 | [You are coming](https://open.spotify.com/track/6r9t5vfOccXMj1Us9oR871) | [눈](https://open.spotify.com/artist/4JSbAMgMvf4Y9Xv9FVqEHd), [아이니](https://open.spotify.com/artist/4uDbcd3mC286Hb9HEIc5j6) | [You Are Coming](https://open.spotify.com/album/48p2M4fZHwqsk3XixCSDVj) | 4:15 | 2022-03-24 | 2022-05-31 |
 | [You're here with Rain 비 오는 날이 좋아질 것 같아 \(With Chamsom\)](https://open.spotify.com/track/3sHe6Zqj9BVYqNHmV8YvOx) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Chamsom](https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi) | [You're here with Rain 비 오는 날이 좋아질 것 같아 \(With Chamsom\)](https://open.spotify.com/album/7v0pFPnfFlTIiXxWXQipYZ) | 3:33 | 2022-03-24 | 2022-07-29 |
-| [You, Who?](https://open.spotify.com/track/5WLLVrfFNbseupmtv0p2B1) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [You, Who?](https://open.spotify.com/album/2VJD2d4spfkILWzOmHEd4i) | 3:39 | 2022-05-03 |  |
+| [You, Who?](https://open.spotify.com/track/5WLLVrfFNbseupmtv0p2B1) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [You, Who?](https://open.spotify.com/album/2VJD2d4spfkILWzOmHEd4i) | 3:39 | 2022-05-03 | 2022-09-02 |
 | [Your Scent \(feat\. Kim Min Ki\)](https://open.spotify.com/track/7gNmBWybrfvC54kl980igz) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3), [Kim Min Ki](https://open.spotify.com/artist/0vcaB67WgOvbcyhMvLpcXr) | [Your Scent \(feat\. Kim Min Ki\)](https://open.spotify.com/album/2BCQe1hxo8uwyOpjdl1FdM) | 4:00 | 2022-03-24 | 2022-04-21 |
 | [그런 밤 Night Reminiscin’ \(with Yang Da Il\)](https://open.spotify.com/track/2ytM3e2Ma9sc7h5jW9Sa0P) | [LUNA](https://open.spotify.com/artist/56HZvtrzD82YKMGGJTlIG2), [Yang Dail](https://open.spotify.com/artist/3NEbGrK1xXcTac2hAWaDOM) | [Night Reminiscin’](https://open.spotify.com/album/6CWt70vxTuufx0Qi0wlntq) | 3:48 | 2022-05-11 | 2022-07-07 |
 | [긴 밤 \(feat\. GIRIBOY\)](https://open.spotify.com/track/5YAO57ujV1cs5eubzyOL1E) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [긴 밤 \(feat\. GIRIBOY\)](https://open.spotify.com/album/3AuhCLxpvg4gWl2Oi8D043) | 3:30 | 2022-03-24 |  |

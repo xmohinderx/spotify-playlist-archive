@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 3890,
+  "num_followers": 3918,
   "original_name": "\uc378",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgzMjYyNSwwMDAwMDAwMDVhMmQ4ZWI1N2I3MjFiMzgxODFiM2U2YTQ0YTE1OTNj",
+  "snapshot_id": "MTY2MDgzMjYyNSwwMDAwMDAwMGJkOThiZWJmZDJmMzk3OTZiMjE5OWY0N2VjODIwNTVi",
   "tracks": [
     {
       "added_at": "2022-08-18 14:23:45",
@@ -359,42 +359,6 @@
     {
       "added_at": "2022-08-18 14:23:45",
       "album": {
-        "name": "You, Who?",
-        "url": "https://open.spotify.com/album/2VJD2d4spfkILWzOmHEd4i"
-      },
-      "artists": [
-        {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
-        },
-        {
-          "name": "JEON SOMI",
-          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
-        }
-      ],
-      "duration_ms": 219330,
-      "name": "You, Who?",
-      "url": "https://open.spotify.com/track/5WLLVrfFNbseupmtv0p2B1"
-    },
-    {
-      "added_at": "2022-08-18 14:23:45",
-      "album": {
-        "name": "START-UP (Original Television Soundtrack) Pt. 6",
-        "url": "https://open.spotify.com/album/7wzFqr0yCbjdcjjKpfBi1B"
-      },
-      "artists": [
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 183320,
-      "name": "Where Is Dream",
-      "url": "https://open.spotify.com/track/1hFOLJ9bQfZu3tlbHaLCGf"
-    },
-    {
-      "added_at": "2022-08-18 14:23:45",
-      "album": {
         "name": "UH-RA? with KozyPop",
         "url": "https://open.spotify.com/album/7JWfmdSg7VBvgi2gQA9Xib"
       },
@@ -415,6 +379,42 @@
       "duration_ms": 217320,
       "name": "UH-RA? (feat. dress)",
       "url": "https://open.spotify.com/track/7nqpSc48taCt7DpPX8XTI9"
+    },
+    {
+      "added_at": "2022-08-18 14:23:45",
+      "album": {
+        "name": "START-UP (Original Television Soundtrack) Pt. 6",
+        "url": "https://open.spotify.com/album/7wzFqr0yCbjdcjjKpfBi1B"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 183320,
+      "name": "Where Is Dream",
+      "url": "https://open.spotify.com/track/1hFOLJ9bQfZu3tlbHaLCGf"
+    },
+    {
+      "added_at": "2022-08-18 14:23:45",
+      "album": {
+        "name": "You, Who?",
+        "url": "https://open.spotify.com/album/2VJD2d4spfkILWzOmHEd4i"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        },
+        {
+          "name": "JEON SOMI",
+          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+        }
+      ],
+      "duration_ms": 219330,
+      "name": "You, Who?",
+      "url": "https://open.spotify.com/track/5WLLVrfFNbseupmtv0p2B1"
     },
     {
       "added_at": "2022-08-18 14:23:45",
@@ -487,6 +487,22 @@
     {
       "added_at": "2022-08-18 14:23:45",
       "album": {
+        "name": "bimil:ier vol.1 \"so this is love\"",
+        "url": "https://open.spotify.com/album/5uGkgOzshdeNMMsR34kucM"
+      },
+      "artists": [
+        {
+          "name": "DAY6 (Even of Day)",
+          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
+        }
+      ],
+      "duration_ms": 203425,
+      "name": "so this is love",
+      "url": "https://open.spotify.com/track/18xXVZwosvArMOJOs7wd6S"
+    },
+    {
+      "added_at": "2022-08-18 14:23:45",
+      "album": {
         "name": "Under the Oak Tree (Original Soundtrack), Part. 4",
         "url": "https://open.spotify.com/album/5zJVeHgHrwJ3m24sSMSrTV"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 192493,
       "name": "Telepathy",
       "url": "https://open.spotify.com/track/1xbxSb7zTHysqWZmjFdJ2n"
-    },
-    {
-      "added_at": "2022-08-18 14:23:45",
-      "album": {
-        "name": "bimil:ier vol.1 \"so this is love\"",
-        "url": "https://open.spotify.com/album/5uGkgOzshdeNMMsR34kucM"
-      },
-      "artists": [
-        {
-          "name": "DAY6 (Even of Day)",
-          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
-        }
-      ],
-      "duration_ms": 203425,
-      "name": "so this is love",
-      "url": "https://open.spotify.com/track/18xXVZwosvArMOJOs7wd6S"
     },
     {
       "added_at": "2022-08-18 14:23:45",
@@ -843,6 +843,22 @@
     {
       "added_at": "2022-08-18 14:23:45",
       "album": {
+        "name": "Farmers (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4imnAiy9VXoGhPYoqdns9j"
+      },
+      "artists": [
+        {
+          "name": "Lee Aram",
+          "url": "https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1"
+        }
+      ],
+      "duration_ms": 157386,
+      "name": "Strawberry Smoothie",
+      "url": "https://open.spotify.com/track/4Fa5yirnUwGuELJ3t054mz"
+    },
+    {
+      "added_at": "2022-08-18 14:23:45",
+      "album": {
         "name": "Weekday is long, Weekend is gone",
         "url": "https://open.spotify.com/album/2P4txqRH8hlDQLBoMnXlIl"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 175192,
       "name": "Stupid (feat. Amin & H!)",
       "url": "https://open.spotify.com/track/6tgPZHN5aSPU3IFxcG7V6r"
-    },
-    {
-      "added_at": "2022-08-18 14:23:45",
-      "album": {
-        "name": "Farmers (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/4imnAiy9VXoGhPYoqdns9j"
-      },
-      "artists": [
-        {
-          "name": "Lee Aram",
-          "url": "https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1"
-        }
-      ],
-      "duration_ms": 157386,
-      "name": "Strawberry Smoothie",
-      "url": "https://open.spotify.com/track/4Fa5yirnUwGuELJ3t054mz"
     }
   ],
   "unique_name": "\uc378",

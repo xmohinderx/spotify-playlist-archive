@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vnBrKB7FwM.md) - [plain]
 
 > Porque Colombia es tierra de MCs, Rap y Hip\-Hop\. Foto: La Etnnia
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,201 likes - 70 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,231 likes - 70 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vnBrKB7FwM.md) - [plain]
 | 59 | [Perro Juan](https://open.spotify.com/track/4gESe0aw8NIybCS6mFVx9P) | [Luis7Lunes](https://open.spotify.com/artist/6IQraFTvYMjzlx6AsrmsuB), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij) | [Perro Juan](https://open.spotify.com/album/114p6iuem4oWYj3BhZiA7y) | 2:07 |
 | 60 | [Esperaré por Ti](https://open.spotify.com/track/36Rix2ddUNOg7eMJOEGxNk) | [Aerophon](https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep) | [Esperaré por Ti](https://open.spotify.com/album/4OptL4DWShK5i4P1XP6V2Y) | 3:50 |
 | 61 | [Murderah](https://open.spotify.com/track/70IHmmLDvJD2wzdqkbIjLi) | [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd), [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo) | [Murderah](https://open.spotify.com/album/5fGkMu6qo9R5kzH5Nsss7T) | 4:57 |
-| 62 | [Renace](https://open.spotify.com/track/3d9JEd8TuNfZMrvfVyrBFJ) | [Frank Takuma](https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF) | [De Vuelta al Sol](https://open.spotify.com/album/5BXQQzcoEgxHGhkPPFn3H8) | 2:31 |
+| 62 | [Renace](https://open.spotify.com/track/02nx5tMIZ9upPdoyt6zhWD) | [Frank Takuma](https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF) | [Renace](https://open.spotify.com/album/6Jps3FkjuosN5ARZuQ56MQ) | 2:31 |
 | 63 | [Otra Pa' Mi Cuenta](https://open.spotify.com/track/7kCRdqtRVssyEZEfUSECWZ) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Otra Pa' Mi Cuenta \- Single](https://open.spotify.com/album/0UGuJH97dHiHsQTUpy6puf) | 2:50 |
 | 64 | [De la Cuna al Ataud](https://open.spotify.com/track/6IvOJYhT1frsjHtYQYHKhl) | [La Etnnia](https://open.spotify.com/artist/5g03v1dieHbVUP47XeXk7H), [Full Nelson](https://open.spotify.com/artist/4R98y7MxLluiK7NVDB3Ur9) | [Real](https://open.spotify.com/album/5if6wXKwPFKHXfjA1TlkD5) | 4:10 |
 | 65 | [Noicanicula](https://open.spotify.com/track/3IalZWzPrxDvh3n2hNBSKI) | [La Etnnia](https://open.spotify.com/artist/5g03v1dieHbVUP47XeXk7H) | [El Ataque del Metano](https://open.spotify.com/album/6hKScNAjmff6t6l2qLCHhL) | 4:10 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vnBrKB7FwM.md) - [plain]
 | 69 | [Deja](https://open.spotify.com/track/3rFQdyT9s0sg1zEaYQmJ45) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Mestizo](https://open.spotify.com/album/0eDsjuoAukMeT8fy9RDG9f) | 3:31 |
 | 70 | [Horas Extras](https://open.spotify.com/track/5oFX4zn4CIDN0l2RCVuObT) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53), [DJ Dmoe](https://open.spotify.com/artist/0UO7aldjXU5OjHiYKXUwrK) | [Todos Tienen Que Comer](https://open.spotify.com/album/6vPnYHNVtdT9V76xUy3e2d) | 3:52 |
 
-Snapshot ID: `MTY1Nzg2MTA2NCwwMDAwMDAwMDZjMWEzNzEwOTVlMzIwYzViMTc0MGUzNDlhN2MyNjRm`
+Snapshot ID: `MTY1Nzg2MTA2NCwwMDAwMDAwMDY2YWM1NzYwNzJlNjllZWI0NTJiNTBmZmQyNjQ1MmZl`

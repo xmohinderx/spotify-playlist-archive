@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 ### [Spotify Singles: Complete Collection](https://open.spotify.com/playlist/37i9dQZF1DWTUm9HjVUKnL)
 
-> Spotify Singles\. Like nothing you’ve heard before\.  Cover: Glass Animals, Arooj Aftab, and The Kid LAROI.
+> Spotify Singles\. Like nothing you’ve heard before\.  Cover: Giveon
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,013 likes - 780 songs - 1 day 23 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,989 likes - 780 songs - 1 day 23 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -789,4 +789,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 779 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 |
 | 780 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
 
-Snapshot ID: `MTY2MTk2NTE4NywwMDAwMDAwMDRlNTk3NzMyNDBhZjUzZjY3YmY5NWJjNjQzZGE1ZGY3`
+Snapshot ID: `MTY2MjA1NTgyNywwMDAwMDAwMDJjODQzOGFiYjJkNzk1ZGVkZTJmOTU1ZGFlZjE2MzQz`

@@ -1,12 +1,12 @@
 {
   "description": "Slow jams from West Africa that unwind and relax",
-  "num_followers": 7310,
+  "num_followers": 7328,
   "original_name": "Chill Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg2MzYwMCwwMDAwMDAwMDE3MDBkMDAyYjViMjA2OTE3NjE3YjNjODU2ZTJmNWEx",
+  "snapshot_id": "MTY2MjA3MzIwMCwwMDAwMDAwMDVmNTc1N2ExOTBiZjU4NDFjMjY5YWU1ZjA3MDIwMTk4",
   "tracks": [
     {
       "added_at": "2022-06-09 23:00:00",
@@ -145,6 +145,22 @@
       "url": "https://open.spotify.com/track/2c00DlvpzthGKcyXpe5GHa"
     },
     {
+      "added_at": "2022-09-01 23:00:00",
+      "album": {
+        "name": "Eye to Eye",
+        "url": "https://open.spotify.com/album/2lqCLCQj0prUEwqEDxRKIy"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 156771,
+      "name": "Eye to Eye",
+      "url": "https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz"
+    },
+    {
       "added_at": "2022-07-08 06:11:04",
       "album": {
         "name": "Comforter (feat. Ayra Starr)",
@@ -163,6 +179,22 @@
       "duration_ms": 216000,
       "name": "Comforter (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/2Vr7Qvt5a9f6W9m6ifke4K"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Beautifully",
+        "url": "https://open.spotify.com/album/2jE8QxForZdlDrQjazefhx"
+      },
+      "artists": [
+        {
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "duration_ms": 169844,
+      "name": "Beautifully",
+      "url": "https://open.spotify.com/track/7mFrwc86C3vZKobwpK0jdH"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -195,18 +227,18 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Beautifully",
-        "url": "https://open.spotify.com/album/2jE8QxForZdlDrQjazefhx"
+        "name": "Crazy Tings",
+        "url": "https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR"
       },
       "artists": [
         {
-          "name": "Fave",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 169844,
-      "name": "Beautifully",
-      "url": "https://open.spotify.com/track/7mFrwc86C3vZKobwpK0jdH"
+      "duration_ms": 182400,
+      "name": "Crazy Tings",
+      "url": "https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -227,38 +259,6 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Crazy Tings",
-        "url": "https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Crazy Tings",
-      "url": "https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "The Second Wave",
-        "url": "https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 206775,
-      "name": "Snapchat",
-      "url": "https://open.spotify.com/track/10m1yYuud3w7bb43srjbWi"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ"
       },
@@ -275,6 +275,38 @@
       "duration_ms": 174117,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
+    },
+    {
+      "added_at": "2022-09-01 23:00:00",
+      "album": {
+        "name": "san siro",
+        "url": "https://open.spotify.com/album/5wlpYMbCXl8pBQu6mx5xQD"
+      },
+      "artists": [
+        {
+          "name": "YKB",
+          "url": "https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE"
+        }
+      ],
+      "duration_ms": 194318,
+      "name": "san siro",
+      "url": "https://open.spotify.com/track/59PSEuGHBGLvgZGXC4wpvG"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "The Second Wave",
+        "url": "https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 206775,
+      "name": "Snapchat",
+      "url": "https://open.spotify.com/track/10m1yYuud3w7bb43srjbWi"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -563,6 +595,22 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
+        "name": "Peace Of Mind",
+        "url": "https://open.spotify.com/album/7uqB8voCddKMJcP2Qee1yP"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 208692,
+      "name": "Peace Of Mind",
+      "url": "https://open.spotify.com/track/5xZEUteaWi0jFAGAKPPWw0"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d"
       },
@@ -579,22 +627,6 @@
       "duration_ms": 187500,
       "name": "IDG",
       "url": "https://open.spotify.com/track/3k9Y1OBtIdPQNqbKILvJcD"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Peace Of Mind",
-        "url": "https://open.spotify.com/album/7uqB8voCddKMJcP2Qee1yP"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 208692,
-      "name": "Peace Of Mind",
-      "url": "https://open.spotify.com/track/5xZEUteaWi0jFAGAKPPWw0"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -667,22 +699,6 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Mayana",
-        "url": "https://open.spotify.com/album/3ZW36cj6b0bNOrcICqqsek"
-      },
-      "artists": [
-        {
-          "name": "A\u1e63a",
-          "url": "https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Mayana",
-      "url": "https://open.spotify.com/track/0SVGaPNKJYl3JtVoScM7tF"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
         "name": "APOLLO",
         "url": "https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq"
       },
@@ -695,6 +711,22 @@
       "duration_ms": 172191,
       "name": "ELI",
       "url": "https://open.spotify.com/track/2NZG481vNSuLTBbGl1SFKj"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Mayana",
+        "url": "https://open.spotify.com/album/3ZW36cj6b0bNOrcICqqsek"
+      },
+      "artists": [
+        {
+          "name": "A\u1e63a",
+          "url": "https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Mayana",
+      "url": "https://open.spotify.com/track/0SVGaPNKJYl3JtVoScM7tF"
     },
     {
       "added_at": "2022-08-18 23:00:00",
@@ -933,22 +965,6 @@
       "url": "https://open.spotify.com/track/3hRxhSMgoOtUt4IucTomlM"
     },
     {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Brunch",
-        "url": "https://open.spotify.com/album/2cQ86acGp5LQatlnXdrDec"
-      },
-      "artists": [
-        {
-          "name": "Noon Dave",
-          "url": "https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "Brunch",
-      "url": "https://open.spotify.com/track/2uka2kAlD8m3yUXT0iZKv6"
-    },
-    {
       "added_at": "2022-07-28 23:00:00",
       "album": {
         "name": "CHERRY SWEET",
@@ -971,22 +987,18 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Trobul",
-        "url": "https://open.spotify.com/album/0rR5whQcGWozzVgQ9XV2VS"
+        "name": "Brunch",
+        "url": "https://open.spotify.com/album/2cQ86acGp5LQatlnXdrDec"
       },
       "artists": [
         {
-          "name": "Sarz",
-          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
-        },
-        {
-          "name": "WurlD",
-          "url": "https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn"
+          "name": "Noon Dave",
+          "url": "https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm"
         }
       ],
-      "duration_ms": 242026,
-      "name": "Trobul",
-      "url": "https://open.spotify.com/track/3mitop70iyN03AreLNsit4"
+      "duration_ms": 181333,
+      "name": "Brunch",
+      "url": "https://open.spotify.com/track/2uka2kAlD8m3yUXT0iZKv6"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1007,6 +1019,26 @@
       "duration_ms": 171428,
       "name": "Dutty Love",
       "url": "https://open.spotify.com/track/6k7TGPkAitlkUamq2maMNT"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Trobul",
+        "url": "https://open.spotify.com/album/0rR5whQcGWozzVgQ9XV2VS"
+      },
+      "artists": [
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        },
+        {
+          "name": "WurlD",
+          "url": "https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn"
+        }
+      ],
+      "duration_ms": 242026,
+      "name": "Trobul",
+      "url": "https://open.spotify.com/track/3mitop70iyN03AreLNsit4"
     },
     {
       "added_at": "2022-08-05 07:48:26",
@@ -1145,22 +1177,6 @@
       "url": "https://open.spotify.com/track/1nzmbzGyRa3X8n3s0AAubj"
     },
     {
-      "added_at": "2022-08-18 23:00:00",
-      "album": {
-        "name": "World In My Hands",
-        "url": "https://open.spotify.com/album/7mQHiL0qIDYoHqUiBQ5ImB"
-      },
-      "artists": [
-        {
-          "name": "LAVI$H",
-          "url": "https://open.spotify.com/artist/0bW7J4hzno0eMC5TFZfDou"
-        }
-      ],
-      "duration_ms": 198058,
-      "name": "World In My Hands",
-      "url": "https://open.spotify.com/track/5bYIDjsBb5mjKQdNfFj0fJ"
-    },
-    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "alright, ok",
@@ -1175,6 +1191,22 @@
       "duration_ms": 173333,
       "name": "alright, ok",
       "url": "https://open.spotify.com/track/4Bp14ZatP44ZXsCjZ0iTjL"
+    },
+    {
+      "added_at": "2022-08-18 23:00:00",
+      "album": {
+        "name": "World In My Hands",
+        "url": "https://open.spotify.com/album/7mQHiL0qIDYoHqUiBQ5ImB"
+      },
+      "artists": [
+        {
+          "name": "LAVI$H",
+          "url": "https://open.spotify.com/artist/0bW7J4hzno0eMC5TFZfDou"
+        }
+      ],
+      "duration_ms": 198058,
+      "name": "World In My Hands",
+      "url": "https://open.spotify.com/track/5bYIDjsBb5mjKQdNfFj0fJ"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1439,66 +1471,6 @@
       "duration_ms": 149311,
       "name": "loving is harder",
       "url": "https://open.spotify.com/track/3FFTifOMJ6jUNxTELrRasy"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Jump On It (REMIX)",
-        "url": "https://open.spotify.com/album/3JI4J8tbDetUugD4Dn7CU8"
-      },
-      "artists": [
-        {
-          "name": "Bankyondbeatz",
-          "url": "https://open.spotify.com/artist/7DpKQ2Ynq3k9C1zgV8fxJV"
-        },
-        {
-          "name": "Tim Lyre",
-          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
-        },
-        {
-          "name": "Sut\u00e9 Iwar",
-          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
-        }
-      ],
-      "duration_ms": 165981,
-      "name": "Jump On It - Sut\u00e9 Iwar Remix",
-      "url": "https://open.spotify.com/track/6lpkLT4vmzTAyDJA8SF5bF"
-    },
-    {
-      "added_at": "2022-07-22 04:30:52",
-      "album": {
-        "name": "Want This",
-        "url": "https://open.spotify.com/album/1RFGquNgtyqEEboRGlHzsb"
-      },
-      "artists": [
-        {
-          "name": "Amara Tari",
-          "url": "https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd"
-        },
-        {
-          "name": "QRITIQAL",
-          "url": "https://open.spotify.com/artist/578R7lup6wk8R3TcWYLvd1"
-        }
-      ],
-      "duration_ms": 166997,
-      "name": "Want This",
-      "url": "https://open.spotify.com/track/3JBRzPmIWSqGVCVUvKnxaL"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Ada",
-        "url": "https://open.spotify.com/album/6nZ7n5DR6sqV7AqsGAithg"
-      },
-      "artists": [
-        {
-          "name": "J'Dess",
-          "url": "https://open.spotify.com/artist/2aUctDbYODpqWfleSUpK6s"
-        }
-      ],
-      "duration_ms": 230932,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/3xBSBXvY0mSQuiWh58XP05"
     }
   ],
   "unique_name": "Chill Bops",

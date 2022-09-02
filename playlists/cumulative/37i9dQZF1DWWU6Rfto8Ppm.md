@@ -4,7 +4,7 @@
 
 > Acuérdate de estas canciones clásicas\. Foto: Wisin & Yandel, el Dúo de la Historia.
 
-339 songs - 20 hr 31 min - [published](https://open.spotify.com/playlist/5SgU8PR0wDw30k07Az00VU)
+340 songs - 20 hr 35 min - [published](https://open.spotify.com/playlist/5SgU8PR0wDw30k07Az00VU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,7 +255,7 @@
 | [Saoco](https://open.spotify.com/track/5c9CsmVAhOQ5jQKwmNd5fk) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [El Sobreviviente](https://open.spotify.com/album/4k5YrELX73vK5ALegjEReh) | 3:04 | 2021-12-17 |  |
 | [Se Siente Bien](https://open.spotify.com/track/52xtApt0X5IZpV88lcSnnf) | [Dragon & Caballero](https://open.spotify.com/artist/4uRH0vTYaGWjG1MK8K8RPE) | [Se Siente Bien \(Special Edition\)](https://open.spotify.com/album/3bTxKb6I54lCSPkP385Ko8) | 4:04 | 2021-12-17 | 2022-07-29 |
 | [Se Siente Bien](https://open.spotify.com/track/5OWejFBYolv53n4SvVvoYY) | [Dragon & Caballero](https://open.spotify.com/artist/4uRH0vTYaGWjG1MK8K8RPE) | [Dragón & Caballero](https://open.spotify.com/album/6Xj4l9lZzekje9ATHdGRzS) | 4:06 | 2022-07-27 |  |
-| [Se Vale To\-To](https://open.spotify.com/track/3SXo6PO3z3C0laMLCK9T7h) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [Calle 13 \(Explicit Version\)](https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16) | 3:50 | 2022-07-27 |  |
+| [Se Vale To\-To](https://open.spotify.com/track/3SXo6PO3z3C0laMLCK9T7h) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [Calle 13 \(Explicit Version\)](https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16) | 3:50 | 2022-07-27 | 2022-09-02 |
 | [Secretos](https://open.spotify.com/track/0ezA5xFPmYbWdlq6LF0juY) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [Secretos](https://open.spotify.com/album/7x3fxxIu6PzxM58xPYMNYx) | 3:38 | 2022-05-13 |  |
 | [Sensacion Del Bloque](https://open.spotify.com/track/5clFSlfkCRlhnH1cAQjSBi) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Reggaeton Rulers: Los Que Ponen](https://open.spotify.com/album/369oPiSP9Y3CzTR6uWU4Da) | 3:02 | 2021-12-17 |  |
 | [Sexo En La Playa](https://open.spotify.com/track/7000lIDeQQURNIsLINOYZo) | [Ñejo & Dalmata](https://open.spotify.com/artist/1ykothWH0xl8drRyJWuw7I) | [Broke & Famous](https://open.spotify.com/album/35ejmbRlV32Qng9jGF34ve) | 3:38 | 2021-12-17 |  |
@@ -279,6 +279,7 @@
 | [Sola](https://open.spotify.com/track/3bNRq6LJ3n1lp1A7qrrWK6) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB) | [The Bad Boy \(The Most Wanted Edition\)](https://open.spotify.com/album/4wucK3TtoeQPDQO0UVY0eS) | 2:53 | 2021-12-17 |  |
 | [Solitaria](https://open.spotify.com/track/07hNUXX5QqXgOAbcst7CPP) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB) | [Pura Playa](https://open.spotify.com/album/4MKfVmMrhQzmlolHL7VIlk) | 3:38 | 2022-05-13 |  |
 | [Solo Es Mejor](https://open.spotify.com/track/3nV7QGv51syv5DoXKeo27C) | [Yandar & Yostin](https://open.spotify.com/artist/3ptY5WTxu77JpAQQnHyxEl) | [Te Pintaron Pajaritos](https://open.spotify.com/album/3ssXQwFXNc3NBc8r2aMS9E) | 3:17 | 2022-05-13 | 2022-06-01 |
+| [Solos](https://open.spotify.com/track/0WKd91LoIHCFIhDmgewjhy) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW), [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [La Melodia de la Calle "Updated"](https://open.spotify.com/album/6RDOn06oitF2wzme2uWDX8) | 3:08 | 2022-09-01 |  |
 | [Soy Igual Que Tú \(feat\. Toby Love\)](https://open.spotify.com/track/4Zil8ro7fhQGVYXl2YYkO2) | [Alexis y Fido](https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA), [Toby Love](https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN) | [Sobrenatural](https://open.spotify.com/album/2TBu0mCd9swbPWIzpSZgvf) | 3:44 | 2021-12-17 |  |
 | [Soy una Gargola](https://open.spotify.com/track/1Hu8EMKCGD25srDybGOtBC) | [Alex Gargolas](https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav) | [Gargolas 5: The Next Generation](https://open.spotify.com/album/6xJVY6jlX0QRob0ueF9kKJ) | 3:04 | 2022-07-27 |  |
 | [Soy Una Gargola](https://open.spotify.com/track/6g8su55d5ZpbMw01J7YrgE) | [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav) | [Alex Gargolas Greatest Hits](https://open.spotify.com/album/6JmEk1yaNPn4LFx9YPcZXv) | 3:08 | 2021-12-17 | 2022-07-29 |

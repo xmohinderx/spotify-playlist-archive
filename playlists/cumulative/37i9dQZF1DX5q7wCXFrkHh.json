@@ -383,7 +383,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 448720,
       "name": "Azure",
       "url": "https://open.spotify.com/track/6NXRjtlIWstiuCEWjezV9h"
@@ -2058,6 +2058,24 @@
     },
     {
       "album": {
+        "name": "Plays Misty",
+        "url": "https://open.spotify.com/album/5sJxY1pjo8qSUG5pgiMcI9"
+      },
+      "artists": [
+        {
+          "name": "Erroll Garner",
+          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/6oanIhkNbxXnX19RTtkpEL"
+    },
+    {
+      "album": {
         "name": "This Here Is Bobby Timmons",
         "url": "https://open.spotify.com/album/2kWl3HOLorETEmR8GBWrHX"
       },
@@ -2503,6 +2521,24 @@
       "duration_ms": 378426,
       "name": "Patterns",
       "url": "https://open.spotify.com/track/64vJj4Hdf7YTJl07TGQftP"
+    },
+    {
+      "album": {
+        "name": "Everybody Digs Bill Evans",
+        "url": "https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404160,
+      "name": "Peace Piece",
+      "url": "https://open.spotify.com/track/58yFroDNbzHpYzvicaC0de"
     },
     {
       "album": {
@@ -3193,7 +3229,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 160200,
       "name": "The Man I Love",
       "url": "https://open.spotify.com/track/5OAEDR0DZegpjuTU3T2zS9"

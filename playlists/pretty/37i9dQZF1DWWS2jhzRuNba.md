@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS2jhzRuNba.md) - [plain]
 
 > you know the vibe 🥥🌴👙🐚🦋🌸
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,977 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,039 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS2jhzRuNba.md) - [plain]
 | 18 | [Everywhere \- 2017 Remaster](https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:46 |
 | 19 | [Perfect Day](https://open.spotify.com/track/4pMyfWdA0eo3JY5RqMotbw) | [Hoku](https://open.spotify.com/artist/7ftZLBtMuNBXnnDFKbAblK) | [Perfect Day Single](https://open.spotify.com/album/5puXns5fNjj1XEnbufYHRJ) | 3:28 |
 | 20 | [The Sweet Escape](https://open.spotify.com/track/66ZcOcouenzZEnzTJvoFmH) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [The Sweet Escape](https://open.spotify.com/album/7xnZ539lh8x6de9jzlpCJp) | 4:06 |
-| 21 | [Lost](https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:54 |
+| 21 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 |
 | 22 | [Always Forever](https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Static](https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9) | 3:43 |
-| 23 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 |
+| 23 | [Lost](https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:54 |
 | 24 | [Pass The Dutchie](https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [Anthology](https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi) | 3:25 |
 | 25 | [MANGO \(feat\. Adi Oasis\)](https://open.spotify.com/track/384TJj6XyHUyNlCbdgm6Sz) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc), [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [MANGO \(feat\. Adi Oasis\)](https://open.spotify.com/album/0f3ZSmX6rtHdMIzohJI9P0) | 4:05 |
 | 26 | [Love Affair](https://open.spotify.com/track/4ZaRg5Sf4TKr0YcFRLh7QJ) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Love Language](https://open.spotify.com/album/11SCAGedBEKgapd6mCZNZ5) | 3:10 |
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS2jhzRuNba.md) - [plain]
 | 48 | [Smile](https://open.spotify.com/track/4aR9bPMAOFySBuQSbVWF3d) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Bonus Track Version\)](https://open.spotify.com/album/3nxPzWEJBjzonYWtTNb0uY) | 3:16 |
 | 49 | [Havana \(feat\. Young Thug\)](https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 3:37 |
 | 50 | [Mystery](https://open.spotify.com/track/3ZW48z429TwTJlEN9vxs8u) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Mystery](https://open.spotify.com/album/4jtC95aZMIud87vZDa1SA5) | 2:57 |
-| 51 | [Brown Eyed Girl](https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Blowin' Your Mind!](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) | 3:03 |
+| 51 | [Young Dumb & Broke](https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 3:22 |
 | 52 | [Buttercup](https://open.spotify.com/track/2mlGPkAx4kwF8Df0GlScsC) | [Jack Stauber](https://open.spotify.com/artist/1vVHevk2PD45epYnDi9CCc) | [Pop Food](https://open.spotify.com/album/1RHa1VdX6lsLbeedgsV1cb) | 3:28 |
-| 53 | [Young Dumb & Broke](https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 3:22 |
+| 53 | [Brown Eyed Girl](https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Blowin' Your Mind!](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) | 3:03 |
 | 54 | [Not Allowed](https://open.spotify.com/track/3IznIgmXtrUaoPWpQTy5jB) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Who Really Cares](https://open.spotify.com/album/4oL7pMxnb04uuRI7ReXmuh) | 2:47 |
 | 55 | [Say So](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:57 |
 | 56 | [Everybody Talks](https://open.spotify.com/track/2iUmqdfGZcHIhS3b9E9EWq) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Picture Show](https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr) | 2:57 |
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS2jhzRuNba.md) - [plain]
 | 72 | [everything sucks](https://open.spotify.com/track/3z06k8YF9CqX0CGFrlekOK) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [everything sucks](https://open.spotify.com/album/0VtWoMZIJp2kyJcbzBJxLO) | 1:55 |
 | 73 | [girls](https://open.spotify.com/track/1kqc6U8hVYZhY0gFGQclCz) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [girls](https://open.spotify.com/album/1wpUjnWuF4mhepCeZbA4Je) | 3:18 |
 | 74 | [Fantasy](https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:03 |
-| 75 | [Whenever, Wherever](https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:16 |
-| 76 | [Feels Like We Only Go Backwards](https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:12 |
-| 77 | [Loving Is Easy \(feat\. Benny Sings\)](https://open.spotify.com/track/5EYi2rH4LYs6M21ZLOyQTx) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Loving Is Easy \(feat\. Benny Sings\)](https://open.spotify.com/album/4D6BtgzCwuJx9omikqA8Rg) | 2:35 |
-| 78 | [Mine](https://open.spotify.com/track/7uzmGiiJyRfuViKKK3lVmR) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [COSMIC](https://open.spotify.com/album/5EEkfRgfYHiFu0lGur6Z6M) | 2:11 |
+| 75 | [Feels Like We Only Go Backwards](https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:12 |
+| 76 | [Whenever, Wherever](https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:16 |
+| 77 | [Mine](https://open.spotify.com/track/7uzmGiiJyRfuViKKK3lVmR) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [COSMIC](https://open.spotify.com/album/5EEkfRgfYHiFu0lGur6Z6M) | 2:11 |
+| 78 | [Loving Is Easy \(feat\. Benny Sings\)](https://open.spotify.com/track/5EYi2rH4LYs6M21ZLOyQTx) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Loving Is Easy \(feat\. Benny Sings\)](https://open.spotify.com/album/4D6BtgzCwuJx9omikqA8Rg) | 2:35 |
 | 79 | [at least i'm pretty](https://open.spotify.com/track/5o9iQVktO08gIlRAHqqxtj) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [at least i'm pretty](https://open.spotify.com/album/2OAHHz54HY0g1vLBr23Gmg) | 1:46 |
 | 80 | [Stargazing](https://open.spotify.com/track/0VF7YLIxSQKyNiFL3X6MmN) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Chip Chrome & The Mono\-Tones \(Deluxe\)](https://open.spotify.com/album/2JyArayVlT6t3MVWLLdSwZ) | 3:37 |
 
-Snapshot ID: `MTY1NjYyMTU4NSwwMDAwMDAwMGQ0NDhhM2RmZGQ1N2QzNjIxNWEyOTdjNWRlYTgwZDdj`
+Snapshot ID: `MTY1NjYyMTU4NSwwMDAwMDAwMGQxNjUxNDZjNTE2ODRjODI2MzM2MzNiNzhlYjY3ZWE5`

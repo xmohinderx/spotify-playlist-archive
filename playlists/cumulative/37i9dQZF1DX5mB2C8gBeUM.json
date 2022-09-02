@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Country gone wild! You never know what you're gonna get. Artist: Abby Anderson",
+  "description": "Country gone wild! You never know what you're gonna get. Artist: Levi Hummon",
   "name": "Wild Country",
   "published_playlist_ids": [
     "2NFX3fEEavFql8EoHSR8S8"
@@ -1856,6 +1856,32 @@
     },
     {
       "album": {
+        "name": "Good Riddance",
+        "url": "https://open.spotify.com/album/0wsFRTnDflqysvqN2YQ8dz"
+      },
+      "artists": [
+        {
+          "name": "Levi Hummon",
+          "url": "https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi"
+        },
+        {
+          "name": "Filmore",
+          "url": "https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG"
+        },
+        {
+          "name": "YA'BOYZ",
+          "url": "https://open.spotify.com/artist/7vMHsgM6Rlv8loZc594Z9I"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142204,
+      "name": "Good Riddance",
+      "url": "https://open.spotify.com/track/3WwZbPizrnJqJFx86kNPs1"
+    },
+    {
+      "album": {
         "name": "The Colonel",
         "url": "https://open.spotify.com/album/0lHlQncYmvSo7TujyIz7ZQ"
       },
@@ -3075,6 +3101,24 @@
       "duration_ms": 192000,
       "name": "Me, Myself, and Wine",
       "url": "https://open.spotify.com/track/7eAtibYWYUJWgIcYA4Rke2"
+    },
+    {
+      "album": {
+        "name": "Mile a Minute",
+        "url": "https://open.spotify.com/album/1XyZaEQP7xLclmVg5ni3fk"
+      },
+      "artists": [
+        {
+          "name": "Josh Mirenda",
+          "url": "https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195093,
+      "name": "Mile a Minute",
+      "url": "https://open.spotify.com/track/3ZId83LVU8njcHXP8ZiMvr"
     },
     {
       "album": {

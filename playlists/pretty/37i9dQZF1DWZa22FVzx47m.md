@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa22FVzx47m.md) - [plain]
 
 > Canciones te inspiran a ti y a todas las mamás.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,490 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,834 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,15 +57,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa22FVzx47m.md) - [plain]
 | 47 | [Experiencia Religiosa](https://open.spotify.com/track/0tgjnOlps2Hc798rOYGpvi) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Enrique Iglesias](https://open.spotify.com/album/18FB0rct42g5hNr14l70GK) | 5:32 |
 | 48 | [Acompáñame a Estar Solo](https://open.spotify.com/track/6Eb3FQ2eSSyENY5wJsY0Ot) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Adentro](https://open.spotify.com/album/3MXgh2NutxVsZvxHaNZG2s) | 4:32 |
 | 49 | [Tu Recuerdo \(feat\. La Mari De Chambao & Tommy Torres\) \- MTV Unplugged Version](https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Lamari](https://open.spotify.com/artist/1Rv4Ogfu7pg6QMo09XWtWK), [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [Ricky Martin MTV Unplugged](https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM) | 4:07 |
-| 50 | [Prometiste](https://open.spotify.com/track/1Rl25VpYAmwet3uJrBBVbF) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Negociaré Con la Pena](https://open.spotify.com/album/1D6HaQjqbn7B3r2jsZalIx) | 3:36 |
-| 51 | [Tardes Negras](https://open.spotify.com/track/0IgtEvYFtZEapMoCcgizGQ) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [TZN \-The Best Of Tiziano Ferro \(Spanish Edition\)](https://open.spotify.com/album/0Kk7kX25RVvNzkYfyGt8kv) | 4:22 |
+| 50 | [Tardes Negras](https://open.spotify.com/track/0IgtEvYFtZEapMoCcgizGQ) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [TZN \-The Best Of Tiziano Ferro \(Spanish Edition\)](https://open.spotify.com/album/0Kk7kX25RVvNzkYfyGt8kv) | 4:22 |
+| 51 | [Prometiste](https://open.spotify.com/track/1Rl25VpYAmwet3uJrBBVbF) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Negociaré Con la Pena](https://open.spotify.com/album/1D6HaQjqbn7B3r2jsZalIx) | 3:36 |
 | 52 | [Él Me Mintió](https://open.spotify.com/track/6lZ2Qk3WcmrG4iDmaEqpvH) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN) | [El Sonido Vol\. 1](https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS) | 3:41 |
 | 53 | [Simplemente Amigos](https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Tierra De Nadie](https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi) | 3:47 |
 | 54 | [Maldita Primavera](https://open.spotify.com/track/3GUyiFEglEm9rSToOf5YZW) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Coleccion Suprema](https://open.spotify.com/album/3CxDiBxX6u10UpaRnYeKSx) | 3:54 |
 | 55 | [Desde Que Llegaste](https://open.spotify.com/track/4iuQ88fgaqBRkzb1JWKUbZ) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ) | [Reyli En La Luna](https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY) | 3:33 |
 | 56 | [Nada De Nada](https://open.spotify.com/track/4oAXfBdNH0qHr32w82E8dg) | [Marco di Mauro](https://open.spotify.com/artist/62x8NZZ2E8iLiCTNM7zWvK) | [Nada De Nada \(Edición de lujo\)](https://open.spotify.com/album/6oHnCzahK7EHvqfFbI1vVE) | 4:10 |
-| 57 | [La Fuerza del Destino](https://open.spotify.com/track/0fKqhLgg5CYEW2fLlhtWRj) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Descanso Dominical \(Bonus Tracks Edition\)](https://open.spotify.com/album/5E4nBdPPUynTOEOG7Lj4yA) | 5:11 |
-| 58 | [Pero Me Acuerdo de Tí](https://open.spotify.com/track/4B1sb2YVO03sBmyR8bvzEB) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mi Reflejo](https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK) | 4:25 |
+| 57 | [Pero Me Acuerdo de Tí](https://open.spotify.com/track/4B1sb2YVO03sBmyR8bvzEB) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mi Reflejo](https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK) | 4:25 |
+| 58 | [La Fuerza del Destino](https://open.spotify.com/track/0fKqhLgg5CYEW2fLlhtWRj) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Descanso Dominical \(Bonus Tracks Edition\)](https://open.spotify.com/album/5E4nBdPPUynTOEOG7Lj4yA) | 5:11 |
 | 59 | [Si tú no vuelves](https://open.spotify.com/track/1YFBO31kSEYo1DVkjSj8LG) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Bajo El Signo De Caín](https://open.spotify.com/album/3TNVefBL4j3T9Cr7XU232u) | 4:38 |
 | 60 | [Te Hubieras Ido Antes](https://open.spotify.com/track/20S5GpuTDgnx9nwBFp5Lpb) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [De México](https://open.spotify.com/album/52R4l0OYnS6DBSeiJ4KnBV) | 3:19 |
 | 61 | [Historia de Taxi](https://open.spotify.com/track/4qmXbnmZxZy9pavpf3YfP5) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Quién Dijo Ayer](https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ) | 6:42 |
@@ -85,9 +85,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa22FVzx47m.md) - [plain]
 | 75 | [Si Tú Supieras](https://open.spotify.com/track/3PHD1o4vP68uLbExcqUl1x) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Me Estoy Enamorando](https://open.spotify.com/album/63mrlnJgtofj8Ur7Q7Xh9P) | 4:06 |
 | 76 | [Este Terco Corazon](https://open.spotify.com/track/1iN1knAnE9tgY3FipGocKX) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Diez Años Cantandole Al Amor](https://open.spotify.com/album/7m0U4kGO3H4QUw5W75HsQ8) | 3:42 |
 | 77 | [Fuego de Noche, Nieve de Día](https://open.spotify.com/track/1f6XyjXx6wUb7zdk9JWzl9) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM) | 5:35 |
-| 78 | [Un Buen Perdedor](https://open.spotify.com/track/68RvCYDKtz9HR1WMR9D9VV) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Franco De Vita En Primera Fila](https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX) | 3:54 |
+| 78 | [Tú](https://open.spotify.com/track/5n49jN2souYjOuP9vHDpu4) | [Noelia](https://open.spotify.com/artist/0uMBj1TX0cktGnVzLlgWux) | [Noelia](https://open.spotify.com/album/2slvRFExgEeUIYzb55N0h9) | 4:51 |
 | 79 | [Si Tú Te Vas](https://open.spotify.com/track/7A1V7IEbwn2nuFGreV8DNv) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Enrique Iglesias](https://open.spotify.com/album/18FB0rct42g5hNr14l70GK) | 4:04 |
-| 80 | [Tú](https://open.spotify.com/track/5n49jN2souYjOuP9vHDpu4) | [Noelia](https://open.spotify.com/artist/0uMBj1TX0cktGnVzLlgWux) | [Noelia](https://open.spotify.com/album/2slvRFExgEeUIYzb55N0h9) | 4:51 |
+| 80 | [Un Buen Perdedor](https://open.spotify.com/track/68RvCYDKtz9HR1WMR9D9VV) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Franco De Vita En Primera Fila](https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX) | 3:54 |
 | 81 | [Tu Pirata Soy Yo](https://open.spotify.com/track/2bHEObIToIMkdZRXsC04Kt) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/20LKBgzwk7zrSSn0N8ukFV) | 2:53 |
 | 82 | [Cuando Mueres Por Alguien](https://open.spotify.com/track/6PGxt5a6I6G0tZhZTaupTj) | [Erik Rubin](https://open.spotify.com/artist/43hb5av90CTCWFldaaTp7n) | [La Casa Del Amor](https://open.spotify.com/album/3wOUvW0p0XQrFnM3X9l5us) | 3:56 |
 | 83 | [Mi error, mi fantasía](https://open.spotify.com/track/4fQgdmcUMqmlhhSjQdMHTE) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Frente a ti](https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk) | 3:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa22FVzx47m.md) - [plain]
 | 99 | [Duele El Amor!](https://open.spotify.com/track/2SfWO6xWCJd7q5oiUcphyi) | [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi), [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [1989\-2009](https://open.spotify.com/album/19I8hvP9qeZOudvIPd7Gv5) | 4:35 |
 | 100 | [Para Amarnos Más](https://open.spotify.com/track/4Kjh2Yot6QjyebFqfLaoMm) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Celebridades\- Mijares](https://open.spotify.com/album/754knedaR3meZPGrnCf1Hf) | 3:29 |
 
-Snapshot ID: `MTY1OTk5Nzc2OCwwMDAwMDAwMDI4MTk0Y2I5OWU5MzU2OGY5Mjc1YzU5ZDA2NzBiMjVi`
+Snapshot ID: `MTY1OTk5Nzc2OCwwMDAwMDAwMDYyNjE3MjBiYmUwNmYyNGE2ZWExM2JkNTNmODk1N2Jj`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest in South African Hip Hop and R&B. Cover: <a href=\"https://open.spotify.com/artist/5k9uolaMC3PXHGrHSUiqz0?si=yzhWyjrpQR2jiKd4ChFi4Q\">Lolli Native</a> ",
+  "description": "Only the hottest in South African Hip Hop and R&B. Cover: <a href=\"https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz?si=YtSBVgYoTOeMdEGneI_Hpw\">Priddy Ugly</a> ",
   "name": "Aux",
   "published_playlist_ids": [
     "0xTC98cyXGkNifzFqwccaX"
@@ -1217,7 +1217,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 158634,
       "name": "Coldest Walk In Africa",
       "url": "https://open.spotify.com/track/6c8FlJaV44PmbKN4poD29z"
@@ -6605,6 +6605,32 @@
       "duration_ms": 187012,
       "name": "Why Me?",
       "url": "https://open.spotify.com/track/7rpEhFwa8OTnMoqkDT0JOr"
+    },
+    {
+      "album": {
+        "name": "MUD",
+        "url": "https://open.spotify.com/album/39PUlolgMi1D3k4SNgzsHZ"
+      },
+      "artists": [
+        {
+          "name": "Priddy Ugly",
+          "url": "https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        },
+        {
+          "name": "Zoocci Coke Dope",
+          "url": "https://open.spotify.com/artist/6nScSYRb9Qy2b6HJpDtm4w"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314611,
+      "name": "WIN",
+      "url": "https://open.spotify.com/track/1HCze2s8KOw9riGVTnGeJh"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Let these Latin hits guide you through your daily commute!",
-  "num_followers": 190471,
+  "num_followers": 190519,
   "original_name": "Latin Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc1ODIxMCwwMDAwMDAwMDBiYmMyZDM1MmNkZTgwNDA3Y2ViNjk4MmVkM2U2Mzg2",
+  "snapshot_id": "MTY2MDc1ODIxMCwwMDAwMDAwMDM2NGRhMDM3YzZiOWM2NWFjMzZjMTc5ZDIxMDY0MjI5",
   "tracks": [
     {
       "added_at": "2022-08-17 17:43:30",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-08-17 17:43:30",
       "album": {
-        "name": "Haw\u00e1i",
-        "url": "https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 200197,
-      "name": "Haw\u00e1i",
-      "url": "https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG"
-    },
-    {
-      "added_at": "2022-08-17 17:43:30",
-      "album": {
         "name": "Por Primera Vez",
         "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 177791,
       "name": "La Mitad",
       "url": "https://open.spotify.com/track/63Zaf8Rci6eOUPqDQ4fUFx"
+    },
+    {
+      "added_at": "2022-08-17 17:43:30",
+      "album": {
+        "name": "Haw\u00e1i",
+        "url": "https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 200197,
+      "name": "Haw\u00e1i",
+      "url": "https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG"
     },
     {
       "added_at": "2022-08-17 17:43:30",

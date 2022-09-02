@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 
 > Holiday classics from your favorite punks\. Cover: jxdn
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,031 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,029 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,16 +40,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 30 | [His Favorite Christmas Story](https://open.spotify.com/track/0zrbISwByqUAWssIhgQwQr) | [Capital Lights](https://open.spotify.com/artist/0xhIBddw7R69CWKsCt2gVt) | [X Christmas](https://open.spotify.com/album/7HA4NFJAIaS5BOuaUfMAcR) | 3:32 |
 | 31 | [Forget December](https://open.spotify.com/track/2BHNw4MANcwKf69MF4LR8z) | [Something Corporate](https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD) | [Played In Space: The Best of Something Corporate](https://open.spotify.com/album/0xmgh2wvcRW6jNZDq2YTmR) | 3:12 |
 | 32 | [Fool's Holiday](https://open.spotify.com/track/3s44CRFEl7bbZcYoervR3L) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Punk Goes Christmas](https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk) | 3:43 |
-| 33 | [O Come, O Come Emmanuel](https://open.spotify.com/track/16qtpiIyiTmsN2Dnl5ZPj9) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Christmas Songs](https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS) | 2:07 |
+| 33 | [White Christmas](https://open.spotify.com/track/1Hal68E1MbcY7GPcsQbqVm) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Christmas Songs](https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS) | 1:49 |
 | 34 | [The Christmas Song](https://open.spotify.com/track/03e41JmoFNLssjNbHhDma7) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Christmas EP](https://open.spotify.com/album/1HaPBR0BDJUDkcOxiHdGTy) | 3:07 |
 | 35 | [Deck the Halls](https://open.spotify.com/track/0dc9SYWwvA4LtvMFsHicQs) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [Let It Snow Baby...Let It Reindeer](https://open.spotify.com/album/6RwCnJnuTKo9yjxXwAQEo6) | 1:21 |
 | 36 | [All I Want For Christmas Is You](https://open.spotify.com/track/05w2HWpvqEmyDk882QRYpp) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [All I Want For Christmas Is You](https://open.spotify.com/album/2sgvSTSQ2ZxyBeL587NAjT) | 3:20 |
 | 37 | [Hava Nagila](https://open.spotify.com/track/7ybZEUwDsHGMkWGoNSgmCg) | [Me First and the Gimme Gimmes](https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5) | [Ruin Jonny's Bar Mitzvah](https://open.spotify.com/album/2ghotUjHKIAK4g2FYb316n) | 3:41 |
 | 38 | [Carol of the Bells](https://open.spotify.com/track/5mGmOpL9PsVLVmSd9qSlnb) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Lost Messengers: The Outtakes](https://open.spotify.com/album/67STyBXAKtNyQsSIsVvPLC) | 2:44 |
-| 39 | [White Christmas](https://open.spotify.com/track/1Hal68E1MbcY7GPcsQbqVm) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Christmas Songs](https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS) | 1:49 |
+| 39 | [O Come, O Come Emmanuel](https://open.spotify.com/track/16qtpiIyiTmsN2Dnl5ZPj9) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Christmas Songs](https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS) | 2:07 |
 | 40 | [Christmas Lights](https://open.spotify.com/track/5Kl7ZklgYOFjNWTFk5Q5QL) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Punk Goes Christmas](https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk) | 4:01 |
-| 41 | [The Season's Upon Us](https://open.spotify.com/track/1gSmN84niQf7DZSCCWfOyN) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Season's Upon Us](https://open.spotify.com/album/0eX2dIB3Ce7t32RjWoppJJ) | 4:02 |
-| 42 | [12 Days Of A Pop\-Punk Christmas](https://open.spotify.com/track/3a0JYuE4yo9xtGon59a7t9) | [Jarrod Alonge](https://open.spotify.com/artist/3zLWOB0I86EiVgG5NrX1ht) | [Punk Goes Christmas \(Deluxe\)](https://open.spotify.com/album/6pj3sxkEUpAOlix05HpxmF) | 3:27 |
+| 41 | [12 Days Of A Pop\-Punk Christmas](https://open.spotify.com/track/3a0JYuE4yo9xtGon59a7t9) | [Jarrod Alonge](https://open.spotify.com/artist/3zLWOB0I86EiVgG5NrX1ht) | [Punk Goes Christmas \(Deluxe\)](https://open.spotify.com/album/6pj3sxkEUpAOlix05HpxmF) | 3:27 |
+| 42 | [The Season's Upon Us](https://open.spotify.com/track/1gSmN84niQf7DZSCCWfOyN) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Season's Upon Us](https://open.spotify.com/album/0eX2dIB3Ce7t32RjWoppJJ) | 4:02 |
 | 43 | [Christmas Song](https://open.spotify.com/track/5zQHYpjKOHlo86BVVh2jym) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Christmas Song](https://open.spotify.com/album/1xQ5XJsYtbSUvsJrEkZCW9) | 2:54 |
 | 44 | [We Wish You a Merry Christmas](https://open.spotify.com/track/2dFbGpUtgwwkB169RoSB9B) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [Let It Snow Baby...Let It Reindeer](https://open.spotify.com/album/6RwCnJnuTKo9yjxXwAQEo6) | 2:12 |
 | 45 | [I Want An Alien For Christmas](https://open.spotify.com/track/33O5sjotRAcT8nwOeYXXEm) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Out\-Of\-State Plates](https://open.spotify.com/album/4i7krZXSr5yexVR7lWuclC) | 2:19 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 70 | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/2Symnv19lk0n4TsYRzM6O4) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [The Goldfinger Christmas EP](https://open.spotify.com/album/01EZvMeQxgkRFmVQ2LiR5a) | 1:26 |
 | 71 | [Christmas by the Phone](https://open.spotify.com/track/5gFrG4xkgjLufrDgFHfuNF) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [A GC Christmas, Pt\. 1](https://open.spotify.com/album/2t4N4Udqvzos6nzccOHBbl) | 3:01 |
 | 72 | [December's Here](https://open.spotify.com/track/0CdxsUc8w4yjuMLD0hB4BC) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [December's Here](https://open.spotify.com/album/32cEyEa1AdPfMi79rJh6uN) | 2:59 |
-| 73 | [Punk Rawk Christmas](https://open.spotify.com/track/1aWd5MkGpyhqENRiilEWxe) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [Punk Rawk Christmas](https://open.spotify.com/album/04Bn005uXQk5oKUZZovDFq) | 3:20 |
-| 74 | [West Coast Christmas](https://open.spotify.com/track/0tk0q4170soGn03XGksWfn) | [Anarbor](https://open.spotify.com/artist/09J4zbHHwNNlN2tfgJIg21) | [Hopeless For The Holidays](https://open.spotify.com/album/6qL1j7QsfiESiZqLbMtMvN) | 3:14 |
+| 73 | [West Coast Christmas](https://open.spotify.com/track/0tk0q4170soGn03XGksWfn) | [Anarbor](https://open.spotify.com/artist/09J4zbHHwNNlN2tfgJIg21) | [Hopeless For The Holidays](https://open.spotify.com/album/6qL1j7QsfiESiZqLbMtMvN) | 3:14 |
+| 74 | [Punk Rawk Christmas](https://open.spotify.com/track/1aWd5MkGpyhqENRiilEWxe) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [Punk Rawk Christmas](https://open.spotify.com/album/04Bn005uXQk5oKUZZovDFq) | 3:20 |
 | 75 | [Auld Lang Syne](https://open.spotify.com/track/2o8rF3D43FbniUVatDtSlz) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Happy Skalidays](https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x) | 3:09 |
 
-Snapshot ID: `MTY0MDExMDE4OSwwMDAwMDAwMDliZDkxMmFjZmEyMzFjMGQ0M2JjM2EzMWM0NDRiNWE2`
+Snapshot ID: `MTY0MDExMDE4OSwwMDAwMDAwMDY0NjRmZDk5ZmM4MDdiNDVmYTI1YzJlZDdjOWU2ZTRh`

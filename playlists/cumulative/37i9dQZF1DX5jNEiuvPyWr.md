@@ -2,7 +2,7 @@
 
 ### [Cloud Rap](https://open.spotify.com/playlist/37i9dQZF1DX5jNEiuvPyWr)
 
-> Le meilleur du rap français version cloud\. Photo : Werenoi
+> Le meilleur du rap français version cloud\. Photo : Sasso
 
 65 songs - 3 hr 27 min - [published](https://open.spotify.com/playlist/5hZd800bY7alcQHZCY6dmZ)
 

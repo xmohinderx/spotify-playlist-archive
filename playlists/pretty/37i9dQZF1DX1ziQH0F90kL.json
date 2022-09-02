@@ -1,12 +1,12 @@
 {
   "description": "The Reggaeton hits of yesterday and today.",
-  "num_followers": 64593,
+  "num_followers": 64660,
   "original_name": "Now & Then Reggaeton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDE5OTUxOSwwMDAwMDAwMDQ5ZDRhOTM2YmZlYjcxMjA0NzA3ZDMwZjlkYWE5NDYz",
+  "snapshot_id": "MTY1NDE5OTUxOSwwMDAwMDAwMDJkMDliMzY1NjUwY2VlMWVhMjBmYzE0MjhkMWIzYmI5",
   "tracks": [
     {
       "added_at": "2022-06-02 19:51:59",
@@ -2031,6 +2031,22 @@
     {
       "added_at": "2022-06-02 19:51:59",
       "album": {
+        "name": "La Melodia de la Calle \"Updated\"",
+        "url": "https://open.spotify.com/album/6RDOn06oitF2wzme2uWDX8"
+      },
+      "artists": [
+        {
+          "name": "Tony Dize",
+          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
+        }
+      ],
+      "duration_ms": 264146,
+      "name": "El Doctorado",
+      "url": "https://open.spotify.com/track/1GLyxov9LCuqj9jWFXI3cy"
+    },
+    {
+      "added_at": "2022-06-02 19:51:59",
+      "album": {
         "name": "Eleg\u00ed (feat. Farruko, Anuel AA, Sech, D\u00edmelo Flow & Justin Quiles) [Remix]",
         "url": "https://open.spotify.com/album/42nGyHqXuAcl7khe5jBKds"
       },
@@ -2071,22 +2087,6 @@
       "duration_ms": 325692,
       "name": "Eleg\u00ed (feat. Farruko, Anuel AA, Sech, D\u00edmelo Flow & Justin Quiles) - Remix",
       "url": "https://open.spotify.com/track/3oCghu20Kto5Xcu8Pg0cit"
-    },
-    {
-      "added_at": "2022-06-02 19:51:59",
-      "album": {
-        "name": "La Melodia de la Calle \"Updated\"",
-        "url": "https://open.spotify.com/album/6RDOn06oitF2wzme2uWDX8"
-      },
-      "artists": [
-        {
-          "name": "Tony Dize",
-          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
-        }
-      ],
-      "duration_ms": 264146,
-      "name": "El Doctorado",
-      "url": "https://open.spotify.com/track/1GLyxov9LCuqj9jWFXI3cy"
     }
   ],
   "unique_name": "Now & Then Reggaeton",

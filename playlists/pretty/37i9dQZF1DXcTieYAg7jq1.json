@@ -1,12 +1,12 @@
 {
   "description": "Featuring that new vintage. Cover: Laufey",
-  "num_followers": 400024,
+  "num_followers": 399790,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMGQ4NjAwYzZmMzdhYjMyOTA4OGI0Y2JiOWRjMjhmOGYz",
+  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMDM3ZjRmOTA1YzNlMDQ0MDRjNzQxNWE0Nzk1MTIwNDE4",
   "tracks": [
     {
       "added_at": "2022-08-26 04:02:00",
@@ -537,6 +537,22 @@
       "url": "https://open.spotify.com/track/6W9rbkBueZQrwuzO24GHZ2"
     },
     {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Broke",
+        "url": "https://open.spotify.com/album/7EFpevvrKa2TjXTFSaVR1z"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "duration_ms": 207722,
+      "name": "Broke",
+      "url": "https://open.spotify.com/track/1JqcZQCnxjDOfZZwQidb1H"
+    },
+    {
       "added_at": "2022-06-17 04:02:00",
       "album": {
         "name": "Buddy's Rendezvous",
@@ -559,22 +575,6 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "Broke",
-        "url": "https://open.spotify.com/album/7EFpevvrKa2TjXTFSaVR1z"
-      },
-      "artists": [
-        {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
-        }
-      ],
-      "duration_ms": 207722,
-      "name": "Broke",
-      "url": "https://open.spotify.com/track/1JqcZQCnxjDOfZZwQidb1H"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
         "name": "Coming Home (Deluxe)",
         "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
       },
@@ -591,22 +591,6 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "The Good Life",
-        "url": "https://open.spotify.com/album/4s1igjt5YJe7s7BdCeX3DX"
-      },
-      "artists": [
-        {
-          "name": "Sammy Rae & The Friends",
-          "url": "https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn"
-        }
-      ],
-      "duration_ms": 387600,
-      "name": "Kick It to Me",
-      "url": "https://open.spotify.com/track/6QZbDUZEgkwaVWROtWzjQ0"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
         "name": "Leave Before The Lights Come On",
         "url": "https://open.spotify.com/album/7zGAOSaUjqWdwyYtQvnqWy"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 152613,
       "name": "Baby I'm Yours",
       "url": "https://open.spotify.com/track/6FLqFu1ApSkUddZ9P4H6Io"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "The Good Life",
+        "url": "https://open.spotify.com/album/4s1igjt5YJe7s7BdCeX3DX"
+      },
+      "artists": [
+        {
+          "name": "Sammy Rae & The Friends",
+          "url": "https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn"
+        }
+      ],
+      "duration_ms": 387600,
+      "name": "Kick It to Me",
+      "url": "https://open.spotify.com/track/6QZbDUZEgkwaVWROtWzjQ0"
     },
     {
       "added_at": "2022-01-07 05:02:00",
@@ -1005,22 +1005,6 @@
       "url": "https://open.spotify.com/track/1o0nAjgZwMDK9TI4TTUSNn"
     },
     {
-      "added_at": "2022-06-24 04:02:00",
-      "album": {
-        "name": "Good Man (First Love)",
-        "url": "https://open.spotify.com/album/1vS9mqQQuGIFvLklJucvQJ"
-      },
-      "artists": [
-        {
-          "name": "Andy Grammer",
-          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
-        }
-      ],
-      "duration_ms": 160361,
-      "name": "Good Man (First Love)",
-      "url": "https://open.spotify.com/track/3HxTb6ITqXf7RMjX2DGVv5"
-    },
-    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "Heaven (Expanded Edition)",
@@ -1035,6 +1019,22 @@
       "duration_ms": 209586,
       "name": "Glitter & Gold",
       "url": "https://open.spotify.com/track/5Q6mIVCErKoI6zb7wxJlBs"
+    },
+    {
+      "added_at": "2022-06-24 04:02:00",
+      "album": {
+        "name": "Good Man (First Love)",
+        "url": "https://open.spotify.com/album/1vS9mqQQuGIFvLklJucvQJ"
+      },
+      "artists": [
+        {
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        }
+      ],
+      "duration_ms": 160361,
+      "name": "Good Man (First Love)",
+      "url": "https://open.spotify.com/track/3HxTb6ITqXf7RMjX2DGVv5"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1085,22 +1085,6 @@
       "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
     },
     {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Y1",
-        "url": "https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 186818,
-      "name": "Pantone 17 13 30",
-      "url": "https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF"
-    },
-    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "Walk Through Fire (Deluxe Edition)",
@@ -1115,6 +1099,22 @@
       "duration_ms": 181535,
       "name": "I Don't Wanna Lie",
       "url": "https://open.spotify.com/track/6CgsttSWDA2sISZQp1upXK"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Y1",
+        "url": "https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 186818,
+      "name": "Pantone 17 13 30",
+      "url": "https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1185,6 +1185,22 @@
       "url": "https://open.spotify.com/track/2JerYQPEZWTiTEIFgfUEoV"
     },
     {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Light (Edit)",
+        "url": "https://open.spotify.com/album/0fKENvWUaivTdcglwpXvzz"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 185373,
+      "name": "Light - Edit",
+      "url": "https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg"
+    },
+    {
       "added_at": "2022-05-20 04:01:00",
       "album": {
         "name": "Face The River",
@@ -1201,20 +1217,20 @@
       "url": "https://open.spotify.com/track/57MOYJiJyxRG2ekDRaP3Vj"
     },
     {
-      "added_at": "2021-12-03 05:01:00",
+      "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Light (Edit)",
-        "url": "https://open.spotify.com/album/0fKENvWUaivTdcglwpXvzz"
+        "name": "Pain",
+        "url": "https://open.spotify.com/album/2pPhFt9U1vjGoQgPVN9v9I"
       },
       "artists": [
         {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
         }
       ],
-      "duration_ms": 185373,
-      "name": "Light - Edit",
-      "url": "https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg"
+      "duration_ms": 215787,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/37u0I5Q44POEFCLhFREtGJ"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1235,22 +1251,6 @@
       "duration_ms": 189602,
       "name": "Dry Bones",
       "url": "https://open.spotify.com/track/6XbYqxCWmzo5stjfaKgXEi"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Pain",
-        "url": "https://open.spotify.com/album/2pPhFt9U1vjGoQgPVN9v9I"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 215787,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/37u0I5Q44POEFCLhFREtGJ"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1421,22 +1421,6 @@
       "url": "https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "It Will Come In Time",
-        "url": "https://open.spotify.com/album/3kUX1L10eOj1lSuwrfk9PM"
-      },
-      "artists": [
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
-        }
-      ],
-      "duration_ms": 173862,
-      "name": "It Will Come In Time",
-      "url": "https://open.spotify.com/track/2eqocLN1rW8h10svumB8wd"
-    },
-    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "California Wine",
@@ -1451,6 +1435,22 @@
       "duration_ms": 187231,
       "name": "California Wine",
       "url": "https://open.spotify.com/track/1HtLKqdCmOmM3zQxBzueUI"
+    },
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "It Will Come In Time",
+        "url": "https://open.spotify.com/album/3kUX1L10eOj1lSuwrfk9PM"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "duration_ms": 173862,
+      "name": "It Will Come In Time",
+      "url": "https://open.spotify.com/track/2eqocLN1rW8h10svumB8wd"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1485,22 +1485,6 @@
       "url": "https://open.spotify.com/track/3GNnTQVqE4zUSECYzHXq0b"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/6b6xEoiubMlgeGN6nrWM2V"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 143386,
-      "name": "Baby I'll Wait",
-      "url": "https://open.spotify.com/track/7zqznhNk8DZbwo8fWIF82V"
-    },
-    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "On Top of the World",
@@ -1515,6 +1499,22 @@
       "duration_ms": 239044,
       "name": "On Top of the World",
       "url": "https://open.spotify.com/track/5erTPoeHKb7wOHzqFw4msd"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/6b6xEoiubMlgeGN6nrWM2V"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 143386,
+      "name": "Baby I'll Wait",
+      "url": "https://open.spotify.com/track/7zqznhNk8DZbwo8fWIF82V"
     },
     {
       "added_at": "2021-12-03 05:01:00",

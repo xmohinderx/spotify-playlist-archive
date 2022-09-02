@@ -4,7 +4,7 @@
 
 > Gazo au top de la première playlist de rap français !
 
-93 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/4EHhRKwzSbzJAtj2VPo7Qd)
+94 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/4EHhRKwzSbzJAtj2VPo7Qd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A la base](https://open.spotify.com/track/0GUH7Qb3w9xOcfRIWoaJmt) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Enna](https://open.spotify.com/album/4G2UgJhnsWIdYYuTtILd7I) | 4:26 | 2022-01-06 | 2022-07-29 |
 | [A la base](https://open.spotify.com/track/0VJwgZkDmZZLZygKnPj2s6) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Enna Boost](https://open.spotify.com/album/2INbsI9qbLPDqII4MNkowx) | 4:26 | 2022-07-28 | 2022-08-26 |
 | [Akimbo](https://open.spotify.com/track/0GHN9qDtUXOctlf96tzivw) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Akimbo](https://open.spotify.com/album/2JWtcWOPqE9NRXv0O6DCLU) | 2:30 | 2022-01-06 | 2022-04-29 |
+| [Allez dehors](https://open.spotify.com/track/2YGtFjsTpSrsGb2rQy4ARj) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Allez dehors](https://open.spotify.com/album/6Us6AtFqQORq9wUpHdvbnf) | 2:46 | 2022-09-01 |  |
 | [Anunnaki](https://open.spotify.com/track/5dfgX2GxEMQsGycPvjxhdP) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [Anunnaki](https://open.spotify.com/album/3sBYDqg8lIbOOC3WQTXk8d) | 3:22 | 2022-01-20 | 2022-05-13 |
 | [Apocalypse](https://open.spotify.com/track/479TjlDwB0JAyPjZjxFah8) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv), [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [SVR](https://open.spotify.com/album/7BGxAPIIuq3UapnPUhjBDy) | 3:50 | 2022-02-17 | 2022-07-29 |
 | [AQUA](https://open.spotify.com/track/4tzw8KHA0K4LEcrHejQBJu) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [AQUA](https://open.spotify.com/album/3m7eqvX5vta22BqOYUDahn) | 2:35 | 2022-07-21 |  |
@@ -32,7 +33,7 @@
 | [De bon matin](https://open.spotify.com/track/3EwsJXInOSrHZqSRW2UceI) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV), [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [De bon matin](https://open.spotify.com/album/372hc8zOtZ3o0oAX544SxU) | 3:03 | 2022-01-06 | 2022-02-25 |
 | [Dernier Etage](https://open.spotify.com/track/4cEmTY9s8re8z5Lg9u3uXH) | [Yaro](https://open.spotify.com/artist/09E5z6upwkmwTKX8LGQgMo), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Tout Droit](https://open.spotify.com/album/2wMNxWbAEvAiAuX6rPH5Ux) | 3:30 | 2022-04-28 |  |
 | [DIE](https://open.spotify.com/track/3D29kjUyWxsT3jUUTtARVQ) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [KMT](https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb) | 4:00 | 2022-08-25 |  |
-| [Drama queen](https://open.spotify.com/track/4RVPmkIVvzcWF27zfn3sap) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X) | [Drama queen](https://open.spotify.com/album/01mO9ZxpTUCroczjsauart) | 2:39 | 2022-07-14 |  |
+| [Drama queen](https://open.spotify.com/track/4RVPmkIVvzcWF27zfn3sap) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X) | [Drama queen](https://open.spotify.com/album/01mO9ZxpTUCroczjsauart) | 2:39 | 2022-07-14 | 2022-09-02 |
 | [Du mal à te dire](https://open.spotify.com/track/6krr1QQpT7nN8fjLjdWXIC) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Stamina, Memento](https://open.spotify.com/album/2D5pAt1QO1tcuM8oe3O8T9) | 3:27 | 2022-01-06 | 2022-01-21 |
 | [Elle veut](https://open.spotify.com/track/6YC6zgdJog4gw0y2IyfRmR) | [Sasso](https://open.spotify.com/artist/35B6bq5keTR1PYEahq1TAF), [Kaza](https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh) | [Enfant2LaRue Vol\. 2](https://open.spotify.com/album/5Hq4ZIoPwHNYCQiDxxUIpG) | 3:06 | 2022-01-06 | 2022-07-15 |
 | [Fais de l'argent](https://open.spotify.com/track/5a96UhbVvqjmI4dEXr7wLb) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Fais de l'argent](https://open.spotify.com/album/12vTC7BH3Scluv2woieacw) | 2:25 | 2022-07-28 |  |

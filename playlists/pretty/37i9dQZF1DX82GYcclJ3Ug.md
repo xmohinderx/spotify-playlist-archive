@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. Just cool music you need to hear\. Cover: Matt Maeson
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,093,953 likes - 126 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,092,947 likes - 126 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 63 | [cross your mind](https://open.spotify.com/track/09gqiE8sqspbkfdr2x0CBs) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [cross your mind](https://open.spotify.com/album/0Fbrqq0fBxXMgavgOfsG37) | 2:40 |
 | 64 | [Designated Driver](https://open.spotify.com/track/2sAUIlFLzyDMMI17TtohBf) | [Taylor Janzen](https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc) | [Designated Driver](https://open.spotify.com/album/3U7ZF5UANVBDXSOiSSHXhl) | 3:58 |
 | 65 | [soft\-glow](https://open.spotify.com/track/2XZrbIxlZ0FPB9plk7d2oE) | [grandma](https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk) | [Angelhood](https://open.spotify.com/album/5lx540ZgFCIotz9DmoHsQh) | 3:13 |
-| 66 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi) | 2:21 |
+| 66 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/0GxWXE6ltKk4Gx3WyWLLrW) | 2:21 |
 | 67 | [Yellow](https://open.spotify.com/track/3AsPDfysPpXHXm8JK85F3W) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Yellow](https://open.spotify.com/album/46x6iizcB1N1WdwHO7EO7e) | 3:48 |
 | 68 | [Shine A Light](https://open.spotify.com/track/4Nj2u5IeS8CenFKuSATlm8) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Shine A Light](https://open.spotify.com/album/7b6ghBEIH75YC11a9bNQzA) | 5:56 |
 | 69 | [The Walk Home](https://open.spotify.com/track/0H80LQh9hsFkw8KixEzzpK) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [ACT II: EXILE](https://open.spotify.com/album/2N3H5myg0DidN2t5XejOWT) | 3:16 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 125 | [Talk of the Town](https://open.spotify.com/track/4rTD34yd4a3ECP7vpkyFf0) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Talk of the Town](https://open.spotify.com/album/0zvyYHDg3kFHlcXmVfwL8B) | 3:27 |
 | 126 | [scream!](https://open.spotify.com/track/7ht1CeMPNfLFPm5rrFvavq) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Revival](https://open.spotify.com/album/7jPYa8KUobduH8YFkep7AI) | 3:19 |
 
-Snapshot ID: `MTY2MTc5MDA2NSwwMDAwMDAwMDdhZDc5MDBiYjdjOWM2OGE4NGFlMzhmYWE5YTFjZWEx`
+Snapshot ID: `MTY2MTc5MDA2NSwwMDAwMDAwMDljMmUxODQxZDU3NGI0NDJmNTlmNzU5YTQyNWMyZGU2`

@@ -1,12 +1,12 @@
 {
   "description": "Utan bra musik blir det ingen bra AW. S\u00e5 enkel \u00e4r ekvationen.",
-  "num_followers": 27020,
+  "num_followers": 27026,
   "original_name": "After Work",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMGM0ZDAzMTAzZDIzN2MyZWFkOTdiMmFiOTFlN2JjMmU4",
+  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMDUyM2EzY2MzYzc1ZWI1MDk2N2U1YjdkY2RkNDBkZDM2",
   "tracks": [
     {
       "added_at": "2020-02-18 13:31:30",
@@ -727,26 +727,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "We Got Love",
-        "url": "https://open.spotify.com/album/4GtslEn7rHERVWRlqrYehy"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        }
-      ],
-      "duration_ms": 213040,
-      "name": "We Got Love",
-      "url": "https://open.spotify.com/track/35mMXfym6C9VOTUVrcKKZp"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "Nobody",
         "url": "https://open.spotify.com/album/3qAWioFdKw27uQvHloas7l"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 211040,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/2qfEcCkEo5NscA9GL7ER72"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "We Got Love",
+        "url": "https://open.spotify.com/album/4GtslEn7rHERVWRlqrYehy"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "duration_ms": 213040,
+      "name": "We Got Love",
+      "url": "https://open.spotify.com/track/35mMXfym6C9VOTUVrcKKZp"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -871,6 +871,22 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
+        "name": "Solo Dance",
+        "url": "https://open.spotify.com/album/7J6SYqcOQ705IYA0DUec38"
+      },
+      "artists": [
+        {
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+        }
+      ],
+      "duration_ms": 174933,
+      "name": "Solo Dance",
+      "url": "https://open.spotify.com/track/3R6dPfF2yBO8mHySW1XDAa"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
         "name": "Perfect (feat. Haris)",
         "url": "https://open.spotify.com/album/3hOyUjdcI6wGuhk52tuH4g"
       },
@@ -959,22 +975,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Solo Dance",
-        "url": "https://open.spotify.com/album/7J6SYqcOQ705IYA0DUec38"
-      },
-      "artists": [
-        {
-          "name": "Martin Jensen",
-          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
-        }
-      ],
-      "duration_ms": 174933,
-      "name": "Solo Dance",
-      "url": "https://open.spotify.com/track/3R6dPfF2yBO8mHySW1XDAa"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "One Touch",
         "url": "https://open.spotify.com/album/73JUDiyiu0OXCzzM2jjVkL"
       },
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Snacks",
-        "url": "https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "Ina Wroldsen",
-          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
-        }
-      ],
-      "duration_ms": 208106,
-      "name": "Breathe (feat. Ina Wroldsen)",
-      "url": "https://open.spotify.com/track/4Vbz3osCh6DwHYv5gVv5H2"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "I Don't Care (with Justin Bieber) [Jonas Blue Remix]",
         "url": "https://open.spotify.com/album/35Cuz13gq76FoBKrEMlYTT"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 147789,
       "name": "Knockout",
       "url": "https://open.spotify.com/track/1YFwmEAnSUx9ZAgWT39i1L"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Snacks",
+        "url": "https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Ina Wroldsen",
+          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
+        }
+      ],
+      "duration_ms": 208106,
+      "name": "Breathe (feat. Ina Wroldsen)",
+      "url": "https://open.spotify.com/track/4Vbz3osCh6DwHYv5gVv5H2"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Lion",
-        "url": "https://open.spotify.com/album/4ASMkFoc7GDXkWqvv9zHwG"
-      },
-      "artists": [
-        {
-          "name": "Hearts & Colors",
-          "url": "https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ"
-        }
-      ],
-      "duration_ms": 216410,
-      "name": "Lion",
-      "url": "https://open.spotify.com/track/6GWNh4A7t4UHtUupgL5Evj"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "Sylo Songs",
         "url": "https://open.spotify.com/album/5q8Wc6yo9hQfLH9neXgXRR"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 127268,
       "name": "FOMO",
       "url": "https://open.spotify.com/track/02zYabT1FTwMy8byKpd40O"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Lion",
+        "url": "https://open.spotify.com/album/4ASMkFoc7GDXkWqvv9zHwG"
+      },
+      "artists": [
+        {
+          "name": "Hearts & Colors",
+          "url": "https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ"
+        }
+      ],
+      "duration_ms": 216410,
+      "name": "Lion",
+      "url": "https://open.spotify.com/track/6GWNh4A7t4UHtUupgL5Evj"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1391,6 +1391,26 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
+        "name": "Dynamite (feat. Pretty Sister)",
+        "url": "https://open.spotify.com/album/1B0jux6nCrSuez1iPS7tUJ"
+      },
+      "artists": [
+        {
+          "name": "Nause",
+          "url": "https://open.spotify.com/artist/4PVn1b2WnnXdq80C7uaZLZ"
+        },
+        {
+          "name": "Pretty Sister",
+          "url": "https://open.spotify.com/artist/4bvWFV51SAEocM22uiDOza"
+        }
+      ],
+      "duration_ms": 195428,
+      "name": "Dynamite (feat. Pretty Sister)",
+      "url": "https://open.spotify.com/track/2Ae5awwKvQpTBKQHr1TYCg"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
         "name": "Bruised Not Broken (feat. MNEK & Kiana Led\u00e9)",
         "url": "https://open.spotify.com/album/0z4oE7Qw23PPTKR8Upu0Iu"
       },
@@ -1411,26 +1431,6 @@
       "duration_ms": 160909,
       "name": "Bruised Not Broken (feat. MNEK & Kiana Led\u00e9)",
       "url": "https://open.spotify.com/track/2ak79ho44RiDi9DFrqYgfq"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "Dynamite (feat. Pretty Sister)",
-        "url": "https://open.spotify.com/album/1B0jux6nCrSuez1iPS7tUJ"
-      },
-      "artists": [
-        {
-          "name": "Nause",
-          "url": "https://open.spotify.com/artist/4PVn1b2WnnXdq80C7uaZLZ"
-        },
-        {
-          "name": "Pretty Sister",
-          "url": "https://open.spotify.com/artist/4bvWFV51SAEocM22uiDOza"
-        }
-      ],
-      "duration_ms": 195428,
-      "name": "Dynamite (feat. Pretty Sister)",
-      "url": "https://open.spotify.com/track/2Ae5awwKvQpTBKQHr1TYCg"
     },
     {
       "added_at": "2020-02-18 13:31:30",

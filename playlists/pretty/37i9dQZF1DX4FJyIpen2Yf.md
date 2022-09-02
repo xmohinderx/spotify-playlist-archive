@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FJyIpen2Yf.md) - [plain]
 
 > Listen to these flows during your yoga flow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,350 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,317 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FJyIpen2Yf.md) - [plain]
 | 23 | [EARFQUAKE](https://open.spotify.com/track/5hVghJ4KaYES3BFUATCYn0) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 3:10 |
 | 24 | [WAP \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [WAP \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ) | 3:07 |
 | 25 | [The Way Life Goes \(feat\. Oh Wonder\)](https://open.spotify.com/track/2eAZfqOm4EnOF9VvN50Tyc) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Luv Is Rage 2](https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE) | 3:41 |
-| 26 | [MIDDLE CHILD](https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [MIDDLE CHILD](https://open.spotify.com/album/3XzSOIE6zGLliuqsVGLmUc) | 3:33 |
-| 27 | [a lot](https://open.spotify.com/track/2t8yVaLvJ0RenpXUIAC52d) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was](https://open.spotify.com/album/007DWn799UWvfY1wwZeENR) | 4:48 |
+| 26 | [a lot](https://open.spotify.com/track/2t8yVaLvJ0RenpXUIAC52d) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was](https://open.spotify.com/album/007DWn799UWvfY1wwZeENR) | 4:48 |
+| 27 | [MIDDLE CHILD](https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [MIDDLE CHILD](https://open.spotify.com/album/3XzSOIE6zGLliuqsVGLmUc) | 3:33 |
 | 28 | [Going Bad \(feat\. Drake\)](https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 3:00 |
 | 29 | [DNA.](https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 3:05 |
 | 30 | [I Like It](https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 4:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FJyIpen2Yf.md) - [plain]
 | 49 | [Con Altura](https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [El Guincho](https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI) | [Con Altura](https://open.spotify.com/album/4bxHLppgdmaYJk0yfdcP0l) | 2:41 |
 | 50 | [Stir Fry](https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture II](https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y) | 3:10 |
 
-Snapshot ID: `MTY0MDExNDg5NCwwMDAwMDAwMGE2MWE2YjY4ZDg5YzNmZjZhNjJkNTNkMThkOThhYjcx`
+Snapshot ID: `MTY0MDExNDg5NCwwMDAwMDAwMDE5ODM2MzdjODUzOTVlZTdmNWIyYzNiMDkzNDM1ODc1`

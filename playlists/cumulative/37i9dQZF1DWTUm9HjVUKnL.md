@@ -2,7 +2,7 @@
 
 ### [Spotify Singles: Complete Collection](https://open.spotify.com/playlist/37i9dQZF1DWTUm9HjVUKnL)
 
-> Spotify Singles\. Like nothing you’ve heard before\.  Cover: Glass Animals, Arooj Aftab, and The Kid LAROI.
+> Spotify Singles\. Like nothing you’ve heard before\.  Cover: Giveon
 
 907 songs - 2 day 7 hr 49 min - [published](https://open.spotify.com/playlist/0vGu0vKKShLhsGimUZi8EG)
 

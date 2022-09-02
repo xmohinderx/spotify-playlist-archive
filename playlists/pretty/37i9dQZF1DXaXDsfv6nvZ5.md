@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXDsfv6nvZ5.md) - [plain]
 
 > The soulful tunes to ease you into your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 710,976 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 710,900 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXDsfv6nvZ5.md) - [plain]
 | 3 | [It Runs Through Me](https://open.spotify.com/track/02CygBCQOIyEuhNZqHHcNx) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 4:21 |
 | 4 | [Baby Powder](https://open.spotify.com/track/4Nw7kywWurWS6ceinn1cHK) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Division](https://open.spotify.com/album/2VG4oj0kGjOydr6j8deI7Z) | 2:56 |
 | 5 | [Coastin’](https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Coastin’](https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr) | 2:55 |
-| 6 | [Use Me](https://open.spotify.com/track/4gRA0i5sxx3jAhHaVjPnUN) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Still Bill](https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v) | 3:48 |
-| 7 | [Didn't Cha Know](https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 3:58 |
+| 6 | [Didn't Cha Know](https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 3:58 |
+| 7 | [Use Me](https://open.spotify.com/track/4gRA0i5sxx3jAhHaVjPnUN) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Still Bill](https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v) | 3:48 |
 | 8 | [Your Love Is King](https://open.spotify.com/track/1j2LuIf7mv15ZVug1Xy5qz) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Diamond Life](https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0) | 3:39 |
 | 9 | [Cranes in the Sky](https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [A Seat at the Table](https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM) | 4:10 |
 | 10 | [Lady](https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 5:46 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXDsfv6nvZ5.md) - [plain]
 | 39 | [Stay Where You Are](https://open.spotify.com/track/68GFZFc2Fa5HLdv6TXziSD) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Stay Where You Are](https://open.spotify.com/album/1Mun53MZEPEfXJpHbCArDJ) | 3:29 |
 | 40 | [Speak To Me](https://open.spotify.com/track/0CZmy9ctYRi2Ux5uFLGqSr) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [I AM](https://open.spotify.com/album/7sp7t59cny1pmM0JImzODg) | 2:46 |
 | 41 | [Better Than I Imagined \(Feat\. H.E.R\. & Meshell Ndegeocello\)](https://open.spotify.com/track/04vYVsWbhkQaTLx2kgVNks) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Better Than I Imagined \(Feat\. H.E.R\. & Meshell Ndegeocello\)](https://open.spotify.com/album/2AS4H3CIUtrIzrK1UbsvWW) | 4:59 |
-| 42 | [Close Your Eyes](https://open.spotify.com/track/20LWQNq7yaMPDhkZsRCoMk) | [Black Atlass](https://open.spotify.com/artist/7AbKOHOvn27dK0FOiboAno) | [Dream Awake](https://open.spotify.com/album/0dwlqqTeFovdI0oMN4dfYQ) | 3:23 |
-| 43 | [Superstar](https://open.spotify.com/track/0PKcHf6NgPitUVFwzKnz3c) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo), [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [Love Is The New Black](https://open.spotify.com/album/1CHYpX14nBeQ17oNSF9n5h) | 6:35 |
-| 44 | [Only You](https://open.spotify.com/track/5MUvzjJ2XXvPZq3KU6znpP) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Rare Changes](https://open.spotify.com/album/7pue5cbfa0TUgCUth2KFr8) | 3:14 |
+| 42 | [The Reason](https://open.spotify.com/track/1JKH156F7aeqFLjHK892H6) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [The Reason](https://open.spotify.com/album/6B7oBbXH4oKMnq9ep5xEBA) | 3:24 |
+| 43 | [Close Your Eyes](https://open.spotify.com/track/20LWQNq7yaMPDhkZsRCoMk) | [Black Atlass](https://open.spotify.com/artist/7AbKOHOvn27dK0FOiboAno) | [Dream Awake](https://open.spotify.com/album/0dwlqqTeFovdI0oMN4dfYQ) | 3:23 |
+| 44 | [Superstar](https://open.spotify.com/track/0PKcHf6NgPitUVFwzKnz3c) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo), [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [Love Is The New Black](https://open.spotify.com/album/1CHYpX14nBeQ17oNSF9n5h) | 6:35 |
 | 45 | [Like You'll Never See Me Again](https://open.spotify.com/track/0KQ6GRR5qKY3XrdsEHU5hT) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Like You'll Never See Me Again](https://open.spotify.com/album/5jXpTr504jjizPvcn9FnZP) | 3:58 |
-| 46 | [Another Life](https://open.spotify.com/track/2f9mmR37OEceYERbXml0Nj) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 5:58 |
-| 47 | [Strength, Courage, and Wisdom \- India Arie](https://open.spotify.com/track/5yTu3MMxAPOUQzfR13mxI3) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Muzik of the Mind and Spirit \- a Concept Compilation](https://open.spotify.com/album/7ermETX1IloxCO80fX1poy) | 5:01 |
-| 48 | [The Reason](https://open.spotify.com/track/1JKH156F7aeqFLjHK892H6) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [The Reason](https://open.spotify.com/album/6B7oBbXH4oKMnq9ep5xEBA) | 3:24 |
+| 46 | [Only You](https://open.spotify.com/track/5MUvzjJ2XXvPZq3KU6znpP) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Rare Changes](https://open.spotify.com/album/7pue5cbfa0TUgCUth2KFr8) | 3:14 |
+| 47 | [Another Life](https://open.spotify.com/track/2f9mmR37OEceYERbXml0Nj) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 5:58 |
+| 48 | [Strength, Courage, and Wisdom \- India Arie](https://open.spotify.com/track/5yTu3MMxAPOUQzfR13mxI3) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Muzik of the Mind and Spirit \- a Concept Compilation](https://open.spotify.com/album/7ermETX1IloxCO80fX1poy) | 5:01 |
 | 49 | [Grow](https://open.spotify.com/track/3jPd7hIM0feCje8ZbVu6en) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Grow](https://open.spotify.com/album/3wzVULwHGvLkwiDdTMGQMZ) | 3:00 |
 | 50 | [Neva Gonna Break My Heart Again](https://open.spotify.com/track/7c9d8GYjOixUL7I3o2BJn0) | [Tweet](https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo) | [Neva Gonna Break My Heart Again](https://open.spotify.com/album/4GiaM3A5j9Yll69ESxGKyE) | 5:18 |
 
-Snapshot ID: `MTY2MTQ4OTE4MiwwMDAwMDAwMGVjZjc0MzIzMDY0ZTk4MmU2NjFiYTg0M2ViNmFjOWJm`
+Snapshot ID: `MTY2MTQ4OTE4MiwwMDAwMDAwMGRjY2EzM2VhNjVkN2VmMmFmNzQwOGUyN2EzMjk1ODE5`

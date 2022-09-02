@@ -2,7 +2,7 @@
 
 ### [90s Party](https://open.spotify.com/playlist/37i9dQZF1DXdo6A3mWpdWx)
 
-> The biggest party hits of the 1990s\. Cover: Vengaboys.
+> The biggest party hits of the 1990s\. Cover: Jennifer Lopez.
 
 296 songs - 20 hr 6 min - [published](https://open.spotify.com/playlist/6TUZaOg0zmZ7RSt0SzZOvF)
 

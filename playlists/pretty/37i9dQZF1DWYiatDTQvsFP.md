@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiatDTQvsFP.md) - [plain]
 
 > it's scary hours...⛈ cover: Alicia Keys
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,449 likes - 100 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,029 likes - 100 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

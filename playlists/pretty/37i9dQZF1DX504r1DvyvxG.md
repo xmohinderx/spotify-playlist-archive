@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 
 > Kick back with a collection of iconic and new acoustic tracks with that classic feel\. Cover: George Harrison
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,456,220 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,456,004 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,17 +26,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 16 | [In My Life \- Remastered 2009](https://open.spotify.com/track/3KfbEIOC7YIv90FIfNSZpo) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:26 |
 | 17 | [Me and Julio Down by the Schoolyard](https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Paul Simon](https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep) | 2:44 |
 | 18 | [She's Always a Woman](https://open.spotify.com/track/5RgFlk1fcClZd0Y4SGYhqH) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 3:21 |
-| 19 | [Wuthering Heights](https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Kick Inside](https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1) | 4:29 |
+| 19 | [The Sound of Silence \- Acoustic Version](https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Wednesday Morning, 3 A.M.](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) | 3:05 |
 | 20 | [Into the Mystic \- 2013 Remaster](https://open.spotify.com/track/3lh3iiiJeiBXHSZw6u0kh6) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance](https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam) | 3:25 |
 | 21 | [Blackbird \- Remastered 2009](https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 2:18 |
-| 22 | [The Sound of Silence \- Acoustic Version](https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Wednesday Morning, 3 A.M.](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) | 3:05 |
+| 22 | [Wuthering Heights](https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Kick Inside](https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1) | 4:29 |
 | 23 | [Fire and Rain \- 2019 Remaster](https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James \(2019 Remaster\)](https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx) | 3:23 |
 | 24 | [Sunrise](https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Feels Like Home](https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL) | 3:20 |
 | 25 | [The Weight \- Remastered 2000](https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Remastered\)](https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE) | 4:34 |
 | 26 | [Me and Bobby McGee](https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Pearl \(Legacy Edition\)](https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf) | 4:31 |
 | 27 | [Tears in Heaven \- Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster](https://open.spotify.com/track/612VcBshQcy4mpB2utGc3H) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\)](https://open.spotify.com/album/3ebyEGol0Abc7VAxYf7vEg) | 4:40 |
-| 28 | [The Boxer](https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 5:08 |
-| 29 | [Pink Moon](https://open.spotify.com/track/4KROoGIaPaR1pBHPnR3bwC) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg) | 2:04 |
+| 28 | [Pink Moon](https://open.spotify.com/track/4KROoGIaPaR1pBHPnR3bwC) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg) | 2:04 |
+| 29 | [The Boxer](https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 5:08 |
 | 30 | [Never Going Back Again \- 2004 Remaster](https://open.spotify.com/track/19Shlms2uTnOjIUg50TXzd) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 2:14 |
 | 31 | [50 Ways to Leave Your Lover](https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Still Crazy After All These Years](https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W) | 3:37 |
 | 32 | [Going to California \- Remaster](https://open.spotify.com/track/70gbuMqwNBE2Y5rkQJE9By) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 3:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 99 | [It's All Over Now Baby Blue](https://open.spotify.com/track/7hoWkhuHv9b3jiCbxX1kMm) | [Marianne Faithfull](https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB) | [Rich Kid Blues](https://open.spotify.com/album/7m06IfHTHIxJHPlOrCybrk) | 3:49 |
 | 100 | [Maggie May \- Remastered Version](https://open.spotify.com/track/1r3kj1yMff7ilIsR7hpvUo) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Definitive Rod Stewart](https://open.spotify.com/album/16B8kK28QgKIYTb7XyLMuj) | 5:45 |
 
-Snapshot ID: `MTY1MzY3NzIyMiwwMDAwMDAwMDczODhjOGFiY2RhMDBhZWQ4MmFkMzE4YTNmNzEwYmNl`
+Snapshot ID: `MTY1MzY3NzIyMiwwMDAwMDAwMGIxZTA4MTVmN2EzZjkwNjQxY2IzNzVmYWExODQ1YWQ2`

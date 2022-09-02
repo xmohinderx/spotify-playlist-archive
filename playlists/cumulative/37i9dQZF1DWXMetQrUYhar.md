@@ -2,9 +2,9 @@
 
 ### [Spotify Singles: Indie & Alternative](https://open.spotify.com/playlist/37i9dQZF1DWXMetQrUYhar)
 
-> Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles\. Cover: Wilco, Yeah Yeah Yeahs, and The Marías
+> Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles\. Cover: MUNA
 
-173 songs - 10 hr 53 min - [published](https://open.spotify.com/playlist/0jlSpfHrGrut3sIW12gjF5)
+175 songs - 10 hr 59 min - [published](https://open.spotify.com/playlist/0jlSpfHrGrut3sIW12gjF5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,10 +78,11 @@
 | [home/i want your love \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0Abdq8INymRlkYbgM9QnGe) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Spotify Singles](https://open.spotify.com/album/75bOa6MJhVgz1uzcZBUNhf) | 10:22 | 2021-10-27 |  |
 | [Hot Thoughts \- Jim Eno Sessions](https://open.spotify.com/track/5CdH283hajBcB2V6RHIKul) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Spotify Singles](https://open.spotify.com/album/2woqdm6WgKLkmOpLiNrDV6) | 3:38 | 2022-03-30 |  |
 | [Hot Thoughts \- Jim Eno Sessions](https://open.spotify.com/track/67zcOjNtlVCVmNA6sE0spj) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Spotify Singles](https://open.spotify.com/album/5A4mu5CvWnnttNJAU6ouQR) | 3:38 | 2021-10-27 | 2022-07-29 |
-| [Houses \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1NhfDvGAuVnc7IgApijwRa) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Spotify Singles](https://open.spotify.com/album/39XVP9BnseAz2Bn42EuWlS) | 4:14 | 2021-10-27 |  |
+| [Houses \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1NhfDvGAuVnc7IgApijwRa) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Spotify Singles](https://open.spotify.com/album/39XVP9BnseAz2Bn42EuWlS) | 4:14 | 2021-10-27 | 2022-09-02 |
 | [Hunger \- Recorded At RAK Studios, London](https://open.spotify.com/track/1HwuSP4S2lun5IExwkCEOi) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Spotify Singles](https://open.spotify.com/album/6MfeMJhhtj6Aas0rDfkHcO) | 3:34 | 2021-10-27 |  |
 | [Hush – Spotify Singles](https://open.spotify.com/track/4dFDrETHRPwHd6rX1LrlIP) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Spotify Singles](https://open.spotify.com/album/4JaFGe9FKcubMLP6YVzCYP) | 2:36 | 2021-10-27 |  |
 | [I Don't Want To Grow Up \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/0Ba6y77PRggqF7CTVSa9cV) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [Spotify Singles](https://open.spotify.com/album/1OuYsrX3M9Ijs31iW04H4y) | 3:07 | 2021-10-27 |  |
+| [I'll Call You Mine \- Spotify Singles](https://open.spotify.com/track/4xAozCywkOU2rkKn0lmZJv) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Spotify Singles](https://open.spotify.com/album/6lsdqhAPgBr4zykC1SXhW5) | 2:26 | 2022-09-01 |  |
 | [I'm Goin' Down \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/4l7aryEsduuO7tQU8ZY46e) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Spotify Singles](https://open.spotify.com/album/7n2MqOxGeX7chH9Ld11cyA) | 3:27 | 2021-10-27 |  |
 | [If I Ever Was A Child \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/69eSem5Y1nrCaGi2FrQhVJ) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Spotify Singles](https://open.spotify.com/album/1VSf2rThMsBiBira4kH0Ak) | 3:12 | 2021-10-27 |  |
 | [In Cold Blood \- Live from Spotify Studios, New York City, NY](https://open.spotify.com/track/4rqBVkiHkv7RovTm5CFyyt) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Spotify Singles](https://open.spotify.com/album/7vD0UV7p87sy5MnOhJqDDW) | 3:22 | 2021-10-27 |  |
@@ -147,6 +148,7 @@
 | [Slip Away \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4LtOPAPRHxFCRqC0gp4i7N) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Spotify Singles](https://open.spotify.com/album/4WQLkeOJulFut0ZPTFQQdi) | 2:48 | 2022-03-30 |  |
 | [Stanley Park \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/1cyhegb61PppegILkP2qch) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Spotify Singles](https://open.spotify.com/album/3nZnDPx6tHdwMeseOnkGnU) | 2:29 | 2022-03-30 |  |
 | [Stanley Park \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3EIRyXhoQP8zglbqDif1NX) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Spotify Singles](https://open.spotify.com/album/3XV7BmKTGdfoxGEaKDQbJb) | 2:29 | 2021-10-27 | 2022-07-29 |
+| [Stay \- Spotify Singles](https://open.spotify.com/track/2mKGjVCoxL8Um9GkNhhyto) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Spotify Singles](https://open.spotify.com/album/6lsdqhAPgBr4zykC1SXhW5) | 2:55 | 2022-09-01 |  |
 | [Stayaway \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/38TDGceS2vVyOxIdU4n9ZU) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Spotify Singles](https://open.spotify.com/album/7xPNSOtnXFMOsTnvQrLeXH) | 4:11 | 2021-10-27 |  |
 | [Strangers \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2OODSSTxWK2i6LQvQJD557) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Spotify Singles](https://open.spotify.com/album/2LRvMxrP2MbJATWGkCJ3Y2) | 3:32 | 2021-10-27 |  |
 | [Such A Simple Thing \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Spotify Singles](https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu) | 5:07 | 2021-10-27 |  |
@@ -179,7 +181,7 @@
 | [When the Night is Over \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2omW4OJrifRkLNb1byj0e6) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Spotify Singles](https://open.spotify.com/album/3oTpxylhyTiGLaZ8IRjJQB) | 5:10 | 2021-10-27 |  |
 | [Whole Wide World \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1r6JOvVgGQ2QU2uNrvk98g) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Spotify Singles](https://open.spotify.com/album/68eMz3o7xJZLO9P2RJj2eI) | 3:41 | 2021-10-27 |  |
 | [Why Did You Run? \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/3oJRLetXV9sNjdT3zrHHDm) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Spotify Singles](https://open.spotify.com/album/6i6VBbBMbTYfB9oso3IrSN) | 6:03 | 2021-10-27 |  |
-| [Wild Flowers \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7APIPUsbonOjGBUhuNXqM0) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [Spotify Singles](https://open.spotify.com/album/2HY1zxQvBup7go6hEWYl31) | 2:51 | 2021-10-27 |  |
+| [Wild Flowers \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7APIPUsbonOjGBUhuNXqM0) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [Spotify Singles](https://open.spotify.com/album/2HY1zxQvBup7go6hEWYl31) | 2:51 | 2021-10-27 | 2022-09-02 |
 | [Wonderwall \- Live from Spotify Sessions, Metropolis Studios, London](https://open.spotify.com/track/3EfTQn30P4fqXxRf9IN7x6) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Spotify Singles](https://open.spotify.com/album/2XW8Jn1nXmHCPbawvmJ2JC) | 3:18 | 2021-10-27 |  |
 
 \*This playlist was first scraped on 2022-01-25. Prior content cannot be recovered.

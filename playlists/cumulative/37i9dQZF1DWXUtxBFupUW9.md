@@ -4,7 +4,7 @@
 
 > Exercise together with uplifting soul music.
 
-127 songs - 6 hr 32 min - [published](https://open.spotify.com/playlist/1ZRKCMPICSklVRCzmyn6z2)
+128 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/1ZRKCMPICSklVRCzmyn6z2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [It's Growing \- Single Version](https://open.spotify.com/track/4bFQasH5MMeJFnmSfMCVPm) | [Bobby Taylor & The Vancouvers](https://open.spotify.com/artist/2yu275LOWOLmpD885w1MMy) | [Bobby Taylor & The Vancouvers](https://open.spotify.com/album/2ncW7P7vWGOpjRD3W0mtGg) | 2:59 | 2022-03-24 | 2022-04-20 |
 | [Knock on Wood](https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c) | [Eddie Floyd](https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF) | [Knock On Wood](https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF) | 3:09 | 2021-12-20 |  |
 | [Land of 1000 Dances](https://open.spotify.com/track/61w1Ry5X8UUsbNoPG7zRP1) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [Rhino Hi\-Five: Wilson Pickett](https://open.spotify.com/album/3R7ZC37Ur3zx40M06RLMMd) | 2:26 | 2021-12-20 | 2022-07-29 |
+| [Land of 1000 Dances](https://open.spotify.com/track/76ICmoJ4PcoMWoooaTxnQs) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [The Exciting Wilson Pickett](https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm) | 2:26 | 2022-08-12 |  |
 | [Lost in Music \- 1995 Remaster](https://open.spotify.com/track/7zpm7lTY2EZn7AfFm3mGg2) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [The Best of Sister Sledge \(1973\-1985\)](https://open.spotify.com/album/4L1Astvd0LwOkF49jQ2Uyt) | 4:47 | 2021-12-20 | 2022-07-29 |
 | [Love Is All Right](https://open.spotify.com/track/5ZCUC4JTYg4JmAXWQotV5T) | [Cliff Nobles](https://open.spotify.com/artist/0i0ELbteoVYQDbSNCU3Spz) | [The Phil\-LA of Soul Singles Collection 1968\-1972](https://open.spotify.com/album/1T0rnH4pe84Dh0X2g1F8wW) | 2:42 | 2022-01-21 | 2022-07-17 |
 | [Love Train](https://open.spotify.com/track/28285KFbyCq8sJofn58qlD) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 2:58 | 2021-12-20 |  |
@@ -104,7 +105,7 @@
 | [Soul Revolution](https://open.spotify.com/track/1Eu7WRMIg3lUhXtVAI2jCn) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Soul Revolution](https://open.spotify.com/album/04Jkig1VBtJLGssHJHsWDN) | 3:15 | 2022-03-24 | 2022-04-10 |
 | [Spiritual Thang](https://open.spotify.com/track/1lcZPCRAuVXCHSqPsFaWlw) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov) | [True to Myself](https://open.spotify.com/album/0HgmysKc552d8G01TdbUa3) | 4:00 | 2022-03-24 | 2022-04-20 |
 | [Sugar Dumplin'](https://open.spotify.com/track/2BOw0dWszhNSkKRHSuvqOP) | [Maxine Brown](https://open.spotify.com/artist/1kCqTUSrWJEHZm2GSpRuMV) | [Out Of Sight](https://open.spotify.com/album/6Qpdl3QaU93V5Pi6eRdcC3) | 2:25 | 2022-03-24 | 2022-04-21 |
-| [Sweet Soul Music](https://open.spotify.com/track/0pvA063uNyGQFp7DNtmk0P) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Rhino Hi\-Five: Arthur Conley](https://open.spotify.com/album/6dYQhuDC49jXh7YvTtb0oT) | 2:21 | 2021-12-20 |  |
+| [Sweet Soul Music](https://open.spotify.com/track/0pvA063uNyGQFp7DNtmk0P) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Rhino Hi\-Five: Arthur Conley](https://open.spotify.com/album/6dYQhuDC49jXh7YvTtb0oT) | 2:21 | 2021-12-20 | 2022-09-02 |
 | [Take Me Girl, I'm Ready](https://open.spotify.com/track/5LHHNatzxpJ9uxFVv4z9zZ) | [Jr\. Walker & The All Stars](https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd) | [The Definitive Collection](https://open.spotify.com/album/6pDK4Z6EZy39RSvD4HWhTn) | 4:00 | 2022-01-21 | 2022-07-06 |
 | [Tally Ho!](https://open.spotify.com/track/4doVTABOiGV6XEytZtV2Dv) | [Jr\. Walker & The All Stars](https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd) | [Shotgun \- MotownSelect.com](https://open.spotify.com/album/00w16tADWvPLCdmN9WhQuu) | 4:42 | 2022-01-21 | 2022-04-18 |
 | [Tell Me Baby](https://open.spotify.com/track/4U3NxdMXeHIGph2gjDyQqK) | [Garnet Mimms & The Enchanters](https://open.spotify.com/artist/1ktvF9yU9iWgY0aGlKfTS4) | [The Best Of Barnet Mimms: Cry Baby](https://open.spotify.com/album/0Kj6PjTGFNnh8EsFPPj3cI) | 2:44 | 2022-03-24 | 2022-04-21 |

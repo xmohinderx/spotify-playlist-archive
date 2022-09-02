@@ -4,7 +4,7 @@
 
 > New music from Lil Tjay, DJ Khaled, Offset and Quavo & Takeoff.
 
-1,328 songs - 2 day 20 hr 23 min - [published](https://open.spotify.com/playlist/5P8tKmuueRelbQ17C8xRQo)
+1,329 songs - 2 day 20 hr 27 min - [published](https://open.spotify.com/playlist/5P8tKmuueRelbQ17C8xRQo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Beat the Odds](https://open.spotify.com/track/2BJWxD8xKrDv8vneTvTIm9) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Beat the Odds](https://open.spotify.com/album/5jopeyeE3iVZ5zlEMadVcv) | 2:30 | 2022-08-26 |  |
 | [Beat The Streets](https://open.spotify.com/track/3z8OCUCuwJop3DB4tIMsRX) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Beat The Streets](https://open.spotify.com/album/5b8LqxodAqVzwPvozld6ty) | 2:34 | 2022-03-04 | 2022-05-20 |
 | [Because Of You](https://open.spotify.com/track/75N0cen8wTAlL5nPFprGoE) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Because Of You](https://open.spotify.com/album/35K2EC0ekebCHw5sHn5i1B) | 2:27 | 2020-02-14 | 2020-02-21 |
+| [Beez In The Trap](https://open.spotify.com/track/0x335qdLBS6o30hYdc8h2I) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Pink Friday ..\. Roman Reloaded](https://open.spotify.com/album/6OfCOPtcPuhlAovGJ52uZO) | 4:28 | 2022-09-01 |  |
 | [Before I Go \(feat\. Rod Wave\)](https://open.spotify.com/track/1lEhqacQOvXZ011moPrkQE) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Before I Go \(feat\. Rod Wave\)](https://open.spotify.com/album/4ih8LPpqdYPezAMaPAHJYT) | 3:24 | 2021-08-17 | 2021-08-28 |
 | [Behind Barz \- Bonus](https://open.spotify.com/track/5r7WvQtyPfy1xch5zMgGRp) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Top Boy \(A Selection of Music Inspired by the Series\)](https://open.spotify.com/album/334X6XoNKUzpAQbm5FPsMh) | 2:43 | 2019-09-13 | 2019-12-13 |
 | [Best Friend \(feat\. Doja Cat\)](https://open.spotify.com/track/2etHQJxIbV0soyPhelVs9Y) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Best Friend \(feat\. Doja Cat\)](https://open.spotify.com/album/28Yv9BE6ZI6dccK0sxbEq4) | 2:35 | 2021-01-08 | 2021-05-08 |

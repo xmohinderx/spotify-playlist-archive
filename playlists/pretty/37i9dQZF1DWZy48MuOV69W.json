@@ -1,12 +1,12 @@
 {
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
-  "num_followers": 44723,
+  "num_followers": 44720,
   "original_name": "Fireside Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDA5MDkzOSwwMDAwMDAwMDBiMjE3MWEyYmVlY2EwYmVmOGQ4Y2Y4OWZjN2RhM2U0",
+  "snapshot_id": "MTY0MDA5MDkzOSwwMDAwMDAwMGY1YzUwYzdkZDNiNDI2ZDgyZTgyMDdmZGRjYWM2MGVl",
   "tracks": [
     {
       "added_at": "2021-12-21 12:48:59",
@@ -415,22 +415,6 @@
     {
       "added_at": "2021-12-21 12:48:59",
       "album": {
-        "name": "Let's Share Christmas",
-        "url": "https://open.spotify.com/album/1NfiYHxoziSkGlC121fURe"
-      },
-      "artists": [
-        {
-          "name": "Don Sebesky",
-          "url": "https://open.spotify.com/artist/4yr0fHJhSr7ZWlsoZIbg44"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "Snowfall",
-      "url": "https://open.spotify.com/track/1UWCJQJv0PbtWa2KXyN6yY"
-    },
-    {
-      "added_at": "2021-12-21 12:48:59",
-      "album": {
         "name": "Spotify Singles - Christmas",
         "url": "https://open.spotify.com/album/4F49nBJxc0MwyIgZCekkk6"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 166853,
       "name": "Santa Claus Is Comin' To Town - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1wX2vUVICRwjQuYOyBTWHO"
+    },
+    {
+      "added_at": "2021-12-21 12:48:59",
+      "album": {
+        "name": "Let's Share Christmas",
+        "url": "https://open.spotify.com/album/1NfiYHxoziSkGlC121fURe"
+      },
+      "artists": [
+        {
+          "name": "Don Sebesky",
+          "url": "https://open.spotify.com/artist/4yr0fHJhSr7ZWlsoZIbg44"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "Snowfall",
+      "url": "https://open.spotify.com/track/1UWCJQJv0PbtWa2KXyN6yY"
     },
     {
       "added_at": "2021-12-21 12:48:59",
@@ -539,6 +539,22 @@
     {
       "added_at": "2021-12-21 12:48:59",
       "album": {
+        "name": "The Classic Christmas Album",
+        "url": "https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 205120,
+      "name": "Christmas In Herald Square",
+      "url": "https://open.spotify.com/track/4XJ9FZtkJxnzGyB6mVXgld"
+    },
+    {
+      "added_at": "2021-12-21 12:48:59",
+      "album": {
         "name": "Holiday For Swing!",
         "url": "https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 235546,
       "name": "Baby, It's Cold Outside",
       "url": "https://open.spotify.com/track/1odvHu7LNcEkRn83LwnoZb"
-    },
-    {
-      "added_at": "2021-12-21 12:48:59",
-      "album": {
-        "name": "The Classic Christmas Album",
-        "url": "https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 205120,
-      "name": "Christmas In Herald Square",
-      "url": "https://open.spotify.com/track/4XJ9FZtkJxnzGyB6mVXgld"
     },
     {
       "added_at": "2021-12-21 12:48:59",
@@ -671,22 +671,6 @@
     {
       "added_at": "2021-12-21 12:48:59",
       "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/6el8HN8F8E4l7gv5TbZFmE"
-      },
-      "artists": [
-        {
-          "name": "Chantal Chamberland",
-          "url": "https://open.spotify.com/artist/1Bkw1ZbvkudC1lY4jTQSpU"
-        }
-      ],
-      "duration_ms": 236354,
-      "name": "Maybe Next Christmas",
-      "url": "https://open.spotify.com/track/4HPE7dfz44sK8Azlix2hLV"
-    },
-    {
-      "added_at": "2021-12-21 12:48:59",
-      "album": {
         "name": "Merry Christmas Darling",
         "url": "https://open.spotify.com/album/1tHctD2yAOz3P7fxWCj5aF"
       },
@@ -703,6 +687,38 @@
       "duration_ms": 155641,
       "name": "Merry Christmas Darling",
       "url": "https://open.spotify.com/track/6yO8zPQZFMT2u4VUUZ1AO3"
+    },
+    {
+      "added_at": "2021-12-21 12:48:59",
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/6el8HN8F8E4l7gv5TbZFmE"
+      },
+      "artists": [
+        {
+          "name": "Chantal Chamberland",
+          "url": "https://open.spotify.com/artist/1Bkw1ZbvkudC1lY4jTQSpU"
+        }
+      ],
+      "duration_ms": 236354,
+      "name": "Maybe Next Christmas",
+      "url": "https://open.spotify.com/track/4HPE7dfz44sK8Azlix2hLV"
+    },
+    {
+      "added_at": "2021-12-21 12:48:59",
+      "album": {
+        "name": "The Classic Christmas Album",
+        "url": "https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 238173,
+      "name": "Christmas Time Is Here",
+      "url": "https://open.spotify.com/track/3HLuXYvlzcfAKMddEk73CE"
     },
     {
       "added_at": "2021-12-21 12:48:59",
@@ -732,25 +748,9 @@
           "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
         }
       ],
-      "duration_ms": 178613,
-      "name": "Christmas Morning",
-      "url": "https://open.spotify.com/track/1F1hIbXmFT3cb6oDv3hoal"
-    },
-    {
-      "added_at": "2021-12-21 12:48:59",
-      "album": {
-        "name": "The Classic Christmas Album",
-        "url": "https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 238173,
-      "name": "Christmas Time Is Here",
-      "url": "https://open.spotify.com/track/3HLuXYvlzcfAKMddEk73CE"
+      "duration_ms": 174066,
+      "name": "A Song For Christmas",
+      "url": "https://open.spotify.com/track/1UyTgv5uA2AWeEzl8xhRxW"
     },
     {
       "added_at": "2021-12-21 12:48:59",
@@ -771,18 +771,18 @@
     {
       "added_at": "2021-12-21 12:48:59",
       "album": {
-        "name": "Blue Christmas",
-        "url": "https://open.spotify.com/album/3EP7C0h2BiVEGH7g8PUaFM"
+        "name": "'Tis The Season",
+        "url": "https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ"
       },
       "artists": [
         {
-          "name": "Javon Jackson",
-          "url": "https://open.spotify.com/artist/57vcT3Th6V43bi5Jr5aSZl"
+          "name": "Silvio Thompson Band",
+          "url": "https://open.spotify.com/artist/0lnYAYDUAQD1kWQ5lvD08C"
         }
       ],
-      "duration_ms": 262600,
-      "name": "Santa Baby",
-      "url": "https://open.spotify.com/track/49HH1FubuHZSbdF64N8OEK"
+      "duration_ms": 200180,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/0yplKXN6RMNEEF54PRo9DG"
     },
     {
       "added_at": "2021-12-21 12:48:59",
@@ -807,34 +807,18 @@
     {
       "added_at": "2021-12-21 12:48:59",
       "album": {
-        "name": "'Tis The Season",
-        "url": "https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ"
+        "name": "Blue Christmas",
+        "url": "https://open.spotify.com/album/3EP7C0h2BiVEGH7g8PUaFM"
       },
       "artists": [
         {
-          "name": "Silvio Thompson Band",
-          "url": "https://open.spotify.com/artist/0lnYAYDUAQD1kWQ5lvD08C"
+          "name": "Javon Jackson",
+          "url": "https://open.spotify.com/artist/57vcT3Th6V43bi5Jr5aSZl"
         }
       ],
-      "duration_ms": 200180,
-      "name": "Silent Night",
-      "url": "https://open.spotify.com/track/0yplKXN6RMNEEF54PRo9DG"
-    },
-    {
-      "added_at": "2021-12-21 12:48:59",
-      "album": {
-        "name": "The Very Best Time Of Year",
-        "url": "https://open.spotify.com/album/5OYaZZMzjUuPmj1OZgDwh1"
-      },
-      "artists": [
-        {
-          "name": "Laura Fygi",
-          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
-        }
-      ],
-      "duration_ms": 174066,
-      "name": "A Song For Christmas",
-      "url": "https://open.spotify.com/track/1UyTgv5uA2AWeEzl8xhRxW"
+      "duration_ms": 262600,
+      "name": "Santa Baby",
+      "url": "https://open.spotify.com/track/49HH1FubuHZSbdF64N8OEK"
     },
     {
       "added_at": "2021-12-21 12:48:59",
@@ -875,6 +859,38 @@
     {
       "added_at": "2021-12-21 12:48:59",
       "album": {
+        "name": "The Very Best Time Of Year",
+        "url": "https://open.spotify.com/album/5OYaZZMzjUuPmj1OZgDwh1"
+      },
+      "artists": [
+        {
+          "name": "Laura Fygi",
+          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
+        }
+      ],
+      "duration_ms": 178613,
+      "name": "Christmas Morning",
+      "url": "https://open.spotify.com/track/1F1hIbXmFT3cb6oDv3hoal"
+    },
+    {
+      "added_at": "2021-12-21 12:48:59",
+      "album": {
+        "name": "'Tis The Season",
+        "url": "https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ"
+      },
+      "artists": [
+        {
+          "name": "Silvio Thompson Band",
+          "url": "https://open.spotify.com/artist/0lnYAYDUAQD1kWQ5lvD08C"
+        }
+      ],
+      "duration_ms": 158971,
+      "name": "Frosty The Snowman",
+      "url": "https://open.spotify.com/track/4ahxeR8Bhwrh21oVfphFi0"
+    },
+    {
+      "added_at": "2021-12-21 12:48:59",
+      "album": {
         "name": "It's Christmas Time",
         "url": "https://open.spotify.com/album/33c9tUex88FIIpVhGtdXYO"
       },
@@ -907,38 +923,18 @@
     {
       "added_at": "2021-12-21 12:48:59",
       "album": {
-        "name": "'Tis The Season",
-        "url": "https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ"
+        "name": "Baby It's Cold Outside",
+        "url": "https://open.spotify.com/album/5nZAaue7FQgCTOY3SA62u7"
       },
       "artists": [
         {
-          "name": "Silvio Thompson Band",
-          "url": "https://open.spotify.com/artist/0lnYAYDUAQD1kWQ5lvD08C"
+          "name": "Holly Cole",
+          "url": "https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX"
         }
       ],
-      "duration_ms": 158971,
-      "name": "Frosty The Snowman",
-      "url": "https://open.spotify.com/track/4ahxeR8Bhwrh21oVfphFi0"
-    },
-    {
-      "added_at": "2021-12-21 12:48:59",
-      "album": {
-        "name": "Christmas In L.A",
-        "url": "https://open.spotify.com/album/0pqDYrQEOyQr4mkhDquG4w"
-      },
-      "artists": [
-        {
-          "name": "The Snowy Hill Singers",
-          "url": "https://open.spotify.com/artist/4GZ9mdTr7du09qW50dByCD"
-        },
-        {
-          "name": "Vincent Vega",
-          "url": "https://open.spotify.com/artist/5wAc3dT6q091nIZVs9oioF"
-        }
-      ],
-      "duration_ms": 228221,
-      "name": "When Christmas Has Gone",
-      "url": "https://open.spotify.com/track/3TZO1SX9qPyewA2njmPe1U"
+      "duration_ms": 102013,
+      "name": "What About Me?",
+      "url": "https://open.spotify.com/track/6Qo2N9Jhn3Vy03REErv3kX"
     }
   ],
   "unique_name": "Fireside Christmas Jazz",

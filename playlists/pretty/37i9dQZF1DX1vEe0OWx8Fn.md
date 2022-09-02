@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vEe0OWx8Fn.md) - [plain]
 
 > it was never just a phase
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,210 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,319 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vEe0OWx8Fn.md) - [plain]
 | 47 | [NO VANITY](https://open.spotify.com/track/0tQPcLmwvAnS5eXSuAUokD) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Tell Me About Tomorrow](https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T) | 3:25 |
 | 48 | [Alone](https://open.spotify.com/track/5lnKrYXmiDqVcHbhrLqSYx) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Unwanted](https://open.spotify.com/album/2j1AQqwSWqsMaJ5WCS1LlY) | 3:13 |
 | 49 | [please put me in a medically induced coma](https://open.spotify.com/track/4MY8pe89WnW7xVOxUN4hmg) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [please put me in a medically induced coma](https://open.spotify.com/album/2pPYJUCaxJTApLpglmBpaL) | 3:06 |
-| 50 | [DIE.](https://open.spotify.com/track/2eG73ReC02zztM4ll0EFqi) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [DIE.](https://open.spotify.com/album/4iSdfXtUE3ur5UHJqjI4FB) | 2:50 |
+| 50 | [problems](https://open.spotify.com/track/0YcJfsr91XXLiSapSQbtJf) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [die sometime, it's good for u](https://open.spotify.com/album/04JMztBf0vX3JfxKIaifGa) | 2:48 |
 
-Snapshot ID: `MTY2MDY4NzU5NSwwMDAwMDAwMDAzNjMyZTY1ODdkNjNjYmZmZGYzMjhjYThlZWM3ZGE5`
+Snapshot ID: `MTY2MDY4NzU5NSwwMDAwMDAwMDQyNzg1YzdhOTVjYmJiYmU2MDJkYTllMjU4YWFiZjc1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 
 > The best Grunge heirs' songs\. Cover: Seether
 
-[Spotify](https://open.spotify.com/user/spotify) - 513,336 likes - 75 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 513,552 likes - 75 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 | 22 | [Someday](https://open.spotify.com/track/4PkJ7c9y1CwpuVOiJODnCZ) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [The Long Road](https://open.spotify.com/album/4fygErqiNgFUic5hU42Z3E) | 3:27 |
 | 23 | [When I'm Gone](https://open.spotify.com/track/3WbphvawbMZ8FyqDxYGdSQ) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun](https://open.spotify.com/album/72olNArm75vOycSziqIX9Y) | 4:20 |
 | 24 | [The Red](https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Wonder What's Next \(Expanded Edition\)](https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV) | 3:58 |
-| 25 | [Lightning Crashes](https://open.spotify.com/track/48iWbsOaBUAGzMdoSmqyg1) | [Live](https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH) | [Throwing Copper](https://open.spotify.com/album/4ZsG3ifn9sIcrFT1ecw0gF) | 5:25 |
-| 26 | [Remedy](https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Karma and Effect](https://open.spotify.com/album/1C5xrwfzgDM0hz7Kb035V3) | 3:27 |
+| 25 | [Remedy](https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Karma and Effect](https://open.spotify.com/album/1C5xrwfzgDM0hz7Kb035V3) | 3:27 |
+| 26 | [Lightning Crashes](https://open.spotify.com/track/48iWbsOaBUAGzMdoSmqyg1) | [Live](https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH) | [Throwing Copper](https://open.spotify.com/album/4ZsG3ifn9sIcrFT1ecw0gF) | 5:25 |
 | 27 | [Cold](https://open.spotify.com/track/6ZxrUCaynLgKSUudACOTwj) | [Crossfade](https://open.spotify.com/artist/4IR8ZkpbyyKrqsIzchF3NB) | [Crossfade](https://open.spotify.com/album/1namjaJZ23ozXXB7X2d4hy) | 3:14 |
 | 28 | [My Sacrifice](https://open.spotify.com/track/2VSbEXqs6NbNiZSTcHlIDR) | [Creed](https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz) | [Weathered](https://open.spotify.com/album/2ENlJXygQX6en4iziijet6) | 4:54 |
 | 29 | [Photograph](https://open.spotify.com/track/3hb2ScEVkGchcAQqrPLP0R) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [All the Right Reasons](https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3) | 4:18 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 | 74 | [Selling The Drama](https://open.spotify.com/track/5y9ivD2g37FSCEJpfhG7d5) | [Live](https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH) | [Throwing Copper](https://open.spotify.com/album/4ZsG3ifn9sIcrFT1ecw0gF) | 3:25 |
 | 75 | [Down](https://open.spotify.com/track/0Im8piS5MwtQAnpWVla5iw) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [No\. 4](https://open.spotify.com/album/0NgdZp0Z9HGsowYxPBYQSV) | 3:48 |
 
-Snapshot ID: `MTY1NzgyMDA1NywwMDAwMDAwMGUzNmIxNTcxYTQ5ZmE1OTk3NjY4MmU2NmE5Mzk3ZjRk`
+Snapshot ID: `MTY1NzgyMDA1NywwMDAwMDAwMDNjMDU1ZGZmZGIxYzkxYjc3ZDBkMDYxYzg2M2MwNzQz`

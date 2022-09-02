@@ -1,12 +1,12 @@
 {
   "description": "Take a world tour on the club floor. \nCover: Jubilee",
-  "num_followers": 22076,
+  "num_followers": 22095,
   "original_name": "Global Club Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjQ2MCwwMDAwMDAwMGZkZWYyYTMyYTg5N2JjZDk5YzA0NWJiZWZhMWViMmJi",
+  "snapshot_id": "MTY2MTQ4NjQ2MCwwMDAwMDAwMDU1MTBmMmVmZmZlYTQ5MTZjMGNhNTg2ODM5MDE4OTBj",
   "tracks": [
     {
       "added_at": "2022-08-26 04:01:00",
@@ -635,6 +635,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Second Line",
+        "url": "https://open.spotify.com/album/4ZZPaImVERqe30KPt1EOHv"
+      },
+      "artists": [
+        {
+          "name": "Dawn Richard",
+          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
+        }
+      ],
+      "duration_ms": 273386,
+      "name": "Bussifame",
+      "url": "https://open.spotify.com/track/3bQWyx3JDz53yP2uij16Jj"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "BADBOI",
         "url": "https://open.spotify.com/album/1vpixBHNGprGXBkLsQofuN"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 196535,
       "name": "BADBOI",
       "url": "https://open.spotify.com/track/1pKk7nVh4fGjI8k6t20PmX"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Second Line",
-        "url": "https://open.spotify.com/album/4ZZPaImVERqe30KPt1EOHv"
-      },
-      "artists": [
-        {
-          "name": "Dawn Richard",
-          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
-        }
-      ],
-      "duration_ms": 273386,
-      "name": "Bussifame",
-      "url": "https://open.spotify.com/track/3bQWyx3JDz53yP2uij16Jj"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -727,6 +727,26 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Deliver",
+        "url": "https://open.spotify.com/album/4n8WFWykGXGPBqOsSY20gR"
+      },
+      "artists": [
+        {
+          "name": "FHAT",
+          "url": "https://open.spotify.com/artist/6ltQmR519qfdWeirSIzCV8"
+        },
+        {
+          "name": "K.ZIA",
+          "url": "https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY"
+        }
+      ],
+      "duration_ms": 126077,
+      "name": "Deliver",
+      "url": "https://open.spotify.com/track/0M2anbL4SH9kiWvEyTGzGJ"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "Yo Ma (feat. Cakes da Killa & Leikeli47)",
         "url": "https://open.spotify.com/album/2urlO3qmSew5tEXa0tr5xO"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 199855,
       "name": "Yo Ma (feat. Cakes da Killa & Leikeli47)",
       "url": "https://open.spotify.com/track/7A9XxAxvhWLmKIEVjowM9Y"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Deliver",
-        "url": "https://open.spotify.com/album/4n8WFWykGXGPBqOsSY20gR"
-      },
-      "artists": [
-        {
-          "name": "FHAT",
-          "url": "https://open.spotify.com/artist/6ltQmR519qfdWeirSIzCV8"
-        },
-        {
-          "name": "K.ZIA",
-          "url": "https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY"
-        }
-      ],
-      "duration_ms": 126077,
-      "name": "Deliver",
-      "url": "https://open.spotify.com/track/0M2anbL4SH9kiWvEyTGzGJ"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Nzinga",
-        "url": "https://open.spotify.com/album/4dhFtoUePedlReYxPgrMFY"
-      },
-      "artists": [
-        {
-          "name": "Karen Nyame KG",
-          "url": "https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz"
-        },
-        {
-          "name": "Toya Delazy",
-          "url": "https://open.spotify.com/artist/4I0iGnuW9JgdWr6WsFIHj5"
-        }
-      ],
-      "duration_ms": 157870,
-      "name": "Nzinga",
-      "url": "https://open.spotify.com/track/1RzyaDFK6Rz9iufIZISW5n"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Give It 2 Em (Remix)",
         "url": "https://open.spotify.com/album/2TzG1D0BvG7p1V5VT30UiK"
       },
@@ -1063,6 +1043,26 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Nzinga",
+        "url": "https://open.spotify.com/album/4dhFtoUePedlReYxPgrMFY"
+      },
+      "artists": [
+        {
+          "name": "Karen Nyame KG",
+          "url": "https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz"
+        },
+        {
+          "name": "Toya Delazy",
+          "url": "https://open.spotify.com/artist/4I0iGnuW9JgdWr6WsFIHj5"
+        }
+      ],
+      "duration_ms": 157870,
+      "name": "Nzinga",
+      "url": "https://open.spotify.com/track/1RzyaDFK6Rz9iufIZISW5n"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "Another Chance (SBF17)",
         "url": "https://open.spotify.com/album/7ddsu7Hd6aRxDYG0KTYIy9"
       },
@@ -1075,42 +1075,6 @@
       "duration_ms": 183345,
       "name": "Another Chance - SBF17",
       "url": "https://open.spotify.com/track/1XHBrciEOk88g5toN30LNS"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Touch (Leonce Remix)",
-        "url": "https://open.spotify.com/album/1oR96yctfi93SFLn0l1NLk"
-      },
-      "artists": [
-        {
-          "name": "UNIIQU3",
-          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
-        },
-        {
-          "name": "Leonce",
-          "url": "https://open.spotify.com/artist/4CtHfoB4Jfn9hpWMHBq3lc"
-        }
-      ],
-      "duration_ms": 234441,
-      "name": "Touch - Leonce Remix",
-      "url": "https://open.spotify.com/track/2ktWS8sHNDJ7hgRmxDHsXb"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Relax Your Mind",
-        "url": "https://open.spotify.com/album/3hAja1WNUGb1gVZ6PrjBbI"
-      },
-      "artists": [
-        {
-          "name": "Cookiee Kawaii",
-          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
-        }
-      ],
-      "duration_ms": 109931,
-      "name": "Relax Your Mind",
-      "url": "https://open.spotify.com/track/2BtUcb6aLrsYnsHuqieMY4"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1139,6 +1103,42 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Relax Your Mind",
+        "url": "https://open.spotify.com/album/3hAja1WNUGb1gVZ6PrjBbI"
+      },
+      "artists": [
+        {
+          "name": "Cookiee Kawaii",
+          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
+        }
+      ],
+      "duration_ms": 109931,
+      "name": "Relax Your Mind",
+      "url": "https://open.spotify.com/track/2BtUcb6aLrsYnsHuqieMY4"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Touch (Leonce Remix)",
+        "url": "https://open.spotify.com/album/1oR96yctfi93SFLn0l1NLk"
+      },
+      "artists": [
+        {
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        },
+        {
+          "name": "Leonce",
+          "url": "https://open.spotify.com/artist/4CtHfoB4Jfn9hpWMHBq3lc"
+        }
+      ],
+      "duration_ms": 234441,
+      "name": "Touch - Leonce Remix",
+      "url": "https://open.spotify.com/track/2ktWS8sHNDJ7hgRmxDHsXb"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "Nights Into Mornings EP",
         "url": "https://open.spotify.com/album/6wgYPnFPjoD178hdY6cvea"
       },
@@ -1155,6 +1155,46 @@
       "duration_ms": 166974,
       "name": "Shake My Ass",
       "url": "https://open.spotify.com/track/2ef86L53IXDgx6iyIALdQS"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "B2B / Black Roses",
+        "url": "https://open.spotify.com/album/7rs4RT4DkkGWpdxT9belLA"
+      },
+      "artists": [
+        {
+          "name": "Karen Nyame KG",
+          "url": "https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz"
+        },
+        {
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        }
+      ],
+      "duration_ms": 224541,
+      "name": "B2B",
+      "url": "https://open.spotify.com/track/3OrMbFUgXjchOYTU8TeLO7"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "The Floor Is Ours",
+        "url": "https://open.spotify.com/album/2elNjgpGtg7wOBytKwswH1"
+      },
+      "artists": [
+        {
+          "name": "Mighty Mark",
+          "url": "https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM"
+        },
+        {
+          "name": "Rodney Hollywood",
+          "url": "https://open.spotify.com/artist/2RyjqNp5fTdWENGR0vRTVv"
+        }
+      ],
+      "duration_ms": 209090,
+      "name": "The Floor Is Ours",
+      "url": "https://open.spotify.com/track/767s2E491pxVbvHhaKsmZU"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1183,22 +1223,18 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "The Floor Is Ours",
-        "url": "https://open.spotify.com/album/2elNjgpGtg7wOBytKwswH1"
+        "name": "Jimmy Crooks",
+        "url": "https://open.spotify.com/album/6fYt6tWcPaURUSfzovB2vG"
       },
       "artists": [
         {
-          "name": "Mighty Mark",
-          "url": "https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM"
-        },
-        {
-          "name": "Rodney Hollywood",
-          "url": "https://open.spotify.com/artist/2RyjqNp5fTdWENGR0vRTVv"
+          "name": "Tricks",
+          "url": "https://open.spotify.com/artist/4rB77iwq0xxEWn1Di6ihxT"
         }
       ],
-      "duration_ms": 209090,
-      "name": "The Floor Is Ours",
-      "url": "https://open.spotify.com/track/767s2E491pxVbvHhaKsmZU"
+      "duration_ms": 145711,
+      "name": "Jimmy Crooks",
+      "url": "https://open.spotify.com/track/5gRf48AnnCzltY9iYhE5p3"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1215,42 +1251,6 @@
       "duration_ms": 341476,
       "name": "Sub Poppin",
       "url": "https://open.spotify.com/track/3pFcZbT0YVipT9LNrCutFk"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "B2B / Black Roses",
-        "url": "https://open.spotify.com/album/7rs4RT4DkkGWpdxT9belLA"
-      },
-      "artists": [
-        {
-          "name": "Karen Nyame KG",
-          "url": "https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz"
-        },
-        {
-          "name": "UNIIQU3",
-          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
-        }
-      ],
-      "duration_ms": 224541,
-      "name": "B2B",
-      "url": "https://open.spotify.com/track/3OrMbFUgXjchOYTU8TeLO7"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Jimmy Crooks",
-        "url": "https://open.spotify.com/album/6fYt6tWcPaURUSfzovB2vG"
-      },
-      "artists": [
-        {
-          "name": "Tricks",
-          "url": "https://open.spotify.com/artist/4rB77iwq0xxEWn1Di6ihxT"
-        }
-      ],
-      "duration_ms": 145711,
-      "name": "Jimmy Crooks",
-      "url": "https://open.spotify.com/track/5gRf48AnnCzltY9iYhE5p3"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1275,6 +1275,26 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Jersey",
+        "url": "https://open.spotify.com/album/5EnJvSStUdPIIARqHW0LAG"
+      },
+      "artists": [
+        {
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+        },
+        {
+          "name": "DJ Jayhood",
+          "url": "https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G"
+        }
+      ],
+      "duration_ms": 143399,
+      "name": "Jersey",
+      "url": "https://open.spotify.com/track/7MyhIzwqpwfetObvzcTbkm"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "Switch",
         "url": "https://open.spotify.com/album/4Pmn6tJdfbu69sv4vMQxVC"
       },
@@ -1295,26 +1315,6 @@
       "duration_ms": 166500,
       "name": "Switch",
       "url": "https://open.spotify.com/track/30c9tBMcRT1FnRXA8NvVVT"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Jersey",
-        "url": "https://open.spotify.com/album/5EnJvSStUdPIIARqHW0LAG"
-      },
-      "artists": [
-        {
-          "name": "DJ Sliink",
-          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
-        },
-        {
-          "name": "DJ Jayhood",
-          "url": "https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G"
-        }
-      ],
-      "duration_ms": 143399,
-      "name": "Jersey",
-      "url": "https://open.spotify.com/track/7MyhIzwqpwfetObvzcTbkm"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Get Down Lil Bit (Street Bangers Factory 16)",
-        "url": "https://open.spotify.com/album/75vio1xSvsEGN3oC9veBzn"
-      },
-      "artists": [
-        {
-          "name": "Traxman",
-          "url": "https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh"
-        }
-      ],
-      "duration_ms": 290813,
-      "name": "Get Down Lil Bit - Street Bangers Factory 16",
-      "url": "https://open.spotify.com/track/1KzKhPENPl7U9Mi25Qo7ir"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Impossible (Roska Remix)",
         "url": "https://open.spotify.com/album/11yIOT6Gaqn2T4c1Lusgi4"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 239000,
       "name": "Impossible - Roska Remix",
       "url": "https://open.spotify.com/track/5y8vPSQJqelX46gjX0KYmi"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Get Down Lil Bit (Street Bangers Factory 16)",
+        "url": "https://open.spotify.com/album/75vio1xSvsEGN3oC9veBzn"
+      },
+      "artists": [
+        {
+          "name": "Traxman",
+          "url": "https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh"
+        }
+      ],
+      "duration_ms": 290813,
+      "name": "Get Down Lil Bit - Street Bangers Factory 16",
+      "url": "https://open.spotify.com/track/1KzKhPENPl7U9Mi25Qo7ir"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "INTO THE COCOON",
-        "url": "https://open.spotify.com/album/5QJVINRs16k6p7bcEWT9bw"
-      },
-      "artists": [
-        {
-          "name": "THE BLVCK BUTTAFLY",
-          "url": "https://open.spotify.com/artist/7HANR0SlqJPTI4dOLV6cRb"
-        }
-      ],
-      "duration_ms": 240960,
-      "name": "BALTIMORE",
-      "url": "https://open.spotify.com/track/75rWEZDZB8p9ZKLP9sEpZJ"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Get Freaky",
         "url": "https://open.spotify.com/album/4Lmx3PGRf7tIRest0Wdxaa"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 178872,
       "name": "Get Freaky",
       "url": "https://open.spotify.com/track/5gugAjAxDTPulzcCfDUu3c"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "INTO THE COCOON",
+        "url": "https://open.spotify.com/album/5QJVINRs16k6p7bcEWT9bw"
+      },
+      "artists": [
+        {
+          "name": "THE BLVCK BUTTAFLY",
+          "url": "https://open.spotify.com/artist/7HANR0SlqJPTI4dOLV6cRb"
+        }
+      ],
+      "duration_ms": 240960,
+      "name": "BALTIMORE",
+      "url": "https://open.spotify.com/track/75rWEZDZB8p9ZKLP9sEpZJ"
     },
     {
       "added_at": "2022-08-26 04:01:00",

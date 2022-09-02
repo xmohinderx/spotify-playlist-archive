@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxpHBekDUXK.md) - [plain]
 
 > We're here to provide some sonic solace for your grief.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,740 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,794 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxpHBekDUXK.md) - [plain]
 | 7 | [Like I'm Gonna Lose You \(feat\. John Legend\)](https://open.spotify.com/track/2YlZnw2ikdb837oKMKjBkW) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 3:45 |
 | 8 | [Landslide](https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 3:19 |
 | 9 | [Jealous](https://open.spotify.com/track/4G92yYrUs0cvY7G41YRI0z) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Jealous \- EP](https://open.spotify.com/album/6bsCl6iS6dvC4xaiBlecPv) | 4:47 |
-| 10 | [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Dock of the Bay \(Mono\)](https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU) | 2:43 |
-| 11 | [Yesterday \- Remastered 2009](https://open.spotify.com/track/3BQHpFgAp4l80e1XslIjNI) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Help! \(Remastered\)](https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX) | 2:05 |
+| 10 | [Yesterday \- Remastered 2009](https://open.spotify.com/track/3BQHpFgAp4l80e1XslIjNI) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Help! \(Remastered\)](https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX) | 2:05 |
+| 11 | [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Dock of the Bay \(Mono\)](https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU) | 2:43 |
 | 12 | [Can't Help Falling in Love](https://open.spotify.com/track/6yIHGmQLJxWAUZ1ZkENemN) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Better](https://open.spotify.com/album/2jg7PvepCK9V7MyWM7pvzr) | 2:53 |
 | 13 | [Supermarket Flowers](https://open.spotify.com/track/4VuS959DSpr82t3qBqCrWG) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:41 |
 | 14 | [Against All Odds \(Take a Look at Me Now\) \- 2016 Remaster](https://open.spotify.com/track/63CHa6rmamv9OsehkRD8oz) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [The Singles \(Expanded\)](https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxpHBekDUXK.md) - [plain]
 | 49 | [You Are My Sunshine](https://open.spotify.com/track/5qMjtrGnezsafpH4oqg7oU) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [You Are My Sunshine](https://open.spotify.com/album/5ueNN8xbGK6BMFnLjeiXUM) | 2:37 |
 | 50 | [Stormy Weather](https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 3:07 |
 
-Snapshot ID: `MTY2MDIzODY5MCwwMDAwMDAwMGQwOWY4OTczNmFmMjJlNGU5ZTY5ZTMxYjAyMjljN2Jk`
+Snapshot ID: `MTY2MDIzODY5MCwwMDAwMDAwMGY2YmYxZGUzYzgxOTZlNTFkOGEzOTE1NGQwMzUyZjcz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 581,222 likes - 80 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 580,533 likes - 80 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 23 | [Sounds Like a Melody \- 2019 Remaster](https://open.spotify.com/track/4yDCTzaFfr7YOuYKpwgidL) | [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX) | [Forever Young \(Super Deluxe Edition; 2019 Remaster\)](https://open.spotify.com/album/1BAmE3bdBnxej0umzyHQ5x) | 4:46 |
 | 24 | [The Safety Dance \- Extended Dance Version](https://open.spotify.com/track/2IqPRjJAcLvPqAEbnB2VJz) | [Men Without Hats](https://open.spotify.com/artist/34PLzyi7CdXUekiLHYyqXq) | [Rhythm Of Youth \(Expanded Edition\)](https://open.spotify.com/album/7EpYnc9mbn4dwQE7B9nnfz) | 4:38 |
 | 25 | [Bakerman](https://open.spotify.com/track/6AxqU1NcIvnBC3W62TSk3n) | [Laid Back](https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX) | [Good Vibes \- The Very Best of Laid Back](https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1) | 4:41 |
-| 26 | [Buffalo Stance](https://open.spotify.com/track/3XWgwgbWDI56mf1Wl3cLzb) | [Neneh Cherry](https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD) | [Raw Like Sushi](https://open.spotify.com/album/2AyJzvREOnlnYhaBzF1Kxp) | 5:42 |
-| 27 | [True](https://open.spotify.com/track/4q2lRiodoQnyFO65watkse) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [The Twelve Inch Mixes](https://open.spotify.com/album/4CGIZczLp11pbF2HBvKehm) | 6:05 |
+| 26 | [True](https://open.spotify.com/track/4q2lRiodoQnyFO65watkse) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [The Twelve Inch Mixes](https://open.spotify.com/album/4CGIZczLp11pbF2HBvKehm) | 6:05 |
+| 27 | [Buffalo Stance](https://open.spotify.com/track/3XWgwgbWDI56mf1Wl3cLzb) | [Neneh Cherry](https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD) | [Raw Like Sushi](https://open.spotify.com/album/2AyJzvREOnlnYhaBzF1Kxp) | 5:42 |
 | 28 | [Music and Lights](https://open.spotify.com/track/3kEA66ZM9mCxwhynOxgsLh) | [Imagination](https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m) | [In the Heat of the Night](https://open.spotify.com/album/7FbF8LUVnfmJWkzYfBrvt6) | 5:22 |
 | 29 | [Oh Yeah \- Remastered 2005](https://open.spotify.com/track/1iOHLlEsMbgJfYBFWy4TjG) | [Yello](https://open.spotify.com/artist/3xgj17ZsWxxU86S4qlWvOi) | [Stella \(Remastered 2005\)](https://open.spotify.com/album/3Df3vYTyJKTZobnCvNUNMC) | 3:05 |
 | 30 | [Everybody Wants To Rule The World \- Extended Version](https://open.spotify.com/track/7uBdncahX0bULWkpaDax8y) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Super Deluxe Edition\)](https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W) | 5:40 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 54 | [Letter From My Heart \- Original 12" Version](https://open.spotify.com/track/1m2Nhacm0P7zxEia9xMMme) | [Steve Allen](https://open.spotify.com/artist/2RsnV5tqDGDBOooPbpSVdS) | [Letter From My Heart](https://open.spotify.com/album/3dLFdLwD6YULEAKZT0WjG4) | 5:25 |
 | 55 | [It's My Life \- Extended Mix; 2003 Remaster](https://open.spotify.com/track/4nfSUYBf9XJxctw71Q17FZ) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf), [Tim Friese\-Greene](https://open.spotify.com/artist/7Dx9xrykZrUZd5aemucBMi) | [Remixed \(2003 Remaster\)](https://open.spotify.com/album/4A3cOTzJ1bcoKgOnXE1TU4) | 6:19 |
 | 56 | [Rock Me Amadeus \- 12" American Edit](https://open.spotify.com/track/5SjPfAiNn5rqPkQNcglgVR) | [Falco](https://open.spotify.com/artist/0hLd40hVpRDGENe4KGZLnW) | [Rock Me Amadeus 30th Anniversary](https://open.spotify.com/album/31VIlWUGdK4a3ZqEC9efJO) | 5:50 |
-| 57 | [Forget Me Nots \- 12" Version](https://open.spotify.com/track/6Bo7iDVxKd4V4VHyaL3oGr) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight From The Heart](https://open.spotify.com/album/1y2MGKwD1ap3FxPc4ii6QO) | 7:14 |
-| 58 | [Paid In Full \- Seven Minutes Of Madness \- The Coldcut Remix](https://open.spotify.com/track/5XQPpKiBjXUI4bIenLBxci) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Paid In Full \(Deluxe Edition\)](https://open.spotify.com/album/0SHeOTuKXo4cM1CWyAwDcj) | 7:09 |
+| 57 | [Paid In Full \- Seven Minutes Of Madness \- The Coldcut Remix](https://open.spotify.com/track/5XQPpKiBjXUI4bIenLBxci) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Paid In Full \(Deluxe Edition\)](https://open.spotify.com/album/0SHeOTuKXo4cM1CWyAwDcj) | 7:09 |
+| 58 | [Forget Me Nots \- 12" Version](https://open.spotify.com/track/6Bo7iDVxKd4V4VHyaL3oGr) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight From The Heart](https://open.spotify.com/album/1y2MGKwD1ap3FxPc4ii6QO) | 7:14 |
 | 59 | [Flashback](https://open.spotify.com/track/1EOlxJCq3fXCIvqWJm1xrO) | [Imagination](https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m) | [Body Talk](https://open.spotify.com/album/10Y664SOGkLTvzcP2xrET6) | 4:35 |
 | 60 | [Welcome To The Pleasuredome \- Escape Act Video Mix](https://open.spotify.com/track/7uax3VSQHWtYXX19JQGDJT) | [Frankie Goes To Hollywood](https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY) | [Twelve Inches](https://open.spotify.com/album/0GJLjFeSsctGR8YeDnchOr) | 5:11 |
 | 61 | [I.O.U\. \- 12" Version](https://open.spotify.com/track/2hPg9Ovq5KnchKwmF2O6jI) | [Freeez](https://open.spotify.com/artist/5titkTztShEPJSoCL9TXF2) | [Freeez Frame! \- The Best of Freeez](https://open.spotify.com/album/04S99UxdngAfYMS40yjcld) | 8:45 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 79 | [She Blinded Me With Science \- Extended Version](https://open.spotify.com/track/1vORDwbaam9l3Z7OMXdzhw) | [Thomas Dolby](https://open.spotify.com/artist/2Uz58cSxlJgefDaSikxYQ7) | [12x12 Original Remixes](https://open.spotify.com/album/7lrciFpBNouYjer14LGVwO) | 5:10 |
 | 80 | [I Feel Love / Johnny Remember Me](https://open.spotify.com/track/5HgqQJMn2cwVCP34GuwQHc) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08) | [The Very Best Of Jimmy Somerville, Bronski Beat & The Communards](https://open.spotify.com/album/1B167z084g8Q52jRazKLVZ) | 5:46 |
 
-Snapshot ID: `MTY1NDg2MjY5NCwwMDAwMDAwMDg4ZjM5NGI1Y2FhZDFkNjJiNTIzMGYxNzYyN2JhYjdj`
+Snapshot ID: `MTY1NDg2MjY5NCwwMDAwMDAwMDg0N2Y2MjE5YTJjNTY1ODBmYzcxMTAzMGYxNzQzMWM3`

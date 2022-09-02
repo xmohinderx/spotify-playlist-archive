@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Current indie tunes from Asia and around the world. Cover: The National",
+  "description": "Current indie tunes from Asia and around the world. Cover: Artic Monkeys",
   "name": "Indie Shuffle",
   "published_playlist_ids": [
     "20Eh596su19VARcgGsKVKl"
@@ -1748,6 +1748,24 @@
     },
     {
       "album": {
+        "name": "complex (demo)",
+        "url": "https://open.spotify.com/album/4iHBCJPZUha2xs84jNZ4jc"
+      },
+      "artists": [
+        {
+          "name": "Katie Gregson-MacLeod",
+          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256107,
+      "name": "complex (demo)",
+      "url": "https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB"
+    },
+    {
+      "album": {
         "name": "concrete",
         "url": "https://open.spotify.com/album/4otlYN4uGurlL16mvgeIHT"
       },
@@ -2542,6 +2560,24 @@
     },
     {
       "album": {
+        "name": "Keep On Smiling",
+        "url": "https://open.spotify.com/album/1PKL24mnakuCYCZkHgKgwJ"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262356,
+      "name": "Everybody's Cool",
+      "url": "https://open.spotify.com/track/66YV5WPbSqEZsM6WwShkEM"
+    },
+    {
+      "album": {
         "name": "Everysunrise",
         "url": "https://open.spotify.com/album/4PrgQIQ3rmux1TSWa8Fzsv"
       },
@@ -2669,7 +2705,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 251573,
       "name": "Fallacy Actually",
       "url": "https://open.spotify.com/track/5FLd0SCmbuP3ZQqEt7Ew6N"
@@ -3311,7 +3347,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 120808,
       "name": "Gloom",
       "url": "https://open.spotify.com/track/5AMe0pqbUp4HR6Vi1ngYLW"
@@ -4209,6 +4245,24 @@
       "duration_ms": 175000,
       "name": "I Still Love You",
       "url": "https://open.spotify.com/track/5J3lwdkgC0D8wBuEgsvGJp"
+    },
+    {
+      "album": {
+        "name": "I'm In Love With You",
+        "url": "https://open.spotify.com/album/3TI3FFFz3hKQfsL0izZ8JS"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262623,
+      "name": "I'm In Love With You",
+      "url": "https://open.spotify.com/track/0uBdQzKghx88d2Lp8SLFKJ"
     },
     {
       "album": {
@@ -5301,7 +5355,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 180291,
       "name": "Manila Sunset",
       "url": "https://open.spotify.com/track/1ti0cFyM6rDTZbdCvRHTBl"
@@ -5587,7 +5641,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 215132,
       "name": "MY DREAM",
       "url": "https://open.spotify.com/track/3Ai9IjVhRy5eMWFQ3luIG6"
@@ -5671,7 +5725,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 299162,
       "name": "Myself in the Way",
       "url": "https://open.spotify.com/track/7tbnkPVJ6aB1GKeX5gCGyz"
@@ -5845,6 +5899,32 @@
       "duration_ms": 150976,
       "name": "Never Knew feat. lewloh & Joie Tan",
       "url": "https://open.spotify.com/track/5rlWvz401LdGFhSBtsZbHj"
+    },
+    {
+      "album": {
+        "name": "New Gold (feat. Tame Impala and Bootie Brown)",
+        "url": "https://open.spotify.com/album/4V9YFKLqZ5h8nQFTvDQscC"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "Bootie Brown",
+          "url": "https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215149,
+      "name": "New Gold (feat. Tame Impala and Bootie Brown)",
+      "url": "https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU"
     },
     {
       "album": {
@@ -6461,7 +6541,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 260148,
       "name": "Part Of The Band",
       "url": "https://open.spotify.com/track/79vEv8zqy9tLYsTxxkXHXq"
@@ -6479,10 +6559,32 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 233854,
       "name": "Partner In Crime - Spotify Singles",
       "url": "https://open.spotify.com/track/33IZBhRtyMDZoa5SUNs3F7"
+    },
+    {
+      "album": {
+        "name": "Passed Tense",
+        "url": "https://open.spotify.com/album/5lbiP1DLW9DrB5BB3dH3x9"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        },
+        {
+          "name": "Panda Bear",
+          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241087,
+      "name": "Passed Tense",
+      "url": "https://open.spotify.com/track/2uUAW6qgya8keByF9mh3ui"
     },
     {
       "album": {
@@ -7251,7 +7353,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 187413,
       "name": "Saturdays",
       "url": "https://open.spotify.com/track/6ZHPwqdzTslbKAYOsWnHCQ"
@@ -7777,6 +7879,24 @@
       "duration_ms": 181054,
       "name": "Someday",
       "url": "https://open.spotify.com/track/4LOj7r7dNiGQHD1Ixtl3dd"
+    },
+    {
+      "album": {
+        "name": "The Night is Clear",
+        "url": "https://open.spotify.com/album/4AzsujfeRZCjymYlgxOpjm"
+      },
+      "artists": [
+        {
+          "name": "Parekh & Singh",
+          "url": "https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224373,
+      "name": "Songbird",
+      "url": "https://open.spotify.com/track/5VkxoPlgC2ujrWX5anVdax"
     },
     {
       "album": {
@@ -8711,6 +8831,24 @@
       "duration_ms": 183440,
       "name": "Then It All Goes Away",
       "url": "https://open.spotify.com/track/5RaThsdZpF9WWwoP00NjLI"
+    },
+    {
+      "album": {
+        "name": "There\u2019d Better Be A Mirrorball",
+        "url": "https://open.spotify.com/album/0ZUmodAwUq8cQJFvyibKwT"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265798,
+      "name": "There\u2019d Better Be A Mirrorball",
+      "url": "https://open.spotify.com/track/0yowbJnnbTLpr99f9l1uba"
     },
     {
       "album": {
@@ -9802,6 +9940,24 @@
     },
     {
       "album": {
+        "name": "Making Steak",
+        "url": "https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202750,
+      "name": "Would You Mind",
+      "url": "https://open.spotify.com/track/5kbvcxWFMPNY1zPI3y0wHa"
+    },
+    {
+      "album": {
         "name": "Write Me Another Song",
         "url": "https://open.spotify.com/album/0DKTxLlMO5NZGrAjXZ9C4S"
       },
@@ -10095,7 +10251,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 238189,
       "name": "\u900f\u660e\u7684\u4f60",
       "url": "https://open.spotify.com/track/4kKRDGpb1nNaPthYtRwYpW"

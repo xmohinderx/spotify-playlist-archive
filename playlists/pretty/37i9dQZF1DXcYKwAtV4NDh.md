@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYKwAtV4NDh.md) - [plain]
 
 > A deep and concise look at the music that made Country Music what is is today\.  Covers eras <br/>1930's \- 1990.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,151 likes - 107 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,207 likes - 107 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYKwAtV4NDh.md) - [plain]
 | 94 | [Diggin' Up Bones](https://open.spotify.com/track/6JdbV5DDltMVCyV0twmKwj) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Storms of Life](https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf) | 2:58 |
 | 95 | [Why Not Me](https://open.spotify.com/track/6BkK5Dsu1kTne7Cn6EyYex) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [Why Not Me](https://open.spotify.com/album/7ddhrJqVCguGmLhvffzxkA) | 3:31 |
 | 96 | [Honky Tonk Man](https://open.spotify.com/track/60Vbhlv3GUL8fNt3LLZ1nH) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW) | [Guitars, Cadillacs, Etc., Etc.](https://open.spotify.com/album/5AlW0VTEaK7DuekbCSOhdm) | 2:47 |
-| 97 | [Streets of Bakersfield \(with Buck Owens\) \- 2006 Remaster](https://open.spotify.com/track/3pYZlqrcvbWnw2FWnZtUrI) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW), [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [Rhino Hi\-Five: Dwight Yoakam](https://open.spotify.com/album/1riOmyzZwqxByj20hBMD3J) | 2:49 |
+| 97 | [Streets of Bakersfield](https://open.spotify.com/track/5B7f2auRhwkl5OjC2bQ58f) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW) | [Buenas Noches From a Lonely Room](https://open.spotify.com/album/1NZ8YBYnruBPeKLuvTBARx) | 2:48 |
 | 98 | [Where've You Been](https://open.spotify.com/track/6FKaKKygpsFsWPzxkBSPB2) | [Kathy Mattea](https://open.spotify.com/artist/7ndzHjxbErIwvwnEUewMWe) | [Willow In The Wind](https://open.spotify.com/album/7ht2xdsrKqWux9Pfqhyh2f) | 3:44 |
 | 99 | [I'm No Stranger to the Rain](https://open.spotify.com/track/5wDuIDsCWKSROQY3JlDEuV) | [Keith Whitley](https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW) | [Don't Close Your Eyes](https://open.spotify.com/album/3hDqwanFIlVP5dRMWj8dhZ) | 3:36 |
 | 100 | [Go Rest High On That Mountain](https://open.spotify.com/track/7C04W8ooqQD3vWKUSzeYnz) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [When Love Finds You](https://open.spotify.com/album/33XyyiV7lMXdFbsorjt1sB) | 5:15 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYKwAtV4NDh.md) - [plain]
 | 106 | [Eighteen Wheels And A Dozen Roses](https://open.spotify.com/track/6EGRx5TVuHAsmy3JKb8SRC) | [Kathy Mattea](https://open.spotify.com/artist/7ndzHjxbErIwvwnEUewMWe) | [Untasted Honey](https://open.spotify.com/album/1K1PfB1GQe1lQcgxjEz8T5) | 3:23 |
 | 107 | [Fancy](https://open.spotify.com/track/1ecIqo8pOc8S6y3l80iGxd) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Best Of/20th Century](https://open.spotify.com/album/0Rb3coYXuUlgRLoi3UhADa) | 4:56 |
 
-Snapshot ID: `MTY1MTg2NjQ3NiwwMDAwMDAwMDMxNTZlNWRlMWIyYTU5OGU2Y2JhNjNkMWUyNTMyNDk1`
+Snapshot ID: `MTY1MTg2NjQ3NiwwMDAwMDAwMGQ5ZjcwZDU0ODIxM2IzNWQzMTkxMzRhMjM4MDg0Y2Jm`

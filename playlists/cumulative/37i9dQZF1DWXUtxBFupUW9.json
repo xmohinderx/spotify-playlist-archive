@@ -1198,6 +1198,24 @@
     },
     {
       "album": {
+        "name": "The Exciting Wilson Pickett",
+        "url": "https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm"
+      },
+      "artists": [
+        {
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146973,
+      "name": "Land of 1000 Dances",
+      "url": "https://open.spotify.com/track/76ICmoJ4PcoMWoooaTxnQs"
+    },
+    {
+      "album": {
         "name": "The Best of Sister Sledge (1973-1985)",
         "url": "https://open.spotify.com/album/4L1Astvd0LwOkF49jQ2Uyt"
       },
@@ -1771,7 +1789,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 141066,
       "name": "Sweet Soul Music",
       "url": "https://open.spotify.com/track/0pvA063uNyGQFp7DNtmk0P"

@@ -4,7 +4,7 @@
 
 > Keep up with all the latest pop hits\. Cover: Rema, Selena Gomez
 
-512 songs - 1 day 2 hr 8 min - [published](https://open.spotify.com/playlist/72ei0AA5JxKKu1O5OfW8cY)
+513 songs - 1 day 2 hr 11 min - [published](https://open.spotify.com/playlist/72ei0AA5JxKKu1O5OfW8cY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -519,6 +519,7 @@
 | [You're Just Drunk](https://open.spotify.com/track/0AqZwGZDiuEVcnNH7HFuZH) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [You're Just Drunk](https://open.spotify.com/album/4JwuJ4BJ3d42R56c8VT9bV) | 2:24 | 2021-12-31 | 2022-02-26 |
 | [Young Right Now](https://open.spotify.com/track/0JpEMzTHbt2zBIXrntrXzG) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Young Right Now](https://open.spotify.com/album/31t9iLimmriRn3Mviqywzw) | 3:06 | 2021-12-31 | 2022-03-12 |
 | [Your Knife](https://open.spotify.com/track/4w4JULfsKEd73TFdMxFL7n) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [Your Knife](https://open.spotify.com/album/7uUIruliVufuf4eqWXjPGK) | 3:02 | 2022-03-11 | 2022-03-19 |
-| [YUKON \(INTERLUDE\)](https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi) | 2:21 | 2022-08-26 |  |
+| [YUKON \(INTERLUDE\)](https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi) | 2:21 | 2022-08-26 | 2022-09-02 |
+| [YUKON \(INTERLUDE\)](https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/0GxWXE6ltKk4Gx3WyWLLrW) | 2:21 | 2022-08-29 |  |
 
 \*This playlist was first scraped on 2022-01-01. Prior content cannot be recovered.

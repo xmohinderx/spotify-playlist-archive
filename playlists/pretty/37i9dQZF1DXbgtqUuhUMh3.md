@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbgtqUuhUMh3.md) - [plain]
 
 > Listen to Arab women, at full volume\. Cover: Almas
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,361 likes - 53 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,380 likes - 53 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbgtqUuhUMh3.md) - [plain]
 | 10 | [Houwa](https://open.spotify.com/track/2ki6K0cwvZzDWDsuZm2etk) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Houwa](https://open.spotify.com/album/3DkELzHCchBTYhKBhnUqo0) | 3:31 |
 | 11 | [Kifi Kif Nass](https://open.spotify.com/track/3OGzKIGRrtnKWWYOBnretT) | [Zaynab](https://open.spotify.com/artist/392PzXdHwMWrN2PArb8aJu) | [Kifi Kif Nass](https://open.spotify.com/album/0d5CtbaLEpJTDHjJ106V9m) | 3:14 |
 | 12 | [Hyati Ana](https://open.spotify.com/track/0UvW5kLHvjzN4YsHGM0oai) | [Douaa Lahyaoui](https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6) | [Hyati Ana](https://open.spotify.com/album/3ATnydBE42x10NtDiXe4mt) | 2:51 |
-| 13 | [Ohebuka Raghman](https://open.spotify.com/track/2Y0K3JBY7toZYiq4cUP9Eu) | [Rima Yussef](https://open.spotify.com/artist/44AnhJxSH9AE3b6KpO5rZl) | [Ohebuka Raghman](https://open.spotify.com/album/6BOAJQ63qhOdFOuU8O9rAW) | 3:20 |
-| 14 | [أسيب نفسي وأغنى](https://open.spotify.com/track/2vPWM7HRQqv54d34itTpTS) | [Donia Samir Ghanem](https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB) | [أسيب نفسي وأغنى](https://open.spotify.com/album/0kg0psLhvJNYNSowHPiti6) | 4:43 |
+| 13 | [أسيب نفسي وأغنى](https://open.spotify.com/track/2vPWM7HRQqv54d34itTpTS) | [Donia Samir Ghanem](https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB) | [أسيب نفسي وأغنى](https://open.spotify.com/album/0kg0psLhvJNYNSowHPiti6) | 4:43 |
+| 14 | [Ohebuka Raghman](https://open.spotify.com/track/2Y0K3JBY7toZYiq4cUP9Eu) | [Rima Yussef](https://open.spotify.com/artist/44AnhJxSH9AE3b6KpO5rZl) | [Ohebuka Raghman](https://open.spotify.com/album/6BOAJQ63qhOdFOuU8O9rAW) | 3:20 |
 | 15 | [3ARI](https://open.spotify.com/track/2DBR3Wrmt3QzdwGYWi3ULi) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [3ARI](https://open.spotify.com/album/7JpbK6ZrdKDRaZfYJI4B6u) | 3:09 |
 | 16 | [طرشوله](https://open.spotify.com/track/6zKRAoVTjxGaXYxUdSTUHB) | [Queen G](https://open.spotify.com/artist/6rrCiJnPcTKkALHfG8bpAi) | [طرشوله](https://open.spotify.com/album/16AZzaSG6aSQJJRraYZ1tH) | 3:23 |
 | 17 | [Yom Min el Ayyam](https://open.spotify.com/track/2KDcnJ2ooNZUIHiHTnWE2b) | [Zainab Hassan](https://open.spotify.com/artist/0WhuydXuCatjNCoMjab4M7) | [Yom Min el Ayyam](https://open.spotify.com/album/5rOBlOyJbFnhAsu2BhcQc9) | 3:40 |
@@ -56,10 +56,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbgtqUuhUMh3.md) - [plain]
 | 46 | [كانت بتسهر](https://open.spotify.com/track/6i2yw9dhF9GPevIJxD3ewR) | [Ayten Amer](https://open.spotify.com/artist/3bUeg0maVIE0EnHJcsfyZE) | [كانت بتسهر](https://open.spotify.com/album/33Rdd2BXryUUBUrrcAcJMY) | 3:30 |
 | 47 | [Sowarna](https://open.spotify.com/track/5aMf5XddEvzeC1m88J6x4v) | [Al Anean](https://open.spotify.com/artist/4OGe22HHsE2RKyb710cHI3) | [Sowarna](https://open.spotify.com/album/3K3l4mS2yhPMaKkNbsAgpn) | 3:34 |
 | 48 | [Endal Eneed](https://open.spotify.com/track/4p3XxooOxt2YHbC9DTI0mj) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [Endal Eneed](https://open.spotify.com/album/7ygqnUn67EX1VQ9DUA0JSp) | 3:04 |
-| 49 | [زانت الدنيا](https://open.spotify.com/track/5EzRuKGJH0mbsN6v8Fnv9I) | [شيمي](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [زانت الدنيا](https://open.spotify.com/album/1LR4dAWfgxCfo15VonGAmO) | 3:39 |
-| 50 | [يا صبر الليل](https://open.spotify.com/track/4HUyAHEUantmDNuAl6puVy) | [Walaa Jundi](https://open.spotify.com/artist/1gyhxMT4OsXujzd3pcgdR5) | [يا صبر الليل](https://open.spotify.com/album/1eJTKJZZ8DwHTS2bB9aphX) | 4:22 |
+| 49 | [يا صبر الليل](https://open.spotify.com/track/4HUyAHEUantmDNuAl6puVy) | [Walaa Jundi](https://open.spotify.com/artist/1gyhxMT4OsXujzd3pcgdR5) | [يا صبر الليل](https://open.spotify.com/album/1eJTKJZZ8DwHTS2bB9aphX) | 4:22 |
+| 50 | [زانت الدنيا](https://open.spotify.com/track/5EzRuKGJH0mbsN6v8Fnv9I) | [شيمي](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [زانت الدنيا](https://open.spotify.com/album/1LR4dAWfgxCfo15VonGAmO) | 3:39 |
 | 51 | [محتاج بساط](https://open.spotify.com/track/1D4qNDL64nDuCwOI9spXI9) | [Nagwan](https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou) | [محتاج بساط](https://open.spotify.com/album/0Nf9o2JVSlpFLAvllnL9bN) | 2:27 |
 | 52 | [Bizarre](https://open.spotify.com/track/6zJG8UTvuDriFYafUqtgCb) | [Khtek](https://open.spotify.com/artist/5l9OXfeq4VgBHZZWmkJrvN) | [Bizarre](https://open.spotify.com/album/5oZZs5za3HpoShBuu0gU9n) | 2:40 |
 | 53 | [Kolli We Ehsasi](https://open.spotify.com/track/7sRtD4UFjJWp6XqY6bNbQu) | [Rulan](https://open.spotify.com/artist/2zyMGZUVbCHsh2LnkDF4ex) | [Kolli We Ehsasi](https://open.spotify.com/album/79Xf67nMR0UTUMgrBUT32F) | 6:37 |
 
-Snapshot ID: `MTY2MTk0NDQxMCwwMDAwMDAwMGU2MDU0NDQxZDVlOTMyNDliZDc5NTlmMjA5NzE3MmZm`
+Snapshot ID: `MTY2MjA2ODYxNiwwMDAwMDAwMDYyNDg3ODBhODI0MWE0MTUyNGMwMjM0OTNjOWYxMDBl`

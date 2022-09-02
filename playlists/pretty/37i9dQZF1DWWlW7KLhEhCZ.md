@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Greg Ferreira
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,764 likes - 70 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,814 likes - 70 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 21 | [Luta](https://open.spotify.com/track/7lsJyezHfXtEgfwbBZhg64) | [Xusa](https://open.spotify.com/artist/09e9YWfVBirkzqE9CsTbhx), [Luchinha Jr](https://open.spotify.com/artist/5v2bQ2dsdQmr2ARUYwnDHX) | [Luta](https://open.spotify.com/album/2BZpweHLMwNAq13NWmrm99) | 2:36 |
 | 22 | [Ambição e Desejo](https://open.spotify.com/track/6RAJXjuBuK2SvSmVRPuoG5) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po) | [Trap de Quebra \(Deluxe\)](https://open.spotify.com/album/19fuY6ljpmJaymifBNFqDf) | 2:59 |
 | 23 | [Coração Bandido](https://open.spotify.com/track/5yEBUQCGq72w9EUsOyQQhM) | [Tillmann](https://open.spotify.com/artist/4ozkb2MvrszWeLI6moQi8h) | [Coração Bandido](https://open.spotify.com/album/5ae4HOcsJcRvW5vh47Xb04) | 2:40 |
-| 24 | [Wonka 2](https://open.spotify.com/track/1zxtzEkDL9eseOTgx48Ssz) | [Godsiqueira](https://open.spotify.com/artist/42snp89vLLeLlg0XiWygBR), [Xiuazaki](https://open.spotify.com/artist/2jYv8mgnSvTyp3qaKK3FCc), [RealVettorazzi](https://open.spotify.com/artist/7qegmbiNxJva8xWHvnYQuu), [ogtreasure](https://open.spotify.com/artist/3SyOg7lVYi7SEIVgvaVKe0) | [Wonka 2](https://open.spotify.com/album/1P4y39qZXqwuXZdGVmCQby) | 2:53 |
+| 24 | [Wonka 2](https://open.spotify.com/track/1zxtzEkDL9eseOTgx48Ssz) | [Godsiqueira](https://open.spotify.com/artist/42snp89vLLeLlg0XiWygBR), [Xiuazaki](https://open.spotify.com/artist/2jYv8mgnSvTyp3qaKK3FCc), [RealVettorazzi](https://open.spotify.com/artist/33t6KcOfRfbXL5IAZU4ctA), [ogtreasure](https://open.spotify.com/artist/3SyOg7lVYi7SEIVgvaVKe0) | [Wonka 2](https://open.spotify.com/album/1P4y39qZXqwuXZdGVmCQby) | 2:53 |
 | 25 | [Cigano](https://open.spotify.com/track/3m0w4k2LRBouHn76YSU79a) | [Romaní](https://open.spotify.com/artist/6vw2vtVIu06GBH1elkbA3K), [AJ Wav](https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8) | [Cigano](https://open.spotify.com/album/3LGnokN1zLwngcByR1bnRw) | 2:17 |
 | 26 | [Hermetista](https://open.spotify.com/track/5S9CEWwpSjjGqFYWmV0ZLN) | [THS](https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4) | [Hermetista](https://open.spotify.com/album/3XMRH3DYK8gLIA9GW2nBmF) | 2:18 |
 | 27 | [Exibido](https://open.spotify.com/track/4Exjs0i5CFfKpIegAqcYOg) | [MVK](https://open.spotify.com/artist/78TUxGXS6Jpos6nj2oEqSP), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Exibido](https://open.spotify.com/album/0tK8meVFOCcUPOOyFfueJs) | 2:22 |

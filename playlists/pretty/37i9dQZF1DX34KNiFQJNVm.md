@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem LUDMILLA, Anitta, Alok e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,771,638 likes - 96 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,771,798 likes - 96 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 38 | [5 Estrellas](https://open.spotify.com/track/3XbzMSWKdp8FzcQHA9BeXw) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [5 Estrellas](https://open.spotify.com/album/2yANiBjyI4vqHfUax5a8RF) | 3:11 |
 | 39 | [Mercedes Tintia](https://open.spotify.com/track/6e9Ew4AECYwY5Xgs2ZKMgp) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Mercedes Tintia](https://open.spotify.com/album/3Hp4KQN2Oib1HM5MO3Q69s) | 3:15 |
 | 40 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 |
-| 41 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi) | 2:21 |
+| 41 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/0GxWXE6ltKk4Gx3WyWLLrW) | 2:21 |
 | 42 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 |
 | 43 | [ponto de vista](https://open.spotify.com/track/0NfqR1Kf2opCwXPaNVouRY) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [ponto de vista](https://open.spotify.com/album/0nD3dR5hkxS3g1DyCATB9U) | 3:26 |
 | 44 | [Tudo Teu](https://open.spotify.com/track/21bbR1glUbV7Vvo8hIMC2W) | [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Tudo Teu](https://open.spotify.com/album/2ARdu9IuLvWhy0c6eQPSYS) | 3:33 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 95 | [Congrats](https://open.spotify.com/track/3pJMOvec8R8OKzEmB9PRJD) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Congrats](https://open.spotify.com/album/0URAkeg7psYrEr9Qj0KTIL) | 3:37 |
 | 96 | [Groundwork](https://open.spotify.com/track/6VBQuholHCe5LyCdyIWvzo) | [Big Narstie](https://open.spotify.com/artist/4ITNzglfuGtfHgDu29GIMW), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Papoose](https://open.spotify.com/artist/0mbgkaYR8KNUb5s3s1yYHG) | [Groundwork](https://open.spotify.com/album/6N25MmXrrGmBV8ZlUW8cTv) | 3:28 |
 
-Snapshot ID: `MTY2MTc4MDk1NiwwMDAwMDAwMGJlMzc4OTg2NWRiNTg5MWY3NTE3MjRiZGQ5N2QzNzE1`
+Snapshot ID: `MTY2MTc4MDk1NiwwMDAwMDAwMDhmYWI3ODIyM2MxZTkxZTQ5MWY1N2U0Mjk3NWNkNjFl`

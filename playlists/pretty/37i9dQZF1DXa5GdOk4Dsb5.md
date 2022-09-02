@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 
 > Para ahogar las penas en el fondo de una botella.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,866 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,009 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,13 +51,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 | 41 | [Nuestro Juramento](https://open.spotify.com/track/4F6Ne3xyctrytvYm9W68ll) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [El Ruiseñor de America](https://open.spotify.com/album/33pvMxnkZFMGkg9fbomz0r) | 3:15 |
 | 42 | [Amor Eterno](https://open.spotify.com/track/2TC4v9YiuQYk3Tk8RH7fV4) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta A Juan Gabriel](https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M) | 6:49 |
 | 43 | [Si Te Pudiera Mentir \- Live Version](https://open.spotify.com/track/239yEYlZWG7PYuUojNywXZ) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Una Noche En Madrid](https://open.spotify.com/album/0rtsxbXUaH6OlDKiwwoMD8) | 4:23 |
-| 44 | [Decepciones](https://open.spotify.com/track/2LTYkSso5VAfdqzqjprOcH) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Decepciones](https://open.spotify.com/album/4Q7weZZRXGVLoKk3NeOuNT) | 3:43 |
+| 44 | [Caballero](https://open.spotify.com/track/6jrK6Y8d9tvjAjurI4W99u) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Hecho En México](https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI) | 3:49 |
 | 45 | [Hermoso Cariño](https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernández](https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO) | 2:36 |
 | 46 | [Triste Recuerdo](https://open.spotify.com/track/5wLqk86XlgZCzP8mMG9PrF) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar con Mariachi](https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n) | 3:53 |
 | 47 | [Amorcito Mío \- Live](https://open.spotify.com/track/0iOZvZee49EgTNJEBm1VbC) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados Vol\. 1 \(Live\)](https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K) | 3:23 |
 | 48 | [Quién De Los Dos Será](https://open.spotify.com/track/66veRqqrxhfa1Q9088RmPS) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Mexicano Hasta Las Pampas](https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q) | 3:33 |
 | 49 | [Directo Al Corazón](https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Mujeres Como Tú](https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL) | 3:20 |
-| 50 | [Caballero](https://open.spotify.com/track/6jrK6Y8d9tvjAjurI4W99u) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Hecho En México](https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI) | 3:49 |
+| 50 | [Decepciones](https://open.spotify.com/track/2LTYkSso5VAfdqzqjprOcH) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Decepciones](https://open.spotify.com/album/4Q7weZZRXGVLoKk3NeOuNT) | 3:43 |
 | 51 | [Dulce Pecado](https://open.spotify.com/track/7al6OaakdGoXtEGRy05lgu) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Repítelas](https://open.spotify.com/album/4QRs1syzARn1dej4RWRPtY) | 2:55 |
 | 52 | [Volver Volver](https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Arriba Huentitan](https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9) | 3:00 |
 | 53 | [Échame a Mi La Culpa](https://open.spotify.com/track/2TOBMDqbtPP6sAQtWc2Br9) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mexico en la Piel \(edicion diamante\)](https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM) | 3:09 |
@@ -87,10 +87,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 | 77 | [De Qué Manera Te Olvido](https://open.spotify.com/track/0j0ntQup1Wp9ZiQTUvgnhm) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mexico en la Piel \(edicion diamante\)](https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM) | 2:31 |
 | 78 | [En el Último Trago](https://open.spotify.com/track/6i6tTUmg1i9PDwETgb5v7J) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Gracias \(with Mariachi Vargas de Tecalitlán\)](https://open.spotify.com/album/6nhkBmPqfBjoJwLMVClgxH) | 2:17 |
 | 79 | [Aventurero](https://open.spotify.com/track/0ftcn4ddKESqQMA784Ebc0) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Aventurero](https://open.spotify.com/album/5gdo7K3EFl1CSiOM9P8jTG) | 3:10 |
-| 80 | [Soltero Feliz](https://open.spotify.com/track/0J3K43YwdkPzfce68mdQrW) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Que No Se Caiga el Ritmo](https://open.spotify.com/album/0EXq8bLcuNc6DIj20qRFgj) | 3:51 |
+| 80 | [Amor Tumbado](https://open.spotify.com/track/6RRfUmnxz3Ef4KZxNBSLgV) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Amor Tumbado](https://open.spotify.com/album/4queNC2JHMeqHAR708ppRn) | 2:39 |
 | 81 | [Si Quieres](https://open.spotify.com/track/3E4fIAY3BmI6ZzMaJ3pr0j) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Cosas De Enamorados](https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG) | 4:12 |
-| 82 | [Adicta al Dolor](https://open.spotify.com/track/0V0350NvG0jvbiUTXPzIXU) | [Marbelle](https://open.spotify.com/artist/3UMc63PbdGvuOzUk0Gd1Fg) | [Adicta al Dolor](https://open.spotify.com/album/4s8Cb35rdzwYijUoRpXCPL) | 2:53 |
-| 83 | [Amor Tumbado](https://open.spotify.com/track/6RRfUmnxz3Ef4KZxNBSLgV) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Amor Tumbado](https://open.spotify.com/album/4queNC2JHMeqHAR708ppRn) | 2:39 |
+| 82 | [Soltero Feliz](https://open.spotify.com/track/0J3K43YwdkPzfce68mdQrW) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Que No Se Caiga el Ritmo](https://open.spotify.com/album/0EXq8bLcuNc6DIj20qRFgj) | 3:51 |
+| 83 | [Adicta al Dolor](https://open.spotify.com/track/0V0350NvG0jvbiUTXPzIXU) | [Marbelle](https://open.spotify.com/artist/3UMc63PbdGvuOzUk0Gd1Fg) | [Adicta al Dolor](https://open.spotify.com/album/4s8Cb35rdzwYijUoRpXCPL) | 2:53 |
 | 84 | [OK](https://open.spotify.com/track/7CpzHbrYhaqLHUdpfyYUsM) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Repítelas](https://open.spotify.com/album/4QRs1syzARn1dej4RWRPtY) | 2:21 |
 | 85 | [Me Sacaron Del Tenampa](https://open.spotify.com/track/6f4jjw4xqdX00zqaJ141PZ) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx) | [15 Éxitazos](https://open.spotify.com/album/5mmZxvjnPHDjasQQ1F9514) | 1:54 |
 | 86 | [En Tu Pelo](https://open.spotify.com/track/4leHHwUSR0Vm5rjYvHhBEU) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Vida De Bohemio](https://open.spotify.com/album/0ufPamcshkfTyzmIJp9Efi) | 3:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 | 99 | [Cuando Me Tenías](https://open.spotify.com/track/4bPKM2jZ9PU1uzANyOC0G7) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Nos Divertimos Logrando Lo Imposible](https://open.spotify.com/album/5zUXAGfz0d2WXpxTeXjVSP) | 4:07 |
 | 100 | [Ya No Mi Amor](https://open.spotify.com/track/7qbPQqOYYMPdQqRqv7bNin) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Todo de Mi \(Vol\. 4\)](https://open.spotify.com/album/07PyHnjYzUmaQAjKK5WtCk) | 3:20 |
 
-Snapshot ID: `MTY1NDczMTc1MywwMDAwMDAwMDY3MmIyYTFiNmZjYzNlN2NiNWZjYTAwODVkN2NjNGM4`
+Snapshot ID: `MTY1NDczMTc1MywwMDAwMDAwMGRjOTcyMTMxMmU3YWQzYmUxODcxOTAyMTY1YTA0MmYw`

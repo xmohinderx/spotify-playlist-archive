@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 717265,
+  "num_followers": 718064,
   "original_name": "Energy Booster: Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUxNTIwMCwwMDAwMDAwMDYzYWI2MzBhNWI2Y2RkNTkwYzVlOWViMTU2ZjEyZGE1",
+  "snapshot_id": "MTY2MTUxNTIwMCwwMDAwMDAwMDdlNTllYWJmYjZiNGRmOWE5M2VhMWE3NmRmNThkMzVj",
   "tracks": [
     {
       "added_at": "2022-08-26 12:00:00",
@@ -355,6 +355,26 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "BLAME IT ON BABY",
+        "url": "https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 181733,
+      "name": "ROCKSTAR (feat. Roddy Ricch)",
+      "url": "https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "Hot Shit (feat. Ye & Lil Durk)",
         "url": "https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO"
       },
@@ -375,26 +395,6 @@
       "duration_ms": 211649,
       "name": "Hot Shit (feat. Ye & Lil Durk)",
       "url": "https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "BLAME IT ON BABY",
-        "url": "https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 181733,
-      "name": "ROCKSTAR (feat. Roddy Ricch)",
-      "url": "https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -899,26 +899,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Flockaveli",
-        "url": "https://open.spotify.com/album/6MQtWELG7aRX7CkAzQ6nLM"
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
       },
       "artists": [
         {
-          "name": "Waka Flocka Flame",
-          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
-        },
-        {
-          "name": "Roscoe Dash",
-          "url": "https://open.spotify.com/artist/0bfX8pF8kuHNCs57Ms4jZb"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 263773,
-      "name": "No Hands (feat. Roscoe Dash & Wale)",
-      "url": "https://open.spotify.com/track/03tqyYWC9Um2ZqU0ZN849H"
+      "duration_ms": 299613,
+      "name": "All Of The Lights",
+      "url": "https://open.spotify.com/track/22L7bfCiAkJo5xGSQgmiIO"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -939,18 +931,26 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "My Beautiful Dark Twisted Fantasy",
-        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+        "name": "Flockaveli",
+        "url": "https://open.spotify.com/album/6MQtWELG7aRX7CkAzQ6nLM"
       },
       "artists": [
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "name": "Waka Flocka Flame",
+          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+        },
+        {
+          "name": "Roscoe Dash",
+          "url": "https://open.spotify.com/artist/0bfX8pF8kuHNCs57Ms4jZb"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         }
       ],
-      "duration_ms": 299613,
-      "name": "All Of The Lights",
-      "url": "https://open.spotify.com/track/22L7bfCiAkJo5xGSQgmiIO"
+      "duration_ms": 263773,
+      "name": "No Hands (feat. Roscoe Dash & Wale)",
+      "url": "https://open.spotify.com/track/03tqyYWC9Um2ZqU0ZN849H"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Ball If I Want To",
+        "url": "https://open.spotify.com/album/6N9oICOUm4QT2YpWdKwUlu"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 112546,
+      "name": "Ball If I Want To",
+      "url": "https://open.spotify.com/track/0cu0rhnlCnJ7JIeHRiLpj3"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "From The D 2 The LBC (with Snoop Dogg)",
         "url": "https://open.spotify.com/album/6F4ObGnJwwV5W4uLFHnNoT"
       },
@@ -1307,18 +1323,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Ball If I Want To",
-        "url": "https://open.spotify.com/album/6N9oICOUm4QT2YpWdKwUlu"
+        "name": "Rise Of An Empire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0UwpSCPnNPksM1meQJnBAF"
       },
       "artists": [
         {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+          "name": "Young Money",
+          "url": "https://open.spotify.com/artist/5OrB6Jhhrl9y2PK0pSV4VP"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 112546,
-      "name": "Ball If I Want To",
-      "url": "https://open.spotify.com/track/0cu0rhnlCnJ7JIeHRiLpj3"
+      "duration_ms": 188320,
+      "name": "Trophies",
+      "url": "https://open.spotify.com/track/6HfOzLLjsaXsehIFEsrxTk"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1339,26 +1359,6 @@
       "duration_ms": 245386,
       "name": "Homicide (feat. Eminem)",
       "url": "https://open.spotify.com/track/7M2tXmeS15NAzEn7ABFeBg"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "Rise Of An Empire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0UwpSCPnNPksM1meQJnBAF"
-      },
-      "artists": [
-        {
-          "name": "Young Money",
-          "url": "https://open.spotify.com/artist/5OrB6Jhhrl9y2PK0pSV4VP"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 188320,
-      "name": "Trophies",
-      "url": "https://open.spotify.com/track/6HfOzLLjsaXsehIFEsrxTk"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Up",
-        "url": "https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 156944,
-      "name": "Up",
-      "url": "https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "AI YoungBoy 2",
         "url": "https://open.spotify.com/album/1nzUj7VkiaytMmf2KrhK2L"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 204346,
       "name": "No Friends In The Industry",
       "url": "https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Up",
+        "url": "https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 156944,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1535,6 +1535,38 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "The New Toronto 3",
+        "url": "https://open.spotify.com/album/2TbrXjwWklhT7JrC5sdUkf"
+      },
+      "artists": [
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "duration_ms": 132023,
+      "name": "Broke In A Minute",
+      "url": "https://open.spotify.com/track/4xqIYGwwZTEem9U8A42SPF"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Fetty Wap (Deluxe)",
+        "url": "https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw"
+      },
+      "artists": [
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        }
+      ],
+      "duration_ms": 222093,
+      "name": "Trap Queen",
+      "url": "https://open.spotify.com/track/2d8JP84HNLKhmd6IYOoupQ"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "Trip At Knight (Complete Edition)",
         "url": "https://open.spotify.com/album/4sS5IjHR0YOJQdSTQ8whWz"
       },
@@ -1559,22 +1591,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Fetty Wap (Deluxe)",
-        "url": "https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw"
-      },
-      "artists": [
-        {
-          "name": "Fetty Wap",
-          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
-        }
-      ],
-      "duration_ms": 222093,
-      "name": "Trap Queen",
-      "url": "https://open.spotify.com/track/2d8JP84HNLKhmd6IYOoupQ"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "BETTER THAN YOU",
         "url": "https://open.spotify.com/album/1X4W9ApaYSS9ZsmUhIVDD3"
       },
@@ -1591,42 +1607,6 @@
       "duration_ms": 111970,
       "name": "Bestie",
       "url": "https://open.spotify.com/track/6r9xnueU24r4eoG3HXC87E"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "The New Toronto 3",
-        "url": "https://open.spotify.com/album/2TbrXjwWklhT7JrC5sdUkf"
-      },
-      "artists": [
-        {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
-        }
-      ],
-      "duration_ms": 132023,
-      "name": "Broke In A Minute",
-      "url": "https://open.spotify.com/track/4xqIYGwwZTEem9U8A42SPF"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "The Rising Tied",
-        "url": "https://open.spotify.com/album/5v4Vx9loqMQCS3J7OmP9pa"
-      },
-      "artists": [
-        {
-          "name": "Fort Minor",
-          "url": "https://open.spotify.com/artist/7dWYWUbO68rXJOcyA7SpJk"
-        },
-        {
-          "name": "Styles Of Beyond",
-          "url": "https://open.spotify.com/artist/5bf6yYgHODBW5EreBZshpX"
-        }
-      ],
-      "duration_ms": 230493,
-      "name": "Remember the Name (feat. Styles of Beyond)",
-      "url": "https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1651,6 +1631,26 @@
       "duration_ms": 214400,
       "name": "Can't Be Touched (feat. Mr. Magic & Trouble)",
       "url": "https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "The Rising Tied",
+        "url": "https://open.spotify.com/album/5v4Vx9loqMQCS3J7OmP9pa"
+      },
+      "artists": [
+        {
+          "name": "Fort Minor",
+          "url": "https://open.spotify.com/artist/7dWYWUbO68rXJOcyA7SpJk"
+        },
+        {
+          "name": "Styles Of Beyond",
+          "url": "https://open.spotify.com/artist/5bf6yYgHODBW5EreBZshpX"
+        }
+      ],
+      "duration_ms": 230493,
+      "name": "Remember the Name (feat. Styles of Beyond)",
+      "url": "https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1843,26 +1843,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Do We Have A Problem?",
-        "url": "https://open.spotify.com/album/1fDcx48pkgRmOXQ3weT0ct"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 207065,
-      "name": "Do We Have A Problem?",
-      "url": "https://open.spotify.com/track/1PNs0uGru3TcrA94kpyGnc"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Tha Carter IV",
         "url": "https://open.spotify.com/album/1MGEMBqM3v8OUM2glv7MSx"
       },
@@ -1899,6 +1879,26 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Do We Have A Problem?",
+        "url": "https://open.spotify.com/album/1fDcx48pkgRmOXQ3weT0ct"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 207065,
+      "name": "Do We Have A Problem?",
+      "url": "https://open.spotify.com/track/1PNs0uGru3TcrA94kpyGnc"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "Culture II",
         "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
       },
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/2RrZgDND03MLu6pRJdTkz5"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 194050,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/2AaJeBEq3WLcfFW1y8svDf"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Project Baby 2: All Grown Up",
         "url": "https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 169344,
       "name": "Transportin'",
       "url": "https://open.spotify.com/track/1WIZiOuNO3woKfdlSK2gNn"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/2RrZgDND03MLu6pRJdTkz5"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 194050,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/2AaJeBEq3WLcfFW1y8svDf"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2383,18 +2383,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Under Construction",
-        "url": "https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup"
+        "name": "Recovery",
+        "url": "https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb"
       },
       "artists": [
         {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         }
       ],
-      "duration_ms": 263226,
-      "name": "Work It",
-      "url": "https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF"
+      "duration_ms": 279013,
+      "name": "Cinderella Man",
+      "url": "https://open.spotify.com/track/4SE4yewyGpOYfxfx59Yjc5"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2419,38 +2419,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Recovery",
-        "url": "https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb"
+        "name": "Under Construction",
+        "url": "https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup"
       },
       "artists": [
         {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
         }
       ],
-      "duration_ms": 279013,
-      "name": "Cinderella Man",
-      "url": "https://open.spotify.com/track/4SE4yewyGpOYfxfx59Yjc5"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "The New Classic (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5kfo2COwQYeYR3cE69aSgx"
-      },
-      "artists": [
-        {
-          "name": "Iggy Azalea",
-          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
-        },
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 199938,
-      "name": "Fancy",
-      "url": "https://open.spotify.com/track/3oiMJQAWVaxSubJ7b2VUtX"
+      "duration_ms": 263226,
+      "name": "Work It",
+      "url": "https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2471,6 +2451,26 @@
       "duration_ms": 238693,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/6Iocm6VMu6bVNYwiDoyQFW"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "The New Classic (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5kfo2COwQYeYR3cE69aSgx"
+      },
+      "artists": [
+        {
+          "name": "Iggy Azalea",
+          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 199938,
+      "name": "Fancy",
+      "url": "https://open.spotify.com/track/3oiMJQAWVaxSubJ7b2VUtX"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2543,6 +2543,26 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "I Am Not A Human Being",
+        "url": "https://open.spotify.com/album/5vfnsOgLqsgmEb3vGyc2FO"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 271946,
+      "name": "Right Above It",
+      "url": "https://open.spotify.com/track/1kMuU3TNQvHbqvXCWBodmP"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "Trap Lord",
         "url": "https://open.spotify.com/album/3smlfAmejcKMmAPg1G2Kki"
       },
@@ -2571,26 +2591,6 @@
       "duration_ms": 283693,
       "name": "Work REMIX (feat. A$AP Rocky, French Montana, Trinidad James & ScHoolboy Q)",
       "url": "https://open.spotify.com/track/7xVLFuuYdAvcTfcP3IG3dS"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "I Am Not A Human Being",
-        "url": "https://open.spotify.com/album/5vfnsOgLqsgmEb3vGyc2FO"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 271946,
-      "name": "Right Above It",
-      "url": "https://open.spotify.com/track/1kMuU3TNQvHbqvXCWBodmP"
     },
     {
       "added_at": "2022-08-26 12:00:00",

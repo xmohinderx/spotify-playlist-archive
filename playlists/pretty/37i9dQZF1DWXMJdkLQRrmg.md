@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 
 > Rock unplugged\. Cover: Wolf Alice
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,585 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,641 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 | 35 | [Black Hole Sun \- Recorded Live At Red Robinson Show Theatre, Vancouver, Canada on April 30, 2011](https://open.spotify.com/track/5p0s4na5wJHnaNw9azmiQm) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Songbook](https://open.spotify.com/album/24QtdNLprYc0U57zdMcQoc) | 4:37 |
 | 36 | [Stay With Me \- Acoustic Version](https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Stay With Me](https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5) | 3:18 |
 | 37 | [Billie Jean](https://open.spotify.com/track/4YKhIH7BhFErLoV9dgHupm) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Between the Bars](https://open.spotify.com/album/64Z8bWSUBB1Vhox2K5EdBe) | 4:20 |
-| 38 | [The Shower Scene \- Acoustic](https://open.spotify.com/track/3VIekKbo9oVfXMs4vsRl0w) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Shower Scene \(Acoustic\)](https://open.spotify.com/album/1fJpbgIL7RfQnS50yio6T2) | 3:02 |
-| 39 | [Sorry \- Acoustic](https://open.spotify.com/track/0Akytll1e5KvwNKvhqIZFn) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Broken Machine \(Deluxe\)](https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq) | 3:34 |
+| 38 | [Sorry \- Acoustic](https://open.spotify.com/track/0Akytll1e5KvwNKvhqIZFn) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Broken Machine \(Deluxe\)](https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq) | 3:34 |
+| 39 | [The Shower Scene \- Acoustic](https://open.spotify.com/track/3VIekKbo9oVfXMs4vsRl0w) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Shower Scene \(Acoustic\)](https://open.spotify.com/album/1fJpbgIL7RfQnS50yio6T2) | 3:02 |
 | 40 | [Bite Me \- Acoustic](https://open.spotify.com/track/71BPElgdb5MtfIJYGuTWqB) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Bite Me \(Acoustic\)](https://open.spotify.com/album/65HfGumTbHNFANxNu07PlC) | 3:09 |
 | 41 | [How Did You Love \- Acoustic](https://open.spotify.com/track/4bUbgl5yiMEfGFy8CQNnXB) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [How Did You Love](https://open.spotify.com/album/0PFYjO7SxBpUUtwR91gvJP) | 3:05 |
 | 42 | [Heart Beat Here](https://open.spotify.com/track/4NEAoEh4hZF1Tgp1QXrUHC) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Crooked Shadows](https://open.spotify.com/album/0qByP4IV1nNHhLs3RfDrGB) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 | 49 | [Seaside](https://open.spotify.com/track/0QCuMBeqdWkwFUTO1WlAjH) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz) | 1:39 |
 | 50 | [bloody valentine \- Acoustic](https://open.spotify.com/track/4Uah1pyFsLEsw4eauJvuNF) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [bloody valentine \(Acoustic\)](https://open.spotify.com/album/6b3coyUziyxHqt8h5UiSkU) | 3:15 |
 
-Snapshot ID: `MTY2MDMyNTcyNiwwMDAwMDAwMGRiNzVkMDllN2I5YWY2NTBhZjc2ZmU3MTI2OTgzODBj`
+Snapshot ID: `MTY2MDMyNTcyNiwwMDAwMDAwMDE3MTBlMWZmOTAxMTQ5ZDhlMWZjY2MxNDZjNDM2OGYw`

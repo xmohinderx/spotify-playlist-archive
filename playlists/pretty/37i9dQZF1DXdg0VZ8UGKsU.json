@@ -1,12 +1,12 @@
 {
   "description": "All 80s, all ballads. Cover: Whitney Houston",
-  "num_followers": 232705,
+  "num_followers": 232715,
   "original_name": "80s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTM1MjE1NCwwMDAwMDAwMDY3ZTAxMDlmMzliOTI3MjIxMTY4OWU1YzhkNmI0NjQz",
+  "snapshot_id": "MTY1NTM1MjE1NCwwMDAwMDAwMGVjY2U3MzAwNzlhY2QxMzQxOTAwNzA5NzBiODQ5YzAw",
   "tracks": [
     {
       "added_at": "2022-06-16 04:02:34",
@@ -571,18 +571,22 @@
     {
       "added_at": "2022-06-16 04:02:34",
       "album": {
-        "name": "Lost in Love",
-        "url": "https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW"
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/0OdFUi5lSenjXrgy4dVAP8"
       },
       "artists": [
         {
-          "name": "Air Supply",
-          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
+          "name": "Joe Cocker",
+          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+        },
+        {
+          "name": "Jennifer Warnes",
+          "url": "https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG"
         }
       ],
-      "duration_ms": 243000,
-      "name": "All Out of Love",
-      "url": "https://open.spotify.com/track/7dQC53NiYOY9gKg3Qsu2Bs"
+      "duration_ms": 232666,
+      "name": "Up Where We Belong - From \"An Officer And A Gentleman\"",
+      "url": "https://open.spotify.com/track/4U6mBgGP8FXN6UH4T3AJhu"
     },
     {
       "added_at": "2022-06-16 04:02:34",
@@ -603,22 +607,18 @@
     {
       "added_at": "2022-06-16 04:02:34",
       "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/0OdFUi5lSenjXrgy4dVAP8"
+        "name": "Lost in Love",
+        "url": "https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW"
       },
       "artists": [
         {
-          "name": "Joe Cocker",
-          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
-        },
-        {
-          "name": "Jennifer Warnes",
-          "url": "https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG"
+          "name": "Air Supply",
+          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
         }
       ],
-      "duration_ms": 232666,
-      "name": "Up Where We Belong - From \"An Officer And A Gentleman\"",
-      "url": "https://open.spotify.com/track/4U6mBgGP8FXN6UH4T3AJhu"
+      "duration_ms": 243000,
+      "name": "All Out of Love",
+      "url": "https://open.spotify.com/track/7dQC53NiYOY9gKg3Qsu2Bs"
     },
     {
       "added_at": "2022-06-16 04:02:34",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2022-06-16 04:02:34",
       "album": {
+        "name": "Richard Marx",
+        "url": "https://open.spotify.com/album/3C2cO3wo4f2bLzOpFypgmZ"
+      },
+      "artists": [
+        {
+          "name": "Richard Marx",
+          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+        }
+      ],
+      "duration_ms": 316040,
+      "name": "Hold On To The Nights",
+      "url": "https://open.spotify.com/track/3F2YXxSOC9dPmxXdrh6mYl"
+    },
+    {
+      "added_at": "2022-06-16 04:02:34",
+      "album": {
         "name": "Dirty Dancing: Anniversary Edition",
         "url": "https://open.spotify.com/album/3LRhyjBARwKrCp28rmcmAM"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 230866,
       "name": "She's Like the Wind (feat. Wendy Fraser)",
       "url": "https://open.spotify.com/track/36EWx5B78n8sSfpmtKrUUV"
-    },
-    {
-      "added_at": "2022-06-16 04:02:34",
-      "album": {
-        "name": "Richard Marx",
-        "url": "https://open.spotify.com/album/3C2cO3wo4f2bLzOpFypgmZ"
-      },
-      "artists": [
-        {
-          "name": "Richard Marx",
-          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
-        }
-      ],
-      "duration_ms": 316040,
-      "name": "Hold On To The Nights",
-      "url": "https://open.spotify.com/track/3F2YXxSOC9dPmxXdrh6mYl"
     },
     {
       "added_at": "2022-06-16 04:02:34",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cx0q5Jn2vp.md) - [plain]
 
 > Nakakakilig!
 
-[Spotify](https://open.spotify.com/user/spotify) - 779,480 likes - 40 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 779,555 likes - 40 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,6 +47,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cx0q5Jn2vp.md) - [plain]
 | 37 | [dancing in the kitchen](https://open.spotify.com/track/0ohcCrxZkBfFbkuRPOZQZX) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [dancing in the kitchen](https://open.spotify.com/album/3fHkjpHZjohpdtiJJdVtez) | 3:28 |
 | 38 | [working](https://open.spotify.com/track/31sSFHIe4NaxltVFOEIcTa) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [working](https://open.spotify.com/album/4iCcsBlzVQVZoJzxBvhuyS) | 3:30 |
 | 39 | [Habang Buhay](https://open.spotify.com/track/0zANeX4R6uWb82gCQAguOD) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Habang Buhay](https://open.spotify.com/album/7Mp9hdsWS0vbxKvYkT77hS) | 4:04 |
-| 40 | [Glad You Exist](https://open.spotify.com/track/472vIK1ldetTxRxG3ovaiY) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Glad You Exist](https://open.spotify.com/album/4z2eVLzV0UxLc2O4VZMIjV) | 2:24 |
+| 40 | [Lean On Me](https://open.spotify.com/track/5acSb48zFAcXTdL5Wsk8xx) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [HELLRAISERS, Part 1](https://open.spotify.com/album/5NXJVouKAFjwszJA8FxUY7) | 2:29 |
 
-Snapshot ID: `MTY1NjMwMTUzMywwMDAwMDAwMGI0NGIxY2ZlZjk4MDgxNmRmZmQxZDViN2IzNWQxMWVi`
+Snapshot ID: `MTY1NjMwMTUzMywwMDAwMDAwMDQxN2U1NGQ4Yjg0MjRmMzMyZmJiMDU5Mzg4Yzg3NmE3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrewvmoU2pr.md) - [plain]
 
 > Anything from hidden local gems to pop classics about the journey to embracing all kinds of love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,860 likes - 25 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,861 likes - 25 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrewvmoU2pr.md) - [plain]
 | 5 | [Psycho](https://open.spotify.com/track/2eQAOUcjGKoLrCHQkFekAI) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [CHILI T](https://open.spotify.com/album/6zyVqxhbcRIa7nCyUobInO) | 2:51 |
 | 6 | [Lunatic](https://open.spotify.com/track/2uodDdo4jqShIEAFy8yuIY) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Lady Jesus](https://open.spotify.com/album/3INiPPjvwK4RGIV4Qed2Qu) | 2:21 |
 | 7 | [This Hell](https://open.spotify.com/track/6A6yKpsgFr4gIKd7gsfHhm) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [This Hell](https://open.spotify.com/album/0U4egSSjgOOcAO7Qmj189E) | 3:56 |
-| 8 | [LA FAMA \(with The Weeknd\)](https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 3:08 |
+| 8 | [LA FAMA](https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 3:08 |
 | 9 | [Fuck You](https://open.spotify.com/track/1GCbc1vpkZA2zhjsSFhmHT) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [It's Not Me, It's You](https://open.spotify.com/album/39zjAZD6nlscx5DafH8GI8) | 3:39 |
 | 10 | [all my ghosts](https://open.spotify.com/track/2tEfW1QMddoTWIIgHtHiPV) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N) | 3:17 |
 | 11 | [Temporary](https://open.spotify.com/track/4m8YKBc6vv2KDatDGmKGx0) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [CHILI T](https://open.spotify.com/album/6zyVqxhbcRIa7nCyUobInO) | 2:43 |

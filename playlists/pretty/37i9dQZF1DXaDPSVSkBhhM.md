@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 
 > ¡Pop\-punk por siempre!
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,529 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,547 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 | 7 | [Eso Es Todo Lo Que Soy](https://open.spotify.com/track/3A0t8Bg8kFoVuCZFiKhY9k) | [GUFI](https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN) | [Historias De La Calle](https://open.spotify.com/album/0It6LpqmGgPSMdXMSXKS1w) | 3:30 |
 | 8 | [Más de Lo Que Te Imaginas](https://open.spotify.com/track/4tgzXBZfiR5VKjbqThmtG6) | [Delux](https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz) | [Delux](https://open.spotify.com/album/3hWSo1wNmgWsYTiFakLuvl) | 2:48 |
 | 9 | [Nadie Me Entiende](https://open.spotify.com/track/33RTbvUoM6smHeTI2v6PrI) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Nadie Me Entiende](https://open.spotify.com/album/0WF1FMpsCqNmW2zJyzmLDY) | 3:00 |
-| 10 | [3 de Noviembre \(No Me Agüito\)](https://open.spotify.com/track/5jz98zp21M1LkTGtsSzfsV) | [Chingadazo de Kung Fu](https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL) | [Me Pongo Hasta la Madre Porque Estoy Hasta la Madre](https://open.spotify.com/album/5aiTG05rC4AcL0ZaV2pAYu) | 3:03 |
+| 10 | [Cien Inviernos](https://open.spotify.com/track/0cOHNQigalz5bWC7hdateS) | [Sputnik](https://open.spotify.com/artist/4x3qtUyePwLlDmDBlxetPG) | [Monumentos](https://open.spotify.com/album/0okUAbYIWPQ9QDlHkKhYeK) | 3:07 |
 | 11 | [Cereal](https://open.spotify.com/track/1jEyfhLrKrtbpm0DGbnS7H) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Cereal](https://open.spotify.com/album/4RFAbUoR8Wjr4800cYcZEL) | 2:41 |
-| 12 | [Cien Inviernos](https://open.spotify.com/track/0cOHNQigalz5bWC7hdateS) | [Sputnik](https://open.spotify.com/artist/4x3qtUyePwLlDmDBlxetPG) | [Monumentos](https://open.spotify.com/album/0okUAbYIWPQ9QDlHkKhYeK) | 3:07 |
+| 12 | [3 de Noviembre \(No Me Agüito\)](https://open.spotify.com/track/5jz98zp21M1LkTGtsSzfsV) | [Chingadazo de Kung Fu](https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL) | [Me Pongo Hasta la Madre Porque Estoy Hasta la Madre](https://open.spotify.com/album/5aiTG05rC4AcL0ZaV2pAYu) | 3:03 |
 | 13 | [No Hay Final Feliz](https://open.spotify.com/track/4DA6ycFahIk2BekxtAnS8r) | [Cuatro y Medio](https://open.spotify.com/artist/6wJwB1zPYk6mASfPxua8qC) | [No Hay Final Feliz](https://open.spotify.com/album/5C2ctVj0v0BVGc3D7ELsea) | 3:38 |
 | 14 | [Cc \(Como Compas\)](https://open.spotify.com/track/5Bnn9MKvL9JGeBdbnSdB5O) | [Mi Mascota Leila](https://open.spotify.com/artist/3fMUI1SlJ06jX1V0qGNmge) | [Jäula](https://open.spotify.com/album/1yLnsXPIitOv2ExApCDEGE) | 3:46 |
 | 15 | [Para Ti](https://open.spotify.com/track/0IZc78H7Ep677OS5Lns3oh) | [Masappan](https://open.spotify.com/artist/2GMWjBQeVApcZ9to2NP1QC) | [Masappan](https://open.spotify.com/album/2VuK8VnMfILaKRNqDoMR0e) | 2:44 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 | 35 | [No olvides de enfocarte siempre en lo importante](https://open.spotify.com/track/1fUj7cHob9Imrk2NfKeesK) | [Da Skate](https://open.spotify.com/artist/3j5RvqYJKTwcBFebeRNrxW) | [La teoría de los septenios](https://open.spotify.com/album/0reFkfAIDklJl8B2CCqxwo) | 2:31 |
 | 36 | [Clavo](https://open.spotify.com/track/3fvmFvl8r3zfEMQq2GVJbv) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9), [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [Clavo](https://open.spotify.com/album/79vicj0AVbnJn1SUSmLj11) | 2:50 |
 | 37 | [Diablo](https://open.spotify.com/track/62mgkKxsHBxt1Hmd04GMai) | [NUNO](https://open.spotify.com/artist/3cvT82FVElcs4E8MBwKgV8) | [Al infierno y de regreso](https://open.spotify.com/album/7rW8Qb4gpmNMZkS4h6nCKa) | 3:24 |
-| 38 | [Lavántula](https://open.spotify.com/track/3rq5FTMGVA3ha3k6dCX2oh) | [Barney Gombo](https://open.spotify.com/artist/2I5AFH9BrfRnnNTg8VAeBc) | [III·I](https://open.spotify.com/album/4kyOrsBqe1yio6Gq8XYz3r) | 3:11 |
-| 39 | [Dualidad](https://open.spotify.com/track/7uYMRAb62VrGKpOWbaY86m) | [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr) | [Dualidad](https://open.spotify.com/album/6Nt5M8zfrtUKTjgKrHXASg) | 3:43 |
+| 38 | [Dualidad](https://open.spotify.com/track/7uYMRAb62VrGKpOWbaY86m) | [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr) | [Dualidad](https://open.spotify.com/album/6Nt5M8zfrtUKTjgKrHXASg) | 3:43 |
+| 39 | [Lavántula](https://open.spotify.com/track/3rq5FTMGVA3ha3k6dCX2oh) | [Barney Gombo](https://open.spotify.com/artist/2I5AFH9BrfRnnNTg8VAeBc) | [III·I](https://open.spotify.com/album/4kyOrsBqe1yio6Gq8XYz3r) | 3:11 |
 | 40 | [Escribe Una Canción](https://open.spotify.com/track/4Yrn59SQBNUiWywYLERLw2) | [DON](https://open.spotify.com/artist/4xRGF3S9AgY23sWuzKlUDR) | [Siempre Resistir / Nunca Desistir](https://open.spotify.com/album/05oaSmUNyPQMVeNgvfn8uS) | 3:54 |
 | 41 | [Antes](https://open.spotify.com/track/1rZPLX3l9i3nOzPuyw5uTa) | [Celofán](https://open.spotify.com/artist/6lxn2RanNHWxoWRHLTLunm) | [Split](https://open.spotify.com/album/2w1Xt3HBQq6qIDZEZWk4CE) | 3:19 |
 | 42 | [No Digas Lo Siento](https://open.spotify.com/track/3e2W5jHkrLTzTOaL8Eqx52) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [No Digas Lo Siento](https://open.spotify.com/album/1c6ugiEfTV9lVRWIx93wW7) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 | 49 | [La Naturaleza Incoherente del Ser](https://open.spotify.com/track/5aCOgoyVrIYxB7rScX1vJG) | [Dolores De Huevos](https://open.spotify.com/artist/7wqgl1I3I8WWYs5QfeojTV) | [La Naturaleza Incoherente del Ser](https://open.spotify.com/album/64s94my8S2fm0e7IkWSHzW) | 3:23 |
 | 50 | [Aunque a Veces Tenga Miedo](https://open.spotify.com/track/3NtymRSp0GJUBeiNUk3ZRL) | [Barney Gombo](https://open.spotify.com/artist/2I5AFH9BrfRnnNTg8VAeBc) | [Aunque a Veces Tenga Miedo](https://open.spotify.com/album/4mDGa6yqGKRmWvCHKIVvDM) | 3:54 |
 
-Snapshot ID: `MTY1ODUyMzYxOSwwMDAwMDAwMGZlMzhiZDlmMTgxY2U1NGY5YzYwOWMxNzE5MzUxYmQ3`
+Snapshot ID: `MTY1ODUyMzYxOSwwMDAwMDAwMDYyZmI2NDQ3NmFkMTk2NzZmZmEzZmM0NmUxZjU5YWRh`

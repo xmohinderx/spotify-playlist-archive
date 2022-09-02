@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Descubre los nuevos talentos de Argentina, Chile y Uruguay. \nFoto: Marki.",
+  "description": "Descubre los nuevos talentos de Argentina, Chile y Uruguay. \nFoto: Zoe Gotusso.",
   "name": "Radar Al Sur",
   "published_playlist_ids": [
     "5Pxi8eyAIqTOgi5TjZfI4h"
@@ -418,6 +418,24 @@
     },
     {
       "album": {
+        "name": "Mi Primer D\u00eda Triste",
+        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178255,
+      "name": "Cuarto Creciente",
+      "url": "https://open.spotify.com/track/2Qqaf2keyqm5IHbWVsVFjq"
+    },
+    {
+      "album": {
         "name": "Desvelo",
         "url": "https://open.spotify.com/album/5Ik4DBNjzxeCdawBwHyxFI"
       },
@@ -660,6 +678,24 @@
     },
     {
       "album": {
+        "name": "Mi Primer D\u00eda Triste",
+        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254224,
+      "name": "Ganas",
+      "url": "https://open.spotify.com/track/54JWFISolUGIbtNeANGp2B"
+    },
+    {
+      "album": {
         "name": "Gira (El Mundo Gira)",
         "url": "https://open.spotify.com/album/5pqwiGyCURr9bzYQyC6JfQ"
       },
@@ -867,7 +903,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 212033,
       "name": "LA FORMA DE TUS HUESOS",
       "url": "https://open.spotify.com/track/020DdY7OHn2cAA0YLCeGTn"
@@ -983,7 +1019,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 176246,
       "name": "Magia",
       "url": "https://open.spotify.com/track/1VRh6jQfaiiRkXfdxpjxd2"
@@ -1027,6 +1063,24 @@
       "duration_ms": 185934,
       "name": "MARIMBA GRINGA",
       "url": "https://open.spotify.com/track/7KI6CvvTqXCuENTM6xJ3dX"
+    },
+    {
+      "album": {
+        "name": "Mi Primer D\u00eda Triste",
+        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229943,
+      "name": "Mar\u00eda",
+      "url": "https://open.spotify.com/track/5B3NOiIZkfykH0dk5YekiM"
     },
     {
       "album": {
@@ -1229,7 +1283,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 180500,
       "name": "Musikita del Cielo",
       "url": "https://open.spotify.com/track/1MXRVVSP19x3zTkqmD2MzF"

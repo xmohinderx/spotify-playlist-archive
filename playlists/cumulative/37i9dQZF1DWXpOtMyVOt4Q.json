@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Chill tunes to soundtrack any gaming",
+  "description": "Chill tunes to soundtrack your gaming session.",
   "name": "Chill Gaming",
   "published_playlist_ids": [
     "11Gpqzsbqf7yfVJuxrNTH2"
@@ -441,7 +441,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 195807,
       "name": "Byte into an Apple",
       "url": "https://open.spotify.com/track/2yrmWG0ppPgLS5roqMruJP"
@@ -1170,6 +1170,24 @@
     },
     {
       "album": {
+        "name": "LOUIE",
+        "url": "https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj"
+      },
+      "artists": [
+        {
+          "name": "Kenny Beats",
+          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109586,
+      "name": "Last Words",
+      "url": "https://open.spotify.com/track/1rOKAsJZJDIikOKDeUfPRV"
+    },
+    {
+      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/5QWRTAdCTbDLhjEWbG1odA"
       },
@@ -1665,7 +1683,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 116061,
       "name": "playa",
       "url": "https://open.spotify.com/track/2WHfcEjm46Pjbviynt1jN8"
@@ -2311,6 +2329,24 @@
       "duration_ms": 225480,
       "name": "Truth - Helios Remix",
       "url": "https://open.spotify.com/track/70yAekvZ6xZcC9PKrEHS4S"
+    },
+    {
+      "album": {
+        "name": "quinn",
+        "url": "https://open.spotify.com/album/75n3winyXKHLUCOhiSRkA2"
+      },
+      "artists": [
+        {
+          "name": "quinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186485,
+      "name": "two door tiffany",
+      "url": "https://open.spotify.com/track/6oxv6Isn0x28fZh43pviCn"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: チョーキューメイ
 
-1,931 songs - 4 day 22 hr 43 min - [published](https://open.spotify.com/playlist/7vZo0GBGKfv8haIOHte1r4)
+1,932 songs - 4 day 22 hr 47 min - [published](https://open.spotify.com/playlist/7vZo0GBGKfv8haIOHte1r4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1246,7 +1246,8 @@
 | [ジェネリックラブ](https://open.spotify.com/track/0CDI3C0nvPRyXm2qAI3UXZ) | [Klang Ruler](https://open.spotify.com/artist/7dGWpqSL5xaZjWbo3UWXyU) | [ジェネリックラブ](https://open.spotify.com/album/0tCAKDDguUFxlXy3Qy34NB) | 4:22 | 2022-04-05 | 2022-04-20 |
 | [ジェラシー](https://open.spotify.com/track/6UpB3jneyuQAnlLkHYNyjZ) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [ジェラシー](https://open.spotify.com/album/3v7z7bpCO5BAwm6s6hL9vZ) | 3:17 | 2022-05-10 | 2022-05-25 |
 | [ジオラマの中で](https://open.spotify.com/track/7uZQZfz2mRpAucZunWydQ8) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp) | [ジオラマの中で](https://open.spotify.com/album/7pChWKuAstGML5aZocCViQ) | 3:44 | 2021-12-14 | 2021-12-21 |
-| [ジャスコ、上野](https://open.spotify.com/track/3qzlu7OhkK34jzXRJE1c61) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [ジャスコ、上野](https://open.spotify.com/album/5qYVPh95Bowgs3FMPV7W1s) | 3:53 | 2022-08-23 |  |
+| [ジャスコ、上野](https://open.spotify.com/track/3qzlu7OhkK34jzXRJE1c61) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [ジャスコ、上野](https://open.spotify.com/album/5qYVPh95Bowgs3FMPV7W1s) | 3:53 | 2022-08-23 | 2022-09-02 |
+| [ジャスコ、上野](https://open.spotify.com/track/7HOdJYVnFS9hezqqS6LJ7B) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [E\-Peanut](https://open.spotify.com/album/1n6UmAxDAo3JMcKhKWcDu6) | 3:53 | 2022-08-30 |  |
 | [ジャネーの法則](https://open.spotify.com/track/5VJKJLJvEYN7SipknHmeZB) | [POP ART TOWN](https://open.spotify.com/artist/6nu39YK7u99qv6JdygWuxG) | [ジャネーの法則](https://open.spotify.com/album/4kYaLrV5eQzLbpnpqqQo7Y) | 3:06 | 2022-03-01 | 2022-03-15 |
 | [ジャンキー](https://open.spotify.com/track/2wilPXN935kLGKPx4HXwE8) | [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [ジャンキー](https://open.spotify.com/album/4n7JiGfLgCSHW0LRD8ZBdo) | 3:35 | 2022-03-14 | 2022-03-30 |
 | [ジリジリSUMMER](https://open.spotify.com/track/107fyCsvttyS7zbxZpTWt3) | [GENIC](https://open.spotify.com/artist/1vpKcfxN3KfVmbyddl9sYT) | [ジリジリSUMMER](https://open.spotify.com/album/498wbetog1hum436xqTsvq) | 3:16 | 2022-06-20 | 2022-06-28 |

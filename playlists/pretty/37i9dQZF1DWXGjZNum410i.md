@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXGjZNum410i.md) - [plain]
 
 > Disfruta de canciones pop para toda la familia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,464 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,497 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXGjZNum410i.md) - [plain]
 | 19 | [Índigo](https://open.spotify.com/track/4knc1Fp3kbuq8bH2byOvLu) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Índigo](https://open.spotify.com/album/1QtYnYj7SFX1EIqF6ALjaX) | 3:34 |
 | 20 | [Ahora Te Puedes Marchar](https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Soy Como Quiero Ser](https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z) | 3:11 |
 | 21 | [Permission to Dance](https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Permission to Dance](https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ) | 3:07 |
-| 22 | [Colgando en tus manos \(con Marta Sánchez\)](https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77), [Marta Sánchez](https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w) | [De mi puño y letra \- Edicion Coleccionista](https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs) | 3:50 |
-| 23 | [ME! \(feat\. Brendon Urie of Panic! At The Disco\)](https://open.spotify.com/track/2Rk4JlNc2TPmZe2af99d45) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Brendon Urie](https://open.spotify.com/artist/6eYFryfcEu3QSq59D62wZQ), [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:13 |
+| 22 | [ME! \(feat\. Brendon Urie of Panic! At The Disco\)](https://open.spotify.com/track/2Rk4JlNc2TPmZe2af99d45) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Brendon Urie](https://open.spotify.com/artist/6eYFryfcEu3QSq59D62wZQ), [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:13 |
+| 23 | [Colgando en tus manos \(con Marta Sánchez\)](https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77), [Marta Sánchez](https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w) | [De mi puño y letra \- Edicion Coleccionista](https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs) | 3:50 |
 | 24 | [Sin Novia](https://open.spotify.com/track/4IsO1J5LSrVwkQOIEdZ417) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Sin Novia](https://open.spotify.com/album/28reK64UlkkhWCwmNb9DAl) | 3:08 |
 | 25 | [Old Town Road](https://open.spotify.com/track/0F7FA14euOIX8KcbEturGH) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [7 EP](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 1:53 |
 | 26 | [UN DIA \(ONE DAY\) \(Feat\. Tainy\)](https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [UN DIA \(ONE DAY\) \(Feat\. Tainy\)](https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr) | 3:52 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXGjZNum410i.md) - [plain]
 | 43 | [Sodio](https://open.spotify.com/track/7jYZU1CIruZU3puB5tiYiW) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 3:06 |
 | 44 | [De Una Vez](https://open.spotify.com/track/1v3lhrZEsOcazqR2QIyyRu) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revelación \- EP](https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9) | 2:35 |
 | 45 | [Invéntame](https://open.spotify.com/track/6g6FWPdAMf55CpmkoE7jF1) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Invéntame](https://open.spotify.com/album/5kiDMxfW38PbWnmIABlXBq) | 3:25 |
-| 46 | [Respiro \(Cap\. 8\)](https://open.spotify.com/track/5O612Iau2nHDR3yv8jAFXs) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [MEMORIA FUTURO](https://open.spotify.com/album/4XFeZO8Do9fdappVKRzbcH) | 3:41 |
-| 47 | [Pensando en Ti](https://open.spotify.com/track/2FNL8nW9rvlDKjNwJXVfm7) | [LÚA](https://open.spotify.com/artist/1sEGUJyocmOnW6emzgoHMM) | [Pensando en Ti](https://open.spotify.com/album/0bNoOCnPKQVK5KvtQbJ6ZA) | 2:56 |
+| 46 | [Pensando en Ti](https://open.spotify.com/track/2FNL8nW9rvlDKjNwJXVfm7) | [LÚA](https://open.spotify.com/artist/1sEGUJyocmOnW6emzgoHMM) | [Pensando en Ti](https://open.spotify.com/album/0bNoOCnPKQVK5KvtQbJ6ZA) | 2:56 |
+| 47 | [Respiro \(Cap\. 8\)](https://open.spotify.com/track/5O612Iau2nHDR3yv8jAFXs) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [MEMORIA FUTURO](https://open.spotify.com/album/4XFeZO8Do9fdappVKRzbcH) | 3:41 |
 | 48 | [Lo siento \(feat\. Sofía Reyes\)](https://open.spotify.com/track/5dITA6jTX7f1gHwEAyS3YZ) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Lo siento \(feat\. Sofía Reyes\)](https://open.spotify.com/album/4rrjJBAIMEZZG8i9GDwoLu) | 3:52 |
 | 49 | [Si Tú Te Vas](https://open.spotify.com/track/5fncLNZgQmsV3535P2k5RP) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 3:08 |
 | 50 | [Soñé Contigo](https://open.spotify.com/track/6VT2jR1Y4KLCXKZVo1JiQU) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Soñé Contigo](https://open.spotify.com/album/2lQYMqZIVFR1DfnF3XKJmZ) | 3:31 |
 
-Snapshot ID: `MTY1OTc0OTc1OCwwMDAwMDAwMGRhZmZiZTc2Yzg4ZmMwMjkyZmM0ZGJhZjFkMzAzYWY0`
+Snapshot ID: `MTY1OTc0OTc1OCwwMDAwMDAwMGU3MmUzZTQ2Y2M2YWIwYTAzYjE4MzllMzZhNjJhZmJl`

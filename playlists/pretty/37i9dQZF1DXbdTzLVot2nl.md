@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdTzLVot2nl.md) - [plain]
 
 > Feel on top of the world with these uplifting anthems of the 80s
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,841 likes - 60 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,785 likes - 60 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdTzLVot2nl.md) - [plain]
 | 34 | [Pour Some Sugar On Me \- Remastered 2017](https://open.spotify.com/track/0PdM2a6oIjqepoEfcJo0RO) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria \(Super Deluxe\)](https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE) | 4:27 |
 | 35 | [Karma Chameleon \- Remastered 2002](https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [Colour By Numbers](https://open.spotify.com/album/51NPMfa9QfxsYtqzcB2VfY) | 4:12 |
 | 36 | [Faith \- Remastered](https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 3:13 |
-| 37 | [Red Red Wine](https://open.spotify.com/track/4uOKFydzAejjSFqYbv1XPt) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [The Very Best Of](https://open.spotify.com/album/05owfigVGpgPe7RKJG1hum) | 3:03 |
-| 38 | [I Just Called To Say I Love You](https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [At The Close Of A Century](https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z) | 4:22 |
+| 37 | [I Just Called To Say I Love You](https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [At The Close Of A Century](https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z) | 4:22 |
+| 38 | [Red Red Wine](https://open.spotify.com/track/4uOKFydzAejjSFqYbv1XPt) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [The Very Best Of](https://open.spotify.com/album/05owfigVGpgPe7RKJG1hum) | 3:03 |
 | 39 | [Super Freak](https://open.spotify.com/track/2dCmGcEOQrMQhMMS8Vj7Ca) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL) | [Street Songs \(Deluxe Edition\)](https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5) | 3:25 |
 | 40 | [Lay All Your Love On Me](https://open.spotify.com/track/4euAGZTszWPrriggYK0HG9) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Super Trouper](https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf) | 4:34 |
 | 41 | [Old Time Rock & Roll](https://open.spotify.com/track/5EOoMWIB9iK4ZpcSex9Ec7) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Stranger In Town](https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15) | 3:14 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdTzLVot2nl.md) - [plain]
 | 57 | [End Of The Line](https://open.spotify.com/track/4HA2jo7wkMdN1lmLO6ryzE) | [Traveling Wilburys](https://open.spotify.com/artist/2hO4YtXUFJiUYS2uYFvHNK) | [The Traveling Wilburys, Vol\. 1](https://open.spotify.com/album/7K3OJcdtRxv7miXfQBzvbi) | 3:29 |
 | 58 | [Got My Mind Set On You \- Remastered 2004](https://open.spotify.com/track/3OeUlriM0EZHdWleJtjoVr) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Cloud Nine](https://open.spotify.com/album/1nbq8GgaVdINI3PulXvPUq) | 3:54 |
 | 59 | [Love Shack](https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [Cosmic Thing](https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS) | 5:20 |
-| 60 | [Like a Virgin](https://open.spotify.com/track/1ZPlNanZsJSPK5h9YZZFbZ) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Virgin \(Reissue\)](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) | 3:38 |
+| 60 | [If I Could Turn Back Time](https://open.spotify.com/track/6mYrhCAGWzTdF8QnKuchXM) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Heart Of Stone](https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK) | 3:59 |
 
-Snapshot ID: `MTY1NDY2OTUwNSwwMDAwMDAwMGVmODBlYTY4YmY1OGRlMWE2MGU3Y2RhNzBlZTk4ZTUz`
+Snapshot ID: `MTY1NDY2OTUwNSwwMDAwMDAwMDFjYTg2NDhhNjE2MjFhNzJmOWM2YjM3ODc1ZmY0ZjA2`

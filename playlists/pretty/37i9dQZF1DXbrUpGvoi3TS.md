@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrUpGvoi3TS.md) - [plain]
 
 > Nurse your emotional wounds with these heartbreak tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,269,496 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,269,547 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrUpGvoi3TS.md) - [plain]
 | 70 | [chaotic](https://open.spotify.com/track/2bdqU7C4softKNcMYDFi96) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [chaotic](https://open.spotify.com/album/1nZmxiUXBgZZ82fy5A0yau) | 2:58 |
 | 71 | [Skinny Love](https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0) | 3:21 |
 | 72 | [Look After You](https://open.spotify.com/track/5l6hpyTGBK0LAAxgPnqTQL) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 4:26 |
-| 73 | [What Hurts The Most](https://open.spotify.com/track/4bVuIlGQBMWS7vIhcx8Ae4) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Me And My Gang](https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0) | 3:34 |
-| 74 | [Complicated](https://open.spotify.com/track/0jllH0usRFD4LJkJnGK9Lf) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Complicated](https://open.spotify.com/album/18IaOJpyXfqbOsZIqmnfpZ) | 3:09 |
+| 73 | [Complicated](https://open.spotify.com/track/0jllH0usRFD4LJkJnGK9Lf) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Complicated](https://open.spotify.com/album/18IaOJpyXfqbOsZIqmnfpZ) | 3:09 |
+| 74 | [What Hurts The Most](https://open.spotify.com/track/4bVuIlGQBMWS7vIhcx8Ae4) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Me And My Gang](https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0) | 3:34 |
 | 75 | [Let It Go](https://open.spotify.com/track/13HVjjWUZFaWilh2QUJKsP) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 4:20 |
 | 76 | [Dynasty](https://open.spotify.com/track/29OBQBdkEWYaE3YxVAT8KL) | [MIIA](https://open.spotify.com/artist/0h3YCmvRJ2jqt4jFiR6nGL) | [Dynasty](https://open.spotify.com/album/38Ioi7CEBWoMZGs45RML6P) | 3:45 |
 | 77 | [Too Much To Ask](https://open.spotify.com/track/39jXnbACjiaiTwwhsr5sY5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:43 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrUpGvoi3TS.md) - [plain]
 | 84 | [Why](https://open.spotify.com/track/7lozLnUfzcgEpMMVQI7yhA) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [COSMIC](https://open.spotify.com/album/5EEkfRgfYHiFu0lGur6Z6M) | 2:28 |
 | 85 | [Where’s My Love \- Alternate Version](https://open.spotify.com/track/5IH7HQEWhToZnMQTZRzp1H) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Hurt for Me](https://open.spotify.com/album/6lwJbpuuA8wENZOuYDVRc8) | 4:08 |
 | 86 | [To Build A Home](https://open.spotify.com/track/3AqPL1n1wKc5DVFFnYuJhp) | [The Cinematic Orchestra](https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB), [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Ma Fleur](https://open.spotify.com/album/5VrMypyjjBGzObGwnEHIJO) | 6:10 |
-| 87 | [All I Ever Need](https://open.spotify.com/track/0YEsfwQpG7ofdIiHWA0dHi) | [Austin Mahone](https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z) | [The Secret](https://open.spotify.com/album/0dcqVluuyFBCScCqH7uAwx) | 3:33 |
-| 88 | [hope is a dangerous thing for a woman like me to have \- but I have it](https://open.spotify.com/track/0fB77VOZ2FkQeKLv1DuEwp) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 5:24 |
+| 87 | [hope is a dangerous thing for a woman like me to have \- but I have it](https://open.spotify.com/track/0fB77VOZ2FkQeKLv1DuEwp) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 5:24 |
+| 88 | [All I Ever Need](https://open.spotify.com/track/0YEsfwQpG7ofdIiHWA0dHi) | [Austin Mahone](https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z) | [The Secret](https://open.spotify.com/album/0dcqVluuyFBCScCqH7uAwx) | 3:33 |
 | 89 | [Lonely](https://open.spotify.com/track/6U1iuA5QfzYRPJxvdcxqtf) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [THE END OF EVERYTHING](https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5) | 2:24 |
 | 90 | [You & Me](https://open.spotify.com/track/1bQhZOoXYqjXs7u7rFXo0h) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Chapters](https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP) | 3:51 |
 | 91 | [Sad Song \(feat\. Elena Coats\)](https://open.spotify.com/track/05CrK6Q5VGtfPDtyQFJ4Kf) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl), [Elena Coats](https://open.spotify.com/artist/76rOhzdFrZx37hyeA5cQgZ) | [Somewhere Somehow](https://open.spotify.com/album/2hc2nl6opteMmG3LCDVt0e) | 3:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrUpGvoi3TS.md) - [plain]
 | 99 | [Say You Won't Let Go](https://open.spotify.com/track/1Pw5C4N6Fn5E4mGCxmbbVa) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Say You Won't Let Go](https://open.spotify.com/album/0BL67dR6x0CPU7B7J9P8qC) | 3:31 |
 | 100 | [High Hopes](https://open.spotify.com/track/6KkyuDhrEhR5nJVKtv9mCf) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 3:50 |
 
-Snapshot ID: `MTY2MDkxMzQ2NywwMDAwMDAwMDVjMzI2OWY2NDFmM2UzMzExZmU5ODM1ZjZjZDFiNDcw`
+Snapshot ID: `MTY2MDkxMzQ2NywwMDAwMDAwMDYzYjk0MTMwY2ZmOGVmMmFmMTQ3YzMyNDA5OWIwOTUz`

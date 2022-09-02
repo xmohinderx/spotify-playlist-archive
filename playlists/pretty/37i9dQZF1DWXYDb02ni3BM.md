@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYDb02ni3BM.md) - [plain]
 
 > Las divas del pop latino de ayer y hoy\. Foto: Alejandra Guzmán
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,818 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,032 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYDb02ni3BM.md) - [plain]
 | 15 | [Sólo Quédate En Silencio](https://open.spotify.com/track/2RJ1fg4qf2vgZKifTa4HgA) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo), [Alfonso Herrera](https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN) | [Rebelde](https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj) | 3:39 |
 | 16 | [Me cuesta tanto olvidarte](https://open.spotify.com/track/1w2Nnj1HEUgoOglVRWfZj8) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Entre el Cielo y el Suelo \(Bonus Tracks Edition\)](https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy) | 2:54 |
 | 17 | [Tusa](https://open.spotify.com/track/0dKg2vGC1hFqcK5LGTaKzX) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:21 |
-| 18 | [Las Mil Y Una Noches](https://open.spotify.com/track/0b53GyMOfBCt5L6bh0CH3f) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [Luz Y Sombra](https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM) | 4:40 |
+| 18 | [Destino](https://open.spotify.com/track/041Kcvnw8nOdq8xiRibPTG) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu) | [Baila](https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH) | 3:00 |
 | 19 | [Limón y Sal](https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:25 |
-| 20 | [Destino](https://open.spotify.com/track/041Kcvnw8nOdq8xiRibPTG) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu) | [Baila](https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH) | 3:00 |
+| 20 | [Las Mil Y Una Noches](https://open.spotify.com/track/0b53GyMOfBCt5L6bh0CH3f) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [Luz Y Sombra](https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM) | 4:40 |
 | 21 | [Las de la Intuición](https://open.spotify.com/track/3uU6dqBjVKRTPis0RrTaT4) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Fijación Oral, Vol\. 1](https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae) | 3:40 |
 | 22 | [Ex de Verdad \- HA\-ASH Primera Fila \- Hecho Realidad \[En Vivo\]](https://open.spotify.com/track/40lU8uy8xKKRAP9A1N3BqH) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [HA\-ASH Primera Fila \- Hecho Realidad](https://open.spotify.com/album/2RCKVV7j5dZax3YZHfG0QM) | 4:07 |
 | 23 | [Cruz de navajas](https://open.spotify.com/track/6VWWU8EFSS7Xx1TZ830Paz) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Entre el Cielo y el Suelo \(Bonus Tracks Edition\)](https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy) | 5:02 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYDb02ni3BM.md) - [plain]
 | 38 | [Cuídate](https://open.spotify.com/track/7gqIqyeCaV2xNtfZWxEphD) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [El Viaje de Copperpot](https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu) | 2:49 |
 | 39 | [Vas A Quedarte](https://open.spotify.com/track/0fwIHsKXNEcb57u2um7z9I) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Spoiler](https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j) | 3:46 |
 | 40 | [Pies Descalzos, Sueños Blancos](https://open.spotify.com/track/5yKQTwznar5I75UyYJ9CnR) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 3:25 |
-| 41 | [Sin Pijama](https://open.spotify.com/track/62vDrkBEyJYEOFj1ScBqM7) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 3:10 |
-| 42 | [Azúcar Amargo](https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Tierna La Noche](https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y) | 4:41 |
+| 41 | [Azúcar Amargo](https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Tierna La Noche](https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y) | 4:41 |
+| 42 | [Sin Pijama](https://open.spotify.com/track/62vDrkBEyJYEOFj1ScBqM7) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 3:10 |
 | 43 | [Calla Tú](https://open.spotify.com/track/7jL2tCE0Xn2tunqWayBkte) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 2:41 |
 | 44 | [100 Años](https://open.spotify.com/track/4gJzpOMYyOpVnbDXlT5aWL) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [30 de Febrero](https://open.spotify.com/album/2OxyM5ID5JYs1wh8hTsJph) | 3:05 |
 | 45 | [Hijo de la luna](https://open.spotify.com/track/2LmlZvAmT1L0O3iPVSQWOX) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Entre el Cielo y el Suelo \(Bonus Tracks Edition\)](https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy) | 4:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYDb02ni3BM.md) - [plain]
 | 49 | [Suerte \(Whenever, Wherever\)](https://open.spotify.com/track/3TY1PFZXmYeiLcXygB74My) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:14 |
 | 50 | [Pero Me Acuerdo de Tí](https://open.spotify.com/track/4B1sb2YVO03sBmyR8bvzEB) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mi Reflejo](https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK) | 4:25 |
 
-Snapshot ID: `MTY1NzEzNTE3NCwwMDAwMDAwMDM0YzUzYmE1MjRjZmQxN2Y2YzAzZDcxNzRiMmMzOTBi`
+Snapshot ID: `MTY1NzEzNTE3NCwwMDAwMDAwMGZiMWJmYWI5N2YyZDk3ZGZmMDQ5OGY5MTI1ZGJiYjcy`

@@ -1,12 +1,12 @@
 {
   "description": "Calm Down with this chilled out playlist. For when it's time to just sit and bask in the afterglow.",
-  "num_followers": 562758,
+  "num_followers": 562653,
   "original_name": "Calm Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU0NDU2NDk1MSwwMDAwMDAwMDJhNGJmYTM2MTc0NjUzNDE0YmU2YTFhYTg3OGVkNzhk",
+  "snapshot_id": "MTU0NDU2NDk1MSwwMDAwMDAwMGRjZTBjYmMxYmU5MmMzODRkZmVmZjY3ODVjOTU5MjBj",
   "tracks": [
     {
       "added_at": "2018-12-11 21:48:39",
@@ -791,22 +791,6 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "The Essential Paul Simon",
-        "url": "https://open.spotify.com/album/4kdOH3s9cRL9YykvHFpSlD"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 208160,
-      "name": "50 Ways to Leave Your Lover",
-      "url": "https://open.spotify.com/track/7bdDULyOUqNyWu6XPeAnSO"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
         "name": "Big Wheel and Others",
         "url": "https://open.spotify.com/album/56KG63TFrh23oy9lcqPEnt"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 257453,
       "name": "There Can Be Only One",
       "url": "https://open.spotify.com/track/6mbbXTBC7ADcjh5RCNrooU"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "The Essential Paul Simon",
+        "url": "https://open.spotify.com/album/4kdOH3s9cRL9YykvHFpSlD"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 208160,
+      "name": "50 Ways to Leave Your Lover",
+      "url": "https://open.spotify.com/track/7bdDULyOUqNyWu6XPeAnSO"
     },
     {
       "added_at": "2018-12-11 21:48:39",

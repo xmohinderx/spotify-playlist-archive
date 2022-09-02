@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Ndarboy Genk, Dewa Budjana",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Evan Loss",
   "name": "Boso Jowo",
   "published_playlist_ids": [
     "6MWAwkgQhB2wRNopb9pKvS"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 278186,
       "name": "Ambyar Mak Pyar - Keroncong Version",
       "url": "https://open.spotify.com/track/74xhzdyLf8NFPg0YEkl2zx"
@@ -510,6 +510,24 @@
     },
     {
       "album": {
+        "name": "Kangen Bali Ndeso",
+        "url": "https://open.spotify.com/album/0hFBIgQMYvU0blNCEkoPGU"
+      },
+      "artists": [
+        {
+          "name": "Evan Loss",
+          "url": "https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199800,
+      "name": "Kangen Bali Ndeso",
+      "url": "https://open.spotify.com/track/2PrN2IROTrrA2ykkEuRWHt"
+    },
+    {
+      "album": {
         "name": "Kartonyono Medot Janji",
         "url": "https://open.spotify.com/album/0WlqBbLuZrAOgh6asdiign"
       },
@@ -597,7 +615,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 301580,
       "name": "Konco Mesra",
       "url": "https://open.spotify.com/track/2ey0HK2pXI9y5cIW5NqFLj"
@@ -1063,6 +1081,24 @@
       "duration_ms": 328625,
       "name": "Ojo Dibandingke",
       "url": "https://open.spotify.com/track/6zwls2VhjHF9Ax7Xa2r54W"
+    },
+    {
+      "album": {
+        "name": "Ojo Dibandingke (Live Ska Reggae)",
+        "url": "https://open.spotify.com/album/6Nbdj8qApRQv0gHvWSFYYF"
+      },
+      "artists": [
+        {
+          "name": "Maulana Ardiansyah",
+          "url": "https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320732,
+      "name": "Ojo Dibandingke - Live Ska Reggae",
+      "url": "https://open.spotify.com/track/70q1PoJ9YqsBLsNPZV2rtE"
     },
     {
       "album": {
@@ -1573,7 +1609,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 310654,
       "name": "senenge atiku",
       "url": "https://open.spotify.com/track/1Mi6HihzwGb9aUbjDls0up"
@@ -1807,7 +1843,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 302799,
       "name": "Top Topan",
       "url": "https://open.spotify.com/track/1BNwgKoLRIPAzGXHBo8crB"

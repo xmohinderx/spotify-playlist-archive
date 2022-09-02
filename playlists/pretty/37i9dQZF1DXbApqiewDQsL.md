@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The songs and collaborations pushing the Mexican sound to a global level\. Cover: Carin Leon, Mau y Ricky
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,518 likes - 57 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,533 likes - 57 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 8 | [Como Lo Hice Yo](https://open.spotify.com/track/64JzNzcoSZOh3RWeoghVfk) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Como Lo Hice Yo](https://open.spotify.com/album/1MuEscvBJb4mFRS2wdffug) | 2:57 |
 | 9 | [Cada Quien](https://open.spotify.com/track/5BE9B2FiFWBbBdoIQ1m1UP) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Cada Quien](https://open.spotify.com/album/5cyWGgkGniYOaNkKrPOy1p) | 3:17 |
 | 10 | [SI SUPIERAS](https://open.spotify.com/track/7KDYKPhxFFRDBSbgcfLxUT) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 3:47 |
-| 11 | [¿Quién Te Crees?](https://open.spotify.com/track/2LXOSAYiSrTfIf8smheLaz) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [¿Quién Te Crees?](https://open.spotify.com/album/2KSCqFRagwcAC4q7mPIxvw) | 3:05 |
-| 12 | [Pa' Olvidarme De Ella](https://open.spotify.com/track/3lR4O0vtkhCAvVEUEWUL0S) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [El Amor En Los Tiempos Del Perreo](https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE) | 3:47 |
+| 11 | [Pa' Olvidarme De Ella](https://open.spotify.com/track/3lR4O0vtkhCAvVEUEWUL0S) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [El Amor En Los Tiempos Del Perreo](https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE) | 3:47 |
+| 12 | [¿Quién Te Crees?](https://open.spotify.com/track/2LXOSAYiSrTfIf8smheLaz) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [¿Quién Te Crees?](https://open.spotify.com/album/2KSCqFRagwcAC4q7mPIxvw) | 3:05 |
 | 13 | [Poco](https://open.spotify.com/track/6VZMIyzOupI4vA68RaUgXb) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Poco](https://open.spotify.com/album/0rRmn2Y11t41spl9rYaxLC) | 3:45 |
 | 14 | [Tú Me Gustas](https://open.spotify.com/track/30TZy1etY3FAGBDGS58hRj) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Tú Me Gustas](https://open.spotify.com/album/7tUvz3LUmXYRCZX8lUPTrC) | 3:26 |
 | 15 | [Soy El Diablo \- Remix](https://open.spotify.com/track/7pNAvsuTCFaXzSSUmfBPxz) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Soy El Diablo \(Remix\)](https://open.spotify.com/album/37zRKUEX9zhmGThutsr2Fo) | 3:13 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 56 | [Sigo Inédito \- Remix](https://open.spotify.com/track/2bTxNLc9yBOxsIxyq5XvSA) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Grupo Sigma](https://open.spotify.com/artist/0vUz4dhz7qB3FS6ShK0e4j) | [Sigo Inédito \(Remix\)](https://open.spotify.com/album/5jyqjTqAA0uAz9UsOC0znc) | 4:51 |
 | 57 | [Se Me Va A Quemar El Corazón](https://open.spotify.com/track/2VedKSBZCY9ucVSlXNnxGc) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [SEIS](https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF) | 4:12 |
 
-Snapshot ID: `MTY1NzI1MjgwMCwwMDAwMDAwMGQ2ZDZlNzJkNzRjOTdiNTRjNTMxNDg4YTNlYWNjMDEz`
+Snapshot ID: `MTY1NzI1MjgwMCwwMDAwMDAwMGYwNTg1NDA1NDJiYTYxN2QwNzIxNjc1MmQzNWU3Mzkz`

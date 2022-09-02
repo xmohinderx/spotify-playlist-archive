@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,100 likes - 59 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,161 likes - 59 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,20 +35,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 | 25 | [puzzle \(feat\. ひかり\)](https://open.spotify.com/track/4H6M9rJ0BPI2FZZEBEGlVp) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [puzzle \(feat\. ひかり\)](https://open.spotify.com/album/6JGPL4qyKN9YLQc38f72ol) | 3:30 |
 | 26 | [Drive’n The Rain](https://open.spotify.com/track/5PixDfOQbLTEG2YFPcXA1e) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [PLASMA](https://open.spotify.com/album/4gqRmcXiuzlxB9nEnFiK4y) | 6:16 |
 | 27 | [透明なガール \-Dye me\- \(feat\. ひかり\)](https://open.spotify.com/track/3MddMYGS4fdkcRnkFbz2PM) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [透明なガール \-Dye me\- \(feat\. ひかり\)](https://open.spotify.com/album/0dJVYEeg3RoLXPcUcpVatv) | 3:29 |
-| 28 | [嘘寝](https://open.spotify.com/track/5hUqa7aXDPzl8H3gdavuns) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [嘘寝](https://open.spotify.com/album/7zkHeXykXJfponPUUjvvGM) | 3:47 |
+| 28 | [STARLIGHT](https://open.spotify.com/track/7gg611kXgkFXDwEdAAYSOD) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [STARLIGHT](https://open.spotify.com/album/3goLdwlEKJatLLNgVkRcxf) | 3:07 |
 | 29 | [STEP IT](https://open.spotify.com/track/1orgfiHTB2opQkbwf9Gpnl) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [STEP IT](https://open.spotify.com/album/50zbhHNA9zNyC0zVcVUPzx) | 3:40 |
-| 30 | [STARLIGHT](https://open.spotify.com/track/7gg611kXgkFXDwEdAAYSOD) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [STARLIGHT](https://open.spotify.com/album/3goLdwlEKJatLLNgVkRcxf) | 3:07 |
+| 30 | [嘘寝](https://open.spotify.com/track/5hUqa7aXDPzl8H3gdavuns) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [嘘寝](https://open.spotify.com/album/7zkHeXykXJfponPUUjvvGM) | 3:47 |
 | 31 | [Last Train](https://open.spotify.com/track/3QnxZYQmOOvIRtVj3i9Ipa) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF), [THREE1989](https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn) | [Last Train](https://open.spotify.com/album/4XVsm1ov9k7FLTotdBG82G) | 3:37 |
-| 32 | [エモめの夏](https://open.spotify.com/track/2o2yCUIo6XUIIselWfjKw3) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [DAILY BOP](https://open.spotify.com/album/1YOYK7r5fpf5dRJDr2KdOU) | 2:25 |
+| 32 | [Natural](https://open.spotify.com/track/0o313xtpNX0r3gx5TZSwK0) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [Natural](https://open.spotify.com/album/6mgmUHvmxOcfr4YZGfxWti) | 2:50 |
 | 33 | [Atami](https://open.spotify.com/track/1vpLyRGHaRbVE1DkJXnPQY) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Telegraph](https://open.spotify.com/album/3ismxDq0GXM0yuiF6U8We3) | 3:58 |
-| 34 | [Natural](https://open.spotify.com/track/0o313xtpNX0r3gx5TZSwK0) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [Natural](https://open.spotify.com/album/6mgmUHvmxOcfr4YZGfxWti) | 2:50 |
+| 34 | [エモめの夏](https://open.spotify.com/track/2o2yCUIo6XUIIselWfjKw3) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [DAILY BOP](https://open.spotify.com/album/1YOYK7r5fpf5dRJDr2KdOU) | 2:25 |
 | 35 | [summer magic](https://open.spotify.com/track/0Ho6R2SLilYWwABq2jvjDy) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt), [Peggy Doll](https://open.spotify.com/artist/7enIQp3MHjqkOLVAXvcwDs) | [summer magic](https://open.spotify.com/album/18UK124C27nPnkqSuTKkVq) | 3:52 |
 | 36 | [IMA](https://open.spotify.com/track/4L9DM1h6qdDdHzv7b07Xlz) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [IMA](https://open.spotify.com/album/2yMvBOJATTkn4wDhZZotIT) | 3:37 |
 | 37 | [うそつき](https://open.spotify.com/track/6tKhV1RnmuzL3rdjBEVMcO) | [本山さくら](https://open.spotify.com/artist/1CImspQWfbaHBURjEALbzT) | [うそつき](https://open.spotify.com/album/6QghdFGpV6RT0yu63fwy2G) | 4:30 |
 | 38 | [「あの娘は誰?」とか言わせたい](https://open.spotify.com/track/4oHcqir3Q8Rr8x7xJiGao4) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [cherish](https://open.spotify.com/album/3hJezmiYPXSjbYEsJ0Xu30) | 4:39 |
-| 39 | [CHASE](https://open.spotify.com/track/3phd1kWZKgyizFh63gcHMa) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [CHASE](https://open.spotify.com/album/59rUpax1sOQhOkh8v3R7JU) | 3:10 |
+| 39 | [yugi](https://open.spotify.com/track/2SgXOT2HryYnbtWL7JfIFy) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [yugi](https://open.spotify.com/album/7eexbOyxF5ZxRboSPVuNVc) | 3:21 |
 | 40 | [シルクのカーディガン](https://open.spotify.com/track/0x672Wfq58Hq63RRCZuNrU) | [Lafuzin](https://open.spotify.com/artist/1AHiKEHZA1R7NmOeUMmhoo), [BRIAN SHINSEKAI](https://open.spotify.com/artist/162nZqAL1seshcby7rd2gY) | [シルクのカーディガン](https://open.spotify.com/album/0muk59f6rTTaYplWMMhwIn) | 4:46 |
-| 41 | [yugi](https://open.spotify.com/track/2SgXOT2HryYnbtWL7JfIFy) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [yugi](https://open.spotify.com/album/7eexbOyxF5ZxRboSPVuNVc) | 3:21 |
+| 41 | [CHASE](https://open.spotify.com/track/3phd1kWZKgyizFh63gcHMa) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [CHASE](https://open.spotify.com/album/59rUpax1sOQhOkh8v3R7JU) | 3:10 |
 | 42 | [DANCE IS MY LIFE](https://open.spotify.com/track/4U5m4pjDsp8SySr6WlpQZI) | [角松 敏生](https://open.spotify.com/artist/3sQKcUtvMwpzlc7j0wSkxJ) | [Inherit The Life](https://open.spotify.com/album/7Kyoev6NnVx1LmVDFqOxXw) | 5:47 |
 | 43 | [ENDLESS](https://open.spotify.com/track/1OrplXMoRRaHS7D9pIn5e1) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [IMAGINE](https://open.spotify.com/album/3PqSE7humFjBigvsUK48U2) | 3:51 |
 | 44 | [Akachan kawaii \(Yueni Kibou Nado\)](https://open.spotify.com/track/2QArMxNdNf0RRtbWgluQ8B) | [BELLMAINZ](https://open.spotify.com/artist/4dbOK4V3g2bSvFZvrhcHCm) | [Akachan kawaii \(Yueni Kibou Nado\)](https://open.spotify.com/album/0dne3frd7OM589ZVfQDWqS) | 4:03 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 | 54 | [Far Away](https://open.spotify.com/track/14EN5D8GFQch3u4Bc1LqcR) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [Far Away](https://open.spotify.com/album/7z3atOVHN4vSWOWYWkzA1Q) | 3:27 |
 | 55 | [Change My Life](https://open.spotify.com/track/2oqe9h6uLQ1jn48Mz4OQI6) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW) | [Change My Life](https://open.spotify.com/album/0ta9f6bwpnvCMuVbb1RfHG) | 4:03 |
 | 56 | [ブルージー](https://open.spotify.com/track/6f1eD29V3PcsYvbLcQ4y6Y) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [Grow apart](https://open.spotify.com/album/3Hmzh2SCPxuEJdJ7axg73n) | 3:12 |
-| 57 | [Holiday](https://open.spotify.com/track/2FBANjj4dsHEJAmXKCNkOm) | [TAIKING](https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011) | [Holiday](https://open.spotify.com/album/0PQ9E5VxguoFSjGLh8YPj4) | 4:04 |
-| 58 | [YOU+ME=](https://open.spotify.com/track/7AxghpcGPvNjbrJScnnrgO) | [竹内アンナ](https://open.spotify.com/artist/7JbJSRUH6Wu2RtDfn8rbzw) | [TICKETS](https://open.spotify.com/album/4Rt5bFyqY0uE8wdXJMID9z) | 2:51 |
+| 57 | [YOU+ME=](https://open.spotify.com/track/7AxghpcGPvNjbrJScnnrgO) | [竹内アンナ](https://open.spotify.com/artist/7JbJSRUH6Wu2RtDfn8rbzw) | [TICKETS](https://open.spotify.com/album/4Rt5bFyqY0uE8wdXJMID9z) | 2:51 |
+| 58 | [Holiday](https://open.spotify.com/track/2FBANjj4dsHEJAmXKCNkOm) | [TAIKING](https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011) | [Holiday](https://open.spotify.com/album/0PQ9E5VxguoFSjGLh8YPj4) | 4:04 |
 | 59 | [君は1000%](https://open.spotify.com/track/1T7haUkaqLJlmA4DebnUid) | [Philosophy no Dance](https://open.spotify.com/artist/2DUhXuCbn5RWAkRaKh8qaA) | [君は1000%](https://open.spotify.com/album/334Z6PwqlDMtJTmDIOAydr) | 4:17 |
 
-Snapshot ID: `MTY2MTg3MTYwMCwwMDAwMDAwMDc4NGEwYWYyOTMyMTczNjE0NDY5Y2UyYjdlOGIzMGM2`
+Snapshot ID: `MTY2MTg3MTYwMCwwMDAwMDAwMDcyNWRlMmNiYjQ4YWE4NWY2MDA2MjVlMTVmMDViYjhm`

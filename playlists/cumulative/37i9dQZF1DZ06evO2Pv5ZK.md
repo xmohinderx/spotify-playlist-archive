@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [12 O'Clock](https://open.spotify.com/track/5cijIVFJvAeCTn933Pr6xW) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Best Of](https://open.spotify.com/album/6sPYk2K1ZoF9mJJfF1Yp39) | 5:31 | 2022-05-29 | 2022-09-01 |
+| [12 O'Clock](https://open.spotify.com/track/5cijIVFJvAeCTn933Pr6xW) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Best Of](https://open.spotify.com/album/6sPYk2K1ZoF9mJJfF1Yp39) | 5:31 | 2022-05-29 |  |
 | [Abraham's Theme](https://open.spotify.com/track/463b8SF7KXrU5oqHgZKSOc) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Chariots Of Fire \(Original Motion Picture Soundtrack / Remastered\)](https://open.spotify.com/album/2G0x71VHZ7XLJlm56LzVX2) | 3:20 | 2022-05-29 |  |
 | [Across the Mountains](https://open.spotify.com/track/77AdHF6krPumIKlANWeRsC) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Alexander \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0) | 4:12 | 2022-05-29 |  |
 | [Alpha](https://open.spotify.com/track/1qkp9OvCk8FjeDdEd2bKQ6) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Albedo 0.39](https://open.spotify.com/album/7M2EhhKnJYcmluPNzmB35N) | 5:44 | 2022-05-29 |  |
@@ -25,7 +25,7 @@
 | [Création du monde \- Remastered](https://open.spotify.com/track/4sGMiZL7PhTJgcg2pJwXP4) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [L'apocalypse des animaux \(Remastered\)](https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD) | 10:01 | 2022-06-01 | 2022-08-28 |
 | [Dawn](https://open.spotify.com/track/2hJ1ZvyDUomcJZPB9deUq9) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [The City](https://open.spotify.com/album/5YisV9UHQtoAZHtbLrva9r) | 4:16 | 2022-05-29 |  |
 | [Dreams of Surf](https://open.spotify.com/track/3PUufjfgnfjiDXj8nW77hq) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Oceanic](https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb) | 2:43 | 2022-05-31 | 2022-08-31 |
-| [Echoes](https://open.spotify.com/track/1tVpdAetWFZsb15facJiWb) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Voices](https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f) | 8:24 | 2022-05-29 |  |
+| [Echoes](https://open.spotify.com/track/1tVpdAetWFZsb15facJiWb) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Voices](https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f) | 8:24 | 2022-05-29 | 2022-09-02 |
 | [El Greco \- Part 1](https://open.spotify.com/track/3h9cnu26p2T6vvgdMxFpnf) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [El Greco \- Original Motion Picture Soundtrack By Vangelis](https://open.spotify.com/album/63lUp5PxD47l3Cx468Ptwj) | 3:58 | 2022-05-29 |  |
 | [Eric's Theme](https://open.spotify.com/track/6OIWkL8SS7hoLtEBgHCgAT) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Chariots Of Fire \- The Play](https://open.spotify.com/album/0lftnQqSdzjAgddNQqd57j) | 4:06 | 2022-05-29 | 2022-09-01 |
 | [Eternal Alexander](https://open.spotify.com/track/6DDH5VNbeYP5Z7IpQJSv1H) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Alexander \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0) | 4:37 | 2022-05-30 |  |

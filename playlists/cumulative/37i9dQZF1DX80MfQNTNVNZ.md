@@ -4,7 +4,7 @@
 
 > Groove\-heavy, soothing tunes for the soul
 
-288 songs - 17 hr 29 min - [published](https://open.spotify.com/playlist/0666qp0Lkx0RW5z3dODaAe)
+289 songs - 17 hr 33 min - [published](https://open.spotify.com/playlist/0666qp0Lkx0RW5z3dODaAe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [meals first](https://open.spotify.com/track/4znCUfG6G6PuF9npVCKVHC) | [Kyl Aries](https://open.spotify.com/artist/7JvaR4xEkJYoMUE1eMje0S) | [meals first](https://open.spotify.com/album/3UTcvH9IF71Dq83luYdbE8) | 3:20 | 2022-04-07 | 2022-04-13 |
 | [Memory Digital](https://open.spotify.com/track/6idUXmVXKR8mfBhKKuP3Kf) | [Taylor McFerrin](https://open.spotify.com/artist/0yLmsf6RBPYqm6hvFJCPg6), [Anna Wise](https://open.spotify.com/artist/0N41KJ4H6bkPAm2tx7VS8C) | [Love's Last Chance](https://open.spotify.com/album/42UMLqmleDyVeO66IjZiY4) | 4:29 | 2022-03-24 | 2022-04-19 |
 | [Mercury](https://open.spotify.com/track/3ixe45hov7EBKXm8tYBmvX) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Mercury](https://open.spotify.com/album/3pc9LMhg8lyfpPTyywABMd) | 4:58 | 2022-06-16 |  |
+| [MERCY](https://open.spotify.com/track/1WFCxAriOtoD8cQvChkllv) | [United Freedom Collective](https://open.spotify.com/artist/37OT8Wms6fBIzNUJW0d1PW), [FACESOUL](https://open.spotify.com/artist/0OcOX42YhjTjFbbiMRHBUC) | [MERCY](https://open.spotify.com/album/7wyTJUF7oPfDYABCxqZH4P) | 4:26 | 2022-09-01 |  |
 | [Millennium](https://open.spotify.com/track/3G1nE9ZEv4eGEM48IAIv8u) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [The Mattson 2](https://open.spotify.com/artist/3YoL2CCR3wyqJndcEDBwBH) | [MAHAL](https://open.spotify.com/album/16AQyjz1z9rOsTm6iVrBUR) | 3:01 | 2022-04-28 | 2022-07-29 |
 | [MIND CIRCUS \(feat\. ひかり\)](https://open.spotify.com/track/3Q1oUYeVsvR3dGAdFN3nTf) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Hikari](https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw) | [MIND CIRCUS \(feat\. ひかり\)](https://open.spotify.com/album/1npKTihmjBLLjWiZDBkTEu) | 5:13 | 2022-03-24 | 2022-04-15 |
 | [Mind Games \(feat\. Jackson Wang\)](https://open.spotify.com/track/6JbxkCyeOto3xXjcFalZ3e) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Mind Games \(feat\. Jackson Wang\)](https://open.spotify.com/album/1fbmGW0Sy8WQlhCZ5UC5zb) | 3:13 | 2022-08-18 |  |
@@ -160,7 +161,7 @@
 | [My Baby Just Cares For Me \- HONNE Remix](https://open.spotify.com/track/5fVA5uH0SS3wJZjyC1JE5m) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [My Baby Just Cares For Me \(HONNE Remix\)](https://open.spotify.com/album/2cDU1aJ6M0LEsGy8Ks8c8l) | 3:51 | 2022-02-10 | 2022-07-13 |
 | [My Girl](https://open.spotify.com/track/5G1tZ7WSNHmvu5mzs3BpQe) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Ghost Notes](https://open.spotify.com/album/7rcd76R4bI3M4wiHvaz8n8) | 4:25 | 2021-12-23 | 2022-07-28 |
 | [Nakamarra \(feat\. Q\-Tip\)](https://open.spotify.com/track/12v5GBM74fB8WsHJPQRTIe) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Tawk Tomahawk](https://open.spotify.com/album/54UDcBALhfyaQ67fsSZrkQ) | 4:35 | 2022-03-24 |  |
-| [Nana](https://open.spotify.com/track/1M6BvW6Ao53o77piGFjyJ7) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [Nana](https://open.spotify.com/album/4IpbcZKlCDskRI1R9z8INc) | 2:58 | 2022-07-28 |  |
+| [Nana](https://open.spotify.com/track/1M6BvW6Ao53o77piGFjyJ7) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [Nana](https://open.spotify.com/album/4IpbcZKlCDskRI1R9z8INc) | 2:58 | 2022-07-28 | 2022-09-02 |
 | [Nana](https://open.spotify.com/track/3gjgd0sXeIvN3lVXlxlyQ0) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [Nana](https://open.spotify.com/album/0xVYd4FdkMAdQCdX9mRlXT) | 2:58 | 2022-07-07 | 2022-07-29 |
 | [Navy Slumbers](https://open.spotify.com/track/0LtNOISzddpoKFO6n9yWIj) | [SPENSR](https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO) | [MOTHERBOARD](https://open.spotify.com/album/7L3NorJ3Hw8OyVsO44icXQ) | 5:03 | 2022-03-24 | 2022-04-14 |
 | [Never Gonna Be Alone \(feat\. Lizzy McAlpine & John Mayer\)](https://open.spotify.com/track/5m9OR6G4lNt9Da6dy1xpHx) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Never Gonna Be Alone \(feat\. Lizzy McAlpine & John Mayer\)](https://open.spotify.com/album/0rFjAGsF5UhG8hPeirWaHV) | 4:09 | 2022-06-09 |  |

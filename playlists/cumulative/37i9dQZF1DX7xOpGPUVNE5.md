@@ -4,7 +4,7 @@
 
 > Upbeat songs that will get the whole family feelin' good!
 
-78 songs - 4 hr 25 min - [published](https://open.spotify.com/playlist/7ArTQhm1NXOmGwTxTe92qv)
+79 songs - 4 hr 29 min - [published](https://open.spotify.com/playlist/7ArTQhm1NXOmGwTxTe92qv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Girls Just Want to Have Fun](https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual](https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0) | 3:58 | 2022-01-28 |  |
 | [Good Day for a Good Day](https://open.spotify.com/track/2UXPieOYSgDrwAqL62Cbmw) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Good Day for a Good Day](https://open.spotify.com/album/4A7jY5nZpLDPWjucFl1U3P) | 3:10 | 2022-01-28 |  |
 | [Good Mood \- Original Song From Paw Patrol: The Movie](https://open.spotify.com/track/4uX1pkSuSidzJxT4eWL7x1) | [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Good Mood \(Original Song From Paw Patrol: The Movie\)](https://open.spotify.com/album/5YQDkKa0fHnIYnVdfrQLqI) | 3:30 | 2022-01-28 |  |
-| [Groove Is in the Heart](https://open.spotify.com/track/2UVLuddklEVak5PXgC7baA) | [Deee\-Lite](https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5) | [Rhino Hi\-Five: Deee\-Lite](https://open.spotify.com/album/5ONmarDtpkKbrlhu0p83XM) | 3:51 | 2022-01-28 |  |
+| [Groove Is in the Heart](https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb) | [Deee\-Lite](https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5) | [World Clique](https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh) | 3:51 | 2022-01-28 |  |
+| [Groove Is in the Heart](https://open.spotify.com/track/2UVLuddklEVak5PXgC7baA) | [Deee\-Lite](https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5) | [Rhino Hi\-Five: Deee\-Lite](https://open.spotify.com/album/5ONmarDtpkKbrlhu0p83XM) | 3:51 | 2022-01-28 | 2022-09-02 |
 | [Happy \- From "Despicable Me 2"](https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 3:52 | 2022-01-28 |  |
 | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO) | 2:46 | 2022-01-28 |  |
 | [Higher Love](https://open.spotify.com/track/1kKYjjfNYxE0YYgLa7vgVY) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Golden Hour](https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ) | 3:48 | 2022-01-28 |  |

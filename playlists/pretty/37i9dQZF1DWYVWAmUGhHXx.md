@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVWAmUGhHXx.md) - [plain]
 
 > Ritmos latinos para encender la llama de la pasión.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,458 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,510 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVWAmUGhHXx.md) - [plain]
 | 18 | [Cúrame](https://open.spotify.com/track/1FlL8ycld6uVDDyhV7P5FA) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 2:44 |
 | 19 | [Dile](https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don](https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz) | 3:24 |
 | 20 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 |
-| 21 | [LA FAMA \(with The Weeknd\)](https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 3:08 |
+| 21 | [LA FAMA](https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 3:08 |
 | 22 | [Si No Le Contesto](https://open.spotify.com/track/3XaWuYsTtnkzCSBr0RmROc) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/3WEwS5DLsagnqQtHP2oEEu) | 3:40 |
 | 23 | [Propuesta Indecente](https://open.spotify.com/track/5PycBIeabfvX3n9ILG7Vrv) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 3:55 |
-| 24 | [Mojando Asientos \(feat\. Feid\)](https://open.spotify.com/track/0LKu09Iq053CEUZ5ktQEWc) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Mojando Asientos \(feat\. Feid\)](https://open.spotify.com/album/7d2q5cmU01iy4lToXvQ1qB) | 4:12 |
-| 25 | [Virgen](https://open.spotify.com/track/6srBp90EwADKAF7PorGiUC) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Ahora Más Que Nunca](https://open.spotify.com/album/23TxGN2lFbBkvSIL1yVDKk) | 4:31 |
+| 24 | [Virgen](https://open.spotify.com/track/6srBp90EwADKAF7PorGiUC) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Ahora Más Que Nunca](https://open.spotify.com/album/23TxGN2lFbBkvSIL1yVDKk) | 4:31 |
+| 25 | [Mojando Asientos \(feat\. Feid\)](https://open.spotify.com/track/0LKu09Iq053CEUZ5ktQEWc) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Mojando Asientos \(feat\. Feid\)](https://open.spotify.com/album/7d2q5cmU01iy4lToXvQ1qB) | 4:12 |
 | 26 | [Procura](https://open.spotify.com/track/2q9udNV9NK0BL3q9p6TLxf) | [ChiChi Peralta](https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou), [Jandy Feliz](https://open.spotify.com/artist/3hz57XL7wSiPMO9g3k1CW6) | [Pa' Otro La 'O](https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX) | 4:31 |
 | 27 | [2/Catorce](https://open.spotify.com/track/71R8HJxQk5qMiRstrlXN9t) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Mr\. Naisgai](https://open.spotify.com/artist/37BIBvfliXJpSgn10yQUJM) | [2/Catorce](https://open.spotify.com/album/23ceOvjypWsCUj9ZrW8Fno) | 3:32 |
 | 28 | [LA NOCHE DE ANOCHE](https://open.spotify.com/track/2XIc1pqjXV3Cr2BQUGNBck) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 3:23 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVWAmUGhHXx.md) - [plain]
 | 40 | [Persona Ideal \- Me Tengo Que Ir](https://open.spotify.com/track/4UHRMwbbiZ7tkeEkhyN7iB) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Persona Ideal](https://open.spotify.com/album/3YuzaY1bX9uhlhWR0f19mP) | 4:39 |
 | 41 | [El Listón De Tu Pelo](https://open.spotify.com/track/5hrxAFrYbNTLjAYSrmbpgr) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Una Lluvia De Rosas](https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv) | 3:36 |
 | 42 | [Darte un Beso](https://open.spotify.com/track/6cJLfIqwh0tCKRjYM3WpZ5) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Soy el Mismo](https://open.spotify.com/album/4o8ZyBzwPxPVc2bqNG5Xfe) | 3:26 |
-| 43 | [Reloj](https://open.spotify.com/track/7r9ZhitdQBONTFOiJW5mr8) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Reloj](https://open.spotify.com/album/56vYUqyoaBCrokFauIuXIk) | 3:51 |
-| 44 | [Hasta Abajo](https://open.spotify.com/track/4PEfJZpVjdclfzZ9XO8uDw) | [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [KrING](https://open.spotify.com/album/0UEG3km1FB7nGZHwiSun8x) | 3:49 |
+| 43 | [Hasta Abajo](https://open.spotify.com/track/4PEfJZpVjdclfzZ9XO8uDw) | [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [KrING](https://open.spotify.com/album/0UEG3km1FB7nGZHwiSun8x) | 3:49 |
+| 44 | [Reloj](https://open.spotify.com/track/7r9ZhitdQBONTFOiJW5mr8) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Reloj](https://open.spotify.com/album/56vYUqyoaBCrokFauIuXIk) | 3:51 |
 | 45 | [AM](https://open.spotify.com/track/2dNhNlpZAtV4lwAFW45LIv) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Flow La Movie](https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f) | [AM](https://open.spotify.com/album/3dGUvydBX9qhg2YBMsVope) | 3:02 |
 | 46 | [Sus Huellas](https://open.spotify.com/track/2NTMjOwveAazm5GS2wgDgw) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Sus Huellas](https://open.spotify.com/album/3dlSb1l960OG7kjmPvirXU) | 3:36 |
 | 47 | [Bachata Rosa](https://open.spotify.com/track/5DAcQYhc2MurNpTHtX8kZ3) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/3lRQHKkCpntPvEoqh3C3B0) | 4:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVWAmUGhHXx.md) - [plain]
 | 99 | [Por Amor](https://open.spotify.com/track/2J9P7Ve41peMW0fkxiEImK) | [JFab & Paola Fabre](https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds) | [Por Amor](https://open.spotify.com/album/3YVhQkKRXxcI9cTuBRWKqT) | 3:40 |
 | 100 | [Don Juan & Cupido](https://open.spotify.com/track/13Dm4KwsIxVVlAYXMR31xp) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF), [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Don Juan & Cupido](https://open.spotify.com/album/4KC31PfZSQ53iKKyexuKUx) | 3:45 |
 
-Snapshot ID: `MTY1OTQ4MDExMiwwMDAwMDAwMGMzYzdhZTcyOTYwNzkyYWYwMjY3Y2Y3YTFiMGExZjI2`
+Snapshot ID: `MTY1OTQ4MDExMiwwMDAwMDAwMDQ3ZjRjN2UwNjlkYWEyYzA5NWY5YmIzNDNiYjU5NWMw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MImizrZfZg.md) - [plain]
 
 > The smoothest jazz of the 2000s\. Cover: Rick Braun
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,800 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,786 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MImizrZfZg.md) - [plain]
 | 26 | [Keepin' It Real](https://open.spotify.com/track/6tvzrHd7zWzSV93jIG0r4R) | [Joe McBride](https://open.spotify.com/artist/0fqABdgGiy0H0NLUb5GNWs) | [Keepin' It Real](https://open.spotify.com/album/1oEzGC5KIwVQ5Zic2EqiTW) | 5:01 |
 | 27 | [I Still Believe](https://open.spotify.com/track/6dcNq7ZdQMG5ucQeuTZcWd) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Just Chillin'](https://open.spotify.com/album/7K2ByqRePgiW7yQAE3dsjt) | 3:59 |
 | 28 | [Stone Groove](https://open.spotify.com/track/5WyIyCuElhkrqxka1AEIAQ) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS), [Joe Sample](https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE) | [Pure](https://open.spotify.com/album/2xbF9okrdq3tct4UuEKqzh) | 4:45 |
-| 29 | [Keepin' It Cool](https://open.spotify.com/track/6rKan5MDdzwXHUy90RYn26) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Keepin' It Cool](https://open.spotify.com/album/3w9dctOHUxIF5YRVKycZD7) | 3:34 |
-| 30 | [This Time Around](https://open.spotify.com/track/1HBNkjEwlYzcscjBEoCQVA) | [Dan Siegel](https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd) | [Inside Out](https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi) | 5:02 |
+| 29 | [This Time Around](https://open.spotify.com/track/1HBNkjEwlYzcscjBEoCQVA) | [Dan Siegel](https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd) | [Inside Out](https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi) | 5:02 |
+| 30 | [Keepin' It Cool](https://open.spotify.com/track/6rKan5MDdzwXHUy90RYn26) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Keepin' It Cool](https://open.spotify.com/album/3w9dctOHUxIF5YRVKycZD7) | 3:34 |
 | 31 | [Feeling Good](https://open.spotify.com/track/2LC4PhDDtZPEuGe0kz2qM7) | [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Radiant](https://open.spotify.com/album/0Y2T4tZJtOfnEGUgxsmnuQ) | 4:59 |
 | 32 | [In the Moment](https://open.spotify.com/track/3fIjgiM4QNP8xz6MyUwetQ) | [Althea Rene](https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY) | [In the Moment](https://open.spotify.com/album/1PA4zjWrIdycExmlDIxYHk) | 4:11 |
 | 33 | [So Divine](https://open.spotify.com/track/2m0o9frDFAdNnw9OHQaWNS) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Both Sides](https://open.spotify.com/album/44DpwSTolMLCXVbYfd8sY9) | 4:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MImizrZfZg.md) - [plain]
 | 49 | [Make It Happen](https://open.spotify.com/track/508i2fa2DAEchJjKbW3bb9) | [Jay Soto](https://open.spotify.com/artist/5uDQgKIEg2yDXU3FQBD7Me) | [Stay Awhile](https://open.spotify.com/album/1EnNQRl2u7SVbSfaLp8ZN1) | 4:15 |
 | 50 | [Eye 2 Eye](https://open.spotify.com/track/4gvWlsrQogixhISq7Oz1r4) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Embrace](https://open.spotify.com/album/03PWH8UYNt3it6HVUThJf3) | 4:43 |
 
-Snapshot ID: `MTYzODg5NTgyOCwwMDAwMDAwMDNjNDQ2MmUyZmEwMDhkNWI2YmZkYTQ2NzQ1NjhkMjE5`
+Snapshot ID: `MTYzODg5NTgyOCwwMDAwMDAwMGIxZmIzMmY0ZWVhNjliYmM4NzI5ZWVmNDViMjYyM2Y4`

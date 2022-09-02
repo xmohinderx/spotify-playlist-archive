@@ -2,7 +2,7 @@
 
 ### [Fresh Finds España](https://open.spotify.com/playlist/37i9dQZF1DWVhn3qoy98w6)
 
-> Cada miércoles, música fresca de artistas independientes para tu descubrimiento\. Foto: Sangaku.
+> Cada miércoles, música fresca de artistas independientes para tu descubrimiento\. Foto: MARIA SIOKE.
 
 932 songs - 2 day 1 hr 43 min - [published](https://open.spotify.com/playlist/7MpPM792xGwpKouYtEsju9)
 

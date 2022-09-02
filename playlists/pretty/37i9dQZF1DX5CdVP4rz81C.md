@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 
 > Discover your favorite new chill pop songs\. Cover: NIKI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,265,322 likes - 88 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,264,692 likes - 88 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Happening Again](https://open.spotify.com/track/1XYb7j151Uoan1RVDpt9F4) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Happening Again](https://open.spotify.com/album/6Kf3JOaJGuR058TJqrB4gM) | 2:53 |
 | 2 | [SNAP](https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR) | 2:59 |
-| 3 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi) | 2:21 |
+| 3 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/0GxWXE6ltKk4Gx3WyWLLrW) | 2:21 |
 | 4 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 |
 | 5 | [Atlantis](https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Tell Me It's Real \(Expanded Edition\)](https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt) | 3:49 |
 | 6 | [Sunday Crossword](https://open.spotify.com/track/3CB973XnoNN2QBAF5yaBxU) | [J\. Maya](https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU) | [Sunday Crossword](https://open.spotify.com/album/6m0eoETUxlI5sWCW6e9akR) | 3:04 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 | 87 | [do all my friends hate me?](https://open.spotify.com/track/2VgE8fT65dU0FgyA4z5nqN) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [do all my friends hate me?](https://open.spotify.com/album/4Y7rAETgLemPCqrOrlgoRa) | 3:24 |
 | 88 | [last request](https://open.spotify.com/track/3e2k9IlblTs4o5cD5DrPcO) | [Neptune](https://open.spotify.com/artist/3WdDxnyyYJgYLxrLPXSVyz) | [last request](https://open.spotify.com/album/5FTXpQ9VirW7NG2Ee2gXvD) | 3:00 |
 
-Snapshot ID: `MTY2MTQ4NjQ2MCwwMDAwMDAwMDVlMjI3ZTVkMTE4NzJlZDI4OTA4ZjRmYjFkOGNhNzdl`
+Snapshot ID: `MTY2MTQ4NjQ2MCwwMDAwMDAwMGE3OTRjOWM4ZGYzZWU1ZDU3ZjkyY2I4N2NmMzY2NDZk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb83YJL7gTWj.md) - [plain]
 
 > Press play and enjoy a relaxing meal\. Easy!
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,257 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,230 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb83YJL7gTWj.md) - [plain]
 | 46 | [Lost In The Light](https://open.spotify.com/track/6IBpFG2LU2udYofIuROp3w) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/4GRRGsQBwwd2kKaEXZqVNd) | 3:56 |
 | 47 | [Mood Ring](https://open.spotify.com/track/7rb4dcBfW0m1LQQcDCh4Hv) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 3:45 |
 | 48 | [Incredible](https://open.spotify.com/track/5bZeugrr7oIATt1CLJuhT4) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Chapters](https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP) | 4:06 |
-| 49 | [Sitting In The Corner \(feat\. Adriel Favela & Kacey Musgraves\)](https://open.spotify.com/track/1Cx5pTBRWI67JXVmMGJT23) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fantasy Gateway](https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM) | 3:52 |
-| 50 | [Fever To The Form](https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [First Mind](https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh) | 4:12 |
+| 49 | [Fever To The Form](https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [First Mind](https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh) | 4:12 |
+| 50 | [Sitting In The Corner \(feat\. Adriel Favela & Kacey Musgraves\)](https://open.spotify.com/track/1Cx5pTBRWI67JXVmMGJT23) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fantasy Gateway](https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM) | 3:52 |
 | 51 | [Perfectly Imperfect](https://open.spotify.com/track/6TbkMxKZudkP6Sty7rkLU9) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Perfectly Imperfect](https://open.spotify.com/album/6YYdaF74fciAagw5BpJ6Qy) | 3:24 |
 | 52 | [Best Part of Me \(feat\. YEBBA\)](https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Best Part of Me \(feat\. YEBBA\)](https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB) | 4:03 |
 | 53 | [Such A Simple Thing](https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Part Of The Light](https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f) | 4:56 |
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb83YJL7gTWj.md) - [plain]
 | 86 | [The Stranger](https://open.spotify.com/track/6lJQpz7R61Yn05aa7bKZ3k) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:11 |
 | 87 | [Head And Heart On Fire](https://open.spotify.com/track/0p4j657L1sMElovvsUlyiD) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Apart](https://open.spotify.com/album/0x7mfCEXV2oWxFabJlD3uj) | 2:35 |
 | 88 | [Better Off](https://open.spotify.com/track/2oBzsiZT8qmlovYS1FMf06) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Better Off](https://open.spotify.com/album/6a9bsIUvtXmqj6HaEOIAq3) | 3:15 |
-| 89 | [The Meetings of the Waters](https://open.spotify.com/track/3wQXP3617fqclHgzA7dONN) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [The Meetings of the Waters](https://open.spotify.com/album/4cx595VqVPFHf5PwJjQ7lJ) | 5:00 |
-| 90 | [Wildflowers](https://open.spotify.com/track/46Nz7uguhTyUWOXhRBbzxa) | [The Wailin' Jennys](https://open.spotify.com/artist/331QVEZKK1yz5KhYiR2pBj) | [Fifteen](https://open.spotify.com/album/119HRNCY7xfA3R218gtspV) | 3:42 |
-| 91 | [Small Talk](https://open.spotify.com/track/1HkB10b5D1tb0fSb1QsOvD) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Songs to Break Up To](https://open.spotify.com/album/5OVxLrOoXXD2HSKkQNqhQW) | 2:46 |
+| 89 | [Small Talk](https://open.spotify.com/track/1HkB10b5D1tb0fSb1QsOvD) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Songs to Break Up To](https://open.spotify.com/album/5OVxLrOoXXD2HSKkQNqhQW) | 2:46 |
+| 90 | [The Meetings of the Waters](https://open.spotify.com/track/3wQXP3617fqclHgzA7dONN) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [The Meetings of the Waters](https://open.spotify.com/album/4cx595VqVPFHf5PwJjQ7lJ) | 5:00 |
+| 91 | [Wildflowers](https://open.spotify.com/track/46Nz7uguhTyUWOXhRBbzxa) | [The Wailin' Jennys](https://open.spotify.com/artist/331QVEZKK1yz5KhYiR2pBj) | [Fifteen](https://open.spotify.com/album/119HRNCY7xfA3R218gtspV) | 3:42 |
 | 92 | [In Your Eyes](https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [In Your Eyes](https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA) | 5:29 |
 | 93 | [Out Of The Blue](https://open.spotify.com/track/3aV4xJGmhJHnyRhnzx5iHE) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Expectations](https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP) | 5:12 |
 | 94 | [Feels Like This](https://open.spotify.com/track/53Wsf11ElpPr1WAGtRQlcx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Dressed Too Nice For A Jacket](https://open.spotify.com/album/1ziE8y7wGzDY0PDgoDXKwF) | 3:43 |
 | 95 | [Save Myself](https://open.spotify.com/track/6QDZlGAY1njNqAdOM6PryZ) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Save Myself](https://open.spotify.com/album/1xqgvYXcHZvCr9VthrD4mn) | 3:44 |
 | 96 | [To Live a Life](https://open.spotify.com/track/4K00AQLpOhGUdDfDINDfYL) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Ruins](https://open.spotify.com/album/5l2Ts5Hd4BN2O28rZksznR) | 3:12 |
-| 97 | [Full Circle](https://open.spotify.com/track/2DtYtc9nMEdyjtJsT1ARqt) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Prospect](https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d) | 3:54 |
-| 98 | [If I Didn’t Love You](https://open.spotify.com/track/2Zy7SjGT12yzvFohfAKWDq) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [If I Didn’t Love You](https://open.spotify.com/album/3dS67NuXz81GhplmI45iEG) | 4:06 |
+| 97 | [If I Didn’t Love You](https://open.spotify.com/track/2Zy7SjGT12yzvFohfAKWDq) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [If I Didn’t Love You](https://open.spotify.com/album/3dS67NuXz81GhplmI45iEG) | 4:06 |
+| 98 | [Full Circle](https://open.spotify.com/track/2DtYtc9nMEdyjtJsT1ARqt) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Prospect](https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d) | 3:54 |
 | 99 | [Surviving](https://open.spotify.com/track/0rYn41pw6HzBTT0hqWxbb2) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Nothing is Lost](https://open.spotify.com/album/0DtpBbI7QACD3pt5vNPGfc) | 3:16 |
 | 100 | [Hurt Somebody](https://open.spotify.com/track/7apizLyhMRutg3ccXvr2qv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Hurt Somebody](https://open.spotify.com/album/4tpVFjYKSR6ivXVK5YXEc4) | 2:48 |
 
-Snapshot ID: `MTY2MTQ4NjQ2MCwwMDAwMDAwMDhjNGRjN2E1ZGJkZTk0NDlkMjU5NDdjYzJmMzdmZGYx`
+Snapshot ID: `MTY2MTQ4NjQ2MCwwMDAwMDAwMDI3ZGY1NDYzYzYyYzBlOTU1NTczMjYyZmVmZmQ5Y2Jm`

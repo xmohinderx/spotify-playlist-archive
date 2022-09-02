@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 
 > Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: NAYEON\(나연\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,306 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,392 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 | 73 | [Parade](https://open.spotify.com/track/2lsXJ7F3QYJrQ9cQ9Icx1n) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [The Story](https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg) | 3:02 |
 | 74 | [AYAYAYA](https://open.spotify.com/track/4XKCLNyCTvtdkLu5O1mzTU) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [BLOOM\*IZ](https://open.spotify.com/album/5dm3PMCHxTSOdDFZ1hlfMm) | 3:22 |
 | 75 | [One Day At A Time](https://open.spotify.com/track/1eFk8R4OobU7kaAZdfYBKz) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.1](https://open.spotify.com/album/01IFxHiVOY6uf3vUFVXEoI) | 3:23 |
-| 76 | [Bon voyage](https://open.spotify.com/track/4X95Ecd1elHxTccGOko02c) | [YooA](https://open.spotify.com/artist/4ur1jCwyNlhgd0viJkOtcQ) | [Bon Voyage](https://open.spotify.com/album/2dFsfVOAwvmRV8hOBdssiI) | 3:39 |
+| 76 | [One of Those Nights](https://open.spotify.com/track/2OsH4MtKPVeI8w9sFBLEvZ) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [FACE \- The 1st Album](https://open.spotify.com/album/60ySfrb8zjJooMlVbpWGHG) | 3:10 |
 | 77 | [Boogie Woogie](https://open.spotify.com/track/354txxGRPRqIHqPcSvibQP) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [Boogie Woogie](https://open.spotify.com/album/0uK36l0cCAoyopQr6vVJEs) | 3:10 |
 | 78 | [SEE SEA](https://open.spotify.com/track/09Pp9Q9593vnr91Ldi4let) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [SEE SEA](https://open.spotify.com/album/1t3IRZpNvtOD1tXfFLrLOe) | 3:20 |
-| 79 | [One of Those Nights](https://open.spotify.com/track/2OsH4MtKPVeI8w9sFBLEvZ) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [FACE \- The 1st Album](https://open.spotify.com/album/60ySfrb8zjJooMlVbpWGHG) | 3:10 |
+| 79 | [Bon voyage](https://open.spotify.com/track/4X95Ecd1elHxTccGOko02c) | [YooA](https://open.spotify.com/artist/4ur1jCwyNlhgd0viJkOtcQ) | [Bon Voyage](https://open.spotify.com/album/2dFsfVOAwvmRV8hOBdssiI) | 3:39 |
 | 80 | [Dynamite \- Acoustic Remix](https://open.spotify.com/track/083PvB3ID4h3jiGJ1GbbPA) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Dynamite \(DayTime Version\)](https://open.spotify.com/album/1Yo63a5AzPMyHiYMKYIrld) | 3:17 |
 | 81 | [What If](https://open.spotify.com/track/0KMhnkCiGtCQhYtAy7QS9l) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [There And Back Again](https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1) | 2:44 |
 | 82 | [Pool Party\(Rollin’ right now\)](https://open.spotify.com/track/4RsGFsrL1NeUlKv6Zourbp) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<Queendom2> Part.2\-2](https://open.spotify.com/album/5ftR2nskDFsLbszHNIiYJp) | 4:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 | 99 | [Promise U](https://open.spotify.com/track/3S0yfEkrXLpHjcizhj97nf) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD), [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [PROMISE U \(REVIBE Vol.1\)](https://open.spotify.com/album/4eJdKwHH9rb3dNbtIsBgjV) | 3:27 |
 | 100 | [Boogie Up](https://open.spotify.com/track/6u5ipVfAHGjTXvWuiI5sKB) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [SPECIAL ALBUM <For the Summer>](https://open.spotify.com/album/53gncm4YYhGNfqgPWSgXbJ) | 3:03 |
 
-Snapshot ID: `MTY2MTUyMjY0NywwMDAwMDAwMGEyNGI2M2RkNTUzZDlkZWQ4MGE5MWVkOGU5MjJhMGEz`
+Snapshot ID: `MTY2MTUyMjY0NywwMDAwMDAwMDY1YzA0MjQyMTE3M2E0MGFmOTA1Y2EzZTg4MTNlZWVi`

@@ -1,12 +1,12 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Carin Leon en portada. ",
-  "num_followers": 697427,
+  "num_followers": 697582,
   "original_name": "Sierre\u00f1o 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjAwMCwwMDAwMDAwMGMwZTk1NjY4MGQ0YTNkZTdmM2Y5OTU3YmY5Yjg0Mjc3",
+  "snapshot_id": "MTY1OTY3MjAwMCwwMDAwMDAwMGUwNjIwZDRjODM1MWNjZGQ2MjAwZTQ1MjYzNmYxZTJj",
   "tracks": [
     {
       "added_at": "2022-08-05 04:00:00",
@@ -315,18 +315,22 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "NataKong",
-        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
+        "name": "Ya acab\u00f3 (Con Becky G)",
+        "url": "https://open.spotify.com/album/6XZejfd76Y8JU23nnaVDTc"
       },
       "artists": [
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         }
       ],
-      "duration_ms": 154760,
-      "name": "Brillo",
-      "url": "https://open.spotify.com/track/5gS11pL9yQcnKrzbmliOwh"
+      "duration_ms": 176458,
+      "name": "Ya acab\u00f3 - Con Becky G",
+      "url": "https://open.spotify.com/track/0OPiOIAyw2FUjKm8PXBGhq"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -363,22 +367,18 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Ya acab\u00f3 (Con Becky G)",
-        "url": "https://open.spotify.com/album/6XZejfd76Y8JU23nnaVDTc"
+        "name": "NataKong",
+        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
       },
       "artists": [
         {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 176458,
-      "name": "Ya acab\u00f3 - Con Becky G",
-      "url": "https://open.spotify.com/track/0OPiOIAyw2FUjKm8PXBGhq"
+      "duration_ms": 154760,
+      "name": "Brillo",
+      "url": "https://open.spotify.com/track/5gS11pL9yQcnKrzbmliOwh"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Pistiembre Todo El A\u00f1o (En Vivo)",
-        "url": "https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 174262,
-      "name": "Si Una Vez - En Vivo",
-      "url": "https://open.spotify.com/track/2wdYohLJjdHt6jZASIGZuC"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "Tan Solo Morro",
         "url": "https://open.spotify.com/album/1LmawVjg3zfR7kcPZ8SIjG"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 144545,
       "name": "Tan Solo Morro",
       "url": "https://open.spotify.com/track/5eBzDfTG7m8NUWf14YYQcU"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Pistiembre Todo El A\u00f1o (En Vivo)",
+        "url": "https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 174262,
+      "name": "Si Una Vez - En Vivo",
+      "url": "https://open.spotify.com/track/2wdYohLJjdHt6jZASIGZuC"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Unas M\u00edas y Otras Prestadas",
-        "url": "https://open.spotify.com/album/2QxaFVBRBiPeA6K3tBk7tk"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 218709,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/0PphCpk9pbs0KDiEGJ2UwQ"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "Mi Vida En Un Cigarro 2",
         "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 233096,
       "name": "Pa Que Te Duela",
       "url": "https://open.spotify.com/track/4XkSLgoFq8SGNR4XSFXfyc"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Unas M\u00edas y Otras Prestadas",
+        "url": "https://open.spotify.com/album/2QxaFVBRBiPeA6K3tBk7tk"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "duration_ms": 218709,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/0PphCpk9pbs0KDiEGJ2UwQ"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
+        "name": "El Plumas (En Vivo)",
+        "url": "https://open.spotify.com/album/6GB1PDimXrLWIya6jgXkBs"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 210617,
+      "name": "El Plumas - En Vivo",
+      "url": "https://open.spotify.com/track/5QZCV5YihVsaWUbKZkWH4s"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
         "name": "Qui\u00e9n Se Apunta",
         "url": "https://open.spotify.com/album/0K96amjgXLbldWdd3tDrjO"
       },
@@ -1095,18 +1111,18 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "El Plumas (En Vivo)",
-        "url": "https://open.spotify.com/album/6GB1PDimXrLWIya6jgXkBs"
+        "name": "No Te Pido Mucho",
+        "url": "https://open.spotify.com/album/1HWPwiFJ5jmVP9dIjfFPYA"
       },
       "artists": [
         {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+          "name": "Alta Consigna",
+          "url": "https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb"
         }
       ],
-      "duration_ms": 210617,
-      "name": "El Plumas - En Vivo",
-      "url": "https://open.spotify.com/track/5QZCV5YihVsaWUbKZkWH4s"
+      "duration_ms": 220493,
+      "name": "El Poder de Tu Mirada",
+      "url": "https://open.spotify.com/track/1eN387v5wRFvSHHBwtCxQW"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1127,22 +1143,6 @@
       "duration_ms": 206918,
       "name": "Comandante Tanque",
       "url": "https://open.spotify.com/track/7GvqXMe2okeXM5DVPluGvf"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "No Te Pido Mucho",
-        "url": "https://open.spotify.com/album/1HWPwiFJ5jmVP9dIjfFPYA"
-      },
-      "artists": [
-        {
-          "name": "Alta Consigna",
-          "url": "https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb"
-        }
-      ],
-      "duration_ms": 220493,
-      "name": "El Poder de Tu Mirada",
-      "url": "https://open.spotify.com/track/1eN387v5wRFvSHHBwtCxQW"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "La Lista",
-        "url": "https://open.spotify.com/album/2W91Gs7qvH1yODKt8Hm7QH"
+        "name": "Yo Te Amar\u00e9",
+        "url": "https://open.spotify.com/album/0WdDQcrUytQdVggWjEkXtm"
       },
       "artists": [
         {
-          "name": "Jovanny Cadena Y Su Estilo Privado",
-          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
+          "name": "Efecto Elegante",
+          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
         }
       ],
-      "duration_ms": 211278,
-      "name": "La Lista",
-      "url": "https://open.spotify.com/track/0sQGMzZCE7urmEya7Ky7AL"
+      "duration_ms": 170363,
+      "name": "Yo Te Amar\u00e9",
+      "url": "https://open.spotify.com/track/7jPO9umUSUsyoaFwTwM5Ey"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1419,34 +1419,18 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Yo Te Amar\u00e9",
-        "url": "https://open.spotify.com/album/0WdDQcrUytQdVggWjEkXtm"
+        "name": "La Lista",
+        "url": "https://open.spotify.com/album/2W91Gs7qvH1yODKt8Hm7QH"
       },
       "artists": [
         {
-          "name": "Efecto Elegante",
-          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
+          "name": "Jovanny Cadena Y Su Estilo Privado",
+          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
         }
       ],
-      "duration_ms": 170363,
-      "name": "Yo Te Amar\u00e9",
-      "url": "https://open.spotify.com/track/7jPO9umUSUsyoaFwTwM5Ey"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "El Dolido",
-        "url": "https://open.spotify.com/album/1uIJQImkY7FhTE28n9Arln"
-      },
-      "artists": [
-        {
-          "name": "Victor Eme",
-          "url": "https://open.spotify.com/artist/7pqC92doZ7JCuW52HhonW6"
-        }
-      ],
-      "duration_ms": 194998,
-      "name": "El Dolido",
-      "url": "https://open.spotify.com/track/1ZNxbZioh358Z04ECc3l53"
+      "duration_ms": 211278,
+      "name": "La Lista",
+      "url": "https://open.spotify.com/track/0sQGMzZCE7urmEya7Ky7AL"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1463,6 +1447,22 @@
       "duration_ms": 188917,
       "name": "Sembrando",
       "url": "https://open.spotify.com/track/6RHs3X2bQefGEbvqDB7MZB"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "El Dolido",
+        "url": "https://open.spotify.com/album/1uIJQImkY7FhTE28n9Arln"
+      },
+      "artists": [
+        {
+          "name": "Victor Eme",
+          "url": "https://open.spotify.com/artist/7pqC92doZ7JCuW52HhonW6"
+        }
+      ],
+      "duration_ms": 194998,
+      "name": "El Dolido",
+      "url": "https://open.spotify.com/track/1ZNxbZioh358Z04ECc3l53"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Historias Pa\u2019 Contar",
-        "url": "https://open.spotify.com/album/6i8fnbUdHbs68xHQKgjEpg"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 245853,
-      "name": "Dolor Maquillado",
-      "url": "https://open.spotify.com/track/6AgYfAUT7HKK2EGv4euZUV"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "A Mi Estilo (Volumen 1)",
         "url": "https://open.spotify.com/album/0xOkgJtEl52vrhnCfBDIKx"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 153706,
       "name": "Estos Tragos Van Por Ti",
       "url": "https://open.spotify.com/track/5pvyq5JmDPhDJ9xIMKNuYK"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Historias Pa\u2019 Contar",
+        "url": "https://open.spotify.com/album/6i8fnbUdHbs68xHQKgjEpg"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 245853,
+      "name": "Dolor Maquillado",
+      "url": "https://open.spotify.com/track/6AgYfAUT7HKK2EGv4euZUV"
     }
   ],
   "unique_name": "Sierre\u00f1o 2022",

@@ -1,12 +1,12 @@
 {
   "description": "Den perfekta mixade spellistan f\u00f6r tr\u00e4ningspasset.",
-  "num_followers": 157246,
+  "num_followers": 157237,
   "original_name": "Tr\u00e4ning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg5NDI0NCwwMDAwMDAwMDVkNTdhZTQxMWVhNWY3ZjFkNjdhNWNjYjhlOGFkNDIw",
+  "snapshot_id": "MTY1Nzg5NDI0NCwwMDAwMDAwMDUyMTkxY2I1MjhhZmM5OGJlMTk3MGVmMTI4ZTMzYWIz",
   "tracks": [
     {
       "added_at": "2022-07-15 14:10:44",
@@ -299,6 +299,26 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
+        "name": "Sweater Weather",
+        "url": "https://open.spotify.com/album/3cPk3K7p6FB7OVEBoNxuW2"
+      },
+      "artists": [
+        {
+          "name": "Gaullin",
+          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
+        },
+        {
+          "name": "Julian Perretta",
+          "url": "https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG"
+        }
+      ],
+      "duration_ms": 171133,
+      "name": "Sweater Weather",
+      "url": "https://open.spotify.com/track/6siDDghVE7fxel5o7fE4OF"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
         "name": "Close Your Eyes",
         "url": "https://open.spotify.com/album/0PhTTyRWpJVlg4F5RC0xmE"
       },
@@ -319,26 +339,6 @@
       "duration_ms": 160794,
       "name": "Close Your Eyes",
       "url": "https://open.spotify.com/track/7N06jo3EnV792VFaG8vuW6"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
-        "name": "Sweater Weather",
-        "url": "https://open.spotify.com/album/3cPk3K7p6FB7OVEBoNxuW2"
-      },
-      "artists": [
-        {
-          "name": "Gaullin",
-          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
-        },
-        {
-          "name": "Julian Perretta",
-          "url": "https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG"
-        }
-      ],
-      "duration_ms": 171133,
-      "name": "Sweater Weather",
-      "url": "https://open.spotify.com/track/6siDDghVE7fxel5o7fE4OF"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1031,6 +1031,26 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
+        "name": "Bass Goes Down",
+        "url": "https://open.spotify.com/album/2JgIfDQUhkptCzJZkhPiY0"
+      },
+      "artists": [
+        {
+          "name": "MOLOW",
+          "url": "https://open.spotify.com/artist/3X2bWmlO8Oq7dIeEgAbTAB"
+        },
+        {
+          "name": "Rompasso",
+          "url": "https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A"
+        }
+      ],
+      "duration_ms": 144449,
+      "name": "Bass Goes Down",
+      "url": "https://open.spotify.com/track/0HfNmWE8fohKdQCXbR1CwS"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
         "name": "i miss u (VIZE Remix)",
         "url": "https://open.spotify.com/album/3zpYj8yX3IY6vyju8Hwkp7"
       },
@@ -1051,26 +1071,6 @@
       "duration_ms": 152109,
       "name": "i miss u - VIZE Remix",
       "url": "https://open.spotify.com/track/4zvJFnv4nIwW1rAN4XlhBc"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
-        "name": "Bass Goes Down",
-        "url": "https://open.spotify.com/album/2JgIfDQUhkptCzJZkhPiY0"
-      },
-      "artists": [
-        {
-          "name": "MOLOW",
-          "url": "https://open.spotify.com/artist/3X2bWmlO8Oq7dIeEgAbTAB"
-        },
-        {
-          "name": "Rompasso",
-          "url": "https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A"
-        }
-      ],
-      "duration_ms": 144449,
-      "name": "Bass Goes Down",
-      "url": "https://open.spotify.com/track/0HfNmWE8fohKdQCXbR1CwS"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1107,30 +1107,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Family (Remixes)",
-        "url": "https://open.spotify.com/album/0KHCJzK0qQtlpz4B5oit6C"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Frank Walker",
-          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
-        }
-      ],
-      "duration_ms": 185813,
-      "name": "Family - Frank Walker Remix",
-      "url": "https://open.spotify.com/track/6YnkswUQX2GXOhywMsBDqp"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Te Bot\u00e9",
         "url": "https://open.spotify.com/album/24tx57L8SkaN4SPUattbZI"
       },
@@ -1151,6 +1127,30 @@
       "duration_ms": 136500,
       "name": "Te Bot\u00e9",
       "url": "https://open.spotify.com/track/3WK855oWM0YXIWKqkIwK6U"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Family (Remixes)",
+        "url": "https://open.spotify.com/album/0KHCJzK0qQtlpz4B5oit6C"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        }
+      ],
+      "duration_ms": 185813,
+      "name": "Family - Frank Walker Remix",
+      "url": "https://open.spotify.com/track/6YnkswUQX2GXOhywMsBDqp"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Ones You Miss",
-        "url": "https://open.spotify.com/album/1OEEVoyaZUt6yCncONcQZr"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 133669,
-      "name": "Ones You Miss",
-      "url": "https://open.spotify.com/track/4cFeXui0uAhC2f4fTwN4P7"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Remember (David Guetta VIP Remix)",
         "url": "https://open.spotify.com/album/09GSQXZys0phYiMdqc2Yh8"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 230443,
       "name": "Remember - David Guetta VIP Remix",
       "url": "https://open.spotify.com/track/4TqTBou6np9peCdHAK9cp7"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Ones You Miss",
+        "url": "https://open.spotify.com/album/1OEEVoyaZUt6yCncONcQZr"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 133669,
+      "name": "Ones You Miss",
+      "url": "https://open.spotify.com/track/4cFeXui0uAhC2f4fTwN4P7"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1703,26 +1703,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Where You Wanna Be",
-        "url": "https://open.spotify.com/album/2qXOVTnMDCsnulrqfX4QDu"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Elena Temnikova",
-          "url": "https://open.spotify.com/artist/6lPJV4RlngIEnb6OzcwMDL"
-        }
-      ],
-      "duration_ms": 158709,
-      "name": "Where You Wanna Be",
-      "url": "https://open.spotify.com/track/7qbjS6uKZlv7K08CNcEqYR"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Million Ways (Remixes)",
         "url": "https://open.spotify.com/album/6RKJnTD9NaJBQN4Bb9t33s"
       },
@@ -1739,6 +1719,26 @@
       "duration_ms": 142120,
       "name": "Million Ways - Steve Void Remix",
       "url": "https://open.spotify.com/track/7Jp1D99U01dG9Wwoa4el7j"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Where You Wanna Be",
+        "url": "https://open.spotify.com/album/2qXOVTnMDCsnulrqfX4QDu"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Elena Temnikova",
+          "url": "https://open.spotify.com/artist/6lPJV4RlngIEnb6OzcwMDL"
+        }
+      ],
+      "duration_ms": 158709,
+      "name": "Where You Wanna Be",
+      "url": "https://open.spotify.com/track/7qbjS6uKZlv7K08CNcEqYR"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -2023,22 +2023,22 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Chains (with Project 46)",
-        "url": "https://open.spotify.com/album/3Gv9iIhXkCtLvj3Czp2UF0"
+        "name": "Can't Get Over You",
+        "url": "https://open.spotify.com/album/0AfivxxYsD8r0S8fiO4mZR"
       },
       "artists": [
         {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+          "name": "Nick Strand",
+          "url": "https://open.spotify.com/artist/5nFFSwxKDNlZyHEYl48YTd"
         },
         {
-          "name": "Project 46",
-          "url": "https://open.spotify.com/artist/2RhRT6DNOVoDTfS0rG31pZ"
+          "name": "Mio",
+          "url": "https://open.spotify.com/artist/11wkY41Tv6H5BbPopqUoCr"
         }
       ],
-      "duration_ms": 223041,
-      "name": "Chains (with Project 46)",
-      "url": "https://open.spotify.com/track/7wMABXUD4FxX66u3eG1ax8"
+      "duration_ms": 123870,
+      "name": "Can't Get Over You",
+      "url": "https://open.spotify.com/track/4fcckOQKfQRyTGUXOtDCge"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -2063,22 +2063,22 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Can't Get Over You",
-        "url": "https://open.spotify.com/album/0AfivxxYsD8r0S8fiO4mZR"
+        "name": "Chains (with Project 46)",
+        "url": "https://open.spotify.com/album/3Gv9iIhXkCtLvj3Czp2UF0"
       },
       "artists": [
         {
-          "name": "Nick Strand",
-          "url": "https://open.spotify.com/artist/5nFFSwxKDNlZyHEYl48YTd"
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
         },
         {
-          "name": "Mio",
-          "url": "https://open.spotify.com/artist/11wkY41Tv6H5BbPopqUoCr"
+          "name": "Project 46",
+          "url": "https://open.spotify.com/artist/2RhRT6DNOVoDTfS0rG31pZ"
         }
       ],
-      "duration_ms": 123870,
-      "name": "Can't Get Over You",
-      "url": "https://open.spotify.com/track/4fcckOQKfQRyTGUXOtDCge"
+      "duration_ms": 223041,
+      "name": "Chains (with Project 46)",
+      "url": "https://open.spotify.com/track/7wMABXUD4FxX66u3eG1ax8"
     },
     {
       "added_at": "2022-07-15 14:10:44",

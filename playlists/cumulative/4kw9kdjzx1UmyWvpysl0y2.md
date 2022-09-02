@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-249 songs - 14 hr 40 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+250 songs - 14 hr 43 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Remedy](https://open.spotify.com/track/1A7abr0cUK9WZRO4AjT0UQ) | [Maliboux](https://open.spotify.com/artist/157IWDnr2hC9SFL5OJF8j7) | [Remedy](https://open.spotify.com/album/2RfxoMmdN94qeqmbfSGsaz) | 2:35 | 2022-04-26 | 2022-07-07 |
 | [Right Through](https://open.spotify.com/track/4KyDMzlS1tynHxn3t6SpIJ) | [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot), [Asdek](https://open.spotify.com/artist/2rxubOde1svVDYAVDy7PDS) | [The Chase](https://open.spotify.com/album/5ihPWCYA0YE9mPIScQAQMG) | 3:22 | 2022-05-26 | 2022-08-06 |
 | [roadtrip](https://open.spotify.com/track/3HAYDWCgHiQ0j7RK5qaohM) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63), [Mr\. Hilroy](https://open.spotify.com/artist/1SDhLZ6y3x0OEGEHZ96K2T) | [wonder years pt\. 2](https://open.spotify.com/album/5AUfHGT7BVlsxHPQCdlHmG) | 2:28 | 2022-05-13 | 2022-07-23 |
+| [Royalty](https://open.spotify.com/track/6tHBSeIAH5l9o9MjZLl9MJ) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [Royalty](https://open.spotify.com/album/0CEQ62V2Ip0bXpVhhNYiPQ) | 2:57 | 2022-09-01 |  |
 | [Running Faster](https://open.spotify.com/track/1eJyFR21xkbS6JJIt5PUCH) | [Seawayz](https://open.spotify.com/artist/1kDtzWANi4LOiGt0uM5Wjr), [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I) | [Running Faster](https://open.spotify.com/album/1XRiyMmGXUtzboy9peGHoe) | 3:51 | 2022-03-02 | 2022-05-13 |
 | [Save Me](https://open.spotify.com/track/57qREwXYYpVtANx4Vldnux) | [Dr\. Ushūu](https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR) | [Save Me](https://open.spotify.com/album/0BzcyBDEuFW1q3fR8gSf7G) | 3:24 | 2022-08-15 |  |
 | [Saving Lives](https://open.spotify.com/track/6OK7OQyyvNPd2XQIHCB1wz) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [Saving Lives](https://open.spotify.com/album/1q3TxKjmvdwSE8SmOsAsjt) | 4:27 | 2021-11-19 | 2022-02-25 |
@@ -200,7 +201,7 @@
 | [Shapes](https://open.spotify.com/track/0h302qVfzax9JhJNJLFK1D) | [Fransis Derelle](https://open.spotify.com/artist/0SjiMVVtcOsDAOb4fKCCLn), [Saysha](https://open.spotify.com/artist/03xxq7MRuIQclNkrwf2ZJD) | [Shapes](https://open.spotify.com/album/1lFOQgqlADJAzqu9MWdUA1) | 3:43 | 2022-01-17 | 2022-03-25 |
 | [Shine](https://open.spotify.com/track/1RR19k1GVV2Sl0vi65wFTh) | [Sophon](https://open.spotify.com/artist/7AmI3Zl33iDdhRMvq0MiAV), [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y) | [Shine](https://open.spotify.com/album/42WL9WgN516xT16NhXVUyb) | 3:24 | 2022-01-10 | 2022-03-18 |
 | [Silk Road](https://open.spotify.com/track/545nphHUuiPLuiPIGT3Inn) | [Talamanca](https://open.spotify.com/artist/6T10DjLBN7wT5gtnPnhmEk), [Roald Velden](https://open.spotify.com/artist/1ezY8w6yikBekrZCUVYkLP) | [Silk Road](https://open.spotify.com/album/6mEFavBMsLDQQsbzzIzman) | 3:49 | 2022-04-27 | 2022-07-08 |
-| [So Far Away](https://open.spotify.com/track/2tKElQZfUyUQjDZwP2tOWF) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [LOST](https://open.spotify.com/album/2IKVthOoA0M9xgN4PL8Otj) | 3:39 | 2022-06-20 |  |
+| [So Far Away](https://open.spotify.com/track/2tKElQZfUyUQjDZwP2tOWF) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [LOST](https://open.spotify.com/album/2IKVthOoA0M9xgN4PL8Otj) | 3:39 | 2022-06-20 | 2022-09-02 |
 | [Sound & Silence](https://open.spotify.com/track/3VVdmxspjqeSNTQaOrhGbX) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld), [Soultorque](https://open.spotify.com/artist/43Oxp8D7P6sJWfbmrh1cif), [flowanastasia](https://open.spotify.com/artist/6AAhs4ooZ8UUIuuhWj1ZjM) | [Sound & Silence](https://open.spotify.com/album/1sOEzIzCRv7BYK8jbEU4Rv) | 4:19 | 2022-07-01 |  |
 | [Space Boy](https://open.spotify.com/track/15fhccPHabcXcrmIxKFHum) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [Feint](https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU), [Veela](https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR) | [Space Boy](https://open.spotify.com/album/577vK0xFStmdlV3ggukLmZ) | 3:27 | 2022-03-17 | 2022-05-28 |
 | [Spaced Out](https://open.spotify.com/track/4cG0DczmM59OoR7Pcoc9Mx) | [Jay FM](https://open.spotify.com/artist/0XHQV1DM8cqEJrB4gRuogs) | [Spaced Out](https://open.spotify.com/album/1XHf7B0DwZTIMzSxeRKJEv) | 2:42 | 2022-02-16 | 2022-04-27 |

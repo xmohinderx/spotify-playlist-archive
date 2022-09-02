@@ -2,9 +2,9 @@
 
 ### [K\-Pop ON! \(온\)](https://open.spotify.com/playlist/37i9dQZF1DX9tPFwDMOaN1)
 
-> Let's turn ON the movement! Cover: TWICE
+> Let's turn ON the movement! Cover: NewJeans
 
-179 songs - 9 hr 42 min - [published](https://open.spotify.com/playlist/05j7NY1SwyJ5jKPj2s00I0)
+180 songs - 9 hr 45 min - [published](https://open.spotify.com/playlist/05j7NY1SwyJ5jKPj2s00I0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Feelin' Like](https://open.spotify.com/track/5Wll1i0Y8GGjyePcP83L3x) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [IN:VITE U](https://open.spotify.com/album/5vxZM8rFJiNvjtAThYnwek) | 2:47 | 2022-01-26 | 2022-03-10 |
 | [FEVER](https://open.spotify.com/track/0UzymivvUH5s8z4PeWZJaK) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 2:52 | 2021-12-13 | 2022-06-25 |
 | [Flip That](https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Summer Special \[Flip That\]](https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB) | 2:57 | 2022-06-27 | 2022-08-25 |
+| [FOCUS](https://open.spotify.com/track/7nj5G4aPUJD0TnNF6SqcrX) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Strange World](https://open.spotify.com/album/2eE6EDzzdWYQH6TfwGjz87) | 3:03 | 2022-09-02 |  |
 | [For You \(Holiday Remix\) \- Spotify Singles Holiday](https://open.spotify.com/track/7I4DnQPWhzZvK79px5UhT5) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Spotify Singles \- Holiday](https://open.spotify.com/album/5AVL4k3pesuk0jRkTeCOSm) | 3:31 | 2021-12-13 | 2021-12-30 |
 | [FOREVER 1](https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [FOREVER 1 \- The 7th Album](https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP) | 3:22 | 2022-08-05 |  |
 | [Future Perfect \(Pass the MIC\)](https://open.spotify.com/track/6PRy17C5LiiN7VCLS6IA98) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MANIFESTO : DAY 1](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) | 3:00 | 2022-07-06 |  |
@@ -113,7 +114,7 @@
 | [MY LOVE \(feat\. RAVI\)](https://open.spotify.com/track/7cbKVbe8nbPj0qtpkguN3N) | [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1), [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs) | [LOVE&LOVE](https://open.spotify.com/album/1PYXDudDPVlluVB6sv0aY8) | 3:25 | 2022-06-17 | 2022-07-14 |
 | [Nabillera](https://open.spotify.com/track/0m3BNGjvpYtxywepORwT6N) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Nabillera](https://open.spotify.com/album/7lmFcQr3449htbZzcWRzOL) | 2:48 | 2022-07-29 |  |
 | [NANANA](https://open.spotify.com/track/2tEMbypmvYhf84mzVbhxwZ) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [GOT7](https://open.spotify.com/album/3vIVsuFU7ZKCwKB2Yri8lM) | 3:07 | 2022-05-23 | 2022-07-21 |
-| [Need To Know](https://open.spotify.com/track/0CqZryIJnJhwCCnECIC7Lr) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Need To Know](https://open.spotify.com/album/4IGSbTfm3Xwmp8up7pOR3t) | 2:49 | 2022-07-13 |  |
+| [Need To Know](https://open.spotify.com/track/0CqZryIJnJhwCCnECIC7Lr) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Need To Know](https://open.spotify.com/album/4IGSbTfm3Xwmp8up7pOR3t) | 2:49 | 2022-07-13 | 2022-09-02 |
 | [Next Level](https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Next Level](https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N) | 3:41 | 2021-12-13 | 2022-07-02 |
 | [nostalgia](https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [nostalgia](https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG) | 3:16 | 2022-01-05 | 2022-02-17 |
 | [Nundongja](https://open.spotify.com/track/3YYUMVgLZblkHVnzOEPka7) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [Nundongja](https://open.spotify.com/album/2PTCsSugNnA0olmMfw7ScH) | 3:45 | 2022-01-05 | 2022-01-27 |

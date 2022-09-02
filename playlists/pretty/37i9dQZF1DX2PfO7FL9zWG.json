@@ -1,12 +1,12 @@
 {
   "description": "Revisit stand out songs from these singer/songwriters. Cover: Allison Russell",
-  "num_followers": 43720,
+  "num_followers": 43730,
   "original_name": "Folk Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODkzMDQzMCwwMDAwMDAwMDQ1MTY0YmUyZmM5YTJhMGI4NDI5NWFjMDM3ZjJjZWE1",
+  "snapshot_id": "MTY1ODkzMDQzMCwwMDAwMDAwMDM3MDg4NmJlZjQ5NDllNjhiNjU5ZTJmMGE4NjNlMWQx",
   "tracks": [
     {
       "added_at": "2022-07-27 14:00:29",
@@ -595,6 +595,22 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
+        "name": "Like a River",
+        "url": "https://open.spotify.com/album/3o8nivVQguilisc4zKinYI"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 215164,
+      "name": "Like a River",
+      "url": "https://open.spotify.com/track/0LqcdN6104AK55dUCiYF1a"
+    },
+    {
+      "added_at": "2022-07-27 14:00:29",
+      "album": {
         "name": "Shore",
         "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 256629,
       "name": "Sunday Funday",
       "url": "https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO"
-    },
-    {
-      "added_at": "2022-07-27 14:00:29",
-      "album": {
-        "name": "Like a River",
-        "url": "https://open.spotify.com/album/3o8nivVQguilisc4zKinYI"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        }
-      ],
-      "duration_ms": 215164,
-      "name": "Like a River",
-      "url": "https://open.spotify.com/track/0LqcdN6104AK55dUCiYF1a"
     },
     {
       "added_at": "2022-07-27 14:00:29",
@@ -859,6 +859,22 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
+        "name": "Cool Dry Place",
+        "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
+      },
+      "artists": [
+        {
+          "name": "Katy Kirby",
+          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
+        }
+      ],
+      "duration_ms": 159453,
+      "name": "Juniper",
+      "url": "https://open.spotify.com/track/7boY9U14Ss41yLp320uVGX"
+    },
+    {
+      "added_at": "2022-07-27 14:00:29",
+      "album": {
         "name": "A Pillar of Salt",
         "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 319053,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
-    },
-    {
-      "added_at": "2022-07-27 14:00:29",
-      "album": {
-        "name": "Cool Dry Place",
-        "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
-      },
-      "artists": [
-        {
-          "name": "Katy Kirby",
-          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
-        }
-      ],
-      "duration_ms": 159453,
-      "name": "Juniper",
-      "url": "https://open.spotify.com/track/7boY9U14Ss41yLp320uVGX"
     },
     {
       "added_at": "2022-07-27 14:00:29",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
-        "name": "Better Off",
-        "url": "https://open.spotify.com/album/6a9bsIUvtXmqj6HaEOIAq3"
+        "name": "Sidelines",
+        "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
       },
       "artists": [
         {
-          "name": "Sjowgren",
-          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
         }
       ],
-      "duration_ms": 195923,
-      "name": "Better Off",
-      "url": "https://open.spotify.com/track/2oBzsiZT8qmlovYS1FMf06"
+      "duration_ms": 196266,
+      "name": "Long Time",
+      "url": "https://open.spotify.com/track/33xLf3oPBqsQVtmnpXQRMj"
     },
     {
       "added_at": "2022-07-27 14:00:29",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
-        "name": "Sidelines",
-        "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/6a9bsIUvtXmqj6HaEOIAq3"
       },
       "artists": [
         {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+          "name": "Sjowgren",
+          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
         }
       ],
-      "duration_ms": 196266,
-      "name": "Long Time",
-      "url": "https://open.spotify.com/track/33xLf3oPBqsQVtmnpXQRMj"
+      "duration_ms": 195923,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/2oBzsiZT8qmlovYS1FMf06"
     },
     {
       "added_at": "2022-07-27 14:00:29",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
+        "name": "A Few More Hours at YYZ",
+        "url": "https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0"
+      },
+      "artists": [
+        {
+          "name": "Billy Raffoul",
+          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
+        }
+      ],
+      "duration_ms": 208297,
+      "name": "Dark Four Door",
+      "url": "https://open.spotify.com/track/6f9yc5iK8wQzaiK25gdua0"
+    },
+    {
+      "added_at": "2022-07-27 14:00:29",
+      "album": {
         "name": "Only Pieces of the Truth",
         "url": "https://open.spotify.com/album/5WTMX9SyPDigNcgewZGtLG"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 188043,
       "name": "Light Year (feat. Lennon Stella)",
       "url": "https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb"
-    },
-    {
-      "added_at": "2022-07-27 14:00:29",
-      "album": {
-        "name": "A Few More Hours at YYZ",
-        "url": "https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0"
-      },
-      "artists": [
-        {
-          "name": "Billy Raffoul",
-          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
-        }
-      ],
-      "duration_ms": 208297,
-      "name": "Dark Four Door",
-      "url": "https://open.spotify.com/track/6f9yc5iK8wQzaiK25gdua0"
     },
     {
       "added_at": "2022-07-27 14:00:29",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
-        "name": "Slow Tide",
-        "url": "https://open.spotify.com/album/1OUc76NQYG5Fb9gXH6G8TA"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        }
-      ],
-      "duration_ms": 191916,
-      "name": "Now You Don't",
-      "url": "https://open.spotify.com/track/2pWEUd5k9xIeMn4AMKM5CK"
-    },
-    {
-      "added_at": "2022-07-27 14:00:29",
-      "album": {
         "name": "You and Me for Now",
         "url": "https://open.spotify.com/album/5KPl7k36JzLxe4bisDG8S4"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 213229,
       "name": "New House",
       "url": "https://open.spotify.com/track/1wjekflX5IeRt4JhnF4vix"
+    },
+    {
+      "added_at": "2022-07-27 14:00:29",
+      "album": {
+        "name": "Slow Tide",
+        "url": "https://open.spotify.com/album/1OUc76NQYG5Fb9gXH6G8TA"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 191916,
+      "name": "Now You Don't",
+      "url": "https://open.spotify.com/track/2pWEUd5k9xIeMn4AMKM5CK"
     },
     {
       "added_at": "2022-07-27 14:00:29",

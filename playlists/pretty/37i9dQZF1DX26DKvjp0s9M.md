@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26DKvjp0s9M.md) - [plain]
 
 > those core tracks that stand will the test of time...\. Cover: Phoebe Bridgers
 
-[Spotify](https://open.spotify.com/user/spotify) - 638,189 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 638,997 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26DKvjp0s9M.md) - [plain]
 | 59 | [bad idea!](https://open.spotify.com/track/1M4Ud66z18wuIq3oOxqVHa) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [bad idea!](https://open.spotify.com/album/6riOnMD3YhF8kGpAXpxbdj) | 3:39 |
 | 60 | [Goodie Bag](https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Goodie Bag](https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R) | 2:26 |
 | 61 | [Sanctuary](https://open.spotify.com/track/5F1ZmucV0uJY14y2dYKePa) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm) | 3:00 |
-| 62 | [Chateau \(Feel Alright\)](https://open.spotify.com/track/41mclLjggl2nmbYpRisKrh) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/4v3LUnHL01HzJC6Jol6FCv) | 4:32 |
-| 63 | [Feels Like We Only Go Backwards](https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:12 |
+| 62 | [Feels Like We Only Go Backwards](https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:12 |
+| 63 | [Chateau \(Feel Alright\)](https://open.spotify.com/track/41mclLjggl2nmbYpRisKrh) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/4v3LUnHL01HzJC6Jol6FCv) | 4:32 |
 | 64 | [Loving Is Easy \(feat\. Benny Sings\)](https://open.spotify.com/track/5EYi2rH4LYs6M21ZLOyQTx) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Loving Is Easy \(feat\. Benny Sings\)](https://open.spotify.com/album/4D6BtgzCwuJx9omikqA8Rg) | 2:35 |
 | 65 | [Sunsetz](https://open.spotify.com/track/69UqtTHfUKAJweQwEStRzC) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 3:34 |
 | 66 | [What Once Was](https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 4:15 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26DKvjp0s9M.md) - [plain]
 | 88 | [affection](https://open.spotify.com/track/2lTtnKQgjbrBA1qnOFhBkP) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [we just need some time together](https://open.spotify.com/album/0S4Y2Jnwf3tjQRlcKTsGUE) | 3:55 |
 | 89 | [The Funeral](https://open.spotify.com/track/5lRzWDEe7UuedU2QPsFg0K) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Everything All The Time](https://open.spotify.com/album/7ik4rjxOnmwnAWWzjj5ni3) | 5:22 |
 | 90 | [Kyoto](https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:04 |
-| 91 | [Sunset Lover](https://open.spotify.com/track/0hNduWmlWmEmuwEFcYvRu1) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [Sunset Lover](https://open.spotify.com/album/4Ky2PpWb26OxNabAMffyBw) | 3:57 |
-| 92 | [Beige](https://open.spotify.com/track/7uYQELhe7g6QLIzZDOlhbW) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/7soDnur2TfBoEJETTCws91) | 3:24 |
-| 93 | [Pain](https://open.spotify.com/track/7CIERzyqIwLVKGp00YbHRO) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Pain](https://open.spotify.com/album/6N4ySRXQsXl6g9mCr7QPFx) | 1:38 |
-| 94 | [Two Weeks](https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk) | 4:03 |
+| 91 | [Beige](https://open.spotify.com/track/7uYQELhe7g6QLIzZDOlhbW) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/7soDnur2TfBoEJETTCws91) | 3:24 |
+| 92 | [Sunset Lover](https://open.spotify.com/track/0hNduWmlWmEmuwEFcYvRu1) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [Sunset Lover](https://open.spotify.com/album/4Ky2PpWb26OxNabAMffyBw) | 3:57 |
+| 93 | [Two Weeks](https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk) | 4:03 |
+| 94 | [Pain](https://open.spotify.com/track/7CIERzyqIwLVKGp00YbHRO) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Pain](https://open.spotify.com/album/6N4ySRXQsXl6g9mCr7QPFx) | 1:38 |
 | 95 | [This Must Be the Place \(Naive Melody\) \- 2005 Remaster](https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Speaking in Tongues \(Deluxe Version\)](https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH) | 4:56 |
-| 96 | [Meteor Shower](https://open.spotify.com/track/6A2itXgDf96XHp9qR6oyPN) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Cavetown](https://open.spotify.com/album/0ZyaO9oGhq7blYJzo3l65t) | 4:25 |
-| 97 | [Supercut](https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 4:37 |
+| 96 | [Supercut](https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 4:37 |
+| 97 | [Meteor Shower](https://open.spotify.com/track/6A2itXgDf96XHp9qR6oyPN) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Cavetown](https://open.spotify.com/album/0ZyaO9oGhq7blYJzo3l65t) | 4:25 |
 | 98 | [The Difference](https://open.spotify.com/track/4nlvKIIetOWGIMyhjQXgOZ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [The Difference](https://open.spotify.com/album/3QgFzksD4J43TnGIJOOrRV) | 2:19 |
 | 99 | [Little Lion Man](https://open.spotify.com/track/6JnufVNLIO5F5Lk4sEVLeI) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo) | 4:06 |
 | 100 | [Moon Song](https://open.spotify.com/track/46RNrAkGsqWTDrv2ZPOAbx) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 4:37 |
 
-Snapshot ID: `MTY2MTE4NTIxNywwMDAwMDAwMGU2MjczYjJjMGJkM2FmMGFkZWFkMjZmNDI2ZDJmNjU2`
+Snapshot ID: `MTY2MTE4NTIxNywwMDAwMDAwMDhjYjJjNzk5NWZkNDVlMjJkNTYwOTIyNjkxY2VmYjEy`

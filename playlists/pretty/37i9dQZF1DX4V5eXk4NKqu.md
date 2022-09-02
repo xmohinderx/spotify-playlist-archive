@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 
 > Best Latin Indie tracks right now\. Cover: Katzú Oso
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,242 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,226 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 24 | [Solo Tú](https://open.spotify.com/track/6YbMkGhGkadLWnt2lIuHSz) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Solo Tú](https://open.spotify.com/album/2iOKZuLxu60BM5mMwyUFWn) | 4:41 |
 | 25 | [cómo acaba](https://open.spotify.com/track/0wYkvjpi6tOpJfulqKSOD7) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [cómo acaba](https://open.spotify.com/album/1dCY4CPTeDesR7wjISYMbw) | 3:44 |
 | 26 | [Don't Care](https://open.spotify.com/track/3gAxhEtNqFlCLvN6DDKdth) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [DUALITY](https://open.spotify.com/album/1mHk73bDEklzG02PtK4lv4) | 3:16 |
-| 27 | [nadie me cae bien](https://open.spotify.com/track/35bu49h6EEYptKobXmBQma) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [nadie me cae bien](https://open.spotify.com/album/5xvQJ17xAeaFUV2OApBBea) | 3:48 |
-| 28 | [Acércate](https://open.spotify.com/track/26lQpQ4qsnVrH6QjDwrzUZ) | [Beruti](https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI), [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Acércate](https://open.spotify.com/album/5d8ygrapgzsFXavPw9Snkl) | 2:47 |
+| 27 | [Acércate](https://open.spotify.com/track/26lQpQ4qsnVrH6QjDwrzUZ) | [Beruti](https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI), [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Acércate](https://open.spotify.com/album/5d8ygrapgzsFXavPw9Snkl) | 2:47 |
+| 28 | [nadie me cae bien](https://open.spotify.com/track/35bu49h6EEYptKobXmBQma) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [nadie me cae bien](https://open.spotify.com/album/5xvQJ17xAeaFUV2OApBBea) | 3:48 |
 | 29 | [Universe](https://open.spotify.com/track/5S5S5oiwdGS4ppgXmF2w0V) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Garden of Lucid](https://open.spotify.com/album/1ysIsiNZ4iKrrXjVu85wGp) | 3:30 |
 | 30 | [Ser De Ti](https://open.spotify.com/track/2E7zPND4kJd1y3KSWez0ET) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/34e3bWZtXnZl19dJYOx6zE) | 3:27 |
 | 31 | [Un Millón](https://open.spotify.com/track/4yZq5QgUhKq0bO6ExHF2a0) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Un Millón](https://open.spotify.com/album/33sKQam5Pn9GN0Dwu5Wa9i) | 2:47 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 37 | [Lonely](https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Lonely](https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC) | 3:33 |
 | 38 | [Night Moves](https://open.spotify.com/track/1D6Slhg7MMnraZpIEE8pbb) | [Michi](https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P) | [Night Moves](https://open.spotify.com/album/2bvow9uJrep57G06zuoLjc) | 3:19 |
 | 39 | [Se Apagó](https://open.spotify.com/track/7w9UoMZ5Jk22dFdNHi7pBU) | [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex) | [Se Apagó](https://open.spotify.com/album/19wVnNE8bc13xCCRTVqECe) | 2:21 |
-| 40 | [Reflexión del Pasto](https://open.spotify.com/track/1tzTiU8wtxHvZ3YtU0cjEM) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Reflexión del Pasto](https://open.spotify.com/album/28GYUNMKd575GwnofewUEI) | 1:46 |
-| 41 | [There Must Be a Song Like You](https://open.spotify.com/track/0686tzFJ79mRZPApYYLiMA) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Far In](https://open.spotify.com/album/6VuufjwylS8CGaUcq3Vs4e) | 4:50 |
+| 40 | [There Must Be a Song Like You](https://open.spotify.com/track/0686tzFJ79mRZPApYYLiMA) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Far In](https://open.spotify.com/album/6VuufjwylS8CGaUcq3Vs4e) | 4:50 |
+| 41 | [Reflexión del Pasto](https://open.spotify.com/track/1tzTiU8wtxHvZ3YtU0cjEM) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Reflexión del Pasto](https://open.spotify.com/album/28GYUNMKd575GwnofewUEI) | 1:46 |
 | 42 | [Everybody Wants to Rule the World](https://open.spotify.com/track/3cChN0lUEGVlJSGcMKyAsx) | [Making Movies](https://open.spotify.com/artist/1wFpAE8HCGoqaLjzRO51w9) | [Everybody Wants to Rule the World](https://open.spotify.com/album/4N1Ji6AB9p3FW2xY5hDkRk) | 3:58 |
 | 43 | [Oscuridad](https://open.spotify.com/track/5i9XNqv8ay4PXRBNxfwdfZ) | [Jasper](https://open.spotify.com/artist/5H9fLAWx4MHfn3fHeczaAm) | [Oscuridad](https://open.spotify.com/album/1ArGHztaWAQKgVKivQdAyG) | 3:29 |
 | 44 | [Someone](https://open.spotify.com/track/15M7rUKWxfg4YZwczUhlkb) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Agüita](https://open.spotify.com/album/51kUBshxb3ZJGICNNwJUcH) | 3:41 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 67 | [Ángel](https://open.spotify.com/track/30Kue3jRZhbA8137mDXp31) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Ángel](https://open.spotify.com/album/38ua5FjwtylCAwx5GJgMeI) | 2:58 |
 | 68 | [La Naranja](https://open.spotify.com/track/5iWThcuhNojfn2MStjz5Tq) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Far In](https://open.spotify.com/album/6VuufjwylS8CGaUcq3Vs4e) | 5:30 |
 | 69 | [Electric Soul](https://open.spotify.com/track/4YhqlvorKX7kd9pHLLfWz1) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Mettavolution](https://open.spotify.com/album/14PfZxWDjz2M104JSlhV5Q) | 3:58 |
-| 70 | [Matando](https://open.spotify.com/track/7pfRPLlYC0FKNT80CA2Cyv) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [La Linda](https://open.spotify.com/album/05ZdcQ2F8wSobCk3ypo15O) | 3:35 |
-| 71 | [FRESH](https://open.spotify.com/track/51O1GVKmV5xJhemFjotvSV) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [MIMO](https://open.spotify.com/album/3mx6ZABLIkj5RjODUtQY21) | 2:31 |
+| 70 | [FRESH](https://open.spotify.com/track/51O1GVKmV5xJhemFjotvSV) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [MIMO](https://open.spotify.com/album/3mx6ZABLIkj5RjODUtQY21) | 2:31 |
+| 71 | [Matando](https://open.spotify.com/track/7pfRPLlYC0FKNT80CA2Cyv) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [La Linda](https://open.spotify.com/album/05ZdcQ2F8wSobCk3ypo15O) | 3:35 |
 | 72 | [Tired of Being Myself](https://open.spotify.com/track/2kHcoV7wxu9TbkWszjjqtd) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [And The World Will Turn](https://open.spotify.com/album/2Nqo50XH25HzSnhX0NilwL) | 3:41 |
 | 73 | [Círculos](https://open.spotify.com/track/4q1ngjb83YMWqCyBWwgssI) | [Marem Ladson](https://open.spotify.com/artist/2Fzkri1PNqc9DsXUbRrNa0) | [Azul](https://open.spotify.com/album/4E3B6Ke1n9sna4pt84gpnd) | 3:12 |
 | 74 | [Te Espero Aquí](https://open.spotify.com/track/1xvQsgUbvz53trUe3xaIdm) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Gardenia](https://open.spotify.com/album/2YOhfUkhFT2uNis4xMDPFe) | 4:11 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 93 | [Musa introvertida](https://open.spotify.com/track/7mH6ndKQtl7Pk7VaNwBfxt) | [Sofía Paola](https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx) | [Limbo Habitual, Vol\. I](https://open.spotify.com/album/4Moq6bYqlcEmQ4VFwg4A01) | 3:35 |
 | 94 | [a lifetime with you](https://open.spotify.com/track/4TpbCnB3xgDYm2uhGLuQwV) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [CARISMA](https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ) | 3:07 |
 | 95 | [That's Playa](https://open.spotify.com/track/7dGHfcGKv5BC7ooYkqZPxe) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Verano Panorámico](https://open.spotify.com/album/1dxlZvX4EbrdzNUdnwwR2N) | 2:07 |
-| 96 | [Flores](https://open.spotify.com/track/5fi7LBIH0j7ZZlHn7Yjrmo) | [Werio](https://open.spotify.com/artist/68C2TcobW47veMxXfdGGOm) | [Flores](https://open.spotify.com/album/6AEvvF0EnuyBbehpsOYUi6) | 3:22 |
-| 97 | [Week 4](https://open.spotify.com/track/1FP5gWiRMjw3vfvvbf241v) | [Marrón](https://open.spotify.com/artist/1uC16BtFc6ihhylNzDo4x5) | [Month One](https://open.spotify.com/album/76wb7lJiY2I3doiGroK4YE) | 5:10 |
+| 96 | [Week 4](https://open.spotify.com/track/1FP5gWiRMjw3vfvvbf241v) | [Marrón](https://open.spotify.com/artist/1uC16BtFc6ihhylNzDo4x5) | [Month One](https://open.spotify.com/album/76wb7lJiY2I3doiGroK4YE) | 5:10 |
+| 97 | [Flores](https://open.spotify.com/track/5fi7LBIH0j7ZZlHn7Yjrmo) | [Werio](https://open.spotify.com/artist/68C2TcobW47veMxXfdGGOm) | [Flores](https://open.spotify.com/album/6AEvvF0EnuyBbehpsOYUi6) | 3:22 |
 | 98 | [It Don't Hinder Me](https://open.spotify.com/track/20NcNGiCS2ifsMOBXH7GEr) | [Angélica Garcia](https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG) | [Cha Cha Palace](https://open.spotify.com/album/4MvRbM7CB8o7mxMyNkPOIh) | 4:19 |
 | 99 | [CAVIAR](https://open.spotify.com/track/3988SQ0XqHIaDZgd66ZZIl) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [CAVIAR](https://open.spotify.com/album/4QwaInIcQrNKFIQmVDP9Ue) | 3:01 |
 | 100 | [Secuestro Al Corazón](https://open.spotify.com/track/17iFYr5wL9jN23PZCitJmi) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [Secuestro Al Corazón](https://open.spotify.com/album/6xqaapMrs0H4rFEuB5Ai1W) | 3:13 |
 
-Snapshot ID: `MTY2MDA1NDAzNiwwMDAwMDAwMDMwNzJmODE4YzIwNWMzY2Y1YzZkNjU1ZjQ5YmRjYzFm`
+Snapshot ID: `MTY2MDA1NDAzNiwwMDAwMDAwMGFiZjAwMDRlZDc3MDk1MDRjOTgwZDA5YWM5MDFlZDVj`

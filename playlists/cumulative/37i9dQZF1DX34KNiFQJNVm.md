@@ -4,7 +4,7 @@
 
 > Os lançamentos dessa semana incluem LUDMILLA, Anitta, Alok e mais!
 
-3,012 songs - 6 day 11 hr 8 min - [published](https://open.spotify.com/playlist/4DU3FtwcihH5GqPs3OLyVO)
+3,013 songs - 6 day 11 hr 10 min - [published](https://open.spotify.com/playlist/4DU3FtwcihH5GqPs3OLyVO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2987,7 +2987,8 @@
 | [You've Got To Let Go If You Want To Be Free](https://open.spotify.com/track/5kVXjAxYDkN57tZQi0JKya) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [You've Got To Let Go If You Want To Be Free](https://open.spotify.com/album/7nJFzH65HZDY5qeRwdo421) | 4:13 | 2022-01-28 | 2022-02-05 |
 | [Your Arms](https://open.spotify.com/track/29HyihVzTQB5eURYbnKANR) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [DEE:VISION](https://open.spotify.com/artist/3m69jLeg7uNGZkiAd27oEc), [Run Rivers](https://open.spotify.com/artist/2VxxKYEtuy6JnDDB2hpoOH) | [Your Arms](https://open.spotify.com/album/2kbpMgmj4eUCBuV6dbeLW1) | 3:30 | 2022-01-14 | 2022-01-22 |
 | [Yours](https://open.spotify.com/track/7BpqydHSxMviDR0DNTne6J) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Yours](https://open.spotify.com/album/2i4vxgeB2Sn97KeBs2vYtO) | 3:24 | 2022-05-20 | 2022-05-28 |
-| [YUKON \(INTERLUDE\)](https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi) | 2:21 | 2022-08-26 |  |
+| [YUKON \(INTERLUDE\)](https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi) | 2:21 | 2022-08-26 | 2022-09-02 |
+| [YUKON \(INTERLUDE\)](https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/0GxWXE6ltKk4Gx3WyWLLrW) | 2:21 | 2022-08-26 |  |
 | [Yummy Yummy Love](https://open.spotify.com/track/4yTvTZ68CSpqV1T6AuGikB) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Yummy Yummy Love](https://open.spotify.com/album/2r35RHvEtBjgKiONdItRR5) | 3:19 | 2022-01-14 | 2022-01-22 |
 | [Z1000](https://open.spotify.com/track/6RJsM1UVeFtlb4uWXLG37T) | [Anezzi](https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Z1000](https://open.spotify.com/album/1CJTteKus929ENQwMGSMPz) | 2:52 | 2022-08-26 |  |
 | [Zatoichi \[Feat\. slowthai\]](https://open.spotify.com/track/5s9d3JiqxsuAkuDTDStBh6) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Zatoichi \[Feat\. slowthai\]](https://open.spotify.com/album/4weY0bnYOJU2b9ras4JFbZ) | 3:30 | 2022-02-25 | 2022-03-05 |

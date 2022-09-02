@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 70s rock!
 
-767 songs - 2 day 5 hr 54 min - [published](https://open.spotify.com/playlist/0MQTjD16oHAcLkC8Pt5QWL)
+768 songs - 2 day 5 hr 57 min - [published](https://open.spotify.com/playlist/0MQTjD16oHAcLkC8Pt5QWL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,8 @@
 | [Cold Gin](https://open.spotify.com/track/23mkKrQmbtEARwmO846yj8) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Kiss](https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD) | 4:22 | 2022-01-05 |  |
 | [Come To Poppa](https://open.spotify.com/track/0IHpdWuBRfCMgQxEF2EnDF) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Night Moves](https://open.spotify.com/album/5QkOpsZupEPLq186YOrBNe) | 3:09 | 2022-01-05 | 2022-08-19 |
 | [Coming Down Again \- Remastered](https://open.spotify.com/track/7wvv3OLPrX0pENjcDDLLbS) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Goats Head Soup \(Remastered 2009\)](https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9) | 5:54 | 2022-01-05 | 2022-07-29 |
-| [Cool For Cats](https://open.spotify.com/track/1UOlzDCuFcjBbfPfVzb4yJ) | [Squeeze](https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua) | [Spot the Difference \(Deluxe Edition\)](https://open.spotify.com/album/2dk3IM7YsoHVeeeGpk8Uzx) | 3:10 | 2022-01-05 |  |
+| [Cool For Cats](https://open.spotify.com/track/1UOlzDCuFcjBbfPfVzb4yJ) | [Squeeze](https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua) | [Spot the Difference \(Deluxe Edition\)](https://open.spotify.com/album/2dk3IM7YsoHVeeeGpk8Uzx) | 3:10 | 2022-01-05 | 2022-09-02 |
+| [Cool For Cats](https://open.spotify.com/track/7zWE4XT8ATao3xxdHtKly4) | [Squeeze](https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua) | [Spot the Difference \(Deluxe Edition\)](https://open.spotify.com/album/3oWgf409Wl8ToSNB1ilzUg) | 3:10 | 2022-01-05 |  |
 | [Cosmik Debris](https://open.spotify.com/track/6pqWrRF9K2PHpBmmRSIte4) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Apostrophe\('\)](https://open.spotify.com/album/3EbtMJsHbspjhN6Xd4plIu) | 4:15 | 2022-01-05 |  |
 | [Cowboy Song](https://open.spotify.com/track/2H82AQCQNc4TH2yVcYKIID) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Jailbreak \(Deluxe Edition\)](https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2) | 5:14 | 2022-01-05 |  |
 | [Crazy Love](https://open.spotify.com/track/4l6uTQ4A2eWZrOzjgm1bey) | [Poco](https://open.spotify.com/artist/0fyqyjD7pbaVzbu94ylWQR) | [Legend](https://open.spotify.com/album/5pC3jEw11eiVY5Vi9z1ooi) | 2:56 | 2022-01-05 |  |
@@ -225,7 +226,7 @@
 | [Frankenstein](https://open.spotify.com/track/4g8ZUOxhPMXN5wVSP7gCau) | [The Edgar Winter Group](https://open.spotify.com/artist/7j9PMegEgVN1fNp8NZXNCI) | [They Only Come Out At Night](https://open.spotify.com/album/7j6HilCQwlaGWopfoqz7ON) | 4:44 | 2022-01-05 | 2022-07-29 |
 | [Franklin's Tower \- 2013 Remaster](https://open.spotify.com/track/3PgIhd4XmwtmV2XGU5qhzZ) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Blues for Allah \(2013 Remaster\)](https://open.spotify.com/album/5BwjVdVJ4aOmbIYomznfCv) | 4:34 | 2022-01-05 |  |
 | [Free Money](https://open.spotify.com/track/1wP1qnWy0cZWxnbWkzf9La) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(Legacy Edition\)](https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6) | 3:52 | 2022-01-10 |  |
-| [Free Wheelin](https://open.spotify.com/track/1PXG5cwmM74RnNMhL2F8Zv) | [Bachman\-Turner Overdrive](https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5) | [Not Fragile](https://open.spotify.com/album/3TtCMt4XLddj9PQeVBfsK1) | 3:44 | 2022-01-05 |  |
+| [Free Wheelin](https://open.spotify.com/track/1PXG5cwmM74RnNMhL2F8Zv) | [Bachman\-Turner Overdrive](https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5) | [Not Fragile](https://open.spotify.com/album/3TtCMt4XLddj9PQeVBfsK1) | 3:44 | 2022-01-05 | 2022-09-02 |
 | [Free\-For\-All](https://open.spotify.com/track/7kleAV1lfwHi3XNsLaAKHR) | [Ted Nugent](https://open.spotify.com/artist/21ysNsPzHdqYN2fQ75ZswG) | [Free\-For\-All](https://open.spotify.com/album/5B6isdRITcRck28rHeamXE) | 3:21 | 2022-01-05 |  |
 | [Freedom](https://open.spotify.com/track/7emVwhF4OMemAT65nbpuZO) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [The Cry of Love](https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL) | 3:26 | 2022-01-05 |  |
 | [Future Games](https://open.spotify.com/track/021JldNpXGATNSC69edcBT) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Future Games](https://open.spotify.com/album/0mrtsupVI772qJdmW17yP0) | 8:19 | 2022-01-05 |  |
@@ -689,7 +690,7 @@
 | [The Wild One, Forever](https://open.spotify.com/track/5ZdZppoiqEJsgjYXnJeAKA) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty & The Heartbreakers](https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi) | 3:03 | 2022-01-05 |  |
 | [Then Came the Last Days of May](https://open.spotify.com/track/60TYdVs6TWIsAJ1MPRdv59) | [Blue Öyster Cult](https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2) | [Blue Oyster Cult](https://open.spotify.com/album/6xxUsZyckaV0shjOJ0cVpf) | 3:30 | 2022-01-05 |  |
 | [Thick as a Brick \(Pt\. I\) \- 1997 Remaster](https://open.spotify.com/track/0eufeeCADKlpxLA7HATWBW) | [Jethro Tull](https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R) | [Thick as a Brick](https://open.spotify.com/album/1ZxChDw03SUFGUz0RC8A8M) | 22:40 | 2022-01-05 |  |
-| [Things Goin' On](https://open.spotify.com/track/3ncge3MnlzfSvV7AQrbtTG) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Pronounced 'Leh\-'Nérd 'Skin\-'Nérd \(Expanded Edition\)](https://open.spotify.com/album/3THuBNp86ScbTXwpTmAbdw) | 4:59 | 2022-01-05 | 2022-08-30 |
+| [Things Goin' On](https://open.spotify.com/track/3ncge3MnlzfSvV7AQrbtTG) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Pronounced 'Leh\-'Nérd 'Skin\-'Nérd \(Expanded Edition\)](https://open.spotify.com/album/3THuBNp86ScbTXwpTmAbdw) | 4:59 | 2022-01-05 |  |
 | [Things I Could Be](https://open.spotify.com/track/3PC3bIYidHlGiNblUzwpyp) | [James Gang](https://open.spotify.com/artist/5hfOHpGMsi8O3DA0ROLGqF) | [Thirds](https://open.spotify.com/album/0QoD6z28TltvI4pVY4bEGl) | 4:18 | 2022-01-05 | 2022-07-28 |
 | [This Flight Tonight](https://open.spotify.com/track/2oMCe4LZnMhuKrUig6rFKl) | [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [Classics Volume 16](https://open.spotify.com/album/5AI2JZ9ONeFfYzqaIxH226) | 3:22 | 2022-01-05 |  |
 | [This Flight Tonight \- 2010 \- Remaster](https://open.spotify.com/track/0pil72Ler9FDlYA9KY8QRr) | [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [Loud 'N' Proud](https://open.spotify.com/album/6Lmw5NIOOsTveqDenz7w8u) | 3:24 | 2022-01-05 | 2022-07-29 |

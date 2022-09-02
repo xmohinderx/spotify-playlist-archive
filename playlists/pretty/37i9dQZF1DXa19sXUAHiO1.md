@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa19sXUAHiO1.md) - [plain]
 
 > A classic mix of pop, rock and folk hits from decades past.
 
-[Spotify](https://open.spotify.com/user/spotify) - 870,487 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 870,584 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa19sXUAHiO1.md) - [plain]
 | 2 | [Brown Eyed Girl](https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Blowin' Your Mind!](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) | 3:03 |
 | 3 | [Uptown Girl](https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [An Innocent Man](https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc) | 3:17 |
 | 4 | [Go Your Own Way \- 2004 Remaster](https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:43 |
-| 5 | [American Pie](https://open.spotify.com/track/1fDsrQ23eTAVFElUMaf38X) | [Don McLean](https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8) | [American Pie](https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS) | 8:36 |
-| 6 | [All Along the Watchtower](https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 4:00 |
+| 5 | [All Along the Watchtower](https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 4:00 |
+| 6 | [American Pie](https://open.spotify.com/track/1fDsrQ23eTAVFElUMaf38X) | [Don McLean](https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8) | [American Pie](https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS) | 8:36 |
 | 7 | [Gimme Shelter](https://open.spotify.com/track/6H3kDe7CGoWYBabAeVWGiD) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed](https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy) | 4:30 |
 | 8 | [A Horse with No Name](https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo), [George Martin](https://open.spotify.com/artist/0tcbedGX7n5UHrMhVsGmIU) | [America](https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ) | 4:12 |
 | 9 | [Mrs\. Robinson \- From "The Graduate" Soundtrack](https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 4:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa19sXUAHiO1.md) - [plain]
 | 49 | [When Will I Be Loved](https://open.spotify.com/track/5jPPjNMIi1rD6BvQqxhJh5) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Heart Like A Wheel](https://open.spotify.com/album/7upKDUGJUjsvfIe6vuVB0b) | 2:04 |
 | 50 | [Cracklin' Rosie \- Single Version](https://open.spotify.com/track/5pkd9ib1RgbkAd1R9bIOCa) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [Tap Root Manuscript](https://open.spotify.com/album/0WGnkp386fyXfTvKwTIVRO) | 2:59 |
 
-Snapshot ID: `MTY1NzA0ODgwOSwwMDAwMDAwMDNkMmU2N2I4Zjc4NDU2NjE0YTBjZjUyNGQ0ZWU4YWIy`
+Snapshot ID: `MTY1NzA0ODgwOSwwMDAwMDAwMDNkYWU2MjYwOTFjZTY5MTgxNmE1NmJhZjA2YmEwNDZl`

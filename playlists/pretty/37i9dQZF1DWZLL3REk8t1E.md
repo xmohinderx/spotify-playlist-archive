@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLL3REk8t1E.md) - [plain]
 
 > ¡A calentar garganta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,078,614 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,078,802 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLL3REk8t1E.md) - [plain]
 | 72 | [A Través Del Vaso](https://open.spotify.com/track/1uqjLVaSyTkdDvfGAmXrHo) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [A Través Del Vaso](https://open.spotify.com/album/27hMg5MlBaww37hBPzS0ot) | 3:00 |
 | 73 | [Aunque Ahora Estés Con Él](https://open.spotify.com/track/49ItgqFP5shdUdK9ggonW0) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Aunque Ahora Estés Con Él](https://open.spotify.com/album/7qS6xf08vzZcHRgwnQsGRP) | 3:34 |
 | 74 | [Mi Enemigo El Amor](https://open.spotify.com/track/3V5mrjHNr7VFhcUJ5oh45V) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [El Vagabundo Que Te Ama](https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs) | 3:54 |
-| 75 | [El Rey De Mil Coronas \- Live](https://open.spotify.com/track/1c0i26VMuRPQotPKBDfnzd) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Desvelada Con Banda y Mariachi](https://open.spotify.com/album/4XbELhyxUc6LUWu3sewRnf) | 2:27 |
-| 76 | [Ya Es Muy Tarde](https://open.spotify.com/track/47ehW8KNY6XhEtwMYAY0br) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Colección Privada "Las 20 Exclusivas"](https://open.spotify.com/album/4hueGGPMBXDsGn9Zjv7uvB) | 3:01 |
+| 75 | [Ya Es Muy Tarde](https://open.spotify.com/track/47ehW8KNY6XhEtwMYAY0br) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Colección Privada "Las 20 Exclusivas"](https://open.spotify.com/album/4hueGGPMBXDsGn9Zjv7uvB) | 3:01 |
+| 76 | [El Rey De Mil Coronas \- Live](https://open.spotify.com/track/1c0i26VMuRPQotPKBDfnzd) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Desvelada Con Banda y Mariachi](https://open.spotify.com/album/4XbELhyxUc6LUWu3sewRnf) | 2:27 |
 | 77 | [Caballero](https://open.spotify.com/track/5DL6BDuqhnQw8HfIvUYkm9) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Caballero](https://open.spotify.com/album/0hfscUH57noj17kB2Aun2C) | 3:48 |
 | 78 | [Tragos Amargos](https://open.spotify.com/track/3hqlTqu571M1MqRWX6ZX0x) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Tragos Amargos](https://open.spotify.com/album/3bY0J2yoFogW28oX2mwQyo) | 2:41 |
 | 79 | [Si Nos Dejan \- En Vivo](https://open.spotify.com/track/7nAvryV9PVCt9PQGPx7I0z) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [El Concierto](https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI) | 2:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLL3REk8t1E.md) - [plain]
 | 99 | [La Reina](https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [La Fuerza](https://open.spotify.com/album/10g6da1CbqB78EddjRvJK5) | 3:48 |
 | 100 | [Ya No Quiero Andar Contigo](https://open.spotify.com/track/00XB6UnshchPDNdCvXzokD) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Ya No Quiero Andar Contigo](https://open.spotify.com/album/00xw9cwU9fJbQKQrCHYDJI) | 3:32 |
 
-Snapshot ID: `MTY1OTU1MzE2NiwwMDAwMDAwMDVlNTg1OTIwOTE1YWQ0OWI0NGI4N2RhNjA2OGI4NjJl`
+Snapshot ID: `MTY1OTU1MzE2NiwwMDAwMDAwMGY3NmE4NzFjNmU2YmNiNjU0NzgwODZjNGUyMmU1ZDRi`

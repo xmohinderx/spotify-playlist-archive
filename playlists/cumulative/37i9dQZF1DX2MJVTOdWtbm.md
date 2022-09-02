@@ -4,7 +4,7 @@
 
 > Fresh R&B Latin tracks, solo lo nuevo del R&B Latino\.  Cover: Destiny Rogers
 
-163 songs - 8 hr 41 min - [published](https://open.spotify.com/playlist/6BABfI7FRig6PawzmBqz25)
+164 songs - 8 hr 43 min - [published](https://open.spotify.com/playlist/6BABfI7FRig6PawzmBqz25)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Cerezos II](https://open.spotify.com/track/2yw2lAqQveFFWzr8Bu6uHG) | [Sara Ontaneda](https://open.spotify.com/artist/3gNLzb7aAJ0ZfUkyEvomsC) | [Experimento](https://open.spotify.com/album/74gTwPmW6qHE5TpKh5kPud) | 4:01 | 2022-02-11 |  |
 | [Cerquita del Mar](https://open.spotify.com/track/5l6VAepfKDFDa2sR0fAELo) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Cerquita del Mar](https://open.spotify.com/album/5GouiabFEFinoSTOy0DqQM) | 3:21 | 2022-08-05 |  |
 | [Chimbita](https://open.spotify.com/track/1s8LnjztT2IIxezpn0JP7H) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [Chimbita](https://open.spotify.com/album/4q0baF6ACF19h9lFRz3Dit) | 2:45 | 2022-08-05 |  |
+| [Chiquita](https://open.spotify.com/track/4za1MD83DGTxNnmsNlVmy7) | [Taylor DeBlock](https://open.spotify.com/artist/3LGMSoiXzbb7rX5ctDXFrD) | [Chiquita](https://open.spotify.com/album/1xERT4eWPhXVdE1SI1Wq7l) | 2:29 | 2022-08-17 |  |
 | [Chiquita](https://open.spotify.com/track/7ACjdrdU2NaEq8s740awuq) | [Taylor DeBlock](https://open.spotify.com/artist/3LGMSoiXzbb7rX5ctDXFrD) | [Chiquita](https://open.spotify.com/album/57EgKo9V4vRdOSNaiBEfCv) | 2:29 | 2022-02-11 | 2022-08-18 |
 | [CINCO](https://open.spotify.com/track/4rogcVulmlEmSi08u3VWc8) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn) | [5](https://open.spotify.com/album/158sVr4HeR7ukWJMDGmdFw) | 3:27 | 2022-03-11 | 2022-05-07 |
 | [Cliché](https://open.spotify.com/track/6q5eVWbNaW19NZWNeLqjyM) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH) | [Cliché](https://open.spotify.com/album/0l5ayQ0P7lUKSidsIJyp7T) | 2:53 | 2022-02-11 | 2022-07-29 |
@@ -142,7 +143,7 @@
 | [Si Fuera Cierto](https://open.spotify.com/track/0rtiIgxtRlZtqcQmyFJdxr) | [Sofía Correa](https://open.spotify.com/artist/1bVSA9IM2PsnHzY7j3mG7h) | [Si Fuera Cierto](https://open.spotify.com/album/0ZSJprSagUbmmhc8UpAr3P) | 3:01 | 2022-02-11 | 2022-07-26 |
 | [Si Tu Quieres](https://open.spotify.com/track/3yC4gzNRrycuufTcRPSRx2) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [Si Tu Quieres](https://open.spotify.com/album/6uRf20wqSSfYmjwSC6wuYT) | 2:49 | 2022-02-11 | 2022-05-20 |
 | [Sin Mí](https://open.spotify.com/track/5aFg2kDnb52QyvoMD35c2o) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Metadona](https://open.spotify.com/album/5GXTM6c57KdkBZR6Jt85IO) | 3:33 | 2022-02-11 |  |
-| [SLOW](https://open.spotify.com/track/64HetK6UsMjOxAZGedxGpU) | [Taylor DeBlock](https://open.spotify.com/artist/3LGMSoiXzbb7rX5ctDXFrD) | [MANQUE](https://open.spotify.com/album/18ZdVMvxaRkcqy1mBvNRlY) | 2:53 | 2022-02-11 |  |
+| [SLOW](https://open.spotify.com/track/64HetK6UsMjOxAZGedxGpU) | [Taylor DeBlock](https://open.spotify.com/artist/3LGMSoiXzbb7rX5ctDXFrD) | [MANQUE](https://open.spotify.com/album/18ZdVMvxaRkcqy1mBvNRlY) | 2:53 | 2022-02-11 | 2022-09-02 |
 | [Sobrenatural](https://open.spotify.com/track/66La9NfMHL7hh34uj9iVeS) | [Fer Altuzar](https://open.spotify.com/artist/4swxZHw0mYIp39LbbkQPTL) | [Sobrenatural](https://open.spotify.com/album/3h8wbkxQjCDliRvRbWGPFs) | 4:06 | 2022-02-11 |  |
 | [sola](https://open.spotify.com/track/4P6SA3y5cogSCpp9vmabNX) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [sola](https://open.spotify.com/album/2GNSbNAhGnNAIJ4AgLcTzc) | 3:06 | 2022-02-11 |  |
 | [Sola \- Remix](https://open.spotify.com/track/0RaHJJEltK9qqXPVuxhrwq) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Sola \(Remix\)](https://open.spotify.com/album/0USMnz3z3Mwgw8VonkL9x5) | 3:43 | 2022-02-11 |  |

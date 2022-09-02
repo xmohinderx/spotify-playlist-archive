@@ -2,9 +2,9 @@
 
 ### [Spotify Singles: Stripped](https://open.spotify.com/playlist/37i9dQZF1DXdFhiq9L31be)
 
-> Stripped back recordings like nothing you’ve heard before\.  Cover: Phoebe Bridgers, FINNEAS, and Vance Joy.
+> Stripped back recordings like nothing you’ve heard before\.  Cover: girl in red.
 
-159 songs - 9 hr 34 min - [published](https://open.spotify.com/playlist/6NzdJpHKbdku7XZqdDTuMi)
+160 songs - 9 hr 37 min - [published](https://open.spotify.com/playlist/6NzdJpHKbdku7XZqdDTuMi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [In The Name Of Love \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/7dgURqWJNjjnKYkmlK1yUi) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Spotify Singles](https://open.spotify.com/album/4uwoaD00nLK3IYHMwN8Izk) | 3:25 | 2021-10-21 |  |
 | [Kathy’s Song \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7nebNowPcMMBKgjaS1nJlm) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Spotify Singles](https://open.spotify.com/album/6L8bGsHdlWg26U5SE5ed8w) | 2:44 | 2021-10-21 |  |
 | [Knights Of Cydonia \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3MMhtroreghawB4y14vaUP) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Spotify Singles](https://open.spotify.com/album/5Mb2EPhxaSUhtsx2IGvvkD) | 4:37 | 2021-10-21 |  |
-| [Lay It on Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3WkcZXy8frwOqLdlzrOdph) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Spotify Singles](https://open.spotify.com/album/3PtrWbEYEoqYWpgMeIAFb9) | 3:34 | 2022-06-21 |  |
+| [Lay It on Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3WkcZXy8frwOqLdlzrOdph) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Spotify Singles](https://open.spotify.com/album/3PtrWbEYEoqYWpgMeIAFb9) | 3:34 | 2022-06-21 | 2022-09-02 |
 | [Leave \(Get Out\) \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/6ClEErrTmd3GzRqGiCEC8G) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Spotify Singles](https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND) | 3:15 | 2021-10-21 |  |
 | [Let Me Down Slowly \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1qlc10Iyy8AhJ4zJqwzx4Z) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Spotify Singles](https://open.spotify.com/album/3t6qlpHjZ5sqv49NbUB5Rn) | 2:49 | 2021-10-21 |  |
 | [Let Me Love You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1Ue0oCRGIs4ARyg3ucMmRJ) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Spotify Singles](https://open.spotify.com/album/0IHfimWKQ6PMXKEekqHp36) | 3:41 | 2021-10-21 |  |
@@ -142,6 +142,7 @@
 | [Stanley Park \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3EIRyXhoQP8zglbqDif1NX) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Spotify Singles](https://open.spotify.com/album/3XV7BmKTGdfoxGEaKDQbJb) | 2:29 | 2021-10-21 | 2022-07-29 |
 | [Stay \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1QyyVFQ0Y1DJLb7OeQgQUJ) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Spotify Singles](https://open.spotify.com/album/4I2QiPOnv6R5gBayNvGHvJ) | 4:04 | 2022-03-09 |  |
 | [Stay \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/62Jyekez6V8uxcxxq5sxRE) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Spotify Singles](https://open.spotify.com/album/4iccPwuyNYH4ETLxhdchX6) | 4:04 | 2021-10-21 | 2022-07-29 |
+| [Stay \- Spotify Singles](https://open.spotify.com/track/2mKGjVCoxL8Um9GkNhhyto) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Spotify Singles](https://open.spotify.com/album/6lsdqhAPgBr4zykC1SXhW5) | 2:55 | 2022-09-01 |  |
 | [Stayaway \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/38TDGceS2vVyOxIdU4n9ZU) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Spotify Singles](https://open.spotify.com/album/7xPNSOtnXFMOsTnvQrLeXH) | 4:11 | 2021-10-21 |  |
 | [Still Crazy After All These Years \- Jim Eno Sessions](https://open.spotify.com/track/6MosGGBCCyqH6CLA91rTWh) | [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Spotify Singles](https://open.spotify.com/album/4fSaNjAg7IHk74gJloiZZL) | 2:54 | 2021-10-21 | 2022-07-29 |
 | [Summer's End \- Spotify Singles](https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Maria Taylor](https://open.spotify.com/artist/6iKiDPed4LAQEcPZpvf00m) | [Spotify Singles](https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs) | 3:54 | 2021-10-21 |  |

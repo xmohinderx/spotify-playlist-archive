@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 
 > Fast cars, zombie love, and psychobilly freakouts!
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,953 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,914 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 | 36 | [Two\-Headed Shark](https://open.spotify.com/track/0JOz2NI94mJAiV5phfqMu9) | [The Buttertones](https://open.spotify.com/artist/1CMml5seBEaxQzlmaGxMPx) | [Gravedigging](https://open.spotify.com/album/1U7hECBiaVZvmnF7mZNMhB) | 1:52 |
 | 37 | [Mark of the Devil](https://open.spotify.com/track/4MvaRGF0s248WZV2w7JtIH) | [The Other](https://open.spotify.com/artist/0a3Gua6g9TZBKlDSqebL7W) | [Haunted](https://open.spotify.com/album/1CigInXplAqMF77IcdCdb5) | 3:58 |
 | 38 | [Night Flier](https://open.spotify.com/track/5hrSN6pRbv7ldRA8lFqMuC) | [Bloodsucking Zombies from outer Space](https://open.spotify.com/artist/0KqznEOu3uw5H643xIvlq9) | [All These Fiendish Things](https://open.spotify.com/album/5YQHYdhHRa5D5B6e6Er3hj) | 3:29 |
-| 39 | [Be My End](https://open.spotify.com/track/5tp1SK9wnHy3onxp3CrmXe) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [Be My End](https://open.spotify.com/album/6zNt1H80jWVERyW4UyVjq0) | 2:38 |
-| 40 | [Ravenous](https://open.spotify.com/track/0bE5kTNR60mf4dvJPqJCf3) | [Gutter Demons](https://open.spotify.com/artist/22aCMV8ydQjMaTi8d5hUdf) | [No God, No Ghost, No Saints](https://open.spotify.com/album/2fbrbnqy3C8R1hjUzufsdA) | 3:32 |
+| 39 | [Ravenous](https://open.spotify.com/track/0bE5kTNR60mf4dvJPqJCf3) | [Gutter Demons](https://open.spotify.com/artist/22aCMV8ydQjMaTi8d5hUdf) | [No God, No Ghost, No Saints](https://open.spotify.com/album/2fbrbnqy3C8R1hjUzufsdA) | 3:32 |
+| 40 | [Be My End](https://open.spotify.com/track/5tp1SK9wnHy3onxp3CrmXe) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [Be My End](https://open.spotify.com/album/6zNt1H80jWVERyW4UyVjq0) | 2:38 |
 | 41 | [Come A Little Closer](https://open.spotify.com/track/4Tel3fqGkIkhK9hvS9mj63) | [Andy and the rockets](https://open.spotify.com/artist/6B1g25y7etRaKrODzS312a) | [Big City Lights](https://open.spotify.com/album/5YKlWkVRpjt0lvV6hxe6gi) | 2:58 |
 | 42 | [Formula 666](https://open.spotify.com/track/0AniATpGL5KElCpak9n05M) | [Sarah and the Safe Word](https://open.spotify.com/artist/4YguD206MPuadAlhnGppL3) | [Formula 666](https://open.spotify.com/album/0Fd5terpOdaXIzlV5tn6Qd) | 3:36 |
 | 43 | [Johnny Got A Boom Boom](https://open.spotify.com/track/1LRCCvucMksncuUk7h7g9e) | [Imelda May](https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH) | [Love Tattoo](https://open.spotify.com/album/16s0XOdNFDoBnhY81QYY3H) | 2:59 |
 | 44 | [In the Middle of the Night](https://open.spotify.com/track/1PV7W1c2eQzxgPepe0yFnO) | [Top Cats](https://open.spotify.com/artist/6HUvBmbZkhq6uGfpRKZ1Zy) | [In the Middle of the Night](https://open.spotify.com/album/76Q0H0ikqxqaEl23HI5MBx) | 3:07 |
 | 45 | [Army of Darkness](https://open.spotify.com/track/0ghMtg6NiAS0fsl3VvzN03) | [Drunktank](https://open.spotify.com/artist/2Gx4sbajIQU6u49ZsiTs3c) | [Return of the Infamous Four](https://open.spotify.com/album/4ePW478pYVQzQN8W4dXp9l) | 3:31 |
-| 46 | [King of the Waves](https://open.spotify.com/track/2H9eYf6J7fRcgOm4MJrpfI) | [Johnny and the Rotten](https://open.spotify.com/artist/0UxpQSNKdoqA1TOdFnAcng) | [Down the Rabbit Hole](https://open.spotify.com/album/5bRbNwr5O2YUwOYuxf3Fq7) | 3:35 |
-| 47 | [Doctors & Churches](https://open.spotify.com/track/57C9ovU3HVtgSdHIjcnD6g) | [Miss Vincent](https://open.spotify.com/artist/2yvzGtFdv8dlpBqErEXPXx) | [Doctors & Churches](https://open.spotify.com/album/78ClJ6GN8613bqLx0BThJ5) | 3:30 |
-| 48 | [Not of This Earth](https://open.spotify.com/track/4TLiQQGJfY8ZA9dEw6ZvkG) | [Bloody Hammers](https://open.spotify.com/artist/6MC1i9hToT9dRxdN4hIHEW) | [Songs of Unspeakable Terror](https://open.spotify.com/album/18WFSTsaFEFNG9P5jM5gxM) | 3:22 |
+| 46 | [Doctors & Churches](https://open.spotify.com/track/57C9ovU3HVtgSdHIjcnD6g) | [Miss Vincent](https://open.spotify.com/artist/2yvzGtFdv8dlpBqErEXPXx) | [Doctors & Churches](https://open.spotify.com/album/78ClJ6GN8613bqLx0BThJ5) | 3:30 |
+| 47 | [Not of This Earth](https://open.spotify.com/track/4TLiQQGJfY8ZA9dEw6ZvkG) | [Bloody Hammers](https://open.spotify.com/artist/6MC1i9hToT9dRxdN4hIHEW) | [Songs of Unspeakable Terror](https://open.spotify.com/album/18WFSTsaFEFNG9P5jM5gxM) | 3:22 |
+| 48 | [King of the Waves](https://open.spotify.com/track/2H9eYf6J7fRcgOm4MJrpfI) | [Johnny and the Rotten](https://open.spotify.com/artist/0UxpQSNKdoqA1TOdFnAcng) | [Down the Rabbit Hole](https://open.spotify.com/album/5bRbNwr5O2YUwOYuxf3Fq7) | 3:35 |
 | 49 | [Rockin' at the House of Strange](https://open.spotify.com/track/1eTnInP2B470IIF2iOkzf8) | [The Meteors](https://open.spotify.com/artist/7a2sloQlmdKSmj3fwMMpg9) | [The Power of 3](https://open.spotify.com/album/2gnRgPZJ0OqctKSfiap17y) | 3:01 |
 | 50 | [When Oskar Fische Comes to Town](https://open.spotify.com/track/15KxRLHTkff3ztQDLws3Rj) | [Sarah and the Safe Word](https://open.spotify.com/artist/4YguD206MPuadAlhnGppL3) | [Good Gracious! Bad People.](https://open.spotify.com/album/14EbrCLMvjsmasRxNMy6r4) | 3:11 |
 
-Snapshot ID: `MTYxMDgxNTY3NSwwMDAwMDAwMDBhMWVmY2RiNjcxNzZlZTY1YjdkNjY2NGFiNzdhMDdh`
+Snapshot ID: `MTYxMDgxNTY3NSwwMDAwMDAwMDRjMDYzMjI3ZTM0MDczYzg2MmViMmMzNWFmYzY1ZDE1`

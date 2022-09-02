@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJNOeepZTGy.md) - [plain]
 
 > As you prepare and settle into your romantic dinner, let us provide the soundtrack with these RnB/Soul love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,372 likes - 50 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,887 likes - 50 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [When I See U](https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Fantasia](https://open.spotify.com/album/42DybH3gl3WcfXAQySOEiX) | 3:37 |
 | 2 | [So Into You](https://open.spotify.com/track/3c6afiysmB7OnxQzzSqRfD) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [Tamia](https://open.spotify.com/album/3PFEg7sWLEMuS3nyTIguEV) | 4:21 |
-| 3 | [Lady](https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 5:46 |
-| 4 | [Get You \(feat\. Kali Uchis\)](https://open.spotify.com/track/6N3qHjcwly8ZuhE4bPYJAX) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Get You \- Single](https://open.spotify.com/album/5qfhZ5YkZ4LhEUbYgjrWt6) | 4:37 |
+| 3 | [Get You \(feat\. Kali Uchis\)](https://open.spotify.com/track/6N3qHjcwly8ZuhE4bPYJAX) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Get You \- Single](https://open.spotify.com/album/5qfhZ5YkZ4LhEUbYgjrWt6) | 4:37 |
+| 4 | [Lady](https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 5:46 |
 | 5 | [Sweet Lady](https://open.spotify.com/track/1Dx8rIZaXzZPvUQRF2j9hB) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [Tyrese](https://open.spotify.com/album/1srJ4xgMWliQdwquG81ObA) | 4:50 |
 | 6 | [Say Yes](https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floetic](https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi) | 4:28 |
 | 7 | [Overjoyed](https://open.spotify.com/track/2lnQcP5hr4RKR63TFvnI4k) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [In Square Circle](https://open.spotify.com/album/1nLKZqTGA48v3I8dNFkvQt) | 3:42 |
@@ -20,10 +20,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJNOeepZTGy.md) - [plain]
 | 10 | [Knocks Me Off My Feet](https://open.spotify.com/track/4o1E2c0ye1RlIJJqOM0dqP) | [Donell Jones](https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B) | [My Heart](https://open.spotify.com/album/1YylipCwfGRhRc4j3vJzwV) | 3:42 |
 | 11 | [Inside My Love \- Remastered](https://open.spotify.com/track/1HdNTlZrGTlgxDn31GB6Sv) | [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj) | [Capitol Gold: The Best Of Minnie Riperton](https://open.spotify.com/album/1Zc6fY5TjkirFsQIeX7KFL) | 3:58 |
 | 12 | [I Love You](https://open.spotify.com/track/6gsmFgUiSTuinJlScwFODv) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Faithfully](https://open.spotify.com/album/0pP9NBXbbRH2ZJb7fazkZy) | 4:27 |
-| 13 | [Love No Limit](https://open.spotify.com/track/7gEGhEb1VcCeC6lJWnjI9Z) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [What's The 411?](https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2) | 4:59 |
+| 13 | [For Real](https://open.spotify.com/track/0sxEHZ8WEPPTWGFXYBdB3O) | [Amel Larrieux](https://open.spotify.com/artist/4hVcxmC7igpot32EzQf7IR) | [Bravebird](https://open.spotify.com/album/4ifJLmQAJIUsAPmm6pnxJw) | 3:46 |
 | 14 | [Knocks Me Off My Feet](https://open.spotify.com/track/4C5GsegFD0j5ujSr1y93Oj) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 3:36 |
 | 15 | [sobeautiful](https://open.spotify.com/track/2PN3gbuBn5WBEwrEJH3xiu) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [onmyradio](https://open.spotify.com/album/50kPvqerqvDdl0JoWNMukp) | 4:51 |
-| 16 | [For Real](https://open.spotify.com/track/0sxEHZ8WEPPTWGFXYBdB3O) | [Amel Larrieux](https://open.spotify.com/artist/4hVcxmC7igpot32EzQf7IR) | [Bravebird](https://open.spotify.com/album/4ifJLmQAJIUsAPmm6pnxJw) | 3:46 |
+| 16 | [Love No Limit](https://open.spotify.com/track/7gEGhEb1VcCeC6lJWnjI9Z) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [What's The 411?](https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2) | 4:59 |
 | 17 | [Lifetime \- Remastered 2021](https://open.spotify.com/track/0tXq1ob3ysGZN2oK1abtyp) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Now](https://open.spotify.com/album/3Ul8Nyuzr2AEwE8iSrQepC) | 5:29 |
 | 18 | [Spend The Night](https://open.spotify.com/track/14VwBAL1qSlG4ovOSYUQF4) | [Rahsaan Patterson](https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH) | [Rahsaan Patterson](https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c) | 4:53 |
 | 19 | [Anything For You](https://open.spotify.com/track/3yP27QF0cTGw5RlfjqKL4R) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [The Wild Card](https://open.spotify.com/album/1k61cWVj8AgcXdZUwRaCai) | 4:17 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJNOeepZTGy.md) - [plain]
 | 24 | [Why I Love You](https://open.spotify.com/track/2xN98jvoGdfBzPS0HDMlXT) | [MAJOR.](https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky) | [Why I Love You \- Single](https://open.spotify.com/album/6567j2YYSIlduWjsNQefgk) | 3:55 |
 | 25 | [Beautiful Surprise](https://open.spotify.com/track/1KeurgOTHLAwY8GCkI8heZ) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Wine & Dine](https://open.spotify.com/album/6YI4GjI1VQfBRBlndGtMYg) | 2:28 |
 | 26 | [You Put A Move On My Heart](https://open.spotify.com/track/1RjCsqiatsrQwQvqjecr30) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [Q's Jook Joint](https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1) | 6:13 |
-| 27 | [Stars](https://open.spotify.com/track/1tjt1ZEVVKrih3he8zKWgE) | [Kindred The Family Soul](https://open.spotify.com/artist/3RDl7kNfhB72Ojsc2qiyfy) | [Surrender to Love](https://open.spotify.com/album/7jLmyshz30Q8A1MY3sEkGO) | 5:09 |
-| 28 | [Whenever Wherever Whatever \- Remastered 2021](https://open.spotify.com/track/5qUNf2ihX0M4uY1qi9GMRp) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Maxwell's Urban Hang Suite](https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p) | 3:45 |
+| 27 | [Whenever Wherever Whatever \- Remastered 2021](https://open.spotify.com/track/5qUNf2ihX0M4uY1qi9GMRp) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Maxwell's Urban Hang Suite](https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p) | 3:45 |
+| 28 | [Stars](https://open.spotify.com/track/1tjt1ZEVVKrih3he8zKWgE) | [Kindred The Family Soul](https://open.spotify.com/artist/3RDl7kNfhB72Ojsc2qiyfy) | [Surrender to Love](https://open.spotify.com/album/7jLmyshz30Q8A1MY3sEkGO) | 5:09 |
 | 29 | [Nothing Can Come Between Us \- Remastered](https://open.spotify.com/track/6pBDa5KwQ51kbs4WusIPPw) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Ultimate Collection](https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a) | 3:52 |
 | 30 | [Another Life](https://open.spotify.com/track/2f9mmR37OEceYERbXml0Nj) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 5:58 |
 | 31 | [If This World Were Mine \(with Luther Vandross\)](https://open.spotify.com/track/3DnJmpSvBNxngDOBeI5U0B) | [Cheryl Lynn](https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ), [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Instant Love \(Expanded Edition\)](https://open.spotify.com/album/61CzGFq3xVWqzpv9YwLYRG) | 5:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJNOeepZTGy.md) - [plain]
 | 49 | [Lovin' You](https://open.spotify.com/track/1JPJQLSYAvPp4qnzC8Uk6Y) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The Essential O'Jays](https://open.spotify.com/album/4pdU7xetOuKZTvpqW5Kor8) | 5:17 |
 | 50 | [Nobody](https://open.spotify.com/track/0jesM7wcZacJWJde6noqB9) | [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [Nobody](https://open.spotify.com/album/2ahLt7NaAwx6sK1MkPPAD5) | 3:27 |
 
-Snapshot ID: `MTY2MTM0OTI0MSwwMDAwMDAwMGQ4NGY4YzdkNzg1YzA1OTIxMGI5MmFmNzVmNDczZTQz`
+Snapshot ID: `MTY2MTM0OTI0MSwwMDAwMDAwMDg5ZDllOGVlMjQ2ZWM0OTljOGJiZTgyNGNkMWQwMmZl`

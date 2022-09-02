@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Cometa Sucre en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,342 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,346 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Matriz](https://open.spotify.com/track/13GBO1zBtOOPq2JCi2YDAl) | [Cometa Sucre](https://open.spotify.com/artist/3kFFYxvTZaBCm0q04WPlqK) | [Matriz](https://open.spotify.com/album/0oy9TW0uVOxo8gsW9hCb37) | 3:45 |
 | 2 | [CHOKE \(with grandson & Zero 9:36\)](https://open.spotify.com/track/3AV8nyFN5AgejU5DZI9wKl) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [CHOKE](https://open.spotify.com/album/6AovsGSkC91dKnj7rXeK0z) | 2:40 |
-| 3 | [La Última Llamada](https://open.spotify.com/track/6uvNQEoUPJaHI10oVffAHO) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [La Última Llamada](https://open.spotify.com/album/2G0Z5q89Kp9NXX6a7y5F1t) | 3:14 |
+| 3 | [La Última Llamada](https://open.spotify.com/track/3xqO0HGtRgTkS9xzNEQxwb) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [La Última Llamada](https://open.spotify.com/album/5SFEcLOtKOTjlI1q72TbnL) | 3:14 |
 | 4 | [Aunque Solo Sea Una](https://open.spotify.com/track/6EIQzcsj5IWzeErB2NmXrd) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Aunque Solo Sea Una](https://open.spotify.com/album/0aT3Al2wy4dEW54xKHKqXb) | 3:44 |
 | 5 | [Te van a olvidar](https://open.spotify.com/track/2cZjl4wIclVjzFzCZYVQRP) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg), [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [Te van a olvidar](https://open.spotify.com/album/458faUpDTootevU4wWRBY9) | 4:01 |
 | 6 | [Cuento de Brujas](https://open.spotify.com/track/5MBmJKobRgVwJLScMUmo84) | [Axel Catalán](https://open.spotify.com/artist/3RyQCdkn4bCRxZ3kOgUPxH) | [Vespa 97](https://open.spotify.com/album/36s3QXnJ8J4XNA0W1ALHiR) | 2:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Una Vez Más](https://open.spotify.com/track/3ttUreDyddWfldtmA3l4iB) | [UOHO](https://open.spotify.com/artist/0f89nikbDhsc9XBL1cFtG4) | [Una Vez Más](https://open.spotify.com/album/2JPSVUya4XQSaxlF7ZI1Fs) | 4:31 |
 | 50 | [No Juego Más](https://open.spotify.com/track/65oxgrIHuaUwGyFzAtf5dE) | [Martes 13](https://open.spotify.com/artist/4yQad4h1S2VKZbiEYlnFKy), [Martín Buscaglia](https://open.spotify.com/artist/2JY8pGyMVoDOvZIOnBxf5W) | [No Juego Más](https://open.spotify.com/album/669jETLtDfGSYKZFNASzli) | 3:06 |
 
-Snapshot ID: `MTY2MTQ5MDAwMCwwMDAwMDAwMDMxNGFkMjI4MTY1YWNhZTJhM2YyNTRmNzIwYWZjOTNk`
+Snapshot ID: `MTY2MTQ5MDAwMCwwMDAwMDAwMDdjYjkyMmRiMWE0MzY1YWM2NTgxYzJkYjY1M2E2MWM3`

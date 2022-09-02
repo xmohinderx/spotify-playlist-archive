@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 
 > The hits of tomorrow are on Spotify today\. Cover: Rema & Selena Gomez
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,651,497 likes - 85 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,652,794 likes - 85 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 | 5 | [Make You Say](https://open.spotify.com/track/1elhmWW7Bv0MOQj2gAsyoV) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT) | [Make You Say](https://open.spotify.com/album/650l6jxDJ5c8thTRY42QU2) | 3:26 |
 | 6 | [SNAP](https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR) | 2:59 |
 | 7 | [dead inside](https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [in loving memory](https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau) | 3:02 |
-| 8 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi) | 2:21 |
+| 8 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/0GxWXE6ltKk4Gx3WyWLLrW) | 2:21 |
 | 9 | [complex \(demo\)](https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex \(demo\)](https://open.spotify.com/album/4iHBCJPZUha2xs84jNZ4jc) | 4:16 |
 | 10 | [Victoria’s Secret](https://open.spotify.com/track/4svaKoxMMP7ImmKrD5hfQu) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Victoria’s Secret](https://open.spotify.com/album/47eeG5ewIbO53gXZOkvHhg) | 2:56 |
 | 11 | [For My Hand \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:39 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 | 84 | [The 30th](https://open.spotify.com/track/5SHpuW2qjkQtFRpE6P9Nks) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 3:36 |
 | 85 | [because i liked a boy](https://open.spotify.com/track/32FhTAAjKZaBein150o3Px) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:16 |
 
-Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMGQyYWQ1MmFhYzMxMzZiOGQ3NDNjM2Q5YzgwYzA1ODY5`
+Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMDFlYjNlNWY1ZDY1MTRiMDA5Y2ZkYjZjZjZmM2ExYjBl`

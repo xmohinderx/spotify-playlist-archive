@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hWmn8d5pRe.md) - [plain]
 
 > Run to this collection of heavy rock jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 788,039 likes - 70 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 788,359 likes - 70 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hWmn8d5pRe.md) - [plain]
 | 43 | [My Hero](https://open.spotify.com/track/4dVbhS6OiYvFikshyaQaCN) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 4:20 |
 | 44 | [Don't Stop Believin'](https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [The Essential Journey](https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R) | 4:08 |
 | 45 | [My Own Worst Enemy](https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z) | [Lit](https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp) | [A Place In The Sun](https://open.spotify.com/album/3w5Uz3q4SJze14P60ZChsp) | 2:49 |
-| 46 | [Girls, Girls, Girls](https://open.spotify.com/track/549Go7a66CX6k523uK9kUv) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls](https://open.spotify.com/album/2KT9tWALjIRjnaGYDYPg3k) | 4:30 |
-| 47 | [Fat Lip](https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer, No Filler](https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim) | 2:58 |
+| 46 | [Fat Lip](https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer, No Filler](https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim) | 2:58 |
+| 47 | [Girls, Girls, Girls](https://open.spotify.com/track/549Go7a66CX6k523uK9kUv) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls](https://open.spotify.com/album/2KT9tWALjIRjnaGYDYPg3k) | 4:30 |
 | 48 | [Runaway](https://open.spotify.com/track/0X1sqQ652p1sceKM2nJlIJ) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Bon Jovi](https://open.spotify.com/album/1UUOBzIHw0noiRGRpbt3sz) | 3:50 |
 | 49 | [Jessie's Girl](https://open.spotify.com/track/5RsUlxLto4NZbhJpqJbHfN) | [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [Working Class Dog](https://open.spotify.com/album/4KKFWTePKtgb6mOwFDqxYa) | 3:14 |
 | 50 | [Rock the Casbah \- Remastered](https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:42 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hWmn8d5pRe.md) - [plain]
 | 54 | [One \(Remastered\)](https://open.spotify.com/track/0LAcM6I7ijW4VVW0aytl1t) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [...And Justice for All \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/2XbWaerVk9fjhEiGSrd6TF) | 7:26 |
 | 55 | [How Soon Is Now? \- 2011 Remaster](https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Hatful of Hollow](https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv) | 6:48 |
 | 56 | [Let's Dance \- 2018 Remaster](https://open.spotify.com/track/3ix6K4wZY29bCujrSznwFZ) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance \(2018 Remaster\)](https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV) | 7:37 |
-| 57 | [When Doves Cry](https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 5:52 |
-| 58 | [You Could Be Mine](https://open.spotify.com/track/0dlTGl67UFWcKupzkxZYOn) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion II](https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C) | 5:43 |
+| 57 | [You Could Be Mine](https://open.spotify.com/track/0dlTGl67UFWcKupzkxZYOn) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion II](https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C) | 5:43 |
+| 58 | [When Doves Cry](https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 5:52 |
 | 59 | [She Sells Sanctuary](https://open.spotify.com/track/3qLZ866ZfaK0B0R5FIqXLG) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Love](https://open.spotify.com/album/2hallpchkYldMa5lGGf1Ko) | 4:12 |
 | 60 | [Every Rose Has Its Thorn \- Remastered 2003](https://open.spotify.com/track/43GS3mtezoIFiuIZCLLiDY) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Open Up And Say...Ahh! \(20th Anniversary Edition\)](https://open.spotify.com/album/2AMWVB3FWknjcMeb6hMZnd) | 4:20 |
 | 61 | [Walk This Way \(feat\. Aerosmith\)](https://open.spotify.com/track/6qUEOWqOzu1rLPUPQ1ECpx) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA), [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Raising Hell](https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg) | 5:10 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hWmn8d5pRe.md) - [plain]
 | 69 | [Dancing With Myself](https://open.spotify.com/track/1BY1Vd2Bt6JPOhMvsIwtVv) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Vital Idol](https://open.spotify.com/album/2PSsUGkAAAnBmUUSNBU6se) | 5:59 |
 | 70 | [I Hate Myself for Loving You](https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U) | 4:06 |
 
-Snapshot ID: `MTY2MDI4NTUwNiwwMDAwMDAwMDM5NTkyNDIzMjhjMWFmZTc5YTc5MjkwZDRkODRjNDIw`
+Snapshot ID: `MTY2MDI4NTUwNiwwMDAwMDAwMGFkMWY1NDQyNzlkYmFjNWIxZGM5MzgwY2QyZjI1Y2U4`

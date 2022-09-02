@@ -2,9 +2,9 @@
 
 ### [Country Songwriters](https://open.spotify.com/playlist/37i9dQZF1DX9nWj0Ba73K5)
 
-> Featuring the 'Noteable' songwriters who create your favorite songs\.  Cover: Josh Kerr
+> Featuring the 'Noteable' songwriters who create your favorite songs\.  Cover: Ben Burgess
 
-206 songs - 11 hr 59 min - [published](https://open.spotify.com/playlist/6gIQ4ulEp086lqaMqKxqFK)
+208 songs - 12 hr 6 min - [published](https://open.spotify.com/playlist/6gIQ4ulEp086lqaMqKxqFK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Has Anybody Ever Told You](https://open.spotify.com/track/6l1q2WArPCGJKrLAilcM5M) | [Tyler Cain](https://open.spotify.com/artist/7xmVA0jnh2yjM3S642J1Bd), [Meghan Linsey](https://open.spotify.com/artist/5CoW8VGpf9la64TUDhnkVn) | [Has Anybody Ever Told You](https://open.spotify.com/album/1V8XPlpxxKDFYnLDJFRH4R) | 3:52 | 2022-01-21 |  |
 | [Head over Boots](https://open.spotify.com/track/5GFsv5zK87Xyh9GYxpxnuX) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo) | [2017 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/00M4zevPXWPAejRamqLJwp) | 3:25 | 2022-01-01 |  |
 | [Heartache on the Dancefloor](https://open.spotify.com/track/41oOht1nMooSWdiOLAcVQe) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Brice Long](https://open.spotify.com/artist/1qqc4FuGnFEc2McFkP0rfQ) | [2018 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/5AOIvPlIqtlrBCjuDYTGOf) | 2:59 | 2022-01-01 |  |
+| [Heartbreak](https://open.spotify.com/track/09314p0WJhfG0mXqlg6hTC) | [Ben Burgess](https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa) | [Heartbreak](https://open.spotify.com/album/1YNRiSLFpupJgMqZxRyxQx) | 3:08 | 2022-09-01 |  |
 | [Heartless \- Acoustic](https://open.spotify.com/track/0dwovgbBoKNCL15nNAGmtj) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [EOM \- EP](https://open.spotify.com/album/4vCbBPa24ANSy0MD8BGA8d) | 2:53 | 2022-01-01 |  |
 | [Heaven](https://open.spotify.com/track/3vrbDNAVcVKOW2tukIpjho) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Matt McGinn](https://open.spotify.com/artist/3AtUVMxegxVeWrYSD7nMOa) | [2018 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/5AOIvPlIqtlrBCjuDYTGOf) | 2:58 | 2022-01-01 |  |
 | [High](https://open.spotify.com/track/6rRGtOgUxgARW5QXK2k9EY) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [High](https://open.spotify.com/album/2xbSaikAqmnjC9YuYjYPxM) | 3:50 | 2022-02-28 |  |
@@ -165,6 +166,7 @@
 | [Swimming Alone](https://open.spotify.com/track/3rGe3ed1wHvPNgAlwNO686) | [Liz Rose](https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT) | [Swimming Alone](https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk) | 3:40 | 2022-01-01 |  |
 | [T\-Shirt](https://open.spotify.com/track/5AAHiCmdVSl83vJVXRCbf0) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Shane McAnally](https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C) | [2016 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/2rfAtTubp83YShEfKUBrKb) | 3:21 | 2022-01-01 |  |
 | [Take Your Time](https://open.spotify.com/track/6B9KlXistEsO9vOLLzeSmq) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Josh Osborne](https://open.spotify.com/artist/1QoLSRhja9IcOQKelE594L) | [2016 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/2rfAtTubp83YShEfKUBrKb) | 4:00 | 2022-01-01 |  |
+| [Tears the Size of Texas](https://open.spotify.com/track/3dty7RRoFfyFTylgKAAy2V) | [Ben Burgess](https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa) | [Tears the Size of Texas](https://open.spotify.com/album/79l3KSw4fOnOvixKQB1yPI) | 3:58 | 2022-09-01 |  |
 | [That's Where It's At](https://open.spotify.com/track/3emkNnlUI9A5YJopfdk6wC) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Zach Crowell](https://open.spotify.com/artist/2yZT0zo8NPltj0c8KZvJip) | [2016 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/2rfAtTubp83YShEfKUBrKb) | 3:17 | 2022-01-01 |  |
 | [That's Why I Don't Drink Anymore](https://open.spotify.com/track/6q0h7XhAkIjkFZZEhR1vaE) | [Luke Laird](https://open.spotify.com/artist/68TC0JwoMubeom8X4c7UVI) | [Music Row](https://open.spotify.com/album/5aWz2wmH9Hb0vklmrBrnVw) | 4:00 | 2022-01-01 |  |
 | [The Better Part of Living](https://open.spotify.com/track/2h2LM8gHbCu7USHG8rRVG5) | [Mac McAnally](https://open.spotify.com/artist/2dSu4iBQikoVlBc43gwaHY) | [Once In a Lifetime](https://open.spotify.com/album/3ehKE8T72sMLO0epU7OiEc) | 3:37 | 2022-01-01 |  |

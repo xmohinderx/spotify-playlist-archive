@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Stephen Sanchez",
-  "num_followers": 782379,
+  "num_followers": 782516,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTY2MCwwMDAwMDAwMGIxNzJhODU4ZmZlNWZhMThiNjBkYjljNmI3NzVlYzcw",
+  "snapshot_id": "MTY2MDg4MTY2MCwwMDAwMDAwMGZhOTU1MGI5ZmQ3ODYzMTY2MzBlODAyZDZmMmI3NTE3",
   "tracks": [
     {
       "added_at": "2022-08-19 04:01:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "If My Wife New I\u2019d Be Dead",
-        "url": "https://open.spotify.com/album/6zn3DcldhCpu6f5HvV32bw"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 244693,
-      "name": "I Don't Really Care for You",
-      "url": "https://open.spotify.com/track/4CQv2F0m8ssGBVq7v8uBGu"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "Call You in the Morning",
         "url": "https://open.spotify.com/album/3IO0Epg4XkvOaES3dfTCXB"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 132309,
       "name": "Call You in the Morning",
       "url": "https://open.spotify.com/track/6pmtIWAw69AvKnajOPGVtz"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "If My Wife New I\u2019d Be Dead",
+        "url": "https://open.spotify.com/album/6zn3DcldhCpu6f5HvV32bw"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 244693,
+      "name": "I Don't Really Care for You",
+      "url": "https://open.spotify.com/track/4CQv2F0m8ssGBVq7v8uBGu"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Wildflower",
-        "url": "https://open.spotify.com/album/2Re9wrza8ZH46MUah5tILo"
-      },
-      "artists": [
-        {
-          "name": "The National Parks",
-          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
-        }
-      ],
-      "duration_ms": 217966,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/49tW2u59iX2z2thHLkYYo5"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/5ZO7Yhx5k8r4513DjUb0GO"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 136378,
       "name": "Waves",
       "url": "https://open.spotify.com/track/5luLMIQajTbWm2Zz4EsO9D"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Wildflower",
+        "url": "https://open.spotify.com/album/2Re9wrza8ZH46MUah5tILo"
+      },
+      "artists": [
+        {
+          "name": "The National Parks",
+          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
+        }
+      ],
+      "duration_ms": 217966,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/49tW2u59iX2z2thHLkYYo5"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Do Right",
-        "url": "https://open.spotify.com/album/3SwuKpDI0Xolzm5exsHkeP"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        }
-      ],
-      "duration_ms": 213453,
-      "name": "Do Right",
-      "url": "https://open.spotify.com/track/1Ab2FPSnr5C7PkndTMHdP6"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "Half Moon Light",
         "url": "https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 201253,
       "name": "Any Day Now",
       "url": "https://open.spotify.com/track/2YzM9n2UdWc5iiMbg8B4Mb"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Do Right",
+        "url": "https://open.spotify.com/album/3SwuKpDI0Xolzm5exsHkeP"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "duration_ms": 213453,
+      "name": "Do Right",
+      "url": "https://open.spotify.com/track/1Ab2FPSnr5C7PkndTMHdP6"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "The Worth Of The Wait",
-        "url": "https://open.spotify.com/album/0jNqBHYpxtWq8CfHQxA7Rd"
-      },
-      "artists": [
-        {
-          "name": "Ivan & Alyosha",
-          "url": "https://open.spotify.com/artist/3D1IyJznpDnWnnFrzjuWnh"
-        }
-      ],
-      "duration_ms": 171800,
-      "name": "The Worth Of The Wait",
-      "url": "https://open.spotify.com/track/4ngv7whSPSAwD8ZP3zMHsd"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "I've Got a Song",
         "url": "https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 180533,
       "name": "This Could Be Good",
       "url": "https://open.spotify.com/track/7d2ytNiHGDf32YwZOU6RnZ"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "The Worth Of The Wait",
+        "url": "https://open.spotify.com/album/0jNqBHYpxtWq8CfHQxA7Rd"
+      },
+      "artists": [
+        {
+          "name": "Ivan & Alyosha",
+          "url": "https://open.spotify.com/artist/3D1IyJznpDnWnnFrzjuWnh"
+        }
+      ],
+      "duration_ms": 171800,
+      "name": "The Worth Of The Wait",
+      "url": "https://open.spotify.com/track/4ngv7whSPSAwD8ZP3zMHsd"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1315,34 +1315,34 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Some Kind Of Love",
-        "url": "https://open.spotify.com/album/1bH8H3VIEETtPH1pPzIysT"
+        "name": "Searching",
+        "url": "https://open.spotify.com/album/6b4Az2MguoWdDlB9Jm2815"
       },
       "artists": [
         {
-          "name": "Azure Ryder",
-          "url": "https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8"
+          "name": "KAWALA",
+          "url": "https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL"
         }
       ],
-      "duration_ms": 228986,
-      "name": "Some Kind Of Love",
-      "url": "https://open.spotify.com/track/4UkpYAxwW1ccMWAhNiyeaW"
+      "duration_ms": 144506,
+      "name": "Searching",
+      "url": "https://open.spotify.com/track/0lRbYbXj2mknfl7DXfpZX5"
     },
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Help Me to Feel Again",
-        "url": "https://open.spotify.com/album/49C5Ln1TXkkl8h8CQjp12A"
+        "name": "Juniors",
+        "url": "https://open.spotify.com/album/3nzqLuP7d24XYuBnbiaiop"
       },
       "artists": [
         {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
         }
       ],
-      "duration_ms": 262383,
-      "name": "Help Me to Feel Again",
-      "url": "https://open.spotify.com/track/5dIrRgtvRJQlOHvLdAew1p"
+      "duration_ms": 233533,
+      "name": "Hear It Again",
+      "url": "https://open.spotify.com/track/2wQqHmiR1LXjwLICvRQUPG"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1379,34 +1379,34 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Searching",
-        "url": "https://open.spotify.com/album/6b4Az2MguoWdDlB9Jm2815"
+        "name": "Some Kind Of Love",
+        "url": "https://open.spotify.com/album/1bH8H3VIEETtPH1pPzIysT"
       },
       "artists": [
         {
-          "name": "KAWALA",
-          "url": "https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL"
+          "name": "Azure Ryder",
+          "url": "https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8"
         }
       ],
-      "duration_ms": 144506,
-      "name": "Searching",
-      "url": "https://open.spotify.com/track/0lRbYbXj2mknfl7DXfpZX5"
+      "duration_ms": 228986,
+      "name": "Some Kind Of Love",
+      "url": "https://open.spotify.com/track/4UkpYAxwW1ccMWAhNiyeaW"
     },
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Juniors",
-        "url": "https://open.spotify.com/album/3nzqLuP7d24XYuBnbiaiop"
+        "name": "Help Me to Feel Again",
+        "url": "https://open.spotify.com/album/49C5Ln1TXkkl8h8CQjp12A"
       },
       "artists": [
         {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
         }
       ],
-      "duration_ms": 233533,
-      "name": "Hear It Again",
-      "url": "https://open.spotify.com/track/2wQqHmiR1LXjwLICvRQUPG"
+      "duration_ms": 262383,
+      "name": "Help Me to Feel Again",
+      "url": "https://open.spotify.com/track/5dIrRgtvRJQlOHvLdAew1p"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Sinking Ship / Back & Forth",
-        "url": "https://open.spotify.com/album/0zMY9ikg9RB64fPHXKAmYt"
-      },
-      "artists": [
-        {
-          "name": "Wild Child",
-          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
-        }
-      ],
-      "duration_ms": 211360,
-      "name": "Back & Forth",
-      "url": "https://open.spotify.com/track/2vcwh4UGbHy3gkhCEvBDMn"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "Spiders",
         "url": "https://open.spotify.com/album/2GJEykJCMASS4ffX4ObWuJ"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 198040,
       "name": "Spiders",
       "url": "https://open.spotify.com/track/75LW3ygJkAOnHLRW6okBSN"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Sinking Ship / Back & Forth",
+        "url": "https://open.spotify.com/album/0zMY9ikg9RB64fPHXKAmYt"
+      },
+      "artists": [
+        {
+          "name": "Wild Child",
+          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
+        }
+      ],
+      "duration_ms": 211360,
+      "name": "Back & Forth",
+      "url": "https://open.spotify.com/track/2vcwh4UGbHy3gkhCEvBDMn"
     }
   ],
   "unique_name": "Folk Pop",

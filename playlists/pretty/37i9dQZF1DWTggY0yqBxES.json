@@ -1,12 +1,12 @@
 {
   "description": "New, leftfield, and for the real hip-hop stans! Cover: Ben Reilly",
-  "num_followers": 882722,
+  "num_followers": 881935,
   "original_name": "Alternative Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTI2ODUzNiwwMDAwMDAwMGU3MDkzMzNlYmU3OTdmYzMwMGUwYWZkNDljYTZjOWZj",
+  "snapshot_id": "MTY2MTI2ODUzNiwwMDAwMDAwMGI2NjM0ZjY0YzRkMTlhMmJmNjM1MmVmNjlmOWE0ZjYz",
   "tracks": [
     {
       "added_at": "2022-08-19 04:01:00",
@@ -415,38 +415,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/2xIwaswWMyUtM5h8wxA5gH"
-      },
-      "artists": [
-        {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
-        }
-      ],
-      "duration_ms": 203793,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/2i40wZkiPAGIFudrGH99nx"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 134116,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "Melt My Eyez See Your Future",
         "url": "https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q"
       },
@@ -483,6 +451,38 @@
       "duration_ms": 264613,
       "name": "Ain't No Way [Feat. 6LACK, Rico Nasty, J.I.D, Jasiah, Kitty Ca$h]",
       "url": "https://open.spotify.com/track/1InX2gJz9jvp4tLOc84DWe"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 134116,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/2xIwaswWMyUtM5h8wxA5gH"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        }
+      ],
+      "duration_ms": 203793,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/2i40wZkiPAGIFudrGH99nx"
     },
     {
       "added_at": "2022-08-19 14:39:16",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "29 (Freestyle)",
-        "url": "https://open.spotify.com/album/5ks4uQKdCxJ34x8HF4Bxrf"
-      },
-      "artists": [
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 142282,
-      "name": "29 (Freestyle)",
-      "url": "https://open.spotify.com/track/6jvyOxDcBPyvdCbBqSvb9F"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "For The Squadron",
         "url": "https://open.spotify.com/album/5G34PSaRGTFhZZWuznAXGI"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 188854,
       "name": "For The Squadron",
       "url": "https://open.spotify.com/track/1Am6QnI4dZi0bkXeJXwW6P"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "29 (Freestyle)",
+        "url": "https://open.spotify.com/album/5ks4uQKdCxJ34x8HF4Bxrf"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 142282,
+      "name": "29 (Freestyle)",
+      "url": "https://open.spotify.com/track/6jvyOxDcBPyvdCbBqSvb9F"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -659,6 +659,22 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
+        "name": "Lyrics to GO, Vol. 2",
+        "url": "https://open.spotify.com/album/0nJ5saIxlohpcXqBR586pH"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        }
+      ],
+      "duration_ms": 109638,
+      "name": "Pomegranate",
+      "url": "https://open.spotify.com/track/1jNKhbKmDgYSHHSCEeMXey"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
         "name": "Breath Control",
         "url": "https://open.spotify.com/album/6mrRq7eWSz9KRZZ5jdiUx1"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 147187,
       "name": "Breath Control (feat. Wiz Khalifa)",
       "url": "https://open.spotify.com/track/560mGiZ4IfyqFf6MUfxjsq"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "Lyrics to GO, Vol. 2",
-        "url": "https://open.spotify.com/album/0nJ5saIxlohpcXqBR586pH"
-      },
-      "artists": [
-        {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
-        }
-      ],
-      "duration_ms": 109638,
-      "name": "Pomegranate",
-      "url": "https://open.spotify.com/track/1jNKhbKmDgYSHHSCEeMXey"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -759,6 +759,26 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
+        "name": "MEMO",
+        "url": "https://open.spotify.com/album/6LiZ2IqRLAb9uqz6NEMsdT"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        },
+        {
+          "name": "Hello O'shay",
+          "url": "https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp"
+        }
+      ],
+      "duration_ms": 268151,
+      "name": "SOHO HOUSE (feat. Hello O'shay)",
+      "url": "https://open.spotify.com/track/2f6O9Os5EDdTHGvc1P4efs"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
         "name": "TYRON",
         "url": "https://open.spotify.com/album/7qE3WaOVAAIxgH8WtjbBBj"
       },
@@ -779,26 +799,6 @@
       "duration_ms": 192733,
       "name": "terms (feat. Dominic Fike & Denzel Curry)",
       "url": "https://open.spotify.com/track/2iwLygOHE2YStc23isxS3b"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "MEMO",
-        "url": "https://open.spotify.com/album/6LiZ2IqRLAb9uqz6NEMsdT"
-      },
-      "artists": [
-        {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
-        },
-        {
-          "name": "Hello O'shay",
-          "url": "https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp"
-        }
-      ],
-      "duration_ms": 268151,
-      "name": "SOHO HOUSE (feat. Hello O'shay)",
-      "url": "https://open.spotify.com/track/2f6O9Os5EDdTHGvc1P4efs"
     },
     {
       "added_at": "2022-08-19 04:01:00",

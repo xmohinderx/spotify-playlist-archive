@@ -1,12 +1,12 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 228853,
+  "num_followers": 228747,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk1MzQ1NCwwMDAwMDAwMGVmMDc0ZDY5ZDVjZjQzYTE3YTdlN2UyM2IyZDE0Y2Ji",
+  "snapshot_id": "MTY2MTk1MzQ1NCwwMDAwMDAwMDg2NzM1MTBmMWIzNDhmZjI2ZjQxM2FmOWY0NWM4Nzc0",
   "tracks": [
     {
       "added_at": "2022-08-31 13:44:14",
@@ -803,6 +803,26 @@
     {
       "added_at": "2022-08-31 13:44:14",
       "album": {
+        "name": "Bach, C.P.E.: Sonatas & Rondos",
+        "url": "https://open.spotify.com/album/1iGH5gW7R3Ie5xTWl0QyM1"
+      },
+      "artists": [
+        {
+          "name": "Carl Philipp Emanuel Bach",
+          "url": "https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb"
+        },
+        {
+          "name": "Mikhail Pletnev",
+          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Sonata in G major, Wq. 62/19: 2. Andante",
+      "url": "https://open.spotify.com/track/6oZVIIJC4qaVmV59msx8wQ"
+    },
+    {
+      "added_at": "2022-08-31 13:44:14",
+      "album": {
         "name": "Zolt\u00e1n Kocsis: A Tribute",
         "url": "https://open.spotify.com/album/7BgQdVLNI9mmO5P1ijJ5wT"
       },
@@ -827,26 +847,6 @@
       "duration_ms": 361493,
       "name": "Piano Concerto No. 6 in B-Flat Major, K. 238: II. Andante un poco adagio",
       "url": "https://open.spotify.com/track/0Bg70fyCFqNJpERbu9UaxJ"
-    },
-    {
-      "added_at": "2022-08-31 13:44:14",
-      "album": {
-        "name": "Bach, C.P.E.: Sonatas & Rondos",
-        "url": "https://open.spotify.com/album/1iGH5gW7R3Ie5xTWl0QyM1"
-      },
-      "artists": [
-        {
-          "name": "Carl Philipp Emanuel Bach",
-          "url": "https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb"
-        },
-        {
-          "name": "Mikhail Pletnev",
-          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Sonata in G major, Wq. 62/19: 2. Andante",
-      "url": "https://open.spotify.com/track/6oZVIIJC4qaVmV59msx8wQ"
     },
     {
       "added_at": "2022-08-31 13:44:14",
@@ -1103,26 +1103,18 @@
     {
       "added_at": "2022-08-31 13:44:14",
       "album": {
-        "name": "W.F. Bach: Sinfonias",
-        "url": "https://open.spotify.com/album/0AHlJDfnuTSujoKtK0y9FX"
+        "name": "Piano Sonata/12 German Dances",
+        "url": "https://open.spotify.com/album/5YTcyAD1QLHS9NQkWLmFWE"
       },
       "artists": [
         {
-          "name": "Wilhelm Friedemann Bach",
-          "url": "https://open.spotify.com/artist/5fz5lcOIakwBiRF7vzfm0u"
-        },
-        {
-          "name": "Carl Philipp Emanuel Bach Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/2KRJoMGVDxlkykGLqvZqRy"
-        },
-        {
-          "name": "Hartmut Haenchen",
-          "url": "https://open.spotify.com/artist/3XKpIwa3KEaO1VE3YrKlL1"
+          "name": "Stephen Kovacevich",
+          "url": "https://open.spotify.com/artist/3Tsq7oTvga9K2osAf6vArw"
         }
       ],
-      "duration_ms": 153800,
-      "name": "Sinfonia in F Major, Fk 67 \"Dissonant\": IV. Menuet No. 1 - Menuet No. 2",
-      "url": "https://open.spotify.com/track/5CfhrXtZ1II9jl8BV1v1a2"
+      "duration_ms": 84426,
+      "name": "SCHUBERT: 12 DEUTSCHE TAENZE (LAENDLER) D790: NO. 3",
+      "url": "https://open.spotify.com/track/1CHQi15gSzPMiP7hAaY9Nd"
     },
     {
       "added_at": "2022-08-31 13:44:14",
@@ -1147,18 +1139,26 @@
     {
       "added_at": "2022-08-31 13:44:14",
       "album": {
-        "name": "Piano Sonata/12 German Dances",
-        "url": "https://open.spotify.com/album/5YTcyAD1QLHS9NQkWLmFWE"
+        "name": "W.F. Bach: Sinfonias",
+        "url": "https://open.spotify.com/album/0AHlJDfnuTSujoKtK0y9FX"
       },
       "artists": [
         {
-          "name": "Stephen Kovacevich",
-          "url": "https://open.spotify.com/artist/3Tsq7oTvga9K2osAf6vArw"
+          "name": "Wilhelm Friedemann Bach",
+          "url": "https://open.spotify.com/artist/5fz5lcOIakwBiRF7vzfm0u"
+        },
+        {
+          "name": "Carl Philipp Emanuel Bach Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2KRJoMGVDxlkykGLqvZqRy"
+        },
+        {
+          "name": "Hartmut Haenchen",
+          "url": "https://open.spotify.com/artist/3XKpIwa3KEaO1VE3YrKlL1"
         }
       ],
-      "duration_ms": 84426,
-      "name": "SCHUBERT: 12 DEUTSCHE TAENZE (LAENDLER) D790: NO. 3",
-      "url": "https://open.spotify.com/track/1CHQi15gSzPMiP7hAaY9Nd"
+      "duration_ms": 153800,
+      "name": "Sinfonia in F Major, Fk 67 \"Dissonant\": IV. Menuet No. 1 - Menuet No. 2",
+      "url": "https://open.spotify.com/track/5CfhrXtZ1II9jl8BV1v1a2"
     },
     {
       "added_at": "2022-08-31 13:44:14",
@@ -1271,30 +1271,6 @@
     {
       "added_at": "2022-08-31 13:44:14",
       "album": {
-        "name": "Myslivecek: Symphonies",
-        "url": "https://open.spotify.com/album/2iNn6zLNV5YIakjGtE58cl"
-      },
-      "artists": [
-        {
-          "name": "Josef Myslive\u010dek",
-          "url": "https://open.spotify.com/artist/6wEimu9Okp11rTY8nbbTtR"
-        },
-        {
-          "name": "Concerto K\u00f6ln",
-          "url": "https://open.spotify.com/artist/6dxdut9Mhu7r7SM9HZB5Ob"
-        },
-        {
-          "name": "Werner Ehrhardt",
-          "url": "https://open.spotify.com/artist/4WXwM0GBirDxTJA6zngdfz"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Overtures For 2 Horns, 2 Oboes And Strings / Overture No.2 In A: 2. Andante",
-      "url": "https://open.spotify.com/track/4WxImfB2vIXWCibwyRQgql"
-    },
-    {
-      "added_at": "2022-08-31 13:44:14",
-      "album": {
         "name": "Piano Recital: Raekallio, Matti - Mozart, W.A. / Gluck, C.W. / Wagner, R. / Liszt, F. / Busoni, F. (Transcriptions - A Night at the Opera)",
         "url": "https://open.spotify.com/album/6XpiHz1VSNQOR18Nj4pH0J"
       },
@@ -1315,6 +1291,30 @@
       "duration_ms": 244333,
       "name": "Iphigenie en Aulide, Act II: Gavotte (arr. J. Brahms)",
       "url": "https://open.spotify.com/track/5a6LNnUyLmQ0kPo93qpKJk"
+    },
+    {
+      "added_at": "2022-08-31 13:44:14",
+      "album": {
+        "name": "Myslivecek: Symphonies",
+        "url": "https://open.spotify.com/album/2iNn6zLNV5YIakjGtE58cl"
+      },
+      "artists": [
+        {
+          "name": "Josef Myslive\u010dek",
+          "url": "https://open.spotify.com/artist/6wEimu9Okp11rTY8nbbTtR"
+        },
+        {
+          "name": "Concerto K\u00f6ln",
+          "url": "https://open.spotify.com/artist/6dxdut9Mhu7r7SM9HZB5Ob"
+        },
+        {
+          "name": "Werner Ehrhardt",
+          "url": "https://open.spotify.com/artist/4WXwM0GBirDxTJA6zngdfz"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Overtures For 2 Horns, 2 Oboes And Strings / Overture No.2 In A: 2. Andante",
+      "url": "https://open.spotify.com/track/4WxImfB2vIXWCibwyRQgql"
     },
     {
       "added_at": "2022-08-31 13:44:14",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2022-08-31 13:44:14",
       "album": {
-        "name": "Chopin & Liszt: Piano Works",
-        "url": "https://open.spotify.com/album/0RYJ4y07bDSZNkEoXbMSyU"
-      },
-      "artists": [
-        {
-          "name": "Franz Liszt",
-          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
-        },
-        {
-          "name": "Mariam Batsashvili",
-          "url": "https://open.spotify.com/artist/5EfRmAMpdmiA8NDoBxGYci"
-        }
-      ],
-      "duration_ms": 145720,
-      "name": "Liszt: 6 Consolations, S. 172: V. Andantino",
-      "url": "https://open.spotify.com/track/0Q98m6eZTTmdZ1dUyJQ8iT"
-    },
-    {
-      "added_at": "2022-08-31 13:44:14",
-      "album": {
         "name": "C.P.E. Bach: Keyboard Concertos, Wq. 26, 44 & 20",
         "url": "https://open.spotify.com/album/4PWG4HAlwOceVdbjiX3r08"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 198333,
       "name": "Keyboard Concerto in G Major, Wq. 44: II. Andantino",
       "url": "https://open.spotify.com/track/7xI0wxBQhYMSWDhkuvbRgM"
+    },
+    {
+      "added_at": "2022-08-31 13:44:14",
+      "album": {
+        "name": "Chopin & Liszt: Piano Works",
+        "url": "https://open.spotify.com/album/0RYJ4y07bDSZNkEoXbMSyU"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Mariam Batsashvili",
+          "url": "https://open.spotify.com/artist/5EfRmAMpdmiA8NDoBxGYci"
+        }
+      ],
+      "duration_ms": 145720,
+      "name": "Liszt: 6 Consolations, S. 172: V. Andantino",
+      "url": "https://open.spotify.com/track/0Q98m6eZTTmdZ1dUyJQ8iT"
     },
     {
       "added_at": "2022-08-31 13:44:14",
@@ -1487,6 +1487,26 @@
     {
       "added_at": "2022-08-31 13:44:14",
       "album": {
+        "name": "Beethoven: Piano Sonatas Woo 47, 'Kurfurstensonaten'",
+        "url": "https://open.spotify.com/album/2g0ZrCg26w6cM2zH9nMVdW"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "duration_ms": 176333,
+      "name": "Piano Sonata in E-Flat Major, WoO 47, No. 1, \"Kurfurstensonaten\": II. Andante",
+      "url": "https://open.spotify.com/track/4dbQI0xIj9w88vvRBqa4LS"
+    },
+    {
+      "added_at": "2022-08-31 13:44:14",
+      "album": {
         "name": "Telemann Collection",
         "url": "https://open.spotify.com/album/0l9iRC7EpQREfuVLmn0UH1"
       },
@@ -1507,26 +1527,6 @@
       "duration_ms": 65080,
       "name": "Ouverture-Suite in D Minor, TWV 55:d2: II. Rondeau",
       "url": "https://open.spotify.com/track/5i640tjpGNKyvSaYP3eEwC"
-    },
-    {
-      "added_at": "2022-08-31 13:44:14",
-      "album": {
-        "name": "Beethoven: Piano Sonatas Woo 47, 'Kurfurstensonaten'",
-        "url": "https://open.spotify.com/album/2g0ZrCg26w6cM2zH9nMVdW"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Jen\u0151 Jand\u00f3",
-          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
-        }
-      ],
-      "duration_ms": 176333,
-      "name": "Piano Sonata in E-Flat Major, WoO 47, No. 1, \"Kurfurstensonaten\": II. Andante",
-      "url": "https://open.spotify.com/track/4dbQI0xIj9w88vvRBqa4LS"
     },
     {
       "added_at": "2022-08-31 13:44:14",

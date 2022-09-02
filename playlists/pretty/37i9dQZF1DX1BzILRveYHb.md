@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BzILRveYHb.md) - [plain]
 
 > Easy listening pop for warmer days.
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,830 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 519,046 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BzILRveYHb.md) - [plain]
 | 16 | [Island In The Sun](https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Green Album\)](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:20 |
 | 17 | [Drops of Jupiter \(Tell Me\)](https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Drops Of Jupiter](https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT) | 4:19 |
 | 18 | [sun and moon](https://open.spotify.com/track/769Ld8demNhMgVLAQcjTDn) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [sun and moon](https://open.spotify.com/album/4bUd4H9GN11TlKhJDBUGsc) | 2:31 |
-| 19 | [Three Little Birds](https://open.spotify.com/track/75FYqcxt1YEAtqDLrOeIJn) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:00 |
-| 20 | [Fast Car](https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 4:56 |
+| 19 | [Fast Car](https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 4:56 |
+| 20 | [Three Little Birds](https://open.spotify.com/track/75FYqcxt1YEAtqDLrOeIJn) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:00 |
 | 21 | [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 |
 | 22 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh) | [Edison Lighthouse](https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa) | [Love Grows \(Where My Rosemary Goes\) & Other Gems](https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y) | 2:54 |
 | 23 | [Malibu](https://open.spotify.com/track/1UZOjK1BwmwWU14Erba9CZ) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Younger Now](https://open.spotify.com/album/5xG9gJcs9ut3qDWezHUlsX) | 3:51 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BzILRveYHb.md) - [plain]
 | 46 | [Upside Down](https://open.spotify.com/track/0aJrYfARfCKzv6gXjhs4SZ) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Upside Down](https://open.spotify.com/album/4nvgSs9EQXS5AIwprqq8OU) | 3:29 |
 | 47 | [I Try](https://open.spotify.com/track/5TAf4lnZCZTLlZHNZMLFLi) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [On How Life Is](https://open.spotify.com/album/50DkoLL4ArRVXhWx9ssQSe) | 3:59 |
 | 48 | [GOOD TIME](https://open.spotify.com/track/2S8UMuLJ0z8agFgFGJ6Ztt) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [GOOD TIME](https://open.spotify.com/album/5WvmRAsjmB3uPLoFeCioC5) | 3:34 |
-| 49 | [23](https://open.spotify.com/track/4PuAqZlL1tkidkuxfDlLbF) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [23](https://open.spotify.com/album/3i5LIueVgxjgCu1TIZOraP) | 2:59 |
-| 50 | [Come On Get Higher](https://open.spotify.com/track/38YgZVHPWOWsKrsCXz6JyP) | [Matt Nathanson](https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA) | [Some Mad Hope](https://open.spotify.com/album/45A2E1YR00sPSwxJw5d3qu) | 3:35 |
+| 49 | [Come On Get Higher](https://open.spotify.com/track/38YgZVHPWOWsKrsCXz6JyP) | [Matt Nathanson](https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA) | [Some Mad Hope](https://open.spotify.com/album/45A2E1YR00sPSwxJw5d3qu) | 3:35 |
+| 50 | [23](https://open.spotify.com/track/4PuAqZlL1tkidkuxfDlLbF) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [23](https://open.spotify.com/album/3i5LIueVgxjgCu1TIZOraP) | 2:59 |
 | 51 | [Only Wanna Be with You](https://open.spotify.com/track/1OFKUn2VLafrHj7ybnap0Q) | [Hootie & The Blowfish](https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof) | [Cracked Rear View](https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K) | 3:49 |
 | 52 | [Ironic \- 2015 Remaster](https://open.spotify.com/track/1d6KS9GH06JAd19uiBy9IE) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 3:50 |
 | 53 | [Better Together](https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:27 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BzILRveYHb.md) - [plain]
 | 74 | [Every Morning](https://open.spotify.com/track/2ouURa1AIXp3AvkS52Jry5) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [14:59](https://open.spotify.com/album/43NNW7iDuAE8pIouzvwWWi) | 3:39 |
 | 75 | [Flake](https://open.spotify.com/track/7hOXiS6kDP4vYIh9DBsNgK) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Brushfire Fairytales \[Remastered \(Bonus Version\)\]](https://open.spotify.com/album/797PJRUOp9NICoGRKjpAnx) | 4:41 |
 
-Snapshot ID: `MTY2MTQwMTQ5MCwwMDAwMDAwMGNjNzlhNDIxMDFlMzZhN2QxYTRmNDA1ZmRhMzk1NTgz`
+Snapshot ID: `MTY2MTQwMTQ5MCwwMDAwMDAwMGE1ZWFkZDFjOTBiODM5MzMyZjA3NTk0ZjUxMmM5YzJh`

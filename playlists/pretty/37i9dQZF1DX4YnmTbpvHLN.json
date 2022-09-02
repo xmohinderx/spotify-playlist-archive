@@ -1,12 +1,12 @@
 {
   "description": "Degusta de lo m\u00e1s delicioso para cenar.",
-  "num_followers": 246913,
+  "num_followers": 246911,
   "original_name": "Cena con Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk1NDI5MywwMDAwMDAwMDBlYTg1NjhhNGNiMjM5Y2VmNmI5MDAxMGYxOGI5NDY3",
+  "snapshot_id": "MTY2MTk1NDI5MywwMDAwMDAwMGNiODhiM2U4MjJhYjQxMmY0YTg4MzA5YzIyYmRmMTRk",
   "tracks": [
     {
       "added_at": "2022-08-31 13:58:13",
@@ -239,6 +239,22 @@
     {
       "added_at": "2022-08-31 13:58:13",
       "album": {
+        "name": "What A Little Moonlight Can Do",
+        "url": "https://open.spotify.com/album/4skOjbMtwpf1zAZHyBanTN"
+      },
+      "artists": [
+        {
+          "name": "Gottfried Barber Trio",
+          "url": "https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf"
+        }
+      ],
+      "duration_ms": 153060,
+      "name": "What A Little Moonlight Can Do",
+      "url": "https://open.spotify.com/track/33sW1w6GqKgSolhokSdhpd"
+    },
+    {
+      "added_at": "2022-08-31 13:58:13",
+      "album": {
         "name": "Akaishi",
         "url": "https://open.spotify.com/album/4wTd18kaoayJm6JDQmiS1e"
       },
@@ -271,22 +287,6 @@
     {
       "added_at": "2022-08-31 13:58:13",
       "album": {
-        "name": "What A Little Moonlight Can Do",
-        "url": "https://open.spotify.com/album/4skOjbMtwpf1zAZHyBanTN"
-      },
-      "artists": [
-        {
-          "name": "Gottfried Barber Trio",
-          "url": "https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf"
-        }
-      ],
-      "duration_ms": 153060,
-      "name": "What A Little Moonlight Can Do",
-      "url": "https://open.spotify.com/track/33sW1w6GqKgSolhokSdhpd"
-    },
-    {
-      "added_at": "2022-08-31 13:58:13",
-      "album": {
         "name": "This Is What I Want for Christmas",
         "url": "https://open.spotify.com/album/6auL7NTcuJr1TVvUcxizeV"
       },
@@ -299,22 +299,6 @@
       "duration_ms": 301500,
       "name": "Clear as Autumn Nights",
       "url": "https://open.spotify.com/track/2PVMfghJc3ayLHjGbGjg3J"
-    },
-    {
-      "added_at": "2022-08-31 13:58:13",
-      "album": {
-        "name": "Midnight Lines",
-        "url": "https://open.spotify.com/album/3fmjOE7ExJ1Dzl5v9CNjzX"
-      },
-      "artists": [
-        {
-          "name": "Josh Lavender Trio",
-          "url": "https://open.spotify.com/artist/4vphT3pBuwveeulpKz5DzU"
-        }
-      ],
-      "duration_ms": 283728,
-      "name": "Midnight Lines",
-      "url": "https://open.spotify.com/track/4sS86z3NqZnfE4RI81ymSV"
     },
     {
       "added_at": "2022-08-31 13:58:13",
@@ -335,6 +319,22 @@
     {
       "added_at": "2022-08-31 13:58:13",
       "album": {
+        "name": "Midnight Lines",
+        "url": "https://open.spotify.com/album/3fmjOE7ExJ1Dzl5v9CNjzX"
+      },
+      "artists": [
+        {
+          "name": "Josh Lavender Trio",
+          "url": "https://open.spotify.com/artist/4vphT3pBuwveeulpKz5DzU"
+        }
+      ],
+      "duration_ms": 283728,
+      "name": "Midnight Lines",
+      "url": "https://open.spotify.com/track/4sS86z3NqZnfE4RI81ymSV"
+    },
+    {
+      "added_at": "2022-08-31 13:58:13",
+      "album": {
         "name": "At Last",
         "url": "https://open.spotify.com/album/1bT8dnaMTDCT8ZUvasMUVn"
       },
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-08-31 13:58:13",
       "album": {
-        "name": "I Thought About Us",
-        "url": "https://open.spotify.com/album/0q97p3nKwoNzSsNxtWqFMN"
-      },
-      "artists": [
-        {
-          "name": "Andy Miller Group",
-          "url": "https://open.spotify.com/artist/7prqikKsztTvb6GHaYVbku"
-        }
-      ],
-      "duration_ms": 237983,
-      "name": "I Thought About Us",
-      "url": "https://open.spotify.com/track/3WuYbFjNzxV1iHsopkRE5v"
-    },
-    {
-      "added_at": "2022-08-31 13:58:13",
-      "album": {
         "name": "It Might As Well Be Spring",
         "url": "https://open.spotify.com/album/0FMeAHDC7zwcktJQ3KUzGw"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 275839,
       "name": "It Might As Well Be Spring",
       "url": "https://open.spotify.com/track/62sqdTmnNpWcJtxtJXmKzy"
+    },
+    {
+      "added_at": "2022-08-31 13:58:13",
+      "album": {
+        "name": "I Thought About Us",
+        "url": "https://open.spotify.com/album/0q97p3nKwoNzSsNxtWqFMN"
+      },
+      "artists": [
+        {
+          "name": "Andy Miller Group",
+          "url": "https://open.spotify.com/artist/7prqikKsztTvb6GHaYVbku"
+        }
+      ],
+      "duration_ms": 237983,
+      "name": "I Thought About Us",
+      "url": "https://open.spotify.com/track/3WuYbFjNzxV1iHsopkRE5v"
     },
     {
       "added_at": "2022-08-31 13:58:13",
@@ -511,18 +511,18 @@
     {
       "added_at": "2022-08-31 13:58:13",
       "album": {
-        "name": "Candlelight",
-        "url": "https://open.spotify.com/album/2RNDKOebbSeGEsjNFt1279"
+        "name": "Bring Some Lovin'",
+        "url": "https://open.spotify.com/album/2yXLY4cvecdiSn24aZF0Fo"
       },
       "artists": [
         {
-          "name": "Trio Del Norte",
-          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
+          "name": "Flatland Park",
+          "url": "https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd"
         }
       ],
-      "duration_ms": 231693,
-      "name": "May Dance",
-      "url": "https://open.spotify.com/track/2daoiHZab1n6yJPQjTEDap"
+      "duration_ms": 189476,
+      "name": "Bring Some Lovin'",
+      "url": "https://open.spotify.com/track/0V3X52LW5ERZOOWS8HnJjr"
     },
     {
       "added_at": "2022-08-31 13:58:13",
@@ -559,18 +559,18 @@
     {
       "added_at": "2022-08-31 13:58:13",
       "album": {
-        "name": "Bring Some Lovin'",
-        "url": "https://open.spotify.com/album/2yXLY4cvecdiSn24aZF0Fo"
+        "name": "Candlelight",
+        "url": "https://open.spotify.com/album/2RNDKOebbSeGEsjNFt1279"
       },
       "artists": [
         {
-          "name": "Flatland Park",
-          "url": "https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd"
+          "name": "Trio Del Norte",
+          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
         }
       ],
-      "duration_ms": 189476,
-      "name": "Bring Some Lovin'",
-      "url": "https://open.spotify.com/track/0V3X52LW5ERZOOWS8HnJjr"
+      "duration_ms": 231693,
+      "name": "May Dance",
+      "url": "https://open.spotify.com/track/2daoiHZab1n6yJPQjTEDap"
     },
     {
       "added_at": "2022-08-31 13:58:13",
@@ -607,8 +607,8 @@
     {
       "added_at": "2022-08-31 13:58:13",
       "album": {
-        "name": "Obliqua",
-        "url": "https://open.spotify.com/album/7wIe87avpXR4ROh0HktLIX"
+        "name": "Varenne",
+        "url": "https://open.spotify.com/album/0JPktB7VKfmNZsZ1LrwBho"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65"
         }
       ],
-      "duration_ms": 186664,
-      "name": "Caerulea",
-      "url": "https://open.spotify.com/track/05IRllaVkCLy5Iyz3JUXNC"
+      "duration_ms": 224327,
+      "name": "Varenne",
+      "url": "https://open.spotify.com/track/3KPiGdRDaJHCQcuv3m7PG8"
     },
     {
       "added_at": "2022-08-31 13:58:13",
@@ -751,8 +751,8 @@
     {
       "added_at": "2022-08-31 13:58:13",
       "album": {
-        "name": "Varenne",
-        "url": "https://open.spotify.com/album/0JPktB7VKfmNZsZ1LrwBho"
+        "name": "Obliqua",
+        "url": "https://open.spotify.com/album/7wIe87avpXR4ROh0HktLIX"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65"
         }
       ],
-      "duration_ms": 224327,
-      "name": "Varenne",
-      "url": "https://open.spotify.com/track/3KPiGdRDaJHCQcuv3m7PG8"
+      "duration_ms": 186664,
+      "name": "Caerulea",
+      "url": "https://open.spotify.com/track/05IRllaVkCLy5Iyz3JUXNC"
     },
     {
       "added_at": "2022-08-31 13:58:13",
@@ -815,6 +815,22 @@
     {
       "added_at": "2022-08-31 13:58:13",
       "album": {
+        "name": "Chances Are",
+        "url": "https://open.spotify.com/album/7M0LMFQ86GFzDX8UV1L2Hk"
+      },
+      "artists": [
+        {
+          "name": "Bruce Willmington & Co",
+          "url": "https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y"
+        }
+      ],
+      "duration_ms": 282391,
+      "name": "Chances Are",
+      "url": "https://open.spotify.com/track/4gG0X6cfm3Nhlkw3NaL7PC"
+    },
+    {
+      "added_at": "2022-08-31 13:58:13",
+      "album": {
         "name": "Easy Living",
         "url": "https://open.spotify.com/album/4uh99qF1AoXvdsbU8IeMW7"
       },
@@ -863,18 +879,18 @@
     {
       "added_at": "2022-08-31 13:58:13",
       "album": {
-        "name": "Chances Are",
-        "url": "https://open.spotify.com/album/7M0LMFQ86GFzDX8UV1L2Hk"
+        "name": "Ripples of a Stream",
+        "url": "https://open.spotify.com/album/6syN509qNmAdMDqL9X6mm3"
       },
       "artists": [
         {
-          "name": "Bruce Willmington & Co",
-          "url": "https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y"
+          "name": "Turning Trio",
+          "url": "https://open.spotify.com/artist/2BLWgfWw6pN9dHB5XoJPKC"
         }
       ],
-      "duration_ms": 282391,
-      "name": "Chances Are",
-      "url": "https://open.spotify.com/track/4gG0X6cfm3Nhlkw3NaL7PC"
+      "duration_ms": 240480,
+      "name": "Ripples of a Stream",
+      "url": "https://open.spotify.com/track/1EXAQhTMCX9HCIcwYEvdxX"
     },
     {
       "added_at": "2022-08-31 13:58:13",
@@ -939,22 +955,6 @@
       "duration_ms": 261090,
       "name": "September Song",
       "url": "https://open.spotify.com/track/5K9W2clr01zZZVu80avRLA"
-    },
-    {
-      "added_at": "2022-08-31 13:58:13",
-      "album": {
-        "name": "Ripples of a Stream",
-        "url": "https://open.spotify.com/album/6syN509qNmAdMDqL9X6mm3"
-      },
-      "artists": [
-        {
-          "name": "Turning Trio",
-          "url": "https://open.spotify.com/artist/2BLWgfWw6pN9dHB5XoJPKC"
-        }
-      ],
-      "duration_ms": 240480,
-      "name": "Ripples of a Stream",
-      "url": "https://open.spotify.com/track/1EXAQhTMCX9HCIcwYEvdxX"
     },
     {
       "added_at": "2022-08-31 13:58:13",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-08-31 13:58:13",
       "album": {
-        "name": "Hector's Plan",
-        "url": "https://open.spotify.com/album/1E1vK9IaJTTMEYSgAKq7SF"
-      },
-      "artists": [
-        {
-          "name": "Norwood Macdonald Group",
-          "url": "https://open.spotify.com/artist/6HhfFG1K5tRpfzuCzGKQfL"
-        }
-      ],
-      "duration_ms": 144375,
-      "name": "Hector's Plan",
-      "url": "https://open.spotify.com/track/5eWLDX4KoC24EYgrZl8Rta"
-    },
-    {
-      "added_at": "2022-08-31 13:58:13",
-      "album": {
         "name": "If You Could See Me Now",
         "url": "https://open.spotify.com/album/2pNS32INlB1N89pSd0VeLm"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 255210,
       "name": "If You Could See Me Now",
       "url": "https://open.spotify.com/track/5ig6zG9Mpf9Y6PT9pRfSJA"
+    },
+    {
+      "added_at": "2022-08-31 13:58:13",
+      "album": {
+        "name": "Hector's Plan",
+        "url": "https://open.spotify.com/album/1E1vK9IaJTTMEYSgAKq7SF"
+      },
+      "artists": [
+        {
+          "name": "Norwood Macdonald Group",
+          "url": "https://open.spotify.com/artist/6HhfFG1K5tRpfzuCzGKQfL"
+        }
+      ],
+      "duration_ms": 144375,
+      "name": "Hector's Plan",
+      "url": "https://open.spotify.com/track/5eWLDX4KoC24EYgrZl8Rta"
     },
     {
       "added_at": "2022-08-31 13:58:13",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-08-31 13:58:13",
       "album": {
-        "name": "Long Ago (and Far Away)",
-        "url": "https://open.spotify.com/album/5pXFxobaToNeBHgCRV2YNr"
-      },
-      "artists": [
-        {
-          "name": "James Jackson Jazz Trio",
-          "url": "https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ"
-        }
-      ],
-      "duration_ms": 205872,
-      "name": "On a Clear Day (You Can See Forever)",
-      "url": "https://open.spotify.com/track/6zeTz2j5A9G6gEKi34ks05"
-    },
-    {
-      "added_at": "2022-08-31 13:58:13",
-      "album": {
         "name": "My One and Only Love",
         "url": "https://open.spotify.com/album/4XLSNqlvDJlRtA2rZGeIO5"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 205307,
       "name": "My One and Only Love",
       "url": "https://open.spotify.com/track/4sZ6tw9dPrHfoiadJMXnqW"
+    },
+    {
+      "added_at": "2022-08-31 13:58:13",
+      "album": {
+        "name": "Long Ago (and Far Away)",
+        "url": "https://open.spotify.com/album/5pXFxobaToNeBHgCRV2YNr"
+      },
+      "artists": [
+        {
+          "name": "James Jackson Jazz Trio",
+          "url": "https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ"
+        }
+      ],
+      "duration_ms": 205872,
+      "name": "On a Clear Day (You Can See Forever)",
+      "url": "https://open.spotify.com/track/6zeTz2j5A9G6gEKi34ks05"
     },
     {
       "added_at": "2022-08-31 13:58:13",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2022-08-31 13:58:13",
       "album": {
-        "name": "Before You Leave",
-        "url": "https://open.spotify.com/album/009Rfs9urNO7gmuxYWkrWf"
-      },
-      "artists": [
-        {
-          "name": "Geeder",
-          "url": "https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1"
-        }
-      ],
-      "duration_ms": 239913,
-      "name": "When Sunny Gets Blue",
-      "url": "https://open.spotify.com/track/4BD8y4GDB03dHeFnAMEtlz"
-    },
-    {
-      "added_at": "2022-08-31 13:58:13",
-      "album": {
         "name": "All To Soon",
         "url": "https://open.spotify.com/album/4rYzfpEKqXD0aX3ZeVUvHi"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 253641,
       "name": "All To Soon",
       "url": "https://open.spotify.com/track/6IhdygzBXr39qlNR0rLOE6"
+    },
+    {
+      "added_at": "2022-08-31 13:58:13",
+      "album": {
+        "name": "Before You Leave",
+        "url": "https://open.spotify.com/album/009Rfs9urNO7gmuxYWkrWf"
+      },
+      "artists": [
+        {
+          "name": "Geeder",
+          "url": "https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1"
+        }
+      ],
+      "duration_ms": 239913,
+      "name": "When Sunny Gets Blue",
+      "url": "https://open.spotify.com/track/4BD8y4GDB03dHeFnAMEtlz"
     },
     {
       "added_at": "2022-08-31 13:58:13",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2022-08-31 13:58:13",
       "album": {
-        "name": "I've Grown Accustomed To Your Face",
-        "url": "https://open.spotify.com/album/5zkxVrO0q1Kjx1qiMdRi2T"
-      },
-      "artists": [
-        {
-          "name": "Al Fowler Trio",
-          "url": "https://open.spotify.com/artist/5CerxxaCrkjDa5ShjsTwcX"
-        }
-      ],
-      "duration_ms": 256170,
-      "name": "I've Grown Accustomed To Your Face",
-      "url": "https://open.spotify.com/track/6tjpdYez3LQQnwNOWmHe6I"
-    },
-    {
-      "added_at": "2022-08-31 13:58:13",
-      "album": {
         "name": "You Don't Know What Love Is",
         "url": "https://open.spotify.com/album/3WpU0MCWwrDDqsA3KZQJnt"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 150122,
       "name": "You Don't Know What Love Is",
       "url": "https://open.spotify.com/track/4bDk3TKM6kF1MT2Tzek7QJ"
+    },
+    {
+      "added_at": "2022-08-31 13:58:13",
+      "album": {
+        "name": "I've Grown Accustomed To Your Face",
+        "url": "https://open.spotify.com/album/5zkxVrO0q1Kjx1qiMdRi2T"
+      },
+      "artists": [
+        {
+          "name": "Al Fowler Trio",
+          "url": "https://open.spotify.com/artist/5CerxxaCrkjDa5ShjsTwcX"
+        }
+      ],
+      "duration_ms": 256170,
+      "name": "I've Grown Accustomed To Your Face",
+      "url": "https://open.spotify.com/track/6tjpdYez3LQQnwNOWmHe6I"
     },
     {
       "added_at": "2022-08-31 13:58:13",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2022-08-31 13:58:13",
       "album": {
-        "name": "Pretty Ballad",
-        "url": "https://open.spotify.com/album/03Xyg4vzclkEFYYnLDvGMB"
-      },
-      "artists": [
-        {
-          "name": "Louis Silva Band",
-          "url": "https://open.spotify.com/artist/73EUNkbwvo1Y6ZmVjummIq"
-        }
-      ],
-      "duration_ms": 163378,
-      "name": "Love Is a Many-Splendored Thing",
-      "url": "https://open.spotify.com/track/23G8P94lKwgXNAKH2z5VP8"
-    },
-    {
-      "added_at": "2022-08-31 13:58:13",
-      "album": {
         "name": "Blueberry Street",
         "url": "https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 265317,
       "name": "Let's Not",
       "url": "https://open.spotify.com/track/4LJfsJaMLMWNpysdH5K5oS"
+    },
+    {
+      "added_at": "2022-08-31 13:58:13",
+      "album": {
+        "name": "Pretty Ballad",
+        "url": "https://open.spotify.com/album/03Xyg4vzclkEFYYnLDvGMB"
+      },
+      "artists": [
+        {
+          "name": "Louis Silva Band",
+          "url": "https://open.spotify.com/artist/73EUNkbwvo1Y6ZmVjummIq"
+        }
+      ],
+      "duration_ms": 163378,
+      "name": "Love Is a Many-Splendored Thing",
+      "url": "https://open.spotify.com/track/23G8P94lKwgXNAKH2z5VP8"
     },
     {
       "added_at": "2022-08-31 13:58:13",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2022-08-31 13:58:13",
       "album": {
-        "name": "Straight Forward",
-        "url": "https://open.spotify.com/album/6KR1QN0SNpmZZ0swzHR8ZZ"
-      },
-      "artists": [
-        {
-          "name": "Eddie Harper",
-          "url": "https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Windless Days",
-      "url": "https://open.spotify.com/track/0Bybo3KobzGTREyK3gndqc"
-    },
-    {
-      "added_at": "2022-08-31 13:58:13",
-      "album": {
         "name": "After You've Gone",
         "url": "https://open.spotify.com/album/5AqFZGWYwyvmg8t8EyvG1i"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 184280,
       "name": "After You've Gone",
       "url": "https://open.spotify.com/track/1dtR7BTT8888rsckbuzwod"
+    },
+    {
+      "added_at": "2022-08-31 13:58:13",
+      "album": {
+        "name": "Straight Forward",
+        "url": "https://open.spotify.com/album/6KR1QN0SNpmZZ0swzHR8ZZ"
+      },
+      "artists": [
+        {
+          "name": "Eddie Harper",
+          "url": "https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Windless Days",
+      "url": "https://open.spotify.com/track/0Bybo3KobzGTREyK3gndqc"
     },
     {
       "added_at": "2022-08-31 13:58:13",
@@ -1923,6 +1923,22 @@
       "duration_ms": 297386,
       "name": "When I Fall In Love",
       "url": "https://open.spotify.com/track/0w7mhiHnM0rhdu3l5mDDYl"
+    },
+    {
+      "added_at": "2022-08-31 13:58:13",
+      "album": {
+        "name": "Love Will Last Forever",
+        "url": "https://open.spotify.com/album/4usW1UlwKnmOuqsChtx2Xa"
+      },
+      "artists": [
+        {
+          "name": "Michael Stylez & Co",
+          "url": "https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT"
+        }
+      ],
+      "duration_ms": 215917,
+      "name": "Love Will Last Forever",
+      "url": "https://open.spotify.com/track/3AqqDd9zm7ZG8AFaveWYIm"
     },
     {
       "added_at": "2022-08-31 13:58:13",
@@ -2071,6 +2087,22 @@
     {
       "added_at": "2022-08-31 13:58:13",
       "album": {
+        "name": "Songs: The Art of the Trio, Vol. 3",
+        "url": "https://open.spotify.com/album/4XrD4Ta5YWbmJ1O1I4qnS9"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        }
+      ],
+      "duration_ms": 358533,
+      "name": "Bewitched, Bothered and Bewildered",
+      "url": "https://open.spotify.com/track/2aROA14wjchRPpxJMrhzKm"
+    },
+    {
+      "added_at": "2022-08-31 13:58:13",
+      "album": {
         "name": "Ben Webster Plays Ballads Remastered",
         "url": "https://open.spotify.com/album/5RfiNZQf0WbnR5q4rxOebG"
       },
@@ -2099,6 +2131,22 @@
       "duration_ms": 451407,
       "name": "Darn That Dream - Remastered 2015",
       "url": "https://open.spotify.com/track/1Owq03yMItfgZMpt9CSe80"
+    },
+    {
+      "added_at": "2022-08-31 13:58:13",
+      "album": {
+        "name": "All Alone",
+        "url": "https://open.spotify.com/album/5IULrSSu2oXE0tI1vQvDZY"
+      },
+      "artists": [
+        {
+          "name": "110th Street Jazz Trio",
+          "url": "https://open.spotify.com/artist/2iTyqgOU23gOA8FmtoqZhl"
+        }
+      ],
+      "duration_ms": 293461,
+      "name": "Almost Like Being in Love",
+      "url": "https://open.spotify.com/track/4kJiHS82dfbCtJUbZjp0kL"
     },
     {
       "added_at": "2022-08-31 13:58:13",
@@ -2135,34 +2183,18 @@
     {
       "added_at": "2022-08-31 13:58:13",
       "album": {
-        "name": "Songs: The Art of the Trio, Vol. 3",
-        "url": "https://open.spotify.com/album/4XrD4Ta5YWbmJ1O1I4qnS9"
+        "name": "It's You Or No One",
+        "url": "https://open.spotify.com/album/21kjz5LLIGohYrVYgkEI0r"
       },
       "artists": [
         {
-          "name": "Brad Mehldau",
-          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+          "name": "The Blue Green",
+          "url": "https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80"
         }
       ],
-      "duration_ms": 358533,
-      "name": "Bewitched, Bothered and Bewildered",
-      "url": "https://open.spotify.com/track/2aROA14wjchRPpxJMrhzKm"
-    },
-    {
-      "added_at": "2022-08-31 13:58:13",
-      "album": {
-        "name": "All Alone",
-        "url": "https://open.spotify.com/album/5IULrSSu2oXE0tI1vQvDZY"
-      },
-      "artists": [
-        {
-          "name": "110th Street Jazz Trio",
-          "url": "https://open.spotify.com/artist/2iTyqgOU23gOA8FmtoqZhl"
-        }
-      ],
-      "duration_ms": 293461,
-      "name": "Almost Like Being in Love",
-      "url": "https://open.spotify.com/track/4kJiHS82dfbCtJUbZjp0kL"
+      "duration_ms": 214798,
+      "name": "It's You Or No One",
+      "url": "https://open.spotify.com/track/3CewMyxVNsiu94v6Vm0SS2"
     },
     {
       "added_at": "2022-08-31 13:58:13",
@@ -2247,22 +2279,6 @@
     {
       "added_at": "2022-08-31 13:58:13",
       "album": {
-        "name": "Morning Heartache EP",
-        "url": "https://open.spotify.com/album/1nFeazrI7NLYn7QNQakrM8"
-      },
-      "artists": [
-        {
-          "name": "Sixth Street Quartet",
-          "url": "https://open.spotify.com/artist/3VNm5jxAuivvWsOLWcIiVt"
-        }
-      ],
-      "duration_ms": 296517,
-      "name": "Good Morning Heartache",
-      "url": "https://open.spotify.com/track/2YsAqYSahjKY9GJfP53qBx"
-    },
-    {
-      "added_at": "2022-08-31 13:58:13",
-      "album": {
         "name": "Cheek to Cheek",
         "url": "https://open.spotify.com/album/4n1JQHYkpLpScpxqehAYT1"
       },
@@ -2275,6 +2291,22 @@
       "duration_ms": 305091,
       "name": "Embraceable You",
       "url": "https://open.spotify.com/track/0TBwVpOEEwPDExkKPtnzef"
+    },
+    {
+      "added_at": "2022-08-31 13:58:13",
+      "album": {
+        "name": "Morning Heartache EP",
+        "url": "https://open.spotify.com/album/1nFeazrI7NLYn7QNQakrM8"
+      },
+      "artists": [
+        {
+          "name": "Sixth Street Quartet",
+          "url": "https://open.spotify.com/artist/3VNm5jxAuivvWsOLWcIiVt"
+        }
+      ],
+      "duration_ms": 296517,
+      "name": "Good Morning Heartache",
+      "url": "https://open.spotify.com/track/2YsAqYSahjKY9GJfP53qBx"
     },
     {
       "added_at": "2022-08-31 13:58:13",
@@ -2391,38 +2423,6 @@
       "duration_ms": 303356,
       "name": "Quiescence",
       "url": "https://open.spotify.com/track/2fZD8MnLDXP10QfeYNPGHO"
-    },
-    {
-      "added_at": "2022-08-31 13:58:13",
-      "album": {
-        "name": "Hoping",
-        "url": "https://open.spotify.com/album/4fSuViLnkUt5fKf6w3SxtC"
-      },
-      "artists": [
-        {
-          "name": "Tom Stills Quartet",
-          "url": "https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0"
-        }
-      ],
-      "duration_ms": 203537,
-      "name": "Hoping",
-      "url": "https://open.spotify.com/track/6RhZRRN9d78ef1Qhevnxkk"
-    },
-    {
-      "added_at": "2022-08-31 13:58:13",
-      "album": {
-        "name": "'Round Midnight",
-        "url": "https://open.spotify.com/album/78X3XqhFT1W9qTUO506Bm9"
-      },
-      "artists": [
-        {
-          "name": "Corey Christopher Wright",
-          "url": "https://open.spotify.com/artist/76chtyg3RNKYtVaNv2waQk"
-        }
-      ],
-      "duration_ms": 321468,
-      "name": "'Round Midnight",
-      "url": "https://open.spotify.com/track/1FOI8dkOH27cv1FC7ZFOEp"
     }
   ],
   "unique_name": "Cena con Jazz",

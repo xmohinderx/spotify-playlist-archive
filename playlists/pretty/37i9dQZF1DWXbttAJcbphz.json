@@ -1,12 +1,12 @@
 {
   "description": "The most essential R&B songs from the 2010s. Cover: Beyonce",
-  "num_followers": 957857,
+  "num_followers": 958990,
   "original_name": "I Love My '10s R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTU0NTg2NSwwMDAwMDAwMGQyNGUyM2ZlOGU3ZDNkZTlkZTA4Yjc2NTY0NmQyZWYy",
+  "snapshot_id": "MTY2MTU0NTg2NSwwMDAwMDAwMGY3YWZiNzMyNjUxNTZiZjUzNTQ3YTRlYjU3NDY0YjE0",
   "tracks": [
     {
       "added_at": "2022-08-17 16:54:52",
@@ -183,22 +183,6 @@
     {
       "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "ANTI (Deluxe)",
-        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 191600,
-      "name": "Needed Me",
-      "url": "https://open.spotify.com/track/4pAl7FkDMNBsjykPXo91B3"
-    },
-    {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
         "name": "PARTYNEXTDOOR",
         "url": "https://open.spotify.com/album/4EZoN6mRXNcGxHXZC2doJH"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 99213,
       "name": "Break from Toronto",
       "url": "https://open.spotify.com/track/79MSEdtXuudhGhC5AtG07g"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 191600,
+      "name": "Needed Me",
+      "url": "https://open.spotify.com/track/4pAl7FkDMNBsjykPXo91B3"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -501,20 +501,20 @@
       "url": "https://open.spotify.com/track/1boXOL0ua7N2iCOUVI1p9F"
     },
     {
-      "added_at": "2020-10-02 17:39:19",
+      "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "Late Nights: The Album",
-        "url": "https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96"
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/03nFfkhtHqQZZqprep3G6r"
       },
       "artists": [
         {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
         }
       ],
-      "duration_ms": 238320,
-      "name": "oui",
-      "url": "https://open.spotify.com/track/0PJIbOdMs3bd5AT8liULMQ"
+      "duration_ms": 158420,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -533,20 +533,20 @@
       "url": "https://open.spotify.com/track/0f8eRy9A0n6zXpKSHSCAEp"
     },
     {
-      "added_at": "2022-08-21 21:13:22",
+      "added_at": "2020-10-02 17:39:19",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/03nFfkhtHqQZZqprep3G6r"
+        "name": "Late Nights: The Album",
+        "url": "https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96"
       },
       "artists": [
         {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
         }
       ],
-      "duration_ms": 158420,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR"
+      "duration_ms": 238320,
+      "name": "oui",
+      "url": "https://open.spotify.com/track/0PJIbOdMs3bd5AT8liULMQ"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -761,6 +761,22 @@
       "url": "https://open.spotify.com/track/5rgrBsAFYMun6yhtnLKRPz"
     },
     {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "Last Day Of Summer",
+        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 92093,
+      "name": "Deep",
+      "url": "https://open.spotify.com/track/3LfHBTYZBTqmz43tvVXJBd"
+    },
+    {
       "added_at": "2020-10-02 17:39:19",
       "album": {
         "name": "East Atlanta Love Letter",
@@ -799,22 +815,6 @@
       "duration_ms": 259333,
       "name": "Sky Walker (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/5WoaF1B5XIEnWfmb5NZikf"
-    },
-    {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
-        "name": "Last Day Of Summer",
-        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 92093,
-      "name": "Deep",
-      "url": "https://open.spotify.com/track/3LfHBTYZBTqmz43tvVXJBd"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -965,20 +965,20 @@
       "url": "https://open.spotify.com/track/3a3dQOO19moXPeTt2PomoT"
     },
     {
-      "added_at": "2020-10-02 17:39:19",
+      "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/17dsllSewkPuKbkGWU4chD"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
         }
       ],
-      "duration_ms": 206080,
-      "name": "Formation",
-      "url": "https://open.spotify.com/track/6g0Orsxv6glTJCt4cHsRsQ"
+      "duration_ms": 212992,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/5NijSs5dAwaIybq1GaRTIe"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -997,20 +997,20 @@
       "url": "https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM"
     },
     {
-      "added_at": "2022-08-21 21:13:22",
+      "added_at": "2020-10-02 17:39:19",
       "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/17dsllSewkPuKbkGWU4chD"
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
       },
       "artists": [
         {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 212992,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/5NijSs5dAwaIybq1GaRTIe"
+      "duration_ms": 206080,
+      "name": "Formation",
+      "url": "https://open.spotify.com/track/6g0Orsxv6glTJCt4cHsRsQ"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "Aquarius",
-        "url": "https://open.spotify.com/album/6zXUDBGLbrB9Kgkw2Y3F7L"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        },
-        {
-          "name": "ScHoolboy Q",
-          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "2 On (feat. ScHoolboy Q)",
-      "url": "https://open.spotify.com/track/3jVtllWS5CFFWLQng8sKsr"
-    },
-    {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
         "name": "ANTI (Deluxe)",
         "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 161066,
       "name": "Consideration",
       "url": "https://open.spotify.com/track/6t90Z9XkdsHD8xMxro6KRP"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "Aquarius",
+        "url": "https://open.spotify.com/album/6zXUDBGLbrB9Kgkw2Y3F7L"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        },
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "2 On (feat. ScHoolboy Q)",
+      "url": "https://open.spotify.com/track/3jVtllWS5CFFWLQng8sKsr"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -1121,24 +1121,24 @@
       "url": "https://open.spotify.com/track/4AtZRwSR8BOTTQg5ihSggt"
     },
     {
-      "added_at": "2020-10-02 17:39:19",
+      "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "BEYONC\u00c9 [Platinum Edition]",
-        "url": "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu"
+        "name": "Unapologetic (Deluxe)",
+        "url": "https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         },
         {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 323480,
-      "name": "Drunk in Love (feat. Jay-Z)",
-      "url": "https://open.spotify.com/track/6jG2YzhxptolDzLHTGLt7S"
+      "duration_ms": 256320,
+      "name": "Loveeeeeee Song",
+      "url": "https://open.spotify.com/track/3DZQ6mzUkAdHqZWzqxBKIK"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -1187,6 +1187,26 @@
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
+        "name": "BEYONC\u00c9 [Platinum Edition]",
+        "url": "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 323480,
+      "name": "Drunk in Love (feat. Jay-Z)",
+      "url": "https://open.spotify.com/track/6jG2YzhxptolDzLHTGLt7S"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
         "name": "Trip",
         "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
       },
@@ -1199,26 +1219,6 @@
       "duration_ms": 236160,
       "name": "While We're Young",
       "url": "https://open.spotify.com/track/4mL59LVbKgOpEACxraGYdr"
-    },
-    {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
-        "name": "Unapologetic (Deluxe)",
-        "url": "https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 256320,
-      "name": "Loveeeeeee Song",
-      "url": "https://open.spotify.com/track/3DZQ6mzUkAdHqZWzqxBKIK"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
-        "name": "Sail Out",
-        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 254493,
-      "name": "The Worst",
-      "url": "https://open.spotify.com/track/2wBCrtJS3E3TimRZ5MElTI"
-    },
-    {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
         "name": "K.T.S.E.",
         "url": "https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 415613,
       "name": "Girl (feat. KAYTRANADA)",
       "url": "https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "Sail Out",
+        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 254493,
+      "name": "The Worst",
+      "url": "https://open.spotify.com/track/2wBCrtJS3E3TimRZ5MElTI"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -1437,26 +1437,6 @@
       "url": "https://open.spotify.com/track/02UJ1sCanP94fS2MdsWafh"
     },
     {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
-        "name": "Sail Out",
-        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 382760,
-      "name": "Stay Ready (What A Life)",
-      "url": "https://open.spotify.com/track/5nkUIVKqOqdpB6ApKgEMkv"
-    },
-    {
       "added_at": "2020-10-02 17:39:19",
       "album": {
         "name": "Trigga Reloaded",
@@ -1475,6 +1455,22 @@
     {
       "added_at": "2022-08-21 21:13:22",
       "album": {
+        "name": "READY",
+        "url": "https://open.spotify.com/album/3o09FMrUQ5TVBUYb6msCMi"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 256063,
+      "name": "Boo'd Up",
+      "url": "https://open.spotify.com/track/0At2qAoaVjIwWNAqrscXli"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
         "name": "Lemonade",
         "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
       },
@@ -1487,6 +1483,26 @@
       "duration_ms": 232560,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/0lnIJmgcUpEpe4AZACjayW"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "Sail Out",
+        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 382760,
+      "name": "Stay Ready (What A Life)",
+      "url": "https://open.spotify.com/track/5nkUIVKqOqdpB6ApKgEMkv"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -1515,34 +1531,18 @@
     {
       "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "READY",
-        "url": "https://open.spotify.com/album/3o09FMrUQ5TVBUYb6msCMi"
+        "name": "Ctrl",
+        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
       },
       "artists": [
         {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 256063,
-      "name": "Boo'd Up",
-      "url": "https://open.spotify.com/track/0At2qAoaVjIwWNAqrscXli"
-    },
-    {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
-        "name": "Kaleidoscope Dream",
-        "url": "https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 193146,
-      "name": "Adorn",
-      "url": "https://open.spotify.com/track/25cUhiAod71TIQSNicOaW3"
+      "duration_ms": 198160,
+      "name": "20 Something",
+      "url": "https://open.spotify.com/track/4h6ViRoztTBpWcJ1zFT9Zg"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -1569,20 +1569,40 @@
       "url": "https://open.spotify.com/track/3fBbfrWZUuWWrMQXFISr7N"
     },
     {
-      "added_at": "2022-08-21 21:13:22",
+      "added_at": "2020-10-02 17:39:19",
       "album": {
-        "name": "Ctrl",
-        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
+        "name": "Kaleidoscope Dream",
+        "url": "https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
         }
       ],
-      "duration_ms": 198160,
-      "name": "20 Something",
-      "url": "https://open.spotify.com/track/4h6ViRoztTBpWcJ1zFT9Zg"
+      "duration_ms": 193146,
+      "name": "Adorn",
+      "url": "https://open.spotify.com/track/25cUhiAod71TIQSNicOaW3"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/0AoPcGhCHaz9K96DoJoKlu"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 264097,
+      "name": "She Don't (feat. Ty Dolla $Ign)",
+      "url": "https://open.spotify.com/track/01JPQ87UHeGysPVwTqMJHK"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -1655,22 +1675,6 @@
     {
       "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "4275 (Bonus Version)",
-        "url": "https://open.spotify.com/album/03AdJ15pTDdmxry6qkKwlO"
-      },
-      "artists": [
-        {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
-        }
-      ],
-      "duration_ms": 217386,
-      "name": "You",
-      "url": "https://open.spotify.com/track/01jIO8SJFnpSiNLH1JaBZ5"
-    },
-    {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
         "name": "PARTYNEXTDOOR",
         "url": "https://open.spotify.com/album/4EZoN6mRXNcGxHXZC2doJH"
       },
@@ -1687,22 +1691,18 @@
     {
       "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/0AoPcGhCHaz9K96DoJoKlu"
+        "name": "4275 (Bonus Version)",
+        "url": "https://open.spotify.com/album/03AdJ15pTDdmxry6qkKwlO"
       },
       "artists": [
         {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
         }
       ],
-      "duration_ms": 264097,
-      "name": "She Don't (feat. Ty Dolla $Ign)",
-      "url": "https://open.spotify.com/track/01JPQ87UHeGysPVwTqMJHK"
+      "duration_ms": 217386,
+      "name": "You",
+      "url": "https://open.spotify.com/track/01jIO8SJFnpSiNLH1JaBZ5"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -1755,18 +1755,18 @@
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
-        "name": "A Seat at the Table",
-        "url": "https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM"
+        "name": "Ella Mai",
+        "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
       },
       "artists": [
         {
-          "name": "Solange",
-          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 250973,
-      "name": "Cranes in the Sky",
-      "url": "https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe"
+      "duration_ms": 239341,
+      "name": "Boo'd Up",
+      "url": "https://open.spotify.com/track/4squZv12LD9M8ooJfoVgZS"
     }
   ],
   "unique_name": "I Love My '10s R&B",

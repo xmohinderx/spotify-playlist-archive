@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 
 > Celebrate Women's History Month with these powerful voices\. Cover: Greeicy
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,746 likes - 140 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,791 likes - 140 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 | 61 | [atravesao](https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [atravesao](https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr) | 3:20 |
 | 62 | [1977](https://open.spotify.com/track/7tOAN6w4a1LD0iqkRnIrhZ) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [1977](https://open.spotify.com/album/3ZhTbUZNobDXuzcYWGzxA3) | 3:21 |
 | 63 | [Valiente](https://open.spotify.com/track/60BzJsRXfql6GwO14IAiiZ) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [\#333](https://open.spotify.com/album/53fIYm90YSwnseipgrVr6M) | 4:15 |
-| 64 | [Andan Diciendo](https://open.spotify.com/track/0wt2PeQ8AeBlx6WbgoM97r) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [Andan Diciendo](https://open.spotify.com/album/4QnRBgWvHDjy8i1buxbHxh) | 3:41 |
-| 65 | [Grande](https://open.spotify.com/track/0DhGX4TE274nIY837mnMoX) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ), [Monica Naranjo](https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO) | [Grande](https://open.spotify.com/album/0KA7zuPdvHyYxfHPS4tvLe) | 3:52 |
+| 64 | [Grande](https://open.spotify.com/track/0DhGX4TE274nIY837mnMoX) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ), [Monica Naranjo](https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO) | [Grande](https://open.spotify.com/album/0KA7zuPdvHyYxfHPS4tvLe) | 3:52 |
+| 65 | [Andan Diciendo](https://open.spotify.com/track/0wt2PeQ8AeBlx6WbgoM97r) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [Andan Diciendo](https://open.spotify.com/album/4QnRBgWvHDjy8i1buxbHxh) | 3:41 |
 | 66 | [No Me Queda Más](https://open.spotify.com/track/4CWNGOfdt0hBP5hBkQUX85) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Baila Esta Cumbia](https://open.spotify.com/album/6MpiAS4mk0S7WRTX0l98z3) | 3:20 |
 | 67 | [Lo Nuestro Vale Más](https://open.spotify.com/track/2aKUQcjDFLAPKeb5GrRiHB) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Aire \(Versión Día\)](https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX) | 3:27 |
 | 68 | [Mami](https://open.spotify.com/track/64IRsSyqwD0CBbFAfrR0rT) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Mami](https://open.spotify.com/album/06xlsaBCqSZ7vDVUcvMn77) | 3:14 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 | 70 | [Pa Ti \(For You\)](https://open.spotify.com/track/2wUgG5Fr9PQcIbKRfVJ76C) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Pa Ti + Lonely](https://open.spotify.com/album/006fEVu63b1nSxinsXZgAt) | 3:49 |
 | 71 | [Cuando Vuelvas](https://open.spotify.com/track/52s1L7krzR2JL4L1Vi7V3X) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Cuando Vuelvas](https://open.spotify.com/album/3CR8IuxBLpzBR1vjS9ONkJ) | 3:13 |
 | 72 | [No Pasa Nada](https://open.spotify.com/track/3Y8xqiwesgj5ytOPpHo6Nx) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [La Piti](https://open.spotify.com/album/1LVYwpAVevauvcv6s8Euh9) | 3:03 |
-| 73 | [La Reina](https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [La Fuerza](https://open.spotify.com/album/10g6da1CbqB78EddjRvJK5) | 3:48 |
-| 74 | [Ese Hombre](https://open.spotify.com/track/1BK353EYyBMkDd80kmfrqA) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Dicen Que Soy](https://open.spotify.com/album/5Bj8dRzPK5F1ozrV5IPb4u) | 4:40 |
+| 73 | [Ese Hombre](https://open.spotify.com/track/1BK353EYyBMkDd80kmfrqA) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Dicen Que Soy](https://open.spotify.com/album/5Bj8dRzPK5F1ozrV5IPb4u) | 4:40 |
+| 74 | [La Reina](https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [La Fuerza](https://open.spotify.com/album/10g6da1CbqB78EddjRvJK5) | 3:48 |
 | 75 | [IDIOTA](https://open.spotify.com/track/0Wk3MRrKRn6EPG7B83nKSJ) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [IDIOTA](https://open.spotify.com/album/5HLaq4AONQkCMvFVHswg85) | 3:25 |
 | 76 | [Como Así \(feat\. CNCO\)](https://open.spotify.com/track/5hoIOyMDt2cQx6DU0UyiBj) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Como Así \(feat\. CNCO\)](https://open.spotify.com/album/6LYy00ZQOKwxjCDGQY442J) | 3:04 |
 | 77 | [Engañémoslo](https://open.spotify.com/track/6ZtFzzPFSwg6rPPfNIqFJj) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu), [Mariachi Los Reyes](https://open.spotify.com/artist/4F7KkuF7t7TJPJk7mNPIlM) | [Engañémoslo](https://open.spotify.com/album/3WEmQxo46sFb48DUXk8nli) | 3:31 |
@@ -113,8 +113,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 | 103 | [Flow Romántico](https://open.spotify.com/track/66bYpXlvjXz2Eh8OXGDKJF) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Flow Romántico](https://open.spotify.com/album/0l7kBoTdW9p4NBsiZT9VX3) | 2:55 |
 | 104 | [Otra Noche](https://open.spotify.com/track/1kX804LMPGHX9JP6G4Dz55) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [En Letra de Otro](https://open.spotify.com/album/7FF6VL4ExrnHjnKAnFgZ4E) | 2:31 |
 | 105 | [LNDF](https://open.spotify.com/track/49b86Qmdexs8IxuaLHD0AA) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [LA NIÑA DE FUEGO](https://open.spotify.com/album/7aqGuXR2Aq76FtenpEEDRO) | 3:02 |
-| 106 | [FLOW CALLE](https://open.spotify.com/track/4ibaExE3ZbmzEuQMPxuBOr) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Flow Calle](https://open.spotify.com/album/6sEaRr8ptd7vz5lbPY22f6) | 3:02 |
-| 107 | [Soy Así](https://open.spotify.com/track/2f59UKerWyhPoPkhdozMZM) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Soy Así](https://open.spotify.com/album/7e7GLih85DGKqsXxfqa7OH) | 3:32 |
+| 106 | [Soy Así](https://open.spotify.com/track/2f59UKerWyhPoPkhdozMZM) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Soy Así](https://open.spotify.com/album/7e7GLih85DGKqsXxfqa7OH) | 3:32 |
+| 107 | [FLOW CALLE](https://open.spotify.com/track/4ibaExE3ZbmzEuQMPxuBOr) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Flow Calle](https://open.spotify.com/album/6sEaRr8ptd7vz5lbPY22f6) | 3:02 |
 | 108 | [Lo Que Yo Diga](https://open.spotify.com/track/2z73UZLP42AKB1xFtdvDCB) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Lo Que Yo Diga](https://open.spotify.com/album/5bFC6O53uKjv2iVtDtkIq4) | 2:32 |
 | 109 | [Extranjera](https://open.spotify.com/track/2mffDxSjRPov1vMXTPGy9i) | [Claudia Prieto](https://open.spotify.com/artist/3sjhqldeYK5lqWkyefb1jG) | [Extranjera](https://open.spotify.com/album/4nw8mW9zWzm6mtD0UXeqJK) | 3:28 |
 | 110 | [Aguardiente \- Remix](https://open.spotify.com/track/6pCUhBhx6VE8L15A6usvi2) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Mauricio Renfigo](https://open.spotify.com/artist/0KOrS1vIyPI4RNJ80VUY8l), [Andrés Torres](https://open.spotify.com/artist/4KLOMib6zqzNayKwLWTs2Q) | [Aguardiente \(Remix\)](https://open.spotify.com/album/6MEDIrVfxoDBboJMDjlqvh) | 2:46 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 | 139 | [Adios](https://open.spotify.com/track/3UL2lHZvjjPEHzwsnqO00v) | [Kim Viera](https://open.spotify.com/artist/4cmSUhjO83qNmK2AvxKQ41), [Cuban Doll](https://open.spotify.com/artist/32DuKytBMZn90iqyh2HEdc) | [Adios](https://open.spotify.com/album/0ISSpToY9pWlRxvX2nnus5) | 3:35 |
 | 140 | [X La Ventana](https://open.spotify.com/track/79u1YgyScSQjVkX1nOgvjf) | [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3) | [Después De Las 12](https://open.spotify.com/album/6OlnxUQuCpysitEtp92uCf) | 2:19 |
 
-Snapshot ID: `MTY0ODQ3NzQyMywwMDAwMDAwMDcyNjI5YjE1ZTViOGVhMmJlMTUwMGU1YjNmZmE2N2Vh`
+Snapshot ID: `MTY0ODQ3NzQyMywwMDAwMDAwMDZmMGY1ODM0YjFhM2I4NmNhYjQ2MWYwOWY0NDZkMzRh`

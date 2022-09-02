@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULcjjSkTbWc.md) - [plain]
 
 > Unos buenos riffs de guitarra para acompañarte en el camino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,591 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,826 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,17 +31,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULcjjSkTbWc.md) - [plain]
 | 21 | [Starman \- 2012 Remaster](https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [The Rise and Fall of Ziggy Stardust and the Spiders from Mars \(2012 Remaster\)](https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56) | 4:14 |
 | 22 | [Labios Rotos \- En Vivo](https://open.spotify.com/track/1nULBrlzWatdcjA2ZctIMv) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [MTV Unplugged Música De Fondo \(Reissue/Live\)](https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV) | 4:03 |
 | 23 | [Walk This Way](https://open.spotify.com/track/5SZ6zX4rOrEQferfFC2MfP) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 3:40 |
-| 24 | [Something In The Way](https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:52 |
+| 24 | [Para No Verte Más](https://open.spotify.com/track/19CmuECYssqkPWANF4nLWM) | [La Mosca Tse\-Tse](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W) | [Visperas De Carnaval](https://open.spotify.com/album/4vIw5XspQuPt04VHX5oK5W) | 3:11 |
 | 25 | [Suite: Judy Blue Eyes \- 2005 Remaster](https://open.spotify.com/track/2PuUFT13yCzUOZun94WOXv) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Crosby, Stills & Nash](https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny) | 7:24 |
-| 26 | [Para No Verte Más](https://open.spotify.com/track/19CmuECYssqkPWANF4nLWM) | [La Mosca Tse\-Tse](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W) | [Visperas De Carnaval](https://open.spotify.com/album/4vIw5XspQuPt04VHX5oK5W) | 3:11 |
+| 26 | [Something In The Way](https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:52 |
 | 27 | [I'm a Believer \- 2006 Remaster](https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [More of The Monkees \(Deluxe Edition\)](https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX) | 2:47 |
 | 28 | [Another One Bites The Dust \- Remastered 2011](https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 3:34 |
 | 29 | [Lonely Boy](https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:13 |
 | 30 | [Alright](https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [I Should Coco](https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd) | 3:00 |
 | 31 | [Vasos Vacíos \- Remasterizado 2008](https://open.spotify.com/track/198qSChSMQFuSimdeeY9gK) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [El Ritmo Mundial](https://open.spotify.com/album/4jrl8361FYPSK2gdEEKATh) | 4:39 |
 | 32 | [Rock the Casbah \- Remastered](https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:42 |
-| 33 | [Blitzkrieg Bop \- 2016 Remaster](https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 2:14 |
-| 34 | [About A Girl](https://open.spotify.com/track/55yvzYuvJYG2RUEnMK78tr) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nirvana](https://open.spotify.com/album/5zBPRXCAc801vyHWoRurNZ) | 2:46 |
+| 33 | [About A Girl](https://open.spotify.com/track/55yvzYuvJYG2RUEnMK78tr) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nirvana](https://open.spotify.com/album/5zBPRXCAc801vyHWoRurNZ) | 2:46 |
+| 34 | [Blitzkrieg Bop \- 2016 Remaster](https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 2:14 |
 | 35 | [Da Ya Think I'm Sexy?](https://open.spotify.com/track/4z7maGZkAonDlXlwo8q69f) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Blondes Have More Fun](https://open.spotify.com/album/38tXOrjXUUfQWWV2DRwMio) | 5:31 |
 | 36 | [Break on Through \(To the Other Side\)](https://open.spotify.com/track/6ToM0uwxtPKo9CMpbPGYvM) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 2:25 |
 | 37 | [Dirty Harry](https://open.spotify.com/track/2bfGNzdiRa1jXZRdfssSzR) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 3:50 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULcjjSkTbWc.md) - [plain]
 | 54 | [La Muralla Verde](https://open.spotify.com/track/6OKhBvddAlWxxFnjbpilhu) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Contrareloj](https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd) | 2:41 |
 | 55 | [Last Nite](https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:13 |
 | 56 | [Lucha De Gigantes](https://open.spotify.com/track/4nheObMzE4K8AIxIICoLgd) | [Nacha Pop](https://open.spotify.com/artist/1CdLG4i1rTEOsex2UE0jCH) | [El Momento](https://open.spotify.com/album/5Vi36yUkwFN0QhdoIItpCR) | 4:08 |
-| 57 | [Comprendes, Mendes?](https://open.spotify.com/track/2YRDxUyqAXbukcjClvuYsd) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Mucho Barato](https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog) | 3:35 |
-| 58 | [Visita](https://open.spotify.com/track/1v15LSVQiEsGm4FK8SH7rI) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Daltónico](https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy) | 3:44 |
+| 57 | [Visita](https://open.spotify.com/track/1v15LSVQiEsGm4FK8SH7rI) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Daltónico](https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy) | 3:44 |
+| 58 | [Comprendes, Mendes?](https://open.spotify.com/track/2YRDxUyqAXbukcjClvuYsd) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Mucho Barato](https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog) | 3:35 |
 | 59 | [Venezia](https://open.spotify.com/track/1wncA7mz0ntqvZ8UzFokGk) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Hombres G \(Edición 30 Aniversario\)](https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y) | 4:30 |
 | 60 | [Southern Cross \- 2005 Remaster](https://open.spotify.com/track/5AoZknxgY6F25gAcVahO41) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Daylight Again \(Deluxe Edition\)](https://open.spotify.com/album/7mepsTLhRL4ghKLZ4oB31u) | 4:41 |
 | 61 | [Drive My Car \- Remastered 2009](https://open.spotify.com/track/06ypiqmILMdVeaiErMFA91) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:28 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULcjjSkTbWc.md) - [plain]
 | 74 | [Close to Me \- 2006 Remaster](https://open.spotify.com/track/7ABE6G4uQxbNtYgVrpBBPA) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head on the Door](https://open.spotify.com/album/6HhpmJekzDCRu2K64ZbWqw) | 3:23 |
 | 75 | [Sí](https://open.spotify.com/track/0RiW6UAHvVbYVEp4Kvxbwj) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Flamingos](https://open.spotify.com/album/2MUTc0OJT6lOZCwifS1LyB) | 3:24 |
 
-Snapshot ID: `MTY1Njk2OTE0NCwwMDAwMDAwMGM5YjU4MDI3ODM5ODc1M2IyOGUyZjBiZDFmNTE1Nzdl`
+Snapshot ID: `MTY1Njk2OTE0NCwwMDAwMDAwMDdiZDU4ZjU2MzA4MzA5ZWM5MDhiZjg2YWM3NmZhMGUz`

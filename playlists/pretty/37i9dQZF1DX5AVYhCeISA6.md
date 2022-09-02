@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 
 > Latinas que inspiran\. Kickback and listen to these amazing women\. Cover: Villano Antillano
 
-[Spotify](https://open.spotify.com/user/spotify) - 592,769 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 592,730 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,12 +69,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 | 59 | [Inventas](https://open.spotify.com/track/48eeeHvDzNvtJiQh5XDs2N) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [Todas las mujeres que habitan en mí](https://open.spotify.com/album/2McQoPHfRjo0Ol6E3thbEM) | 3:36 |
 | 60 | [Toda la Vida](https://open.spotify.com/track/2KSUy9yJZbXXfvIIIqQ6we) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [DOS DOS DOS](https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP) | 3:10 |
 | 61 | [Díganle](https://open.spotify.com/track/4C1opPFRPafp6yj4AJPBRB) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Díganle](https://open.spotify.com/album/72A5178qgxrV4akYnNHl2N) | 3:17 |
-| 62 | [Mariposas](https://open.spotify.com/track/5Ci3Ru41bcPDdFO9NGzF8t) | [Carmen DeLeon](https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l) | [Mariposas](https://open.spotify.com/album/02Nw3ZrfnzNK9Auu7LNuI6) | 3:02 |
-| 63 | [algo así](https://open.spotify.com/track/5YZ6ThqD1WBi9g0YSlLsfW) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [diamantes y espinas](https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T) | 3:33 |
+| 62 | [algo así](https://open.spotify.com/track/5YZ6ThqD1WBi9g0YSlLsfW) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [diamantes y espinas](https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T) | 3:33 |
+| 63 | [Mariposas](https://open.spotify.com/track/5Ci3Ru41bcPDdFO9NGzF8t) | [Carmen DeLeon](https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l) | [Mariposas](https://open.spotify.com/album/02Nw3ZrfnzNK9Auu7LNuI6) | 3:02 |
 | 64 | [Que Me Baile](https://open.spotify.com/track/6dZDBFRYElQx4DY1q62r30) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Que Me Baile](https://open.spotify.com/album/39A93gmprdEh2cctH6K2Ar) | 3:43 |
 | 65 | [No Pasa Nada](https://open.spotify.com/track/3Y8xqiwesgj5ytOPpHo6Nx) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [La Piti](https://open.spotify.com/album/1LVYwpAVevauvcv6s8Euh9) | 3:03 |
-| 66 | [Quédate](https://open.spotify.com/track/0is5MOZLNpo5iAY3M0B9ml) | [Debi Nova](https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Quédate](https://open.spotify.com/album/2DoBcaHj1t8enwJ8sygr3g) | 2:55 |
-| 67 | [Nos Volvimos Locos](https://open.spotify.com/track/0IGVeQJ7K97RuyyUm3cuyi) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Nos Volvimos Locos](https://open.spotify.com/album/1PrUFcnAHFDhCZi2nYdWuG) | 2:56 |
+| 66 | [Nos Volvimos Locos](https://open.spotify.com/track/0IGVeQJ7K97RuyyUm3cuyi) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Nos Volvimos Locos](https://open.spotify.com/album/1PrUFcnAHFDhCZi2nYdWuG) | 2:56 |
+| 67 | [Quédate](https://open.spotify.com/track/0is5MOZLNpo5iAY3M0B9ml) | [Debi Nova](https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Quédate](https://open.spotify.com/album/2DoBcaHj1t8enwJ8sygr3g) | 2:55 |
 | 68 | [LALALA](https://open.spotify.com/track/0vjqOn8iw1jQygL4KK2JCu) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [LALALA](https://open.spotify.com/album/1oOiiAylUiGg1ccIvP5wha) | 2:42 |
 | 69 | [Amores](https://open.spotify.com/track/0BrONFWDiPzPENqT88xP03) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Luis Jimenez](https://open.spotify.com/artist/0Pgy6pdn5oc95ayXvbo6ny) | [Amores](https://open.spotify.com/album/0DSrZQhNEnpV8WiiIoaLVH) | 3:15 |
 | 70 | [Estoy Soltera](https://open.spotify.com/track/597HxeFN4prkOZml250ZhR) | [Leslie Shaw](https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Estoy Soltera](https://open.spotify.com/album/5WZfuGX8Ca4eaes5LYxk22) | 2:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 | 99 | [Noches en Miami](https://open.spotify.com/track/6MkRRQcKD5n3bLmFA3rJbd) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Noches en Miami](https://open.spotify.com/album/2dCZVCwASQV3KKhnAXY7Py) | 2:34 |
 | 100 | [Ram Pam Pam](https://open.spotify.com/track/730gfBUwEpyruhbSvDuytR) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [NATTIVIDAD](https://open.spotify.com/album/2ZjmvVKeVy3CgaT2BvsyvM) | 3:20 |
 
-Snapshot ID: `MTY2MTkzMDAzOSwwMDAwMDAwMGU0ZDJiMTFhYTA5NjE0MWEwYmY5NTI5ZDBhOTQ4Yzgz`
+Snapshot ID: `MTY2MTkzMDAzOSwwMDAwMDAwMGVhNWRiZWMyYzAxMjk5ZjdhMGFlM2UwYzBmYzY1NGFk`

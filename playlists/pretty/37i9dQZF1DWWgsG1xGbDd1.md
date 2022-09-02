@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 
 > You feel the sun on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,516 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,592 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,17 +26,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 16 | [Freedom Sounds](https://open.spotify.com/track/7DEq4R8yj8rsuRMI6e1OHw) | [The Soul Brothers](https://open.spotify.com/artist/4qyyx2In3fnMlPjQBfppNn) | [Fat Back Ska, Vol\. 2](https://open.spotify.com/album/5QGdLISCEC2ttoanO2VKFw) | 4:10 |
 | 17 | [Call to Me \(aka Come to Me\)](https://open.spotify.com/track/07JiDePV5j3JS2Ohss2u7y) | [Rita Marley](https://open.spotify.com/artist/13Kn0OI9oXhBDXClb1hGy3) | [Dancing the Ska](https://open.spotify.com/album/6b2G79N6sJoKbg7Mw0Pubw) | 2:01 |
 | 18 | [Waiting In Vain](https://open.spotify.com/track/58Zt987fK6gWxtO0MwEzPn) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 4:16 |
-| 19 | [Rougher Yet](https://open.spotify.com/track/1NumiJgifR6HwMqasRRqpZ) | [Slim Smith](https://open.spotify.com/artist/2PuBpv31beJyhHfvXoku41) | [Studio One Classics](https://open.spotify.com/album/2orEiw3UrGUBEADbQNxDYR) | 3:06 |
-| 20 | [I Man A Rasta](https://open.spotify.com/track/1IgXDScq9yS18nIGnHVoQ2) | [Freddie McGregor](https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq) | [Studio One Ironsides](https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG) | 3:18 |
-| 21 | [Joe Frazier](https://open.spotify.com/track/7E8tawQq5q8Hr4UWCT7lgT) | [Dennis Alcapone](https://open.spotify.com/artist/3Ko5w2NYcaqtAtvDrJMdw5) | [Studio One Ironsides](https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG) | 3:18 |
-| 22 | [Mark My Word](https://open.spotify.com/track/1uVnn2BEEwbcSmV0YVIGL2) | [Marcia Griffiths](https://open.spotify.com/artist/4qLV9FR6ZVLS6W8drD78hM) | [Studio One Ironsides](https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG) | 2:14 |
-| 23 | [School](https://open.spotify.com/track/6uZVfM3Nr4JWZpcKckTmH7) | [Prince Jazzbo](https://open.spotify.com/artist/7CmIncM3YcuhayKc0ag2w3) | [Studio One Classics](https://open.spotify.com/album/2orEiw3UrGUBEADbQNxDYR) | 2:38 |
+| 19 | [Race Track](https://open.spotify.com/track/0AgvO8IHuz0AqAnOK2Js7h) | [Brentford All Stars](https://open.spotify.com/artist/140dNiDsAyiwBMNCKLZJXc) | [Studio One Scorcher Volume 2](https://open.spotify.com/album/7uBodlWM79A8BbXJqHS90a) | 2:17 |
+| 20 | [Rougher Yet](https://open.spotify.com/track/1NumiJgifR6HwMqasRRqpZ) | [Slim Smith](https://open.spotify.com/artist/2PuBpv31beJyhHfvXoku41) | [Studio One Classics](https://open.spotify.com/album/2orEiw3UrGUBEADbQNxDYR) | 3:06 |
+| 21 | [I Man A Rasta](https://open.spotify.com/track/1IgXDScq9yS18nIGnHVoQ2) | [Freddie McGregor](https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq) | [Studio One Ironsides](https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG) | 3:18 |
+| 22 | [Joe Frazier](https://open.spotify.com/track/7E8tawQq5q8Hr4UWCT7lgT) | [Dennis Alcapone](https://open.spotify.com/artist/3Ko5w2NYcaqtAtvDrJMdw5) | [Studio One Ironsides](https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG) | 3:18 |
+| 23 | [Mark My Word](https://open.spotify.com/track/1uVnn2BEEwbcSmV0YVIGL2) | [Marcia Griffiths](https://open.spotify.com/artist/4qLV9FR6ZVLS6W8drD78hM) | [Studio One Ironsides](https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG) | 2:14 |
 | 24 | [Satisfy My Soul](https://open.spotify.com/track/5Uv1YNz6uBepPLDdoFANKQ) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya](https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a) | 4:31 |
-| 25 | [Love Jah](https://open.spotify.com/track/2kNtkx2Bh9qRKELpJMdIks) | [Im and Sound Dimension](https://open.spotify.com/artist/1nfvWfqnzY3Mkn6CFwfe96) | [Studio One Funk](https://open.spotify.com/album/5Ywu5U2ufJsj751yuKw3V4) | 2:36 |
-| 26 | [Live Up to Your Name](https://open.spotify.com/track/7yaIFvg4FW9U3PRnBisAqi) | [Prince Lincoln](https://open.spotify.com/artist/7a6rxqAzBbhDL9fl4NXZzA) | [Studio One Sound](https://open.spotify.com/album/4A6Fpk3NTbzdIXAAFNtJze) | 3:59 |
-| 27 | [Chuky Skank](https://open.spotify.com/track/232oGt97gDd6jJmb9lFcR2) | [Dillinger](https://open.spotify.com/artist/5J69edy1luLIzbgyl4u1Dv) | [Soul Jazz Records Presents Studio One Showcase: The Sound of Studio One in the 1970S](https://open.spotify.com/album/0L3MiIrqhRpjlJu3wmMGzO) | 2:39 |
-| 28 | [Simmer Down](https://open.spotify.com/track/2qUkkHORN5objY895DYs55) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Studio One Classics](https://open.spotify.com/album/2orEiw3UrGUBEADbQNxDYR) | 2:52 |
-| 29 | [Race Track](https://open.spotify.com/track/0AgvO8IHuz0AqAnOK2Js7h) | [Brentford All Stars](https://open.spotify.com/artist/140dNiDsAyiwBMNCKLZJXc) | [Studio One Scorcher Volume 2](https://open.spotify.com/album/7uBodlWM79A8BbXJqHS90a) | 2:17 |
+| 25 | [School](https://open.spotify.com/track/6uZVfM3Nr4JWZpcKckTmH7) | [Prince Jazzbo](https://open.spotify.com/artist/7CmIncM3YcuhayKc0ag2w3) | [Studio One Classics](https://open.spotify.com/album/2orEiw3UrGUBEADbQNxDYR) | 2:38 |
+| 26 | [Love Jah](https://open.spotify.com/track/2kNtkx2Bh9qRKELpJMdIks) | [Im and Sound Dimension](https://open.spotify.com/artist/1nfvWfqnzY3Mkn6CFwfe96) | [Studio One Funk](https://open.spotify.com/album/5Ywu5U2ufJsj751yuKw3V4) | 2:36 |
+| 27 | [Live Up to Your Name](https://open.spotify.com/track/7yaIFvg4FW9U3PRnBisAqi) | [Prince Lincoln](https://open.spotify.com/artist/7a6rxqAzBbhDL9fl4NXZzA) | [Studio One Sound](https://open.spotify.com/album/4A6Fpk3NTbzdIXAAFNtJze) | 3:59 |
+| 28 | [Chuky Skank](https://open.spotify.com/track/232oGt97gDd6jJmb9lFcR2) | [Dillinger](https://open.spotify.com/artist/5J69edy1luLIzbgyl4u1Dv) | [Soul Jazz Records Presents Studio One Showcase: The Sound of Studio One in the 1970S](https://open.spotify.com/album/0L3MiIrqhRpjlJu3wmMGzO) | 2:39 |
+| 29 | [Simmer Down](https://open.spotify.com/track/2qUkkHORN5objY895DYs55) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Studio One Classics](https://open.spotify.com/album/2orEiw3UrGUBEADbQNxDYR) | 2:52 |
 | 30 | [Skylarking](https://open.spotify.com/track/58iZqKMclBROw5IjI4cwQ6) | [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [Studio One Rockers](https://open.spotify.com/album/1EFphq3puPV57G4nDjqodc) | 3:07 |
 | 31 | [Stir It Up \- Jamaican Version](https://open.spotify.com/track/1XjUvJv6w3aTu8o6XszTHS) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Catch A Fire](https://open.spotify.com/album/39kLAVdcgW7jbMcTEaY2qy) | 3:37 |
 | 32 | [Reggae Version](https://open.spotify.com/track/7gnGakKfPtbXTDh9zoj1r4) | [Drum Bago and Rebel Group](https://open.spotify.com/artist/0BoSjN4E9chFiBI118KLwM) | [Studio One Ironsides](https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG) | 3:00 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 59 | [Reggae Feet](https://open.spotify.com/track/7bfqVYoG4SEjyp0LgUf6KG) | [Lloyd Williams](https://open.spotify.com/artist/0neTVvqj2VQoVQRrfWtfNE) | [Studio One Funk](https://open.spotify.com/album/5Ywu5U2ufJsj751yuKw3V4) | 2:34 |
 | 60 | [Jericho Skank](https://open.spotify.com/track/3TJ7zlTrUnssanybZDirCu) | [Jackie Mittoo & Ernest Ranglin](https://open.spotify.com/artist/3qqbVqjun4ZUlWsjwg8tQq) | [Studio One Scorcher](https://open.spotify.com/album/1029hBjeSFRkXBRBsy1jvi) | 2:57 |
 
-Snapshot ID: `MTYxOTE3MTcwNCwwMDAwMDAwMDI3OTFkYjhkZGU4YmQ0N2UxOWJhOGRiNzM5NzhiZDdh`
+Snapshot ID: `MTYxOTE3MTcwNCwwMDAwMDAwMDlhYmUyZDVjYzYxYzJiZmY0ZjRjYjhhMWU5MzM3MjIy`

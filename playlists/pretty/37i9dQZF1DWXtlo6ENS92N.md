@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtlo6ENS92N.md) - [plain]
 
 > The finest quality of Bollywood music handpicked for you\. Cover\- Alia and Ranbir.
 
-[Spotify](https://open.spotify.com/user/spotify) - 674,558 likes - 55 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 675,291 likes - 55 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtlo6ENS92N.md) - [plain]
 | 54 | [Kalank \(Title Track\)](https://open.spotify.com/track/6vo7Y1iWyZvpjvFbf6BiZ5) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Kalank \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63jrLuBlHcMN7MUbjbJ4LI) | 5:11 |
 | 55 | [Nazm Nazm](https://open.spotify.com/track/1We89SAonMk70QBbfXERxa) | [Arko](https://open.spotify.com/artist/6jf2eKjiPT6P18RbOSLzf0) | [Bareilly Ki Barfi](https://open.spotify.com/album/1P8eifMN4WiKEXtptCBwJQ) | 3:46 |
 
-Snapshot ID: `MTY2MTc5Nzc3NywwMDAwMDAwMDIwOTIwNjg2ZTM5MzVhNWQyYzU1YWFkNzJhZmZhNzA2`
+Snapshot ID: `MTY2MjAyNjc4MiwwMDAwMDAwMGE2ZmU3ZmRkZWRmOGNmNzU5ZGE2YWI4YzdmN2NlNTQz`

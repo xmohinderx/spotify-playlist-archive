@@ -1,12 +1,12 @@
 {
   "description": "Los nuevos sonidos y fusiones de m\u00fasica Alternativa Latina, con Pahua en portada.",
-  "num_followers": 24458,
+  "num_followers": 24482,
   "original_name": "Indie AlterLatino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkyMTMyMCwwMDAwMDAwMGU0YjE3MzBmZjU4MWEyODA0YmZiMjFmYjhjZmU0NzIz",
+  "snapshot_id": "MTY2MTkyMTMyMCwwMDAwMDAwMGUxZTgwMjYwYjM3Mzk3ODkwZWU4MTI0Nzc5NmJjMDE2",
   "tracks": [
     {
       "added_at": "2021-10-05 16:26:53",
@@ -521,22 +521,6 @@
       "url": "https://open.spotify.com/track/1qAtVevO8XshdRHFt9dND2"
     },
     {
-      "added_at": "2022-07-11 18:36:36",
-      "album": {
-        "name": "Me mandaron por tortillas",
-        "url": "https://open.spotify.com/album/2C6SbW2J8gZim56WbhEQmm"
-      },
-      "artists": [
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Me mandaron por tortillas",
-      "url": "https://open.spotify.com/track/3BeAo71NSk2xAFlNAganPw"
-    },
-    {
       "added_at": "2021-11-12 02:37:14",
       "album": {
         "name": "Aguaepanela Fant\u00e1stica",
@@ -551,6 +535,22 @@
       "duration_ms": 255227,
       "name": "Aguaepanela Fant\u00e1stica",
       "url": "https://open.spotify.com/track/4dD12G5mBLuZX59OInpwYt"
+    },
+    {
+      "added_at": "2022-07-11 18:36:36",
+      "album": {
+        "name": "Me mandaron por tortillas",
+        "url": "https://open.spotify.com/album/2C6SbW2J8gZim56WbhEQmm"
+      },
+      "artists": [
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Me mandaron por tortillas",
+      "url": "https://open.spotify.com/track/3BeAo71NSk2xAFlNAganPw"
     },
     {
       "added_at": "2022-04-20 18:21:19",
@@ -585,38 +585,6 @@
       "url": "https://open.spotify.com/track/36smaXbDxNC3RVQZsZW3By"
     },
     {
-      "added_at": "2022-02-18 20:16:34",
-      "album": {
-        "name": "Camino al Mar",
-        "url": "https://open.spotify.com/album/1glNAkJudlAf1dNQUsr18G"
-      },
-      "artists": [
-        {
-          "name": "Acid Coco",
-          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
-        }
-      ],
-      "duration_ms": 242306,
-      "name": "So\u00f1ando",
-      "url": "https://open.spotify.com/track/76H5ZwmUfmQAXwelxMWtbf"
-    },
-    {
-      "added_at": "2021-10-05 16:26:53",
-      "album": {
-        "name": "Madremonte",
-        "url": "https://open.spotify.com/album/4AVxyQmiN8t769CBjIzcZl"
-      },
-      "artists": [
-        {
-          "name": "Jaguar",
-          "url": "https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC"
-        }
-      ],
-      "duration_ms": 263096,
-      "name": "Contra la Corriente",
-      "url": "https://open.spotify.com/track/5BS1ULVFdYWNa4r5kE2Ua2"
-    },
-    {
       "added_at": "2022-02-25 03:28:54",
       "album": {
         "name": "Bonito",
@@ -635,6 +603,38 @@
       "duration_ms": 183829,
       "name": "Bonito",
       "url": "https://open.spotify.com/track/0QvLRuiBiNN1BWa2oVKvNA"
+    },
+    {
+      "added_at": "2021-10-05 16:26:53",
+      "album": {
+        "name": "Madremonte",
+        "url": "https://open.spotify.com/album/4AVxyQmiN8t769CBjIzcZl"
+      },
+      "artists": [
+        {
+          "name": "Jaguar",
+          "url": "https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC"
+        }
+      ],
+      "duration_ms": 263096,
+      "name": "Contra la Corriente",
+      "url": "https://open.spotify.com/track/5BS1ULVFdYWNa4r5kE2Ua2"
+    },
+    {
+      "added_at": "2022-02-18 20:16:34",
+      "album": {
+        "name": "Camino al Mar",
+        "url": "https://open.spotify.com/album/1glNAkJudlAf1dNQUsr18G"
+      },
+      "artists": [
+        {
+          "name": "Acid Coco",
+          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
+        }
+      ],
+      "duration_ms": 242306,
+      "name": "So\u00f1ando",
+      "url": "https://open.spotify.com/track/76H5ZwmUfmQAXwelxMWtbf"
     },
     {
       "added_at": "2022-06-24 16:07:34",
@@ -885,26 +885,6 @@
       "url": "https://open.spotify.com/track/4Rar7xh8FOl8N50d4i4IL8"
     },
     {
-      "added_at": "2022-07-25 03:37:28",
-      "album": {
-        "name": "Amuleto",
-        "url": "https://open.spotify.com/album/1U6e6MPp6JaQ9lFo6YJyKp"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "Terror/Cactus",
-          "url": "https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq"
-        }
-      ],
-      "duration_ms": 191150,
-      "name": "Amuleto",
-      "url": "https://open.spotify.com/track/5vpCo7GpBJmc8RWkOZyvtI"
-    },
-    {
       "added_at": "2022-03-11 03:21:01",
       "album": {
         "name": "El Invento EP",
@@ -923,6 +903,26 @@
       "duration_ms": 264186,
       "name": "El Invento - Sofia Kourtesis Remix",
       "url": "https://open.spotify.com/track/7HxxjXqKiVnwJescANPzHu"
+    },
+    {
+      "added_at": "2022-07-25 03:37:28",
+      "album": {
+        "name": "Amuleto",
+        "url": "https://open.spotify.com/album/1U6e6MPp6JaQ9lFo6YJyKp"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "Terror/Cactus",
+          "url": "https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq"
+        }
+      ],
+      "duration_ms": 191150,
+      "name": "Amuleto",
+      "url": "https://open.spotify.com/track/5vpCo7GpBJmc8RWkOZyvtI"
     },
     {
       "added_at": "2021-10-05 16:26:53",
@@ -949,6 +949,22 @@
       "url": "https://open.spotify.com/track/6NKV4jEVqmJ6tsoyNEg2SQ"
     },
     {
+      "added_at": "2022-03-30 03:09:53",
+      "album": {
+        "name": "El Sonido Nuevo de",
+        "url": "https://open.spotify.com/album/5bp7bVrqq6t71CWU9KSmu5"
+      },
+      "artists": [
+        {
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+        }
+      ],
+      "duration_ms": 200458,
+      "name": "Towards The Mountain",
+      "url": "https://open.spotify.com/track/4CvfQTMaKGGD7eR5tIDrT7"
+    },
+    {
       "added_at": "2022-02-18 04:21:33",
       "album": {
         "name": "De los L\u00edmites",
@@ -967,22 +983,6 @@
       "duration_ms": 253591,
       "name": "De los L\u00edmites",
       "url": "https://open.spotify.com/track/0v3lS1moJvRrPHrULPTWNf"
-    },
-    {
-      "added_at": "2022-03-30 03:09:53",
-      "album": {
-        "name": "El Sonido Nuevo de",
-        "url": "https://open.spotify.com/album/5bp7bVrqq6t71CWU9KSmu5"
-      },
-      "artists": [
-        {
-          "name": "Pachyman",
-          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
-        }
-      ],
-      "duration_ms": 200458,
-      "name": "Towards The Mountain",
-      "url": "https://open.spotify.com/track/4CvfQTMaKGGD7eR5tIDrT7"
     },
     {
       "added_at": "2022-01-11 00:19:39",
@@ -1057,22 +1057,6 @@
       "url": "https://open.spotify.com/track/4MuvBf04XjJAK9v7ndBwbY"
     },
     {
-      "added_at": "2022-08-08 21:56:18",
-      "album": {
-        "name": "Marineros",
-        "url": "https://open.spotify.com/album/0fJJS7pmFtmEH5Lrfneny0"
-      },
-      "artists": [
-        {
-          "name": "Ulises Hadjis",
-          "url": "https://open.spotify.com/artist/5Udwg8yiCTj2zTRt8zKRWH"
-        }
-      ],
-      "duration_ms": 128371,
-      "name": "Marineros",
-      "url": "https://open.spotify.com/track/1TIyjwt0Q7tOe99lu1SjRA"
-    },
-    {
       "added_at": "2021-10-05 16:26:53",
       "album": {
         "name": "Spotify Singles",
@@ -1087,6 +1071,22 @@
       "duration_ms": 228839,
       "name": "Declare Independence - Spotify Singles",
       "url": "https://open.spotify.com/track/6KkwQNxduqthj40TlNVD1j"
+    },
+    {
+      "added_at": "2022-08-08 21:56:18",
+      "album": {
+        "name": "Marineros",
+        "url": "https://open.spotify.com/album/0fJJS7pmFtmEH5Lrfneny0"
+      },
+      "artists": [
+        {
+          "name": "Ulises Hadjis",
+          "url": "https://open.spotify.com/artist/5Udwg8yiCTj2zTRt8zKRWH"
+        }
+      ],
+      "duration_ms": 128371,
+      "name": "Marineros",
+      "url": "https://open.spotify.com/track/1TIyjwt0Q7tOe99lu1SjRA"
     },
     {
       "added_at": "2022-07-15 04:48:04",
@@ -1193,22 +1193,6 @@
       "url": "https://open.spotify.com/track/2KwvFhXURAAxJZ9OSfjVxO"
     },
     {
-      "added_at": "2022-02-25 03:53:48",
-      "album": {
-        "name": "Canoas",
-        "url": "https://open.spotify.com/album/2aRUgi8wUIUxzgO5VEOCDv"
-      },
-      "artists": [
-        {
-          "name": "BALTHVS",
-          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
-        }
-      ],
-      "duration_ms": 297000,
-      "name": "Canoas",
-      "url": "https://open.spotify.com/track/7IUGR0FsJjrME1T9fmN2Ig"
-    },
-    {
       "added_at": "2021-10-05 16:26:53",
       "album": {
         "name": "Perdida En Un Sue\u00f1o",
@@ -1227,6 +1211,22 @@
       "duration_ms": 154440,
       "name": "Perdida En Un Sue\u00f1o",
       "url": "https://open.spotify.com/track/1wRVAinPRWyR67BD7DIlRJ"
+    },
+    {
+      "added_at": "2022-02-25 03:53:48",
+      "album": {
+        "name": "Canoas",
+        "url": "https://open.spotify.com/album/2aRUgi8wUIUxzgO5VEOCDv"
+      },
+      "artists": [
+        {
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+        }
+      ],
+      "duration_ms": 297000,
+      "name": "Canoas",
+      "url": "https://open.spotify.com/track/7IUGR0FsJjrME1T9fmN2Ig"
     },
     {
       "added_at": "2021-11-10 05:48:01",
@@ -1357,38 +1357,6 @@
       "url": "https://open.spotify.com/track/6OOmsVhtxm6wTvupGDvq9V"
     },
     {
-      "added_at": "2022-02-12 01:22:06",
-      "album": {
-        "name": "Cascabel",
-        "url": "https://open.spotify.com/album/4LKr3W9nb0ZAU56TsKgye5"
-      },
-      "artists": [
-        {
-          "name": "Centeno",
-          "url": "https://open.spotify.com/artist/0SXDnCbgaeQMMXjXaspnUb"
-        }
-      ],
-      "duration_ms": 194999,
-      "name": "Cascabel",
-      "url": "https://open.spotify.com/track/7KMZLP9Ehk6rbFHs6F3QWR"
-    },
-    {
-      "added_at": "2021-10-05 16:26:53",
-      "album": {
-        "name": "Curandero",
-        "url": "https://open.spotify.com/album/3hbeW1sJ4F6IT5bV5qquM4"
-      },
-      "artists": [
-        {
-          "name": "Orkesta Mendoza",
-          "url": "https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT"
-        }
-      ],
-      "duration_ms": 158677,
-      "name": "Paleta",
-      "url": "https://open.spotify.com/track/4UGMFGzGdq4H6nIM82d7mP"
-    },
-    {
       "added_at": "2022-04-12 02:37:18",
       "album": {
         "name": "New Latam Beats from Mexico Curated by Diguital Trip",
@@ -1423,6 +1391,38 @@
       "duration_ms": 200750,
       "name": "Calle Brasil",
       "url": "https://open.spotify.com/track/5Yp11ERdglGeV2akmFrhtU"
+    },
+    {
+      "added_at": "2022-02-12 01:22:06",
+      "album": {
+        "name": "Cascabel",
+        "url": "https://open.spotify.com/album/4LKr3W9nb0ZAU56TsKgye5"
+      },
+      "artists": [
+        {
+          "name": "Centeno",
+          "url": "https://open.spotify.com/artist/0SXDnCbgaeQMMXjXaspnUb"
+        }
+      ],
+      "duration_ms": 194999,
+      "name": "Cascabel",
+      "url": "https://open.spotify.com/track/7KMZLP9Ehk6rbFHs6F3QWR"
+    },
+    {
+      "added_at": "2021-10-05 16:26:53",
+      "album": {
+        "name": "Curandero",
+        "url": "https://open.spotify.com/album/3hbeW1sJ4F6IT5bV5qquM4"
+      },
+      "artists": [
+        {
+          "name": "Orkesta Mendoza",
+          "url": "https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT"
+        }
+      ],
+      "duration_ms": 158677,
+      "name": "Paleta",
+      "url": "https://open.spotify.com/track/4UGMFGzGdq4H6nIM82d7mP"
     },
     {
       "added_at": "2021-10-05 16:26:53",
@@ -1509,6 +1509,22 @@
       "url": "https://open.spotify.com/track/0vgmxe7O7xwyqSVi6ZvGyw"
     },
     {
+      "added_at": "2021-10-22 05:00:00",
+      "album": {
+        "name": "Loco Playa",
+        "url": "https://open.spotify.com/album/635YaUKh0wj4yKODmNC2L7"
+      },
+      "artists": [
+        {
+          "name": "El General Villamil",
+          "url": "https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH"
+        }
+      ],
+      "duration_ms": 217366,
+      "name": "Loco Playa",
+      "url": "https://open.spotify.com/track/6fLQh9kAnir7RZGzM4OnXV"
+    },
+    {
       "added_at": "2021-10-05 16:26:53",
       "album": {
         "name": "Coidar dunhas Colmeas",
@@ -1563,22 +1579,6 @@
       "duration_ms": 240265,
       "name": "Mi palabra (feat. Ana Tijoux)",
       "url": "https://open.spotify.com/track/7tkJLOBu9s6UnOUE114hUS"
-    },
-    {
-      "added_at": "2021-10-22 05:00:00",
-      "album": {
-        "name": "Loco Playa",
-        "url": "https://open.spotify.com/album/635YaUKh0wj4yKODmNC2L7"
-      },
-      "artists": [
-        {
-          "name": "El General Villamil",
-          "url": "https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH"
-        }
-      ],
-      "duration_ms": 217366,
-      "name": "Loco Playa",
-      "url": "https://open.spotify.com/track/6fLQh9kAnir7RZGzM4OnXV"
     },
     {
       "added_at": "2021-10-05 16:26:53",

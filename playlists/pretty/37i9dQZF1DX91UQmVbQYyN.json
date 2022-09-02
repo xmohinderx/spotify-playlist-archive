@@ -1,12 +1,12 @@
 {
   "description": "Some of the most mesmerizing voices and masterful musicians of indie. Cover: Florence + The Machine",
-  "num_followers": 496421,
+  "num_followers": 496112,
   "original_name": "EQUAL Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODA2OTA4MywwMDAwMDAwMGE1YzgyZThhMTM3MDdhMjEyNzI0YjI5M2EyM2JjMmJk",
+  "snapshot_id": "MTY0ODA2OTA4MywwMDAwMDAwMDQwMDE0NDIxYjQzOTNlMjA2NjRlNGZiYzI5NzU5ZDVk",
   "tracks": [
     {
       "added_at": "2022-03-08 05:00:00",
@@ -699,6 +699,22 @@
     {
       "added_at": "2022-03-08 05:00:00",
       "album": {
+        "name": "Modus Vivendi",
+        "url": "https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU"
+      },
+      "artists": [
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Guilty Conscience",
+      "url": "https://open.spotify.com/track/0smgkpVia3VCXgY4qhVJvp"
+    },
+    {
+      "added_at": "2022-03-08 05:00:00",
+      "album": {
         "name": "Simple Things",
         "url": "https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 271520,
       "name": "In The Waiting Line",
       "url": "https://open.spotify.com/track/5ARrtxJLVCeTv5TWo1oKgC"
-    },
-    {
-      "added_at": "2022-03-08 05:00:00",
-      "album": {
-        "name": "Modus Vivendi",
-        "url": "https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU"
-      },
-      "artists": [
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Guilty Conscience",
-      "url": "https://open.spotify.com/track/0smgkpVia3VCXgY4qhVJvp"
     },
     {
       "added_at": "2022-03-08 05:00:00",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2022-03-08 05:00:00",
       "album": {
+        "name": "Care For You",
+        "url": "https://open.spotify.com/album/4ENFZsf6OIKxck9I6gUwrk"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 156026,
+      "name": "Care For You",
+      "url": "https://open.spotify.com/track/2CBtdZVcpSwaxOcLUi1AGo"
+    },
+    {
+      "added_at": "2022-03-08 05:00:00",
+      "album": {
         "name": "Pleasantville -Music From The Motion Picture",
         "url": "https://open.spotify.com/album/3QofKE2yZcsjKOUw6fyyn3"
       },
@@ -1279,22 +1295,6 @@
     {
       "added_at": "2022-03-08 05:00:00",
       "album": {
-        "name": "Care For You",
-        "url": "https://open.spotify.com/album/4ENFZsf6OIKxck9I6gUwrk"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 156026,
-      "name": "Care For You",
-      "url": "https://open.spotify.com/track/2CBtdZVcpSwaxOcLUi1AGo"
-    },
-    {
-      "added_at": "2022-03-08 05:00:00",
-      "album": {
         "name": "concussion",
         "url": "https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2"
       },
@@ -1323,6 +1323,22 @@
       "duration_ms": 164946,
       "name": "Oh No",
       "url": "https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph"
+    },
+    {
+      "added_at": "2022-03-08 05:00:00",
+      "album": {
+        "name": "Lianne La Havas",
+        "url": "https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "duration_ms": 298720,
+      "name": "Paper Thin",
+      "url": "https://open.spotify.com/track/7kC97zPE0PxrcItXyGdk8P"
     },
     {
       "added_at": "2022-03-08 05:00:00",
@@ -1359,22 +1375,6 @@
     {
       "added_at": "2022-03-08 05:00:00",
       "album": {
-        "name": "Lianne La Havas",
-        "url": "https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV"
-      },
-      "artists": [
-        {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
-        }
-      ],
-      "duration_ms": 298720,
-      "name": "Paper Thin",
-      "url": "https://open.spotify.com/track/7kC97zPE0PxrcItXyGdk8P"
-    },
-    {
-      "added_at": "2022-03-08 05:00:00",
-      "album": {
         "name": "Kissing Lessons",
         "url": "https://open.spotify.com/album/0uXVaGNDshKcJr0CXlWeYj"
       },
@@ -1387,22 +1387,6 @@
       "duration_ms": 114653,
       "name": "Kissing Lessons",
       "url": "https://open.spotify.com/track/3KRdLDjxlAY7ku93tOG0b1"
-    },
-    {
-      "added_at": "2022-03-08 05:00:00",
-      "album": {
-        "name": "Now & Then",
-        "url": "https://open.spotify.com/album/6uR4bPGGdQHDphbyubK9zc"
-      },
-      "artists": [
-        {
-          "name": "Sjowgren",
-          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
-        }
-      ],
-      "duration_ms": 205893,
-      "name": "Now & Then",
-      "url": "https://open.spotify.com/track/41oqThgUF4yiNz77TazXtl"
     },
     {
       "added_at": "2022-03-08 05:00:00",
@@ -1423,18 +1407,18 @@
     {
       "added_at": "2022-03-08 05:00:00",
       "album": {
-        "name": "Bunny Is A Rider",
-        "url": "https://open.spotify.com/album/2cwOa6RStGRanie22to0NO"
+        "name": "Now & Then",
+        "url": "https://open.spotify.com/album/6uR4bPGGdQHDphbyubK9zc"
       },
       "artists": [
         {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+          "name": "Sjowgren",
+          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
         }
       ],
-      "duration_ms": 197480,
-      "name": "Bunny Is A Rider",
-      "url": "https://open.spotify.com/track/1rYABrDmfqVmJMwaNJBUUb"
+      "duration_ms": 205893,
+      "name": "Now & Then",
+      "url": "https://open.spotify.com/track/41oqThgUF4yiNz77TazXtl"
     },
     {
       "added_at": "2022-03-08 05:00:00",
@@ -1451,6 +1435,22 @@
       "duration_ms": 249739,
       "name": "Beggin For Thread",
       "url": "https://open.spotify.com/track/4PvD06Pmbm2rHG2JjSlElF"
+    },
+    {
+      "added_at": "2022-03-08 05:00:00",
+      "album": {
+        "name": "Bunny Is A Rider",
+        "url": "https://open.spotify.com/album/2cwOa6RStGRanie22to0NO"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 197480,
+      "name": "Bunny Is A Rider",
+      "url": "https://open.spotify.com/track/1rYABrDmfqVmJMwaNJBUUb"
     },
     {
       "added_at": "2022-03-08 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,909 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,916 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 | 2 | [告白氣球](https://open.spotify.com/track/1ivCIgrYZyE0BvItL4Z8lk) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [周杰倫的床邊故事](https://open.spotify.com/album/5clrYp291Dg0XL6rgvOgoB) | 3:35 |
 | 3 | [世界末日後的浪漫](https://open.spotify.com/track/4gl6kFLDAY24hJlKywPQ0l) | [Four Pens](https://open.spotify.com/artist/4JaPHRnOQfEDyVWJ27CSpY) | [世界末日後的浪漫](https://open.spotify.com/album/3GrNmGLzo2sgSoyhcvaQwT) | 3:10 |
 | 4 | [惡作劇](https://open.spotify.com/track/643hRiTY9vzD6P0cWO8UP3) | [Tangerine Wong](https://open.spotify.com/artist/3Njp7uhQShnPMdKarS6Vsu) | [惡作劇之吻](https://open.spotify.com/album/13JpgLyP8ZDyAtsRllAaGe) | 3:46 |
-| 5 | [你被寫在我的歌裡](https://open.spotify.com/track/7ovUSP7jWkzWR2SHptYJfd) | [Sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U), [Ella Chen](https://open.spotify.com/artist/1DNci4XjJlglg629j3yO5n) | [你在煩惱什麼](https://open.spotify.com/album/4GfRmbxZ3d1K05z3DWQlqa) | 4:35 |
-| 6 | [1022\-比尔的歌](https://open.spotify.com/track/1fXKSGhgHn8NBnVbTf5tLb) | [Bomb比尔](https://open.spotify.com/artist/3Sb1u6CGLCWHHphMqX326E) | [1022\-比尔的歌](https://open.spotify.com/album/6uPkF6GAHYNWBMpt9x3oRN) | 3:15 |
+| 5 | [1022\-比尔的歌](https://open.spotify.com/track/1fXKSGhgHn8NBnVbTf5tLb) | [Bomb比尔](https://open.spotify.com/artist/3Sb1u6CGLCWHHphMqX326E) | [1022\-比尔的歌](https://open.spotify.com/album/6uPkF6GAHYNWBMpt9x3oRN) | 3:15 |
+| 6 | [你被寫在我的歌裡](https://open.spotify.com/track/7ovUSP7jWkzWR2SHptYJfd) | [Sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U), [Ella Chen](https://open.spotify.com/artist/1DNci4XjJlglg629j3yO5n) | [你在煩惱什麼](https://open.spotify.com/album/4GfRmbxZ3d1K05z3DWQlqa) | 4:35 |
 | 7 | [Mojito](https://open.spotify.com/track/2J42jKkwGqiRsxUYh7FMTm) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 3:05 |
 | 8 | [热爱105°C的你](https://open.spotify.com/track/5RKWxItZvYY9wtKJuy2Hb7) | [A Si](https://open.spotify.com/artist/4yamiVzQPYBb02ceSu0jaI) | [热爱105°C的你](https://open.spotify.com/album/2KSk7OlWpkp6oiKXJyq4kB) | 3:15 |
 | 9 | [静悄悄](https://open.spotify.com/track/5PVNTW0LaOF2uino8FV0m2) | [大泫](https://open.spotify.com/artist/3mpbX209GwoScDJLVLRHk9) | [静悄悄](https://open.spotify.com/album/2HPDOJb3fpTL7AwiRLfw5L) | 3:05 |
@@ -48,11 +48,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 | 38 | [理想情人](https://open.spotify.com/track/36nY8znTqPiL2MTCLkK0sZ) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [曖昧](https://open.spotify.com/album/2gqDiNvkKI7S4BNsrULQSk) | 4:22 |
 | 39 | [渐暖](https://open.spotify.com/track/3BR2pyEvbTwVhE0qpGEMaX) | [時代少年團](https://open.spotify.com/artist/6I36DXLxkJxYeq82tDH4zz) | [渐暖](https://open.spotify.com/album/1o2NQjq0Cux4JSwxhd4JQd) | 3:10 |
 | 40 | [氧化氢](https://open.spotify.com/track/2Dmq5eBpjomx7tHzQto6j5) | [李尖尖](https://open.spotify.com/artist/6Vn7mFBllddgTwUeGDXKVs) | [氧化氢](https://open.spotify.com/album/21drfeiOPkViyCFZYNT5NN) | 2:15 |
-| 41 | [小时光](https://open.spotify.com/track/6R3HSoob9oDK60aNFDkOtE) | [胡期皓](https://open.spotify.com/artist/7LWH3zy213l4E37464t1CO) | [小时光](https://open.spotify.com/album/4JNSZfS5N1L2eXSkanU0Cu) | 2:35 |
-| 42 | [爱上你](https://open.spotify.com/track/4hcNpo1rtbzyNswsM5byTf) | [S.H.E](https://open.spotify.com/artist/2lWShxOL8iTlI0pmtVKvEh) | [SHERO](https://open.spotify.com/album/2Ct96tdzvZzNwsC6shl9tG) | 4:01 |
+| 41 | [爱上你](https://open.spotify.com/track/4hcNpo1rtbzyNswsM5byTf) | [S.H.E](https://open.spotify.com/artist/2lWShxOL8iTlI0pmtVKvEh) | [SHERO](https://open.spotify.com/album/2Ct96tdzvZzNwsC6shl9tG) | 4:01 |
+| 42 | [小时光](https://open.spotify.com/track/6R3HSoob9oDK60aNFDkOtE) | [胡期皓](https://open.spotify.com/artist/7LWH3zy213l4E37464t1CO) | [小时光](https://open.spotify.com/album/4JNSZfS5N1L2eXSkanU0Cu) | 2:35 |
 | 43 | [愛上未來的你](https://open.spotify.com/track/3bUYcpibCAUQe0O9ZERqTl) | [Will Pan](https://open.spotify.com/artist/7fCFxj1GCRqwFZEP4iJRw0) | [我的麥克風](https://open.spotify.com/album/4MYmTwirh8mfdWZxVa9mgX) | 4:01 |
-| 44 | [想說](https://open.spotify.com/track/5Wisct6F7PgfIyIsosbfhY) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [想說](https://open.spotify.com/album/4N3jk5k52Pql3QuZQv5n5T) | 3:20 |
-| 45 | [Only Have Feelings For You](https://open.spotify.com/track/4MSLBloiWadnbyMJepxfsT) | [Fahrenheit](https://open.spotify.com/artist/12JKvbMl7cQqmtumTZTT3g) | [Fahrenheit](https://open.spotify.com/album/4wGcUak2adE4WFF4E8k0DD) | 3:59 |
+| 44 | [Only Have Feelings For You](https://open.spotify.com/track/4MSLBloiWadnbyMJepxfsT) | [Fahrenheit](https://open.spotify.com/artist/12JKvbMl7cQqmtumTZTT3g) | [Fahrenheit](https://open.spotify.com/album/4wGcUak2adE4WFF4E8k0DD) | 3:59 |
+| 45 | [想說](https://open.spotify.com/track/5Wisct6F7PgfIyIsosbfhY) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [想說](https://open.spotify.com/album/4N3jk5k52Pql3QuZQv5n5T) | 3:20 |
 | 46 | [靠近一點點](https://open.spotify.com/track/01cO3ZfjGwlY7nMDDr5tDZ) | [Lara Liang](https://open.spotify.com/artist/4VgfrD5wuAoN428fBZNSyW) | [惡作劇之吻](https://open.spotify.com/album/13JpgLyP8ZDyAtsRllAaGe) | 3:33 |
 | 47 | [一整个爱住你](https://open.spotify.com/track/0yyYSJBeXYNGa7TSgB8TJ7) | [陈一彤](https://open.spotify.com/artist/1QRNCzU7Xci4JwbwqfnD2d) | [一整个爱住你](https://open.spotify.com/album/6cuddwe4icENbr7R6NvtIt) | 3:27 |
 | 48 | [一天 \(電視劇《想見你》插曲\)](https://open.spotify.com/track/4yJIECgIOgowfgAkPyvo2c) | [黃宣](https://open.spotify.com/artist/1gG9UlxylmKkkwA2b9RDLL) | [一天 \(電視劇《想見你》插曲\)](https://open.spotify.com/album/0gvJLsBulK413oR9BJTOUM) | 4:08 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 | 74 | [什么跟什么有什么关系](https://open.spotify.com/track/2JGEft6dySYE0qGMKbMbf6) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y), [许光汉](https://open.spotify.com/artist/5YYRJB47PfTBqvb3tm2mwu) | [不完美人生指南](https://open.spotify.com/album/1wu8RmvWNBQN4vOQCq44KK) | 3:47 |
 | 75 | [有空記得約我 \- 電視電影《雜貨店》主題曲](https://open.spotify.com/track/1ruZAxKKU6x6fl7MKlkRfs) | [The Freshman](https://open.spotify.com/artist/2pZzvphS66rCxKBiJCrO9y) | [有空記得約我 \(電視電影《雜貨店》主題曲\)](https://open.spotify.com/album/4gFAG2ZXep3vHcqzDlt8PV) | 4:03 |
 
-Snapshot ID: `MTY2MTc1NzQzMSwwMDAwMDAwMDVmYjdjODc4NDhlNzUzMzMzZDllODRkNjI1NDM4NWZl`
+Snapshot ID: `MTY2MjAwNjgwNiwwMDAwMDAwMGYyOGVmNWNkMGI3NmQ1ZjU4NDEzNWU1MmU2MmFkOTVm`

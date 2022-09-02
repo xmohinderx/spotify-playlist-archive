@@ -4,7 +4,7 @@
 
 > New no wave, post\-punk, and anything else\. Cover: Viagra Boys
 
-283 songs - 17 hr 43 min - [published](https://open.spotify.com/playlist/0Kwx2x0cfXxWAWrkYyuEPR)
+284 songs - 17 hr 44 min - [published](https://open.spotify.com/playlist/0Kwx2x0cfXxWAWrkYyuEPR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Ann](https://open.spotify.com/track/0g2kZvRKJ2AZfUmqR6eCGZ) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [Ann](https://open.spotify.com/album/1TKU3jbLcpXbTx9OqjGejM) | 4:04 | 2022-08-25 |  |
 | [Another Night](https://open.spotify.com/track/3x2kMMjAMfZvgV9PacT3Mw) | [The Men](https://open.spotify.com/artist/30XB6UJMhn7v7ZDX2GlIsM) | [Tomorrow's Hits](https://open.spotify.com/album/2TY5pohPtUqu1c5fy7pW0F) | 5:28 | 2021-12-06 | 2022-07-26 |
 | [Avoidarama](https://open.spotify.com/track/1bFz0eOflEU0WOksVBDPA2) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Avoidarama](https://open.spotify.com/album/27NMHPWp3yDUSsrrHQoVRM) | 2:58 | 2021-12-06 | 2022-07-24 |
+| [B Boys Anthem](https://open.spotify.com/track/3vMZ1zERSM8QbPW8aA0t49) | [B Boys](https://open.spotify.com/artist/5q3Rqu9idb7essQqKJ7SOa) | [Dada](https://open.spotify.com/album/2dC0CxwPb1YjjB9Ergw2fG) | 1:23 | 2022-08-25 |  |
 | [B Boys Anthem](https://open.spotify.com/track/6RCJa37P65U7uCm6oyxY3J) | [B Boys](https://open.spotify.com/artist/5q3Rqu9idb7essQqKJ7SOa) | [Dada](https://open.spotify.com/album/1YLqgmVidQ5seIyuBgaI50) | 1:23 | 2021-12-06 | 2022-07-21 |
 | [Back to The 70s](https://open.spotify.com/track/5nBofBYgz2bipNxjE9uTX0) | [Home Counties](https://open.spotify.com/artist/7L0uKOuMgMCLXHW9RnyB8n) | [In A Middle English Town](https://open.spotify.com/album/0P7Exnbir6GAPvbnyGnuJ5) | 3:34 | 2022-03-11 | 2022-07-22 |
 | [Back To The Radio](https://open.spotify.com/track/3UwdNQUttlGa8fX1Jq7VeN) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Back To The Radio](https://open.spotify.com/album/1o0lARFP2l0SYsY6H8PeGY) | 3:07 | 2022-03-03 |  |
@@ -52,7 +53,7 @@
 | [Chaos Space Marine](https://open.spotify.com/track/6kNYZ2Hf2QCpQhIuPxffkp) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Chaos Space Marine](https://open.spotify.com/album/2huSLowZzNhStzbu9C1Eko) | 3:36 | 2021-12-06 | 2022-07-29 |
 | [Chondromalacia Patella](https://open.spotify.com/track/4fduOgyq6d5DBlnST7h9VR) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Chondromalacia Patella](https://open.spotify.com/album/0iqxSiIsizsq6ivdiiUp2a) | 4:49 | 2021-12-06 | 2022-07-25 |
 | [Cities on Fire](https://open.spotify.com/track/6hD7uA1OXRqPas943VGXwS) | [The Black Veils](https://open.spotify.com/artist/1jfQDQtzGitGD5y1e1TsZf) | [Cities on Fire](https://open.spotify.com/album/3DE24P00tKVTbeEQsJAejB) | 3:40 | 2022-03-11 | 2022-04-17 |
-| [Concorde](https://open.spotify.com/track/4Lq00qcqHANbxFUeq2ORCk) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Concorde](https://open.spotify.com/album/0xDUwM9EVHyOmUhL9KGOwa) | 6:03 | 2021-12-06 |  |
+| [Concorde](https://open.spotify.com/track/4Lq00qcqHANbxFUeq2ORCk) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Concorde](https://open.spotify.com/album/0xDUwM9EVHyOmUhL9KGOwa) | 6:03 | 2021-12-06 | 2022-09-02 |
 | [Concrete](https://open.spotify.com/track/5MhK8ZwxOiILTOh7LFK5VU) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Songs of Praise](https://open.spotify.com/album/3ZtngTnZwbWMAdzcpKWgXH) | 3:34 | 2022-06-16 |  |
 | [Concrete](https://open.spotify.com/track/6X7H3JTAUGAL1rSwohnPBX) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Songs of Praise](https://open.spotify.com/album/3A1kutvBmC6czSsSv7aR5E) | 3:34 | 2021-12-06 | 2022-07-28 |
 | [Contain It](https://open.spotify.com/track/7wRsYOvFDUhnmx2I76Ml68) | [Egyptian Blue](https://open.spotify.com/artist/3IW8WBsi0vGrcdMNsXS6Bi) | [Contain It](https://open.spotify.com/album/7Js653WBxlF7904HZdjqpO) | 4:01 | 2021-12-06 | 2022-07-25 |

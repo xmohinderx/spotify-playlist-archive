@@ -2273,10 +2273,28 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 190093,
       "name": "Cool For Cats",
       "url": "https://open.spotify.com/track/1UOlzDCuFcjBbfPfVzb4yJ"
+    },
+    {
+      "album": {
+        "name": "Spot the Difference (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3oWgf409Wl8ToSNB1ilzUg"
+      },
+      "artists": [
+        {
+          "name": "Squeeze",
+          "url": "https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190093,
+      "name": "Cool For Cats",
+      "url": "https://open.spotify.com/track/7zWE4XT8ATao3xxdHtKly4"
     },
     {
       "album": {
@@ -3929,7 +3947,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 224893,
       "name": "Free Wheelin",
       "url": "https://open.spotify.com/track/1PXG5cwmM74RnNMhL2F8Zv"
@@ -12321,7 +12339,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 299733,
       "name": "Things Goin' On",
       "url": "https://open.spotify.com/track/3ncge3MnlzfSvV7AQrbtTG"

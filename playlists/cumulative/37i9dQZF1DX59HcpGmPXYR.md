@@ -4,7 +4,7 @@
 
 > The revolutionaries, the allies, and the just plain fabulous: these flawless tracks are beyond perfect for Pride\. Cover: Lady Gaga & Ariana Grande
 
-120 songs - 7 hr 57 min - [published](https://open.spotify.com/playlist/2k3Js1aEal97We8PPic6Wk)
+121 songs - 8 hr 1 min - [published](https://open.spotify.com/playlist/2k3Js1aEal97We8PPic6Wk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Got to Be Real](https://open.spotify.com/track/58r4JuwHhXLAkttkaUZfLw) | [Cheryl Lynn](https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ) | [Cheryl Lynn \(Expanded Edition\)](https://open.spotify.com/album/059jmsqbxhu2n78LMS0H3P) | 5:07 | 2021-06-01 |  |
 | [Grace Kelly](https://open.spotify.com/track/2SDx0PooHZI1SQKR0y44bs) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Life In Cartoon Motion](https://open.spotify.com/album/6oIaXBTIZ2Q9cJKBgrZ2Ox) | 3:07 | 2021-06-01 | 2022-07-29 |
 | [Grace Kelly](https://open.spotify.com/track/7dzUZec5MnWMyQnk5klnKR) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Life in Cartoon Motion](https://open.spotify.com/album/4wKkXYJXQWDa9sndBSx0gI) | 3:07 | 2021-06-01 | 2022-08-19 |
-| [Groove Is in the Heart](https://open.spotify.com/track/2UVLuddklEVak5PXgC7baA) | [Deee\-Lite](https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5) | [Rhino Hi\-Five: Deee\-Lite](https://open.spotify.com/album/5ONmarDtpkKbrlhu0p83XM) | 3:51 | 2021-06-01 |  |
+| [Groove Is in the Heart](https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb) | [Deee\-Lite](https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5) | [World Clique](https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh) | 3:51 | 2021-06-01 |  |
+| [Groove Is in the Heart](https://open.spotify.com/track/2UVLuddklEVak5PXgC7baA) | [Deee\-Lite](https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5) | [Rhino Hi\-Five: Deee\-Lite](https://open.spotify.com/album/5ONmarDtpkKbrlhu0p83XM) | 3:51 | 2021-06-01 | 2022-09-02 |
 | [Hallucinate](https://open.spotify.com/track/6pbKWWP8WwTaP5TbSq1vCA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia \(The Moonlight Edition\)](https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX) | 3:28 | 2022-06-01 |  |
 | [Heart Of Glass \- Special Mix](https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Best Of Blondie](https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A) | 4:35 | 2021-06-01 |  |
 | [Heart to Break](https://open.spotify.com/track/1jFN0stMzLepoPxvPywGZj) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Heart to Break](https://open.spotify.com/album/1EIqxxK1683sjRXjx2MXyD) | 3:45 | 2022-06-01 | 2022-07-29 |

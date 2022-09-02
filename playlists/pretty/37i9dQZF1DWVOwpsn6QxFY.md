@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 
 > Hand\-picked indie to nourish the ears.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,152 likes - 80 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,220 likes - 80 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 30 | [A Couple Things](https://open.spotify.com/track/0XJShR9YnNtXtZkAnLRNFD) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [A word becomes a sound](https://open.spotify.com/album/7zmEZWG9JfmB7lgg2SGgGu) | 2:40 |
 | 31 | [cold water](https://open.spotify.com/track/3keIh8QdhxlHQ0hsyDHrzA) | [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [cold water](https://open.spotify.com/album/0ygmFGHb9QLdOqsAfs6Nhe) | 3:53 |
 | 32 | [Fruit](https://open.spotify.com/track/5n3NzdPWuSsRbYEObAdXqr) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Fruit](https://open.spotify.com/album/7sgoUuA9bA0lJYSw1PgbkT) | 3:24 |
-| 33 | [Keep Going](https://open.spotify.com/track/4cLtxNBdb0zH63vvnitsh3) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj) | 6:39 |
-| 34 | [Arcadia](https://open.spotify.com/track/1vLmc6JVzSGVnUT3BMfKXZ) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Arcadia](https://open.spotify.com/album/6KpJMQZAI4thJHoBzawHnZ) | 3:30 |
+| 33 | [Arcadia](https://open.spotify.com/track/1vLmc6JVzSGVnUT3BMfKXZ) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Arcadia](https://open.spotify.com/album/6KpJMQZAI4thJHoBzawHnZ) | 3:30 |
+| 34 | [Keep Going](https://open.spotify.com/track/4cLtxNBdb0zH63vvnitsh3) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj) | 6:39 |
 | 35 | [Addicted](https://open.spotify.com/track/2kUECVQY40DQoXymT323jg) | [The Night Café](https://open.spotify.com/artist/1ShwUjKIwQRaUJij7jgRhp) | [0151](https://open.spotify.com/album/4hGB7HUJu4oD3TqJvYPqr9) | 4:41 |
 | 36 | [Mountain](https://open.spotify.com/track/4TFTlwrYFCLqmJtIgxRVUT) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [Mountain](https://open.spotify.com/album/5lLrspzGxZevZkbByj9zwd) | 3:02 |
 | 37 | [Hide & Seek](https://open.spotify.com/track/2t4tWVaCBykTHYG7Wx6AEB) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Hide & Seek](https://open.spotify.com/album/7Bpblm74urUd8VLJlGubqU) | 3:41 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 40 | [Rae Street](https://open.spotify.com/track/4DtQQ82VSTgYfsCBSxvK9k) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Things Take Time, Take Time](https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv) | 4:31 |
 | 41 | [Mona](https://open.spotify.com/track/7rfoxuUYSfGSuGjRoTq4qH) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [New Mythology](https://open.spotify.com/album/0m1s2KM4LbDqD2lwZhOTJw) | 3:22 |
 | 42 | [Sorry I Am](https://open.spotify.com/track/2XbtAowMkaRMktJFII7h0Y) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Sorry I Am](https://open.spotify.com/album/1OckLS0LTnxNRWqGJ8ojoy) | 4:02 |
-| 43 | [Let There Be Light Again](https://open.spotify.com/track/0YCz0CKKxSx1Ezk0HsYnHI) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Let There Be Light Again](https://open.spotify.com/album/2T9PfTuP5ovbfpM7wv6nez) | 3:47 |
-| 44 | [bloodstream](https://open.spotify.com/track/3VJ8JnA1femj0x5KCcfBpT) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [color theory](https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez) | 5:37 |
+| 43 | [bloodstream](https://open.spotify.com/track/3VJ8JnA1femj0x5KCcfBpT) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [color theory](https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez) | 5:37 |
+| 44 | [Let There Be Light Again](https://open.spotify.com/track/0YCz0CKKxSx1Ezk0HsYnHI) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Let There Be Light Again](https://open.spotify.com/album/2T9PfTuP5ovbfpM7wv6nez) | 3:47 |
 | 45 | [Slow](https://open.spotify.com/track/5Cf6NE8KN82o9U3oAeG3yB) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [Magnifier](https://open.spotify.com/album/1Yk0ejrOruZAX1kHniWVIE) | 3:14 |
 | 46 | [My House](https://open.spotify.com/track/5kuSneVOTmvanncpK3RZcl) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [My House](https://open.spotify.com/album/7sSEGFxjJTaT1amaNYOmWD) | 4:16 |
 | 47 | [Blue Hours](https://open.spotify.com/track/4qYbMiuCfrmlwgyhbciuAN) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Blue Hours](https://open.spotify.com/album/1tqkCIUs7aGktIJ2J5WKFz) | 3:53 |
@@ -68,12 +68,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 58 | [A Prayer Of My Own](https://open.spotify.com/track/4T9huHkcSekxse5hkJA8UD) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [A Prayer Of My Own](https://open.spotify.com/album/5nPBWxyJ7Ro4DbbdkGoVyO) | 4:33 |
 | 59 | [I Guess This is Life](https://open.spotify.com/track/4ydabrob4581SkaRuuN9YT) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [I Guess This is Life](https://open.spotify.com/album/3WWi8o7lr71zCU0iU7VEPb) | 3:31 |
 | 60 | [Bad girl](https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Somewhere](https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm) | 4:07 |
-| 61 | [Sugar](https://open.spotify.com/track/3BWvv8hVbYXFHivfzpCD5n) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [When the City Sleeps](https://open.spotify.com/album/7LlmJ1aH2FGj9nEh0xPIF2) | 2:56 |
-| 62 | [Song for Nick Drake](https://open.spotify.com/track/1ZMpeW7DIRIpWCpFxAFuf6) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Song for Nick Drake](https://open.spotify.com/album/0tD7F0mOkgQliDESDRBLey) | 2:57 |
+| 61 | [Song for Nick Drake](https://open.spotify.com/track/1ZMpeW7DIRIpWCpFxAFuf6) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Song for Nick Drake](https://open.spotify.com/album/0tD7F0mOkgQliDESDRBLey) | 2:57 |
+| 62 | [Sugar](https://open.spotify.com/track/3BWvv8hVbYXFHivfzpCD5n) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [When the City Sleeps](https://open.spotify.com/album/7LlmJ1aH2FGj9nEh0xPIF2) | 2:56 |
 | 63 | [Surreal](https://open.spotify.com/track/134Naq9YPOeBDXFUB7rdA9) | [Dan Croll](https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21) | [Grand Plan](https://open.spotify.com/album/7cHv3kepqiEMWP67HQWgJN) | 3:06 |
-| 64 | [Please Don't Hide Yourself Away](https://open.spotify.com/track/4BeOtHTrVDazx007bGFFNL) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi), [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Please Don't Hide Yourself Away](https://open.spotify.com/album/5HFkJLsDlD7eudQ2DQNRIx) | 3:10 |
-| 65 | [Lover \(Don't Let Me Down\)](https://open.spotify.com/track/4tD2yU85sj8pjWPbsA3KDE) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Lover \(Don’t Let Me Down\)](https://open.spotify.com/album/6o73F8z9Ik02r09k3gIqPD) | 4:10 |
-| 66 | [Andrew](https://open.spotify.com/track/0ZHnNz24gXtnyFsCeECPnZ) | [M Field](https://open.spotify.com/artist/2YCr3gD8aO0ck8k4i5vhU3) | [Andrew](https://open.spotify.com/album/3L5Tn8fZfACHkX0btiFAo0) | 2:44 |
+| 64 | [Lover \(Don't Let Me Down\)](https://open.spotify.com/track/4tD2yU85sj8pjWPbsA3KDE) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Lover \(Don’t Let Me Down\)](https://open.spotify.com/album/6o73F8z9Ik02r09k3gIqPD) | 4:10 |
+| 65 | [Andrew](https://open.spotify.com/track/0ZHnNz24gXtnyFsCeECPnZ) | [M Field](https://open.spotify.com/artist/2YCr3gD8aO0ck8k4i5vhU3) | [Andrew](https://open.spotify.com/album/3L5Tn8fZfACHkX0btiFAo0) | 2:44 |
+| 66 | [Please Don't Hide Yourself Away](https://open.spotify.com/track/4BeOtHTrVDazx007bGFFNL) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi), [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Please Don't Hide Yourself Away](https://open.spotify.com/album/5HFkJLsDlD7eudQ2DQNRIx) | 3:10 |
 | 67 | [Heads Look Like Drums](https://open.spotify.com/track/5LdYarV4vC2SZJeeTJJ8fa) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [The Less I Knew](https://open.spotify.com/album/0mPYANCi1rAEvSQspvRnXs) | 3:04 |
 | 68 | [4Runner](https://open.spotify.com/track/3kduxaRADVX6gVfZ6IeqcB) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Changephobia](https://open.spotify.com/album/7v5Vuz4HyHldAgTG9NpcFY) | 3:49 |
 | 69 | [Gotta Get Through Til Monday](https://open.spotify.com/track/2nP30qYDeymEfHmezLfgJk) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [Gotta Get through Til Monday](https://open.spotify.com/album/7zHuAhLpqnYhgAZ19SmwBb) | 3:41 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 79 | [The Flow](https://open.spotify.com/track/3gjW1jxleTvfW8fuE3HEbW) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [The Flow](https://open.spotify.com/album/7gRz9nqFK6TEhj4Hh4TsLk) | 3:34 |
 | 80 | [Barcelona](https://open.spotify.com/track/6V8IY1khSjXlgvG6mbIyXQ) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Barcelona](https://open.spotify.com/album/2zx0QaxzIxKKVi5bptvVyB) | 3:46 |
 
-Snapshot ID: `MTY2MDMyODAyOCwwMDAwMDAwMDEwMWM2MzY4M2ZmZDk2OWFlYjc5MDQxMjdlMWY3M2Q1`
+Snapshot ID: `MTY2MDMyODAyOCwwMDAwMDAwMGNlNTg3MTYwMzlmZGQzOTkzYjUxN2NkN2Y1NzVmNWMw`

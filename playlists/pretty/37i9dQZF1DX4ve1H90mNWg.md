@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 
 > Texas music breaking waves\. Cover, Beyonce
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,663 likes - 58 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,669 likes - 58 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

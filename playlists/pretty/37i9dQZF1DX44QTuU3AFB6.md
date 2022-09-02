@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44QTuU3AFB6.md) - [plain]
 
 > ¡Rolas pa' pistear con Panchito Arredondo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,662 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,659 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,16 +50,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44QTuU3AFB6.md) - [plain]
 | 40 | [Hasta la Miel Amarga](https://open.spotify.com/track/1Q1yISpMwHLn4SMo6VJVaa) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/5sZ8JHwkEV2s0Dbv0ylSmZ) | 3:36 |
 | 41 | [Qué Tal Si Eres Tu](https://open.spotify.com/track/228ExGBaOYwzsAGotWXaqy) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Realidades](https://open.spotify.com/album/63Nbjb3cTqZVBuAHVOx411) | 2:58 |
 | 42 | [Dos Coronas a Mi Madre](https://open.spotify.com/track/2imwekOjGGEhx4pELNtJJq) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas de Exitos](https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m) | 2:26 |
-| 43 | [Abeja Reína](https://open.spotify.com/track/406qqOwEMlBUUugyHXBy8B) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Grandes Éxitos Remezclados Y Remasterizados](https://open.spotify.com/album/3MFxr13HI3eqlPRgW5lYZw) | 2:50 |
-| 44 | [Mi Piquito De Oro](https://open.spotify.com/track/3GhDnfO7J3zLTswYYrQFnP) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [MI PIQUITO DE ORO \(Grabación Original Remasterizada\)](https://open.spotify.com/album/5K7VhZJ9ZgC97mkNxuiLCr) | 2:08 |
+| 43 | [Mi Piquito De Oro](https://open.spotify.com/track/3GhDnfO7J3zLTswYYrQFnP) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [MI PIQUITO DE ORO \(Grabación Original Remasterizada\)](https://open.spotify.com/album/5K7VhZJ9ZgC97mkNxuiLCr) | 2:08 |
+| 44 | [Abeja Reína](https://open.spotify.com/track/406qqOwEMlBUUugyHXBy8B) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Grandes Éxitos Remezclados Y Remasterizados](https://open.spotify.com/album/3MFxr13HI3eqlPRgW5lYZw) | 2:50 |
 | 45 | [Ya Valiste Madre \- En Vivo](https://open.spotify.com/track/3f615FYAufUocTYlEMh3Fv) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Ya Valiste Madre \(En Vivo\)](https://open.spotify.com/album/6paAsiZAEqWpTR1EujPATt) | 3:07 |
 | 46 | [Chingo A Mi Madre \- En Vivo](https://open.spotify.com/track/38FmRkbp9iaBCpqW7DracY) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Chingo A Mi Madre \(En Vivo\)](https://open.spotify.com/album/2LpiIeEgcYFGyAIKvdyYlc) | 2:53 |
 | 47 | [El Chubasco](https://open.spotify.com/track/0ESzwDSlzdKpaJ6CkyAe5x) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [El Chubasco](https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh) | 3:08 |
 | 48 | [Llorando y Tomando](https://open.spotify.com/track/3xZbJvGvpXe2Wr5LHrDJCp) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Historias de la Calle](https://open.spotify.com/album/68oeH15c0id8blWP7cOu5T) | 3:00 |
 | 49 | [Contrabando Y Traición](https://open.spotify.com/track/4gRi0itWso2UodoRMP5asJ) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Contrabando Y Traicion](https://open.spotify.com/album/380Fi3mpLOmJAQYiZx22Y3) | 3:26 |
 | 50 | [Baraja De Oro](https://open.spotify.com/track/6HnIGBFzbyMTyaSm4fUXj8) | [Palomo](https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj) | [Homenaje A Los Relampagos Del Norte](https://open.spotify.com/album/6YyhZxj7KSyLyHBBcxAR1Q) | 3:23 |
-| 51 | [Anoche Estuve Llorando](https://open.spotify.com/track/2HG6dbqVUBQQEe9JtyTns1) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Palabras Tristes](https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo) | 3:14 |
-| 52 | [Tragos Amargos](https://open.spotify.com/track/7f8qPvIL7fRM28L7XAuFKX) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Antología De Un Rey \- 30 Joyas Musicales](https://open.spotify.com/album/22zGSXwVHPmZqSrMXaZkNk) | 2:44 |
+| 51 | [Tragos Amargos](https://open.spotify.com/track/7f8qPvIL7fRM28L7XAuFKX) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Antología De Un Rey \- 30 Joyas Musicales](https://open.spotify.com/album/22zGSXwVHPmZqSrMXaZkNk) | 2:44 |
+| 52 | [Anoche Estuve Llorando](https://open.spotify.com/track/2HG6dbqVUBQQEe9JtyTns1) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Palabras Tristes](https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo) | 3:14 |
 | 53 | [Dos Botellas de Mezcal \- En Vivo Desde Monterrey 2012](https://open.spotify.com/track/0sojGEPLBkMw0x2PzijAR5) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [1969 \- Siempre en Vivo Desde Monterrey, Parte 1](https://open.spotify.com/album/34y1fpvbIDLpFoarLds4vo) | 2:59 |
 | 54 | [La Mesa Del Rincón](https://open.spotify.com/track/1FrXO0TFnw6g0ygHxhiZ3p) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Los Dos Plebes](https://open.spotify.com/album/2cIEIezxCUx2ifez04CwCK) | 3:23 |
 | 55 | [La Carta](https://open.spotify.com/track/61Ym6uMASRkhoKFxMb2Nof) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Carta](https://open.spotify.com/album/34DGEwnP4bY9pXnF1Hsq5r) | 4:25 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44QTuU3AFB6.md) - [plain]
 | 59 | [Por Debajo Del Agua](https://open.spotify.com/track/4nJPAEl70w6VjOfetvZGQn) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Jefe De Jefes](https://open.spotify.com/album/5C507x88aYeTv00Ydv0maH) | 3:17 |
 | 60 | [El Dolor De Un Padre](https://open.spotify.com/track/2yNs1b9zHRLJGitOGXEijK) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Jefe De Jefes](https://open.spotify.com/album/5C507x88aYeTv00Ydv0maH) | 3:37 |
 
-Snapshot ID: `MTY1OTY3MjA2MCwwMDAwMDAwMDgzYTAwOGRhNjZlMGY0YzEzM2Y0NThiYjkzYmFlY2Q0`
+Snapshot ID: `MTY1OTY3MjA2MCwwMDAwMDAwMDk5Y2VjMDE3ZTUxYWRiNjE3NDU0MTNmMDZlZjI1ZjY5`

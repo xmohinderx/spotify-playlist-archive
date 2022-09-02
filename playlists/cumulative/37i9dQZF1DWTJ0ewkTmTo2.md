@@ -4,7 +4,7 @@
 
 > Get ready to sing your hearts out with these family friendly road trip classics.
 
-121 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/4fDWxJj9KLC6huuZSur4Fn)
+122 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/4fDWxJj9KLC6huuZSur4Fn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,8 +37,9 @@
 | [Drive My Car \- Remastered 2009](https://open.spotify.com/track/06ypiqmILMdVeaiErMFA91) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:28 | 2021-11-09 |  |
 | [Everybody Talks](https://open.spotify.com/track/2iUmqdfGZcHIhS3b9E9EWq) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Picture Show](https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr) | 2:57 | 2021-11-09 |  |
 | [Everybody Talks](https://open.spotify.com/track/5JGxJFdgOQdJZdmyEzDtTj) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Everybody Talks](https://open.spotify.com/album/1YcrOSpxttHMER7xHivryA) | 2:59 | 2021-11-09 | 2022-07-29 |
-| [Everyday Is A Winding Road](https://open.spotify.com/track/0t6DAi9KEiaWOtgTTXGhD2) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Sheryl Crow](https://open.spotify.com/album/3w7TTi80vZApF0rQE5DMYb) | 4:16 | 2021-11-09 |  |
+| [Everyday Is A Winding Road](https://open.spotify.com/track/0t6DAi9KEiaWOtgTTXGhD2) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Sheryl Crow](https://open.spotify.com/album/3w7TTi80vZApF0rQE5DMYb) | 4:16 | 2021-11-09 | 2022-09-02 |
 | [Fly](https://open.spotify.com/track/5fuGP7Dze9tkadS9WoPbar) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [Rhino Hi\-Five: Sugar Ray](https://open.spotify.com/album/05s2UfuwvhwVzGkpydPDK0) | 4:04 | 2021-11-09 | 2022-07-29 |
+| [Fly](https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [Floored](https://open.spotify.com/album/3jMUfZpBUTZOl91khbj4ic) | 4:04 | 2022-08-17 |  |
 | [Free Fallin'](https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 4:16 | 2021-11-09 |  |
 | [Girls Just Want to Have Fun](https://open.spotify.com/track/0uqOqX59mgWBqfPAdX0BDK) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | ['80s Pop Hits](https://open.spotify.com/album/7xY34kpisIxOv8WMnNN8wg) | 3:47 | 2021-11-09 | 2022-07-29 |
 | [Greased Lightnin'](https://open.spotify.com/track/0hq5mE9kYU4Sy2PpdZwGol) | [John Travolta](https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH), [Jeff Conaway](https://open.spotify.com/artist/34NoGpkDKIwSQG1V6gdhRL) | [Broadway](https://open.spotify.com/album/3qqiudxVW3GmigrTHRUcLf) | 3:14 | 2021-11-09 |  |

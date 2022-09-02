@@ -4,7 +4,7 @@
 
 > Only the biggest Hardstyle tracks!
 
-446 songs - 1 day 2 hr 5 min - [published](https://open.spotify.com/playlist/40ibOn4vxhSEyiHRK9rUTk)
+447 songs - 1 day 2 hr 8 min - [published](https://open.spotify.com/playlist/40ibOn4vxhSEyiHRK9rUTk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,7 +255,7 @@
 | [Muzika \- Sefa Remix](https://open.spotify.com/track/4mALGoOhRMFVfphsMppSb2) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Sefa](https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI) | [Leven Is Lijden](https://open.spotify.com/album/175kNsvMd9cDqiYwYm3roB) | 2:38 | 2021-12-16 | 2022-07-29 |
 | [My Beautiful Fantasy](https://open.spotify.com/track/0BAsf69u0gltlMFYMADpAn) | [Phuture Noize](https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT), [B\-Front](https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du) | [My Beautiful Fantasy](https://open.spotify.com/album/7nhaTKoO0PWimyCMOF0sQp) | 3:12 | 2022-07-22 |  |
 | [My Beautiful Fantasy](https://open.spotify.com/track/1a3M9MU7mmhQerLzHSGD3w) | [Phuture Noize](https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT), [B\-Front](https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du) | [My Beautiful Fantasy](https://open.spotify.com/album/3ffQe5wVUvi8z5y05aisri) | 3:12 | 2021-12-16 | 2022-07-29 |
-| [Need You Now](https://open.spotify.com/track/1Ic64CNrb7cZXrClDYDjpV) | [TCM](https://open.spotify.com/artist/26JDxOz4FrVBX1AquFCzdp), [Anklebreaker](https://open.spotify.com/artist/33SlSV9Phemrs59SmjA2QC) | [Need You Now](https://open.spotify.com/album/4Ov2ROEu45kJN8JsKGoXJm) | 3:04 | 2021-12-16 |  |
+| [Need You Now](https://open.spotify.com/track/1Ic64CNrb7cZXrClDYDjpV) | [TCM](https://open.spotify.com/artist/26JDxOz4FrVBX1AquFCzdp), [Anklebreaker](https://open.spotify.com/artist/33SlSV9Phemrs59SmjA2QC) | [Need You Now](https://open.spotify.com/album/4Ov2ROEu45kJN8JsKGoXJm) | 3:04 | 2021-12-16 | 2022-09-02 |
 | [Never Alone](https://open.spotify.com/track/2fKWVB8rWh4GwtvScLWNFt) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C) | [Never Alone](https://open.spotify.com/album/7D5klBh6SGsksbAd3bJyYE) | 4:09 | 2021-12-28 | 2022-06-13 |
 | [New Era](https://open.spotify.com/track/7aQZhgOzo982eeQciRymh6) | [Act of Aces](https://open.spotify.com/artist/7kLCMAkre9WTduHjBPumgj) | [New Era](https://open.spotify.com/album/2M5Kfhc27mRdjPXL47uvn0) | 3:42 | 2021-12-16 |  |
 | [Nightmare Nirvana](https://open.spotify.com/track/0X89hVtXc6V04eRMCjB1Vj) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [Nightmare Nirvana](https://open.spotify.com/album/7jPDK7qtsjA010J5fXR9w1) | 4:30 | 2022-05-23 | 2022-05-30 |
@@ -323,6 +323,7 @@
 | [Run From Reality](https://open.spotify.com/track/1jMLnxcvZqaTlzuKdvh05N) | [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT), [Endymion](https://open.spotify.com/artist/1dWCpNKvuNDv2rE4gCVNwj), [LePrince](https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO) | [Run From Reality](https://open.spotify.com/album/43eHHMBCkXFjxWdwda3XLQ) | 4:01 | 2021-12-16 | 2022-07-29 |
 | [Run From Reality](https://open.spotify.com/track/6XAjjeQkt52pLVFaIk6gNi) | [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT), [Endymion](https://open.spotify.com/artist/1dWCpNKvuNDv2rE4gCVNwj), [LePrince](https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO) | [We Rule The Night](https://open.spotify.com/album/7dTraFnFY6BGZFZtjMwBxs) | 4:01 | 2022-07-22 |  |
 | [Run With The Restless](https://open.spotify.com/track/1YKY6j5fyaUx7dCsz1D4Vf) | [KELTEK](https://open.spotify.com/artist/1Od0hPnXSqA9pipLqNXJ7e), [Lindi](https://open.spotify.com/artist/5Hvge2fZ3VfkwUhXaXCnpR) | [Run With The Restless](https://open.spotify.com/album/5oDjO5bfcMQ5SaQxV2jHzi) | 4:02 | 2021-12-16 | 2022-07-29 |
+| [Runaway \(Hardstyle Remix\)](https://open.spotify.com/track/3y2QrAjiVUzCCAyO35HYOH) | [Rick.staneke](https://open.spotify.com/artist/5wPgkC2TSTibbFrzVD1mfa), [Dj Rikkert](https://open.spotify.com/artist/1pJpFWTPKo0IoGWhLlf7Ic), [jessedekreij](https://open.spotify.com/artist/2jSgEmtZ4MAqggBusRqVhN) | [Runaway \(Hardstyle Remix\)](https://open.spotify.com/album/75Ox2oGoBSfgoQ8LWdCgjT) | 3:05 | 2022-09-01 |  |
 | [See You](https://open.spotify.com/track/57mgyauwTOeC725Xa0zJdw) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK), [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl), [Maikki](https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID) | [See You](https://open.spotify.com/album/5Y6ldf67fe8DGh71d1HTLp) | 4:14 | 2022-05-23 |  |
 | [Sensory](https://open.spotify.com/track/74gECA67oUmYxdqTPNf93n) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs) | [Sensory](https://open.spotify.com/album/0VNM27SXVAJ2Dd3J39XvuB) | 3:34 | 2022-05-23 |  |
 | [Set Myself Free](https://open.spotify.com/track/6NKDJqMa6yxXOOdLC9hGRz) | [Rejecta](https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof) | [Set Myself Free](https://open.spotify.com/album/2u3LgDNajPpcbj5zfbBYOy) | 3:47 | 2022-06-12 |  |

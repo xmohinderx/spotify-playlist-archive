@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 
 > A decade full of 00s country hits! Cover: Lee Ann Womack
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,421 likes - 125 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,851 likes - 125 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 | 3 | [Before He Cheats](https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 3:19 |
 | 4 | [Life is a Highway](https://open.spotify.com/track/2Fs18NaCDuluPG1DHGw1XG) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Me And My Gang](https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0) | 4:36 |
 | 5 | [Somebody Like You](https://open.spotify.com/track/0b9djfiuDIMw1zKH6gV74g) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 5:23 |
-| 6 | [It's A Great Day To Be Alive](https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Down The Road I Go](https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB) | 4:01 |
-| 7 | [Good Directions](https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Doin' Somethin' Right](https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5) | 3:35 |
+| 6 | [Good Directions](https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Doin' Somethin' Right](https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5) | 3:35 |
+| 7 | [It's A Great Day To Be Alive](https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Down The Road I Go](https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB) | 4:01 |
 | 8 | [I Go Back](https://open.spotify.com/track/57I7CUbXo4XlWuTVB8pXW6) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [When The Sun Goes Down](https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7) | 4:03 |
 | 9 | [Gunpowder & Lead](https://open.spotify.com/track/3z1PqYwMtct2Dm4R9lhWnT) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Crazy Ex\-Girlfriend](https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb) | 3:11 |
 | 10 | [Toes](https://open.spotify.com/track/4S518ci8UY4op0Xyp6Hx6o) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Foundation](https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT) | 4:22 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 | 21 | [Amazed](https://open.spotify.com/track/6qc34bnVOyqGDPni8H5W0U) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [Lonely Grill](https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2) | 4:00 |
 | 22 | [Boondocks](https://open.spotify.com/track/3duP6mBVDsHM8ioN7o7dAK) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Road To Here](https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm) | 4:32 |
 | 23 | [Need You Now](https://open.spotify.com/track/11EX5yhxr9Ihl3IN1asrfK) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now](https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA) | 4:37 |
-| 24 | [Alright](https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Learn To Live](https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK) | 3:51 |
-| 25 | [What Hurts The Most](https://open.spotify.com/track/4bVuIlGQBMWS7vIhcx8Ae4) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Me And My Gang](https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0) | 3:34 |
+| 24 | [What Hurts The Most](https://open.spotify.com/track/4bVuIlGQBMWS7vIhcx8Ae4) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Me And My Gang](https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0) | 3:34 |
+| 25 | [Alright](https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Learn To Live](https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK) | 3:51 |
 | 26 | [What Was I Thinkin'](https://open.spotify.com/track/0r8iDf65NHgFgZOGLwj5r8) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Dierks Bentley](https://open.spotify.com/album/2yeODPn8igz9qQiitOZRyJ) | 4:20 |
 | 27 | [As Good As I Once Was](https://open.spotify.com/track/7G6l2FtQyRhQgYgut2I6i8) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Honkytonk University](https://open.spotify.com/album/4SOpJPkpAO8FT9n4sbmnoT) | 3:47 |
 | 28 | [Our Song](https://open.spotify.com/track/15DeqWWQB4dcEWzJg15VrN) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Taylor Swift](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) | 3:21 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 | 71 | [Pickin' Wildflowers](https://open.spotify.com/track/2GgIDaPLsowybB3WgxLWUj) | [Keith Anderson](https://open.spotify.com/artist/4AgQTHagFdBq8VL791lSXz) | [Three Chord Country and American Rock & Roll](https://open.spotify.com/album/3r8vRtmMzWdLYUQCgMk12y) | 3:05 |
 | 72 | [Brokenheartsville](https://open.spotify.com/track/0WB48shl2wAH4KqyQkQ8nJ) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [Man With A Memory](https://open.spotify.com/album/1IgWZ4xGJQwzQbUvob3f92) | 3:50 |
 | 73 | [If You're Going Through Hell \(Before The Devil Even Knows\)](https://open.spotify.com/track/7vSn3VNbzOtPebdj6ZSebj) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [If You're Going Through Hell](https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ) | 3:36 |
-| 74 | [Something to Be Proud Of](https://open.spotify.com/track/4D8uIY6Wzj7dJDaw0dW0UF) | [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [You Do Your Thing](https://open.spotify.com/album/6yITsogKnqqWkEKqODSrDG) | 4:16 |
-| 75 | [A Little Bit Stronger](https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Stronger](https://open.spotify.com/album/03WjhytqhNAvfJI5DeNZUO) | 5:01 |
+| 74 | [A Little Bit Stronger](https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Stronger](https://open.spotify.com/album/03WjhytqhNAvfJI5DeNZUO) | 5:01 |
+| 75 | [Something to Be Proud Of](https://open.spotify.com/track/4D8uIY6Wzj7dJDaw0dW0UF) | [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [You Do Your Thing](https://open.spotify.com/album/6yITsogKnqqWkEKqODSrDG) | 4:16 |
 | 76 | [Austin](https://open.spotify.com/track/2WQAknZHrJAEQOFXe0F44P) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Blake Shelton](https://open.spotify.com/album/4BRHk20nhD24APuvO9PvC8) | 3:50 |
 | 77 | [Mr\. Mom](https://open.spotify.com/track/0jSIovJtKxEXH6vI4oRx7I) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [Let's Be Us Again](https://open.spotify.com/album/3ZWRZwJXoyajqbbNGmzEpY) | 3:28 |
 | 78 | [Cowboy Casanova](https://open.spotify.com/track/6OqdF0vHI9xkqswI7EK0cD) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Play On](https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u) | 3:56 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 | 124 | [One More Day](https://open.spotify.com/track/3TNoNv8Z80M3pfm6CcODsh) | [Diamond Rio](https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6) | [One More Day](https://open.spotify.com/album/43WoT1H0ferVcZ0NVjOubF) | 3:36 |
 | 125 | [Good Morning Beautiful](https://open.spotify.com/track/0eHT8N5YQglv8cYYizXvSw) | [Steve Holy](https://open.spotify.com/artist/0iYwcf0XreyCAswJOJMOII) | [Blue Moon](https://open.spotify.com/album/3xivtrhzLC6LMEu9W56gvw) | 3:30 |
 
-Snapshot ID: `MTY1ODcwMjc0OSwwMDAwMDAwMGFmNDBhYWFlMjJiYmQ3Yjg1Njc4NjZlNjVlZjEwODNj`
+Snapshot ID: `MTY1ODcwMjc0OSwwMDAwMDAwMDZlYWI2YTFlMDI4MGUzODkyMjc3YzE5NmY3MjMwZDhk`

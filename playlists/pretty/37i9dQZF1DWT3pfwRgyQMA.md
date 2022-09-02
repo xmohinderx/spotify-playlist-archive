@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3pfwRgyQMA.md) - [plain]
 
 > Walk down memory lane with the biggest rock anthems.
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,337 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,052 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3pfwRgyQMA.md) - [plain]
 | 27 | [Last Resort](https://open.spotify.com/track/5W8YXBz9MTIDyrpYaCg2Ky) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Infest](https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m) | 3:19 |
 | 28 | [Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:38 |
 | 29 | [You're Gonna Go Far, Kid](https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace](https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t) | 2:57 |
-| 30 | [Complicated](https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 4:04 |
-| 31 | [Duality](https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Vol\. 3: The Subliminal Verses](https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T) | 4:12 |
+| 30 | [Duality](https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Vol\. 3: The Subliminal Verses](https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T) | 4:12 |
+| 31 | [Complicated](https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 4:04 |
 | 32 | [The Middle](https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 2:45 |
 | 33 | [my ex's best friend \(with blackbear\)](https://open.spotify.com/track/7kDUspsoYfLkWnZR7qwHZl) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 2:19 |
 | 34 | [Glad You Came](https://open.spotify.com/track/5yDL13y5giogKs2fSNf7sj) | [The Wanted](https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1) | [Battleground \(Deluxe Edition\)](https://open.spotify.com/album/2hnaJ8ktG2FSP1EthsCo6N) | 3:17 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3pfwRgyQMA.md) - [plain]
 | 45 | [Way down We Go](https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 3:33 |
 | 46 | [Sk8er Boi](https://open.spotify.com/track/00Mb3DuaIH1kjrwOku9CGU) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 3:24 |
 | 47 | [Supermassive Black Hole](https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 3:32 |
-| 48 | [Say It Ain't So](https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 4:18 |
-| 49 | [Use Somebody](https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp) | 3:50 |
+| 48 | [Use Somebody](https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp) | 3:50 |
+| 49 | [Say It Ain't So](https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 4:18 |
 | 50 | [Dear Maria, Count Me In](https://open.spotify.com/track/0JJP0IS4w0fJx01EcrfkDe) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [So Wrong, It's Right](https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP) | 3:02 |
 
-Snapshot ID: `MTY2MTk2NTIwMCwwMDAwMDAwMDgwYzFlZjk5MzAwZGVkMzE4NDBhNjg3OTVkMWM1Mjgx`
+Snapshot ID: `MTY2MTk2NTIwMCwwMDAwMDAwMDM5ZjBjMjRlNTg4OTNiODg2MjFmYjMzMzFjNThlYzNi`

@@ -414,6 +414,24 @@
     },
     {
       "album": {
+        "name": "Desh Desh",
+        "url": "https://open.spotify.com/album/5TeobdTGGuqEeAJVmFMAe8"
+      },
+      "artists": [
+        {
+          "name": "Lava Lava",
+          "url": "https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248297,
+      "name": "Desh Desh",
+      "url": "https://open.spotify.com/track/1ZDuaLvkiFkpsdY588XgO1"
+    },
+    {
+      "album": {
         "name": "Dodo",
         "url": "https://open.spotify.com/album/29laMqyXW8THPpNK3tTsNj"
       },
@@ -607,7 +625,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 204303,
       "name": "For You",
       "url": "https://open.spotify.com/track/4CVrXgRl6AgcoJrXUGP6dZ"
@@ -1748,6 +1766,24 @@
     },
     {
       "album": {
+        "name": "Napendwa",
+        "url": "https://open.spotify.com/album/5xrpONTifEME2SshnJEjkZ"
+      },
+      "artists": [
+        {
+          "name": "Mocco Genius",
+          "url": "https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212210,
+      "name": "Napendwa",
+      "url": "https://open.spotify.com/track/3u6R15tCAq3raSJlIuTorR"
+    },
+    {
+      "album": {
         "name": "Napona",
         "url": "https://open.spotify.com/album/2g6WReKqmaMix2XTl58AI6"
       },
@@ -2237,7 +2273,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 190506,
       "name": "Party",
       "url": "https://open.spotify.com/track/7a2B83pFQkhzybYiCvrRRp"
@@ -2609,7 +2645,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 216786,
       "name": "Tamu",
       "url": "https://open.spotify.com/track/0b4PfGB3CWfrE5DQZt6P9g"
@@ -3051,6 +3087,24 @@
       "duration_ms": 205714,
       "name": "Wild Party",
       "url": "https://open.spotify.com/track/1MPE4zErPnH2kCF5oqUO0q"
+    },
+    {
+      "album": {
+        "name": "Yanga Anthem",
+        "url": "https://open.spotify.com/album/3adR7VXxB4rXdHQ3pQEEYJ"
+      },
+      "artists": [
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230289,
+      "name": "Yanga Anthem",
+      "url": "https://open.spotify.com/track/4jRRo64OzwBCrnO1saAE0q"
     },
     {
       "album": {

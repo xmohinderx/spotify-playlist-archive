@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcf57PJZ9901.md) - [plain]
 
 > The best soft rock from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,750 likes - 70 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,816 likes - 70 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,17 +59,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcf57PJZ9901.md) - [plain]
 | 49 | [Sovereign Light Café](https://open.spotify.com/track/38v9pKVik1eEJhpSuh97oc) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Strangeland](https://open.spotify.com/album/7CrzFBSIGuZA07hjRM6HxH) | 3:38 |
 | 50 | [Release](https://open.spotify.com/track/3ubpkIvw8SDchaRPEKIQPS) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Smoke + Mirrors \(Deluxe\)](https://open.spotify.com/album/6ecx4OFG0nlUMqAi9OXQER) | 2:28 |
 | 51 | [Over You](https://open.spotify.com/track/2rF2dht1UkYFPpJ73w0AU6) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Miracle Pill](https://open.spotify.com/album/79gY3R2V5HcDbnrMp6wuVP) | 2:54 |
-| 52 | [Monster](https://open.spotify.com/track/4ma2AbPdsy5ijCyJn16mAv) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind](https://open.spotify.com/album/7yVx5zJONB6MO8zL1jHN7i) | 3:56 |
-| 53 | [If You Ever Want To Be In Love](https://open.spotify.com/track/0UGRfHjN5t2qRMgfTpYnd3) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 3:58 |
+| 52 | [If You Ever Want To Be In Love](https://open.spotify.com/track/0UGRfHjN5t2qRMgfTpYnd3) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 3:58 |
+| 53 | [Monster](https://open.spotify.com/track/4ma2AbPdsy5ijCyJn16mAv) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind](https://open.spotify.com/album/7yVx5zJONB6MO8zL1jHN7i) | 3:56 |
 | 54 | [Slow And Steady](https://open.spotify.com/track/3raHUAfQyQ7Gv8yK62AVhV) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy) | 5:01 |
 | 55 | [She Lays Down](https://open.spotify.com/track/7Esd9ROfkgPgBtWN72U5P5) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 3:58 |
 | 56 | [My Heart I Surrender](https://open.spotify.com/track/2tXtxbJra1MIJxkWrD1xTd) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Heart Vs\. Mind](https://open.spotify.com/album/6bywSFiasl6HpfQLDvh0az) | 3:27 |
 | 57 | [Landlady](https://open.spotify.com/track/04yNTogtZSbl40k7GVvLuO) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Experience \(Deluxe Edition\)](https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP) | 4:01 |
 | 58 | [Heathrow](https://open.spotify.com/track/2X6aiq2KyWsyhh7c3vzeyp) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Ride](https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ) | 2:51 |
-| 59 | [Move Together](https://open.spotify.com/track/0GDQXt7qRJIDDUmcufomrU) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 4:35 |
-| 60 | [Second Chances](https://open.spotify.com/track/6FQcdl2PzmsoXRF3F1flZ5) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Smoke + Mirrors \(Deluxe\)](https://open.spotify.com/album/6ecx4OFG0nlUMqAi9OXQER) | 3:37 |
-| 61 | [The Only One](https://open.spotify.com/track/3QHA3SBpz2SDEpI1HuMT0e) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 5:00 |
-| 62 | [The Mortician's Daughter](https://open.spotify.com/track/64otP8HsLlvIgsidSOh2xH) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [We Stitch These Wounds](https://open.spotify.com/album/79rUMyGQNnAhZkEeB3Rd7B) | 4:11 |
+| 59 | [Second Chances](https://open.spotify.com/track/6FQcdl2PzmsoXRF3F1flZ5) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Smoke + Mirrors \(Deluxe\)](https://open.spotify.com/album/6ecx4OFG0nlUMqAi9OXQER) | 3:37 |
+| 60 | [The Only One](https://open.spotify.com/track/3QHA3SBpz2SDEpI1HuMT0e) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 5:00 |
+| 61 | [The Mortician's Daughter](https://open.spotify.com/track/64otP8HsLlvIgsidSOh2xH) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [We Stitch These Wounds](https://open.spotify.com/album/79rUMyGQNnAhZkEeB3Rd7B) | 4:11 |
+| 62 | [Move Together](https://open.spotify.com/track/0GDQXt7qRJIDDUmcufomrU) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 4:35 |
 | 63 | [Flying High Falling Low](https://open.spotify.com/track/5ompsQEJ93uy0YGCgANzBI) | [Walking On Cars](https://open.spotify.com/artist/632WMoQfBWk76kBz7vMXNg) | [Everything This Way](https://open.spotify.com/album/6wycCzrlJHKrooOq3Dzzj3) | 4:21 |
 | 64 | [Song For Someone](https://open.spotify.com/track/6PmvNS601Mcd2H0UcqMWb0) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Innocence](https://open.spotify.com/album/45Ec0wYJ7npo6lXH4GWmxz) | 3:46 |
 | 65 | [Love Someone](https://open.spotify.com/track/1qvToOLpOdxoxmEyebs0Wi) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [YES! \(Commentary\)](https://open.spotify.com/album/2pkE09f0DykOk472XemaTs) | 4:17 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcf57PJZ9901.md) - [plain]
 | 69 | [Wild Sun](https://open.spotify.com/track/4BfQ0lR0I0iJFS9SoExpbG) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hope](https://open.spotify.com/album/4wIE6aAQq4GL10ae7cjZZ0) | 4:29 |
 | 70 | [Passing Ships](https://open.spotify.com/track/7n2ovJQ5hDX9wScd9aBL6N) | [Throw The Fight](https://open.spotify.com/artist/1nRfyHvAh1foLjOCa3hbv7) | [Transmissions](https://open.spotify.com/album/1pbaNcr9twxPtvBo7GuJnh) | 4:15 |
 
-Snapshot ID: `MTY1NDE3NzIzOCwwMDAwMDAwMGMzNDg1ODlhYTM2ZWJiMDAwYTZhNzgyZjAxN2RjOTNj`
+Snapshot ID: `MTY1NDE3NzIzOCwwMDAwMDAwMDU0N2JlMTU1MmVmYzQyZDM3MDdmMTg4YjRmZDA0YTZm`

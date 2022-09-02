@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,205 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,229 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,14 +17,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 7 | [Hai Cheng](https://open.spotify.com/track/3kBfE92drjZEgYffx22zbl) | [THE 8](https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk) | [Hai Cheng](https://open.spotify.com/album/0pvUzcbKZAlIQYrbaVRLXb) | 3:52 |
 | 8 | [這世界那麼多人 \- 電影《我要我們在一起》主題曲](https://open.spotify.com/track/7uupMVckq9ta7ei9ghX8q0) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [這世界那麼多人 \(電影《我要我們在一起》主題曲\)](https://open.spotify.com/album/5FnNKdAIdmlLIabRoAuL90) | 4:45 |
 | 9 | [阿拉斯加海湾](https://open.spotify.com/track/6VYs9NInduwKl1TBLfeSdy) | [菲道尔](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [A Letter](https://open.spotify.com/album/2qViMUzjnHbV7DA09JUZNj) | 4:06 |
-| 10 | [明天再見](https://open.spotify.com/track/6B80NMNDIYyA1YbiefVsSE) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [明天再見](https://open.spotify.com/album/1qcnrw6fl5BkdSkd5MNfhx) | 3:22 |
-| 11 | [悲傷的五個步驟 \- Live Session](https://open.spotify.com/track/5fwxL5EIOUXWUfxvNX3s1I) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [悲傷的五個步驟 \(Live Session\)](https://open.spotify.com/album/2ABskKleNsgFb5qk7IXioh) | 3:09 |
-| 12 | [日常](https://open.spotify.com/track/7MLTCVNXFz5SFN84HSqYVg) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [卡通人物](https://open.spotify.com/album/5SGhMGsRdfFKlFjsE9L3V5) | 4:03 |
-| 13 | [你要的愛 \- 心動版](https://open.spotify.com/track/1TyCWL2O5xJqiiFT7UN7SZ) | [Penny Tai](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) | [你要的愛 \(心動版\)](https://open.spotify.com/album/6m0w2NPZtEMqYA5U5wbt9a) | 3:55 |
+| 10 | [悲傷的五個步驟 \- Live Session](https://open.spotify.com/track/5fwxL5EIOUXWUfxvNX3s1I) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [悲傷的五個步驟 \(Live Session\)](https://open.spotify.com/album/2ABskKleNsgFb5qk7IXioh) | 3:09 |
+| 11 | [明天再見](https://open.spotify.com/track/6B80NMNDIYyA1YbiefVsSE) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [明天再見](https://open.spotify.com/album/1qcnrw6fl5BkdSkd5MNfhx) | 3:22 |
+| 12 | [你要的愛 \- 心動版](https://open.spotify.com/track/1TyCWL2O5xJqiiFT7UN7SZ) | [Penny Tai](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) | [你要的愛 \(心動版\)](https://open.spotify.com/album/6m0w2NPZtEMqYA5U5wbt9a) | 3:55 |
+| 13 | [日常](https://open.spotify.com/track/7MLTCVNXFz5SFN84HSqYVg) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [卡通人物](https://open.spotify.com/album/5SGhMGsRdfFKlFjsE9L3V5) | 4:03 |
 | 14 | [正想著你呢](https://open.spotify.com/track/4YxVgJAkGsUnqLvEzjz8Ry) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [房間裡的大象](https://open.spotify.com/album/1hLOyMZ8n5dmBckqXkToIG) | 3:25 |
 | 15 | [十萬毫升淚水](https://open.spotify.com/track/2mCSqP0xAkWO7N53OnHRLk) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [天使與魔鬼的對話](https://open.spotify.com/album/6joAlbBWoCoaSLongcfI9V) | 4:20 |
-| 16 | [慷慨](https://open.spotify.com/track/5JowA7cy6M1j3Wv6hhmKsC) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [慷慨](https://open.spotify.com/album/2FGVVZHWr2Fs3iaUz2wIYg) | 4:34 |
-| 17 | [Remember \- 電影《跟你老婆去旅行》插曲](https://open.spotify.com/track/4xB7mLuL2HxpU6r8W7ipK6) | [守夜人](https://open.spotify.com/artist/7Ec6c9lhFbsTfuwmIkhZa9) | [Remember \(電影《跟你老婆去旅行》插曲\)](https://open.spotify.com/album/7e8UzB4BkYm6cgp1rPlKRW) | 3:13 |
+| 16 | [Remember \- 電影《跟你老婆去旅行》插曲](https://open.spotify.com/track/4xB7mLuL2HxpU6r8W7ipK6) | [守夜人](https://open.spotify.com/artist/7Ec6c9lhFbsTfuwmIkhZa9) | [Remember \(電影《跟你老婆去旅行》插曲\)](https://open.spotify.com/album/7e8UzB4BkYm6cgp1rPlKRW) | 3:13 |
+| 17 | [慷慨](https://open.spotify.com/track/5JowA7cy6M1j3Wv6hhmKsC) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [慷慨](https://open.spotify.com/album/2FGVVZHWr2Fs3iaUz2wIYg) | 4:34 |
 | 18 | [懸日](https://open.spotify.com/track/6zbBfKc4ghXAGtzuXAQptf) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [無人知曉](https://open.spotify.com/album/6bCnbjqqRgcPCpJwcnoLju) | 4:37 |
 | 19 | [願溫柔的你被世界溫柔以待 \- Demo](https://open.spotify.com/track/596QP1necn4XdusdVzB0TW) | [綠繡眼](https://open.spotify.com/artist/7dwt5S8gmrCEnG5WWtbCri) | [願溫柔的你被世界溫柔以待 \(Demo\)](https://open.spotify.com/album/09q2CO9Bw3PFsVC72nS5Pn) | 3:49 |
 | 20 | [遗书](https://open.spotify.com/track/3OAus00QiDUhoya5chQ2As) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [我要给世界最悠长的湿吻](https://open.spotify.com/album/2Rc3tGGee3zgEh1VKhXNbL) | 4:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 49 | [愛過的人](https://open.spotify.com/track/7EIYJLVmsUmmbq40SugYsk) | [Kevin Wu](https://open.spotify.com/artist/4ndcN72ebPeky0dedtouTy) | [愛過的人](https://open.spotify.com/album/2HlKUwFGOLebR71L1CIcg3) | 5:25 |
 | 50 | [雛形](https://open.spotify.com/track/3mrkmWt803vSvGxTlW27YI) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [雛形](https://open.spotify.com/album/6sP1HwzA0iqkGjoroBgog4) | 3:59 |
 
-Snapshot ID: `MTY2MTQ0MzIwMCwwMDAwMDAwMDdhNzJlNmIwNTc2ZGRiMmU3MmVlOThkOTIwMjI0ZmVh`
+Snapshot ID: `MTY2MjA0ODAwMCwwMDAwMDAwMDViMGYwMzMxNDQyZWI3MzdhMDQyY2MwYWJiODVjMzQy`

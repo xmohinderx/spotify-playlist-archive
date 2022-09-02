@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 
 > Recordando a los ídolos de la música de banda\. En portada: Cuisillos de Arturo Macías
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,969 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,188 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,27 +55,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 | 45 | [Al Mismo Nivel](https://open.spotify.com/track/1evKB90fOuaj6oMSBESdhK) | [Banda La Costeña](https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7) | [Una Aventura](https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu) | 3:05 |
 | 46 | [Si Tu Boquita Fuera](https://open.spotify.com/track/4MeagrXRJb7XjSE8FK0n75) | [Banda R\-15](https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR) | [15 Grandes Exitos](https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC) | 2:58 |
 | 47 | [Qué Puedo Hacer por Ti](https://open.spotify.com/track/0QqFvqQ9Lujnc7QaYBEw09) | [Julio Preciado Y Su Banda Perla Del Pacifico](https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p) | [16 Bandazos de Oro](https://open.spotify.com/album/3vvyIFJn2hM6I2L5A2WdWg) | 3:27 |
-| 48 | [El Teterete](https://open.spotify.com/track/505QALTxkpzRI7FY4kuS2J) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella de Los Bailes](https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU) | 2:57 |
-| 49 | [Un indio quiere llorar](https://open.spotify.com/track/2EiI77Zus1qAINPOxFTcyK) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sentimientos](https://open.spotify.com/album/0W25izQQWhI54q5Dvs2PkO) | 2:49 |
+| 48 | [Un indio quiere llorar](https://open.spotify.com/track/2EiI77Zus1qAINPOxFTcyK) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sentimientos](https://open.spotify.com/album/0W25izQQWhI54q5Dvs2PkO) | 2:49 |
+| 49 | [El Teterete](https://open.spotify.com/track/505QALTxkpzRI7FY4kuS2J) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella de Los Bailes](https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU) | 2:57 |
 | 50 | [Mitad Tú, Mitad Yo](https://open.spotify.com/track/6WeCdQhiHkPqCS5omDgylH) | [Banda Pachuco](https://open.spotify.com/artist/70IN0LkJ8uOb9MxQ7Tatzb) | [Tesoros De Coleccion](https://open.spotify.com/album/2X5Zbdd3iO6mBcf0VcVTAT) | 2:55 |
 | 51 | [Esa Chica Me Vacila](https://open.spotify.com/track/3B4DGPWuk7VeEFj6IFlC24) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/216Vvwkcgb3OR27a8Gwt7Q) | 3:35 |
 | 52 | [Te He Prometido](https://open.spotify.com/track/4pmbsGhAR7s4QUsMKKhDXA) | [Jessie Morales El Original De La Sierra](https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW) | [Mis 20 Exitos Originales](https://open.spotify.com/album/4ljRe6ASjOEUrEl5ElNwH4) | 3:12 |
 | 53 | [Aventurero Y Loco](https://open.spotify.com/track/5lF5XniaT9e3EJMnDmSUsA) | [Banda La Pirinola](https://open.spotify.com/artist/5PTt3pmQAnQwYOBVEAFU0Y) | [Banda La Pirinola](https://open.spotify.com/album/2B1eN4sLg3mjruRkO0X5G5) | 3:27 |
-| 54 | [Isla Virgen](https://open.spotify.com/track/64H6jtyJEzjXV1hqN1w3B1) | [Banda Brava](https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk) | [Enamorado De Ti](https://open.spotify.com/album/0Rt8zwYRxLwfhLqvmQZdzR) | 3:00 |
+| 54 | [Debajo De Los Laureles](https://open.spotify.com/track/45TkoeSmoScX2TYzLWnSSK) | [Banda Sinaloense Los Recoditos](https://open.spotify.com/artist/7IUkPNJ8qmoD5i3TcRYpXF) | [Debajo De Los Laureles](https://open.spotify.com/album/3B80b6IGp3cnt5r190PwvZ) | 2:31 |
 | 55 | [Dos Hojas Sin Rumbo](https://open.spotify.com/track/2EjxmOw1V5MZ40S7rCiHeP) | [Julio Preciado Y Su Banda Perla Del Pacifico](https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p) | [Tesoros De Coleccion \- \-Victor Cordero A Traves De Sus Mas Bellas Canciones Y Sus Mejores Interpretes](https://open.spotify.com/album/2wx0qAtALUWK0IfGfpCJdJ) | 3:04 |
-| 56 | [Debajo De Los Laureles](https://open.spotify.com/track/45TkoeSmoScX2TYzLWnSSK) | [Banda Sinaloense Los Recoditos](https://open.spotify.com/artist/7IUkPNJ8qmoD5i3TcRYpXF) | [Debajo De Los Laureles](https://open.spotify.com/album/3B80b6IGp3cnt5r190PwvZ) | 2:31 |
-| 57 | [El Alacrán](https://open.spotify.com/track/724EmguSZnZkNYegszQgig) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña](https://open.spotify.com/album/7Ja4lDuleKTZV67LuqlGA5) | 2:33 |
-| 58 | [Leña de pirul](https://open.spotify.com/track/24hke0P7QZEb62QC4XzG9y) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [La reina de las bandas Vol\. II](https://open.spotify.com/album/29JiAjWnPrh6PxzyZxA1Uv) | 2:47 |
+| 56 | [Isla Virgen](https://open.spotify.com/track/64H6jtyJEzjXV1hqN1w3B1) | [Banda Brava](https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk) | [Enamorado De Ti](https://open.spotify.com/album/0Rt8zwYRxLwfhLqvmQZdzR) | 3:00 |
+| 57 | [Leña de pirul](https://open.spotify.com/track/24hke0P7QZEb62QC4XzG9y) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [La reina de las bandas Vol\. II](https://open.spotify.com/album/29JiAjWnPrh6PxzyZxA1Uv) | 2:47 |
+| 58 | [El Alacrán](https://open.spotify.com/track/724EmguSZnZkNYegszQgig) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña](https://open.spotify.com/album/7Ja4lDuleKTZV67LuqlGA5) | 2:33 |
 | 59 | [Muñequita](https://open.spotify.com/track/1G4SKVSuNdH2HTBlqZuSpn) | [Banda Cuisillos](https://open.spotify.com/artist/2jPqqtZbK8JDXSz94QLpCX) | [Te Amo](https://open.spotify.com/album/0n4f0enYF1I4Ct3z4blIIw) | 3:16 |
 | 60 | [MI Vida Sin Ti](https://open.spotify.com/track/7r7tEGlRGeeGsprdBIfBru) | [Banda Pelillos](https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE) | [Evolution](https://open.spotify.com/album/0bSO97EWemxZI9dyzq5IS3) | 4:12 |
 | 61 | [Caliente Caliente](https://open.spotify.com/track/3wERA0j49lmCJkguFtHWUJ) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Caliente, Caliente](https://open.spotify.com/album/6tTgXH5EBY6FFV37ATLoUR) | 3:14 |
-| 62 | [Arreando La Mula](https://open.spotify.com/track/7qX0Ca5ShfAMDjSogZ2Bxu) | [Banda R\-15](https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR) | [15 Grandes Exitos](https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC) | 3:03 |
+| 62 | [El Bigote](https://open.spotify.com/track/3ujVqENYM0ujQY5jgKLQb9) | [Banda R\-15](https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR) | [15 Grandes Exitos](https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC) | 2:51 |
 | 63 | [Un loco solitario](https://open.spotify.com/track/3UGGMTCBHy16YGzLbR3SeA) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Trayectoria](https://open.spotify.com/album/4HEcnwhFZEvZrOZjJr4hFe) | 3:11 |
 | 64 | [Solo Tú](https://open.spotify.com/track/7cA72Gk1dqN6w5j0azVHYR) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [Gold Collection, Vol.1](https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O) | 3:41 |
-| 65 | [Ni El Dinero Ni Nada](https://open.spotify.com/track/6uUKXjEQzx1YNuDSm38tzY) | [Banda Sinaloense Los Recoditos](https://open.spotify.com/artist/7IUkPNJ8qmoD5i3TcRYpXF) | [Debajo De Los Laureles](https://open.spotify.com/album/3B80b6IGp3cnt5r190PwvZ) | 2:49 |
-| 66 | [Anda Borracho El Buey](https://open.spotify.com/track/4fCBHIPstTkPivVYoPMZ5d) | [Banda Guadalajara Express](https://open.spotify.com/artist/3OVWawJdrDHvvuFuOfwOcN) | [California Adiós](https://open.spotify.com/album/3UePWSFrp52fyNLW0jVVfl) | 2:46 |
+| 65 | [Anda Borracho El Buey](https://open.spotify.com/track/4fCBHIPstTkPivVYoPMZ5d) | [Banda Guadalajara Express](https://open.spotify.com/artist/3OVWawJdrDHvvuFuOfwOcN) | [California Adiós](https://open.spotify.com/album/3UePWSFrp52fyNLW0jVVfl) | 2:46 |
+| 66 | [Ni El Dinero Ni Nada](https://open.spotify.com/track/6uUKXjEQzx1YNuDSm38tzY) | [Banda Sinaloense Los Recoditos](https://open.spotify.com/artist/7IUkPNJ8qmoD5i3TcRYpXF) | [Debajo De Los Laureles](https://open.spotify.com/album/3B80b6IGp3cnt5r190PwvZ) | 2:49 |
 | 67 | [Nunca se Acabo el Encanto](https://open.spotify.com/track/4UY78AVRWQycRrJHTCOxRw) | [Banda La Costeña](https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7) | [Como Loco Alucino](https://open.spotify.com/album/2HZ10UUKKSRmVpVBjRXh1k) | 3:10 |
-| 68 | [El Bigote](https://open.spotify.com/track/3ujVqENYM0ujQY5jgKLQb9) | [Banda R\-15](https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR) | [15 Grandes Exitos](https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC) | 2:51 |
+| 68 | [Arreando La Mula](https://open.spotify.com/track/7qX0Ca5ShfAMDjSogZ2Bxu) | [Banda R\-15](https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR) | [15 Grandes Exitos](https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC) | 3:03 |
 | 69 | [Las mujeres quieren bailar](https://open.spotify.com/track/5wJOv7x0ObqV024IhCruVF) | [Banda Pelillos](https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE) | [A Mover el Guayin](https://open.spotify.com/album/7faetDuF4VoGbqlstgpjct) | 3:16 |
 | 70 | [El Ranchero Chido](https://open.spotify.com/track/12wG2c9gS7pwSndBZTB4XI) | [Vaquero's Musical](https://open.spotify.com/artist/0OOdJ5wjxXrPKGtLhxRVa1) | [Super Exitos](https://open.spotify.com/album/3FgnbvpmigNrgsaJAeCZL0) | 2:43 |
 | 71 | [Hablando Claro](https://open.spotify.com/track/0gqoQHLcWzZcls7KzYd6xT) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK) | [Hablando Claro](https://open.spotify.com/album/6RsUI2bxtHfbGTV5EnCILh) | 2:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 | 99 | [Y.M.C.A](https://open.spotify.com/track/2qhoPqOEdy3fFxTw9IlOk4) | [Banda con Angel](https://open.spotify.com/artist/4st0uAeIFkWMwrC5dzCmW0) | [Volvere](https://open.spotify.com/album/57eKtbyg848bTblG5xwWky) | 3:43 |
 | 100 | [No Me Dejes Tan Solo](https://open.spotify.com/track/5seb18FFKQKhkZxVrrVYNf) | [La Incontenible Banda Astilleros](https://open.spotify.com/artist/7EQ9iuyTpUsFKqHP1w27nG) | [Ladrón de Amor](https://open.spotify.com/album/270QucDspeOgBEAPMUmj3p) | 3:06 |
 
-Snapshot ID: `MTYzNTI1NjI2NCwwMDAwMDAwMGZhMjhkM2NmMzQ1YmNhNTZlZTViZDYzYTFkMmUzODk0`
+Snapshot ID: `MTYzNTI1NjI2NCwwMDAwMDAwMGM5OGQ3ZjI2N2MyMTU3YTFmZGU3NGFmMzUxOTRlNDcz`

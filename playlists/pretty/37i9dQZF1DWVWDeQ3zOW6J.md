@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWDeQ3zOW6J.md) - [plain]
 
 > ¡Nada le gana a una comida hecha con buena salsa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,948 likes - 60 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,971 likes - 60 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWDeQ3zOW6J.md) - [plain]
 | 10 | [Juanito Alimaña](https://open.spotify.com/track/336Xdyzllb9WbJIC8XF90t) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Vigilante](https://open.spotify.com/album/0gNCmEbPNV1OJ6JIcExTB7) | 7:36 |
 | 11 | [Fuego En El 23](https://open.spotify.com/track/5EX3Q9GWGMtvvugQFkNTUb) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa), [Papo Lucca](https://open.spotify.com/artist/1KbyKzIyGQig2K7sP5E7gv), [Luigui Gomez](https://open.spotify.com/artist/7iY8Y06Ta3wYvBpH0fTHVQ), [Tito Gómez](https://open.spotify.com/artist/6d5spDidb3nveGjwpybfdn) | [Fuego en el 23!](https://open.spotify.com/album/0c3F6OlWKJnkRTb78nswUt) | 4:44 |
 | 12 | [Anacaona](https://open.spotify.com/track/0NP1zQ8Oqlz43Q2QEjmghg) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC) | [Cheo](https://open.spotify.com/album/7dJT6ZBo7VxF41pw5tSrli) | 4:13 |
-| 13 | [Tiene Sabor \(feat\. Omara Portuondo\)](https://open.spotify.com/track/659r0xM5pXvb5sUQG3Yl28) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW), [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Lost and Found](https://open.spotify.com/album/3y7CeywdF5PUHpDJriC9tC) | 3:17 |
+| 13 | [Trucutu](https://open.spotify.com/track/64g9DmjfX5oZ2MZ3Dnv5oY) | [Tommy Olivencia y Su Orquesta](https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx), [Chamaco Ramírez](https://open.spotify.com/artist/5xrlgKRrNvDt5KSbcBbTwx) | [Planté Bandera](https://open.spotify.com/album/2VdhOXWqytn4EzEFZvw9Ae) | 5:02 |
 | 14 | [El Día De Mi Suerte](https://open.spotify.com/track/7Kmfjms3yyhg2y56mN7EfZ) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Lo Mato](https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr) | 5:28 |
-| 15 | [Trucutu](https://open.spotify.com/track/64g9DmjfX5oZ2MZ3Dnv5oY) | [Tommy Olivencia y Su Orquesta](https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx), [Chamaco Ramírez](https://open.spotify.com/artist/5xrlgKRrNvDt5KSbcBbTwx) | [Planté Bandera](https://open.spotify.com/album/2VdhOXWqytn4EzEFZvw9Ae) | 5:02 |
+| 15 | [Tiene Sabor \(feat\. Omara Portuondo\)](https://open.spotify.com/track/659r0xM5pXvb5sUQG3Yl28) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW), [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Lost and Found](https://open.spotify.com/album/3y7CeywdF5PUHpDJriC9tC) | 3:17 |
 | 16 | [El Watusi](https://open.spotify.com/track/5jK21S6FXKQqjlK4vTBiMd) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Charanga Moderna](https://open.spotify.com/album/5uYeVU8weEJgTFLblDuHFf) | 2:40 |
 | 17 | [Sofrito](https://open.spotify.com/track/0FpBO0Pyoh4MZVmNO3zwnc) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Sofrito](https://open.spotify.com/album/6o663c9rSwfKOoLQKs76kS) | 6:06 |
 | 18 | [Un verano en Nueva York](https://open.spotify.com/track/1q2J8KWeewoqOrZI4a65P9) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Numero 7](https://open.spotify.com/album/0VaX081B3DVzrDJOxWVqGS) | 4:58 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWDeQ3zOW6J.md) - [plain]
 | 59 | [El Bodeguero](https://open.spotify.com/track/5KWXFC6zIKvAzGSxD0Z537) | [Orquesta Aragón De Cuba](https://open.spotify.com/artist/2OLihLtYOqpRtNddqyLWsG) | [Antología de la Música Cubana](https://open.spotify.com/album/1v0ts1bkcJc8tzs68G1nLt) | 3:01 |
 | 60 | [Tocineta \- Remastered](https://open.spotify.com/track/0iPlfTLQ9Z6SOg59fGKjaA) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw), [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Tocineta \(Remastered\)](https://open.spotify.com/album/5XhCnynzqMzAFYjiQc6sP3) | 3:13 |
 
-Snapshot ID: `MTU5MjM0MjMwMiwwMDAwMDAwMDE3MjY1NWVmMmRkMmI4ODM4YTY4ZDI0ZjE4OTg3YmMz`
+Snapshot ID: `MTU5MjM0MjMwMiwwMDAwMDAwMGZmNTQxN2Q0ZTY5NzIwNDEzMmZjOTM4YmQwMTg4YmRk`

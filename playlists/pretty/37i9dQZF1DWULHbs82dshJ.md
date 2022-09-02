@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULHbs82dshJ.md) - [plain]
 
 > A trilha sonora perfeita pra te fazer companhia nesse dia chuvoso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,712 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,727 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,19 +25,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULHbs82dshJ.md) - [plain]
 | 15 | [Back At One](https://open.spotify.com/track/6mwA6YiKDjAUG8kWvRRUPh) | [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [Back At One](https://open.spotify.com/album/0ZnKlkQrZb1xDbT8bmPSjo) | 4:23 |
 | 16 | [Can't Take My Eyes Off of You \- \(I Love You Baby\)](https://open.spotify.com/track/2GFExyKXf9383tSRSrEHEt) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 3:41 |
 | 17 | [\(You Make Me Feel Like\) A Natural Woman](https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Lady Soul \(With Bonus Selections\)](https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG) | 2:45 |
-| 18 | [Love Is A Losing Game](https://open.spotify.com/track/3uliGwmB52ZA7brgpZMzyH) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 2:35 |
-| 19 | [Cheek To Cheek](https://open.spotify.com/track/33jt3kYWjQzqn3xyYQ5ZEh) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Complete Ella And Louis On Verve](https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn) | 5:54 |
+| 18 | [Cheek To Cheek](https://open.spotify.com/track/33jt3kYWjQzqn3xyYQ5ZEh) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Complete Ella And Louis On Verve](https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn) | 5:54 |
+| 19 | [Love Is A Losing Game](https://open.spotify.com/track/3uliGwmB52ZA7brgpZMzyH) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 2:35 |
 | 20 | [Human Nature](https://open.spotify.com/track/35lAjvsvS9k9HHuP1fjDT8) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 4:05 |
 | 21 | [Naked \- Bonus Track](https://open.spotify.com/track/0SbOpoBzBBCqWIcvo94JeD) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Ella Mai](https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0) | 3:17 |
 | 22 | [Where Do Broken Hearts Go](https://open.spotify.com/track/7tLtIZclwLWk54PFAyDv5T) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 4:37 |
 | 23 | [Just The Way You Are](https://open.spotify.com/track/1Xf1lWBSml62NG1du3Ro14) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White \- The Collection](https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m) | 4:49 |
 | 24 | [Dona de mim](https://open.spotify.com/track/0H8CBal2Dcu5Yc001VotZN) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Dona de mim](https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C) | 3:28 |
-| 25 | [Cruisin'](https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Where There's Smoke...](https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU) | 5:52 |
-| 26 | [Just My Imagination \(Running Away With Me\)](https://open.spotify.com/track/39Bd345OWEhRNyfayhp9gv) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Sky's The Limit](https://open.spotify.com/album/1w68QsDEt1Rt5SiwOJNGFn) | 3:48 |
-| 27 | [Issues/Hold On](https://open.spotify.com/track/0bxmVPKnEopTyuMMkaTvUb) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [K.T.S.E.](https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU) | 3:05 |
+| 25 | [Just My Imagination \(Running Away With Me\)](https://open.spotify.com/track/39Bd345OWEhRNyfayhp9gv) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Sky's The Limit](https://open.spotify.com/album/1w68QsDEt1Rt5SiwOJNGFn) | 3:48 |
+| 26 | [Issues/Hold On](https://open.spotify.com/track/0bxmVPKnEopTyuMMkaTvUb) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [K.T.S.E.](https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU) | 3:05 |
+| 27 | [Cruisin'](https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Where There's Smoke...](https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU) | 5:52 |
 | 28 | [Who's Lovin' You](https://open.spotify.com/track/6cZrsaNb4Zo9E5KHk7gcz5) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Diana Ross Presents The Jackson 5](https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1) | 3:55 |
-| 29 | [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/50uGbeaQIxKiSc7jvRTjWx) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Atlantic 60th: Soul, Sweat And Strut](https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD) | 2:46 |
-| 30 | [Like A Star](https://open.spotify.com/track/5Anh8jULgeUgciLHCR25Mk) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 4:03 |
+| 29 | [Like A Star](https://open.spotify.com/track/5Anh8jULgeUgciLHCR25Mk) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 4:03 |
+| 30 | [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/50uGbeaQIxKiSc7jvRTjWx) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Atlantic 60th: Soul, Sweat And Strut](https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD) | 2:46 |
 | 31 | [Will You Still Love Me Tomorrow? \- 2011](https://open.spotify.com/track/0LbK1bodGLc9xmV1cS9jvL) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Lioness: Hidden Treasures](https://open.spotify.com/album/4xdRjOhY9NHmMpI7U3e2c3) | 4:22 |
 | 32 | [Brown Eyes](https://open.spotify.com/track/1urmwhtXPiakhcqvqUi3rp) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9) | 4:36 |
 | 33 | [Carry Me Home](https://open.spotify.com/track/6fracv4du3sDwo1XKcPrkw) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Project 11](https://open.spotify.com/album/0aytGzjInPwluxhlSLxoot) | 4:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULHbs82dshJ.md) - [plain]
 | 49 | [Is This Love](https://open.spotify.com/track/2w7xs3r4RZtipgMYTlxsvr) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Covered in Soul](https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn) | 3:48 |
 | 50 | [4 Seasons Of Loneliness](https://open.spotify.com/track/027tq4cWr0kRxLTfdxvM1L) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Evolution](https://open.spotify.com/album/4zLchzG29ngh0MJgiy5GQx) | 4:52 |
 
-Snapshot ID: `MTYzOTU4MjkzOSwwMDAwMDAwMDMzMTYzZjI4MThhMWU1OTMwNjBhYWE1MzU0YTI3Zjk3`
+Snapshot ID: `MTYzOTU4MjkzOSwwMDAwMDAwMDY1MWI5NzY0NWMwMWYyNzdjMzljN2Q3ZjNiMGY4MTkw`

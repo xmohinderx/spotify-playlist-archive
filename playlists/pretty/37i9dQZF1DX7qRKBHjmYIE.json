@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1. A mixture of sounds and artists. Cover: Cuco",
-  "num_followers": 748825,
+  "num_followers": 748796,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODUwNTA3NiwwMDAwMDAwMDQzNjUwMjIyMTgyZTYzNWI5NTQzZTQzYjFhZGJiYjMx",
+  "snapshot_id": "MTY1ODUwNTA3NiwwMDAwMDAwMDBmODY3ZTI1YTE3YjRjZmRmMDBjYTE3YmQwNDgwOGEw",
   "tracks": [
     {
       "added_at": "2022-07-22 15:51:16",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-07-22 15:51:16",
       "album": {
-        "name": "Whoa, Nelly! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0emt7fmxNjW3lb37nTOXR0"
-      },
-      "artists": [
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        }
-      ],
-      "duration_ms": 243160,
-      "name": "I'm Like A Bird",
-      "url": "https://open.spotify.com/track/2aGw77pZqli064JiPuXYRi"
-    },
-    {
-      "added_at": "2022-07-22 15:51:16",
-      "album": {
         "name": "El Mal Querer",
         "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 150027,
       "name": "MALAMENTE - Cap.1: Augurio",
       "url": "https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK"
+    },
+    {
+      "added_at": "2022-07-22 15:51:16",
+      "album": {
+        "name": "Whoa, Nelly! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0emt7fmxNjW3lb37nTOXR0"
+      },
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        }
+      ],
+      "duration_ms": 243160,
+      "name": "I'm Like A Bird",
+      "url": "https://open.spotify.com/track/2aGw77pZqli064JiPuXYRi"
     },
     {
       "added_at": "2022-07-22 15:51:16",
@@ -751,6 +751,22 @@
     {
       "added_at": "2022-07-22 15:51:16",
       "album": {
+        "name": "El Mal Querer",
+        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 182657,
+      "name": "BAGDAD - Cap.7: Liturgia",
+      "url": "https://open.spotify.com/track/1zZ7vl1amOLI4GE5oUn0YB"
+    },
+    {
+      "added_at": "2022-07-22 15:51:16",
+      "album": {
         "name": "Sin Miedo (del Amor y Otros Demonios) \u221e [Deluxe Version]",
         "url": "https://open.spotify.com/album/64SrjXrYNfYvQcccFmYEHu"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 230964,
       "name": "fue mejor (feat. SZA)",
       "url": "https://open.spotify.com/track/4AIiCP2scA6jt6jAKfkvTX"
-    },
-    {
-      "added_at": "2022-07-22 15:51:16",
-      "album": {
-        "name": "El Mal Querer",
-        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 182657,
-      "name": "BAGDAD - Cap.7: Liturgia",
-      "url": "https://open.spotify.com/track/1zZ7vl1amOLI4GE5oUn0YB"
     },
     {
       "added_at": "2022-07-22 15:51:16",
@@ -919,26 +919,6 @@
     {
       "added_at": "2022-07-22 15:51:16",
       "album": {
-        "name": "\u00bfT\u00e9o?",
-        "url": "https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g"
-      },
-      "artists": [
-        {
-          "name": "\u00bfT\u00e9o?",
-          "url": "https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u"
-        },
-        {
-          "name": "Jaden Smith",
-          "url": "https://open.spotify.com/artist/4vDSXzhxGtPJVnMvnzSZW4"
-        }
-      ],
-      "duration_ms": 170125,
-      "name": "Uno Dos",
-      "url": "https://open.spotify.com/track/2YeKQ7zSBbalFl5K0EpEgH"
-    },
-    {
-      "added_at": "2022-07-22 15:51:16",
-      "album": {
         "name": "hate to be lame",
         "url": "https://open.spotify.com/album/5op9qDxPxMSBpV593Nxsaj"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 156798,
       "name": "hate to be lame (feat. FINNEAS)",
       "url": "https://open.spotify.com/track/3QEX5O23KVp1yg1tj6Hycp"
+    },
+    {
+      "added_at": "2022-07-22 15:51:16",
+      "album": {
+        "name": "\u00bfT\u00e9o?",
+        "url": "https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g"
+      },
+      "artists": [
+        {
+          "name": "\u00bfT\u00e9o?",
+          "url": "https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u"
+        },
+        {
+          "name": "Jaden Smith",
+          "url": "https://open.spotify.com/artist/4vDSXzhxGtPJVnMvnzSZW4"
+        }
+      ],
+      "duration_ms": 170125,
+      "name": "Uno Dos",
+      "url": "https://open.spotify.com/track/2YeKQ7zSBbalFl5K0EpEgH"
     },
     {
       "added_at": "2022-07-22 15:51:16",
@@ -1583,6 +1583,26 @@
     {
       "added_at": "2022-07-22 15:51:16",
       "album": {
+        "name": "Call",
+        "url": "https://open.spotify.com/album/5S1HHEHZqYEuCd7X0HKLPa"
+      },
+      "artists": [
+        {
+          "name": "Reggie Becton",
+          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
+        },
+        {
+          "name": "Nana",
+          "url": "https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu"
+        }
+      ],
+      "duration_ms": 176701,
+      "name": "Call",
+      "url": "https://open.spotify.com/track/7hn0tcCa9akW2BYWTedLer"
+    },
+    {
+      "added_at": "2022-07-22 15:51:16",
+      "album": {
         "name": "The View From Halfway Down - Spotify Singles",
         "url": "https://open.spotify.com/album/1S08DnwybFOPu8wswBn5gj"
       },
@@ -1615,26 +1635,6 @@
       "duration_ms": 120106,
       "name": "Focus",
       "url": "https://open.spotify.com/track/25ivNqkoHQ3zv4LWRe1oef"
-    },
-    {
-      "added_at": "2022-07-22 15:51:16",
-      "album": {
-        "name": "Call",
-        "url": "https://open.spotify.com/album/5S1HHEHZqYEuCd7X0HKLPa"
-      },
-      "artists": [
-        {
-          "name": "Reggie Becton",
-          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
-        },
-        {
-          "name": "Nana",
-          "url": "https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu"
-        }
-      ],
-      "duration_ms": 176701,
-      "name": "Call",
-      "url": "https://open.spotify.com/track/7hn0tcCa9akW2BYWTedLer"
     },
     {
       "added_at": "2022-07-22 15:51:16",

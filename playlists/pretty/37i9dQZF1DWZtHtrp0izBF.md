@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtHtrp0izBF.md) - [plain]
 
 > 1\-2\-3, 5\-6\-7, now you're dancing salsa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,438 likes - 50 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,547 likes - 50 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtHtrp0izBF.md) - [plain]
 | 37 | [Ahora Quien \- Salsa Version](https://open.spotify.com/track/5A32KQZznC2HSqr9qzTl2N) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Valio La Pena](https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7) | 5:09 |
 | 38 | [Mi Media Mitad](https://open.spotify.com/track/64QyipABOzDwoUFqaEnCvU) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:52 |
 | 39 | [Persona Ideal](https://open.spotify.com/track/5H1mAzh396id1TPT0JaItz) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Millenium Hits](https://open.spotify.com/album/2UW6AewaLPCMOqevOZvHof) | 4:41 |
-| 40 | [El Cantante](https://open.spotify.com/track/5Uve0jm1RgxKWzdSvncBDO) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Comedia](https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6) | 10:26 |
+| 40 | [Casi Te Envidio](https://open.spotify.com/track/3lfWaQLyg71Uar9gAgFVWV) | [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Oro Salsero](https://open.spotify.com/album/4ihlEk0yuvUpKGSX8A9ITz) | 5:21 |
 | 41 | [Cali Pachanguero](https://open.spotify.com/track/1Z6fpTTJelPqdI4CwvnpK4) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Sólo Hits](https://open.spotify.com/album/3lIJD63zpiEC1qgk0t1dZA) | 5:10 |
 | 42 | [El Día De Mi Suerte](https://open.spotify.com/track/7Kmfjms3yyhg2y56mN7EfZ) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Lo Mato](https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr) | 5:28 |
-| 43 | [Casi Te Envidio](https://open.spotify.com/track/3lfWaQLyg71Uar9gAgFVWV) | [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Oro Salsero](https://open.spotify.com/album/4ihlEk0yuvUpKGSX8A9ITz) | 5:21 |
+| 43 | [El Cantante](https://open.spotify.com/track/5Uve0jm1RgxKWzdSvncBDO) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Comedia](https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6) | 10:26 |
 | 44 | [Felices los 4 \(feat\. Marc Anthony\) \- Salsa Version](https://open.spotify.com/track/6PNG5G1v7pU74I13KkvAIo) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [F.A.M.E.](https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx) | 4:02 |
 | 45 | [Amiga](https://open.spotify.com/track/5WyX397vZTvYQwSrylCka0) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [Puro Corazón](https://open.spotify.com/album/39gzi20j94Xta3yLFG5wtR) | 4:15 |
 | 46 | [La Agarro Bajando](https://open.spotify.com/track/3GgI4QQWvsqqdKCvnNN0UM) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Intenso](https://open.spotify.com/album/75kOLlIjW99qG0rtOqD3rC) | 4:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtHtrp0izBF.md) - [plain]
 | 49 | [Tu Con El](https://open.spotify.com/track/6jCo1ni2ikRL8DWuegc92I) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Oro Salsero](https://open.spotify.com/album/3f7xnh39CMDvC6TVQf9oNU) | 5:03 |
 | 50 | [El Cuarto de Tula](https://open.spotify.com/track/7dRfobhDNnsEgB2ZArxA1f) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club](https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi) | 7:24 |
 
-Snapshot ID: `MTYzNzg1MTgxMSwwMDAwMDAwMDdkMjIxZWU4NTZhNjUxMDU4MDcxMWZlYmVkNWM4YjQ0`
+Snapshot ID: `MTYzNzg1MTgxMSwwMDAwMDAwMDE1NmM1ZDhiMjEyMTBhM2M0OTQ3MWQyZWZlNjY0YWQ1`

@@ -4,7 +4,7 @@
 
 > All the Intelligent Dance Music you'll need \(not necessarily to dance to\)\. Aphex Twin on cover.
 
-446 songs - 1 day 18 hr 21 min - [published](https://open.spotify.com/playlist/61jkU0pyUDv8PvEXLJtt4L)
+447 songs - 1 day 18 hr 32 min - [published](https://open.spotify.com/playlist/61jkU0pyUDv8PvEXLJtt4L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Brace Yourself Jason](https://open.spotify.com/track/4Z8jptUDjJDuxBf0pSOvSi) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Lunatic Harness](https://open.spotify.com/album/5Rc5G86a4zX96HlyHYeGsX) | 6:22 | 2022-04-13 |  |
 | [C.N.S.](https://open.spotify.com/track/78YC5j4VWIdP0CnSm1RQ6H) | [Brain Pilot](https://open.spotify.com/artist/4jZJTcDf7hzV0lBcpZIyBb) | [Cerebral Navigators: Anthology 1993\-1997](https://open.spotify.com/album/06WA933sSAdUWfBTtCXjD5) | 5:17 | 2022-04-13 |  |
 | [Calf](https://open.spotify.com/track/4JXtHmDKTVQaRg9YYk7lzO) | [Isan](https://open.spotify.com/artist/7a7MvRxJIoVblndypH8XgC) | [Clockwork Menagerie](https://open.spotify.com/album/5OFMNYMfzonhMsVXGWC0Tr) | 4:44 | 2022-04-13 |  |
+| [California Rhinoplasty](https://open.spotify.com/track/0D9JHNhezKgTaU093ijP0k) | [Matmos](https://open.spotify.com/artist/0xBkYJzwFzcIYev4fOkvk0) | [A Chance To Cut Is A Chance To Cure](https://open.spotify.com/album/6Ny98g8gtVeMwN6TtWmYXs) | 10:01 | 2022-04-13 |  |
 | [California Rhinoplasty](https://open.spotify.com/track/7AE2nOX2ZG6mtvDdjGPxZi) | [Matmos](https://open.spotify.com/artist/0xBkYJzwFzcIYev4fOkvk0) | [A Chance To Cut Is A Chance To Cure](https://open.spotify.com/album/1g9Acy5gJWRBbybCQyMPzV) | 10:01 | 2022-04-13 | 2022-07-28 |
 | [Carceres Ex Novum](https://open.spotify.com/track/5Oa7sFlWvolNqolGptFWPi) | [Xeper](https://open.spotify.com/artist/1VBezMjBWf5iySVBKjfv4l) | [Bytes](https://open.spotify.com/album/2tqE5QepWwrtCwQFj6ZOZP) | 6:42 | 2022-04-13 | 2022-07-27 |
 | [Carplos](https://open.spotify.com/track/5xfoGIyXMhfs9RZLZlW8MK) | [Leila](https://open.spotify.com/artist/77uSxZ20fMeBEI804UuGX8) | [Blood, Looms & Blooms](https://open.spotify.com/album/0sKE3aoWy0Ly8vrmIc7LWN) | 4:21 | 2022-04-13 | 2022-07-24 |
@@ -263,7 +264,7 @@
 | [Nobody’s Home](https://open.spotify.com/track/2jgNuCtykniRaYhvC2QNlI) | [Ulrich Schnauss](https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE) | [Far Away Trains Passing By](https://open.spotify.com/album/5smgSxCc73WBohUWoCt0uv) | 7:39 | 2022-04-13 | 2022-07-29 |
 | [Nocturnal Device](https://open.spotify.com/track/6uFOSreMa97WAzLd8GmtVO) | [Push Button Objects](https://open.spotify.com/artist/3KMR2Qv1uE6eNA0koPhvBz) | [A Day in a Life](https://open.spotify.com/album/2DmmmmMty8UL0R17HN4Iye) | 7:29 | 2022-04-13 | 2022-07-22 |
 | [Nodding Dogs](https://open.spotify.com/track/2JrdUkFGXOTOSUJT1HfyDW) | [Animals on Wheels](https://open.spotify.com/artist/3GDnlbIfCwWTAgv42tZshC) | [Designs & Mistakes](https://open.spotify.com/album/7HfCuaV6tGzX2AKUUjpmsd) | 5:37 | 2022-04-13 | 2022-07-29 |
-| [Norton Midgate](https://open.spotify.com/track/1IqnlaTGdTGyJ6aDhP3Bjw) | [Jega](https://open.spotify.com/artist/6ZYOrTXjWodrWyCuxGY5Yx) | [Phlax](https://open.spotify.com/album/43R7s8O3tJF2bNGs0FyB5Y) | 5:06 | 2022-04-13 |  |
+| [Norton Midgate](https://open.spotify.com/track/1IqnlaTGdTGyJ6aDhP3Bjw) | [Jega](https://open.spotify.com/artist/6ZYOrTXjWodrWyCuxGY5Yx) | [Phlax](https://open.spotify.com/album/43R7s8O3tJF2bNGs0FyB5Y) | 5:06 | 2022-04-13 | 2022-09-02 |
 | [Not Breached](https://open.spotify.com/track/4OuWSiVuaQV1ABtGEwcpgs) | [Wobbly](https://open.spotify.com/artist/0qNnLmgWCSxj07xjEmz5aN) | [Live 99>00](https://open.spotify.com/album/6a0xHZVu5vB7j8R4KGQffH) | 1:39 | 2022-04-13 | 2022-07-28 |
 | [Novelty Waves](https://open.spotify.com/track/2L6nlXElncXTL8aasIEoiQ) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Patashnik](https://open.spotify.com/album/6UUS4WcqqD75JY1v3w83cx) | 6:27 | 2022-04-13 |  |
 | [Nurture](https://open.spotify.com/track/4zcr3P7eoJmkRVYmERhXaR) | [LFO](https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e) | [Frequencies](https://open.spotify.com/album/5HJhDqS70hQWNdOwQjY5b0) | 4:40 | 2022-04-13 |  |

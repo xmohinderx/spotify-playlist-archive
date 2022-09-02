@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 34824,
+  "num_followers": 34834,
   "original_name": "No corre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4Mjg2MCwwMDAwMDAwMGU4YmVlNDljYWQ2MDk3ZGJiMzIzYWZmNzRhNmU5NmZj",
+  "snapshot_id": "MTY2MTQ4Mjg2MCwwMDAwMDAwMDM1NDg2M2IyOTAxNTdmZDkwZWE3ZDRkNjM2MjhiN2U5",
   "tracks": [
     {
       "added_at": "2022-08-26 03:01:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "Nail Tech",
-        "url": "https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 206385,
-      "name": "Nail Tech",
-      "url": "https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz"
-    },
-    {
-      "added_at": "2022-08-26 03:01:00",
-      "album": {
         "name": "The Infamous",
         "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 325506,
       "name": "Shook Ones, Pt. II",
       "url": "https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD"
+    },
+    {
+      "added_at": "2022-08-26 03:01:00",
+      "album": {
+        "name": "Nail Tech",
+        "url": "https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 206385,
+      "name": "Nail Tech",
+      "url": "https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -487,6 +487,22 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
+        "name": "Ball If I Want To",
+        "url": "https://open.spotify.com/album/6N9oICOUm4QT2YpWdKwUlu"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 112546,
+      "name": "Ball If I Want To",
+      "url": "https://open.spotify.com/track/0cu0rhnlCnJ7JIeHRiLpj3"
+    },
+    {
+      "added_at": "2022-08-26 03:01:00",
+      "album": {
         "name": "From The D 2 The LBC (with Snoop Dogg)",
         "url": "https://open.spotify.com/album/6F4ObGnJwwV5W4uLFHnNoT"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 215120,
       "name": "From The D 2 The LBC (with Snoop Dogg)",
       "url": "https://open.spotify.com/track/7My9ca9QEIR8MvIOdIrTWA"
-    },
-    {
-      "added_at": "2022-08-26 03:01:00",
-      "album": {
-        "name": "Ball If I Want To",
-        "url": "https://open.spotify.com/album/6N9oICOUm4QT2YpWdKwUlu"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 112546,
-      "name": "Ball If I Want To",
-      "url": "https://open.spotify.com/track/0cu0rhnlCnJ7JIeHRiLpj3"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -599,6 +599,38 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
+        "name": "The Marshall Mathers LP",
+        "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Xzibit",
+          "url": "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ],
+      "duration_ms": 288200,
+      "name": "Bitch Please II",
+      "url": "https://open.spotify.com/track/7lgvU7WnwcNZ8dbGUz8yhP"
+    },
+    {
+      "added_at": "2022-08-26 03:01:00",
+      "album": {
         "name": "Black On Both Sides",
         "url": "https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6"
       },
@@ -667,38 +699,6 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "The Marshall Mathers LP",
-        "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Xzibit",
-          "url": "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
-        },
-        {
-          "name": "Nate Dogg",
-          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
-        }
-      ],
-      "duration_ms": 288200,
-      "name": "Bitch Please II",
-      "url": "https://open.spotify.com/track/7lgvU7WnwcNZ8dbGUz8yhP"
-    },
-    {
-      "added_at": "2022-08-26 03:01:00",
-      "album": {
         "name": "ATLiens",
         "url": "https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0"
       },
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "Do What I Want",
-        "url": "https://open.spotify.com/album/3vV1pBCY7hLtLo3jF11JfO"
-      },
-      "artists": [
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        }
-      ],
-      "duration_ms": 171826,
-      "name": "Do What I Want",
-      "url": "https://open.spotify.com/track/62tDpymKVSXEu0W3d4AMr9"
-    },
-    {
-      "added_at": "2022-08-26 03:01:00",
-      "album": {
         "name": "I Know NIGO!",
         "url": "https://open.spotify.com/album/75T8WnF5n7fgKJ0EC7WRPS"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 174862,
       "name": "Lost and Found Freestyle 2019 (with Tyler, The Creator & Nigo)",
       "url": "https://open.spotify.com/track/5x8NgG7Ya18m9wafOvvWYk"
+    },
+    {
+      "added_at": "2022-08-26 03:01:00",
+      "album": {
+        "name": "Do What I Want",
+        "url": "https://open.spotify.com/album/3vV1pBCY7hLtLo3jF11JfO"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "duration_ms": 171826,
+      "name": "Do What I Want",
+      "url": "https://open.spotify.com/track/62tDpymKVSXEu0W3d4AMr9"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "RUN",
-        "url": "https://open.spotify.com/album/6zNJxFmILwoDTFYJqhQFIU"
-      },
-      "artists": [
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 233090,
-      "name": "RUN [Feat. Young Thug]",
-      "url": "https://open.spotify.com/track/4DSS2IhBFgW7MYyjkOOx68"
-    },
-    {
-      "added_at": "2022-08-26 03:01:00",
-      "album": {
         "name": "Good Job",
         "url": "https://open.spotify.com/album/45AcY6DFGCp9wYlAIu2Itu"
       },
@@ -1431,6 +1411,26 @@
       "duration_ms": 129600,
       "name": "Thug Till It's Over",
       "url": "https://open.spotify.com/track/41vSsnP46DpUZC0YoNyk3U"
+    },
+    {
+      "added_at": "2022-08-26 03:01:00",
+      "album": {
+        "name": "RUN",
+        "url": "https://open.spotify.com/album/6zNJxFmILwoDTFYJqhQFIU"
+      },
+      "artists": [
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 233090,
+      "name": "RUN [Feat. Young Thug]",
+      "url": "https://open.spotify.com/track/4DSS2IhBFgW7MYyjkOOx68"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
+        "name": "Good Movie",
+        "url": "https://open.spotify.com/album/3cNHTRSvsTSp0IjYQvygoB"
+      },
+      "artists": [
+        {
+          "name": "Pi\u2019erre Bourne",
+          "url": "https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M"
+        }
+      ],
+      "duration_ms": 185140,
+      "name": "Good Movie",
+      "url": "https://open.spotify.com/track/4leKMM9HGvo32ZcIGRafGS"
+    },
+    {
+      "added_at": "2022-08-26 03:01:00",
+      "album": {
         "name": "On GOD",
         "url": "https://open.spotify.com/album/3s9Sz4bnGhaCQgXHiYu1wY"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 302053,
       "name": "On GOD [Feat. Freddie Gibbs, A-Trak]",
       "url": "https://open.spotify.com/track/5di5qJOrigtUXsfBHrS4Y4"
-    },
-    {
-      "added_at": "2022-08-26 03:01:00",
-      "album": {
-        "name": "Good Movie",
-        "url": "https://open.spotify.com/album/3cNHTRSvsTSp0IjYQvygoB"
-      },
-      "artists": [
-        {
-          "name": "Pi\u2019erre Bourne",
-          "url": "https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M"
-        }
-      ],
-      "duration_ms": 185140,
-      "name": "Good Movie",
-      "url": "https://open.spotify.com/track/4leKMM9HGvo32ZcIGRafGS"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "GHETTO GODS",
-        "url": "https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 309570,
-      "name": "AMERICAN HORROR STORY",
-      "url": "https://open.spotify.com/track/35Bkow2JhxNfky5YplfMWo"
-    },
-    {
-      "added_at": "2022-08-26 03:01:00",
-      "album": {
         "name": "Apt. 505",
         "url": "https://open.spotify.com/album/2f9OKBlHW6ZcJ11cutOCGf"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 187416,
       "name": "505",
       "url": "https://open.spotify.com/track/0Tmh90l0RvTR0lZMWSey2i"
+    },
+    {
+      "added_at": "2022-08-26 03:01:00",
+      "album": {
+        "name": "GHETTO GODS",
+        "url": "https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 309570,
+      "name": "AMERICAN HORROR STORY",
+      "url": "https://open.spotify.com/track/35Bkow2JhxNfky5YplfMWo"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -2111,6 +2111,22 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
+        "name": "Fan-Tas-Tic, Vol. 2",
+        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
+      },
+      "artists": [
+        {
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        }
+      ],
+      "duration_ms": 211132,
+      "name": "Get Dis Money",
+      "url": "https://open.spotify.com/track/6xrjmQMIIYgLgjCOeq2dee"
+    },
+    {
+      "added_at": "2022-08-26 03:01:00",
+      "album": {
         "name": "Center of Attention",
         "url": "https://open.spotify.com/album/3r4RwwnQNkdwLfOcO7WReI"
       },
@@ -2131,22 +2147,6 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "Fan-Tas-Tic, Vol. 2",
-        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
-      },
-      "artists": [
-        {
-          "name": "Slum Village",
-          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
-        }
-      ],
-      "duration_ms": 211132,
-      "name": "Get Dis Money",
-      "url": "https://open.spotify.com/track/6xrjmQMIIYgLgjCOeq2dee"
-    },
-    {
-      "added_at": "2022-08-26 03:01:00",
-      "album": {
         "name": "ROSE STREET",
         "url": "https://open.spotify.com/album/7CndERmuISXqBYNk7poimm"
       },
@@ -2159,6 +2159,22 @@
       "duration_ms": 153687,
       "name": "ROSE STREET",
       "url": "https://open.spotify.com/track/3phALNKWigFCXEhIHOkHrP"
+    },
+    {
+      "added_at": "2022-08-26 03:01:00",
+      "album": {
+        "name": "Rice N Gravy - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/71DwI0KDjEE3svRPMTUnGU"
+      },
+      "artists": [
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        }
+      ],
+      "duration_ms": 159733,
+      "name": "Rice N Gravy - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/5yJRY9n8VlzqGzOHOZHCIA"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -2179,22 +2195,6 @@
       "duration_ms": 275162,
       "name": "What It Feels Like",
       "url": "https://open.spotify.com/track/7iNGwN4yuxATUtv0qYXJ8Q"
-    },
-    {
-      "added_at": "2022-08-26 03:01:00",
-      "album": {
-        "name": "Rice N Gravy - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/71DwI0KDjEE3svRPMTUnGU"
-      },
-      "artists": [
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        }
-      ],
-      "duration_ms": 159733,
-      "name": "Rice N Gravy - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/5yJRY9n8VlzqGzOHOZHCIA"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -2283,6 +2283,22 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
+        "name": "So Cool",
+        "url": "https://open.spotify.com/album/5hunE453smqc265otbv2n7"
+      },
+      "artists": [
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        }
+      ],
+      "duration_ms": 152478,
+      "name": "So Cool",
+      "url": "https://open.spotify.com/track/1dKwfm7cjsj73CLjk3oReY"
+    },
+    {
+      "added_at": "2022-08-26 03:01:00",
+      "album": {
         "name": "Pop Music",
         "url": "https://open.spotify.com/album/0vKrIJGelC0Rz6R4zI7lsS"
       },
@@ -2307,18 +2323,18 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "So Cool",
-        "url": "https://open.spotify.com/album/5hunE453smqc265otbv2n7"
+        "name": "ARE YOU WITH THAT?",
+        "url": "https://open.spotify.com/album/4aVkF3zCR2qWA6uDb8DTbd"
       },
       "artists": [
         {
-          "name": "Redman",
-          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
         }
       ],
-      "duration_ms": 152478,
-      "name": "So Cool",
-      "url": "https://open.spotify.com/track/1dKwfm7cjsj73CLjk3oReY"
+      "duration_ms": 138410,
+      "name": "ARE YOU WITH THAT?",
+      "url": "https://open.spotify.com/track/0du80hkIk5zQfc4oLNUfKx"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -2339,22 +2355,6 @@
       "duration_ms": 229839,
       "name": "Menace",
       "url": "https://open.spotify.com/track/1xX6wr2lEHsDmR72AFN0Hx"
-    },
-    {
-      "added_at": "2022-08-26 03:01:00",
-      "album": {
-        "name": "ARE YOU WITH THAT?",
-        "url": "https://open.spotify.com/album/4aVkF3zCR2qWA6uDb8DTbd"
-      },
-      "artists": [
-        {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
-        }
-      ],
-      "duration_ms": 138410,
-      "name": "ARE YOU WITH THAT?",
-      "url": "https://open.spotify.com/track/0du80hkIk5zQfc4oLNUfKx"
     },
     {
       "added_at": "2022-08-26 03:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 
 > Os maiores hits do rap português dos últimos anos\. Foto: Wet Bed Gang
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,129 likes - 60 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,209 likes - 60 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 34 | [Nada a Esconder](https://open.spotify.com/track/6MrbmTRF9s1GF2ONK5tXzX) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Nada a Esconder](https://open.spotify.com/album/3Xr91r7bFgPNZcdgoJEtuj) | 3:38 |
 | 35 | [Gravidade](https://open.spotify.com/track/1xKyLu1AbYauopjoAi0bQU) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP), [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [Gravidade](https://open.spotify.com/album/7LuTGQfSAmdbOi1SRv7C7W) | 4:03 |
 | 36 | [HEI](https://open.spotify.com/track/5IsQNZTVP4Lkfn2eMVE0nt) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [HEI](https://open.spotify.com/album/6bDFFQM5OGIerK8zwL2j9F) | 3:28 |
-| 37 | [Sentimento Safari](https://open.spotify.com/track/2t98sYRAQZAXqdwi3Sf6pQ) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Sentimento Safari](https://open.spotify.com/album/4Oy7rehFfj44km84s11jUv) | 3:25 |
-| 38 | [Bimba Y Lola](https://open.spotify.com/track/2hCuJd33TRNGiiJf7XIBVI) | [MC Caixa Dóculos](https://open.spotify.com/artist/1JoxU0YiJrmtkAHeS1pkwc) | [Bimba Y Lola](https://open.spotify.com/album/7CtTCSTIrFUnRlqCKe4oM3) | 2:40 |
+| 37 | [Bimba Y Lola](https://open.spotify.com/track/2hCuJd33TRNGiiJf7XIBVI) | [MC Caixa Dóculos](https://open.spotify.com/artist/1JoxU0YiJrmtkAHeS1pkwc) | [Bimba Y Lola](https://open.spotify.com/album/7CtTCSTIrFUnRlqCKe4oM3) | 2:40 |
+| 38 | [Sentimento Safari](https://open.spotify.com/track/2t98sYRAQZAXqdwi3Sf6pQ) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Sentimento Safari](https://open.spotify.com/album/4Oy7rehFfj44km84s11jUv) | 3:25 |
 | 39 | [Sendo Assim](https://open.spotify.com/track/1PioBX3KlN13IXB014CFF6) | [Sam The Kid](https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE) | [Mechelas](https://open.spotify.com/album/0QMmMOUt3WxYg2BwZNn7F1) | 5:14 |
 | 40 | [Rock](https://open.spotify.com/track/2tubwnOo6pAp2KvcwIWF02) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd) | [Rock](https://open.spotify.com/album/6wHyH4x6k4wmF410HE9RJH) | 2:59 |
 | 41 | [Camadas](https://open.spotify.com/track/6g3BZ70tvq3qOPicxtsnYa) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Camadas](https://open.spotify.com/album/3BWOFOGM5DiTaWiCasREwc) | 3:18 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 59 | [2020 \(feat\. Slow J\)](https://open.spotify.com/track/19J1fuhnZdlDM7UNM7SUjS) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [2020 \(feat\. Slow J\)](https://open.spotify.com/album/41L3sIZeJUDGhh2xMsSlEQ) | 3:23 |
 | 60 | [Bússola](https://open.spotify.com/track/5WJDT0RGxHU8vqpC7MkMfp) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Bússola](https://open.spotify.com/album/0iPTEOxwY2UxHaICodmx55) | 4:32 |
 
-Snapshot ID: `MTY2MDg2MDA2MCwwMDAwMDAwMGY5MGY5YzQ4MThlNjExMzk3MWUzMmEzMjMyYmUzMTRl`
+Snapshot ID: `MTY2MDg2MDA2MCwwMDAwMDAwMDk0NDcyMDA3YTNjMzVmYmMxYzk3NDZhYmQ3YjA4YjZl`

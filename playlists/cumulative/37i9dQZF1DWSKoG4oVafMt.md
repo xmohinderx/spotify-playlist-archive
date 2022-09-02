@@ -2,9 +2,9 @@
 
 ### [Punjabi Pyar](https://open.spotify.com/playlist/37i9dQZF1DWSKoG4oVafMt)
 
-> The very best of Punjabi romance featuring Sonam Bajwa & Ajay Sarkaria"
+> The very best of Punjabi romance featuring B Praak
 
-515 songs - 1 day 3 hr 54 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+517 songs - 1 day 4 hr 0 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Bachcha](https://open.spotify.com/track/05gtSxG3Zpm0Hw3C0Eha0l) | [Simar Sethi](https://open.spotify.com/artist/16oBN2vPJych5RW6qJg8XI) | [Bachcha](https://open.spotify.com/album/6tyBcZsCCVccS62USi3rSO) | 4:07 | 2022-04-28 | 2022-05-11 |
 | [Badaami Rangya](https://open.spotify.com/track/68KAdTIz16DT1rWrqODBh7) | [Gagan Kokri](https://open.spotify.com/artist/2ECA51juFyrh4DAuc8FucP), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1) | [Coz Of God](https://open.spotify.com/album/6d7e4beGEuqCCyCc7sU7ni) | 3:28 | 2022-07-27 | 2022-09-01 |
 | [Balle Ni Balle](https://open.spotify.com/track/3Quh2KLPpnsIi3itQWjuQR) | [Aparshakti Khurana](https://open.spotify.com/artist/2UWTNi6LLK5lXNGzFWzIqT), [Siddharth Amit Bhavsar](https://open.spotify.com/artist/2DQZm7ErqpqiT4nxF9i4a2), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Balle Ni Balle](https://open.spotify.com/album/6Rj96raFzAxHkkrAwCVHYS) | 2:51 | 2022-04-08 | 2022-07-06 |
+| [Band Theke](https://open.spotify.com/track/0fmYXWzzqFYD6knpZK0Jal) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Band Theke](https://open.spotify.com/album/5oSCmWYXzDRAf0LGdCSRgw) | 3:07 | 2022-09-01 |  |
 | [Bas](https://open.spotify.com/track/1NfnyCDpRMTso2ow5fcfTL) | [Jaz Dhami](https://open.spotify.com/artist/5IfJHO9jIE1GVuC517P3nr), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [Bas](https://open.spotify.com/album/3JZ03IN16HsWOqVbz5pnhX) | 2:30 | 2022-03-18 | 2022-05-11 |
 | [Battiyan](https://open.spotify.com/track/4DHK5LbsQErwvi2Rtj288z) | [Arjun](https://open.spotify.com/artist/1ekSLsljZ5sZhEv5JMJihK) | [Battiyan](https://open.spotify.com/album/5aqKAXAol6AQyV00T33dh5) | 3:12 | 2022-06-16 | 2022-07-06 |
 | [Be Mine](https://open.spotify.com/track/0GgN5LyCwRG3jlUIk19IOs) | [Sippy Gill](https://open.spotify.com/artist/2zstvC7L2UiHZZo5Nrz9gY) | [Anything For You](https://open.spotify.com/album/1NLXWJAvPEi3Lz1AJ61EXO) | 2:18 | 2022-08-11 |  |
@@ -62,6 +63,7 @@
 | [Chad Dila \(From "Shakaar Paare"\)](https://open.spotify.com/track/2sAsdU3ElHGf0v8IlYIdQt) | [Shahid Mallya](https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8) | [Chad Dila \(From "Shakaar Paare"\)](https://open.spotify.com/album/0BSvBzuk2HjlKP4cj2pjU3) | 4:08 | 2022-07-27 | 2022-08-18 |
 | [Chadar](https://open.spotify.com/track/3c96nmp3dLpmQP8quR9LgU) | [Harman Boparai](https://open.spotify.com/artist/4nV5WpZFCR1MXNOf5iX0bE), [E=mc](https://open.spotify.com/artist/6lrJ6jOOCqG43PcINfATTw) | [Chadar](https://open.spotify.com/album/0CdwopWbPv1EwLQ3Mihfxa) | 4:17 | 2022-02-25 | 2022-04-06 |
 | [Chahat](https://open.spotify.com/track/71drxG2r37vAin3subT9ry) | [Singga](https://open.spotify.com/artist/6nmrEhAdodPuhMLMbefluW) | [Chahat](https://open.spotify.com/album/0GLu2qhwJbgRIsAh2RzCAG) | 3:48 | 2022-01-28 | 2022-04-06 |
+| [Chak Mera Dil](https://open.spotify.com/track/71onVbMjqnn7k8NCFq7O98) | [Kabir](https://open.spotify.com/artist/6xB458m3PTcThjtZgXcNws), [Snipr](https://open.spotify.com/artist/5FBBHL5ycaBTQZNUjQnOtu) | [Chak Mera Dil](https://open.spotify.com/album/2Y2XrLlsxHYPCfchuHD8T2) | 2:35 | 2022-09-01 |  |
 | [Chal Mere Naal](https://open.spotify.com/track/0ZFRNQH89jplIbSyeLb221) | [Shubh Goraya](https://open.spotify.com/artist/4gXQYW5L0ioMI3FuP6mBTQ), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1) | [Chal Mere Naal](https://open.spotify.com/album/0BTBJbD3vbPcOGzVaU8yVn) | 3:39 | 2022-04-21 | 2022-04-29 |
 | [Challa](https://open.spotify.com/track/4vJ2p3DlOrxcnXv9e8rwLA) | [Harpi Gill](https://open.spotify.com/artist/2IAVxMMu1NjwNSLZ7YrXWu) | [Diamond Jatti](https://open.spotify.com/album/0U2GowEyLxUrHMuan0S4nG) | 2:31 | 2022-02-03 | 2022-02-12 |
 | [Challa](https://open.spotify.com/track/148aTrqgZEQg90n61CaAnH) | [Samar Veer](https://open.spotify.com/artist/349nyiVdtB4mKn6BhjfkY3) | [Challa](https://open.spotify.com/album/0NEs1XpHKrUBPwbiCgi6xF) | 3:38 | 2022-03-29 | 2022-04-06 |

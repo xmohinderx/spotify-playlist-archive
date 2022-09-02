@@ -134,6 +134,24 @@
     },
     {
       "album": {
+        "name": "Congrats",
+        "url": "https://open.spotify.com/album/0URAkeg7psYrEr9Qj0KTIL"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217470,
+      "name": "Congrats",
+      "url": "https://open.spotify.com/track/3pJMOvec8R8OKzEmB9PRJD"
+    },
+    {
+      "album": {
         "name": "cowboy in LA",
         "url": "https://open.spotify.com/album/2cUg7ckSqDt8gXp9tmfdZ5"
       },
@@ -671,7 +689,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 198533,
       "name": "like you lots",
       "url": "https://open.spotify.com/track/4eTVMSVtVJWlvGk8hzGC9q"
@@ -827,7 +845,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 232319,
       "name": "Pancakes",
       "url": "https://open.spotify.com/track/2Br251pz4tr0L5FOuf6Fyx"

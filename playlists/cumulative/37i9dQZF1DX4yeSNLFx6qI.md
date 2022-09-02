@@ -4,7 +4,7 @@
 
 > Se acabó el amor\. La música continúa.
 
-177 songs - 10 hr 25 min - [published](https://open.spotify.com/playlist/5ip3Hsabx9kyB1i1dzdp3Y)
+178 songs - 10 hr 27 min - [published](https://open.spotify.com/playlist/5ip3Hsabx9kyB1i1dzdp3Y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Saturno](https://open.spotify.com/track/2oKjjRzItVu8JZScrpzFTx) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Saturno](https://open.spotify.com/album/5pkBUqB9eV83AF7BmNGAs6) | 4:13 | 2021-12-06 |  |
 | [Se Me Olvidó Olvidarte](https://open.spotify.com/track/3PQW9eCAHJm5RXMTRk84la) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p), [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ), [Lucero Mijares](https://open.spotify.com/artist/3NRfvOGwdqnzGWuHE15nGW) | [Se Me Olvidó Olvidarte](https://open.spotify.com/album/7reK9X26hjUaOSzBKaKqoW) | 3:54 | 2021-12-06 |  |
 | [Se Supone](https://open.spotify.com/track/5Lhlma8CbXwj3ptne7H6DF) | [Lucah](https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw) | [Se Supone](https://open.spotify.com/album/3G0nsurU2QSdw4439JcbhT) | 4:06 | 2021-12-06 | 2022-07-29 |
+| [Será Mi Culpa?](https://open.spotify.com/track/0e5wmUTalS4NiyNjMYmBIA) | [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET) | [Será Mi Culpa?](https://open.spotify.com/album/4A1s03L5Tw52zY0FamWkDW) | 2:19 | 2022-08-31 |  |
 | [Si algún día me toca a mí](https://open.spotify.com/track/0EWTV2ya46WyDFrKiDz7ay) | [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk) | [Si algún día me toca a mí](https://open.spotify.com/album/2lgGsWvn6GO3xsWHiwbcOF) | 3:58 | 2021-12-06 |  |
 | [Si hubieras querido](https://open.spotify.com/track/0Q6Pc3dqsl6qHKZ91DPUTH) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Si hubieras querido](https://open.spotify.com/album/0mag3mrok9LV07L6nnACOt) | 3:41 | 2021-12-06 |  |
 | [Si por Mi Fuera](https://open.spotify.com/track/5z9a61fPYYlb2hV0GLVYaB) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Si por Mi Fuera](https://open.spotify.com/album/2qJ7rlgygQM59Byb8qG9Rv) | 3:32 | 2021-12-06 | 2022-07-29 |
@@ -146,7 +147,7 @@
 | [Son Tantas Cosas](https://open.spotify.com/track/54nYowFYNMP2buVxg73w6w) | [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2) | [Son Tantas Cosas](https://open.spotify.com/album/2QshaPSs5R2x3da2jCHrFj) | 2:24 | 2021-12-06 |  |
 | [Souvenir \- Acústico](https://open.spotify.com/track/7DdrGHH2WVJE5mu8shi6If) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Lucah](https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw) | [Souvenir \(Acústico\)](https://open.spotify.com/album/5SY3H12qUEisZPFwdDliJY) | 3:18 | 2021-12-06 | 2022-07-28 |
 | [Tantas Ganas de Volver](https://open.spotify.com/track/0tonqHqn8V2CNgP90gUgNN) | [Carlos Zaur](https://open.spotify.com/artist/6BWQiJpeXCHep8xW0vAIOk) | [Tantas Ganas de Volver](https://open.spotify.com/album/2yi4y8uEuyGMqjSY1UGpLS) | 3:04 | 2021-12-06 | 2022-07-17 |
-| [Tanto Amor \(feat\. Matisse\) \- El Viaje de Matisse](https://open.spotify.com/track/2zTxwFHPKf27XGpOhMr27N) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa), [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Tanto Amor \(feat\. Matisse\) \[El Viaje de Matisse\]](https://open.spotify.com/album/71E9VK0oe7JYo7h226EgIH) | 3:48 | 2021-12-06 |  |
+| [Tanto Amor \(feat\. Matisse\) \- El Viaje de Matisse](https://open.spotify.com/track/2zTxwFHPKf27XGpOhMr27N) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa), [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Tanto Amor \(feat\. Matisse\) \[El Viaje de Matisse\]](https://open.spotify.com/album/71E9VK0oe7JYo7h226EgIH) | 3:48 | 2021-12-06 | 2022-09-02 |
 | [Te acuerdas?](https://open.spotify.com/track/25tHQXFLUN38dQXQyKu9Ev) | [Paul Alone](https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE) | [Te acuerdas?](https://open.spotify.com/album/4bgNYwpO19Pm0olhO3srld) | 3:03 | 2021-12-06 |  |
 | [Te echo de menos](https://open.spotify.com/track/3gPOFPYLgpvQz0ZMwmv7NE) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Te echo de menos](https://open.spotify.com/album/3SOqCdYh4P6GPFjGh0ZHrj) | 3:14 | 2021-12-06 |  |
 | [te echo de menos </3](https://open.spotify.com/track/2cI9at8yZOA69znRNFFyOe) | [Covi Quintana](https://open.spotify.com/artist/2sSqkk6j5gRa7MzeQqMfIN) | [te echo de menos </3](https://open.spotify.com/album/0J9M2VOvAoiw3eC46vWOsr) | 3:01 | 2021-12-06 | 2022-07-29 |

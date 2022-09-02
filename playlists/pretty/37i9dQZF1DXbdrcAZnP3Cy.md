@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdrcAZnP3Cy.md) - [plain]
 
 > Your favorite Mexican anthems to get the party started! Cover: Vicente Fernández
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,100 likes - 90 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,217 likes - 90 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdrcAZnP3Cy.md) - [plain]
 | 69 | [No rompas mi corazón \- Achy Breaky Heart](https://open.spotify.com/track/01sw4YF783cqydsJQbJCwT) | [Caballo Dorado](https://open.spotify.com/artist/38yOUctO9eek9ti5NWMQXm) | [Trayectoria](https://open.spotify.com/album/4yr1klPd996H8VREqxZw7D) | 3:40 |
 | 70 | [Tamarindo](https://open.spotify.com/track/57gZ0m6MfrQhJu1DwNyIE9) | [La Numero 1 Banda Jerez De Marco A\. Flores](https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi) | [Me Gustan Las Viejas Buenas](https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD) | 2:39 |
 | 71 | [Tragos Amargos](https://open.spotify.com/track/7ENNmSQQajwKTPX0m7ejYA) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Cruzando Fronteras](https://open.spotify.com/album/4gNEQSuUGtz13sLf11vchI) | 2:44 |
-| 72 | [El Sinaloense](https://open.spotify.com/track/57qATI59zt97GfYpac1FoS) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Raíces](https://open.spotify.com/album/3P0x6Hb7bQmv3mAHZ3M4Pl) | 1:53 |
-| 73 | [El Paso del Gigante](https://open.spotify.com/track/3G0msIrMQ9vVzvFrnkS6vw) | [Grupo Sonador](https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF) | [Grandes Exitos de La Cumbia Vol\. 2](https://open.spotify.com/album/4eIT6DsACeCBoV6Bg5o3H8) | 3:39 |
+| 72 | [El Paso del Gigante](https://open.spotify.com/track/3G0msIrMQ9vVzvFrnkS6vw) | [Grupo Sonador](https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF) | [Grandes Exitos de La Cumbia Vol\. 2](https://open.spotify.com/album/4eIT6DsACeCBoV6Bg5o3H8) | 3:39 |
+| 73 | [El Sinaloense](https://open.spotify.com/track/57qATI59zt97GfYpac1FoS) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Raíces](https://open.spotify.com/album/3P0x6Hb7bQmv3mAHZ3M4Pl) | 1:53 |
 | 74 | [Dime Cómo Quieres](https://open.spotify.com/track/5fnbYKGq0zhFCCesNhiUE6) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Dime Cómo Quieres](https://open.spotify.com/album/627Wbeny1n8Wuu2zISsiiS) | 2:49 |
 | 75 | [Arrempujala Arremangala](https://open.spotify.com/track/00xWJo63OSXjWyihycznbe) | [Los Karkik's](https://open.spotify.com/artist/2kRcNmtZoQUI7F0hoYCnCg) | [Arrempujala Arremangala](https://open.spotify.com/album/7o3jw1zUej7NicDM4pNbzM) | 3:17 |
 | 76 | [El Camaleón](https://open.spotify.com/track/3a6TQVSXm6zCQzNhTVO2Mo) | [Los Tigrillos](https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf) | [Camaleón](https://open.spotify.com/album/6w20flSfh4CyLpQALjOape) | 3:06 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdrcAZnP3Cy.md) - [plain]
 | 89 | [La Leona y el Mandilón](https://open.spotify.com/track/72YKqem3dQrjdoMEH28AVH) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Hoy Más Fuerte](https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46) | 2:31 |
 | 90 | [Arremángala Arrempújala](https://open.spotify.com/track/16RyGCJmiM2GPdTuikdEkM) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Mis Favoritas](https://open.spotify.com/album/19sUt3izOtuq4tRI5iSwe7) | 2:01 |
 
-Snapshot ID: `MTY2MDkyOTQzNSwwMDAwMDAwMDgyODVmYWVhNTlkMTJjZmU5NjI4Njc1YjM5NTE5ZDk1`
+Snapshot ID: `MTY2MDkyOTQzNSwwMDAwMDAwMGYyNjQxODU2YTNiNjc5OGVkMGIzNmJjNDgyZTdiOTk2`

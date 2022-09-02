@@ -2,9 +2,9 @@
 
 ### [Wild Country](https://open.spotify.com/playlist/37i9dQZF1DX5mB2C8gBeUM)
 
-> Country gone wild! You never know what you're gonna get\. Artist: Abby Anderson
+> Country gone wild! You never know what you're gonna get\. Artist: Levi Hummon
 
-261 songs - 13 hr 23 min - [published](https://open.spotify.com/playlist/2NFX3fEEavFql8EoHSR8S8)
+263 songs - 13 hr 28 min - [published](https://open.spotify.com/playlist/2NFX3fEEavFql8EoHSR8S8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Goin' Through](https://open.spotify.com/track/13RHVbTpnVB5Kkf9H1RUx0) | [Nicky James](https://open.spotify.com/artist/3mMKcvOOK7XZAOZGuLFNAk) | [Goin' Through](https://open.spotify.com/album/6qWY2iv9jHsCRQNiBNqbAj) | 2:54 | 2021-12-10 | 2022-07-09 |
 | [Good Goodbye \(feat\. Jimmie Allen\)](https://open.spotify.com/track/5KcDw23a38rfHHI6Gdnedz) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Good Goodbye \(feat\. Jimmie Allen\)](https://open.spotify.com/album/0KJMKtgo6MQq9ypijW1sKE) | 3:03 | 2021-12-10 |  |
 | [Good Love](https://open.spotify.com/track/7awWHJGz3y1Ttvf4ugslKb) | [Matt Freedman](https://open.spotify.com/artist/5umTrwJc1kCpROdrQUQkNK) | [Good Love](https://open.spotify.com/album/6PCSw31b7LaKVYEOydUIXC) | 2:35 | 2021-12-10 |  |
+| [Good Riddance](https://open.spotify.com/track/3WwZbPizrnJqJFx86kNPs1) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi), [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG), [YA'BOYZ](https://open.spotify.com/artist/7vMHsgM6Rlv8loZc594Z9I) | [Good Riddance](https://open.spotify.com/album/0wsFRTnDflqysvqN2YQ8dz) | 2:22 | 2022-09-01 |  |
 | [Good Vibes Only](https://open.spotify.com/track/3Xnf9l8bZHtXxQf0CajdXh) | [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr), [Justin Champagne](https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH) | [The Colonel](https://open.spotify.com/album/0lHlQncYmvSo7TujyIz7ZQ) | 2:37 | 2021-12-10 | 2022-02-26 |
 | [Greener Pasture](https://open.spotify.com/track/3fA0FKdkPmBa62MSxwewKE) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Greener Pasture](https://open.spotify.com/album/2ua2VjahAuE1LsjiGIQWu3) | 3:09 | 2022-02-25 |  |
 | [Grow Up \(feat\. Blake Shelton\)](https://open.spotify.com/track/3Hj2VfZMpov5Z9KiKv22Cx) | [Ian Flanigan](https://open.spotify.com/artist/5rPnSGtasjvQgEwK0Wmb1y), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Grow Up \(feat\. Blake Shelton\)](https://open.spotify.com/album/38uTO3DOjGERyVb9ug1R1U) | 3:38 | 2021-12-10 | 2022-06-04 |
@@ -165,6 +166,7 @@
 | [Mad I Need You](https://open.spotify.com/track/0om2jMPfaW2pBJs5i7axVv) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [Love, Kylie](https://open.spotify.com/album/6Ab0rIJ0ydHvziPeeLE5e6) | 3:19 | 2021-12-10 | 2022-01-08 |
 | [Me Myself and Why](https://open.spotify.com/track/2s4arq5gE02rBGtGrn2PKj) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Me Myself and Why](https://open.spotify.com/album/4YloWyesV0HgASNvaNuoqR) | 3:33 | 2022-03-04 |  |
 | [Me, Myself, and Wine](https://open.spotify.com/track/7eAtibYWYUJWgIcYA4Rke2) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [Me, Myself, and Wine](https://open.spotify.com/album/35MumGCuVvvh3ne38mVzhq) | 3:12 | 2021-12-10 | 2022-01-08 |
+| [Mile a Minute](https://open.spotify.com/track/3ZId83LVU8njcHXP8ZiMvr) | [Josh Mirenda](https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB) | [Mile a Minute](https://open.spotify.com/album/1XyZaEQP7xLclmVg5ni3fk) | 3:15 | 2022-09-01 |  |
 | [Mirror Mirror](https://open.spotify.com/track/056K0FrfQlXzBvmjUOirnQ) | [Love and Theft](https://open.spotify.com/artist/03a5eVjzFyQlR4XyVSwt4t) | [Mirror Mirror](https://open.spotify.com/album/72dQeejmZ6ewp4C8DTicwO) | 2:39 | 2021-12-10 | 2022-01-08 |
 | [Missing You](https://open.spotify.com/track/4yfSSCOrcAcgzcGAtc9LCW) | [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [Missing You](https://open.spotify.com/album/7AFjkjnNLLn6LIDJJls1lK) | 3:03 | 2022-03-18 |  |
 | [More Me](https://open.spotify.com/track/05ZbkONztKDhdE4tC4OJqB) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [More Me](https://open.spotify.com/album/4P9iA68PjGj5qZjZQZ2sDx) | 2:22 | 2022-05-20 |  |

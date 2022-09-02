@@ -4,7 +4,7 @@
 
 > Los clásicos de hoy y siempre.
 
-268 songs - 19 hr 12 min - [published](https://open.spotify.com/playlist/6ZzugtTmY8hZfoO0k0GCwU)
+269 songs - 19 hr 15 min - [published](https://open.spotify.com/playlist/6ZzugtTmY8hZfoO0k0GCwU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Born in the U.S.A.](https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:38 | 2021-08-31 |  |
 | [Born to Be Alive \- Extended Version](https://open.spotify.com/track/5WI7WETcabzR2k2euhcpo7) | [Patrick Hernandez](https://open.spotify.com/artist/1CcEgi464SWZsKY5579u7z) | [Born to Be Alive \(Extended Version\)](https://open.spotify.com/album/3g5qdsnQf0rfPAD8Vxoozt) | 5:54 | 2021-08-31 | 2022-07-29 |
 | [Boys Don't Cry](https://open.spotify.com/track/1QFh8OH1e78dGd3VyJZCAC) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys](https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG) | 2:35 | 2021-08-31 | 2022-07-29 |
+| [Break on Through \(To the Other Side\)](https://open.spotify.com/track/6ToM0uwxtPKo9CMpbPGYvM) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 2:25 | 2021-08-31 |  |
 | [California Dreamin' \- Single Version](https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [If You Can Believe Your Eyes & Ears](https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF) | 2:42 | 2021-08-31 |  |
 | [Call Me](https://open.spotify.com/track/4qO03RMQm88DdpTJcxlglY) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Atomic/Atomix](https://open.spotify.com/album/5HRB9TeaIHRBxfIm4XZTj6) | 3:32 | 2021-08-31 | 2022-07-29 |
 | [Can't Get Enough Of Your Love, Babe](https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Can't Get Enough](https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG) | 4:34 | 2021-08-31 | 2022-07-29 |
@@ -57,7 +58,7 @@
 | [Comfortably Numb](https://open.spotify.com/track/5HNCy40Ni5BZJFw1TKzRsC) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 6:22 | 2021-08-31 |  |
 | [Conga!](https://open.spotify.com/track/3FdHgoJbH3DXNtGLh56pFu) | [Miami Sound Machine](https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F) | [Primitive Love](https://open.spotify.com/album/70ziXyCSplSPUpFmq9kh6M) | 4:14 | 2021-08-31 | 2022-07-29 |
 | [Cry Baby](https://open.spotify.com/track/0fOQ8CPHNabT8UQEz0hvkt) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [The Essential Janis Joplin](https://open.spotify.com/album/70BOe7gVbSl5vBuMkHmXvw) | 3:57 | 2021-08-31 | 2022-07-25 |
-| [Cum on Feel the Noize](https://open.spotify.com/track/3vV3cr2TpPqFk07zxYUbla) | [Quiet Riot](https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3) | [Metal Health](https://open.spotify.com/album/3Q3rQ8FK1e9Fd9Gv9xm3CK) | 4:50 | 2021-08-31 |  |
+| [Cum on Feel the Noize](https://open.spotify.com/track/3vV3cr2TpPqFk07zxYUbla) | [Quiet Riot](https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3) | [Metal Health](https://open.spotify.com/album/3Q3rQ8FK1e9Fd9Gv9xm3CK) | 4:50 | 2021-08-31 | 2022-09-02 |
 | [Da Ya Think I'm Sexy?](https://open.spotify.com/track/4z7maGZkAonDlXlwo8q69f) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Blondes Have More Fun](https://open.spotify.com/album/38tXOrjXUUfQWWV2DRwMio) | 5:31 | 2021-08-31 |  |
 | [Dancing Queen](https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 3:50 | 2021-08-31 |  |
 | [Dancing Queen](https://open.spotify.com/track/4NtUY5IGzHCaqfZemmAu56) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1M4anG49aEs4YimBdj96Oy) | 3:50 | 2021-08-31 | 2022-07-20 |

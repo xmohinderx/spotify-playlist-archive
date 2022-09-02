@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 
 > Descubra Mac Júlia e novos talentos brasileiros no horizonte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,546 likes - 60 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,550 likes - 60 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 25 | [bonita e miserável](https://open.spotify.com/track/1ePCG4jmr5NWT84Pw678kZ) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [bonita e miserável](https://open.spotify.com/album/2uF3enSQoCCusAYTAiIWhK) | 2:51 |
 | 26 | [Garrafa Colorida](https://open.spotify.com/track/1JtXsY6NZbBhuBq0X8dzgE) | [Mc Anjim](https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP), [DJ PH DA SERRA](https://open.spotify.com/artist/7Dq3oCz43MCuWBRgWTltZI), [Dj Tg Da Inestan](https://open.spotify.com/artist/07hde6KjeHapJ75M3jSfFl) | [Garrafa Colorida](https://open.spotify.com/album/13nFR7PUVvMRC1jx2BgFmC) | 2:44 |
 | 27 | [aff...](https://open.spotify.com/track/1WIGGd7w3ecJWvNnaXgm1B) | [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [aff...](https://open.spotify.com/album/1RgHtIFOdynYGzZy1Klmfo) | 2:44 |
-| 28 | [P90](https://open.spotify.com/track/43ZNwGCrC4ZD5e0DGGMbvV) | [JayPluggz](https://open.spotify.com/artist/5plOn7vFrwAlvqDfDCtM1M), [Brocasito](https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM) | [P90](https://open.spotify.com/album/6bemhnTC1gXKmGhuYOtVJz) | 2:03 |
-| 29 | [Meu Amor](https://open.spotify.com/track/6QXTXu1Rezdb7gMcVvRXeC) | [Julio Secchin](https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs), [Maria Luiza Jobim](https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM) | [Meu Amor](https://open.spotify.com/album/074aWj0vTp7r0JTZWBvvOQ) | 2:26 |
+| 28 | [Meu Amor](https://open.spotify.com/track/6QXTXu1Rezdb7gMcVvRXeC) | [Julio Secchin](https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs), [Maria Luiza Jobim](https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM) | [Meu Amor](https://open.spotify.com/album/074aWj0vTp7r0JTZWBvvOQ) | 2:26 |
+| 29 | [P90](https://open.spotify.com/track/43ZNwGCrC4ZD5e0DGGMbvV) | [JayPluggz](https://open.spotify.com/artist/5plOn7vFrwAlvqDfDCtM1M), [Brocasito](https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM) | [P90](https://open.spotify.com/album/6bemhnTC1gXKmGhuYOtVJz) | 2:03 |
 | 30 | [vc é msm tão melhor que eu?](https://open.spotify.com/track/2K24ijOSojf6F2q0HXgy6b) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [vc é msm tão melhor que eu?](https://open.spotify.com/album/03SguNzZdoSYJwIwOGAlSk) | 3:29 |
 | 31 | [Te Deixo Crazy](https://open.spotify.com/track/7xyvvzTC0cG4wqJNIDuiNb) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6), [Danny Bond](https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R) | [Te Deixo Crazy](https://open.spotify.com/album/6GhQsV31Iz1edjKeAD6fan) | 2:44 |
 | 32 | [Capa de Revista](https://open.spotify.com/track/3d5B5nqP5r6aUDJYf4JPSN) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Capa de Revista](https://open.spotify.com/album/0wm8lBrvdnyzoaOMJoToN5) | 2:54 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 42 | [Beira Mar](https://open.spotify.com/track/0behTwZwYY2BR47eX3GjCq) | [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg), [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [pumapjl](https://open.spotify.com/artist/1iVZ4G8loVE1bb5EWuOvMM) | [Todo Mundo Ama o Sol](https://open.spotify.com/album/2NgVCkUvypsuwrxloKor6X) | 2:42 |
 | 43 | [GEMINI](https://open.spotify.com/track/1vrkzEsrowxRKGaj4eiMsF) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX) | [GEMINI](https://open.spotify.com/album/1HnkY3D40gemQBmZ9azWX2) | 3:20 |
 | 44 | [Contramão](https://open.spotify.com/track/00CCXySfYOVAXvRb8y8bmo) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Taleko](https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz) | [Contramão](https://open.spotify.com/album/0dF3Hp05Ud1aUXPz8qv8X2) | 3:42 |
-| 45 | [Vendaval \- Ao Vivo](https://open.spotify.com/track/2fkVehr2ZC9tEI2EpeOIOT) | [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Vendaval \(Ao Vivo\)](https://open.spotify.com/album/0CdhqJwe0aAWf0Oz7SYSiF) | 3:53 |
-| 46 | [Farol](https://open.spotify.com/track/05kSoelsyqTfXeVV1xIXv4) | [Maria Luiza Jobim](https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM), [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [Farol](https://open.spotify.com/album/1hcsinjslpOIa1RXhICO7Z) | 2:25 |
+| 45 | [Farol](https://open.spotify.com/track/05kSoelsyqTfXeVV1xIXv4) | [Maria Luiza Jobim](https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM), [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [Farol](https://open.spotify.com/album/1hcsinjslpOIa1RXhICO7Z) | 2:25 |
+| 46 | [Vendaval \- Ao Vivo](https://open.spotify.com/track/2fkVehr2ZC9tEI2EpeOIOT) | [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Vendaval \(Ao Vivo\)](https://open.spotify.com/album/0CdhqJwe0aAWf0Oz7SYSiF) | 3:53 |
 | 47 | [poderia ser pior](https://open.spotify.com/track/0ksL64x432xlpRa2ii0bqN) | [Number Teddie](https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT) | [poderia ser pior](https://open.spotify.com/album/3vaeQA1qsbog2MZKhMbt1O) | 2:52 |
 | 48 | [Eu Fico](https://open.spotify.com/track/1WtRLoB6c7wcMbTuZ6EbjT) | [Juan Marcus & Vinícius](https://open.spotify.com/artist/0GVW2S0kS9yOIEo93ZCNLW) | [Bendito Rolê](https://open.spotify.com/album/5ThMKwTKtrGl29FxY0Q4FH) | 3:05 |
 | 49 | [Que Amigo É Esse \(Ao Vivo\)](https://open.spotify.com/track/6Ur3usqEbguXdqoc1WjA3K) | [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [Sextou BB 4 Completo \(Ao Vivo em Goiânia\)](https://open.spotify.com/album/7fj0Le4QkGQQkGdoZZtsGw) | 2:43 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 59 | [SEM MÉNAGE](https://open.spotify.com/track/6UZHjMPp3rfFFDby5yleiy) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67) | [HODARI](https://open.spotify.com/album/2Jav8IMez2x2KzEbwSy154) | 2:29 |
 | 60 | [Baby Hair](https://open.spotify.com/track/6tgveJsfKptFd0mvJG9Iv6) | [Pretta Poder](https://open.spotify.com/artist/6CEm11gYIUP8EeirFIXAYt), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW), [SoudCrime](https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg) | [Baby Hair](https://open.spotify.com/album/6Hk41Rh3IMBcdhOwneSaQo) | 2:33 |
 
-Snapshot ID: `MTY2MDUzMjQ2MCwwMDAwMDAwMGIxM2U2OGQ3MjBhMTA2OWRkNzE0YWIzY2VhY2NmNTU3`
+Snapshot ID: `MTY2MDUzMjQ2MCwwMDAwMDAwMGYwYWY0ZWRiNzE3NTYxMmQyMDBlYmM2MjkzNmM5NDAz`

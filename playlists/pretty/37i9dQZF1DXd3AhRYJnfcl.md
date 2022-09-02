@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 
 > أفضل الأغاني المصرية التي لن تتوقف عن الاستماع إليها 🔝 الغلاف: ويجز و آش
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,230 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,451 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

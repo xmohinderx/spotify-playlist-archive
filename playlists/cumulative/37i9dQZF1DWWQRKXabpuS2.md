@@ -4,7 +4,7 @@
 
 > ابق على اطلاع بأحدث الأغاني الخليجية! الغلاف: فؤاد عبدالواحد
 
-145 songs - 9 hr 57 min - [published](https://open.spotify.com/playlist/4PSk8NVZJlLmYibT60mLzt)
+146 songs - 10 hr 0 min - [published](https://open.spotify.com/playlist/4PSk8NVZJlLmYibT60mLzt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Sowarna](https://open.spotify.com/track/5aMf5XddEvzeC1m88J6x4v) | [Al Anean](https://open.spotify.com/artist/4OGe22HHsE2RKyb710cHI3) | [Sowarna](https://open.spotify.com/album/3K3l4mS2yhPMaKkNbsAgpn) | 3:34 | 2022-01-20 | 2022-07-07 |
 | [Sukkar](https://open.spotify.com/track/4OcGPIHDcFZcGB5seRrfIm) | [Molham](https://open.spotify.com/artist/0QQoEM8PaO0N5y1frRGKom), [Dyler](https://open.spotify.com/artist/6YczkNz5V8O3xnSrYbVEiU) | [Sukkar](https://open.spotify.com/album/6Tzgry4wnabAF4gpSff1uO) | 2:16 | 2022-02-11 | 2022-06-04 |
 | [Swalef Al Lel](https://open.spotify.com/track/02bhyQbENe0BxDAKsTUteA) | [Waleed Al Shami](https://open.spotify.com/artist/05LLsyiJRSjBpe54u0jJRz) | [Swalef Al Lel](https://open.spotify.com/album/4iVcTtt2gMtG6V4PCk0mU1) | 8:51 | 2021-12-23 | 2022-02-05 |
+| [Takhayel](https://open.spotify.com/track/5kpt7M3vgU5nBFrECytdSv) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Takhayel](https://open.spotify.com/album/01lmkknyS1jSSXxsLelcNt) | 3:19 | 2022-09-01 |  |
 | [Tamnony Aleh](https://open.spotify.com/track/3nXTVXOH2S8a68T78FGjKT) | [Rola Kadri](https://open.spotify.com/artist/28Jx760F4Z37RhCtjOrLGj) | [Tamnony Aleh](https://open.spotify.com/album/4bRULRxIQFGrAXXl5nu2C6) | 3:02 | 2021-12-23 | 2022-06-04 |
 | [Tbarak Galbe](https://open.spotify.com/track/5QGkol4xMYr3DgnOPx6jAz) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Tbarak Galbe](https://open.spotify.com/album/7xkSwmQxStACNH2M68zsdT) | 4:35 | 2022-05-01 |  |
 | [Tedrin](https://open.spotify.com/track/3vD3gUwNGUOixb6Cg712sH) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Tedrin](https://open.spotify.com/album/4JNuLecl8rCEeeR3gMznCr) | 4:47 | 2022-05-25 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GKumqRIZ7g.md) - [plain]
 
 > Four to the floor with your disco queens and kings\. Cover: Sylvester
 
-[Spotify](https://open.spotify.com/user/spotify) - 716,409 likes - 50 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 716,251 likes - 50 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GKumqRIZ7g.md) - [plain]
 | 8 | [Le Freak \- 2018 Remaster](https://open.spotify.com/track/7Kszjzps0xbQXyo1pO4KfE) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [C'est Chic \(2018 Remaster\)](https://open.spotify.com/album/4a1EmaXGBiQ61Y4m6SNcYi) | 5:31 |
 | 9 | [It's Raining Men \- Single Version](https://open.spotify.com/track/4caiYv89C9GZdDD1RzshWd) | [The Weather Girls](https://open.spotify.com/artist/19xz1vcuKNjniGEftTOSSH) | [Dance Hits \- 80s & 90s](https://open.spotify.com/album/0LvOMujcrO1z87O3vAOsJL) | 3:31 |
 | 10 | [Bad Girls](https://open.spotify.com/track/1ibRqifchaAfeNdQGpbRVW) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Bad Girls](https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg) | 4:55 |
-| 11 | [Disco Inferno \- Single Edit](https://open.spotify.com/track/22ff60cZy4APp7bzESHLR8) | [The Trammps](https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK) | [Rhino Hi\-Five: The Trammps](https://open.spotify.com/album/6eAq1OY2L1F3qleomkvtX7) | 3:11 |
+| 11 | [Disco Inferno](https://open.spotify.com/track/7bET0DUAs59D6BsbdTqXuw) | [The Trammps](https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK) | [The Trammps](https://open.spotify.com/album/0ul2B7WEJ43BP66ib1z9en) | 3:38 |
 | 12 | [You Make Me Feel \(Mighty Real\)](https://open.spotify.com/track/0RnCUYXa7jhgTXtiMXF2PQ) | [Sylvester](https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y) | [Step II](https://open.spotify.com/album/6y64gP67AegGu2rspM2GHo) | 6:40 |
 | 13 | [Born to Be Alive \- The Original](https://open.spotify.com/track/3XIEWK1V9n25PS9Vb6axj5) | [Patrick Hernandez](https://open.spotify.com/artist/1CcEgi464SWZsKY5579u7z) | [Born to Be Alive \(The Original\)](https://open.spotify.com/album/0kVK9lFFTzhnEb4ETElbCD) | 3:08 |
 | 14 | [Rasputin \- Single Version](https://open.spotify.com/track/67hbP9PFQZrb4XZc3TzB0s) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Fantastic Boney M.](https://open.spotify.com/album/1SBAgYpxxNiCQN7qxCJxDX) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GKumqRIZ7g.md) - [plain]
 | 49 | [Love Hangover](https://open.spotify.com/track/4UqPeeSyRt59KZmC0aA2Ni) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana Ross \(Expanded Edition\)](https://open.spotify.com/album/2Fin5oppCDiqiLfqb3j3QO) | 7:48 |
 | 50 | [Pull Up To The Bumper](https://open.spotify.com/track/653Fi3bqMxQQQmjw72ur6G) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Nightclubbing](https://open.spotify.com/album/4RmUcjaKiuQIw3NGMrjBca) | 4:41 |
 
-Snapshot ID: `MTY1NDAzODAwNSwwMDAwMDAwMDIyNzMwM2MxMDEwZGUxMTJiYTJmNzY1MWMwY2U4N2Mx`
+Snapshot ID: `MTY1NDAzODAwNSwwMDAwMDAwMGJkMjllODg1NTFjNjIwMzJiMjczMGY2MjBjZGZmOWMy`

@@ -4,7 +4,7 @@
 
 > Get your spirits up and manage your mood any time of the day
 
-54 songs - 3 hr 6 min - [published](https://open.spotify.com/playlist/1o7EepyilIUDZHnRGHzKt5)
+55 songs - 3 hr 10 min - [published](https://open.spotify.com/playlist/1o7EepyilIUDZHnRGHzKt5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,11 +55,12 @@
 | [SIGANYE \(feat\. Axon\)](https://open.spotify.com/track/3cVIh8FFTlML6YoQ7dh8Fb) | [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1), [Axon](https://open.spotify.com/artist/6ULfcssaluvJyhAxMcVeds) | [WENA CHAPTER 2](https://open.spotify.com/album/09QQkaDBulEZx9DE5chbuV) | 2:18 | 2022-06-06 |  |
 | [Slowly](https://open.spotify.com/track/7e7IkQVem95b0JLGY0F06z) | [Meddy](https://open.spotify.com/artist/1WryFbMe3DuToQGFN6Ke64) | [Slowly](https://open.spotify.com/album/3XHf2FY7qch1SbIhbVJHYT) | 3:58 | 2022-06-06 |  |
 | [Sukaali](https://open.spotify.com/track/4CUD0GgGWJYyzsi5KERvh6) | [Adrenalyn Muzik](https://open.spotify.com/artist/41n5rKefN1N9S1xktqTZLo), [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1), [Kigozi Caleb](https://open.spotify.com/artist/5llla9IYuLR7CRx1QYgLzS) | [Sukaali](https://open.spotify.com/album/3hLy3adsszXa7NtHzXqS19) | 3:25 | 2022-06-06 |  |
+| [Teach Me](https://open.spotify.com/track/3g08psCbQyJhxel56KYsAF) | [K!MERA](https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN) | [Teach Me](https://open.spotify.com/album/4mHUQjlllJE7u2KELbIT5x) | 4:19 | 2022-09-01 |  |
 | [Tebamanyi](https://open.spotify.com/track/1qcs9CDAWmO1bE3BQ6qAvn) | [Ancient Astronauts](https://open.spotify.com/artist/09JW90QIws2Z3H8hxL5fFN), [MoRoots](https://open.spotify.com/artist/7iLAy1NF90To847mXghSUQ) | [Zik Zak](https://open.spotify.com/album/5lKS2ToJ2YrL044VH6UnF1) | 3:45 | 2022-06-06 | 2022-07-26 |
 | [The Blue Dress Song](https://open.spotify.com/track/613N6htjxF1BoqQUxcNuE0) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [The Book of Kirya](https://open.spotify.com/album/64EwxAJqZKwrLEMCgmo5j3) | 3:12 | 2022-06-06 |  |
 | [Tingatsiga](https://open.spotify.com/track/3XmdY82JfJEEsCnOs1MqmP) | [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol), [Ssebo Lule](https://open.spotify.com/artist/55qMdpIT8tALCAi9A8Adea) | [Niwe Akeine](https://open.spotify.com/album/56P2WzBZ9fmYvRBC1ydNQE) | 2:43 | 2022-06-06 |  |
 | [Uber Guy.](https://open.spotify.com/track/2tOS1uu6AWw5Z2Y3gUq2WJ) | [J.C Muyonjo](https://open.spotify.com/artist/0BtGF4dneF1Jf95UKn8ZS9) | [Kidandali](https://open.spotify.com/album/6Fj6D9GAUoPGi30S4fvLMF) | 3:23 | 2022-06-06 |  |
-| [Wandiisa Ki](https://open.spotify.com/track/46MwoLINORNKPyqIILxsAo) | [Rema namakula](https://open.spotify.com/artist/2444nM3S18PKjvdsXNNLdr) | [Wandiisa Ki](https://open.spotify.com/album/6SYvCQHJcZBBJKkADXL32z) | 3:13 | 2022-06-06 |  |
+| [Wandiisa Ki](https://open.spotify.com/track/46MwoLINORNKPyqIILxsAo) | [Rema namakula](https://open.spotify.com/artist/2444nM3S18PKjvdsXNNLdr) | [Wandiisa Ki](https://open.spotify.com/album/6SYvCQHJcZBBJKkADXL32z) | 3:13 | 2022-06-06 | 2022-09-02 |
 | [WANO](https://open.spotify.com/track/7smBB3wQQe6eGZMMVVF4mv) | [NTAATE](https://open.spotify.com/artist/2pjlyuBujBWpkiqpoZTOB9) | [WANO](https://open.spotify.com/album/3XIZCSSFUdzPvxMJOcC32t) | 3:31 | 2022-06-06 |  |
 | [Webale](https://open.spotify.com/track/2iPSEJ6JfWEcDgInwFQrci) | [Shifah Musisi](https://open.spotify.com/artist/19ilv4fZylrIlPBV5FtRaI) | [Webale](https://open.spotify.com/album/1CyjROUmGfBaONkrP39hef) | 4:19 | 2022-06-06 |  |
 

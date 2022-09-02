@@ -4,7 +4,7 @@
 
 > This week's essential new pop tracks\. Cover: LANY
 
-1,402 songs - 2 day 21 hr 53 min - [published](https://open.spotify.com/playlist/0i2CIZhMTlGvQFu8b20aHi)
+1,403 songs - 2 day 21 hr 55 min - [published](https://open.spotify.com/playlist/0i2CIZhMTlGvQFu8b20aHi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1409,6 +1409,7 @@
 | [Your Skin](https://open.spotify.com/track/0B1el5NsXpCZGYAyimzlS3) | [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A) | [Your Skin \- EP](https://open.spotify.com/album/6z4Dx0dCKrBgEKZ8EDCECa) | 3:18 | 2022-05-13 | 2022-05-20 |
 | [Yours](https://open.spotify.com/track/7BpqydHSxMviDR0DNTne6J) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Yours](https://open.spotify.com/album/2i4vxgeB2Sn97KeBs2vYtO) | 3:24 | 2022-05-20 | 2022-06-11 |
 | [YouYouYou](https://open.spotify.com/track/1p6Q3r89gsQAg1EBaNHvZl) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [YouYouYou](https://open.spotify.com/album/5qngAxc71Qsxq1vChF0hzm) | 3:03 | 2022-05-06 | 2022-05-20 |
-| [YUKON \(INTERLUDE\)](https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi) | 2:21 | 2022-08-26 |  |
+| [YUKON \(INTERLUDE\)](https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi) | 2:21 | 2022-08-26 | 2022-09-02 |
+| [YUKON \(INTERLUDE\)](https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/0GxWXE6ltKk4Gx3WyWLLrW) | 2:21 | 2022-08-26 |  |
 
 \*This playlist was first scraped on 2022-02-06. Prior content cannot be recovered.

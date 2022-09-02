@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX402XqlJHYcQ.md) - [plain]
 
 > Clásicos del rock en inglés y en español\. Foto: Radiohead
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,168 likes - 100 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,332 likes - 100 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,15 +82,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX402XqlJHYcQ.md) - [plain]
 | 72 | [Roadhouse Blues](https://open.spotify.com/track/1Q5kgpp4pmyGqPwNBzkSrw) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Morrison Hotel](https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX) | 4:03 |
 | 73 | [Heroes \- 2017 Remaster](https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | ["Heroes" \(2017 Remaster\)](https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk) | 6:11 |
 | 74 | [Don't You Want Me](https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 3:56 |
-| 75 | [Say It Ain't So](https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 4:18 |
-| 76 | [Use Somebody](https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp) | 3:50 |
+| 75 | [Use Somebody](https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp) | 3:50 |
+| 76 | [Say It Ain't So](https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 4:18 |
 | 77 | [\(I Can't Get No\) Satisfaction \- Mono Version](https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Out Of Our Heads](https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ) | 3:42 |
 | 78 | [Come As You Are](https://open.spotify.com/track/4P5KoWXOxwuobLmHXLMobV) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:38 |
 | 79 | [Self Esteem](https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash](https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x) | 4:17 |
 | 80 | [Boulevard of Broken Dreams](https://open.spotify.com/track/5GorCbAP4aL0EJ16frG2hd) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Greatest Hits: God's Favorite Band](https://open.spotify.com/album/3id4t9IqRoB1f1smOERtrY) | 4:22 |
 | 81 | [Personal Jesus \- Original Single Version](https://open.spotify.com/track/1xShPgQbOUa98avWJQFDBY) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Francois Kevorkian](https://open.spotify.com/artist/30ZqCPhfRzzWcgIbXrbHnU) | [Personal Jesus](https://open.spotify.com/album/2nsxERlQsbUOWBwaz8HCj8) | 3:44 |
-| 82 | [Don't You \(Forget About Me\)](https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Once Upon A Time \(Super Deluxe\)](https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm) | 4:23 |
-| 83 | [Don't Speak](https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 4:23 |
+| 82 | [Don't Speak](https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 4:23 |
+| 83 | [Don't You \(Forget About Me\)](https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Once Upon A Time \(Super Deluxe\)](https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm) | 4:23 |
 | 84 | [Gimme Shelter](https://open.spotify.com/track/6H3kDe7CGoWYBabAeVWGiD) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed](https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy) | 4:30 |
 | 85 | [Even Flow](https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 4:52 |
 | 86 | [My Sharona](https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj) | [The Knack](https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r) | [Get The Knack](https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi) | 4:55 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX402XqlJHYcQ.md) - [plain]
 | 93 | [Are You Gonna Be My Girl](https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born](https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg) | 3:33 |
 | 94 | [Smooth Criminal](https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO) | [Anthology](https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5) | 3:29 |
 | 95 | [Linger](https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:34 |
-| 96 | [Are You Gonna Go My Way](https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Are You Gonna Go My Way](https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ) | 3:31 |
-| 97 | [Best of You](https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [In Your Honor](https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ) | 4:15 |
+| 96 | [Best of You](https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [In Your Honor](https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ) | 4:15 |
+| 97 | [Are You Gonna Go My Way](https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Are You Gonna Go My Way](https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ) | 3:31 |
 | 98 | [Human](https://open.spotify.com/track/1sTsuZTdANkiFd7T34H3nb) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Day & Age \(Bonus Tracks\)](https://open.spotify.com/album/0Ug5scDXUIgGN8yanDBLQw) | 4:05 |
 | 99 | [Listen to the Music](https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Toulouse Street](https://open.spotify.com/album/2x1Yi30lsWJUoBj1kmovnm) | 3:47 |
-| 100 | [One](https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 4:36 |
+| 100 | [Bulls On Parade](https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Evil Empire](https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF) | 3:49 |
 
-Snapshot ID: `MTY0MDM0OTY1NCwwMDAwMDAwMDI3OTU3M2M5NDAxZTc5ZGVjYjhlMDk3YzJmNGM2MWFl`
+Snapshot ID: `MTY0MDM0OTY1NCwwMDAwMDAwMDhiYjJkZGIyZDc5Nzk4OTg4Njk3NWYwYjkwZTgxZWFi`

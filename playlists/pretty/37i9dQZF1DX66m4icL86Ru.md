@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 
 > Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Ktlyn
 
-[Spotify](https://open.spotify.com/user/spotify) - 642,074 likes - 77 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 642,231 likes - 77 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 | 76 | [I Like Him](https://open.spotify.com/track/68UU9oaQtMDnh6PRlW842H) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Everything Sucks](https://open.spotify.com/album/6JP1xbkFnacGAvrIWW5pzF) | 2:12 |
 | 77 | [Promiscuous](https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 4:02 |
 
-Snapshot ID: `MTY2MTc4NzE1MiwwMDAwMDAwMDE4ZDcwNTA4MDdmMzc0NGJiM2JlMjE2ZTMzOWM5YmM4`
+Snapshot ID: `MTY2MjA1Mjk0OCwwMDAwMDAwMDE4NTQzZmU2MmJlMjBlNDljZWZhZWEzYTc3ODcyYTY5`

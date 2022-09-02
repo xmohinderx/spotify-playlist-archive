@@ -4,7 +4,7 @@
 
 > Epic and melodic metal, for the dragonslayer in you! Cover: Sabaton
 
-490 songs - 1 day 13 hr 51 min - [published](https://open.spotify.com/playlist/7kEcasUjgrsWeDSNxMBt56)
+491 songs - 1 day 13 hr 55 min - [published](https://open.spotify.com/playlist/7kEcasUjgrsWeDSNxMBt56)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Bereavement \- Instrumental](https://open.spotify.com/track/2DZqH9cwi33v4t4e2hqC9B) | [Graupel](https://open.spotify.com/artist/7vIC7DWLeeIk5kHTZosmg6) | [Bereavement \(Instrumental Edition\)](https://open.spotify.com/album/1O2eEwO3sJSkrfNOg16ekw) | 2:38 | 2022-07-13 | 2022-07-23 |
 | [BEST TIME](https://open.spotify.com/track/0cTHs20lsSAahzUnlG05Lg) | [Helloween](https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY) | [HELLOWEEN](https://open.spotify.com/album/6ZOpyAm1HCU9Z0aRSLMPnn) | 3:35 | 2021-06-19 | 2022-02-11 |
 | [Black Venom](https://open.spotify.com/track/28D4Z3vzudtzMu0NQ5789S) | [Without Warning](https://open.spotify.com/artist/4t91G6AzXhhZXQkbpZX7Fe) | [Black Venom](https://open.spotify.com/album/3fRo6gSfiyW73l7Rd7nQPq) | 3:17 | 2022-06-11 |  |
+| [Blank Infinity \- Live At Paradiso](https://open.spotify.com/track/0GmZSnIUgQRJfGKR0NSaUl) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [Live At Paradiso](https://open.spotify.com/album/0cSFIq70TNkZvsqSfAQrXe) | 4:02 | 2022-09-01 |  |
 | [Blood of Heaven](https://open.spotify.com/track/47cPM0m5L7l06hAprdV0NX) | [Nocturna](https://open.spotify.com/artist/3Eo8pwg5OKX59PKpAFfPqX) | [Blood of Heaven](https://open.spotify.com/album/5uvgEF7Cpbdf4eokVESORA) | 3:17 | 2022-01-14 | 2022-01-22 |
 | [Blood Of The Elves](https://open.spotify.com/track/5yxBjLv4Zh3VLp4kSvoZyG) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Blood Of The Elves](https://open.spotify.com/album/76PsSP8KP5hfMj6Lv4baRS) | 4:37 | 2022-05-27 |  |
 | [Bloodline](https://open.spotify.com/track/3p8mNusemqp0ejZaJVLiqi) | [Arion](https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA), [Noora Louhimo](https://open.spotify.com/artist/1sohI3zY96pI2KJICKOYBA) | [Bloodline](https://open.spotify.com/album/4tt6KdVt97D0xhbIPUeB4l) | 4:36 | 2020-11-29\* | 2021-02-12 |
@@ -277,7 +278,7 @@
 | [My Shadow Self](https://open.spotify.com/track/4wqz7heQ7P70PfjwojQFdK) | [Dark Princess](https://open.spotify.com/artist/1uy1Q1ri5F7S3Mct15kJPN) | [My Shadow Self](https://open.spotify.com/album/0XmDlBzjV3YXkF8GKLYD7C) | 3:02 | 2022-04-08 |  |
 | [Natural Born Killer](https://open.spotify.com/track/6zF7mIV7Yx74FALTZh3UMZ) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Natural Born Killer](https://open.spotify.com/album/44aKRAvfkITepinjdP1jVb) | 3:25 | 2022-06-24 |  |
 | [Nemesis \- Single Edit](https://open.spotify.com/track/1Ms77wvO9QAgwOI0wNILHh) | [Mono Inc.](https://open.spotify.com/artist/1189BemPY7h2lgaH1pkzGX) | [Nemesis](https://open.spotify.com/album/2MghktqgzbKofBy4CYGyk1) | 3:58 | 2021-11-27 | 2022-07-29 |
-| [Nemesis \- Single Edit](https://open.spotify.com/track/6UNSOj1v6OHzRyYfPD1Vbo) | [Mono Inc.](https://open.spotify.com/artist/1189BemPY7h2lgaH1pkzGX) | [The Book of Fire \(Platinum Edition\)](https://open.spotify.com/album/0B3E24p9cEOI9ByIFXoAy1) | 3:58 | 2022-07-08 |  |
+| [Nemesis \- Single Edit](https://open.spotify.com/track/6UNSOj1v6OHzRyYfPD1Vbo) | [Mono Inc.](https://open.spotify.com/artist/1189BemPY7h2lgaH1pkzGX) | [The Book of Fire \(Platinum Edition\)](https://open.spotify.com/album/0B3E24p9cEOI9ByIFXoAy1) | 3:58 | 2022-07-08 | 2022-09-02 |
 | [nero](https://open.spotify.com/track/2DVR5wEXbauarRJhluXAZs) | [Covet](https://open.spotify.com/artist/46iJ1VD4HKFnqjISGqlZkV) | [nero](https://open.spotify.com/album/5vCPTRvfiOFmU5SCkEz5g7) | 6:37 | 2022-07-13 | 2022-07-30 |
 | [Never Back Down](https://open.spotify.com/track/42E4F50hNU0KFPLQCATsiI) | [Andy James](https://open.spotify.com/artist/4Vh8EFeScM6jIGhc9fx0WO) | [Exodus](https://open.spotify.com/album/4ph5De9IwFT4JRCVLnPEbz) | 3:32 | 2022-07-13 | 2022-07-30 |
 | [New Air](https://open.spotify.com/track/5d7mgCyxijA9CRGVHwAeMJ) | [Mattias IA Eklundh](https://open.spotify.com/artist/22upwnTo7nckdSAMI8CrZa) | [New Air](https://open.spotify.com/album/4tisdZihJbwtpNIt2t159o) | 5:01 | 2022-07-13 | 2022-07-28 |

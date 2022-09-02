@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 
 > So smooth, so classic\. Cover: George Benson
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,236 likes - 60 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,251 likes - 60 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,14 +39,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 | 29 | [South Of Market](https://open.spotify.com/track/1LQV8yTi8XZQt35bnGGfki) | [Joyce Cooling](https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec) | [Playing It Cool](https://open.spotify.com/album/6TnPdiqgfQYYXdwneTbLNQ) | 4:25 |
 | 30 | [Aruban Nights](https://open.spotify.com/track/022odEBLFu7Ryy7H3A6tkF) | [Bobby Lyle](https://open.spotify.com/artist/05uCfJ1rcdJWwsVUKDg9On) | [The Power Of Touch](https://open.spotify.com/album/1mBknqXixbFJaIlMzUD1N9) | 5:10 |
 | 31 | [Nightfall](https://open.spotify.com/track/7fKo8Bl3VEm87tc70jx05r) | [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ) | [Full Stride](https://open.spotify.com/album/30r0DoPQxBqIz3RBoxpcSj) | 4:20 |
-| 32 | [Hearts Of Longing](https://open.spotify.com/track/22O3mkv6sEe3jpXRWXYFhY) | [Urban Knights](https://open.spotify.com/artist/3aCeHneB4PHsdJFVkJzEM5) | [Urban Knights](https://open.spotify.com/album/42IeRTNs12HRW0ql1jApJW) | 7:17 |
-| 33 | [107 In the Shade](https://open.spotify.com/track/5ioqsF16uhzZXqKLrScHCj) | [Alex Bugnon](https://open.spotify.com/artist/5bDmz2qpZCbOJ4XHHYe5y1) | [107 In The Shade](https://open.spotify.com/album/5r23P7VKbhAr2lt7128bdF) | 5:22 |
+| 32 | [107 In the Shade](https://open.spotify.com/track/5ioqsF16uhzZXqKLrScHCj) | [Alex Bugnon](https://open.spotify.com/artist/5bDmz2qpZCbOJ4XHHYe5y1) | [107 In The Shade](https://open.spotify.com/album/5r23P7VKbhAr2lt7128bdF) | 5:22 |
+| 33 | [Hearts Of Longing](https://open.spotify.com/track/22O3mkv6sEe3jpXRWXYFhY) | [Urban Knights](https://open.spotify.com/artist/3aCeHneB4PHsdJFVkJzEM5) | [Urban Knights](https://open.spotify.com/album/42IeRTNs12HRW0ql1jApJW) | 7:17 |
 | 34 | [Just Between Us](https://open.spotify.com/track/2r2A4NxWuFD9x0RxB2zthQ) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Backbone](https://open.spotify.com/album/0bRUGoovysFMw0rxBE9mCo) | 4:49 |
 | 35 | [You've Changed](https://open.spotify.com/track/4w1HnS1633fhFKlTirinC1) | [Andy Snitzer](https://open.spotify.com/artist/6FaR0vA7ulJTJ1a4BRlJt7) | [Ties That Bind](https://open.spotify.com/album/0zdK7TXke1dN1lbfGFR0cW) | 5:02 |
 | 36 | [I Want You For Myself](https://open.spotify.com/track/5rkVq7MwaVJHS9ZFt3uOjo) | [George Howard](https://open.spotify.com/artist/0MDjU3FoGxwGH0rbkcwF2f) | [Personal](https://open.spotify.com/album/2pqZnilWdNRtwv5Se30hA4) | 5:29 |
 | 37 | [Let's Wait Awhile](https://open.spotify.com/track/0CDdIP9vgk3iSDH0bPGww5) | [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S) | [I Came To Play](https://open.spotify.com/album/3281OsYyVze2o5TBGczWBO) | 5:17 |
-| 38 | [Touchdown](https://open.spotify.com/track/01liKzGQmuq4BRFR19YaeI) | [Bob James](https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ) | [Touchdown](https://open.spotify.com/album/5ooWmAVLqcWvDDOid6hCC6) | 5:44 |
-| 39 | [Pamela](https://open.spotify.com/track/5SCZ6ciVRjDMXn7trnq3Np) | [Brian Hughes](https://open.spotify.com/artist/3mTVKCxS5jHVIh7zSggSZb) | [Straight To You](https://open.spotify.com/album/3op9EBV5dm6aicJFlTCAP9) | 5:16 |
+| 38 | [Pamela](https://open.spotify.com/track/5SCZ6ciVRjDMXn7trnq3Np) | [Brian Hughes](https://open.spotify.com/artist/3mTVKCxS5jHVIh7zSggSZb) | [Straight To You](https://open.spotify.com/album/3op9EBV5dm6aicJFlTCAP9) | 5:16 |
+| 39 | [Touchdown](https://open.spotify.com/track/01liKzGQmuq4BRFR19YaeI) | [Bob James](https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ) | [Touchdown](https://open.spotify.com/album/5ooWmAVLqcWvDDOid6hCC6) | 5:44 |
 | 40 | [I Just Can't Stop Thinking About You](https://open.spotify.com/track/1rAgECH4JpRZbYQkCQTCzm) | [Everette Harp](https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ) | [Better Days](https://open.spotify.com/album/02jDT0AUMqKosTjyqwHMx5) | 5:20 |
 | 41 | [Creepin'](https://open.spotify.com/track/6B4h6RRIQWRgXALcOjYLPo) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Trust](https://open.spotify.com/album/0tg8rdfKdeKxucD3R6al9Q) | 3:40 |
 | 42 | [So Far From Home](https://open.spotify.com/track/1AjXzYmLg24sfQE0gy4Tmb) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Dave Koz](https://open.spotify.com/album/28dV8nGn5PWCWBvDX1SdIU) | 6:10 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 | 59 | [Affair In San Miguel](https://open.spotify.com/track/5LdbDkRMKDEYKYZxj3TpW9) | [The Rippingtons](https://open.spotify.com/artist/6hjqP9annof75B2TNBE0rO), [Steve Reid](https://open.spotify.com/artist/4jQrVUOMWHpcwAj9CJB1f0), [Brandon Fields](https://open.spotify.com/artist/6m677bkJTyCYHZZa6h8PR5) | [The Best Of The Rippingtons](https://open.spotify.com/album/0nq9ESVd0F7vZTREx8GLHD) | 5:08 |
 | 60 | [Love Will Find A Way](https://open.spotify.com/track/3ylLhJHuvVBbpcW1bcKpB5) | [George Howard](https://open.spotify.com/artist/0MDjU3FoGxwGH0rbkcwF2f) | [Dancing In The Sun](https://open.spotify.com/album/4riUrx6dAarcgrSLXRfKG9) | 5:59 |
 
-Snapshot ID: `MTY2MTc4MzY2MSwwMDAwMDAwMGM4MGIzYTZkZTk3NWZmMGUwMGNhMTMzNzc3OWZjZGE2`
+Snapshot ID: `MTY2MTc4MzY2MSwwMDAwMDAwMDBlOWJhNmMyNmY0YmMzY2UzYTA4OTI0NTY3MjdjOWIy`

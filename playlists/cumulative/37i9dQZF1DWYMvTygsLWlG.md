@@ -4,7 +4,7 @@
 
 > Some of the worlds most beautiful love songs.
 
-332 songs - 22 hr 43 min - [published](https://open.spotify.com/playlist/04ydEG3A6bW8Wea1ObmNiD)
+333 songs - 22 hr 47 min - [published](https://open.spotify.com/playlist/04ydEG3A6bW8Wea1ObmNiD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,7 @@
 | [One Call Away](https://open.spotify.com/track/2uEJanMvnA1dXgX1ASnPQm) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [One Call Away](https://open.spotify.com/album/2xxwxdvN2zjplMH7gsy2QM) | 3:12 | 2021-10-16\* | 2022-06-20 |
 | [One Call Away](https://open.spotify.com/track/7soJgKhQTO8hLP2JPRkL5O) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Nine Track Mind](https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV) | 3:14 | 2022-05-30 |  |
 | [One Life](https://open.spotify.com/track/2lORrsvCKbWd6OZd5GtqwJ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \(Tour Edition\)](https://open.spotify.com/album/4MOKrYo3bMUWjUnSirhNz3) | 3:51 | 2022-05-30 | 2022-07-25 |
-| [One Life](https://open.spotify.com/track/4TvUATvip5xCKi9GcUsgHG) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [One Life](https://open.spotify.com/album/0Q8JYPlSvdnRSJ2XQJLCi8) | 3:25 | 2022-05-30 |  |
+| [One Life](https://open.spotify.com/track/4TvUATvip5xCKi9GcUsgHG) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [One Life](https://open.spotify.com/album/0Q8JYPlSvdnRSJ2XQJLCi8) | 3:25 | 2022-05-30 | 2022-09-02 |
 | [One Moment in Time](https://open.spotify.com/track/3jaUZhLiZOcgoJiGGd3hFD) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney The Greatest Hits](https://open.spotify.com/album/4bXTYQ8nVBYO4k3C3TOVri) | 4:44 | 2021-02-01 | 2022-07-29 |
 | [Ordinary World](https://open.spotify.com/track/0wokCRaKD0zPNhMRXAgVsr) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Duran Duran](https://open.spotify.com/album/0PqCkTvKFJxzr9uujq7a3T) | 5:40 | 2021-10-16\* | 2021-11-19 |
 | [Patience](https://open.spotify.com/track/7D5n2kpYH2WSqIyEO9MeXf) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [G N' R Lies](https://open.spotify.com/album/1RCAG3LrDwYsNU5ZiUJlWi) | 5:54 | 2021-10-16\* | 2021-11-19 |
@@ -240,6 +240,7 @@
 | [Sacrifice](https://open.spotify.com/track/0e3yhVeNaTfKIWQRw9U9sY) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sleeping With The Past \(Remastered with bonus tracks\)](https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r) | 5:04 | 2022-05-30 |  |
 | [Sacrifice](https://open.spotify.com/track/0yhDca7Z4TOiEejtAx6R3g) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sleeping With The Past \(Remastered with bonus tracks\)](https://open.spotify.com/album/2eNwbtNeveYa2jhCc2cz7c) | 5:05 | 2021-02-01 | 2022-07-29 |
 | [Said I Loved You...But I Lied](https://open.spotify.com/track/2nfMrwg3aRhSAv4HX7IzJL) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [The One Thing](https://open.spotify.com/album/76UFgbtfCFi3mGjckycfvX) | 5:04 | 2021-02-01 |  |
+| [Sailing](https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah) | 4:16 | 2022-08-26 |  |
 | [Sailing](https://open.spotify.com/track/5Ii750a5kcwanAaBfrOlZM) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Rhino Hi\-Five: Christopher Cross](https://open.spotify.com/album/1zCZlZkquBeSNOeThSrKpE) | 4:16 | 2021-02-01 | 2022-07-29 |
 | [Save The Best For Last](https://open.spotify.com/track/7okbmgA8lRBGl5limZ7LFM) | [Vanessa Williams](https://open.spotify.com/artist/75L9s8KVrhCNtBUkZFnDFW) | [The Comfort Zone](https://open.spotify.com/album/0ksxzYuZtQz1kYrZEhXDjV) | 3:38 | 2022-05-30 |  |
 | [Save The Best For Last](https://open.spotify.com/track/1x3Nnjq41J3Mf0RXsEFsWZ) | [Vanessa Williams](https://open.spotify.com/artist/75L9s8KVrhCNtBUkZFnDFW) | [True Drivetime \(3 CD Set \)](https://open.spotify.com/album/2oDShWVqhNVQG0cbtinHnt) | 3:45 | 2021-02-01 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC6YLqj8ET8.md) - [plain]
 
 > Electronic Trap House with Arab spices\. Cover: DJ KABOO.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,559 likes - 55 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,558 likes - 55 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,14 +23,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC6YLqj8ET8.md) - [plain]
 | 13 | [Odyssey](https://open.spotify.com/track/3NaqIHRX07ZRWRGCMU7KNm) | [Żwirek](https://open.spotify.com/artist/4PCOizPKIqh6TnlGcx3mDb) | [Odyssey](https://open.spotify.com/album/7s5B41oZCupzZr5XnXge3g) | 4:05 |
 | 14 | [GHADAB](https://open.spotify.com/track/5xY9zklrXn7jmdJYJIXQDU) | [El\-M3allem](https://open.spotify.com/artist/7df2YdmQZRI6KvN3aowOMW) | [GHADAB](https://open.spotify.com/album/3CJnkIETq3FgJVHyfSSQZG) | 2:31 |
 | 15 | [Arab Trap 2 / Habibi](https://open.spotify.com/track/4tDlB4iuEuXaVOcDVh9N9v) | [DJ KABOO](https://open.spotify.com/artist/4XL8KSBe0v3k483R9Tv49Q) | [Arab Trap 2 / Habibi](https://open.spotify.com/album/2lItbZXFxyql2Y2brBCiba) | 2:01 |
-| 16 | [Omri](https://open.spotify.com/track/33XbI355jYdBpCabA0wp6U) | [FEARSTbeats](https://open.spotify.com/artist/4MhTe1Q9Y811m4EjaTbf2w) | [Omri](https://open.spotify.com/album/56vp0qNFa0zIsdW7D2iaUL) | 3:16 |
+| 16 | [Manama](https://open.spotify.com/track/2IiNgBjUpVl06PPgjhTP2x) | [URUS Squad](https://open.spotify.com/artist/2bRnKEAk11EOei6FppGcto) | [Manama](https://open.spotify.com/album/585HAjkmk1LL2ceEdzOCQm) | 2:53 |
 | 17 | [Dam](https://open.spotify.com/track/6rPiKdPNCMmjRoSkHDxu8G) | [Amorf](https://open.spotify.com/artist/235rIOpga6eYnAP03JD444) | [Dam](https://open.spotify.com/album/3u0OvKGvYRQhn0ICKs5iOQ) | 2:14 |
-| 18 | [Manama](https://open.spotify.com/track/2IiNgBjUpVl06PPgjhTP2x) | [URUS Squad](https://open.spotify.com/artist/2bRnKEAk11EOei6FppGcto) | [Manama](https://open.spotify.com/album/585HAjkmk1LL2ceEdzOCQm) | 2:53 |
+| 18 | [Omri](https://open.spotify.com/track/33XbI355jYdBpCabA0wp6U) | [FEARSTbeats](https://open.spotify.com/artist/4MhTe1Q9Y811m4EjaTbf2w) | [Omri](https://open.spotify.com/album/56vp0qNFa0zIsdW7D2iaUL) | 3:16 |
 | 19 | [Kobra \(feat\. Pouvoir Magique\)](https://open.spotify.com/track/6JTUikvtPRHUhcg0K3eXid) | [Fakear](https://open.spotify.com/artist/4eFImh8D3F15dtZk0JQlpT), [Pouvoir Magique](https://open.spotify.com/artist/6jOzYw2JWxujmMIwwiAaEA) | [Kobra \(feat\. Pouvoir Magique\)](https://open.spotify.com/album/3TOeBRsAVOjxnP2bGU5aWx) | 3:18 |
 | 20 | [Marrakech](https://open.spotify.com/track/42bzfcGVgYcpjo2kebQZXh) | [Türküm](https://open.spotify.com/artist/6OmEJA1myxyRYNgU016xHY) | [Marrakech](https://open.spotify.com/album/7xQd6Ieb1fD6prQWJyOGbv) | 2:20 |
 | 21 | [Drop It Again](https://open.spotify.com/track/3PUjFJPKqz1j5MHV0MihsW) | [YZKN](https://open.spotify.com/artist/7mU3kpBBx4OCYdNJhjcKxy) | [Drop It Again](https://open.spotify.com/album/2DTyk0x1qem3lw71ZWVo9Q) | 2:42 |
-| 22 | [Dulce](https://open.spotify.com/track/6pROMUI7CBvoe6zhP85OjV) | [FG](https://open.spotify.com/artist/7dGG5t1lq8eRel7cRvLj0F) | [Dulce](https://open.spotify.com/album/01f58ABTNjb0quUNprou4v) | 3:13 |
-| 23 | [Fury](https://open.spotify.com/track/7M5p4AmILcIdq6oGJuQd4f) | [Naffar](https://open.spotify.com/artist/3QIEbSFF0qzlYo0EDcr7r9) | [Fury](https://open.spotify.com/album/2yi1kgX5WPvyb6S37ujxDW) | 2:50 |
+| 22 | [Fury](https://open.spotify.com/track/7M5p4AmILcIdq6oGJuQd4f) | [Naffar](https://open.spotify.com/artist/3QIEbSFF0qzlYo0EDcr7r9) | [Fury](https://open.spotify.com/album/2yi1kgX5WPvyb6S37ujxDW) | 2:50 |
+| 23 | [Dulce](https://open.spotify.com/track/6pROMUI7CBvoe6zhP85OjV) | [FG](https://open.spotify.com/artist/7dGG5t1lq8eRel7cRvLj0F) | [Dulce](https://open.spotify.com/album/01f58ABTNjb0quUNprou4v) | 3:13 |
 | 24 | [Kyojin](https://open.spotify.com/track/3G6fFwzSObu9BS5XhkJzWA) | [MVGMVR](https://open.spotify.com/artist/4awPepWH6Qom61mJvUCe3u) | [Kyojin](https://open.spotify.com/album/4YQ0JrLRfkX96ssIe2mylq) | 2:30 |
 | 25 | [Maqlooba](https://open.spotify.com/track/2APpdfoLJELmv3sh8T4Ve8) | [VFM Style](https://open.spotify.com/artist/4ulXFvFK1pjsKvk61NQtPF) | [Arabic Trap, Pt\. 2](https://open.spotify.com/album/3ssgRjMtcAE8F2pJhZ8MGk) | 3:20 |
 | 26 | [Raabta](https://open.spotify.com/track/2IEzElQ5KAtXDoJAGixG2R) | [CryJaxx](https://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9) | [Raabta](https://open.spotify.com/album/3V1Oc07lftQBCVzijCE01A) | 3:03 |
@@ -58,10 +58,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC6YLqj8ET8.md) - [plain]
 | 48 | [Mazikah](https://open.spotify.com/track/0fkbXZEqvcaJipXpgsKXBn) | [El\-M3allem](https://open.spotify.com/artist/7df2YdmQZRI6KvN3aowOMW) | [Mazikah](https://open.spotify.com/album/1N4z2tg7JhxoUqjNn7pJIt) | 3:33 |
 | 49 | [Ares](https://open.spotify.com/track/09Ltdtsh3FFIGAppCJj0HD) | [TORU](https://open.spotify.com/artist/7nKMI2etaVYFW6r9cTXKto), [TH3 DARP](https://open.spotify.com/artist/10W6SIbkGGVlY8yYrUxwmw) | [Ares](https://open.spotify.com/album/6ITmhXGA9NdbKI60F9N8Cx) | 3:09 |
 | 50 | [Lights Out](https://open.spotify.com/track/7DKBMH4BQ18GAWYtqpjGhE) | [Naffar](https://open.spotify.com/artist/3QIEbSFF0qzlYo0EDcr7r9) | [Lights Out](https://open.spotify.com/album/0y2PgWYSdanYnwxSmIW64U) | 3:05 |
-| 51 | [Sargon](https://open.spotify.com/track/4BLFw6EbBWHvKe7uTokPe5) | [AxLi](https://open.spotify.com/artist/2C0w7wd8qZseBpEtfYPL56) | [Sargon](https://open.spotify.com/album/1UmnrooK6HERWjfZsPbSDl) | 3:04 |
-| 52 | [Mirage](https://open.spotify.com/track/4oY2lR2vLjNGn3ltjHZQGK) | [Nextro](https://open.spotify.com/artist/6Y63ciwphfXsHoWQOur7gq) | [Exxxtra Pack](https://open.spotify.com/album/4HPPW1pl0kBnnpDHtpoPs8) | 3:07 |
+| 51 | [Mirage](https://open.spotify.com/track/4oY2lR2vLjNGn3ltjHZQGK) | [Nextro](https://open.spotify.com/artist/6Y63ciwphfXsHoWQOur7gq) | [Exxxtra Pack](https://open.spotify.com/album/4HPPW1pl0kBnnpDHtpoPs8) | 3:07 |
+| 52 | [Sargon](https://open.spotify.com/track/4BLFw6EbBWHvKe7uTokPe5) | [AxLi](https://open.spotify.com/artist/2C0w7wd8qZseBpEtfYPL56) | [Sargon](https://open.spotify.com/album/1UmnrooK6HERWjfZsPbSDl) | 3:04 |
 | 53 | [Iridescent](https://open.spotify.com/track/6mPv3AEn0hX8BK1NjQlrIh) | [MVGMVR](https://open.spotify.com/artist/4awPepWH6Qom61mJvUCe3u) | [Iridescent](https://open.spotify.com/album/0lx0Z2R9v6IAeEkn41YXig) | 2:56 |
 | 54 | [Tomb \(feat\. Rasha Kamal\)](https://open.spotify.com/track/1VDWeFIMVzEtosr7g8nlNA) | [Fady Haroun](https://open.spotify.com/artist/1D2jk1MgsTms2iiJgNRXdV), [Adrinaline](https://open.spotify.com/artist/3v3DkyxS6vk3Je2Uk1unJn), [Rasha Kamal](https://open.spotify.com/artist/5iLDAAxXFGVIrUO0l77i8X) | [Tomb \(feat\. Rasha Kamal\)](https://open.spotify.com/album/4aifbVzyNA4yp2ENybRQFX) | 2:57 |
 | 55 | [Outlaws](https://open.spotify.com/track/3BUFuwaRaRDc2GIKNVkwmI) | [Adro](https://open.spotify.com/artist/10a0MPE26mGGv05Exvb1uN), [SVRRIC](https://open.spotify.com/artist/0itkMyNqHAzIlNwOmmET1E) | [Outlaws](https://open.spotify.com/album/3VqqDh5hse1mGK6Vi7HMxV) | 3:00 |
 
-Snapshot ID: `MTY0OTMyMDg5NCwwMDAwMDAwMGZkZjk3MDBkNTExMGRlYjY3ZGMxNDIwODgxNTY5ZTc1`
+Snapshot ID: `MTY0OTMyMDg5NCwwMDAwMDAwMDI4ODkxMWQ1MTEwNjA2MzY5NTQwZThkMTA2Yzg0MjM1`

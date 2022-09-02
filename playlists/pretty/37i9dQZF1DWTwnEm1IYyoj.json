@@ -1,12 +1,12 @@
 {
   "description": "Listen to easy songs from your favorite artists! Cover: Lady Gaga",
-  "num_followers": 6209999,
+  "num_followers": 6211959,
   "original_name": "Soft Pop Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODExNjIzNSwwMDAwMDAwMGRjMmRlNTE0OThhYTgzMGEyY2RhNzA5ZjYyYzE2NGIx",
+  "snapshot_id": "MTY1ODExNjIzNSwwMDAwMDAwMDNlMWIwYTAyMTE1ZWE1MjA5MWY3YzgxMjJkZTVjNTQ5",
   "tracks": [
     {
       "added_at": "2022-06-17 04:01:00",
@@ -223,22 +223,6 @@
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
-        "name": "Easy On Me",
-        "url": "https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 224694,
-      "name": "Easy On Me",
-      "url": "https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX"
-    },
-    {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
         "name": "A Rush of Blood to the Head",
         "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 309600,
       "name": "The Scientist",
       "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
+    },
+    {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
+        "name": "Easy On Me",
+        "url": "https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 224694,
+      "name": "Easy On Me",
+      "url": "https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
-        "name": "Dizzy up the Girl",
-        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
-      },
-      "artists": [
-        {
-          "name": "The Goo Goo Dolls",
-          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
-        }
-      ],
-      "duration_ms": 289533,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
-    },
-    {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
         "name": "My Universe",
         "url": "https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 228000,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
+    },
+    {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
+        "name": "Dizzy up the Girl",
+        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
+      },
+      "artists": [
+        {
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+        }
+      ],
+      "duration_ms": 289533,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -471,6 +471,22 @@
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
+        "name": "Mylo Xyloto",
+        "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 278719,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D"
+    },
+    {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
         "name": "Save Me, San Francisco (Golden Gate Edition)",
         "url": "https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR"
       },
@@ -507,22 +523,6 @@
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
-        "name": "Fingers Crossed",
-        "url": "https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 175344,
-      "name": "Fingers Crossed",
-      "url": "https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ"
-    },
-    {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
         "name": "x (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
       },
@@ -539,18 +539,18 @@
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
-        "name": "Mylo Xyloto",
-        "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
+        "name": "Fingers Crossed",
+        "url": "https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
         }
       ],
-      "duration_ms": 278719,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D"
+      "duration_ms": 175344,
+      "name": "Fingers Crossed",
+      "url": "https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -603,6 +603,22 @@
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
+        "name": "X&Y",
+        "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 295533,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q"
+    },
+    {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
         "name": "ANTI (Deluxe)",
         "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 172723,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
-    },
-    {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
-        "name": "X&Y",
-        "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 295533,
-      "name": "Fix You",
-      "url": "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 244506,
-      "name": "Complicated",
-      "url": "https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F"
-    },
-    {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
         "name": "The Diary Of Alicia Keys",
         "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 228706,
       "name": "If I Ain't Got You",
       "url": "https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ"
+    },
+    {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 244506,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
-        "name": "Country Stuff The Album",
-        "url": "https://open.spotify.com/album/4sShdTo9jO2RGLgDkZBgN8"
-      },
-      "artists": [
-        {
-          "name": "Walker Hayes",
-          "url": "https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf"
-        }
-      ],
-      "duration_ms": 161853,
-      "name": "Fancy Like",
-      "url": "https://open.spotify.com/track/58UKC45GPNTflCN6nwCUeF"
-    },
-    {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
         "name": "GHOST TOWN",
         "url": "https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 193733,
       "name": "GHOST TOWN",
       "url": "https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH"
+    },
+    {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
+        "name": "Country Stuff The Album",
+        "url": "https://open.spotify.com/album/4sShdTo9jO2RGLgDkZBgN8"
+      },
+      "artists": [
+        {
+          "name": "Walker Hayes",
+          "url": "https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf"
+        }
+      ],
+      "duration_ms": 161853,
+      "name": "Fancy Like",
+      "url": "https://open.spotify.com/track/58UKC45GPNTflCN6nwCUeF"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT"
-      },
-      "artists": [
-        {
-          "name": "Rachel Platten",
-          "url": "https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq"
-        }
-      ],
-      "duration_ms": 204013,
-      "name": "Fight Song",
-      "url": "https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr"
-    },
-    {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
         "name": "evermore",
         "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 214706,
       "name": "willow",
       "url": "https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f"
+    },
+    {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT"
+      },
+      "artists": [
+        {
+          "name": "Rachel Platten",
+          "url": "https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq"
+        }
+      ],
+      "duration_ms": 204013,
+      "name": "Fight Song",
+      "url": "https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 185486,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq"
+    },
+    {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
         "name": "Cover Me In Sunshine",
         "url": "https://open.spotify.com/album/7p0HJKqXo2WpApHFp1iDcI"
       },
@@ -1531,18 +1547,18 @@
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV"
+        "name": "All The Little Lights",
+        "url": "https://open.spotify.com/album/52ukyDfkPmF4X6EcSYVfVJ"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
         }
       ],
-      "duration_ms": 185486,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq"
+      "duration_ms": 252733,
+      "name": "Let Her Go",
+      "url": "https://open.spotify.com/track/1KxwZYyzWNyZSRyErj2ojT"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -1567,22 +1583,6 @@
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
-        "name": "All The Little Lights",
-        "url": "https://open.spotify.com/album/52ukyDfkPmF4X6EcSYVfVJ"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 252733,
-      "name": "Let Her Go",
-      "url": "https://open.spotify.com/track/1KxwZYyzWNyZSRyErj2ojT"
-    },
-    {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
         "name": "Flicker (Deluxe)",
         "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
       },
@@ -1595,6 +1595,22 @@
       "duration_ms": 188174,
       "name": "Slow Hands",
       "url": "https://open.spotify.com/track/2cOUlop2ZakjOKe4WinesN"
+    },
+    {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
+        "name": "Eyes Open",
+        "url": "https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3"
+      },
+      "artists": [
+        {
+          "name": "Snow Patrol",
+          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+        }
+      ],
+      "duration_ms": 267960,
+      "name": "Chasing Cars",
+      "url": "https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -1631,22 +1647,6 @@
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
-        "name": "The Lumineers",
-        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 163133,
-      "name": "Ho Hey",
-      "url": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
-    },
-    {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
         "name": "Handwritten",
         "url": "https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ"
       },
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2022-06-17 04:01:00",
       "album": {
-        "name": "Look Up Child",
-        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
+        "name": "The Lumineers",
+        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
       },
       "artists": [
         {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 274693,
-      "name": "You Say",
-      "url": "https://open.spotify.com/track/6Up545NUflOiXo8cEraH49"
+      "duration_ms": 163133,
+      "name": "Ho Hey",
+      "url": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
     }
   ],
   "unique_name": "Soft Pop Hits",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,725 likes - 50 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,215 likes - 50 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 8 | [Rock With Me](https://open.spotify.com/track/2BfFW4C5SIgbp33539WAah) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi) | [Rock With Me](https://open.spotify.com/album/7g7DbWfA0XSpsnFsyrvRlP) | 3:25 |
 | 9 | [We Control](https://open.spotify.com/track/7K3OyIuvYF1qcwr4xqILeu) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [We Control](https://open.spotify.com/album/5VgrFAxkLmF6xAfgY6ByeW) | 3:26 |
 | 10 | [Believe](https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Believe](https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N) | 6:48 |
-| 11 | [Doppler](https://open.spotify.com/track/0TtgKq96j4bpE5UQUDXrwH) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Formula EP](https://open.spotify.com/album/0apCw1VDY8LhLH5YHfKOZ5) | 7:13 |
-| 12 | [Mercury](https://open.spotify.com/track/25dFcH5EsCJLMSmFDDJLT3) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Mercury](https://open.spotify.com/album/5q2bsjSrluBoWf3F61Fofp) | 3:45 |
+| 11 | [Mercury](https://open.spotify.com/track/25dFcH5EsCJLMSmFDDJLT3) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Mercury](https://open.spotify.com/album/5q2bsjSrluBoWf3F61Fofp) | 3:45 |
+| 12 | [Doppler](https://open.spotify.com/track/0TtgKq96j4bpE5UQUDXrwH) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Formula EP](https://open.spotify.com/album/0apCw1VDY8LhLH5YHfKOZ5) | 7:13 |
 | 13 | [Deep Down](https://open.spotify.com/track/4Lt27VZ8plZTjllm4jeb3x) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Deep Down](https://open.spotify.com/album/5N0PPn3ZKVfC4XHEq3i1Xp) | 3:40 |
 | 14 | [Flying Octopus](https://open.spotify.com/track/2XWBbVold8LNroIDyeockI) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Flying Octopus](https://open.spotify.com/album/1QlX9KsPeTDvPdozDwJn1F) | 3:31 |
 | 15 | [The Door](https://open.spotify.com/track/2R5j17Th87vImCG2YEQY6p) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [The Door](https://open.spotify.com/album/66aDv1U1CYdiipT7fS4Z17) | 6:18 |
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 29 | [Hercules](https://open.spotify.com/track/56fFmIpNTFTcQSrfCNxeyu) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Hercules](https://open.spotify.com/album/4ovF2Pg29wZVZDPCSqYIRV) | 6:32 |
 | 30 | [In Silence](https://open.spotify.com/track/2vfSCFvMbpf4hwxt22Wx7b) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [A\-Sides, Vol\. 6](https://open.spotify.com/album/0xBuVXgWQWrqqOdCSWYTkh) | 6:33 |
 | 31 | [Attention](https://open.spotify.com/track/1qvzL0oWnc4msWpcDiAmGG) | [Warp Brothers](https://open.spotify.com/artist/1npPQS3PDH4xmOhYxB2L0T) | [Attention](https://open.spotify.com/album/11gyGSY3EFkKd0g9y4aY8O) | 5:57 |
-| 32 | [Together One Time](https://open.spotify.com/track/5J7b7SmcTkhmO31mF0tEja) | [Kaiserdisco](https://open.spotify.com/artist/2lPXenWgbh51R950CMdk6i) | [Together One Time](https://open.spotify.com/album/3lj2pp5dJlBCLS1rHD2MHM) | 4:48 |
-| 33 | [Sentinel \- Original Mix](https://open.spotify.com/track/4aWmC3OCOyPqm6JzqF2LYf) | [Clap Codex](https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj), [Julien Riess](https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N) | [Sentinel](https://open.spotify.com/album/6NW9OxkPQGEJxMeOXOwWDC) | 6:28 |
-| 34 | [You Can't Stop Us](https://open.spotify.com/track/39stAgopu3xQH0ZpEiNNw3) | [Denise Schneider](https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI) | [You Can't Stop Us](https://open.spotify.com/album/2ysLpJ6RrQzrZQU3ZpO5rM) | 2:22 |
+| 32 | [You Can't Stop Us](https://open.spotify.com/track/39stAgopu3xQH0ZpEiNNw3) | [Denise Schneider](https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI) | [You Can't Stop Us](https://open.spotify.com/album/2ysLpJ6RrQzrZQU3ZpO5rM) | 2:22 |
+| 33 | [Together One Time](https://open.spotify.com/track/5J7b7SmcTkhmO31mF0tEja) | [Kaiserdisco](https://open.spotify.com/artist/2lPXenWgbh51R950CMdk6i) | [Together One Time](https://open.spotify.com/album/3lj2pp5dJlBCLS1rHD2MHM) | 4:48 |
+| 34 | [Sentinel \- Original Mix](https://open.spotify.com/track/4aWmC3OCOyPqm6JzqF2LYf) | [Clap Codex](https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj), [Julien Riess](https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N) | [Sentinel](https://open.spotify.com/album/6NW9OxkPQGEJxMeOXOwWDC) | 6:28 |
 | 35 | [Omen](https://open.spotify.com/track/4kC2zk1YArAcIq7K68EYok) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Beirut](https://open.spotify.com/album/0lStXpuiJROUxFgjRGKZOp) | 5:47 |
 | 36 | [Flash \- Marco Faraone Remix](https://open.spotify.com/track/49xmmvP2Meu4Da3867lA0v) | [Sam Paganini](https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl), [Zøe](https://open.spotify.com/artist/35GfziDKCTh1aPNFDPuSft), [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3) | [Light + Shadow Remixes, Vol\. 1](https://open.spotify.com/album/7aBnqZdnNzK0xvQ53vKpkO) | 6:10 |
 | 37 | [Sex and the Machine](https://open.spotify.com/track/2H4l11D1fsfJ3WfyZ6XGe1) | [Pleasurekraft](https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4) | [Sex and the Machine](https://open.spotify.com/album/6atDj6WJcP84s9nY88mkYe) | 4:00 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 42 | [Hela](https://open.spotify.com/track/74BcMAMioDrbrdbAXYIrbk) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT) | [Hela](https://open.spotify.com/album/0adQoVV6Qbg358KdIy0Yqn) | 5:05 |
 | 43 | [Back for Rave \- Original Mix](https://open.spotify.com/track/3XZOviqLQTQdVrLlCOH8Ji) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA) | [Back for Rave](https://open.spotify.com/album/4UrzT4RqWT6yLzcy66yHGE) | 7:18 |
 | 44 | [Huys](https://open.spotify.com/track/2gHhVQLkEn5HdKrfxMrXQM) | [Anahit Vardanyan](https://open.spotify.com/artist/3B0Z2WunAUciyiCc3DsnAa) | [Huys](https://open.spotify.com/album/2sS1FtLIaTlF841XRlvtZK) | 7:20 |
-| 45 | [Addiction \- Original Mix](https://open.spotify.com/track/5WVYs7RVxu9RyFfOMBFsxI) | [Nusha](https://open.spotify.com/artist/5jsGnMw1mnU4FfhhcXUR6Q), [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN) | [Addiction](https://open.spotify.com/album/3eVU8slwm0M3yv43Xvjk4F) | 6:30 |
-| 46 | [Platia](https://open.spotify.com/track/6wbYCyePXvS1XCsMigiZTI) | [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Platia](https://open.spotify.com/album/392IhxcdGrDfekRvmCREOl) | 3:12 |
+| 45 | [Platia](https://open.spotify.com/track/6wbYCyePXvS1XCsMigiZTI) | [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Platia](https://open.spotify.com/album/392IhxcdGrDfekRvmCREOl) | 3:12 |
+| 46 | [Addiction \- Original Mix](https://open.spotify.com/track/5WVYs7RVxu9RyFfOMBFsxI) | [Nusha](https://open.spotify.com/artist/5jsGnMw1mnU4FfhhcXUR6Q), [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN) | [Addiction](https://open.spotify.com/album/3eVU8slwm0M3yv43Xvjk4F) | 6:30 |
 | 47 | [Sense](https://open.spotify.com/track/76543PV6WgeJ3RAZiY9XIk) | [Drunken Kong](https://open.spotify.com/artist/2c8K7cdY2IU2jBacPOxYqk) | [Sense EP](https://open.spotify.com/album/6Jg01D0r46MbjuerQTRyp5) | 6:55 |
 | 48 | [Hypnos](https://open.spotify.com/track/347YMNFo0pJ43u0joTb8ww) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Hypnos](https://open.spotify.com/album/2cMqYqiJeFv7YfWwc1GF1P) | 4:49 |
-| 49 | [Tribal Space](https://open.spotify.com/track/4VfF4RBRiKKV969cXUX8or) | [Sabura](https://open.spotify.com/artist/7qciaYUulPvR4k8KMc4OTX) | [Tribal Space](https://open.spotify.com/album/4UeZWgfQSO0fsHpCDudHzs) | 5:59 |
+| 49 | [Morphing](https://open.spotify.com/track/6Y2OimS3u5eKd0LLco0Vlq) | [Ramon Tapia](https://open.spotify.com/artist/5BFl4h5TXYSSJsCteTX3s1) | [Morphing](https://open.spotify.com/album/4l2yMnT07CAmWjFRBtYeFQ) | 4:52 |
 | 50 | [Rebirth](https://open.spotify.com/track/1c3OaOeSogCpXTa8BhnBEq) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA) | [Rebirth](https://open.spotify.com/album/59WoCic1VzW9qox5cE3u0p) | 6:40 |
 
-Snapshot ID: `MTY2MTUyNzY0MSwwMDAwMDAwMGQ5NzgxNGIwNjg4ODg4ZGNjMzY2MTVmMWY1MTIwNjlj`
+Snapshot ID: `MTY2MTUyNzY0MSwwMDAwMDAwMGVjY2ZkNDU0MjNmYzQ5NzZiNDZiNmIzMGYzNWVmYmZm`

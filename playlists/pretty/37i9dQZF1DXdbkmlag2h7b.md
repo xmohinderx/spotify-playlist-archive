@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 
 > Drift away with enthralling instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 626,049 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 625,871 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,15 +35,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 25 | [Upwards](https://open.spotify.com/track/044ltj4MTVLeCHXQZX1lFO) | [Aiyden](https://open.spotify.com/artist/59ieTikhHdyJM2qTN7HmYD) | [Upwards](https://open.spotify.com/album/4XWS0IIopEkOgR6O7mO9Xw) | 3:10 |
 | 26 | [Sphere](https://open.spotify.com/track/7E9TD2kl65jwvFGnRn7wgK) | [Osterous](https://open.spotify.com/artist/5hWATAqtCxxnFEVmU268YR) | [Sphere](https://open.spotify.com/album/3FMdumsEZZbW3pEUwL9k5m) | 3:15 |
 | 27 | [Deep Thoughts](https://open.spotify.com/track/3FVd5GGOeJFvU97JFH7jMH) | [Danny Shamoun](https://open.spotify.com/artist/4X9F4TkZ1jKZfWJOTpeb3F) | [Deep Thoughts](https://open.spotify.com/album/3Hrxi0EvyWfNyA3l86ZCBI) | 3:12 |
-| 28 | [Piano Eléctrico](https://open.spotify.com/track/658ysPC6WdtiRSQjiv2AJZ) | [Rancul](https://open.spotify.com/artist/7cVXjdkl7yJQfp2a76guvf) | [Rancul](https://open.spotify.com/album/30dDuezgO9cqoTGi0cMhPn) | 1:45 |
-| 29 | [Myriads](https://open.spotify.com/track/5JUL9mfxiKDuBx4H3ZZJAD) | [12dust](https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J) | [Myriads](https://open.spotify.com/album/4Xkij5Ve4jgQ9qFAIBZoCr) | 2:55 |
+| 28 | [Myriads](https://open.spotify.com/track/5JUL9mfxiKDuBx4H3ZZJAD) | [12dust](https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J) | [Myriads](https://open.spotify.com/album/4Xkij5Ve4jgQ9qFAIBZoCr) | 2:55 |
+| 29 | [Piano Eléctrico](https://open.spotify.com/track/658ysPC6WdtiRSQjiv2AJZ) | [Rancul](https://open.spotify.com/artist/7cVXjdkl7yJQfp2a76guvf) | [Rancul](https://open.spotify.com/album/30dDuezgO9cqoTGi0cMhPn) | 1:45 |
 | 30 | [Hvis du bare vidste](https://open.spotify.com/track/7vGejPhO5QFV6H8U5eMPmL) | [Silas Mathiasen](https://open.spotify.com/artist/0zVBmr5OKI6Lg6t44pipN5) | [Hvis du bare vidste](https://open.spotify.com/album/6EDbhc47346WIRKuBXuZGk) | 2:42 |
 | 31 | [Everything Shall Pass](https://open.spotify.com/track/1MZD1xymIhOOcS6GyPkfz4) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Everything Shall Pass](https://open.spotify.com/album/0wjXJtRyhXb7ZM5TNqgjJ3) | 3:28 |
 | 32 | [Luminescent](https://open.spotify.com/track/5OWhqrWWxTYmbYbIpAmE4u) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Luminescent](https://open.spotify.com/album/64UGm861qokqOZbmpjR6du) | 4:24 |
 | 33 | [Porto Fino](https://open.spotify.com/track/0fdPCpFOZeOUiW5qaBSrbr) | [Mauricio Galbardi](https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA) | [Porto Fino](https://open.spotify.com/album/1pIPERe0MKxBq2ndbvmozM) | 4:07 |
 | 34 | [Neend](https://open.spotify.com/track/2NYZLz3zPsLt5pZlLbN2zQ) | [Asanah](https://open.spotify.com/artist/2DCbSulOeRJeGXct0hQOzR) | [Neend](https://open.spotify.com/album/1JKk0JTE1wSml1uHTYIOBo) | 2:37 |
-| 35 | [Awakening](https://open.spotify.com/track/5MVVGFVHWhjGpg2ZKPxWHh) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Awakening](https://open.spotify.com/album/6G9t6knI1NlkFAYsNzGYLH) | 3:11 |
-| 36 | [Humpback Whales](https://open.spotify.com/track/05UHTEtKF3xSVlEOszpdmO) | [Lou D'Audrey](https://open.spotify.com/artist/1Af7tZT5ll2gtgG4jO1Kxl) | [Sleep & Relaxation Music](https://open.spotify.com/album/4CeV5y1m1WFUZraBTiTr8H) | 2:21 |
+| 35 | [Humpback Whales](https://open.spotify.com/track/05UHTEtKF3xSVlEOszpdmO) | [Lou D'Audrey](https://open.spotify.com/artist/1Af7tZT5ll2gtgG4jO1Kxl) | [Sleep & Relaxation Music](https://open.spotify.com/album/4CeV5y1m1WFUZraBTiTr8H) | 2:21 |
+| 36 | [Awakening](https://open.spotify.com/track/5MVVGFVHWhjGpg2ZKPxWHh) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Awakening](https://open.spotify.com/album/6G9t6knI1NlkFAYsNzGYLH) | 3:11 |
 | 37 | [Jubran's Lake \(432hz\) \- No Ambience](https://open.spotify.com/track/0GANgueuFu0T6NJ0sOmuyL) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Jubran's Lake \(432hz\)](https://open.spotify.com/album/0czlyUWgNcb8QbJo98xxeb) | 4:00 |
 | 38 | [Strings of Light](https://open.spotify.com/track/7pLqzJr6EA7gFm6hAeYxD9) | [Surrounding Life](https://open.spotify.com/artist/7x0g29FUOlzLsQrKB0NioF) | [Rivers of Relief](https://open.spotify.com/album/08i8VU7ZL1rBE9dNhf6ldr) | 4:55 |
 | 39 | [Svalbard](https://open.spotify.com/track/4JfiZjxURRSroTqETjK2za) | [Julyan Brynn](https://open.spotify.com/artist/4M5Z3s7BTxyZuifI4YWp6v) | [Floating Hearts](https://open.spotify.com/album/5EoiOmTiADBanOUgtYbWSg) | 3:19 |
@@ -53,15 +53,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 43 | [The Shed](https://open.spotify.com/track/6zVrlSfa7L9bRuYcgq8Di4) | [Alex Miracone](https://open.spotify.com/artist/4AbloHgnodXgCbW2JHB3Jh) | [The Shed](https://open.spotify.com/album/6sVPnW1rebLMRMSFBfmhp4) | 2:30 |
 | 44 | [Surface](https://open.spotify.com/track/0ll896dtsA8odiG60bm3bK) | [Lerone Gios](https://open.spotify.com/artist/6AOSLIwArJ09daRcBXYE52) | [Surface](https://open.spotify.com/album/15TlhBkBFqzJzIUBxv0CH6) | 2:06 |
 | 45 | [Behind Your Eyes](https://open.spotify.com/track/20zqqXhSfIHp8mMrjmzDUX) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Behind Your Eyes](https://open.spotify.com/album/3LDJc1oFquIFUg7Q8v2aWh) | 3:17 |
-| 46 | [Prism](https://open.spotify.com/track/6YLrARPrFzyhPSNDBzVWc2) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw), [Amor Omnia](https://open.spotify.com/artist/3xZqDWMopPwRTofjFUWBqu) | [Prism](https://open.spotify.com/album/2NnXGaOmsxE2nFjUxK2WbL) | 2:52 |
-| 47 | [Oriental Journey](https://open.spotify.com/track/5qMWKiZ8NELjkXmCiMf0BX) | [Northern Lights](https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny) | [Meditations for Woods & Winds](https://open.spotify.com/album/6z79twbAshQfUTVxUW8oJH) | 3:25 |
-| 48 | [Into Gratitude \- Stripped](https://open.spotify.com/track/06UZsdACozYbOiPjvxfVRU) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Into Gratitude](https://open.spotify.com/album/6PKLRW3Gg22sTzpPcm6rDS) | 3:07 |
-| 49 | [Takamatsu](https://open.spotify.com/track/2aYiFoNV3dRUckwX6KJdLS) | [Fahda Mohamed](https://open.spotify.com/artist/4VfWZbve2pnVwUYQ11EdU4) | [Arrivals](https://open.spotify.com/album/2916XN3NlK1G7JQhsxIhRz) | 3:08 |
+| 46 | [Into Gratitude \- Stripped](https://open.spotify.com/track/06UZsdACozYbOiPjvxfVRU) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Into Gratitude](https://open.spotify.com/album/6PKLRW3Gg22sTzpPcm6rDS) | 3:07 |
+| 47 | [Prism](https://open.spotify.com/track/6YLrARPrFzyhPSNDBzVWc2) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw), [Amor Omnia](https://open.spotify.com/artist/3xZqDWMopPwRTofjFUWBqu) | [Prism](https://open.spotify.com/album/2NnXGaOmsxE2nFjUxK2WbL) | 2:52 |
+| 48 | [Takamatsu](https://open.spotify.com/track/2aYiFoNV3dRUckwX6KJdLS) | [Fahda Mohamed](https://open.spotify.com/artist/4VfWZbve2pnVwUYQ11EdU4) | [Arrivals](https://open.spotify.com/album/2916XN3NlK1G7JQhsxIhRz) | 3:08 |
+| 49 | [Oriental Journey](https://open.spotify.com/track/5qMWKiZ8NELjkXmCiMf0BX) | [Northern Lights](https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny) | [Meditations for Woods & Winds](https://open.spotify.com/album/6z79twbAshQfUTVxUW8oJH) | 3:25 |
 | 50 | [Forests](https://open.spotify.com/track/07c4gDvK93SjexpBDtHL3o) | [Sebastian Winskog](https://open.spotify.com/artist/7u3qMD0XE43b26dN6FgmZb) | [Meadow / Forests](https://open.spotify.com/album/7HvFAw0jmKpcn78c5LyDur) | 2:20 |
 | 51 | [Distant Voices](https://open.spotify.com/track/3eR65X6SJv94InSu0RCqMf) | [Billie Mercedez](https://open.spotify.com/artist/6bERRNVRJkiIq1kChAyaQG) | [Distant Voices](https://open.spotify.com/album/7awFxbltxhtOq6iakKUof5) | 2:56 |
 | 52 | [Meditations](https://open.spotify.com/track/1MHEMARc3VukbGGn4pc1oE) | [Drift Far Away](https://open.spotify.com/artist/05QqQCiZ0kiF1jRCm6YRT2) | [Open Sky](https://open.spotify.com/album/6OFXea6xNBtFBbCNXFVaQD) | 4:27 |
-| 53 | [Black Hole](https://open.spotify.com/track/7nKDcvT0DdqI2FQNUrxico) | [Astro.Not](https://open.spotify.com/artist/2iEiuAf6GeqHMGADH76YPS) | [Black Hole](https://open.spotify.com/album/6hBR6PiXKh6HpMhBb7UcDW) | 2:45 |
-| 54 | [We Are Forever](https://open.spotify.com/track/1cywl9rjzChQpwqbYi26Pp) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [Limbo](https://open.spotify.com/album/58LZpp4XabjGyR8Dc7NVtI) | 2:14 |
+| 53 | [We Are Forever](https://open.spotify.com/track/1cywl9rjzChQpwqbYi26Pp) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [Limbo](https://open.spotify.com/album/58LZpp4XabjGyR8Dc7NVtI) | 2:14 |
+| 54 | [Black Hole](https://open.spotify.com/track/7nKDcvT0DdqI2FQNUrxico) | [Astro.Not](https://open.spotify.com/artist/2iEiuAf6GeqHMGADH76YPS) | [Black Hole](https://open.spotify.com/album/6hBR6PiXKh6HpMhBb7UcDW) | 2:45 |
 | 55 | [Affinity](https://open.spotify.com/track/0N0nIMZDHHv9vCbo1XfN5a) | [FANAR](https://open.spotify.com/artist/2cmv3GP75BReBnDT1kWyOE) | [Affinity](https://open.spotify.com/album/6uD6JL6Uw4zWYUc0aRUUvt) | 2:52 |
 | 56 | [Sonata Pathétique](https://open.spotify.com/track/2NCG0u2NT7KceLxCjseW3A) | [Marcel Depuis](https://open.spotify.com/artist/6rWVhqYY4PMyTdfA48grAa) | [Dramatique Musique Classique](https://open.spotify.com/album/77tCQQ2AjoNlye3AgO7jV4) | 2:50 |
 | 57 | [Raising Life](https://open.spotify.com/track/3G0zjnMRZjcjdrlK1dADUz) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA), [Max Schrammel](https://open.spotify.com/artist/02urVxAvr1s1zcKdVaGjpg) | [Elementaries](https://open.spotify.com/album/2g6zhcNijAdGtozLJlYpAI) | 3:02 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 76 | [Lagrima](https://open.spotify.com/track/2HjCLXHg41WhaJjJeTtXtm) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Ambientes](https://open.spotify.com/album/4VE8K1ccgbiGo0f8eeIxC0) | 2:00 |
 | 77 | [Backwaters](https://open.spotify.com/track/6RlmoIqcWkSrIEjCW4Co13) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Inch Of You](https://open.spotify.com/album/7mlwuYnEP7FegVtSM5A4MQ) | 2:27 |
 | 78 | [Sunny & Cloudy](https://open.spotify.com/track/26lZ3W0igUyTsLdXVFPcf0) | [Hans Wolfgang Ziegler](https://open.spotify.com/artist/66wCtsoRnWiSmoHSvXPK5m) | [The Seasons](https://open.spotify.com/album/5N9ne8TG9Zi6tTn861vTgF) | 2:17 |
-| 79 | [Open Eyes](https://open.spotify.com/track/7qOSXapFeF6dMXYZn6r7Jm) | [Fredrik Johansson](https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m) | [Open Eyes](https://open.spotify.com/album/7p8eObCrVEaGjXAuf8zZW8) | 3:32 |
-| 80 | [Porte Ma Croix](https://open.spotify.com/track/7LwsgrwaA4eOAEGMGJGmFw) | [Joux](https://open.spotify.com/artist/0TLw363ALNpf7U4FpayQKc) | [Le Petite Prince](https://open.spotify.com/album/7cuyQpOs4rnFmfKi8bZeUz) | 2:58 |
+| 79 | [Porte Ma Croix](https://open.spotify.com/track/7LwsgrwaA4eOAEGMGJGmFw) | [Joux](https://open.spotify.com/artist/0TLw363ALNpf7U4FpayQKc) | [Le Petite Prince](https://open.spotify.com/album/7cuyQpOs4rnFmfKi8bZeUz) | 2:58 |
+| 80 | [Open Eyes](https://open.spotify.com/track/7qOSXapFeF6dMXYZn6r7Jm) | [Fredrik Johansson](https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m) | [Open Eyes](https://open.spotify.com/album/7p8eObCrVEaGjXAuf8zZW8) | 3:32 |
 | 81 | [Pavane, Op\. 50](https://open.spotify.com/track/2cvTKsArRvSBWid2gRrJxo) | [Marcel Depuis](https://open.spotify.com/artist/6rWVhqYY4PMyTdfA48grAa) | [Dramatique Musique Classique](https://open.spotify.com/album/77tCQQ2AjoNlye3AgO7jV4) | 3:28 |
 | 82 | [Darashinai Beach](https://open.spotify.com/track/6k9EQcMdqJRtmIM3fwy9vW) | [Kenichiban](https://open.spotify.com/artist/1itUqhqM3DvzOekyR0MFva) | [Darashinai Beach](https://open.spotify.com/album/68t75psR1Te5qVxWdhvDoc) | 3:39 |
 | 83 | [Purity 432hz](https://open.spotify.com/track/60kuRpoUHGfYmVswKdvcO0) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Purity 432hz](https://open.spotify.com/album/5OSOyRZDMMgLu8vjaS2gyh) | 4:02 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 94 | [Heaven like](https://open.spotify.com/track/7DgGJTm2pA8tLjEp2TIh2B) | [Tiz Lillux](https://open.spotify.com/artist/4JdnWiTAFBgOomzrS67VFm) | [Heaven like](https://open.spotify.com/album/2C339OpzphzqUHIuJ26ZFr) | 4:03 |
 | 95 | [The Art of Subtlety](https://open.spotify.com/track/42VUDVOwj9wUafDjvGJcGt) | [Laura Antelme](https://open.spotify.com/artist/1VyQIhBhaTFWcJMl44KcSJ) | [The Art of Subtlety](https://open.spotify.com/album/41mrMfaXTOrPMyaL66iv0U) | 1:42 |
 | 96 | [Spaces in Serenity](https://open.spotify.com/track/6ivdFVK29qRdsKezUln44y) | [SARAB](https://open.spotify.com/artist/6PM7BEoNAzJtH7BRBgagYI) | [Spaces in Serenity](https://open.spotify.com/album/6qo7I02DZokmxM0X5X7eRm) | 4:11 |
-| 97 | [Masandra Turnings](https://open.spotify.com/track/24QVOrVKmWaFGcWKX9zoyI) | [Tribal Tranquility](https://open.spotify.com/artist/3kqCmBNUxv4gydsfojdTgS) | [Masandra Turnings](https://open.spotify.com/album/4qgEEqId4Jt9s8keIpKv26) | 2:46 |
+| 97 | [Sentiments in Emptiness](https://open.spotify.com/track/1rSrcxldbRRpwt6vu5kbEU) | [Firas Zreik](https://open.spotify.com/artist/2tMwxSA9DSeHrI84cdg2RW) | [Sentiments in Emptiness](https://open.spotify.com/album/0Wfx9bfeel0tvMe6BLyJMt) | 3:41 |
 | 98 | [Divine Light \- Studio Edit](https://open.spotify.com/track/76b4OvaMSGspOtxlQ7v7Eh) | [NAYAT](https://open.spotify.com/artist/3JjhxaFpKE0rfGl5ik6gNC) | [Lucent Path](https://open.spotify.com/album/3vhS8GgA3Fu9VPS7alGF9d) | 4:00 |
-| 99 | [Sentiments in Emptiness](https://open.spotify.com/track/1rSrcxldbRRpwt6vu5kbEU) | [Firas Zreik](https://open.spotify.com/artist/2tMwxSA9DSeHrI84cdg2RW) | [Sentiments in Emptiness](https://open.spotify.com/album/0Wfx9bfeel0tvMe6BLyJMt) | 3:41 |
+| 99 | [Masandra Turnings](https://open.spotify.com/track/24QVOrVKmWaFGcWKX9zoyI) | [Tribal Tranquility](https://open.spotify.com/artist/3kqCmBNUxv4gydsfojdTgS) | [Masandra Turnings](https://open.spotify.com/album/4qgEEqId4Jt9s8keIpKv26) | 2:46 |
 | 100 | [Conifer](https://open.spotify.com/track/6gVrAqhSIPSh9iVRa6lgPH) | [Permaculti](https://open.spotify.com/artist/0uHSkfvCjMNDIW6DKaixo4) | [Conifer](https://open.spotify.com/album/2DFrfDDsktqqW94ZgPFEtS) | 3:22 |
 
-Snapshot ID: `MTY2MDU4Nzg4OCwwMDAwMDAwMDgzMWVlOTA4NDVhYTAzY2UzNGU5ODJmYThlMzk5MWI2`
+Snapshot ID: `MTY2MDU4Nzg4OCwwMDAwMDAwMGI2MzhiMWNjNDcxNGVhMjk5ZTIwMDk0YjQ3MjI5YjRl`

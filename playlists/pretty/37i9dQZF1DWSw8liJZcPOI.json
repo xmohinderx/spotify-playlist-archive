@@ -1,12 +1,12 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 386467,
+  "num_followers": 386229,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMGI3NWNlMzI2ZjhlMzBkNzkyMjEyYWM1NGRkYWFkOGNj",
+  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMDZhYTY0MGQwMTdjMzg4ZGM5NGRkNGMxZDkzMGFkZDk1",
   "tracks": [
     {
       "added_at": "2022-08-05 04:02:00",
@@ -135,22 +135,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "For Mark",
-        "url": "https://open.spotify.com/album/6zhsUXC9QsXZnpAH2uxR3c"
-      },
-      "artists": [
-        {
-          "name": "Joep Beving",
-          "url": "https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y"
-        }
-      ],
-      "duration_ms": 309600,
-      "name": "For Mark",
-      "url": "https://open.spotify.com/track/0lmuyNAxG9YA3LfXftGzPS"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Woven Song \u2014 piano reworks",
         "url": "https://open.spotify.com/album/27yZ8bTAOMlvnfU4vaIxvK"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 227674,
       "name": "Woven Song \u2014 piano reworks",
       "url": "https://open.spotify.com/track/1wb6pRSvhekFyXO5j3fXol"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "For Mark",
+        "url": "https://open.spotify.com/album/6zhsUXC9QsXZnpAH2uxR3c"
+      },
+      "artists": [
+        {
+          "name": "Joep Beving",
+          "url": "https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y"
+        }
+      ],
+      "duration_ms": 309600,
+      "name": "For Mark",
+      "url": "https://open.spotify.com/track/0lmuyNAxG9YA3LfXftGzPS"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Beginnings",
-        "url": "https://open.spotify.com/album/6KOwv2I3BWLqaiEvjdtKOp"
-      },
-      "artists": [
-        {
-          "name": "James Heather",
-          "url": "https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu"
-        }
-      ],
-      "duration_ms": 238046,
-      "name": "Beginnings",
-      "url": "https://open.spotify.com/track/6v4WvtbAbm88SeS4etJMTH"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Muku",
         "url": "https://open.spotify.com/album/1uFnrq7fSZ0ezLUe7ve9Cv"
       },
@@ -411,6 +395,22 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
+        "name": "Beginnings",
+        "url": "https://open.spotify.com/album/6KOwv2I3BWLqaiEvjdtKOp"
+      },
+      "artists": [
+        {
+          "name": "James Heather",
+          "url": "https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu"
+        }
+      ],
+      "duration_ms": 238046,
+      "name": "Beginnings",
+      "url": "https://open.spotify.com/track/6v4WvtbAbm88SeS4etJMTH"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
         "name": "Elva",
         "url": "https://open.spotify.com/album/7hdlF6vtbKZROuiJE99zKs"
       },
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Chasing the Present (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3WOn9LRzQqSsykbPB9AChV"
-      },
-      "artists": [
-        {
-          "name": "Snorri Hallgr\u00edmsson",
-          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
-        }
-      ],
-      "duration_ms": 182836,
-      "name": "Chasing the Present",
-      "url": "https://open.spotify.com/track/5HzT7FpMsxO23zG5oIkzUz"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Stars Light Up The Water",
         "url": "https://open.spotify.com/album/3rsPuZNT9JJUVwCfjBY8eJ"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 136625,
       "name": "Stars Light Up The Water",
       "url": "https://open.spotify.com/track/3Jff69kvbsXnRwHnJTOL2A"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Chasing the Present (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3WOn9LRzQqSsykbPB9AChV"
+      },
+      "artists": [
+        {
+          "name": "Snorri Hallgr\u00edmsson",
+          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
+        }
+      ],
+      "duration_ms": 182836,
+      "name": "Chasing the Present",
+      "url": "https://open.spotify.com/track/5HzT7FpMsxO23zG5oIkzUz"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Surface (Music from the Original TV Series)",
-        "url": "https://open.spotify.com/album/0DZZLQvXZzgurc5wWFgAst"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 148432,
-      "name": "Surfaced - From \"Surface\"",
-      "url": "https://open.spotify.com/track/6yidnXvq5fN4ULkgk8FOIU"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Humming Bird Rework",
         "url": "https://open.spotify.com/album/3KmLGgnFa1fUfudmtrAG3m"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 201774,
       "name": "Humming Bird Rework",
       "url": "https://open.spotify.com/track/0xTeFwl9WhyJ9grMLB1X8B"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Surface (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/0DZZLQvXZzgurc5wWFgAst"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 148432,
+      "name": "Surfaced - From \"Surface\"",
+      "url": "https://open.spotify.com/track/6yidnXvq5fN4ULkgk8FOIU"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Everything Has Its Echo",
-        "url": "https://open.spotify.com/album/1nn06r5BqRTpe1cKpmofzC"
-      },
-      "artists": [
-        {
-          "name": "Eik Octobre",
-          "url": "https://open.spotify.com/artist/5TOIlVyy8otZ53kt3WxdrK"
-        }
-      ],
-      "duration_ms": 289829,
-      "name": "Heart Failure",
-      "url": "https://open.spotify.com/track/7biIzSlBe8dWzEwHG7dS5k"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Human",
         "url": "https://open.spotify.com/album/45VK2yNRU1GPKcfaeN2aLP"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 232040,
       "name": "In Cold Light",
       "url": "https://open.spotify.com/track/140jZx69WlaEovptyTYevr"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Everything Has Its Echo",
+        "url": "https://open.spotify.com/album/1nn06r5BqRTpe1cKpmofzC"
+      },
+      "artists": [
+        {
+          "name": "Eik Octobre",
+          "url": "https://open.spotify.com/artist/5TOIlVyy8otZ53kt3WxdrK"
+        }
+      ],
+      "duration_ms": 289829,
+      "name": "Heart Failure",
+      "url": "https://open.spotify.com/track/7biIzSlBe8dWzEwHG7dS5k"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "The Time It Takes",
-        "url": "https://open.spotify.com/album/0cRO3Wyym9OcjtHezZD9Fc"
-      },
-      "artists": [
-        {
-          "name": "Goldmund",
-          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
-        }
-      ],
-      "duration_ms": 181106,
-      "name": "Respite",
-      "url": "https://open.spotify.com/track/2Z3aDyQnxozf2mVjahDigG"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "A Lifetime Rolls By (annasara Rework)",
         "url": "https://open.spotify.com/album/06d6otha9XjgY2QWtB05Xo"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 176120,
       "name": "A Lifetime Rolls By - annasara Rework",
       "url": "https://open.spotify.com/track/0r3ROaj4TrysELcI4LHODu"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "The Time It Takes",
+        "url": "https://open.spotify.com/album/0cRO3Wyym9OcjtHezZD9Fc"
+      },
+      "artists": [
+        {
+          "name": "Goldmund",
+          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
+        }
+      ],
+      "duration_ms": 181106,
+      "name": "Respite",
+      "url": "https://open.spotify.com/track/2Z3aDyQnxozf2mVjahDigG"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Parliament Of Owls",
-        "url": "https://open.spotify.com/album/3cs2v3m4bPWdYB3C76tw2A"
-      },
-      "artists": [
-        {
-          "name": "Agnes Obel",
-          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
-        }
-      ],
-      "duration_ms": 149751,
-      "name": "Parliament Of Owls",
-      "url": "https://open.spotify.com/track/0mNCNmylxTWB9GrFw4RVf6"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "acceptances",
         "url": "https://open.spotify.com/album/6LRafypd0VdYQ6uuFIxzxJ"
       },
@@ -1087,22 +1071,6 @@
       "duration_ms": 198901,
       "name": "acceptances",
       "url": "https://open.spotify.com/track/49LE9nTYsPzk0ImQ26mZjD"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "The Swimmer",
-        "url": "https://open.spotify.com/album/4pTmusoi7JcIyJFTFdTPek"
-      },
-      "artists": [
-        {
-          "name": "Phil France",
-          "url": "https://open.spotify.com/artist/3xlkiDlNGdmuNg01x7SVJd"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "The Swimmer",
-      "url": "https://open.spotify.com/track/1xaWQ8IKeg0cJxqhs7RIF4"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1127,6 +1095,22 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
+        "name": "Parliament Of Owls",
+        "url": "https://open.spotify.com/album/3cs2v3m4bPWdYB3C76tw2A"
+      },
+      "artists": [
+        {
+          "name": "Agnes Obel",
+          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
+        }
+      ],
+      "duration_ms": 149751,
+      "name": "Parliament Of Owls",
+      "url": "https://open.spotify.com/track/0mNCNmylxTWB9GrFw4RVf6"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
         "name": "Cloud Memory",
         "url": "https://open.spotify.com/album/1uu3zbo7cvj4NM2U15fCOU"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 117585,
       "name": "Cloud Memory",
       "url": "https://open.spotify.com/track/2dUIvQRy9wfxNVcm0JLwNm"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "The Swimmer",
+        "url": "https://open.spotify.com/album/4pTmusoi7JcIyJFTFdTPek"
+      },
+      "artists": [
+        {
+          "name": "Phil France",
+          "url": "https://open.spotify.com/artist/3xlkiDlNGdmuNg01x7SVJd"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "The Swimmer",
+      "url": "https://open.spotify.com/track/1xaWQ8IKeg0cJxqhs7RIF4"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Current",
-        "url": "https://open.spotify.com/album/4pPrnPAjNULq5aca8tJA0U"
-      },
-      "artists": [
-        {
-          "name": "Phoria",
-          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
-        }
-      ],
-      "duration_ms": 350974,
-      "name": "Current",
-      "url": "https://open.spotify.com/track/05J7mr2kIdHciLOO5ISSia"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "A Winged Victory for the Sullen",
         "url": "https://open.spotify.com/album/6vygseD1InhHomosteUnPU"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 266840,
       "name": "Steep Hills of Vicodin Tears",
       "url": "https://open.spotify.com/track/3ytUgxZj1EYHb8zlk5VKk6"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Current",
+        "url": "https://open.spotify.com/album/4pPrnPAjNULq5aca8tJA0U"
+      },
+      "artists": [
+        {
+          "name": "Phoria",
+          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
+        }
+      ],
+      "duration_ms": 350974,
+      "name": "Current",
+      "url": "https://open.spotify.com/track/05J7mr2kIdHciLOO5ISSia"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Black Dog",
-        "url": "https://open.spotify.com/album/61soUfxZ8U8PpWVjmRr3Oz"
-      },
-      "artists": [
-        {
-          "name": "Autonomy",
-          "url": "https://open.spotify.com/artist/3te2CxCHnKfBm3SmApvB98"
-        }
-      ],
-      "duration_ms": 127995,
-      "name": "Black Dog",
-      "url": "https://open.spotify.com/track/4YBjc5fCZrFzpYYfzKI2Vv"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Haar over Hamnavoe (Bill Ryder-Jones Rework)",
         "url": "https://open.spotify.com/album/20ek3LDlmNsbU44XmMP6cb"
       },
@@ -1315,18 +1299,18 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "A",
-        "url": "https://open.spotify.com/album/3tldFx9jhEDwx4DKmCOflf"
+        "name": "Black Dog",
+        "url": "https://open.spotify.com/album/61soUfxZ8U8PpWVjmRr3Oz"
       },
       "artists": [
         {
-          "name": "Thomas Farnon",
-          "url": "https://open.spotify.com/artist/21toYB9udeC6Zdi9fJL0wu"
+          "name": "Autonomy",
+          "url": "https://open.spotify.com/artist/3te2CxCHnKfBm3SmApvB98"
         }
       ],
-      "duration_ms": 232000,
-      "name": "A",
-      "url": "https://open.spotify.com/track/4nvOHnalPzX4fai6KPH4dR"
+      "duration_ms": 127995,
+      "name": "Black Dog",
+      "url": "https://open.spotify.com/track/4YBjc5fCZrFzpYYfzKI2Vv"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1351,6 +1335,22 @@
       "duration_ms": 123251,
       "name": "Delicately",
       "url": "https://open.spotify.com/track/4hL2tCFmEkRBfaVsZ8G7lC"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "A",
+        "url": "https://open.spotify.com/album/3tldFx9jhEDwx4DKmCOflf"
+      },
+      "artists": [
+        {
+          "name": "Thomas Farnon",
+          "url": "https://open.spotify.com/artist/21toYB9udeC6Zdi9fJL0wu"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "A",
+      "url": "https://open.spotify.com/track/4nvOHnalPzX4fai6KPH4dR"
     },
     {
       "added_at": "2022-08-05 04:02:00",

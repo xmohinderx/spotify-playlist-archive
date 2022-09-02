@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4xHQp97fN6.md) - [plain]
 
 > Mode: Turnt
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,283,921 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,284,838 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4xHQp97fN6.md) - [plain]
 | 33 | [All Dz Chainz \(feat\. Lil Baby\)](https://open.spotify.com/track/6f8nS2g21RNEL7gNG4WJVT) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [All Dz Chainz \(feat\. Lil Baby\)](https://open.spotify.com/album/6lXYbUYhqxR56YlzPe8NxW) | 2:18 |
 | 34 | [Buss Down \(Yo Gotti, Big Boogie\)](https://open.spotify.com/track/6wn8c6uZArkBAG4N8Tqf1x) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Gangsta Art](https://open.spotify.com/album/0mX7631qrFwwcnuRzuPpWU) | 2:45 |
 | 35 | [Who Me \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/5odEKBDCHBNrNm0skWsSUv) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 1:58 |
-| 36 | [Keep Dissing 2 \(with Lil Durk\)](https://open.spotify.com/track/68ccsqXPhYGGTQ1RVDDtOh) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Keep Dissing 2 \(with Lil Durk\)](https://open.spotify.com/album/5Xt2jd95PhUWTLXoy2pyJN) | 2:54 |
+| 36 | [Keep Dissing 2 \(with Lil Durk\)](https://open.spotify.com/track/68ccsqXPhYGGTQ1RVDDtOh) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Keep Dissing 2 \(with Lil Durk\)](https://open.spotify.com/album/5Xt2jd95PhUWTLXoy2pyJN) | 2:53 |
 | 37 | [Distraction](https://open.spotify.com/track/1oc92BMKYkNxK17C2GtyRM) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Distraction](https://open.spotify.com/album/30OwIxHqQILQ9vwd86sD3o) | 2:51 |
 | 38 | [Hall of Fame](https://open.spotify.com/track/0ehikRZdaCWkqg5gd8ilMJ) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Hall of Fame](https://open.spotify.com/album/539xX0m6Y317DJwlQWlSsR) | 3:58 |
 | 39 | [Can't Stop Won't Stop \(feat\. Kodak Black\)](https://open.spotify.com/track/4L1zI1GJxi0Qq38aSYmsS0) | [King Combs](https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Can't Stop Won't Stop \(feat\. Kodak Black\)](https://open.spotify.com/album/0CzPQGFqw7pO6SnPkf3RkJ) | 2:38 |

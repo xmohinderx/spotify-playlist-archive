@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNrnYO4HTko.md) - [plain]
 
 > Fresh takes \- from new revisions and iconic covers to unexpected versions and the <a href="https://artists.spotify.com/songwriter/2M9tzAw4sMHnOJ58l5uo82">songwriter's</a> own covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69 likes - 92 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 70 likes - 92 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNrnYO4HTko.md) - [plain]
 | 88 | [Respect \(feat\. Wayne Henderson\)](https://open.spotify.com/track/5WefFRKDoyJJ8zVCfvtIhU) | [The Freedom Sounds Featuring Wayne Henderson](https://open.spotify.com/artist/0B8tMvNxl04bM3bhgYAl4b) | [People Get Ready](https://open.spotify.com/album/4sZJQZA40YWfofsHINS1Gs) | 2:56 |
 | 89 | [Respect](https://open.spotify.com/track/5lOUxU6giZYMVkLZDGyih0) | [Rotary Connection](https://open.spotify.com/artist/3dGTi4MZZo4zXdQaKAS1va) | [Songs](https://open.spotify.com/album/1CVOf9xngqh7U7FvOs0OSr) | 3:05 |
 | 90 | [Respect](https://open.spotify.com/track/60pb3dBec5kUtpNKmTn7wX) | [Melanie Amaro](https://open.spotify.com/artist/5jWTiWBU6BfIEtcYwYA3nv) | [Respect](https://open.spotify.com/album/0IPlesdaTA40TLJN5pzKFX) | 2:43 |
-| 91 | [Sweet Soul Music](https://open.spotify.com/track/0pvA063uNyGQFp7DNtmk0P) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Rhino Hi\-Five: Arthur Conley](https://open.spotify.com/album/6dYQhuDC49jXh7YvTtb0oT) | 2:21 |
+| 91 | [Sweet Soul Music](https://open.spotify.com/track/2YuIyYri67bgUXKQW5V9XW) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Sweet Soul Music](https://open.spotify.com/album/2fZ5TzqZjIWEAP5T9ktlBC) | 2:21 |
 | 92 | [Where You Lead Me](https://open.spotify.com/track/7CQfHbaz8di8UFbayDCRCl) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Sweet Soul Music](https://open.spotify.com/album/6K1TG5C0rzi1tfNEmUI4CY) | 2:29 |
 
-Snapshot ID: `MTYzMzA2MDgwMCwwMDAwMDAwMDQ3ZDQ5OWY4MjExMjU1MDY3NDYxOWFjODQwZmE4Yzhj`
+Snapshot ID: `MTYzMzA2MDgwMCwwMDAwMDAwMDRkNmUzZGU5YWEwYWIzMjU3MGQ0YTA1OTQ2NGRlZTFl`

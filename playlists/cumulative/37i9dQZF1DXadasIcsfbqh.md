@@ -2,9 +2,9 @@
 
 ### [PopCo](https://open.spotify.com/playlist/37i9dQZF1DXadasIcsfbqh)
 
-> Pop country hits of today and tomorrow\. Cover: Tyler Hubbard
+> Pop country hits of today and tomorrow\. Cover: BRELAND
 
-179 songs - 9 hr 23 min - [published](https://open.spotify.com/playlist/1eoy2aa7pjLg69wzMB5JYu)
+180 songs - 9 hr 25 min - [published](https://open.spotify.com/playlist/1eoy2aa7pjLg69wzMB5JYu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Drive](https://open.spotify.com/track/4aRAElCM6ve3OISZnU7adb) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [Drive](https://open.spotify.com/album/3G0NpRAD2eF80q7FWkiQ6Y) | 3:35 | 2021-12-17 | 2022-07-29 |
 | [Drive](https://open.spotify.com/track/6bBsaqsxVchRk0jCM5BAoe) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [INTERTWINED](https://open.spotify.com/album/23nMKl9EaTuOsQYX5ljJgs) | 3:35 | 2022-07-22 |  |
 | [Drunk & I Miss You](https://open.spotify.com/track/7DoUCGBFzVTVfl4Nhl5BZE) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Bettie James](https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h) | 2:47 | 2021-12-17 | 2022-06-22 |
-| [Elephant in the Room \(feat\. Teddy Swims\)](https://open.spotify.com/track/66c9N3zuJe0mpC1JrJc1u1) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Elephant in the Room \(feat\. Teddy Swims\)](https://open.spotify.com/album/26WmAEmGUvMtHOd1emDVgG) | 2:43 | 2022-04-29 |  |
+| [Elephant in the Room \(feat\. Teddy Swims\)](https://open.spotify.com/track/66c9N3zuJe0mpC1JrJc1u1) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Elephant in the Room \(feat\. Teddy Swims\)](https://open.spotify.com/album/26WmAEmGUvMtHOd1emDVgG) | 2:43 | 2022-04-29 | 2022-09-02 |
 | [Fancy Like \(feat\. Kesha\)](https://open.spotify.com/track/2GgqnsIe9oNOfXN4YCI2eo) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Fancy Like \(feat\. Kesha\)](https://open.spotify.com/album/2Z6lVnDJpJPmFro7dOziHA) | 2:41 | 2021-12-17 |  |
 | [First Light](https://open.spotify.com/track/6zuVzhogxotQnXIxr2wLE5) | [BROWN & GRAY](https://open.spotify.com/artist/5uVK02OMlf0TvVe7iNHaGN) | [First Light](https://open.spotify.com/album/0voFHUrIEBk7lmD24SY9kp) | 3:00 | 2021-12-17 | 2022-08-06 |
 | [Found It In You](https://open.spotify.com/track/35zkYE4siFuNCJgcbI1nlt) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Found It In You](https://open.spotify.com/album/2VFCN1WQ0qPZydQY2E2YnI) | 3:03 | 2022-06-17 |  |
@@ -118,6 +118,7 @@
 | [Me Myself and Why](https://open.spotify.com/track/2s4arq5gE02rBGtGrn2PKj) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Me Myself and Why](https://open.spotify.com/album/4YloWyesV0HgASNvaNuoqR) | 3:33 | 2022-03-04 |  |
 | [Memory](https://open.spotify.com/track/34chhNX59Wo9HMFCsI3K8Y) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Memory](https://open.spotify.com/album/0jpQZkMeWh9yysxyTSCywk) | 2:33 | 2021-12-17 |  |
 | [Most Nights](https://open.spotify.com/track/5gs9CYfoPQUKJ9TPBRgBWI) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [Most Nights](https://open.spotify.com/album/40FJ8tW2YSU4gXEj9WOLgN) | 3:18 | 2021-12-17 | 2022-07-19 |
+| [Natural](https://open.spotify.com/track/0jeh5vhX3VZBiQ4VJq8lLz) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Told You I Could Drink \(feat\. Lady A\)](https://open.spotify.com/album/1TKT3I8FZypWW2EgJUjFnc) | 2:41 | 2022-09-01 |  |
 | [Need To Not](https://open.spotify.com/track/4Ls9R1CiOmiBe8A3U2WFNR) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Need To Not](https://open.spotify.com/album/7EpUZf3Ke5aEpn4CJct3O8) | 3:02 | 2021-12-17 | 2022-07-29 |
 | [Nervous](https://open.spotify.com/track/3AMUgKRaujIuutpMw4K7Zn) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Nervous](https://open.spotify.com/album/460txPWcdGTABVidLLDuiW) | 2:55 | 2022-03-11 |  |
 | [Nightfalls](https://open.spotify.com/track/40dk5rE3CFqxJG8sII98Hq) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Nightfalls](https://open.spotify.com/album/0x8GE8IGZ5ow4R30vBNuMC) | 3:40 | 2022-04-01 |  |

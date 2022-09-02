@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 
 ### [Breakout Country](https://open.spotify.com/playlist/37i9dQZF1DWW7RgkOJG32Y)
 
-> Top trending new and recent tracks from the last few months\. Cover: Muscadine Bloodline
+> Top trending new and recent tracks from the last few months\. Cover: Lauren Alaina & Chris Lane
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,043 likes - 103 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,289 likes - 103 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Me On You](https://open.spotify.com/track/16IHzMTYzM3VKDJK0syV22) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [Me On You](https://open.spotify.com/album/5bfDm08pB2zZmL50whoiBm) | 2:47 |
+| 1 | [Dancin' In The Moonlight \(feat\. Lauren Alaina\)](https://open.spotify.com/track/0pnKcAh5binHOP9HexWwnZ) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Dancin' In The Moonlight \(feat\. Lauren Alaina\)](https://open.spotify.com/album/0UsGyt84mXODfb3IteNHdr) | 3:19 |
 | 2 | [Oklahoma Smokeshow](https://open.spotify.com/track/0OWhKvvsHptt6vnnNUSM9a) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 3:31 |
 | 3 | [Damn You](https://open.spotify.com/track/2ChfZlDoaI34ZoAVzzTQQE) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Damn You](https://open.spotify.com/album/6C5pn8Iv7yow2MZFhycH0s) | 3:03 |
 | 4 | [Thought You Should Know](https://open.spotify.com/track/6NHpyYvJyQsg2nXXzGYc2R) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Thought You Should Know](https://open.spotify.com/album/4kbT7O8zsXUw8CZvhBR46i) | 3:35 |
@@ -25,13 +25,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 | 15 | [Every Night Every Morning](https://open.spotify.com/track/4qbibbQ1yK0rPl0JUJS0bz) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Every Night Every Morning](https://open.spotify.com/album/5T5eTFklQfQHczrSfV7qej) | 3:16 |
 | 16 | [Buy A Girl A Drink](https://open.spotify.com/track/3WXWxyUcD9HQBQcNaFN6xd) | [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ) | [Buy A Girl A Drink](https://open.spotify.com/album/36tVeUCmIWva4RKFBN0OG8) | 3:16 |
 | 17 | [Crazy Angels](https://open.spotify.com/track/0ZOTahGHXAJjKZXtW8aDT6) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Crazy Angels](https://open.spotify.com/album/1LWYFA4ZIyQxM4nX5Cx9EU) | 2:36 |
-| 18 | [Out In The Middle](https://open.spotify.com/track/1pbUfl4W9KtQ5hNkT6RiXp) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Out in the Middle](https://open.spotify.com/album/3MVvgTvhFQrHXE6coxwl6I) | 2:46 |
-| 19 | [35’s](https://open.spotify.com/track/4B0nJLbPzVxWt7o99SiGrO) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [35's](https://open.spotify.com/album/0aQPvZHQLSNQhDhYvfnw0a) | 2:54 |
-| 20 | [The Kind of Love We Make](https://open.spotify.com/track/28n8z9IQKyjMPxmvYMBqZa) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Kind of Love We Make](https://open.spotify.com/album/77B78XJKo4LcsrRg34GNTu) | 3:44 |
-| 21 | [Break My Heart Again](https://open.spotify.com/track/0iVbEBizaS8X9RW1MLzKB8) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Break My Heart Again](https://open.spotify.com/album/28xGeXg7CLzjoTsp1y1u7Q) | 3:21 |
-| 22 | [Everybody Needs a Song](https://open.spotify.com/track/75vHaYeWPXNSEytZzxIFXw) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Everybody Needs a Song](https://open.spotify.com/album/4CHsfVCrAwEr2FXe9RLweB) | 3:03 |
-| 23 | [Wild as Her](https://open.spotify.com/track/4RG7P0CXQ4pe0OeCAHjX5L) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Wild as Her](https://open.spotify.com/album/4mGSNYd2LF27N8MaFwxNFg) | 3:19 |
-| 24 | [Dancin' In The Moonlight \(feat\. Lauren Alaina\)](https://open.spotify.com/track/0pnKcAh5binHOP9HexWwnZ) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Dancin' In The Moonlight \(feat\. Lauren Alaina\)](https://open.spotify.com/album/0UsGyt84mXODfb3IteNHdr) | 3:19 |
+| 18 | [Me On You](https://open.spotify.com/track/16IHzMTYzM3VKDJK0syV22) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [Me On You](https://open.spotify.com/album/5bfDm08pB2zZmL50whoiBm) | 2:47 |
+| 19 | [Out In The Middle](https://open.spotify.com/track/1pbUfl4W9KtQ5hNkT6RiXp) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Out in the Middle](https://open.spotify.com/album/3MVvgTvhFQrHXE6coxwl6I) | 2:46 |
+| 20 | [35’s](https://open.spotify.com/track/4B0nJLbPzVxWt7o99SiGrO) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [35's](https://open.spotify.com/album/0aQPvZHQLSNQhDhYvfnw0a) | 2:54 |
+| 21 | [The Kind of Love We Make](https://open.spotify.com/track/28n8z9IQKyjMPxmvYMBqZa) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Kind of Love We Make](https://open.spotify.com/album/77B78XJKo4LcsrRg34GNTu) | 3:44 |
+| 22 | [Break My Heart Again](https://open.spotify.com/track/0iVbEBizaS8X9RW1MLzKB8) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Break My Heart Again](https://open.spotify.com/album/28xGeXg7CLzjoTsp1y1u7Q) | 3:21 |
+| 23 | [Everybody Needs a Song](https://open.spotify.com/track/75vHaYeWPXNSEytZzxIFXw) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Everybody Needs a Song](https://open.spotify.com/album/4CHsfVCrAwEr2FXe9RLweB) | 3:03 |
+| 24 | [Wild as Her](https://open.spotify.com/track/4RG7P0CXQ4pe0OeCAHjX5L) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Wild as Her](https://open.spotify.com/album/4mGSNYd2LF27N8MaFwxNFg) | 3:19 |
 | 25 | [We Had It Good](https://open.spotify.com/track/7HQIudswhHicyidL1V4iiO) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Born for This](https://open.spotify.com/album/2N1fClE6geEUJvpSeReyp7) | 3:32 |
 | 26 | [Love You a Little Bit](https://open.spotify.com/track/0JlPeDabMkPpmC9W7TI3BM) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Love You a Little Bit](https://open.spotify.com/album/3SPnI205DIMN5yosDIT0v1) | 3:30 |
 | 27 | [Whiskey On You](https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Whiskey On You](https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm) | 3:03 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 | 102 | [High](https://open.spotify.com/track/6rRGtOgUxgARW5QXK2k9EY) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [High](https://open.spotify.com/album/2xbSaikAqmnjC9YuYjYPxM) | 3:50 |
 | 103 | [Raised Up Right](https://open.spotify.com/track/54iaqlFYaCYyJqCsRsbYUB) | [Drew Parker](https://open.spotify.com/artist/04roC3Teouu613zLDKvHpQ) | [Raised Up Right](https://open.spotify.com/album/0IXqwYhd5t5zt9d7zKfMp5) | 2:58 |
 
-Snapshot ID: `MTY2MDg4NjIzNSwwMDAwMDAwMDI4Zjk1ZmQyM2U0NjFhNzhkNDU1MzhjNzJkMDRkNDMz`
+Snapshot ID: `MTY2MjAwNDgwMCwwMDAwMDAwMDUwNzVlZmM1ZTIwNDEyMGJkNDE2NjQwYjcwZjEzNzAy`

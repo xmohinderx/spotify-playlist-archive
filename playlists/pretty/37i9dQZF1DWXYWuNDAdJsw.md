@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYWuNDAdJsw.md) - [plain]
 
 > el nombre lo dice todo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 791,204 likes - 96 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 791,400 likes - 96 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYWuNDAdJsw.md) - [plain]
 | 16 | [EL BARCO](https://open.spotify.com/track/0MT6qJd7wKlWjH7tP7oWHi) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:23 |
 | 17 | [Llamado de Emergencia](https://open.spotify.com/track/2jnZUvhw2LTvDI6YidRVcO) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Talento de Barrio](https://open.spotify.com/album/7JeWY0pvC27pCgn5eiSeV6) | 3:59 |
 | 18 | [Vaina Loca](https://open.spotify.com/track/48zFZh27QU5qsrBjn4C2FA) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 2:56 |
-| 19 | [Te Amo](https://open.spotify.com/track/2RVrdr062uLFxXwIxwdXPH) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Te Amo](https://open.spotify.com/album/0sF2dhoiBLVMvuv6qRIpYI) | 3:21 |
-| 20 | [Otro Trago](https://open.spotify.com/track/1Ej96GIBCTvgH7tNX1r3qr) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Sueños](https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX) | 3:45 |
+| 19 | [Otro Trago](https://open.spotify.com/track/1Ej96GIBCTvgH7tNX1r3qr) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Sueños](https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX) | 3:45 |
+| 20 | [Te Amo](https://open.spotify.com/track/2RVrdr062uLFxXwIxwdXPH) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Te Amo](https://open.spotify.com/album/0sF2dhoiBLVMvuv6qRIpYI) | 3:21 |
 | 21 | [Bella y Sensual](https://open.spotify.com/track/0ERbK7qVqveCaBWIiYCrl3) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Golden](https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS) | 3:24 |
 | 22 | [Inolvidable](https://open.spotify.com/track/0OTtnwUO8natNWSwdZvXVF) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Inolvidable](https://open.spotify.com/album/3MdsEVhC9AMtDTXB8n2yXI) | 3:45 |
 | 23 | [Cuaderno](https://open.spotify.com/track/7anSoGdgtmJTAPZBzcPhO6) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Climaxxx](https://open.spotify.com/album/6stPNzjz40FWTiwlOR98Lp) | 4:46 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYWuNDAdJsw.md) - [plain]
 | 40 | [Te Necesito](https://open.spotify.com/track/74UFJflGMdA46TltO7XPSB) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Te Necesito](https://open.spotify.com/album/6qacH4ed0StQX243TgQITF) | 3:17 |
 | 41 | [Te Busco](https://open.spotify.com/track/2hi1aFllOFRNH8gIHxQvD9) | [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Te Busco](https://open.spotify.com/album/5mTPkLSMfQdLrb4DOXDQDh) | 3:53 |
 | 42 | [Tal Vez](https://open.spotify.com/track/46lvmzK8wxAy66tjzXXSh0) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Tal Vez](https://open.spotify.com/album/039RvHRSbMCfQLsYcg70BQ) | 4:24 |
-| 43 | [Mi Debilidad](https://open.spotify.com/track/70LLyzO7jT6DsQvCwwHDch) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Mi Debilidad](https://open.spotify.com/album/5hYYAmDCghG1kmcHT5rScz) | 2:45 |
-| 44 | [Fingías](https://open.spotify.com/track/7o0oY5wRcoV7oPuDhD2J1z) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Fingías](https://open.spotify.com/album/1V2sg9XB2TP29Ys4ER3fLn) | 3:45 |
+| 43 | [Fingías](https://open.spotify.com/track/7o0oY5wRcoV7oPuDhD2J1z) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Fingías](https://open.spotify.com/album/1V2sg9XB2TP29Ys4ER3fLn) | 3:45 |
+| 44 | [Mi Debilidad](https://open.spotify.com/track/70LLyzO7jT6DsQvCwwHDch) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Mi Debilidad](https://open.spotify.com/album/5hYYAmDCghG1kmcHT5rScz) | 2:45 |
 | 45 | [Devuelveme](https://open.spotify.com/track/5uvucCRBTkxv7VxIDLOqe7) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 3:08 |
 | 46 | [PORFA](https://open.spotify.com/track/3iQOfefMGDVDwo8dZoco8T) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [PORFA](https://open.spotify.com/album/0FtoBBioPqwfaFNRhvv0dc) | 3:53 |
 | 47 | [Cuando Me Acerco A Ti](https://open.spotify.com/track/1Q4DK5GLldkubj5GtCzbs7) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 3:13 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYWuNDAdJsw.md) - [plain]
 | 95 | [No Quiere Enamorarse \- Remix](https://open.spotify.com/track/0XC9N5n8osww4bfsPuNMpS) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [No Quiere Enamorase \(Remix\)](https://open.spotify.com/album/2DkcvSeo7QRxupA0YQneEF) | 3:59 |
 | 96 | [Cama Vacia](https://open.spotify.com/track/6sR4WtcYJOCXzDsDfY9PwV) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Cama Vacia](https://open.spotify.com/album/4osk0FcABNJueflzwWyC1O) | 3:21 |
 
-Snapshot ID: `MTY1OTcxNjg3NiwwMDAwMDAwMDBlMjE2OTE4MjZhNzBkMWJjNDEzNzY1YmEwM2NmYzRh`
+Snapshot ID: `MTY1OTcxNjg3NiwwMDAwMDAwMDZkODU1NGM0YjkxZTdjNzM1M2JjNzQxYjM5ZjgyZTE4`

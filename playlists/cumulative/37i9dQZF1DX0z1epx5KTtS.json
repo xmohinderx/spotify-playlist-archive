@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "African dance party music from Paris to Abidjan. Photo : Bello Falcao",
+  "description": "African dance party music from Paris to Abidjan. Photo : Serge Beynaud",
   "name": "Coup\u00e9 D\u00e9cal\u00e9",
   "published_playlist_ids": [
     "05NUJhg2S8ET7TkDhLag5G"
@@ -99,6 +99,24 @@
       "duration_ms": 206666,
       "name": "C'est dos\u00e9",
       "url": "https://open.spotify.com/track/0UWLz61FiuLAEcpLebbvZB"
+    },
+    {
+      "album": {
+        "name": "C'est Tromper",
+        "url": "https://open.spotify.com/album/6DblPMX2zJRcsrOPwm2y8g"
+      },
+      "artists": [
+        {
+          "name": "Nifa Fanafoule",
+          "url": "https://open.spotify.com/artist/7FRoAqspfkJYYYYJ8DTD5O"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196666,
+      "name": "C'est Tromper",
+      "url": "https://open.spotify.com/track/3GEOxNvcfId9KbNmVfeEZW"
     },
     {
       "album": {
@@ -338,6 +356,28 @@
     },
     {
       "album": {
+        "name": "Dora Dance",
+        "url": "https://open.spotify.com/album/74wMcfUmeLcddiJZcvV2xy"
+      },
+      "artists": [
+        {
+          "name": "Renard Barakissa",
+          "url": "https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj"
+        },
+        {
+          "name": "Kadirov Mania",
+          "url": "https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180532,
+      "name": "Dora Dance",
+      "url": "https://open.spotify.com/track/7JnUwdaJ0FZWfJOCwDglWg"
+    },
+    {
+      "album": {
         "name": "Rhythms of Zamunda (Music Inspired by the Amazon Original Movie: Coming 2 America)",
         "url": "https://open.spotify.com/album/3OelY3WvwTxAQGBGgdxEPn"
       },
@@ -419,7 +459,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 164365,
       "name": "Elephant d'or",
       "url": "https://open.spotify.com/track/6IV4Lb4470lOo8pFrknNmN"
@@ -807,7 +847,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 273736,
       "name": "Le carburant",
       "url": "https://open.spotify.com/track/5OHsWkJ1JadGSYcbdrlSdJ"
@@ -850,6 +890,42 @@
     },
     {
       "album": {
+        "name": "Le Secret",
+        "url": "https://open.spotify.com/album/1h9Xp386wUIbffEgODh4ic"
+      },
+      "artists": [
+        {
+          "name": "Bebi Philip",
+          "url": "https://open.spotify.com/artist/4DPAkF8h2JInYO0wOLQhRt"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200571,
+      "name": "Le Secret",
+      "url": "https://open.spotify.com/track/09V5sBv2hhBXSRjXSAB3sb"
+    },
+    {
+      "album": {
+        "name": "Ma Place",
+        "url": "https://open.spotify.com/album/3cevtx8WGwucUcmrP9toVk"
+      },
+      "artists": [
+        {
+          "name": "Anderson 1er",
+          "url": "https://open.spotify.com/artist/2MF2HhouHc4XEbRl7N6Jpp"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235034,
+      "name": "Ma Place",
+      "url": "https://open.spotify.com/track/3UMKpuoJeemcDHxZepnIH7"
+    },
+    {
+      "album": {
         "name": "Mami Wata",
         "url": "https://open.spotify.com/album/7GaRPIyFR0pD6kZNlgbbh6"
       },
@@ -883,7 +959,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 183120,
       "name": "Mapouka",
       "url": "https://open.spotify.com/track/6WT4eFi2jTFNuN8UkVGFLO"
@@ -1363,7 +1439,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 219753,
       "name": "Watterman",
       "url": "https://open.spotify.com/track/2WwolPx58TEp6qKRnwiuaM"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 
 > A mix of electric roots rock and folk\-infused alternative\. Cover: Nathaniel Rateliff & the Night Sweats
 
-[Spotify](https://open.spotify.com/user/spotify) - 479,261 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,188 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 21 | [Not Dead Yet](https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Not Dead Yet](https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w) | 2:57 |
 | 22 | [Fever Pitch](https://open.spotify.com/track/5vyt44455ipNNVSYq8fYY7) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [How to: Friend, Love, Freefall](https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3) | 2:43 |
 | 23 | [It Ain’t Easy](https://open.spotify.com/track/2Gq6IrusLyXNxtLojM62l7) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V) | [What Is There](https://open.spotify.com/album/6uzcCtt4iRnlTG8HGRqXHz) | 3:20 |
-| 24 | [Stronger Than That](https://open.spotify.com/track/5kgyNmIytvTGGuiv0MwzZp) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Bahamas Is Afie](https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK) | 2:37 |
+| 24 | [Stolen Love](https://open.spotify.com/track/6ZW6Q3Fzt9fGzC4nbhA5pf) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Motel Mayday](https://open.spotify.com/album/4dJgUM5aZ8GhXQp0QPkOS0) | 3:43 |
 | 25 | [Guiding Light](https://open.spotify.com/track/4VeCmOb1rAEZQfH7Rlms9C) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/4cKEpUZp7REMrSjd4ICCZz) | 3:37 |
-| 26 | [Stolen Love](https://open.spotify.com/track/6ZW6Q3Fzt9fGzC4nbhA5pf) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Motel Mayday](https://open.spotify.com/album/4dJgUM5aZ8GhXQp0QPkOS0) | 3:43 |
+| 26 | [Stronger Than That](https://open.spotify.com/track/5kgyNmIytvTGGuiv0MwzZp) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Bahamas Is Afie](https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK) | 2:37 |
 | 27 | [Head Right](https://open.spotify.com/track/2G01I6SbQqSPmAOz895M0a) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Wilderado](https://open.spotify.com/album/27PS3oqiVzOqqAT04Ku6at) | 3:17 |
 | 28 | [Now is the Time](https://open.spotify.com/track/4laTGZ3oNAWgla7mevECwt) | [Norma Tanega](https://open.spotify.com/artist/4nlQA3jNE8cukTo6CdyCWP) | [Now Is The Time](https://open.spotify.com/album/20XCI94ozv942iZYSxjSxJ) | 3:56 |
 | 29 | [Into The Mystery](https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Into The Mystery](https://open.spotify.com/album/3VJ6mi9zBjEeDOTW167lMF) | 3:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 99 | [Evergreen](https://open.spotify.com/track/0rDOZAwa5hpOIFvej2yBIU) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Evergreen](https://open.spotify.com/album/00MHXpbaXylI2b4eQ5b5SB) | 4:40 |
 | 100 | [Oh Dear Brother](https://open.spotify.com/track/27TIWKzBDkahxcjKUmthdw) | [Howard](https://open.spotify.com/artist/7kfaJkEGQmDhceMYvn9Ax5) | [Oh Dear Brother](https://open.spotify.com/album/3Pue2ojjST8Vq2m8y2EppZ) | 3:58 |
 
-Snapshot ID: `MTY0NjM3MDAwMCwwMDAwMDAwMDc0MTc1ZGZjNDM0OGMzMDk0ZDM5NmM2MTUyZGM2NDJh`
+Snapshot ID: `MTY0NjM3MDAwMCwwMDAwMDAwMDM2YzNhMTE1YjBjODM4N2UyNmUyNTI1ZmNhMTk5ZTM2`

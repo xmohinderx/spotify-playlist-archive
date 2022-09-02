@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > This is the new Core at its finest\. Cover: Bleed From Within
 
-[Spotify](https://open.spotify.com/user/spotify) - 862,308 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 862,310 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,20 +26,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 16 | [Stitches](https://open.spotify.com/track/4KWq6RMruDDwjzYBBpUi7c) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Stitches](https://open.spotify.com/album/45SbfV6M4ELzAOU163XpPb) | 5:01 |
 | 17 | [Heretic](https://open.spotify.com/track/6O6U83grucuxSktER0IbrM) | [Novelists FR](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS), [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Heretic](https://open.spotify.com/album/0lQqsnfP4Hwy8KoIg1H07y) | 3:22 |
 | 18 | [Throne](https://open.spotify.com/track/1IIHG2cRp9PBYSGLSKAdgD) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Throne](https://open.spotify.com/album/66snwEHAdTrN5gw7z3mpoA) | 3:27 |
-| 19 | [Losing Control](https://open.spotify.com/track/2PjFzTXf8StVOYm25uWvW4) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE) | [Losing Control](https://open.spotify.com/album/6ANgmUwBRAm45qW9yrhRQP) | 3:28 |
-| 20 | [Mass Produced](https://open.spotify.com/track/2gq5XvSm3XrbKmyV4m3wSX) | [Oceano](https://open.spotify.com/artist/79A0IUxQD9skV7LVjPq53s) | [Mass Produced](https://open.spotify.com/album/48PMipn3cRGT6Ck9KCbV8w) | 3:01 |
+| 19 | [Mass Produced](https://open.spotify.com/track/2gq5XvSm3XrbKmyV4m3wSX) | [Oceano](https://open.spotify.com/artist/79A0IUxQD9skV7LVjPq53s) | [Mass Produced](https://open.spotify.com/album/48PMipn3cRGT6Ck9KCbV8w) | 3:01 |
+| 20 | [Losing Control](https://open.spotify.com/track/2PjFzTXf8StVOYm25uWvW4) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE) | [Losing Control](https://open.spotify.com/album/6ANgmUwBRAm45qW9yrhRQP) | 3:28 |
 | 21 | [Fever](https://open.spotify.com/track/2FpylwTwA3dDi9eHbqHPIN) | [Citizen Soldier](https://open.spotify.com/artist/7fM0h2CG7zKqKc0jEa1b4R) | [Fever](https://open.spotify.com/album/0aT6W0YSIzX0mnIOsQSeJc) | 3:08 |
 | 22 | [Ketamine](https://open.spotify.com/track/37vKzukXbXcJiA3TMmGptj) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Ketamine](https://open.spotify.com/album/7IJVzIr5F8Vq0Qe50PGwke) | 2:52 |
-| 23 | [Alive or Only Burning](https://open.spotify.com/track/3OFbZftPhoSCFbxyNBzPF3) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Lifestyles of the Sick & Dangerous](https://open.spotify.com/album/2kcAri2GgDTQD7k8k727Mb) | 3:09 |
-| 24 | [Earth Shaker](https://open.spotify.com/track/3EytQKQcbsuZrXTrpFcL4P) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Earth Shaker](https://open.spotify.com/album/1pNsCcIhnP2wBeLmBWgB72) | 3:23 |
-| 25 | [Hangfire](https://open.spotify.com/track/3cYqU2pWI7VvoTX1PeKX94) | [Wind Walkers](https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0) | [Hangfire](https://open.spotify.com/album/2C7Caj4q2ImxfS717oEZYC) | 3:15 |
-| 26 | [Shade Astray](https://open.spotify.com/track/4nsRC5m6nhWEGytiaDgewc) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt) | [Shade Astray](https://open.spotify.com/album/13V5598DE5BTivaX1zecEF) | 4:37 |
-| 27 | [Anomaly](https://open.spotify.com/track/4y2WxyFPLHaLoHkxymgNar) | [Aviana](https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy) | [Anomaly](https://open.spotify.com/album/3x0fD3AKsVdr63OInlGAXv) | 3:43 |
-| 28 | [From Today](https://open.spotify.com/track/7qLbPd5yhm0Vne45PXPabV) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Nonnegative](https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V) | 3:53 |
-| 29 | [A Form of Protest](https://open.spotify.com/track/1LDQFdGTEXOnycDC8CJ5p1) | [Cane Hill](https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ) | [A Form of Protest](https://open.spotify.com/album/7sPoZ4Nxv34iSFIwmbUCrA) | 3:09 |
-| 30 | [White Washed \- 2022](https://open.spotify.com/track/6Aco1hY5ciwgaWPFm7sTd1) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [White Washed & Composure 2022](https://open.spotify.com/album/6zaOIfy2Fy8ez7UnAv1ZJ8) | 3:57 |
+| 23 | [Hangfire](https://open.spotify.com/track/3cYqU2pWI7VvoTX1PeKX94) | [Wind Walkers](https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0) | [Hangfire](https://open.spotify.com/album/2C7Caj4q2ImxfS717oEZYC) | 3:15 |
+| 24 | [Alive or Only Burning](https://open.spotify.com/track/3OFbZftPhoSCFbxyNBzPF3) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Lifestyles of the Sick & Dangerous](https://open.spotify.com/album/2kcAri2GgDTQD7k8k727Mb) | 3:09 |
+| 25 | [Earth Shaker](https://open.spotify.com/track/3EytQKQcbsuZrXTrpFcL4P) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Earth Shaker](https://open.spotify.com/album/1pNsCcIhnP2wBeLmBWgB72) | 3:23 |
+| 26 | [Anomaly](https://open.spotify.com/track/4y2WxyFPLHaLoHkxymgNar) | [Aviana](https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy) | [Anomaly](https://open.spotify.com/album/3x0fD3AKsVdr63OInlGAXv) | 3:43 |
+| 27 | [Shade Astray](https://open.spotify.com/track/4nsRC5m6nhWEGytiaDgewc) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt) | [Shade Astray](https://open.spotify.com/album/13V5598DE5BTivaX1zecEF) | 4:37 |
+| 28 | [A Form of Protest](https://open.spotify.com/track/1LDQFdGTEXOnycDC8CJ5p1) | [Cane Hill](https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ) | [A Form of Protest](https://open.spotify.com/album/7sPoZ4Nxv34iSFIwmbUCrA) | 3:09 |
+| 29 | [From Today](https://open.spotify.com/track/7qLbPd5yhm0Vne45PXPabV) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Nonnegative](https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V) | 3:53 |
+| 30 | [Cross My Heart](https://open.spotify.com/track/2icamhwuMDLOPIGcTq3qxg) | [Eyes Wide Open](https://open.spotify.com/artist/1AYs2fxCu0pV8iKaguz4po) | [Cross My Heart](https://open.spotify.com/album/5ByL1dXjgnjKAEF6H63e5p) | 3:18 |
 | 31 | [Venenosa](https://open.spotify.com/track/39Vg7SGvdJTeEq3rtKKwk2) | [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN) | [Venenosa](https://open.spotify.com/album/6obCslVAsNkI4LfaYTH2G7) | 3:10 |
-| 32 | [Cross My Heart](https://open.spotify.com/track/2icamhwuMDLOPIGcTq3qxg) | [Eyes Wide Open](https://open.spotify.com/artist/1AYs2fxCu0pV8iKaguz4po) | [Cross My Heart](https://open.spotify.com/album/5ByL1dXjgnjKAEF6H63e5p) | 3:18 |
+| 32 | [White Washed \- 2022](https://open.spotify.com/track/6Aco1hY5ciwgaWPFm7sTd1) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [White Washed & Composure 2022](https://open.spotify.com/album/6zaOIfy2Fy8ez7UnAv1ZJ8) | 3:57 |
 | 33 | [Code of Honor](https://open.spotify.com/track/1ejDrrIUJvvZnXWkiXdABO) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [Fury](https://open.spotify.com/album/5SuH3r7QBzpe1WMgE3cabl) | 3:06 |
 | 34 | [Dead Inside](https://open.spotify.com/track/4hZIolup6cgYhrzzGq46aq) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21) | [Run](https://open.spotify.com/album/3PsbQWb1jzu1TieGQwvjd7) | 3:24 |
 | 35 | [Hotel Underground](https://open.spotify.com/track/0CoxiZuaRFycPJ0Xl1oSOJ) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Hotel Underground](https://open.spotify.com/album/3GdgTYJ6MCD7nsQ8uZZly5) | 2:46 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 42 | [Lost](https://open.spotify.com/track/6WMFC3iy36DscTJEG0huzK) | [Secrets](https://open.spotify.com/artist/1TRVqozKc5Qk1cjwRdWBSl) | [The Collapse](https://open.spotify.com/album/4np2KGjQ8ARvYgHz5o0pAr) | 3:30 |
 | 43 | [Alone](https://open.spotify.com/track/16DXW7yFac4ooTafH0osLY) | [Awake the Dreamer](https://open.spotify.com/artist/4cJLd39creVGWHUNKEXm5I) | [Alone](https://open.spotify.com/album/2wtaBMxUZXDi7VEPvBLd69) | 3:17 |
 | 44 | [What Is War](https://open.spotify.com/track/3qPDkJVT3nTadE0DowU2w5) | [Chaosbay](https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk), [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [What Is War](https://open.spotify.com/album/2Fig0Wysa46RMtW7JyNAc9) | 3:59 |
-| 45 | [Forsaken](https://open.spotify.com/track/29RLIEdsr7lXMkct9omK00) | [Until I Wake](https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5) | [Forsaken](https://open.spotify.com/album/1AdoiciuD5DrLLBHHBQrq2) | 3:03 |
-| 46 | [Aching Longing](https://open.spotify.com/track/49UQKQom802JUWPq63lxEb) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU), [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Coffin](https://open.spotify.com/album/4qPVQisdRPip6QzcBXP7Xz) | 4:24 |
+| 45 | [Aching Longing](https://open.spotify.com/track/49UQKQom802JUWPq63lxEb) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU), [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Coffin](https://open.spotify.com/album/4qPVQisdRPip6QzcBXP7Xz) | 4:24 |
+| 46 | [Forsaken](https://open.spotify.com/track/29RLIEdsr7lXMkct9omK00) | [Until I Wake](https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5) | [Forsaken](https://open.spotify.com/album/1AdoiciuD5DrLLBHHBQrq2) | 3:03 |
 | 47 | [Enough](https://open.spotify.com/track/46PbPFnjEgaUQtxiYh334k) | [Glass Tides](https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0), [Will King](https://open.spotify.com/artist/4k3IKj51sqFK9nKz7qPdbM) | [Enough](https://open.spotify.com/album/6bqhEARnShL0e5LenCwvzk) | 2:49 |
 | 48 | [Quicksand \(feat\. Michael Swank\)](https://open.spotify.com/track/3B2lC0tHokLJuPOhKaLycU) | [Outline In Color](https://open.spotify.com/artist/6drAKOLWO1vzBrdmJmg5SE), [Foxera](https://open.spotify.com/artist/3YMpkFfYLXaD8eZlQalBHC), [Michael Swank](https://open.spotify.com/artist/1p4l2x4EUENGm1VCQfBkuu) | [Quicksand](https://open.spotify.com/album/3vo077XHNBeAEVlnWGQUCG) | 2:32 |
 | 49 | [Suffer](https://open.spotify.com/track/66ZM0tKioRCiW5TyPUdfpl) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [Suffer](https://open.spotify.com/album/2Km1B3OkljeuAyGAmnxZT2) | 3:23 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 74 | [Call It Home](https://open.spotify.com/track/1jdcRfcIYZuorAcGDmHapO) | [Elyne](https://open.spotify.com/artist/2ldJ3WucPLlQJBtoNnl3Dk) | [Call It Home](https://open.spotify.com/album/65cX0qLgpscBtANqVWZs0Z) | 3:30 |
 | 75 | [A King To Rise](https://open.spotify.com/track/4bc7Ag4yPuuUlLRmew6HjW) | [Points of Conception](https://open.spotify.com/artist/6wQON4XetnZiflTlfsrknf) | [A King To Rise](https://open.spotify.com/album/4T9qyGOab2jMhedAUMMdJG) | 3:08 |
 
-Snapshot ID: `MTY2MTUyMDMwNywwMDAwMDAwMGY0NTZkOWYxOGE4ZGFjNTUwOGQ0MDAyNTFhN2FiMzZl`
+Snapshot ID: `MTY2MTUyMDMwNywwMDAwMDAwMGQyNzkxYWVhZDY1OWU4MjRlZjNkZWIyNDdhNTcxNzY2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pAtJteyweQ.md) - [plain]
 
 > The most romantic tracks of all time, featuring today's hits and all the classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,939 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,413 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pAtJteyweQ.md) - [plain]
 | 38 | [The Lady In Red](https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO) | [Chris de Burgh](https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U) | [Into The Light](https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5) | 4:16 |
 | 39 | [You're Beautiful](https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 3:29 |
 | 40 | [Corazón partío](https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 5:43 |
-| 41 | [The Bones](https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:17 |
-| 42 | [Right Here Waiting](https://open.spotify.com/track/4LFwNJWoj74Yd71fIr1W8x) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Repeat Offender](https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG) | 4:24 |
-| 43 | [Can't Help Falling in Love](https://open.spotify.com/track/6yIHGmQLJxWAUZ1ZkENemN) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Better](https://open.spotify.com/album/2jg7PvepCK9V7MyWM7pvzr) | 2:53 |
-| 44 | [Chasing Cars](https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) | 4:27 |
+| 41 | [Chasing Cars](https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) | 4:27 |
+| 42 | [The Bones](https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:17 |
+| 43 | [Right Here Waiting](https://open.spotify.com/track/4LFwNJWoj74Yd71fIr1W8x) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Repeat Offender](https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG) | 4:24 |
+| 44 | [Can't Help Falling in Love](https://open.spotify.com/track/6yIHGmQLJxWAUZ1ZkENemN) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Better](https://open.spotify.com/album/2jg7PvepCK9V7MyWM7pvzr) | 2:53 |
 | 45 | [Love On Top](https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 4:27 |
 | 46 | [More Than Words](https://open.spotify.com/track/1gVgkQFOKa8Wc1HYsJtPdH) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [Extreme II \- Pornograffitti](https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC) | 5:34 |
 | 47 | [Es Por Ti](https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 4:10 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pAtJteyweQ.md) - [plain]
 | 67 | [I'll Stand by You](https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Last of the Independents](https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf) | 4:00 |
 | 68 | [Somethin' Stupid](https://open.spotify.com/track/4feXcsElKIVsGwkbnTHAfV) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [The World We Knew](https://open.spotify.com/album/67Evm6gPc9wFSUf1aXOrKO) | 2:42 |
 | 69 | [Just the Way You Are](https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 4:50 |
-| 70 | [Sexual Healing](https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Midnight Love](https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm) | 3:58 |
-| 71 | [Solamente tú](https://open.spotify.com/track/7sRXhReWmJF5pqyg3uUTES) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Pablo Alboran \(Deluxe\)](https://open.spotify.com/album/1PfEXmG8ioEwsj7qDaCQXc) | 4:07 |
+| 70 | [Solamente tú](https://open.spotify.com/track/7sRXhReWmJF5pqyg3uUTES) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Pablo Alboran \(Deluxe\)](https://open.spotify.com/album/1PfEXmG8ioEwsj7qDaCQXc) | 4:07 |
+| 71 | [Sexual Healing](https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Midnight Love](https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm) | 3:58 |
 | 72 | [Chasing After You \(with Maren Morris\)](https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Chasing After You \(with Maren Morris\)](https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK) | 3:27 |
 | 73 | [The Most Beautiful Thing](https://open.spotify.com/track/5unXHHcSQLGO19RuVqZB6d) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/5ON0EY1YuVEJPwj17yYtwO) | 3:55 |
 | 74 | [She](https://open.spotify.com/track/31Tp5iKrVUayn65qhg06nE) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [In Motion Pictures](https://open.spotify.com/album/2VNMoSXYKrjAAU4aqiTvtY) | 3:07 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pAtJteyweQ.md) - [plain]
 | 87 | [Butterflies](https://open.spotify.com/track/30VHURM5NOfoZmqp2iKawS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:39 |
 | 88 | [When a Man Loves a Woman](https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [When a Man Loves a Woman](https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M) | 2:53 |
 | 89 | [Everywhere](https://open.spotify.com/track/1u0l8zWpQeMYStFkc2mLD7) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [The Spirit Room](https://open.spotify.com/album/1agL7TUoZXr0Xd4Irievqi) | 3:34 |
-| 90 | [Yours](https://open.spotify.com/track/3I4WFddKpe2PGZWFh7f10J) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Yours](https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE) | 3:36 |
-| 91 | [This Year's Love](https://open.spotify.com/track/1dQOMZz9SkT7ig0w65lQWC) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder](https://open.spotify.com/album/0rK8K0z9sYhEhCW51v9jrp) | 4:05 |
+| 90 | [This Year's Love](https://open.spotify.com/track/1dQOMZz9SkT7ig0w65lQWC) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder](https://open.spotify.com/album/0rK8K0z9sYhEhCW51v9jrp) | 4:05 |
+| 91 | [Yours](https://open.spotify.com/track/3I4WFddKpe2PGZWFh7f10J) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Yours](https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE) | 3:36 |
 | 92 | [Angel](https://open.spotify.com/track/3xZMPZQYETEn4hjor3TR1A) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:30 |
 | 93 | [You Are the Best Thing](https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Gossip In The Grain](https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso) | 3:51 |
 | 94 | [Fall Into Me](https://open.spotify.com/track/7Lv78wiIJcKgND9Zi7AIOt) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Fall Into Me](https://open.spotify.com/album/6nRIGu1lglm6SZC3oG3L4l) | 3:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pAtJteyweQ.md) - [plain]
 | 99 | [Underneath Your Clothes](https://open.spotify.com/track/15f8Cv8RXUlOOCIf2oaceN) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:44 |
 | 100 | [The Story](https://open.spotify.com/track/0EKBV6GybPtALXUgWqWrym) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [The Story](https://open.spotify.com/album/23XH8Ej694esQAb3IYu00h) | 3:58 |
 
-Snapshot ID: `MTY0NDg4NTQ4MCwwMDAwMDAwMGRjYmQyNDU5Y2MyMmZiMmVjNzQyMjIyMjZmODk3NjY1`
+Snapshot ID: `MTY0NDg4NTQ4MCwwMDAwMDAwMGI5Njc4OWQxYzU0MGQ5MmRhZWQ4MmI2MDQ5MTNjNGQ1`

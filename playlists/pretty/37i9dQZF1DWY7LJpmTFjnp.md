@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 
 > Una dosis con lo más chingón pa'l gusto mexicano\. Kinky en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 950,382 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 950,594 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 41 | [Rastaman\- Dita](https://open.spotify.com/track/5kUf3gMXG6lTJkfQWLZSsP) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Apocalypshit](https://open.spotify.com/album/2Kd0lXsX8jlXwnoRrAnRiQ) | 3:48 |
 | 42 | [El Último Ska](https://open.spotify.com/track/3Up8K9cqZGOUnoyzgDY3ZZ) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [Dub Inc](https://open.spotify.com/artist/0fSuChlRe8ZYtVFYDoG87U) | [Infiernos](https://open.spotify.com/album/6EcnCS0DRha1RYCYmmnOn1) | 4:34 |
 | 43 | [Con Vos](https://open.spotify.com/track/5DNRryBkStHmqKtwigXZFR) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Con Vos](https://open.spotify.com/album/7xHsHJ5JbDXhiHhoCfeiN9) | 2:42 |
-| 44 | [A.D.O.](https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [40 Años Vol\. 1](https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1) | 4:54 |
-| 45 | [Espiral](https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Donde los Ponys Pastan](https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx) | 5:22 |
+| 44 | [Espiral](https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Donde los Ponys Pastan](https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx) | 5:22 |
+| 45 | [A.D.O.](https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [40 Años Vol\. 1](https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1) | 4:54 |
 | 46 | [Chau](https://open.spotify.com/track/7EWbEYuEDzr55hHtJZtonj) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Chau](https://open.spotify.com/album/43JH3qZu6rXGBqegyUq9J4) | 5:20 |
 | 47 | [Oro](https://open.spotify.com/track/29c0OXo0x1xYt6MMBXFmTn) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Oro](https://open.spotify.com/album/3iYqZjOvHf05btkIaihOUi) | 3:30 |
 | 48 | [Siento Que...](https://open.spotify.com/track/1VtBjpwh6xdRPDy20Uln3W) | [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB) | [Restaurant](https://open.spotify.com/album/5zU7tsXAkoLAdc1Un5j96c) | 3:29 |
 | 49 | [No Olvidamos](https://open.spotify.com/track/5RBuyILfyRzNEQecmDVweI) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [No Olvidamos](https://open.spotify.com/album/26kvfgqmq2SoSBw1Kh1x76) | 4:34 |
 | 50 | [Como Un Sol](https://open.spotify.com/track/3TDJAqSeDZheVTrPU7Ruui) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 4:17 |
 
-Snapshot ID: `MTY2MDg3MTgwOSwwMDAwMDAwMDRlZDk3NmY3OGE0NWRkYWE0NjUyMDIwMTAwZjZmZGZk`
+Snapshot ID: `MTY2MDg3MTgwOSwwMDAwMDAwMDg0MTE3NGRhZTE3OGU0OGZlNDBiZTVkMDA0YTI1MmVk`

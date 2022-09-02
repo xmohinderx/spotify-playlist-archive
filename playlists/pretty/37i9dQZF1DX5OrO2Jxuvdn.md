@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OrO2Jxuvdn.md) - [plain]
 
 > Sweat it out with your favorite country workout songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,037 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,027 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,10 +27,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OrO2Jxuvdn.md) - [plain]
 | 17 | [That's My Kind Of Night](https://open.spotify.com/track/5HGibWoxnkYSkl6mHmAlOE) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Crash My Party](https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB) | 3:10 |
 | 18 | [Body Like A Back Road](https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Body Like A Back Road](https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz) | 2:45 |
 | 19 | [Barefoot Blue Jean Night](https://open.spotify.com/track/3ts6xK5GzfMAAriT9AIBmP) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Barefoot Blue Jean Night](https://open.spotify.com/album/4GeJssW5iLOSLOIXhLfOUJ) | 2:47 |
-| 20 | [American Kids](https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [The Big Revival](https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam) | 3:02 |
+| 20 | [Somebody Like That](https://open.spotify.com/track/3hboOw4dS0aXGuP0fyyvbC) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Love, Heartbreak, & Everything in Between](https://open.spotify.com/album/1H7PmO9d4fsHghlYXDRlWG) | 3:18 |
 | 21 | [Night Shift](https://open.spotify.com/track/0bPnT6i9H1p8Vd85GS6Z7I) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [California Sunrise](https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ) | 2:52 |
 | 22 | [If I Didn't Love You](https://open.spotify.com/track/1WQ40xJSvgDmD9K7ckJwux) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [MACON](https://open.spotify.com/album/2cydSJJLXu2TtP9VoOnGn4) | 3:32 |
-| 23 | [Somebody Like That](https://open.spotify.com/track/3hboOw4dS0aXGuP0fyyvbC) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Love, Heartbreak, & Everything in Between](https://open.spotify.com/album/1H7PmO9d4fsHghlYXDRlWG) | 3:18 |
+| 23 | [American Kids](https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [The Big Revival](https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam) | 3:02 |
 | 24 | [Drink In My Hand](https://open.spotify.com/track/1cktZnxiONH0hR6Q3DKy8h) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Chief](https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF) | 3:11 |
 | 25 | [Look What God Gave Her](https://open.spotify.com/track/2KqJC0koTBUyDlsMt5ok1V) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Center Point Road](https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g) | 2:48 |
 | 26 | [Parachute](https://open.spotify.com/track/5jROdl6MhcmP3O7h2sVgtw) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:13 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OrO2Jxuvdn.md) - [plain]
 | 35 | [Famous Friends](https://open.spotify.com/track/4iXDn9pu5Q9sxv45vE8Lak) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Famous Friends](https://open.spotify.com/album/0CIbEKfFhnHbwJwVHb4KE1) | 2:45 |
 | 36 | [Beer Can’t Fix](https://open.spotify.com/track/7idmHTAQQPUFqdjXkoooXD) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Center Point Road](https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g) | 3:29 |
 | 37 | [I Like It, I Love It](https://open.spotify.com/track/3IvcWWehbBcBR4YZxlGM9R) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [All I Want](https://open.spotify.com/album/6l9E1hjtJqivhVIageAWM8) | 3:25 |
-| 38 | [Freedom Was A Highway](https://open.spotify.com/track/3J5jotqUAjU479WhAiNkpU) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Bettie James](https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h) | 3:32 |
-| 39 | [Every Little Thing](https://open.spotify.com/track/3kgCJPXDlnL5bl1HFesHUi) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Yours](https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE) | 3:10 |
+| 38 | [Every Little Thing](https://open.spotify.com/track/3kgCJPXDlnL5bl1HFesHUi) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Yours](https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE) | 3:10 |
+| 39 | [Freedom Was A Highway](https://open.spotify.com/track/3J5jotqUAjU479WhAiNkpU) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Bettie James](https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h) | 3:32 |
 | 40 | [Somethin' 'Bout A Truck](https://open.spotify.com/track/6Ymvlzom4TQeoKqAWsZRD8) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Up All Night](https://open.spotify.com/album/191BU6Uvnf7oNTjO4n36Yu) | 3:33 |
 | 41 | [Boondocks](https://open.spotify.com/track/3duP6mBVDsHM8ioN7o7dAK) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Road To Here](https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm) | 4:32 |
 | 42 | [Unforgettable](https://open.spotify.com/track/30MM5jWpUmOxtTNd9Ey5LZ) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Life Changes](https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I) | 2:37 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OrO2Jxuvdn.md) - [plain]
 | 70 | [80s Mercedes](https://open.spotify.com/track/58spuRyMUsjKHQHEGwLC99) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:31 |
 | 71 | [Drinkin' Beer\. Talkin' God\. Amen\. \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/1UYfAU2bwgjaM5rIIPQleC) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Drinkin' Beer\. Talkin' God\. Amen\. \(feat\. Florida Georgia Line\)](https://open.spotify.com/album/5H6lxubLtZamdoXEmVmcbz) | 2:40 |
 | 72 | [When She Says Baby](https://open.spotify.com/track/3gVRILe7XCyNakb6sy5umX) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Night Train](https://open.spotify.com/album/2uXHwdc2aTcUP2EhXKhPRu) | 2:51 |
-| 73 | [Gone](https://open.spotify.com/track/7IhfjcaXuXCq20ZiAA7igK) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Gone](https://open.spotify.com/album/7zEA1JpBgLz8Zj6cGcIvIV) | 3:25 |
-| 74 | [Cowboy Casanova](https://open.spotify.com/track/6OqdF0vHI9xkqswI7EK0cD) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Play On](https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u) | 3:56 |
+| 73 | [Cowboy Casanova](https://open.spotify.com/track/6OqdF0vHI9xkqswI7EK0cD) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Play On](https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u) | 3:56 |
+| 74 | [Gone](https://open.spotify.com/track/7IhfjcaXuXCq20ZiAA7igK) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Gone](https://open.spotify.com/album/7zEA1JpBgLz8Zj6cGcIvIV) | 3:25 |
 | 75 | [Back Then, Right Now](https://open.spotify.com/track/1AIlY4mVcOY34SNA4CTVbC) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Back Then, Right Now](https://open.spotify.com/album/2u0a18UWbvHn1shNtkNbJD) | 3:02 |
 | 76 | [Flatliner \(feat\. Dierks Bentley\)](https://open.spotify.com/track/0WyFpxYlBCgH1gMXd26OOr) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW), [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [You Should Be Here](https://open.spotify.com/album/7EZEhfO3ULNRHwX2jaiGei) | 2:57 |
 | 77 | [Angel Eyes](https://open.spotify.com/track/63w0QA1wiV7QhF9jeiHETF) | [Love and Theft](https://open.spotify.com/artist/03a5eVjzFyQlR4XyVSwt4t) | [Love and Theft](https://open.spotify.com/album/6mdbwD2OEFexB0lPXoRofQ) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OrO2Jxuvdn.md) - [plain]
 | 99 | [You Look Good In My Shirt](https://open.spotify.com/track/4O4hiA7KxHhzv3s0QIHDlz) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 3:47 |
 | 100 | [Hell Of A Night](https://open.spotify.com/track/4x7Di9FZJXJoxHjLxjImmp) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Where It's At](https://open.spotify.com/album/4ZSQEnZOGWEW3XQOAzt477) | 3:10 |
 
-Snapshot ID: `MTY0MDE5NTE4OSwwMDAwMDAwMDFhOTg4ZWZkZDc1MGQ4ZTE4MzUxOGU4Y2RlNTI1ZjY1`
+Snapshot ID: `MTY0MDE5NTE4OSwwMDAwMDAwMDg3ZWY4NTViYmJhOGZkZjQyOGJlZDUzNTYxMmNmMmU4`

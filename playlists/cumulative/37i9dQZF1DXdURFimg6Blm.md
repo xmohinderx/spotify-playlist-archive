@@ -4,7 +4,7 @@
 
 > Dance tracks for a big workout.
 
-307 songs - 15 hr 26 min - [published](https://open.spotify.com/playlist/6mUtN4cMwDhmgdGpsWc2qP)
+308 songs - 15 hr 29 min - [published](https://open.spotify.com/playlist/6mUtN4cMwDhmgdGpsWc2qP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [No Fun](https://open.spotify.com/track/2yYb6Ru1cwcDUBS4txRYQL) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [No Fun](https://open.spotify.com/album/4iBP2MeLgpL50cizIVqgki) | 2:10 | 2022-01-07 | 2022-07-28 |
 | [No Fun](https://open.spotify.com/track/3YOZWCREvKsxhcZNJix5xd) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [No Fun](https://open.spotify.com/album/5MOMnX1NgMpjRD0iAHcttM) | 2:10 | 2022-01-07 | 2022-01-25 |
 | [O Retha](https://open.spotify.com/track/132fXaozCi3EKmNgTnWmiW) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Crush Club](https://open.spotify.com/artist/3xxRhjD7z41Q0hnNEjIifc) | [O Retha](https://open.spotify.com/album/3zu1awuyss9dK1e4dQKdIJ) | 3:48 | 2022-01-07 | 2022-05-06 |
+| [Ocean Of Tears](https://open.spotify.com/track/6oJIAZpChGNIEMAecud9SZ) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [Ocean Of Tears](https://open.spotify.com/album/2zRkmxVhm6Isn66yIiBnLp) | 3:04 | 2022-08-26 |  |
 | [Off Of My Mind](https://open.spotify.com/track/1HHnQYqcnlnE9q7LGFFGFj) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Off Of My Mind](https://open.spotify.com/album/1CAAuVihGJthVufDRUjsQ5) | 2:44 | 2022-01-28 |  |
 | [Okay](https://open.spotify.com/track/71H8k9qe7DersxR6KyhUnI) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [MARF](https://open.spotify.com/artist/6y1eDna5tYFgcvKyGhLCy7), [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f) | [Okay](https://open.spotify.com/album/7d5FKzrSPqpKczy9IP5zOE) | 2:31 | 2022-01-07 | 2022-03-12 |
 | [OMG](https://open.spotify.com/track/1leQBt3X85aFCucHi4CEYt) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC), [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [OMG](https://open.spotify.com/album/7eawqlqbnsJrfyUQTJwYyf) | 2:48 | 2022-07-01 |  |
@@ -281,7 +282,7 @@
 | [Time Will Tell](https://open.spotify.com/track/3xMDSbzOh0XHsPH6bQl5BN) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c) | [Time Will Tell](https://open.spotify.com/album/691L2rRpdtjV6fKyxeVvtH) | 2:28 | 2022-01-07 | 2022-07-29 |
 | [To L.A.](https://open.spotify.com/track/0l8y6oPQbVonLvicE34SC9) | [MorganJ](https://open.spotify.com/artist/5irwemCIBdwWYTZrcxX2UW) | [To L.A.](https://open.spotify.com/album/5qe33W1sgjxZB5zRU5eiPK) | 3:26 | 2022-01-28 | 2022-02-04 |
 | [To The Floor](https://open.spotify.com/track/7wWytnA6MRZQFJEikOUoIB) | [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a) | [To The Floor](https://open.spotify.com/album/14Yl29q4q5XavKsgBrTAjE) | 3:12 | 2022-01-07 | 2022-07-17 |
-| [Tongue](https://open.spotify.com/track/2bJgUPmlG2o6A0qfZJgkdh) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Tongue](https://open.spotify.com/album/0TNM4CTPP3WUA7oZcpe5cN) | 2:13 | 2022-07-01 |  |
+| [Tongue](https://open.spotify.com/track/2bJgUPmlG2o6A0qfZJgkdh) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Tongue](https://open.spotify.com/album/0TNM4CTPP3WUA7oZcpe5cN) | 2:13 | 2022-07-01 | 2022-09-02 |
 | [Tonight We Dance](https://open.spotify.com/track/0WCEclDlYBnZXxpqaCbPIv) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT) | [Tonight We Dance](https://open.spotify.com/album/5KrvBuhVGtCbXLZOTgvZti) | 3:09 | 2022-05-13 | 2022-07-29 |
 | [Too Much To Ask](https://open.spotify.com/track/6M0RLlETmRWBLRkuwohvE5) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Too Much To Ask](https://open.spotify.com/album/2xS687Mvbmfl1l0D7VowMQ) | 3:10 | 2022-01-07 | 2022-03-12 |
 | [Try Again \(feat\. Lauv\)](https://open.spotify.com/track/0DHh3p0g7qmNNfNdRNwL6N) | [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Try Again \(feat\. Lauv\)](https://open.spotify.com/album/19CXVGNF0uSHVc5f4zCmi4) | 3:09 | 2022-01-07 | 2022-01-29 |

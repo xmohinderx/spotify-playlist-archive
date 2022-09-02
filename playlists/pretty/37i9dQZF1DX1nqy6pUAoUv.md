@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 
 > New music and recent favorites from rising and iconic songsmiths and storytellers\. Cover: Jake Blount
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,960 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,949 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 | 52 | [Sammi's Song](https://open.spotify.com/track/5yxGc3FatVpON8FM0lpIJU) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [You, Yeah, You](https://open.spotify.com/album/2iAobQN7dau5q1S83OXrvY) | 1:59 |
 | 53 | [Barbaro](https://open.spotify.com/track/3ftFR3uG7hCJJ7kQOlSAlg) | [Barbaro](https://open.spotify.com/artist/56xyoM0kp95h5kVkAjoOMq) | [Dressed in Roses](https://open.spotify.com/album/0qdMxhmhBONYgZJEbQiYjG) | 3:26 |
 | 54 | [Answers \- Acoustic](https://open.spotify.com/track/2EGmolGiLgX4i34ceFZfIc) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [Answers \(Acoustic\)](https://open.spotify.com/album/0s0Zix6OHOS5RqaEmPijh0) | 3:10 |
-| 55 | [Juvenescence](https://open.spotify.com/track/3AKAFRzGRwrMMZ8g9VEcAJ) | [Yasmin Williams](https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs) | [Urban Driftwood](https://open.spotify.com/album/0Qz0FCP2OvKtx4WG21PVrJ) | 3:50 |
-| 56 | [Crooked Tree](https://open.spotify.com/track/1NlwiyN4GGn3gVgyZ8T5AW) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Crooked Tree](https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc) | 3:52 |
+| 55 | [Crooked Tree](https://open.spotify.com/track/1NlwiyN4GGn3gVgyZ8T5AW) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Crooked Tree](https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc) | 3:52 |
+| 56 | [Juvenescence](https://open.spotify.com/track/3AKAFRzGRwrMMZ8g9VEcAJ) | [Yasmin Williams](https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs) | [Urban Driftwood](https://open.spotify.com/album/0Qz0FCP2OvKtx4WG21PVrJ) | 3:50 |
 | 57 | [You And I](https://open.spotify.com/track/2KY7UK4IBIXjUya41cMnYl) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:39 |
 | 58 | [Medicine Woman](https://open.spotify.com/track/3S9rZU1GDPhs8WNDv5HQSs) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Goin' Platinum!](https://open.spotify.com/album/6M5DQTTp3zGaWOH6hXsYJV) | 2:37 |
 | 59 | [Wild Turkey](https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wild Turkey](https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N) | 4:32 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 | 61 | [Eleanor Rigby](https://open.spotify.com/track/1iaM7chr2wSLLZXg8UxFkG) | [Tété](https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx) | [L'air de rien](https://open.spotify.com/album/4VVAoEKNpdeKpOoQE5NqSW) | 4:24 |
 | 62 | [Church Street Blues](https://open.spotify.com/track/7az05FAMuX2E4vWo3gQoPS) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Hell on Church Street](https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA) | 2:33 |
 | 63 | [Too Late Babe](https://open.spotify.com/track/1WLsC1nDz2w78EpVRgLqWf) | [The Lowest Pair](https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg) | [The Perfect Plan](https://open.spotify.com/album/2UeJbrZMJSAJ7qadAbEOuW) | 4:49 |
-| 64 | [Lockdown On Date Night Tuesday](https://open.spotify.com/track/5l4KZmLaiImt906CJxl5nv) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [Folk n’ Roll Vol\. 1: Tales Of Isolation](https://open.spotify.com/album/5rxYtc0dKFxROEin9UkD9d) | 5:03 |
-| 65 | [Save My Life \- Radio Edit](https://open.spotify.com/track/2s5QYW4Ls3GsxWKhEKGraJ) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [Save My Life \(Radio Edit\)](https://open.spotify.com/album/20BcK0UDu480rOworsrKLF) | 3:37 |
+| 64 | [Save My Life \- Radio Edit](https://open.spotify.com/track/2s5QYW4Ls3GsxWKhEKGraJ) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [Save My Life \(Radio Edit\)](https://open.spotify.com/album/20BcK0UDu480rOworsrKLF) | 3:37 |
+| 65 | [Lockdown On Date Night Tuesday](https://open.spotify.com/track/5l4KZmLaiImt906CJxl5nv) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [Folk n’ Roll Vol\. 1: Tales Of Isolation](https://open.spotify.com/album/5rxYtc0dKFxROEin9UkD9d) | 5:03 |
 | 66 | [Visions](https://open.spotify.com/track/3jJL66ZyGqky4smfnWZr9I) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 3:55 |
 | 67 | [Millennial](https://open.spotify.com/track/0UVjJZjlZiOB9pVd9wWABs) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Transcendence](https://open.spotify.com/album/4pJ1cAVfgvAIJLWLO0zpuQ) | 2:53 |
 | 68 | [Endless Running Out of Time](https://open.spotify.com/track/5tFzdiTH94JMk66e7tDh01) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Quicksand EP](https://open.spotify.com/album/6EEjDp42XbAqZBSVFPBSiK) | 3:58 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 | 96 | [Occasionally](https://open.spotify.com/track/7luFyU5iwLO0AFXb8DubYS) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Occasionally](https://open.spotify.com/album/18lSgXpfbwoFVCCmBOa4q1) | 3:14 |
 | 97 | [Breakin' Ground](https://open.spotify.com/track/2yi1jPkYB2WVdC2z9uNxyG) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Breakin' Ground](https://open.spotify.com/album/55tT9zsQepZmarLKDYFTcl) | 3:04 |
 | 98 | [Walk Through Fire](https://open.spotify.com/track/3IvY3M6RYfVWTquUxrBudU) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Walk Through Fire \(Deluxe Edition\)](https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL) | 3:47 |
-| 99 | [Will You](https://open.spotify.com/track/0LFhh32OmXCD8ShloH3j22) | [Vivian Leva](https://open.spotify.com/artist/02eGekE35DrC5E0qH4kh3H), [Riley Calcagno](https://open.spotify.com/artist/2n5rNh7Wb7FFhnijzCPfii) | [Vivian Leva & Riley Calcagno](https://open.spotify.com/album/69z5sIPSLaArbGLFCbQbvL) | 3:18 |
-| 100 | [Quasheba, Quasheba](https://open.spotify.com/track/1Ksgx6hc1sXyIWmUMa2wKJ) | [Our Native Daughters](https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW), [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Songs of Our Native Daughters](https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A) | 4:42 |
+| 99 | [Quasheba, Quasheba](https://open.spotify.com/track/1Ksgx6hc1sXyIWmUMa2wKJ) | [Our Native Daughters](https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW), [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Songs of Our Native Daughters](https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A) | 4:42 |
+| 100 | [You Led Me To The Wrong](https://open.spotify.com/track/0QnMuP68PXfHbjPASDUPxE) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raise The Roof](https://open.spotify.com/album/5CQ3SOj1ZgudhbsTLcTTI2) | 4:17 |
 
-Snapshot ID: `MTY0Nzg4OTUyOCwwMDAwMDAwMGViM2ZmNGI4MzY4NDVjOTljMzJmYzk1MmI5MGU2NTgx`
+Snapshot ID: `MTY0Nzg4OTUyOCwwMDAwMDAwMGJjNGJjODBlNDk2MThiZTk5M2E0NzQ0NDE1ZjYxNGFl`

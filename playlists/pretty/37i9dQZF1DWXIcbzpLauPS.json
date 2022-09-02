@@ -1,12 +1,12 @@
 {
   "description": "This is the new Core at its finest. Cover: Bleed From Within",
-  "num_followers": 862308,
+  "num_followers": 862310,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUyMDMwNywwMDAwMDAwMGY0NTZkOWYxOGE4ZGFjNTUwOGQ0MDAyNTFhN2FiMzZl",
+  "snapshot_id": "MTY2MTUyMDMwNywwMDAwMDAwMGQyNzkxYWVhZDY1OWU4MjRlZjNkZWIyNDdhNTcxNzY2",
   "tracks": [
     {
       "added_at": "2022-08-26 13:25:07",
@@ -311,22 +311,6 @@
     {
       "added_at": "2022-08-26 13:25:07",
       "album": {
-        "name": "Losing Control",
-        "url": "https://open.spotify.com/album/6ANgmUwBRAm45qW9yrhRQP"
-      },
-      "artists": [
-        {
-          "name": "Villain of the Story",
-          "url": "https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE"
-        }
-      ],
-      "duration_ms": 208920,
-      "name": "Losing Control",
-      "url": "https://open.spotify.com/track/2PjFzTXf8StVOYm25uWvW4"
-    },
-    {
-      "added_at": "2022-08-26 13:25:07",
-      "album": {
         "name": "Mass Produced",
         "url": "https://open.spotify.com/album/48PMipn3cRGT6Ck9KCbV8w"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 181680,
       "name": "Mass Produced",
       "url": "https://open.spotify.com/track/2gq5XvSm3XrbKmyV4m3wSX"
+    },
+    {
+      "added_at": "2022-08-26 13:25:07",
+      "album": {
+        "name": "Losing Control",
+        "url": "https://open.spotify.com/album/6ANgmUwBRAm45qW9yrhRQP"
+      },
+      "artists": [
+        {
+          "name": "Villain of the Story",
+          "url": "https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE"
+        }
+      ],
+      "duration_ms": 208920,
+      "name": "Losing Control",
+      "url": "https://open.spotify.com/track/2PjFzTXf8StVOYm25uWvW4"
     },
     {
       "added_at": "2022-08-26 13:25:07",
@@ -375,6 +375,22 @@
     {
       "added_at": "2022-08-26 13:25:07",
       "album": {
+        "name": "Hangfire",
+        "url": "https://open.spotify.com/album/2C7Caj4q2ImxfS717oEZYC"
+      },
+      "artists": [
+        {
+          "name": "Wind Walkers",
+          "url": "https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0"
+        }
+      ],
+      "duration_ms": 195217,
+      "name": "Hangfire",
+      "url": "https://open.spotify.com/track/3cYqU2pWI7VvoTX1PeKX94"
+    },
+    {
+      "added_at": "2022-08-26 13:25:07",
+      "album": {
         "name": "Lifestyles of the Sick & Dangerous",
         "url": "https://open.spotify.com/album/2kcAri2GgDTQD7k8k727Mb"
       },
@@ -407,18 +423,18 @@
     {
       "added_at": "2022-08-26 13:25:07",
       "album": {
-        "name": "Hangfire",
-        "url": "https://open.spotify.com/album/2C7Caj4q2ImxfS717oEZYC"
+        "name": "Anomaly",
+        "url": "https://open.spotify.com/album/3x0fD3AKsVdr63OInlGAXv"
       },
       "artists": [
         {
-          "name": "Wind Walkers",
-          "url": "https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0"
+          "name": "Aviana",
+          "url": "https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy"
         }
       ],
-      "duration_ms": 195217,
-      "name": "Hangfire",
-      "url": "https://open.spotify.com/track/3cYqU2pWI7VvoTX1PeKX94"
+      "duration_ms": 223050,
+      "name": "Anomaly",
+      "url": "https://open.spotify.com/track/4y2WxyFPLHaLoHkxymgNar"
     },
     {
       "added_at": "2022-08-26 13:25:07",
@@ -439,18 +455,18 @@
     {
       "added_at": "2022-08-26 13:25:07",
       "album": {
-        "name": "Anomaly",
-        "url": "https://open.spotify.com/album/3x0fD3AKsVdr63OInlGAXv"
+        "name": "A Form of Protest",
+        "url": "https://open.spotify.com/album/7sPoZ4Nxv34iSFIwmbUCrA"
       },
       "artists": [
         {
-          "name": "Aviana",
-          "url": "https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy"
+          "name": "Cane Hill",
+          "url": "https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ"
         }
       ],
-      "duration_ms": 223050,
-      "name": "Anomaly",
-      "url": "https://open.spotify.com/track/4y2WxyFPLHaLoHkxymgNar"
+      "duration_ms": 189405,
+      "name": "A Form of Protest",
+      "url": "https://open.spotify.com/track/1LDQFdGTEXOnycDC8CJ5p1"
     },
     {
       "added_at": "2022-08-26 13:25:07",
@@ -471,34 +487,18 @@
     {
       "added_at": "2022-08-26 13:25:07",
       "album": {
-        "name": "A Form of Protest",
-        "url": "https://open.spotify.com/album/7sPoZ4Nxv34iSFIwmbUCrA"
+        "name": "Cross My Heart",
+        "url": "https://open.spotify.com/album/5ByL1dXjgnjKAEF6H63e5p"
       },
       "artists": [
         {
-          "name": "Cane Hill",
-          "url": "https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ"
+          "name": "Eyes Wide Open",
+          "url": "https://open.spotify.com/artist/1AYs2fxCu0pV8iKaguz4po"
         }
       ],
-      "duration_ms": 189405,
-      "name": "A Form of Protest",
-      "url": "https://open.spotify.com/track/1LDQFdGTEXOnycDC8CJ5p1"
-    },
-    {
-      "added_at": "2022-08-26 13:25:07",
-      "album": {
-        "name": "White Washed & Composure 2022",
-        "url": "https://open.spotify.com/album/6zaOIfy2Fy8ez7UnAv1ZJ8"
-      },
-      "artists": [
-        {
-          "name": "August Burns Red",
-          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
-        }
-      ],
-      "duration_ms": 237168,
-      "name": "White Washed - 2022",
-      "url": "https://open.spotify.com/track/6Aco1hY5ciwgaWPFm7sTd1"
+      "duration_ms": 198000,
+      "name": "Cross My Heart",
+      "url": "https://open.spotify.com/track/2icamhwuMDLOPIGcTq3qxg"
     },
     {
       "added_at": "2022-08-26 13:25:07",
@@ -519,18 +519,18 @@
     {
       "added_at": "2022-08-26 13:25:07",
       "album": {
-        "name": "Cross My Heart",
-        "url": "https://open.spotify.com/album/5ByL1dXjgnjKAEF6H63e5p"
+        "name": "White Washed & Composure 2022",
+        "url": "https://open.spotify.com/album/6zaOIfy2Fy8ez7UnAv1ZJ8"
       },
       "artists": [
         {
-          "name": "Eyes Wide Open",
-          "url": "https://open.spotify.com/artist/1AYs2fxCu0pV8iKaguz4po"
+          "name": "August Burns Red",
+          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Cross My Heart",
-      "url": "https://open.spotify.com/track/2icamhwuMDLOPIGcTq3qxg"
+      "duration_ms": 237168,
+      "name": "White Washed - 2022",
+      "url": "https://open.spotify.com/track/6Aco1hY5ciwgaWPFm7sTd1"
     },
     {
       "added_at": "2022-08-26 13:25:07",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-08-26 13:25:07",
       "album": {
-        "name": "Forsaken",
-        "url": "https://open.spotify.com/album/1AdoiciuD5DrLLBHHBQrq2"
-      },
-      "artists": [
-        {
-          "name": "Until I Wake",
-          "url": "https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5"
-        }
-      ],
-      "duration_ms": 183069,
-      "name": "Forsaken",
-      "url": "https://open.spotify.com/track/29RLIEdsr7lXMkct9omK00"
-    },
-    {
-      "added_at": "2022-08-26 13:25:07",
-      "album": {
         "name": "Coffin",
         "url": "https://open.spotify.com/album/4qPVQisdRPip6QzcBXP7Xz"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 264306,
       "name": "Aching Longing",
       "url": "https://open.spotify.com/track/49UQKQom802JUWPq63lxEb"
+    },
+    {
+      "added_at": "2022-08-26 13:25:07",
+      "album": {
+        "name": "Forsaken",
+        "url": "https://open.spotify.com/album/1AdoiciuD5DrLLBHHBQrq2"
+      },
+      "artists": [
+        {
+          "name": "Until I Wake",
+          "url": "https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5"
+        }
+      ],
+      "duration_ms": 183069,
+      "name": "Forsaken",
+      "url": "https://open.spotify.com/track/29RLIEdsr7lXMkct9omK00"
     },
     {
       "added_at": "2022-08-26 13:25:07",

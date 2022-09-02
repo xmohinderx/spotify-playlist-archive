@@ -1,12 +1,12 @@
 {
   "description": "Great songs by indisputable music legends. Cover: David Bowie\n",
-  "num_followers": 3154059,
+  "num_followers": 3154537,
   "original_name": "Legendary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mjc2NTEyOSwwMDAwMDAwMGQ4Zjc3Y2E0MWU3ODY0NDM2NWFlYTBlZjIwOWVmZmZm",
+  "snapshot_id": "MTY0Mjc2NTEyOSwwMDAwMDAwMDJiNDdhN2EyNTU4YmI5NjI3N2UwMzRkZTRlODNkNThl",
   "tracks": [
     {
       "added_at": "2022-01-21 11:38:49",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-01-21 11:38:49",
       "album": {
-        "name": "Out of the Blue",
-        "url": "https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU"
-      },
-      "artists": [
-        {
-          "name": "Electric Light Orchestra",
-          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
-        }
-      ],
-      "duration_ms": 303373,
-      "name": "Mr. Blue Sky",
-      "url": "https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp"
-    },
-    {
-      "added_at": "2022-01-21 11:38:49",
-      "album": {
         "name": "Aerosmith",
         "url": "https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 266960,
       "name": "Dream On",
       "url": "https://open.spotify.com/track/5MxNLUsfh7uzROypsoO5qe"
+    },
+    {
+      "added_at": "2022-01-21 11:38:49",
+      "album": {
+        "name": "Out of the Blue",
+        "url": "https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU"
+      },
+      "artists": [
+        {
+          "name": "Electric Light Orchestra",
+          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+        }
+      ],
+      "duration_ms": 303373,
+      "name": "Mr. Blue Sky",
+      "url": "https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp"
     },
     {
       "added_at": "2022-01-21 11:38:49",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-01-21 11:38:49",
       "album": {
-        "name": "The Very Best of Bonnie Tyler",
-        "url": "https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Tyler",
-          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
-        }
-      ],
-      "duration_ms": 267360,
-      "name": "Total Eclipse of the Heart",
-      "url": "https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj"
-    },
-    {
-      "added_at": "2022-01-21 11:38:49",
-      "album": {
         "name": "Buffalo Springfield",
         "url": "https://open.spotify.com/album/3PkdGRruLnJ9zCtANiDrpB"
       },
@@ -867,18 +851,18 @@
     {
       "added_at": "2022-01-21 11:38:49",
       "album": {
-        "name": "Tango In the Night (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
+        "name": "The Very Best of Bonnie Tyler",
+        "url": "https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "Bonnie Tyler",
+          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
         }
       ],
-      "duration_ms": 226653,
-      "name": "Everywhere - 2017 Remaster",
-      "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
+      "duration_ms": 267360,
+      "name": "Total Eclipse of the Heart",
+      "url": "https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj"
     },
     {
       "added_at": "2022-01-21 11:38:49",
@@ -915,6 +899,22 @@
     {
       "added_at": "2022-01-21 11:38:49",
       "album": {
+        "name": "Tango In the Night (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 226653,
+      "name": "Everywhere - 2017 Remaster",
+      "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
+    },
+    {
+      "added_at": "2022-01-21 11:38:49",
+      "album": {
         "name": "Led Zeppelin II (1994 Remaster)",
         "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
       },
@@ -927,22 +927,6 @@
       "duration_ms": 333893,
       "name": "Whole Lotta Love - 1990 Remaster",
       "url": "https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8"
-    },
-    {
-      "added_at": "2022-01-21 11:38:49",
-      "album": {
-        "name": "Face Value (Deluxe Editon)",
-        "url": "https://open.spotify.com/album/1cM3r0WQZWNkCpEbmFjLln"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 336453,
-      "name": "In The Air Tonight - 2015 Remastered",
-      "url": "https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb"
     },
     {
       "added_at": "2022-01-21 11:38:49",
@@ -963,18 +947,18 @@
     {
       "added_at": "2022-01-21 11:38:49",
       "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+        "name": "Face Value (Deluxe Editon)",
+        "url": "https://open.spotify.com/album/1cM3r0WQZWNkCpEbmFjLln"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
         }
       ],
-      "duration_ms": 223613,
-      "name": "Go Your Own Way - 2004 Remaster",
-      "url": "https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa"
+      "duration_ms": 336453,
+      "name": "In The Air Tonight - 2015 Remastered",
+      "url": "https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb"
     },
     {
       "added_at": "2022-01-21 11:38:49",
@@ -1075,6 +1059,38 @@
     {
       "added_at": "2022-01-21 11:38:49",
       "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 223613,
+      "name": "Go Your Own Way - 2004 Remaster",
+      "url": "https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa"
+    },
+    {
+      "added_at": "2022-01-21 11:38:49",
+      "album": {
+        "name": "Knee Deep In The Hoopla",
+        "url": "https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6"
+      },
+      "artists": [
+        {
+          "name": "Starship",
+          "url": "https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf"
+        }
+      ],
+      "duration_ms": 296080,
+      "name": "We Built This City",
+      "url": "https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ"
+    },
+    {
+      "added_at": "2022-01-21 11:38:49",
+      "album": {
         "name": "Out Of Our Heads",
         "url": "https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 261279,
       "name": "Suspicious Minds",
       "url": "https://open.spotify.com/track/1H5IfYyIIAlgDX8zguUzns"
-    },
-    {
-      "added_at": "2022-01-21 11:38:49",
-      "album": {
-        "name": "Knee Deep In The Hoopla",
-        "url": "https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6"
-      },
-      "artists": [
-        {
-          "name": "Starship",
-          "url": "https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf"
-        }
-      ],
-      "duration_ms": 296080,
-      "name": "We Built This City",
-      "url": "https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ"
     },
     {
       "added_at": "2022-01-21 11:38:49",

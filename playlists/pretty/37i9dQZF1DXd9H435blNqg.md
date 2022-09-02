@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 
 > A different shade of the blues\. Cover: Ash Grunwald
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,629 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,683 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 | 24 | [Get Gone](https://open.spotify.com/track/6U4XpiZrqaYTVmKKfens2L) | [Swamp](https://open.spotify.com/artist/3JnCy7tffnn9EBDGk8ytQS) | [Don't Say Goodbye](https://open.spotify.com/album/4D1EqPba5ZOyIbYkaWqZR2) | 3:05 |
 | 25 | [Ain't Too Worried Yet](https://open.spotify.com/track/0jf5lyDBbgIU7kt5ULc1ZF) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Ain't Too Worried Yet](https://open.spotify.com/album/3ifmjG8tSe2MtZzFpmUKg4) | 3:32 |
 | 26 | [Bump that Mother](https://open.spotify.com/track/5UOyPqtOZwwwGIyp375MyE) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [Up and Rolling](https://open.spotify.com/album/5jEiXH4G09AiHqBkEm2ZMM) | 3:11 |
-| 27 | [Deeper Well](https://open.spotify.com/track/0hAnedWjp1nrPXn4yyqp4u) | [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [Deeper Well](https://open.spotify.com/album/6NxV2YhPxDRC4BQ55luKzQ) | 4:44 |
-| 28 | [Healing Creek](https://open.spotify.com/track/4AsrwPkPDdpzjjdr2SDykN) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [Healing Creek](https://open.spotify.com/album/7dF7ZkpIBrkCMDqFEIEzh6) | 3:11 |
+| 27 | [Healing Creek](https://open.spotify.com/track/4AsrwPkPDdpzjjdr2SDykN) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [Healing Creek](https://open.spotify.com/album/7dF7ZkpIBrkCMDqFEIEzh6) | 3:11 |
+| 28 | [Deeper Well](https://open.spotify.com/track/0hAnedWjp1nrPXn4yyqp4u) | [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [Deeper Well](https://open.spotify.com/album/6NxV2YhPxDRC4BQ55luKzQ) | 4:44 |
 | 29 | [Live Forever](https://open.spotify.com/track/3mD05E4WmEnVCC8bQgpQEd) | [Daniel Spaleniak](https://open.spotify.com/artist/2OnWZezIAII3VLBCxG5gQs) | [Tape V](https://open.spotify.com/album/24t3OdqKwiz0ePiBCBsScw) | 2:57 |
 | 30 | [Keep Diggin’](https://open.spotify.com/track/2wD0XO7uJWtwdp7p3U1YwI) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP) | 3:13 |
 | 31 | [In the Middle](https://open.spotify.com/track/2QSeOYAeexi7ZxVqlEFGE8) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [In the Middle](https://open.spotify.com/album/1fUWSMrv1jZ7AxOsslJhQX) | 3:34 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 | 46 | [Chocolate Samurai](https://open.spotify.com/track/4UtHodK1fk12jrvPi2pCcP) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Chocolate Samurai](https://open.spotify.com/album/0iAF0Ac7k0qAZ5AkugkgBX) | 4:55 |
 | 47 | [Hard Feelings](https://open.spotify.com/track/5LkZJ4wPxLFRcqXHTlVtel) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Songs From The Ashes](https://open.spotify.com/album/45M1z5jiYIfoTFyMYaNugp) | 4:08 |
 | 48 | [The Juice \(feat\. Marcus King\)](https://open.spotify.com/track/3NQ0Q9VSHzSwwlzFBey6QY) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [The Juice](https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL) | 3:07 |
-| 49 | [Going Down](https://open.spotify.com/track/0g2SE4JV2rn8rEzNcwaTgk) | [Black River Delta](https://open.spotify.com/artist/6wuLyOna5Zjh2OYb0ZtLey) | [Going Down](https://open.spotify.com/album/3Gvjf4FDSIqcBScnLI2Kw5) | 3:28 |
-| 50 | [All of It, Again](https://open.spotify.com/track/0OdzIwQTj4BRGaQ7yfvJ6i) | [Katie Buchanan](https://open.spotify.com/artist/45JkiNZMtPXDGoKXzxoPE1) | [All of It, Again](https://open.spotify.com/album/5VQjDyJ416TBS2g8ESxZAI) | 4:03 |
+| 49 | [All of It, Again](https://open.spotify.com/track/0OdzIwQTj4BRGaQ7yfvJ6i) | [Katie Buchanan](https://open.spotify.com/artist/45JkiNZMtPXDGoKXzxoPE1) | [All of It, Again](https://open.spotify.com/album/5VQjDyJ416TBS2g8ESxZAI) | 4:03 |
+| 50 | [Going Down](https://open.spotify.com/track/0g2SE4JV2rn8rEzNcwaTgk) | [Black River Delta](https://open.spotify.com/artist/6wuLyOna5Zjh2OYb0ZtLey) | [Going Down](https://open.spotify.com/album/3Gvjf4FDSIqcBScnLI2Kw5) | 3:28 |
 
-Snapshot ID: `MTY2MTk3NTU4OCwwMDAwMDAwMDM1YWY1ZmFmYjIzMjQ3ZDVmZjUwN2JlZDhjOWM0ZDUz`
+Snapshot ID: `MTY2MTk3NTU4OCwwMDAwMDAwMGE2YWIyNTliMDRhYmMzMGE5NTdiZGQ2NWJiNzRmNmRj`

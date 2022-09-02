@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 
 > Let this smooth mix carry you home in style.
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,714 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,507 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 | 12 | [Overpass Graffiti](https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:56 |
 | 13 | [Smokin Out The Window](https://open.spotify.com/track/3xVZYkcuWalGudeKl861wb) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 3:17 |
 | 14 | [Cracker Island \(feat\. Thundercat\)](https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Cracker Island \(feat\. Thundercat\)](https://open.spotify.com/album/3488fiYQcGSfkKKpr3ttCD) | 3:33 |
-| 15 | [New Light](https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:37 |
+| 15 | [AMAZING](https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [AMAZING](https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe) | 3:29 |
 | 16 | [Less Than Zero](https://open.spotify.com/track/2D4dV2KXDTszzJ3p3cFqhA) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:31 |
-| 17 | [AMAZING](https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [AMAZING](https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe) | 3:29 |
+| 17 | [New Light](https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:37 |
 | 18 | [Disaster](https://open.spotify.com/track/3SWGtKHaCFEUqfm9ydUFVw) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 2:33 |
 | 19 | [Higher Power](https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Higher Power](https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg) | 3:31 |
 | 20 | [Remind Me](https://open.spotify.com/track/6VIYEyjNW71NnIGEduf8D8) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Remind Me](https://open.spotify.com/album/0fL8J5En5o6sd8vSHAbKGt) | 3:31 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 | 32 | [Tacones Rojos \- With John Legend](https://open.spotify.com/track/7pCcX8GklrbASun9rWFh4W) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Tacones Rojos \(With John Legend\)](https://open.spotify.com/album/1iXiHsXgdWAcyTAjSamVzO) | 3:08 |
 | 33 | [I Lost Myself In Loving You](https://open.spotify.com/track/2ySPkHH3mHCP3r3T040M5V) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [I Lost Myself In Loving You](https://open.spotify.com/album/1gLySgZluGmfvNYkny3H0C) | 3:21 |
 | 34 | [B\-Side](https://open.spotify.com/track/2DccHqTquzubziHAPZRdct) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 4:34 |
-| 35 | [My Love \- Edit](https://open.spotify.com/track/0vQYe6g8bNbdUKnUnXdQQV) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [My Love](https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ) | 2:57 |
-| 36 | [Fall Into Me](https://open.spotify.com/track/7Lv78wiIJcKgND9Zi7AIOt) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Fall Into Me](https://open.spotify.com/album/6nRIGu1lglm6SZC3oG3L4l) | 3:46 |
+| 35 | [Fall Into Me](https://open.spotify.com/track/7Lv78wiIJcKgND9Zi7AIOt) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Fall Into Me](https://open.spotify.com/album/6nRIGu1lglm6SZC3oG3L4l) | 3:46 |
+| 36 | [My Love \- Edit](https://open.spotify.com/track/0vQYe6g8bNbdUKnUnXdQQV) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [My Love](https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ) | 2:57 |
 | 37 | [Invincible \(feat\. Daniel Caesar\)](https://open.spotify.com/track/7jhxagwOk9y1HC5ciRfmkQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 |
 | 38 | [Fly As Me](https://open.spotify.com/track/3a6FcTyvSf0ED3VXeH3PJ5) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 3:39 |
 | 39 | [Her Body Is Bible](https://open.spotify.com/track/1qMMRXrcyfjbik6Mh1XRDz) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Her Body Is Bible](https://open.spotify.com/album/3JwM5vjiKuLf2HLmcR5o6D) | 2:57 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 | 44 | [September](https://open.spotify.com/track/5DTBPQRHrBOnvzIF5XLBPq) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End](https://open.spotify.com/album/0P4xzdUBgd8cMncwM7okcd) | 3:40 |
 | 45 | [Witchoo](https://open.spotify.com/track/6W9rbkBueZQrwuzO24GHZ2) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Private Space](https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW) | 3:42 |
 | 46 | [Catch Me In The Air](https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Catch Me In The Air](https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq) | 3:35 |
-| 47 | [Give Me The Reason](https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Give Me The Reason](https://open.spotify.com/album/2IKvoLYI5mb0eyKWiB2G2z) | 3:54 |
-| 48 | [Love Like That](https://open.spotify.com/track/5FkMAjNnp34RGJJj9TTY2A) | [Phillip Phillips](https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4) | [Love Like That](https://open.spotify.com/album/3A6pwCsqEs8t3pe60T8nfi) | 3:14 |
+| 47 | [Love Like That](https://open.spotify.com/track/5FkMAjNnp34RGJJj9TTY2A) | [Phillip Phillips](https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4) | [Love Like That](https://open.spotify.com/album/3A6pwCsqEs8t3pe60T8nfi) | 3:14 |
+| 48 | [Give Me The Reason](https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Give Me The Reason](https://open.spotify.com/album/2IKvoLYI5mb0eyKWiB2G2z) | 3:54 |
 | 49 | [Hypotheticals](https://open.spotify.com/track/5lE2EFXt4muvLFMGQg4hZN) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Obviously](https://open.spotify.com/album/2Zi7uv234eNZJfLPGUIkSD) | 3:50 |
 | 50 | [Broke](https://open.spotify.com/track/1JqcZQCnxjDOfZZwQidb1H) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Broke](https://open.spotify.com/album/7EFpevvrKa2TjXTFSaVR1z) | 3:27 |
 
-Snapshot ID: `MTY2MTQ4NjUyMCwwMDAwMDAwMGY3YWY0YWQ4MTNhY2E5ZDVmMGE0YjNiMDQzN2MxMDQw`
+Snapshot ID: `MTY2MTQ4NjUyMCwwMDAwMDAwMDkxMzNhNTE0NWM4ZGNkOTc3MWEzNzc0ZDUwZDQyODZj`

@@ -1748,6 +1748,24 @@
     },
     {
       "album": {
+        "name": "Science-Fiction",
+        "url": "https://open.spotify.com/album/5OWv5Bpm5LYBwMGYKFkBpj"
+      },
+      "artists": [
+        {
+          "name": "Fally Ipupa",
+          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400800,
+      "name": "Science-Fiction",
+      "url": "https://open.spotify.com/track/2GSk3VrKZZGRfDejDmhi86"
+    },
+    {
+      "album": {
         "name": "Maison m\u00e8re",
         "url": "https://open.spotify.com/album/5M8p6oL21ngPA4E5lSIGbU"
       },

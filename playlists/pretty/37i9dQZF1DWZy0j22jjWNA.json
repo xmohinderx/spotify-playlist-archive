@@ -1,12 +1,12 @@
 {
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
-  "num_followers": 73472,
+  "num_followers": 73470,
   "original_name": "Good People Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5OTE5MjEyMCwwMDAwMDAwMDEzZDgwOGY0ZTM4MzVjM2VkMzkwMjFiZWMyNzA3N2Y1",
+  "snapshot_id": "MTU5OTE5MjEyMCwwMDAwMDAwMGFmYTY5ZWE2NmRmOWFjOThiNWRkNzkzZGJkZTFkMmJl",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -479,6 +479,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "City of Black & White Revisited",
+        "url": "https://open.spotify.com/album/2QpByGx95I9XzccW9aNVtM"
+      },
+      "artists": [
+        {
+          "name": "Mat Kearney",
+          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
+        }
+      ],
+      "duration_ms": 225837,
+      "name": "City of Black & White",
+      "url": "https://open.spotify.com/track/33dVEqsu2V7zvCIgid8PnF"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Like Myself",
         "url": "https://open.spotify.com/album/3lP01xLRL4vQG0ZdeHAFuv"
       },
@@ -495,18 +511,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "City of Black & White Revisited",
-        "url": "https://open.spotify.com/album/2QpByGx95I9XzccW9aNVtM"
+        "name": "Versions",
+        "url": "https://open.spotify.com/album/5THuXFOq0TAqmfjpnMxdEa"
       },
       "artists": [
         {
-          "name": "Mat Kearney",
-          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
+          "name": "Elenowen",
+          "url": "https://open.spotify.com/artist/0YupLF0tszgj7vyKCQlRoC"
         }
       ],
-      "duration_ms": 225837,
-      "name": "City of Black & White",
-      "url": "https://open.spotify.com/track/33dVEqsu2V7zvCIgid8PnF"
+      "duration_ms": 231346,
+      "name": "Losing the Lonely",
+      "url": "https://open.spotify.com/track/1C5AsyCp4hxF7qII4kOtbS"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -539,22 +555,6 @@
       "duration_ms": 234558,
       "name": "Juggernaut",
       "url": "https://open.spotify.com/track/5IPkJqYSdbCJJHZA840z3I"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Versions",
-        "url": "https://open.spotify.com/album/5THuXFOq0TAqmfjpnMxdEa"
-      },
-      "artists": [
-        {
-          "name": "Elenowen",
-          "url": "https://open.spotify.com/artist/0YupLF0tszgj7vyKCQlRoC"
-        }
-      ],
-      "duration_ms": 231346,
-      "name": "Losing the Lonely",
-      "url": "https://open.spotify.com/track/1C5AsyCp4hxF7qII4kOtbS"
     },
     {
       "added_at": "2020-09-04 04:02:00",

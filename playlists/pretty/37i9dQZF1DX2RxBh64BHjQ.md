@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:1iwUuIOKYjV7SKIg27v4zi">Real Boston Richey</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,674,756 likes - 100 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,674,377 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 13 | [Burning Up \(feat\. The Kid LAROI\)](https://open.spotify.com/track/5sB27YGIsK9zBi0uVfjOek) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Who is Nardo Wick?? \(Deluxe\)](https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi) | 2:08 |
 | 14 | [Fuck My Cousin, Pt\. II \(feat\. Lil Durk\)](https://open.spotify.com/track/6QCWPC6OFUxuoaMtRe573z) | [Lil Zay Osama](https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Fuck My Cousin, Pt\. II \(feat\. Lil Durk\)](https://open.spotify.com/album/341UBgXu04jXD1oESdpDWa) | 3:14 |
 | 15 | [Get Even](https://open.spotify.com/track/2YVscnKcfmlc2fl89FlX5h) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Get Even](https://open.spotify.com/album/5dL0R5fAWbcjXgL73QqOoV) | 2:41 |
-| 16 | [Keep Dissing 2 \(with Lil Durk\)](https://open.spotify.com/track/68ccsqXPhYGGTQ1RVDDtOh) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Keep Dissing 2 \(with Lil Durk\)](https://open.spotify.com/album/5Xt2jd95PhUWTLXoy2pyJN) | 2:54 |
+| 16 | [Keep Dissing 2 \(with Lil Durk\)](https://open.spotify.com/track/68ccsqXPhYGGTQ1RVDDtOh) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Keep Dissing 2 \(with Lil Durk\)](https://open.spotify.com/album/5Xt2jd95PhUWTLXoy2pyJN) | 2:53 |
 | 17 | [New York \(feat\. A Boogie Wit Da Hoodie & Jadakiss\)](https://open.spotify.com/track/1HVVrtjLvEQx8oinUYI5Nv) | [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [Rebel vs\. Rowdy](https://open.spotify.com/album/0zxvDMvFNW7h9JQb4oq2eS) | 3:55 |
 | 18 | [Sniper Gang Freestyle Pt\. 2](https://open.spotify.com/track/1QQa1xdCx4t9DUgQH21Xoo) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz) | [Sniper Gang Freestyle Pt\. 2](https://open.spotify.com/album/6vOE77BmSitUxf8v4ZjUKW) | 2:44 |
 | 19 | [Red Flag](https://open.spotify.com/track/1zTsj09nN6RamZRO8W8Ssb) | [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [Fenix Flexin Vol\. 2](https://open.spotify.com/album/0uoPpxGXbIwYTEm7XW33Lu) | 1:58 |

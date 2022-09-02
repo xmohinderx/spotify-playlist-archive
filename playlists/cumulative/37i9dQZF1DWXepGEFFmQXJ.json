@@ -2878,6 +2878,24 @@
     },
     {
       "album": {
+        "name": "Single Life",
+        "url": "https://open.spotify.com/album/2H10WiAVS7BZf5chdbvJOn"
+      },
+      "artists": [
+        {
+          "name": "Brad Cox",
+          "url": "https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222074,
+      "name": "Single Life",
+      "url": "https://open.spotify.com/track/6vIqfL3W4YUjR1WSuvCQ3D"
+    },
+    {
+      "album": {
         "name": "Slow Down Girl",
         "url": "https://open.spotify.com/album/0h0scsiujwR3ZDmdaE6ia8"
       },

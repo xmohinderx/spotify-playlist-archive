@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 
 > Amor a la mexicana, canciones para dedicarle al amor de tu vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,419 likes - 117 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,461 likes - 117 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 | 24 | [Tú Eres Mi Amor \- Versión Regional Mexicana](https://open.spotify.com/track/4e52LWbd5B8aiA8Ak3rM0B) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Tú Eres Mi Amor \(Versión Regional Mexicana\)](https://open.spotify.com/album/2LwnB6bzU01pRU2uEQxBzy) | 3:48 |
 | 25 | [Niña De Mi Corazón](https://open.spotify.com/track/2UZoSuDO0D6y9bW9Z3Hkng) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Todo Depende De Ti](https://open.spotify.com/album/2pPGfPv8AKkeFyTtgHTOUr) | 3:08 |
 | 26 | [Eres Una Niña](https://open.spotify.com/track/0G9e3gdGPeer3BC1jh1qGN) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Archivos de Mi Vida](https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz) | 2:50 |
-| 27 | [La Fiesta](https://open.spotify.com/track/0JazIfsytYrcSkoK8EhLaR) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Boleros de Hoy](https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox) | 2:41 |
-| 28 | [La Magia de Tus Ojos](https://open.spotify.com/track/16DU79T2PdFSdGf0Z59rr5) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Caminando](https://open.spotify.com/album/7gKR2yAqsDQoeCRGKKrLQl) | 2:49 |
+| 27 | [La Magia de Tus Ojos](https://open.spotify.com/track/16DU79T2PdFSdGf0Z59rr5) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Caminando](https://open.spotify.com/album/7gKR2yAqsDQoeCRGKKrLQl) | 2:49 |
+| 28 | [La Fiesta](https://open.spotify.com/track/0JazIfsytYrcSkoK8EhLaR) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Boleros de Hoy](https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox) | 2:41 |
 | 29 | [Tal Vez](https://open.spotify.com/track/7Aiq4g8tSExAM2qUNkiHbZ) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Vibras de Noche](https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG) | 4:30 |
 | 30 | [Que Bonito Es Querer](https://open.spotify.com/track/7Jcvu13qlP4km0uDX9p2pZ) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [El Elegido](https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t) | 3:29 |
 | 31 | [Contigo](https://open.spotify.com/track/5TphzFf2iv0l3VrFHN08kN) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Contigo](https://open.spotify.com/album/5t3hXKG2uyhYSlMaRViaEH) | 3:30 |
@@ -101,17 +101,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 | 91 | [Mi Mujer](https://open.spotify.com/track/6yXzhBUjkF9JX166pJddTu) | [Raul Vega](https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9) | [Mi Mujer](https://open.spotify.com/album/0SET97WsQDwLigzT61IyrP) | 2:42 |
 | 92 | [Déjame Llevarte](https://open.spotify.com/track/0UJs00Ps6vf3SuI84DjufP) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Mariachi Tumbado](https://open.spotify.com/album/2sbXCLAfQ1cE5DBgyp3idU) | 2:42 |
 | 93 | [Ya Me Vi](https://open.spotify.com/track/4KutOSvfb2MFvR0ROX4jtS) | [Banda La Ejecutiva de Mazatlan Sinaloa](https://open.spotify.com/artist/6BHFzhrhbK5ogpJ8H2z71Y) | [Ya Me Vi](https://open.spotify.com/album/2yj7jiUObCnbAmUZJroe25) | 2:51 |
-| 94 | [Mi Flaca](https://open.spotify.com/track/1IZkTeEnEeUHbZDUqN6yOi) | [Elebier Lopez](https://open.spotify.com/artist/3ePsUyFbJdTgoiGV6iIn6r) | [Mi Flaca](https://open.spotify.com/album/6ER067IaW5l1r0vmvzefpq) | 2:27 |
-| 95 | [Me Gustas \- Live](https://open.spotify.com/track/00LcgzrjBcR2VcvBC7B7jB) | [Los De La Noria](https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [En Vivo Desde El Rancho San Vicente](https://open.spotify.com/album/3QETPQ631SSr84mDHE44WA) | 3:45 |
+| 94 | [Me Gustas \- Live](https://open.spotify.com/track/00LcgzrjBcR2VcvBC7B7jB) | [Los De La Noria](https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [En Vivo Desde El Rancho San Vicente](https://open.spotify.com/album/3QETPQ631SSr84mDHE44WA) | 3:45 |
+| 95 | [Mi Flaca](https://open.spotify.com/track/1IZkTeEnEeUHbZDUqN6yOi) | [Elebier Lopez](https://open.spotify.com/artist/3ePsUyFbJdTgoiGV6iIn6r) | [Mi Flaca](https://open.spotify.com/album/6ER067IaW5l1r0vmvzefpq) | 2:27 |
 | 96 | [Te Amo](https://open.spotify.com/track/4UPX8tA4fQ6hLLZzjEvI2K) | [Geru y Su Legion 7](https://open.spotify.com/artist/4BNrYSNWfcX7x10nmCpkch) | [Te Amo](https://open.spotify.com/album/376vclrFtiKhgh434miOCI) | 2:39 |
 | 97 | [Una Palabra](https://open.spotify.com/track/4QTQxPlV59ZEYJZad66d4X) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [El 7 De La Suerte](https://open.spotify.com/album/5p6nXo6us9G1aTqaHLDJV1) | 2:59 |
-| 98 | [El Privilegio De Quererte](https://open.spotify.com/track/0NXqeBZZb5b3MGU6cadgwP) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Salud Por Nuestro 25 Aniversario](https://open.spotify.com/album/5Y3BvSi0sEk25Mv0YEIsvO) | 3:13 |
-| 99 | [No Te Voy a Engañar](https://open.spotify.com/track/5MqeIXeVi4oMnyrtLFVUVh) | [Raul Vega](https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9) | [No Te Voy a Engañar](https://open.spotify.com/album/491yKJJXDQHzlHB5kLO8aO) | 3:16 |
+| 98 | [No Te Voy a Engañar](https://open.spotify.com/track/5MqeIXeVi4oMnyrtLFVUVh) | [Raul Vega](https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9) | [No Te Voy a Engañar](https://open.spotify.com/album/491yKJJXDQHzlHB5kLO8aO) | 3:16 |
+| 99 | [El Privilegio De Quererte](https://open.spotify.com/track/0NXqeBZZb5b3MGU6cadgwP) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Salud Por Nuestro 25 Aniversario](https://open.spotify.com/album/5Y3BvSi0sEk25Mv0YEIsvO) | 3:13 |
 | 100 | [Un Amor Bonito](https://open.spotify.com/track/5nu0ecZp3nnrKde2xLrMGm) | [Nuevo Elemento](https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N) | [Un Amor Bonito](https://open.spotify.com/album/52cOmMlJmpUr5eODnhGwgh) | 2:21 |
 | 101 | [Nadie Como Tú](https://open.spotify.com/track/6AWPUeVvo3DsWHUaDEfNkY) | [Banda Clave Nueva](https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R) | [Banda \#1's 2016](https://open.spotify.com/album/0SURxtQaxU4uT0FinWDYmk) | 3:22 |
 | 102 | [Me Está Gustando \- Versión 30 Aniversario](https://open.spotify.com/track/7GBmd8JHiZM4Eho1grumW6) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [30 Aniversario](https://open.spotify.com/album/52q5WhmITcyCrhmqHHnjgI) | 2:58 |
-| 103 | [Solamente Tú](https://open.spotify.com/track/7yc1583SLaSHXCOWnrsdM7) | [Los Gfez](https://open.spotify.com/artist/21oKCrUHWbio1GrIP6zpcF) | [Solamente Tú](https://open.spotify.com/album/5c1RVEFFzV9v0SfcRfuQO4) | 3:53 |
-| 104 | [Amor Especial](https://open.spotify.com/track/6rywR3dREdUZMENCmlqCQW) | [6 Doble 7](https://open.spotify.com/artist/4uASG4oYMAOJbP30XK4hmW) | [Amor Especial](https://open.spotify.com/album/0WNJU0mfyRvxyWPqOlOnGU) | 3:35 |
+| 103 | [Amor Especial](https://open.spotify.com/track/6rywR3dREdUZMENCmlqCQW) | [6 Doble 7](https://open.spotify.com/artist/4uASG4oYMAOJbP30XK4hmW) | [Amor Especial](https://open.spotify.com/album/0WNJU0mfyRvxyWPqOlOnGU) | 3:35 |
+| 104 | [Solamente Tú](https://open.spotify.com/track/7yc1583SLaSHXCOWnrsdM7) | [Los Gfez](https://open.spotify.com/artist/21oKCrUHWbio1GrIP6zpcF) | [Solamente Tú](https://open.spotify.com/album/5c1RVEFFzV9v0SfcRfuQO4) | 3:53 |
 | 105 | [El Mejor Perfume](https://open.spotify.com/track/6LBaJdrBpMBb6GMmgFwUPF) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Singles](https://open.spotify.com/album/2H7TFRkGojG9vGK5mLdRUk) | 2:33 |
 | 106 | [Sólo Me Faltabas Tú](https://open.spotify.com/track/2iczDnKcdpfqxzc5fsFcRP) | [Luciano Luna](https://open.spotify.com/artist/57BbKXJtNatw70ug0uOzQq), [Cuitla Vega](https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I) | [Sólo Me Faltabas Tú](https://open.spotify.com/album/2fn1kCf7XoVAZUP2wZRDv5) | 3:30 |
 | 107 | [Ni Yo Me la Creo](https://open.spotify.com/track/2zNVZ7kG8wFNPb5wE4qRBd) | [Jonatan Sanchez](https://open.spotify.com/artist/4RBmbtdnz7QK9ddu4CWz1L) | [Ni Yo Me la Creo](https://open.spotify.com/album/5QmEkyUSOAwp6pQqxPYBwx) | 3:07 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 | 116 | [Broche de Oro](https://open.spotify.com/track/1TLyjsg5KO501z8CBgxaHl) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [10+10](https://open.spotify.com/album/6v6mwOBX5lbL9XTPqKFivJ) | 3:34 |
 | 117 | [Ella Es Mi Mujer](https://open.spotify.com/track/3qUU5im2iV5eWOtkWz6ykQ) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Banda \#1's 2017](https://open.spotify.com/album/0MUo7KxW4ZkYt5pKETaAeO) | 2:43 |
 
-Snapshot ID: `MTY0NDYxMTA5NCwwMDAwMDAwMGU1ZGU1NDAzZTRkYjU1NGJmNTQxMWRjNDQyZDc2NmU4`
+Snapshot ID: `MTY0NDYxMTA5NCwwMDAwMDAwMGQ4YWU5MTBiNTE0YjIxM2QwYjIzNjYxMWNhZGViMjI3`

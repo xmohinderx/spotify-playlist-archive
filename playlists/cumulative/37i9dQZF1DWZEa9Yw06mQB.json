@@ -632,6 +632,24 @@
     },
     {
       "album": {
+        "name": "The Doors",
+        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145866,
+      "name": "Break on Through (To the Other Side)",
+      "url": "https://open.spotify.com/track/6ToM0uwxtPKo9CMpbPGYvM"
+    },
+    {
+      "album": {
         "name": "If You Can Believe Your Eyes & Ears",
         "url": "https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF"
       },
@@ -913,7 +931,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 290960,
       "name": "Cum on Feel the Noize",
       "url": "https://open.spotify.com/track/3vV3cr2TpPqFk07zxYUbla"

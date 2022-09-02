@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 
 > The songs that defined the other side of the 80s\. Cover: Kate Bush
 
-[Spotify](https://open.spotify.com/user/spotify) - 797,271 likes - 80 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 797,799 likes - 80 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 17 | [Town Called Malice](https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [The Gift](https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG) | 2:53 |
 | 18 | [How Soon Is Now? \- 2011 Remaster](https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Hatful of Hollow](https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv) | 6:48 |
 | 19 | [Love Will Tear Us Apart \- 2020 Remaster](https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Love Will Tear Us Apart](https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G) | 3:28 |
-| 20 | [Babooshka \- 2018 Remaster](https://open.spotify.com/track/6VpNGCU2ig4NQmsLfALdJU) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt) | 3:19 |
-| 21 | [Modern Love \- 2018 Remaster](https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance \(2018 Remaster\)](https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV) | 4:48 |
+| 20 | [Modern Love \- 2018 Remaster](https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance \(2018 Remaster\)](https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV) | 4:48 |
+| 21 | [Babooshka \- 2018 Remaster](https://open.spotify.com/track/6VpNGCU2ig4NQmsLfALdJU) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt) | 3:19 |
 | 22 | [Call Me](https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Call Me](https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K) | 3:32 |
 | 23 | [Once in a Lifetime \- 2005 Remaster](https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light \(Deluxe Version\)](https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG) | 4:19 |
 | 24 | [Just like Heaven](https://open.spotify.com/track/76GlO5H5RT6g7y0gev86Nk) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me, Kiss Me, Kiss Me](https://open.spotify.com/album/37Q22g0n9PzBLX6lNddrIa) | 3:32 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 42 | [Enjoy the Silence](https://open.spotify.com/track/4wGSg2Qqpt2sGCWuAZj6EN) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Daniel Miller](https://open.spotify.com/artist/4zvLVP1siaenGVnUBDo2nt), [Phil Legg](https://open.spotify.com/artist/7CXlqxbfckEDH2hQMjrGyZ) | [Violator \| The 12" Singles](https://open.spotify.com/album/6nYdAmB6enE4lKlt4IHuVT) | 4:17 |
 | 43 | [Echo Beach](https://open.spotify.com/track/49wHCjiu34kM3VRgumQ1tJ) | [Martha and the Muffins](https://open.spotify.com/artist/5nWbdgU2jcFSbrPV7EAoLK) | [Metro Music](https://open.spotify.com/album/3XyR0jp0zJGjhLJjnltNaX) | 3:39 |
 | 44 | [Dancing with Tears in My Eyes](https://open.spotify.com/track/3or3oEITvJmMwZRYeWSaen) | [Ultravox](https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI) | [The Collection](https://open.spotify.com/album/3gMzGxXgstsEZEfjdsIwnM) | 4:04 |
-| 45 | [Just Like Honey](https://open.spotify.com/track/1LwP9g1Hjbs64jXM2Qsxry) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Psychocandy \(Expanded Version\)](https://open.spotify.com/album/2t1hVEwp82QebO7lq21Vto) | 3:02 |
-| 46 | [Close to Me \- 2006 Remaster](https://open.spotify.com/track/7ABE6G4uQxbNtYgVrpBBPA) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head on the Door](https://open.spotify.com/album/6HhpmJekzDCRu2K64ZbWqw) | 3:23 |
+| 45 | [Close to Me \- 2006 Remaster](https://open.spotify.com/track/7ABE6G4uQxbNtYgVrpBBPA) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head on the Door](https://open.spotify.com/album/6HhpmJekzDCRu2K64ZbWqw) | 3:23 |
+| 46 | [Just Like Honey](https://open.spotify.com/track/1LwP9g1Hjbs64jXM2Qsxry) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Psychocandy \(Expanded Version\)](https://open.spotify.com/album/2t1hVEwp82QebO7lq21Vto) | 3:02 |
 | 47 | [Fools Gold \- Remastered](https://open.spotify.com/track/2mv6GY70UsHiTCGQZ4JfgC) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 9:54 |
 | 48 | [Tempted](https://open.spotify.com/track/5r2z0FHOoFI06GZEVGDjzM) | [Squeeze](https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua) | [East Side Story](https://open.spotify.com/album/4178w40uOpDld2RnR1ifCy) | 4:00 |
 | 49 | [The Killing Moon](https://open.spotify.com/track/15049rGLXHwrWtE4euUb5C) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Songs to Learn & Sing](https://open.spotify.com/album/0VYyqjM5H2sXj6z8ocAyjb) | 5:46 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 53 | [Genius of Love](https://open.spotify.com/track/6UBQONiLH8kNmmB8UrV2Ef) | [Tom Tom Club](https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo) | [Tom Tom Club](https://open.spotify.com/album/5WKUL88usO5Y8cfbh2EQdu) | 5:34 |
 | 54 | [Voices Carry](https://open.spotify.com/track/0ZYf6N5eBeXStMri0mf3DZ) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Voices Carry \(Expanded Edition\)](https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp) | 4:23 |
 | 55 | [Take Me to the River \- 2005 Remaster](https://open.spotify.com/track/1oV1tu8utgHQjLJsEK9sVl) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [More Songs About Buildings and Food \(Deluxe Version\)](https://open.spotify.com/album/01RJdKvXyz515O37itqMIJ) | 5:02 |
-| 56 | [Pretty in Pink](https://open.spotify.com/track/1K1TFdBh7NrDyKiwiJEmsy) | [The Psychedelic Furs](https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe) | [Talk Talk Talk](https://open.spotify.com/album/2fwQTAo511xnTWUYJ1Gnrh) | 3:58 |
-| 57 | [Are 'Friends' Electric?](https://open.spotify.com/track/3xfOF1wyjUZocifZ5WLeFx) | [Tubeway Army](https://open.spotify.com/artist/6SXZyMIzYNNfZ3NFQc3vtv) | [Replicas](https://open.spotify.com/album/14chsctrt7Rx38fQUbfqFz) | 5:23 |
-| 58 | [Cloudbusting \- 2018 Remaster](https://open.spotify.com/track/0cuMpt0w9ahbhJl0R2fbkY) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:09 |
-| 59 | [Eighties \- 2007 Digital Remaster](https://open.spotify.com/track/21T9lWigjSIMg9uD6ZfRnQ) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Night Time](https://open.spotify.com/album/2qcwXvluk9iFwNNg4eDBXm) | 3:59 |
+| 56 | [Are 'Friends' Electric?](https://open.spotify.com/track/3xfOF1wyjUZocifZ5WLeFx) | [Tubeway Army](https://open.spotify.com/artist/6SXZyMIzYNNfZ3NFQc3vtv) | [Replicas](https://open.spotify.com/album/14chsctrt7Rx38fQUbfqFz) | 5:23 |
+| 57 | [Pretty in Pink](https://open.spotify.com/track/1K1TFdBh7NrDyKiwiJEmsy) | [The Psychedelic Furs](https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe) | [Talk Talk Talk](https://open.spotify.com/album/2fwQTAo511xnTWUYJ1Gnrh) | 3:58 |
+| 58 | [Eighties \- 2007 Digital Remaster](https://open.spotify.com/track/21T9lWigjSIMg9uD6ZfRnQ) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Night Time](https://open.spotify.com/album/2qcwXvluk9iFwNNg4eDBXm) | 3:59 |
+| 59 | [Cloudbusting \- 2018 Remaster](https://open.spotify.com/track/0cuMpt0w9ahbhJl0R2fbkY) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:09 |
 | 60 | [Don't Change](https://open.spotify.com/track/6ck0CGe9BN9gW5oMmzbhs9) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Shabooh Shoobah](https://open.spotify.com/album/3Amln0PtCGwm5RfM4hdDBI) | 4:26 |
 | 61 | [I Will Follow \- Remastered 2008](https://open.spotify.com/track/0T702y9ndzZTnPq1bqiAM2) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Boy \(Deluxe Edition Remastered\)](https://open.spotify.com/album/4YCjEFs1aDmcilTMbqMwjY) | 3:37 |
 | 62 | [Gigantic \- Remastered](https://open.spotify.com/track/5G2g1EbEtFSMkMbAnhl7FV) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa](https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9) | 3:55 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 79 | [Love Action \(I Believe In Love\)](https://open.spotify.com/track/5RBPXlIiZVrr8hab7LpRJB) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 5:01 |
 | 80 | [Love Plus One](https://open.spotify.com/track/4vwLjB2NRtl9b34jRe6cWd) | [Haircut 100](https://open.spotify.com/artist/6imyM8T1Xbe8v2iZe41dR7) | [Pelican West Plus](https://open.spotify.com/album/6VIiHu2RCwWo4151YCG7ND) | 3:32 |
 
-Snapshot ID: `MTY1Mzk0MTg0NiwwMDAwMDAwMDgxOWZlMjQ2MWM2NjNjZGVhODg2MjdmZGFiODY3MzEw`
+Snapshot ID: `MTY1Mzk0MTg0NiwwMDAwMDAwMGNjYzYzOWRkNjhjY2MwNTcyMjFlYzcxOTMwODc2MWVm`

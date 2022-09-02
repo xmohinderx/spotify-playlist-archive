@@ -4463,7 +4463,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 202533,
       "name": "FOREVER 1",
       "url": "https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg"
@@ -9323,7 +9323,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 211739,
       "name": "Oklahoma Smokeshow",
       "url": "https://open.spotify.com/track/0OWhKvvsHptt6vnnNUSM9a"
@@ -10147,7 +10147,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 195714,
       "name": "RAGNAROK",
       "url": "https://open.spotify.com/track/1sWb35nydLCjD71JGURDEv"
@@ -10822,6 +10822,28 @@
     },
     {
       "album": {
+        "name": "SHADOW",
+        "url": "https://open.spotify.com/album/4w0uRvtIjqipuoZ7ngqqcV"
+      },
+      "artists": [
+        {
+          "name": "ONIMXRU",
+          "url": "https://open.spotify.com/artist/3ysIyoivMDpeqLg0VMRPQw"
+        },
+        {
+          "name": "SMITHMANE",
+          "url": "https://open.spotify.com/artist/5WOke44Ea57bHmJ3X0qluG"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162041,
+      "name": "SHADOW",
+      "url": "https://open.spotify.com/track/0wGbyS1tExQSwOYu6UceyE"
+    },
+    {
+      "album": {
         "name": "Shake",
         "url": "https://open.spotify.com/album/7BSiE2JZ3ERoOtA7FP7nxA"
       },
@@ -11413,7 +11435,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-30",
+      "date_removed": null,
       "duration_ms": 228013,
       "name": "Something in the Orange",
       "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
@@ -12209,6 +12231,24 @@
       "duration_ms": 407533,
       "name": "The Batman",
       "url": "https://open.spotify.com/track/4j4rlgZJTod9nzA3eFmZEP"
+    },
+    {
+      "album": {
+        "name": "Alone At Prom",
+        "url": "https://open.spotify.com/album/5Gm2XKBgnlzd6qTi7LE1z2"
+      },
+      "artists": [
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226466,
+      "name": "The Color Violet",
+      "url": "https://open.spotify.com/track/3azJifCSqg9fRij2yKIbWz"
     },
     {
       "album": {
@@ -13465,7 +13505,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 132133,
       "name": "W.I.T.C.H.",
       "url": "https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq"
@@ -14427,6 +14467,24 @@
       "duration_ms": 304440,
       "name": "You Took the Words Right Out of My Mouth (Hot Summer Night)",
       "url": "https://open.spotify.com/track/1pwrk7g0CuWEyhcFEN72pv"
+    },
+    {
+      "album": {
+        "name": "you were there for me",
+        "url": "https://open.spotify.com/album/1UIQIGA87GXO6Or60s73cV"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195365,
+      "name": "you were there for me",
+      "url": "https://open.spotify.com/track/0C3shWEOObGT5IxApC7Mkg"
     },
     {
       "album": {

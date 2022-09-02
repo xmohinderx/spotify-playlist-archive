@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 
 > Expand your mind with these psychedelic rock treasures\. Cover: The Doors
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,000,827 likes - 75 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 999,985 likes - 75 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 | 69 | [Incense And Peppermints](https://open.spotify.com/track/20MBLB1TCm3tQK3XZlHXTK) | [Strawberry Alarm Clock](https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI) | [Incense & Peppermints](https://open.spotify.com/album/5hGwwc1svsrzpCUlnP84F5) | 2:49 |
 | 70 | [5D \(Fifth Dimension\)](https://open.spotify.com/track/7jvptnW3PMozIQq4C6uJB9) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Fifth Dimension](https://open.spotify.com/album/3dfPMayEO2G87wzXPMEvmb) | 2:33 |
 | 71 | [Morning Sunshine](https://open.spotify.com/track/6Nny1WrFpBvhgbqHhI4j0W) | [The Idle Race](https://open.spotify.com/artist/04eUV5Ml7cff2sEJEwll6G) | [Back To The Story](https://open.spotify.com/album/5678hRmz2whvG6ttxmlGYW) | 1:48 |
-| 72 | [My Woman's Head](https://open.spotify.com/track/6DZWfBmnJMsHnwzTWTL3iV) | [Sly Stone & The Mojo Men](https://open.spotify.com/artist/6ihpa5zgHEYPbYr27mSAuj) | [Sly Stone & The Mojo Men](https://open.spotify.com/album/1v7g2I7epACiji9krdyOhH) | 3:01 |
-| 73 | [Flight of the Psychedelic Bumble Bee](https://open.spotify.com/track/27aeWRq1h65omUnS16hciN) | [The Peanut Butter Conspiracy](https://open.spotify.com/artist/1mUgTcokhM7BSqp8mXhy8U) | [Spreading from the Ashes](https://open.spotify.com/album/4szjmnQyAMKfYA509zvLyc) | 2:02 |
+| 72 | [Flight of the Psychedelic Bumble Bee](https://open.spotify.com/track/27aeWRq1h65omUnS16hciN) | [The Peanut Butter Conspiracy](https://open.spotify.com/artist/1mUgTcokhM7BSqp8mXhy8U) | [Spreading from the Ashes](https://open.spotify.com/album/4szjmnQyAMKfYA509zvLyc) | 2:02 |
+| 73 | [My Woman's Head](https://open.spotify.com/track/6DZWfBmnJMsHnwzTWTL3iV) | [Sly Stone & The Mojo Men](https://open.spotify.com/artist/6ihpa5zgHEYPbYr27mSAuj) | [Sly Stone & The Mojo Men](https://open.spotify.com/album/1v7g2I7epACiji9krdyOhH) | 3:01 |
 | 74 | [Sit With The Guru](https://open.spotify.com/track/0PKrvcdX7PUgubTWn0LDQ7) | [Strawberry Alarm Clock](https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI) | [Wake Up...It's Tomorrow](https://open.spotify.com/album/4DWojULyo8xC7cRB5QjKMm) | 3:02 |
 | 75 | [Bracelets Of Fingers](https://open.spotify.com/track/6g6N0HhdpogmRlBKNMZJFj) | [The Pretty Things](https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO) | [S.F\. Sorrow](https://open.spotify.com/album/5IIB3xh53eRBpkkktSFQbc) | 3:41 |
 
-Snapshot ID: `MTY2MDc0NTg0NSwwMDAwMDAwMDIyYTI5ZjVlY2M3NjcxZjQ5YTJiMTQ0MzFiYTE2NTY3`
+Snapshot ID: `MTY2MDc0NTg0NSwwMDAwMDAwMDk4NDE2Y2M3NGMxNWM4YzczYjY4MDU1YzY0Y2Y0YWVm`

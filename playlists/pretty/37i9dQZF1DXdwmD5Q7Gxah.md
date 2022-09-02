@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > because a little left of center is best\. cover: grandma
 
-[Spotify](https://open.spotify.com/user/spotify) - 928,769 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 928,431 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi) | 2:21 |
+| 1 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/0GxWXE6ltKk4Gx3WyWLLrW) | 2:21 |
 | 2 | [Landslide](https://open.spotify.com/track/7KV3NYtvmiK2ctNUmx6adR) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Landslide](https://open.spotify.com/album/7hAhqGIOTDSlXq6R0wKqvw) | 3:30 |
 | 3 | [All You Do](https://open.spotify.com/track/3TR91cx8KHmuT6w54Zv3TZ) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [All You Do](https://open.spotify.com/album/1Gl26ZjmMEOZdutBjxiTCd) | 4:28 |
 | 4 | [Crown](https://open.spotify.com/track/0eejiUWdzDJ0dmy5xpzmId) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Crown](https://open.spotify.com/album/3U4yJ1rULRDNhQweRGVs3L) | 3:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 99 | [all i ever wanted \(was you\)](https://open.spotify.com/track/3Lq24mWk6irXyj6CBccvjV) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [all i ever wanted \(was you\)](https://open.spotify.com/album/3Z4Xf5uITELZqCZhD6QGbp) | 2:30 |
 | 100 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 |
 
-Snapshot ID: `MTY2MTQ4ODgzNCwwMDAwMDAwMDZhZGRkNTgyNTJhOGEwZDMwNmU2ZjAwN2I0ZDIzNDM3`
+Snapshot ID: `MTY2MTQ4ODgzNCwwMDAwMDAwMGQxYWJmNDRlM2QwODY3MTY4NDA3YTVhOGUzMWNhOWM3`

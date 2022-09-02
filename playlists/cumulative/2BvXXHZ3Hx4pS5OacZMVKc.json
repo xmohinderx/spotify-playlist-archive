@@ -312,6 +312,28 @@
     },
     {
       "album": {
+        "name": "Blame It On Me",
+        "url": "https://open.spotify.com/album/7iJ9URmWTk2Yy6DG941ZY5"
+      },
+      "artists": [
+        {
+          "name": "Cadmium",
+          "url": "https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy"
+        },
+        {
+          "name": "Shiah Maisel",
+          "url": "https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Blame It On Me",
+      "url": "https://open.spotify.com/track/4v7GciNsOxRYSgkEsaFjn7"
+    },
+    {
+      "album": {
         "name": "Bot Fight",
         "url": "https://open.spotify.com/album/03XCiMYaPTpQs5ntaHG3Hg"
       },

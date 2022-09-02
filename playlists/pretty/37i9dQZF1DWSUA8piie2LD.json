@@ -1,12 +1,12 @@
 {
   "description": "The smoothest of smooth jazz for your romantic evening.",
-  "num_followers": 38358,
+  "num_followers": 38468,
   "original_name": "Romantic Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg1NjEzOSwwMDAwMDAwMDQzMjc2ZTJmMDk5ZDBjZmQ3MTUxN2VlMzcwMDJiMjY3",
+  "snapshot_id": "MTY2MTg1NjEzOSwwMDAwMDAwMDcwNWNjMWJjMGNhMWUzM2JhOWJiNzBiMWExNmMxYmVk",
   "tracks": [
     {
       "added_at": "2022-08-30 10:42:19",
@@ -203,22 +203,6 @@
     {
       "added_at": "2022-08-30 10:42:19",
       "album": {
-        "name": "GK",
-        "url": "https://open.spotify.com/album/4BBTNvkhpqgAItRxEHmNeu"
-      },
-      "artists": [
-        {
-          "name": "Gregg Karukas",
-          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
-        }
-      ],
-      "duration_ms": 287840,
-      "name": "Floating in Bahia",
-      "url": "https://open.spotify.com/track/1BqqbWS4ODVIztjF5GLHXM"
-    },
-    {
-      "added_at": "2022-08-30 10:42:19",
-      "album": {
         "name": "Caravan Of Dreams",
         "url": "https://open.spotify.com/album/55QEhe7Ecp7yZLgaVobo4X"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 360160,
       "name": "Caravan of Dreams",
       "url": "https://open.spotify.com/track/6Uob2aJYqcqPv5Z2BigRg6"
+    },
+    {
+      "added_at": "2022-08-30 10:42:19",
+      "album": {
+        "name": "GK",
+        "url": "https://open.spotify.com/album/4BBTNvkhpqgAItRxEHmNeu"
+      },
+      "artists": [
+        {
+          "name": "Gregg Karukas",
+          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
+        }
+      ],
+      "duration_ms": 287840,
+      "name": "Floating in Bahia",
+      "url": "https://open.spotify.com/track/1BqqbWS4ODVIztjF5GLHXM"
     },
     {
       "added_at": "2022-08-30 10:42:19",
@@ -287,22 +287,6 @@
     {
       "added_at": "2022-08-30 10:42:19",
       "album": {
-        "name": "Personal Touch",
-        "url": "https://open.spotify.com/album/216P40TI4bEO6qLkDmnni3"
-      },
-      "artists": [
-        {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
-        }
-      ],
-      "duration_ms": 224626,
-      "name": "Personal Touch",
-      "url": "https://open.spotify.com/track/5xwCm9tEVl3FAXqnWZfmp3"
-    },
-    {
-      "added_at": "2022-08-30 10:42:19",
-      "album": {
         "name": "Love's Melody",
         "url": "https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM"
       },
@@ -319,6 +303,22 @@
     {
       "added_at": "2022-08-30 10:42:19",
       "album": {
+        "name": "Personal Touch",
+        "url": "https://open.spotify.com/album/216P40TI4bEO6qLkDmnni3"
+      },
+      "artists": [
+        {
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+        }
+      ],
+      "duration_ms": 224626,
+      "name": "Personal Touch",
+      "url": "https://open.spotify.com/track/5xwCm9tEVl3FAXqnWZfmp3"
+    },
+    {
+      "added_at": "2022-08-30 10:42:19",
+      "album": {
         "name": "Sweet Thing",
         "url": "https://open.spotify.com/album/1we21be2R4o56iwheyKMxE"
       },
@@ -331,22 +331,6 @@
       "duration_ms": 234733,
       "name": "Sweet Thing",
       "url": "https://open.spotify.com/track/3M44mD2haxaLsG6chVL9l1"
-    },
-    {
-      "added_at": "2022-08-30 10:42:19",
-      "album": {
-        "name": "Glow",
-        "url": "https://open.spotify.com/album/414uzeqYmcEiQ42Gy5Kyif"
-      },
-      "artists": [
-        {
-          "name": "Peter White",
-          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
-        }
-      ],
-      "duration_ms": 270773,
-      "name": "Who's That Lady",
-      "url": "https://open.spotify.com/track/5tuPqvXQw7SJwuX78R9pB2"
     },
     {
       "added_at": "2022-08-30 10:42:19",
@@ -379,6 +363,22 @@
       "duration_ms": 257373,
       "name": "Here With You",
       "url": "https://open.spotify.com/track/1c9sIJVZwmLisjzlFav2Ff"
+    },
+    {
+      "added_at": "2022-08-30 10:42:19",
+      "album": {
+        "name": "Glow",
+        "url": "https://open.spotify.com/album/414uzeqYmcEiQ42Gy5Kyif"
+      },
+      "artists": [
+        {
+          "name": "Peter White",
+          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
+        }
+      ],
+      "duration_ms": 270773,
+      "name": "Who's That Lady",
+      "url": "https://open.spotify.com/track/5tuPqvXQw7SJwuX78R9pB2"
     },
     {
       "added_at": "2022-08-30 10:42:19",
@@ -463,18 +463,18 @@
     {
       "added_at": "2022-08-30 10:42:19",
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/5PwNZ6tn2ygErc1rISjsNc"
+        "name": "It's All Good",
+        "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
       },
       "artists": [
         {
-          "name": "Brian Culbertson",
-          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
         }
       ],
-      "duration_ms": 269173,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/1oFONPY1hZ7CUliqjNBYCR"
+      "duration_ms": 326213,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/2v9hQceHtGZdE4WbTFdhWM"
     },
     {
       "added_at": "2022-08-30 10:42:19",
@@ -491,6 +491,22 @@
       "duration_ms": 326053,
       "name": "S7ven Large",
       "url": "https://open.spotify.com/track/2kPNYomaQbtevw21YarPiu"
+    },
+    {
+      "added_at": "2022-08-30 10:42:19",
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/5PwNZ6tn2ygErc1rISjsNc"
+      },
+      "artists": [
+        {
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+        }
+      ],
+      "duration_ms": 269173,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/1oFONPY1hZ7CUliqjNBYCR"
     },
     {
       "added_at": "2022-08-30 10:42:19",
@@ -523,22 +539,6 @@
       "duration_ms": 254266,
       "name": "Soul Dance",
       "url": "https://open.spotify.com/track/2ZKdcqyDje4i0PtjCrPkrf"
-    },
-    {
-      "added_at": "2022-08-30 10:42:19",
-      "album": {
-        "name": "It's All Good",
-        "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
-      },
-      "artists": [
-        {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
-        }
-      ],
-      "duration_ms": 326213,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/2v9hQceHtGZdE4WbTFdhWM"
     },
     {
       "added_at": "2022-08-30 10:42:19",
@@ -795,22 +795,18 @@
     {
       "added_at": "2022-08-30 10:42:19",
       "album": {
-        "name": "Out Of A Dream",
-        "url": "https://open.spotify.com/album/3e1fT9twS7LjpTQdtqGNDN"
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/3O6pouh9bYPTnzzpl1ssPI"
       },
       "artists": [
         {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
-        },
-        {
-          "name": "Dave Koz",
-          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+          "name": "Fourplay",
+          "url": "https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS"
         }
       ],
-      "duration_ms": 233042,
-      "name": "When I Say Your Name",
-      "url": "https://open.spotify.com/track/4VvmZr5VeluMwzK71PL1vr"
+      "duration_ms": 340386,
+      "name": "Fields of Gold",
+      "url": "https://open.spotify.com/track/0f8lc6QabkwdZ89O2qRXkp"
     },
     {
       "added_at": "2022-08-30 10:42:19",
@@ -847,6 +843,26 @@
     {
       "added_at": "2022-08-30 10:42:19",
       "album": {
+        "name": "Out Of A Dream",
+        "url": "https://open.spotify.com/album/3e1fT9twS7LjpTQdtqGNDN"
+      },
+      "artists": [
+        {
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        },
+        {
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+        }
+      ],
+      "duration_ms": 233042,
+      "name": "When I Say Your Name",
+      "url": "https://open.spotify.com/track/4VvmZr5VeluMwzK71PL1vr"
+    },
+    {
+      "added_at": "2022-08-30 10:42:19",
+      "album": {
         "name": "Can You Feel It",
         "url": "https://open.spotify.com/album/77ELqjPSPIZRplbz2T2IGs"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 335045,
       "name": "Silk",
       "url": "https://open.spotify.com/track/1KXOfTQldUODRAqM6cFyOd"
-    },
-    {
-      "added_at": "2022-08-30 10:42:19",
-      "album": {
-        "name": "Journey",
-        "url": "https://open.spotify.com/album/3O6pouh9bYPTnzzpl1ssPI"
-      },
-      "artists": [
-        {
-          "name": "Fourplay",
-          "url": "https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS"
-        }
-      ],
-      "duration_ms": 340386,
-      "name": "Fields of Gold",
-      "url": "https://open.spotify.com/track/0f8lc6QabkwdZ89O2qRXkp"
     },
     {
       "added_at": "2022-08-30 10:42:19",
@@ -911,18 +911,18 @@
     {
       "added_at": "2022-08-30 10:42:19",
       "album": {
-        "name": "Songs From The Night Before",
-        "url": "https://open.spotify.com/album/1qABZigBQzuvHXnvjfcLCe"
+        "name": "Soul Express",
+        "url": "https://open.spotify.com/album/69nPaDqMk2Nyy5V77STGdH"
       },
       "artists": [
         {
-          "name": "David Sanborn",
-          "url": "https://open.spotify.com/artist/7vNcTk9TgKF0qDsS87nWGE"
+          "name": "Chris Standring",
+          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
         }
       ],
-      "duration_ms": 303680,
-      "name": "Rikke",
-      "url": "https://open.spotify.com/track/1wvb7JFKm9QeLJ7VNRmncw"
+      "duration_ms": 278666,
+      "name": "Soul Express",
+      "url": "https://open.spotify.com/track/6j9WWYS5j00w1MltPhTlH3"
     },
     {
       "added_at": "2022-08-30 10:42:19",
@@ -943,18 +943,18 @@
     {
       "added_at": "2022-08-30 10:42:19",
       "album": {
-        "name": "Soul Express",
-        "url": "https://open.spotify.com/album/69nPaDqMk2Nyy5V77STGdH"
+        "name": "Songs From The Night Before",
+        "url": "https://open.spotify.com/album/1qABZigBQzuvHXnvjfcLCe"
       },
       "artists": [
         {
-          "name": "Chris Standring",
-          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
+          "name": "David Sanborn",
+          "url": "https://open.spotify.com/artist/7vNcTk9TgKF0qDsS87nWGE"
         }
       ],
-      "duration_ms": 278666,
-      "name": "Soul Express",
-      "url": "https://open.spotify.com/track/6j9WWYS5j00w1MltPhTlH3"
+      "duration_ms": 303680,
+      "name": "Rikke",
+      "url": "https://open.spotify.com/track/1wvb7JFKm9QeLJ7VNRmncw"
     },
     {
       "added_at": "2022-08-30 10:42:19",

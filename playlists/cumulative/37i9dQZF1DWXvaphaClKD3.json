@@ -4014,6 +4014,24 @@
     },
     {
       "album": {
+        "name": "Tres Consejos",
+        "url": "https://open.spotify.com/album/3SDCasjHgSnA193yuMcjxR"
+      },
+      "artists": [
+        {
+          "name": "Guadalupe Pineda",
+          "url": "https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Tres Consejos",
+      "url": "https://open.spotify.com/track/3digP1bKVvQO0KB6CmBaGO"
+    },
+    {
+      "album": {
         "name": "T\u00fa",
         "url": "https://open.spotify.com/album/4TUEkxc5O0h7m18HcBR7wI"
       },

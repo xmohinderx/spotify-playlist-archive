@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IlXDVSi4zz.md) - [plain]
 
 > Dance the night away and just blame it on Tulum!
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,994 likes - 55 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,416 likes - 55 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IlXDVSi4zz.md) - [plain]
 | 12 | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO) | 2:46 |
 | 13 | [Your Love \(9PM\)](https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Your Love \(9PM\)](https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b) | 2:30 |
 | 14 | [Love Tonight \- Edit](https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Love Tonight](https://open.spotify.com/album/5KXv2MHeoLSqZ96jRuFF9H) | 4:01 |
-| 15 | [Breaking Me](https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Breaking Me](https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn) | 2:46 |
-| 16 | [Lose Control](https://open.spotify.com/track/7CHi4DtfK4heMlQaudCuHK) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Lose Control](https://open.spotify.com/album/1qSOaTvsCOyFJya3v1UzkP) | 2:48 |
+| 15 | [Lose Control](https://open.spotify.com/track/7CHi4DtfK4heMlQaudCuHK) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Lose Control](https://open.spotify.com/album/1qSOaTvsCOyFJya3v1UzkP) | 2:48 |
+| 16 | [Breaking Me](https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Breaking Me](https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn) | 2:46 |
 | 17 | [Dancin \(feat\. Luvli\) \- Krono Remix](https://open.spotify.com/track/6WkJ2OK163XXS2oARUC9JM) | [Aaron Smith](https://open.spotify.com/artist/77qukKzmdI5BeMBR7WGUrN), [Krono](https://open.spotify.com/artist/17TFSnqADESRM8BPSaM5aB), [Luvli](https://open.spotify.com/artist/6dqohi36avY0M9urnyhITr) | [Dancin \(feat\. Luvli\) \[Krono Remix\]](https://open.spotify.com/album/2J2f6vGACFrRghO1Ki74BE) | 3:18 |
 | 18 | [Lady \- Hear Me Tonight](https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6) | [Modjo](https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0) | [Modjo \(Remastered\)](https://open.spotify.com/album/0vwDxngkhZuwNbcxzebCXI) | 5:07 |
 | 19 | [Sex & Love](https://open.spotify.com/track/3ylhgzhvSICQcyv0U3Ozwv) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Portales](https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx) | 2:25 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IlXDVSi4zz.md) - [plain]
 | 54 | [No Man No Cry \- Jimmy Sax Version](https://open.spotify.com/track/426lDtGrejS1wga7gmAmDv) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Jimmy Sax](https://open.spotify.com/artist/3HUXmgW0AIko5psVtQmqWE) | [No Man No Cry \(Jimmy Sax Version\)](https://open.spotify.com/album/6b5NUXA1oqqHew4DGFykRR) | 6:59 |
 | 55 | [Nirvana](https://open.spotify.com/track/5zEAGm4yKQ8NMemN0m3rW1) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Nirvana](https://open.spotify.com/album/4VrGw3dww2O6U0hZTXOHae) | 2:37 |
 
-Snapshot ID: `MTY2MDk2MjI0OSwwMDAwMDAwMDE1MmY2MDBkNjYxYzNlNDBkY2M4MWU0MDEyYzVkZGE5`
+Snapshot ID: `MTY2MDk2MjI0OSwwMDAwMDAwMGQ3NWM0YjAyNGMzOThkYWJiM2EwOGZhY2MwMGZkMmMx`

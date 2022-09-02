@@ -4,7 +4,7 @@
 
 > Beat the traffic blues with these killer tunes.
 
-99 songs - 5 hr 3 min - [published](https://open.spotify.com/playlist/58LDkLtnAZW2SWAYqFauit)
+100 songs - 5 hr 7 min - [published](https://open.spotify.com/playlist/58LDkLtnAZW2SWAYqFauit)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Hypertension](https://open.spotify.com/track/5lLwFE3fCAQllnPLsKtFP9) | [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf) | [Hypertension / Things I Need](https://open.spotify.com/album/0m1x1G5kxXmN4cvqF75A7q) | 3:17 | 2022-08-12 |  |
 | [i'm a mess](https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:33 | 2022-07-14 |  |
 | [Jane](https://open.spotify.com/track/7hyx7lEMBsMHgSYVNCDW2y) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Jane](https://open.spotify.com/album/7kjDusgZHn05WZuo2Xlww0) | 3:22 | 2022-08-25 |  |
-| [Je M'appelle \(feat\. DaVido\)](https://open.spotify.com/track/45JfxtSUnkb9e4r0MBYqfK) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Je M'appelle \(feat\. DaVido\)](https://open.spotify.com/album/56qzuXPxeJKnmmOlZFQeUo) | 2:44 | 2022-06-09 |  |
+| [Je M'appelle \(feat\. DaVido\)](https://open.spotify.com/track/45JfxtSUnkb9e4r0MBYqfK) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Je M'appelle \(feat\. DaVido\)](https://open.spotify.com/album/56qzuXPxeJKnmmOlZFQeUo) | 2:44 | 2022-06-09 | 2022-09-02 |
 | [Kaba](https://open.spotify.com/track/5LXGba7dYrvcLBTVADEOZA) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Kaba](https://open.spotify.com/album/6a7Uj2S1gntFbfKvR4EHuO) | 2:51 | 2022-07-28 |  |
 | [Knee Down](https://open.spotify.com/track/3ovSaVUTDOtxfDw5xh9qJ4) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [B A H D](https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8) | 2:27 | 2022-08-05 |  |
 | [Kwaku the Traveller](https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Kwaku the Traveller](https://open.spotify.com/album/4ftrG1ro4ObsbNDKkYaZBR) | 3:05 | 2022-06-09 |  |
@@ -61,6 +61,7 @@
 | [Little \(Love I Love\)](https://open.spotify.com/track/6GUMUz1H9nIxo1UiEXYQS0) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [LITTLE & LEGENDARY](https://open.spotify.com/album/4oHJ6JejDytkQ5b9GUSohI) | 2:31 | 2022-06-23 |  |
 | [Lokoto Riddim](https://open.spotify.com/track/7eJFM6oO1wWj3K3XsTtBV9) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Lokoto Riddim](https://open.spotify.com/album/0nMh9jzd86LakvmyHwkUjY) | 3:07 | 2022-06-30 | 2022-08-07 |
 | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT) | 2:27 | 2022-06-09 |  |
+| [Love, Today](https://open.spotify.com/track/1LoCwW6zCCmuLxDU8p06Q8) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Ladipo Eso](https://open.spotify.com/artist/6SL7pR1T6IQZVxxrovKRut) | [Don't Look Down!](https://open.spotify.com/album/6DEAfTTihu0p1nNkti8Bn0) | 3:26 | 2022-09-01 |  |
 | [Machala](https://open.spotify.com/track/2GiyNwLCSfXjsb1nwAg1Sq) | [Carterefe](https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Machala](https://open.spotify.com/album/2wzBXrWlqM29fbmKCT7J0I) | 2:34 | 2022-08-08 |  |
 | [Majo \(feat\. Wizkid, Alpha P and Tay Iwar\)](https://open.spotify.com/track/0KLY7SCQuVA4Hk1nzk61p4) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Alpha P](https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Majo \(feat\. Wizkid, Alpha P and Tay Iwar\)](https://open.spotify.com/album/3Rz3SAnhOnXaf2llHOBDCo) | 2:33 | 2022-08-25 |  |
 | [Mon Bebe](https://open.spotify.com/track/2QQk94CGXfsO5J6k6im7Jw) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [The Golden Boy](https://open.spotify.com/album/7sX992U7KTu4up4jW1LEPX) | 2:31 | 2022-06-09 |  |

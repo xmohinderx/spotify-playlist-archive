@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lrJMke0u5G.md) - [plain]
 
 > ¡Vuelve el Cosquín Rock! 12 y 13 de Febrero, Aeródromo Santa María de Punilla, Córdoba.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,038 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,049 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,13 +51,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lrJMke0u5G.md) - [plain]
 | 41 | [Primavera](https://open.spotify.com/track/37lZKUqakqzVbbAEERiJlM) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [MILLONES](https://open.spotify.com/album/5ZPDl7OMRFK0TwV3syXaGA) | 3:52 |
 | 42 | [Eres Para Mí](https://open.spotify.com/track/7ppEc3lFu3nudWCW5ypQGG) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Yesan 雪山](https://open.spotify.com/artist/6pJPxDgaE0H343SrASnY9J), [Percii](https://open.spotify.com/artist/3Yo0r3OCG4QOTtRl8gThfd) | [Eres Para Mí](https://open.spotify.com/album/7JuFM0b8eP6FGTVvyQMfNP) | 2:54 |
 | 43 | [Nene de Antes](https://open.spotify.com/track/0VZpqCugL1y5mBGPkw0foP) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Gol De Mujer](https://open.spotify.com/album/5qNbbDBwCJn5haKSWxsBJS) | 4:10 |
-| 44 | [Si Supieras \- En Vivo en el Luna Park](https://open.spotify.com/track/1aYjTQMHRpyhu0Yv0HBZuV) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Vivo](https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o) | 3:58 |
-| 45 | [Esperanza](https://open.spotify.com/track/7MXNsAVPAK4pb0AeWvvPFc) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G) | [Esperanza](https://open.spotify.com/album/2pMJmuVitL0aZ1FdLp6jvg) | 2:56 |
+| 44 | [Esperanza](https://open.spotify.com/track/7MXNsAVPAK4pb0AeWvvPFc) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G) | [Esperanza](https://open.spotify.com/album/2pMJmuVitL0aZ1FdLp6jvg) | 2:56 |
+| 45 | [Si Supieras \- En Vivo en el Luna Park](https://open.spotify.com/track/1aYjTQMHRpyhu0Yv0HBZuV) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Vivo](https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o) | 3:58 |
 | 46 | [Water](https://open.spotify.com/track/3RCxWl2N0lPx83c7PPRmxW) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la) | [Water](https://open.spotify.com/album/3qdQV2P5OM19g675aZkRlQ) | 3:10 |
 | 47 | [Terminales](https://open.spotify.com/track/1x2uQwwfW59xIdKpPGOLKW) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [A Mil](https://open.spotify.com/album/2InkYfFJSLS5cIXt74tenM) | 3:21 |
 | 48 | [Funeral](https://open.spotify.com/track/1ueLYdeuGMAwUiaezLDObD) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [Funeral](https://open.spotify.com/album/3hykNzTPJLYxvNxY4gGvHk) | 3:41 |
-| 49 | [International Love](https://open.spotify.com/track/2O282x8rik9PMihQAx6bAq) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [International Love](https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48) | 4:06 |
-| 50 | [Ganas](https://open.spotify.com/track/54JWFISolUGIbtNeANGp2B) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Mi Primer Día Triste](https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo) | 4:14 |
+| 49 | [Ganas](https://open.spotify.com/track/54JWFISolUGIbtNeANGp2B) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Mi Primer Día Triste](https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo) | 4:14 |
+| 50 | [International Love](https://open.spotify.com/track/2O282x8rik9PMihQAx6bAq) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [International Love](https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48) | 4:06 |
 | 51 | [Potra](https://open.spotify.com/track/1DIBkKqsREnKgxpZ5RJjRf) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [Nafta](https://open.spotify.com/album/4yl3UNCVcTf287qlknLxVl) | 4:17 |
 | 52 | [En Avenidas](https://open.spotify.com/track/5GgmtaUrV9qk6aBTbcupcd) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Ruli](https://open.spotify.com/album/3V7wGsYWEcD97RsKgIFZJq) | 3:15 |
 | 53 | [El Riesgo](https://open.spotify.com/track/7E6ljIUVDjlka1cNGnVg1F) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Devorando Intensidad](https://open.spotify.com/album/16ycW7h7bErtyFt9CI5BN8) | 4:28 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lrJMke0u5G.md) - [plain]
 | 59 | [Será \- En Vivo en el Luna Park](https://open.spotify.com/track/4ZvzXdqYc6vGtkCyOhnoTz) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Vivo](https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o) | 2:52 |
 | 60 | [Precipicio](https://open.spotify.com/track/13oGKDy4OSNNW8PvpDOoxb) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Lavandina](https://open.spotify.com/album/60kgxaYtVgEZdMhY8lWarw) | 4:59 |
 | 61 | [Lindos Problemas](https://open.spotify.com/track/414ts7HIQUC1e8cQ4OwiCJ) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [La Negación](https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2) | 2:57 |
-| 62 | [Paranoia Pop](https://open.spotify.com/track/5BOg9CZMk1nWNMkklZ0Boy) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp), [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [Paranoia Pop](https://open.spotify.com/album/6C64Uw0fiwqH3aUPZr9Hsv) | 3:52 |
-| 63 | [Perdido](https://open.spotify.com/track/5S7k88yKKQe2sPPvpZnH3R) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Al Parecer Todo Ha Sido una Trampa](https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q) | 4:07 |
+| 62 | [Perdido](https://open.spotify.com/track/5S7k88yKKQe2sPPvpZnH3R) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Al Parecer Todo Ha Sido una Trampa](https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q) | 4:07 |
+| 63 | [Paranoia Pop](https://open.spotify.com/track/5BOg9CZMk1nWNMkklZ0Boy) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp), [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [Paranoia Pop](https://open.spotify.com/album/6C64Uw0fiwqH3aUPZr9Hsv) | 3:52 |
 | 64 | [El Marginal](https://open.spotify.com/track/0R2271joKqIt1utuHQbQ4w) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [El Marginal](https://open.spotify.com/album/1SrbhByvhomAAURiA7MLRa) | 3:08 |
 | 65 | [Aves Migratorias](https://open.spotify.com/track/5Y7Lt08Xc885tzG5kKTZ4u) | [Skay Beilinson](https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED) | [¿Dónde Vas?](https://open.spotify.com/album/05R00CcrMgbTSOh8HZYcnZ) | 3:22 |
 | 66 | [Tráfico por Katmandú](https://open.spotify.com/track/4CP1f7aNCp3cJ3CKAl3XY0) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después del Amor](https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5) | 4:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lrJMke0u5G.md) - [plain]
 | 99 | [Paisano De Hurlingham](https://open.spotify.com/track/76Ljrd2GAJsHi7CHvZQS26) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Serie Oro](https://open.spotify.com/album/0wys34onwdNHLCTZWLjLt8) | 3:58 |
 | 100 | [Banda de Garage \- Antes \- Ferro 2014 en Vivo](https://open.spotify.com/track/6VeDyMhky3csClQ1jABaCB) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Qué Placer Verte Otra Vez \(Ferro 2014 En Vivo\)](https://open.spotify.com/album/2ZyM4nbcyK6UlPZfxdqQ0m) | 4:26 |
 
-Snapshot ID: `MTY0NDI2NjA4NSwwMDAwMDAwMDI2NGNkYjM1ZTEzMzYxYTI0NzdjZDgzODE0NTAwNjY2`
+Snapshot ID: `MTY0NDI2NjA4NSwwMDAwMDAwMGQyZmI3ZTFhYTIwYTFiNzY2YzkxOWY4NzMyNWE5NGEw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 
 > A relaxing evening with a smooth glass never sounded so good\. Hit play and let the room fill with some of the classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,475 likes - 50 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,627 likes - 50 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 | 15 | [Need Her So Bad](https://open.spotify.com/track/1Msf1vU7lpnbqUDxj6HpnW) | [Aynsley Lister](https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU) | [Everything I Need](https://open.spotify.com/album/6XGCDSommzsbG2lDSldCEy) | 7:00 |
 | 16 | [Blacksnake Blues](https://open.spotify.com/track/6FttMYQiHyM0lVZafG3eXO) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Blacksnake Blues](https://open.spotify.com/album/0x9kL2LgGGnwUVm6ZesWCz) | 11:14 |
 | 17 | [Ten Long Years](https://open.spotify.com/track/4CayREZylZ5ij94y1v0zlc) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding with the King](https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu) | 4:40 |
-| 18 | [Step In](https://open.spotify.com/track/1b44sEBiYyl35EbYDgNGfk) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [I Be Trying](https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY) | 2:35 |
-| 19 | [In The Night Time](https://open.spotify.com/track/2iYYrWUWbIeRDFhywfvKLr) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Heavy Shoes](https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI) | 3:08 |
+| 18 | [In The Night Time](https://open.spotify.com/track/2iYYrWUWbIeRDFhywfvKLr) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Heavy Shoes](https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI) | 3:08 |
+| 19 | [Step In](https://open.spotify.com/track/1b44sEBiYyl35EbYDgNGfk) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [I Be Trying](https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY) | 2:35 |
 | 20 | [You Don't Want Me](https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Two Bugs and a Roach](https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho) | 5:16 |
 | 21 | [Come on and Go with Me](https://open.spotify.com/track/7M9Bru9dH3gHSmx6c7bo7j) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 5:55 |
 | 22 | [Reconsider Baby](https://open.spotify.com/track/65JvAtDMWtNIjDCDOLeJ2A) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [Hung Down Head](https://open.spotify.com/album/4x3NEnpfAk2NY3jD6UDLEV) | 3:09 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 | 41 | [12:15 Slow Goonbash Blues](https://open.spotify.com/track/4zy2Th0CDzOyNwbTODygmj) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Shuggie's Boogie: Shuggie Otis Plays The Blues](https://open.spotify.com/album/6WSeoiDc3zAjZVjFzMyLBC) | 9:26 |
 | 42 | [Don't Answer The Door](https://open.spotify.com/track/5JIsQC6ObGhzzRHMdEPMdV) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [His Best: The Electric B.B\. King \(Expanded Edition\)](https://open.spotify.com/album/5mdl9vCNEXZl1EbRdHMRW4) | 5:09 |
 | 43 | [Who You Gonna Hoodoo Now?](https://open.spotify.com/track/0ezAYtCKGYWVAtSr1xZGVe) | [Tony Joe White](https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P) | [Hoodoo \(Commentary Version\)](https://open.spotify.com/album/2o8wETexTC7MB0MON0oVWN) | 4:28 |
-| 44 | [Blues In "A"](https://open.spotify.com/track/6qXGPlkW4paWUiKUai43Mj) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Eric Clapton](https://open.spotify.com/album/3taJF5jtfoJZ3zDKJBu5zG) | 10:25 |
-| 45 | [You Know My Love](https://open.spotify.com/track/4ZHmUh8uIxHzAIeBdPg6mB) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues \(Deluxe Edition\)](https://open.spotify.com/album/2ZzQyza1rGp1AXsZ2SINRZ) | 4:18 |
+| 44 | [You Know My Love](https://open.spotify.com/track/4ZHmUh8uIxHzAIeBdPg6mB) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues \(Deluxe Edition\)](https://open.spotify.com/album/2ZzQyza1rGp1AXsZ2SINRZ) | 4:18 |
+| 45 | [Blues In "A"](https://open.spotify.com/track/6qXGPlkW4paWUiKUai43Mj) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Eric Clapton](https://open.spotify.com/album/3taJF5jtfoJZ3zDKJBu5zG) | 10:25 |
 | 46 | [Easy On The Eyes](https://open.spotify.com/track/1NkI05k92FlfdiCL5BKol6) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Easy On The Eyes](https://open.spotify.com/album/3kd1vDgfeU3UsFtDvIUcts) | 3:31 |
 | 47 | [Pretty Flowers](https://open.spotify.com/track/60vycVSlMAOiqZd7qtW9Vp) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [I Be Trying](https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY) | 2:51 |
 | 48 | [Down Home Blues](https://open.spotify.com/track/5WGUe5K85GamXycXDoMT6l) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [The Right Time](https://open.spotify.com/album/1FIwDtSAdIyBCpBvNheudQ) | 4:36 |
 | 49 | [This Time I'm Gone For Good](https://open.spotify.com/track/2K0M6aAOj5dAMDnDu5VW18) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [Man Of My Word](https://open.spotify.com/album/4fVYzIe9KW1V53DdnYThd5) | 4:40 |
 | 50 | [I Need You So Bad](https://open.spotify.com/track/5Afi4JrAnQtUsSYpYwbYAj) | [Magic Sam](https://open.spotify.com/artist/0XErJwG6aCEj7NpKsEZrrO), [Mighty Joe Young](https://open.spotify.com/artist/3s5c2rjSE7v4KbMsGb5qaL), [Stockholm Slim](https://open.spotify.com/artist/0WKpnBdTIx21ZsPd8zuynC), [Earnest Johnson](https://open.spotify.com/artist/1zkJyhY4Yx9tiouTnGrs2I), [Odie Payne, Jr.](https://open.spotify.com/artist/1A9aTffrO3x44CEX13JGIc) | [West Side Soul \(Deluxe Edition\)](https://open.spotify.com/album/2bonSc9cW7a0YcFBiH9naX) | 4:56 |
 
-Snapshot ID: `MTY2MDgyMjIxMiwwMDAwMDAwMDYxNTFmYmJhYzc0N2RhNDdiNDc2ZmNjMTVmNzI4NDRm`
+Snapshot ID: `MTY2MDgyMjIxMiwwMDAwMDAwMDcwMWRlYmEzODA4NjdiOGZhMGM4MDYyNzc5MjVlYmRl`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTM4MDE1MywwMDAwMDAwMDFiMDFjZDUwZDk1ZjYwNmVjOTdlNjYxYzAyMTY0ZmFh",
+  "snapshot_id": "MTY2MTM4MDE1MywwMDAwMDAwMGNlMzA0MTQ3ZDcyNTliOWU3MWRlOGFmMzMzYzJmZWJj",
   "tracks": [
     {
       "added_at": "2022-08-24 22:29:13",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
-        "name": "Fix Your Accent",
-        "url": "https://open.spotify.com/album/1kL1IqyXcsRJ54J5WyTjK0"
-      },
-      "artists": [
-        {
-          "name": "Fake Blood",
-          "url": "https://open.spotify.com/artist/6NaTOhsj6iiUNONPrE980Z"
-        }
-      ],
-      "duration_ms": 335800,
-      "name": "I Think I Like It",
-      "url": "https://open.spotify.com/track/5cPcd6pLrpDVmKnonjd3EQ"
-    },
-    {
-      "added_at": "2022-08-24 22:29:13",
-      "album": {
         "name": "Crystal Castles",
         "url": "https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 258453,
       "name": "Crimewave",
       "url": "https://open.spotify.com/track/3TjliM0xQ3fkza0RpINRrq"
+    },
+    {
+      "added_at": "2022-08-24 22:29:13",
+      "album": {
+        "name": "Fix Your Accent",
+        "url": "https://open.spotify.com/album/1kL1IqyXcsRJ54J5WyTjK0"
+      },
+      "artists": [
+        {
+          "name": "Fake Blood",
+          "url": "https://open.spotify.com/artist/6NaTOhsj6iiUNONPrE980Z"
+        }
+      ],
+      "duration_ms": 335800,
+      "name": "I Think I Like It",
+      "url": "https://open.spotify.com/track/5cPcd6pLrpDVmKnonjd3EQ"
     },
     {
       "added_at": "2022-08-24 22:29:13",

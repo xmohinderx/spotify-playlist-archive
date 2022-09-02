@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ziQH0F90kL.md) - [plain]
 
 > The Reggaeton hits of yesterday and today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,593 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,660 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ziQH0F90kL.md) - [plain]
 | 96 | [Dembow 2020](https://open.spotify.com/track/0j1VxrPkMyFGvz0jZzxUoZ) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Quien Contra Mi 2](https://open.spotify.com/album/1UqfVKRwKsOqyxIbgA4iAy) | 2:48 |
 | 97 | [Delincuente](https://open.spotify.com/track/5ltjit47pp6nXwhYpkilYd) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Delincuente](https://open.spotify.com/album/0SPp5ifUfZIYoHbVzrCOWX) | 3:22 |
 | 98 | [Cuando Baila Reggaeton](https://open.spotify.com/track/4UxD6L5uah5Dvzs5kQwThG) | [Tego Calderon](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [The Underdog \- El Subestimado](https://open.spotify.com/album/1walNH2TBWePmw3KT3BDJ5) | 3:04 |
-| 99 | [Elegí \(feat\. Farruko, Anuel AA, Sech, Dímelo Flow & Justin Quiles\) \- Remix](https://open.spotify.com/track/3oCghu20Kto5Xcu8Pg0cit) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Elegí \(feat\. Farruko, Anuel AA, Sech, Dímelo Flow & Justin Quiles\) \[Remix\]](https://open.spotify.com/album/42nGyHqXuAcl7khe5jBKds) | 5:25 |
-| 100 | [El Doctorado](https://open.spotify.com/track/1GLyxov9LCuqj9jWFXI3cy) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW) | [La Melodia de la Calle "Updated"](https://open.spotify.com/album/6RDOn06oitF2wzme2uWDX8) | 4:24 |
+| 99 | [El Doctorado](https://open.spotify.com/track/1GLyxov9LCuqj9jWFXI3cy) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW) | [La Melodia de la Calle "Updated"](https://open.spotify.com/album/6RDOn06oitF2wzme2uWDX8) | 4:24 |
+| 100 | [Elegí \(feat\. Farruko, Anuel AA, Sech, Dímelo Flow & Justin Quiles\) \- Remix](https://open.spotify.com/track/3oCghu20Kto5Xcu8Pg0cit) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Elegí \(feat\. Farruko, Anuel AA, Sech, Dímelo Flow & Justin Quiles\) \[Remix\]](https://open.spotify.com/album/42nGyHqXuAcl7khe5jBKds) | 5:25 |
 
-Snapshot ID: `MTY1NDE5OTUxOSwwMDAwMDAwMDQ5ZDRhOTM2YmZlYjcxMjA0NzA3ZDMwZjlkYWE5NDYz`
+Snapshot ID: `MTY1NDE5OTUxOSwwMDAwMDAwMDJkMDliMzY1NjUwY2VlMWVhMjBmYzE0MjhkMWIzYmI5`

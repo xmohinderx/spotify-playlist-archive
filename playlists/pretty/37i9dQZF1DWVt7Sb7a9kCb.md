@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVt7Sb7a9kCb.md) - [plain]
 
 > Llévatela tranqui con los hits más relajados del urbano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,870 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,894 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVt7Sb7a9kCb.md) - [plain]
 | 51 | [Dueles Tan Bien](https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Dueles Tan Bien](https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq) | 2:54 |
 | 52 | [Otra Noche Sin Ti](https://open.spotify.com/track/2CdTLdDjwZdVcm0bresVWx) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Otra Noche Sin Ti](https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV) | 3:48 |
 | 53 | [La Playa \- Remix](https://open.spotify.com/track/70zg99pT51vB4wlMS7e4q7) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [La Playa \(Remix\)](https://open.spotify.com/album/3qppmBh6lM8UXGTZF0dyTD) | 4:10 |
-| 54 | [Verte](https://open.spotify.com/track/2mMZAd3ol9wGI2WJl4XJCF) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [Verte](https://open.spotify.com/album/3NXbwVxHga0cmLdnRIDX64) | 2:37 |
-| 55 | [Kaprichosa](https://open.spotify.com/track/11iYGnLvPxB2O9k0xGmPvq) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Kaprichosa](https://open.spotify.com/album/398f6bMojV8IIh3FXd3q0o) | 3:20 |
+| 54 | [Kaprichosa](https://open.spotify.com/track/11iYGnLvPxB2O9k0xGmPvq) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Kaprichosa](https://open.spotify.com/album/398f6bMojV8IIh3FXd3q0o) | 3:20 |
+| 55 | [Verte](https://open.spotify.com/track/2mMZAd3ol9wGI2WJl4XJCF) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [Verte](https://open.spotify.com/album/3NXbwVxHga0cmLdnRIDX64) | 2:37 |
 | 56 | [Agua de Jamaica](https://open.spotify.com/track/41BzKiCrKpUQHS3TP0jmdr) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [\#7DJ \(7 Días En Jamaica\)](https://open.spotify.com/album/7vZC8PTQUCcw3687OxqY98) | 2:56 |
 | 57 | [Joder](https://open.spotify.com/track/2b5Worm8h9yAJOw2jc4zZp) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Joder](https://open.spotify.com/album/4AuyjPAbIqovnGdkiashml) | 2:29 |
-| 58 | [Maviri](https://open.spotify.com/track/2KbDqOveWc2vInJ4QiSeuX) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [Maviri](https://open.spotify.com/album/5w3ksWCecm2QnMYDsOKeJd) | 2:15 |
-| 59 | [Seguro Te Pierdo](https://open.spotify.com/track/5FGE7nybrywkX6tDfRDf55) | [Sergi](https://open.spotify.com/artist/1YdO9GJZicIofAYHnFZSwv), [KID FLEX](https://open.spotify.com/artist/3MG0nEhYET2TCkegY1QBP6) | [Seguro Te Pierdo](https://open.spotify.com/album/7h3OzZVHw9pFcnmwuYVoKt) | 2:54 |
+| 58 | [Seguro Te Pierdo](https://open.spotify.com/track/5FGE7nybrywkX6tDfRDf55) | [Sergi](https://open.spotify.com/artist/1YdO9GJZicIofAYHnFZSwv), [KID FLEX](https://open.spotify.com/artist/3MG0nEhYET2TCkegY1QBP6) | [Seguro Te Pierdo](https://open.spotify.com/album/7h3OzZVHw9pFcnmwuYVoKt) | 2:54 |
+| 59 | [Maviri](https://open.spotify.com/track/2KbDqOveWc2vInJ4QiSeuX) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [Maviri](https://open.spotify.com/album/5w3ksWCecm2QnMYDsOKeJd) | 2:15 |
 | 60 | [Ponte Pa' Mi](https://open.spotify.com/track/4C6BlqqMwjFzOXzqpTeoWR) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Ponte Pa' Mi](https://open.spotify.com/album/3Nle45IcWgxIkXQw8EtYq1) | 3:22 |
 | 61 | [Loco](https://open.spotify.com/track/6WeJGp7MB7sEEf9InLEvh1) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Loco](https://open.spotify.com/album/32gGR2it3KcYu8geETxC3V) | 3:59 |
 | 62 | [A Mi También ft\. Alvaro Diaz, Feid](https://open.spotify.com/track/5Bc130ZswADfOY9bxk1y98) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Club Dieciséis](https://open.spotify.com/album/4cvaXlyY8HozBQXr6VzsEU) | 2:51 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVt7Sb7a9kCb.md) - [plain]
 | 73 | [TOSCANA](https://open.spotify.com/track/6ejAYAdo08qbPLrH4FEfYe) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Cardellino](https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC) | 2:49 |
 | 74 | [Me Da Lo Mismo](https://open.spotify.com/track/220yXgkadQ5amhAdgRAlnl) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Me Da Lo Mismo](https://open.spotify.com/album/3gyF757c6nzibRCWttR1nS) | 4:06 |
 | 75 | [Enchulao](https://open.spotify.com/track/3HaTdgWD41zkYPHZMNuQ0V) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Enchulao](https://open.spotify.com/album/2HUndIVv8uHBOaoyAMhdrn) | 3:35 |
-| 76 | [Las de Octubre](https://open.spotify.com/track/570gZiXUFd5phvmvh2gGCc) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [Las de Octubre](https://open.spotify.com/album/2w7wYFGBsvJJoUxQb8y1Td) | 2:45 |
+| 76 | [Fue Lindo](https://open.spotify.com/track/7bMJX92st9uXhc4OuHDRG5) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Canciones Pa Mi Ex Vol.1](https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh) | 2:28 |
 | 77 | [Perreito Under](https://open.spotify.com/track/6l0pG6obvyfFGeSUI3aS5y) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [HIT$ MUSIC](https://open.spotify.com/artist/44ALfmkGESKyMbbRrvw9gT) | [Perreito Under](https://open.spotify.com/album/5x6HNSub3IXwgDrvv1ond5) | 3:06 |
 | 78 | [Ya No Somos](https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Ya No Somos](https://open.spotify.com/album/5CGjusSMsLJwCCe0rn2cv8) | 3:09 |
-| 79 | [Fue Lindo](https://open.spotify.com/track/7bMJX92st9uXhc4OuHDRG5) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Canciones Pa Mi Ex Vol.1](https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh) | 2:28 |
+| 79 | [Las de Octubre](https://open.spotify.com/track/570gZiXUFd5phvmvh2gGCc) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [Las de Octubre](https://open.spotify.com/album/2w7wYFGBsvJJoUxQb8y1Td) | 2:45 |
 | 80 | [Hasta Abajo](https://open.spotify.com/track/54FoR5osiOJtVae7SCdSnq) | [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Hasta Abajo](https://open.spotify.com/album/2eM85kZYl1Lz7tjp0MTGo1) | 3:49 |
 
-Snapshot ID: `MTY2MDYwMTQ1OCwwMDAwMDAwMDk5ODY3ZWU3MTgwMTRkNzlmNDIyNGE4ZTE5Y2RiZjJh`
+Snapshot ID: `MTY2MDYwMTQ1OCwwMDAwMDAwMGU2YzhlMTY1ZWQ3YzA4YTk3OThjNDMyZDRjY2M1NWQ0`

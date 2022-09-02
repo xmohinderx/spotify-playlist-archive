@@ -4,7 +4,7 @@
 
 > From new retro to classic country blues, honky tonk, rockabilly, and more.
 
-90 songs - 4 hr 1 min - [published](https://open.spotify.com/playlist/1Tc2vYhpkKJFNbCpnmKrSz)
+91 songs - 4 hr 3 min - [published](https://open.spotify.com/playlist/1Tc2vYhpkKJFNbCpnmKrSz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Burning Love](https://open.spotify.com/track/7zMUCLm1TN9o9JlLISztxO) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis \(Fool\)](https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN) | 2:50 | 2022-05-06 |  |
 | [C'mon Baby, Cry](https://open.spotify.com/track/67swXHVknS142T5tIcNFkl) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco](https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I) | 3:30 | 2022-05-06 |  |
 | [C'mon Baby, Cry](https://open.spotify.com/track/6RdQx3nZNjYIZ9nlBw6JLG) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco: Chapter 1](https://open.spotify.com/album/5lGeIKePKFplfWbgfTBA8e) | 3:30 | 2022-02-11 | 2022-07-29 |
-| [Come On, Let's Go](https://open.spotify.com/track/3wbZ4SLakqTZqV76czDeuZ) | [Ritchie Valens](https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P) | [Rhino Hi\-Five: Ritchie Valens](https://open.spotify.com/album/2UoXVAKOOVZjmVfTUidEHs) | 2:05 | 2019-03-04 |  |
+| [Come On, Let's Go](https://open.spotify.com/track/4cRfSR0QxDlXRHTKyEOu93) | [Ritchie Valens](https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P) | [Ritchie Valens](https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W) | 2:04 | 2022-08-16 |  |
+| [Come On, Let's Go](https://open.spotify.com/track/3wbZ4SLakqTZqV76czDeuZ) | [Ritchie Valens](https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P) | [Rhino Hi\-Five: Ritchie Valens](https://open.spotify.com/album/2UoXVAKOOVZjmVfTUidEHs) | 2:05 | 2019-03-04 | 2022-09-02 |
 | [Crazy \- Single Version](https://open.spotify.com/track/4DuBNU1r50XEv4dvsrQcpY) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [Gold](https://open.spotify.com/album/3kwl00I9hJSfwfWc4T3NAx) | 2:42 | 2019-03-04 | 2022-07-29 |
 | [Crazy \- Single Version](https://open.spotify.com/track/3zpj9dvJABiyMrmLCPw6i8) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [Showcase](https://open.spotify.com/album/54Ykk8Gg8TuHjLbYvErsKh) | 2:44 | 2022-05-06 |  |
 | [Don't Be Cruel](https://open.spotify.com/track/4zzXm1QJQXWLyUfFhWZBRg) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 2:02 | 2019-03-04 |  |

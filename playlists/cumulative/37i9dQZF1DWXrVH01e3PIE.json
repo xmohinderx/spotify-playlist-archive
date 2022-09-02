@@ -1162,6 +1162,28 @@
     },
     {
       "album": {
+        "name": "Guapa",
+        "url": "https://open.spotify.com/album/0f7hijY5yqgbXbgjDlMg62"
+      },
+      "artists": [
+        {
+          "name": "Luche",
+          "url": "https://open.spotify.com/artist/3KKomwHhzofchp8VArk3sC"
+        },
+        {
+          "name": "Chigua",
+          "url": "https://open.spotify.com/artist/16vvA9c32SSlzKJff7s7JW"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153312,
+      "name": "Guapa",
+      "url": "https://open.spotify.com/track/5kw4PXyQAKtIegpAfwjGMy"
+    },
+    {
+      "album": {
         "name": "Guchi Polo",
         "url": "https://open.spotify.com/album/3yFCuw8xsbOXtbOXG2GL86"
       },

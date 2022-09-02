@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 
 > Britpop, trip\-hop, grunge and more from the other side of the 90s\. Cover: my bloody valentine
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,099,096 likes - 80 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,098,692 likes - 80 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 | 29 | [Hallelujah](https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:53 |
 | 30 | [Common People](https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class](https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x) | 5:51 |
 | 31 | [Teardrop](https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Mezzanine](https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR) | 5:30 |
-| 32 | [Glory Box](https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 5:08 |
-| 33 | [Just](https://open.spotify.com/track/1dyTcli07c77mtQK3ahUZR) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) | 3:54 |
+| 32 | [Just](https://open.spotify.com/track/1dyTcli07c77mtQK3ahUZR) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) | 3:54 |
+| 33 | [Glory Box](https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 5:08 |
 | 34 | [Friday I'm in Love](https://open.spotify.com/track/263aNAQCeFSWipk896byo6) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu) | 3:34 |
 | 35 | [Every You Every Me](https://open.spotify.com/track/3tRv4ZYZimrL27flnjgeR6) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Without You I'm Nothing](https://open.spotify.com/album/2cDDG5rnwEgjNL8Q0cO9Zd) | 3:33 |
 | 36 | [Lump](https://open.spotify.com/track/2JdzB67NvIa90K4gEZPLeX) | [The Presidents Of The United States Of America](https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM) | [The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition](https://open.spotify.com/album/5xxeAo8AVneH1OKO5vR604) | 2:14 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 | 45 | [Born Slippy \(Nuxx\)](https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [1992 \- 2012](https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq) | 7:36 |
 | 46 | [A Girl Like You](https://open.spotify.com/track/6XOINCZBv8Q7RXgNNiTwIN) | [Edwyn Collins](https://open.spotify.com/artist/5Qlt3zQ63Z99mNhuun0JAT) | [Gorgeous George](https://open.spotify.com/album/4gIHBmLBXUnDJgWhcPzNDG) | 3:56 |
 | 47 | [There She Goes](https://open.spotify.com/track/0SMkzFGJOBFDI9KfYD55L0) | [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [The La's](https://open.spotify.com/album/4tCf15W7qHi3jE0PdljddW) | 2:42 |
-| 48 | [Hey Boy Hey Girl](https://open.spotify.com/track/7kXmJwrZGIhDaLT9sNo3ut) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Surrender](https://open.spotify.com/album/1QJP73UumgERuzp3yJSXw3) | 4:50 |
-| 49 | [Cannonball](https://open.spotify.com/track/1KdwPeY1WRWQGHCmRJTveb) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Last Splash](https://open.spotify.com/album/57F44c0MTziVzHPEuJtH9A) | 3:33 |
+| 48 | [Cannonball](https://open.spotify.com/track/1KdwPeY1WRWQGHCmRJTveb) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Last Splash](https://open.spotify.com/album/57F44c0MTziVzHPEuJtH9A) | 3:33 |
+| 49 | [Hey Boy Hey Girl](https://open.spotify.com/track/7kXmJwrZGIhDaLT9sNo3ut) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Surrender](https://open.spotify.com/album/1QJP73UumgERuzp3yJSXw3) | 4:50 |
 | 50 | [Disco 2000](https://open.spotify.com/track/2aC8wwfrM0YeTAzzk8hxqC) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class](https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x) | 4:33 |
 | 51 | [Malibu](https://open.spotify.com/track/5bVOX6eyHsML2sB4aMlZEi) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Celebrity Skin](https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId) | 3:50 |
 | 52 | [Mrs\. Robinson \- Remastered](https://open.spotify.com/track/5EugXICXL06waHgP4iTI58) | [The Lemonheads](https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X) | [It's A Shame About Ray \(Expanded Edition\)](https://open.spotify.com/album/3AKjod7W29b6DQKwuInZji) | 3:44 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 | 79 | [Birdhouse in Your Soul](https://open.spotify.com/track/6pmuu4qSz2WrtGkBjUfyuz) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Flood](https://open.spotify.com/album/7FwAtuhhWivxvK4aPgyyUD) | 3:18 |
 | 80 | [Beetlebum \- 2012 Remaster](https://open.spotify.com/track/4OHVCeQYPncEwZOtNAJZZx) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur \(Special Edition\)](https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q) | 5:05 |
 
-Snapshot ID: `MTY0Mjc2NTE4OCwwMDAwMDAwMDlhMDQ4M2NlMjEwZmI1ODIwNzQ1YjA5ZjkxYTJkNDYy`
+Snapshot ID: `MTY0Mjc2NTE4OCwwMDAwMDAwMGU2NmYwMWI1ZjQ0MmQ3MTc1YWI4ZTY2NmQ1OTMwZGZk`

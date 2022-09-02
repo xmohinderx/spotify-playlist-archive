@@ -1322,6 +1322,24 @@
     },
     {
       "album": {
+        "name": "What A Wonderful World",
+        "url": "https://open.spotify.com/album/5quM0S9KSStVWz27lzY2if"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Thorpe",
+          "url": "https://open.spotify.com/artist/17kwSCj2gRfzyMYDXjCUbr"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169200,
+      "name": "What A Wonderful World",
+      "url": "https://open.spotify.com/track/5QbNsaI7NnYa5OzOdkmpWm"
+    },
+    {
+      "album": {
         "name": "When I Fall In Love",
         "url": "https://open.spotify.com/album/1CW5u2uj8yBtt0v4da7dyC"
       },

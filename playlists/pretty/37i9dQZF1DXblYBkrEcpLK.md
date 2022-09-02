@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: ウタ/UTA from ONE PIECE FILM RED ©尾田栄一郎／2022「ワンピース」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,299 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,499 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 44 | [Dark seeks light](https://open.spotify.com/track/2ATxQ2yeUw3CAGjjPTundt) | [ニノミヤユイ](https://open.spotify.com/artist/4rOv8M7dd60wAgtFI981VE) | [Dark seeks light / 散文的LIFE](https://open.spotify.com/album/29oTb4lakrol3FVikzP60X) | 3:34 |
 | 45 | [外道讃歌](https://open.spotify.com/track/5iPg9OCOa6Jv7Y9HLrtmxC) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [外道讃歌](https://open.spotify.com/album/5NmUuvyYyKSebmuitwqBsY) | 4:29 |
 | 46 | [Overfly](https://open.spotify.com/track/5KQk3xqndCMM8kQkS0tfOT) | [Luna Haruna](https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i) | [OVERSKY](https://open.spotify.com/album/6F1qAKzkvEUVU2Y33vxuss) | 4:27 |
-| 47 | [Tiny Light](https://open.spotify.com/track/3nMWM6o4pD6lAkDRPdcqvh) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Desire Again](https://open.spotify.com/album/1TNoCgbem1kKPGUgZRH2AK) | 4:50 |
-| 48 | [NO MAN'S DAWN](https://open.spotify.com/track/3w7j5vtYOyNoB2hewUgn0G) | [前島麻由](https://open.spotify.com/artist/0M0v61x8lN3rDLbmTnlYBg) | [ENDING THEME FROM TV SERIES ”OVERLORD IV”](https://open.spotify.com/album/6fiyEepRkKNW1rRZLVgt0P) | 3:53 |
+| 47 | [NO MAN'S DAWN](https://open.spotify.com/track/3w7j5vtYOyNoB2hewUgn0G) | [前島麻由](https://open.spotify.com/artist/0M0v61x8lN3rDLbmTnlYBg) | [ENDING THEME FROM TV SERIES ”OVERLORD IV”](https://open.spotify.com/album/6fiyEepRkKNW1rRZLVgt0P) | 3:53 |
+| 48 | [Tiny Light](https://open.spotify.com/track/3nMWM6o4pD6lAkDRPdcqvh) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Desire Again](https://open.spotify.com/album/1TNoCgbem1kKPGUgZRH2AK) | 4:50 |
 | 49 | [ハートはお手上げ](https://open.spotify.com/track/7JKJ7p6vz8ZMDdzzd3mww2) | [鈴木愛理](https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h) | [ハートはお手上げ](https://open.spotify.com/album/3YzQqLy0QpodtniZBp4bT6) | 3:47 |
-| 50 | [凸凹](https://open.spotify.com/track/59zVkMccrN10JrDGdV4JeG) | [Kiyoe Yoshioka](https://open.spotify.com/artist/7sG4FexEprpVch00GAM0w7) | [凸凹](https://open.spotify.com/album/2Rk7kN8xzphuTZgp2YJHmn) | 3:49 |
+| 50 | [絶体絶命](https://open.spotify.com/track/0QMmoBAY9pr7nOYisYWuMj) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [PURE](https://open.spotify.com/album/2oTP6o5ggDbudTzSvxiD6x) | 2:28 |
 
-Snapshot ID: `MTY2MTU2MDcwMSwwMDAwMDAwMGYyZGZlNjNiYzVlYWEyMjFkMmM0Y2NiMTAyOTJiZmUz`
+Snapshot ID: `MTY2MTU2MDcwMSwwMDAwMDAwMGFkODczNWM5NmFkNDViOTliZWU1ZWE1ZjQ1ZjIwYjBi`

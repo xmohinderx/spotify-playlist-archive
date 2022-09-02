@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/04m0BRLb94VPV1VP1UqK36">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,449 likes - 163 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,448 likes - 163 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 22 | [Visiting Hours](https://open.spotify.com/track/0rt63HYAAIzUZo5O2D0uA6) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:35 |
 | 23 | [Insomnia](https://open.spotify.com/track/7hzlzoOwCZ4D3Ow5YZK4kj) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Insomnia](https://open.spotify.com/album/673e3sPgdJWrPAIBvaKysa) | 2:59 |
 | 24 | [The Story Never Ends](https://open.spotify.com/track/3u5bTqHMM1P34ZkbwzdckV) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS) | 3:49 |
-| 25 | [Chasing Fire](https://open.spotify.com/track/2zXRAZvUb2B5PzJGwCtFe0) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS) | 3:25 |
-| 26 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 |
+| 25 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 |
+| 26 | [Chasing Fire](https://open.spotify.com/track/2zXRAZvUb2B5PzJGwCtFe0) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS) | 3:25 |
 | 27 | [Lost](https://open.spotify.com/track/18XlJEroUwFo0tLZxscgXE) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [JORDI \(Deluxe\)](https://open.spotify.com/album/2dnLi41uRXC7aNqDmcEc0P) | 2:52 |
 | 28 | [Enemies](https://open.spotify.com/track/3JJYIoJ5FyY9E0DGjr7SXF) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS) | 3:14 |
 | 29 | [So Will I \(100 Billion X\)](https://open.spotify.com/track/1ed3wNCecRIp6SugyR0w2J) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Wonder](https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2) | 6:51 |
@@ -152,8 +152,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 142 | [No Love Songs](https://open.spotify.com/track/0OI0XaMptcfdrGBWhZCTvW) | [Jess Kent](https://open.spotify.com/artist/6UAI6cR7qAewlSTWkRc7wI), [Wes Period](https://open.spotify.com/artist/0Pb8ZfFfE2O0pvsFdwVUYl) | [Bass Bumps](https://open.spotify.com/album/1lcaaSjyiCsPf0ZPzWXCY9) | 3:08 |
 | 143 | [Numb](https://open.spotify.com/track/5XMVWBm8ZILBhrWqCxQQ7R) | [Jaira Burns](https://open.spotify.com/artist/0tRFWXqKBBQcu5oFVOgVzX) | [Numb](https://open.spotify.com/album/2Rdk4H50uZaiQUp3I1IZUB) | 2:46 |
 | 144 | [I Don't Think About You \- Luca Schreiner Remix](https://open.spotify.com/track/3XqZHsDUiOBGcbxSFJXemf) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Luca Schreiner](https://open.spotify.com/artist/5fiYAV2DWASxAUKDq7Gbe9) | [I Don't Think About You \(Remixes\)](https://open.spotify.com/album/2JMPMwjqeshIByUOk4KXDW) | 3:44 |
-| 145 | [Break](https://open.spotify.com/track/3OGMwLZ5ZbPTgTZT22XjTd) | [Jacquie](https://open.spotify.com/artist/0SuQEAJ7EMAipBdrAYO4XS) | [Break](https://open.spotify.com/album/3Sh8YKaGZ4tAYfBahniCaC) | 2:51 |
-| 146 | [Nowhere Left To Go](https://open.spotify.com/track/4PDrhc6Uj2wxn7NDGpe2cM) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Leap](https://open.spotify.com/album/55LHLzeYPPUn2YLtXtxPix) | 3:24 |
+| 145 | [Nowhere Left To Go](https://open.spotify.com/track/4PDrhc6Uj2wxn7NDGpe2cM) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Leap](https://open.spotify.com/album/55LHLzeYPPUn2YLtXtxPix) | 3:24 |
+| 146 | [Break](https://open.spotify.com/track/3OGMwLZ5ZbPTgTZT22XjTd) | [Jacquie](https://open.spotify.com/artist/0SuQEAJ7EMAipBdrAYO4XS) | [Break](https://open.spotify.com/album/3Sh8YKaGZ4tAYfBahniCaC) | 2:51 |
 | 147 | [Lost at Sea](https://open.spotify.com/track/68BsUOVteRYSFRQK830ciG) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [One in a Million](https://open.spotify.com/album/4GDE5FdlgBD3FE4A454YNz) | 3:07 |
 | 148 | [Mother](https://open.spotify.com/track/0breJW7kUS0qXn4tn2w7as) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Higher](https://open.spotify.com/album/6b6xEoiubMlgeGN6nrWM2V) | 3:57 |
 | 149 | [Force Of Nature](https://open.spotify.com/track/1RzePFMMipUOKyUoXgM1Lg) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM) | [Powerslide \(Deluxe\)](https://open.spotify.com/album/5hJ7ytoXl9KIjn25N0GhYr) | 2:52 |
@@ -172,4 +172,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 162 | [On My Way](https://open.spotify.com/track/5FRkwf52xmTBh1qj97Q69d) | [Emma Constance](https://open.spotify.com/artist/2rzwqbsTmLEFXzjUYLPuhf) | [On My Way](https://open.spotify.com/album/6cd4NjWYIuzjje45zd2Unf) | 3:25 |
 | 163 | [The Rain](https://open.spotify.com/track/4pdAysesLTN6ie94tkPH8d) | [Samuel Harrell](https://open.spotify.com/artist/042NzXmTSPpXPgBfskd5Qo) | [The Book of Samuel](https://open.spotify.com/album/7aDDXSWH9gtdjySALV9nhI) | 5:22 |
 
-Snapshot ID: `Mjc2OTk5MDgsMDAwMDAwMDA0OGNkZjZmZGNmZTM5YTRiNjhiYjI3Nzg4ZmIyZDczYw==`
+Snapshot ID: `Mjc3MDEzNDgsMDAwMDAwMDBjNjlmMTYwMTQzZTM1NDBkYTkwNzFkMzdiMjJhZjgxMw==`

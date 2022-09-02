@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 
 > Lo último y lo mejor de la salsa\. Cover: Luis Figueroa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,780,661 likes - 100 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,780,684 likes - 100 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 | 65 | [Te Están Buscando](https://open.spotify.com/track/3BBNvpNb4uBGetyf5R34ac) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Canciones Del Solar De Los Aburridos](https://open.spotify.com/album/1szanrwjas55YHd6OzZrCs) | 6:28 |
 | 66 | [Con Mi Amiga](https://open.spotify.com/track/0FbZzSZ48zfYrXFhJMJZ6Y) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Esa Soy Yo](https://open.spotify.com/album/0RLzeH2Sc7cbzCoUq5V4Lk) | 3:49 |
 | 67 | [Tu Como Estas](https://open.spotify.com/track/4ByRNAPHBOOgYaS4vcNbUb) | [Domingo Quiñones](https://open.spotify.com/artist/4JqvRbbOIF4EUmsVQMTgjs) | [Mi Meta](https://open.spotify.com/album/7JsfV4EJLEjs2nhFKOK5NI) | 5:02 |
-| 68 | [Abre Que Voy](https://open.spotify.com/track/3ihMiG7GPZdsWJcf7Tyevw) | [Miguel Enriquez](https://open.spotify.com/artist/3BuDl3fIeTGNTV50Y7NyqL) | [Grandes Exitos](https://open.spotify.com/album/5syjNOn67VhltUhaZMkVoZ) | 4:22 |
-| 69 | [Suma y Resta](https://open.spotify.com/track/1j6HyQf4y1IiHFewyXnxK1) | [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Suma y Resta](https://open.spotify.com/album/2TLHgTwpVZbKZXt4WmcCKK) | 3:08 |
+| 68 | [Suma y Resta](https://open.spotify.com/track/1j6HyQf4y1IiHFewyXnxK1) | [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Suma y Resta](https://open.spotify.com/album/2TLHgTwpVZbKZXt4WmcCKK) | 3:08 |
+| 69 | [Abre Que Voy](https://open.spotify.com/track/3ihMiG7GPZdsWJcf7Tyevw) | [Miguel Enriquez](https://open.spotify.com/artist/3BuDl3fIeTGNTV50Y7NyqL) | [Grandes Exitos](https://open.spotify.com/album/5syjNOn67VhltUhaZMkVoZ) | 4:22 |
 | 70 | [Los Campeones De La Salsa](https://open.spotify.com/track/4Ii4Fk8ylnGcPn0zQ8WIdB) | [Willy Chirino](https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO) | [Pa'lante](https://open.spotify.com/album/5iphNcNTNLbwxGKmEnlVu3) | 4:18 |
 | 71 | [Enamórate Bailando](https://open.spotify.com/track/02zyl88XvRAQdwbzLQui8y) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Enamórate Bailando](https://open.spotify.com/album/2uZqdPaPuXHLngIvPGprkV) | 4:27 |
 | 72 | [La Vamo a Tumbar](https://open.spotify.com/track/5dmXJosu601fRpmS0FBMbj) | [Grupo Saboreo](https://open.spotify.com/artist/1jBovgyZEnLlMQIXRUN1G9) | [Exploring Latin Heritage, Vol.3](https://open.spotify.com/album/4YwD0uyRlvqtXsNVkzwY2a) | 5:35 |
@@ -95,9 +95,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 | 85 | [Ven, Devórame Otra Vez](https://open.spotify.com/track/77K4xv3gZ8LNt1TamTQbPo) | [Charlie Cruz](https://open.spotify.com/artist/3BiAkgxrLIXhB4evNuF2hn) | [Noches Latinas 3](https://open.spotify.com/album/0s0La7WuGMvIygNDPbdjgr) | 4:03 |
 | 86 | [Loco Pero Feliz](https://open.spotify.com/track/5yGzJ9gphxtII2eoI1Qj9t) | [Pirulo y la Tribu](https://open.spotify.com/artist/7yUFtMptVtCtg3vIR018vO) | [Calle Linda \(Golden Edition\)](https://open.spotify.com/album/66FlKUgkg7EQY6nzWtuX8V) | 6:23 |
 | 87 | [Llorarás](https://open.spotify.com/track/1s25QxtuRQsSrOm9tTOaD6) | [Dimension Latina](https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk) | [Los Oscares De Oscar](https://open.spotify.com/album/5Y990OGQRoPBqdJ6YnU6tZ) | 3:48 |
-| 88 | [Por Retenerte](https://open.spotify.com/track/3Zlp3GGVJwQxpNmUy7TBxS) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Grandes Exitos de Salsa](https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E) | 4:51 |
+| 88 | [¿ Y Ahora Qué Hacemos?](https://open.spotify.com/track/3jOpw80FiCU3N49m1CV2zL) | [You Salsa](https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU), [Tony Succar](https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk) | [¿ Y Ahora Qué Hacemos?](https://open.spotify.com/album/3BuFuLP7IIPlu5GqORitBQ) | 4:58 |
 | 89 | [Hasta el Sol de Hoy \- Versión Salsa](https://open.spotify.com/track/7064YUYdHypgqgH7mKlAgw) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Hasta el Sol de Hoy](https://open.spotify.com/album/58nQPTGt7vE4aNcaxCTLjp) | 3:56 |
-| 90 | [¿ Y Ahora Qué Hacemos?](https://open.spotify.com/track/3jOpw80FiCU3N49m1CV2zL) | [You Salsa](https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU), [Tony Succar](https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk) | [¿ Y Ahora Qué Hacemos?](https://open.spotify.com/album/3BuFuLP7IIPlu5GqORitBQ) | 4:58 |
+| 90 | [Por Retenerte](https://open.spotify.com/track/3Zlp3GGVJwQxpNmUy7TBxS) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Grandes Exitos de Salsa](https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E) | 4:51 |
 | 91 | [Doble Vida](https://open.spotify.com/track/6kpWSzcaLQc5wccq51Ysp9) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos](https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo) | 6:00 |
 | 92 | [Canciones Viejas](https://open.spotify.com/track/6d9S2m4IKhvGxaX89PuBRo) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [40](https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk) | 4:20 |
 | 93 | [Lo Dudo \(feat\. Frankie Ruiz & Hector Trioche\)](https://open.spotify.com/track/3eT851yEUBZFxqVPxzO5pi) | [Tommy Olivencia y Su Orquesta](https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx), [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV), [Hector Trioche](https://open.spotify.com/artist/0dCUgh9eADnLsyDWCY2iNK) | [Celebrando Otro Aniversario \(feat\. Frankie Ruiz & Hector Trioche\)](https://open.spotify.com/album/5jNfI4zTzOYFdycIzK1pkQ) | 5:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 | 99 | [No Estás Solo: Canción Para Los Enfermos](https://open.spotify.com/track/4Uu7gj5r0I082cm6QhcKxG) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [No Estás Solo: Canción Para Los Enfermos](https://open.spotify.com/album/3BbpvRzauAdImL7I2hkML7) | 4:05 |
 | 100 | [Mis Ojos Lloran por Tí](https://open.spotify.com/track/1hvtQqJSaRAWP0PCW3P80Q) | [You Salsa](https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU) | [Mis Ojos Lloran por Tí](https://open.spotify.com/album/1Yfa4XmFw6Y7L7YIKSPG7R) | 4:18 |
 
-Snapshot ID: `MTY2MTkyODUxMywwMDAwMDAwMDgxOGRiYjc4OTY2NzUzZTYwYWJjMTI0MzI5NGQzMmMz`
+Snapshot ID: `MTY2MTkyODUxMywwMDAwMDAwMGNjZTlkOWU4ZWViNDY3MDZlODNhZGQ5ZjIwYWUwNGRi`

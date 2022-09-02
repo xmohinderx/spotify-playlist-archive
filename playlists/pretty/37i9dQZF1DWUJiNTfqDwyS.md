@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 
 > A collection of the best Metal covers out there\. Cover: Metallica
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,669 likes - 75 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,549 likes - 75 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 16 | [Sad But True](https://open.spotify.com/track/48iUr7K2jRxpNIDcSftKZY) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [Sad But True](https://open.spotify.com/album/6UjB1VbxPSKasTeHkAE5mV) | 5:32 |
 | 17 | [Painkiller](https://open.spotify.com/track/4uOSpJxcpzeNCWXYoXGJM1) | [Death](https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn) | [The Sound of Perseverance \- Reissue](https://open.spotify.com/album/0p6DxsQOhQ5qiBnUu9G1PB) | 6:02 |
 | 18 | [Beat It](https://open.spotify.com/track/0O7fXel2uzgJraKd1NBSVb) | [One Morning Left](https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF) | [Beat It](https://open.spotify.com/album/3EIpsdVjwGV0Bf20sF2QvL) | 3:30 |
-| 19 | [King Of Pain](https://open.spotify.com/track/1ZaxUokPjgc4Po18K7t7LW) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [By The People, For The People](https://open.spotify.com/album/717xD2ZI5ebHBk0OQNSUfz) | 4:36 |
+| 19 | [Shock the Monkey](https://open.spotify.com/track/55fRL1pNYMXgxLOHPCfLh5) | [Coal Chamber](https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ) | [Chamber Music](https://open.spotify.com/album/2cgzZlPUtj75UJlktSMbvM) | 3:42 |
 | 20 | [When Doves Cry \- Radio Edit](https://open.spotify.com/track/6I0tw70v94hTCPjg1iZjrX) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [Ruthless](https://open.spotify.com/album/5cfpgi0vLEmw2w5BZwSdtt) | 3:52 |
-| 21 | [Shock the Monkey](https://open.spotify.com/track/55fRL1pNYMXgxLOHPCfLh5) | [Coal Chamber](https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ) | [Chamber Music](https://open.spotify.com/album/2cgzZlPUtj75UJlktSMbvM) | 3:42 |
+| 21 | [King Of Pain](https://open.spotify.com/track/1ZaxUokPjgc4Po18K7t7LW) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [By The People, For The People](https://open.spotify.com/album/717xD2ZI5ebHBk0OQNSUfz) | 4:36 |
 | 22 | [Hallowed Be Thy Name](https://open.spotify.com/track/0mJUxFpEI1eAOIIfnNoZ4G) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [Lovecraft & Witch Hearts](https://open.spotify.com/album/1S5CAeg3cV0Y6SFPcIt2at) | 7:10 |
 | 23 | [Cars \- Remix](https://open.spotify.com/track/5gp7nuCjOwI79WfO65di78) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Obsolete \(Special Edition\)](https://open.spotify.com/album/5fg6x19bbTtNv2eOhTUcoN) | 3:38 |
 | 24 | [Maniac](https://open.spotify.com/track/2fLXgNuhqugprkOOpAqRHs) | [Firewind](https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r) | [The Premonition](https://open.spotify.com/album/1yjOwnIzzjmQDMPu8mHinj) | 4:55 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 68 | [Livin' la Vida Loca \- Cover](https://open.spotify.com/track/3v6ji8IE3AXlBeHK3vwJTc) | [COMETRON](https://open.spotify.com/artist/3zlHrJ9PNVZzqy7qobJFIi) | [Livin' la Vida Loca \(Cover\)](https://open.spotify.com/album/1vwAdEbrf2M5oC79nUyjWC) | 3:37 |
 | 69 | [Renegades](https://open.spotify.com/track/66gXuXJx50t2a8XGwhDiHP) | [36 Crazyfists](https://open.spotify.com/artist/4ijGLY4dzlurDh7jqH3tW7) | [Renegades](https://open.spotify.com/album/387RMZLKNvf1s3ZPSIkYCM) | 3:28 |
 | 70 | [Animals](https://open.spotify.com/track/6656ZMxIGQewFwQt5x4GvR) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE) | [Animals](https://open.spotify.com/album/2TGEqCNx8wHVFtgZ820rPd) | 3:02 |
-| 71 | [Symphony of Destruction \- cover version](https://open.spotify.com/track/0WxklKp98Lt2Gr3dqHBjDa) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Covered In Blood](https://open.spotify.com/album/7LfAQgQQISJJRTfgcDxVQS) | 4:02 |
-| 72 | [Judas](https://open.spotify.com/track/1siidHE9T8LBQVltAw8piM) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI) | [Judas](https://open.spotify.com/album/0fl4B7VkU0WjZ9OGRByR0E) | 4:11 |
+| 71 | [Judas](https://open.spotify.com/track/1siidHE9T8LBQVltAw8piM) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI) | [Judas](https://open.spotify.com/album/0fl4B7VkU0WjZ9OGRByR0E) | 4:11 |
+| 72 | [Symphony of Destruction \- cover version](https://open.spotify.com/track/0WxklKp98Lt2Gr3dqHBjDa) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Covered In Blood](https://open.spotify.com/album/7LfAQgQQISJJRTfgcDxVQS) | 4:02 |
 | 73 | [Bodies](https://open.spotify.com/track/5eDJaMNW8uSayxhKBXhmUW) | [We're Wolves](https://open.spotify.com/artist/73hZY77xQYtJsTrslIzy7v) | [Bodies](https://open.spotify.com/album/76VYWxgc2GZTVNJGRRAoEX) | 3:22 |
 | 74 | [Looks That Kill](https://open.spotify.com/track/6EsmreLQ4j67JOyq9cDiA5) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Looks That Kill](https://open.spotify.com/album/4SgYiHjpOwZ1EqweySZRun) | 4:11 |
-| 75 | [Ex's and Oh's \- Cover](https://open.spotify.com/track/2Ikik4GXDcvnnEv8lXeY1v) | [Versus Me](https://open.spotify.com/artist/2LDhAV1ZRW6XdLNgg1pPg9) | [Ex's and Oh's \(Cover\)](https://open.spotify.com/album/3vRZni6nXRXzASn7YyFcYP) | 3:43 |
+| 75 | [Mambo No\. 5 \- Cover](https://open.spotify.com/track/6zVPxBtCzKMewKLC9OOfcx) | [COMETRON](https://open.spotify.com/artist/3zlHrJ9PNVZzqy7qobJFIi) | [Mambo No\. 5 \(Cover\)](https://open.spotify.com/album/5Ng9lsJwo1waGpQhSOMBSn) | 3:30 |
 
-Snapshot ID: `MTY2MTUxODgwMCwwMDAwMDAwMGU5OTM4N2M5MGQ2OGZhMjNhYjVlY2Y5NjFhMDhmNTk2`
+Snapshot ID: `MTY2MTUxODgwMCwwMDAwMDAwMDU2NWY1MGE0ZTMzNDcwNmIwNDQ4NDg5NjQ3MTgyNjMy`

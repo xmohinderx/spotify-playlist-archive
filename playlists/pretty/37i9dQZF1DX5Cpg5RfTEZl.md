@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Cpg5RfTEZl.md) - [plain]
 
 > ¿A vuelta de rueda? Con esta playlist el camino será más ligero.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,266 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,452 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Cpg5RfTEZl.md) - [plain]
 | 33 | [Levitating](https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:23 |
 | 34 | [DÁKITI](https://open.spotify.com/track/47EiUVwUp4C9fGccaPuUCS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [DÁKITI](https://open.spotify.com/album/43dl8hP5uNN9s6YeeJA5fv) | 3:25 |
 | 35 | [Tacones Rojos](https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Tacones Rojos](https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S) | 3:09 |
-| 36 | [1, 2, 3 \(feat\. Jason Derulo & De La Ghetto\)](https://open.spotify.com/track/4QtiVmuA88tPQiCOHZuQ5b) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [1, 2, 3 \(feat\. Jason Derulo & De La Ghetto\)](https://open.spotify.com/album/1jHSAfCHKUFx5imuezI7HE) | 3:21 |
-| 37 | [Sobrio](https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Sobrio](https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5) | 3:21 |
+| 36 | [Sobrio](https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Sobrio](https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5) | 3:21 |
+| 37 | [1, 2, 3 \(feat\. Jason Derulo & De La Ghetto\)](https://open.spotify.com/track/4QtiVmuA88tPQiCOHZuQ5b) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [1, 2, 3 \(feat\. Jason Derulo & De La Ghetto\)](https://open.spotify.com/album/1jHSAfCHKUFx5imuezI7HE) | 3:21 |
 | 38 | [12x3](https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [12x3](https://open.spotify.com/album/2yTsZhJ86LtD1hvl8wSRPr) | 2:39 |
 | 39 | [Tiroteo \- Remix](https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Tiroteo \(Remix\)](https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C) | 5:21 |
 | 40 | [Botella Tras Botella](https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Botella Tras Botella](https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB) | 3:17 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Cpg5RfTEZl.md) - [plain]
 | 71 | [Mala Fama](https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 3:02 |
 | 72 | [Te Marqué Pedo](https://open.spotify.com/track/4hAYQuavbB0FYhyxBTbVal) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Te Marqué Pedo](https://open.spotify.com/album/5RY8g4VHQsgPDxewtnPIEX) | 3:36 |
 | 73 | [Dance Monkey](https://open.spotify.com/track/5ZULALImTm80tzUbYQYM9d) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [The Kids Are Coming](https://open.spotify.com/album/2pJXQvY0YeDvVJ9gMU9G7j) | 3:29 |
-| 74 | [Se Te Nota \(with Guaynaa\)](https://open.spotify.com/track/11EnQRgRMJwMAesfkB5pnu) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Se Te Nota \(with Guaynaa\)](https://open.spotify.com/album/4XiHCUNnGgnnN5xkGue4RF) | 2:35 |
-| 75 | [Eres](https://open.spotify.com/track/6kdCN6gTWLcLxmLXoUcwuI) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Cuatro Caminos](https://open.spotify.com/album/3ifA4OUPiT92YB4vYtAdVh) | 4:27 |
+| 74 | [Eres](https://open.spotify.com/track/6kdCN6gTWLcLxmLXoUcwuI) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Cuatro Caminos](https://open.spotify.com/album/3ifA4OUPiT92YB4vYtAdVh) | 4:27 |
+| 75 | [Se Te Nota \(with Guaynaa\)](https://open.spotify.com/track/11EnQRgRMJwMAesfkB5pnu) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Se Te Nota \(with Guaynaa\)](https://open.spotify.com/album/4XiHCUNnGgnnN5xkGue4RF) | 2:35 |
 
-Snapshot ID: `MTY2MTg4MjkyNCwwMDAwMDAwMDZmZGIwZWNhZTZiNTY3NjY5NmFmYjM5MjllMGY4YmQx`
+Snapshot ID: `MTY2MTg4MjkyNCwwMDAwMDAwMDJhNDVjNTI2ZDg3MGU3MWYxZjVlY2Q3NTY5YzlhMTkx`

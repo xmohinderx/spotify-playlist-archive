@@ -1,12 +1,12 @@
 {
   "description": "The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection.  Sit back and let it provide the praise for glorious day!",
-  "num_followers": 65625,
+  "num_followers": 65657,
   "original_name": "Easter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDE3NDY2OCwwMDAwMDAwMDRlMDRhNzdkNDFiNTY0NGYzZWJmNzAwOWM4YThmNmMz",
+  "snapshot_id": "MTY1MDE3NDY2OCwwMDAwMDAwMGMwMTY5ODYxYTM3NmUyZTQyYzAxZTZlN2UxMzgwNzc3",
   "tracks": [
     {
       "added_at": "2022-04-17 05:51:08",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-04-17 05:51:08",
       "album": {
-        "name": "If We're Honest (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5ZEGGjJdlQdDNhLKYucTJw"
-      },
-      "artists": [
-        {
-          "name": "Francesca Battistelli",
-          "url": "https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA"
-        }
-      ],
-      "duration_ms": 302577,
-      "name": "Holy Spirit",
-      "url": "https://open.spotify.com/track/0VqMBJyeeRA4I6mSPO5uqZ"
-    },
-    {
-      "added_at": "2022-04-17 05:51:08",
-      "album": {
         "name": "Great Are You Lord EP",
         "url": "https://open.spotify.com/album/6tjfwXYxnJoPABI2V2PPbf"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 232379,
       "name": "Great Are You Lord",
       "url": "https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY"
+    },
+    {
+      "added_at": "2022-04-17 05:51:08",
+      "album": {
+        "name": "If We're Honest (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5ZEGGjJdlQdDNhLKYucTJw"
+      },
+      "artists": [
+        {
+          "name": "Francesca Battistelli",
+          "url": "https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA"
+        }
+      ],
+      "duration_ms": 302577,
+      "name": "Holy Spirit",
+      "url": "https://open.spotify.com/track/0VqMBJyeeRA4I6mSPO5uqZ"
     },
     {
       "added_at": "2022-04-17 05:51:08",
@@ -2183,22 +2183,6 @@
     {
       "added_at": "2022-04-17 05:51:08",
       "album": {
-        "name": "Pure Heart (Live)",
-        "url": "https://open.spotify.com/album/5tke3M4DlnUd6fChHyIxKg"
-      },
-      "artists": [
-        {
-          "name": "Lenny LeBlanc",
-          "url": "https://open.spotify.com/artist/6UXDMJQeP2GCfHgspo2KZx"
-        }
-      ],
-      "duration_ms": 208933,
-      "name": "There Is None Like You - Live",
-      "url": "https://open.spotify.com/track/6gVkG8f7ldsQs0jAI8cB4X"
-    },
-    {
-      "added_at": "2022-04-17 05:51:08",
-      "album": {
         "name": "CAIN - EP",
         "url": "https://open.spotify.com/album/3CniQsVV0nPx2OoUQh0CfZ"
       },
@@ -2211,6 +2195,22 @@
       "duration_ms": 198747,
       "name": "Yes He Can",
       "url": "https://open.spotify.com/track/5QJRT6u1hJuHSE0BeuEEud"
+    },
+    {
+      "added_at": "2022-04-17 05:51:08",
+      "album": {
+        "name": "Pure Heart (Live)",
+        "url": "https://open.spotify.com/album/5tke3M4DlnUd6fChHyIxKg"
+      },
+      "artists": [
+        {
+          "name": "Lenny LeBlanc",
+          "url": "https://open.spotify.com/artist/6UXDMJQeP2GCfHgspo2KZx"
+        }
+      ],
+      "duration_ms": 208933,
+      "name": "There Is None Like You - Live",
+      "url": "https://open.spotify.com/track/6gVkG8f7ldsQs0jAI8cB4X"
     },
     {
       "added_at": "2022-04-17 05:51:08",
@@ -2575,22 +2575,6 @@
     {
       "added_at": "2022-04-17 05:51:08",
       "album": {
-        "name": "What You Could Do With Me",
-        "url": "https://open.spotify.com/album/4uy0OpUiNRU5mXvrFavQze"
-      },
-      "artists": [
-        {
-          "name": "Josh Wright",
-          "url": "https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2"
-        }
-      ],
-      "duration_ms": 231550,
-      "name": "What You Could Do With Me",
-      "url": "https://open.spotify.com/track/5IJ3tn2MfGpGJ7GEGN3vhV"
-    },
-    {
-      "added_at": "2022-04-17 05:51:08",
-      "album": {
         "name": "Unstoppable",
         "url": "https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang"
       },
@@ -2611,6 +2595,22 @@
     {
       "added_at": "2022-04-17 05:51:08",
       "album": {
+        "name": "What You Could Do With Me",
+        "url": "https://open.spotify.com/album/4uy0OpUiNRU5mXvrFavQze"
+      },
+      "artists": [
+        {
+          "name": "Josh Wright",
+          "url": "https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2"
+        }
+      ],
+      "duration_ms": 231550,
+      "name": "What You Could Do With Me",
+      "url": "https://open.spotify.com/track/5IJ3tn2MfGpGJ7GEGN3vhV"
+    },
+    {
+      "added_at": "2022-04-17 05:51:08",
+      "album": {
         "name": "Covered: Alive In Asia (Deluxe Version)",
         "url": "https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb"
       },
@@ -2627,18 +2627,18 @@
     {
       "added_at": "2022-04-17 05:51:08",
       "album": {
-        "name": "My Chains Are Gone",
-        "url": "https://open.spotify.com/album/3ohEFNgpDUA4xmIfdSCkTN"
+        "name": "Decades of Worship",
+        "url": "https://open.spotify.com/album/6svPaewhKWrqIRW3DgbrOC"
       },
       "artists": [
         {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+          "name": "Michael W. Smith",
+          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
         }
       ],
-      "duration_ms": 266200,
-      "name": "Amazing Grace / My Chains Are Gone",
-      "url": "https://open.spotify.com/track/76Sn7FKuDkw4SssotSi5Rr"
+      "duration_ms": 417840,
+      "name": "Agnus Dei",
+      "url": "https://open.spotify.com/track/1N9SysNAP8j4wbAIHzlM9m"
     }
   ],
   "unique_name": "Easter",

@@ -4,7 +4,7 @@
 
 > A perfect rendezvous of funk, jazz, R&B, and soul\. Cover: Eric Darius
 
-193 songs - 13 hr 53 min - [published](https://open.spotify.com/playlist/4kKTUiGyNvyLpETOojDsSq)
+194 songs - 13 hr 57 min - [published](https://open.spotify.com/playlist/4kKTUiGyNvyLpETOojDsSq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Chill AF](https://open.spotify.com/track/7wsOL6S0gabDU2OW95qlSq) | [Vandell Andrew](https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW) | [30](https://open.spotify.com/album/2uLQpzNicgtkOX2HnuQz7f) | 4:05 | 2021-07-12 |  |
 | [Chill Factor](https://open.spotify.com/track/5RBz7DhODMg5hVM5vJ9NrM) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Chill Factor](https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii) | 4:58 | 2021-07-12 |  |
 | [City Beat](https://open.spotify.com/track/3T9bPsBqGslbXXKMcUBjMo) | [Michael J Thomas](https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0) | [City Beat](https://open.spotify.com/album/2qh5ZiEghmYBPamiTUeO2z) | 4:02 | 2021-07-12 |  |
-| [City Life](https://open.spotify.com/track/0OXsI6rI38UK0QXVgaQ6yy) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [City Life](https://open.spotify.com/album/47q7hsJSojyhP4XbUPGkcP) | 4:54 | 2021-07-12 |  |
+| [City Life](https://open.spotify.com/track/0OXsI6rI38UK0QXVgaQ6yy) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [City Life](https://open.spotify.com/album/47q7hsJSojyhP4XbUPGkcP) | 4:54 | 2021-07-12 | 2022-09-02 |
 | [City Lights](https://open.spotify.com/track/5kmQaaHOzgnzJmDpHJVtQY) | [Nelson Rangell](https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88) | [Soul To Souls](https://open.spotify.com/album/2rzjVifrHIbbSEvBIGavtb) | 5:33 | 2021-07-12 |  |
 | [City Livin](https://open.spotify.com/track/2xb6nCbYngL8rExaGKw3J6) | [Gabriel Bello](https://open.spotify.com/artist/4ll7f08qkL28fZZhl1Afro) | [New Day](https://open.spotify.com/album/01juG2LBVmwAs8L25hGnwY) | 5:05 | 2021-07-12 | 2022-07-27 |
 | [City Vibe](https://open.spotify.com/track/79x2Lkq33VN2rQdrs9i6h6) | [André Ward](https://open.spotify.com/artist/3yroTvZKrVMjmu5yufiWJG) | [Steppin' Up](https://open.spotify.com/album/0DITfrhUVScJdnsT4OmgMT) | 4:44 | 2021-07-12 |  |
@@ -47,6 +47,7 @@
 | [Crown Royal](https://open.spotify.com/track/4mZbsrWprSBCb61ZSMI6XR) | [Jeanette Harris](https://open.spotify.com/artist/7jGPYcJEXorMuY90PnvvXn) | [Chocolate Vibez](https://open.spotify.com/album/61Ky4kdiJLMwg78uyXeZpk) | 4:14 | 2021-07-12 |  |
 | [Dare 2 Dream](https://open.spotify.com/track/23Cf4ipUpPiGYl9lYtbUhH) | [Eric Darius](https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8) | [Breakin' Thru](https://open.spotify.com/album/24dW1Q7SRpwk4R1FXuolVI) | 3:57 | 2021-07-12 | 2022-07-28 |
 | [Daydream](https://open.spotify.com/track/2BpfSRsdfTW9Ea8M2ikM1R) | [Vandell Andrew](https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW), [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf) | [30](https://open.spotify.com/album/2uLQpzNicgtkOX2HnuQz7f) | 4:11 | 2021-07-12 | 2022-07-28 |
+| [Desert Rose](https://open.spotify.com/track/2ai8niXm8wl651b2gGxzas) | [Ed Calle](https://open.spotify.com/artist/6r8MZZRBkAXqyzaFLk5YRe) | [Soulful Nights](https://open.spotify.com/album/7dmh5uEjU9X4fD6pFIumJf) | 3:58 | 2022-08-12 |  |
 | [Double Trouble](https://open.spotify.com/track/0djHbjE04WJUI2Mo4vA4Zr) | [Greg Chambers](https://open.spotify.com/artist/0oj9oLaApiDmqUbY0Q6WnN) | [No Looking Back](https://open.spotify.com/album/7Ls3fvAbt1xvsDKZZ6WW9j) | 4:21 | 2021-10-01 | 2022-07-29 |
 | [Down for the Count](https://open.spotify.com/track/2MxQ2DvL2ALwUggq8bb9du) | [Mindi Abair](https://open.spotify.com/artist/4NpYuUHLxUMcGSzuYxv3W4) | [In Hi\-Fi Stereo](https://open.spotify.com/album/2Og1zZ7wQvG03ZdBj8eJwu) | 4:08 | 2021-07-12 | 2022-04-21 |
 | [Espresso Shot](https://open.spotify.com/track/04G8syWNtbjgFSto01d7kd) | [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf), [Darnell Showcase Taylor](https://open.spotify.com/artist/1V4CTe8w8LFvPmwvNDIyia) | [And Coffee](https://open.spotify.com/album/1hIWkw4oviD5KkaMMJNoLd) | 3:32 | 2021-07-12 |  |

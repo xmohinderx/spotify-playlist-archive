@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ofUCE5KJAn.md) - [plain]
 
 > Un surtido rico de canciones con sabor a México\. ¿Lo va a querer rojo o blanco?
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,528 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,589 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ofUCE5KJAn.md) - [plain]
 | 35 | [Te Irá Mejor Sin Mí](https://open.spotify.com/track/3d7uS6KzdacpUccKpjXr7x) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Pegadito Al Corazón](https://open.spotify.com/album/1uMyEZYWXHuAToVZSoRIY7) | 2:56 |
 | 36 | [La Venia Bendita](https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Marco Antonio Solis](https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP) | 3:11 |
 | 37 | [Si Te Falta Alguien](https://open.spotify.com/track/5KcuLISuSBnMFAPVhFnHr5) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ahora](https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS) | 3:07 |
-| 38 | [Si Una Vez](https://open.spotify.com/track/3zLQtoEeXA6Lr1sNrbyYbs) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 2:47 |
-| 39 | [La bikina \- En vivo](https://open.spotify.com/track/1jxO9AwMqYynDsuMWKrPvi) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Vivo](https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo) | 2:59 |
+| 38 | [La bikina \- En vivo](https://open.spotify.com/track/1jxO9AwMqYynDsuMWKrPvi) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Vivo](https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo) | 2:59 |
+| 39 | [Si Una Vez](https://open.spotify.com/track/3zLQtoEeXA6Lr1sNrbyYbs) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 2:47 |
 | 40 | [Ni Parientes Somos](https://open.spotify.com/track/2ANeBRTHe6N0dq7dz7CaVJ) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Mi Buena Suerte](https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA) | 2:38 |
 | 41 | [Poco](https://open.spotify.com/track/6VZMIyzOupI4vA68RaUgXb) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Poco](https://open.spotify.com/album/0rRmn2Y11t41spl9rYaxLC) | 3:45 |
 | 42 | [Tú Me Gustas](https://open.spotify.com/track/30TZy1etY3FAGBDGS58hRj) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Tú Me Gustas](https://open.spotify.com/album/7tUvz3LUmXYRCZX8lUPTrC) | 3:26 |
@@ -92,9 +92,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ofUCE5KJAn.md) - [plain]
 | 82 | [No](https://open.spotify.com/track/60tK9PZkMuCb5Uwv28oIJM) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Grandes Exitos A La Manera De Alejandro Fernandez](https://open.spotify.com/album/3PEIsRKWPx5w1RSoOnrOoh) | 3:15 |
 | 83 | [Golpes en el Corazón](https://open.spotify.com/track/7eJwMB9yFdETWrRsC4VNGh) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [ADN \(Capítulo A\)](https://open.spotify.com/album/5rinlFOFMszDRgJYFJJsDs) | 3:31 |
 | 84 | [Mil Horas](https://open.spotify.com/track/6aiOkKVEe8Mo0O3ycrrn7z) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Transformando La Cumbia](https://open.spotify.com/album/0oQPPVHlGTrEPptF9mOZeZ) | 4:14 |
-| 85 | [El Pávido Návido](https://open.spotify.com/track/0sTV1ucJEAj8M15YJQCLsR) | [Los Igualados](https://open.spotify.com/artist/7CZBDOxXPcGXM2IAoZHCmB) | [A Bailar Huapangos](https://open.spotify.com/album/3HwzYVu702BGntM846aF8T) | 4:12 |
-| 86 | [Me Falta Un Pecado](https://open.spotify.com/track/0QhwvpguVpCNet2Ne9Ge42) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Me Falta Un Pecado](https://open.spotify.com/album/76JfsOgIreZQjJqBzFdcqc) | 3:11 |
-| 87 | [Ya](https://open.spotify.com/track/0oMiAVGA9MpwFYnSrr20Uk) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC), [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Ya](https://open.spotify.com/album/4hY3LMulxgI6LeUXIoNnnN) | 2:51 |
+| 85 | [Ya](https://open.spotify.com/track/0oMiAVGA9MpwFYnSrr20Uk) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC), [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Ya](https://open.spotify.com/album/4hY3LMulxgI6LeUXIoNnnN) | 2:51 |
+| 86 | [El Pávido Návido](https://open.spotify.com/track/0sTV1ucJEAj8M15YJQCLsR) | [Los Igualados](https://open.spotify.com/artist/7CZBDOxXPcGXM2IAoZHCmB) | [A Bailar Huapangos](https://open.spotify.com/album/3HwzYVu702BGntM846aF8T) | 4:12 |
+| 87 | [Me Falta Un Pecado](https://open.spotify.com/track/0QhwvpguVpCNet2Ne9Ge42) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Me Falta Un Pecado](https://open.spotify.com/album/76JfsOgIreZQjJqBzFdcqc) | 3:11 |
 | 88 | [Si Nos Dejan](https://open.spotify.com/track/3nuM254L7Ldb2n6UvY7JCK) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Coleccion Original](https://open.spotify.com/album/3LuHAtGWeuUngugaJHkZ9K) | 2:24 |
 | 89 | [Tiene Espinas El Rosal \- Live \- Desde El Auditorio Nacional/ 2014](https://open.spotify.com/track/1yi3HcJxyTWTPcY0d31a5d) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7), [Jenny And The Mexicats](https://open.spotify.com/artist/2faVKByk0IA651ICKyYYOa) | [Que Venga La Noche](https://open.spotify.com/album/1Y7k3rdVRIhviFr2OTsL3i) | 4:47 |
 | 90 | [La Gloria Eres Tu](https://open.spotify.com/track/0toNfHRTPmbsHi63G7Vgdz) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romances](https://open.spotify.com/album/5bCqJHjSlxroHQdR8i8Qvo) | 3:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ofUCE5KJAn.md) - [plain]
 | 99 | [Sombras Nada Más](https://open.spotify.com/track/0oJg6RLwiVqwngCVtlsDXv) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Serie De Coleccion 15 Autenticos](https://open.spotify.com/album/48lUrzO92SmHoSfpqNkbbl) | 2:56 |
 | 100 | [Pero Que Necesidad](https://open.spotify.com/track/5tiHTqiusHcF4JUR51cgjw) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Los Dúo \(Deluxe\)](https://open.spotify.com/album/2SoR7JnS8nWS32pUvMugpF) | 5:42 |
 
-Snapshot ID: `MTY2MTk3MzE5MSwwMDAwMDAwMGI3NWEwYzk5ZjY0YzJiODg2NjU3MGQ2MTVmZjNmODI0`
+Snapshot ID: `MTY2MTk3MzE5MSwwMDAwMDAwMDJkMDNiMWE1OWJiMmM5YTBiMTM3ZGY5NTY3MDMwYWJk`

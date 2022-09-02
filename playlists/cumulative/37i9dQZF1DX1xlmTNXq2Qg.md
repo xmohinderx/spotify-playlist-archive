@@ -4,7 +4,7 @@
 
 > Time for dancing in the kitchen!
 
-75 songs - 4 hr 37 min - [published](https://open.spotify.com/playlist/1UD1v4gMRoi8wlQD3xgZBb)
+76 songs - 4 hr 41 min - [published](https://open.spotify.com/playlist/1UD1v4gMRoi8wlQD3xgZBb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [anything 4 u](https://open.spotify.com/track/0Aii1ZdrQwkas2lrRFz6ZY) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [mama's boy](https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP) | 3:14 | 2021-11-19 |  |
 | [bad news](https://open.spotify.com/track/0jtC5SX58IPcd62uEk9oHu) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [mama's boy](https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP) | 3:30 | 2021-11-19 |  |
 | [Bad, Bad, Bad](https://open.spotify.com/track/5OTH21tpmWn9YL3XzfB8AX) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Make Out](https://open.spotify.com/album/4sldmS76FbpIaO2sEsZlBh) | 3:26 | 2021-11-19 |  |
+| [Congrats](https://open.spotify.com/track/3pJMOvec8R8OKzEmB9PRJD) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Congrats](https://open.spotify.com/album/0URAkeg7psYrEr9Qj0KTIL) | 3:37 | 2022-09-01 |  |
 | [cowboy in LA](https://open.spotify.com/track/0E6uWutxRjIDhleURR92do) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [cowboy in LA](https://open.spotify.com/album/2cUg7ckSqDt8gXp9tmfdZ5) | 3:33 | 2021-11-19 | 2022-07-29 |
 | [cowboy in LA](https://open.spotify.com/track/22ZcJxQkzIL6EU692kAFWY) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [mama's boy](https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP) | 3:33 | 2022-07-06 |  |
 | [current location](https://open.spotify.com/track/3g6nGCEj7NK0KabxlfL9co) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [kinda](https://open.spotify.com/album/42jFcn7WDz3hkdkEUUQaM7) | 3:09 | 2022-07-06 |  |
@@ -44,7 +45,7 @@
 | [It Was Love](https://open.spotify.com/track/3Qqsr0Xu0Ts6AaC1XqMFC8) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [LANY](https://open.spotify.com/album/0HiwsXForePsWdIZW6EEkK) | 3:48 | 2022-07-06 |  |
 | [Let Me Know](https://open.spotify.com/track/7DMPq3XndRJaj6NTINsLOz) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Malibu Nights](https://open.spotify.com/album/6SWmGozzQDUaczHXMuE8Za) | 4:36 | 2021-11-19 |  |
 | [like you lots](https://open.spotify.com/track/25KwUCiGvdCP3Xy3waYffE) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [kinda](https://open.spotify.com/album/2XQhKfcXw1TrOB1QQPWSSl) | 3:18 | 2021-11-19 | 2022-07-29 |
-| [like you lots](https://open.spotify.com/track/4eTVMSVtVJWlvGk8hzGC9q) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [kinda](https://open.spotify.com/album/42jFcn7WDz3hkdkEUUQaM7) | 3:18 | 2022-07-06 |  |
+| [like you lots](https://open.spotify.com/track/4eTVMSVtVJWlvGk8hzGC9q) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [kinda](https://open.spotify.com/album/42jFcn7WDz3hkdkEUUQaM7) | 3:18 | 2022-07-06 | 2022-09-02 |
 | [Made In Hollywood](https://open.spotify.com/track/7EXSbDVsIiPdN0VwVyDoZd) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Make Out](https://open.spotify.com/album/4sldmS76FbpIaO2sEsZlBh) | 3:34 | 2021-11-19 |  |
 | [Malibu Nights](https://open.spotify.com/track/0Eqg0CQ7bK3RQIMPw1A7pl) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Malibu Nights](https://open.spotify.com/album/6SWmGozzQDUaczHXMuE8Za) | 4:46 | 2021-11-19 |  |
 | [Mean It](https://open.spotify.com/track/3GRSqlALWISqLeNncZMbpX) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [\~how i'm feeling\~](https://open.spotify.com/album/4aoWQU2gSUjl4AZeCPSo1b) | 3:52 | 2021-11-19 | 2022-07-29 |
@@ -52,7 +53,7 @@
 | [never mind, let's break up](https://open.spotify.com/track/7HmYcLhoo4MVRSUVZSRIpg) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [never mind, let's break up](https://open.spotify.com/album/38cbgGWFNBxq8zVtacRpqC) | 2:42 | 2021-11-19 |  |
 | [nobody else](https://open.spotify.com/track/7GLBqDKAJLCLIsj2GEDkSw) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [mama's boy](https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP) | 3:17 | 2021-11-19 |  |
 | [okay](https://open.spotify.com/track/1a0Mg4XPdt4EKsUz5beRZY) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [okay](https://open.spotify.com/album/5jfU7VYOq1M8SllX6emQHN) | 2:49 | 2021-11-19 |  |
-| [Pancakes](https://open.spotify.com/track/2Br251pz4tr0L5FOuf6Fyx) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [LANY](https://open.spotify.com/album/0HiwsXForePsWdIZW6EEkK) | 3:52 | 2022-07-06 |  |
+| [Pancakes](https://open.spotify.com/track/2Br251pz4tr0L5FOuf6Fyx) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [LANY](https://open.spotify.com/album/0HiwsXForePsWdIZW6EEkK) | 3:52 | 2022-07-06 | 2022-09-02 |
 | [Pancakes](https://open.spotify.com/track/5zZ4EPA81iTmQ8K6LwaU1r) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [LANY](https://open.spotify.com/album/2hVTFTbeg9QhXGZAY99oRa) | 3:52 | 2021-11-19 | 2022-07-29 |
 | [paper](https://open.spotify.com/track/3VI7vR4nbDDhoF63XHSbmE) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [mama's boy](https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP) | 4:04 | 2021-11-19 |  |
 | [pink skies](https://open.spotify.com/track/6BZ6pl5bczDc3cMF1kBaOy) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [kinda](https://open.spotify.com/album/42jFcn7WDz3hkdkEUUQaM7) | 3:05 | 2021-11-19 |  |

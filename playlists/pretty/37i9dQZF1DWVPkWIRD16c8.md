@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 
 > Have a fantastic road trip with upbeat songs from your favorite Christian artists!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,406 likes - 75 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,465 likes - 75 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 32 | [Dare You to Move](https://open.spotify.com/track/45sziCSqS4BWSQWUlLRpyf) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [The Best Yet](https://open.spotify.com/album/2VEuUgMk7r1fFYQ4toPVHc) | 4:06 |
 | 33 | [Symphony](https://open.spotify.com/track/0Wc49GX11eFZV4BjJd8yh9) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN), [Dillon Chase](https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8) | [Symphony](https://open.spotify.com/album/5TigSX6SdwoGVhTS3sE8TW) | 4:04 |
 | 34 | [Awake My Soul](https://open.spotify.com/track/6AvQ48ohekN6f2eqZCYICX) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Awake](https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC) | 4:24 |
-| 35 | [Love Theory](https://open.spotify.com/track/2Yfkjb3z3pN9DfS1yE0b3Y) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [LONG LIVE LOVE](https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt) | 4:11 |
-| 36 | [I'm Listening \- Radio Version](https://open.spotify.com/track/5ExBj7cdyNLZ1t5PalfPWa) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp), [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [Fill This Place \(Live\)](https://open.spotify.com/album/16CdyumvxDomk04TnJZYe7) | 4:08 |
+| 35 | [I'm Listening \- Radio Version](https://open.spotify.com/track/5ExBj7cdyNLZ1t5PalfPWa) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp), [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [Fill This Place \(Live\)](https://open.spotify.com/album/16CdyumvxDomk04TnJZYe7) | 4:08 |
+| 36 | [Love Theory](https://open.spotify.com/track/2Yfkjb3z3pN9DfS1yE0b3Y) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [LONG LIVE LOVE](https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt) | 4:11 |
 | 37 | [Where I Belong](https://open.spotify.com/track/1N2fNKIlJJ6PQgcVD1GrBP) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [Listen To The Sound](https://open.spotify.com/album/3ly4JA0oAHyQWl0YmTB8LD) | 3:20 |
 | 38 | [Bulletproof](https://open.spotify.com/track/6fi4EXq3CANPvDXhAggmGn) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4) | [2](https://open.spotify.com/album/53USszfd58oQk7O2aMa5AB) | 4:04 |
 | 39 | [Look Up Child \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/4riVBa7E3aPBsQVeDBBWGy) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Spotify Singles](https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq) | 3:34 |
@@ -71,17 +71,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 61 | [Oasis](https://open.spotify.com/track/2ubtdfFrRUtIteaj5aHyWo) | [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo) | [Faultlines Vol\. I](https://open.spotify.com/album/2xfrjrhWCJszsRlrBUsYWC) | 2:52 |
 | 62 | [Miracle](https://open.spotify.com/track/0jJgHF533Wakrjt1lt6zwz) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Citizen of Heaven](https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us) | 3:42 |
 | 63 | [Who We Are](https://open.spotify.com/track/3iPrzSUiI1PojLdulvGudz) | [MDSN](https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD) | [Who We Are](https://open.spotify.com/album/3B41USIdyMLjgxepjxhi3r) | 3:19 |
-| 64 | [Impossible](https://open.spotify.com/track/4LmVyajDL2aJrii88rncNr) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [Dark Is The Way, Light Is A Place](https://open.spotify.com/album/0aJvU0peEjLVYTOhaPVLXv) | 4:03 |
-| 65 | [Something in the Water](https://open.spotify.com/track/2NCYYlzzRKyX24hyyKPMeW) | [Brooke Fraser](https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN) | [Flags](https://open.spotify.com/album/1uyQnFBlGNgJEMpj7LOyyR) | 3:03 |
+| 64 | [Something in the Water](https://open.spotify.com/track/2NCYYlzzRKyX24hyyKPMeW) | [Brooke Fraser](https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN) | [Flags](https://open.spotify.com/album/1uyQnFBlGNgJEMpj7LOyyR) | 3:03 |
+| 65 | [Impossible](https://open.spotify.com/track/4LmVyajDL2aJrii88rncNr) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [Dark Is The Way, Light Is A Place](https://open.spotify.com/album/0aJvU0peEjLVYTOhaPVLXv) | 4:03 |
 | 66 | [Faith \- Radio Version](https://open.spotify.com/track/7divHOOalhpuFAhXWo0XXa) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Jordan Feliz Collection](https://open.spotify.com/album/1iqhX2yqmOEyElJUcAiqep) | 3:46 |
 | 67 | [It's Gonna Get Better](https://open.spotify.com/track/2FAe8dckXKBLgKoiDEkdi8) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Better](https://open.spotify.com/album/4nrfC2KI741CXHq1wqvHoY) | 3:22 |
 | 68 | [Rebels](https://open.spotify.com/track/6crlD7xx4i1va0wahdwCga) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Michael Ketterer](https://open.spotify.com/artist/3AL84d4gLR8nUYxVLLOcmo) | [REBELS](https://open.spotify.com/album/1Aygf3pcwpsDpiPmL8H5rd) | 3:46 |
 | 69 | [Even Louder](https://open.spotify.com/track/3H8M5OvYVupSFCOOcAwi5l) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Even Louder](https://open.spotify.com/album/3UASecPGoYN3VoDwSWlUJx) | 3:29 |
 | 70 | [Song In My Soul \(feat\. Hollyn\)](https://open.spotify.com/track/3T8WYztdZWL6mItjWc4F6v) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 3:51 |
-| 71 | [You Are I Am](https://open.spotify.com/track/1E0iYqr9YYu3HBXtplKLli) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [The Hurt & The Healer](https://open.spotify.com/album/3LDSK725XPaoV9Gg1f94gx) | 4:20 |
-| 72 | [God Knows \(Must Be Love\) \- Radio Edit](https://open.spotify.com/track/5GxhZpPHgeN5uU6Q4fNrTo) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [God Knows \(Must Be Love\) \- Radio Edit](https://open.spotify.com/album/4Swc2mNIsrPH3jqkgKUAa0) | 3:56 |
+| 71 | [God Knows \(Must Be Love\) \- Radio Edit](https://open.spotify.com/track/5GxhZpPHgeN5uU6Q4fNrTo) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [God Knows \(Must Be Love\) \- Radio Edit](https://open.spotify.com/album/4Swc2mNIsrPH3jqkgKUAa0) | 3:56 |
+| 72 | [You Are I Am](https://open.spotify.com/track/1E0iYqr9YYu3HBXtplKLli) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [The Hurt & The Healer](https://open.spotify.com/album/3LDSK725XPaoV9Gg1f94gx) | 4:20 |
 | 73 | [Closer Than a Brother](https://open.spotify.com/track/4bd5qNOxWl0AEuADTqqFU4) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Chrysaline](https://open.spotify.com/album/4nB0hSgVRau0z3smGvzqfA) | 5:09 |
 | 74 | [Today Is The Day](https://open.spotify.com/track/1AMCroLHu9Tho2lXzKaUWj) | [Lincoln Brewster](https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1) | [Today Is the Day](https://open.spotify.com/album/3LeRWUi22WTeXmu1rvfUFc) | 4:36 |
 | 75 | [Spend a Life](https://open.spotify.com/track/0YrLt5LEmJ8SqGnEmXzll7) | [David Dunn](https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v) | [Perspectives](https://open.spotify.com/album/7JacApKikA6YgXD2zq785n) | 3:28 |
 
-Snapshot ID: `MTU3NDIzNDkwMCwwMDAwMDAwMDE3YmRhMmRjZDAxMDUyNGRhZWE3OTk0OGNjYmViYjZh`
+Snapshot ID: `MTU3NDIzNDkwMCwwMDAwMDAwMDI2MTBhZWIwZDBmZjNiMTNhY2MyM2EwMzdlNWFjOGRi`

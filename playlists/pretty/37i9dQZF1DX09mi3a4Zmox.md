@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09mi3a4Zmox.md) - [plain]
 
 > Música para enamorarse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,941,682 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,942,108 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09mi3a4Zmox.md) - [plain]
 | 26 | [Vamos a Darnos Tiempo](https://open.spotify.com/track/4hsISengUD6beOi6kUIcXl) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Gracias](https://open.spotify.com/album/306myLvJlcA5LBGoIYDp2D) | 4:08 |
 | 27 | [¿A Dónde Vamos A Parar?](https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [En Total Plenitud](https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg) | 3:48 |
 | 28 | [Te Quiero Tanto, Tanto](https://open.spotify.com/track/2S0XH9R1BVZhbcy7j9yQbx) | [Onda Vaselina](https://open.spotify.com/artist/1T9LdtwSTDoXrbkvHtKpGw) | [Entrega Total](https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht) | 3:07 |
-| 29 | [¿Cómo Pagarte?](https://open.spotify.com/track/7kkJnzW5TlGwzYYcps0Qv9) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Yo Creo](https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e) | 3:31 |
-| 30 | [Sabes](https://open.spotify.com/track/37miw1ff4zH0LDuFrBvZ4i) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Secuencia](https://open.spotify.com/album/4kMpYWQfF4f4iXLhopgk3w) | 3:41 |
+| 29 | [Sabes](https://open.spotify.com/track/37miw1ff4zH0LDuFrBvZ4i) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Secuencia](https://open.spotify.com/album/4kMpYWQfF4f4iXLhopgk3w) | 3:41 |
+| 30 | [¿Cómo Pagarte?](https://open.spotify.com/track/7kkJnzW5TlGwzYYcps0Qv9) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Yo Creo](https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e) | 3:31 |
 | 31 | [Tú](https://open.spotify.com/track/6ZEVQ2whiJvhjCNAOJ0DC3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 3:34 |
 | 32 | [Este Corazón](https://open.spotify.com/track/0bMVCO35RJiUhAfvFsLjIF) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo), [Alfonso Herrera](https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN) | [Nuestro Amor](https://open.spotify.com/album/6pBngj1vpWoWV2L2e0XQVF) | 3:30 |
 | 33 | [Un Año](https://open.spotify.com/track/5BDP2tky8oMQJPS33frKVp) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Un Año](https://open.spotify.com/album/4Vtx3PxyOfBUBuEYAIocsP) | 2:44 |
@@ -52,12 +52,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09mi3a4Zmox.md) - [plain]
 | 42 | [Te Esperé](https://open.spotify.com/track/6W8Rl6LMWjCL17EvLlkyxc) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Aire \(Versión Día\)](https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX) | 3:36 |
 | 43 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Sus 16 Grandes Exitos](https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i) | 3:39 |
 | 44 | [¿Quieres Ser Mi Amante?](https://open.spotify.com/track/1Y7q2zwCBjt9zgIHZ0Ku7J) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Camilo](https://open.spotify.com/album/4AxRFDkSlRWzCpyaO107UJ) | 4:09 |
-| 45 | [Bendita Tu Luz](https://open.spotify.com/track/2JBs412fpVUuzIaIp3CyIs) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Amar Es Combatir](https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB) | 4:24 |
-| 46 | [El Perdedor](https://open.spotify.com/track/4jMu6QYon1JEikcdTJ1TzR) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [SEX AND LOVE \(Deluxe\)](https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD) | 3:11 |
-| 47 | [Llegaste Tú](https://open.spotify.com/track/609SDGj0txmlAXRrpwee9Y) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [8](https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI) | 3:41 |
-| 48 | [Sólo para Ti](https://open.spotify.com/track/0GNWo2IgoBKdk10gdnaSVk) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Todo Cambio](https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf) | 3:02 |
-| 49 | [Gavilán o Paloma](https://open.spotify.com/track/4Wg6Ggb6DY8OmlFQvvHO9b) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Reencuentro](https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt) | 4:10 |
-| 50 | [El Mismo Aire](https://open.spotify.com/track/3a29UVSEIj6x3YcfKs2rdi) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 3:06 |
+| 45 | [El Perdedor](https://open.spotify.com/track/4jMu6QYon1JEikcdTJ1TzR) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [SEX AND LOVE \(Deluxe\)](https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD) | 3:11 |
+| 46 | [Bendita Tu Luz](https://open.spotify.com/track/2JBs412fpVUuzIaIp3CyIs) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Amar Es Combatir](https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB) | 4:24 |
+| 47 | [Sólo para Ti](https://open.spotify.com/track/0GNWo2IgoBKdk10gdnaSVk) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Todo Cambio](https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf) | 3:02 |
+| 48 | [Llegaste Tú](https://open.spotify.com/track/609SDGj0txmlAXRrpwee9Y) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [8](https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI) | 3:41 |
+| 49 | [El Mismo Aire](https://open.spotify.com/track/3a29UVSEIj6x3YcfKs2rdi) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 3:06 |
+| 50 | [Gavilán o Paloma](https://open.spotify.com/track/4Wg6Ggb6DY8OmlFQvvHO9b) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Reencuentro](https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt) | 4:10 |
 | 51 | [Mi Razon De Ser](https://open.spotify.com/track/6RLB0Jw4gg5uYpHyekjQSI) | [Griss Romero](https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA) | [Mis Canciones De La Web](https://open.spotify.com/album/5Cpv2FIiZHAGFrYHtVTDNP) | 2:52 |
 | 52 | [Será Mejor Que Te Vayas](https://open.spotify.com/track/6rtHT1rKFnDZL4EksdLY0t) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd), [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Por Amor A Mi Pueblo](https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od) | 4:59 |
 | 53 | [En Guerra](https://open.spotify.com/track/6dJPqP0gHP6iAZuIk1njBs) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [FANTASÍA](https://open.spotify.com/album/5Zyj0zwOksGYLbLAZOaC31) | 3:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09mi3a4Zmox.md) - [plain]
 | 99 | [Me Enamoré De Ti](https://open.spotify.com/track/6DT0LvU0a2wI3RN7SQs8P6) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Me Enamoré De Ti](https://open.spotify.com/album/01akT8TopYGRiYtyeN0qTU) | 3:26 |
 | 100 | [Me Enseñaste](https://open.spotify.com/track/5pSfMKeflHUgtXJHIXzioQ) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Sólo Para Mujeres](https://open.spotify.com/album/6GAL5gNwSJKlpl2ozzdNb9) | 4:41 |
 
-Snapshot ID: `MTY2MTkyNzc4NiwwMDAwMDAwMDRlNWY3ZmFmZWIyNzQ4NTU1MTUwMDI5NjQ0ODJhNDQ4`
+Snapshot ID: `MTY2MTkyNzc4NiwwMDAwMDAwMDZlOTZiODIyNzgzMDRkY2RlMzAxZDhhYzE5NzBjYzZk`

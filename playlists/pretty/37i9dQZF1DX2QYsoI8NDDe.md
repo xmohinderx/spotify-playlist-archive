@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 
 > ¡Celebrando a los mujerones con sangre mexicana! Cover: Majo Aguilar
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,250 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,335 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,13 +62,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 52 | [Mudanzas](https://open.spotify.com/track/1UPPpJhqQW34QGEjRx32jF) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Mudanzas](https://open.spotify.com/album/3iQaYoL4kryRUEHChDAm54) | 3:51 |
 | 53 | [Un Nuevo Amor](https://open.spotify.com/track/0BVCEJJFVsb8nrQGI11Dj2) | [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs) | [Amante de Lo Bueno](https://open.spotify.com/album/7abaFWBylAQnrSRXYABOZv) | 3:55 |
 | 54 | [La Trampa](https://open.spotify.com/track/62nLNuTjFfyJczHfln6mw2) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Lo Más Escuchado De](https://open.spotify.com/album/1l7InHBt3P5CgQtTfhwQrU) | 3:13 |
-| 55 | [Él No Eres Tú](https://open.spotify.com/track/7u3nuJbX2fxh7T3IMmWcSD) | [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid) | [Desatados](https://open.spotify.com/album/0GBcjDYOTjQ5CIbqiJxHCU) | 3:31 |
+| 55 | [Si La Quieres](https://open.spotify.com/track/5uhtYs2t9NiemfPfwHjslo) | [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid) | [Y Seguimos Con Duranguense](https://open.spotify.com/album/3amg00222tTaGeh10Xc2kR) | 2:46 |
 | 56 | [Luna](https://open.spotify.com/track/0sQ363WVeWIrUopUnj0jTA) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Luna](https://open.spotify.com/album/70fbl3TF1Eht9jXFBK8Mjt) | 4:31 |
 | 57 | [Amor Prohibido](https://open.spotify.com/track/7ii1YH0rOmpoRfH9HyY8To) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 2:44 |
 | 58 | [No Te Preocupes por Mí](https://open.spotify.com/track/5G3hFb8E9rMlKbdyDY4Vzh) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Amar No Es Suficiente](https://open.spotify.com/album/0KIiLC3DMqS2DZOkzLtqtU) | 3:23 |
 | 59 | [Como Me Haces Falta](https://open.spotify.com/track/7K6NOKMUKJxjolgsiE7m3x) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Los Besos No Se Dan En La Camisa](https://open.spotify.com/album/7fmhqh0nvaGukOYWkRoUWS) | 4:21 |
 | 60 | [No Querías Lastimarme](https://open.spotify.com/track/3Mebiofe2IvOakAD792K3j) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [De Película](https://open.spotify.com/album/1m9gX7fweiWCg91tQ9tCz9) | 3:44 |
-| 61 | [Si La Quieres](https://open.spotify.com/track/5uhtYs2t9NiemfPfwHjslo) | [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid) | [Y Seguimos Con Duranguense](https://open.spotify.com/album/3amg00222tTaGeh10Xc2kR) | 2:46 |
+| 61 | [Él No Eres Tú](https://open.spotify.com/track/7u3nuJbX2fxh7T3IMmWcSD) | [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid) | [Desatados](https://open.spotify.com/album/0GBcjDYOTjQ5CIbqiJxHCU) | 3:31 |
 | 62 | [Inocente Pobre Amiga](https://open.spotify.com/track/4LMjkpzj8r4RLXKc3adcYV) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Coleccion de Oro](https://open.spotify.com/album/03qbgosLANCuqg2jUgmI9V) | 3:57 |
 | 63 | [El Color de Tus Ojos](https://open.spotify.com/track/36vevDMDx2ArmNViFWn22A) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [México de Mi Corazón](https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY) | 4:05 |
 | 64 | [Aparentemente Bien \- Versión Banda](https://open.spotify.com/track/2nHekPOutiUg9MiCp74NjH) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Aparentemente Bien](https://open.spotify.com/album/1932flu69zKoy3j2Qgz0P2) | 4:17 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 74 | [De Mi Enamórate](https://open.spotify.com/track/7LHfwnID8ytzF5KsGr02MJ) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Celebridades\- Daniela Romo](https://open.spotify.com/album/13HtNoDUSIMopEbZl087rR) | 3:38 |
 | 75 | [Cheque En Blanco](https://open.spotify.com/track/2aqarSktx1bU8WrZE9lW1X) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [En Vivo, Desde Su Lugar](https://open.spotify.com/album/0O56jcmx3fpovZWOJeO0LC) | 2:42 |
 
-Snapshot ID: `MTY1OTU1NDgzOSwwMDAwMDAwMGU4NzhmMjZkNDgzMTFjMWZiMGRmZjg3Y2M5MmYxYTky`
+Snapshot ID: `MTY1OTU1NDgzOSwwMDAwMDAwMDBkOGU4M2UzNmNkZTYzNDQyMDdkZWE1MGE3YWQzMjdk`

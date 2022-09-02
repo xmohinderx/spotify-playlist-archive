@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZX4NmgTPdVb.md) - [plain]
 
 > The songs of the 1970s that will make you dance all summer long!
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,566 likes - 75 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,655 likes - 75 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,12 +44,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZX4NmgTPdVb.md) - [plain]
 | 34 | [American Girl](https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty & The Heartbreakers](https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi) | 3:34 |
 | 35 | [Dancing in the Moonlight](https://open.spotify.com/track/0q21FNwES2bbtcduB6kjEU) | [King Harvest](https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y) | [Dancing in the Moonlight](https://open.spotify.com/album/2W5SVDEBlGqHYqt5sa9PnA) | 3:01 |
 | 36 | [Crocodile Rock](https://open.spotify.com/track/6WCeFNVAXUtNczb7lqLiZU) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 3:55 |
-| 37 | [Beast Of Burden \- Remastered 1994](https://open.spotify.com/track/77oU2rjC5XbjQfNe3bD6so) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Some Girls](https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS) | 4:25 |
-| 38 | [Summer Nights \- From “Grease”](https://open.spotify.com/track/2AVkArcfALVk2X8sfPRzya) | [John Travolta](https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Grease \(The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq) | 3:36 |
+| 37 | [Summer Nights \- From “Grease”](https://open.spotify.com/track/2AVkArcfALVk2X8sfPRzya) | [John Travolta](https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Grease \(The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq) | 3:36 |
+| 38 | [Beast Of Burden \- Remastered 1994](https://open.spotify.com/track/77oU2rjC5XbjQfNe3bD6so) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Some Girls](https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS) | 4:25 |
 | 39 | [Take Me Home, Country Roads](https://open.spotify.com/track/1YYhDizHx7PnDhAhko6cDS) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Poems, Prayers and Promises](https://open.spotify.com/album/78FZXQkBGm2IOPrE9f64sU) | 3:10 |
 | 40 | [All Right Now](https://open.spotify.com/track/1gcESexgftSuLuML57Y69q) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Fire And Water](https://open.spotify.com/album/1ydlm89JR8cV8VuSaNvHNL) | 5:30 |
-| 41 | [Me and Julio Down by the Schoolyard](https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Paul Simon](https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep) | 2:44 |
-| 42 | [The Logical Song \- Remastered 2010](https://open.spotify.com/track/6mHOcVtsHLMuesJkswc0GZ) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Breakfast In America \(Deluxe Edition\)](https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna) | 4:11 |
+| 41 | [The Logical Song \- Remastered 2010](https://open.spotify.com/track/6mHOcVtsHLMuesJkswc0GZ) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Breakfast In America \(Deluxe Edition\)](https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna) | 4:11 |
+| 42 | [Me and Julio Down by the Schoolyard](https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Paul Simon](https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep) | 2:44 |
 | 43 | [Born to Be Alive \- The Original](https://open.spotify.com/track/3XIEWK1V9n25PS9Vb6axj5) | [Patrick Hernandez](https://open.spotify.com/artist/1CcEgi464SWZsKY5579u7z) | [Born to Be Alive \(The Original\)](https://open.spotify.com/album/0kVK9lFFTzhnEb4ETElbCD) | 3:08 |
 | 44 | [Night Fever \- From "Saturday Night Fever" Soundtrack](https://open.spotify.com/track/0qemIQjSxcKyf42VPfZnfa) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [How Can You Mend A Broken Heart](https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx) | 3:32 |
 | 45 | [Long Train Runnin'](https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [The Captain and Me](https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt) | 3:27 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZX4NmgTPdVb.md) - [plain]
 | 74 | [Fly Like An Eagle](https://open.spotify.com/track/3e0FzZjTXOUtiJGSClOBrI) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Fly Like An Eagle](https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC) | 4:42 |
 | 75 | [Sun Is Shining](https://open.spotify.com/track/2pZJhvpin385eqAFRp3ASJ) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya](https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a) | 4:58 |
 
-Snapshot ID: `MTY1NTMyMzIwMCwwMDAwMDAwMDVkYTIzNTUwYjY0MjJjZTBlMTk2ZDhkZDk4MTEzZjhm`
+Snapshot ID: `MTY1NTMyMzIwMCwwMDAwMDAwMDk5MzI0YTgxMTllNDllM2ZjYmIxMDI2NjQyOTA5NjI3`

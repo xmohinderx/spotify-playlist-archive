@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "canzoni da gridareee \ud83d\udde3 blackbear in cover",
+  "description": "canzoni da gridareee \ud83d\udde3 con \u00cbgo in cover",
   "name": "sanguegiovane",
   "published_playlist_ids": [
     "2BZ03rNM0vrjFSXCBigadZ"
@@ -305,6 +305,24 @@
       "duration_ms": 135499,
       "name": "Adolescente",
       "url": "https://open.spotify.com/track/0aNrHE3Om9nx5P6HUpbzzl"
+    },
+    {
+      "album": {
+        "name": "Alba",
+        "url": "https://open.spotify.com/album/6f8dJ2nRY15fJHg3kKp1ay"
+      },
+      "artists": [
+        {
+          "name": "Maiky",
+          "url": "https://open.spotify.com/artist/4tiQcS5gmaMPMz5fsVi23o"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Alba",
+      "url": "https://open.spotify.com/track/3fqOsHukhltCsr4KRqxGD3"
     },
     {
       "album": {
@@ -651,7 +669,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 151163,
       "name": "BLUE",
       "url": "https://open.spotify.com/track/1AhPsIanZj9LEaWrG89jAO"
@@ -699,6 +717,24 @@
       "duration_ms": 153899,
       "name": "break me!",
       "url": "https://open.spotify.com/track/4kAtlOHiKnGFfJVPfLyHo1"
+    },
+    {
+      "album": {
+        "name": "Break!",
+        "url": "https://open.spotify.com/album/05Bz4ReOzzjSCOYU0zAezd"
+      },
+      "artists": [
+        {
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173133,
+      "name": "Break!",
+      "url": "https://open.spotify.com/track/0flObXoVkthxtvvOksCZXI"
     },
     {
       "album": {
@@ -1301,7 +1337,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 176988,
       "name": "fleabag",
       "url": "https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy"
@@ -1319,7 +1355,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 171000,
       "name": "FOLLI",
       "url": "https://open.spotify.com/track/6GrNnPS1fS40ZCxZ73b1JI"
@@ -1435,10 +1471,28 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 172821,
       "name": "gfy (with Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/3MTm8eZ2wCEtpyZqqhP6Dn"
+    },
+    {
+      "album": {
+        "name": "Gioia",
+        "url": "https://open.spotify.com/album/1uxryTgZNA0Zid0D4FcTDa"
+      },
+      "artists": [
+        {
+          "name": "MEZKAL",
+          "url": "https://open.spotify.com/artist/3zrFN8F0yc60qLApqTPWE7"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Gioia",
+      "url": "https://open.spotify.com/track/1NRb0lKQziCaqrl0r2rEBs"
     },
     {
       "album": {
@@ -1460,6 +1514,24 @@
     },
     {
       "album": {
+        "name": "Giorni di merda",
+        "url": "https://open.spotify.com/album/2b3qHx8nwIQR6FMyuk5Air"
+      },
+      "artists": [
+        {
+          "name": "\u00cbgo",
+          "url": "https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163430,
+      "name": "Giorni di merda",
+      "url": "https://open.spotify.com/track/4rYt3cDiPMJMfU8nSlbxGM"
+    },
+    {
+      "album": {
         "name": "ERR\u00d8R B\u00d8Y",
         "url": "https://open.spotify.com/album/0J6qP8wX9hmFM1rjL5FtjA"
       },
@@ -1475,7 +1547,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 157984,
       "name": "Girl Next Door",
       "url": "https://open.spotify.com/track/4ABdzNfI4wWkhmvBRe0AcN"
@@ -2009,6 +2081,32 @@
       "duration_ms": 154566,
       "name": "lacrime sul viso",
       "url": "https://open.spotify.com/track/5r7bwMrwYuBDWBQ8eQe3bh"
+    },
+    {
+      "album": {
+        "name": "Lake Placid",
+        "url": "https://open.spotify.com/album/5i9IGUiPX9YXoKYdEMejYW"
+      },
+      "artists": [
+        {
+          "name": "Decrow",
+          "url": "https://open.spotify.com/artist/5FlK8QftyFsvopniOcLdch"
+        },
+        {
+          "name": "IN6N",
+          "url": "https://open.spotify.com/artist/1ijW7A83I3DKVmVID7kjuE"
+        },
+        {
+          "name": "Bedini",
+          "url": "https://open.spotify.com/artist/0mM2J659MQ5QvOJAWGt3eP"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149508,
+      "name": "Lake Placid",
+      "url": "https://open.spotify.com/track/0GU6BZY2AKqGZXHWDBnsJV"
     },
     {
       "album": {
@@ -3085,7 +3183,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 165508,
       "name": "Polly",
       "url": "https://open.spotify.com/track/1drNpTgwd5Jfzda228o9pa"
@@ -3187,6 +3285,32 @@
       "duration_ms": 142784,
       "name": "Profondo Rosso",
       "url": "https://open.spotify.com/track/0vrmDyjZUPqS5JDyWHHXGH"
+    },
+    {
+      "album": {
+        "name": "Punk",
+        "url": "https://open.spotify.com/album/6SYWYWGIBCQF0rUyjudbtc"
+      },
+      "artists": [
+        {
+          "name": "Bongi",
+          "url": "https://open.spotify.com/artist/3ehxbQ0letT4rNrzvp3SAq"
+        },
+        {
+          "name": "V\u00e1stago",
+          "url": "https://open.spotify.com/artist/17oaBlHbOJj8u7HgDqv7RH"
+        },
+        {
+          "name": "Beart",
+          "url": "https://open.spotify.com/artist/2FVeYpAaDkIoK4z1IRjXF3"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178604,
+      "name": "Punk",
+      "url": "https://open.spotify.com/track/69SfBtxar6Ld6Wg0dQSFkr"
     },
     {
       "album": {
@@ -3674,6 +3798,28 @@
     },
     {
       "album": {
+        "name": "SOTTOTERRA//",
+        "url": "https://open.spotify.com/album/160CqdV8jR90WFvl0jbMDs"
+      },
+      "artists": [
+        {
+          "name": "Kid Vice",
+          "url": "https://open.spotify.com/artist/3bnPjo8qyh6NrIw5PdRpBo"
+        },
+        {
+          "name": "Jack Sapienza",
+          "url": "https://open.spotify.com/artist/5iZW5E9q0Iv8t0Phtp887K"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143110,
+      "name": "SOTTOTERRA//",
+      "url": "https://open.spotify.com/track/5rnHCNcAvweaHKlq3o3a2u"
+    },
+    {
+      "album": {
         "name": "Sparami un colpo al cuore",
         "url": "https://open.spotify.com/album/09Iyq77g2P8KK9MiKgu9Yj"
       },
@@ -3996,6 +4142,32 @@
     },
     {
       "album": {
+        "name": "TETTE",
+        "url": "https://open.spotify.com/album/7ck9o1UbLFbggIUrcW7EFu"
+      },
+      "artists": [
+        {
+          "name": "Yans",
+          "url": "https://open.spotify.com/artist/0JMlv0THvYWc44fizfiVCX"
+        },
+        {
+          "name": "Fulgur",
+          "url": "https://open.spotify.com/artist/3AgppFtvLifix2HTKhGDiC"
+        },
+        {
+          "name": "Kunai",
+          "url": "https://open.spotify.com/artist/1meu0gJt7jU6ltCO5eYz1J"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175317,
+      "name": "TETTE",
+      "url": "https://open.spotify.com/track/1ajGa2m0F9RmUD2Hz0xGto"
+    },
+    {
+      "album": {
         "name": "The Emperor",
         "url": "https://open.spotify.com/album/48QqIBzNdsmVimYeINIAxt"
       },
@@ -4101,6 +4273,24 @@
       "duration_ms": 168146,
       "name": "TIRA E MOLLA",
       "url": "https://open.spotify.com/track/57dc9zSqLocF0MjIAv6Yjx"
+    },
+    {
+      "album": {
+        "name": "Tissues",
+        "url": "https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215163,
+      "name": "Tissues",
+      "url": "https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph"
     },
     {
       "album": {

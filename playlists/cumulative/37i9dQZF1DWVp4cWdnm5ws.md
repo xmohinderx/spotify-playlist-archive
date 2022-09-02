@@ -4,11 +4,12 @@
 
 > Discover new artists on the horizon.
 
-93 songs - 6 hr 3 min - [published](https://open.spotify.com/playlist/3x47cvEOoy8EUAZDcwGWs4)
+95 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/3x47cvEOoy8EUAZDcwGWs4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3:33](https://open.spotify.com/track/55rICajyesqUiny8nmtioj) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p) | [3: 33](https://open.spotify.com/album/4cIP6UY95sLoJuMM6JQKdI) | 3:32 | 2022-04-21 |  |
+| [3rd Eye](https://open.spotify.com/track/1Rmg6e9FO4C0RLtXpFtA4G) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p) | [3rd Eye](https://open.spotify.com/album/4AD7IVbMSuXMZWES5pZCKg) | 2:45 | 2022-09-01 |  |
 | [An Art Gallery Could Never Be As Unique As You](https://open.spotify.com/track/22Nd3GuO7sHopPjdKccRcq) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [An Art Gallery Could Never Be As Unique As You](https://open.spotify.com/album/0FRaoawfqep3bJcCqcQZpD) | 2:38 | 2022-03-24 |  |
 | [Ang Rosas](https://open.spotify.com/track/0lJ96vYvGE9szc5XoKG3JW) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Ang Rosas](https://open.spotify.com/album/3YCSZA4P7byM8e1L7teBNv) | 4:36 | 2021-11-25 | 2022-03-25 |
 | [Bahaghari](https://open.spotify.com/track/2Ozk14un4Py5pZoVygGUPB) | [Elle Sebastian](https://open.spotify.com/artist/3tZLOm9eJAxX6Q0xkEGjWo) | [Bahaghari](https://open.spotify.com/album/2vYvsfDQ30Akm7KvEtMapf) | 6:03 | 2021-11-25 | 2022-03-25 |
@@ -48,6 +49,7 @@
 | [Hue](https://open.spotify.com/track/58uGxLvKGorVzU2VbilKk6) | [August Wahh](https://open.spotify.com/artist/4NsvRUCOVV4KrWRfF65Rcj) | [Vivid](https://open.spotify.com/album/6xdFPvtm4YKclLHnWxFLJM) | 2:52 | 2021-11-25 | 2022-03-25 |
 | [Huli](https://open.spotify.com/track/3fWRjcmyiuRIodbyHH2c7A) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Huli](https://open.spotify.com/album/0ER3BPTPVNeIEh6MN9H3Lf) | 4:24 | 2022-08-26 |  |
 | [I'M FINE](https://open.spotify.com/track/6rD22TasmUeZMz4dX8VLku) | [of Mercury](https://open.spotify.com/artist/7b5ESQnv2E9bBUn4aa1ZUb), [Hijo](https://open.spotify.com/artist/5FKfbso0qRACpiLxHQ0Ad6) | [CHANGIN' Vol\. 1](https://open.spotify.com/album/4bXcecNzDmfAS8pTtxNKT9) | 3:47 | 2021-11-25 | 2022-03-25 |
+| [Ikaw Pa Rin](https://open.spotify.com/track/4z7xboLD3PqY9dOUscS2ly) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Ikaw Pa Rin](https://open.spotify.com/album/6yoXzcdZwga0Gqmmqkvz1k) | 3:11 | 2022-09-01 |  |
 | [Isa lang](https://open.spotify.com/track/0HAG6nIiEKd75yGpovuSJQ) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Isa lang](https://open.spotify.com/album/09S77IK5S0vxVF0DfwSohF) | 4:29 | 2022-03-24 |  |
 | [Iyong Iyo](https://open.spotify.com/track/6RUEFRLol05iSCzQaCHNK5) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Iyong Iyo](https://open.spotify.com/album/6Pa87VouOnvJGvSLYdAevR) | 3:22 | 2021-11-25 | 2022-03-25 |
 | [Kalimutan](https://open.spotify.com/track/1degd7Nhtw4z6zt8y6KwDZ) | [dia maté](https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd) | [Kalimutan](https://open.spotify.com/album/4abIbIvI6BG7uRdrUocI1D) | 3:29 | 2022-08-25 |  |

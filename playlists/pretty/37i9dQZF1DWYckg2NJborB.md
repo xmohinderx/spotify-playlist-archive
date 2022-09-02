@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYckg2NJborB.md) - [plain]
 
 > Suffering from writer's block? This collection of writerly and literature\-inspired songs might help!.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,658 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,657 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tom Sawyer](https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Moving Pictures \(2011 Remaster\)](https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY) | 4:36 |
 | 2 | [Wuthering Heights](https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Kick Inside](https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1) | 4:29 |
-| 3 | [If I Die Young](https://open.spotify.com/track/4u26EevCNXMhlvE1xFBJwX) | [The Band Perry](https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A) | [The Band Perry](https://open.spotify.com/album/3dASAcs9QOsmoSLhHjEhCu) | 3:42 |
-| 4 | [New Slang \- 2021 Remaster](https://open.spotify.com/track/0NslHuacjxQYfUTOW3HCIV) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Oh, Inverted World \(20th Anniversary Remaster\)](https://open.spotify.com/album/5XmhHMj5LZLWo32aA6ntKE) | 3:50 |
+| 3 | [New Slang \- 2021 Remaster](https://open.spotify.com/track/0NslHuacjxQYfUTOW3HCIV) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Oh, Inverted World \(20th Anniversary Remaster\)](https://open.spotify.com/album/5XmhHMj5LZLWo32aA6ntKE) | 3:50 |
+| 4 | [If I Die Young](https://open.spotify.com/track/4u26EevCNXMhlvE1xFBJwX) | [The Band Perry](https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A) | [The Band Perry](https://open.spotify.com/album/3dASAcs9QOsmoSLhHjEhCu) | 3:42 |
 | 5 | [Resistance](https://open.spotify.com/track/1C2QJNTmsTxCDBuIgai8QV) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 5:46 |
 | 6 | [Oxford Comma](https://open.spotify.com/track/0ful4PHfTIxzXiZSZsXQ0H) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 3:15 |
 | 7 | [2 + 2 = 5](https://open.spotify.com/track/4xkcGfpM9RwB4IiQ7yx2dB) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Hail To the Thief](https://open.spotify.com/album/5mzoI3VH0ZWk1pLFR6RoYy) | 3:19 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYckg2NJborB.md) - [plain]
 | 24 | [Walt Whitman](https://open.spotify.com/track/6nQ5z2EDrltb8MZs3HhfgL) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Stars and Satellites](https://open.spotify.com/album/3otETa3Pe9HZon4cP9xZnB) | 2:38 |
 | 25 | [Shakespeare](https://open.spotify.com/track/1Q9yJCrqDANqGMKai1gqBM) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Hard Believer](https://open.spotify.com/album/1TMJ7yDSSYByO0UjKwnOiX) | 6:18 |
 | 26 | [Wrapped Up In Books](https://open.spotify.com/track/14TIka80BMTELhMHk1sIdH) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [Dear Catastrophe Waitress](https://open.spotify.com/album/7HNrDkHNFopKBXGWf0UZML) | 3:34 |
-| 27 | [Who Wrote Holden Caulfield?](https://open.spotify.com/track/6471zt9nuKXLwEOItOgDld) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Kerplunk!](https://open.spotify.com/album/1UShup0VvfxhxS7j3Omxh2) | 2:42 |
-| 28 | [Banana Co](https://open.spotify.com/track/0CiGamY7diH7yvzHsPtHtO) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Street Spirit \(Fade Out\)](https://open.spotify.com/album/23wLaTvnMb3pSb3uxnQE3E) | 2:21 |
+| 27 | [Banana Co](https://open.spotify.com/track/0CiGamY7diH7yvzHsPtHtO) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Street Spirit \(Fade Out\)](https://open.spotify.com/album/23wLaTvnMb3pSb3uxnQE3E) | 2:21 |
+| 28 | [Who Wrote Holden Caulfield?](https://open.spotify.com/track/6471zt9nuKXLwEOItOgDld) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Kerplunk!](https://open.spotify.com/album/1UShup0VvfxhxS7j3Omxh2) | 2:42 |
 | 29 | [Haunted](https://open.spotify.com/track/2rjNVjIfyGCDoNIjXFsPdS) | [Poe](https://open.spotify.com/artist/2Kl8iFAUJmtmyP1Sab1paD) | [Haunted](https://open.spotify.com/album/3Qn2GfbzCa3b0NZoaJotEA) | 5:20 |
 | 30 | [The Wild Boys](https://open.spotify.com/track/5qeLeyIWCPe1FpdJLQTUDW) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Decade](https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj) | 4:17 |
 | 31 | [Richard Cory](https://open.spotify.com/track/669jVNlVxPmrb2kN8YFq1u) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Sounds Of Silence](https://open.spotify.com/album/07RAGILF28QweYQSZasr5k) | 2:55 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYckg2NJborB.md) - [plain]
 | 37 | [1984](https://open.spotify.com/track/0F0j6ff6MBiwasFfBhrYuB) | [Devarrow](https://open.spotify.com/artist/6MrZj6wqVagXe1UQ8AYWgZ) | [The Great Escape](https://open.spotify.com/album/155osgcutzrJu9a1w5aIgB) | 3:45 |
 | 38 | [Narcissist](https://open.spotify.com/track/0LkAjjrokJbccAfz5yftS1) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [The Libertines](https://open.spotify.com/album/026fArxz2P8Vuj8ReXLD6j) | 2:10 |
 | 39 | [Goodbye Sky Harbor](https://open.spotify.com/track/0xQXxwlG5KBXycQmcWDW3v) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Clarity \(Expanded Edition\)](https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4) | 16:13 |
-| 40 | [Black Blade](https://open.spotify.com/track/4Nyx3c0IPFITNo42yodlrh) | [Blue Öyster Cult](https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2) | [Cultosaurus Erectus](https://open.spotify.com/album/2w9ox8f1PSz30Ayanrm9C4) | 6:39 |
-| 41 | [Literature Lovers](https://open.spotify.com/track/141Az9zU42lOieVEbOmPUV) | [Jose Vanders](https://open.spotify.com/artist/6bf31gH9sSGPvs8t76Zxq7) | [Literature Lovers](https://open.spotify.com/album/7kDalaLPgPlKfT3hsoN4KW) | 4:40 |
+| 40 | [Literature Lovers](https://open.spotify.com/track/141Az9zU42lOieVEbOmPUV) | [Jose Vanders](https://open.spotify.com/artist/6bf31gH9sSGPvs8t76Zxq7) | [Literature Lovers](https://open.spotify.com/album/7kDalaLPgPlKfT3hsoN4KW) | 4:40 |
+| 41 | [Black Blade](https://open.spotify.com/track/4Nyx3c0IPFITNo42yodlrh) | [Blue Öyster Cult](https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2) | [Cultosaurus Erectus](https://open.spotify.com/album/2w9ox8f1PSz30Ayanrm9C4) | 6:39 |
 | 42 | [The Joy of D.H\. Lawrence](https://open.spotify.com/track/77KyNPhCUXjkBaj5yQ9GY9) | [Erik Enocksson](https://open.spotify.com/artist/1ot4IWvtkwWLAYwNUJYZex) | [Kning Disk 2005\-2012 Box Set](https://open.spotify.com/album/7n0Ml88mIWDPvEBjDVlq8r) | 4:04 |
 | 43 | [Shalott](https://open.spotify.com/track/1mCm0Tb2pLTlJ26SxqrAFY) | [Emilie Autumn](https://open.spotify.com/artist/1K6L6Hw4HibspToNP1FeBC) | [Opheliac \(The Deluxe Edition\)](https://open.spotify.com/album/7FDaA4N8rvotYVci2updNR) | 4:04 |
 | 44 | [Everyday I Write The Book](https://open.spotify.com/track/36F8DzJ1IP1m8C1h0CpIaz) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [The Best Of The First 10 Years](https://open.spotify.com/album/5ydDN9dDjtwauLG2vLVpsw) | 3:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYckg2NJborB.md) - [plain]
 | 49 | [Harper Lee](https://open.spotify.com/track/5KWesyeHlejVprGxufFxtq) | [Little Green Cars](https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy) | [Absolute Zero](https://open.spotify.com/album/6etgcx8zgTyaGJBXXweGsf) | 3:31 |
 | 50 | [The Underwood Typewriter](https://open.spotify.com/track/2pzlZI4C3f1MSMg047bPI6) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [The End of History](https://open.spotify.com/album/3lFILJkKAjwlUdSz4wwW4b) | 3:01 |
 
-Snapshot ID: `MTU1NTQxNDUzMiwwMDAwMDAwMDM3M2FmMGZkOGUwMWUzMzk5Y2IyOGZlYjM3MTEyNDRi`
+Snapshot ID: `MTU1NTQxNDUzMiwwMDAwMDAwMGRkMjcyNDk2NWQ0OGYyNWVjZjlmOGUzZDQ1M2YxZDJj`

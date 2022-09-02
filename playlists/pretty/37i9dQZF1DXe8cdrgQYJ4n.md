@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 
 > 솔로여도 괜찮은 나를 위한 노래들
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,524 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,549 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,12 +43,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 | 33 | [Sexy 4 Eva](https://open.spotify.com/track/1RPQAYvomUz5QAim2hj6cn) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Ask Bout Me](https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM) | 3:41 |
 | 34 | [HAPPY](https://open.spotify.com/track/5UteR9bUlDg8I70brft1Vh) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [CRUSH](https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL) | 3:36 |
 | 35 | [NO BREAK \(Prod\. GooseBumps & Simon Dominic\)](https://open.spotify.com/track/7p5iFapJ56W9Swmu9NT00L) | [HolyBang](https://open.spotify.com/artist/55hCEdYVgnzW3ymnsIPd7T), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Street Woman Fighter\(SWF\) Special](https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6) | 2:19 |
-| 36 | [Sorry](https://open.spotify.com/track/3OYuHSIBy3KrBDXG9Au5r8) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Wish & Wind](https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF) | 3:37 |
-| 37 | [Dear, Beloved \- Original Version](https://open.spotify.com/track/5AwhDE42bfgFw9Nm5iv66T) | [HYOJUNG](https://open.spotify.com/artist/6seuyGQ3Fq56sS06YVPsOk) | [Dear X Who Doesn't Love Me, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/3ydjTxtIV74JPcsXff9hoh) | 3:23 |
+| 36 | [Dear, Beloved \- Original Version](https://open.spotify.com/track/5AwhDE42bfgFw9Nm5iv66T) | [HYOJUNG](https://open.spotify.com/artist/6seuyGQ3Fq56sS06YVPsOk) | [Dear X Who Doesn't Love Me, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/3ydjTxtIV74JPcsXff9hoh) | 3:23 |
+| 37 | [Sorry](https://open.spotify.com/track/3OYuHSIBy3KrBDXG9Au5r8) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Wish & Wind](https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF) | 3:37 |
 | 38 | [Fuxk off](https://open.spotify.com/track/50ThLixmp3d9GGtyZtqZmu) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [In My Room](https://open.spotify.com/album/6kEpx1z9uVAWuTkHY1bdKG) | 3:02 |
 | 39 | [Bad Girls](https://open.spotify.com/track/2IrmdHJjwBH1pFIMcTJ1xq) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5) | [MONOCHROME](https://open.spotify.com/album/7Bhg7EOxBASEzLV3U6DnjK) | 3:27 |
-| 40 | [Tattoo \(feat\. Jayci yucca, YongYong\)](https://open.spotify.com/track/7wMQDZtqHDxNnQNXitRfZG) | [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK) | [\#LOVEMEORHATEME](https://open.spotify.com/album/3UIen3gIyymppgXGLjc5xk) | 3:15 |
-| 41 | [SOLO DAY](https://open.spotify.com/track/58wbNn4eEsvAqTz4JJxn9L) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [SOLO DAY](https://open.spotify.com/album/5bzGBXIqZIiqKJHDTNP8ix) | 3:19 |
+| 40 | [SOLO DAY](https://open.spotify.com/track/58wbNn4eEsvAqTz4JJxn9L) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [SOLO DAY](https://open.spotify.com/album/5bzGBXIqZIiqKJHDTNP8ix) | 3:19 |
+| 41 | [Tattoo \(feat\. Jayci yucca, YongYong\)](https://open.spotify.com/track/7wMQDZtqHDxNnQNXitRfZG) | [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK) | [\#LOVEMEORHATEME](https://open.spotify.com/album/3UIen3gIyymppgXGLjc5xk) | 3:15 |
 | 42 | [CAVIAR](https://open.spotify.com/track/2aGMvjT2nOUiPM5IcHrCR5) | [CocaNButter](https://open.spotify.com/artist/2S9wwY3J0HrwZHZ6vRPl2q), [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [Street Woman Fighter\(SWF\) Special](https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6) | 2:27 |
 | 43 | [HeartBROKEN PlaYBoY](https://open.spotify.com/track/4zcoVOaN97y4WPUUAtDu0j) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [LUCKY MAN](https://open.spotify.com/album/2dY5DQcOw6DiVpmbDNRm5e) | 3:36 |
 | 44 | [20MIN](https://open.spotify.com/track/1Wl9MPBkb50b4uevY6sxkA) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [24℃](https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5) | 2:56 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 | 59 | [I AM FINE](https://open.spotify.com/track/3B7f8nNtTeZ2KGwnK2Yc9Q) | [Ulala Session](https://open.spotify.com/artist/2EFJSNZzGSfLXMfAaxbK2A) | [I AM FINE](https://open.spotify.com/album/4e29onVlOB70Pr4fsO7yJX) | 2:47 |
 | 60 | [I’ll just smile](https://open.spotify.com/track/3yQDvoUWr6e3cY5R1dBzzG) | [Arttichoke](https://open.spotify.com/artist/2d50bxrNeeo226v4VaEje9) | [Tang Tang!](https://open.spotify.com/album/0K7e3vLuZqHDkBGrD2KMAF) | 2:30 |
 
-Snapshot ID: `MTY2MDgzMjc3NSwwMDAwMDAwMDhmZDE5YmY2NDg5NDgxZWZkODQ3MTQzYzUzYmVjZDEw`
+Snapshot ID: `MTY2MDgzMjc3NSwwMDAwMDAwMGNiYzc1OTJiMWEyZTY3YmI0MmEwYjY2NjU0ZjRkMjZj`

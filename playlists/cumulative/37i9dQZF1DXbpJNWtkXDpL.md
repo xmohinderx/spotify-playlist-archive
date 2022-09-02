@@ -2,9 +2,9 @@
 
 ### [RADAR México](https://open.spotify.com/playlist/37i9dQZF1DXbpJNWtkXDpL)
 
-> ¡Presentamos a Kevin Kaarl, nuestro artista Radar!
+> ¡Presentamos a La Santa Grifa, nuestro artista Radar!
 
-196 songs - 10 hr 34 min - [published](https://open.spotify.com/playlist/0fKCWW6MspqU4I86JKzsYE)
+198 songs - 10 hr 42 min - [published](https://open.spotify.com/playlist/0fKCWW6MspqU4I86JKzsYE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Algo Bien](https://open.spotify.com/track/7ny19tle78dtsBq4JXTNjt) | [Pájaros Vampiro](https://open.spotify.com/artist/1mDd7cul31CzwMxrjL6wXd) | [Algo Bien](https://open.spotify.com/album/4JbqoyE0SeNc6FNi64WEe8) | 3:14 | 2022-05-11 | 2022-07-03 |
 | [AMBARADA](https://open.spotify.com/track/1xuolICb6ZyNdwHxvX093W) | [Alan Wittels](https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g) | [AMBARADA](https://open.spotify.com/album/70ilT0Vk61pnyqDka9Pex2) | 1:38 | 2022-05-13 | 2022-07-16 |
 | [Amigos](https://open.spotify.com/track/4uoHAwCca3pR6SCnYA3XPZ) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Amigos](https://open.spotify.com/album/74Hes6pOqG1u1DN65jg0aV) | 2:48 | 2021-10-01 | 2022-05-08 |
+| [Amnesia](https://open.spotify.com/track/2CRXFBkRh0V7FZL5kuiqdO) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Amnesia](https://open.spotify.com/album/7x0UG4rToHvR7HkzqGN06a) | 3:08 | 2022-09-01 |  |
 | [ASMR](https://open.spotify.com/track/3d6GBK3VlzhluJrFUNlrEi) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [ASMR](https://open.spotify.com/album/1tc2XAQZqkW9wvUTe6H6En) | 3:01 | 2021-10-21 | 2022-05-12 |
 | [Aviones De Papel](https://open.spotify.com/track/15G5tjajmf4FHllo0rGltv) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Aviones De Papel](https://open.spotify.com/album/25iEhOx8cWc5pUMcFU4krF) | 3:13 | 2022-05-13 | 2022-07-29 |
 | [Bala](https://open.spotify.com/track/2SLmi9sJHUODT4QNDcpCZF) | [Malamala](https://open.spotify.com/artist/7EAwWrnvpx4foTEroZDtHl) | [Bala](https://open.spotify.com/album/5DIt7H7sEewJM3UyJi7CtN) | 3:16 | 2021-10-01 | 2022-05-10 |
@@ -30,7 +31,7 @@
 | [Bubble Love](https://open.spotify.com/track/7HPckM9h2ZDasdopb1n2Oc) | [Las Decapitadas](https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ), [Roberta Pardo](https://open.spotify.com/artist/5SDCXW3v93K8R58xRLeV0b), [Isabela Costero](https://open.spotify.com/artist/3Jes9MS3tLqPDrCDxdUGQx), [Maria Villanueva](https://open.spotify.com/artist/10LgSuLJnpj2wkOxOQW1hF), [Valentina Reyes](https://open.spotify.com/artist/7gFOLjST0TuyozYrZUQWtw) | [Bubble Love](https://open.spotify.com/album/2hcY4idysibLPBh9crrgMY) | 3:16 | 2022-05-11 | 2022-07-27 |
 | [C'est Pas Moi](https://open.spotify.com/track/1YIjej0CUTyxjZiGuHhkLg) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Petite Amie](https://open.spotify.com/album/28TqzlvN2K0te8ssOfwnLu) | 3:26 | 2022-05-12 | 2022-07-25 |
 | [C'est Pas Moi](https://open.spotify.com/track/4LOS1xKULiLw4y4GegBlwE) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [C'est Pas Moi](https://open.spotify.com/album/1I9S7r4dEM14NWTYMcbLIX) | 3:26 | 2021-10-01 | 2022-07-23 |
-| [Café Conmigo](https://open.spotify.com/track/3X6zoxS109LGpWrz7WysW0) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Café Conmigo](https://open.spotify.com/album/22jSbACBDtGXlqMbZPeIu5) | 2:56 | 2022-05-13 |  |
+| [Café Conmigo](https://open.spotify.com/track/3X6zoxS109LGpWrz7WysW0) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Café Conmigo](https://open.spotify.com/album/22jSbACBDtGXlqMbZPeIu5) | 2:56 | 2022-05-13 | 2022-09-02 |
 | [Calamidad](https://open.spotify.com/track/6053PBltVrWgwkTZAS0FF3) | [Malamala](https://open.spotify.com/artist/7EAwWrnvpx4foTEroZDtHl) | [Calamidad](https://open.spotify.com/album/6y1vBRKPKLwgKlVin1kvdO) | 3:15 | 2021-10-01 | 2022-05-11 |
 | [Casual \(YTQDV\)](https://open.spotify.com/track/066m3O9KIzKNbIFGxnMTEU) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Canto Tu Historia \(VOL\. 1\)](https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz) | 3:10 | 2021-10-01 | 2022-05-12 |
 | [Claridad Extática \- Tayhana Remix](https://open.spotify.com/track/0OqgbKpcSIieXmzEZWAsP7) | [Sueuga Kamau](https://open.spotify.com/artist/1PO6esSj88BOLjfrnCdUFM), [Tayhana](https://open.spotify.com/artist/647u1oTQ3MgB1k4FwVrPfg) | [Claridad Extática \(Tayhana Remix\)](https://open.spotify.com/album/5iN0iaMcTTbJvwNtKwJmv9) | 4:06 | 2022-05-13 | 2022-07-17 |
@@ -147,7 +148,7 @@
 | [San Lucas](https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [San Lucas](https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1) | 4:07 | 2022-08-01 |  |
 | [Se Siente Bien](https://open.spotify.com/track/1XEmFjZdshi5oQ6qsV44TQ) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Gitana Kamp](https://open.spotify.com/artist/55SWiLP14cnNXQKVJj36ps) | [Gitana Kamp, Vol\. I](https://open.spotify.com/album/2pgf9362aDcXAR8V5pE2A2) | 2:26 | 2021-10-01 | 2022-05-12 |
 | [SESENTAYNUEVE](https://open.spotify.com/track/1jlmhmxdbTUI4jY4Rbkeqs) | [Alan Wittels](https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g) | [SESENTAYNUEVE](https://open.spotify.com/album/6oSklR7vWOmzc7yD6OaEET) | 2:02 | 2022-05-13 |  |
-| [Señales](https://open.spotify.com/track/4JxWLbQM9XrPDK1vghEjaY) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf), [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [Señales](https://open.spotify.com/album/79rbLkI6PIg2VmANXERMqB) | 3:03 | 2022-05-13 |  |
+| [Señales](https://open.spotify.com/track/4JxWLbQM9XrPDK1vghEjaY) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf), [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [Señales](https://open.spotify.com/album/79rbLkI6PIg2VmANXERMqB) | 3:03 | 2022-05-13 | 2022-09-02 |
 | [Si Nos Volvemos A Encontrar](https://open.spotify.com/track/1BEPwgt9j3KXEhKDGfNCfM) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Si Nos Volvemos A Encontrar](https://open.spotify.com/album/5jlvEPbTSKjFcpPqDtMgeC) | 3:24 | 2021-10-01 | 2022-05-12 |
 | [siempre te voy a querer](https://open.spotify.com/track/6HVnd5EXfbaLU4YuYElXEe) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [los días en la sala](https://open.spotify.com/album/6E2TF0rYiJCwIxyLqP61GE) | 2:43 | 2022-05-13 |  |
 | [siente más](https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 4:00 | 2022-08-26 |  |
@@ -155,6 +156,7 @@
 | [Sin Compromiso](https://open.spotify.com/track/2IEuqijMtqJWrNfa5raZFc) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Sin Compromiso](https://open.spotify.com/album/0wrgk3LgWKQLD79oqoElpy) | 3:02 | 2021-10-01 | 2022-05-12 |
 | [Snakes](https://open.spotify.com/track/3XVP4UcQ6UtqUNUA7eOXsa) | [DUNNOWHO](https://open.spotify.com/artist/5hopiq3ryZicsodQkx8dGn), [HiiTay](https://open.spotify.com/artist/2zoliOCqK1WrucYhdrjiHz), [Zerarri](https://open.spotify.com/artist/7ISdsaYvSq0pkEFwt3Tu2y) | [Snakes](https://open.spotify.com/album/4TQlTRsDAafp2rol1iAjgX) | 2:49 | 2022-05-13 | 2022-07-11 |
 | [Sola](https://open.spotify.com/track/18Lr7Xdiv9h6p0xaCo4eXk) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [Naona](https://open.spotify.com/album/0GVmPDtsGwp9YEg5DTLmb9) | 3:51 | 2021-10-01 | 2022-05-11 |
+| [Somos Varios](https://open.spotify.com/track/2hFYvGaFDdcv6tNPFtbBPi) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Somos Varios](https://open.spotify.com/album/5Wtjm9176pqb5GZQrsBQDv) | 4:16 | 2022-09-01 |  |
 | [Sopa de Letritas](https://open.spotify.com/track/6s4i94Vu397TzHLjff6YHU) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Braille EP](https://open.spotify.com/album/16prikKe8RnqpiAJlNTP5I) | 3:22 | 2021-10-01 | 2022-05-12 |
 | [Soy Basura](https://open.spotify.com/track/5mwejIKy819KOkrl7RmNXD) | [Pájaros Vampiro](https://open.spotify.com/artist/1mDd7cul31CzwMxrjL6wXd) | [Soy Basura](https://open.spotify.com/album/3ESj5vJEa3xuiT8Bc0rQhu) | 1:48 | 2022-05-11 | 2022-07-24 |
 | [Soy de Sinaloa](https://open.spotify.com/track/0G8UX6rA6OLal4OXPZLv5K) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Soy de Sinaloa](https://open.spotify.com/album/2RirpFu0iqptAyM5eARyl2) | 2:41 | 2022-05-09 |  |

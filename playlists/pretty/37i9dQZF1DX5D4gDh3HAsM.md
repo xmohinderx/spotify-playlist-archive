@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 
 > Jazzy takes on your favorite Holiday songs\. Cover: Nat King Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,447 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,130 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 | 20 | [Christmas In New Orleans](https://open.spotify.com/track/6K9qv0rAJ0QUjPnlRpMwvd) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [The Decca Singles 1949\-1958](https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1) | 2:54 |
 | 21 | [Christmas Don't Be Late](https://open.spotify.com/track/2SzvA3lgJYR7JUOkjAnX6y) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas](https://open.spotify.com/album/60SJnVimx7BPaZz2nec9vO) | 2:40 |
 | 22 | [Sugar Rum Cherry \(Dance of the Sugar\-Plum Fairy\)](https://open.spotify.com/track/2OyMysbUPsAV7W3ga8Lqr0) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Three Suites](https://open.spotify.com/album/4YfEBSeidWGv2gn4LUUiVS) | 3:05 |
-| 23 | [Here Comes Santa Claus](https://open.spotify.com/track/3D2uwNConeiGJmzopkVkCU) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu) | [Sound Of Christmas](https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl) | 2:38 |
-| 24 | [It's Christmas](https://open.spotify.com/track/2zs2Ck470VmBFTwUp4NFdv) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [The Pianoman at Christmas](https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5) | 3:14 |
+| 23 | [It's Christmas](https://open.spotify.com/track/2zs2Ck470VmBFTwUp4NFdv) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [The Pianoman at Christmas](https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5) | 3:14 |
+| 24 | [Here Comes Santa Claus](https://open.spotify.com/track/3D2uwNConeiGJmzopkVkCU) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu) | [Sound Of Christmas](https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl) | 2:38 |
 | 25 | [Santa Baby](https://open.spotify.com/track/11EHUtg6DvSmW0qVNVZWXI) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Santa Baby](https://open.spotify.com/album/4HoV7ZFqbjZe52GE9P1ESg) | 2:56 |
 | 26 | [Home For The Holidays](https://open.spotify.com/track/0UzJq86HhxcMzisUcX2BcV) | [Matt Belsante](https://open.spotify.com/artist/4xJmGeK78D0iQa6rk4wlgz) | [White Christmas](https://open.spotify.com/album/3YsRLmD4nlPi6fJOEmsO30) | 3:34 |
 | 27 | [I've Got My Love to Keep Me Warm](https://open.spotify.com/track/4swVkhYwnmA0ls8UWzz5VU) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday Love Songs](https://open.spotify.com/album/3MXpFQDq1cTE4WfGZDAsY4) | 2:54 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 | 47 | [White Christmas](https://open.spotify.com/track/1Als47O3HnJ8NGg5je6s4A) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [Christmas Blues: Savoy Jazz Christmas Album](https://open.spotify.com/album/1QMmVNZc6MpssCZy62IuNI) | 4:57 |
 | 48 | [What Are You Doing New Year's Eve?](https://open.spotify.com/track/7DESENONjlQosUbxToDKOy) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [It's Christmas](https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj) | 3:06 |
 | 49 | [Angels We Have Heard on High / Joy to the World](https://open.spotify.com/track/3ZtqRGAm0Q3hUjRKKGoDeA) | [Joe Pass](https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ) | [Joe Pass \- Six String Santa](https://open.spotify.com/album/1SXRnss2fnudVkXZrVxIJX) | 4:35 |
-| 50 | [The Christmas Song](https://open.spotify.com/track/6mIzy7czAJV2sEYA1H7ws3) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe), [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [A Very Swingin’ Basie Christmas!](https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S) | 3:41 |
+| 50 | [Cool Yule](https://open.spotify.com/track/0KIbWpeVKKl2XVLzTWVIA9) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [Blue Christmas](https://open.spotify.com/album/3EP7C0h2BiVEGH7g8PUaFM) | 3:30 |
 
-Snapshot ID: `MTYzOTExMjQ2MCwwMDAwMDAwMGI3OTE3YTVmNGM4ZjExNDZlYjkwYjczMjY1MTU3YTNk`
+Snapshot ID: `MTYzOTExMjQ2MCwwMDAwMDAwMGVjNjJlNTBmZDNkMTcyYzdkMzYyZDE3NGUzZmFkNDMy`

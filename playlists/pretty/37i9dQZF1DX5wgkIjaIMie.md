@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgkIjaIMie.md) - [plain]
 
 > Feel on top of the world with these uplifting anthems of the 10s
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,659 likes - 70 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,788 likes - 70 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgkIjaIMie.md) - [plain]
 | 55 | [I Don’t Wanna Live Forever \(Fifty Shades Darker\)](https://open.spotify.com/track/55n9yjI6qqXh5F2mYvUc2y) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation Stadium Tour Surprise Song Playlist](https://open.spotify.com/album/1MPAXuTVL2Ej5x0JHiSPq8) | 4:07 |
 | 56 | [Little Talks](https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy) | 4:26 |
 | 57 | [DJ Got Us Fallin' In Love \(feat\. Pitbull\)](https://open.spotify.com/track/4356Typ82hUiFAynbLYbPn) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Raymond v Raymond \(Expanded Edition\)](https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX) | 3:40 |
-| 58 | [On The Floor](https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Love?](https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE) | 4:44 |
+| 58 | [Wolves](https://open.spotify.com/track/0tBbt8CrmxbjRP0pueQkyU) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Wolves](https://open.spotify.com/album/5gQZvWM1o8NkQndueJtZcP) | 3:17 |
 | 59 | [Drag Me Down](https://open.spotify.com/track/2K87XMYnUMqLcX3zvtAF4G) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Made In The A.M\. \(Deluxe Edition\)](https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY) | 3:12 |
-| 60 | [Wolves](https://open.spotify.com/track/0tBbt8CrmxbjRP0pueQkyU) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Wolves](https://open.spotify.com/album/5gQZvWM1o8NkQndueJtZcP) | 3:17 |
+| 60 | [On The Floor](https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Love?](https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE) | 4:44 |
 | 61 | [Bang Bang](https://open.spotify.com/track/0puf9yIluy9W0vpMEUoAnN) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Sweet Talker \(Deluxe Version\)](https://open.spotify.com/album/2rDIivxBafNKpgRqlzIRSb) | 3:19 |
 | 62 | [Don't You Worry Child \- Radio Edit](https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Don't You Worry Child](https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY) | 3:32 |
 | 63 | [Love Me Like You Do \- From "Fifty Shades Of Grey"](https://open.spotify.com/track/3zHq9ouUJQFQRf3cm1rRLu) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Delirium \(Deluxe\)](https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j) | 4:12 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgkIjaIMie.md) - [plain]
 | 69 | [Waves \- Robin Schulz Radio Edit](https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Waves \(Robin Schulz Radio Edit\)](https://open.spotify.com/album/29RpLEpfNr1mnrnmtbO620) | 3:28 |
 | 70 | [Am I Wrong](https://open.spotify.com/track/1fidCEsYlaVE3pHwKCvpFZ) | [Nico & Vinz](https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn) | [Black Star Elephant](https://open.spotify.com/album/6zXb9FQMzawvY2Au8Kxky3) | 4:05 |
 
-Snapshot ID: `MTY1NjQ5ODEzMywwMDAwMDAwMGM5ZmYyMjNlYjQ1ZWVmNzM4NWQ3ZmVjZDEyMzc4Zjk1`
+Snapshot ID: `MTY1NjQ5ODEzMywwMDAwMDAwMDliMzY1ZTQxZDAwMzFhYjc1NzM0ZjFlZTAzMjliMTkx`

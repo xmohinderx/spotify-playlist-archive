@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1970s.",
-  "num_followers": 334043,
+  "num_followers": 334329,
   "original_name": "Soft 70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMwNTkwMCwwMDAwMDAwMDNmZjQ2NTMyOGZhNDI4ZmNkMzcxNTkyZTAwZDFmZWQ5",
+  "snapshot_id": "MTY2MDMwNTkwMCwwMDAwMDAwMGE5Yzg2N2VkYWYwZTUwNDBiNGJkYTA0NDVhZmJiM2Jl",
   "tracks": [
     {
       "added_at": "2022-08-12 12:05:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-08-12 12:05:00",
       "album": {
-        "name": "Atlantic Crossing",
-        "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 288266,
-      "name": "I Don't Want to Talk About It - 2008 Remaster",
-      "url": "https://open.spotify.com/track/2JWKzkQbYsNzx019WyGzaH"
-    },
-    {
-      "added_at": "2022-08-12 12:05:00",
-      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 179760,
       "name": "Our House",
       "url": "https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv"
+    },
+    {
+      "added_at": "2022-08-12 12:05:00",
+      "album": {
+        "name": "Atlantic Crossing",
+        "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 288266,
+      "name": "I Don't Want to Talk About It - 2008 Remaster",
+      "url": "https://open.spotify.com/track/2JWKzkQbYsNzx019WyGzaH"
     },
     {
       "added_at": "2022-08-12 12:05:00",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2022-08-12 12:05:00",
       "album": {
-        "name": "Rocky Mountain High",
-        "url": "https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC"
+        "name": "The Rose",
+        "url": "https://open.spotify.com/album/6PXrZg7FMAGm1rnu6widwU"
       },
       "artists": [
         {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+          "name": "Bette Midler",
+          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
         }
       ],
-      "duration_ms": 283640,
-      "name": "Rocky Mountain High",
-      "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
+      "duration_ms": 221373,
+      "name": "The Rose",
+      "url": "https://open.spotify.com/track/562JrM9b7jiu8LgzV62x3o"
     },
     {
       "added_at": "2022-08-12 12:05:00",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2022-08-12 12:05:00",
       "album": {
-        "name": "The Rose",
-        "url": "https://open.spotify.com/album/6PXrZg7FMAGm1rnu6widwU"
+        "name": "Rocky Mountain High",
+        "url": "https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC"
       },
       "artists": [
         {
-          "name": "Bette Midler",
-          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
         }
       ],
-      "duration_ms": 221373,
-      "name": "The Rose",
-      "url": "https://open.spotify.com/track/562JrM9b7jiu8LgzV62x3o"
+      "duration_ms": 283640,
+      "name": "Rocky Mountain High",
+      "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
     },
     {
       "added_at": "2022-08-12 12:05:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-08-12 12:05:00",
       "album": {
-        "name": "Manna",
-        "url": "https://open.spotify.com/album/1X5oLLoyljROH4eCIae1PO"
-      },
-      "artists": [
-        {
-          "name": "Bread",
-          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
-        }
-      ],
-      "duration_ms": 155773,
-      "name": "If",
-      "url": "https://open.spotify.com/track/40W8Mm9t3ZO1iNQlls35lL"
-    },
-    {
-      "added_at": "2022-08-12 12:05:00",
-      "album": {
         "name": "Pleasure & Pain",
         "url": "https://open.spotify.com/album/35XG1sovYmuWPpYCJsEX6F"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 174533,
       "name": "Sharing The Night Together",
       "url": "https://open.spotify.com/track/4M0m4FUdc4wD2guhUHogLF"
+    },
+    {
+      "added_at": "2022-08-12 12:05:00",
+      "album": {
+        "name": "Manna",
+        "url": "https://open.spotify.com/album/1X5oLLoyljROH4eCIae1PO"
+      },
+      "artists": [
+        {
+          "name": "Bread",
+          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
+        }
+      ],
+      "duration_ms": 155773,
+      "name": "If",
+      "url": "https://open.spotify.com/track/40W8Mm9t3ZO1iNQlls35lL"
     },
     {
       "added_at": "2022-08-12 12:05:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2022-08-12 12:05:00",
       "album": {
-        "name": "Where There's Smoke...",
-        "url": "https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson",
-          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
-        }
-      ],
-      "duration_ms": 352920,
-      "name": "Cruisin'",
-      "url": "https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje"
-    },
-    {
-      "added_at": "2022-08-12 12:05:00",
-      "album": {
         "name": "Sky's The Limit",
         "url": "https://open.spotify.com/album/1w68QsDEt1Rt5SiwOJNGFn"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 157653,
       "name": "Don't It Make My Brown Eyes Blue",
       "url": "https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV"
+    },
+    {
+      "added_at": "2022-08-12 12:05:00",
+      "album": {
+        "name": "Where There's Smoke...",
+        "url": "https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson",
+          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
+        }
+      ],
+      "duration_ms": 352920,
+      "name": "Cruisin'",
+      "url": "https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje"
     },
     {
       "added_at": "2022-08-12 12:05:00",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2022-08-12 12:05:00",
       "album": {
-        "name": "Doctor Hook",
-        "url": "https://open.spotify.com/album/0WmdelW8OCAAsxayYY7vHm"
-      },
-      "artists": [
-        {
-          "name": "Dr. Hook",
-          "url": "https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN"
-        }
-      ],
-      "duration_ms": 228333,
-      "name": "Sylvia's Mother",
-      "url": "https://open.spotify.com/track/4hLk7Bjz1XJWNDiqovvgBW"
-    },
-    {
-      "added_at": "2022-08-12 12:05:00",
-      "album": {
         "name": "Red Rose Speedway",
         "url": "https://open.spotify.com/album/0ht0PyiPPsG3mYqvFhTfgD"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 247733,
       "name": "My Love - 2018 Remaster",
       "url": "https://open.spotify.com/track/0Oj0TT23GBH2XuHAaSsloH"
+    },
+    {
+      "added_at": "2022-08-12 12:05:00",
+      "album": {
+        "name": "Doctor Hook",
+        "url": "https://open.spotify.com/album/0WmdelW8OCAAsxayYY7vHm"
+      },
+      "artists": [
+        {
+          "name": "Dr. Hook",
+          "url": "https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN"
+        }
+      ],
+      "duration_ms": 228333,
+      "name": "Sylvia's Mother",
+      "url": "https://open.spotify.com/track/4hLk7Bjz1XJWNDiqovvgBW"
     },
     {
       "added_at": "2022-08-12 12:05:00",
@@ -2039,6 +2039,22 @@
     {
       "added_at": "2022-08-12 12:05:00",
       "album": {
+        "name": "Classic Masters",
+        "url": "https://open.spotify.com/album/48PU11yPb5ZWZ7cOHDXOxo"
+      },
+      "artists": [
+        {
+          "name": "Robert John",
+          "url": "https://open.spotify.com/artist/3pbKylceBTiUa0fZk4J4sJ"
+        }
+      ],
+      "duration_ms": 253213,
+      "name": "Sad Eyes - Remastered",
+      "url": "https://open.spotify.com/track/3w3rLh6wmne91BS2rwgcog"
+    },
+    {
+      "added_at": "2022-08-12 12:05:00",
+      "album": {
         "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
       },
@@ -2059,18 +2075,18 @@
     {
       "added_at": "2022-08-12 12:05:00",
       "album": {
-        "name": "Classic Masters",
-        "url": "https://open.spotify.com/album/48PU11yPb5ZWZ7cOHDXOxo"
+        "name": "CSN",
+        "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
       },
       "artists": [
         {
-          "name": "Robert John",
-          "url": "https://open.spotify.com/artist/3pbKylceBTiUa0fZk4J4sJ"
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
         }
       ],
-      "duration_ms": 253213,
-      "name": "Sad Eyes - Remastered",
-      "url": "https://open.spotify.com/track/3w3rLh6wmne91BS2rwgcog"
+      "duration_ms": 133960,
+      "name": "Just a Song Before I Go",
+      "url": "https://open.spotify.com/track/4dAN7KcWCWx5jV6dpwtfvN"
     },
     {
       "added_at": "2022-08-12 12:05:00",
@@ -2095,22 +2111,6 @@
       "duration_ms": 153066,
       "name": "She - Tous les visages de l\u2019amour",
       "url": "https://open.spotify.com/track/2OxkfL5jW8bvYTCNDLlRSY"
-    },
-    {
-      "added_at": "2022-08-12 12:05:00",
-      "album": {
-        "name": "CSN",
-        "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
-      },
-      "artists": [
-        {
-          "name": "Crosby, Stills & Nash",
-          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
-        }
-      ],
-      "duration_ms": 133960,
-      "name": "Just a Song Before I Go",
-      "url": "https://open.spotify.com/track/4dAN7KcWCWx5jV6dpwtfvN"
     },
     {
       "added_at": "2022-08-12 12:05:00",

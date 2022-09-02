@@ -4416,6 +4416,28 @@
     },
     {
       "album": {
+        "name": "VISUALS (DELUXE)",
+        "url": "https://open.spotify.com/album/1uV3CJwt4iG0IVIYFWt7OZ"
+      },
+      "artists": [
+        {
+          "name": "KUNZITE",
+          "url": "https://open.spotify.com/artist/3rMDCvvekRMD0WON14PwqO"
+        },
+        {
+          "name": "Ratatat",
+          "url": "https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225126,
+      "name": "SATURN",
+      "url": "https://open.spotify.com/track/300FdNRzAAGKn9uYDLw1JU"
+    },
+    {
+      "album": {
         "name": "VISUALS",
         "url": "https://open.spotify.com/album/0zoanXJYpaFO0jND1HzAti"
       },
@@ -5391,7 +5413,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 245138,
       "name": "Walk Away - Disphing Remix",
       "url": "https://open.spotify.com/track/16a9WsLirTU7iMSpgc0Dy7"

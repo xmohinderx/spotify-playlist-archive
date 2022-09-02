@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mWCZw6qYIw.md) - [plain]
 
 > the mood is to scream into your dashboard/choke back tears in the parking lot
 
-[Spotify](https://open.spotify.com/user/spotify) - 583,782 likes - 60 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 583,091 likes - 60 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mWCZw6qYIw.md) - [plain]
 | 23 | [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 |
 | 24 | [I Love You So](https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [I Love You So](https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9) | 2:40 |
 | 25 | [lovely \(with Khalid\)](https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [lovely \(with Khalid\)](https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK) | 3:20 |
-| 26 | [Night Changes](https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 3:46 |
-| 27 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 |
-| 28 | [SNAP](https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR) | 2:59 |
+| 26 | [SNAP](https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR) | 2:59 |
+| 27 | [Night Changes](https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 3:46 |
+| 28 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 |
 | 29 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 |
 | 30 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 |
 | 31 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 |
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mWCZw6qYIw.md) - [plain]
 | 50 | [All Too Well \(10 Minute Version\) \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 10:13 |
 | 51 | [you broke me first](https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [you broke me first](https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc) | 2:49 |
 | 52 | [Story of My Life](https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 4:05 |
-| 53 | [Electric Love](https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 3:38 |
-| 54 | [Before You Go](https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent \(Extended Edition\)](https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8) | 3:35 |
-| 55 | [All Girls Are The Same](https://open.spotify.com/track/4VXIryQMWpIdGgYR4TrjT1) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Goodbye & Good Riddance](https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ) | 2:45 |
-| 56 | [Romantic Homicide](https://open.spotify.com/track/4jonEzO6nIIBt5xPGsyOA0) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/2VOw1TVu3PduPt9LYd3eF2) | 2:12 |
+| 53 | [Romantic Homicide](https://open.spotify.com/track/4jonEzO6nIIBt5xPGsyOA0) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/2VOw1TVu3PduPt9LYd3eF2) | 2:12 |
+| 54 | [Electric Love](https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 3:38 |
+| 55 | [Before You Go](https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent \(Extended Edition\)](https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8) | 3:35 |
+| 56 | [All Girls Are The Same](https://open.spotify.com/track/4VXIryQMWpIdGgYR4TrjT1) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Goodbye & Good Riddance](https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ) | 2:45 |
 | 57 | [double take](https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 2:51 |
 | 58 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 |
 | 59 | [What A Time \(feat\. Niall Horan\)](https://open.spotify.com/track/5WtfUKzXircvW8l5aaVZWT) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Inner Monologue Part 1](https://open.spotify.com/album/1xJ7jIK1tT0aVoJw1fPE6r) | 2:53 |
 | 60 | [Good Days](https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Good Days](https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7) | 4:39 |
 
-Snapshot ID: `MTY2MTQ4NjQ2MCwwMDAwMDAwMGNlY2E3NDUyYTI1ZDdhOGE0YWEyNjg2YzBlZWFmODUw`
+Snapshot ID: `MTY2MTQ4NjQ2MCwwMDAwMDAwMDhkZjM0NWFkMmYyNzFmOGQ5YzFlMDMwYTJiNzFjY2U2`

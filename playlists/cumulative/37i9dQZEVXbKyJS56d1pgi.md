@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Portugal.
 
-570 songs - 1 day 7 hr 34 min - [published](https://open.spotify.com/playlist/5sx0bOwIYMxi0Nf8rS1mMZ)
+571 songs - 1 day 7 hr 38 min - [published](https://open.spotify.com/playlist/5sx0bOwIYMxi0Nf8rS1mMZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Dinero](https://open.spotify.com/track/3ggtU1ZOKO8ZNiqPNyXGcm) | [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o) | [Dinero](https://open.spotify.com/album/6FfydthOJNOSCM8BeSqKh3) | 2:40 | 2021-06-16 | 2021-08-19 |
 | [Disco Arranhado \- Funk Remix](https://open.spotify.com/track/2Gjt4rUHBUH0rMKpBg0hF4) | [Malu](https://open.spotify.com/artist/3fll16LLw6kdDxWzSpJPEQ), [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE) | [Disco Arranhado \(Funk Remix\)](https://open.spotify.com/album/4iQUKFW9eZNn2fWcxuANT8) | 2:05 | 2021-03-27\* | 2022-02-10 |
 | [Diva](https://open.spotify.com/track/2v2tuqtW3N9U32LpG5or2p) | [Yuri NR5](https://open.spotify.com/artist/0Dx6HmR7Rhi8G1osUOxAew) | [Diva](https://open.spotify.com/album/394SuL8jjwGdONdxR67vxn) | 3:35 | 2022-04-08 | 2022-04-13 |
+| [Do I Wanna Know?](https://open.spotify.com/track/3rq5w4bQGigXOfdN30ATJt) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/6645HGh7ZOZSUTpqW9iYLR) | 4:32 | 2022-09-01 |  |
 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 | 2021-11-19 | 2022-03-14 |
 | [Do They Know It's Christmas? \- 1984 Version](https://open.spotify.com/track/0247StOpd3AkeBQzANX4Zf) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Do They Know It's Christmas?](https://open.spotify.com/album/0Q96oESySVI3gLFTkhttn5) | 3:42 | 2021-12-25 | 2021-12-27 |
 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 | 2022-07-23 |  |
@@ -262,7 +263,7 @@
 | [Jingle Bells \- Remastered 1999](https://open.spotify.com/track/4HEOgBHRCExyYVeTyrXsnL) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 2:00 | 2021-12-25 | 2021-12-27 |
 | [Jonah](https://open.spotify.com/track/3gWzTnziivUYzqXtnvgN8q) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:15 | 2021-08-31 | 2021-09-03 |
 | [Junya](https://open.spotify.com/track/1aF9TeHZbe6OVo9dtjPuzK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:27 | 2021-08-31 | 2021-09-02 |
-| [Juramento eterno de sal](https://open.spotify.com/track/0tu5F0rmLZYIdUMEvfRXAo) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Levantaremos al sol](https://open.spotify.com/album/1zsI2PrREclZky5gyN10DR) | 3:25 | 2022-03-12 |  |
+| [Juramento eterno de sal](https://open.spotify.com/track/0tu5F0rmLZYIdUMEvfRXAo) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Levantaremos al sol](https://open.spotify.com/album/1zsI2PrREclZky5gyN10DR) | 3:25 | 2022-03-12 | 2022-09-02 |
 | [Juramento eterno de sal](https://open.spotify.com/track/23E53f3C9SJ9MqBh1f6hEw) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Juramento eterno de sal](https://open.spotify.com/album/181dabcN6rArn5DwOYr3eP) | 3:25 | 2021-08-25 | 2022-03-13 |
 | [Juvena](https://open.spotify.com/track/6vbFZuziJPaFPRCWyQxOxP) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Juvena](https://open.spotify.com/album/0C3QVzznGSXSAw9QmNVpbc) | 2:39 | 2021-06-13 | 2021-06-26 |
 | [Keep Driving](https://open.spotify.com/track/2NcQic8JxdjAlAHuNbOIRE) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:20 | 2022-05-21 | 2022-05-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Take a trip down memory lane with these noughties classics...",
-  "num_followers": 1043461,
+  "num_followers": 1043432,
   "original_name": "Easy 00s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjUwNjE5OSwwMDAwMDAwMGM2ODJjOTI5NTgyY2M1NzY4Nzk1NWZmZGE5NWIyNTIw",
+  "snapshot_id": "MTY0MjUwNjE5OSwwMDAwMDAwMDk3ZWQ2N2IxZmQ2MjgyNzkyNWFhMzQ1MDllNzM2MjA3",
   "tracks": [
     {
       "added_at": "2020-07-08 17:51:15",
@@ -595,6 +595,22 @@
     {
       "added_at": "2020-07-08 17:51:15",
       "album": {
+        "name": "Eyes Open",
+        "url": "https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3"
+      },
+      "artists": [
+        {
+          "name": "Snow Patrol",
+          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+        }
+      ],
+      "duration_ms": 267960,
+      "name": "Chasing Cars",
+      "url": "https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6"
+    },
+    {
+      "added_at": "2020-07-08 17:51:15",
+      "album": {
         "name": "B.o.B Presents: The Adventures of Bobby Ray",
         "url": "https://open.spotify.com/album/7apLPYT8szV1IqTxyVSy5P"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 262466,
       "name": "Bleeding Love",
       "url": "https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE"
-    },
-    {
-      "added_at": "2020-07-08 17:51:15",
-      "album": {
-        "name": "Eyes Open",
-        "url": "https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3"
-      },
-      "artists": [
-        {
-          "name": "Snow Patrol",
-          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
-        }
-      ],
-      "duration_ms": 267960,
-      "name": "Chasing Cars",
-      "url": "https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6"
     },
     {
       "added_at": "2020-07-08 17:51:15",
@@ -683,26 +683,6 @@
     {
       "added_at": "2020-07-08 17:51:15",
       "album": {
-        "name": "B.o.B Presents: The Adventures of Bobby Ray",
-        "url": "https://open.spotify.com/album/7apLPYT8szV1IqTxyVSy5P"
-      },
-      "artists": [
-        {
-          "name": "B.o.B",
-          "url": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
-        },
-        {
-          "name": "Hayley Williams",
-          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
-        }
-      ],
-      "duration_ms": 180480,
-      "name": "Airplanes (feat. Hayley Williams of Paramore)",
-      "url": "https://open.spotify.com/track/6lV2MSQmRIkycDScNtrBXO"
-    },
-    {
-      "added_at": "2020-07-08 17:51:15",
-      "album": {
         "name": "This Is The Life (eDeluxe)",
         "url": "https://open.spotify.com/album/5DaToG3KvHnUgTPqY4cEbq"
       },
@@ -735,22 +715,6 @@
     {
       "added_at": "2020-07-08 17:51:15",
       "album": {
-        "name": "Rock n Roll Jesus",
-        "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
-      },
-      "artists": [
-        {
-          "name": "Kid Rock",
-          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
-        }
-      ],
-      "duration_ms": 297586,
-      "name": "All Summer Long",
-      "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
-    },
-    {
-      "added_at": "2020-07-08 17:51:15",
-      "album": {
         "name": "Hopes And Fears",
         "url": "https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI"
       },
@@ -763,6 +727,22 @@
       "duration_ms": 236160,
       "name": "Somewhere Only We Know",
       "url": "https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg"
+    },
+    {
+      "added_at": "2020-07-08 17:51:15",
+      "album": {
+        "name": "Rock n Roll Jesus",
+        "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
+      },
+      "artists": [
+        {
+          "name": "Kid Rock",
+          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+        }
+      ],
+      "duration_ms": 297586,
+      "name": "All Summer Long",
+      "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
     },
     {
       "added_at": "2020-07-08 17:51:15",
@@ -799,6 +779,26 @@
     {
       "added_at": "2020-07-08 17:51:15",
       "album": {
+        "name": "B.o.B Presents: The Adventures of Bobby Ray",
+        "url": "https://open.spotify.com/album/7apLPYT8szV1IqTxyVSy5P"
+      },
+      "artists": [
+        {
+          "name": "B.o.B",
+          "url": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
+        },
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "duration_ms": 180480,
+      "name": "Airplanes (feat. Hayley Williams of Paramore)",
+      "url": "https://open.spotify.com/track/6lV2MSQmRIkycDScNtrBXO"
+    },
+    {
+      "added_at": "2020-07-08 17:51:15",
+      "album": {
         "name": "The Script",
         "url": "https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO"
       },
@@ -815,22 +815,6 @@
     {
       "added_at": "2020-07-08 17:51:15",
       "album": {
-        "name": "Justified",
-        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 288333,
-      "name": "Cry Me a River",
-      "url": "https://open.spotify.com/track/7Lf7oSEVdzZqTA0kEDSlS5"
-    },
-    {
-      "added_at": "2020-07-08 17:51:15",
-      "album": {
         "name": "A Rush of Blood to the Head",
         "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 226680,
       "name": "In My Place",
       "url": "https://open.spotify.com/track/2nvC4i2aMo4CzRjRflysah"
+    },
+    {
+      "added_at": "2020-07-08 17:51:15",
+      "album": {
+        "name": "Justified",
+        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 288333,
+      "name": "Cry Me a River",
+      "url": "https://open.spotify.com/track/7Lf7oSEVdzZqTA0kEDSlS5"
     },
     {
       "added_at": "2020-07-08 17:51:15",
@@ -983,22 +983,6 @@
     {
       "added_at": "2020-07-08 17:51:15",
       "album": {
-        "name": "Come Away With Me (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 198226,
-      "name": "Come Away With Me",
-      "url": "https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI"
-    },
-    {
-      "added_at": "2020-07-08 17:51:15",
-      "album": {
         "name": "19",
         "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 212040,
       "name": "Make You Feel My Love",
       "url": "https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF"
+    },
+    {
+      "added_at": "2020-07-08 17:51:15",
+      "album": {
+        "name": "Come Away With Me (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 198226,
+      "name": "Come Away With Me",
+      "url": "https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI"
     },
     {
       "added_at": "2020-07-08 17:51:15",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2020-07-08 17:51:15",
       "album": {
-        "name": "In Between Dreams",
-        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 207680,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
-    },
-    {
-      "added_at": "2020-07-08 17:51:15",
-      "album": {
         "name": "A Girl Like Me",
         "url": "https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 226973,
       "name": "Unfaithful",
       "url": "https://open.spotify.com/track/13xxBnXOuiBxVxJI458B0i"
+    },
+    {
+      "added_at": "2020-07-08 17:51:15",
+      "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 207680,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
     },
     {
       "added_at": "2020-07-08 17:51:15",

@@ -4,7 +4,7 @@
 
 > Ouve estas extraordinárias mulheres artistas portuguesas, como MARO, com o volume no máximo
 
-216 songs - 12 hr 20 min - [published](https://open.spotify.com/playlist/2y9YCMBtV9zKs1xMURZiIu)
+217 songs - 12 hr 24 min - [published](https://open.spotify.com/playlist/2y9YCMBtV9zKs1xMURZiIu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,8 @@
 | [Kwanza Sul](https://open.spotify.com/track/0q8gHw5aB1wmzd39ky5pOs) | [Aline Frazão](https://open.spotify.com/artist/6IsFWHFEmSi9ZYnf7JYVLO) | [Kwanza Sul](https://open.spotify.com/album/2RT1MPpnndasJbAv7zUkeo) | 3:57 | 2022-07-05 | 2022-07-29 |
 | [Kwanza Sul](https://open.spotify.com/track/3wee6Fymfcvt9LH4DIU2i8) | [Aline Frazão](https://open.spotify.com/artist/6IsFWHFEmSi9ZYnf7JYVLO) | [Uma Música Angolana](https://open.spotify.com/album/5Etk8veWJAYvVJorNwZfcI) | 3:57 | 2022-07-05 |  |
 | [Leva\-Me a Viajar](https://open.spotify.com/track/5Zjb9BXxEUGvLHHhCxTHj7) | [Sara Carreira](https://open.spotify.com/artist/4ZWBY6qCj0UzSZoEjdBnBH) | [Leva\-Me a Viajar](https://open.spotify.com/album/0XQdOLyu9G6UY2G6p54U8v) | 3:40 | 2022-01-05 | 2022-02-02 |
-| [like we're wired](https://open.spotify.com/track/0jWQBmBX3jowX8AuUXmzjq) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [like we're wired](https://open.spotify.com/album/3MZUsQ4bHveRDrwIxVV40S) | 4:06 | 2022-07-05 |  |
+| [like we're wired](https://open.spotify.com/track/0KcINbJYIerkABczK3q0qo) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [can you see me?](https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE) | 4:04 | 2022-08-02 |  |
+| [like we're wired](https://open.spotify.com/track/0jWQBmBX3jowX8AuUXmzjq) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [like we're wired](https://open.spotify.com/album/3MZUsQ4bHveRDrwIxVV40S) | 4:06 | 2022-07-05 | 2022-09-02 |
 | [Lobisomem](https://open.spotify.com/track/6s2dfXDxAS9o1IculpMGFW) | [Maria Reis](https://open.spotify.com/artist/0DWQj8MLymKN8IpUcB2Yh9) | [Benefício da Dúvida](https://open.spotify.com/album/1yhNNdKPvfXDXrJvKoZBB3) | 4:30 | 2022-05-31 |  |
 | [Lobo Rouco](https://open.spotify.com/track/3aIAGGkdlLC1DCXaq6BTna) | [Rossana](https://open.spotify.com/artist/372srPZ3LinDUNQlKetVFL), [Ana Lua Caiano](https://open.spotify.com/artist/6TeD6DGSCfviinhl40SvYF) | [Lobo Rouco](https://open.spotify.com/album/1OOXvJasWOD1LDty8E7UyH) | 3:12 | 2022-04-05 | 2022-06-01 |
 | [Loop Sessions: Praia do Rosa](https://open.spotify.com/track/19ysopXPLNK3hagon87ZWS) | [Inês Bispo](https://open.spotify.com/artist/6pFehvqhKKnRTP0EP060RZ) | [Loop Sessions: Praia do Rosa](https://open.spotify.com/album/05A4cYIc8LuiX85SOIX2yO) | 3:15 | 2022-08-02 |  |

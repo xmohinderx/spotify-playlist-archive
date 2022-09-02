@@ -4,7 +4,7 @@
 
 > Chill house tracks to power your pilates session.
 
-131 songs - 7 hr 1 min - [published](https://open.spotify.com/playlist/6XgqRzFWaCNVeD21el9Hhr)
+134 songs - 7 hr 12 min - [published](https://open.spotify.com/playlist/6XgqRzFWaCNVeD21el9Hhr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,17 +12,18 @@
 | [Affection](https://open.spotify.com/track/0HiEXZOONGJt3IFmdD3Gjd) | [Goose Groovy](https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA) | [Affection](https://open.spotify.com/album/2rqz6aDLD084T5td7Q6EsL) | 2:56 | 2022-02-10 |  |
 | [Afterbeach](https://open.spotify.com/track/3H9RVmWhpElLLJD83yKw8J) | [Flamentone](https://open.spotify.com/artist/1VzCeERouz6MncrbF2VDxA) | [Afterbeach](https://open.spotify.com/album/7vgZ5UPZSrR02efzNukCu6) | 2:53 | 2021-11-11 |  |
 | [ALFA](https://open.spotify.com/track/5aSNqR86hrZvqGURovp9wH) | [Ralf](https://open.spotify.com/artist/4UIhkghagHG8sGJ3GO75HR) | [ALFA\-DELTA](https://open.spotify.com/album/7n9lRpIn21zIeAjtuFMM2a) | 5:09 | 2021-11-11 | 2022-04-15 |
+| [All Night](https://open.spotify.com/track/1FsSDC4CIumtj3E2eXAEOv) | [mirzo](https://open.spotify.com/artist/7ruFe6EwetUwY0gZuTUAQr) | [All Night](https://open.spotify.com/album/23cnPYmXMtcwd6pD5Oglhq) | 4:03 | 2022-09-02 |  |
 | [All that glitters](https://open.spotify.com/track/3a23Wcf6iYqWZM55UJpemn) | [RaFa Sessions](https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK) | [Compose Yourself](https://open.spotify.com/album/53t4xsId26JE5HRAkUSVxo) | 3:17 | 2021-11-11 |  |
 | [All The Time](https://open.spotify.com/track/7areG6AVvNYVYevmKCfPui) | [Viceboi](https://open.spotify.com/artist/3pQXV6Tz29Jx2b1BDKLfis) | [All The Time](https://open.spotify.com/album/2OFQvKiPxpGGPn6xAOSCvv) | 3:14 | 2021-11-11 |  |
 | [Amalfi](https://open.spotify.com/track/19QYUIYkUEyIixnSbVej4W) | [Lagoa Verde](https://open.spotify.com/artist/2rj97Navn2jTJOZdsrwvWr) | [Amalfi](https://open.spotify.com/album/3GUtE7Dy2XpyOdg1V8uTuF) | 2:45 | 2021-11-11 |  |
-| [Apéritif](https://open.spotify.com/track/4SKLUEuuVz456xe7QZkEQo) | [Mandoja](https://open.spotify.com/artist/0BBuIQuQkbPCu68yfdkmmH) | [Apéritif](https://open.spotify.com/album/3fNgLQ8XzeOW9HMI8AXykN) | 2:44 | 2021-11-11 |  |
+| [Apéritif](https://open.spotify.com/track/4SKLUEuuVz456xe7QZkEQo) | [Mandoja](https://open.spotify.com/artist/0BBuIQuQkbPCu68yfdkmmH) | [Apéritif](https://open.spotify.com/album/3fNgLQ8XzeOW9HMI8AXykN) | 2:44 | 2021-11-11 | 2022-09-02 |
 | [Azucena](https://open.spotify.com/track/0BZofsSA03xAkBeEwNYzH3) | [Sylvani](https://open.spotify.com/artist/581sgZmsCXipWY3qVM4CPS) | [Azucena](https://open.spotify.com/album/2pdFKzzSIDrff7uo6Z20pi) | 3:05 | 2022-06-03 |  |
 | [Backyard Stories](https://open.spotify.com/track/1CbkCuHtCVfLSdvztsQVVJ) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Backyard Stories — Summer Forever](https://open.spotify.com/album/2H4326zTOaXXdJ5h61biES) | 3:06 | 2021-11-11 |  |
 | [Be Here My Heart](https://open.spotify.com/track/5W5KIPpuHfxV9ShftysZ5A) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [They Don't Tell](https://open.spotify.com/album/5kq3QA1lkg3J8TypQyEaQS) | 3:36 | 2022-04-15 |  |
 | [Beatin' Hearts](https://open.spotify.com/track/0pIdMLYe4ptCYafCMIeSjS) | [David Kuro](https://open.spotify.com/artist/0QRp71KIOsY5GrXpOw3JMj) | [Beatin' Hearts](https://open.spotify.com/album/2Ik5fCmCS3OX6MdOBD7Ciw) | 2:28 | 2021-11-11 |  |
 | [Beleza](https://open.spotify.com/track/2kpPKUKlX5W4yZjcAHeySG) | [Damian Parker](https://open.spotify.com/artist/3sQBQExp7ULhVKEjUbfPwg) | [Beleza](https://open.spotify.com/album/1pxLUNVikMin57faqHjn5p) | 2:44 | 2021-11-11 |  |
 | [Below Surface](https://open.spotify.com/track/7tK5mSBltgvDJ6CBuaPvi1) | [Souvren](https://open.spotify.com/artist/1bK9FSWyc2AxzWyR9SEMlX) | [Below Surface](https://open.spotify.com/album/1MiaH6pbnmXy8kQQ8SK6cg) | 3:02 | 2021-11-11 |  |
-| [Biscuit](https://open.spotify.com/track/5cPmiWqjOg48GPxBdKjzGo) | [Frook](https://open.spotify.com/artist/2H7d3jFAzn7cP11A1c37en) | [Cool Sneakers](https://open.spotify.com/album/6CLLHgPGTWJ0HfNy9Ob8gD) | 2:59 | 2021-11-11 |  |
+| [Biscuit](https://open.spotify.com/track/5cPmiWqjOg48GPxBdKjzGo) | [Frook](https://open.spotify.com/artist/2H7d3jFAzn7cP11A1c37en) | [Cool Sneakers](https://open.spotify.com/album/6CLLHgPGTWJ0HfNy9Ob8gD) | 2:59 | 2021-11-11 | 2022-09-02 |
 | [Blink Of An Eye](https://open.spotify.com/track/7bwF8qvBd0DAquB1DVNSfV) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Blink Of An Eye](https://open.spotify.com/album/3k5r1aVVzWQVjufWyUMhYn) | 2:28 | 2021-11-11 |  |
 | [Blue Gold](https://open.spotify.com/track/2TU4uc1YAQrWV57fJ7TPk4) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [Blue Gold](https://open.spotify.com/album/2eRVCECu1ZfOApQApR9opm) | 3:44 | 2021-11-11 |  |
 | [bonny](https://open.spotify.com/track/4HhE9O3Qp2lm0tZSRTG7SU) | [UPTNS](https://open.spotify.com/artist/5ENMUlyo9nxOTnL5LiHMJh) | [bonny](https://open.spotify.com/album/0wpoLN0R9XzLL5oD9YaEF0) | 2:48 | 2021-11-11 |  |
@@ -70,6 +71,7 @@
 | [I Don't Wanna Live Forever \- Taladego Tropical Mix](https://open.spotify.com/track/1MAwVy9fDWnicj5xtzzaAD) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV), [Simon Samaeng](https://open.spotify.com/artist/7n4yZSvg16XY22sxvZzKfw) | [I Don't Wanna Live Forever \(Taladego Tropical Mix\)](https://open.spotify.com/album/6udScTmYkOealnMC3AAd7K) | 4:03 | 2021-11-11 | 2022-02-11 |
 | [I Wish We Had More Time](https://open.spotify.com/track/71F5R77kgxulxZTtgzli7j) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [Outside My Window](https://open.spotify.com/album/4LbymBMUIVzLVYePiouiVh) | 4:28 | 2022-08-19 |  |
 | [I've Got The Feeling](https://open.spotify.com/track/5bDGO5ORzFsUdXQzgxeACC) | [Cymbal Dealers](https://open.spotify.com/artist/4FanGEgeRprmNv0EeYZcje) | [I've Got The Feeling](https://open.spotify.com/album/5HPOU4FAiniS1VDgx3BQw1) | 2:31 | 2022-05-10 |  |
+| [Ibittsa](https://open.spotify.com/track/6icxpvjxlKDbj62NO4Uq3F) | [Lil Harry](https://open.spotify.com/artist/5T1ysNHc5KEa6gjPBahyBc) | [Ibittsa](https://open.spotify.com/album/6GVsl5RdQPKlGEvUYbETI9) | 3:57 | 2022-09-02 |  |
 | [in deep](https://open.spotify.com/track/7rqQxJViCFUr8wcR834xtX) | [genelion](https://open.spotify.com/artist/2TMzn3AIEg6b4Nd28MjUNA) | [in deep](https://open.spotify.com/album/7zqrnHXPFDs3fpqpYRmbih) | 2:37 | 2022-07-08 |  |
 | [Kayser](https://open.spotify.com/track/2RIrQ7XZPKUwa9AprTsWQu) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Kayser](https://open.spotify.com/album/6yjyiL2nfApxt05r3oRSw2) | 2:51 | 2022-05-20 |  |
 | [Lacando](https://open.spotify.com/track/7FzrMqCONRlc3twQKA3ldI) | [Pourin](https://open.spotify.com/artist/28eoDOQ57hVzGolimLCQPD) | [Lacando](https://open.spotify.com/album/74GA0mW6J1bRHolW9VzDmg) | 2:10 | 2021-11-11 |  |
@@ -102,6 +104,7 @@
 | [Play My Heart \- Instrumental Dub](https://open.spotify.com/track/7dND9Gm3abCQZNkWBnU5kp) | [Jorja X](https://open.spotify.com/artist/75eRLowc6cNPJmalbZoU6H) | [Play My Heart](https://open.spotify.com/album/2PMZo9UjJ1HuiRG19jtEvY) | 2:14 | 2022-04-05 |  |
 | [Postcard Paradise](https://open.spotify.com/track/6OtM2h9IyexZg5nc5YBf5p) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Postcard Paradise](https://open.spotify.com/album/0JJmknG7C5fdWAKWxPPQPu) | 2:24 | 2021-11-11 |  |
 | [Pull Me Closer](https://open.spotify.com/track/7wuX42wC2VlCMtazUOJkX8) | [Pillow Kid](https://open.spotify.com/artist/3THB0bPkpqpRVoai1rmnVW) | [Pull Me Closer](https://open.spotify.com/album/52NRFkqvG68E13DZ6QSUfb) | 3:06 | 2021-11-11 |  |
+| [Pura Vida](https://open.spotify.com/track/4lMqdKJtrBGRLkif2MMjXe) | [TRE](https://open.spotify.com/artist/6v7EqgcUdy2NR48iflzHgK), [Julia Thomsen](https://open.spotify.com/artist/5r0183a5eBJthIj3EYtHnE) | [Pura Vida](https://open.spotify.com/album/2e6h8LOHJXlvZhYh5g0umK) | 3:10 | 2022-09-02 |  |
 | [Retreat](https://open.spotify.com/track/03Ea1zretFckOySx9Vb6db) | [Sinee](https://open.spotify.com/artist/51m5eelgEze59Y7Llef5o7) | [Retreat](https://open.spotify.com/album/6o9yafKaNEdM5nxKtA2WyC) | 2:51 | 2021-11-11 |  |
 | [Rhodes Night](https://open.spotify.com/track/42UrWODXMY270D6mVLdGnT) | [Dimitri G](https://open.spotify.com/artist/0c5iXSRogLrwZrZeU4gF6k) | [Rhodes Night](https://open.spotify.com/album/4sMeFxBYKqgEKIfePb9Y0q) | 3:46 | 2021-11-11 |  |
 | [Rich In Mind](https://open.spotify.com/track/3FjIPCz22myDv1EcurByKR) | [Fadez N Rizer](https://open.spotify.com/artist/0Byvk0rx8JPDyTBHKnIfbP) | [Rich In Mind](https://open.spotify.com/album/1gWYZW7bfXIEL1OY9cdTkH) | 2:55 | 2021-11-11 | 2022-05-11 |

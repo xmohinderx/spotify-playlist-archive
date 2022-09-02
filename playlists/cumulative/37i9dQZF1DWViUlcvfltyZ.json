@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Chitarre pi\u00f9 o meno distorte (e in cover i Leatherette)",
+  "description": "Chitarre pi\u00f9 o meno distorte e i Little Pieces in cover \ud83d\udd25",
   "name": "Rock Italia",
   "published_playlist_ids": [
     "1ygHfNTT8YmP8RXH0ojm4P"
@@ -444,6 +444,24 @@
     },
     {
       "album": {
+        "name": "Canzone 7",
+        "url": "https://open.spotify.com/album/2AEHn0g8fL5e5ZzHzdZOtq"
+      },
+      "artists": [
+        {
+          "name": "Little Pieces of Marmelade",
+          "url": "https://open.spotify.com/artist/6ap5FlXui4P9SWOKz98o9Z"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190160,
+      "name": "Canzone 7",
+      "url": "https://open.spotify.com/track/71rPnASxvCbdfVyw7H7GZf"
+    },
+    {
+      "album": {
         "name": "Caro fottutissimo amico (feat. Motta)",
         "url": "https://open.spotify.com/album/4dBHrJUJ6tBAe8pzNWfDRW"
       },
@@ -589,7 +607,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 204575,
       "name": "Da quando \u00e8 morta piet\u00e0",
       "url": "https://open.spotify.com/track/0np00bUKuDmRqUYqhJyuh8"
@@ -607,7 +625,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 186240,
       "name": "Dance",
       "url": "https://open.spotify.com/track/2VCZ29O95ltUrj6Cyck1aX"
@@ -762,6 +780,24 @@
     },
     {
       "album": {
+        "name": "EKOMOSTRO",
+        "url": "https://open.spotify.com/album/0ElZoCtcEi1ff0iSFIhG1j"
+      },
+      "artists": [
+        {
+          "name": "Marrano",
+          "url": "https://open.spotify.com/artist/0eH00KPe73zxJhguRiJRwY"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203803,
+      "name": "EKOMOSTRO",
+      "url": "https://open.spotify.com/track/1gPkmYuKbTfw5VdPCTpcNB"
+    },
+    {
+      "album": {
         "name": "ELDORADO",
         "url": "https://open.spotify.com/album/67fALE8nxySO3qF5B8MUh5"
       },
@@ -857,6 +893,24 @@
       "duration_ms": 173010,
       "name": "Favole (mi hai rotto il caxxo)",
       "url": "https://open.spotify.com/track/5Pqp4dJ2KgZRA4l3dIY9iX"
+    },
+    {
+      "album": {
+        "name": "Fewdrops",
+        "url": "https://open.spotify.com/album/2jupIKsTSSejvwI6ip0ADB"
+      },
+      "artists": [
+        {
+          "name": "Wilt/Plvce",
+          "url": "https://open.spotify.com/artist/6WgDlmIyHKpjFNSAwGmLAr"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209374,
+      "name": "Fewdrops",
+      "url": "https://open.spotify.com/track/21j9o0fKq37tHikEmRzPAf"
     },
     {
       "album": {
@@ -1411,7 +1465,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 284999,
       "name": "La vita fa schifo",
       "url": "https://open.spotify.com/track/38OPZDQmw8dhrl63CafT14"
@@ -1559,7 +1613,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 186400,
       "name": "MolossA",
       "url": "https://open.spotify.com/track/2BsGzAlf0G1t9tx5IFULDL"
@@ -1858,6 +1912,24 @@
     },
     {
       "album": {
+        "name": "Prigionia",
+        "url": "https://open.spotify.com/album/1txqMh7EDjj3V1yJwHmafr"
+      },
+      "artists": [
+        {
+          "name": "Breathe Me In",
+          "url": "https://open.spotify.com/artist/78XpnnstgBFWLIG2ZiDKY7"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212526,
+      "name": "Prigionia",
+      "url": "https://open.spotify.com/track/1zAim4kAlqGntjUw6P6Sov"
+    },
+    {
+      "album": {
         "name": "Proci",
         "url": "https://open.spotify.com/album/79QoacS4YKcsu7aTSLIIvz"
       },
@@ -1887,10 +1959,36 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 159750,
       "name": "PROVARCI",
       "url": "https://open.spotify.com/track/6A3cyQqgcK7etGZr3ytxWb"
+    },
+    {
+      "album": {
+        "name": "Punk",
+        "url": "https://open.spotify.com/album/6SYWYWGIBCQF0rUyjudbtc"
+      },
+      "artists": [
+        {
+          "name": "Bongi",
+          "url": "https://open.spotify.com/artist/3ehxbQ0letT4rNrzvp3SAq"
+        },
+        {
+          "name": "V\u00e1stago",
+          "url": "https://open.spotify.com/artist/17oaBlHbOJj8u7HgDqv7RH"
+        },
+        {
+          "name": "Beart",
+          "url": "https://open.spotify.com/artist/2FVeYpAaDkIoK4z1IRjXF3"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178604,
+      "name": "Punk",
+      "url": "https://open.spotify.com/track/69SfBtxar6Ld6Wg0dQSFkr"
     },
     {
       "album": {
@@ -2429,7 +2527,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 259062,
       "name": "Trails of Me",
       "url": "https://open.spotify.com/track/0YYOvEXpjVsMPEJaUvFWG5"
@@ -2473,6 +2571,24 @@
       "duration_ms": 240641,
       "name": "Ubi maior minor cessat",
       "url": "https://open.spotify.com/track/5yTZP8kf3715F8pyenn4WP"
+    },
+    {
+      "album": {
+        "name": "Un certo Cinema",
+        "url": "https://open.spotify.com/album/18IWUInBbDyCLKQmdo31a9"
+      },
+      "artists": [
+        {
+          "name": "Andreotti",
+          "url": "https://open.spotify.com/artist/4A2XLQQao9kRsNKf4YfKxJ"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244285,
+      "name": "Un certo cinema",
+      "url": "https://open.spotify.com/track/1YJKd3NBLw95k8mZWXnHQM"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIEXqkZKKXl.md) - [plain]
 
 > Background scores to help you sail through the day
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,654 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,660 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIEXqkZKKXl.md) - [plain]
 | 6 | [The Dichotomy Of Fame](https://open.spotify.com/track/3SQxHIOVpQbt3a4uCH9Vuc) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Rockstar](https://open.spotify.com/album/3RZxrS2dDZlbsYtMRM89v8) | 2:40 |
 | 7 | [Om Shanti Om \(Instrumental\)](https://open.spotify.com/track/4kqUlN3craCx3ZIBIfhp2X) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb) | [Om Shanti Om](https://open.spotify.com/album/2cUzlmLfL5LUTSEk7qG09k) | 0:56 |
 | 8 | [Tum Se Hi \(Instrumental\)](https://open.spotify.com/track/6r7QuBSfe9Ooz2VcWAH9jw) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Jab We Met](https://open.spotify.com/album/4OYdTHNgjhXzgVjbqsb0tO) | 4:54 |
-| 9 | [Destroyed In Love \[Lounge Mix\] \(Instrumental\)](https://open.spotify.com/track/40S0GyHvtdogjOhiyP6i1o) | [Jatin\-Lalit](https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ), [Prasoon Joshi](https://open.spotify.com/artist/0e7Xsukwik0zDaqCcSvJTg) | [Fanaa](https://open.spotify.com/album/2L3NV5Fxjrj6mi59Gs5tUx) | 4:50 |
-| 10 | [October Theme](https://open.spotify.com/track/3Kpz1I7PzvFGZ4mAA5WDSY) | [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1) | [October](https://open.spotify.com/album/50K9juQj3cW0vn9usw7XgM) | 3:11 |
+| 9 | [October Theme](https://open.spotify.com/track/3Kpz1I7PzvFGZ4mAA5WDSY) | [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1) | [October](https://open.spotify.com/album/50K9juQj3cW0vn9usw7XgM) | 3:11 |
+| 10 | [Destroyed In Love \[Lounge Mix\] \(Instrumental\)](https://open.spotify.com/track/40S0GyHvtdogjOhiyP6i1o) | [Jatin\-Lalit](https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ), [Prasoon Joshi](https://open.spotify.com/artist/0e7Xsukwik0zDaqCcSvJTg) | [Fanaa](https://open.spotify.com/album/2L3NV5Fxjrj6mi59Gs5tUx) | 4:50 |
 | 11 | [Separation \- Instrumental](https://open.spotify.com/track/3GyffYdNhFgjmywjXt6spW) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ) | [Lakshya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2U02MTp5MJnqV54xsJOVIe) | 2:29 |
 | 12 | [Akash's Love Theme](https://open.spotify.com/track/1glyMug7gR6ahQ8evXYqcy) | [Mike Harvey](https://open.spotify.com/artist/4SeAXyEmckKjoQoweI9fiT) | [Dil Chahta Hai](https://open.spotify.com/album/3Hks2UVvtQT8Q9VHRAJUgI) | 2:10 |
 | 13 | [Dor Theme](https://open.spotify.com/track/0pgw4O5h8wKOVplM54YMCx) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq) | [Dor \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7kiwHm9mwEnOjka8GrN9hS) | 1:49 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIEXqkZKKXl.md) - [plain]
 | 45 | [Masha\-Allah](https://open.spotify.com/track/5F7tfNdJzOP2vjudqmER0O) | [Monty Sharma](https://open.spotify.com/artist/554yyXUEFseU1dwvisHTik) | [Unchained Melodies](https://open.spotify.com/album/7lReU7R3QMMfVdn9SIT7UO) | 5:28 |
 | 46 | [The Tragedie of Omkara](https://open.spotify.com/track/6KOPUTHSkRYK1syHS5kK8y) | [Instrumental](https://open.spotify.com/artist/0wMmGaXRfdHPhqSEAVQIr6) | [Omkara \(Original Motion Pictures\)](https://open.spotify.com/album/2ni91Enmppk7MZvrLSmrkf) | 1:35 |
 | 47 | [Asoka Theme \- Instrumental](https://open.spotify.com/track/5YVL1NL2hGq8N2WH5HsY22) | [Sandeep Chowta](https://open.spotify.com/artist/4eqUmWQwI1nm86edvyGsXy) | [Unchained Melodies](https://open.spotify.com/album/7lReU7R3QMMfVdn9SIT7UO) | 4:01 |
-| 48 | [Hanuman Theme](https://open.spotify.com/track/6J4UQsBAj04eKLRdR480bZ) | [Swapnil Bandodkar](https://open.spotify.com/artist/5yHnIri2Bj5Ysuaki6VOVy) | [Hanuman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3YJ4ybOBMtxPyhdy8Q9al1) | 3:03 |
-| 49 | [Cherrapunji Instrumental \- Bheeg Gaya Mera Mann](https://open.spotify.com/track/1YuyMJ3BfzJnAgm5uZiUiA) | [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4) | [Unchained Melodies](https://open.spotify.com/album/7lReU7R3QMMfVdn9SIT7UO) | 6:57 |
+| 48 | [Cherrapunji Instrumental \- Bheeg Gaya Mera Mann](https://open.spotify.com/track/1YuyMJ3BfzJnAgm5uZiUiA) | [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4) | [Unchained Melodies](https://open.spotify.com/album/7lReU7R3QMMfVdn9SIT7UO) | 6:57 |
+| 49 | [Hanuman Theme](https://open.spotify.com/track/6J4UQsBAj04eKLRdR480bZ) | [Swapnil Bandodkar](https://open.spotify.com/artist/5yHnIri2Bj5Ysuaki6VOVy) | [Hanuman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3YJ4ybOBMtxPyhdy8Q9al1) | 3:03 |
 | 50 | [Vegas Theme \- Instrumental](https://open.spotify.com/track/2AnjzK3GxOGf45ttwYxT4z) | [Ashirvad](https://open.spotify.com/artist/4BXd7j6uYCeZFgi3B5v3K7) | [Rockford \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LUE9RNRU8IpGGYbpjtJpC) | 2:05 |
 
-Snapshot ID: `MTY1NzI2MjM3MCwwMDAwMDAwMDhmOGM2MTFkY2MwNDRjMjFlNTQxOTIxYzgwZDliNzVl`
+Snapshot ID: `MTY1NzI2MjM3MCwwMDAwMDAwMGIxNTgzZjhkZmRhMzEyNWU4N2ZiYjI1OWY0ZDYzMGVm`

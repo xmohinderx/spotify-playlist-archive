@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaEXdyjLdxm.md) - [plain]
 
 ### [Spotify Singles: Pride](https://open.spotify.com/playlist/37i9dQZF1DXcaEXdyjLdxm)
 
-> LGBTQQIA+ artists like you've never heard before\. Cover: Arlo Parks
+> LGBTQQIA+ artists like you've never heard before\. Cover: DOSS
 
 [Spotify](https://open.spotify.com/user/spotify) - 16,261 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [You're The One \- Spotify Singles](https://open.spotify.com/track/0VGgkl6AAAmr6V2jvG98CZ) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Spotify Singles](https://open.spotify.com/album/3M6qytuwCR4nljI0by2bwR) | 3:49 |
-| 2 | [My Future](https://open.spotify.com/track/1VTwC3ckWtSWzNwCvWz1pT) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [Spotify Singles](https://open.spotify.com/album/0PNOAfrc2KfgKH2ZaKuNs7) | 3:31 |
-| 3 | [Smalltown Boy \- Spotify Singles](https://open.spotify.com/track/2UyJBtpLTxB5D4M0Apvu7e) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Smalltown Boy \(Spotify Singles\)](https://open.spotify.com/album/6O29X2hJNBL6TE2SSKQnmL) | 5:17 |
-| 4 | [Cherry \- Spotify Singles](https://open.spotify.com/track/7H5X2cvqCTJ8C8loGvMRDN) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Cherry \- Spotify Singles](https://open.spotify.com/album/7jvb4QdT1rCfub5WSZsv0p) | 3:00 |
+| 1 | [Cherry \- Spotify Singles](https://open.spotify.com/track/7H5X2cvqCTJ8C8loGvMRDN) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Cherry \- Spotify Singles](https://open.spotify.com/album/7jvb4QdT1rCfub5WSZsv0p) | 3:00 |
+| 2 | [You're The One \- Spotify Singles](https://open.spotify.com/track/0VGgkl6AAAmr6V2jvG98CZ) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Spotify Singles](https://open.spotify.com/album/3M6qytuwCR4nljI0by2bwR) | 3:49 |
+| 3 | [My Future](https://open.spotify.com/track/1VTwC3ckWtSWzNwCvWz1pT) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [Spotify Singles](https://open.spotify.com/album/0PNOAfrc2KfgKH2ZaKuNs7) | 3:31 |
+| 4 | [Smalltown Boy \- Spotify Singles](https://open.spotify.com/track/2UyJBtpLTxB5D4M0Apvu7e) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Smalltown Boy \(Spotify Singles\)](https://open.spotify.com/album/6O29X2hJNBL6TE2SSKQnmL) | 5:17 |
 | 5 | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/track/0Muqa8sNqVvjEQo4yfBKXw) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/album/4TOyAu2CWO1kPitP0AxAZV) | 4:32 |
 | 6 | [California Dreamin' \- Spotify Singles](https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spotify Singles](https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD) | 2:53 |
 | 7 | [Stay \- Spotify Singles](https://open.spotify.com/track/2mKGjVCoxL8Um9GkNhhyto) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Spotify Singles](https://open.spotify.com/album/6lsdqhAPgBr4zykC1SXhW5) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaEXdyjLdxm.md) - [plain]
 | 49 | [Charity \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5tKnchisFlUbdp033DgS6K) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Spotify Singles](https://open.spotify.com/album/39XVP9BnseAz2Bn42EuWlS) | 4:01 |
 | 50 | [Summer's End \- Spotify Singles](https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Maria Taylor](https://open.spotify.com/artist/6iKiDPed4LAQEcPZpvf00m) | [Spotify Singles](https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs) | 3:54 |
 
-Snapshot ID: `MTY2MDI1MTY4MiwwMDAwMDAwMDdhNWY5NzA0YzY3NjNhMWJjMDRiZTdmZGQzM2Y0MDYw`
+Snapshot ID: `MTY2MjA2MTcyMiwwMDAwMDAwMGI2MWIyZGQ2MGI1N2Q4Y2JiNzVlNWRjNGE2MjFiNGQ4`

@@ -172,6 +172,46 @@
     },
     {
       "album": {
+        "name": "Anta",
+        "url": "https://open.spotify.com/album/4vPYDw5xJNhJwqFDDJXyfY"
+      },
+      "artists": [
+        {
+          "name": "Rima Yussef",
+          "url": "https://open.spotify.com/artist/44AnhJxSH9AE3b6KpO5rZl"
+        },
+        {
+          "name": "Eljoee",
+          "url": "https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163404,
+      "name": "Anta",
+      "url": "https://open.spotify.com/track/3SaJambg6zRQ6MWf2pOAC9"
+    },
+    {
+      "album": {
+        "name": "Arghane Manine",
+        "url": "https://open.spotify.com/album/6x5dQHzmvNohax3P2kqLHP"
+      },
+      "artists": [
+        {
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300186,
+      "name": "Arghane Manine",
+      "url": "https://open.spotify.com/track/1WiTAUE8gMPKRTuE4zt4vc"
+    },
+    {
+      "album": {
         "name": "Babour Ellouh (Waves Edit)",
         "url": "https://open.spotify.com/album/1rpR2Xk0gSPO48EuRFzbaA"
       },
@@ -999,7 +1039,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 242000,
       "name": "My Love",
       "url": "https://open.spotify.com/track/7xE1TaILTJl91YvQdVB54i"

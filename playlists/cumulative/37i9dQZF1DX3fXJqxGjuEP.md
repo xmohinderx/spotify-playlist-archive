@@ -4,7 +4,7 @@
 
 > ¡Dale buena onda cálida y frutal a tu día!
 
-410 songs - 1 day 0 hr 35 min - [published](https://open.spotify.com/playlist/1MlSIdAeQjly6eYigD5wpF)
+411 songs - 1 day 0 hr 39 min - [published](https://open.spotify.com/playlist/1MlSIdAeQjly6eYigD5wpF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Amor De Verano](https://open.spotify.com/track/0ftQLiC3Whfsb3b6nWAoPK) | [Vacación](https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd), [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag) | [Tiempo Compartido](https://open.spotify.com/album/60iutg1EYIP0B3ZtYGcj4a) | 3:06 | 2021-10-20 |  |
 | [Amor Entre Mujer](https://open.spotify.com/track/7kbLWbsm16J2WimzrC0iDA) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Polocorp](https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Amor Entre Mujer](https://open.spotify.com/album/4tRbLBaf7fQaYZnZp41ttO) | 4:32 | 2022-06-08 | 2022-08-14 |
 | [Amor Frutero](https://open.spotify.com/track/5TVDnNLRq8ABVgfVqVqtsQ) | [Camila Luna](https://open.spotify.com/artist/1aMXU2xuC6FdOyD7SFdL3X) | [Flora y Fauna](https://open.spotify.com/album/0K2e7hGdBB7FKM0NtpkYaK) | 2:53 | 2021-10-20 | 2022-07-17 |
+| [Amores Pasajeros](https://open.spotify.com/track/30jKRzjsGEAGqrdHytq2jf) | [Me Dicen Jos](https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV) | [Amores Pasajeros](https://open.spotify.com/album/7HY7s4wLp5UvVFTJzW2Xbc) | 3:27 | 2022-09-01 |  |
 | [Apagar La Luz](https://open.spotify.com/track/3TcuNA7pX70mAfY6lSIAWj) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Apagar La Luz](https://open.spotify.com/album/05AxvQtGggRLMKjp4eGqWn) | 3:55 | 2021-10-20 | 2022-07-29 |
 | [Apretao](https://open.spotify.com/track/0UlOugUajezBfTpzwO77Ny) | [Ramon Chicharron](https://open.spotify.com/artist/5tRvJi08ALKPOojVS4ch5s), [Boogát](https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R) | [Pescador de Sueños](https://open.spotify.com/album/1DtKs4ri0nya6YmWd6WlrP) | 3:13 | 2021-10-20 | 2022-07-29 |
 | [Aquí Me Tienes](https://open.spotify.com/track/1mn07IQ6mb5PbpIdTw1wtR) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [Aquí Me Tienes](https://open.spotify.com/album/4qxs8GmOoIiALQJrhIsOjN) | 2:37 | 2021-10-20 | 2022-07-29 |
@@ -235,7 +236,7 @@
 | [Manantial en la Arena](https://open.spotify.com/track/2MMSi1VHFZJPiAvLdjFLtE) | [Los Aguas Aguas](https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG) | [Manantial en la Arena](https://open.spotify.com/album/27hp3mqAlbKkVyV7T4f02U) | 3:59 | 2021-10-20 | 2022-07-29 |
 | [Mar](https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Mar](https://open.spotify.com/album/0TIM64cPYNqIedeY5rNaG2) | 3:58 | 2021-10-20 |  |
 | [Marineros](https://open.spotify.com/track/1TIyjwt0Q7tOe99lu1SjRA) | [Ulises Hadjis](https://open.spotify.com/artist/5Udwg8yiCTj2zTRt8zKRWH) | [Marineros](https://open.spotify.com/album/0fJJS7pmFtmEH5Lrfneny0) | 2:08 | 2022-08-08 | 2022-08-18 |
-| [Maré](https://open.spotify.com/track/2TGNiLgm0TpUVVDSdf1gyt) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Drama](https://open.spotify.com/album/4XGFdSkArqglb0DLPeh8N5) | 3:33 | 2021-10-20 |  |
+| [Maré](https://open.spotify.com/track/2TGNiLgm0TpUVVDSdf1gyt) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Drama](https://open.spotify.com/album/4XGFdSkArqglb0DLPeh8N5) | 3:33 | 2021-10-20 | 2022-09-02 |
 | [Mata Sede](https://open.spotify.com/track/00cXGXJcYmzfHut7Vvvuoa) | [La Dame Blanche](https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG), [Amanda Magalhães](https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO) | [Mata Sede](https://open.spotify.com/album/7nxl1QFQaHyy6ovhcWaddt) | 3:15 | 2021-10-20 | 2022-04-17 |
 | [Maz Paz](https://open.spotify.com/track/6Js2gWnnIDA9lrn7l1mIxg) | [Cumbiasound](https://open.spotify.com/artist/1iW2PQWBqrMqT3yNfcHrVv), [Lis Flores Varela](https://open.spotify.com/artist/1J5GfFHQdauwIzc38Wib1C), [Boogie Castillo](https://open.spotify.com/artist/3y7a1cuQlXDJmonftCDqbj) | [Cosas Del Universo](https://open.spotify.com/album/036AR7pZFfjmQ6wX2c2dCk) | 3:57 | 2021-10-20 |  |
 | [Me Despido](https://open.spotify.com/track/1oUg14EXsSP4PBGwUdi9pK) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Me Despido](https://open.spotify.com/album/5MhjG5ue9lQZpZnapV2QMw) | 3:49 | 2021-10-20 | 2022-04-20 |

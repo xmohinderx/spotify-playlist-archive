@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > Japanese female rock icons\. Cover: SHISHAMO
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,529 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,529 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,27 +36,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 26 | [エンドロール](https://open.spotify.com/track/34leYne4zziRmoUEj82Jlc) | [東京初期衝動](https://open.spotify.com/artist/0yIugVENIPSMYiZTYi2CUM) | [エンドロール / コマンドバトル!](https://open.spotify.com/album/3VZI9J4WFixloKbFyuaSnF) | 4:47 |
 | 27 | [足りない](https://open.spotify.com/track/2FPGL1mHYG1vmNSR8up277) | [DUSTCELL](https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B) | [足りない](https://open.spotify.com/album/3kM6SqdM1TL190mApO9HLi) | 3:00 |
 | 28 | [Unleash!!!!!](https://open.spotify.com/track/2XQF5hFvxyzzAkGWb3sQFM) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash!!!!!](https://open.spotify.com/album/3gwgfh9R9KL1m1YOqnVh3G) | 3:10 |
-| 29 | [又三郎](https://open.spotify.com/track/3WtIXrla0ovC9MOIY78Vr8) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [又三郎](https://open.spotify.com/album/4AwuTLeiuyjx93I05ZBS82) | 3:47 |
+| 29 | [minamisenju](https://open.spotify.com/track/1mp86sit6E3951MCbwvAj3) | [downt](https://open.spotify.com/artist/1u3B7ghkXe7pvfxZTmBJlV) | [SAKANA e.p.](https://open.spotify.com/album/0ZeigWcAC16AtsdVXBzLJ5) | 3:13 |
 | 30 | [Hey! Stay by my side!](https://open.spotify.com/track/5IDfSmahBmnRrbbEZiOjNF) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [Hey! Stay by my side!](https://open.spotify.com/album/64DJ8QPZHszlBdA0R9SeZz) | 2:27 |
 | 31 | [閃光少女](https://open.spotify.com/track/6bsQqsm2EAztXE6kk6hR2s) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [スポーツ](https://open.spotify.com/album/5Gslq3e8XngG3BZfrpvhaU) | 2:57 |
 | 32 | [はっぴーえんどろーる](https://open.spotify.com/track/1Q9Vc0U3BQLNj2IkMna71B) | [I's](https://open.spotify.com/artist/2nLJEolH6pXx09IC4LrWBU) | [不毛戦争](https://open.spotify.com/album/0gmzOSsYslS933LRmEvzb9) | 4:06 |
 | 33 | [勘冴えて悔しいわ](https://open.spotify.com/track/7zbfS30vKiHU8oBs6Wi1Qp) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [潜潜話](https://open.spotify.com/album/4myzXA54fPm89hpW41YkOS) | 3:56 |
-| 34 | [クロノスタシス](https://open.spotify.com/track/6Mavd9uk89Y9OTdvcDTfGG) | [Kinokoteikoku](https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ) | [フェイクワールドワンダーランド](https://open.spotify.com/album/13xXU66oGXokggAEHnUcfR) | 3:47 |
-| 35 | [Sense](https://open.spotify.com/track/2jnCDRKe4IfoIN2teGn308) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Sense](https://open.spotify.com/album/6AaDmp2qhU98vhQ7ukQ6PQ) | 3:24 |
+| 34 | [又三郎](https://open.spotify.com/track/3WtIXrla0ovC9MOIY78Vr8) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [又三郎](https://open.spotify.com/album/4AwuTLeiuyjx93I05ZBS82) | 3:47 |
+| 35 | [クロノスタシス](https://open.spotify.com/track/6Mavd9uk89Y9OTdvcDTfGG) | [Kinokoteikoku](https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ) | [フェイクワールドワンダーランド](https://open.spotify.com/album/13xXU66oGXokggAEHnUcfR) | 3:47 |
 | 36 | [tender icecream](https://open.spotify.com/track/1EzLPxQ7Ql4aIZkNCIEiqY) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [Seasons.ep](https://open.spotify.com/album/6ZZqCvMiApoWGZfsCYVDAB) | 3:30 |
-| 37 | [Landscape](https://open.spotify.com/track/1cvluyKT1Iw1NZGGUgQ8u4) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Landscape](https://open.spotify.com/album/1MwodpSl0YAbklUKWwqitl) | 3:51 |
+| 37 | [Sense](https://open.spotify.com/track/2jnCDRKe4IfoIN2teGn308) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Sense](https://open.spotify.com/album/6AaDmp2qhU98vhQ7ukQ6PQ) | 3:24 |
 | 38 | [ちぐはぐ](https://open.spotify.com/track/1JyAF5ZrfRKOqEgOE47O3x) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [ちぐはぐ](https://open.spotify.com/album/4cYWoRhzlW4xWnwInQPX0q) | 3:48 |
-| 39 | [愛のしるし](https://open.spotify.com/track/39ctCzopDN0dYr26AKmQOP) | [Puffy AmiYumi](https://open.spotify.com/artist/2wPaW7JIZGyM16donpyBmW) | [JET CD](https://open.spotify.com/album/1Rfgzkyxu5BBqtVWncmH7C) | 2:48 |
+| 39 | [Landscape](https://open.spotify.com/track/1cvluyKT1Iw1NZGGUgQ8u4) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Landscape](https://open.spotify.com/album/1MwodpSl0YAbklUKWwqitl) | 3:51 |
 | 40 | [前説ADvance](https://open.spotify.com/track/4BmL1q2aXSsgOJkGExlIjZ) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [前説ADvance](https://open.spotify.com/album/7B3cMK62VedHD4Jjqf7Fce) | 4:11 |
 | 41 | [ばかじゃないのに](https://open.spotify.com/track/2UkcZV07LP39NQg9tGBvnh) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ばかじゃないのに](https://open.spotify.com/album/6XY8TrEZf0R3xnm6kouGzT) | 4:16 |
 | 42 | [Insane](https://open.spotify.com/track/7767zyhnMU4ElJJjwiGeL6) | [SOM4LI](https://open.spotify.com/artist/7DT4fNnvRM3afyDfwm3hof) | [ESCAPISM](https://open.spotify.com/album/7FntC1u2oCXwFPwGK5EUSU) | 3:08 |
-| 43 | [そばかす](https://open.spotify.com/track/0IL7LGrnYObWYyYaJ3GzWr) | [JUDY AND MARY](https://open.spotify.com/artist/7unNuvk3OEqGmegHTaxRA9) | [そばかす](https://open.spotify.com/album/5Vl05dEPdeLwUXc6OIcrrT) | 4:15 |
+| 43 | [愛のしるし](https://open.spotify.com/track/39ctCzopDN0dYr26AKmQOP) | [Puffy AmiYumi](https://open.spotify.com/artist/2wPaW7JIZGyM16donpyBmW) | [JET CD](https://open.spotify.com/album/1Rfgzkyxu5BBqtVWncmH7C) | 2:48 |
 | 44 | [アンセムソング](https://open.spotify.com/track/50rQOu4LKZSNJuuJUhV2SK) | [Atomic Skipper](https://open.spotify.com/artist/3BraNqS870zA5KxrtuZXAd) | [アンセムソング](https://open.spotify.com/album/5pqd0qrMIrSbQkyk7PMPrL) | 3:37 |
-| 45 | [華奢なリップ \(feat\. ちゃんみな\)](https://open.spotify.com/track/0wOkiindak4Dx5e4CuylaP) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [華奢なリップ \(feat\. ちゃんみな\)](https://open.spotify.com/album/7jvzFjCae8MXblb8lmeXCm) | 4:28 |
+| 45 | [そばかす](https://open.spotify.com/track/0IL7LGrnYObWYyYaJ3GzWr) | [JUDY AND MARY](https://open.spotify.com/artist/7unNuvk3OEqGmegHTaxRA9) | [そばかす](https://open.spotify.com/album/5Vl05dEPdeLwUXc6OIcrrT) | 4:15 |
 | 46 | [追憶](https://open.spotify.com/track/1S4Ti5UJh9eol0VVG5wMN2) | [meow](https://open.spotify.com/artist/2eUHtoViG2vBrLdBSXDEvC) | [追憶](https://open.spotify.com/album/6c10UiPwNuI2Us4g7zBvfv) | 5:39 |
-| 47 | [No Time to Cast Anchor](https://open.spotify.com/track/1fNDKKuErDdqMka5NhwkeF) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [No Time to Cast Anchor](https://open.spotify.com/album/6zeWOVv8Kt4iI5wqCR4eYt) | 3:12 |
+| 47 | [華奢なリップ \(feat\. ちゃんみな\)](https://open.spotify.com/track/0wOkiindak4Dx5e4CuylaP) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [華奢なリップ \(feat\. ちゃんみな\)](https://open.spotify.com/album/7jvzFjCae8MXblb8lmeXCm) | 4:28 |
 | 48 | [shinon](https://open.spotify.com/track/1KqQkc5arJqW3YVLZbjoHs) | [snooty](https://open.spotify.com/artist/4yuXex0AzwrDsTChZmGYvR) | [shinon](https://open.spotify.com/album/42zTHNSwZXqDGUQlQy1LTU) | 4:54 |
-| 49 | [ヘビースモーク](https://open.spotify.com/track/6SZxiOImowwY2pcYjnrf8n) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [ヘビースモーク](https://open.spotify.com/album/3vviZ2ljJiDqTAHm7OCTCd) | 5:02 |
+| 49 | [No Time to Cast Anchor](https://open.spotify.com/track/1fNDKKuErDdqMka5NhwkeF) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [No Time to Cast Anchor](https://open.spotify.com/album/6zeWOVv8Kt4iI5wqCR4eYt) | 3:12 |
 | 50 | [いなくなったもの](https://open.spotify.com/track/6jUHx2SGaAtxNWyT6kqAIO) | [最果テルーティン](https://open.spotify.com/artist/2yAThkujbnqrhoqPMdoxpX) | [ないちゃった、](https://open.spotify.com/album/62scCEXozPOw1OmCGf3Vkl) | 5:04 |
 
-Snapshot ID: `MTY2MTg3MTYwMCwwMDAwMDAwMDRkYzI5N2JlYWJmYWRmZDU1ZmU1MGVjMTFiOWE0N2Y1`
+Snapshot ID: `MTY2MjA0NjQ4NCwwMDAwMDAwMGIxNzkwYTYyZGJmMDczZjc0ZWEyMTIxZTRmMzg1OTcy`

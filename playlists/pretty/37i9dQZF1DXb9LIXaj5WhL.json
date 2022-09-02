@@ -1,12 +1,12 @@
 {
   "description": "90s acoustics, mellow hits, and classic unplugged versions.",
-  "num_followers": 2244345,
+  "num_followers": 2244165,
   "original_name": "90s Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzcwMDQxOCwwMDAwMDAwMDA5MTMzMTJlMzhmZjM5ZjdhMzM2OWVkMzZhMGEzNzhh",
+  "snapshot_id": "MTY1NzcwMDQxOCwwMDAwMDAwMGQ1MDJlMDkxNTJiMzM3NjJjZjg3YzQxOTM5NDA5OWJj",
   "tracks": [
     {
       "added_at": "2020-11-18 19:14:53",
@@ -619,22 +619,6 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "Collective Soul",
-        "url": "https://open.spotify.com/album/6zGQoUd5QQ65xMx5OycFgE"
-      },
-      "artists": [
-        {
-          "name": "Collective Soul",
-          "url": "https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6"
-        }
-      ],
-      "duration_ms": 255466,
-      "name": "The World I Know",
-      "url": "https://open.spotify.com/track/1HSVpIU0XU1WuwiBLBWAZd"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
         "name": "Days Of The New",
         "url": "https://open.spotify.com/album/3JtPH618I1PMOrafvH8Xo8"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 297146,
       "name": "Touch, Peel And Stand",
       "url": "https://open.spotify.com/track/2eG7o3BfbzohiETArwsX1K"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "Collective Soul",
+        "url": "https://open.spotify.com/album/6zGQoUd5QQ65xMx5OycFgE"
+      },
+      "artists": [
+        {
+          "name": "Collective Soul",
+          "url": "https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6"
+        }
+      ],
+      "duration_ms": 255466,
+      "name": "The World I Know",
+      "url": "https://open.spotify.com/track/1HSVpIU0XU1WuwiBLBWAZd"
     },
     {
       "added_at": "2020-11-18 19:14:53",

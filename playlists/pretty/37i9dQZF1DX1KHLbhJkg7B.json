@@ -1,12 +1,12 @@
 {
   "description": "Unique versions of hit songs by other artists. Cover: Ashley McBryde",
-  "num_followers": 76616,
+  "num_followers": 76674,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMDgwMzZkYzFhYThhNjEyZmU1OTIzYTU2Y2JmODM5ZWUy",
+  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMGIzMGJlNzZiNzhmOTIyYzRjNzA0N2MwYTljNzA1YjBi",
   "tracks": [
     {
       "added_at": "2022-08-26 04:02:00",
@@ -627,8 +627,8 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Nashville Rebel",
-        "url": "https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg"
+        "name": "Live Forever",
+        "url": "https://open.spotify.com/album/61IyMbppx5SvsZO0i3FJnf"
       },
       "artists": [
         {
@@ -636,21 +636,13 @@
           "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         },
         {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        },
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+          "name": "Lucinda Williams",
+          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
         }
       ],
-      "duration_ms": 182973,
-      "name": "Highwayman",
-      "url": "https://open.spotify.com/track/6uvT4Di9ZRBw5cbexZJDts"
+      "duration_ms": 180135,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/4ofZpP3iFaQ1GRtxOPbySO"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -771,6 +763,50 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
+        "name": "Nashville Rebel",
+        "url": "https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 182973,
+      "name": "Highwayman",
+      "url": "https://open.spotify.com/track/6uvT4Di9ZRBw5cbexZJDts"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7DzULGMf4tFgZ65CFlZugm"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 157025,
+      "name": "Much Too Young (To Feel This Damn Old) - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2Zv9cKaT82kHOutvQmBUnD"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
         "name": "16 Biggest Hits",
         "url": "https://open.spotify.com/album/07KOJyGSNCoYVoWZafFt5W"
       },
@@ -799,42 +835,6 @@
       "duration_ms": 198786,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/4zWjHKeCkNcNUrSBPNIGkc"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Live Forever",
-        "url": "https://open.spotify.com/album/61IyMbppx5SvsZO0i3FJnf"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Lucinda Williams",
-          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
-        }
-      ],
-      "duration_ms": 180135,
-      "name": "Live Forever",
-      "url": "https://open.spotify.com/track/4ofZpP3iFaQ1GRtxOPbySO"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7DzULGMf4tFgZ65CFlZugm"
-      },
-      "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        }
-      ],
-      "duration_ms": 157025,
-      "name": "Much Too Young (To Feel This Damn Old) - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2Zv9cKaT82kHOutvQmBUnD"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -887,6 +887,22 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
+        "name": "Vienna",
+        "url": "https://open.spotify.com/album/7y83ATsotdhOR8adq6fobK"
+      },
+      "artists": [
+        {
+          "name": "Matt Schuster",
+          "url": "https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Vienna",
+      "url": "https://open.spotify.com/track/1I9htETbx6XBkh0kyCz5uW"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
         "name": "15 Years, the Wild Ride",
         "url": "https://open.spotify.com/album/0OjAJhXHWApxkPtPJHOPVW"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 213938,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/4pWb8UZ6IPVJA3CPjCNgzq"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Vienna",
-        "url": "https://open.spotify.com/album/7y83ATsotdhOR8adq6fobK"
-      },
-      "artists": [
-        {
-          "name": "Matt Schuster",
-          "url": "https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Vienna",
-      "url": "https://open.spotify.com/track/1I9htETbx6XBkh0kyCz5uW"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Someone You Loved",
-        "url": "https://open.spotify.com/album/1z9rgqCPr9UaOxipFCHZN5"
-      },
-      "artists": [
-        {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
-        }
-      ],
-      "duration_ms": 171320,
-      "name": "Someone You Loved",
-      "url": "https://open.spotify.com/track/2Gd3xovLjWKqPIfQNs3LP0"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "Your Body Is a Wonderland",
         "url": "https://open.spotify.com/album/27P5OkGiawj435vcXE0zwM"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 217659,
       "name": "Your Body Is a Wonderland",
       "url": "https://open.spotify.com/track/4MK7QI7Z3kwAv6utvZNcEw"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Someone You Loved",
+        "url": "https://open.spotify.com/album/1z9rgqCPr9UaOxipFCHZN5"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "duration_ms": 171320,
+      "name": "Someone You Loved",
+      "url": "https://open.spotify.com/track/2Gd3xovLjWKqPIfQNs3LP0"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Die a Happy Man",
-        "url": "https://open.spotify.com/album/2HL3GgGShK9spfzvhGcHM4"
-      },
-      "artists": [
-        {
-          "name": "Nelly",
-          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
-        }
-      ],
-      "duration_ms": 214495,
-      "name": "Die a Happy Man",
-      "url": "https://open.spotify.com/track/1mExCoXAGKI6abLGXoG7O3"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "Loud and Heavy",
         "url": "https://open.spotify.com/album/6OQW4qOQaYacMXohv1cL8U"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 201076,
       "name": "Loud and Heavy",
       "url": "https://open.spotify.com/track/6d5Ip7MN38R1av3Yf4BKMU"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Die a Happy Man",
+        "url": "https://open.spotify.com/album/2HL3GgGShK9spfzvhGcHM4"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        }
+      ],
+      "duration_ms": 214495,
+      "name": "Die a Happy Man",
+      "url": "https://open.spotify.com/track/1mExCoXAGKI6abLGXoG7O3"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Just to See You Smile",
-        "url": "https://open.spotify.com/album/1J2QLVUYxNpY1AXYl7iUqA"
-      },
-      "artists": [
-        {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
-        }
-      ],
-      "duration_ms": 269525,
-      "name": "Just to See You Smile",
-      "url": "https://open.spotify.com/track/0KCLvp7viHNA3UsJyV0O6W"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "Kellyoke",
         "url": "https://open.spotify.com/album/6NHAQ0pGd5ufv61Irqdpmi"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 232005,
       "name": "Blue Bayou",
       "url": "https://open.spotify.com/track/3w67gvawlNpzU1YiP355OM"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Just to See You Smile",
+        "url": "https://open.spotify.com/album/1J2QLVUYxNpY1AXYl7iUqA"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "duration_ms": 269525,
+      "name": "Just to See You Smile",
+      "url": "https://open.spotify.com/track/0KCLvp7viHNA3UsJyV0O6W"
     },
     {
       "added_at": "2022-08-26 04:02:00",

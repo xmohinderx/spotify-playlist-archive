@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 1950s\. Cover: Elvis.
 
-260 songs - 11 hr 21 min - [published](https://open.spotify.com/playlist/5d834Vfy0GpgZiax0dUN0t)
+261 songs - 11 hr 23 min - [published](https://open.spotify.com/playlist/5d834Vfy0GpgZiax0dUN0t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Can't Buy Me Love \- Remastered 2009](https://open.spotify.com/track/3SdingSsFcZDZAyvcJbgAw) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [A Hard Day's Night \(Remastered\)](https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV) | 2:11 | 2022-06-07 |  |
 | [Chantilly Lace](https://open.spotify.com/track/07GtDOCxmye5KDWsTSACPk) | [The Big Bopper](https://open.spotify.com/artist/2gNK2HAaLVz5DZoD2moDQj) | [Chantilly Lace](https://open.spotify.com/album/4rjNs9o3EjMVQlwV7EuhGS) | 2:25 | 2022-06-07 |  |
 | [Chantilly Lace \- Single Version](https://open.spotify.com/track/6h7QjxbS5XbfGIe0Oxij61) | [The Big Bopper](https://open.spotify.com/artist/2gNK2HAaLVz5DZoD2moDQj) | [Dreamboats And Petticoats](https://open.spotify.com/album/5X76bfwHrnIcl0tJicbjTK) | 2:23 | 2021-04-23 | 2022-07-29 |
-| [Charlie Brown](https://open.spotify.com/track/6Q0aBakbTsjQO6iGdxmXlx) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [Rhino Hi\-Five: The Coasters](https://open.spotify.com/album/2Yvat4w8j7hrJ1JVUz0wAw) | 2:21 | 2021-04-23 |  |
+| [Charlie Brown](https://open.spotify.com/track/6Q0aBakbTsjQO6iGdxmXlx) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [Rhino Hi\-Five: The Coasters](https://open.spotify.com/album/2Yvat4w8j7hrJ1JVUz0wAw) | 2:21 | 2021-04-23 | 2022-09-02 |
+| [Charlie Brown \- 2007 Remaster Stereo Single Version; Remastered](https://open.spotify.com/track/6t83zAQg9Efca1u1DPL930) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [There's A Riot Goin' On: The Coasters On Atco](https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku) | 2:21 | 2022-06-07 |  |
 | [Cheek To Cheek](https://open.spotify.com/track/33jt3kYWjQzqn3xyYQ5ZEh) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Complete Ella And Louis On Verve](https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn) | 5:54 | 2021-04-23 |  |
 | [Come Fly With Me \- Remastered 1998](https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Come Fly With Me \(Remastered\)](https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE) | 3:19 | 2021-04-23 |  |
 | [Come Go With Me](https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [Come Go With Me: The Best Of The Del\-Vikings](https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx) | 2:42 | 2021-04-23 |  |

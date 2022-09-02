@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUuQG5KIiBcn.md) - [plain]
 
 > Corridos viejitos que cuentan los hechos reales de nuestro pueblo\. Chalino Sánchez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,036 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,229 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,11 +27,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUuQG5KIiBcn.md) - [plain]
 | 17 | [Macario Leyva](https://open.spotify.com/track/2kXc2dAdkCpnlRXTtvEe67) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [24 Kilates de Corridos](https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs) | 3:19 |
 | 18 | [Que Me Entierren Con La Banda](https://open.spotify.com/track/4bLdt7O8QjS9XyktGWR8hl) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Tambora, Vol\. 3](https://open.spotify.com/album/1AVjRVIlWr2zzdc8xrm5Mx) | 3:07 |
 | 19 | [La Banda Del Carro Rojo](https://open.spotify.com/track/6WDwbOSL8PGwokjxxZ7FDG) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Banda Del Carro Rojo](https://open.spotify.com/album/7fetk69EbFu3iKqjhrKJdA) | 3:06 |
-| 20 | [El Odio De Dos Hermanos](https://open.spotify.com/track/7E9LZqiVJUtDP2yt3ysoP0) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Tesoros Musicales](https://open.spotify.com/album/4IxKA1cMz3SCYZiWlFrOZz) | 3:01 |
+| 20 | [Catarino y Los Rurales](https://open.spotify.com/track/7pBNNMq6Bm3mVLCoNx1PnK) | [El As De La Sierra](https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl) | [El Ramalazo](https://open.spotify.com/album/1kllifC08UwQ9d0ZoI3gh4) | 2:55 |
 | 21 | [Mario Peralta](https://open.spotify.com/track/6HRpgUqFOM2qHJv0jgygu8) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Adiós A Chalino](https://open.spotify.com/album/1bNgOfg4GnCmHoF52wdVVF) | 3:10 |
 | 22 | [Pistoleros Famosos](https://open.spotify.com/track/1p14xNSMBasfxLqTBn7k6L) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pistoleros Famosos](https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI) | 2:39 |
-| 23 | [Misa De Cuerpo Presente](https://open.spotify.com/track/72gWYoN7Wta4spLHOCI6Sd) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK) | [Misa De Cuerpo Presente](https://open.spotify.com/album/2WR7Uv5bWy96xBlAfXNoFU) | 2:48 |
-| 24 | [Catarino y Los Rurales](https://open.spotify.com/track/7pBNNMq6Bm3mVLCoNx1PnK) | [El As De La Sierra](https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl) | [El Ramalazo](https://open.spotify.com/album/1kllifC08UwQ9d0ZoI3gh4) | 2:55 |
+| 23 | [El Odio De Dos Hermanos](https://open.spotify.com/track/7E9LZqiVJUtDP2yt3ysoP0) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Tesoros Musicales](https://open.spotify.com/album/4IxKA1cMz3SCYZiWlFrOZz) | 3:01 |
+| 24 | [Misa De Cuerpo Presente](https://open.spotify.com/track/72gWYoN7Wta4spLHOCI6Sd) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK) | [Misa De Cuerpo Presente](https://open.spotify.com/album/2WR7Uv5bWy96xBlAfXNoFU) | 2:48 |
 | 25 | [Contrabando De Juárez](https://open.spotify.com/track/4gwuwo3PgUrWzyJ7ofjN59) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Cruz De Madera](https://open.spotify.com/album/6D9a2VeAyvMqcCN27uzi4V) | 3:27 |
 | 26 | [Lamberto Quintero](https://open.spotify.com/track/5FWViyEsDYr3hkYmj10GxZ) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar con Mariachi](https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n) | 3:04 |
 | 27 | [Pedro Y Pablo](https://open.spotify.com/track/5XgIkYlSVby03NmqREd5Sf) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Jaula De Oro](https://open.spotify.com/album/4xfHI8aqhWroOghjZ7NqkO) | 3:13 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUuQG5KIiBcn.md) - [plain]
 | 74 | [Pescadores De Ensenada](https://open.spotify.com/track/5nqaSZdUzcKPGIwqLf0QAe) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [15 Éxitos](https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R) | 2:54 |
 | 75 | [Heraclio Bernal](https://open.spotify.com/track/1WRxstLiGTUU5gWCf88nsp) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [15 Éxitos: Corridos Famosos](https://open.spotify.com/album/4zViKwboAczInCqS6EP1Y7) | 2:57 |
 
-Snapshot ID: `MTY1MTYwMjEyMCwwMDAwMDAwMGFhMzY1NTA1MTc5NDJiY2M2ODM4MzU1ZDAxMWY1Mzkx`
+Snapshot ID: `MTY1MTYwMjEyMCwwMDAwMDAwMDE2YTEzNDhiMThiN2IzM2RlMGI1MmRkODE1ZDI0ZTg0`

@@ -1,12 +1,12 @@
 {
   "description": "Hit the road to the soundtrack of these seventies classics.",
-  "num_followers": 2640137,
+  "num_followers": 2640884,
   "original_name": "70s Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA0ODE1NSwwMDAwMDAwMDI2MTU0ODk2MmM4NjUzMDRlNmUwZGY5YTA0OTE0MDU4",
+  "snapshot_id": "MTY1NzA0ODE1NSwwMDAwMDAwMGY0NDc4N2VlMjAxY2EzYmU5NmZmNDBmOTQ3NGQwZTli",
   "tracks": [
     {
       "added_at": "2021-02-10 18:00:33",
@@ -121,6 +121,22 @@
       "url": "https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU"
     },
     {
+      "added_at": "2022-04-14 15:08:02",
+      "album": {
+        "name": "Stealers Wheel",
+        "url": "https://open.spotify.com/album/5ApN9lqru1t3Xh1IaEGTll"
+      },
+      "artists": [
+        {
+          "name": "Stealers Wheel",
+          "url": "https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki"
+        }
+      ],
+      "duration_ms": 208946,
+      "name": "Stuck In The Middle With You",
+      "url": "https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT"
+    },
+    {
       "added_at": "2021-02-10 18:00:33",
       "album": {
         "name": "Menagerie",
@@ -151,22 +167,6 @@
       "duration_ms": 371413,
       "name": "Heroes - 2017 Remaster",
       "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z"
-    },
-    {
-      "added_at": "2022-04-14 15:08:02",
-      "album": {
-        "name": "Stealers Wheel",
-        "url": "https://open.spotify.com/album/5ApN9lqru1t3Xh1IaEGTll"
-      },
-      "artists": [
-        {
-          "name": "Stealers Wheel",
-          "url": "https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki"
-        }
-      ],
-      "duration_ms": 208946,
-      "name": "Stuck In The Middle With You",
-      "url": "https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -303,22 +303,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Signed, Sealed And Delivered",
-        "url": "https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 161160,
-      "name": "Signed, Sealed, Delivered (I'm Yours)",
-      "url": "https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
         "url": "https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 254293,
       "name": "Starman - 2012 Remaster",
       "url": "https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Signed, Sealed And Delivered",
+        "url": "https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 161160,
+      "name": "Signed, Sealed, Delivered (I'm Yours)",
+      "url": "https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -383,22 +383,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 245493,
-      "name": "Superstition - Single Version",
-      "url": "https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Reggatta De Blanc (Remastered 2003)",
         "url": "https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 258411,
       "name": "You're so Vain",
       "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 245493,
+      "name": "Superstition - Single Version",
+      "url": "https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "In Color",
-        "url": "https://open.spotify.com/album/2sXJQdHykPYcRQ7xFhwzMR"
-      },
-      "artists": [
-        {
-          "name": "Cheap Trick",
-          "url": "https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU"
-        }
-      ],
-      "duration_ms": 191226,
-      "name": "I Want You to Want Me",
-      "url": "https://open.spotify.com/track/1JkZg3eMQTmTn93E8Yd3UL"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Back Home Again",
         "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 180693,
       "name": "Annie's Song",
       "url": "https://open.spotify.com/track/4J0DbyODwZJcmIAiTSJfMF"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "In Color",
+        "url": "https://open.spotify.com/album/2sXJQdHykPYcRQ7xFhwzMR"
+      },
+      "artists": [
+        {
+          "name": "Cheap Trick",
+          "url": "https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU"
+        }
+      ],
+      "duration_ms": 191226,
+      "name": "I Want You to Want Me",
+      "url": "https://open.spotify.com/track/1JkZg3eMQTmTn93E8Yd3UL"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Heaven Tonight",
-        "url": "https://open.spotify.com/album/5w20U3G3GyWiPvvDeVzkhN"
-      },
-      "artists": [
-        {
-          "name": "Cheap Trick",
-          "url": "https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU"
-        }
-      ],
-      "duration_ms": 253733,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/2ccUQnjjNWT0rsNnsBpsCA"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Jolene (Expanded Edition)",
         "url": "https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 161533,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Heaven Tonight",
+        "url": "https://open.spotify.com/album/5w20U3G3GyWiPvvDeVzkhN"
+      },
+      "artists": [
+        {
+          "name": "Cheap Trick",
+          "url": "https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU"
+        }
+      ],
+      "duration_ms": 253733,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/2ccUQnjjNWT0rsNnsBpsCA"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
+        "name": "Jackson Browne (Saturate Before Using)",
+        "url": "https://open.spotify.com/album/0n93YRc9GP3ZgREgTHvP5u"
+      },
+      "artists": [
+        {
+          "name": "Jackson Browne",
+          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
+        }
+      ],
+      "duration_ms": 199906,
+      "name": "Doctor My Eyes",
+      "url": "https://open.spotify.com/track/3QcuZo6WLcFkqqLmDs0d95"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
         "name": "Frampton",
         "url": "https://open.spotify.com/album/0mRXKbepKXO0Il8H1uMaaX"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 243266,
       "name": "Show Me The Way",
       "url": "https://open.spotify.com/track/6BD1X1PeV5UzYUdiVaD2yL"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 512732,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/1lqMLr9Wj7SM2F9AikGcxN"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Jackson Browne (Saturate Before Using)",
-        "url": "https://open.spotify.com/album/0n93YRc9GP3ZgREgTHvP5u"
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE"
       },
       "artists": [
         {
-          "name": "Jackson Browne",
-          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 199906,
-      "name": "Doctor My Eyes",
-      "url": "https://open.spotify.com/track/3QcuZo6WLcFkqqLmDs0d95"
+      "duration_ms": 512732,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/1lqMLr9Wj7SM2F9AikGcxN"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "All Things Must Pass (Remastered 2014)",
-        "url": "https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6"
-      },
-      "artists": [
-        {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
-        }
-      ],
-      "duration_ms": 264413,
-      "name": "What Is Life - Remastered 2014",
-      "url": "https://open.spotify.com/track/76TpWFiK5YCgw1hy26DWZp"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Breakfast In America (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 308853,
       "name": "Take The Long Way Home - 2010 Remastered",
       "url": "https://open.spotify.com/track/0v0XYK0pLgsPiq5u4FKHaw"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "All Things Must Pass (Remastered 2014)",
+        "url": "https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "duration_ms": 264413,
+      "name": "What Is Life - Remastered 2014",
+      "url": "https://open.spotify.com/track/76TpWFiK5YCgw1hy26DWZp"
     }
   ],
   "unique_name": "70s Road Trip",

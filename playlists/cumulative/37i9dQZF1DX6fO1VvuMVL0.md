@@ -4,12 +4,13 @@
 
 > The cool sound of Cool Jazz\. Cover: Paul Desmond
 
-90 songs - 8 hr 18 min - [published](https://open.spotify.com/playlist/1jn4TAV3vYiCjmyQ8GKNI8)
+91 songs - 8 hr 29 min - [published](https://open.spotify.com/playlist/1jn4TAV3vYiCjmyQ8GKNI8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Handful Of Stars](https://open.spotify.com/track/5luq92DNbbgm2PoUKQDbSc) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [West Coast Jazz \(Expanded Edition\)](https://open.spotify.com/album/4T898Wv8Pp33zkO8IYOL2y) | 3:23 | 2022-01-20 |  |
 | [Afternoon in Paris](https://open.spotify.com/track/6Us9O1Mb4fpOnvhjPovtwV) | [John Lewis](https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s) | [The Wonderful World Of Jazz](https://open.spotify.com/album/7bVINZrNHFkVADBBHfOiAh) | 9:58 | 2022-01-20 |  |
+| [All Blues \(feat\. John Coltrane, Cannonball Adderley & Bill Evans\)](https://open.spotify.com/track/5o3DSHw1ORhM3lWxqGRvEf) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Kind Of Blue \(Legacy Edition\)](https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw) | 11:32 | 2022-09-01 |  |
 | [All the Things You Are](https://open.spotify.com/track/5pFtpo6JemD4c08m8uEwk2) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Two Of A Mind](https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn) | 5:51 | 2022-01-20 |  |
 | [Angel Eyes](https://open.spotify.com/track/0KCzdQvESwASj9pfyIOBBU) | [Dave Pell](https://open.spotify.com/artist/4e6A5UdYEgQGwQNaLLFYVN) | [Cameo\-A Pell Of A Time](https://open.spotify.com/album/6pO2y0pQgtHpelCwah7t9I) | 5:38 | 2022-01-20 | 2022-08-11 |
 | [Angel Eyes](https://open.spotify.com/track/0DD6R7aDMmqPrt6qRXZHP3) | [Dave Pell's Jazz Octet](https://open.spotify.com/artist/7uKEUlOk1OB6GcGp0rxnaM) | [A Pell Of A Time](https://open.spotify.com/album/3mHfj7IYxLfpAOULy0nM11) | 5:38 | 2022-01-20 |  |
@@ -81,7 +82,7 @@
 | [Tangerine](https://open.spotify.com/track/5WXfkqqLNfjzUHFxQhlOpR) | [Stan Kenton](https://open.spotify.com/artist/27hSR8e34ZM5vj5fUFixyb) | [Stan Kenton](https://open.spotify.com/album/4QLm0I7BPdpM15KRuuznS8) | 9:13 | 2022-01-20 |  |
 | [Thanks For The Memory](https://open.spotify.com/track/6eBEARA33jF1lPXoPGhSqG) | [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr) | [Jazz Guitar](https://open.spotify.com/album/5RfC4bI1lfV7PFOyVxawiM) | 5:19 | 2022-01-20 |  |
 | [That's the Way It Is](https://open.spotify.com/track/0NshH0K6HstTk06zPgATkT) | [Jimmy Giuffre](https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6) | [The Jimmy Giuffre 3](https://open.spotify.com/album/7L9RwXgST9R54GVTQnVSWK) | 3:51 | 2022-01-20 |  |
-| [The Duke](https://open.spotify.com/track/39ctrlu5OoDcVzP0nHvmv3) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Miles Ahead \(Expanded Edition\)](https://open.spotify.com/album/6WOddaa5Vqp8gQZic8ZUw9) | 3:34 | 2022-01-20 |  |
+| [The Duke](https://open.spotify.com/track/39ctrlu5OoDcVzP0nHvmv3) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Miles Ahead \(Expanded Edition\)](https://open.spotify.com/album/6WOddaa5Vqp8gQZic8ZUw9) | 3:34 | 2022-01-20 | 2022-09-02 |
 | [The Eagle Flies](https://open.spotify.com/track/0L8PnNpkT1o7Mi9uK3doo5) | [Teddy Charles](https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn) | [Coolin'](https://open.spotify.com/album/5JK0dCS5Tzymtjvt3DsvA2) | 7:43 | 2022-01-20 |  |
 | [The Queen's Fancy](https://open.spotify.com/track/0jKWfUHO1Zy4wPPiRZLT9F) | [The Modern Jazz Quartet](https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI) | [Django \(Rudy Van Gelder Remaster\)](https://open.spotify.com/album/6f7NUwHcqKOtROS8JippAp) | 3:12 | 2022-01-20 |  |
 | [There Will Never Be Another You](https://open.spotify.com/track/5uQkJU8FDt9srkxKfKRiBN) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Lester Young With The Oscar Peterson Trio](https://open.spotify.com/album/4LT6FAMWGSf3qpPn3Wdyh1) | 3:28 | 2022-01-20 |  |

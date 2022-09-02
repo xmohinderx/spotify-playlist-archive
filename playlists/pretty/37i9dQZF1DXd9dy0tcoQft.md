@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 
 > Add some sweet soul music to your dinner\. Cover: Celeste.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,984 likes - 65 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,987 likes - 65 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 | 35 | [Seasons](https://open.spotify.com/track/6bpJeNwIqNb22xu8km0Ok9) | [Astèr Fekre](https://open.spotify.com/artist/4owtjBwXE8zpOk4ihtCXpK) | [Seasons](https://open.spotify.com/album/31sPNFRpgyvcJ4sDX5qoqI) | 5:06 |
 | 36 | [BRB](https://open.spotify.com/track/1KN2z32nlbkmh0I8XXlNWD) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Isolation Tapes](https://open.spotify.com/album/3DB2RnzDwpcwQdXij6vLWI) | 3:30 |
 | 37 | [Tropical Commotion](https://open.spotify.com/track/2Z1PLz4doUUmo18lIqFmry) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Pieces \(EP\)](https://open.spotify.com/album/40DNbdaTg3zjgf9pDCMhPw) | 3:47 |
-| 38 | [Waterfall](https://open.spotify.com/track/7lH5ojd6UtoTW6kKQCXdZm) | [Camo Columbo](https://open.spotify.com/artist/4PEjxQciyHLViBRsOmbrYm) | [Waterfall](https://open.spotify.com/album/7kFYzxYZnuuAU6ufNkTo4e) | 2:46 |
-| 39 | [Love Language](https://open.spotify.com/track/6N3N0dbTQQM9rfJFLBswlp) | [Chandler Juliet](https://open.spotify.com/artist/4Lz09Oo9KaM0RsS1m7Et89) | [Love Language](https://open.spotify.com/album/6jZ92l2HWH2fS6fsidsSN0) | 3:25 |
+| 38 | [Love Language](https://open.spotify.com/track/6N3N0dbTQQM9rfJFLBswlp) | [Chandler Juliet](https://open.spotify.com/artist/4Lz09Oo9KaM0RsS1m7Et89) | [Love Language](https://open.spotify.com/album/6jZ92l2HWH2fS6fsidsSN0) | 3:25 |
+| 39 | [Waterfall](https://open.spotify.com/track/7lH5ojd6UtoTW6kKQCXdZm) | [Camo Columbo](https://open.spotify.com/artist/4PEjxQciyHLViBRsOmbrYm) | [Waterfall](https://open.spotify.com/album/7kFYzxYZnuuAU6ufNkTo4e) | 2:46 |
 | 40 | [Sleeptalking](https://open.spotify.com/track/0FoNYKT8CgtG0VfXoq0M5U) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [Nona](https://open.spotify.com/album/2U5a0Ayv1HAjUiR866Z5tB) | 2:47 |
 | 41 | [Miracles](https://open.spotify.com/track/10g4esqFA2aVAWAYc0XQ5Z) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ), [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi) | [Music](https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK) | 4:51 |
 | 42 | [Helpless](https://open.spotify.com/track/7hyFz1ms1XEHbE2KqUbUQ8) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Helpless](https://open.spotify.com/album/1tnaGg9YXodD8TW4aSF39y) | 3:41 |
@@ -61,17 +61,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 | 51 | [Mad World](https://open.spotify.com/track/6OUXAJOrEgIEnmlN5kH72F) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Origin \(Deluxe Edition\)](https://open.spotify.com/album/6vlatUhYlcoUkMfNIvmtLE) | 3:15 |
 | 52 | [This Is The Day \- Full Band Version](https://open.spotify.com/track/75E9k76b255fUk9iSUqkG9) | [Mamas Gun](https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI) | [This Is The Day \(Full Band Version\)](https://open.spotify.com/album/6HIzNiydjxIffCg5TGxwBj) | 4:42 |
 | 53 | [Hopeful](https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Hopeful](https://open.spotify.com/album/53jDVUiYTI5UpC7DGeJrdz) | 5:16 |
-| 54 | [Never Compare](https://open.spotify.com/track/0pYZTaQQkoCvrwWfSm06yM) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc) | [Never Compare](https://open.spotify.com/album/5bbIWUjCwwxvwAujZ8u26I) | 4:27 |
+| 54 | [Skin](https://open.spotify.com/track/5nz0KE3qltISzUI9v5qPoh) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/6lUCT1qB82RuUgawuWvlO6) | 2:58 |
 | 55 | [Pieces](https://open.spotify.com/track/3ebeQDcmkINL0z2G5f2vQ8) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Pieces](https://open.spotify.com/album/2VI86hd45OqHeDDzVhCkLa) | 3:43 |
-| 56 | [Skin](https://open.spotify.com/track/5nz0KE3qltISzUI9v5qPoh) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/6lUCT1qB82RuUgawuWvlO6) | 2:58 |
+| 56 | [Never Compare](https://open.spotify.com/track/0pYZTaQQkoCvrwWfSm06yM) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc) | [Never Compare](https://open.spotify.com/album/5bbIWUjCwwxvwAujZ8u26I) | 4:27 |
 | 57 | [Near Enough A Woman](https://open.spotify.com/track/1ncO5CMaYySNsnOrBXuFYd) | [otta](https://open.spotify.com/artist/2c04R4WjyZyi1qiRLPhpsO) | [Near Enough A Woman](https://open.spotify.com/album/3L341kxmBXonqWSRNLPLCT) | 3:34 |
 | 58 | [Preaching To The Choir](https://open.spotify.com/track/3DKzKLzJcMtPQvSEaoX62t) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [Nona](https://open.spotify.com/album/2U5a0Ayv1HAjUiR866Z5tB) | 3:30 |
 | 59 | [I Can Only Whisper \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/1DRgiVyaCJ9PXO276H0Ak9) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [I Can Only Whisper \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/album/466wPD03sWZ4ohCe8ZdgeJ) | 2:44 |
-| 60 | [I Want You](https://open.spotify.com/track/6yDZ0JtlNLqA9xV7dVkgt0) | [Leela James](https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2) | [See Me](https://open.spotify.com/album/3AbP9rjHW5cejxH4INUuLE) | 4:08 |
-| 61 | [9](https://open.spotify.com/track/2Lel4FPH7lwvWZv24c9Gj6) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Adi Oasis](https://open.spotify.com/album/06VfMuXIFM7QLs5ZIW0KYZ) | 4:31 |
-| 62 | [Remember](https://open.spotify.com/track/0CkoWbWqoY8Blolkuz7LeS) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Mumu Fresh](https://open.spotify.com/artist/5UIl2yxuQbC2rU8m9pN8mD) | [Remember](https://open.spotify.com/album/2Q9MzaTH0z8WWcPAt50CLP) | 3:01 |
-| 63 | [Thank You](https://open.spotify.com/track/2VilPVzji1pAdkmujzRenI) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Thank You](https://open.spotify.com/album/5F8qu8ssVOXCU7Hdu7x7Jb) | 3:24 |
+| 60 | [Thank You](https://open.spotify.com/track/2VilPVzji1pAdkmujzRenI) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Thank You](https://open.spotify.com/album/5F8qu8ssVOXCU7Hdu7x7Jb) | 3:24 |
+| 61 | [I Want You](https://open.spotify.com/track/6yDZ0JtlNLqA9xV7dVkgt0) | [Leela James](https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2) | [See Me](https://open.spotify.com/album/3AbP9rjHW5cejxH4INUuLE) | 4:08 |
+| 62 | [9](https://open.spotify.com/track/2Lel4FPH7lwvWZv24c9Gj6) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Adi Oasis](https://open.spotify.com/album/06VfMuXIFM7QLs5ZIW0KYZ) | 4:31 |
+| 63 | [Remember](https://open.spotify.com/track/0CkoWbWqoY8Blolkuz7LeS) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Mumu Fresh](https://open.spotify.com/artist/5UIl2yxuQbC2rU8m9pN8mD) | [Remember](https://open.spotify.com/album/2Q9MzaTH0z8WWcPAt50CLP) | 3:01 |
 | 64 | [Sanctuary](https://open.spotify.com/track/09PnjJyhIkjYcMzV835Wfx) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [Sanctuary](https://open.spotify.com/album/2ncuFWULnAaGrdwHpDnt9E) | 3:04 |
 | 65 | [Stay](https://open.spotify.com/track/6v0IFEV2M37sXSCuQMEBnj) | [Kartell](https://open.spotify.com/artist/3E4UsjXgFv2GdwshMkkJze), [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Stay](https://open.spotify.com/album/3LrU1Dgrr3aVsT7GWOGPGW) | 3:14 |
 
-Snapshot ID: `MTY1MzA0NDkzNywwMDAwMDAwMGQ2NWJiY2JhM2FiYjdhYjdkNjNjZmYwYzRkYmY1ZTE0`
+Snapshot ID: `MTY1MzA0NDkzNywwMDAwMDAwMDkyZjNjMTFhMzI0M2ZhODE2MjVhNzY0YmMzZTZiYTFj`

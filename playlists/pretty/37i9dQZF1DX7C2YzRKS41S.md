@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 
 > Um pouco de folk, MPB e indie para acordar com o pé na estrada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,104 likes - 60 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,173 likes - 60 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,23 +27,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 17 | [Fever To The Form](https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [First Mind](https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh) | 4:12 |
 | 18 | [WALLS](https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 5:29 |
 | 19 | [Partilhar](https://open.spotify.com/track/1PQRwFvNM7xV65bIkHmDtx) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Partilhar](https://open.spotify.com/album/1pbjhsgtyc5hOVNaaz6tpN) | 4:22 |
-| 20 | [Shot in the Dark](https://open.spotify.com/track/239yM7BAQ2CkNc61ogPGXo) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 4:09 |
-| 21 | [Home](https://open.spotify.com/track/3X01VeoR0GckfiXlFRrJmF) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Home](https://open.spotify.com/album/0227L6DB3iVlI5xDLttmTN) | 4:07 |
+| 20 | [Home](https://open.spotify.com/track/3X01VeoR0GckfiXlFRrJmF) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Home](https://open.spotify.com/album/0227L6DB3iVlI5xDLttmTN) | 4:07 |
+| 21 | [Shot in the Dark](https://open.spotify.com/track/239yM7BAQ2CkNc61ogPGXo) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 4:09 |
 | 22 | [Cabelo De Anjo](https://open.spotify.com/track/4QWsMXZ60waQmBBduGM2ci) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ), [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Eu Feat\. Você](https://open.spotify.com/album/2miEOiHroQ1WgUPdS1TPk7) | 3:34 |
 | 23 | [Bloodstream](https://open.spotify.com/track/5v4sZRuvWDcisoOk1PFv6T) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 5:00 |
 | 24 | [Céu Azul](https://open.spotify.com/track/2GvbK34eLArbttr0bXRu4l) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Céu Azul](https://open.spotify.com/album/6h1YceFakmfDMsTqVDNp1N) | 3:28 |
 | 25 | [A Vida É Boa Com Você \- Voz E Violão](https://open.spotify.com/track/7w36CnYumoRl1ryZOWsJnk) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Simples](https://open.spotify.com/album/7xVxIAZOM8ac4viH06lVD9) | 2:50 |
-| 26 | [Who You Love \(feat\. Katy Perry\)](https://open.spotify.com/track/7IByJvSqRFltGyiiIiL4wn) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Paradise Valley](https://open.spotify.com/album/712VoD72K500yLhhgqCyVe) | 4:09 |
+| 26 | [Trem\-Bala](https://open.spotify.com/track/05QeyKGAn4TZrv41tMiD1A) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Trem\-Bala](https://open.spotify.com/album/5LsQsZiCiIsviDVngEurIF) | 3:00 |
 | 27 | [Quando Bate Aquela Saudade](https://open.spotify.com/track/76bcaYeKOKTrj9lEc9BZFU) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Pearl](https://open.spotify.com/album/25fli8PlxpP10WpirvDpMT) | 6:34 |
-| 28 | [Trem\-Bala](https://open.spotify.com/track/05QeyKGAn4TZrv41tMiD1A) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Trem\-Bala](https://open.spotify.com/album/5LsQsZiCiIsviDVngEurIF) | 3:00 |
-| 29 | [Male Fantasy](https://open.spotify.com/track/13lUUFsU6GMvRDN432qKxX) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/5tzRuO6GP7WRvP3rEOPAO9) | 3:14 |
-| 30 | [Ready to Go](https://open.spotify.com/track/4DPbmIOru8LNVnYctKG9oc) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Ready to Go](https://open.spotify.com/album/226XwxWegT3yUEwlvxWmvA) | 3:07 |
+| 28 | [Male Fantasy](https://open.spotify.com/track/13lUUFsU6GMvRDN432qKxX) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/5tzRuO6GP7WRvP3rEOPAO9) | 3:14 |
+| 29 | [cardigan \- cabin in candlelight version](https://open.spotify.com/track/2hmafYGj1CXYKIYcMnX4lj) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [cardigan \(cabin in candlelight version\)](https://open.spotify.com/album/3kqqalY92DENp7FiztDOjH) | 3:48 |
+| 30 | [Who You Love \(feat\. Katy Perry\)](https://open.spotify.com/track/7IByJvSqRFltGyiiIiL4wn) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Paradise Valley](https://open.spotify.com/album/712VoD72K500yLhhgqCyVe) | 4:09 |
 | 31 | [No Woman](https://open.spotify.com/track/5KPXcfXaGOaWUqOHLDXFRP) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Light Upon the Lake](https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv) | 3:57 |
-| 32 | [cardigan \- cabin in candlelight version](https://open.spotify.com/track/2hmafYGj1CXYKIYcMnX4lj) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [cardigan \(cabin in candlelight version\)](https://open.spotify.com/album/3kqqalY92DENp7FiztDOjH) | 3:48 |
-| 33 | [Who Says](https://open.spotify.com/track/0HLWvLKQWpFdPhgk6ym58n) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Battle Studies](https://open.spotify.com/album/1V5vQRMWTNGmqwxY8jMVou) | 2:55 |
-| 34 | [Tiger Striped Sky](https://open.spotify.com/track/4C2aiAVTTVyZbCQZst5Xu1) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Little Giant](https://open.spotify.com/album/3ZTS2uxdWAkBnIXzsCY8PZ) | 4:01 |
-| 35 | [Rose Pink Cadillac](https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/0JUuId9ZVeNiCk9KGtAUuv) | 4:21 |
-| 36 | [Give Me The Reason](https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Give Me The Reason](https://open.spotify.com/album/2IKvoLYI5mb0eyKWiB2G2z) | 3:54 |
+| 32 | [Ready to Go](https://open.spotify.com/track/4DPbmIOru8LNVnYctKG9oc) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Ready to Go](https://open.spotify.com/album/226XwxWegT3yUEwlvxWmvA) | 3:07 |
+| 33 | [Tiger Striped Sky](https://open.spotify.com/track/4C2aiAVTTVyZbCQZst5Xu1) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Little Giant](https://open.spotify.com/album/3ZTS2uxdWAkBnIXzsCY8PZ) | 4:01 |
+| 34 | [Rose Pink Cadillac](https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/0JUuId9ZVeNiCk9KGtAUuv) | 4:21 |
+| 35 | [Give Me The Reason](https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Give Me The Reason](https://open.spotify.com/album/2IKvoLYI5mb0eyKWiB2G2z) | 3:54 |
+| 36 | [Who Says](https://open.spotify.com/track/0HLWvLKQWpFdPhgk6ym58n) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Battle Studies](https://open.spotify.com/album/1V5vQRMWTNGmqwxY8jMVou) | 2:55 |
 | 37 | [Era uma Vez](https://open.spotify.com/track/16v1xv9QCx1kGXl6fJvTIz) | [Kell Smith](https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994) | [Girassol](https://open.spotify.com/album/4TBlkvzwaXXMidx4Y24Lda) | 3:44 |
 | 38 | [Just a Song Before I Go](https://open.spotify.com/track/4dAN7KcWCWx5jV6dpwtfvN) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [CSN](https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx) | 2:13 |
 | 39 | [Don't Fade \- Single Version](https://open.spotify.com/track/0m3hslcOQomyJh8Mz7hdrX) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Don't Fade](https://open.spotify.com/album/0z7QrHUhqM60ZPsNFzxMpx) | 3:10 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 56 | [Part of Me](https://open.spotify.com/track/4aosx8uOGPG9aJjm0Dj4dN) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Part of Me](https://open.spotify.com/album/6uOlsqNPU8RIwSx0Uv2tH4) | 3:57 |
 | 57 | [I Got So High That I Saw Jesus](https://open.spotify.com/track/3zQikNPCgTVnQLmj5RPn1k) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [THE END OF EVERYTHING](https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5) | 3:37 |
 | 58 | [Telefonía](https://open.spotify.com/track/7zSBOSD4w5LGv1bIblkVFp) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Salvavidas de hielo](https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0) | 3:04 |
-| 59 | [Man On Fire](https://open.spotify.com/track/6Kn5yzAyOw3jf4Y5a6d1Oq) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Here](https://open.spotify.com/album/7n5oHXSwnbGWrFTg9xLhhN) | 4:19 |
-| 60 | [Happen To Me](https://open.spotify.com/track/4Kjo34blxmLG5HNUKEvHRM) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Hey u x](https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF) | 3:51 |
+| 59 | [Happen To Me](https://open.spotify.com/track/4Kjo34blxmLG5HNUKEvHRM) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Hey u x](https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF) | 3:51 |
+| 60 | [Man On Fire](https://open.spotify.com/track/6Kn5yzAyOw3jf4Y5a6d1Oq) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Here](https://open.spotify.com/album/7n5oHXSwnbGWrFTg9xLhhN) | 4:19 |
 
-Snapshot ID: `MTY2MDk1MDkzMywwMDAwMDAwMDhhMTY3ZmI3ZTI5NzNjMWQzOWU5ZDZmOGQyNmRmODM1`
+Snapshot ID: `MTY2MDk1MDkzMywwMDAwMDAwMDdlZTkyODQyNDcyYjYyZTcwNDhlMjM4ZWFjZjk4NjJj`

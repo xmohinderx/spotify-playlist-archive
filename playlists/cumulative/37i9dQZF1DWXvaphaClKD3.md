@@ -4,7 +4,7 @@
 
 > Novedades poderosas, perronas y llegadoras de la <a href="spotify:genre:0JQ5DAqbMKFDTEtSaS4R92"> Música Mexicana</a>\. Eden Muñoz en portada.
 
-232 songs - 12 hr 22 min - [published](https://open.spotify.com/playlist/6lzkBGs5tbsK4vIYinar7T)
+233 songs - 12 hr 26 min - [published](https://open.spotify.com/playlist/6lzkBGs5tbsK4vIYinar7T)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Tiempo Fuera](https://open.spotify.com/track/01gAbqtPWVRLzHKZjqbtwM) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Tiempo Fuera](https://open.spotify.com/album/3ofYz6uyOpKbp8DHnCefh3) | 3:18 | 2022-07-22 | 2022-07-30 |
 | [Tolin Infante](https://open.spotify.com/track/4gfcsMDV9QMZKXszJEww0j) | [Triple Norte](https://open.spotify.com/artist/6sLmv6vCrdrDJ3VszbxpLz) | [Al Estilo Sierreño](https://open.spotify.com/album/7gSb6rnaNmmVMV1V0nWivL) | 2:58 | 2022-07-29 | 2022-08-06 |
 | [TQM](https://open.spotify.com/track/4zzq1AGYtBKQusGF2RJRot) | [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [TQM](https://open.spotify.com/album/4pwaSmWEjeC59CQnOIW1dv) | 2:46 | 2022-08-19 | 2022-08-27 |
+| [Tres Consejos](https://open.spotify.com/track/3digP1bKVvQO0KB6CmBaGO) | [Guadalupe Pineda](https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii) | [Tres Consejos](https://open.spotify.com/album/3SDCasjHgSnA193yuMcjxR) | 3:31 | 2022-08-26 |  |
 | [Tú](https://open.spotify.com/track/6m0EIfkYBZs7SlFSg0XYAC) | [Germán Montero](https://open.spotify.com/artist/2mJLFoa2cRqCZHL6MZNaak) | [Tú](https://open.spotify.com/album/4TUEkxc5O0h7m18HcBR7wI) | 2:57 | 2022-07-22 | 2022-07-30 |
 | [Un Momento](https://open.spotify.com/track/4k1wOvis4BrvbkOT6jmaJ9) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Un Momento](https://open.spotify.com/album/6rObLR3OfwtAkft3WuEuTI) | 3:09 | 2022-08-19 | 2022-08-27 |
 | [Ven Y Dime](https://open.spotify.com/track/3hLqiuTYgJNzhBcxhhzE95) | [OTB Records](https://open.spotify.com/artist/0JuJGJhC0mwQBWQuP9k4XB), [XODERICK](https://open.spotify.com/artist/60YDF7RrvGqHcG1brVwlFw) | [Ven Y Dime](https://open.spotify.com/album/6npXcV2CWz6rYfzLGb9pDy) | 2:43 | 2022-07-22 | 2022-07-30 |

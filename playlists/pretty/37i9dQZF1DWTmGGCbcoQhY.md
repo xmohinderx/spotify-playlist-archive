@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmGGCbcoQhY.md) - [plain]
 
 > ¡Un sa\-sa\-saludo a todos los amantes de la cu\-cu\-cumbia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,117,583 likes - 125 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,117,954 likes - 125 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmGGCbcoQhY.md) - [plain]
 | 56 | [Cosas Bonitas](https://open.spotify.com/track/75VDWiZEfAt3dL49kASgvi) | [Grupo Maravilla](https://open.spotify.com/artist/0Ur2HPuhb0mRnXFPOsCFB7) | [De Reventon](https://open.spotify.com/album/4qzxNsbEaoBc4M2ZFEyFoU) | 4:14 |
 | 57 | [Soy Soltero](https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd) | [El Dipy](https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw) | [No Lo Compren](https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR) | 3:37 |
 | 58 | [Alma De Acero](https://open.spotify.com/track/3LgQlKNGiQiQhMiTU0ZKao) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Los Yaguaru](https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA) | 3:55 |
-| 59 | [Que calor](https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb) | [Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros \- Criando Cuervos](https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs) | 3:45 |
-| 60 | [Nunca Pense Llorar](https://open.spotify.com/track/3oXF0sRycbyJUDRd5BqTUw) | [Rossy War y Su Banda Kaliente](https://open.spotify.com/artist/04laTTTa6l3hNn8a1EG7UQ) | [Como un Dulce Poema, Vol\. 3](https://open.spotify.com/album/0XdMiGlG64yiq2Np190XbY) | 4:09 |
+| 59 | [Nunca Pense Llorar](https://open.spotify.com/track/3oXF0sRycbyJUDRd5BqTUw) | [Rossy War y Su Banda Kaliente](https://open.spotify.com/artist/04laTTTa6l3hNn8a1EG7UQ) | [Como un Dulce Poema, Vol\. 3](https://open.spotify.com/album/0XdMiGlG64yiq2Np190XbY) | 4:09 |
+| 60 | [Que calor](https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb) | [Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros \- Criando Cuervos](https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs) | 3:45 |
 | 61 | [Inténtalo Tú](https://open.spotify.com/track/7tc8n0EmYbjoiouaxYTlyV) | [Los Telez](https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A) | [Oro Puro: Éxitos](https://open.spotify.com/album/21g7e1NwMiTJMr6G38h0hA) | 3:31 |
 | 62 | [Corazón Adolorido](https://open.spotify.com/track/1v4Wl2u2I5LFSYbjfy3M8s) | [Los Llayras](https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz) | [20 Cumbias Andinas](https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R) | 3:50 |
 | 63 | [Cumbia Del Chinito](https://open.spotify.com/track/761FhLirwe3hFnJKgHUN8y) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Super Grupo Colombia](https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK) | 4:12 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmGGCbcoQhY.md) - [plain]
 | 77 | [Todo Lo Encuentro En Ti](https://open.spotify.com/track/5qzX9hy9D3LSHESgvszFds) | [Super Lamas](https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe) | [Lo Más Escuchado De](https://open.spotify.com/album/6eRgsSSeFZMtgZAu2s6qoR) | 4:13 |
 | 78 | [La Princesa Talibana](https://open.spotify.com/track/7B7WVfPyjkowmWCvb1SXxd) | [Grupo G](https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8) | [Para Qué Llorar](https://open.spotify.com/album/1z50aUk8ypdjqTzqxuQ0ig) | 3:18 |
 | 79 | [Cañita Cañaveral](https://open.spotify.com/track/0yn0pxR5KRY2vIY2cZ7nbd) | [Grupo Saya](https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP) | [Sus Mejores Exitos](https://open.spotify.com/album/7wZn8Eko5bz1vSx1zYMPJD) | 3:15 |
-| 80 | [Dile](https://open.spotify.com/track/38pqbquNNfWBqeIMGACgz2) | [ICC](https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF) | [Donde Estaras](https://open.spotify.com/album/6XOIE8I44BYpa7bqctENqu) | 4:04 |
-| 81 | [Ven a Mi](https://open.spotify.com/track/0taanVJBn0nEAYU7qz69fl) | [Grupo Kachimba](https://open.spotify.com/artist/7p6rCOCEPeP1K4QQ8MwtKS) | [Que Te Vaya Mal](https://open.spotify.com/album/5pvpAvUiTk2slwnMDSp4A6) | 5:27 |
+| 80 | [Ven a Mi](https://open.spotify.com/track/0taanVJBn0nEAYU7qz69fl) | [Grupo Kachimba](https://open.spotify.com/artist/7p6rCOCEPeP1K4QQ8MwtKS) | [Que Te Vaya Mal](https://open.spotify.com/album/5pvpAvUiTk2slwnMDSp4A6) | 5:27 |
+| 81 | [Dile](https://open.spotify.com/track/38pqbquNNfWBqeIMGACgz2) | [ICC](https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF) | [Donde Estaras](https://open.spotify.com/album/6XOIE8I44BYpa7bqctENqu) | 4:04 |
 | 82 | [Abandonado](https://open.spotify.com/track/3zTtqNPnbLUKTmj69JapdD) | [Efrén David](https://open.spotify.com/artist/5j8A0drRTB6kfW70XY9J2g) | [Recuerdos](https://open.spotify.com/album/3bvSVLCNLuiBqLiXt6bAN5) | 4:32 |
 | 83 | [Me Enamoré de una Sonidera](https://open.spotify.com/track/6lApNS6zB7kkMd7MwuX6eO) | [Grupo Ensamble](https://open.spotify.com/artist/4qDQBPUMcJUH7BQ9dfJnfI) | [Tus Jefes No Me Quieren\. Llegó la Cumbia](https://open.spotify.com/album/59DJY70HuReCmWs6EzRoNA) | 3:52 |
 | 84 | [Aléjate de Mi](https://open.spotify.com/track/2elSQMWeHJCiMCmwAUf43W) | [Mexikolombia](https://open.spotify.com/artist/0OYcok9V194Ul8EiD6ph9T) | [Sin Mirar Atrás](https://open.spotify.com/album/2FoP3XV69oKsMxfK5oJkRX) | 3:16 |
@@ -114,8 +114,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmGGCbcoQhY.md) - [plain]
 | 104 | [La Inconforme](https://open.spotify.com/track/2HZacSz1k8F0KTwGJ6TX7r) | [Grupo G](https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8) | [Para Qué Llorar](https://open.spotify.com/album/1z50aUk8ypdjqTzqxuQ0ig) | 3:13 |
 | 105 | [Mi Corazon Es un Vagabundo](https://open.spotify.com/track/3nbRJnQ98EG9zndfLZGorm) | [Chucho Ponce Los Daddys de Chinantla](https://open.spotify.com/artist/5Jvzp2OQHVKVVRNwrIJ9im) | [Solo Exitos](https://open.spotify.com/album/5gGkPK9scAgvwiCwC1c0Bg) | 3:56 |
 | 106 | [Dos en Uno](https://open.spotify.com/track/6z9FyLFLp1lLeRg3h0hPPU) | [Grupo Macao de Alex y Jhonny](https://open.spotify.com/artist/2GAmpY3SIeEIjNjP8AjP2Z) | [Dos en Uno](https://open.spotify.com/album/62IIfBRz6IlMviHqNs1lNt) | 5:13 |
-| 107 | [Un Poblano en New York](https://open.spotify.com/track/3H432gSVA7YWDccqx2bvXQ) | [Los Yes Yes](https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q) | [Cumbia Urbana del Pueblo y para el Pueblo, Vol\. 2](https://open.spotify.com/album/5BuCSY4KVyIBcvd1WGLPj6) | 3:08 |
-| 108 | [Si Te Hubieras Quedado](https://open.spotify.com/track/2lxgLyM4PgdRb1E7jrSfaZ) | [Grupo la Ley Siete de Enrike Fortunato](https://open.spotify.com/artist/6NXg2WVQSGgmOfdtHI7CbI) | [Si Te Hubieras Quedado](https://open.spotify.com/album/6hzxNwknOcWOvoVlCQk08F) | 4:38 |
+| 107 | [Si Te Hubieras Quedado](https://open.spotify.com/track/2lxgLyM4PgdRb1E7jrSfaZ) | [Grupo la Ley Siete de Enrike Fortunato](https://open.spotify.com/artist/6NXg2WVQSGgmOfdtHI7CbI) | [Si Te Hubieras Quedado](https://open.spotify.com/album/6hzxNwknOcWOvoVlCQk08F) | 4:38 |
+| 108 | [Un Poblano en New York](https://open.spotify.com/track/3H432gSVA7YWDccqx2bvXQ) | [Los Yes Yes](https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q) | [Cumbia Urbana del Pueblo y para el Pueblo, Vol\. 2](https://open.spotify.com/album/5BuCSY4KVyIBcvd1WGLPj6) | 3:08 |
 | 109 | [Te Vas Con El o Te Vas Conmigo](https://open.spotify.com/track/21voFmS2anMlrpB8WR7wgd) | [Los Tepoz](https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW) | [El Angel Del Amor](https://open.spotify.com/album/1iqpr5cqKi8XkqCAmV1eGD) | 4:32 |
 | 110 | [El Ritmo Mamalon](https://open.spotify.com/track/5RgJSONsPv1HRM8qNTnR4u) | [Grupo Jalado](https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM) | [El Ritmo Mamalon](https://open.spotify.com/album/3QjaVFKBo0Skrb55Sv2a0I) | 3:13 |
 | 111 | [No Mientas Mas](https://open.spotify.com/track/2UPAAB37D9N0An9XJf18eY) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [No Mientas Mas](https://open.spotify.com/album/0QhW8Dh9oguR6NzoK2GmuB) | 3:54 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmGGCbcoQhY.md) - [plain]
 | 124 | [Cervecita](https://open.spotify.com/track/1N30BehuFIvGKwx5q5Swew) | [Kumbia Flow](https://open.spotify.com/artist/4q8TCRvhHjZ1dRpOQDsxBW) | [Cervecita](https://open.spotify.com/album/4os30d5A9kIChPAztcYqIv) | 3:51 |
 | 125 | [Que Lastima](https://open.spotify.com/track/7lBAwDdNz4aui6HPLWmnBF) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [No Mientas Mas](https://open.spotify.com/album/0QhW8Dh9oguR6NzoK2GmuB) | 3:51 |
 
-Snapshot ID: `MTY1NDY0MDUxNSwwMDAwMDAwMGNlYmNmNDBkODg5OWM5YjJmZjJmNDg5OTE4NTY4YjNm`
+Snapshot ID: `MTY1NDY0MDUxNSwwMDAwMDAwMDIwMDMxNDU5YjRmOTYzMWI4ZDhmYmYxNGRkNjdlMWEy`

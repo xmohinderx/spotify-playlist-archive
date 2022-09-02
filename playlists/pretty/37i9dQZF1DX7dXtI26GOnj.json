@@ -1,12 +1,12 @@
 {
   "description": "Todo calor latino est\u00e1 aqui! \ud83d\udd25  Foto: ROSAL\u00cdA",
-  "num_followers": 94157,
+  "num_followers": 94258,
   "original_name": "Calorcito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4MjgwMCwwMDAwMDAwMDdlN2M1NDIzZDA5ZmY5Y2YwOTYzMmUyMjQyNGQ0YmIx",
+  "snapshot_id": "MTY2MTQ4MjgwMCwwMDAwMDAwMDBhYjA2OGVjYjBlOTRiZGU5NjE5ZjVlM2VjMjNmNjky",
   "tracks": [
     {
       "added_at": "2022-08-26 03:00:00",
@@ -541,7 +541,7 @@
         }
       ],
       "duration_ms": 188106,
-      "name": "LA FAMA (with The Weeknd)",
+      "name": "LA FAMA",
       "url": "https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX"
     },
     {
@@ -907,26 +907,6 @@
     {
       "added_at": "2022-08-26 03:00:00",
       "album": {
-        "name": "JOSE",
-        "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 170760,
-      "name": "Una Nota",
-      "url": "https://open.spotify.com/track/7iqOIHHEmu6Vhw25GgQ2eA"
-    },
-    {
-      "added_at": "2022-08-26 03:00:00",
-      "album": {
         "name": "Somos Iguales",
         "url": "https://open.spotify.com/album/3Q9cZSRC2at6mZjfdOlVJ3"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 172414,
       "name": "Somos Iguales",
       "url": "https://open.spotify.com/track/3uZgr5fHIzOAc3sjX5zHc1"
+    },
+    {
+      "added_at": "2022-08-26 03:00:00",
+      "album": {
+        "name": "JOSE",
+        "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 170760,
+      "name": "Una Nota",
+      "url": "https://open.spotify.com/track/7iqOIHHEmu6Vhw25GgQ2eA"
     },
     {
       "added_at": "2022-08-26 03:00:00",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2022-08-26 03:00:00",
       "album": {
-        "name": "Apretaito",
-        "url": "https://open.spotify.com/album/0aMqp2gRJQjhVZmHkuTtfL"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        }
-      ],
-      "duration_ms": 199627,
-      "name": "Apretaito",
-      "url": "https://open.spotify.com/track/0cW5cXANjlv8hgLAQwdvgE"
-    },
-    {
-      "added_at": "2022-08-26 03:00:00",
-      "album": {
         "name": "Tutu",
         "url": "https://open.spotify.com/album/6xu5asYeoMIT5Sa5b1P13q"
       },
@@ -1115,6 +1095,26 @@
     {
       "added_at": "2022-08-26 03:00:00",
       "album": {
+        "name": "Apretaito",
+        "url": "https://open.spotify.com/album/0aMqp2gRJQjhVZmHkuTtfL"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "duration_ms": 199627,
+      "name": "Apretaito",
+      "url": "https://open.spotify.com/track/0cW5cXANjlv8hgLAQwdvgE"
+    },
+    {
+      "added_at": "2022-08-26 03:00:00",
+      "album": {
         "name": "El Ni\u00f1o",
         "url": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
       },
@@ -1147,22 +1147,6 @@
       "duration_ms": 152110,
       "name": "Ojos Rojos",
       "url": "https://open.spotify.com/track/5hYRabCQuFZN8yVCQsSeyF"
-    },
-    {
-      "added_at": "2022-08-26 03:00:00",
-      "album": {
-        "name": "Deprimida",
-        "url": "https://open.spotify.com/album/0dOBkQ254idF8FLdnwkZZ3"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 217627,
-      "name": "Deprimida",
-      "url": "https://open.spotify.com/track/41yHlQmNvtjRpoexYcSyJp"
     },
     {
       "added_at": "2022-08-26 03:00:00",
@@ -1215,6 +1199,22 @@
       "duration_ms": 194906,
       "name": "Un Ratito",
       "url": "https://open.spotify.com/track/7m4EYPEEFkhI5aEsM5Tgo0"
+    },
+    {
+      "added_at": "2022-08-26 03:00:00",
+      "album": {
+        "name": "Deprimida",
+        "url": "https://open.spotify.com/album/0dOBkQ254idF8FLdnwkZZ3"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 217627,
+      "name": "Deprimida",
+      "url": "https://open.spotify.com/track/41yHlQmNvtjRpoexYcSyJp"
     },
     {
       "added_at": "2022-08-26 03:00:00",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2022-08-26 03:00:00",
       "album": {
+        "name": "Morado",
+        "url": "https://open.spotify.com/album/7ynTaSXD9esXkgY0GG8UFd"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 200666,
+      "name": "Morado",
+      "url": "https://open.spotify.com/track/3mQ6SLdxxaL52Yte7KF2Ks"
+    },
+    {
+      "added_at": "2022-08-26 03:00:00",
+      "album": {
         "name": "Cositas de la USA",
         "url": "https://open.spotify.com/album/4EwZe3wzi0JWMdobUrpHIs"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 193112,
       "name": "Casualidad",
       "url": "https://open.spotify.com/track/5FcT2TuosRkokjn3xyncER"
-    },
-    {
-      "added_at": "2022-08-26 03:00:00",
-      "album": {
-        "name": "Morado",
-        "url": "https://open.spotify.com/album/7ynTaSXD9esXkgY0GG8UFd"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 200666,
-      "name": "Morado",
-      "url": "https://open.spotify.com/track/3mQ6SLdxxaL52Yte7KF2Ks"
     },
     {
       "added_at": "2022-08-26 03:00:00",

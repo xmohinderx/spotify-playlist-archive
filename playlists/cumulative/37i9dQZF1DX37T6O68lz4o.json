@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "1017 ALYX",
+        "url": "https://open.spotify.com/album/33qHmaehzUCDzndn5in7q0"
+      },
+      "artists": [
+        {
+          "name": "Mo Bangaz",
+          "url": "https://open.spotify.com/artist/7lIiOcOBI059zW6PY5Ghqg"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113712,
+      "name": "1017 ALYX",
+      "url": "https://open.spotify.com/track/2o7vrVIOh1tyqF7fNhDsR6"
+    },
+    {
+      "album": {
         "name": "1M Bitches",
         "url": "https://open.spotify.com/album/0mtRP7g0hW9egXyOL7fJaQ"
       },
@@ -469,7 +487,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 128785,
       "name": "Blueberry Biscotti",
       "url": "https://open.spotify.com/track/4Jdz6B3w69AHsWHBg80SZK"
@@ -1129,6 +1147,24 @@
       "duration_ms": 176065,
       "name": "Fashion Week",
       "url": "https://open.spotify.com/track/6uUVU8NgkXa2JXrLTAcQc0"
+    },
+    {
+      "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/2I0VwAeClbtch0ErYJbsDL"
+      },
+      "artists": [
+        {
+          "name": "Raiche",
+          "url": "https://open.spotify.com/artist/4yaRDENYr8yAAlEUf23DRI"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211519,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/1IoUc7el8qPFVFOC5jSfl7"
     },
     {
       "album": {
@@ -1822,6 +1858,24 @@
     },
     {
       "album": {
+        "name": "WHERE WILL I BE",
+        "url": "https://open.spotify.com/album/6mLuOGAS26jIiItuMYTmHY"
+      },
+      "artists": [
+        {
+          "name": "Reem Skully",
+          "url": "https://open.spotify.com/artist/2X4yIi81bUWMJMJb0TdiYE"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115435,
+      "name": "LIL MAMI",
+      "url": "https://open.spotify.com/track/03UaAkqtScVy41bywcKIrx"
+    },
+    {
+      "album": {
         "name": "LONDON (feat. J. Cole)",
         "url": "https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS"
       },
@@ -2017,7 +2071,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 194157,
       "name": "More Than A Little Bit",
       "url": "https://open.spotify.com/track/2haIQVgu4075Yx0QhAJgCQ"
@@ -2079,7 +2133,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 90044,
       "name": "No Joke",
       "url": "https://open.spotify.com/track/2qwmssqUiBzwrXrk2lhMYO"
@@ -2326,6 +2380,28 @@
     },
     {
       "album": {
+        "name": "Prend\u00edo",
+        "url": "https://open.spotify.com/album/4Ch7xOR54Wxka7R6CLPEfv"
+      },
+      "artists": [
+        {
+          "name": "Partywithrami",
+          "url": "https://open.spotify.com/artist/61gpgVeT7ElOAy5IiItoCx"
+        },
+        {
+          "name": "Tatto RD",
+          "url": "https://open.spotify.com/artist/3lcIJzukw4BIRATVEYXisw"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190393,
+      "name": "Prend\u00edo",
+      "url": "https://open.spotify.com/track/3Sj44uPrlioAmGR8c5zCKv"
+    },
+    {
+      "album": {
         "name": "baby steps",
         "url": "https://open.spotify.com/album/0cIJI6arDds9AOiVLtyW4y"
       },
@@ -2341,6 +2417,28 @@
       "duration_ms": 149070,
       "name": "pressed",
       "url": "https://open.spotify.com/track/2F1iYQpSIqSkpUKOGmPNXj"
+    },
+    {
+      "album": {
+        "name": "MOMMA i MAKE ART: SEE YOUR BOY IS NOT A LOSER!",
+        "url": "https://open.spotify.com/album/6uDLjfr1RrtYJOxkivdSFs"
+      },
+      "artists": [
+        {
+          "name": "WHYTRI",
+          "url": "https://open.spotify.com/artist/4z1mmeq6Dsr43uwzLiTXys"
+        },
+        {
+          "name": "Jon Glass",
+          "url": "https://open.spotify.com/artist/1u2PrmG6RI8ldR2974GdMn"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162058,
+      "name": "PROUD OF YOU TRI",
+      "url": "https://open.spotify.com/track/09COZZ6scdIaRSP8KQl2nV"
     },
     {
       "album": {
@@ -2551,7 +2649,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 166000,
       "name": "SAFE",
       "url": "https://open.spotify.com/track/2YI2Br6DGTPP07iWxilZyX"
@@ -3067,7 +3165,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 167532,
       "name": "TIPPIN LIKE JOHN CENA",
       "url": "https://open.spotify.com/track/5f6HNkGwjGfljrXa165S5G"

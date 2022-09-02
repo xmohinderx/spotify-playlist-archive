@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 
 > Classic songs from the legends of the hardcore scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,598 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,354 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 | 14 | [Voice of Rebellion](https://open.spotify.com/track/2BNshqUpO2WSXRpp3lP37y) | [Pro\-Pain](https://open.spotify.com/artist/56F64pmwSSCcmS1CxAnPk8) | [Voice of Rebellion](https://open.spotify.com/album/51TN24k8XMS8vQ98aUshFR) | 4:01 |
 | 15 | [Scratch the Surface](https://open.spotify.com/track/6yzoLxsBLiEqyB7zpAcJnX) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Nonstop](https://open.spotify.com/album/5bdXigJqWl2VDffgjWdcXU) | 2:45 |
 | 16 | [Animal Farm](https://open.spotify.com/track/1QfjU50ABFOfNhoQVREWXa) | [The Hope Conspiracy](https://open.spotify.com/artist/0EE0FUSX633ANADunRfZ9d) | [Death Knows Your Name](https://open.spotify.com/album/6U0Bmn36FE4pISKv5fluBK) | 3:40 |
-| 17 | [Pure Trauma](https://open.spotify.com/track/7FpFV1oQhhZm6Vyj7K5FcS) | [Downset](https://open.spotify.com/artist/6SBgDfIRb6IE9TrA6w8Zg6) | [Check Your People](https://open.spotify.com/album/0kFn5JKSC76NteLv33NyVe) | 2:33 |
-| 18 | [Can't Take It Away](https://open.spotify.com/track/0AaoUCJLOhCiiMEWVNAc5C) | [Kill Your Idols](https://open.spotify.com/artist/6XMDTpG4mtZWvDlFjRF3XT) | [This Is Just the Beginning](https://open.spotify.com/album/4RHBb8u3uid3lJGFwS0Jb1) | 1:36 |
+| 17 | [Can't Take It Away](https://open.spotify.com/track/0AaoUCJLOhCiiMEWVNAc5C) | [Kill Your Idols](https://open.spotify.com/artist/6XMDTpG4mtZWvDlFjRF3XT) | [This Is Just the Beginning](https://open.spotify.com/album/4RHBb8u3uid3lJGFwS0Jb1) | 1:36 |
+| 18 | [Pure Trauma](https://open.spotify.com/track/7FpFV1oQhhZm6Vyj7K5FcS) | [Downset](https://open.spotify.com/artist/6SBgDfIRb6IE9TrA6w8Zg6) | [Check Your People](https://open.spotify.com/album/0kFn5JKSC76NteLv33NyVe) | 2:33 |
 | 19 | [Firestorm](https://open.spotify.com/track/49d4jmxM4yyLkJA7NOiQ7M) | [Earth Crisis](https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g) | [Forever True \(1991\-2001\)](https://open.spotify.com/album/2NlUqiYUsqBqE5o41dl4eh) | 3:51 |
 | 20 | [Blood](https://open.spotify.com/track/0ai9xvb85BylFJ9JP2ogxe) | [Candiria](https://open.spotify.com/artist/2HlW9aXquEwJ3ywGlPEUPp) | [What Doesn't Kill You Will Make You Stronger](https://open.spotify.com/album/4TOosWzdrqh1WxHkRbvxMZ) | 3:16 |
 | 21 | [Chasing the Dragon](https://open.spotify.com/track/4MJkV5HQSuaLxFgM7yvTiy) | [Wisdom In Chains](https://open.spotify.com/artist/4dtEJEODoOpnmnjnsNDaSd) | [Everything You Know](https://open.spotify.com/album/4xh3WT4Y416HM7KKUAFwXx) | 3:23 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 | 38 | [Here to Stay](https://open.spotify.com/track/4y5I2JW4P1jQWrAzieGYhS) | [Sheer Terror](https://open.spotify.com/artist/2AFPWhrVDLjiVNMpbou4jU) | [Bulldog Edition](https://open.spotify.com/album/6Q1Y7gyccEvxvYl698G2iy) | 2:24 |
 | 39 | [Sworn Enemy](https://open.spotify.com/track/41A2Hv0SEKnse3TWVuxADF) | [Sworn Enemy](https://open.spotify.com/artist/1I16IF1ltabPiw70Y6KG4F) | [As Real As It Gets](https://open.spotify.com/album/5jOrOQlAwdDFYZYmcdngtv) | 3:36 |
 | 40 | [Down for Life](https://open.spotify.com/track/5PbC9tBONAbLTDTfMvzndz) | [Biohazard](https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1) | [State Of The World Address](https://open.spotify.com/album/6vlx9tTK4GMMflGu1wZVzn) | 3:45 |
-| 41 | [Total War](https://open.spotify.com/track/6ssujYDvWvyC5H8ZBjRW3K) | [Earth Crisis](https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g) | [Neutralize the Threat](https://open.spotify.com/album/1cvZ2jWkoHj5uxdl3P8VP1) | 3:38 |
-| 42 | [Silence](https://open.spotify.com/track/2rf23PCJH09ZAc8eq4yL1B) | [First Blood](https://open.spotify.com/artist/4z2rZXnFuTCl75Vpb26Eg0) | [Silence Is Betrayal](https://open.spotify.com/album/7tIMZsN8CNgmkgA5zFulUv) | 0:53 |
+| 41 | [Silence](https://open.spotify.com/track/2rf23PCJH09ZAc8eq4yL1B) | [First Blood](https://open.spotify.com/artist/4z2rZXnFuTCl75Vpb26Eg0) | [Silence Is Betrayal](https://open.spotify.com/album/7tIMZsN8CNgmkgA5zFulUv) | 0:53 |
+| 42 | [Total War](https://open.spotify.com/track/6ssujYDvWvyC5H8ZBjRW3K) | [Earth Crisis](https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g) | [Neutralize the Threat](https://open.spotify.com/album/1cvZ2jWkoHj5uxdl3P8VP1) | 3:38 |
 | 43 | [Always \- A Friend For Life](https://open.spotify.com/track/4eKXxBigaMftkFQQphl1eO) | [Warzone](https://open.spotify.com/artist/7cvibKo9n0RsgKaW4p4RVO) | [Lower East Side](https://open.spotify.com/album/3Ri754L0sioGyPUkRONKFl) | 2:15 |
 | 44 | [Take a Stand](https://open.spotify.com/track/2pyFrdfsP9c5ElbXv3m4OQ) | [Youth Of Today](https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL) | [Break Down The Walls](https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX) | 1:40 |
 | 45 | [Save Us](https://open.spotify.com/track/2GCFX4cNARwJkNEG6NqnoM) | [Stigmata](https://open.spotify.com/artist/2a3HNMLb9HvUx0IlFwn9Fz) | [The Wounds That Never Heal](https://open.spotify.com/album/1ThgJjKDqz4c91Ete5sZKf) | 4:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 | 49 | [Let's Pretend](https://open.spotify.com/track/2fnHEggVPhncefeyheMsfw) | [Life Of Agony](https://open.spotify.com/artist/4gyzQpfG5YQZJt2jj0IkEl) | [Ugly](https://open.spotify.com/album/0DfwAJXDy8TzMgRuPNsjkc) | 3:58 |
 | 50 | [Choices Made](https://open.spotify.com/track/0r4jDnFTGZCwXiUiiPx7WL) | [CIV](https://open.spotify.com/artist/1PyldAvwu9cUk9wn2wBWh9) | [Set Your Goals](https://open.spotify.com/album/5iQwtthhrBr9UIPD717vda) | 2:28 |
 
-Snapshot ID: `MTYwNzQ0MDMzMSwwMDAwMDAwMDNkYTE4YzgxOTNkNjJjYTMxNTMxYTlmMDc5MDU4Mzg1`
+Snapshot ID: `MTYwNzQ0MDMzMSwwMDAwMDAwMGVjZGExMmNlNzEwZWFjYWY1MmMyN2MzYWMzNGFlNDgw`

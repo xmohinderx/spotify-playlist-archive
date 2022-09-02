@@ -4,7 +4,7 @@
 
 > Top Arabic hits are right here\. Cover: Elissa
 
-205 songs - 12 hr 11 min - [published](https://open.spotify.com/playlist/4uTt9Gotclw8677k3BhhPx)
+206 songs - 12 hr 16 min - [published](https://open.spotify.com/playlist/4uTt9Gotclw8677k3BhhPx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Albi Ya Albi / Aam Betaala' Feek \- Live Concert](https://open.spotify.com/track/7Ky2uY8eCHN8b4GT4wapj2) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Hope Beyond Borders \(Live Concert\)](https://open.spotify.com/album/1tWqYmyjiUKCiK304CASfP) | 5:50 | 2021-12-12 | 2022-01-04 |
 | [Aleky Eyoun](https://open.spotify.com/track/5kQCI3faUHASM28R91ksUY) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Aleky Eyoun](https://open.spotify.com/album/78SzkM05ePjjFN1PNBurUh) | 3:29 | 2022-03-14 |  |
 | [Amaken El Sahar](https://open.spotify.com/track/7lYXrmbJhunVGUYDGvZcL5) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Amaken El Sahar](https://open.spotify.com/album/4O72F4w5CdsrzEIbvi9al7) | 4:11 | 2021-12-12 | 2022-02-21 |
+| [Amira](https://open.spotify.com/track/2BHxg3zP8IdRvvWPVavzqB) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Amira](https://open.spotify.com/album/1VVZMKjwVA9hvPZcaCepOS) | 4:29 | 2022-09-01 |  |
 | [Ana Lahale](https://open.spotify.com/track/0fRIzjNaVxFqwoLg8rfQX5) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [Massari](https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51) | [Elyanna](https://open.spotify.com/album/2J4Yz9I4s0FvFw00Cn0trp) | 2:59 | 2021-12-12 | 2022-01-15 |
 | [Ana Lamma Bheb](https://open.spotify.com/track/6a4SIj2iNe0mJWyxVrdpCZ) | [Amjad Jomaa](https://open.spotify.com/artist/0R7TVEhwF9mlX4rHlVaTzU) | [Ana Lamma Bheb](https://open.spotify.com/album/3e5Cj4cSq7KHsWbNzO9OcL) | 3:23 | 2021-12-12 | 2022-08-26 |
 | [Ana Nejri W Zman Yejri](https://open.spotify.com/track/4jjQIXVANytMf4SSaZmv2r) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Ana Nejri W Zman Yejri](https://open.spotify.com/album/3JEjb5G1C9EidKp6OxuLci) | 3:12 | 2021-12-12 | 2022-02-08 |
@@ -38,7 +39,7 @@
 | [Bel Bont El3areedh](https://open.spotify.com/track/4ZU4yHDLZcMcy8BF6Y89fu) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Bel Bont El3areedh](https://open.spotify.com/album/6w5blHKUDHSspaKU5cuf9J) | 3:18 | 2021-12-12 |  |
 | [Btaaref Shuur](https://open.spotify.com/track/48wOhHtZNVEDL05Vxrp7eZ) | [Adham Nabulsi](https://open.spotify.com/artist/2eQ5uR5wKDEQ5zKPQyLHC1) | [Btaaref Shuur](https://open.spotify.com/album/1Ztk0OR6YwkmsTTnVubzLc) | 3:21 | 2021-12-12 | 2022-02-08 |
 | [Btwhasheni](https://open.spotify.com/track/1Cm3f5zjPhCrR0VqodoJhK) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Btwhasheni](https://open.spotify.com/album/3M315U7mkSSUoxoUXv6M27) | 3:51 | 2021-12-12 |  |
-| [Call Me](https://open.spotify.com/track/5VYEBcFvG8bNqwpnbQv9eu) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [360](https://open.spotify.com/album/33osRJgOnEAOry3VmsKoAj) | 2:45 | 2021-12-12 |  |
+| [Call Me](https://open.spotify.com/track/5VYEBcFvG8bNqwpnbQv9eu) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [360](https://open.spotify.com/album/33osRJgOnEAOry3VmsKoAj) | 2:45 | 2021-12-12 | 2022-09-02 |
 | [Chokran la vie](https://open.spotify.com/track/2U8ErvM7WUELQ5rhXFQIUz) | [Lsan L7or](https://open.spotify.com/artist/3HyATnFu4reyWAEn5rZEog), [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [Chokran la vie](https://open.spotify.com/album/593LqSldvuA4xnzpiaz3BP) | 3:59 | 2021-12-12 | 2022-07-21 |
 | [Courage](https://open.spotify.com/track/2A17I9810aeJa9BHIvHYxp) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Courage](https://open.spotify.com/album/3fesoj7qmSWTa6U5vQFqFV) | 4:00 | 2021-12-12 |  |
 | [Dabke System](https://open.spotify.com/track/6pA25Qz9Pbvb90I6j0MRYy) | [47 Soul](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge) | [Dabke System](https://open.spotify.com/album/0WKmc7uvbK5VlKFTZ1bJ7G) | 5:42 | 2022-01-04 | 2022-01-08 |

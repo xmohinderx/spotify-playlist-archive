@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 
 > Eagles, The Byrds and all your favorite country rock
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,781 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,898 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,12 +32,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 | 22 | [Morning Sun](https://open.spotify.com/track/2XIZRY7dQtyUhFngzHeEUu) | [Jesse Colin Young](https://open.spotify.com/artist/2pJn4djuWrNQbNfrxHB13M) | [Song for Juli](https://open.spotify.com/album/2NHyA67soVC7mENTAxCifZ) | 4:04 |
 | 23 | [Lonesome L.A\. Cowboy](https://open.spotify.com/track/6vOV8fmbk16LYgL2CQ64ih) | [New Riders of the Purple Sage](https://open.spotify.com/artist/2D3v3HJ9k3UzehaewnT3QA) | [The Adventures Of Panama Red](https://open.spotify.com/album/1O9T5fjUzGfSa609GiDEJY) | 4:03 |
 | 24 | [Train Leaves Here This Morning \- 2013 Remaster](https://open.spotify.com/track/5ro7xAxDVbtabTl8t3MzHz) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Eagles \(2013 Remaster\)](https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7) | 4:10 |
-| 25 | [Colorado](https://open.spotify.com/track/6VyuVYEJnZmlEQ5GT9LQvT) | [Stephen Stills](https://open.spotify.com/artist/4WlSvDKaq1PA2Nr7cCIPxX) | [Manassas](https://open.spotify.com/album/427BvOYZQRjTHODnreiZCo) | 2:52 |
-| 26 | [Don't Let Me Down](https://open.spotify.com/track/1PsDNPG1j7ySpFpxjHB5xb) | [Dillard & Clark](https://open.spotify.com/artist/3QcM2tU8CDY3LyzvwCj1CI) | [Through The Morning, Through The Night](https://open.spotify.com/album/4iClwik4oQvlJ9wFujkmiQ) | 3:52 |
+| 25 | [Don't Let Me Down](https://open.spotify.com/track/1PsDNPG1j7ySpFpxjHB5xb) | [Dillard & Clark](https://open.spotify.com/artist/3QcM2tU8CDY3LyzvwCj1CI) | [Through The Morning, Through The Night](https://open.spotify.com/album/4iClwik4oQvlJ9wFujkmiQ) | 3:52 |
+| 26 | [Colorado](https://open.spotify.com/track/6VyuVYEJnZmlEQ5GT9LQvT) | [Stephen Stills](https://open.spotify.com/artist/4WlSvDKaq1PA2Nr7cCIPxX) | [Manassas](https://open.spotify.com/album/427BvOYZQRjTHODnreiZCo) | 2:52 |
 | 27 | [Still Right Here In My Heart](https://open.spotify.com/track/5HZchgrpAreegk6UGs0zHr) | [Pure Prairie League](https://open.spotify.com/artist/1MXwwmS2JpmsHZhdMeOL2s) | [Something In The Night](https://open.spotify.com/album/1TqLFWSHFnAZq5I7Xg0tti) | 2:56 |
 | 28 | [Return of the Grievous Angel \- 2006 Remaster](https://open.spotify.com/track/7vOYp7KJ8gVmVbcatSVf9J) | [Gram Parsons](https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd) | [Grievous Angel](https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN) | 4:26 |
 | 29 | [Cadillac Ranch](https://open.spotify.com/track/5IhIK4GJFA7mNuT6aP6WNl) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [More Great Dirt: The Best of the Nitty Gritty Dirt Band](https://open.spotify.com/album/3d1juyGb4yIxMQ8Sh8UP7B) | 3:42 |
-| 30 | [Luxury Liner](https://open.spotify.com/track/69WQgn5cXFhtwbDGBHOzxS) | [The International Submarine Band](https://open.spotify.com/artist/6i8kpDUSsrOOhPHfNYhMeF) | [Safe at Home](https://open.spotify.com/album/3FNy8Kp7h2WoUngSfCNpMM) | 2:55 |
+| 30 | [Miller's Cave](https://open.spotify.com/track/2Zq979VWE5SG5WIcd396Ay) | [The International Submarine Band](https://open.spotify.com/artist/6i8kpDUSsrOOhPHfNYhMeF) | [Safe at Home](https://open.spotify.com/album/3FNy8Kp7h2WoUngSfCNpMM) | 2:49 |
 | 31 | [Sutter's Mill](https://open.spotify.com/track/3fRwEtPmL2hFClf6Ph6l4O) | [Dan Fogelberg](https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO) | [High Country Snows](https://open.spotify.com/album/04iFpIf2KbXuxpy6uRlTfO) | 6:31 |
 | 32 | [New Kid in Town \- 2013 Remaster](https://open.spotify.com/track/3T0HWZFYwE5iPXTIHJ1MMS) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hotel California \(40th Anniversary Expanded Edition\)](https://open.spotify.com/album/5NMAdQPrKw5nutWnGEzfpn) | 5:04 |
 | 33 | [Train Leaves Here This Mornin](https://open.spotify.com/track/3QakrNWYNgZ89by21ImeBN) | [Dillard & Clark](https://open.spotify.com/artist/3QcM2tU8CDY3LyzvwCj1CI) | [The Fantastic Expedition Of Dillard & Clark](https://open.spotify.com/album/6SaetmQc4GCTzdZuW7khKx) | 3:48 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 | 36 | [Cosmic Cowboy](https://open.spotify.com/track/3vvceIDWVANlLWKoJUzBn6) | [Michael Martin Murphey](https://open.spotify.com/artist/4jL1usPiGDK8TD46zJP4gu), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Jerry Jeff Walker](https://open.spotify.com/artist/763opp15PhfHpEaiVjM6m7), [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es), [Bruce Robison](https://open.spotify.com/artist/5cqtplMyw7hPLjW47Jr7Uq), [Django Walker](https://open.spotify.com/artist/3gA6trQf3KmA74GZw9WTsI), [Gary P\. Nunn](https://open.spotify.com/artist/0E8Z0e9ZVDaVz6mnXH5UqL), [Bob Livingston](https://open.spotify.com/artist/1n8LsK850ruMqeFvVpcDW9) | [Austinology \- Alleys of Austin](https://open.spotify.com/album/7sYNpOIkgegedM6myq1IK1) | 4:16 |
 | 37 | [Two Lane Highway](https://open.spotify.com/track/0tcq9tNIw5JHUywymB07OA) | [Pure Prairie League](https://open.spotify.com/artist/1MXwwmS2JpmsHZhdMeOL2s) | [Greatest Hits](https://open.spotify.com/album/41AdLTdErVUwftvr1dUVAf) | 4:06 |
 | 38 | [Ooh Las Vegas \(feat\. Emmylou Harris\) \- 2007 Remaster](https://open.spotify.com/track/7kJpAkJSFMCkM6T4plsRLd) | [Gram Parsons](https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Grievous Angel](https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN) | 3:32 |
-| 39 | [Miller's Cave](https://open.spotify.com/track/2Zq979VWE5SG5WIcd396Ay) | [The International Submarine Band](https://open.spotify.com/artist/6i8kpDUSsrOOhPHfNYhMeF) | [Safe at Home](https://open.spotify.com/album/3FNy8Kp7h2WoUngSfCNpMM) | 2:49 |
+| 39 | [Luxury Liner](https://open.spotify.com/track/69WQgn5cXFhtwbDGBHOzxS) | [The International Submarine Band](https://open.spotify.com/artist/6i8kpDUSsrOOhPHfNYhMeF) | [Safe at Home](https://open.spotify.com/album/3FNy8Kp7h2WoUngSfCNpMM) | 2:55 |
 | 40 | [Willin'](https://open.spotify.com/track/10JSZpgIr0NZb3JqP0lT3K) | [Commander Cody and His Lost Planet Airmen](https://open.spotify.com/artist/4KtaHyqLFlKKb7aghnWBfE) | [Commander Cody & His Lost Planet Airmen](https://open.spotify.com/album/5M8Zfk4Gsf31MoGk3JXubL) | 3:38 |
 | 41 | [Strength of Strings](https://open.spotify.com/track/0ORYA6kaMWPKtHDPcea16a) | [Gene Clark](https://open.spotify.com/artist/040Bv6cZTRh30LyyYVXgJX) | [No Other](https://open.spotify.com/album/0bHiuso3WXpchgSlfX48uY) | 6:31 |
 | 42 | [Morning Sky](https://open.spotify.com/track/0DrhNB3j0VKTBPoN2J5jbT) | [Dan Fogelberg](https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO) | [Souvenirs](https://open.spotify.com/album/3rER5EzMnSZT75KT1UDHyq) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 | 49 | [Step on Out](https://open.spotify.com/track/5oAkG0zYaOmv9fHG7CvEBE) | [Chris Hillman](https://open.spotify.com/artist/70FybmH2MMz9fHewhnLvjs) | [Slippin Away](https://open.spotify.com/album/6p9yV1ZDhYDfvf6MSnw72Y) | 3:15 |
 | 50 | [It's Not Supposed to Be That Way](https://open.spotify.com/track/4jNBYAK1mPmgM66wZEx6rr) | [Steve Young](https://open.spotify.com/artist/4JzwsGHb8ZN03C7JauWsWH) | [Renegade Picker](https://open.spotify.com/album/6ri0hV7jR1ETLP5zRH4RGk) | 3:41 |
 
-Snapshot ID: `MTY1NzA0ODI5NCwwMDAwMDAwMDgwZDFmZDdlZjdhOTE4NzhhMTU2NGZhODQ2NTdhZTcx`
+Snapshot ID: `MTY1NzA0ODI5NCwwMDAwMDAwMDVhNjlhZDI5N2Y5NmE1N2ZmYjllNWRlNjZkOWMzYTk4`

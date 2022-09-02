@@ -1,12 +1,12 @@
 {
   "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: Nahee(\ub098\ud788)) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 27642,
+  "num_followers": 27726,
   "original_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMyOTMyNywwMDAwMDAwMDNjMTBiOTZiZWZhYjZkYmFiZjlhYjFlZTlkMDk1ZTlk",
+  "snapshot_id": "MTY2MDMyOTMyNywwMDAwMDAwMGZlMDExOTIyZDg2Mzg5YzgzYzQ0NjNhM2YwM2IzMmE4",
   "tracks": [
     {
       "added_at": "2022-08-12 18:35:27",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-08-12 18:35:27",
       "album": {
-        "name": "FREE`SM",
-        "url": "https://open.spotify.com/album/0yiGt1K8gQZEtbgEU0Aeut"
-      },
-      "artists": [
-        {
-          "name": "CLC",
-          "url": "https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO"
-        }
-      ],
-      "duration_ms": 220526,
-      "name": "Where are you?",
-      "url": "https://open.spotify.com/track/6MSfAJiEQjJvia4dsWhO93"
-    },
-    {
-      "added_at": "2022-08-12 18:35:27",
-      "album": {
         "name": "The 9th Mini Album 'Naturalness'",
         "url": "https://open.spotify.com/album/7ajKOgmGaCCrqSVIgxbnNf"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 200767,
       "name": "Someone like U",
       "url": "https://open.spotify.com/track/5zbxw72g850H4fNMFEO7PC"
+    },
+    {
+      "added_at": "2022-08-12 18:35:27",
+      "album": {
+        "name": "FREE`SM",
+        "url": "https://open.spotify.com/album/0yiGt1K8gQZEtbgEU0Aeut"
+      },
+      "artists": [
+        {
+          "name": "CLC",
+          "url": "https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO"
+        }
+      ],
+      "duration_ms": 220526,
+      "name": "Where are you?",
+      "url": "https://open.spotify.com/track/6MSfAJiEQjJvia4dsWhO93"
     },
     {
       "added_at": "2022-08-12 18:35:27",
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-08-12 18:35:27",
       "album": {
-        "name": "HAPPEN",
-        "url": "https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 188573,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/1oEMCcw6M6aSVVDURlBFeu"
-    },
-    {
-      "added_at": "2022-08-12 18:35:27",
-      "album": {
         "name": "Venus \uc0db\ubcc4",
         "url": "https://open.spotify.com/album/70zQXUoP3iBxwdGxTFM5ya"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 212137,
       "name": "Venus \uc0db\ubcc4",
       "url": "https://open.spotify.com/track/000j3FwREid2RIpm6nTLn9"
+    },
+    {
+      "added_at": "2022-08-12 18:35:27",
+      "album": {
+        "name": "HAPPEN",
+        "url": "https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 188573,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/1oEMCcw6M6aSVVDURlBFeu"
     },
     {
       "added_at": "2022-08-12 18:35:27",
@@ -1047,6 +1047,26 @@
     {
       "added_at": "2022-08-12 18:35:27",
       "album": {
+        "name": "Aquarium",
+        "url": "https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v"
+      },
+      "artists": [
+        {
+          "name": "Bronze",
+          "url": "https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7"
+        },
+        {
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+        }
+      ],
+      "duration_ms": 270270,
+      "name": "Orange Road (with YUKIKA)",
+      "url": "https://open.spotify.com/track/0HITwsLMbMXKmiOyz41OjP"
+    },
+    {
+      "added_at": "2022-08-12 18:35:27",
+      "album": {
         "name": "\ube5b\uacfc \uc18c\uae08",
         "url": "https://open.spotify.com/album/43StLW2LdY30M1GIf7xSh7"
       },
@@ -1075,26 +1095,6 @@
       "duration_ms": 248078,
       "name": "& New",
       "url": "https://open.spotify.com/track/49U6ijIBwe6XZ2d2H7VDDe"
-    },
-    {
-      "added_at": "2022-08-12 18:35:27",
-      "album": {
-        "name": "Aquarium",
-        "url": "https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v"
-      },
-      "artists": [
-        {
-          "name": "Bronze",
-          "url": "https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7"
-        },
-        {
-          "name": "YUKIKA",
-          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
-        }
-      ],
-      "duration_ms": 270270,
-      "name": "Orange Road (with YUKIKA)",
-      "url": "https://open.spotify.com/track/0HITwsLMbMXKmiOyz41OjP"
     },
     {
       "added_at": "2022-08-12 18:35:27",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-08-12 18:35:27",
       "album": {
-        "name": "[COSMOS]",
-        "url": "https://open.spotify.com/album/73mGtUdDaLFdLiTnxz0Lqf"
-      },
-      "artists": [
-        {
-          "name": "D\u2019allant",
-          "url": "https://open.spotify.com/artist/43twit4jxaRzr008CaVw3l"
-        }
-      ],
-      "duration_ms": 213994,
-      "name": "NEPTUNE",
-      "url": "https://open.spotify.com/track/0bb8pvRKp6Fa443FhuooU0"
-    },
-    {
-      "added_at": "2022-08-12 18:35:27",
-      "album": {
         "name": "Sweet Girl",
         "url": "https://open.spotify.com/album/3pJONZdr1gEeoxgBK96vwx"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 248986,
       "name": "Sweet Girl",
       "url": "https://open.spotify.com/track/77dtDxOL2xHpOCk4jdS9uh"
+    },
+    {
+      "added_at": "2022-08-12 18:35:27",
+      "album": {
+        "name": "[COSMOS]",
+        "url": "https://open.spotify.com/album/73mGtUdDaLFdLiTnxz0Lqf"
+      },
+      "artists": [
+        {
+          "name": "D\u2019allant",
+          "url": "https://open.spotify.com/artist/43twit4jxaRzr008CaVw3l"
+        }
+      ],
+      "duration_ms": 213994,
+      "name": "NEPTUNE",
+      "url": "https://open.spotify.com/track/0bb8pvRKp6Fa443FhuooU0"
     },
     {
       "added_at": "2022-08-12 18:35:27",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2022-08-12 18:35:27",
       "album": {
-        "name": "Onstage Digging Club Seoul THEME 01",
-        "url": "https://open.spotify.com/album/45jJuM9HOtrpzx1k3p1bGd"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 252798,
-      "name": "Suddenly - Digging Club Seoul Version",
-      "url": "https://open.spotify.com/track/7Iae3TKL6i9q1U3I7mS372"
-    },
-    {
-      "added_at": "2022-08-12 18:35:27",
-      "album": {
         "name": "REBOOT",
         "url": "https://open.spotify.com/album/6uZUsBaw4hH7TPa60A1W3a"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 233306,
       "name": "\uc0ac\ub791\uc774 \ub5a0\ub098\ub824 \ud560 \ub54c Faded Love",
       "url": "https://open.spotify.com/track/6c1PYAfNfZ6rWUwFNciOMw"
+    },
+    {
+      "added_at": "2022-08-12 18:35:27",
+      "album": {
+        "name": "Onstage Digging Club Seoul THEME 01",
+        "url": "https://open.spotify.com/album/45jJuM9HOtrpzx1k3p1bGd"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 252798,
+      "name": "Suddenly - Digging Club Seoul Version",
+      "url": "https://open.spotify.com/track/7Iae3TKL6i9q1U3I7mS372"
     },
     {
       "added_at": "2022-08-12 18:35:27",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2022-08-12 18:35:27",
       "album": {
+        "name": "REBOOT",
+        "url": "https://open.spotify.com/album/6uZUsBaw4hH7TPa60A1W3a"
+      },
+      "artists": [
+        {
+          "name": "Wonder Girls",
+          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
+        }
+      ],
+      "duration_ms": 211973,
+      "name": "Baby Don't Play",
+      "url": "https://open.spotify.com/track/3UAvQZ4pM9mXKfZBv8Go1g"
+    },
+    {
+      "added_at": "2022-08-12 18:35:27",
+      "album": {
         "name": "Cherry Blossom",
         "url": "https://open.spotify.com/album/6OLVSFzXGaiehp5qMHSa1E"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 208000,
       "name": "Hope",
       "url": "https://open.spotify.com/track/6SI48qGuImxXM3RuxQoAzT"
-    },
-    {
-      "added_at": "2022-08-12 18:35:27",
-      "album": {
-        "name": "REBOOT",
-        "url": "https://open.spotify.com/album/6uZUsBaw4hH7TPa60A1W3a"
-      },
-      "artists": [
-        {
-          "name": "Wonder Girls",
-          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
-        }
-      ],
-      "duration_ms": 211973,
-      "name": "Baby Don't Play",
-      "url": "https://open.spotify.com/track/3UAvQZ4pM9mXKfZBv8Go1g"
     },
     {
       "added_at": "2022-08-12 18:35:27",
@@ -1531,38 +1531,6 @@
     {
       "added_at": "2022-08-12 18:35:27",
       "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/08HS95j5F5FTAVBBFXZ603"
-      },
-      "artists": [
-        {
-          "name": "Kim Areum",
-          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
-        }
-      ],
-      "duration_ms": 234856,
-      "name": "Line",
-      "url": "https://open.spotify.com/track/5nzNROKcMSGmtTsVHIg5tc"
-    },
-    {
-      "added_at": "2022-08-12 18:35:27",
-      "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/3vFZZ2VReaSF8S1IaoyYZA"
-      },
-      "artists": [
-        {
-          "name": "Rainbow note",
-          "url": "https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17"
-        }
-      ],
-      "duration_ms": 241542,
-      "name": "Dawn",
-      "url": "https://open.spotify.com/track/7mE4LGndCfJwJLAzd6KU5M"
-    },
-    {
-      "added_at": "2022-08-12 18:35:27",
-      "album": {
         "name": "City Drive",
         "url": "https://open.spotify.com/album/2oAZ4ieVQt9DWutbX2jKB1"
       },
@@ -1579,6 +1547,22 @@
     {
       "added_at": "2022-08-12 18:35:27",
       "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/08HS95j5F5FTAVBBFXZ603"
+      },
+      "artists": [
+        {
+          "name": "Kim Areum",
+          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
+        }
+      ],
+      "duration_ms": 234856,
+      "name": "Line",
+      "url": "https://open.spotify.com/track/5nzNROKcMSGmtTsVHIg5tc"
+    },
+    {
+      "added_at": "2022-08-12 18:35:27",
+      "album": {
         "name": "AOA 4th Mini Album Good Luck",
         "url": "https://open.spotify.com/album/3D4EskjAYfo91G4BN7XcbB"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 236031,
       "name": "10 Seconds",
       "url": "https://open.spotify.com/track/7qFfTeft3nLJRW22jNJ7kA"
+    },
+    {
+      "added_at": "2022-08-12 18:35:27",
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/3vFZZ2VReaSF8S1IaoyYZA"
+      },
+      "artists": [
+        {
+          "name": "Rainbow note",
+          "url": "https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17"
+        }
+      ],
+      "duration_ms": 241542,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/7mE4LGndCfJwJLAzd6KU5M"
     },
     {
       "added_at": "2022-08-12 18:35:27",

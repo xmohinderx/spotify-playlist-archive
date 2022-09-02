@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: Dabeull
 
-207 songs - 12 hr 24 min - [published](https://open.spotify.com/playlist/4Ap0JqC7qn45iPx4JOt9LF)
+208 songs - 12 hr 28 min - [published](https://open.spotify.com/playlist/4Ap0JqC7qn45iPx4JOt9LF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,8 +84,9 @@
 | [God Made Me Funky](https://open.spotify.com/track/03k2IK5lwpXBHIUVadERaN) | [Jazz Mafia](https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved), [Headnodic](https://open.spotify.com/artist/7LB0RfmtjwsMFr5OW3H0r3), [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T), [Crystal Monee Hall](https://open.spotify.com/artist/2ARv20TnKCGhf3MCBBGKGY), [Wil Blades](https://open.spotify.com/artist/6HLIDmXT3eehC2JNmMnerV), [Adam Theis](https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ), [Colin Hogan](https://open.spotify.com/artist/427GXhbmgjZ3W23hCzZMuB) | [God Made Me Funky](https://open.spotify.com/album/3Jo1vXDO4TFhKVsGDdfZnQ) | 3:15 | 2022-04-01 |  |
 | [Golden Limousine](https://open.spotify.com/track/2HpWy9P6ZXXWVOsJYMXKQ2) | [Golden Dawn Arkestra](https://open.spotify.com/artist/7b0pvMSrnBWY6s6DA00YMK) | [Golden Limousine](https://open.spotify.com/album/6hQKaMdKjJBW8GXATUl5mt) | 2:50 | 2022-04-08 |  |
 | [Good Love](https://open.spotify.com/track/4pfEs1kebSz7coMT9EhfoG) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [Good Love](https://open.spotify.com/album/6644XhPFkGMwMcXeRsj8QL) | 3:09 | 2021-06-04 | 2022-08-13 |
+| [GOODTIME](https://open.spotify.com/track/0Cz1CWsDSgGMbHZykVO5ei) | [CAPYAC](https://open.spotify.com/artist/5QP5fl1l4e9NmKmkMUOTF5) | [GOODTIME](https://open.spotify.com/album/6MHZpDk5kHnqLBXla2znoS) | 3:42 | 2022-06-03 |  |
 | [Goodtime](https://open.spotify.com/track/34nfyP7ueTwzo08p1ALm31) | [CAPYAC](https://open.spotify.com/artist/5QP5fl1l4e9NmKmkMUOTF5) | [Goodtime](https://open.spotify.com/album/7mDDcLEWTPayHYopYr9cdl) | 3:42 | 2022-06-03 | 2022-08-27 |
-| [GOODTIME](https://open.spotify.com/track/5GtOKiSXlRP03pgojQnOXi) | [CAPYAC](https://open.spotify.com/artist/5QP5fl1l4e9NmKmkMUOTF5) | [GOODTIME](https://open.spotify.com/album/0dGvxkk3frDgCKp2nmHJXm) | 3:42 | 2022-06-03 |  |
+| [GOODTIME](https://open.spotify.com/track/5GtOKiSXlRP03pgojQnOXi) | [CAPYAC](https://open.spotify.com/artist/5QP5fl1l4e9NmKmkMUOTF5) | [GOODTIME](https://open.spotify.com/album/0dGvxkk3frDgCKp2nmHJXm) | 3:42 | 2022-06-03 | 2022-09-02 |
 | [Gucci Shoes](https://open.spotify.com/track/2UIBN3TFpOcLzLzh5SjaaV) | [Collard](https://open.spotify.com/artist/3UHGHiVMz1L0XqFi3oXHvH) | [Gucci Shoes](https://open.spotify.com/album/4QyoHSymwpjMRONWFHYBX8) | 3:01 | 2022-06-10 |  |
 | [Guilty Pleasures](https://open.spotify.com/track/42Bax5tepDSjA1pDu8Mpn1) | [Wake the Wild](https://open.spotify.com/artist/3gi0dYfoSKUqGYRO9Ixhf9) | [Guilty Pleasures](https://open.spotify.com/album/6l2bKNKNk61scQGAUMX3D2) | 4:18 | 2020-11-20 | 2022-04-09 |
 | [Happy Meal](https://open.spotify.com/track/2XA4OlwOVNnm09yMXUc1nI) | [Apollo Theo](https://open.spotify.com/artist/4gdIEqgsdPdiAyNyArsLRz), [Jaz Lund](https://open.spotify.com/artist/76wFPyb3pS7rjiDOJOeS7P) | [Happy Meal](https://open.spotify.com/album/644apP2mf0OYoBgU2iahms) | 3:12 | 2021-10-01 |  |

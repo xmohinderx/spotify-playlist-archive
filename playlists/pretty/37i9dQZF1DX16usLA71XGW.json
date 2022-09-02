@@ -1,12 +1,12 @@
 {
   "description": "East Africa Queens in their musical element.",
-  "num_followers": 583,
+  "num_followers": 585,
   "original_name": "Malkia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDkxNDA5MywwMDAwMDAwMDM5MmZiYTk1NTU5ZWY1NmMxNzc0NTVjNGQyNmU1ZDAz",
+  "snapshot_id": "MTY2MjA2NTk0MCwwMDAwMDAwMDk4MWYzOWQxNTgwZjVjZDljMjEwNmQwYTdkNzBiMjUx",
   "tracks": [
     {
       "added_at": "2022-08-19 13:01:33",
@@ -43,6 +43,22 @@
     {
       "added_at": "2022-07-18 11:52:46",
       "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/77exuH6Dzo7RMFxtFxNLhQ"
+      },
+      "artists": [
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        }
+      ],
+      "duration_ms": 217734,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/1LFM0KBmoe13qfMQZucsPk"
+    },
+    {
+      "added_at": "2022-07-18 11:52:46",
+      "album": {
         "name": "U&I",
         "url": "https://open.spotify.com/album/6VATsDRPXpyWz3VEKvlnfZ"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 187000,
       "name": "Pen & Paper",
       "url": "https://open.spotify.com/track/08MoSv9F2ZzT3B1GJR3OD6"
-    },
-    {
-      "added_at": "2022-07-18 11:52:46",
-      "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/77exuH6Dzo7RMFxtFxNLhQ"
-      },
-      "artists": [
-        {
-          "name": "Zuchu",
-          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
-        }
-      ],
-      "duration_ms": 217734,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/1LFM0KBmoe13qfMQZucsPk"
     },
     {
       "added_at": "2022-07-18 11:52:46",
@@ -239,6 +239,22 @@
       "duration_ms": 146024,
       "name": "Moyo",
       "url": "https://open.spotify.com/track/22COxRY6jsNPJDtCSX7xUd"
+    },
+    {
+      "added_at": "2022-09-01 20:59:00",
+      "album": {
+        "name": "Ruguru",
+        "url": "https://open.spotify.com/album/2rdXJOOC9kuPWxD1mboKCQ"
+      },
+      "artists": [
+        {
+          "name": "Ruguru",
+          "url": "https://open.spotify.com/artist/1paCrsKnETPLpODHtQfSSW"
+        }
+      ],
+      "duration_ms": 184826,
+      "name": "Want It All",
+      "url": "https://open.spotify.com/track/0rMg0aTus0SMln332gVa9M"
     },
     {
       "added_at": "2022-07-18 11:52:46",
@@ -845,24 +861,24 @@
       "url": "https://open.spotify.com/track/6OOi3c5ikce6w19EN5Mp1T"
     },
     {
-      "added_at": "2022-07-18 11:52:46",
+      "added_at": "2022-09-01 20:59:00",
       "album": {
-        "name": "Leeta",
-        "url": "https://open.spotify.com/album/09s7hFn3gp1v5ICZPl8MXT"
+        "name": "NYUMBANI",
+        "url": "https://open.spotify.com/album/3O5Iv6cDY2chRPfcFPEl4s"
       },
       "artists": [
         {
-          "name": "Sheebah",
-          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
+          "name": "Colossal Music",
+          "url": "https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520"
         },
         {
-          "name": "Ruth Ngendo",
-          "url": "https://open.spotify.com/artist/7BNAToPYtiC9nK6KXexLAc"
+          "name": "Amara Tari",
+          "url": "https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd"
         }
       ],
-      "duration_ms": 194037,
-      "name": "Leeta",
-      "url": "https://open.spotify.com/track/2OeysGms4a3xc6aksHte29"
+      "duration_ms": 120960,
+      "name": "Nyumbani",
+      "url": "https://open.spotify.com/track/4kHQ3Yo16DFn5HudDRT4MW"
     },
     {
       "added_at": "2022-07-18 11:52:46",
@@ -963,22 +979,6 @@
       "duration_ms": 224769,
       "name": "Honey (K.I.S.S.I.N.G)",
       "url": "https://open.spotify.com/track/3BP2NL1f7Q2OjfcfKW8dZx"
-    },
-    {
-      "added_at": "2022-07-18 11:52:46",
-      "album": {
-        "name": "SARE",
-        "url": "https://open.spotify.com/album/2dCE4ncQB0yQ0HAC1B6yyE"
-      },
-      "artists": [
-        {
-          "name": "Emmie Muthiga",
-          "url": "https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR"
-        }
-      ],
-      "duration_ms": 174267,
-      "name": "SARE",
-      "url": "https://open.spotify.com/track/6PBPQBCwEecZHzuTKoKjiq"
     },
     {
       "added_at": "2022-07-18 11:52:46",

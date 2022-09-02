@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-479 songs - 1 day 3 hr 13 min - [published](https://open.spotify.com/playlist/5xT4nQt3o56tzuR4v4jZw5)
+480 songs - 1 day 3 hr 17 min - [published](https://open.spotify.com/playlist/5xT4nQt3o56tzuR4v4jZw5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Butter \(Megan Thee Stallion Remix\)](https://open.spotify.com/track/3JR0ducCexKbeK47g6AHm5) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Butter \(Megan Thee Stallion Remix\)](https://open.spotify.com/album/4VmlZdGnrtNpiCJFXplGrP) | 2:44 | 2021-08-29 | 2021-08-30 |
 | [CA7BY](https://open.spotify.com/track/199urTMSWFxpEFDhTJ5wwH) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [FLORIDA DARK MODE \(el malahy\)](https://open.spotify.com/album/1w7TpeUHdy1MammG1bmIxQ) | 2:54 | 2022-07-20 | 2022-08-19 |
 | [Call Out My Name](https://open.spotify.com/track/09mEdoA6zrmBPgTEN5qXmN) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [My Dear Melancholy,](https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO) | 3:48 | 2022-07-16 |  |
+| [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 | 2022-09-01 |  |
 | [Champagne Poetry](https://open.spotify.com/track/2HSmyk2qMN8WQjuGhaQgCk) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 5:36 | 2021-09-05 | 2021-09-06 |
 | [CHAMPIONS LEAGUE](https://open.spotify.com/track/4iozpxYS1GPH7wVLIY91o8) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [FLORIDA DARK MODE \(el malahy\)](https://open.spotify.com/album/1w7TpeUHdy1MammG1bmIxQ) | 3:38 | 2022-06-26 | 2022-07-07 |
 | [CHAMPIONS LEAGUE](https://open.spotify.com/track/6Lyq1XzcBbPSZv8VyYqxnP) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [FLORIDA DARK MODE \(el malahy\)](https://open.spotify.com/album/1YvBzGrS9sYfGKD2rQ7mhw) | 3:38 | 2022-06-25 | 2022-06-27 |
@@ -139,7 +140,7 @@
 | [Fahmek](https://open.spotify.com/track/3EZxxyB3IcZGi7ALxkywRy) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Beeny we Beenek](https://open.spotify.com/album/198vpQGBG1ZBoLCpxR1Qvn) | 3:03 | 2022-02-17 | 2022-02-26 |
 | [Fair Trade \(with Travis Scott\)](https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:51 | 2021-09-05 | 2021-09-22 |
 | [Falling Back](https://open.spotify.com/track/5zyZM1EiSqrniyqtprwxpv) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX) | 4:26 | 2022-06-18 | 2022-06-20 |
-| [FAR2 KHEBRA](https://open.spotify.com/track/53BjuhvFCmv5T0VRhKuNrb) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [FAR2 KHEBRA](https://open.spotify.com/album/08pIAC8EPHbSDQFsY0xRov) | 3:08 | 2021-10-31 |  |
+| [FAR2 KHEBRA](https://open.spotify.com/track/53BjuhvFCmv5T0VRhKuNrb) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [FAR2 KHEBRA](https://open.spotify.com/album/08pIAC8EPHbSDQFsY0xRov) | 3:08 | 2021-10-31 | 2022-09-02 |
 | [Father Time \(feat\. Sampha\)](https://open.spotify.com/track/4xIhSUJantE6BMl3u8dtCJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:42 | 2022-05-14 | 2022-05-16 |
 | [Fe Makan Ma](https://open.spotify.com/track/3nF4YhL8rIDjYKfPpnzTBS) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Fe Makan Ma](https://open.spotify.com/album/2pGUBaoowc7BvZIye0pob7) | 3:51 | 2022-03-16 | 2022-03-24 |
 | [Feeha La Khfeeha](https://open.spotify.com/track/5IadhJSL2h9WKI6ChfTTgj) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Feeha La Khfeeha](https://open.spotify.com/album/3bIEOYEgi9eKH6mXNosRsg) | 3:09 | 2022-03-15 | 2022-04-08 |

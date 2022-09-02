@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 
 > Drill scenes connect\. Cover: Ice Spice
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,848 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,080 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 | 38 | [Talk To Me Nice](https://open.spotify.com/track/1JTnvQEXkqf0ZovtKPDh9j) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [Talk To Me Nice](https://open.spotify.com/album/4wt9ueqBx4ngkdrD3Rd41Z) | 2:28 |
 | 39 | [Nice & Good](https://open.spotify.com/track/0FP75UX2W460N7q2PKrzdh) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5) | [Nice & Good](https://open.spotify.com/album/2nZHGm0LbyWb9SQ48RWFdO) | 3:57 |
 | 40 | [Loading](https://open.spotify.com/track/4D0GT8zWuA7Z2em6dpajAn) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Loading](https://open.spotify.com/album/11W7cdDjujY2ktlOAGGq7Q) | 2:53 |
-| 41 | [Changed On Me \(feat\. Vory & Polo G\)](https://open.spotify.com/track/0aJMggmjMva3QFnAbmM2U9) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [B.I.B.L.E.](https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP) | 4:01 |
-| 42 | [STURDY](https://open.spotify.com/track/5KYHtcY0dtXkSxZwtVMjgp) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [STURDY](https://open.spotify.com/album/368Ku2KAei8qwbELqc1Rzl) | 3:57 |
+| 41 | [STURDY](https://open.spotify.com/track/5KYHtcY0dtXkSxZwtVMjgp) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [STURDY](https://open.spotify.com/album/368Ku2KAei8qwbELqc1Rzl) | 3:57 |
+| 42 | [Changed On Me \(feat\. Vory & Polo G\)](https://open.spotify.com/track/0aJMggmjMva3QFnAbmM2U9) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [B.I.B.L.E.](https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP) | 4:01 |
 | 43 | [Demons \(feat\. Fivio Foreign & Sosa Geek\)](https://open.spotify.com/track/05aZ9sAU1YXndHv0FMi9iW) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Sosa Geek](https://open.spotify.com/artist/2UyyBkpzN5w3hzZBZGvRZb) | [Dark Lane Demo Tapes](https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK) | 3:24 |
 | 44 | [22 Carats](https://open.spotify.com/track/1fmVM7nzDB3pUPhPQgzYoT) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [22 Carats](https://open.spotify.com/album/5Zk8JVmGOQCIfyulE39JCd) | 3:26 |
 | 45 | [30 \(feat\. Bizzy Banks\)](https://open.spotify.com/track/24YG5Z8Of1VHovrfXsbvCZ) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 3:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 | 49 | [Make A Movie \(feat\. Fivio Foreign\)](https://open.spotify.com/track/6fDlAcex9PxMcvw4eiZjLq) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Make A Movie \(feat\. Fivio Foreign\)](https://open.spotify.com/album/4HFKc1vf00ooiAXuPIf5xv) | 2:17 |
 | 50 | [Only You Freestyle](https://open.spotify.com/track/4OENnoidV0h8gJV6bhrw7r) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Only You Freestyle](https://open.spotify.com/album/5L6DR2YmRLRZ4CmR91l3Z4) | 4:08 |
 
-Snapshot ID: `MTY2MDg4MTY2MCwwMDAwMDAwMGE4NTYxN2E4M2E4MTY1ZWUzMzM2NjEzNzRjODM2ZjI5`
+Snapshot ID: `MTY2MDg4MTY2MCwwMDAwMDAwMDdjNTE0OWZlZTNkZjU5ZjAxZjJjZjRkNGVkYmRkN2Fk`

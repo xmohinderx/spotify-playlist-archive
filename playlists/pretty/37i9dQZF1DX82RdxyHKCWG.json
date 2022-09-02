@@ -1,12 +1,12 @@
 {
   "description": "As novidades e estrelas do pop que est\u00e3o explodindo no Spotify. \u2728 Foto: Rema, Selena Gomez\n",
-  "num_followers": 99385,
+  "num_followers": 99448,
   "original_name": "SUPERNOVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUyMjUxMCwwMDAwMDAwMDg1ZjdlYWE1ZWJiYWRkOWQ5NDk4NDQ1Zjk0Mjk5Yjk3",
+  "snapshot_id": "MTY2MTUyMjUxMCwwMDAwMDAwMDA4Zjg3YzJhOTAxMjVmMWEwNzEyODk1ZWQ3OTFlM2Rk",
   "tracks": [
     {
       "added_at": "2022-08-26 14:01:50",
@@ -255,6 +255,22 @@
     {
       "added_at": "2022-08-26 14:01:50",
       "album": {
+        "name": "Pink Venom",
+        "url": "https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Pink Venom",
+      "url": "https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj"
+    },
+    {
+      "added_at": "2022-08-26 14:01:50",
+      "album": {
         "name": "Super Freaky Girl",
         "url": "https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 300840,
       "name": "Running Up That Hill (A Deal With God) - 2018 Remaster",
       "url": "https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP"
-    },
-    {
-      "added_at": "2022-08-26 14:01:50",
-      "album": {
-        "name": "Pink Venom",
-        "url": "https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "Pink Venom",
-      "url": "https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj"
     },
     {
       "added_at": "2022-08-26 14:01:50",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2022-08-26 14:01:50",
       "album": {
+        "name": "Traumazine",
+        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 137107,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0"
+    },
+    {
+      "added_at": "2022-08-26 14:01:50",
+      "album": {
         "name": "Love Me More",
         "url": "https://open.spotify.com/album/59NkDiHvjWqXHHIxzoWAUe"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 193322,
       "name": "Honest (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/2KdKh9vHbKW0tZLqtpxxI0"
-    },
-    {
-      "added_at": "2022-08-26 14:01:50",
-      "album": {
-        "name": "Traumazine",
-        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 137107,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0"
     },
     {
       "added_at": "2022-08-26 14:01:50",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2022-08-26 14:01:50",
       "album": {
-        "name": "Don\u2019t Wake Me Up",
-        "url": "https://open.spotify.com/album/6ydP9IJkzpippCnXf2bpNs"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Why Don't We",
-          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
-        }
-      ],
-      "duration_ms": 188894,
-      "name": "Don\u2019t Wake Me Up",
-      "url": "https://open.spotify.com/track/3LEgGAl9zLcQWGTp7ptqtQ"
-    },
-    {
-      "added_at": "2022-08-26 14:01:50",
-      "album": {
         "name": "GOD DID",
         "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
       },
@@ -1319,18 +1299,22 @@
     {
       "added_at": "2022-08-26 14:01:50",
       "album": {
-        "name": "LADY LESTE",
-        "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
+        "name": "Don\u2019t Wake Me Up",
+        "url": "https://open.spotify.com/album/6ydP9IJkzpippCnXf2bpNs"
       },
       "artists": [
         {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Why Don't We",
+          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
         }
       ],
-      "duration_ms": 152690,
-      "name": "VERMELHO",
-      "url": "https://open.spotify.com/track/4EVzu5mYyigjyLrryKbZs7"
+      "duration_ms": 188894,
+      "name": "Don\u2019t Wake Me Up",
+      "url": "https://open.spotify.com/track/3LEgGAl9zLcQWGTp7ptqtQ"
     },
     {
       "added_at": "2022-08-26 14:01:50",
@@ -1351,6 +1335,22 @@
     {
       "added_at": "2022-08-26 14:01:50",
       "album": {
+        "name": "LADY LESTE",
+        "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 152690,
+      "name": "VERMELHO",
+      "url": "https://open.spotify.com/track/4EVzu5mYyigjyLrryKbZs7"
+    },
+    {
+      "added_at": "2022-08-26 14:01:50",
+      "album": {
         "name": "Take My Breath",
         "url": "https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8"
       },
@@ -1363,6 +1363,22 @@
       "duration_ms": 220196,
       "name": "Take My Breath - Single Version",
       "url": "https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF"
+    },
+    {
+      "added_at": "2022-08-26 14:01:50",
+      "album": {
+        "name": "29",
+        "url": "https://open.spotify.com/album/4SCO1XGo1Lv43OighlwqsL"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 163027,
+      "name": "29",
+      "url": "https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7"
     },
     {
       "added_at": "2022-08-26 14:01:50",
@@ -1395,22 +1411,6 @@
       "duration_ms": 176193,
       "name": "Que Rab\u00e3o (feat. Mr. Catra)",
       "url": "https://open.spotify.com/track/71fwkaKdNrxiZZbkzSqmFJ"
-    },
-    {
-      "added_at": "2022-08-26 14:01:50",
-      "album": {
-        "name": "29",
-        "url": "https://open.spotify.com/album/4SCO1XGo1Lv43OighlwqsL"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 163027,
-      "name": "29",
-      "url": "https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7"
     },
     {
       "added_at": "2022-08-26 14:01:50",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2022-08-26 14:01:50",
       "album": {
+        "name": "i can't help it",
+        "url": "https://open.spotify.com/album/1vJ1jmaxBT3tHp54igkrmK"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 177886,
+      "name": "i can't help it",
+      "url": "https://open.spotify.com/track/1HkRnB3c6aVMJxAryrsMsc"
+    },
+    {
+      "added_at": "2022-08-26 14:01:50",
+      "album": {
         "name": "2step (feat. Chefin)",
         "url": "https://open.spotify.com/album/1Cu9w3jFSFKHa1YckwnUFW"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 164560,
       "name": "2step (feat. Chefin)",
       "url": "https://open.spotify.com/track/72DbvEOeqtJbKAX9GLzRER"
-    },
-    {
-      "added_at": "2022-08-26 14:01:50",
-      "album": {
-        "name": "Remind Me",
-        "url": "https://open.spotify.com/album/7xlvDpADKIaRhPGgbMlsQ1"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 182681,
-      "name": "Remind Me",
-      "url": "https://open.spotify.com/track/5DlwOwWvIA9MOGixQnkwXD"
     },
     {
       "added_at": "2022-08-26 14:01:50",
@@ -1759,18 +1759,34 @@
     {
       "added_at": "2022-08-26 14:01:50",
       "album": {
-        "name": "i can't help it",
-        "url": "https://open.spotify.com/album/1vJ1jmaxBT3tHp54igkrmK"
+        "name": "Remind Me",
+        "url": "https://open.spotify.com/album/7xlvDpADKIaRhPGgbMlsQ1"
       },
       "artists": [
         {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 177886,
-      "name": "i can't help it",
-      "url": "https://open.spotify.com/track/1HkRnB3c6aVMJxAryrsMsc"
+      "duration_ms": 182681,
+      "name": "Remind Me",
+      "url": "https://open.spotify.com/track/5DlwOwWvIA9MOGixQnkwXD"
+    },
+    {
+      "added_at": "2022-08-26 14:01:50",
+      "album": {
+        "name": "Hidden Youth",
+        "url": "https://open.spotify.com/album/05ABj8AloK0QlVarxcu4XJ"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "duration_ms": 158604,
+      "name": "It Only Takes Two",
+      "url": "https://open.spotify.com/track/7L92GcnLG3bAi7veJRXIe7"
     },
     {
       "added_at": "2022-08-26 14:01:50",
@@ -1823,22 +1839,6 @@
       "duration_ms": 186188,
       "name": "Desculpa por Eu N\u00e3o Te Amar",
       "url": "https://open.spotify.com/track/3sOpdZk6nc2As9ZaeGYkUG"
-    },
-    {
-      "added_at": "2022-08-26 14:01:50",
-      "album": {
-        "name": "Hidden Youth",
-        "url": "https://open.spotify.com/album/05ABj8AloK0QlVarxcu4XJ"
-      },
-      "artists": [
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        }
-      ],
-      "duration_ms": 158604,
-      "name": "It Only Takes Two",
-      "url": "https://open.spotify.com/track/7L92GcnLG3bAi7veJRXIe7"
     },
     {
       "added_at": "2022-08-26 14:01:50",

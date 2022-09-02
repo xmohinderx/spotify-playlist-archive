@@ -1,12 +1,12 @@
 {
   "description": "\u00c9xitos internacionales que no pasan de moda.\nPara novedades, escucha <a href=\"spotify:playlist:37i9dQZF1DX6aTaZa0K6VA\">Pop Up</a>.",
-  "num_followers": 159313,
+  "num_followers": 159575,
   "original_name": "In English: Replay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDYzMjE4MCwwMDAwMDAwMGU4NmIwYjA1YWE0MDE3MjcxYWM1Y2U1ZTU5NGY3NWY1",
+  "snapshot_id": "MTY1NDYzMjE4MCwwMDAwMDAwMDg5NGZjNGI3YTU1YjQ3N2I1N2JiMGRjYWQyYWUwZWRh",
   "tracks": [
     {
       "added_at": "2022-06-07 20:03:00",
@@ -495,30 +495,6 @@
     {
       "added_at": "2022-06-07 20:03:00",
       "album": {
-        "name": "Views",
-        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "WizKid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Kyla",
-          "url": "https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO"
-        }
-      ],
-      "duration_ms": 173986,
-      "name": "One Dance",
-      "url": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
-    },
-    {
-      "added_at": "2022-06-07 20:03:00",
-      "album": {
         "name": "808s & Heartbreak",
         "url": "https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU"
       },
@@ -551,6 +527,30 @@
     {
       "added_at": "2022-06-07 20:03:00",
       "album": {
+        "name": "Views",
+        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Kyla",
+          "url": "https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO"
+        }
+      ],
+      "duration_ms": 173986,
+      "name": "One Dance",
+      "url": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
+    },
+    {
+      "added_at": "2022-06-07 20:03:00",
+      "album": {
         "name": "Unorthodox Jukebox",
         "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
       },
@@ -567,18 +567,18 @@
     {
       "added_at": "2022-06-07 20:03:00",
       "album": {
-        "name": "JORDI (Deluxe)",
-        "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
+        "name": "everything i wanted",
+        "url": "https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT"
       },
       "artists": [
         {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 189486,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI"
+      "duration_ms": 245425,
+      "name": "everything i wanted",
+      "url": "https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ"
     },
     {
       "added_at": "2022-06-07 20:03:00",
@@ -599,18 +599,18 @@
     {
       "added_at": "2022-06-07 20:03:00",
       "album": {
-        "name": "everything i wanted",
-        "url": "https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT"
+        "name": "JORDI (Deluxe)",
+        "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
         }
       ],
-      "duration_ms": 245425,
-      "name": "everything i wanted",
-      "url": "https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ"
+      "duration_ms": 189486,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI"
     },
     {
       "added_at": "2022-06-07 20:03:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-06-07 20:03:00",
       "album": {
-        "name": "Bored",
-        "url": "https://open.spotify.com/album/4iyJ8i3eKbez8JXDbsHIdZ"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 180933,
-      "name": "Bored",
-      "url": "https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ"
-    },
-    {
-      "added_at": "2022-06-07 20:03:00",
-      "album": {
         "name": "x (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 258986,
       "name": "Photograph",
       "url": "https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL"
+    },
+    {
+      "added_at": "2022-06-07 20:03:00",
+      "album": {
+        "name": "Bored",
+        "url": "https://open.spotify.com/album/4iyJ8i3eKbez8JXDbsHIdZ"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 180933,
+      "name": "Bored",
+      "url": "https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ"
     },
     {
       "added_at": "2022-06-07 20:03:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2022-06-07 20:03:00",
       "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 221306,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI"
+    },
+    {
+      "added_at": "2022-06-07 20:03:00",
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/0rSLgV8p5FzfnqlEk4GzxE"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 244960,
       "name": "Closer",
       "url": "https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw"
-    },
-    {
-      "added_at": "2022-06-07 20:03:00",
-      "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 221306,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI"
     },
     {
       "added_at": "2022-06-07 20:03:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-06-07 20:03:00",
       "album": {
-        "name": "Elephant",
-        "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 232106,
-      "name": "Seven Nation Army",
-      "url": "https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR"
-    },
-    {
-      "added_at": "2022-06-07 20:03:00",
-      "album": {
         "name": "A Head Full of Dreams",
         "url": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 258266,
       "name": "Hymn for the Weekend",
       "url": "https://open.spotify.com/track/3RiPr603aXAoi4GHyXx0uy"
+    },
+    {
+      "added_at": "2022-06-07 20:03:00",
+      "album": {
+        "name": "Elephant",
+        "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 232106,
+      "name": "Seven Nation Army",
+      "url": "https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR"
     },
     {
       "added_at": "2022-06-07 20:03:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-06-07 20:03:00",
       "album": {
-        "name": "Teatro d'ira - Vol. I",
-        "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 173346,
-      "name": "I WANNA BE YOUR SLAVE",
-      "url": "https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk"
-    },
-    {
-      "added_at": "2022-06-07 20:03:00",
-      "album": {
         "name": "\"Awaken, My Love!\"",
         "url": "https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8"
       },
@@ -939,6 +923,38 @@
       "duration_ms": 326933,
       "name": "Redbone",
       "url": "https://open.spotify.com/track/0wXuerDYiBnERgIpbb3JBR"
+    },
+    {
+      "added_at": "2022-06-07 20:03:00",
+      "album": {
+        "name": "Mylo Xyloto",
+        "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 278719,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D"
+    },
+    {
+      "added_at": "2022-06-07 20:03:00",
+      "album": {
+        "name": "Teatro d'ira - Vol. I",
+        "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 173346,
+      "name": "I WANNA BE YOUR SLAVE",
+      "url": "https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk"
     },
     {
       "added_at": "2022-06-07 20:03:00",
@@ -995,22 +1011,6 @@
     {
       "added_at": "2022-06-07 20:03:00",
       "album": {
-        "name": "Mylo Xyloto",
-        "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 278719,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D"
-    },
-    {
-      "added_at": "2022-06-07 20:03:00",
-      "album": {
         "name": "Uptown Special",
         "url": "https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1"
       },
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-06-07 20:03:00",
       "album": {
-        "name": "More Life",
-        "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 298940,
-      "name": "Passionfruit",
-      "url": "https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz"
-    },
-    {
-      "added_at": "2022-06-07 20:03:00",
-      "album": {
         "name": "Illuminate",
         "url": "https://open.spotify.com/album/1ne2D0NxoGyZd31gAM4HNd"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 187973,
       "name": "Treat You Better",
       "url": "https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd"
+    },
+    {
+      "added_at": "2022-06-07 20:03:00",
+      "album": {
+        "name": "More Life",
+        "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 298940,
+      "name": "Passionfruit",
+      "url": "https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz"
     },
     {
       "added_at": "2022-06-07 20:03:00",
@@ -1131,34 +1131,6 @@
     {
       "added_at": "2022-06-07 20:03:00",
       "album": {
-        "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
-        "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
-      },
-      "artists": [
-        {
-          "name": "Riton",
-          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
-        },
-        {
-          "name": "Nightcrawlers",
-          "url": "https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A"
-        },
-        {
-          "name": "Mufasa & Hypeman",
-          "url": "https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0"
-        },
-        {
-          "name": "Dopamine",
-          "url": "https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN"
-        }
-      ],
-      "duration_ms": 169153,
-      "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
-      "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
-    },
-    {
-      "added_at": "2022-06-07 20:03:00",
-      "album": {
         "name": "X&Y",
         "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
       },
@@ -1187,6 +1159,34 @@
       "duration_ms": 177000,
       "name": "HUMBLE.",
       "url": "https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS"
+    },
+    {
+      "added_at": "2022-06-07 20:03:00",
+      "album": {
+        "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
+        "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
+      },
+      "artists": [
+        {
+          "name": "Riton",
+          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
+        },
+        {
+          "name": "Nightcrawlers",
+          "url": "https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A"
+        },
+        {
+          "name": "Mufasa & Hypeman",
+          "url": "https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0"
+        },
+        {
+          "name": "Dopamine",
+          "url": "https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN"
+        }
+      ],
+      "duration_ms": 169153,
+      "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
+      "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
     },
     {
       "added_at": "2022-06-07 20:03:00",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2022-06-07 20:03:00",
       "album": {
-        "name": "The Fame Monster (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
+        "name": "Ghost Stories",
+        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 294573,
-      "name": "Bad Romance",
-      "url": "https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn"
+      "duration_ms": 267866,
+      "name": "A Sky Full of Stars",
+      "url": "https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ"
     },
     {
       "added_at": "2022-06-07 20:03:00",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2022-06-07 20:03:00",
       "album": {
-        "name": "Ghost Stories",
-        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
+        "name": "The Fame Monster (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 267866,
-      "name": "A Sky Full of Stars",
-      "url": "https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ"
+      "duration_ms": 294573,
+      "name": "Bad Romance",
+      "url": "https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn"
     },
     {
       "added_at": "2022-06-07 20:03:00",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2022-06-07 20:03:00",
       "album": {
+        "name": "Only By The Night",
+        "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 203346,
+      "name": "Sex on Fire",
+      "url": "https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45"
+    },
+    {
+      "added_at": "2022-06-07 20:03:00",
+      "album": {
         "name": "THE ANXIETY",
         "url": "https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K"
       },
@@ -1651,18 +1667,18 @@
     {
       "added_at": "2022-06-07 20:03:00",
       "album": {
-        "name": "Only By The Night",
-        "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
+        "name": "Origins (Deluxe)",
+        "url": "https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr"
       },
       "artists": [
         {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
         }
       ],
-      "duration_ms": 203346,
-      "name": "Sex on Fire",
-      "url": "https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45"
+      "duration_ms": 189466,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT"
     },
     {
       "added_at": "2022-06-07 20:03:00",
@@ -1683,22 +1699,6 @@
       "duration_ms": 229525,
       "name": "See You Again (feat. Charlie Puth)",
       "url": "https://open.spotify.com/track/2JzZzZUQj3Qff7wapcbKjc"
-    },
-    {
-      "added_at": "2022-06-07 20:03:00",
-      "album": {
-        "name": "Origins (Deluxe)",
-        "url": "https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 189466,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT"
     },
     {
       "added_at": "2022-06-07 20:03:00",

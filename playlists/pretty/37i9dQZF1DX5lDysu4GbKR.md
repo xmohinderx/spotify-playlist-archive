@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 
 > Relax to these acoustic soul songs\. Cover: Jacob Banks
 
-[Spotify](https://open.spotify.com/user/spotify) - 549,370 likes - 102 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 549,342 likes - 102 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

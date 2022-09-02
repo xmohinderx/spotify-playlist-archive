@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 
 ### [Country by the Grace of God](https://open.spotify.com/playlist/37i9dQZF1DWU2LcZVHsTdv)
 
-> The country way of testifying\. Cover: Tyler Hubbard
+> The country way of testifying\. Cover: Ian Munsick
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,765 likes - 123 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,824 likes - 123 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Way Home](https://open.spotify.com/track/3rK8TFLvwfbEGBOP0G76T9) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Way Home](https://open.spotify.com/album/57bEdmDvPY66UIjq0Ot9w8) | 3:09 |
-| 2 | [Heaven Down Here](https://open.spotify.com/track/0XWNEv2MhiUqfdyVlQabIi) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Heaven Down Here](https://open.spotify.com/album/4XMV3levyftRwrDmyxJBzD) | 3:33 |
-| 3 | [Country Boy's Prayer](https://open.spotify.com/track/2Pnw07JGKNZYta0UrHox5X) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [We Were Cowboys](https://open.spotify.com/album/3ZGZNsbL4jY4pnOxxlYOCG) | 3:44 |
+| 1 | [More Than Me](https://open.spotify.com/track/3rwKMppuXXBCgiUX5oXVI6) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [More Than Me](https://open.spotify.com/album/69MD2GpLPj3eDGaLu2cagD) | 3:30 |
+| 2 | [Country Boy's Prayer](https://open.spotify.com/track/2Pnw07JGKNZYta0UrHox5X) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [We Were Cowboys](https://open.spotify.com/album/3ZGZNsbL4jY4pnOxxlYOCG) | 3:44 |
+| 3 | [Heaven Down Here](https://open.spotify.com/track/0XWNEv2MhiUqfdyVlQabIi) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Heaven Down Here](https://open.spotify.com/album/4XMV3levyftRwrDmyxJBzD) | 3:33 |
 | 4 | [When I Get Where I'm Going \(feat\. Dolly Parton\)](https://open.spotify.com/track/3VLCtStwYsAL4LKZgeUvy3) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Time Well Wasted](https://open.spotify.com/album/32LSfRBN2QI84fkkVX0edr) | 4:07 |
 | 5 | [Where I Find God](https://open.spotify.com/track/6jhLdxpo93lXFaJwX7znaa) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw) | [Stack of Records](https://open.spotify.com/album/7AzZB0UHZtWu7Ya8yQN3iW) | 4:09 |
 | 6 | [The Road](https://open.spotify.com/track/6IsIpPApmefLa6dfop4xYX) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [The Road](https://open.spotify.com/album/4wXPYoDHriG75HyGDPtXiq) | 4:28 |
-| 7 | [More Than Me](https://open.spotify.com/track/3rwKMppuXXBCgiUX5oXVI6) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [More Than Me](https://open.spotify.com/album/69MD2GpLPj3eDGaLu2cagD) | 3:30 |
-| 8 | [Dear Jesus](https://open.spotify.com/track/2VjYbrcNOqPM8VfckFsCi0) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [The Low Light Sessions](https://open.spotify.com/album/6UMZCXdMMgh4q5nKtGiKKC) | 3:43 |
+| 7 | [Dear Jesus](https://open.spotify.com/track/2VjYbrcNOqPM8VfckFsCi0) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [The Low Light Sessions](https://open.spotify.com/album/6UMZCXdMMgh4q5nKtGiKKC) | 3:43 |
+| 8 | [Way Home](https://open.spotify.com/track/3rK8TFLvwfbEGBOP0G76T9) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Way Home](https://open.spotify.com/album/57bEdmDvPY66UIjq0Ot9w8) | 3:09 |
 | 9 | [Hold Together](https://open.spotify.com/track/2XCcWKqWhTcEIIioskq3bi) | [Shadowlands](https://open.spotify.com/artist/1qwYptsAoTdF79AffnMnpe), [Luke Laird](https://open.spotify.com/artist/68TC0JwoMubeom8X4c7UVI), [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [Hold Together](https://open.spotify.com/album/7erbvztzF5K8So7dme7oKk) | 3:32 |
 | 10 | [Sunday Sermons](https://open.spotify.com/track/34AMpAXtxVGN6uSpwYN6Hs) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Sunday Sermons](https://open.spotify.com/album/6COpz7BOFtDc13O5JcGzNQ) | 3:20 |
 | 11 | [For God Is With Us \(with Hillary Scott\)](https://open.spotify.com/track/3oEUEyCzKwaBHBvzsJaiGJ) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Hillary Scott](https://open.spotify.com/artist/0Sk6yoUQnccty5iMhVhz9D) | [For God Is With Us \(with Hillary Scott\)](https://open.spotify.com/album/0KbCQCDOw4a73MkepkJ7ev) | 3:19 |
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 | 122 | [Here On Earth](https://open.spotify.com/track/6oARVUWXiWceOYeijMwcvw) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Here On Earth](https://open.spotify.com/album/1txWLNMKiZ5K6ezFMtyjLM) | 4:21 |
 | 123 | [The Distance](https://open.spotify.com/track/6j5M0J8g1pfRnJ9wWwrvFP) | [Gary LeVox](https://open.spotify.com/artist/6daR4Ec3o6K4VJnRcPM6w6) | [One On One](https://open.spotify.com/album/5UGVoX8a8k9bh46FWaVWcr) | 3:24 |
 
-Snapshot ID: `MTY2MTQ4NjQ2MCwwMDAwMDAwMDgxNGNkYWZlMWNlOTVmNjkxN2UzODFhNTc1NjU2Y2U4`
+Snapshot ID: `MTY2MjAwNDgwMCwwMDAwMDAwMGQ2Yzk4YzMzOTU1MzkxZDRhOGM0ZDEwNjYyZGU3Yjc0`

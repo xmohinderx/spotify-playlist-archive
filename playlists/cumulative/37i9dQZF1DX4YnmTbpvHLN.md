@@ -4,11 +4,11 @@
 
 > Degusta de lo más delicioso para cenar.
 
-182 songs - 12 hr 28 min - [published](https://open.spotify.com/playlist/47Huh5UiGAGys8xAYxZSoJ)
+184 songs - 12 hr 35 min - [published](https://open.spotify.com/playlist/47Huh5UiGAGys8xAYxZSoJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| ['Round Midnight](https://open.spotify.com/track/1FOI8dkOH27cv1FC7ZFOEp) | [Corey Christopher Wright](https://open.spotify.com/artist/76chtyg3RNKYtVaNv2waQk) | ['Round Midnight](https://open.spotify.com/album/78X3XqhFT1W9qTUO506Bm9) | 5:21 | 2022-06-29 |  |
+| ['Round Midnight](https://open.spotify.com/track/1FOI8dkOH27cv1FC7ZFOEp) | [Corey Christopher Wright](https://open.spotify.com/artist/76chtyg3RNKYtVaNv2waQk) | ['Round Midnight](https://open.spotify.com/album/78X3XqhFT1W9qTUO506Bm9) | 5:21 | 2022-06-29 | 2022-09-02 |
 | [A Flower is a Lonesome Thing](https://open.spotify.com/track/75M8G3DXdEqW3jJI4OyI5r) | [Lauren Richardson](https://open.spotify.com/artist/22cERTGpksi71aIOeGVYf6) | [A Flower is a Lonesome Thing](https://open.spotify.com/album/1lyGazJswD2YoFvtE2hSCV) | 5:26 | 2022-06-29 | 2022-07-28 |
 | [A Life Remembered](https://open.spotify.com/track/1Z2syyXirlJMUq8NRh6r3t) | [Bridgerton Vail](https://open.spotify.com/artist/258zL72kPsK1Y6IqgdoPDC) | [A Life Remembered](https://open.spotify.com/album/787bxoPDOcR9LASFyyWlHA) | 2:56 | 2022-06-29 |  |
 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/1xaTXPoDk4VOU9XhYX4KJM) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Recorded Fall '61](https://open.spotify.com/album/4eujTUUqxbXKR0rSfwyw2h) | 6:59 | 2022-06-29 |  |
@@ -70,7 +70,7 @@
 | [Hector's Plan](https://open.spotify.com/track/5eWLDX4KoC24EYgrZl8Rta) | [Norwood Macdonald Group](https://open.spotify.com/artist/6HhfFG1K5tRpfzuCzGKQfL) | [Hector's Plan](https://open.spotify.com/album/1E1vK9IaJTTMEYSgAKq7SF) | 2:24 | 2022-06-29 |  |
 | [Here's That Rainy Day](https://open.spotify.com/track/1c5xi6V22AXSmXJfcpWwII) | [Tenille Taylor Quartet](https://open.spotify.com/artist/3UMb1QH0ZwX6GqtDxSsIPK) | [Here's That Rainy Day](https://open.spotify.com/album/1KzZ4ioqkhR9d5POqDGwnp) | 4:37 | 2022-06-29 | 2022-07-29 |
 | [Honey, You Are My Everything](https://open.spotify.com/track/2dXBcXQmElv95h7Fl0P623) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Honey, You Are My Everything](https://open.spotify.com/album/7bYo0AjbiwMLJJqYyVuGID) | 4:19 | 2022-06-29 |  |
-| [Hoping](https://open.spotify.com/track/6RhZRRN9d78ef1Qhevnxkk) | [Tom Stills Quartet](https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0) | [Hoping](https://open.spotify.com/album/4fSuViLnkUt5fKf6w3SxtC) | 3:23 | 2022-06-29 |  |
+| [Hoping](https://open.spotify.com/track/6RhZRRN9d78ef1Qhevnxkk) | [Tom Stills Quartet](https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0) | [Hoping](https://open.spotify.com/album/4fSuViLnkUt5fKf6w3SxtC) | 3:23 | 2022-06-29 | 2022-09-02 |
 | [Hoppet](https://open.spotify.com/track/50QdRhmKuE8C2z1NGkiKxB) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Hoppet](https://open.spotify.com/album/6IOoncN42rM25gZJx0rp8J) | 2:35 | 2022-06-29 |  |
 | [How Deep Is The Ocean \(How High Is The Sky\)](https://open.spotify.com/track/2yVSmhgifg9zyolZ2FOgPM) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Ben Webster Meets Oscar Peterson](https://open.spotify.com/album/52vxvueV32JO6tZHaSojRZ) | 2:33 | 2022-06-29 |  |
 | [I Could Write A Book](https://open.spotify.com/track/7nbQBpnj4CfKEycYy1dNLT) | [Jacob Schwarz Trio](https://open.spotify.com/artist/4xN1VyTbKQakR98CT0NNfY) | [Jazz Nights](https://open.spotify.com/album/6RT1EEN4J9A229oyoZ6jHM) | 3:09 | 2022-06-29 |  |
@@ -97,6 +97,7 @@
 | [Intangible](https://open.spotify.com/track/5jU0M5C3puyWnDvrd27RSP) | [Coal Diamond Trio](https://open.spotify.com/artist/6jUiShUd9yRdlmPJlJgTad) | [Intangible](https://open.spotify.com/album/3YGiHeOdYUDi05wsYcEk6r) | 5:02 | 2022-06-29 |  |
 | [It Might As Well Be Spring](https://open.spotify.com/track/62sqdTmnNpWcJtxtJXmKzy) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [It Might As Well Be Spring](https://open.spotify.com/album/0FMeAHDC7zwcktJQ3KUzGw) | 4:35 | 2022-06-29 |  |
 | [It Never Entered My Mind](https://open.spotify.com/track/221sAu49BeeicsRkrfn8I0) | [Jonas Olofsson](https://open.spotify.com/artist/5ZVjwllTKhsYz9yuvrPp6O) | [It Never Entered My Mind](https://open.spotify.com/album/56FCHKFMba5as5DRUB8C5d) | 4:11 | 2022-06-29 |  |
+| [It's You Or No One](https://open.spotify.com/track/3CewMyxVNsiu94v6Vm0SS2) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [It's You Or No One](https://open.spotify.com/album/21kjz5LLIGohYrVYgkEI0r) | 3:34 | 2022-08-31 |  |
 | [It's Your Smile](https://open.spotify.com/track/0WnGSR1VwZxJE9M37zjBQ3) | [Wendy Marcini](https://open.spotify.com/artist/4CaTfk4pRkpA8A9gXamYg2) | [It's Your Smile](https://open.spotify.com/album/2BQpZP1DmHdtJGtVaOG4LL) | 2:55 | 2022-06-29 |  |
 | [Its That Simple](https://open.spotify.com/track/1ancD3oX9uRaQ0oKrFVTi8) | [Robert Elovsson Quartet](https://open.spotify.com/artist/2JtAEXEXjrclv4NJwoGyB7) | [Its That Simple](https://open.spotify.com/album/2wpIk2wkFrfh1aW0E8us4Y) | 4:12 | 2022-06-29 | 2022-08-14 |
 | [It´s Easy To Remember](https://open.spotify.com/track/5PExCVG0iW5oiWpzHZjxMq) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [It´s Easy To Remember](https://open.spotify.com/album/2mQbfegP0VRuYuBP5sKihX) | 3:32 | 2022-06-29 |  |
@@ -111,6 +112,7 @@
 | [Lost and Found](https://open.spotify.com/track/09YX8Z46RPayTuUF2Gmtiw) | [Reese Quartet](https://open.spotify.com/artist/715TpfLaAurJfQk8CjhKsm) | [Lost and Found](https://open.spotify.com/album/76v5tyzy1FuPR6XvYzXi3F) | 3:26 | 2022-06-29 |  |
 | [Love Is a Many\-Splendored Thing](https://open.spotify.com/track/23G8P94lKwgXNAKH2z5VP8) | [Louis Silva Band](https://open.spotify.com/artist/73EUNkbwvo1Y6ZmVjummIq) | [Pretty Ballad](https://open.spotify.com/album/03Xyg4vzclkEFYYnLDvGMB) | 2:43 | 2022-06-29 |  |
 | [Love Waiting Endlessly](https://open.spotify.com/track/4LqPbk7Mcm48KciBUa88sM) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [Jasper Somsen](https://open.spotify.com/artist/2lcAR2q7nM4FNKG4SbaKVY), [Jorge Rossy](https://open.spotify.com/artist/0bUTRhTTU18M19hpsAPSrE) | [Common View](https://open.spotify.com/album/0MKZB0Q3tyrI0jtacgtQZF) | 4:35 | 2022-06-29 | 2022-08-15 |
+| [Love Will Last Forever](https://open.spotify.com/track/3AqqDd9zm7ZG8AFaveWYIm) | [Michael Stylez & Co](https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT) | [Love Will Last Forever](https://open.spotify.com/album/4usW1UlwKnmOuqsChtx2Xa) | 3:35 | 2022-08-31 |  |
 | [Lower East Side](https://open.spotify.com/track/2B4zWGcQq19hdbRLTHWInd) | [Duponte et Duponte](https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o) | [Lower East Side](https://open.spotify.com/album/7JBbttbLCeStXO31U0hkE4) | 3:52 | 2022-06-29 |  |
 | [Lucky To Be Me](https://open.spotify.com/track/4mTBd1yNfpjivl5lHorkiw) | [Ten Thirty Trio](https://open.spotify.com/artist/5bMQvYFq5ic1QxUDaGPyeb) | [Lucky To Be Me](https://open.spotify.com/album/2SlisjeQUgoA3qCocBRzcp) | 3:43 | 2022-06-29 |  |
 | [Lush Life](https://open.spotify.com/track/7xuOv4oO4lghAaoS27dIEx) | [Tiril Brandt](https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92) | [Lush Life](https://open.spotify.com/album/0gTwalJJCInwDoCqDyF8JR) | 4:02 | 2022-06-29 |  |

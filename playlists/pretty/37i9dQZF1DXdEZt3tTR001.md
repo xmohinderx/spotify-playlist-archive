@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 
 > Lay back\. Chill out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,218 likes - 70 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,370 likes - 70 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 32 | [Fortunate](https://open.spotify.com/track/2RtvkLz5tmOXlzz918It6E) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Fortunate](https://open.spotify.com/album/59f5YlSvsyT1Wa5Df1277H) | 5:01 |
 | 33 | [Get to You Again](https://open.spotify.com/track/5pNiAcguRrBdYf5V0QXdir) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Something to Feel](https://open.spotify.com/album/02dq5KH5htRQNedTyplLu8) | 4:27 |
 | 34 | [Sending My Love](https://open.spotify.com/track/7f5dRZ6W2Si4SoPLQxNHbm) | [Zhané](https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is) | [Pronounced Jah\-Nay](https://open.spotify.com/album/4Rj3sxQFk2chQQqfad4siz) | 3:40 |
-| 35 | [Fallen](https://open.spotify.com/track/75pAfYEpRXZf7GVORGhOgz) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Moodring](https://open.spotify.com/album/2syvgyDNiIraR35ncupC0H) | 3:34 |
-| 36 | [Send It On](https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 5:56 |
-| 37 | [He Loves Me \(Lyzel in E Flat\)](https://open.spotify.com/track/2PzYqACbv12FNhrlHPfJEH) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Who Is Jill Scott? \- Words and Sounds, Vol\. 1](https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG) | 4:45 |
-| 38 | [Distance](https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Distance](https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC) | 4:15 |
+| 35 | [Send It On](https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 5:56 |
+| 36 | [Fallen](https://open.spotify.com/track/75pAfYEpRXZf7GVORGhOgz) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Moodring](https://open.spotify.com/album/2syvgyDNiIraR35ncupC0H) | 3:34 |
+| 37 | [Distance](https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Distance](https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC) | 4:15 |
+| 38 | [He Loves Me \(Lyzel in E Flat\)](https://open.spotify.com/track/2PzYqACbv12FNhrlHPfJEH) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Who Is Jill Scott? \- Words and Sounds, Vol\. 1](https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG) | 4:45 |
 | 39 | [For Real](https://open.spotify.com/track/0sxEHZ8WEPPTWGFXYBdB3O) | [Amel Larrieux](https://open.spotify.com/artist/4hVcxmC7igpot32EzQf7IR) | [Bravebird](https://open.spotify.com/album/4ifJLmQAJIUsAPmm6pnxJw) | 3:46 |
 | 40 | [Mine](https://open.spotify.com/track/1IxfE1rd0ngSFP8MSqYiv0) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Mine](https://open.spotify.com/album/0RJkdbyHeLAxKXCzIrpyOj) | 3:32 |
 | 41 | [Sunshine](https://open.spotify.com/track/1el1feH98jWUrPpYmu5jN8) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:22 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 69 | [Love In Full Bloom](https://open.spotify.com/track/4LCxUSGC5gg291GXE0CUwL) | [Karla Felecia Scaife](https://open.spotify.com/artist/10cEgWO5EK436JaZkGQUKj) | [Love in Full Bloom](https://open.spotify.com/album/4cEfTkaA9FcgZOuyjVkiZG) | 3:51 |
 | 70 | [elephant in the room](https://open.spotify.com/track/1N3br7Nh0Dz80SjntIRDIG) | [untradition](https://open.spotify.com/artist/14iZPa9FB6NBz4t5mR0oFe) | [elephant in the room](https://open.spotify.com/album/1PK3LYFEFFBEq7SiqqF39y) | 3:19 |
 
-Snapshot ID: `MTY2MTQ3OTc1MywwMDAwMDAwMDdkNWUzZWZlZDk2ZjM3NDUwOGM1YzAyZWE5MmY1YzY3`
+Snapshot ID: `MTY2MTQ3OTc1MywwMDAwMDAwMGEzOWI4ODI1ZWFiOTc4N2EzMDA0MDdiNzA5ZjAwNzAx`

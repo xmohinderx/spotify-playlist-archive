@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 
 > ¡Buen provecho!
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,860 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,878 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 | 23 | [Cuando Nos Volvamos a Encontrar \(feat\. Marc Anthony\)](https://open.spotify.com/track/59hfezbTqi7I68O4OyLfcR) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Más + Corazón Profundo](https://open.spotify.com/album/2YN1HrfqqAkts3D8DdVSHX) | 4:38 |
 | 24 | [Enamórate De Alguien Más](https://open.spotify.com/track/1fXKStjVOTmBEwjAnFSNkc) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Enamórate De Alguien Más](https://open.spotify.com/album/7EpdDp3FoDcnS95f0wgSYb) | 3:49 |
 | 25 | [Brindo](https://open.spotify.com/track/1oLp4xkeNCxjMy4glz0vbL) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn) | [Brindo](https://open.spotify.com/album/5WBJnHs3CWYPwoi3yJS58x) | 3:05 |
-| 26 | [Time After Time](https://open.spotify.com/track/5JEM7lT9uSyhUsKFXwGfSm) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Time After Time](https://open.spotify.com/album/5NovnTHEYZjadICACf4yPo) | 2:50 |
-| 27 | [Cuántas Veces](https://open.spotify.com/track/0dfyGtKJoxV8KAYRpSwBiL) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Cuántas Veces](https://open.spotify.com/album/2nliVdeqWoH2jDShBUdGMj) | 3:14 |
-| 28 | [Better Together](https://open.spotify.com/track/6huS9u0BDfeQHq0lObNLPl) | [Us The Duo](https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl) | [Better Together](https://open.spotify.com/album/0KAwOGS6XRZfVBx9qmSlMc) | 3:20 |
-| 29 | [Eres Tú](https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve) | 3:48 |
+| 26 | [Eres Tú](https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve) | 3:48 |
+| 27 | [Time After Time](https://open.spotify.com/track/5JEM7lT9uSyhUsKFXwGfSm) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Time After Time](https://open.spotify.com/album/5NovnTHEYZjadICACf4yPo) | 2:50 |
+| 28 | [Cuántas Veces](https://open.spotify.com/track/0dfyGtKJoxV8KAYRpSwBiL) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Cuántas Veces](https://open.spotify.com/album/2nliVdeqWoH2jDShBUdGMj) | 3:14 |
+| 29 | [Better Together](https://open.spotify.com/track/6huS9u0BDfeQHq0lObNLPl) | [Us The Duo](https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl) | [Better Together](https://open.spotify.com/album/0KAwOGS6XRZfVBx9qmSlMc) | 3:20 |
 | 30 | [Con los Años Que Me Quedan](https://open.spotify.com/track/5UPd6Gyj4aoaTUTlpWSak5) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Mi Tierra](https://open.spotify.com/album/2K2yvhTFeRBZdDboSQzFAJ) | 4:36 |
 | 31 | [Tú Me Dejaste De Querer](https://open.spotify.com/track/0XinBYhf1X3kdvKQHOX971) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Niño de Elche](https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP), [La Húngara](https://open.spotify.com/artist/7xtnpHS34mLlxGZDVUBHSU) | [Tú Me Dejaste De Querer](https://open.spotify.com/album/7lRNtV18ZVeTYY2w5RhVf2) | 3:18 |
 | 32 | [Stay With Me \- Live From Spotify Berlin](https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Spotify Sessions](https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU) | 2:54 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 | 45 | [Girls Just Wanna Have Fun \- Acoustic](https://open.spotify.com/track/7rohDMzsbmSmol7sIZs0Px) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Girls Just Wanna Have Fun](https://open.spotify.com/album/1WJCyViZxB0GWgvZicSxKY) | 2:52 |
 | 46 | [Mr\. Brightside](https://open.spotify.com/track/6Bcsu35LlV2YyUSa1X7Cpf) | [Run River North](https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk) | [Superstition](https://open.spotify.com/album/6cxIb7DQLAhGSZQXYsybPo) | 4:32 |
 | 47 | [Alguien Más](https://open.spotify.com/track/0xfmcMetmQwClfYRarKtyY) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Aire \(Versión Día\)](https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX) | 3:22 |
-| 48 | [Let It Be](https://open.spotify.com/track/0SL50BWlNr0RThIgL5swJK) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Let It Be](https://open.spotify.com/album/3ZPcwX7RlFXDY5DvbuBYhk) | 2:28 |
-| 49 | [One Call Away \- Acoustic](https://open.spotify.com/track/5DtTZfXWnMPzgSsl3GGN8u) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [One Call Away \(Acoustic + Remixes\)](https://open.spotify.com/album/5UMl7dsO7ZoMyH7rKUc53q) | 3:09 |
+| 48 | [One Call Away \- Acoustic](https://open.spotify.com/track/5DtTZfXWnMPzgSsl3GGN8u) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [One Call Away \(Acoustic + Remixes\)](https://open.spotify.com/album/5UMl7dsO7ZoMyH7rKUc53q) | 3:09 |
+| 49 | [Let It Be](https://open.spotify.com/track/0SL50BWlNr0RThIgL5swJK) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Let It Be](https://open.spotify.com/album/3ZPcwX7RlFXDY5DvbuBYhk) | 2:28 |
 | 50 | [Stand by Me \- Recorded at RAK Studios, London](https://open.spotify.com/track/4GhFz9YVbihQJlq5pFFPgD) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Spotify Singles](https://open.spotify.com/album/0VPhyqqDEary03vLt02DtZ) | 3:03 |
 | 51 | [Kiss Me \- AOL Sessions Acoustic Version](https://open.spotify.com/track/79z7dHVpP3ODaat0CK29db) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [AOL Sessions](https://open.spotify.com/album/0lgo7LuUdOfAchJC6KevkH) | 3:01 |
 | 52 | [Vivir Sin Aire](https://open.spotify.com/track/3qppK9r9CpNUcqAwn9bX6u) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Você É Minha Religião: O Melhor Do Maná \(Deluxe Version\)](https://open.spotify.com/album/0T6xjJtpq2ZFsGb8WVBPfO) | 4:51 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 | 71 | [Pronto](https://open.spotify.com/track/76v3J11Zq0HwkJqQLyw7sJ) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Pronto](https://open.spotify.com/album/3BYgxxZDSXIfoa6Z7pz2NZ) | 3:48 |
 | 72 | [Scars To Your Beautiful](https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [Scars To Your Beautiful](https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj) | 3:57 |
 | 73 | [Slide \- Acoustic Version](https://open.spotify.com/track/0QSpX88FigdeGYsrAQZj9C) | [Porcelain Heart](https://open.spotify.com/artist/5T2ff1LGUqwnUUt1J3Q9vg) | [Slide \(Acoustic Version\)](https://open.spotify.com/album/71psLPZdo5Y1yqdd5pQ37W) | 2:51 |
-| 74 | [Solo Mía](https://open.spotify.com/track/7bLfGfZ8FQ7uZ3iLJIQISf) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Solo Mía](https://open.spotify.com/album/6BLn7cwwQkJbvjWFxLNmzc) | 4:15 |
-| 75 | [Happy Now \- Acoustic](https://open.spotify.com/track/3aXsAIpsE1VR9FNvW0V4rU) | [Linn Brikell](https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu) | [Happy Now \(Acoustic Version\)](https://open.spotify.com/album/3NQLd4nYN0KfiZsU6M3xlm) | 3:33 |
+| 74 | [Happy Now \- Acoustic](https://open.spotify.com/track/3aXsAIpsE1VR9FNvW0V4rU) | [Linn Brikell](https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu) | [Happy Now \(Acoustic Version\)](https://open.spotify.com/album/3NQLd4nYN0KfiZsU6M3xlm) | 3:33 |
+| 75 | [Solo Mía](https://open.spotify.com/track/7bLfGfZ8FQ7uZ3iLJIQISf) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Solo Mía](https://open.spotify.com/album/6BLn7cwwQkJbvjWFxLNmzc) | 4:15 |
 | 76 | [Without Me](https://open.spotify.com/track/7zsC3MRs9FgcloMoctORr9) | [Postcards & Polaroids](https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw) | [Without Me](https://open.spotify.com/album/46TA2IQDWrJWKRrcGYgMim) | 2:10 |
 | 77 | [Amor Papaya en Invierno](https://open.spotify.com/track/4TZ0kv6Elbb4cTsoNXxBZJ) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Amor Papaya](https://open.spotify.com/album/4SedZWefA0qnDU6mnDiXI6) | 3:25 |
 | 78 | [Sonreír \- Versión Acústica](https://open.spotify.com/track/6bK1Dzmy41YKrGVitOejNu) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Sonreír \(Versión Acústica\)](https://open.spotify.com/album/2VCywjBXVt95NBSE2QsT80) | 3:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 | 99 | [Soñe](https://open.spotify.com/track/35tKDCAmNFueq5KmvGkzRr) | [Aline Terrein](https://open.spotify.com/artist/1KHhTDB0lBCXqm54Fseodx) | [Soñé](https://open.spotify.com/album/3zGPOSwv1krOcKkv8QgpBs) | 2:29 |
 | 100 | [corazones negros](https://open.spotify.com/track/1gsq8t6jMgffTisrwMUcbW) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [corazones negros](https://open.spotify.com/album/1YWFCiS1oYNYTdVSqWxNjG) | 2:49 |
 
-Snapshot ID: `MTY0ODQ4NjE5NSwwMDAwMDAwMDdiNzllM2FhMmNhMDljZjg0MWI1MGY3OGRhMzkwOWM3`
+Snapshot ID: `MTY0ODQ4NjE5NSwwMDAwMDAwMDEzN2U5OTk3YmU0OGM1MTM0YjI3YWEzYTc1N2U5MmUy`

@@ -1,12 +1,12 @@
 {
   "description": "pov: as bam bam bans voltaram more!! / BLACKPINK",
-  "num_followers": 226504,
+  "num_followers": 226637,
   "original_name": "pov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4MjgwMCwwMDAwMDAwMDQxODdkOGQ2NmYwYTZkZDFiYjU5N2ZlYTQzMjdhYzJk",
+  "snapshot_id": "MTY2MTQ4MjgwMCwwMDAwMDAwMGQzMmM4NjY1OGZjOWZjMDVkNDRhOTBkODU5ZTk3ODBk",
   "tracks": [
     {
       "added_at": "2022-08-26 03:00:00",
@@ -179,6 +179,22 @@
     {
       "added_at": "2022-08-26 03:00:00",
       "album": {
+        "name": "Tell Me It's Real (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt"
+      },
+      "artists": [
+        {
+          "name": "Seafret",
+          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
+        }
+      ],
+      "duration_ms": 229173,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE"
+    },
+    {
+      "added_at": "2022-08-26 03:00:00",
+      "album": {
         "name": "A Perfect Contradiction (Outsiders' Expanded Edition)",
         "url": "https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC"
       },
@@ -195,18 +211,18 @@
     {
       "added_at": "2022-08-26 03:00:00",
       "album": {
-        "name": "Tell Me It's Real (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt"
+        "name": "SNAP",
+        "url": "https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR"
       },
       "artists": [
         {
-          "name": "Seafret",
-          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
         }
       ],
-      "duration_ms": 229173,
-      "name": "Atlantis",
-      "url": "https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE"
+      "duration_ms": 179551,
+      "name": "SNAP",
+      "url": "https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc"
     },
     {
       "added_at": "2022-08-26 03:00:00",
@@ -239,22 +255,6 @@
       "duration_ms": 168601,
       "name": "abcdefu",
       "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
-    },
-    {
-      "added_at": "2022-08-26 03:00:00",
-      "album": {
-        "name": "SNAP",
-        "url": "https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR"
-      },
-      "artists": [
-        {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
-        }
-      ],
-      "duration_ms": 179551,
-      "name": "SNAP",
-      "url": "https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc"
     },
     {
       "added_at": "2022-08-26 03:00:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-08-26 03:00:00",
       "album": {
-        "name": "LALISA",
-        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 168227,
-      "name": "MONEY",
-      "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
-    },
-    {
-      "added_at": "2022-08-26 03:00:00",
-      "album": {
         "name": "BETWEEN 1&2",
         "url": "https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 177466,
       "name": "Talk that Talk",
       "url": "https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq"
+    },
+    {
+      "added_at": "2022-08-26 03:00:00",
+      "album": {
+        "name": "LALISA",
+        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 168227,
+      "name": "MONEY",
+      "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
     },
     {
       "added_at": "2022-08-26 03:00:00",

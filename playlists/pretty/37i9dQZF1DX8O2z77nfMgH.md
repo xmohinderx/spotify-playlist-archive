@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados\. En portada: Karol G y Maldy
 
-[Spotify](https://open.spotify.com/user/spotify) - 901,387 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 901,520 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 12 | [NINFÓMANA](https://open.spotify.com/track/2Ev7DNObnkSmZzZhANm8by) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Dalyan](https://open.spotify.com/artist/6sy43r2jZgkOnzjyN1RVqN) | [NINFÓMANA](https://open.spotify.com/album/07CeeN5CeDGK3WuJlgQS1U) | 3:40 |
 | 13 | [Arhbo \[Music from the FIFA World Cup Qatar 2022 Official Soundtrack\]](https://open.spotify.com/track/139nCjBRQCLgnWNRxBKAC7) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Arhbo \[Music from the FIFA World Cup Qatar 2022 Official Soundtrack\]](https://open.spotify.com/album/6rjTLZmOHDByOn63ZZomyY) | 3:39 |
 | 14 | [Pensandote](https://open.spotify.com/track/0km3c8Qiwi9kicTSTt9Ld1) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [El BAI](https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa) | [Pensandote](https://open.spotify.com/album/4DUR6SSSfdxqBbekrfKsDE) | 3:13 |
-| 15 | [Como Ñengo \(feat\. Kris Floyd\)](https://open.spotify.com/track/4xvYZWvfmL7FnWJHZhV1VS) | [Club Dieciséis](https://open.spotify.com/artist/3PVOsu4zHMse1c46pqTfnT), [Jota Rosa](https://open.spotify.com/artist/7gK06FGYa8dtJogKJXAG80), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [Como Ñengo \(feat\. Kris Floyd\)](https://open.spotify.com/album/1D0xvI1Mz6Wv0TpTa6UAhC) | 3:24 |
+| 15 | [Como Ñengo \(feat\. Jota Rosa\)](https://open.spotify.com/track/4xvYZWvfmL7FnWJHZhV1VS) | [Club Dieciséis](https://open.spotify.com/artist/3PVOsu4zHMse1c46pqTfnT), [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Jota Rosa](https://open.spotify.com/artist/7gK06FGYa8dtJogKJXAG80) | [Como Ñengo \(feat\. Jota Rosa\)](https://open.spotify.com/album/1D0xvI1Mz6Wv0TpTa6UAhC) | 3:24 |
 | 16 | [Kim N Kanye](https://open.spotify.com/track/5NJHee8EbpbMv6Mb8ZilZI) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Kim N Kanye](https://open.spotify.com/album/7gQ2aVBOespHG0nqvJGSwu) | 3:06 |
 | 17 | [Papá](https://open.spotify.com/track/6LqI79HurtSLxv8ulJohvG) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [No Teníamos Nada, Pero Éramos Felices](https://open.spotify.com/album/23c29N9eKBUKm7sljfJMgs) | 3:20 |
 | 18 | [2 Son 3](https://open.spotify.com/track/4kxj9KZS04HYOdJOgawFTT) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [2 Son 3](https://open.spotify.com/album/2cUzWOspLcV5jj7lBuO51G) | 2:45 |
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 50 | [ANSIEDÁ](https://open.spotify.com/track/1U9EdGWeTlw1qoaJ0GoMxH) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [ANSIEDÁ](https://open.spotify.com/album/5RugI8qVcl0Fu1Xr2A2fWv) | 2:36 |
 | 51 | [Quiero Pelarme](https://open.spotify.com/track/5THQOgMI2EIIWiCiRu6Ltj) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Sayian Jimmy](https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [Quiero Pelarme](https://open.spotify.com/album/0LyDaK9KIevDLBfXAvVdlU) | 2:26 |
 | 52 | [KIDZ \- Spotify Singles](https://open.spotify.com/track/2Fc0wy51lDMnxcEcli7UNK) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [KIDZ \- Spotify Singles](https://open.spotify.com/album/7BrgeOGDEUsE0QDk9m75Zv) | 3:24 |
-| 53 | [La Última Llamada](https://open.spotify.com/track/6uvNQEoUPJaHI10oVffAHO) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [La Última Llamada](https://open.spotify.com/album/2G0Z5q89Kp9NXX6a7y5F1t) | 3:14 |
+| 53 | [La Última Llamada](https://open.spotify.com/track/3xqO0HGtRgTkS9xzNEQxwb) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [La Última Llamada](https://open.spotify.com/album/5SFEcLOtKOTjlI1q72TbnL) | 3:14 |
 | 54 | [Loco](https://open.spotify.com/track/2PI1tFqXSeJQmgPniuWGda) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [Loco](https://open.spotify.com/album/55o4WYcOPxOlfw1mgVyGA0) | 2:30 |
 | 55 | [Cuando Baila](https://open.spotify.com/track/4gmJQGRZdncX5tJong0xLm) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Cuando Baila](https://open.spotify.com/album/0aVY56F9XWZwbxLQer40oB) | 2:36 |
 | 56 | [Detonación \- Remix](https://open.spotify.com/track/0rZwPrDw6xcWdGTSvsbLYA) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [Detonación \(Remix\)](https://open.spotify.com/album/5cFYndbz33WMXaEeE3JFGx) | 3:52 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 74 | [Insônia \- Ao vivo](https://open.spotify.com/track/4SGixaEhdRjeZ4PTgavkzF) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Insônia \(Ao vivo\)](https://open.spotify.com/album/1AbDFvSVfPK95Tpkb5d1F9) | 3:01 |
 | 75 | [Vixe \(Ao Vivo na Prainha da Claudinha\)](https://open.spotify.com/track/6QIsQQa0iOiHXsT507DsXk) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp), [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Prainha da Claudinha \(Ao Vivo\)](https://open.spotify.com/album/5L7cyBdm7XIXby9rdJk025) | 3:17 |
 
-Snapshot ID: `MTY2MTUzMTUxOSwwMDAwMDAwMDcxNjQ5ZDBkN2Y0NjBmMWYzZTEwZjA1Y2JlNzk1OWM3`
+Snapshot ID: `MTY2MTUzMTUxOSwwMDAwMDAwMDFkZmQ4NjMxYThhNjllNGI2YjEyODk0MWI5MDc1ZmI5`

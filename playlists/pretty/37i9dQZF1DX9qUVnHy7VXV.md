@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qUVnHy7VXV.md) - [plain]
 
 > Hit del passato e nuovi brani per la tua giornata perfetta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,576 likes - 65 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,612 likes - 65 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qUVnHy7VXV.md) - [plain]
 | 21 | [Best Day Of My Life](https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Oh, What A Life](https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv) | 3:14 |
 | 22 | [Bitter Sweet Symphony](https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 5:57 |
 | 23 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 |
-| 24 | [Walking On Sunshine](https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0) | [Katrina & The Waves](https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3) | [Katrina & The Waves](https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7) | 3:58 |
-| 25 | [Hey There Delilah](https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [All That We Needed](https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY) | 3:52 |
+| 24 | [Hey There Delilah](https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [All That We Needed](https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY) | 3:52 |
+| 25 | [Walking On Sunshine](https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0) | [Katrina & The Waves](https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3) | [Katrina & The Waves](https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7) | 3:58 |
 | 26 | [How to Save a Life](https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 4:22 |
 | 27 | [Little Talks](https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy) | 4:26 |
 | 28 | [IDGAF](https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Deluxe\)](https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9) | 3:37 |
@@ -57,21 +57,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qUVnHy7VXV.md) - [plain]
 | 47 | [Lemon Tree](https://open.spotify.com/track/4fXGWiVhlOLdhwRDP6pIFG) | [Fools Garden](https://open.spotify.com/artist/0jRqFvRKCDryHOgrgFqsKG) | [Dish Of The Day](https://open.spotify.com/album/1l2SxZKUm1UH45qUqpLfYH) | 3:11 |
 | 48 | [Nevermind](https://open.spotify.com/track/63SevszngYpZOwf63o61K4) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Nevermind](https://open.spotify.com/album/6c5gDwB7Xo58thk2vap4Ch) | 2:36 |
 | 49 | [Bleeding Love](https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5) | 4:22 |
-| 50 | [Ho Hey](https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW) | 2:43 |
-| 51 | [Stitches](https://open.spotify.com/track/5jsw9uXEGuKyJzs0boZ1bT) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ) | 3:26 |
+| 50 | [Stitches](https://open.spotify.com/track/5jsw9uXEGuKyJzs0boZ1bT) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ) | 3:26 |
+| 51 | [Ho Hey](https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW) | 2:43 |
 | 52 | [Pompeii](https://open.spotify.com/track/4Ub8UsjWuewQrPhuepfVpd) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:34 |
 | 53 | [Valerie \(feat\. Amy Winehouse\) \- Version Revisited](https://open.spotify.com/track/6kopmMZiyLmw7h66uXcXR7) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Version](https://open.spotify.com/album/15uqXXD0sAdZuxNxTxktlR) | 3:39 |
 | 54 | [Renegades](https://open.spotify.com/track/0fYVliAYKHuPmECRs1pbRf) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:15 |
 | 55 | [This Is The Life](https://open.spotify.com/track/2T3jgoAMbBXiMMD8pSc6QL) | [Amy Macdonald](https://open.spotify.com/artist/1hJuGCUpefX24GFmss9bjH) | [This Is The Life \(eDeluxe\)](https://open.spotify.com/album/5DaToG3KvHnUgTPqY4cEbq) | 3:04 |
 | 56 | [Torn](https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [Left Of The Middle](https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9) | 4:04 |
-| 57 | [Live While We're Young](https://open.spotify.com/track/6Vh03bkEfXqekWp7Y1UBRb) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Take Me Home \(Expanded Edition\)](https://open.spotify.com/album/2sWX3HYnZjPZ9MrH6MFsBt) | 3:20 |
-| 58 | [Wherever You Will Go](https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [Camino Palmero](https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV) | 3:28 |
+| 57 | [Wherever You Will Go](https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [Camino Palmero](https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV) | 3:28 |
+| 58 | [Live While We're Young](https://open.spotify.com/track/6Vh03bkEfXqekWp7Y1UBRb) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Take Me Home \(Expanded Edition\)](https://open.spotify.com/album/2sWX3HYnZjPZ9MrH6MFsBt) | 3:20 |
 | 59 | [We Are Young \(feat\. Janelle Monáe\)](https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Some Nights](https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo) | 4:10 |
-| 60 | [Stolen Dance](https://open.spotify.com/track/6vECYJHxYmm3Ydt3fF01pE) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Sadnecessary](https://open.spotify.com/album/5D20ZzsNB377xbshIFP9Nb) | 5:13 |
-| 61 | [Your Body Is a Wonderland](https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Room For Squares](https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48) | 4:09 |
+| 60 | [Your Body Is a Wonderland](https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Room For Squares](https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48) | 4:09 |
+| 61 | [Stolen Dance](https://open.spotify.com/track/6vECYJHxYmm3Ydt3fF01pE) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Sadnecessary](https://open.spotify.com/album/5D20ZzsNB377xbshIFP9Nb) | 5:13 |
 | 62 | [Thank You](https://open.spotify.com/track/3yUcJwYu7fXAfqMj9krY6l) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [No Angel](https://open.spotify.com/album/7ydMeYrv8bFFRkkHepoJM4) | 3:38 |
 | 63 | [Shake It Off](https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:39 |
 | 64 | [Magic](https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 4:45 |
 | 65 | [Love Song](https://open.spotify.com/track/4E6cwWJWZw2zWf7VFbH7wf) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 4:18 |
 
-Snapshot ID: `MTY1ODkxNDg2NiwwMDAwMDAwMDc1ZTkxYjhmOGEyYzJkZjU3NjgxOGY5YjAzMTM4MjBm`
+Snapshot ID: `MTY1ODkxNDg2NiwwMDAwMDAwMDcwNTM3ODM0ZmNiYTc2ZDdjN2E5MWUxZWU0Njc0ZDU3`

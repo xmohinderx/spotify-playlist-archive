@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 
 > you up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 668,942 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 671,140 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 | 59 | [Exchange](https://open.spotify.com/track/43PuMrRfbyyuz4QpZ3oAwN) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [T R A P S O U L](https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl) | 3:14 |
 | 60 | [Like I Want You](https://open.spotify.com/track/6qBFSepqLCuh5tehehc1bd) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 4:20 |
 | 61 | [Hrs & Hrs](https://open.spotify.com/track/3M5azWqeZbfoVkGXygatlb) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/2ngrG39dI2ofhCxjmFnKv5) | 3:24 |
-| 62 | [oui](https://open.spotify.com/track/0PJIbOdMs3bd5AT8liULMQ) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Late Nights: The Album](https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96) | 3:58 |
-| 63 | [Forever](https://open.spotify.com/track/6potEImiklXkwD9qFzpu15) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 3:22 |
-| 64 | [Trust](https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Lost](https://open.spotify.com/album/03nFfkhtHqQZZqprep3G6r) | 2:38 |
+| 62 | [Trust](https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Lost](https://open.spotify.com/album/03nFfkhtHqQZZqprep3G6r) | 2:38 |
+| 63 | [oui](https://open.spotify.com/track/0PJIbOdMs3bd5AT8liULMQ) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Late Nights: The Album](https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96) | 3:58 |
+| 64 | [Forever](https://open.spotify.com/track/6potEImiklXkwD9qFzpu15) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 3:22 |
 | 65 | [Thinkin Bout You](https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:20 |
 | 66 | [lost souls \(with Brent Faiyaz\)](https://open.spotify.com/track/02rdXe0KhMe8p6ZHzYtuw0) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [The Melodic Blue](https://open.spotify.com/album/7n23fjZTviIUnHyvZGQjni) | 4:29 |
 | 67 | [Kiss It Better](https://open.spotify.com/track/0UHB9METy4VCXNgkcGqHqS) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 4:13 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 | 79 | [Drama \(feat\. Drake\)](https://open.spotify.com/track/0PXp9QxBfSKGGpWUNaws2X) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Exis](https://open.spotify.com/album/2vnPwMLtMXZWGkKsoylsGt) | 4:11 |
 | 80 | [Sail](https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 4:19 |
 
-Snapshot ID: `MTY2MTQzNTcwMiwwMDAwMDAwMDlkNDYxNzQzZDJjM2QyYTNlNDFlMmRiZjg3NTU5Zjc1`
+Snapshot ID: `MTY2MTQzNTcwMiwwMDAwMDAwMDNhMzRmNzIxODNjMmJlMDcxZjU5YzliZjhiYTgxYzVi`

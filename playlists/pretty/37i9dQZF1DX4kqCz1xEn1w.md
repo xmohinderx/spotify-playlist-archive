@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 
 > Victory over death has been won today, forever!
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,862 likes - 100 songs - 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,923 likes - 100 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,13 +91,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 81 | [Behold Him](https://open.spotify.com/track/7E4dSIsKxMAGT6BuVlbFlw) | [Paul Baloche](https://open.spotify.com/artist/1jH3GuQCPI87UrS0hcScHr), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Behold Him](https://open.spotify.com/album/1lKIY0hKw9fU7EWfnGDOZy) | 4:41 |
 | 82 | [Afraid To Say \(feat\. Lauren Walters\)](https://open.spotify.com/track/3cDrWGsgXj6fZd33Iwp4Lh) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Lauren Walters](https://open.spotify.com/artist/7q4d6AQkUPNfmZzBhzfnNt) | [Freedom.](https://open.spotify.com/album/1VDEosYeESOUFnySf8mxDJ) | 4:22 |
 | 83 | [Alive In You \- Live](https://open.spotify.com/track/7IZj7C9LM2jj0ISnyve3Ox) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Let It Echo \(Live\)](https://open.spotify.com/album/6UUG6SxdjbHC8ALwmKS1HO) | 5:14 |
-| 84 | [The Cross Has The Final Word](https://open.spotify.com/track/6i4s9bd1Z9Hj3mTr6sK9Wq) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [The Darker The Night / The Brighter The Morning](https://open.spotify.com/album/5UjzIvJl8qRO65dQTMXrho) | 4:14 |
+| 84 | [In Your Eyes](https://open.spotify.com/track/141EdaMGKO3MQDianGTnss) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Love Letters From An Empty Tomb](https://open.spotify.com/album/1N8BcblNLY3GiYcmj0gQRw) | 4:44 |
 | 85 | [Faithful Now](https://open.spotify.com/track/1f4wycX7nuTGPow6UN1Ct6) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Faithful Now](https://open.spotify.com/album/17o5VCUDkU1hw7bQWeXaFF) | 3:52 |
-| 86 | [In Your Eyes](https://open.spotify.com/track/141EdaMGKO3MQDianGTnss) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Love Letters From An Empty Tomb](https://open.spotify.com/album/1N8BcblNLY3GiYcmj0gQRw) | 4:44 |
-| 87 | [Savior Of The World \- Single Version](https://open.spotify.com/track/6sHfoAsh78XOmGqUYDsRDP) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Savior Of The World](https://open.spotify.com/album/139bI83KG8DMPSVowCtYXO) | 4:44 |
-| 88 | [Jesus Only You](https://open.spotify.com/track/5Q8jVqmSihneKmuvQ5qnOF) | [London Gatch](https://open.spotify.com/artist/50l42yX9ACfwA0plxFO0Ah) | [New Stories](https://open.spotify.com/album/0tLz79s8kT9LGp5KFrBNhO) | 4:43 |
-| 89 | [God So Loved \- Live](https://open.spotify.com/track/0f0BtT5yPDxiAwlO9JqJ6s) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Royalty: Live At The Ryman](https://open.spotify.com/album/66hDxNOJJd54OLzt79Uvef) | 7:07 |
-| 90 | [I Speak Jesus](https://open.spotify.com/track/5Mspn0AMXu0P2yl0i0xy7h) | [KingsPorch](https://open.spotify.com/artist/1YBs9eFwD54sWgek5EVYTF) | [Songs for the Simple Gathering: Vol\. 1](https://open.spotify.com/album/4iPZUSoyHm8jOK2Uzm0bKl) | 5:09 |
+| 86 | [The Cross Has The Final Word](https://open.spotify.com/track/6i4s9bd1Z9Hj3mTr6sK9Wq) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [The Darker The Night / The Brighter The Morning](https://open.spotify.com/album/5UjzIvJl8qRO65dQTMXrho) | 4:14 |
+| 87 | [Jesus Only You](https://open.spotify.com/track/5Q8jVqmSihneKmuvQ5qnOF) | [London Gatch](https://open.spotify.com/artist/50l42yX9ACfwA0plxFO0Ah) | [New Stories](https://open.spotify.com/album/0tLz79s8kT9LGp5KFrBNhO) | 4:43 |
+| 88 | [Savior Of The World \- Single Version](https://open.spotify.com/track/6sHfoAsh78XOmGqUYDsRDP) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Savior Of The World](https://open.spotify.com/album/139bI83KG8DMPSVowCtYXO) | 4:44 |
+| 89 | [I Speak Jesus](https://open.spotify.com/track/5Mspn0AMXu0P2yl0i0xy7h) | [KingsPorch](https://open.spotify.com/artist/1YBs9eFwD54sWgek5EVYTF) | [Songs for the Simple Gathering: Vol\. 1](https://open.spotify.com/album/4iPZUSoyHm8jOK2Uzm0bKl) | 5:09 |
+| 90 | [God So Loved \- Live](https://open.spotify.com/track/0f0BtT5yPDxiAwlO9JqJ6s) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Royalty: Live At The Ryman](https://open.spotify.com/album/66hDxNOJJd54OLzt79Uvef) | 7:07 |
 | 91 | [The Cup Was Not Removed](https://open.spotify.com/track/3AmTJw3COTclLJePfmAkMc) | [Justin Tweito](https://open.spotify.com/artist/1M9vnVVffOjQGvJ3nSFVUR) | [The Cup Was Not Removed](https://open.spotify.com/album/7Ju8TGCc5suQkOzFZL8fpR) | 3:56 |
 | 92 | [Thank You](https://open.spotify.com/track/4nzSgYDePiYrLJbrxqE36p) | [Highlands Worship](https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In) | [Thank You](https://open.spotify.com/album/344FLgN07l7Ye9un6qWaNu) | 4:33 |
 | 93 | [Love Came Down \(If My Heart Is Overwhelmed\) \- Live](https://open.spotify.com/track/27Ao1nh2vh3y82VZ7Yd67R) | [Brian Johnson](https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9) | [Love Came Down \- Live Acoustic Worship In The Studio](https://open.spotify.com/album/7vG2Shcrvtlud8HsEopI3h) | 5:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 99 | [Who Could \(Live\)](https://open.spotify.com/track/5VcdC4ECqjaqJMRxlt7foA) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Faith And Wonder \(Live\)](https://open.spotify.com/album/4NKae9eE7Tk69T53x7mQHj) | 5:59 |
 | 100 | [This We Know \- Live](https://open.spotify.com/track/20SaQe37Z9TtOM8owHVNgX) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Frontiers](https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY) | 5:43 |
 
-Snapshot ID: `MTY1MDE3NTMxNSwwMDAwMDAwMDkyMWQyYzFhMTJiMzhlZDY5YTA3YmQ5OWVhOTVmMWU2`
+Snapshot ID: `MTY1MDE3NTMxNSwwMDAwMDAwMDAxYTUyNmZkM2M2NzJhNzIwNGFhZDZjMTI4ZjAxNDU1`

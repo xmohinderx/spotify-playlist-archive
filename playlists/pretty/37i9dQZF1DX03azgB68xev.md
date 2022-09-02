@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 
 > Your music\. Your faith\. Your life\. This is Pop for life!  Cover artist: The Young Escape
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,891 likes - 70 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,892 likes - 70 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 41 | [This World Is Not My Home](https://open.spotify.com/track/4jw2RRaFiovU5CmQBAwzFt) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Better King](https://open.spotify.com/album/4cVPPMx15HZ4HHpsB7Vcf8) | 2:42 |
 | 42 | [No Better Day](https://open.spotify.com/track/3yB5OgiAOt4Bi5MPWEIhtI) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Come Home](https://open.spotify.com/album/3uC1QQs3o0KFgsCGmCRzhH) | 3:02 |
 | 43 | [Phenomena \(DA DA\) \- Live](https://open.spotify.com/track/41K9LXYA0ou2SrJdAkzWue) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [Out Here On A Friday Where It Began \(Live\)](https://open.spotify.com/album/6WW9fXSiAv0wj5gn8XbFvy) | 2:42 |
-| 44 | [Faith \- Radio Version](https://open.spotify.com/track/7divHOOalhpuFAhXWo0XXa) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Jordan Feliz Collection](https://open.spotify.com/album/1iqhX2yqmOEyElJUcAiqep) | 3:46 |
+| 44 | [perfection](https://open.spotify.com/track/5TyYCoAhxi9Tm8vIG4wUwJ) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Better View, Part I \- EP](https://open.spotify.com/album/3Aj9bidByX8DqwLddzbbQb) | 3:33 |
 | 45 | [You Are](https://open.spotify.com/track/31FbRIjh7s2pf3As8SSM9F) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [I'm Here For You](https://open.spotify.com/album/4k3H2ZFyssNiUyF5v3vg9l) | 4:14 |
-| 46 | [perfection](https://open.spotify.com/track/5TyYCoAhxi9Tm8vIG4wUwJ) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Better View, Part I \- EP](https://open.spotify.com/album/3Aj9bidByX8DqwLddzbbQb) | 3:33 |
+| 46 | [Faith \- Radio Version](https://open.spotify.com/track/7divHOOalhpuFAhXWo0XXa) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Jordan Feliz Collection](https://open.spotify.com/album/1iqhX2yqmOEyElJUcAiqep) | 3:46 |
 | 47 | [Fight My Fight For Me](https://open.spotify.com/track/6hGSFl1H2bR0wANwxKG3mS) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4), [Trampolines](https://open.spotify.com/artist/6aldh6681sMUSZe2CETBh2) | [Fight My Fight For Me](https://open.spotify.com/album/42phU77ePK7NmZpxSNhHyB) | 2:41 |
 | 48 | [Just Like Heaven](https://open.spotify.com/track/79C3lXRjQvLCSPHeTfy52k) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Just Like Heaven](https://open.spotify.com/album/1ZQderlUe4quEPiuuZqADk) | 5:36 |
 | 49 | [For The Ones We Love \- Axel E Remix](https://open.spotify.com/track/7fGbnIBPPAB0YPhVIrKjFU) | [Jonas Myrin](https://open.spotify.com/artist/2NFO8MvrS1FOyjQZKwgra5), [Axel E](https://open.spotify.com/artist/1GHddwV8QFsOhnDlLlYANI) | [For The Ones We Love \(Remixes\) \- EP](https://open.spotify.com/album/1U6U8YAHvD6jsferEUQ5fl) | 3:31 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 69 | [Better View](https://open.spotify.com/track/173RgJWVkioV5Ngb8U6q90) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Better View](https://open.spotify.com/album/5fjwampEKoaXEv81pDDQQ5) | 2:48 |
 | 70 | [HAPPY](https://open.spotify.com/track/3ujkAJ4EMZzgMgM1RXqpCJ) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [EXIT](https://open.spotify.com/album/23hocB8tXBHfvImk7SNPnv) | 2:04 |
 
-Snapshot ID: `MTYzNTY0NTA2NSwwMDAwMDAwMDc5OGI1MDFiZDlmYzBhYmRiNzMyYzBmMTIxMDE1MzJl`
+Snapshot ID: `MTYzNTY0NTA2NSwwMDAwMDAwMGZhNWEyM2ZhNTBjYzk4ZWUwZjZiYzAzZjkxM2IwZGE3`

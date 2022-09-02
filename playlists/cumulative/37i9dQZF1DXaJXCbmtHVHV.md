@@ -2,7 +2,7 @@
 
 ### [Big Country](https://open.spotify.com/playlist/37i9dQZF1DXaJXCbmtHVHV)
 
-> Top country hits you know and love! Cover: Cole Swindell
+> Top country hits you know and love! Cover: Little Big Town
 
 146 songs - 7 hr 55 min - [published](https://open.spotify.com/playlist/78pqwl0BWOSiN7uMej6HJy)
 

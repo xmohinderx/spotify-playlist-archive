@@ -4,7 +4,7 @@
 
 > The early pioneers and current favorites in Southern Rock\.  Cover:  The Godfather...Charlie Daniels.
 
-124 songs - 9 hr 49 min - [published](https://open.spotify.com/playlist/32m0kp3VU59LLfn7Ms9ksX)
+125 songs - 9 hr 52 min - [published](https://open.spotify.com/playlist/32m0kp3VU59LLfn7Ms9ksX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Jessica \- Unedited Version](https://open.spotify.com/track/7kl337nuuTTVcXJiQqBgwJ) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Brothers And Sisters \(Deluxe Edition\)](https://open.spotify.com/album/1n9rbMLUmrXBBBJffS7pDj) | 7:31 | 2020-11-03 | 2022-07-29 |
 | [Jim Dandy](https://open.spotify.com/track/0JFEn4sPozptBShOuqMQVs) | [Black Oak Arkansas](https://open.spotify.com/artist/07xwCifj3iE7F6fYHin4TU) | [High On The Hog](https://open.spotify.com/album/0dDpccoB4BNvUKVTUJyFkC) | 2:41 | 2020-11-03 |  |
 | [Keep On Smilin'](https://open.spotify.com/track/6sHrxsewgTMPs2Di4x636C) | [Wet Willie](https://open.spotify.com/artist/6fzgnTv8gVkfFhA6V8Qdsh) | [Keep On Smilin'](https://open.spotify.com/album/1795bIZgqJOLkUh2d0JO60) | 3:57 | 2020-11-03 |  |
-| [Keep Your Hands to Yourself](https://open.spotify.com/track/4MgGdPmbySSVLUPBxzQ7mx) | [The Georgia Satellites](https://open.spotify.com/artist/2hnzQ6eCFkxUIPsVcsdj8A) | [Rhino Hi\-Five: The Georgia Satellites](https://open.spotify.com/album/2V1agf5NiLNSziJTRSTDcS) | 3:25 | 2020-11-03 |  |
+| [Keep Your Hands to Yourself](https://open.spotify.com/track/4MgGdPmbySSVLUPBxzQ7mx) | [The Georgia Satellites](https://open.spotify.com/artist/2hnzQ6eCFkxUIPsVcsdj8A) | [Rhino Hi\-Five: The Georgia Satellites](https://open.spotify.com/album/2V1agf5NiLNSziJTRSTDcS) | 3:25 | 2020-11-03 | 2022-09-02 |
+| [Keep Your Hands to Yourself](https://open.spotify.com/track/5tORtBzHUAnNrIw5Ql3kHZ) | [The Georgia Satellites](https://open.spotify.com/artist/2hnzQ6eCFkxUIPsVcsdj8A) | [Georgia Satellites](https://open.spotify.com/album/0obHqsEpkaCWGWGjxcdXel) | 3:25 | 2020-11-03 |  |
 | [Left Turn on a Red Light](https://open.spotify.com/track/16pGi1ZNrsPvx5TD8oFleb) | [Blackfoot](https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV) | [Strikes](https://open.spotify.com/album/2nI6tciaY3r6CQR8YkXaYM) | 4:37 | 2020-11-03 |  |
 | [Long Haired Country Boy](https://open.spotify.com/track/5pihM63Tj50g1XjLxq0iU8) | [The Charlie Daniels Band](https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca) | [A Decade Of Hits](https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc) | 4:00 | 2020-11-03 |  |
 | [Midnight Rider](https://open.spotify.com/track/1hHGUdFaiJHw9hVZGJWYO2) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Idlewild South \(Deluxe Edition Remastered\)](https://open.spotify.com/album/1K9yhJFW4FR8Rc1VURWA5T) | 3:00 | 2020-11-03 |  |

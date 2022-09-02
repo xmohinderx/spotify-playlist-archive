@@ -4,7 +4,7 @@
 
 > The sweet sounds of Tunisia.
 
-78 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/62mwpd1Oiz7ftZFyQ4kKDf)
+79 songs - 4 hr 54 min - [published](https://open.spotify.com/playlist/62mwpd1Oiz7ftZFyQ4kKDf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Hayala](https://open.spotify.com/track/59gRXEBW682Qg8DApGqPl3) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Hayala](https://open.spotify.com/album/2kZZ423qgs7VMwGjuwBdHL) | 3:36 | 2021-12-10 | 2022-07-12 |
 | [Hkeyetkom Wfet](https://open.spotify.com/track/7bzfVYSm6pU0gwuX20rFuY) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Hkeyetkom Wfet](https://open.spotify.com/album/1gbsicMYbNsGdEfV195AyI) | 3:23 | 2022-03-03 |  |
 | [Je m'endors mal luné](https://open.spotify.com/track/51ZzvOw40MCYh6DnvL57mL) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Demain ça ira](https://open.spotify.com/album/2NmDWH25YnnR7IkwRpT1KF) | 2:21 | 2021-12-10 |  |
+| [Kadhabin](https://open.spotify.com/track/03T7JF553K5pvxODKBsgVm) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Kadhabin](https://open.spotify.com/album/5JYLLub4A1GNowDyy0XdeL) | 4:40 | 2022-09-01 |  |
 | [Kafon GALBI](https://open.spotify.com/track/7HuPW3FTvf32teIRVdRGnt) | [Rap City](https://open.spotify.com/artist/2Bg8pjIGpTytyqqpkFZ9q0) | [Kafon GALBI](https://open.spotify.com/album/2C25uD29j9XKiApzQadZNu) | 4:20 | 2021-12-10 | 2022-07-29 |
 | [Khamsa Wekhmis](https://open.spotify.com/track/1WfIwSm6R98vRKPvFol0hN) | [Master Sina](https://open.spotify.com/artist/50YiAJFQLuv0Ncrl9zuhZq), [Artmasta](https://open.spotify.com/artist/5nIOjs6hpgOxasVYbKOAui), [Si Lemhaf](https://open.spotify.com/artist/3wOVvUvge4HJNiAgSMPNox), [Kemo](https://open.spotify.com/artist/4LUDVIU6K7ViaJHlFSpPCs) | [Khamsa Wekhmis](https://open.spotify.com/album/2u0bXhsQ5cZgPLpYORW0F2) | 4:05 | 2022-01-24 |  |
 | [KI NKHAMMEM FIK](https://open.spotify.com/track/1IfYpioyU828cGgXJK44Bi) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [KI NKHAMMEM FIK](https://open.spotify.com/album/3957FwIBCahzUaxaboTkLO) | 4:06 | 2022-07-11 |  |

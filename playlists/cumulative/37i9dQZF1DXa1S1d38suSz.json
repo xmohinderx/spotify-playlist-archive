@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "Amiga M\u00eda",
+        "url": "https://open.spotify.com/album/5BpGM2EOixRKmXjk9pGjIn"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212877,
+      "name": "Amiga M\u00eda",
+      "url": "https://open.spotify.com/track/2nDsjbGVU7aUGNuoAXCIlc"
+    },
+    {
+      "album": {
         "name": "Amor Prohibido",
         "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
       },
@@ -553,7 +571,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 332040,
       "name": "Experiencia Religiosa",
       "url": "https://open.spotify.com/track/0tgjnOlps2Hc798rOYGpvi"

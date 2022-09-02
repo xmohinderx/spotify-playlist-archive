@@ -4,7 +4,7 @@
 
 > Real Rap\. All Pressure\. Cover: Big Boss Vette
 
-161 songs - 6 hr 45 min - [published](https://open.spotify.com/playlist/5y5tRmbESUW4REpQryCCFI)
+162 songs - 6 hr 47 min - [published](https://open.spotify.com/playlist/5y5tRmbESUW4REpQryCCFI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Ms\. Lick Back](https://open.spotify.com/track/1A2e34Eb1mpgWTeV8sTVRy) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Toxic Chocolate](https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh) | 3:08 | 2022-03-18 | 2022-07-27 |
 | [Munch \(Feelin’ U\)](https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Munch \(Feelin’ U\)](https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv) | 1:44 | 2022-08-12 |  |
 | [NAME OF LOVE](https://open.spotify.com/track/7CEV6aC9ByhqKyNJTUnRAz) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [NAME OF LOVE](https://open.spotify.com/album/68ukCT096uuDJqB3Rg68Hf) | 1:46 | 2022-05-20 | 2022-07-24 |
+| [Name of Love](https://open.spotify.com/track/7xH1se2ywtEQM3g1XuKkIq) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Name of Love](https://open.spotify.com/album/0z9joggqG3K7ffVOvftTwI) | 1:46 | 2022-08-19 |  |
 | [New Day](https://open.spotify.com/track/4w5dESJ47Q36FBlN6ga9Aa) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Toxic Chocolate](https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh) | 2:34 | 2022-03-18 | 2022-07-28 |
 | [No Face](https://open.spotify.com/track/1jcBUsiQik3PxgtGG0tfnb) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [No Face](https://open.spotify.com/album/7xcVwFxP43b548OelDTjBv) | 3:09 | 2022-07-15 |  |
 | [NO Hook](https://open.spotify.com/track/4Cydne3gCWkPSW5zSTdJg6) | [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O) | [NO Hook](https://open.spotify.com/album/4ZtXp3cLqcYkv3DXG8MnBe) | 2:12 | 2021-11-05 | 2022-07-27 |
@@ -161,7 +162,7 @@
 | [Ungrateful \(feat\. Key Glock\)](https://open.spotify.com/track/6vA7RdHmU23h3ygUPPFXz5) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:34 | 2022-08-12 |  |
 | [Walk In](https://open.spotify.com/track/6NVp9jx6E5U3ueEfFxm9Bm) | [S3nsi Molly](https://open.spotify.com/artist/1BllYKfrGfZPGfUnL5MoSL) | [Walk In](https://open.spotify.com/album/7f2w303hV2NcEq5S7R34TB) | 1:36 | 2022-06-17 | 2022-07-28 |
 | [Want Sum](https://open.spotify.com/track/0sZVQUB6jYpTDAEKSbj4PE) | [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT) | [Want Sum](https://open.spotify.com/album/5se07VxKwmmum9LNtZdnZU) | 2:07 | 2021-11-05 | 2022-08-02 |
-| [Wat U Need](https://open.spotify.com/track/5K4zdrXD3WuDVBRsAIGCO9) | [E Chapo](https://open.spotify.com/artist/1B1yx0TYWWvufQuFoRqnL6) | [Wat U Need](https://open.spotify.com/album/0G3gjrxHd6QIbiSGxNBJ2h) | 2:01 | 2022-02-25 |  |
+| [Wat U Need](https://open.spotify.com/track/5K4zdrXD3WuDVBRsAIGCO9) | [E Chapo](https://open.spotify.com/artist/1B1yx0TYWWvufQuFoRqnL6) | [Wat U Need](https://open.spotify.com/album/0G3gjrxHd6QIbiSGxNBJ2h) | 2:01 | 2022-02-25 | 2022-09-02 |
 | [We Not Humping](https://open.spotify.com/track/0ypTgFheHb8nRVq4ygoQ3P) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [We Not Humping](https://open.spotify.com/album/5zdbJoOThfYjQhzDwpdF7B) | 2:24 | 2021-12-03 | 2022-03-18 |
 | [Weird 2 Me](https://open.spotify.com/track/6OMsBEvyWUh45xLPBMDqHU) | [Sally Sossa](https://open.spotify.com/artist/58q28H7IgX06YXkPvUtGgR) | [Weird 2 Me](https://open.spotify.com/album/0QZQFEKQX785N7Dr9XNa3D) | 2:06 | 2021-11-05 | 2022-02-02 |
 | [Westside Baby \(Gutta\)](https://open.spotify.com/track/3djbJUX2x2ZVqeoH22tOyN) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Westside Baby \(Gutta\)](https://open.spotify.com/album/4EmV4t1h2uMFlyIkk3qiz6) | 1:49 | 2022-07-01 | 2022-07-23 |

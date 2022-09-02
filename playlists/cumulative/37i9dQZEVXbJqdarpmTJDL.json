@@ -10856,6 +10856,24 @@
     },
     {
       "album": {
+        "name": "Miami 2",
+        "url": "https://open.spotify.com/album/0gZOF23WY1m7kL04p80hh2"
+      },
+      "artists": [
+        {
+          "name": "Bloody Hawk",
+          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236129,
+      "name": "Miami 2",
+      "url": "https://open.spotify.com/track/1uowh5aqRJzGT1KowsSUmC"
+    },
+    {
+      "album": {
         "name": "MIDDLE OF THE NIGHT",
         "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
       },
@@ -16477,7 +16495,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 265798,
       "name": "There\u2019d Better Be A Mirrorball",
       "url": "https://open.spotify.com/track/0yowbJnnbTLpr99f9l1uba"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0cc8YMQWsSzODyTpdVB6mI.md) - [plain]
 
 > The best NEW Music right now, curated by Kitsuné Musique and added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday.
 
-[Kitsuné Musique](https://open.spotify.com/user/maisonkitsune) - 43,135 likes - 50 songs - 2 hr 59 min
+[Kitsuné Musique](https://open.spotify.com/user/maisonkitsune) - 43,122 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/0cc8YMQWsSzODyTpdVB6mI.md) - [plain]
 | 49 | [Deezy Daisy \- Oxford Remix](https://open.spotify.com/track/5EHEEtGjuDstWdlPJk8aiY) | [Portland](https://open.spotify.com/artist/3t56cz9dhL53ioNIZFCDBo), [Oxford](https://open.spotify.com/artist/0RcOhppBdwj9IPV5ByDV8X) | [Kitsuné: Deezy Daisy \(Remixes\)](https://open.spotify.com/album/3xct0okCH1yFJPQ7Sc1iU2) | 4:27 |
 | 50 | [Nympho](https://open.spotify.com/track/7BShG8FX4glHiyOrh7dbET) | [DJ Assault](https://open.spotify.com/artist/3yoyUFgb11DMp1KrsJoQZU) | [Nympho](https://open.spotify.com/album/1IisYeFNyLYwdJdg0eW1V5) | 4:01 |
 
-Snapshot ID: `MjkyMixhYzU1NGNiNWQ1OTc0NmIzMDlkOTEzNzYzNmY3NGJmMGU1OGFmMmVi`
+Snapshot ID: `MjkyNCw0MmRiZDQwOTI1ZGU3YTU5NDViMTc2ODFhMjc4MjE5NzliNTk2YTE0`

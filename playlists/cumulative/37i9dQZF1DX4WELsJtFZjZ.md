@@ -4,7 +4,7 @@
 
 > Mellow songs from the 1980s.
 
-308 songs - 22 hr 45 min - [published](https://open.spotify.com/playlist/5LLxIJKkk3kduPHFGC4boP)
+309 songs - 22 hr 49 min - [published](https://open.spotify.com/playlist/5LLxIJKkk3kduPHFGC4boP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Invisible \- Remastered](https://open.spotify.com/track/2Ftc0DM4QMpO0ZQTlJvgkD) | [Alison Moyet](https://open.spotify.com/artist/0s0rOb0gT2S9N0SDcjtPC4) | [The Best Of...](https://open.spotify.com/album/7kwezyxShStyqj0PE8NvRw) | 3:59 | 2021-02-02 | 2022-07-29 |
 | [Is This Love \- 2007 Remastered Version](https://open.spotify.com/track/3k58VAgUkM9cSvRpjIVaC7) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [1987](https://open.spotify.com/album/0zjjzE52kZrlboU0smMbiN) | 4:35 | 2021-02-02 | 2022-07-29 |
 | [It Might Be You](https://open.spotify.com/track/78gcqDib1r5msGGckOTZR2) | [Stephen Bishop](https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN) | [Soft Rock Dinner Party](https://open.spotify.com/album/6qsvFiD2efdZVtRHLZHMpl) | 4:13 | 2021-02-02 | 2022-07-29 |
+| [It Might Be You \(Theme from Tootsie\)](https://open.spotify.com/track/3TRexXc7XRFVZA1WZPkOGY) | [Dave Grusin](https://open.spotify.com/artist/0SPkat5bgfP5wo2kbqZIwu) | [Tootsie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7CHXmIYw1PDxJR5795csK7) | 4:16 | 2022-05-25 |  |
 | [It's Only Love \- 2008 Remaster](https://open.spotify.com/track/0k7UryJJnIcGkdgnXIpE2K) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [The Greatest Hits](https://open.spotify.com/album/2c6noDMQYGkc2gMkg3F0gI) | 4:58 | 2022-01-10 | 2022-04-21 |
 | [Jealous Guy](https://open.spotify.com/track/6EMQo2suHaUYZVsbGVTxSZ) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [The Best Of Roxy Music](https://open.spotify.com/album/6yui99cp2Q3dosoHtiPJk7) | 4:57 | 2021-02-02 |  |
 | [Joanna \- Single Version](https://open.spotify.com/track/6edQfeOlqbGteYixpJl3Sm) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [The Very Best Of Kool & The Gang \(Reissue\)](https://open.spotify.com/album/1rDjSDjjzVfpnsb3GgREFf) | 3:59 | 2021-02-02 | 2022-07-14 |
@@ -300,7 +301,7 @@
 | [Who's Holding Donna Now?](https://open.spotify.com/track/66rdGSb6FMm0neFXxmJdPQ) | [DeBarge](https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV) | [Rhythm Of The Night](https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8) | 4:27 | 2022-01-10 |  |
 | [Wicked Game](https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Heart Shaped World](https://open.spotify.com/album/5Das42Qx4AoU9iT4M7PW3U) | 4:49 | 2022-05-25 |  |
 | [Wicked Game \- Remastered](https://open.spotify.com/track/5l91KHr9uF8wdSdtRoZba8) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Best Of Chris Isaak](https://open.spotify.com/album/4aS233D1sBxySxC1dKVtup) | 4:46 | 2021-02-02 | 2022-07-17 |
-| [Wild World](https://open.spotify.com/track/3vYrrMpsebx3OJ1H5E1lWQ) | [Maxi Priest](https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7), [John Gallen](https://open.spotify.com/artist/5aO4PS2vHHs4n14pMwmadH) | [Maxi](https://open.spotify.com/album/2RjgoKYACTWEtfsealo5E1) | 3:38 | 2022-01-10 |  |
+| [Wild World](https://open.spotify.com/track/3vYrrMpsebx3OJ1H5E1lWQ) | [Maxi Priest](https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7), [John Gallen](https://open.spotify.com/artist/5aO4PS2vHHs4n14pMwmadH) | [Maxi](https://open.spotify.com/album/2RjgoKYACTWEtfsealo5E1) | 3:38 | 2022-01-10 | 2022-09-02 |
 | [With Or Without You \- Remastered](https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 4:55 | 2021-02-02 |  |
 | [Woman \- Remastered 2010](https://open.spotify.com/track/0GGxVTb0UwDwdaKNjBdCn3) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Double Fantasy Stripped Down](https://open.spotify.com/album/15q7N7Wo307mfjqR29NpjF) | 3:32 | 2021-02-02 |  |
 | [Woman In Chains](https://open.spotify.com/track/5jmwL2MniQj9ldptIm1h1B) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU), [Oleta Adams](https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g) | [The Seeds Of Love](https://open.spotify.com/album/4oel5wcfKxpWxJuC4VbtuO) | 6:31 | 2022-05-25 |  |

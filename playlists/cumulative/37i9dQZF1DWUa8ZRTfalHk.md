@@ -4,7 +4,7 @@
 
 > The hits of tomorrow are on Spotify today\. Cover: Rema & Selena Gomez
 
-1,346 songs - 2 day 21 hr 41 min - [published](https://open.spotify.com/playlist/2VIVDwiqHp2XxfGz8TU0FX)
+1,347 songs - 2 day 21 hr 44 min - [published](https://open.spotify.com/playlist/2VIVDwiqHp2XxfGz8TU0FX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1352,7 +1352,8 @@
 | [Your Song Saved My Life \- From Sing 2](https://open.spotify.com/track/4fcbxnnfUycb7fJAInJOob) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Your Song Saved My Life \(From Sing 2\)](https://open.spotify.com/album/0lgSYiY3qT4Q9myulgxhAu) | 3:30 | 2021-11-06 | 2021-11-20 |
 | [Yours](https://open.spotify.com/track/7BpqydHSxMviDR0DNTne6J) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Yours](https://open.spotify.com/album/2i4vxgeB2Sn97KeBs2vYtO) | 3:24 | 2022-05-20 | 2022-07-02 |
 | [You’re Mines Still \(feat\. Drake\)](https://open.spotify.com/track/7E2C5rBLpCKwQlhJPVFBRS) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [You’re Mines Still \(feat\. Drake\)](https://open.spotify.com/album/7MQJy9di8JoLJOkG5mZAry) | 3:46 | 2021-01-29 | 2021-02-12 |
-| [YUKON \(INTERLUDE\)](https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi) | 2:21 | 2022-08-26 |  |
+| [YUKON \(INTERLUDE\)](https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi) | 2:21 | 2022-08-26 | 2022-09-02 |
+| [YUKON \(INTERLUDE\)](https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/0GxWXE6ltKk4Gx3WyWLLrW) | 2:21 | 2022-08-26 |  |
 | [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 | 2022-04-29 | 2022-06-25 |
 
 \*This playlist was first scraped on 2020-10-13. Prior content cannot be recovered.

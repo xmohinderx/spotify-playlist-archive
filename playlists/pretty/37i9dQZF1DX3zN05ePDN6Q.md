@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > Tem rap nacional e muito boom bap na área\. Foto: Dow Raiz, Lino Krizz
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,895 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,941 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 55 | [O Balanço Do Efeito Dunning\-Kruger](https://open.spotify.com/track/7j0dEbHnE35BaVC7y5RnlT) | [Parteum](https://open.spotify.com/artist/047rJvBYv0egT5SolmU7m4) | [O Balanço Do Efeito Dunning\-Kruger](https://open.spotify.com/album/1bBOQwVqfxleBP5K1c9DRb) | 3:25 |
 | 56 | [Corre](https://open.spotify.com/track/7iSF0kqPkq5xwGPzURo3NH) | [NP Vocal](https://open.spotify.com/artist/2mCaOwbPetRnHmVUwnCTMU), [4miga](https://open.spotify.com/artist/0aBgjLo1FJpxSiLiJGTJNq), [Sello Supply](https://open.spotify.com/artist/1ckv2S1JsgNcA6kls2zYEh) | [Corre](https://open.spotify.com/album/6zaT7Fan2DTDnnThuQZ9KX) | 3:27 |
 | 57 | [Guerra às Drogas](https://open.spotify.com/track/5wvqSBoa3ktRQEgMWyr1ow) | [Gigante No Mic](https://open.spotify.com/artist/5NjusDYM3H7nGyjgDOtLNX), [Dropallien](https://open.spotify.com/artist/59uO2uoCSPFwU4pZYhhqyD) | [Guerra às Drogas](https://open.spotify.com/album/5C6rUc0a2yELXPKV0N7Eyo) | 4:50 |
-| 58 | [SOLTO](https://open.spotify.com/track/5MjB4phpJsKhm8yCXdTIDN) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Hot](https://open.spotify.com/artist/2y9NHQDJMsOMIVY5dECoWe) | [O MENINO QUE QUERIA SER DEUS](https://open.spotify.com/album/04iHzaSGrOo5MgBY7R2PbX) | 3:39 |
+| 58 | [SOLTO](https://open.spotify.com/track/5MjB4phpJsKhm8yCXdTIDN) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Hot](https://open.spotify.com/artist/6UiNFle7UUqz6t9x8A6i0A) | [O MENINO QUE QUERIA SER DEUS](https://open.spotify.com/album/04iHzaSGrOo5MgBY7R2PbX) | 3:39 |
 | 59 | [Faça Dinheiro, Se Mantenha Vivo](https://open.spotify.com/track/6XGN9afKuLwmXEipg53yqz) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [KOPO](https://open.spotify.com/artist/3vSHkuSE00R9QBkm5SByaA) | [Faça Dinheiro, Se Mantenha Vivo](https://open.spotify.com/album/67FpK5RVgcIG9LexjpWHv4) | 2:18 |
 | 60 | [Briga de Casal \(Estilo Vagabundo 5\)](https://open.spotify.com/track/4ZZSTRy9eugd4v9falGoMs) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ), [Kmila Cdd](https://open.spotify.com/artist/5pTtdzoyljdOQnTLVULZvv) | [Briga de Casal \(Estilo Vagabundo 5\)](https://open.spotify.com/album/5e1VkQhetJMWxRb77LGPCj) | 3:10 |
 | 61 | [Eu & Minha Mina](https://open.spotify.com/track/4oYGUGfYicUWfuR5L0cmge) | [A.X.L.](https://open.spotify.com/artist/0do07emvR7qjROBp1jl7Yt) | [A Vida de Axel Alberigi Parte II](https://open.spotify.com/album/4DYGxuz0uCwpw03aNNXJ5e) | 3:15 |

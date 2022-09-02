@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 
 > Planta de la bugambilia que me cubres y me matas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,472 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,505 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 | 3 | [Algo contigo](https://open.spotify.com/track/3HMuJG1y7pyjg7Rrk17Rsb) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Elisabeth Roma](https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm) | [Imagina](https://open.spotify.com/album/4mWMKw1bTjskg9KXg7rFwc) | 4:57 |
 | 4 | [Hasta la Raíz](https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:41 |
 | 5 | [Me Gustas Tu](https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Próxima Estación: Esperanza](https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo) | 3:59 |
-| 6 | [Amapolas](https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Amapolas](https://open.spotify.com/album/7vFlsccgSanI5MxPbomwVY) | 3:25 |
-| 7 | [Chachachá](https://open.spotify.com/track/6aommJFM8i3iT4inKuDSXh) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Háblate de Mí](https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ) | 3:35 |
+| 6 | [Chachachá](https://open.spotify.com/track/6aommJFM8i3iT4inKuDSXh) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Háblate de Mí](https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ) | 3:35 |
+| 7 | [Amapolas](https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Amapolas](https://open.spotify.com/album/7vFlsccgSanI5MxPbomwVY) | 3:25 |
 | 8 | [Me Voy](https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:07 |
 | 9 | [Aunque no sea conmigo \(feat\. Café Tacvba\)](https://open.spotify.com/track/199gJ6b1aihvmEqdQZr0qT) | [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi), [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Barrio Bravo](https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD) | 3:33 |
 | 10 | [Noche Sensacional](https://open.spotify.com/track/6L2rOHvZAwPCp2FqYmyvZ5) | [Chabuco](https://open.spotify.com/artist/7iVnPo1i10De0UGQz5eDsl), [Dayhan Díaz](https://open.spotify.com/artist/3L2JdDvaqkXdtw0DTnxLSa) | [Noche Sensacional](https://open.spotify.com/album/7zWTzor9FhwJC513rjjMda) | 3:17 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 | 32 | [Piensa en mí](https://open.spotify.com/track/794LRMm5vapB2wM0pKzPuT) | [Luz Casal](https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El) | [A Contraluz](https://open.spotify.com/album/3YU2xPZsi4hq3psgarabmD) | 4:29 |
 | 33 | [Yo Me Llamo Cumbia](https://open.spotify.com/track/3rKrypBgAbjWzSN9ajvyXE) | [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [La Bodega](https://open.spotify.com/album/4ieAnbY3It51h8GGniqGKX) | 4:29 |
 | 34 | [Cuando Vuelva a Tu Lado](https://open.spotify.com/track/5j2tKp2lqR5a5V8ArWOEDe) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canta En Español Con Los Panchos](https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w) | 2:39 |
-| 35 | [¿Dónde estabas tú?](https://open.spotify.com/track/3mNKgwNiyOkGPWCo3jV1Ap) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Omara Portuondo \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/49I0jh6YTRjT56eqZvR0fs) | 3:43 |
-| 36 | [Quisiera](https://open.spotify.com/track/1DH0Cg447H2wioWGvW4S3z) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Suspiros](https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK) | 4:53 |
+| 35 | [Quisiera](https://open.spotify.com/track/1DH0Cg447H2wioWGvW4S3z) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Suspiros](https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK) | 4:53 |
+| 36 | [¿Dónde estabas tú?](https://open.spotify.com/track/3mNKgwNiyOkGPWCo3jV1Ap) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Omara Portuondo \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/49I0jh6YTRjT56eqZvR0fs) | 3:43 |
 | 37 | [Piel Canela](https://open.spotify.com/track/6giLMzQSzjxQ7T2kmRhlVb) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Piel Canela](https://open.spotify.com/album/4LZIwHEvfRBNmEyT9rBduh) | 3:32 |
 | 38 | [El Jardin](https://open.spotify.com/track/73eUiyq2OGr7JtOmgbyMxj) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [8 Años](https://open.spotify.com/album/3d1utyj80pLW7lVZa19pIP) | 3:20 |
 | 39 | [Al Norte](https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3) | 3:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 | 99 | [El Agua Y La Miel](https://open.spotify.com/track/7fg9KctFbJD1rFO4S5X5gP) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Lo Sagrado](https://open.spotify.com/album/3S4lvCHMkqUzXhqAWbrMEg) | 4:38 |
 | 100 | [Marchita](https://open.spotify.com/track/1aoO2IBaWNECVI5jSZVYg8) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/34e3bWZtXnZl19dJYOx6zE) | 3:46 |
 
-Snapshot ID: `MTY1MDQzMDgwMCwwMDAwMDAwMGI1NjA4M2I2NzYxMjM1NWQ4M2FiOGRkYzE3ZjI2NGZm`
+Snapshot ID: `MTY1MDQzMDgwMCwwMDAwMDAwMDBkYjZkMjllMWU4YjU5YmNlYmY2ZTRkYjg1Njc2YWNl`

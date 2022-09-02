@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: Miya Folick
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,237,371 likes - 185 songs - 10 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,236,504 likes - 185 songs - 10 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/track/2NbS9E0ZZKAMJAppj8P53N) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/album/2HQGXK9797uB6Ir8yd7Das) | 5:03 |
 | 2 | [Be Careful With Yourself](https://open.spotify.com/track/12j3RsAjTt9oGnZno4lq8k) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Be Careful With Yourself](https://open.spotify.com/album/5QBwF6Ep55I0QqklKvedFz) | 3:47 |
-| 3 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi) | 2:21 |
+| 3 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/0GxWXE6ltKk4Gx3WyWLLrW) | 2:21 |
 | 4 | [siente más](https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 4:00 |
 | 5 | [Bad Thing](https://open.spotify.com/track/4jqxfm3BEhHPJ4awPsQ3Sl) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Bad Thing](https://open.spotify.com/album/6F6vM7ahopH2JAXsai22BI) | 3:22 |
 | 6 | [Seasons Change](https://open.spotify.com/track/36ZL5lijTM6ohAOr2i5lnv) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Seasons Change](https://open.spotify.com/album/7nIw5wLwAftZ93OMrADwJK) | 2:29 |
@@ -194,4 +194,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 184 | [Sunny day](https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:40 |
 | 185 | [Give You the World](https://open.spotify.com/track/0J119Oas2ox6JTTHUGZxHN) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 4:33 |
 
-Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMDk3NGZmYzc4NDk1ZjU2Y2NiNTljZWY3MWE0Y2UyZDQy`
+Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMDQ3OGJkMDBjZjAzOTIzN2YxYTZiOTI1NTQ0ZDg5Y2Jl`

@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: DJ Khaled",
-  "num_followers": 398,
+  "num_followers": 412,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUwNjMzNCwwMDAwMDAwMDUxNTE1OGE4YTAyZDExMDgxYTRkMGIzYTQwNjFmOWJk",
+  "snapshot_id": "MTY2MjA3MzIwMCwwMDAwMDAwMDg0ODVjMGJmMTkyNTRhNTQxM2Y2MDZiZjliMTE2OTM3",
   "tracks": [
     {
       "added_at": "2022-08-18 23:00:00",
@@ -797,24 +797,28 @@
       "url": "https://open.spotify.com/track/2KdKh9vHbKW0tZLqtpxxI0"
     },
     {
-      "added_at": "2022-07-27 12:30:07",
+      "added_at": "2022-08-26 09:32:14",
       "album": {
-        "name": "Paris to Tokyo",
-        "url": "https://open.spotify.com/album/5BXl6r5L4zXQufLQjgkU6U"
+        "name": "GOD DID",
+        "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
       },
       "artists": [
         {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
         },
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 130897,
-      "name": "Paris to Tokyo",
-      "url": "https://open.spotify.com/track/5QvW5lK6mkfTegpAK9JOO7"
+      "duration_ms": 223232,
+      "name": "BEAUTIFUL (feat. Future & SZA)",
+      "url": "https://open.spotify.com/track/5kYSScXYOZYyi0fxramiW6"
     },
     {
       "added_at": "2022-07-27 12:30:07",
@@ -853,28 +857,24 @@
       "url": "https://open.spotify.com/track/1vE1nV0Q3t9gcw6ZlZ0yJT"
     },
     {
-      "added_at": "2022-08-26 09:32:14",
+      "added_at": "2022-07-27 12:30:07",
       "album": {
-        "name": "GOD DID",
-        "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
+        "name": "Paris to Tokyo",
+        "url": "https://open.spotify.com/album/5BXl6r5L4zXQufLQjgkU6U"
       },
       "artists": [
         {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
         },
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 223232,
-      "name": "BEAUTIFUL (feat. Future & SZA)",
-      "url": "https://open.spotify.com/track/5kYSScXYOZYyi0fxramiW6"
+      "duration_ms": 130897,
+      "name": "Paris to Tokyo",
+      "url": "https://open.spotify.com/track/5QvW5lK6mkfTegpAK9JOO7"
     },
     {
       "added_at": "2022-07-27 12:30:07",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-07-27 12:30:07",
       "album": {
-        "name": "Plan B",
-        "url": "https://open.spotify.com/album/7f9fxAFDIRaflD7W0k7Dhx"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 163764,
-      "name": "Plan B",
-      "url": "https://open.spotify.com/track/2PljnVsnl2PRwCvfhbdQup"
-    },
-    {
-      "added_at": "2022-07-27 12:30:07",
-      "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6ViO9Wx6dWzeUq6DmGTaHl"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 172933,
       "name": "PUFFIN ON ZOOTIEZ",
       "url": "https://open.spotify.com/track/5qgFgsrrxOjyPmX5YCuK2E"
+    },
+    {
+      "added_at": "2022-07-27 12:30:07",
+      "album": {
+        "name": "Plan B",
+        "url": "https://open.spotify.com/album/7f9fxAFDIRaflD7W0k7Dhx"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 163764,
+      "name": "Plan B",
+      "url": "https://open.spotify.com/track/2PljnVsnl2PRwCvfhbdQup"
     },
     {
       "added_at": "2022-07-27 12:30:07",
@@ -1045,24 +1045,20 @@
       "url": "https://open.spotify.com/track/203uVLn0YRikqOgI4axq8n"
     },
     {
-      "added_at": "2022-08-12 05:17:10",
+      "added_at": "2022-08-18 23:00:00",
       "album": {
-        "name": "Traumazine",
-        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
+        "name": "54321",
+        "url": "https://open.spotify.com/album/5vW8LuMydrkQQqkQlw5Won"
       },
       "artists": [
         {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         }
       ],
-      "duration_ms": 201979,
-      "name": "Budget (feat. Latto)",
-      "url": "https://open.spotify.com/track/3BFxkzhkESwALQxjxOVFgJ"
+      "duration_ms": 182325,
+      "name": "54321",
+      "url": "https://open.spotify.com/track/0iPb0dxCtjFcmFa2ElfBJ5"
     },
     {
       "added_at": "2022-07-27 12:30:07",
@@ -1113,20 +1109,44 @@
       "url": "https://open.spotify.com/track/7rK0iM6jwuo1oizdx8suQA"
     },
     {
-      "added_at": "2022-08-18 23:00:00",
+      "added_at": "2022-08-26 09:32:14",
       "album": {
-        "name": "54321",
-        "url": "https://open.spotify.com/album/5vW8LuMydrkQQqkQlw5Won"
+        "name": "GOD DID",
+        "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
       },
       "artists": [
         {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 182325,
-      "name": "54321",
-      "url": "https://open.spotify.com/track/0iPb0dxCtjFcmFa2ElfBJ5"
+      "duration_ms": 47354,
+      "name": "NO SECRET (feat. Drake)",
+      "url": "https://open.spotify.com/track/1Gb6r4iX8w60t6OFTvWI4K"
+    },
+    {
+      "added_at": "2022-08-12 05:17:10",
+      "album": {
+        "name": "Traumazine",
+        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 201979,
+      "name": "Budget (feat. Latto)",
+      "url": "https://open.spotify.com/track/3BFxkzhkESwALQxjxOVFgJ"
     },
     {
       "added_at": "2022-07-27 12:30:07",
@@ -1147,26 +1167,6 @@
       "duration_ms": 222154,
       "name": "Overseas",
       "url": "https://open.spotify.com/track/337kcYVjYXdLBItCw9ry3b"
-    },
-    {
-      "added_at": "2022-08-26 09:32:14",
-      "album": {
-        "name": "GOD DID",
-        "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
-      },
-      "artists": [
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 47354,
-      "name": "NO SECRET (feat. Drake)",
-      "url": "https://open.spotify.com/track/1Gb6r4iX8w60t6OFTvWI4K"
     }
   ],
   "unique_name": "Hype List",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 
 > Blissful indie for dreamers.
 
-[Spotify](https://open.spotify.com/user/spotify) - ??? likes - 80 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,337 likes - 80 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 37 | [Heavy Days](https://open.spotify.com/track/6Nr8U7LKb4B07ZTbXA1RbX) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [Heavy Days](https://open.spotify.com/album/6qkZLHCIMcG8dFSWLTnteo) | 3:47 |
 | 38 | [Valentine](https://open.spotify.com/track/28xKoto01psP4QaoISW5HY) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Valentine](https://open.spotify.com/album/7McuqEFa5qOZZpGesSnRvg) | 3:22 |
 | 39 | [Lights On](https://open.spotify.com/track/5pT185xOuSJkpUCsEQFi3n) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Giving The World Away](https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw) | 3:56 |
-| 40 | [Therapy](https://open.spotify.com/track/3rsJVGczbI4PRb9YdyoZms) | [noelle](https://open.spotify.com/artist/0UBB7UD8Lvt7UesGnXDRpy) | [Therapy](https://open.spotify.com/album/0uQ3hIVUT5NTkNGPokDlDw) | 3:25 |
-| 41 | [Songs](https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Songs](https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs) | 15:50 |
-| 42 | [How Can I Love? \(When I Can't Get Away From You\)](https://open.spotify.com/track/4g0ElvVfW24EHPdfWo2I8w) | [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX), [Bambie](https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv) | [How Can I Love? \(When I Can't Get Away From You\)](https://open.spotify.com/album/6ya53tyYpsLogdzeCJdTsL) | 2:59 |
+| 40 | [How Can I Love? \(When I Can't Get Away From You\)](https://open.spotify.com/track/4g0ElvVfW24EHPdfWo2I8w) | [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX), [Bambie](https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv) | [How Can I Love? \(When I Can't Get Away From You\)](https://open.spotify.com/album/6ya53tyYpsLogdzeCJdTsL) | 2:59 |
+| 41 | [Therapy](https://open.spotify.com/track/3rsJVGczbI4PRb9YdyoZms) | [noelle](https://open.spotify.com/artist/0UBB7UD8Lvt7UesGnXDRpy) | [Therapy](https://open.spotify.com/album/0uQ3hIVUT5NTkNGPokDlDw) | 3:25 |
+| 42 | [Songs](https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Songs](https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs) | 15:50 |
 | 43 | [Space Between Us](https://open.spotify.com/track/0RuQddbj6LGbMq1CzzPgGj) | [VHS Collection](https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH) | [Space Between Us](https://open.spotify.com/album/6ZoG8UIgbpue4NGJ3x9VS8) | 3:59 |
 | 44 | [Patience Etc..\. \(George Clanton Remix\)](https://open.spotify.com/track/35UpVtlZ5nbxH2nw0of9ST) | [Caroline Loveglow](https://open.spotify.com/artist/3j0n7TWGvwhPBMBWPbuasr), [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr) | [Patience Etc..\. \(George Clanton Remix\)](https://open.spotify.com/album/47vZuuUWplGpIYvBZGUj4s) | 4:18 |
 | 45 | [Opportunity](https://open.spotify.com/track/2oxQ52yhbatXclzYyH75c7) | [Kevin Krauter](https://open.spotify.com/artist/66N2tY3w6pwH2otV7Yj1AI) | [Full Hand](https://open.spotify.com/album/7ufXylXlduqkezq4Yu5XcK) | 3:33 |
@@ -72,21 +72,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 62 | [Now It's Gone](https://open.spotify.com/track/55RPfUUmsyU2Yjx8k4qzp9) | [Maria BC](https://open.spotify.com/artist/1GRdVyqsikMsJrvHskjwry) | [Now It's Gone](https://open.spotify.com/album/2bH4nIurTWpCkA9vYUwBRr) | 4:05 |
 | 63 | [never had a place](https://open.spotify.com/track/1FMRyPDszjHQ3p3UfkX3vL) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F) | [never had a place](https://open.spotify.com/album/7r1I04mtKaXE6UwZSH23DX) | 2:53 |
 | 64 | [No More Kissing In The Rain](https://open.spotify.com/track/6euR55gwJ65nxIPeXLPPwo) | [trentemøller](https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS), [Lisbet Fritze](https://open.spotify.com/artist/6ImgDd6PSpdu3uOGoTaGod) | [Memoria](https://open.spotify.com/album/7w5COkBSsfMksBbXnDVog2) | 4:19 |
-| 65 | [James](https://open.spotify.com/track/5Cd4brIkLNzLJJUxugJA1X) | [Oscar and the Wolf](https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV) | [James](https://open.spotify.com/album/6JM7AstjOZRklwDS9LbEz1) | 4:29 |
-| 66 | [Drown](https://open.spotify.com/track/7EUcNIHj2eWmpGNJF5u0Vh) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Waves](https://open.spotify.com/album/3fsuoXmdJU3QLMNVucfQNE) | 3:10 |
+| 65 | [Drown](https://open.spotify.com/track/7EUcNIHj2eWmpGNJF5u0Vh) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Waves](https://open.spotify.com/album/3fsuoXmdJU3QLMNVucfQNE) | 3:10 |
+| 66 | [James](https://open.spotify.com/track/5Cd4brIkLNzLJJUxugJA1X) | [Oscar and the Wolf](https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV) | [James](https://open.spotify.com/album/6JM7AstjOZRklwDS9LbEz1) | 4:29 |
 | 67 | [De ma Tour](https://open.spotify.com/track/5mXgCx5JKyqsIapstWQ94b) | [Reymour](https://open.spotify.com/artist/6mlzYzLXQ7gQrMg3DydrAi) | [Leviosa](https://open.spotify.com/album/4dZlnblHaQxVDbUKkdVuL3) | 3:16 |
 | 68 | [Heaven](https://open.spotify.com/track/1gczbgaCmw15h3ZG4awluK) | [Brothertiger](https://open.spotify.com/artist/2MaMzvFmtu68r9zpdJ4tLE) | [Heaven](https://open.spotify.com/album/12ehvPg4PDufuo4FhfAWgr) | 4:50 |
-| 69 | [Loverboy](https://open.spotify.com/track/3iDJgLUiMqMdk1UOLG4VWf) | [RALPH TV](https://open.spotify.com/artist/4ClXiGv8w47iekyGEmtAyy), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [Cabin Fever Dreams](https://open.spotify.com/album/7yc9we9YwgeuOBlyclDxMn) | 3:26 |
+| 69 | [Jennifer](https://open.spotify.com/track/2ngc5mFakdLVt3xFcNHqQW) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Morningside](https://open.spotify.com/album/21Ld2tSHSxYFkj7QHTHFQB) | 4:00 |
 | 70 | [Gloomy Girl](https://open.spotify.com/track/62Zgaht9Dx6HReIOamFMdN) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gloomy Girl](https://open.spotify.com/album/4TzEXyEPMZZPXbjPPIdRWR) | 3:06 |
-| 71 | [Jennifer](https://open.spotify.com/track/2ngc5mFakdLVt3xFcNHqQW) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Morningside](https://open.spotify.com/album/21Ld2tSHSxYFkj7QHTHFQB) | 4:00 |
+| 71 | [Loverboy](https://open.spotify.com/track/3iDJgLUiMqMdk1UOLG4VWf) | [RALPH TV](https://open.spotify.com/artist/4ClXiGv8w47iekyGEmtAyy), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [Cabin Fever Dreams](https://open.spotify.com/album/7yc9we9YwgeuOBlyclDxMn) | 3:26 |
 | 72 | [Ohio Blue Tips](https://open.spotify.com/track/3cKzdHoTN1g39ktjm3twCF) | [Terry vs\. Tori](https://open.spotify.com/artist/1UAyQNs2HANU7mGGqtXzJv) | [Heathers](https://open.spotify.com/album/219YBWjZumk7SNvu9Rk86K) | 3:14 |
 | 73 | [Back Into Your Arms](https://open.spotify.com/track/0RXXhrHZgLinM2Tb8k2ROk) | [RINSE](https://open.spotify.com/artist/2hNslbfAAcYQ8TyejfmIz0), [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Back Into Your Arms](https://open.spotify.com/album/7e9ZaDSUcIgDPM1qm2zlsO) | 4:23 |
 | 74 | [Lean Into Life](https://open.spotify.com/track/5eWH1AYlLn8UV2E1PthAhk) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [Lean Into Life](https://open.spotify.com/album/4s4PfhSuN6uuMxpNYt2Zhw) | 5:27 |
 | 75 | [The Dark](https://open.spotify.com/track/707Ftz4B7hIPpnSkGdaDmt) | [VHS Collection](https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH) | [The Dark](https://open.spotify.com/album/1SUID15f2h7shEdz1eSRkv) | 3:55 |
-| 76 | [So Humble the Afternoon](https://open.spotify.com/track/1dl1I6nRr3lFuFxP7gHtcx) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [So Humble The Afternoon](https://open.spotify.com/album/13PrcaJFJLNw6jGg25zekp) | 5:22 |
-| 77 | [Digital Parallax](https://open.spotify.com/track/50G0Mc9N7C93qohJgraZbI) | [Michl](https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN) | [Digital Parallax](https://open.spotify.com/album/1NavqWb4CWBpAkrEv99AFM) | 3:08 |
-| 78 | [Seems Like Forever](https://open.spotify.com/track/3eIcEbicqr3ikj05Gkmziv) | [Scarlet Rae](https://open.spotify.com/artist/06v4QDLJOrIz62gsU9lN3K) | [Seems Like Forever](https://open.spotify.com/album/01rddRm7oUQ3GqOG9mkEO8) | 5:18 |
+| 76 | [Seems Like Forever](https://open.spotify.com/track/3eIcEbicqr3ikj05Gkmziv) | [Scarlet Rae](https://open.spotify.com/artist/06v4QDLJOrIz62gsU9lN3K) | [Seems Like Forever](https://open.spotify.com/album/01rddRm7oUQ3GqOG9mkEO8) | 5:18 |
+| 77 | [So Humble the Afternoon](https://open.spotify.com/track/1dl1I6nRr3lFuFxP7gHtcx) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [So Humble The Afternoon](https://open.spotify.com/album/13PrcaJFJLNw6jGg25zekp) | 5:22 |
+| 78 | [Digital Parallax](https://open.spotify.com/track/50G0Mc9N7C93qohJgraZbI) | [Michl](https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN) | [Digital Parallax](https://open.spotify.com/album/1NavqWb4CWBpAkrEv99AFM) | 3:08 |
 | 79 | [House Of Mirrors](https://open.spotify.com/track/3zFqzq75hxehVM6DkCSORU) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [House Of Mirrors](https://open.spotify.com/album/075wMeSFPWCvDVNKzRPOlC) | 3:11 |
 | 80 | [Hyper\-normal](https://open.spotify.com/track/137bcY3t0tco8OqzumsF4z) | [GRAZER](https://open.spotify.com/artist/66npZ0iLHcWmV2DAC8oYRF) | [Hyper\-normal](https://open.spotify.com/album/3mQjXEpNYf3kXHXhRQt9YG) | 3:15 |
 
-Snapshot ID: `MTY1NzEyMDcxNCwwMDAwMDAwMDIxODEwNDY0M2YyYzZmODYzNjIzNGZiMjExYzNiYjFk`
+Snapshot ID: `MTY1NzEyMDcxNCwwMDAwMDAwMDBhMzhmYmYzY2IxZThlNDU0YTc2NmFiYzFmMzY1ZjA1`

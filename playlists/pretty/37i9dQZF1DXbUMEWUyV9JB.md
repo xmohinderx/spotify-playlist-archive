@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 
 > ¡Muévete al ritmo de esta cumbia! Cover: Los Ángeles Azules, Carlos Vives.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,599 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,640 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 | 44 | [Las Mujers No Se Acaban](https://open.spotify.com/track/0NLSsL8sIElmNuTySSb3s6) | [Grupo Kual? Dinastia Pedraza Es Grupo Kein?](https://open.spotify.com/artist/3mtUQL8wfuXoI3bcciosLd), [Grupo Kien? Los Reyes Del Sabor](https://open.spotify.com/artist/5bK0A1q7E0UgBFrXZtedtU) | [Para Que La Cuña Apriete](https://open.spotify.com/album/643Req8SJXX188L5fuuVD2) | 4:30 |
 | 45 | [Fuego](https://open.spotify.com/track/7I2k8PcOLEZwx8OlTc10m9) | [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU), [Kumbia Kings](https://open.spotify.com/artist/3jO5UGHrEzfd5YIamfs7Ir) | [Fuego](https://open.spotify.com/album/1CJEE36qrJYAUXVJuVQ7ne) | 3:39 |
 | 46 | [El Piropo \- Versión Sonidera](https://open.spotify.com/track/1rjRdZ3OptBUnvL0ImiltE) | [Pepe Gomez Jr\. y su Grupo Union 82](https://open.spotify.com/artist/3aiiZsdJHqXrPkYOBQI0Uo) | [Vaya Que Sabor!!](https://open.spotify.com/album/5ekGtbNe6EW4omlCEKZBSL) | 3:51 |
-| 47 | [Mira oye](https://open.spotify.com/track/4l3SD9S0EOaBAPejqNti6E) | [Los Tigrillos](https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf) | [Cumbias con Garra Vol\. IV \*](https://open.spotify.com/album/6sCg6I963xNmg9qo8xbwqp) | 3:22 |
-| 48 | [Mariana](https://open.spotify.com/track/4xFjlFkQ4zrPKGhCwe6vNW) | [Grupo Fragancia](https://open.spotify.com/artist/0rWMayP5qWv4dno1JFiwtj) | [Los Mejores Hits del Ano](https://open.spotify.com/album/60kUtdHaTgEfTFESmWUlcV) | 3:17 |
+| 47 | [Mariana](https://open.spotify.com/track/4xFjlFkQ4zrPKGhCwe6vNW) | [Grupo Fragancia](https://open.spotify.com/artist/0rWMayP5qWv4dno1JFiwtj) | [Los Mejores Hits del Ano](https://open.spotify.com/album/60kUtdHaTgEfTFESmWUlcV) | 3:17 |
+| 48 | [Mira oye](https://open.spotify.com/track/4l3SD9S0EOaBAPejqNti6E) | [Los Tigrillos](https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf) | [Cumbias con Garra Vol\. IV \*](https://open.spotify.com/album/6sCg6I963xNmg9qo8xbwqp) | 3:22 |
 | 49 | [Cumbia Sampuesana](https://open.spotify.com/track/4AwgFDiynuu52p5xtpRlNG) | [La Luz Roja De San Marcos](https://open.spotify.com/artist/5YeFdMPC50VCSc91uYLOGb) | [Los Exitos Mas Calientes](https://open.spotify.com/album/0CFZMKonWgHqhJ1jFipGDt) | 3:53 |
 | 50 | [Ángel Malvado](https://open.spotify.com/track/3VHLSQsQXQWnEMQwrM5R8p) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Oye Mujer](https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1) | 5:05 |
 | 51 | [Destilando Amor](https://open.spotify.com/track/4aeteklsGBPXRfZPKN4NS5) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ), [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Piel A Piel](https://open.spotify.com/album/0wY4TCOxdgOSvWimtb3iRA) | 3:39 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 | 64 | [Mami \(Angel De Paz\)](https://open.spotify.com/track/6Ty47iTpofWm0kytiMddq9) | [Andikiru](https://open.spotify.com/artist/7lVcmAxMvrV6ALiIKnNp8o) | [Sueño Contigo](https://open.spotify.com/album/6g6KhEpDtyvSFyoUXk9g2O) | 3:31 |
 | 65 | [Mil Horas \(with Sasha, Benny y Erik\)](https://open.spotify.com/track/3dy3Bwz5w5eenJz1R5KWo6) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Sasha, Benny y Erik](https://open.spotify.com/artist/03FiyT61gVIy08oxFm6xZC) | [La Sonora Santanera en Su 60 Aniversario](https://open.spotify.com/album/3xgFRfjD0wkntTxiSa7c8U) | 4:03 |
 | 66 | [Te Buscare](https://open.spotify.com/track/67LdkJPn9mPKkJ3FFI3eDO) | [Combo Loco](https://open.spotify.com/artist/0lpNzQucMihkB7jQrIzMap) | [Te Buscare](https://open.spotify.com/album/6HvHWmAdXDRO75JzuX5jhd) | 3:54 |
-| 67 | [La Cumbia de los Monjes](https://open.spotify.com/track/03ITeFvMvTRpTC92WsQWw5) | [Ritmo Y Sabor](https://open.spotify.com/artist/1FSn3FN1HTxrK4qgoslPJh) | [Latino](https://open.spotify.com/album/3a4EAp0gT2IoAvNtToqrCD) | 3:22 |
-| 68 | [Ojitos Mentirosos](https://open.spotify.com/track/7DTKpVBKNPsDGKwVTl2Txe) | [Tropicalísimo Apache](https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO) | [Exitos Quemantes Vol\. IV](https://open.spotify.com/album/1nYMViSA4UU0LvvWlKrcrC) | 3:03 |
+| 67 | [Ojitos Mentirosos](https://open.spotify.com/track/7DTKpVBKNPsDGKwVTl2Txe) | [Tropicalísimo Apache](https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO) | [Exitos Quemantes Vol\. IV](https://open.spotify.com/album/1nYMViSA4UU0LvvWlKrcrC) | 3:03 |
+| 68 | [La Cumbia de los Monjes](https://open.spotify.com/track/03ITeFvMvTRpTC92WsQWw5) | [Ritmo Y Sabor](https://open.spotify.com/artist/1FSn3FN1HTxrK4qgoslPJh) | [Latino](https://open.spotify.com/album/3a4EAp0gT2IoAvNtToqrCD) | 3:22 |
 | 69 | [La Rumba Quimbumba](https://open.spotify.com/track/02pQk9G1SnyBBVh9yOtxau) | [Grupo Kual? Dinastia Pedraza Es Grupo Kein?](https://open.spotify.com/artist/3mtUQL8wfuXoI3bcciosLd), [Grupo Kien? Los Reyes Del Sabor](https://open.spotify.com/artist/5bK0A1q7E0UgBFrXZtedtU) | [Para Que La Cuña Apriete](https://open.spotify.com/album/643Req8SJXX188L5fuuVD2) | 4:56 |
 | 70 | [Tú Y Yo](https://open.spotify.com/track/5vEOago0nOlDNn6C4IJWLd) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064), [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Tú Y Yo](https://open.spotify.com/album/50h6l1JyfIScae2246HXru) | 3:08 |
 | 71 | [Rumba Frenesi](https://open.spotify.com/track/0LaFg7YyQMaHkWyj497YLI) | [Grupo Kual?](https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX) | [Los Reyes de la Cumbia Sonidera \(En México\)](https://open.spotify.com/album/23WjnVpH4goH0hbfQ7Xs8B) | 5:11 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 | 86 | [No te pertenece \- Radio Edit](https://open.spotify.com/track/61d67uSTg6cBHopUve5hsS) | [Klazykeroz](https://open.spotify.com/artist/1scdd3RHOCWx72TOGGEBHs) | [No te pertenece \(Radio Edit\)](https://open.spotify.com/album/4OHH9wtBsz0yqCEpIzQHUo) | 4:01 |
 | 87 | [Que Calor](https://open.spotify.com/track/43a4fBKL1HlRPCYOsZdh3j) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i) | [Supermerk2 & Meta Guacha: 2x1](https://open.spotify.com/album/3iEZnqx25qRtb6XKFaYq0y) | 4:04 |
 | 88 | [Lucerito](https://open.spotify.com/track/3xJaqmggvkerhccRZC4Yyg) | [Chucho Ponce Los Daddys de Chinantla](https://open.spotify.com/artist/5Jvzp2OQHVKVVRNwrIJ9im) | [Solo Exitos](https://open.spotify.com/album/5gGkPK9scAgvwiCwC1c0Bg) | 5:22 |
-| 89 | [La Inconforme \- Sonidera](https://open.spotify.com/track/6sti0UCUQQzfmSfzCHHUXW) | [Grupo G](https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8) | [Estamos Locos](https://open.spotify.com/album/58vEBu5rvv8ct4Pk158A8L) | 3:11 |
-| 90 | [Espacial](https://open.spotify.com/track/1empPjAI5SfG0Qk8RXzHj8) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Espacial](https://open.spotify.com/album/6mYE2ausodzviCR5y7xPtZ) | 3:35 |
+| 89 | [Espacial](https://open.spotify.com/track/1empPjAI5SfG0Qk8RXzHj8) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Espacial](https://open.spotify.com/album/6mYE2ausodzviCR5y7xPtZ) | 3:35 |
+| 90 | [La Inconforme \- Sonidera](https://open.spotify.com/track/6sti0UCUQQzfmSfzCHHUXW) | [Grupo G](https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8) | [Estamos Locos](https://open.spotify.com/album/58vEBu5rvv8ct4Pk158A8L) | 3:11 |
 | 91 | [Cumbia Valledupar](https://open.spotify.com/track/7r2W5f8W70eGz2DlOD7S5g) | [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi), [Ronda Bogotá](https://open.spotify.com/artist/7843pz6oKe2jtcPew109fr) | [Cumbia Valledupar](https://open.spotify.com/album/3GZ1KTKbHZ5QFAXx0Thjtp) | 4:18 |
 | 92 | [Na Na Na \(Dulce Niña\)](https://open.spotify.com/track/6M870HixVgIS4VTudBHcz8) | [A.B\. Quintanilla III Y Los Kumbia Kings](https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL) | [Fuego](https://open.spotify.com/album/1CJEE36qrJYAUXVJuVQ7ne) | 3:25 |
 | 93 | [Amor Carnal](https://open.spotify.com/track/5BEvroZdzjCqs9QmQGZd6Q) | [Chon Arauza Y Su Furia Colombiana](https://open.spotify.com/artist/1UsGsjA2kejXEPk2M0ObyU) | [Amor Carnal](https://open.spotify.com/album/1aJIcWZyzvp1KBICZojNpI) | 4:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 | 99 | [Soledad](https://open.spotify.com/track/1aZsbm8cm5qHHDQTLwHHYk) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Soledad](https://open.spotify.com/album/1vJZfykeuEwQKqEiZlaXGe) | 3:45 |
 | 100 | [Gritaria](https://open.spotify.com/track/4QpOfEgos0X555uBOvTcGT) | [Los Telez](https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A) | [Donde esta el Amor](https://open.spotify.com/album/1VKZuvVAkS6Jk1hHZBkDVE) | 3:46 |
 
-Snapshot ID: `MTY2MDI3NjgwMCwwMDAwMDAwMDczOGZjYjM4ZGUyOTcxMWY0OTZmNjJjNTI5NWUzOGZi`
+Snapshot ID: `MTY2MDI3NjgwMCwwMDAwMDAwMGUzNzdlZGQ1MGE3Mzg3ZGQyZDU0YWZlNjMwMDIzMGM1`

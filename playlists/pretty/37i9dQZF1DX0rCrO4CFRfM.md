@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 
 > Relax to acoustic versions of your favorite rock songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 825,581 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 825,850 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 | 46 | [When You're Gone \- Acoustic Version](https://open.spotify.com/track/3fcOPNiuzOsjwaguaxrAon) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [12" Masters \- The Essential Mixes](https://open.spotify.com/album/2jJ6cDLNPwLyVNC1qqVwOT) | 3:57 |
 | 47 | [Bored To Death \(Acoustic\)](https://open.spotify.com/track/2hQRxgtDliE6eD7NmEfpuD) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California \(Deluxe Edition\)](https://open.spotify.com/album/0jLf8ecN5HjstQqPAjJlsS) | 3:55 |
 | 48 | [Scumbag \- Acoustic](https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30) | [Scumbag \(Acoustic\)](https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv) | 3:29 |
-| 49 | [In Bloom \(Acoustic\)](https://open.spotify.com/track/0MkIn6BHsrQswE5v44kToW) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [In Bloom: Versions](https://open.spotify.com/album/6UjgPXbovoEObPAYEfuC85) | 3:32 |
-| 50 | [Something Human \(Acoustic\)](https://open.spotify.com/track/1D2ISRyHAs9QBHIWVQIbgM) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:46 |
+| 49 | [Something Human \(Acoustic\)](https://open.spotify.com/track/1D2ISRyHAs9QBHIWVQIbgM) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:46 |
+| 50 | [In Bloom \(Acoustic\)](https://open.spotify.com/track/0MkIn6BHsrQswE5v44kToW) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [In Bloom: Versions](https://open.spotify.com/album/6UjgPXbovoEObPAYEfuC85) | 3:32 |
 
-Snapshot ID: `MTY1NjMyMzAyMSwwMDAwMDAwMDY3OTVhNWZlOTlkMTNmYWVkYmI0MzhiN2RjOTUwOTkx`
+Snapshot ID: `MTY1NjMyMzAyMSwwMDAwMDAwMDYxNDI0MTgwZGUxODE4MzEwZTdjYWQ5NGVkMzhmYTcx`

@@ -1,12 +1,12 @@
 {
   "description": "Classic Country from the Legends of the 1940's.  Where Hillbilly, Texas Swing and Bluegrass came together. Cover: Ernest Tubb",
-  "num_followers": 109262,
+  "num_followers": 109133,
   "original_name": "40s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODY5MzA5OSwwMDAwMDAwMDVmMzBhZjAxZTlmNWMwNWYyY2YzZTRiMjJmZTZjNDU1",
+  "snapshot_id": "MTY1ODY5MzA5OSwwMDAwMDAwMGMxZjc4MmUxYzYyMzUwNDk3NDM3NzlkZjNhODY1MjZi",
   "tracks": [
     {
       "added_at": "2022-07-24 19:41:51",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-07-24 19:41:51",
       "album": {
-        "name": "The Merle Travis Story",
-        "url": "https://open.spotify.com/album/04OriPpEtgl8y4wjO1qzX0"
-      },
-      "artists": [
-        {
-          "name": "Merle Travis",
-          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
-        }
-      ],
-      "duration_ms": 177626,
-      "name": "Sixteen Tons",
-      "url": "https://open.spotify.com/track/6Jvw3KvzhMnp67v3wLbc6m"
-    },
-    {
-      "added_at": "2022-07-24 19:41:51",
-      "album": {
         "name": "The Essential Hank Snow",
         "url": "https://open.spotify.com/album/3CihtEK0DUIjF3clGitVGE"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 165453,
       "name": "The Golden Rocket",
       "url": "https://open.spotify.com/track/5jcprGzyDUAq25Babtyuei"
+    },
+    {
+      "added_at": "2022-07-24 19:41:51",
+      "album": {
+        "name": "The Merle Travis Story",
+        "url": "https://open.spotify.com/album/04OriPpEtgl8y4wjO1qzX0"
+      },
+      "artists": [
+        {
+          "name": "Merle Travis",
+          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
+        }
+      ],
+      "duration_ms": 177626,
+      "name": "Sixteen Tons",
+      "url": "https://open.spotify.com/track/6Jvw3KvzhMnp67v3wLbc6m"
     },
     {
       "added_at": "2022-07-24 19:41:51",
@@ -447,18 +447,18 @@
     {
       "added_at": "2022-07-24 19:41:51",
       "album": {
-        "name": "The Essential Gene Autry",
-        "url": "https://open.spotify.com/album/3P6M5MLTnlE2sngM0iMvV8"
+        "name": "Presenting Roy Rogers",
+        "url": "https://open.spotify.com/album/6Ev7K0Zabn9e8uzx33ALJm"
       },
       "artists": [
         {
-          "name": "Gene Autry",
-          "url": "https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs"
+          "name": "Roy Rogers",
+          "url": "https://open.spotify.com/artist/7Fhopp9XWiqrS7oMw0BKjM"
         }
       ],
-      "duration_ms": 163560,
-      "name": "Deep In the Heart of Texas",
-      "url": "https://open.spotify.com/track/6QZp4bkCotnIA1ZHayOvXt"
+      "duration_ms": 172013,
+      "name": "Don't Fence Me In",
+      "url": "https://open.spotify.com/track/5UsCMdER0Vrh4uFuef4kHA"
     },
     {
       "added_at": "2022-07-24 19:41:51",
@@ -483,22 +483,6 @@
     {
       "added_at": "2022-07-24 19:41:51",
       "album": {
-        "name": "Presenting Roy Rogers",
-        "url": "https://open.spotify.com/album/6Ev7K0Zabn9e8uzx33ALJm"
-      },
-      "artists": [
-        {
-          "name": "Roy Rogers",
-          "url": "https://open.spotify.com/artist/7Fhopp9XWiqrS7oMw0BKjM"
-        }
-      ],
-      "duration_ms": 172013,
-      "name": "Don't Fence Me In",
-      "url": "https://open.spotify.com/track/5UsCMdER0Vrh4uFuef4kHA"
-    },
-    {
-      "added_at": "2022-07-24 19:41:51",
-      "album": {
         "name": "Classic Western Swing",
         "url": "https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 148733,
       "name": "Roly-Poly",
       "url": "https://open.spotify.com/track/1eqfEgDjxtCu8RBnEdg3bT"
+    },
+    {
+      "added_at": "2022-07-24 19:41:51",
+      "album": {
+        "name": "The Essential Gene Autry",
+        "url": "https://open.spotify.com/album/3P6M5MLTnlE2sngM0iMvV8"
+      },
+      "artists": [
+        {
+          "name": "Gene Autry",
+          "url": "https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs"
+        }
+      ],
+      "duration_ms": 163560,
+      "name": "Deep In the Heart of Texas",
+      "url": "https://open.spotify.com/track/6QZp4bkCotnIA1ZHayOvXt"
     },
     {
       "added_at": "2022-07-24 19:41:51",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-07-24 19:41:51",
       "album": {
-        "name": "Capitol Collectors Series",
-        "url": "https://open.spotify.com/album/5WNgZP1HqQyYgvmWCNgaPv"
-      },
-      "artists": [
-        {
-          "name": "Tennessee Ernie Ford",
-          "url": "https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp"
-        }
-      ],
-      "duration_ms": 155160,
-      "name": "The Shot-Gun Boogie",
-      "url": "https://open.spotify.com/track/6tuSry6Ttn4qiyCFTa3XPl"
-    },
-    {
-      "added_at": "2022-07-24 19:41:51",
-      "album": {
         "name": "Rockabilly Gold Masters",
         "url": "https://open.spotify.com/album/7LjSqkcGkDyvjoswiPeKlZ"
       },
@@ -659,18 +643,18 @@
     {
       "added_at": "2022-07-24 19:41:51",
       "album": {
-        "name": "Columbia Historic Edition",
-        "url": "https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l"
+        "name": "Capitol Collectors Series",
+        "url": "https://open.spotify.com/album/5WNgZP1HqQyYgvmWCNgaPv"
       },
       "artists": [
         {
-          "name": "Bill Monroe",
-          "url": "https://open.spotify.com/artist/5CWbfANRpZbnxdstzcNg5H"
+          "name": "Tennessee Ernie Ford",
+          "url": "https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp"
         }
       ],
-      "duration_ms": 166160,
-      "name": "Kentucky Waltz",
-      "url": "https://open.spotify.com/track/44X3wBWJkqZucNHbYU6Wk9"
+      "duration_ms": 155160,
+      "name": "The Shot-Gun Boogie",
+      "url": "https://open.spotify.com/track/6tuSry6Ttn4qiyCFTa3XPl"
     },
     {
       "added_at": "2022-07-24 19:41:51",
@@ -687,6 +671,22 @@
       "duration_ms": 152733,
       "name": "Bouquet of Roses",
       "url": "https://open.spotify.com/track/2iM66C4ttfO2kMc2eLYzHq"
+    },
+    {
+      "added_at": "2022-07-24 19:41:51",
+      "album": {
+        "name": "Columbia Historic Edition",
+        "url": "https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l"
+      },
+      "artists": [
+        {
+          "name": "Bill Monroe",
+          "url": "https://open.spotify.com/artist/5CWbfANRpZbnxdstzcNg5H"
+        }
+      ],
+      "duration_ms": 166160,
+      "name": "Kentucky Waltz",
+      "url": "https://open.spotify.com/track/44X3wBWJkqZucNHbYU6Wk9"
     },
     {
       "added_at": "2022-07-24 19:41:51",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-07-24 19:41:51",
       "album": {
-        "name": "The Country Music Hall Of Fame",
-        "url": "https://open.spotify.com/album/3i93odjqBn7pV8SNJIkxca"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Davis",
-          "url": "https://open.spotify.com/artist/0ow3Ac8tlahUoDVXbRuaRy"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "You Are My Sunshine",
-      "url": "https://open.spotify.com/track/32Mjgo3oqzlVwaTpidm000"
-    },
-    {
-      "added_at": "2022-07-24 19:41:51",
-      "album": {
         "name": "Rhythm & Booze",
         "url": "https://open.spotify.com/album/3W7UIA50NjiTKPkgXTXI3g"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 164506,
       "name": "Beer Drinking Blues",
       "url": "https://open.spotify.com/track/0Zndnuf6y3bpIozh1A7otm"
+    },
+    {
+      "added_at": "2022-07-24 19:41:51",
+      "album": {
+        "name": "The Country Music Hall Of Fame",
+        "url": "https://open.spotify.com/album/3i93odjqBn7pV8SNJIkxca"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Davis",
+          "url": "https://open.spotify.com/artist/0ow3Ac8tlahUoDVXbRuaRy"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "You Are My Sunshine",
+      "url": "https://open.spotify.com/track/32Mjgo3oqzlVwaTpidm000"
     },
     {
       "added_at": "2022-07-24 19:41:51",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-07-24 19:41:51",
       "album": {
-        "name": "Presenting Al Dexter",
-        "url": "https://open.spotify.com/album/3RDJf8ODyyRMpQRhga0W9W"
-      },
-      "artists": [
-        {
-          "name": "Al Dexter",
-          "url": "https://open.spotify.com/artist/49tS3TTwFNW1O1KsY6IbJO"
-        }
-      ],
-      "duration_ms": 169760,
-      "name": "Wine, Women and Song",
-      "url": "https://open.spotify.com/track/0FnC7ilW0ONEWTsu6LyPHx"
-    },
-    {
-      "added_at": "2022-07-24 19:41:51",
-      "album": {
         "name": "My Favorite Country Songs",
         "url": "https://open.spotify.com/album/1W83zQvCTECzjAVi0byoUU"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 185200,
       "name": "Tumbling Tumbleweeds",
       "url": "https://open.spotify.com/track/29IohmaYFMxVuHTUfBnDg3"
+    },
+    {
+      "added_at": "2022-07-24 19:41:51",
+      "album": {
+        "name": "Presenting Al Dexter",
+        "url": "https://open.spotify.com/album/3RDJf8ODyyRMpQRhga0W9W"
+      },
+      "artists": [
+        {
+          "name": "Al Dexter",
+          "url": "https://open.spotify.com/artist/49tS3TTwFNW1O1KsY6IbJO"
+        }
+      ],
+      "duration_ms": 169760,
+      "name": "Wine, Women and Song",
+      "url": "https://open.spotify.com/track/0FnC7ilW0ONEWTsu6LyPHx"
     },
     {
       "added_at": "2022-07-24 19:41:51",

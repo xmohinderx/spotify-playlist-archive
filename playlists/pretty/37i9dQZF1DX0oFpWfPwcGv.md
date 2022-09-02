@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 
 > Disco forever\. Deeper cuts, forgotten gems and 8 minute versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,685 likes - 85 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,738 likes - 85 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 53 | [Touch Me In The Morning](https://open.spotify.com/track/4RoYXfnJ0HHDPUDAlrXDPa) | [Marlena Shaw](https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w) | [Take A Bite](https://open.spotify.com/album/5zf588YtEJAR9rQBP8NeOb) | 6:00 |
 | 54 | [My Forbidden Lover \- 2018 Remaster](https://open.spotify.com/track/1HUTQRf1kFERMNNVvCU5R4) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Risqué \(2018 Remaster\)](https://open.spotify.com/album/7rAk4WPpYlYr0fElVfXTOF) | 4:34 |
 | 55 | [MacArthur Park Suite: MacArthur Park/One Of A Kind/Heavens Knows/MacArthur Park Reprise](https://open.spotify.com/track/0rXruSqepHUNIrPM7PpEhQ) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [The Dance Collection](https://open.spotify.com/album/7FqRt16IDbD2LvgJ4Otqcp) | 17:47 |
-| 56 | [I Need A Man](https://open.spotify.com/track/3Zc9b3YS8wcGDzH92joizS) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Portfolio](https://open.spotify.com/album/1omnfUAyi7BQRSLYcf3sZ4) | 3:23 |
-| 57 | [Put Your Body In It](https://open.spotify.com/track/7aRMjcQaRv4pvIQGu1DYVh) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [Gold](https://open.spotify.com/album/4YAxIAMUnzqt0Oq5FRe2W5) | 4:04 |
+| 56 | [Put Your Body In It](https://open.spotify.com/track/7aRMjcQaRv4pvIQGu1DYVh) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [Gold](https://open.spotify.com/album/4YAxIAMUnzqt0Oq5FRe2W5) | 4:04 |
+| 57 | [I Need A Man](https://open.spotify.com/track/3Zc9b3YS8wcGDzH92joizS) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Portfolio](https://open.spotify.com/album/1omnfUAyi7BQRSLYcf3sZ4) | 3:23 |
 | 58 | [Let No Man Put Asunder \- Shep Pettibone 12" Mix](https://open.spotify.com/track/5mTzj7zSsR6YezbRwAzgKd) | [First Choice](https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4), [Shep Pettibone](https://open.spotify.com/artist/6lGq0HC3OQxpPsoSuTwqKr) | [Delusions \(Bonus Version\)](https://open.spotify.com/album/0YbZ9lgPYhxGHS2zpRIOZg) | 8:01 |
 | 59 | [Casanova \- Extended Version](https://open.spotify.com/track/1Q2lpDwSeNTn5qawq0IkVu) | [Coffee](https://open.spotify.com/artist/0FKrKK6FcyzlTnuhmv7i6h) | [Slippin' and Dippin' \(Bonus Track Version\)](https://open.spotify.com/album/4LvH1pQ8ysoBXLicmLdifO) | 6:11 |
 | 60 | [Found a Cure \- 12" Disco Mix](https://open.spotify.com/track/3HfVnWKGvJnqb7Xonl8lvw) | [Ashford & Simpson](https://open.spotify.com/artist/2EURsXo9qlt1aMWlviGCRi) | [Hits, Remixes and Rarities: The Warner Brothers Years](https://open.spotify.com/album/6CyWY15jDZy4sP82bLe5dY) | 7:03 |
@@ -88,10 +88,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 78 | [Stay Free](https://open.spotify.com/track/39rVzigiXOF0feDwgKzKIs) | [Ashford & Simpson](https://open.spotify.com/artist/2EURsXo9qlt1aMWlviGCRi), [James Simpson](https://open.spotify.com/artist/2iphCH37GnHODxVanwu4Wf) | [Stay Free](https://open.spotify.com/album/0deJgBEQc6s9ljcW2My2uV) | 5:22 |
 | 79 | [Time Waits for No One](https://open.spotify.com/track/3Z7zgWmObUJD9mh4ZX1uBL) | [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [Jean Carn](https://open.spotify.com/album/4gsuDhx9sgXP5tqKFolPIj) | 4:15 |
 | 80 | [The Love I Lost \- A Tom Moulton Mix](https://open.spotify.com/track/6kTRD53rZvscOShCDotKVy) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Tom Moulton](https://open.spotify.com/artist/6xDW6TfPeBAiq1gmqMJnM6) | [Philadelphia International Records: The Tom Moulton Remixes](https://open.spotify.com/album/25R1Y9bt82lbSwZemUBJ1A) | 12:30 |
-| 81 | [I Wanna Be With You](https://open.spotify.com/track/6CkJTGW06HbJqXRrlRJaG7) | [Coffee](https://open.spotify.com/artist/0FKrKK6FcyzlTnuhmv7i6h) | [Slippin' and Dippin' \(Bonus Track Version\)](https://open.spotify.com/album/4LvH1pQ8ysoBXLicmLdifO) | 7:40 |
-| 82 | [Sinner Man](https://open.spotify.com/track/4ejEDBcfJgMXyBd9hooIp8) | [Sarah Dash](https://open.spotify.com/artist/40GzTuEPg9xjzGeXJESEMH) | [Club Epic \- A Collection Of Classic Dance Mixes: Volume 4](https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW) | 5:38 |
+| 81 | [Sinner Man](https://open.spotify.com/track/4ejEDBcfJgMXyBd9hooIp8) | [Sarah Dash](https://open.spotify.com/artist/40GzTuEPg9xjzGeXJESEMH) | [Club Epic \- A Collection Of Classic Dance Mixes: Volume 4](https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW) | 5:38 |
+| 82 | [I Wanna Be With You](https://open.spotify.com/track/6CkJTGW06HbJqXRrlRJaG7) | [Coffee](https://open.spotify.com/artist/0FKrKK6FcyzlTnuhmv7i6h) | [Slippin' and Dippin' \(Bonus Track Version\)](https://open.spotify.com/album/4LvH1pQ8ysoBXLicmLdifO) | 7:40 |
 | 83 | [Earth Can Be Just Like Heaven](https://open.spotify.com/track/3nmBEXWVfbtT1OIJIUisuk) | [Two Tons Of Fun](https://open.spotify.com/artist/0saeDZpMg2N0q5nLTlGANX) | [Get The Feeling](https://open.spotify.com/album/7crScJSELYuXpuUbnJZGK0) | 4:25 |
 | 84 | [Victim](https://open.spotify.com/track/4YPsI3caCo9mOsqI3tc6hv) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [The Best of Candi Staton](https://open.spotify.com/album/3cb3mTuLI8rwHFxLozs8fg) | 5:17 |
 | 85 | [Angel in My Pocket \- Extended Version](https://open.spotify.com/track/3oLeHyYhacSx9LTy7jQiTZ) | [Change](https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE) | [Magical Night \(Greatest Hits Special Price\)](https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f) | 7:09 |
 
-Snapshot ID: `MTY1Nzg2MDAxNCwwMDAwMDAwMDc2MTU3OTVhMTk1ODI5NzFlMmRhMWMxODYxYzJiZmM5`
+Snapshot ID: `MTY1Nzg2MDAxNCwwMDAwMDAwMDI5OWMwNzY0NWZjMmQzZWIwNjRhY2I5ZmE3NjY3NmQ3`

@@ -1,12 +1,12 @@
 {
   "description": "Lay back. Chill out.",
-  "num_followers": 74218,
+  "num_followers": 74370,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ3OTc1MywwMDAwMDAwMDdkNWUzZWZlZDk2ZjM3NDUwOGM1YzAyZWE5MmY1YzY3",
+  "snapshot_id": "MTY2MTQ3OTc1MywwMDAwMDAwMGEzOWI4ODI1ZWFiOTc4N2EzMDA0MDdiNzA5ZjAwNzAx",
   "tracks": [
     {
       "added_at": "2022-08-26 02:09:12",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-08-26 02:09:12",
       "album": {
-        "name": "Moodring",
-        "url": "https://open.spotify.com/album/2syvgyDNiIraR35ncupC0H"
-      },
-      "artists": [
-        {
-          "name": "M\u00fda",
-          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
-        }
-      ],
-      "duration_ms": 214600,
-      "name": "Fallen",
-      "url": "https://open.spotify.com/track/75pAfYEpRXZf7GVORGhOgz"
-    },
-    {
-      "added_at": "2022-08-26 02:09:12",
-      "album": {
         "name": "Voodoo",
         "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
       },
@@ -631,18 +615,18 @@
     {
       "added_at": "2022-08-26 02:09:12",
       "album": {
-        "name": "Who Is Jill Scott? - Words and Sounds, Vol. 1",
-        "url": "https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG"
+        "name": "Moodring",
+        "url": "https://open.spotify.com/album/2syvgyDNiIraR35ncupC0H"
       },
       "artists": [
         {
-          "name": "Jill Scott",
-          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+          "name": "M\u00fda",
+          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
         }
       ],
-      "duration_ms": 285746,
-      "name": "He Loves Me (Lyzel in E Flat)",
-      "url": "https://open.spotify.com/track/2PzYqACbv12FNhrlHPfJEH"
+      "duration_ms": 214600,
+      "name": "Fallen",
+      "url": "https://open.spotify.com/track/75pAfYEpRXZf7GVORGhOgz"
     },
     {
       "added_at": "2022-08-26 02:09:12",
@@ -659,6 +643,22 @@
       "duration_ms": 255800,
       "name": "Distance",
       "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
+    },
+    {
+      "added_at": "2022-08-26 02:09:12",
+      "album": {
+        "name": "Who Is Jill Scott? - Words and Sounds, Vol. 1",
+        "url": "https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "duration_ms": 285746,
+      "name": "He Loves Me (Lyzel in E Flat)",
+      "url": "https://open.spotify.com/track/2PzYqACbv12FNhrlHPfJEH"
     },
     {
       "added_at": "2022-08-26 02:09:12",

@@ -1,12 +1,12 @@
 {
   "description": "Canciones de Rock con un toque de nostalgia.",
-  "num_followers": 64975,
+  "num_followers": 65043,
   "original_name": "Nostalgia + Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMDgwMCwwMDAwMDAwMDExNjdhOTFjNjA1NjkxM2ZiNGM2YzM1ZTM3NDlkZjJj",
+  "snapshot_id": "MTY2MTkzMDgwMCwwMDAwMDAwMDZkYzdjNjMzMWE0NzcxMTY0NmJiZWM0NDE4OGU0YTEy",
   "tracks": [
     {
       "added_at": "2022-08-31 07:26:40",
@@ -655,6 +655,22 @@
     {
       "added_at": "2022-08-31 07:26:40",
       "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/7aiQ0WWBBC0HzeI0PgGYJs"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 231666,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/5c1QJAiC3773EwiZLwHf5x"
+    },
+    {
+      "added_at": "2022-08-31 07:26:40",
+      "album": {
         "name": "Cheap Thrills",
         "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
       },
@@ -675,34 +691,18 @@
     {
       "added_at": "2022-08-31 07:26:40",
       "album": {
-        "name": "Again",
-        "url": "https://open.spotify.com/album/7aiQ0WWBBC0HzeI0PgGYJs"
+        "name": "Ah\u00ed Vamos",
+        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
       },
       "artists": [
         {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
         }
       ],
-      "duration_ms": 231666,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/5c1QJAiC3773EwiZLwHf5x"
-    },
-    {
-      "added_at": "2022-08-31 07:26:40",
-      "album": {
-        "name": "Up Your Alley",
-        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 246800,
-      "name": "I Hate Myself for Loving You",
-      "url": "https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl"
+      "duration_ms": 233746,
+      "name": "Adi\u00f3s",
+      "url": "https://open.spotify.com/track/1rh4kDY9T4fHVDum8Foi5k"
     },
     {
       "added_at": "2022-08-31 07:26:40",
@@ -723,18 +723,18 @@
     {
       "added_at": "2022-08-31 07:26:40",
       "album": {
-        "name": "Ah\u00ed Vamos",
-        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
+        "name": "Up Your Alley",
+        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
       },
       "artists": [
         {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 233746,
-      "name": "Adi\u00f3s",
-      "url": "https://open.spotify.com/track/1rh4kDY9T4fHVDum8Foi5k"
+      "duration_ms": 246800,
+      "name": "I Hate Myself for Loving You",
+      "url": "https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl"
     },
     {
       "added_at": "2022-08-31 07:26:40",

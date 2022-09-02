@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 
 > Metal hecho en Iberoamérica\. Bandas que ya conoces y que estás a punto de conocer\. Foto: Sepultura
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,784 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,810 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 6 | [Soy de la Esquina](https://open.spotify.com/track/6QgFbmtynzdNpHWsmSKmPy) | [Hermetica](https://open.spotify.com/artist/6j6Ld5h0aFgH0VQWQNazS7) | [Victimas del Vaciamiento](https://open.spotify.com/album/2hgHTyBcMQKLsbjnZUBsZb) | 3:10 |
 | 7 | [Hijo de Puta](https://open.spotify.com/track/2GEzC3xMzHAJHXTDgMC8Ov) | [Asspera](https://open.spotify.com/artist/0iy7QDMTG00FqTFtlnImPO) | [Hijo de Puta](https://open.spotify.com/album/41LThpy6UEts4rovGtg4gl) | 2:59 |
 | 8 | [Los Rockeros Van al Infierno](https://open.spotify.com/track/2uvkYLYqFTHh5n0q0cISNX) | [Barón Rojo](https://open.spotify.com/artist/0R5dtryP4tKLlMZA0vhBvF) | [Grandes Exitos](https://open.spotify.com/album/0vZFmEVF9HyhtkYy5ZHAIN) | 4:19 |
-| 9 | [El Pibe Tigre](https://open.spotify.com/track/70VfAhsPWCKIXO9yc1rKQN) | [Almafuerte](https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV) | [Mundo Guanaco](https://open.spotify.com/album/4okfUbvoV7c301lu9qKbeP) | 4:03 |
+| 9 | [Acido](https://open.spotify.com/track/1k6fvfuYE9xZi1hbwOhF6k) | [Carajo](https://open.spotify.com/artist/5tDdTDGy0l8rHkeLaaEyyN) | [El Mar De Las Almas](https://open.spotify.com/album/52tcNhROdl0187orh4tB3N) | 3:43 |
 | 10 | [Desperate Cry](https://open.spotify.com/track/3PWgD7Gk14tGxHIEK8PQ6o) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Arise](https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM) | 6:41 |
-| 11 | [Acido](https://open.spotify.com/track/1k6fvfuYE9xZi1hbwOhF6k) | [Carajo](https://open.spotify.com/artist/5tDdTDGy0l8rHkeLaaEyyN) | [El Mar De Las Almas](https://open.spotify.com/album/52tcNhROdl0187orh4tB3N) | 3:43 |
+| 11 | [El Pibe Tigre](https://open.spotify.com/track/70VfAhsPWCKIXO9yc1rKQN) | [Almafuerte](https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV) | [Mundo Guanaco](https://open.spotify.com/album/4okfUbvoV7c301lu9qKbeP) | 4:03 |
 | 12 | [El Infierno de Dante](https://open.spotify.com/track/0vjTp23Jg2cAZSq9x5GlxK) | [Transmetal](https://open.spotify.com/artist/5r1YlvQfX1TfuSRWzEEPlT) | [El Llamado de la Hembra](https://open.spotify.com/album/3SBJ4lkddKaLQ3tL57llOa) | 4:35 |
 | 13 | [Mística](https://open.spotify.com/track/4L30SyewCjkmJoX4qra9Ac) | [Espécimen](https://open.spotify.com/artist/5Mh3ytajhEkNUhgNEI4tvM) | [Subkonzziente](https://open.spotify.com/album/3dNRIGq5OGwFB3UGxX4kCh) | 3:54 |
 | 14 | [La Culpa Al Viento](https://open.spotify.com/track/1TZLjYKZMUw5gsuEYrrbwr) | [Los Antiguos](https://open.spotify.com/artist/25WqiGGqVjN0gLpVHqaP91) | [Madera Prohibida](https://open.spotify.com/album/0ZJ2iVKwt09AELBNknD7tb) | 5:11 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 33 | [Infiel a Dos Mentiras "Vida"](https://open.spotify.com/track/7mNdPmUqNmp7JqHQUBJPBa) | [Kilcrops](https://open.spotify.com/artist/35RQXAyUyPsRRcank3cohw) | [Javhe Karma](https://open.spotify.com/album/0yKtlTkM61fYXqKXybXVK1) | 7:40 |
 | 34 | [Cenizas‬](https://open.spotify.com/track/4QgSHdxKEtOt3qPXL3lmbG) | [Carajo](https://open.spotify.com/artist/5tDdTDGy0l8rHkeLaaEyyN) | [Basado en Hechos Reales](https://open.spotify.com/album/6lzY4nvVAMGKkdLJDJjqcS) | 4:14 |
 | 35 | [Satanic Lust](https://open.spotify.com/track/3qRnT9wYaNkM30Dd29rmRl) | [Sarcófago](https://open.spotify.com/artist/3bPSw3qkTeBZXnfDFUqmPG) | [Inri](https://open.spotify.com/album/2nMT6EXsWDFCOZcdKk1liX) | 3:08 |
-| 36 | [Esquizofrenia](https://open.spotify.com/track/3MLJZTcoiDcC0Je4SRinT9) | [Khafra](https://open.spotify.com/artist/0ihzl14dtKADBcwu1YbLgo) | [Khafra](https://open.spotify.com/album/57ahaslQPdMhhiXqzSVjsO) | 3:02 |
-| 37 | [Darse Cuenta](https://open.spotify.com/track/41ijCwVP2PQmGCRxwhKbkH) | [Logos](https://open.spotify.com/artist/4aCWTRWrh5lyIaZTVCP6ja) | [Plan Mundial Para La Destrucción](https://open.spotify.com/album/7fBKqH6kZsrgY2RJWkaiC5) | 4:17 |
+| 36 | [Darse Cuenta](https://open.spotify.com/track/41ijCwVP2PQmGCRxwhKbkH) | [Logos](https://open.spotify.com/artist/4aCWTRWrh5lyIaZTVCP6ja) | [Plan Mundial Para La Destrucción](https://open.spotify.com/album/7fBKqH6kZsrgY2RJWkaiC5) | 4:17 |
+| 37 | [Esquizofrenia](https://open.spotify.com/track/3MLJZTcoiDcC0Je4SRinT9) | [Khafra](https://open.spotify.com/artist/0ihzl14dtKADBcwu1YbLgo) | [Khafra](https://open.spotify.com/album/57ahaslQPdMhhiXqzSVjsO) | 3:02 |
 | 38 | [Victimized](https://open.spotify.com/track/6OSb8LkFYX7kUSDzSmphxH) | [Criminal](https://open.spotify.com/artist/2obZTQu3NO5oRcIZKY9fOh) | [Dead Soul](https://open.spotify.com/album/2vW8nOEvd85a5Uz4u6qjcS) | 3:00 |
 | 39 | [Apatrida](https://open.spotify.com/track/5F1qBUKeV22jGhX7oIrOUf) | [Nuclear](https://open.spotify.com/artist/5ODa95P58TRNxymAD9moqt) | [Apatrida](https://open.spotify.com/album/16TSHKfaruA9FCP2K86Vj3) | 3:45 |
 | 40 | [Guerrero Del Arco Iris](https://open.spotify.com/track/46zHDwJufMThLYhzX8QTGg) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [Col 2x1: Magos, Espadas Y Rosas / Guerrero Del Arco Iris](https://open.spotify.com/album/0cOpyRpGurf8Oeg7SD3znn) | 5:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 49 | [Hoy Podes Pudrirte](https://open.spotify.com/track/4taoA7P7oh1whE2Z4EHJGc) | [Avernal](https://open.spotify.com/artist/0Pk6A0iFcoDjG1w0P1OMU2) | [El Sangriento](https://open.spotify.com/album/614yYarWjW9kGJ7HApmS0Y) | 2:40 |
 | 50 | [Brutal Existencia](https://open.spotify.com/track/2evFymF2OK3gW1enigpUqD) | [Acutor](https://open.spotify.com/artist/4tHrTzSpJDv756VU0oVnn0) | [Dios Ha Muerto](https://open.spotify.com/album/2FlG7v1XqcqUwXLpXZiwFi) | 4:08 |
 
-Snapshot ID: `MTYwMzUxMDczMSwwMDAwMDAwMDQ3ZDgzOTRlNmEyMWRmZGRjMDUwMTQzMTI4ODQ0YTcy`
+Snapshot ID: `MTYwMzUxMDczMSwwMDAwMDAwMGY5YTc5MWNjZDQ0M2RlMGZhMjU2NjY3ODcxNzE0Mzk5`

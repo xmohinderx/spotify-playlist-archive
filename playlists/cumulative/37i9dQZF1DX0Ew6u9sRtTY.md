@@ -4,7 +4,7 @@
 
 > Remember these?
 
-96 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/71lFW5Q5BIWbFIEkdaWFgm)
+97 songs - 6 hr 3 min - [published](https://open.spotify.com/playlist/71lFW5Q5BIWbFIEkdaWFgm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Generator](https://open.spotify.com/track/5huKxZxNzciArMf5RQ57Da) | [The Holloways](https://open.spotify.com/artist/0ucpA79hkvtJ2qtPv1yXVm) | [So This Is Great Britain?](https://open.spotify.com/album/7IZS1QsJHWSInicdoWbgmU) | 2:57 | 2018-12-12 | 2022-07-29 |
 | [Glorious](https://open.spotify.com/track/3Mx6U6CpcvLj4fHYneg5RB) | [Andreas Johnson](https://open.spotify.com/artist/5CKhp4ovgbSd7PdVIza7cC) | [Liebling \(France version\)](https://open.spotify.com/album/5JP2ldSSJOjHsLmiKNZmsP) | 3:27 | 2018-12-12 | 2022-07-27 |
 | [Got Your Money \(feat\. Kelis\)](https://open.spotify.com/track/6YYd5MLpu45J0uLrMdivF7) | [Ol' Dirty Bastard](https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Nigga Please](https://open.spotify.com/album/26ykyKCa7xOHOnzLdGARfz) | 3:59 | 2018-12-12 |  |
+| [Groove Is in the Heart](https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb) | [Deee\-Lite](https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5) | [World Clique](https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh) | 3:51 | 2018-12-12 |  |
 | [Groove Is in the Heart](https://open.spotify.com/track/2UVLuddklEVak5PXgC7baA) | [Deee\-Lite](https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5) | [Rhino Hi\-Five: Deee\-Lite](https://open.spotify.com/album/5ONmarDtpkKbrlhu0p83XM) | 3:51 | 2018-12-12 | 2022-07-29 |
 | [Here Comes the Hotstepper](https://open.spotify.com/track/4vfzROmNsxedKICcHod5Rh) | [Ini Kamoze](https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs) | [On Your 90's Radio](https://open.spotify.com/album/3mc83JE8jhpDb9Jd0eNm7M) | 4:04 | 2018-12-12 | 2022-07-29 |
 | [Hey There Delilah \- Bonus Track](https://open.spotify.com/track/3DWOTqMQGp5q75fnVsWwaN) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Every Second Counts](https://open.spotify.com/album/6MEfS6zFbBYZalRsumJsvs) | 3:53 | 2018-12-12 | 2022-07-28 |
@@ -44,7 +45,7 @@
 | [I Love It \(feat\. Charli XCX\)](https://open.spotify.com/track/3VZQshi4COChhXaz7cLP02) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [I Love It](https://open.spotify.com/album/5hf74KpfuwSJXVs85k3dVI) | 2:35 | 2018-12-12 |  |
 | [I'm Too Sexy](https://open.spotify.com/track/6TbDjOtgqxBMTesiMfz7Qj) | [Right Said Fred](https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL) | [Fredhead](https://open.spotify.com/album/0QEWU8VGwtNs6ZGqbEoj9Y) | 2:42 | 2018-12-12 | 2022-07-29 |
 | [Ice Ice Baby](https://open.spotify.com/track/3XVozq1aeqsJwpXrEZrDJ9) | [Vanilla Ice](https://open.spotify.com/artist/7GXXMm3DB1VswVcuGyInUd) | [Vanilla Ice Is Back! \- Hip Hop Classics](https://open.spotify.com/album/20O6lfaDAoMhUj5TAvVbb6) | 4:14 | 2018-12-12 |  |
-| [Informer](https://open.spotify.com/track/2LjiPAQOVazT8sRyXL3XRs) | [Snow](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1) | [12 Inches Of Snow](https://open.spotify.com/album/6bNWz7bHK8M0xPfAPmFSRW) | 4:28 | 2018-12-12 |  |
+| [Informer](https://open.spotify.com/track/2LjiPAQOVazT8sRyXL3XRs) | [Snow](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1) | [12 Inches Of Snow](https://open.spotify.com/album/6bNWz7bHK8M0xPfAPmFSRW) | 4:28 | 2018-12-12 | 2022-09-02 |
 | [JCB](https://open.spotify.com/track/6CWCgRZ0Hxa2dnrCCvq5bA) | [Nizlopi](https://open.spotify.com/artist/7HorCYRsMBxPIRFYQE4Ch9) | [JCB](https://open.spotify.com/album/2rEK37JMgCij9KgAO40PUF) | 3:48 | 2018-12-12 | 2022-07-29 |
 | [Jerk It Out](https://open.spotify.com/track/1bx7OUl2UmAnA5oZkm9If7) | [Caesars](https://open.spotify.com/artist/4rGrN4XDYhP6dUAZMvcuHr) | [Jerk It Out](https://open.spotify.com/album/1D5ebxOCFrG8U6p98zZHCi) | 3:15 | 2018-12-12 | 2022-07-01 |
 | [Jerk It Out](https://open.spotify.com/track/5XMjXjwCkJVmk0AHm7z8IV) | [Caesars](https://open.spotify.com/artist/4rGrN4XDYhP6dUAZMvcuHr) | [Love For The Streets](https://open.spotify.com/album/2ucS4apziMY7gaBIQc2tal) | 3:15 | 2018-12-12 |  |

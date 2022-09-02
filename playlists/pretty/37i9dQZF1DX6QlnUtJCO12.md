@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QlnUtJCO12.md) - [plain]
 
 > Discover Trinidad & Tobago's rich musical history with these traditional Calypso tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,296 likes - 40 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,297 likes - 40 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QlnUtJCO12.md) - [plain]
 | 12 | [Doctor Kitch](https://open.spotify.com/track/773m3sHG4pIBk0daUTl431) | [Lord Kitchener](https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK) | [Doctor Kitch](https://open.spotify.com/album/6ZgbMHl4E3T6Cvjat6XZGa) | 3:54 |
 | 13 | [Calypsonian Invasion](https://open.spotify.com/track/0oLlOtIYnH5kwSEOJoEarY) | [The Duke Of Iron](https://open.spotify.com/artist/24SUuBMfJRRKPZxkTJ8p81) | [Calypso Carnival \(Remastered\)](https://open.spotify.com/album/3rW38tUEFXgE1YKVkRlZFh) | 3:00 |
 | 14 | [Don't Touch Me Tomato](https://open.spotify.com/track/4T0vtk187B4c75WSc71jeq) | [Calypso Mama](https://open.spotify.com/artist/2t2wB82iIBJwcj0kVkgupy) | [Muriel's Treasure, Vol\. 3: Vintage Calypso from the 1950s & 1960s](https://open.spotify.com/album/1q2ALrnbfYsMdbNAhKPpPX) | 2:14 |
-| 15 | [Brown Skin Girl](https://open.spotify.com/track/5IM2g33UlqKoLjjvgnP0Rp) | [Lord Invader](https://open.spotify.com/artist/1S1XUYadNLS2gkRKSxG1vl) | [Calypso](https://open.spotify.com/album/7zMd2ZyCLK83STGzNxDz5l) | 2:51 |
-| 16 | [Never Ever Worry](https://open.spotify.com/track/6GdYfhHRFRLYLIflNuzCX7) | [The Great Honourable Lord Pretender](https://open.spotify.com/artist/6wok7L7GfBNS0nOltwmopD) | [The Man Who Never Ever Worried](https://open.spotify.com/album/3cEHPnWBiQ5ZYSFCEr0gRp) | 5:36 |
+| 15 | [Never Ever Worry](https://open.spotify.com/track/6GdYfhHRFRLYLIflNuzCX7) | [The Great Honourable Lord Pretender](https://open.spotify.com/artist/6wok7L7GfBNS0nOltwmopD) | [The Man Who Never Ever Worried](https://open.spotify.com/album/3cEHPnWBiQ5ZYSFCEr0gRp) | 5:36 |
+| 16 | [Brown Skin Girl](https://open.spotify.com/track/5IM2g33UlqKoLjjvgnP0Rp) | [Lord Invader](https://open.spotify.com/artist/1S1XUYadNLS2gkRKSxG1vl) | [Calypso](https://open.spotify.com/album/7zMd2ZyCLK83STGzNxDz5l) | 2:51 |
 | 17 | [Poor but Ambitious](https://open.spotify.com/track/1yKL15Ahp2TD4SN0n2Jfhf) | [Wilmoth Houdini](https://open.spotify.com/artist/62vfc9z4z77qmgqTKXNb5S) | [The Calypso Way](https://open.spotify.com/album/3qLnHdkHnsJlg3YRA9xeWR) | 3:07 |
 | 18 | [Mathilda](https://open.spotify.com/track/2KjKS6eGlwLqY9R2qPcDo6) | [King Radio](https://open.spotify.com/artist/68qRklewuFhi50agtf76un) | [Best Music of Trinidad \- Calypso and Parang Classics](https://open.spotify.com/album/3u1bMFaNp9WynOabZhGHRz) | 2:45 |
 | 19 | [Money Is King](https://open.spotify.com/track/4QV64XiqdMv1034h8Csp2X) | [The Tiger](https://open.spotify.com/artist/6FiS31AoA7Y5WJhDu282C8) | [Calypsonians \(1930 \- 1960\), Vol.1](https://open.spotify.com/album/4W7U6rL6f2eK4kPFk7XgHo) | 2:59 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QlnUtJCO12.md) - [plain]
 | 39 | [Blow Wind Blow](https://open.spotify.com/track/42FHEJKS0K5eEbY5hQLaAj) | [Lionel Belasco](https://open.spotify.com/artist/4cPFaFsaRAuAdh5qhZHCXf) | [Calypso Legends](https://open.spotify.com/album/2hcNJdaOsTyGg9T7c54EBJ) | 3:07 |
 | 40 | [Woman Is Not the Weaker Sex](https://open.spotify.com/track/3TdWiZMMN9oTToEi51e8ji) | [Atilla the Hun](https://open.spotify.com/artist/3XgijVGUbtWr7rTQxd2uEh) | [Calypso Legends](https://open.spotify.com/album/2hcNJdaOsTyGg9T7c54EBJ) | 2:56 |
 
-Snapshot ID: `MTYxOTE5MDM1MCwwMDAwMDAwMDIwYTNjNjk2ODczODRlMTQwZjYyMmUwYTRjYjVkNzUz`
+Snapshot ID: `MTYxOTE5MDM1MCwwMDAwMDAwMDMxNDhkMzMyYTlmZmM2MGZhNmFiOWJhZmM1NTk3ZDJl`

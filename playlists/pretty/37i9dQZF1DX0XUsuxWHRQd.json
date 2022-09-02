@@ -1,12 +1,12 @@
 {
   "description": "New music from Lil Tjay, DJ Khaled, Offset and Quavo & Takeoff.",
-  "num_followers": 14624840,
+  "num_followers": 14628001,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTc3NjQwMCwwMDAwMDAwMGVmYzZiNDczODY5ZGZkZDdkYjA1MWZhMDgwOGRlOGY2",
+  "snapshot_id": "MTY2MjAxNTYwMCwwMDAwMDAwMGZmNDc0ODYxODdlMzg5NzYxNjlmM2YwMjRlN2E0NGIw",
   "tracks": [
     {
       "added_at": "2022-08-26 19:53:17",
@@ -185,6 +185,42 @@
       "url": "https://open.spotify.com/track/5RtOqP26S4KrWexNolBaQc"
     },
     {
+      "added_at": "2022-09-01 07:00:00",
+      "album": {
+        "name": "Pink Friday ... Roman Reloaded",
+        "url": "https://open.spotify.com/album/6OfCOPtcPuhlAovGJ52uZO"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "duration_ms": 268480,
+      "name": "Beez In The Trap",
+      "url": "https://open.spotify.com/track/0x335qdLBS6o30hYdc8h2I"
+    },
+    {
+      "added_at": "2022-08-26 19:53:17",
+      "album": {
+        "name": "I NEVER LIKED YOU",
+        "url": "https://open.spotify.com/album/6ViO9Wx6dWzeUq6DmGTaHl"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 173186,
+      "name": "712PM",
+      "url": "https://open.spotify.com/track/1YWE7cMqo4iVNdPTpH4Khj"
+    },
+    {
       "added_at": "2022-08-26 19:53:17",
       "album": {
         "name": "Us vs. Them (feat. Gucci Mane)",
@@ -231,22 +267,6 @@
       "duration_ms": 185785,
       "name": "Never Sleep (with Lil Baby feat. Travis Scott)",
       "url": "https://open.spotify.com/track/3GdWfmQBiiJrDUvSZS1bGv"
-    },
-    {
-      "added_at": "2022-08-26 19:53:17",
-      "album": {
-        "name": "I NEVER LIKED YOU",
-        "url": "https://open.spotify.com/album/6ViO9Wx6dWzeUq6DmGTaHl"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 173186,
-      "name": "712PM",
-      "url": "https://open.spotify.com/track/1YWE7cMqo4iVNdPTpH4Khj"
     },
     {
       "added_at": "2022-08-26 19:53:17",

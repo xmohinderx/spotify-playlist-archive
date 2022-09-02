@@ -877,10 +877,28 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 141666,
       "name": "Charlie Brown",
       "url": "https://open.spotify.com/track/6Q0aBakbTsjQO6iGdxmXlx"
+    },
+    {
+      "album": {
+        "name": "There's A Riot Goin' On: The Coasters On Atco",
+        "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
+      },
+      "artists": [
+        {
+          "name": "The Coasters",
+          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141306,
+      "name": "Charlie Brown - 2007 Remaster Stereo Single Version; Remastered",
+      "url": "https://open.spotify.com/track/6t83zAQg9Efca1u1DPL930"
     },
     {
       "album": {

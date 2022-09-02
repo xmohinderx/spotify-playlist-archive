@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT?si=FKpx8UozRy2YEfH3zHwWVg\">Sha Sha</a>",
+  "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi?si=bkx2peGYR4qozFyQFcKufA\">Aubrey Qwana</a>",
   "name": "Made In South Africa",
   "published_playlist_ids": [
     "6BghGTymCVTsnBj72SFGI9"
@@ -49,7 +49,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 284776,
       "name": "10K",
       "url": "https://open.spotify.com/track/77jr85pzR4YjCaK76WCPs0"
@@ -127,6 +127,24 @@
       "duration_ms": 300845,
       "name": "Adventure",
       "url": "https://open.spotify.com/track/6avNkwMgoh3eZ61sgdT0YH"
+    },
+    {
+      "album": {
+        "name": "All 2.0",
+        "url": "https://open.spotify.com/album/1yBJX7ZTeezyroWMUMjIcK"
+      },
+      "artists": [
+        {
+          "name": "MusiholiQ",
+          "url": "https://open.spotify.com/artist/7J8TsAqwQVAIOlloWCuW60"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264805,
+      "name": "All 2.0",
+      "url": "https://open.spotify.com/track/39Bhr2KDJVTJb3guVOjPAj"
     },
     {
       "album": {
@@ -371,7 +389,7 @@
       ],
       "date_added": "2021-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 234782,
       "name": "Balele",
       "url": "https://open.spotify.com/track/6WzAPWft8Rxhn91qoEQlmL"
@@ -532,6 +550,78 @@
     },
     {
       "album": {
+        "name": "LOVE IS PAIN",
+        "url": "https://open.spotify.com/album/1inejscdMY2EBbrGS1UeR2"
+      },
+      "artists": [
+        {
+          "name": "Venom",
+          "url": "https://open.spotify.com/artist/6fTEwufIDYGyAZjMJqxaW2"
+        },
+        {
+          "name": "Shishiliza",
+          "url": "https://open.spotify.com/artist/1bcMyQ4E06YJPmJIZC1IZj"
+        },
+        {
+          "name": "DBN Gogo",
+          "url": "https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398350,
+      "name": "Cold Outside (feat. DBN Gogo & Blxckie)",
+      "url": "https://open.spotify.com/track/4c0H3e3Mnd9qqnDfPhDN6k"
+    },
+    {
+      "album": {
+        "name": "DALI",
+        "url": "https://open.spotify.com/album/2Q1BggmUs89ICC9hGNcamV"
+      },
+      "artists": [
+        {
+          "name": "Dinky Kunene",
+          "url": "https://open.spotify.com/artist/40rNjx0M8iAB9kwQB3h1oI"
+        },
+        {
+          "name": "MDU aka TRP",
+          "url": "https://open.spotify.com/artist/6chuSYrZG5i9GbSW5DdNWR"
+        },
+        {
+          "name": "Yumbs",
+          "url": "https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH"
+        },
+        {
+          "name": "Mthunzi",
+          "url": "https://open.spotify.com/artist/2qixIA7qPFts4yN1Av017D"
+        },
+        {
+          "name": "Mzu M",
+          "url": "https://open.spotify.com/artist/1JNnRL51LIgP1SNzCsQFGM"
+        },
+        {
+          "name": "Pushkin",
+          "url": "https://open.spotify.com/artist/4gqR0sgKpSH8qYVBlCfP2d"
+        },
+        {
+          "name": "Springle",
+          "url": "https://open.spotify.com/artist/2MrjOkIsQao28a0Xf1Gy7F"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331331,
+      "name": "DALI",
+      "url": "https://open.spotify.com/track/0QRfG9LzPsD0Eaam32klEv"
+    },
+    {
+      "album": {
         "name": "Ivila Laselawini",
         "url": "https://open.spotify.com/album/278BIRWbQrUNkDwC3gN56e"
       },
@@ -631,7 +721,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 283923,
       "name": "Dilikajele",
       "url": "https://open.spotify.com/track/6UaixHxytkgIWgCSRiV6lu"
@@ -947,6 +1037,28 @@
       "duration_ms": 307500,
       "name": "Fetch Your Life II",
       "url": "https://open.spotify.com/track/2sNGPTctQVNBxHNXWdZSIR"
+    },
+    {
+      "album": {
+        "name": "Fireworks",
+        "url": "https://open.spotify.com/album/5kQTGFFvwJpdgU13VpMggp"
+      },
+      "artists": [
+        {
+          "name": "Aubrey Qwana",
+          "url": "https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi"
+        },
+        {
+          "name": "Blaq Diamond",
+          "url": "https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285453,
+      "name": "Fireworks",
+      "url": "https://open.spotify.com/track/1VvaBNjT8xyUcX38SbHq5M"
     },
     {
       "album": {
@@ -1769,7 +1881,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 219798,
       "name": "joy",
       "url": "https://open.spotify.com/track/6IXsvUk5218xIttzQW4TKE"
@@ -2041,7 +2153,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 295731,
       "name": "Kwanele",
       "url": "https://open.spotify.com/track/5jcdY2IBbING7OaVQ04o6l"
@@ -2489,7 +2601,7 @@
       ],
       "date_added": "2021-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 302120,
       "name": "Mamezala",
       "url": "https://open.spotify.com/track/6WgfG3YnKv0xjg646WLRrD"
@@ -3307,7 +3419,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 336919,
       "name": "Ntate Mogolo",
       "url": "https://open.spotify.com/track/0Ml4TMjBKedGGoAoARCGIu"
@@ -3675,7 +3787,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 261428,
       "name": "Sanibonani",
       "url": "https://open.spotify.com/track/4IMZR7DMOMAYHlAifv682g"
@@ -3847,6 +3959,28 @@
       "duration_ms": 251890,
       "name": "Sithembile (feat. Beyond Vocal)",
       "url": "https://open.spotify.com/track/4ufLxKdIDnuqzKz3Ze5DzC"
+    },
+    {
+      "album": {
+        "name": "Siy'bonana Nini",
+        "url": "https://open.spotify.com/album/0rElm0QOJm9arDQBPQEWzN"
+      },
+      "artists": [
+        {
+          "name": "DJ Yessonia",
+          "url": "https://open.spotify.com/artist/2kNVX8yXcpNVXsKiEKTamJ"
+        },
+        {
+          "name": "Juizee",
+          "url": "https://open.spotify.com/artist/1Tp5joF4x6cTIt6lFJi1UK"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274000,
+      "name": "Siy'bonana Nini",
+      "url": "https://open.spotify.com/track/6gxHSyBr4E8IAIFmvQg7sV"
     },
     {
       "album": {
@@ -4302,6 +4436,32 @@
     },
     {
       "album": {
+        "name": "Ujabule",
+        "url": "https://open.spotify.com/album/69murzE4qzDxxIzNB8JQUY"
+      },
+      "artists": [
+        {
+          "name": "Mthandazo Gatya",
+          "url": "https://open.spotify.com/artist/3jxs3XKuz7KUmjBMN5Yees"
+        },
+        {
+          "name": "Nlhonipho",
+          "url": "https://open.spotify.com/artist/5c63jGw4e0s0QxkCrtn1YL"
+        },
+        {
+          "name": "Chukido",
+          "url": "https://open.spotify.com/artist/1hvUej7iIM2qNgY2xIbI5X"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221552,
+      "name": "Ujabule",
+      "url": "https://open.spotify.com/track/7mylOtThjvTXs7MbNFfgrG"
+    },
+    {
+      "album": {
         "name": "Ukukhanya",
         "url": "https://open.spotify.com/album/6qvWPfJ7gW3lddM6jdBo8D"
       },
@@ -4460,6 +4620,28 @@
     },
     {
       "album": {
+        "name": "Umuntu Womuntu",
+        "url": "https://open.spotify.com/album/1RKQsWNYYgqkdQvbZJsX5Y"
+      },
+      "artists": [
+        {
+          "name": "Nhlanhla Dube",
+          "url": "https://open.spotify.com/artist/4POG2vYRKNJB5gcA877Qcp"
+        },
+        {
+          "name": "Mr Brown",
+          "url": "https://open.spotify.com/artist/6zfdfAQ735KFzpBLkEJxhr"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292036,
+      "name": "Umuntu Womuntu",
+      "url": "https://open.spotify.com/track/5RlwKU6FE0ehsmpxnDa7Z2"
+    },
+    {
+      "album": {
         "name": "Unobubele",
         "url": "https://open.spotify.com/album/055MfShFsEJ6bfXh2vPVkM"
       },
@@ -4504,6 +4686,28 @@
     },
     {
       "album": {
+        "name": "Uthando",
+        "url": "https://open.spotify.com/album/0zcnTVjwUga3vpjrCGB0ei"
+      },
+      "artists": [
+        {
+          "name": "Vuyina",
+          "url": "https://open.spotify.com/artist/7pJgT4zdoIemiYQjpD8QFw"
+        },
+        {
+          "name": "Loki.",
+          "url": "https://open.spotify.com/artist/3f9z8pU96fneXqFTsD9FjD"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250434,
+      "name": "Uthando",
+      "url": "https://open.spotify.com/track/4eGBrIPFNNILwvHU5THfQj"
+    },
+    {
+      "album": {
         "name": "Uyajola",
         "url": "https://open.spotify.com/album/3Wga1LdphDEovcP1O499PH"
       },
@@ -4533,7 +4737,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 321391,
       "name": "Uyathandwa Ekhaya",
       "url": "https://open.spotify.com/track/181yYlqAlC21owkcZzajGE"
@@ -4700,6 +4904,46 @@
     },
     {
       "album": {
+        "name": "Sho",
+        "url": "https://open.spotify.com/album/37hL8CArGv8tU49mJHw6wh"
+      },
+      "artists": [
+        {
+          "name": "Filipo",
+          "url": "https://open.spotify.com/artist/3NhTyn2Veg6o9yaolJzv0t"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189461,
+      "name": "Wa Pelo",
+      "url": "https://open.spotify.com/track/6riyRN9aWDNz7nm6MGCL2M"
+    },
+    {
+      "album": {
+        "name": "Wait On Me",
+        "url": "https://open.spotify.com/album/2RtxSIZ156yT9DSAQS2BBE"
+      },
+      "artists": [
+        {
+          "name": "Mayten",
+          "url": "https://open.spotify.com/artist/2qr7RzXXdIkZfcjsw5oA6K"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247337,
+      "name": "Wait On Me",
+      "url": "https://open.spotify.com/track/5o79AnyhGqX0LlBb1am1pV"
+    },
+    {
+      "album": {
         "name": "Wampona Naah",
         "url": "https://open.spotify.com/album/0dwg3rQ1M7Ir5KvkgBfKps"
       },
@@ -4847,7 +5091,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 308600,
       "name": "Xolele",
       "url": "https://open.spotify.com/track/7hbpdfF24QSKHlRDaLE1HS"

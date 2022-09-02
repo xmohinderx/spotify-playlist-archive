@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadOVCgGhS7j.md) - [plain]
 
 > Put a spring in your step with these mood boosting tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,379,437 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,378,984 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadOVCgGhS7j.md) - [plain]
 | 32 | [Drive By](https://open.spotify.com/track/0KAiuUOrLTIkzkpfpn9jb9) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [California 37](https://open.spotify.com/album/5zseibu9WEsPaZmkJUMkz1) | 3:15 |
 | 33 | [Adventure of a Lifetime](https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Head Full of Dreams](https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw) | 4:23 |
 | 34 | [Good Time](https://open.spotify.com/track/1kPpge9JDLpcj15qgrPbYX) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Midsummer Station](https://open.spotify.com/album/7gTFf2EWBONpjKVjpWbs5p) | 3:25 |
-| 35 | [Higher Love](https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Higher Love](https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE) | 3:48 |
-| 36 | [Sugar \(feat\. Francesco Yates\)](https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Francesco Yates](https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 3:39 |
+| 35 | [Sugar \(feat\. Francesco Yates\)](https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Francesco Yates](https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 3:39 |
+| 36 | [Higher Love](https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Higher Love](https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE) | 3:48 |
 | 37 | [Wellerman \- Sea Shanty / 220 KID x Billen Ted Remix](https://open.spotify.com/track/3iw6V4LH7yPj1ESORX9RIN) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Wellerman \(Sea Shanty / 220 KID x Billen Ted Remix\)](https://open.spotify.com/album/1zEBi4O4AaY5M55dUcUp3z) | 1:56 |
 | 38 | [Don't Call Me Up](https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Ivy To Roses \(Mixtape\)](https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ) | 2:58 |
 | 39 | [Good Feeling](https://open.spotify.com/track/2LEF1A8DOZ9wRYikWgVlZ8) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Wild Ones](https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadOVCgGhS7j.md) - [plain]
 | 49 | [Valerie \(feat\. Amy Winehouse\) \- Version Revisited](https://open.spotify.com/track/6kopmMZiyLmw7h66uXcXR7) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Version](https://open.spotify.com/album/15uqXXD0sAdZuxNxTxktlR) | 3:39 |
 | 50 | [Troublemaker \(feat\. Flo Rida\)](https://open.spotify.com/track/6s8nHXTJVqFjXE4yVZPDHR) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Right Place Right Time \(Expanded Edition\)](https://open.spotify.com/album/5kU9rWhYr4MmPmaGYP5z4v) | 3:05 |
 
-Snapshot ID: `MTY2MDI5NTEwMiwwMDAwMDAwMDQwYzU1ODdhNjhlMjc0Yzk1MGVjMzdkOTJhZDM4YTdj`
+Snapshot ID: `MTY2MDI5NTEwMiwwMDAwMDAwMGQzOTY5NGI4NmIzYTQ2NWUxZGY1MDAyOWNiZDU4Nzdl`

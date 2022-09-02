@@ -1,12 +1,12 @@
 {
   "description": "Timeless Latin pop hits through the decades! Cover: Juanes",
-  "num_followers": 1858246,
+  "num_followers": 1858399,
   "original_name": "Latin Pop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcxNzc0NCwwMDAwMDAwMDFhNjhlNWRmZmVmZTU5ZWEwMTcyOTBiMDM4NWQ5YTdj",
+  "snapshot_id": "MTY1OTcxNzc0NCwwMDAwMDAwMGJkNGI2MDVjNWYzMmQwMzM3ZjAyODlkNWFhZGRlYzg5",
   "tracks": [
     {
       "added_at": "2022-08-05 16:42:24",
@@ -415,6 +415,22 @@
     {
       "added_at": "2022-08-05 16:42:24",
       "album": {
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 237240,
+      "name": "Culpable O No - Mi\u00e9nteme Como Siempre",
+      "url": "https://open.spotify.com/track/7BwxbmYFy0l3ROHDjV2c14"
+    },
+    {
+      "added_at": "2022-08-05 16:42:24",
+      "album": {
         "name": "Vente Pa' Ca (feat. Maluma)",
         "url": "https://open.spotify.com/album/1FkaJUwfqLdQdSmRPBlw6l"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 259195,
       "name": "Vente Pa' Ca (feat. Maluma)",
       "url": "https://open.spotify.com/track/7DM4BPaS7uofFul3ywMe46"
-    },
-    {
-      "added_at": "2022-08-05 16:42:24",
-      "album": {
-        "name": "Busca Una Mujer",
-        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 237240,
-      "name": "Culpable O No - Mi\u00e9nteme Como Siempre",
-      "url": "https://open.spotify.com/track/7BwxbmYFy0l3ROHDjV2c14"
     },
     {
       "added_at": "2022-08-05 16:42:24",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-08-05 16:42:24",
       "album": {
-        "name": "Jon Secada",
-        "url": "https://open.spotify.com/album/1duV6ATgfQWMvjNyfHmxZL"
-      },
-      "artists": [
-        {
-          "name": "Jon Secada",
-          "url": "https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW"
-        }
-      ],
-      "duration_ms": 327240,
-      "name": "Otro D\u00eda M\u00e1s Sin Verte",
-      "url": "https://open.spotify.com/track/7i38EXhbFJjF5tGvTsJMmx"
-    },
-    {
-      "added_at": "2022-08-05 16:42:24",
-      "album": {
         "name": "Esta Es Mi Vida",
         "url": "https://open.spotify.com/album/1DqezzIzunjysnTKPtxB98"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 222626,
       "name": "Espacio sideral",
       "url": "https://open.spotify.com/track/3OIoy3TNU7CL5PTaHOGmbR"
+    },
+    {
+      "added_at": "2022-08-05 16:42:24",
+      "album": {
+        "name": "Jon Secada",
+        "url": "https://open.spotify.com/album/1duV6ATgfQWMvjNyfHmxZL"
+      },
+      "artists": [
+        {
+          "name": "Jon Secada",
+          "url": "https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW"
+        }
+      ],
+      "duration_ms": 327240,
+      "name": "Otro D\u00eda M\u00e1s Sin Verte",
+      "url": "https://open.spotify.com/track/7i38EXhbFJjF5tGvTsJMmx"
     },
     {
       "added_at": "2022-08-05 16:42:24",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-08-05 16:42:24",
       "album": {
-        "name": "8",
-        "url": "https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI"
-      },
-      "artists": [
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        }
-      ],
-      "duration_ms": 221520,
-      "name": "Coraz\u00f3n En La Maleta",
-      "url": "https://open.spotify.com/track/3ljr9ATeLs2BY9gNp7vm62"
-    },
-    {
-      "added_at": "2022-08-05 16:42:24",
-      "album": {
         "name": "Alejandro Sanz 3",
         "url": "https://open.spotify.com/album/6iQUPW8yGLQdbf3JXmNA8N"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 307053,
       "name": "La fuerza del coraz\u00f3n",
       "url": "https://open.spotify.com/track/5c1w6xM8pFvXhMXQVUY42Q"
+    },
+    {
+      "added_at": "2022-08-05 16:42:24",
+      "album": {
+        "name": "8",
+        "url": "https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        }
+      ],
+      "duration_ms": 221520,
+      "name": "Coraz\u00f3n En La Maleta",
+      "url": "https://open.spotify.com/track/3ljr9ATeLs2BY9gNp7vm62"
     },
     {
       "added_at": "2022-08-05 16:42:24",
@@ -1335,6 +1335,22 @@
       "duration_ms": 211466,
       "name": "Ser O Parecer",
       "url": "https://open.spotify.com/track/5sgvzXoYFCr5F5tUZdAA20"
+    },
+    {
+      "added_at": "2022-08-05 16:42:24",
+      "album": {
+        "name": "D\u00e9jenme Llorar",
+        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 228253,
+      "name": "Eres T\u00fa",
+      "url": "https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f"
     },
     {
       "added_at": "2022-08-05 16:42:24",
@@ -1387,22 +1403,6 @@
     {
       "added_at": "2022-08-05 16:42:24",
       "album": {
-        "name": "Honestidad Brutal",
-        "url": "https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 261626,
-      "name": "La parte de adelante",
-      "url": "https://open.spotify.com/track/0fHTVPRRKmWaRuIwrsNTMp"
-    },
-    {
-      "added_at": "2022-08-05 16:42:24",
-      "album": {
         "name": "Hab\u00edtame Siempre (Bonus Tracks Version)",
         "url": "https://open.spotify.com/album/5HDevGeDLIZMhZKvRZLSkI"
       },
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2022-08-05 16:42:24",
       "album": {
-        "name": "D\u00e9jenme Llorar",
-        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
+        "name": "Honestidad Brutal",
+        "url": "https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y"
       },
       "artists": [
         {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 228253,
-      "name": "Eres T\u00fa",
-      "url": "https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f"
+      "duration_ms": 261626,
+      "name": "La parte de adelante",
+      "url": "https://open.spotify.com/track/0fHTVPRRKmWaRuIwrsNTMp"
     },
     {
       "added_at": "2022-08-05 16:42:24",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2022-08-05 16:42:24",
       "album": {
-        "name": "F.A.M.E.",
-        "url": "https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx"
+        "name": "Terral",
+        "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
       },
       "artists": [
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
         }
       ],
-      "duration_ms": 189133,
-      "name": "Marinero",
-      "url": "https://open.spotify.com/track/6x5LBP3nYXVdIDoomChGr3"
+      "duration_ms": 287733,
+      "name": "Recu\u00e9rdame",
+      "url": "https://open.spotify.com/track/5UEtsmhfAtUb1KmPGougtO"
     },
     {
       "added_at": "2022-08-05 16:42:24",
@@ -1555,38 +1555,38 @@
     {
       "added_at": "2022-08-05 16:42:24",
       "album": {
-        "name": "Terral",
-        "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
+        "name": "Un Besito M\u00e1s",
+        "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
       },
       "artists": [
         {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        },
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
         }
       ],
-      "duration_ms": 287733,
-      "name": "Recu\u00e9rdame",
-      "url": "https://open.spotify.com/track/5UEtsmhfAtUb1KmPGougtO"
+      "duration_ms": 210733,
+      "name": "No soy una de esas (feat. Alejandro Sanz)",
+      "url": "https://open.spotify.com/track/3QjkcFDVHOB4Z43esP5A8N"
     },
     {
       "added_at": "2022-08-05 16:42:24",
       "album": {
-        "name": "\u00c9chame La Culpa",
-        "url": "https://open.spotify.com/album/2Tt0EzXpempSOIHFXVX42v"
+        "name": "F.A.M.E.",
+        "url": "https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx"
       },
       "artists": [
         {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        },
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 173720,
-      "name": "\u00c9chame La Culpa",
-      "url": "https://open.spotify.com/track/2hl6q70unbviGo3g1R7uFx"
+      "duration_ms": 189133,
+      "name": "Marinero",
+      "url": "https://open.spotify.com/track/6x5LBP3nYXVdIDoomChGr3"
     },
     {
       "added_at": "2022-08-05 16:42:24",
@@ -1611,22 +1611,22 @@
     {
       "added_at": "2022-08-05 16:42:24",
       "album": {
-        "name": "Un Besito M\u00e1s",
-        "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
+        "name": "\u00c9chame La Culpa",
+        "url": "https://open.spotify.com/album/2Tt0EzXpempSOIHFXVX42v"
       },
       "artists": [
         {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
         },
         {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
         }
       ],
-      "duration_ms": 210733,
-      "name": "No soy una de esas (feat. Alejandro Sanz)",
-      "url": "https://open.spotify.com/track/3QjkcFDVHOB4Z43esP5A8N"
+      "duration_ms": 173720,
+      "name": "\u00c9chame La Culpa",
+      "url": "https://open.spotify.com/track/2hl6q70unbviGo3g1R7uFx"
     },
     {
       "added_at": "2022-08-05 16:42:24",

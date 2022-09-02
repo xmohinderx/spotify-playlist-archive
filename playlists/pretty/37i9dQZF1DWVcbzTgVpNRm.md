@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcbzTgVpNRm.md) - [plain]
 
 > Your favorite Latin anthems to get the party started!<br/>Cover: Daddy Yankee, Marc Anthony
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,008,575 likes - 125 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,008,780 likes - 125 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,13 +46,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcbzTgVpNRm.md) - [plain]
 | 36 | [Callaita](https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Callaita](https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7) | 4:10 |
 | 37 | [In Da Getto](https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [In Da Getto](https://open.spotify.com/album/2M7g0SNXnSq7j5BgYJYJsl) | 2:11 |
 | 38 | [Chantaje \(feat\. Maluma\)](https://open.spotify.com/track/6mICuAdrwEjh6Y6lroV2Kg) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [El Dorado](https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN) | 3:15 |
-| 39 | [Vivir Mi Vida](https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [3.0](https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R) | 4:12 |
-| 40 | [Una Locura](https://open.spotify.com/track/5y7DaS3jAc9eZzcSOoUIwU) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Enoc](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:50 |
+| 39 | [Una Locura](https://open.spotify.com/track/5y7DaS3jAc9eZzcSOoUIwU) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Enoc](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:50 |
+| 40 | [Vivir Mi Vida](https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [3.0](https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R) | 4:12 |
 | 41 | [Oye Mi Amor](https://open.spotify.com/track/5EJ2THuhAapEIeQOtXUQ0x) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [¿Dónde Jugarán Los Niños?](https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK) | 4:23 |
 | 42 | [Hawái](https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Hawái](https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm) | 3:20 |
 | 43 | [Fiel](https://open.spotify.com/track/7Bk0uXKk1uPT0XuQbpFzvs) | [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Los Legendarios 001](https://open.spotify.com/album/7g5WqPI4CdA22Cy8LxRXCf) | 4:21 |
-| 44 | [911 \- Remix](https://open.spotify.com/track/27RSJHEA99Y0Vsow7nA37A) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [911 \(Remix\)](https://open.spotify.com/album/57ppCWTeAnqooyrR4DzbwR) | 3:28 |
-| 45 | [Ella Quiere Beber \- Remix](https://open.spotify.com/track/3f5lA8nnc4YYF1qf78WpHw) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Ella Quiere Beber \(Remix\)](https://open.spotify.com/album/58NQUIHQRJnXyBUeGtG8KG) | 3:39 |
+| 44 | [Ella Quiere Beber \- Remix](https://open.spotify.com/track/3f5lA8nnc4YYF1qf78WpHw) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Ella Quiere Beber \(Remix\)](https://open.spotify.com/album/58NQUIHQRJnXyBUeGtG8KG) | 3:39 |
+| 45 | [911 \- Remix](https://open.spotify.com/track/27RSJHEA99Y0Vsow7nA37A) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [911 \(Remix\)](https://open.spotify.com/album/57ppCWTeAnqooyrR4DzbwR) | 3:28 |
 | 46 | [Criminal](https://open.spotify.com/track/6Za3190Sbw39BBC77WSS1C) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Criminal](https://open.spotify.com/album/0S19ks6TFDHZKEYWFvrRm0) | 3:52 |
 | 47 | [Calma \- Remix](https://open.spotify.com/track/5iwz1NiezX7WWjnCgY5TH4) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Calma \(Remix\)](https://open.spotify.com/album/1tFnP9PwIMeMIuj92mfswZ) | 3:58 |
 | 48 | [Baila Conmigo \(with Rauw Alejandro\)](https://open.spotify.com/track/079Ey5uxL04AKPQgVQwx5h) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Revelación \- EP](https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9) | 3:06 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcbzTgVpNRm.md) - [plain]
 | 124 | [Pa' Mayte](https://open.spotify.com/track/00gAVWgRJy92PCAHFzVu83) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [La Tierra del Olvido \(005\)](https://open.spotify.com/album/5laSrhYFBn1OxVZKCK2B9Y) | 3:08 |
 | 125 | [De Pies A Cabeza](https://open.spotify.com/track/2CkHE54EH44Qj945ynQRw7) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [De Pies A Cabeza](https://open.spotify.com/album/6efrJuQzniYmb1SAuaKjTO) | 4:10 |
 
-Snapshot ID: `MTY1MjM3MTA0OCwwMDAwMDAwMDBmZTE2NDZkZDc1MjNlY2E2MDRlNTA5MTM2ZmJjNDY4`
+Snapshot ID: `MTY1MjM3MTA0OCwwMDAwMDAwMDM0NGMwZDFjYmY1NDYxMjBlOTk4Yzg2NDYxNzc2NThi`

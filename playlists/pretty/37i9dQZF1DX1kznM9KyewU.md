@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kznM9KyewU.md) - [plain]
 
 > Rock that was on repeat during the summers of the 1990s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,323 likes - 90 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,397 likes - 90 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kznM9KyewU.md) - [plain]
 | 8 | [All Star](https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Astro Lounge](https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P) | 3:20 |
 | 9 | [Wind Of Change](https://open.spotify.com/track/3ovjw5HZZv43SxTwApooCM) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF) | 5:12 |
 | 10 | [Scar Tissue](https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Californication \(Deluxe Edition\)](https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi) | 3:35 |
-| 11 | [Santeria](https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 3:02 |
-| 12 | [Song 2 \- 2012 Remaster](https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur \(Special Edition\)](https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q) | 2:01 |
+| 11 | [Song 2 \- 2012 Remaster](https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur \(Special Edition\)](https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q) | 2:01 |
+| 12 | [Santeria](https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 3:02 |
 | 13 | [Wonderwall \- Remastered](https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:18 |
 | 14 | [1979 \- Remastered 2012](https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:26 |
 | 15 | [What's My Age Again?](https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:28 |
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kznM9KyewU.md) - [plain]
 | 29 | [Runaway Train](https://open.spotify.com/track/3TW48DvQ7ChwY1Yy1tkMaP) | [Soul Asylum](https://open.spotify.com/artist/02da1vDJ2hWqfK7aJL6SJm) | [Grave Dancers Union](https://open.spotify.com/album/3EFhsxrJoH3yE3r8bHheE6) | 4:25 |
 | 30 | [Only Wanna Be with You](https://open.spotify.com/track/1OFKUn2VLafrHj7ybnap0Q) | [Hootie & The Blowfish](https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof) | [Cracked Rear View](https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K) | 3:49 |
 | 31 | [Ironic \- 2015 Remaster](https://open.spotify.com/track/1d6KS9GH06JAd19uiBy9IE) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 3:50 |
-| 32 | [Two Princes](https://open.spotify.com/track/4ePP9So5xRzspjLFVVbj90) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Pocket Full Of Kryptonite](https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK) | 4:16 |
+| 32 | [You Could Be Mine](https://open.spotify.com/track/0dlTGl67UFWcKupzkxZYOn) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion II](https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C) | 5:43 |
 | 33 | [It Ain't Over 'Til It's Over](https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Mama Said](https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks) | 4:02 |
-| 34 | [You Could Be Mine](https://open.spotify.com/track/0dlTGl67UFWcKupzkxZYOn) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion II](https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C) | 5:43 |
+| 34 | [Two Princes](https://open.spotify.com/track/4ePP9So5xRzspjLFVVbj90) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Pocket Full Of Kryptonite](https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK) | 4:16 |
 | 35 | [Lithium](https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 4:17 |
 | 36 | [Just A Girl](https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 3:29 |
 | 37 | [Common People](https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class](https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x) | 5:51 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kznM9KyewU.md) - [plain]
 | 89 | [All For You](https://open.spotify.com/track/5fwCxKVai3LszSWFZ9AyA8) | [Sister Hazel](https://open.spotify.com/artist/7m60UAnbgFFNuJbmS6OxTk) | [90s Mixtape](https://open.spotify.com/album/1CVJMhFsgCZeOMk2wQKnwL) | 3:39 |
 | 90 | [Awful](https://open.spotify.com/track/6O0hdCHa2K3zXM4OK9tsmA) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Celebrity Skin](https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId) | 3:16 |
 
-Snapshot ID: `MTY1MDkxNjAwNCwwMDAwMDAwMDQ4MzY2ZDMwZTUwODE3MjE4MDM2Yjk0NDNkZTU1YTA0`
+Snapshot ID: `MTY1MDkxNjAwNCwwMDAwMDAwMDQ4OWNkNjA1OTMxNGUwNmViNDBhYWE5ZWFiZjZmOGQy`

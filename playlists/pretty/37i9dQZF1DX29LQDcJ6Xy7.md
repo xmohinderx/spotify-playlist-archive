@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 
 > A collection of Industrial Metal – fresh and old tunes\. Cover: Rammstein
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,602 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,393 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 60 | [A Drug Against War](https://open.spotify.com/track/0jHmidMFTjOSkzuHrNepY7) | [KMFDM](https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa) | [Angst](https://open.spotify.com/album/6We2VFbkhbRCQNX7Vud8aY) | 3:35 |
 | 61 | [Bits and Razors](https://open.spotify.com/track/1u9wZPcZ72MtBdmsmh0FdT) | [Rabbit Junk](https://open.spotify.com/artist/3Cnkej21cJ1XgbAh98CbaS) | [Bits and Razors](https://open.spotify.com/album/1SugTKvFL1DYE9jOrEvxlb) | 4:03 |
 | 62 | [Lakes of Flame](https://open.spotify.com/track/0PAR95bj6egxPtdzMkgFEU) | [Blue Stahli](https://open.spotify.com/artist/4DWnSG0RYPAds8EIKY26q3) | [Lakes of Flame](https://open.spotify.com/album/5A4ZdUmMA5vY0DAjvKWqHk) | 3:38 |
-| 63 | [Jim Jones](https://open.spotify.com/track/7voqYiZoYUyEJnZWWa7d6d) | [SKYND](https://open.spotify.com/artist/3Ca8UhvMDcgM1zyfAZGw3M) | [Chapter II](https://open.spotify.com/album/4HOffsoCDuHaWVjTmlf5jC) | 6:34 |
-| 64 | [TILL THE END](https://open.spotify.com/track/7brFX4c6J3FbsHuIEw2uHi) | [NA CHUI](https://open.spotify.com/artist/7soJFrhNuBUefRervjk2kh) | [TILL THE END](https://open.spotify.com/album/38KsykfZ2memylz4uwThC6) | 5:14 |
+| 63 | [TILL THE END](https://open.spotify.com/track/7brFX4c6J3FbsHuIEw2uHi) | [NA CHUI](https://open.spotify.com/artist/7soJFrhNuBUefRervjk2kh) | [TILL THE END](https://open.spotify.com/album/38KsykfZ2memylz4uwThC6) | 5:14 |
+| 64 | [Jim Jones](https://open.spotify.com/track/7voqYiZoYUyEJnZWWa7d6d) | [SKYND](https://open.spotify.com/artist/3Ca8UhvMDcgM1zyfAZGw3M) | [Chapter II](https://open.spotify.com/album/4HOffsoCDuHaWVjTmlf5jC) | 6:34 |
 | 65 | [Hengitä](https://open.spotify.com/track/0aRyEPEkEpzUTztEtasDVj) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Hengitä](https://open.spotify.com/album/4Jkym58PA9Nhe96FjI3Ox7) | 3:10 |
 | 66 | [Bring You Down \(Project Regeneration\)](https://open.spotify.com/track/1NGBpjIrZIe0RagRFmyXfg) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Project Regeneration, Vol\. 1](https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP) | 3:35 |
 | 67 | [Hate Like Me](https://open.spotify.com/track/5iwwHtW8mghDtFh42V4ZyR) | [Combichrist](https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR) | [One Fire](https://open.spotify.com/album/3seMsCJKEsXwzX3LdZCq8W) | 4:15 |
@@ -89,16 +89,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 79 | [Requiem \- 2005 Digital Remaster](https://open.spotify.com/track/29QxWOqd1z0HynG72mAEqn) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Killing Joke](https://open.spotify.com/album/0FfpevxQr8EyNsjc24TbmI) | 3:45 |
 | 80 | [After the Flesh](https://open.spotify.com/track/2GGFfHz2laYuGNDtqJRvAK) | [My Life With The Thrill Kill Kult](https://open.spotify.com/artist/7FfAD7EYZbQ7aHPy9ujduD) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 2:59 |
 | 81 | [Haunted](https://open.spotify.com/track/1XwC7lFWY9R8s2qO8iiXxx) | [Ludovico Technique](https://open.spotify.com/artist/1QLq3DjHn8KdTfUig43wP1) | [Haunted](https://open.spotify.com/album/0f2GeuwtgobWCjVFPGHLOX) | 3:38 |
-| 82 | [Animal](https://open.spotify.com/track/0ppkIgN7FXvAtHD95pMvRH) | [Prick](https://open.spotify.com/artist/4hILJw5uchW1ZZJO10icIz) | [Animal](https://open.spotify.com/album/5PQYQdOU14ivWxFlBrh5PN) | 4:15 |
-| 83 | [I Sit on Acid](https://open.spotify.com/track/2bUUMb6Xo8G1hhBjzXlb5b) | [Lords Of Acid](https://open.spotify.com/artist/3O3qPC1hmSp7442HYefx5w) | [Lust \(Special Remastered Band Edition\)](https://open.spotify.com/album/568RScapveqsGN0tCmoUKu) | 5:52 |
+| 82 | [Come Back to Life](https://open.spotify.com/track/4D1ucjSLckZ74e0rUfdFMg) | [Lock The Basement](https://open.spotify.com/artist/1zSnVk8QCuI5kAaNsfOQpi) | [Come Back to Life](https://open.spotify.com/album/7auksAd2OUTBNWgYFTmHCx) | 3:28 |
+| 83 | [Animal](https://open.spotify.com/track/0ppkIgN7FXvAtHD95pMvRH) | [Prick](https://open.spotify.com/artist/4hILJw5uchW1ZZJO10icIz) | [Animal](https://open.spotify.com/album/5PQYQdOU14ivWxFlBrh5PN) | 4:15 |
 | 84 | [Verrückt \- Original Version](https://open.spotify.com/track/6gHB5QPToHSrbWA2Vy5LON) | [Eisbrecher](https://open.spotify.com/artist/6ul6vL8Hg5jTulDi0Ac8ao) | [Die Hölle muss warten](https://open.spotify.com/album/4bTAdNqWfpiCs2tdjxCK5r) | 3:21 |
-| 85 | [Come Back to Life](https://open.spotify.com/track/4D1ucjSLckZ74e0rUfdFMg) | [Lock The Basement](https://open.spotify.com/artist/1zSnVk8QCuI5kAaNsfOQpi) | [Come Back to Life](https://open.spotify.com/album/7auksAd2OUTBNWgYFTmHCx) | 3:28 |
-| 86 | [To The Hilt](https://open.spotify.com/track/5H8EzvO3WV2jtoYrowmwVd) | [Die Krupps](https://open.spotify.com/artist/0iDagYU2nu7gTWMdtCxzxW) | [Industrial Machine Musick](https://open.spotify.com/album/6XQU3XSwp8ZUHaFkBa4daf) | 4:22 |
-| 87 | [Sins of the Flesh](https://open.spotify.com/track/1sVdAZGlSHDGUfOqLnJpeS) | [Sister Machine Gun](https://open.spotify.com/artist/7B4wpEyW6m6ptXf0OJzQId) | [Sins Of The Flesh](https://open.spotify.com/album/557HaDd1BQ1EsBCORYv542) | 5:06 |
+| 85 | [I Sit on Acid](https://open.spotify.com/track/2bUUMb6Xo8G1hhBjzXlb5b) | [Lords Of Acid](https://open.spotify.com/artist/3O3qPC1hmSp7442HYefx5w) | [Lust \(Special Remastered Band Edition\)](https://open.spotify.com/album/568RScapveqsGN0tCmoUKu) | 5:52 |
+| 86 | [Sins of the Flesh](https://open.spotify.com/track/1sVdAZGlSHDGUfOqLnJpeS) | [Sister Machine Gun](https://open.spotify.com/artist/7B4wpEyW6m6ptXf0OJzQId) | [Sins Of The Flesh](https://open.spotify.com/album/557HaDd1BQ1EsBCORYv542) | 5:06 |
+| 87 | [To The Hilt](https://open.spotify.com/track/5H8EzvO3WV2jtoYrowmwVd) | [Die Krupps](https://open.spotify.com/artist/0iDagYU2nu7gTWMdtCxzxW) | [Industrial Machine Musick](https://open.spotify.com/album/6XQU3XSwp8ZUHaFkBa4daf) | 4:22 |
 | 88 | [Many Thanks](https://open.spotify.com/track/0VTDOr2TTKXeTAeXTfSLQH) | [Dope Stars Inc.](https://open.spotify.com/artist/0b3Ih1VYdJfBfCPulSWBoA) | [Terapunk](https://open.spotify.com/album/6YJolVxpGYWLOmjQ3e4Ma5) | 3:58 |
 | 89 | [Disinformation](https://open.spotify.com/track/1pp9mg61pN7G7oJxBIqDmX) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [Moral Hygiene](https://open.spotify.com/album/2GV4nMhDaSu4BUshdfQUK5) | 4:46 |
-| 90 | [Rabenherz](https://open.spotify.com/track/2oar4Dbwg8UzuqyVU4gQZl) | [Erdling](https://open.spotify.com/artist/1YbFcjdUGqumvNIWLVGcJK) | [Helheim](https://open.spotify.com/album/4iz7rIBmCZaLIEgjV9MzgI) | 3:12 |
-| 91 | [Shut Me Down](https://open.spotify.com/track/3LxT4mhYd4JkagpE43Nv9m) | [Godflesh](https://open.spotify.com/artist/5A4ebXQf38xWIq0xSWLhsS) | [A World Lit Only by Fire](https://open.spotify.com/album/1UbMFz1E6gcjrIvqohXoBk) | 4:26 |
+| 90 | [Shut Me Down](https://open.spotify.com/track/3LxT4mhYd4JkagpE43Nv9m) | [Godflesh](https://open.spotify.com/artist/5A4ebXQf38xWIq0xSWLhsS) | [A World Lit Only by Fire](https://open.spotify.com/album/1UbMFz1E6gcjrIvqohXoBk) | 4:26 |
+| 91 | [Rabenherz](https://open.spotify.com/track/2oar4Dbwg8UzuqyVU4gQZl) | [Erdling](https://open.spotify.com/artist/1YbFcjdUGqumvNIWLVGcJK) | [Helheim](https://open.spotify.com/album/4iz7rIBmCZaLIEgjV9MzgI) | 3:12 |
 | 92 | [In League](https://open.spotify.com/track/6N09DiGe5l8xB8YfCSn2Gx) | [Bile](https://open.spotify.com/artist/7rBp0ChNSds53ArYsOJNSj) | [Sex Reflex \(Remastered\)](https://open.spotify.com/album/0n2vWbnlL0dOAmiY6hRVOK) | 4:52 |
 | 93 | [Ich weiß es nicht](https://open.spotify.com/track/3U3DKA3ou2kJdurTeXDVTz) | [Lindemann](https://open.spotify.com/artist/65A714FqhSPjoFZeffQbTv) | [Ich weiß es nicht](https://open.spotify.com/album/49fvgWYikvKVaNF5z0swh6) | 4:49 |
 | 94 | [Supernaut](https://open.spotify.com/track/1LkYAkYzqq7TbJTGfx3ixY) | [1000 Homo DJs](https://open.spotify.com/artist/62G7ybeJSN91TgfsWsdDOb) | [Supernaut](https://open.spotify.com/album/59or2rVv97PQ4dS45ohNlQ) | 6:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 99 | [Royal Leash](https://open.spotify.com/track/7fBy8RKySzM04XrtYm2SJc) | [Processor](https://open.spotify.com/artist/3PsLxyLABzuf3dUMpS05Mp) | [Royal Leash](https://open.spotify.com/album/6eMEO2RnJh2hXoXQyscWgH) | 3:43 |
 | 100 | [S E X](https://open.spotify.com/track/3rx6ENPfEGYiQVPP1jsVtx) | [Aesthetic Perfection](https://open.spotify.com/artist/1Jgp0YCPHCJx5XD7nlfGVN), [Sebastian Svalland](https://open.spotify.com/artist/0NS9PpmJrJodmXFLNlRk5B) | [S E X](https://open.spotify.com/album/0ZMVhQvyDY4vVPGqRCDE97) | 3:40 |
 
-Snapshot ID: `MTY2MDU5Njk1NCwwMDAwMDAwMDQyMjRmM2RjMDJmNzM3ZmIzMmRlZTczZDRiMzk3ZGUw`
+Snapshot ID: `MTY2MDU5Njk1NCwwMDAwMDAwMDM1MjYwYWUxOGExOGFmNzkzMGM3NDNiZGQyMDNlODdk`

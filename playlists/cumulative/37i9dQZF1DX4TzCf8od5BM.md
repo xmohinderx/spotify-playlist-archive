@@ -4,7 +4,7 @@
 
 > Celebrate Disney Junior and magical storytelling through music! All the Disney Junior favorites, including Marvel’s Spidey and His Amazing Friends in one playlist!
 
-156 songs - 3 hr 57 min - [published](https://open.spotify.com/playlist/35jziUyrve0Ka69ZTcrf6K)
+157 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/35jziUyrve0Ka69ZTcrf6K)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Friends Like These](https://open.spotify.com/track/3BSeV1FOTwGZb7MXcRMTfV) | ["Puppy Dog Pals" Cast](https://open.spotify.com/artist/6XYqhT02pSA6p3BoYe9P63) | [Disney Junior Music: Puppy Dog Pals \- Pup\-tastic Party Vol\. 2](https://open.spotify.com/album/5IECGUtko6AYAAYoCSG3HM) | 1:56 | 2022-03-18 |  |
 | [Gather Round](https://open.spotify.com/track/2aFIt5maVUkdDMkafHFW4b) | [Rise Up, Sing Out \- Cast](https://open.spotify.com/artist/5kOWaYDn4KXG6HntLwTGEx), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Rise Up, Sing Out](https://open.spotify.com/album/0wqVMWhboaCzHYYm2sJG5U) | 1:55 | 2022-03-18 |  |
 | [Glow Webs Glow \- From "Disney Junior Music: Marvel's Spidey and His Amazing Friends"](https://open.spotify.com/track/29dZo6xmKqGCZsUNoiUGAh) | [Patrick Stump](https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Glow Webs Glow \(From "Disney Junior Music: Marvel's Spidey and His Amazing Friends"\)](https://open.spotify.com/album/2NZqBD53gQlVUuY2JnV9fN) | 2:24 | 2022-07-15 |  |
+| [Green Gobby Party \- From "Disney Junior Live On Tour: Costume Palooza"](https://open.spotify.com/track/2inYtWjbX1oSywjJwr6Fuk) | [Marvel’s Spidey and His Amazing Friends \- Cast](https://open.spotify.com/artist/2BdLNqjv0srjdAEJBI0Jgm), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Green Gobby Party \(From "Disney Junior Live On Tour: Costume Palooza"\)](https://open.spotify.com/album/2lW3YwQEe3otAWjyTieumY) | 2:06 | 2022-09-01 |  |
 | [Ha Cha Cha](https://open.spotify.com/track/6bjKZJv8YdvkHDKAPkqcBb) | [Mickey Mouse Funhouse \- Cast](https://open.spotify.com/artist/1Vn7zu8r6zi4pYbSq0XWIS), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Mickey Mouse Funhouse Pirate Adventure \(From "Disney Junior Music: Mickey Mouse Funhouse Pirate Adventure"\)](https://open.spotify.com/album/29L5MnlFSoKVglrbcIvnLt) | 0:43 | 2022-08-19 |  |
 | [Handy Manny Main Title Theme \- Soundtrack](https://open.spotify.com/track/2Z3M5vWVvf63VP6m0GEuUP) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Handy Manny](https://open.spotify.com/album/3IrqwFcSz8XWwiMmF0QDpU) | 0:51 | 2022-03-18 |  |
 | [Happy Booty Dance \- From "Disney Junior Music: Puppy Dog Pals"](https://open.spotify.com/track/2xI2Wt8MlPNw9JJpUjDFq1) | ["Puppy Dog Pals" Cast](https://open.spotify.com/artist/6XYqhT02pSA6p3BoYe9P63), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Happy Booty Dance \(From "Disney Junior Music: Puppy Dog Pals"\)](https://open.spotify.com/album/43Umq7UnZNSUS7meUVEkDi) | 0:40 | 2022-08-05 |  |

@@ -4,7 +4,7 @@
 
 > Tracks popping off in the global Afro scene\. Cover: Nnelg
 
-67 songs - 3 hr 24 min - [published](https://open.spotify.com/playlist/3nZuXQa2F2MSgHEfT2QpvH)
+69 songs - 3 hr 31 min - [published](https://open.spotify.com/playlist/3nZuXQa2F2MSgHEfT2QpvH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Last Last](https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last](https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe) | 2:52 | 2022-07-13 |  |
 | [Like \(feat\. Kizz Daniel\)](https://open.spotify.com/track/5Zez1biAREA2C8706kdlIb) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Like \(feat\. Kizz Daniel\)](https://open.spotify.com/album/45UWuUIciHbsLfZeJhbuIB) | 2:30 | 2022-08-25 |  |
 | [Likkle Bit](https://open.spotify.com/track/15zO55hNovkg2mjCW2AiD9) | [KC](https://open.spotify.com/artist/3STIe3ZmArSpfSUD6lZuCv) | [Likkle Bit](https://open.spotify.com/album/3UuoJvhfAud6cN8mbVCUC3) | 3:37 | 2022-08-29 |  |
+| [Lock That Door](https://open.spotify.com/track/4poAVGGbeNk2elYU5uIYdJ) | [C\-Mart](https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [Positivv](https://open.spotify.com/artist/7BrzYQ8rJ3qsyzsGgAlvof) | [Lock That Door](https://open.spotify.com/album/1oLzGsJFsQKDo8s22D5Zfx) | 2:46 | 2022-09-01 |  |
 | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT) | 2:27 | 2022-07-13 |  |
 | [Malika](https://open.spotify.com/track/7cjlYSoUqWIE9GNStrqrNM) | [ND](https://open.spotify.com/artist/6hXVcZyUR2WLIXDkXrw1eQ) | [Malika](https://open.spotify.com/album/1WccS7k1oGP1CMt5ULw1fj) | 2:45 | 2022-07-14 |  |
 | [Man Of The Year](https://open.spotify.com/track/42aQ9uWh6A1UeFODblprU8) | [Niphkeys](https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Man Of The Year](https://open.spotify.com/album/0wx7vhMKi20ejhghIHYkHA) | 2:15 | 2022-07-13 |  |
@@ -61,11 +62,12 @@
 | [Para](https://open.spotify.com/track/63oup3T49OzdnDqxS3Xbzb) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Para](https://open.spotify.com/album/2iU5X3vUdNMcAOXYqMC5OE) | 3:00 | 2022-08-25 |  |
 | [Personal Baby](https://open.spotify.com/track/67bOItGZHSECTH9LffxpUm) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Personal Baby](https://open.spotify.com/album/61F8DGdLWIG1JP4bm1Rzwd) | 2:53 | 2022-08-25 |  |
 | [Playboy](https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI) | 3:27 | 2022-07-13 |  |
-| [Repeat](https://open.spotify.com/track/2S7FTwyeXHxDKaiMTrLixP) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Repeat](https://open.spotify.com/album/5vtxJ5aAD0dYe9fxduV2xY) | 2:39 | 2022-07-13 |  |
+| [Repeat](https://open.spotify.com/track/2S7FTwyeXHxDKaiMTrLixP) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Repeat](https://open.spotify.com/album/5vtxJ5aAD0dYe9fxduV2xY) | 2:39 | 2022-07-13 | 2022-09-02 |
 | [Searching for chop](https://open.spotify.com/track/3oCoAHSyIv35b05q9UCHdV) | [BerryR](https://open.spotify.com/artist/3DvGSDNONfFBcGBlmHrWth) | [Searching for chop](https://open.spotify.com/album/5O7aeNeMMa432GbovLsrMS) | 3:08 | 2022-07-13 |  |
 | [Shakara](https://open.spotify.com/track/6XPPB2eOwBid6EbveTmVYe) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Shakara](https://open.spotify.com/album/2IAaPLIeM9CHUzqrTllGJI) | 3:20 | 2022-07-13 |  |
 | [Shaye](https://open.spotify.com/track/0hFgFEdlRzbWGZGEHiCwPy) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Shaye](https://open.spotify.com/album/46Ly7qRxGR5Hq6yPSEqRDH) | 2:49 | 2022-08-25 |  |
 | [Sugarcane](https://open.spotify.com/track/2pPh2jjCqiIDjGdwMMsPQ1) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Phantom](https://open.spotify.com/artist/3OTu83w505CLRat7nFoQeV) | [Sugarcane](https://open.spotify.com/album/4TBJjgBalFgE5fqiof8mWh) | 2:36 | 2022-07-13 |  |
+| [Sugarcane \- Dutch Remix](https://open.spotify.com/track/61tg9mVHe87QwDWYW4VJoD) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Rich2Gether](https://open.spotify.com/artist/7JEKwHEyxkl7GMIZmTVllb), [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Sugarcane \(Dutch Remix\)](https://open.spotify.com/album/29jB9OyaNU5moCbdcSpsVJ) | 3:38 | 2022-09-01 |  |
 | [Sungba \(feat\. Burna Boy\) \- Remix](https://open.spotify.com/track/5FtWjKVBTMklN2yCP9UhF6) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sungba \(Remix\) \[feat\. Burna Boy\]](https://open.spotify.com/album/4zK5YK5uXEDbGPnvv7DCNE) | 3:30 | 2022-07-13 |  |
 | [Tanzania](https://open.spotify.com/track/5z6oqX6l6kTSPB9gSRnLzE) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI), [BoiBizza](https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR) | [Tanzania](https://open.spotify.com/album/3line3IHxaBqcjloHs4ZKN) | 6:16 | 2022-07-13 |  |
 | [Terminator](https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Terminator](https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3) | 2:35 | 2022-08-25 |  |

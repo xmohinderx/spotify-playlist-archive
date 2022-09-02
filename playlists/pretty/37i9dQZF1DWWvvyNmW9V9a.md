@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > Celebrating Louis saying something nice about Zayn\. Cover: One Direction
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,643,919 likes - 103 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,644,626 likes - 103 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 
 > Classics from trailblazing women in hip\-hop\. Cover: Lil' Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,271 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,512 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 | 14 | [Push It](https://open.spotify.com/track/6sT9MWlJManry3EQwf4V80) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Hot, Cool & Vicious](https://open.spotify.com/album/5QFYPgLGw6DYz8S3TrLM2d) | 4:32 |
 | 15 | [My Neck, My Back \(Lick It\)](https://open.spotify.com/track/5r29mFrurlVBbqJzjr2XW6) | [Khia](https://open.spotify.com/artist/3q7isf09BuwXLyR2khBs60) | [Thug Misses \(Digitally Remastered\)](https://open.spotify.com/album/4Xa2dq99gQqzGj4vq0rGoV) | 3:42 |
 | 16 | [Lost Ones](https://open.spotify.com/track/71XhXay6rKPZCVAaDtFlSR) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:33 |
-| 17 | [Bomb Intro / Pass That Dutch](https://open.spotify.com/track/1MaI6NwdrqnE3mRzOYTpoo) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [This Is Not a Test!](https://open.spotify.com/album/4ffXByMAjLpd25ZyzEJNMK) | 3:37 |
-| 18 | [Uknowhowwedu](https://open.spotify.com/track/5KapB9KJnRsZrprzIAXycW) | [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Kollage](https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA) | 3:34 |
+| 17 | [Uknowhowwedu](https://open.spotify.com/track/5KapB9KJnRsZrprzIAXycW) | [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Kollage](https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA) | 3:34 |
+| 18 | [Bomb Intro / Pass That Dutch](https://open.spotify.com/track/1MaI6NwdrqnE3mRzOYTpoo) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [This Is Not a Test!](https://open.spotify.com/album/4ffXByMAjLpd25ZyzEJNMK) | 3:37 |
 | 19 | [Magic Stick](https://open.spotify.com/track/0aULRU35N9kTj6O1xMULRR) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [La Bella Mafia](https://open.spotify.com/album/6UlNLXBFLqRDiKnyrF4oDE) | 5:59 |
 | 20 | [Your Love](https://open.spotify.com/track/1w6kG4Rc29m5EherbvpkF5) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday](https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl) | 4:05 |
 | 21 | [Tambourine](https://open.spotify.com/track/1U16aNzvnlfARgjWXjKmQj) | [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Tambourine](https://open.spotify.com/album/35qJZJ0yUoWdyrqs6pDbTK) | 3:12 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 | 44 | [Whuteva](https://open.spotify.com/track/5K66mTtWcmGelHC4FkqOFK) | [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6) | [There's Something About Remy\-Based On A True Story \(Explicit\)](https://open.spotify.com/album/3fsD8zvVTghKqePQ19oKLO) | 3:46 |
 | 45 | [I Got That \(feat\. Beyoncé\) \- Explicit Album Version](https://open.spotify.com/track/1BONIRNVivu1sOD9xYxPhr) | [Amil](https://open.spotify.com/artist/6NzM38IkXdbQsQ4qW9CG7z), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [All Money Is Legal](https://open.spotify.com/album/4isanca8rAOurYRLPvKwnS) | 3:17 |
 | 46 | [Love Is Blind](https://open.spotify.com/track/0H2jfzzREOr9MF95HB7ry6) | [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Let There Be Eve...Ruff Ryders' First Lady](https://open.spotify.com/album/4DcAYtMoE3O9B8uKrsExqE) | 4:20 |
-| 47 | [Cold Rock a Party \(feat\. Missy Misdemeanor Elliott\) \- Bad Boy Remix](https://open.spotify.com/track/0hfNQm7gmjbIFlKiHoiACx) | [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Bad Boy](https://open.spotify.com/artist/30YAm5k11pWaOvbHcNhi08) | [Bad As I Wanna B](https://open.spotify.com/album/1E3ssiuLLWw9OqRYQ59UjK) | 4:37 |
+| 47 | [True Honey Buns \(Dat Freak Shit\)](https://open.spotify.com/track/5zhA0hcJGQmiFkGtx19eOT) | [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Kollage](https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA) | 3:41 |
 | 48 | [Da Baddest Bitch](https://open.spotify.com/track/1rBittbf1aWwzeW28dI7Lv) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn) | [Da Baddest Bitch](https://open.spotify.com/album/5tXpmutwVnXITJLptIssVU) | 3:15 |
-| 49 | [True Honey Buns \(Dat Freak Shit\)](https://open.spotify.com/track/5zhA0hcJGQmiFkGtx19eOT) | [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Kollage](https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA) | 3:41 |
+| 49 | [Cold Rock a Party \(feat\. Missy Misdemeanor Elliott\) \- Bad Boy Remix](https://open.spotify.com/track/0hfNQm7gmjbIFlKiHoiACx) | [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Bad Boy](https://open.spotify.com/artist/30YAm5k11pWaOvbHcNhi08) | [Bad As I Wanna B](https://open.spotify.com/album/1E3ssiuLLWw9OqRYQ59UjK) | 4:37 |
 | 50 | [Where Dem Dollas At \(feat\. DJ Paul & Juicy J\)](https://open.spotify.com/track/7foHBs2UUa9YX4UWQlOfiC) | [Gangsta Boo](https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP), [DJ Paul](https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Enquiring Minds](https://open.spotify.com/album/5NO9yCV2HynW4xBxIKrEYp) | 4:29 |
 
-Snapshot ID: `MTYzNjc3ODg1MCwwMDAwMDAwMGFiYjNjZjQ5ODA3ZTU3NDlmYTQ5MjdmOWExM2U4ZTk3`
+Snapshot ID: `MTYzNjc3ODg1MCwwMDAwMDAwMDQ2YmU2NGY1OTViMGJhYjA2YTVmNjIzYmQ0M2QyOTE3`

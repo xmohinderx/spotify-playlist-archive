@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCk4v3ohhHQ.md) - [plain]
 
 > The essential pop rock songs from the 2010s\. Cover: Coldplay.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,973 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,156 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCk4v3ohhHQ.md) - [plain]
 | 40 | [Not Over You](https://open.spotify.com/track/6j7hih15xG2cdYwIJnQXsq) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Sweeter](https://open.spotify.com/album/2zVRgW8bXd7ukXRZSWw81j) | 3:38 |
 | 41 | [Stronger \(What Doesn't Kill You\)](https://open.spotify.com/track/6D60klaHqbCl9ySc8VcRss) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Stronger \(Deluxe Version\)](https://open.spotify.com/album/1MNvMtEmMMdBXZBDcFNcWj) | 3:41 |
 | 42 | [I'm Born To Run](https://open.spotify.com/track/6zDs6zI94L761vd0cVScTT) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [What We Live For](https://open.spotify.com/album/1av32Pkx9yoZYU250F34zW) | 3:26 |
-| 43 | [Shot At The Night](https://open.spotify.com/track/2aZ2Co4NeQRsqWcU930zHT) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Direct Hits](https://open.spotify.com/album/3T5bbO2BOnnjun6jKhJdjV) | 4:02 |
-| 44 | [When We Stand Together](https://open.spotify.com/track/4bCOAuhvjsxbVBM5MM8oik) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Here and Now \(Audio Only Version\)](https://open.spotify.com/album/2gMWwDIxxGIiblnv1pQHyd) | 3:10 |
+| 43 | [When We Stand Together](https://open.spotify.com/track/4bCOAuhvjsxbVBM5MM8oik) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Here and Now \(Audio Only Version\)](https://open.spotify.com/album/2gMWwDIxxGIiblnv1pQHyd) | 3:10 |
+| 44 | [Shot At The Night](https://open.spotify.com/track/2aZ2Co4NeQRsqWcU930zHT) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Direct Hits](https://open.spotify.com/album/3T5bbO2BOnnjun6jKhJdjV) | 4:02 |
 | 45 | [Say Amen \(Saturday Night\)](https://open.spotify.com/track/76vMKwFtdDDCLcM6zXybjB) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:09 |
 | 46 | [Love Runs Out](https://open.spotify.com/track/5BJSZocnCeSNeYMj3iVqM7) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF) | 3:44 |
 | 47 | [Angel](https://open.spotify.com/track/2qJkesdHu9sMMVFgkRkqhQ) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Savages](https://open.spotify.com/album/6SfhyLVugAsXYDvs966WBn) | 3:22 |
@@ -63,17 +63,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCk4v3ohhHQ.md) - [plain]
 | 53 | [For the First Time](https://open.spotify.com/track/09ZcYBGFX16X8GMDrvqQwt) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Science & Faith](https://open.spotify.com/album/2oc73A20I1FTQiWGCkLeVP) | 4:12 |
 | 54 | [Without You](https://open.spotify.com/track/6R6ux6KaKrhAg2EIB2krdU) | [Parachute](https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e) | [Wide Awake](https://open.spotify.com/album/7h5LfM6tT7v8L2gTyL3Bbz) | 3:48 |
 | 55 | [Wherever I Go](https://open.spotify.com/track/7kftK4n15rl1wbpfjSq2Tk) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 2:49 |
-| 56 | [Go Big Or Go Home](https://open.spotify.com/track/1obisQNOcikRvTdStbW3pG) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [What We Live For](https://open.spotify.com/album/1av32Pkx9yoZYU250F34zW) | 2:49 |
-| 57 | [Cecilia And The Satellite](https://open.spotify.com/track/1MSM3Fo2fvnwVqMcz8Jhjq) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Andrew McMahon In The Wilderness](https://open.spotify.com/album/4IVdl0FxI7cpwyLh8JWOdG) | 3:43 |
+| 56 | [Cecilia And The Satellite](https://open.spotify.com/track/1MSM3Fo2fvnwVqMcz8Jhjq) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Andrew McMahon In The Wilderness](https://open.spotify.com/album/4IVdl0FxI7cpwyLh8JWOdG) | 3:43 |
+| 57 | [Go Big Or Go Home](https://open.spotify.com/track/1obisQNOcikRvTdStbW3pG) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [What We Live For](https://open.spotify.com/album/1av32Pkx9yoZYU250F34zW) | 2:49 |
 | 58 | [Carry On](https://open.spotify.com/track/7gpy7sfWPNuOKmUNs3XQYE) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Some Nights](https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo) | 4:38 |
 | 59 | [Speeding Cars](https://open.spotify.com/track/4wLvmlgcHW5ZkNERDIDv5H) | [Walking On Cars](https://open.spotify.com/artist/632WMoQfBWk76kBz7vMXNg) | [Everything This Way](https://open.spotify.com/album/6wycCzrlJHKrooOq3Dzzj3) | 4:02 |
 | 60 | [Kids](https://open.spotify.com/track/5mQNY6pTeSDl2doFB7uLbE) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 3:58 |
 | 61 | [Work This Body](https://open.spotify.com/track/76EeScTnI2sCjDY0SfEoSb) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [TALKING IS HARD](https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT) | 2:55 |
 | 62 | [Never Going Back](https://open.spotify.com/track/5k02Wjsu2MdpF3c9VFQD0k) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [ATLAS](https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz) | 3:17 |
 | 63 | [The Last Of The Real Ones](https://open.spotify.com/track/1f6xYh2HSx8ttCjl4Pckep) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [MANIA](https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG) | 3:50 |
-| 64 | [Pocket Full Of Gold](https://open.spotify.com/track/4KSQ9el0QgTKKie5oCtKLe) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [What We Live For](https://open.spotify.com/album/1av32Pkx9yoZYU250F34zW) | 3:00 |
-| 65 | [The Last Time](https://open.spotify.com/track/600oiqLkQIJ85HvQGIQWvO) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Sunsets & Full Moons](https://open.spotify.com/album/4BSDAmxxjYJnePMfh8kSJM) | 3:16 |
-| 66 | [The Wire](https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone](https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf) | 4:05 |
+| 64 | [The Last Time](https://open.spotify.com/track/600oiqLkQIJ85HvQGIQWvO) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Sunsets & Full Moons](https://open.spotify.com/album/4BSDAmxxjYJnePMfh8kSJM) | 3:16 |
+| 65 | [The Wire](https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone](https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf) | 4:05 |
+| 66 | [Pocket Full Of Gold](https://open.spotify.com/track/4KSQ9el0QgTKKie5oCtKLe) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [What We Live For](https://open.spotify.com/album/1av32Pkx9yoZYU250F34zW) | 3:00 |
 | 67 | [Calling All Angels](https://open.spotify.com/track/0E29BKKGCJHcb7b9oIWgGB) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [My Private Nation](https://open.spotify.com/album/3gQ2rh7TxfCgpfj40Eo8D1) | 4:02 |
 | 68 | [Money Run Low](https://open.spotify.com/track/3LhGRE7ZNOEZhrqazWMYRI) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [ATLAS \(Deluxe\)](https://open.spotify.com/album/2estDSavGQ2q3IHLbzxkSE) | 3:05 |
 | 69 | [Forever And Always](https://open.spotify.com/track/3NCg46FWgnANZc9HQHQOQR) | [Parachute](https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e) | [The Way It Was](https://open.spotify.com/album/7drIw3eAGaFbqjAQe9EMYF) | 4:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCk4v3ohhHQ.md) - [plain]
 | 99 | [Out Of My Mind](https://open.spotify.com/track/2foU3yN5SE5IUasPTs91YV) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Wonderful Wonderful](https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi) | 3:43 |
 | 100 | [Shine A Light](https://open.spotify.com/track/3ScCe5tFbRmWdiOdzmaFzr) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Shine A Light](https://open.spotify.com/album/5Y3mOR1wCRhEhUmncrlLOO) | 3:26 |
 
-Snapshot ID: `MTY1MzQyMjIwMywwMDAwMDAwMDIyNWE5ZGY1NzgyZjRhMzlmNjU0MzJiZmEyMTg1ODNi`
+Snapshot ID: `MTY1MzQyMjIwMywwMDAwMDAwMGE1ZmI4ZDFhMTg4MTc5MWMxNWM3NjJjMDBlNjE4MWFh`

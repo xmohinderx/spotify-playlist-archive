@@ -4,7 +4,7 @@
 
 > The official playlist for MO\. Watch now on Netflix!
 
-39 songs - 2 hr 18 min - not published yet
+39 songs - 2 hr 18 min - [published](https://open.spotify.com/playlist/1f4S79Lov5epDz7pHsaAok)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

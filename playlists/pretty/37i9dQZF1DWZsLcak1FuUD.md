@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsLcak1FuUD.md) - [plain]
 
 > Fue durante los '70 que el Rock se manifestó como un gigante a nivel mundial\. Argentina no fue la excepción\.  Foto: <a href="spotify:artist:10vtHOCA3qPLmrGylgO2F1">Manal</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,482 likes - 55 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,488 likes - 55 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsLcak1FuUD.md) - [plain]
 | 23 | [Plegaria para un Niño Dormido](https://open.spotify.com/track/3FKbpQhczilHZD5LJOqSdR) | [Almendra](https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo) | [El 1er Álbum Más los Singles](https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp) | 4:03 |
 | 24 | [Confesiones de Invierno](https://open.spotify.com/track/47im9FzRfqAS2KYvw3NhSw) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Confesiones De Invierno](https://open.spotify.com/album/01SHGcb4X59QOezJ2MhqJx) | 4:05 |
 | 25 | [Libros Sapienciales](https://open.spotify.com/track/5SS4Eu297wAFbXjpuagLe3) | [Vox Dei](https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR) | [La Biblia](https://open.spotify.com/album/5rTDeb1l0Mj4vNDKfvCRd6) | 7:34 |
-| 26 | [El Oso](https://open.spotify.com/track/42WA51ZqDPtp4ZhJj2ngAB) | [Moris](https://open.spotify.com/artist/6nDtQCSWqly8rUM8s0JZa5) | [Treinta Minutos de Vida](https://open.spotify.com/album/68sHSdp4YABOmihgZ3ATNT) | 2:54 |
+| 26 | [Canto, desde el fondo de las ruinas](https://open.spotify.com/track/0bVpPI7PzrScltqKCm5DKp) | [Aquelarre](https://open.spotify.com/artist/3cG8AMyTTUk3Y6LIqyjOxc) | [Aquelarre](https://open.spotify.com/album/21k9Lf53dN3pCJ8JZsk81p) | 4:00 |
 | 27 | [Las Habladurias del Mundo](https://open.spotify.com/track/5K6fJf9l8WTsscngGert0b) | [Pescado Rabioso](https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9) | [Artaud](https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA) | 4:03 |
-| 28 | [Canto, desde el fondo de las ruinas](https://open.spotify.com/track/0bVpPI7PzrScltqKCm5DKp) | [Aquelarre](https://open.spotify.com/artist/3cG8AMyTTUk3Y6LIqyjOxc) | [Aquelarre](https://open.spotify.com/album/21k9Lf53dN3pCJ8JZsk81p) | 4:00 |
+| 28 | [El Oso](https://open.spotify.com/track/42WA51ZqDPtp4ZhJj2ngAB) | [Moris](https://open.spotify.com/artist/6nDtQCSWqly8rUM8s0JZa5) | [Treinta Minutos de Vida](https://open.spotify.com/album/68sHSdp4YABOmihgZ3ATNT) | 2:54 |
 | 29 | [En el país de la libertad](https://open.spotify.com/track/1oiMVZp0WcRmsxdfHdoRwb) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [León Gieco](https://open.spotify.com/album/61O3RcbSiFklK1N9SC5LCd) | 3:13 |
 | 30 | [Sueltate Rock And Roll](https://open.spotify.com/track/1HbLdtZvbp8JRVAJhlktfK) | [Polifemo](https://open.spotify.com/artist/5kt7SkycNsq8vbKoFb3QxO) | [Serie De Oro](https://open.spotify.com/album/0K5znMCZ80jQtl2zqMCoyE) | 3:33 |
 | 31 | [Casa Con Diez Pinos](https://open.spotify.com/track/2Ras7UcXvzenVmkyVMibdh) | [Manal](https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1) | [Manal](https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C) | 4:14 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsLcak1FuUD.md) - [plain]
 | 54 | [La Casa De La Mente](https://open.spotify.com/track/4o4LVmNCWYAisLF8j9yc69) | [Espiritu](https://open.spotify.com/artist/5QH5oyyvZkvgzAiENV3tph) | [Crisálida](https://open.spotify.com/album/373aJj6wGlb49JD46Qhh7Q) | 6:55 |
 | 55 | [Vamos a Buscar la Luz](https://open.spotify.com/track/3olst9SIdO6I9lhYa6HyYQ) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [40 Obras Fundamentales](https://open.spotify.com/album/3hopYMyIaBFZTU5Fvt91NF) | 3:51 |
 
-Snapshot ID: `MTU4MjczNDMyMiwwMDAwMDAwMGVkYzg5YjgzYzM5OWYyZjNhYjM3Y2Y2NDBmNmFhMDky`
+Snapshot ID: `MTU4MjczNDMyMiwwMDAwMDAwMDc5NTg3YzQzZWUwOWU2NzZjYmM5MTAzNGI2OGJmZjhh`

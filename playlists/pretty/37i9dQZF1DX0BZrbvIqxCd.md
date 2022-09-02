@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 
 > A mix of punk rock to get you through your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,350 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,358 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,15 +41,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 31 | [Fuck Authority](https://open.spotify.com/track/3Id64dLhfH7z0mmcylxuNp) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Land Of The Free?](https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly) | 3:16 |
 | 32 | [American Jesus](https://open.spotify.com/track/5TZn3LQSWwVPnBlPgFKb54) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Recipe For Hate](https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l) | 3:17 |
 | 33 | [All My Friends Are Nobodies](https://open.spotify.com/track/3xhvI8X8PGCKuKd49ZyFNJ) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders \(Deluxe Edition\)](https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h) | 3:03 |
-| 34 | [I Fought the Law](https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 2:43 |
-| 35 | [Lights And Sounds](https://open.spotify.com/track/4XOZaPYeMn9hcbpyS90NnD) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Lights And Sounds](https://open.spotify.com/album/5EaEOUs3O1MZRicDMUIuqo) | 3:28 |
+| 34 | [Lights And Sounds](https://open.spotify.com/track/4XOZaPYeMn9hcbpyS90NnD) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Lights And Sounds](https://open.spotify.com/album/5EaEOUs3O1MZRicDMUIuqo) | 3:28 |
+| 35 | [I Fought the Law](https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 2:43 |
 | 36 | [The Hell Song](https://open.spotify.com/track/17XgxMFNzBYv38TEJRC18D) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/2kLmv0O8blKeM5HKxLtQrC) | 3:18 |
 | 37 | [She's Kerosene](https://open.spotify.com/track/60FJeNTK5edr72G2xtCWuP) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Fight the Good Fight](https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL) | 2:50 |
 | 38 | [Chip](https://open.spotify.com/track/10UlU5E5RfydywnKmA1nFL) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Off the Leash](https://open.spotify.com/album/2lm8NrhAtM2ez61pI92J3l) | 3:14 |
 | 39 | [Bro Hymn \- 2005 Remaster](https://open.spotify.com/track/1ybhXkz4S8k9fdBZNBan7L) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Pennywise \(2005 Remaster\)](https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt) | 3:00 |
 | 40 | [Coffee Talk](https://open.spotify.com/track/7wXays9vrRN3i4wBpBYb2d) | [Broadside](https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo) | [Old Bones](https://open.spotify.com/album/56SkNHaKkz6DlQygFvbEWV) | 2:54 |
-| 41 | [I Wanna Be Sedated \- 2002 Remaster](https://open.spotify.com/track/6vvmYYUvGXtZLU8msxKvzF) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Road to Ruin \(Expanded 2005 Remaster\)](https://open.spotify.com/album/5QK35ea0XnSBt6Ly8gWLhE) | 2:29 |
-| 42 | [Ghost in My Home](https://open.spotify.com/track/0bjwkqQ0lZSIes3IW7Aeq8) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Ghost in My Home](https://open.spotify.com/album/1gfShNUI5uB4qR2MRQJIGu) | 3:20 |
+| 41 | [Ghost in My Home](https://open.spotify.com/track/0bjwkqQ0lZSIes3IW7Aeq8) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Ghost in My Home](https://open.spotify.com/album/1gfShNUI5uB4qR2MRQJIGu) | 3:20 |
+| 42 | [I Wanna Be Sedated \- 2002 Remaster](https://open.spotify.com/track/6vvmYYUvGXtZLU8msxKvzF) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Road to Ruin \(Expanded 2005 Remaster\)](https://open.spotify.com/album/5QK35ea0XnSBt6Ly8gWLhE) | 2:29 |
 | 43 | [The Afterglow](https://open.spotify.com/track/4VKN3lBovrmKK7nWP4xknO) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Dead Reflection](https://open.spotify.com/album/7EAVX7J3DRvhbMiKjgtgvB) | 3:08 |
 | 44 | [Rose Tattoo](https://open.spotify.com/track/4bLKGUkVRxIyrN1770DdDm) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [SIGNED and SEALED in BLOOD](https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ) | 5:06 |
 | 45 | [deathwish \(feat\. nothing,nowhere.\)](https://open.spotify.com/track/4pi7qRGw2DDKAJMGHGcZ2O) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [deathwish \(feat\. nothing,nowhere.\)](https://open.spotify.com/album/04tqbIcuZwsGL5Ut22eOKw) | 2:27 |
@@ -83,17 +83,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 73 | [Wild World](https://open.spotify.com/track/0SoeiawkEYUJBtQce99lQd) | [Me First and the Gimme Gimmes](https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5) | [Blow in the Wind](https://open.spotify.com/album/23r629pCYWFwsYCFVoMp8m) | 2:30 |
 | 74 | [Degenerates](https://open.spotify.com/track/77Ht6FFAeyHgKl6X87mnTk) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Degenerates](https://open.spotify.com/album/3G3EHIjrfZAcy6w5zIOggZ) | 3:04 |
 | 75 | [Dead and Gone](https://open.spotify.com/track/0QapunlwO9vnL5X6h4YF18) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Living Proof](https://open.spotify.com/album/1Qb73C8hC76e3R8udyit5I) | 3:11 |
-| 76 | [Get By](https://open.spotify.com/track/1rBlsNeQ1IgT3L4xdUSNY3) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Composure](https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX) | 3:32 |
-| 77 | [Strange Love](https://open.spotify.com/track/1y9AS8gXPuF8sn3K6Awbyb) | [Simple Creatures](https://open.spotify.com/artist/4svozL97Y6aqWeZNJPqvsL) | [Strange Love](https://open.spotify.com/album/1j6QSpMFpwtR9SEZvGgR4L) | 2:31 |
+| 76 | [Strange Love](https://open.spotify.com/track/1y9AS8gXPuF8sn3K6Awbyb) | [Simple Creatures](https://open.spotify.com/artist/4svozL97Y6aqWeZNJPqvsL) | [Strange Love](https://open.spotify.com/album/1j6QSpMFpwtR9SEZvGgR4L) | 2:31 |
+| 77 | [Get By](https://open.spotify.com/track/1rBlsNeQ1IgT3L4xdUSNY3) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Composure](https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX) | 3:32 |
 | 78 | [Never Coming Home](https://open.spotify.com/track/0yNBLz1uAyx4FCxkdkQcqf) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Retrograde](https://open.spotify.com/album/6mJvmCxB01yqOeiccLE7QU) | 3:16 |
 | 79 | [Down To Hell](https://open.spotify.com/track/3qKSl5qLMN1iBkUMmu32yX) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Like A House On Fire](https://open.spotify.com/album/5VKKXDvYuJmRc2UQHCwNQK) | 3:16 |
 | 80 | [Drown In My Mind](https://open.spotify.com/track/7w0gu9n8vp3sE0xZFCxcFu) | [Story Untold](https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z) | [Waves](https://open.spotify.com/album/7B48nfbRi9Ar1ukAXx5UJD) | 3:00 |
 | 81 | [Mindreader](https://open.spotify.com/track/2hVKFfp7Rmr2XPK31jFCrX) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Mindreader](https://open.spotify.com/album/0jbugiJKa2cibYeQktz5MQ) | 2:53 |
 | 82 | [We’re Not Alright](https://open.spotify.com/track/3CPm8pViOWEUtCTI4qrWGu) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders \(Deluxe Edition\)](https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h) | 2:55 |
-| 83 | [One in a Million](https://open.spotify.com/track/4MpXaXYhkGMw4gt3ZlS7sQ) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Afterburner](https://open.spotify.com/album/7MfryRchXoNRwG5YbbDL1S) | 3:41 |
-| 84 | [Happy Judgement Day](https://open.spotify.com/track/4GHW4tzEf6OBIoyewdBnZX) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The Panic](https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3) | 3:33 |
-| 85 | [Hotel Beds](https://open.spotify.com/track/4HvBQhvil6T5ISq1qr5u03) | [We Were Sharks](https://open.spotify.com/artist/5VJPxda81cx3ZGltjWM36I) | [Lost Touch](https://open.spotify.com/album/768qzd6dkobekdNcDtw8np) | 2:34 |
-| 86 | [Me First](https://open.spotify.com/track/72yApMP8fkW15lWdMjerBp) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Composure](https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX) | 3:13 |
+| 83 | [Me First](https://open.spotify.com/track/72yApMP8fkW15lWdMjerBp) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Composure](https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX) | 3:13 |
+| 84 | [One in a Million](https://open.spotify.com/track/4MpXaXYhkGMw4gt3ZlS7sQ) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Afterburner](https://open.spotify.com/album/7MfryRchXoNRwG5YbbDL1S) | 3:41 |
+| 85 | [Happy Judgement Day](https://open.spotify.com/track/4GHW4tzEf6OBIoyewdBnZX) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The Panic](https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3) | 3:33 |
+| 86 | [Hotel Beds](https://open.spotify.com/track/4HvBQhvil6T5ISq1qr5u03) | [We Were Sharks](https://open.spotify.com/artist/5VJPxda81cx3ZGltjWM36I) | [Lost Touch](https://open.spotify.com/album/768qzd6dkobekdNcDtw8np) | 2:34 |
 | 87 | [So Poetic](https://open.spotify.com/track/731SSWCEANBXRq1KqDuQGE) | [Sundressed](https://open.spotify.com/artist/0KlYEaj5sigNA1iixOstiH) | [Sundressed & Nominee](https://open.spotify.com/album/1UrqgK31uHFp35o2spqTgE) | 3:07 |
 | 88 | [Kids](https://open.spotify.com/track/6Dgix2xCbnqigfrjulm24R) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Morbid Stuff](https://open.spotify.com/album/504XSXhUJlzztcMV4YMaDV) | 3:30 |
 | 89 | [Playing Fiction](https://open.spotify.com/track/2aG7MPedIAt6k66Q2BBaHT) | [ROAM](https://open.spotify.com/artist/0q74f5UdR3j14Lis4AKKxq) | [Great Heights & Nosedives](https://open.spotify.com/album/37i1BfSo4FQMHtR7zzQpBx) | 2:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 99 | [Man Overboard](https://open.spotify.com/track/72iJsJMdTGjshAZdNJbSKU) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Greatest Hits](https://open.spotify.com/album/31mnNcl6CzIcX8j9n75vYZ) | 2:46 |
 | 100 | [Want Me Around](https://open.spotify.com/track/1hWlZxzZWiXRkQy7ywSAmh) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Shapeshifter](https://open.spotify.com/album/1ljgNdyFCcnQxAbzejZrax) | 3:31 |
 
-Snapshot ID: `MTY0Mzc1NTQxMSwwMDAwMDAwMDU5MTIxODJkYzJiYjBhZGI5ODNlMWFjZDNkM2ExODNj`
+Snapshot ID: `MTY0Mzc1NTQxMSwwMDAwMDAwMGIzNzY5YWQ0MzA1NjczNzcxYmQ1Y2Y3ODI5NjVmNzFj`

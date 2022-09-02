@@ -4,7 +4,7 @@
 
 > The sweet sounds of Algeria.
 
-79 songs - 4 hr 45 min - [published](https://open.spotify.com/playlist/3fsBErBFxBgQOhLwfmS0nf)
+81 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/3fsBErBFxBgQOhLwfmS0nf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,8 @@
 | [Adieu c'est fini](https://open.spotify.com/track/0dKRDmt9mpBhmhWsp1dpxU) | [Obeidmusic](https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks), [Sofiane DMC](https://open.spotify.com/artist/77FoOrCfbaUzz92uI8U71u) | [Adieu c'est fini](https://open.spotify.com/album/4cWQhb83fr3KYK0sg99e3Q) | 6:32 | 2022-05-26 | 2022-08-20 |
 | [Amazone](https://open.spotify.com/track/2MYKMHhMFIlmYKn05C9cV2) | [Kafon](https://open.spotify.com/artist/1g7CL458gLNv8UY3W2IFBw), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Amazone](https://open.spotify.com/album/42rj17QXfTKr8YjAhUKZ28) | 3:20 | 2021-12-09 |  |
 | [Ana & Rasi](https://open.spotify.com/track/5lEg43432gVU8BzwIJULVO) | [Islem\-23](https://open.spotify.com/artist/4fdscmamdruNB8lZ1nWrTd) | [Ana & Rasi](https://open.spotify.com/album/7F94Bil1ZSQviELlNzBtty) | 3:27 | 2021-12-09 | 2022-05-27 |
+| [Anta](https://open.spotify.com/track/3SaJambg6zRQ6MWf2pOAC9) | [Rima Yussef](https://open.spotify.com/artist/44AnhJxSH9AE3b6KpO5rZl), [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7) | [Anta](https://open.spotify.com/album/4vPYDw5xJNhJwqFDDJXyfY) | 2:43 | 2022-09-01 |  |
+| [Arghane Manine](https://open.spotify.com/track/1WiTAUE8gMPKRTuE4zt4vc) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Arghane Manine](https://open.spotify.com/album/6x5dQHzmvNohax3P2kqLHP) | 5:00 | 2022-09-01 |  |
 | [Babour Ellouh \- Waves Edit](https://open.spotify.com/track/4yTsqKht7TgflJTNAhEtm9) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Babour Ellouh \(Waves Edit\)](https://open.spotify.com/album/1rpR2Xk0gSPO48EuRFzbaA) | 3:09 | 2022-04-21 |  |
 | [Baby Baby](https://open.spotify.com/track/0xgP0lR6VpAl4ruqu6bE45) | [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW) | [Baby Baby](https://open.spotify.com/album/59ilTq126YceY3mWtoTcbg) | 3:30 | 2021-12-09 |  |
 | [Balak](https://open.spotify.com/track/0WQqJD52PqOmSVtEYiX4NC) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Balak](https://open.spotify.com/album/58TtNp2W6dXurKZd23H0nL) | 3:47 | 2021-12-09 |  |
@@ -56,7 +58,7 @@
 | [Mazalni](https://open.spotify.com/track/4Mi1B4Sc3u5zkLaEB7PETp) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Mazalni](https://open.spotify.com/album/2be1DLBmI7MFfY4Gm92i77) | 4:20 | 2022-07-27 |  |
 | [Mazalni Kima Bakri](https://open.spotify.com/track/4qnmWklH3MwTy41kDCbex9) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Mazalni Kima Bakri](https://open.spotify.com/album/539HX5WN2FIVRu6dguBtyg) | 3:44 | 2021-12-09 |  |
 | [Moujat El Babour](https://open.spotify.com/track/5bFAK2BB8tKl9GDtA74AJy) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Chemsou Freeklane](https://open.spotify.com/artist/3wggOQ992VWtMCrs7ro14h) | [Moujat El Babour](https://open.spotify.com/album/4EWXSX7uIJtZfOkEXeiPvi) | 3:30 | 2021-12-09 | 2022-01-28 |
-| [My Love](https://open.spotify.com/track/7xE1TaILTJl91YvQdVB54i) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX), [Sidney Samson](https://open.spotify.com/artist/3XonXgjEAAXVl0WKLF1Z4g) | [Cheb Khaled](https://open.spotify.com/album/07qAVChyoX0i1O5L5dv7GJ) | 4:02 | 2022-08-19 |  |
+| [My Love](https://open.spotify.com/track/7xE1TaILTJl91YvQdVB54i) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX), [Sidney Samson](https://open.spotify.com/artist/3XonXgjEAAXVl0WKLF1Z4g) | [Cheb Khaled](https://open.spotify.com/album/07qAVChyoX0i1O5L5dv7GJ) | 4:02 | 2022-08-19 | 2022-09-02 |
 | [Nad El Borkan](https://open.spotify.com/track/3sphBPmMtnnJTLn49xYiT3) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Nad El Borkan](https://open.spotify.com/album/4QEMiHrd1yH0mTJEOJEpeU) | 4:16 | 2022-02-28 |  |
 | [Nar El Hob](https://open.spotify.com/track/5nL8YdzlpRDrX5ge6YYC2b) | [Amine Babylone](https://open.spotify.com/artist/2Dxc5IVSmvyXjR6sidLPT3) | [Nar El Hob](https://open.spotify.com/album/5YJ4dtTJ2s71lB5yctLPY5) | 3:26 | 2022-05-04 | 2022-08-20 |
 | [Nawaya \(feat\. Didine Canon 16 & Raïna Raï\)](https://open.spotify.com/track/47XfHZC83cqjSJP3Cu1T4u) | [Anas](https://open.spotify.com/artist/3jrZXTzqSuTBdfJeoSts1n), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Raïna Raï](https://open.spotify.com/artist/10EPr7TNgCwIWDgk9xvqzH) | [Nawaya \(feat\. Didine Canon 16 & Raïna Raï\)](https://open.spotify.com/album/1BKiOLvxoLiEk0qhofpMQU) | 3:14 | 2022-07-13 |  |

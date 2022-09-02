@@ -4,7 +4,7 @@
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。毎週月曜日更新。Cover: yama
 
-435 songs - 1 day 3 hr 14 min - [published](https://open.spotify.com/playlist/2sQ5Fh8iNKxcYtrG1CztwE)
+437 songs - 1 day 3 hr 20 min - [published](https://open.spotify.com/playlist/2sQ5Fh8iNKxcYtrG1CztwE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,8 @@
 | [kabin](https://open.spotify.com/track/4jUywzQdvP3CJjJ4BfeDif) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [NEW BORN GHOST](https://open.spotify.com/album/0iRuZp1ClTJ1HIKPihHv8s) | 3:27 | 2022-07-25 | 2022-08-01 |
 | [Landscape](https://open.spotify.com/track/1cvluyKT1Iw1NZGGUgQ8u4) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Landscape](https://open.spotify.com/album/1MwodpSl0YAbklUKWwqitl) | 3:51 | 2022-01-02 | 2022-01-24 |
 | [Le Penseur](https://open.spotify.com/track/0FTuYACjywpTTY5IyEJKv5) | [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ) | [Le Penseur](https://open.spotify.com/album/4fqkW8OxKluaCiDPmVSDbB) | 2:50 | 2022-01-02 | 2022-01-15 |
-| [Let Me Let You Go \- Japanese Version](https://open.spotify.com/track/4kvYYgoKbVblOo7lPfJWf2) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Let Me Let You Go](https://open.spotify.com/album/4DSQT7lIc5Unlz6LoyBPzI) | 3:00 | 2022-08-29 |  |
+| [Let Me Let You Go](https://open.spotify.com/track/5CgkbROq94tTSnXnrfvtGH) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Let Me Let You Go](https://open.spotify.com/album/4DSQT7lIc5Unlz6LoyBPzI) | 3:00 | 2022-09-01 |  |
+| [Let Me Let You Go \- Japanese Version](https://open.spotify.com/track/4kvYYgoKbVblOo7lPfJWf2) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Let Me Let You Go](https://open.spotify.com/album/4DSQT7lIc5Unlz6LoyBPzI) | 3:00 | 2022-08-29 | 2022-09-02 |
 | [Life still goes on](https://open.spotify.com/track/6gtvI5tGM2H4jpg5kNvULL) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [Life still goes on](https://open.spotify.com/album/1s10852zhLGEoWZCFAU7Jl) | 3:27 | 2022-01-16 | 2022-02-14 |
 | [Link Up](https://open.spotify.com/track/08fh3LXCZvDV6jgGwC2Usf) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [Queendom](https://open.spotify.com/album/4jj5K8UuV6fBOHj4nOCOON) | 3:44 | 2022-04-06 | 2022-04-25 |
 | [Live in the Moment](https://open.spotify.com/track/0191FF9MiuL3tYETgZp3hq) | [MORISAKI WIN](https://open.spotify.com/artist/289Ot2yPeAD9g1epQ6NBwi) | [Live in the Moment](https://open.spotify.com/album/3PUeayunw146ZQ70afPmhw) | 3:00 | 2022-03-06 | 2022-04-04 |
@@ -127,7 +128,7 @@
 | [MoonWalker](https://open.spotify.com/track/4ELSoW5BZzs7rV8ac0Cpit) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [MoonWalker](https://open.spotify.com/album/088QzeGKVNk68ebMWTeL9q) | 3:34 | 2022-03-21 | 2022-06-28 |
 | [Mystery Train \- feat\. Wez Atlas](https://open.spotify.com/track/0v2zPLhc7ZROOxz1uOQjps) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5), [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [Mystery Train \(feat\. Wez Atlas\)](https://open.spotify.com/album/19pg8oyWhvQ9ILkHML1Uo4) | 3:41 | 2022-06-26 | 2022-07-11 |
 | [NIGHT DANCER](https://open.spotify.com/track/348NF6vX0Yh22xvH0EZEro) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [NIGHT DANCER](https://open.spotify.com/album/0qbkekB04QYsLqCX68e8Oy) | 3:30 | 2022-08-21 |  |
-| [Night Rider](https://open.spotify.com/track/0FnJ2EWTyl7QUQcDEbpN16) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [Boyhood](https://open.spotify.com/album/6yhxG10zFkBXMIRfvveRE6) | 3:19 | 2022-08-07 |  |
+| [Night Rider](https://open.spotify.com/track/0FnJ2EWTyl7QUQcDEbpN16) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [Boyhood](https://open.spotify.com/album/6yhxG10zFkBXMIRfvveRE6) | 3:19 | 2022-08-07 | 2022-09-02 |
 | [Night Session](https://open.spotify.com/track/2Ne03AM5kPOFEi5HKjRrmi) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [80KIDZ](https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D) | [Night Session](https://open.spotify.com/album/1h14fgwVDelTabJJkPlWTn) | 2:29 | 2022-07-03 | 2022-07-11 |
 | [NINGEN GOKKO](https://open.spotify.com/track/21ACvBsQXpDd3bZCpOwnL8) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [NINGEN GOKKO](https://open.spotify.com/album/4aaTetFOkMr99jizvjIjw0) | 4:17 | 2022-07-25 |  |
 | [No Reason](https://open.spotify.com/track/6Dq2fIAmA3rImJBRScwUzm) | [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [Qunimune](https://open.spotify.com/artist/11D2T8IG1udblzEmxwj0js) | [No Reason](https://open.spotify.com/album/0PWlRTLOpGy1IiYvF1dnG2) | 4:18 | 2022-03-21 | 2022-03-28 |
@@ -392,6 +393,7 @@
 | [桃源郷](https://open.spotify.com/track/3XpV0yCZRizTsCMEIkxZVm) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [桃源郷](https://open.spotify.com/album/6aO1Ot1JoA9TPH73qX7ejE) | 3:48 | 2022-06-26 | 2022-08-01 |
 | [楽園](https://open.spotify.com/track/1uqY0QGoXd6Lj95Igp3h3W) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [楽園](https://open.spotify.com/album/4hhJdBBhzeGtjKqCqSwEPY) | 3:59 | 2022-03-06 | 2022-03-14 |
 | [歓声をさがして](https://open.spotify.com/track/3N6QVzApdGF3xInV7HpxZm) | [My Hair is Bad](https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI) | [歓声をさがして](https://open.spotify.com/album/2rAIEvDcCLxjTG2tMqtuXl) | 3:53 | 2022-04-03 | 2022-05-02 |
+| [死ぬのがいいわ](https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | 3:05 | 2022-09-01 |  |
 | [残影](https://open.spotify.com/track/1GjeY4UCtn7olDWpk1J0bW) | [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q) | [残影](https://open.spotify.com/album/3axoGkjGdoqQL14MuFs8qb) | 4:32 | 2022-08-01 | 2022-08-15 |
 | [残響散歌](https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌](https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6) | 3:04 | 2021-12-19 | 2022-04-18 |
 | [水星 × 今夜はブギー・バック nice vocal](https://open.spotify.com/track/1PvDnTxwVndr7bOrbtI2Zx) | [池田智子 × TENDRE](https://open.spotify.com/artist/3fakwzQVQaFb8QNhRNttmt) | [水星 × 今夜はブギー・バック nice vocal](https://open.spotify.com/album/1mMru6AAyUijyh3vMMjJpk) | 5:01 | 2022-03-13 | 2022-05-02 |

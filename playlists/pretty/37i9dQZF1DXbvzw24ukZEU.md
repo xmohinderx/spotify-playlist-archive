@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvzw24ukZEU.md) - [plain]
 
 > Relax to the the rhythm of these smooth Latin tunes of the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,012 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,069 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvzw24ukZEU.md) - [plain]
 | 6 | [Ya Me Enteré](https://open.spotify.com/track/0lPXFrKyl8HkdQ2E6NmNja) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Des/Amor](https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj) | 3:24 |
 | 7 | [Ella Quiere Beber \- Remix](https://open.spotify.com/track/3f5lA8nnc4YYF1qf78WpHw) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Ella Quiere Beber \(Remix\)](https://open.spotify.com/album/58NQUIHQRJnXyBUeGtG8KG) | 3:39 |
 | 8 | [Criminal](https://open.spotify.com/track/6Za3190Sbw39BBC77WSS1C) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Criminal](https://open.spotify.com/album/0S19ks6TFDHZKEYWFvrRm0) | 3:52 |
-| 9 | [Calma \- Remix](https://open.spotify.com/track/5iwz1NiezX7WWjnCgY5TH4) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Calma \(Remix\)](https://open.spotify.com/album/1tFnP9PwIMeMIuj92mfswZ) | 3:58 |
-| 10 | [Pa Mí \- Remix](https://open.spotify.com/track/7g8YaUQABMal0zWe7a2ijz) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Climaxxx](https://open.spotify.com/album/6stPNzjz40FWTiwlOR98Lp) | 6:00 |
-| 11 | [No Te Hagas](https://open.spotify.com/track/5hKjEpYrJIJs6uPl7zw6Y6) | [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [No Te Hagas](https://open.spotify.com/album/5z6CpoA90Y3xIZC45maoYu) | 3:53 |
+| 9 | [No Te Hagas](https://open.spotify.com/track/5hKjEpYrJIJs6uPl7zw6Y6) | [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [No Te Hagas](https://open.spotify.com/album/5z6CpoA90Y3xIZC45maoYu) | 3:53 |
+| 10 | [Calma \- Remix](https://open.spotify.com/track/5iwz1NiezX7WWjnCgY5TH4) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Calma \(Remix\)](https://open.spotify.com/album/1tFnP9PwIMeMIuj92mfswZ) | 3:58 |
+| 11 | [Pa Mí \- Remix](https://open.spotify.com/track/7g8YaUQABMal0zWe7a2ijz) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Climaxxx](https://open.spotify.com/album/6stPNzjz40FWTiwlOR98Lp) | 6:00 |
 | 12 | [Otra Noche en Miami](https://open.spotify.com/track/4vCAzANUWDE24URV6wQ4ra) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 3:53 |
 | 13 | [Sobredosis \(feat\. Ozuna\)](https://open.spotify.com/track/1WbXIpiGBJkCiv3hn40iPB) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Golden](https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS) | 3:18 |
 | 14 | [Se Preparó](https://open.spotify.com/track/1m69ELEgE6k5ZWsap40ozt) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvzw24ukZEU.md) - [plain]
 | 49 | [Ecos De Amor](https://open.spotify.com/track/3lI5dscCDez8cF6LF3Me7F) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Un Besito Más](https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3) | 3:35 |
 | 50 | [Como Mirarte](https://open.spotify.com/track/0CXEPVeQDLgDBfvcsQpXq1) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [MANTRA](https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN) | 3:48 |
 
-Snapshot ID: `MTY2MTkzMDU4MiwwMDAwMDAwMGRiYjQ2OGVjMTcwZDdlOTg4MDA5YjI1ZjE0NzdjNDhh`
+Snapshot ID: `MTY2MTkzMDU4MiwwMDAwMDAwMDBlN2Q2YWZlYTNmN2YzMmRlODNjN2QzM2I3OTE0ZTBk`

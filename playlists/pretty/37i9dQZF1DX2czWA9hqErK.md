@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 
 > Laid back sounds to see you through your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,293 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,547 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 62 | [For Those Who Can't Be Here](https://open.spotify.com/track/7nrB7gaYNe1x8Kvv7c0Tps) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [For Those Who Can't Be Here](https://open.spotify.com/album/06whzJAwv0hrYW3i2N4TWx) | 3:03 |
 | 63 | [Call Me A Dreamer](https://open.spotify.com/track/5PMp84lVFm0SWEWOx1aQsw) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Call Me A Dreamer](https://open.spotify.com/album/3zKpAuwGhuBpavexvu6ySj) | 3:48 |
 | 64 | [Sad Anymore](https://open.spotify.com/track/6KKQRxk7BVrjjdWbEc9MA6) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Sad Anymore](https://open.spotify.com/album/5wyenYTuawD6OrrXQquyUc) | 2:10 |
-| 65 | [To Love A Man](https://open.spotify.com/track/659179UI47crJGFp0RrCwU) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [To Love A Man](https://open.spotify.com/album/2irkzjkPar5WAwxtoraDRU) | 2:41 |
-| 66 | [Box of Regrets](https://open.spotify.com/track/242BGnQ7Mul1jcRYyyfWko) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [Box of Regrets](https://open.spotify.com/album/5XEfquzJpbKmGMpFfSGk7V) | 3:16 |
-| 67 | [squares](https://open.spotify.com/track/0byJI4UB0ibHxUVz5Fz5Ne) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [squares / y 13](https://open.spotify.com/album/1TszPNUGDtDdfgg1SPDPH6) | 4:27 |
+| 65 | [Box of Regrets](https://open.spotify.com/track/242BGnQ7Mul1jcRYyyfWko) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [Box of Regrets](https://open.spotify.com/album/5XEfquzJpbKmGMpFfSGk7V) | 3:16 |
+| 66 | [To Love A Man](https://open.spotify.com/track/659179UI47crJGFp0RrCwU) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [To Love A Man](https://open.spotify.com/album/2irkzjkPar5WAwxtoraDRU) | 2:41 |
+| 67 | [Shade of Yellow](https://open.spotify.com/track/2vSq4chJ1DUBjHDrU024AO) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot In Front Of The Other](https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA) | 2:36 |
 | 68 | [Everything I Didn’t Say](https://open.spotify.com/track/3g6GXZAgm8lyIcKH91uaoL) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say](https://open.spotify.com/album/7kG8Wp4XlwpnZWWqEHJHz6) | 3:27 |
-| 69 | [Shade of Yellow](https://open.spotify.com/track/2vSq4chJ1DUBjHDrU024AO) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot In Front Of The Other](https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA) | 2:36 |
+| 69 | [squares](https://open.spotify.com/track/0byJI4UB0ibHxUVz5Fz5Ne) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [squares / y 13](https://open.spotify.com/album/1TszPNUGDtDdfgg1SPDPH6) | 4:27 |
 | 70 | [my dear](https://open.spotify.com/track/3P9FzuL9eYOX152OFt4Rni) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [my dear](https://open.spotify.com/album/3jxlj4H0Cu6PGgTtu60baC) | 2:12 |
 | 71 | [Background Music](https://open.spotify.com/track/5PBQsqit9PJ4OS1KWkto3h) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Background Music](https://open.spotify.com/album/3rIQuaqO6tdsgeScpFFumi) | 3:34 |
 | 72 | [Hero](https://open.spotify.com/track/5TMAescvs6Z6FlgQjfj3Vp) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Hero](https://open.spotify.com/album/7pFWRKpjaEFnX0gJSVQMIO) | 3:13 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 75 | [Radio](https://open.spotify.com/track/1tI1UeVe7L9TbNq0JyzvZw) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [She](https://open.spotify.com/album/4g9ow4ZxpF3sqM8VTPFvuq) | 2:54 |
 | 76 | [Alone](https://open.spotify.com/track/3p9IR7R9dVSdxRfkUfWg4n) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Alone](https://open.spotify.com/album/6Me1McNxaYDaiMgdw6hUF4) | 3:25 |
 | 77 | [Jealous](https://open.spotify.com/track/0sEVg9cdJMXgDtcCxEs3zQ) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [The Sweetest Part](https://open.spotify.com/album/3cwz7V6sJUCca7rMR79GO9) | 3:54 |
-| 78 | [Dinner Table](https://open.spotify.com/track/1tB3qub1zWVNQHNBibsEhK) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Dinner Table](https://open.spotify.com/album/3vchonSakoZOHdblX8GZoj) | 3:29 |
-| 79 | [Blink of an Eye](https://open.spotify.com/track/2uyfgIj0vJT3HiLogBQZi6) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Birds That Flew and Ships That Sailed](https://open.spotify.com/album/0LkHp8NkBfr8dwIpklV4U0) | 4:33 |
-| 80 | [A Good Love, Pt\. 2](https://open.spotify.com/track/7I2PEItnKfXLY4JTDYlSGY) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi), [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [A Good Love, Pt\. 2](https://open.spotify.com/album/76CfuswZ7S6qJJSNQY5BPt) | 3:33 |
+| 78 | [Blink of an Eye](https://open.spotify.com/track/2uyfgIj0vJT3HiLogBQZi6) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Birds That Flew and Ships That Sailed](https://open.spotify.com/album/0LkHp8NkBfr8dwIpklV4U0) | 4:33 |
+| 79 | [Dinner Table](https://open.spotify.com/track/1tB3qub1zWVNQHNBibsEhK) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Dinner Table](https://open.spotify.com/album/3vchonSakoZOHdblX8GZoj) | 3:29 |
+| 80 | [Will We Ever Get This Right](https://open.spotify.com/track/7Ck7GSPoBIDwNwcas05Sz1) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Will We Ever Get This Right](https://open.spotify.com/album/7Lh2dKTPYPxdNjxjTn91tZ) | 2:41 |
 
-Snapshot ID: `MTY1OTQ1NzIxNiwwMDAwMDAwMGViZjFlYWYxZDYzMWZmMjc3YmFmYzEwOTk5ZGEyODgw`
+Snapshot ID: `MTY1OTQ1NzIxNiwwMDAwMDAwMGZiNGU5Nzk3NTAwMzU3MjEzNWM4ZDFjMDZlNTJiOTJl`

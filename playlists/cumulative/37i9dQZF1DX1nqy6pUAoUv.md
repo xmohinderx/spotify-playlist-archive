@@ -4,7 +4,7 @@
 
 > New music and recent favorites from rising and iconic songsmiths and storytellers\. Cover: Jake Blount
 
-218 songs - 14 hr 21 min - [published](https://open.spotify.com/playlist/79ANrvDhADPfS6kpFqiqNP)
+219 songs - 14 hr 26 min - [published](https://open.spotify.com/playlist/79ANrvDhADPfS6kpFqiqNP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,11 +220,12 @@
 | [Where Did You Sleep Last Night](https://open.spotify.com/track/1vCmZCVNwCKw51Q5S8177Z) | [Jake Blount](https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1) | [Spider Tales](https://open.spotify.com/album/3S2GACXwN1hHxSKHxkGvKb) | 3:56 | 2021-10-13 | 2022-07-29 |
 | [Wild Turkey](https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wild Turkey](https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N) | 4:32 | 2021-10-13 |  |
 | [Wildflowers in the Graveyard](https://open.spotify.com/track/0ucT092kKnv71aS4tO8LEK) | [Amber Rubarth](https://open.spotify.com/artist/3hCsjNTxbes8L05Vy8Dkva) | [Wildflowers in the Graveyard](https://open.spotify.com/album/4e7AgMaSwpEFUgBOw2aBPS) | 3:00 | 2021-10-13 | 2022-07-27 |
-| [Will You](https://open.spotify.com/track/0LFhh32OmXCD8ShloH3j22) | [Vivian Leva](https://open.spotify.com/artist/02eGekE35DrC5E0qH4kh3H), [Riley Calcagno](https://open.spotify.com/artist/2n5rNh7Wb7FFhnijzCPfii) | [Vivian Leva & Riley Calcagno](https://open.spotify.com/album/69z5sIPSLaArbGLFCbQbvL) | 3:18 | 2021-10-13 |  |
+| [Will You](https://open.spotify.com/track/0LFhh32OmXCD8ShloH3j22) | [Vivian Leva](https://open.spotify.com/artist/02eGekE35DrC5E0qH4kh3H), [Riley Calcagno](https://open.spotify.com/artist/2n5rNh7Wb7FFhnijzCPfii) | [Vivian Leva & Riley Calcagno](https://open.spotify.com/album/69z5sIPSLaArbGLFCbQbvL) | 3:18 | 2021-10-13 | 2022-09-02 |
 | [Workin' Woman Blues](https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:05 | 2022-02-25 |  |
 | [Workin's Too Hard](https://open.spotify.com/track/6Xsh0TEobnRSRkt2UAbAxc) | [Rayna Gellert](https://open.spotify.com/artist/5hdTooIsiN2OmvS449nJNd) | [Workin's Too Hard](https://open.spotify.com/album/3XQvByuWbdN8KxETcTQPZY) | 3:36 | 2021-10-13 | 2022-07-29 |
 | [Working Man](https://open.spotify.com/track/37qKqyFLGmIM46OlQYLQpe) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Working Man](https://open.spotify.com/album/75BL5XrMZ7cF1mcIbs4oYA) | 3:22 | 2021-10-13 | 2022-07-29 |
 | [You And I](https://open.spotify.com/track/2KY7UK4IBIXjUya41cMnYl) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:39 | 2021-10-13 |  |
+| [You Led Me To The Wrong](https://open.spotify.com/track/0QnMuP68PXfHbjPASDUPxE) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raise The Roof](https://open.spotify.com/album/5CQ3SOj1ZgudhbsTLcTTI2) | 4:17 | 2022-02-25 |  |
 | [zombie girl](https://open.spotify.com/track/3v2OxIsGWJXWfLuRkB59Q6) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 2:44 | 2021-10-13 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

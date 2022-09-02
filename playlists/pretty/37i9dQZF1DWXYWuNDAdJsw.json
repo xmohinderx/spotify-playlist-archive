@@ -1,12 +1,12 @@
 {
   "description": "el nombre lo dice todo.",
-  "num_followers": 791204,
+  "num_followers": 791400,
   "original_name": "Perrear y Llorar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcxNjg3NiwwMDAwMDAwMDBlMjE2OTE4MjZhNzBkMWJjNDEzNzY1YmEwM2NmYzRh",
+  "snapshot_id": "MTY1OTcxNjg3NiwwMDAwMDAwMDZkODU1NGM0YjkxZTdjNzM1M2JjNzQxYjM5ZjgyZTE4",
   "tracks": [
     {
       "added_at": "2022-08-05 16:27:56",
@@ -371,26 +371,6 @@
     {
       "added_at": "2022-08-05 16:27:56",
       "album": {
-        "name": "Te Amo",
-        "url": "https://open.spotify.com/album/0sF2dhoiBLVMvuv6qRIpYI"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 201122,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/2RVrdr062uLFxXwIxwdXPH"
-    },
-    {
-      "added_at": "2022-08-05 16:27:56",
-      "album": {
         "name": "Sue\u00f1os",
         "url": "https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 225933,
       "name": "Otro Trago",
       "url": "https://open.spotify.com/track/1Ej96GIBCTvgH7tNX1r3qr"
+    },
+    {
+      "added_at": "2022-08-05 16:27:56",
+      "album": {
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/0sF2dhoiBLVMvuv6qRIpYI"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 201122,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/2RVrdr062uLFxXwIxwdXPH"
     },
     {
       "added_at": "2022-08-05 16:27:56",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-08-05 16:27:56",
       "album": {
-        "name": "Mi Debilidad",
-        "url": "https://open.spotify.com/album/5hYYAmDCghG1kmcHT5rScz"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 165957,
-      "name": "Mi Debilidad",
-      "url": "https://open.spotify.com/track/70LLyzO7jT6DsQvCwwHDch"
-    },
-    {
-      "added_at": "2022-08-05 16:27:56",
-      "album": {
         "name": "Fing\u00edas",
         "url": "https://open.spotify.com/album/1V2sg9XB2TP29Ys4ER3fLn"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 225373,
       "name": "Fing\u00edas",
       "url": "https://open.spotify.com/track/7o0oY5wRcoV7oPuDhD2J1z"
+    },
+    {
+      "added_at": "2022-08-05 16:27:56",
+      "album": {
+        "name": "Mi Debilidad",
+        "url": "https://open.spotify.com/album/5hYYAmDCghG1kmcHT5rScz"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 165957,
+      "name": "Mi Debilidad",
+      "url": "https://open.spotify.com/track/70LLyzO7jT6DsQvCwwHDch"
     },
     {
       "added_at": "2022-08-05 16:27:56",

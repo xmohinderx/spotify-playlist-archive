@@ -1,12 +1,12 @@
 {
   "description": "Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  We The Kingdom",
-  "num_followers": 81757,
+  "num_followers": 81770,
   "original_name": "Sing A New Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzY3NDg2NCwwMDAwMDAwMGE5NzM1MWI2NmY1OGI5Y2UzODFlMzJlMDQ0NjQyMDcw",
+  "snapshot_id": "MTY1MzY3NDg2NCwwMDAwMDAwMDE0NDcyNzI5ZjRmZGJjM2FkZWU2NjAyOWM4M2U0OWRm",
   "tracks": [
     {
       "added_at": "2022-05-27 18:07:44",
@@ -535,38 +535,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "This Is the Day",
-        "url": "https://open.spotify.com/album/29KW3MYzgYG4RxdqXPVoP2"
-      },
-      "artists": [
-        {
-          "name": "CityAlight",
-          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
-        }
-      ],
-      "duration_ms": 325247,
-      "name": "This Is the Day",
-      "url": "https://open.spotify.com/track/7irqgbDHvcg4hQwhIR260Y"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
-        "name": "Already Blessed",
-        "url": "https://open.spotify.com/album/302vTUIId9Yy7XVI42gGiY"
-      },
-      "artists": [
-        {
-          "name": "Chidiya Ohiagu",
-          "url": "https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp"
-        }
-      ],
-      "duration_ms": 228068,
-      "name": "Already Blessed",
-      "url": "https://open.spotify.com/track/6EVBja1SChiDywjTRfS1Rk"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "In You",
         "url": "https://open.spotify.com/album/6CGOHFD1cO5u0jldukqYNO"
       },
@@ -583,6 +551,22 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
+        "name": "This Is the Day",
+        "url": "https://open.spotify.com/album/29KW3MYzgYG4RxdqXPVoP2"
+      },
+      "artists": [
+        {
+          "name": "CityAlight",
+          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
+        }
+      ],
+      "duration_ms": 325247,
+      "name": "This Is the Day",
+      "url": "https://open.spotify.com/track/7irqgbDHvcg4hQwhIR260Y"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
         "name": "Revival",
         "url": "https://open.spotify.com/album/350DvgUbR83wdpqAIEAUeU"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 209262,
       "name": "Revival",
       "url": "https://open.spotify.com/track/5UC1B9KaUWKFUYNFrklGxQ"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Already Blessed",
+        "url": "https://open.spotify.com/album/302vTUIId9Yy7XVI42gGiY"
+      },
+      "artists": [
+        {
+          "name": "Chidiya Ohiagu",
+          "url": "https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp"
+        }
+      ],
+      "duration_ms": 228068,
+      "name": "Already Blessed",
+      "url": "https://open.spotify.com/track/6EVBja1SChiDywjTRfS1Rk"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Authentic Love",
-        "url": "https://open.spotify.com/album/7l6LQWt8V0gd2kKvGc8aT3"
-      },
-      "artists": [
-        {
-          "name": "Caleb Carroll",
-          "url": "https://open.spotify.com/artist/6mZAjse1AXySWlMyGIxzqf"
-        }
-      ],
-      "duration_ms": 282125,
-      "name": "Authentic Love",
-      "url": "https://open.spotify.com/track/4h9HwkyNhVc8A0XyEIjMWr"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Love Letters From An Empty Tomb",
         "url": "https://open.spotify.com/album/1N8BcblNLY3GiYcmj0gQRw"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 297580,
       "name": "Just The Cross",
       "url": "https://open.spotify.com/track/1tKqhzuLzYgmdwGDAbuTJI"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Authentic Love",
+        "url": "https://open.spotify.com/album/7l6LQWt8V0gd2kKvGc8aT3"
+      },
+      "artists": [
+        {
+          "name": "Caleb Carroll",
+          "url": "https://open.spotify.com/artist/6mZAjse1AXySWlMyGIxzqf"
+        }
+      ],
+      "duration_ms": 282125,
+      "name": "Authentic Love",
+      "url": "https://open.spotify.com/track/4h9HwkyNhVc8A0XyEIjMWr"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Grace Greater",
-        "url": "https://open.spotify.com/album/08v702QxIDfuwvpTsXPVWv"
-      },
-      "artists": [
-        {
-          "name": "Travis Cottrell",
-          "url": "https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW"
-        }
-      ],
-      "duration_ms": 262369,
-      "name": "Grace Greater",
-      "url": "https://open.spotify.com/track/3r1MrcpE5LtKhNH7mwUEqI"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Prepare The Way",
         "url": "https://open.spotify.com/album/5U0RfxFmopL8VCvRtsCMvQ"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 255522,
       "name": "Prepare The Way",
       "url": "https://open.spotify.com/track/6LWllzUioINd9vMcoHGep7"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Grace Greater",
+        "url": "https://open.spotify.com/album/08v702QxIDfuwvpTsXPVWv"
+      },
+      "artists": [
+        {
+          "name": "Travis Cottrell",
+          "url": "https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW"
+        }
+      ],
+      "duration_ms": 262369,
+      "name": "Grace Greater",
+      "url": "https://open.spotify.com/track/3r1MrcpE5LtKhNH7mwUEqI"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
+        "name": "Born to Love",
+        "url": "https://open.spotify.com/album/0LBm9x0GNGI68k11b8AIwY"
+      },
+      "artists": [
+        {
+          "name": "Sara Groves",
+          "url": "https://open.spotify.com/artist/25Kfw0CRHgjl9oCgMfEYz7"
+        }
+      ],
+      "duration_ms": 229533,
+      "name": "Born to Love",
+      "url": "https://open.spotify.com/track/6uaXa66iQYahdrRKN3txNP"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
         "name": "Mind of Christ (Philippians 2)",
         "url": "https://open.spotify.com/album/78xHy1AXOcqDNevyty5BK6"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 242714,
       "name": "Mind of Christ (Philippians 2)",
       "url": "https://open.spotify.com/track/5Ol2f8NBEASW6JYQswBWpi"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
-        "name": "Born to Love",
-        "url": "https://open.spotify.com/album/0LBm9x0GNGI68k11b8AIwY"
-      },
-      "artists": [
-        {
-          "name": "Sara Groves",
-          "url": "https://open.spotify.com/artist/25Kfw0CRHgjl9oCgMfEYz7"
-        }
-      ],
-      "duration_ms": 229533,
-      "name": "Born to Love",
-      "url": "https://open.spotify.com/track/6uaXa66iQYahdrRKN3txNP"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Streams",
-        "url": "https://open.spotify.com/album/561scYchLsHReTlfcPJxaH"
-      },
-      "artists": [
-        {
-          "name": "Jonathan David Middleton",
-          "url": "https://open.spotify.com/artist/3sVONkahZrlRA1ITNOn6ZD"
-        }
-      ],
-      "duration_ms": 393978,
-      "name": "Streams",
-      "url": "https://open.spotify.com/track/4TNqLqR26yumoTFs5ESCex"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "King of Love",
         "url": "https://open.spotify.com/album/4MQY7rqK8vJK6wLiDuQb74"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 232000,
       "name": "King of Love",
       "url": "https://open.spotify.com/track/5shWIh3eSLiACdpeN9zWJe"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Streams",
+        "url": "https://open.spotify.com/album/561scYchLsHReTlfcPJxaH"
+      },
+      "artists": [
+        {
+          "name": "Jonathan David Middleton",
+          "url": "https://open.spotify.com/artist/3sVONkahZrlRA1ITNOn6ZD"
+        }
+      ],
+      "duration_ms": 393978,
+      "name": "Streams",
+      "url": "https://open.spotify.com/track/4TNqLqR26yumoTFs5ESCex"
     },
     {
       "added_at": "2022-05-27 18:07:44",

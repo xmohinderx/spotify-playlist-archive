@@ -4,7 +4,7 @@
 
 > alternative hits of today, tomorrow, and then some\. Cover: The Backseat Lovers
 
-385 songs - 19 hr 59 min - [published](https://open.spotify.com/playlist/1wVw7z1lWnvceI3e0NeFmp)
+386 songs - 20 hr 3 min - [published](https://open.spotify.com/playlist/1wVw7z1lWnvceI3e0NeFmp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Another Man's Jeans](https://open.spotify.com/track/2Tv3bPKLESHfl8jgAlY2Pv) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Another Man's Jeans](https://open.spotify.com/album/54xLeetI8f6mslHLEJ5K2X) | 2:45 | 2022-03-04 | 2022-07-09 |
 | [anotherlife](https://open.spotify.com/track/4ydCaKmqhbTPCMl7tb8TnR) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [anotherlife](https://open.spotify.com/album/1S1ni6UGY99ajlkItmtTqs) | 3:23 | 2022-02-18 | 2022-04-02 |
 | [Anxieties \(Out of Time\)](https://open.spotify.com/track/6CCWeieiETGytwn1cblRxz) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Anxieties \(Out of Time\)](https://open.spotify.com/album/73HIfazV3wsCA6VwBBky5q) | 3:40 | 2022-04-01 | 2022-06-25 |
-| [Anything But Me](https://open.spotify.com/track/32JZt8EmiioCGTU6UIXJ4E) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Anything But Me](https://open.spotify.com/album/3qeTo7DFj1P9dcBa92GrpX) | 3:33 | 2022-03-18 |  |
+| [Anything But Me](https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 3:33 | 2022-08-26 |  |
+| [Anything But Me](https://open.spotify.com/track/32JZt8EmiioCGTU6UIXJ4E) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Anything But Me](https://open.spotify.com/album/3qeTo7DFj1P9dcBa92GrpX) | 3:33 | 2022-03-18 | 2022-09-02 |
 | [Apartment Complex on the Eastside](https://open.spotify.com/track/2nm0J9sicQTiW8M8k2yZ4x) | [Dylan Fraser](https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D) | [Apartment Complex on the Eastside](https://open.spotify.com/album/52bzMUfIaS9YeVADl51eoT) | 4:07 | 2022-04-15 | 2022-07-23 |
 | [Apple Crumble](https://open.spotify.com/track/6a3e0ES98H65XIXuJ3Af8A) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Apple Crumble](https://open.spotify.com/album/6NfvwbhWAfoIn88gazTnVB) | 3:09 | 2022-02-04 | 2022-02-26 |
 | [Apple Juice](https://open.spotify.com/track/15cNyPj2P1ohuM2rMJiMUb) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Apple Juice](https://open.spotify.com/album/6xnJlESwo26qOCBlZbBDdO) | 3:02 | 2022-04-22 | 2022-07-29 |

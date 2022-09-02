@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a39zUmS7Hn.md) - [plain]
 
 > New music and timeless tracks from legends only\. Cover: Billy Idol
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,594 likes - 80 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,437 likes - 80 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a39zUmS7Hn.md) - [plain]
 | 6 | [Bitter Sweet Symphony](https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 5:57 |
 | 7 | [The Middle](https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 2:45 |
 | 8 | [Stairway to Heaven \- Remaster](https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 8:02 |
-| 9 | [Master of Puppets \(Remastered\)](https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master of Puppets \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j) | 8:35 |
-| 10 | [How You Remind Me](https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Silver Side Up](https://open.spotify.com/album/5fKL7vMTXvhR9tov8Kqt3u) | 3:43 |
+| 9 | [How You Remind Me](https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Silver Side Up](https://open.spotify.com/album/5fKL7vMTXvhR9tov8Kqt3u) | 3:43 |
+| 10 | [Master of Puppets \(Remastered\)](https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master of Puppets \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j) | 8:35 |
 | 11 | [The Kids Aren't Alright](https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5) | 3:00 |
 | 12 | [The Adults Are Talking](https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) | 5:09 |
 | 13 | [Drops of Jupiter \(Tell Me\)](https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Drops Of Jupiter](https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT) | 4:19 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a39zUmS7Hn.md) - [plain]
 | 27 | [All These Things That I've Done](https://open.spotify.com/track/5vollujufHY0jMZxx77VWr) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 5:01 |
 | 28 | [Black Summer](https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Black Summer](https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH) | 3:52 |
 | 29 | [London Calling \- Remastered](https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:20 |
-| 30 | [Shout](https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair](https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5) | 6:33 |
-| 31 | [Blue Monday](https://open.spotify.com/track/6hHc7Pks7wtBIW8Z6A0iFq) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Substance](https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl) | 7:29 |
+| 30 | [Blue Monday](https://open.spotify.com/track/6hHc7Pks7wtBIW8Z6A0iFq) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Substance](https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl) | 7:29 |
+| 31 | [Shout](https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair](https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5) | 6:33 |
 | 32 | [Paradise By the Dashboard Light](https://open.spotify.com/track/2g7gviEeJr6pyxO7G35EWQ) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Bat Out Of Hell](https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9) | 8:28 |
 | 33 | [All My Life](https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [One By One \(Expanded Edition\)](https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx) | 4:23 |
 | 34 | [Under Pressure \- Remastered 2011](https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hot Space \(Deluxe Remastered Version\)](https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf) | 4:08 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a39zUmS7Hn.md) - [plain]
 | 79 | [I Am the Resurrection \- Remastered](https://open.spotify.com/track/5ikdUUm6JbnEVnp35c7dvy) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 8:12 |
 | 80 | [Realize](https://open.spotify.com/track/4JDjZ2AzlHnde5uUy0TveV) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [POWER UP](https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0) | 3:37 |
 
-Snapshot ID: `MTY2MTQ1ODIzNCwwMDAwMDAwMGNkNmJkNTc2ODM1MTFiMWZlZDE4OWNmZGU5MDJmNzQ4`
+Snapshot ID: `MTY2MTQ1ODIzNCwwMDAwMDAwMDBiMDgxYmY0OTZmNmNiMDAyYzY3MmVmYWZkNmZhNDRl`

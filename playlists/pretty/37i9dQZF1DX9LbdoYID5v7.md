@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LbdoYID5v7.md) - [plain]
 
 > The music that created modern indie as we know it\. Cover: Florence + The Machine
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,383 likes - 75 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,743 likes - 75 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LbdoYID5v7.md) - [plain]
 | 13 | [Two Weeks](https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk) | 4:03 |
 | 14 | [Little Lion Man](https://open.spotify.com/track/6JnufVNLIO5F5Lk4sEVLeI) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo) | 4:06 |
 | 15 | [Home](https://open.spotify.com/track/7w5cxTEzp1rfV3KCy0Bd5N) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up from Below](https://open.spotify.com/album/39xrkt8RILtwa9DMyLkv32) | 5:03 |
-| 16 | [New Slang \- 2021 Remaster](https://open.spotify.com/track/0NslHuacjxQYfUTOW3HCIV) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Oh, Inverted World \(20th Anniversary Remaster\)](https://open.spotify.com/album/5XmhHMj5LZLWo32aA6ntKE) | 3:50 |
+| 16 | [Fluorescent Adolescent](https://open.spotify.com/track/7e8utCy2JlSB8dRHKi49xM) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 2:53 |
 | 17 | [Time to Pretend](https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 4:21 |
-| 18 | [Fluorescent Adolescent](https://open.spotify.com/track/7e8utCy2JlSB8dRHKi49xM) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 2:53 |
+| 18 | [New Slang \- 2021 Remaster](https://open.spotify.com/track/0NslHuacjxQYfUTOW3HCIV) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Oh, Inverted World \(20th Anniversary Remaster\)](https://open.spotify.com/album/5XmhHMj5LZLWo32aA6ntKE) | 3:50 |
 | 19 | [We Are The People](https://open.spotify.com/track/3zEN0ii6s4DHHBpnTp3RP7) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 4:27 |
 | 20 | [Here It Goes Again](https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD) | [OK Go](https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz) | [Oh No](https://open.spotify.com/album/1qN6qh1gwgrYTCdSq21gov) | 2:59 |
 | 21 | [I Will Wait](https://open.spotify.com/track/0hm8rgOY17z7kQJlqGKbu7) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/4Blt0T4LKGdWreILkYZre3) | 4:36 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LbdoYID5v7.md) - [plain]
 | 47 | [Always Like This](https://open.spotify.com/track/73M2Vb5MfZh8iGKudkMtlw) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [I Had The Blues But I Shook Them Loose](https://open.spotify.com/album/4X0bhkSBOfcnOPyfG5Ef6a) | 4:05 |
 | 48 | [In The Waiting Line](https://open.spotify.com/track/5ARrtxJLVCeTv5TWo1oKgC) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sophie Barker](https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2) | [Simple Things](https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH) | 4:31 |
 | 49 | [Dashboard](https://open.spotify.com/track/0Fe3WxeO6lZZxj7ytvbDUh) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [We Were Dead Before The Ship Even Sank](https://open.spotify.com/album/2lXBCL76UL5PCPbfAqKBkz) | 4:06 |
-| 50 | [Dance Yrself Clean](https://open.spotify.com/track/2cmRpmO04TLaKPzmAzySYZ) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [This Is Happening](https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz) | 8:56 |
-| 51 | [Look What You've Done](https://open.spotify.com/track/0ZSmRnXnP5fdANtVlCok1g) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born](https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg) | 3:50 |
+| 50 | [Look What You've Done](https://open.spotify.com/track/0ZSmRnXnP5fdANtVlCok1g) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born](https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg) | 3:50 |
+| 51 | [Dance Yrself Clean](https://open.spotify.com/track/2cmRpmO04TLaKPzmAzySYZ) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [This Is Happening](https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz) | 8:56 |
 | 52 | [Naive](https://open.spotify.com/track/2RUhtNBh43RtSg0WBPPq3m) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz) | 3:23 |
 | 53 | [Something Good Can Work](https://open.spotify.com/track/5yDX0yhtLyf0zEXEqXqyAa) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0SD7kwnJEC2oDzQBKEHQnH) | 2:44 |
 | 54 | [Help I'm Alive](https://open.spotify.com/track/0cahtHEywK64NSWqm2SDTi) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Fantasies](https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH) | 4:46 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LbdoYID5v7.md) - [plain]
 | 59 | [Animal](https://open.spotify.com/track/6vSq5q5DCs1IvwKIq53hj2) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Miike Snow](https://open.spotify.com/album/3EqIz9KGQakhATc71OGQQi) | 4:23 |
 | 60 | [Heart It Races \- Cover Version](https://open.spotify.com/track/0SyOHG2V9CgMSlebbnyoLJ) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Heart It Races \(Cover Version\)](https://open.spotify.com/album/5H7DXLYdOFUa0KD62HqCvd) | 3:51 |
 | 61 | [Master of None](https://open.spotify.com/track/3stWWPN41byqp8loPdy92u) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Beach House](https://open.spotify.com/album/32bJgeIOAFiNkucTCje5O5) | 3:19 |
-| 62 | [1234](https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z) | 3:03 |
-| 63 | [Across the Universe](https://open.spotify.com/track/6ZQgooEk8PvsLxedYaT6Oa) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Pleasantville \-Music From The Motion Picture](https://open.spotify.com/album/3QofKE2yZcsjKOUw6fyyn3) | 5:07 |
+| 62 | [Across the Universe](https://open.spotify.com/track/6ZQgooEk8PvsLxedYaT6Oa) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Pleasantville \-Music From The Motion Picture](https://open.spotify.com/album/3QofKE2yZcsjKOUw6fyyn3) | 5:07 |
+| 63 | [1234](https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z) | 3:03 |
 | 64 | [Crystalised](https://open.spotify.com/track/33R3swWziWYmnDYvZqcZVS) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8) | 3:21 |
 | 65 | [Oxford Comma](https://open.spotify.com/track/0ful4PHfTIxzXiZSZsXQ0H) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 3:15 |
 | 66 | [Destiny](https://open.spotify.com/track/27ViQppP3LZPCJl2A0w9kp) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Sophie Barker](https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2) | [Simple Things](https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH) | 5:38 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LbdoYID5v7.md) - [plain]
 | 74 | [Take Your Mama](https://open.spotify.com/track/0LAfANg75hYiV1IAEP3vY6) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Scissor Sisters](https://open.spotify.com/album/65Fllu4vQdZQOh6id0YwIM) | 4:31 |
 | 75 | [She Moves In Her Own Way](https://open.spotify.com/track/2SGBEDwsOAOAHrrdAd304i) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz) | 2:49 |
 
-Snapshot ID: `MTY1OTA0NDkyNSwwMDAwMDAwMDFkMzdlMDlhMTgzZGU3YzI2ZDI2ZmExMTEyMzIxOTUw`
+Snapshot ID: `MTY1OTA0NDkyNSwwMDAwMDAwMDRkNTgxNjkwMTU0Zjc5NjE3YmNjOWU5YjY5ZTQzYzUy`

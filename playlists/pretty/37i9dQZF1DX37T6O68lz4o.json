@@ -1,12 +1,12 @@
 {
   "description": "New England music breaking waves. Cover, Lily Rayne",
-  "num_followers": 1067,
+  "num_followers": 1072,
   "original_name": "Ripple Effect: New England",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDkzODkwNSwwMDAwMDAwMDg2MmVjYmE5NTFhMWZmN2RiZjcwYTIxODVmOTJiYWM1",
+  "snapshot_id": "MTY2MjA0MzE3MCwwMDAwMDAwMDU5OGEyZGU1YTI3ODIwYTRmMThkMWIxZWQ1NTQ0Zjcy",
   "tracks": [
     {
       "added_at": "2022-08-19 19:55:05",
@@ -77,10 +77,10 @@
       "url": "https://open.spotify.com/track/59712iD8O2nhx1lgAKQ0Gc"
     },
     {
-      "added_at": "2022-07-18 21:17:51",
+      "added_at": "2022-09-01 14:39:30",
       "album": {
-        "name": "Fool",
-        "url": "https://open.spotify.com/album/4YrTWDTEsPnRaJSbbOe3Zp"
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/2I0VwAeClbtch0ErYJbsDL"
       },
       "artists": [
         {
@@ -88,9 +88,9 @@
           "url": "https://open.spotify.com/artist/4yaRDENYr8yAAlEUf23DRI"
         }
       ],
-      "duration_ms": 190106,
-      "name": "Fool",
-      "url": "https://open.spotify.com/track/6zr3r5MNP6Fu0dfJcaMxof"
+      "duration_ms": 211519,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/1IoUc7el8qPFVFOC5jSfl7"
     },
     {
       "added_at": "2022-04-15 08:01:02",
@@ -217,22 +217,6 @@
       "url": "https://open.spotify.com/track/0Mxh4inXATNeyzreyU0GrA"
     },
     {
-      "added_at": "2022-07-18 21:17:51",
-      "album": {
-        "name": "Blueberry Biscotti",
-        "url": "https://open.spotify.com/album/26n48B6Svxy9Wsp5hzrmQ4"
-      },
-      "artists": [
-        {
-          "name": "Khary",
-          "url": "https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ"
-        }
-      ],
-      "duration_ms": 128785,
-      "name": "Blueberry Biscotti",
-      "url": "https://open.spotify.com/track/4Jdz6B3w69AHsWHBg80SZK"
-    },
-    {
       "added_at": "2022-07-01 04:01:00",
       "album": {
         "name": "This Is Personal",
@@ -265,6 +249,22 @@
       "url": "https://open.spotify.com/track/2L9SA0p0eO7eBOwhtYHhMh"
     },
     {
+      "added_at": "2022-07-18 21:17:51",
+      "album": {
+        "name": "Fool",
+        "url": "https://open.spotify.com/album/4YrTWDTEsPnRaJSbbOe3Zp"
+      },
+      "artists": [
+        {
+          "name": "Raiche",
+          "url": "https://open.spotify.com/artist/4yaRDENYr8yAAlEUf23DRI"
+        }
+      ],
+      "duration_ms": 190106,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/6zr3r5MNP6Fu0dfJcaMxof"
+    },
+    {
       "added_at": "2022-02-18 22:25:03",
       "album": {
         "name": "Just For You",
@@ -279,26 +279,6 @@
       "duration_ms": 155585,
       "name": "Gone",
       "url": "https://open.spotify.com/track/37Deh2p4aLdEtQHXtm7AOE"
-    },
-    {
-      "added_at": "2022-07-22 20:03:23",
-      "album": {
-        "name": "No Joke",
-        "url": "https://open.spotify.com/album/5r6KjNHoMGUogiDg5Z1SwX"
-      },
-      "artists": [
-        {
-          "name": "Mo Bangaz",
-          "url": "https://open.spotify.com/artist/7lIiOcOBI059zW6PY5Ghqg"
-        },
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 90044,
-      "name": "No Joke",
-      "url": "https://open.spotify.com/track/2qwmssqUiBzwrXrk2lhMYO"
     },
     {
       "added_at": "2022-07-18 21:17:51",
@@ -351,6 +331,26 @@
       "duration_ms": 226758,
       "name": "Ye Not Crazy",
       "url": "https://open.spotify.com/track/70jjParnrP2X3mOVkoljGE"
+    },
+    {
+      "added_at": "2022-09-01 14:39:30",
+      "album": {
+        "name": "Prend\u00edo",
+        "url": "https://open.spotify.com/album/4Ch7xOR54Wxka7R6CLPEfv"
+      },
+      "artists": [
+        {
+          "name": "Partywithrami",
+          "url": "https://open.spotify.com/artist/61gpgVeT7ElOAy5IiItoCx"
+        },
+        {
+          "name": "Tatto RD",
+          "url": "https://open.spotify.com/artist/3lcIJzukw4BIRATVEYXisw"
+        }
+      ],
+      "duration_ms": 190393,
+      "name": "Prend\u00edo",
+      "url": "https://open.spotify.com/track/3Sj44uPrlioAmGR8c5zCKv"
     },
     {
       "added_at": "2022-06-07 21:56:35",
@@ -445,22 +445,6 @@
       "url": "https://open.spotify.com/track/0LRDuhmYlMW44HOeZIvwj7"
     },
     {
-      "added_at": "2022-06-07 21:56:35",
-      "album": {
-        "name": "SAFE",
-        "url": "https://open.spotify.com/album/704nbCK05rfHpdyPvRKbLi"
-      },
-      "artists": [
-        {
-          "name": "Israel Wusu",
-          "url": "https://open.spotify.com/artist/7v9HwZnQWL9zfACSgDqz3f"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "SAFE",
-      "url": "https://open.spotify.com/track/2YI2Br6DGTPP07iWxilZyX"
-    },
-    {
       "added_at": "2022-08-12 17:11:54",
       "album": {
         "name": "2night",
@@ -477,26 +461,6 @@
       "url": "https://open.spotify.com/track/0ccds5C86PU7kPquqqy7Gk"
     },
     {
-      "added_at": "2022-08-12 17:11:54",
-      "album": {
-        "name": "MOMMA i MAKE ART: SEE YOUR BOY IS NOT A LOSER!",
-        "url": "https://open.spotify.com/album/6uDLjfr1RrtYJOxkivdSFs"
-      },
-      "artists": [
-        {
-          "name": "WHYTRI",
-          "url": "https://open.spotify.com/artist/4z1mmeq6Dsr43uwzLiTXys"
-        },
-        {
-          "name": "Jon Glass",
-          "url": "https://open.spotify.com/artist/1u2PrmG6RI8ldR2974GdMn"
-        }
-      ],
-      "duration_ms": 167532,
-      "name": "TIPPIN LIKE JOHN CENA",
-      "url": "https://open.spotify.com/track/5f6HNkGwjGfljrXa165S5G"
-    },
-    {
       "added_at": "2021-12-01 18:09:33",
       "album": {
         "name": "Sim Simma",
@@ -511,6 +475,26 @@
       "duration_ms": 145714,
       "name": "Sim Simma",
       "url": "https://open.spotify.com/track/0LCpAqkpl7drtth6HWVnrx"
+    },
+    {
+      "added_at": "2022-09-01 14:39:30",
+      "album": {
+        "name": "MOMMA i MAKE ART: SEE YOUR BOY IS NOT A LOSER!",
+        "url": "https://open.spotify.com/album/6uDLjfr1RrtYJOxkivdSFs"
+      },
+      "artists": [
+        {
+          "name": "WHYTRI",
+          "url": "https://open.spotify.com/artist/4z1mmeq6Dsr43uwzLiTXys"
+        },
+        {
+          "name": "Jon Glass",
+          "url": "https://open.spotify.com/artist/1u2PrmG6RI8ldR2974GdMn"
+        }
+      ],
+      "duration_ms": 162058,
+      "name": "PROUD OF YOU TRI",
+      "url": "https://open.spotify.com/track/09COZZ6scdIaRSP8KQl2nV"
     },
     {
       "added_at": "2022-08-19 19:55:05",
@@ -585,6 +569,22 @@
       "url": "https://open.spotify.com/track/4cGMLUZEr8HU6QPlcUcZ2r"
     },
     {
+      "added_at": "2022-09-01 14:39:30",
+      "album": {
+        "name": "1017 ALYX",
+        "url": "https://open.spotify.com/album/33qHmaehzUCDzndn5in7q0"
+      },
+      "artists": [
+        {
+          "name": "Mo Bangaz",
+          "url": "https://open.spotify.com/artist/7lIiOcOBI059zW6PY5Ghqg"
+        }
+      ],
+      "duration_ms": 113712,
+      "name": "1017 ALYX",
+      "url": "https://open.spotify.com/track/2o7vrVIOh1tyqF7fNhDsR6"
+    },
+    {
       "added_at": "2022-07-29 19:36:45",
       "album": {
         "name": "FN.F12",
@@ -639,6 +639,22 @@
       "duration_ms": 203496,
       "name": "W.W.I.B.",
       "url": "https://open.spotify.com/track/5y3o0v46j0zbOhFpXiTl19"
+    },
+    {
+      "added_at": "2022-09-01 14:39:30",
+      "album": {
+        "name": "WHERE WILL I BE",
+        "url": "https://open.spotify.com/album/6mLuOGAS26jIiItuMYTmHY"
+      },
+      "artists": [
+        {
+          "name": "Reem Skully",
+          "url": "https://open.spotify.com/artist/2X4yIi81bUWMJMJb0TdiYE"
+        }
+      ],
+      "duration_ms": 115435,
+      "name": "LIL MAMI",
+      "url": "https://open.spotify.com/track/03UaAkqtScVy41bywcKIrx"
     },
     {
       "added_at": "2022-08-19 19:55:05",
@@ -735,22 +751,6 @@
       "duration_ms": 161982,
       "name": "Daily",
       "url": "https://open.spotify.com/track/7IE6VIEvNkDEtht3MPur8n"
-    },
-    {
-      "added_at": "2022-02-18 22:25:03",
-      "album": {
-        "name": "More Than A Little Bit",
-        "url": "https://open.spotify.com/album/602qpIdwCvasaSBk60Ur3i"
-      },
-      "artists": [
-        {
-          "name": "PxRRY",
-          "url": "https://open.spotify.com/artist/0PsWfG0oEt3Oz7Vlur7pkE"
-        }
-      ],
-      "duration_ms": 194157,
-      "name": "More Than A Little Bit",
-      "url": "https://open.spotify.com/track/2haIQVgu4075Yx0QhAJgCQ"
     },
     {
       "added_at": "2022-08-12 17:11:54",

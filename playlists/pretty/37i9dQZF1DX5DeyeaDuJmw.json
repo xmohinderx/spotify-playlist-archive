@@ -1,12 +1,12 @@
 {
   "description": "Ac\u00e1 hay letra. Foto: Anuel AA.",
-  "num_followers": 109998,
+  "num_followers": 110148,
   "original_name": "Rimas y Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjQ2MCwwMDAwMDAwMGY5MjU5MDFiZTNiNDg5ZjcxOGQ0NGQ2Zjg5MjY2ZmFk",
+  "snapshot_id": "MTY2MTQ4NjQ2MCwwMDAwMDAwMGJhZTNmM2IyMzdhMDNlY2NhODMxMDJiNmI0YWExZDVi",
   "tracks": [
     {
       "added_at": "2022-08-26 04:01:00",
@@ -355,8 +355,8 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "ALMAS GEMELAS",
-        "url": "https://open.spotify.com/album/3DcHy54Up1gEXKXbsv8xeT"
+        "name": "Easy Money Baby",
+        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
       },
       "artists": [
         {
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 235411,
-      "name": "ALMAS GEMELAS",
-      "url": "https://open.spotify.com/track/2KcNrONbZ0hvBPjvrDO2tx"
+      "duration_ms": 173451,
+      "name": "Piensan",
+      "url": "https://open.spotify.com/track/1A9PKAFEHMWgXNLpgf7k4J"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -479,8 +479,8 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Easy Money Baby",
-        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
+        "name": "ALMAS GEMELAS",
+        "url": "https://open.spotify.com/album/3DcHy54Up1gEXKXbsv8xeT"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 173451,
-      "name": "Piensan",
-      "url": "https://open.spotify.com/track/1A9PKAFEHMWgXNLpgf7k4J"
+      "duration_ms": 235411,
+      "name": "ALMAS GEMELAS",
+      "url": "https://open.spotify.com/track/2KcNrONbZ0hvBPjvrDO2tx"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -643,6 +643,30 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Atrevido",
+        "url": "https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Taiu",
+          "url": "https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic"
+        },
+        {
+          "name": "TATOOL",
+          "url": "https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo"
+        }
+      ],
+      "duration_ms": 194734,
+      "name": "\u00d1eri",
+      "url": "https://open.spotify.com/track/6Cgj3VVfcYJN9vZbMVcKRd"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "3G (feat. Jon Z, Don Chezina, Chencho Corleone & Myke Towers) [Remix]",
         "url": "https://open.spotify.com/album/7mau5c15cnVkwcp79cV5LK"
       },
@@ -679,30 +703,6 @@
       "duration_ms": 366613,
       "name": "3G (feat. Jon Z, Don Chezina, Chencho Corleone & Myke Towers) - Remix",
       "url": "https://open.spotify.com/track/6dyUkkcyYuDiHOwIRXYOJm"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Atrevido",
-        "url": "https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        },
-        {
-          "name": "Taiu",
-          "url": "https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic"
-        },
-        {
-          "name": "TATOOL",
-          "url": "https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo"
-        }
-      ],
-      "duration_ms": 194734,
-      "name": "\u00d1eri",
-      "url": "https://open.spotify.com/track/6Cgj3VVfcYJN9vZbMVcKRd"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Skyline",
+        "url": "https://open.spotify.com/album/2oLEG1I4AcvA630m0wSuZH"
+      },
+      "artists": [
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        }
+      ],
+      "duration_ms": 173945,
+      "name": "Skyline",
+      "url": "https://open.spotify.com/track/3ymRYcYHxXMmyvCaKcJ46k"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "BLUNTED 5 (Remix)",
         "url": "https://open.spotify.com/album/6TkyJYlqu5RNWaIFWC8j9d"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 141075,
       "name": "BLUNTED 5 - Remix",
       "url": "https://open.spotify.com/track/6dlW3JOpCjzLBaNLiMfmx9"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Skyline",
-        "url": "https://open.spotify.com/album/2oLEG1I4AcvA630m0wSuZH"
-      },
-      "artists": [
-        {
-          "name": "Ak4:20",
-          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
-        }
-      ],
-      "duration_ms": 173945,
-      "name": "Skyline",
-      "url": "https://open.spotify.com/track/3ymRYcYHxXMmyvCaKcJ46k"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "La Llamada",
-        "url": "https://open.spotify.com/album/6hT06wrQnW4g3zhlt9mx5m"
-      },
-      "artists": [
-        {
-          "name": "Pusho",
-          "url": "https://open.spotify.com/artist/2qbEtwBVyobgpNP5KcHE9J"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 224267,
-      "name": "La Llamada",
-      "url": "https://open.spotify.com/track/4VlVJff7viYXRb7TbmXGGP"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Bandolera",
         "url": "https://open.spotify.com/album/2cBkMGeCncULhhWSVjzbj8"
       },
@@ -1367,6 +1347,26 @@
       "duration_ms": 201858,
       "name": "Bandolera",
       "url": "https://open.spotify.com/track/31jZbIjJFvIJaWjqmeEl71"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "La Llamada",
+        "url": "https://open.spotify.com/album/6hT06wrQnW4g3zhlt9mx5m"
+      },
+      "artists": [
+        {
+          "name": "Pusho",
+          "url": "https://open.spotify.com/artist/2qbEtwBVyobgpNP5KcHE9J"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 224267,
+      "name": "La Llamada",
+      "url": "https://open.spotify.com/track/4VlVJff7viYXRb7TbmXGGP"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Un AK",
-        "url": "https://open.spotify.com/album/0Et7tz6NgIxkObwV4F03Dd"
+        "name": "\u00c1cido",
+        "url": "https://open.spotify.com/album/2fpJi92UkpWlVfehON7Yqt"
       },
       "artists": [
         {
-          "name": "Cosculluela",
-          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+          "name": "Crissin",
+          "url": "https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC"
         }
       ],
-      "duration_ms": 168247,
-      "name": "Un AK",
-      "url": "https://open.spotify.com/track/5I2NfzSxaCBzYVYMGAV8Cp"
+      "duration_ms": 149142,
+      "name": "\u00c1cido",
+      "url": "https://open.spotify.com/track/67qxV0lxSgs8BAnIl3gtEL"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1627,22 +1627,6 @@
       "duration_ms": 250485,
       "name": "No Est\u00e1 Interesada",
       "url": "https://open.spotify.com/track/50MM1jSSqo8LndyiLsCO92"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "\u00c1cido",
-        "url": "https://open.spotify.com/album/2fpJi92UkpWlVfehON7Yqt"
-      },
-      "artists": [
-        {
-          "name": "Crissin",
-          "url": "https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC"
-        }
-      ],
-      "duration_ms": 149142,
-      "name": "\u00c1cido",
-      "url": "https://open.spotify.com/track/67qxV0lxSgs8BAnIl3gtEL"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -2043,6 +2027,30 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Baby Drip",
+        "url": "https://open.spotify.com/album/2q4H20bORpr7SZwnEYVT2d"
+      },
+      "artists": [
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "ZARAMAY",
+          "url": "https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff"
+        },
+        {
+          "name": "Nahuel The Coach",
+          "url": "https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg"
+        }
+      ],
+      "duration_ms": 202746,
+      "name": "Baby Drip",
+      "url": "https://open.spotify.com/track/2WghMUtQxC4N6iTcfTqgoz"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "Always Dream",
         "url": "https://open.spotify.com/album/1LlyGFhg9ghr5zQsJ4vv9w"
       },
@@ -2115,30 +2123,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Baby Drip",
-        "url": "https://open.spotify.com/album/2q4H20bORpr7SZwnEYVT2d"
-      },
-      "artists": [
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
-        },
-        {
-          "name": "ZARAMAY",
-          "url": "https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff"
-        },
-        {
-          "name": "Nahuel The Coach",
-          "url": "https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg"
-        }
-      ],
-      "duration_ms": 202746,
-      "name": "Baby Drip",
-      "url": "https://open.spotify.com/track/2WghMUtQxC4N6iTcfTqgoz"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Cerrando Cap\u00edtulo",
         "url": "https://open.spotify.com/album/7ApSyjSHH676GOW6G3PVOR"
       },
@@ -2175,6 +2159,38 @@
       "duration_ms": 203070,
       "name": "Deseos",
       "url": "https://open.spotify.com/track/2AxLTHG7lOBmnyB5FmOMwz"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Miami (Remix)",
+        "url": "https://open.spotify.com/album/5b8fTmX1gRCU7YYS7QSOur"
+      },
+      "artists": [
+        {
+          "name": "Omy de Oro",
+          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
+        },
+        {
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "\u00d1ejo",
+          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "KEVVO",
+          "url": "https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ"
+        }
+      ],
+      "duration_ms": 273013,
+      "name": "Miami - Remix",
+      "url": "https://open.spotify.com/track/6LjA5mwgRSSjIprVvbzGb6"
     }
   ],
   "unique_name": "Rimas y Perreo",

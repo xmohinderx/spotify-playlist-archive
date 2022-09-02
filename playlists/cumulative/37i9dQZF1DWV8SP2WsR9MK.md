@@ -4,7 +4,7 @@
 
 > The classic jazz guitarists and their finest pieces\. Cover: Grant Green
 
-121 songs - 10 hr 57 min - [published](https://open.spotify.com/playlist/7w8GJPrdmj1YWELU4DdBN4)
+122 songs - 11 hr 2 min - [published](https://open.spotify.com/playlist/7w8GJPrdmj1YWELU4DdBN4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [I'll See You in My Dreams](https://open.spotify.com/track/52yEkn1b6BiOZad3x7x6PP) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Djangologie Vol9 / 1939 \- 1940](https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun) | 2:33 | 2022-08-12 |  |
 | [Idle Moments](https://open.spotify.com/track/6bY9atW7iC0JMy7nx4eT0Y) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [The Best Of Grant Green](https://open.spotify.com/album/6DJNcDFC9fT8Ll1WnX4oq7) | 14:57 | 2022-08-26 |  |
 | [In A Sentimental Mood](https://open.spotify.com/track/1NaYmJphKpCQqW2nUIIClH) | [Emily Remler](https://open.spotify.com/artist/2KD1KC9SgUiYueJUmWTnNJ) | [Firefly](https://open.spotify.com/album/60MOA021iZ4tJDSg0s78je) | 7:49 | 2022-05-24 |  |
+| [In Your Own Sweet Way](https://open.spotify.com/track/5Y8XLhYm4ZeMU25Rg24YoH) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Incredible Jazz Guitar](https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP) | 4:52 | 2022-09-01 |  |
 | [It Could Happen To You](https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA) | [Herb Ellis](https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz) | [Ellis In Wonderland](https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP) | 3:44 | 2022-05-24 |  |
 | [It's a Blue World](https://open.spotify.com/track/2CXfxQY057JczwoKonH8dl) | [Billy Bauer](https://open.spotify.com/artist/2Stsu7b2rXjs8idU9wjQgf) | [Plectrist](https://open.spotify.com/album/4yXQl7UAIbrszxlYSgEqla) | 4:14 | 2022-05-24 |  |
 | [It's A Blue World \- Original](https://open.spotify.com/track/6VUzfooRLz88SbiBAeRf6v) | [Billy Bauer](https://open.spotify.com/artist/2Stsu7b2rXjs8idU9wjQgf) | [The Best of Billy Bauer](https://open.spotify.com/album/6VXcwfXihKz3qHQdLs1ZY9) | 4:13 | 2022-05-24 | 2022-07-29 |
@@ -119,7 +120,7 @@
 | [Walkin' Up](https://open.spotify.com/track/6MVMLpL405L6JXbHXsddGa) | [Joe Pass](https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ) | [The Capitol Vaults Jazz Series](https://open.spotify.com/album/6RRyVVMofYvprSf4fJViho) | 3:19 | 2022-05-24 | 2022-08-13 |
 | [Wavy Gravy \- Remastered](https://open.spotify.com/track/6HpGqqpmoQ9O9kOzPtELhy) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Midnight Blue \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/0hMuKAciHKinu4L3R4Ojjl) | 5:47 | 2022-08-12 |  |
 | [When The Sun Comes Out](https://open.spotify.com/track/6AVztYjd9LnVjXtDHK73NU) | [Howard Roberts](https://open.spotify.com/artist/1E4UIKgZgGsuAZ4CFS0Cel) | [Good Pickin's](https://open.spotify.com/album/0CVGXahh2o0Wg4asysJ9OS) | 4:15 | 2022-05-24 |  |
-| [While We're Young](https://open.spotify.com/track/6TYTG0Y8dZZHP8EluhrXel) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [So Much Guitar!](https://open.spotify.com/album/1sTp3ReToGw9Ds3ScQG6RD) | 2:15 | 2022-05-24 |  |
+| [While We're Young](https://open.spotify.com/track/6TYTG0Y8dZZHP8EluhrXel) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [So Much Guitar!](https://open.spotify.com/album/1sTp3ReToGw9Ds3ScQG6RD) | 2:15 | 2022-05-24 | 2022-09-02 |
 | [Wholly Cats](https://open.spotify.com/track/4p9naPxsiai1ayHWKvvhCS) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve), [Charlie Christian](https://open.spotify.com/artist/0WdDpEeDIDmtYh5sqRrdI6), [Benny Goodman Sextet](https://open.spotify.com/artist/33N6sGOKJwLGOnq31ZmEl1) | [The Essential Benny Goodman](https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK) | 3:02 | 2022-05-24 |  |
 | [Windy](https://open.spotify.com/track/2dUCI2pj2CmMem7v8Ul8BO) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [A Day In The Life](https://open.spotify.com/album/5Z6DQMOjrC5DK1pQ3RBdZ5) | 2:22 | 2022-05-24 | 2022-08-18 |
 | [Yesterdays](https://open.spotify.com/track/1SeSq9ok1FHh2mRna8UJGR) | [Adam Rogers](https://open.spotify.com/artist/68u79CqTqTgKncfDRbjDLH), [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH), [Clarence Penn](https://open.spotify.com/artist/5rJj8HrmzwTut6lKzChcEh) | [Sight](https://open.spotify.com/album/4Hud8C5AEW8aKw1AdIVPgt) | 7:26 | 2022-05-24 |  |

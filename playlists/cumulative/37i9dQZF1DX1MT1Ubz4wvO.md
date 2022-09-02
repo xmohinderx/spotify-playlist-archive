@@ -4,7 +4,7 @@
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Cometa Sucre en portada.
 
-228 songs - 13 hr 44 min - [published](https://open.spotify.com/playlist/1BUAq3Aj6U4yuWSfhY1mrl)
+229 songs - 13 hr 47 min - [published](https://open.spotify.com/playlist/1BUAq3Aj6U4yuWSfhY1mrl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [La Pelea](https://open.spotify.com/track/7vRfX8azRsDLRqQKxAhiFL) | [Rayos Láser](https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs) | [La Pelea](https://open.spotify.com/album/3d0QRePKfpYNCzlSDYUOMN) | 3:20 | 2022-07-22 | 2022-08-13 |
 | [La Peli](https://open.spotify.com/track/70nZW0g0xwZ6xnPAhZ8k6J) | [Marina Melgar](https://open.spotify.com/artist/2l8RvUNJbdZiJBLf6qtvYK) | [La Peli](https://open.spotify.com/album/46cZ3yg9D4uFfGZL0SZVbO) | 2:37 | 2022-07-15 | 2022-08-06 |
 | [La Plegaria de la Noche](https://open.spotify.com/track/4CHnu9MmiPITxzCmQ5W1R2) | [Centavrvs](https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo) | [La Plegaria de la Noche](https://open.spotify.com/album/1RVQVJBoyI5o8PC0l0JQ5e) | 4:14 | 2022-07-15 | 2022-08-06 |
-| [La Última Llamada](https://open.spotify.com/track/6uvNQEoUPJaHI10oVffAHO) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [La Última Llamada](https://open.spotify.com/album/2G0Z5q89Kp9NXX6a7y5F1t) | 3:14 | 2022-08-26 |  |
+| [La Última Llamada](https://open.spotify.com/track/3xqO0HGtRgTkS9xzNEQxwb) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [La Última Llamada](https://open.spotify.com/album/5SFEcLOtKOTjlI1q72TbnL) | 3:14 | 2022-08-26 |  |
+| [La Última Llamada](https://open.spotify.com/track/6uvNQEoUPJaHI10oVffAHO) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [La Última Llamada](https://open.spotify.com/album/2G0Z5q89Kp9NXX6a7y5F1t) | 3:14 | 2022-08-26 | 2022-09-02 |
 | [Laberintos](https://open.spotify.com/track/2cmrWW2lEdV9Cg3kJK0V4h) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [Laberintos](https://open.spotify.com/album/5zRTNkU4vU8nSXwjXjFuR4) | 3:21 | 2022-06-24 | 2022-07-09 |
 | [Lamento Boliviano](https://open.spotify.com/track/69xAODJbGD64reFIgp8MxX) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1), [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Lamento Boliviano](https://open.spotify.com/album/4832tSPhuJCtT46DCaGiGR) | 4:03 | 2022-06-24 | 2022-07-02 |
 | [Las Vueltas de la Vida](https://open.spotify.com/track/1QYEJ1pkCoqZx1C080XCmq) | [Las Sombras](https://open.spotify.com/artist/5el5cbPZc64RtoKhnL2Bzw) | [Las Vueltas de la Vida](https://open.spotify.com/album/2HhbBBxyvR5v7LFy3lKJel) | 4:22 | 2022-06-24 | 2022-07-09 |

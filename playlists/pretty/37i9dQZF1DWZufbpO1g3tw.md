@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZufbpO1g3tw.md) - [plain]
 
 > ¡Trompetas, piano y timbal para darle sazón a tu mediodía!
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,199 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,217 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZufbpO1g3tw.md) - [plain]
 | 34 | [Gypsy Woman](https://open.spotify.com/track/2bHqwpV9FlAjdsERULo2ts) | [Joe Bataan](https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU) | [Gypsy Woman](https://open.spotify.com/album/41RCbCNUXDHDey6Uh5jyb0) | 2:32 |
 | 35 | [Ojos Negros](https://open.spotify.com/track/0E34QOEIpfSEvwkWOUi16T) | [Desta French](https://open.spotify.com/artist/0Wqws1yyGkVRdAd7ncSW3W), [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV) | [Ojos Negros](https://open.spotify.com/album/5SgYNPLjnGFIrV37pV6mZ1) | 3:44 |
 | 36 | [Todos tenemos hogar](https://open.spotify.com/track/0TS5b5bVfUtGi2VOimdjIH) | [Los Pirañas](https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq) | [Historia natural](https://open.spotify.com/album/6R4jGvcdmRiF8wL6yqp34N) | 3:43 |
-| 37 | [Bleu de lune \(El Buho Remix\)](https://open.spotify.com/track/4FKT3e93KFlXf5KBh715EV) | [Zoufris Maracas](https://open.spotify.com/artist/2aW5pvTZYAAZxbh75uVzZD), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Bleu de lune \(El Buho Remix\)](https://open.spotify.com/album/1NB4UnMNf4SOXCY7iIIdyZ) | 4:41 |
-| 38 | [Si Me Quieres](https://open.spotify.com/track/6Bx4bfum3dd8FAEiLVntzP) | [Los Hijos del sol](https://open.spotify.com/artist/2eDtYwKCGACUH3hFyaZ7Ah) | [Tropicalísimo: Clásicos de Cumbia Peruana](https://open.spotify.com/album/4y6v6W4BoxN7HjlbxKL6lW) | 3:09 |
+| 37 | [Si Me Quieres](https://open.spotify.com/track/6Bx4bfum3dd8FAEiLVntzP) | [Los Hijos del sol](https://open.spotify.com/artist/2eDtYwKCGACUH3hFyaZ7Ah) | [Tropicalísimo: Clásicos de Cumbia Peruana](https://open.spotify.com/album/4y6v6W4BoxN7HjlbxKL6lW) | 3:09 |
+| 38 | [Bleu de lune \(El Buho Remix\)](https://open.spotify.com/track/4FKT3e93KFlXf5KBh715EV) | [Zoufris Maracas](https://open.spotify.com/artist/2aW5pvTZYAAZxbh75uVzZD), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Bleu de lune \(El Buho Remix\)](https://open.spotify.com/album/1NB4UnMNf4SOXCY7iIIdyZ) | 4:41 |
 | 39 | [La Luna en Tu Mirada](https://open.spotify.com/track/6Pn9xvGxfZdg0BvAiQsMmJ) | [Los Zafiros](https://open.spotify.com/artist/20hjMyNIdXmSMFau9ZkmU6) | [Director Nestor Mili](https://open.spotify.com/album/6sdUnDbPFE4Krw4aHHEM3z) | 2:36 |
 | 40 | [Cumbia Espacial](https://open.spotify.com/track/7y40GtUQ2pO4rV652rVazz) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Ondatrópica \(Deluxe Version\)](https://open.spotify.com/album/2clte0oolrkkXFTJy72us2) | 4:05 |
 | 41 | [Tíbiri Tábara](https://open.spotify.com/track/6pL9XBpYH2EqM6vN1I2smj) | [Sierra Maestra](https://open.spotify.com/artist/04azg2bFlSz46nOe03VY2w) | [Tibiri Tabara](https://open.spotify.com/album/22HGndY6yvYJbtySZCkHt4) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZufbpO1g3tw.md) - [plain]
 | 49 | [Lazalypso](https://open.spotify.com/track/73nwZubj4lYdp7MfDZO47a) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Baile Bucanero](https://open.spotify.com/album/1jBC2RT7oXRkOqHrfoZCI3) | 3:33 |
 | 50 | [Salsa Caliente \(Versión Aumentada\)](https://open.spotify.com/track/3qMRDghhgm2V3be7a3yxnn) | [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [Desesperanza](https://open.spotify.com/album/5Kz98hHeSt1Qokhc6rZd83) | 4:43 |
 
-Snapshot ID: `MTY1MDQzMDgwMCwwMDAwMDAwMDE5ZmE3NmNiNzA1NWYzZGY0ZGY0MjQ3YWE4NzhlMDdi`
+Snapshot ID: `MTY1MDQzMDgwMCwwMDAwMDAwMDc1N2JiMWI3OWM4YjVlYTc5YjA2ZGViYzgzMTVhMDQ5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY5eNJoKHd2.md) - [plain]
 
 > Music that makes you feel like you're levitating\. Cover: The Carina Nebula, NASA
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,362 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,634 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY5eNJoKHd2.md) - [plain]
 | 14 | [HONEST](https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:52 |
 | 15 | [Downtown](https://open.spotify.com/track/0DfRIdHGNm3JfPGjPqg6GJ) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [Non Binary Place](https://open.spotify.com/album/2ZH8IpoBY4rSq3QB6Oez9u) | 4:27 |
 | 16 | [Passionfruit](https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 4:58 |
-| 17 | [Is There Someone Else?](https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:19 |
-| 18 | [Pink + White](https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 3:04 |
+| 17 | [Pink + White](https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 3:04 |
+| 18 | [Is There Someone Else?](https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:19 |
 | 19 | [505](https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 4:13 |
 | 20 | [Formula](https://open.spotify.com/track/6EtKlIQmGPB9SX8UjDJG5s) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 1:31 |
 | 21 | [LOVE\. FEAT\. ZACARI.](https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 3:33 |
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY5eNJoKHd2.md) - [plain]
 | 31 | [ARE WE STILL FRIENDS?](https://open.spotify.com/track/5TxRUOsGeWeRl3xOML59Ai) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 4:25 |
 | 32 | [Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 3:18 |
 | 33 | [rises the moon](https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [recently](https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux) | 2:41 |
-| 34 | [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:49 |
+| 34 | [Broken Clocks](https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 3:51 |
 | 35 | [Violent Crimes](https://open.spotify.com/track/3s7MCdXyWmwjdcWh7GWXas) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [ye](https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe) | 3:35 |
 | 36 | [BEST INTEREST](https://open.spotify.com/track/3jHdKaLCkuNEkWcLVmQPCX) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [BEST INTEREST](https://open.spotify.com/album/5iUwaD3wFVwfaAfs9Z0eCh) | 2:07 |
-| 37 | [Broken Clocks](https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 3:51 |
+| 37 | [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:49 |
 | 38 | [On Melancholy Hill](https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 3:53 |
 | 39 | [White Iverson](https://open.spotify.com/track/6eT7xZZlB2mwyzJ2sUKG6w) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 4:16 |
 | 40 | [Show Me How](https://open.spotify.com/track/01TyFEZu6mHbffsVfxgrFn) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Show Me How](https://open.spotify.com/album/75IgpYGNlc8KmwZ9FlTtJg) | 3:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY5eNJoKHd2.md) - [plain]
 | 49 | [Tadow](https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Lady Lady](https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt) | 5:01 |
 | 50 | [Moon](https://open.spotify.com/track/7CC6UbCs4iGsePSzFxYxNn) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 2:36 |
 
-Snapshot ID: `MTY2MTk4ODg0NywwMDAwMDAwMGUzNDYxYjk4NGExNTc5NjUxZDg4OTZlNTg4ZDc5ZDYw`
+Snapshot ID: `MTY2MTk4ODg0NywwMDAwMDAwMGE3ODFhYzNmNjExZTBjMmQ0MGZlYTNjY2EzMzIwOGM5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPeYMCDRQeg.md) - [plain]
 
 > Celebrating Black love, one song at a time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,451 likes - 80 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,562 likes - 80 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPeYMCDRQeg.md) - [plain]
 | 46 | [Let It Burn](https://open.spotify.com/track/6KOc6ViZB8NtfCVABmTe66) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Reality Show](https://open.spotify.com/album/682dnvSPZ6lwCNodfMVcbh) | 3:43 |
 | 47 | [I Want To Thank You](https://open.spotify.com/track/6ODAghAlMTyu9fWa2CNKmf) | [Alicia Myers](https://open.spotify.com/artist/7v4FV3DzSUOvaZyMwTxKIG) | [Back To Back](https://open.spotify.com/album/4d4Z42kZJMcrmYlZ7I19rn) | 3:49 |
 | 48 | [Soul Sista](https://open.spotify.com/track/1eetzMDPNpYSZOreBw7SSk) | [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [1st Born Second](https://open.spotify.com/album/6n09PKuOUkvyOmX9U3uO77) | 5:18 |
-| 49 | [Feel Like Makin' Love](https://open.spotify.com/track/7hzgk557YLr0722EFkmp9Z) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 6:22 |
-| 50 | [You Want My Love](https://open.spotify.com/track/5BQf3eyCsoSP5jNGx9sPdD) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [You Want My Love](https://open.spotify.com/album/2GGcfPODdGZ3m6riQU4rNq) | 3:14 |
+| 49 | [You Want My Love](https://open.spotify.com/track/5BQf3eyCsoSP5jNGx9sPdD) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [You Want My Love](https://open.spotify.com/album/2GGcfPODdGZ3m6riQU4rNq) | 3:14 |
+| 50 | [Feel Like Makin' Love](https://open.spotify.com/track/7hzgk557YLr0722EFkmp9Z) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 6:22 |
 | 51 | [Collide \- From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/1mEO3xiJqEWXYIdZalDzHR) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Collide \(From "Queen & Slim: The Soundtrack"\)](https://open.spotify.com/album/0Y9i5YM95iEHAQpppUN76A) | 3:25 |
 | 52 | [Touch Me \(feat\. Kehlani\) \- Remix](https://open.spotify.com/track/5kAm2Y5ygQtsVfE5dQQfGy) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Touch Me \(feat\. Kehlani\) \[Remix\]](https://open.spotify.com/album/4ICez0IybCtHZbAXl5ENWJ) | 3:07 |
 | 53 | [U Send Me Swingin'](https://open.spotify.com/track/1mC7u32zemMLC1mVOU02Pm) | [Mint Condition](https://open.spotify.com/artist/4MT97VeycuegSicrrphisJ) | [From The Mint Factory](https://open.spotify.com/album/7hzFhf3WpRUNM52MVjgCVe) | 5:14 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPeYMCDRQeg.md) - [plain]
 | 55 | [Kissin' You](https://open.spotify.com/track/1e5DTpM1WeggytDXbphivX) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Total](https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb) | 4:42 |
 | 56 | [This Is for the Lover in You](https://open.spotify.com/track/78zalqlTeKYmNiQBXANKDl) | [Shalamar](https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A) | [Three for Love](https://open.spotify.com/album/62jHAFPLTBs0u6McU9DV4X) | 5:04 |
 | 57 | [This Luv](https://open.spotify.com/track/4l34rbUYqKWufYEWriVnB5) | [Donell Jones](https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B) | [Where I Wanna Be](https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph) | 4:09 |
-| 58 | [Whatever You Want](https://open.spotify.com/track/6yl6TMw87Nq0mWBQtw9muQ) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [The Revival](https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT) | 4:50 |
-| 59 | [Dontchange](https://open.spotify.com/track/3DkaXDmC0qaFNAxgLMuwX4) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Juslisen](https://open.spotify.com/album/070dWVyJIxcKQmxPRov0Y5) | 5:04 |
+| 58 | [Dontchange](https://open.spotify.com/track/3DkaXDmC0qaFNAxgLMuwX4) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Juslisen](https://open.spotify.com/album/070dWVyJIxcKQmxPRov0Y5) | 5:04 |
+| 59 | [Whatever You Want](https://open.spotify.com/track/6yl6TMw87Nq0mWBQtw9muQ) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [The Revival](https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT) | 4:50 |
 | 60 | [Cherish the Day](https://open.spotify.com/track/38QnxZJMktnt96bxalqgEl) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 6:18 |
 | 61 | [I Love You](https://open.spotify.com/track/6gsmFgUiSTuinJlScwFODv) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Faithfully](https://open.spotify.com/album/0pP9NBXbbRH2ZJb7fazkZy) | 4:27 |
 | 62 | [Happily Ever After](https://open.spotify.com/track/21fXrzSxu2y51Yqf57QycI) | [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy) | [Personal Conversation](https://open.spotify.com/album/3UuOV0067Agbr3L9bE1D9K) | 4:36 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPeYMCDRQeg.md) - [plain]
 | 74 | [Can't Let It Show](https://open.spotify.com/track/2kMarngrIWYgmAdVjruuuW) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [Can't Let It Show](https://open.spotify.com/album/4HhADiM8pxlbilsOpxA6iO) | 3:37 |
 | 75 | [My Heart Belongs To U](https://open.spotify.com/track/5aVnC5HP5LtiGsx6OUyfUr) | [Jodeci](https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK) | [Diary Of A Mad Band](https://open.spotify.com/album/41pgxrq2gjdSsGnqofrHGj) | 5:02 |
 | 76 | [Gone Baby, Don't Be Long](https://open.spotify.com/track/0QQDaKW7eRRoqvbLCylzrn) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [New Amerykah Part Two: Return Of The Ankh](https://open.spotify.com/album/1MOub955Uer957RVqqkF2a) | 4:39 |
-| 77 | [Searching](https://open.spotify.com/track/45muf22QzSyKwsF4l3IcwJ) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Vibrations](https://open.spotify.com/album/44FVaRWkEXn4DaDv9fD23z) | 4:00 |
-| 78 | [Soul Sista \- Remix / From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/54SqlaPV5mzRTBBWdnE1OO) | [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs), [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [Queen & Slim: The Soundtrack](https://open.spotify.com/album/3KkAi988nPkzw0FOrXTBfM) | 5:39 |
+| 77 | [Soul Sista \- Remix / From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/54SqlaPV5mzRTBBWdnE1OO) | [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs), [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [Queen & Slim: The Soundtrack](https://open.spotify.com/album/3KkAi988nPkzw0FOrXTBfM) | 5:39 |
+| 78 | [Searching](https://open.spotify.com/track/45muf22QzSyKwsF4l3IcwJ) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Vibrations](https://open.spotify.com/album/44FVaRWkEXn4DaDv9fD23z) | 4:00 |
 | 79 | [Come Close](https://open.spotify.com/track/2dCD8qq7yHZPZduA8FJazs) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Electric Circus](https://open.spotify.com/album/4eD2SoySMPRl0SBv7rqk1X) | 4:35 |
 | 80 | [I Like The Way](https://open.spotify.com/track/0flZtKtmkZMNqFF7V7Yfmu) | [Hi\-Five](https://open.spotify.com/artist/0EVUivUkugMtNF09L4QBMH) | [Greatest Hits](https://open.spotify.com/album/50q6yYmQ9Mzk4L95sxGXib) | 5:50 |
 
-Snapshot ID: `MTY0NzI4NzY1OCwwMDAwMDAwMGY3N2ZmZmZjOWU1YjE3ZDQwMmYxNmNhZTAyNjlmMDYw`
+Snapshot ID: `MTY0NzI4NzY1OCwwMDAwMDAwMDE0YjY3NjA3YjkzZDFhOTA2MWQxYTBjOTAzNTA2NzA2`

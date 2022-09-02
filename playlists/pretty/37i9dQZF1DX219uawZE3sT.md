@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX219uawZE3sT.md) - [plain]
 
 > Apasiónate y revive los temas de tus historias predilectas\. Foto: Thalía
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,503 likes - 70 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,552 likes - 70 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX219uawZE3sT.md) - [plain]
 | 39 | [Ayer La Vi](https://open.spotify.com/track/2DcgfpjjP0EDY11XiBKUnX) | [Angel Y Khriz](https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo) | [Da' Take Over](https://open.spotify.com/album/441w84evLgVKSEgdIw8f3m) | 3:56 |
 | 40 | [Fiesta](https://open.spotify.com/track/2xl5JXBEbGrIzDa0RUqlPI) | [Sentidos Opuestos](https://open.spotify.com/artist/1xJAOe5igcfHGUbMHxsTBq) | [Viento A Favor](https://open.spotify.com/album/4z89Bcubl2hpYkaDe17Apz) | 3:17 |
 | 41 | [Desnuda](https://open.spotify.com/track/5DRMxhUUiebOG9ruo5aLxj) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Canciones De Amor](https://open.spotify.com/album/69hcj06pBkmRqZYNqtbI8c) | 4:15 |
-| 42 | [Amor sincero](https://open.spotify.com/track/4OPLeqfkiSm5tLz9A6Rst4) | [Alexander Acha](https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh) | [La vida es..\. Amor sincero](https://open.spotify.com/album/3LiUITjrr8pxbeejKsgF5u) | 3:46 |
-| 43 | [Falsas Esperanzas](https://open.spotify.com/track/0Mrq76p3dcIF8vrzWQyMVG) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mi Reflejo](https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK) | 2:56 |
+| 42 | [Falsas Esperanzas](https://open.spotify.com/track/0Mrq76p3dcIF8vrzWQyMVG) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mi Reflejo](https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK) | 2:56 |
+| 43 | [Amor sincero](https://open.spotify.com/track/4OPLeqfkiSm5tLz9A6Rst4) | [Alexander Acha](https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh) | [La vida es..\. Amor sincero](https://open.spotify.com/album/3LiUITjrr8pxbeejKsgF5u) | 3:46 |
 | 44 | [Señora](https://open.spotify.com/track/3sKfWfo0VSspTmBmK3jKzr) | [Francisco Céspedes](https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8) | [Vida Loca](https://open.spotify.com/album/11lYdxQdsgkvKfDjX0nTHa) | 3:24 |
 | 45 | [Amor \(Amor, amor, amor\)](https://open.spotify.com/track/1k4GYtmW7edpJ9uhQmzO66) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mis Romances](https://open.spotify.com/album/0hAqX9l2oj2RQAHLWrilLv) | 3:42 |
 | 46 | [Por Amarte \(Destilando Amor\)](https://open.spotify.com/track/3EVVkNVaZoEwS2C4xntDJX) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Enamorado](https://open.spotify.com/album/16xce8lPlKNdhbPbJFxMne) | 3:49 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX219uawZE3sT.md) - [plain]
 | 69 | [El Amor De Mi Vida](https://open.spotify.com/track/6Byf7nRNKYLuqXsWf80ahI) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [La Mas Completa Coleccion](https://open.spotify.com/album/6ie8SesJgc1UflnOl42NHB) | 4:34 |
 | 70 | [Sólo Importas Tú](https://open.spotify.com/track/4dCj8lsb7xO4Wlz4P8RcMb) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/4OFqUGVCznz7kSWhdpSkN4) | 5:02 |
 
-Snapshot ID: `MTY1MTg2MTk0NiwwMDAwMDAwMDJiNDE0OGJhYzE0ZWUzN2FkMTJkNmFmYjc1MjZmYTk4`
+Snapshot ID: `MTY1MTg2MTk0NiwwMDAwMDAwMDk3NTc5NGRkOWQyNGQyYWY4YTI5MWQ5MDJhNThiZmUz`

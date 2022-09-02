@@ -4,7 +4,7 @@
 
 > Jazz for breakfast to start your day right.
 
-141 songs - 12 hr 23 min - [published](https://open.spotify.com/playlist/00KxmXWSXPzcN3QrlgmEa1)
+142 songs - 12 hr 29 min - [published](https://open.spotify.com/playlist/00KxmXWSXPzcN3QrlgmEa1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Prelude to a Kiss](https://open.spotify.com/track/5Z9BMdHdZVOX5GXUtzaxr3) | [Jerry Bergonzi](https://open.spotify.com/artist/5CSkWcdoRvgBQDwJTZZstJ), [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt) | [Standard Gonz](https://open.spotify.com/album/4jym5FR0j3jAdcazPDLLDa) | 7:14 | 2022-02-10 |  |
 | [Pure Imagination](https://open.spotify.com/track/1EcSvZ9Kq0EAohVfPcHToh) | [Rob Barron](https://open.spotify.com/artist/1QoFjUjxsHULNzFihvt8Sd) | [Pure Imagination](https://open.spotify.com/album/1a2ltY23XnBtmf47BRtKVK) | 5:58 | 2021-12-21 |  |
 | [På nye eventyr](https://open.spotify.com/track/3PVMg33zbePrQvoUgXpnBq) | [Maridalen](https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ) | [På nye eventyr](https://open.spotify.com/album/532pfB7ZluWCvQzrO4o4t6) | 5:22 | 2022-02-24 |  |
-| [Queen Of The South](https://open.spotify.com/track/5zzuc4E1t63gH4NRITIUWa) | [Ron Miles](https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP) | [Queen Of The South](https://open.spotify.com/album/14eu3scYNCK8QwPNqwYelY) | 4:20 | 2021-12-21 |  |
+| [Queen Of The South](https://open.spotify.com/track/5zzuc4E1t63gH4NRITIUWa) | [Ron Miles](https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP) | [Queen Of The South](https://open.spotify.com/album/14eu3scYNCK8QwPNqwYelY) | 4:20 | 2021-12-21 | 2022-09-02 |
 | [Quiet Nights Of Quiet Stars \(Corcovado\)](https://open.spotify.com/track/3lTyliusZgm29TXJyfFO3B) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Work From Home with Oscar Peterson](https://open.spotify.com/album/0ORKsWALEps4PNvnM78dM7) | 2:49 | 2022-06-30 |  |
 | [Quiet Nights Of Quiet Stars \(Corcovado\)](https://open.spotify.com/track/50k9ezYU7sRIO26eZ5ceMr) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [We Get Requests](https://open.spotify.com/album/3wGqwnfwZJFTxST28zPARF) | 2:51 | 2021-12-21 | 2022-07-29 |
 | [Quiet Sense \(feat\. Paolo Fresu\)](https://open.spotify.com/track/56OCZENfcrmeCpufvWZd0P) | [Triosence](https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX), [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi) | [Quiet Sense \(feat\. Paolo Fresu\)](https://open.spotify.com/album/7BisVv834vN4y1h8CcWhjC) | 4:43 | 2022-02-10 |  |
@@ -144,6 +144,7 @@
 | [Where or When](https://open.spotify.com/track/3b1J3QbTTDXcxB4EmIWY17) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [Where or When](https://open.spotify.com/album/1qYy2VgAlQ0yPQf4C5TWDo) | 3:50 | 2022-08-29 |  |
 | [Where We Belong](https://open.spotify.com/track/4LRIGcp9jELNiscAhEc2XI) | [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph), [Lars Jansson](https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS), [Paul Svanberg](https://open.spotify.com/artist/7KfU9kgLyulNPcW5ZBlPRX) | [Where We Belong](https://open.spotify.com/album/1klyqyo9Ychh0ItzQDgrox) | 6:11 | 2021-12-21 |  |
 | [Will You Still Be Mine?](https://open.spotify.com/track/7FoszDSSSG1bFxDl6QDZ0l) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Jimmy Cobb](https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ), [John Webber](https://open.spotify.com/artist/2DcPd1TuEWKCjnokl3EIO5) | [A Drums Comes True](https://open.spotify.com/album/6bey4hwrgdVRopI07dKfsr) | 5:53 | 2021-12-21 |  |
+| [Winter](https://open.spotify.com/track/0TY99mhZgjAT1Nv3b2fnZr) | [Chip Wickham](https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0) | [Winter](https://open.spotify.com/album/6y81cvtV64YclRmmivCI8U) | 5:29 | 2022-08-29 |  |
 | [Without Deception](https://open.spotify.com/track/503UAqvRFIcoNaUYZM2WUZ) | [Kenny Barron](https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3), [Dave Holland Trio](https://open.spotify.com/artist/7fFLGyDMrSHUmuY6wdAcXe), [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Without Deception](https://open.spotify.com/album/6LUlAvbrFf5GdxXAO0Fznc) | 6:35 | 2021-12-21 |  |
 | [Wolves](https://open.spotify.com/track/6swC1FhShFOBw1WelyqIfZ) | [Foehn Trio](https://open.spotify.com/artist/71YdDTi8qnsYcgSEnTI3et) | [Highlines](https://open.spotify.com/album/0ONIe9ezp42TGsOjz7n9pF) | 6:02 | 2021-12-21 | 2022-06-01 |
 | [Yardley Suite](https://open.spotify.com/track/2u9mRfYp5vzMCCSLxS85X9) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Yardley Suite](https://open.spotify.com/album/1MVB8WaiCepzmHVvX741WN) | 3:55 | 2021-12-21 | 2022-07-28 |

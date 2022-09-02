@@ -1,12 +1,12 @@
 {
   "description": "Turn up for the big game!",
-  "num_followers": 561726,
+  "num_followers": 561891,
   "original_name": "Gameday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjgwMCwwMDAwMDAwMDk4YmIxYmJjZDBjZDNjNjE1Zjk0Zjg0ZWEyMDUxZDcz",
+  "snapshot_id": "MTY2MDI3NjgwMCwwMDAwMDAwMGRmYmJmMTUwOGE1YTE4NzYyZmEzZGExNzNjN2JmZTUx",
   "tracks": [
     {
       "added_at": "2022-08-12 04:00:00",
@@ -67,22 +67,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "2001",
-        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
+        "name": "BILLIE EILISH.",
+        "url": "https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA"
       },
       "artists": [
         {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
         }
       ],
-      "duration_ms": 270586,
-      "name": "Still D.R.E.",
-      "url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"
+      "duration_ms": 99282,
+      "name": "BILLIE EILISH.",
+      "url": "https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -115,18 +111,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "BILLIE EILISH.",
-        "url": "https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA"
+        "name": "2001",
+        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
       },
       "artists": [
         {
-          "name": "Armani White",
-          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         }
       ],
-      "duration_ms": 99282,
-      "name": "BILLIE EILISH.",
-      "url": "https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV"
+      "duration_ms": 270586,
+      "name": "Still D.R.E.",
+      "url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -851,26 +851,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Waddup (feat. Polo G)",
-        "url": "https://open.spotify.com/album/5n7rq7SXw2F014wwX6DlW9"
-      },
-      "artists": [
-        {
-          "name": "PGF Nuk",
-          "url": "https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 181540,
-      "name": "Waddup (feat. Polo G)",
-      "url": "https://open.spotify.com/track/5teSgJfTCFK0ngDASJb99U"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Over The Top (feat. Drake)",
         "url": "https://open.spotify.com/album/4ROMS3rcR9JepxAtDRpvc5"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 153406,
       "name": "Over The Top (feat. Drake)",
       "url": "https://open.spotify.com/track/3yaYgjEFkRw3PVjW9mV1TO"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Waddup (feat. Polo G)",
+        "url": "https://open.spotify.com/album/5n7rq7SXw2F014wwX6DlW9"
+      },
+      "artists": [
+        {
+          "name": "PGF Nuk",
+          "url": "https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 181540,
+      "name": "Waddup (feat. Polo G)",
+      "url": "https://open.spotify.com/track/5teSgJfTCFK0ngDASJb99U"
     },
     {
       "added_at": "2022-08-12 04:00:00",

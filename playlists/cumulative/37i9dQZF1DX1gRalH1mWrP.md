@@ -4,7 +4,7 @@
 
 > All the hits you'll need to make your summer sizzle.
 
-1,026 songs - 2 day 5 hr 5 min - [published](https://open.spotify.com/playlist/5Tz3j6NeYOoWmHXBAGiazZ)
+1,027 songs - 2 day 5 hr 8 min - [published](https://open.spotify.com/playlist/5Tz3j6NeYOoWmHXBAGiazZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [Carry On \(from the Original Motion Picture "POKÉMON Detective Pikachu"\)](https://open.spotify.com/track/3y3brCCecHC3Db18aIOnny) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Carry On \(from the Original Motion Picture "POKÉMON Detective Pikachu"\)](https://open.spotify.com/album/1Z7WbPmn7QFoJ2DrNfEehz) | 3:35 | 2019-05-26\* | 2019-06-29 |
 | [Catalonia](https://open.spotify.com/track/5zs2czX5d8B0zuQB7jiFct) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [In Our Own Sweet Time](https://open.spotify.com/album/2290QOqExnVHp302b4zYaF) | 3:38 | 2022-06-17 | 2022-07-29 |
 | [Caught Up \(feat\. Khalid\)](https://open.spotify.com/track/1opARDDYaOeE1QUdwXmBGu) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Caught Up \(feat\. Khalid\)](https://open.spotify.com/album/3LHVZayhkrZPdryYqJ5JZu) | 4:07 | 2019-07-27 | 2019-09-07 |
-| [Caught Up \(with Olivia O'Brien\)](https://open.spotify.com/track/0sPrs9vLFdRRTllqlwL4v1) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Caught Up \(with Olivia O'Brien\)](https://open.spotify.com/album/39tWJL4zNgNhc8ndiUEaa6) | 2:53 | 2022-05-27 |  |
+| [Caught Up \(with Olivia O'Brien\)](https://open.spotify.com/track/0sPrs9vLFdRRTllqlwL4v1) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Caught Up \(with Olivia O'Brien\)](https://open.spotify.com/album/39tWJL4zNgNhc8ndiUEaa6) | 2:53 | 2022-05-27 | 2022-09-02 |
 | [Celebrate \(feat\. Travis Scott & Post Malone\)](https://open.spotify.com/track/0b6UoVjUzFyZNpHI0aAhKt) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Father Of Asahd](https://open.spotify.com/album/1YgX8BWKleDlDeCOFklRfz) | 3:26 | 2019-05-26\* | 2019-06-15 |
 | [CHAMPAGNE](https://open.spotify.com/track/07FODcDcgXtr42gXgQ9D0M) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [CHAMPAGNE](https://open.spotify.com/album/7oNiw8m4TvJt5qGPtnyHxs) | 3:00 | 2022-04-29 | 2022-07-23 |
 | [chaotic](https://open.spotify.com/track/2bdqU7C4softKNcMYDFi96) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [chaotic](https://open.spotify.com/album/1nZmxiUXBgZZ82fy5A0yau) | 2:58 | 2022-04-12 | 2022-05-28 |
@@ -481,6 +481,7 @@
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:28 | 2021-08-15 |  |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2021-04-30 | 2021-08-14 |
 | [Know Your Worth](https://open.spotify.com/track/0TrPqhAMoaKUFLR7iYDokf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Know Your Worth](https://open.spotify.com/album/0uLz2ygHQAtLknyGasJOr5) | 3:01 | 2020-04-29 | 2021-04-30 |
+| [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2022-09-02 |  |
 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 | 2022-08-17 |  |
 | [la di die \(feat\. jxdn\)](https://open.spotify.com/track/3RLshk3cDQOqWhSIRCVaXL) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ), [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [la di die \(feat\. jxdn\)](https://open.spotify.com/album/1KBoH5xsMCXPuVsZMORvtO) | 3:15 | 2021-05-08 | 2021-10-14 |
 | [La La Land](https://open.spotify.com/track/4UprSV8Kcj1kcSZNZrAW4e) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [La La Land](https://open.spotify.com/album/3vZmHuUzOwNEiWabjxY7zt) | 2:37 | 2019-06-08 | 2020-04-29 |

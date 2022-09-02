@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWFNSpryCCH5.md) - [plain]
 
 > Revive aquellas grandes canciones desenchufadas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,045,641 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,045,767 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWFNSpryCCH5.md) - [plain]
 | 47 | [Hit Me \- MTV Unplugged](https://open.spotify.com/track/3vKCtmzGnf87XsILKozKVX) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [MTV Unplugged: El Desconecte](https://open.spotify.com/album/5ceBnTwI1hUewZEwYnTc7z) | 5:13 |
 | 48 | [Here Without You \- Acoustic](https://open.spotify.com/track/2HIU8kiFo9sB5ih05q8wgP) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Here Without You \(Acoustic\)](https://open.spotify.com/album/4flaMBqrWP26gwhRRxbq7e) | 3:52 |
 | 49 | [Inevitable \- En Vivo](https://open.spotify.com/track/1gia3p3JUP6igy5kcpJSGb) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira MTV Unplugged](https://open.spotify.com/album/3yQQUyIA3vRIRnB4rqtThe) | 3:39 |
-| 50 | [La Flaca](https://open.spotify.com/track/3yGoV8L7vjF5OVKv9KPMkG) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Tour Americano 14/15](https://open.spotify.com/album/1raRxblTKBGTQ0q0qZSn3o) | 7:00 |
+| 50 | [La chispa adecuada \- Live](https://open.spotify.com/track/25TiUPCYa2KYp3LFENEkJM) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Tour 2007](https://open.spotify.com/album/7agRISos8iXzrqsCQ8Owg6) | 5:24 |
 
-Snapshot ID: `MTYxMjk5MTc2NywwMDAwMDAwMGVkNzZmN2VlOTRhMTRlMWFkYWI0NjA4MmYwNmQwOGYz`
+Snapshot ID: `MTYxMjk5MTc2NywwMDAwMDAwMDhjYmNhYjBlY2E1ODdjYjE5NGViMWQ1OGM0OWRmMjUw`

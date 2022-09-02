@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extraordinárias mulheres artistas portuguesas, como MARO, com o volume no máximo
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,544 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,538 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [like we're wired](https://open.spotify.com/track/0jWQBmBX3jowX8AuUXmzjq) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [like we're wired](https://open.spotify.com/album/3MZUsQ4bHveRDrwIxVV40S) | 4:06 |
+| 1 | [like we're wired](https://open.spotify.com/track/0KcINbJYIerkABczK3q0qo) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [can you see me?](https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE) | 4:04 |
 | 2 | [Eh Para a Frente, Eh Para trás](https://open.spotify.com/track/3elqH6YbzTGQtlYdlmIbZC) | [Cláudia Pascoal](https://open.spotify.com/artist/4mgrIhoYnm5QMXkDHhPaDJ) | [Eh Para a Frente, Eh Para trás](https://open.spotify.com/album/3srSDFJhgwBetFxmT1nvgM) | 3:31 |
 | 3 | [Disse Que Sim](https://open.spotify.com/track/4kDI9caBU7ZU4GS1UE81TE) | [Rita Dias](https://open.spotify.com/artist/1Sz1D01Jw9BQq7fwW1yvqK) | [Disse Que Sim](https://open.spotify.com/album/26q7TiQAry0szrfxFr9AYp) | 2:42 |
 | 4 | [Mi Montaña](https://open.spotify.com/track/7sYyzoRnUsQReKEuFUhs7d) | [Mariana Cortesão](https://open.spotify.com/artist/3SDCsDkaKp4ufaOh4gRMjG) | [Mi Montaña](https://open.spotify.com/album/7p6EQ8Zy2hxkUNfJdzkWPk) | 10:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 49 | [Passo a Passo](https://open.spotify.com/track/7sjCw56rjoLqNionnjcRGC) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB) | [Passo a Passo](https://open.spotify.com/album/5xhJcZaQl9b1p7L0bZfsnj) | 3:39 |
 | 50 | [Primeiro Andar](https://open.spotify.com/track/5j5UNlT7BlJkp1OL37If1x) | [Yinb](https://open.spotify.com/artist/2KmhbuIqupCuWoDpTidzrV), [Momma T](https://open.spotify.com/artist/2RwEXHPEe17Ekap37t6BBs) | [Primeiro Andar](https://open.spotify.com/album/6gwgtt8MWoQpYiHiVtzNfJ) | 3:06 |
 
-Snapshot ID: `MTY1OTQ4MTIwMCwwMDAwMDAwMDIyMzdkYTIxMGY3NGI5ZTU5YWYzYTAwMGU4Y2FhZTAy`
+Snapshot ID: `MTY1OTQ4MTIwMCwwMDAwMDAwMGNmYTYyNDdmYmM5MmM5ZjQ5ZjE5MTgyOWY1Mzg0YjQ4`

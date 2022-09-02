@@ -2,9 +2,9 @@
 
 ### [pulp](https://open.spotify.com/playlist/37i9dQZF1DX3IplhwNexYg)
 
-> The best in current indie rock\. Cover: Sports Team
+> The best in current indie rock\. Cover: Connie Constance
 
-239 songs - 13 hr 28 min - [published](https://open.spotify.com/playlist/6icr08W6LxkqPUtZpmcgvv)
+244 songs - 13 hr 45 min - [published](https://open.spotify.com/playlist/6icr08W6LxkqPUtZpmcgvv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Birthday](https://open.spotify.com/track/2AKdrnTd4ghOtZqBL0ftr6) | [Nectar](https://open.spotify.com/artist/0KrkFYlEHw4rOmAXtK9L7g) | [Knocking at the Door](https://open.spotify.com/album/4cTkQGmo5za5yeoCL9HrHj) | 4:02 | 2021-03-09 | 2022-01-17 |
 | [Bite Me](https://open.spotify.com/track/6VVpVTRXPfzLCGBFDXIHTh) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [Bite Me](https://open.spotify.com/album/3D3nleZaK7ABBT7iI0G1Dt) | 2:17 | 2022-08-18 |  |
 | [Black Tar](https://open.spotify.com/track/0OAXqItnyxKQUVpJNILG2V) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Black Tar](https://open.spotify.com/album/3ribJK72rYHmbPFnAwA51N) | 2:57 | 2022-08-18 |  |
+| [Bleak Sublime](https://open.spotify.com/track/5G6ww56ErVJEaU6ZpHq6RU) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Bleak Sublime](https://open.spotify.com/album/64g1LV7RIu1N0t15nJLDqQ) | 3:51 | 2022-09-01 |  |
 | [Blue](https://open.spotify.com/track/2Jtv7FYvZFQkz7GLJCIbTh) | [Thyla](https://open.spotify.com/artist/0L6tY7VDHwGDhx3T989SAJ) | [Blue](https://open.spotify.com/album/34PFa8obv2n5a5s1zEGnus) | 3:00 | 2021-03-09 | 2022-01-17 |
 | [Blueheart](https://open.spotify.com/track/2tYefVtZYM82eB4pdFtxmR) | [Lucia & The Best Boys](https://open.spotify.com/artist/3hihvmS048d6bb8YlZaTU1) | [Blueheart](https://open.spotify.com/album/0p6qEOTGGbdANAL2Galia5) | 2:49 | 2021-03-09 | 2022-01-17 |
 | [Break Right In](https://open.spotify.com/track/5CGI3BH6qXG6tSRwq6E8IQ) | [Buzzard Buzzard Buzzard](https://open.spotify.com/artist/69ilUSFj31FA2iLHtegRwi) | [Break Right In](https://open.spotify.com/album/6vyfTT54LDqMiX8BoakH0k) | 3:17 | 2022-01-17 | 2022-07-29 |
@@ -68,7 +69,9 @@
 | [Deep](https://open.spotify.com/track/1Qd0jDJKlgBTuCNqlM4GWO) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [Deep](https://open.spotify.com/album/3UVA6Nxe9gBBRVmbZwwIld) | 3:00 | 2021-03-19 | 2022-01-17 |
 | [Designated Driver](https://open.spotify.com/track/73u0xUD9Aag0hI1d2d0VU5) | [Motel Marys](https://open.spotify.com/artist/1mLFRG2MVmK7pRIoPTSRcj) | [Designated Driver](https://open.spotify.com/album/0MQ37Z3Hnkd1KhOHAhCkcH) | 2:35 | 2021-03-09 | 2022-01-17 |
 | [Diet Cigarette](https://open.spotify.com/track/66MqvK5aWjC4c2t8txkZh9) | [Uninvited](https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn) | [Diet Cigarette](https://open.spotify.com/album/6S8jivSZAqfqU81AR6dZSP) | 3:41 | 2021-10-29 | 2022-08-19 |
+| [Dig!](https://open.spotify.com/track/003jZXYNwnO3rl83ajtLpd) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Dig!](https://open.spotify.com/album/5HoYh07ZPhKkZ1hwV5VFL7) | 2:41 | 2022-09-01 |  |
 | [Digital Atlas](https://open.spotify.com/track/4DweoPyHETeUjbkUDwHlnl) | [Daisy Brain](https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4) | [Digital Atlas](https://open.spotify.com/album/3pPp2gMM0o5BK92geIkWa8) | 3:02 | 2022-02-04 |  |
+| [Do It All the Same](https://open.spotify.com/track/6o9mE8B6hhpDWutaOSsAho) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Do It All the Same](https://open.spotify.com/album/0oqtiAPmi6ZiZd7PnuDLuT) | 3:27 | 2022-09-01 |  |
 | [Don't Press Me](https://open.spotify.com/track/1kjV1x2jSTA6g4RoPm3HdY) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Anna Calls From The Arctic](https://open.spotify.com/album/5jwTWkWKnLiNQL9NXklUva) | 1:50 | 2022-08-18 |  |
 | [Dutch Courage](https://open.spotify.com/track/6kQmrit1q7b5BR6CvxpO99) | [Pit Pony](https://open.spotify.com/artist/1Tam6yeKCTZNKVah41Uv7j) | [Dutch Courage](https://open.spotify.com/album/02f6WXw7JMV9NLf0Z7Evza) | 4:30 | 2021-03-09 | 2022-01-17 |
 | [Easy On Your Own?](https://open.spotify.com/track/2ZmQI8hVG0wGsvBAvSPx47) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Easy On Your Own?](https://open.spotify.com/album/1v3VgD0YVk0bOrwfs0TO3J) | 2:54 | 2022-08-18 |  |
@@ -148,9 +151,10 @@
 | [Marbles](https://open.spotify.com/track/5ojNSrZr722qBzhBNUfIRT) | [Snarls](https://open.spotify.com/artist/3yZV7kMGClXfw0xaPAlImS) | [Marbles / Walk in the Woods](https://open.spotify.com/album/6If9NdOnS1vFsRyqX5SH8a) | 2:29 | 2021-03-09 | 2022-01-17 |
 | [midnight sun](https://open.spotify.com/track/2P7mPtGjXFzHoLgT6sMSyZ) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [midnight sun](https://open.spotify.com/album/28oyoR8mAfNqRGTuKIUuo3) | 4:42 | 2022-01-21 | 2022-07-29 |
 | [midnight sun](https://open.spotify.com/track/7M3YPejLG9WxQS9i4ZHVXh) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [PAINLESS](https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7) | 4:42 | 2022-04-01 | 2022-08-19 |
+| [Mood Hoover](https://open.spotify.com/track/1Kma7Z2DAv6tI7beez0Jqo) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Mood Hoover](https://open.spotify.com/album/6QMxKOuHssNVCqphLFbUn1) | 3:14 | 2022-09-01 |  |
 | [Ms\. California](https://open.spotify.com/track/0WxZEci23tWn1YzikUljEt) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Ms\. California](https://open.spotify.com/album/69vZJh3B8Dvjl7yUU0Eb5v) | 2:52 | 2021-03-09 | 2022-01-17 |
 | [Narration of a Lost Millennial](https://open.spotify.com/track/7iQfH9grc0jwbbPOuUZSSw) | [Rad Horror](https://open.spotify.com/artist/3AqJEHlSivoMSqsVYQ595n) | [Anti Teenage Sensation \(The Part Where Julia Dies\)](https://open.spotify.com/album/1jZfZrwSmI6TnXrxY5lnk2) | 3:05 | 2021-03-09 | 2022-01-17 |
-| [Nervous](https://open.spotify.com/track/3JaI7w5XQuJni4fX03MZIb) | [HUSHPUPPY](https://open.spotify.com/artist/40OzWU8bIYirFgmNSy6qct) | [Nervous](https://open.spotify.com/album/3qLRGWTOndzbYgUDi2kd85) | 1:30 | 2022-03-10 |  |
+| [Nervous](https://open.spotify.com/track/3JaI7w5XQuJni4fX03MZIb) | [HUSHPUPPY](https://open.spotify.com/artist/40OzWU8bIYirFgmNSy6qct) | [Nervous](https://open.spotify.com/album/3qLRGWTOndzbYgUDi2kd85) | 1:30 | 2022-03-10 | 2022-09-02 |
 | [Never Good Enough](https://open.spotify.com/track/1pGqAguykp8zDDqXggYMOg) | [Tom A\. Smith](https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML) | [Never Good Enough](https://open.spotify.com/album/1maaBTu2ouZNKanqe8Foap) | 3:47 | 2022-08-18 |  |
 | [Night Sweats \- Edit](https://open.spotify.com/track/3xC3BD4TNapP4PNOtMgTpH) | [Plague Vendor](https://open.spotify.com/artist/680qtSVCs3xqNWqZd4khh5) | [Night Sweats \(Edit\) / SPF](https://open.spotify.com/album/4f36muAgsiBsQG1zVkRFuJ) | 2:46 | 2021-03-09 | 2022-01-17 |
 | [Nighttime](https://open.spotify.com/track/73Hh7xuXyKdBChmavyFz0b) | [Fresh](https://open.spotify.com/artist/0q2GJGveytu4IRflsL05Xg) | [Daytime / Nighttime](https://open.spotify.com/album/5ZlFbKdcEz3B8dz1i8x65B) | 2:42 | 2021-03-09 | 2022-01-17 |
@@ -178,11 +182,12 @@
 | [R Entertainment](https://open.spotify.com/track/1kx7a4BiF5b0KH6pKLpwcJ) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [R Entertainment](https://open.spotify.com/album/0AMdg90GRnvy0UFsvurqVI) | 3:09 | 2022-04-01 | 2022-07-29 |
 | [Rabbit Hole](https://open.spotify.com/track/3KX5GDVzAly6OoH24OMKwU) | [Thyla](https://open.spotify.com/artist/0L6tY7VDHwGDhx3T989SAJ) | [Rabbit Hole](https://open.spotify.com/album/3ZxC9jh02Nrvpo49frhUMR) | 4:28 | 2022-01-24 | 2022-03-11 |
 | [Read Receipts](https://open.spotify.com/track/20AN26EiRdg6MUk5YeTaun) | [WAAX](https://open.spotify.com/artist/1KaaogmGXWK1Qi3WR81Tmi) | [At Least I'm Free](https://open.spotify.com/album/3Clv75P0Uv9MDbHofO66VP) | 3:36 | 2022-08-18 |  |
+| [Remains](https://open.spotify.com/track/3Wn9UtA4Ij8HLtDLvmpaUi) | [The Lounge Society](https://open.spotify.com/artist/5OfZVpXzGottp1rYD73ufE) | [Tired of Liberty](https://open.spotify.com/album/3aHcCiEzSVklnAgGhl86K9) | 4:07 | 2022-09-01 |  |
 | [Roadkill](https://open.spotify.com/track/5o0KFn33JBbKfoVXUkD1sd) | [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Planet \(i\)](https://open.spotify.com/album/0j5QJZWlMGIcd0tmFQXs63) | 3:25 | 2021-06-25 | 2022-08-19 |
 | [Rockstar](https://open.spotify.com/track/0MfFiBddXSbI73TLpjjMV3) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Rockstar](https://open.spotify.com/album/7A1taOMSajIBn3qCW0OYBg) | 3:09 | 2022-02-28 | 2022-08-19 |
 | [Roll The Dice](https://open.spotify.com/track/2q7RE1Csj30DPOXqO4sWqO) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Roll The Dice](https://open.spotify.com/album/4ujPS7j4S1xyRS4ZQh4VgN) | 3:14 | 2022-03-10 |  |
 | [Roman Holiday](https://open.spotify.com/track/4IqBIufFMOV1sSYhzIPDoj) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Skinty Fia](https://open.spotify.com/album/1R7vPDuTFeqCGOLj1JwfRH) | 4:28 | 2022-08-18 |  |
-| [Salt](https://open.spotify.com/track/0KbMVWAxdxV1KYWqjGd0ey) | [Egyptian Blue](https://open.spotify.com/artist/3IW8WBsi0vGrcdMNsXS6Bi) | [Salt](https://open.spotify.com/album/2XzP8cHUnafrR7zgBdbn3t) | 3:24 | 2022-01-17 |  |
+| [Salt](https://open.spotify.com/track/0KbMVWAxdxV1KYWqjGd0ey) | [Egyptian Blue](https://open.spotify.com/artist/3IW8WBsi0vGrcdMNsXS6Bi) | [Salt](https://open.spotify.com/album/2XzP8cHUnafrR7zgBdbn3t) | 3:24 | 2022-01-17 | 2022-09-02 |
 | [Same Thing](https://open.spotify.com/track/1IPqkeBkpSXFwKPMyMNLV6) | [L'objectif](https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg) | [Same Thing](https://open.spotify.com/album/7LMss2uXAre6SMuq2yAXtT) | 3:24 | 2022-08-18 |  |
 | [Saturn](https://open.spotify.com/track/31FslokX6FqQWVHIaVy4hY) | [Ghum](https://open.spotify.com/artist/41yzFXg6iuyDfw0PYviMHs) | [The Coldest Fire](https://open.spotify.com/album/7jZmxRxG89gyfb5W0beTdW) | 3:52 | 2021-03-09 | 2022-01-17 |
 | [Say It](https://open.spotify.com/track/6gvLsy6dkUJyPqBDhzEgtc) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Banshee](https://open.spotify.com/album/5KKwrFNlCb3XcjGxnxdA8Y) | 3:14 | 2022-08-18 |  |
@@ -214,10 +219,10 @@
 | [Texas](https://open.spotify.com/track/4HyH27bE1P1GU1zKQyaHlP) | [The Pink Slips](https://open.spotify.com/artist/6fkWlAAWpesLkdp4Cj88Ra) | [Trigger](https://open.spotify.com/album/7iXhqvDbb7s1gl6iknDZkn) | 3:15 | 2021-03-09 | 2022-01-17 |
 | [The Aftergone \(feat\. CLEWS\)](https://open.spotify.com/track/3VpeDsKDbBILjniX4y3rFA) | [Holy Holy](https://open.spotify.com/artist/5KeQyt1QJBjcutJ2AuLNO2), [CLEWS](https://open.spotify.com/artist/6cw5iGpmkR9dNaIZ85j8ya) | [The Aftergone \(feat\. CLEWS\)](https://open.spotify.com/album/2PI3lgEBf6tTcJlb0vMWlF) | 3:55 | 2021-07-16 | 2022-08-19 |
 | [the angel of 8th ave.](https://open.spotify.com/track/3ono1eRCqwTW9PJMx9u2Ru) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [angel in realtime.](https://open.spotify.com/album/4xrHCOnujQW9DDLmntffLP) | 3:58 | 2022-08-18 |  |
-| [The Drop](https://open.spotify.com/track/2fQ31yKKudLScWY0Tt84AF) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [The Drop](https://open.spotify.com/album/2L87oM02UDSd6H2VixIuOa) | 2:58 | 2022-08-18 |  |
+| [The Drop](https://open.spotify.com/track/2fQ31yKKudLScWY0Tt84AF) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [The Drop](https://open.spotify.com/album/2L87oM02UDSd6H2VixIuOa) | 2:58 | 2022-08-18 | 2022-09-02 |
 | [The Enemy](https://open.spotify.com/track/051Rl8dDuMUY4JNtkBdX7n) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [The Enemy](https://open.spotify.com/album/11ZyrIRcdhp4j1IjaozNDR) | 3:08 | 2022-08-18 |  |
 | [The Overload](https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [The Overload](https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu) | 3:16 | 2022-08-18 |  |
-| [The Way It Shatters](https://open.spotify.com/track/1In1QZhWhMiYjHTWHhhGDR) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [Endless Rooms](https://open.spotify.com/album/2inG3MxvNhZYd808mnhbOW) | 4:22 | 2022-04-01 |  |
+| [The Way It Shatters](https://open.spotify.com/track/1In1QZhWhMiYjHTWHhhGDR) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [Endless Rooms](https://open.spotify.com/album/2inG3MxvNhZYd808mnhbOW) | 4:22 | 2022-04-01 | 2022-09-02 |
 | [The Way It Shatters](https://open.spotify.com/track/1TGXiKyuajqiA242dBji7H) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [The Way It Shatters](https://open.spotify.com/album/4LGidB7kQRA1vAKEizMotl) | 4:22 | 2022-02-04 | 2022-07-29 |
 | [The Year I Broke](https://open.spotify.com/track/7tdoduOQJNzwq7f8CdMLBw) | [Prince of Lilies](https://open.spotify.com/artist/3ml5rBwM6KDhpt13d2WGa5) | [The Year I Broke](https://open.spotify.com/album/4MWAP25bhaNgK9ANcplc9J) | 3:58 | 2021-07-16 | 2022-03-02 |
 | [These Are The Days](https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [These Are The Days](https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz) | 3:42 | 2022-08-18 |  |
@@ -246,6 +251,6 @@
 | [Would You Be My Judy?](https://open.spotify.com/track/1ndRpUXCDR40upnsnV5IYS) | [Nancy](https://open.spotify.com/artist/6HN4w8eC0IVDYprG41CKh9) | [Would You Be My Judy?](https://open.spotify.com/album/5D4GX521TlVeTiYBMJ6czp) | 3:11 | 2022-08-18 |  |
 | [You Never Looked So Cool](https://open.spotify.com/track/1RX3QGA8CLfMj1Vr6CSluM) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [Goober](https://open.spotify.com/album/0RIXLt3XKWtYwj1uKV0oIy) | 2:57 | 2021-07-30 | 2022-03-11 |
 | [You Will Never Work In Television Again](https://open.spotify.com/track/2Aa4sRrWDddEmVRfAjVjsw) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [You Will Never Work In Television Again](https://open.spotify.com/album/0b897zzLyDXXpXAZxfAeK5) | 2:48 | 2022-01-17 | 2022-07-29 |
-| [You Will Never Work In Television Again](https://open.spotify.com/track/2ownDSIYHvydbtauGZW4ln) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 2:48 | 2022-04-01 |  |
+| [You Will Never Work In Television Again](https://open.spotify.com/track/2ownDSIYHvydbtauGZW4ln) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 2:48 | 2022-04-01 | 2022-09-02 |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

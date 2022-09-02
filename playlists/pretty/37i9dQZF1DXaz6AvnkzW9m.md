@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 
 > El cholo se hizo buchón 😎🤠 Grupo Diez 4Tro & Los Del Cristo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,390 likes - 74 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,477 likes - 74 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,10 +72,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 | 62 | [Cosas De La Clica \(feat\. Legado 7\)](https://open.spotify.com/track/15s1GfJ55mO4HBXTFa1DmB) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Jimmy Humilde Presenta Lo Mejor De Las Calles Vol\. 4](https://open.spotify.com/album/22P1ttI3jFPolCl6HCfhLX) | 2:18 |
 | 63 | [Zumbando Terrenos](https://open.spotify.com/track/3cydPWRwnndcp2C2lIlUt1) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN), [Nietos Del Viejo](https://open.spotify.com/artist/3sC7anQFAQtZNYpADNh5EH) | [Don Esteban](https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr) | 3:23 |
 | 64 | [Vida Peligrosa \(feat\. Arsenal Efectivo & Omar Ruiz\)](https://open.spotify.com/track/7k7r1GvHZQ06n7fFFLrxCn) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0), [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC) | [Pura Lumbre](https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz) | 2:52 |
-| 65 | [Revelaciones de un Cholo \- En Vivo](https://open.spotify.com/track/6fuAvwRTKeAVFf5D9O9yF1) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita](https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V) | 3:50 |
-| 66 | [El Asesino](https://open.spotify.com/track/5U0sPv125CG0y9KgSwxzLl) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Cuando Todo Acaba](https://open.spotify.com/album/6DBSL2wSLwqvbpBsgSyBKF) | 3:49 |
-| 67 | [Pa Que Aprendan](https://open.spotify.com/track/3MTS8GCWu71UhJgxSJBRyV) | [Los Del Puerto](https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e), [Grupo Hacendado](https://open.spotify.com/artist/06hHiaGkSEyRusl6n2iK3M) | [Pa Que Aprendan](https://open.spotify.com/album/1LrIc9CJLpC17yqIc4M6Ku) | 3:06 |
-| 68 | [Bienvenido A La Angelina](https://open.spotify.com/track/3BZO0RoGNhsOTS2SzHjMPY) | [JTres](https://open.spotify.com/artist/540HJhSFm9vELfBbvxRAEJ), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Bienvenido A La Angelina \(feat\. Fuerza Regida & Herencia De Patrones\)](https://open.spotify.com/album/6d365KQj9cfcEoMvfLmWfM) | 3:08 |
+| 65 | [El Asesino](https://open.spotify.com/track/5U0sPv125CG0y9KgSwxzLl) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Cuando Todo Acaba](https://open.spotify.com/album/6DBSL2wSLwqvbpBsgSyBKF) | 3:49 |
+| 66 | [Revelaciones de un Cholo \- En Vivo](https://open.spotify.com/track/6fuAvwRTKeAVFf5D9O9yF1) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita](https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V) | 3:50 |
+| 67 | [Bienvenido A La Angelina](https://open.spotify.com/track/3BZO0RoGNhsOTS2SzHjMPY) | [JTres](https://open.spotify.com/artist/540HJhSFm9vELfBbvxRAEJ), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Bienvenido A La Angelina \(feat\. Fuerza Regida & Herencia De Patrones\)](https://open.spotify.com/album/6d365KQj9cfcEoMvfLmWfM) | 3:08 |
+| 68 | [Pa Que Aprendan](https://open.spotify.com/track/3MTS8GCWu71UhJgxSJBRyV) | [Los Del Puerto](https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e), [Grupo Hacendado](https://open.spotify.com/artist/06hHiaGkSEyRusl6n2iK3M) | [Pa Que Aprendan](https://open.spotify.com/album/1LrIc9CJLpC17yqIc4M6Ku) | 3:06 |
 | 69 | [Por La D](https://open.spotify.com/track/1fBtRjcOFPGP90JyRsj8ey) | [Clave D](https://open.spotify.com/artist/5FvtrjIYkPUgmX8BJOY0Cb), [Angel Tumbado](https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq) | [Por La D](https://open.spotify.com/album/7nCMW7FvpgXpC1UOfuGZLj) | 2:30 |
 | 70 | [El Leon](https://open.spotify.com/track/0STQWyHEs8KGEphskbvNhG) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [El Leon](https://open.spotify.com/album/3R3anCeS43apevQ5QMJkeZ) | 2:07 |
 | 71 | [Es Pura Envidia](https://open.spotify.com/track/53JTWuW3LongStI3kWEJDX) | [3 Caleb](https://open.spotify.com/artist/28bkOQcxioYFEsE06mmnkd) | [Es Pura Envidia](https://open.spotify.com/album/1Lh0cxdCnKIxxLRP0qqDBN) | 2:01 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 | 73 | [Del Barrio Sali \(Version Norteña\)](https://open.spotify.com/track/5tRo8lpFkAPXQR3AqxfyeF) | [Luis Cuadras](https://open.spotify.com/artist/0POrsz8AIjHbmjxkhNSHiR), [Ldln](https://open.spotify.com/artist/6zUohwxj78LtEvlXR4T8fU) | [Del Barrio Sali \(Version Norteña\)](https://open.spotify.com/album/60t6ooY8p0kt8iSPl95aRS) | 2:50 |
 | 74 | [Cupcake Quemando](https://open.spotify.com/track/2AEIwBU42xkLwkCj7i7USv) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Cupcake Quemando](https://open.spotify.com/album/4jRTPn5owoTaIbmrIgxLjp) | 3:17 |
 
-Snapshot ID: `MTY1NzI1NjQwMCwwMDAwMDAwMDk2OTVjMDIyMTJlMDgxYTlkMmQxOGU3M2RmZjQ4YTBl`
+Snapshot ID: `MTY1NzI1NjQwMCwwMDAwMDAwMGRhNDVlYzRmMjFhOWY0OWMyMmVhMjE4YzIyYTQ1NTk0`

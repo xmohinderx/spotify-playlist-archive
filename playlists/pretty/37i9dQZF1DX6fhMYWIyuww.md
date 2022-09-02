@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fhMYWIyuww.md) - [plain]
 
 > Classic soft rock\. For that free and easy feeling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,970 likes - 80 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,073 likes - 80 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,12 +16,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fhMYWIyuww.md) - [plain]
 | 6 | [Do It Again](https://open.spotify.com/track/2BstRQGodshjGpeDGQiNgo) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw) | 5:56 |
 | 7 | [Ventura Highway](https://open.spotify.com/track/4IU1RL4BKvFyXtbTwaHAvW) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo), [George Martin](https://open.spotify.com/artist/0tcbedGX7n5UHrMhVsGmIU) | [Homecoming](https://open.spotify.com/album/7eqBAR9pblivMBOI70q2um) | 3:31 |
 | 8 | [Peaceful Easy Feeling \- 2013 Remaster](https://open.spotify.com/track/40h65HAR8COEoqkMwUUQHu) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Eagles \(2013 Remaster\)](https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7) | 4:17 |
-| 9 | [Show Me The Way](https://open.spotify.com/track/6BD1X1PeV5UzYUdiVaD2yL) | [Peter Frampton](https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W) | [Frampton](https://open.spotify.com/album/0mRXKbepKXO0Il8H1uMaaX) | 4:03 |
-| 10 | [Doctor My Eyes](https://open.spotify.com/track/3QcuZo6WLcFkqqLmDs0d95) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Jackson Browne \(Saturate Before Using\)](https://open.spotify.com/album/0n93YRc9GP3ZgREgTHvP5u) | 3:19 |
+| 9 | [Doctor My Eyes](https://open.spotify.com/track/3QcuZo6WLcFkqqLmDs0d95) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Jackson Browne \(Saturate Before Using\)](https://open.spotify.com/album/0n93YRc9GP3ZgREgTHvP5u) | 3:19 |
+| 10 | [Show Me The Way](https://open.spotify.com/track/6BD1X1PeV5UzYUdiVaD2yL) | [Peter Frampton](https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W) | [Frampton](https://open.spotify.com/album/0mRXKbepKXO0Il8H1uMaaX) | 4:03 |
 | 11 | [Fly Like An Eagle](https://open.spotify.com/track/3e0FzZjTXOUtiJGSClOBrI) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Fly Like An Eagle](https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC) | 4:42 |
 | 12 | [Ride Like the Wind](https://open.spotify.com/track/7gUMShP1l20tC0xf17Zplk) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah) | 4:35 |
-| 13 | [Two Tickets to Paradise](https://open.spotify.com/track/22CIOfLZB9z8He7WgHYAgH) | [Eddie Money](https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE) | [Eddie Money](https://open.spotify.com/album/5gMrkmI53zEn98WDwU0iye) | 3:57 |
-| 14 | [Movin' Out \(Anthony's Song\)](https://open.spotify.com/track/16GUMo6u3D2qo9a19AkYct) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 3:30 |
+| 13 | [Movin' Out \(Anthony's Song\)](https://open.spotify.com/track/16GUMo6u3D2qo9a19AkYct) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 3:30 |
+| 14 | [Two Tickets to Paradise](https://open.spotify.com/track/22CIOfLZB9z8He7WgHYAgH) | [Eddie Money](https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE) | [Eddie Money](https://open.spotify.com/album/5gMrkmI53zEn98WDwU0iye) | 3:57 |
 | 15 | [Still the One](https://open.spotify.com/track/2dtK02TSAuTvVYU2wGAVG0) | [Orleans](https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c) | [Waking & Dreaming](https://open.spotify.com/album/47YQQPzYY32yZbWC40mlku) | 3:54 |
 | 16 | [China Grove](https://open.spotify.com/track/7cy1bEJV6FCtDaYpsk8aG6) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [The Captain and Me](https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt) | 3:15 |
 | 17 | [Rikki Don't Lose That Number](https://open.spotify.com/track/18a9EGG4xhRELv7bgAw5hb) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Pretzel Logic](https://open.spotify.com/album/2OUYJtDV6EmLkVyoHSuGIp) | 4:31 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fhMYWIyuww.md) - [plain]
 | 71 | [The Nightfly](https://open.spotify.com/track/7icC0mHYpROmIRhpa2DaFC) | [Donald Fagen](https://open.spotify.com/artist/0S1SjYebdSaiMpI8xSW2Wb) | [The Nightfly](https://open.spotify.com/album/5cOS6szqlcoqmiSoVTqqe8) | 5:47 |
 | 72 | [Boys of Autumn](https://open.spotify.com/track/0pDCVNozy0RLEfQpJ6bPYJ) | [David Roberts](https://open.spotify.com/artist/6opjDqwktGxPYPdOAs6T83) | [All Dressed Up](https://open.spotify.com/album/6CoCuashl0StGSgw5XKEJz) | 4:14 |
 | 73 | [Reminiscing \- 2002 Digital Remaster](https://open.spotify.com/track/4NoLnnJvVK5tpOdlNQI6RG) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [The Definitive Collection](https://open.spotify.com/album/1iZgFhl4ik5FfPxaRiv3RN) | 4:09 |
-| 74 | [Trying To Reason With Hurricane Season](https://open.spotify.com/track/2aT4FycQXXc4SkD2Sdm9YJ) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [A\-1\-A](https://open.spotify.com/album/4Nquomkt7vhIpcJeuowLMJ) | 4:23 |
-| 75 | [Just One Look \- 2015 Remaster](https://open.spotify.com/track/0Jq7kVcsOi4lEmw5oQeWqO) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Greatest Hits](https://open.spotify.com/album/1OLaHAb4ZU4epzZ3k7JV0T) | 3:12 |
+| 74 | [Just One Look \- 2015 Remaster](https://open.spotify.com/track/0Jq7kVcsOi4lEmw5oQeWqO) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Greatest Hits](https://open.spotify.com/album/1OLaHAb4ZU4epzZ3k7JV0T) | 3:12 |
+| 75 | [Trying To Reason With Hurricane Season](https://open.spotify.com/track/2aT4FycQXXc4SkD2Sdm9YJ) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [A\-1\-A](https://open.spotify.com/album/4Nquomkt7vhIpcJeuowLMJ) | 4:23 |
 | 76 | [You're the Love](https://open.spotify.com/track/5Y67sAjZpir4N0PTBsIogb) | [Seals and Crofts](https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj) | [Takin' It Easy](https://open.spotify.com/album/7DnYwuOkSK6qoZmfzx5erL) | 3:20 |
 | 77 | [One More Look At The Night](https://open.spotify.com/track/7vUbFCefkYWl4uSpMManF1) | [Andy Gibb](https://open.spotify.com/artist/4YPqbAiLzBg5DIfsgQZ8QK) | [Shadow Dancing](https://open.spotify.com/album/3Ru1PEQBFI88kBIWcPGGS8) | 3:47 |
 | 78 | [Nice, Nice, Very Nice](https://open.spotify.com/track/10Vp6LUbSc5LUM3ksCZB1M) | [Ambrosia](https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw), [Alan Parsons](https://open.spotify.com/artist/6HpZkC8GUktP9utE6OPWZG) | [Ambrosia](https://open.spotify.com/album/4WLSlSsZR6RZSaZm2ZB1WI) | 5:49 |
 | 79 | [Who's Right, Who's Wrong](https://open.spotify.com/track/5IXfPffHYMM9a7nrHWjh8l) | [Pages](https://open.spotify.com/artist/4xoTZnaFX7xWz76sVSgg7u) | [Future Street](https://open.spotify.com/album/7KBgZw2zPPQes5Oo1vNQha) | 4:19 |
 | 80 | [Baby I Need Your Lovin'](https://open.spotify.com/track/3JUSHG1WHesa1p7rN7Ad3g) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [Change Of Heart](https://open.spotify.com/album/5hhDhRDQ1sTeKpLH6CvROw) | 3:16 |
 
-Snapshot ID: `MTY1OTA2NzI2MCwwMDAwMDAwMDI4NGU4OWUxZDZiN2E0OWY0MmVmNmYwYTRjYTNkM2Mw`
+Snapshot ID: `MTY1OTA2NzI2MCwwMDAwMDAwMDJjYWI0ZjM2YzQxZmNlMTNiYWQxOGY5NzY3Y2U1YTYx`

@@ -1,12 +1,12 @@
 {
   "description": "Summertime sadness everyday",
-  "num_followers": 12211,
+  "num_followers": 12212,
   "original_name": "Sun Kissed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODgxNTgyMSwwMDAwMDAwMGYxMzdkNTU4MzFlMDVkMWM5YjgwZGEyODM3YjBhNTEx",
+  "snapshot_id": "MTY0ODgxNTgyMSwwMDAwMDAwMGE0YzcxZTEyOGEwMzM5ZDVhNzM2MjU3Mzk1NWEwYjMz",
   "tracks": [
     {
       "added_at": "2022-04-01 12:23:41",
@@ -355,6 +355,22 @@
     {
       "added_at": "2022-04-01 12:23:41",
       "album": {
+        "name": "Chase Atlantic",
+        "url": "https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd"
+      },
+      "artists": [
+        {
+          "name": "Chase Atlantic",
+          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
+        }
+      ],
+      "duration_ms": 228786,
+      "name": "Swim",
+      "url": "https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx"
+    },
+    {
+      "added_at": "2022-04-01 12:23:41",
+      "album": {
         "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
         "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 158040,
       "name": "Sunflower - Spider-Man: Into the Spider-Verse",
       "url": "https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P"
-    },
-    {
-      "added_at": "2022-04-01 12:23:41",
-      "album": {
-        "name": "Chase Atlantic",
-        "url": "https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd"
-      },
-      "artists": [
-        {
-          "name": "Chase Atlantic",
-          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
-        }
-      ],
-      "duration_ms": 228786,
-      "name": "Swim",
-      "url": "https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx"
     },
     {
       "added_at": "2022-04-01 12:23:41",
@@ -503,26 +503,6 @@
     {
       "added_at": "2022-04-01 12:23:41",
       "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 208666,
-      "name": "Kiss Me More (feat. SZA)",
-      "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
-    },
-    {
-      "added_at": "2022-04-01 12:23:41",
-      "album": {
         "name": "THE ANXIETY",
         "url": "https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 162680,
       "name": "Meet Me At Our Spot",
       "url": "https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG"
+    },
+    {
+      "added_at": "2022-04-01 12:23:41",
+      "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 208666,
+      "name": "Kiss Me More (feat. SZA)",
+      "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
     },
     {
       "added_at": "2022-04-01 12:23:41",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-04-01 12:23:41",
       "album": {
-        "name": "I Hate U",
-        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "I Hate U",
-      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
-    },
-    {
-      "added_at": "2022-04-01 12:23:41",
-      "album": {
         "name": "Reckless",
         "url": "https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 203384,
       "name": "Reckless",
       "url": "https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh"
+    },
+    {
+      "added_at": "2022-04-01 12:23:41",
+      "album": {
+        "name": "I Hate U",
+        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "I Hate U",
+      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
     },
     {
       "added_at": "2022-04-01 12:23:41",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-04-01 12:23:41",
       "album": {
-        "name": "THE SECOND STEP : CHAPTER ONE",
-        "url": "https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ"
-      },
-      "artists": [
-        {
-          "name": "TREASURE",
-          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
-        }
-      ],
-      "duration_ms": 220716,
-      "name": "DARARI",
-      "url": "https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n"
-    },
-    {
-      "added_at": "2022-04-01 12:23:41",
-      "album": {
         "name": "Formula of Love: O+T=<3",
         "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 198053,
       "name": "The Feels",
       "url": "https://open.spotify.com/track/308Ir17KlNdlrbVLHWhlLe"
+    },
+    {
+      "added_at": "2022-04-01 12:23:41",
+      "album": {
+        "name": "THE SECOND STEP : CHAPTER ONE",
+        "url": "https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "duration_ms": 220716,
+      "name": "DARARI",
+      "url": "https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n"
     },
     {
       "added_at": "2022-04-01 12:23:41",

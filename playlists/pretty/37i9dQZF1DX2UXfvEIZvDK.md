@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UXfvEIZvDK.md) - [plain]
 
 > Rock to relax\. Enjoy!
 
-[Spotify](https://open.spotify.com/user/spotify) - 585,609 likes - 60 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 584,929 likes - 60 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UXfvEIZvDK.md) - [plain]
 | 12 | [Drive](https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Make Yourself](https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR) | 3:52 |
 | 13 | [Wonderwall \- Remastered](https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:18 |
 | 14 | [Karma Police](https://open.spotify.com/track/63OQupATfueTdZMWTxW03A) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:24 |
-| 15 | [Renegades](https://open.spotify.com/track/0fYVliAYKHuPmECRs1pbRf) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:15 |
-| 16 | [I Miss You](https://open.spotify.com/track/1AdYZ6X00nXmO613Y7GJOl) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 3:47 |
+| 15 | [I Miss You](https://open.spotify.com/track/1AdYZ6X00nXmO613Y7GJOl) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 3:47 |
+| 16 | [Renegades](https://open.spotify.com/track/0fYVliAYKHuPmECRs1pbRf) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:15 |
 | 17 | [One](https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 4:36 |
 | 18 | [Behind Blue Eyes](https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Results May Vary](https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36) | 4:29 |
 | 19 | [The Only Exception](https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 4:27 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UXfvEIZvDK.md) - [plain]
 | 38 | [Wire To Wire](https://open.spotify.com/track/5YFEqFTmsbqyamFvFA7Wdc) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [Slipway Fires](https://open.spotify.com/album/00OgN62HrBU8XAeo1k6oCI) | 2:58 |
 | 39 | [Polly](https://open.spotify.com/track/3tlXDvaNrrOmdvG0XVUOcv) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 2:53 |
 | 40 | [Swing Life Away](https://open.spotify.com/track/6GrrkiCRO3HYdgRpO4eKEL) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Siren Song Of The Counter\-Culture](https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6) | 3:20 |
-| 41 | [Miss You Love](https://open.spotify.com/track/7Bz8EMztiuSJeHIjrBw7pw) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Neon Ballroom](https://open.spotify.com/album/75viR4DrKJUIH7wFvQ7PbB) | 4:00 |
-| 42 | [If I Had A Gun…](https://open.spotify.com/track/4i4ArYpqtsA3MJ1k0o2dxq) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/album/4g2nrjzWOuEtZHtiBZrf1U) | 4:09 |
+| 41 | [If I Had A Gun…](https://open.spotify.com/track/4i4ArYpqtsA3MJ1k0o2dxq) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/album/4g2nrjzWOuEtZHtiBZrf1U) | 4:09 |
+| 42 | [Miss You Love](https://open.spotify.com/track/7Bz8EMztiuSJeHIjrBw7pw) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Neon Ballroom](https://open.spotify.com/album/75viR4DrKJUIH7wFvQ7PbB) | 4:00 |
 | 43 | [Shelf In The Room](https://open.spotify.com/track/5UNoPMX7K2W769iQ4PDfOt) | [Days Of The New](https://open.spotify.com/artist/07jc1IMGtecDZzOL9cP50t) | [Days Of The New](https://open.spotify.com/album/3JtPH618I1PMOrafvH8Xo8) | 4:43 |
 | 44 | [Space](https://open.spotify.com/track/20wnO4hGXbWvIPDEmED8gM) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Celebration Of Endings](https://open.spotify.com/album/5yAXUpsKaby5IcXgzrNFAw) | 3:55 |
 | 45 | [For What It's Worth](https://open.spotify.com/track/5Ih40KFkj3cSzxgisQxBvX) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [As You Were \(Deluxe Edition\)](https://open.spotify.com/album/2V3WS9tlPYmscBNWHHYu9X) | 4:11 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UXfvEIZvDK.md) - [plain]
 | 59 | [If I Get High](https://open.spotify.com/track/15I2gq8Nill5zwxabTFD6f) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Nothing But Thieves \(Track by Track\)](https://open.spotify.com/album/0vBxqUHwetFn5jCwAKX7Uk) | 3:26 |
 | 60 | [Two People](https://open.spotify.com/track/0htjtrOVbQpWoDYYwPIrWY) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:56 |
 
-Snapshot ID: `MTY1NTQxNjkyMCwwMDAwMDAwMDhjYTI0MmRlYzYyY2NlMzIyYzc1OTEyMjE2ZWU4N2Q2`
+Snapshot ID: `MTY1NTQxNjkyMCwwMDAwMDAwMDk5NDFkYzk0MTQzYWIxMTkwYjRjYjAzZTM5NTZmNjU1`

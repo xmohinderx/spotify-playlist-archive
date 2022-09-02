@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNeg74zvBUZ.md) - [plain]
 
 > Sunlight! The most precious gold to be found on Earth.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,531 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,456 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNeg74zvBUZ.md) - [plain]
 | 45 | [Ho Renomo](https://open.spotify.com/track/2nBtV4NSZJiarMBMpsn6UH) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Cluster & Eno](https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy) | 5:11 |
 | 46 | [A New Day](https://open.spotify.com/track/7AbrQSJZsLhWOi4zNFIWeb) | [Forest Walks](https://open.spotify.com/artist/18InfiT5lp2g36MZgGqjZW) | [A New Day](https://open.spotify.com/album/3duG9vrpxecZceRKXBqc7M) | 2:58 |
 | 47 | [Natural Bridges](https://open.spotify.com/track/43oEjzPLnmve0ea2WjqV6W) | [Signa](https://open.spotify.com/artist/0NNkdG1hVjxDA0Viq5cERJ), [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB) | [Two](https://open.spotify.com/album/1XE0ohBl8Wfml1KJUzzNtF) | 2:43 |
-| 48 | [Celeste](https://open.spotify.com/track/3Lbh8U2HMWa1CD7GK5wEQf) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 4:22 |
-| 49 | [Trade Winds, White Heat](https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Radio Amor](https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR) | 4:22 |
-| 50 | [Le jardin](https://open.spotify.com/track/5kaqycPUjIi1PdZWlhfWsD) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc) | [Jardin au fou](https://open.spotify.com/album/7eQ5WjiXia8SrVxyeBLUVV) | 4:28 |
+| 48 | [Le jardin](https://open.spotify.com/track/5kaqycPUjIi1PdZWlhfWsD) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc) | [Jardin au fou](https://open.spotify.com/album/7eQ5WjiXia8SrVxyeBLUVV) | 4:28 |
+| 49 | [Celeste](https://open.spotify.com/track/3Lbh8U2HMWa1CD7GK5wEQf) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 4:22 |
+| 50 | [Trade Winds, White Heat](https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Radio Amor](https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR) | 4:22 |
 
-Snapshot ID: `MTY1OTQ5NjgxMiwwMDAwMDAwMDBiYzg1Y2NlMjJjOWIwMjU2ZTc4YzNmYzczMmVmZDY3`
+Snapshot ID: `MTY1OTQ5NjgxMiwwMDAwMDAwMDU4YTZjNjdkN2NkNDBiYmQyYjEzOTAzYjZmNDljZGVh`

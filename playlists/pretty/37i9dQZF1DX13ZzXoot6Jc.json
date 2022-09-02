@@ -1,12 +1,12 @@
 {
   "description": "A collection of hits that will have you singing every word. Cover: Lee Brice",
-  "num_followers": 416128,
+  "num_followers": 416247,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ3MjI3MCwwMDAwMDAwMDMzMWVjNzk2NzdiZTI4NjU5ZDk2MzU3MDEzNDQ5Mjhi",
+  "snapshot_id": "MTY2MTQ3MjI3MCwwMDAwMDAwMDliNWJkNTFmMWYzY2JkNGE4M2JhNGFjOWQ2ZjE4OTBl",
   "tracks": [
     {
       "added_at": "2022-08-26 00:04:30",
@@ -567,8 +567,8 @@
     {
       "added_at": "2022-08-26 00:04:30",
       "album": {
-        "name": "Doin' This",
-        "url": "https://open.spotify.com/album/6bpCbQ5GTNZ9IE1nvJ0zQA"
+        "name": "What You See Ain't Always What You Get (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5"
       },
       "artists": [
         {
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 254181,
-      "name": "Doin' This",
-      "url": "https://open.spotify.com/track/4GyD3o5hWoyCuYpdlzZlRL"
+      "duration_ms": 186106,
+      "name": "Cold As You",
+      "url": "https://open.spotify.com/track/7IWV29mryrqtO0JVgnPtfv"
     },
     {
       "added_at": "2022-08-26 00:04:30",
@@ -683,8 +683,8 @@
     {
       "added_at": "2022-08-26 00:04:30",
       "album": {
-        "name": "What You See Ain't Always What You Get (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5"
+        "name": "Doin' This",
+        "url": "https://open.spotify.com/album/6bpCbQ5GTNZ9IE1nvJ0zQA"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 186106,
-      "name": "Cold As You",
-      "url": "https://open.spotify.com/track/7IWV29mryrqtO0JVgnPtfv"
+      "duration_ms": 254181,
+      "name": "Doin' This",
+      "url": "https://open.spotify.com/track/4GyD3o5hWoyCuYpdlzZlRL"
     },
     {
       "added_at": "2022-08-26 00:04:30",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-08-26 00:04:30",
       "album": {
-        "name": "Beers And Sunshine",
-        "url": "https://open.spotify.com/album/1GZyb1fAcVAdxeZK16ozLR"
-      },
-      "artists": [
-        {
-          "name": "Darius Rucker",
-          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
-        }
-      ],
-      "duration_ms": 178278,
-      "name": "Beers And Sunshine",
-      "url": "https://open.spotify.com/track/36ISlLb12gKuCCVTYXC0gb"
-    },
-    {
-      "added_at": "2022-08-26 00:04:30",
-      "album": {
         "name": "Lady Like",
         "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 212720,
       "name": "Freedom Was A Highway",
       "url": "https://open.spotify.com/track/3J5jotqUAjU479WhAiNkpU"
+    },
+    {
+      "added_at": "2022-08-26 00:04:30",
+      "album": {
+        "name": "Beers And Sunshine",
+        "url": "https://open.spotify.com/album/1GZyb1fAcVAdxeZK16ozLR"
+      },
+      "artists": [
+        {
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+        }
+      ],
+      "duration_ms": 178278,
+      "name": "Beers And Sunshine",
+      "url": "https://open.spotify.com/track/36ISlLb12gKuCCVTYXC0gb"
     },
     {
       "added_at": "2022-08-26 00:04:30",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-08-26 00:04:30",
       "album": {
-        "name": "New Truck",
-        "url": "https://open.spotify.com/album/3497MUjpGLcslVVb9ZeteM"
-      },
-      "artists": [
-        {
-          "name": "Dylan Scott",
-          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
-        }
-      ],
-      "duration_ms": 174360,
-      "name": "New Truck",
-      "url": "https://open.spotify.com/track/4MDYIbU6I29Gjiu7JATTIJ"
-    },
-    {
-      "added_at": "2022-08-26 00:04:30",
-      "album": {
         "name": "Throw It Back (feat. Keith Urban)",
         "url": "https://open.spotify.com/album/56rScV2lFznLUGxqYYwUpo"
       },
@@ -1127,6 +1111,22 @@
     {
       "added_at": "2022-08-26 00:04:30",
       "album": {
+        "name": "New Truck",
+        "url": "https://open.spotify.com/album/3497MUjpGLcslVVb9ZeteM"
+      },
+      "artists": [
+        {
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+        }
+      ],
+      "duration_ms": 174360,
+      "name": "New Truck",
+      "url": "https://open.spotify.com/track/4MDYIbU6I29Gjiu7JATTIJ"
+    },
+    {
+      "added_at": "2022-08-26 00:04:30",
+      "album": {
         "name": "Laps Around The Sun",
         "url": "https://open.spotify.com/album/5gzfsecJfxWOdWwnFT7LsR"
       },
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-08-26 00:04:30",
       "album": {
-        "name": "Single Saturday Night",
-        "url": "https://open.spotify.com/album/1wmVEVgetT1F0Qnu0651Ps"
-      },
-      "artists": [
-        {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
-        }
-      ],
-      "duration_ms": 187683,
-      "name": "Single Saturday Night",
-      "url": "https://open.spotify.com/track/1irAliF0T8sLIOPJp6n7rU"
-    },
-    {
-      "added_at": "2022-08-26 00:04:30",
-      "album": {
         "name": "Yours",
         "url": "https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 216960,
       "name": "Yours",
       "url": "https://open.spotify.com/track/3I4WFddKpe2PGZWFh7f10J"
+    },
+    {
+      "added_at": "2022-08-26 00:04:30",
+      "album": {
+        "name": "Single Saturday Night",
+        "url": "https://open.spotify.com/album/1wmVEVgetT1F0Qnu0651Ps"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        }
+      ],
+      "duration_ms": 187683,
+      "name": "Single Saturday Night",
+      "url": "https://open.spotify.com/track/1irAliF0T8sLIOPJp6n7rU"
     },
     {
       "added_at": "2022-08-26 00:04:30",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2022-08-26 00:04:30",
       "album": {
+        "name": "THIS OLE BOY",
+        "url": "https://open.spotify.com/album/74G3iEDTbqrBTN3USAlquk"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 201832,
+      "name": "REDNECKER",
+      "url": "https://open.spotify.com/track/0YVdTI4w1BEqSjGNXcRjX1"
+    },
+    {
+      "added_at": "2022-08-26 00:04:30",
+      "album": {
         "name": "Cold Beer Calling My Name",
         "url": "https://open.spotify.com/album/3sRPj5WMTrlTy2vTJW3BKx"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 210480,
       "name": "Cold Beer Calling My Name",
       "url": "https://open.spotify.com/track/3dV1fjKOlLnaNK5MeZHXGv"
-    },
-    {
-      "added_at": "2022-08-26 00:04:30",
-      "album": {
-        "name": "THIS OLE BOY",
-        "url": "https://open.spotify.com/album/74G3iEDTbqrBTN3USAlquk"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 201832,
-      "name": "REDNECKER",
-      "url": "https://open.spotify.com/track/0YVdTI4w1BEqSjGNXcRjX1"
     },
     {
       "added_at": "2022-08-26 00:04:30",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-08-26 00:04:30",
       "album": {
-        "name": "Soul",
-        "url": "https://open.spotify.com/album/4MRgsu0MBuBHzMhTLBgnNz"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 175026,
-      "name": "Hell Of A View",
-      "url": "https://open.spotify.com/track/4mXGooManGPH6xAWRAtRJU"
-    },
-    {
-      "added_at": "2022-08-26 00:04:30",
-      "album": {
         "name": "Gold Chain Cowboy",
         "url": "https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 199680,
       "name": "To Be Loved By You",
       "url": "https://open.spotify.com/track/2pUQX4d3Cjh3umGkVz0XyI"
+    },
+    {
+      "added_at": "2022-08-26 00:04:30",
+      "album": {
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/4MRgsu0MBuBHzMhTLBgnNz"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 175026,
+      "name": "Hell Of A View",
+      "url": "https://open.spotify.com/track/4mXGooManGPH6xAWRAtRJU"
     },
     {
       "added_at": "2022-08-26 00:04:30",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2022-08-26 00:04:30",
       "album": {
+        "name": "Where We Started",
+        "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 217960,
+      "name": "Slow Down Summer",
+      "url": "https://open.spotify.com/track/6c9mvipi1OooFPcU2dbwxq"
+    },
+    {
+      "added_at": "2022-08-26 00:04:30",
+      "album": {
         "name": "Heartland",
         "url": "https://open.spotify.com/album/1a7BlXLCqjTxQh6X8L9JBL"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 176983,
       "name": "Country Boy Do (feat. Tyler Hubbard)",
       "url": "https://open.spotify.com/track/24MH7MzHl5XAYlmMdn85CF"
-    },
-    {
-      "added_at": "2022-08-26 00:04:30",
-      "album": {
-        "name": "Where We Started",
-        "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 217960,
-      "name": "Slow Down Summer",
-      "url": "https://open.spotify.com/track/6c9mvipi1OooFPcU2dbwxq"
     },
     {
       "added_at": "2022-08-26 00:04:30",

@@ -1,13 +1,29 @@
 {
-  "description": "LGBTQQIA+ artists like you've never heard before. Cover: Arlo Parks ",
+  "description": "LGBTQQIA+ artists like you've never heard before. Cover: DOSS",
   "num_followers": 16261,
   "original_name": "Spotify Singles: Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI1MTY4MiwwMDAwMDAwMDdhNWY5NzA0YzY3NjNhMWJjMDRiZTdmZGQzM2Y0MDYw",
+  "snapshot_id": "MTY2MjA2MTcyMiwwMDAwMDAwMGI2MWIyZGQ2MGI1N2Q4Y2JiNzVlNWRjNGE2MjFiNGQ4",
   "tracks": [
+    {
+      "added_at": "2022-06-01 04:00:00",
+      "album": {
+        "name": "Cherry - Spotify Singles",
+        "url": "https://open.spotify.com/album/7jvb4QdT1rCfub5WSZsv0p"
+      },
+      "artists": [
+        {
+          "name": "Doss",
+          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "Cherry - Spotify Singles",
+      "url": "https://open.spotify.com/track/7H5X2cvqCTJ8C8loGvMRDN"
+    },
     {
       "added_at": "2022-06-01 04:00:00",
       "album": {
@@ -55,22 +71,6 @@
       "duration_ms": 317729,
       "name": "Smalltown Boy - Spotify Singles",
       "url": "https://open.spotify.com/track/2UyJBtpLTxB5D4M0Apvu7e"
-    },
-    {
-      "added_at": "2022-06-01 04:00:00",
-      "album": {
-        "name": "Cherry - Spotify Singles",
-        "url": "https://open.spotify.com/album/7jvb4QdT1rCfub5WSZsv0p"
-      },
-      "artists": [
-        {
-          "name": "Doss",
-          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
-        }
-      ],
-      "duration_ms": 180923,
-      "name": "Cherry - Spotify Singles",
-      "url": "https://open.spotify.com/track/7H5X2cvqCTJ8C8loGvMRDN"
     },
     {
       "added_at": "2021-05-25 21:33:44",

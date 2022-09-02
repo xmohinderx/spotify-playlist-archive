@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 
 > The best of today's pop worship music\.  Turn the beat up! Cover: Switch
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,692 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,737 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,16 +72,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 | 62 | [Majesty](https://open.spotify.com/track/1pzjXhhI0DOfjTfxIRUXWW) | [ISLY](https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW) | [Majesty](https://open.spotify.com/album/0LIvETmeleZSzZjMxHikQM) | 8:20 |
 | 63 | [You Loved Me First](https://open.spotify.com/track/2wPbsFfyUAOvHHVOx2HVDT) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Creíste en Mí / You Loved Me First](https://open.spotify.com/album/6KXVUObEuVcXoFMt6KvCcl) | 3:29 |
 | 64 | [To Get To Me](https://open.spotify.com/track/5NacjulPX2F5e4hh6DESzW) | [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [Through People Like Me](https://open.spotify.com/album/2PGA9JQPteU2VQFGiqmADr) | 3:14 |
-| 65 | [Gravity](https://open.spotify.com/track/36J64RkkFvdrJNKfiwY0iB) | [Elizabeth Grace](https://open.spotify.com/artist/2t0oDEgacnqOQRFJqiTH8s) | [Gravity](https://open.spotify.com/album/0OOBKQWUax70V9bF7gvdDc) | 3:22 |
-| 66 | [I Belong to You](https://open.spotify.com/track/3JjEsGDEErt7aC6cLBZ2VU) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Love Running Wild](https://open.spotify.com/album/2vebwQ9kyBdhWLz3cayGS7) | 3:21 |
+| 65 | [I Belong to You](https://open.spotify.com/track/3JjEsGDEErt7aC6cLBZ2VU) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Love Running Wild](https://open.spotify.com/album/2vebwQ9kyBdhWLz3cayGS7) | 3:21 |
+| 66 | [Gravity](https://open.spotify.com/track/36J64RkkFvdrJNKfiwY0iB) | [Elizabeth Grace](https://open.spotify.com/artist/2t0oDEgacnqOQRFJqiTH8s) | [Gravity](https://open.spotify.com/album/0OOBKQWUax70V9bF7gvdDc) | 3:22 |
 | 67 | [Higher Than Mine \(Remix\)](https://open.spotify.com/track/7nOD4RtNzWbUlYchguMhr7) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK) | [Clouds Are Clearing: Mixtape 1A](https://open.spotify.com/album/3saIlADNT5151AhQnPxEIQ) | 2:39 |
 | 68 | [Ordinary](https://open.spotify.com/track/2I0r5mF2mwWD26iDO9Ccb7) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Listen More](https://open.spotify.com/album/0uY6DrZnFwosKFvkLXSGQS) | 3:02 |
 | 69 | [Hunger](https://open.spotify.com/track/5SNdebTrDYFXA7hB0wsbmb) | [MDSN](https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD) | [Hunger](https://open.spotify.com/album/5IM9yRLsBVaZ2cJyik2Iow) | 3:50 |
 | 70 | [You Tell Me](https://open.spotify.com/track/18tCFWknS0gTJBBRLCuI0T) | [Youngheart](https://open.spotify.com/artist/4Sws10KYj3cK2OCWweGv75) | [You Tell Me](https://open.spotify.com/album/4RXdxAM1qZd91aLI3o6H9q) | 3:00 |
-| 71 | [Won't Let Me Go](https://open.spotify.com/track/2HKlkeWtk7JkikHmXOEcPk) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Won't Let Me Go](https://open.spotify.com/album/6q54bQbxEXeHjqJjFEtyQy) | 3:17 |
-| 72 | [Hear Your Heart](https://open.spotify.com/track/1zI297SasSVNI2TLh3Ypm7) | [myChurch Music](https://open.spotify.com/artist/0kUjsG9rypTopBusbPm43B) | [Hear Your Heart](https://open.spotify.com/album/6zvijC2Xfhb47tuRsEjDkI) | 3:04 |
+| 71 | [Hear Your Heart](https://open.spotify.com/track/1zI297SasSVNI2TLh3Ypm7) | [myChurch Music](https://open.spotify.com/artist/0kUjsG9rypTopBusbPm43B) | [Hear Your Heart](https://open.spotify.com/album/6zvijC2Xfhb47tuRsEjDkI) | 3:04 |
+| 72 | [Won't Let Me Go](https://open.spotify.com/track/2HKlkeWtk7JkikHmXOEcPk) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Won't Let Me Go](https://open.spotify.com/album/6q54bQbxEXeHjqJjFEtyQy) | 3:17 |
 | 73 | [Till the Earth](https://open.spotify.com/track/4w3FvBgO5lso4A7AcG8VKM) | [Southview Worship](https://open.spotify.com/artist/2tvS8eHZou9wcXN2ZdE4SK), [B\. Cooper](https://open.spotify.com/artist/68PZRIV4P3i1WDizC3PlDq) | [Till the Earth](https://open.spotify.com/album/0Ik1QIF3jLAW2s8ibXgU9Q) | 3:28 |
 | 74 | [More Than Good Enough](https://open.spotify.com/track/1c2ckzh1SNljvnwwAPj4N1) | [Joel Vaughn](https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB) | [Control](https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa) | 3:38 |
 | 75 | [Friends](https://open.spotify.com/track/0AqwIFVSJjp7bqHQqj2uVz) | [For All Seasons](https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf) | [& Side A](https://open.spotify.com/album/0vFF7khThRFzf0roHQoA1i) | 3:36 |
 
-Snapshot ID: `MTY0MDkzMjEwOSwwMDAwMDAwMDVlYzRkNzIyNjUyNzZkOTljMjA5OTMwMTgyODhjZGVk`
+Snapshot ID: `MTY0MDkzMjEwOSwwMDAwMDAwMGZlMDc1YWVlYjM4NGU2NTA3YmU3M2JjMjIyYjM4MmNm`

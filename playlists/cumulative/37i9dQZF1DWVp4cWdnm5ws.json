@@ -30,6 +30,28 @@
     },
     {
       "album": {
+        "name": "3rd Eye",
+        "url": "https://open.spotify.com/album/4AD7IVbMSuXMZWES5pZCKg"
+      },
+      "artists": [
+        {
+          "name": "Lesha",
+          "url": "https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi"
+        },
+        {
+          "name": "CARELESS",
+          "url": "https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "3rd Eye",
+      "url": "https://open.spotify.com/track/1Rmg6e9FO4C0RLtXpFtA4G"
+    },
+    {
+      "album": {
         "name": "An Art Gallery Could Never Be As Unique As You",
         "url": "https://open.spotify.com/album/0FRaoawfqep3bJcCqcQZpD"
       },
@@ -757,6 +779,24 @@
       "duration_ms": 227500,
       "name": "I'M FINE",
       "url": "https://open.spotify.com/track/6rD22TasmUeZMz4dX8VLku"
+    },
+    {
+      "album": {
+        "name": "Ikaw Pa Rin",
+        "url": "https://open.spotify.com/album/6yoXzcdZwga0Gqmmqkvz1k"
+      },
+      "artists": [
+        {
+          "name": "mrld",
+          "url": "https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191009,
+      "name": "Ikaw Pa Rin",
+      "url": "https://open.spotify.com/track/4z7xboLD3PqY9dOUscS2ly"
     },
     {
       "album": {

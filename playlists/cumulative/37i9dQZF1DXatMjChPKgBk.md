@@ -4,7 +4,7 @@
 
 > Great food, good company and some soft music.
 
-406 songs - 1 day 1 hr 29 min - [published](https://open.spotify.com/playlist/1Dge1FHASpXA6Hu1SnM8w8)
+407 songs - 1 day 1 hr 31 min - [published](https://open.spotify.com/playlist/1Dge1FHASpXA6Hu1SnM8w8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Gravity](https://open.spotify.com/track/6OBZ78p8YaRPzKnQsZOggH) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/64GHlpPoKzuFlUL2mtkEcX) | 4:05 | 2022-01-27 | 2022-07-29 |
 | [Grow Old with Me](https://open.spotify.com/track/6xjxMWGsprmtUVMDaMhgH0) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 3:02 | 2022-01-27 |  |
 | [Handcuffs](https://open.spotify.com/track/3Hjdsmx31RWfuDivCbhU90) | [Baker Grace](https://open.spotify.com/artist/70RgxMmZhLLWxRlbUFQKR2) | [Handcuffs](https://open.spotify.com/album/2Qh9n866IxRHlynEm61hSY) | 2:50 | 2022-01-27 | 2022-07-29 |
-| [Handcuffs](https://open.spotify.com/track/5GdzPpzW6upr4lxIM7YZDX) | [Baker Grace](https://open.spotify.com/artist/70RgxMmZhLLWxRlbUFQKR2) | [Girl, I Know](https://open.spotify.com/album/2ibDc7fdUkMeScSu6WEKUc) | 2:50 | 2022-07-08 |  |
+| [Handcuffs](https://open.spotify.com/track/5GdzPpzW6upr4lxIM7YZDX) | [Baker Grace](https://open.spotify.com/artist/70RgxMmZhLLWxRlbUFQKR2) | [Girl, I Know](https://open.spotify.com/album/2ibDc7fdUkMeScSu6WEKUc) | 2:50 | 2022-07-08 | 2022-09-02 |
 | [Have I Told You Lately \- 2008 Remaster](https://open.spotify.com/track/6mIY6O7uNGgVqOoX70UAYh) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Vagabond Heart \(Expanded Edition\)](https://open.spotify.com/album/3jBeiXLyZM4kxbHLEJwtYt) | 4:01 | 2022-01-27 |  |
 | [Hazard](https://open.spotify.com/track/1ntKYuqLlmV3sTZoNyeHhM) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Rush Street](https://open.spotify.com/album/0hNMHkt0vLHIioGUoOTk0F) | 5:17 | 2022-01-27 |  |
 | [Headlights](https://open.spotify.com/track/6PLllSULxhWMcitreJ2isg) | [Miki Ratsula](https://open.spotify.com/artist/3Yq0Ww7oAbgxcoOxthlS30) | [EVERYTHING&NOTHING](https://open.spotify.com/album/4euXrvF9jz7KK7nFyn90gC) | 2:46 | 2022-07-08 |  |
@@ -211,6 +211,7 @@
 | [Li'l Darlin](https://open.spotify.com/track/39CPeGjg70L1qtXzdJmKmU) | [Monica Borrfors](https://open.spotify.com/artist/6kQLrF8BwbKymqwvCJJzLb) | [Li'l Darlin](https://open.spotify.com/album/1Vsqz9ExEorZDUJ7Zw72m9) | 3:15 | 2022-01-27 | 2022-07-29 |
 | [Long Way Down](https://open.spotify.com/track/5sdliaZjk3rVGuT13UVhxn) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Echos](https://open.spotify.com/album/6NEBdOy6auSHbdeC3jB4hQ) | 4:17 | 2022-07-08 |  |
 | [Long Way Down](https://open.spotify.com/track/25Caem6cbUveFkgPSXtGXe) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Echos](https://open.spotify.com/album/5IxfsBZbu9tnPQRgTjwOyc) | 4:17 | 2022-01-27 | 2022-07-29 |
+| [Lost](https://open.spotify.com/track/1hiheFL9zaexJXxhQ4cAZA) | [Noak Hellsing](https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc) | [Lost](https://open.spotify.com/album/3GeI3Jh2eRhwBnFOkFYUdO) | 2:49 | 2022-08-19 |  |
 | [Lost](https://open.spotify.com/track/6dexp1WYGzQWDr8DA8yDHG) | [Noak Hellsing](https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc) | [Lost](https://open.spotify.com/album/1mam9hcxnLjCGkt8ovWija) | 2:49 | 2022-01-27 | 2022-07-31 |
 | [Lost In A Blue Note](https://open.spotify.com/track/29dFStdDNJHdgGPhwyKdbB) | [April Barrows](https://open.spotify.com/artist/49Pr1w34iIV8qlIcnsLdwQ) | [My Dream is You](https://open.spotify.com/album/26ACa71xPjvov8cZ4Rai52) | 4:24 | 2022-01-27 | 2022-07-10 |
 | [Lost Without U](https://open.spotify.com/track/4V2F0DZrAXOWq9hkwMMG3x) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [The Evolution of Robin Thicke](https://open.spotify.com/album/55ErdDg54WTAEySb0r7yzb) | 4:14 | 2022-07-08 |  |

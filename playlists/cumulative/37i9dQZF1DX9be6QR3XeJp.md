@@ -2,9 +2,9 @@
 
 ### [RADAR: First Listen](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists\. Cover: Dylan Fraser
+> Discover your new favourite artists\. Cover: S Dog
 
-140 songs - 7 hr 44 min - [published](https://open.spotify.com/playlist/6qn9QC3gawWvZcEMTsuVpt)
+141 songs - 7 hr 47 min - [published](https://open.spotify.com/playlist/6qn9QC3gawWvZcEMTsuVpt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [COCONUT PERFUME](https://open.spotify.com/track/7lMrIFrNAwSSdOrsk4glWa) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [COCONUT PERFUME](https://open.spotify.com/album/3hgkYhTNryeg7ZLEgPOKeh) | 2:45 | 2022-06-30 |  |
 | [Convalesce \(feat\. REGALJASON\)](https://open.spotify.com/track/0mFflI3yK2y3SJybiAMgLr) | [ABSOLUTE.](https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h), [A Shadow of My Former Self](https://open.spotify.com/artist/2zBz80goR5JIdfV6TDkjCl), [REGALJASON](https://open.spotify.com/artist/7xXVzcfLvLi79nRtcwTNP0) | [Wonderland](https://open.spotify.com/album/4hGpmPcRrysSUbbBnM4F0T) | 4:09 | 2022-02-18 |  |
 | [CRUSHED VELVET](https://open.spotify.com/track/5mHAhU2mrJ0WjRx818XmYS) | [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [DEMOTAPE/VEGA](https://open.spotify.com/album/3SucuvOplRzjCm602c5XuK) | 2:41 | 2022-02-18 |  |
+| [Cushty](https://open.spotify.com/track/3iJTVDrJi1SdhNBAysDARI) | [S Dog](https://open.spotify.com/artist/3TTfMQ8A4tpY8rrN1ZID38) | [Cushty](https://open.spotify.com/album/0Y7N8fG5BkaQFNumqr5SgV) | 2:44 | 2022-09-01 |  |
 | [Dark Days](https://open.spotify.com/track/1YptJwVc5cXAH1hul0nzXw) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [Dark Days](https://open.spotify.com/album/0tXbRDVR9O9pY7rbpA3YQf) | 3:05 | 2022-02-18 | 2022-07-29 |
 | [Dark Days](https://open.spotify.com/track/7wLy2immx4tw3qgiH7ZogP) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [Dark Days](https://open.spotify.com/album/6JXI3CvEjelCxeKZW3zndN) | 3:05 | 2022-07-28 |  |
 | [Desperate and Lovely, in Desperate Need of Love](https://open.spotify.com/track/60XUrkTOflNBTG2792rfxv) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [Smash Hits, Vol\. 1](https://open.spotify.com/album/6WtHU5cjvG58rBNjcBuAbR) | 3:25 | 2022-07-28 |  |

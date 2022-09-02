@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 
 > Relax to the sounds of acoustic blues and folk...
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,909 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,933 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 | 10 | [All Aboard](https://open.spotify.com/track/0BjnY6fLR9XNGIMmXnYXGG) | [Piers Faccini](https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd), [Abdelkebir Merchane](https://open.spotify.com/artist/7iiuXYxFPuc2tMe000sxe4), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Shapes of the Fall](https://open.spotify.com/album/4DWP3Ck7TsDJQH8OP2uiUU) | 3:31 |
 | 11 | [Twins](https://open.spotify.com/track/0SeCA3vPHuXGP6sizB05ZA) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [Days of Being Wild](https://open.spotify.com/album/4OUF3bDg60cOEqlHLsLDA0) | 0:50 |
 | 12 | [Bumble Bee](https://open.spotify.com/track/1FgQnc7KZLvaB89eWOfQ2R) | [Peter Case](https://open.spotify.com/artist/771bZ8ZHkvOqkI7baL68X3) | [The Midnight Broadcast](https://open.spotify.com/album/5XWkAsBVccgg9FFC77e9B6) | 3:34 |
-| 13 | [Well Well Well](https://open.spotify.com/track/6Gr0nYfH4DpKYrAggRGGZZ) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Blues In Mono](https://open.spotify.com/album/2IQagMayRx6kAilOpLcBhs) | 2:30 |
-| 14 | [Mesquite Shade](https://open.spotify.com/track/39vGhSkzHBGwEnSi5PNKNn) | [Marisa Anderson](https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW) | [Mercury](https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv) | 1:36 |
+| 13 | [Mesquite Shade](https://open.spotify.com/track/39vGhSkzHBGwEnSi5PNKNn) | [Marisa Anderson](https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW) | [Mercury](https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv) | 1:36 |
+| 14 | [Well Well Well](https://open.spotify.com/track/6Gr0nYfH4DpKYrAggRGGZZ) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Blues In Mono](https://open.spotify.com/album/2IQagMayRx6kAilOpLcBhs) | 2:30 |
 | 15 | [Black Myself](https://open.spotify.com/track/2rQVexxmI985m2iefLfhbm) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Black Myself](https://open.spotify.com/album/78BmKxgvj4rGwoqnT3Q4Tz) | 3:21 |
 | 16 | [Cumberland Gap](https://open.spotify.com/track/1W3WoQ2ECZzQnpOEt3XZVK) | [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Nothing We Say \- EP](https://open.spotify.com/album/5iHIUbynfBik6g0Ik3zhl7) | 2:13 |
 | 17 | [They're Red Hot \- SA.2627\-1](https://open.spotify.com/track/4vrPulRxzgljqsYtgGQrpk) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [The Centennial Collection](https://open.spotify.com/album/0MG8ODOjmgu62MpgeS9dRF) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 | 49 | [Imaginational Anthem](https://open.spotify.com/track/2g8His2Vt7xUmZkhCuLB8W) | [Max Ochs](https://open.spotify.com/artist/0SEjW4NsEIkiSgpoxLuQCI) | [Hooray For Another Day](https://open.spotify.com/album/112NAVwlA1JezzCXNrVlgx) | 4:24 |
 | 50 | [Night After Sidewalk](https://open.spotify.com/track/6aEKWnhMVr2rdaqSdNha6U) | [Kaki King](https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV) | [Imaginational Anthem](https://open.spotify.com/album/0Aht6TMCyVgToFJGKR22VO) | 3:34 |
 
-Snapshot ID: `MTY2MDgyMTg1MCwwMDAwMDAwMGUwMzZhZjAwOTJhNTgwODI1ZTQ1NzkzYjAyODVmMDQ3`
+Snapshot ID: `MTY2MDgyMTg1MCwwMDAwMDAwMDY4YTU1MGU3YjFkYjY5MjA5ZGQ1YWU4MWZmMjYxZjE1`

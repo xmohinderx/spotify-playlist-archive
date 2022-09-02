@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-425 songs - 1 day 0 hr 30 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
+427 songs - 1 day 0 hr 37 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [See You in My Dream](https://open.spotify.com/track/5teehiaGmTZ9hE5cvFLGBV) | [Nyarons](https://open.spotify.com/artist/4L5K9BR3qaZQw8QAoMBUta) | [See You in My Dream](https://open.spotify.com/album/38x51ZTP1Rhlm2jNSPi4c4) | 4:26 | 2022-07-12 | 2022-07-14 |
 | [Seishunnofuriwoshita](https://open.spotify.com/track/3xxI0EKXVS1hDXlaSBA81L) | [Kami\-sama, I have noticed](https://open.spotify.com/artist/19hnen14uXCUMoBAnTmrCp) | [Seishunnofuriwoshita](https://open.spotify.com/album/6D246le5cvlDziPoiEBQCv) | 3:20 | 2022-06-21 | 2022-07-20 |
 | [Seventeen](https://open.spotify.com/track/1zUv5N8VNYUoArDdlmsqIm) | [Yoh kamiyama](https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv) | [Seventeen](https://open.spotify.com/album/5OmgNJdapnMoouxa46n9Pc) | 2:45 | 2022-06-23 | 2022-07-19 |
+| [Shasai](https://open.spotify.com/track/5Wpc0b0sUVtQ6m2u2fW5ZY) | [issey](https://open.spotify.com/artist/6NOuhUhXshepSHcBqwwZJt) | [Shasai](https://open.spotify.com/album/1zz1GyAxNbd8uG9w2v1SEq) | 3:07 | 2022-09-01 |  |
 | [SHOWレース](https://open.spotify.com/track/1lzzRoO0fWyrlmwOQ6UztW) | [Nexus\-Cry](https://open.spotify.com/artist/5G8jDBkwGmPXonbtVj8nJX) | [SHOWレース](https://open.spotify.com/album/0cjT5braEI6LZAJSgw2IAV) | 3:17 | 2022-06-30 | 2022-07-24 |
 | [Sign](https://open.spotify.com/track/7lzZQ6lSsWPVrWgaAXX6pP) | [JASPĘR](https://open.spotify.com/artist/1pyg2ihnuRiqlkOxzRTXz7) | [Sign](https://open.spotify.com/album/2ujaRJAKxnDtIjyacSkZcH) | 3:47 | 2022-07-26 | 2022-07-29 |
 | [Sing The Moon](https://open.spotify.com/track/5aDVNw5prQNcjWF02jhxmo) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [Sing The Moon](https://open.spotify.com/album/5J5JoAGR9Ui790ti2gDNiO) | 3:26 | 2022-08-16 |  |
@@ -207,7 +208,7 @@
 | [スパークバグ](https://open.spotify.com/track/44xtl0EIWFhkc1x4GEHZLo) | [Sou](https://open.spotify.com/artist/04ZUR9nJSI7nr1ZrHKLGJ8) | [スパークバグ](https://open.spotify.com/album/09xPOErQdS3XwTUSad0mB4) | 3:13 | 2022-06-16 | 2022-06-21 |
 | [スラップスティック・ガール](https://open.spotify.com/track/2MdKHapjawNemb38kkAqel) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [スラップスティック・ガール](https://open.spotify.com/album/6WSQFmiH2ojGPd67TC5DiV) | 2:43 | 2022-06-13 | 2022-06-15 |
 | [ズルい幻](https://open.spotify.com/track/1JokCoiPsYB0i3RISCtldq) | [Meychan](https://open.spotify.com/artist/5HQYtQ84Zs3hQD5ZcC7WUX) | [ズルい幻](https://open.spotify.com/album/76vJnc0Md9lXNRlobr5FDd) | 3:53 | 2022-06-09 | 2022-07-17 |
-| [ソーイングボックス](https://open.spotify.com/track/76NhiCBPrYxaXfh0jeUBcD) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [ソーイングボックス](https://open.spotify.com/album/0DTHqhSxuoZm9usnV5J0wH) | 3:14 | 2022-08-16 |  |
+| [ソーイングボックス](https://open.spotify.com/track/76NhiCBPrYxaXfh0jeUBcD) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [ソーイングボックス](https://open.spotify.com/album/0DTHqhSxuoZm9usnV5J0wH) | 3:14 | 2022-08-16 | 2022-09-02 |
 | [タクシー・ジャック](https://open.spotify.com/track/0OqigLrUaqPcQYe54emOXi) | [水槽](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [タクシー・ジャック](https://open.spotify.com/album/3kWmXCzOEei7Uyjx6LDGLr) | 2:46 | 2022-06-16 | 2022-06-20 |
 | [タクト](https://open.spotify.com/track/7vFsMU7BORCrf7tZ4oTxlV) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX), [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ), [gaku](https://open.spotify.com/artist/7jjFT71wanEzrqWDlljqts) | [タクト](https://open.spotify.com/album/00njLWkhVD4MUlLkzoj4HX) | 3:57 | 2022-07-12 | 2022-07-14 |
 | [ダークルーム](https://open.spotify.com/track/7sm1J9BbrNaOaTaF9I5f7B) | [Dios](https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu) | [ダークルーム](https://open.spotify.com/album/0enb4QkhRZPSzNsH0immrH) | 2:55 | 2022-06-14 | 2022-07-02 |
@@ -272,6 +273,7 @@
 | [僕らのストラテジー](https://open.spotify.com/track/2yrOqr7f2bJg5Z5keVIbO8) | [Toshiki Kondo](https://open.spotify.com/artist/47mtfnpiYoo0J3dFIvYUVp), [晴いちばん](https://open.spotify.com/artist/6d739FHu1QAC7MGNWuMPCW), [Flower](https://open.spotify.com/artist/0VPLGnexd8K6BGbpLiPPVj) | [Ukulele Strategy](https://open.spotify.com/album/47xjZNxmVLnMTTbZrQCWVW) | 3:01 | 2022-06-21 | 2022-07-08 |
 | [優しさの在処](https://open.spotify.com/track/6arv0f7LlfDlyNfsaeVNjV) | [Umnoise](https://open.spotify.com/artist/6mfqMKlmKZSjVBITWTT4Y7) | [優しさの在処](https://open.spotify.com/album/2coTiBKAUB80TgEKpLxPfa) | 3:43 | 2022-06-30 | 2022-07-05 |
 | [全部が嫌いだ](https://open.spotify.com/track/0BqCPdwMHhfi9EdG784IbR) | [たかやん](https://open.spotify.com/artist/79JgYJHiBUZcvYqOC5Zufn) | [全部が嫌いだ](https://open.spotify.com/album/6bREPUWcely11Lkl5Ey7Wr) | 2:02 | 2022-06-09 | 2022-07-22 |
+| [八月三十二日\(葉月ケイの場合 / CV:菅原圭\)](https://open.spotify.com/track/6WIaqRsMJIL4CShUVuBSaV) | [十五少女](https://open.spotify.com/artist/4QmLN7dXAOKWnZO9efWX5d), [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [八月三十二日\(葉月ケイの場合 / CV:菅原圭\)](https://open.spotify.com/album/6IzGihmL24pqcRVd0vSl4S) | 3:50 | 2022-09-01 |  |
 | [分身](https://open.spotify.com/track/3hmCw7M1KL5tXnI0RksmJK) | [Wolpis Carter](https://open.spotify.com/artist/5gBtcJIa6ZLJB1HUwfik4J) | [分身 \-Bunshin\-](https://open.spotify.com/album/3OmklSJp60FTTw1mogR6Yk) | 2:54 | 2022-06-16 | 2022-07-14 |
 | [化け猫](https://open.spotify.com/track/3Wnba0vkxR4nmXbaRF9foE) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [化け猫](https://open.spotify.com/album/5g9QalFqw7go87CtbuBbdK) | 0:56 | 2022-06-09 | 2022-07-11 |
 | [半端者](https://open.spotify.com/track/0jtfoVtew7OYQZSo1vGmr9) | [ケダルイ / Kedarui](https://open.spotify.com/artist/7gHZpr2PBTuIMu3zf3KAiO) | [半端者](https://open.spotify.com/album/6VcUHJAsWtRQCct2IgvEeO) | 3:15 | 2022-06-21 | 2022-07-21 |
@@ -361,7 +363,7 @@
 | [無垢](https://open.spotify.com/track/2dPZBWfkcz98Dc8d5YzVog) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [無垢](https://open.spotify.com/album/5JcP6jHvvl5Bv0rB51lNZN) | 3:44 | 2022-06-13 | 2022-07-28 |
 | [無為を抱く](https://open.spotify.com/track/2f1O9xNSk8p6Tyj28Ky0d2) | [遼遼](https://open.spotify.com/artist/2fPF5WFB2T6upW7xgTJpTb) | [無為を抱く](https://open.spotify.com/album/1lLPNuhwezJ793o2vboFoC) | 5:48 | 2022-08-25 |  |
 | [煙](https://open.spotify.com/track/2Ii4k2hGZjmp4DfrRE0Shu) | [matsudamiki](https://open.spotify.com/artist/6RNWjXFIgFxkyqzx4xf9xk) | [DAWN](https://open.spotify.com/album/75SSJrLRG75MzG8xsMJ9VS) | 3:19 | 2022-06-14 | 2022-06-17 |
-| [煽げや尊し](https://open.spotify.com/track/2LeHTvjUmiR1A6L9txGDfm) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [煽げや尊し](https://open.spotify.com/album/54Jl0Cvkj6wS8oJnLyCsVB) | 3:37 | 2022-07-26 |  |
+| [煽げや尊し](https://open.spotify.com/track/2LeHTvjUmiR1A6L9txGDfm) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [煽げや尊し](https://open.spotify.com/album/54Jl0Cvkj6wS8oJnLyCsVB) | 3:37 | 2022-07-26 | 2022-09-02 |
 | [爆笑](https://open.spotify.com/track/4ARf2ujlFV2FzOvYqUxOqJ) | [自象存在name\-less](https://open.spotify.com/artist/05bI1rBSrKztoBYlHYYdH5) | [爆笑](https://open.spotify.com/album/26WH5qOKFqKUCtfE2XDFx4) | 3:23 | 2022-06-16 | 2022-07-06 |
 | [片恋](https://open.spotify.com/track/1OHIcNJYltB0hMfRNWO9YA) | [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [片恋](https://open.spotify.com/album/4IBamHDVnCeWMq0EtOaYXJ) | 4:59 | 2022-06-09 | 2022-06-11 |
 | [独白 \- カンザキイオリ Remix](https://open.spotify.com/track/1cVRrn4pnQdg5wokWKyWu9) | [DUSTCELL](https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B), [カンザキイオリ](https://open.spotify.com/artist/54CcLaFcLnAElSbnjKGCm6) | [独白 \(カンザキイオリ Remix\)](https://open.spotify.com/album/5yC9EugevDZMRt0El0H5VS) | 3:09 | 2022-06-30 | 2022-07-26 |

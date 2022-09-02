@@ -954,6 +954,28 @@
     },
     {
       "album": {
+        "name": "The almighty birds",
+        "url": "https://open.spotify.com/album/79aApijDu3waJhvArpfpR2"
+      },
+      "artists": [
+        {
+          "name": "Aleaka",
+          "url": "https://open.spotify.com/artist/63sB40l1dT9CV5vXu1E7q1"
+        },
+        {
+          "name": "Jack The Smoker",
+          "url": "https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96551,
+      "name": "Damn albarn",
+      "url": "https://open.spotify.com/track/0zfiMr2NKxBwuRvsknagFu"
+    },
+    {
+      "album": {
         "name": "Promo EP",
         "url": "https://open.spotify.com/album/7MhH7sgC5AzcbpLBwCml3n"
       },
@@ -3811,7 +3833,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 187415,
       "name": "Sembra un film",
       "url": "https://open.spotify.com/track/504QJc7vkwG4vuV3abgASn"

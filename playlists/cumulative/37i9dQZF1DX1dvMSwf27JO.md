@@ -4,7 +4,7 @@
 
 > is "dressing well" in the room with us? Cover: Bella Hadid
 
-196 songs - 10 hr 30 min - [published](https://open.spotify.com/playlist/1rO8B2vsAs9SO6ZWOsVe5g)
+197 songs - 10 hr 32 min - [published](https://open.spotify.com/playlist/1rO8B2vsAs9SO6ZWOsVe5g)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [NEW DORP\. NEW YORK](https://open.spotify.com/track/58gwRs0kyIlI32l5nW7iep) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Ezra Koenig](https://open.spotify.com/artist/2nkAu4P6EVeQpXxiEhPTH6) | [Wonder Where We Land](https://open.spotify.com/album/78e7BYsTYok3QEQyvWbhqb) | 3:00 | 2021-12-09 |  |
 | [NICE OUT](https://open.spotify.com/track/47k1Ox90yk7EicCAd3QDhc) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [NICE OUT](https://open.spotify.com/album/2UevF4zIN6rYNEk9I0l8zJ) | 4:06 | 2022-07-29 |  |
 | [Nightcrawler](https://open.spotify.com/track/5Vv84O4hpfW3yVJokveL0b) | [A\-Wall](https://open.spotify.com/artist/56OjNTX2bkrdGcB0staUOV) | [Nightcrawler](https://open.spotify.com/album/27cBacBiyauBUk0z6kQuCn) | 2:19 | 2022-02-11 | 2022-05-14 |
+| [Nike](https://open.spotify.com/track/1ueaBqr5S3NxQhj1gKgmwj) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nike](https://open.spotify.com/album/4TheMbO9MrRGaDzJwyTyVx) | 2:07 | 2022-08-26 |  |
 | [No Good Reason](https://open.spotify.com/track/4RLl6YFuMKbHOhg9twznvJ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 1:48 | 2022-04-11 |  |
 | [oh my love](https://open.spotify.com/track/5dEJc0rHuTVxtl1xljDbRv) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:45 | 2022-07-29 |  |
 | [One \(Blake's Got A New Face\)](https://open.spotify.com/track/6iMBQot4ZWbc1judI3x1eG) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 3:13 | 2022-07-29 |  |

@@ -200,6 +200,24 @@
     },
     {
       "album": {
+        "name": "Dehkat Ayami",
+        "url": "https://open.spotify.com/album/0mdNdGbwgfzLMPUX6nRFIz"
+      },
+      "artists": [
+        {
+          "name": "Sultan Al Murshed",
+          "url": "https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257983,
+      "name": "Dehkat Ayami",
+      "url": "https://open.spotify.com/track/5qzYDx4eVLJFmveW0ULvnx"
+    },
+    {
+      "album": {
         "name": "Elhubb Ja",
         "url": "https://open.spotify.com/album/42tevSQ1DPLBGr8BgQfh3e"
       },
@@ -533,6 +551,24 @@
       "duration_ms": 230029,
       "name": "Maazom",
       "url": "https://open.spotify.com/track/2vQF0IxnmS298QNT0wkqej"
+    },
+    {
+      "album": {
+        "name": "Mawed Eyonk",
+        "url": "https://open.spotify.com/album/2f6Pbb9qmPx9PEkOULDmOn"
+      },
+      "artists": [
+        {
+          "name": "Abdulaziz Elmuanna",
+          "url": "https://open.spotify.com/artist/4bzY16GQnsfRHuIzHN4lC7"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321939,
+      "name": "Mawed Eyonk",
+      "url": "https://open.spotify.com/track/7aq0vVJxIfEJBl0Nca2Yfq"
     },
     {
       "album": {

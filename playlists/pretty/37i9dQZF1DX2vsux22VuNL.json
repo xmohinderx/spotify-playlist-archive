@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: POCAH, BIN, Lionel",
-  "num_followers": 228006,
+  "num_followers": 228074,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4MjgwMCwwMDAwMDAwMGZiOTlmYzlkODJhNjRmMDMxMWMyMDAwYTcyMjQ5NDEy",
+  "snapshot_id": "MTY2MTQ4MjgwMCwwMDAwMDAwMDY5NjExNWUwZjgxZjllMjc0ZmQwZGI4OTI0NGMzZjIx",
   "tracks": [
     {
       "added_at": "2022-08-26 03:00:00",
@@ -303,6 +303,26 @@
     {
       "added_at": "2022-08-26 03:00:00",
       "album": {
+        "name": "Amor e Amor",
+        "url": "https://open.spotify.com/album/3BnaBNbNVXpRv6sO1lpQIe"
+      },
+      "artists": [
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        }
+      ],
+      "duration_ms": 261333,
+      "name": "Amor e Amor",
+      "url": "https://open.spotify.com/track/7ipamaL0uwje5dSNejTwPb"
+    },
+    {
+      "added_at": "2022-08-26 03:00:00",
+      "album": {
         "name": "Desligado",
         "url": "https://open.spotify.com/album/0ZMqBtsnyJiSPmFVRC2pSC"
       },
@@ -323,26 +343,6 @@
       "duration_ms": 122777,
       "name": "Desligado",
       "url": "https://open.spotify.com/track/2919vhmu3wuoNnUgcZBL6w"
-    },
-    {
-      "added_at": "2022-08-26 03:00:00",
-      "album": {
-        "name": "Amor e Amor",
-        "url": "https://open.spotify.com/album/3BnaBNbNVXpRv6sO1lpQIe"
-      },
-      "artists": [
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        },
-        {
-          "name": "Mc Davi",
-          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
-        }
-      ],
-      "duration_ms": 261333,
-      "name": "Amor e Amor",
-      "url": "https://open.spotify.com/track/7ipamaL0uwje5dSNejTwPb"
     },
     {
       "added_at": "2022-08-26 03:00:00",
@@ -623,26 +623,6 @@
     {
       "added_at": "2022-08-26 03:00:00",
       "album": {
-        "name": "Luz da Lua",
-        "url": "https://open.spotify.com/album/3P2Zg9ZZ2njZgWziGm614U"
-      },
-      "artists": [
-        {
-          "name": "Oriente",
-          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "Luz da Lua",
-      "url": "https://open.spotify.com/track/71i1attKK5wZKNPUYOHRB0"
-    },
-    {
-      "added_at": "2022-08-26 03:00:00",
-      "album": {
         "name": "Te Decifrar",
         "url": "https://open.spotify.com/album/5uJX90BeQPh4tqIW1rpBLe"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 163199,
       "name": "Te Decifrar",
       "url": "https://open.spotify.com/track/3GPPyDAh78UHavPVSGZSfe"
+    },
+    {
+      "added_at": "2022-08-26 03:00:00",
+      "album": {
+        "name": "Luz da Lua",
+        "url": "https://open.spotify.com/album/3P2Zg9ZZ2njZgWziGm614U"
+      },
+      "artists": [
+        {
+          "name": "Oriente",
+          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "duration_ms": 203520,
+      "name": "Luz da Lua",
+      "url": "https://open.spotify.com/track/71i1attKK5wZKNPUYOHRB0"
     },
     {
       "added_at": "2022-08-26 03:00:00",
@@ -723,6 +723,26 @@
       "duration_ms": 154060,
       "name": "Vai e Vem",
       "url": "https://open.spotify.com/track/6dhdxs7ELm5EvlhbV31hJh"
+    },
+    {
+      "added_at": "2022-08-26 03:00:00",
+      "album": {
+        "name": "Afrodite",
+        "url": "https://open.spotify.com/album/1ICIN9SOmYfHl37mWWAxEU"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        },
+        {
+          "name": "Jade Baraldo",
+          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
+        }
+      ],
+      "duration_ms": 218214,
+      "name": "Afrodite",
+      "url": "https://open.spotify.com/track/6moZvXY0OVOnkLT9EA9igu"
     },
     {
       "added_at": "2022-08-26 03:00:00",
@@ -811,26 +831,6 @@
     {
       "added_at": "2022-08-26 03:00:00",
       "album": {
-        "name": "Copacabana",
-        "url": "https://open.spotify.com/album/0tNl0J8LP33Y8BIBqfq7c5"
-      },
-      "artists": [
-        {
-          "name": "Kalli",
-          "url": "https://open.spotify.com/artist/3BD2ifHl4tkgwVU5KIlR5I"
-        },
-        {
-          "name": "NaBuscaDoOuro",
-          "url": "https://open.spotify.com/artist/5MsYZJftF2EukeaOmEpI9S"
-        }
-      ],
-      "duration_ms": 169850,
-      "name": "Copacabana",
-      "url": "https://open.spotify.com/track/2dDz08vDQyOJ7tX4oE0xnW"
-    },
-    {
-      "added_at": "2022-08-26 03:00:00",
-      "album": {
         "name": "Domingo",
         "url": "https://open.spotify.com/album/6MByXphwkArV9VJG0rWmli"
       },
@@ -847,6 +847,26 @@
       "duration_ms": 158625,
       "name": "Domingo",
       "url": "https://open.spotify.com/track/5ggmytpfhR9fzn7eKWH2MK"
+    },
+    {
+      "added_at": "2022-08-26 03:00:00",
+      "album": {
+        "name": "Copacabana",
+        "url": "https://open.spotify.com/album/0tNl0J8LP33Y8BIBqfq7c5"
+      },
+      "artists": [
+        {
+          "name": "Kalli",
+          "url": "https://open.spotify.com/artist/3BD2ifHl4tkgwVU5KIlR5I"
+        },
+        {
+          "name": "NaBuscaDoOuro",
+          "url": "https://open.spotify.com/artist/5MsYZJftF2EukeaOmEpI9S"
+        }
+      ],
+      "duration_ms": 169850,
+      "name": "Copacabana",
+      "url": "https://open.spotify.com/track/2dDz08vDQyOJ7tX4oE0xnW"
     },
     {
       "added_at": "2022-08-26 03:00:00",
@@ -875,26 +895,6 @@
     {
       "added_at": "2022-08-26 03:00:00",
       "album": {
-        "name": "Afrodite",
-        "url": "https://open.spotify.com/album/1ICIN9SOmYfHl37mWWAxEU"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        },
-        {
-          "name": "Jade Baraldo",
-          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
-        }
-      ],
-      "duration_ms": 218214,
-      "name": "Afrodite",
-      "url": "https://open.spotify.com/track/6moZvXY0OVOnkLT9EA9igu"
-    },
-    {
-      "added_at": "2022-08-26 03:00:00",
-      "album": {
         "name": "De Novo",
         "url": "https://open.spotify.com/album/0pEgo6T1sl8cNedAREKVS7"
       },
@@ -911,6 +911,26 @@
       "duration_ms": 145617,
       "name": "De Novo",
       "url": "https://open.spotify.com/track/3xra5OMlRc4MQgD8V0aIxq"
+    },
+    {
+      "added_at": "2022-08-26 03:00:00",
+      "album": {
+        "name": "Ref\u00e9m",
+        "url": "https://open.spotify.com/album/0VWA3ZIe612sqa7bVQVQQ0"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        },
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Ref\u00e9m",
+      "url": "https://open.spotify.com/track/4lFSe0VQ2tMDJhyvjD8jmU"
     },
     {
       "added_at": "2022-08-26 03:00:00",
@@ -991,22 +1011,6 @@
     {
       "added_at": "2022-08-26 03:00:00",
       "album": {
-        "name": "Melhor Que Ontem",
-        "url": "https://open.spotify.com/album/6FMd26Sy35kd9boORkrOnT"
-      },
-      "artists": [
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        }
-      ],
-      "duration_ms": 180750,
-      "name": "Melhor Que Ontem",
-      "url": "https://open.spotify.com/track/0TpDDNhAvukWiJL9SjEe9O"
-    },
-    {
-      "added_at": "2022-08-26 03:00:00",
-      "album": {
         "name": "Ontem",
         "url": "https://open.spotify.com/album/1fM60WYCiwVdzItKBMQxrJ"
       },
@@ -1023,6 +1027,22 @@
       "duration_ms": 163221,
       "name": "Ontem",
       "url": "https://open.spotify.com/track/4ub33dXwwV4pSLMsfy8wqv"
+    },
+    {
+      "added_at": "2022-08-26 03:00:00",
+      "album": {
+        "name": "Melhor Que Ontem",
+        "url": "https://open.spotify.com/album/6FMd26Sy35kd9boORkrOnT"
+      },
+      "artists": [
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        }
+      ],
+      "duration_ms": 180750,
+      "name": "Melhor Que Ontem",
+      "url": "https://open.spotify.com/track/0TpDDNhAvukWiJL9SjEe9O"
     },
     {
       "added_at": "2022-08-26 03:00:00",
@@ -1063,26 +1083,6 @@
     {
       "added_at": "2022-08-26 03:00:00",
       "album": {
-        "name": "Ref\u00e9m",
-        "url": "https://open.spotify.com/album/0VWA3ZIe612sqa7bVQVQQ0"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        },
-        {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Ref\u00e9m",
-      "url": "https://open.spotify.com/track/4lFSe0VQ2tMDJhyvjD8jmU"
-    },
-    {
-      "added_at": "2022-08-26 03:00:00",
-      "album": {
         "name": "Um Pouco Mais",
         "url": "https://open.spotify.com/album/3lZRBH2jUZn00MMnJfjVga"
       },
@@ -1099,30 +1099,6 @@
       "duration_ms": 182586,
       "name": "Um Pouco Mais",
       "url": "https://open.spotify.com/track/40tzeN89kbNNo5amOxErCb"
-    },
-    {
-      "added_at": "2022-08-26 03:00:00",
-      "album": {
-        "name": "Malandra Treinada",
-        "url": "https://open.spotify.com/album/6TTjOK1SNS9QyTFr0Ejngx"
-      },
-      "artists": [
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        },
-        {
-          "name": "Turma do Pagode",
-          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "Malandra Treinada",
-      "url": "https://open.spotify.com/track/2sPKxr3t0kXHcVvHCfgxoV"
     },
     {
       "added_at": "2022-08-26 03:00:00",
@@ -1175,6 +1151,46 @@
     {
       "added_at": "2022-08-26 03:00:00",
       "album": {
+        "name": "Marrenta",
+        "url": "https://open.spotify.com/album/3p2NXpcsYeBIJM0qg7eq7g"
+      },
+      "artists": [
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        }
+      ],
+      "duration_ms": 167574,
+      "name": "Marrenta",
+      "url": "https://open.spotify.com/track/5zs7ACiAUds9sAkE7CTd20"
+    },
+    {
+      "added_at": "2022-08-26 03:00:00",
+      "album": {
+        "name": "Malandra Treinada",
+        "url": "https://open.spotify.com/album/6TTjOK1SNS9QyTFr0Ejngx"
+      },
+      "artists": [
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "Malandra Treinada",
+      "url": "https://open.spotify.com/track/2sPKxr3t0kXHcVvHCfgxoV"
+    },
+    {
+      "added_at": "2022-08-26 03:00:00",
+      "album": {
         "name": "Casal 171",
         "url": "https://open.spotify.com/album/7hC9jL7eYPa1OwjCDu2SGH"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 201857,
       "name": "Casal 171",
       "url": "https://open.spotify.com/track/4SOomkThSZxyGjQOmZ7EUO"
-    },
-    {
-      "added_at": "2022-08-26 03:00:00",
-      "album": {
-        "name": "Marrenta",
-        "url": "https://open.spotify.com/album/3p2NXpcsYeBIJM0qg7eq7g"
-      },
-      "artists": [
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        }
-      ],
-      "duration_ms": 167574,
-      "name": "Marrenta",
-      "url": "https://open.spotify.com/track/5zs7ACiAUds9sAkE7CTd20"
     },
     {
       "added_at": "2022-08-26 03:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-08-26 03:00:00",
       "album": {
-        "name": "Casal Maior",
-        "url": "https://open.spotify.com/album/218D4RjEBzs4cYpcGdjErz"
-      },
-      "artists": [
-        {
-          "name": "Apollo",
-          "url": "https://open.spotify.com/artist/0C2PcyYwXHcPgQpqMdx3O6"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Casal Maior",
-      "url": "https://open.spotify.com/track/1DYjBY5pnt1aNGJB8KuEdH"
-    },
-    {
-      "added_at": "2022-08-26 03:00:00",
-      "album": {
         "name": "Linda",
         "url": "https://open.spotify.com/album/2xecTy7S2ZldxcMSDiYkb3"
       },
@@ -1299,26 +1283,18 @@
     {
       "added_at": "2022-08-26 03:00:00",
       "album": {
-        "name": "O Agora",
-        "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
+        "name": "Casal Maior",
+        "url": "https://open.spotify.com/album/218D4RjEBzs4cYpcGdjErz"
       },
       "artists": [
         {
-          "name": "Morcego",
-          "url": "https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Dj Codi",
-          "url": "https://open.spotify.com/artist/4IIg5uCfev53fphH0r69Qv"
+          "name": "Apollo",
+          "url": "https://open.spotify.com/artist/0C2PcyYwXHcPgQpqMdx3O6"
         }
       ],
-      "duration_ms": 194730,
-      "name": "O Agora",
-      "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
+      "duration_ms": 153600,
+      "name": "Casal Maior",
+      "url": "https://open.spotify.com/track/1DYjBY5pnt1aNGJB8KuEdH"
     },
     {
       "added_at": "2022-08-26 03:00:00",
@@ -1343,6 +1319,30 @@
       "duration_ms": 223448,
       "name": "Eu vim pra Somar",
       "url": "https://open.spotify.com/track/5CZXwIoZKIji8dNP0yy5L0"
+    },
+    {
+      "added_at": "2022-08-26 03:00:00",
+      "album": {
+        "name": "O Agora",
+        "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
+      },
+      "artists": [
+        {
+          "name": "Morcego",
+          "url": "https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Dj Codi",
+          "url": "https://open.spotify.com/artist/4IIg5uCfev53fphH0r69Qv"
+        }
+      ],
+      "duration_ms": 194730,
+      "name": "O Agora",
+      "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
     },
     {
       "added_at": "2022-08-26 03:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2022-08-26 03:00:00",
       "album": {
-        "name": "N\u00f3s Dois",
-        "url": "https://open.spotify.com/album/7xKWFFnBKO9EM0GpWQ4JmY"
-      },
-      "artists": [
-        {
-          "name": "NALAH",
-          "url": "https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8"
-        }
-      ],
-      "duration_ms": 147040,
-      "name": "N\u00f3s Dois",
-      "url": "https://open.spotify.com/track/3OSKdxDJ15q682cx1NF0ne"
-    },
-    {
-      "added_at": "2022-08-26 03:00:00",
-      "album": {
         "name": "Livro Aberto",
         "url": "https://open.spotify.com/album/06gS40nhrJYwq0HAUBoeNr"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 196559,
       "name": "Livro Aberto",
       "url": "https://open.spotify.com/track/6J70GASPHV0GK7wz0QyfUp"
+    },
+    {
+      "added_at": "2022-08-26 03:00:00",
+      "album": {
+        "name": "N\u00f3s Dois",
+        "url": "https://open.spotify.com/album/7xKWFFnBKO9EM0GpWQ4JmY"
+      },
+      "artists": [
+        {
+          "name": "NALAH",
+          "url": "https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8"
+        }
+      ],
+      "duration_ms": 147040,
+      "name": "N\u00f3s Dois",
+      "url": "https://open.spotify.com/track/3OSKdxDJ15q682cx1NF0ne"
     },
     {
       "added_at": "2022-08-26 03:00:00",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2022-08-26 03:00:00",
       "album": {
+        "name": "Disk Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1LRKYLLGnri0Klrao67kwf"
+      },
+      "artists": [
+        {
+          "name": "DONATTO",
+          "url": "https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ"
+        }
+      ],
+      "duration_ms": 151794,
+      "name": "Disk Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2K3uhe6KY6xik57oGQMYFQ"
+    },
+    {
+      "added_at": "2022-08-26 03:00:00",
+      "album": {
         "name": "O Que Voc\u00ea Quiser",
         "url": "https://open.spotify.com/album/2l0DlAqbZU9gtnhV7kJ3fk"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 230857,
       "name": "Tem Hist\u00f3ria N\u00e3o",
       "url": "https://open.spotify.com/track/0r69yZzvm9F96G1zve3lCv"
-    },
-    {
-      "added_at": "2022-08-26 03:00:00",
-      "album": {
-        "name": "Disk Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/1LRKYLLGnri0Klrao67kwf"
-      },
-      "artists": [
-        {
-          "name": "DONATTO",
-          "url": "https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ"
-        }
-      ],
-      "duration_ms": 151794,
-      "name": "Disk Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/2K3uhe6KY6xik57oGQMYFQ"
     },
     {
       "added_at": "2022-08-26 03:00:00",
@@ -1707,26 +1707,6 @@
     {
       "added_at": "2022-08-26 03:00:00",
       "album": {
-        "name": "Contram\u00e3o",
-        "url": "https://open.spotify.com/album/5kYMFNNbCWdP6QnC0xxbNr"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Zoli",
-          "url": "https://open.spotify.com/artist/78qbkWvG9eXN65GYqaFEZ8"
-        },
-        {
-          "name": "CALIFFA",
-          "url": "https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD"
-        }
-      ],
-      "duration_ms": 170538,
-      "name": "Contram\u00e3o",
-      "url": "https://open.spotify.com/track/14eggbtU5LaK77oKIduOyT"
-    },
-    {
-      "added_at": "2022-08-26 03:00:00",
-      "album": {
         "name": "Carona",
         "url": "https://open.spotify.com/album/21SgYVxGOEd5csSA75Jzpy"
       },
@@ -1743,6 +1723,26 @@
       "duration_ms": 158571,
       "name": "Carona",
       "url": "https://open.spotify.com/track/3JjvlmeaiwnZYzGG99SU20"
+    },
+    {
+      "added_at": "2022-08-26 03:00:00",
+      "album": {
+        "name": "Contram\u00e3o",
+        "url": "https://open.spotify.com/album/5kYMFNNbCWdP6QnC0xxbNr"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Zoli",
+          "url": "https://open.spotify.com/artist/78qbkWvG9eXN65GYqaFEZ8"
+        },
+        {
+          "name": "CALIFFA",
+          "url": "https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD"
+        }
+      ],
+      "duration_ms": 170538,
+      "name": "Contram\u00e3o",
+      "url": "https://open.spotify.com/track/14eggbtU5LaK77oKIduOyT"
     },
     {
       "added_at": "2022-08-26 03:00:00",

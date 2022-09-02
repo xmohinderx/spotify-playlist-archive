@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 
 > A playlist driven from the islands, take the front seat as Soca meets Bashment
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,670 likes - 68 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,674 likes - 68 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 11 | [Famalay](https://open.spotify.com/track/48OrQFkuuFtlQHtq35xjJ9) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Famalay](https://open.spotify.com/album/0br9N1t4whHPB4Ad7DfHX6) | 3:19 |
 | 12 | [Mobster](https://open.spotify.com/track/00mDz9iEvKOdLHNmvucEhs) | [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2) | [Mobster](https://open.spotify.com/album/5G06lp7pqVUmyFMR51B3kO) | 3:13 |
 | 13 | [Heaven Passport](https://open.spotify.com/track/5PHWW6LI7OH4rHk7NANAGa) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR) | [Heaven Passport](https://open.spotify.com/album/1X7HsL7j4VaFP1kpRIZadN) | 3:07 |
-| 14 | [Wotless](https://open.spotify.com/track/6G6dpFTQdc4K9WCdrcZFTr) | [KES the Band](https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH) | [Wotless Carnival Album](https://open.spotify.com/album/6dshwirRnKoFDCC9VQJhTr) | 3:38 |
-| 15 | [Split in De Middle](https://open.spotify.com/track/5jorKk3TjGkG4gX44l8I4i) | [Freezy](https://open.spotify.com/artist/4suXYeRdmqURfBOpvTwViF) | [Split in De Middle](https://open.spotify.com/album/7ewwmtn3lhROcG8wvT5Zh4) | 2:19 |
+| 14 | [Split in De Middle](https://open.spotify.com/track/5jorKk3TjGkG4gX44l8I4i) | [Freezy](https://open.spotify.com/artist/4suXYeRdmqURfBOpvTwViF) | [Split in De Middle](https://open.spotify.com/album/7ewwmtn3lhROcG8wvT5Zh4) | 2:19 |
+| 15 | [Wotless](https://open.spotify.com/track/6G6dpFTQdc4K9WCdrcZFTr) | [KES the Band](https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH) | [Wotless Carnival Album](https://open.spotify.com/album/6dshwirRnKoFDCC9VQJhTr) | 3:38 |
 | 16 | [Update](https://open.spotify.com/track/1Vso1T5aUUflMhgijuG4SZ) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Update](https://open.spotify.com/album/0PaM6uUQDeF2SSv3o4noRe) | 3:24 |
 | 17 | [Go Hard](https://open.spotify.com/track/6lMmcsTaGXqBJqKv1yKdbx) | [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR) | [Lifestyle Riddim](https://open.spotify.com/album/0osc1Nc5V2f1rhGYP35Tgg) | 2:44 |
 | 18 | [Tic It & Tac It](https://open.spotify.com/track/1Cy2yw8wrzHpi1UMK8nnL2) | [BoBo](https://open.spotify.com/artist/2ReU09e8cwWdv544qEDTDK) | [Tic It & Tac It](https://open.spotify.com/album/4ZYGqtyawJ66Dsp9C2VR3W) | 2:03 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 43 | [Conch Shell](https://open.spotify.com/track/2gPuVcELwDqeurkrzW8stq) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Iwer George](https://open.spotify.com/artist/17yfwLTJwB0dTYJftQWrvw) | [Conch Shell](https://open.spotify.com/album/2Np7QomldZGz81VIVtzVEQ) | 3:12 |
 | 44 | [Stage Gone Bad](https://open.spotify.com/track/7Jdsj4nNANukieGgE5IMmd) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [Iwer George](https://open.spotify.com/artist/17yfwLTJwB0dTYJftQWrvw) | [Stage Gone Bad](https://open.spotify.com/album/6PrUIGQ2hHkLLnpebac6m5) | 3:13 |
 | 45 | [Earthquake](https://open.spotify.com/track/6ZcjqhiK2heWFJUb3BmO9x) | [Viking Ding Dong](https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK) | [Rats Hole Riddim](https://open.spotify.com/album/2bxqMNQQaU2dhZC2aMqx5X) | 3:10 |
-| 46 | [Weak](https://open.spotify.com/track/4TNpd91LNGPTlSvbTh5i0Y) | [Ricardo Drue](https://open.spotify.com/artist/1YxLPEyDduTjPEBWKA2BmF) | [Gas Station Riddim](https://open.spotify.com/album/4hBtvACfUm2HTY9SkLGTBY) | 2:49 |
-| 47 | [Nasty Up](https://open.spotify.com/track/2HCI4c62Y29dpP3P9Kkrdd) | [Problem Child](https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU) | [Darkseid Riddim](https://open.spotify.com/album/4ZiVdukO3hIobnU3ntuq68) | 3:34 |
+| 46 | [Nasty Up](https://open.spotify.com/track/2HCI4c62Y29dpP3P9Kkrdd) | [Problem Child](https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU) | [Darkseid Riddim](https://open.spotify.com/album/4ZiVdukO3hIobnU3ntuq68) | 3:34 |
+| 47 | [Weak](https://open.spotify.com/track/4TNpd91LNGPTlSvbTh5i0Y) | [Ricardo Drue](https://open.spotify.com/artist/1YxLPEyDduTjPEBWKA2BmF) | [Gas Station Riddim](https://open.spotify.com/album/4hBtvACfUm2HTY9SkLGTBY) | 2:49 |
 | 48 | [Shots \(One for Di Road\)](https://open.spotify.com/track/6rIE6JA0jPE3OyuNPGrX2C) | [Motto](https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O) | [Baila Riddim](https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS) | 2:17 |
 | 49 | [Wrong Again](https://open.spotify.com/track/3TVWXE8hUeSzoAC3xCrErX) | [Skinny Banton](https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6) | [Wrong Again](https://open.spotify.com/album/45cwc8M8DQrrAcfjTDog4b) | 2:46 |
 | 50 | [Private Zess](https://open.spotify.com/track/2f33W36xOV4apM1O3KE0wN) | [K Lion](https://open.spotify.com/artist/6fanvfSBKMMExePwhUq8Mi), [Lr](https://open.spotify.com/artist/09lMeNRN7IAcfmSwJdEekK) | [Private Zess](https://open.spotify.com/album/4WOfofh96ugasqjG2CAyN6) | 2:48 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 67 | [Skill & Steady](https://open.spotify.com/track/65dhZDMJ4eifxYqJjERBFW) | [Kevyn V](https://open.spotify.com/artist/3Ny44fCQVoy3gEwdyMqAUu), [DancehallRulerz](https://open.spotify.com/artist/7vKTly2ufzt1vPBUKvuuDh), [2Fik](https://open.spotify.com/artist/3TmucDSfk9ChMNebAXrYyO), [Dj Tades](https://open.spotify.com/artist/1zkwng6zki0lHoikDdfsHf) | [Skill & Steady](https://open.spotify.com/album/4hOYiwVEgniVVhVSC1Sflg) | 2:38 |
 | 68 | [Braff](https://open.spotify.com/track/0u1FgrJMjQ0G39uJUToYXh) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Braff](https://open.spotify.com/album/3KamCpPGnXLDePk5pKXb6E) | 3:08 |
 
-Snapshot ID: `MTY0NTcyNTYwMCwwMDAwMDAwMDljM2EzN2MxMmU1N2U0Yjc1Nzk2ZTM5ZGYwOGZmNzk1`
+Snapshot ID: `MTY0NTcyNTYwMCwwMDAwMDAwMDU3NGE1OTMwNTEyZGFkOGVlNDY3ZmI1MmVjNDk4YzBi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1XXKzcWtF3.md) - [plain]
 
 > NYC DJ, The Loft founder, and Dance legend David Mancuso passed on Nov 14 2016\. This is a Tommie Sunshine, Spotify & Billboard Dance tribute\. Without Mancuso there would be no Rave scene, no House Music, no festival culture\. His legacy is vast; these are merely some of the classics born of The Loft.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,733 likes - 205 songs - 21 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,737 likes - 205 songs - 21 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1XXKzcWtF3.md) - [plain]
 | 3 | [Standing in the Rain](https://open.spotify.com/track/5reLIvhRSxNNep5MlvKkYN) | [Don Ray](https://open.spotify.com/artist/5hoOUtUZX142EZQIn9RHOy) | [Late Night Tales: Another Late Night \- Groove Armada](https://open.spotify.com/album/2ggrNpCO3zQ5kgZbGQtjBQ) | 6:37 |
 | 4 | [Do It Any Way You Wanna](https://open.spotify.com/track/5lwBIwUdOBzVkRan4v5CmP) | [People's Choice](https://open.spotify.com/artist/5OPSpcX9nVVWCIOKcoM4ot) | [Disco Super Hits](https://open.spotify.com/album/6O6qkC4nrCvK4IkHfNI8U7) | 3:11 |
 | 5 | [Runaway Love](https://open.spotify.com/track/5gkmXJ8Jgwb1eRBNXj8Ufh) | [Linda Clifford](https://open.spotify.com/artist/1yAHoX5jWFLYIKEwyb6ulM) | [Greatest Hits](https://open.spotify.com/album/0i6i03upLYbGm42HE80nRe) | 9:48 |
-| 6 | [Welcome to Our World \(Of Merry Music\)](https://open.spotify.com/track/5Nvmx1tTQjv0ssh3QaJK2q) | [Mass Production](https://open.spotify.com/artist/4Aj5BsUYgadIeoC759FrhE) | [Rhino Hi\-Five: Mass Production](https://open.spotify.com/album/0fuk3BDm2dMKi8dqP5jMRq) | 7:34 |
+| 6 | [Welcome to Our World \(Of Merry Music\)](https://open.spotify.com/track/0sQ4OcMgLkLahjZ3D1D4OU) | [Mass Production](https://open.spotify.com/artist/4Aj5BsUYgadIeoC759FrhE) | [Welcome To Our World](https://open.spotify.com/album/5EL05yBpF4CG7URBxCYb0w) | 7:32 |
 | 7 | [Stomp!](https://open.spotify.com/track/6VZdUa8JjaGF2LGsiRG9lC) | [The Brothers Johnson](https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD) | [Light Up The Night](https://open.spotify.com/album/4DN3DenoWmadGEayQw2tDp) | 6:20 |
 | 8 | [Think \(About It\)](https://open.spotify.com/track/1kG2PZ8geznbDA8I6iWeDi) | [Lyn Collins](https://open.spotify.com/artist/6XJPGyxrP66scKvIE9kpPN) | [Think \(About It\)](https://open.spotify.com/album/2197TH5e4lrSiZvYUPh3YE) | 3:24 |
 | 9 | [Lowdown](https://open.spotify.com/track/20MxJN12WEqU5eWsuCrwM5) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [My Time: A Boz Scaggs Anthology \(1969\-1997\)](https://open.spotify.com/album/3urpKmhg4HyYuEmODNdTdo) | 5:16 |
@@ -214,4 +214,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1XXKzcWtF3.md) - [plain]
 | 204 | [I Zimbra](https://open.spotify.com/track/7oyNN8YzrHBb08FCDCgrdS) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Bonus Rarities & Outtakes](https://open.spotify.com/album/3azmJJ3Ejy93PHyxE7Ps30) | 3:56 |
 | 205 | [My Peace of Heaven \- International Mix](https://open.spotify.com/track/0qAXmTUtBaQsdfUGvT4bIy) | [Ten City](https://open.spotify.com/artist/3DIaOWIVFxJdTYyEb9mXzi) | [My Peace of Heaven](https://open.spotify.com/album/7DrWQeOnroI91NwolZFivl) | 9:08 |
 
-Snapshot ID: `MTUzNzM5MTExMCwwMDAwMDAwMDE1ZWJlNGRiMTRmNTUzMDFhODFiYWUxNWNhMjk2NWI1`
+Snapshot ID: `MTUzNzM5MTExMCwwMDAwMDAwMDM3MjlkNTMyNTlkMjFhNzBkODM5YWQwNmQyOTYzZDA4`

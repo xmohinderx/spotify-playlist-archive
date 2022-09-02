@@ -4,13 +4,14 @@
 
 > Instrumental house for when you need to focus!
 
-172 songs - 9 hr 7 min - [published](https://open.spotify.com/playlist/2U5iwBxMgQ55J0jIhFXqmY)
+175 songs - 9 hr 16 min - [published](https://open.spotify.com/playlist/2U5iwBxMgQ55J0jIhFXqmY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Affection](https://open.spotify.com/track/0HiEXZOONGJt3IFmdD3Gjd) | [Goose Groovy](https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA) | [Affection](https://open.spotify.com/album/2rqz6aDLD084T5td7Q6EsL) | 2:56 | 2022-04-15 |  |
 | [Afterbeach](https://open.spotify.com/track/3H9RVmWhpElLLJD83yKw8J) | [Flamentone](https://open.spotify.com/artist/1VzCeERouz6MncrbF2VDxA) | [Afterbeach](https://open.spotify.com/album/7vgZ5UPZSrR02efzNukCu6) | 2:53 | 2022-04-15 |  |
 | [Aguacates Maduros](https://open.spotify.com/track/3bDpJL4DCGc8ynUfhCtTHl) | [Pool\-Man John](https://open.spotify.com/artist/5tQdY6sUlCJwkUmfJK4rbe) | [Aguacates Maduros](https://open.spotify.com/album/5L5ZfUAzvCyBiBM3yWy5DC) | 2:43 | 2022-04-15 |  |
+| [Almannagjá](https://open.spotify.com/track/2y8NHclCo5TPdGn5oq1pkY) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Almannagjá](https://open.spotify.com/album/3oc8GKdKvYten8v7t4mspv) | 3:31 | 2022-09-02 |  |
 | [AMS \- Alex Hoevelmann Rework](https://open.spotify.com/track/7b1MYYw5IJf3FJuWGW96oM) | [Martin Kohlstedt](https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk), [Alex Hoevelmann](https://open.spotify.com/artist/1kemW8RV4rWrwTSHLWXxuz) | [AMS \(Alex Hoevelmann Rework\)](https://open.spotify.com/album/1I4c64ZimJJVTz3kWTfjcX) | 6:47 | 2022-06-17 |  |
 | [Ana](https://open.spotify.com/track/6euGcnL8dwzuTdgXvUvM0b) | [Gabriel Minguez](https://open.spotify.com/artist/5JPB9dyLZWIsWZAubEn4YM) | [Ana](https://open.spotify.com/album/2rFyWrve9sIUtcoXAWsqjM) | 6:20 | 2022-04-15 |  |
 | [Apollo](https://open.spotify.com/track/5sIlFL8mCj6AIrRDI1d6mT) | [Donkels](https://open.spotify.com/artist/6as2EDg4VeljtLbtgBy54P) | [Apollo](https://open.spotify.com/album/2FhcrxYhzCnGz5T0ZromSk) | 2:26 | 2022-04-15 | 2022-08-19 |
@@ -64,7 +65,7 @@
 | [Feelings](https://open.spotify.com/track/4KohjkgXdXqYNHUOhcxJmF) | [MOOGADISHU](https://open.spotify.com/artist/0cV2d206HjrISLX6hSkktp) | [Feelings](https://open.spotify.com/album/49IUgUWndwR4zm99VyAi0J) | 2:48 | 2022-04-15 |  |
 | [Feelings Pt\. 2](https://open.spotify.com/track/1trBZuNfkopXnnvxgOr4tt) | [Genzlinger](https://open.spotify.com/artist/1CG6oa21WSjpjtNPhAOqmN) | [Feelings Pt\. 2](https://open.spotify.com/album/3J5LyLG4PJGoNtnyGZJzxa) | 3:19 | 2022-04-15 |  |
 | [Femme](https://open.spotify.com/track/1ox6W1kkA1C6okKgpQK5e9) | [Lndoner](https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7) | [Zanzibar](https://open.spotify.com/album/0HFKcAkd2zQDxi7or6ENLh) | 2:53 | 2022-07-08 |  |
-| [Flawless](https://open.spotify.com/track/18QHvKoP8RZDE6kWYWwd04) | [Beau Bailey\-Lang](https://open.spotify.com/artist/0HlA2jPYIXgwX8PhZwqmIH) | [Flawless](https://open.spotify.com/album/7ymPGmNjcueeThs05uQVNs) | 2:33 | 2022-04-15 |  |
+| [Flawless](https://open.spotify.com/track/18QHvKoP8RZDE6kWYWwd04) | [Beau Bailey\-Lang](https://open.spotify.com/artist/0HlA2jPYIXgwX8PhZwqmIH) | [Flawless](https://open.spotify.com/album/7ymPGmNjcueeThs05uQVNs) | 2:33 | 2022-04-15 | 2022-09-02 |
 | [Floating](https://open.spotify.com/track/2z1Dv4pDF2J8s6aoV5OHzl) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj) | [Floating](https://open.spotify.com/album/75am8qk7ml4rMFqzHpELez) | 3:04 | 2022-05-10 |  |
 | [Floating In Space](https://open.spotify.com/track/4iUX9qCWkcwLkZCH8AFzCc) | [Nicolello](https://open.spotify.com/artist/7IWbQLZ91NbHT6EiaF5l9V) | [Floating In Space](https://open.spotify.com/album/1bMdQiOFa3WLbiRmfO5GTb) | 2:32 | 2022-04-15 |  |
 | [Flower Burst](https://open.spotify.com/track/7oxc43kWwv1v2Q7N5QQQyX) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Flower Burst](https://open.spotify.com/album/3kBpoP2x8YAOZC3TYWdgPC) | 3:23 | 2022-08-05 |  |
@@ -94,6 +95,7 @@
 | [Isla de es Vedrá](https://open.spotify.com/track/23ClxBkpo2usaXLAeeS1gM) | [Bongo Percy](https://open.spotify.com/artist/1962ajzfry94J9kYNGQoSg) | [Isla de es Vedrá](https://open.spotify.com/album/5AG0PyT3GWsfuORBBW99Rz) | 4:20 | 2022-04-15 |  |
 | [Kantan](https://open.spotify.com/track/3UuV3xQsLn8FdAzEa0foPr) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Kantan](https://open.spotify.com/album/0EsACGm8MKS86WzhvWUV2K) | 3:17 | 2022-04-15 | 2022-05-11 |
 | [Keep Keepin On](https://open.spotify.com/track/3n7zfj79mavt7QnjuTw2QQ) | [Calitto](https://open.spotify.com/artist/0sUKrTh4bykVgGFl67aau5) | [Keep Keepin On](https://open.spotify.com/album/4XpaShZVMOaDaRkO81Hm3Q) | 3:27 | 2022-04-15 | 2022-05-11 |
+| [Kenaya](https://open.spotify.com/track/4hz8WgdHr8HmrYu8AKAF7c) | [Saint Haux](https://open.spotify.com/artist/6U0eV4Y0Uyfa9UadndH7hg) | [Kenaya](https://open.spotify.com/album/0CHML6ldbqxQ1icEclH3yb) | 2:38 | 2022-09-02 |  |
 | [KIKAROO](https://open.spotify.com/track/375YSQ8nHPLupqnb7EdTK3) | [2GO](https://open.spotify.com/artist/3H2aSFzZR5u415cYbqijBJ) | [KIKAROO](https://open.spotify.com/album/4TS4nD7m4S25mZhDDFJNXv) | 2:33 | 2022-04-15 |  |
 | [Kissing on the Dance Floor](https://open.spotify.com/track/3LHZHqkVQRfUbxWli3717M) | [Tyler Greyson](https://open.spotify.com/artist/6oqXcmdNWohuzozZgdcS9o) | [Kissing on the Dance Floor](https://open.spotify.com/album/6uSeYFPvoMv0DZxsrZyIS2) | 2:42 | 2022-04-15 |  |
 | [Les Tropiques](https://open.spotify.com/track/3HS8Wdsq0vMXTcRvGIJyWP) | [Paon Bleu](https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ) | [Les Tropiques](https://open.spotify.com/album/16wfDEqgKJeekVGo4LYJ86) | 3:15 | 2022-04-15 |  |
@@ -109,6 +111,7 @@
 | [New Jade](https://open.spotify.com/track/0aXTlYIS7b7mMDMBUUAtFq) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Rayn / New Jade](https://open.spotify.com/album/6CaGwdawqrWQ14o9vew84L) | 3:47 | 2022-04-15 |  |
 | [No Trip](https://open.spotify.com/track/2EeloLo4CTPRnhLDzSVuyc) | [Young Community](https://open.spotify.com/artist/1dThUtszO1jevy1BfKlCcR) | [Pinkland](https://open.spotify.com/album/2uEEJf58UChxAoZWm7YGat) | 4:03 | 2022-04-15 |  |
 | [On My Way](https://open.spotify.com/track/28H2eFbLiKPfJ44ZvGWPax) | [Wasted House](https://open.spotify.com/artist/7cU0yD9la2xTxWSaxc5uk2) | [On My Way](https://open.spotify.com/album/62gm87KgQEdnTeZNJ129os) | 1:56 | 2022-04-15 |  |
+| [One Day](https://open.spotify.com/track/23xtj6sfcsi2pZjmLM0m6L) | [GIM GAM](https://open.spotify.com/artist/6l3713Vu1NzSyc18FhDN8Y) | [One Day](https://open.spotify.com/album/7oXojJOI8sgR1i5y9bRNlx) | 3:02 | 2022-09-02 |  |
 | [Overseas](https://open.spotify.com/track/1BfcslI8bC66wOEYLqmA54) | [Marcel Janssen](https://open.spotify.com/artist/3LeDFQTB2L2bu32qCK2Pxo) | [Overseas](https://open.spotify.com/album/4aO1OAB0EEduHKBuVnxv0R) | 2:44 | 2022-04-15 |  |
 | [Paint](https://open.spotify.com/track/3aQ7Zu6BKPMcj6kkHAmt4z) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Concrete Miracle EP](https://open.spotify.com/album/0XO6KvzYky6tmlQQAyqnME) | 4:00 | 2022-04-15 |  |
 | [Palm Tree](https://open.spotify.com/track/6nalAQtGzYV2PGBdHLrz9p) | [I Can East](https://open.spotify.com/artist/7Mrt8ANdFz3SlbMsD6GICP) | [Palm Tree](https://open.spotify.com/album/1iQXVdRUs2eJ0wDwpvStIl) | 5:48 | 2022-04-15 | 2022-08-19 |
@@ -147,7 +150,7 @@
 | [Sidebar Sally](https://open.spotify.com/track/21ypSBlIsEL8siDMTmufhK) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Sidebar Sally](https://open.spotify.com/album/6fnD0mBt9kdNagaR2oBvmu) | 2:55 | 2022-04-15 | 2022-07-08 |
 | [Sker](https://open.spotify.com/track/3jwZYMxDsuWB5stJ3bEcLZ) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Sker](https://open.spotify.com/album/4yFrPTe8yehyzaBQeHfaGI) | 4:52 | 2022-08-05 |  |
 | [Slow Rain](https://open.spotify.com/track/1edBi0eW1gqWWATbHrLJ0Q) | [Sun Mirage](https://open.spotify.com/artist/3wqjOyUcOsV0wSLgCsGwf4) | [It's all clear now](https://open.spotify.com/album/4nZ4IAl00PTqsNs0AmC0GA) | 3:50 | 2022-04-15 |  |
-| [Small Movements](https://open.spotify.com/track/3gO8WiLfYrnVvNwGHlzy1J) | [Dancing Minds](https://open.spotify.com/artist/0jiLNfvHXBnL45hznG0dqB) | [Small Movements](https://open.spotify.com/album/3eLgQL1KvbrbrZyw4YjHDJ) | 3:55 | 2022-04-15 |  |
+| [Small Movements](https://open.spotify.com/track/3gO8WiLfYrnVvNwGHlzy1J) | [Dancing Minds](https://open.spotify.com/artist/0jiLNfvHXBnL45hznG0dqB) | [Small Movements](https://open.spotify.com/album/3eLgQL1KvbrbrZyw4YjHDJ) | 3:55 | 2022-04-15 | 2022-09-02 |
 | [Southern Sky](https://open.spotify.com/track/7b5JVYNwXrFVB94lBBqeQU) | [My Ocean](https://open.spotify.com/artist/3QHeux68acRCH1mNlBrdoP) | [Southern Sky](https://open.spotify.com/album/2FND9HEcVEEmhGzfQuNnYH) | 3:54 | 2022-04-15 | 2022-06-03 |
 | [SPF](https://open.spotify.com/track/1tqvyTyYlfi3CMH5dnaySS) | [Jasise](https://open.spotify.com/artist/1Q8mBvNTwlCJWrpyp4zwHt) | [SPF](https://open.spotify.com/album/6G2WsFZ9YKQhXyJZUc1UJ8) | 2:59 | 2022-04-15 |  |
 | [Spicy \- Disco Edit](https://open.spotify.com/track/01b16Z7WnxoK8EkZmj8yF6) | [Curacado](https://open.spotify.com/artist/3MnwSIICaUw2aBQiOklr1b) | [Spicy \- Disco Edit](https://open.spotify.com/album/5EVKank3vCy7E0ZW7Bo6XU) | 2:57 | 2022-04-15 |  |

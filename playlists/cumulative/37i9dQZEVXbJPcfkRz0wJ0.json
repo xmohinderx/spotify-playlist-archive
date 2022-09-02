@@ -852,6 +852,28 @@
     },
     {
       "album": {
+        "name": "B.O.T.A. (Baddest Of Them All)",
+        "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        },
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226626,
+      "name": "B.O.T.A. (Baddest Of Them All) - Edit",
+      "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
+    },
+    {
+      "album": {
         "name": "Holiday Wishes",
         "url": "https://open.spotify.com/album/0EGX5qfw6VEPOMoCUFJFHl"
       },
@@ -1357,7 +1379,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
@@ -10405,7 +10427,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-09-01",
+      "date_removed": null,
       "duration_ms": 182160,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf"
@@ -11733,7 +11755,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 265798,
       "name": "There\u2019d Better Be A Mirrorball",
       "url": "https://open.spotify.com/track/0yowbJnnbTLpr99f9l1uba"

@@ -586,6 +586,24 @@
     },
     {
       "album": {
+        "name": "EMIRATES",
+        "url": "https://open.spotify.com/album/2FeMXivnB7SG2PnT3Sq4LH"
+      },
+      "artists": [
+        {
+          "name": "Meth",
+          "url": "https://open.spotify.com/artist/7mP77CbmESx0WtAFLvRTZP"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151980,
+      "name": "EMIRATES",
+      "url": "https://open.spotify.com/track/3xncdlgBxm4jnDHUA6nUyD"
+    },
+    {
+      "album": {
         "name": "Black Pulcinella",
         "url": "https://open.spotify.com/album/44BqX1Kc6bSgUb3SvWF0k6"
       },
@@ -808,6 +826,32 @@
     },
     {
       "album": {
+        "name": "L'immortale",
+        "url": "https://open.spotify.com/album/6QXefXe4iqEEc3AXu8Gi1F"
+      },
+      "artists": [
+        {
+          "name": "Cecchy",
+          "url": "https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN"
+        },
+        {
+          "name": "LilTony",
+          "url": "https://open.spotify.com/artist/6iqapqgOqZ9HEt3G6ByUrh"
+        },
+        {
+          "name": "808s",
+          "url": "https://open.spotify.com/artist/2GOXq0IQdGC0Ke965fc6ys"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170090,
+      "name": "L'immortale",
+      "url": "https://open.spotify.com/track/1OnQfsNP3MzaxGsP52siB9"
+    },
+    {
+      "album": {
         "name": "La Notte di San Lorenzo",
         "url": "https://open.spotify.com/album/2GdSyJJhZiVTauVviRoycI"
       },
@@ -823,6 +867,24 @@
       "duration_ms": 188888,
       "name": "La Notte di San Lorenzo",
       "url": "https://open.spotify.com/track/79Fh7hxRa2QDiLN3VMrFjL"
+    },
+    {
+      "album": {
+        "name": "Last Night",
+        "url": "https://open.spotify.com/album/1SYlvXfEqgf2rgvOQMYufO"
+      },
+      "artists": [
+        {
+          "name": "Vale Lambo",
+          "url": "https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208524,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/1daenAwiS4hRaY5dvLYdmn"
     },
     {
       "album": {
@@ -911,6 +973,36 @@
       "duration_ms": 306260,
       "name": "ME STAJE APPENNENN' AM\u00d2",
       "url": "https://open.spotify.com/track/6ZeuLKwFxg10M4DhJPBjNm"
+    },
+    {
+      "album": {
+        "name": "Mi Regalo Mas Bonito (con Peppe Soks & O'Tsunami) [Remix]",
+        "url": "https://open.spotify.com/album/2aKR0fJ0eCxMGstVCRnpNh"
+      },
+      "artists": [
+        {
+          "name": "Peppe Soks",
+          "url": "https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT"
+        },
+        {
+          "name": "O'Tsunami",
+          "url": "https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm"
+        },
+        {
+          "name": "Nathys",
+          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
+        },
+        {
+          "name": "ARMS",
+          "url": "https://open.spotify.com/artist/3IXlXWmJSpytr7musHXIzI"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141869,
+      "name": "Mi Regalo Mas Bonito (con Peppe Soks & O'Tsunami) - Remix",
+      "url": "https://open.spotify.com/track/1YbkSzTkIpQ743BrmdT1wH"
     },
     {
       "album": {
@@ -1161,7 +1253,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 149000,
       "name": "Nun te rispongo cchi\u00f9",
       "url": "https://open.spotify.com/track/2bBenDA68EZXFqFgpPo6MZ"
@@ -1515,7 +1607,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 189100,
       "name": "Revenge (feat. Enzo Dong)",
       "url": "https://open.spotify.com/track/5juO5QlcUYCwDEm8KG7V1x"
@@ -1551,7 +1643,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 128274,
       "name": "RFTS 3: Transalp (Freestyle)",
       "url": "https://open.spotify.com/track/2ip5V8poyS2rkYlvfQ0mxw"
@@ -1701,7 +1793,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 108400,
       "name": "T Pens",
       "url": "https://open.spotify.com/track/65U8ZFmt7JSrLdwH93q363"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbU2HfvNSMTH.md) - [plain]
 
 > The songs of the 1980s that will make you dance all summer long!
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,970 likes - 75 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,079 likes - 75 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbU2HfvNSMTH.md) - [plain]
 | 21 | [Dancing In the Dark](https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:01 |
 | 22 | [Crazy Train](https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Blizzard Of Ozz \(40th Anniversary Expanded Edition\)](https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS) | 4:53 |
 | 23 | [You Make My Dreams \(Come True\)](https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Voices](https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS) | 3:10 |
-| 24 | [Danger Zone \- From "Top Gun" Original Soundtrack](https://open.spotify.com/track/34x6hEJgGAOQvmlMql5Ige) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Yesterday, Today, Tomorrow \- The Greatest Hits Of Kenny Loggins](https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW) | 3:35 |
-| 25 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 4:37 |
+| 24 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 4:37 |
+| 25 | [Danger Zone \- From "Top Gun" Original Soundtrack](https://open.spotify.com/track/34x6hEJgGAOQvmlMql5Ige) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Yesterday, Today, Tomorrow \- The Greatest Hits Of Kenny Loggins](https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW) | 3:35 |
 | 26 | [Start Me Up \- Remastered 2009](https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Tattoo You \(2009 Re\-Mastered\)](https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ) | 3:33 |
 | 27 | [Maniac](https://open.spotify.com/track/0QKfiqpEU4h9ycPSzIFwYe) | [Michael Sembello](https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB) | [Flashdance \(Original Soundtrack From The Motion Picture\)](https://open.spotify.com/album/3R6Z3Hp8EMdhgkA5t89NiL) | 4:04 |
 | 28 | [Don't You Want Me](https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 3:56 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbU2HfvNSMTH.md) - [plain]
 | 59 | [I'm Coming Out](https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI) | 5:23 |
 | 60 | [Kokomo](https://open.spotify.com/track/5qHYXcVvc9xsFB2uH7GpMN) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Very Best Of The Beach Boys: Sounds Of Summer](https://open.spotify.com/album/47VjIh8rgyMJJHNR98w0Kw) | 3:37 |
 | 61 | [Dancing On The Ceiling](https://open.spotify.com/track/0snPJPxkk0MbTc0xeUvAPt) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Dancing On The Ceiling \(Expanded Edition\)](https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf) | 4:30 |
-| 62 | [Working for the Weekend](https://open.spotify.com/track/35k31HZI4z9PbBOioaI4dZ) | [Loverboy](https://open.spotify.com/artist/2CLVPk9FcywjClBcTvWPkT) | [Get Lucky](https://open.spotify.com/album/6oZb0svo8JG9mVxZmHjPxE) | 3:41 |
-| 63 | [Moonlight Shadow](https://open.spotify.com/track/4WpmwEdc4RBos8W8icSSxW) | [Mike Oldfield](https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn) | [The Mike Oldfield Collection](https://open.spotify.com/album/6DCKvIzj7NnAwmdtI010JY) | 3:38 |
+| 62 | [Moonlight Shadow](https://open.spotify.com/track/4WpmwEdc4RBos8W8icSSxW) | [Mike Oldfield](https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn) | [The Mike Oldfield Collection](https://open.spotify.com/album/6DCKvIzj7NnAwmdtI010JY) | 3:38 |
+| 63 | [Working for the Weekend](https://open.spotify.com/track/35k31HZI4z9PbBOioaI4dZ) | [Loverboy](https://open.spotify.com/artist/2CLVPk9FcywjClBcTvWPkT) | [Get Lucky](https://open.spotify.com/album/6oZb0svo8JG9mVxZmHjPxE) | 3:41 |
 | 64 | [Venus](https://open.spotify.com/track/4XX1pFUkQOZTYp6Hb6a6Ae) | [Bananarama](https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx) | [True Confessions \(Collector's Edition\)](https://open.spotify.com/album/6CVuruIUWoYViZM97wgq9h) | 3:49 |
 | 65 | [Friday I'm in Love](https://open.spotify.com/track/263aNAQCeFSWipk896byo6) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu) | 3:34 |
 | 66 | [Good Thing](https://open.spotify.com/track/6lRkdG1HurVS72F9GoBeWJ) | [Fine Young Cannibals](https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp) | [The Raw & The Cooked](https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F) | 3:21 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbU2HfvNSMTH.md) - [plain]
 | 71 | [Tell It to My Heart](https://open.spotify.com/track/3YVPpVJvJG2EauXurPA90F) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Tell It to My Heart \(Expanded Edition\)](https://open.spotify.com/album/2hlHv54WpTInFIRMk3Hwjk) | 3:40 |
 | 72 | [Give It Up](https://open.spotify.com/track/3yDhZq8f17SmumVmEyCaRN) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [All In a Night's Work \(Expanded Version\)](https://open.spotify.com/album/52BJ1S5NOv7eFD6ZFDZga2) | 4:14 |
 | 73 | [Addicted To Love](https://open.spotify.com/track/5izGeTxueiFX1UPFGohY9w) | [Robert Palmer](https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu), [Eric 'ET' Thorngren](https://open.spotify.com/artist/0tO3KaRy0ZACd8XJYT3IX2) | [Riptide](https://open.spotify.com/album/73bPiJRwVPkE8dpyCikfFd) | 6:03 |
-| 74 | [Rhythm Of The Night](https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt) | [DeBarge](https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV) | [Rhythm Of The Night](https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8) | 3:49 |
-| 75 | [Funkytown \- Single Version](https://open.spotify.com/track/0B5kY9i9bmP7554oU4jRoO) | [Lipps Inc.](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) | ['80s Pop \#1's](https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY) | 4:05 |
+| 74 | [Funkytown \- Single Version](https://open.spotify.com/track/0B5kY9i9bmP7554oU4jRoO) | [Lipps Inc.](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) | ['80s Pop \#1's](https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY) | 4:05 |
+| 75 | [Rhythm Of The Night](https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt) | [DeBarge](https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV) | [Rhythm Of The Night](https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8) | 3:49 |
 
-Snapshot ID: `MTY1NTMyMzIwMCwwMDAwMDAwMDk2Zjk4YjI2NTJlZmZkOWVhODFhMDEzNDY5ZWZjZmFm`
+Snapshot ID: `MTY1NTMyMzIwMCwwMDAwMDAwMDkzZTIwOWVhODc1MGYzZDc1ZDQyY2UwOWNkMTE3Yjc5`

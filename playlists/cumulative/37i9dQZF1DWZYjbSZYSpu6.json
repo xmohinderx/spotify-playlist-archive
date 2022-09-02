@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: YERI, Sam Kim(\uc608\ub9ac, \uc0d8\uae40))",
+  "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: MAMAMOO+, Big Naughty)",
   "name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
   "published_playlist_ids": [
     "3XvJZtxjOxsmcdtLvwdndV"
@@ -327,6 +327,28 @@
       "duration_ms": 204613,
       "name": "Beautiful Mint Life",
       "url": "https://open.spotify.com/track/7qKkB9oyLR3af8C17eFkqP"
+    },
+    {
+      "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/65RvaP3P2DdeC0QoL0eean"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO+",
+          "url": "https://open.spotify.com/artist/3TESxOg8FArtQHKt4hKEoZ"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186880,
+      "name": "Better (Feat. BIG Naughty)",
+      "url": "https://open.spotify.com/track/6JO6fHEpjYE8ILDhweIqQj"
     },
     {
       "album": {
@@ -4073,7 +4095,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 219330,
       "name": "You, Who?",
       "url": "https://open.spotify.com/track/5WLLVrfFNbseupmtv0p2B1"

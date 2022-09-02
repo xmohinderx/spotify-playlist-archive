@@ -1827,7 +1827,7 @@
     {
       "album": {
         "name": "La \u00daltima Llamada",
-        "url": "https://open.spotify.com/album/2G0Z5q89Kp9NXX6a7y5F1t"
+        "url": "https://open.spotify.com/album/5SFEcLOtKOTjlI1q72TbnL"
       },
       "artists": [
         {
@@ -1838,6 +1838,24 @@
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 194866,
+      "name": "La \u00daltima Llamada",
+      "url": "https://open.spotify.com/track/3xqO0HGtRgTkS9xzNEQxwb"
+    },
+    {
+      "album": {
+        "name": "La \u00daltima Llamada",
+        "url": "https://open.spotify.com/album/2G0Z5q89Kp9NXX6a7y5F1t"
+      },
+      "artists": [
+        {
+          "name": "Divisi\u00f3n Min\u00fascula",
+          "url": "https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-02",
       "duration_ms": 194866,
       "name": "La \u00daltima Llamada",
       "url": "https://open.spotify.com/track/6uvNQEoUPJaHI10oVffAHO"

@@ -1,12 +1,12 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: DNGDNGDNG",
-  "num_followers": 320834,
+  "num_followers": 320777,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTk5ODU2OSwwMDAwMDAwMDlkZDExOTg0NWI5ODkwODhjOTE5MWUxMjE1MmQ2ZjMy",
+  "snapshot_id": "MTY0OTk5ODU2OSwwMDAwMDAwMDY2YjYwOWQ5OGY3YThjODEwMzdiMWIxY2RlNzFmYzI0",
   "tracks": [
     {
       "added_at": "2022-04-15 04:56:09",
@@ -327,22 +327,6 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Aire",
-        "url": "https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 273946,
-      "name": "Ahora",
-      "url": "https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
         "name": "Tranquillitas",
         "url": "https://open.spotify.com/album/6yIXqkjfFAwNPEdaZAsO9o"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 373333,
       "name": "Mojanda (feat. Wabi Sabi)",
       "url": "https://open.spotify.com/track/50oMN7gWP1tRaSSBq2LQCH"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "Aire",
+        "url": "https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 273946,
+      "name": "Ahora",
+      "url": "https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "B\u00faho",
-        "url": "https://open.spotify.com/album/5LNivPzS2smPjnunOBwKuX"
-      },
-      "artists": [
-        {
-          "name": "Mr. Bleat",
-          "url": "https://open.spotify.com/artist/4s30l2MADdxxpZbsNNCgCb"
-        }
-      ],
-      "duration_ms": 300338,
-      "name": "B\u00faho",
-      "url": "https://open.spotify.com/track/15A389LUr9IMkztXv6oFbM"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
         "name": "Sonic Forest",
         "url": "https://open.spotify.com/album/0ImFvq53ujOAdclMey4dd6"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 169094,
       "name": "Sonic Forest (D\u00e9jame Respirar)",
       "url": "https://open.spotify.com/track/6hreQzJujmQLr88N0fTLO3"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "B\u00faho",
+        "url": "https://open.spotify.com/album/5LNivPzS2smPjnunOBwKuX"
+      },
+      "artists": [
+        {
+          "name": "Mr. Bleat",
+          "url": "https://open.spotify.com/artist/4s30l2MADdxxpZbsNNCgCb"
+        }
+      ],
+      "duration_ms": 300338,
+      "name": "B\u00faho",
+      "url": "https://open.spotify.com/track/15A389LUr9IMkztXv6oFbM"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -707,6 +707,26 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
+        "name": "Shika Shika Presents Eco",
+        "url": "https://open.spotify.com/album/0GuwihkO3wZHLIc9C7qAlx"
+      },
+      "artists": [
+        {
+          "name": "Di Laif",
+          "url": "https://open.spotify.com/artist/5KEmdf3GZJMTtVb74Klhy1"
+        },
+        {
+          "name": "Maf\u00e9 Tula",
+          "url": "https://open.spotify.com/artist/25YPY0NKDJMmhXXPKzb4OP"
+        }
+      ],
+      "duration_ms": 332830,
+      "name": "Paso Por El Fuego",
+      "url": "https://open.spotify.com/track/3309nFqWGA4rnzfjqrQYzX"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
         "name": "Bye Bye",
         "url": "https://open.spotify.com/album/3ZSoRUnuOmnGXhV359Jpir"
       },
@@ -739,26 +759,6 @@
       "duration_ms": 281100,
       "name": "Bleu de lune (El Buho Remix)",
       "url": "https://open.spotify.com/track/4FKT3e93KFlXf5KBh715EV"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
-        "name": "Shika Shika Presents Eco",
-        "url": "https://open.spotify.com/album/0GuwihkO3wZHLIc9C7qAlx"
-      },
-      "artists": [
-        {
-          "name": "Di Laif",
-          "url": "https://open.spotify.com/artist/5KEmdf3GZJMTtVb74Klhy1"
-        },
-        {
-          "name": "Maf\u00e9 Tula",
-          "url": "https://open.spotify.com/artist/25YPY0NKDJMmhXXPKzb4OP"
-        }
-      ],
-      "duration_ms": 332830,
-      "name": "Paso Por El Fuego",
-      "url": "https://open.spotify.com/track/3309nFqWGA4rnzfjqrQYzX"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -811,6 +811,22 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
+        "name": "De Aqu\u00ed Hasta Aqu\u00ed",
+        "url": "https://open.spotify.com/album/2IGTlMn6hFIJCilXryWOp3"
+      },
+      "artists": [
+        {
+          "name": "Federico Estevez",
+          "url": "https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41"
+        }
+      ],
+      "duration_ms": 144021,
+      "name": "Agujeros Blancos",
+      "url": "https://open.spotify.com/track/62fdnD6CHCJHQYwH2YOQw3"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
         "name": "Luzmila Carpio Remixed (Luzmila Carpio Meets ZZK)",
         "url": "https://open.spotify.com/album/42yJe2iKdZ6Le083B0XuZj"
       },
@@ -831,18 +847,18 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "De Aqu\u00ed Hasta Aqu\u00ed",
-        "url": "https://open.spotify.com/album/2IGTlMn6hFIJCilXryWOp3"
+        "name": "Enter the San",
+        "url": "https://open.spotify.com/album/0jq4DsqKo31D8iRKXqfXxY"
       },
       "artists": [
         {
-          "name": "Federico Estevez",
-          "url": "https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41"
+          "name": "SUPERSAN",
+          "url": "https://open.spotify.com/artist/3NMvcKm02K3y6D8BvQNGD7"
         }
       ],
-      "duration_ms": 144021,
-      "name": "Agujeros Blancos",
-      "url": "https://open.spotify.com/track/62fdnD6CHCJHQYwH2YOQw3"
+      "duration_ms": 199000,
+      "name": "The Corsican",
+      "url": "https://open.spotify.com/track/6Tr3FORhPcNYvbvsyytnL8"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -875,22 +891,6 @@
       "duration_ms": 319169,
       "name": "Mu\u00ed\u00f1o",
       "url": "https://open.spotify.com/track/6zAuPi2fZsUYgXMIozkowv"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
-        "name": "Enter the San",
-        "url": "https://open.spotify.com/album/0jq4DsqKo31D8iRKXqfXxY"
-      },
-      "artists": [
-        {
-          "name": "SUPERSAN",
-          "url": "https://open.spotify.com/artist/3NMvcKm02K3y6D8BvQNGD7"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "The Corsican",
-      "url": "https://open.spotify.com/track/6Tr3FORhPcNYvbvsyytnL8"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -931,6 +931,22 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
+        "name": "T\u00fa Me Llevas",
+        "url": "https://open.spotify.com/album/1rR3l0T9K43s6FDWYyLCtG"
+      },
+      "artists": [
+        {
+          "name": "MO\u00dcGLI",
+          "url": "https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9"
+        }
+      ],
+      "duration_ms": 263650,
+      "name": "T\u00fa Me Llevas",
+      "url": "https://open.spotify.com/track/10OxrfJXZjNcWlbqvmxYs5"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
         "name": "Cuando Canto Grito",
         "url": "https://open.spotify.com/album/4ZvHs6XyOHCVwWd1x0NGFP"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 341074,
       "name": "Cuando Canto Grito",
       "url": "https://open.spotify.com/track/1t4gqrKnZ8TYjUAuyskN4Q"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
-        "name": "T\u00fa Me Llevas",
-        "url": "https://open.spotify.com/album/1rR3l0T9K43s6FDWYyLCtG"
-      },
-      "artists": [
-        {
-          "name": "MO\u00dcGLI",
-          "url": "https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9"
-        }
-      ],
-      "duration_ms": 263650,
-      "name": "T\u00fa Me Llevas",
-      "url": "https://open.spotify.com/track/10OxrfJXZjNcWlbqvmxYs5"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "A Short Story of the Mahale Mountains",
-        "url": "https://open.spotify.com/album/1aDWcld5aEvnFUixZ3zfyO"
-      },
-      "artists": [
-        {
-          "name": "The Golden Islands",
-          "url": "https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf"
-        }
-      ],
-      "duration_ms": 162765,
-      "name": "A Short Story of the Mahale Mountains",
-      "url": "https://open.spotify.com/track/7ii2m9S4sHvuOIpHEx2ukF"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
         "name": "Semillero",
         "url": "https://open.spotify.com/album/4yjnNPa3bH1Vwrepclo6d4"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 348009,
       "name": "Pua",
       "url": "https://open.spotify.com/track/4b3bYGxsCzLnPwQ5CyRlQX"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "A Short Story of the Mahale Mountains",
+        "url": "https://open.spotify.com/album/1aDWcld5aEvnFUixZ3zfyO"
+      },
+      "artists": [
+        {
+          "name": "The Golden Islands",
+          "url": "https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf"
+        }
+      ],
+      "duration_ms": 162765,
+      "name": "A Short Story of the Mahale Mountains",
+      "url": "https://open.spotify.com/track/7ii2m9S4sHvuOIpHEx2ukF"
     },
     {
       "added_at": "2022-04-15 04:56:09",

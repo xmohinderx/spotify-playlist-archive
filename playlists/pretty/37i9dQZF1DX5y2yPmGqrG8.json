@@ -1,12 +1,12 @@
 {
   "description": "Immerse in an imaginary panorama of atmospheric soundscapes.",
-  "num_followers": 287164,
+  "num_followers": 286767,
   "original_name": "Deep Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkxODI3OCwwMDAwMDAwMDQ1MjA4NjZlMzNlMWU5ZGNkNGU0MDQ0OWQzOWZkYWI2",
+  "snapshot_id": "MTY2MTkxODI3OCwwMDAwMDAwMDliOTdiNWFlNzgxNDEyNDg4ZmU5ZTkwODBhNWQ0MWI1",
   "tracks": [
     {
       "added_at": "2022-08-03 02:59:28",
@@ -377,6 +377,22 @@
       "url": "https://open.spotify.com/track/5IExVHUiRccCWyJ4imu9qD"
     },
     {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Clube Da Esquina",
+        "url": "https://open.spotify.com/album/5risYG7klZCSLMNxB9dZhf"
+      },
+      "artists": [
+        {
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+        }
+      ],
+      "duration_ms": 218600,
+      "name": "Clube Da Esquina N\u00ba 2",
+      "url": "https://open.spotify.com/track/1sdW2whJr8CLa6bMA67LPQ"
+    },
+    {
       "added_at": "2022-03-30 05:08:29",
       "album": {
         "name": "Orbital",
@@ -395,34 +411,18 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Clube Da Esquina",
-        "url": "https://open.spotify.com/album/5risYG7klZCSLMNxB9dZhf"
+        "name": "Shadow Work",
+        "url": "https://open.spotify.com/album/62rUr720cpe9cWhfnC3gBc"
       },
       "artists": [
         {
-          "name": "Milton Nascimento",
-          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+          "name": "Mammal Hands",
+          "url": "https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1"
         }
       ],
-      "duration_ms": 218600,
-      "name": "Clube Da Esquina N\u00ba 2",
-      "url": "https://open.spotify.com/track/1sdW2whJr8CLa6bMA67LPQ"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Haunt Me",
-        "url": "https://open.spotify.com/album/5MZRB9G4snRWIG0otfxJYq"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 208040,
-      "name": "Boreal Kiss Pt. 1",
-      "url": "https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4"
+      "duration_ms": 87341,
+      "name": "Being Here",
+      "url": "https://open.spotify.com/track/5cr7x0cknWAOD9iBcJEFVU"
     },
     {
       "added_at": "2022-08-03 03:05:22",
@@ -443,18 +443,18 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Shadow Work",
-        "url": "https://open.spotify.com/album/62rUr720cpe9cWhfnC3gBc"
+        "name": "Haunt Me",
+        "url": "https://open.spotify.com/album/5MZRB9G4snRWIG0otfxJYq"
       },
       "artists": [
         {
-          "name": "Mammal Hands",
-          "url": "https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1"
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
         }
       ],
-      "duration_ms": 87341,
-      "name": "Being Here",
-      "url": "https://open.spotify.com/track/5cr7x0cknWAOD9iBcJEFVU"
+      "duration_ms": 208040,
+      "name": "Boreal Kiss Pt. 1",
+      "url": "https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -611,6 +611,22 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
+        "name": "Gallery Love",
+        "url": "https://open.spotify.com/album/449aXZhYMnuXRL877ZFF64"
+      },
+      "artists": [
+        {
+          "name": "oso leone",
+          "url": "https://open.spotify.com/artist/0iViECTHd21gYy1zIEvusi"
+        }
+      ],
+      "duration_ms": 302190,
+      "name": "Virtual U",
+      "url": "https://open.spotify.com/track/39nTI9fKd7tB0AUuQObLf1"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
         "name": "The Undivided Five",
         "url": "https://open.spotify.com/album/3AuhGsh99iTqA57kn3rzvl"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 292539,
       "name": "The Rhythm Of A Dividing Pair",
       "url": "https://open.spotify.com/track/3c8mNUeqbasEt6BvzYtxNb"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Gallery Love",
-        "url": "https://open.spotify.com/album/449aXZhYMnuXRL877ZFF64"
-      },
-      "artists": [
-        {
-          "name": "oso leone",
-          "url": "https://open.spotify.com/artist/0iViECTHd21gYy1zIEvusi"
-        }
-      ],
-      "duration_ms": 302190,
-      "name": "Virtual U",
-      "url": "https://open.spotify.com/track/39nTI9fKd7tB0AUuQObLf1"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -771,6 +771,22 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
+        "name": "Subtle Vertigo",
+        "url": "https://open.spotify.com/album/5Q0m6tA2OUCmhhTYAwZimH"
+      },
+      "artists": [
+        {
+          "name": "Scott Gilmore",
+          "url": "https://open.spotify.com/artist/4VC1j6E8YdBgmSGCWYWtVN"
+        }
+      ],
+      "duration_ms": 162940,
+      "name": "E70 No. 01",
+      "url": "https://open.spotify.com/track/01iglyLhCYZYlCqAxY8Vfz"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
         "name": "Spain",
         "url": "https://open.spotify.com/album/08vaZjMMQNppAfNg6ZfadL"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 286066,
       "name": "Spain",
       "url": "https://open.spotify.com/track/7nBp9NMpOUUMTxyfQPlk2M"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Subtle Vertigo",
-        "url": "https://open.spotify.com/album/5Q0m6tA2OUCmhhTYAwZimH"
-      },
-      "artists": [
-        {
-          "name": "Scott Gilmore",
-          "url": "https://open.spotify.com/artist/4VC1j6E8YdBgmSGCWYWtVN"
-        }
-      ],
-      "duration_ms": 162940,
-      "name": "E70 No. 01",
-      "url": "https://open.spotify.com/track/01iglyLhCYZYlCqAxY8Vfz"
     },
     {
       "added_at": "2021-10-06 04:52:47",

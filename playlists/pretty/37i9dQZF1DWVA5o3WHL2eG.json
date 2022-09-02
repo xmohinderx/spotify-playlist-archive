@@ -1,12 +1,12 @@
 {
   "description": "\"Women at full volume\" - H\u00f6re hier K\u00fcnstlerinnen aus Deutschland, \u00d6sterreich und der Schweiz. Cover: Mulay",
-  "num_followers": 18136,
+  "num_followers": 18118,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTg3ODIzNSwwMDAwMDAwMDY4MjhjMzdkYjk5NTQ5YjdiNWVjODdlNDE3ZTNiNTVl",
+  "snapshot_id": "MTY1OTg3ODIzNSwwMDAwMDAwMDI2YTM0ZGI4YjRiODgwZTQ3ZjQ0MTFiMmVhYWEyODVh",
   "tracks": [
     {
       "added_at": "2022-08-07 13:17:15",
@@ -267,6 +267,22 @@
     {
       "added_at": "2022-08-07 13:17:15",
       "album": {
+        "name": "Born Digital",
+        "url": "https://open.spotify.com/album/0Rc7DxnxrgAUZhS9xw1pYb"
+      },
+      "artists": [
+        {
+          "name": "Pretty Pink",
+          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
+        }
+      ],
+      "duration_ms": 209280,
+      "name": "Born Digital",
+      "url": "https://open.spotify.com/track/0vJDUTcjwCclZhE3oqNCiV"
+    },
+    {
+      "added_at": "2022-08-07 13:17:15",
+      "album": {
         "name": "Letzte Nacht / Moonrocks",
         "url": "https://open.spotify.com/album/58B3nKeNDDOizFH47WDKrD"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 144868,
       "name": "Lichter an",
       "url": "https://open.spotify.com/track/3Va2IBC5tsaisIkcSOYo3J"
-    },
-    {
-      "added_at": "2022-08-07 13:17:15",
-      "album": {
-        "name": "Born Digital",
-        "url": "https://open.spotify.com/album/0Rc7DxnxrgAUZhS9xw1pYb"
-      },
-      "artists": [
-        {
-          "name": "Pretty Pink",
-          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
-        }
-      ],
-      "duration_ms": 209280,
-      "name": "Born Digital",
-      "url": "https://open.spotify.com/track/0vJDUTcjwCclZhE3oqNCiV"
     },
     {
       "added_at": "2022-08-07 13:17:15",

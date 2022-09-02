@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,766 likes - 60 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,840 likes - 60 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,23 +50,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 40 | [Help Me Out](https://open.spotify.com/track/6qgKJxzgWqPyoHJaoDAnGE) | [The Hotlips](https://open.spotify.com/artist/1WNWaC0lAc3o5ODUvRfOo6) | [Help Me Out](https://open.spotify.com/album/1OiLEuPXzmyiPDUZtAQZYc) | 2:59 |
 | 41 | [Welcome to My Hell](https://open.spotify.com/track/5UDbp5XoKm8UornXTFQk8D) | [The Go Getters](https://open.spotify.com/artist/5UR2Ohlvs9osiEwbJVQHiq) | [Hot Rod Roadeo](https://open.spotify.com/album/3HMxOidYsEt6ayuiJALN0k) | 3:08 |
 | 42 | [New Rock The Joint](https://open.spotify.com/track/2msqQpB7YcypMKIx6W5qG5) | [Bill Haley & His Comets](https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr) | [Rockin' The Joint](https://open.spotify.com/album/0N5EMEMyYN6BW9R3PjCxxz) | 2:18 |
-| 43 | [Rock Around With Ollie Vee \- Alternate Version](https://open.spotify.com/track/5b0KMebx2ZOPv91U42xOSv) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [That'll Be The Day](https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY) | 2:18 |
-| 44 | [Chevy 55](https://open.spotify.com/track/79K5pAjftYuDRdxRksHddu) | [The Playtones](https://open.spotify.com/artist/4UThQDoYdZatw3BH5zZIne) | [In the Mood](https://open.spotify.com/album/2sUh5PyADSSgduPJgCeYwu) | 2:55 |
-| 45 | [Everybody's Movin'](https://open.spotify.com/track/4NnJxkpRJzfKMJM1H3VlYt) | [Glen Glenn](https://open.spotify.com/artist/4HA1v7Kj8foWKczaOUbxQx) | [Glen Rocks](https://open.spotify.com/album/7lm2w3HxZcXE1V2tvscmBv) | 2:42 |
+| 43 | [Everybody's Movin'](https://open.spotify.com/track/4NnJxkpRJzfKMJM1H3VlYt) | [Glen Glenn](https://open.spotify.com/artist/4HA1v7Kj8foWKczaOUbxQx) | [Glen Rocks](https://open.spotify.com/album/7lm2w3HxZcXE1V2tvscmBv) | 2:42 |
+| 44 | [Rock Around With Ollie Vee \- Alternate Version](https://open.spotify.com/track/5b0KMebx2ZOPv91U42xOSv) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [That'll Be The Day](https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY) | 2:18 |
+| 45 | [Chevy 55](https://open.spotify.com/track/79K5pAjftYuDRdxRksHddu) | [The Playtones](https://open.spotify.com/artist/4UThQDoYdZatw3BH5zZIne) | [In the Mood](https://open.spotify.com/album/2sUh5PyADSSgduPJgCeYwu) | 2:55 |
 | 46 | [Black Slacks](https://open.spotify.com/track/0nRR6eQMDYkIFmn8c9Rwga) | [Joe Bennett & The Sparkletones](https://open.spotify.com/artist/7jXrEnMAd3ExygGvV3ZGhP) | [1957\-1959](https://open.spotify.com/album/5jRYbndM2M3Z5tzDJDLzNp) | 2:09 |
 | 47 | [Tiger Twist \- 2007 Remaster](https://open.spotify.com/track/0WZiGJT2NawjIySdHLzhMx) | [Teddy & The Tigers](https://open.spotify.com/artist/1vKtKEWbJ3NcT14A49sBbb) | [Burn It Up](https://open.spotify.com/album/7mqE83mgUVFGH58PShzMBg) | 2:05 |
 | 48 | [Rich Little Bitch](https://open.spotify.com/track/12680M4NXeEB27oywHfCxg) | [Melrose](https://open.spotify.com/artist/7wEF4N6aICDlkHnCy3PLan) | [Melrose](https://open.spotify.com/album/4RE5Q4pm0CqEXpfva5NoXz) | 3:51 |
-| 49 | [Rocky Road Blues](https://open.spotify.com/track/3BnAAC5tXSJgv2FnQdB0Fx) | [The Lennerockers](https://open.spotify.com/artist/4vc23SWZ3Lws9afk9sJun9), [Freddie Fingers Lee](https://open.spotify.com/artist/0zbAwBACoFK4620DPiqRnz) | [The Lennerockers and Friends](https://open.spotify.com/album/5isCgworJE2qqtIyx4K4Vr) | 3:27 |
-| 50 | [Redneck Rock](https://open.spotify.com/track/1UH6UAeMdL5k8hJe8dNrk8) | [Jerry Jaye](https://open.spotify.com/artist/34LPrj2jJHyeenP4sURa7N) | [One More Time](https://open.spotify.com/album/5nT4fJpMylZufxoYnB1Pbl) | 2:15 |
-| 51 | [Umbrella](https://open.spotify.com/track/6evNakVewSYjoUmEIEEHLi) | [The Baseballs](https://open.spotify.com/artist/3Ek1EdkcbRFvSDJj9j5JXQ) | [Strike!](https://open.spotify.com/album/6fCk4dWzSKBJeIC3RKSxF7) | 3:06 |
+| 49 | [Umbrella](https://open.spotify.com/track/6evNakVewSYjoUmEIEEHLi) | [The Baseballs](https://open.spotify.com/artist/3Ek1EdkcbRFvSDJj9j5JXQ) | [Strike!](https://open.spotify.com/album/6fCk4dWzSKBJeIC3RKSxF7) | 3:06 |
+| 50 | [Rocky Road Blues](https://open.spotify.com/track/3BnAAC5tXSJgv2FnQdB0Fx) | [The Lennerockers](https://open.spotify.com/artist/4vc23SWZ3Lws9afk9sJun9), [Freddie Fingers Lee](https://open.spotify.com/artist/0zbAwBACoFK4620DPiqRnz) | [The Lennerockers and Friends](https://open.spotify.com/album/5isCgworJE2qqtIyx4K4Vr) | 3:27 |
+| 51 | [Redneck Rock](https://open.spotify.com/track/1UH6UAeMdL5k8hJe8dNrk8) | [Jerry Jaye](https://open.spotify.com/artist/34LPrj2jJHyeenP4sURa7N) | [One More Time](https://open.spotify.com/album/5nT4fJpMylZufxoYnB1Pbl) | 2:15 |
 | 52 | [Baby Come Back](https://open.spotify.com/track/0giw3w1nkwpF7isclQaUy0) | [TT Grace](https://open.spotify.com/artist/174fMDtkjlEdRIF9gXZcHc) | [Baby Come Back](https://open.spotify.com/album/0mt0K3Xgp7zN5nOZFoPJ4L) | 3:21 |
 | 53 | [Hello Mary Lou](https://open.spotify.com/track/0YOasUp8fxPk3FXEa3fZ9z) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Legacy](https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0) | 2:18 |
 | 54 | [Northern Girl](https://open.spotify.com/track/3ddovtNdDK3nrseLGpI4hV) | [Lee Ericson](https://open.spotify.com/artist/4i9dZAd8B1gXWY8iyPdgnY), [The Kingbees](https://open.spotify.com/artist/4cu77OuihTaUDYozqa2u9G) | [Stockholm Blue](https://open.spotify.com/album/7xFg94LOru7QaN5couhbh1) | 3:30 |
 | 55 | [Debt With the Devil](https://open.spotify.com/track/1HJx9hfIu9Ud26NBpDmy9Q) | [Hillbilly Casino](https://open.spotify.com/artist/5j0P209RtE4MZDmD6QdZpO) | [Tennessee Stomp](https://open.spotify.com/album/0A0uohuhu45hTyqwlgg0Ni) | 2:13 |
 | 56 | [Chalk It Up to the Blues](https://open.spotify.com/track/3GjdLiQyrIDArRUHHsE93v) | [Big Sandy & His Fly\-Rite Boys](https://open.spotify.com/artist/2LOf1HpUxBqvz3WIdNPdBv) | [It's Time!](https://open.spotify.com/album/0F9FXQPcSj82bp4SnDeA7A) | 3:12 |
-| 57 | [Don't Come Knocking on My Door](https://open.spotify.com/track/3yZL03V9NrrM6PnjK9WEqu) | [Danny Cooltmoore](https://open.spotify.com/artist/5QJXgfc6xBUgLtMctf1fHF), [Small Town Pimps](https://open.spotify.com/artist/5Pta9k4k1L77SPVrUxAVvS) | [Don't Come Knocking on My Door](https://open.spotify.com/album/1nPMU7cEdcWQfCXNg37M2h) | 3:17 |
-| 58 | [Come on Little Mama](https://open.spotify.com/track/11OqzAcT8jMaNZAt6kdpvR) | [Ray Harris](https://open.spotify.com/artist/0luI6OOG3mYAFQj4BC1hR8) | [Come on Little Mama / Where'd You Stay Last Night](https://open.spotify.com/album/0jRvfTjOFuHrNJrVUT8BZY) | 2:18 |
+| 57 | [Come on Little Mama](https://open.spotify.com/track/11OqzAcT8jMaNZAt6kdpvR) | [Ray Harris](https://open.spotify.com/artist/0luI6OOG3mYAFQj4BC1hR8) | [Come on Little Mama / Where'd You Stay Last Night](https://open.spotify.com/album/0jRvfTjOFuHrNJrVUT8BZY) | 2:18 |
+| 58 | [Don't Come Knocking on My Door](https://open.spotify.com/track/3yZL03V9NrrM6PnjK9WEqu) | [Danny Cooltmoore](https://open.spotify.com/artist/5QJXgfc6xBUgLtMctf1fHF), [Small Town Pimps](https://open.spotify.com/artist/5Pta9k4k1L77SPVrUxAVvS) | [Don't Come Knocking on My Door](https://open.spotify.com/album/1nPMU7cEdcWQfCXNg37M2h) | 3:17 |
 | 59 | [Bad News From Pretty Red Lips](https://open.spotify.com/track/1jy0EJerJqjpwdGHkUrZQd) | [Fatboy](https://open.spotify.com/artist/5vK6yZH3E1wOYY93NHZwJT) | [Overdrive](https://open.spotify.com/album/1PfyEOST0PpaP4c258vF0E) | 2:46 |
 | 60 | [Devil On My Shoulder](https://open.spotify.com/track/3UZo90wgkXdNPtSVIMYfdu) | [Kim Lenz & Her Jaguars](https://open.spotify.com/artist/2yG5isAT56JzRO1qpmmwnB) | [Kim Lenz And Her Jaguars](https://open.spotify.com/album/1S8GKcUi2QMBDN6AtSZLOL) | 2:37 |
 
-Snapshot ID: `MTY2MDI4OTY5NCwwMDAwMDAwMDliODM4ZmU5YjY5ZDdkMTQ2YTFjYzc2ZjliZDlhMzAx`
+Snapshot ID: `MTY2MDI4OTY5NCwwMDAwMDAwMDRkY2UzYzc4ZGQ5YTBlMzVhNmFkMTUwZDgxZGJiZDgz`

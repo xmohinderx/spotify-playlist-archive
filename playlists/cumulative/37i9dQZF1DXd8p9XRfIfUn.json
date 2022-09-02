@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2022-05-22",
-  "description": "Lo mejor de la nueva. Foto: Kris Floyd, Jota Rosa, Feid",
+  "description": "Lo mejor de la nueva. Foto: paopao",
   "name": "Academia Reggaet\u00f3n",
   "published_playlist_ids": [
     "3ZGG1JOi7RasWn3HYxETEa"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "diamantes y espinas",
+        "url": "https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T"
+      },
+      "artists": [
+        {
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213920,
+      "name": "algo as\u00ed",
+      "url": "https://open.spotify.com/track/5YZ6ThqD1WBi9g0YSlLsfW"
+    },
     {
       "album": {
         "name": "Animal",
@@ -19,7 +37,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 195135,
       "name": "Animal",
       "url": "https://open.spotify.com/track/35ccLhqnXTaoA5kk8IPQdH"
@@ -432,7 +450,7 @@
     },
     {
       "album": {
-        "name": "Como \u00d1engo (feat. Kris Floyd)",
+        "name": "Como \u00d1engo (feat. Jota Rosa)",
         "url": "https://open.spotify.com/album/1D0xvI1Mz6Wv0TpTa6UAhC"
       },
       "artists": [
@@ -441,23 +459,23 @@
           "url": "https://open.spotify.com/artist/3PVOsu4zHMse1c46pqTfnT"
         },
         {
-          "name": "Jota Rosa",
-          "url": "https://open.spotify.com/artist/7gK06FGYa8dtJogKJXAG80"
+          "name": "Kris Floyd",
+          "url": "https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H"
         },
         {
           "name": "Feid",
           "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         },
         {
-          "name": "Kris Floyd",
-          "url": "https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H"
+          "name": "Jota Rosa",
+          "url": "https://open.spotify.com/artist/7gK06FGYa8dtJogKJXAG80"
         }
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 204136,
-      "name": "Como \u00d1engo (feat. Kris Floyd)",
+      "name": "Como \u00d1engo (feat. Jota Rosa)",
       "url": "https://open.spotify.com/track/4xvYZWvfmL7FnWJHZhV1VS"
     },
     {
@@ -939,7 +957,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 223000,
       "name": "hebilla",
       "url": "https://open.spotify.com/track/5JWnIfs6jmUAJzx1HKJlEr"
@@ -1163,7 +1181,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 187920,
       "name": "La Diferente",
       "url": "https://open.spotify.com/track/4Nivbcp45LZSLnPRjNrlBg"
@@ -1263,7 +1281,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-27",
+      "date_removed": null,
       "duration_ms": 164002,
       "name": "La Pr\u00e1ctica",
       "url": "https://open.spotify.com/track/0ZIfCr76uPGFOSZO2ex7Id"
@@ -1281,7 +1299,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 146303,
       "name": "Las Gatas",
       "url": "https://open.spotify.com/track/1QCSrngkMfPKJJN88VbXhH"
@@ -1307,6 +1325,24 @@
       "duration_ms": 222471,
       "name": "Las Horas",
       "url": "https://open.spotify.com/track/2RNepZ6acy8fTwlS4lRcQN"
+    },
+    {
+      "album": {
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/1Kq5G4147jgvVqkTRjsi4J"
+      },
+      "artists": [
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178626,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/2nFZ9SYYlYgOW1OVDQfQoG"
     },
     {
       "album": {
@@ -1428,6 +1464,24 @@
     },
     {
       "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/4CeCV5AL68aq1vpup0YR1n"
+      },
+      "artists": [
+        {
+          "name": "Philip Ariaz",
+          "url": "https://open.spotify.com/artist/0OJB7a56o2eMyB6hOmv6vC"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196302,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/2dkEB6o9wp0xy1xOwQyCFK"
+    },
+    {
+      "album": {
         "name": "LUV",
         "url": "https://open.spotify.com/album/2oylt4IfKpX6PgfPJOFBvc"
       },
@@ -1443,6 +1497,24 @@
       "duration_ms": 184866,
       "name": "Luv",
       "url": "https://open.spotify.com/track/7rGCVimA4BfhSXFWC5cblI"
+    },
+    {
+      "album": {
+        "name": "Mala Memoria",
+        "url": "https://open.spotify.com/album/5iWTg6nuWpFtk5BuLi9yXA"
+      },
+      "artists": [
+        {
+          "name": "West Blanco",
+          "url": "https://open.spotify.com/artist/5KX37yoUcrgKZGNc0NdwHL"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178240,
+      "name": "Mala Memoria",
+      "url": "https://open.spotify.com/track/1XgZiDNjSDSP6ySC3tp8wj"
     },
     {
       "album": {
@@ -1475,7 +1547,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 173936,
       "name": "Manzana",
       "url": "https://open.spotify.com/track/1BMoI40IIeE8hUtjSy8jQz"
@@ -2689,7 +2761,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 149326,
       "name": "Te Juro",
       "url": "https://open.spotify.com/track/0JElJmnJDGum8BGOE4yNsU"
@@ -2707,7 +2779,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 146768,
       "name": "Te Toco",
       "url": "https://open.spotify.com/track/5IrDx7oJmgwYRgNBzvpuwQ"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Every song with over 1 billion streams on Spotify. Cover: Harry Styles",
+  "description": "Every song with over 1 billion streams on Spotify. Cover: Doja Cat",
   "name": "BILLIONS CLUB",
   "published_playlist_ids": [
     "0C0sQRzxdwWHDf74RbiLwr"
@@ -1409,7 +1409,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 277680,
       "name": "Earned It (Fifty Shades Of Grey)",
       "url": "https://open.spotify.com/track/4frLb7nWtsz2ymBE6k2GRP"
@@ -1685,7 +1685,7 @@
       ],
       "date_added": "2021-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-29",
+      "date_removed": null,
       "duration_ms": 235545,
       "name": "Girls Like You (feat. Cardi B) - Cardi B Version",
       "url": "https://open.spotify.com/track/6V1bu6o1Yo5ZXnsCJU8Ovk"
@@ -2415,7 +2415,7 @@
       ],
       "date_added": "2021-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-16",
+      "date_removed": null,
       "duration_ms": 217925,
       "name": "In My Feelings",
       "url": "https://open.spotify.com/track/0h1W19pS59KtEd7aDzF58i"
@@ -2517,7 +2517,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-16",
+      "date_removed": null,
       "duration_ms": 244440,
       "name": "Into You",
       "url": "https://open.spotify.com/track/49gRYU6hBWgSH2JVixGkJq"
@@ -4154,6 +4154,24 @@
     },
     {
       "album": {
+        "name": "Hot Pink",
+        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237893,
+      "name": "Say So",
+      "url": "https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ"
+    },
+    {
+      "album": {
         "name": "Back from the Edge",
         "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
       },
@@ -5629,7 +5647,7 @@
       ],
       "date_added": "2022-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 199849,
       "name": "What Lovers Do (feat. SZA)",
       "url": "https://open.spotify.com/track/2j5hsQvApottzvTn4pFJWF"
@@ -5727,6 +5745,24 @@
       "duration_ms": 197993,
       "name": "Wolves",
       "url": "https://open.spotify.com/track/0tBbt8CrmxbjRP0pueQkyU"
+    },
+    {
+      "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172626,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
     },
     {
       "album": {

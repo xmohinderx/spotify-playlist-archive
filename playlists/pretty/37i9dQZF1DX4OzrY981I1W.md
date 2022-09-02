@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OzrY981I1W.md) - [plain]
 
 > every main character needs their soundtrack
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,707,350 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,709,974 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OzrY981I1W.md) - [plain]
 | 61 | [Piano Man](https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Piano Man \(Legacy Edition\)](https://open.spotify.com/album/69wjSAZXZiD2EBia3b3gxL) | 5:39 |
 | 62 | [Don't You \(Forget About Me\)](https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Once Upon A Time \(Super Deluxe\)](https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm) | 4:23 |
 | 63 | [Good Riddance \(Time of Your Life\)](https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:33 |
-| 64 | [Happy Together](https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0) | [The Turtles](https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7) | [Happy Together](https://open.spotify.com/album/2pMxs38Y5A0mmHrcu3twvB) | 2:56 |
-| 65 | [This Charming Man \- 2011 Remaster](https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Smiths](https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN) | 2:42 |
+| 64 | [This Charming Man \- 2011 Remaster](https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Smiths](https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN) | 2:42 |
+| 65 | [Happy Together](https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0) | [The Turtles](https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7) | [Happy Together](https://open.spotify.com/album/2pMxs38Y5A0mmHrcu3twvB) | 2:56 |
 | 66 | [Feeling Whitney](https://open.spotify.com/track/35r28RDot7nPE7y9K9H7l0) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 4:17 |
 | 67 | [Motion Sickness](https://open.spotify.com/track/5xo8RrjJ9CVNrtRg2S3B1R) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 3:49 |
 | 68 | [You And Me](https://open.spotify.com/track/0815caqt2Lytro5EIzMufT) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Lifehouse](https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz) | 3:15 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OzrY981I1W.md) - [plain]
 | 79 | [Bags](https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 4:20 |
 | 80 | [Someone To You](https://open.spotify.com/track/14BH4qO7pgCmIe6mgLKOK3) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Empires On Fire](https://open.spotify.com/album/6ErxPYc0KcJgLzQnpMGsth) | 3:39 |
 | 81 | [New Flesh](https://open.spotify.com/track/6HJxxqHWMdidwTVZmZWeHU) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Wild Heart](https://open.spotify.com/album/3vYaHUkO7laqYdwUQbnsIP) | 2:47 |
-| 82 | [Alright](https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [I Should Coco](https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd) | 3:00 |
-| 83 | [Enchanted](https://open.spotify.com/track/10eBRyImhfqVvkiVEGf0N0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now](https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy) | 5:52 |
+| 82 | [Enchanted](https://open.spotify.com/track/10eBRyImhfqVvkiVEGf0N0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now](https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy) | 5:52 |
+| 83 | [Alright](https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [I Should Coco](https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd) | 3:00 |
 | 84 | [She's so High](https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR) | [Tal Bachman](https://open.spotify.com/artist/3KEb1kbIZN5jumsjFEWgSW) | [Tal Bachman](https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD) | 3:44 |
 | 85 | [Feels Like Summer](https://open.spotify.com/track/7p4vHnYXkxlzvfePJVpcTr) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Summer Pack](https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45) | 4:57 |
 | 86 | [My Way](https://open.spotify.com/track/3spdoTYpuCpmq19tuD0bOe) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [My Way \(Expanded Edition\)](https://open.spotify.com/album/3IdNQBn7De23AVyv2V67wn) | 4:36 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OzrY981I1W.md) - [plain]
 | 96 | [striptease](https://open.spotify.com/track/47xgQmlCCR6XNAjNcVU0co) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [striptease](https://open.spotify.com/album/1BV3rjvNM2gzE7dDYojukl) | 2:40 |
 | 97 | [Beige](https://open.spotify.com/track/7uYQELhe7g6QLIzZDOlhbW) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/7soDnur2TfBoEJETTCws91) | 3:24 |
 | 98 | [Sleep On The Floor](https://open.spotify.com/track/5MMZJtHOiH1RmQSSe3DJdg) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN) | 3:31 |
-| 99 | [The Weight \- Remastered 2000](https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Remastered\)](https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE) | 4:34 |
+| 99 | [Two Weeks](https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk) | 4:03 |
 | 100 | [Do You Believe in Magic?](https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu) | [The Lovin' Spoonful](https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe) | [Do you Believe In Magic](https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030) | 2:05 |
 
-Snapshot ID: `MTY2MTc5MTU5MCwwMDAwMDAwMGUwMjJhYWE3OGE5NDljYWY2MzY4ODQ3YjJlZjhjYzFi`
+Snapshot ID: `MTY2MTc5MTU5MCwwMDAwMDAwMGFjYjRlNzE5YjRhM2IwYjEzZjhlODQ2YzdkMGZlZDgx`

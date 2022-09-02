@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover: SANTA",
+  "description": "The best French indie tracks right now. Cover: Emma Hoet",
   "name": "Made in France",
   "published_playlist_ids": [
     "4VHp6F7a0Cbt6kPL2n6clC"
@@ -403,6 +403,24 @@
       "duration_ms": 129840,
       "name": "Chui pu fort",
       "url": "https://open.spotify.com/track/1VkMX6F5GJH2ggI6JFUVjD"
+    },
+    {
+      "album": {
+        "name": "Cinecitt\u00e0",
+        "url": "https://open.spotify.com/album/2tYErUP9mEPl64sKkXzure"
+      },
+      "artists": [
+        {
+          "name": "Fils Cara",
+          "url": "https://open.spotify.com/artist/42SznvyZNQon11BUfdPadN"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217280,
+      "name": "Cinecitt\u00e0",
+      "url": "https://open.spotify.com/track/5FBkgVSvJJmdc8FQ7wttXv"
     },
     {
       "album": {
@@ -905,7 +923,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 245187,
       "name": "Fun And Games",
       "url": "https://open.spotify.com/track/5sotg0jgud6MzdGzmeFdeY"
@@ -1194,6 +1212,24 @@
     },
     {
       "album": {
+        "name": "J'aime les filles",
+        "url": "https://open.spotify.com/album/15KiBmF3enU5CukG3mO6gy"
+      },
+      "artists": [
+        {
+          "name": "Evergreen",
+          "url": "https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197717,
+      "name": "J'aime les filles",
+      "url": "https://open.spotify.com/track/3N6mpmEgjqRIMNDkucHMJz"
+    },
+    {
+      "album": {
         "name": "dani",
         "url": "https://open.spotify.com/album/2aHnnm5f9FmXmtwUEPae4f"
       },
@@ -1476,6 +1512,28 @@
     },
     {
       "album": {
+        "name": "Le coup d'soleil (feat. Emma Peters)",
+        "url": "https://open.spotify.com/album/0O9qHe6RGZ2mc6tRfZfI33"
+      },
+      "artists": [
+        {
+          "name": "Bon Entendeur",
+          "url": "https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD"
+        },
+        {
+          "name": "Emma Peters",
+          "url": "https://open.spotify.com/artist/7hefg1huOTuYBnrRghWjMs"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206600,
+      "name": "Le coup d'soleil (feat. Emma Peters)",
+      "url": "https://open.spotify.com/track/1J8BB10crN7uZc42kZiALR"
+    },
+    {
+      "album": {
         "name": "le moment pr\u00e9sent",
         "url": "https://open.spotify.com/album/5sjPwPZ68bK6CBrh1hIWT4"
       },
@@ -1585,6 +1643,24 @@
       "duration_ms": 180126,
       "name": "Levitate",
       "url": "https://open.spotify.com/track/0U2tNdDsPJk8FOsmwNdmMT"
+    },
+    {
+      "album": {
+        "name": "postcard from NYC",
+        "url": "https://open.spotify.com/album/0UjDR2kB0enEGBNDBGwQvR"
+      },
+      "artists": [
+        {
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138306,
+      "name": "lighthouse",
+      "url": "https://open.spotify.com/track/0v74b7nJnB4khRqiA8E3b9"
     },
     {
       "album": {
@@ -1993,7 +2069,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 173786,
       "name": "Oiseau de Paradis",
       "url": "https://open.spotify.com/track/2lPuLP88b7BUiJuh1jurXV"
@@ -2546,6 +2622,24 @@
     },
     {
       "album": {
+        "name": "sunny face",
+        "url": "https://open.spotify.com/album/0hEPMULhG0Jt96XKWIPnC4"
+      },
+      "artists": [
+        {
+          "name": "Pastel",
+          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "sunny face",
+      "url": "https://open.spotify.com/track/4gTNHEwcUaCmHRUQi5n6Cn"
+    },
+    {
+      "album": {
         "name": "Superlove",
         "url": "https://open.spotify.com/album/2Xed5UiAm9CUVasY1uo6RE"
       },
@@ -2759,7 +2853,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 254973,
       "name": "Tomber sur toi",
       "url": "https://open.spotify.com/track/5ROlPKakaGkRvOungamJK2"
@@ -3049,7 +3143,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 194986,
       "name": "\u00c9ternel",
       "url": "https://open.spotify.com/track/0CGMRBUggHCveV09rurvlL"
@@ -3089,7 +3183,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 184600,
       "name": "\u00c9trange (feat. Nikola)",
       "url": "https://open.spotify.com/track/0zXiOaEnJitNoaVqn7EpNx"

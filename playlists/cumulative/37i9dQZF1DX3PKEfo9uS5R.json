@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/23cnPYmXMtcwd6pD5Oglhq"
+      },
+      "artists": [
+        {
+          "name": "mirzo",
+          "url": "https://open.spotify.com/artist/7ruFe6EwetUwY0gZuTUAQr"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243798,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/1FsSDC4CIumtj3E2eXAEOv"
+    },
+    {
+      "album": {
         "name": "Compose Yourself",
         "url": "https://open.spotify.com/album/53t4xsId26JE5HRAkUSVxo"
       },
@@ -145,7 +163,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 164265,
       "name": "Ap\u00e9ritif",
       "url": "https://open.spotify.com/track/4SKLUEuuVz456xe7QZkEQo"
@@ -271,7 +289,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 179750,
       "name": "Biscuit",
       "url": "https://open.spotify.com/track/5cPmiWqjOg48GPxBdKjzGo"
@@ -1132,6 +1150,24 @@
     },
     {
       "album": {
+        "name": "Ibittsa",
+        "url": "https://open.spotify.com/album/6GVsl5RdQPKlGEvUYbETI9"
+      },
+      "artists": [
+        {
+          "name": "Lil Harry",
+          "url": "https://open.spotify.com/artist/5T1ysNHc5KEa6gjPBahyBc"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237490,
+      "name": "Ibittsa",
+      "url": "https://open.spotify.com/track/6icxpvjxlKDbj62NO4Uq3F"
+    },
+    {
+      "album": {
         "name": "in deep",
         "url": "https://open.spotify.com/album/7zqrnHXPFDs3fpqpYRmbih"
       },
@@ -1709,6 +1745,28 @@
       "duration_ms": 186929,
       "name": "Pull Me Closer",
       "url": "https://open.spotify.com/track/7wuX42wC2VlCMtazUOJkX8"
+    },
+    {
+      "album": {
+        "name": "Pura Vida",
+        "url": "https://open.spotify.com/album/2e6h8LOHJXlvZhYh5g0umK"
+      },
+      "artists": [
+        {
+          "name": "TRE",
+          "url": "https://open.spotify.com/artist/6v7EqgcUdy2NR48iflzHgK"
+        },
+        {
+          "name": "Julia Thomsen",
+          "url": "https://open.spotify.com/artist/5r0183a5eBJthIj3EYtHnE"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190956,
+      "name": "Pura Vida",
+      "url": "https://open.spotify.com/track/4lMqdKJtrBGRLkif2MMjXe"
     },
     {
       "album": {

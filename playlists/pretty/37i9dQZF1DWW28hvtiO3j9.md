@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 
 > Explore the dazzling sound of Japanese City Pop from the ‘80s./ 都会の夜をクルージング、週末は海辺でリゾート気分。煌めきに満ちた毎日を彩った、黄金期のシティポップ 。
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,109 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,238 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 | 16 | [midnight cruisin'](https://open.spotify.com/track/37NPLfEZQQ0rZTa9SRqWBL) | [Kingo Hamada](https://open.spotify.com/artist/2FdiOm1d5IVBdLlobhzlTF) | [midnight cruisin'](https://open.spotify.com/album/30lgWjklkY1TOx7EdiGYlq) | 4:43 |
 | 17 | [Wash](https://open.spotify.com/track/0M9q4H3pQaoNUgBXZj34U1) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [Miki Matsubara Best Collection](https://open.spotify.com/album/1ANaxJNBcbOvvycNL4MCL5) | 4:31 |
 | 18 | [WINDY SUMMER](https://open.spotify.com/track/7fgmo2cHGzWLexkRhBeECj) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Timely!!](https://open.spotify.com/album/3OvZYx7AAGplmJjwD29JiV) | 4:06 |
-| 19 | [君は天然色](https://open.spotify.com/track/0LyR8MZT3A2tp58dgHeNhB) | [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0) | [A LONG VACATION](https://open.spotify.com/album/3eUV7xEoXqQb43ek7Db04H) | 5:06 |
+| 19 | [Just a Joke](https://open.spotify.com/track/1dLeSutde2Nt4DIWaLKxXO) | [Yurie Kokubu](https://open.spotify.com/artist/1TnNKsMdzxwBiHkde10tPX) | [Relief 72 hours](https://open.spotify.com/album/6Flte85iZhB31faD8mWRl5) | 3:09 |
 | 20 | [アクアマリンのままでいて](https://open.spotify.com/track/4Cc4bzVnS1K1yJ0mJ515hJ) | [1986 Omega Tribe](https://open.spotify.com/artist/0ECegKslGWO6zz3XzTyIwQ) | [35th Anniversary Album "To Your Summertime Smile"](https://open.spotify.com/album/2SGd8Kap3ABIRoQhO3HWv8) | 4:33 |
-| 21 | [Just a Joke](https://open.spotify.com/track/1dLeSutde2Nt4DIWaLKxXO) | [Yurie Kokubu](https://open.spotify.com/artist/1TnNKsMdzxwBiHkde10tPX) | [Relief 72 hours](https://open.spotify.com/album/6Flte85iZhB31faD8mWRl5) | 3:09 |
+| 21 | [君は天然色](https://open.spotify.com/track/0LyR8MZT3A2tp58dgHeNhB) | [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0) | [A LONG VACATION](https://open.spotify.com/album/3eUV7xEoXqQb43ek7Db04H) | 5:06 |
 | 22 | [I'm in Love](https://open.spotify.com/track/5RSpR665UGsu1FFEq1pG8R) | [Tomoko Aran](https://open.spotify.com/artist/2flF63KTodI9rSqbP5gCnp) | [浮遊空間](https://open.spotify.com/album/7fa6VpNPvW2DVbtohJ0x44) | 5:53 |
 | 23 | [Good Bye Boogie Dance](https://open.spotify.com/track/5LZja1KAke25BqjsidAcsq) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Bi・Ki・Ni](https://open.spotify.com/album/2ygK2uxtgO5sTZFs3ye1GT) | 4:32 |
 | 24 | [Dear Breeze](https://open.spotify.com/track/0DCzMvkONMvWDiOtVzyRUX) | [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx), [Kiyotaka Sugiyama](https://open.spotify.com/artist/5Zc8dRhik5WK1nxjzcqwfC) | [Another Summer](https://open.spotify.com/album/1ZluSoV6IVEiQxEfrnIYBB) | 4:01 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 | 45 | [サザンクロス](https://open.spotify.com/track/1kRBdvP2yok6k2mL0xxLWq) | [Junichi Inagaki](https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy) | [EDGE OF TIME](https://open.spotify.com/album/1AQ8E6n2dX0GBE53bGL7hj) | 5:37 |
 | 46 | [色彩都市](https://open.spotify.com/track/1NPwuNYRugoQz8y5HTnIBL) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [cliche \(Mastered by Bernie Grundman\)](https://open.spotify.com/album/4al3d0A9Ial2N26xVMa2EM) | 3:34 |
 | 47 | [Night Time](https://open.spotify.com/track/216Fc22fWQxAxlTxjtO8P2) | [DEW](https://open.spotify.com/artist/6s0EJ878jNWwfOMva62XgK) | [TOKYO 1980s Victor Edition \(The Compilation\) Boogie, Funk & Modern Soul from Japan](https://open.spotify.com/album/0v1MoZARbqi7wOeECMI8Up) | 4:14 |
-| 48 | [Bewitched \(Are You Leaving Soon\)](https://open.spotify.com/track/2GWrllGqXji3zboRZZItyy) | [Naomi Akimoto](https://open.spotify.com/artist/4tVWj4YQ5kteJu56XOphEl) | [The 20th Anniversary](https://open.spotify.com/album/1WfGuS4y9cMowFLTCMplPd) | 4:44 |
-| 49 | [GATSBY WOMAN](https://open.spotify.com/track/4O02HMxIxGLptYi4ngd0es) | [Kingo Hamada](https://open.spotify.com/artist/2FdiOm1d5IVBdLlobhzlTF) | [BEST COLLECTION 〜MOON YEARS〜](https://open.spotify.com/album/4KiV0b6zN4dDIXYBsvYVcw) | 4:26 |
+| 48 | [GATSBY WOMAN](https://open.spotify.com/track/4O02HMxIxGLptYi4ngd0es) | [Kingo Hamada](https://open.spotify.com/artist/2FdiOm1d5IVBdLlobhzlTF) | [BEST COLLECTION 〜MOON YEARS〜](https://open.spotify.com/album/4KiV0b6zN4dDIXYBsvYVcw) | 4:26 |
+| 49 | [Bewitched \(Are You Leaving Soon\)](https://open.spotify.com/track/2GWrllGqXji3zboRZZItyy) | [Naomi Akimoto](https://open.spotify.com/artist/4tVWj4YQ5kteJu56XOphEl) | [The 20th Anniversary](https://open.spotify.com/album/1WfGuS4y9cMowFLTCMplPd) | 4:44 |
 | 50 | [ようこそ輝く時間へ](https://open.spotify.com/track/359IiO08eIz2kcwoS74EkD) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [PEARL PIERCE](https://open.spotify.com/album/2KftKQGKx6r6zREGJq1cLa) | 4:39 |
 
-Snapshot ID: `MTY1NjQyODQwMCwwMDAwMDAwMDk4NDkyNzYxYTdlNjM0Nzc4ZmNiOTc5ZmUyYzg3NDUz`
+Snapshot ID: `MTY1NjQyODQwMCwwMDAwMDAwMDhkYmEzMzY0ODE0NTViN2NiMGM3Y2M1YzljNDg2ODk5`

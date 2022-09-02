@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 
 > Sensual silky sounds for the sheets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,009 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,131 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 13 | [Your Guilty Pleasure](https://open.spotify.com/track/0Sn0hAaE5yQxyduDZuqWoY) | [Henry Verus](https://open.spotify.com/artist/6H79VfD8FjtzQHYdVwZ3I4) | [Vanity](https://open.spotify.com/album/3Wicqw4vojPJ7Um7DaK9Qi) | 2:54 |
 | 14 | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/track/5qrPtPZ0o6pXIwdJrzASTs) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/album/26eVDoCWYUMJ42dEAlsgDe) | 3:47 |
 | 15 | [Light Me Up](https://open.spotify.com/track/0QQMJ3W0zNoHeak1NWnPDm) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Light Me Up](https://open.spotify.com/album/7dZicvXTzIqBHXYpeeeCn2) | 3:49 |
-| 16 | [Pretty](https://open.spotify.com/track/6e4f88p8OxpqtbYywLAIbz) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Pretty](https://open.spotify.com/album/43kkkDmRKDwqBbP7IUyrSN) | 2:46 |
-| 17 | [Golden pt\. 2 \(feat\. Mereba\)](https://open.spotify.com/track/6FwuRS7LLtemBSw18PK2fz) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Golden pt\. 2 \(feat\. Mereba\)](https://open.spotify.com/album/4sivA5FISjDDuqcFZuvPsy) | 2:17 |
+| 16 | [Golden pt\. 2 \(feat\. Mereba\)](https://open.spotify.com/track/6FwuRS7LLtemBSw18PK2fz) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Golden pt\. 2 \(feat\. Mereba\)](https://open.spotify.com/album/4sivA5FISjDDuqcFZuvPsy) | 2:17 |
+| 17 | [Pretty](https://open.spotify.com/track/6e4f88p8OxpqtbYywLAIbz) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Pretty](https://open.spotify.com/album/43kkkDmRKDwqBbP7IUyrSN) | 2:46 |
 | 18 | [Whateva U Need](https://open.spotify.com/track/0gvHiQLsM6Uj7M39Hpfcec) | [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh) | [Body \(EP\)](https://open.spotify.com/album/0EeLytWRO33IvucFEilT2p) | 3:57 |
 | 19 | [Touch Me](https://open.spotify.com/track/4U9gm9Icd8rzJoVb8siDED) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR](https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR) | 3:11 |
 | 20 | [Stars In The Sky \(feat\. Jhené Aiko\)](https://open.spotify.com/track/4gKCKkQbtejYebL9Km5cu1) | [Phora](https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Stars In The Sky \(feat\. Jhené Aiko\)](https://open.spotify.com/album/1RdBxItI4IlFJkHuoaT16y) | 4:13 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 40 | [Lucky](https://open.spotify.com/track/6SHuwpzmG1QRujJggCOiOP) | [Njomza](https://open.spotify.com/artist/3zOUpziwcfY2bCh4VyJ4Am) | [Lucky](https://open.spotify.com/album/1mTpH3zLPA4hiN8KUsHe0k) | 3:22 |
 | 41 | [Lucky Me](https://open.spotify.com/track/0Ztok1tyr8YbgTi6iUJM9X) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Lucky Me](https://open.spotify.com/album/34Kos9rX5MrGc0MXDnOZ2K) | 3:42 |
 | 42 | [Know My Place](https://open.spotify.com/track/0V4htNEkO8aPlPSZZ5XHdx) | [Nápoles](https://open.spotify.com/artist/3Dobjv7S9rOSiQMb1Jjnk1) | [Know My Place](https://open.spotify.com/album/4ElozCyJA6lnyll0H4FdTR) | 2:43 |
-| 43 | [TOO SWEET \(feat\. Unknown Mortal Orchestra\)](https://open.spotify.com/track/60lNUvQVzMnORIJvDEZG8Z) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL), [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [BEFORE WE GO](https://open.spotify.com/album/1MnOpmiIDEfloQektuOGkr) | 3:46 |
-| 44 | [Caught Up](https://open.spotify.com/track/2Bm2pjLh2wlYwZ4nrcY6wU) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Caught Up](https://open.spotify.com/album/2h8lT0Ffh2eHz87LXY40v2) | 2:12 |
+| 43 | [Caught Up](https://open.spotify.com/track/2Bm2pjLh2wlYwZ4nrcY6wU) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Caught Up](https://open.spotify.com/album/2h8lT0Ffh2eHz87LXY40v2) | 2:12 |
+| 44 | [TOO SWEET \(feat\. Unknown Mortal Orchestra\)](https://open.spotify.com/track/60lNUvQVzMnORIJvDEZG8Z) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL), [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [BEFORE WE GO](https://open.spotify.com/album/1MnOpmiIDEfloQektuOGkr) | 3:46 |
 | 45 | [City Girl](https://open.spotify.com/track/7HaAuZBOJTp0bpZPnccBUm) | [Ari PenSmith](https://open.spotify.com/artist/4e8ULyN5otwmBHxanRiBnP), [Jonah Christian](https://open.spotify.com/artist/6pDfhbJGBQJ22SvibycTYb) | [City Girl](https://open.spotify.com/album/6Yb2iAl9GFYc0QjurOGgsn) | 2:39 |
 | 46 | [Heaven](https://open.spotify.com/track/1OOZ7HK33XptwtvGuKmb5s) | [Amaal](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz) | [Milly](https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd) | 3:03 |
 | 47 | [Black Woman](https://open.spotify.com/track/3SMd9iGyHF47xNZw3SXFPE) | [Emanuel](https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7) | [Black Woman](https://open.spotify.com/album/3QPkK3geVdiICJtxxAnCZ2) | 3:58 |
 | 48 | [Time & Space](https://open.spotify.com/track/6MOovkZjVPHVFIjBHDQFyb) | [Yo Trane](https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH) | [Time & Space](https://open.spotify.com/album/1AtZbc5gR0HBEYinJONZA0) | 3:19 |
 | 49 | [Warm December](https://open.spotify.com/track/1xLBOnBn16AXmvDZ2WOTOw) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Warm December](https://open.spotify.com/album/1IudCFPdNr3NcTkfXLLcVx) | 3:15 |
-| 50 | [Orange Freestyle](https://open.spotify.com/track/298n0lKgacjlJwANMrU1Gp) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Orange Freestyle](https://open.spotify.com/album/590arXwGLJiuOqyF1CIuBc) | 1:56 |
+| 50 | [Invisible](https://open.spotify.com/track/1Ub3KfqVC03ePKa1Zr0BEr) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Invisible](https://open.spotify.com/album/7GX5Uk4qudzPAyKjsE20OG) | 3:48 |
 
-Snapshot ID: `MTY2MDc1NTI2MSwwMDAwMDAwMDBjZmQzOTEzMDQ3NDM1MTAwNWVlZjhiY2U1ZDcwOWYw`
+Snapshot ID: `MTY2MDc1NTI2MSwwMDAwMDAwMGYwZmNhMjVkZTg5ZjFjZTJhMGIwOTBhMzZmMjAxM2U3`

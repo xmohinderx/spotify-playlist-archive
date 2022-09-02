@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > Keep up with all the latest pop hits\. Cover: Rema, Selena Gomez
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,190 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,243 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 29 | [Coast \(feat\. Anderson .Paak\)](https://open.spotify.com/track/1l4iQsOZ5sOXZPMQLvouaB) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Coast](https://open.spotify.com/album/0152qvGv0mmX2vU36Rocng) | 2:46 |
 | 30 | [ALIEN SUPERSTAR](https://open.spotify.com/track/1Hohk6AufHZOrrhMXZppax) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:35 |
 | 31 | [Don't Let The Light Go Out](https://open.spotify.com/track/2lCyQnftM6ptqC3vk7qeao) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Don’t Let The Light Go Out](https://open.spotify.com/album/12sVYYyzqFcgA6o3yqCx5i) | 3:49 |
-| 32 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi) | 2:21 |
+| 32 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/0GxWXE6ltKk4Gx3WyWLLrW) | 2:21 |
 | 33 | [My G \(feat\. Ed Sheeran\)](https://open.spotify.com/track/6Iqz3QB6zSdn1N61acinau) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Close To Home](https://open.spotify.com/album/4ZBwKt9Zp3MF9iqqa9Z01R) | 3:18 |
 | 34 | [Happier](https://open.spotify.com/track/50YBK8OKWYxD4eBNRwT7Qz) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Happier](https://open.spotify.com/album/0jpoehkF7UvSWtLwDuGd5X) | 3:00 |
 | 35 | [Victoria’s Secret](https://open.spotify.com/track/4svaKoxMMP7ImmKrD5hfQu) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Victoria’s Secret](https://open.spotify.com/album/47eeG5ewIbO53gXZOkvHhg) | 2:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 99 | [Headphones](https://open.spotify.com/track/1R7WcoUBGKJY15HGQxb62G) | [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Headphones](https://open.spotify.com/album/1wby36csRn1oBpSZWjz56F) | 2:28 |
 | 100 | [When You're Gone](https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [When You're Gone](https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp) | 2:52 |
 
-Snapshot ID: `MTY2MTczODA4NywwMDAwMDAwMGUwYTQwOWUwNzAxODdmNWNlZDMzZDM3MjdlZWQ0MDg3`
+Snapshot ID: `MTY2MTczODA4NywwMDAwMDAwMGU4ZjA1ZGUxNTUzM2NkMjc3YmIzMDliNjI2MjU0ZmE2`

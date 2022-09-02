@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 
 > Smooth soul\-inspired tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,977 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,996 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 | 18 | [Last Last](https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last](https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe) | 2:52 |
 | 19 | [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 |
 | 20 | [ALL MINE](https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:36 |
-| 21 | [Hrs & Hrs](https://open.spotify.com/track/3M5azWqeZbfoVkGXygatlb) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/2ngrG39dI2ofhCxjmFnKv5) | 3:24 |
-| 22 | [No Love \(with SZA\)](https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:51 |
-| 23 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 |
+| 21 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 |
+| 22 | [Hrs & Hrs](https://open.spotify.com/track/3M5azWqeZbfoVkGXygatlb) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/2ngrG39dI2ofhCxjmFnKv5) | 3:24 |
+| 23 | [No Love \(with SZA\)](https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:51 |
 | 24 | [No Woman No Cry](https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Marvel](https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa) | [Black Panther: Wakanda Forever Prologue](https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM) | 3:33 |
 | 25 | [Sunshine](https://open.spotify.com/track/54NBD72JXFXzrodbQBSzWh) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Sunshine](https://open.spotify.com/album/3dkw0XggNMPs4koj5PtL6r) | 3:08 |
 | 26 | [Monalisa](https://open.spotify.com/track/3baPniPXS0iEII8rDUJdYP) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Monalisa](https://open.spotify.com/album/6eGxth6Bbmudt9k7ybo5Ll) | 3:32 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 | 75 | [ASE \- A COLORS SHOW](https://open.spotify.com/track/5fM2O9Lz5T8yN9YiJJs2qp) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [ASE \- A COLORS SHOW](https://open.spotify.com/album/2fr1fy0P8A1Cjt1NjaPN3E) | 2:44 |
 | 76 | [In My Mind \- A COLORS SHOW](https://open.spotify.com/track/1echqVmMoUZE22trTEqfL5) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [In My Mind \- A COLORS SHOW](https://open.spotify.com/album/4O5mKHI9LNEB3WetqF8zOd) | 2:16 |
 | 77 | [Wickedest \(feat\. Haile\)](https://open.spotify.com/track/4BDCfO09NqfpGM9cbFi9Ef) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM) | [Wickedest \(feat\. Haile\)](https://open.spotify.com/album/6aVTmJn2zZCjRnTX50aV65) | 3:15 |
-| 78 | [Wine](https://open.spotify.com/track/2qpCxK7imR1qbH4fbdgWLg) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:50 |
-| 79 | [Knee Down](https://open.spotify.com/track/3ovSaVUTDOtxfDw5xh9qJ4) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [B A H D](https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8) | 2:27 |
+| 78 | [Knee Down](https://open.spotify.com/track/3ovSaVUTDOtxfDw5xh9qJ4) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [B A H D](https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8) | 2:27 |
+| 79 | [Wine](https://open.spotify.com/track/2qpCxK7imR1qbH4fbdgWLg) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:50 |
 | 80 | [I Got You](https://open.spotify.com/track/7vF63z20Gyd0oZU8jYqGgX) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Sounds of My World \(Deluxe\)](https://open.spotify.com/album/3enpMKYHm54sPooLM6heYY) | 2:32 |
 
-Snapshot ID: `MTY2MTUwNzQ5OSwwMDAwMDAwMDJjMjhlOTE0ZDU1MTkxOWZhZDk5ZmZkNGMwM2Q3NzY4`
+Snapshot ID: `MTY2MTUwNzQ5OSwwMDAwMDAwMGZiNmFjMzFmZmZkZTBjYTI4M2MyMWNjMzY0MzQxYTBk`

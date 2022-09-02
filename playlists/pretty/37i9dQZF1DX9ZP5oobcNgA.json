@@ -1,12 +1,12 @@
 {
   "description": "Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.",
-  "num_followers": 95363,
+  "num_followers": 95334,
   "original_name": "This Is Handel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI5ODYyNywwMDAwMDAwMDYyMjlhMGZmMmQ2NmM3ZGYwM2FmNDNkNWNmMDEzYTQz",
+  "snapshot_id": "MTY1NzI5ODYyNywwMDAwMDAwMDBhZGUzNzU4ZjMzNjNjN2E3NjY1OGU5ZTA5ZmY3MzFk",
   "tracks": [
     {
       "added_at": "2022-06-28 08:56:25",
@@ -395,6 +395,30 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
+        "name": "Handel: Messiah",
+        "url": "https://open.spotify.com/album/7kZLrZGiSDrErwiNh0rCDb"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Apollo's Fire",
+          "url": "https://open.spotify.com/artist/4yCuIgkycBRN7pSeP4OSbi"
+        },
+        {
+          "name": "Jeannette Sorrell",
+          "url": "https://open.spotify.com/artist/0bkA8dvOFQ9VzxKS9Pwkfm"
+        }
+      ],
+      "duration_ms": 232680,
+      "name": "Messiah, HWV 56, Pt. 1: For unto us a child is born - Part I",
+      "url": "https://open.spotify.com/track/3462hQTzF5oHhoJfJJ5ULK"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
         "name": "Baroque Duet",
         "url": "https://open.spotify.com/album/1Qhu4B7qy5Ut1E8iUSt2Qx"
       },
@@ -423,54 +447,6 @@
       "duration_ms": 332026,
       "name": "Let the Bright Seraphim from Samson, HWV 57 - Voice",
       "url": "https://open.spotify.com/track/1GpGul0ESFCDuaaL0ccSFt"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
-        "name": "Handel: Messiah",
-        "url": "https://open.spotify.com/album/7kZLrZGiSDrErwiNh0rCDb"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Apollo's Fire",
-          "url": "https://open.spotify.com/artist/4yCuIgkycBRN7pSeP4OSbi"
-        },
-        {
-          "name": "Jeannette Sorrell",
-          "url": "https://open.spotify.com/artist/0bkA8dvOFQ9VzxKS9Pwkfm"
-        }
-      ],
-      "duration_ms": 232680,
-      "name": "Messiah, HWV 56, Pt. 1: For unto us a child is born - Part I",
-      "url": "https://open.spotify.com/track/3462hQTzF5oHhoJfJJ5ULK"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
-        "name": "Handel : Water Music, Concerti grossi, Israel in Egypt, The Ways of Zion Do Mourn & Semele",
-        "url": "https://open.spotify.com/album/2RqoZwQoUZjV9CkekCMPI5"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "John Eliot Gardiner",
-          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
-        },
-        {
-          "name": "English Baroque Soloists",
-          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
-        }
-      ],
-      "duration_ms": 131479,
-      "name": "Handel: Concerto Grosso in F Major, Op. 3 No. 4a, HWV 315: II. Andante",
-      "url": "https://open.spotify.com/track/1SSaWY93eyPcEOtDyMaMab"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -571,6 +547,30 @@
       "duration_ms": 133106,
       "name": "Handel: Music for the Royal Fireworks, HWV 351: I. Overture (Adagio)",
       "url": "https://open.spotify.com/track/3rUZoFYbTiFJc4gxQDz3Hg"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Handel : Water Music, Concerti grossi, Israel in Egypt, The Ways of Zion Do Mourn & Semele",
+        "url": "https://open.spotify.com/album/2RqoZwQoUZjV9CkekCMPI5"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "John Eliot Gardiner",
+          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
+        },
+        {
+          "name": "English Baroque Soloists",
+          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
+        }
+      ],
+      "duration_ms": 131479,
+      "name": "Handel: Concerto Grosso in F Major, Op. 3 No. 4a, HWV 315: II. Andante",
+      "url": "https://open.spotify.com/track/1SSaWY93eyPcEOtDyMaMab"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1135,34 +1135,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Handel : The Best of Handel",
-        "url": "https://open.spotify.com/album/1lI9PZenCOZripnDuxdpvc"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Jozef Cejka",
-          "url": "https://open.spotify.com/artist/2RckiLCxwEVZNipnXzCbG3"
-        },
-        {
-          "name": "Capella Istropolitana",
-          "url": "https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt"
-        },
-        {
-          "name": "Richard Edlinger",
-          "url": "https://open.spotify.com/artist/09Ruas7vF7YHnor4to4Eyo"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Oboe Concerto No. 3 in G Minor Largo",
-      "url": "https://open.spotify.com/track/1abJ3dYI9uHjmXLW771deF"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Best of Handel",
         "url": "https://open.spotify.com/album/2kvMgK5fsB3TGdvYROToy2"
       },
@@ -1187,6 +1159,34 @@
       "duration_ms": 233760,
       "name": "Handel: Eternal Source Of Light Divine (Ode For The Birthday Of Queen Anne), HWV 74",
       "url": "https://open.spotify.com/track/301GhrxRRyQ0h8NP6NQQxc"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Handel : The Best of Handel",
+        "url": "https://open.spotify.com/album/1lI9PZenCOZripnDuxdpvc"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Jozef Cejka",
+          "url": "https://open.spotify.com/artist/2RckiLCxwEVZNipnXzCbG3"
+        },
+        {
+          "name": "Capella Istropolitana",
+          "url": "https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt"
+        },
+        {
+          "name": "Richard Edlinger",
+          "url": "https://open.spotify.com/artist/09Ruas7vF7YHnor4to4Eyo"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Oboe Concerto No. 3 in G Minor Largo",
+      "url": "https://open.spotify.com/track/1abJ3dYI9uHjmXLW771deF"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1747,26 +1747,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Handel: Keyboard Suites, Vol. 1",
-        "url": "https://open.spotify.com/album/5rZNiDIYiqLWoCKrwQ0y23"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Philip Edward Fisher",
-          "url": "https://open.spotify.com/artist/3iEF3lnsArDpnKXvg6Zys7"
-        }
-      ],
-      "duration_ms": 247760,
-      "name": "Keyboard Suite No. 3 (Set I) in D Minor, HWV 428: VI. Presto",
-      "url": "https://open.spotify.com/track/795t4y1VfUwlUPbGpyMhwH"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "H\u00e4ndel: Water Works",
         "url": "https://open.spotify.com/album/0hLOMULylE3BjdwQwX97Br"
       },
@@ -1783,6 +1763,26 @@
       "duration_ms": 64773,
       "name": "Water Music: Suite No. 2 in D, HWV 349: XIII. Minuet",
       "url": "https://open.spotify.com/track/7CM56fEgOdGeq9w7e6bSsd"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Handel: Keyboard Suites, Vol. 1",
+        "url": "https://open.spotify.com/album/5rZNiDIYiqLWoCKrwQ0y23"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Philip Edward Fisher",
+          "url": "https://open.spotify.com/artist/3iEF3lnsArDpnKXvg6Zys7"
+        }
+      ],
+      "duration_ms": 247760,
+      "name": "Keyboard Suite No. 3 (Set I) in D Minor, HWV 428: VI. Presto",
+      "url": "https://open.spotify.com/track/795t4y1VfUwlUPbGpyMhwH"
     },
     {
       "added_at": "2022-06-28 08:56:25",

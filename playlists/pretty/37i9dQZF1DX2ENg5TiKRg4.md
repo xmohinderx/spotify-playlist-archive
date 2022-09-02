@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ENg5TiKRg4.md) - [plain]
 
 > Happy Pop\-Rock Tunes to start your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,611 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,656 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,16 +19,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ENg5TiKRg4.md) - [plain]
 | 9 | [Sunshine](https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Sunshine](https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6) | 2:43 |
 | 10 | [Imma Stunt](https://open.spotify.com/track/3vZmC8oq2B3mp9kVfIcXr1) | [Stunt Pilots](https://open.spotify.com/artist/5Q2syrsNfctel905QjIMXr) | [Imma Stunt](https://open.spotify.com/album/2JRIfmjUa8aU6MLLlahL52) | 2:11 |
 | 11 | [Hey, Soul Sister](https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Save Me, San Francisco \(Golden Gate Edition\)](https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR) | 3:36 |
-| 12 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 |
-| 13 | [10 Things I Hate About You](https://open.spotify.com/track/6Jkm5kUldvIqxzI1Pa7nXH) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [10 Things I Hate About You](https://open.spotify.com/album/26hYEKjKZU1sTC4mUPpVI6) | 2:37 |
+| 12 | [10 Things I Hate About You](https://open.spotify.com/track/6Jkm5kUldvIqxzI1Pa7nXH) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [10 Things I Hate About You](https://open.spotify.com/album/26hYEKjKZU1sTC4mUPpVI6) | 2:37 |
+| 13 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 |
 | 14 | [Sharks](https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Sharks](https://open.spotify.com/album/587Ykd8NOCdzRmaW4nlT4e) | 3:10 |
 | 15 | [Classic](https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg) | [MKTO](https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v) | [MKTO](https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE) | 2:55 |
 | 16 | [All I Want](https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 5:05 |
 | 17 | [What's Up?](https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm) | [4 Non Blondes](https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7) | [Bigger, Better, Faster, More !](https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA) | 4:55 |
 | 18 | [I'm Yours](https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) | 4:02 |
-| 19 | [A Thousand Years](https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [A Thousand Years](https://open.spotify.com/album/15yvc643iYfQtb6zh9NEJo) | 4:45 |
+| 19 | [The Reason](https://open.spotify.com/track/77loZpT5Y5PRP1S451P9Yz) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(15th Anniversary Deluxe\)](https://open.spotify.com/album/2zE1YKY7Okj10Tjl09jjth) | 3:52 |
 | 20 | [dead2me.](https://open.spotify.com/track/0NsnAcdO7vVrQgPH6SoiF3) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [dead2me.](https://open.spotify.com/album/6UaYSCrPhRj92JDySXKFc7) | 3:30 |
-| 21 | [The Reason](https://open.spotify.com/track/77loZpT5Y5PRP1S451P9Yz) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(15th Anniversary Deluxe\)](https://open.spotify.com/album/2zE1YKY7Okj10Tjl09jjth) | 3:52 |
+| 21 | [A Thousand Years](https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [A Thousand Years](https://open.spotify.com/album/15yvc643iYfQtb6zh9NEJo) | 4:45 |
 | 22 | [Best Day Of My Life](https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Oh, What A Life](https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv) | 3:14 |
 | 23 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 |
 | 24 | [Hey There Delilah](https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [All That We Needed](https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY) | 3:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ENg5TiKRg4.md) - [plain]
 | 49 | [Ophelia](https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN) | 2:40 |
 | 50 | [Run](https://open.spotify.com/track/6KL88T4Ma4ABXqzgUoEwkd) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 2:48 |
 
-Snapshot ID: `MTY2MTg3MTYwMCwwMDAwMDAwMDU4MWJkODI0YWY1NWQxMDk5MTk5YjMyMjFlM2I0Yzkx`
+Snapshot ID: `MTY2MTg3MTYwMCwwMDAwMDAwMGQ2OTNkZmIyZTNmMTM5YTQ1MTYwMmJhMjBlOTgxZTFl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 
 > ¡Esto sí es Bachata! Portada: Romeo Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,849 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,955 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,18 +78,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 | 68 | [Mujer de las Mil Batallas](https://open.spotify.com/track/4CKNP0H3WEWQBSNGeOvjFU) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Devuélveme Mi Libertad](https://open.spotify.com/album/2fde5WKTf4YilScZxEdd07) | 3:24 |
 | 69 | [Me Duele La Cabeza](https://open.spotify.com/track/3rIgo725niu2yb3WNx62Jt) | [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [Oblígame](https://open.spotify.com/album/0YGZrIcgnUlZ1v4TxnuFxm) | 3:53 |
 | 70 | [Corazón Con Candado](https://open.spotify.com/track/6BrJFyOcW5El8YLp3DtTJ7) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Hablamos En La Cama](https://open.spotify.com/album/2U6skaTPCGdtHbpAfb8Bap) | 4:22 |
-| 71 | [Weekend](https://open.spotify.com/track/2xSQ05tzoYMBIuJQUWUe56) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF), [Lirow](https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs), [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Weekend](https://open.spotify.com/album/5CpHJgQXcBXROlsDnlRY4b) | 3:48 |
+| 71 | [La Luz De Mis Ojos](https://open.spotify.com/track/31lScgOqA8PkbSHDTyLsfJ) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [La Luz De Mis Ojos](https://open.spotify.com/album/5v6JO2CVfD3jReTRSkmYO7) | 3:49 |
 | 72 | [Creiste](https://open.spotify.com/track/53orRX6MudB9jhW0sKZWhW) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Creiste](https://open.spotify.com/album/7mKk2Bs3RmVufvShVI8EcU) | 4:17 |
-| 73 | [La Luz De Mis Ojos](https://open.spotify.com/track/31lScgOqA8PkbSHDTyLsfJ) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [La Luz De Mis Ojos](https://open.spotify.com/album/5v6JO2CVfD3jReTRSkmYO7) | 3:49 |
+| 73 | [Weekend](https://open.spotify.com/track/2xSQ05tzoYMBIuJQUWUe56) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF), [Lirow](https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs), [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Weekend](https://open.spotify.com/album/5CpHJgQXcBXROlsDnlRY4b) | 3:48 |
 | 74 | [Borracho Y Loco](https://open.spotify.com/track/4KtYHts2AdkhcV9x2MGbWt) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [La Raiz](https://open.spotify.com/album/6X78J9UxEWDy8vhEfAq7aL) | 3:20 |
 | 75 | [Vine A Decirte Adios](https://open.spotify.com/track/40dliSTZf3ABIqfvenH9TI) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Vine a Decirte Adios](https://open.spotify.com/album/5QShP54MICYu2VqkwfEnGm) | 4:37 |
 | 76 | [Me Sacaste Del Llavero](https://open.spotify.com/track/3R6BkHp37wmjYlpzaU1ODd) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Mil historias](https://open.spotify.com/album/00Gbe3lGwcNlWn9JvlvBhD) | 4:10 |
 | 77 | [Abrazame amor](https://open.spotify.com/track/2moTUdEmaqUAiwA2aM8I0R) | [Luis Miguel Del Amargue](https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ) | [Mi Regreso](https://open.spotify.com/album/5c7bGd5Mbwhpp8JNiTSdKz) | 3:56 |
 | 78 | [Carta De Verano](https://open.spotify.com/track/0XmmFaLwnQt1mDL5VP8c4q) | [Joe Veras](https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K) | [Carta De Verano](https://open.spotify.com/album/0ycfoja65NlV6hdnikma8k) | 4:02 |
 | 79 | [Vete y Alejate de Mi](https://open.spotify.com/track/66CYjKNVEp21AsDGQkmywV) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Vete](https://open.spotify.com/album/0hGEDazwHxaPUBg0DTB9rY) | 4:36 |
-| 80 | [Como Serás Tu](https://open.spotify.com/track/269nyKy2duFQEE1FSnkdny) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Escenas De Amor](https://open.spotify.com/album/0FBJ8Wh061zAWwgi8dGDco) | 3:50 |
-| 81 | [Muchachita Loca](https://open.spotify.com/track/0EWwi2Gt8xRYc90h8W0Q8A) | [Orquesta Picante](https://open.spotify.com/artist/2O1nM4vaWVhGZum3nhSP18) | [Bachata](https://open.spotify.com/album/4wbPbmtbTxKufauK9RaAIA) | 4:01 |
-| 82 | [Laudano](https://open.spotify.com/track/23Gn5VcVfaSSYy014b2AJ6) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [La Luz De Mis Ojos](https://open.spotify.com/album/5v6JO2CVfD3jReTRSkmYO7) | 3:39 |
+| 80 | [Laudano](https://open.spotify.com/track/23Gn5VcVfaSSYy014b2AJ6) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [La Luz De Mis Ojos](https://open.spotify.com/album/5v6JO2CVfD3jReTRSkmYO7) | 3:39 |
+| 81 | [Como Serás Tu](https://open.spotify.com/track/269nyKy2duFQEE1FSnkdny) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Escenas De Amor](https://open.spotify.com/album/0FBJ8Wh061zAWwgi8dGDco) | 3:50 |
+| 82 | [Muchachita Loca](https://open.spotify.com/track/0EWwi2Gt8xRYc90h8W0Q8A) | [Orquesta Picante](https://open.spotify.com/artist/2O1nM4vaWVhGZum3nhSP18) | [Bachata](https://open.spotify.com/album/4wbPbmtbTxKufauK9RaAIA) | 4:01 |
 | 83 | [Traicionera](https://open.spotify.com/track/3MoVVUGwLlQTW3k1kQUe5U) | [Luis Segura](https://open.spotify.com/artist/3xgpQ8RHWeHY9ARr9xkOpp) | [Frente A Frente : Dos Estrellas en Uno \(Luis Segura Vs\. Raulin Rodriguez\)](https://open.spotify.com/album/1e4guYZRcx5lqxvWCYgcx4) | 3:39 |
 | 84 | [Decidí](https://open.spotify.com/track/3njDbyJILSgFmUkvztIw4h) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Decidí](https://open.spotify.com/album/4D36ldGdxrsKprFudusBbs) | 3:14 |
 | 85 | [Busca un Confidente](https://open.spotify.com/track/29Va4e6LzlehfNZtN3hhtZ) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [1](https://open.spotify.com/album/6HlZ3WKAPKbnayeXINUk6w) | 3:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 | 99 | [Payasos](https://open.spotify.com/track/1soECbw2IFdWt5W8Rb4uG7) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Utopia](https://open.spotify.com/album/1yM8iaMk4Slsqr94LabgN1) | 3:23 |
 | 100 | [La Demanda](https://open.spotify.com/track/3zVibdZHsVH05p5Crux6xX) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Utopia](https://open.spotify.com/album/1yM8iaMk4Slsqr94LabgN1) | 3:54 |
 
-Snapshot ID: `MTY0NDk0MDgwMCwwMDAwMDAwMDE3ZDNjODM5YmNiODRlZDZlNmY2NDAxYTllMDY0ZTU1`
+Snapshot ID: `MTY0NDk0MDgwMCwwMDAwMDAwMGQwY2NhMDYzYmNiYjM4ZTY1Nzg4NjQzYWIwYmVkNzkx`

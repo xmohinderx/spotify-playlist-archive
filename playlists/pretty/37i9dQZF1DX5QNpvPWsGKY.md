@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5QNpvPWsGKY.md) - [plain]
 
 > Un buffet de ritmos sabrositos para satisfacer tu paladar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,214 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,354 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,25 +50,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5QNpvPWsGKY.md) - [plain]
 | 40 | [Na Na Na \(Dulce Niña\)](https://open.spotify.com/track/3o3eHNNF5HDU3I0Jg25SGD) | [A.B\. Quintanilla III Y Los Kumbia Kings](https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL) | [Lo Mejor De...](https://open.spotify.com/album/5J1qxK7rxPeYi7wgQALes2) | 3:27 |
 | 41 | [Pero Te Vas A Arrepentir](https://open.spotify.com/track/7fUuC299Gjpe7gkW3pBbZp) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Volveré A Conquistarte](https://open.spotify.com/album/691ZR6kaZeK4JS4tQGPuQf) | 3:56 |
 | 42 | [Que Levante La Mano](https://open.spotify.com/track/36TIklA7o1T0eXS83n1amI) | [Los Angeles De Charly](https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR) | [Te Voy A Enamorar](https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp) | 3:50 |
-| 43 | [Besar Tu Piel](https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Cicatrices](https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm) | 3:24 |
-| 44 | [Rosas Rojas](https://open.spotify.com/track/4Yu2U0ItuhN1eZ5rA5wAtZ) | [Industria del Amor](https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw) | [Verano De Amor](https://open.spotify.com/album/3KasQgz3Q9WjvbrD270lf5) | 3:30 |
+| 43 | [Rosas Rojas](https://open.spotify.com/track/4Yu2U0ItuhN1eZ5rA5wAtZ) | [Industria del Amor](https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw) | [Verano De Amor](https://open.spotify.com/album/3KasQgz3Q9WjvbrD270lf5) | 3:30 |
+| 44 | [Besar Tu Piel](https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Cicatrices](https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm) | 3:24 |
 | 45 | [Sopa de Caracol](https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Lo Mejor de Banda Blanca \- 16 Exitos](https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20) | 4:53 |
 | 46 | [Vida No Te Vayas](https://open.spotify.com/track/6GU3eVzFRKEFme03ut4b6G) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Corazoncito Pum Pum](https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5) | 3:48 |
 | 47 | [Sin Ti No Sé Vivir](https://open.spotify.com/track/2tkeEsJUjKLM1zKeWJ3RqU) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Una Lluvia De Rosas](https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv) | 3:44 |
-| 48 | [Quiero Saber De Ti](https://open.spotify.com/track/6St9CXbwvRkP9gHgbuC0mY) | [Xochilt](https://open.spotify.com/artist/2aHIy41xJKMsudwVFxCfoB) | [Lo Nuevo Y Lo Mejor](https://open.spotify.com/album/5zowtYibiMVyn3VjPUp3I5) | 3:48 |
-| 49 | [Del Signo Libra](https://open.spotify.com/track/7mWCRNQxvOCCtMfe4sYdKW) | [Grupo Libra](https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt) | [Puras Románticas](https://open.spotify.com/album/22G9x42HPowUEACL8QxuAD) | 3:26 |
-| 50 | [Amor Se Escribe Con Llanto](https://open.spotify.com/track/0EkZZm6d3j05yrFfKkAHn7) | [Guardianes Del Amor](https://open.spotify.com/artist/3NLDQVyI2LVtQFJt8JeAAx) | [10 De Coleccion](https://open.spotify.com/album/5Gg6sl1wzelCYH6FloTo0O) | 3:10 |
-| 51 | [Morenita](https://open.spotify.com/track/6qv1oi0j4lzQvxdWiL1apb) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Inalcanzable](https://open.spotify.com/album/13UzYROsKbVZF4RZCrMtQF) | 2:42 |
-| 52 | [Par De Anillos](https://open.spotify.com/track/3hNa7iKRzCK06IawGLlsbz) | [Viento Y Sol](https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s) | [Grandes Éxitos Remezclados Y Remasterizados](https://open.spotify.com/album/3RMafNWPxjqnrg1MU44Uei) | 3:14 |
-| 53 | [Al Despertar](https://open.spotify.com/track/0GCM7zzCulIbsU07Tt8trk) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Qué Cante El Amor](https://open.spotify.com/album/0vPT6w0dqWEo45IJuqqAuo) | 3:22 |
+| 48 | [Del Signo Libra](https://open.spotify.com/track/7mWCRNQxvOCCtMfe4sYdKW) | [Grupo Libra](https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt) | [Puras Románticas](https://open.spotify.com/album/22G9x42HPowUEACL8QxuAD) | 3:26 |
+| 49 | [Quiero Saber De Ti](https://open.spotify.com/track/6St9CXbwvRkP9gHgbuC0mY) | [Xochilt](https://open.spotify.com/artist/2aHIy41xJKMsudwVFxCfoB) | [Lo Nuevo Y Lo Mejor](https://open.spotify.com/album/5zowtYibiMVyn3VjPUp3I5) | 3:48 |
+| 50 | [Al Despertar](https://open.spotify.com/track/0GCM7zzCulIbsU07Tt8trk) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Qué Cante El Amor](https://open.spotify.com/album/0vPT6w0dqWEo45IJuqqAuo) | 3:22 |
+| 51 | [Amor Se Escribe Con Llanto](https://open.spotify.com/track/0EkZZm6d3j05yrFfKkAHn7) | [Guardianes Del Amor](https://open.spotify.com/artist/3NLDQVyI2LVtQFJt8JeAAx) | [10 De Coleccion](https://open.spotify.com/album/5Gg6sl1wzelCYH6FloTo0O) | 3:10 |
+| 52 | [Morenita](https://open.spotify.com/track/6qv1oi0j4lzQvxdWiL1apb) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Inalcanzable](https://open.spotify.com/album/13UzYROsKbVZF4RZCrMtQF) | 2:42 |
+| 53 | [Par De Anillos](https://open.spotify.com/track/3hNa7iKRzCK06IawGLlsbz) | [Viento Y Sol](https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s) | [Grandes Éxitos Remezclados Y Remasterizados](https://open.spotify.com/album/3RMafNWPxjqnrg1MU44Uei) | 3:14 |
 | 54 | [Nuestra Canción](https://open.spotify.com/track/5o4hMBr9ovkytff8TBHreg) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs) | [Tesoros De Coleccion](https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda) | 3:23 |
 | 55 | [Jugo De Piña](https://open.spotify.com/track/1bpxGmisHNZpDSaGfdIcyi) | [El Super Show De Los Vaskez](https://open.spotify.com/artist/5RN0qzNnwv5WsXSNiDjuio) | [3 En 1 Super Show De Los Vaskez](https://open.spotify.com/album/5sFWeLEilmm41a93FXouql) | 4:26 |
 | 56 | [Cumbia Con La Luna](https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Cumbias Sin Control](https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX) | 3:35 |
 | 57 | [Agua De Vida](https://open.spotify.com/track/6eL8Ej7iJqv7NOPoY7bC8Z) | [Grupo Perla Colombiana](https://open.spotify.com/artist/559JHjpDxj6SYy8kwGoa5V) | [Agua De Vida](https://open.spotify.com/album/7I9KOeQ3uj3CMRcRg5Sf2l) | 3:34 |
 | 58 | [Tonta](https://open.spotify.com/track/1A1yn53ZypVPUcV4W54j8A) | [Grupo Mojado](https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7) | [25 Exitos Vol\. 1 \(USA\)](https://open.spotify.com/album/0dgNt6D4pz86nn0ZTRYoVQ) | 3:10 |
 | 59 | [Tú Me Quieres Lastimar](https://open.spotify.com/track/4WZBfo2iiJyrhUdcyOOk0c) | [Ladron](https://open.spotify.com/artist/32BLNtPX18499VCjsUiFj1) | [Tú Me Quieres Lastimar](https://open.spotify.com/album/1iXk5Xg8ZhzfWQdbFxbyVE) | 3:35 |
-| 60 | [Dime Dónde Y Cuándo](https://open.spotify.com/track/7GKKZEHiYblZOedraf4ca4) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Quiereme](https://open.spotify.com/album/1NzyJD7kRhW8U5i1od2LH6) | 3:54 |
-| 61 | [Pídeme La Luna](https://open.spotify.com/track/09CI3BbRrcwkCoRU0ho2RR) | [Los Carlos](https://open.spotify.com/artist/1tVpZyBwLklWcc4BnEEveq) | [En La Luna](https://open.spotify.com/album/5WafO5nBowjxkbpA8c2ase) | 3:12 |
+| 60 | [Pídeme La Luna](https://open.spotify.com/track/09CI3BbRrcwkCoRU0ho2RR) | [Los Carlos](https://open.spotify.com/artist/1tVpZyBwLklWcc4BnEEveq) | [En La Luna](https://open.spotify.com/album/5WafO5nBowjxkbpA8c2ase) | 3:12 |
+| 61 | [Dime Dónde Y Cuándo](https://open.spotify.com/track/7GKKZEHiYblZOedraf4ca4) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Quiereme](https://open.spotify.com/album/1NzyJD7kRhW8U5i1od2LH6) | 3:54 |
 | 62 | [Un Millon de Rosas](https://open.spotify.com/track/1idB3b2IIfal1DPwOuDQwo) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs) | [20th Anniversary Series](https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX) | 3:29 |
 | 63 | [Te Quiero A Tí](https://open.spotify.com/track/3wxXMfRVUGtFvghEafgBjH) | [A.B\. Quintanilla III Y Los Kumbia Kings](https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL) | [Lo Mejor De...](https://open.spotify.com/album/5J1qxK7rxPeYi7wgQALes2) | 3:17 |
 | 64 | [Ultimas Noticias](https://open.spotify.com/track/1KtOcVH5cR2D7QeWpzwm8I) | [Viento Y Sol](https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s) | [Últimas Noticias](https://open.spotify.com/album/5Y81X2aAPTKzjnIhsSz177) | 2:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5QNpvPWsGKY.md) - [plain]
 | 99 | [La Hierba Se Movía](https://open.spotify.com/track/58F3513Tw8RUvF0kX3GOOU) | [Tropicalísimo Apache](https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO) | [Serie Sensacional: Tropicalisimo Apache](https://open.spotify.com/album/1pZ4Bc8s9h7rPzAHsXfx6b) | 3:06 |
 | 100 | [El Perro, el Gato y Yo](https://open.spotify.com/track/54TgeMeInoK6wgPWw58ri7) | [Guardianes Del Amor](https://open.spotify.com/artist/3NLDQVyI2LVtQFJt8JeAAx) | [Lo Mejor De Guardianes Del Amor](https://open.spotify.com/album/4Asr02QFyUUEcwtcnGCYhx) | 3:37 |
 
-Snapshot ID: `MTY0MzEzNzUxNiwwMDAwMDAwMGRmMmJjOTFmOTAwODYzYTFjZGM0ZGQ0ZjQxMWE4NmM1`
+Snapshot ID: `MTY0MzEzNzUxNiwwMDAwMDAwMDMyNjE3OWU0MzZmNTM0MmE5OWY5NDRlYWEzMGJiZGE2`

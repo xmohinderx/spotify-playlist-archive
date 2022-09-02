@@ -1,12 +1,12 @@
 {
   "description": "The sound of jazz from the nordics. Cover: Jan Garbarek",
-  "num_followers": 15686,
+  "num_followers": 15699,
   "original_name": "The Nordic Notes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk1NDQxNiwwMDAwMDAwMDlmOGVjYWJjMTRiODg3YTJiZmM2YmVjMThiYTRhYmMy",
+  "snapshot_id": "MTY2MTk1NDQxNiwwMDAwMDAwMDI1OTczZmEzNGIwZjVmZGIwZDc1ZTk5NDFiYjJhM2M3",
   "tracks": [
     {
       "added_at": "2022-08-31 14:00:16",
@@ -211,6 +211,42 @@
     {
       "added_at": "2022-08-31 14:00:16",
       "album": {
+        "name": "Khmer",
+        "url": "https://open.spotify.com/album/76Z70kaNILhjzrf0wC0RB6"
+      },
+      "artists": [
+        {
+          "name": "Nils Petter Molv\u00e6r",
+          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
+        }
+      ],
+      "duration_ms": 301026,
+      "name": "On Stream",
+      "url": "https://open.spotify.com/track/6nqhMMxnXbb2kMuh2cNd2L"
+    },
+    {
+      "added_at": "2022-08-31 14:00:16",
+      "album": {
+        "name": "In the Mountains",
+        "url": "https://open.spotify.com/album/08ZNmk25bNcrUQ9Yj6VSr4"
+      },
+      "artists": [
+        {
+          "name": "Espen Eriksen Trio",
+          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
+        },
+        {
+          "name": "Andy Sheppard",
+          "url": "https://open.spotify.com/artist/3xMyc3x1YAI2LmA2X5IQHD"
+        }
+      ],
+      "duration_ms": 496933,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/49GkEXzeU30nUaEussqtUi"
+    },
+    {
+      "added_at": "2022-08-31 14:00:16",
+      "album": {
         "name": "10",
         "url": "https://open.spotify.com/album/4Ua984QTWTd5HzdiR9mHZd"
       },
@@ -239,38 +275,18 @@
     {
       "added_at": "2022-08-31 14:00:16",
       "album": {
-        "name": "In the Mountains",
-        "url": "https://open.spotify.com/album/08ZNmk25bNcrUQ9Yj6VSr4"
+        "name": "The Ground",
+        "url": "https://open.spotify.com/album/3rpF9hVBypQJLBf8fu5Vfu"
       },
       "artists": [
         {
-          "name": "Espen Eriksen Trio",
-          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
-        },
-        {
-          "name": "Andy Sheppard",
-          "url": "https://open.spotify.com/artist/3xMyc3x1YAI2LmA2X5IQHD"
+          "name": "Tord Gustavsen Trio",
+          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
         }
       ],
-      "duration_ms": 496933,
-      "name": "Anthem",
-      "url": "https://open.spotify.com/track/49GkEXzeU30nUaEussqtUi"
-    },
-    {
-      "added_at": "2022-08-31 14:00:16",
-      "album": {
-        "name": "Khmer",
-        "url": "https://open.spotify.com/album/76Z70kaNILhjzrf0wC0RB6"
-      },
-      "artists": [
-        {
-          "name": "Nils Petter Molv\u00e6r",
-          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
-        }
-      ],
-      "duration_ms": 301026,
-      "name": "On Stream",
-      "url": "https://open.spotify.com/track/6nqhMMxnXbb2kMuh2cNd2L"
+      "duration_ms": 295866,
+      "name": "Twins",
+      "url": "https://open.spotify.com/track/041E7613Qaw4buZMVpaLcd"
     },
     {
       "added_at": "2022-08-31 14:00:16",
@@ -291,22 +307,6 @@
       "duration_ms": 210000,
       "name": "\u00d8yne",
       "url": "https://open.spotify.com/track/1D1r7hg9V2qpjo3bVR2Tcp"
-    },
-    {
-      "added_at": "2022-08-31 14:00:16",
-      "album": {
-        "name": "The Ground",
-        "url": "https://open.spotify.com/album/3rpF9hVBypQJLBf8fu5Vfu"
-      },
-      "artists": [
-        {
-          "name": "Tord Gustavsen Trio",
-          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
-        }
-      ],
-      "duration_ms": 295866,
-      "name": "Twins",
-      "url": "https://open.spotify.com/track/041E7613Qaw4buZMVpaLcd"
     },
     {
       "added_at": "2022-08-31 14:00:16",
@@ -547,18 +547,18 @@
     {
       "added_at": "2022-08-31 14:00:16",
       "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/00TmCrY8qOym3jKstft5fx"
+        "name": "We Seem to Be Drifting Apart",
+        "url": "https://open.spotify.com/album/6TydUQN1CxibuLIbQSvMt2"
       },
       "artists": [
         {
-          "name": "S\u00f8ren Bebe Trio",
-          "url": "https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI"
+          "name": "Nils Berg Cinemascope",
+          "url": "https://open.spotify.com/artist/2VACX6wISeQjVQapXgWvm3"
         }
       ],
-      "duration_ms": 307356,
-      "name": "Winx",
-      "url": "https://open.spotify.com/track/6wP9Z9As3rlSKwHnCfzEp7"
+      "duration_ms": 166920,
+      "name": "Richter Sonntag",
+      "url": "https://open.spotify.com/track/1FvYFhjePSGYxMnD5K8BT1"
     },
     {
       "added_at": "2022-08-31 14:00:16",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-08-31 14:00:16",
       "album": {
-        "name": "We Seem to Be Drifting Apart",
-        "url": "https://open.spotify.com/album/6TydUQN1CxibuLIbQSvMt2"
-      },
-      "artists": [
-        {
-          "name": "Nils Berg Cinemascope",
-          "url": "https://open.spotify.com/artist/2VACX6wISeQjVQapXgWvm3"
-        }
-      ],
-      "duration_ms": 166920,
-      "name": "Richter Sonntag",
-      "url": "https://open.spotify.com/track/1FvYFhjePSGYxMnD5K8BT1"
-    },
-    {
-      "added_at": "2022-08-31 14:00:16",
-      "album": {
         "name": "Who Do You Love the Most?",
         "url": "https://open.spotify.com/album/49BEjb3ppEwJklB8nbhPpR"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 283346,
       "name": "Remembering",
       "url": "https://open.spotify.com/track/7egSnOVoyp1SvQtr2ZUp1z"
+    },
+    {
+      "added_at": "2022-08-31 14:00:16",
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/00TmCrY8qOym3jKstft5fx"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8ren Bebe Trio",
+          "url": "https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI"
+        }
+      ],
+      "duration_ms": 307356,
+      "name": "Winx",
+      "url": "https://open.spotify.com/track/6wP9Z9As3rlSKwHnCfzEp7"
     },
     {
       "added_at": "2022-08-31 14:00:16",
@@ -647,38 +647,6 @@
     {
       "added_at": "2022-08-31 14:00:16",
       "album": {
-        "name": "Komposition VII",
-        "url": "https://open.spotify.com/album/5TkbzkhD1kl7ehDrNz6aPM"
-      },
-      "artists": [
-        {
-          "name": "Max Agnas",
-          "url": "https://open.spotify.com/artist/3NptYnPBFtCemjoPPqkGwA"
-        }
-      ],
-      "duration_ms": 473721,
-      "name": "L\u00e5ngsamt",
-      "url": "https://open.spotify.com/track/4o0d3Ljhgg6v1t6D3M1DtY"
-    },
-    {
-      "added_at": "2022-08-31 14:00:16",
-      "album": {
-        "name": "Time of Water",
-        "url": "https://open.spotify.com/album/1l6BsIffCUBQpPl9CNIluP"
-      },
-      "artists": [
-        {
-          "name": "Daniel Herskedal",
-          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
-        }
-      ],
-      "duration_ms": 272306,
-      "name": "Time of Water",
-      "url": "https://open.spotify.com/track/0bT1HItEFfOnlb17W1434D"
-    },
-    {
-      "added_at": "2022-08-31 14:00:16",
-      "album": {
         "name": "Painting Music",
         "url": "https://open.spotify.com/album/0fmB8ha3cuP05cuk6nU6tZ"
       },
@@ -699,6 +667,38 @@
       "duration_ms": 258161,
       "name": "Jeg gik mig ud en Sommerdag",
       "url": "https://open.spotify.com/track/6OHXcoZJlNDnRGBXRrDTHy"
+    },
+    {
+      "added_at": "2022-08-31 14:00:16",
+      "album": {
+        "name": "Time of Water",
+        "url": "https://open.spotify.com/album/1l6BsIffCUBQpPl9CNIluP"
+      },
+      "artists": [
+        {
+          "name": "Daniel Herskedal",
+          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
+        }
+      ],
+      "duration_ms": 272306,
+      "name": "Time of Water",
+      "url": "https://open.spotify.com/track/0bT1HItEFfOnlb17W1434D"
+    },
+    {
+      "added_at": "2022-08-31 14:00:16",
+      "album": {
+        "name": "Komposition VII",
+        "url": "https://open.spotify.com/album/5TkbzkhD1kl7ehDrNz6aPM"
+      },
+      "artists": [
+        {
+          "name": "Max Agnas",
+          "url": "https://open.spotify.com/artist/3NptYnPBFtCemjoPPqkGwA"
+        }
+      ],
+      "duration_ms": 473721,
+      "name": "L\u00e5ngsamt",
+      "url": "https://open.spotify.com/track/4o0d3Ljhgg6v1t6D3M1DtY"
     },
     {
       "added_at": "2022-08-31 14:00:16",
@@ -1139,18 +1139,26 @@
     {
       "added_at": "2022-08-31 14:00:16",
       "album": {
-        "name": "Endless",
-        "url": "https://open.spotify.com/album/55VI95f9lqZuDrc0xZIlrD"
+        "name": "Last Spring",
+        "url": "https://open.spotify.com/album/2o24AbDEYPoyFNSXxDZp36"
       },
       "artists": [
         {
-          "name": "Kjetil Mulelid Trio",
-          "url": "https://open.spotify.com/artist/474vK8QpU3WL9RxRCmo5cX"
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Bugge Wesseltoft",
+          "url": "https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK"
+        },
+        {
+          "name": "Henning Kraggerud",
+          "url": "https://open.spotify.com/artist/2VCAUIEKX0BX7DWfA8qxPb"
         }
       ],
-      "duration_ms": 301840,
-      "name": "Endless",
-      "url": "https://open.spotify.com/track/0B9sDqvIGA0xlJaiyzjnHv"
+      "duration_ms": 205084,
+      "name": "Margit Hjukse",
+      "url": "https://open.spotify.com/track/6BdgqkDDeRvAAHJtDCc48W"
     },
     {
       "added_at": "2022-08-31 14:00:16",
@@ -1187,42 +1195,18 @@
     {
       "added_at": "2022-08-31 14:00:16",
       "album": {
-        "name": "The Mariner's Cross",
-        "url": "https://open.spotify.com/album/3VFx6LGYMdeyvCmHTnQIak"
+        "name": "Endless",
+        "url": "https://open.spotify.com/album/55VI95f9lqZuDrc0xZIlrD"
       },
       "artists": [
         {
-          "name": "Daniel Herskedal",
-          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
+          "name": "Kjetil Mulelid Trio",
+          "url": "https://open.spotify.com/artist/474vK8QpU3WL9RxRCmo5cX"
         }
       ],
-      "duration_ms": 194893,
-      "name": "The Mariner's Cross",
-      "url": "https://open.spotify.com/track/0BYntYvDMrtc6Ff501kvQ2"
-    },
-    {
-      "added_at": "2022-08-31 14:00:16",
-      "album": {
-        "name": "Last Spring",
-        "url": "https://open.spotify.com/album/2o24AbDEYPoyFNSXxDZp36"
-      },
-      "artists": [
-        {
-          "name": "Traditional",
-          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
-        },
-        {
-          "name": "Bugge Wesseltoft",
-          "url": "https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK"
-        },
-        {
-          "name": "Henning Kraggerud",
-          "url": "https://open.spotify.com/artist/2VCAUIEKX0BX7DWfA8qxPb"
-        }
-      ],
-      "duration_ms": 205084,
-      "name": "Margit Hjukse",
-      "url": "https://open.spotify.com/track/6BdgqkDDeRvAAHJtDCc48W"
+      "duration_ms": 301840,
+      "name": "Endless",
+      "url": "https://open.spotify.com/track/0B9sDqvIGA0xlJaiyzjnHv"
     },
     {
       "added_at": "2022-08-31 14:00:16",
@@ -1255,6 +1239,22 @@
     {
       "added_at": "2022-08-31 14:00:16",
       "album": {
+        "name": "The Mariner's Cross",
+        "url": "https://open.spotify.com/album/3VFx6LGYMdeyvCmHTnQIak"
+      },
+      "artists": [
+        {
+          "name": "Daniel Herskedal",
+          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
+        }
+      ],
+      "duration_ms": 194893,
+      "name": "The Mariner's Cross",
+      "url": "https://open.spotify.com/track/0BYntYvDMrtc6Ff501kvQ2"
+    },
+    {
+      "added_at": "2022-08-31 14:00:16",
+      "album": {
         "name": "Nearly Invisible Stitches",
         "url": "https://open.spotify.com/album/08t9wyfbjYgTdzF51O9N9D"
       },
@@ -1267,22 +1267,6 @@
       "duration_ms": 403513,
       "name": "Nearly Invisible Stitches",
       "url": "https://open.spotify.com/track/0YaFEVMblJyAkHYzGXTQck"
-    },
-    {
-      "added_at": "2022-08-31 14:00:16",
-      "album": {
-        "name": "Point of View",
-        "url": "https://open.spotify.com/album/6buYfEBqnN3lIYZSBwHpxl"
-      },
-      "artists": [
-        {
-          "name": "Kjetil Mulelid",
-          "url": "https://open.spotify.com/artist/1RBwhYR07uefS25DqynAMy"
-        }
-      ],
-      "duration_ms": 249386,
-      "name": "Point of View",
-      "url": "https://open.spotify.com/track/0Y1hgpu3wBX3gfc1YKAMS9"
     },
     {
       "added_at": "2022-08-31 14:00:16",
@@ -1311,6 +1295,22 @@
       "duration_ms": 469706,
       "name": "So I Write",
       "url": "https://open.spotify.com/track/4HsqVdZAwDB7SasYlWOn0H"
+    },
+    {
+      "added_at": "2022-08-31 14:00:16",
+      "album": {
+        "name": "Point of View",
+        "url": "https://open.spotify.com/album/6buYfEBqnN3lIYZSBwHpxl"
+      },
+      "artists": [
+        {
+          "name": "Kjetil Mulelid",
+          "url": "https://open.spotify.com/artist/1RBwhYR07uefS25DqynAMy"
+        }
+      ],
+      "duration_ms": 249386,
+      "name": "Point of View",
+      "url": "https://open.spotify.com/track/0Y1hgpu3wBX3gfc1YKAMS9"
     },
     {
       "added_at": "2022-08-31 14:00:16",
@@ -1431,6 +1431,30 @@
     {
       "added_at": "2022-08-31 14:00:16",
       "album": {
+        "name": "Bayou",
+        "url": "https://open.spotify.com/album/2tsGHiONyukWb8rYSG6TGb"
+      },
+      "artists": [
+        {
+          "name": "Thomas Str\u00f8nen",
+          "url": "https://open.spotify.com/artist/6DeUn0VfASGtKU3XmeotoY"
+        },
+        {
+          "name": "Ayumi Tanaka",
+          "url": "https://open.spotify.com/artist/7Lkj4GebsCvqOlSFQKfGRZ"
+        },
+        {
+          "name": "Marthe Lea",
+          "url": "https://open.spotify.com/artist/24OahpiaTPyjN3zwfUH7Pt"
+        }
+      ],
+      "duration_ms": 183493,
+      "name": "Como",
+      "url": "https://open.spotify.com/track/28UMbNE9pbq0kJpsd9mIZM"
+    },
+    {
+      "added_at": "2022-08-31 14:00:16",
+      "album": {
         "name": "Reflections and Odysseys",
         "url": "https://open.spotify.com/album/4zTsD1CmVivVkizao8YOjf"
       },
@@ -1455,30 +1479,6 @@
       "duration_ms": 415186,
       "name": "The Lugubrious Youth Of Lucky Luke",
       "url": "https://open.spotify.com/track/4KOGxrdk7NVm63Ea9ZkbIi"
-    },
-    {
-      "added_at": "2022-08-31 14:00:16",
-      "album": {
-        "name": "Bayou",
-        "url": "https://open.spotify.com/album/2tsGHiONyukWb8rYSG6TGb"
-      },
-      "artists": [
-        {
-          "name": "Thomas Str\u00f8nen",
-          "url": "https://open.spotify.com/artist/6DeUn0VfASGtKU3XmeotoY"
-        },
-        {
-          "name": "Ayumi Tanaka",
-          "url": "https://open.spotify.com/artist/7Lkj4GebsCvqOlSFQKfGRZ"
-        },
-        {
-          "name": "Marthe Lea",
-          "url": "https://open.spotify.com/artist/24OahpiaTPyjN3zwfUH7Pt"
-        }
-      ],
-      "duration_ms": 183493,
-      "name": "Como",
-      "url": "https://open.spotify.com/track/28UMbNE9pbq0kJpsd9mIZM"
     },
     {
       "added_at": "2022-08-31 14:00:16",
@@ -1763,26 +1763,22 @@
     {
       "added_at": "2022-08-31 14:00:16",
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/409wPdjUmGHqQcfV8rD2Ms"
+        "name": "Pa\u030a gjensyn",
+        "url": "https://open.spotify.com/album/3apCEklyPqvaDBKHSQ0B2W"
       },
       "artists": [
         {
-          "name": "Joel Lyssarides",
-          "url": "https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx"
+          "name": "Maridalen",
+          "url": "https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ"
         },
         {
-          "name": "Niklas Fernqvist",
-          "url": "https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS"
-        },
-        {
-          "name": "Rasmus Svensson",
-          "url": "https://open.spotify.com/artist/3kBBAbNwgXbD5zZq4p6CaR"
+          "name": "Jonas Kilmork Vem\u00f8y",
+          "url": "https://open.spotify.com/artist/2V4iZGTDOkqbimRsSwIRe7"
         }
       ],
-      "duration_ms": 301253,
-      "name": "Mirages",
-      "url": "https://open.spotify.com/track/0s8YGmoWPKtb1GynGbHAWK"
+      "duration_ms": 367280,
+      "name": "Pa\u030a gjensyn",
+      "url": "https://open.spotify.com/track/3iix1vmZ38BObrSRUTUNbF"
     },
     {
       "added_at": "2022-08-31 14:00:16",
@@ -1811,22 +1807,26 @@
     {
       "added_at": "2022-08-31 14:00:16",
       "album": {
-        "name": "Pa\u030a gjensyn",
-        "url": "https://open.spotify.com/album/3apCEklyPqvaDBKHSQ0B2W"
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/409wPdjUmGHqQcfV8rD2Ms"
       },
       "artists": [
         {
-          "name": "Maridalen",
-          "url": "https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ"
+          "name": "Joel Lyssarides",
+          "url": "https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx"
         },
         {
-          "name": "Jonas Kilmork Vem\u00f8y",
-          "url": "https://open.spotify.com/artist/2V4iZGTDOkqbimRsSwIRe7"
+          "name": "Niklas Fernqvist",
+          "url": "https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS"
+        },
+        {
+          "name": "Rasmus Svensson",
+          "url": "https://open.spotify.com/artist/3kBBAbNwgXbD5zZq4p6CaR"
         }
       ],
-      "duration_ms": 367280,
-      "name": "Pa\u030a gjensyn",
-      "url": "https://open.spotify.com/track/3iix1vmZ38BObrSRUTUNbF"
+      "duration_ms": 301253,
+      "name": "Mirages",
+      "url": "https://open.spotify.com/track/0s8YGmoWPKtb1GynGbHAWK"
     },
     {
       "added_at": "2022-08-31 14:00:16",

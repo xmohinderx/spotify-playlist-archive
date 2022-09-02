@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 
 > Songs from all genres get a punk rock makeover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,146 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,014 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 56 | [Blueberry Faygo](https://open.spotify.com/track/75WqqdgbeP5WK8lDPLBrcu) | [Misplaced](https://open.spotify.com/artist/4LD3UeboJl9wKM6WyaaRMu) | [Blueberry Faygo](https://open.spotify.com/album/6J9cz9LexI9GcKp555j8PQ) | 3:01 |
 | 57 | [Soak up the Sun](https://open.spotify.com/track/7jmeasfgUACycDwwC1JnE8) | [Sincerely, Me](https://open.spotify.com/artist/1zzb0p4HHnAI0MsOWFMdR8) | [Soak up the Sun](https://open.spotify.com/album/437lF978Yeb1SZubuLRtJN) | 3:23 |
 | 58 | [The Middle](https://open.spotify.com/track/0wAXhNsFszWcxhgpMxB4ng) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [The Middle](https://open.spotify.com/album/5MsK2snazTXQyaNDUGVxOs) | 3:02 |
-| 59 | [Mood](https://open.spotify.com/track/6e7vixPHG3EZjLSHWuPrd2) | [Fluorescents](https://open.spotify.com/artist/3k7eYa4LVI5wqhLj7PACE2) | [Mood](https://open.spotify.com/album/4O6nfuMWDiPNULvr0OfgIb) | 2:44 |
-| 60 | [Let It Be](https://open.spotify.com/track/0eZ4bLUnh0NkGwCEmPvRYI) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp) | [Let It Be](https://open.spotify.com/album/27njwfI83O3b2ho4MgCKEG) | 3:52 |
+| 59 | [Let It Be](https://open.spotify.com/track/0eZ4bLUnh0NkGwCEmPvRYI) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp) | [Let It Be](https://open.spotify.com/album/27njwfI83O3b2ho4MgCKEG) | 3:52 |
+| 60 | [Mood](https://open.spotify.com/track/6e7vixPHG3EZjLSHWuPrd2) | [Fluorescents](https://open.spotify.com/artist/3k7eYa4LVI5wqhLj7PACE2) | [Mood](https://open.spotify.com/album/4O6nfuMWDiPNULvr0OfgIb) | 2:44 |
 | 61 | [Rockstar](https://open.spotify.com/track/7EIbw4i6zFYA2kuDYWgRly) | [Daddy Rock](https://open.spotify.com/artist/3RZnetZUUmTYPluQtt7SNI) | [Rockstar](https://open.spotify.com/album/7yfeIbESdeDfyvYVjbYMRr) | 3:27 |
 | 62 | [Dreaming](https://open.spotify.com/track/2c5y2QB5qY6S84MoJTJYzE) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dreaming](https://open.spotify.com/album/2WApmrlB4VgT8Mz0zEMrty) | 3:07 |
 | 63 | [Watermelon Sugar](https://open.spotify.com/track/3RAzJMkJ8CfcYKhBd4jkBd) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [Watermelon Sugar](https://open.spotify.com/album/2UIqSGy3mJrKvAynN2y3Lj) | 3:51 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 89 | [Adore You](https://open.spotify.com/track/520z2yumDjdc18QvmWk5vM) | [First to Eleven](https://open.spotify.com/artist/3Cpk1xlScqbYhmv5EqoI4Y) | [Covers, Vol\. 5](https://open.spotify.com/album/6SFXA3Oo0WxQmcqucfHPVm) | 3:29 |
 | 90 | [PEOPLE \(feat\. FIDLAR\)](https://open.spotify.com/track/6YBz2t787QoPWZrIww5AvV) | [SWMRS](https://open.spotify.com/artist/7dLkuQHF2ijbK6jiLFyIWM), [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [PEOPLE \(feat\. FIDLAR\)](https://open.spotify.com/album/6uHbCLoVuonbsJrIVvELKI) | 2:49 |
 | 91 | [Mr\. Brightside](https://open.spotify.com/track/6888KUSNyofc6EQD5IwOFB) | [FigureItOut](https://open.spotify.com/artist/1IuyjI3FTndgSAXk2cMXXV) | [Mr\. Brightside](https://open.spotify.com/album/6s1utBdxP5zDWN29GjdbLx) | 3:21 |
-| 92 | [Thatcher Fucked the Kids](https://open.spotify.com/track/4bQm41HanVPO4wh6pNpB9L) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [West Coast vs\. Wessex](https://open.spotify.com/album/1V0jqCyz5StIhGp16Ggdz7) | 3:07 |
-| 93 | [Surrender](https://open.spotify.com/track/1yHvODNeWfw7yKdlyEzNOu) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Surrender](https://open.spotify.com/album/6fvyhhViksucPFXiYHs1DG) | 3:32 |
-| 94 | [You're Dead / Vampire Ska](https://open.spotify.com/track/65k4rC8pAWcKq6xkGPhtbt) | [We Are The Union](https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs) | [You're Dead / Vampire Ska](https://open.spotify.com/album/7L9mILJxtPj59Mwj0YT0Sh) | 2:29 |
+| 92 | [You're Dead / Vampire Ska](https://open.spotify.com/track/65k4rC8pAWcKq6xkGPhtbt) | [We Are The Union](https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs) | [You're Dead / Vampire Ska](https://open.spotify.com/album/7L9mILJxtPj59Mwj0YT0Sh) | 2:29 |
+| 93 | [Thatcher Fucked the Kids](https://open.spotify.com/track/4bQm41HanVPO4wh6pNpB9L) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [West Coast vs\. Wessex](https://open.spotify.com/album/1V0jqCyz5StIhGp16Ggdz7) | 3:07 |
+| 94 | [Surrender](https://open.spotify.com/track/1yHvODNeWfw7yKdlyEzNOu) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Surrender](https://open.spotify.com/album/6fvyhhViksucPFXiYHs1DG) | 3:32 |
 | 95 | [Yummy](https://open.spotify.com/track/5rUY5iXXSZbuJJsmDb1QRU) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Yummy](https://open.spotify.com/album/3CuZMYOl73DPzfm8suzQ7v) | 3:21 |
 | 96 | [Larger Than Life](https://open.spotify.com/track/7gTKH7BRYJ1hfVuTHbAfoK) | [Ready Steady Steroids](https://open.spotify.com/artist/1ObNbwiR2rX4PUY2BUF9xN) | [Homebound](https://open.spotify.com/album/2Ctb46rmaHdsvHDzjzMLvC) | 3:47 |
 | 97 | [I Won't Back Down](https://open.spotify.com/track/1Lp4hoExThrJRXZmoeciLA) | [Alone I Walk](https://open.spotify.com/artist/15KhAhIzQCzIDNDq1QXAGc) | [I Won't Back Down](https://open.spotify.com/album/46saWxMxcrqUrNBbZs38Qz) | 2:38 |
-| 98 | [Fake Friends \(feat\. Joan Jett\)](https://open.spotify.com/track/7l24L0JxuMCU14BJk5rTPS) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h), [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Fake Friends](https://open.spotify.com/album/6mEhhqIxasWb9MAc2thrPR) | 3:08 |
-| 99 | [Teenage Dream](https://open.spotify.com/track/0kpDTCeGWOfGor1kcJUFwu) | [The Plugs](https://open.spotify.com/artist/4ER2AgS7VMGpUcTXcbBddj) | [Judging Books by Their Covers](https://open.spotify.com/album/3easwftCM6KOgEo0FzYZ1E) | 3:27 |
+| 98 | [Teenage Dream](https://open.spotify.com/track/0kpDTCeGWOfGor1kcJUFwu) | [The Plugs](https://open.spotify.com/artist/4ER2AgS7VMGpUcTXcbBddj) | [Judging Books by Their Covers](https://open.spotify.com/album/3easwftCM6KOgEo0FzYZ1E) | 3:27 |
+| 99 | [Fake Friends \(feat\. Joan Jett\)](https://open.spotify.com/track/7l24L0JxuMCU14BJk5rTPS) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h), [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Fake Friends](https://open.spotify.com/album/6mEhhqIxasWb9MAc2thrPR) | 3:08 |
 | 100 | [I Don't Love You](https://open.spotify.com/track/5M9KGQXFPLFiSRC9Oo99JX) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [I Don't Love You](https://open.spotify.com/album/5PPYEQoCKFqmR1a6RTPVlJ) | 3:51 |
 
-Snapshot ID: `MTYzMDYwMjgyMSwwMDAwMDAwMDYxOTk5ZDU2MGExYmIwMWE2YWQwMzQwMDlhMGVjMDky`
+Snapshot ID: `MTYzMDYwMjgyMSwwMDAwMDAwMDBhYThhOWIwYjRlYWExYzJlOTc3ZGU4ZDk0ZTBiY2I2`

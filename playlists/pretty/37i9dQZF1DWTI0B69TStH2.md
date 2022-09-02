@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: Mark Mantra \| Playlista odświeżana w każdy wtorek.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,029 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,034 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 8 | [Nieznośnie](https://open.spotify.com/track/5mlg5zbeQnt00Ud7pkUqF0) | [Ranko Ukulele](https://open.spotify.com/artist/0tfJBHQtndZAeilrnJfJSC) | [Nieznośnie](https://open.spotify.com/album/3Pq3oQgoi2ucV2gG5YyJEG) | 2:57 |
 | 9 | [Hałas](https://open.spotify.com/track/5yovwdNsXgHZzXoAWRpxAc) | [Motorboats](https://open.spotify.com/artist/2z22TuCBjDnymI8mAv30W4), [Kixi](https://open.spotify.com/artist/6mAicfExIN7O30EmhYnA1V) | [Hałas](https://open.spotify.com/album/4pNHJvLskzdC02V4IfkJJy) | 2:50 |
 | 10 | [patrz pod nogi](https://open.spotify.com/track/5jn46we4JKO1hAZMS2DP4U) | [YASNO.](https://open.spotify.com/artist/5JeULU8rnukUiPQFAA8Q24) | [patrz pod nogi](https://open.spotify.com/album/6ePK5rc2ZeLTjA1VwCo84z) | 3:44 |
-| 11 | [może wpadnę](https://open.spotify.com/track/5w2G4hDARa3TJTdOxqUTXu) | [Senny](https://open.spotify.com/artist/1G9URp0t7Z45RhHHUdRo5P) | [może wpadnę](https://open.spotify.com/album/5tvmxNeMjWXgcNw4zcfpri) | 3:32 |
+| 11 | [może wpadnę](https://open.spotify.com/track/6GJAbf9Mtx3eewqOA3jhgk) | [Senny](https://open.spotify.com/artist/1G9URp0t7Z45RhHHUdRo5P) | [może wpadnę](https://open.spotify.com/album/5XdyaQQQzKPdugOLoVzvq5) | 3:32 |
 | 12 | [Tętno](https://open.spotify.com/track/34iPGEjvcmmYbYnmmoB4MV) | [Decent Elephant](https://open.spotify.com/artist/42pE4wsWlji6ljEsOXjsBb) | [Tętno](https://open.spotify.com/album/4dJefaScsnGVSfMbvIgqBY) | 3:45 |
 | 13 | [Jak Idzie Mi](https://open.spotify.com/track/3eKezB9LQu1HKrqMspe7cx) | [młody picasso](https://open.spotify.com/artist/3aI7VycXTTiDsEvge2aHnu), [natan](https://open.spotify.com/artist/30GHHvNrPb2HB7IeBq5gOB) | [Jak Idzie Mi](https://open.spotify.com/album/6XeJLyeE29DqmPfUhKIZn2) | 2:44 |
 | 14 | [Magda W.](https://open.spotify.com/track/3HFuWjALGXtoDT1bN27HIT) | [NOBO](https://open.spotify.com/artist/6wSHpGqWHcdUsGztGMy6iE) | [Magda W.](https://open.spotify.com/album/3E47CjDDSJLay8MCA7Sui9) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [Lato](https://open.spotify.com/track/3YRPnvMFb0NbTxs6KTJkRw) | [J.SHPRD](https://open.spotify.com/artist/1VoLL4nQBAbt8z8Hx48ZJY) | [Lato](https://open.spotify.com/album/6bhxIjCKRpcyhrnjJi4Zug) | 3:01 |
 | 100 | [Nic tu po mnie](https://open.spotify.com/track/1eOQ8BzkISS7pWli1UoB4e) | [evelina ross](https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw) | [Nic tu po mnie](https://open.spotify.com/album/0iPzrYKbIJF0l7oTH169iT) | 3:05 |
 
-Snapshot ID: `MTY2MTgxMDQwMCwwMDAwMDAwMGVmOTE1ZDk1OWNjMjkzNWU0NDA3NjU2MjE0YTAxODk2`
+Snapshot ID: `MTY2MTgxMDQwMCwwMDAwMDAwMDQ2NjU5OGQ5NWQ3YzhkNDMxZmFlNjE0N2RiNDg5MzEz`

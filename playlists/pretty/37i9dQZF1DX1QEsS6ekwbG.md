@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QEsS6ekwbG.md) - [plain]
 
 > La mejor compañía mientras llueve.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,291 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,538 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QEsS6ekwbG.md) - [plain]
 | 13 | [Amor del Bueno](https://open.spotify.com/track/2G74yhtIMW8tJY5I83dS4Z) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ) | [Reyli En La Luna](https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY) | 4:02 |
 | 14 | [Antologia](https://open.spotify.com/track/0KAqMRUSZwzG3dZLdDA4eH) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 4:14 |
 | 15 | [Destino o casualidad](https://open.spotify.com/track/2sMxswHr9wX7kTUHULvJBJ) | [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4), [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Destino o casualidad](https://open.spotify.com/album/0qnDuxzDLdWWi9R473rv85) | 4:18 |
-| 16 | [Te quiero](https://open.spotify.com/track/6tu2FHuKL9C8pwNrityweQ) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Las baladas \(Los singles vol II\)](https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN) | 3:45 |
-| 17 | [La Playa](https://open.spotify.com/track/2DNyZP4Py6f4zMASLBnIu6) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [El Viaje de Copperpot](https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu) | 4:07 |
+| 16 | [La Playa](https://open.spotify.com/track/2DNyZP4Py6f4zMASLBnIu6) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [El Viaje de Copperpot](https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu) | 4:07 |
+| 17 | [Te quiero](https://open.spotify.com/track/6tu2FHuKL9C8pwNrityweQ) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Las baladas \(Los singles vol II\)](https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN) | 3:45 |
 | 18 | [Me Voy](https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:07 |
 | 19 | [Amiga mía](https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 4:50 |
 | 20 | [Ya Me Enteré](https://open.spotify.com/track/4ggabbjjuHrG06SsYnqvEs) | [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [El Ahijado Consentido](https://open.spotify.com/album/35F7wwWfEZV6FSrCppyNPP) | 3:09 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QEsS6ekwbG.md) - [plain]
 | 47 | [Seguir Viviendo Sin Tu Amor](https://open.spotify.com/track/2qBirMakpTdz9ymxrZEyzg) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Peluson Of Milk](https://open.spotify.com/album/0sEqp7Del2dp8HmXE8Geqv) | 2:40 |
 | 48 | [Lloviendo Estrellas](https://open.spotify.com/track/5b00r2xveYfVIOExZJJ395) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Grandes Hits](https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL) | 4:16 |
 | 49 | [Mi Princesa](https://open.spotify.com/track/16kJ8NqNdHbwJe9kf1TJLe) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Sin Mirar Atrás](https://open.spotify.com/album/1xW38xA3oVHef1d8FdIZs6) | 3:22 |
-| 50 | [Mi Razon De Ser](https://open.spotify.com/track/6RLB0Jw4gg5uYpHyekjQSI) | [Griss Romero](https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA) | [Mis Canciones De La Web](https://open.spotify.com/album/5Cpv2FIiZHAGFrYHtVTDNP) | 2:52 |
+| 50 | [Tardes Negras](https://open.spotify.com/track/0IgtEvYFtZEapMoCcgizGQ) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [TZN \-The Best Of Tiziano Ferro \(Spanish Edition\)](https://open.spotify.com/album/0Kk7kX25RVvNzkYfyGt8kv) | 4:22 |
 
-Snapshot ID: `MTY1NzEzNTQzMywwMDAwMDAwMGMwZjIxYmYwNGQ2NjYwMzVlNzMxNDJkM2ExNGYwMmY3`
+Snapshot ID: `MTY1NzEzNTQzMywwMDAwMDAwMDJiNjkyMmVjOTkxMmMzZWI5NDg2NjA1NDNiNzkyYzUw`

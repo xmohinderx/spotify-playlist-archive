@@ -2,7 +2,7 @@
 
 ### [Spotify Singles: Pride](https://open.spotify.com/playlist/37i9dQZF1DXcaEXdyjLdxm)
 
-> LGBTQQIA+ artists like you've never heard before\. Cover: Arlo Parks
+> LGBTQQIA+ artists like you've never heard before\. Cover: DOSS
 
 64 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/5hCASO58LS3FyWd4FiMjbC)
 

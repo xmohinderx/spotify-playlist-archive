@@ -1,12 +1,12 @@
 {
   "description": "Set the mood of your day with these happy songs.",
-  "num_followers": 1332658,
+  "num_followers": 1332682,
   "original_name": "Wake Up Happy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUxNTIwMCwwMDAwMDAwMDRlYjJlNDBjMjZmZjhlNTU2ZWVmMjZlNWRkYmViZGNj",
+  "snapshot_id": "MTY2MTUxNTIwMCwwMDAwMDAwMDJlMjA5NTFkOTI1MDc1ZDIzODhjYmRiY2YxZTU4ZTE5",
   "tracks": [
     {
       "added_at": "2022-08-26 12:00:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 190240,
+      "name": "London Boy",
+      "url": "https://open.spotify.com/track/1LLXZFeAHK9R4xUramtUKw"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "The Supremes A' Go-Go (Expanded Edition)",
         "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 189786,
       "name": "Canyon Moon",
       "url": "https://open.spotify.com/track/5IhzJOXNE7ki0IIJbZbnGq"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 190240,
-      "name": "London Boy",
-      "url": "https://open.spotify.com/track/1LLXZFeAHK9R4xUramtUKw"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 197346,
-      "name": "Treat People With Kindness",
-      "url": "https://open.spotify.com/track/03mMSLEJCPoGJwQhHpN5y0"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "I Should Coco",
         "url": "https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 189109,
       "name": "The Lazy Song",
       "url": "https://open.spotify.com/track/1ExfPZEiahqhLyajhybFeS"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 197346,
+      "name": "Treat People With Kindness",
+      "url": "https://open.spotify.com/track/03mMSLEJCPoGJwQhHpN5y0"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Mylo Xyloto",
+        "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 240796,
+      "name": "Every Teardrop Is a Waterfall",
+      "url": "https://open.spotify.com/track/2U8g9wVcUu9wsg6i7sFSv8"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "Night Shades",
         "url": "https://open.spotify.com/album/5gXDrzBIzmAhiE0dNKwy0i"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 215693,
       "name": "You Make Me Feel... (feat. Sabi)",
       "url": "https://open.spotify.com/track/16Of7eeW44kt0a1M0nitHM"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "Mylo Xyloto",
-        "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 240796,
-      "name": "Every Teardrop Is a Waterfall",
-      "url": "https://open.spotify.com/track/2U8g9wVcUu9wsg6i7sFSv8"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Rejoice",
-        "url": "https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA"
-      },
-      "artists": [
-        {
-          "name": "The Emotions",
-          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
-        }
-      ],
-      "duration_ms": 220560,
-      "name": "Best of My Love",
-      "url": "https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Come On Over",
         "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 218866,
       "name": "That Don't Impress Me Much",
       "url": "https://open.spotify.com/track/4FUfoWMypAyWbOavmYyeNu"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Rejoice",
+        "url": "https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA"
+      },
+      "artists": [
+        {
+          "name": "The Emotions",
+          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
+        }
+      ],
+      "duration_ms": 220560,
+      "name": "Best of My Love",
+      "url": "https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Dancing On The Ceiling (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 270720,
-      "name": "Dancing On The Ceiling",
-      "url": "https://open.spotify.com/track/0snPJPxkk0MbTc0xeUvAPt"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Staying at Tamara's",
         "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
       },
@@ -1343,18 +1327,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Confetti",
-        "url": "https://open.spotify.com/album/33a8Ha3pE7fo2o4T4xLabF"
+        "name": "Dancing On The Ceiling (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf"
       },
       "artists": [
         {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
         }
       ],
-      "duration_ms": 213693,
-      "name": "Sweet Melody",
-      "url": "https://open.spotify.com/track/76Tuo484SLohJakHLnGI3B"
+      "duration_ms": 270720,
+      "name": "Dancing On The Ceiling",
+      "url": "https://open.spotify.com/track/0snPJPxkk0MbTc0xeUvAPt"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1375,6 +1359,22 @@
       "duration_ms": 211362,
       "name": "Happy Now",
       "url": "https://open.spotify.com/track/14sOS5L36385FJ3OL8hew4"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Confetti",
+        "url": "https://open.spotify.com/album/33a8Ha3pE7fo2o4T4xLabF"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "duration_ms": 213693,
+      "name": "Sweet Melody",
+      "url": "https://open.spotify.com/track/76Tuo484SLohJakHLnGI3B"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1483,6 +1483,26 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Remind Me to Forget",
+        "url": "https://open.spotify.com/album/5Og1PZOwpUkL8slf11stBq"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 217286,
+      "name": "Remind Me to Forget",
+      "url": "https://open.spotify.com/track/5sIx4BlfYGuZeSLF40N9GH"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "Euphoria (Standard US/Latin version)",
         "url": "https://open.spotify.com/album/12HeDZhPHHzCe7VE0uEYwD"
       },
@@ -1539,26 +1559,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Remind Me to Forget",
-        "url": "https://open.spotify.com/album/5Og1PZOwpUkL8slf11stBq"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 217286,
-      "name": "Remind Me to Forget",
-      "url": "https://open.spotify.com/track/5sIx4BlfYGuZeSLF40N9GH"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "ABC",
         "url": "https://open.spotify.com/album/3btVhknqDeGAEd1Qj7lL57"
       },
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C"
-      },
-      "artists": [
-        {
-          "name": "Climie Fisher",
-          "url": "https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF"
-        }
-      ],
-      "duration_ms": 268186,
-      "name": "Love Changes (Everything)",
-      "url": "https://open.spotify.com/track/1y748kOQshZECWk5MddfOv"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Gold Rush Kid",
         "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 194275,
       "name": "Dance All Over Me",
       "url": "https://open.spotify.com/track/4gIDvFHsqRsniD9JngIVCL"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C"
+      },
+      "artists": [
+        {
+          "name": "Climie Fisher",
+          "url": "https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF"
+        }
+      ],
+      "duration_ms": 268186,
+      "name": "Love Changes (Everything)",
+      "url": "https://open.spotify.com/track/1y748kOQshZECWk5MddfOv"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Chapters",
+        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 221386,
+      "name": "Say Love",
+      "url": "https://open.spotify.com/track/49PVaqTTK6qn8Ku5BIR8Gt"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "Bigger Than",
         "url": "https://open.spotify.com/album/0ryzyI2FzzvGCjoysiWMW0"
       },
@@ -1871,22 +1887,6 @@
       "duration_ms": 208013,
       "name": "Bigger Than",
       "url": "https://open.spotify.com/track/5X73AYzzEE5Di0JwcQKt9N"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "Chapters",
-        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 221386,
-      "name": "Say Love",
-      "url": "https://open.spotify.com/track/49PVaqTTK6qn8Ku5BIR8Gt"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Hey! Baby (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/09YAng6bZ2wJVcL3MWVCri"
-      },
-      "artists": [
-        {
-          "name": "Bruce Channel",
-          "url": "https://open.spotify.com/artist/5Do19ow5oRPYYU46jqdkwh"
-        }
-      ],
-      "duration_ms": 143627,
-      "name": "Hey! Baby - Remastered",
-      "url": "https://open.spotify.com/track/0obIo2GEab6qqms6t3JaMY"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Invincible",
         "url": "https://open.spotify.com/album/72qAXkZ8keSUHe55hhEVQG"
       },
@@ -2023,34 +2007,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "WE ARE",
-        "url": "https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE"
+        "name": "Hey! Baby (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/09YAng6bZ2wJVcL3MWVCri"
       },
       "artists": [
         {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+          "name": "Bruce Channel",
+          "url": "https://open.spotify.com/artist/5Do19ow5oRPYYU46jqdkwh"
         }
       ],
-      "duration_ms": 178289,
-      "name": "FREEDOM",
-      "url": "https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "Sixteen",
-        "url": "https://open.spotify.com/album/5AXNN75OmMjFrwst6ExNPx"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 201072,
-      "name": "Sixteen",
-      "url": "https://open.spotify.com/track/4PkIDTPGedm0enzdvilLNd"
+      "duration_ms": 143627,
+      "name": "Hey! Baby - Remastered",
+      "url": "https://open.spotify.com/track/0obIo2GEab6qqms6t3JaMY"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2071,18 +2039,34 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "The Essential Earth, Wind & Fire",
-        "url": "https://open.spotify.com/album/75CDFLAqMl6VgmPJtaTHmg"
+        "name": "Sixteen",
+        "url": "https://open.spotify.com/album/5AXNN75OmMjFrwst6ExNPx"
       },
       "artists": [
         {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
         }
       ],
-      "duration_ms": 215080,
-      "name": "September",
-      "url": "https://open.spotify.com/track/3wpLkju0bJy89kjgdRys0j"
+      "duration_ms": 201072,
+      "name": "Sixteen",
+      "url": "https://open.spotify.com/track/4PkIDTPGedm0enzdvilLNd"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "WE ARE",
+        "url": "https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 178289,
+      "name": "FREEDOM",
+      "url": "https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2099,6 +2083,22 @@
       "duration_ms": 258560,
       "name": "Shy Guy",
       "url": "https://open.spotify.com/track/3ldG6XCLDXxWg1N6XhrSKo"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "The Essential Earth, Wind & Fire",
+        "url": "https://open.spotify.com/album/75CDFLAqMl6VgmPJtaTHmg"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 215080,
+      "name": "September",
+      "url": "https://open.spotify.com/track/3wpLkju0bJy89kjgdRys0j"
     },
     {
       "added_at": "2022-08-26 12:00:00",

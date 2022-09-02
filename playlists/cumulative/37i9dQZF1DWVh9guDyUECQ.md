@@ -4,7 +4,7 @@
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Vaes
 
-315 songs - 18 hr 33 min - [published](https://open.spotify.com/playlist/6c2GnXTfpCe6c4SEH9u1bm)
+316 songs - 18 hr 37 min - [published](https://open.spotify.com/playlist/6c2GnXTfpCe6c4SEH9u1bm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Guíame](https://open.spotify.com/track/11iSxK5GHFhq2mgKMJStGs) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [Guíame](https://open.spotify.com/album/6OVSRwTmVqFaYZyqsNgklT) | 3:23 | 2022-08-27 |  |
 | [Hablan y Hablan](https://open.spotify.com/track/5p61XRUgkdMrKslLpOSuw5) | [La Reforma](https://open.spotify.com/artist/509gHoIVkSYOOWxcpKyfRf) | [La Resistencia](https://open.spotify.com/album/1gmwW8Krx4WZQSHwu2XtL6) | 3:17 | 2021-11-05 | 2022-03-02 |
 | [Haremos](https://open.spotify.com/track/3lNGZ37M86ikm5kkEtVlID) | [Jhoni The Voice](https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl) | [Jhoni](https://open.spotify.com/album/0ZOO5oBb4wmvXa4yPaRVfr) | 3:21 | 2021-11-05 | 2022-04-18 |
+| [Hasta La Eternidad](https://open.spotify.com/track/16oxOGkjLHON4PReY2q44e) | [Sion Nación Santa](https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db), [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh) | [Hasta La Eternidad](https://open.spotify.com/album/53dywng9hTIkHvljhNavG2) | 4:12 | 2022-08-27 |  |
 | [Hay Algo](https://open.spotify.com/track/6VtJzFeqa6OGp9ayDwWQxp) | [El Philippe](https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1) | [Dios, Familia & Rap](https://open.spotify.com/album/1lue6TfOPJ4qL1EXkQ2Kne) | 4:05 | 2022-04-17 |  |
 | [His Will > Mine](https://open.spotify.com/track/6bDQdwXEsVXX72kOiUSEKA) | [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [His Will > Mine](https://open.spotify.com/album/1YCZMAs3j2nkPiicRUQC15) | 1:51 | 2022-04-17 | 2022-08-28 |
 | [Hogar](https://open.spotify.com/track/24d1PUMgPVEoDyvJqjPKCk) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI) | [Home](https://open.spotify.com/album/2IQJg6KzupWW0n60NT6wSO) | 3:21 | 2021-11-05 | 2022-03-15 |
@@ -167,7 +168,7 @@
 | [Memoria](https://open.spotify.com/track/1GHsomI2FA0uTisZwUccd5) | [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR) | [Memoria](https://open.spotify.com/album/3NS0k92g00iLsABc1dvY8i) | 3:08 | 2021-11-05 | 2022-04-18 |
 | [Mi Cielo](https://open.spotify.com/track/53tX3nRjwvi8TvyEMW755d) | [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR) | [Mi Cielo](https://open.spotify.com/album/5D4GmyyaF6KhL0rjJWzuM6) | 3:18 | 2022-04-17 |  |
 | [Mi Entrenador](https://open.spotify.com/track/3fBRK9zXvruN6etffZMP31) | [KEFFA](https://open.spotify.com/artist/2RymKL3YAUb6091hLu8yw9), [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe) | [Mi Entrenador](https://open.spotify.com/album/48uz8wzPvxy3Sea9U7hHhK) | 2:58 | 2022-04-17 |  |
-| [Mi Entrenador \- Remix](https://open.spotify.com/track/32HTl6X5wGDGb1zEoZpGtG) | [KEFFA](https://open.spotify.com/artist/2RymKL3YAUb6091hLu8yw9), [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe), [Práctiko](https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA), [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd) | [Mi Entrenador \(Remix\)](https://open.spotify.com/album/4MYCWG4EpaqMJobtEVXSHp) | 3:36 | 2022-04-17 |  |
+| [Mi Entrenador \- Remix](https://open.spotify.com/track/32HTl6X5wGDGb1zEoZpGtG) | [KEFFA](https://open.spotify.com/artist/2RymKL3YAUb6091hLu8yw9), [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe), [Práctiko](https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA), [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd) | [Mi Entrenador \(Remix\)](https://open.spotify.com/album/4MYCWG4EpaqMJobtEVXSHp) | 3:36 | 2022-04-17 | 2022-09-02 |
 | [Mi Primer Amor](https://open.spotify.com/track/2RNHVytRWQfVpTmG7MG6yj) | [Jadi Torres](https://open.spotify.com/artist/2qK5GWkN7jKSM5GOAzD564) | [Mi Primer Amor](https://open.spotify.com/album/4PB8f2SQlDuloa0j5TRe7A) | 3:36 | 2021-11-05 | 2022-04-18 |
 | [Mi Sustento](https://open.spotify.com/track/2iLeyeOX1UEBPnNbUrPFVn) | [El Philippe](https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Espiritu Libre](https://open.spotify.com/album/6lh4r6awjd0rNeIvzdhJ2k) | 3:18 | 2021-11-05 | 2022-04-18 |
 | [Milagro en Mi Boca](https://open.spotify.com/track/3k0mAJoauOdW1Ku9LfXt5X) | [Smikar & Grace](https://open.spotify.com/artist/7rydi1ILj1qaPseyfD7The), [Alex Linares](https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT) | [Milagro en Mi Boca](https://open.spotify.com/album/5F4TMIqeiRxphIIw93En5Z) | 2:55 | 2021-11-05 | 2022-03-14 |

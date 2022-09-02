@@ -1,13 +1,45 @@
 {
   "description": "Maskandi favourites for every day of the week. Cover: <a href=\"https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP?si=1cAhcaANREyS-wXav9tJWA\">Phuzekhemisi</a>",
-  "num_followers": 15187,
+  "num_followers": 15211,
   "original_name": "Maskandi Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNDAyMjI2MSwwMDAwMDAwMGYzNWJmZmY5MjNlODQ3NjZkNTIzM2Q3YmEwYmRhY2E1",
+  "snapshot_id": "MTY2MjA2OTU0MCwwMDAwMDAwMDU5MzQ1ZTgwZDhhNzU5MTczZGNhODg2ZjBjYmFjZmVm",
   "tracks": [
+    {
+      "added_at": "2022-09-01 21:59:00",
+      "album": {
+        "name": "Intencane",
+        "url": "https://open.spotify.com/album/7doGg6TOO86pTXiyploISV"
+      },
+      "artists": [
+        {
+          "name": "Menzi",
+          "url": "https://open.spotify.com/artist/0PIYUjDZszDZSZGLhYvmyZ"
+        }
+      ],
+      "duration_ms": 252263,
+      "name": "Intencane",
+      "url": "https://open.spotify.com/track/0BYurynEYtSmwyuAMX07KR"
+    },
+    {
+      "added_at": "2018-09-25 06:39:13",
+      "album": {
+        "name": "Greatest Moments Of",
+        "url": "https://open.spotify.com/album/0nLOqOS3t7akMp44aTzqIj"
+      },
+      "artists": [
+        {
+          "name": "Shwi No Mtekhala",
+          "url": "https://open.spotify.com/artist/0hqM2qppNBOvYYQ36FsdBq"
+        }
+      ],
+      "duration_ms": 360853,
+      "name": "Ngafa",
+      "url": "https://open.spotify.com/track/4OntDavbpxbLk80nXlw7WR"
+    },
     {
       "added_at": "2021-10-12 07:04:21",
       "album": {
@@ -23,22 +55,6 @@
       "duration_ms": 260230,
       "name": "Asifani siyafanelana",
       "url": "https://open.spotify.com/track/61rcqq5Z6GSjVyhuFAMbiw"
-    },
-    {
-      "added_at": "2020-01-07 10:23:47",
-      "album": {
-        "name": "Uboya Enkomeni",
-        "url": "https://open.spotify.com/album/1PRhgX3Vv4TjqHUWG6R5eh"
-      },
-      "artists": [
-        {
-          "name": "Ntencane",
-          "url": "https://open.spotify.com/artist/3PKVcK4wKrfPi7qDz1odsV"
-        }
-      ],
-      "duration_ms": 307757,
-      "name": "Wawuthembeni",
-      "url": "https://open.spotify.com/track/4lbJb7VVOGShkgblw8YUiY"
     },
     {
       "added_at": "2021-01-14 08:53:58",
@@ -61,6 +77,22 @@
       "url": "https://open.spotify.com/track/2OYomh3wz8TWpfnQKxua2F"
     },
     {
+      "added_at": "2020-01-07 10:23:47",
+      "album": {
+        "name": "Uboya Enkomeni",
+        "url": "https://open.spotify.com/album/1PRhgX3Vv4TjqHUWG6R5eh"
+      },
+      "artists": [
+        {
+          "name": "Ntencane",
+          "url": "https://open.spotify.com/artist/3PKVcK4wKrfPi7qDz1odsV"
+        }
+      ],
+      "duration_ms": 307757,
+      "name": "Wawuthembeni",
+      "url": "https://open.spotify.com/track/4lbJb7VVOGShkgblw8YUiY"
+    },
+    {
       "added_at": "2018-09-25 06:39:13",
       "album": {
         "name": "Greatest Moments Of",
@@ -72,9 +104,9 @@
           "url": "https://open.spotify.com/artist/0hqM2qppNBOvYYQ36FsdBq"
         }
       ],
-      "duration_ms": 360853,
-      "name": "Ngafa",
-      "url": "https://open.spotify.com/track/4OntDavbpxbLk80nXlw7WR"
+      "duration_ms": 338293,
+      "name": "Wangisiza Baba",
+      "url": "https://open.spotify.com/track/5NS3OiNTauGUA5S3jsJHwL"
     },
     {
       "added_at": "2021-10-12 07:04:21",
@@ -111,22 +143,6 @@
     {
       "added_at": "2018-09-25 06:39:13",
       "album": {
-        "name": "Greatest Moments Of",
-        "url": "https://open.spotify.com/album/0nLOqOS3t7akMp44aTzqIj"
-      },
-      "artists": [
-        {
-          "name": "Shwi No Mtekhala",
-          "url": "https://open.spotify.com/artist/0hqM2qppNBOvYYQ36FsdBq"
-        }
-      ],
-      "duration_ms": 338293,
-      "name": "Wangisiza Baba",
-      "url": "https://open.spotify.com/track/5NS3OiNTauGUA5S3jsJHwL"
-    },
-    {
-      "added_at": "2018-09-25 06:39:13",
-      "album": {
         "name": "Obama",
         "url": "https://open.spotify.com/album/7AMJ6O9ZYdfTO1dcHVuqit"
       },
@@ -139,6 +155,22 @@
       "duration_ms": 290346,
       "name": "Sivimbe Ngezansi",
       "url": "https://open.spotify.com/track/4bsPPar6qAk3a920nvHeT5"
+    },
+    {
+      "added_at": "2019-05-13 08:20:12",
+      "album": {
+        "name": "I Magic",
+        "url": "https://open.spotify.com/album/4DR2LkB4JWkcT5ZBaqRgSN"
+      },
+      "artists": [
+        {
+          "name": "Umgqumeni",
+          "url": "https://open.spotify.com/artist/4nMTRK9u7Zt9lKCPnF06zB"
+        }
+      ],
+      "duration_ms": 259933,
+      "name": "Sakhala Kamnandi",
+      "url": "https://open.spotify.com/track/10FGIW76glXqbxi6gSOxwJ"
     },
     {
       "added_at": "2019-06-24 07:46:52",
@@ -177,6 +209,22 @@
       "url": "https://open.spotify.com/track/5T2V2jA4cPulYnMT5SUETu"
     },
     {
+      "added_at": "2022-09-01 21:59:00",
+      "album": {
+        "name": "Intencane",
+        "url": "https://open.spotify.com/album/7doGg6TOO86pTXiyploISV"
+      },
+      "artists": [
+        {
+          "name": "Menzi",
+          "url": "https://open.spotify.com/artist/0PIYUjDZszDZSZGLhYvmyZ"
+        }
+      ],
+      "duration_ms": 231911,
+      "name": "Eshu Wesokalami",
+      "url": "https://open.spotify.com/track/6UFkLF40TBGfVFry7LXSxJ"
+    },
+    {
       "added_at": "2018-09-25 06:39:13",
       "album": {
         "name": "Asekhon' Amalahle ?",
@@ -193,22 +241,6 @@
       "url": "https://open.spotify.com/track/6IYiXBVJ6JieWediZllERf"
     },
     {
-      "added_at": "2019-05-13 08:20:12",
-      "album": {
-        "name": "I Magic",
-        "url": "https://open.spotify.com/album/4DR2LkB4JWkcT5ZBaqRgSN"
-      },
-      "artists": [
-        {
-          "name": "Umgqumeni",
-          "url": "https://open.spotify.com/artist/4nMTRK9u7Zt9lKCPnF06zB"
-        }
-      ],
-      "duration_ms": 259933,
-      "name": "Sakhala Kamnandi",
-      "url": "https://open.spotify.com/track/10FGIW76glXqbxi6gSOxwJ"
-    },
-    {
       "added_at": "2018-09-25 06:39:13",
       "album": {
         "name": "Khula Tshitshi Lami",
@@ -223,6 +255,26 @@
       "duration_ms": 261101,
       "name": "Khula Tshitshi Lami",
       "url": "https://open.spotify.com/track/7agl8aVojrFx0QofzcLoka"
+    },
+    {
+      "added_at": "2022-09-01 21:59:00",
+      "album": {
+        "name": "Ispoki Esingafi",
+        "url": "https://open.spotify.com/album/3riM8V5qRqXKn09JuWHcAu"
+      },
+      "artists": [
+        {
+          "name": "Khuzani",
+          "url": "https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs"
+        },
+        {
+          "name": "Sphesihle Zulu",
+          "url": "https://open.spotify.com/artist/2Q87XMh9dkkI1FOG9uCeCG"
+        }
+      ],
+      "duration_ms": 306247,
+      "name": "Ubhuti Wabantu",
+      "url": "https://open.spotify.com/track/30hNrNo7QjfXkwKT3AvNPU"
     },
     {
       "added_at": "2019-01-06 10:29:13",
@@ -297,22 +349,6 @@
       "url": "https://open.spotify.com/track/2w9BuLVCyEYDKnrCCeYxMy"
     },
     {
-      "added_at": "2018-09-25 06:39:13",
-      "album": {
-        "name": "Imbizo",
-        "url": "https://open.spotify.com/album/33HOA4xP6hyXlm1CcUy5Ce"
-      },
-      "artists": [
-        {
-          "name": "Phuzekhemisi No Khethani",
-          "url": "https://open.spotify.com/artist/6bhmRXAWbMM1oYuoSNCR1f"
-        }
-      ],
-      "duration_ms": 238026,
-      "name": "Imbizo",
-      "url": "https://open.spotify.com/track/5rd1OgQZU0TcRndLFOYECO"
-    },
-    {
       "added_at": "2019-06-11 10:32:40",
       "album": {
         "name": "Bawucisha ngo paraffin",
@@ -339,18 +375,18 @@
     {
       "added_at": "2018-09-25 06:39:13",
       "album": {
-        "name": "Angiseyona Itype Yakho",
-        "url": "https://open.spotify.com/album/4N6uYvCf4TgK5kAopt1RqQ"
+        "name": "Imbizo",
+        "url": "https://open.spotify.com/album/33HOA4xP6hyXlm1CcUy5Ce"
       },
       "artists": [
         {
-          "name": "Bobo Mfana Wepiki",
-          "url": "https://open.spotify.com/artist/6kcl74RDRgeHTx1Dj07NQt"
+          "name": "Phuzekhemisi No Khethani",
+          "url": "https://open.spotify.com/artist/6bhmRXAWbMM1oYuoSNCR1f"
         }
       ],
-      "duration_ms": 363206,
-      "name": "Impi Yomndeni",
-      "url": "https://open.spotify.com/track/7ag6ASRzcuWXamzvNEXQzL"
+      "duration_ms": 238026,
+      "name": "Imbizo",
+      "url": "https://open.spotify.com/track/5rd1OgQZU0TcRndLFOYECO"
     },
     {
       "added_at": "2018-09-25 06:39:13",
@@ -367,22 +403,6 @@
       "duration_ms": 250546,
       "name": "Thuma Mina Baba",
       "url": "https://open.spotify.com/track/1fbiyYNG1LfWyTksDcgEEH"
-    },
-    {
-      "added_at": "2018-11-04 07:40:13",
-      "album": {
-        "name": "Inhlinini Yoxolo",
-        "url": "https://open.spotify.com/album/2gkiXVfyva2aEfJiiRbQry"
-      },
-      "artists": [
-        {
-          "name": "Khuzani",
-          "url": "https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs"
-        }
-      ],
-      "duration_ms": 269160,
-      "name": "Ishende",
-      "url": "https://open.spotify.com/track/4gbkKnzwQdS7dEv5lWHVQO"
     },
     {
       "added_at": "2018-09-25 06:39:13",
@@ -403,6 +423,70 @@
     {
       "added_at": "2018-09-25 06:39:13",
       "album": {
+        "name": "Angiseyona Itype Yakho",
+        "url": "https://open.spotify.com/album/4N6uYvCf4TgK5kAopt1RqQ"
+      },
+      "artists": [
+        {
+          "name": "Bobo Mfana Wepiki",
+          "url": "https://open.spotify.com/artist/6kcl74RDRgeHTx1Dj07NQt"
+        }
+      ],
+      "duration_ms": 363206,
+      "name": "Impi Yomndeni",
+      "url": "https://open.spotify.com/track/7ag6ASRzcuWXamzvNEXQzL"
+    },
+    {
+      "added_at": "2018-11-04 07:40:13",
+      "album": {
+        "name": "Inhlinini Yoxolo",
+        "url": "https://open.spotify.com/album/2gkiXVfyva2aEfJiiRbQry"
+      },
+      "artists": [
+        {
+          "name": "Khuzani",
+          "url": "https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs"
+        }
+      ],
+      "duration_ms": 269160,
+      "name": "Ishende",
+      "url": "https://open.spotify.com/track/4gbkKnzwQdS7dEv5lWHVQO"
+    },
+    {
+      "added_at": "2018-11-04 07:40:13",
+      "album": {
+        "name": "Msholozi",
+        "url": "https://open.spotify.com/album/6E93uMai7s84xFzTux1dp9"
+      },
+      "artists": [
+        {
+          "name": "IZINGANE ZOMA",
+          "url": "https://open.spotify.com/artist/1fa6d4xSwQWEhmp0MwKw61"
+        }
+      ],
+      "duration_ms": 288106,
+      "name": "Msholozi",
+      "url": "https://open.spotify.com/track/2IkkJ4hwWJ3mCMlsqIRX5W"
+    },
+    {
+      "added_at": "2020-01-13 13:26:07",
+      "album": {
+        "name": "Inhloko Nes'xhanti",
+        "url": "https://open.spotify.com/album/6uKsbOxDnGwYTfdVp2qIuP"
+      },
+      "artists": [
+        {
+          "name": "Khuzani",
+          "url": "https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs"
+        }
+      ],
+      "duration_ms": 220573,
+      "name": "Isilingo",
+      "url": "https://open.spotify.com/track/5Df0fXk01kB3ZgVPg3uwmk"
+    },
+    {
+      "added_at": "2018-09-25 06:39:13",
+      "album": {
         "name": "Sthanda Ifamily",
         "url": "https://open.spotify.com/album/5XtEpbp6vPy9a1RvpNTsb8"
       },
@@ -415,6 +499,22 @@
       "duration_ms": 343386,
       "name": "Angilazi Icala",
       "url": "https://open.spotify.com/track/1SgLVnJlhycOrTQHWbeBKa"
+    },
+    {
+      "added_at": "2018-09-25 06:39:13",
+      "album": {
+        "name": "Maskandi Greats Vol.1",
+        "url": "https://open.spotify.com/album/3GzuoeKRn8eQF0KAR0N4o6"
+      },
+      "artists": [
+        {
+          "name": "Mtshengiseni",
+          "url": "https://open.spotify.com/artist/0b7Ds3CZPJOmh8hqOq9md4"
+        }
+      ],
+      "duration_ms": 412773,
+      "name": "Diona x5",
+      "url": "https://open.spotify.com/track/2PQl2BRgemS4sFZTFS703p"
     },
     {
       "added_at": "2018-12-18 05:40:48",
@@ -431,6 +531,86 @@
       "duration_ms": 355986,
       "name": "Wayimema",
       "url": "https://open.spotify.com/track/3o3kejg8G9xg5jTYuzNpCv"
+    },
+    {
+      "added_at": "2019-06-11 10:37:29",
+      "album": {
+        "name": "Sishaya Kwasani",
+        "url": "https://open.spotify.com/album/6obk82RMxEzugUBJJTRbhH"
+      },
+      "artists": [
+        {
+          "name": "Amageza Amahle",
+          "url": "https://open.spotify.com/artist/3aQFd89lMBxu1RRBIrxPdv"
+        }
+      ],
+      "duration_ms": 436920,
+      "name": "Shintsh' Umshovo",
+      "url": "https://open.spotify.com/track/1Usa9hOXDsWKC7WTMlaQW9"
+    },
+    {
+      "added_at": "2020-10-20 13:41:30",
+      "album": {
+        "name": "EYOKUZA",
+        "url": "https://open.spotify.com/album/65vZAeZNfrcfztUfYuyoWS"
+      },
+      "artists": [
+        {
+          "name": "Mzukulu",
+          "url": "https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3"
+        }
+      ],
+      "duration_ms": 271699,
+      "name": "Eyokuza",
+      "url": "https://open.spotify.com/track/6gJVTJap7XXAPY3qJKoAY4"
+    },
+    {
+      "added_at": "2018-09-25 06:39:13",
+      "album": {
+        "name": "Ngiyashisa Bhe!!",
+        "url": "https://open.spotify.com/album/2XndIgHBdfGrQbU8qdBsdT"
+      },
+      "artists": [
+        {
+          "name": "Mfaz' Omnyama",
+          "url": "https://open.spotify.com/artist/0JQAeDYaigl5nor0kUP44X"
+        }
+      ],
+      "duration_ms": 294426,
+      "name": "Onke Lamadoda",
+      "url": "https://open.spotify.com/track/49x1RPNz0y4dhKxRVwTlRT"
+    },
+    {
+      "added_at": "2018-11-18 04:59:05",
+      "album": {
+        "name": "Imali Yesoso",
+        "url": "https://open.spotify.com/album/1Vvgd9KgV5hQZKXLDLfGBc"
+      },
+      "artists": [
+        {
+          "name": "Ichwane Lebhaca",
+          "url": "https://open.spotify.com/artist/6dUPVcKOAhdgjkmgDwy6uh"
+        }
+      ],
+      "duration_ms": 307933,
+      "name": "Imali Yesoso",
+      "url": "https://open.spotify.com/track/28ZztKoH4iovdVamlbNEPR"
+    },
+    {
+      "added_at": "2018-09-25 06:39:13",
+      "album": {
+        "name": "Izihlwele",
+        "url": "https://open.spotify.com/album/5LAxoXLEgCyptZpryTXcSs"
+      },
+      "artists": [
+        {
+          "name": "Bahubhe",
+          "url": "https://open.spotify.com/artist/2pisTvrJlAr0NTxvXOuLOv"
+        }
+      ],
+      "duration_ms": 300973,
+      "name": "Izihlwele",
+      "url": "https://open.spotify.com/track/6iFCyBOk9UTRNgb7Oz2oKg"
     },
     {
       "added_at": "2018-09-25 06:39:13",
@@ -455,146 +635,18 @@
     {
       "added_at": "2018-09-25 06:39:13",
       "album": {
-        "name": "Maskandi Greats Vol.1",
-        "url": "https://open.spotify.com/album/3GzuoeKRn8eQF0KAR0N4o6"
+        "name": "Gospel Hits",
+        "url": "https://open.spotify.com/album/2kT2AwbhhzjQ6AlvBXo936"
       },
       "artists": [
         {
-          "name": "Mtshengiseni",
-          "url": "https://open.spotify.com/artist/0b7Ds3CZPJOmh8hqOq9md4"
+          "name": "Bhekumuzi Luthuli",
+          "url": "https://open.spotify.com/artist/2olZnrkMJFY0BnGZM7vWMV"
         }
       ],
-      "duration_ms": 412773,
-      "name": "Diona x5",
-      "url": "https://open.spotify.com/track/2PQl2BRgemS4sFZTFS703p"
-    },
-    {
-      "added_at": "2018-11-18 04:59:05",
-      "album": {
-        "name": "Imali Yesoso",
-        "url": "https://open.spotify.com/album/1Vvgd9KgV5hQZKXLDLfGBc"
-      },
-      "artists": [
-        {
-          "name": "Ichwane Lebhaca",
-          "url": "https://open.spotify.com/artist/6dUPVcKOAhdgjkmgDwy6uh"
-        }
-      ],
-      "duration_ms": 307933,
-      "name": "Imali Yesoso",
-      "url": "https://open.spotify.com/track/28ZztKoH4iovdVamlbNEPR"
-    },
-    {
-      "added_at": "2020-10-20 13:41:30",
-      "album": {
-        "name": "EYOKUZA",
-        "url": "https://open.spotify.com/album/65vZAeZNfrcfztUfYuyoWS"
-      },
-      "artists": [
-        {
-          "name": "Mzukulu",
-          "url": "https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3"
-        }
-      ],
-      "duration_ms": 271699,
-      "name": "Eyokuza",
-      "url": "https://open.spotify.com/track/6gJVTJap7XXAPY3qJKoAY4"
-    },
-    {
-      "added_at": "2020-01-13 13:26:07",
-      "album": {
-        "name": "Inhloko Nes'xhanti",
-        "url": "https://open.spotify.com/album/6uKsbOxDnGwYTfdVp2qIuP"
-      },
-      "artists": [
-        {
-          "name": "Khuzani",
-          "url": "https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs"
-        }
-      ],
-      "duration_ms": 220573,
-      "name": "Isilingo",
-      "url": "https://open.spotify.com/track/5Df0fXk01kB3ZgVPg3uwmk"
-    },
-    {
-      "added_at": "2019-06-11 10:37:29",
-      "album": {
-        "name": "Sishaya Kwasani",
-        "url": "https://open.spotify.com/album/6obk82RMxEzugUBJJTRbhH"
-      },
-      "artists": [
-        {
-          "name": "Amageza Amahle",
-          "url": "https://open.spotify.com/artist/3aQFd89lMBxu1RRBIrxPdv"
-        }
-      ],
-      "duration_ms": 436920,
-      "name": "Shintsh' Umshovo",
-      "url": "https://open.spotify.com/track/1Usa9hOXDsWKC7WTMlaQW9"
-    },
-    {
-      "added_at": "2019-07-24 07:02:23",
-      "album": {
-        "name": "Ama Waza Waza",
-        "url": "https://open.spotify.com/album/4Zk0C73QlrRFq7hLjJIXtS"
-      },
-      "artists": [
-        {
-          "name": "Ihhashi Elimhlophe",
-          "url": "https://open.spotify.com/artist/4eSUGwpQXyQh2Qb09oCs21"
-        }
-      ],
-      "duration_ms": 277226,
-      "name": "Ama Waza Waza",
-      "url": "https://open.spotify.com/track/0pMQpMdOKYX5IW60f8xlKO"
-    },
-    {
-      "added_at": "2020-08-28 06:08:10",
-      "album": {
-        "name": "Amagupta",
-        "url": "https://open.spotify.com/album/4faFI6JoeU4nCK89d8Ul0b"
-      },
-      "artists": [
-        {
-          "name": "Ichwane Lebhaca",
-          "url": "https://open.spotify.com/artist/6dUPVcKOAhdgjkmgDwy6uh"
-        }
-      ],
-      "duration_ms": 296093,
-      "name": "Inkomo Yomqoyiso",
-      "url": "https://open.spotify.com/track/0duUpsKlfu6RNHWH5q0diF"
-    },
-    {
-      "added_at": "2018-11-04 07:40:13",
-      "album": {
-        "name": "Msholozi",
-        "url": "https://open.spotify.com/album/6E93uMai7s84xFzTux1dp9"
-      },
-      "artists": [
-        {
-          "name": "IZINGANE ZOMA",
-          "url": "https://open.spotify.com/artist/1fa6d4xSwQWEhmp0MwKw61"
-        }
-      ],
-      "duration_ms": 288106,
-      "name": "Msholozi",
-      "url": "https://open.spotify.com/track/2IkkJ4hwWJ3mCMlsqIRX5W"
-    },
-    {
-      "added_at": "2018-09-25 06:39:13",
-      "album": {
-        "name": "Izihlwele",
-        "url": "https://open.spotify.com/album/5LAxoXLEgCyptZpryTXcSs"
-      },
-      "artists": [
-        {
-          "name": "Bahubhe",
-          "url": "https://open.spotify.com/artist/2pisTvrJlAr0NTxvXOuLOv"
-        }
-      ],
-      "duration_ms": 300973,
-      "name": "Izihlwele",
-      "url": "https://open.spotify.com/track/6iFCyBOk9UTRNgb7Oz2oKg"
+      "duration_ms": 265973,
+      "name": "Endumisweni",
+      "url": "https://open.spotify.com/track/1UGcDqgMa0H0p8vODceY86"
     },
     {
       "added_at": "2018-09-25 06:39:13",
@@ -615,22 +667,6 @@
     {
       "added_at": "2018-09-25 06:39:13",
       "album": {
-        "name": "Gospel Hits",
-        "url": "https://open.spotify.com/album/2kT2AwbhhzjQ6AlvBXo936"
-      },
-      "artists": [
-        {
-          "name": "Bhekumuzi Luthuli",
-          "url": "https://open.spotify.com/artist/2olZnrkMJFY0BnGZM7vWMV"
-        }
-      ],
-      "duration_ms": 265973,
-      "name": "Endumisweni",
-      "url": "https://open.spotify.com/track/1UGcDqgMa0H0p8vODceY86"
-    },
-    {
-      "added_at": "2018-09-25 06:39:13",
-      "album": {
         "name": "Angiseyona Itype Yakho",
         "url": "https://open.spotify.com/album/4N6uYvCf4TgK5kAopt1RqQ"
       },
@@ -643,38 +679,6 @@
       "duration_ms": 340976,
       "name": "Ukuthanda Izinto",
       "url": "https://open.spotify.com/track/2DqL1bQTQVvVDnT16iQq7z"
-    },
-    {
-      "added_at": "2018-09-25 06:39:13",
-      "album": {
-        "name": "Ngiyashisa Bhe!!",
-        "url": "https://open.spotify.com/album/2XndIgHBdfGrQbU8qdBsdT"
-      },
-      "artists": [
-        {
-          "name": "Mfaz' Omnyama",
-          "url": "https://open.spotify.com/artist/0JQAeDYaigl5nor0kUP44X"
-        }
-      ],
-      "duration_ms": 294426,
-      "name": "Onke Lamadoda",
-      "url": "https://open.spotify.com/track/49x1RPNz0y4dhKxRVwTlRT"
-    },
-    {
-      "added_at": "2018-11-04 07:40:13",
-      "album": {
-        "name": "Ngiyashisa Bhe!!",
-        "url": "https://open.spotify.com/album/0HGeXxPm0xeqMorXQXSczL"
-      },
-      "artists": [
-        {
-          "name": "Mfaz' Omnyama",
-          "url": "https://open.spotify.com/artist/0JQAeDYaigl5nor0kUP44X"
-        }
-      ],
-      "duration_ms": 294706,
-      "name": "Ukuganwa",
-      "url": "https://open.spotify.com/track/3KagxTKp5nodR1hUIHardA"
     },
     {
       "added_at": "2019-11-18 07:20:48",
@@ -709,20 +713,36 @@
       "url": "https://open.spotify.com/track/6eAkUwh6sgNnGOtHXZOt1j"
     },
     {
-      "added_at": "2018-09-25 06:39:13",
+      "added_at": "2020-08-28 06:08:10",
       "album": {
-        "name": "Inunu Engafi",
-        "url": "https://open.spotify.com/album/1eWFVrvhJw2B87pKyGdl4k"
+        "name": "Amagupta",
+        "url": "https://open.spotify.com/album/4faFI6JoeU4nCK89d8Ul0b"
       },
       "artists": [
         {
-          "name": "Abagqobhi",
-          "url": "https://open.spotify.com/artist/7eigkjZtpAoOSfWfif1qxK"
+          "name": "Ichwane Lebhaca",
+          "url": "https://open.spotify.com/artist/6dUPVcKOAhdgjkmgDwy6uh"
         }
       ],
-      "duration_ms": 287906,
-      "name": "Ikhotha Eyikhothayo",
-      "url": "https://open.spotify.com/track/3NMCy2Oi6rNDeddoxCTqnM"
+      "duration_ms": 296093,
+      "name": "Inkomo Yomqoyiso",
+      "url": "https://open.spotify.com/track/0duUpsKlfu6RNHWH5q0diF"
+    },
+    {
+      "added_at": "2018-09-25 06:39:13",
+      "album": {
+        "name": "Izwe Lihle Ngabantu",
+        "url": "https://open.spotify.com/album/5RFD1wyMiFxwFTqxs9UX0i"
+      },
+      "artists": [
+        {
+          "name": "Mfiliseni Magubane",
+          "url": "https://open.spotify.com/artist/3b9PzSL6PxZRA6k4Dqmajs"
+        }
+      ],
+      "duration_ms": 285240,
+      "name": "Thenjiwe",
+      "url": "https://open.spotify.com/track/75aBCMT86TKSlEgpIz1tT9"
     },
     {
       "added_at": "2018-09-25 06:39:13",
@@ -749,6 +769,70 @@
       "url": "https://open.spotify.com/track/5uaLKLMsJmVyqDQuOEBDTI"
     },
     {
+      "added_at": "2019-07-24 07:02:23",
+      "album": {
+        "name": "Ama Waza Waza",
+        "url": "https://open.spotify.com/album/4Zk0C73QlrRFq7hLjJIXtS"
+      },
+      "artists": [
+        {
+          "name": "Ihhashi Elimhlophe",
+          "url": "https://open.spotify.com/artist/4eSUGwpQXyQh2Qb09oCs21"
+        }
+      ],
+      "duration_ms": 277226,
+      "name": "Ama Waza Waza",
+      "url": "https://open.spotify.com/track/0pMQpMdOKYX5IW60f8xlKO"
+    },
+    {
+      "added_at": "2018-11-04 07:40:13",
+      "album": {
+        "name": "Ngiyashisa Bhe!!",
+        "url": "https://open.spotify.com/album/0HGeXxPm0xeqMorXQXSczL"
+      },
+      "artists": [
+        {
+          "name": "Mfaz' Omnyama",
+          "url": "https://open.spotify.com/artist/0JQAeDYaigl5nor0kUP44X"
+        }
+      ],
+      "duration_ms": 294706,
+      "name": "Ukuganwa",
+      "url": "https://open.spotify.com/track/3KagxTKp5nodR1hUIHardA"
+    },
+    {
+      "added_at": "2022-09-01 21:59:00",
+      "album": {
+        "name": "Msholozi",
+        "url": "https://open.spotify.com/album/6E93uMai7s84xFzTux1dp9"
+      },
+      "artists": [
+        {
+          "name": "IZINGANE ZOMA",
+          "url": "https://open.spotify.com/artist/1fa6d4xSwQWEhmp0MwKw61"
+        }
+      ],
+      "duration_ms": 260666,
+      "name": "Isifebe Sendoda",
+      "url": "https://open.spotify.com/track/6KHZvYCSRscmHSixg8cs26"
+    },
+    {
+      "added_at": "2018-09-25 06:39:13",
+      "album": {
+        "name": "Bayede Zulu",
+        "url": "https://open.spotify.com/album/0xW1FZv5b6GM6hixos2FDu"
+      },
+      "artists": [
+        {
+          "name": "Phuzekhemisi",
+          "url": "https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP"
+        }
+      ],
+      "duration_ms": 251560,
+      "name": "Imikhuba",
+      "url": "https://open.spotify.com/track/26ShN8gJb3wLqgLAA9dUSD"
+    },
+    {
       "added_at": "2020-08-28 06:08:10",
       "album": {
         "name": "Sikhokha Njalo",
@@ -763,22 +847,6 @@
       "duration_ms": 257754,
       "name": "Sikhokha Njalo",
       "url": "https://open.spotify.com/track/4DtXsMWFsOxsWgldeXiavB"
-    },
-    {
-      "added_at": "2018-09-25 06:39:13",
-      "album": {
-        "name": "Izwe Lihle Ngabantu",
-        "url": "https://open.spotify.com/album/5RFD1wyMiFxwFTqxs9UX0i"
-      },
-      "artists": [
-        {
-          "name": "Mfiliseni Magubane",
-          "url": "https://open.spotify.com/artist/3b9PzSL6PxZRA6k4Dqmajs"
-        }
-      ],
-      "duration_ms": 285240,
-      "name": "Thenjiwe",
-      "url": "https://open.spotify.com/track/75aBCMT86TKSlEgpIz1tT9"
     },
     {
       "added_at": "2019-05-02 06:33:33",
@@ -799,18 +867,18 @@
     {
       "added_at": "2018-09-25 06:39:13",
       "album": {
-        "name": "Bayede Zulu",
-        "url": "https://open.spotify.com/album/0xW1FZv5b6GM6hixos2FDu"
+        "name": "Inunu Engafi",
+        "url": "https://open.spotify.com/album/1eWFVrvhJw2B87pKyGdl4k"
       },
       "artists": [
         {
-          "name": "Phuzekhemisi",
-          "url": "https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP"
+          "name": "Abagqobhi",
+          "url": "https://open.spotify.com/artist/7eigkjZtpAoOSfWfif1qxK"
         }
       ],
-      "duration_ms": 251560,
-      "name": "Imikhuba",
-      "url": "https://open.spotify.com/track/26ShN8gJb3wLqgLAA9dUSD"
+      "duration_ms": 287906,
+      "name": "Ikhotha Eyikhothayo",
+      "url": "https://open.spotify.com/track/3NMCy2Oi6rNDeddoxCTqnM"
     },
     {
       "added_at": "2018-09-25 06:39:13",
@@ -843,6 +911,22 @@
       "duration_ms": 308400,
       "name": "Palamente e kgopela merapelo",
       "url": "https://open.spotify.com/track/3PzDhMFbGUSpVWWcBTRJWW"
+    },
+    {
+      "added_at": "2022-09-01 21:59:00",
+      "album": {
+        "name": "Isidina Sikamahlalela",
+        "url": "https://open.spotify.com/album/7M3Zi8eUaeFxhC5JzGMfRX"
+      },
+      "artists": [
+        {
+          "name": "IZINGANE ZOMA",
+          "url": "https://open.spotify.com/artist/1fa6d4xSwQWEhmp0MwKw61"
+        }
+      ],
+      "duration_ms": 205573,
+      "name": "Inzondo",
+      "url": "https://open.spotify.com/track/66grkST08OIuorHMGsGwR6"
     }
   ],
   "unique_name": "Maskandi Favourites",

@@ -2,7 +2,7 @@
 
 ### [Trapperz Brasil](https://open.spotify.com/playlist/37i9dQZF1DWWr5uieiPUVM)
 
-> 🚂  Aqui é só o trem caro do trap! Foto: Borges
+> 🚂  Aqui é só o trem caro do trap! Foto: Kweller, Enzo Cello
 
 134 songs - 7 hr 13 min - [published](https://open.spotify.com/playlist/2bZk5f2KVSoGqtFW20OKam)
 

@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 65190,
+  "num_followers": 65195,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg5NDYxMCwwMDAwMDAwMDhjNzJjMWE4ODdkODcwY2ZkMGE5NDRiYmUyZmI5ZjJl",
+  "snapshot_id": "MTY1Nzg5NDYxMCwwMDAwMDAwMGU0MDRhMWFjZjg5M2Y3YzJjNDMwMWI5NTU4MjcxYzM1",
   "tracks": [
     {
       "added_at": "2022-07-15 14:16:50",
@@ -391,6 +391,22 @@
     {
       "added_at": "2022-07-15 14:16:50",
       "album": {
+        "name": "Labababa",
+        "url": "https://open.spotify.com/album/3z6fqHPkHimDtnsjGq1snB"
+      },
+      "artists": [
+        {
+          "name": "Labyrint",
+          "url": "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo"
+        }
+      ],
+      "duration_ms": 273813,
+      "name": "Tribulations",
+      "url": "https://open.spotify.com/track/7jzFVOOT6trTwKApHmp9Yj"
+    },
+    {
+      "added_at": "2022-07-15 14:16:50",
+      "album": {
         "name": "V\u00e5r Dans",
         "url": "https://open.spotify.com/album/2BVFkcAdtAu3vAQZ3jLUS6"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 181115,
       "name": "V\u00e5r Dans",
       "url": "https://open.spotify.com/track/0akrglttILrVEe2ncifHsH"
-    },
-    {
-      "added_at": "2022-07-15 14:16:50",
-      "album": {
-        "name": "Labababa",
-        "url": "https://open.spotify.com/album/3z6fqHPkHimDtnsjGq1snB"
-      },
-      "artists": [
-        {
-          "name": "Labyrint",
-          "url": "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo"
-        }
-      ],
-      "duration_ms": 273813,
-      "name": "Tribulations",
-      "url": "https://open.spotify.com/track/7jzFVOOT6trTwKApHmp9Yj"
     },
     {
       "added_at": "2022-07-15 14:16:50",
@@ -619,6 +619,26 @@
     {
       "added_at": "2022-07-15 14:16:50",
       "album": {
+        "name": "Sanna Mina Ord",
+        "url": "https://open.spotify.com/album/32quvhcWw4de7JoQENCZ5B"
+      },
+      "artists": [
+        {
+          "name": "Kikko",
+          "url": "https://open.spotify.com/artist/4OOpr3GpdupraAdP9XBROY"
+        },
+        {
+          "name": "Don Paco",
+          "url": "https://open.spotify.com/artist/27zaNoAsIGZZTslZITECBs"
+        }
+      ],
+      "duration_ms": 249423,
+      "name": "Sanna Mina Ord",
+      "url": "https://open.spotify.com/track/6N9Epd4Ia8HZJfQTh1Wf22"
+    },
+    {
+      "added_at": "2022-07-15 14:16:50",
+      "album": {
         "name": "Reggaestrerad",
         "url": "https://open.spotify.com/album/13DfA1T9VKqtBD5xQwgvhG"
       },
@@ -667,26 +687,6 @@
     {
       "added_at": "2022-07-15 14:16:50",
       "album": {
-        "name": "Sanna Mina Ord",
-        "url": "https://open.spotify.com/album/32quvhcWw4de7JoQENCZ5B"
-      },
-      "artists": [
-        {
-          "name": "Kikko",
-          "url": "https://open.spotify.com/artist/4OOpr3GpdupraAdP9XBROY"
-        },
-        {
-          "name": "Don Paco",
-          "url": "https://open.spotify.com/artist/27zaNoAsIGZZTslZITECBs"
-        }
-      ],
-      "duration_ms": 249423,
-      "name": "Sanna Mina Ord",
-      "url": "https://open.spotify.com/track/6N9Epd4Ia8HZJfQTh1Wf22"
-    },
-    {
-      "added_at": "2022-07-15 14:16:50",
-      "album": {
         "name": "Under samma himmel",
         "url": "https://open.spotify.com/album/7j3kCLy8PHT9kaXR6bBnIA"
       },
@@ -723,22 +723,6 @@
       "duration_ms": 172000,
       "name": "S\u00e5na \u00f6gon",
       "url": "https://open.spotify.com/track/1i5mgpA55CwusMHk60brcU"
-    },
-    {
-      "added_at": "2022-07-15 14:16:50",
-      "album": {
-        "name": "G\u00f6r Det \u00c4nd\u00e5",
-        "url": "https://open.spotify.com/album/1WwVqbKojvk0SM8REsquY8"
-      },
-      "artists": [
-        {
-          "name": "Svenska Akademien",
-          "url": "https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS"
-        }
-      ],
-      "duration_ms": 212786,
-      "name": "Vakna",
-      "url": "https://open.spotify.com/track/3YOor59KQIT8AyxwVhddIy"
     },
     {
       "added_at": "2022-07-15 14:16:50",
@@ -799,6 +783,22 @@
     {
       "added_at": "2022-07-15 14:16:50",
       "album": {
+        "name": "Rotl\u00f6sa Singlar",
+        "url": "https://open.spotify.com/album/2efeB3FyNaOgPYhcCQwioH"
+      },
+      "artists": [
+        {
+          "name": "Jeepstarr",
+          "url": "https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu"
+        }
+      ],
+      "duration_ms": 233934,
+      "name": "Bida Din Tid",
+      "url": "https://open.spotify.com/track/3QMPZo33FYmz9JxtIhHJU1"
+    },
+    {
+      "added_at": "2022-07-15 14:16:50",
+      "album": {
         "name": "Baluns",
         "url": "https://open.spotify.com/album/71rcv1SUcbmo6CB6vo0NxN"
       },
@@ -819,24 +819,8 @@
     {
       "added_at": "2022-07-15 14:16:50",
       "album": {
-        "name": "Rotl\u00f6sa Singlar",
-        "url": "https://open.spotify.com/album/2efeB3FyNaOgPYhcCQwioH"
-      },
-      "artists": [
-        {
-          "name": "Jeepstarr",
-          "url": "https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu"
-        }
-      ],
-      "duration_ms": 233934,
-      "name": "Bida Din Tid",
-      "url": "https://open.spotify.com/track/3QMPZo33FYmz9JxtIhHJU1"
-    },
-    {
-      "added_at": "2022-07-15 14:16:50",
-      "album": {
-        "name": "Resa Sig Opp",
-        "url": "https://open.spotify.com/album/5vGTg3HqIqOEagshyN9Yma"
+        "name": "G\u00f6r Det \u00c4nd\u00e5",
+        "url": "https://open.spotify.com/album/1WwVqbKojvk0SM8REsquY8"
       },
       "artists": [
         {
@@ -844,9 +828,25 @@
           "url": "https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS"
         }
       ],
-      "duration_ms": 245720,
-      "name": "Du Vill S\u00e5 Du Kan",
-      "url": "https://open.spotify.com/track/5oo1hxx3SkXtF2tzzggAhM"
+      "duration_ms": 212786,
+      "name": "Vakna",
+      "url": "https://open.spotify.com/track/3YOor59KQIT8AyxwVhddIy"
+    },
+    {
+      "added_at": "2022-07-15 14:16:50",
+      "album": {
+        "name": "Teaterapan",
+        "url": "https://open.spotify.com/album/1GCkDBZQ9hOKUcRBfNgLTr"
+      },
+      "artists": [
+        {
+          "name": "Jezper",
+          "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
+        }
+      ],
+      "duration_ms": 182378,
+      "name": "Teaterapan",
+      "url": "https://open.spotify.com/track/6uZEw8eryA76WSAST3yIiv"
     },
     {
       "added_at": "2022-07-15 14:16:50",
@@ -867,18 +867,22 @@
     {
       "added_at": "2022-07-15 14:16:50",
       "album": {
-        "name": "Teaterapan",
-        "url": "https://open.spotify.com/album/1GCkDBZQ9hOKUcRBfNgLTr"
+        "name": "Marknadens soldat",
+        "url": "https://open.spotify.com/album/0hZQuNeRKADQflu15vj10t"
       },
       "artists": [
         {
-          "name": "Jezper",
-          "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
+          "name": "Helt Off",
+          "url": "https://open.spotify.com/artist/2jyig4DFb68JxLmVSrgHjy"
+        },
+        {
+          "name": "Timbuktu",
+          "url": "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
         }
       ],
-      "duration_ms": 182378,
-      "name": "Teaterapan",
-      "url": "https://open.spotify.com/track/6uZEw8eryA76WSAST3yIiv"
+      "duration_ms": 251000,
+      "name": "Mediak\u00e5t feat. Timbuktu",
+      "url": "https://open.spotify.com/track/2LJCk8rliwXAnYTD9rEPWw"
     }
   ],
   "unique_name": "Svensk Reggae",

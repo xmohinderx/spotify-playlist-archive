@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Z99viCDp7Q.md) - [plain]
 
 > Wondering what to pick for your first dance? We got you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,579 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,617 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,14 +27,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Z99viCDp7Q.md) - [plain]
 | 17 | [Always](https://open.spotify.com/track/2RChe0r2cMoyOvuKobZy44) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Cross Road](https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m) | 5:53 |
 | 18 | [Love On Top](https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 4:27 |
 | 19 | [Marry You](https://open.spotify.com/track/22PMfvdz35fFKYnJyMn077) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:50 |
-| 20 | [Symphony \(feat\. Zara Larsson\)](https://open.spotify.com/track/1x5sYLZiu9r5E43kMlt9f8) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Symphony \(feat\. Zara Larsson\)](https://open.spotify.com/album/4b13SJlne61y53KSEwuQtD) | 3:32 |
-| 21 | [Wherever You Will Go](https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [Camino Palmero](https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV) | 3:28 |
+| 20 | [Wherever You Will Go](https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [Camino Palmero](https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV) | 3:28 |
+| 21 | [Symphony \(feat\. Zara Larsson\)](https://open.spotify.com/track/1x5sYLZiu9r5E43kMlt9f8) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Symphony \(feat\. Zara Larsson\)](https://open.spotify.com/album/4b13SJlne61y53KSEwuQtD) | 3:32 |
 | 22 | [Better Together](https://open.spotify.com/track/6gdLyYNuhWBzqwlOFSsXC7) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:39 |
 | 23 | [Hungry Eyes \- From "Dirty Dancing" Soundtrack](https://open.spotify.com/track/31H6au3jhblhr6MMJiXnCq) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [The Definitive Collection](https://open.spotify.com/album/02CxAhdSRhzcm6XQ8m5RNp) | 4:11 |
 | 24 | [Perfect Duet \(Ed Sheeran & Beyoncé\)](https://open.spotify.com/track/1bhUWB0zJMIKr9yVPrkEuI) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Perfect Duet \(Ed Sheeran & Beyoncé\)](https://open.spotify.com/album/52kvZcbEDm0v2kWZQXjuuA) | 4:19 |
 | 25 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 |
-| 26 | [Come Away With Me](https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:18 |
-| 27 | [Make You Feel My Love](https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0) | 3:32 |
+| 26 | [Make You Feel My Love](https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0) | 3:32 |
+| 27 | [Come Away With Me](https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:18 |
 | 28 | [This Will Be \(An Everlasting Love\)](https://open.spotify.com/track/0PDCewmZCp0P5s00bptcdd) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Inseparable](https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx) | 2:51 |
 | 29 | [Just the Way You Are](https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 4:50 |
 | 30 | [Fallin' All In You](https://open.spotify.com/track/5EYBryPOgIEPB7r5QIy6eG) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) | 3:55 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Z99viCDp7Q.md) - [plain]
 | 74 | [This Will Be Our Year](https://open.spotify.com/track/02KpkaZbiutsR0ucxce4Sh) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Odessey and Oracle](https://open.spotify.com/album/7K6JtyaSSVr7HidQsCHun0) | 2:07 |
 | 75 | [Amazed](https://open.spotify.com/track/6iNcyWk5iUEY7P9zeTc5hm) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [Playlist: The Very Best Of Lonestar](https://open.spotify.com/album/6FoiXUlfC8amjO8yqmYZM5) | 3:59 |
 
-Snapshot ID: `MTY1ODE2NjYzMSwwMDAwMDAwMGQwNjcxNzEzMzcyMWVjZmQ2Y2QwODY2YWQ4M2VjYjcz`
+Snapshot ID: `MTY1ODE2NjYzMSwwMDAwMDAwMGEwMDYyMzBjZTYxYWUxOTEyY2U1ZTg5NTY2ZDBiN2Fh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBWeillXfzX.md) - [plain]
 
 > Blues guitar heroes of today\. Cover: Kirk Fletcher
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,404 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,423 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBWeillXfzX.md) - [plain]
 | 15 | [Crow Jane](https://open.spotify.com/track/2b0ObO7Xk3qzJdMOhJc5c3) | [The Derek Trucks Band](https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn) | [Songlines](https://open.spotify.com/album/1T6rgbl3cemngWpcLC99MH) | 3:53 |
 | 16 | [Nothing But The Night](https://open.spotify.com/track/2sF93cCZuKgRLfWF6dNtfE) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Lay It On Down](https://open.spotify.com/album/4D8k0XAtsNjWmRWqjxaYIR) | 4:53 |
 | 17 | [Corporation](https://open.spotify.com/track/4J5YIM08RZ9SJCcCJeEv9z) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Boarding House Reach](https://open.spotify.com/album/6btUx9G2BPajQ7P6mpTxId) | 5:39 |
-| 18 | [Love Ain't My Favorite Word](https://open.spotify.com/track/7CPhvCVpEpZ6Xjvfs2EeG5) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 5:25 |
-| 19 | [Threw Me to the Wolves](https://open.spotify.com/track/2NyIqmxO95eMwULJLThPPu) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Threw Me to the Wolves \(Revisited\)](https://open.spotify.com/album/3v4mvvhmpHsIHFARPcYHe6) | 3:52 |
+| 18 | [Threw Me to the Wolves](https://open.spotify.com/track/2NyIqmxO95eMwULJLThPPu) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Threw Me to the Wolves \(Revisited\)](https://open.spotify.com/album/3v4mvvhmpHsIHFARPcYHe6) | 3:52 |
+| 19 | [Love Ain't My Favorite Word](https://open.spotify.com/track/7CPhvCVpEpZ6Xjvfs2EeG5) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 5:25 |
 | 20 | [Spirit](https://open.spotify.com/track/0G1p6qY60TM9fT3v9iHRdF) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Spirit Rising](https://open.spotify.com/album/3dQKiRCBLOnvRmfcTCJP0H) | 3:38 |
 | 21 | [Coal Tattoo](https://open.spotify.com/track/56DSKF2O31YPrblvpA8xVk) | [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h), [Railroad Earth](https://open.spotify.com/artist/6ijT84fUReKCGYV3MjhB2y) | [Ashes & Dust](https://open.spotify.com/album/6y9X3ZKEa63FWjpoR3Km04) | 7:26 |
 | 22 | [Got to Get Up](https://open.spotify.com/track/4UPWcafmoDHKZziDsTumP3) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [This Land](https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ) | 2:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBWeillXfzX.md) - [plain]
 | 49 | [Shufflin' West Coast](https://open.spotify.com/track/35znJMAm3GhjLwY9o3KiSG) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Albert Lee](https://open.spotify.com/artist/3YMlcBYj21DcMALlALTO7m), [Tim Pierce](https://open.spotify.com/artist/5ViJHAJBhLL7J9WNR1uPDN), [James Harrah](https://open.spotify.com/artist/4XonxCeLqWlDlpztAyCZb4), [Johnny Lee Schell](https://open.spotify.com/artist/5LAFSMKY4RMw192jHeaBRi), [Toshi Yanagi](https://open.spotify.com/artist/0H2cYrALxabRKcAJdF6EKj), [Michael Thompson](https://open.spotify.com/artist/3s4aVgqEf5mdv6ubR7nwfE), [Brent Mason](https://open.spotify.com/artist/1oO9xG0YRXpZdXseGgNlFk), [Paul Franklin](https://open.spotify.com/artist/2d5aRKZTJgcuetYRNzKDrA) | [Shufflin' West Coast](https://open.spotify.com/album/0xU6562s9LeTyv9dvqFUw0) | 4:22 |
 | 50 | [What You’re Made Of](https://open.spotify.com/track/1RxSQxCQKSInGZREvUPjWn) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Signs](https://open.spotify.com/album/4SPbtzCATQqeHmN2Evs26H) | 4:18 |
 
-Snapshot ID: `MTY1MjQxNDUyMCwwMDAwMDAwMDNmNWM0OTE0MmNjMjI4M2I5MWI5MzRmYWQzNGI4MWY1`
+Snapshot ID: `MTY1MjQxNDUyMCwwMDAwMDAwMDhlNDNlYWM0MWUzZTA0YjcyMmQ3ZDY0Yzc3MmZjMWQz`

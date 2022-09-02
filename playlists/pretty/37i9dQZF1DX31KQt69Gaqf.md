@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 
 > Let us take care of your workday soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,591 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,547 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 | 36 | [Question It All](https://open.spotify.com/track/2IFhH2i9jxSZoqgzV9jipi) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Question It All / White Car](https://open.spotify.com/album/5G5O8QNkx2ocd2hY7ONJFj) | 4:02 |
 | 37 | [Angel](https://open.spotify.com/track/1l1o761oy3oZiwzU75QI5S) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Angel](https://open.spotify.com/album/5FMkcYANuajBUi9yq27hgU) | 3:56 |
 | 38 | [bon iver](https://open.spotify.com/track/2A6GfKINLJ2oN4sjUWj0g2) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dusk](https://open.spotify.com/album/6oCFVNkKjrFRmieVbpQa3s) | 3:16 |
-| 39 | [Sweeter \(feat\. Terrace Martin\)](https://open.spotify.com/track/1ehhGlTvjtHo2e4xJFB0SZ) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Sweeter \(feat\. Terrace Martin\)](https://open.spotify.com/album/7MEVKXLS3YOlaz3kXexPeM) | 2:47 |
-| 40 | [Long Grass](https://open.spotify.com/track/6iCQRdDf05QOU4bxIvDPYu) | [Just Jack](https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO), [The Easy Access Orchestra](https://open.spotify.com/artist/5fiNdr2wm70EaUTLwrDbh2) | [Long Grass](https://open.spotify.com/album/7s5qWzC22jdTiaZR488pje) | 3:58 |
+| 39 | [Long Grass](https://open.spotify.com/track/6iCQRdDf05QOU4bxIvDPYu) | [Just Jack](https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO), [The Easy Access Orchestra](https://open.spotify.com/artist/5fiNdr2wm70EaUTLwrDbh2) | [Long Grass](https://open.spotify.com/album/7s5qWzC22jdTiaZR488pje) | 3:58 |
+| 40 | [Sweeter \(feat\. Terrace Martin\)](https://open.spotify.com/track/1ehhGlTvjtHo2e4xJFB0SZ) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Sweeter \(feat\. Terrace Martin\)](https://open.spotify.com/album/7MEVKXLS3YOlaz3kXexPeM) | 2:47 |
 | 41 | [Caroline](https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Caroline](https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ) | 3:36 |
 | 42 | [Friday](https://open.spotify.com/track/4GQGU0CI1lR4xRcxxioIIQ) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Friday](https://open.spotify.com/album/034zknyDzHTXojF5mOYtyO) | 3:24 |
 | 43 | [Don't Turn Around](https://open.spotify.com/track/1eYKJWV1eK85T5AZwvwOuH) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Don't Turn Around](https://open.spotify.com/album/1nJ6X5PejqyhbHpG9Ycf5N) | 2:51 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 | 94 | [TRAP PHONE](https://open.spotify.com/track/2bqvn860XasNbI5OSHwjtt) | [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [TRAP PHONE](https://open.spotify.com/album/4IhmhPD7eW7QSMR3pVrYet) | 4:10 |
 | 95 | [Uriah's Cry](https://open.spotify.com/track/2rtLK9Nj9PzMabMOYb4Tmd) | [SAM DOTIA](https://open.spotify.com/artist/7lHuH8figeMAA7pEWJCMHD) | [Uriah's Cry](https://open.spotify.com/album/4lo8NWKY2fTTDEoFm8J29W) | 3:21 |
 | 96 | [Five and Dime](https://open.spotify.com/track/5ypn0mWrFJ8m2BeYBKwXec) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Wake UP!](https://open.spotify.com/album/2A2k0MgzDEiFjW3ejlpxxV) | 2:53 |
-| 97 | [Treat You Right](https://open.spotify.com/track/7ItOfW0Phlgis72tCdIcsw) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Treat You Right](https://open.spotify.com/album/3F91sv7XPeK9JYQdpXktd2) | 4:21 |
-| 98 | [So Simpatico \- Edit](https://open.spotify.com/track/4GzHrLySoKpHdsLwZDwioT) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [So Simpatico](https://open.spotify.com/album/3T6jlI15kmoraxuM5AvGkR) | 3:05 |
+| 97 | [So Simpatico \- Edit](https://open.spotify.com/track/4GzHrLySoKpHdsLwZDwioT) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [So Simpatico](https://open.spotify.com/album/3T6jlI15kmoraxuM5AvGkR) | 3:05 |
+| 98 | [Treat You Right](https://open.spotify.com/track/7ItOfW0Phlgis72tCdIcsw) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Treat You Right](https://open.spotify.com/album/3F91sv7XPeK9JYQdpXktd2) | 4:21 |
 | 99 | [Big Skies, Silly Faces](https://open.spotify.com/track/0Zga9iWiTp760vRHHLNxFF) | [Orlando Weeks](https://open.spotify.com/artist/5K9Px0eeCuYatmBGFfhSOA) | [Big Skies, Silly Faces](https://open.spotify.com/album/7lGdpg1UFSOfwXNScK1cSc) | 3:55 |
 | 100 | [Moody](https://open.spotify.com/track/4U3S9YNxWWfMtcvz3UgDYD) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [Moody](https://open.spotify.com/album/2jL3IM42IlCMhxlwMbWZFz) | 3:20 |
 
-Snapshot ID: `MTYzMzk1MDI1NCwwMDAwMDAwMDZlNTY1ZmJjOTJhMzM2ODhkZDJlOWMyZDI1ZGZjOTZm`
+Snapshot ID: `MTYzMzk1MDI1NCwwMDAwMDAwMGIzZjZmN2Q0NTk0M2YwY2Y1MmVjMDJlNmY4YzdkYzdk`

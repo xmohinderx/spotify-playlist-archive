@@ -4,7 +4,7 @@
 
 > The best alternative songs of the decade so far\. Cover: Grimes
 
-284 songs - 19 hr 9 min - [published](https://open.spotify.com/playlist/2Ui9272wdN8QbSdg7t8gMR)
+285 songs - 19 hr 13 min - [published](https://open.spotify.com/playlist/2Ui9272wdN8QbSdg7t8gMR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [I Feel](https://open.spotify.com/track/3GkIeUXutIw8XnW9ZC3hJ3) | [Bad Sounds](https://open.spotify.com/artist/0hSgRl2U8kSaJLE2Di325f) | [I Feel](https://open.spotify.com/album/1QFPoF5sG2ufYfPbw5xCa2) | 3:49 | 2021-11-15 | 2022-07-27 |
 | [I Love You, Honeybear](https://open.spotify.com/track/6WFV9HowZft8fw5eg9IpPA) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [I Love You, Honeybear](https://open.spotify.com/album/7buEcyw6fJF3WPgr06BomH) | 4:38 | 2021-11-15 | 2022-07-29 |
 | [I Need A Forest Fire](https://open.spotify.com/track/0TLAptKgYxe7F0KewWH6X6) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [The Colour In Anything](https://open.spotify.com/album/1WyrGCkFDlH1xPadZ5qTkL) | 4:17 | 2021-11-15 | 2022-07-06 |
+| [I Need My Girl](https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL) | 4:05 | 2022-02-21 |  |
 | [I Need My Girl](https://open.spotify.com/track/7rbCL7W893Zonbfnevku5s) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/2JhR4tjuc3MIKa8v2JaKze) | 4:05 | 2022-02-21 | 2022-03-09 |
 | [i wanna be your girlfriend](https://open.spotify.com/track/3h3pOvw6hjOvZxRUseB7h9) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [i wanna be your girlfriend](https://open.spotify.com/album/3NqbgoETR7lDnlxvTum2vr) | 3:24 | 2022-02-21 |  |
 | [I Want You](https://open.spotify.com/track/52E1427pP2darugrmmbW6k) | [Blaenavon](https://open.spotify.com/artist/79RmzX8i9w6YwqJjg3O1MY) | [I Want You](https://open.spotify.com/album/0q0fzVVWBgRN99wRrDXGDI) | 4:13 | 2021-11-15 | 2022-07-21 |
@@ -214,7 +215,7 @@
 | [She Plays Bass](https://open.spotify.com/track/53vFEC7MHFKctetVsD19S4) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Space Cadet](https://open.spotify.com/album/1R5kPLo5rJAgp161g5hOFQ) | 3:27 | 2021-11-15 | 2022-07-25 |
 | [She's a Witch](https://open.spotify.com/track/2GogU93UlhQPpctpKfgcVR) | [Gengahr](https://open.spotify.com/artist/2ATweaQe83QUQVjM8LMh7J) | [She's a Witch](https://open.spotify.com/album/2o0UkuIIubL01JMi6wgoVf) | 2:41 | 2021-11-15 | 2022-07-27 |
 | [Shelter](https://open.spotify.com/track/5C5Fle0gDOcUchmj4RgVH5) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Shelter](https://open.spotify.com/album/4mYvYnX8cLr4w2UjmkpjnU) | 3:59 | 2021-11-15 | 2022-07-29 |
-| [Should Have Known Better](https://open.spotify.com/track/3AyuigFWbuirWHvidbMz8O) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 5:07 | 2022-02-21 |  |
+| [Should Have Known Better](https://open.spotify.com/track/3AyuigFWbuirWHvidbMz8O) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 5:07 | 2022-02-21 | 2022-09-02 |
 | [Should Have Known Better](https://open.spotify.com/track/5I6y1KWmUoV5YCaIEcs1qs) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/0U8DeqqKDgIhIiWOdqiQXE) | 5:07 | 2021-11-15 | 2022-07-28 |
 | [Shuffle](https://open.spotify.com/track/4yYvWFUWMaKMXtoJKJnmZk) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [A Different Kind Of Fix](https://open.spotify.com/album/4W6ztwnEbK92Arl8kI9c9N) | 3:55 | 2021-11-15 | 2022-07-29 |
 | [Shut Up Kiss Me](https://open.spotify.com/track/5uZLsGY9fknBd5Rxr7AIss) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [MY WOMAN](https://open.spotify.com/album/5M8xQaQZuW2LZGVXZ3mlKN) | 3:22 | 2021-11-15 | 2022-07-28 |

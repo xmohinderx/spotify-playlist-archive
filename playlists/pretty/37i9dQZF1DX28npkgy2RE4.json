@@ -1,12 +1,12 @@
 {
   "description": "New styles, deep sounds. Cover: Aldous Harding",
-  "num_followers": 380579,
+  "num_followers": 380471,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzU3MjI2NSwwMDAwMDAwMDI1NzdlNmM1NmVjYjEwZjRmMTc3MDRiYzVhM2UzMjI2",
+  "snapshot_id": "MTY1NzU3MjI2NSwwMDAwMDAwMDA3ODNkYzZiMzNkNjVjYjgxYzg5ZWJlYzYxMGQ1M2M0",
   "tracks": [
     {
       "added_at": "2022-07-11 20:44:25",
@@ -163,22 +163,6 @@
     {
       "added_at": "2022-07-11 20:44:25",
       "album": {
-        "name": "Remind Me Tomorrow",
-        "url": "https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 265920,
-      "name": "Seventeen",
-      "url": "https://open.spotify.com/track/5jZoYp0P8ML7AxkS3tQz3j"
-    },
-    {
-      "added_at": "2022-07-11 20:44:25",
-      "album": {
         "name": "Without a Light",
         "url": "https://open.spotify.com/album/2eVxQMHiWZ8P96B9QIlNdR"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 142200,
       "name": "Without a Light",
       "url": "https://open.spotify.com/track/1CYBnHYYbOAsuDCGa0zrw0"
+    },
+    {
+      "added_at": "2022-07-11 20:44:25",
+      "album": {
+        "name": "Remind Me Tomorrow",
+        "url": "https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 265920,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/5jZoYp0P8ML7AxkS3tQz3j"
     },
     {
       "added_at": "2022-07-11 20:44:25",
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-07-11 20:44:25",
       "album": {
-        "name": "Show Up",
-        "url": "https://open.spotify.com/album/1JD1hz1p5bnIX0AE8svwtY"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 201053,
-      "name": "Show Up",
-      "url": "https://open.spotify.com/track/1p17XN8yqoY5LHEG0Inqam"
-    },
-    {
-      "added_at": "2022-07-11 20:44:25",
-      "album": {
         "name": "Note to Self",
         "url": "https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 242266,
       "name": "Nothing Compares",
       "url": "https://open.spotify.com/track/4I97vwuO13zggYHu0WYE7Y"
+    },
+    {
+      "added_at": "2022-07-11 20:44:25",
+      "album": {
+        "name": "Show Up",
+        "url": "https://open.spotify.com/album/1JD1hz1p5bnIX0AE8svwtY"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 201053,
+      "name": "Show Up",
+      "url": "https://open.spotify.com/track/1p17XN8yqoY5LHEG0Inqam"
     },
     {
       "added_at": "2022-07-11 20:44:25",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-07-11 20:44:25",
       "album": {
-        "name": "The Wire",
-        "url": "https://open.spotify.com/album/0HpxT1VFSvCSNXrk3976Qc"
-      },
-      "artists": [
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
-        }
-      ],
-      "duration_ms": 180440,
-      "name": "The Wire",
-      "url": "https://open.spotify.com/track/2fvgn1xCyf0VQ5o33ZCoc6"
-    },
-    {
-      "added_at": "2022-07-11 20:44:25",
-      "album": {
         "name": "Old Bone / Trust No Man",
         "url": "https://open.spotify.com/album/6pTUF8e5RU8pU2GLRoQl5Q"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 204466,
       "name": "Runaway Horses (feat. Phoebe Bridgers) - Abridged",
       "url": "https://open.spotify.com/track/3PeCWDczrGqdD1E3mbok2X"
+    },
+    {
+      "added_at": "2022-07-11 20:44:25",
+      "album": {
+        "name": "The Wire",
+        "url": "https://open.spotify.com/album/0HpxT1VFSvCSNXrk3976Qc"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        }
+      ],
+      "duration_ms": 180440,
+      "name": "The Wire",
+      "url": "https://open.spotify.com/track/2fvgn1xCyf0VQ5o33ZCoc6"
     },
     {
       "added_at": "2022-07-11 20:44:25",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-07-11 20:44:25",
       "album": {
-        "name": "This Is A Photograph",
-        "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
-      },
-      "artists": [
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "This Is A Photograph",
-      "url": "https://open.spotify.com/track/1hj8os1Xxiuo95atpJzfCp"
-    },
-    {
-      "added_at": "2022-07-11 20:44:25",
-      "album": {
         "name": "Puppy and a Truck",
         "url": "https://open.spotify.com/album/358Blro4SuMHGHYnH1Tgbl"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 191453,
       "name": "Puppy and a Truck",
       "url": "https://open.spotify.com/track/3yN6F2vOf3ypKv9kr8sDdm"
+    },
+    {
+      "added_at": "2022-07-11 20:44:25",
+      "album": {
+        "name": "This Is A Photograph",
+        "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "This Is A Photograph",
+      "url": "https://open.spotify.com/track/1hj8os1Xxiuo95atpJzfCp"
     },
     {
       "added_at": "2022-07-11 20:44:25",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-07-11 20:44:25",
       "album": {
-        "name": "Rubber",
-        "url": "https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV"
-      },
-      "artists": [
-        {
-          "name": "Ruston Kelly",
-          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Rubber",
-      "url": "https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO"
-    },
-    {
-      "added_at": "2022-07-11 20:44:25",
-      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 201626,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
+    },
+    {
+      "added_at": "2022-07-11 20:44:25",
+      "album": {
+        "name": "Rubber",
+        "url": "https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV"
+      },
+      "artists": [
+        {
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Rubber",
+      "url": "https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO"
     },
     {
       "added_at": "2022-07-11 20:44:25",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2022-07-11 20:44:25",
       "album": {
-        "name": "In The Blossom of Their Shade",
-        "url": "https://open.spotify.com/album/34QLCed0oGYCeSJLSNQmuf"
-      },
-      "artists": [
-        {
-          "name": "Pokey LaFarge",
-          "url": "https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT"
-        }
-      ],
-      "duration_ms": 214747,
-      "name": "Get It \u2018Fore It\u2019s Gone",
-      "url": "https://open.spotify.com/track/6bFQTxFd9QCL8te5fbjt8i"
-    },
-    {
-      "added_at": "2022-07-11 20:44:25",
-      "album": {
         "name": "Flag Day (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
       },
@@ -1347,18 +1331,18 @@
     {
       "added_at": "2022-07-11 20:44:25",
       "album": {
-        "name": "Half Moon Light (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4BZtOxZRZVRVf5ufHPlXy3"
+        "name": "In The Blossom of Their Shade",
+        "url": "https://open.spotify.com/album/34QLCed0oGYCeSJLSNQmuf"
       },
       "artists": [
         {
-          "name": "The Lone Bellow",
-          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+          "name": "Pokey LaFarge",
+          "url": "https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT"
         }
       ],
-      "duration_ms": 231880,
-      "name": "Dried Up River",
-      "url": "https://open.spotify.com/track/7bNvUAHtAVDee8w6SS6r0S"
+      "duration_ms": 214747,
+      "name": "Get It \u2018Fore It\u2019s Gone",
+      "url": "https://open.spotify.com/track/6bFQTxFd9QCL8te5fbjt8i"
     },
     {
       "added_at": "2022-07-11 20:44:25",
@@ -1379,6 +1363,22 @@
     {
       "added_at": "2022-07-11 20:44:25",
       "album": {
+        "name": "Half Moon Light (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4BZtOxZRZVRVf5ufHPlXy3"
+      },
+      "artists": [
+        {
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+        }
+      ],
+      "duration_ms": 231880,
+      "name": "Dried Up River",
+      "url": "https://open.spotify.com/track/7bNvUAHtAVDee8w6SS6r0S"
+    },
+    {
+      "added_at": "2022-07-11 20:44:25",
+      "album": {
         "name": "PAINLESS",
         "url": "https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7"
       },
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2022-07-11 20:44:25",
       "album": {
-        "name": "Saint Cloud",
-        "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
-      },
-      "artists": [
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        }
-      ],
-      "duration_ms": 224106,
-      "name": "Can\u2019t Do Much",
-      "url": "https://open.spotify.com/track/0sEJmxTlb2SZNxdjzBATPK"
-    },
-    {
-      "added_at": "2022-07-11 20:44:25",
-      "album": {
         "name": "Cala",
         "url": "https://open.spotify.com/album/5N1201PBNTiy1gj7b7sPsW"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 148773,
       "name": "Collar of Fur",
       "url": "https://open.spotify.com/track/7ytLP3YW58akAQyMTwW78l"
+    },
+    {
+      "added_at": "2022-07-11 20:44:25",
+      "album": {
+        "name": "Saint Cloud",
+        "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "duration_ms": 224106,
+      "name": "Can\u2019t Do Much",
+      "url": "https://open.spotify.com/track/0sEJmxTlb2SZNxdjzBATPK"
     },
     {
       "added_at": "2022-07-11 20:44:25",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2022-07-11 20:44:25",
       "album": {
-        "name": "Dublin, Texas",
-        "url": "https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW"
-      },
-      "artists": [
-        {
-          "name": "RF Shannon",
-          "url": "https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5"
-        }
-      ],
-      "duration_ms": 269286,
-      "name": "Dublin, Texas",
-      "url": "https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c"
-    },
-    {
-      "added_at": "2022-07-11 20:44:25",
-      "album": {
         "name": "Warm Chris",
         "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 217066,
       "name": "Lawn",
       "url": "https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c"
+    },
+    {
+      "added_at": "2022-07-11 20:44:25",
+      "album": {
+        "name": "Dublin, Texas",
+        "url": "https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW"
+      },
+      "artists": [
+        {
+          "name": "RF Shannon",
+          "url": "https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5"
+        }
+      ],
+      "duration_ms": 269286,
+      "name": "Dublin, Texas",
+      "url": "https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c"
     },
     {
       "added_at": "2022-07-11 20:44:25",
@@ -1759,22 +1759,6 @@
       "duration_ms": 183360,
       "name": "Make It Out (feat. Maisie Peters)",
       "url": "https://open.spotify.com/track/5qXbNSvVp8rB4Kcy2DTTIt"
-    },
-    {
-      "added_at": "2022-07-11 20:44:25",
-      "album": {
-        "name": "Keeps Me Light",
-        "url": "https://open.spotify.com/album/4X2JS2pMQD9NmoN6FhZCW6"
-      },
-      "artists": [
-        {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
-        }
-      ],
-      "duration_ms": 226287,
-      "name": "Keeps Me Light",
-      "url": "https://open.spotify.com/track/2Py6ZjfZh23AkpQrC7CZyV"
     },
     {
       "added_at": "2022-07-11 20:44:25",
@@ -1831,6 +1815,22 @@
     {
       "added_at": "2022-07-11 20:44:25",
       "album": {
+        "name": "Keeps Me Light",
+        "url": "https://open.spotify.com/album/4X2JS2pMQD9NmoN6FhZCW6"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 226287,
+      "name": "Keeps Me Light",
+      "url": "https://open.spotify.com/track/2Py6ZjfZh23AkpQrC7CZyV"
+    },
+    {
+      "added_at": "2022-07-11 20:44:25",
+      "album": {
         "name": "The Jacket",
         "url": "https://open.spotify.com/album/4hQuSru2tXIiematsn2Q4a"
       },
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2022-07-11 20:44:25",
       "album": {
-        "name": "The Fight",
-        "url": "https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE"
-      },
-      "artists": [
-        {
-          "name": "Overcoats",
-          "url": "https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "New Shoes",
-      "url": "https://open.spotify.com/track/2Nh201cURlNgpcMDnDlNaL"
-    },
-    {
-      "added_at": "2022-07-11 20:44:25",
-      "album": {
         "name": "Same History, New Feelings",
         "url": "https://open.spotify.com/album/2pVw5jbYUefDoaZgjnu4Q9"
       },
@@ -1919,6 +1903,22 @@
     {
       "added_at": "2022-07-11 20:44:25",
       "album": {
+        "name": "The Fight",
+        "url": "https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE"
+      },
+      "artists": [
+        {
+          "name": "Overcoats",
+          "url": "https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "New Shoes",
+      "url": "https://open.spotify.com/track/2Nh201cURlNgpcMDnDlNaL"
+    },
+    {
+      "added_at": "2022-07-11 20:44:25",
+      "album": {
         "name": "Requiem",
         "url": "https://open.spotify.com/album/4Xr1qkaJY6ICHp7nh1rzec"
       },
@@ -1931,38 +1931,6 @@
       "duration_ms": 218740,
       "name": "Requiem",
       "url": "https://open.spotify.com/track/5w4axvkZhiRqoE0PP6teSo"
-    },
-    {
-      "added_at": "2022-07-11 20:44:25",
-      "album": {
-        "name": "Fever Breaks",
-        "url": "https://open.spotify.com/album/3qL2gdQLgulBvIo7bng2zS"
-      },
-      "artists": [
-        {
-          "name": "Josh Ritter",
-          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
-        }
-      ],
-      "duration_ms": 286440,
-      "name": "Old Black Magic",
-      "url": "https://open.spotify.com/track/5lbgaOjchF4QZLdh2gw2Wl"
-    },
-    {
-      "added_at": "2022-07-11 20:44:25",
-      "album": {
-        "name": "Quiet Signs",
-        "url": "https://open.spotify.com/album/3mLMUWalbsEodpw0cRLQnl"
-      },
-      "artists": [
-        {
-          "name": "Jessica Pratt",
-          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
-        }
-      ],
-      "duration_ms": 217360,
-      "name": "This Time Around",
-      "url": "https://open.spotify.com/track/295AV2PI6PUduX585IekdQ"
     },
     {
       "added_at": "2022-07-11 20:44:25",
@@ -1987,6 +1955,22 @@
     {
       "added_at": "2022-07-11 20:44:25",
       "album": {
+        "name": "Fever Breaks",
+        "url": "https://open.spotify.com/album/3qL2gdQLgulBvIo7bng2zS"
+      },
+      "artists": [
+        {
+          "name": "Josh Ritter",
+          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
+        }
+      ],
+      "duration_ms": 286440,
+      "name": "Old Black Magic",
+      "url": "https://open.spotify.com/track/5lbgaOjchF4QZLdh2gw2Wl"
+    },
+    {
+      "added_at": "2022-07-11 20:44:25",
+      "album": {
         "name": "Hospital",
         "url": "https://open.spotify.com/album/1ENe8pdOhj33eDRWNv6Nd2"
       },
@@ -1999,6 +1983,22 @@
       "duration_ms": 228800,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/5ZxFg3dgrAYd5G6NMKGU1l"
+    },
+    {
+      "added_at": "2022-07-11 20:44:25",
+      "album": {
+        "name": "Quiet Signs",
+        "url": "https://open.spotify.com/album/3mLMUWalbsEodpw0cRLQnl"
+      },
+      "artists": [
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+        }
+      ],
+      "duration_ms": 217360,
+      "name": "This Time Around",
+      "url": "https://open.spotify.com/track/295AV2PI6PUduX585IekdQ"
     },
     {
       "added_at": "2022-07-11 20:44:25",
@@ -2135,22 +2135,6 @@
     {
       "added_at": "2022-07-11 20:44:25",
       "album": {
-        "name": "Wayfinder",
-        "url": "https://open.spotify.com/album/5wRHPgsA4wtC2zDTOyp7DN"
-      },
-      "artists": [
-        {
-          "name": "Boy Scouts",
-          "url": "https://open.spotify.com/artist/02fo9VYWbuaOVly5sEjd5V"
-        }
-      ],
-      "duration_ms": 182012,
-      "name": "That's Life Honey",
-      "url": "https://open.spotify.com/track/4ruhASOVIoqNGNXSjLwVQZ"
-    },
-    {
-      "added_at": "2022-07-11 20:44:25",
-      "album": {
         "name": "Snowplow",
         "url": "https://open.spotify.com/album/2pvt0zp6tTBZdF1HZ50LsQ"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 161776,
       "name": "Snowplow",
       "url": "https://open.spotify.com/track/6LvRXtQfbvMF7m0hNQu5eF"
+    },
+    {
+      "added_at": "2022-07-11 20:44:25",
+      "album": {
+        "name": "Wayfinder",
+        "url": "https://open.spotify.com/album/5wRHPgsA4wtC2zDTOyp7DN"
+      },
+      "artists": [
+        {
+          "name": "Boy Scouts",
+          "url": "https://open.spotify.com/artist/02fo9VYWbuaOVly5sEjd5V"
+        }
+      ],
+      "duration_ms": 182012,
+      "name": "That's Life Honey",
+      "url": "https://open.spotify.com/track/4ruhASOVIoqNGNXSjLwVQZ"
     },
     {
       "added_at": "2022-07-11 20:44:25",
@@ -2235,38 +2235,6 @@
     {
       "added_at": "2022-07-11 20:44:25",
       "album": {
-        "name": "Mariachi Static",
-        "url": "https://open.spotify.com/album/1f7tVn8Ff2Nr3PesnIi9HE"
-      },
-      "artists": [
-        {
-          "name": "Izaak Opatz",
-          "url": "https://open.spotify.com/artist/0ISWBim1mBiZ7bw6tXad3G"
-        }
-      ],
-      "duration_ms": 238680,
-      "name": "Not Yet",
-      "url": "https://open.spotify.com/track/3kVWSiAW7f42Lk7csxJ1VN"
-    },
-    {
-      "added_at": "2022-07-11 20:44:25",
-      "album": {
-        "name": "pak it in // mama",
-        "url": "https://open.spotify.com/album/7fbNuLkq7MOLzrajDNymJp"
-      },
-      "artists": [
-        {
-          "name": "Uly",
-          "url": "https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg"
-        }
-      ],
-      "duration_ms": 283518,
-      "name": "pak it in",
-      "url": "https://open.spotify.com/track/2CBrwFbrNnzvikGZXq5j9l"
-    },
-    {
-      "added_at": "2022-07-11 20:44:25",
-      "album": {
         "name": "August",
         "url": "https://open.spotify.com/album/1MLYRx0yyQKW7TyFvSye5z"
       },
@@ -2283,18 +2251,18 @@
     {
       "added_at": "2022-07-11 20:44:25",
       "album": {
-        "name": "Old Peel",
-        "url": "https://open.spotify.com/album/5SdjxVnwwn4w25boDjEmMR"
+        "name": "Mariachi Static",
+        "url": "https://open.spotify.com/album/1f7tVn8Ff2Nr3PesnIi9HE"
       },
       "artists": [
         {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+          "name": "Izaak Opatz",
+          "url": "https://open.spotify.com/artist/0ISWBim1mBiZ7bw6tXad3G"
         }
       ],
-      "duration_ms": 196802,
-      "name": "Old Peel",
-      "url": "https://open.spotify.com/track/0vuZebTvcwkstUpoo82lpG"
+      "duration_ms": 238680,
+      "name": "Not Yet",
+      "url": "https://open.spotify.com/track/3kVWSiAW7f42Lk7csxJ1VN"
     },
     {
       "added_at": "2022-07-11 20:44:25",
@@ -2315,6 +2283,38 @@
     {
       "added_at": "2022-07-11 20:44:25",
       "album": {
+        "name": "pak it in // mama",
+        "url": "https://open.spotify.com/album/7fbNuLkq7MOLzrajDNymJp"
+      },
+      "artists": [
+        {
+          "name": "Uly",
+          "url": "https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg"
+        }
+      ],
+      "duration_ms": 283518,
+      "name": "pak it in",
+      "url": "https://open.spotify.com/track/2CBrwFbrNnzvikGZXq5j9l"
+    },
+    {
+      "added_at": "2022-07-11 20:44:25",
+      "album": {
+        "name": "Old Peel",
+        "url": "https://open.spotify.com/album/5SdjxVnwwn4w25boDjEmMR"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 196802,
+      "name": "Old Peel",
+      "url": "https://open.spotify.com/track/0vuZebTvcwkstUpoo82lpG"
+    },
+    {
+      "added_at": "2022-07-11 20:44:25",
+      "album": {
         "name": "Fun House",
         "url": "https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0"
       },
@@ -2327,22 +2327,6 @@
       "duration_ms": 254721,
       "name": "Aquamarine",
       "url": "https://open.spotify.com/track/1j8hpxvE9IfjR2Vk9ihjrK"
-    },
-    {
-      "added_at": "2022-07-11 20:44:25",
-      "album": {
-        "name": "Romantic Images",
-        "url": "https://open.spotify.com/album/25RhUgQQlr0u6G2r7np9bT"
-      },
-      "artists": [
-        {
-          "name": "Molly Burch",
-          "url": "https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5"
-        }
-      ],
-      "duration_ms": 171359,
-      "name": "Heart of Gold",
-      "url": "https://open.spotify.com/track/3rVbE0KZ8N26C9yn6PonQ0"
     },
     {
       "added_at": "2022-07-11 20:44:25",
@@ -2375,6 +2359,22 @@
       "duration_ms": 204946,
       "name": "Modern Woman",
       "url": "https://open.spotify.com/track/5ZaSoSM8VR7OUiYyEKBmL9"
+    },
+    {
+      "added_at": "2022-07-11 20:44:25",
+      "album": {
+        "name": "Romantic Images",
+        "url": "https://open.spotify.com/album/25RhUgQQlr0u6G2r7np9bT"
+      },
+      "artists": [
+        {
+          "name": "Molly Burch",
+          "url": "https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5"
+        }
+      ],
+      "duration_ms": 171359,
+      "name": "Heart of Gold",
+      "url": "https://open.spotify.com/track/3rVbE0KZ8N26C9yn6PonQ0"
     },
     {
       "added_at": "2022-07-11 20:44:25",
@@ -2507,18 +2507,18 @@
     {
       "added_at": "2022-07-11 20:44:25",
       "album": {
-        "name": "Hopeful",
-        "url": "https://open.spotify.com/album/53jDVUiYTI5UpC7DGeJrdz"
+        "name": "In Heaven",
+        "url": "https://open.spotify.com/album/76pQf98XjjF5RZIniiev2d"
       },
       "artists": [
         {
-          "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+          "name": "Strand of Oaks",
+          "url": "https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL"
         }
       ],
-      "duration_ms": 316360,
-      "name": "Hopeful",
-      "url": "https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV"
+      "duration_ms": 219492,
+      "name": "Sunbathers",
+      "url": "https://open.spotify.com/track/5HKDtUThXMU5XWQLOjfyCo"
     }
   ],
   "unique_name": "Modern Eclectic",

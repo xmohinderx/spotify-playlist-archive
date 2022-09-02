@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > Fresh Latin pop on the rise\. Cover: Pau Laggies
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,440 likes - 55 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,478 likes - 55 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 9 | [Más Muerto Que Vivo](https://open.spotify.com/track/6FkIjhuEDMc3mUFZZKxQlE) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Más Muerto Que Vivo](https://open.spotify.com/album/4LwHkby3HSNOaz6NH2buDg) | 3:33 |
 | 10 | [Algodón](https://open.spotify.com/track/4h7c7tqYjCBdWz8SPZh3bw) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Algodón](https://open.spotify.com/album/35XG5qlu93AXHV56U8tKZm) | 2:52 |
 | 11 | [Gracias x Nada](https://open.spotify.com/track/1MzHoEWtfuLGAtoxVk5fTZ) | [Nanizzie](https://open.spotify.com/artist/0sw69zXt3PgxRXvo1Czg3j) | [Gracias x Nada](https://open.spotify.com/album/2SRL17miIXiQ1aAonnxXU0) | 2:52 |
-| 12 | [Sitting In The Corner \(feat\. Adriel Favela & Kacey Musgraves\)](https://open.spotify.com/track/1Cx5pTBRWI67JXVmMGJT23) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fantasy Gateway](https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM) | 3:52 |
+| 12 | [solo x ti](https://open.spotify.com/track/5DhPx1cy248eVvTBoTVrrB) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [solo x ti](https://open.spotify.com/album/0x9tjfkTjrYiQuTAflIiNe) | 3:18 |
 | 13 | [guerra fría](https://open.spotify.com/track/2DixC7X56VnSsQfxlP6m7w) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1), [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0), [Matt Hunter](https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU) | [guerra fría](https://open.spotify.com/album/0WpDxNe3deBqXNBOAy7rFc) | 3:04 |
-| 14 | [solo x ti](https://open.spotify.com/track/5DhPx1cy248eVvTBoTVrrB) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [solo x ti](https://open.spotify.com/album/0x9tjfkTjrYiQuTAflIiNe) | 3:18 |
+| 14 | [Sitting In The Corner \(feat\. Adriel Favela & Kacey Musgraves\)](https://open.spotify.com/track/1Cx5pTBRWI67JXVmMGJT23) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fantasy Gateway](https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM) | 3:52 |
 | 15 | [GURÚ](https://open.spotify.com/track/0pZAXbsmAvNQvDAYHpXoCF) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [GOTEO](https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy) | 3:43 |
 | 16 | [Byemalandra](https://open.spotify.com/track/6yBewYV4hyNlDOCV4mialt) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Byemalandra](https://open.spotify.com/album/1CJIb7bzXt24h0EuezCxQf) | 2:45 |
 | 17 | [No Estamos Tan Locos](https://open.spotify.com/track/1uZJgxYvEOTlyY2baL0m17) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [No Estamos Tan Locos](https://open.spotify.com/album/7gZvRRiER5mk2ZtqBfaTu3) | 3:26 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 21 | [Ramona Flowers](https://open.spotify.com/track/0zvj4JsD8fAV35vLTCdKWQ) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Ramona Flowers](https://open.spotify.com/album/0yw9ssvV1xfHZGdsZAp3Am) | 3:01 |
 | 22 | [Cuando Te Veo](https://open.spotify.com/track/1vkwYB3RIvRC9ZG5KjHdqI) | [Eix](https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Cuando Te Veo](https://open.spotify.com/album/1sd7FmEEWSKKgBiFDmham5) | 3:19 |
 | 23 | [Agua Salada](https://open.spotify.com/track/22QO6gby3fhNRkNVAFxp5v) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [Agua Salada](https://open.spotify.com/album/3bKROtBqvLYbu3zXuRqR3W) | 3:33 |
-| 24 | [DÍA DEL AMOR](https://open.spotify.com/track/7B4fViGgWYNzc27j9fyTdU) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [ANASTASIA](https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO) | 3:02 |
-| 25 | [Duele Tanto](https://open.spotify.com/track/5aSEJUz95JqJ0mkrFOxT8M) | [Carlos Zaur](https://open.spotify.com/artist/6BWQiJpeXCHep8xW0vAIOk), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Duele Tanto](https://open.spotify.com/album/4rvwVifbqZhPG49LLMdQKe) | 3:13 |
+| 24 | [Duele Tanto](https://open.spotify.com/track/5aSEJUz95JqJ0mkrFOxT8M) | [Carlos Zaur](https://open.spotify.com/artist/6BWQiJpeXCHep8xW0vAIOk), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Duele Tanto](https://open.spotify.com/album/4rvwVifbqZhPG49LLMdQKe) | 3:13 |
+| 25 | [DÍA DEL AMOR](https://open.spotify.com/track/7B4fViGgWYNzc27j9fyTdU) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [ANASTASIA](https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO) | 3:02 |
 | 26 | [Summer Nights](https://open.spotify.com/track/2J6KEv2z0LWUsMc2bHBAOR) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) | [Summer Nights](https://open.spotify.com/album/3noBkmNZz14QcgIRgIzAZQ) | 2:31 |
 | 27 | [Ibiza](https://open.spotify.com/track/2g6C2LvQTxrqq3ncYWG9nO) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [Luciano](https://open.spotify.com/artist/7pb926owWkly4sZus8Esnk) | [Ibiza](https://open.spotify.com/album/7nnxK28W7MA5Pe6ptn8mQ3) | 3:08 |
 | 28 | [Amanecer](https://open.spotify.com/track/45wQICCratOjNmYPttJAHO) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Amanecer](https://open.spotify.com/album/4GPaPlVZO5DmZO5LPt8pva) | 3:11 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 54 | [Burberry Tears](https://open.spotify.com/track/19dOJKxWjNgWsjGVcItOSD) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [NMDA](https://open.spotify.com/album/7M69A9V3GcxsqMjYNAzcr5) | 3:05 |
 | 55 | [Apodos](https://open.spotify.com/track/6j3eHgouvrPZsc195RkHGd) | [Aloisio](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [Apodos](https://open.spotify.com/album/1QUaGILRvCs7Iqo8h9ysBP) | 2:39 |
 
-Snapshot ID: `MTY2MDIzMjg4MiwwMDAwMDAwMGI3ZWIwZDMxNzIzOWU4NTI5ODcxY2FkYzBlYTI2Yjcy`
+Snapshot ID: `MTY2MDIzMjg4MiwwMDAwMDAwMDJhMDJiYTgzMDY1NjUzMzkwODViMDk4OGVhMjNmMGVi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uc99HoZBLU.md) - [plain]
 
 > for those who appreciate a curated mood 🪩
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,034 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,609 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uc99HoZBLU.md) - [plain]
 | 36 | [Water Fountain](https://open.spotify.com/track/4IhKLu7Vk3j2TLmnFPl6To) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 3:38 |
 | 37 | [N Side](https://open.spotify.com/track/24G1PXBWoRgV0wDXZKwxzz) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Apollo XXI](https://open.spotify.com/album/3IhDL1HDvlujs6ZcIfL9gE) | 3:44 |
 | 38 | [Homage](https://open.spotify.com/track/7DcJ6fEBb7BaKuYKTwiDxK) | [Mild High Club](https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG) | [Skiptracing](https://open.spotify.com/album/6O9YDn12I4WQxUBQE9tpnN) | 2:57 |
-| 39 | [Sunflower](https://open.spotify.com/track/4EpZ4eYuZOwPSSwyqpdHnJ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Sunflower](https://open.spotify.com/album/1FhmTMNe8AziAPkB29114F) | 4:12 |
-| 40 | [rises the moon](https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [recently](https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux) | 2:41 |
+| 39 | [rises the moon](https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [recently](https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux) | 2:41 |
+| 40 | [Sunflower](https://open.spotify.com/track/4EpZ4eYuZOwPSSwyqpdHnJ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Sunflower](https://open.spotify.com/album/1FhmTMNe8AziAPkB29114F) | 4:12 |
 | 41 | [Shootout](https://open.spotify.com/track/4pTkDIlpFNoeWbahu8pVXW) | [Izzamuzzic](https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8), [Julien Marchal](https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU) | [Shootout](https://open.spotify.com/album/2lQQ5xfJwzELcecvu8gZN5) | 4:55 |
 | 42 | [Vas](https://open.spotify.com/track/6S7o12almFeL57rbRvdY5l) | [jagger finn](https://open.spotify.com/artist/4b1cEwAKl1Wdg6x8kkraJa) | [Triplbt Theme](https://open.spotify.com/album/0Nq3r1NoSh6bq6SXxuKnlM) | 1:30 |
 | 43 | [C U Girl](https://open.spotify.com/track/6FBzhcfgGacfXF3AmtfEaX) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [C U Girl](https://open.spotify.com/album/33jE0rzk63VdTJcDukmjRa) | 2:09 |
 | 44 | [Can We Kiss Forever?](https://open.spotify.com/track/58wyJLv6yH1La9NIZPl3ne) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Adriana Proenza](https://open.spotify.com/artist/7KHA7OOevgTDFhlym0oEyP) | [Can We Kiss Forever?](https://open.spotify.com/album/0MGcjBIFcL2qaCrgGjIGFb) | 3:07 |
 | 45 | [Mrs Magic](https://open.spotify.com/track/0TZejo18HlJ86OrWNsXKnw) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Mrs Magic](https://open.spotify.com/album/3Oovjf1PZOryLQSDKwjJzO) | 3:28 |
 | 46 | [Romantic Lover](https://open.spotify.com/track/7s5VQqrjBtrBgZL4pEa46S) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Let's Skip to the Wedding](https://open.spotify.com/album/04uOXDWUgZmTps35RqDBg4) | 1:26 |
-| 47 | [Loving Is Easy \(feat\. Benny Sings\)](https://open.spotify.com/track/5EYi2rH4LYs6M21ZLOyQTx) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Loving Is Easy \(feat\. Benny Sings\)](https://open.spotify.com/album/4D6BtgzCwuJx9omikqA8Rg) | 2:35 |
-| 48 | [at least i'm pretty](https://open.spotify.com/track/5o9iQVktO08gIlRAHqqxtj) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [at least i'm pretty](https://open.spotify.com/album/2OAHHz54HY0g1vLBr23Gmg) | 1:46 |
-| 49 | [Sunflower, Vol\. 6](https://open.spotify.com/track/6iYMfxznTBlcVOgRHab2W0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:41 |
+| 47 | [at least i'm pretty](https://open.spotify.com/track/5o9iQVktO08gIlRAHqqxtj) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [at least i'm pretty](https://open.spotify.com/album/2OAHHz54HY0g1vLBr23Gmg) | 1:46 |
+| 48 | [Sunflower, Vol\. 6](https://open.spotify.com/track/6iYMfxznTBlcVOgRHab2W0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:41 |
+| 49 | [Loving Is Easy \(feat\. Benny Sings\)](https://open.spotify.com/track/5EYi2rH4LYs6M21ZLOyQTx) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Loving Is Easy \(feat\. Benny Sings\)](https://open.spotify.com/album/4D6BtgzCwuJx9omikqA8Rg) | 2:35 |
 | 50 | [Some](https://open.spotify.com/track/4riDfclV7kPDT9D58FpmHd) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Some](https://open.spotify.com/album/4POiurFeB5bDsF9yBwOxbh) | 1:58 |
 | 51 | [Boys Will Be Bugs](https://open.spotify.com/track/6suYoN4gFkanqOBn5yRnJC) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Animal Kingdom](https://open.spotify.com/album/40MJoESOQ4BDr5Y6jY7cFa) | 5:29 |
 | 52 | [\#miles](https://open.spotify.com/track/1hboZZxKIEjLHRIkhx4Soi) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [\#miles](https://open.spotify.com/album/2PCs0ZB8bHofV9khzpRmal) | 1:55 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uc99HoZBLU.md) - [plain]
 | 74 | [Valentine](https://open.spotify.com/track/2EjuEHTRZRgE9pvaBm5Hh3) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Valentine](https://open.spotify.com/album/2BI2mJAuuoQ10WFRz6cqb6) | 2:48 |
 | 75 | [Eyes Blue Like The Atlantic \(feat\. Subvrbs\)](https://open.spotify.com/track/0qUcpOOna3kkrwfqky85e1) | [Sista Prod](https://open.spotify.com/artist/7cSbcJTJBBSXDjRNR2qD61), [Subvrbs](https://open.spotify.com/artist/0NVy1xEsz4i8pX33Scv75n) | [Eyes Blue Like The Atlantic \(feat\. Subvrbs\)](https://open.spotify.com/album/5UYjxc4HIYeesKS0WJlhEI) | 2:34 |
 
-Snapshot ID: `MTY2MTI4NTQ4NywwMDAwMDAwMGU1YTY3OTMyMjIwYmYyZDI4ODMxNDIwYTNjN2FiNmE3`
+Snapshot ID: `MTY2MTI4NTQ4NywwMDAwMDAwMDZlZDZlNWE3YWQ0OTY0MjZmOGExNjA1YzU3NGM1MzFh`

@@ -4,7 +4,7 @@
 
 > Gorillaz make anti pop.
 
-1,064 songs - 2 day 3 hr 45 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
+1,066 songs - 2 day 3 hr 51 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -587,7 +587,7 @@
 | [Memphis](https://open.spotify.com/track/7yPjeaoQlwF8tfbnAhNO2v) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Halfway Off the Porch](https://open.spotify.com/album/6Vr72HwhlNxaj22qlFNPQT) | 3:20 | 2022-05-09 | 2022-06-11 |
 | [MENTHOL\*](https://open.spotify.com/track/2nMTBUdxkdCZWo7n3upy1e) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [MENTHOL\*](https://open.spotify.com/album/1KTVkY7i6Ry8QMtPTBzYOf) | 3:07 | 2021-12-10 | 2022-06-18 |
 | [Mercury](https://open.spotify.com/track/3ixe45hov7EBKXm8tYBmvX) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Mercury](https://open.spotify.com/album/3pc9LMhg8lyfpPTyywABMd) | 4:58 | 2022-06-17 | 2022-07-01 |
-| [MESS U MADE](https://open.spotify.com/track/1jZrlerU1ZWEI7oDPtHPGx) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [AFTER DINNER WE TALK DREAMS](https://open.spotify.com/album/0DNz0XsG6B1Vz1CcbuIsov) | 2:48 | 2022-05-27 |  |
+| [MESS U MADE](https://open.spotify.com/track/1jZrlerU1ZWEI7oDPtHPGx) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [AFTER DINNER WE TALK DREAMS](https://open.spotify.com/album/0DNz0XsG6B1Vz1CcbuIsov) | 2:48 | 2022-05-27 | 2022-09-02 |
 | [Messy \(feat\. Teezo Touchdown & Bktherula\)](https://open.spotify.com/track/79D8MCSEt4fr3qq9XZuTLd) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Las Ruinas](https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO) | 2:30 | 2022-07-22 |  |
 | [Metal Wings](https://open.spotify.com/track/2lY7DpTKGfBZQihvvqJ0Pg) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Metal Wings](https://open.spotify.com/album/7pK3uwwn6UwGfSqxLxJWs5) | 2:42 | 2020-10-13\* | 2021-01-23 |
 | [Mexico](https://open.spotify.com/track/56KAsTLcOQIVrcbfHrTua4) | [Shotgun Willy](https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w), [Yung Craka](https://open.spotify.com/artist/1V2sJvNlPQYSO4Kf6GC3if) | [Mexico](https://open.spotify.com/album/7jYsN8reapgn1y78L90qjx) | 3:24 | 2021-05-08 | 2021-10-13 |
@@ -629,6 +629,7 @@
 | [Neo Surf](https://open.spotify.com/track/6XmT8fIEfcS3ZSVEz00U7m) | [GENER8ION](https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Neo Surf](https://open.spotify.com/album/2g3h5sHGcVvbvsit77Sbbb) | 3:20 | 2021-10-22 | 2022-05-07 |
 | [Never Wanna Fall](https://open.spotify.com/track/2gdmSV6iZDVf8ETlD755Zf) | [Talia Goddess](https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw) | [Poster Girl](https://open.spotify.com/album/5YgXXwuwTim607qGUWXbph) | 4:41 | 2022-07-18 | 2022-08-06 |
 | [Nevermind It To Hell](https://open.spotify.com/track/60m9qQoMAu3KfPg3YxqyHG) | [Belaganas](https://open.spotify.com/artist/4dxp2iZCasMOmCDFztR22q) | [Softy](https://open.spotify.com/album/3xHMtK8SksnWDUUTrWOlmF) | 2:44 | 2022-04-09 | 2022-06-01 |
+| [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Bootie Brown](https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d) | [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/album/4V9YFKLqZ5h8nQFTvDQscC) | 3:35 | 2022-09-01 |  |
 | [NEW MAGIC WAND](https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 3:15 | 2021-06-24 |  |
 | [New Miss America](https://open.spotify.com/track/0NLYcYQzBNZF6FEEOT9HPh) | [Luke Wild](https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8) | [New Miss America](https://open.spotify.com/album/27X74ztJTTyJ1GSXtgEFou) | 1:44 | 2021-08-14 | 2021-10-16 |
 | [NEW SHOES](https://open.spotify.com/track/5mMT04rNymnVa6fNaGLJUo) | [James Mantis](https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r) | [NEW SHOES](https://open.spotify.com/album/0f68Wd5ZMnIe4n4TaLByeu) | 2:32 | 2022-06-17 | 2022-08-06 |
@@ -1063,7 +1064,8 @@
 | [YOU.F.O.](https://open.spotify.com/track/6MHSHFtKYMVvwnld8EglC4) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [YOU.F.O.](https://open.spotify.com/album/3s5aXGEfkweuVJCaJyHCjV) | 3:00 | 2021-06-27 | 2022-01-13 |
 | [Your Love \(Déjà Vu\)](https://open.spotify.com/track/5DYD4zlGiFlkpLaf2Bk8Vl) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Your Love \(Déjà Vu\)](https://open.spotify.com/album/7xz9Hi6y8KaYlLNSkvme0W) | 3:54 | 2020-10-13\* | 2020-11-03 |
 | [Youtube2MP3](https://open.spotify.com/track/6zVkLCrNjslRlGLhmVBrXJ) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Youtube2MP3](https://open.spotify.com/album/1BCUWBszISTyrWaR2T0pPi) | 3:56 | 2021-03-19 | 2021-10-16 |
-| [YUKON \(INTERLUDE\)](https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi) | 2:21 | 2022-08-26 |  |
+| [YUKON \(INTERLUDE\)](https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi) | 2:21 | 2022-08-26 | 2022-09-02 |
+| [YUKON \(INTERLUDE\)](https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/0GxWXE6ltKk4Gx3WyWLLrW) | 2:21 | 2022-08-26 |  |
 | [ZIG ZAGGING](https://open.spotify.com/track/3N1iERegpLyK2hztjYNp0M) | [Asha Imuno](https://open.spotify.com/artist/7qe188k1HYRj6PSFgaGljT) | [ZIG ZAGGING](https://open.spotify.com/album/79ontCOq1CIxW8gEeFVFvB) | 2:04 | 2022-05-27 |  |
 | [Órale](https://open.spotify.com/track/5WOPPArye4m0QSXt78mp7m) | [Ezemdi](https://open.spotify.com/artist/1Qpq6IXdVWTg4MkUEhmlmc) | [Órale](https://open.spotify.com/album/7561wsPFXuclyDU8z4QZy7) | 4:31 | 2020-10-13\* | 2020-11-03 |
 | [‎friends /‎ wasted](https://open.spotify.com/track/2CgTn3lz8yHpsAmB8rDofF) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎friends /‎ wasted](https://open.spotify.com/album/1AMzDzS35VwDrPZ880KQYp) | 2:32 | 2020-11-07 | 2021-10-16 |

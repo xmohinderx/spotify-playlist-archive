@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 
 > the best things in life can't be contained.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,475,689 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,475,641 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 | 19 | [The Woods](https://open.spotify.com/track/5377z0OljWvRR7CdSQrJxP) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Wanderlust](https://open.spotify.com/album/37yGR6auNK3W1XbcDYfSjw) | 4:01 |
 | 20 | [Hold On Tight](https://open.spotify.com/track/3nM3w8zepUEPTN8WbOccjz) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [All Love Everything \(Deluxe\)](https://open.spotify.com/album/2oA8BwC6GV58z35khUb1Tx) | 3:48 |
 | 21 | [Weekend](https://open.spotify.com/track/3p0kes1amIxF9ucjtclpYm) | [Sumbuck](https://open.spotify.com/artist/6T4OrfxxOTkAUKAe2gg9fZ), [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Weekend](https://open.spotify.com/album/59ZTo6b3Rfc1R7K6Cwa1CH) | 2:27 |
-| 22 | [Changes](https://open.spotify.com/track/0gKiONJeEtwb3hps4sUgyn) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB) | [The Spirit Moves](https://open.spotify.com/album/77UiJMD9OVYj2YXr2gO9L5) | 2:41 |
-| 23 | [Run](https://open.spotify.com/track/7xoDqnyrBDgusvQ1AHoOSx) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Run](https://open.spotify.com/album/0lBgdXhU3VUskJTGwOU2BT) | 3:16 |
+| 22 | [Run](https://open.spotify.com/track/7xoDqnyrBDgusvQ1AHoOSx) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Run](https://open.spotify.com/album/0lBgdXhU3VUskJTGwOU2BT) | 3:16 |
+| 23 | [Changes](https://open.spotify.com/track/0gKiONJeEtwb3hps4sUgyn) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB) | [The Spirit Moves](https://open.spotify.com/album/77UiJMD9OVYj2YXr2gO9L5) | 2:41 |
 | 24 | [Lemon Tree](https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Lemon Tree](https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G) | 4:08 |
 | 25 | [Furr](https://open.spotify.com/track/2fgbsGWU2Dum08uifQHhiB) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [Furr](https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7) | 4:07 |
 | 26 | [Olivia](https://open.spotify.com/track/40DGtj95w54IDSbA7BWn3o) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Feathers & Fishhooks](https://open.spotify.com/album/26n1VRHY8iKUGgRneKSOud) | 3:53 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 | 38 | [Celeste](https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm) | [Ezra Vine](https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn) | [Celeste EP](https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt) | 3:23 |
 | 39 | [Strong Enough](https://open.spotify.com/track/1M1xjg2N1i5EKosEPtx2T7) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [MONOVISION](https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE) | 3:34 |
 | 40 | [On The Road Again](https://open.spotify.com/track/4Uc8xnNu2Mm1yObB0uxZI6) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [On The Road Again](https://open.spotify.com/album/55usaj7ODaBiksdYFoKUvb) | 2:53 |
-| 41 | [Amadeus](https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S) | [Family and Friends](https://open.spotify.com/artist/2AmW5LU0vqfHoN2qvghRFe) | [XOXO](https://open.spotify.com/album/1SX20zgyjlyqjHSzOTmqxf) | 3:27 |
-| 42 | [Grow into Love](https://open.spotify.com/track/6FloUWDjW3r51mRYyw0vv5) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/2dyKBgz9mbVHUbeX2lbd8p) | 2:42 |
+| 41 | [Grow into Love](https://open.spotify.com/track/6FloUWDjW3r51mRYyw0vv5) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/2dyKBgz9mbVHUbeX2lbd8p) | 2:42 |
+| 42 | [Amadeus](https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S) | [Family and Friends](https://open.spotify.com/artist/2AmW5LU0vqfHoN2qvghRFe) | [XOXO](https://open.spotify.com/album/1SX20zgyjlyqjHSzOTmqxf) | 3:27 |
 | 43 | [Song In My Head](https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 4:40 |
 | 44 | [Horse to Water](https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Neptune](https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS) | 4:04 |
 | 45 | [Our Remains](https://open.spotify.com/track/3GLMvFjzOgJ3XGphEEVEPv) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Ancient Transition](https://open.spotify.com/album/1ybYkyaTa4UKK38JnMXAJl) | 4:04 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 | 78 | [Shakedown](https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 2:46 |
 | 79 | [Mountain Song](https://open.spotify.com/track/2ZsKcXPYFPMF9RIh12XLCh) | [Little Chief](https://open.spotify.com/artist/5oYrefc0gr24yRUMCDBZkB) | [Lion's Den](https://open.spotify.com/album/3j3lKIWIoQozFm1UHJ6mUf) | 4:56 |
 | 80 | [Moving Mountains](https://open.spotify.com/track/6PRr6dzkiaLTGbkLSdQCvL) | [The Brevet](https://open.spotify.com/artist/6tK77FerjTNLS5EEhI0zGM) | [American Novel: Ch\. I](https://open.spotify.com/album/6aOqx8c8t5I7I3fg3OxSCX) | 4:39 |
-| 81 | [Sink In](https://open.spotify.com/track/3cFdJIGdexTsNGuzKfsBV2) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Permanent Way](https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv) | 3:20 |
-| 82 | [The Pool](https://open.spotify.com/track/3I8Y491lACYzJTM8fmIWdI) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [The Pool](https://open.spotify.com/album/7FEdabAF4tVaiXTCmykn2t) | 4:02 |
+| 81 | [The Pool](https://open.spotify.com/track/3I8Y491lACYzJTM8fmIWdI) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [The Pool](https://open.spotify.com/album/7FEdabAF4tVaiXTCmykn2t) | 4:02 |
+| 82 | [Sink In](https://open.spotify.com/track/3cFdJIGdexTsNGuzKfsBV2) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Permanent Way](https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv) | 3:20 |
 | 83 | [Like a Wave](https://open.spotify.com/track/0p3bGYYZTf75CskrmGwpVi) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Ivory Castanets](https://open.spotify.com/album/4feDk4LVjagDkvmpCem8Le) | 3:10 |
 | 84 | [Won't Be Long](https://open.spotify.com/track/2rw4cJKCCBYpZ57EFHE2Ih) | [The Dead Tongues](https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK) | [Unsung Passage](https://open.spotify.com/album/6M0S7WdKAWPcXU3lrEpEJW) | 3:45 |
 | 85 | [Good Right Now](https://open.spotify.com/track/7k6Ia6hsrweMKk1LiObkC9) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [Time in the Sun](https://open.spotify.com/album/4zDxvE6VjZfELyXA13kLmn) | 3:21 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 | 94 | [Peach Fuzz](https://open.spotify.com/track/2UFtUjo3UebrpxbAFvSdRz) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Peach Fuzz](https://open.spotify.com/album/3SBXtpxz4noPeQg4MqD7RP) | 3:44 |
 | 95 | [Olalla](https://open.spotify.com/track/0vrlxoXcbwD8Sklwy59N9g) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Nocturne EP](https://open.spotify.com/album/3KeZeDLfggA5icZ8HG9FHm) | 4:07 |
 | 96 | [Johnny](https://open.spotify.com/track/4WDtGj1M2HFlcjvYIiRFug) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [World On The Ground](https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH) | 3:59 |
-| 97 | [Mountain Man](https://open.spotify.com/track/3QnxeNu890sL0Lcfy0iFzQ) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH), [The Stampede](https://open.spotify.com/artist/6naWDjIIvxOhHfu99ubAC7) | [Window Flowers](https://open.spotify.com/album/799tX7gorQNl08X2e6Bdt8) | 3:58 |
-| 98 | [Know Your Demons](https://open.spotify.com/track/3AonChVGbKzTPGpkiR4Awe) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Know Your Demons](https://open.spotify.com/album/408i5hH2MLHqX6X6srXEL8) | 3:26 |
+| 97 | [Know Your Demons](https://open.spotify.com/track/3AonChVGbKzTPGpkiR4Awe) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Know Your Demons](https://open.spotify.com/album/408i5hH2MLHqX6X6srXEL8) | 3:26 |
+| 98 | [Mountain Man](https://open.spotify.com/track/3QnxeNu890sL0Lcfy0iFzQ) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH), [The Stampede](https://open.spotify.com/artist/6naWDjIIvxOhHfu99ubAC7) | [Window Flowers](https://open.spotify.com/album/799tX7gorQNl08X2e6Bdt8) | 3:58 |
 | 99 | [Boardwalks \- Sonny Alven Remix](https://open.spotify.com/track/5z16txnOAgiPxxV2Qb8YlO) | [Little May](https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH), [Sonny Alven](https://open.spotify.com/artist/2zHHEU3t9cutZFyG0fHdOR) | [Boardwalks \(Sonny Alven Remix\)](https://open.spotify.com/album/2fkBdOnfmX6XgMyISZIBOY) | 4:24 |
 | 100 | [Expectations](https://open.spotify.com/track/7sIONDBUsDWYUll2uwnjY9) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Expectations](https://open.spotify.com/album/6zP9AZREIcUvAjpX2lKRIl) | 3:55 |
 
-Snapshot ID: `MTY1MzY4NDczNywwMDAwMDAwMGU2ZGQ1OTVmZDkwYzgyNGQ1ZmZlZDZmYTBjZmM5ODk2`
+Snapshot ID: `MTY1MzY4NDczNywwMDAwMDAwMDJiODA3M2I5ZmI0NmU0OWVmMTUwYWJkMjZjOGIzYjE5`

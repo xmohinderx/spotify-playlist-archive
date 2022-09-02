@@ -4,7 +4,7 @@
 
 > Lo más alternativo para una mamá muy mo\-der\-na.
 
-132 songs - 8 hr 10 min - [published](https://open.spotify.com/playlist/6EYlIXBIIzqgr8ALNHtuLz)
+133 songs - 8 hr 13 min - [published](https://open.spotify.com/playlist/6EYlIXBIIzqgr8ALNHtuLz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [Kilómetros](https://open.spotify.com/track/6fAToGuBw5lPlWvzdzGyYx) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Kilómetros](https://open.spotify.com/album/4yitWO4wI8bRLSSIZ74E0L) | 3:32 | 2022-04-18 | 2022-07-29 |
 | [La Final](https://open.spotify.com/track/0Zqpxe6UdF80IYommiUV3j) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [La Final](https://open.spotify.com/album/2sqCeR4NoJOJ6wN2mkiOP3) | 3:18 | 2022-05-10 |  |
 | [La Izquierda de la Noche](https://open.spotify.com/track/7ckFZJx6PYjb3P9mc8PNQl) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [La Izquierda de la Noche](https://open.spotify.com/album/5l2XPMJy6oB4BiRcYxEp8S) | 3:39 | 2022-04-18 |  |
-| [La Última Llamada](https://open.spotify.com/track/6uvNQEoUPJaHI10oVffAHO) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [La Última Llamada](https://open.spotify.com/album/2G0Z5q89Kp9NXX6a7y5F1t) | 3:14 | 2022-08-30 |  |
+| [La Última Llamada](https://open.spotify.com/track/3xqO0HGtRgTkS9xzNEQxwb) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [La Última Llamada](https://open.spotify.com/album/5SFEcLOtKOTjlI1q72TbnL) | 3:14 | 2022-08-30 |  |
+| [La Última Llamada](https://open.spotify.com/track/6uvNQEoUPJaHI10oVffAHO) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [La Última Llamada](https://open.spotify.com/album/2G0Z5q89Kp9NXX6a7y5F1t) | 3:14 | 2022-08-30 | 2022-09-02 |
 | [Lady Blue](https://open.spotify.com/track/492aSGsuE0dOOBKB66781Z) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Flamingos](https://open.spotify.com/album/2MUTc0OJT6lOZCwifS1LyB) | 5:29 | 2022-04-18 |  |
 | [Last Nite](https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:13 | 2022-07-19 |  |
 | [Last Nite](https://open.spotify.com/track/7kzKAuUzOITUauHAhoMoxA) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5) | 3:13 | 2022-04-18 | 2022-07-29 |

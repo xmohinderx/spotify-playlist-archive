@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: EST Gee
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,083,708 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,083,857 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 19 | [Dissin the Dead](https://open.spotify.com/track/5EeFkn825wcD3q2Tkk2vCu) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Dissin the Dead](https://open.spotify.com/album/4ls5UaYdO6EZHiry7sr8Po) | 3:48 |
 | 20 | [Pip N' Walk](https://open.spotify.com/track/5trKhl8w5Rcg8wbenmmlWj) | [YBN Nahmir](https://open.spotify.com/artist/3gGUMEwIX6XodWsYEvKSal) | [Faster Car Music](https://open.spotify.com/album/0olnICw6Z8zojoAttZFpRD) | 2:43 |
 | 21 | [STAYING ALIVE \(feat\. Drake & Lil Baby\)](https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [STAYING ALIVE \(feat\. Drake & Lil Baby\)](https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok) | 2:58 |
-| 22 | [Keep Dissing 2 \(with Lil Durk\)](https://open.spotify.com/track/68ccsqXPhYGGTQ1RVDDtOh) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Keep Dissing 2 \(with Lil Durk\)](https://open.spotify.com/album/5Xt2jd95PhUWTLXoy2pyJN) | 2:54 |
+| 22 | [Keep Dissing 2 \(with Lil Durk\)](https://open.spotify.com/track/68ccsqXPhYGGTQ1RVDDtOh) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Keep Dissing 2 \(with Lil Durk\)](https://open.spotify.com/album/5Xt2jd95PhUWTLXoy2pyJN) | 2:53 |
 | 23 | [Slide \(Ft\. 21 Savage / Remix\)](https://open.spotify.com/track/3479IDKcKrsY7JDZjNXfHW) | [Madmarcc](https://open.spotify.com/artist/3o6rIhI1Ahunc62U1tx6tg), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Slide \(Ft\. 21 Savage / Remix\)](https://open.spotify.com/album/2R8xL4YlMBUYBDqEyhX50g) | 2:35 |
 | 24 | [Get Even](https://open.spotify.com/track/2YVscnKcfmlc2fl89FlX5h) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Get Even](https://open.spotify.com/album/5dL0R5fAWbcjXgL73QqOoV) | 2:41 |
 | 25 | [Demon Time](https://open.spotify.com/track/2zWkxKrUj8GfsUMi0MczgE) | [FN DaDealer](https://open.spotify.com/artist/1bqJuNMz1iBqWo9B0BdIiM), [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO) | [Demon Time](https://open.spotify.com/album/5kKKmFlOzZCYVEXyVQDV9e) | 3:08 |

@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 497740,
       "name": "Am Rande der Dunkelheit",
       "url": "https://open.spotify.com/track/0ZnZp0Fo1Gxwx8dC8ol65F"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 201160,
       "name": "Bathed in Clouds of Blood",
       "url": "https://open.spotify.com/track/0Ms5AudGd4Umj3nOyXlzYk"
@@ -804,6 +804,24 @@
     },
     {
       "album": {
+        "name": "Compulsion for Cruelty",
+        "url": "https://open.spotify.com/album/5OXIkskoAjJuU4vgHCreEL"
+      },
+      "artists": [
+        {
+          "name": "Dying Fetus",
+          "url": "https://open.spotify.com/artist/2DqzOWVL2ly48IA9bpZdie"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277996,
+      "name": "Compulsion for Cruelty",
+      "url": "https://open.spotify.com/track/6qyjlMANn1diSEIlXQLm50"
+    },
+    {
+      "album": {
         "name": "Demigod",
         "url": "https://open.spotify.com/album/7cNc742gxDcixwJcg3Jtm2"
       },
@@ -1096,6 +1114,24 @@
     },
     {
       "album": {
+        "name": "Death from Above",
+        "url": "https://open.spotify.com/album/47k2MkyzdzyjBUHumB3OaO"
+      },
+      "artists": [
+        {
+          "name": "Goatwhore",
+          "url": "https://open.spotify.com/artist/59YfPxuxGghrdPumu6aFKI"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212355,
+      "name": "Death from Above",
+      "url": "https://open.spotify.com/track/3UEGcNxDDunUiGR6KIbCZ0"
+    },
+    {
+      "album": {
         "name": "Death Walks Among Us",
         "url": "https://open.spotify.com/album/3UuzBA3t6Krm96ydpYXaei"
       },
@@ -1255,6 +1291,24 @@
       "duration_ms": 218666,
       "name": "Diviner",
       "url": "https://open.spotify.com/track/3iXwVC24spjmldA84JCjuz"
+    },
+    {
+      "album": {
+        "name": "Drained of Color",
+        "url": "https://open.spotify.com/album/3n92juc9UgRjeqzywQW937"
+      },
+      "artists": [
+        {
+          "name": "Exhumed",
+          "url": "https://open.spotify.com/artist/2OjtmMho2pBS86zQ1PliRu"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272200,
+      "name": "Drained of Color",
+      "url": "https://open.spotify.com/track/5lrKrPesGrJIX681A3wEKR"
     },
     {
       "album": {
@@ -1575,7 +1629,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 362026,
       "name": "Flammen fra Nord",
       "url": "https://open.spotify.com/track/46rxOhOtgCAswKbvu34j5B"
@@ -2321,7 +2375,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 376133,
       "name": "I",
       "url": "https://open.spotify.com/track/20Ixhug1ZV3n3XXeB71kDF"
@@ -3820,6 +3874,24 @@
     },
     {
       "album": {
+        "name": "Ruhelos",
+        "url": "https://open.spotify.com/album/1wJvcZgUQRKE3VzL15N7tH"
+      },
+      "artists": [
+        {
+          "name": "Ellende",
+          "url": "https://open.spotify.com/artist/1iLdVM2KFAHUbpaC5wpMbO"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440765,
+      "name": "Ruhelos",
+      "url": "https://open.spotify.com/track/55oD5DLx3Mus347CqyBsJ1"
+    },
+    {
+      "album": {
         "name": "Caravans to the Outer Worlds",
         "url": "https://open.spotify.com/album/4SQD8QqIgZKYEGraVPzxgo"
       },
@@ -4605,7 +4677,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 175973,
       "name": "The Pale Mist Hovers Towards the Nightly Shores",
       "url": "https://open.spotify.com/track/10T3UIoqFkTUCGjZUuG6Gi"
@@ -4771,6 +4843,24 @@
       "duration_ms": 344400,
       "name": "Through the Broken Lens",
       "url": "https://open.spotify.com/track/43eTNu7zmkpkwIzSyPv5YV"
+    },
+    {
+      "album": {
+        "name": "Tides of Glass",
+        "url": "https://open.spotify.com/album/21LFLY7iEHgcVp8ag6mnjl"
+      },
+      "artists": [
+        {
+          "name": "Ingested",
+          "url": "https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257898,
+      "name": "Tides of Glass",
+      "url": "https://open.spotify.com/track/48HhbpVOPnKvJBKo23rZfz"
     },
     {
       "album": {

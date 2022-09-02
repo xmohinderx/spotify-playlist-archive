@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSrwtip3vZP.md) - [plain]
 
 > music to help you \~ focus \~
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,200 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,517 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSrwtip3vZP.md) - [plain]
 | 34 | [Pray](https://open.spotify.com/track/2gbRKKSyW7e7vAkyvrJkte) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Pray](https://open.spotify.com/album/0bIr7aFjLBuAkMbsUsWY3I) | 2:26 |
 | 35 | [Unloving You](https://open.spotify.com/track/2w9nvs1ByWUGkED4M0ug34) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Unloving You](https://open.spotify.com/album/0eljMEeLbmyj77sh2fzo4j) | 2:33 |
 | 36 | [I Burned LA Down](https://open.spotify.com/track/34Mg7rSCT7nRsf1kVCAvgz) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Burned LA Down](https://open.spotify.com/album/71EPoeTo5QAlsr2OWCRNhM) | 3:15 |
-| 37 | [Kind Of Girl](https://open.spotify.com/track/04cy0BQeW4ZDLspMIfpMLv) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Kind Of Girl](https://open.spotify.com/album/7M7Qc4c1qDMdrDWXtQ4NF7) | 4:06 |
+| 37 | [Kind Of Girl](https://open.spotify.com/track/2kNnSv2CB0MO3O5WMspcSC) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:06 |
 | 38 | [LET THE GRASS GROW](https://open.spotify.com/track/2BN5ZMErVAhbEroB99b3no) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [LET THE GRASS GROW](https://open.spotify.com/album/160bnYxuf2qbEscs8B4QOu) | 2:55 |
 | 39 | [I Suck At Being Lonely](https://open.spotify.com/track/2w7Li4lbevrPrPSY7pGpxG) | [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [I Suck At Being Lonely](https://open.spotify.com/album/7bA0Jk8tXScy1ELn54aPZZ) | 2:58 |
 | 40 | [i think i wanna text u](https://open.spotify.com/track/4hH46xhExjwEGfuWFgnOc3) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [vaultboy EP](https://open.spotify.com/album/0SiHxjCWqC4ODGKirRUk9L) | 3:16 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSrwtip3vZP.md) - [plain]
 | 79 | [too many feelings](https://open.spotify.com/track/3tb3sGsGLnSsyUxue8Aetd) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [too many feelings](https://open.spotify.com/album/2XJb3KWRBjAarZvPf6Rqwu) | 3:06 |
 | 80 | [Hold Me Like You Used To](https://open.spotify.com/track/7eEcVUDXfIaZPq4kwhPIML) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Golden Wings](https://open.spotify.com/album/3eLDkKjoLPJLR5sAgcx6lk) | 3:06 |
 
-Snapshot ID: `MTY2MTEzNjMzOCwwMDAwMDAwMDgwNTEzZGEyZTI4NjhjNTI4OWRlMWRiMjA4NmIwZTZj`
+Snapshot ID: `MTY2MTEzNjMzOCwwMDAwMDAwMDc4MDQ5NjM3YzVmMWNkOWFkYTg3YTFjM2YxZDM0NWI2`

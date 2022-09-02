@@ -1,12 +1,12 @@
 {
   "description": "Celebrating some of the most iconic female voices of all time.  Cover: Barbra Streisand",
-  "num_followers": 1639073,
+  "num_followers": 1638720,
   "original_name": "Great Female Voices",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzU1Njg3NiwwMDAwMDAwMDViY2EwM2UwMmFmMGQ1NDdmNTM1NGE5ZDE1NWYyNDk5",
+  "snapshot_id": "MTY1NzU1Njg3NiwwMDAwMDAwMDRhNmZlNDhkZTJjZmQ3ZjcyNTRjN2QzNGI4Mjc4YThi",
   "tracks": [
     {
       "added_at": "2022-07-11 16:27:56",
@@ -699,6 +699,22 @@
     {
       "added_at": "2022-07-11 16:27:56",
       "album": {
+        "name": "Simple Dreams",
+        "url": "https://open.spotify.com/album/15lJi5fAnWPltCKBTUbTry"
+      },
+      "artists": [
+        {
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        }
+      ],
+      "duration_ms": 239399,
+      "name": "Blue Bayou",
+      "url": "https://open.spotify.com/track/3zxklD2EGecZre9MjEEvIU"
+    },
+    {
+      "added_at": "2022-07-11 16:27:56",
+      "album": {
         "name": "Good To Be Back",
         "url": "https://open.spotify.com/album/0mqBJAuGoE3RpiK8cxjnvg"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 260013,
       "name": "Super Duper Love",
       "url": "https://open.spotify.com/track/30yn7KuCLbXGCXxjsB0C8K"
-    },
-    {
-      "added_at": "2022-07-11 16:27:56",
-      "album": {
-        "name": "Britney (Digital Deluxe Version)",
-        "url": "https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 231066,
-      "name": "I'm Not a Girl, Not Yet a Woman",
-      "url": "https://open.spotify.com/track/1xg1yGPy1Y3YUf44s6TB1o"
     }
   ],
   "unique_name": "Great Female Voices",

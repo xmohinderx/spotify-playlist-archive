@@ -1,12 +1,12 @@
 {
   "description": "The Corridos of yesterday and today all in one place!",
-  "num_followers": 21342,
+  "num_followers": 21364,
   "original_name": "Now & Then Corridos ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTAyNDAwMCwwMDAwMDAwMDQxYzE3Y2Q3YTVkOTgwNjlhN2QxZGM1ZWRmYWQyYjVk",
+  "snapshot_id": "MTY0MTAyNDAwMCwwMDAwMDAwMDdmMDQzYmQ4MDFhODIxNzVmZjcyMmM4OWRhODU0ZDNl",
   "tracks": [
     {
       "added_at": "2022-01-01 08:00:00",
@@ -191,22 +191,18 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Puerta Abierta, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg"
+        "name": "Soy Buen Amigo",
+        "url": "https://open.spotify.com/album/1e35jCMYgVC4dOt1YykB6v"
       },
       "artists": [
         {
           "name": "El Fantasma",
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 142064,
-      "name": "Cabr\u00f3n y Vago - En Vivo",
-      "url": "https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU"
+      "duration_ms": 153967,
+      "name": "Soy Buen Amigo",
+      "url": "https://open.spotify.com/track/1Z0auW1yEy6Dq9hsRdeIV3"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -375,18 +371,22 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Soy Buen Amigo",
-        "url": "https://open.spotify.com/album/1e35jCMYgVC4dOt1YykB6v"
+        "name": "Puerta Abierta, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg"
       },
       "artists": [
         {
           "name": "El Fantasma",
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 153967,
-      "name": "Soy Buen Amigo",
-      "url": "https://open.spotify.com/track/1Z0auW1yEy6Dq9hsRdeIV3"
+      "duration_ms": 142064,
+      "name": "Cabr\u00f3n y Vago - En Vivo",
+      "url": "https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU"
     },
     {
       "added_at": "2022-01-01 08:00:00",

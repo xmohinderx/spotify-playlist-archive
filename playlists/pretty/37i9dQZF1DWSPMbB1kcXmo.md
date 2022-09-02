@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSPMbB1kcXmo.md) - [plain]
 
 > Viral classics\. Yep, we're at that stage.
 
-[Spotify](https://open.spotify.com/user/spotify) - 739,139 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 737,651 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,14 +16,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSPMbB1kcXmo.md) - [plain]
 | 6 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [STAY \(with Justin Bieber\)](https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ) | 2:21 |
 | 7 | [death bed \(coffee for your head\)](https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [death bed \(coffee for your head\)](https://open.spotify.com/album/2p9gK2BcdrloHNJwarc9gc) | 2:53 |
 | 8 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 |
-| 9 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 |
+| 9 | [Dark Red](https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Dark Red](https://open.spotify.com/album/5fvUFzgVEni3L7769OabqQ) | 2:53 |
 | 10 | [Stunnin' \(feat\. Harm Franklin\)](https://open.spotify.com/track/2D0dj3hVkRQJCp63cxCPEx) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U), [Harm Franklin](https://open.spotify.com/artist/44rJuOJLavqhY6qGgpQW4U) | [Stunnin' \(feat\. Harm Franklin\)](https://open.spotify.com/album/0ZC4lUnfcEFekGFELwHjZZ) | 2:24 |
-| 11 | [Dark Red](https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Dark Red](https://open.spotify.com/album/5fvUFzgVEni3L7769OabqQ) | 2:53 |
+| 11 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 |
 | 12 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 |
 | 13 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh) | 3:32 |
 | 14 | [drivers license](https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 4:02 |
-| 15 | [Dynamite](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:19 |
-| 16 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 |
+| 15 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 |
+| 16 | [Dynamite](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:19 |
 | 17 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 |
 | 18 | [Wait a Minute!](https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ARDIPITHECUS](https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h) | 3:16 |
 | 19 | [Daddy Issues](https://open.spotify.com/track/5E30LdtzQTGqRvNd7l6kG5) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Wiped Out!](https://open.spotify.com/album/18iFxjZugvKhuNNMbLjZJF) | 4:20 |
@@ -68,10 +68,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSPMbB1kcXmo.md) - [plain]
 | 58 | [WITHOUT YOU](https://open.spotify.com/track/27OeeYzk6klgBh83TSvGMA) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [F\*CK LOVE \(SAVAGE\)](https://open.spotify.com/album/3YjfdLdpQcVI72uKhooZst) | 2:41 |
 | 59 | [Arcade](https://open.spotify.com/track/1Xi84slp6FryDSCbzq4UCD) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Arcade](https://open.spotify.com/album/7BISGeB7QwhqRIadxuLHfG) | 3:03 |
 | 60 | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC) | 3:24 |
-| 61 | [Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:38 |
+| 61 | [Maneater](https://open.spotify.com/track/4wH4dJgrsxONID6KS2tDQM) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 4:18 |
 | 62 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 |
-| 63 | [Maneater](https://open.spotify.com/track/4wH4dJgrsxONID6KS2tDQM) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 4:18 |
-| 64 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 |
+| 63 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 |
+| 64 | [Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:38 |
 | 65 | [All Star](https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Astro Lounge](https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P) | 3:20 |
 | 66 | [No Idea](https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 2:34 |
 | 67 | [Sofia](https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:08 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSPMbB1kcXmo.md) - [plain]
 | 71 | [Gimme More](https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Blackout](https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj) | 4:11 |
 | 72 | [Looking Out for You](https://open.spotify.com/track/3jfZ9M23l0L7RxzYMTgBTv) | [Joy Again](https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk) | [Looking Out for You](https://open.spotify.com/album/7slouenWhZDdDZibkS4nR3) | 2:59 |
 | 73 | [Toxic](https://open.spotify.com/track/3M214U0mwSm041GsQR3nrO) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Serotonin Dreams](https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73) | 2:48 |
-| 74 | [Fancy Like](https://open.spotify.com/track/58UKC45GPNTflCN6nwCUeF) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Country Stuff The Album](https://open.spotify.com/album/4sShdTo9jO2RGLgDkZBgN8) | 2:41 |
-| 75 | [ORANGE SODA](https://open.spotify.com/track/5FkoSXiJPKTNyYgALRJFhD) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:09 |
+| 74 | [ORANGE SODA](https://open.spotify.com/track/5FkoSXiJPKTNyYgALRJFhD) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:09 |
+| 75 | [Fancy Like](https://open.spotify.com/track/58UKC45GPNTflCN6nwCUeF) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Country Stuff The Album](https://open.spotify.com/album/4sShdTo9jO2RGLgDkZBgN8) | 2:41 |
 | 76 | [Violent Crimes](https://open.spotify.com/track/3s7MCdXyWmwjdcWh7GWXas) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [ye](https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe) | 3:35 |
-| 77 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 |
-| 78 | [Mood Swings \(feat\. Lil Tjay\)](https://open.spotify.com/track/5rZlwNFl01HqLWBQGryKSm) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 3:33 |
-| 79 | [Fireflies](https://open.spotify.com/track/3DamFFqW32WihKkTVlwTYQ) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Ocean Eyes](https://open.spotify.com/album/3vf65wfk1EEjVhy6BjENsS) | 3:48 |
-| 80 | [Cigarette Daydreams](https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 3:28 |
+| 77 | [Mood Swings \(feat\. Lil Tjay\)](https://open.spotify.com/track/5rZlwNFl01HqLWBQGryKSm) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 3:33 |
+| 78 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 |
+| 79 | [Cigarette Daydreams](https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 3:28 |
+| 80 | [Fireflies](https://open.spotify.com/track/3DamFFqW32WihKkTVlwTYQ) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Ocean Eyes](https://open.spotify.com/album/3vf65wfk1EEjVhy6BjENsS) | 3:48 |
 
-Snapshot ID: `MTY1MzYyNDA2MCwwMDAwMDAwMDE5OGNlMzJmNTYzYWFiNzlkNmUwM2QxNDA1NjFiZjA0`
+Snapshot ID: `MTY1MzYyNDA2MCwwMDAwMDAwMDM3OGQwNjdmZDA3OTg1NTI2MWU1Mjc1YWYxNmY5MmRm`

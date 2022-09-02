@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Featuring the 'Noteable' songwriters who create your favorite songs.  Cover: Josh Kerr",
+  "description": "Featuring the 'Noteable' songwriters who create your favorite songs.  Cover: Ben Burgess",
   "name": "Country Songwriters",
   "published_playlist_ids": [
     "6gIQ4ulEp086lqaMqKxqFK"
@@ -1255,6 +1255,24 @@
       "duration_ms": 179200,
       "name": "Heartache on the Dancefloor",
       "url": "https://open.spotify.com/track/41oOht1nMooSWdiOLAcVQe"
+    },
+    {
+      "album": {
+        "name": "Heartbreak",
+        "url": "https://open.spotify.com/album/1YNRiSLFpupJgMqZxRyxQx"
+      },
+      "artists": [
+        {
+          "name": "Ben Burgess",
+          "url": "https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188225,
+      "name": "Heartbreak",
+      "url": "https://open.spotify.com/track/09314p0WJhfG0mXqlg6hTC"
     },
     {
       "album": {
@@ -3071,6 +3089,24 @@
       "duration_ms": 240786,
       "name": "Take Your Time",
       "url": "https://open.spotify.com/track/6B9KlXistEsO9vOLLzeSmq"
+    },
+    {
+      "album": {
+        "name": "Tears the Size of Texas",
+        "url": "https://open.spotify.com/album/79l3KSw4fOnOvixKQB1yPI"
+      },
+      "artists": [
+        {
+          "name": "Ben Burgess",
+          "url": "https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238177,
+      "name": "Tears the Size of Texas",
+      "url": "https://open.spotify.com/track/3dty7RRoFfyFTylgKAAy2V"
     },
     {
       "album": {

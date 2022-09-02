@@ -4,7 +4,7 @@
 
 > This is ReoNa\. The essential tracks, all in one playlist.
 
-48 songs - 3 hr 42 min - [published](https://open.spotify.com/playlist/6veeVefkYHSLtRTsxsOXCw)
+49 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/6veeVefkYHSLtRTsxsOXCw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [トウシンダイ](https://open.spotify.com/track/24X8oKzZfqG7eQ3XhN0kSf) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [forget\-me\-not](https://open.spotify.com/album/4PwgqiO9jB02M92C6YfGo2) | 5:14 | 2022-06-09 |  |
 | [ネリヤカナヤ \~美ら奄美\~](https://open.spotify.com/track/1X11FE8znvNDJ1TqUOshXi) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ネリヤカナヤ \~美ら奄美\~](https://open.spotify.com/album/0QV4t1Qt8T9hBo0UtenRvQ) | 5:52 | 2022-07-24 |  |
 | [ミミック](https://open.spotify.com/track/6KvzNhC0ZEJrEQNMrC4u3t) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ANIMA \(Special Edition\)](https://open.spotify.com/album/5uH5YSFKXzMhxXxJbzAbfL) | 5:53 | 2022-06-09 |  |
-| [ライフ・イズ・ビューティフォー](https://open.spotify.com/track/0f1tDeWjRuTAMqxNQu6ofn) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ライフ・イズ・ビューティフォー](https://open.spotify.com/album/4kKFEYFPzJ4xPCNEsFn33d) | 4:26 | 2022-06-09 |  |
+| [ライフ・イズ・ビューティフォー](https://open.spotify.com/track/0f1tDeWjRuTAMqxNQu6ofn) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ライフ・イズ・ビューティフォー](https://open.spotify.com/album/4kKFEYFPzJ4xPCNEsFn33d) | 4:26 | 2022-06-09 | 2022-09-02 |
+| [ライフ・イズ・ビューティフォー](https://open.spotify.com/track/16USvX84tvZa3ppnS06N1e) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Naked](https://open.spotify.com/album/0UTJliTI38ma4q7VV0uiF1) | 4:26 | 2022-09-01 |  |
 | [ライフ・イズ・ビューティフォー \-Instrumental\-](https://open.spotify.com/track/4h2bkYwwW83WbPVFixtzE4) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Naked](https://open.spotify.com/album/0UTJliTI38ma4q7VV0uiF1) | 4:27 | 2022-06-09 |  |
 | [怪物の詩](https://open.spotify.com/track/4Ym1HPO8pl7zrrR2b9MEI3) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [unknown](https://open.spotify.com/album/0IDNAr9hNxxTC8dBwcsvhW) | 4:22 | 2022-06-09 |  |
 | [決意の朝に](https://open.spotify.com/track/7hCrZjwlauy8LMU9z1XcO7) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Null](https://open.spotify.com/album/0Ei7kMa7ZFqHucY4rIjbLC) | 5:11 | 2022-06-09 |  |

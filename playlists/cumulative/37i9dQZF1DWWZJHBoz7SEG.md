@@ -4,7 +4,7 @@
 
 > ¡Kevin Kaarl, Elton John y Britney Spears; KAROL G, Reik y Sech; y más!
 
-1,500 songs - 3 day 10 hr 39 min - [published](https://open.spotify.com/playlist/0cF57aJLHrApDaSD7aCtGt)
+1,502 songs - 3 day 10 hr 45 min - [published](https://open.spotify.com/playlist/0cF57aJLHrApDaSD7aCtGt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -701,7 +701,8 @@
 | [La Tregua](https://open.spotify.com/track/3qVoYfkM3RR8Yn6LIoIscx) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [La Tregua](https://open.spotify.com/album/04KNJc6oR8vCy91pEYWEqE) | 3:52 | 2022-02-11 | 2022-02-19 |
 | [La Triple T](https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La Triple T](https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv) | 2:47 | 2022-05-06 | 2022-05-14 |
 | [La Verbena y el Moriviví](https://open.spotify.com/track/3IQcQJgFhKusvVRMb52Twe) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [La Verbena y el Moriviví](https://open.spotify.com/album/06wwHze6wq4qk3lcuz6ttw) | 3:46 | 2022-02-04 | 2022-02-12 |
-| [La Última Llamada](https://open.spotify.com/track/6uvNQEoUPJaHI10oVffAHO) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [La Última Llamada](https://open.spotify.com/album/2G0Z5q89Kp9NXX6a7y5F1t) | 3:14 | 2022-08-26 |  |
+| [La Última Llamada](https://open.spotify.com/track/3xqO0HGtRgTkS9xzNEQxwb) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [La Última Llamada](https://open.spotify.com/album/5SFEcLOtKOTjlI1q72TbnL) | 3:14 | 2022-08-26 |  |
+| [La Última Llamada](https://open.spotify.com/track/6uvNQEoUPJaHI10oVffAHO) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [La Última Llamada](https://open.spotify.com/album/2G0Z5q89Kp9NXX6a7y5F1t) | 3:14 | 2022-08-26 | 2022-09-02 |
 | [La Última Vez](https://open.spotify.com/track/521P7D3Rg0qIddJYHEtYrm) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [La Última Vez](https://open.spotify.com/album/0ChN0eEv5QQ312SZdNwLIz) | 3:37 | 2022-02-25 | 2022-03-05 |
 | [Laberinto \- Bosq Remix](https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U) | [Laberinto \(Bosq Remix\)](https://open.spotify.com/album/5vfciS3URPiFrOBnzSIy2k) | 3:44 | 2022-02-25 | 2022-03-05 |
 | [Laberintos](https://open.spotify.com/track/2cmrWW2lEdV9Cg3kJK0V4h) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [Laberintos](https://open.spotify.com/album/5zRTNkU4vU8nSXwjXjFuR4) | 3:21 | 2022-06-17 | 2022-06-25 |
@@ -1490,7 +1491,8 @@
 | [You're The One \- Spotify Singles](https://open.spotify.com/track/0VGgkl6AAAmr6V2jvG98CZ) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Spotify Singles](https://open.spotify.com/album/3M6qytuwCR4nljI0by2bwR) | 3:49 | 2022-04-01 | 2022-04-09 |
 | [Young and Stupid](https://open.spotify.com/track/6sscHAvwBvcl89tyACWGom) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [Young and Stupid](https://open.spotify.com/album/41W9IQTwbwFvyAv2ESlfSy) | 2:54 | 2022-04-15 | 2022-04-23 |
 | [Young Flex](https://open.spotify.com/track/2C4f6LeM7Io332EuMbDGIT) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Young Flex](https://open.spotify.com/album/5Y2GbPfqARt1tXJ5O7ZWUR) | 2:41 | 2022-04-15 | 2022-04-23 |
-| [YUKON \(INTERLUDE\)](https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi) | 2:21 | 2022-08-26 |  |
+| [YUKON \(INTERLUDE\)](https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi) | 2:21 | 2022-08-26 | 2022-09-02 |
+| [YUKON \(INTERLUDE\)](https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/0GxWXE6ltKk4Gx3WyWLLrW) | 2:21 | 2022-08-26 |  |
 | [Zona Pistola](https://open.spotify.com/track/49B9zwKFTKtLf1FcbNVShf) | [ForyFive](https://open.spotify.com/artist/23OHfV3JOMWn38m7k4RLJq), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Zona Pistola](https://open.spotify.com/album/6S9WkhYhjNzBYhkDDqH1Qf) | 2:56 | 2022-02-04 | 2022-02-12 |
 | [Zona Roja](https://open.spotify.com/track/0UGj0v5SOcqd6MX3dteR5z) | [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Zona Roja](https://open.spotify.com/album/06Bhd1K7fYq9WpEsCijl44) | 3:27 | 2022-07-29 | 2022-08-06 |
 | [ZUKI](https://open.spotify.com/track/7hjxyhtPLLxhRNDw848J7i) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [ZUKI](https://open.spotify.com/album/3kNl5hjs1uTY7XJEaN8Vrg) | 2:58 | 2022-05-13 | 2022-05-20 |

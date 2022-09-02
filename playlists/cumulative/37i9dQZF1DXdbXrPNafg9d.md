@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Miya Folick
 
-4,092 songs - 10 day 0 hr 22 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
+4,093 songs - 10 day 0 hr 25 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4086,7 +4086,8 @@
 | [Your Reply](https://open.spotify.com/track/3pT3CvKKDEI9ZbpPyk8AA3) | [Frances Quinlan](https://open.spotify.com/artist/5yO8MmDV2hnMbiIoZGZMGr) | [Your Reply / Now That I'm Back / Rare Thing](https://open.spotify.com/album/6VkGkwcrjCb76xjceClMF0) | 4:19 | 2020-01-10 | 2020-02-14 |
 | [You’ll Need A Backseat Driver](https://open.spotify.com/track/0BNYP5m7EM9d0NwzT86LdE) | [The New Pornographers](https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW) | [In The Morse Code Of Brake Lights](https://open.spotify.com/album/07XtrVIcnlM0IA5FC7elBx) | 4:14 | 2019-09-27 | 2019-10-25 |
 | [yr face](https://open.spotify.com/track/4droTj7wxmaPFhaJ1fI3D4) | [spookyghostboy](https://open.spotify.com/artist/3pHAJqPZhCGNoFShXcqD9k) | [smile when i see you smile](https://open.spotify.com/album/3itgAEBDUiltgKcFabiH52) | 4:35 | 2021-03-19 | 2021-05-03 |
-| [YUKON \(INTERLUDE\)](https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi) | 2:21 | 2022-08-26 |  |
+| [YUKON \(INTERLUDE\)](https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi) | 2:21 | 2022-08-26 | 2022-09-02 |
+| [YUKON \(INTERLUDE\)](https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/0GxWXE6ltKk4Gx3WyWLLrW) | 2:21 | 2022-08-26 |  |
 | [Yvonne](https://open.spotify.com/track/5aNNY7B5Zf8VEDfpmcDtgc) | [Amason](https://open.spotify.com/artist/4cJKxS7uOPhwb5UQ70sYpN) | [Yvonne](https://open.spotify.com/album/1VmI1AHj3pcGmf3y9V7ouj) | 4:04 | 2020-05-29 | 2020-07-03 |
 | [Zenosyne](https://open.spotify.com/track/3VY4cCdIP8gVi8hjZqZhtw) | [Caroline Loveglow](https://open.spotify.com/artist/3j0n7TWGvwhPBMBWPbuasr) | [Zenosyne](https://open.spotify.com/album/3oRSz5iZDJgORNsiy0uIzp) | 3:26 | 2021-11-26 | 2022-01-15 |
 | [Zinnias](https://open.spotify.com/track/1H6GyuYVP3dtjXukFgaatZ) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/3GrXqCA3AMa03zCgWkWYqN) | 2:54 | 2021-07-17 | 2021-09-04 |

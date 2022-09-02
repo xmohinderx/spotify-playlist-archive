@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The best in current indie rock. Cover: Sports Team",
+  "description": "The best in current indie rock. Cover: Connie Constance",
   "name": "pulp",
   "published_playlist_ids": [
     "6icr08W6LxkqPUtZpmcgvv"
@@ -638,6 +638,24 @@
     },
     {
       "album": {
+        "name": "Bleak Sublime",
+        "url": "https://open.spotify.com/album/64g1LV7RIu1N0t15nJLDqQ"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Esau",
+          "url": "https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231722,
+      "name": "Bleak Sublime",
+      "url": "https://open.spotify.com/track/5G6ww56ErVJEaU6ZpHq6RU"
+    },
+    {
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/34PFa8obv2n5a5s1zEGnus"
       },
@@ -1092,6 +1110,24 @@
     },
     {
       "album": {
+        "name": "Dig!",
+        "url": "https://open.spotify.com/album/5HoYh07ZPhKkZ1hwV5VFL7"
+      },
+      "artists": [
+        {
+          "name": "Sports Team",
+          "url": "https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161082,
+      "name": "Dig!",
+      "url": "https://open.spotify.com/track/003jZXYNwnO3rl83ajtLpd"
+    },
+    {
+      "album": {
         "name": "Digital Atlas",
         "url": "https://open.spotify.com/album/3pPp2gMM0o5BK92geIkWa8"
       },
@@ -1107,6 +1143,24 @@
       "duration_ms": 182453,
       "name": "Digital Atlas",
       "url": "https://open.spotify.com/track/4DweoPyHETeUjbkUDwHlnl"
+    },
+    {
+      "album": {
+        "name": "Do It All the Same",
+        "url": "https://open.spotify.com/album/0oqtiAPmi6ZiZd7PnuDLuT"
+      },
+      "artists": [
+        {
+          "name": "Molly Payton",
+          "url": "https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207773,
+      "name": "Do It All the Same",
+      "url": "https://open.spotify.com/track/6o9mE8B6hhpDWutaOSsAho"
     },
     {
       "album": {
@@ -2536,6 +2590,24 @@
     },
     {
       "album": {
+        "name": "Mood Hoover",
+        "url": "https://open.spotify.com/album/6QMxKOuHssNVCqphLFbUn1"
+      },
+      "artists": [
+        {
+          "name": "Connie Constance",
+          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194773,
+      "name": "Mood Hoover",
+      "url": "https://open.spotify.com/track/1Kma7Z2DAv6tI7beez0Jqo"
+    },
+    {
+      "album": {
         "name": "Ms. California",
         "url": "https://open.spotify.com/album/69vZJh3B8Dvjl7yUU0Eb5v"
       },
@@ -2583,7 +2655,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 90334,
       "name": "Nervous",
       "url": "https://open.spotify.com/track/3JaI7w5XQuJni4fX03MZIb"
@@ -3092,6 +3164,24 @@
     },
     {
       "album": {
+        "name": "Tired of Liberty",
+        "url": "https://open.spotify.com/album/3aHcCiEzSVklnAgGhl86K9"
+      },
+      "artists": [
+        {
+          "name": "The Lounge Society",
+          "url": "https://open.spotify.com/artist/5OfZVpXzGottp1rYD73ufE"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247293,
+      "name": "Remains",
+      "url": "https://open.spotify.com/track/3Wn9UtA4Ij8HLtDLvmpaUi"
+    },
+    {
+      "album": {
         "name": "Planet (i)",
         "url": "https://open.spotify.com/album/0j5QJZWlMGIcd0tmFQXs63"
       },
@@ -3175,7 +3265,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 204180,
       "name": "Salt",
       "url": "https://open.spotify.com/track/0KbMVWAxdxV1KYWqjGd0ey"
@@ -3755,7 +3845,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 178212,
       "name": "The Drop",
       "url": "https://open.spotify.com/track/2fQ31yKKudLScWY0Tt84AF"
@@ -3809,7 +3899,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 262105,
       "name": "The Way It Shatters",
       "url": "https://open.spotify.com/track/1In1QZhWhMiYjHTWHhhGDR"
@@ -4331,7 +4421,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 168172,
       "name": "You Will Never Work In Television Again",
       "url": "https://open.spotify.com/track/2ownDSIYHvydbtauGZW4ln"

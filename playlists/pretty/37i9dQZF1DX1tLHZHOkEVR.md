@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tLHZHOkEVR.md) - [plain]
 
 > Floor fillers to soundtrack the happiest day of your life.
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,472 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,535 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tLHZHOkEVR.md) - [plain]
 | 34 | [You Make My Dreams \(Come True\)](https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Voices](https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS) | 3:10 |
 | 35 | [Dancing in the Moonlight](https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od) | [Toploader](https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV) | [Onka's Big Moka](https://open.spotify.com/album/2ww2PXKiHk7rNv26rjVJ5z) | 3:52 |
 | 36 | [Mambo No\. 5 \(a Little Bit of...\)](https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs) | [Lou Bega](https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx) | [A Little Bit of Mambo](https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai) | 3:40 |
-| 37 | [Everywhere \- 2017 Remaster](https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:46 |
-| 38 | [Roxanne](https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Outlandos D'Amour \(Remastered 2003\)](https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf) | 3:11 |
+| 37 | [Roxanne](https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Outlandos D'Amour \(Remastered 2003\)](https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf) | 3:11 |
+| 38 | [Everywhere \- 2017 Remaster](https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:46 |
 | 39 | [We Found Love](https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Talk That Talk](https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn) | 3:35 |
 | 40 | [Believe](https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Believe](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) | 3:59 |
 | 41 | [Freed From Desire](https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ) | [Come Into My Life \(The Album\)](https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe) | 3:33 |
@@ -91,12 +91,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tLHZHOkEVR.md) - [plain]
 | 81 | [Gettin' Jiggy Wit It](https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Big Willie Style](https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq) | 3:47 |
 | 82 | [Let's Dance \- 2018 Remaster](https://open.spotify.com/track/3ix6K4wZY29bCujrSznwFZ) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance \(2018 Remaster\)](https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV) | 7:37 |
 | 83 | [Under Pressure \- Remastered 2011](https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hot Space \(Deluxe Remastered Version\)](https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf) | 4:08 |
-| 84 | [I'm Coming Out](https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI) | 5:23 |
-| 85 | [Walk This Way \(feat\. Aerosmith\)](https://open.spotify.com/track/6qUEOWqOzu1rLPUPQ1ECpx) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA), [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Raising Hell](https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg) | 5:10 |
+| 84 | [Walk This Way \(feat\. Aerosmith\)](https://open.spotify.com/track/6qUEOWqOzu1rLPUPQ1ECpx) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA), [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Raising Hell](https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg) | 5:10 |
+| 85 | [I'm Coming Out](https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI) | 5:23 |
 | 86 | [I Believe in a Thing Called Love](https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA) | [The Darkness](https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a) | [Permission to Land](https://open.spotify.com/album/6vW9ZDllNv87WHXS3XTjlM) | 3:37 |
 | 87 | [Show Me Love](https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF) | [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Show Me Love](https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8) | 4:12 |
-| 88 | [I Don't Feel Like Dancin' \- Radio Edit](https://open.spotify.com/track/1qEHgdFqUxFebMPk8s2HLY) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [I Don't Feel Like Dancin'](https://open.spotify.com/album/6LPpLYrjQYKtMfDUT1qjOz) | 4:08 |
-| 89 | [Dance Wiv Me \- Radio Edit](https://open.spotify.com/track/6pTg4H8juKV9iSzrcVUbM3) | [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Chrome](https://open.spotify.com/artist/6rRfU5PFMng3MXEU7xMwUW) | [Tongue N' Cheek \(Dirtee Deluxe Edition\)](https://open.spotify.com/album/0tbxVYstYiHpBwA7qYL1hC) | 3:24 |
+| 88 | [Dance Wiv Me \- Radio Edit](https://open.spotify.com/track/6pTg4H8juKV9iSzrcVUbM3) | [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Chrome](https://open.spotify.com/artist/6rRfU5PFMng3MXEU7xMwUW) | [Tongue N' Cheek \(Dirtee Deluxe Edition\)](https://open.spotify.com/album/0tbxVYstYiHpBwA7qYL1hC) | 3:24 |
+| 89 | [I Don't Feel Like Dancin' \- Radio Edit](https://open.spotify.com/track/1qEHgdFqUxFebMPk8s2HLY) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [I Don't Feel Like Dancin'](https://open.spotify.com/album/6LPpLYrjQYKtMfDUT1qjOz) | 4:08 |
 | 90 | [I'll Be There for You \- Theme From "Friends"](https://open.spotify.com/track/15tHagkk8z306XkyOHqiip) | [The Rembrandts](https://open.spotify.com/artist/0gDg7FEsF4Y1jWddJJgcn4) | [L.P.](https://open.spotify.com/album/6koDBGMqurYl3EZnaxCF7N) | 3:08 |
 | 91 | [Superstition](https://open.spotify.com/track/4N0TP4Rmj6QQezWV88ARNJ) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw) | 4:26 |
 | 92 | [Give It Up](https://open.spotify.com/track/3yDhZq8f17SmumVmEyCaRN) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [All In a Night's Work \(Expanded Version\)](https://open.spotify.com/album/52BJ1S5NOv7eFD6ZFDZga2) | 4:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tLHZHOkEVR.md) - [plain]
 | 99 | [ABC](https://open.spotify.com/track/6wDviYDtmSDZ0S6TVMM9Vc) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [ABC](https://open.spotify.com/album/3btVhknqDeGAEd1Qj7lL57) | 2:57 |
 | 100 | [MMMBop \- Single Version](https://open.spotify.com/track/2HNZxbvFvasRtlOJ9M6DgR) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [The Best Of Hanson 20th Century Masters The Millennium Collection](https://open.spotify.com/album/1SNNc4pb0aA0GS2PsLr5b5) | 3:58 |
 
-Snapshot ID: `MTY1OTcxNjQ5OSwwMDAwMDAwMGM2Yzc0MWUzODE2MGQ0NDFhYmE1YTk1M2JjZDUzYjkz`
+Snapshot ID: `MTY1OTcxNjQ5OSwwMDAwMDAwMDE3YzAxZTRhZDM3N2NlMTEzNGRkYTJjZGZhNTM1NzJh`

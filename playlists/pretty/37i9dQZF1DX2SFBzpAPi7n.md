@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: LUCY\) \(핫한 국내 록음악을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,850 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,181 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [PLAY](https://open.spotify.com/track/0ddSLVdbpKFO1FtIYpYnw9) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Childhood](https://open.spotify.com/album/6Nb2vk4KMl2TH12CXc6YAb) | 3:46 |
-| 2 | [Dream \(feat\. Tommy Kim\)](https://open.spotify.com/track/534Tet7JehDlh2v0fdbAaK) | [VINCIT](https://open.spotify.com/artist/2V7zsT7AqLOFIHWb08FQd5), [Tommy Kim](https://open.spotify.com/artist/5vXlLutlXopDvhSpvwDxmp) | [Dream](https://open.spotify.com/album/5IpCJICE3ZYfiT3bigsFfj) | 3:20 |
+| 2 | [Password 486](https://open.spotify.com/track/1KrreL8nKfx44ibk9sd9Cu) | [BIGONE](https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX) | [Password 486](https://open.spotify.com/album/6pZdY6TKxDTkk6Ndi3eOt1) | 3:18 |
 | 3 | [Childlike](https://open.spotify.com/track/3XajzTgxQw9rmsnFiBjmtE) | [Kim Hyun Joong](https://open.spotify.com/artist/0rB9P2J3OkobNezpTBcXqE) | [MY SUN](https://open.spotify.com/album/1xiwGp6DOg9DkaQG1xHzpI) | 3:20 |
 | 4 | [You need my love](https://open.spotify.com/track/2KnF8lF5elSlvN97jOgAaw) | [verycoybunny](https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB) | [You need my love](https://open.spotify.com/album/1dXOIUrXCi7RBbQSj5WfGE) | 3:40 |
 | 5 | [Like my groove](https://open.spotify.com/track/2LpUmnpyrdsrGwjxFkUBVp) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx), [the orchard](https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI) | [Like my groove](https://open.spotify.com/album/7kcDdPNGDvR88xrU41QWlz) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 49 | [Guard You](https://open.spotify.com/track/3AQLNP4d68hIenp2KpwLlp) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Eternal](https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3) | 3:17 |
 | 50 | [Tree](https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Tree](https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur) | 3:52 |
 
-Snapshot ID: `MTY2MDg5NDY3OSwwMDAwMDAwMGMzMDNkNzhiMmQ2ODliOGE2MDhlNzE0YTJlNTdmNmY3`
+Snapshot ID: `MTY2MjAxMjE0NywwMDAwMDAwMGEyMmUzYTM1ZjM2MDFkYzg4Y2U3MWRlYzEyN2I4NzVl`

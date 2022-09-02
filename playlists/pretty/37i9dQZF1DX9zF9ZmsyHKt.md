@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > Grandes vozes da música brasileira de hoje e de ontem reunidas em uma única playlist\. Foto: Gal Costa
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,205 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,245 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 9 | [Ai, Amor](https://open.spotify.com/track/3bR8wBqLky6b61ROJlaBEF) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [O Tempo É Agora](https://open.spotify.com/album/0yiQu0POzXcfjEB6qBuhtj) | 3:40 |
 | 10 | [A noite](https://open.spotify.com/track/06XSmh92M0FIYNGC4Ss0CX) | [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7) | [Esmeraldas \(Álbum Comentado\)](https://open.spotify.com/album/6EtAuxIwZCEuUZEqn2DwII) | 3:38 |
 | 11 | [Ainda Bem](https://open.spotify.com/track/43BCxznTSBLcXzu4lJ8KW5) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [O Que Você Quer Saber de Verdade](https://open.spotify.com/album/0NW6Z4aNFiaj2pN83d1fyg) | 3:35 |
-| 12 | [Viva Voz \- Ao Vivo Em São Paulo / 2019](https://open.spotify.com/track/1jomN1tLiPE5eGd9siFJYE) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Livre \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/5XzBQMo9WMrpRlgoBaeTIf) | 2:44 |
-| 13 | [Trem\-Bala](https://open.spotify.com/track/05QeyKGAn4TZrv41tMiD1A) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Trem\-Bala](https://open.spotify.com/album/5LsQsZiCiIsviDVngEurIF) | 3:00 |
+| 12 | [Trem\-Bala](https://open.spotify.com/track/05QeyKGAn4TZrv41tMiD1A) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Trem\-Bala](https://open.spotify.com/album/5LsQsZiCiIsviDVngEurIF) | 3:00 |
+| 13 | [Viva Voz \- Ao Vivo Em São Paulo / 2019](https://open.spotify.com/track/1jomN1tLiPE5eGd9siFJYE) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Livre \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/5XzBQMo9WMrpRlgoBaeTIf) | 2:44 |
 | 14 | [Cabide](https://open.spotify.com/track/6Uhnj8W9qflWLavYUfHkPJ) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Menino do Rio](https://open.spotify.com/album/48katkMd5Hkb14rUEgo0YO) | 2:33 |
 | 15 | [Rainha da Favela](https://open.spotify.com/track/3vu864xi5Xis9VfOsJpmXu) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Rainha da Favela](https://open.spotify.com/album/6GbNAks50cyJFMDhiMdVj8) | 2:40 |
 | 16 | [Bixinho](https://open.spotify.com/track/04RFAnuBZkyITGUNIbZHhb) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Sinto Muito](https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx) | 3:25 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 56 | [JBL](https://open.spotify.com/track/6THoM5F4gvHguHHyLfxGjU) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq), [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Sol e Mar, Vol\. 2](https://open.spotify.com/album/6IufTTOJqfnjPv9JURerlY) | 3:13 |
 | 57 | [Eu](https://open.spotify.com/track/5SChoGCJUCjTdIi8JM28zf) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Eu](https://open.spotify.com/album/3GPW2lcCmRQSz0IFTDF1WH) | 5:01 |
 | 58 | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/track/5nBrdTO6k3DJZJdB6IRp1c) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq) | 4:31 |
-| 59 | [Alguém Me Avisou/Acreditar/Sonho Meu](https://open.spotify.com/track/6YJIXLfsDa9sR5iTmlCkoX) | [Dona Ivone Lara](https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW) | [Sempre a Cantar](https://open.spotify.com/album/1HyCOfJKZJ2uQqQfenUaGO) | 5:04 |
-| 60 | [Feito Fumaça](https://open.spotify.com/track/2WmQKaMmgbvVASSYNlcnd1) | [Obinrin Trio](https://open.spotify.com/artist/7vnpP7uPPqCGiS6PrIap7R), [Ju Strassacapa](https://open.spotify.com/artist/1k3OzqzWVyCPRmwcKPpXWH) | [Origem](https://open.spotify.com/album/2BPbMEyJZbHZ4Yre9s4AN8) | 4:41 |
+| 59 | [Feito Fumaça](https://open.spotify.com/track/2WmQKaMmgbvVASSYNlcnd1) | [Obinrin Trio](https://open.spotify.com/artist/7vnpP7uPPqCGiS6PrIap7R), [Ju Strassacapa](https://open.spotify.com/artist/1k3OzqzWVyCPRmwcKPpXWH) | [Origem](https://open.spotify.com/album/2BPbMEyJZbHZ4Yre9s4AN8) | 4:41 |
+| 60 | [Alguém Me Avisou/Acreditar/Sonho Meu](https://open.spotify.com/track/6YJIXLfsDa9sR5iTmlCkoX) | [Dona Ivone Lara](https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW) | [Sempre a Cantar](https://open.spotify.com/album/1HyCOfJKZJ2uQqQfenUaGO) | 5:04 |
 | 61 | [Psiu](https://open.spotify.com/track/3aMOVCxQt9Xhoy1MdygCcv) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Psiu](https://open.spotify.com/album/71oJRTxnV00wZA0NwPRH0v) | 4:57 |
 | 62 | [Você Não Presta](https://open.spotify.com/track/67sKMKtqVthTb45IAxLoZO) | [Mallu Magalhães](https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN) | [Vem](https://open.spotify.com/album/1Oh3hIwfnqoNUWhZ8ksB5e) | 3:55 |
 | 63 | [Uma Noite E 1/2](https://open.spotify.com/track/2FSmesZ0BLPGOoEzS75Flc) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol), [Renato Rocketh](https://open.spotify.com/artist/6sw8STlzeeHvYQEeZueg63) | [Virgem](https://open.spotify.com/album/3U2agFlmhl2UWKZhsB6Vco) | 4:44 |
@@ -88,11 +88,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 78 | [Sussu](https://open.spotify.com/track/0dzMJ2pEdM7LfSZtJaQTyN) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv) | [LEXA](https://open.spotify.com/album/52SWY8s4RmmSB0YnXZUSMi) | 2:06 |
 | 79 | [Que Tiro Foi Esse](https://open.spotify.com/track/7g9l2KZ1IsxJReWQeMzqX2) | [Jojo Maronttinni](https://open.spotify.com/artist/6bGwi8TG7T8Vcp415XooE5) | [Que Tiro Foi Esse](https://open.spotify.com/album/3G3VEfeCybeGdKbeBkQaGH) | 2:42 |
 | 80 | [Assim Que Se Faz](https://open.spotify.com/track/7kHwpWr8LZDu4TmPTdu0rJ) | [Luciana Mello](https://open.spotify.com/artist/0rzVUhvOIVNUbY6uKCpGfb) | [Assim Que Se Faz](https://open.spotify.com/album/0RAjYNRqEDm7n1k5K9MKp0) | 5:00 |
-| 81 | [Clareana](https://open.spotify.com/track/6QhseSwPVZ4QEusjnrCx9C) | [Joyce Moreno](https://open.spotify.com/artist/5644bJMU3NkJN0edhyHV3v) | [Feminina](https://open.spotify.com/album/7ImYb6goMEMVVtt3FKokEi) | 2:50 |
-| 82 | [Sem Medo](https://open.spotify.com/track/72tsw7mnqDaCw6niFLnv7r) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Mundo Novo](https://open.spotify.com/album/5Mbvp3MgeFweJ4T1xrQ52N) | 4:12 |
+| 81 | [Sem Medo](https://open.spotify.com/track/72tsw7mnqDaCw6niFLnv7r) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Mundo Novo](https://open.spotify.com/album/5Mbvp3MgeFweJ4T1xrQ52N) | 4:12 |
+| 82 | [Clareana](https://open.spotify.com/track/6QhseSwPVZ4QEusjnrCx9C) | [Joyce Moreno](https://open.spotify.com/artist/5644bJMU3NkJN0edhyHV3v) | [Feminina](https://open.spotify.com/album/7ImYb6goMEMVVtt3FKokEi) | 2:50 |
 | 83 | [Sorriso Aberto](https://open.spotify.com/track/01XyRFxUKPLVOWglamSV2K) | [Jovelina Perola Negra](https://open.spotify.com/artist/7AicXtLi5qHsZLArE6V9EP) | [Sorriso Aberto](https://open.spotify.com/album/46XHYYtuUy3EjtJLSWcgwc) | 4:36 |
-| 84 | [Garota Ligeira](https://open.spotify.com/track/1ceOQ6Xoy2Pt08CF88G4ef) | [Luísa e os Alquimistas](https://open.spotify.com/artist/4MavQ0I0q9aAXj0mErfkqC), [Luê](https://open.spotify.com/artist/38i2aXHzKEjmiKRH20Wlgj) | [Jaguatirica Print](https://open.spotify.com/album/0JkLQKEz5jnRohRSLIEewl) | 2:58 |
-| 85 | [Encantos de Sereia](https://open.spotify.com/track/02igANx7YEYQPJzDzI2Fob) | [Ceumar](https://open.spotify.com/artist/4lTstEgQJelAPnmAuNg5Nu) | [Silencia](https://open.spotify.com/album/4Yft0S0ZM9u4m7AlN5wzkF) | 4:10 |
+| 84 | [Encantos de Sereia](https://open.spotify.com/track/02igANx7YEYQPJzDzI2Fob) | [Ceumar](https://open.spotify.com/artist/4lTstEgQJelAPnmAuNg5Nu) | [Silencia](https://open.spotify.com/album/4Yft0S0ZM9u4m7AlN5wzkF) | 4:10 |
+| 85 | [Garota Ligeira](https://open.spotify.com/track/1ceOQ6Xoy2Pt08CF88G4ef) | [Luísa e os Alquimistas](https://open.spotify.com/artist/4MavQ0I0q9aAXj0mErfkqC), [Luê](https://open.spotify.com/artist/38i2aXHzKEjmiKRH20Wlgj) | [Jaguatirica Print](https://open.spotify.com/album/0JkLQKEz5jnRohRSLIEewl) | 2:58 |
 | 86 | [Menina, Amanhã de Manhã](https://open.spotify.com/track/264Jze0mvGjOzxNG8fLEuO) | [Mônica Salmaso](https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx) | [Iaiá](https://open.spotify.com/album/0AsxslSEmzuqJhZPT1DVGA) | 5:29 |
 | 87 | [FLOW](https://open.spotify.com/track/7AceiTQaFYXZhZddKx20qr) | [Malía](https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u) | [FLOW](https://open.spotify.com/album/5Tigi6UMA7XovFt8mrKGx6) | 3:25 |
 | 88 | [Quer Ir no Meu Show ?](https://open.spotify.com/track/4bni91rf5R2zF6xElZY5la) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg) | [Quer Ir no Meu Show ?](https://open.spotify.com/album/46nO35DqIMYP4YOo1RJukt) | 4:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 99 | [Você Pra Mim](https://open.spotify.com/track/2vqdtqRq1EY4cMwX9FkDCz) | [Fernanda Abreu](https://open.spotify.com/artist/23T5kuXiRZWsH5w1lxowMh) | [Sla Radical Dance Disco Club](https://open.spotify.com/album/0HHFfVAOIzKegm7pCAjHAh) | 4:27 |
 | 100 | [É Isso Aí](https://open.spotify.com/track/47djwMo5LjilxB20Aix1M2) | [Paula Lima](https://open.spotify.com/artist/5oE0wKd9rFGBMQTNF1CTZW) | [É Isso Aí](https://open.spotify.com/album/3Iqv2tlN9V7jt5rhicn66U) | 3:21 |
 
-Snapshot ID: `MTYzOTA3NTc5NCwwMDAwMDAwMGYyNTJlNGE0ZWM2NzJiOTY4MjI2NTFlZjc0NmY0ZjM5`
+Snapshot ID: `MTYzOTA3NTc5NCwwMDAwMDAwMGNkNmNjYzc3MDE4ZDc4MDBlY2Y3N2JiM2VhOTlkNmM2`

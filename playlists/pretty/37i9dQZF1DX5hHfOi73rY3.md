@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 
 > Classic party anthems from the club to your ears!
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,323 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,391 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 16 | [Need U \(100%\) \(feat\. A\*M\*E\) \- Radio Edit](https://open.spotify.com/track/5zdkUzguZYAfBH9fnWn3Zl) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [A\*M\*E](https://open.spotify.com/artist/0tMbQtD3YwrVFk9Lb6abmB) | [Need U \(100%\) \(feat\. A\*M\*E\) \[Remixes\]](https://open.spotify.com/album/3kiROSu1UpNbBPlewWu3f6) | 2:54 |
 | 17 | [Rhymes](https://open.spotify.com/track/5QTlj4L7ODIKNnTkhDE16p) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Rhymes](https://open.spotify.com/album/4hqlx8mdrCorDXsdzQfmX1) | 3:20 |
 | 18 | [Best Be Believing \- Shadow Child Remix](https://open.spotify.com/track/4ZOuB9nVbvyeEIYKbm55O4) | [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38), [Shadow Child](https://open.spotify.com/artist/0tMr0e1EQZ0Vci7EHz2bM9) | [Body Music \(Remixed\)](https://open.spotify.com/album/02ia0xYRyujnMk3AuCUqoR) | 5:51 |
-| 19 | [The Groovy Cat](https://open.spotify.com/track/08d1uFAAtQgLbuvyP2AkoH) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [The Groovy Cat](https://open.spotify.com/album/2zL3pun7npuBMHeBPr7mtz) | 4:32 |
-| 20 | [Tidal Wave](https://open.spotify.com/track/3NKLPcvDM0pefpLNcmui2W) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Alpines](https://open.spotify.com/artist/5Rja2iSIMNhzHMRoKzHKNX) | [Torus](https://open.spotify.com/album/5VDg2zP4jsc8Ufj1dPEA3d) | 3:48 |
+| 19 | [Tidal Wave](https://open.spotify.com/track/3NKLPcvDM0pefpLNcmui2W) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Alpines](https://open.spotify.com/artist/5Rja2iSIMNhzHMRoKzHKNX) | [Torus](https://open.spotify.com/album/5VDg2zP4jsc8Ufj1dPEA3d) | 3:48 |
+| 20 | [The Groovy Cat](https://open.spotify.com/track/08d1uFAAtQgLbuvyP2AkoH) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [The Groovy Cat](https://open.spotify.com/album/2zL3pun7npuBMHeBPr7mtz) | 4:32 |
 | 21 | [Watercolour \- Full Version; Single](https://open.spotify.com/track/5ami95W9OOWQPwrBb5tud5) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Immersion](https://open.spotify.com/album/3XtEGVx9uh7J46nBzEc1VS) | 5:04 |
 | 22 | [Real Life](https://open.spotify.com/track/6jz9EMWHffNKVlZQVXOLoz) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [NAATIONS](https://open.spotify.com/artist/6mpxgK8EZh8VDoe6trGF0f) | [Real Life](https://open.spotify.com/album/55pLHOPxFKEi82Z15IeHxq) | 3:25 |
 | 23 | [Techno Disco Tool \- Radio Edit](https://open.spotify.com/track/3qqEFTIFcZuWJYBtshrxca) | [Mella Dee](https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn) | [Techno Disco Tool \(Radio Edit\)](https://open.spotify.com/album/5yadKU4m0Q0AIKxbN9qQIq) | 3:14 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 40 | [The Renegade](https://open.spotify.com/track/7dyWwtPsaL3ThtPtkA4oQK) | [Friend Within](https://open.spotify.com/artist/4FJPplt1JOVw8Q7NiwFmLv) | [The Renegade EP](https://open.spotify.com/album/2nFqzhDJO6HBSQHGpsYhw7) | 2:30 |
 | 41 | [Remind Me](https://open.spotify.com/track/7dFJsQQMwSlelur7tPuwnr) | [High Contrast](https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT) | [Night Gallery](https://open.spotify.com/album/4hzruXvXyUg5hJwP37CJrF) | 4:01 |
 | 42 | [Lights On \(feat\. Ms Dynamite\) \- Single Mix](https://open.spotify.com/track/7FNcb05eBgScWaEEvJRKiw) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M), [Ms\. Dynamite](https://open.spotify.com/artist/42qLC3FgtazA9AvaIoiP62) | [On A Mission](https://open.spotify.com/album/6KV9kNSuC1mmzrXKx6p6vV) | 3:24 |
-| 43 | [Coma Cat](https://open.spotify.com/track/48gv7cE3Fs4DNNSgWkbu1f) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Coma Cat](https://open.spotify.com/album/6nw5kO6PPxOI2RzuNX7Bya) | 2:57 |
-| 44 | [Promises](https://open.spotify.com/track/2LCCxYQ5dw1dz3Pu6APEUH) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality +](https://open.spotify.com/album/1hMXqmEdtxYenRDVm4hEgu) | 4:17 |
+| 43 | [Promises](https://open.spotify.com/track/2LCCxYQ5dw1dz3Pu6APEUH) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality +](https://open.spotify.com/album/1hMXqmEdtxYenRDVm4hEgu) | 4:17 |
+| 44 | [Coma Cat](https://open.spotify.com/track/48gv7cE3Fs4DNNSgWkbu1f) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Coma Cat](https://open.spotify.com/album/6nw5kO6PPxOI2RzuNX7Bya) | 2:57 |
 | 45 | [Final Credits](https://open.spotify.com/track/5gC2aJwuSzGe3IJVlk9r2O) | [Midland](https://open.spotify.com/artist/1YFLNH4rO40x9i16RpLwdY) | [Final Credits](https://open.spotify.com/album/4DR47uL0VrENkV4fuTMdOE) | 7:19 |
 | 46 | [Solitary Daze](https://open.spotify.com/track/7vqcDtNvoJn5pXhktc8qe8) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj), [Gabriel Ananda](https://open.spotify.com/artist/3YpEUCjdLuPmBspkmoPYnX) | [Solitary Daze](https://open.spotify.com/album/462nMAgJr4l14IqVngpOXM) | 7:43 |
 | 47 | [Just](https://open.spotify.com/track/7MHjC4y8tMWDV1xA3CpqzX) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Just EP](https://open.spotify.com/album/1naCJmNjiY0CBbCqJ22r25) | 6:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 49 | [Finder](https://open.spotify.com/track/2DNO2h1Qsc0vPAyLGReDvN) | [Ninetoes](https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC) | [Finder](https://open.spotify.com/album/11fQed1lTippkC0Emeah41) | 5:49 |
 | 50 | [Buggin' \- Edit](https://open.spotify.com/track/2TqSk3lGTFTO2N6qDWpODA) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [8\-track](https://open.spotify.com/album/3ophs4Ci76rbhWzu2QwCGC) | 4:35 |
 
-Snapshot ID: `MTY0MzI3ODQzNSwwMDAwMDAwMGRjMzhkZDVlZjA3NTk3N2I3NjYyYjIwOWY5ZjU3MWU4`
+Snapshot ID: `MTY0MzI3ODQzNSwwMDAwMDAwMDUwN2JmOTI5MDMzYjM2OTJiMzg3OTQ4MTAxNzMyNjJj`

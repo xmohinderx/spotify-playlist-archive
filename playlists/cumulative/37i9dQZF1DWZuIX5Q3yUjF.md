@@ -2,9 +2,9 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Il meglio dell'R&B italiano\. Cover: Bleu Smith
+> Il meglio dell'R&B italiano\. Cover: Angie
 
-160 songs - 7 hr 55 min - [published](https://open.spotify.com/playlist/6baLMOVUAzKiyXO33cGiRz)
+163 songs - 8 hr 2 min - [published](https://open.spotify.com/playlist/6baLMOVUAzKiyXO33cGiRz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Felpa](https://open.spotify.com/track/6u4G4dVFHQCwWOWs822Puk) | [Filippo Cattaneo Ponzoni](https://open.spotify.com/artist/7LPEM878eDKFvrV5JejDXr) | [Felpa](https://open.spotify.com/album/23UwjDGJgmbbTNdFgDGIVR) | 2:45 | 2022-05-05 | 2022-07-29 |
 | [Felpa Blu](https://open.spotify.com/track/7lUJXeZSVnPuv9ihy6Z5xC) | [Sidea](https://open.spotify.com/artist/6hG077WYgnjPVTkzhD2a9A) | [Felpa Blu](https://open.spotify.com/album/6eOwrCImdIYh5tHKFSZAME) | 2:55 | 2022-07-14 |  |
 | [Fidarti di me](https://open.spotify.com/track/5uisDrJM8rnWmmUrUTVJMw) | [Louis Dee](https://open.spotify.com/artist/0cqKe5aIp6diwasKdXzJF6), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Fidarti di me](https://open.spotify.com/album/0kqngU92rC6rrcWfdjQUSA) | 2:40 | 2022-07-17 |  |
+| [Fiducia](https://open.spotify.com/track/4eI6sXa9RT0qHR3vpEWXxZ) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p) | [Sex Festival](https://open.spotify.com/album/7AYKXAgXmauHwXVdJH2Iwn) | 2:38 | 2022-09-01 |  |
 | [Fior di glicine](https://open.spotify.com/track/3XdumBkBt85bdQTMGEdbEn) | [Mangrovia Twang](https://open.spotify.com/artist/7rLOdLmfwrFQnKitstFDeg), [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4), [Dalila Spagnolo](https://open.spotify.com/artist/7byMgnmiVH1BbZmcXrOGIS) | [Fior di glicine](https://open.spotify.com/album/3KTYT0lzuD9WSaMah6hU55) | 3:07 | 2022-05-05 | 2022-07-29 |
 | [Fossi nato gemelli](https://open.spotify.com/track/6RQaetUr5u5u6X90JeTPIy) | [Nico Arezzo](https://open.spotify.com/artist/58NJMW79swpy2lbC6BM35V) | [Fossi nato gemelli](https://open.spotify.com/album/3W6F44q3hafFKita7WTWpB) | 3:33 | 2022-06-30 |  |
 | [Fratelli & Sogni](https://open.spotify.com/track/7eU88luluIpbVBs3RTYyOd) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Fratelli & Sogni](https://open.spotify.com/album/5aVhpSwVPul3AWaTWq5NZG) | 2:40 | 2022-05-05 |  |
@@ -92,6 +93,7 @@
 | [Like a melody](https://open.spotify.com/track/5QougSlOCoMqyHAVzK5Qc0) | [Serena Brancale](https://open.spotify.com/artist/7108jelN43seqWILMvJwKi), [Roshelle](https://open.spotify.com/artist/05OYdU3diEpNYjaAHNaZTt) | [Je so accussì](https://open.spotify.com/album/2IypMkbbnccB6T3exs2u0b) | 2:18 | 2022-05-05 |  |
 | [Lo Sguardo Degli Angeli](https://open.spotify.com/track/1wql7SfwYxxTpjTIUtL63K) | [Raçhelle](https://open.spotify.com/artist/2r7IipknIr6LbCIxoXBkuw) | [Lo Sguardo Degli Angeli](https://open.spotify.com/album/2sPXbn73Q5fK4DN8sCqj5C) | 2:41 | 2022-06-16 | 2022-07-29 |
 | [Lo\-Fi Love](https://open.spotify.com/track/6CYmeURWTreGKriMFHcPiV) | [giuliettacome](https://open.spotify.com/artist/5aCxPqEEmzoZSOJnP94gUR) | [Lo\-Fi Love](https://open.spotify.com/album/7wABqEPQRQxxIpc5Ng3i4r) | 3:40 | 2022-05-19 |  |
+| [lontano](https://open.spotify.com/track/0pwQySxObaYRgpY61WsfKa) | [zaib](https://open.spotify.com/artist/3TxRnp2KxvCWqRu7M9eAc3), [niciPGTL](https://open.spotify.com/artist/0L4l7phFpg3cgAw3ajXxCG) | [lontano](https://open.spotify.com/album/0pJXhN2RnAViiSVwKMYa5M) | 2:20 | 2022-09-01 |  |
 | [Lopsided](https://open.spotify.com/track/2hfUSLKQk9FNeQoWH4aGgr) | [Erreanderre](https://open.spotify.com/artist/0P6Qjc8sTum35CofAtFVKw), [Madishu](https://open.spotify.com/artist/3tQg7VPp1T879q1AE4yIM2) | [Lopsided](https://open.spotify.com/album/63GCIojAkZYzMOmaEgSksO) | 3:17 | 2022-08-05 |  |
 | [Luce](https://open.spotify.com/track/3JNIkNlzpYSVRqRntUVMF0) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [MATERIA \(TERRA\)](https://open.spotify.com/album/4aNjXVkVKGFfr2HRkVM302) | 4:04 | 2022-05-05 |  |
 | [LUNA](https://open.spotify.com/track/0Ui2KA71Iq5GkXRBFdsRRz) | [G\-laspada](https://open.spotify.com/artist/73RmVTPm4JCwKXXZz2V7yW) | [LUNA](https://open.spotify.com/album/56yCmEHMUqwexcSVetMyQn) | 2:58 | 2022-08-05 |  |
@@ -108,6 +110,7 @@
 | [NON HO VOGLIA DI BERE](https://open.spotify.com/track/36b3q6725OsbEUGZKCrSLW) | [Luca Re](https://open.spotify.com/artist/2TvgTSCaWT7JFeVYggKeu8), [Chryverde](https://open.spotify.com/artist/55Adwj1kve66exxO3f8Lpm) | [LUCE](https://open.spotify.com/album/1UCn39AYANQdyJLb4niuPk) | 2:53 | 2022-05-12 | 2022-07-29 |
 | [Non mi vuoi più bene](https://open.spotify.com/track/1JDLPzD8ZfFR1sQN6enws4) | [Ugo Crepa](https://open.spotify.com/artist/2Dnl3zSlmEnQKW5bsqfROS), [Dutch Nazari](https://open.spotify.com/artist/2mHrcXHBgPciUOYh3JHISu), [foolviho](https://open.spotify.com/artist/5jey6WrdNNxrVwujdDzDQY) | [Non mi vuoi più bene](https://open.spotify.com/album/0QRXE7xhIGxl70M1jIjOdC) | 3:27 | 2022-06-16 |  |
 | [Non ti sento più](https://open.spotify.com/track/3hdAL9JFNGFRbO4MhzIaVR) | [Bye.Tide](https://open.spotify.com/artist/30Ufi67H57YMdnKTV5wNJH) | [Non ti sento più](https://open.spotify.com/album/70poOsHGDl7urLq0sfhPKH) | 3:01 | 2022-06-09 |  |
+| [Notte D’Amore](https://open.spotify.com/track/2hXhj3y3RNoLAFulvBxhHj) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [D'Amore](https://open.spotify.com/artist/0yjjCja9FIK0ROO6HLMiO4), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p) | [Sex Festival](https://open.spotify.com/album/7AYKXAgXmauHwXVdJH2Iwn) | 2:36 | 2022-09-01 |  |
 | [O'tiempo](https://open.spotify.com/track/5Ye3aRSi3Ou40z82AT9nGZ) | [Ganzo](https://open.spotify.com/artist/4N4LelQ5TM7dEhi5TASLLw) | [San Castrese](https://open.spotify.com/album/3rYuPwrwUSE7wEE89lcC4G) | 3:08 | 2022-05-05 |  |
 | [Occhi su di me](https://open.spotify.com/track/4oh46p9qC3Z2E3QM2cSr59) | [VISCARDI](https://open.spotify.com/artist/22dHXO4PwHpTyzfsVCWKlX) | [Occhi su di me](https://open.spotify.com/album/7wfpmJ9NtGrSFlOwfR93PB) | 2:26 | 2022-05-05 |  |
 | [Odense](https://open.spotify.com/track/2lPOGlxqhVx2MAkbrzMQxO) | [VITTORIA](https://open.spotify.com/artist/2UhLqY4Vmo4gIYGsJ8q3TF) | [Presente Indicativo](https://open.spotify.com/album/2y65ziC6q7ZZSTKtuK2tdF) | 2:53 | 2022-05-19 | 2022-08-26 |

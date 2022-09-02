@@ -4,7 +4,7 @@
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: Mark Mantra \| Playlista odświeżana w każdy wtorek.
 
-347 songs - 19 hr 52 min - [published](https://open.spotify.com/playlist/6wB7HHgPQjErlX5o34Jlnm)
+348 songs - 19 hr 56 min - [published](https://open.spotify.com/playlist/6wB7HHgPQjErlX5o34Jlnm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,8 @@
 | [Miś Mamona](https://open.spotify.com/track/63hdfMsGgBfkcb0fiM65yn) | [Franio Mucha](https://open.spotify.com/artist/2l1ha2vETw02TOEdpepvEx) | [Miś Mamona](https://open.spotify.com/album/4M6FI53mgu0OdztJL3fKX0) | 3:28 | 2022-05-23 | 2022-06-21 |
 | [Moje Lajf ys ałt](https://open.spotify.com/track/5vFHcFKeiTknOETSZuZMob) | [Light On](https://open.spotify.com/artist/28YMxwKjLqEBL5VJhEDX3y) | [Domostwo](https://open.spotify.com/album/7sjye90YShKVQsXX2C2oua) | 4:07 | 2022-08-08 |  |
 | [Mosty](https://open.spotify.com/track/2ebTX8FwNRNCL3XYkdTt0O) | [All the Same](https://open.spotify.com/artist/0fkY3oim8jlClHkRHkXWVa) | [Mosty](https://open.spotify.com/album/7JwostXGArLOqPflKYTCxg) | 4:56 | 2022-06-20 | 2022-08-30 |
-| [może wpadnę](https://open.spotify.com/track/5w2G4hDARa3TJTdOxqUTXu) | [Senny](https://open.spotify.com/artist/1G9URp0t7Z45RhHHUdRo5P) | [może wpadnę](https://open.spotify.com/album/5tvmxNeMjWXgcNw4zcfpri) | 3:32 | 2022-08-01 |  |
+| [może wpadnę](https://open.spotify.com/track/5w2G4hDARa3TJTdOxqUTXu) | [Senny](https://open.spotify.com/artist/1G9URp0t7Z45RhHHUdRo5P) | [może wpadnę](https://open.spotify.com/album/5tvmxNeMjWXgcNw4zcfpri) | 3:32 | 2022-08-01 | 2022-09-02 |
+| [może wpadnę](https://open.spotify.com/track/6GJAbf9Mtx3eewqOA3jhgk) | [Senny](https://open.spotify.com/artist/1G9URp0t7Z45RhHHUdRo5P) | [może wpadnę](https://open.spotify.com/album/5XdyaQQQzKPdugOLoVzvq5) | 3:32 | 2022-08-29 |  |
 | [Muerto](https://open.spotify.com/track/1QuO5uwh384AZlia8pORKt) | [Tomek Kuczma](https://open.spotify.com/artist/4LsQ2Bifx9F1q6dkfd5D7w), [Malena Bre](https://open.spotify.com/artist/7HIHF4RexiPUhQZNlgXkfP) | [Elegant Zombies Ep](https://open.spotify.com/album/58A2rex6RgIHwO8Y609jPy) | 2:50 | 2022-06-27 | 2022-07-19 |
 | [Muszę Ci powiedzieć](https://open.spotify.com/track/3wNMtPhOhXHuO8XL7E3x6y) | [Tony myśli](https://open.spotify.com/artist/4PWvmllni6mTOnWJw0jMn8) | [Muszę Ci powiedzieć](https://open.spotify.com/album/4CSzAa8dJagAQkzZmQnuUP) | 2:47 | 2022-06-27 | 2022-07-26 |
 | [My Girl](https://open.spotify.com/track/6Fz2gl4kcDsysYXRd2bLQW) | [YANS](https://open.spotify.com/artist/3AvJo0giaMteQ4nwSQDGRM) | [My Girl](https://open.spotify.com/album/6hpCxZbKxdqRuAzCmOTgjx) | 2:38 | 2022-05-23 | 2022-06-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 
 > Rock that was on repeat during the summers of the 1970s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,339 likes - 100 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,351 likes - 100 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 | 38 | [Up Around The Bend](https://open.spotify.com/track/36gPq8WG7tDxrblyGVUCiT) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Cosmo's Factory \(Expanded Edition\)](https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK) | 2:41 |
 | 39 | [Saturday Night’s Alright \(For Fighting\) \- Remastered 2014](https://open.spotify.com/track/12yHvSYFXI7PGzNecUvIDu) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 4:55 |
 | 40 | [Mama Told Me \(Not To Come\) \- Single Version](https://open.spotify.com/track/1CAO7hiNOxJRPW4nFv2aRO) | [Three Dog Night](https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV) | [It Ain't Easy](https://open.spotify.com/album/0tJT9ZnxnlElGa34DRj59l) | 3:18 |
-| 41 | [Takin' Care Of Business](https://open.spotify.com/track/0lzNXoZINVBLHWNIxKxWOo) | [Bachman\-Turner Overdrive](https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5) | [Bachman\-Turner Overdrive II](https://open.spotify.com/album/1p2tbwfEfN8kZNOi4F3bGH) | 4:49 |
-| 42 | [Tush \- 2006 Remaster](https://open.spotify.com/track/6zGDIDjfDkPyNxrEERO3XG) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO) | 2:17 |
+| 41 | [Tush \- 2006 Remaster](https://open.spotify.com/track/6zGDIDjfDkPyNxrEERO3XG) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO) | 2:17 |
+| 42 | [Takin' Care Of Business](https://open.spotify.com/track/0lzNXoZINVBLHWNIxKxWOo) | [Bachman\-Turner Overdrive](https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5) | [Bachman\-Turner Overdrive II](https://open.spotify.com/album/1p2tbwfEfN8kZNOi4F3bGH) | 4:49 |
 | 43 | [Won't Get Fooled Again \- Original Album Version](https://open.spotify.com/track/0cJPLFrlV7TTCyPLupHzcH) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 8:31 |
 | 44 | [Maybe I’m Amazed \- Remastered 2011](https://open.spotify.com/track/1Qa0Y05al633fG8f9Peytc) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney \(Archive Collection\)](https://open.spotify.com/album/2lOll0xAGw8FPjwmwopAKT) | 3:49 |
 | 45 | [Come Sail Away](https://open.spotify.com/track/0PsbWiVtix5FoTZ1s00mEl) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [The Grand Illusion](https://open.spotify.com/album/6MFIBPVrZjHjP0pPkVF3IU) | 6:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 | 99 | [Little Willy](https://open.spotify.com/track/5l7WMtIUfX4D2XsHYOp4zV) | [Sweet](https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz) | [Best Of Sweet](https://open.spotify.com/album/7I5IWDrFPKeqhRSnd6QrXG) | 3:15 |
 | 100 | [I Love To Boogie](https://open.spotify.com/track/7dc8lqKS2P4Zq59g0yThvH) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Dandy In The Underworld](https://open.spotify.com/album/5aEVv5sSzit1hQVF5ASVKO) | 2:15 |
 
-Snapshot ID: `MTY1Mzk0MjI4OCwwMDAwMDAwMDFjZmQwMTIxZTcwNzI1YmVlNmI5ZWVmNWMyNGQzOTNm`
+Snapshot ID: `MTY1Mzk0MjI4OCwwMDAwMDAwMDU1YTlkZDM0MzQ1YjZiNDkzM2M2MThmM2E1ODFkODJj`

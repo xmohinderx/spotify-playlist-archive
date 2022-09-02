@@ -4,7 +4,7 @@
 
 > Soul classics to keep you company in the kitchen.
 
-57 songs - 2 hr 44 min - [published](https://open.spotify.com/playlist/4UGwv63SSnPinWKqpXcsuM)
+58 songs - 2 hr 46 min - [published](https://open.spotify.com/playlist/4UGwv63SSnPinWKqpXcsuM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Rescue Me](https://open.spotify.com/track/1GY8zOFi8rC39xXnD0tKO8) | [Fontella Bass](https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA) | [The New Look](https://open.spotify.com/album/6PB1ExLaenkyov5q1NrSXd) | 2:51 | 2022-03-28 |  |
 | [Shotgun](https://open.spotify.com/track/2Zk0eoq7d6Vw0fRVRXPWnc) | [Jr\. Walker & The All Stars](https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd) | [Shotgun](https://open.spotify.com/album/09uQ81RxL7Bbsq7jEstXWc) | 2:56 | 2022-03-28 |  |
 | [Soul Man](https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [Soul Men](https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK) | 2:39 | 2022-03-28 |  |
-| [Sweet Soul Music](https://open.spotify.com/track/0pvA063uNyGQFp7DNtmk0P) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Rhino Hi\-Five: Arthur Conley](https://open.spotify.com/album/6dYQhuDC49jXh7YvTtb0oT) | 2:21 | 2022-03-28 |  |
+| [Sweet Soul Music](https://open.spotify.com/track/0pvA063uNyGQFp7DNtmk0P) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Rhino Hi\-Five: Arthur Conley](https://open.spotify.com/album/6dYQhuDC49jXh7YvTtb0oT) | 2:21 | 2022-03-28 | 2022-09-02 |
+| [Sweet Soul Music](https://open.spotify.com/track/2YuIyYri67bgUXKQW5V9XW) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Sweet Soul Music](https://open.spotify.com/album/2fZ5TzqZjIWEAP5T9ktlBC) | 2:21 | 2022-03-28 |  |
 | [The Makings of You](https://open.spotify.com/track/1Mq4vRRox3bcruJA75M4D9) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Curtis \(Expanded Edition\)](https://open.spotify.com/album/3tgJmEz0R0ZsRSrpwafp4R) | 3:43 | 2022-03-28 |  |
 | [The Tracks Of My Tears](https://open.spotify.com/track/6QyQmdvQ1ywNccYa0pwLNQ) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [Going To A Go\-Go](https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW) | 2:54 | 2022-03-28 |  |
 | [This Old Heart Of Mine \(Is Weak For You\)](https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [This Old Heart Of Mine](https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN) | 2:52 | 2022-03-28 |  |

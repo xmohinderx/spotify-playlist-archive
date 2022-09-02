@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > Extra vicious, hard\-hitting pop\.  This is SALT\.  Cover: Demi Lovato
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,637 likes - 70 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,556 likes - 70 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

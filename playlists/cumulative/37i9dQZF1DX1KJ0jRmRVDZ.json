@@ -1684,6 +1684,24 @@
     },
     {
       "album": {
+        "name": "Shasai",
+        "url": "https://open.spotify.com/album/1zz1GyAxNbd8uG9w2v1SEq"
+      },
+      "artists": [
+        {
+          "name": "issey",
+          "url": "https://open.spotify.com/artist/6NOuhUhXshepSHcBqwwZJt"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187004,
+      "name": "Shasai",
+      "url": "https://open.spotify.com/track/5Wpc0b0sUVtQ6m2u2fW5ZY"
+    },
+    {
+      "album": {
         "name": "SHOW\u30ec\u30fc\u30b9",
         "url": "https://open.spotify.com/album/0cjT5braEI6LZAJSgw2IAV"
       },
@@ -3893,7 +3911,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 194266,
       "name": "\u30bd\u30fc\u30a4\u30f3\u30b0\u30dc\u30c3\u30af\u30b9",
       "url": "https://open.spotify.com/track/76NhiCBPrYxaXfh0jeUBcD"
@@ -5121,6 +5139,28 @@
       "duration_ms": 122694,
       "name": "\u5168\u90e8\u304c\u5acc\u3044\u3060",
       "url": "https://open.spotify.com/track/0BqCPdwMHhfi9EdG784IbR"
+    },
+    {
+      "album": {
+        "name": "\u516b\u6708\u4e09\u5341\u4e8c\u65e5(\u8449\u6708\u30b1\u30a4\u306e\u5834\u5408 / CV:\u83c5\u539f\u572d)",
+        "url": "https://open.spotify.com/album/6IzGihmL24pqcRVd0vSl4S"
+      },
+      "artists": [
+        {
+          "name": "\u5341\u4e94\u5c11\u5973",
+          "url": "https://open.spotify.com/artist/4QmLN7dXAOKWnZO9efWX5d"
+        },
+        {
+          "name": "Kei Sugawara",
+          "url": "https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230679,
+      "name": "\u516b\u6708\u4e09\u5341\u4e8c\u65e5(\u8449\u6708\u30b1\u30a4\u306e\u5834\u5408 / CV:\u83c5\u539f\u572d)",
+      "url": "https://open.spotify.com/track/6WIaqRsMJIL4CShUVuBSaV"
     },
     {
       "album": {
@@ -6805,7 +6845,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 217106,
       "name": "\u717d\u3052\u3084\u5c0a\u3057",
       "url": "https://open.spotify.com/track/2LeHTvjUmiR1A6L9txGDfm"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 
 > La playlist officielle de l’édition 2022 des Francos de Montréal!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,106 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,103 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 18 | [La vie attend pas](https://open.spotify.com/track/4hjTnV4AAiOMTD085WbXNB) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [Pêle\-mêle](https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw) | 4:13 |
 | 19 | [Tout s'en va](https://open.spotify.com/track/0cf1gWT1VpWrxxgjjIiH4V) | [Luv Resval](https://open.spotify.com/artist/5l8WyvJ50fdSghK2ySNq1y) | [Etoile Noire](https://open.spotify.com/album/656DP8kmQ5EDe6cPkhIkSb) | 3:17 |
 | 20 | [Pas le temps de jouer](https://open.spotify.com/track/6oomlC7rQX4LpTXwXHe3aq) | [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo) | [Pas le temps de jouer](https://open.spotify.com/album/02M6nwxbFdK7DRgB5hxe1I) | 3:00 |
-| 21 | [Gisèle \- Part 4](https://open.spotify.com/track/6ZAoS3dnU1Hha59H3Fxw6L) | [Luidji](https://open.spotify.com/artist/3bRGJQd7b4lE3ZAEMfOXJp) | [Tristesse Business : Saison 1](https://open.spotify.com/album/2rYWseZkKpXd63uixoE0m0) | 5:34 |
+| 21 | [Pause](https://open.spotify.com/track/57TwkG6mUvWDZsEqARyeI2) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [À TOUS LES BÂTARDS](https://open.spotify.com/album/4RDBA4Eb8n6KDYzX3wBEeY) | 3:05 |
 | 22 | [I Know](https://open.spotify.com/track/50eGTKo7td8i5PCNkPCmWO) | [20Some](https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ) | [Home Run](https://open.spotify.com/album/2r4bTB0FAzdzUakL7yopqV) | 4:10 |
-| 23 | [Pause](https://open.spotify.com/track/57TwkG6mUvWDZsEqARyeI2) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [À TOUS LES BÂTARDS](https://open.spotify.com/album/4RDBA4Eb8n6KDYzX3wBEeY) | 3:05 |
+| 23 | [Gisèle \- Part 4](https://open.spotify.com/track/6ZAoS3dnU1Hha59H3Fxw6L) | [Luidji](https://open.spotify.com/artist/3bRGJQd7b4lE3ZAEMfOXJp) | [Tristesse Business : Saison 1](https://open.spotify.com/album/2rYWseZkKpXd63uixoE0m0) | 5:34 |
 | 24 | [Voilà](https://open.spotify.com/track/0UVlOQ3EEiTVOctUOnJ00w) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [On n’enferme pas les oiseaux](https://open.spotify.com/album/5n2gREH4hxQuJF2vZ6feHD) | 2:57 |
 | 25 | [Nara](https://open.spotify.com/track/0scyQTSVzVYz9adJPVBnJa) | [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [PLANET GOLD](https://open.spotify.com/album/5hLdVwceLwr2AiwyorDeCB) | 2:11 |
 | 26 | [Samba](https://open.spotify.com/track/3AyeEQHxCOzJ22b2mQTUPK) | [Clea Vincent](https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu) | [Tropi\-cléa](https://open.spotify.com/album/3qZJMIZSBdDlHHeQvd22vN) | 2:48 |
@@ -62,16 +62,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 52 | [Mezcal](https://open.spotify.com/track/2jMl3KEBFAS0DUH3BvKtWX) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Mezcal](https://open.spotify.com/album/1eczfsDtMYWKF0oW3pRZVo) | 3:52 |
 | 53 | [Encore et encore](https://open.spotify.com/track/4fD6FWsUZCFaq9phZERRoF) | [SAÏK](https://open.spotify.com/artist/395spUELWr54gJKYr3EE0I), [Pompis](https://open.spotify.com/artist/5MvTyp1ILPh1FZupAcFffI), [Layanah](https://open.spotify.com/artist/7DFSyHRCHorchjSaMe9M3M) | [Givmeall Hit Stars](https://open.spotify.com/album/0MEMQh52RnTAOhY9flt4Ju) | 3:45 |
 | 54 | [Mot de passe](https://open.spotify.com/track/5DPdRHRTZHwxiz35F2FQCt) | [Damien Robitaille](https://open.spotify.com/artist/2fshYb8TCzSwt9m8NC4Ttu) | [Homme Autonome](https://open.spotify.com/album/1HPHFA0duEoD5ewnAvrcHY) | 3:25 |
-| 55 | [Roi](https://open.spotify.com/track/3FVlQblG8CCPrTHfwcUUk0) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Roi](https://open.spotify.com/album/7hEml1pfNKG8hgkC8l2vmY) | 2:33 |
-| 56 | [Xoxo](https://open.spotify.com/track/1oskigGKTv9ryFNO5Q8AVC) | [Loud Lary Ajust](https://open.spotify.com/artist/2zxjAOpQqLzNsLkRbSNjAN) | [Blue Volvo](https://open.spotify.com/album/4s7S302I93Q2S9BTyGHqYc) | 4:11 |
+| 55 | [Xoxo](https://open.spotify.com/track/1oskigGKTv9ryFNO5Q8AVC) | [Loud Lary Ajust](https://open.spotify.com/artist/2zxjAOpQqLzNsLkRbSNjAN) | [Blue Volvo](https://open.spotify.com/album/4s7S302I93Q2S9BTyGHqYc) | 4:11 |
+| 56 | [Roi](https://open.spotify.com/track/3FVlQblG8CCPrTHfwcUUk0) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Roi](https://open.spotify.com/album/7hEml1pfNKG8hgkC8l2vmY) | 2:33 |
 | 57 | [Dans l'bois](https://open.spotify.com/track/0LI89ikl3gcJpFepnrfr38) | [Édith Butler](https://open.spotify.com/artist/4AhQuJhnTP8pO6nlNhy0YL), [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Le tour du Grand Bois](https://open.spotify.com/album/22ZzGyaIz2MN4cJWfuNngW) | 3:35 |
-| 58 | [La jungle du capital](https://open.spotify.com/track/0uEMCE8qrTD3ivM3TVoQtu) | [Émile Bilodeau](https://open.spotify.com/artist/0q9gV5iFHokttrI4WBuRQu) | [Petite nature](https://open.spotify.com/album/7x0PB0u5Mr7agHHV35EKj4) | 4:08 |
-| 59 | [Perdu](https://open.spotify.com/track/26pgQYYmQRxVkHL6FRNdoH) | [Miro](https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj) | [Sablier](https://open.spotify.com/album/3VOHZBXEsrwimXbJuC6qCJ) | 2:26 |
+| 58 | [Perdu](https://open.spotify.com/track/26pgQYYmQRxVkHL6FRNdoH) | [Miro](https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj) | [Sablier](https://open.spotify.com/album/3VOHZBXEsrwimXbJuC6qCJ) | 2:26 |
+| 59 | [La jungle du capital](https://open.spotify.com/track/0uEMCE8qrTD3ivM3TVoQtu) | [Émile Bilodeau](https://open.spotify.com/artist/0q9gV5iFHokttrI4WBuRQu) | [Petite nature](https://open.spotify.com/album/7x0PB0u5Mr7agHHV35EKj4) | 4:08 |
 | 60 | [Sans tomber](https://open.spotify.com/track/1x5FMvzOMCa01427pWXwdK) | [Melissa Ouimet](https://open.spotify.com/artist/2VcWCneechtPXpyO6l7eth) | [Sans tomber](https://open.spotify.com/album/5FG0BYcqY6AVU2FyRH7xkH) | 2:09 |
 | 61 | [Amène\-toi chez nous](https://open.spotify.com/track/3IjLvU7Of9foqyfRrvktKG) | [Jacques Michel](https://open.spotify.com/artist/7MBV7HWVAY9naGIoBnJTAv) | [Citoyen d'Amérique](https://open.spotify.com/album/2BTaLMAnPPNox2ieVctOas) | 2:26 |
 | 62 | [J'espère](https://open.spotify.com/track/2rlu5RD8NUOLkjg9Mrg6ET) | [Félix Dyotte](https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8) | [Airs païens](https://open.spotify.com/album/3aPV9ERy4YhhFOd88R8NsD) | 2:29 |
-| 63 | [Masque d'or](https://open.spotify.com/track/5d02AODpcUPHTLwY38ih1m) | [Fishbach](https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb) | [Avec les yeux](https://open.spotify.com/album/7J8c8nCaZzNuClKzBjsplH) | 3:31 |
-| 64 | [Les Rois](https://open.spotify.com/track/0LYoSwbEATgEhaW08cnR3I) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv) | [Excalibur](https://open.spotify.com/album/4TaVDxoWyoR6F7s1aTyz8T) | 3:08 |
+| 63 | [Les Rois](https://open.spotify.com/track/0LYoSwbEATgEhaW08cnR3I) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv) | [Excalibur](https://open.spotify.com/album/4TaVDxoWyoR6F7s1aTyz8T) | 3:08 |
+| 64 | [Masque d'or](https://open.spotify.com/track/5d02AODpcUPHTLwY38ih1m) | [Fishbach](https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb) | [Avec les yeux](https://open.spotify.com/album/7J8c8nCaZzNuClKzBjsplH) | 3:31 |
 | 65 | [Mwen Pare](https://open.spotify.com/track/17dbXxphEFaswso4XiWMNQ) | [Magdala](https://open.spotify.com/artist/3uadfXnnMTKpzaGo96mRFz) | [Mwen Pare](https://open.spotify.com/album/6fr77G7A7FxNRCu7UoY56g) | 4:54 |
 | 66 | [Chalet](https://open.spotify.com/track/4jhAuG9rGfvl3cKX5WBFdE) | [Comment Debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [Comment Debord](https://open.spotify.com/album/39hoDVmcDU4cOpdlUykmXK) | 3:42 |
 | 67 | [Si je pleure](https://open.spotify.com/track/4Cuu1Ip7u09ujBI05FCDbU) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [Soleil '96](https://open.spotify.com/album/0la63RXOuZLBQBYeEirWzg) | 3:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 99 | [Moteskano \- Les sentiers de nos ancêtres](https://open.spotify.com/track/5mevy3xuFjvc6KsYwc6ajp) | [Laura Niquay](https://open.spotify.com/artist/0pl54zLEvzbyIPj7ork06z) | [Waska Matisiwin](https://open.spotify.com/album/0Tm5Exm8H4m2L1HoojSWBG) | 4:10 |
 | 100 | [Je t’aime](https://open.spotify.com/track/4qywUTrv0kO4e5Gr8rvZbE) | [Velours Velours](https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg) | [Fauve](https://open.spotify.com/album/4Mvoq66t7irGEQ77MV6RM1) | 4:13 |
 
-Snapshot ID: `MTY1NTMxMzE4NSwwMDAwMDAwMDgxOGQ1OTNkMTQwNjE4MDM0ZTYyNDZjYjA4NjgyMDE5`
+Snapshot ID: `MTY1NTMxMzE4NSwwMDAwMDAwMGU2MWRmMGQ1YmFjMjNiMjg3YjU2OTdkZWYzNzk2ZWI2`

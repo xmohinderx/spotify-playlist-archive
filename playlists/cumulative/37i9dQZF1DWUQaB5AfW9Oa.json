@@ -773,10 +773,28 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 141066,
       "name": "Sweet Soul Music",
       "url": "https://open.spotify.com/track/0pvA063uNyGQFp7DNtmk0P"
+    },
+    {
+      "album": {
+        "name": "Sweet Soul Music",
+        "url": "https://open.spotify.com/album/2fZ5TzqZjIWEAP5T9ktlBC"
+      },
+      "artists": [
+        {
+          "name": "Arthur Conley",
+          "url": "https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141066,
+      "name": "Sweet Soul Music",
+      "url": "https://open.spotify.com/track/2YuIyYri67bgUXKQW5V9XW"
     },
     {
       "album": {

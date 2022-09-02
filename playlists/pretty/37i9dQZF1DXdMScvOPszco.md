@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMScvOPszco.md) - [plain]
 
 > Ponle actitud a tu comida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,236 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,264 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMScvOPszco.md) - [plain]
 | 30 | [Rock 'n' Roll High School \- 2002 Remaster](https://open.spotify.com/track/4FzPIalyruWIiefI91qe4B) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [End of the Century \(Expanded 2005 Remaster\)](https://open.spotify.com/album/4AZArreHFJ5m8mo1SZT3Iv) | 2:17 |
 | 31 | [Revolution](https://open.spotify.com/track/2DDDzxzFpgTQx4AEKRO3zz) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [All Or Nothing \(Deluxe Edition\)](https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa) | 3:25 |
 | 32 | [Sound System \- 2007 Remaster](https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy \(2007 Remaster\)](https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m) | 2:14 |
-| 33 | [Anarchy in the U.K.](https://open.spotify.com/track/3LoDeIbiR12sAznmpNEmKA) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here's The Sex Pistols](https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2) | 3:31 |
+| 33 | [Bloodstains \- Original Version](https://open.spotify.com/track/5E47rKJbS74jyLZaSgb0kS) | [Agent Orange](https://open.spotify.com/artist/1pBsvSnrhmgDZqisT13SFA) | [Living In Darkness \(30th Anniversary Edition\)](https://open.spotify.com/album/1IJw5lrtuyb72eDp8o0kas) | 1:53 |
 | 34 | [Holiday in Cambodia](https://open.spotify.com/track/2OuNnwnNQyWrF47pthWxNb) | [Dead Kennedys](https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV) | [Give Me Convenience or Give Me Death](https://open.spotify.com/album/5Xv8PCJ7ZMmRd3jXnJqg3V) | 3:44 |
-| 35 | [Bloodstains \- Original Version](https://open.spotify.com/track/5E47rKJbS74jyLZaSgb0kS) | [Agent Orange](https://open.spotify.com/artist/1pBsvSnrhmgDZqisT13SFA) | [Living In Darkness \(30th Anniversary Edition\)](https://open.spotify.com/album/1IJw5lrtuyb72eDp8o0kas) | 1:53 |
+| 35 | [Anarchy in the U.K.](https://open.spotify.com/track/3LoDeIbiR12sAznmpNEmKA) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here's The Sex Pistols](https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2) | 3:31 |
 | 36 | [True Believers](https://open.spotify.com/track/4fRmFVMd0c1SGfzazBJIM8) | [The Bouncing Souls](https://open.spotify.com/artist/3mvTAjG7rcyk7DQzLwauzV) | [How I Spent My Summer Vacation](https://open.spotify.com/album/64zbLX1ze8N3kcAMX0qq7G) | 2:30 |
 | 37 | [Disconnected](https://open.spotify.com/track/4TOIJR7F0dH2k32a70YS8F) | [Face To Face](https://open.spotify.com/artist/4l9ufn9GC6LLYXvIanDlLd) | [Don't Turn Away](https://open.spotify.com/album/30Agxug9JulUpt5I3mUNM4) | 3:27 |
 | 38 | [Don't Call Me White](https://open.spotify.com/track/0cntShbC3GmWXygfH98brk) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Punk In Drublic](https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh) | 2:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMScvOPszco.md) - [plain]
 | 49 | [Banned in D.C.](https://open.spotify.com/track/0YnP5BtP6lTwQV8gLOzaov) | [Bad Brains](https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc) | [Bad Brains](https://open.spotify.com/album/4NpepcKo9rQ8nkdCB6iWMP) | 2:12 |
 | 50 | [Gotta Go](https://open.spotify.com/track/4cMbAP64BETo4dBW8GUwYD) | [Agnostic Front](https://open.spotify.com/artist/3zDvanHxaETiHltPkKKYhT) | [Something's Gotta Give](https://open.spotify.com/album/41VrNLnQFFvhhga4iURHNQ) | 3:34 |
 
-Snapshot ID: `MTU5MDE2OTIxNCwwMDAwMDAwMDMzNjgxNTI1ODBiN2MzY2E3Y2EyNmI4ODNhYzUyYTcy`
+Snapshot ID: `MTU5MDE2OTIxNCwwMDAwMDAwMGYxNzg0ZmE2YTA1YmU4Y2ZhMzUyMDg4MGQ4NmVjY2Nh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of U.S\. Latinos in Hip\-Hop\. Cover: Coyote
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,234 likes - 70 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,246 likes - 70 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 56 | [El Idolo](https://open.spotify.com/track/7DV8CSr1u4KyKJq6tT6aEp) | [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F) | [El Idolo](https://open.spotify.com/album/5iYKrxXHkXQv4aStyC6qdn) | 2:08 |
 | 57 | [Ain't Done](https://open.spotify.com/track/4X86G4H6Zx2rPHupmM0EOQ) | [SpyBoii](https://open.spotify.com/artist/6DZrRdBnSomNpyxQwwdjA4), [YeloHill](https://open.spotify.com/artist/0IgLirgKCxQb13uM8FuQpR) | [Ain't Done](https://open.spotify.com/album/5bSpHW2lk1QzdMXKDA7iD0) | 2:51 |
 | 58 | [Bang](https://open.spotify.com/track/0WzLVl71WS4NKgZdNGwr5i) | [Chepo](https://open.spotify.com/artist/4vFox91m72aMkBPFGQYzHB), [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [Peso Peso](https://open.spotify.com/artist/4p3LCEBLJQyAxYedthAdTe) | [Bang](https://open.spotify.com/album/1HngEDkNBmQs4Pe5VR4K5I) | 2:37 |
-| 59 | [SLIDIN](https://open.spotify.com/track/6E6LxZeukHfwhFHCRpNJhc) | [Omar Cruz](https://open.spotify.com/artist/3H3t7VTapFSSQRRWlp5m28), [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D) | [SLIDIN](https://open.spotify.com/album/48t5QLjlg4ubsqWlJLDBsk) | 2:38 |
-| 60 | [Paid in Full](https://open.spotify.com/track/3EIoImBHUqMVxn0hgUAtpb) | [Ybe](https://open.spotify.com/artist/00MPrHDjL16lKX3tMFV7Nz) | [Paid in Full](https://open.spotify.com/album/7zbK5ee8Di5uPqqBuRW1hj) | 2:35 |
+| 59 | [Paid in Full](https://open.spotify.com/track/3EIoImBHUqMVxn0hgUAtpb) | [Ybe](https://open.spotify.com/artist/00MPrHDjL16lKX3tMFV7Nz) | [Paid in Full](https://open.spotify.com/album/7zbK5ee8Di5uPqqBuRW1hj) | 2:35 |
+| 60 | [SLIDIN](https://open.spotify.com/track/6E6LxZeukHfwhFHCRpNJhc) | [Omar Cruz](https://open.spotify.com/artist/3H3t7VTapFSSQRRWlp5m28), [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D) | [SLIDIN](https://open.spotify.com/album/48t5QLjlg4ubsqWlJLDBsk) | 2:38 |
 | 61 | [Fuck The Yotes](https://open.spotify.com/track/356X71Y2OKBS3tvGjLr0jx) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD) | [Fuck The Yotes](https://open.spotify.com/album/2Y99BDsQw0fKCJY5qjOndk) | 3:05 |
 | 62 | [get 2 know ya](https://open.spotify.com/track/7LKRH8gSBHXJ5qKvoLJCa3) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4) | [sometimes i like 2 sing <3](https://open.spotify.com/album/5ZqZlDsGEgt7o36WceHiET) | 3:04 |
 | 63 | [Carta Para Dios](https://open.spotify.com/track/4Cu0FaKXRzg5elkpncWGaS) | [Juanillo Diaz](https://open.spotify.com/artist/43QAcxJuLK8pBo8yKn2Vgz) | [Vida Por Tinta](https://open.spotify.com/album/3dakaQnFPuHDiCzne70gEQ) | 4:13 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 69 | [London](https://open.spotify.com/track/4qXkllmd1rA0jWxtsPQqpW) | [DAISY SIMO](https://open.spotify.com/artist/7xBn4ObqYv4qP8X0Fb81dp) | [London](https://open.spotify.com/album/51NMcANUHXRMR4kOow3rbm) | 2:40 |
 | 70 | [Poppin](https://open.spotify.com/track/1CrTglTTE9oIA4uYoImCYG) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2 Alivë \(Geëk Pack\)](https://open.spotify.com/album/0345WPzPBSeISh2IpIQWxT) | 2:47 |
 
-Snapshot ID: `MTY1Nzg1NzYwMCwwMDAwMDAwMDdiODkwNTk0OWVhMjMxMzhhM2Q1OTIyYTkwNjBhNzU4`
+Snapshot ID: `MTY1Nzg1NzYwMCwwMDAwMDAwMDI5YjVjZGZlY2I4N2YxMTE1YTA0YTNkYTQ3N2RmZDlh`

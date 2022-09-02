@@ -4,12 +4,13 @@
 
 > Soft and cozy saxophone ballads to relax or focus.
 
-103 songs - 7 hr 5 min - [published](https://open.spotify.com/playlist/6nq7hWNk2cvvhG65Oqh64w)
+105 songs - 7 hr 12 min - [published](https://open.spotify.com/playlist/6nq7hWNk2cvvhG65Oqh64w)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/68je1RygvBfwUcTZXU9toA) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Jazz Moods \- 'Round Midnight](https://open.spotify.com/album/58vSENHhdZo1Tc9VGCV5pY) | 7:12 | 2022-08-18 |  |
 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/4pIF1SiB1GMFOFfo6OhrOi) | [The Bob Davis Group](https://open.spotify.com/artist/1lfkgC6uwLGN8qsvoaRgzT) | [Here, There And Everywhere](https://open.spotify.com/album/0YDrnRN4lgzFDIWLtNLz2F) | 3:05 | 2022-08-18 |  |
+| [After Hours](https://open.spotify.com/track/3RoPN08vWMKxViEhdoqeuW) | [Eduard Landings](https://open.spotify.com/artist/6SF8oe9fw9X65MbLwQfkau) | [After Hours](https://open.spotify.com/album/3itxUrPWLTA7nUFpL3LiTS) | 3:32 | 2022-09-01 |  |
 | [All To Soon](https://open.spotify.com/track/6IhdygzBXr39qlNR0rLOE6) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [All To Soon](https://open.spotify.com/album/4rYzfpEKqXD0aX3ZeVUvHi) | 4:13 | 2022-08-18 |  |
 | [Angela](https://open.spotify.com/track/7mzxizPHaVjzk90MGlreII) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [Angela](https://open.spotify.com/album/58n25NEK3FhOFptQbRvpbO) | 3:57 | 2022-08-18 |  |
 | [April In Paris](https://open.spotify.com/track/5rPMbUxXRXvWu89k0n6Sxj) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [April In Paris: The Genius Of Charlie Parker \#2](https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ) | 3:07 | 2022-08-18 |  |
@@ -105,6 +106,7 @@
 | [Västerbotten](https://open.spotify.com/track/6zM6wh0b8QjJHoXzUZbPe8) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [Västerbotten](https://open.spotify.com/album/1kc45nQdPEfUbk99ljLebi) | 3:25 | 2022-08-18 |  |
 | [Warm Valley](https://open.spotify.com/track/373cEVkcZ8HpP5WtgjSGq8) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Used To Be Duke](https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ) | 3:20 | 2022-08-18 |  |
 | [Watch What Happens](https://open.spotify.com/track/3C8LKleDein4hf61QPoWg5) | [Mornington](https://open.spotify.com/artist/1oC6eOjjixPdeV0HvUAviS) | [Crossways](https://open.spotify.com/album/5wS9f4r6IGfxyluF1ykXtG) | 2:57 | 2022-08-18 |  |
+| [Waveless Sea](https://open.spotify.com/track/3U2J9LyloQzn8bTdc3BfF6) | [Mitch Coleman](https://open.spotify.com/artist/5YyVZ8kxK9sRVEg1pBh1PV) | [Waveless Sea](https://open.spotify.com/album/0y5GVPzc0TspKuOMa8qF3s) | 3:59 | 2022-09-01 |  |
 | [Whatever Possessed Me](https://open.spotify.com/track/2ctouihgYSV7onIUDRBjbK) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [Whatever Possessed Me](https://open.spotify.com/album/4y9NYqUGF8rFBkisD65CTt) | 3:49 | 2022-08-18 |  |
 | [What´s New](https://open.spotify.com/track/0BL42uZtaUUFXL26jWVmBR) | [Japari Park](https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW) | [What´s New](https://open.spotify.com/album/0c71OvAIq0htZlQAYh4TrT) | 3:38 | 2022-08-18 |  |
 | [When I Fall In Love](https://open.spotify.com/track/5qua84zdZZxV4dRI1v0WLN) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [When I Fall In Love](https://open.spotify.com/album/2TyUlWNdCzTFItxohR2PO2) | 4:23 | 2022-08-18 |  |

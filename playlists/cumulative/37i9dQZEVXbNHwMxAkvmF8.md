@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-505 songs - 1 day 2 hr 53 min - [published](https://open.spotify.com/playlist/7svddjzxIPaFrTrcCSo8Qo)
+506 songs - 1 day 2 hr 57 min - [published](https://open.spotify.com/playlist/7svddjzxIPaFrTrcCSo8Qo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,7 @@
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh) | 3:32 | 2021-07-25 | 2021-09-19 |
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 3:32 | 2021-09-19 | 2022-06-01 |
 | [Infinity](https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Feel Something](https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z) | 3:57 | 2022-01-03 | 2022-04-29 |
-| [intro](https://open.spotify.com/track/17bAQSYdOpXgru7Xkm4UKG) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [silbak](https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ) | 2:08 | 2022-08-11 |  |
+| [intro](https://open.spotify.com/track/17bAQSYdOpXgru7Xkm4UKG) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [silbak](https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ) | 2:08 | 2022-08-11 | 2022-09-02 |
 | [Irigyeim](https://open.spotify.com/track/03B7Ujs2bW9cZps99wuPeA) | [ALEE](https://open.spotify.com/artist/0HtJHszzuucFjA33hHBJrT) | [Irigyeim](https://open.spotify.com/album/2GqsuE4Vs5aJliKzzYvDM8) | 2:09 | 2021-11-30 | 2021-12-12 |
 | [Is There Someone Else?](https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:19 | 2022-01-08 | 2022-01-13 |
 | [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 3:26 | 2021-11-28 | 2021-12-29 |
@@ -272,6 +272,7 @@
 | [MAMMAMIA](https://open.spotify.com/track/78SCmQ8A7KQSMdkem2SwBP) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [MAMMAMIA](https://open.spotify.com/album/7lVXNBav3Z8oA4jGk62Gme) | 3:06 | 2021-10-10 | 2021-10-24 |
 | [MANIAC](https://open.spotify.com/track/7BDHDiidJ8WV349p3HTxTV) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/1byOOf9U3IiQN1cVHqRqEF) | 3:02 | 2022-03-20 | 2022-03-24 |
 | [Marokkó](https://open.spotify.com/track/5Q0PPFWmbRxHksXlTaMHFB) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Marokkó](https://open.spotify.com/album/1RSk79ytpKvDbrHUALhVVE) | 3:55 | 2022-06-12 | 2022-06-17 |
+| [Mary On A Cross](https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Seven Inches Of Satanic Panic](https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF) | 4:04 | 2022-09-01 |  |
 | [Master Of Puppets](https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Remastered\)](https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21) | 8:35 | 2022-07-05 | 2022-07-18 |
 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 | 2022-05-21 | 2022-05-29 |
 | [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/1Al4Z4K76RCKj31mExavs7) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/album/36fDvdG4hmUbfLgauLOFgG) | 2:50 | 2022-03-18 | 2022-03-21 |

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcgQ8d7s0A0.md) - [plain]
 
 > Chill out to the sweetest soul songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,133,852 likes - 65 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,133,250 likes - 65 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ain't No Mountain High Enough](https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [United](https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE) | 2:31 |
-| 2 | [My Girl](https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations Sing Smokey](https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw) | 2:45 |
-| 3 | [If I Ain't Got You](https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 3:48 |
+| 2 | [If I Ain't Got You](https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 3:48 |
+| 3 | [My Girl](https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations Sing Smokey](https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw) | 2:45 |
 | 4 | [Stand by Me](https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Don't Play That Song \(Mono\)](https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7) | 3:00 |
 | 5 | [Ain't No Sunshine](https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Just As I Am](https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo) | 2:05 |
 | 6 | [Signed, Sealed, Delivered \(I'm Yours\)](https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Signed, Sealed And Delivered](https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO) | 2:41 |
@@ -55,14 +55,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcgQ8d7s0A0.md) - [plain]
 | 45 | [I'll Be Around](https://open.spotify.com/track/2vLaES21zwbX1Rnmj56Bbb) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [Spinners](https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg) | 3:08 |
 | 46 | [You'll Never Find Another Love Like Mine](https://open.spotify.com/track/6OylYIXrIH2E3hgg7Dqz5M) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [All Things In Time](https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m) | 4:26 |
 | 47 | [Strawberry Letter 23](https://open.spotify.com/track/00kvKlIvfzQLSi6T2zwXuS) | [The Brothers Johnson](https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD) | [Right On Time](https://open.spotify.com/album/5B1f1QwqbRhjWAExB1sofe) | 4:59 |
-| 48 | [Give Me the Night](https://open.spotify.com/track/62GYoGszQfROZswLee6W3O) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The George Benson Collection](https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN) | 3:42 |
-| 49 | [Walk on By](https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Make Way for Dionne Warwick](https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr) | 2:58 |
+| 48 | [Walk on By](https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Make Way for Dionne Warwick](https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr) | 2:58 |
+| 49 | [Give Me the Night](https://open.spotify.com/track/62GYoGszQfROZswLee6W3O) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The George Benson Collection](https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN) | 3:42 |
 | 50 | [Lovely Day](https://open.spotify.com/track/0ACACkoHUwgfgY5CxVIL4N) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Lean on Me: The Best of Bill Withers](https://open.spotify.com/album/0XmgSYx9bj4sqpcXVgKs2C) | 4:15 |
-| 51 | [Got 'Til It's Gone](https://open.spotify.com/track/6jUyYHDikmw9WltPojSR37) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [The Velvet Rope](https://open.spotify.com/album/6ZANEjETQ9L9pjBuvOAhCQ) | 4:01 |
-| 52 | [You Make Me Feel Brand New](https://open.spotify.com/track/73GR50SgGV5hybgWDSFWtD) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [Rockin' Roll Baby](https://open.spotify.com/album/0b1uWSG9X6poSc9SLTYEfz) | 4:48 |
+| 51 | [You Make Me Feel Brand New](https://open.spotify.com/track/73GR50SgGV5hybgWDSFWtD) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [Rockin' Roll Baby](https://open.spotify.com/album/0b1uWSG9X6poSc9SLTYEfz) | 4:48 |
+| 52 | [Got 'Til It's Gone](https://open.spotify.com/track/6jUyYHDikmw9WltPojSR37) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [The Velvet Rope](https://open.spotify.com/album/6ZANEjETQ9L9pjBuvOAhCQ) | 4:01 |
 | 53 | [Nightshift](https://open.spotify.com/track/23IK8TF2MSiLnuEjaYPfVV) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Nightshift](https://open.spotify.com/album/6QRiOSB53KZEe22LfWr6EP) | 5:06 |
-| 54 | [Cruisin'](https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Where There's Smoke...](https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU) | 5:52 |
-| 55 | [Just My Imagination \(Running Away With Me\)](https://open.spotify.com/track/39Bd345OWEhRNyfayhp9gv) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Sky's The Limit](https://open.spotify.com/album/1w68QsDEt1Rt5SiwOJNGFn) | 3:48 |
+| 54 | [Just My Imagination \(Running Away With Me\)](https://open.spotify.com/track/39Bd345OWEhRNyfayhp9gv) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Sky's The Limit](https://open.spotify.com/album/1w68QsDEt1Rt5SiwOJNGFn) | 3:48 |
+| 55 | [Cruisin'](https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Where There's Smoke...](https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU) | 5:52 |
 | 56 | [Son of a Preacher Man](https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty In Memphis \[Deluxe Edition\]](https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg) | 2:29 |
 | 57 | [Save Room](https://open.spotify.com/track/3sTc75CCyIw4FPs6cXkOe7) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Once Again](https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF) | 3:55 |
 | 58 | [Love and Happiness](https://open.spotify.com/track/6SMHgPgNkhe9lneNTbgtel) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [I'm Still in Love with You](https://open.spotify.com/album/7hI0QCwcx9GB8MZK24IfTT) | 5:07 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcgQ8d7s0A0.md) - [plain]
 | 64 | [As](https://open.spotify.com/track/13toFl1UwJPsRxDiD9jgtn) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 7:08 |
 | 65 | [Let The Music Play \- Single Version](https://open.spotify.com/track/75pBjCi8cxfkp4xd68uo6O) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Let The Music Play \(Expanded Edition\)](https://open.spotify.com/album/2DQOfMwyvGxAd964nKx1it) | 3:30 |
 
-Snapshot ID: `MTYxMzY0MzkzNiwwMDAwMDAwMDcxOGY4NWFiNjNlOThiYjJjNDBmNmRiNGRmZmZmZGJl`
+Snapshot ID: `MTYxMzY0MzkzNiwwMDAwMDAwMDljNWYwMmVlNWZjNjVjYjI3NTYxYzY3ZjYzODQyOTM3`

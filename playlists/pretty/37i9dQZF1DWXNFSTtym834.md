@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 
 > The biggest metal songs of the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 761,612 likes - 100 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 762,448 likes - 100 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 | 47 | [Ghost Division](https://open.spotify.com/track/1MoEyYsa9Y0FvApwLskO1l) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [The Art of War \(Re\-Armed\)](https://open.spotify.com/album/0ByHC8GAef76h66JrvigzE) | 3:51 |
 | 48 | [The Hand That Feeds](https://open.spotify.com/track/5ugzDiilhy6ILKmKfhEzd7) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [With Teeth](https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL) | 3:31 |
 | 49 | [Minerva](https://open.spotify.com/track/1gzWd0ILFaCoHUfQSkCIvl) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Deftones](https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP) | 4:17 |
-| 50 | [Feel So Numb](https://open.spotify.com/track/6KnNDix4Owr4vNmsPhLmxD) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Sinister Urge](https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I) | 3:53 |
-| 51 | [Sonne](https://open.spotify.com/track/4w3R0GZ2rScJMKlgPJzHRq) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Mutter](https://open.spotify.com/album/7ikuEzL6xeAgu6yT6YVLy7) | 4:32 |
+| 50 | [Sonne](https://open.spotify.com/track/4w3R0GZ2rScJMKlgPJzHRq) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Mutter](https://open.spotify.com/album/7ikuEzL6xeAgu6yT6YVLy7) | 4:32 |
+| 51 | [Feel So Numb](https://open.spotify.com/track/6KnNDix4Owr4vNmsPhLmxD) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Sinister Urge](https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I) | 3:53 |
 | 52 | [The End of Heartache](https://open.spotify.com/track/2nUy0ifVE7UwtOK4rugFsP) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [The End of Heartache \(Special Edition\)](https://open.spotify.com/album/6NrMjaGIZAKZLMzVnkNY4V) | 4:58 |
 | 53 | [I Don't Wanna Be Me](https://open.spotify.com/track/4eGHEHqoDMMejzPhRFTc7p) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [Life Is Killing Me](https://open.spotify.com/album/4AdGr92Z6Ff2WbKP5Ja2QC) | 5:08 |
 | 54 | [Sun Doesn't Rise](https://open.spotify.com/track/24CeaRaJHiMKFAVZTCu8Y0) | [Mushroomhead](https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M) | [XIII](https://open.spotify.com/album/3N1Ehmz49Lavsi23cKFWDv) | 3:13 |
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 | 56 | [Check My Brain](https://open.spotify.com/track/2O2ii9OPZYh1NBXo9FtE0Y) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Black Gives Way To Blue](https://open.spotify.com/album/2vkLky2qG0rziUk0eOsIZ9) | 3:57 |
 | 57 | [Bleed](https://open.spotify.com/track/4E6wpXABj8XosZEPXZz2OK) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [ObZen](https://open.spotify.com/album/2x2VoPa1pG2jSElA73a9Xa) | 7:22 |
 | 58 | [Walk with Me In Hell](https://open.spotify.com/track/6vjvewW34Y3UiGQtJokGlY) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Sacrament](https://open.spotify.com/album/1cikCss5SRQLrIAmpyHoVw) | 5:11 |
-| 59 | [Right In Two](https://open.spotify.com/track/0NLDZzVke3Qu7vDhWyGzRk) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [10,000 Days](https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk) | 8:55 |
-| 60 | [Carrion](https://open.spotify.com/track/0xfWKcNu13xxXQ2GT0P09M) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Horizons \(Deluxe Edition\)](https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM) | 3:07 |
-| 61 | [Amerika](https://open.spotify.com/track/33ayEZDfgARpadIdqo87JQ) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Reise, Reise](https://open.spotify.com/album/09qHS2BgOLqi3SMkbauxdJ) | 3:46 |
+| 59 | [Amerika](https://open.spotify.com/track/33ayEZDfgARpadIdqo87JQ) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Reise, Reise](https://open.spotify.com/album/09qHS2BgOLqi3SMkbauxdJ) | 3:46 |
+| 60 | [Right In Two](https://open.spotify.com/track/0NLDZzVke3Qu7vDhWyGzRk) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [10,000 Days](https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk) | 8:55 |
+| 61 | [Carrion](https://open.spotify.com/track/0xfWKcNu13xxXQ2GT0P09M) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Horizons \(Deluxe Edition\)](https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM) | 3:07 |
 | 62 | [Wait](https://open.spotify.com/track/45R6DmpsaoqLujIn6qPTPH) | [Earshot](https://open.spotify.com/artist/6eeYhqOX2cpsiHY6gVuvPA) | [Two](https://open.spotify.com/album/0LRzUvkIwBzRFDjKCo2cfe) | 3:33 |
 | 63 | [The Phantom Of The Opera](https://open.spotify.com/track/2WmbbiWfFEKsSZe6E5GeVe) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Century Child](https://open.spotify.com/album/4FFDudC4xBVF6MYJUynRsN) | 4:08 |
 | 64 | [Nobody](https://open.spotify.com/track/581mukhDjta60CCwpvnjL9) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Babylon \(Revised Online Music\)](https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg) | 3:56 |
@@ -82,12 +82,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 | 72 | [Blacklist](https://open.spotify.com/track/3iUJrkMilUVkUKtYZK7Th4) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [Tempo of the Damned](https://open.spotify.com/album/3sNPwtcV7Xv9CixCk0PpqP) | 6:16 |
 | 73 | [Revolution Is My Name](https://open.spotify.com/track/6LhUsJiXAuxoalUz01evh0) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel](https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd) | 5:16 |
 | 74 | [Panic Attack](https://open.spotify.com/track/5axwj3ekvw85989jjO8Ov8) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Octavarium](https://open.spotify.com/album/4v6kYkn7mYjlWS9vONmmCP) | 8:13 |
-| 75 | [I Only Wanna Be With You](https://open.spotify.com/track/2MAJJJu89ogKPctelr3F7f) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [The Strength / The Sound / The Songs](https://open.spotify.com/album/3jg1rZalHpRBBUmpNmRwI5) | 2:44 |
+| 75 | [Sad Man's Tongue](https://open.spotify.com/track/7BbrlQk1YHVjHVyoGEpDV2) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Rock The Rebel / Metal The Devil](https://open.spotify.com/album/14MqYITYLVQ8LJcWwvJEcy) | 3:05 |
 | 76 | [Murmaider](https://open.spotify.com/track/5ghMfHMHakVS0omjj2cBSA) | [Metalocalypse: Dethklok](https://open.spotify.com/artist/7u12AuhJ5AaJIgZAZe0US8) | [The Dethalbum](https://open.spotify.com/album/6YVSzU89AisNDfVK4HUt69) | 3:24 |
 | 77 | [Determined](https://open.spotify.com/track/0GBiT1wHV68bU0Cv8ZU2HZ) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Lost and Found](https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP) | 2:39 |
 | 78 | [Right Side Of The Bed](https://open.spotify.com/track/2cxbNLOKc9CtQ7hcH88ma3) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [The Curse \(Deluxe Edition\)](https://open.spotify.com/album/52kEF3wvknVbIAk28VStyL) | 3:42 |
 | 79 | [Rasputin](https://open.spotify.com/track/0W43LnKXzRivi0WPaoBLVO) | [Turisas](https://open.spotify.com/artist/0ykT1si9XRFPmEvWOnf4YI) | [Rasputin](https://open.spotify.com/album/5nUmL2EDOT3uoZQJOC2kYC) | 3:53 |
-| 80 | [Sad Man's Tongue](https://open.spotify.com/track/7BbrlQk1YHVjHVyoGEpDV2) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Rock The Rebel / Metal The Devil](https://open.spotify.com/album/14MqYITYLVQ8LJcWwvJEcy) | 3:05 |
+| 80 | [I Only Wanna Be With You](https://open.spotify.com/track/2MAJJJu89ogKPctelr3F7f) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [The Strength / The Sound / The Songs](https://open.spotify.com/album/3jg1rZalHpRBBUmpNmRwI5) | 2:44 |
 | 81 | [The Pursuit Of Vikings](https://open.spotify.com/track/0sObxZUKqdPfgjG9ahSlP5) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Fate of Norns](https://open.spotify.com/album/6eQNR9fAkQUFiIwJOVLt8N) | 4:30 |
 | 82 | [Eyes Of A Panther](https://open.spotify.com/track/68ZY22YJeDxvcpQCg6u6SX) | [Steel Panther](https://open.spotify.com/artist/3l02WF362j1oHOurzuseBv) | [Feel The Steel](https://open.spotify.com/album/6RqKEPUHvfSB7jhMomUv67) | 3:36 |
 | 83 | [Distortion Sleep](https://open.spotify.com/track/3yPQrLnNIthn4I5wQ51X26) | [Soilwork](https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx) | [Figure Number Five](https://open.spotify.com/album/6n86brHTe54lipUckY9InO) | 3:45 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 | 97 | [I Am Loco](https://open.spotify.com/track/3jmelhU4kuytaLPLeiAerH) | [Ill Niño](https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF) | [Revolution Revolucion](https://open.spotify.com/album/4IrzBBK9aFlpjtcdi9lAVJ) | 3:30 |
 | 98 | [I Will Be Heard](https://open.spotify.com/track/4Lxn1JlGJwmmXpODrNvPA6) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [Perseverance](https://open.spotify.com/album/2UPZ06izR1OtTX80U30AfG) | 2:58 |
 | 99 | [Keelhauled](https://open.spotify.com/track/2FBmddNjVLziN4AxfUmdQe) | [Alestorm](https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da) | [Black Sails at Midnight](https://open.spotify.com/album/3wEGAfye5wwrX4EEPAABbg) | 3:42 |
-| 100 | [Angel](https://open.spotify.com/track/0HSqXHUdHUbDjWxYIClohv) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Angel Of Retribution](https://open.spotify.com/album/12rTdEhRhwPpV0XJvZW9u1) | 4:24 |
+| 100 | [Fall Into Sleep](https://open.spotify.com/track/0UvuqCD6ktYwIW97Pn4p2o) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Lost and Found](https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP) | 3:51 |
 
-Snapshot ID: `MTY2MDI0NjUwMiwwMDAwMDAwMDM2MjRjNjRhZmY1YWFmYmIwOTUwMWZlOTIwOGZjZmI5`
+Snapshot ID: `MTY2MDI0NjUwMiwwMDAwMDAwMDIyODRjZDRlODkyMjUwMmVkYjEyMTI4ZWE4OTdiNDRl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 
 > The best soft rock from the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,469 likes - 100 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,678 likes - 100 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 | 36 | [Woman In Chains](https://open.spotify.com/track/5jmwL2MniQj9ldptIm1h1B) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU), [Oleta Adams](https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g) | [The Seeds Of Love](https://open.spotify.com/album/4oel5wcfKxpWxJuC4VbtuO) | 6:31 |
 | 37 | [The River](https://open.spotify.com/track/7HrzErXq3TsKOY1gmdIShB) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The River](https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg) | 5:01 |
 | 38 | [The Flame](https://open.spotify.com/track/528CAH5pTLq86oZ52fHifA) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [Lap Of Luxury](https://open.spotify.com/album/1aYjx4tcmci0lYwT5sKgvM) | 5:38 |
-| 39 | [Oh Sherrie](https://open.spotify.com/track/4zEi4tr3lEhiAvTRxEzbEz) | [Steve Perry](https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf) | [Street Talk \(Expanded Edition\)](https://open.spotify.com/album/0laWXQxeNNyr3N6waUu4tw) | 3:49 |
-| 40 | [When I See You Smile](https://open.spotify.com/track/0tKjVEJlX3IZ5L1rEJc5hh) | [Bad English](https://open.spotify.com/artist/5fhMbh4PVSLSODF2fhWwqt) | [Bad English](https://open.spotify.com/album/0oNZnqsNbKKMKedFNNRs69) | 4:17 |
-| 41 | [I Can't Go for That \(No Can Do\)](https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Private Eyes \(Expanded Edition\)](https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0) | 5:07 |
+| 39 | [When I See You Smile](https://open.spotify.com/track/0tKjVEJlX3IZ5L1rEJc5hh) | [Bad English](https://open.spotify.com/artist/5fhMbh4PVSLSODF2fhWwqt) | [Bad English](https://open.spotify.com/album/0oNZnqsNbKKMKedFNNRs69) | 4:17 |
+| 40 | [Oh Sherrie](https://open.spotify.com/track/4zEi4tr3lEhiAvTRxEzbEz) | [Steve Perry](https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf) | [Street Talk \(Expanded Edition\)](https://open.spotify.com/album/0laWXQxeNNyr3N6waUu4tw) | 3:49 |
+| 41 | [Private Eyes](https://open.spotify.com/track/5HQ639Z3ms3hnZx0KfWnkp) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Private Eyes \(Expanded Edition\)](https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0) | 3:37 |
 | 42 | [Southern Cross \- 2005 Remaster](https://open.spotify.com/track/5AoZknxgY6F25gAcVahO41) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Daylight Again \(Deluxe Edition\)](https://open.spotify.com/album/7mepsTLhRL4ghKLZ4oB31u) | 4:41 |
 | 43 | [Even the Nights Are Better](https://open.spotify.com/track/09bRmFRViBORKQ2miwp04P) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Now And Forever](https://open.spotify.com/album/0jWQH4FmSo5CUbRnMvvMoL) | 3:57 |
 | 44 | [Biggest Part of Me](https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04) | [Ambrosia](https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw) | [One Eighty](https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH) | 5:24 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 | 48 | [Hungry Eyes \- From "Dirty Dancing" Soundtrack](https://open.spotify.com/track/7eafuv44YprITfOdzfVLoU) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [Dirty Dancing \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g) | 4:08 |
 | 49 | [My Hometown](https://open.spotify.com/track/6dahFmHrgncgVJjsI1ws7e) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:39 |
 | 50 | [You Can Do Magic](https://open.spotify.com/track/5dXED6MP1v1qghkaniirb1) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo) | [View From The Ground](https://open.spotify.com/album/5ON91aFwvhfeFX6DhVto5h) | 3:57 |
-| 51 | [Private Eyes](https://open.spotify.com/track/5HQ639Z3ms3hnZx0KfWnkp) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Private Eyes \(Expanded Edition\)](https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0) | 3:37 |
+| 51 | [I Can't Go for That \(No Can Do\)](https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Private Eyes \(Expanded Edition\)](https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0) | 5:07 |
 | 52 | [Althea \- 2013 Remaster](https://open.spotify.com/track/7M7AwtGvWdMYudqx5Iuh1m) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Go to Heaven](https://open.spotify.com/album/6x3mttp1a5pLHj8rDDSEbT) | 6:52 |
 | 53 | [Toy Soldiers](https://open.spotify.com/track/4jh9olf0OKCokpzxSyLeJx) | [Martika](https://open.spotify.com/artist/40enFxfEXXsEXKOt1vgx0k) | [Martika \(Expanded Edition\)](https://open.spotify.com/album/2qoLTSXxsdiHpuoPWrpJiy) | 4:47 |
 | 54 | [Stop Draggin' My Heart Around \(with Tom Petty and The Heartbreakers\) \- 2016 Remaster](https://open.spotify.com/track/66LhCsc06aTa2Ig7iYPDSP) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Bella Donna \(2016 Remastered\)](https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het) | 4:04 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 | 81 | [99](https://open.spotify.com/track/2R3E4xKmy7lyieBKONkIMT) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Hydra](https://open.spotify.com/album/3dPZH0a4kjtjq6Hm53BS9S) | 5:16 |
 | 82 | [All I Need Is a Miracle](https://open.spotify.com/track/1VKXBgsRK7lWDSVbfANlf3) | [Mike & The Mechanics](https://open.spotify.com/artist/2yTUYhIf8fxptTIy3KLuJD) | [Mike + The Mechanics](https://open.spotify.com/album/7pXUIU9n8JXEbQS95sodGr) | 4:12 |
 | 83 | [A Face In The Crowd](https://open.spotify.com/track/4tSZr210OTY6upjNYfEYUI) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 3:59 |
-| 84 | [In the Mood \- 2006 Remaster](https://open.spotify.com/track/1fOrdq5lDitklPno27DeHV) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y) | [The Principle of Moments](https://open.spotify.com/album/7GwY9afibQt4oUfsOucXpl) | 5:22 |
-| 85 | [Sister Christian](https://open.spotify.com/track/6LoSKNsYkRQbyuiReooMjG) | [Night Ranger](https://open.spotify.com/artist/1Ha0Fz4i0d4gu5fZbhBCtH) | [Boogie Nights / Music From The Original Motion Picture](https://open.spotify.com/album/4HUntZg0YV0qCvRxmIhq2U) | 5:00 |
+| 84 | [Sister Christian](https://open.spotify.com/track/6LoSKNsYkRQbyuiReooMjG) | [Night Ranger](https://open.spotify.com/artist/1Ha0Fz4i0d4gu5fZbhBCtH) | [Boogie Nights / Music From The Original Motion Picture](https://open.spotify.com/album/4HUntZg0YV0qCvRxmIhq2U) | 5:00 |
+| 85 | [In the Mood \- 2006 Remaster](https://open.spotify.com/track/1fOrdq5lDitklPno27DeHV) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y) | [The Principle of Moments](https://open.spotify.com/album/7GwY9afibQt4oUfsOucXpl) | 5:22 |
 | 86 | [Love Song](https://open.spotify.com/track/73jxc8OqPUqXEzsRnCgw8M) | [Tesla](https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU) | [Time's Makin' Changes: The Best Of Tesla](https://open.spotify.com/album/2FJ0CYfIvogvi1gV6dH8Gl) | 5:21 |
 | 87 | [Like A Rock](https://open.spotify.com/track/5Jno63iv0mzu5OZ28asYbE) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Like A Rock](https://open.spotify.com/album/5zkrBl6rudGLk8YhscRbjl) | 5:55 |
 | 88 | [In Too Deep \- 2007 Remaster](https://open.spotify.com/track/4P0uyibZjcXZLVeNOHBd8Q) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Invisible Touch](https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG) | 5:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 | 99 | [Don't Want To Wait Anymore](https://open.spotify.com/track/5rJTpBaGWvTaszsNDpAsG5) | [The Tubes](https://open.spotify.com/artist/7zfhej6FnVXN9LIXs6dcoK) | [The Completion Backward Principle](https://open.spotify.com/album/3YVb9ns1i0WdzF1cdnLYWi) | 4:18 |
 | 100 | [Belfast Child \- Remastered 2002](https://open.spotify.com/track/0guW4g1Z0gJjkKxkIy7VR7) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Street Fighting Years](https://open.spotify.com/album/5mBLEMXwzctnXP2ZhPMNvX) | 6:42 |
 
-Snapshot ID: `MTY1NzAzNjAyNSwwMDAwMDAwMGQwODE1NjhhYmJkMWU1ZTU2MzE1ZmY5ZTI1MWViODhj`
+Snapshot ID: `MTY1NzAzNjAyNSwwMDAwMDAwMGEwYjYzYmM0MGQ5MjJhZGE3MjEyYTFkODhmZmI5ZWE4`

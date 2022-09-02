@@ -2,31 +2,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 ### [mood.](https://open.spotify.com/playlist/37i9dQZF1DWYtDSKIiDhua)
 
-> The R&B and good vibe tracks for your current mood\. Cover: Denise Julia
+> The R&B and good vibe tracks for your current mood\. Cover: HYBS
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,140 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,273 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [superficial energy](https://open.spotify.com/track/2wmbk7U26XVNsS89UUffe5) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [superficial energy](https://open.spotify.com/album/14clBGWaMoyRGVfI3o7nlQ) | 2:55 |
-| 2 | [THANK YOU 4 LOVIN’ ME](https://open.spotify.com/track/557XVqKgnYAxvvyczr2zDg) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [LOVERs PLAYBOOK](https://open.spotify.com/album/78UznjghWeYXMeN201KLtC) | 4:29 |
-| 3 | [P.S\. I LOVE YOU](https://open.spotify.com/track/1w3azB0VuRFp79AduIwrIy) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [P.S\. I LOVE YOU](https://open.spotify.com/album/3AIGFmb0M86SOig1ghbxvq) | 4:00 |
-| 4 | [Mind Games \(feat\. Jackson Wang\)](https://open.spotify.com/track/6JbxkCyeOto3xXjcFalZ3e) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Mind Games \(feat\. Jackson Wang\)](https://open.spotify.com/album/1fbmGW0Sy8WQlhCZ5UC5zb) | 3:13 |
-| 5 | [NVMD](https://open.spotify.com/track/7ArVzlFsFsQXNseVXmdOyk) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [NVMD](https://open.spotify.com/album/7loTzM9oCoxuoHXWs3crbd) | 3:01 |
-| 6 | [The Look \(feat\. Kehlani\)](https://open.spotify.com/track/3POcBJvOCO5Xeov9F3cpgh) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [WHO HURT YOU?](https://open.spotify.com/album/5KOqAAM9SMO0LLbT5apaur) | 3:36 |
-| 7 | [See Through Love \(feat\. Chris Brown\)](https://open.spotify.com/track/0IogifAdwkriM0XAW0zESH) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [R&B MONEY](https://open.spotify.com/album/71nLT87STaJugBB3qub0Ri) | 3:50 |
-| 8 | [Stay \(feat\. Lucky Daye\)](https://open.spotify.com/track/1Iw6coQD0aDmgF3yuaD73G) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [KEYS II](https://open.spotify.com/album/52Y1gGjYphRowQYLxu8bxX) | 3:38 |
-| 9 | [i wanna be with you](https://open.spotify.com/track/6jvoDWyfrYTYycHkUSnJaw) | [NYK](https://open.spotify.com/artist/009SHiJ9rvFm3vNwL4SjZx) | [i wanna be with you](https://open.spotify.com/album/2IsobQl3rf7bfea3v48mRF) | 2:48 |
-| 10 | [if only you](https://open.spotify.com/track/6sDcMMmGpOQkqNxIH8BFRR) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [if only you](https://open.spotify.com/album/61pf5QeRpxCaLm0ycMvofH) | 3:29 |
-| 11 | [playing tricks](https://open.spotify.com/track/6zaayoVlfFp5YmQArKWkRG) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [playing tricks](https://open.spotify.com/album/2qHP34bvPUluFtdG8QRywz) | 3:04 |
-| 12 | [Endlessly](https://open.spotify.com/track/4VUXAoJESfRV3ceUYtzfpQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 2:34 |
-| 13 | [Get It, Got It](https://open.spotify.com/track/7DX5KOLW9Ffp7O0lkIwmTU) | [RL KLAV](https://open.spotify.com/artist/7vuMMDEiKVDBEth289auSc) | [POV](https://open.spotify.com/album/05fkAxw8mh5IUlTbYgKBoq) | 3:07 |
-| 14 | [Minivan](https://open.spotify.com/track/0GcOOoiOKcG8TM6G5enISN) | [AUGUST 08](https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi) | [Seasick](https://open.spotify.com/album/15XrXaGXDcZGigz55jwEe4) | 5:08 |
-| 15 | [life is not boring](https://open.spotify.com/track/2pmVkZoieBMlBgHhM5eHeT) | [Adriel](https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N) | [life is not boring](https://open.spotify.com/album/4oLr0uGFdYWclBKla15Iwp) | 3:16 |
-| 16 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 |
-| 17 | [Siren's Call](https://open.spotify.com/track/0NDaoCMGgit419brBP2W1Z) | [oliverjames](https://open.spotify.com/artist/7xjOe3VSfBxs0ckobQonLS) | [Under The Moon](https://open.spotify.com/album/2hKz3DxbxYqOcvYEP7gLvJ) | 4:27 |
-| 18 | [what would you say to your lost self](https://open.spotify.com/track/07jgeBRRxIA2FICXUouW5v) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc), [DVRLENE](https://open.spotify.com/artist/1Rc0NV88mREBY1ZOP2lYq1) | [what would you say to your lost self](https://open.spotify.com/album/6qOGpqm3j0NzEhtHCJ9Law) | 2:50 |
-| 19 | [End of the Night](https://open.spotify.com/track/341pIrVMrURjfbJDGg4MfD) | [Almira Zaky](https://open.spotify.com/artist/62aXcFkYSHe0Kai0CImGyy) | [End of the Night](https://open.spotify.com/album/7lylPOUHBlKJaNHJdxe7To) | 3:21 |
+| 1 | [NVMD](https://open.spotify.com/track/7ArVzlFsFsQXNseVXmdOyk) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [NVMD](https://open.spotify.com/album/7loTzM9oCoxuoHXWs3crbd) | 3:01 |
+| 2 | [P.S\. I LOVE YOU](https://open.spotify.com/track/1w3azB0VuRFp79AduIwrIy) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [P.S\. I LOVE YOU](https://open.spotify.com/album/3AIGFmb0M86SOig1ghbxvq) | 4:00 |
+| 3 | [Would You Mind](https://open.spotify.com/track/5kbvcxWFMPNY1zPI3y0wHa) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:22 |
+| 4 | [The Look \(feat\. Kehlani\)](https://open.spotify.com/track/3POcBJvOCO5Xeov9F3cpgh) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [WHO HURT YOU?](https://open.spotify.com/album/5KOqAAM9SMO0LLbT5apaur) | 3:36 |
+| 5 | [Beautiful Love \- Free Fire](https://open.spotify.com/track/3e10Ct9oFcIdgFjkDUBV2k) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Beautiful Love \(Free Fire\)](https://open.spotify.com/album/3Dukyn15RlALh1JDtQRqO0) | 3:27 |
+| 6 | [superficial energy](https://open.spotify.com/track/2wmbk7U26XVNsS89UUffe5) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [superficial energy](https://open.spotify.com/album/14clBGWaMoyRGVfI3o7nlQ) | 2:55 |
+| 7 | [Fool 4 U](https://open.spotify.com/track/0UFthA0qo3JDLxqfG25kgP) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y4](https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR) | 2:59 |
+| 8 | [THANK YOU 4 LOVIN’ ME](https://open.spotify.com/track/557XVqKgnYAxvvyczr2zDg) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [LOVERs PLAYBOOK](https://open.spotify.com/album/78UznjghWeYXMeN201KLtC) | 4:29 |
+| 9 | [i hate u owe me $$](https://open.spotify.com/track/75RainG5pTfpOH1Hj937BU) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i hate u owe me $$](https://open.spotify.com/album/6erAGsVqS76Ei8fu66QoKa) | 2:50 |
+| 10 | [See Through Love \(feat\. Chris Brown\)](https://open.spotify.com/track/0IogifAdwkriM0XAW0zESH) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [R&B MONEY](https://open.spotify.com/album/71nLT87STaJugBB3qub0Ri) | 3:50 |
+| 11 | [Make Me Wanna](https://open.spotify.com/track/3spheePAIR3lvJ5ljJ1BV0) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Make Me Wanna](https://open.spotify.com/album/1uciD7NduLXz1LG5IMn3mG) | 2:19 |
+| 12 | [playing tricks](https://open.spotify.com/track/6zaayoVlfFp5YmQArKWkRG) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [playing tricks](https://open.spotify.com/album/2qHP34bvPUluFtdG8QRywz) | 3:04 |
+| 13 | [Remedy](https://open.spotify.com/track/4Cc4Sa0GajmkLpTkyv4BJc) | [Elang Defrianto](https://open.spotify.com/artist/2GaPhI05VetWfykxH7L3oP) | [Remedy](https://open.spotify.com/album/5bv4IudQKEqHVVCgsQ6yMh) | 3:10 |
+| 14 | [Endlessly](https://open.spotify.com/track/4VUXAoJESfRV3ceUYtzfpQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 2:34 |
+| 15 | [Breathe](https://open.spotify.com/track/0Ap3cJ4QMTgqhXDzH2zd5d) | [Charmaine Koh](https://open.spotify.com/artist/4AXM9QrBp5qGABjIQVPBQI) | [Sunflower at Sundown](https://open.spotify.com/album/0ZlZoBp9Bs9EZ1YJ2zpk59) | 3:34 |
+| 16 | [Get It, Got It](https://open.spotify.com/track/7DX5KOLW9Ffp7O0lkIwmTU) | [RL KLAV](https://open.spotify.com/artist/7vuMMDEiKVDBEth289auSc) | [POV](https://open.spotify.com/album/05fkAxw8mh5IUlTbYgKBoq) | 3:07 |
+| 17 | [if only you](https://open.spotify.com/track/6sDcMMmGpOQkqNxIH8BFRR) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [if only you](https://open.spotify.com/album/61pf5QeRpxCaLm0ycMvofH) | 3:29 |
+| 18 | [Minivan](https://open.spotify.com/track/0GcOOoiOKcG8TM6G5enISN) | [AUGUST 08](https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi) | [Seasick](https://open.spotify.com/album/15XrXaGXDcZGigz55jwEe4) | 5:08 |
+| 19 | [Siren's Call](https://open.spotify.com/track/0NDaoCMGgit419brBP2W1Z) | [oliverjames](https://open.spotify.com/artist/7xjOe3VSfBxs0ckobQonLS) | [Under The Moon](https://open.spotify.com/album/2hKz3DxbxYqOcvYEP7gLvJ) | 4:27 |
 | 20 | [Great Things](https://open.spotify.com/track/5ROfDn4KzIvbXdRj8BTGB8) | [Van Siian](https://open.spotify.com/artist/0SwcwKadddF2A0gHCeyJMQ) | [Great Things](https://open.spotify.com/album/5h4H2dJGRfGLy0CZc3ZDag) | 3:20 |
 | 21 | [BEAUTiFUL](https://open.spotify.com/track/7nDp1GRUcGuwpxLFmL8CZN) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [BEAUTiFUL](https://open.spotify.com/album/2g4oO9W4k5oKtND4ctGzZy) | 3:32 |
 | 22 | [Precious](https://open.spotify.com/track/5kn2g75RCLUFj9FEY3aoYh) | [Hannah Warm](https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7), [Revo Marty](https://open.spotify.com/artist/0j2PjDgskS5HrDs3qFaJkT) | [Precious](https://open.spotify.com/album/4XDaGZKHjIe20QW8NQJ978) | 3:11 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 74 | [Fine With Me](https://open.spotify.com/track/4gh7H3A9DUImxhzeDjk7fu) | [Slodown](https://open.spotify.com/artist/3bdade2XqS9F4378nhCNcl) | [Under The Rose](https://open.spotify.com/album/4AftlAP5Qsw1CJAyRDz3rT) | 4:32 |
 | 75 | [You Right](https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:06 |
 
-Snapshot ID: `MTY2MTQ0MzIwMCwwMDAwMDAwMGVkZDUwNmE0NDcwMmQ2ZWQ4MjlhYzhlYmYzZmRiNmUx`
+Snapshot ID: `MTY2MjA1NzM5OSwwMDAwMDAwMDYyZGI0ZmM2NjlhNDQzZTUyYTk1OTRmZDRkZDI0OTJk`

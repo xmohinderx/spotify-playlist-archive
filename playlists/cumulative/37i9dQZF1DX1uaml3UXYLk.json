@@ -460,6 +460,24 @@
     },
     {
       "album": {
+        "name": "Ambit",
+        "url": "https://open.spotify.com/album/795vMgJmRkbAw4pNvDPOeZ"
+      },
+      "artists": [
+        {
+          "name": "Mye",
+          "url": "https://open.spotify.com/artist/6OM5fivmjT5EPgzGewMzyB"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142649,
+      "name": "Ambit",
+      "url": "https://open.spotify.com/track/7dWmUDrip6mWXyhrcFhJgb"
+    },
+    {
+      "album": {
         "name": "Amethyst",
         "url": "https://open.spotify.com/album/1R6VTSopwrnckW6GTf9Qet"
       },
@@ -1525,6 +1543,24 @@
       "duration_ms": 185296,
       "name": "City Heatwave",
       "url": "https://open.spotify.com/track/5WDB1BuVSdgPZTQsGpXnat"
+    },
+    {
+      "album": {
+        "name": "Limes on Ice",
+        "url": "https://open.spotify.com/album/09b5SXwJG8vnh0eNxakj7Y"
+      },
+      "artists": [
+        {
+          "name": "Soft Sea",
+          "url": "https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192146,
+      "name": "City Highs",
+      "url": "https://open.spotify.com/track/7Fask2JUtxg4jhCDuTF3tj"
     },
     {
       "album": {
@@ -2641,7 +2677,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 192000,
       "name": "Eye of the Storm",
       "url": "https://open.spotify.com/track/1xppUjyn1oY9EXGkH6DA5V"
@@ -3233,7 +3269,7 @@
       ],
       "date_added": "2020-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 227500,
       "name": "Glow",
       "url": "https://open.spotify.com/track/70gpJ5jdQntbdwQD0Yg0wl"
@@ -5169,7 +5205,7 @@
       ],
       "date_added": "2021-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 235211,
       "name": "Night Visions",
       "url": "https://open.spotify.com/track/3kIaZnczSu1uoCQ78P7TxD"
@@ -8483,7 +8519,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 161451,
       "name": "Vacaciones",
       "url": "https://open.spotify.com/track/7qZigaS8Wx6JuBue3JMGzc"

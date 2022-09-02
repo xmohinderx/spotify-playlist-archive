@@ -1,13 +1,49 @@
 {
   "description": "Discover new artists on the horizon.",
-  "num_followers": 56776,
+  "num_followers": 56855,
   "original_name": "RADAR Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTc2NjU4NywwMDAwMDAwMGFiYjFjYzkzNWJjOGJlMDg0ZGI5NDNiMjc2NDUyOTUy",
+  "snapshot_id": "MTY2MjA0ODgzNSwwMDAwMDAwMDA3ODYyZDk1Y2U3Mjk0NTBiNjBiMWQyYjJjZjljYjEx",
   "tracks": [
+    {
+      "added_at": "2022-09-01 16:13:55",
+      "album": {
+        "name": "Ikaw Pa Rin",
+        "url": "https://open.spotify.com/album/6yoXzcdZwga0Gqmmqkvz1k"
+      },
+      "artists": [
+        {
+          "name": "mrld",
+          "url": "https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma"
+        }
+      ],
+      "duration_ms": 191009,
+      "name": "Ikaw Pa Rin",
+      "url": "https://open.spotify.com/track/4z7xboLD3PqY9dOUscS2ly"
+    },
+    {
+      "added_at": "2022-09-01 16:13:55",
+      "album": {
+        "name": "3rd Eye",
+        "url": "https://open.spotify.com/album/4AD7IVbMSuXMZWES5pZCKg"
+      },
+      "artists": [
+        {
+          "name": "Lesha",
+          "url": "https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi"
+        },
+        {
+          "name": "CARELESS",
+          "url": "https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "3rd Eye",
+      "url": "https://open.spotify.com/track/1Rmg6e9FO4C0RLtXpFtA4G"
+    },
     {
       "added_at": "2022-08-26 05:43:40",
       "album": {

@@ -45,7 +45,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 165355,
       "name": "Alomo",
       "url": "https://open.spotify.com/track/4Ud60aUrxZBn5uxGAaTfVG"
@@ -415,7 +415,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 167272,
       "name": "Danger - Remix",
       "url": "https://open.spotify.com/track/6JXxHEuWl3ETZ59dmIuESd"
@@ -924,6 +924,32 @@
     },
     {
       "album": {
+        "name": "Keep On Rocking",
+        "url": "https://open.spotify.com/album/0UhiIEs4OSp0xzAEfISdMI"
+      },
+      "artists": [
+        {
+          "name": "Avante",
+          "url": "https://open.spotify.com/artist/6896baHJeiJoAKbQ85CTeP"
+        },
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "Frayz",
+          "url": "https://open.spotify.com/artist/6TNvrjv0tBqhehlialweyH"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174358,
+      "name": "Keep On Rocking",
+      "url": "https://open.spotify.com/track/6QI1X3HslfwOzp1ccx7x4k"
+    },
+    {
+      "album": {
         "name": "Laughter, Tears & Goosebumps",
         "url": "https://open.spotify.com/album/4dZjYBEciWomanesAv3fie"
       },
@@ -1041,7 +1067,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 169458,
       "name": "La La La",
       "url": "https://open.spotify.com/track/4y8n03rgMS0rc7NoEA0bA8"
@@ -1231,6 +1257,32 @@
       "duration_ms": 188093,
       "name": "love nwantiti (ah ah ah) [feat. Joeboy & Kuami Eugene] [Remix]",
       "url": "https://open.spotify.com/track/140dx97IbJbQhIMd7AaHeb"
+    },
+    {
+      "album": {
+        "name": "Don't Look Down!",
+        "url": "https://open.spotify.com/album/6DEAfTTihu0p1nNkti8Bn0"
+      },
+      "artists": [
+        {
+          "name": "Prey\u00e9",
+          "url": "https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD"
+        },
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Ladipo Eso",
+          "url": "https://open.spotify.com/artist/6SL7pR1T6IQZVxxrovKRut"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206077,
+      "name": "Love, Today",
+      "url": "https://open.spotify.com/track/1LoCwW6zCCmuLxDU8p06Q8"
     },
     {
       "album": {
@@ -1648,6 +1700,24 @@
     },
     {
       "album": {
+        "name": "san siro",
+        "url": "https://open.spotify.com/album/5wlpYMbCXl8pBQu6mx5xQD"
+      },
+      "artists": [
+        {
+          "name": "YKB",
+          "url": "https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194318,
+      "name": "san siro",
+      "url": "https://open.spotify.com/track/59PSEuGHBGLvgZGXC4wpvG"
+    },
+    {
+      "album": {
         "name": "Santi",
         "url": "https://open.spotify.com/album/45qYrEUMR65J6PDoh6G8fQ"
       },
@@ -1659,7 +1729,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 230498,
       "name": "Santi",
       "url": "https://open.spotify.com/track/2UfaE5AvQQHL2CkHeyM74O"
@@ -2009,6 +2079,28 @@
       "duration_ms": 188421,
       "name": "Tungba",
       "url": "https://open.spotify.com/track/4fA1ca0O5tOOYDWt1n0z2d"
+    },
+    {
+      "album": {
+        "name": "Wait On Me",
+        "url": "https://open.spotify.com/album/2RtxSIZ156yT9DSAQS2BBE"
+      },
+      "artists": [
+        {
+          "name": "Mayten",
+          "url": "https://open.spotify.com/artist/2qr7RzXXdIkZfcjsw5oA6K"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247337,
+      "name": "Wait On Me",
+      "url": "https://open.spotify.com/track/5o79AnyhGqX0LlBb1am1pV"
     },
     {
       "album": {

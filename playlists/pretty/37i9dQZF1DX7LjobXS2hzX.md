@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 
 > Voici les hits du moment\. Photo: David Guetta, Bebe Rexha
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,894 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,933 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 | 20 | [Suavemente](https://open.spotify.com/track/6Qe7YCkIOc1iaw9HKqO3qV) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Sans visa](https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx) | 2:39 |
 | 21 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 |
 | 22 | [Start Over](https://open.spotify.com/track/17xfpZekr8Gg79yvqhTNC4) | [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH), [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA) | [Start Over](https://open.spotify.com/album/6duVW5TmNORItMR1x7xoXr) | 2:38 |
-| 23 | [No No No](https://open.spotify.com/track/6m7iJFdgcvd200qJtSa8Wx) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [No No No](https://open.spotify.com/album/2RLByuKYaFE5awZkpjK03m) | 2:35 |
+| 23 | [No No No](https://open.spotify.com/track/6m7iJFdgcvd200qJtSa8Wx) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Julio Masidi](https://open.spotify.com/artist/2ZfpJTfi4q60zRUFWhll73) | [No No No](https://open.spotify.com/album/2RLByuKYaFE5awZkpjK03m) | 2:35 |
 | 24 | [edamame \(feat\. Rich Brian\)](https://open.spotify.com/track/1uMHCAyGmHqyygoNRuo7MV) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [edamame \(feat\. Rich Brian\)](https://open.spotify.com/album/1YrACh9xDRGpjrkdWz4MfP) | 2:13 |
 | 25 | [Broken \- Radio Edit](https://open.spotify.com/track/3f5w7CK8pCKwlijBz0vann) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [Ses Plus Grands Succès](https://open.spotify.com/album/2VERbKTPxuqen1yO2ISCaH) | 2:41 |
 | 26 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 
 > Music from "Love Live! Nijigasaki High School Idol Club" 「ラブライブ！虹ヶ咲学園スクールアイドル同好会」の楽曲を1つのプレイリストで。<br/>©2022 プロジェクトラブライブ！虹ヶ咲学園スクールアイドル同好会
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,854 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,879 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 | 42 | [あなたの理想のヒロイン](https://open.spotify.com/track/2RbkLmTbz2dGlLkzgDAUlu) | [桜坂しずく \(CV.前田佳織里\)](https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 5:26 |
 | 43 | [4 SEASONS](https://open.spotify.com/track/4Z88klEwx4G1tvA079l6cL) | [QU4RTZ](https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK) | [ENJOY IT!](https://open.spotify.com/album/2iVFzFSdX4eEyOVVvXI7SN) | 3:48 |
 | 44 | [開花宣言](https://open.spotify.com/track/2I2gxRtOhtaghM4kmQbFYH) | [上原歩夢 \(CV.大西亜玖璃\)](https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ) | [Love U my friends](https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV) | 4:18 |
-| 45 | [Maze Town](https://open.spotify.com/track/1aLfZSKp44prkEYIGpWM63) | [A・ZU・NA](https://open.spotify.com/artist/6J6RrsIzXnWKqcFu7ri9Pd) | [Maze Town](https://open.spotify.com/album/1xhku0K709SOBcrqqz3LmB) | 4:23 |
-| 46 | [Fire Bird](https://open.spotify.com/track/54SdBdxoc2lbBh1bmPgf9o) | [朝香果林 \(CV.久保田未夢\)](https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 3:57 |
+| 45 | [Fire Bird](https://open.spotify.com/track/54SdBdxoc2lbBh1bmPgf9o) | [朝香果林 \(CV.久保田未夢\)](https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 3:57 |
+| 46 | [Maze Town](https://open.spotify.com/track/1aLfZSKp44prkEYIGpWM63) | [A・ZU・NA](https://open.spotify.com/artist/6J6RrsIzXnWKqcFu7ri9Pd) | [Maze Town](https://open.spotify.com/album/1xhku0K709SOBcrqqz3LmB) | 4:23 |
 | 47 | [Toy Doll](https://open.spotify.com/track/7BOoQpM5Ud8zRkDwMDWqOz) | [ミア・テイラー \(CV.内田 秀\)](https://open.spotify.com/artist/54hnRUYsDChS7pkIRHiz5P) | [L!L!L! \(Love the Life We Live\)](https://open.spotify.com/album/2tRZdkV51396Uh03hrSOX9) | 4:11 |
 | 48 | [ダイアモンド](https://open.spotify.com/track/0UAqHawQbQjCvDCYonrZzc) | [中須かすみ \(CV.相良茉優\)](https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 3:53 |
 | 49 | [Evergreen](https://open.spotify.com/track/6IR8MKTOD0skW9FKZKl3kH) | [エマ・ヴェルデ \(CV.指出毬亜\)](https://open.spotify.com/artist/23JZudIPdcNEhcV5DfDq5M) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 4:55 |
 | 50 | [Awakening Promise](https://open.spotify.com/track/5tURJEIapyFgJB6OoykQJI) | [上原歩夢 \(CV.大西亜玖璃\)](https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ) | [Awakening Promise / 夢がここからはじまるよ](https://open.spotify.com/album/2AVHHCRSevbqVGmSNAos6o) | 4:13 |
 
-Snapshot ID: `MTY1ODg1MjUzNiwwMDAwMDAwMDIzYTY3OGQ0MGVjZjE5NDk5OWY4YjVhNGM0ZjAwYTEx`
+Snapshot ID: `MTY1ODg1MjUzNiwwMDAwMDAwMDc4ODc1NWIzNWU1MjEwODAyN2EzMGFmNTU2M2QyMTBj`

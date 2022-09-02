@@ -4,7 +4,7 @@
 
 > Let your hair down and dance along to music from the Trolls movies!
 
-77 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/3wIAsG6N3ChrJRezDLehb6)
+78 songs - 4 hr 3 min - [published](https://open.spotify.com/playlist/3wIAsG6N3ChrJRezDLehb6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Girls Just Want to Have Fun](https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual](https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0) | 3:58 | 2021-11-26 |  |
 | [Good Times \- 2018 Remaster](https://open.spotify.com/track/4N3stlRuz5cBNI4J4vDJ18) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [The Chic Organization 1977\-1979 \(2018 Remaster\)](https://open.spotify.com/album/3Jhtxnrjbk5oxleA3oafAy) | 8:06 | 2021-11-26 |  |
 | [Good Vibrations](https://open.spotify.com/track/5hWdgGVcfTeLPAiHM6EZG9) | [Marky Mark And The Funky Bunch](https://open.spotify.com/artist/4046bnFxFJdLEtG7F2qXaV), [Loleatta Holloway](https://open.spotify.com/artist/3m5hegxlB80Z2zQb1893pc) | [Music For The People](https://open.spotify.com/album/03ZfzcyHfeWSuADL87VuTQ) | 4:29 | 2021-11-26 |  |
-| [Groove Is in the Heart](https://open.spotify.com/track/2UVLuddklEVak5PXgC7baA) | [Deee\-Lite](https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5) | [Rhino Hi\-Five: Deee\-Lite](https://open.spotify.com/album/5ONmarDtpkKbrlhu0p83XM) | 3:51 | 2021-11-26 |  |
+| [Groove Is in the Heart](https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb) | [Deee\-Lite](https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5) | [World Clique](https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh) | 3:51 | 2021-11-26 |  |
+| [Groove Is in the Heart](https://open.spotify.com/track/2UVLuddklEVak5PXgC7baA) | [Deee\-Lite](https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5) | [Rhino Hi\-Five: Deee\-Lite](https://open.spotify.com/album/5ONmarDtpkKbrlhu0p83XM) | 3:51 | 2021-11-26 | 2022-09-02 |
 | [Hair In The Air \(Trolls: The Beat Goes On Theme\)](https://open.spotify.com/track/1mHtYTi3jasQzaUIwUM2RC) | [Poppy](https://open.spotify.com/artist/6Qz2gLHNk9JULr7HzsEBDg), [Branch](https://open.spotify.com/artist/1cpn7jBL4ELqWrJDtC98k5) | [DreamWorks Trolls \- The Beat Goes On!](https://open.spotify.com/album/1zw9LWtiAU1UiZW2D2RyVX) | 2:14 | 2021-11-26 |  |
 | [Hair Up](https://open.spotify.com/track/2986J0T5CGwJGY3aqgANtE) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Ron Funches](https://open.spotify.com/artist/5auLWD3XT6p3im19G2cLhP) | [TROLLS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7) | 2:58 | 2021-11-26 |  |
 | [Happily Ever After](https://open.spotify.com/track/3zFXdpKxKbxOlV4sPek4o6) | [Poppy](https://open.spotify.com/artist/6Qz2gLHNk9JULr7HzsEBDg), [Branch](https://open.spotify.com/artist/1cpn7jBL4ELqWrJDtC98k5), [Guy Diamond](https://open.spotify.com/artist/4D5oXxmEutTMj9s6YxzS2q), [Mr\. Dinkles](https://open.spotify.com/artist/0kYQMvu3KyHcR9QR60Auyf), [Biggie](https://open.spotify.com/artist/0QNkbud6whJ9loG0bOtkuE), [DJ Suki](https://open.spotify.com/artist/0u3wJFFUvQozEfOwgnLKK0), [Satin](https://open.spotify.com/artist/2QRNoVWN7avKiwDKFJWq79), [Chenille](https://open.spotify.com/artist/3XPLcgu5GdY1n7jZ30qiCe), [Cooper](https://open.spotify.com/artist/1e9E4tGNxrzTxuImKufdqr) | [DreamWorks Trolls \- The Beat Goes On!](https://open.spotify.com/album/1zw9LWtiAU1UiZW2D2RyVX) | 2:34 | 2021-11-26 |  |

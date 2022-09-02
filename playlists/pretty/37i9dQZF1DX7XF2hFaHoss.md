@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 
 > The very best acoustic songs from singer\-songwriters making waves\. Cover: Lizzy McAlpine
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,366 likes - 90 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,352 likes - 90 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 | 33 | [Control](https://open.spotify.com/track/6TQXgsHzTIPObUdFzlGjeY) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Note to Self](https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR) | 3:30 |
 | 34 | [Every Time I Hear That Song](https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By The Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:01 |
 | 35 | [Surrender](https://open.spotify.com/track/65cQkOFngSgj37Gnzp4ry4) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Surrender](https://open.spotify.com/album/5FWqyyldyosXvAYesblpb5) | 3:54 |
-| 36 | [Cool Girl](https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Cool Girl](https://open.spotify.com/album/0TCc51KQYlnJ6WuFOgN6hI) | 3:19 |
-| 37 | [Top to Toe](https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [On Hold](https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ) | 3:36 |
+| 36 | [Top to Toe](https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [On Hold](https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ) | 3:36 |
+| 37 | [Cool Girl](https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Cool Girl](https://open.spotify.com/album/0TCc51KQYlnJ6WuFOgN6hI) | 3:19 |
 | 38 | [Sunny Road](https://open.spotify.com/track/1QhN6ZjGqeRO6cDuE1H76q) | [Emilíana Torrini](https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P) | [Fisherman's Woman](https://open.spotify.com/album/5fPGV2BBurhFEE2d5AAWaq) | 3:04 |
 | 39 | [Little Runaway](https://open.spotify.com/track/12GVuNDjD80UjEmkO46Hd8) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Little Runaway](https://open.spotify.com/album/3l0s7gDB5V4xj4TSsEMHj6) | 2:59 |
 | 40 | [Doomsday](https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Doomsday](https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF) | 3:09 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 | 62 | [Nice and Quiet](https://open.spotify.com/track/1BWOUFGSAbPzrhZxDMno2K) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Bedouine \(Deluxe\)](https://open.spotify.com/album/5xkDtosZAm6qiGyRFc6ocB) | 3:51 |
 | 63 | [untitled](https://open.spotify.com/track/2PMo0BYsGBY2TgHJ5Gm4oT) | [Rachael Jenkins](https://open.spotify.com/artist/5j0GrXECgqyWvysNyBN0CP) | [untitled](https://open.spotify.com/album/0p62EsX82Xd24KmMhORtwC) | 3:45 |
 | 64 | [Answers \- Acoustic](https://open.spotify.com/track/2EGmolGiLgX4i34ceFZfIc) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [Answers \(Acoustic\)](https://open.spotify.com/album/0s0Zix6OHOS5RqaEmPijh0) | 3:10 |
-| 65 | [Portland](https://open.spotify.com/track/1eDkdK7CVn0NRAvKM6xBiY) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Old Country](https://open.spotify.com/album/39SFOAucYDD4aYKJ6Ymza9) | 3:48 |
-| 66 | [Better Now \- Acoustic](https://open.spotify.com/track/7iqqjQINhAvsNNwXWMU8ga) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Better Now \(Acoustic\)](https://open.spotify.com/album/2kFBZkUYEkrV2LdibnX0tu) | 3:54 |
+| 65 | [Better Now \- Acoustic](https://open.spotify.com/track/7iqqjQINhAvsNNwXWMU8ga) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Better Now \(Acoustic\)](https://open.spotify.com/album/2kFBZkUYEkrV2LdibnX0tu) | 3:54 |
+| 66 | [Portland](https://open.spotify.com/track/1eDkdK7CVn0NRAvKM6xBiY) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Old Country](https://open.spotify.com/album/39SFOAucYDD4aYKJ6Ymza9) | 3:48 |
 | 67 | [Fall](https://open.spotify.com/track/6C7oqaJSqSG84MScfmW310) | [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [At Swim](https://open.spotify.com/album/3c3n3uBTF0tgIPCNjucEAm) | 2:59 |
 | 68 | [The Hardest Part](https://open.spotify.com/track/31CqZPvgv8VwjQK2jcLSEn) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj), [Hadley Kennary](https://open.spotify.com/artist/2Iskp0KzBnBOBDKrQbHo6f) | [The Hardest Part](https://open.spotify.com/album/3dlzxTH49iYilF7cLV1LK3) | 4:20 |
 | 69 | [Call the Days](https://open.spotify.com/track/57WPJyUY4nMbWFMLRL0dev) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Listen to Formation, Look for the Signs](https://open.spotify.com/album/44IdU9nj8Hvxot2NVCQbBM) | 3:32 |
@@ -87,16 +87,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 | 77 | [Rolling On](https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [While I Was Asleep](https://open.spotify.com/album/7jQ7ceeE30vZUGibxHNWVc) | 3:58 |
 | 78 | [Let Me Hurt \(Acoustic\)](https://open.spotify.com/track/5lCYavZeZIbkVMyiukdTJx) | [Emily Rowed](https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w) | [Crying in Cars](https://open.spotify.com/album/4uJrophYlBcAfwQXI6uDlf) | 3:42 |
 | 79 | [Awake Me \- Acoustic](https://open.spotify.com/track/5XrJkrEfUx0UeTWzQeqO1k) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Awake Me \(Acoustic\)](https://open.spotify.com/album/78Du9LnVvLDyWbISr3dSCR) | 5:12 |
-| 80 | [Bud](https://open.spotify.com/track/2RB1ZrPDJe4kH2FhRcEzdO) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [On Hold](https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ) | 3:35 |
-| 81 | [Phoebe Told Me](https://open.spotify.com/track/6ZkrNW7ER27c4TtFckZ7xg) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Phoebe Told Me](https://open.spotify.com/album/3uGP2UKICbNUs08mUe55yo) | 3:56 |
+| 80 | [Phoebe Told Me](https://open.spotify.com/track/6ZkrNW7ER27c4TtFckZ7xg) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Phoebe Told Me](https://open.spotify.com/album/3uGP2UKICbNUs08mUe55yo) | 3:56 |
+| 81 | [Bud](https://open.spotify.com/track/2RB1ZrPDJe4kH2FhRcEzdO) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [On Hold](https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ) | 3:35 |
 | 82 | [Pegasi](https://open.spotify.com/track/2meI5rJH6LtLQ5cuNdje5g) | [Jesca Hoop](https://open.spotify.com/artist/0fqE57gXXTTqxXlFYVNG2u) | [Memories Are Now](https://open.spotify.com/album/3kDXlfIujTkCsbgmjy0Jwo) | 3:33 |
 | 83 | [Quiet \- Stripped](https://open.spotify.com/track/60oCAd3gei66GObniGX4wV) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [Quiet \(Stripped\)](https://open.spotify.com/album/4dqLW8pQA05EoWHZtrlWPi) | 3:28 |
 | 84 | [When The Lights Go Out \- Piano Version](https://open.spotify.com/track/1atfZeWvJu5xxAUJ9Mj9Qs) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [When The Lights Go Out \(Piano\)](https://open.spotify.com/album/1AJ5uDWMN8DYbaIXAVxU7U) | 3:36 |
 | 85 | [Misunderstood](https://open.spotify.com/track/0NjexykT4mTFDYGnGLFFby) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [My world, My love, Paris](https://open.spotify.com/album/5JfXfZ4EsG8JhWobtgjAdQ) | 3:18 |
-| 86 | [Best Days \- Acoustic](https://open.spotify.com/track/38sCPCcv3QjWl0NslC5KtW) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Best Days \(Acoustic\)](https://open.spotify.com/album/0Hg3xaDMtD4heeBIutwMSV) | 2:59 |
-| 87 | [Hard Things](https://open.spotify.com/track/61e2c3NqK905WM3Hi7ZvYK) | [Sarah Buxton](https://open.spotify.com/artist/2xTlb6eueddQmWsxImpDbP) | [Hard Things](https://open.spotify.com/album/4mj6XqOhQggJgFnjJwlRTH) | 4:23 |
+| 86 | [Hard Things](https://open.spotify.com/track/61e2c3NqK905WM3Hi7ZvYK) | [Sarah Buxton](https://open.spotify.com/artist/2xTlb6eueddQmWsxImpDbP) | [Hard Things](https://open.spotify.com/album/4mj6XqOhQggJgFnjJwlRTH) | 4:23 |
+| 87 | [Best Days \- Acoustic](https://open.spotify.com/track/38sCPCcv3QjWl0NslC5KtW) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Best Days \(Acoustic\)](https://open.spotify.com/album/0Hg3xaDMtD4heeBIutwMSV) | 2:59 |
 | 88 | [Putting On Airs](https://open.spotify.com/track/0fRulaanc2K4rmlPhh2MBe) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Putting On Airs](https://open.spotify.com/album/5y03U2xxe0NBrI5KSr2jGK) | 4:40 |
 | 89 | [I Could've Been Your Lover Too](https://open.spotify.com/track/5nrs3jelIOV5r9rro24cKA) | [Rachel Baiman](https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs) | [Shame](https://open.spotify.com/album/1j0FUqFiWgEkJsDLPMIaGG) | 3:09 |
 | 90 | [Save This Heart](https://open.spotify.com/track/5B1KYVaGIsI7v7LZYbXWI8) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Rise](https://open.spotify.com/album/3rUBCaC8gHZH4yrGWsYZRb) | 3:01 |
 
-Snapshot ID: `MTY0NjcxNTYwMCwwMDAwMDAwMDQ3MGQyZjc4Zjc3ZGJmMzU5OTQ4NzM5Y2VmMzc0ZDk1`
+Snapshot ID: `MTY0NjcxNTYwMCwwMDAwMDAwMDFjOGIzMmQ2ODRlZDU4YjM1N2Y1NmFmNGRiOTM1MWEw`

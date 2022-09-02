@@ -4,7 +4,7 @@
 
 > Celebrating some of the most iconic female voices of all time\.  Cover: Barbra Streisand
 
-96 songs - 6 hr 14 min - [published](https://open.spotify.com/playlist/4KeSj5RmVQDyrnv4hQ1OiP)
+97 songs - 6 hr 18 min - [published](https://open.spotify.com/playlist/4KeSj5RmVQDyrnv4hQ1OiP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Because the Night](https://open.spotify.com/track/77XlfkvXtMwppbEU5sku97) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Easter](https://open.spotify.com/album/6dx7saKYTu93wHcCuDSvUH) | 3:25 | 2021-01-08 | 2022-07-29 |
 | [Black Velvet](https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N) | [Alannah Myles](https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj) | [Alannah Myles](https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv) | 4:47 | 2021-01-08 |  |
 | [Blown Away](https://open.spotify.com/track/0vFMQi8ZnOM2y8cuReZTZ2) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Blown Away](https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9) | 4:00 | 2021-06-07 | 2022-04-21 |
+| [Blue Bayou](https://open.spotify.com/track/3zxklD2EGecZre9MjEEvIU) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Simple Dreams](https://open.spotify.com/album/15lJi5fAnWPltCKBTUbTry) | 3:59 | 2022-07-11 |  |
 | [Blue Bayou \- 1999 Remaster](https://open.spotify.com/track/31Q84a7UanVaTSrnFsFypj) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Rhino Hi\-Five: Linda Ronstadt](https://open.spotify.com/album/5s2DuWddxp8onCKncWspZR) | 3:58 | 2021-01-08 | 2022-07-29 |
 | [Breathe](https://open.spotify.com/track/3y4LxiYMgDl4RethdzpmNe) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Breathe](https://open.spotify.com/album/3BGPil8BDPVoDK0lnUPtvb) | 4:10 | 2021-01-08 |  |
 | [Chandelier](https://open.spotify.com/track/2s1sdSqGcKxpPr5lCl7jAV) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear \(Deluxe Version\)](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) | 3:36 | 2022-07-11 |  |
@@ -42,7 +43,7 @@
 | [I Try](https://open.spotify.com/track/5TAf4lnZCZTLlZHNZMLFLi) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [On How Life Is](https://open.spotify.com/album/50DkoLL4ArRVXhWx9ssQSe) | 3:59 | 2022-07-11 |  |
 | [I'll Never Love This Way Again](https://open.spotify.com/track/6knDV0tW6YIRG6XeIN3Xus) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Essential Memories Of Love](https://open.spotify.com/album/1EQEIZIv1DAyo62wmQlDhY) | 3:31 | 2021-01-08 | 2022-04-23 |
 | [I'm Every Woman](https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Chaka](https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC) | 4:09 | 2022-04-22 |  |
-| [I'm Not a Girl, Not Yet a Woman](https://open.spotify.com/track/1xg1yGPy1Y3YUf44s6TB1o) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney \(Digital Deluxe Version\)](https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5) | 3:51 | 2022-04-22 |  |
+| [I'm Not a Girl, Not Yet a Woman](https://open.spotify.com/track/1xg1yGPy1Y3YUf44s6TB1o) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney \(Digital Deluxe Version\)](https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5) | 3:51 | 2022-04-22 | 2022-09-02 |
 | [If I Were a Boy](https://open.spotify.com/track/0K7wIocSvzcRISpssBUzfZ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/20E3PwDg1jaDdK9K565luD) | 4:09 | 2022-04-22 | 2022-07-11 |
 | [If I Were a Boy](https://open.spotify.com/track/26NX1wPt1TRCH536yocd6i) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) | 4:09 | 2022-07-11 |  |
 | [Jolene](https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene \(Expanded Edition\)](https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg) | 2:41 | 2021-06-07 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\)\. \~\~\~ cover: magdalena bay
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,091 likes - 115 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,079 likes - 115 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

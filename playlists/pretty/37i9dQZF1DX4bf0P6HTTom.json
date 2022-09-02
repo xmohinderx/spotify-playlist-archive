@@ -1,12 +1,12 @@
 {
   "description": "Eagles, The Byrds and all your favorite country rock",
-  "num_followers": 115781,
+  "num_followers": 115898,
   "original_name": "Country Rock Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA0ODI5NCwwMDAwMDAwMDgwZDFmZDdlZjdhOTE4NzhhMTU2NGZhODQ2NTdhZTcx",
+  "snapshot_id": "MTY1NzA0ODI5NCwwMDAwMDAwMDVhNjlhZDI5N2Y5NmE1N2ZmYjllNWRlNjZkOWMzYTk4",
   "tracks": [
     {
       "added_at": "2020-08-05 15:52:11",
@@ -399,22 +399,6 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Manassas",
-        "url": "https://open.spotify.com/album/427BvOYZQRjTHODnreiZCo"
-      },
-      "artists": [
-        {
-          "name": "Stephen Stills",
-          "url": "https://open.spotify.com/artist/4WlSvDKaq1PA2Nr7cCIPxX"
-        }
-      ],
-      "duration_ms": 172533,
-      "name": "Colorado",
-      "url": "https://open.spotify.com/track/6VyuVYEJnZmlEQ5GT9LQvT"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
         "name": "Through The Morning, Through The Night",
         "url": "https://open.spotify.com/album/4iClwik4oQvlJ9wFujkmiQ"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 232400,
       "name": "Don't Let Me Down",
       "url": "https://open.spotify.com/track/1PsDNPG1j7ySpFpxjHB5xb"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "Manassas",
+        "url": "https://open.spotify.com/album/427BvOYZQRjTHODnreiZCo"
+      },
+      "artists": [
+        {
+          "name": "Stephen Stills",
+          "url": "https://open.spotify.com/artist/4WlSvDKaq1PA2Nr7cCIPxX"
+        }
+      ],
+      "duration_ms": 172533,
+      "name": "Colorado",
+      "url": "https://open.spotify.com/track/6VyuVYEJnZmlEQ5GT9LQvT"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/6i8kpDUSsrOOhPHfNYhMeF"
         }
       ],
-      "duration_ms": 175240,
-      "name": "Luxury Liner",
-      "url": "https://open.spotify.com/track/69WQgn5cXFhtwbDGBHOzxS"
+      "duration_ms": 169133,
+      "name": "Miller's Cave",
+      "url": "https://open.spotify.com/track/2Zq979VWE5SG5WIcd396Ay"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/6i8kpDUSsrOOhPHfNYhMeF"
         }
       ],
-      "duration_ms": 169133,
-      "name": "Miller's Cave",
-      "url": "https://open.spotify.com/track/2Zq979VWE5SG5WIcd396Ay"
+      "duration_ms": 175240,
+      "name": "Luxury Liner",
+      "url": "https://open.spotify.com/track/69WQgn5cXFhtwbDGBHOzxS"
     },
     {
       "added_at": "2020-08-05 15:52:11",

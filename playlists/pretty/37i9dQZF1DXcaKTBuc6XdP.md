@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaKTBuc6XdP.md) - [plain]
 
 > A playlist of Christian summer camp favorites, past and present.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,335 likes - 53 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,345 likes - 53 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaKTBuc6XdP.md) - [plain]
 | 21 | [Best Friends](https://open.spotify.com/track/0fDEDcUApzHMvBlIIKcmMk) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [All Of My Best Friends](https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO) | 3:05 |
 | 22 | [I've Got Peace Like A River](https://open.spotify.com/track/2CuTb9Tks9eeAmjHGm5vAC) | [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [Sunday School Songs](https://open.spotify.com/album/4YSuzBvt9mppuiha44U2dX) | 1:33 |
 | 23 | [Shine](https://open.spotify.com/track/03upgLFcOiiB0HlO4LmdLv) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [The Ultimate Collection](https://open.spotify.com/album/4tab0wm9wlaNYGEKAoRzFd) | 3:41 |
-| 24 | [Here We Go](https://open.spotify.com/track/5E0d1I8UAe7sleydsGgp4Q) | [Grits](https://open.spotify.com/artist/6aUgzC0cMh0StjV7LyFEDr) | [The Art of Translation](https://open.spotify.com/album/3SNV12s5lZN3puLp5Vft8w) | 3:19 |
+| 24 | [You Are My All In All](https://open.spotify.com/track/5Qut1hSpuu7GtsInQunc7O) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 2](https://open.spotify.com/album/4CjbL4RfKRS81ixWDcZc97) | 3:49 |
 | 25 | [Jesus Freak](https://open.spotify.com/track/5ID6qIRs04r4fMajBDY7uK) | [DC Talk](https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh) | [8 Great Hits dc Talk](https://open.spotify.com/album/4ml5pL07kDVb9AxJutpI9U) | 4:47 |
-| 26 | [You Are My All In All](https://open.spotify.com/track/5Qut1hSpuu7GtsInQunc7O) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 2](https://open.spotify.com/album/4CjbL4RfKRS81ixWDcZc97) | 3:49 |
+| 26 | [Here We Go](https://open.spotify.com/track/5E0d1I8UAe7sleydsGgp4Q) | [Grits](https://open.spotify.com/artist/6aUgzC0cMh0StjV7LyFEDr) | [The Art of Translation](https://open.spotify.com/album/3SNV12s5lZN3puLp5Vft8w) | 3:19 |
 | 27 | [Open the Eyes of My Heart Lord](https://open.spotify.com/track/0UlNsw2YfstrHGWYTOpE0w) | [Elevation](https://open.spotify.com/artist/00g1hZIIn1xKwrbZd6nDUY) | [Timeless Treasures: Open the Eyes of My Heart Lord](https://open.spotify.com/album/1oXWRQSCgYgIy41b5YVTQI) | 4:12 |
 | 28 | [Shine, Jesus Shine](https://open.spotify.com/track/3dbMLnjppsv9pVW7eq9sAK) | [Maranatha! Praise Band](https://open.spotify.com/artist/6CDJjCW8qVphiyxVukKdOa) | [Top 25 Praise Songs: 2005](https://open.spotify.com/album/3qlXW3egxplVOjgLmzVqqS) | 2:27 |
 | 29 | [Great Big God](https://open.spotify.com/track/4vLiBeWve4L9llDzGdpWsM) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Vineyard Kids](https://open.spotify.com/artist/2PwunoNd5k6WstyyC67xhH) | [Great Big God](https://open.spotify.com/album/0Y36IFn8h2NS5afQZXpnTT) | 2:51 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaKTBuc6XdP.md) - [plain]
 | 42 | [My Strength \(feat\. Emily Hearn\)](https://open.spotify.com/track/02GQZBMcL90iqQA2CDtgHm) | [Amber Sky Records](https://open.spotify.com/artist/6cAxRZyhkM7NqvV2hSc7Wb), [Emily Hearn](https://open.spotify.com/artist/4LuEEQLErHvNdZDxEWf6W1) | [Alive](https://open.spotify.com/album/5ONjVBfYyUJpmXnz5DoU0k) | 3:00 |
 | 43 | [Nothing Is Impossible](https://open.spotify.com/track/5tgPpWoPFxqD8JJ10bawPG) | [Shout Praises Kids](https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE) | [Ultimate Kids Worship](https://open.spotify.com/album/4zcn3mJeKQpLF6FDQpERmd) | 3:52 |
 | 44 | [Lift You Higher](https://open.spotify.com/track/1D1pCyVeec4FdazVM7l714) | [Copper Pointe Worship](https://open.spotify.com/artist/2uLK8YHG3eIG54kvlX2WxV) | [New Sound](https://open.spotify.com/album/1PX43Nn8AuApS7ggfUOAQf) | 3:08 |
-| 45 | [Love Like You \(Laudr8 Remix\)](https://open.spotify.com/track/2WFOLhpZmDGhl1xmwIIZrJ) | [N + I](https://open.spotify.com/artist/2W8wysjBNC2z0U87dTzGpm), [Laudr8](https://open.spotify.com/artist/6lemZqDbBHWop31eZGxX8i) | [Love Like You \(Laudr8 Remix\)](https://open.spotify.com/album/5JsuVLJIXwJcC1b0QG086M) | 2:41 |
-| 46 | [Amazing Grace](https://open.spotify.com/track/07Hbd32Jgwe7yT8QHus4aJ) | [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [Hymns](https://open.spotify.com/album/6IsMuKCzRSdfK9uRNq5Bfd) | 2:06 |
+| 45 | [Amazing Grace](https://open.spotify.com/track/07Hbd32Jgwe7yT8QHus4aJ) | [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [Hymns](https://open.spotify.com/album/6IsMuKCzRSdfK9uRNq5Bfd) | 2:06 |
+| 46 | [Love Like You \(Laudr8 Remix\)](https://open.spotify.com/track/2WFOLhpZmDGhl1xmwIIZrJ) | [N + I](https://open.spotify.com/artist/2W8wysjBNC2z0U87dTzGpm), [Laudr8](https://open.spotify.com/artist/6lemZqDbBHWop31eZGxX8i) | [Love Like You \(Laudr8 Remix\)](https://open.spotify.com/album/5JsuVLJIXwJcC1b0QG086M) | 2:41 |
 | 47 | [Where I Belong](https://open.spotify.com/track/5Ah9mt916VYxP1DCpdUT4y) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op), [The Cast Of Netflix's Film A Week Away](https://open.spotify.com/artist/3Rn6h4Auck41QvOCm2jtQQ) | [A Week Away \(Music From The Netflix Film\)](https://open.spotify.com/album/1AZ82vQwEGoKKltaeRNzk4) | 3:48 |
 | 48 | [Holy Spirit \- Revisited](https://open.spotify.com/track/4Jvq8lCTo5shqoqeDTQ9F7) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Majestic \(Revisited\)](https://open.spotify.com/album/3gWb1UHZunO0Gz28KIyH6w) | 5:05 |
 | 49 | [I Am Alive](https://open.spotify.com/track/4GX54jEsDkgxleYUCRfggA) | [SL Worship](https://open.spotify.com/artist/3ZArpBXyBswucER1dfHDKP) | [I Am Alive](https://open.spotify.com/album/5KLDaX1xJuK2N3vOGsCyAR) | 3:48 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaKTBuc6XdP.md) - [plain]
 | 52 | [Every Move I Make](https://open.spotify.com/track/1HBWWoS8rdvZtPLdK4UY6g) | [Maranatha! Praise Band](https://open.spotify.com/artist/6CDJjCW8qVphiyxVukKdOa) | [Praise And Worship Top 40](https://open.spotify.com/album/41yxtxd3tOJ7CXlUPGnfWg) | 3:59 |
 | 53 | [The Golden Rule](https://open.spotify.com/track/4W7djqunY8rq7pphJAdqrb) | [GroupMusic](https://open.spotify.com/artist/3ds0hlCcgdDJzoG9NgCxbF) | [Sing 'Em Again: Favorite Vacation Bible School Songs for Families, Vol\. 7](https://open.spotify.com/album/2VdzXsV1FBxZT7ytoFLZHV) | 2:58 |
 
-Snapshot ID: `MTYyNDk3Mzc2MiwwMDAwMDAwMDY1N2M2OGY3ZDI1YmExN2RlZjcyNTk5YThjNDYxMjEy`
+Snapshot ID: `MTYyNDk3Mzc2MiwwMDAwMDAwMDg1NzBjMDBiOWNlNDZhOGI0MDNhOWIxNDM1YjFkMTM0`

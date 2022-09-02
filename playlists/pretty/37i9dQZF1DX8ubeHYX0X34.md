@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ubeHYX0X34.md) - [plain]
 
 > Timeless Pakistani hits, all in one place\. Cover \- Nusrat Fateh Ali Khan
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,504 likes - 70 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,563 likes - 70 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,16 +62,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ubeHYX0X34.md) - [plain]
 | 52 | [Khuda Ke Liye](https://open.spotify.com/track/4U3uG2DhO300tkqdXlbNjI) | [Mustafa Zahid](https://open.spotify.com/artist/71oGOxg5ez52Hh1Ye41A98) | [Runway](https://open.spotify.com/album/2Pbn0X5zYXVbOvhDDKpPa4) | 4:47 |
 | 53 | [Dhaani](https://open.spotify.com/track/1HHTxNbzpkeo02pZVIlegT) | [Strings](https://open.spotify.com/artist/2fizRsm6KDWZvysU00yZrX) | [Dhaani](https://open.spotify.com/album/1JV7W8JrdR7j6LRkAAk5cw) | 4:28 |
 | 54 | [Mehndi](https://open.spotify.com/track/0hZezjFqU0H81Fq4UCYMv0) | [Jawad Ahmad](https://open.spotify.com/artist/2gXOOKY8mmJG6iwHrTq9gp) | [Jind Jan Sohniyie](https://open.spotify.com/album/4ZaLIwVcrgO7Cshf1rBkjh) | 5:35 |
-| 55 | [Dil Na Lagay](https://open.spotify.com/track/5lW3Y0CMIuvCrxCqp8jCz6) | [Faakhir](https://open.spotify.com/artist/6ocVv3L8PefhnpANnoHLuj) | [Aatish](https://open.spotify.com/album/53blgdAq8q2N5ulBW86ABO) | 4:31 |
+| 55 | [Aap Ki Yaad](https://open.spotify.com/track/5fc9Jer5jSPSPBPE4xgnqd) | [Ahmed Jehanzeb](https://open.spotify.com/artist/5Vn3nku07sgnvFCS5Lw4wX) | [Parastish](https://open.spotify.com/album/0caOlEfxhjBHnOyuxf55AT) | 5:11 |
 | 56 | [Meray Log](https://open.spotify.com/track/2YLYj3H91rrrU5TMt2yGyn) | [Noori](https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl) | [Peeli Patti Aur Raja Jani Ki Gol Dunya](https://open.spotify.com/album/1ulFNPGcDNipaa6e1SbHsj) | 4:31 |
-| 57 | [Aap Ki Yaad](https://open.spotify.com/track/5fc9Jer5jSPSPBPE4xgnqd) | [Ahmed Jehanzeb](https://open.spotify.com/artist/5Vn3nku07sgnvFCS5Lw4wX) | [Parastish](https://open.spotify.com/album/0caOlEfxhjBHnOyuxf55AT) | 5:11 |
+| 57 | [Dil Na Lagay](https://open.spotify.com/track/5lW3Y0CMIuvCrxCqp8jCz6) | [Faakhir](https://open.spotify.com/artist/6ocVv3L8PefhnpANnoHLuj) | [Aatish](https://open.spotify.com/album/53blgdAq8q2N5ulBW86ABO) | 4:31 |
 | 58 | [Preeto](https://open.spotify.com/track/77r5p33xjbCAJrS9rQ6z20) | [Abrar Ul Haq](https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw) | [Nach Punjaban](https://open.spotify.com/album/2zOGLZcx5HA7RD1CUpU7E4) | 5:09 |
 | 59 | [Teri Yaad](https://open.spotify.com/track/5R1mYWLSQ896Pfqa4iMCKH) | [Jal \-The Band](https://open.spotify.com/artist/3RVDaDaYaZH1Gem9iqOVs8) | [Aadat](https://open.spotify.com/album/5ANML1o1NBFwCzGaaeXdy5) | 6:18 |
-| 60 | [Azadi \(Jinnah\)](https://open.spotify.com/track/4YFm2ARJ9QTzvNQ25bTZjs) | [Junoon](https://open.spotify.com/artist/6nyfDdTwCLGrbCFikT8PTK) | [Ishq](https://open.spotify.com/album/1HECWEoUv3vVkst0v6BoWc) | 4:35 |
-| 61 | [Dil Ruba](https://open.spotify.com/track/65PDojUz0VanKRIHCEDddm) | [Faakhir](https://open.spotify.com/artist/6ocVv3L8PefhnpANnoHLuj) | [Aatish](https://open.spotify.com/album/53blgdAq8q2N5ulBW86ABO) | 3:47 |
-| 62 | [Chandni Raatein](https://open.spotify.com/track/0n3soc0bTxQslLiMpbgZyk) | [Ali Haider](https://open.spotify.com/artist/6fJXLs7sAIUz7TLJwe1HqY) | [Chandni Raatein](https://open.spotify.com/album/1Ub0yU5Xc7iTG68iirGQZa) | 6:28 |
-| 63 | [Laga Reh](https://open.spotify.com/track/2ZgW0BbaNtygHT43FEyHhR) | [Shehzad Roy](https://open.spotify.com/artist/2IoNBHUOfnf7hsUwBKr6l4) | [Qismat Apne Hath Mein](https://open.spotify.com/album/05nXs31CR4jvF7NtD8m7Ae) | 4:46 |
-| 64 | [Khaireyan De Naal](https://open.spotify.com/track/0WxdqHRbdQ1R83ZvZ0qerN) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Tabeer](https://open.spotify.com/album/6zvlSsksjFjshGKJm3lJWD) | 4:36 |
+| 60 | [Chandni Raatein](https://open.spotify.com/track/0n3soc0bTxQslLiMpbgZyk) | [Ali Haider](https://open.spotify.com/artist/6fJXLs7sAIUz7TLJwe1HqY) | [Chandni Raatein](https://open.spotify.com/album/1Ub0yU5Xc7iTG68iirGQZa) | 6:28 |
+| 61 | [Azadi \(Jinnah\)](https://open.spotify.com/track/4YFm2ARJ9QTzvNQ25bTZjs) | [Junoon](https://open.spotify.com/artist/6nyfDdTwCLGrbCFikT8PTK) | [Ishq](https://open.spotify.com/album/1HECWEoUv3vVkst0v6BoWc) | 4:35 |
+| 62 | [Laga Reh](https://open.spotify.com/track/2ZgW0BbaNtygHT43FEyHhR) | [Shehzad Roy](https://open.spotify.com/artist/2IoNBHUOfnf7hsUwBKr6l4) | [Qismat Apne Hath Mein](https://open.spotify.com/album/05nXs31CR4jvF7NtD8m7Ae) | 4:46 |
+| 63 | [Khaireyan De Naal](https://open.spotify.com/track/0WxdqHRbdQ1R83ZvZ0qerN) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Tabeer](https://open.spotify.com/album/6zvlSsksjFjshGKJm3lJWD) | 4:36 |
+| 64 | [Dil Ruba](https://open.spotify.com/track/65PDojUz0VanKRIHCEDddm) | [Faakhir](https://open.spotify.com/artist/6ocVv3L8PefhnpANnoHLuj) | [Aatish](https://open.spotify.com/album/53blgdAq8q2N5ulBW86ABO) | 3:47 |
 | 65 | [Tu Jo Nahin](https://open.spotify.com/track/7DS1Sx7CYAi78dprHqT2Gi) | [Ahmed Jehanzeb](https://open.spotify.com/artist/5Vn3nku07sgnvFCS5Lw4wX) | [Parastish](https://open.spotify.com/album/0caOlEfxhjBHnOyuxf55AT) | 3:25 |
 | 66 | [Ucchayan Majajan Aali](https://open.spotify.com/track/290a4qvrJNMeJQaxotj9X1) | [Jawad Ahmad](https://open.spotify.com/artist/2gXOOKY8mmJG6iwHrTq9gp) | [Uche Majajaan Wali](https://open.spotify.com/album/1qqXlqwQpMMhif6Asuyhuj) | 5:14 |
 | 67 | [Shareekan Nu Agg Lagdi](https://open.spotify.com/track/2zl7lKlPv2rKwy0awC6I5m) | [Abrar Ul Haq](https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw) | [Nachaan Mein Oday Nall](https://open.spotify.com/album/09OUqCA4QUA4U3Dv7PDBWd) | 4:03 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ubeHYX0X34.md) - [plain]
 | 69 | [Ik Din Aye Ga](https://open.spotify.com/track/3wUreem0PICuBnFN8nfvz7) | [Jal \-The Band](https://open.spotify.com/artist/3RVDaDaYaZH1Gem9iqOVs8) | [Aadat](https://open.spotify.com/album/5ANML1o1NBFwCzGaaeXdy5) | 4:18 |
 | 70 | [Nahin Hai Yeh Pyar](https://open.spotify.com/track/565wNlsWcWTAYXdtvLys1u) | [Haroon](https://open.spotify.com/artist/4S0WPsBEcic5O5Dv2aAPvM) | [Haroon Ka Nasha](https://open.spotify.com/album/6EaOP1xX92OLK2IzOmNPhC) | 3:38 |
 
-Snapshot ID: `MTYyOTExMDI1MiwwMDAwMDAwMGZkYzc0N2YxZGM4NTBkYzljZWRjMTNkMmQ5ZjRkNDBk`
+Snapshot ID: `MTYyOTExMDI1MiwwMDAwMDAwMDg0OTgyMGFlM2QxYzg5NTA3MjIyOTFjZWQzMzVhOTdm`

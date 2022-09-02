@@ -2,9 +2,9 @@
 
 ### [Boso Jowo](https://open.spotify.com/playlist/37i9dQZF1DXcwHMQ31Y15k)
 
-> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Ndarboy Genk, Dewa Budjana
+> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Evan Loss
 
-108 songs - 8 hr 57 min - [published](https://open.spotify.com/playlist/6MWAwkgQhB2wRNopb9pKvS)
+110 songs - 9 hr 6 min - [published](https://open.spotify.com/playlist/6MWAwkgQhB2wRNopb9pKvS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Aku Ra Mundur \(Tepung Kanji\)](https://open.spotify.com/track/2qFc0jWjD602lVz63XfGrm) | [Via Vallen](https://open.spotify.com/artist/6vnVPM49Yl9LSGqhnLAh1f) | [Aku Ra Mundur \(Tepung Kanji\)](https://open.spotify.com/album/7E4eC0hWBPdYe6017bLNdC) | 4:29 | 2022-05-26 |  |
 | [Ambyar](https://open.spotify.com/track/0JBnBZ53RRDsWnjtrhG6YB) | [Didi Kempot](https://open.spotify.com/artist/0obaLCCWO42LOegAmHhEC4) | [Ambyar](https://open.spotify.com/album/0cMPXAVMsdmq5SaVVyUH5e) | 4:42 | 2022-05-26 |  |
 | [Ambyar Mak Pyar](https://open.spotify.com/track/6UC5ZI2p6oI6ukaZGxjQ89) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Ambyar Mak Pyar](https://open.spotify.com/album/76ehbPj5BFTqcCr2opmHky) | 4:43 | 2022-05-26 |  |
-| [Ambyar Mak Pyar \- Keroncong Version](https://open.spotify.com/track/74xhzdyLf8NFPg0YEkl2zx) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Ambyar Mak Pyar \(Keroncong Version\)](https://open.spotify.com/album/2p3qceONrEXQAjo1tpUKY9) | 4:38 | 2022-05-26 |  |
+| [Ambyar Mak Pyar \- Keroncong Version](https://open.spotify.com/track/74xhzdyLf8NFPg0YEkl2zx) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Ambyar Mak Pyar \(Keroncong Version\)](https://open.spotify.com/album/2p3qceONrEXQAjo1tpUKY9) | 4:38 | 2022-05-26 | 2022-09-02 |
 | [Angel](https://open.spotify.com/track/1J6ws7eOvY1GKzTdd3rrau) | [Yeni Inka](https://open.spotify.com/artist/3coxJnIe9n8Uz82x5eSTrv) | [Angel](https://open.spotify.com/album/27YY9UwgvQI4sQ6PR1FFUq) | 4:47 | 2022-05-26 |  |
 | [angin dalu](https://open.spotify.com/track/658ox296pj18QSjzTBGWWy) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [angin dalu](https://open.spotify.com/album/398tNxv0AePP2zEWNYOmKs) | 4:19 | 2022-05-26 |  |
 | [Balik Kanan Wae](https://open.spotify.com/track/3r55XFoo88uz9e084F2RFU) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Balik Kanan Wae](https://open.spotify.com/album/73xxVGK2GFvA8yxTBvDjGz) | 4:06 | 2022-05-26 |  |
@@ -35,11 +35,12 @@
 | [Iki Uripku](https://open.spotify.com/track/23JmcEcmC0SzppD6Qm63nM) | [Bayu Skak](https://open.spotify.com/artist/0jq1309CGlj9Do3jtNOTCq) | [Iki Uripku](https://open.spotify.com/album/2CssuqpQHqtx1fhUbGjwyp) | 3:54 | 2022-07-21 |  |
 | [Indonesia Bakoh](https://open.spotify.com/track/1Gbz0PYGw30YO4rRqbudgV) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Indonesia Bakoh](https://open.spotify.com/album/0f3jGasuwJGNatcgeDPRZd) | 5:40 | 2022-08-18 |  |
 | [Kabur Kanginan](https://open.spotify.com/track/6DRBeuRymM6gRvAn1WgU0S) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A) | [Kabur Kanginan](https://open.spotify.com/album/5QQa65NbHXXMZSVCbdiWYP) | 4:34 | 2022-05-26 | 2022-08-26 |
+| [Kangen Bali Ndeso](https://open.spotify.com/track/2PrN2IROTrrA2ykkEuRWHt) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Kangen Bali Ndeso](https://open.spotify.com/album/0hFBIgQMYvU0blNCEkoPGU) | 3:19 | 2022-09-01 |  |
 | [Kartonyono Medot Janji](https://open.spotify.com/track/6bnCgtR9tDcADREMONA91t) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Kartonyono Medot Janji](https://open.spotify.com/album/0WlqBbLuZrAOgh6asdiign) | 4:30 | 2022-05-26 |  |
 | [Kelangan 3](https://open.spotify.com/track/4sKISuQb1KssjLUu1BagA1) | [Wandra Restusiyan](https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP) | [Kelangan 3](https://open.spotify.com/album/1vf8SZEJNP0SBArwBW32pd) | 6:52 | 2022-05-26 |  |
 | [Kelingan Mantan](https://open.spotify.com/track/3w09eeWmgkLz5BISaqcpgm) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [NDX A.K.A\. Familia](https://open.spotify.com/album/2tkko0H0gYzg3jwEzfJQuc) | 3:19 | 2022-07-28 |  |
 | [Kelingan Mantan](https://open.spotify.com/track/6hdIeCcyyiaktYIH8DvJhU) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD), [PJR](https://open.spotify.com/artist/6bD3YWzWbah6b66U3jLkQK) | [NDX A.K.A\. FAMILIA](https://open.spotify.com/album/3ZoeNQiKCsbCP5cY1O6yus) | 3:20 | 2022-05-26 | 2022-07-29 |
-| [Konco Mesra](https://open.spotify.com/track/2ey0HK2pXI9y5cIW5NqFLj) | [Nella Kharisma](https://open.spotify.com/artist/2GwILMQr37VYZiTgC5fXUq) | [Nella Kharisma Special NDX](https://open.spotify.com/album/5lJx0J2xoruceOPUDWUDDD) | 5:01 | 2022-05-26 |  |
+| [Konco Mesra](https://open.spotify.com/track/2ey0HK2pXI9y5cIW5NqFLj) | [Nella Kharisma](https://open.spotify.com/artist/2GwILMQr37VYZiTgC5fXUq) | [Nella Kharisma Special NDX](https://open.spotify.com/album/5lJx0J2xoruceOPUDWUDDD) | 5:01 | 2022-05-26 | 2022-09-02 |
 | [Konco Mesra](https://open.spotify.com/track/4I7goB9uxNnA2Jg3Sf8Dwv) | [Syahiba Saufa](https://open.spotify.com/artist/1a8EV67v0WSk7czvboxGYz) | [Konco Mesra](https://open.spotify.com/album/2ijzNP6wya6HesN5nH3nNV) | 5:01 | 2022-05-26 |  |
 | [Korban Janji](https://open.spotify.com/track/5AZ41aRMKszALdu5qm4sju) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Korban Janji](https://open.spotify.com/album/3xgzFV9CWB4WqufuiN6HBX) | 4:15 | 2022-05-26 |  |
 | [Koyo Jogja Istimewa \- From "Cidro Asmoro"](https://open.spotify.com/track/1GVygn86oLm8eDLNPUtC2N) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Koyo Jogja Istimewa \(From "Cidro Asmoro"\)](https://open.spotify.com/album/3QABkEdROjx6VqbjLWuIWr) | 4:29 | 2022-05-26 |  |
@@ -65,6 +66,7 @@
 | [nyikso batin](https://open.spotify.com/track/5x6iMwlE967QS90rA0OYlN) | [dela poyz](https://open.spotify.com/artist/73BKKlWbAd4m7AbvXgFs3t) | [nyikso batin](https://open.spotify.com/album/46cFNRFRfADKib0ac3Q3JE) | 4:40 | 2022-07-01 |  |
 | [Ojo Di Bandingke](https://open.spotify.com/track/2NvVDlX2O30KMPZJWQX2aO) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG), [Abah Lala](https://open.spotify.com/artist/6BkCOBTVHP3E2FoLnEKauW) | [Ojo Di Bandingke](https://open.spotify.com/album/3NnCgOd2TE8RboolLulBuj) | 5:47 | 2022-07-28 |  |
 | [Ojo Dibandingke](https://open.spotify.com/track/6zwls2VhjHF9Ax7Xa2r54W) | [Farel Prayoga](https://open.spotify.com/artist/1hPyJFbjHuyBZZSFkMEGmj) | [Ojo Dibandingke](https://open.spotify.com/album/06cjzsgFqj0CCDt2LtTd0W) | 5:28 | 2022-08-02 |  |
+| [Ojo Dibandingke \- Live Ska Reggae](https://open.spotify.com/track/70q1PoJ9YqsBLsNPZV2rtE) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Ojo Dibandingke \(Live Ska Reggae\)](https://open.spotify.com/album/6Nbdj8qApRQv0gHvWSFYYF) | 5:20 | 2022-09-01 |  |
 | [Ojo Nangis](https://open.spotify.com/track/2yfVlejxMMg163nZWalBte) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Ojo Nangis](https://open.spotify.com/album/0mz1frKC3NxPhHL1E1v3gQ) | 5:13 | 2022-05-26 | 2022-08-19 |
 | [Ojo Nangis](https://open.spotify.com/track/55ZdI8As6tgaM1X6P8XQ4U) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Ojo Nangis](https://open.spotify.com/album/6xnklJBg3JlMENDJBdFqiR) | 5:30 | 2022-05-26 |  |
 | [Ojo Nangis \- Keroncong Version](https://open.spotify.com/track/5eZ8DNqoPcJd1cTwkKzoEk) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Ojo Nangis \(Keroncong Version\)](https://open.spotify.com/album/2vrslGgUCj5smWJEbJSib4) | 5:46 | 2022-05-26 | 2022-08-26 |
@@ -91,7 +93,7 @@
 | [Satru 2](https://open.spotify.com/track/1lYE7sWxl6fBUJejyubpSv) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Satru 2](https://open.spotify.com/album/2tqDHQURR2zMy5Pb6eOQRN) | 4:48 | 2022-05-26 |  |
 | [satru 2](https://open.spotify.com/track/06mmODvS7e6gFPoz0Y52Gj) | [dike sabrina](https://open.spotify.com/artist/0vhFLxTbKdPwp4sB66ctRY) | [satru 2](https://open.spotify.com/album/575vP6DZdLtJiMBTPMo5Hq) | 4:45 | 2022-07-01 |  |
 | [Sekuat Atiku](https://open.spotify.com/track/0Fb8DFh95IctjwyPU25eZo) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Sekuat Atiku](https://open.spotify.com/album/1RNdZCb01OGZ6m9mYpuoNn) | 4:42 | 2022-05-26 | 2022-06-10 |
-| [senenge atiku](https://open.spotify.com/track/1Mi6HihzwGb9aUbjDls0up) | [Sleman Receh](https://open.spotify.com/artist/0jcgtGZTWxoepAUgADwcHP) | [senenge atiku](https://open.spotify.com/album/4ER7VgpdxBtCHF9DcTqcFq) | 5:10 | 2022-05-26 |  |
+| [senenge atiku](https://open.spotify.com/track/1Mi6HihzwGb9aUbjDls0up) | [Sleman Receh](https://open.spotify.com/artist/0jcgtGZTWxoepAUgADwcHP) | [senenge atiku](https://open.spotify.com/album/4ER7VgpdxBtCHF9DcTqcFq) | 5:10 | 2022-05-26 | 2022-09-02 |
 | [Sewu Kuto](https://open.spotify.com/track/0dOVpj4DF72H55AczoFUU6) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [Sewu Kuto](https://open.spotify.com/album/5SNtJc8E285xPBgJke5WIr) | 4:07 | 2022-05-26 |  |
 | [Sinyal Tresna \- From Collabonation](https://open.spotify.com/track/5vVV76tC3KjigYnT4dzMba) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Sinyal Tresna \(From Collabonation\)](https://open.spotify.com/album/79v7NB2gHevH35BCl5G2FQ) | 4:41 | 2022-07-21 |  |
 | [Sugeng Dalu](https://open.spotify.com/track/0qyzO8E6IBxZv48FG9R3KQ) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Sugeng Dalu](https://open.spotify.com/album/1dZX3QreXQ3V257tr93SJI) | 5:23 | 2022-05-26 |  |
@@ -104,7 +106,7 @@
 | [Terlantar](https://open.spotify.com/track/3zUiF9CWEBhGpfw7wePlEU) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A) | [Terlantar](https://open.spotify.com/album/0WZJL3kRGZ4jJkx8jeZ42i) | 5:02 | 2022-07-14 |  |
 | [Tewas Tertimbun Masa Lalu \(TTM\)](https://open.spotify.com/track/1ohxeVZ0pg6PJThlvgUAVN) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [NDX A.K.A\. Familia](https://open.spotify.com/album/2tkko0H0gYzg3jwEzfJQuc) | 4:04 | 2022-05-26 |  |
 | [Tiket Suargo](https://open.spotify.com/track/0PaHX60BjbIycemtQkGWfm) | [Jihan Audy](https://open.spotify.com/artist/7KlMqMCZbUE9rYpa95R2CV) | [Tiket Suargo](https://open.spotify.com/album/2hW8Yxj5WRc8QU95RQC7sq) | 5:14 | 2022-05-26 |  |
-| [Top Topan](https://open.spotify.com/track/1BNwgKoLRIPAzGXHBo8crB) | [Dara Ayu](https://open.spotify.com/artist/1nAdzqW8RvYMugm6eDs9Lx) | [Top Topan](https://open.spotify.com/album/4eCNT7NMn8l59MT51mFzDs) | 5:02 | 2022-05-26 |  |
+| [Top Topan](https://open.spotify.com/track/1BNwgKoLRIPAzGXHBo8crB) | [Dara Ayu](https://open.spotify.com/artist/1nAdzqW8RvYMugm6eDs9Lx) | [Top Topan](https://open.spotify.com/album/4eCNT7NMn8l59MT51mFzDs) | 5:02 | 2022-05-26 | 2022-09-02 |
 | [TOP TOPAN](https://open.spotify.com/track/5RQqrD30qFyK5uZZE0J1kW) | [Kalia Siska](https://open.spotify.com/artist/70hsEvlt6YZPT97UIvzpEu), [SKA 86](https://open.spotify.com/artist/5YFoDJ3lf1jKYDkjTUcoJg) | [TOP TOPAN](https://open.spotify.com/album/6JtO8rhbmqW1QoboTN1R8k) | 5:48 | 2022-05-26 |  |
 | [Top Topan](https://open.spotify.com/track/5pjJmCYsCzg2xRJHDq18kq) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Top Topan](https://open.spotify.com/album/6VB2l8Dz7ozkpgDAw42ehB) | 4:26 | 2022-05-26 |  |
 | [Tresno Liyane](https://open.spotify.com/track/6TGKyyyMCmtjf3MpdRnpxE) | [Tembang Gula](https://open.spotify.com/artist/6g7kngIkweehmJyN2AYOOH), [Tomo Widayat](https://open.spotify.com/artist/3ZCCt9k6vWEDbdR0XKjHXY) | [Tresno Liyane](https://open.spotify.com/album/5ihcCehRsNOjAIiEZVbDGu) | 4:54 | 2022-05-26 | 2022-08-19 |

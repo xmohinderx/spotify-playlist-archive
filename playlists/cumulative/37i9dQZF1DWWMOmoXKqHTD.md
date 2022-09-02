@@ -4,7 +4,7 @@
 
 > Sing along and enjoy the drive...
 
-799 songs - 2 day 1 hr 21 min - [published](https://open.spotify.com/playlist/1OVcAnTmAg9Lhtx4p2Q5k3)
+800 songs - 2 day 1 hr 23 min - [published](https://open.spotify.com/playlist/1OVcAnTmAg9Lhtx4p2Q5k3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -635,6 +635,7 @@
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [STAY \(with Justin Bieber\)](https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ) | 2:21 | 2021-11-11 |  |
 | [Stay The Night \- featuring Hayley Williams of Paramore](https://open.spotify.com/track/2qq7sHFIexFKEvlNghevsj) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Stay The Night](https://open.spotify.com/album/2AHFaAIHijsINRqZFMxJFL) | 3:37 | 2020-07-18 | 2022-04-17 |
 | [Stay With Me](https://open.spotify.com/track/5Db9VIdDsN5yu3Eu7CT0i4) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/2Jg7JZ0ZXOGje1bkq7CVgK) | 2:52 | 2019-07-29\* | 2022-04-21 |
+| [Stay With Me](https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 2:52 | 2022-07-26 |  |
 | [Steal My Girl](https://open.spotify.com/track/2Bs4jQEGMycglOfWPBqrVG) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 3:48 | 2019-07-29\* | 2022-07-29 |
 | [Stitches](https://open.spotify.com/track/5jsw9uXEGuKyJzs0boZ1bT) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ) | 3:26 | 2019-07-29\* | 2022-07-23 |
 | [Stronger \(What Doesn't Kill You\)](https://open.spotify.com/track/6D60klaHqbCl9ySc8VcRss) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Stronger \(Deluxe Version\)](https://open.spotify.com/album/1MNvMtEmMMdBXZBDcFNcWj) | 3:41 | 2019-08-11 | 2022-07-29 |
@@ -698,7 +699,7 @@
 | [Thunder](https://open.spotify.com/track/0tKcYR2II1VCQWT79i5NrW) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/5GlPAy2PRJW06GVFhKwGTl) | 3:07 | 2019-07-29\* | 2022-04-21 |
 | [Thunder](https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:07 | 2022-07-26 |  |
 | [TiK ToK](https://open.spotify.com/track/5OMwQFBcte0aWFJFqrr5oj) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Animal](https://open.spotify.com/album/4Fts9DL8sj5UQ0TkN4SvMK) | 3:19 | 2021-03-11 | 2022-04-15 |
-| [Timber \(feat\. Ke$ha\)](https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Global Warming: Meltdown \(Deluxe Version\)](https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy) | 3:24 | 2021-03-11 |  |
+| [Timber \(feat\. Ke$ha\)](https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Global Warming: Meltdown \(Deluxe Version\)](https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy) | 3:24 | 2021-03-11 | 2022-09-02 |
 | [Time After Time](https://open.spotify.com/track/7o9uu2GDtVDr9nsR7ZRN73) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual](https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0) | 4:01 | 2021-03-22 | 2022-04-11 |
 | [Time of Our Lives](https://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:49 | 2021-03-14 | 2022-04-11 |
 | [Tiny Dancer](https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Madman Across The Water](https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr) | 6:17 | 2021-03-10 | 2022-04-11 |

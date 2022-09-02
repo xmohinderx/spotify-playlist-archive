@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Chloe Moriondo
 
-1,331 songs - 2 day 21 hr 54 min - [published](https://open.spotify.com/playlist/2nCGCENCYFC3EyufXsiFQ9)
+1,332 songs - 2 day 21 hr 58 min - [published](https://open.spotify.com/playlist/2nCGCENCYFC3EyufXsiFQ9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [Anybody Else](https://open.spotify.com/track/3FyNoNgNO6qkdjCD6eFikX) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Anybody Else](https://open.spotify.com/album/6FDZydExiImBtXWfyUNOOS) | 2:10 | 2021-05-03 | 2022-04-16 |
 | [Anymore](https://open.spotify.com/track/41k9LvMt9xspB5nueIUsfU) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Anymore](https://open.spotify.com/album/1gN8dVk0oKtQoHdk1oxKrL) | 2:34 | 2022-01-28 | 2022-04-20 |
 | [Anymore Anyway](https://open.spotify.com/track/20FQ09T8gLYKCFqB4PzFJa) | [KAIRO](https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v) | [Anymore Anyway](https://open.spotify.com/album/7uvNGOWyy7nR40Ovi5UinP) | 2:42 | 2022-04-15 | 2022-04-26 |
-| [Anything But Me](https://open.spotify.com/track/32JZt8EmiioCGTU6UIXJ4E) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Anything But Me](https://open.spotify.com/album/3qeTo7DFj1P9dcBa92GrpX) | 3:33 | 2022-03-18 |  |
+| [Anything But Me](https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 3:33 | 2022-08-26 |  |
+| [Anything But Me](https://open.spotify.com/track/32JZt8EmiioCGTU6UIXJ4E) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Anything But Me](https://open.spotify.com/album/3qeTo7DFj1P9dcBa92GrpX) | 3:33 | 2022-03-18 | 2022-09-02 |
 | [Anything Could Happen](https://open.spotify.com/track/7cdS2ZpDLR4kOug7FrRssx) | [Dylan Cartlidge](https://open.spotify.com/artist/0ofvvakxXcRhIy5fgIoB9z) | [Anything Could Happen](https://open.spotify.com/album/5aBYZUmWL1v3mmk3Ji3M9Y) | 3:27 | 2021-03-16 | 2021-10-13 |
 | [Appetite](https://open.spotify.com/track/5VbH21TVJrKIsDpNbpTi7B) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [PETROL BLOOM](https://open.spotify.com/album/2dAk99NhCCyRdko6BPPe9q) | 3:32 | 2020-12-08 | 2021-05-26 |
 | [Are We Having Any Fun Yet?](https://open.spotify.com/track/63koRk9rszZKFiVLuhdo88) | [Larkins](https://open.spotify.com/artist/6cCfC12LHtD5XIc1rLsm8Y) | [Are We Having Any Fun Yet?](https://open.spotify.com/album/11iKlt3QabcuCbewlu2xHj) | 3:17 | 2020-10-20 | 2021-10-22 |

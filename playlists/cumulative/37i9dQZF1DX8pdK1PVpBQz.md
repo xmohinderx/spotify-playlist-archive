@@ -4,7 +4,7 @@
 
 > Discover something new from local independent artists on the rise\. Cover: Elizabeth M Drummond Artwork: Isu Kim
 
-1,178 songs - 2 day 17 hr 9 min - [published](https://open.spotify.com/playlist/6SzaS17cgVZQMPJsRPmBsR)
+1,179 songs - 2 day 17 hr 12 min - [published](https://open.spotify.com/playlist/6SzaS17cgVZQMPJsRPmBsR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -568,6 +568,7 @@
 | [Kama Sutra Calling](https://open.spotify.com/track/5Z5YKqZCCsdpcGPUEDQstM) | [Zen Emm](https://open.spotify.com/artist/4YNqJa62AOAFeQgPXsSwXi) | [Kama Sutra Calling](https://open.spotify.com/album/5X24g0KbVDwQJ3RDabse2Q) | 3:06 | 2022-01-25 | 2022-02-24 |
 | [Karamello Koala](https://open.spotify.com/track/3mOGSa5jASCO8wdf63FhpV) | [Tyra](https://open.spotify.com/artist/6TstMXGrgsH71LvqHhRtLM) | [The Space Tapes](https://open.spotify.com/album/5C1AnYrKR97vUpqVQQp8TR) | 1:50 | 2022-02-09 | 2022-03-02 |
 | [Keep On](https://open.spotify.com/track/2HJGnix985P2PsOxwwwJHl) | [NYUON](https://open.spotify.com/artist/6NnfaWj41j6dCjtEAUYx0N) | [Keep On](https://open.spotify.com/album/31aNmG5EppEXMGoi4IGM4Q) | 3:01 | 2022-02-23 | 2022-03-16 |
+| [Kicking Down the Doors](https://open.spotify.com/track/3CztRTgoZbBwm0bSB6juwB) | [Kootsie Don](https://open.spotify.com/artist/6t2pf289HxzUYQKc7nCzd2) | [Kicking Down the Doors](https://open.spotify.com/album/1OTYIh2b2yzioKuywf5Lxq) | 2:55 | 2022-09-02 |  |
 | [Kill You Boy](https://open.spotify.com/track/71Y5owvHyof8o5NtrAr912) | [RARIA](https://open.spotify.com/artist/1DKITSUPQAQIa2D0W6U8gY) | [Kill You Boy](https://open.spotify.com/album/0k04UZ8pBPvS2anavEPrjG) | 2:36 | 2022-06-08 | 2022-07-14 |
 | [King Of The World](https://open.spotify.com/track/1slqA6xtqFb60fDiIumBv1) | [Wesley Black](https://open.spotify.com/artist/1WxFeH38BLLqgOdhtd36Nv) | [King Of The World](https://open.spotify.com/album/51Fk7LruHW8R63rwE3E1mu) | 2:34 | 2022-03-09 | 2022-04-07 |
 | [Knock Knock](https://open.spotify.com/track/70dmZtJ2NDuFsPdlQgdnbh) | [Mell Hall](https://open.spotify.com/artist/1EzMBKiEO3rQbvnNxLK6HZ), [Thandi Phoenix](https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v) | [Knock Knock](https://open.spotify.com/album/52Aj733Z1QNSshBALGbFNP) | 4:01 | 2021-12-28 | 2022-01-13 |

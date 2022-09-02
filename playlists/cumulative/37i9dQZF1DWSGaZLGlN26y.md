@@ -2,7 +2,7 @@
 
 ### [Spotify Singles: Love Edition](https://open.spotify.com/playlist/37i9dQZF1DWSGaZLGlN26y)
 
-> Songs for lovers like you've never heard before\. Cover: Mac Miller, Fifth Harmony, & Maggie Rogers.
+> Songs for lovers like you've never heard before\. Cover: Leon Bridges
 
 179 songs - 10 hr 58 min - [published](https://open.spotify.com/playlist/1FdTss7Ut4Y6PdpZxi4qVY)
 

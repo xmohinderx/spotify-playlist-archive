@@ -2,9 +2,9 @@
 
 ### [Dancehall Station](https://open.spotify.com/playlist/37i9dQZF1DX9QYRS3EMTFh)
 
-> Les hits dancehall du moment\. Photo : Its Natascha
+> Les hits dancehall du moment\. Photo : Blaiz Fayah
 
-134 songs - 6 hr 16 min - [published](https://open.spotify.com/playlist/5EUHHXJOLrkgmRGE7o9Fvs)
+135 songs - 6 hr 21 min - [published](https://open.spotify.com/playlist/5EUHHXJOLrkgmRGE7o9Fvs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Feel It](https://open.spotify.com/track/1tRxnz4aknh5Nn7rs9fD0j) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Feel It](https://open.spotify.com/album/764dcyM1mUus7EUzI1NKYm) | 2:41 | 2022-02-17 | 2022-04-15 |
 | [Feelin It](https://open.spotify.com/track/1PWMtnBP2q2cLH9Hgo5Zw9) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Monq](https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs) | [Feelin It](https://open.spotify.com/album/2VZo9jLksnJRf8HDn7vvkJ) | 2:16 | 2021-12-22 | 2022-05-06 |
 | [Feeling](https://open.spotify.com/track/5uta8geyExHOJhOLTbkA2H) | [Oryane](https://open.spotify.com/artist/6ealaBsCtCp93xGB1sL1Mz), [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Feeling](https://open.spotify.com/album/2CoocP9wCMFq9Ja4766ZmK) | 2:36 | 2022-08-25 |  |
-| [Festival](https://open.spotify.com/track/79iWsaDnvfHiwQQ1MdPER2) | [Matieu White](https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9) | [Festival](https://open.spotify.com/album/27sWXIwsOK2wnoGasfR1Ng) | 2:33 | 2022-07-21 |  |
+| [Festival](https://open.spotify.com/track/79iWsaDnvfHiwQQ1MdPER2) | [Matieu White](https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9) | [Festival](https://open.spotify.com/album/27sWXIwsOK2wnoGasfR1Ng) | 2:33 | 2022-07-21 | 2022-09-02 |
 | [Fight and win](https://open.spotify.com/track/7pRLfX2thIxTzT0bKiEuK6) | [Lion D](https://open.spotify.com/artist/6dV7tQuFIXDX8nbGkWCSnz), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [Bizzarri](https://open.spotify.com/artist/6u2JGZYGitPzTfCRjnAAie) | [Fight and win](https://open.spotify.com/album/4ZPGwlSyhYD7UCNSzWB7mc) | 3:25 | 2022-05-20 | 2022-07-08 |
 | [Fling It Back](https://open.spotify.com/track/5rKSO98bJ5fOBYNbpbiXQS) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [New Motion](https://open.spotify.com/album/5tL7qwPbH3xoAXcLdPaHsf) | 2:24 | 2022-06-16 | 2022-07-29 |
 | [Foki](https://open.spotify.com/track/2romlZZi2Ypdik8KPjpv6X) | [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD), [Alex Sargo](https://open.spotify.com/artist/2rzmi9GgvLsfDZwMLRkNEG), [La Toya Linger](https://open.spotify.com/artist/340ZBWi8L5lldZGTHqQfm7), [Willie Wartaal](https://open.spotify.com/artist/4usBxmpmHRVy92QbcWk0M7) | [Foki](https://open.spotify.com/album/1xUt5s1XoEoyOQj1lf7xas) | 2:24 | 2022-01-06 | 2022-04-22 |
@@ -64,6 +64,7 @@
 | [How We Do It \(feat\. Pia Mia\)](https://open.spotify.com/track/1G2J5KdJxNH6Sd0wEclV0P) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Pia Mia](https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP) | [How We Do It](https://open.spotify.com/album/0LDEvwg9giVP8tKQiyIuij) | 3:02 | 2022-03-10 | 2022-06-24 |
 | [Hypocrite \- Edit](https://open.spotify.com/track/2uEgtB82CP9q8zQqci8pAo) | [St Unit](https://open.spotify.com/artist/3ZgxAwvBnX0CSGmeFWCuQU), [VJ Awax](https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm) | [Hypocrite \(Edit\)](https://open.spotify.com/album/1MexCMhRAQqt9M5yje1P5o) | 2:28 | 2022-03-10 | 2022-06-24 |
 | [I Got You](https://open.spotify.com/track/4nRBgPceAv04r19I9Xn3Tk) | [Matieu White](https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9), [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6) | [Para Bellum](https://open.spotify.com/album/4N2vTsNIB0calqg7UWXxxu) | 3:23 | 2022-05-20 |  |
+| [In Da Car](https://open.spotify.com/track/3UOg91DTKgZuWsYsV1Zn13) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV) | [In Da Car](https://open.spotify.com/album/1DvFMj5C6pMKt0pebSlWhv) | 4:18 | 2022-09-01 |  |
 | [Ina Dancehall](https://open.spotify.com/track/6pihx7G891zvqQ3tUQ1tcP) | [DJ Oneshot](https://open.spotify.com/artist/5HftKAv6XJAKVtIZZ1ybf2), [Hayvee](https://open.spotify.com/artist/4q2VTTo7isKeFWMgunj5mt), [WISHANN ASMA](https://open.spotify.com/artist/3MvZWIRVvQa4tFGyTHi7pd) | [Ina Dancehall](https://open.spotify.com/album/1CXRgqPTB60bNC9AXtXzZX) | 2:46 | 2022-06-23 |  |
 | [Jaye Pro](https://open.spotify.com/track/21CmrXsUPT0BRGbix3so9W) | [Emiz](https://open.spotify.com/artist/5wSqreQKzZ2rqPJLyreo1t), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Jaye Pro](https://open.spotify.com/album/5MO2uVCYxhcCbRD2L1yRtj) | 3:05 | 2021-12-22 | 2022-02-04 |
 | [Jiggle](https://open.spotify.com/track/0F245o4yDaGy2leKy2l2Ae) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL), [Demarco](https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6), [Meeka](https://open.spotify.com/artist/3x1abDAAJYxgkeV9MRLlbn) | [Jiggle](https://open.spotify.com/album/51rfhvpTi6fhMYpkq3ci4o) | 2:12 | 2022-04-21 | 2022-07-01 |

@@ -4,7 +4,7 @@
 
 > Discover your favorite new chill pop songs\. Cover: NIKI
 
-922 songs - 2 day 0 hr 41 min - [published](https://open.spotify.com/playlist/0bYTEzgb7cQ54Fa4kGbaPS)
+923 songs - 2 day 0 hr 43 min - [published](https://open.spotify.com/playlist/0bYTEzgb7cQ54Fa4kGbaPS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -929,6 +929,7 @@
 | [You're Almost There](https://open.spotify.com/track/4EH3tlC7Ns1ahBtnPAXmP9) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [You're Almost There](https://open.spotify.com/album/7vA1tbXdEHvPftDO7jEsKj) | 3:06 | 2022-03-25 | 2022-05-20 |
 | [Your Power](https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Your Power](https://open.spotify.com/album/7H3vJa2HHgxb7qqclOdfJ3) | 4:05 | 2021-04-30 | 2021-06-26 |
 | [Yours](https://open.spotify.com/track/7BpqydHSxMviDR0DNTne6J) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Yours](https://open.spotify.com/album/2i4vxgeB2Sn97KeBs2vYtO) | 3:24 | 2022-05-20 |  |
-| [YUKON \(INTERLUDE\)](https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi) | 2:21 | 2022-08-26 |  |
+| [YUKON \(INTERLUDE\)](https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi) | 2:21 | 2022-08-26 | 2022-09-02 |
+| [YUKON \(INTERLUDE\)](https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/0GxWXE6ltKk4Gx3WyWLLrW) | 2:21 | 2022-08-26 |  |
 
 \*This playlist was first scraped on 2020-10-13. Prior content cannot be recovered.

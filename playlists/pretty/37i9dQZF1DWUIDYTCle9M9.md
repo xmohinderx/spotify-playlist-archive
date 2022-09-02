@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUIDYTCle9M9.md) - [plain]
 
 > Hits e clássicos para jogar sua energia lá em cima!
 
-[Spotify](https://open.spotify.com/user/spotify) - 547,967 likes - 60 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 548,212 likes - 60 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,12 +49,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUIDYTCle9M9.md) - [plain]
 | 39 | [Feel This Moment \(feat\. Christina Aguilera\)](https://open.spotify.com/track/0Hf4aIJpsN4Os2f0y0VqWl) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Global Warming: Meltdown \(Deluxe Version\)](https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy) | 3:49 |
 | 40 | [Whistle](https://open.spotify.com/track/3bC1ahPIYt1btJzSSEyyrF) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Wild Ones](https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk) | 3:44 |
 | 41 | [Drive By](https://open.spotify.com/track/0KAiuUOrLTIkzkpfpn9jb9) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [California 37](https://open.spotify.com/album/5zseibu9WEsPaZmkJUMkz1) | 3:15 |
-| 42 | [Dancing in the Moonlight](https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od) | [Toploader](https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV) | [Onka's Big Moka](https://open.spotify.com/album/2ww2PXKiHk7rNv26rjVJ5z) | 3:52 |
-| 43 | [Best Song Ever](https://open.spotify.com/track/5T7ZFtCcOgkpjxcuaeZbw0) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 3:20 |
+| 42 | [Best Song Ever](https://open.spotify.com/track/5T7ZFtCcOgkpjxcuaeZbw0) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 3:20 |
+| 43 | [Dancing in the Moonlight](https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od) | [Toploader](https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV) | [Onka's Big Moka](https://open.spotify.com/album/2ww2PXKiHk7rNv26rjVJ5z) | 3:52 |
 | 44 | [Shower](https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Shower](https://open.spotify.com/album/4JlzEvVJqpb62Xwc0EmOHr) | 3:26 |
 | 45 | [Good Time](https://open.spotify.com/track/1kPpge9JDLpcj15qgrPbYX) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Midsummer Station](https://open.spotify.com/album/7gTFf2EWBONpjKVjpWbs5p) | 3:25 |
-| 46 | [Mambo No\. 5 \(a Little Bit of...\)](https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs) | [Lou Bega](https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx) | [A Little Bit of Mambo](https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai) | 3:40 |
-| 47 | [Kiss Me](https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None the Richer](https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix) | 3:28 |
+| 46 | [Kiss Me](https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None the Richer](https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix) | 3:28 |
+| 47 | [Mambo No\. 5 \(a Little Bit of...\)](https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs) | [Lou Bega](https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx) | [A Little Bit of Mambo](https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai) | 3:40 |
 | 48 | [Wild Ones \(feat\. Sia\)](https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Wild Ones](https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk) | 3:52 |
 | 49 | [We Found Love](https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Talk That Talk](https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn) | 3:35 |
 | 50 | [Party In The U.S.A.](https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives](https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS) | 3:22 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUIDYTCle9M9.md) - [plain]
 | 59 | [So What](https://open.spotify.com/track/0JiY190vktuhSGN6aqJdrt) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Funhouse \(Expanded Edition\)](https://open.spotify.com/album/1LOJfNDxQhbpssKx7oM7at) | 3:35 |
 | 60 | [Poker Face](https://open.spotify.com/track/5R8dQOPq8haW94K7mgERlO) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame](https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV) | 3:57 |
 
-Snapshot ID: `MTY2MDc1Mzg1MSwwMDAwMDAwMGU0ZWRmNTdlNjE1M2Y0NDQ4NTQwMjIzOGJjNWU2ZGQ3`
+Snapshot ID: `MTY2MDc1Mzg1MSwwMDAwMDAwMDBjNzZjODA3MjQ0ZTIxNjhiMDA2OGE4YjNkM2Q2NzFk`

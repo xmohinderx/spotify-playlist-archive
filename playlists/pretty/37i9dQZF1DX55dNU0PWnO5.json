@@ -1,12 +1,12 @@
 {
   "description": "Jazzy blips and blops. Cover: Kansado",
-  "num_followers": 534428,
+  "num_followers": 534034,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMDU4NzYzM2M1ZTZlYTNmNzQ3MjM5NmFmNGYyYzI3ZjY1",
+  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMGRlZjlhYTY0NWFlYzU4N2ZiMzgyZGEwY2Y0NjJjZGJi",
   "tracks": [
     {
       "added_at": "2022-08-08 13:44:11",
@@ -625,6 +625,22 @@
       "url": "https://open.spotify.com/track/6fHHWT7Vfdv71c70PHp5wq"
     },
     {
+      "added_at": "2021-02-26 05:01:00",
+      "album": {
+        "name": "Panspermia",
+        "url": "https://open.spotify.com/album/4TfQg8g5FV1VvZao3Mj94D"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Panspermia",
+      "url": "https://open.spotify.com/track/6YQ0EXjwQWT263njOeoe8S"
+    },
+    {
       "added_at": "2022-04-25 13:59:49",
       "album": {
         "name": "Princess Meadow (Morning)",
@@ -675,22 +691,6 @@
       "duration_ms": 189344,
       "name": "Between the Bread",
       "url": "https://open.spotify.com/track/1qTGY0QXhVVTvMtX33vw7Y"
-    },
-    {
-      "added_at": "2021-02-26 05:01:00",
-      "album": {
-        "name": "Panspermia",
-        "url": "https://open.spotify.com/album/4TfQg8g5FV1VvZao3Mj94D"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Panspermia",
-      "url": "https://open.spotify.com/track/6YQ0EXjwQWT263njOeoe8S"
     },
     {
       "added_at": "2022-07-05 15:03:47",
@@ -793,42 +793,6 @@
       "url": "https://open.spotify.com/track/09jflWcNgyBd0PiigbWVMZ"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/1laf5dN62CLTu4CS5l75sL"
-      },
-      "artists": [
-        {
-          "name": "Natty Rico",
-          "url": "https://open.spotify.com/artist/4XjCsLo0E4017wblpE9BDL"
-        },
-        {
-          "name": "Bruce Kirkwood",
-          "url": "https://open.spotify.com/artist/7DEYcn5PNJZN26ElHcrIdg"
-        }
-      ],
-      "duration_ms": 193182,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/2ytUcMU7LhM9J38Ydh1QXs"
-    },
-    {
-      "added_at": "2021-02-26 00:47:37",
-      "album": {
-        "name": "Coral Jazz",
-        "url": "https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Coral Jazz",
-      "url": "https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM"
-    },
-    {
       "added_at": "2021-03-26 04:44:53",
       "album": {
         "name": "Saudade da Festa",
@@ -853,24 +817,20 @@
       "url": "https://open.spotify.com/track/35sKN3l62pOBhzu6yqMiAE"
     },
     {
-      "added_at": "2022-07-05 15:03:47",
+      "added_at": "2021-02-26 00:47:37",
       "album": {
-        "name": "Galilean Moons",
-        "url": "https://open.spotify.com/album/4ECKQXhNcQJBP3iFTBWsHe"
+        "name": "Coral Jazz",
+        "url": "https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi"
       },
       "artists": [
         {
-          "name": "Daylight Robbery!",
-          "url": "https://open.spotify.com/artist/4iSyPXTjEjLTgM08lsnC0O"
-        },
-        {
-          "name": "Benjamin Furman",
-          "url": "https://open.spotify.com/artist/1Iqi4vGZ1YDxUn9oAqqxXH"
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
         }
       ],
-      "duration_ms": 242506,
-      "name": "Galilean Moons",
-      "url": "https://open.spotify.com/track/114T0Xj3B0erxZNU8zmhKQ"
+      "duration_ms": 183529,
+      "name": "Coral Jazz",
+      "url": "https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM"
     },
     {
       "added_at": "2021-09-10 04:02:00",
@@ -887,42 +847,6 @@
       "duration_ms": 267500,
       "name": "Half-Bloom",
       "url": "https://open.spotify.com/track/2P8poZ6fgzniLuSYGt75og"
-    },
-    {
-      "added_at": "2021-06-11 04:01:00",
-      "album": {
-        "name": "Kick Snare Cat",
-        "url": "https://open.spotify.com/album/66ThQxulYfynE5xRMoWtHH"
-      },
-      "artists": [
-        {
-          "name": "Mahealane",
-          "url": "https://open.spotify.com/artist/5MIIsfUJhLH8TzJyTGCCq5"
-        },
-        {
-          "name": "PRNDL",
-          "url": "https://open.spotify.com/artist/7lSHLl0pD4rZ1vrBZ0yVPU"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Kick Snare Cat",
-      "url": "https://open.spotify.com/track/2JFpgWOy29AVCrGtUrVhNM"
-    },
-    {
-      "added_at": "2022-05-20 04:01:00",
-      "album": {
-        "name": "SAMURAI",
-        "url": "https://open.spotify.com/album/5QbYqorcvgyLIGjKcsm02e"
-      },
-      "artists": [
-        {
-          "name": "Jazztronik",
-          "url": "https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM"
-        }
-      ],
-      "duration_ms": 716744,
-      "name": "SAMURAI - 2022 version",
-      "url": "https://open.spotify.com/track/3lr6p7ELCMXMfxGJgh3FBu"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -949,6 +873,46 @@
       "url": "https://open.spotify.com/track/1L7dfBB7v2rAegNsxlawEv"
     },
     {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/1laf5dN62CLTu4CS5l75sL"
+      },
+      "artists": [
+        {
+          "name": "Natty Rico",
+          "url": "https://open.spotify.com/artist/4XjCsLo0E4017wblpE9BDL"
+        },
+        {
+          "name": "Bruce Kirkwood",
+          "url": "https://open.spotify.com/artist/7DEYcn5PNJZN26ElHcrIdg"
+        }
+      ],
+      "duration_ms": 193182,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/2ytUcMU7LhM9J38Ydh1QXs"
+    },
+    {
+      "added_at": "2021-06-11 04:01:00",
+      "album": {
+        "name": "Kick Snare Cat",
+        "url": "https://open.spotify.com/album/66ThQxulYfynE5xRMoWtHH"
+      },
+      "artists": [
+        {
+          "name": "Mahealane",
+          "url": "https://open.spotify.com/artist/5MIIsfUJhLH8TzJyTGCCq5"
+        },
+        {
+          "name": "PRNDL",
+          "url": "https://open.spotify.com/artist/7lSHLl0pD4rZ1vrBZ0yVPU"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Kick Snare Cat",
+      "url": "https://open.spotify.com/track/2JFpgWOy29AVCrGtUrVhNM"
+    },
+    {
       "added_at": "2022-04-15 04:01:00",
       "album": {
         "name": "Inner Peace",
@@ -967,6 +931,22 @@
       "duration_ms": 186666,
       "name": "Inner Peace",
       "url": "https://open.spotify.com/track/0EncdyFKNletEI25jFT3Ao"
+    },
+    {
+      "added_at": "2022-05-20 04:01:00",
+      "album": {
+        "name": "SAMURAI",
+        "url": "https://open.spotify.com/album/5QbYqorcvgyLIGjKcsm02e"
+      },
+      "artists": [
+        {
+          "name": "Jazztronik",
+          "url": "https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM"
+        }
+      ],
+      "duration_ms": 716744,
+      "name": "SAMURAI - 2022 version",
+      "url": "https://open.spotify.com/track/3lr6p7ELCMXMfxGJgh3FBu"
     },
     {
       "added_at": "2021-01-29 05:01:00",
@@ -999,6 +979,26 @@
       "duration_ms": 183894,
       "name": "Vacuum Lessons",
       "url": "https://open.spotify.com/track/5QwPQLZIG0RwNn1NwiWskp"
+    },
+    {
+      "added_at": "2022-07-05 15:03:47",
+      "album": {
+        "name": "Galilean Moons",
+        "url": "https://open.spotify.com/album/4ECKQXhNcQJBP3iFTBWsHe"
+      },
+      "artists": [
+        {
+          "name": "Daylight Robbery!",
+          "url": "https://open.spotify.com/artist/4iSyPXTjEjLTgM08lsnC0O"
+        },
+        {
+          "name": "Benjamin Furman",
+          "url": "https://open.spotify.com/artist/1Iqi4vGZ1YDxUn9oAqqxXH"
+        }
+      ],
+      "duration_ms": 242506,
+      "name": "Galilean Moons",
+      "url": "https://open.spotify.com/track/114T0Xj3B0erxZNU8zmhKQ"
     },
     {
       "added_at": "2021-09-24 04:02:00",
@@ -1109,22 +1109,6 @@
       "url": "https://open.spotify.com/track/1pPJdlrXGvyXJSLZ8jHhnK"
     },
     {
-      "added_at": "2021-12-10 05:01:00",
-      "album": {
-        "name": "Dribble",
-        "url": "https://open.spotify.com/album/6oTehHEgaJ9YXQcKH0miuc"
-      },
-      "artists": [
-        {
-          "name": "Anomalie",
-          "url": "https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z"
-        }
-      ],
-      "duration_ms": 210572,
-      "name": "Dribble",
-      "url": "https://open.spotify.com/track/3HEJptfJ3taABLi2klHspp"
-    },
-    {
       "added_at": "2022-02-11 19:55:21",
       "album": {
         "name": "Imani",
@@ -1143,6 +1127,22 @@
       "duration_ms": 117987,
       "name": "Imani",
       "url": "https://open.spotify.com/track/7gmBN587F9l6jUfcXnqGuq"
+    },
+    {
+      "added_at": "2021-12-10 05:01:00",
+      "album": {
+        "name": "Dribble",
+        "url": "https://open.spotify.com/album/6oTehHEgaJ9YXQcKH0miuc"
+      },
+      "artists": [
+        {
+          "name": "Anomalie",
+          "url": "https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z"
+        }
+      ],
+      "duration_ms": 210572,
+      "name": "Dribble",
+      "url": "https://open.spotify.com/track/3HEJptfJ3taABLi2klHspp"
     },
     {
       "added_at": "2021-05-07 04:01:00",
@@ -1221,26 +1221,6 @@
       "url": "https://open.spotify.com/track/4kyzWwDs6Pumurfu3fIM01"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Hummingbird",
-        "url": "https://open.spotify.com/album/4s1FfyvuF0u8WntCqgTdn8"
-      },
-      "artists": [
-        {
-          "name": "Anomalie",
-          "url": "https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z"
-        },
-        {
-          "name": "Bad Snacks",
-          "url": "https://open.spotify.com/artist/5gZDpKtrxDf0ULvDuhLMZy"
-        }
-      ],
-      "duration_ms": 196112,
-      "name": "Hummingbird",
-      "url": "https://open.spotify.com/track/4I0KjYxuQtNov6MHuuL6zt"
-    },
-    {
       "added_at": "2021-02-19 05:01:00",
       "album": {
         "name": "PPL -PingPongLounge-",
@@ -1301,6 +1281,30 @@
       "url": "https://open.spotify.com/track/0e769kt6Sk1QMKZdeveyKx"
     },
     {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Uncertain",
+        "url": "https://open.spotify.com/album/516YKC5Jgn0oki21nZ7CFP"
+      },
+      "artists": [
+        {
+          "name": "Nico Harris",
+          "url": "https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM"
+        },
+        {
+          "name": "anu",
+          "url": "https://open.spotify.com/artist/6xp40lYtDiJtBYtlJQAyQH"
+        },
+        {
+          "name": "elmo",
+          "url": "https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f"
+        }
+      ],
+      "duration_ms": 191153,
+      "name": "Uncertain",
+      "url": "https://open.spotify.com/track/50abRl5pPBumaUeQsafM8j"
+    },
+    {
       "added_at": "2022-01-14 05:01:00",
       "album": {
         "name": "Morse Code",
@@ -1341,6 +1345,26 @@
       "url": "https://open.spotify.com/track/5CpLMTxOyxmOHFEKg1o3Fn"
     },
     {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Hummingbird",
+        "url": "https://open.spotify.com/album/4s1FfyvuF0u8WntCqgTdn8"
+      },
+      "artists": [
+        {
+          "name": "Anomalie",
+          "url": "https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z"
+        },
+        {
+          "name": "Bad Snacks",
+          "url": "https://open.spotify.com/artist/5gZDpKtrxDf0ULvDuhLMZy"
+        }
+      ],
+      "duration_ms": 196112,
+      "name": "Hummingbird",
+      "url": "https://open.spotify.com/track/4I0KjYxuQtNov6MHuuL6zt"
+    },
+    {
       "added_at": "2022-07-29 04:02:00",
       "album": {
         "name": "Peaks (Remixed)",
@@ -1359,30 +1383,6 @@
       "duration_ms": 310573,
       "name": "When We Could Dance Together - Sampology Remix",
       "url": "https://open.spotify.com/track/73qpF707HUM9MSe4PtUhGp"
-    },
-    {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Uncertain",
-        "url": "https://open.spotify.com/album/516YKC5Jgn0oki21nZ7CFP"
-      },
-      "artists": [
-        {
-          "name": "Nico Harris",
-          "url": "https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM"
-        },
-        {
-          "name": "anu",
-          "url": "https://open.spotify.com/artist/6xp40lYtDiJtBYtlJQAyQH"
-        },
-        {
-          "name": "elmo",
-          "url": "https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f"
-        }
-      ],
-      "duration_ms": 191153,
-      "name": "Uncertain",
-      "url": "https://open.spotify.com/track/50abRl5pPBumaUeQsafM8j"
     },
     {
       "added_at": "2021-09-24 04:02:00",
@@ -1509,22 +1509,6 @@
       "url": "https://open.spotify.com/track/1RSVmoikDpX0PtpxNGXxyF"
     },
     {
-      "added_at": "2021-03-05 05:00:00",
-      "album": {
-        "name": "Sight Spring",
-        "url": "https://open.spotify.com/album/7udlO1K6vo405Khe1w8ow0"
-      },
-      "artists": [
-        {
-          "name": "Momocurly",
-          "url": "https://open.spotify.com/artist/5SXAHP99IZr1mJHv434mxJ"
-        }
-      ],
-      "duration_ms": 282577,
-      "name": "Sight Spring",
-      "url": "https://open.spotify.com/track/1Y5iIqTBVLmR2CXzeYlEda"
-    },
-    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "Database",
@@ -1597,24 +1581,36 @@
       "url": "https://open.spotify.com/track/1G838EXGqWaTAo3DrwsZkb"
     },
     {
-      "added_at": "2022-08-08 13:44:11",
+      "added_at": "2021-03-05 05:00:00",
       "album": {
-        "name": "Cruiserweight",
-        "url": "https://open.spotify.com/album/708Vmp9rYSKjCsUl4qWL2j"
+        "name": "Sight Spring",
+        "url": "https://open.spotify.com/album/7udlO1K6vo405Khe1w8ow0"
       },
       "artists": [
         {
-          "name": "Marcus Alan Ward",
-          "url": "https://open.spotify.com/artist/7vaVHucaokI1K9NDZUqcB2"
-        },
-        {
-          "name": "Nathan-Paul",
-          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
+          "name": "Momocurly",
+          "url": "https://open.spotify.com/artist/5SXAHP99IZr1mJHv434mxJ"
         }
       ],
-      "duration_ms": 131006,
-      "name": "Lift Off For AJ",
-      "url": "https://open.spotify.com/track/60DBYLqdLMqF3x7FS0yL7K"
+      "duration_ms": 282577,
+      "name": "Sight Spring",
+      "url": "https://open.spotify.com/track/1Y5iIqTBVLmR2CXzeYlEda"
+    },
+    {
+      "added_at": "2021-06-18 04:01:00",
+      "album": {
+        "name": "Tomorrow 1972",
+        "url": "https://open.spotify.com/album/5iVtMJKymmpDmi0CerLAKG"
+      },
+      "artists": [
+        {
+          "name": "Dosh",
+          "url": "https://open.spotify.com/artist/1DLrhgKEsP9M64oMmboEPz"
+        }
+      ],
+      "duration_ms": 371029,
+      "name": "If U Strike Me Down",
+      "url": "https://open.spotify.com/track/2zvvOFRIBql3NfIO9hWNyk"
     },
     {
       "added_at": "2022-03-18 05:00:00",

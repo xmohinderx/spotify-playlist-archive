@@ -4,7 +4,7 @@
 
 > Discover new music while you game.
 
-197 songs - 9 hr 49 min - [published](https://open.spotify.com/playlist/1WIaiR237xVcOz8MRS6Z3O)
+198 songs - 9 hr 52 min - [published](https://open.spotify.com/playlist/1WIaiR237xVcOz8MRS6Z3O)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Jupiter & Mars](https://open.spotify.com/track/1BTECTa3NituN8LqXjrw2B) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Jupiter & Mars](https://open.spotify.com/album/6IgkZ5qys4BMo6X1iFYIBU) | 3:16 | 2022-05-09 |  |
 | [Just The Same](https://open.spotify.com/track/4u2wYkQG7mQ4X5YcMiO6fG) | [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Just The Same](https://open.spotify.com/album/2ZlWTluwYnO794BCoymfJa) | 2:45 | 2022-05-11 |  |
 | [KAMEHAMEHA](https://open.spotify.com/track/1pGSJrxTyGiXZZ4FAUvV5p) | [Tyler Thomas](https://open.spotify.com/artist/5xAFZrdnSXmEnHPLfkxJsa) | [KAMEHAMEHA](https://open.spotify.com/album/4EUXHUWrf5xWhp1ckH3ZHm) | 3:52 | 2022-05-02 |  |
+| [KEEP ME ON](https://open.spotify.com/track/1WVvkjv1sjIMjfQiJ0SEWX) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5) | [KEEP ME ON](https://open.spotify.com/album/34MmE5vPRhNhYEW4A08JR6) | 2:48 | 2022-08-26 |  |
 | [KEEP ME ON](https://open.spotify.com/track/2tfFCQLa6UvsYURo4TdrOo) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5) | [KEEP ME ON](https://open.spotify.com/album/6Q7MkvGia7LzBf5KEHW2XP) | 2:48 | 2022-05-09 | 2022-08-13 |
 | [Kevin](https://open.spotify.com/track/4Eqh4gcgdAda3Dk2H1lbvc) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Kevin](https://open.spotify.com/album/4PW8SFTfPr3qyvG2DAQGdC) | 3:10 | 2022-07-19 |  |
 | [Kick Back \(feat\. Matt from Matt and Kim\)](https://open.spotify.com/track/7mMimQjKOCCNUYgyCMwOwA) | [Taylor Bennett](https://open.spotify.com/artist/6CqjoQyGZlnhnq5gAUz92c), [Matt and Kim](https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1) | [Coming of Age](https://open.spotify.com/album/1ECVICmYrUie6EIuhvSuWm) | 3:46 | 2022-05-09 | 2022-07-29 |
@@ -203,7 +204,7 @@
 | [WILM](https://open.spotify.com/track/70Yu7ObPPPTQKpSNTOsg3E) | [350](https://open.spotify.com/artist/7tLS8BRv5KP3jPwm3KdsPl), [YGTUT](https://open.spotify.com/artist/5rOkxO8Va1CnXhF7nrHMrU) | [WILM](https://open.spotify.com/album/1i6xbqTcRfkcHblIFVBNPn) | 3:16 | 2022-05-02 |  |
 | [Woah](https://open.spotify.com/track/7ovsrGkfcZhLuXPtN4Z2qC) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [Woah](https://open.spotify.com/album/3Emj30Utjj4Y94qjvU21gt) | 2:55 | 2022-05-02 |  |
 | [Wristbands](https://open.spotify.com/track/0nCX0RRS63xo9jWbG3ShwC) | [Forever Golden](https://open.spotify.com/artist/7n8QZ9qkKsbTmmTJcCpx5g) | [Gold](https://open.spotify.com/album/3MUCYrznNDTuF4Qcu9ON7T) | 2:39 | 2022-05-02 |  |
-| [Young Sylvan Back](https://open.spotify.com/track/5efVqaEXb0izCck7z9OLNc) | [Sylvan LaCue](https://open.spotify.com/artist/0JuDxOwz1e3Wx05t8e3AT3) | [Young Sylvan Ep\. 1](https://open.spotify.com/album/4crKCcXX4VvbRBIV2Jio8V) | 2:03 | 2022-05-09 |  |
+| [Young Sylvan Back](https://open.spotify.com/track/5efVqaEXb0izCck7z9OLNc) | [Sylvan LaCue](https://open.spotify.com/artist/0JuDxOwz1e3Wx05t8e3AT3) | [Young Sylvan Ep\. 1](https://open.spotify.com/album/4crKCcXX4VvbRBIV2Jio8V) | 2:03 | 2022-05-09 | 2022-09-02 |
 | [Ziploc](https://open.spotify.com/track/68jIu9J9gDgEfOUgzVQcBK) | [Isaac Zale](https://open.spotify.com/artist/6RPLfI95V4juSTtpBumiWk), [Chuuwee](https://open.spotify.com/artist/6ZBnvCszokLW4YHZ50uHY8) | [Think Good Thoughts](https://open.spotify.com/album/6qtWEyoAeTopjjhVwF9U4X) | 3:34 | 2022-05-02 |  |
 
 \*This playlist was first scraped on 2022-05-09. Prior content cannot be recovered.

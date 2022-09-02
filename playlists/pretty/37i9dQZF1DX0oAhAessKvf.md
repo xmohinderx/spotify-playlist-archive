@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 
 > La calle temblaba con los primeros pasos del reggaetón\. Foto: El General
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,188 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,278 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,13 +48,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 38 | [Pegate](https://open.spotify.com/track/7908xQNM5logiaITbmCM9a) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [De Nuevos a Viejos](https://open.spotify.com/album/79kxc8g4YhMJ6jwNyQ8Deq) | 2:48 |
 | 39 | [Ansias](https://open.spotify.com/track/4trY8SoftYUaIjJgS0qvXJ) | [Ledesma](https://open.spotify.com/artist/6xlXWDWOnEBcK2u8urv69Z) | [Fuera de lo Comun](https://open.spotify.com/album/6bikXQQ5LBHm7qeFk5sTQk) | 3:55 |
 | 40 | [Wild Gilbert](https://open.spotify.com/track/5PKdhX6Gvqg7tnV6xB4MMp) | [Lovindeer](https://open.spotify.com/artist/2BHBhGqqA96TeKQB3Hrzcx) | [Jamaica Land of the People](https://open.spotify.com/album/2LOKPTo1YbmstOsqGURysV) | 6:16 |
-| 41 | [Playero Live Radio Version](https://open.spotify.com/track/2FUpJIirJxB2NLkmqDucCd) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Don Chezina](https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt), [Kalil](https://open.spotify.com/artist/3giLiOpNJX75bzEP8QEzNn), [Mexicano](https://open.spotify.com/artist/62U9TXZx2SxvIoxXHtHlzR), [Rey Pirin](https://open.spotify.com/artist/1ViM1nVwtJmRm5CSXyU0U9) | [Playero Dj Live](https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig) | 4:39 |
-| 42 | [Noche Enferma](https://open.spotify.com/track/3LnOseGJ1C8xj1mHBNRCFU) | [Nando Boom](https://open.spotify.com/artist/0JdvRpul2MbuhX7k0FUkko) | [Reggaechanga](https://open.spotify.com/album/0b3CmcVQ76K9JQwgskon2G) | 3:47 |
-| 43 | [Ella Se Arrebata](https://open.spotify.com/track/0oQJSzRRp9K5qbrSuzqACz) | [Latin Fresh](https://open.spotify.com/artist/1NRrKr08wLdYUdSOnNDs7M) | [Tranquilo](https://open.spotify.com/album/3VWuyqHFsqjlV20zjKvE9W) | 3:32 |
+| 41 | [Ella Se Arrebata](https://open.spotify.com/track/0oQJSzRRp9K5qbrSuzqACz) | [Latin Fresh](https://open.spotify.com/artist/1NRrKr08wLdYUdSOnNDs7M) | [Tranquilo](https://open.spotify.com/album/3VWuyqHFsqjlV20zjKvE9W) | 3:32 |
+| 42 | [Playero Live Radio Version](https://open.spotify.com/track/2FUpJIirJxB2NLkmqDucCd) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Don Chezina](https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt), [Kalil](https://open.spotify.com/artist/3giLiOpNJX75bzEP8QEzNn), [Mexicano](https://open.spotify.com/artist/62U9TXZx2SxvIoxXHtHlzR), [Rey Pirin](https://open.spotify.com/artist/1ViM1nVwtJmRm5CSXyU0U9) | [Playero Dj Live](https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig) | 4:39 |
+| 43 | [Noche Enferma](https://open.spotify.com/track/3LnOseGJ1C8xj1mHBNRCFU) | [Nando Boom](https://open.spotify.com/artist/0JdvRpul2MbuhX7k0FUkko) | [Reggaechanga](https://open.spotify.com/album/0b3CmcVQ76K9JQwgskon2G) | 3:47 |
 | 44 | [Soy El Mas Sensual](https://open.spotify.com/track/682nWbALzgmrOYovxI0Me1) | [Renato](https://open.spotify.com/artist/6VBd6EXDkDR7D9UjtEUtFn) | [Soy El Mas Sensual \- Renato Classics](https://open.spotify.com/album/4MfqddoCTSJHreuI2Fd57Q) | 3:30 |
 | 45 | [Perros y Gatas](https://open.spotify.com/track/3wS1njCO85Eo9iQ6gs7740) | [Alberto Stylee](https://open.spotify.com/artist/5mgqYTU6dhKlEdi7DOy4uU) | [Exitos](https://open.spotify.com/album/2TfyOwS5WUBjviqlduUbzZ) | 3:45 |
-| 46 | [Chin A Chin](https://open.spotify.com/track/6HCqz9dMD3WWBArOSnyiDK) | [Ledesma](https://open.spotify.com/artist/6xlXWDWOnEBcK2u8urv69Z) | [Fuera de lo Comun](https://open.spotify.com/album/6bikXQQ5LBHm7qeFk5sTQk) | 3:49 |
-| 47 | [Maniatica Sexual](https://open.spotify.com/track/2zzklcpDAS1ryizQj83uRy) | [Lito y Polaco](https://open.spotify.com/artist/1CLPoZyoqBo2z444JtmBAF) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:57 |
+| 46 | [Maniatica Sexual](https://open.spotify.com/track/2zzklcpDAS1ryizQj83uRy) | [Lito y Polaco](https://open.spotify.com/artist/1CLPoZyoqBo2z444JtmBAF) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:57 |
+| 47 | [Chin A Chin](https://open.spotify.com/track/6HCqz9dMD3WWBArOSnyiDK) | [Ledesma](https://open.spotify.com/artist/6xlXWDWOnEBcK2u8urv69Z) | [Fuera de lo Comun](https://open.spotify.com/album/6bikXQQ5LBHm7qeFk5sTQk) | 3:49 |
 | 48 | [Dónde Están las Girlas](https://open.spotify.com/track/2rIdnCi7aa86ce2LRcEE6j) | [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn) | [Game Over](https://open.spotify.com/album/7vQN5aljYXJcSD8Mq20NtS) | 3:32 |
 | 49 | [Puerto Rico Todos Quieren Fumar](https://open.spotify.com/track/1g16JY82gekUlNhmFzhvbp) | [Grupo Nizze](https://open.spotify.com/artist/3oD8OgngJolwwsVom3d1vm) | [Playero 38 Special Edition](https://open.spotify.com/album/6gxcZ8M7Hpr5addTNfTqha) | 2:21 |
 | 50 | [Sientela](https://open.spotify.com/track/1YzG316tvhG7QereFQuq1A) | [Speedy](https://open.spotify.com/artist/5DMTLrpmTZO8GLDZ5Je1yT) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 1:54 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 65 | [Liza Love](https://open.spotify.com/track/3Ct22HVsc9BMni7XKUIaKR) | [Frankie Boy](https://open.spotify.com/artist/7qoo1AvP85FXmN8cEwnBqN) | [Playero Dj Live](https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig) | 1:41 |
 | 66 | [Dem Bow \(Ellos Venian\-Son Bowl\)](https://open.spotify.com/track/3gpTpl4i5rjnpAD0TDf6ZN) | [Nando Boom](https://open.spotify.com/artist/0JdvRpul2MbuhX7k0FUkko) | [House Merengue / Rap](https://open.spotify.com/album/7G8yBokZdxJIFo0n9JySYq) | 3:34 |
 | 67 | [Reggae Respect \- Live](https://open.spotify.com/track/6RyawEEdxTWMFtwRBpfFV3) | [The Noise](https://open.spotify.com/artist/0xbdsXms9xTAtNmROodyy8), [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH), [Gran Omar](https://open.spotify.com/artist/0Fb7RqTb9p5NCJx5yOTKJe) | [Live](https://open.spotify.com/album/1llS73lFiGdCx72C9xOCfQ) | 2:13 |
-| 68 | [Por Mi Reggae Muero](https://open.spotify.com/track/4FoEobQ4dNAMzDcIGkdEHF) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 3:36 |
-| 69 | [Tra, Tra](https://open.spotify.com/track/2xYB15HL6IjFSXnNTFyCLb) | [Don Chezina](https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt) | [Mi Trayectoria](https://open.spotify.com/album/05SjZ7u69wnd12tDLo7x2v) | 3:27 |
+| 68 | [Tra, Tra](https://open.spotify.com/track/2xYB15HL6IjFSXnNTFyCLb) | [Don Chezina](https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt) | [Mi Trayectoria](https://open.spotify.com/album/05SjZ7u69wnd12tDLo7x2v) | 3:27 |
+| 69 | [Por Mi Reggae Muero](https://open.spotify.com/track/4FoEobQ4dNAMzDcIGkdEHF) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 3:36 |
 | 70 | [Playero 38](https://open.spotify.com/track/1IU6DEctXXQhBU1fH0Vcbh) | [Maicol y Manuel](https://open.spotify.com/artist/6P3WZjRn6nYJ7xIpCZsxTZ) | [Como en los Tiempos de Antes](https://open.spotify.com/album/2pPLwkTVYRdJvHIll0HgSa) | 3:17 |
 | 71 | [Viernes 13 \- Parte 1](https://open.spotify.com/track/1oOWSnh9KTsYjBpnaC4NIB) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6), [Jossie Esteban](https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H) | [Dos Tiempos Bajo Un Mismo Tono](https://open.spotify.com/album/4tVXoOGhwwkPshssDvQDMj) | 5:06 |
 | 72 | [Camion Lleno de Gun](https://open.spotify.com/track/2sHUhHm3iNuBC4JhbYbt0N) | [Jam & Suppose](https://open.spotify.com/artist/42iAiw7Kn6Ji3xIeDzxJ0q) | [Ragga Heros, Vol\. 1](https://open.spotify.com/album/3XaS7Nc8sf2l3TzWnSFng1) | 3:34 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 74 | [El Marciano](https://open.spotify.com/track/0JAlJEXX3yYNQ5bNFH7yN0) | [Cocoman](https://open.spotify.com/artist/2X7JES916nMn3KrTj2nmW2) | [Coleccion Salsa Discotheque \- Vol\. 1](https://open.spotify.com/album/63SHFLiJKJeMQ4KoXNlLxH) | 5:36 |
 | 75 | [Marijuana](https://open.spotify.com/track/0fqj5uqf5iYvEFo6gyM1Ju) | [Baby J](https://open.spotify.com/artist/5yjQKQYt12QjWzQK62T8ov) | [Prime Underground 1](https://open.spotify.com/album/3UGPRfGaIVrdMhqWZYSCuv) | 2:51 |
 
-Snapshot ID: `MTY0MDAxOTc0NSwwMDAwMDAwMGI5ZWMyMjM3YmJiYWVmZmI5NzdmM2NkYzc1ZTA2MWRi`
+Snapshot ID: `MTY0MDAxOTc0NSwwMDAwMDAwMDkwMDMxYjIzYjZmYjFlZWY0YzJmMmZlZjU3NDYxMjQ0`

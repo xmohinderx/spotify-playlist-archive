@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 
 > The early pioneers and current favorites in Southern Rock\.  Cover:  The Godfather...Charlie Daniels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,691 likes - 106 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,810 likes - 106 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 27 | [Fooled Around And Fell In Love](https://open.spotify.com/track/2hE5Lm5XOHR4t3xlhIFauP) | [Elvin Bishop](https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11) | [Struttin' My Stuff](https://open.spotify.com/album/2z2y977JvwU1rbnVO97RmY) | 4:36 |
 | 28 | [Saturday Night Special](https://open.spotify.com/track/0ZQmpf5gk4k5VMopcAtyAc) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Nuthin' Fancy](https://open.spotify.com/album/6SIQDipZD7xtkwnlS5FvQx) | 5:09 |
 | 29 | [Statesboro Blues \- Live At Fillmore East, March 13, 1971](https://open.spotify.com/track/1BnfAYVesByA18sA9EAGiI) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [At Fillmore East](https://open.spotify.com/album/0Y5Wlv2OJKaW0uDJ5HnUfy) | 4:19 |
-| 30 | [Keep Your Hands to Yourself](https://open.spotify.com/track/4MgGdPmbySSVLUPBxzQ7mx) | [The Georgia Satellites](https://open.spotify.com/artist/2hnzQ6eCFkxUIPsVcsdj8A) | [Rhino Hi\-Five: The Georgia Satellites](https://open.spotify.com/album/2V1agf5NiLNSziJTRSTDcS) | 3:25 |
+| 30 | [Keep Your Hands to Yourself](https://open.spotify.com/track/5tORtBzHUAnNrIw5Ql3kHZ) | [The Georgia Satellites](https://open.spotify.com/artist/2hnzQ6eCFkxUIPsVcsdj8A) | [Georgia Satellites](https://open.spotify.com/album/0obHqsEpkaCWGWGjxcdXel) | 3:25 |
 | 31 | [Oh, Atlanta](https://open.spotify.com/track/1PraqvAnggduSq9zCTOSTF) | [Little Feat](https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S) | [Feats Don't Fail Me Now](https://open.spotify.com/album/5nflfddG6Tlrt2YiZhXJAD) | 3:29 |
 | 32 | [Third Rate Romance \- Remastered](https://open.spotify.com/track/1oRvLqwJowH9JU0uO1iVzA) | [Amazing Rhythm Aces](https://open.spotify.com/artist/5wpS6LUdQYMoAreKITVtrH) | [Stacked Deck \(Remastered\)](https://open.spotify.com/album/5ZfcBQTytv6PBbl0Q68Qg9) | 3:21 |
 | 33 | [Homesick](https://open.spotify.com/track/1gA9l5loCNn8fOFIzXb6T2) | [Atlanta Rhythm Section](https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw) | [Quinella](https://open.spotify.com/album/2J54cdWZ2zZOsk3tQW8zdN) | 4:13 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 105 | [Searchin' for a Rainbow](https://open.spotify.com/track/5zS2DXR0XKNsVQSCHGEhx2) | [The Marshall Tucker Band](https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd) | [Greatest Hits](https://open.spotify.com/album/1fxEYNwdEzlAMOIzpdXy5w) | 3:05 |
 | 106 | [Come On](https://open.spotify.com/track/4sGtV91CRzmMqVCwWPdPuM) | [Southern Bitch](https://open.spotify.com/artist/5zpWZ217cRQHwQlSZSdKnR) | [Snake in the Grass](https://open.spotify.com/album/6tq5yl940mgDAIEdkZe98J) | 4:03 |
 
-Snapshot ID: `MTYwNDQzMDA3MiwwMDAwMDAwMGIyNzA3ZGMxZmM1Nzc1MzFiNGY1MjRiYThjODNiMzY3`
+Snapshot ID: `MTYwNDQzMDA3MiwwMDAwMDAwMGMzYzVjZGMyMjA0MTBmNDEwYjczNzlkYTgzNjk5MjMy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 
 > Cherish the day with these low\-key favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,113 likes - 82 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,966 likes - 82 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,22 +58,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 | 48 | [Resentment](https://open.spotify.com/track/2Dms8axOrrjXETwVwtvBF5) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [History Of A Feeling](https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt) | 2:53 |
 | 49 | [Every Time I Hear That Song](https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By The Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:01 |
 | 50 | [Part of Me](https://open.spotify.com/track/5TA2vNVGdgTdNyNNeq52e0) | [Good Old War](https://open.spotify.com/artist/33szNKNcVX8x0jl8X7hxHL) | [Part of Me](https://open.spotify.com/album/6gvcXUbaSTH7qqHxPBkvb2) | 3:02 |
-| 51 | [Always Be My Baby \- Recorded at Sound Stage Nashville](https://open.spotify.com/track/3QSnkhUvoPS5QogonimPfk) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Spotify Singles](https://open.spotify.com/album/6KjX30XbUmMpQoek2DEHie) | 4:14 |
-| 52 | [Lean on Me](https://open.spotify.com/track/3nluW0s91ld5iOjW9kE5Kg) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Lean on Me](https://open.spotify.com/album/5p1GT6Wdd1DERIG5oTTACX) | 3:04 |
-| 53 | [Nothing’s Gonna Happen](https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 3:36 |
-| 54 | [Silence \- Acoustic](https://open.spotify.com/track/3AweMMF3G598hMsjto9Vtg) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Silence \(Acoustic\)](https://open.spotify.com/album/3GCiwl66wCiCt68MVCBp65) | 3:41 |
+| 51 | [Lean on Me](https://open.spotify.com/track/3nluW0s91ld5iOjW9kE5Kg) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Lean on Me](https://open.spotify.com/album/5p1GT6Wdd1DERIG5oTTACX) | 3:04 |
+| 52 | [Always Be My Baby \- Recorded at Sound Stage Nashville](https://open.spotify.com/track/3QSnkhUvoPS5QogonimPfk) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Spotify Singles](https://open.spotify.com/album/6KjX30XbUmMpQoek2DEHie) | 4:14 |
+| 53 | [Silence \- Acoustic](https://open.spotify.com/track/3AweMMF3G598hMsjto9Vtg) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Silence \(Acoustic\)](https://open.spotify.com/album/3GCiwl66wCiCt68MVCBp65) | 3:41 |
+| 54 | [Nothing’s Gonna Happen](https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 3:36 |
 | 55 | [Sunscreen](https://open.spotify.com/track/2mBP9IsENazdoJ9ep5iR8i) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [The Closest Thing to Home](https://open.spotify.com/album/7uhQv7Y3Po14oCgtrL7W3N) | 2:58 |
 | 56 | [Fine](https://open.spotify.com/track/2elxgOyiNPM0QYjixON7cn) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Fine](https://open.spotify.com/album/0cxiBuEGEh9pUnmQzWZAu6) | 3:25 |
 | 57 | [I Love The Rain The Most](https://open.spotify.com/track/63ogaJyLqKCR9BUBzmtnIG) | [Joe Purdy](https://open.spotify.com/artist/3MCxkaTJmYKH0FZbe3rYxa) | [Julie Blue](https://open.spotify.com/album/6uxp18VG6vFW2TmjE0nrPN) | 4:38 |
 | 58 | [Boston](https://open.spotify.com/track/51qWzz8tfP9AK7q4b9JxP8) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Doves & Ravens](https://open.spotify.com/album/64KvdiGpqwb0Lu1Zn4AcSf) | 4:33 |
 | 59 | [To Live a Life](https://open.spotify.com/track/4K00AQLpOhGUdDfDINDfYL) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Ruins](https://open.spotify.com/album/5l2Ts5Hd4BN2O28rZksznR) | 3:12 |
-| 60 | [Love And Happiness](https://open.spotify.com/track/5fMInRpERS8jP2zPz6QyUI) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [S.O.S.: Save Our Soul](https://open.spotify.com/album/6vk5kBQsE8SQzv3FxG3TWu) | 4:38 |
+| 60 | [Full Circle](https://open.spotify.com/track/2DtYtc9nMEdyjtJsT1ARqt) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Prospect](https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d) | 3:54 |
 | 61 | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY) | 3:48 |
-| 62 | [Full Circle](https://open.spotify.com/track/2DtYtc9nMEdyjtJsT1ARqt) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Prospect](https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d) | 3:54 |
+| 62 | [Love And Happiness](https://open.spotify.com/track/5fMInRpERS8jP2zPz6QyUI) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [S.O.S.: Save Our Soul](https://open.spotify.com/album/6vk5kBQsE8SQzv3FxG3TWu) | 4:38 |
 | 63 | [Runaway Horses \(feat\. Phoebe Bridgers\) \- Abridged](https://open.spotify.com/track/3PeCWDczrGqdD1E3mbok2X) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Pressure Machine \(Abridged\)](https://open.spotify.com/album/7j8a2kSxAtenkXPim6mwUB) | 3:24 |
-| 64 | [Cool Girl](https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Cool Girl](https://open.spotify.com/album/0TCc51KQYlnJ6WuFOgN6hI) | 3:19 |
-| 65 | [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 |
-| 66 | [Need You Now \- Acoustic](https://open.spotify.com/track/1MIpU2U1kUInGTpaCYuVKs) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Same Kind Of Different \(Acoustic\)](https://open.spotify.com/album/6EWejNtoOEYMzQwKIpctti) | 3:23 |
+| 64 | [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 |
+| 65 | [Need You Now \- Acoustic](https://open.spotify.com/track/1MIpU2U1kUInGTpaCYuVKs) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Same Kind Of Different \(Acoustic\)](https://open.spotify.com/album/6EWejNtoOEYMzQwKIpctti) | 3:23 |
+| 66 | [Cool Girl](https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Cool Girl](https://open.spotify.com/album/0TCc51KQYlnJ6WuFOgN6hI) | 3:19 |
 | 67 | [Caroline](https://open.spotify.com/track/0laEXE6mKdErCC67yhsHaO) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Mipso](https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM) | 3:35 |
 | 68 | [GPS \(w/ Felly\)](https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw), [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [GPS \(w/ Felly\)](https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP) | 2:48 |
 | 69 | [Puppy and a Truck](https://open.spotify.com/track/3yN6F2vOf3ypKv9kr8sDdm) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Puppy and a Truck](https://open.spotify.com/album/358Blro4SuMHGHYnH1Tgbl) | 3:11 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 | 81 | [System](https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life](https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2) | 3:53 |
 | 82 | [Concrete Jungle \- Acoustic](https://open.spotify.com/track/6RGkwhDLaHxWWXY0jn1jFv) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Concrete Jungle \(Acoustic\)](https://open.spotify.com/album/2UMY8zdbiUZ4gxoHrtj44Q) | 2:40 |
 
-Snapshot ID: `MTY0ODA3MTA4MSwwMDAwMDAwMDU0ZWZkOWY2MWVhNDI3Y2QzNTQ2M2QzYmJkN2NkOWRj`
+Snapshot ID: `MTY0ODA3MTA4MSwwMDAwMDAwMGYxMTM3NjM4YWE1ZTE1OGZkZGUzNTM0MjUxNGU3NDVm`

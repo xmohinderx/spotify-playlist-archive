@@ -1,12 +1,12 @@
 {
   "description": "pov: you're crying and dancing at the same time. ",
-  "num_followers": 165708,
+  "num_followers": 165998,
   "original_name": "llorando en el club\ud83e\udd72",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkyOTY0OSwwMDAwMDAwMGNhMzkzYzkxOWY3YTExNGMzZjk5NzU4ZDI0OTllNDA4",
+  "snapshot_id": "MTY2MTkyOTY0OSwwMDAwMDAwMDczNWRmMTdjM2MxYTlhZjFhNDAxOGRiNGI0OWFhOWI3",
   "tracks": [
     {
       "added_at": "2022-08-31 07:07:29",
@@ -351,26 +351,6 @@
     {
       "added_at": "2022-08-31 07:07:29",
       "album": {
-        "name": "Botella Tras Botella",
-        "url": "https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB"
-      },
-      "artists": [
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Botella Tras Botella",
-      "url": "https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK"
-    },
-    {
-      "added_at": "2022-08-31 07:07:29",
-      "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 277106,
       "name": "UN PESO",
       "url": "https://open.spotify.com/track/7hynhxDoDpgMIV12JuVtNa"
+    },
+    {
+      "added_at": "2022-08-31 07:07:29",
+      "album": {
+        "name": "Botella Tras Botella",
+        "url": "https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Botella Tras Botella",
+      "url": "https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK"
     },
     {
       "added_at": "2022-08-31 07:07:29",

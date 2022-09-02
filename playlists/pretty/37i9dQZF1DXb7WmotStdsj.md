@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 
 > The very best Rai hits\. Cover: Cheb Bello.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,086 likes - 53 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,172 likes - 53 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Nacimos para rodar en el asfalto.
 
-108 songs - 7 hr 17 min - [published](https://open.spotify.com/playlist/4ovE5dvEqCFHC12jjlnh1V)
+110 songs - 7 hr 26 min - [published](https://open.spotify.com/playlist/4ovE5dvEqCFHC12jjlnh1V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Cherry Pie](https://open.spotify.com/track/7LygtNjQ65PSdzVjUnHXQb) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Cherry Pie](https://open.spotify.com/album/4LgsHyufRmmcB1HIqTES19) | 3:21 | 2021-07-02 |  |
 | [Come Out and Play](https://open.spotify.com/track/5AaIIXt2QEgDevuGoDC1je) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash](https://open.spotify.com/album/5SLfrjQtPxbh5Cf1dukV7g) | 3:17 | 2021-07-02 | 2022-07-29 |
 | [Come Out and Play](https://open.spotify.com/track/5JJDu0Z5DKe7mR31MGksSg) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash](https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x) | 3:17 | 2021-07-02 |  |
+| [Cowboys from Hell](https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Cowboys from Hell](https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe) | 4:03 | 2021-07-02 |  |
 | [Cowboys from Hell \- 2003 Remaster](https://open.spotify.com/track/2rI3IDOwtKiELe0cZUg76U) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Rhino Hi\-Five: Pantera](https://open.spotify.com/album/4jfF46nFNSLzEOXTUbobTC) | 4:04 | 2021-07-02 | 2022-07-29 |
 | [Crash Course In Brain Surgery](https://open.spotify.com/track/5y8aD8CDZUv8C605X3J6ha) | [Budgie](https://open.spotify.com/artist/42RbQv212uOjyfIXECLKfR) | [Crash Course In Brain Surgery \(2013 remaster\)](https://open.spotify.com/album/3dEN8nY7ut96GpU1BIhcvu) | 2:39 | 2021-07-02 |  |
 | [Crazy Train](https://open.spotify.com/track/2nKOUDSm0EhVvQWoDyjl27) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [The Essential Ozzy Osbourne](https://open.spotify.com/album/7uRtuOK8vhpFT3G5r8CPMg) | 4:50 | 2021-07-02 | 2022-07-29 |
@@ -46,7 +47,7 @@
 | [Flight of Icarus \- 2015 Remaster](https://open.spotify.com/track/5orSFpEyBcj8ogpOqI4yOQ) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Piece of Mind \(2015 \- Remaster\)](https://open.spotify.com/album/6iVSpex7UohpwPOYZEYmvm) | 3:50 | 2021-07-02 |  |
 | [Future World](https://open.spotify.com/track/7vAwjvJs8YSlHcykJu7nc0) | [Helloween](https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY) | [Keeper of the Seven Keys, Pt\. I \(Expanded Edition\)](https://open.spotify.com/album/2UHFdmz05GmEY0J0ZbuMBp) | 4:03 | 2021-07-02 |  |
 | [Generator](https://open.spotify.com/track/1a42up3NBd91HTCbmYKMq4) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Generator](https://open.spotify.com/album/31CyVs73lB9MrLOTHBeEgr) | 3:22 | 2021-07-02 |  |
-| [Girl Money](https://open.spotify.com/track/79A7CDgqh8SMvTbgA53pIC) | [Kix](https://open.spotify.com/artist/45KpBChrKYWhTlU6N57ofu) | [Hot Wire](https://open.spotify.com/album/1w4WPh0JBQbnrwwes1kgHi) | 4:00 | 2021-07-02 |  |
+| [Girl Money](https://open.spotify.com/track/79A7CDgqh8SMvTbgA53pIC) | [Kix](https://open.spotify.com/artist/45KpBChrKYWhTlU6N57ofu) | [Hot Wire](https://open.spotify.com/album/1w4WPh0JBQbnrwwes1kgHi) | 4:00 | 2021-07-02 | 2022-09-02 |
 | [Heartbreaker](https://open.spotify.com/track/22ML0MuFKfw16WejbxsLOy) | [Pat Benatar](https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV) | [In The Heat Of The Night](https://open.spotify.com/album/3QtcoigGc0KKzE6mVAkFfY) | 3:29 | 2021-07-02 |  |
 | [Here I Go Again](https://open.spotify.com/track/1tQ5TSr1tyeQUbHKBee0jv) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Whitesnake's Greatest Hits](https://open.spotify.com/album/0Z5nu6FcdcWtmzvQ7uK0qJ) | 3:52 | 2021-07-02 | 2022-07-29 |
 | [Here I Go Again \- Radio Mix](https://open.spotify.com/track/6m8FEpCFkSrzhH1W3R2yKU) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Whitesnake \(30th Anniversary Super Deluxe Edition\)](https://open.spotify.com/album/0aaGy4xNDYJ1QLllH7mSNp) | 3:52 | 2021-07-02 |  |
@@ -83,7 +84,8 @@
 | [Rainbow in the Dark](https://open.spotify.com/track/2PpNgmrS9mAyrkRAwn6YPq) | [Dio](https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6) | [Holy Diver](https://open.spotify.com/album/2ivNJLSx8Rbvnsvcn01Yt3) | 4:16 | 2021-07-02 |  |
 | [Rock You Like A Hurricane](https://open.spotify.com/track/58XWGx7KNNkKneHdprcprX) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting](https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C) | 4:12 | 2021-07-02 |  |
 | [Rockin' in the Free World](https://open.spotify.com/track/4Y7fEQ4PAzhlLnLviRw2P4) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Freedom](https://open.spotify.com/album/3uOOKcr91I3Br0Rtmu4zdT) | 4:41 | 2021-07-02 | 2022-07-29 |
-| [Round and Round](https://open.spotify.com/track/0SFS1LxNP5wgnoDA7nGKQu) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Rhino Hi\-Five: Ratt](https://open.spotify.com/album/7Lx0ft6eH3V087cAOPaqnk) | 4:25 | 2021-07-02 |  |
+| [Round and Round](https://open.spotify.com/track/0SFS1LxNP5wgnoDA7nGKQu) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Rhino Hi\-Five: Ratt](https://open.spotify.com/album/7Lx0ft6eH3V087cAOPaqnk) | 4:25 | 2021-07-02 | 2022-09-02 |
+| [Round and Round](https://open.spotify.com/track/5B6Z7NwVqA7W3UFiqBdEJC) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Out of the Cellar](https://open.spotify.com/album/6P3Fqm7z9wr5GeatpVZ5ut) | 4:25 | 2021-07-02 |  |
 | [Roxanne](https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Outlandos D'Amour \(Remastered 2003\)](https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf) | 3:11 | 2021-07-02 |  |
 | [Run to the Hills \- 1998 Remaster](https://open.spotify.com/track/4Z4ZLBzCXSlHSCaxZ3WS7p) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Somewhere Back in Time \(The Best of 1980 \- 1989\)](https://open.spotify.com/album/0SmIkzc7YgxqBV0V5RcbPt) | 3:53 | 2021-07-02 | 2022-07-29 |
 | [Run to the Hills \- 2015 Remaster](https://open.spotify.com/track/0sxYYT48UPkmrDx8p4Hnrl) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Number of the Beast \(2015 \- Remaster\)](https://open.spotify.com/album/33d72N71hl9bXwT4zAcqUy) | 3:53 | 2021-07-02 |  |

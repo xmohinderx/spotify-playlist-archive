@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9235ICuUcIM.md) - [plain]
 
 > A llorar a la llorería.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,042 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,321 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9235ICuUcIM.md) - [plain]
 | 10 | [las consecuencias](https://open.spotify.com/track/0x3M7EQkASM6NQW53mNK9d) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [las consecuencias](https://open.spotify.com/album/2jcKhSAes8tIw5GXH91Ks9) | 3:11 |
 | 11 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 |
 | 12 | [Love In The Dark](https://open.spotify.com/track/7B5Npv8NjjTCzk8PLpU66h) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:45 |
-| 13 | [Un Verano Sin Ti](https://open.spotify.com/track/18HOjcvTVV7W8YzBuOsAPS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:28 |
-| 14 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 |
+| 13 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 |
+| 14 | [Un Verano Sin Ti](https://open.spotify.com/track/18HOjcvTVV7W8YzBuOsAPS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:28 |
 | 15 | [When I Was Your Man](https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:33 |
 | 16 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 |
 | 17 | [Photograph](https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:18 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9235ICuUcIM.md) - [plain]
 | 59 | [Ropa De Bazar](https://open.spotify.com/track/7kWFRZdedr2gtfE8JDumVZ) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Ropa De Bazar](https://open.spotify.com/album/7z9qYJVpdYt9zplriyrrZI) | 3:17 |
 | 60 | [The One That Got Away](https://open.spotify.com/track/6hkOqJ5mE093AQf2lbZnsG) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 |
 
-Snapshot ID: `MTY2MTQ5MDAwMCwwMDAwMDAwMDgzOTQzZDA2ZWE1NDIxMDk2NmU2YzJhOTlmN2ZiYTRm`
+Snapshot ID: `MTY2MTQ5MDAwMCwwMDAwMDAwMDBiMDYwOWRmMzk0ZDI5NTYxMjhkYzQ5ZjM4OTU3NTAy`

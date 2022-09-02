@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 
 > ¡Oi nomás ese cumbión!
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,253 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,421 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 | 52 | [La Monjita Voladora \- Cumbia Sonidera](https://open.spotify.com/track/24zP7HDzOD078cjG0q61i3) | [Grupo Toca Recio](https://open.spotify.com/artist/1j98coEFrGNwVfl7gGMO7u) | [La Monjita Voladora \- Cumbia Sonidera](https://open.spotify.com/album/7HxXxjI6VekYFOUtJL7n2V) | 4:09 |
 | 53 | [El Reo Ausente](https://open.spotify.com/track/3G1MeI4VeHNhDimzvY22V0) | [Nery Pedraza](https://open.spotify.com/artist/2auNLhntCTSNSUhsN0MCQ0), [Los Guraperos de la Cumbia](https://open.spotify.com/artist/2qzwx9X95HrGfehodiubOs) | [Que Te Vaya Bien](https://open.spotify.com/album/5k783HWe7on8tcK6W8jtyG) | 5:52 |
 | 54 | [El Verde De Tus Ojos \- Remix](https://open.spotify.com/track/1Nl4EXAxSulKlbiro793i4) | [Los Yes Yes](https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q) | [Trayectoria](https://open.spotify.com/album/0YtGKnOCOt9IYnHDsuJwQt) | 5:15 |
-| 55 | [Soy Maraquero](https://open.spotify.com/track/1VyoVchWIOMkQ1dbRJVgII) | [Kual](https://open.spotify.com/artist/0MYzX59ADPWfK15pDNZzuo) | [Lo Mas Ka\-Bron Sonidero](https://open.spotify.com/album/1XiYKT5lO5c1bwwTwiiOIA) | 5:00 |
-| 56 | [¡Ay! El Amor](https://open.spotify.com/track/1qwxoareNYzR62kM9iK9Ww) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Amor Andino](https://open.spotify.com/album/0UtZKdJlBaxmdAUNaAm7r8) | 3:33 |
+| 55 | [¡Ay! El Amor](https://open.spotify.com/track/1qwxoareNYzR62kM9iK9Ww) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Amor Andino](https://open.spotify.com/album/0UtZKdJlBaxmdAUNaAm7r8) | 3:33 |
+| 56 | [Soy Maraquero](https://open.spotify.com/track/1VyoVchWIOMkQ1dbRJVgII) | [Kual](https://open.spotify.com/artist/0MYzX59ADPWfK15pDNZzuo) | [Lo Mas Ka\-Bron Sonidero](https://open.spotify.com/album/1XiYKT5lO5c1bwwTwiiOIA) | 5:00 |
 | 57 | [Me Vas A Recordar](https://open.spotify.com/track/4C2vKZ0tciewPr6RrYZ4QD) | [Los Angeles De Charly](https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR) | [La Magia Del Amor](https://open.spotify.com/album/5a8Au4FTsdvCWYV5OnkjzN) | 3:00 |
 | 58 | [La Cumbia Del Garrote](https://open.spotify.com/track/7vDcNALsOZtB6dEuQFLYBY) | [Los Del Garrote](https://open.spotify.com/artist/3Ee2idXHXSI5KHjrRelgOx) | [Los Del Garrote](https://open.spotify.com/album/4dlaQcldX1rZfJGxTj75KX) | 3:17 |
 | 59 | [La Cumbia De La Cerveza](https://open.spotify.com/track/2J0QDG9aKp41dl3nT9d9IQ) | [Grupo Sonador](https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF) | [Lo Nuevo Y…Lo Mejor](https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ) | 2:49 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 | 71 | [Ámame](https://open.spotify.com/track/6MSp1jexGF9TlEpzWM7Zuf) | [Los Llayras](https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz) | [Clásicas De La Cumbia Andina](https://open.spotify.com/album/1G9yAgWGkLLyc3ItyTfS3Z) | 3:58 |
 | 72 | [Todo Lo Encuentro En Ti](https://open.spotify.com/track/4cgq205eLudbUk73MkQdsn) | [Super Lamas](https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe), [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Fake Lover](https://open.spotify.com/album/3ZdtQrCBsZAspAizVKAmFz) | 3:24 |
 | 73 | [Cumbia De Los Estados](https://open.spotify.com/track/4n0kXy9VtZQnh1oOLIOQ6D) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Super Grupo Colombia \- Auténticos Embajadores De La Cumbia](https://open.spotify.com/album/3rX1cWMO3LNCi4uSD2eKxg) | 4:01 |
-| 74 | [Te Daré Una Rosa](https://open.spotify.com/track/7CHWKwGjWiNIJt44XUlW1s) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Quién Te Robo el Corazón](https://open.spotify.com/album/1iV1YdOYq0BdmtF8HcXhWo) | 3:31 |
-| 75 | [La Colegiala](https://open.spotify.com/track/5G9zTiOzuF1wONxSuXHg33) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [La Tipica Ra7](https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG) | [Muy Tropical y Bailable](https://open.spotify.com/album/2MFR4ywLd3BPvVDa8U52Us) | 3:40 |
+| 74 | [La Colegiala](https://open.spotify.com/track/5G9zTiOzuF1wONxSuXHg33) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [La Tipica Ra7](https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG) | [Muy Tropical y Bailable](https://open.spotify.com/album/2MFR4ywLd3BPvVDa8U52Us) | 3:40 |
+| 75 | [Te Daré Una Rosa](https://open.spotify.com/track/7CHWKwGjWiNIJt44XUlW1s) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Quién Te Robo el Corazón](https://open.spotify.com/album/1iV1YdOYq0BdmtF8HcXhWo) | 3:31 |
 | 76 | [Amor Carnal](https://open.spotify.com/track/2BvixI7ri9MTF60jLSZLGW) | [Grupo Karo's](https://open.spotify.com/artist/3wOf6DlTkRycQcnlDrTe2x) | [Locura De Amor](https://open.spotify.com/album/5EDey3kMxdheEFK69Tq8EF) | 3:57 |
 | 77 | [Tú Eres La Razón \- Electrocumbia Remake](https://open.spotify.com/track/3ZPIjIpVU6vh5gf3DvSV3a) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Tú Eres La Razón \(Electrocumbia Remake\)](https://open.spotify.com/album/2Ym9wv4J5XWjnkeWmG5r3w) | 3:15 |
 | 78 | [Vuela Mariposa](https://open.spotify.com/track/4F8AQkyQSTb19us1XLfVf2) | [Los Llayras](https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz) | [Prometiendo Amor](https://open.spotify.com/album/3M5IHxICkEH22lqBgDXnHu) | 3:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 | 99 | [Corazon Enamorado](https://open.spotify.com/track/51KykeJrnWtNyDoNcJelcZ) | [Alberto Pedraza Con Su Ritmo Y Sabor](https://open.spotify.com/artist/4UIqtgggXTOuv5y97QQCrl) | [Antologia](https://open.spotify.com/album/22gKrOfQu54UShnskCA7Fr) | 4:40 |
 | 100 | [Los sabanales](https://open.spotify.com/track/31GD3gDTI7PYt6Dulr1wvh) | [Los Corraleros De Majagual](https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4) | [The Afrosound Of Colombia Volume 1](https://open.spotify.com/album/7GuPa60Lh3Wlls5rMGpOJf) | 2:43 |
 
-Snapshot ID: `MTY1OTQ4MjYxMCwwMDAwMDAwMGJlZTBmZDllYjFjY2Q1NTY3ZWQ5YWZiOGU4ZDVmNTM4`
+Snapshot ID: `MTY1OTQ4MjYxMCwwMDAwMDAwMGRiYTYxZjFmYTY4YWNjNzk2MTEyMjZiYWUzYzJlODk5`

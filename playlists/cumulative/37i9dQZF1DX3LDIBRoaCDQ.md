@@ -2,9 +2,9 @@
 
 ### [Classic Punk](https://open.spotify.com/playlist/37i9dQZF1DX3LDIBRoaCDQ)
 
-> Classic songs that built the foundations of punk.
+> Classic songs that built the foundations of punk\. Celebrating 30 years of the Ramones' Mondo Bizarro
 
-154 songs - 7 hr 22 min - [published](https://open.spotify.com/playlist/7AUlVPNk24dFfEcomcApCH)
+155 songs - 7 hr 26 min - [published](https://open.spotify.com/playlist/7AUlVPNk24dFfEcomcApCH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [One Way Or Another](https://open.spotify.com/track/59CLe8stbcx4XYBWdsfbwK) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines](https://open.spotify.com/album/4M6s2jbhKWEcOdXZ8WiHts) | 3:37 | 2021-10-06 |  |
 | [Personality Crisis](https://open.spotify.com/track/4AwKXevZmsTNa3KZVj3rzl) | [New York Dolls](https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx) | [New York Dolls](https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr) | 3:41 | 2021-10-06 |  |
 | [Pills](https://open.spotify.com/track/0EvHaC4YFOFxeDMYXK2QFk) | [New York Dolls](https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx) | [New York Dolls](https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr) | 2:47 | 2021-10-06 |  |
+| [Poison Heart](https://open.spotify.com/track/5fRjEdFAmmZoJFCWLCp6a8) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Mondo Bizarro](https://open.spotify.com/album/7vy6ynhCUzdMDq8KGgCmfy) | 4:03 | 2022-09-01 |  |
 | [Pretty Vacant](https://open.spotify.com/track/2mKj8Em0GLFu8I78yM1CfU) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here's The Sex Pistols](https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2) | 3:18 | 2021-10-06 |  |
 | [Pump It Up](https://open.spotify.com/track/0JgMHia55MBfhfqZIRi3kF) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [This Year's Model](https://open.spotify.com/album/0mUFefHSr0Ovi9vNcUGppt) | 3:16 | 2021-10-06 | 2022-07-29 |
 | [Pump It Up \- 2021 Remaster](https://open.spotify.com/track/3oyc1mIdCBGaU55wX7otqM) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [This Year's Model \(2021 Remaster\)](https://open.spotify.com/album/4RLIesiAVONV4fOUlOSmr4) | 3:16 | 2021-10-06 |  |
@@ -157,7 +158,7 @@
 | [We Must Bleed](https://open.spotify.com/track/4nl8srnmBGjY4fU6bEIDF9) | [Germs](https://open.spotify.com/artist/39zgKjGWsiZzJ9h6gbrPFY) | [GI](https://open.spotify.com/album/1dwzhoYlTd5ZgPygszllwo) | 3:05 | 2021-10-06 | 2022-07-29 |
 | [What Do I Get?](https://open.spotify.com/track/69cHTfo3Dc7S4sl1bQScNO) | [Buzzcocks](https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y) | [Operators Manual \(Buzzcocks Best\)](https://open.spotify.com/album/61K4bZBmmHrMdTZiRWERBF) | 2:56 | 2021-10-06 | 2022-07-29 |
 | [What Do I Get? \- 2001 Remastered Version](https://open.spotify.com/track/0caQ80s7fyh8xJzD8Sq6Ir) | [Buzzcocks](https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y) | [Singles Going Steady](https://open.spotify.com/album/6TxgQwGrbG3XZLNPOEhg7E) | 2:55 | 2021-10-06 |  |
-| [What Love Is](https://open.spotify.com/track/5Dl4cYpJHsmaMUlgTTViY6) | [Dead Boys](https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc) | [Young, Loud And Snotty](https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ) | 2:10 | 2021-10-06 |  |
+| [What Love Is](https://open.spotify.com/track/5Dl4cYpJHsmaMUlgTTViY6) | [Dead Boys](https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc) | [Young, Loud And Snotty](https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ) | 2:10 | 2021-10-06 | 2022-09-02 |
 | [Where Eagles Dare](https://open.spotify.com/track/5LgiqEgpK54OfXC6947wbU) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey), [Glenn Danzig](https://open.spotify.com/artist/71OjDxLFjWGQFpzU1VpN5d) | [Collection](https://open.spotify.com/album/4pEcCqGx1RFaXWJD0mrG10) | 2:08 | 2021-10-06 |  |
 | [White Riot](https://open.spotify.com/track/1piPrS1PYdle0bHhSPl3io) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [The Clash \(US Version\)](https://open.spotify.com/album/4I1PslhlP1HcRlVHml2voJ) | 1:58 | 2021-10-06 | 2022-07-29 |
 | [White Riot \- Remastered](https://open.spotify.com/track/0brrVj6VnvrG70SjRTnEJA) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [The Clash \(Remastered\)](https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo) | 1:56 | 2021-10-06 |  |

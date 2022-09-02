@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 
 > For the pain, tears and heartbreak.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,644 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,665 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,15 +39,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 29 | [Heartburn \(Sooibrand\)](https://open.spotify.com/track/1rne9Xm5ZvMPpPFAL4uloN) | [Sio](https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh) | [Torn Tapestries](https://open.spotify.com/album/5SsFVmvUK3BIib8Grc6ay1) | 2:42 |
 | 30 | [In A Loop](https://open.spotify.com/track/1fwPHJhjIKSqOnbXVSEoF2) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [In A Loop](https://open.spotify.com/album/4RNLtG8d1fQp2yUTiVBS9a) | 3:13 |
 | 31 | [Miss You Bad](https://open.spotify.com/track/54UrIc5qQRjX128jcvMKIT) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:56 |
-| 32 | [Over](https://open.spotify.com/track/22RZSNHtfaNLTz1rOeAe5B) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Site 15](https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2) | 3:56 |
-| 33 | [Boulevard](https://open.spotify.com/track/6khF6tGGrGcsQIfA4LP7P0) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Freestyle EP](https://open.spotify.com/album/77S4lBoIMeZEYvtWBMH5DO) | 1:52 |
+| 32 | [Boulevard](https://open.spotify.com/track/6khF6tGGrGcsQIfA4LP7P0) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Freestyle EP](https://open.spotify.com/album/77S4lBoIMeZEYvtWBMH5DO) | 1:52 |
+| 33 | [Over](https://open.spotify.com/track/22RZSNHtfaNLTz1rOeAe5B) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Site 15](https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2) | 3:56 |
 | 34 | [Amaka \(feat\. Peruzzi\)](https://open.spotify.com/track/2F5EpzUXZBX46ruU0muOx0) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf) | [Warriors](https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK) | 3:47 |
-| 35 | [Blue Jeans](https://open.spotify.com/track/2SBbSARJnTMcW6fVkYUd14) | [Kkeda](https://open.spotify.com/artist/0seIm2Vmyh7V7oqRX2uZtC) | [Blue Jeans](https://open.spotify.com/album/06vQ9ZXJ9579UjivbiOSmU) | 3:21 |
-| 36 | [I Wish It Was Me](https://open.spotify.com/track/3ghmdRTijueJLRzswc779P) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Some Nights I Dream of Doors](https://open.spotify.com/album/4b5bbOFp8eUd5QxQJ6jFs3) | 3:23 |
+| 35 | [I Wish It Was Me](https://open.spotify.com/track/3ghmdRTijueJLRzswc779P) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Some Nights I Dream of Doors](https://open.spotify.com/album/4b5bbOFp8eUd5QxQJ6jFs3) | 3:23 |
+| 36 | [Blue Jeans](https://open.spotify.com/track/2SBbSARJnTMcW6fVkYUd14) | [Kkeda](https://open.spotify.com/artist/0seIm2Vmyh7V7oqRX2uZtC) | [Blue Jeans](https://open.spotify.com/album/06vQ9ZXJ9579UjivbiOSmU) | 3:21 |
 | 37 | [Don't Call Me Back](https://open.spotify.com/track/4THTRhTTIcqJFTfjMGNqhv) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Love & Light](https://open.spotify.com/album/5ycopkcsa3kPg1cbw9sDqu) | 2:32 |
 | 38 | [Baby I'm Jealous](https://open.spotify.com/track/5lAOltJO0aw2FUP5Use4cD) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [emPawa Africa](https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [One Day You Will Understand](https://open.spotify.com/album/6Z22tsn1nyT9CmcTZa8ZEC) | 2:30 |
-| 39 | [Otoolege](https://open.spotify.com/track/1osCJSONOQ0CNEKYGp7XfQ) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Otoolege](https://open.spotify.com/album/3AinuC1JTj3edgaFFqTWvS) | 6:40 |
-| 40 | [Peace Of Mind](https://open.spotify.com/track/71cLwuw0yKKcKlHDiccxNn) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Village](https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9) | 4:14 |
+| 39 | [Peace Of Mind](https://open.spotify.com/track/71cLwuw0yKKcKlHDiccxNn) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Village](https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9) | 4:14 |
+| 40 | [Otoolege](https://open.spotify.com/track/1osCJSONOQ0CNEKYGp7XfQ) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Otoolege](https://open.spotify.com/album/3AinuC1JTj3edgaFFqTWvS) | 6:40 |
 | 41 | [Dreamer](https://open.spotify.com/track/4HxlXzXwDyhMqxUHCXYD79) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 3:00 |
 | 42 | [Lie To Me \(Tell Me a Fairy Tale\)](https://open.spotify.com/track/5uWY0KnnVk2EVeUsgsnOFW) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Blocka Beats](https://open.spotify.com/artist/7aQKaQoCPS9HOu4fOtJSEm) | [Lie To Me \(Tell Me a Fairy Tale\)](https://open.spotify.com/album/6LV9r0DgOvWCJj0j4kYbO4) | 3:18 |
 | 43 | [Goodbye](https://open.spotify.com/track/2GBVICsaRyuQ2RBmCXin9J) | [GoodGirl LA](https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS) | [Goodbye](https://open.spotify.com/album/7ghHUmv50N6eSegtCyCqnZ) | 3:44 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 45 | [Insecure](https://open.spotify.com/track/3yVy2TK4A8pyGtzFFSzYhJ) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Boo of the Booless](https://open.spotify.com/album/4BguuTkeDiuE2Iq4T6iM33) | 3:00 |
 | 46 | [Nobody](https://open.spotify.com/track/6YOFW94Vha0L3ph7GvT10e) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Live From Nkrumah Krom Vol II: Home Run](https://open.spotify.com/album/2Vh06g2sKNucQUAJbUqSTh) | 3:33 |
 | 47 | [Pour Me Water](https://open.spotify.com/track/1XIPyyGqBSU20i4gSagsLV) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:48 |
-| 48 | [Distance](https://open.spotify.com/track/2MVsAH10Wu2jMc9SM60KDr) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww) | [Distance](https://open.spotify.com/album/7HtEpllVdzazEO98gdGCwb) | 3:02 |
-| 49 | [Shattered](https://open.spotify.com/track/2ncseCYD6unNaUj3j05azH) | [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9) | [Shattered](https://open.spotify.com/album/12JN7p9WCNuyidmPWUzY4U) | 3:25 |
-| 50 | [Kiss & Tell](https://open.spotify.com/track/2caUqogrPS7fyT96tF9fOi) | [J\. Martins](https://open.spotify.com/artist/4DWVHNUG04lB1nYDbQmjLm), [Jaywillz](https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk) | [Kiss & Tell](https://open.spotify.com/album/1Xm6lGVrbZUsLsIhf9REtp) | 2:59 |
+| 48 | [Shattered](https://open.spotify.com/track/2ncseCYD6unNaUj3j05azH) | [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9) | [Shattered](https://open.spotify.com/album/12JN7p9WCNuyidmPWUzY4U) | 3:25 |
+| 49 | [Distance](https://open.spotify.com/track/2MVsAH10Wu2jMc9SM60KDr) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww) | [Distance](https://open.spotify.com/album/7HtEpllVdzazEO98gdGCwb) | 3:02 |
+| 50 | [TOXIC](https://open.spotify.com/track/4RYvU6CIPQu4toCLlLByG9) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn), [Landstrip Chip](https://open.spotify.com/artist/30bCJGAVNB4s6UkQy8a87a) | [My WorlD With U](https://open.spotify.com/album/17B9cVbQfEIoi8k6sZnzDm) | 3:27 |
 
-Snapshot ID: `MTY2MTUwNjkwNywwMDAwMDAwMDY3N2FkMzU1ZTIwNmUxOGQwMTFjNDQ4OTMzZmUwYjlm`
+Snapshot ID: `MTY2MTUwNjkwNywwMDAwMDAwMGRmYzUxZWUzNGJiMTlmNDhmN2Y1Y2NjYjllOTAzNDIx`

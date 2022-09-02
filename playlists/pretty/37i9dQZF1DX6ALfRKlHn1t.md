@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 
 > good vibes only.
 
-[Spotify](https://open.spotify.com/user/spotify) - 999,772 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 999,879 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,13 +19,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 9 | [Santeria](https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 3:02 |
 | 10 | [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:49 |
 | 11 | [sun keeps on shining](https://open.spotify.com/track/5OAEQKfQzIB3X4K7TtviZf) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [sun keeps on shining](https://open.spotify.com/album/4LBGeeTC8GUcMSTM8Aesm8) | 2:47 |
-| 12 | [Synchronize](https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Synchronize](https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL) | 2:44 |
+| 12 | [Stolen Dance](https://open.spotify.com/track/6vECYJHxYmm3Ydt3fF01pE) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Sadnecessary](https://open.spotify.com/album/5D20ZzsNB377xbshIFP9Nb) | 5:13 |
 | 13 | [Life's Been Good](https://open.spotify.com/track/7wtMcCrzuRDzaqp7QVyc0w) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Life's Been Good](https://open.spotify.com/album/0eGpYPPLOXgHhFVuEn8jto) | 3:13 |
 | 14 | [seaside\_demo](https://open.spotify.com/track/1SgUjGzbmmMOsGFTVwQ59L) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [seaside\_demo](https://open.spotify.com/album/5azRQ4hk4TEVhQWXEgE2WT) | 2:12 |
 | 15 | [Ain't No Rest for the Wicked](https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant \(Expanded Edition\)](https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn) | 2:55 |
 | 16 | [Settling](https://open.spotify.com/track/6jQALCbfH7gYSN46Ns839Q) | [Ripe](https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT) | [Settling](https://open.spotify.com/album/0LuaDQd1gfG4Q22WQMDi5c) | 3:08 |
 | 17 | [What I Got](https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 2:50 |
-| 18 | [Stolen Dance](https://open.spotify.com/track/6vECYJHxYmm3Ydt3fF01pE) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Sadnecessary](https://open.spotify.com/album/5D20ZzsNB377xbshIFP9Nb) | 5:13 |
+| 18 | [Synchronize](https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Synchronize](https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL) | 2:44 |
 | 19 | [Dark Necessities](https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [The Getaway](https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6) | 5:02 |
 | 20 | [What You Know](https://open.spotify.com/track/3UjtIALeg72qmJiKPWBvM3) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0SD7kwnJEC2oDzQBKEHQnH) | 3:11 |
 | 21 | [Midnight City](https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 4:01 |
@@ -49,10 +49,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 39 | [FUNERAL GREY](https://open.spotify.com/track/29zvr7PRPQhE8plnBZ44nZ) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [FUNERAL GREY](https://open.spotify.com/album/4BCWDiQzz9tE9KilNixcld) | 2:44 |
 | 40 | [Bad Habit](https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Listen](https://open.spotify.com/album/6kqOHnshP4RMTUWKrhm6Sy) | 3:41 |
 | 41 | [World on Fire \(feat\. Slightly Stoopid\)](https://open.spotify.com/track/35cWnQKyLjmzkq81M51D9n) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [World on Fire](https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB) | 3:58 |
-| 42 | [Guru](https://open.spotify.com/track/5M7IGym8CgSVOMNvDAGheL) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Coast Modern](https://open.spotify.com/album/4jdtl0zpleiD135aYrg9D2) | 3:24 |
+| 42 | [Fever](https://open.spotify.com/track/3Hx7RXqCS7Kzjy2ot2q1Gk) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Turn Blue](https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3) | 4:06 |
 | 43 | [Colorado](https://open.spotify.com/track/35iR1qzexmbcUSgA01S4gI) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Trip Tape](https://open.spotify.com/album/707cK3j40hIquI15sOcYXP) | 2:54 |
-| 44 | [2am](https://open.spotify.com/track/0Tyi56S51KsufCIcqRHWCN) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Life Is Yours](https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq) | 3:44 |
-| 45 | [Fever](https://open.spotify.com/track/3Hx7RXqCS7Kzjy2ot2q1Gk) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Turn Blue](https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3) | 4:06 |
+| 44 | [Guru](https://open.spotify.com/track/5M7IGym8CgSVOMNvDAGheL) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Coast Modern](https://open.spotify.com/album/4jdtl0zpleiD135aYrg9D2) | 3:24 |
+| 45 | [2am](https://open.spotify.com/track/0Tyi56S51KsufCIcqRHWCN) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Life Is Yours](https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq) | 3:44 |
 | 46 | [Stone Love](https://open.spotify.com/track/1AO26gK1sI6PoFY9eUF8yV) | [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Kona Town](https://open.spotify.com/album/37ijUtHcOrsDCIQRsa5sB4) | 4:14 |
 | 47 | [Johnson Song](https://open.spotify.com/track/1g3hJAu22j2gINrSTSpwp0) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV) | 3:43 |
 | 48 | [Talk](https://open.spotify.com/track/1upVvXlWQUwAPuLN3oh8lk) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Talk](https://open.spotify.com/album/2UqdKTiPEdLx7IqEeZ7CWV) | 2:38 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 54 | [Sway](https://open.spotify.com/track/2TdpWim6jts6tKEUAYdyo3) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Sway](https://open.spotify.com/album/1zqdoo5Kk7t77JG798yLZD) | 2:16 |
 | 55 | [Too Late \(with Dirty Heads\)](https://open.spotify.com/track/3jaaCjDmM9wMEr42mMqrPo) | [Shwayze](https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7), [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Too Late \(with Dirty Heads\)](https://open.spotify.com/album/66wLNcY6lSL4kuvrWr5CIn) | 2:37 |
 | 56 | [Solamente](https://open.spotify.com/track/4BMBpU3AbNPjsHk41S0uSl) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:14 |
-| 57 | [Milk & Coffee](https://open.spotify.com/track/6vWaOUGVNbe7wx6X3EddAF) | [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw) | [They Might've Even Loved Me](https://open.spotify.com/album/4DYlqTiUl96D7ZTXiqn3t1) | 3:55 |
-| 58 | [Anything But Me](https://open.spotify.com/track/32JZt8EmiioCGTU6UIXJ4E) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Anything But Me](https://open.spotify.com/album/3qeTo7DFj1P9dcBa92GrpX) | 3:33 |
+| 57 | [Anything But Me](https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 3:33 |
+| 58 | [Milk & Coffee](https://open.spotify.com/track/6vWaOUGVNbe7wx6X3EddAF) | [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw) | [They Might've Even Loved Me](https://open.spotify.com/album/4DYlqTiUl96D7ZTXiqn3t1) | 3:55 |
 | 59 | [Take Me Away](https://open.spotify.com/track/5Cahcx215DE2oK6hemixF4) | [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW), [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Take Me Away](https://open.spotify.com/album/0hOipA3CbMzKRfG1DOyiy5) | 2:31 |
 | 60 | [Straight Jacket](https://open.spotify.com/track/6t6bOh1jmVcRke7rmzAegb) | [Bay Ledges](https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc) | [Fountain Tropical EP](https://open.spotify.com/album/7ttLLyyHakisBEXzhedMYm) | 3:25 |
 | 61 | [Better Together](https://open.spotify.com/track/3xPrdaCplbZRvgJiOBmGs4) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Better Together](https://open.spotify.com/album/6iPltWDB2BeiopAigyQG3g) | 2:58 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 86 | [Memory](https://open.spotify.com/track/21kvruyJddCLQguDk9oklX) | [Windser](https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1) | [Memory](https://open.spotify.com/album/32yZcwzjlxC3mY9rWciv8P) | 3:17 |
 | 87 | [Crazy Mad Beautiful](https://open.spotify.com/track/7aZkSXM4C6XBspwHaLSvaJ) | [Luke Mitrani](https://open.spotify.com/artist/6OzAqsb9KgjKjUyoTjZ6UV) | [Live It Up](https://open.spotify.com/album/6fTrc7CxLHco921W4qT3u2) | 3:08 |
 | 88 | [Lift Me Up](https://open.spotify.com/track/4ARoMobdw8Pv6idjmbQUjJ) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Lift Me Up](https://open.spotify.com/album/1aN1BvqkohdINxEHf83z3u) | 2:33 |
-| 89 | [Classic \(feat\. POWERS\)](https://open.spotify.com/track/42UaTVeWaNaME7ttu61ykG) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [POWERS](https://open.spotify.com/artist/0PGB0xsAyDqHHlvNQcgq5S) | [Classic \(feat\. POWERS\)](https://open.spotify.com/album/4TXid0z5ty83lP4tq25sTJ) | 4:08 |
-| 90 | [Monday](https://open.spotify.com/track/55jtGKCCpLEV0zWFf97wVY) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Further Joy](https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ) | 2:56 |
+| 89 | [Monday](https://open.spotify.com/track/55jtGKCCpLEV0zWFf97wVY) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Further Joy](https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ) | 2:56 |
+| 90 | [Classic \(feat\. POWERS\)](https://open.spotify.com/track/42UaTVeWaNaME7ttu61ykG) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [POWERS](https://open.spotify.com/artist/0PGB0xsAyDqHHlvNQcgq5S) | [Classic \(feat\. POWERS\)](https://open.spotify.com/album/4TXid0z5ty83lP4tq25sTJ) | 4:08 |
 | 91 | [Heavy as Lead](https://open.spotify.com/track/59HQVKZfaKycUzRTtp1zDO) | [Rebelution](https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc) | [Heavy as Lead](https://open.spotify.com/album/1uqKKrSpCBx15YzUY3f55m) | 2:56 |
 | 92 | [Red Dress](https://open.spotify.com/track/4zag02jtwumRcnPdYYr0Do) | [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [Red Dress](https://open.spotify.com/album/77Vs3r6NWtsTdvYs7w7v5J) | 3:20 |
 | 93 | [Daydreaming](https://open.spotify.com/track/3v5OftOHxaVpaaJ8NArHos) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Mind The Moon](https://open.spotify.com/album/4IVcJES0Og7KzrtA70DgC2) | 3:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 99 | [Upgrade](https://open.spotify.com/track/0kr277qNoo4QBUDjzPiSe2) | [TWIN XL](https://open.spotify.com/artist/4OkceeWNJehKqXINqtVeX1), [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Upgrade](https://open.spotify.com/album/3VgubxrPPu5lXCPJzXLFp7) | 2:41 |
 | 100 | [No Type](https://open.spotify.com/track/4fxtYgcIOqjCq9Ix1pvrzn) | [New Beat Fund](https://open.spotify.com/artist/5IqdTZwvASXwM39z5qPqAA) | [No Type](https://open.spotify.com/album/4TaeklJqTEj55GtVmw5XPm) | 3:33 |
 
-Snapshot ID: `MTY1OTA2NzMyMCwwMDAwMDAwMDBkNzNmZDJkYWZiYzMzMjRlYjYzZDQ4NDgxMTA3NWQw`
+Snapshot ID: `MTY1OTA2NzMyMCwwMDAwMDAwMDZjYzkyMTgwNjViOWJjN2VmMjFjZmYyZTM5OGY4Mjk4`

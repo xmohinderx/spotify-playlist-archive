@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > A quality alternative blend\. Cover: Ashe
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,400 likes - 126 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,479 likes - 126 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,7 +125,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 115 | [Happiness Pie](https://open.spotify.com/track/17lBZ4fgi5MxPkz4dKl3gp) | [Motel Radio](https://open.spotify.com/artist/69tXKp8pHBX6ZoVMkNdvt7) | [Happiness Pie](https://open.spotify.com/album/2595VkvbpcBlsckPy945Bk) | 3:13 |
 | 116 | [Forever In Sunset](https://open.spotify.com/track/7ofb8SMiE4pDit5ewXNArn) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [All Of Us Flames](https://open.spotify.com/album/5vO3cJcNAgBv91ADrMnc8l) | 4:22 |
 | 117 | [Blood Runs Red](https://open.spotify.com/track/3KNa3a7r6bw3SGI27Syuxn) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Blood Runs Red](https://open.spotify.com/album/5H3bz4xuj3L3AKaWQrM0bw) | 3:38 |
-| 118 | [Anything But Me](https://open.spotify.com/track/32JZt8EmiioCGTU6UIXJ4E) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Anything But Me](https://open.spotify.com/album/3qeTo7DFj1P9dcBa92GrpX) | 3:33 |
+| 118 | [Anything But Me](https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 3:33 |
 | 119 | [Hey Julia](https://open.spotify.com/track/4ITcbrMbYwD3kuIG304nxO) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Hey Julia](https://open.spotify.com/album/161llzgJp98MoWom3IJOJp) | 1:59 |
 | 120 | [L'hotel Serein](https://open.spotify.com/track/2VO0kA8zIwG14cTDfPOGIH) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [L'hotel Serein](https://open.spotify.com/album/7pMl0sRjNchXQX7fb6HUQL) | 4:12 |
 | 121 | [Thinking Of Nina](https://open.spotify.com/track/0RuAxLY0kcwKu2r2LK3Hej) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Thinking Of Nina](https://open.spotify.com/album/4HMmeChxjWsAgqXozzytkR) | 3:16 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 125 | [Bad Spell](https://open.spotify.com/track/3xMat5dBN7UXgK8a6E8n93) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bad Spell](https://open.spotify.com/album/2uX8wXgr0jog1Xz6vZSxLS) | 3:15 |
 | 126 | [Slide Tackle](https://open.spotify.com/track/5ksM8r8u4AjMwvtqUif9W1) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:39 |
 
-Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMGYyYzJiNjU0ZGYzOWY2Mzc0NTYzOWNiNWNlNjg0NjZk`
+Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMGIzOTRiMzViMDJhMjc4OTg0NzhiMzA2YjRhMDBiZDk2`

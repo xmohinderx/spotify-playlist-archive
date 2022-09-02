@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2jmeFyIwFPhhxgjAAJJIrU">Leland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 729 likes - 137 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 727 likes - 137 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 53 | [Ignore Me](https://open.spotify.com/track/5NF51JbWVYHI83FdkqoEcC) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Betty](https://open.spotify.com/album/78LBmUOdg2KeGk0mSQ1lTs) | 3:15 |
 | 54 | [U12](https://open.spotify.com/track/2xc2Qzq0IyWsIbbcihWzzI) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/2cE2eOy7alOZHpuelJEV8Q) | 3:23 |
 | 55 | [I Can't Stop Me](https://open.spotify.com/track/1AVVv4FgNLxQlV64j7dfP1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Singular Act II](https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP) | 3:42 |
-| 56 | [Thirsty](https://open.spotify.com/track/3BbpXJvrVKqTox63Zo3Js0) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/2cE2eOy7alOZHpuelJEV8Q) | 3:19 |
-| 57 | [Trouble \- from ‘Three Months’](https://open.spotify.com/track/4lM46UnoFn4FP074aYWGxS) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Trouble \(from ‘Three Months’\)](https://open.spotify.com/album/4CVZnoqlaAEqSX6c1QQUI8) | 3:23 |
+| 56 | [Trouble \- from ‘Three Months’](https://open.spotify.com/track/4lM46UnoFn4FP074aYWGxS) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Trouble \(from ‘Three Months’\)](https://open.spotify.com/album/4CVZnoqlaAEqSX6c1QQUI8) | 3:23 |
+| 57 | [Thirsty](https://open.spotify.com/track/3BbpXJvrVKqTox63Zo3Js0) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/2cE2eOy7alOZHpuelJEV8Q) | 3:19 |
 | 58 | [STUD](https://open.spotify.com/track/1trCZF4aa39AhDCfTBw8Qn) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [In A Dream \(Bonus Track Version\)](https://open.spotify.com/album/66M3ZXJLIgROFqMla74reu) | 3:29 |
 | 59 | [Roommates](https://open.spotify.com/track/6Yqthq1zzVpynLPBb457I7) | [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs) | [Roommates](https://open.spotify.com/album/5dxJzhnP1EHXf9VCLElcOM) | 3:23 |
 | 60 | [Sunflower \(Synth Reprise\)](https://open.spotify.com/track/0K5uqkxgZlxKJvA03E1e90) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Sierra Burgess Is a Loser \(Original Netflix Sound Track\)](https://open.spotify.com/album/5ddhak78Gq6mFVqiPlbFhI) | 3:36 |
@@ -131,8 +131,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 121 | [Good Time People](https://open.spotify.com/track/5wpQAyoihCL3cOVaza1rIp) | [Spencer Ludwig](https://open.spotify.com/artist/6miuYP0AovZaaKpRFaDQMQ) | [Good Time People](https://open.spotify.com/album/7f46jaoVkkKNBNeyyGn2e4) | 3:47 |
 | 122 | [1991](https://open.spotify.com/track/1RAoTgX7utbegR8hZWGthA) | [Kat Graham](https://open.spotify.com/artist/4rPZIJpeNz7GBm2t8YhR7j) | [Roxbury Drive](https://open.spotify.com/album/1e0lSv5aE8x3wAuaFFvv6r) | 3:15 |
 | 123 | [All My Issues](https://open.spotify.com/track/0QEQmLonfSYWYmU6w2l8TD) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [Excuse Me \(Deluxe\)](https://open.spotify.com/album/3CEWoLRhNHEtBcw1wmgWd8) | 3:16 |
-| 124 | [Fake Smile](https://open.spotify.com/track/5zwzBgzOdQ3HaTHpBFzFo2) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Tough Boy](https://open.spotify.com/album/7cHOGdyjoxS0Ou57ax4Fws) | 2:29 |
-| 125 | [The Wrong Party \(with Fitz and The Tantrums\)](https://open.spotify.com/track/0CZ4WDvSa2YyTei18Tapjd) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj), [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [The Wrong Party \(with Fitz and The Tantrums\)](https://open.spotify.com/album/7d93DGgzIxU4mP3V71xO7D) | 2:39 |
+| 124 | [The Wrong Party \(with Fitz and The Tantrums\)](https://open.spotify.com/track/0CZ4WDvSa2YyTei18Tapjd) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj), [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [The Wrong Party \(with Fitz and The Tantrums\)](https://open.spotify.com/album/7d93DGgzIxU4mP3V71xO7D) | 2:39 |
+| 125 | [Fake Smile](https://open.spotify.com/track/5zwzBgzOdQ3HaTHpBFzFo2) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Tough Boy](https://open.spotify.com/album/7cHOGdyjoxS0Ou57ax4Fws) | 2:29 |
 | 126 | [Two Thumbs](https://open.spotify.com/track/6jEVA2JVqQPZ5S5XtPcac1) | [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [lil kiiwi](https://open.spotify.com/album/0AUG7Sa8IIiCHTW6GONdf2) | 2:56 |
 | 127 | [FYI](https://open.spotify.com/track/0NFMRxhxAPudloawaWi3oq) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 3:24 |
 | 128 | [Windows](https://open.spotify.com/track/2sDjAcLzPYZYUYOtfk5R4x) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 3:16 |
@@ -146,4 +146,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 136 | [Euphoria](https://open.spotify.com/track/1nXyc1QOTa5Rnhg5udF0vr) | [Christopher Goulstone](https://open.spotify.com/artist/6A6hCC07Ix0YCGFfENcWYI), [Neil Taylor](https://open.spotify.com/artist/3th0fmbYOynihCppJzNJLM) | [Rock Highway Dreams](https://open.spotify.com/album/5c4U5JArDApW4JUyEEk3Tz) | 3:26 |
 | 137 | [I'm a Rapper](https://open.spotify.com/track/3Pt8mRiKVgnun7ULVmKTLB) | [Pfool](https://open.spotify.com/artist/4yNdC9T7fkyn8yB1E8cTLY) | [Ultimate Hottest Hits 2013, Vol\. 6 \(The Best of the Teenies\)](https://open.spotify.com/album/5PtK4h7lKH3ittcrWu7hqi) | 2:55 |
 
-Snapshot ID: `Mjc2OTk5MTUsMDAwMDAwMDA2MmQxODk3MzdjYzAxYTIyYTgwODQ3NjkxZDVjMGUxNw==`
+Snapshot ID: `Mjc3MDEzNTUsMDAwMDAwMDAzYWE5YzYwNDM4NzMzMGY3NWM2YjJkY2M5Y2U1OTI2Zg==`

@@ -4,7 +4,7 @@
 
 > Get your day off to a cracking start!
 
-1,398 songs - 3 day 7 hr 27 min - [published](https://open.spotify.com/playlist/67irSdO9zVHD30k2pQQgca)
+1,399 songs - 3 day 7 hr 30 min - [published](https://open.spotify.com/playlist/67irSdO9zVHD30k2pQQgca)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,7 +299,7 @@
 | [Don't Mess With My Man](https://open.spotify.com/track/2J2hVpwVV25EK8Bvd3OgCK) | [Lucy Pearl](https://open.spotify.com/artist/0OUXTnqjvTg4iZ7Lhq6vv7) | [Lucy Pearl](https://open.spotify.com/album/5cT0D5QzJo8coTaeT4OynR) | 3:37 | 2021-03-14 | 2021-07-27 |
 | [Don't Need You](https://open.spotify.com/track/5VuuQAqTwEXe3GiwlaS8cC) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Smiling with No Teeth](https://open.spotify.com/album/6KFUEpoc6kGKE27Uie6qEC) | 3:05 | 2022-04-05 | 2022-04-18 |
 | [Don't Say](https://open.spotify.com/track/6rHC7eMaQDDpbm29WuuJbe) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Don't Say](https://open.spotify.com/album/6yYmVFP4TaBffBvA604Ney) | 3:32 | 2020-01-07 | 2021-05-12 |
-| [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 | 2019-12-06 |  |
+| [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 | 2019-12-06 | 2022-09-02 |
 | [Don't Stop \- 2004 Remaster](https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:13 | 2019-08-26 | 2022-04-20 |
 | [Don't Stop Believin'](https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 4:10 | 2019-08-08 |  |
 | [Don't Stop Me Now \- Remastered 2011](https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(2011 Remaster\)](https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU) | 3:29 | 2021-03-16 | 2022-04-14 |
@@ -575,6 +575,7 @@
 | [I'm Fakin](https://open.spotify.com/track/272iLcjicl9cu9mlb0d1Ut) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [I'm Fakin](https://open.spotify.com/album/61mlljBH2mR2QUfyAGrQGK) | 2:55 | 2021-03-07 | 2022-04-19 |
 | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/66S14BkJDxgkYxLl5DCqOz) | [The Proclaimers](https://open.spotify.com/artist/1A92IAcd7A6npCA33oGM5i) | [Finest](https://open.spotify.com/album/7hPq9fDWwXPo1tT0oi3XcM) | 3:39 | 2019-08-08 | 2022-03-31 |
 | [I'm Good](https://open.spotify.com/track/5Qlsugh2ZVlaOgPSHpI8D7) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [I'm Good](https://open.spotify.com/album/4XJE2ic3Z1Ir4ylBaKVVnU) | 3:37 | 2021-03-21 | 2021-05-23 |
+| [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2022-08-28 |  |
 | [I'm Good?](https://open.spotify.com/track/1EuI95kVxZYLbENy8d6AOI) | [Hilltop Hoods](https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4) | [I'm Good?](https://open.spotify.com/album/5W3YMp8HlxyU6XtKsq9sxm) | 2:40 | 2020-06-12 | 2022-04-07 |
 | [I'm It](https://open.spotify.com/track/4Q6TL1AWThEf3YtxSfMk8h) | [Kota Banks](https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT) | [PRIZE](https://open.spotify.com/album/7xtvUPUtxoy3z4mqdeFB0i) | 2:31 | 2019-07-29\* | 2022-04-06 |
 | [I'm Like A Bird](https://open.spotify.com/track/5xPQsTrT2LjidijK2Tzlxh) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Whoa, Nelly! \(France Only Version\)](https://open.spotify.com/album/2lcaX3zETZ5shGRQXI667r) | 4:03 | 2019-07-30 | 2022-04-12 |

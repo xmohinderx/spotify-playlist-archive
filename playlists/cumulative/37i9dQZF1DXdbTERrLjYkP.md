@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: SAPPHIRE
 
-243 songs - 12 hr 57 min - [published](https://open.spotify.com/playlist/5yqeqnGwA3WW1b3xVN4nfp)
+244 songs - 13 hr 1 min - [published](https://open.spotify.com/playlist/5yqeqnGwA3WW1b3xVN4nfp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [bad friend](https://open.spotify.com/track/3Sy8kIcOglqz8TUMklgSVp) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [bad friend](https://open.spotify.com/album/0eiudXojkB4vSVOKCQKcvu) | 3:13 | 2022-01-14 | 2022-04-02 |
 | [BDSM](https://open.spotify.com/track/73WojSE8AHCQvfAcNaDjR8) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [BDSM](https://open.spotify.com/album/4tJMW1h9dl8cTRBdWJoDAf) | 3:29 | 2022-07-08 |  |
 | [be your friend](https://open.spotify.com/track/609bvXPOXH0YC7TU5cfRSP) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [You Make Me Feel Alright](https://open.spotify.com/album/3BDzqGbPFnSceUIqzX2jQp) | 3:14 | 2022-01-14 | 2022-03-12 |
-| [Bedroom Floor](https://open.spotify.com/track/5QIIqyaKqjpDisjYNGZlAf) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Bedroom Floor](https://open.spotify.com/album/5S8Ucc9rGzrOTHz3Z4AsgQ) | 4:09 | 2022-08-26 |  |
+| [Bedroom Floor](https://open.spotify.com/track/2GjPJVgqtF8uSyoedh5Inf) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Bedroom Floor](https://open.spotify.com/album/1UdFJz9ptrLSmsTI87B2Ym) | 4:09 | 2022-08-26 |  |
+| [Bedroom Floor](https://open.spotify.com/track/5QIIqyaKqjpDisjYNGZlAf) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Bedroom Floor](https://open.spotify.com/album/5S8Ucc9rGzrOTHz3Z4AsgQ) | 4:09 | 2022-08-26 | 2022-09-02 |
 | [Birthday Cake](https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Birthday Cake](https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT) | 3:25 | 2022-02-04 | 2022-07-09 |
 | [Block me out](https://open.spotify.com/track/7AX1eCw6qcX54PrDylynJr) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Block me out](https://open.spotify.com/album/3gRzJoa3WSp3XUD585RRvN) | 4:09 | 2022-04-08 | 2022-08-13 |
 | [Bluebird](https://open.spotify.com/track/3UZQKylw0fLvlEqP18M99A) | [Victoria Bigelow](https://open.spotify.com/artist/3QcQHXrN1oIQO9kCihqNCU) | [Waves](https://open.spotify.com/album/36H0aED0yPq0gvQxdg6G99) | 2:45 | 2022-01-14 | 2022-02-12 |

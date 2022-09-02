@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 
 > Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: Slipknot
 
-[Spotify](https://open.spotify.com/user/spotify) - 704,673 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 704,798 likes - 75 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 13 | [Animals](https://open.spotify.com/track/5ofoB8PFmocBXFBEWVb6Vz) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [For Those That Wish To Exist](https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4) | 4:04 |
 | 14 | [Loved You A Little \(with Taking Back Sunday and Charlotte Sands\)](https://open.spotify.com/track/0IPKskRI33eRXjUhNUr9b5) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0), [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Loved You A Little \(with Taking Back Sunday and Charlotte Sands\)](https://open.spotify.com/album/2tgx0FJj6dtx3GzTm1Jbbd) | 3:27 |
 | 15 | [Fighter](https://open.spotify.com/track/4gi2kndWShH9kDbb9kBfs6) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Metamorph](https://open.spotify.com/album/1kf3w2zcfjNYpx1NjnJmQ8) | 2:36 |
-| 16 | [Will Of The People](https://open.spotify.com/track/3EDKy3jIiw1OJqqZcdOCxm) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/68J2rIUZze8X3hAa8ali4k) | 3:18 |
-| 17 | [Protect The Land](https://open.spotify.com/track/11ajcVj3qSyyMPUpTJUP3y) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Protect The Land / Genocidal Humanoidz](https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M) | 5:07 |
+| 16 | [Protect The Land](https://open.spotify.com/track/11ajcVj3qSyyMPUpTJUP3y) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Protect The Land / Genocidal Humanoidz](https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M) | 5:07 |
+| 17 | [Will Of The People](https://open.spotify.com/track/3EDKy3jIiw1OJqqZcdOCxm) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/68J2rIUZze8X3hAa8ali4k) | 3:18 |
 | 18 | [Fallout](https://open.spotify.com/track/2JBk2XZLjS0N4x3mFHINM6) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Fallout](https://open.spotify.com/album/74K2vGYMdCCO29n4s4Y41h) | 3:14 |
 | 19 | [Temple Of Ekur](https://open.spotify.com/track/1SsCpBXMHUYlrHR7Hozgvu) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Servant Of The Mind \(Deluxe\)](https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP) | 4:19 |
 | 20 | [Forgotten](https://open.spotify.com/track/00BBwHjAf8WWq4HcOtEJO1) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Requiem](https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0) | 3:17 |
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 34 | [Swerve \(feat\. FEVER 333 & Sueco\)](https://open.spotify.com/track/6sqMWTs2o6ixteLAhQOTSC) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy), [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Swerve \(feat\. FEVER 333 & Sueco\)](https://open.spotify.com/album/6rLcLYKvxCCqp78ZYXXXMy) | 2:48 |
 | 35 | [Wouldn’t Change A Thing](https://open.spotify.com/track/1nxolqTzRn39brCPRk5f8v) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Wouldn’t Change A Thing](https://open.spotify.com/album/6G2HZJQGGtURKxrOdf3czb) | 3:07 |
 | 36 | [Take What You Want](https://open.spotify.com/track/0frtdZ0KWaYQJGvPvsS6YO) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Diamond Star Halos](https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K) | 4:14 |
-| 37 | [Echo](https://open.spotify.com/track/5ghRFXY8wDBM3tht7Qvxp3) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Echo](https://open.spotify.com/album/5pCBuV5mhXIUonyuWL5EZd) | 3:19 |
-| 38 | [Everything We Need](https://open.spotify.com/track/5oKBOiiJceLlAEQ4VaVe8p) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Everything We Need](https://open.spotify.com/album/45iFc2ouMdWTuxImSsjaJF) | 3:05 |
+| 37 | [NØ GØDS, NØ MASTERS](https://open.spotify.com/track/7nJMvNlDpJShN4HJNJ97Gh) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 4:18 |
+| 38 | [Echo](https://open.spotify.com/track/5ghRFXY8wDBM3tht7Qvxp3) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Echo](https://open.spotify.com/album/5pCBuV5mhXIUonyuWL5EZd) | 3:19 |
 | 39 | [Dad Vibes](https://open.spotify.com/track/3XM6V7K5nbZf5AQz20fDDb) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Dad Vibes](https://open.spotify.com/album/7tadqEjXzmv9fgy21AelkR) | 2:12 |
-| 40 | [NØ GØDS, NØ MASTERS](https://open.spotify.com/track/7nJMvNlDpJShN4HJNJ97Gh) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 4:18 |
+| 40 | [Everything We Need](https://open.spotify.com/track/5oKBOiiJceLlAEQ4VaVe8p) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Everything We Need](https://open.spotify.com/album/45iFc2ouMdWTuxImSsjaJF) | 3:05 |
 | 41 | [Start The Healing](https://open.spotify.com/track/42qa1IoXDeSt0zzWTOuwyG) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Start The Healing](https://open.spotify.com/album/0u1tbNPEpP0a6it8o6KeOH) | 3:28 |
 | 42 | [The Steeple](https://open.spotify.com/track/5Mozz7NTj4EYK1d1mdP6I2) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Steeple](https://open.spotify.com/album/31hmuzbX46koetZMTs5O0o) | 3:27 |
 | 43 | [Limbo](https://open.spotify.com/track/5nUrlBwZiaPcCKpBM7iT1W) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Limbo](https://open.spotify.com/album/0xzwaeIpyKeCIPKxSyhxNE) | 4:53 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 74 | [The People That We Love \- Golden Dub Remix](https://open.spotify.com/track/1QJpxlH4M7DmSFdIyE7Ekq) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa), [Greg Brimson](https://open.spotify.com/artist/52Fd5EqIgOlMWe3yqd1YMe) | [Golden State \(20th Anniversary Expanded Version\)](https://open.spotify.com/album/43TsRvNOblRitRDfdgu4VS) | 5:42 |
 | 75 | [Keep It Away](https://open.spotify.com/track/4PBj43xrepBtpGDcrVewUf) | [Fuel](https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp) | [Keep It Away](https://open.spotify.com/album/56a0YTfgc8pSSmvdD381eB) | 3:41 |
 
-Snapshot ID: `MTY2MTQ4Mjg2MCwwMDAwMDAwMGZlNzZlMDc3MTIyNWNlZTAzZGE1YzY2ZWZiOGRlNDIz`
+Snapshot ID: `MTY2MTQ4Mjg2MCwwMDAwMDAwMDAyNzk1YzYxNTVkMjc2ZTM3ZmU2MjNhOTNjNzgxNjk4`

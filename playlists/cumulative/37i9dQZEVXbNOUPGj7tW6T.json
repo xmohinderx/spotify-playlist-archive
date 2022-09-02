@@ -842,6 +842,24 @@
     },
     {
       "album": {
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229740,
+      "name": "Begin",
+      "url": "https://open.spotify.com/track/0bGJHUPR6ems9tzIljlPFR"
+    },
+    {
+      "album": {
         "name": "KG0516",
         "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
       },
@@ -1537,7 +1555,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 230400,
       "name": "Despu\u00e9s de la Playa",
       "url": "https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2"
@@ -2089,6 +2107,24 @@
       "duration_ms": 190680,
       "name": "Esquema Preferido (feat. Tarc\u00edsio do Acordeon)",
       "url": "https://open.spotify.com/track/7cgF1aSGBXWlTgNbon3g2p"
+    },
+    {
+      "album": {
+        "name": "Love Yourself \u7d50 'Answer'",
+        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228615,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/5YMXGBD6vcYP7IolemyLtK"
     },
     {
       "album": {
@@ -5725,7 +5761,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 174482,
       "name": "TUS L\u00c1GRIMAS",
       "url": "https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u"

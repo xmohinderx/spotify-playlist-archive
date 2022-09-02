@@ -1,12 +1,12 @@
 {
   "description": "Up for a nostalgic running session?",
-  "num_followers": 409273,
+  "num_followers": 409201,
   "original_name": "Retro Running",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMwNzA0MiwwMDAwMDAwMGYxNDEwY2E3NWQzMjk4OWYyMjc1YjFmNzYxMjUxMjdj",
+  "snapshot_id": "MTY2MDMwNzA0MiwwMDAwMDAwMDNlNzljODY4YTA4OTA1MWFiMTUyNDdiNzg3NmQyNGE3",
   "tracks": [
     {
       "added_at": "2022-08-12 09:08:12",
@@ -395,6 +395,22 @@
     {
       "added_at": "2022-08-12 09:08:12",
       "album": {
+        "name": "Flashdance (Original Soundtrack From The Motion Picture)",
+        "url": "https://open.spotify.com/album/3R6Z3Hp8EMdhgkA5t89NiL"
+      },
+      "artists": [
+        {
+          "name": "Michael Sembello",
+          "url": "https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB"
+        }
+      ],
+      "duration_ms": 244706,
+      "name": "Maniac",
+      "url": "https://open.spotify.com/track/0QKfiqpEU4h9ycPSzIFwYe"
+    },
+    {
+      "added_at": "2022-08-12 09:08:12",
+      "album": {
         "name": "Talking Heads '77 (Deluxe Version)",
         "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 222813,
       "name": "(I Can't Get No) Satisfaction - Mono Version",
       "url": "https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34"
-    },
-    {
-      "added_at": "2022-08-12 09:08:12",
-      "album": {
-        "name": "Flashdance (Original Soundtrack From The Motion Picture)",
-        "url": "https://open.spotify.com/album/3R6Z3Hp8EMdhgkA5t89NiL"
-      },
-      "artists": [
-        {
-          "name": "Michael Sembello",
-          "url": "https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB"
-        }
-      ],
-      "duration_ms": 244706,
-      "name": "Maniac",
-      "url": "https://open.spotify.com/track/0QKfiqpEU4h9ycPSzIFwYe"
     },
     {
       "added_at": "2022-08-12 09:08:12",

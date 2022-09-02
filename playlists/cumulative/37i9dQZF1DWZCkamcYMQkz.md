@@ -4,7 +4,7 @@
 
 > Uplifting jazz to get you in a good mood.
 
-144 songs - 9 hr 32 min - [published](https://open.spotify.com/playlist/4rHMKSAEVjnyNAUi0PpYVv)
+146 songs - 9 hr 39 min - [published](https://open.spotify.com/playlist/4rHMKSAEVjnyNAUi0PpYVv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [He's My Guy](https://open.spotify.com/track/1kk0zlIS3VOGmv34trEq6C) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan with Clifford Brown \(Expanded, Hd Remastered\)](https://open.spotify.com/album/16vuKfE2bGmNv3hvG7K7dT) | 4:12 | 2021-12-16 | 2022-07-29 |
 | [He's My Guy](https://open.spotify.com/track/5Po3D0fxlUpQTciXYWOmnJ) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8), [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [Sarah Vaughan](https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG) | 4:13 | 2022-06-28 | 2022-08-30 |
 | [Hello Bright Sunflower \- Rudy Van Gelder Edition/2006 Digital Remaster](https://open.spotify.com/track/2Q6fLryY9lv34jazpe4bnE) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [The Cat Walk](https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm) | 7:33 | 2021-12-16 |  |
+| [Hello, Dolly!](https://open.spotify.com/track/63kd4m3VFxcJjPVVtbVNAu) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello, Dolly! \(Remastered\)](https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC) | 2:27 | 2022-09-01 |  |
 | [Holiday Flight](https://open.spotify.com/track/4BWJoCEQX9RAJPX26kk1QP) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Surf Ride](https://open.spotify.com/album/3nuRA3ud7z6UosGSYiQpEy) | 3:11 | 2021-12-16 |  |
 | [Hurricane Connie](https://open.spotify.com/track/07sXOnILWyZPlqJY2faLm0) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Julian "Cannonball" Adderley](https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8) | 4:16 | 2022-01-13 |  |
 | [I Ain't Got Nobody](https://open.spotify.com/track/1mYU1xNK2THM44DpukZGY4) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [Capitol Collector's Series](https://open.spotify.com/album/0L3a0HwsJSOR0dARdZuWzs) | 2:24 | 2022-01-13 |  |
@@ -84,6 +85,7 @@
 | [Jump Up](https://open.spotify.com/track/2N4oRvZUu8RWkjdBjLQJKt) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR), [The Three Sounds](https://open.spotify.com/artist/5wVeG4RM2VXsFwyylF8vXi) | [LD+3](https://open.spotify.com/album/7LI05bZ0W1MaDccphFQqzj) | 6:37 | 2021-12-16 | 2022-01-14 |
 | [Just You, Just Me](https://open.spotify.com/track/0Dvn6bjMSqv2N50h1AESbu) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [This Dream Of You](https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY) | 2:24 | 2021-12-16 |  |
 | [Le Coiffeur](https://open.spotify.com/track/2dk9zmPIOjVXhUgeLgfKNU) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Gettin' Around](https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9) | 7:02 | 2021-12-16 |  |
+| [Let's Call The Whole Thing Off](https://open.spotify.com/track/6NDaYWg85ZnJ3Ae0WkILWh) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella And Louis Again](https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M) | 4:11 | 2022-09-01 |  |
 | [Let's Do It](https://open.spotify.com/track/1f1ybry2mOfAgP3qBFMiKc) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [That Bad Eartha](https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW) | 3:05 | 2021-12-16 |  |
 | [Line For Lyons](https://open.spotify.com/track/0GUUhTWMylAx5pHDI42t1V) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Paul Desmond Quartet](https://open.spotify.com/artist/7DhtcH8dO2bHDqRyVt0lVc) | [Gerry Mulligan \- Paul Desmond Quartet \(Expanded Edition\)](https://open.spotify.com/album/5aBJpzcDbXmZUywzPJGNFy) | 3:08 | 2021-12-16 |  |
 | [Little Lulu](https://open.spotify.com/track/1a8NXpwR2o6LZEG4uAJ6ck) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Trio 64](https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv) | 3:51 | 2021-12-16 |  |
@@ -109,9 +111,9 @@
 | [Ramblin'](https://open.spotify.com/track/3PI3LtxqQtlQCxUxKqDfqm) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Ramblin'](https://open.spotify.com/album/6IF4t8d8X6WTr3KR5RRpSs) | 4:58 | 2021-12-16 |  |
 | [Recado Bossa Nova \- Remastered 2005](https://open.spotify.com/track/5K5NOAnF7DwQATrEumi6dS) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Dippin'](https://open.spotify.com/album/3mx9Te2p8koxBI9oe1341j) | 8:11 | 2022-04-13 |  |
 | [Ridin' High](https://open.spotify.com/track/531BfkXiRcoBDqRaJWKfqT) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Things Are Swingin'](https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT) | 2:10 | 2021-12-16 |  |
-| [Room 608 \- Remastered](https://open.spotify.com/track/7HjUmooZ5Mk8HcDkuWyD50) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Horace Silver And The Jazz Messengers](https://open.spotify.com/album/6ChBNNT405wL5eQz8be9Q9) | 5:22 | 2021-12-16 |  |
+| [Room 608 \- Remastered](https://open.spotify.com/track/7HjUmooZ5Mk8HcDkuWyD50) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Horace Silver And The Jazz Messengers](https://open.spotify.com/album/6ChBNNT405wL5eQz8be9Q9) | 5:22 | 2021-12-16 | 2022-09-02 |
 | [See See Rider](https://open.spotify.com/track/5NltGjgbV9hy4HMCS9CYoy) | [Ernestine Anderson](https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T) | [My Kinda Swing](https://open.spotify.com/album/1LJPmxO2eGpzZGrr12LEIa) | 3:02 | 2021-12-16 |  |
-| [Singin' a Melody](https://open.spotify.com/track/60WNBop8SdFIZZ8PZABZNq) | [Paul Callander Quintet](https://open.spotify.com/artist/0eVyw9bcjrdnqRGiz18Yz5) | [Singin' a Melody](https://open.spotify.com/album/1A6JA1ogqLpX4HlV9APXKG) | 3:44 | 2022-06-28 |  |
+| [Singin' a Melody](https://open.spotify.com/track/60WNBop8SdFIZZ8PZABZNq) | [Paul Callander Quintet](https://open.spotify.com/artist/0eVyw9bcjrdnqRGiz18Yz5) | [Singin' a Melody](https://open.spotify.com/album/1A6JA1ogqLpX4HlV9APXKG) | 3:44 | 2022-06-28 | 2022-09-02 |
 | [Soul Bossa Nova](https://open.spotify.com/track/0Jw3cPBXlGnA6DEJrZSTI0) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [Big Band Bossa Nova](https://open.spotify.com/album/1KSOL1jvue2lfcdsNZ7YN8) | 2:46 | 2021-12-16 | 2022-04-21 |
 | [Soul Dancing](https://open.spotify.com/track/4StXVZBqMAaJokejo0698n) | [Joey DeFrancesco](https://open.spotify.com/artist/2hpwTpq2QENZv7EAvniKDR) | [More Music](https://open.spotify.com/album/291DRYQKtqeZGHfSPabB01) | 6:36 | 2022-02-24 |  |
 | [Stompin' At The Savoy \- 1956 Version](https://open.spotify.com/track/49vFXoPnbgIoLd76Szqmar) | [Teddy Wilson](https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii) | [I Got Rhythm](https://open.spotify.com/album/06nblZEpSdnbBN6iLwl3W9) | 4:09 | 2021-12-16 |  |

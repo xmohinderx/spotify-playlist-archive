@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover:  <a href="https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL?si=azpECZvcTeudnkK3WpCBxQ"> M.I\. Abaga </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,523 likes - 70 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,542 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 30 | [AMAPIANO](https://open.spotify.com/track/2M1wKgqxbloFNr8WjVi9OM) | [Youssoupha](https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4) | [AMAPIANO](https://open.spotify.com/album/2B4Y7IGYppG4Z6jovbuZK8) | 2:29 |
 | 31 | [SUN](https://open.spotify.com/track/1qkMjWTD1QY2OYZY6nFAAy) | [Shane Eagle](https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV) | [SUN / BABY BLUE 4’s](https://open.spotify.com/album/0NwhEWOhZFXHtcEfJvU4fD) | 2:27 |
 | 32 | [Khuphuka](https://open.spotify.com/track/0yonvZ8xFI5IYgOVaXTSa5) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Khuphuka](https://open.spotify.com/album/6UsHrbbrXsM36PT0BbGWjj) | 3:03 |
-| 33 | [Best I Ever Had](https://open.spotify.com/track/26GutI9CH23aj4ZZlhLVXc) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Best I Ever Had](https://open.spotify.com/album/7IZ4yJSu3YiGNcQlw1mIBs) | 2:38 |
-| 34 | [Put Your Hands Up](https://open.spotify.com/track/6od2XO9Tr80jHwNwXSNLR6) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP), [Mousse T.](https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6) | [Put Your Hands Up](https://open.spotify.com/album/4H43FO9JQCliwYJZnuIvFc) | 3:29 |
+| 33 | [Put Your Hands Up](https://open.spotify.com/track/6od2XO9Tr80jHwNwXSNLR6) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP), [Mousse T.](https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6) | [Put Your Hands Up](https://open.spotify.com/album/4H43FO9JQCliwYJZnuIvFc) | 3:29 |
+| 34 | [Best I Ever Had](https://open.spotify.com/track/26GutI9CH23aj4ZZlhLVXc) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Best I Ever Had](https://open.spotify.com/album/7IZ4yJSu3YiGNcQlw1mIBs) | 2:38 |
 | 35 | [Jungle Music, Pt\. 2](https://open.spotify.com/track/14K8hW2G2QR14sN5nl0VG1) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [Son Of Jacob](https://open.spotify.com/album/2cdAiFntbOi3Yr6nRkDlzC) | 2:53 |
 | 36 | [CATALYST](https://open.spotify.com/track/3gaYFa4e3JswfToeYHtAKX) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [EAST MPAKA LONDON](https://open.spotify.com/album/47vN97kxrAYQUMNEjgBX0G) | 2:44 |
 | 37 | [Coachella](https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Coachella](https://open.spotify.com/album/0pR0ivVxPWH03hRgsNJMuh) | 3:05 |
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 55 | [Next Up](https://open.spotify.com/track/3a4MsohOkHxzYIaS27IhXm) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Champuru Makhenzo](https://open.spotify.com/artist/5opgK8q2QxKDdubvoUO0Cw) | [Trapiano, Vol\. 1](https://open.spotify.com/album/6YJHWCrGnYCRO9p1pdBqNw) | 2:02 |
 | 56 | [Animalistic](https://open.spotify.com/track/7Hvn6MDsWBj3aOVvJRu9Np) | [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw) | [Animalistic](https://open.spotify.com/album/1lyaP0XZFR1nF4XjjQo4ds) | 2:46 |
 | 57 | [All the smoke](https://open.spotify.com/track/0NmIi08d05F0ziGm3wqMaG) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Something to Live For](https://open.spotify.com/album/7shAasLUc9cFkpxUc9U8NW) | 3:12 |
-| 58 | [ASTRONAUTE](https://open.spotify.com/track/0Mm1sVPZCrUqNcLK0Gug7a) | [Youssoupha](https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4) | [ASTRONAUTE](https://open.spotify.com/album/2BIMATZr1ZmgpYAoZOvGPT) | 3:27 |
-| 59 | [Vibration](https://open.spotify.com/track/7p1h63u5ATBUVnpQKP9Qzh) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [Vibration](https://open.spotify.com/album/6Sv2Wno4AXhR7Xar3ZP5NV) | 3:28 |
-| 60 | [Hmm \- Remix](https://open.spotify.com/track/62slPHVX1XEFfdoxaUtosU) | [G4 Boyz](https://open.spotify.com/artist/4ZtqSJYEh407LR6NM5hNcS), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [O'Kenneth](https://open.spotify.com/artist/1ti1eoBDoZtKJVZSkCUY8h) | [Hmm \(Remix\)](https://open.spotify.com/album/7w1vWwOOr64HhVRTGIscTb) | 3:30 |
+| 58 | [Vibration](https://open.spotify.com/track/7p1h63u5ATBUVnpQKP9Qzh) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [Vibration](https://open.spotify.com/album/6Sv2Wno4AXhR7Xar3ZP5NV) | 3:28 |
+| 59 | [Hmm \- Remix](https://open.spotify.com/track/62slPHVX1XEFfdoxaUtosU) | [G4 Boyz](https://open.spotify.com/artist/4ZtqSJYEh407LR6NM5hNcS), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [O'Kenneth](https://open.spotify.com/artist/1ti1eoBDoZtKJVZSkCUY8h) | [Hmm \(Remix\)](https://open.spotify.com/album/7w1vWwOOr64HhVRTGIscTb) | 3:30 |
+| 60 | [ASTRONAUTE](https://open.spotify.com/track/0Mm1sVPZCrUqNcLK0Gug7a) | [Youssoupha](https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4) | [ASTRONAUTE](https://open.spotify.com/album/2BIMATZr1ZmgpYAoZOvGPT) | 3:27 |
 | 61 | [4 Door Jeep](https://open.spotify.com/track/6ePSJX6heXGhQGPVbS0gso) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Sex Over Love \(Deluxe Edition\)](https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl) | 2:12 |
 | 62 | [Midf \(Money I Dey Find\)](https://open.spotify.com/track/1pHqJPHNLpaOqjl0PSzffm) | [Ycee](https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj) | [Quarantunes](https://open.spotify.com/album/5bI6csV1lwESm1gRVcSrnV) | 3:40 |
 | 63 | [Ball Till We Fall](https://open.spotify.com/track/4ZrGslwrdNckETI7gktSwS) | [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Ball Till We Fall](https://open.spotify.com/album/1ykaxeBYRvI0boqwTezPTx) | 2:23 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 69 | [Be Alright](https://open.spotify.com/track/0IHFTzh4RsknfejGkeMeWy) | [Romo](https://open.spotify.com/artist/1gBaZj95aDyGNuHFj20qU0), [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr), [Mr Brown](https://open.spotify.com/artist/6zfdfAQ735KFzpBLkEJxhr) | [Be Alright](https://open.spotify.com/album/6l1QGaPLegfRkzjEoqvVgo) | 4:25 |
 | 70 | [danser](https://open.spotify.com/track/576lLNRA4HnejTI5Q0c3zd) | [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq) | [danser](https://open.spotify.com/album/2fmRDcnFbSR2T9oxDVcXPw) | 2:24 |
 
-Snapshot ID: `MTY2MDg2MzYwMCwwMDAwMDAwMDMxYzllOWE4MDNmMGNmOTliZWZkMjBmOTllMjUzNzY0`
+Snapshot ID: `MTY2MDg2MzYwMCwwMDAwMDAwMDlmOGMxYjY0NThmZmE1Njg5YjdkYjcwYjg2Y2Q1NGMy`

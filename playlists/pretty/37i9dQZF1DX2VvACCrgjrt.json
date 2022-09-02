@@ -1,12 +1,12 @@
 {
   "description": "Real nasty house. Cover: ESSEL",
-  "num_followers": 390751,
+  "num_followers": 390131,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUyMTM3NSwwMDAwMDAwMDdjMDgzYTkyYjE5MTUyOGE0MjQ4Mjg0YWE5MTVhYjIz",
+  "snapshot_id": "MTY2MTUyMTM3NSwwMDAwMDAwMDVmNTA1MzFkOGZkOTFkMjYwZjdhOGJhNGYyMTBmMjE1",
   "tracks": [
     {
       "added_at": "2022-07-29 04:01:00",
@@ -409,10 +409,10 @@
       "url": "https://open.spotify.com/track/0MmCny6gGuYPM4wT1rqoz3"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/5NV4VYi9UiVkAfceSgE6sM"
+        "name": "Free My Mind",
+        "url": "https://open.spotify.com/album/2OUYqhPPHwCd9K4u8qO9jU"
       },
       "artists": [
         {
@@ -420,13 +420,13 @@
           "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
         },
         {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
         }
       ],
-      "duration_ms": 172245,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/5Y6LspDMKmZsFf6D5zhWoY"
+      "duration_ms": 171076,
+      "name": "Free My Mind",
+      "url": "https://open.spotify.com/track/4mYWE9Agg0hvKuaOaej6vF"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -597,10 +597,10 @@
       "url": "https://open.spotify.com/track/5x2hXRoEDfEF67WvWqoCqY"
     },
     {
-      "added_at": "2022-08-19 04:01:00",
+      "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Free My Mind",
-        "url": "https://open.spotify.com/album/2OUYqhPPHwCd9K4u8qO9jU"
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/5NV4VYi9UiVkAfceSgE6sM"
       },
       "artists": [
         {
@@ -608,13 +608,13 @@
           "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
         },
         {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
         }
       ],
-      "duration_ms": 171076,
-      "name": "Free My Mind",
-      "url": "https://open.spotify.com/track/4mYWE9Agg0hvKuaOaej6vF"
+      "duration_ms": 172245,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/5Y6LspDMKmZsFf6D5zhWoY"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -639,26 +639,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Losing My Mind (with Elohim)",
-        "url": "https://open.spotify.com/album/6cj8neZRFBV86kkyte2y0u"
-      },
-      "artists": [
-        {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
-        },
-        {
-          "name": "Elohim",
-          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
-        }
-      ],
-      "duration_ms": 206141,
-      "name": "Losing My Mind (with Elohim)",
-      "url": "https://open.spotify.com/track/4uklTQyZiktk2DExXMRHZk"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "HYPE HOP 001",
         "url": "https://open.spotify.com/album/6lrNWW4lkSLyFg64ajFjWk"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 160066,
       "name": "BOP - Hype Hop Edit (feat. DillanPonders, Kris the $pirit)",
       "url": "https://open.spotify.com/track/4pbekeVfUyyCNrBXgLBahS"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Losing My Mind (with Elohim)",
+        "url": "https://open.spotify.com/album/6cj8neZRFBV86kkyte2y0u"
+      },
+      "artists": [
+        {
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        },
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        }
+      ],
+      "duration_ms": 206141,
+      "name": "Losing My Mind (with Elohim)",
+      "url": "https://open.spotify.com/track/4uklTQyZiktk2DExXMRHZk"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -715,6 +715,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "Work It",
+        "url": "https://open.spotify.com/album/4BNzkfb073vw9TvdtvGZRK"
+      },
+      "artists": [
+        {
+          "name": "VOLAC",
+          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Work It",
+      "url": "https://open.spotify.com/track/2jC6oAT2P3w9HQBrRcQqFl"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Snakes On My Chest",
         "url": "https://open.spotify.com/album/2aZLa2Fb3Rua6dBHfwEFUr"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 174545,
       "name": "Snakes On My Chest",
       "url": "https://open.spotify.com/track/5OdiCCcYYGP0vrwkT6ONz7"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Work It",
-        "url": "https://open.spotify.com/album/4BNzkfb073vw9TvdtvGZRK"
-      },
-      "artists": [
-        {
-          "name": "VOLAC",
-          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Work It",
-      "url": "https://open.spotify.com/track/2jC6oAT2P3w9HQBrRcQqFl"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -927,22 +927,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Lay It Down (feat. Bricc Baby)",
-        "url": "https://open.spotify.com/album/2YMkA9lt4ehtS8BeoZ6ClX"
+        "name": "High Vaultage EP",
+        "url": "https://open.spotify.com/album/3FYAvx8nplQwbciVpHe7y5"
       },
       "artists": [
         {
-          "name": "Capozzi",
-          "url": "https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC"
+          "name": "Space Laces",
+          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
         },
         {
-          "name": "Bricc Baby",
-          "url": "https://open.spotify.com/artist/6WtTLIl6HLw0JI15Z3Ia8q"
+          "name": "Watch",
+          "url": "https://open.spotify.com/artist/036bvTwDThpn1xsB38mBX3"
         }
       ],
-      "duration_ms": 215798,
-      "name": "Lay It Down (feat. Bricc Baby)",
-      "url": "https://open.spotify.com/track/5brF58DyR90gbHuMJqD5of"
+      "duration_ms": 204604,
+      "name": "Not Bees",
+      "url": "https://open.spotify.com/track/6XQoXvZzIIOsUVobKDwPtg"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -987,22 +987,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "High Vaultage EP",
-        "url": "https://open.spotify.com/album/3FYAvx8nplQwbciVpHe7y5"
+        "name": "Lay It Down (feat. Bricc Baby)",
+        "url": "https://open.spotify.com/album/2YMkA9lt4ehtS8BeoZ6ClX"
       },
       "artists": [
         {
-          "name": "Space Laces",
-          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
+          "name": "Capozzi",
+          "url": "https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC"
         },
         {
-          "name": "Watch",
-          "url": "https://open.spotify.com/artist/036bvTwDThpn1xsB38mBX3"
+          "name": "Bricc Baby",
+          "url": "https://open.spotify.com/artist/6WtTLIl6HLw0JI15Z3Ia8q"
         }
       ],
-      "duration_ms": 204604,
-      "name": "Not Bees",
-      "url": "https://open.spotify.com/track/6XQoXvZzIIOsUVobKDwPtg"
+      "duration_ms": 215798,
+      "name": "Lay It Down (feat. Bricc Baby)",
+      "url": "https://open.spotify.com/track/5brF58DyR90gbHuMJqD5of"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1019,42 +1019,6 @@
       "duration_ms": 186240,
       "name": "Act Up",
       "url": "https://open.spotify.com/track/3zMTtFESlmiuKeIx61e0Io"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Good For Me",
-        "url": "https://open.spotify.com/album/7iz2DbytzGHESa6tJmtwsR"
-      },
-      "artists": [
-        {
-          "name": "Stonebank",
-          "url": "https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377"
-        },
-        {
-          "name": "EMEL",
-          "url": "https://open.spotify.com/artist/1U6FdBYgMkeRjQFuTF5JYr"
-        }
-      ],
-      "duration_ms": 176640,
-      "name": "Good For Me",
-      "url": "https://open.spotify.com/track/35w074ZJpkCUCWtS0T2pvm"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Arrival",
-        "url": "https://open.spotify.com/album/152sZrZc6xAtqSE0Y9fqv9"
-      },
-      "artists": [
-        {
-          "name": "Capozzi",
-          "url": "https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC"
-        }
-      ],
-      "duration_ms": 207096,
-      "name": "Arrival",
-      "url": "https://open.spotify.com/track/1HhfEj6K1gObPfi1nQfOyN"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1079,6 +1043,46 @@
       "duration_ms": 106875,
       "name": "Move To The Beat Like",
       "url": "https://open.spotify.com/track/4NVvx8aXIqxj2Pm0E4senX"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Good For Me",
+        "url": "https://open.spotify.com/album/7iz2DbytzGHESa6tJmtwsR"
+      },
+      "artists": [
+        {
+          "name": "Stonebank",
+          "url": "https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377"
+        },
+        {
+          "name": "EMEL",
+          "url": "https://open.spotify.com/artist/1U6FdBYgMkeRjQFuTF5JYr"
+        }
+      ],
+      "duration_ms": 176640,
+      "name": "Good For Me",
+      "url": "https://open.spotify.com/track/35w074ZJpkCUCWtS0T2pvm"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Taking My Time",
+        "url": "https://open.spotify.com/album/1NYbd0nyDLdW0siikDGgzS"
+      },
+      "artists": [
+        {
+          "name": "Stafford Brothers",
+          "url": "https://open.spotify.com/artist/1dnbud9cuozLQ86MtrDPFr"
+        },
+        {
+          "name": "Static Revenger",
+          "url": "https://open.spotify.com/artist/4Q08msBV0v3oEN91O7ubsD"
+        }
+      ],
+      "duration_ms": 155036,
+      "name": "Taking My Time",
+      "url": "https://open.spotify.com/track/1MhT60RqS3GoWyCypic28z"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1119,26 +1123,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Taking My Time",
-        "url": "https://open.spotify.com/album/1NYbd0nyDLdW0siikDGgzS"
-      },
-      "artists": [
-        {
-          "name": "Stafford Brothers",
-          "url": "https://open.spotify.com/artist/1dnbud9cuozLQ86MtrDPFr"
-        },
-        {
-          "name": "Static Revenger",
-          "url": "https://open.spotify.com/artist/4Q08msBV0v3oEN91O7ubsD"
-        }
-      ],
-      "duration_ms": 155036,
-      "name": "Taking My Time",
-      "url": "https://open.spotify.com/track/1MhT60RqS3GoWyCypic28z"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Licked",
         "url": "https://open.spotify.com/album/3I549AvPzDfWUItpvHSid4"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 318720,
       "name": "G Spot",
       "url": "https://open.spotify.com/track/3jncEfaHJl2BMGjwk2POgn"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/152sZrZc6xAtqSE0Y9fqv9"
+      },
+      "artists": [
+        {
+          "name": "Capozzi",
+          "url": "https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC"
+        }
+      ],
+      "duration_ms": 207096,
+      "name": "Arrival",
+      "url": "https://open.spotify.com/track/1HhfEj6K1gObPfi1nQfOyN"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "Joker",
+        "url": "https://open.spotify.com/album/30Z0hlDjEtGGxI6zKvdB2t"
+      },
+      "artists": [
+        {
+          "name": "Kitone",
+          "url": "https://open.spotify.com/artist/0G8avcrSozHqt8AJDrd4Xj"
+        }
+      ],
+      "duration_ms": 127797,
+      "name": "Joker",
+      "url": "https://open.spotify.com/track/2VvFtT6YXgtwcBjD8VMD24"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Slaughterhouse",
         "url": "https://open.spotify.com/album/6gQBI7Qvjk7Xs5SLvc6Dcf"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 284516,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/3j3PX04rM6SI8oNOl1T3n3"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Joker",
-        "url": "https://open.spotify.com/album/30Z0hlDjEtGGxI6zKvdB2t"
-      },
-      "artists": [
-        {
-          "name": "Kitone",
-          "url": "https://open.spotify.com/artist/0G8avcrSozHqt8AJDrd4Xj"
-        }
-      ],
-      "duration_ms": 127797,
-      "name": "Joker",
-      "url": "https://open.spotify.com/track/2VvFtT6YXgtwcBjD8VMD24"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "4Ever",
+        "url": "https://open.spotify.com/album/7pHLVCS4BQLtKLgMeX57Ib"
+      },
+      "artists": [
+        {
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        }
+      ],
+      "duration_ms": 159200,
+      "name": "4Ever",
+      "url": "https://open.spotify.com/track/5ZB6eNIi1eeF3QJ7T69exd"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Wolf",
         "url": "https://open.spotify.com/album/4ffsuX1oMvA5cbSgAyMmIv"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 167459,
       "name": "Wolf",
       "url": "https://open.spotify.com/track/2yBTcEYoW6jD1I1xosjcHd"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "4Ever",
-        "url": "https://open.spotify.com/album/7pHLVCS4BQLtKLgMeX57Ib"
-      },
-      "artists": [
-        {
-          "name": "Tisoki",
-          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
-        }
-      ],
-      "duration_ms": 159200,
-      "name": "4Ever",
-      "url": "https://open.spotify.com/track/5ZB6eNIi1eeF3QJ7T69exd"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "This Is Night Bass: Vol. 14",
+        "url": "https://open.spotify.com/album/0vrgZVoQ9Z34ORVkyhNH8e"
+      },
+      "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        }
+      ],
+      "duration_ms": 184091,
+      "name": "Dibby Dibby DJ",
+      "url": "https://open.spotify.com/track/56tEhPXmy3v3f07kHZQKWz"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Giving Up On Love",
         "url": "https://open.spotify.com/album/0ZVqV79CTkqSGhGBXdUbO5"
       },
@@ -1687,22 +1703,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "This Is Night Bass: Vol. 14",
-        "url": "https://open.spotify.com/album/0vrgZVoQ9Z34ORVkyhNH8e"
-      },
-      "artists": [
-        {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
-        }
-      ],
-      "duration_ms": 184091,
-      "name": "Dibby Dibby DJ",
-      "url": "https://open.spotify.com/track/56tEhPXmy3v3f07kHZQKWz"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Ridiculous",
         "url": "https://open.spotify.com/album/5EJRspOV5Vykj7jTgLT7d3"
       },
@@ -1715,22 +1715,6 @@
       "duration_ms": 140000,
       "name": "Ridiculous",
       "url": "https://open.spotify.com/track/7gI3L0bry3gOER6UeS9Vke"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Move It",
-        "url": "https://open.spotify.com/album/5wktvgz5IqlWiSegQBvQxo"
-      },
-      "artists": [
-        {
-          "name": "Bok Nero",
-          "url": "https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V"
-        }
-      ],
-      "duration_ms": 140701,
-      "name": "Move It",
-      "url": "https://open.spotify.com/track/14JGGrnRhzw34yqcIlPlG6"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1771,6 +1755,22 @@
       "duration_ms": 133846,
       "name": "Turn Up",
       "url": "https://open.spotify.com/track/0xWJdTcTxw1aJ1vqQwOlzp"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Move It",
+        "url": "https://open.spotify.com/album/5wktvgz5IqlWiSegQBvQxo"
+      },
+      "artists": [
+        {
+          "name": "Bok Nero",
+          "url": "https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V"
+        }
+      ],
+      "duration_ms": 140701,
+      "name": "Move It",
+      "url": "https://open.spotify.com/track/14JGGrnRhzw34yqcIlPlG6"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1829,22 +1829,6 @@
       "url": "https://open.spotify.com/track/1cbzWFnvxNU9M059TVWDSU"
     },
     {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "4 The Love",
-        "url": "https://open.spotify.com/album/1VVeContseVgaxemdjoSDM"
-      },
-      "artists": [
-        {
-          "name": "Neon Steve",
-          "url": "https://open.spotify.com/artist/1CNO980Lk9CaBWBnM1MZXi"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "4 The Love",
-      "url": "https://open.spotify.com/track/3CQmrKyNKHknCGUnEpm7Al"
-    },
-    {
       "added_at": "2022-07-22 04:01:00",
       "album": {
         "name": "Get Twisted",
@@ -1859,6 +1843,22 @@
       "duration_ms": 225000,
       "name": "Get Twisted",
       "url": "https://open.spotify.com/track/3fRBE44FFj6EXPtn4gXjXw"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "4 The Love",
+        "url": "https://open.spotify.com/album/1VVeContseVgaxemdjoSDM"
+      },
+      "artists": [
+        {
+          "name": "Neon Steve",
+          "url": "https://open.spotify.com/artist/1CNO980Lk9CaBWBnM1MZXi"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "4 The Love",
+      "url": "https://open.spotify.com/track/3CQmrKyNKHknCGUnEpm7Al"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1931,26 +1931,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Dynamit",
-        "url": "https://open.spotify.com/album/79sO4cnYpPkleEdkRO6gE6"
-      },
-      "artists": [
-        {
-          "name": "MVDNES",
-          "url": "https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7"
-        },
-        {
-          "name": "Jet Crown",
-          "url": "https://open.spotify.com/artist/0fhdgJmaNnwr1TjeElwSRp"
-        }
-      ],
-      "duration_ms": 103548,
-      "name": "Dynamit",
-      "url": "https://open.spotify.com/track/6fYeZjIYG7Fzf6zOP7FTyW"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Get Crunk",
         "url": "https://open.spotify.com/album/0VLd7OnvNoJOdYPOPFzfC1"
       },
@@ -1967,6 +1947,26 @@
       "duration_ms": 188085,
       "name": "Get Crunk",
       "url": "https://open.spotify.com/track/5W5OYUsIU6layuL0uQmCBX"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Dynamit",
+        "url": "https://open.spotify.com/album/79sO4cnYpPkleEdkRO6gE6"
+      },
+      "artists": [
+        {
+          "name": "MVDNES",
+          "url": "https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7"
+        },
+        {
+          "name": "Jet Crown",
+          "url": "https://open.spotify.com/artist/0fhdgJmaNnwr1TjeElwSRp"
+        }
+      ],
+      "duration_ms": 103548,
+      "name": "Dynamit",
+      "url": "https://open.spotify.com/track/6fYeZjIYG7Fzf6zOP7FTyW"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -2127,6 +2127,26 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "RAVE GAME",
+        "url": "https://open.spotify.com/album/0jf36FuJofd4AncTkpxSGI"
+      },
+      "artists": [
+        {
+          "name": "BEAUZ",
+          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
+        },
+        {
+          "name": "NINEONE\u8d75\u99a8\u73a5",
+          "url": "https://open.spotify.com/artist/0id1kre1ASgHByPQgivxUk"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "RAVE GAME",
+      "url": "https://open.spotify.com/track/49DxqidpypOz3l98JUQZAn"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "One Bad Bitch",
         "url": "https://open.spotify.com/album/1W217zL44epr9Ckcex3uHB"
       },
@@ -2147,26 +2167,6 @@
       "duration_ms": 203831,
       "name": "One Bad Bitch",
       "url": "https://open.spotify.com/track/6F3lOKRnB14Zpl4hHTXF06"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "RAVE GAME",
-        "url": "https://open.spotify.com/album/0jf36FuJofd4AncTkpxSGI"
-      },
-      "artists": [
-        {
-          "name": "BEAUZ",
-          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
-        },
-        {
-          "name": "NINEONE\u8d75\u99a8\u73a5",
-          "url": "https://open.spotify.com/artist/0id1kre1ASgHByPQgivxUk"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "RAVE GAME",
-      "url": "https://open.spotify.com/track/49DxqidpypOz3l98JUQZAn"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -2321,22 +2321,6 @@
       "url": "https://open.spotify.com/track/1bpt1M45P9CntixjQ0apti"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Overthinkin'",
-        "url": "https://open.spotify.com/album/5uTmgjfsvn20jTcVrInbyH"
-      },
-      "artists": [
-        {
-          "name": "Jayms",
-          "url": "https://open.spotify.com/artist/1reef06goIFAhuhQsLUHf5"
-        }
-      ],
-      "duration_ms": 299527,
-      "name": "Overthinkin'",
-      "url": "https://open.spotify.com/track/2cmM9VWTXlE08tPNqTHpSg"
-    },
-    {
       "added_at": "2022-08-05 04:01:00",
       "album": {
         "name": "Reckless",
@@ -2359,6 +2343,22 @@
       "duration_ms": 222857,
       "name": "Reckless",
       "url": "https://open.spotify.com/track/37fAW4AI7aPtdZYyVU5JGo"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Overthinkin'",
+        "url": "https://open.spotify.com/album/5uTmgjfsvn20jTcVrInbyH"
+      },
+      "artists": [
+        {
+          "name": "Jayms",
+          "url": "https://open.spotify.com/artist/1reef06goIFAhuhQsLUHf5"
+        }
+      ],
+      "duration_ms": 299527,
+      "name": "Overthinkin'",
+      "url": "https://open.spotify.com/track/2cmM9VWTXlE08tPNqTHpSg"
     }
   ],
   "unique_name": "Nasty Bits",

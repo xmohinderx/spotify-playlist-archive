@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 
 > Los próceres de la historia del rock nacional\. Zoé en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,830 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,956 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 | 20 | [Tres Lunares](https://open.spotify.com/track/0THa3Vl0Ad1ksflpK10AJw) | [Kerigma](https://open.spotify.com/artist/7t3VRQukdpeWyhKTgodDxB) | [Esquizofrenia](https://open.spotify.com/album/2KAIEIj96L0yLif1Urh3Mr) | 4:10 |
 | 21 | [Y Que](https://open.spotify.com/track/5YRhQ7h8w2cMCY2teyjax6) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:45 |
 | 22 | [Eres para Mí \(with Anita Tijoux\)](https://open.spotify.com/track/4m3vLNZkFAjm30XxPXf7E3) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:12 |
-| 23 | [Comprendes, Mendes?](https://open.spotify.com/track/2YRDxUyqAXbukcjClvuYsd) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Mucho Barato](https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog) | 3:35 |
-| 24 | [Visita](https://open.spotify.com/track/1v15LSVQiEsGm4FK8SH7rI) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Daltónico](https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy) | 3:44 |
+| 23 | [Visita](https://open.spotify.com/track/1v15LSVQiEsGm4FK8SH7rI) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Daltónico](https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy) | 3:44 |
+| 24 | [Comprendes, Mendes?](https://open.spotify.com/track/2YRDxUyqAXbukcjClvuYsd) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Mucho Barato](https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog) | 3:35 |
 | 25 | [Monitor](https://open.spotify.com/track/7on4qNO1Iu5EX61mD80Cgv) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA) | [Monitor](https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB) | 3:57 |
 | 26 | [Black Magic Woman \- Single Version](https://open.spotify.com/track/4YMQXzscifAREG0a7KNGhB) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Santana's Greatest Hits](https://open.spotify.com/album/1YrdGK2y2Edq2R5gFja2ai) | 3:16 |
 | 27 | [Aquí No Es Así](https://open.spotify.com/track/02KG9DpLT3bV4fzUM1bORW) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [El Nervio Del Volcan](https://open.spotify.com/album/2mPZNQNgW1zrkIPyL9XJcf) | 4:54 |
@@ -54,22 +54,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 | 44 | [Si Tu Boquita Fuera](https://open.spotify.com/track/32CYkcjOSCbiIoBeBheUx7) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [96 \- 05](https://open.spotify.com/album/0pwnHJD1my6WUATRg69Eag) | 2:11 |
 | 45 | [Tornasol \(Vuelves a Ser\)](https://open.spotify.com/track/1BaNzcWE5fAJ6Ujh1CytzN) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [La Gusana Ciega](https://open.spotify.com/album/5cc54VNiVL3mwUZxKCELNJ) | 3:44 |
 | 46 | [Azul](https://open.spotify.com/track/3V4TnrGeVCxB2TLZ2pZQYO) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte](https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw) | 4:14 |
-| 47 | [A.D.O.](https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [40 Años Vol\. 1](https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1) | 4:54 |
-| 48 | [Espiral](https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Donde los Ponys Pastan](https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx) | 5:22 |
+| 47 | [Espiral](https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Donde los Ponys Pastan](https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx) | 5:22 |
+| 48 | [A.D.O.](https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [40 Años Vol\. 1](https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1) | 4:54 |
 | 49 | [Acábame de Matar](https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Panteón Rococó](https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg) | 3:00 |
 | 50 | [Sol de Medianoche](https://open.spotify.com/track/5IZ0g6oo8OUa6fP1zBQpWB) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Locos y Rucas In Retro](https://open.spotify.com/album/3OEHH1ixOYMH6NKkLmxRmI) | 4:10 |
 | 51 | [Siento Que...](https://open.spotify.com/track/1VtBjpwh6xdRPDy20Uln3W) | [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB) | [Restaurant](https://open.spotify.com/album/5zU7tsXAkoLAdc1Un5j96c) | 3:29 |
 | 52 | [No Es Que No Te Quiera](https://open.spotify.com/track/2MZ8QFHGiHa5oQcF6nX8fX) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [Arunima](https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT) | 3:48 |
 | 53 | [Detrás de los Cerros](https://open.spotify.com/track/2ype6DLvWvW3NdSzDi8Dk2) | [Jaguares](https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq) | [El Equilibrio De Los Jaguares](https://open.spotify.com/album/345ZGeUupFETaN36llAJCR) | 3:58 |
-| 54 | [Completamente](https://open.spotify.com/track/3c3XE8e9fG7VLoW4GNsiNY) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Blanco Fácil](https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt) | 4:23 |
-| 55 | [Cámara De Faltas](https://open.spotify.com/track/6O3D5ai8UmEHwyicBq07pk) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Enjambre Y Los Huéspedes Del Orbe](https://open.spotify.com/album/2wvZoVfLcQeDdErfx6jHiP) | 3:43 |
+| 54 | [Cámara De Faltas](https://open.spotify.com/track/6O3D5ai8UmEHwyicBq07pk) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Enjambre Y Los Huéspedes Del Orbe](https://open.spotify.com/album/2wvZoVfLcQeDdErfx6jHiP) | 3:43 |
+| 55 | [Completamente](https://open.spotify.com/track/3c3XE8e9fG7VLoW4GNsiNY) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Blanco Fácil](https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt) | 4:23 |
 | 56 | [Solín](https://open.spotify.com/track/4OnOwfpbZCwHnFNDqgjOuS) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 3:11 |
 | 57 | [Nalguita](https://open.spotify.com/track/3vEkB7InOc5P7Vs3CNkCB2) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [Tasty + B Sides](https://open.spotify.com/album/5IO0ppb7WMdyanUnnBCR0M) | 4:14 |
-| 58 | [Europa \(Earth's Cry Heaven's Smile\)](https://open.spotify.com/track/4VbOIkKqt0gkZpC75oKSxS) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Amigos](https://open.spotify.com/album/1xlThGcidi851d3NwHfjQH) | 5:04 |
-| 59 | [Mamá](https://open.spotify.com/track/2oA3tCnnhyMaCVzS5MLZZY) | [Los Amantes De Lola](https://open.spotify.com/artist/7IwYwKG6VacXOThKHvPgUc) | [Rock En Espanol \- Lo Mejor De Los Amantes De Lola](https://open.spotify.com/album/38l9gB9jzOiWkQaR36ZhUG) | 3:46 |
-| 60 | [Caminar Sola](https://open.spotify.com/track/1ZGTVVXlL3FkaTGyNQey2P) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Caminar Sola](https://open.spotify.com/album/5MJYQdDfWT6r77caberwu2) | 3:18 |
-| 61 | [Soun Tha Mi Primer Amor \- Remastered](https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Kinky \(Remastered\)](https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI) | 3:11 |
-| 62 | [Tu Luz](https://open.spotify.com/track/0bqfNDZvqXB10fUKSfj6mY) | [Azul Violeta](https://open.spotify.com/artist/5U5HiTvNUclEE0bwGVDBIX) | [Globoscopio](https://open.spotify.com/album/3ZmohMIf51g01KO57xm6Zc) | 4:33 |
+| 58 | [Mamá](https://open.spotify.com/track/2oA3tCnnhyMaCVzS5MLZZY) | [Los Amantes De Lola](https://open.spotify.com/artist/7IwYwKG6VacXOThKHvPgUc) | [Rock En Espanol \- Lo Mejor De Los Amantes De Lola](https://open.spotify.com/album/38l9gB9jzOiWkQaR36ZhUG) | 3:46 |
+| 59 | [Europa \(Earth's Cry Heaven's Smile\)](https://open.spotify.com/track/4VbOIkKqt0gkZpC75oKSxS) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Amigos](https://open.spotify.com/album/1xlThGcidi851d3NwHfjQH) | 5:04 |
+| 60 | [Tu Luz](https://open.spotify.com/track/0bqfNDZvqXB10fUKSfj6mY) | [Azul Violeta](https://open.spotify.com/artist/5U5HiTvNUclEE0bwGVDBIX) | [Globoscopio](https://open.spotify.com/album/3ZmohMIf51g01KO57xm6Zc) | 4:33 |
+| 61 | [Caminar Sola](https://open.spotify.com/track/1ZGTVVXlL3FkaTGyNQey2P) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Caminar Sola](https://open.spotify.com/album/5MJYQdDfWT6r77caberwu2) | 3:18 |
+| 62 | [Soun Tha Mi Primer Amor \- Remastered](https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Kinky \(Remastered\)](https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI) | 3:11 |
 | 63 | [Reptilectric](https://open.spotify.com/track/2sProjAkdt5b4TgShSRvgA) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Reptilectric](https://open.spotify.com/album/6Tqp8Twmyl9xRhePhKS668) | 3:52 |
 | 64 | [Morenaza](https://open.spotify.com/track/6MaTImJcG82qYwx6fJkm84) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [Maldita Vecindad y los Hijos del Quinto Patio](https://open.spotify.com/album/1JfXrzzdymYGCrSXfKcAyE) | 5:05 |
 | 65 | [Tijuana Sound Machine](https://open.spotify.com/track/7HW7q9Vcgr3GlUV7PKHKOj) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [Tijuana Sound Machine \(Nortec Collective Presents: Bostich+Fussible\)](https://open.spotify.com/album/4H3jCH55WS5z7CF6g144eV) | 3:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 | 99 | [Here We Kum \- MTV Unplugged](https://open.spotify.com/track/4W2MGgZyieERJLtTrzW5cz) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Here We Kum \(MTV Unplugged\)](https://open.spotify.com/album/3Q9jipuRZvFyyS4sZSoaMn) | 4:43 |
 | 100 | [Que Grosero](https://open.spotify.com/track/5bNA2LQPTzZoye58HtZjsp) | [Ultrasonicas](https://open.spotify.com/artist/6ZZohniy25l0RCVUXYIDrV) | [Ultrasonicas](https://open.spotify.com/album/5zTNebmzsdtRxPYrxRxGr7) | 2:58 |
 
-Snapshot ID: `MTY2MTM4ODgxNiwwMDAwMDAwMDA1NmY4MjM0NDhkYTZkNjhkN2QyYTU1OGMwMWI0NmEz`
+Snapshot ID: `MTY2MTM4ODgxNiwwMDAwMDAwMDMwY2Y4NDYyZWQwYWMwNDQ4NTRmZmFlYmE4ZDAzNTg3`

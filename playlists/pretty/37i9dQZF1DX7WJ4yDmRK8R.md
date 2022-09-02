@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 
 > This is the best of ska, new and classic\. Cover: The Interrupters
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,317 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,301 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,15 +50,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 40 | [Amsterdam](https://open.spotify.com/track/02N6JQNfiB1Hc4nKm2P0g4) | [Jaya The Cat](https://open.spotify.com/artist/3gRJFoOKgAkHI7EZTWKXRy) | [A Good Day for the Damned](https://open.spotify.com/album/1TUGruCKtWlIQ6iQDQAtjr) | 3:26 |
 | 41 | [Lie to Me](https://open.spotify.com/track/49KsGRK6Pq6pjlGvBQ8NoQ) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Silver Linings](https://open.spotify.com/album/6PIQdcVGp07UYR4zWhVE1O) | 3:38 |
 | 42 | [Unstoppable](https://open.spotify.com/track/1ikzC1az2vXMR060qvDnvW) | [The Planet Smashers](https://open.spotify.com/artist/2wYNzTzigUWAeVLaxeRrg3) | [Unstoppable](https://open.spotify.com/album/1kJP7cQaT8xHYSKlknNiuS) | 3:08 |
-| 43 | [Beer](https://open.spotify.com/track/7rDOSQkStxj28M4GRM6Xbs) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Everything Sucks](https://open.spotify.com/album/5FLHSvc1Q7TW2hqspnqKRF) | 3:40 |
-| 44 | [My Town](https://open.spotify.com/track/2Bf8CoBhV8kDpQju55Tuha) | [Buck\-O\-Nine](https://open.spotify.com/artist/1jteNNEz2fLM4pF5ezFr5f) | [Twenty\-Eight Teeth](https://open.spotify.com/album/6vlMw1g1CoKOuVAj80aTe9) | 3:34 |
+| 43 | [My Town](https://open.spotify.com/track/2Bf8CoBhV8kDpQju55Tuha) | [Buck\-O\-Nine](https://open.spotify.com/artist/1jteNNEz2fLM4pF5ezFr5f) | [Twenty\-Eight Teeth](https://open.spotify.com/album/6vlMw1g1CoKOuVAj80aTe9) | 3:34 |
+| 44 | [Beer](https://open.spotify.com/track/7rDOSQkStxj28M4GRM6Xbs) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Everything Sucks](https://open.spotify.com/album/5FLHSvc1Q7TW2hqspnqKRF) | 3:40 |
 | 45 | [One Step Beyond](https://open.spotify.com/track/1G6eFFDRaLr9EbThnhzMBD) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [One Step Beyond...](https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA) | 2:18 |
 | 46 | [Free Time](https://open.spotify.com/track/19FG153t1MdozcTZHi8guM) | [The Aggrolites](https://open.spotify.com/artist/5tdgsoMr7dIrcVUVauzuvM) | [Reggae Hit L.A.](https://open.spotify.com/album/7IQmFed8UWBDt7MiTZR6Ob) | 3:01 |
 | 47 | [The World Is New](https://open.spotify.com/track/75NQydSjbz14rmt6j2UaMz) | [Save Ferris](https://open.spotify.com/artist/1PAi6SNPtaiFqTRiTfecFr) | [It Means Everything](https://open.spotify.com/album/1AiVqGWu6HcyLYuB0BMvcS) | 2:11 |
 | 48 | [I Don't Love You Anymore](https://open.spotify.com/track/4IhBMMgZkrQybTajYXtmVE) | [Bomb the Music Industry!](https://open.spotify.com/artist/7mmU5GuOoyxoBAgOZkSVj7) | [Get Warmer](https://open.spotify.com/album/2kGge9kVEDKWLMb4YsrmIs) | 4:42 |
 | 49 | [Where I'm Going](https://open.spotify.com/track/3MXxV2BQjMEhZmTtLkIOPz) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Trouble Maker \(Deluxe Edition\)](https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY) | 2:23 |
-| 50 | [Cali](https://open.spotify.com/track/75pC1KbHcJ9Wmrkdb53tGl) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl) | [Here in The Heights](https://open.spotify.com/album/2lGYvbR1ovYdsZKb2lTiq0) | 3:43 |
-| 51 | [Wasted Days](https://open.spotify.com/track/5z8lvQDJPOl8A7RkTOdJWQ) | [The Slackers](https://open.spotify.com/artist/2QRPuDfRA9LtoeGFaMikmK) | [Wasted Days](https://open.spotify.com/album/6Gsk2nUl219al8pzo8TNWB) | 4:08 |
+| 50 | [Wasted Days](https://open.spotify.com/track/5z8lvQDJPOl8A7RkTOdJWQ) | [The Slackers](https://open.spotify.com/artist/2QRPuDfRA9LtoeGFaMikmK) | [Wasted Days](https://open.spotify.com/album/6Gsk2nUl219al8pzo8TNWB) | 4:08 |
+| 51 | [Cali](https://open.spotify.com/track/75pC1KbHcJ9Wmrkdb53tGl) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl) | [Here in The Heights](https://open.spotify.com/album/2lGYvbR1ovYdsZKb2lTiq0) | 3:43 |
 | 52 | [On and On](https://open.spotify.com/track/7M86b1WHyyGFkKO3XO1uwb) | [Mustard Plug](https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu) | [In Black And White](https://open.spotify.com/album/423bYBpPMVSCvSfLr8DSdn) | 2:17 |
 | 53 | [Apparition](https://open.spotify.com/track/1yC2n0cfsyIASjIKD0EZ3H) | [Rx Bandits](https://open.spotify.com/artist/47bGK00zHXcGlUWfrE0dvi) | […And The Battle Begun](https://open.spotify.com/album/0bjJmoZgV7ijmlMwvF0Oij) | 3:39 |
 | 54 | [Lost Again](https://open.spotify.com/track/2fCV2Wko0b4ToipDJS6yun) | [Dance Hall Crashers](https://open.spotify.com/artist/7cIsuRDa9Q68n6Ui6GZsVj) | [Honey I'm Homely](https://open.spotify.com/album/1ykysjJVAuKPL3bpTxv6oX) | 3:23 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 74 | [Seven Seas](https://open.spotify.com/track/5EOJzNZsHhJIP0cwowK8i9) | [King Prawn](https://open.spotify.com/artist/1Fjm05W0fV3rvWRW3SFZY9) | [The Fabulous New Sounds of...](https://open.spotify.com/album/0HYasBR6e0TxXDfhmgSsSH) | 3:25 |
 | 75 | [No Place Like \(Not Being\) Home](https://open.spotify.com/track/4EJXrKHEbQp63JiMHUN4I3) | [The Frights](https://open.spotify.com/artist/2HSEdXKVq1WWtBbsIeNjRX) | [Hypochondriac](https://open.spotify.com/album/6uDqold3P9I1IKn2XuwZem) | 4:00 |
 | 76 | [Wisdom Teeth](https://open.spotify.com/track/147mMd7jI2ty1fR5AVJhS7) | [Popes Of Chillitown](https://open.spotify.com/artist/52TSqCyQNF1RMmTzew0soN) | [To the Moon](https://open.spotify.com/album/26hyjp4UUl9tsWW802rFEt) | 5:43 |
-| 77 | [Dreamcatcher](https://open.spotify.com/track/5EcwkzTe649NhX3GzN7kNK) | [Stacked Like Pancakes](https://open.spotify.com/artist/7Fk8bbugoEFZWgUvVoTBBp) | [Strange Creatures \- EP](https://open.spotify.com/album/5uL98nzPwql7vBbgvcZ1wm) | 4:14 |
-| 78 | [Lost It](https://open.spotify.com/track/0BvtEvt2oftqEAwOLl4ujT) | [The Hippos](https://open.spotify.com/artist/6glQCSuzgkNeB7oVMIkiYi) | [Heads Are Gonna Roll](https://open.spotify.com/album/1ShvLX5xWw2wwvBMu3ENWn) | 2:24 |
+| 77 | [Lost It](https://open.spotify.com/track/0BvtEvt2oftqEAwOLl4ujT) | [The Hippos](https://open.spotify.com/artist/6glQCSuzgkNeB7oVMIkiYi) | [Heads Are Gonna Roll](https://open.spotify.com/album/1ShvLX5xWw2wwvBMu3ENWn) | 2:24 |
+| 78 | [Dreamcatcher](https://open.spotify.com/track/5EcwkzTe649NhX3GzN7kNK) | [Stacked Like Pancakes](https://open.spotify.com/artist/7Fk8bbugoEFZWgUvVoTBBp) | [Strange Creatures \- EP](https://open.spotify.com/album/5uL98nzPwql7vBbgvcZ1wm) | 4:14 |
 | 79 | [You Don’t Know Anything About Me](https://open.spotify.com/track/1bc17U8UM8DDQUHywxghnm) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders \(Deluxe Edition\)](https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h) | 2:44 |
 | 80 | [Delinquent Song](https://open.spotify.com/track/44XOi657umNvDxNw8JvljD) | [Voodoo Glow Skulls](https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw) | [The Band Geek Mafia](https://open.spotify.com/album/1hgcVI15G410lDnGwFNDXk) | 3:14 |
 | 81 | [Stupid](https://open.spotify.com/track/3sdMZWhtbfwfazzDPyPUgU) | [Just Friends](https://open.spotify.com/artist/5489Aao4KjbdU9l5CUadOa) | [Stupid](https://open.spotify.com/album/6lqdshNzLu0xUK5ntZkE6c) | 3:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 99 | [Morbid Obsessions](https://open.spotify.com/track/22gBwKtpb1qgBNS7l5feMh) | [We Are The Union](https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs) | [Ordinary Life](https://open.spotify.com/album/6gbRX2quEui9NXZu5ogvz9) | 3:02 |
 | 100 | [Let It Go](https://open.spotify.com/track/2e8yaFJOfZbsttpJhcTLcc) | [Mad Caddies](https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6) | [Let It Go](https://open.spotify.com/album/5ubvjtSzbJwZ4mv46SrIed) | 3:05 |
 
-Snapshot ID: `MTY1NDg3Mzg2NCwwMDAwMDAwMDE3NjM2MTEyZWNjNTg4OTNmMmE5YTEzNzA4MTEwNzEw`
+Snapshot ID: `MTY1NDg3Mzg2NCwwMDAwMDAwMDMzNWY4NWFmOTBiNDU5OTU5YzhkODUyMWViOGYxNjJh`

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Rei.",
-  "num_followers": 1138401,
+  "num_followers": 1138496,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUyODg2NSwwMDAwMDAwMGQwYjJiNmJiYTY0ZWQ2YjIxNGMyNTc4YTFjODEzMWE3",
+  "snapshot_id": "MTY2MTUyODg2NSwwMDAwMDAwMDMwODI5YzQzMTgwZjYyZjVjYzFjN2M1YTI3Y2JjODIx",
   "tracks": [
     {
       "added_at": "2022-08-26 11:28:09",
@@ -351,18 +351,22 @@
     {
       "added_at": "2022-08-26 11:28:09",
       "album": {
-        "name": "Ya No Llora",
-        "url": "https://open.spotify.com/album/0zTrVUiVr9kDjeeZrFX7sS"
+        "name": "Todo Comenz\u00f3 Bailando",
+        "url": "https://open.spotify.com/album/0yLhNN1wvArT1xOU9Y8s4S"
       },
       "artists": [
         {
           "name": "Marama",
           "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        },
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
         }
       ],
-      "duration_ms": 120638,
-      "name": "Ya No Llora",
-      "url": "https://open.spotify.com/track/6aMgqUHmyLs5vnyaV98HID"
+      "duration_ms": 178291,
+      "name": "Noche Loca",
+      "url": "https://open.spotify.com/track/0gzcET27nREY6aD8LJU9wD"
     },
     {
       "added_at": "2022-08-26 11:28:09",
@@ -407,22 +411,6 @@
     {
       "added_at": "2022-08-26 11:28:09",
       "album": {
-        "name": "La Champions Liga",
-        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
-      },
-      "artists": [
-        {
-          "name": "La Champions Liga",
-          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
-        }
-      ],
-      "duration_ms": 127973,
-      "name": "Dime si eres feliz",
-      "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
-    },
-    {
-      "added_at": "2022-08-26 11:28:09",
-      "album": {
         "name": "Fiesta Nacional (Mtv Unplugged)",
         "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
       },
@@ -439,6 +427,22 @@
       "duration_ms": 312512,
       "name": "Amor (Ft. Mon Laferte) - MTV Unplugged",
       "url": "https://open.spotify.com/track/1QjfU3jkGInap7Vm9lVJIQ"
+    },
+    {
+      "added_at": "2022-08-26 11:28:09",
+      "album": {
+        "name": "La Champions Liga",
+        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
+      },
+      "artists": [
+        {
+          "name": "La Champions Liga",
+          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
+        }
+      ],
+      "duration_ms": 127973,
+      "name": "Dime si eres feliz",
+      "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
     },
     {
       "added_at": "2022-08-26 11:28:09",
@@ -539,22 +543,18 @@
     {
       "added_at": "2022-08-26 11:28:09",
       "album": {
-        "name": "Todo Comenz\u00f3 Bailando",
-        "url": "https://open.spotify.com/album/0yLhNN1wvArT1xOU9Y8s4S"
+        "name": "Ya No Llora",
+        "url": "https://open.spotify.com/album/0zTrVUiVr9kDjeeZrFX7sS"
       },
       "artists": [
         {
           "name": "Marama",
           "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        },
-        {
-          "name": "Rombai",
-          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
         }
       ],
-      "duration_ms": 178291,
-      "name": "Noche Loca",
-      "url": "https://open.spotify.com/track/0gzcET27nREY6aD8LJU9wD"
+      "duration_ms": 120638,
+      "name": "Ya No Llora",
+      "url": "https://open.spotify.com/track/6aMgqUHmyLs5vnyaV98HID"
     },
     {
       "added_at": "2022-08-26 11:28:09",
@@ -911,6 +911,22 @@
     {
       "added_at": "2022-08-26 11:28:09",
       "album": {
+        "name": "Piel a Piel",
+        "url": "https://open.spotify.com/album/2yNvAGaBafYOZbQsG7wQaJ"
+      },
+      "artists": [
+        {
+          "name": "Dame 5",
+          "url": "https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k"
+        }
+      ],
+      "duration_ms": 155350,
+      "name": "Piel a Piel",
+      "url": "https://open.spotify.com/track/2q3B7GLCEA4uYvuo2g5P82"
+    },
+    {
+      "added_at": "2022-08-26 11:28:09",
+      "album": {
         "name": "Se Pic\u00f3",
         "url": "https://open.spotify.com/album/6ohNtR3J1yNw2Cs7zFYZfN"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 139430,
       "name": "Se Pic\u00f3",
       "url": "https://open.spotify.com/track/2VnNaJFGInEJ0R5GkSQ7IP"
-    },
-    {
-      "added_at": "2022-08-26 11:28:09",
-      "album": {
-        "name": "Piel a Piel",
-        "url": "https://open.spotify.com/album/2yNvAGaBafYOZbQsG7wQaJ"
-      },
-      "artists": [
-        {
-          "name": "Dame 5",
-          "url": "https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k"
-        }
-      ],
-      "duration_ms": 155350,
-      "name": "Piel a Piel",
-      "url": "https://open.spotify.com/track/2q3B7GLCEA4uYvuo2g5P82"
     },
     {
       "added_at": "2022-08-26 11:28:09",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-08-26 11:28:09",
       "album": {
-        "name": "Cuesti\u00f3n de tiempo",
-        "url": "https://open.spotify.com/album/1yAbPp9HY4AmCERN9JGYuw"
-      },
-      "artists": [
-        {
-          "name": "Los Totora",
-          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
-        }
-      ],
-      "duration_ms": 234813,
-      "name": "No hay m\u00e1s nada",
-      "url": "https://open.spotify.com/track/2nruW43pcr20cNm3DBCDbz"
-    },
-    {
-      "added_at": "2022-08-26 11:28:09",
-      "album": {
         "name": "Cumbia Baby!",
         "url": "https://open.spotify.com/album/6JJ8pGKXBqfuDeYTyEl1kG"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 199495,
       "name": "La Noche No Es para Dormir",
       "url": "https://open.spotify.com/track/07ZHn1csuJvAQAZiYFds12"
+    },
+    {
+      "added_at": "2022-08-26 11:28:09",
+      "album": {
+        "name": "Cuesti\u00f3n de tiempo",
+        "url": "https://open.spotify.com/album/1yAbPp9HY4AmCERN9JGYuw"
+      },
+      "artists": [
+        {
+          "name": "Los Totora",
+          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
+        }
+      ],
+      "duration_ms": 234813,
+      "name": "No hay m\u00e1s nada",
+      "url": "https://open.spotify.com/track/2nruW43pcr20cNm3DBCDbz"
     },
     {
       "added_at": "2022-08-26 11:28:09",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2022-08-26 11:28:09",
       "album": {
-        "name": "Session #2: Y Tu Con el / Llora Me Llama / Quiero Verte Bailar",
-        "url": "https://open.spotify.com/album/2ZgN0mY4umEaC137PdttK7"
-      },
-      "artists": [
-        {
-          "name": "Grupo Play",
-          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
-        }
-      ],
-      "duration_ms": 494464,
-      "name": "Session #2: Y Tu Con el / Llora Me Llama / Quiero Verte Bailar",
-      "url": "https://open.spotify.com/track/0UOmXlzfeKqVkMPzpRtAAl"
-    },
-    {
-      "added_at": "2022-08-26 11:28:09",
-      "album": {
         "name": "Que Lloro",
         "url": "https://open.spotify.com/album/7lQpTex7DuJQe8Xv2U0Xgq"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 200933,
       "name": "Que Lloro",
       "url": "https://open.spotify.com/track/3FvaH4q2k3zru8sXjHZbtp"
+    },
+    {
+      "added_at": "2022-08-26 11:28:09",
+      "album": {
+        "name": "Session #2: Y Tu Con el / Llora Me Llama / Quiero Verte Bailar",
+        "url": "https://open.spotify.com/album/2ZgN0mY4umEaC137PdttK7"
+      },
+      "artists": [
+        {
+          "name": "Grupo Play",
+          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
+        }
+      ],
+      "duration_ms": 494464,
+      "name": "Session #2: Y Tu Con el / Llora Me Llama / Quiero Verte Bailar",
+      "url": "https://open.spotify.com/track/0UOmXlzfeKqVkMPzpRtAAl"
     },
     {
       "added_at": "2022-08-26 11:28:09",
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2022-08-26 11:28:09",
       "album": {
-        "name": "P\u00eddeme la Luna",
-        "url": "https://open.spotify.com/album/4T4FeDNo1vPoJ1CycNu5gZ"
+        "name": "Lo Que Soy",
+        "url": "https://open.spotify.com/album/6xecqU57d7M9W2fs2lWJqW"
       },
       "artists": [
         {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
         }
       ],
-      "duration_ms": 169575,
-      "name": "P\u00eddeme la Luna",
-      "url": "https://open.spotify.com/track/0vsyr3APhEL7FBv0AWk5TI"
+      "duration_ms": 126615,
+      "name": "Lo Que Soy",
+      "url": "https://open.spotify.com/track/0bbjLBbtPKNVnj27EB8PWf"
     },
     {
       "added_at": "2022-08-26 11:28:09",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2022-08-26 11:28:09",
       "album": {
-        "name": "Lo Que Soy",
-        "url": "https://open.spotify.com/album/6xecqU57d7M9W2fs2lWJqW"
+        "name": "P\u00eddeme la Luna",
+        "url": "https://open.spotify.com/album/4T4FeDNo1vPoJ1CycNu5gZ"
       },
       "artists": [
         {
-          "name": "El Reja",
-          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
         }
       ],
-      "duration_ms": 126615,
-      "name": "Lo Que Soy",
-      "url": "https://open.spotify.com/track/0bbjLBbtPKNVnj27EB8PWf"
+      "duration_ms": 169575,
+      "name": "P\u00eddeme la Luna",
+      "url": "https://open.spotify.com/track/0vsyr3APhEL7FBv0AWk5TI"
     },
     {
       "added_at": "2022-08-26 11:28:09",
@@ -1763,18 +1763,18 @@
     {
       "added_at": "2022-08-26 11:28:09",
       "album": {
-        "name": "Session #1: Si Alguna Vez / Ven Bailalo /Explicame",
-        "url": "https://open.spotify.com/album/5jAxUrZffNBrxuuTL5ExyK"
+        "name": "Enganchado #TocoParaVos (Cumbia mix)",
+        "url": "https://open.spotify.com/album/5qFl9f5Vqa9Vq9kDThhGFy"
       },
       "artists": [
         {
-          "name": "Grupo Play",
-          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
+          "name": "#TocoParaVos",
+          "url": "https://open.spotify.com/artist/4PdggFNYwGfjRfkdG5OfES"
         }
       ],
-      "duration_ms": 393861,
-      "name": "Session #1: Si Alguna Vez / Ven Bailalo / Explicame",
-      "url": "https://open.spotify.com/track/13bk87RvVQdssy7Mb7sbom"
+      "duration_ms": 180035,
+      "name": "Enganchado #TocoParaVos - Cumbia Mix",
+      "url": "https://open.spotify.com/track/7zW4IqrzU6dTLw3CM72Qbo"
     },
     {
       "added_at": "2022-08-26 11:28:09",
@@ -1795,18 +1795,26 @@
     {
       "added_at": "2022-08-26 11:28:09",
       "album": {
-        "name": "Enganchado #TocoParaVos (Cumbia mix)",
-        "url": "https://open.spotify.com/album/5qFl9f5Vqa9Vq9kDThhGFy"
+        "name": "El Trato (Remix)",
+        "url": "https://open.spotify.com/album/4igopBx6HMw2NVxX0R3sOv"
       },
       "artists": [
         {
-          "name": "#TocoParaVos",
-          "url": "https://open.spotify.com/artist/4PdggFNYwGfjRfkdG5OfES"
+          "name": "DJ Alex",
+          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
+        },
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        },
+        {
+          "name": "Rodrigo Tapari",
+          "url": "https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4"
         }
       ],
-      "duration_ms": 180035,
-      "name": "Enganchado #TocoParaVos - Cumbia Mix",
-      "url": "https://open.spotify.com/track/7zW4IqrzU6dTLw3CM72Qbo"
+      "duration_ms": 143529,
+      "name": "El Trato - Remix",
+      "url": "https://open.spotify.com/track/3jq37NOBQax11fx51F4z4w"
     }
   ],
   "unique_name": "Dame M\u00e1s Cumbia",

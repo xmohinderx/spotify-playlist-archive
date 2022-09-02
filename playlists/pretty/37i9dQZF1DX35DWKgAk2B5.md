@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35DWKgAk2B5.md) - [plain]
 
 > Welcome to Indie Rock Club\. Cover: The White Stripes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,077,848 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,076,463 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35DWKgAk2B5.md) - [plain]
 | 25 | [My Number](https://open.spotify.com/track/04caEZhAsQKnWqKsMwk9ud) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Holy Fire](https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD) | 3:58 |
 | 26 | [Last Nite](https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:13 |
 | 27 | [First](https://open.spotify.com/track/3omXshBamrREltcf24gYDC) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Hold My Home](https://open.spotify.com/album/2H09itV5a5yUcGyk9u9HwY) | 3:20 |
-| 28 | [Lazy Eye](https://open.spotify.com/track/1aDLUzCyYpRXgrjwUWzV2X) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Carnavas](https://open.spotify.com/album/2Qr40p1sv6NYrf9NPehsrO) | 5:54 |
-| 29 | [Evil](https://open.spotify.com/track/4absiGHMelB8eH976ytjBj) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Antics](https://open.spotify.com/album/2OFkUKYNNFQ74kJOSc9gzz) | 3:35 |
+| 28 | [Evil](https://open.spotify.com/track/4absiGHMelB8eH976ytjBj) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Antics](https://open.spotify.com/album/2OFkUKYNNFQ74kJOSc9gzz) | 3:35 |
+| 29 | [Lazy Eye](https://open.spotify.com/track/1aDLUzCyYpRXgrjwUWzV2X) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Carnavas](https://open.spotify.com/album/2Qr40p1sv6NYrf9NPehsrO) | 5:54 |
 | 30 | [Golden Skans](https://open.spotify.com/track/6BqWhxll86CGGE6WxgdRqG) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI) | [Myths Of The Near Future](https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg) | 2:45 |
 | 31 | [If You Wanna](https://open.spotify.com/track/6Ca3uEAuun3HusTUiIXKs1) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [What Did You Expect from The Vaccines?](https://open.spotify.com/album/2T0iwqVWzr4Y63x4kKO5DW) | 2:54 |
 | 32 | [Someday](https://open.spotify.com/track/7hm4HTk9encxT0LYC0J6oI) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:03 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35DWKgAk2B5.md) - [plain]
 | 38 | [Get Free](https://open.spotify.com/track/1JcGNoiwifg0MdJMVgJQYx) | [The Vines](https://open.spotify.com/artist/7vkiEK5D7Gf0z4M1Va0CXD) | [Highly Evolved](https://open.spotify.com/album/14rRGdr4K5UoaEFVw9jqBG) | 2:06 |
 | 39 | [Rest My Chemistry](https://open.spotify.com/track/1zNeVf6Qk402L4Urb7CcG8) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Our Love To Admire](https://open.spotify.com/album/3YSlq716lXQhnFTxp6z4Tb) | 5:01 |
 | 40 | [Believe](https://open.spotify.com/track/4Wvr1YaxNsCujq77dKujys) | [The Bravery](https://open.spotify.com/artist/2bcrMsFlF632EQ6VZERWFu) | [The Sun And The Moon](https://open.spotify.com/album/1jg4hDHRD1CpYZkWKuLX2Z) | 3:46 |
-| 41 | [Hate To Say I Told You So](https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Veni Vidi Vicious](https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li) | 3:19 |
-| 42 | [I Bet You Look Good On The Dancefloor](https://open.spotify.com/track/29EkMZmUNz1WsuzaMtVo1i) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2) | 2:53 |
+| 41 | [I Bet You Look Good On The Dancefloor](https://open.spotify.com/track/29EkMZmUNz1WsuzaMtVo1i) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2) | 2:53 |
+| 42 | [Hate To Say I Told You So](https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Veni Vidi Vicious](https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li) | 3:19 |
 | 43 | [Can't Stand Me Now](https://open.spotify.com/track/2EtZFeLn9msgg4qJzT9Vql) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [The Libertines](https://open.spotify.com/album/026fArxz2P8Vuj8ReXLD6j) | 3:23 |
 | 44 | [Banquet](https://open.spotify.com/track/2YxXuCdbUpil3P7tRjhW1t) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 3:16 |
 | 45 | [Do You Want To](https://open.spotify.com/track/6WrnSlcN0dzTO80mVVbBto) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [You Could Have It So Much Better](https://open.spotify.com/album/3GNG4NPXfTeIGYjZ2FpS6P) | 3:35 |
@@ -61,10 +61,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35DWKgAk2B5.md) - [plain]
 | 51 | [Salute Your Solution](https://open.spotify.com/track/4I3573QbRpER4HPzyFSFJa) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Consolers of the Lonely](https://open.spotify.com/album/3yx8gEFlojRtt2WBhmxwfg) | 2:59 |
 | 52 | [Help I'm Alive](https://open.spotify.com/track/0cahtHEywK64NSWqm2SDTi) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Fantasies](https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH) | 4:46 |
 | 53 | [Heads Will Roll](https://open.spotify.com/track/18oWEPapjNt32E6sCM6VLb) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz! \(Deluxe Edition\)](https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG) | 3:41 |
-| 54 | [Spread Your Love](https://open.spotify.com/track/4mpAm83XX1iS63l8wmkEC6) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [B.R.M.C.](https://open.spotify.com/album/5abOBUmWegGxl1YUi28ovw) | 3:45 |
-| 55 | [Helicopter](https://open.spotify.com/track/7vjzFWG4neQ9YYMN9yZ9hr) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 3:40 |
-| 56 | [The Wire](https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone](https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf) | 4:05 |
-| 57 | [Books From Boxes](https://open.spotify.com/track/7aB9V1AfdHhdONxii7njJ9) | [Maximo Park](https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic) | [Our Earthly Pleasures](https://open.spotify.com/album/6mDHmXgvy79alh2CwEmMxJ) | 3:28 |
+| 54 | [Helicopter](https://open.spotify.com/track/7vjzFWG4neQ9YYMN9yZ9hr) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 3:40 |
+| 55 | [Spread Your Love](https://open.spotify.com/track/4mpAm83XX1iS63l8wmkEC6) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [B.R.M.C.](https://open.spotify.com/album/5abOBUmWegGxl1YUi28ovw) | 3:45 |
+| 56 | [Books From Boxes](https://open.spotify.com/track/7aB9V1AfdHhdONxii7njJ9) | [Maximo Park](https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic) | [Our Earthly Pleasures](https://open.spotify.com/album/6mDHmXgvy79alh2CwEmMxJ) | 3:28 |
+| 57 | [The Wire](https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone](https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf) | 4:05 |
 | 58 | [Spanish Sahara](https://open.spotify.com/track/3SJWVMRwk5z4Uaff7kGs0d) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Total Life Forever](https://open.spotify.com/album/670h50t8E3LwP2bGqxGi6E) | 6:49 |
 | 59 | [Walk Idiot Walk](https://open.spotify.com/track/5Pdd4QCr0rREXM03zBM2Eh) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Tyrannosaurus Hives](https://open.spotify.com/album/2Qo8MVIOIyrBrqgoCsHCXV) | 3:31 |
 | 60 | [Come Closer](https://open.spotify.com/track/20uVZbYFKshjrdDHcVy9w9) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Colour Of The Trap](https://open.spotify.com/album/671vYDTGlzYQfsibwLHxNB) | 2:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35DWKgAk2B5.md) - [plain]
 | 99 | [Trainwreck 1979 \- Moulder Mix with in/out fades](https://open.spotify.com/track/06vOVdH94mIEjIgIhHdhdO) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [The Physical World](https://open.spotify.com/album/22sYnou2SavBZHHFVUTmWs) | 3:46 |
 | 100 | [Cha\-Cha Twist](https://open.spotify.com/track/5Bs1pw78Y84wmLdukRjIX4) | [The Detroit Cobras](https://open.spotify.com/artist/4tWFXbJnjC9lM3UzmOpUiR) | [Mink, Rat or Rabbit](https://open.spotify.com/album/6Nilu1ZmULGn7gXkufCDc7) | 2:31 |
 
-Snapshot ID: `MTY1ODQxOTg3OCwwMDAwMDAwMDBlYjdmYTdiODhkNWJmZTgxOGFiNjQ3ZDkzNDI1MmQ3`
+Snapshot ID: `MTY1ODQxOTg3OCwwMDAwMDAwMDE2MWI1YWYzNzc3NjMwYmRiZTk3YzVjYjE5MTVlMjZm`

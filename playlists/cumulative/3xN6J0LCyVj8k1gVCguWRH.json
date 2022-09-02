@@ -7874,6 +7874,24 @@
     },
     {
       "album": {
+        "name": "Sleeper",
+        "url": "https://open.spotify.com/album/0ETXjHepV53KXR1uT9AVgB"
+      },
+      "artists": [
+        {
+          "name": "Habbit",
+          "url": "https://open.spotify.com/artist/5jnZs0tUrXXVVBsU95GwFT"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272259,
+      "name": "Drowning in U",
+      "url": "https://open.spotify.com/track/4mG9q3XvD8QSl0LZOzgtkT"
+    },
+    {
+      "album": {
         "name": "Bad Decisions",
         "url": "https://open.spotify.com/album/4uzQLuSzfVHKnNzkANOUMb"
       },
@@ -8647,7 +8665,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 226202,
       "name": "Fall Back into You",
       "url": "https://open.spotify.com/track/56yE58892x5B1weq0FjiAG"
@@ -9729,7 +9747,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-22",
+      "date_removed": null,
       "duration_ms": 195326,
       "name": "Focus",
       "url": "https://open.spotify.com/track/2NvMo0hsL2M9nOzGYekIRr"
@@ -11290,6 +11308,24 @@
     },
     {
       "album": {
+        "name": "GOODTIME",
+        "url": "https://open.spotify.com/album/7jGQpd0KmBcLJ0iCw2C7VP"
+      },
+      "artists": [
+        {
+          "name": "Malibu Babie",
+          "url": "https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133430,
+      "name": "GOODTIME",
+      "url": "https://open.spotify.com/track/0e0IxBXAVjgKoqnTLrxNL3"
+    },
+    {
+      "album": {
         "name": "Grab",
         "url": "https://open.spotify.com/album/0TUFcBoJk64igfFovSBXo0"
       },
@@ -11341,6 +11377,24 @@
       "duration_ms": 201739,
       "name": "Granola",
       "url": "https://open.spotify.com/track/2GNCav6zBJVLKoop1KkOFI"
+    },
+    {
+      "album": {
+        "name": "You Win",
+        "url": "https://open.spotify.com/album/7IV74Hlpbqtlv6hskPX2vB"
+      },
+      "artists": [
+        {
+          "name": "mr cool",
+          "url": "https://open.spotify.com/artist/2rLDRKhQbMowDsZsOhuilk"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293999,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/1byoodk1rEIfBQieJIpVKo"
     },
     {
       "album": {
@@ -12105,7 +12159,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 221818,
       "name": "Here by Your Side",
       "url": "https://open.spotify.com/track/1lcnkpkUDHYKviq5RglST3"
@@ -16116,6 +16170,24 @@
     },
     {
       "album": {
+        "name": "Like This",
+        "url": "https://open.spotify.com/album/50rTVirU65Wo35x0pWUdu2"
+      },
+      "artists": [
+        {
+          "name": "Ladibree",
+          "url": "https://open.spotify.com/artist/20FSvWC5lIkCoHhgwlENls"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169266,
+      "name": "Like This",
+      "url": "https://open.spotify.com/track/3PJtf2ksDvoXDbC0wSD5TL"
+    },
+    {
+      "album": {
         "name": "like we're an indie movie",
         "url": "https://open.spotify.com/album/3LQV5S9PwcnBKe8veDhCbP"
       },
@@ -17146,6 +17218,24 @@
     },
     {
       "album": {
+        "name": "M.Y.M.",
+        "url": "https://open.spotify.com/album/3Tccb3fdj1hckLvHG9iYCA"
+      },
+      "artists": [
+        {
+          "name": "Trilla da Vinci",
+          "url": "https://open.spotify.com/artist/0ot3tViQujUGlIKjd31NQU"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173052,
+      "name": "M.Y.M.",
+      "url": "https://open.spotify.com/track/0pbq8UdSJYBMVhTQPsM1CR"
+    },
+    {
+      "album": {
         "name": "The Album",
         "url": "https://open.spotify.com/album/11QKDc8OK4rnD3uBs7wKmR"
       },
@@ -17295,6 +17385,24 @@
       "duration_ms": 193984,
       "name": "Make Me Feel",
       "url": "https://open.spotify.com/track/2mN8KvkPnminY7wnbXAsjy"
+    },
+    {
+      "album": {
+        "name": "Make Me Good",
+        "url": "https://open.spotify.com/album/5YdzqxZM8DRKuzQSFgf92a"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Ranger",
+          "url": "https://open.spotify.com/artist/203eQbwo7ruUIKI02jOZmO"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Make Me Good",
+      "url": "https://open.spotify.com/track/3GTbHljscEF7MKkbobn6xQ"
     },
     {
       "album": {
@@ -20787,7 +20895,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 196439,
       "name": "Out of the Ordinary",
       "url": "https://open.spotify.com/track/1FJqAKNOgodJlyBZnKpkPj"
@@ -23126,6 +23234,24 @@
     },
     {
       "album": {
+        "name": "Monterey Village",
+        "url": "https://open.spotify.com/album/7fi7G2xIoMwv6nR3Ht73rz"
+      },
+      "artists": [
+        {
+          "name": "Marlon Funaki",
+          "url": "https://open.spotify.com/artist/3BcSXip92N0HwJRA9sVmP6"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238965,
+      "name": "runnin away",
+      "url": "https://open.spotify.com/track/0hcFi3MlfVYiKrzykJCJET"
+    },
+    {
+      "album": {
         "name": "Running In A Haze",
         "url": "https://open.spotify.com/album/1L7PLQyEA9zaBOPp8HuQZi"
       },
@@ -23735,6 +23861,24 @@
       "duration_ms": 178835,
       "name": "Selfish (Radio Edit)",
       "url": "https://open.spotify.com/track/21AGtXacFAkwUeNiziIrUt"
+    },
+    {
+      "album": {
+        "name": "Moonlit Dreams",
+        "url": "https://open.spotify.com/album/2Nl9cQ8kKEkB1q4mFL4bz0"
+      },
+      "artists": [
+        {
+          "name": "Lucas Lutter",
+          "url": "https://open.spotify.com/artist/32lDzV4D3UTlOtbp3sOTbG"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105265,
+      "name": "Send Ur Luv",
+      "url": "https://open.spotify.com/track/13scRXIwHVc7UBUgAlgYLF"
     },
     {
       "album": {
@@ -29696,6 +29840,24 @@
     },
     {
       "album": {
+        "name": "We So Fly",
+        "url": "https://open.spotify.com/album/5XMluq9NTVyMYg6c9sks7r"
+      },
+      "artists": [
+        {
+          "name": "Emma Kern",
+          "url": "https://open.spotify.com/artist/5D9sDxufqccO7Kb7GmOhKz"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150893,
+      "name": "We So Fly",
+      "url": "https://open.spotify.com/track/79X6wvnj9iBHCbo5714kXD"
+    },
+    {
+      "album": {
         "name": "We've Met Before",
         "url": "https://open.spotify.com/album/59fxLWbykOoVVMBYr7byZP"
       },
@@ -29831,6 +29993,24 @@
       "duration_ms": 256359,
       "name": "What A Difference A Day Made",
       "url": "https://open.spotify.com/track/6eyvtNOtYM6PxqMkq0Hw33"
+    },
+    {
+      "album": {
+        "name": "What A Time To Be Alive",
+        "url": "https://open.spotify.com/album/6brvnpKqJ5FTi2RatTXqiF"
+      },
+      "artists": [
+        {
+          "name": "The Mellons",
+          "url": "https://open.spotify.com/artist/5tPy3OL9V85Ud3TpxoZNcW"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245226,
+      "name": "What A Time To Be Alive",
+      "url": "https://open.spotify.com/track/5EHJ6D9d7zEmyHGEZHpxS9"
     },
     {
       "album": {
@@ -31187,6 +31367,24 @@
       "duration_ms": 158004,
       "name": "You Won't Be Sorry",
       "url": "https://open.spotify.com/track/7g6a4Q3K8G148ig7PVf2eb"
+    },
+    {
+      "album": {
+        "name": "You're A Star",
+        "url": "https://open.spotify.com/album/0R7bd9sJmpAO30pEXB3sXR"
+      },
+      "artists": [
+        {
+          "name": "Leon Silva",
+          "url": "https://open.spotify.com/artist/3jflK63wzOHMiSHd3Q4V0G"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303272,
+      "name": "You're A Star",
+      "url": "https://open.spotify.com/track/3Ec9xtgqKw9subGj2VuJy8"
     },
     {
       "album": {

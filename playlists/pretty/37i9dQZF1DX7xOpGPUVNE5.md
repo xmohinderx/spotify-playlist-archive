@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7xOpGPUVNE5.md) - [plain]
 
 > Upbeat songs that will get the whole family feelin' good!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,153 likes - 69 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,163 likes - 69 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,14 +50,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7xOpGPUVNE5.md) - [plain]
 | 40 | [Let's Go \(feat\. Ne\-Yo\)](https://open.spotify.com/track/4wkQmYpAaMe41Rc3sYZ7Vz) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:52 |
 | 41 | [Floating Through Space](https://open.spotify.com/track/2AceGjiX9isUbXmMZa0Dl1) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Floating Through Space](https://open.spotify.com/album/0BE9HxEf6RRDyni3SSvM6t) | 2:57 |
 | 42 | [Electric \- Pokemon 25 Version](https://open.spotify.com/track/63eV5hreY9feQP2CmYavpj) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Electric](https://open.spotify.com/album/2kjyPzcMPYUZlB9CJzu10f) | 3:13 |
-| 43 | [Land of 1000 Dances](https://open.spotify.com/track/76ICmoJ4PcoMWoooaTxnQs) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [The Exciting Wilson Pickett](https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm) | 2:26 |
-| 44 | [Cloudy Day](https://open.spotify.com/track/4E2rXUbcF1zhZVzNzeVPGV) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse](https://open.spotify.com/album/5DVaT8HXcp9bbJh7p4dSpf) | 3:05 |
-| 45 | [Cut To The Feeling](https://open.spotify.com/track/6EJiVf7U0p1BBfs0qqeb1f) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Cut To The Feeling](https://open.spotify.com/album/6S9qcfPMsqtYQXVyeC7Hip) | 3:27 |
+| 43 | [Groove Is in the Heart](https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb) | [Deee\-Lite](https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5) | [World Clique](https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh) | 3:51 |
+| 44 | [Land of 1000 Dances](https://open.spotify.com/track/76ICmoJ4PcoMWoooaTxnQs) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [The Exciting Wilson Pickett](https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm) | 2:26 |
+| 45 | [Cloudy Day](https://open.spotify.com/track/4E2rXUbcF1zhZVzNzeVPGV) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse](https://open.spotify.com/album/5DVaT8HXcp9bbJh7p4dSpf) | 3:05 |
 | 46 | [Together](https://open.spotify.com/track/5id3Rqn7SPj1LX4FfY4nGz) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Together](https://open.spotify.com/album/4TM7wmWEakp4xk1ZffVkL8) | 3:25 |
-| 47 | [Shut Up and Dance](https://open.spotify.com/track/0kzw2tRyuL9rzipi5ntlIy) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [TALKING IS HARD \(Expanded Edition\)](https://open.spotify.com/album/2bVVESepVYULITlO6mtmoy) | 3:19 |
-| 48 | [Came Here for Love](https://open.spotify.com/track/0mGJTKRIuCOJtiT4YkJHiv) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:23 |
-| 49 | [Sunshine \- From the Motion Picture “Ron’s Gone Wrong”](https://open.spotify.com/track/48oN0dm8zwleoUvuLBqIOp) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [Sunshine \(From the Motion Picture “Ron’s Gone Wrong”\)](https://open.spotify.com/album/3EUNQSlJDx66zBXQFtRXjZ) | 2:44 |
-| 50 | [Groove Is in the Heart](https://open.spotify.com/track/2UVLuddklEVak5PXgC7baA) | [Deee\-Lite](https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5) | [Rhino Hi\-Five: Deee\-Lite](https://open.spotify.com/album/5ONmarDtpkKbrlhu0p83XM) | 3:51 |
+| 47 | [Cut To The Feeling](https://open.spotify.com/track/6EJiVf7U0p1BBfs0qqeb1f) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Cut To The Feeling](https://open.spotify.com/album/6S9qcfPMsqtYQXVyeC7Hip) | 3:27 |
+| 48 | [Shut Up and Dance](https://open.spotify.com/track/0kzw2tRyuL9rzipi5ntlIy) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [TALKING IS HARD \(Expanded Edition\)](https://open.spotify.com/album/2bVVESepVYULITlO6mtmoy) | 3:19 |
+| 49 | [Came Here for Love](https://open.spotify.com/track/0mGJTKRIuCOJtiT4YkJHiv) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:23 |
+| 50 | [Sunshine \- From the Motion Picture “Ron’s Gone Wrong”](https://open.spotify.com/track/48oN0dm8zwleoUvuLBqIOp) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [Sunshine \(From the Motion Picture “Ron’s Gone Wrong”\)](https://open.spotify.com/album/3EUNQSlJDx66zBXQFtRXjZ) | 2:44 |
 | 51 | [Smile](https://open.spotify.com/track/3DXdjHnePKnh6oXw2ZgGSl) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/61HTU0pcDaTmotLnBQgoLs) | 2:46 |
 | 52 | [Move Your Feet](https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [d\-d\-don't don't stop the beat \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/7xJ6am4jsZw1Bg0S0g0hmI) | 3:01 |
 | 53 | [Hold My Hand](https://open.spotify.com/track/1i1rNVtxbE7rdFfpHuNq2j) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Hold My Hand](https://open.spotify.com/album/6uZYkBePCdUP1LltEt9Qin) | 3:47 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7xOpGPUVNE5.md) - [plain]
 | 68 | [What I'm Feelin'](https://open.spotify.com/track/028VWaGIx1woDiCubk0CDB) | [Kaci Bolls](https://open.spotify.com/artist/1YKEhQzwfMQklnViW6QpX9) | [What I'm Feelin'](https://open.spotify.com/album/5wAYJl4nLxPzqv6mG61kHx) | 3:04 |
 | 69 | [Open Windows \(Here I Am\)](https://open.spotify.com/track/6SE7JgJ5mqrKpXw35HY9s6) | [Dan Zanes](https://open.spotify.com/artist/2iYByRd5wrZXBbmTyrISfC), [Claudia Zanes](https://open.spotify.com/artist/1mEDDCiHoa4Win8FuJmAfh), [Dan + Claudia Zanes](https://open.spotify.com/artist/5qcWTB20UyUKLIKYyjcjyn), [Grace Ferrell](https://open.spotify.com/artist/4aOHTqFRakFRaihmHHbK41), [Phillip Ferrell](https://open.spotify.com/artist/02blayLYc4gekywnjMuuFZ), [Amadou Kouyate](https://open.spotify.com/artist/1WLB9ei0uFv9aDdnE2LXpg) | [Let Love Be Your Guide](https://open.spotify.com/album/29YQcKWonRl02h3pypRui6) | 3:51 |
 
-Snapshot ID: `MTY0MzM4OTY4NywwMDAwMDAwMGZmNjAxM2Y1ZTM5ZjI5OGZhYzc2OTliYTBlNmFkNzFl`
+Snapshot ID: `MTY0MzM4OTY4NywwMDAwMDAwMGUwOTQ2YzJiOGNkZmQ3MDlmNWVmYTNlMGJjN2I4Nzc0`

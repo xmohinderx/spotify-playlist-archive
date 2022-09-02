@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Cover: Nabi",
+  "description": "La nuova generazione del rap italiano. Cover: SPOOKYPBL",
   "name": "Raptopia",
   "published_playlist_ids": [
     "6nhHRG6xegRC3RJpPdvh9l"
@@ -613,7 +613,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 144000,
       "name": "Big Don Dada",
       "url": "https://open.spotify.com/track/7LRucnNnmFTMSh5ubvTljX"
@@ -749,7 +749,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 154087,
       "name": "Bravo Ragazzo pt.3",
       "url": "https://open.spotify.com/track/5mt4JnFQk9vaR0SBI1Te7q"
@@ -943,7 +943,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 166406,
       "name": "CHE UOMO (feat. bbno$ & Nello Taver)",
       "url": "https://open.spotify.com/track/4hLdjsSdCWlXKNgKg3KyWa"
@@ -1013,7 +1013,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 139274,
       "name": "CLAP CLAP",
       "url": "https://open.spotify.com/track/3qPmxgFngPkPsqPnRgewDv"
@@ -1237,6 +1237,46 @@
       "duration_ms": 159196,
       "name": "Dark Days",
       "url": "https://open.spotify.com/track/5bip9BjmfwlOXJq6ji1JFk"
+    },
+    {
+      "album": {
+        "name": "Dawg",
+        "url": "https://open.spotify.com/album/3ungEzXZWgpVqIpfONaecE"
+      },
+      "artists": [
+        {
+          "name": "STT",
+          "url": "https://open.spotify.com/artist/6c60C0NWReBTcF3GPLvjYY"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148959,
+      "name": "Dawg",
+      "url": "https://open.spotify.com/track/59BWRUiUYhNxv7y8Ji6pXA"
+    },
+    {
+      "album": {
+        "name": "Delinquendo",
+        "url": "https://open.spotify.com/album/6YC6UsqOCmC0TZ95LkivYx"
+      },
+      "artists": [
+        {
+          "name": "Disme",
+          "url": "https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p"
+        },
+        {
+          "name": "Blaze Drumz",
+          "url": "https://open.spotify.com/artist/5t3bdtfB81ZtP8XmMctkCQ"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139342,
+      "name": "Delinquendo",
+      "url": "https://open.spotify.com/track/5w37bmfEjH2atbVTuupyfo"
     },
     {
       "album": {
@@ -1503,7 +1543,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 145200,
       "name": "Facile",
       "url": "https://open.spotify.com/track/00bmaHVOEDarcvwlxxkHW9"
@@ -1565,6 +1605,32 @@
       "duration_ms": 113142,
       "name": "fashion killa \u00a1!",
       "url": "https://open.spotify.com/track/4PXyibxfJl3kcjO1Ha8xHf"
+    },
+    {
+      "album": {
+        "name": "Fatturato meno",
+        "url": "https://open.spotify.com/album/4WKnxRL5xG1R0Ogz8T1KbQ"
+      },
+      "artists": [
+        {
+          "name": "Klefyl",
+          "url": "https://open.spotify.com/artist/25AgQztGa6R0pjdOu1guC0"
+        },
+        {
+          "name": "DoR3",
+          "url": "https://open.spotify.com/artist/61mWNBVoS65Mie7IOwtTTt"
+        },
+        {
+          "name": "A.L",
+          "url": "https://open.spotify.com/artist/2RhurHFRQAWeewa5ZQbiIY"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121904,
+      "name": "Fatturato meno",
+      "url": "https://open.spotify.com/track/0weRnzGIHBAW14Io7JQPgV"
     },
     {
       "album": {
@@ -1752,6 +1818,44 @@
     },
     {
       "album": {
+        "name": "Ges\u00f9 con la Coda",
+        "url": "https://open.spotify.com/album/7EfyqsBlHEQeKUBTY95IkM"
+      },
+      "artists": [
+        {
+          "name": "Euroardo",
+          "url": "https://open.spotify.com/artist/1VbnapwsdPjqyBmM9YTizK"
+        },
+        {
+          "name": "Flatpearl",
+          "url": "https://open.spotify.com/artist/2ifTEcQqKSPwijIEcPHQ1R"
+        },
+        {
+          "name": "Succo",
+          "url": "https://open.spotify.com/artist/1l1A1U8VJM15W7zonFqKhg"
+        },
+        {
+          "name": "Jiz",
+          "url": "https://open.spotify.com/artist/38CThoTDmXugNnfonW466d"
+        },
+        {
+          "name": "Bastadebe",
+          "url": "https://open.spotify.com/artist/7HpbE5DLSOHJlVgGn2VP3c"
+        },
+        {
+          "name": "Epco Raw",
+          "url": "https://open.spotify.com/artist/6JjV8WumKK55M9XhNsGpYg"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120609,
+      "name": "Ges\u00f9 con la Coda",
+      "url": "https://open.spotify.com/track/6EUkQzpGpNTNk8dOCqmkUO"
+    },
+    {
+      "album": {
         "name": "Giri",
         "url": "https://open.spotify.com/album/6kuZ4J857hZmRKnqP6wyTU"
       },
@@ -1891,6 +1995,36 @@
       "duration_ms": 154482,
       "name": "HEART THIEF",
       "url": "https://open.spotify.com/track/5OLg9E4UPpFLdJMJl8t67c"
+    },
+    {
+      "album": {
+        "name": "079 SUM' VIBEZ",
+        "url": "https://open.spotify.com/album/64OSxBnAb7vmvU8RsnyqR9"
+      },
+      "artists": [
+        {
+          "name": "Rico Pmf",
+          "url": "https://open.spotify.com/artist/1V3hNQCQ9ZrVmRbiSm1d1A"
+        },
+        {
+          "name": "Prisoner",
+          "url": "https://open.spotify.com/artist/3Q7xzwhs8hMbxxZzgufR6U"
+        },
+        {
+          "name": "Razer.Rah",
+          "url": "https://open.spotify.com/artist/48N1AD5ggZAa5tq6br2mZb"
+        },
+        {
+          "name": "Pherro",
+          "url": "https://open.spotify.com/artist/0GxUrQrSthXbfwGGw9QKDh"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209500,
+      "name": "HIGH ALL NIGHT",
+      "url": "https://open.spotify.com/track/0KftBkAAuBXrNwDac97CAH"
     },
     {
       "album": {
@@ -2524,6 +2658,28 @@
     },
     {
       "album": {
+        "name": "Lycamobile",
+        "url": "https://open.spotify.com/album/7CnUxTj8QB1OybIkKwXRBc"
+      },
+      "artists": [
+        {
+          "name": "Don Pero",
+          "url": "https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2"
+        },
+        {
+          "name": "47Milano",
+          "url": "https://open.spotify.com/artist/0A3F67rGTvyUTqCCuiFLV1"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Lycamobile",
+      "url": "https://open.spotify.com/track/1VFhL47A4eXjEkb8Posmdq"
+    },
+    {
+      "album": {
         "name": "Malaga",
         "url": "https://open.spotify.com/album/4IziXI7cFEh03rNQUjxMul"
       },
@@ -2973,7 +3129,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 188460,
       "name": "No Kizzy",
       "url": "https://open.spotify.com/track/31KBhThOSGbqFcWbeMhGyw"
@@ -3020,6 +3176,24 @@
     },
     {
       "album": {
+        "name": "Occhi",
+        "url": "https://open.spotify.com/album/65KeJGXJJHALXOmREbSsfC"
+      },
+      "artists": [
+        {
+          "name": "2G",
+          "url": "https://open.spotify.com/artist/2dk5OVuVzNM0h7AqxbswF4"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152258,
+      "name": "Occhi",
+      "url": "https://open.spotify.com/track/2T54X7430fR4NOlD6t7PGq"
+    },
+    {
+      "album": {
         "name": "ODDIO",
         "url": "https://open.spotify.com/album/2oGWC3wvRmUknTRnJqF3Ov"
       },
@@ -3053,6 +3227,24 @@
       "duration_ms": 96312,
       "name": "oggi",
       "url": "https://open.spotify.com/track/42MRrGf6oxBY48FFElNRkn"
+    },
+    {
+      "album": {
+        "name": "OMC 1",
+        "url": "https://open.spotify.com/album/3lv09vp2TtuXze4OoezrXh"
+      },
+      "artists": [
+        {
+          "name": "BIG P",
+          "url": "https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106991,
+      "name": "OMC 1",
+      "url": "https://open.spotify.com/track/4qrX0dnwtzWmr2d9Tq1B2a"
     },
     {
       "album": {
@@ -3511,7 +3703,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 192000,
       "name": "RONALDINHO",
       "url": "https://open.spotify.com/track/2mON8OArGpK9GxSQdWKG7U"
@@ -3711,7 +3903,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 153000,
       "name": "SINCERO",
       "url": "https://open.spotify.com/track/5yONnAl8O86eSD8mFrt95Q"
@@ -3769,7 +3961,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 91500,
       "name": "Street Fama",
       "url": "https://open.spotify.com/track/6CTYj58wisw6s6AJTbGdrE"
@@ -3805,7 +3997,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 174272,
       "name": "SURF",
       "url": "https://open.spotify.com/track/0uXY2pYdHmZpmtk0wfICgJ"
@@ -3897,6 +4089,24 @@
       "duration_ms": 201901,
       "name": "TOO EASY",
       "url": "https://open.spotify.com/track/1Q2UkGQukIQeUnG93LD3WM"
+    },
+    {
+      "album": {
+        "name": "Too Famous",
+        "url": "https://open.spotify.com/album/5wJ6w4a6xBxTBxkgT3ajGm"
+      },
+      "artists": [
+        {
+          "name": "Sapobully",
+          "url": "https://open.spotify.com/artist/2u5doTfPeC2gnLwislKGLE"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136082,
+      "name": "Too Famous",
+      "url": "https://open.spotify.com/track/2jPBMQ9EF1Zyrt3b6b8maS"
     },
     {
       "album": {
@@ -4177,6 +4387,24 @@
       "duration_ms": 211404,
       "name": "VITA PUTTANA",
       "url": "https://open.spotify.com/track/0haJKf3qe6DkJziBdEG7o4"
+    },
+    {
+      "album": {
+        "name": "Vita vera",
+        "url": "https://open.spotify.com/album/5xt2CfoxvjrRt7lI1EDH4m"
+      },
+      "artists": [
+        {
+          "name": "letteredistrada",
+          "url": "https://open.spotify.com/artist/3kTQPUH3D8Deb9OM9GerEG"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129882,
+      "name": "Vita vera",
+      "url": "https://open.spotify.com/track/04mKihaPiWG3zVOlu7qLC7"
     },
     {
       "album": {

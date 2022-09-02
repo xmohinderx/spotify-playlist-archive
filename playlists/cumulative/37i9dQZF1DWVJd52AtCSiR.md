@@ -4,7 +4,7 @@
 
 > Discover the classical side of your favourite Disney soundtracks.
 
-120 songs - 6 hr 5 min - [published](https://open.spotify.com/playlist/0vmRJRYwOgFfUhgFl1I2vw)
+121 songs - 6 hr 10 min - [published](https://open.spotify.com/playlist/0vmRJRYwOgFfUhgFl1I2vw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Crossing the Marigold Bridge](https://open.spotify.com/track/5EY7WQEQgsMU9Fm9zD6uR3) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 1:48 | 2021-10-07 |  |
 | [Define Dancing](https://open.spotify.com/track/4wZdal5NzPtwKcjLMt7vJj) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Wall\-E](https://open.spotify.com/album/7IH5SRyEVemZWfhjYmWtT1) | 2:23 | 2021-10-07 | 2022-07-29 |
 | [Define Dancing](https://open.spotify.com/track/5zeaIcBVA0Ta8JVp1S5zDM) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [WALL\-E \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2LhcAFdMWcB49mHSxYrqJT) | 2:23 | 2022-07-07 |  |
+| [Dos Oruguitas \- de "Encanto" \(Feat\. Sebastián Yatra\)](https://open.spotify.com/track/0aL8KKimOD4FxGlAaDwbz2) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Dos Oruguitas \[de "Encanto" \(Feat\. Sebastián Yatra\)\]](https://open.spotify.com/album/00pGyqzLYWXaki4IbUsDMw) | 4:48 | 2022-09-01 |  |
 | [Ella and Kit](https://open.spotify.com/track/1lMaFGcFzfESerHh28aMLA) | [Patrick Doyle](https://open.spotify.com/artist/1W42coQfIlt6btgqpfJWYQ) | [Cinderella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx) | 2:11 | 2021-10-07 |  |
 | [Elsa and Anna \- From "Frozen"/Score](https://open.spotify.com/track/4Zd8HBzObBZWgmvJg7gCAF) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [Frozen \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/19dqa2yIehtaN4kBwpSEvP) | 2:43 | 2021-10-07 | 2022-07-16 |
 | [Enchanted Suite \- From "Enchanted"/Score](https://open.spotify.com/track/42TTHCYkSo0ER8RLmyV3Hu) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [Enchanted](https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc) | 4:32 | 2021-10-07 |  |

@@ -1,12 +1,12 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \ub2f9\uc2e0\uc744 \uc704\ub85c\ud558\ub294 \uac00\uc0ac\uc640 \ub530\ub73b\ud55c \ube44\ud2b8.",
-  "num_followers": 4624,
+  "num_followers": 4649,
   "original_name": "\ud790\ub9c1 \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTIyNjM3MCwwMDAwMDAwMGJkYjYzNDc2MjA0MWY0OTE0ZTI5NTJlMTNkNTc0NTI4",
+  "snapshot_id": "MTY2MTIyNjM3MCwwMDAwMDAwMGIwMjg4YzRjNTE5OGIxNDA2NWYzY2VmZTNkZWRjYWQz",
   "tracks": [
     {
       "added_at": "2022-08-23 03:46:09",
@@ -263,6 +263,22 @@
     {
       "added_at": "2022-08-23 03:46:09",
       "album": {
+        "name": "WATERFALL",
+        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
+      },
+      "artists": [
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        }
+      ],
+      "duration_ms": 203615,
+      "name": "Re-Birth",
+      "url": "https://open.spotify.com/track/48KTWbSSxOh07mbYtitG2x"
+    },
+    {
+      "added_at": "2022-08-23 03:46:09",
+      "album": {
         "name": "Show Me The Money 9 Episode 3",
         "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 276152,
       "name": "Tomorrow (Feat. GIRIBOY, BIG Naughty)",
       "url": "https://open.spotify.com/track/7K31QxS2DmTBxdYldd8yqf"
-    },
-    {
-      "added_at": "2022-08-23 03:46:09",
-      "album": {
-        "name": "WATERFALL",
-        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
-      },
-      "artists": [
-        {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-        }
-      ],
-      "duration_ms": 203615,
-      "name": "Re-Birth",
-      "url": "https://open.spotify.com/track/48KTWbSSxOh07mbYtitG2x"
     },
     {
       "added_at": "2022-08-23 03:46:09",
@@ -403,34 +403,6 @@
     {
       "added_at": "2022-08-23 03:46:09",
       "album": {
-        "name": "Show Me The Money 9 Final",
-        "url": "https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq"
-      },
-      "artists": [
-        {
-          "name": "lIlBOI",
-          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
-        },
-        {
-          "name": "YUMDDA",
-          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
-        },
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        },
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        }
-      ],
-      "duration_ms": 247718,
-      "name": "CREDIT (Feat. YUMDDA, GIRIBOY, Zion.T)",
-      "url": "https://open.spotify.com/track/2lHmx4nJOTGHx2PkEFMADF"
-    },
-    {
-      "added_at": "2022-08-23 03:46:09",
-      "album": {
         "name": "PSY 9th",
         "url": "https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB"
       },
@@ -471,6 +443,34 @@
       "duration_ms": 248000,
       "name": "Seat Belt (Feat. Dynamic Duo)",
       "url": "https://open.spotify.com/track/2WcMriAJ84pN5ZW8cBiUnQ"
+    },
+    {
+      "added_at": "2022-08-23 03:46:09",
+      "album": {
+        "name": "Show Me The Money 9 Final",
+        "url": "https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq"
+      },
+      "artists": [
+        {
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
+        },
+        {
+          "name": "YUMDDA",
+          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
+        },
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        },
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "duration_ms": 247718,
+      "name": "CREDIT (Feat. YUMDDA, GIRIBOY, Zion.T)",
+      "url": "https://open.spotify.com/track/2lHmx4nJOTGHx2PkEFMADF"
     },
     {
       "added_at": "2022-08-23 03:46:09",

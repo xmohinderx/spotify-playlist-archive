@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12KGbWhMort.md) - [plain]
 
 > Dale play, y que el amor no pare.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,369 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,471 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,13 +28,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12KGbWhMort.md) - [plain]
 | 18 | [Te Regalo](https://open.spotify.com/track/4brw4anhV4og38Rv6o1dBa) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Amor Supremo \(Desnudo\)](https://open.spotify.com/album/3ChFP3YQevhl7lbTBtO0Yz) | 4:02 |
 | 19 | [La Cosa Mas Bella](https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Donde Hay Música \(Spanish Version\)](https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq) | 4:25 |
 | 20 | [Solamente tú](https://open.spotify.com/track/7sRXhReWmJF5pqyg3uUTES) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Pablo Alboran \(Deluxe\)](https://open.spotify.com/album/1PfEXmG8ioEwsj7qDaCQXc) | 4:07 |
-| 21 | [¿Y cómo es él?](https://open.spotify.com/track/7aSxNjoVoAwNL7HDAKwGtC) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Entre El Agua Y El Fuego](https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI) | 4:08 |
-| 22 | [Mi primer millon](https://open.spotify.com/track/5fSDXbY8o9pA3TKwAbfwML) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Caraluna](https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj) | 3:57 |
+| 21 | [Mi primer millon](https://open.spotify.com/track/5fSDXbY8o9pA3TKwAbfwML) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Caraluna](https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj) | 3:57 |
+| 22 | [¿Y cómo es él?](https://open.spotify.com/track/7aSxNjoVoAwNL7HDAKwGtC) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Entre El Agua Y El Fuego](https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI) | 4:08 |
 | 23 | [Carita de Inocente \(feat\. Myke Towers\) \- Remix](https://open.spotify.com/track/5kQre7o8ky5DXeEPcyaCR1) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Carita de Inocente \(feat\. Myke Towers\) \[Remix\]](https://open.spotify.com/album/54m2Pe3Khdiarwv2PCS8DY) | 3:12 |
 | 24 | [¿A Dónde Vamos A Parar?](https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [En Total Plenitud](https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg) | 3:48 |
 | 25 | [Tan enamorados](https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ricardo Montaner Con La London Metropolitan Orchestra](https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE) | 4:49 |
-| 26 | [Azul](https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Grandes Hits](https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL) | 4:19 |
-| 27 | [Tú](https://open.spotify.com/track/6ZEVQ2whiJvhjCNAOJ0DC3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 3:34 |
+| 26 | [Tú](https://open.spotify.com/track/6ZEVQ2whiJvhjCNAOJ0DC3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 3:34 |
+| 27 | [Azul](https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Grandes Hits](https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL) | 4:19 |
 | 28 | [Un Siglo Sin Ti](https://open.spotify.com/track/5NSJ0qoxwbO26tVvqpL4N2) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN) | 4:41 |
 | 29 | [Algo Contigo](https://open.spotify.com/track/4zsDA31stWMtLveU61hejd) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Vicentico](https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo) | 3:38 |
 | 30 | [Hoy Tengo Ganas De Ti](https://open.spotify.com/track/0qO4GfXADY9QfgcgtrasT9) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Confidencias](https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk) | 4:51 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12KGbWhMort.md) - [plain]
 | 37 | [Ojalá](https://open.spotify.com/track/75KrTLbcLWgCcldZGxZR12) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Prisma](https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq) | 3:38 |
 | 38 | [Lloviendo Estrellas](https://open.spotify.com/track/5b00r2xveYfVIOExZJJ395) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Grandes Hits](https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL) | 4:16 |
 | 39 | [Y Cómo Es El](https://open.spotify.com/track/3h8KGJn9UFX2cfjN78iMVF) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Iconos](https://open.spotify.com/album/5SGUCNeCuGHbR73Iyh2F7g) | 4:00 |
-| 40 | [Labios Compartidos](https://open.spotify.com/track/4C2zOFgrXxfNGNpYQWIcaH) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Amar Es Combatir](https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB) | 5:17 |
-| 41 | [Devuélveme El Corazón](https://open.spotify.com/track/7etlF1zMxJbiaeQrXYh0PY) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [MANTRA](https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN) | 4:03 |
+| 40 | [Devuélveme El Corazón](https://open.spotify.com/track/7etlF1zMxJbiaeQrXYh0PY) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [MANTRA](https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN) | 4:03 |
+| 41 | [Labios Compartidos](https://open.spotify.com/track/4C2zOFgrXxfNGNpYQWIcaH) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Amar Es Combatir](https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB) | 5:17 |
 | 42 | [Sin miedo a nada \(feat\. Amaia Montero\)](https://open.spotify.com/track/02bKaAG61tMw9c63fzKXal) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X), [Amaia Montero](https://open.spotify.com/artist/4LbuSjHhhAddvN44qXpRJo) | [¿Qué pides tú? \(Argentina\)](https://open.spotify.com/album/7cJiLvzLDaEhi2K4pfPYjl) | 5:10 |
 | 43 | [Después De Ti](https://open.spotify.com/track/3QEWvj2NI5ybtUAVnwzmzF) | [Alejandro Lerner](https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J) | [Buen Viaje](https://open.spotify.com/album/0rvJrsAmPLF7YnmpR5CMEi) | 4:12 |
 | 44 | [Oye](https://open.spotify.com/track/09nSCeCs6eYfAIJVfye1CE) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Oye](https://open.spotify.com/album/1xwUFsb21qbGugy09vdd7O) | 2:53 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12KGbWhMort.md) - [plain]
 | 64 | [No Me Enseñaste](https://open.spotify.com/track/37QuCMe2SASXrkLm5NhT5m) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Thalia](https://open.spotify.com/album/5aHuKZqTY34cuOcIFfohrt) | 4:29 |
 | 65 | [No Me Compares](https://open.spotify.com/track/6pZmdSXGVzlYG2FJvSOZod) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [La Música No Se Toca \(Deluxe\)](https://open.spotify.com/album/5O5LrflUeCNwNAsCQ5o0jk) | 4:38 |
 | 66 | [Tal Vez](https://open.spotify.com/track/2VspVkHity8i4H9jammhhR) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Almas Del Silencio](https://open.spotify.com/album/5ME0ACeS6VWaqTOCpsoFT2) | 4:39 |
-| 67 | [Bailar Pegados \- En Concierto](https://open.spotify.com/track/4Z7hD7n1hmjbqAmitLFY5V) | [Sergio Dalma](https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ) | [Sergio Dalma En Concierto](https://open.spotify.com/album/0luSmXE3F4tZWmomnjLF0r) | 4:34 |
-| 68 | [¿Dónde Están Corazón?](https://open.spotify.com/track/0Ky9DFq4xtsIZQiI0d2fnG) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [¿Dónde Están Corazón?](https://open.spotify.com/album/2PvvCXswfTBnTHDg3GIh9p) | 4:19 |
+| 67 | [¿Dónde Están Corazón?](https://open.spotify.com/track/0Ky9DFq4xtsIZQiI0d2fnG) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [¿Dónde Están Corazón?](https://open.spotify.com/album/2PvvCXswfTBnTHDg3GIh9p) | 4:19 |
+| 68 | [Bailar Pegados \- En Concierto](https://open.spotify.com/track/4Z7hD7n1hmjbqAmitLFY5V) | [Sergio Dalma](https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ) | [Sergio Dalma En Concierto](https://open.spotify.com/album/0luSmXE3F4tZWmomnjLF0r) | 4:34 |
 | 69 | [Tanto Amor](https://open.spotify.com/track/12dlQ3DhTydNecGP6atzIu) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Abel](https://open.spotify.com/album/3xZOsYi4w4NWEM99Ln2YCW) | 3:48 |
 | 70 | [La Llamada](https://open.spotify.com/track/5ZCamgcqvkckdf2FdfYuth) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [La Llamada](https://open.spotify.com/album/5GeEcoNATic5kr69QPV89Q) | 4:00 |
 | 71 | [Entre La Tierra Y El Cielo](https://open.spotify.com/track/1hQgzgaxymIbhqoWpMYDnf) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Signos](https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q) | 4:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12KGbWhMort.md) - [plain]
 | 99 | [Desde el Principio](https://open.spotify.com/track/2zQW4cVDdtx6ILz9rNdPLD) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Libre](https://open.spotify.com/album/6gHHe4wRRfwGbhBTk7hDEx) | 3:04 |
 | 100 | [Lo Que Son las Cosas](https://open.spotify.com/track/6TanzeHh5Ffh5EP2AJnGD3) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Lo Que Son las Cosas](https://open.spotify.com/album/7LiVEl4UrNRnVAydhYjCfl) | 3:52 |
 
-Snapshot ID: `MTYzNDg3MTYwMCwwMDAwMDAwMDkwZGVjYjc3MWIzYTJhYjkyODcwNDQ4ZjE5MDM4YTM5`
+Snapshot ID: `MTYzNDg3MTYwMCwwMDAwMDAwMDYxOWE2N2M3MDNjZmViMDI1NDc3MWZjMDNjY2NlMzZl`

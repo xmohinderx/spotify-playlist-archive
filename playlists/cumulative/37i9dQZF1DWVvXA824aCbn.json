@@ -1743,7 +1743,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 287644,
       "name": "I Fall In Love Too Easily",
       "url": "https://open.spotify.com/track/27UzG7JwCeHVv81CTGWIlc"
@@ -2363,7 +2363,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 242600,
       "name": "In Thoughtful",
       "url": "https://open.spotify.com/track/4xaWsmSgkCOXOaxEF0ofjy"
@@ -2529,6 +2529,24 @@
       "duration_ms": 266718,
       "name": "It's Only A Paper Moon",
       "url": "https://open.spotify.com/track/7naIptuhLR1lTnnxx4Dx46"
+    },
+    {
+      "album": {
+        "name": "It's You Or No One",
+        "url": "https://open.spotify.com/album/21kjz5LLIGohYrVYgkEI0r"
+      },
+      "artists": [
+        {
+          "name": "The Blue Green",
+          "url": "https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214798,
+      "name": "It's You Or No One",
+      "url": "https://open.spotify.com/track/3CewMyxVNsiu94v6Vm0SS2"
     },
     {
       "album": {
@@ -3015,6 +3033,24 @@
       "duration_ms": 231693,
       "name": "May Dance",
       "url": "https://open.spotify.com/track/2daoiHZab1n6yJPQjTEDap"
+    },
+    {
+      "album": {
+        "name": "Maze of Tranquility",
+        "url": "https://open.spotify.com/album/3xOT2GRM03MGNTRMQFSPZS"
+      },
+      "artists": [
+        {
+          "name": "Martin Landstr\u00f6m",
+          "url": "https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262707,
+      "name": "Maze of Tranquility",
+      "url": "https://open.spotify.com/track/06henIQqvVk2vAKj1yQtTp"
     },
     {
       "album": {
@@ -4056,6 +4092,24 @@
     },
     {
       "album": {
+        "name": "Someone Elses Love",
+        "url": "https://open.spotify.com/album/0UF9P6f5lz0xSlJpg7X4kv"
+      },
+      "artists": [
+        {
+          "name": "Sodermalm Strand",
+          "url": "https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223525,
+      "name": "Someone Elses Love",
+      "url": "https://open.spotify.com/track/0NVDCHyEn5eLwfcxx2QFC6"
+    },
+    {
+      "album": {
         "name": "Cheek To Cheek",
         "url": "https://open.spotify.com/album/2sZ4ZE5wxjfxqzGMKh1Jde"
       },
@@ -4453,7 +4507,7 @@
       ],
       "date_added": "2020-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 211164,
       "name": "Tennesse",
       "url": "https://open.spotify.com/track/2RkJ5dsaRwrnrhYUX2F7Qr"

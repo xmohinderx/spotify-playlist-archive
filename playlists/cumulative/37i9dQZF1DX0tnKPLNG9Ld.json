@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 131480,
       "name": "A Fine Romance",
       "url": "https://open.spotify.com/track/2L7Nu3SuNsNzzru8nQM3BS"
@@ -658,6 +658,32 @@
     },
     {
       "album": {
+        "name": "The Girl From Ipanema - The Bossa Nova Years",
+        "url": "https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164826,
+      "name": "Doralice",
+      "url": "https://open.spotify.com/track/2cDO2CnwjyXgKhgh6QcAaN"
+    },
+    {
+      "album": {
         "name": "What A Wonderful World",
         "url": "https://open.spotify.com/album/19UoBHanqMth4tk0rFw5RJ"
       },
@@ -749,6 +775,28 @@
       "duration_ms": 237333,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/1AM8QdDFZMq6SrrqUnuQ9P"
+    },
+    {
+      "album": {
+        "name": "Sinatra/Basie: The Complete Reprise Studio Recordings",
+        "url": "https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Fly Me To The Moon (In Other Words)",
+      "url": "https://open.spotify.com/track/5b7OgznPJJr1vHNYGyvxau"
     },
     {
       "album": {
@@ -1631,7 +1679,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 187040,
       "name": "Lulu's Back In Town",
       "url": "https://open.spotify.com/track/6YMbGEs68Nc9B17N5gmGXP"

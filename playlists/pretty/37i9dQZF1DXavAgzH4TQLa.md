@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 
 > Dale play, y que la cumbia no pare.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,211 likes - 80 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,313 likes - 80 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,16 +28,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 | 18 | [La Cumbita](https://open.spotify.com/track/23ADuBlydh01tBQhJgMgIV) | [Tambó Tambó](https://open.spotify.com/artist/6wAk3K9nxqR0pTLGLctzQu) | [De Enero a Enero](https://open.spotify.com/album/459Jy3R3Jhm4GdpVWKGM0g) | 3:14 |
 | 19 | [Vienes y Te Vas \- En Vivo](https://open.spotify.com/track/6TjT0xHmKOq0ucSuh96SKa) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Inimitable](https://open.spotify.com/album/5EzSSOaUdXxqsf4iniszNU) | 4:14 |
 | 20 | [Fuiste](https://open.spotify.com/track/3jxP1S0xXvPBry3scDZj6h) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Corazón Valiente](https://open.spotify.com/album/3WuwesFp1zHaIQa98Y3Fcn) | 3:02 |
-| 21 | [La Ventanita](https://open.spotify.com/track/2dfnK7rHRibkQR93iZn7Z2) | [Grupo Sombras](https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae) | [Boquita de Caramelo](https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm) | 4:03 |
-| 22 | [Llora me llama](https://open.spotify.com/track/4AN9FuUhpHnaiVw8ZsLu2V) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Grupo Play \(La poesía musical\)](https://open.spotify.com/album/1yST9o2V4nN2eo2Y96KHjR) | 3:12 |
+| 21 | [Llora me llama](https://open.spotify.com/track/4AN9FuUhpHnaiVw8ZsLu2V) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Grupo Play \(La poesía musical\)](https://open.spotify.com/album/1yST9o2V4nN2eo2Y96KHjR) | 3:12 |
+| 22 | [La Ventanita](https://open.spotify.com/track/2dfnK7rHRibkQR93iZn7Z2) | [Grupo Sombras](https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae) | [Boquita de Caramelo](https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm) | 4:03 |
 | 23 | [Una Ráfaga de Amor](https://open.spotify.com/track/4i5NFoPWqTqlsR4WyoVFtB) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Lo mejor de Ráfaga](https://open.spotify.com/album/4qECJweYNVyAPvZNT6fd1T) | 3:03 |
 | 24 | [Tramposa Y Mentirosa](https://open.spotify.com/track/6KzeUBu1BE8q24CblG6oku) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Un Homenaje Al Cielo](https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2) | 3:32 |
 | 25 | [Bonita](https://open.spotify.com/track/2ndfn8f7o94Y33HPcWjyay) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Hecho con Amor](https://open.spotify.com/album/7M8zzURI76D1gAX5M0o0bl) | 3:22 |
 | 26 | [Iluminará](https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Grandes Éxitos Regrabados](https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr) | 4:02 |
 | 27 | [No Me Arrepiento de Este Amor](https://open.spotify.com/track/6Bj9aK0jTMmjUp1y4Z7SVz) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [20 Grandes Exitos](https://open.spotify.com/album/6cWj9XVKzrrayy7c6n5KiI) | 3:40 |
 | 28 | [Eres](https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Amor pirata](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 3:16 |
-| 29 | [Porque te Amo](https://open.spotify.com/track/25DfDOwP1giHlA05V3LyUR) | [La Cumbia](https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev) | [Sa, Za...Sabor!!!](https://open.spotify.com/album/3kAXiEiI9Je5tywIAywzcp) | 3:53 |
-| 30 | [No voy a llorar](https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE) | [Altos Cumbieros](https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM) | [Altos Cumbieros \- Cumbia Villera](https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF) | 3:08 |
+| 29 | [No voy a llorar](https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE) | [Altos Cumbieros](https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM) | [Altos Cumbieros \- Cumbia Villera](https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF) | 3:08 |
+| 30 | [Porque te Amo](https://open.spotify.com/track/25DfDOwP1giHlA05V3LyUR) | [La Cumbia](https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev) | [Sa, Za...Sabor!!!](https://open.spotify.com/album/3kAXiEiI9Je5tywIAywzcp) | 3:53 |
 | 31 | [Llorarás Más De Diez Veces](https://open.spotify.com/track/2IuLxgL5dd02AeF5FSygjQ) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Aún Sigue La Lección](https://open.spotify.com/album/7yGG6SN679bWm8Op7Baf1D) | 3:31 |
 | 32 | [Con la Misma Moneda](https://open.spotify.com/track/6HIZ8QjtS1jGxAfTEYFyi4) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Con la Misma Moneda](https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc) | 4:26 |
 | 33 | [Cinco Minutos](https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Montevideo 418](https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP) | 3:31 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 | 79 | [Despues de Ti / Pero Me Acuerdo de Ti/ a Puro Dolor](https://open.spotify.com/track/5GDNQTJxjaRWhXrEK26NeV) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Despues de Ti / Pero Me Acuerdo de Ti / a Puro Dolor](https://open.spotify.com/album/6k53cVKHS6nwAwzcqqGguZ) | 4:12 |
 | 80 | [Otra Como Tú](https://open.spotify.com/track/67ghG6n5zTVWoL77V37lCf) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Montevideo 418](https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP) | 4:18 |
 
-Snapshot ID: `MTY1ODUwMjQxNiwwMDAwMDAwMDM2MGJhOTVkZjNlNWVlYmNjZDhiMTdmNGZkNDQzNDkx`
+Snapshot ID: `MTY1ODUwMjQxNiwwMDAwMDAwMDhjZDg1MmM3OGVhMzViOGRjMzg1YWU2NTUzZWZlZDQ2`

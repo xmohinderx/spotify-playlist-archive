@@ -4,7 +4,7 @@
 
 > مختارات من أفضل الاغاني الخليجية <br/>الغلاف: عبدالمجيدعبدالله
 
-65 songs - 4 hr 31 min - [published](https://open.spotify.com/playlist/6P6R1PK8TxLpu92yl9hTbK)
+67 songs - 4 hr 41 min - [published](https://open.spotify.com/playlist/6P6R1PK8TxLpu92yl9hTbK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Chokran](https://open.spotify.com/track/77JDzVjytmCZH8xIWmCY3l) | [Jamila](https://open.spotify.com/artist/7K0Se2JHfaWPp6OUS2gvgI), [Abd El Fattah Grini](https://open.spotify.com/artist/6ncRJcK3BssZxM1vE8M3J2) | [Chokran](https://open.spotify.com/album/09wY9vArfB6xzsNaRfwuZ1) | 3:34 | 2022-04-07 |  |
 | [Dag El Galb](https://open.spotify.com/track/1YZwEiO1KyH9IFHwrMSl6u) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Dag El Galb](https://open.spotify.com/album/69Ezh1ncGl5mV9C6Yj7NE3) | 3:10 | 2022-04-07 | 2022-08-15 |
 | [Dammit 3Eni](https://open.spotify.com/track/3qRN0sUxQpc7aZeygHfEwM) | [Mohamed Al Shehhi](https://open.spotify.com/artist/0dMebvi9NQ4TNjqWIH9dXp) | [Dammit 3Eni](https://open.spotify.com/album/6p1qe7JdxijyO3meOg3X78) | 3:37 | 2022-04-07 | 2022-06-09 |
+| [Dehkat Ayami](https://open.spotify.com/track/5qzYDx4eVLJFmveW0ULvnx) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Dehkat Ayami](https://open.spotify.com/album/0mdNdGbwgfzLMPUX6nRFIz) | 4:17 | 2022-09-01 |  |
 | [Elhubb Ja](https://open.spotify.com/track/6dNsnqDf8c5aBUZW7V2Oqh) | [Salah Alzadjali](https://open.spotify.com/artist/5B14NO9B5J7hKVfyttzrpH) | [Elhubb Ja](https://open.spotify.com/album/42tevSQ1DPLBGr8BgQfh3e) | 4:36 | 2022-06-08 |  |
 | [Entaha](https://open.spotify.com/track/3TNLk413ZyKiUNU2IPYLUW) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Entaha](https://open.spotify.com/album/1W9ZA3sustAg1YF2Lfywj1) | 3:07 | 2022-04-07 |  |
 | [Faraktozy](https://open.spotify.com/track/12h7uMuEanhGWfnzOyvo8h) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Faraktozy](https://open.spotify.com/album/1OAttDR3r7GbxCNeSgElrE) | 3:50 | 2022-08-14 |  |
@@ -36,6 +37,7 @@
 | [lo Hobek](https://open.spotify.com/track/598erFMdm6rEKqw7tRg3PX) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [lo Hobek](https://open.spotify.com/album/48Ppl1mtZYWRqlDPgr2vBr) | 3:18 | 2022-04-07 |  |
 | [Logiak](https://open.spotify.com/track/6MLGToHN1rywzRuXgKjbmF) | [Eidha Al Menhali](https://open.spotify.com/artist/3SyRoTyNvAyDfFT9iap0ie), [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Logiak](https://open.spotify.com/album/7uiBwDftspH5AQVMhxT45m) | 3:50 | 2022-04-07 |  |
 | [Maazom](https://open.spotify.com/track/2vQF0IxnmS298QNT0wkqej) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [Maazom](https://open.spotify.com/album/65IDPgoxTtbQzQ8BY2B6e4) | 3:50 | 2022-04-07 |  |
+| [Mawed Eyonk](https://open.spotify.com/track/7aq0vVJxIfEJBl0Nca2Yfq) | [Abdulaziz Elmuanna](https://open.spotify.com/artist/4bzY16GQnsfRHuIzHN4lC7) | [Mawed Eyonk](https://open.spotify.com/album/2f6Pbb9qmPx9PEkOULDmOn) | 5:21 | 2022-09-01 |  |
 | [Men Broodak](https://open.spotify.com/track/2yNek8B5wQ9B6ZxOIsEBQh) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [Men Broodak](https://open.spotify.com/album/5Qd1cIVMLtmq9Ilye8hpyd) | 4:00 | 2022-04-07 | 2022-06-09 |
 | [Mishtag](https://open.spotify.com/track/7r04IDrw7headpmzn7xZGk) | [Abdulaziz Elmuanna](https://open.spotify.com/artist/4bzY16GQnsfRHuIzHN4lC7) | [Mishtag](https://open.spotify.com/album/5ybk09xdlcUxXst50j3DcX) | 4:49 | 2022-07-25 |  |
 | [Mo 3ebek](https://open.spotify.com/track/0R3oaHOHLAPOvL5JJdjGk7) | [Saad Ramadan](https://open.spotify.com/artist/3TQIvMCVNOLxytHD4FWm9a) | [Mo 3ebek](https://open.spotify.com/album/1Wn8mbAWjJyWOdwNdiJ0sB) | 3:13 | 2022-04-07 | 2022-08-11 |

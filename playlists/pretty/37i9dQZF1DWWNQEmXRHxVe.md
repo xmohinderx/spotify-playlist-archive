@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNQEmXRHxVe.md) - [plain]
 
 > Music from the most memorable Super Bowl halftime shows\. Cover: Dr\. Dre
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,581 likes - 96 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,604 likes - 96 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNQEmXRHxVe.md) - [plain]
 | 24 | [Money Trees](https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [good kid, m.A.A.d city](https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1) | 6:26 |
 | 25 | [Start Me Up \- Remastered 2009](https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Tattoo You \(2009 Re\-Mastered\)](https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ) | 3:33 |
 | 26 | [This Love](https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 3:26 |
-| 27 | [Crazy In Love \(feat\. Jay\-Z\)](https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 3:56 |
-| 28 | [Drop It Like It's Hot](https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [R&G \(Rhythm & Gangsta\): The Masterpiece](https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp) | 4:26 |
+| 27 | [Drop It Like It's Hot](https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [R&G \(Rhythm & Gangsta\): The Masterpiece](https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp) | 4:26 |
+| 28 | [Crazy In Love \(feat\. Jay\-Z\)](https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 3:56 |
 | 29 | [No Diggity](https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ) | [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Queen Pen](https://open.spotify.com/artist/0VbIlorLz3I5SEtIsc5vAr) | [Another Level](https://open.spotify.com/album/2zGZLQiFl9UubtrVmtIkbi) | 5:04 |
 | 30 | [Family Affair](https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [No More Drama](https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4) | 4:25 |
 | 31 | [She Will Be Loved \- Radio Mix](https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 4:19 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNQEmXRHxVe.md) - [plain]
 | 62 | [Black or White](https://open.spotify.com/track/7EsjkelQuoUlJXEw7SeVV4) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Dangerous](https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg) | 4:14 |
 | 63 | [Let's Get Loud](https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 3:59 |
 | 64 | [Young, Wild & Free \(feat\. Bruno Mars\)](https://open.spotify.com/track/6YbhspuOar1D9WSSnfe7ds) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Mac and Devin Go to High School \(Music from and Inspired by the Movie\)](https://open.spotify.com/album/12pnVAswzLE6hArSl0bF0h) | 3:27 |
-| 65 | [Vogue](https://open.spotify.com/track/27QvYgBk0CHOVHthWnkuWt) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 5:16 |
-| 66 | [\(Love Is Like A\) Heat Wave](https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Heat Wave](https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK) | 2:43 |
+| 65 | [\(Love Is Like A\) Heat Wave](https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Heat Wave](https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK) | 2:43 |
+| 66 | [Vogue](https://open.spotify.com/track/27QvYgBk0CHOVHthWnkuWt) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 5:16 |
 | 67 | [Get Ur Freak On](https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Miss E..\. So Addictive](https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP) | 3:31 |
 | 68 | [Independent Women, Pt\. 1](https://open.spotify.com/track/69XUpOpjzDKcfdxqZebGiI) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9) | 3:41 |
 | 69 | [Who Are You](https://open.spotify.com/track/23IJ5wLRhEZ9DOuia5mPiZ) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who Are You](https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8) | 6:21 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNQEmXRHxVe.md) - [plain]
 | 95 | [Release Yourself](https://open.spotify.com/track/24JnivykEgycnelmeyvZNl) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Burnin'](https://open.spotify.com/album/7IAaeP93y9SgYQ6MKWA0hL) | 4:54 |
 | 96 | [Caravan](https://open.spotify.com/track/3yQKTiqSp2tnEarIw5WhuR) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Bennett Sings Ellington / Hot And Cool](https://open.spotify.com/album/7uRqIpnqW1nI0d3fkamMa9) | 4:36 |
 
-Snapshot ID: `MTY0NDU4ODYwMywwMDAwMDAwMDU5ZjE2M2UyNjc4MWJjODdjOWM2NDRlZDNmNWQ2YzQ3`
+Snapshot ID: `MTY0NDU4ODYwMywwMDAwMDAwMDhmZjU3ZDViNjlkODNjNzk0NGU5ZjQ4MTEyMDFlMWI1`

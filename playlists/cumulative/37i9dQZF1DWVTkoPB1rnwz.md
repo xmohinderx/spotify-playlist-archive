@@ -4,7 +4,7 @@
 
 > Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.
 
-236 songs - 13 hr 26 min - [published](https://open.spotify.com/playlist/2Jt65y4t0Q0R06nWIg25oY)
+237 songs - 13 hr 28 min - [published](https://open.spotify.com/playlist/2Jt65y4t0Q0R06nWIg25oY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Playing Coy](https://open.spotify.com/track/6kvcGtcRk87tvBwQew6pkl) | [Arthur Wu](https://open.spotify.com/artist/3FvtuXFdOgdAl7Gsi91GFV) | [Playing Coy](https://open.spotify.com/album/2Vq0MbrCZSbcfZQmsIKZil) | 1:31 | 2021-10-16 | 2022-08-12 |
 | [Powers Out](https://open.spotify.com/track/3Ln2gSxZ0WUDUEUprF5RJa) | [Andrew CS](https://open.spotify.com/artist/7Fv7NaEJyV1PKy9PURdZFx) | [\*](https://open.spotify.com/album/3zGGjNdPQplOCQUyHgIQcq) | 1:57 | 2021-10-16 | 2022-07-29 |
 | [Prelude To A Desaster](https://open.spotify.com/track/0A7BjCCEg9dqTzFMiTZH4A) | [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [Prelude To A Desaster](https://open.spotify.com/album/4IkGXYQjErxs4C4XN5Yxdq) | 2:50 | 2022-04-23 |  |
+| [Rainforest Revival Shampoo Bar](https://open.spotify.com/track/1mYTnzuhrlxkfcqea2KEQp) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Rainforest Revival Shampoo Bar](https://open.spotify.com/album/1xLQFwcxKjXh0uEKeYCPBN) | 2:12 | 2021-10-16 |  |
 | [Rainforest Revival Shampoo Bar](https://open.spotify.com/track/6f4acBjqPs80P0Ttnp1rN1) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Rainforest Revival Shampoo Bar](https://open.spotify.com/album/64eSZojU3zsDIdJGPbaR8M) | 2:12 | 2021-10-16 | 2022-07-25 |
 | [Redder Than The Moon](https://open.spotify.com/track/0BaMCfGFqKWdy1twJsYueE) | [John Looke](https://open.spotify.com/artist/1QhkInKbE89KGSmit4gxS5) | [SVMMER SVN vol\. 6](https://open.spotify.com/album/7r0xrhFh0z7HYziylKYSya) | 4:27 | 2021-10-16 |  |
 | [Redder Than The Moon](https://open.spotify.com/track/3nWeRDTscrrz33s4Ruu7uM) | [John Looke](https://open.spotify.com/artist/1QhkInKbE89KGSmit4gxS5) | [SVMMER SVN vol\. 6](https://open.spotify.com/album/5kzIE3Vhr8FZjaQHIBjEng) | 4:27 | 2021-10-16 | 2022-07-29 |
@@ -204,7 +205,7 @@
 | [thank you](https://open.spotify.com/track/1Iz3CgXvBRtvBexnOfEk06) | [elro](https://open.spotify.com/artist/4F288nXxaJ0a12MP60Il0c), [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb) | [thank you](https://open.spotify.com/album/4t88BKiSoKTFiBQpWSurNw) | 1:41 | 2022-01-14 | 2022-08-30 |
 | [The Last Retention](https://open.spotify.com/track/29ZI7WGaFGWfpahlaEV39l) | [Ronnie & Clyde](https://open.spotify.com/artist/17iXwjkIFJqyYv0is1d9sJ) | [The Last Retention](https://open.spotify.com/album/7w7tsQtxV6TZ4eIL4v3F7t) | 4:04 | 2021-10-16 |  |
 | [The Lonely Island of Neopagan Practices](https://open.spotify.com/track/3JsRGgz1mChiwFTuSJ7dev) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [The Lonely Island of Neopagan Practices](https://open.spotify.com/album/0Mzqji5yhsfLxdt9zd82gR) | 2:45 | 2021-10-16 | 2022-07-29 |
-| [The Sapphire Waters of East Kalimantan](https://open.spotify.com/track/1E5DCumnwDMoZm6DGhUo4V) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [The Sapphire Waters of East Kalimantan](https://open.spotify.com/album/1gaKUiWdoNRRC7B3w5rCuv) | 2:40 | 2021-10-16 |  |
+| [The Sapphire Waters of East Kalimantan](https://open.spotify.com/track/1E5DCumnwDMoZm6DGhUo4V) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [The Sapphire Waters of East Kalimantan](https://open.spotify.com/album/1gaKUiWdoNRRC7B3w5rCuv) | 2:40 | 2021-10-16 | 2022-09-02 |
 | [The Sapphire Waters of East Kalimantan](https://open.spotify.com/track/2xWuOQh9k5g3vjk4zaeoUy) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [The Sapphire Waters of East Kalimantan](https://open.spotify.com/album/3jSsSaLuFPCA1do6E9j1Cd) | 2:40 | 2021-10-16 | 2022-07-16 |
 | [they sink \- TOKiMONSTA remix](https://open.spotify.com/track/1wrVNFd1voyFZ12xX2elYT) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [they sink](https://open.spotify.com/album/7xnL3Sr60ByV3juvyDrYE0) | 4:42 | 2021-10-16 |  |
 | [Thus](https://open.spotify.com/track/6Kuue6voczzBMIbSBSinJ0) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm), [Rena Jones](https://open.spotify.com/artist/09qbbuYgbAysaJDRlCkbT6), [Flowerpulse](https://open.spotify.com/artist/2r954nnXRVwwleWpnScEoP) | [Thus](https://open.spotify.com/album/5Uc6SeZfeDHPwbbyfbMOEv) | 3:31 | 2021-10-16 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The best new experimental music by independent artists and labels. Updates every Wednesday. Cover: Hatis Noit / Boku to Georges Artwork: Thami Nabil",
-  "num_followers": 91525,
+  "num_followers": 91439,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkxODUyMSwwMDAwMDAwMDk4NTNhYmI4M2IwZmZmZDJlNmY0OTYxZTE0ZTliZGE3",
+  "snapshot_id": "MTY2MTkxODUyMSwwMDAwMDAwMDdlZGZlOTBjODA2ODc4YzIzZDk3MGIwNzJlNWJhZDFk",
   "tracks": [
     {
       "added_at": "2022-08-31 04:02:01",
@@ -201,6 +201,22 @@
       "url": "https://open.spotify.com/track/3h9BQoh0mAmm93aHINUprR"
     },
     {
+      "added_at": "2022-08-24 01:37:13",
+      "album": {
+        "name": "Theory",
+        "url": "https://open.spotify.com/album/1lgHQEYjhVOnpY3ew0hhpy"
+      },
+      "artists": [
+        {
+          "name": "TAKA",
+          "url": "https://open.spotify.com/artist/4EDsHhy34wYbBzKpOEXkYm"
+        }
+      ],
+      "duration_ms": 238846,
+      "name": "deaf",
+      "url": "https://open.spotify.com/track/0RFwd1ZWNSVT7LtAvenIVg"
+    },
+    {
       "added_at": "2022-07-06 13:58:15",
       "album": {
         "name": "Strands",
@@ -231,22 +247,6 @@
       "duration_ms": 517362,
       "name": "Inori",
       "url": "https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP"
-    },
-    {
-      "added_at": "2022-08-24 01:37:13",
-      "album": {
-        "name": "Theory",
-        "url": "https://open.spotify.com/album/1lgHQEYjhVOnpY3ew0hhpy"
-      },
-      "artists": [
-        {
-          "name": "TAKA",
-          "url": "https://open.spotify.com/artist/4EDsHhy34wYbBzKpOEXkYm"
-        }
-      ],
-      "duration_ms": 238846,
-      "name": "deaf",
-      "url": "https://open.spotify.com/track/0RFwd1ZWNSVT7LtAvenIVg"
     },
     {
       "added_at": "2022-08-03 03:56:48",
@@ -281,6 +281,22 @@
       "url": "https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL"
     },
     {
+      "added_at": "2022-08-24 01:37:13",
+      "album": {
+        "name": "Flux",
+        "url": "https://open.spotify.com/album/47OhENaoLcx2paWK9GgzUR"
+      },
+      "artists": [
+        {
+          "name": "Eusebeia",
+          "url": "https://open.spotify.com/artist/6Vya9cujyDikgMmgOo1DRD"
+        }
+      ],
+      "duration_ms": 101380,
+      "name": "Flux",
+      "url": "https://open.spotify.com/track/1FBZeHlILzJFN2YGKk0yPS"
+    },
+    {
       "added_at": "2022-08-03 02:51:09",
       "album": {
         "name": "Time Traveller",
@@ -299,22 +315,6 @@
     {
       "added_at": "2022-08-24 01:37:13",
       "album": {
-        "name": "Flux",
-        "url": "https://open.spotify.com/album/47OhENaoLcx2paWK9GgzUR"
-      },
-      "artists": [
-        {
-          "name": "Eusebeia",
-          "url": "https://open.spotify.com/artist/6Vya9cujyDikgMmgOo1DRD"
-        }
-      ],
-      "duration_ms": 101380,
-      "name": "Flux",
-      "url": "https://open.spotify.com/track/1FBZeHlILzJFN2YGKk0yPS"
-    },
-    {
-      "added_at": "2022-08-24 01:37:13",
-      "album": {
         "name": "The Distance Between Heart And Mouth",
         "url": "https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu"
       },
@@ -329,20 +329,20 @@
       "url": "https://open.spotify.com/track/3yrogOJPrt7rbnpIdIPNIe"
     },
     {
-      "added_at": "2022-08-03 02:51:09",
+      "added_at": "2022-08-24 01:37:13",
       "album": {
-        "name": "For You Only",
-        "url": "https://open.spotify.com/album/5xpcLzvU7tdIkDkRwrTEJr"
+        "name": "To The Room",
+        "url": "https://open.spotify.com/album/0j3mForBt3hDI70NfeX5KJ"
       },
       "artists": [
         {
-          "name": "Isa Gordon",
-          "url": "https://open.spotify.com/artist/2dA8VFOWjWex4ypqqepKwH"
+          "name": "Gabe Gurnsey",
+          "url": "https://open.spotify.com/artist/1tZeQ8pR2cJc1nFtaFeCdu"
         }
       ],
-      "duration_ms": 182400,
-      "name": "Second Love",
-      "url": "https://open.spotify.com/track/0jaYsfrSaAGb4d81qE5APl"
+      "duration_ms": 314410,
+      "name": "To The Room",
+      "url": "https://open.spotify.com/track/6cdrN8vixkhW6F6E2vS6yT"
     },
     {
       "added_at": "2022-07-20 05:00:00",
@@ -363,54 +363,6 @@
     {
       "added_at": "2022-08-24 01:37:13",
       "album": {
-        "name": "To The Room",
-        "url": "https://open.spotify.com/album/0j3mForBt3hDI70NfeX5KJ"
-      },
-      "artists": [
-        {
-          "name": "Gabe Gurnsey",
-          "url": "https://open.spotify.com/artist/1tZeQ8pR2cJc1nFtaFeCdu"
-        }
-      ],
-      "duration_ms": 314410,
-      "name": "To The Room",
-      "url": "https://open.spotify.com/track/6cdrN8vixkhW6F6E2vS6yT"
-    },
-    {
-      "added_at": "2022-07-27 14:53:59",
-      "album": {
-        "name": "Carte Blanche",
-        "url": "https://open.spotify.com/album/09vQxbdKCIeapIcG72bR62"
-      },
-      "artists": [
-        {
-          "name": "Bon-Psy",
-          "url": "https://open.spotify.com/artist/5Vv4f9pucnXPVExpBKfBXn"
-        }
-      ],
-      "duration_ms": 194050,
-      "name": "Carte Blanche",
-      "url": "https://open.spotify.com/track/76NPiAAkI1o5pj0HsZ4zvt"
-    },
-    {
-      "added_at": "2022-08-03 02:51:09",
-      "album": {
-        "name": "Shallots",
-        "url": "https://open.spotify.com/album/1rKFlOuwvqORkzO0tQiyPw"
-      },
-      "artists": [
-        {
-          "name": "Frequent",
-          "url": "https://open.spotify.com/artist/71Q5SkUpc26h0swrRjrGEc"
-        }
-      ],
-      "duration_ms": 221298,
-      "name": "Shallots",
-      "url": "https://open.spotify.com/track/3un8NWwFpSvbN0m0JZ29da"
-    },
-    {
-      "added_at": "2022-08-24 01:37:13",
-      "album": {
         "name": "Uncanny Being (Violin Study #2)",
         "url": "https://open.spotify.com/album/0Uf0ZJAVfCBhRhiZ7uGNKk"
       },
@@ -423,6 +375,22 @@
       "duration_ms": 383680,
       "name": "Uncanny Being (Violin Study #2)",
       "url": "https://open.spotify.com/track/3ZQWUYowGRJ6pyed7OMm5h"
+    },
+    {
+      "added_at": "2022-08-03 02:51:09",
+      "album": {
+        "name": "For You Only",
+        "url": "https://open.spotify.com/album/5xpcLzvU7tdIkDkRwrTEJr"
+      },
+      "artists": [
+        {
+          "name": "Isa Gordon",
+          "url": "https://open.spotify.com/artist/2dA8VFOWjWex4ypqqepKwH"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Second Love",
+      "url": "https://open.spotify.com/track/0jaYsfrSaAGb4d81qE5APl"
     },
     {
       "added_at": "2022-08-24 01:37:13",
@@ -441,20 +409,36 @@
       "url": "https://open.spotify.com/track/3ZeOlJzcevGwxnnIGS2e4C"
     },
     {
-      "added_at": "2022-07-20 05:00:00",
+      "added_at": "2022-08-03 02:51:09",
       "album": {
-        "name": "Image Langage",
-        "url": "https://open.spotify.com/album/6S6Dab2CiNgbnTf40pCjQy"
+        "name": "Shallots",
+        "url": "https://open.spotify.com/album/1rKFlOuwvqORkzO0tQiyPw"
       },
       "artists": [
         {
-          "name": "Felicia Atkinson",
-          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
+          "name": "Frequent",
+          "url": "https://open.spotify.com/artist/71Q5SkUpc26h0swrRjrGEc"
         }
       ],
-      "duration_ms": 338000,
-      "name": "La Brume",
-      "url": "https://open.spotify.com/track/3Kmn0mu69Lu2FEgyFkIaXs"
+      "duration_ms": 221298,
+      "name": "Shallots",
+      "url": "https://open.spotify.com/track/3un8NWwFpSvbN0m0JZ29da"
+    },
+    {
+      "added_at": "2022-07-27 14:53:59",
+      "album": {
+        "name": "Carte Blanche",
+        "url": "https://open.spotify.com/album/09vQxbdKCIeapIcG72bR62"
+      },
+      "artists": [
+        {
+          "name": "Bon-Psy",
+          "url": "https://open.spotify.com/artist/5Vv4f9pucnXPVExpBKfBXn"
+        }
+      ],
+      "duration_ms": 194050,
+      "name": "Carte Blanche",
+      "url": "https://open.spotify.com/track/76NPiAAkI1o5pj0HsZ4zvt"
     },
     {
       "added_at": "2022-07-20 05:00:00",
@@ -471,6 +455,22 @@
       "duration_ms": 246593,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/5W9cJdvPtkuPaVtJAIylbM"
+    },
+    {
+      "added_at": "2022-07-20 05:00:00",
+      "album": {
+        "name": "Image Langage",
+        "url": "https://open.spotify.com/album/6S6Dab2CiNgbnTf40pCjQy"
+      },
+      "artists": [
+        {
+          "name": "Felicia Atkinson",
+          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
+        }
+      ],
+      "duration_ms": 338000,
+      "name": "La Brume",
+      "url": "https://open.spotify.com/track/3Kmn0mu69Lu2FEgyFkIaXs"
     },
     {
       "added_at": "2022-08-03 02:51:09",
@@ -553,22 +553,6 @@
       "url": "https://open.spotify.com/track/0sOipgMTgqhBSq3dYkR2OE"
     },
     {
-      "added_at": "2022-08-10 04:00:00",
-      "album": {
-        "name": "Aral",
-        "url": "https://open.spotify.com/album/3JaoGku2I6BpJpsE70N0qN"
-      },
-      "artists": [
-        {
-          "name": "SK.EIN",
-          "url": "https://open.spotify.com/artist/7lO3132d2IEaNxgeMabPXy"
-        }
-      ],
-      "duration_ms": 216882,
-      "name": "Aral",
-      "url": "https://open.spotify.com/track/1KSvw7Nbb93VfeTYv3PPEo"
-    },
-    {
       "added_at": "2022-07-20 05:00:00",
       "album": {
         "name": "Clear",
@@ -583,6 +567,22 @@
       "duration_ms": 213083,
       "name": "Clear (Eight-Circuit Mix)",
       "url": "https://open.spotify.com/track/7rH2MHD1iX2405rkYFO4uC"
+    },
+    {
+      "added_at": "2022-08-10 04:00:00",
+      "album": {
+        "name": "Aral",
+        "url": "https://open.spotify.com/album/3JaoGku2I6BpJpsE70N0qN"
+      },
+      "artists": [
+        {
+          "name": "SK.EIN",
+          "url": "https://open.spotify.com/artist/7lO3132d2IEaNxgeMabPXy"
+        }
+      ],
+      "duration_ms": 216882,
+      "name": "Aral",
+      "url": "https://open.spotify.com/track/1KSvw7Nbb93VfeTYv3PPEo"
     },
     {
       "added_at": "2022-08-03 02:51:09",
@@ -717,30 +717,6 @@
       "url": "https://open.spotify.com/track/4hQqvBV899zZK5iibYI8ZZ"
     },
     {
-      "added_at": "2022-07-27 14:53:59",
-      "album": {
-        "name": "\u672a\u958b\u306e\u667a",
-        "url": "https://open.spotify.com/album/2yTy8rqgHhTWWkPqlJ8udf"
-      },
-      "artists": [
-        {
-          "name": "Boku to Georges",
-          "url": "https://open.spotify.com/artist/2977kdIaYljU33WWtK8ZDI"
-        },
-        {
-          "name": "Himeno Tama",
-          "url": "https://open.spotify.com/artist/3SlQMcAkPmn94PeFYCKarT"
-        },
-        {
-          "name": "\u4f50\u85e4\u512a\u4ecb",
-          "url": "https://open.spotify.com/artist/48l1ZXH0Liagpd4Cqovx7L"
-        }
-      ],
-      "duration_ms": 115263,
-      "name": "\u672a\u958b\u306e\u667a",
-      "url": "https://open.spotify.com/track/4sv6XvEU3w9jLFpjP17rxA"
-    },
-    {
       "added_at": "2022-08-24 01:37:13",
       "album": {
         "name": "Pause",
@@ -771,6 +747,46 @@
       "duration_ms": 224470,
       "name": "sunflower",
       "url": "https://open.spotify.com/track/3JFCJBNiBsjdnihfqaLnKN"
+    },
+    {
+      "added_at": "2022-08-24 01:37:13",
+      "album": {
+        "name": "Eve",
+        "url": "https://open.spotify.com/album/6L7J405BwZ5hxM5Px7iyOe"
+      },
+      "artists": [
+        {
+          "name": "Floatleaf",
+          "url": "https://open.spotify.com/artist/6PuTsxqrk5XNswCXYWNr5r"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Eve",
+      "url": "https://open.spotify.com/track/0nFJMIWFrQQkJ8AOcAfvPf"
+    },
+    {
+      "added_at": "2022-07-27 14:53:59",
+      "album": {
+        "name": "\u672a\u958b\u306e\u667a",
+        "url": "https://open.spotify.com/album/2yTy8rqgHhTWWkPqlJ8udf"
+      },
+      "artists": [
+        {
+          "name": "Boku to Georges",
+          "url": "https://open.spotify.com/artist/2977kdIaYljU33WWtK8ZDI"
+        },
+        {
+          "name": "Himeno Tama",
+          "url": "https://open.spotify.com/artist/3SlQMcAkPmn94PeFYCKarT"
+        },
+        {
+          "name": "\u4f50\u85e4\u512a\u4ecb",
+          "url": "https://open.spotify.com/artist/48l1ZXH0Liagpd4Cqovx7L"
+        }
+      ],
+      "duration_ms": 115263,
+      "name": "\u672a\u958b\u306e\u667a",
+      "url": "https://open.spotify.com/track/4sv6XvEU3w9jLFpjP17rxA"
     },
     {
       "added_at": "2022-07-20 05:00:00",
@@ -807,26 +823,6 @@
       "duration_ms": 352000,
       "name": "Sempre pi\u00f9 solo",
       "url": "https://open.spotify.com/track/2YMeKnmEmQns1KhoglEZqi"
-    },
-    {
-      "added_at": "2022-08-10 04:00:00",
-      "album": {
-        "name": "AUTOMATA",
-        "url": "https://open.spotify.com/album/611Ky02Hs2IIhRZfUossfE"
-      },
-      "artists": [
-        {
-          "name": "JunIzawa",
-          "url": "https://open.spotify.com/artist/7784zrMh7ieZT0RZJgxV9I"
-        },
-        {
-          "name": "WOZNIAK",
-          "url": "https://open.spotify.com/artist/1jrlC8PxkV1Lh1LIjPgdwj"
-        }
-      ],
-      "duration_ms": 315130,
-      "name": "AUTOMATA",
-      "url": "https://open.spotify.com/track/3bTUfgHEEHzSowlHyfxc6n"
     }
   ],
   "unique_name": "Fresh Finds Experimental",

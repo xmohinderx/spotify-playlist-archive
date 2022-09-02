@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Classic songs like you've never heard before. Cover: Shawn Mendes, Maddie & Tae, and John Legend. ",
+  "description": "Classic songs like you've never heard before. Cover: Zara Larsson. ",
   "name": "Spotify Singles: Classics",
   "published_playlist_ids": [
     "6htxeTktsAlJEOJdgEWnsz"
@@ -491,7 +491,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 285606,
       "name": "Changes - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6cPWdRFnrKtQPzc4h9Olaz"
@@ -769,7 +769,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 198119,
       "name": "Everybody Wants To Be Famous - Recorded at RAK Studios, London",
       "url": "https://open.spotify.com/track/2cfvcnasI4AbplUmYXTyjP"
@@ -1243,6 +1243,24 @@
     {
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/54lLvzhlVF4QhQMBfPQhtl"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153624,
+      "name": "i will follow you into the dark - Spotify Singles",
+      "url": "https://open.spotify.com/track/7lxfdfIocUHefodQ8JLyfk"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6i6VBbBMbTYfB9oso3IrSN"
       },
       "artists": [
@@ -1459,6 +1477,46 @@
       "duration_ms": 233772,
       "name": "Landslide - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1RPFnPCvtBc46BFVOnzmPx"
+    },
+    {
+      "album": {
+        "name": "Lay All Your Love On Me - Spotify Singles",
+        "url": "https://open.spotify.com/album/4aCXO1evmETJ2Cy32sZ2Zj"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161125,
+      "name": "Lay All Your Love On Me - Spotify Singles",
+      "url": "https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/14V4tjh2spbCj7L4txtEY1"
+      },
+      "artists": [
+        {
+          "name": "Ruby Ibarra",
+          "url": "https://open.spotify.com/artist/5y1a3x8WQZLTsmLPowFnkj"
+        },
+        {
+          "name": "Bootleg Orchestra",
+          "url": "https://open.spotify.com/artist/3kutD0l68s9TCgDYsxV50L"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228953,
+      "name": "Let Me Blow Ya Mind (Spotify Singles)",
+      "url": "https://open.spotify.com/track/4lRm2lCC7YyUtiQMoiaHJ0"
     },
     {
       "album": {
@@ -1909,7 +1967,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 199072,
       "name": "Over And Over - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/05QUNkTFq3kK0Q062LDVxA"
@@ -2125,7 +2183,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 223871,
       "name": "Stolen Car - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3HpVHymskHasjzZ13OdNPo"
@@ -2547,6 +2605,24 @@
       "duration_ms": 256278,
       "name": "Un-Break My Heart - Spotify Singles",
       "url": "https://open.spotify.com/track/0wGOX6Go9IHpSXgL6SfsD1"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7pfQDManhpjhxwqps9cveA"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221969,
+      "name": "Untitled (How Does It Feel)",
+      "url": "https://open.spotify.com/track/6ALoVRxwV5KxaSWyejnmvi"
     },
     {
       "album": {

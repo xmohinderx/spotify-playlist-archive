@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vEn8vBG5Y1.md) - [plain]
 
 > The essential pop rock songs from the 2000s\. Cover: Kelly Clarkson.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,422 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,557 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vEn8vBG5Y1.md) - [plain]
 | 24 | [You And Me](https://open.spotify.com/track/0815caqt2Lytro5EIzMufT) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Lifehouse](https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz) | 3:15 |
 | 25 | [Girlfriend](https://open.spotify.com/track/45hOioMDJktr86iKDHC8gr) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Best Damn Thing \(Expanded Edition\)](https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38) | 3:36 |
 | 26 | [Bad Day](https://open.spotify.com/track/0mUyMawtxj1CJ76kn9gIZK) | [Daniel Powter](https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk) | [Daniel Powter](https://open.spotify.com/album/4zhigAhPwqp43XVHBiVeQI) | 3:53 |
-| 27 | [Drive](https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Make Yourself](https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR) | 3:52 |
-| 28 | [Chasing Cars](https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) | 4:27 |
+| 27 | [Chasing Cars](https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) | 4:27 |
+| 28 | [Drive](https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Make Yourself](https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR) | 3:52 |
 | 29 | [All Summer Long](https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [Rock n Roll Jesus](https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI) | 4:57 |
 | 30 | [Wherever You Will Go](https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [Camino Palmero](https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV) | 3:28 |
 | 31 | [Your Body Is a Wonderland](https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Room For Squares](https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48) | 4:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vEn8vBG5Y1.md) - [plain]
 | 99 | [Chariot](https://open.spotify.com/track/08kTO4EW0jb07zNsCNM83w) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Chariot \- Stripped](https://open.spotify.com/album/0Fm4Qx8IVHEEBYPeRzNUGI) | 3:59 |
 | 100 | [Life After You](https://open.spotify.com/track/70NGpcNvhI2hqonWNAETIu) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [It's Not Over....The Hits So Far](https://open.spotify.com/album/6hn4a3mFIw3FTUIVQWGSEE) | 3:27 |
 
-Snapshot ID: `MTY1MzQyMjEzNywwMDAwMDAwMDJlZTUwYTI4YjM4YTdkZDAzZjUyZWE3NmE0MGRmZmM4`
+Snapshot ID: `MTY1MzQyMjEzNywwMDAwMDAwMGI4OWY5N2E2OWYwYjYzMTlmMThkZjZmMjllZTA2OGM1`

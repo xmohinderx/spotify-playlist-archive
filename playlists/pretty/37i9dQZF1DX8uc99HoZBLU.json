@@ -1,12 +1,12 @@
 {
   "description": "for those who appreciate a curated mood \ud83e\udea9",
-  "num_followers": 613034,
+  "num_followers": 613609,
   "original_name": "aesthetic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTI4NTQ4NywwMDAwMDAwMGU1YTY3OTMyMjIwYmYyZDI4ODMxNDIwYTNjN2FiNmE3",
+  "snapshot_id": "MTY2MTI4NTQ4NywwMDAwMDAwMDZlZDZlNWE3YWQ0OTY0MjZmOGExNjA1YzU3NGM1MzFh",
   "tracks": [
     {
       "added_at": "2022-08-19 19:49:22",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-08-19 19:49:22",
       "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/1FhmTMNe8AziAPkB29114F"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 252230,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/4EpZ4eYuZOwPSSwyqpdHnJ"
-    },
-    {
-      "added_at": "2022-08-19 19:49:22",
-      "album": {
         "name": "recently",
         "url": "https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 161929,
       "name": "rises the moon",
       "url": "https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI"
+    },
+    {
+      "added_at": "2022-08-19 19:49:22",
+      "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/1FhmTMNe8AziAPkB29114F"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 252230,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/4EpZ4eYuZOwPSSwyqpdHnJ"
     },
     {
       "added_at": "2022-08-19 19:49:22",
@@ -783,26 +783,6 @@
     {
       "added_at": "2022-08-19 19:49:22",
       "album": {
-        "name": "Loving Is Easy (feat. Benny Sings)",
-        "url": "https://open.spotify.com/album/4D6BtgzCwuJx9omikqA8Rg"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        },
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
-        }
-      ],
-      "duration_ms": 155720,
-      "name": "Loving Is Easy (feat. Benny Sings)",
-      "url": "https://open.spotify.com/track/5EYi2rH4LYs6M21ZLOyQTx"
-    },
-    {
-      "added_at": "2022-08-19 19:49:22",
-      "album": {
         "name": "at least i'm pretty",
         "url": "https://open.spotify.com/album/2OAHHz54HY0g1vLBr23Gmg"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 221826,
       "name": "Sunflower, Vol. 6",
       "url": "https://open.spotify.com/track/6iYMfxznTBlcVOgRHab2W0"
+    },
+    {
+      "added_at": "2022-08-19 19:49:22",
+      "album": {
+        "name": "Loving Is Easy (feat. Benny Sings)",
+        "url": "https://open.spotify.com/album/4D6BtgzCwuJx9omikqA8Rg"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        },
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "duration_ms": 155720,
+      "name": "Loving Is Easy (feat. Benny Sings)",
+      "url": "https://open.spotify.com/track/5EYi2rH4LYs6M21ZLOyQTx"
     },
     {
       "added_at": "2022-08-19 19:49:22",

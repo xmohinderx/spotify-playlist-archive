@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 
 > Early pioneers that brought the underground to the foreground\. Cover: Depeche Mode
 
-[Spotify](https://open.spotify.com/user/spotify) - 955,427 likes - 75 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 954,825 likes - 75 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 | 13 | [Psycho Killer \- 2005 Remaster](https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77 \(Deluxe Version\)](https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN) | 4:21 |
 | 14 | [Don't You Want Me](https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 3:56 |
 | 15 | [Walk On the Wild Side](https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St) | 4:14 |
-| 16 | [Wuthering Heights](https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Kick Inside](https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1) | 4:29 |
-| 17 | [London Calling \- Remastered](https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:20 |
+| 16 | [London Calling \- Remastered](https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:20 |
+| 17 | [Wuthering Heights](https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Kick Inside](https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1) | 4:29 |
 | 18 | [Just What I Needed](https://open.spotify.com/track/4alHo6RGd0D3OUbTPExTHN) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [The Cars](https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq) | 3:45 |
 | 19 | [It's My Life \- 1997 Remaster](https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [It's My Life](https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf) | 3:52 |
 | 20 | [Common People](https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class](https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x) | 5:51 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 | 32 | [Age of Consent \- 2015 Remaster](https://open.spotify.com/track/2EEinN4Zk8MUv4OQuLsTBj) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Power Corruption and Lies](https://open.spotify.com/album/6NTrwu1XJ56jBPx7HMksbZ) | 5:15 |
 | 33 | [I Wanna Be Adored \- Remastered](https://open.spotify.com/track/758wEKVqfYopJIHYWdLVd4) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 4:52 |
 | 34 | [Mad World](https://open.spotify.com/track/0Qv7xi6uPSqH2k82tOkGSt) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Hurting](https://open.spotify.com/album/3sIFpEctox1XOs3FEkqrgr) | 3:35 |
-| 35 | [We Got The Beat](https://open.spotify.com/track/5kz9GDBTX846OXwqWoyKzF) | [The Go\-Go's](https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE) | [Beauty And The Beat](https://open.spotify.com/album/1L4HE00En7eNK74voVZums) | 2:33 |
-| 36 | [Cannonball](https://open.spotify.com/track/1KdwPeY1WRWQGHCmRJTveb) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Last Splash](https://open.spotify.com/album/57F44c0MTziVzHPEuJtH9A) | 3:33 |
+| 35 | [Cannonball](https://open.spotify.com/track/1KdwPeY1WRWQGHCmRJTveb) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Last Splash](https://open.spotify.com/album/57F44c0MTziVzHPEuJtH9A) | 3:33 |
+| 36 | [We Got The Beat](https://open.spotify.com/track/5kz9GDBTX846OXwqWoyKzF) | [The Go\-Go's](https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE) | [Beauty And The Beat](https://open.spotify.com/album/1L4HE00En7eNK74voVZums) | 2:33 |
 | 37 | [Girls on Film \- 2010 Remaster](https://open.spotify.com/track/4EFkvOhgAmlHEfDfvfSoh5) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Duran Duran \(Deluxe Edition\)](https://open.spotify.com/album/2Tc7ILGF89w1PWOhzuZlqB) | 3:32 |
 | 38 | [Ever Fallen in Love \(With Someone You Shouldn't've?\) \- 1996 Remastered Version](https://open.spotify.com/track/5YUJMvTg4AWHKjqQidTsGK) | [Buzzcocks](https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y) | [Love Bites](https://open.spotify.com/album/5rMPmOj5n5TRtphgHpqEVg) | 2:43 |
 | 39 | [Mrs\. Robinson \- Remastered](https://open.spotify.com/track/5EugXICXL06waHgP4iTI58) | [The Lemonheads](https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X) | [It's A Shame About Ray \(Expanded Edition\)](https://open.spotify.com/album/3AKjod7W29b6DQKwuInZji) | 3:44 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 | 74 | [Buena](https://open.spotify.com/track/2SSBJhvMsujY94GK5JAtKs) | [Morphine](https://open.spotify.com/artist/3QgSmABpItIdj908ek80n5) | [Cure for Pain](https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6) | 3:19 |
 | 75 | [Love Plus One](https://open.spotify.com/track/4vwLjB2NRtl9b34jRe6cWd) | [Haircut 100](https://open.spotify.com/artist/6imyM8T1Xbe8v2iZe41dR7) | [Pelican West Plus](https://open.spotify.com/album/6VIiHu2RCwWo4151YCG7ND) | 3:32 |
 
-Snapshot ID: `MTY2MDMyODk2OCwwMDAwMDAwMGNjZWYwYmQzNWYzNDM1MjNjOGY4ZTIzY2E1MzhkYWE4`
+Snapshot ID: `MTY2MDMyODk2OCwwMDAwMDAwMGY3M2NkNzI2ODdkNTgwZjhjNDVhNWIyYzEzZGFkZDA2`

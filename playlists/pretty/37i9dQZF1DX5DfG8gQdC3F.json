@@ -1,12 +1,12 @@
 {
   "description": "All the best new tracks this week, all in one place. Cover: DJ Khaled",
-  "num_followers": 330290,
+  "num_followers": 330338,
   "original_name": "New Music Friday Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4Njc0OSwwMDAwMDAwMDVmMjBlYjVhNTMxNzAxYTAzMmFlYjIyMjVhZGQ5Mzc3",
+  "snapshot_id": "MTY2MTQ4Njc0OSwwMDAwMDAwMDYwNDJkODc1MzhiZWQwZGYxNTRlNWQxY2E3ZjcxMzU3",
   "tracks": [
     {
       "added_at": "2022-08-26 04:05:49",
@@ -36,7 +36,7 @@
       "added_at": "2022-08-26 04:05:49",
       "album": {
         "name": "YUKON (INTERLUDE)",
-        "url": "https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi"
+        "url": "https://open.spotify.com/album/0GxWXE6ltKk4Gx3WyWLLrW"
       },
       "artists": [
         {
@@ -46,7 +46,7 @@
       ],
       "duration_ms": 141093,
       "name": "YUKON (INTERLUDE)",
-      "url": "https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe"
+      "url": "https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq"
     },
     {
       "added_at": "2022-08-26 04:05:49",
@@ -310,6 +310,10 @@
         {
           "name": "Jason Derulo",
           "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "Julio Masidi",
+          "url": "https://open.spotify.com/artist/2ZfpJTfi4q60zRUFWhll73"
         }
       ],
       "duration_ms": 155426,

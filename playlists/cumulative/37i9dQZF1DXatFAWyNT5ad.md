@@ -4,7 +4,7 @@
 
 > Let's mix it.
 
-502 songs - 1 day 2 hr 19 min - [published](https://open.spotify.com/playlist/7btkhvftx7WY0w5vxyn75X)
+504 songs - 1 day 2 hr 27 min - [published](https://open.spotify.com/playlist/7btkhvftx7WY0w5vxyn75X)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [First Time](https://open.spotify.com/track/2eFjKl5cyPPYElDByCh6Tb) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [First Time](https://open.spotify.com/album/6GwqbWxgikcrhZn8M2M7sc) | 2:45 | 2022-03-17 |  |
 | [Flames \(feat\. Avril Lavigne\)](https://open.spotify.com/track/6z7mOTf4O20AApGsTNn7fC) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Flames \(feat\. Avril Lavigne\)](https://open.spotify.com/album/3woElJWz4XHbRXbKm9kKgH) | 2:31 | 2022-03-17 | 2022-08-10 |
 | [Flavor of the Month](https://open.spotify.com/track/5cCuxmNLdzcPZT7hUsOQ6j) | [Hailey Haus](https://open.spotify.com/artist/5ohxvcrwDPxDTbl2fcwfUL) | [Flavor of the Month](https://open.spotify.com/album/1Uwr253jrhyi6VwSUwz5RO) | 2:20 | 2022-06-16 | 2022-07-23 |
-| [fleabag](https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [fleabag](https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79) | 2:56 | 2022-03-17 |  |
+| [fleabag](https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [fleabag](https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79) | 2:56 | 2022-03-17 | 2022-09-02 |
 | [Follow You](https://open.spotify.com/track/7FdUvDkaE24o3FPIWTvzv2) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Follow You / Cutthroat](https://open.spotify.com/album/1nz0PWfAcTQVbFtpU6u1UY) | 2:55 | 2022-03-24 |  |
 | [forget me too \(feat\. Halsey\)](https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 2:51 | 2022-03-17 |  |
 | [Forget to Forget You](https://open.spotify.com/track/2d72tfHrceo8IRrQYsh5Ye) | [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Forget to Forget You](https://open.spotify.com/album/3K5fQsYTJeax7eJ7KxQSim) | 3:24 | 2022-03-24 | 2022-04-12 |
@@ -191,7 +191,7 @@
 | [Girl Out Here](https://open.spotify.com/track/6xPYYNFU6rMwvap2w3ZtY7) | [Slater Davis](https://open.spotify.com/artist/6hPS1LEDsydj4UneziYLka) | [Girl Out Here](https://open.spotify.com/album/2urpKDLU1TGwmxKjFPRPRA) | 2:25 | 2022-03-17 | 2022-04-18 |
 | [Glory of Music II](https://open.spotify.com/track/4owBrksGX5hhX7rqdAfScg) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Living Mirage: The Complete Recordings](https://open.spotify.com/album/2uPspfPV2yUhwAziXXQCnH) | 4:41 | 2022-03-24 | 2022-04-11 |
 | [Go](https://open.spotify.com/track/3ZzQA64sTohfVJJCCZZhs0) | [Ten Tonnes](https://open.spotify.com/artist/4hfrzKkUsrb3Cz209SKxbo) | [So Long EP](https://open.spotify.com/album/2zWKE8LGvNPCZhhEQHwRPw) | 3:33 | 2022-03-24 | 2022-04-18 |
-| [god has a sense of humor](https://open.spotify.com/track/4kJVBJWaZn6yuKQortyVYY) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [god has a sense of humor](https://open.spotify.com/album/6qcqsKIO6zufYcE8lPldAv) | 2:50 | 2022-08-26 |  |
+| [god has a sense of humor](https://open.spotify.com/track/4kJVBJWaZn6yuKQortyVYY) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [god has a sense of humor](https://open.spotify.com/album/6qcqsKIO6zufYcE8lPldAv) | 2:50 | 2022-08-26 | 2022-09-02 |
 | [god save me, but don't drown me out](https://open.spotify.com/track/0rUTQPibpskoXRrKjbGZjo) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [god save me, but don't drown me out](https://open.spotify.com/album/0RQkNpv7OGwqMiDCsZMliz) | 3:37 | 2022-03-17 | 2022-07-24 |
 | [Godsent](https://open.spotify.com/track/4FMj1VNLl5qMy3m3M3rS7g) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Godsent & All Eyes On You](https://open.spotify.com/album/6AqHQHsbeyr6G94BGyslQN) | 3:34 | 2022-03-24 | 2022-04-21 |
 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 | 2022-07-07 |  |
@@ -450,6 +450,7 @@
 | [The Steps](https://open.spotify.com/track/4JOkWaNiPjycCHgYuiJjzy) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [The Steps](https://open.spotify.com/album/3dKYxScP9wStrKkPmcTGoG) | 4:07 | 2022-03-24 | 2022-04-19 |
 | [The Wire](https://open.spotify.com/track/6GgDJnVTuFvy2vupc6iU3J) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [The Wire \(Alternate Version\)](https://open.spotify.com/album/1Qfqbbbx5FqvbqJkSO3DkY) | 3:32 | 2022-03-24 | 2022-04-18 |
 | [The World Is For You](https://open.spotify.com/track/1hKE2BR8mzwdxGQwRnYGis) | [Tom Ormandy](https://open.spotify.com/artist/0A0ocejwqp6VvdivJhmaYh) | [Tom Ormandy](https://open.spotify.com/album/1iC0RCVXwgzQZeJfOSeJdY) | 3:48 | 2022-03-24 | 2022-04-20 |
+| [There’d Better Be A Mirrorball](https://open.spotify.com/track/0yowbJnnbTLpr99f9l1uba) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [There’d Better Be A Mirrorball](https://open.spotify.com/album/0ZUmodAwUq8cQJFvyibKwT) | 4:25 | 2022-09-01 |  |
 | [These Drugs](https://open.spotify.com/track/03GpiUeYPwWFTvZu3feZLi) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [These Drugs](https://open.spotify.com/album/7t8UQuMOTv223ioJh3KVKA) | 4:02 | 2022-03-24 | 2022-04-21 |
 | [Things Are Different](https://open.spotify.com/track/0FD7SGdBRoPq5PqVRULpJW) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Things Are Different](https://open.spotify.com/album/1Jh65I9BaVdJZ3CXjv6GBU) | 3:27 | 2022-03-24 | 2022-04-19 |
 | [Things We Do For Love](https://open.spotify.com/track/6tSpsxkeWZ3YPfMt9rYmzb) | [The Sounds](https://open.spotify.com/artist/0W2XAE5AnBWqcGNhfupEOU) | [Things We Do For Love](https://open.spotify.com/album/5h6PbA2KotkWMkZgmwYTRI) | 4:16 | 2022-03-24 | 2022-04-21 |
@@ -459,6 +460,7 @@
 | [This is the Place](https://open.spotify.com/track/2HXWTuHE8NZgK7ZmCVBTHX) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [This is the Place](https://open.spotify.com/album/2rGhEawehqYozpPmAwjxr3) | 3:05 | 2022-03-24 | 2022-04-20 |
 | [thought it was](https://open.spotify.com/track/3x1h0lsx1i2v9cUWnZssBa) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [thought it was](https://open.spotify.com/album/6P55gU4yR13niGsgVDxAwj) | 2:52 | 2022-03-17 | 2022-08-22 |
 | [Tides](https://open.spotify.com/track/2JiHR4gCDjXwYVRDmwdk95) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:15 | 2022-03-17 |  |
+| [Tissues](https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Tissues](https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew) | 3:35 | 2022-09-01 |  |
 | [Tonight \(feat\. iann dior\)](https://open.spotify.com/track/6Tsro9u5bnTJxFjuzuNA7R) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Tonight \(feat\. iann dior\)](https://open.spotify.com/album/53jX1nt0x4HeHwOGRbQWQR) | 2:15 | 2022-03-24 | 2022-05-19 |
 | [Too Late](https://open.spotify.com/track/0Fma3BTRkSOKDigFnZYvtD) | [The Darcys](https://open.spotify.com/artist/1kmnMzV27S3bXALqYnoGwH) | [Too Late](https://open.spotify.com/album/6CmiPFmr2tFiTiC3n25wRR) | 3:17 | 2022-03-24 | 2022-04-21 |
 | [Too Much](https://open.spotify.com/track/1k7FCfCytAwzkXSkV8gvv5) | [Hot Chelle Rae](https://open.spotify.com/artist/6jTnHxhb6cDCaCu4rdvsQ0) | [Tangerine](https://open.spotify.com/album/3mNTgHJkPtbODSrkUCoaA9) | 3:14 | 2022-03-24 | 2022-04-10 |

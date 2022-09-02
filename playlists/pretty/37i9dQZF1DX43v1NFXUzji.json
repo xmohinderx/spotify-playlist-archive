@@ -1,12 +1,12 @@
 {
   "description": "Latin music to game to! Cover: Bizarrap",
-  "num_followers": 124686,
+  "num_followers": 124721,
   "original_name": "Latin Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc3MTEzMSwwMDAwMDAwMDcyOGNmNDVkNzUxNDFlYmJmZmZhOTY5YjQyOTUyZGE0",
+  "snapshot_id": "MTY2MDc3MTEzMSwwMDAwMDAwMDAyYTFiOTNkMTM2MzUyZDA3MWEzNjBmOWNjMTM5ZGYz",
   "tracks": [
     {
       "added_at": "2022-08-17 21:18:51",
@@ -1359,6 +1359,26 @@
     {
       "added_at": "2022-08-17 21:18:51",
       "album": {
+        "name": "Borracho",
+        "url": "https://open.spotify.com/album/0DzwLlhnxgjPgL3uWNZTWG"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        }
+      ],
+      "duration_ms": 219750,
+      "name": "Borracho",
+      "url": "https://open.spotify.com/track/0rsTDgGRlXKuzSAxcdb4Ns"
+    },
+    {
+      "added_at": "2022-08-17 21:18:51",
+      "album": {
         "name": "El Incomprendido",
         "url": "https://open.spotify.com/album/046Eyq94B09gkJ8ISXxzt8"
       },
@@ -1379,26 +1399,6 @@
       "duration_ms": 267546,
       "name": "El Incomprendido",
       "url": "https://open.spotify.com/track/493Rk3iS7rs8uPfpnfm95u"
-    },
-    {
-      "added_at": "2022-08-17 21:18:51",
-      "album": {
-        "name": "Borracho",
-        "url": "https://open.spotify.com/album/0DzwLlhnxgjPgL3uWNZTWG"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        }
-      ],
-      "duration_ms": 219750,
-      "name": "Borracho",
-      "url": "https://open.spotify.com/track/0rsTDgGRlXKuzSAxcdb4Ns"
     },
     {
       "added_at": "2022-08-17 21:18:51",
@@ -1499,26 +1499,6 @@
     {
       "added_at": "2022-08-17 21:18:51",
       "album": {
-        "name": "Haw\u00e1i (Remix)",
-        "url": "https://open.spotify.com/album/1Ag9EPbzibwzz0S0WpgX3v"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 200481,
-      "name": "Haw\u00e1i - Remix",
-      "url": "https://open.spotify.com/track/0GzuHFG4Ql6DoyxFRnIk3F"
-    },
-    {
-      "added_at": "2022-08-17 21:18:51",
-      "album": {
         "name": "TKN (feat. Travis Scott)",
         "url": "https://open.spotify.com/album/4KEOAWBMpvJrIZ7tQfx44i"
       },
@@ -1535,6 +1515,26 @@
       "duration_ms": 129370,
       "name": "TKN (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/4w47S36wQGBhGg073q3nt7"
+    },
+    {
+      "added_at": "2022-08-17 21:18:51",
+      "album": {
+        "name": "Haw\u00e1i (Remix)",
+        "url": "https://open.spotify.com/album/1Ag9EPbzibwzz0S0WpgX3v"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 200481,
+      "name": "Haw\u00e1i - Remix",
+      "url": "https://open.spotify.com/track/0GzuHFG4Ql6DoyxFRnIk3F"
     },
     {
       "added_at": "2022-08-17 21:18:51",
@@ -1767,22 +1767,30 @@
     {
       "added_at": "2022-08-17 21:18:51",
       "album": {
-        "name": "FULANITO",
-        "url": "https://open.spotify.com/album/5AVKorAwqFCfUiPkNwv89o"
+        "name": "Un Viaje",
+        "url": "https://open.spotify.com/album/2Hi8ff429tSHmxPK3CzV36"
       },
       "artists": [
         {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+          "name": "Jotaerre",
+          "url": "https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL"
         },
         {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        },
+        {
+          "name": "Moffa",
+          "url": "https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC"
         }
       ],
-      "duration_ms": 158531,
-      "name": "FULANITO",
-      "url": "https://open.spotify.com/track/59L8x0xy8njj75vzVCPMqg"
+      "duration_ms": 285746,
+      "name": "Un Viaje",
+      "url": "https://open.spotify.com/track/3huLeBRjZPOzkePH7ph91y"
     },
     {
       "added_at": "2022-08-17 21:18:51",
@@ -1823,30 +1831,22 @@
     {
       "added_at": "2022-08-17 21:18:51",
       "album": {
-        "name": "Un Viaje",
-        "url": "https://open.spotify.com/album/2Hi8ff429tSHmxPK3CzV36"
+        "name": "FULANITO",
+        "url": "https://open.spotify.com/album/5AVKorAwqFCfUiPkNwv89o"
       },
       "artists": [
         {
-          "name": "Jotaerre",
-          "url": "https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         },
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Alejo",
-          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
-        },
-        {
-          "name": "Moffa",
-          "url": "https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC"
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
         }
       ],
-      "duration_ms": 285746,
-      "name": "Un Viaje",
-      "url": "https://open.spotify.com/track/3huLeBRjZPOzkePH7ph91y"
+      "duration_ms": 158531,
+      "name": "FULANITO",
+      "url": "https://open.spotify.com/track/59L8x0xy8njj75vzVCPMqg"
     },
     {
       "added_at": "2022-08-17 21:18:51",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2022-08-17 21:18:51",
       "album": {
-        "name": "De Mi Para Ti",
-        "url": "https://open.spotify.com/album/1GYQWPYnUhpVP2yJ4e8hFK"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 200328,
-      "name": "Anda Sola",
-      "url": "https://open.spotify.com/track/2wyw4eQ2SfIYfm1vxCgYI0"
-    },
-    {
-      "added_at": "2022-08-17 21:18:51",
-      "album": {
         "name": "PROBLEMA",
         "url": "https://open.spotify.com/album/62qqk2oK0GGO0AwWqUIqrJ"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 184506,
       "name": "PROBLEMA",
       "url": "https://open.spotify.com/track/2dl5K2ScW7jYhAhuem06cm"
+    },
+    {
+      "added_at": "2022-08-17 21:18:51",
+      "album": {
+        "name": "De Mi Para Ti",
+        "url": "https://open.spotify.com/album/1GYQWPYnUhpVP2yJ4e8hFK"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 200328,
+      "name": "Anda Sola",
+      "url": "https://open.spotify.com/track/2wyw4eQ2SfIYfm1vxCgYI0"
     },
     {
       "added_at": "2022-08-17 21:18:51",
@@ -2419,6 +2419,22 @@
     {
       "added_at": "2022-08-17 21:18:51",
       "album": {
+        "name": "LYKE MIKE",
+        "url": "https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 187897,
+      "name": "M\u00cdRENME AHORA",
+      "url": "https://open.spotify.com/track/1QigNNcv8c5X2iL294bZev"
+    },
+    {
+      "added_at": "2022-08-17 21:18:51",
+      "album": {
         "name": "Mama Tetema (feat. Rayvanny)",
         "url": "https://open.spotify.com/album/05Qli4IZBlwPnBHcMdmF0z"
       },
@@ -2435,22 +2451,6 @@
       "duration_ms": 188087,
       "name": "Mama Tetema (feat. Rayvanny)",
       "url": "https://open.spotify.com/track/0nuTnOboL7Zaaqm76CQHEk"
-    },
-    {
-      "added_at": "2022-08-17 21:18:51",
-      "album": {
-        "name": "LYKE MIKE",
-        "url": "https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 187897,
-      "name": "M\u00cdRENME AHORA",
-      "url": "https://open.spotify.com/track/1QigNNcv8c5X2iL294bZev"
     },
     {
       "added_at": "2022-08-17 21:18:51",
@@ -2587,46 +2587,6 @@
     {
       "added_at": "2022-08-17 21:18:51",
       "album": {
-        "name": "Trakat\u00e1",
-        "url": "https://open.spotify.com/album/4v2y8esBwi06vh3jydfUA4"
-      },
-      "artists": [
-        {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
-        },
-        {
-          "name": "Farina",
-          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
-        },
-        {
-          "name": "Juacko",
-          "url": "https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr"
-        }
-      ],
-      "duration_ms": 178064,
-      "name": "Trakat\u00e1",
-      "url": "https://open.spotify.com/track/5fghgRsc8a3pSDXtjQ238F"
-    },
-    {
-      "added_at": "2022-08-17 21:18:51",
-      "album": {
-        "name": "El Diablo",
-        "url": "https://open.spotify.com/album/3uXtARdx2F4KKFH5oSePV6"
-      },
-      "artists": [
-        {
-          "name": "Jerry Di",
-          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
-        }
-      ],
-      "duration_ms": 184853,
-      "name": "El Diablo",
-      "url": "https://open.spotify.com/track/2f7NUdkIV8pocxNkgh8efv"
-    },
-    {
-      "added_at": "2022-08-17 21:18:51",
-      "album": {
         "name": "Glizzy Walk 2.5",
         "url": "https://open.spotify.com/album/65ebh116sDPSsxm2eXExyK"
       },
@@ -2647,6 +2607,46 @@
       "duration_ms": 224248,
       "name": "Glizzy Walk 2.5",
       "url": "https://open.spotify.com/track/3O6dtQDB3MTYFPxlXn7zww"
+    },
+    {
+      "added_at": "2022-08-17 21:18:51",
+      "album": {
+        "name": "El Diablo",
+        "url": "https://open.spotify.com/album/3uXtARdx2F4KKFH5oSePV6"
+      },
+      "artists": [
+        {
+          "name": "Jerry Di",
+          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
+        }
+      ],
+      "duration_ms": 184853,
+      "name": "El Diablo",
+      "url": "https://open.spotify.com/track/2f7NUdkIV8pocxNkgh8efv"
+    },
+    {
+      "added_at": "2022-08-17 21:18:51",
+      "album": {
+        "name": "Trakat\u00e1",
+        "url": "https://open.spotify.com/album/4v2y8esBwi06vh3jydfUA4"
+      },
+      "artists": [
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        },
+        {
+          "name": "Farina",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        },
+        {
+          "name": "Juacko",
+          "url": "https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr"
+        }
+      ],
+      "duration_ms": 178064,
+      "name": "Trakat\u00e1",
+      "url": "https://open.spotify.com/track/5fghgRsc8a3pSDXtjQ238F"
     },
     {
       "added_at": "2022-08-17 21:18:51",
@@ -2731,26 +2731,6 @@
     {
       "added_at": "2022-08-17 21:18:51",
       "album": {
-        "name": "Bipolar",
-        "url": "https://open.spotify.com/album/02RWaSaZZUXVeVH5MqDQ7i"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        },
-        {
-          "name": "Lil Mosey",
-          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
-        }
-      ],
-      "duration_ms": 181750,
-      "name": "Bipolar",
-      "url": "https://open.spotify.com/track/2QSTNCW51cpgyFqahUxNGe"
-    },
-    {
-      "added_at": "2022-08-17 21:18:51",
-      "album": {
         "name": "Kong 2.0",
         "url": "https://open.spotify.com/album/4KUHWZWKbwWosKAc4rKMHi"
       },
@@ -2767,6 +2747,26 @@
       "duration_ms": 202003,
       "name": "Kong 2.0",
       "url": "https://open.spotify.com/track/11xyATb8URhEFt5QKHgYZN"
+    },
+    {
+      "added_at": "2022-08-17 21:18:51",
+      "album": {
+        "name": "Bipolar",
+        "url": "https://open.spotify.com/album/02RWaSaZZUXVeVH5MqDQ7i"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Lil Mosey",
+          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
+        }
+      ],
+      "duration_ms": 181750,
+      "name": "Bipolar",
+      "url": "https://open.spotify.com/track/2QSTNCW51cpgyFqahUxNGe"
     },
     {
       "added_at": "2022-08-17 21:18:51",
@@ -2895,6 +2895,38 @@
     {
       "added_at": "2022-08-17 21:18:51",
       "album": {
+        "name": "Tus Poses",
+        "url": "https://open.spotify.com/album/5BKKUlMDOGTW0rF02Owg33"
+      },
+      "artists": [
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        }
+      ],
+      "duration_ms": 201200,
+      "name": "Tus Poses",
+      "url": "https://open.spotify.com/track/5g7gOcJf2CInnuZWnmEfRK"
+    },
+    {
+      "added_at": "2022-08-17 21:18:51",
+      "album": {
+        "name": "Las Leyendas Nunca Mueren",
+        "url": "https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 236914,
+      "name": "Rick Flair",
+      "url": "https://open.spotify.com/track/2PkRgnDUP0ED3xHjCNMJk4"
+    },
+    {
+      "added_at": "2022-08-17 21:18:51",
+      "album": {
         "name": "PAPI (feat. Babywine & Alberto Stylee)",
         "url": "https://open.spotify.com/album/5x4Jjd6EXn4pVW7sISuQjy"
       },
@@ -2923,38 +2955,6 @@
       "duration_ms": 187092,
       "name": "PAPI (feat. Babywine & Alberto Stylee)",
       "url": "https://open.spotify.com/track/2wQBzAZdsaqDBbtwBk5MhA"
-    },
-    {
-      "added_at": "2022-08-17 21:18:51",
-      "album": {
-        "name": "Las Leyendas Nunca Mueren",
-        "url": "https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 236914,
-      "name": "Rick Flair",
-      "url": "https://open.spotify.com/track/2PkRgnDUP0ED3xHjCNMJk4"
-    },
-    {
-      "added_at": "2022-08-17 21:18:51",
-      "album": {
-        "name": "Tus Poses",
-        "url": "https://open.spotify.com/album/5BKKUlMDOGTW0rF02Owg33"
-      },
-      "artists": [
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        }
-      ],
-      "duration_ms": 201200,
-      "name": "Tus Poses",
-      "url": "https://open.spotify.com/track/5g7gOcJf2CInnuZWnmEfRK"
     },
     {
       "added_at": "2022-08-17 21:18:51",
@@ -3015,30 +3015,6 @@
     {
       "added_at": "2022-08-17 21:18:51",
       "album": {
-        "name": "Super Gremlin (El Diablo Mix)",
-        "url": "https://open.spotify.com/album/4gjKdtYzPBmVZPEZJ7aBPe"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 239939,
-      "name": "Super Gremlin - El Diablo Mix",
-      "url": "https://open.spotify.com/track/62Li2RUfLV9bCSJFweIG9H"
-    },
-    {
-      "added_at": "2022-08-17 21:18:51",
-      "album": {
         "name": "Si Es Trucho Es Trucho (feat. Farruko and El Alfa) [Remix]",
         "url": "https://open.spotify.com/album/2V3oEJWhKr8oYA9VwvPCPX"
       },
@@ -3059,6 +3035,30 @@
       "duration_ms": 213785,
       "name": "Si Es Trucho Es Trucho (feat. Farruko and El Alfa) - Remix",
       "url": "https://open.spotify.com/track/3pvalQEg29xTyQk1eqWtVJ"
+    },
+    {
+      "added_at": "2022-08-17 21:18:51",
+      "album": {
+        "name": "Super Gremlin (El Diablo Mix)",
+        "url": "https://open.spotify.com/album/4gjKdtYzPBmVZPEZJ7aBPe"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 239939,
+      "name": "Super Gremlin - El Diablo Mix",
+      "url": "https://open.spotify.com/track/62Li2RUfLV9bCSJFweIG9H"
     },
     {
       "added_at": "2022-08-17 21:18:51",

@@ -1,12 +1,12 @@
 {
   "description": "Enjoy 10 years of music from HATSUNE MIKU \"Project DIVA\" series/ \u521d\u97f3\u30df\u30af\"Project DIVA\"\u30b7\u30ea\u30fc\u30ba\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002 \u00a9 SEGA / \u00a9 Crypton Future Media, INC. <a href=\"https://piapro.net/\">www.piapro.net</a>",
-  "num_followers": 279442,
+  "num_followers": 278613,
   "original_name": "HATSUNE MIKU/ \u521d\u97f3\u30df\u30af Project DIVA series",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyMTk5NjY1NiwwMDAwMDAwMDJjYjU4OThhNTQ0YzEwMDcxYjQ4ZTliMjFmZmUzZDdl",
+  "snapshot_id": "MTYyMTk5NjY1NiwwMDAwMDAwMDMxMGU2OTVkY2NkN2YzMjUxZGNkN2U4ZWI3Y2U5ZjFm",
   "tracks": [
     {
       "added_at": "2021-05-26 02:37:36",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
+        "name": "Lots of Love (feat. \u521d\u97f3\u30df\u30af)",
+        "url": "https://open.spotify.com/album/3ZhfLBpwToW4bUQP28LCUn"
+      },
+      "artists": [
+        {
+          "name": "Mikumix",
+          "url": "https://open.spotify.com/artist/7FBbBNwWOBvGBh4RT3kyHH"
+        }
+      ],
+      "duration_ms": 215066,
+      "name": "Lol (Lots of Laugh)",
+      "url": "https://open.spotify.com/track/2sigTDjOwoSnwJ9PAXOgwj"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
         "name": "Re:Package",
         "url": "https://open.spotify.com/album/6r0fa0rS05G0y0IQqYXxIu"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 380636,
       "name": "Last Night, Good Night",
       "url": "https://open.spotify.com/track/3rYSsIpkwI11kkBhAYvDSO"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
-        "name": "Lots of Love (feat. \u521d\u97f3\u30df\u30af)",
-        "url": "https://open.spotify.com/album/3ZhfLBpwToW4bUQP28LCUn"
-      },
-      "artists": [
-        {
-          "name": "Mikumix",
-          "url": "https://open.spotify.com/artist/7FBbBNwWOBvGBh4RT3kyHH"
-        }
-      ],
-      "duration_ms": 215066,
-      "name": "Lol (Lots of Laugh)",
-      "url": "https://open.spotify.com/track/2sigTDjOwoSnwJ9PAXOgwj"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -1683,22 +1683,18 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "\u7a7a\u60f3\u30e1\u30e2\u30e9\u30a4\u30ba",
-        "url": "https://open.spotify.com/album/6dnlAEI38OgEft5ukc6crm"
+        "name": "Kagaminext feat. \u93e1\u97f3\u30ea\u30f3\u3001\u93e1\u97f3\u30ec\u30f3 \u201510th ANNIVERSARY BEST\u2015",
+        "url": "https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if"
       },
       "artists": [
         {
-          "name": "Marasy",
-          "url": "https://open.spotify.com/artist/3Y2hPbg4GHOheV4Hc9lpXV"
-        },
-        {
-          "name": "Kagamine Rin",
-          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+          "name": "Ginsaku",
+          "url": "https://open.spotify.com/artist/4qK0qz2xdkIubLelIVOjsz"
         }
       ],
-      "duration_ms": 234306,
-      "name": "\u30a2\u30de\u30c4\u30ad\u30c4\u30cd (feat.\u93e1\u97f3\u30ea\u30f3)",
-      "url": "https://open.spotify.com/track/3izZHDVwlnwjdoWhs1KrMM"
+      "duration_ms": 245333,
+      "name": "\u3044\u308d\u306f\u5504",
+      "url": "https://open.spotify.com/track/4ZYp6mlFg37la87zyI7PvY"
     }
   ],
   "unique_name": "HATSUNE MIKU/ \u521d\u97f3\u30df\u30af Project DIVA series",

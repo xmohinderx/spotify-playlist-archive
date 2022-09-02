@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,125 likes - 75 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,032 likes - 75 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 | 5 | [Soul Vibration](https://open.spotify.com/track/5KaSTemL2bEHw5HDFFIZyB) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Ten](https://open.spotify.com/album/6vw1IOlxgQy2otoKPOng7e) | 4:26 |
 | 6 | [Tequila Moon](https://open.spotify.com/track/4qkdBTRPwojWnqGcUSVQ3Z) | [Jessy J](https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x) | [Tequila Moon](https://open.spotify.com/album/49n82PnSnIi9LFveKPH6h5) | 4:36 |
 | 7 | [Perfect Sunday](https://open.spotify.com/track/3y9l6PAbOOGYBH1AY4XaTO) | [Carol Albert](https://open.spotify.com/artist/3o1J5y4sY6jg1sOvF69qnm), [Paul Brown](https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy) | [Stronger Now](https://open.spotify.com/album/2rE6572rB3fOGktDLQWzdC) | 4:03 |
-| 8 | [Can You Hear Me](https://open.spotify.com/track/049VqBETqY4gIRJuOJyQuF) | [Patrick Bradley](https://open.spotify.com/artist/6z9nWRXEPunshulSa2lwck), [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Can You Hear Me](https://open.spotify.com/album/2MkCZIFcfWCjsQtdunZrU5) | 5:04 |
-| 9 | [Suede](https://open.spotify.com/track/4F00pGa6rKvXx043AXvowT) | [Marion Meadows](https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG) | [Player's Club](https://open.spotify.com/album/1Wpwzf5A9HPGwZx0Eolf2U) | 4:16 |
+| 8 | [Suede](https://open.spotify.com/track/4F00pGa6rKvXx043AXvowT) | [Marion Meadows](https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG) | [Player's Club](https://open.spotify.com/album/1Wpwzf5A9HPGwZx0Eolf2U) | 4:16 |
+| 9 | [Can You Hear Me](https://open.spotify.com/track/049VqBETqY4gIRJuOJyQuF) | [Patrick Bradley](https://open.spotify.com/artist/6z9nWRXEPunshulSa2lwck), [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Can You Hear Me](https://open.spotify.com/album/2MkCZIFcfWCjsQtdunZrU5) | 5:04 |
 | 10 | [It's Too Late](https://open.spotify.com/track/3Zwphwi81qVI7ucNusDSRq) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre) | [A Song For You](https://open.spotify.com/album/51ilWc2VBkdoBQOUIohhil) | 4:41 |
 | 11 | [Elevation](https://open.spotify.com/track/6mpc681Hb9vbr4tFZJ7Jfc) | [Jackiem Joyner](https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg) | [Babysoul](https://open.spotify.com/album/7zQNd6E29iEUod4hAFmUMs) | 4:44 |
 | 12 | [Sundance](https://open.spotify.com/track/0t7lbaAiA6zU79AMi1Eb7K) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Solid](https://open.spotify.com/album/1YcK4A5I2wdtgDJZ8Cht0F) | 3:49 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 | 28 | [Let It Shine](https://open.spotify.com/track/18V3WdhlafZXWC2uAXVEf9) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [The Collection](https://open.spotify.com/album/3hJBjYNUVY7vSITE8GZ3QV) | 4:06 |
 | 29 | [Brazz Street](https://open.spotify.com/track/6ldCioYjj4oYp0hrvD3zFh) | [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ) | [Crossroads](https://open.spotify.com/album/311JJvbG6VDhP5NDPutK1B) | 4:42 |
 | 30 | [Something About You](https://open.spotify.com/track/06vu8fZlTlL7okvLGzhr47) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [Something About You](https://open.spotify.com/album/5EHFd3yxzZdDvUiRuwSsTR) | 5:13 |
-| 31 | [It's All Love](https://open.spotify.com/track/5popJgopB341MpiXxfmFB5) | [Chris "Big Dog" Davis](https://open.spotify.com/artist/057eeHuaF5QTCQ76X2PRZ5), [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Focus](https://open.spotify.com/album/2HPhFHjp8sp4q06IxjLyxH) | 3:25 |
-| 32 | [Lip Service](https://open.spotify.com/track/1zTSI03CU30W7w0b6Wxpx7) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Lip Service](https://open.spotify.com/album/2OJdOCWFoUbOpS3azmEou4) | 4:35 |
+| 31 | [Lip Service](https://open.spotify.com/track/1zTSI03CU30W7w0b6Wxpx7) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Lip Service](https://open.spotify.com/album/2OJdOCWFoUbOpS3azmEou4) | 4:35 |
+| 32 | [It's All Love](https://open.spotify.com/track/5popJgopB341MpiXxfmFB5) | [Chris "Big Dog" Davis](https://open.spotify.com/artist/057eeHuaF5QTCQ76X2PRZ5), [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Focus](https://open.spotify.com/album/2HPhFHjp8sp4q06IxjLyxH) | 3:25 |
 | 33 | [Feels Like Friday Night](https://open.spotify.com/track/3bDsnnpzrp67FMcHmxOCFQ) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [Shakedown](https://open.spotify.com/album/1V6grlJgOrbatTYJAhfrFL) | 4:19 |
 | 34 | [Bluewave Bossanova](https://open.spotify.com/track/2QOqnhCrTIqTLzByQD7YQJ) | [Lawson Rollins](https://open.spotify.com/artist/3blOsom4oRo6dAN4TB7xpv) | [True North](https://open.spotify.com/album/3ym18a0dExcRA2VNAMAVBm) | 4:24 |
 | 35 | [Stronger Now](https://open.spotify.com/track/1ldNcaMyLRYnRgYORskmlX) | [Carol Albert](https://open.spotify.com/artist/3o1J5y4sY6jg1sOvF69qnm) | [Stronger Now](https://open.spotify.com/album/2rE6572rB3fOGktDLQWzdC) | 3:43 |
@@ -71,17 +71,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 | 61 | [Groovin' J](https://open.spotify.com/track/6zFYcAvBoEjqKWiFneXWf4) | [Jacob Webb](https://open.spotify.com/artist/6LB9EnOUIzqsiEYQVipZko) | [I'm Coming Home](https://open.spotify.com/album/1gCdJObq3CftJWEuFbwAaU) | 4:26 |
 | 62 | [JJ's Strut \(Radio Single\)](https://open.spotify.com/track/7m0H1Tri64Gs7ndu2giQXI) | [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq) | [JJ's Strut \(Radio Single\)](https://open.spotify.com/album/7cFYasV6tFxybojZKXm4sN) | 4:11 |
 | 63 | [I Remember You](https://open.spotify.com/track/6iCsFk2zf1INRexhJQzRM0) | [Ronny Jordan](https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9) | [After 8](https://open.spotify.com/album/2DZxWJXHFCYuiSNoVyWYZe) | 4:12 |
-| 64 | [New Bounce \(feat\. Vincent Ingala\)](https://open.spotify.com/track/0Oy7FMqWqf5ksonP766CNc) | [Oli Silk](https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE), [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7) | [6](https://open.spotify.com/album/0GPisGzDAPEDwEcFn3f4kZ) | 4:47 |
-| 65 | [In Key](https://open.spotify.com/track/2ptNHiOb6DbdWytP2Nsslu) | [Spur Of The Moment](https://open.spotify.com/artist/07R91vaA8abuyWQlXlmIDe) | [Out Of The Shadows](https://open.spotify.com/album/1CGnwPP4HvczU38xvhddTf) | 4:41 |
+| 64 | [In Key](https://open.spotify.com/track/2ptNHiOb6DbdWytP2Nsslu) | [Spur Of The Moment](https://open.spotify.com/artist/07R91vaA8abuyWQlXlmIDe) | [Out Of The Shadows](https://open.spotify.com/album/1CGnwPP4HvczU38xvhddTf) | 4:41 |
+| 65 | [New Bounce \(feat\. Vincent Ingala\)](https://open.spotify.com/track/0Oy7FMqWqf5ksonP766CNc) | [Oli Silk](https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE), [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7) | [6](https://open.spotify.com/album/0GPisGzDAPEDwEcFn3f4kZ) | 4:47 |
 | 66 | [Soulfood Sunday](https://open.spotify.com/track/7CkzM33RNqE8PyUdsVUBBZ) | [Ben Tankard](https://open.spotify.com/artist/60nfj9O2pKtlqIPfxp3FEg) | [Shine!](https://open.spotify.com/album/1TFKjCxkfw8XVb6nh7o9VY) | 4:02 |
-| 67 | [Timeline](https://open.spotify.com/track/7GuSUOEGSk4tLPQoSdSvhb) | [Cal Harris Jr.](https://open.spotify.com/artist/1rqcgKphKy4FoYO505o49R) | [Soulful](https://open.spotify.com/album/1s5c8RtnMva4xGs8IoMpGb) | 4:07 |
-| 68 | [Avenue](https://open.spotify.com/track/0LWUULlpkZ5PoM9Mj4JOyk) | [Paul Taylor](https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ) | [Undercover](https://open.spotify.com/album/0RXMMiDCOhnt2IFldaHuAi) | 3:58 |
+| 67 | [Avenue](https://open.spotify.com/track/0LWUULlpkZ5PoM9Mj4JOyk) | [Paul Taylor](https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ) | [Undercover](https://open.spotify.com/album/0RXMMiDCOhnt2IFldaHuAi) | 3:58 |
+| 68 | [Timeline](https://open.spotify.com/track/7GuSUOEGSk4tLPQoSdSvhb) | [Cal Harris Jr.](https://open.spotify.com/artist/1rqcgKphKy4FoYO505o49R) | [Soulful](https://open.spotify.com/album/1s5c8RtnMva4xGs8IoMpGb) | 4:07 |
 | 69 | [Say What's on Your Mind](https://open.spotify.com/track/0JKzJAkRRdqrfT7qjkp9Bx) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [The Journey](https://open.spotify.com/album/7BYmR4CnsUcPtLrUyy5b4H) | 4:17 |
 | 70 | [Imagine \(Living as One\)](https://open.spotify.com/track/5GpFYx5Q5h38LZnDamGBOB) | [Bob Baldwin](https://open.spotify.com/artist/6URFeH3cWWv6tj2RazL9IP), [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Bob Baldwin Presents: Abbey Road and The Beatles](https://open.spotify.com/album/3i47d2tkJNfJc8F7mBGr6c) | 5:09 |
 | 71 | [Fall For You](https://open.spotify.com/track/7qqamkny8IkXOCJrhjy73L) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Fall For You](https://open.spotify.com/album/1069ubCvaVGmtkw2VNxZAV) | 4:32 |
 | 72 | [Sweet Kisses](https://open.spotify.com/track/34rxNLSGAcmsjBJtpZHRtW) | [Freddie Fox](https://open.spotify.com/artist/3LF2PC0GYS2TXXWTXjxiNr) | [Limitless](https://open.spotify.com/album/3iE43BPltF4nvTGrSynFLL) | 4:54 |
-| 73 | [Open Skies](https://open.spotify.com/track/0uuGRLt4ZeRI4JLIDw4oEo) | [Gary Metz](https://open.spotify.com/artist/1U1yKduFJ40wGcQvQ9ZK4g) | [Open Skies](https://open.spotify.com/album/4RdKMd5Nxe316RTZPzA1CM) | 3:32 |
-| 74 | [Eye Contact](https://open.spotify.com/track/37bPydtyElNj0AERSVzGMM) | [Jay Beckenstein](https://open.spotify.com/artist/6eA7CikksulcpTewVtS8Ok) | [Eye Contact](https://open.spotify.com/album/1MUDLRtMxjsbAByQ8tNQTD) | 4:54 |
+| 73 | [Eye Contact](https://open.spotify.com/track/37bPydtyElNj0AERSVzGMM) | [Jay Beckenstein](https://open.spotify.com/artist/6eA7CikksulcpTewVtS8Ok) | [Eye Contact](https://open.spotify.com/album/1MUDLRtMxjsbAByQ8tNQTD) | 4:54 |
+| 74 | [Open Skies](https://open.spotify.com/track/0uuGRLt4ZeRI4JLIDw4oEo) | [Gary Metz](https://open.spotify.com/artist/1U1yKduFJ40wGcQvQ9ZK4g) | [Open Skies](https://open.spotify.com/album/4RdKMd5Nxe316RTZPzA1CM) | 3:32 |
 | 75 | [Golden](https://open.spotify.com/track/6dAiJguW0vDdbLf8QlY2DR) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP) | [Rite of Passage](https://open.spotify.com/album/1tySvkpLhtmLa7HzQvTB4A) | 3:46 |
 
-Snapshot ID: `MTY2MTc1Nzg0MCwwMDAwMDAwMDZjZmY5N2U0NjUwMDIyZTY0Mjg4N2NhYjRiNWY0Njgw`
+Snapshot ID: `MTY2MTc1Nzg0MCwwMDAwMDAwMDQwZjk4ZThlMGIzZDJkODBmM2IyZjc5ZjM1YjJhYTRh`

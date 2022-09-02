@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 
 > It’s a swing thing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,897 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,930 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 | 35 | [Oak Tree](https://open.spotify.com/track/6vpZcGzUsskAQg6ZerKDu9) | [Alien Fashion Show](https://open.spotify.com/artist/7ib7KxeL61amtEbPFGPk5P) | [Cool Thing](https://open.spotify.com/album/15CTW9TXXjTAKHutxmWXJg) | 4:28 |
 | 36 | [Mambo Swing](https://open.spotify.com/track/54B4Cfi9Q4q17tDrs9YFzW) | [Big Bad Voodoo Daddy](https://open.spotify.com/artist/6ROyXB8NDG0fA78S46JdTB) | [Big Bad Voodoo Daddy](https://open.spotify.com/album/2EHcwZqBj63kO2bwGKulBj) | 5:07 |
 | 37 | [Swingin' At The Savoy](https://open.spotify.com/track/4tQxGAafxVZ0Oqt3D6efmb) | [Mitch Woods and His Rocket 88‘S](https://open.spotify.com/artist/4hOU4Ja3ZWkDwpL9Dr4fBT) | [Jump For Joy](https://open.spotify.com/album/2iPzOWySU3TCpfMToYdKu7) | 3:37 |
-| 38 | [Hey Señorita](https://open.spotify.com/track/6CMDUEtmE7oMea4hBkk57l) | [Big Sandy](https://open.spotify.com/artist/6dFfHo9uIMufb4PrkOOCsp) | [Dedicated To You](https://open.spotify.com/album/3pZ5E4bGNmkk5o0rX4UJvw) | 2:15 |
+| 38 | [pull the plug](https://open.spotify.com/track/1P1KQJ6d5Ri9VI1ljEpkdT) | [Bellevue Cadillac](https://open.spotify.com/artist/5cuTmUgh0ZeNgiwcPchqs2) | [prozac nation](https://open.spotify.com/album/3jQFs8CCV6r1pHgXadCGh5) | 2:26 |
 | 39 | [Oo Poppa Do](https://open.spotify.com/track/6RTsr8eiHVhCYxqbYFs0eX) | [Lavay Smith & Her Red Hot Skillet Lickers](https://open.spotify.com/artist/4pMt1AgzE3YyjE784QVkr2) | [One Hour Mama](https://open.spotify.com/album/2xkUpEUdHYEuXk0iZGZRsk) | 3:13 |
-| 40 | [pull the plug](https://open.spotify.com/track/1P1KQJ6d5Ri9VI1ljEpkdT) | [Bellevue Cadillac](https://open.spotify.com/artist/5cuTmUgh0ZeNgiwcPchqs2) | [prozac nation](https://open.spotify.com/album/3jQFs8CCV6r1pHgXadCGh5) | 2:26 |
+| 40 | [Hey Señorita](https://open.spotify.com/track/6CMDUEtmE7oMea4hBkk57l) | [Big Sandy](https://open.spotify.com/artist/6dFfHo9uIMufb4PrkOOCsp) | [Dedicated To You](https://open.spotify.com/album/3pZ5E4bGNmkk5o0rX4UJvw) | 2:15 |
 | 41 | [Dirty Dog](https://open.spotify.com/track/1ogzOr1TnDjRcjSSQ5hAli) | [Eight To The Bar](https://open.spotify.com/artist/4sc52rUX0XMvKa7FK6tofY) | [The Romper Room](https://open.spotify.com/album/6Q0jPNJiaRW7kcTOpZfsO4) | 3:28 |
 | 42 | [Planet Jive](https://open.spotify.com/track/0P5aqi6J8btRUjZQKnVOst) | [The Jive Aces](https://open.spotify.com/artist/3hR8kE1jAgMhut0Daw3EL2) | [Planet Jive](https://open.spotify.com/album/500HHXaBRyYMmNjRJwvZW7) | 3:52 |
 | 43 | [Jumptown](https://open.spotify.com/track/1czUXM9zdBi7oJWDyy3qsb) | [Steve Lucky & The Rhumba Bums](https://open.spotify.com/artist/5xzQRLHXjWFBLtERMaFBFS) | [Come Out Swingin'](https://open.spotify.com/album/0KrEsS9K8yqU0vpCfLZo7g) | 4:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 | 49 | [prozac](https://open.spotify.com/track/43ooplb6G0VkRnVVfGXEF6) | [Bellevue Cadillac](https://open.spotify.com/artist/5cuTmUgh0ZeNgiwcPchqs2) | [prozac nation](https://open.spotify.com/album/3jQFs8CCV6r1pHgXadCGh5) | 4:45 |
 | 50 | [Yama Yama Pretty Mama](https://open.spotify.com/track/2SbhNsyfx1IH0xOkFLfHEM) | [Big Sandy](https://open.spotify.com/artist/6dFfHo9uIMufb4PrkOOCsp) | [Dedicated To You](https://open.spotify.com/album/3pZ5E4bGNmkk5o0rX4UJvw) | 2:42 |
 
-Snapshot ID: `MTY0ODQ5NDc5OCwwMDAwMDAwMDFiNzc5MmNmNzVmYjAwYzIzM2FhZGYxMjYyMWRkZGE0`
+Snapshot ID: `MTY0ODQ5NDc5OCwwMDAwMDAwMDllNmYzZmU1ZjE5ZGYxMzJiMGJmNjM2YzdiMWM5MTVj`

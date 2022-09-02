@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 > Sangre fresca en las escenas del indie y el rock\. Siddhartha en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,318 likes - 75 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,477 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,10 +50,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 40 | [Fluye](https://open.spotify.com/track/20SMxLSrSzsjE0xr7FEsQu) | [Reyno](https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU) | [Dualidad](https://open.spotify.com/album/4Dj3RsVvxpyh9V1yQv9fhS) | 3:35 |
 | 41 | [Paradoja](https://open.spotify.com/track/29FRFwLHf0Ec9q6I9K0jLZ) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Trinchera](https://open.spotify.com/album/5oLaRXGevqs8RYxXhYe9PG) | 2:59 |
 | 42 | [Espiral](https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Donde los Ponys Pastan](https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx) | 5:22 |
-| 43 | [Documentales](https://open.spotify.com/track/3Thy24e4jX5thZRcr9pt0u) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [Giallo](https://open.spotify.com/album/4WV1PuDBMdzqXiWVWG0ovo) | 3:43 |
+| 43 | [Globos](https://open.spotify.com/track/4utNmwmHfwvzPBT3kMtwEN) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Bahía Santiago](https://open.spotify.com/album/7p6sqvNdTInCL3bAAUoDlY) | 4:20 |
 | 44 | [Paraíso Lunar](https://open.spotify.com/track/7uMBJGgc3QWdDQWBtBoPzj) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Paraíso Lunar](https://open.spotify.com/album/1W2CKcrLpM1bPYslJQlZCM) | 3:45 |
 | 45 | [Inevitable](https://open.spotify.com/track/1gptFG7KprUHogyVXLZytK) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Inevitable](https://open.spotify.com/album/2v0nWKYp3INzkGDRTQBqQa) | 3:24 |
-| 46 | [Globos](https://open.spotify.com/track/4utNmwmHfwvzPBT3kMtwEN) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Bahía Santiago](https://open.spotify.com/album/7p6sqvNdTInCL3bAAUoDlY) | 4:20 |
+| 46 | [Documentales](https://open.spotify.com/track/3Thy24e4jX5thZRcr9pt0u) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [Giallo](https://open.spotify.com/album/4WV1PuDBMdzqXiWVWG0ovo) | 3:43 |
 | 47 | [Amiga \- Bonus Track](https://open.spotify.com/track/7D6QJCylSzF7XGz2BzcOYI) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Tiempos Mejores](https://open.spotify.com/album/5oRx5C2DfRJY8QoIKRM5F9) | 3:23 |
 | 48 | [Dos](https://open.spotify.com/track/1lDTr8oIKdRPcLsZtlyHXb) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Dos](https://open.spotify.com/album/4vsGohmLvbzTjQYfht3bmJ) | 2:57 |
 | 49 | [Aroma A Nostalgia](https://open.spotify.com/track/1IpEM8ttceXEWqQ83ay9Da) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [Aroma A Nostalgia](https://open.spotify.com/album/6cneFPJP1wgyZ26tjiOeJL) | 4:38 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 72 | [Demasiado Bien](https://open.spotify.com/track/3UIlqSSYYpTkfjC00fA04B) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Demasiado Bien](https://open.spotify.com/album/1CyHWRQjdIEktu0AjvvwbR) | 3:39 |
 | 73 | [Polvo Cósmico](https://open.spotify.com/track/5LBD1cXdT68bOVgB0MLSPC) | [Leonardo de Lozanne](https://open.spotify.com/artist/0tJ0fqnovf6ASEO0Qyr03N) | [Polvo Cósmico](https://open.spotify.com/album/4cpzYWDTQ1kLjSnDnD1qrY) | 4:01 |
 | 74 | [Empezar de Cero](https://open.spotify.com/track/7vAkNCHHwY6rJzWzde1QDW) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [Empezar de Cero](https://open.spotify.com/album/6YTctBcS8WvoeqiU6C6UCh) | 4:30 |
-| 75 | [Corre Amor](https://open.spotify.com/track/6KQtYYDMeh3uvHb3QXSkVv) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Cosmovisiones](https://open.spotify.com/album/2Jpnr6hBjbmSDrfWMWRYgZ) | 3:14 |
+| 75 | [Como Tú \(Magic Music Box\)](https://open.spotify.com/track/0GWkuPr946cYbOMRkrbw4e) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Rock en español](https://open.spotify.com/album/3bmuv7OI4asKzdF3T4zWsx) | 3:52 |
 
-Snapshot ID: `MTY2MDg3NzM4MSwwMDAwMDAwMGNjMjQ2ZWJjN2Y5MzkxNGU2NzcwM2ViOWU0Nzg3MDhh`
+Snapshot ID: `MTY2MDg3NzM4MSwwMDAwMDAwMGFkMTQ4MmU4MjA2NjkyOTExMGVkZmQ5OTJjYTAxZGU2`

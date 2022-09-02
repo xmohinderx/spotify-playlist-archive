@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Nuove scoperte dalla scena indipendente italiana, senza etichette di genere. Cover: <a href=\"spotify:artist:7pR2B1Mq25ns1ZTfFND45F\">Kahlo</a>",
+  "description": "Nuove scoperte dalla scena indipendente italiana, senza etichette di genere. Cover: <a href=\"spotify:artist:7By2W4RhZGhK9wCYGQr1Q1\">Kinder Garden</a>",
   "name": "Fresh Finds Italia",
   "published_playlist_ids": [
     "7DW4xNQc4jVEAVd25UPTmP"
@@ -1544,6 +1544,28 @@
     },
     {
       "album": {
+        "name": "Desert",
+        "url": "https://open.spotify.com/album/1znxkPenPvmmWsJzGBZLLY"
+      },
+      "artists": [
+        {
+          "name": "Moglii",
+          "url": "https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS"
+        },
+        {
+          "name": "Palmaria",
+          "url": "https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166698,
+      "name": "Desert",
+      "url": "https://open.spotify.com/track/1pzprWEGDX4Z6kMDndqSbu"
+    },
+    {
+      "album": {
         "name": "FUTURO3",
         "url": "https://open.spotify.com/album/3883plODFEQ6pDJEQu6oJ0"
       },
@@ -1741,7 +1763,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 207740,
       "name": "DOVE VUOI CHE SIA",
       "url": "https://open.spotify.com/track/0ZW5zLDwB5Tsc4Qqz2igIO"
@@ -2994,6 +3016,28 @@
     },
     {
       "album": {
+        "name": "LINEAMENTI",
+        "url": "https://open.spotify.com/album/3aoy0Hg1X5j7cWAdXgv7uy"
+      },
+      "artists": [
+        {
+          "name": "maxwell da costa",
+          "url": "https://open.spotify.com/artist/7fBNjQ2hEvNyisqpp8o4ZT"
+        },
+        {
+          "name": "AnnicK",
+          "url": "https://open.spotify.com/artist/2J8TklMXojpcXK0PsN9sU6"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149647,
+      "name": "LINEAMENTI",
+      "url": "https://open.spotify.com/track/1zaqH4YBiapkCyTfW073kp"
+    },
+    {
+      "album": {
         "name": "Non ti scordar di me",
         "url": "https://open.spotify.com/album/7tUCuhD58UCoPcOqFTNzqg"
       },
@@ -3071,7 +3115,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 165138,
       "name": "Love Will Take You from Behind",
       "url": "https://open.spotify.com/track/2p1Wvj7F5s8I1ypZNkBJyP"
@@ -3191,7 +3235,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 187288,
       "name": "Luned\u00ec",
       "url": "https://open.spotify.com/track/3jQUogw3M7Nq6JhSQgw4X8"
@@ -3227,7 +3271,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 147755,
       "name": "Malemalemale",
       "url": "https://open.spotify.com/track/2cTjmfXzhBa5HPhF1qYbW9"
@@ -3842,6 +3886,24 @@
     },
     {
       "album": {
+        "name": "NIENTE HA SENSO",
+        "url": "https://open.spotify.com/album/3ic6yRY8LSLXpJuUenfOXb"
+      },
+      "artists": [
+        {
+          "name": "MIKE ONE",
+          "url": "https://open.spotify.com/artist/6Gcelxx8sUFyCYeF7wKDtd"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76191,
+      "name": "NIENTE HA SENSO",
+      "url": "https://open.spotify.com/track/5YxnT6Tcn1H7DABdH16EEJ"
+    },
+    {
+      "album": {
         "name": "Nodi con l'aria",
         "url": "https://open.spotify.com/album/7gLr6ao4XsuLoGfTEWkjQ9"
       },
@@ -4051,7 +4113,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 174335,
       "name": "non sembra da me",
       "url": "https://open.spotify.com/track/0CdrbpQJrUjnVslKPQ0GCS"
@@ -4801,7 +4863,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 180705,
       "name": "Quando me ne sono andato",
       "url": "https://open.spotify.com/track/3ow2vKTlNCKiqdvgYQ0QCD"
@@ -5193,7 +5255,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 216734,
       "name": "Saint Tropez",
       "url": "https://open.spotify.com/track/4mf6SddhIbCKE2mtLHVEDc"
@@ -5363,7 +5425,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 177560,
       "name": "Sentimenti in Giro",
       "url": "https://open.spotify.com/track/4qJotoxYsJRlgawZCaKMis"
@@ -5560,6 +5622,24 @@
     },
     {
       "album": {
+        "name": "Sordi come genitori",
+        "url": "https://open.spotify.com/album/1ldeZAEYJPa43oIY0a5Pao"
+      },
+      "artists": [
+        {
+          "name": "roadelli",
+          "url": "https://open.spotify.com/artist/6HTqagDvIg3PKGFnth4obZ"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165028,
+      "name": "Sordi come genitori",
+      "url": "https://open.spotify.com/track/1AWUDUWMF2Vq8A6yz1yZUg"
+    },
+    {
+      "album": {
         "name": "sottosopra",
         "url": "https://open.spotify.com/album/6moVQ2cDgTKftRE7o4uzXM"
       },
@@ -5683,7 +5763,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 208159,
       "name": "Squalo",
       "url": "https://open.spotify.com/track/6ZaBRCrdYYaY1UKb8eo418"
@@ -5919,7 +5999,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 202105,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/5uG1GyUcuTt5t3BPFHbEVV"
@@ -6372,6 +6452,28 @@
     },
     {
       "album": {
+        "name": "UMMA (Remix)",
+        "url": "https://open.spotify.com/album/2sCXqX8nII3Qk3ms7k4n9F"
+      },
+      "artists": [
+        {
+          "name": "BLUEM",
+          "url": "https://open.spotify.com/artist/1eFOTBAGM0w0SH7jnTYSd1"
+        },
+        {
+          "name": "Arssalendo",
+          "url": "https://open.spotify.com/artist/54LmkGE6kI6eoaPdd6XiEd"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "UMMA - Arssalendo Remix",
+      "url": "https://open.spotify.com/track/6Zdz3j652H8aYnfR4IcYK0"
+    },
+    {
+      "album": {
         "name": "Un Ragazzo",
         "url": "https://open.spotify.com/album/3fOWHNbaHcGatXysATcyXW"
       },
@@ -6387,6 +6489,24 @@
       "duration_ms": 216771,
       "name": "Un Ragazzo",
       "url": "https://open.spotify.com/track/4Ke87fcWxmC6ebcRkrDjYf"
+    },
+    {
+      "album": {
+        "name": "Un'idea per me",
+        "url": "https://open.spotify.com/album/17lcPyVVmfymDg8ORvzYJJ"
+      },
+      "artists": [
+        {
+          "name": "Mor\u00e8",
+          "url": "https://open.spotify.com/artist/45Lp93Y7NEScoCLWI3FfTf"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232399,
+      "name": "Un'idea per me",
+      "url": "https://open.spotify.com/track/4Eo8Mk4Qrlc8odOMJB3EzA"
     },
     {
       "album": {
@@ -6560,6 +6680,24 @@
     },
     {
       "album": {
+        "name": "Vita vera",
+        "url": "https://open.spotify.com/album/5xt2CfoxvjrRt7lI1EDH4m"
+      },
+      "artists": [
+        {
+          "name": "letteredistrada",
+          "url": "https://open.spotify.com/artist/3kTQPUH3D8Deb9OM9GerEG"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129882,
+      "name": "Vita vera",
+      "url": "https://open.spotify.com/track/04mKihaPiWG3zVOlu7qLC7"
+    },
+    {
+      "album": {
         "name": "Viva!",
         "url": "https://open.spotify.com/album/3j5RvpZ9ysNy8YEPDY31FP"
       },
@@ -6611,7 +6749,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 116000,
       "name": "VUOTO",
       "url": "https://open.spotify.com/track/5dg5MAxWLc2nxsUV6OLd5D"
@@ -6723,7 +6861,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 186818,
       "name": "ZERO PIANI",
       "url": "https://open.spotify.com/track/2TAGp3elGFTsFg9fMi4rGF"

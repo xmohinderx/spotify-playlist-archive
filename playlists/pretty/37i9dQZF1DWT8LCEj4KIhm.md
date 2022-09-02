@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 
 > Désormais, aucune raison de se faire ch\*\*r au gym.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,048 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,045 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 | 29 | [Cold Feet](https://open.spotify.com/track/08zt4rqVjqahvXaWAuEBbP) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ) | [Nights Like This](https://open.spotify.com/album/6bz7aXy1ov5S4Hz46mnjBk) | 3:01 |
 | 30 | [Never Let Me Down](https://open.spotify.com/track/3bXiWZWR3CoZbhcsqfsMNa) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Never Let Me Down](https://open.spotify.com/album/0Bukf9slmCY0nPhy80GzEQ) | 2:33 |
 | 31 | [About Us \(feat\. EMME\)](https://open.spotify.com/track/6NitJf2pJZ4ssPTWZ1ZuVv) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [EMME](https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs) | [About Us \(feat\. EMME\)](https://open.spotify.com/album/5lK1i9qlTSll67PyLqcxrs) | 4:46 |
-| 32 | [Carry You Home \(feat\. StarGate & Aloe Blacc\)](https://open.spotify.com/track/6bolfjXj78EIQRB48C6QTc) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Stargate](https://open.spotify.com/artist/7KUri7klyLaIFXLcuuOMCd), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Carry You Home \(feat\. StarGate & Aloe Blacc\)](https://open.spotify.com/album/7apwmztwcRn7DpWVx69VDr) | 3:12 |
-| 33 | [Never Gonna Give You Up](https://open.spotify.com/track/4dJYjR2lM6SmYfLw2mnHvb) | [RadioClub](https://open.spotify.com/artist/55VEENeFJiaUCpKJQkHarb) | [Never Gonna Give You Up](https://open.spotify.com/album/5OFnJusx08l3GHN4Y9VgGj) | 2:45 |
+| 32 | [Never Gonna Give You Up](https://open.spotify.com/track/4dJYjR2lM6SmYfLw2mnHvb) | [RadioClub](https://open.spotify.com/artist/55VEENeFJiaUCpKJQkHarb) | [Never Gonna Give You Up](https://open.spotify.com/album/5OFnJusx08l3GHN4Y9VgGj) | 2:45 |
+| 33 | [Carry You Home \(feat\. StarGate & Aloe Blacc\)](https://open.spotify.com/track/6bolfjXj78EIQRB48C6QTc) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Stargate](https://open.spotify.com/artist/7KUri7klyLaIFXLcuuOMCd), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Carry You Home \(feat\. StarGate & Aloe Blacc\)](https://open.spotify.com/album/7apwmztwcRn7DpWVx69VDr) | 3:12 |
 | 34 | [VALENTINO \- Imanbek Remix](https://open.spotify.com/track/660BgHpKo1jhR9MMSFn7CF) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [VALENTINO \(Imanbek Remix\)](https://open.spotify.com/album/2v44hAIsegAFzILiv6ghx8) | 2:57 |
 | 35 | [Good Example \(with Andy Grammer\)](https://open.spotify.com/track/5SspaMrPfWyRCS0GpjIxa6) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Good Example \(with Andy Grammer\)](https://open.spotify.com/album/2NjENS5zmbvNvABCfygUU6) | 2:29 |
 | 36 | [Detroit 3 AM \- Radio Edit](https://open.spotify.com/track/4d42DsNHiQipjONbwTYyEc) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Detroit 3 AM \(Radio Edit\)](https://open.spotify.com/album/7aMXzM3ZzgHBUYBr7LK9mI) | 3:08 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 | 65 | [Le monde est à nous](https://open.spotify.com/track/4QYpXezeMH6SkpIqT8nFM2) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz) | [Le monde est à nous](https://open.spotify.com/album/2GO68pEg33eudiyr8GuxH6) | 3:12 |
 | 66 | [Fantasy](https://open.spotify.com/track/6O7c7tf1FQsrb3gjJX3oZk) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [Vannah](https://open.spotify.com/artist/4jwv3a7juNAOTSjZrkuz0P) | [Fantasy](https://open.spotify.com/album/5gcFASqSTMjuLNhcrrcs5L) | 3:20 |
 | 67 | [Barquette](https://open.spotify.com/track/7cWl7ZJwmuvwxYroIq8eY3) | [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA) | [La Barquetterie](https://open.spotify.com/album/1NrmMEOZY5M0AwC1Dokqef) | 2:32 |
-| 68 | [Je suis à toi \(Moto Blanco Remix\)](https://open.spotify.com/track/0rVUCy43dmcchGcOWvlgY0) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20) | [Je suis à toi \(MOTO BLANCO REMIX\)](https://open.spotify.com/album/1QNn9u3t1LaW6A2l4napNa) | 3:17 |
-| 69 | [L’orage](https://open.spotify.com/track/3t65ml1XmFNg4OmFr7v2ps) | [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h) | [L'orage](https://open.spotify.com/album/28WSPAryhYDtCL8526dp2j) | 3:14 |
+| 68 | [L’orage](https://open.spotify.com/track/3t65ml1XmFNg4OmFr7v2ps) | [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h) | [L'orage](https://open.spotify.com/album/28WSPAryhYDtCL8526dp2j) | 3:14 |
+| 69 | [Je suis à toi \(Moto Blanco Remix\)](https://open.spotify.com/track/0rVUCy43dmcchGcOWvlgY0) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20) | [Je suis à toi \(MOTO BLANCO REMIX\)](https://open.spotify.com/album/1QNn9u3t1LaW6A2l4napNa) | 3:17 |
 | 70 | [Bientôt](https://open.spotify.com/track/1wX7nWzrolWpnPKp09fhlk) | [Eman](https://open.spotify.com/artist/0577M91sH51YDk2o3cGko9) | [maison](https://open.spotify.com/album/2fzWviAbjksegQijmpa433) | 3:08 |
 | 71 | [Mandown](https://open.spotify.com/track/132YTq9H9lyKo0swHhAnqI) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Mandown](https://open.spotify.com/album/31h7LmPhUb1QiZWdB6RBVt) | 3:04 |
 | 72 | [Miroir](https://open.spotify.com/track/0Eolm1QSRMxzaVS3w8JxW1) | [Mody](https://open.spotify.com/artist/6dkxSINLJmaCC2uxuM61ds) | [Miroir](https://open.spotify.com/album/2P8kIb8QyEW46PLCGbhFgS) | 3:19 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 | 74 | [Première ministre](https://open.spotify.com/track/25eiHmARIEqh9yaUQthf0s) | [Laurence Nerbonne](https://open.spotify.com/artist/1fPc13ccCnGx3gdESGBhYQ) | [Première ministre](https://open.spotify.com/album/12ROayPFNHCQowWjJvdr6Q) | 2:45 |
 | 75 | [Girl Code](https://open.spotify.com/track/0pLRmqULQgr2WkAdgLN4mh) | [Mikalya](https://open.spotify.com/artist/7jv66bdVdkdIlPvEizxV1f), [Odreii](https://open.spotify.com/artist/7an95q1yJtdFUi57D6Emrn), [Nissa Seych](https://open.spotify.com/artist/3LzKJ6aOX8uEf7b2rli5Uc) | [Girl Code](https://open.spotify.com/album/5uB4Q0FuEmGPweQ1pT83nr) | 2:23 |
 
-Snapshot ID: `MTYzMzY2NTY2MCwwMDAwMDAwMGNiZDZjZjc4MTY5MzA1MzhjNTMxMmViNWQ2OTU5ZjFh`
+Snapshot ID: `MTYzMzY2NTY2MCwwMDAwMDAwMDMzMzYwZmVjNTdlZGNjNWUzODg1NzA0Zjg5YWU5ZGMx`

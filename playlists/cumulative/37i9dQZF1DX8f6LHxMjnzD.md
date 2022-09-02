@@ -4,7 +4,7 @@
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Elton John & Britney Spears
 
-1,426 songs - 3 day 2 hr 31 min - [published](https://open.spotify.com/playlist/2IpzDd0RQh5cskBeJoBiVy)
+1,427 songs - 3 day 2 hr 34 min - [published](https://open.spotify.com/playlist/2IpzDd0RQh5cskBeJoBiVy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1430,7 +1430,8 @@
 | [You've Got To Let Go If You Want To Be Free](https://open.spotify.com/track/5kVXjAxYDkN57tZQi0JKya) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [You've Got To Let Go If You Want To Be Free](https://open.spotify.com/album/7nJFzH65HZDY5qeRwdo421) | 4:13 | 2022-01-31 | 2022-02-09 |
 | [Your Love](https://open.spotify.com/track/3aKeMLUuvZSmlzMxA41WEr) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Your Love](https://open.spotify.com/album/11sktScKNcbkw6h9zNgkKK) | 3:22 | 2022-02-08 | 2022-02-15 |
 | [Yours](https://open.spotify.com/track/7BpqydHSxMviDR0DNTne6J) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Yours](https://open.spotify.com/album/2i4vxgeB2Sn97KeBs2vYtO) | 3:24 | 2022-05-23 | 2022-05-31 |
-| [YUKON \(INTERLUDE\)](https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi) | 2:21 | 2022-08-29 |  |
+| [YUKON \(INTERLUDE\)](https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi) | 2:21 | 2022-08-29 | 2022-09-02 |
+| [YUKON \(INTERLUDE\)](https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/0GxWXE6ltKk4Gx3WyWLLrW) | 2:21 | 2022-08-29 |  |
 | [Yungen \(feat\. Jack Harlow\)](https://open.spotify.com/track/1NtyeXryylf8HWXnxVTD3v) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Beautiful Mind](https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL) | 3:46 | 2022-08-15 | 2022-08-23 |
 | [Zipcodes](https://open.spotify.com/track/7klycPYjcy8FSQcIZTAVNy) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Zipcodes](https://open.spotify.com/album/49OiilOMo4qUuaIpNhc00S) | 4:27 | 2022-07-18 | 2022-07-26 |
 | [•NOTDEAD!•](https://open.spotify.com/track/1c30r2e9SgkvjikuJBR7ms) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [•NOTDEAD!•](https://open.spotify.com/album/3wSkJjnc6ayPUKr8X8ucUK) | 3:10 | 2022-08-01 | 2022-08-09 |

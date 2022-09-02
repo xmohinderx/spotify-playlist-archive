@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfZ6moR6J0G.md) - [plain]
 
 > The sound of a g\-g\-generation\. Cover: Limp Bizkit
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,430,821 likes - 70 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,429,670 likes - 70 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfZ6moR6J0G.md) - [plain]
 | 23 | [Papercut](https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:04 |
 | 24 | [Wait and Bleed](https://open.spotify.com/track/2gscB6kDOmrv1P6qs2KXE3) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot \(10th Anniversary Edition\)](https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc) | 2:27 |
 | 25 | [Youth of the Nation](https://open.spotify.com/track/0UrWr7Jnu1heq1o99ZwUd0) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(U.S\. Version\)](https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk) | 4:16 |
-| 26 | [Pardon Me](https://open.spotify.com/track/1Y13csEpu3TK5gQdzGLrd8) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Make Yourself](https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR) | 3:43 |
+| 26 | [Happy?](https://open.spotify.com/track/0INUE1K7cEiE8VH63Rv5RJ) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Lost and Found](https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP) | 3:36 |
 | 27 | [Got the Life](https://open.spotify.com/track/6nJPHXRpKYv2yqtalEjKy5) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Follow The Leader](https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4) | 3:45 |
 | 28 | [Nookie](https://open.spotify.com/track/1TEZWG1FdjzDdercCguTwj) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Significant Other](https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP) | 4:49 |
-| 29 | [Happy?](https://open.spotify.com/track/0INUE1K7cEiE8VH63Rv5RJ) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Lost and Found](https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP) | 3:36 |
+| 29 | [Pardon Me](https://open.spotify.com/track/1Y13csEpu3TK5gQdzGLrd8) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Make Yourself](https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR) | 3:43 |
 | 30 | [Click Click Boom](https://open.spotify.com/track/2CGDxXXYbkPOyRXHzQbqkT) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO) | [Every Six Seconds](https://open.spotify.com/album/6gF0b1XROfpwz5bLHM1dRe) | 4:12 |
 | 31 | [When Worlds Collide](https://open.spotify.com/track/6aF5JtQSrh7wNrkDE9B0My) | [Powerman 5000](https://open.spotify.com/artist/5imUS9dQyCbAjUEJJ9QyWC) | [Tonight The Stars Revolt](https://open.spotify.com/album/3Z3yndLeHs01iYPSNzTBBk) | 2:57 |
 | 32 | [Die MF Die](https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Life](https://open.spotify.com/album/7lRvSWMUCTIjkvZQLy4yBx) | 3:06 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfZ6moR6J0G.md) - [plain]
 | 65 | [Get Up Again](https://open.spotify.com/track/7jClgHzR5JG69gar7rVMoX) | [Flaw](https://open.spotify.com/artist/4hFScNSgSkApFw193xlyH7) | [Through The Eyes](https://open.spotify.com/album/4ENDNin0EF4elzkaWLvbAM) | 2:56 |
 | 66 | [Alive \- 2006 Remaster](https://open.spotify.com/track/3IRovqSVYx3CNtDWRebsET) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Greatest Hits \(The Atlantic Years\)](https://open.spotify.com/album/1i3YXOzNkaykTt6CxWGOOU) | 3:23 |
 | 67 | [I Am Loco](https://open.spotify.com/track/3jmelhU4kuytaLPLeiAerH) | [Ill Niño](https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF) | [Revolution Revolucion](https://open.spotify.com/album/4IrzBBK9aFlpjtcdi9lAVJ) | 3:30 |
-| 68 | [Bloodwork](https://open.spotify.com/track/201NunZ5rsvabQoX2PxMlS) | [36 Crazyfists](https://open.spotify.com/artist/4ijGLY4dzlurDh7jqH3tW7) | [A Snow Capped Romance](https://open.spotify.com/album/4RXbqQIZqHp5VhyhQZkvD9) | 3:18 |
-| 69 | [Loose](https://open.spotify.com/track/5u07rgQcg8F2xIZp90lm3p) | [Primer 55](https://open.spotify.com/artist/6jnxIScI1LhNdbLNbTDNwY) | [Introduction To Mayhem](https://open.spotify.com/album/1TwA6wlxYBuYZi8xb3Hk76) | 3:02 |
+| 68 | [Loose](https://open.spotify.com/track/5u07rgQcg8F2xIZp90lm3p) | [Primer 55](https://open.spotify.com/artist/6jnxIScI1LhNdbLNbTDNwY) | [Introduction To Mayhem](https://open.spotify.com/album/1TwA6wlxYBuYZi8xb3Hk76) | 3:02 |
+| 69 | [Bloodwork](https://open.spotify.com/track/201NunZ5rsvabQoX2PxMlS) | [36 Crazyfists](https://open.spotify.com/artist/4ijGLY4dzlurDh7jqH3tW7) | [A Snow Capped Romance](https://open.spotify.com/album/4RXbqQIZqHp5VhyhQZkvD9) | 3:18 |
 | 70 | [Black](https://open.spotify.com/track/5DoTRJlzMaGAMHPTDrfvfW) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Sevendust \(Definitive Edition\)](https://open.spotify.com/album/7tpMJufRsPz0EPv5hZSWs3) | 4:08 |
 
-Snapshot ID: `MTY1NTUyOTc0OCwwMDAwMDAwMGE0MmM5MWFkMTg0YWFiMmFhYjFiNWUyODJiM2Q0Yjhk`
+Snapshot ID: `MTY1NTUyOTc0OCwwMDAwMDAwMGRhYTE0ODYzMDI0MDc0NDVjNmQyNmY2MTdlMDMwYjI3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 
 > Funky jazz from the mid 1950s to the early 1960s\. Cover: Art Blakey
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,636 likes - 75 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,667 likes - 75 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 | 42 | [The Chess Players \- Remastered 2005](https://open.spotify.com/track/63Ko3TB1r09NYmWr8T3VH9) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [The Big Beat \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/3xTvTulNR8Ba1uk0oDaQbs) | 9:31 |
 | 43 | [Back To The Tracks](https://open.spotify.com/track/5HkIObvZo2mjjt3JMJRqGR) | [Tina Brooks](https://open.spotify.com/artist/4JgvfZeCWGzEPGR6yVaXuX) | [Back To The Tracks](https://open.spotify.com/album/1bMz9hj91rrk0lj8SbTdgE) | 8:03 |
 | 44 | [Blues Blue](https://open.spotify.com/track/42s1AW8BjI7Z01BEKEtyD6) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [My Conception](https://open.spotify.com/album/4kyXSmqZ7WVTjodTRR4wgZ) | 7:18 |
-| 45 | [Soul Sister \- Rudy Van Gelder Edition/2004 Remaster](https://open.spotify.com/track/5haDMziNpWpocusp2aLR82) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Dexter Calling \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/2y9RZzp36aXMJ5b3mv9X5P) | 7:45 |
-| 46 | [Blues March](https://open.spotify.com/track/3z6vI20hNUo15h3fCduRQm) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [Benny Golson And The Philadelphians](https://open.spotify.com/album/7JqSmqGSI3bvPAh7XKBr7h) | 4:05 |
+| 45 | [Blues March](https://open.spotify.com/track/3z6vI20hNUo15h3fCduRQm) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [Benny Golson And The Philadelphians](https://open.spotify.com/album/7JqSmqGSI3bvPAh7XKBr7h) | 4:05 |
+| 46 | [Soul Sister \- Rudy Van Gelder Edition/2004 Remaster](https://open.spotify.com/track/5haDMziNpWpocusp2aLR82) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Dexter Calling \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/2y9RZzp36aXMJ5b3mv9X5P) | 7:45 |
 | 47 | [Rollin' With Leo \- Remastered](https://open.spotify.com/track/42iENLbnZCyVDCcc3CKzQ3) | [Leo Parker](https://open.spotify.com/artist/5LQwJIY0TGUfJDS9vdpjmg) | [Rollin' With Leo \(Remastered\)](https://open.spotify.com/album/4iuVTKizRNoo1GqETTVHRH) | 6:25 |
 | 48 | [Mumbo Jumbo](https://open.spotify.com/track/2k5QlnGxJ0tsAWCRXs5Gag) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Sonic Boom](https://open.spotify.com/album/4DMAjEeHrtO1OPmMy9FeND) | 5:28 |
 | 49 | [Hittin' The Jug \- Rudy Van Gelder Remaster](https://open.spotify.com/track/3kIhfQW7A4H7yd4a86uFt5) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [Boss Tenor](https://open.spotify.com/album/4u4T0lYZ2VbDHOmAwHKxJs) | 8:27 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 | 74 | [Minor On Top \- Remastered 1997](https://open.spotify.com/track/5SQuscOp1pmVmd2TlYADpH) | [Thad Jones](https://open.spotify.com/artist/6DbqS0X8cSFOPGsvyze2yh) | [Motor City Scene](https://open.spotify.com/album/6LQkQG9nSDBZmRRDEdxKms) | 8:43 |
 | 75 | [South Side \- Remastered 2007 / Rudy Van Gelder Edition](https://open.spotify.com/track/7A8bDI0oJDi6gNhe3YIWBQ) | [Louis Smith](https://open.spotify.com/artist/1cynU9t25KnZAetN0uXgm9) | [Here Comes Louis Smith \(Remastered\)](https://open.spotify.com/album/5nmaVQ30ucem6OXJ2IAAKf) | 8:38 |
 
-Snapshot ID: `MTY1MTA3MDkwMSwwMDAwMDAwMGQxY2YzZTk5MGY0ZDA1NDEwNDg2ZmExY2JlMGRjMjVm`
+Snapshot ID: `MTY1MTA3MDkwMSwwMDAwMDAwMGFiNTkxMjYxZTdmZGUwZmZlYmE2YWQxMzBkM2YxNTll`

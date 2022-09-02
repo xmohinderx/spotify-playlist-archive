@@ -820,6 +820,32 @@
     },
     {
       "album": {
+        "name": "Lock That Door",
+        "url": "https://open.spotify.com/album/1oLzGsJFsQKDo8s22D5Zfx"
+      },
+      "artists": [
+        {
+          "name": "C-Mart",
+          "url": "https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk"
+        },
+        {
+          "name": "Bartofso",
+          "url": "https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI"
+        },
+        {
+          "name": "Positivv",
+          "url": "https://open.spotify.com/artist/7BrzYQ8rJ3qsyzsGgAlvof"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Lock That Door",
+      "url": "https://open.spotify.com/track/4poAVGGbeNk2elYU5uIYdJ"
+    },
+    {
+      "album": {
         "name": "Love Don't Cost A Dime (Re-Up)",
         "url": "https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT"
       },
@@ -1137,7 +1163,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 159706,
       "name": "Repeat",
       "url": "https://open.spotify.com/track/2S7FTwyeXHxDKaiMTrLixP"
@@ -1221,6 +1247,32 @@
       "duration_ms": 156781,
       "name": "Sugarcane",
       "url": "https://open.spotify.com/track/2pPh2jjCqiIDjGdwMMsPQ1"
+    },
+    {
+      "album": {
+        "name": "Sugarcane (Dutch Remix)",
+        "url": "https://open.spotify.com/album/29jB9OyaNU5moCbdcSpsVJ"
+      },
+      "artists": [
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        },
+        {
+          "name": "Rich2Gether",
+          "url": "https://open.spotify.com/artist/7JEKwHEyxkl7GMIZmTVllb"
+        },
+        {
+          "name": "JMANI",
+          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218581,
+      "name": "Sugarcane - Dutch Remix",
+      "url": "https://open.spotify.com/track/61tg9mVHe87QwDWYW4VJoD"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas aconchegantes para aquecer a alma nos dias frios.",
-  "num_followers": 335668,
+  "num_followers": 335718,
   "original_name": "Friozinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3Mzk2MiwwMDAwMDAwMGIxZGU0NmRmM2ZiMTgyZGZhYTFhMzI4ODg4ODE3Y2Vh",
+  "snapshot_id": "MTY2MDI3Mzk2MiwwMDAwMDAwMDQzZGNmNTRhNmQxZjA4N2IyNWJmMzZiMWE3YTk3ODBj",
   "tracks": [
     {
       "added_at": "2022-08-12 03:12:41",
@@ -659,6 +659,22 @@
     {
       "added_at": "2022-08-12 03:12:41",
       "album": {
+        "name": "Finally // beautiful stranger",
+        "url": "https://open.spotify.com/album/30MFzDqEWHe5v0XUsGGUJF"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 221095,
+      "name": "Finally // beautiful stranger",
+      "url": "https://open.spotify.com/track/5YvcUK2eXJ2OllqDuEg18S"
+    },
+    {
+      "added_at": "2022-08-12 03:12:41",
+      "album": {
         "name": "KEYS II",
         "url": "https://open.spotify.com/album/52Y1gGjYphRowQYLxu8bxX"
       },
@@ -679,22 +695,6 @@
     {
       "added_at": "2022-08-12 03:12:41",
       "album": {
-        "name": "Finally // beautiful stranger",
-        "url": "https://open.spotify.com/album/30MFzDqEWHe5v0XUsGGUJF"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 221095,
-      "name": "Finally // beautiful stranger",
-      "url": "https://open.spotify.com/track/5YvcUK2eXJ2OllqDuEg18S"
-    },
-    {
-      "added_at": "2022-08-12 03:12:41",
-      "album": {
         "name": "just a boy",
         "url": "https://open.spotify.com/album/6C2WtjbTyOmdMq7E8uTXcg"
       },
@@ -707,22 +707,6 @@
       "duration_ms": 185681,
       "name": "just a boy",
       "url": "https://open.spotify.com/track/2fAeROYFSbWdvML6rbnCar"
-    },
-    {
-      "added_at": "2022-08-12 03:12:41",
-      "album": {
-        "name": "Emily",
-        "url": "https://open.spotify.com/album/4eUkjbFmGRPNuFZ8v4ytJo"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 201657,
-      "name": "Emily",
-      "url": "https://open.spotify.com/track/7qGzlqZnl6j8qccvV70PhL"
     },
     {
       "added_at": "2022-08-12 03:12:41",
@@ -743,6 +727,22 @@
       "duration_ms": 220839,
       "name": "You All Over Me (feat. Maren Morris) (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/5pcjystBtalYeqaiXCcgEY"
+    },
+    {
+      "added_at": "2022-08-12 03:12:41",
+      "album": {
+        "name": "Emily",
+        "url": "https://open.spotify.com/album/4eUkjbFmGRPNuFZ8v4ytJo"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 201657,
+      "name": "Emily",
+      "url": "https://open.spotify.com/track/7qGzlqZnl6j8qccvV70PhL"
     },
     {
       "added_at": "2022-08-12 03:12:41",
@@ -1407,6 +1407,26 @@
     {
       "added_at": "2022-08-12 03:12:41",
       "album": {
+        "name": "Problems (feat. Grady)",
+        "url": "https://open.spotify.com/album/2b8AWTnpb1Z4ilTXRlK1KE"
+      },
+      "artists": [
+        {
+          "name": "Bryce Vine",
+          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
+        },
+        {
+          "name": "Grady",
+          "url": "https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R"
+        }
+      ],
+      "duration_ms": 203084,
+      "name": "Problems (feat. Grady)",
+      "url": "https://open.spotify.com/track/3mTcmCSROO6CPW50vHN7Et"
+    },
+    {
+      "added_at": "2022-08-12 03:12:41",
+      "album": {
         "name": "Teu sim, mas n\u00e3o. (feat. Pedro Calais)",
         "url": "https://open.spotify.com/album/6PZyMzlh4wTtUqO0NJzlUv"
       },
@@ -1427,26 +1447,6 @@
       "duration_ms": 201720,
       "name": "Teu sim, mas n\u00e3o. (feat. Pedro Calais)",
       "url": "https://open.spotify.com/track/2ySHbwdxA32udzny7hlULo"
-    },
-    {
-      "added_at": "2022-08-12 03:12:41",
-      "album": {
-        "name": "Problems (feat. Grady)",
-        "url": "https://open.spotify.com/album/2b8AWTnpb1Z4ilTXRlK1KE"
-      },
-      "artists": [
-        {
-          "name": "Bryce Vine",
-          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
-        },
-        {
-          "name": "Grady",
-          "url": "https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R"
-        }
-      ],
-      "duration_ms": 203084,
-      "name": "Problems (feat. Grady)",
-      "url": "https://open.spotify.com/track/3mTcmCSROO6CPW50vHN7Et"
     },
     {
       "added_at": "2022-08-12 03:12:41",

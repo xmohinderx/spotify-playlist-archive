@@ -4,7 +4,7 @@
 
 > The tracks sticking us together.
 
-335 songs - 21 hr 28 min - [published](https://open.spotify.com/playlist/6aSSyX8VxZUP0casiY1twa)
+336 songs - 21 hr 31 min - [published](https://open.spotify.com/playlist/6aSSyX8VxZUP0casiY1twa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,7 @@
 | [My Prerogative](https://open.spotify.com/track/0v9kGNjkKdQUdDoBIuiph4) | [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE) | [Don't Be Cruel](https://open.spotify.com/album/44w4sVYJVQzhH2dN3IwyIK) | 4:51 | 2021-08-31 | 2022-07-29 |
 | [My Sweet Lord \- Remastered 2014](https://open.spotify.com/track/0qdQUeKVyevrbKhAo0ibxS) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered 2014\)](https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6) | 4:41 | 2021-08-31 |  |
 | [Never Too Much](https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 3:50 | 2021-08-31 |  |
-| [New Shoes](https://open.spotify.com/track/265Anh9hGoozFigjUVLUeD) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [These Streets](https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl) | 3:23 | 2021-08-31 |  |
+| [New Shoes](https://open.spotify.com/track/265Anh9hGoozFigjUVLUeD) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [These Streets](https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl) | 3:23 | 2021-08-31 | 2022-09-02 |
 | [Night Changes](https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 3:46 | 2021-08-31 |  |
 | [Night Fever \- From "Saturday Night Fever" Soundtrack](https://open.spotify.com/track/5KgbyD2lQQlIupAaPjgiXg) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Greatest](https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT) | 3:32 | 2021-08-31 | 2022-07-29 |
 | [Night Moves](https://open.spotify.com/track/6UBjSnyP1O5W5ndJoO9vUk) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Night Moves](https://open.spotify.com/album/5QkOpsZupEPLq186YOrBNe) | 5:24 | 2021-08-31 |  |
@@ -237,6 +237,7 @@
 | [Pour Some Sugar On Me \- Remastered 2017](https://open.spotify.com/track/0PdM2a6oIjqepoEfcJo0RO) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria \(Super Deluxe\)](https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE) | 4:27 | 2021-08-31 |  |
 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 | 2021-08-31 |  |
 | [Raspberry Beret](https://open.spotify.com/track/5jSz894ljfWE0IcHBSM39i) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Around the World in a Day](https://open.spotify.com/album/5FbrTPPlaNSOsChhKUZxcu) | 3:35 | 2021-08-31 | 2022-07-29 |
+| [Real Love Baby](https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Real Love Baby](https://open.spotify.com/album/75614DWrksimeV4oXUhaYP) | 3:09 | 2021-08-31 |  |
 | [Real Love Baby](https://open.spotify.com/track/6YDf6QV7QfCEo8O2dbWalK) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Real Love Baby](https://open.spotify.com/album/6IpBMtAMrBvSHc9y6rTtQQ) | 3:09 | 2021-08-31 | 2022-07-29 |
 | [Rebel Rebel \- 2016 Remaster](https://open.spotify.com/track/2EC9IJj7g0mN1Q5VrZkiYY) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Diamond Dogs \(2016 Remaster\)](https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3) | 4:34 | 2021-08-31 |  |
 | [Reelin' In The Years](https://open.spotify.com/track/1I7zHEdDx8Ny5RxzYPqsU2) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw) | 4:35 | 2021-08-31 |  |

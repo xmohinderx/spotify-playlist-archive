@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8FwnYE6PRvL.md) - [plain]
 
 > The ultimate rock party playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,141,656 likes - 80 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,140,798 likes - 80 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,12 +13,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8FwnYE6PRvL.md) - [plain]
 | 3 | [Mr\. Brightside](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:42 |
 | 4 | [I WANNA BE YOUR SLAVE](https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 2:53 |
 | 5 | [Seven Nation Army](https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 3:52 |
-| 6 | [Livin' On A Prayer](https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t) | 4:09 |
+| 6 | [Mary On A Cross](https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Seven Inches Of Satanic Panic](https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF) | 4:04 |
 | 7 | [Sweet Child O' Mine](https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 5:56 |
 | 8 | [Smells Like Teen Spirit](https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 5:01 |
 | 9 | [Can't Stop](https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [By the Way \(Deluxe Edition\)](https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1) | 4:29 |
 | 10 | [Are You Gonna Go My Way](https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Are You Gonna Go My Way](https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ) | 3:31 |
-| 11 | [Mary On A Cross](https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Seven Inches Of Satanic Panic](https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF) | 4:04 |
+| 11 | [Livin' On A Prayer](https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t) | 4:09 |
 | 12 | [In the End](https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:36 |
 | 13 | [Back In Black](https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 4:15 |
 | 14 | [Feel Good Inc.](https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 3:42 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8FwnYE6PRvL.md) - [plain]
 | 22 | [You Give Love A Bad Name](https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t) | 3:42 |
 | 23 | [Summer Of '69](https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 3:36 |
 | 24 | [Sex on Fire](https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp) | 3:23 |
-| 25 | [High Hopes](https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:10 |
-| 26 | [R U Mine?](https://open.spotify.com/track/2AT8iROs4FQueDv2c8q2KE) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:21 |
+| 25 | [R U Mine?](https://open.spotify.com/track/2AT8iROs4FQueDv2c8q2KE) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:21 |
+| 26 | [High Hopes](https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:10 |
 | 27 | [All The Small Things](https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:47 |
 | 28 | [Mr\. Blue Sky](https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Out of the Blue](https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU) | 5:03 |
 | 29 | [Whatever It Takes](https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:21 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8FwnYE6PRvL.md) - [plain]
 | 38 | [The Middle](https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 2:45 |
 | 39 | [Still into You](https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 3:36 |
 | 40 | [More Than a Feeling](https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF) | [Boston](https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK) | [Boston](https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC) | 4:45 |
-| 41 | [Island In The Sun](https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Green Album\)](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:20 |
-| 42 | [Kryptonite](https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life](https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6) | 3:53 |
+| 41 | [Kryptonite](https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life](https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6) | 3:53 |
+| 42 | [Island In The Sun](https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Green Album\)](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:20 |
 | 43 | [Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z) | 3:57 |
 | 44 | [American Idiot](https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 2:56 |
 | 45 | [Kickstart My Heart](https://open.spotify.com/track/6imjJij6aCM0IbbODUzJQn) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood](https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD) | 4:44 |
@@ -71,10 +71,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8FwnYE6PRvL.md) - [plain]
 | 61 | [What's My Age Again?](https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:28 |
 | 62 | [Start Me Up \- Remastered 2009](https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Tattoo You \(2009 Re\-Mastered\)](https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ) | 3:33 |
 | 63 | [Enter Sandman \(Remastered\)](https://open.spotify.com/track/3VqHuw0wFlIHcIPWkhIbdQ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered\)](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) | 5:31 |
-| 64 | [All Along the Watchtower](https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 4:00 |
-| 65 | [Supermassive Black Hole](https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 3:32 |
-| 66 | [Feel It Still](https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 2:43 |
-| 67 | [Rock And Roll All Nite](https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dressed To Kill](https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF) | 2:48 |
+| 64 | [Supermassive Black Hole](https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 3:32 |
+| 65 | [All Along the Watchtower](https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 4:00 |
+| 66 | [Rock And Roll All Nite](https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dressed To Kill](https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF) | 2:48 |
+| 67 | [Feel It Still](https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 2:43 |
 | 68 | [\(I Can't Get No\) Satisfaction \- Mono Version](https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Out Of Our Heads](https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ) | 3:42 |
 | 69 | [Self Esteem](https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash](https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x) | 4:17 |
 | 70 | [Even Flow](https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 4:52 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8FwnYE6PRvL.md) - [plain]
 | 79 | [In Too Deep](https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer, No Filler](https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim) | 3:27 |
 | 80 | [Your Love](https://open.spotify.com/track/4oDZ5L8izBals6jKBJDBcX) | [The Outfield](https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y) | [Play Deep](https://open.spotify.com/album/2d5GU9ms5JCSS9GjsFebu8) | 3:36 |
 
-Snapshot ID: `MTY2MDMyNDg0MywwMDAwMDAwMGRjMTIyOGQ1ZTMzNDRhM2RhZmJhMWExMTc3MTNiMmNi`
+Snapshot ID: `MTY2MDMyNDg0MywwMDAwMDAwMDgwOWY5MzNjMGVjMTZhMzcyNjNlODg3MzhkZDM3Y2Vh`

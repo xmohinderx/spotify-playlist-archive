@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 
 > Productores latinos underground para bailar con audífonos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,329 likes - 50 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,336 likes - 50 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 | 13 | [Momoto](https://open.spotify.com/track/6zyb9XHm1RjxaeerHo8Mv5) | [Onda Mundial](https://open.spotify.com/artist/5c5oay9VCy0a9RzFw1S8Dp), [Klik & Frik](https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC) | [Momoto](https://open.spotify.com/album/3cThlPotjMGdTYVj77PXpA) | 7:39 |
 | 14 | [Cuarzo](https://open.spotify.com/track/1aIModmKDbvX4xJqBFgQv8) | [Syntrovert](https://open.spotify.com/artist/541d4y9qEGqgZBoHrR0NmA) | [Amuleto](https://open.spotify.com/album/03fMs2DjHK6n5zbDqKkGHg) | 3:35 |
 | 15 | [Individuality Riddim](https://open.spotify.com/track/5xbSiMMp6T98hJEQrUfFXX) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Individuality Riddim](https://open.spotify.com/album/2QQ714tuWG924CXN9H150s) | 6:38 |
-| 16 | [Jungla](https://open.spotify.com/track/4iS3nysui6BO2ljE6Z00yu) | [Monte](https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG) | [Mirla](https://open.spotify.com/album/2thUe8kdgLxFD6TUbCVwI7) | 3:58 |
-| 17 | [Minena](https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa) | [Ranma Entero](https://open.spotify.com/artist/779eiS92bExNWIAWxmiWIB) | [Minena](https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H) | 4:35 |
+| 16 | [Minena](https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa) | [Ranma Entero](https://open.spotify.com/artist/779eiS92bExNWIAWxmiWIB) | [Minena](https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H) | 4:35 |
+| 17 | [Jungla](https://open.spotify.com/track/4iS3nysui6BO2ljE6Z00yu) | [Monte](https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG) | [Mirla](https://open.spotify.com/album/2thUe8kdgLxFD6TUbCVwI7) | 3:58 |
 | 18 | [Sarita Colonia \- Edit](https://open.spotify.com/track/0VNtKhOQZConLZc1GjQckk) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Sarita Colonia](https://open.spotify.com/album/0ku4piLs17h4xD7e92FEf6) | 3:47 |
 | 19 | [Cheve](https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89) | [Siete Catorce](https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr) | [Cruda](https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH) | 5:29 |
 | 20 | [Sin control](https://open.spotify.com/track/4yNonlwveBYAglVu6lO4hw) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Sin control](https://open.spotify.com/album/55UvtCx5rsi1djBrqEJ7tb) | 3:46 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 | 43 | [Manila](https://open.spotify.com/track/1uo9jMH4Z3DrpPGi6jm9E4) | [Manudigital](https://open.spotify.com/artist/1EPdzkPNE9fwx1qhN4mUrH) | [Manila](https://open.spotify.com/album/7rwOOLEqFtz8cIsmW9UC91) | 3:53 |
 | 44 | [Tu Mirada](https://open.spotify.com/track/2iYy3bF7epY1Phd2ovqkbU) | [Lao](https://open.spotify.com/artist/2zDEnKW6qy7E4M9A2c2YAZ), [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2), [Santa María](https://open.spotify.com/artist/7LkizBgIzMjcQWQow29fZm) | [Tu Mirada](https://open.spotify.com/album/4orzCYGgSLcWCcFNS5CUbd) | 4:27 |
 | 45 | [Sol de Invierno](https://open.spotify.com/track/6dIbDu0GaRGODv9t7YvRnN) | [Onda Mundial](https://open.spotify.com/artist/5c5oay9VCy0a9RzFw1S8Dp), [Quixosis](https://open.spotify.com/artist/1kBj1OQBW8iSmYbxIIQgcA) | [Sol de Invierno](https://open.spotify.com/album/4LeJLxTUE07aLB6GBtYYIp) | 6:35 |
-| 46 | [Lejos](https://open.spotify.com/track/4FdJjt9xr1C8uuo8i4IxWN) | [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Shika Shika / Botanas](https://open.spotify.com/album/0lxqfF1bXMwwH2zHxHErbO) | 3:26 |
-| 47 | [Pebbles Mind Horrors](https://open.spotify.com/track/3FJQL59dUXL0Xq6dJTMXXL) | [Theus Mago](https://open.spotify.com/artist/5AmmljbTOeKJcfoTd6QCd3), [Mijo](https://open.spotify.com/artist/4cLXwxOqso1lUoR0SIk0jl), [Rocco Desentis](https://open.spotify.com/artist/6VhNyPvKFaJAzTe5sqPz89) | [Pebbles Mind Horrors](https://open.spotify.com/album/2IwGCkhGFRnn0ojOZRyESl) | 6:10 |
+| 46 | [Pebbles Mind Horrors](https://open.spotify.com/track/3FJQL59dUXL0Xq6dJTMXXL) | [Theus Mago](https://open.spotify.com/artist/5AmmljbTOeKJcfoTd6QCd3), [Mijo](https://open.spotify.com/artist/4cLXwxOqso1lUoR0SIk0jl), [Rocco Desentis](https://open.spotify.com/artist/6VhNyPvKFaJAzTe5sqPz89) | [Pebbles Mind Horrors](https://open.spotify.com/album/2IwGCkhGFRnn0ojOZRyESl) | 6:10 |
+| 47 | [Lejos](https://open.spotify.com/track/4FdJjt9xr1C8uuo8i4IxWN) | [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Shika Shika / Botanas](https://open.spotify.com/album/0lxqfF1bXMwwH2zHxHErbO) | 3:26 |
 | 48 | [Forerunner](https://open.spotify.com/track/34S6ZJ8rZqheHQxkQMwjde) | [Bertoldi](https://open.spotify.com/artist/4Li9gBuTUcIRons5AtN4yE) | [Ancient Astronauts](https://open.spotify.com/album/5H71MGGEYaVtTOCtHWZvDq) | 6:55 |
 | 49 | [Dune Dune](https://open.spotify.com/track/4pvAdTqM8fNzMK7QEjovlV) | [Iñigo Vontier](https://open.spotify.com/artist/46102Rmv7OVlBvNRnH3fj2) | [Dune Dune](https://open.spotify.com/album/4O80Saj92IWtbX9mio39oj) | 5:46 |
 | 50 | [Tiburon](https://open.spotify.com/track/4luglnusaGpm8FhNjDmMpg) | [Dany F](https://open.spotify.com/artist/4E0D8VmVgWeyOtSZozgEYV) | [Tiburon](https://open.spotify.com/album/25kGnhGZgaWHsvlrcOaYL4) | 4:54 |
 
-Snapshot ID: `MTY2MDg2NTM0OSwwMDAwMDAwMDgxNjlhMWU3ZTdjOTA4NDY1ODU3YzhkZGRkMzZhZjBh`
+Snapshot ID: `MTY2MDg2NTM0OSwwMDAwMDAwMDJkZGQ3YzQ2MDAxNzA3ZDNmYjRlNzAyMjc3ZTQxNjYy`

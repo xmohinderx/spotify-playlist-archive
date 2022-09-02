@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Joan Manuel Serrat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,437 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,543 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,12 +92,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 82 | [nana triste](https://open.spotify.com/track/7zH4rnKKGm5vACoSEXBEDe) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP), [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [nana triste](https://open.spotify.com/album/6piXewR2Si4LT96r9mUXl2) | 3:07 |
 | 83 | [Antes De Verte \(with Kevin Johansen\)](https://open.spotify.com/track/7btOWcAo8FLUCuhltFlz6v) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Cuando el Río Suena...](https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL) | 3:54 |
 | 84 | [Ahora Que Te Encuentro](https://open.spotify.com/track/6hCgPpGpAgV6ExrOj9MGXH) | [Ismael Serrano](https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34) | [La Llamada](https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21) | 7:22 |
-| 85 | [Las Cuatro y Diez](https://open.spotify.com/track/4Z8DiiAJsMFppYOf0yJSAT) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Auterretratos](https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv) | 2:37 |
-| 86 | [Un Día de Estos](https://open.spotify.com/track/0eRrshPPfWfo1sbzdsGQLq) | [Marwán](https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO) | [Apuntes Sobre Mi Paso por el Invierno](https://open.spotify.com/album/1bRyXcN5qtq5aGf0GBss1b) | 4:01 |
-| 87 | [Coyotes \- Versión en Acústico El Embarcadero](https://open.spotify.com/track/1avkjAAaGaUOSfDpiLvkFw) | [Travis Birds](https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB) | [Coyotes \(Versión en Acústico El Embarcadero\)](https://open.spotify.com/album/5orCEANMD3ajFiqMH5Og4w) | 3:50 |
-| 88 | [Lucha de gigantes \- Live](https://open.spotify.com/track/0WWSqjiV8czuWNQ05C5aXl) | [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [Básico](https://open.spotify.com/album/29MlnmVjoff9GwJQT9bTka) | 3:57 |
+| 85 | [Te Doy Una Cancion](https://open.spotify.com/track/6yGx5fJ2C6YrmZhVadd7vC) | [Silvio Rodriguez and Pablo Milanes](https://open.spotify.com/artist/182fhYiodsjX2AZnZlWWzK) | [Silvio Rodriguez y Pablo Milanes](https://open.spotify.com/album/5Dn5RWgcjL462SXPTGYF9f) | 3:10 |
+| 86 | [Las Cuatro y Diez](https://open.spotify.com/track/4Z8DiiAJsMFppYOf0yJSAT) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Auterretratos](https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv) | 2:37 |
+| 87 | [Un Día de Estos](https://open.spotify.com/track/0eRrshPPfWfo1sbzdsGQLq) | [Marwán](https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO) | [Apuntes Sobre Mi Paso por el Invierno](https://open.spotify.com/album/1bRyXcN5qtq5aGf0GBss1b) | 4:01 |
+| 88 | [Coyotes \- Versión en Acústico El Embarcadero](https://open.spotify.com/track/1avkjAAaGaUOSfDpiLvkFw) | [Travis Birds](https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB) | [Coyotes \(Versión en Acústico El Embarcadero\)](https://open.spotify.com/album/5orCEANMD3ajFiqMH5Og4w) | 3:50 |
 | 89 | [Algo contigo](https://open.spotify.com/track/5zuW9T5REjejF9tSEG0sxp) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Algo contigo](https://open.spotify.com/album/1SsMdo5QqpKYd8MSRtmDtI) | 2:50 |
-| 90 | [Te Doy Una Cancion](https://open.spotify.com/track/6yGx5fJ2C6YrmZhVadd7vC) | [Silvio Rodriguez and Pablo Milanes](https://open.spotify.com/artist/182fhYiodsjX2AZnZlWWzK) | [Silvio Rodriguez y Pablo Milanes](https://open.spotify.com/album/5Dn5RWgcjL462SXPTGYF9f) | 3:10 |
+| 90 | [Lucha de gigantes \- Live](https://open.spotify.com/track/0WWSqjiV8czuWNQ05C5aXl) | [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [Básico](https://open.spotify.com/album/29MlnmVjoff9GwJQT9bTka) | 3:57 |
 | 91 | [Aunque tú no lo sepas](https://open.spotify.com/track/2XXec5RwkNrjpBNfCjNhAv) | [Quique González](https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ) | [Ajuste de cuentas](https://open.spotify.com/album/7dzKozUpXXWYZb5ofCSLze) | 4:02 |
 | 92 | [Contigo en la Distancia](https://open.spotify.com/track/7820J99MJU42DADC6DsMfh) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c) | [Contigo En La Distancia](https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui) | 2:37 |
 | 93 | [Blue \(feat\. Jorge Drexler & Joan Manuel Serrat\) \- Diminuto Planeta Azul](https://open.spotify.com/track/1Qypv0IvYTc3pFZVVKiczs) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt), [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Civilizado Como Los Animales](https://open.spotify.com/album/3XEUOUhNrKAGvx5X5jv1lW) | 5:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 99 | [No Saben de Ti](https://open.spotify.com/track/6Rm7VmumaUGA1dAB2fWqf0) | [Andrés Suárez](https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe) | [Mi Pequeña Historia](https://open.spotify.com/album/3Z8ODAWZa7IjJkdk8EKgUz) | 3:57 |
 | 100 | [Tierra](https://open.spotify.com/track/6mR0ZA4DxvAHBihaXgI3oD) | [Xoel López](https://open.spotify.com/artist/59bV1Zv97BwGJYy6O2SvUx) | [Atlántico](https://open.spotify.com/album/0gROV7KbeA7uF7XAgHtDpX) | 3:58 |
 
-Snapshot ID: `MTY2MDkwNTE4MiwwMDAwMDAwMDFiMjAwZGJmYzUyNjM3NWE2M2I0MWVjM2VlMjE4MjFj`
+Snapshot ID: `MTY2MDkwNTE4MiwwMDAwMDAwMGZjN2RjZjE3NzJkOTYwYTk2MmJmMzY0ODJiOGM4NTI4`

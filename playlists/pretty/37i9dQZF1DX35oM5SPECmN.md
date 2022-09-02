@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35oM5SPECmN.md) - [plain]
 
 > Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,431,013 likes - 75 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,430,549 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35oM5SPECmN.md) - [plain]
 | 19 | [I NEED YOU](https://open.spotify.com/track/0RDUnNaGubiseI1W9T3YTf) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 2:37 |
 | 20 | [Not Dead Yet](https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Not Dead Yet](https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w) | 2:57 |
 | 21 | [Guiding Light](https://open.spotify.com/track/4VeCmOb1rAEZQfH7Rlms9C) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/4cKEpUZp7REMrSjd4ICCZz) | 3:37 |
-| 22 | [Wait so Long](https://open.spotify.com/track/1QesQ27kCWYTYuXJi8SApS) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Palomino](https://open.spotify.com/album/5sT4iQKiMLVJvOQKPVxn62) | 3:26 |
-| 23 | [Chateau](https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL) | 4:33 |
+| 22 | [Chateau](https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL) | 4:33 |
+| 23 | [Wait so Long](https://open.spotify.com/track/1QesQ27kCWYTYuXJi8SApS) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Palomino](https://open.spotify.com/album/5sT4iQKiMLVJvOQKPVxn62) | 3:26 |
 | 24 | [As We Ran](https://open.spotify.com/track/5ITmuvjtUUdxVQCCsaKBDx) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [As We Ran](https://open.spotify.com/album/2MeNqK7a04QJIiUgrcX97y) | 3:20 |
 | 25 | [The Way We Move](https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB) | [The Way We Move](https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7) | 2:48 |
 | 26 | [Like I Used To](https://open.spotify.com/track/1kZpYFQHUKv4xHELaaUSqP) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe), [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Like I Used To](https://open.spotify.com/album/0nRjg8p3TOmImvztpYncra) | 4:23 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35oM5SPECmN.md) - [plain]
 | 74 | [Red Bull & Hennessy](https://open.spotify.com/track/3rrzbjHWFyKcCpagbbFjrE) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [On the Line](https://open.spotify.com/album/2AHG3vkC3H7zqHbYdgCCcy) | 4:48 |
 | 75 | [Gone](https://open.spotify.com/track/5xZV3jkOFbKLH7ywEqGORA) | [The Show Ponies](https://open.spotify.com/artist/0N12PNPrehNU9PVsJMfdzi) | [We're Not Lost](https://open.spotify.com/album/3uoPG7wceVYCXEYg426Hjb) | 2:38 |
 
-Snapshot ID: `MTY0ODc1MTUzMSwwMDAwMDAwMGU5Y2RkOGFhZjY2OTY1ODY2MmNkMmU5YzQ0Zjc4MmEx`
+Snapshot ID: `MTY0ODc1MTUzMSwwMDAwMDAwMDE2NTBkNGQxNzg0MGI4ZTBjYmVhZDZmZTBmMjU3ZTQz`

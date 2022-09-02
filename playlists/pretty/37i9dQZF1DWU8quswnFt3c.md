@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women from all over the world, at full volume\. Cover: Nazia Hassan
 
-[Spotify](https://open.spotify.com/user/spotify) - 841,675 likes - 70 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 841,664 likes - 70 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 11 | [Bu İş Bitmiş](https://open.spotify.com/track/47QBRPBnTRUuuJSLcO10bh) | [Melek Mosso](https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj) | [Bu İş Bitmiş](https://open.spotify.com/album/3LvZDb9mDj0iz2sJiqbAsX) | 3:39 |
 | 12 | [Rubik](https://open.spotify.com/track/0zmmGejb5vgdfN5KFtYFfF) | [Dere](https://open.spotify.com/artist/3IvlMYb5AvKRfNt7vR8PNP) | [Rubik](https://open.spotify.com/album/0C24r2d6TZhGGGqSwFjQcc) | 2:13 |
 | 13 | [Give Me Time](https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Give Me Time](https://open.spotify.com/album/0ZRwY48ZOyL2xFE5lRWT3J) | 2:34 |
-| 14 | [sugar at the bottom](https://open.spotify.com/track/6LO0ryApQDcoL42O5o872S) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [PANORAMA](https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ) | 3:05 |
-| 15 | [Tera Nishaan](https://open.spotify.com/track/23gBGYYQcA8ivnVDj2eZxD) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Tera Nishaan](https://open.spotify.com/album/1FsGhpy3Br29xgbS1PJB4I) | 2:47 |
+| 14 | [Tera Nishaan](https://open.spotify.com/track/23gBGYYQcA8ivnVDj2eZxD) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Tera Nishaan](https://open.spotify.com/album/1FsGhpy3Br29xgbS1PJB4I) | 2:47 |
+| 15 | [sugar at the bottom](https://open.spotify.com/track/6LO0ryApQDcoL42O5o872S) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [PANORAMA](https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ) | 3:05 |
 | 16 | [Begging](https://open.spotify.com/track/771tThfRECkaHjTKb6clZx) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Begging](https://open.spotify.com/album/2YnH0BZHt58uxsgnnNeeYH) | 2:15 |
 | 17 | [Immature](https://open.spotify.com/track/2AB3ZBErbY5P9PXIrTFAb9) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/04wFsn459A8leDKrydRK56) | 2:53 |
 | 18 | [OFF/ON](https://open.spotify.com/track/1k4epQqpbGkyIm3O6bRALu) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [OFF/ON](https://open.spotify.com/album/2rbid0M6p0FaDplPh5ey6P) | 3:28 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 36 | [MARAVILLOSO \(Machu Picchu\)](https://open.spotify.com/track/6LJPpIlmgxeiJBP6AS1eh5) | [Milena Warthon](https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd) | [MARAVILLOSO \(Machu Picchu\)](https://open.spotify.com/album/6uvGQ1cg5yDn9AkPUsUVLR) | 3:02 |
 | 37 | [Bolesne kości \(Tymoteusz\) \- Single Version](https://open.spotify.com/track/64pYruY8MqdxoZBQPOs3su) | [Ofelia](https://open.spotify.com/artist/0FbccBQBb69lfv4arbt6kX) | [Bolesne kości \(Tymoteusz\)](https://open.spotify.com/album/1GE4NgUQ16GUpgKFPOhh1M) | 4:04 |
 | 38 | [Dangerous](https://open.spotify.com/track/07dQsW9w1DgUFPtcBx14BP) | [Jada](https://open.spotify.com/artist/2pobDPwk9fuzujz5YKKAVB) | [Elements](https://open.spotify.com/album/71731qzxZ81ePINkeiylQG) | 3:33 |
-| 39 | [Azadî](https://open.spotify.com/track/4C79mdd7zUzW2hVwJmJLwk) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [Azadî](https://open.spotify.com/album/6zJCr9aBd5PIt6ltumUA4O) | 3:21 |
-| 40 | [Bahagiakan Dia](https://open.spotify.com/track/4oBaBPg7nDBJfvDn3Dkzjk) | [Shila Amzah](https://open.spotify.com/artist/6lrBGrd0TJMQxfzSdPAn3X), [Liza Hanim](https://open.spotify.com/artist/0TQk8sb9bPIMKGbvbkB51O) | [Bahagiakan Dia](https://open.spotify.com/album/7bGFqrSeIEOqnljdDI4EVJ) | 3:21 |
+| 39 | [Bahagiakan Dia](https://open.spotify.com/track/4oBaBPg7nDBJfvDn3Dkzjk) | [Shila Amzah](https://open.spotify.com/artist/6lrBGrd0TJMQxfzSdPAn3X), [Liza Hanim](https://open.spotify.com/artist/0TQk8sb9bPIMKGbvbkB51O) | [Bahagiakan Dia](https://open.spotify.com/album/7bGFqrSeIEOqnljdDI4EVJ) | 3:21 |
+| 40 | [Azadî](https://open.spotify.com/track/4C79mdd7zUzW2hVwJmJLwk) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [Azadî](https://open.spotify.com/album/6zJCr9aBd5PIt6ltumUA4O) | 3:21 |
 | 41 | [各自安好](https://open.spotify.com/track/7ep5TafdBRpwCbwMciRPaU) | [Rene Liu](https://open.spotify.com/artist/6qzfo7jiO4OrhxrvPFPlWX) | [各自安好](https://open.spotify.com/album/42kIWWADJxhtXbMvfm8jO8) | 4:23 |
 | 42 | [1 Cọng Tóc Mai](https://open.spotify.com/track/5i17rzCuZfYVzoP441PXGu) | [Tóc Tiên](https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC), [Touliver](https://open.spotify.com/artist/5UNWQJdUbO8Gbg9Qn3r52M) | [1 Cọng Tóc Mai](https://open.spotify.com/album/2xDiBqg4K8nxhYDsi4Aes5) | 3:17 |
 | 43 | [heartache in july](https://open.spotify.com/track/42rTk25vRoiJUpBayPRaOR) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [born in the teens](https://open.spotify.com/album/7yrGizIEOMJb4ytbCOKhPn) | 3:13 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 52 | [Vanishing Love](https://open.spotify.com/track/63n0C5DD3gU1rUAfZ9pitu) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [Gei](https://open.spotify.com/album/2WJal4nsKHRiqSRiu8OBts) | 4:40 |
 | 53 | [Eh Para a Frente, Eh Para trás](https://open.spotify.com/track/3elqH6YbzTGQtlYdlmIbZC) | [Cláudia Pascoal](https://open.spotify.com/artist/4mgrIhoYnm5QMXkDHhPaDJ) | [Eh Para a Frente, Eh Para trás](https://open.spotify.com/album/3srSDFJhgwBetFxmT1nvgM) | 3:31 |
 | 54 | [الوردة البيضا](https://open.spotify.com/track/506DZmhqvdH9574i9S5g5x) | [Zena Emad](https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH) | [الوردة البيضا](https://open.spotify.com/album/2QsEDwrvsdqTbHXfOmdkGO) | 3:57 |
-| 55 | [Plastic Flowers](https://open.spotify.com/track/733EegAvi6DRptoJSTc2mF) | [Lenny](https://open.spotify.com/artist/2KRtorIOtz60uFtab8N89y) | [Plastic Flowers](https://open.spotify.com/album/1ED0peXhq1bvjLKVNMbWL6) | 2:36 |
-| 56 | [it keeps on raining](https://open.spotify.com/track/0z422bE04PCpYL5r998aWp) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [can you see me?](https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE) | 3:22 |
+| 55 | [it keeps on raining](https://open.spotify.com/track/0z422bE04PCpYL5r998aWp) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [can you see me?](https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE) | 3:22 |
+| 56 | [Plastic Flowers](https://open.spotify.com/track/733EegAvi6DRptoJSTc2mF) | [Lenny](https://open.spotify.com/artist/2KRtorIOtz60uFtab8N89y) | [Plastic Flowers](https://open.spotify.com/album/1ED0peXhq1bvjLKVNMbWL6) | 2:36 |
 | 57 | [Hate You](https://open.spotify.com/track/20DTxZFaXhUWsnWFRmWgya) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [Hate You](https://open.spotify.com/album/62IzaVIraFlR3BZQBBqwk0) | 3:24 |
 | 58 | [Call Mi](https://open.spotify.com/track/2nYYjc3qevJl4pd1XXVhcg) | [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [なかむらみなみ](https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq), [Serocee](https://open.spotify.com/artist/6eccR9J1A0lXF0AFvj5JO9), [Sweetie Irie](https://open.spotify.com/artist/0iUw5KL7NRlfKK3tZJNK9b), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Call Mi](https://open.spotify.com/album/0tbVf3hH9dl7nH7ExGKrAA) | 3:15 |
 | 59 | [Casa](https://open.spotify.com/track/0qCy54FENC3CPqOSMjHzPw) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Chao](https://open.spotify.com/album/50NOVmSzpApZluUtVSv1Tz) | 4:18 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 69 | [سم فالكاندي](https://open.spotify.com/track/7qk1ioFJUp5wNzPtSvi2E3) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [سم فالكاندي](https://open.spotify.com/album/7j5yTR9UnX8gVfOJ8OdqCo) | 2:27 |
 | 70 | [TYF](https://open.spotify.com/track/3YGklnT5auf8CCLCbvAgFJ) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [TYF](https://open.spotify.com/album/09LrimhS4xCJCyqsz9CMhA) | 3:33 |
 
-Snapshot ID: `MTY1OTUyNjk4MSwwMDAwMDAwMGI2ZmU1ZmExMjQ2OThkYjdjMTY0YmE4YzdjN2IyOWVh`
+Snapshot ID: `MTY1OTUyNjk4MSwwMDAwMDAwMDEyMmQ3NTFmYzE2NWNjYjlhMDkwOTg1NzJkNWZkNzAx`

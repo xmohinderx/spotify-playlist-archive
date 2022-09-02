@@ -4,7 +4,7 @@
 
 > living life in your 250 sq ft micro apt\. Cover: Hailee Steinfeld
 
-1,247 songs - 2 day 16 hr 30 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
+1,249 songs - 2 day 16 hr 36 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -529,7 +529,7 @@
 | [Hot One](https://open.spotify.com/track/7fKF8XH5PkhbRcYC6h3AEL) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [Hot One](https://open.spotify.com/album/0eLCiZEois6hUbUao44vi9) | 2:56 | 2022-01-07 | 2022-05-20 |
 | [hours](https://open.spotify.com/track/50fOAzCbELUmkFWgbrdW7C) | [again&again](https://open.spotify.com/artist/3CIq9N0VQGWfBpCAMzMZZN) | [hours](https://open.spotify.com/album/5VHlWqRmzCGaFgw6yokx6L) | 3:01 | 2020-08-11 | 2021-11-10 |
 | [House On Fire](https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [House On Fire](https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL) | 2:20 | 2022-02-18 |  |
-| [House With A View](https://open.spotify.com/track/7cm6zfcgKmweLjnSu3aSbo) | [Cyn](https://open.spotify.com/artist/0lPhSdyfILTWuDUWJRyAk7) | [House With A View](https://open.spotify.com/album/5I7BLayLBeaLMNz8YumFtM) | 2:24 | 2022-07-15 |  |
+| [House With A View](https://open.spotify.com/track/7cm6zfcgKmweLjnSu3aSbo) | [Cyn](https://open.spotify.com/artist/0lPhSdyfILTWuDUWJRyAk7) | [House With A View](https://open.spotify.com/album/5I7BLayLBeaLMNz8YumFtM) | 2:24 | 2022-07-15 | 2022-09-02 |
 | [how dare you](https://open.spotify.com/track/0f7h8DgzukjvZdOuhkpJXS) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [how dare you](https://open.spotify.com/album/4566kk0rsYdfQwpQNXviNv) | 2:57 | 2022-07-22 | 2022-08-13 |
 | [how deep?](https://open.spotify.com/track/0VcWp30A3hSJrPjdDEHeNE) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [how deep?](https://open.spotify.com/album/4vaxABro6oVySHD5okB7QE) | 2:34 | 2022-08-26 |  |
 | [How Do I Lose You](https://open.spotify.com/track/3WfYixI3jzbnSsWQcpNfiV) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [How Do I Lose You](https://open.spotify.com/album/7zbQTjsJtXUEGBPemTgmiO) | 3:02 | 2022-08-12 |  |
@@ -636,6 +636,7 @@
 | [Lavender Forever](https://open.spotify.com/track/3LlvRrcCyEGfI88ztZQM5r) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Lavender Forever](https://open.spotify.com/album/0lXxR8m9ZxXlxl8DLinruW) | 2:54 | 2022-03-25 | 2022-08-30 |
 | [Lay With Me](https://open.spotify.com/track/4eRnjMbEJoPnubKETJcVW9) | [Moontower](https://open.spotify.com/artist/56y2IdpRthuW4pDZbqwjlz) | [Lay With Me](https://open.spotify.com/album/1Hf4T66JiTrR2b1KZAueUx) | 4:06 | 2019-05-26\* | 2019-09-14 |
 | [Learn To Fly](https://open.spotify.com/track/518miTxc3a15X7HB8FgJUW) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Learn To Fly \(with Elton John\)](https://open.spotify.com/album/0smKCfZ1XlApoqIg3AG3Dc) | 3:29 | 2020-06-13 | 2021-11-10 |
+| [Leave It On The Dancefloor](https://open.spotify.com/track/30ae9cv36eD4Q6Zc8PVF8v) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Leave It On The Dancefloor](https://open.spotify.com/album/07Vt92F3DMX0GHMKSJ6A3o) | 2:55 | 2022-08-26 |  |
 | [Left Behind the Gold](https://open.spotify.com/track/4A4CtC81IjGggqfneGnITU) | [Cards](https://open.spotify.com/artist/5hzb5m0WYwl0w2495YeGwX), [TxTHEWAY](https://open.spotify.com/artist/1G8r1xxQVLm8AXRI2iohhe) | [Left Behind the Gold](https://open.spotify.com/album/6ptpKNSmI65gl5GVPAX2YW) | 2:29 | 2019-05-26\* | 2021-02-13 |
 | [Lego Blocks](https://open.spotify.com/track/01RJQlTi0aR0syDcSFLzTv) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Lego Blocks](https://open.spotify.com/album/1z6yLxp8En102543kFdidP) | 2:39 | 2022-05-27 |  |
 | [Lemon Pie](https://open.spotify.com/track/2Vu3UVGetUxGgDQdP1um06) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [Lemon Pie](https://open.spotify.com/album/2o2iiS4QKEXrblmIMrJ4cn) | 3:15 | 2019-08-24 | 2020-01-16 |
@@ -669,6 +670,7 @@
 | [Living](https://open.spotify.com/track/7zJxChdtfJFwVCCnF2YWvS) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Living](https://open.spotify.com/album/71WzlDb4sKJlvbakA9qRcR) | 3:58 | 2021-02-23 | 2021-10-12 |
 | [living far away](https://open.spotify.com/track/3LI67DuBMjlhVeg5Z50nHi) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [living far away](https://open.spotify.com/album/0uhIHWuzEYVDrANrfclLzj) | 2:58 | 2021-05-11 | 2021-10-14 |
 | [LMK](https://open.spotify.com/track/0efL46uAuNEfukXQYsbPlX) | [Lil Xxel](https://open.spotify.com/artist/7iDeMFJKjI1ak40N3hoYOZ) | [LMK](https://open.spotify.com/album/7J4rvxMkuQ2JZSVEdK4iTq) | 3:08 | 2020-06-12 | 2020-09-25 |
+| [Lock&Key](https://open.spotify.com/track/7xpdg8CYqEj9khHJECllMm) | [Lolahol](https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn) | [Lock&Key](https://open.spotify.com/album/1lN9DhBjJz4CBLa2vRT3jo) | 2:57 | 2022-08-26 |  |
 | [Lola](https://open.spotify.com/track/5VDmaEUjH0SGBDDjYgoxHW) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Lola](https://open.spotify.com/album/5U2Q1Z8FtcW5UPXKLK5753) | 2:41 | 2022-04-08 | 2022-06-25 |
 | [lonely sex](https://open.spotify.com/track/3obD0yemL7j32m0IwBMEZo) | [raspy](https://open.spotify.com/artist/1trffosn0Alk3IlloOD5O8) | [lonely sex](https://open.spotify.com/album/3YQoxdh5FbsEW249EfPgWR) | 3:44 | 2021-04-20 | 2021-10-16 |
 | [Long Beach](https://open.spotify.com/track/6tqIes4TjudsjfIpK4P2Jh) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Hello O'shay](https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp), [Alex Banin](https://open.spotify.com/artist/2fTTmPI3XaJwqM19w5QiRz) | [EVERYTHING](https://open.spotify.com/album/0cMxALtiABnT1kIuA1wgsQ) | 4:12 | 2021-02-25 | 2021-11-20 |
@@ -1245,7 +1247,7 @@
 | [Worst Thing](https://open.spotify.com/track/1hETByUz0ynel44jvTOkdt) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [Worst Thing](https://open.spotify.com/album/3CVVkF4c5r0Cz9rVb02FoT) | 2:38 | 2022-05-13 |  |
 | [WTF](https://open.spotify.com/track/7mYrw8DN9vDg1c5qqpDboC) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [WTF](https://open.spotify.com/album/5LDEHT3uGE4kS5BbbhiPTO) | 3:02 | 2022-03-18 | 2022-04-09 |
 | [Xbox Luvr](https://open.spotify.com/track/23FuLOumEHvyswN9fp6Owy) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Xbox Luvr](https://open.spotify.com/album/5Kv6P3Ln0Q6RvPFZYCzyi2) | 2:56 | 2021-05-03 | 2021-11-19 |
-| [XO](https://open.spotify.com/track/185Q9qHtxrovV2fA09XjAw) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [XO](https://open.spotify.com/album/47kPcIMjftKm7S60GDFAQM) | 3:32 | 2022-06-24 |  |
+| [XO](https://open.spotify.com/track/185Q9qHtxrovV2fA09XjAw) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [XO](https://open.spotify.com/album/47kPcIMjftKm7S60GDFAQM) | 3:32 | 2022-06-24 | 2022-09-02 |
 | [Y.T.D\. \(Year to Date\)](https://open.spotify.com/track/1i7HGIitl7DPPfNtDzT2xr) | [Madeline](https://open.spotify.com/artist/3u5FXThTL9t0pv8PhUCElb) | [Y.T.D\. \(Year to Date\)](https://open.spotify.com/album/4aY7uX3jK3IVCr2NdjvQmF) | 3:18 | 2022-03-18 | 2022-05-14 |
 | [Year of the Ex](https://open.spotify.com/track/5m1Wm07bfb58sEWw7wosy7) | [Call Me Loop](https://open.spotify.com/artist/6NEekR0i3JC1r4BntSjskE) | [Year of the Ex](https://open.spotify.com/album/3zT0wDFGo5yeKwyGvEc41e) | 3:04 | 2022-01-14 | 2022-03-12 |
 | [YOU AGAINST YOURSELF](https://open.spotify.com/track/3Cozx0ZC9RjHOPhW8VOdXC) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [YOU AGAINST YOURSELF](https://open.spotify.com/album/4ICdRtrHEOUftxkU4inMc5) | 2:26 | 2022-08-19 |  |

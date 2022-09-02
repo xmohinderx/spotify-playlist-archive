@@ -4,7 +4,7 @@
 
 > A collection of the best metal ballads.
 
-247 songs - 20 hr 57 min - [published](https://open.spotify.com/playlist/2c4OCmgadzEHr3ZwZYA4VJ)
+248 songs - 21 hr 1 min - [published](https://open.spotify.com/playlist/2c4OCmgadzEHr3ZwZYA4VJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Tale That Wasn't Right](https://open.spotify.com/track/6Fd53Af2royyl5btFfgzlB) | [Helloween](https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY) | [Keeper of the Seven Keys, Pt\. I \(Expanded Edition\)](https://open.spotify.com/album/2UHFdmz05GmEY0J0ZbuMBp) | 4:43 | 2022-04-15 |  |
 | [A Tout Le Monde \- Remastered 2004](https://open.spotify.com/track/6olS0TmHmsGr0hXtcBsiVM) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Youthanasia \(Expanded Edition\)](https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob) | 4:22 | 2022-04-15 |  |
 | [All on the Line \(Acoustic Version\)](https://open.spotify.com/track/0yJxgpSUFqkZCKlrg0mjs4) | [Adrenaline Mob](https://open.spotify.com/artist/1OiOWEQ9miUl9QbCX5JNza) | [Dearly Departed](https://open.spotify.com/album/5Wk6mSHON4ijJbo72pMOwQ) | 5:05 | 2022-04-15 | 2022-07-14 |
+| [Alone Again](https://open.spotify.com/track/1j06ieEC2BOCM0fTmYhn2l) | [Dokken](https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq) | [Tooth and Nail](https://open.spotify.com/album/0opFMR8DprHzu1nPHhoHuL) | 4:22 | 2022-04-15 |  |
 | [Alone Again \- 2006 Remaster](https://open.spotify.com/track/2CURikRfaKPervqY62sYxw) | [Dokken](https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq) | [Rhino Hi\-Five: Dokken](https://open.spotify.com/album/1vSlhlbh0SW0OBMz4qkNVc) | 4:22 | 2022-04-15 | 2022-07-29 |
 | [Always](https://open.spotify.com/track/2RChe0r2cMoyOvuKobZy44) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Cross Road](https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m) | 5:53 | 2022-04-15 |  |
 | [Always](https://open.spotify.com/track/4JAJV4D2902ZQL4A63Q2fe) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Cross Road](https://open.spotify.com/album/6ltCtxmCcZrkuqpmUwmCq4) | 5:53 | 2022-04-15 | 2022-07-29 |
@@ -82,7 +83,7 @@
 | [God Was Never on Your Side](https://open.spotify.com/track/3zeQSYzaN9kLVypKWr6yUi) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Kiss of Death](https://open.spotify.com/album/4syGSCBIzJWYQB15Msvn1y) | 4:21 | 2022-04-15 |  |
 | [Gone Away](https://open.spotify.com/track/57nTFMsSiVATCDPZm9JF4S) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/440w9VaZP1M7FnfMdHapR3) | 4:35 | 2022-04-15 |  |
 | [Gone Away](https://open.spotify.com/track/73P5wYuZ1bsz0ZjsZiaSw2) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/2IA9d7atwNgtiS6Tpv9WKt) | 4:35 | 2022-04-15 | 2022-07-28 |
-| [Guns Are Loaded](https://open.spotify.com/track/2SZF3qH7XF7205oNaeEs49) | [Daron Malakian and Scars On Broadway](https://open.spotify.com/artist/5vbtZfRJjn2QLhPhtYpiqi) | [Dictator](https://open.spotify.com/album/4cUVZzT8zNBkHjBfd4WiWS) | 4:16 | 2022-04-15 |  |
+| [Guns Are Loaded](https://open.spotify.com/track/2SZF3qH7XF7205oNaeEs49) | [Daron Malakian and Scars On Broadway](https://open.spotify.com/artist/5vbtZfRJjn2QLhPhtYpiqi) | [Dictator](https://open.spotify.com/album/4cUVZzT8zNBkHjBfd4WiWS) | 4:16 | 2022-04-15 | 2022-09-02 |
 | [Hard Luck Woman](https://open.spotify.com/track/0UBURW2bWwn8bSWtU53444) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Rock And Roll Over \(Remastered Version\)](https://open.spotify.com/album/0SnCUvff87FWw0m9Lxp51D) | 3:34 | 2022-04-15 | 2022-07-29 |
 | [Hard Luck Woman](https://open.spotify.com/track/1vcZBUX6P6FHXzG2mUfmCE) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Rock And Roll Over](https://open.spotify.com/album/6722nY178mLes49GPldnjj) | 3:34 | 2022-04-15 |  |
 | [Have You Ever Needed Someone So Bad](https://open.spotify.com/track/0nf9RjoFTcOzTIXtmzhRuH) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Adrenalize \(Deluxe\)](https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M) | 5:24 | 2022-04-15 |  |

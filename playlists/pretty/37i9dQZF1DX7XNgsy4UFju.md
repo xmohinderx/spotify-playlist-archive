@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > Home to all the latest indie jams\. Cover: Djo
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,652 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,668 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 5 | [Twin Flame](https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Twin Flame](https://open.spotify.com/album/1SzuRFxlqSZTIWUEE587Oy) | 3:52 |
 | 6 | [THREAT](https://open.spotify.com/track/3mWUqIz228lrdC5ZSkpjUG) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [THREAT](https://open.spotify.com/album/3fK4ZsyiwR1SICiufV1woO) | 2:50 |
 | 7 | [Orpheus](https://open.spotify.com/track/3nDlV6GuRRKqT3nK3nSwtM) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Orpheus](https://open.spotify.com/album/10sEnr5iBhFt3WXYJEaKG1) | 3:37 |
-| 8 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi) | 2:21 |
+| 8 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/0GxWXE6ltKk4Gx3WyWLLrW) | 2:21 |
 | 9 | [Endlessly](https://open.spotify.com/track/4VUXAoJESfRV3ceUYtzfpQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 2:34 |
 | 10 | [So Typically Now](https://open.spotify.com/track/1IafXP9REln2SxcNXOCIDS) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [So Typically Now](https://open.spotify.com/album/30O790HefaQ8ppnxtHYUNc) | 3:15 |
 | 11 | [All You Do](https://open.spotify.com/track/3TR91cx8KHmuT6w54Zv3TZ) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [All You Do](https://open.spotify.com/album/1Gl26ZjmMEOZdutBjxiTCd) | 4:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [Spitting Off the Edge of the World](https://open.spotify.com/track/3kBBjItT7JnKi28k68dGkr) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Spitting Off the Edge of the World](https://open.spotify.com/album/1Jkvi8YFy8FpDK23tTlrhG) | 4:17 |
 | 100 | [No Peace](https://open.spotify.com/track/7g9pjsFLAC7inzCzZjaGHX) | [The Burning Hell](https://open.spotify.com/artist/09kohMK0MSHgpmKWiQeQ5E) | [Garbage Island](https://open.spotify.com/album/0J0edEr0oiC9D2EvzJFDKX) | 4:38 |
 
-Snapshot ID: `MTY2MTg5MTk1NCwwMDAwMDAwMDMwODdhYmU5YTc0ZjJmMjI4ZWM1NjlmN2EzMDU0M2Iw`
+Snapshot ID: `MTY2MTg5MTk1NCwwMDAwMDAwMDIwMjhmMDRhNWUyYjgwYzY5ODhjNzhkZjllMmVmZGVm`

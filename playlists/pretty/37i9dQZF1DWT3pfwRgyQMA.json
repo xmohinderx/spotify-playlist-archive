@@ -1,12 +1,12 @@
 {
   "description": "Walk down memory lane with the biggest rock anthems.",
-  "num_followers": 498337,
+  "num_followers": 498052,
   "original_name": "Songs We Rocked Out To",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk2NTIwMCwwMDAwMDAwMDgwYzFlZjk5MzAwZGVkMzE4NDBhNjg3OTVkMWM1Mjgx",
+  "snapshot_id": "MTY2MTk2NTIwMCwwMDAwMDAwMDM5ZjBjMjRlNTg4OTNiODg2MjFmYjMzMzFjNThlYzNi",
   "tracks": [
     {
       "added_at": "2022-08-23 23:56:36",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-08-23 23:56:36",
       "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 244506,
-      "name": "Complicated",
-      "url": "https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F"
-    },
-    {
-      "added_at": "2022-08-23 23:56:36",
-      "album": {
         "name": "Vol. 3: The Subliminal Verses",
         "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 252613,
       "name": "Duality",
       "url": "https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3"
+    },
+    {
+      "added_at": "2022-08-23 23:56:36",
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 244506,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F"
     },
     {
       "added_at": "2022-08-23 23:56:36",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-08-23 23:56:36",
       "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 258826,
-      "name": "Say It Ain't So",
-      "url": "https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA"
-    },
-    {
-      "added_at": "2022-08-23 23:56:36",
-      "album": {
         "name": "Only By The Night",
         "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 230760,
       "name": "Use Somebody",
       "url": "https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2"
+    },
+    {
+      "added_at": "2022-08-23 23:56:36",
+      "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 258826,
+      "name": "Say It Ain't So",
+      "url": "https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA"
     },
     {
       "added_at": "2022-08-23 23:56:36",

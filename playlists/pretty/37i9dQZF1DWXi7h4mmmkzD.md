@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi7h4mmmkzD.md) - [plain]
 
 > Tyler Hubbard is taking over to celebrate his new smash "Dancin' In The Country"!
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,547 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,002 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi7h4mmmkzD.md) - [plain]
 | 38 | [Drink In My Hand](https://open.spotify.com/track/1cktZnxiONH0hR6Q3DKy8h) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Chief](https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF) | 3:11 |
 | 39 | [Die A Happy Man](https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Tangled Up](https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy) | 3:47 |
 | 40 | [Good Time](https://open.spotify.com/track/6lyKOW0FNW6aAZdKVgoM8m) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Good Time](https://open.spotify.com/album/3HfbZ0TmLbCesnG7tjf6Lh) | 5:06 |
-| 41 | [American Kids](https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [The Big Revival](https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam) | 3:02 |
-| 42 | [Somebody Like That](https://open.spotify.com/track/3hboOw4dS0aXGuP0fyyvbC) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Love, Heartbreak, & Everything in Between](https://open.spotify.com/album/1H7PmO9d4fsHghlYXDRlWG) | 3:18 |
+| 41 | [Somebody Like That](https://open.spotify.com/track/3hboOw4dS0aXGuP0fyyvbC) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Love, Heartbreak, & Everything in Between](https://open.spotify.com/album/1H7PmO9d4fsHghlYXDRlWG) | 3:18 |
+| 42 | [American Kids](https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [The Big Revival](https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam) | 3:02 |
 | 43 | [Head Over Boots](https://open.spotify.com/track/4ly1QBXEwYoDmje9rmEgC4) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [California Sunrise](https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ) | 3:22 |
 | 44 | [House Party](https://open.spotify.com/track/1TwLKNsCnhi1HxbIi4bAW0) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 3:10 |
 | 45 | [One Of Them Girls](https://open.spotify.com/track/14GwnOeC9qYEKEA6uOZepa) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [One Of Them Girls](https://open.spotify.com/album/42Rl6aaMTG6EgYxzjP41qp) | 3:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi7h4mmmkzD.md) - [plain]
 | 99 | [Talladega](https://open.spotify.com/track/1TKlBK9cSrM5u4CiL4SETS) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [The Outsiders](https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj) | 4:22 |
 | 100 | [T\-Shirt](https://open.spotify.com/track/1zWZvrk13cL8Sl3VLeG57F) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Tangled Up](https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy) | 3:47 |
 
-Snapshot ID: `MTY2MDg4MTcyMCwwMDAwMDAwMGI5OWVlYTFhMzdiOWVlOTdmYmZhYWViMDUwZjE5ZDgw`
+Snapshot ID: `MTY2MDg4MTcyMCwwMDAwMDAwMDg0ZjYxODhlNWI4Y2RjYmFkNDc0NTJkZTRmNzAzMDRj`

@@ -4,7 +4,7 @@
 
 > Maskandi favourites for every day of the week\. Cover: <a href="https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP?si=1cAhcaANREyS\-wXav9tJWA">Phuzekhemisi</a>
 
-68 songs - 5 hr 33 min - [published](https://open.spotify.com/playlist/7MknMC7DjPGcBYDazt2RIC)
+73 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/7MknMC7DjPGcBYDazt2RIC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Emkhathini](https://open.spotify.com/track/0VaIf3loFYGRl9pVlnsYRL) | [Shwi noMtekhala](https://open.spotify.com/artist/3u7RxCpLc0QpXX6wiVWKZ6), [Maphungula](https://open.spotify.com/artist/7bbXvPy5gAzivkwv5oRJI8) | [Emkhathini](https://open.spotify.com/album/43GsmX58ZoBRLv1R4UZiCd) | 5:34 | 2019-09-24 |  |
 | [Endumisweni](https://open.spotify.com/track/0FVJjE94m2bq1IUIF5NdZ3) | [Bhekumuzi Luthuli](https://open.spotify.com/artist/2olZnrkMJFY0BnGZM7vWMV) | [Igazi Lami](https://open.spotify.com/album/46cbUWGAf5JyhnxL31znQQ) | 4:25 | 2018-09-25 | 2022-07-29 |
 | [Endumisweni](https://open.spotify.com/track/1UGcDqgMa0H0p8vODceY86) | [Bhekumuzi Luthuli](https://open.spotify.com/artist/2olZnrkMJFY0BnGZM7vWMV) | [Gospel Hits](https://open.spotify.com/album/2kT2AwbhhzjQ6AlvBXo936) | 4:25 | 2018-09-25 |  |
+| [Eshu Wesokalami](https://open.spotify.com/track/6UFkLF40TBGfVFry7LXSxJ) | [Menzi](https://open.spotify.com/artist/0PIYUjDZszDZSZGLhYvmyZ) | [Intencane](https://open.spotify.com/album/7doGg6TOO86pTXiyploISV) | 3:51 | 2022-09-01 |  |
 | [Eyokuza](https://open.spotify.com/track/6gJVTJap7XXAPY3qJKoAY4) | [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3) | [EYOKUZA](https://open.spotify.com/album/65vZAeZNfrcfztUfYuyoWS) | 4:31 | 2020-10-20 |  |
 | [Ijele](https://open.spotify.com/track/2OYomh3wz8TWpfnQKxua2F) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs), [Luve Dubazane](https://open.spotify.com/artist/2qn1ZfGigw6BNbf2MNuEJc) | [Ispoki Esingafi](https://open.spotify.com/album/3riM8V5qRqXKn09JuWHcAu) | 4:29 | 2021-01-14 |  |
 | [Ikhotha Eyikhothayo](https://open.spotify.com/track/3NMCy2Oi6rNDeddoxCTqnM) | [Abagqobhi](https://open.spotify.com/artist/7eigkjZtpAoOSfWfif1qxK) | [Inunu Engafi](https://open.spotify.com/album/1eWFVrvhJw2B87pKyGdl4k) | 4:47 | 2018-09-25 |  |
@@ -36,8 +37,11 @@
 | [Inhlinini Yoxolo](https://open.spotify.com/track/3ZhOsB846LguxIkDASb6Rb) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs) | [Inhlinini Yoxolo \(Pt\. 2\)](https://open.spotify.com/album/25HvxLDw1saTfEoFQ6Rfxj) | 9:00 | 2019-01-06 |  |
 | [Inhliziyo Yami](https://open.spotify.com/track/3AMnrGFsUlrcY8ig6ASidM) | [Abafana Baka Mahawukela](https://open.spotify.com/artist/6WiOCqFw2OVO8d9SfMUeYp) | [Ungubani Wena](https://open.spotify.com/album/2srpkMeXj6atimRUTmMdv5) | 4:08 | 2019-05-02 |  |
 | [Inkomo Yomqoyiso](https://open.spotify.com/track/0duUpsKlfu6RNHWH5q0diF) | [Ichwane Lebhaca](https://open.spotify.com/artist/6dUPVcKOAhdgjkmgDwy6uh) | [Amagupta](https://open.spotify.com/album/4faFI6JoeU4nCK89d8Ul0b) | 4:56 | 2020-08-28 |  |
+| [Intencane](https://open.spotify.com/track/0BYurynEYtSmwyuAMX07KR) | [Menzi](https://open.spotify.com/artist/0PIYUjDZszDZSZGLhYvmyZ) | [Intencane](https://open.spotify.com/album/7doGg6TOO86pTXiyploISV) | 4:12 | 2022-09-01 |  |
 | [Inzondo](https://open.spotify.com/track/3jmv4dhLatPanmC4lX7JaE) | [IZINGANE ZOMA](https://open.spotify.com/artist/1fa6d4xSwQWEhmp0MwKw61) | [The Best Of Traditional South African Music](https://open.spotify.com/album/5r48JyMk448sZ5OGopjfcx) | 3:23 | 2018-09-25 |  |
+| [Inzondo](https://open.spotify.com/track/66grkST08OIuorHMGsGwR6) | [IZINGANE ZOMA](https://open.spotify.com/artist/1fa6d4xSwQWEhmp0MwKw61) | [Isidina Sikamahlalela](https://open.spotify.com/album/7M3Zi8eUaeFxhC5JzGMfRX) | 3:25 | 2022-09-01 |  |
 | [Ishende](https://open.spotify.com/track/4gbkKnzwQdS7dEv5lWHVQO) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs) | [Inhlinini Yoxolo](https://open.spotify.com/album/2gkiXVfyva2aEfJiiRbQry) | 4:29 | 2018-11-04 |  |
+| [Isifebe Sendoda](https://open.spotify.com/track/6KHZvYCSRscmHSixg8cs26) | [IZINGANE ZOMA](https://open.spotify.com/artist/1fa6d4xSwQWEhmp0MwKw61) | [Msholozi](https://open.spotify.com/album/6E93uMai7s84xFzTux1dp9) | 4:20 | 2022-09-01 |  |
 | [Isilingo](https://open.spotify.com/track/5Df0fXk01kB3ZgVPg3uwmk) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs) | [Inhloko Nes'xhanti](https://open.spotify.com/album/6uKsbOxDnGwYTfdVp2qIuP) | 3:40 | 2020-01-13 |  |
 | [Isingqazu Sami](https://open.spotify.com/track/0wg9dKX6zfOVy3A53osxIS) | [Inxakanxaka](https://open.spotify.com/artist/43DNa0M6aCPjeWTVIL7x80) | [Isingqazu Sami](https://open.spotify.com/album/4pGIADaXRBnuRRWBs7QAdG) | 5:09 | 2019-11-18 |  |
 | [Izihlwele](https://open.spotify.com/track/6iFCyBOk9UTRNgb7Oz2oKg) | [Bahubhe](https://open.spotify.com/artist/2pisTvrJlAr0NTxvXOuLOv) | [Izihlwele](https://open.spotify.com/album/5LAxoXLEgCyptZpryTXcSs) | 5:00 | 2018-09-25 |  |
@@ -65,6 +69,7 @@
 | [Thenjiwe](https://open.spotify.com/track/75aBCMT86TKSlEgpIz1tT9) | [Mfiliseni Magubane](https://open.spotify.com/artist/3b9PzSL6PxZRA6k4Dqmajs) | [Izwe Lihle Ngabantu](https://open.spotify.com/album/5RFD1wyMiFxwFTqxs9UX0i) | 4:45 | 2018-09-25 |  |
 | [Thuma Mina Baba](https://open.spotify.com/track/1fbiyYNG1LfWyTksDcgEEH) | [Shwi No Mtekhala](https://open.spotify.com/artist/0hqM2qppNBOvYYQ36FsdBq) | [Angimazi Ubaba](https://open.spotify.com/album/497oVjt1dseOC4GOzEtHiK) | 4:10 | 2018-09-25 |  |
 | [Thuma mina baba](https://open.spotify.com/track/6EWALyShL2Ho7YW1pKfhsv) | [Shwi No Mtekhala](https://open.spotify.com/artist/0hqM2qppNBOvYYQ36FsdBq) | [Angimazi ubaba](https://open.spotify.com/album/3bnl8oEQHcYwzDR9kC6IBE) | 4:10 | 2018-09-25 | 2022-07-29 |
+| [Ubhuti Wabantu](https://open.spotify.com/track/30hNrNo7QjfXkwKT3AvNPU) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs), [Sphesihle Zulu](https://open.spotify.com/artist/2Q87XMh9dkkI1FOG9uCeCG) | [Ispoki Esingafi](https://open.spotify.com/album/3riM8V5qRqXKn09JuWHcAu) | 5:06 | 2022-09-01 |  |
 | [Ukuganwa](https://open.spotify.com/track/3KagxTKp5nodR1hUIHardA) | [Mfaz' Omnyama](https://open.spotify.com/artist/0JQAeDYaigl5nor0kUP44X) | [Ngiyashisa Bhe!!](https://open.spotify.com/album/0HGeXxPm0xeqMorXQXSczL) | 4:54 | 2018-11-04 |  |
 | [Ukuthanda Izinto](https://open.spotify.com/track/2DqL1bQTQVvVDnT16iQq7z) | [Bobo Mfana Wepiki](https://open.spotify.com/artist/6kcl74RDRgeHTx1Dj07NQt) | [Angiseyona Itype Yakho](https://open.spotify.com/album/4N6uYvCf4TgK5kAopt1RqQ) | 5:40 | 2018-09-25 |  |
 | [Usale Kanjani](https://open.spotify.com/track/09A0kWUU4t0LshuBfe9X02) | [Thokozani Langa](https://open.spotify.com/artist/3OzpSgLEiIAVGjVRU03o99) | [Inganekwane](https://open.spotify.com/album/3x8Eikp83UT8OoCmg57dJD) | 5:18 | 2018-09-25 | 2022-07-29 |

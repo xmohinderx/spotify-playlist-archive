@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX. Foto: Big Soto, Be\u00e9le",
-  "num_followers": 55153,
+  "num_followers": 55151,
   "original_name": "Urbano Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMDgwNTEwYTRmMmI1ZWYwNDc0ZWQ4ZGRlOTA2YjM2ZDhh",
+  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMDQ0MDhjYWJhZGE2ZDI4MmY1OTcyZGY0Zjc2MGIwMzNl",
   "tracks": [
     {
       "added_at": "2022-08-26 04:02:00",
@@ -103,26 +103,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Mejor Sola",
-        "url": "https://open.spotify.com/album/3TI2wvsbQINrmuV5CIXwWH"
-      },
-      "artists": [
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 230776,
-      "name": "Mejor Sola",
-      "url": "https://open.spotify.com/track/5bpklP2B9Nlj5BO90RuCyA"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "Charles Ans x Neto Pe\u00f1a x Yoss Bones - LQRA Session #5",
         "url": "https://open.spotify.com/album/6fEbvdp7RK0pfoeHiJ2r8a"
       },
@@ -147,6 +127,26 @@
       "duration_ms": 308000,
       "name": "Charles Ans x Neto Pe\u00f1a x Yoss Bones - LQRA Session #5",
       "url": "https://open.spotify.com/track/1YVyKeuVEhIGNTdhNjbREI"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Mejor Sola",
+        "url": "https://open.spotify.com/album/3TI2wvsbQINrmuV5CIXwWH"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "duration_ms": 230776,
+      "name": "Mejor Sola",
+      "url": "https://open.spotify.com/track/5bpklP2B9Nlj5BO90RuCyA"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -263,6 +263,26 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
+        "name": "Pa' Eso Se Hizo",
+        "url": "https://open.spotify.com/album/5pZsQEEC6uSa7zvJst7tSN"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        }
+      ],
+      "duration_ms": 149600,
+      "name": "Pa' Eso Se Hizo",
+      "url": "https://open.spotify.com/track/1LdMkXElKMDTB8mvgyvTKe"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
         "name": "Las de Octubre",
         "url": "https://open.spotify.com/album/2w7wYFGBsvJJoUxQb8y1Td"
       },
@@ -295,26 +315,6 @@
       "duration_ms": 228214,
       "name": "Mal Mal Mal",
       "url": "https://open.spotify.com/track/4ejRdkyeBOCiiBwXRZPywX"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Pa' Eso Se Hizo",
-        "url": "https://open.spotify.com/album/5pZsQEEC6uSa7zvJst7tSN"
-      },
-      "artists": [
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        }
-      ],
-      "duration_ms": 149600,
-      "name": "Pa' Eso Se Hizo",
-      "url": "https://open.spotify.com/track/1LdMkXElKMDTB8mvgyvTKe"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -391,26 +391,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Bien Beb\u00e9",
-        "url": "https://open.spotify.com/album/7k7MXCnNDvjk0kna93lyd4"
-      },
-      "artists": [
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Ey Gary",
-          "url": "https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww"
-        }
-      ],
-      "duration_ms": 163469,
-      "name": "Bien Beb\u00e9",
-      "url": "https://open.spotify.com/track/6DZzQDUdpigYzSsnCnznay"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "Ya No Somos",
         "url": "https://open.spotify.com/album/5CGjusSMsLJwCCe0rn2cv8"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 189152,
       "name": "Ya No Somos",
       "url": "https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Bien Beb\u00e9",
+        "url": "https://open.spotify.com/album/7k7MXCnNDvjk0kna93lyd4"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Ey Gary",
+          "url": "https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww"
+        }
+      ],
+      "duration_ms": 163469,
+      "name": "Bien Beb\u00e9",
+      "url": "https://open.spotify.com/track/6DZzQDUdpigYzSsnCnznay"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Las Gatas",
-        "url": "https://open.spotify.com/album/56FZSurIclX1C9JLm9px0n"
-      },
-      "artists": [
-        {
-          "name": "Mont",
-          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
-        }
-      ],
-      "duration_ms": 146303,
-      "name": "Las Gatas",
-      "url": "https://open.spotify.com/track/1QCSrngkMfPKJJN88VbXhH"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "Salvaje",
         "url": "https://open.spotify.com/album/52ZUclHV8eBvrdRMsfGjkb"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 177570,
       "name": "Salvaje",
       "url": "https://open.spotify.com/track/0KLIB8E9BhIE9FTqFeu3a7"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Las Gatas",
+        "url": "https://open.spotify.com/album/56FZSurIclX1C9JLm9px0n"
+      },
+      "artists": [
+        {
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+        }
+      ],
+      "duration_ms": 146303,
+      "name": "Las Gatas",
+      "url": "https://open.spotify.com/track/1QCSrngkMfPKJJN88VbXhH"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "\u00daltima Cena",
-        "url": "https://open.spotify.com/album/0W1PJOeAVyvlXNfarlgzw6"
-      },
-      "artists": [
-        {
-          "name": "Bernal\u00fa",
-          "url": "https://open.spotify.com/artist/5THpiJQuKXyi5lmMYIlzay"
-        }
-      ],
-      "duration_ms": 165386,
-      "name": "\u00daltima Cena",
-      "url": "https://open.spotify.com/track/1ixVBBjUHoXTZIiBNTsq3C"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "Pa' Siempre",
         "url": "https://open.spotify.com/album/5IFJYKAOgcxrzAA4VPbmrM"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 139026,
       "name": "Pa' Siempre",
       "url": "https://open.spotify.com/track/5vfTt52xIBWcTvYLYmcWuz"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "\u00daltima Cena",
+        "url": "https://open.spotify.com/album/0W1PJOeAVyvlXNfarlgzw6"
+      },
+      "artists": [
+        {
+          "name": "Bernal\u00fa",
+          "url": "https://open.spotify.com/artist/5THpiJQuKXyi5lmMYIlzay"
+        }
+      ],
+      "duration_ms": 165386,
+      "name": "\u00daltima Cena",
+      "url": "https://open.spotify.com/track/1ixVBBjUHoXTZIiBNTsq3C"
     },
     {
       "added_at": "2022-08-26 04:02:00",

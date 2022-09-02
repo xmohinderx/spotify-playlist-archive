@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2EFHyiwqtE0.md) - [plain]
 
 > Latin tunes that both you and your little one can enjoy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,222 likes - 60 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,249 likes - 60 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2EFHyiwqtE0.md) - [plain]
 | 25 | [La Gota Fria](https://open.spotify.com/track/4tXR895KKljrC2VptgyEhJ) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Clasicos de la Provincia](https://open.spotify.com/album/2WtC5PE25yxWNPpAinn2in) | 3:35 |
 | 26 | [Ciega, Sordomuda](https://open.spotify.com/track/7jxHeJLVpnP7S08JFF4GBi) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 4:27 |
 | 27 | [No Me Queda Más](https://open.spotify.com/track/1r28ZDlVxz24Rmy8Sq9REY) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 3:20 |
-| 28 | [Simplemente Amigos](https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Tierra De Nadie](https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi) | 3:47 |
-| 29 | [Espacio sideral](https://open.spotify.com/track/3OIoy3TNU7CL5PTaHOGmbR) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Esta Es Mi Vida](https://open.spotify.com/album/1DqezzIzunjysnTKPtxB98) | 3:42 |
+| 28 | [Espacio sideral](https://open.spotify.com/track/3OIoy3TNU7CL5PTaHOGmbR) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Esta Es Mi Vida](https://open.spotify.com/album/1DqezzIzunjysnTKPtxB98) | 3:42 |
+| 29 | [Simplemente Amigos](https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Tierra De Nadie](https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi) | 3:47 |
 | 30 | [Ayer y Hoy](https://open.spotify.com/track/58J23cD4zeeidroDepVhX7) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [15 Éxitos de Siempre Vol\. 5](https://open.spotify.com/album/3QgycjElVQUGvdWWewbHcE) | 2:21 |
 | 31 | [Tiburon](https://open.spotify.com/track/2GcjfckZexh9wRRjg9KtQG) | [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu) | [In Da House](https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe) | 5:03 |
 | 32 | [Mariposa Traicionera](https://open.spotify.com/track/0Pjsm4AaJGPOXHoB6xCgJB) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Revolución De Amor](https://open.spotify.com/album/6HrRHewMLfZLSkwJyZgr3V) | 4:24 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2EFHyiwqtE0.md) - [plain]
 | 59 | [No Me Ames \(with Marc Anthony\) \- Tropical Remix](https://open.spotify.com/track/2gcnNWEv9x0g6FhEeWtYuV) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 5:03 |
 | 60 | [Pero Qué Necesidad](https://open.spotify.com/track/5UTmhKIe3xRyYrNnVMNRCw) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Lo Mejor De Los Tres Grandes](https://open.spotify.com/album/3Z5BcHC31NUFParR4uostL) | 5:51 |
 
-Snapshot ID: `MTY0NjY4NjIyNCwwMDAwMDAwMGQ0OTgzYTU1N2E3Zjc2MTEzZTFiMzRlNWQxOWE2ZGY0`
+Snapshot ID: `MTY0NjY4NjIyNCwwMDAwMDAwMGIzMTdmZmU3MjgxMDczMTUyMzZlYjc5NTA4YzJiMTVk`

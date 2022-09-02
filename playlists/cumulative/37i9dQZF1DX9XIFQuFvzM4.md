@@ -4,7 +4,7 @@
 
 > Feel good with this positively timeless playlist!
 
-231 songs - 12 hr 53 min - [published](https://open.spotify.com/playlist/1vzEyOKMOiIbxyVfBjbHDh)
+232 songs - 12 hr 55 min - [published](https://open.spotify.com/playlist/1vzEyOKMOiIbxyVfBjbHDh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Ladies](https://open.spotify.com/track/6iNHWlOLt4NuDi9iSvtznO) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [My World](https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc) | 4:17 | 2021-10-19 | 2022-04-19 |
 | [Lady \(You Bring Me Up\)](https://open.spotify.com/track/7l3QyhptrvjiNS5dOcUQvr) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [The Commodores: The Definitive Collection](https://open.spotify.com/album/4mDGyVthoID64WAcff0HxR) | 4:50 | 2021-10-19 | 2022-05-23 |
 | [Land of 1000 Dances](https://open.spotify.com/track/61w1Ry5X8UUsbNoPG7zRP1) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [Rhino Hi\-Five: Wilson Pickett](https://open.spotify.com/album/3R7ZC37Ur3zx40M06RLMMd) | 2:26 | 2021-10-19 | 2022-07-29 |
+| [Land of 1000 Dances](https://open.spotify.com/track/76ICmoJ4PcoMWoooaTxnQs) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [The Exciting Wilson Pickett](https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm) | 2:26 | 2021-10-19 |  |
 | [Last One Standing](https://open.spotify.com/track/22n3sLGqLcaYKiVniC1ZOT) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw) | [Last One Standing](https://open.spotify.com/album/6vvOAVWdKzPGnkNUs0RJRc) | 7:16 | 2021-10-19 | 2022-07-29 |
 | [Let's Stay Together](https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0) | 3:19 | 2021-10-19 |  |
 | [Let's Stay Together](https://open.spotify.com/track/7kWhdmRYv8CqbWNqfojqVd) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/5MQx9U0AAIrcbvZ0lL1RCi) | 3:19 | 2021-10-19 | 2022-07-29 |
@@ -200,7 +201,7 @@
 | [Sunday Morning](https://open.spotify.com/track/5N7s7nhywtONPI5FJhabAP) | [The Main Squeeze](https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT) | [Sunday Morning](https://open.spotify.com/album/5olG5OUfCDV6O5e1Ip3YXF) | 3:49 | 2021-10-19 | 2022-07-29 |
 | [Superfly](https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Superfly \(O.S.T.\)](https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2) | 3:53 | 2021-10-19 | 2022-04-21 |
 | [Sure Don't Miss You](https://open.spotify.com/track/4k6WZXbHUFEZR02X9FhOuT) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [The Dip Delivers](https://open.spotify.com/album/5NaNDBt0tTh3Y8GiS3zfoI) | 2:54 | 2021-10-19 | 2022-07-29 |
-| [Sweet Soul Music](https://open.spotify.com/track/0pvA063uNyGQFp7DNtmk0P) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Rhino Hi\-Five: Arthur Conley](https://open.spotify.com/album/6dYQhuDC49jXh7YvTtb0oT) | 2:21 | 2021-10-19 |  |
+| [Sweet Soul Music](https://open.spotify.com/track/0pvA063uNyGQFp7DNtmk0P) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Rhino Hi\-Five: Arthur Conley](https://open.spotify.com/album/6dYQhuDC49jXh7YvTtb0oT) | 2:21 | 2021-10-19 | 2022-09-02 |
 | [Take Me to the River](https://open.spotify.com/track/62r1CS9zL1FL5Ilb7hLX7n) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Al Green Explores Your Mind](https://open.spotify.com/album/2ss0g53nagKtGnoYjwo77Q) | 3:45 | 2021-10-19 |  |
 | [Tell Me Something Good](https://open.spotify.com/track/0AECVMjxepWdsjDb49JFRd) | [Rufus](https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [The Very Best Of Rufus Featuring Chaka Khan](https://open.spotify.com/album/3o8GWA6IiUF6V4r26bF0HS) | 4:40 | 2021-10-19 | 2022-04-21 |
 | [Thank You \(Falettinme Be Mice Elf Agin\) \- Single Version](https://open.spotify.com/track/74iQ3gahRTOGc19bYadBE3) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Greatest Hits](https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT) | 4:51 | 2021-10-19 | 2022-04-21 |

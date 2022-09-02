@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 
 > Dope, Asian, and Femme\. Cover: Bella Poarch
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,819 likes - 90 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,822 likes - 90 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 54 | [I WON'T STAY](https://open.spotify.com/track/0U9gq4pfWLjoF7F4pWcMvO) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [I WON'T STAY](https://open.spotify.com/album/0m8w2qFAnW82Nn6mhmxZ7I) | 4:46 |
 | 55 | [All We Have \(feat\. Lastlings\)](https://open.spotify.com/track/3sstd2afQEb5yQw0ldiKI5) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 6:50 |
 | 56 | [Wish You Were Here](https://open.spotify.com/track/47jhKD8sm2I3Aoktj4G5J8) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [Wish You Were Here](https://open.spotify.com/album/5MgtnDKyeSkXEkKu5u82gr) | 3:41 |
-| 57 | [That XX \- Spotify Singles](https://open.spotify.com/track/7Ae5WP06rEQfq5tRqrST2j) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [That XX \- Spotify Singles](https://open.spotify.com/album/4jFrmvzBjQc9lnTeaIr8Qo) | 4:49 |
-| 58 | [Kinda Hate U Kinda Love U](https://open.spotify.com/track/3g684aXyFCH7mGH00LLMDk) | [Alex Sloane](https://open.spotify.com/artist/2oKcZslW7y9ILALBZJhoha) | [Kinda Hate U Kinda Love U](https://open.spotify.com/album/4lh9iEtOSP6VD8X4mN4E1A) | 3:13 |
+| 57 | [Kinda Hate U Kinda Love U](https://open.spotify.com/track/3g684aXyFCH7mGH00LLMDk) | [Alex Sloane](https://open.spotify.com/artist/2oKcZslW7y9ILALBZJhoha) | [Kinda Hate U Kinda Love U](https://open.spotify.com/album/4lh9iEtOSP6VD8X4mN4E1A) | 3:13 |
+| 58 | [That XX \- Spotify Singles](https://open.spotify.com/track/7Ae5WP06rEQfq5tRqrST2j) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [That XX \- Spotify Singles](https://open.spotify.com/album/4jFrmvzBjQc9lnTeaIr8Qo) | 4:49 |
 | 59 | [We Made It](https://open.spotify.com/track/2gG6IqL2enOyLdluSTcTTS) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [We Made It](https://open.spotify.com/album/15kYOLNxhabZKauG8YIUBa) | 5:14 |
 | 60 | [i'll never fall in love with myself \- demo](https://open.spotify.com/track/1IHTT1QrcLNsrXs4KVrav7) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [goodnight moon \(demos\)](https://open.spotify.com/album/5Gqq6Ws85etAcUc1cZETNc) | 1:47 |
 | 61 | [Pretty Girl Hi Reimagined](https://open.spotify.com/track/6aSdfeuUMtk7XOEHn93kkP) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Introspection Reimagined](https://open.spotify.com/album/3H1v8w26UVp4tylel4cRrr) | 3:33 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 68 | [Silver Into Rain](https://open.spotify.com/track/7IBI2S33PMaIM9pARvpIJY) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Silver Into Rain](https://open.spotify.com/album/6JlD7QPsUqPZQDoiYmENzd) | 3:21 |
 | 69 | [Our Time](https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [Our Time is Blue](https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE) | 3:38 |
 | 70 | [Someone Else](https://open.spotify.com/track/43tQOLiTfoVwURdx5Ei7yr) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Someone Else](https://open.spotify.com/album/4Hu3O4jVEImkIqYmvq2KUk) | 3:27 |
-| 71 | [Blush](https://open.spotify.com/track/3Yq6TLvajhIBIIGtx57r3N) | [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB) | [Blush](https://open.spotify.com/album/5IwO8jLcDjEip9Y3t2t0tq) | 3:33 |
-| 72 | [Alive](https://open.spotify.com/track/39LmkwLmeETbr80Uy7HIVU) | [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Alive](https://open.spotify.com/album/3EpDQMIbcSrvkU9g2drqz3) | 3:17 |
-| 73 | [Emo Song](https://open.spotify.com/track/5hQjB552fc7TQAtdzJTzLo) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fake It Flowers](https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo) | 3:38 |
-| 74 | [Seoul](https://open.spotify.com/track/3tezw2TeluZkzOEEztyjSZ) | [Sofia Kay](https://open.spotify.com/artist/3WM4raBaPOxPARlf256t5Q) | [Seoul](https://open.spotify.com/album/60v3Lr2b3Pq5tjTOTzJPpv) | 3:33 |
+| 71 | [Alive](https://open.spotify.com/track/39LmkwLmeETbr80Uy7HIVU) | [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Alive](https://open.spotify.com/album/3EpDQMIbcSrvkU9g2drqz3) | 3:17 |
+| 72 | [Blush](https://open.spotify.com/track/3Yq6TLvajhIBIIGtx57r3N) | [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB) | [Blush](https://open.spotify.com/album/5IwO8jLcDjEip9Y3t2t0tq) | 3:33 |
+| 73 | [Seoul](https://open.spotify.com/track/3tezw2TeluZkzOEEztyjSZ) | [Sofia Kay](https://open.spotify.com/artist/3WM4raBaPOxPARlf256t5Q) | [Seoul](https://open.spotify.com/album/60v3Lr2b3Pq5tjTOTzJPpv) | 3:33 |
+| 74 | [Emo Song](https://open.spotify.com/track/5hQjB552fc7TQAtdzJTzLo) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fake It Flowers](https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo) | 3:38 |
 | 75 | [Dance Like Nobody's Watching](https://open.spotify.com/track/18UGB6MfGfIQ4XevCMq4cK) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Dance Like Nobody's Watching](https://open.spotify.com/album/1KuHFlATr4aoVahHKY3pzU) | 3:45 |
 | 76 | [Rebel Girl](https://open.spotify.com/track/0siP0kovkmgAJtTfb1OUQm) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Moxie \(Music from the Netflix Film\)](https://open.spotify.com/album/3BU5ehRs8JdDm2bW78tAS5) | 2:41 |
 | 77 | [CLOUDS](https://open.spotify.com/track/1paOXtSfaeFcZfzt9msquZ) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1), [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [CLOUDS](https://open.spotify.com/album/3JohSTcgoihNPfgDTS6fdQ) | 3:16 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 85 | [Dystopia](https://open.spotify.com/track/755jaJqdAQTreuL8MLYT5K) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Hope In Chaos](https://open.spotify.com/album/3pRgDX9Fl29rR0WcQNm0tt) | 3:13 |
 | 86 | [Can you](https://open.spotify.com/track/4fOYETeXvq7Ub4E9FMY3JB) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [Can you \(Galcher Lustwerk Remix\)](https://open.spotify.com/album/3afqWbI8qEdTB2CBDiKAAD) | 3:39 |
 | 87 | [Raspberry Tongue](https://open.spotify.com/track/7dtUx6UNMsD6PQ8LhyUOXO) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Raspberry Tongue](https://open.spotify.com/album/6XQoQAnLR9icdYN9JItECG) | 2:58 |
-| 88 | [RÉSUMÉ](https://open.spotify.com/track/4ueRLPY3K49X8hKrd2CDFN) | [jenny nuo](https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz) | [RÉSUMÉ](https://open.spotify.com/album/29ibhzG3YXJMgqWqFfM3iQ) | 2:46 |
-| 89 | [Racist, Sexist Boy \- Live at LA Public Library](https://open.spotify.com/track/6GeiA9XxITMHM3jk1hkNjY) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Racist, Sexist Boy \(Live at LA Public Library\)](https://open.spotify.com/album/7MFXmsdx6um8n72tdReH3C) | 2:05 |
+| 88 | [Racist, Sexist Boy \- Live at LA Public Library](https://open.spotify.com/track/6GeiA9XxITMHM3jk1hkNjY) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Racist, Sexist Boy \(Live at LA Public Library\)](https://open.spotify.com/album/7MFXmsdx6um8n72tdReH3C) | 2:05 |
+| 89 | [RÉSUMÉ](https://open.spotify.com/track/4ueRLPY3K49X8hKrd2CDFN) | [jenny nuo](https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz) | [RÉSUMÉ](https://open.spotify.com/album/29ibhzG3YXJMgqWqFfM3iQ) | 2:46 |
 | 90 | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/track/3UQFh2pOHS3h2ivIm7Zcyf) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP) | 3:49 |
 
-Snapshot ID: `MTY2MDI3Njg2MCwwMDAwMDAwMGRlNzFiMWQ1ZGJkYzYzYWZkZDFhZGFkNDM2MTkzZWI0`
+Snapshot ID: `MTY2MDI3Njg2MCwwMDAwMDAwMDRmNjU2ZWU3MWQ5YmE5MmVhOTU2NmViNzgzODA0ZDhm`

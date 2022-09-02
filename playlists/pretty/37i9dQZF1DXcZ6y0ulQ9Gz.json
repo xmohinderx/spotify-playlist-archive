@@ -1,12 +1,12 @@
 {
   "description": "Those songs you just love to love. Cover: Men I Trust",
-  "num_followers": 25086,
+  "num_followers": 25111,
   "original_name": "Indie Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTczNjU0MiwwMDAwMDAwMDczMzM3Mzk1MTkwNzg2ZDRjNTIyYTRlODUxMWVkNGZh",
+  "snapshot_id": "MTY2MTczNjU0MiwwMDAwMDAwMGM3YTk3YTU2ZTcxMzYwMTFkZWFlYTViMmJjNDdkNTNm",
   "tracks": [
     {
       "added_at": "2022-08-23 22:00:06",
@@ -231,6 +231,22 @@
     {
       "added_at": "2022-08-23 22:00:06",
       "album": {
+        "name": "Run Away to Mars",
+        "url": "https://open.spotify.com/album/4ks1Xkpt67UXbJamJFZ8et"
+      },
+      "artists": [
+        {
+          "name": "TALK",
+          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
+        }
+      ],
+      "duration_ms": 213753,
+      "name": "Run Away to Mars",
+      "url": "https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65"
+    },
+    {
+      "added_at": "2022-08-23 22:00:06",
+      "album": {
         "name": "Chemtrails Over The Country Club",
         "url": "https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 271176,
       "name": "Chemtrails Over The Country Club",
       "url": "https://open.spotify.com/track/7bPWdJgx8vek7S5i5yAtvG"
-    },
-    {
-      "added_at": "2022-08-23 22:00:06",
-      "album": {
-        "name": "Punisher",
-        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 184524,
-      "name": "Kyoto",
-      "url": "https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI"
     },
     {
       "added_at": "2022-08-23 22:00:06",
@@ -279,34 +279,18 @@
     {
       "added_at": "2022-08-23 22:00:06",
       "album": {
-        "name": "Run Away to Mars",
-        "url": "https://open.spotify.com/album/4ks1Xkpt67UXbJamJFZ8et"
+        "name": "Punisher",
+        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
       },
       "artists": [
         {
-          "name": "TALK",
-          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 213753,
-      "name": "Run Away to Mars",
-      "url": "https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65"
-    },
-    {
-      "added_at": "2022-08-23 22:00:06",
-      "album": {
-        "name": "Solar Power",
-        "url": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 192621,
-      "name": "Solar Power",
-      "url": "https://open.spotify.com/track/7s2kWabRM60W9I61HpKg8C"
+      "duration_ms": 184524,
+      "name": "Kyoto",
+      "url": "https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI"
     },
     {
       "added_at": "2022-08-23 22:00:06",
@@ -323,6 +307,22 @@
       "duration_ms": 145634,
       "name": "i walk this earth all by myself",
       "url": "https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd"
+    },
+    {
+      "added_at": "2022-08-23 22:00:06",
+      "album": {
+        "name": "Solar Power",
+        "url": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 192621,
+      "name": "Solar Power",
+      "url": "https://open.spotify.com/track/7s2kWabRM60W9I61HpKg8C"
     },
     {
       "added_at": "2022-08-23 22:00:06",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-08-23 22:00:06",
       "album": {
-        "name": "Jubilee",
-        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 195370,
-      "name": "Be Sweet",
-      "url": "https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I"
-    },
-    {
-      "added_at": "2022-08-23 22:00:06",
-      "album": {
         "name": "Pebble Brain",
         "url": "https://open.spotify.com/album/5FjI8XVSj9YAmGAlZub7Bo"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 207010,
       "name": "Perfume",
       "url": "https://open.spotify.com/track/4OJC6NJCMyvjX0pENJhSrL"
+    },
+    {
+      "added_at": "2022-08-23 22:00:06",
+      "album": {
+        "name": "Jubilee",
+        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 195370,
+      "name": "Be Sweet",
+      "url": "https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I"
     },
     {
       "added_at": "2022-08-23 22:00:06",
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-08-23 22:00:06",
       "album": {
-        "name": "Collapsed In Sunbeams",
-        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 223413,
-      "name": "Eugene",
-      "url": "https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y"
-    },
-    {
-      "added_at": "2022-08-23 22:00:06",
-      "album": {
         "name": "Hush",
         "url": "https://open.spotify.com/album/5r1bbn7yCvl1CrBjfGM6eq"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 181893,
       "name": "Hush",
       "url": "https://open.spotify.com/track/04kybb0HCt1uaTBgYkSgwQ"
+    },
+    {
+      "added_at": "2022-08-23 22:00:06",
+      "album": {
+        "name": "Collapsed In Sunbeams",
+        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 223413,
+      "name": "Eugene",
+      "url": "https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y"
     },
     {
       "added_at": "2022-08-23 22:00:06",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2022-08-23 22:00:06",
       "album": {
-        "name": "Talk Memory",
-        "url": "https://open.spotify.com/album/594yqwr1MOvVX0UBnOWftY"
-      },
-      "artists": [
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        },
-        {
-          "name": "Arthur Verocai",
-          "url": "https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ"
-        }
-      ],
-      "duration_ms": 325828,
-      "name": "Love Proceeding",
-      "url": "https://open.spotify.com/track/5F8XPD481L6K2s8h02Vxuo"
-    },
-    {
-      "added_at": "2022-08-23 22:00:06",
-      "album": {
         "name": "ALPHA",
         "url": "https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 164693,
       "name": "I Can Only Whisper (feat. BADBADNOTGOOD)",
       "url": "https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1"
+    },
+    {
+      "added_at": "2022-08-23 22:00:06",
+      "album": {
+        "name": "Talk Memory",
+        "url": "https://open.spotify.com/album/594yqwr1MOvVX0UBnOWftY"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "Arthur Verocai",
+          "url": "https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ"
+        }
+      ],
+      "duration_ms": 325828,
+      "name": "Love Proceeding",
+      "url": "https://open.spotify.com/track/5F8XPD481L6K2s8h02Vxuo"
     },
     {
       "added_at": "2022-08-23 22:00:06",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2022-08-23 22:00:06",
       "album": {
-        "name": "Hope For Sale",
-        "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
-      },
-      "artists": [
-        {
-          "name": "Chiiild",
-          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
-        }
-      ],
-      "duration_ms": 184906,
-      "name": "Weightless",
-      "url": "https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5"
-    },
-    {
-      "added_at": "2022-08-23 22:00:06",
-      "album": {
         "name": "Kahan (last year)",
         "url": "https://open.spotify.com/album/215RCt9IFitsQ2fuDrnysX"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 216000,
       "name": "Kahan (last year)",
       "url": "https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT"
+    },
+    {
+      "added_at": "2022-08-23 22:00:06",
+      "album": {
+        "name": "Hope For Sale",
+        "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        }
+      ],
+      "duration_ms": 184906,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5"
     },
     {
       "added_at": "2022-08-23 22:00:06",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2022-08-23 22:00:06",
       "album": {
-        "name": "gr\u00e6",
-        "url": "https://open.spotify.com/album/1iYsYnkc0Bccy66X4GQ2tm"
-      },
-      "artists": [
-        {
-          "name": "Moses Sumney",
-          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
-        }
-      ],
-      "duration_ms": 250120,
-      "name": "Cut Me",
-      "url": "https://open.spotify.com/track/1A2BT8JYVRjsKdswwvWXG6"
-    },
-    {
-      "added_at": "2022-08-23 22:00:06",
-      "album": {
         "name": "medium plaisir",
         "url": "https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 292960,
       "name": "Ce n'est pas de la chance",
       "url": "https://open.spotify.com/track/4GvY9PDlREAnpeTmGJAESR"
+    },
+    {
+      "added_at": "2022-08-23 22:00:06",
+      "album": {
+        "name": "gr\u00e6",
+        "url": "https://open.spotify.com/album/1iYsYnkc0Bccy66X4GQ2tm"
+      },
+      "artists": [
+        {
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+        }
+      ],
+      "duration_ms": 250120,
+      "name": "Cut Me",
+      "url": "https://open.spotify.com/track/1A2BT8JYVRjsKdswwvWXG6"
     },
     {
       "added_at": "2022-08-23 22:00:06",
